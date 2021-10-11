@@ -46,7 +46,7 @@ sequenceDiagram
     Manager->>New SE: Check progress, ensures new ticket responses are aligned<br/> with our expectations and coaches as needed.
 
     loop Pairing Sessions
-        New SE->>New SE: Uses Pairing sessions as a tool to get help<br/>from other team mebers and to learn new topics
+        New SE->>New SE: Uses Pairing sessions as a tool to get help<br/>from other team members and to learn new topics
     end
 
     Trainer-->New SE: Schedules weekly follow up sessions.
@@ -60,7 +60,7 @@ sequenceDiagram
     Manager->>New SE: Set expectations for hybrid work split, starting with 90%/10%.
 
     loop 1:1s
-        New SE->>New SE: As more experince is gained brings the topic to 1:1<br/>looking to increase the % of Self Managed work by 10%.<br/>With a goal of ~50%/5
+        New SE->>New SE: As more experience is gained brings the topic to 1:1<br/>looking to increase the % of Self Managed work by 10%.<br/>With a goal of ~50%/5
     end
 ```
 

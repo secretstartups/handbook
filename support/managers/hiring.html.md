@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Hiring
-description: "Hiring new Customer Support team members is a multi-department process. An outline of the responsiblities of Customer Support in that process."
+description: "Hiring new Customer Support team members is a multi-department process. An outline of the responsibilities of Customer Support in that process."
 ---
 
 ## On this page
@@ -55,7 +55,7 @@ Each of these have a training module.  The technical assessments don't involve d
 
 
 ### Reviewing Assessments
-Guidlines for reviewing and giving feedback on assessments for the Support Engineer role can be found in the [Support-Assessment-Solutions](https://gitlab.com/gitlab-com/support/support-assessment-solutions/-/blob/master/README.md) project. 
+Guidelines for reviewing and giving feedback on assessments for the Support Engineer role can be found in the [Support-Assessment-Solutions](https://gitlab.com/gitlab-com/support/support-assessment-solutions/-/blob/master/README.md) project. 
 
 Assessments are assigned by the support aligned Recruiter in the Talent Acquisition team.  These are carried out asynchronously, so you could be asked to to review assessments from candidates in all regions. 
 
