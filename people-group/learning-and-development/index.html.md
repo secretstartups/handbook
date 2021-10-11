@@ -45,7 +45,7 @@ _Performance indicators_
 
 ### Principles
 
-1. **Meaningful and relevant content.** We deliver learning solutions that drive team member's development and growth to enable professional goals.
+1. **Meaningful and relevant content.** We deliver learning solutions that drive team member's development and growth to reach professional goals.
 
 1. **Values aligned.** Our learning solutions reinforce GitLab’s [values](/handbook/values/), and foster continuous learning and curiosity.
 
