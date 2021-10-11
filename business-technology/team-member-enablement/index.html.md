@@ -50,6 +50,10 @@ To read more about our Jamf deployment please visit the [**Endpoint Management**
 
 Please visit the GitLab Onboarding and machine management [handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/)
 
+#### Gitlab Laptop Offboarding
+
+Please visit the Gitlab Laptop Offboarding page for information pertaining to this process at Gitlab [handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/gitlab-laptop-offboarding/)
+
 #### Self-help and troubleshooting
 
 Experiencing some issues with your machine, access to systems, 2FA or other IT related issues? Please visit our [self-help and troubleshooting handbook page](/handbook/business-technology/team-member-enablement/self-help-troubleshooting/)
