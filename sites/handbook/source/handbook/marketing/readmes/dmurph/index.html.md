@@ -189,7 +189,7 @@ When you primarily work from home, investing in your [workspace](/company/cultur
 ![GitLab Sony A6400 webcam setup](/images/all-remote/sony-a6400-webcam-setup-gitlab.jpg){: .shadow.medium.center}
 
 * [Sony Alpha A6400 mirrorless camera](https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6400) (used as a webcam)
-* 16-50mm OSS f3.5-5.6 kit lens (would prefer a prime lens at f1.8; Job at Remote [uses one](https://blog.remote.com/maximum-productivity-home-office))
+* 16-50mm OSS f3.5-5.6 kit lens (would prefer a prime lens at f1.8; Job at Remote [uses one](https://remote.com/blog/maximum-productivity-home-office))
 * [Elgato HD 60 S+ capture card](https://www.elgato.com/en/gaming/game-capture-hd60-s-plus) (converts HDMI to USB, which converts the mirrorless camera stream into a stream that your computer recognizes as a webcam)
 * [Elgato Key Light](https://www.elgato.com/en/gaming/key-light) (directed at the wall so that light bounces softly back on my face and workspace)
 * [M-Audio Uber Mic](https://m-audio.com/ubermic)
