@@ -37,10 +37,10 @@ You can watch the recorded conferences on demand on their [Elevate event website
 
 ![elevate 2021 image](/elevate-darren.png)
 
+
 ## Taking time for mental health
 
 2021-10-10 was World Mental Health day. Spring Health shared a one-page guide called [Supporting Mental Health in an Unequal World](https://drive.google.com/file/d/12tytq8qMp4TO4DovKTkrO4ZtNkfvDNbx/view?usp=sharing) that shares data about the inequeties of mental health and health care around the globe, and what you can do to help remove stigmas about mental health.
-
 
 ## Manager resources
 
