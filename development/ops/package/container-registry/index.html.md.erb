@@ -1,0 +1,50 @@
+---
+layout: handbook-page-toc
+title: Package Group - Container Registry
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+The goal of this page is to document specific processes and tools for the [GitLab Container Registry](https://gitlab.com/gitlab-org/container-registry) project.
+
+## Historical Context
+
+In milestone 8.8, GitLab launched the MVC of the Container Registry. This feature integrated the [Docker Distribution registry](https://docs.docker.com/registry/) into GitLab so that any GitLab user can have a space to publish and share container images. 
+
+But there was an inherent problem with Docker Distribution. When you delete a container image tag, it's not actually deleted from storage. Instead, it is marked for deletion, and it will only be removed from storage when garbage collection is run. The problem is that the registry must be set to read-only mode or downtime to run garbage collection. Given the scale and SLAs of GitLab.com, it has not been possible to schedule downtime. 
+
+Fast forward many milestones, and the problem has continued to grow linearly. The GitLab.com registry consumes petabytes of storage which costs tens of thousands of dollars every month. 
+
+### What's been done so far?
+
+Two years ago, the Package group and GitLab Staff engineers had a lengthy [discussion](https://gitlab.com/gitlab-org/gitlab-foss/-/issues/62885) about how to resolve this problem and to deliver a [lovable product](https://gitlab.com/groups/gitlab-org/-/epics/5136). We evaluated several options, including:
+
+- Integrating with another service like Harbor or Docker Trusted registry
+- Building our in-house registry
+- Forking Docker Distribution and iterating on that code
+
+In the end, the decision was made to fork Docker distribution and make the requisite updates to add support for online garage collection. 
+
+Along the way, we made several other changes and modifications, which were all targeted to help GitLab and its customers tackle this storage problem. 
+
+First, we optimized the existing garbage collection algorithms for [GCS](https://gitlab.com/groups/gitlab-org/-/epics/2552) and [S3](https://gitlab.com/groups/gitlab-org/-/epics/2553), so that large enterprises could be unblocked from running garbage collection, even if it required downtime. This helped improve the performance of the algorithm by 90+ percent. 
+
+We also added programmatic [cleanup policies](https://docs.gitlab.com/ee/user/packages/container_registry/#cleanup-policy) to help customers automatically remove (even if they were not deleted from storage) old unused images. 
+
+Fast forward a bit, and, as a team, we've evaluated and iterated on designs for the implementation of online garbage collection and several plans for the migration of one registry to the next. The [epic](https://gitlab.com/groups/gitlab-org/-/epics/6405) details the work required to deploy the new metadata database to production and migrate all new and existing repositories to use the feature. 
+
+### Why we are excited
+
+The metadata database is not just about online garbage collection. It unblocks a whole new set of potential features and capabilities that will help our customers to manage and deploy their software reliably. For example, it unblocks some much-needed updates for the [API](https://gitlab.com/groups/gitlab-org/-/epics/5683) so that we can support a more [robust user interface](https://gitlab.com/groups/gitlab-org/-/epics/3211), add enterprise features like [image signing](https://gitlab.com/gitlab-org/container-registry/-/issues/83) and [protection](https://gitlab.com/gitlab-org/gitlab/-/issues/18984) and provide more stability and reliability. 
+
+By forking the project, we continued improving the application and implementing several bug fixes, performance improvements, and additional features that were not available or accepted upstream. Consequently, due to the rate of changes and how the codebases diverged, we decided to detach from upstream in [June 2020](https://gitlab.com/gitlab-org/container-registry/-/issues/139). Since then, we have been evolving the project in isolation. We continue to source changes from upstream whenever necessary (mostly security fixes), but these must be merged manually.
+
+In [February 2021](https://www.docker.com/blog/donating-docker-distribution-to-the-cncf/), Docker decided to donate Docker Distribution to the Cloud Native Computing Foundation (CNCF) to revive the project. The project was then renamed to [Distribution](github.com/distribution/distribution). Some of the GitLab Container Registry maintainers are now maintainers of the CNCF project as well.
+
+Although some of our engineers contribute to the upstream Distribution project, the codebases diverged beyond reconciliation. Therefore, there is no intention to reunite with upstream at any point in time. Some of the features we have been working on, such as the metadata database and online garbage collection (more on that later), required a significant platform re-architecture. Additionally, we will continue to tailor the GitLab Container Registry to suit the needs of GitLab the product.
