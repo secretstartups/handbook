@@ -32,7 +32,7 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 
 ### Add the `Curator` role to your EdCast profile
 
-Follow the steps outlined in the handbook to open an [individual access request for the `Curator` role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). First assign this AR to your manager for approval and to alert your manager that you've taken the relevant pathway and will be curating content for your team. After approval from your manager, please assign the AR to `@slee24`.
+Follow the steps outlined in the handbook to open an [individual access request for the `Curator` role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). First assign this AR to your manager for approval and to alert your manager that you've taken the relevant pathway and will be curating content for your team. After approval from your manager, please assign the AR to `@jallen16`.
 
 Once processed, you're ready to start curating content on your team's channel! Please reach out in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) if you need additional support.
 
@@ -67,7 +67,7 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 
 ### Add the `Learning Evangelist` role to your EdCast profile
 
-Follow the steps outlined in the handbook to open an [individual access request for the `Learning Evangelist` role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). First assign this AR to your manager for approval and to alert your manager that you've taken the relevant pathway and will be creating and contributing learning content for your team. After approval from your manager, please assign the AR to `@slee24`. and assign the AR to `@slee24`.
+Follow the steps outlined in the handbook to open an [individual access request for the `Learning Evangelist` role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). First assign this AR to your manager for approval and to alert your manager that you've taken the relevant pathway and will be creating and contributing learning content for your team. After approval from your manager, please assign the AR to `@jallen16`.
 
 Once processed, you're ready to start contributing content to GitLab Learn! Please reach out in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) if you need additional support.
 
