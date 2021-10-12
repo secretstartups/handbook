@@ -6,78 +6,63 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab Security Essentials Hands On Guide- Lab 3
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+## LAB 3 - Configure a Fuzzer for Coverage-guided Fuzzing
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+### Implement a fuzz function (aka the fuzz target)
+Coverage-guided fuzzing sends random inputs to an instrumented version of your application in an effort to cause unexpected behavior. Such behavior indicates a bug that you should address.
 
-## LAB 3- Build and Push an Image and Run Container Scanning
-### The starting gitlab-ci.yml
-This is the state of the gitlab-ci.yml at the beginning of the lab:
+The skeleton code for the fuzz target (in JavaScript) follows this pattern:
+```js
+    function fuzz(buf) // function defintion **fuzz**
+     // call your package with buf  
+      const        = buf.toString(); // define constant
+      if(    .length === 3) {    // evaluate string length
+        if (   )    // splice string and evaluate each character "[0]f  [1]u  [2]z"
+
+      }
+
+    }
+
+    module.exports = {
+      fuzz
+    };
+```
+1. Starting after the function definition **fuzz**, define a constant and assign it to the string returned from buf.toString().
+1. After that line,  open an **if** block that evaluates the length of the string constant. 
+1. If it evaluates to 3, open a nested **if** block that evaluates the following characters of the constant:
+    `string[0] === 'f' && string[1] === 'u' && string[2] === 'z')`
+1. If both sets of if-statements evaluate to TRUE, the fuzz target should throw the following error:
+    `throw Error("error")`
+1. Nothing needs to occur with the `module.exports` line. It just needs to be present in that form for Coverage-guided fuzzing to work.
+
+### Integrate the fuzz target with your CI/CD configuration (aka .gitlab-ci.yml)
+There are four sections of the YAML file that require updating in order to integrate the fuzz target with a pipeline run:
+1. **image**
+1. **stages**
+1. **include**
+1. Extending **.fuzz_base**
+
+#### Define `image` in the .gitlab-ci.yml file
+- You need to define a Docker image for the fuzzing job. For this lab, use the `node:latest` image.
+
+#### Define an additional `stage`
+- This should be named **fuzz**.
+
+#### Include an additional security template
+- That should be **Coverage-Fuzzing.gitlab-ci.yml**.
+
+#### Finally, extend .fuzz_base
+- The included template makes available the hidden job **.fuzz_base**, which must be extended for each of your fuzz targets. Each fuzz target **must** have a separate job:
 ```yml
-build:
-  image: docker:stable
-  stage: build
-  services:
-    - docker:dind
-  variables:
-    IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
+my_fuzz_target:
+  extends: .fuzz_base
   script:
-    - apk add npm
-    - npm i npm@latest -g
-    - docker 
-    - docker 
-    - docker 
+    - npm config set @gitlab-org:registry https://gitlab.com/api/v4/packages/npm/ && npm i -g @gitlab-org/jsfuzz
+    - ./gitlab-cov-fuzz run --engine jsfuzz -- fuzz.js
+```
 
-include:
-  
-```
-### Authenticate with Docker commands
-Pushing to the Container Registry with Docker commands requires authentication.
-1. Authentication with the Container Registry is required.    
-   - Authenticate with either:
-       - A personal access token.
-       - A deploy token.      
-   - Create a personal access token:
-       - You can create as many personal access tokens as you like.
-       - In the top-right corner, select your avatar.
-       - Select Edit profile.
-       - In the left sidebar, select Access Tokens.
-       - Enter a name and optional expiry date for the token.
-       - Select the desired scopes:
-           - Both of these require the minimum scope to be:
-                - For read (**pull**) access, `read_registry`.
-                - For write (**push**) access, `write_registry`.
-        - Select Create personal access token.
-        **Save the personal access token somewhere safe. After you leave the page, you no longer have access to the token.**
-    - Authenticate by running the Docker command as a script in the `gitlab-ci.yml`.   
-   ```yml
-   # Add the following command under the script task in gitlab-ci.yml
-   - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
-   ```
-### Build and push image to Container Registry
-Build and push to the Container Registry:
-
-2. Authenticate with the Container Registry.    
-    - Run the following command to build:
-```yml
-# This command builds the image of variable $IMAGE
-- docker build -t $IMAGE .
-```
-... and push to the Container Registry:
-```yml
-# This command pushes the built containerized app
-- docker push $IMAGE
-```
-3. View the container in **Packages & Registries > Container Registry**.
-### Add a Container Scanning Template to gitlab-ci.yml
-Include the Container Scanning template on gitlab-ci.yml.
-```yml
-include:
-  - template: Security/Container-Scanning.gitlab-ci.yml
-```
-Run the pipeline and look at the Security Dashboard for any Container Scanning vulnerabilities. 
+### Commit your changes to `.gitlab-ci.yml` and review vulnerabilities 
+After the pipeline has completed, review the Vulnerability Report to see what Coverage-guided fuzzing has identified.
 
 ### SUGGESTIONS?
 
