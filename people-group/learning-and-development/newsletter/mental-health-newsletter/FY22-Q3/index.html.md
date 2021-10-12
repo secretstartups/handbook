@@ -28,7 +28,7 @@ The conference included some great speakers, including our very own Darren Murph
 Other speakers include:
 
 1. Alyson Watson: Founder and CEO, Modern Health
-1. Venus Williams: Legendary Tennis Champion,Entrepreneur, and Philanthropist 
+1. Venus Williams: Legendary Tennis Champion, Entrepreneur, and Philanthropist 
 1. Ariana Huffington: Founder and CEO, Thrive Global
 1. Katrina Lake: Founder and Executive Chairperson, StitchFix
 1. Michael Pollan: Best Selling Author & Sustainable Food Advocate
