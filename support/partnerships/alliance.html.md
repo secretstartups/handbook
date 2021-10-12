@@ -17,7 +17,7 @@ Alliance Partners may contact us by submitting a ticket from the
 Alliance Partner must arrange for their account on the
 [support portal](https://support.gitlab.com) to be created for  them
 **prior to submitting a ticket for the first time**. To make that
-arrangment, they should contact their Technical Account Manager, Account
+arrangement, they should contact their Technical Account Manager, Account
 Executive or other member of their GitLab Sales team.
 
 Once the account has been created, an Alliance Partner should submit tickets

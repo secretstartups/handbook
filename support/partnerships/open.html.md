@@ -39,7 +39,7 @@ organization, or vice-versa!
 ## File uploads
 
 When Open Partners needs to send support files, we have 2 methods
-available to accomodate this:
+available to accommodate this:
 
 * Standard ticket uploads (20MB max)
 * [Support Uploader](https://about.gitlab.com/support/providing-large-files.html#support-uploader)
