@@ -48,9 +48,9 @@ The `Handover Needed` view has tickets that have already had a first reply but a
 1. Choose a ticket at or near the top of the `Needs Org / FRT` view
 1. Assign it to yourself (this takes it out of the view - see [Why assign first?](#why-assign-first))
 1. Write your reply to the customer
-1. Choose one of the following:
-    1. If the preferred region is your region or 'all regions' submit as Pending.
-    1. If the preferred region is neither your region nor 'all regions', use the [`Handover to Preferred Region`](#using-the-handover-to-preferred-region-macro)
+1. Take next steps depending on the region and the work you completed:
+    1. If you have a complete first reply, submit as Pending
+    1. If the preferred region is neither your region nor 'all regions', use the [`Handover to Preferred Region`](#using-the-handover-to-preferred-region-macro) macro
     1. If you can't reply:
         1. try to collaborate first (see [Tips for sending first replies](#tips-for-sending-first-replies))
         1. leave an internal note describing your investigation
