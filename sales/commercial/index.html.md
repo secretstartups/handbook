@@ -140,7 +140,7 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
 
 1. [Ranking your accounts](/handbook/sales/commercial/#account-ranking) - [video here](https://youtu.be/M-5OhlYxmFI)
     - Rank all accounts and explain why; log your sources for future efficiency; this needs to be your (recent) ranking, not the previous owners, nor the ranking from the prior fiscal. If it’s unchanged, make the note that it is unchanged and why
-1. Building your [custom deck](https://docs.google.com/presentation/d/1duy8kjEvNiRx8fnCvc6ZnxWwXTM_71phbG3k9rgmU4Q/edit?usp=sharing) for any opp amount over $5k SMB $10k MM **Amount** (n.b. amount, not Net ARR) that:
+1. Building your (consider changing the deck) [custom deck](https://docs.google.com/presentation/d/1duy8kjEvNiRx8fnCvc6ZnxWwXTM_71phbG3k9rgmU4Q/edit?usp=sharing) for any opp amount over $5k SMB $10k MM **Amount** (n.b. amount, not Net ARR) that:
     - Calculates the ROI of using GitLab vs. next best option (this might be vs. do nothing)
     - Provides the 2 options for the customer going forward - normally both with GitLab (example: Ult or Prem)
     - Demonstrates a customised vision for the customer: “what if you used all of GitLab to do Devops in a single app?”
