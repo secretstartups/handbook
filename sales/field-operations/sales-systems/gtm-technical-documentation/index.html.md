@@ -154,6 +154,8 @@ Code Units:
  * This alias is used by our SMB team for flat renewal support. Please see this [Section of the handbook](###) for how this is used.
 * `@Partner Help Desk`
  * This alias is used by the Channel Partner Help Desk (PHD) Team. Please see this [Section of the handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-help-desk-support-and-communication) for more information.
+* `@Sales-Comp`
+ * This alias is used by our Compensation Team and should be used to reach out to them regarding, splits, compensation etc. as it pertains to specific opportunities. 
  
 **Steps to add a Group:**
 * Do to limitations with Salesforce much of the minor updates must be implemented manually in production
