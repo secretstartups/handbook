@@ -54,7 +54,7 @@ Managers can consider re-sharing theses short videos this week in their team Sla
 | ![post 3 image](/mental-health-3.png) | [Simple shifts for sleep success](https://www.linkedin.com/learning/sleep-is-your-superpower/simple-shifts-for-sleep-success), 4 min and [Relax your brain](https://www.linkedin.com/learning/creativity-tips-for-all-weekly/relax-your-brain), 5 min |
 | ![post 4 image](/mental-health-4.png) | [desk hip stretched](https://www.linkedin.com/learning/chair-work-yoga-fitness-and-stretching-at-your-desk/hip-stretches), 5 min and [seated mountain pose](https://www.linkedin.com/learning/chair-work-yoga-fitness-and-stretching-at-your-desk/seated-mountain), 3 min  |
 
-(post 3 has been omitted as it was a time-sensitive webinar event)
++(post 2 has been omitted as it was a time-sensitive webinar event)
 
 
 ## Discussion 
