@@ -20,6 +20,40 @@ When opportunities are approaching closed/won and planning for these stages is o
 
 This page aims to help the ISR/SAL understand the services that certain types of customers typically engage in and how to position those services when building out a success plan.
 
+## Value of GitLab Professional Services
+![Professional Services Value](./ps-value.png)
+
+<!-- ### Elevator Pitch
+
+**The Problem - Customer Perspective**
+
+The customer has decided that GitLab is their tool of choice going forward, but has concerns about realizing the value of GitLab quickly and seamlessly.  These concerns can be in various areas:
+
+* Lack of subject matter expertise on the GitLab technology stack
+* Lack of adequate resources to promptly stand up GitLab
+* Lack of sufficient resources to stand up GitLab in a highly-available or geographically dispersed way
+* Concern around a large number of users coming off of legacy systems
+* Concerns about change management for new processes
+* Lack of confidence in the ability to deliver on the transformative promise of adopting "all" of GitLab
+
+**Solution** -->
+
+### Single Sentence
+
+With PS engagement, customers start leveraging the full capabilities of GitLab earlier with improved proficiency, reduced risk, and increased competitive advantage. 
+
+### Short Message
+
+"The whole is greater than the sum of its parts" - and this is particularly true in modern software development. GitLab makes the collaboration around software delivery as efficient as possible. We provide services to minimize the transition period to gitlab and help you get back to peak efficiency quickly. We provide specialized training to educate users in these software development and delivery practices using gitlab.
+
+### Long Message
+
+Adopting GitLab gives you the only single DevOps platform on the market. GitLab Professional Services will help you align your people and processes to match.
+
+Our Professional Services team is made up of not only GitLab subject matter experts but seasoned DevOps professionals who have experience in deploying and maintaining both large-scale applications as well as creating and teaching best practices throughout the SDLC.  Our experts help lead DevOps Transformations, providing direct support to our customer’s strategic business initiatives.  Their experience with other Fortune 500 enterprises allows you to crowd-source your enterprise’s digital transformation.
+
+GitLab's Professional Services team exists to enable you to realize the full value of your GitLab installation.  We can provide direct implementation support to ensure your GitLab installation is resilient and secure.  We also offer migration services to facilitate your transition to GitLab by delivering a clean dataset to resume operations at once.   Our education and specialized training provide training in best practices, such as CI/CD, version control, metrics, and more.
+
 ## Customer Archetypes
 
 ### Mid-Market to Enterprise coming from non-gitlab SCM
@@ -51,38 +85,7 @@ Some customers have a team of git ninjas who can manage migration and setup quic
 
 For these customers consider our [Education Services](/services/education/) (Basics, CI/CD, Devops Fundamentals)
 
-## Value sell for Professional Services
 
-<!-- ### Elevator Pitch
-
-**The Problem - Customer Perspective**
-
-The customer has decided that GitLab is their tool of choice going forward, but has concerns about realizing the value of GitLab quickly and seamlessly.  These concerns can be in various areas:
-
-* Lack of subject matter expertise on the GitLab technology stack
-* Lack of adequate resources to promptly stand up GitLab
-* Lack of sufficient resources to stand up GitLab in a highly-available or geographically dispersed way
-* Concern around a large number of users coming off of legacy systems
-* Concerns about change management for new processes
-* Lack of confidence in the ability to deliver on the transformative promise of adopting "all" of GitLab
-
-**Solution** -->
-
-### Single Sentence
-
-GitLab Professional Services helps organizations accelerate time to market by helping customers get to first value sooner by helping rollout gitlab and educate users on best practices.
-
-### Short Message
-
-"The whole is greater than the sum of its parts" - and this is particularly true in modern software development. GitLab makes the collaboration around software delivery as efficient as possible. We provide services to minimize the transition period to gitlab and help you get back to peak efficiency quickly. We provide specialized training to educate users in these software development and delivery practices using gitlab.
-
-### Long Message
-
-Adopting GitLab gives you the only single application that supports Concurrent DevOps on the market. GitLab Professional Services will help you align your people and processes to match.
-
-Our Professional Services team is made up of not only GitLab subject matter experts but seasoned DevOps professionals who have experience in deploying and maintaining both large-scale applications as well as creating and teaching best practices throughout the SDLC.  Our experts help lead Concurrent DevOps Transformations, providing direct support to our customer’s strategic business initiatives.  Their experience with other Fortune 500 enterprises allows you to crowd-source your enterprise’s digital transformation.
-
-GitLab's Professional Services team exists to enable you to realize the full value of your GitLab installation.  We can provide direct implementation support to ensure your GitLab installation is resilient and secure.  We also offer migration services to facilitate your transition to GitLab by delivering a clean dataset to resume operations at once.   Our education and specialized training provide training in best practices, such as CI/CD, version control, metrics, and more.
 
 ## Sales Collateral
 
