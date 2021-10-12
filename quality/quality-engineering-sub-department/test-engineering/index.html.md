@@ -53,7 +53,7 @@ The following guidelines provide more detail, as well as suggested responsibilit
 
 * Use the issue to start a discussion about test strategy, to come up with clear test deliverables for tests at different levels.
   * List the test deliverables in the feature merge request(s).
-  * You can use [test design heuristics](/handbook/engineering/quality/test-engineering/#test-heuristics) to determine what tests are required. It's not necessary to use test design heuristics explicitly, but it can be helpful to clarify how you come up with tests; it helps to guide discussion and create shared understanding.
+  * You can use [test design heuristics](/handbook/engineering/quality/quality-engineering-sub-department/test-engineering/#test-heuristics) to determine what tests are required. It's not necessary to use test design heuristics explicitly, but it can be helpful to clarify how you come up with tests; it helps to guide discussion and create shared understanding.
 * If a merge request touches the feature specs `spec/features`, involve your counterpart Software Engineer in Test to review the merge request.
 * If a feature requires an end-to-end test, add a `Requires e2e tests` label to the feature issue or merge request.
   * Before merging the feature merge request, ensure the end-to-end test merge request is linked to the feature merge request.
