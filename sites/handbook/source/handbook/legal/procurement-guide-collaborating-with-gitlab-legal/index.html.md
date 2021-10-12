@@ -51,7 +51,7 @@ Negotiating Terms and Conditions: [Negotiating Terms](https://about.gitlab.com/h
 ## Negotiating Terms
 - For any purchases made by GitLab, there must be applicable terms and conditions. 
 - GitLab prefers to use the [Standard Terms and Conditions](https://about.gitlab.com/handbook/finance/procurement/vendor-guidelines/#standard-vendor-terms-and-conditions), which includes terms related to purchasing both software and/or professional services.
-- For information regarding purchase requests and negotiation thresholds, please visit the [Procurement Toolkit](https://about.gitlab.com/handbook/finance/procurement/purchase-request-process/).
+- For information regarding purchase requests and negotiation thresholds, please visit the [Procurement handbook](/handbook/finance/procurement/).
 
 ## Helpful Resources
 - Many Vendors require basic information about GitLab to be setup as a Customer, visit [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) for general information about each GitLab legal entity
