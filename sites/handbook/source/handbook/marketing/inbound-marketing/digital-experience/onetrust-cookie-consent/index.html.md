@@ -86,3 +86,20 @@ We should always provide an option for users to re-configure their cookies. We c
 ```
 
 This button can be styled as needed with custom css. 
+
+
+## JavaScript
+
+The `cbextras.js` file handles how elements of the static site are displayed in the case that their cookies have been blocked. Currently, the elements that could have limited functionality are the following:
+
+- YouTube (as well as video thumbnail images pulled from YouTube)
+- Vimeo
+- Sched
+- Disqus
+- Marketo
+
+The way the `cbextras.js` file handles each of these tools can vary, but typically it will search for instances of that element on the page (such as an `iframe` with YouTube as the source) and if cookie consent has not been given, it will display a message telling the user they may need to allow cookies.
+
+_Note: YouTube videos on the marketing website should not use the `youtube-nocookie` url. The nocookie URL will place cookies once the user hits the play button, even without their consent More info [here](https://complianz.io/youtube-and-the-gdpr-how-to-embed-youtube-on-your-site/)._
+
+Whenever a new element is added to the marketing site with the potential to invoke tracking or marketing cookies, its behaviour should be tested with all cookies declined. Marketing Operations (#mktgops) should also be contacted to trigger a re-scan of the website in OneTrust, which will help detect and categorize new cookies. 
