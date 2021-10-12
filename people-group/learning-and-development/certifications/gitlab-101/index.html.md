@@ -102,9 +102,9 @@ All of these terms will be used at GitLab, but the most common ones are:
 
 ### Practice Your Knowledge
 
-Before taking the quiz, practice your knowledge on technical terminology with these [flashcards](https://www.flippity.net/fc.asp?k=1_jf6kg7EVGAhn5YJaxUz0TdavEfh1S2XPxyE4OnqWYE&t=card).
+Before taking the quiz, practice your knowledge on technical terminology with these [flashcards](https://www.cram.com/flashcards/technical-terminology-12355727).
 
-To use the flashcards, click on the link above. You can review the flashcards in a variety of different ways. You can use them like normal (virtual) index card flashcards with the vocab word on the front and click on the index card to reveal the definition on the back. You can also use the other flashcard functions such as: List, Practice, or Matching.
+To use the flashcards, click on the link above. You can review the flashcards in a variety of different ways. You can use them like normal (virtual) index card flashcards with the vocab word on the front and click on the index card to reveal the definition on the back. You can also use the other flashcard functions like Memorize and Test.
 
 ### Quiz - Lesson 1: Technical Terminology
 
