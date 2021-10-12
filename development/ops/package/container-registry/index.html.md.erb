@@ -48,3 +48,35 @@ By forking the project, we continued improving the application and implementing 
 In [February 2021](https://www.docker.com/blog/donating-docker-distribution-to-the-cncf/), Docker decided to donate Docker Distribution to the Cloud Native Computing Foundation (CNCF) to revive the project. The project was then renamed to [Distribution](github.com/distribution/distribution). Some of the GitLab Container Registry maintainers are now maintainers of the CNCF project as well.
 
 Although some of our engineers contribute to the upstream Distribution project, the codebases diverged beyond reconciliation. Therefore, there is no intention to reunite with upstream at any point in time. Some of the features we have been working on, such as the metadata database and online garbage collection (more on that later), required a significant platform re-architecture. Additionally, we will continue to tailor the GitLab Container Registry to suit the needs of GitLab the product.
+
+## Observability
+
+### Metrics and Dashboards
+
+The registry exports metrics about all its components (HTTP API, storage, database and online GC) to Prometheus. These metrics are geared towards operational metrics only. Due to cardinality limitations in Prometheus, metrics that require variable labels such as repository and image identifiers are exposed through the application logs.
+
+For GitLab.com, the container registry has multiple dashboards in Grafana and Kibana, listed below. Like for any other GitLab application, observability is critical. Take your time to go through all dashboards and becoming familiar with their layout and functionalities.
+
+All the underlying metrics for the Grafana and Kibana dashboards are also available on self-managed installs.
+
+#### Grafana
+
+* [Overview](https://dashboards.gitlab.net/d/registry-main/registry-overview?orgId=1) - Main service dashboard. Provides an overview of the Service Level Indicators (SLI). The information is available for all the service components.
+* [Application Detail](https://dashboards.gitlab.net/d/registry-app/registry-application-detail?orgId=1) - Detailed information about the application metrics. Provides insight about the HTTP API and the hosts resources usage.
+* [Storage Detail](https://dashboards.gitlab.net/d/registry-storage/registry-storage-detail?orgId=1) - Consolidated information about the registry storage backend - Google Cloud Storage (GCS).
+* [Database Detail](https://dashboards.gitlab.net/d/registry-database/registry-database-detail?orgId=1) - Fine grain metrics about the metadata database.
+* [Garbage Collection Detail](https://dashboards.gitlab.net/d/registry-gc/registry-garbage-collection-detail?orgId=1) - Extensive metrics related to the online GC feature.
+* [Migration Detail](https://dashboards.gitlab.net/d/registry-migration/registry-registry-migration-detail?orgId=1) - Temporary dashboard to support the ongoing GitLab.com deployment and migration ([gitlab-org&5523](https://gitlab.com/groups/gitlab-org/-/epics/5523)).
+* [PgBouncer](https://dashboards.gitlab.net/d/pgbouncer-registry-main/pgbouncer-registry-overview) - Metrics for the PgBouncer nodes in front of the registry PostgreSQL database cluster.
+
+#### Kibana
+
+* [Main](https://log.gprd.gitlab.net/goto/7ac27e1df0f8fca57ad8ceb383696821) - Overview of several registry metrics.
+* [Blob Downloads](https://log.gprd.gitlab.net/goto/05f1f0f38ca1af421d70691d6e80c069) - Provides additional insight about downloads at the top-level namespace and repository levels.
+
+### Logs
+
+The container registry exposes structured access and application logs. For GitLab.com, these logs can be found in Kibana:
+
+* [Non-production](https://nonprod-log.gitlab.net/goto/f3fbccdb9dea6805ff5bbf1e0144a04e): Logs for the development, staging, and pre-production environments.
+* [Production](https://log.gprd.gitlab.net/goto/7dc6f73d5dd4cc4bebcd4af3b767cae4): Logs for the production environment.
