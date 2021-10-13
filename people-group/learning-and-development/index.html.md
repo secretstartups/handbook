@@ -250,6 +250,20 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Be8oRHp0E84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
  
+ ### Learning Definitions
+
+| Term | Definition | Duration |
+| ------ | ------ | ------ |
+| Curriculum | A series of learning paths that comprise a course of study on a skill-based topic | Varies |
+| Learning Path | A chosen route taken be a learner through a range of learning activities to build knowledge progressivley | Varies |
+| Bite-sized learning | A short course to learn a skill. Bite-sized can be a compentent of training | Max 15 minutes, 5 to 10 minute average | 
+| Self-paced course | Learner has the control in the amount of material they want to consume. | Pre-defined by the designer (i.e. hours, days, etc.))
+| Training | The action of teaching a team member a particular skill or behavior | Varies |
+| Virtual Instructor Led | Training that is delivered in a virtual enviornment (i.e. training in Zoom)| 1 to 3 hours |
+| Instructor Led Training | Practice of training and learning material between an instructor and learners. Face-to-face training. | Varies | 
+| Webinar | A seminar conducted virtually to a large audience | 3+ hours | 
+| Workshop | Hand's or or virtual demo's, problem solving, tutorials where team members engage in discussion and activity on a particular subject | Varies | 
+| Smart
 
 
 
