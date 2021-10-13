@@ -6,7 +6,7 @@ title: Online Sales & Self Service Product & Data Analytics
 The Online Sales & Self Service Product & Data Analytics job family is responsible for all Product & Data Analytics solutions driving the growth and maturity of Self Service at GitLab.
 
 ## Senior Analyst, Online Sales & Self Service Data
-The Senior Data Analyst role is responsible for creating and scaling our use of data for GtiLab’s self-service business. This is a dynamic role focusing on product analytics, target setting, performance tracking and ad hoc strategic products. 
+The Senior Data Analyst role is responsible for creating and scaling our use of data for GitLab’s self-service business. This is a dynamic role focusing on product analytics, target setting, performance tracking and ad hoc strategic products. 
 
 The Senior Analyst, Online Sales & Self Service Data reports to the Senior Manager, Online Sales & Self Service Product & Data Analytics.
 
@@ -24,6 +24,46 @@ The Senior Analyst, Online Sales & Self Service Growth is a [grade 7](https://ab
 * Monitor metric & business performance
 * Be proactive and identify trends or flag potential issues
 * Establish KPIs and targets for measuring the impact of the self-service initiatives
+
+### Requirements
+* Ability to use GitLab
+* BS/BA degree in business engineering, economics, or related degree OR equivalent combination of education, training, and experience
+* Demonstrated progressive of experience in data analytics
+* Excellent written and verbal communication skills
+* Comfortable presenting data and providing recommendations with confidence to senior level stakeholders, even when there is ambiguity involved
+* A knack for identifying and investigating anomalies in data and operations
+* Familiarity with product analytics and tools (e.g. Amplitude)
+* Familiarity with sales & marketing funnel reporting and industry KPIs, such as website sessions, MQLs, pipeline, and bookings
+* Familiarity with BI tools (e.g. Explore, Tableau) and Excel / Google Sheet functions
+* Experience with SQL,  data warehouses and/or scripting languages (e.g. Python, BigQuery, MySQL)
+* Experience analyzing CRM data (e.g. Salesforce) and web tracking (e.g. Google Analytics)
+
+### Performance Indicators
+* [nARR vs. plan](https://about.gitlab.com/handbook/sales/performance-indicators/#iacv-vs-plan) > 1 through development of self-service targets
+* [nARR efficiency](https://about.gitlab.com/handbook/sales/performance-indicators/#iacv-vs-plan) > 1.0 through development of self-service targets
+* Increased adoption of self-service solutions (buying & account management) driving increased customer satisfaction and Rep productivity leveraging product data insights and recommendations
+
+## Manager, Online Sales & Self Service Product & Data Analytics
+The Data Manager role is the hub of the analytical function of our team: responsible for creating and scaling our use of data for GitLab’s self-service business and delivering visibility of the self-service experience to Sales. This role will focus on building our foundational data infrastructure, tools, and insights.
+
+The Manager, Online Sales & Self Service Data reports to the Senior Manager, Online Sales & Self Service Product & Data Analytics.
+
+### Job Grade
+The Manager, Online Sales & Self Service Growth is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Responsibilities
+* Inspire and empower our self-service team  to leverage data to drive action, measure and prove success
+* Responsible for hiring and managing an Analyst/Sr. Analyst 
+* Create end-to-end data funnel view that allows us to understand the self-service customer experience through data. Leverage to provide feedback to Fulfillment and Growth teams
+* Own collecting requirements, establishing KPIs/targets, and building self-service specific dashboards
+* Partner with sales to define requirements for insights and visibility into self-service experience. Work with product intelligence and ops to operationalize the delivery
+* Develop repeatable and scalable experiment process: creating cohorts, measuring success, and providing result read-outs
+* Ownership in scoping, sizing and delivering multiple requests balancing prioritization, efficiency and quality
+* Provide feedback to core data teams about data gaps and tools
+* Comfortable working with large data sets via query languages and BI tools for dashboards and reporting
+* Develop strategies and drive team focus based on data insights and findings
+* Monitor performance and be able to explain why trends occur (e.g. investigating the ‘why’ behind target attainment)
+* Be proactive and identify trends or flag potential issues
 
 ### Requirements
 * Ability to use GitLab
