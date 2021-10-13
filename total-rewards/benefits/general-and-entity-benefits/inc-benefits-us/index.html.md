@@ -20,7 +20,7 @@ US based benefits are arranged through Willis Towers Watson and managed on the [
  
 **The 2021 Open Enrollment for the 2022 plan year will take place November 8th through November 19th. Your plan will renew January 1, 2022. This will be a passive enrollment, it is not required to log into PlanSource to complete your enrollment unless you wish to make a change _and/or to enroll in a Flexible Spending Account (FSA) or Dependent Care FSA (DCFSA) for 2022. You will not have an FSA or DCFSA in 2022 if you do not elect into them during Open Enrollment._** Information and a digital benefits guide for 2022 will be made available soon
  
-Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits.
+Please review the full [summary plan description](https://drive.google.com/file/d/1dyfkG79o31zknmTPDzn2CY1oQ6Wg3k8S/view?usp=sharing) of all related health benefits.
  
 ## Who To Contact
  
