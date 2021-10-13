@@ -72,7 +72,7 @@ Ideally, the functional lead is someone who is an IC working in the affected gro
 | Functional Lead    | Phil Hughes              | Create:Code Review        | Staff Frontend Engineer                       |
 | Functional Lead    | José Iván Vargas López   | Verify:Pipeline Execution | Senior Frontend Engineer                      |
 | Functional Lead    | Scott Hampton            | Verify:Testing            | Acting Engineering Manager                    |
-| Functional Lead    | Daniel Tian              | Secure:Threat Insights    | Senior Frontend Engineer                      |
+| Functional Lead    | Savas Vedova             | Secure:Threat Insights    | Senior Frontend Engineer                      |
 | Functional Lead    | Mark Florian             | Foundations               | Senior Frontend Engineer                      |
 | Functional Lead    | Paul Gascou-Vaillancourt | Secure                    | Senior Frontend Engineer                      |
 | Functional Lead    | Jeremy Elder             | UX                        | Staff Product Designer                        |
