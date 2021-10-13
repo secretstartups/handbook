@@ -37,7 +37,7 @@ We equip & empower individual contributors and people leaders to access self-ser
 
 _Performance indicators_ 
 
-1. Reduce voluntary attrition by 5% each year by measuring [exit survey data] (https://about.gitlab.com/handbook/people-group/offboarding/#exit-survey) related to career development
+1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](https://about.gitlab.com/handbook/people-group/offboarding/#exit-survey) related to career development
 2. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
 3. Increase in access to career mobility: internal transfers, [promotions](/handbook/people-group/promotions-transfers/, job shadows, intern for learning, and professional development
 4. Evidence of best in class remote learning & development (i.e. [Brandon Hall Awards](https://www.brandonhall.com/excellenceawards/index.html), Industry Speaking Events, Thought Leadership articles, etc.)
@@ -250,23 +250,6 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Be8oRHp0E84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
  
-## Performance Indicators
 
-- **Engagement Survey Growth and Development Score > X%**
-
-Questions related to growth and development on the semi-annual [Engagement Survey](/handbook/people-group/engagement/) have a favorable score. The exact target is to be determined.
-
-- **Rate of internal job promotions > X%**
-
-Total number of [promotions](/handbook/people-group/promotions-transfers/) in a rolling six month period/total number of employees. The target for this is to be determined.
-
-- **12-month voluntary team member turnover related to growth < X%**
-
-This performance indicator is calculated the same as [12 month voluntary team member turnover KPI](/handbook/people-group/people-group-metrics/#team-member-turnover) but uses the number of team members actively choosing to leave GitLab for growth and development related reasons only. The target is to be determined.
-
-- **Exit Survey Data < 5 % of team members exiting GitLab related to L&D**
-- **This is my first commit request**
-
-Questions related to Learning & Development opportunities at GitLab through [Exit Survey Data](https://docs.google.com/document/d/1kPmaQwAsTujbclFSH2J2Le-OAPT1BP5JitFyCqe1BO8/edit#)
 
 
