@@ -79,7 +79,7 @@ Topic pages managed through Netlify CMS exist at [https://about.gitlab.com/topic
 
 ### Typeform quizzes/landing pages
 
-A Typeform page is a landing page that includes an embeddable Typeform quiz on it. Here is an example: [https://about.gitlab.com/quiz/devops-platform/](https://about.gitlab.com/quiz/devsecops-security-checklist/)
+A Typeform page is a landing page that includes an embeddable Typeform quiz on it. Here is an example: [https://about.gitlab.com/quiz/devops-platform/](https://about.gitlab.com/quiz/devops-platform/)
 
 Typeform pages managed through Netlify CMS can be found at [https://about.gitlab.com/quiz/](https://about.gitlab.com/quiz/). The content is located/stored in the [/data/typeform](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/typeform) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these data files.
 
