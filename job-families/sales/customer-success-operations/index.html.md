@@ -120,6 +120,7 @@ The Manager Customer Success Operations is a [grade 8](/handbook/total-rewards/c
 
 #### Manager Customer Success Operations Responsibilities
 
+* Lead the Customer Success Operations Team
 * Build and optimize a company-wide customer success process in collaboration with the customer success team and broader GitLab organization
 * Develop and implement lifecycle processes, policies and metrics to support customer outcomes and business growth, defining the appropriate touch points (i.e., human-led and digital) throughout the customer journey (pre and post initial sale)
 * Develop methods, processes, systems and tools to appropriately support our customer segmentation strategies
@@ -134,7 +135,7 @@ The Manager Customer Success Operations is a [grade 8](/handbook/total-rewards/c
 #### Manager Customer Success Operations Requirements
 
 * BA/BS degree
-* Progressive years supporting Customer Success teams
+* Progressive years leading Customer Success and/or Operations teams
 * Relevant experience delivering on-time outcomes in program management and/or operations
 * Relevant people management experience
 * Experience with Customer Success Management systems (e.g., Gainsight/Totango/Client Success/etc., digital marketing tools)
@@ -176,6 +177,7 @@ The Senior Manager Customer Success Operations is a [grade 9](/handbook/total-re
 
 #### Senior Manager Customer Success Operations Requirements
 * Extends that of the Manager Customer Success Operations Requirements
+* Significant experience leading Customer Success and/or Operations teams
 * Expertise supporting and advisor Customer Success teams
 * Unflappable in delivering presentations and demos with executive awareness
 * Strong and relevant experience in program management and/or operations
