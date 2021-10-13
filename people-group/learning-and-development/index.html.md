@@ -9,23 +9,54 @@ title: Learning & Development
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Introduction
+## Overview
 
-Welcome to the Learning & Development (L&D) page at GitLab! L&D is an essential part of any organization's growth, success, and overall business strategy. We want to support the growth of our GitLab team-members' competencies, skills, and knowledge by providing them with the tools they need and the opportunities to progress their own personal and professional development.  
+### Purpose
 
-## How to Communicate with Us
+_Why we exist_
 
-Slack: `#learninganddevelopment`
+L&D is here to guide team members on their career journey by maintaining a culture of learning and development so that GitLab is a great place to work. We ensure team members can do their jobs so that GitLab can achieve results that make our customers and people happy. 
 
-Email Us: `learning@gitlab.com`
+### Vision 
 
-[Request support/Collaborate on new learning content](/handbook/people-group/learning-and-development/work-with-us)
+_Where are we going_
 
-Please take 5 minutes for a survey to [tell us how do you prefer to learn](https://forms.gle/Hafkqygy6LfJxWFw6)!
+A future where GitLab is best in class organization for remote learning & development, recognized by industry leaders. A future where **everyone contributes** to a culture of curiosity driven by team members. 
 
+### Mission
 
-## Mission
-Our mission is to provide resources to enable team members to succeed in their current roles and develop new skills to further their professional and personal development. L&D provides adaptive and blended growth and development opportunities, including skills building, career development, and technical training that aligns with GitLab's strategic priorities of talent development & retention. L&D's mission is to cultivate a culture of curiosity and continuous learning. 
+_What we do_
+
+We equip & empower individual contributors and people leaders to access self-service learning that role models a culture of development. We do this by: 
+
+- Focusing on skill-based learning 
+- Enabling access to resources to improve career mobility 
+- Developing learning journeys for teams throughout the organization
+
+### Objectives
+
+_Performance indicators_ 
+
+1. Reduce voluntary attrition by 5% each year by measuring [exit survey data] (https://about.gitlab.com/handbook/people-group/offboarding/#exit-survey) related to career development
+2. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
+3. Increase in access to career mobility: internal transfers, [promotions](/handbook/people-group/promotions-transfers/, job shadows, intern for learning, and professional development
+4. Evidence of best in class remote learning & development (i.e. [Brandon Hall Awards](https://www.brandonhall.com/excellenceawards/index.html), Industry Speaking Events, Thought Leadership articles, etc.)
+
+### Principles
+
+1. **Meaningful and relevant content.** We deliver learning solutions that drive team member's development and growth to reach professional goals.
+
+1. **Values aligned.** Our learning solutions reinforce GitLab’s [values](/handbook/values/), and foster continuous learning and curiosity.
+
+1. **Diverse approaches to learning.** We apply a blended learning model for learning solutions that adapt to various learning needs.
+
+1. **Community.** We make our L&D offerings available to the public, aligned to our mission that everyone can contribute.
+
+### What are we not responsible for
+
+1. Customer & Product Training
+2. Designing, developing, and delivering all training to team members
+
 
 ### GitLab Learning Strategy & Roadmap
 
@@ -43,24 +74,6 @@ All material in the handbook is considered training. The Learning & Development 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-### GitLab Learning & Development Principles
-
-1. **Meaningful and relevant content.** We deliver learning solutions that drive team member's development and growth to enable professional goals.
-
-1. **Values aligned.** Our learning solutions reinforce GitLab’s [values](/handbook/values/), and foster continuous learning and curiosity.
-
-1. **Diverse approaches to learning.** We apply a blended learning model for learning solutions that adapt to various learning needs.
-
-1. **Community.** We make our L&D offerings available to the public, aligned to our mission that everyone can contribute.
-
-### Learning and Development Responsibilities
-
-* Set learning strategy to develop and attract GitLab talent through a blend of immersive learning experiences
-* Identifies and develops strategic relationships across the organization to motivate and develop team members
-* Demonstrate thought leadership and subject matter expertise in learning while applying adult learning theories
-* Design learning solutions and experiences in support of organizational values and culture, leadership principles, people manager core capabilities, career development, and more
-* Deliver and develop training content to meet our strategic goals
-* Perform learning needs analysis with leadership and e-group to understand and execute on learning and development opportunities
 
 ### L&D Organization
 
@@ -71,6 +84,16 @@ We are a small team, but we've got a big role to play at GitLab!
 * [Learning and Development Associate](/job-families/people-ops/learning-development-specialist/#learning--development-associate): [Samantha Lee](/company/team/#slee24)
 * [Instructional Designer](/job-families/people-ops/instructional-designer/): [Irina Grosu](https://gitlab.com/IrinaGrosu)
 * [Learning System Administrator](/job-families/people-ops/learning-system-administrator/): [Jamie Allen](https://gitlab.com/jallen16)
+
+## How to Communicate with Us
+
+Slack: `#learninganddevelopment`
+
+Email Us: `learning@gitlab.com`
+
+[Request support/Collaborate on new learning content](/handbook/people-group/learning-and-development/work-with-us)
+
+Please take 5 minutes for a survey to [tell us how do you prefer to learn](https://forms.gle/Hafkqygy6LfJxWFw6)!
 
 ## FY22 Learning and Development Calendar 
 
@@ -173,7 +196,6 @@ Additional planning and notes around the sprint board can be found in [this issu
 - Consider using the `content-scoping` issue template when proposing a new pathway, creating a new course, or building any new learning experience
 
  
-
 ### Top five training content development principles
 
 If you are developing content to meet your learning needs or partnering with the L&D team, here are five key principles to consider when formulating a learning session: 
@@ -228,7 +250,6 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Be8oRHp0E84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
  
-
 ## Performance Indicators
 
 - **Engagement Survey Growth and Development Score > X%**
@@ -247,4 +268,5 @@ This performance indicator is calculated the same as [12 month voluntary team me
 - **This is my first commit request**
 
 Questions related to Learning & Development opportunities at GitLab through [Exit Survey Data](https://docs.google.com/document/d/1kPmaQwAsTujbclFSH2J2Le-OAPT1BP5JitFyCqe1BO8/edit#)
+
 
