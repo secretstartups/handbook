@@ -14,7 +14,7 @@ Thanks for reading the 4th edition of the Mental Health newsletter from the GitL
 
 This edition of the newsletter also features a visual highlight newsletter that was shared with team members in Slack.
 
-![newsletter highlights image](/newsletter-highlights.png)
+![newsletter highlights image](/newsletter-highlights.png){: .medium.center}
 
 
 ## GitLab Resource Feature
@@ -35,7 +35,7 @@ Other speakers include:
 
 You can watch the recorded conferences on demand on their [Elevate event website](https://www.modernhealth.com/elevate). 
 
-![elevate 2021 image](/elevate-darren.png)
+![elevate 2021 image](/elevate-darren.png){: .medium.center}
 
 
 ## Taking time for mental health
