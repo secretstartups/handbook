@@ -15,11 +15,7 @@ Welcome to the certifications page! Here you will find links to our current cert
 
 ## Certifications 
 
-Certifications at GitLab show how competent an individual team member is in applying knowledge and skills in the workplace and completion of training material. Certifications are summative in nature in that they measure the culmination of learning's and are all-encompassing with a formative assessment and learning path completion. GitLab has also begun to issue [external certifications](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) for GitLab users to demonstrate their skills and knowledge using GitLab solutions.
-
-## Why Certification? 
-
-Certification programs allow GitLab to validate skills, knowledge, and behavior to recognize individual mastery that motivate learners to grow skills and professional performance. 
+Certifications at GitLab is a credential that indicates a community member has acquired the knowledge, skills, and abilities required to perform a specific occupation, skill, or job. An examination process shows that the learner has acquired the knowledge, skills, and abilities. 
 
 ### Current Certifications 
 
