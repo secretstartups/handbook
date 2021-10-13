@@ -29,6 +29,13 @@ This page will serve as a directory for our team members employed through a GitL
 </details>
 <details>
   <summary markdown="span">GitLab GmbH (Germany)</summary>
+
+### Germany 
+**Health and Safety**
+
+To ensure the health and safety of our team members in Germany, and to maintain compliance with the German Occupational Safety and Health Act, all team members in Germany will complete the following checklist at onboarding. This checklist will be reviewed annually. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, or you need to report an incident, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
+
+- [Work from Home Checklist](https://docs.google.com/document/d/1Z3i-vrkcU5ald0j-scf2rgTumwFCc_sI/edit?usp=sharing&ouid=106298195226644329866&rtpof=true&sd=true)
 </details>
 <details>
   <summary markdown="span">GitLab GK (Japan)</summary>
@@ -47,10 +54,26 @@ This page will serve as a directory for our team members employed through a GitL
 </details>
 <details>
   <summary markdown="span">GitLab PTY (Australia and New Zealand)</summary>
+
+### Australia
+**Health and Safety**
+
+To ensure the physical and mental health and safety of our team members in Australia, and to maintain compliance with local employment regulations, all team members in Australia will complete the following checklist at onboarding. This checklist will be reviewed annually. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, or you need to report an incident, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
+
+- [Remote Work Checklist](https://docs.google.com/document/d/1_sHk3ksGLDVxBZsnO3pMD-U_R_Fy0Yyu/edit?usp=sharing&ouid=106298195226644329866&rtpof=true&sd=true)
+
+### New Zealand
+**Health and Safety**
+
+To ensure the physical and mental health and safety of our team members in New Zealand, and to maintain compliance with local employment regulations, all team members in Australia will complete the following survey at onboarding. The responses will be reviewed annually. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, or you need to report an incident, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
+
+- [Remote Work Checklist](https://forms.gle/DszZNkBA22Rhy3VW7)
 </details>
 <details>
   <summary markdown="span">GitLab Singapore PTE LTD</summary>
+
 **Health and Safety**
+
 - [How to Create an Ergonomic Workspace](https://about.gitlab.com/company/culture/all-remote/tips/#create-an-ergonomic-workspace)
 - [Focus your Workspace](https://about.gitlab.com/company/culture/all-remote/getting-started/#focus-your-workspace)
 - [Combating Burnout, Isolation, and Anxiety in a Remote Workplace](https://about.gitlab.com/company/culture/all-remote/mental-health/)
