@@ -85,7 +85,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
   <div class="item-auth-matrix">Approves</div>  <!-- Sr Director -->  
-  <div class="item-auth-matrix">Approves</div>  <!-- VP -->  
+  <div class="item-auth-matrix"></div>  <!-- VP -->  
   <div class="item-auth-matrix"></div>  <!-- Exec Group -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
