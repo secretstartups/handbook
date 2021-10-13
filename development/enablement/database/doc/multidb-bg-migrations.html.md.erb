@@ -73,9 +73,7 @@ This approach has several advantages:
   - The execution framework can use `SharedModel` consistently both to access the tracking information and the database context for generic migration jobs which don't use a hardcoded connection to a particular database.
   - We keep tracking data local to the database where the business data for the migration resides.
 
-However, we also have to consider an interim solution where the main and CI database are not (fully) separated. A migration may eventually intend to run only on the CI database, but we need to control the actual execution context until the database split is complete.
-
-To do this, we can require developers to tag migrations with the context they will need. A simplified example might look like:
+To support this execution model, we can require developers to tag migrations with the context they will need. A simplified example might look like:
 
 ```ruby
 class BackgroundMigration < GitlabMigration[1.0]
@@ -87,7 +85,7 @@ class BackgroundMigration < GitlabMigration[1.0]
 end
 ```
 
-Looking at our diagram above, we can imagine the migration process can choose to combine the migrations for main and CI into a single stream. In that case the developer doesn't have to care how the migration is executed during the transitional period.
+This allows us to restrict the enqueuing migration to only run on the targeted logical database, unlike DDL changes, which will be applied to all database to keep the schema consistent.
 
 #### Separate queues and workers
 
