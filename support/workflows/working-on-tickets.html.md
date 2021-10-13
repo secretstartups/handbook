@@ -59,9 +59,12 @@ Here's what to do when you're actively working on tickets in Zendesk. Divide you
 1. Start your work at the top of your own view
 1. Determine whether you can identify any next steps to make progress
    1. If you can, then take those steps, including updating the user
-   1. If not, then link the ticket in Slack and ask for help from your teammates
-1. If **you have the capacity to take on another ticket**, find a new ticket to take ownership of by following the steps in [Meeting FRT SLA](/handbook/support/workflows/meeting-frt-sla.html)
-
+   1. If not, then apply the `needs_collaboration` label to the ticket. This will add it to the `Needs Collaboration` ZenDesk view.
+   1. If you need synchronous help ASAP, link the ticket in Slack and ask for help from your teammates
+1. If it's been an hour or more since you checked the [Main Views](#main-views), or your own view is up-to-date or empty, and **you have the capacity to take on another ticket**, then:
+   1. Check the priority of the top ticket in the views [for your region](#main-views). If its preferred region is `All Regions`, and the priority is `High`, follow the [High Priority All-Region Tickets Workflow](/handbook/support/workflows/high-priority-all-regions-tickets-workflow.html)
+   1. If the priority is lower, assign it to yourself
+   1. Check the `Needs Collaboration` view for opportunities to help Support team members who've requested help on tricky tickets.
 1. If you've asked in Slack for help on a ticket, and nobody has stepped up to help, and you feel you can't wait any longer for help, then:
    1. `@mention` your manager in Slack in the thread where you requested help, and ask them what the next steps should be
 1. If there are tickets left in your view to work on, then go back to step 1, else go back to step 3
@@ -250,6 +253,7 @@ If another engineer is looking at a ticket that you’re interested in working o
 Sometimes, you might require help from senior support engineers, subject matter experts or developers on your tickets. These tickets are most likely either long-running or technically challenging. We encourage [collaboration](/handbook/values/#collaboration) and you can use the following steps as a general guideline if you are unsure of what to do next:
 
 1. Start by posting an internal message in the ticket clearly summarizing the problem, the steps that have been taken so far (including the reasoning behind them), the results of those steps, and the current status.
+1. Apply the `needs_collaboration` label to the ticket.
 1. Check the [Support Team Knowledge Areas](/handbook/support/workflows/knowledge_areas.html) handbook page to see if someone would be able to assist you.
 1. Look for assistance in the internal Support Slack channels.
    1. Initiate a crush session or a [pairing session](https://gitlab.com/gitlab-com/support/support-pairing) in the [#support_self-managed](https://gitlab.slack.com/app_redirect?channel=support_self-managed) or [#support_gitlab-com](https://gitlab.slack.com/app_redirect?channel=support_gitlab-com) Slack channels.
@@ -257,6 +261,31 @@ Sometimes, you might require help from senior support engineers, subject matter 
 1. If you still require further assistance, reach out in the Slack channel of the appropriate [stage/group](https://about.gitlab.com/features/).
    1. If the situation demands (bug, regression, feature request etc) and an issue doesn't already exist, a new issue must have been filed related to the ticket and linked in all appropriate places.
 1. If you are unable to get assistance from a developer through the previous step, a Product Manager might need to be involved - reach out to a Support Engineering Manager via the [#support_escalations](https://gitlab.slack.com/messages/CBVAE1L48) Slack channel for assistance.
+
+### How can I find opportunities to collaborate with colleages that need help?
+
+Review the `Needs Collaboration` ZenDesk view and look for recent requests for help in the `#support_*` Slack channels.
+
+### What is the the `Needs Collaboration` view and workflow?
+
+The `Needs Collaboration` ZenDesk view includes tickets on which the assignee requested help by adding the `needs_collaboration` label.
+
+The ZenDesk view contains tickets with the `needs_collaboration` label sorted in Ascending order by "Next SLA breach".
+
+If you find a `needs_collaboration` ticket you can assist with, leave an internal note, offer to pair, or ping the ticket assignee to share any knowledge, insight, or next steps to help move the ticket toward resolution.
+
+**Ticket Assignee Workflow**
+
+1. Ticket assignee gets stuck and wants a second set of eyes
+1. Ticket assignee adds an internal note summarizing the problem, the steps taken and why, the results of those steps, and the current status
+1. Ticket assignee adds the `needs_collaboration` label
+1. Ticket assignee gets help from others via pairing sessions, internal notes and Slack
+1. Ticket assignee removes the `needs_collaboration` label once sufficient assistance has been obtained
+
+**Support Team Workflow**
+
+- SEs check the `Needs Collaboration` view when caught up on their assigned tickets and other work
+- if an SE sees the opportunity to help in on a ticket there, they do so via internal note (async), Slack (async) and pairing session (sync)
 
 ### Working on emergency or escalated tickets
 
