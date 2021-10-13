@@ -49,6 +49,37 @@ In [February 2021](https://www.docker.com/blog/donating-docker-distribution-to-t
 
 Although some of our engineers contribute to the upstream Distribution project, the codebases diverged beyond reconciliation. Therefore, there is no intention to reunite with upstream at any point in time. Some of the features we have been working on, such as the metadata database and online garbage collection (more on that later), required a significant platform re-architecture. Additionally, we will continue to tailor the GitLab Container Registry to suit the needs of GitLab the product.
 
+## Documentation
+
++The documentation is currently scattered across multiple places, namely this handbook page, [docs.gitlab.com](http://docs.gitlab.com/), the [project repository](gitlab.com/gitlab-org/container-registry), and the upstream [Docker documentation](https://docs.docker.com/registry/). This is a [known issue](https://gitlab.com/groups/gitlab-org/-/epics/5965) and something we intend to address.
+
+### Development
+
+The following documentation is especially relevant for engineers working with the Container Registry:
+
+- [Differences from Upstream](https://gitlab.com/gitlab-org/container-registry/-/tree/master/docs-gitlab#differences-from-upstream) - This is where we keep track of differences between the GitLab Container Registry and the upstream CNCF Distribution. All user-facing changes must be documented.
+- [Releases](https://gitlab.com/gitlab-org/container-registry/-/tree/master/docs-gitlab#releases) - How we manage and cut new releases.
+- [Contributing](https://gitlab.com/gitlab-org/container-registry/-/tree/master/docs-gitlab#contributing) - We stay as close as possible to the general GitLab development guidelines but enforce stricter rules whenever appropriate. Here is where we document those specific contributing processes.
+- [Development Guidelines](https://gitlab.com/gitlab-org/container-registry/-/tree/master/docs-gitlab#development) - Links for specific development documentation, ranging from setup instructions to general GitLab development guidelines extensions.
+- [Technical Documentation](https://gitlab.com/gitlab-org/container-registry/-/tree/master/docs-gitlab#technical-documentation) - Documentation about specific components or features of the application. This includes components and features inherited from upstream (with no documentation available elsewhere) and new ones.
+- [Configuration](https://gitlab.com/gitlab-org/container-registry/-/blob/master/docs/configuration.md) - Documentation about the available application settings. The [upstream configuration documentation](https://docs.docker.com/registry/configuration/) from Docker was the base for this, but since then, we have added, deprecated, and changed multiple configurations.
+- [Storage Drivers](https://docs.docker.com/registry/storage-drivers/) - The documentation for the storage drivers. This is only available upstream. Whenever we add or change a storage driver settings, we document it [here](https://gitlab.com/gitlab-org/container-registry/-/blob/master/docs-gitlab/README.md#configuration).
+- [Notifications](https://docs.docker.com/registry/notifications/) - Documentation about the asynchronous webhook notifications feature.
+- [Authentication](https://docs.docker.com/registry/spec/auth/) - All about the authentication specification implemented by the Container Registry and supported by GitLab Rails (the authentication provider).
+
+### Administration
+
+The following links are related to administrative tasks, mainly for self-managed instances:
+
+- [Omnibus and Source Installs](https://docs.gitlab.com/ee/administration/packages/container_registry.html)
+- [Helm Chart Installs](https://docs.gitlab.com/charts/)
+
+### Architecture
+
+Documentation about the current architecture or any significant changes to it. The latter usually come in the form of an [Architecture Blueprint](https://about.gitlab.com/handbook/engineering/architecture/workflow/):
+
+* [Container Registry Metadata Database](https://docs.gitlab.com/ee/architecture/blueprints/container_registry_metadata_database/) - Blueprint for the architecture change to move metadata from the storage backend into a database.
+
 ## Observability
 
 ### Metrics and Dashboards
