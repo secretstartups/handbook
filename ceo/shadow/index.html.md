@@ -739,16 +739,14 @@ Occasionally, food trucks or restaurants have loyalty rewards cards. It is **not
 
 We have six monitors at Mission Control. They show the following content:
 
-|:---:|:---:|:---:|
-|**Top Left**
-[Team](/company/team)|**Top Middle**
-[Category Maturity](/direction/maturity/)|**Top Right**
-[Is it any good?](/is-it-any-good/#gitlab-has-yoy-growth-in-adoption-of-version-control-services-study-while-github-and-bitbucket-both-decline)|
+|:---:|:---:|
+| **Top Left** | [Team](/company/team) |
+| **Top Middle** | [Category Maturity](/direction/maturity/) |
+| **Top Right** | [Is it any good?](/is-it-any-good/#gitlab-has-yoy-growth-in-adoption-of-version-control-services-study-while-github-and-bitbucket-both-decline) |
 
-|**Bottom Left**
-[Category Maturity](/direction/maturity/) | **Bottom Middle**
-[Who we replace](/devops-tools/)| **Bottom Right**
-[Remote Manifesto](/company/culture/all-remote/) on how to work remotely |
+| **Bottom Left** | [Category Maturity](/direction/maturity/) |
+| **Bottom Middle** | [Who we replace](/devops-tools/) |
+| **Bottom Right** | [Remote Manifesto](/company/culture/all-remote/) on how to work remotely |
 
 ##### Configuring the Monitors
 {:.no_toc}
@@ -968,10 +966,10 @@ Our top priority is the health and safety of our team members, please refer to t
 
 GitLab co-founder and CEO Sid Sijbrandij [answered questions in a YouTube livestream](https://youtu.be/ExG8_bnIAMI) from Sam Altman, as the two discussed considerations for implementing a CEO Shadow program in other organizations. Key takeaways are documented below.
 
-1. CEOs should not optimize meetings for Shadows. They are learning by being in the room, either in-person or virtual, and it's OK if the Shadow doesn't fully understand everything. 
+1. CEOs should not optimize meetings for Shadows. They are learning by being in the room, either in-person or virtual, and it's OK if the Shadow doesn't fully understand everything.
 1. A well-designed CEO Shadow program shouldn't burden a CEO; in fact, Shadows should actively make a CEO's day easier by assisting with notes and changing relevant portions of the company handbook upon request.
-1. Non-obvious benefits for a CEO (and their organization) include CEO empathy and humanizing a CEO, such that team members are more comfortable contributing input to an executive. Shadow alumni are able to translate real-world examples of [assuming positive intent](/handbook/values/#assume-positive-intent) from their time in the program to their direct reports, further fortifying company culture. 
-1. Ensure that CEO Shadows do not plan to do any of their usual work. Shadows should prepare their team as if they were on vacation. Attempting to shadow the CEO while also maintaining a full workload creates undue stress for the CEO Shadow. 
+1. Non-obvious benefits for a CEO (and their organization) include CEO empathy and humanizing a CEO, such that team members are more comfortable contributing input to an executive. Shadow alumni are able to translate real-world examples of [assuming positive intent](/handbook/values/#assume-positive-intent) from their time in the program to their direct reports, further fortifying company culture.
+1. Ensure that CEO Shadows do not plan to do any of their usual work. Shadows should prepare their team as if they were on vacation. Attempting to shadow the CEO while also maintaining a full workload creates undue stress for the CEO Shadow.
 
 ## Alumni
 
