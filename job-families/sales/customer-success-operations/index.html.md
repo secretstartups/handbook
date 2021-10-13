@@ -7,14 +7,14 @@ title: Customer Success Operations
 
 ## Levels
 
-### Customer Success Operations Analyst (Junior)
+### Customer Success Operations Analyst (Associate)
 
-The Customer Success Operations Analyst (Junior) reports to the [Manager, Customer Success Operations](#manager-customer-success-operations).
+The Customer Success Operations Analyst (Associate) reports to the [Manager, Customer Success Operations](#manager-customer-success-operations).
 
-#### Customer Success Operations Analyst (Junior) Job Grade
+#### Customer Success Operations Analyst (Associate) Job Grade
 The Customer Success Operations Analyst (Intermediate) is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Customer Success Operations Analyst (Junior) Responsibilities
+#### Customer Success Operations Analyst (Associate) Responsibilities
 
 * Develop and implement lifecycle processes, policies, and metrics to support customer outcomes and business growth, assisting to define appropriate touch points (i.e., human-led and digital) throughout the customer journey (pre and post initial sale)
 * Develop methods, processes, systems, and tools to support our customers in each segment: enterprise, mid-market, and SMB
@@ -24,7 +24,7 @@ Create and coordinate key reporting for GitLab leadership team, partnering with 
 * Collaborate with Customer Success enablement to develop training and enablement to drive efficiency
 
 
-#### Customer Success Operations Analyst (Junior) Requirements
+#### Customer Success Operations Analyst (Associate) Requirements
 
 * BA/BS degree
 * Relevant experience within or supporting Customer Success teams
@@ -39,7 +39,7 @@ Create and coordinate key reporting for GitLab leadership team, partnering with 
 * Ability to use GitLab
 * Experience with agile/DevOps and/or SDLC process and/or tools is a plus
 
-#### Customer Success Operations Analyst (Junior) Performance Indicators
+#### Customer Success Operations Analyst (Associate) Performance Indicators
 * [SMAU](/handbook/sales/performance-indicators/#active-smau-for-paying-customers)
 * [CSAT](/handbook/business-ops/metrics/#customer-satisfaction-survey-csat)
 * [PNPS](/handbook/product/performance-indicators/#gitlab-com-paid-net-promoter-score-pnps)
@@ -47,7 +47,7 @@ Create and coordinate key reporting for GitLab leadership team, partnering with 
 
 ### Customer Success Operations Analyst (Intermediate)
 
-The Customer Success Operations Analyst (Junior) reports to the [Manager, Customer Success Operations](#manager-customer-success-operations).
+The Customer Success Operations Analyst (Associate) reports to the [Manager, Customer Success Operations](#manager-customer-success-operations).
 
 #### Customer Success Operations Analyst (Intermediate) Job Grade
 The Customer Success Operations Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -65,7 +65,7 @@ Create and coordinate key reporting for GitLab leadership team, partnering with 
 
 #### Customer Success Operations Analyst (Intermediate) Requirements
 
-* Extends that of the Junior Customer Success Operations Analyst Requirements
+* Extends that of the Associate Customer Success Operations Analyst Requirements
 * Relevant experience supporting Customer Success teams
 * Progressive experience in program management and/or operations
 * Experience with Customer Success Management systems (e.g., Gainsight/Totango/Client Success/etc., digital marketing tools)
