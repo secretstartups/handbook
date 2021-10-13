@@ -263,7 +263,7 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 | Instructor Led Training | Practice of training and learning material between an instructor and learners. Face-to-face training. | Varies | 
 | Webinar | A seminar conducted virtually to a large audience | 3+ hours | 
 | Workshop | Hand's or or virtual demo's, problem solving, tutorials where team members engage in discussion and activity on a particular subject | Varies | 
-| Smart
+| Certifications | See definition on the [certification page](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/#certifications) | Varies | 
 
 
 
