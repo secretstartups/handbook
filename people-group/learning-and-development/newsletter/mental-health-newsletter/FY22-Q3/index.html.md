@@ -14,28 +14,12 @@ Thanks for reading the 4th edition of the Mental Health newsletter from the GitL
 
 This edition of the newsletter also features a visual highlight newsletter that was shared with team members in Slack.
 
-![newsletter highlights image](/newsletter-highlights.png){: .medium.center}
+![newsletter highlights image](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/newsletter-image.png){: .medium.center}
 
 
 ## GitLab Resource Feature
 
-Have you heard of Modern Health benefits offered to GitLab team members? Check out the [Modern Health handbook page](/handbook/total-rewards/benefits/modern-health/) if you're not aware of the benefit details!
-
-In 2021-09, Modern Health hosted a conference called Elevate 2021. The conference highlighted evolving workforce wellness strategies, the future role of mental health in the workplace, culturally centered care, and applying technology to drive value with new care options.
-
-The conference included some great speakers, including our very own Darren Murph who spoke about `Building Equity Across Types of Workers Within a Hybrid Workforce`.
-
-Other speakers include:
-
-1. Alyson Watson: Founder and CEO, Modern Health
-1. Venus Williams: Legendary Tennis Champion, Entrepreneur, and Philanthropist 
-1. Ariana Huffington: Founder and CEO, Thrive Global
-1. Katrina Lake: Founder and Executive Chairperson, StitchFix
-1. Michael Pollan: Best Selling Author & Sustainable Food Advocate
-
-You can watch the recorded conferences on demand on their [Elevate event website](https://www.modernhealth.com/elevate). 
-
-![elevate 2021 image](/elevate-darren.png){: .medium.center}
+Have you heard of Modern Health benefits offered to GitLab team members? Check out the [Modern Health handbook page](/handbook/total-rewards/benefits/modern-health/#what-does-modern-health-offer) if you're not aware of the benefit details!
 
 
 ## Taking time for mental health
@@ -50,9 +34,9 @@ Managers can consider re-sharing theses short videos this week in their team Sla
 
 | Post Topic | Video Links |
 | ----- | ----- |
-| ![post 1 image](/mental-health-1.png) | [three mindful breaths](https://www.linkedin.com/learning/mindful-meditations-for-work-and-life/three-breaths-practice?u=2255073), 2 minutes, and [preparing yourself for mental agility](https://www.linkedin.com/learning/cultivating-mental-agility/physically-preparing-yourself-for-mental-agility-2?u=2255073), 4 minutes |
-| ![post 3 image](/mental-health-3.png) | [Simple shifts for sleep success](https://www.linkedin.com/learning/sleep-is-your-superpower/simple-shifts-for-sleep-success), 4 min and [Relax your brain](https://www.linkedin.com/learning/creativity-tips-for-all-weekly/relax-your-brain), 5 min |
-| ![post 4 image](/mental-health-4.png) | [desk hip stretched](https://www.linkedin.com/learning/chair-work-yoga-fitness-and-stretching-at-your-desk/hip-stretches), 5 min and [seated mountain pose](https://www.linkedin.com/learning/chair-work-yoga-fitness-and-stretching-at-your-desk/seated-mountain), 3 min  |
+| ![post 1 image](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/mental-health-1.png) | [three mindful breaths](https://www.linkedin.com/learning/mindful-meditations-for-work-and-life/three-breaths-practice?u=2255073), 2 minutes, and [preparing yourself for mental agility](https://www.linkedin.com/learning/cultivating-mental-agility/physically-preparing-yourself-for-mental-agility-2?u=2255073), 4 minutes |
+| ![post 3 image](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/mental-health-3.png) | [Simple shifts for sleep success](https://www.linkedin.com/learning/sleep-is-your-superpower/simple-shifts-for-sleep-success), 4 min and [Relax your brain](https://www.linkedin.com/learning/creativity-tips-for-all-weekly/relax-your-brain), 5 min |
+| ![post 4 image](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/mental-health-4.png) | [desk hip stretched](https://www.linkedin.com/learning/chair-work-yoga-fitness-and-stretching-at-your-desk/hip-stretches), 5 min and [seated mountain pose](https://www.linkedin.com/learning/chair-work-yoga-fitness-and-stretching-at-your-desk/seated-mountain), 3 min  |
 
 +(post 2 has been omitted as it was a time-sensitive webinar event)
 
