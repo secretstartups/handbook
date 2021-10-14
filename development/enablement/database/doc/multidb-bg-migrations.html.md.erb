@@ -54,7 +54,7 @@ Separate from storage-level concerns, we need to consider our execution model. T
 
 At a high level, we propose this design for multi-database background migrations:
 
-- Enqueue migrations based on the intended context of the migration. Background migrations intended to execute in a particular context (e.g. "CI") are scheduled through Rails migrations for said context, and the tracking data is also stored on the database relevant in this context (e.g. "CI database").
+- Enqueue migrations based on the intended context of the migration. Background migrations intended to execute in a particular context (e.g. "CI") are scheduled through Rails migrations for said context, and the tracking data is also stored on the database relevant in this context (e.g. "CI database"). If the background migrations are going to communicate with both databases then the developer can choose either `ci` or `main` based on which ever seems the most applicable.
 - Use separate queues to process jobs for each database. The worker for that queue will know its own context, to connect to the appropriate tracking database.
 - Allow maximum flexibility in individual migration jobs. Developers choose which databases to connect to execute their data migration.
 
