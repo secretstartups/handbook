@@ -53,6 +53,18 @@ Although some of our engineers contribute to the upstream Distribution project, 
 
 +The documentation is currently scattered across multiple places, namely this handbook page, [docs.gitlab.com](http://docs.gitlab.com/), the [project repository](gitlab.com/gitlab-org/container-registry), and the upstream [Docker documentation](https://docs.docker.com/registry/). This is a [known issue](https://gitlab.com/groups/gitlab-org/-/epics/5965) and something we intend to address.
 
+### Standards
+
+Being a fork of the original Docker Distribution registry, the GitLab Container Registry is based on the [V1](https://docs.docker.com/registry/spec/manifest-v2-1/) (deprecated in [13.4](https://about.gitlab.com/releases/2020/09/22/gitlab-13-4-released/#deprecate-pulls-that-use-v1-of-the-docker-registry-api) and no longer supported since [13.8](https://about.gitlab.com/releases/2021/01/22/gitlab-13-8-released/#deprecate-pulls-that-use-v1-of-the-docker-registry-api)) and the [V2](https://docs.docker.com/registry/spec/manifest-v2-2/) Docker Image Specification. These specifications define the format and content of [Manifests](https://docs.docker.com/registry/spec/manifest-v2-2/#image-manifest) and [Manifest Lists](https://docs.docker.com/registry/spec/manifest-v2-2/#manifest-list), used to describe Docker container images.
+
+The GitLab Container Registry is also based on the original [Docker Registry HTTP API V2](https://docs.docker.com/registry/spec/api/) specification, which defines the contract of the single entrypoint for the Container Registry - its HTTP API.
+
+Due to the need to standardize the container distribution mechanism across vendors/providers, in 2018, [Docker donated](https://www.docker.com/blog/docker-registry-api-standardized-oci/) the HTTP API V2 specification to the [Open Container Initiative (OCI)](https://opencontainers.org/), which is a governance structure under the [Linux Foundation](https://www.linuxfoundation.org/) maintaining open industry standards around containerization technologies. This led to the creation of the [OCI Distribution Specification](https://github.com/opencontainers/distribution-spec/blob/main/spec.md), which is the current leading standard and therefore the one that the GitLab Container Registry HTTP API adheres.
+
+Similarly, Docker also [contributed its image specification to OCI](https://www.docker.com/blog/oci-release-of-v1-0-runtime-and-image-format-specifications/), leading to the creation of a vendor agnostic [OCI Image Specification](https://github.com/opencontainers/image-spec/blob/main/spec.md). This is the standard that the GitLab Container Registry adheres to when it comes to the [Image Manifest](https://github.com/opencontainers/image-spec/blob/main/manifest.md) and [Image Index](https://github.com/opencontainers/image-spec/blob/main/image-index.md) (the equivalent to Docker's Image Manifest Lists) formats.
+
+The OCI Image and Distribution specifications are backward compatible with the original Docker specifications and are actively being worked on and therefore subject to changes. The GitLab Container Registry should follow the progress of these specifications to maintain OCI compliance. We are free to extend the HTTP API with additional functionality if needed, as long as we can keep backward compatibility with the OCI Distribution specification.
+
 ### Development
 
 The following documentation is especially relevant for engineers working with the Container Registry:
@@ -66,6 +78,7 @@ The following documentation is especially relevant for engineers working with th
 - [Storage Drivers](https://docs.docker.com/registry/storage-drivers/) - The documentation for the storage drivers. This is only available upstream. Whenever we add or change a storage driver settings, we document it [here](https://gitlab.com/gitlab-org/container-registry/-/blob/master/docs-gitlab/README.md#configuration).
 - [Notifications](https://docs.docker.com/registry/notifications/) - Documentation about the asynchronous webhook notifications feature.
 - [Authentication](https://docs.docker.com/registry/spec/auth/) - All about the authentication specification implemented by the Container Registry and supported by GitLab Rails (the authentication provider).
+- [HTTP API Specification](https://gitlab.com/gitlab-org/container-registry/-/blob/master/docs/spec/api.md) - This is based on the OCI Distribution Specification (see [Standards](#standards) for more details) but we have extended it with additional functionality. A log of changes is kept in the [project documentation](https://gitlab.com/gitlab-org/container-registry/-/blob/master/docs-gitlab/README.md#api).
 
 ### Administration
 
