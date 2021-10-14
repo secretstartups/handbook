@@ -111,3 +111,13 @@ The container registry exposes structured access and application logs. For GitLa
 
 * [Non-production](https://nonprod-log.gitlab.net/goto/f3fbccdb9dea6805ff5bbf1e0144a04e): Logs for the development, staging, and pre-production environments.
 * [Production](https://log.gprd.gitlab.net/goto/7dc6f73d5dd4cc4bebcd4af3b767cae4): Logs for the production environment.
+
+## Releases
+
+### GitLab.com
+
+Unlike the main Rails application, the Container Registry does not currently benefit from continuous delivery. Releases and deployments are, therefore, a manual process ([for now](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/316)). You can learn more about the process in the [project documentation](https://gitlab.com/gitlab-org/container-registry/-/tree/master/docs-gitlab#releases).
+
+### Self-Managed
+
+Releases for self-managed are also manual and adhere to the normal GitLab [monthly release cadence](https://about.gitlab.com/releases/). Because the release process requires several manual steps, special attention must be paid to ensure that changes are merged on time before the release date. Please refer to the [project documentation](https://gitlab.com/gitlab-org/container-registry/-/tree/master/docs-gitlab#releases) for more details.
