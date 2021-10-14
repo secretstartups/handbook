@@ -75,23 +75,21 @@ Maintenance of Corporate Structure covers the following procedure
 
 GitLab's corporate structure per September 2021 is as follows (countries and incorporation dates included):
 
-```
-GitLab Inc (USA 2014-09-10)
-  ├── GitLab Federal LLC (USA 2019-01-04)
-  ├── GitLab GK (JP 2019-11-18)
-  ├── GitLab Korea Limited (SK 2020-02-27)
-  └── GitLab BV (NL 2014-02-19)
-      ├── GitLab IT BV (NL 2019-08-07)
-      ├── GitLab UK Limited (UK 2016-08-31)
-      ├── GitLab GmbH (DE 2017-08-09)
-      ├── GitLab PTY Ltd (AUS 2018-08-06)
-      ├── GitLab Canada Corp. (CA 2019-07-08)
-      ├── GitLab France SAS (FR 2021-05-27)
-      ├── GitLab Ireland Limited (IE 2020-07-30)
-      └── GitLab Singapore Holding PTE LTD (SG 2020-12-10)
-          └── GitLab Singapore PTE Ltd (SG 2021-07-01)
+* GitLab Inc
+* GitLab Federal LLC
+* GitLab BV
+* GitLab IT BV
+* GitLab UK Limited
+* GitLab GmbH
+* GitLab PTY Ltd
+* GitLab Canada Corp.
+* GitLab France SAS
+* GitLab Ireland Limited
+* GitLab GK
+* GitLab Korea Limited
+* GitLab Singapore Holding PTE Ltd
+* GitLab Singapore PTE Ltd
 
-  ```
 ## Establishment of a NewCo
 
 What are the prerequisites for a decision to establish a NewCo in a country where GitLab does not have a corporate footprint yet? It basically comes down to a combination of two factors:
