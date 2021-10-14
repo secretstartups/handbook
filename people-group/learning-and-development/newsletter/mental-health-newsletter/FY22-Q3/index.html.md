@@ -21,6 +21,17 @@ This edition of the newsletter also features a visual highlight newsletter that 
 
 Have you heard of Modern Health benefits offered to GitLab team members? Check out the [Modern Health handbook page](/handbook/total-rewards/benefits/modern-health/#what-does-modern-health-offer) if you're not aware of the benefit details!
 
+Modern health for team members includes:
+
+1. Personalized Plan: Take a well-being assessment and review which tools may be most helpful for you.
+1. Professional Support including 5 coaching sessions
+1. 6 therapy sessions
+1. A learning library with resources about preventing burnout, managing stress, and coping with anxiety or depression based on our evidence-based digital programs.
+1. Live community sessions called Circles led by Modern Health therapists and coaches
+
+If you have questions about Modern Health, post in the #people-connect Slack channel! 
+
+
 
 ## Taking time for mental health
 
