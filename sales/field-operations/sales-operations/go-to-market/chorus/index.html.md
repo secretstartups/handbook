@@ -33,7 +33,7 @@ Confused about how to use Chorus? Check out the links below for more information
 ## Security
 
 - Any time a Chorus link is shared, a password should be required or the link should be set to expire. Each user has to do this; it can not be turned on globally from the admin panel.
-As a best practice, we should NEVER include links to Chorus recordings in a public issue. If you need to include a Chorus recording or any type of customer information in an issue, please first make the issue private.
+As a best practice, please DO NOT include links to Chorus recordings in a public issue. If you need to include a Chorus recording or any type of customer information in an issue, please first mark the issue as `Confidential`.
 For additional details, please see [this issue](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1560#note_702890753).
 
 
