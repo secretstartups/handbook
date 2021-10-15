@@ -27,7 +27,6 @@ This page is an evolving description of how we expect our cross-functional devel
 
 Feature development is expected to pass through all phases to achieve specified outcomes, while the rest of the workflow should be considered as a set of best practices, tools, and recommendations. We realize there are unique cases in which certain product improvements may not need to flow through all the phases. We trust product managers to use their best judgement with alignment from their design and engineering team. The goal of this page is to support teams in their workflows by highlighting the necessary **outcomes** to target in each phase as well as sharing strategies/tactics, **activities**, teams can employ to achieve these  outcomes. Additionally, this page aims to clarify the _minimal_ set of required actions, such as labels, needed across all phases to keep the the product system efficient in terms of tracking, searching and cross-functional collaboration. To maintain clarity and avoid confusion, we do not list optional actions on this page but teams may choose to employ additional actions, such as labels for planning, even if they are not mentioned on this page. 
 
-
 As teams leverage the product development flow, they may find that certain strategies/tactics are serving their teams well toward success. Therefore, we welcome MRs to this page, so we can create a robust playbook of options to build valuable features for customers. All team members are encouraged to follow the [change process](#editing-this-page) for this page to share their best practices. 
 
 ### Measuring Success 
@@ -76,7 +75,7 @@ The types of activities and depth of research required in the validation track w
 
 **When:** When our confidence about the proposed problem or solution isn't high. For example, if we aren't reasonably sure that the problem is important to a significant number of users, or that the solution is easy to understand and use.
 
-**Who:** Product Manager, Product Designer, UX Researcher, Engineering Manager
+**Who:** Product Manager, Product Designer, UX Researcher, Product Design Manager, Development Department Engineering Manager
 
 **What:**
 
@@ -103,8 +102,8 @@ If we don't have confidence in the MVC or what success looks like, we should con
 | Role          | Function |
 |---------------|----------|
 | DRI           | Product Manager |
-| Collaborators | Product Designer <br/>Engineering Manager |
-| Informed      | Customers <br/>Technical Account Manager <br/>Product Marketing Manager <br/>Other [stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) as appropriate |
+| Collaborators | Product Designer <br/> Product Design Manager <br/> Development Department Engineering Manager |
+| Informed      | Customers <br/>Technical Account Manager <br/>Product Marketing Manager <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description
 
@@ -128,7 +127,7 @@ The growth of a world class product is built from a well maintained backlog. Pro
 |---------------|----------|
 | DRI           | Product Manager |
 | Collaborators | UX Researcher |
-| Informed      | Product Designer <br/>Engineering team <br/>Other [stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) as appropriate |
+| Informed      | Product Designer <br/>Development team <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 
 #### Description
@@ -156,8 +155,8 @@ If the problem is nuanced or not yet well understood, then it will likely take l
 | Role          | Function |
 |---------------|----------|
 | DRI           | Product Designer |
-| Collaborators | Product Manager <br/>Engineering team <br/>UX Researcher <br/>Software Engineer in Test <br/>Technical Writer|
-| Informed      | Application Security Engineer <br/>  Other [stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) as appropriate |
+| Collaborators | Product Manager <br/>Development team <br/>UX Researcher <br/>Software Engineer in Test <br/>Technical Writer|
+| Informed      | Application Security Engineer <br/>  Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description
 
@@ -187,8 +186,8 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 | Role          | Function |
 |---------------|----------|
 | DRI           | Product Designer |
-| Collaborators | Product Manager <br/>Engineering team |
-| Informed      | Technical Writer <br/>Software Engineer in Test <br/>Application Security Engineer <br/>Other [stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) as appropriate |
+| Collaborators | Product Manager <br/>Development team|
+| Informed      | Product Design Manager <br/>Technical Writer <br/>Software Engineer in Test <br/>Application Security Engineer <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description
 
@@ -211,7 +210,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 
 **When:** As we build MVCs according to our [product development timeline](/handbook/engineering/workflow/#product-development-timeline)
 
-**Who:** Product Manager, Product Designer, Engineering team, Software Engineer in Test
+**Who:** Product Manager, Product Designer, Development team, Software Engineer in Test
 
 **What:**
 
@@ -240,17 +239,16 @@ The build track is where we plan, develop, and deliver value to our users by bui
 | Role          | Function |
 |---------------|----------|
 | DRI           | Product Manager |
-| Collaborators | Engineering Manager <br/>Product Designer <br/>Software Engineer in Test <br/>Engineering team |
+| Collaborators | Product Design Manager <br/> Development Department Engineering Manager <br/>Product Designer <br/>Software Engineer in Test <br/>Development team |
 | Informed      | Product Marketing Manager <br/>Technical Account Manager <br/>Technical Writer <br/> Application Security Engineer|
 
 #### Description
 
-This phase prepares features so they are ready to be built by engineering. Bugs, technical debt, and other similar changes that are not features may enter the process in this phase (or may benefit from entering in earlier phases based on the cost of doing the work requiring the full problem to be validated to ensure it makes sense to do the work). Following Validation Phase 4 the feature should already be broken down into the quickest change possible to improve the user's outcome and be ready for a more detailed review by engineering. During this phase, Product Managers will surface issues they intend to prioritize for a milestone by applying the `workflow::planning breakdown` label. At this point, Engineering Managers will assign an engineer to further break down and apply weights to that work. This process is a collaboration between the DRI and Collaborators. Tradeoff decisions can be made and feature issues evolve from validation solutions to clear MVCs that can be delivered in a single milestone. Be sure to document all decisions on issues.
+This phase prepares features so they are ready to be built by engineering. Bugs, technical debt, and other similar changes that are not features may enter the process in this phase (or may benefit from entering in earlier phases based on the cost of doing the work requiring the full problem to be validated to ensure it makes sense to do the work). Following Validation Phase 4 the feature should already be broken down into the quickest change possible to improve the user's outcome and be ready for a more detailed review by engineering. During this phase, Product Managers will surface issues they intend to prioritize for a milestone by applying the `workflow::planning breakdown` label. At this point, Development Department Engineering Managers will assign an engineer to further break down and apply weights to that work. This process is a collaboration between the DRI and Collaborators. Tradeoff decisions can be made and feature issues evolve from validation solutions to clear MVCs that can be delivered in a single milestone. Be sure to document all decisions on issues.
 
 By reviewing and weighing work in the beginning of the Build Track, Product Managers are able to make better prioritization tradeoffs and engineering teams can ensure they've scoped the right amount of work for the milestone. If an issue enters the `workflow::planning breakdown` state it doesn't necessarily mean it will be prioritized in the next milestone, a Product Manager may make a tradeoff decision depending on capacity, and urgency.
 
 Once work has passed the `workflow::planning breakdown` step, the `workflow::ready for development` label along with an upcoming milestone is applied to the issue. If an issue has been broken down, but not yet ready to pull into a milestone you may optionally apply the `workflow::scheduling` label; however, in this state any issue that has the `workflow::ready for development` label without a milestone has an implied status of "waiting to be scheduled". Engineering Managers will apply `Deliverable` label to issues with a milestone and marked `workflow::ready for development` signaling acceptance of the issue for that milestone. This process occurs at the [beginning of milestone planning](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline). 
-
 
 To ensure that a Software Engineer in Test (SET) will have ample time to contribute to new features, [Quad Planning](/handbook/engineering/quality/quad-planning/) is triggered automatically when an issue is in `workflow::ready for development` and a milestone is applied. The Quad Planning approach is triggered only in groups where an SET is assigned as the Quality department grows to their [desired ratio](/handbook/engineering/quality/#staffing-planning). Groups with no SETs should continue to follow GitLab's [Definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done). Quality department will continue to monitor the quality indicators in these groups and work on filling SETs per product priority.
 
@@ -261,9 +259,9 @@ During this phase, it's important to keep Application Security Engineers informe
 | Outcomes 	| Activities 	| DRI 	|
 |-        	|-	          |-	    |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Well-scoped MVC issues** - Issues are the [SSOT](/handbook/values/#single-source-of-truth) for all feature development. | - Refine issues into something that can be delivered within a single milestone<br>- Open follow on issues to track work that is de-prioritized<br>- Promote existing issues to Epics and open implementation issues for the upcoming milestone<br>- Review feature issues with contributors<br>- Consider scheduling a POC or engineering investigation issue<br>- Make scope tradeoffs to reach for a [right-sized MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc)<br>- Request an [issue review](/handbook/product/product-processes/#issue-reviews) to ensure communication is clear and have proposed the [right iteration plan](/handbook/product/product-processes/#iteration-strategies) to execute on the solution. | - Product Manager 	|
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Prioritized Milestone** - The team should understand what issues should be delivered during the next milestone  | - Product Manager sets `workflow::ready for development` and a milestone signaling intent to prioritize <br> - Engineering Manager applies `Deliverable` label signaling acceptance of issue in the next milestone - Product Manager creates a planning issue| - Product Manager and Engineering Manager |
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Prioritized Milestone** - The team should understand what issues should be delivered during the next milestone  | - Product Manager sets `workflow::ready for development` and a milestone signaling intent to prioritize <br> - Product Designer and Development Engineering Manager apply `Deliverable` label signaling acceptance of issue in the next milestone - Product Manager creates a planning issue| - Product Manager, Product Designer, and Development Department Engineering Manager |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Defined Quality Plan** - Involving SETs in this phase ensures they are able to understand and effectively plan their own capacity before engineering is truly underway.| - [Quad Planning](/handbook/engineering/quality/quad-planning/)<br>- [Test planning](/handbook/engineering/quality/test-engineering/#test-planning) 	| - Software Engineer in Test |
-|**Implementation Issue Refinement** - Some teams have found it useful to treat issue refinement as a separate, iterative task from planning breakdown. This separation allows them to focus backlog refinement on the aspects of the original feature that will be delivered first.| - Further refine implementation issues identified in the `workflow::planning breakdown` step by  additionally applying `workflow::refinement`.| - Engineering Manager |
+|**Implementation Issue Refinement** - Some teams have found it useful to treat issue refinement as a separate, iterative task from planning breakdown. This separation allows them to focus backlog refinement on the aspects of the original feature that will be delivered first.| - Further refine implementation issues identified in the `workflow::planning breakdown` step by  additionally applying `workflow::refinement`.| - Development Department Engineering Manager |
 
 
 
@@ -285,13 +283,13 @@ During this phase, it's important to keep Application Security Engineers informe
 |---------------|----------|
 | DRI           | Assigned engineer |
 | Collaborators | Product Manager <br/>Software Engineer in Test <br/>Technical Writer <br/>Product Designer <br/> Application Security Engineer|
-| Informed      | Product Marketing <br/>Engineering Manager <br/>Cross-stage PM <br/>Sales <br/>Customer Support |
+| Informed      | Product Marketing <br/>Development Department Engineering Manager <br/>Cross-stage PM <br/>Sales <br/>Customer Support |
 
 #### Description
 
-The develop and test phase is where we build the features, address bugs or technical debt and test the solutions before launching them. The PM is directly responsible for prioritizing **what** should be worked on; however, the engineering manager and software engineers are responsible for the implementation of the feature using the [engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/#basics). Engineering owns the [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) and issues are not moved into the next phase until those requirements are met. Keep in mind that many team members are likely to contribute to a single issue and collaboration is key.
+The develop and test phase is where we build the features, address bugs or technical debt and test the solutions before launching them. The PM is directly responsible for prioritizing **what** should be worked on; however, the Development Department Engineering Manager and software engineers are responsible for the implementation of the feature using the [engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/#basics). Engineering owns the [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) and issues are not moved into the next phase until those requirements are met. Keep in mind that many team members are likely to contribute to a single issue and collaboration is key.
 
-This phase begins after work has been broken down, and prioritized in Phase 1. Work is completed in priority order as set at the beginning of the milestone. The Engineering Manager will assign an issue to an engineer who is responsible for building the feature. An engineer can also self-serve and pick up the next priority order issue from the `workflow::ready for development` queue on their team's board. That engineer will update its `workflow::` label to indicate where it's position in the [development process](https://about.gitlab.com/handbook/engineering/workflow/#basics).
+This phase begins after work has been broken down, and prioritized in Phase 1. Work is completed in priority order as set at the beginning of the milestone. The Development Department Engineering Manager will assign an issue to an engineer who is responsible for building the feature. An engineer can also self-serve and pick up the next priority order issue from the `workflow::ready for development` queue on their team's board. That engineer will update its `workflow::` label to indicate where it's position in the [development process](https://about.gitlab.com/handbook/engineering/workflow/#basics).
 
 When an issue is in development the Software Engineer in Test ([SET](https://about.gitlab.com/handbook/engineering/quality/#stable-counterparts)) will ensure the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process is being followed regarding test plans, regression jobs, end to end tests, etc. Coordination is key between the assigned development engineer and the SET during this phase.
 
@@ -305,7 +303,7 @@ Documentation for the work will be developed by the engineer and the Technical W
 
 | Outcomes | Activities | DRI |
 |----------|------------|-----|
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is built** | - Engineering manager checks that [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) is met<br/>- Provide regular status updates to stakeholders<br/>- Provide asynchronous updates to avoid status check-ins and synchronous stand-ups<br/> - Engineers follow the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) to implement assigned issues. | Engineer |
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is built** | - Development Department Engineering Manager check that [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) is met<br/>- Provide regular status updates to stakeholders<br/>- Provide asynchronous updates to avoid status check-ins and synchronous stand-ups<br/> - Engineers follow the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) to implement assigned issues. | Engineer |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is tested** | - Engineers test features they implement (see [Definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done)).<br/>- SET sets testing requirements on the issue.<br/>- SET follows up on any specific test coverage changes necessary as an outcome of Quad Planning. <br/>- Technical Writers complete a review of any developed documentation. <br/>- Application Security Engineer validates the risk mitigations through the non-blocking [application security review process](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/application-security/appsec-reviews.html). | Engineer |
 
 
@@ -346,7 +344,7 @@ Label: n/a
 |---------------|----------|
 | DRI           | Product Manager |
 | Collaborators | Product Designer <br/>Customer Success <br/>Sales <br/>Data Analysts <br/>UX Researcher <br/>Product Management Marketer <br/>Technical Writer |
-| Informed      | Engineering team <br/>Leadership<br/>Other [stakeholders](/handbook/product/product-processes/#what-is-a-stakeholder) as appropriate |
+| Informed      | Development team <br/>Leadership<br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description
 
