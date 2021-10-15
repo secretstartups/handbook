@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Prelude"
-description: "Prelude (formally Interview Schedule) is a program GitLab uses to increase efficiency in scheduling interviews."
+description: "Prelude (formerly Interview Schedule) is a program GitLab uses to increase efficiency in scheduling interviews."
 ---
 
 ## On this page
