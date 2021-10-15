@@ -37,7 +37,7 @@ _The sections below also link to these templates, but they're provided here for 
 - [Monthly **release post item** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
 - [**Deprecation** MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md)
 - [Monthly **release post bug, usability and performance improvements** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md)
-- [Monthly release **content block** templates](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased/samples)
+- [Monthly release **content block** YML templates](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased/samples)
 - [Patch release template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/patch_release_blog_template.html.md.erb)
 - [Security release template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/security_release_blog_template.html.md)
 
@@ -1410,6 +1410,8 @@ The `/data/features.yml` file should also be edited with the removed features de
 Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backward compatible and breaking changes are recommended for a major release, whereas backward compatible changes can be introduced in a minor release.
 
 Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
+
+If the removal is a [breaking change](https://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-change), apply label `breaking change`to the MR.
 
 When approved, include the "Ready" label in the MR before merging.
 
