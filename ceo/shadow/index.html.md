@@ -195,8 +195,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-11-15 | 2021-11-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-11-22 | 2021-11-24 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-11-29 | 2021-12-03 | UNAVAILABLE | UNAVAILABLE |
-| 2021-12-06 | 2021-12-10 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-12-13 | 2021-12-17 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-12-06 | 2021-12-10 | [James Heimbuck](https://gitlab.com/jheimbuck_gl) - Sr. Product Manager | AVAILABLE - REMOTE |
+| 2021-12-13 | 2021-12-17 | AVAILABLE - REMOTE | [James Heimbuck](https://gitlab.com/jheimbuck_gl) - Sr. Product Manager |
 | 2022-01-03 | 2022-01-07 | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager | AVAILABLE - REMOTE |
 | 2022-01-10 | 2022-01-14 | AVAILABLE - REMOTE | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager |
 | 2022-01-18 | 2022-01-21 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
@@ -234,7 +234,7 @@ Outgoing shadows are responsible for training incoming shadows. We currently tra
 
 #### Consider creating goals
 
-Consider adding goals for your time as a CEO Shadow, and adding them to your onboarding issue. To make your goals more ationable, you may want to use the [SMART goals framework](https://www.mindtools.com/pages/article/smart-goals.htm).
+Consider adding goals for your time as a CEO Shadow, and adding them to your onboarding issue. To make your goals more actionable, you may want to use the [SMART goals framework](https://www.mindtools.com/pages/article/smart-goals.htm).
 
 Doing this will help you reflect upon your overall CEO Shadow experience more easily, and it may help you write a better blog post after you complete the program.
 
