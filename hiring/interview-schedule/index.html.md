@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Interview Schedule"
-description: "Interview Schedule is a program GitLab uses to increase efficiency in scheduling interviews."
+title: "Prelude"
+description: "Prelude (formally Interview Schedule) is a program GitLab uses to increase efficiency in scheduling interviews."
 ---
 
 ## On this page
@@ -10,13 +10,14 @@ description: "Interview Schedule is a program GitLab uses to increase efficiency
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Interview Schedule
+### Prelude
 
-Resource Guide is integrated with Greenhouse via API.
+Prelude is integrated with Greenhouse via API.
 DRI: Candidate Experience Team
 
-#### How to schedule 1:1 via Interview Schedule
-1. In Greenhouse click on “schedule loop” located on the top left hand side of the screen
+#### How to schedule 1:1 via Prelude
+1. In Greenhouse click on “schedule loop” located on the top of the screen when you're in a candidate profile
+1. Under "Interview Name", choose the specific interview you'd like to schedule (ie Hiring Manager Interview)
 1. Under “Interviewers” type the name of the person who you need to schedule the interview with
     - If there is an alternative (i.e. Nancy OR Brittany), click on the interviewer's name
     - the dropdown will prompt `Add Alternates`
@@ -55,5 +56,9 @@ DRI: Candidate Experience Team
 1. In this screen, you can add or remove any person from a specific attribute. 
 1. Make sure to hit `Save` when you're done
 
+#### How to update an interviewer's preferences
+1. Click on the `Settings` tab at the top of the screen
+1. Go down to the Attirbutes section on the left hand panel and select `Interviewer Preferences`
+1. Add availability preferences, ensure the time zone is accurate, and consider interview limits.
 
 
