@@ -23,6 +23,9 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-10-18 to 2021-10-29
+1. CEO Shadow: https://about.gitlab.com/handbook/ceo/shadow/
+
 ## 2021-10-11
 1. Onboarding: complete open tasks in my onboarding issue. [#3085](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues/3085)
 1. Close out follow-ups from GitLab advocates interviews [CoST #148](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team/-/issues/148)
