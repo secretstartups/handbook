@@ -933,6 +933,20 @@ prize to. Option to CC the SAL who is tied to the account to allow them visibili
 
 Normal FM close process: Send follow-up email, gather recap information from the team and close the issue.
 
+### Canceling / Postponing a Workshop
+There are certain occassions when a workshop needs to urgently be rescheduled due to technical difficulties. These are the directions to follow to send out a bulk notification to registrants about the disruption and reschedule date.
+
+1. Go to the folder of your program called `z. Cancellation/Reschedule`
+1. In the folder, you will find a pre-configured email program set to send to all registrants (including hosts) as operational (bypassing unsubscribe). Double check the email smart list to make sure it includes your program's name. 
+1. Navigate to your main marketo campaign program, and click the tokens tab. Update the following tokens:
+   - {{my.webcastDate}} to the new date
+   - {{my.webcastTime}} to the new time
+   - {{my.webcastTitle}} make sure is populated
+1. Once you update these tokens, go to the email and click preview. Check to make sure tokens are rending properly and the email says what you want it to. You can also send yourself a sample email.
+1. You must click `Approve` on the email if you made changes, for those changes to take effect.
+1. Click into email program, on control panel set the date/time for send and click Approve in final box.
+   -  Do not click recipient time zone or head start
+
 ## Proposing New Virtual Workshops
 
 If you have a new workshop idea/topic, you can build out a Parent Epic for that workshop utilizing the epic code below. Please note that the first time you set up the new workshop, it will run as a -45 SLA with all new content. If you decide you would like to repeat the workshop in the future, you will need to work with the Campaign Management team to build out the new workshop’s backend templates in Marketo. You would also then need to add all finalized details and link to the new workshop throughout these handbook instructions, as well add the new workshop details to the [FM Virtual Workshop Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/Virtual_Workshop_Template.md).
