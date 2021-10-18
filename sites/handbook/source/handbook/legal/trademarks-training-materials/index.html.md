@@ -14,7 +14,7 @@ description: "Trademarks training materials for GitLab team members"
 # Trademarks at GitLab
 GitLab’s brand is one of its most valuable assets. As part of this, GitLab's trademarks (the name GitLab, and the GitLab <a href="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" target="_blank">Tanuki logo</a>) distinguish GitLab’s product from those of its competitors. They also signify to our customers and prospects the high quality of our product, which people associate with GitLab.
 
-This series of three training sessions, covering _An Introduction to Trademarks_, _Using Third-party Trademarks_, and _Using the GitLab Trademark_, serves to introduce team members to key trademarks concepts relevant to their roles at GitLab.
+This series of three training sessions, covering _An Introduction to Trademarks_, _Using Third-party Trademarks_, and _Using the GitLab Trademark_, serves to introduce team members to key trademarks concepts relevant to their role at GitLab.
 
 All training materials featured on this page are **internal only** - to access the videos, ensure you are **logged in to <a href="https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A" target="_blank">GitLab Unfiltered</a>**; the slides, transcripts and audio files are accessible via the GitLab Google Drive. 
 
