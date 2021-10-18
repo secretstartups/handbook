@@ -32,23 +32,18 @@ Enablement focuses on improving our capabilities and metrics in the following ar
 
  For more details, refer to the [Enablement Sub-department Direction](/handbook/engineering/development/enablement/direction.html).
 
-## Sub-department Members
-
-The following people are permanent members of the Enablement Sub-department:
-
 <%
   departments = [
-    { name: 'Database', manager: 'craiggomes', regexp: /Database/ },
-    { name: 'Sharding', manager: 'craiggomes', regexp: /Sharding|Enablement/ },
+    { name: 'Database', manager: 'craiggomes', regexp: /Database/},
     { name: 'Distribution', manager: 'eng-manager-distribution' },
     { name: 'Geo', manager: 'nick-nguyen' },
+    { name: 'Global Search', manager: 'cliu', regexp: /Global Search/ },
     { name: 'Memory', manager: 'cliu', regexp: /Memory/ },
-    { name: 'Global Search', manager: 'cliu', regexp: /Global Search/ }
+    { name: 'Sharding', manager: 'craiggomes', regexp: /Sharding/ },
+   
  ]
  department_regexp = /(#{Regexp.union(departments.map{ |d| d[:name] })})/
 %>
-
-<%=  direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Enablement') %>
 
 ## All Team Members
 
@@ -66,8 +61,8 @@ The following table shows who will provide cover if one or more of the Enablemen
 | Team Member     | Issues/MRs Backup        | People Management Backup    | Escalation   |
 | -----           | -----                    | -----                 | -----        |
 | Chun Du         | Christopher Lefelhocz    | Christopher Lefelhocz | Eric Johnson |
-| Craig Gomes     | Kamil Trzcinski (Memory), Andreas Brandl (DB)    | Changzheng Liu        | Chun Du      |
-| Changzheng Liu  | Dylan Griffith           | Craig Gomes           | Chun Du      |
+| Craig Gomes     | Kamil Trzcinski (Sharding), Andreas Brandl (DB)    | Changzheng Liu        | Chun Du      |
+| Changzheng Liu  | Dmitry Gruzd (Global Search), Matthias Käppler (Memory)             | Craig Gomes           | Craig Gomes      |
 | Steven Wilson   | DJ Mountney              | Nick Nguyen           | Chun Du      |
 | Nick Nguyen     | Douglas Alexandre        | Steven Wilson         | Chun Du      |
 

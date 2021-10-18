@@ -38,42 +38,47 @@ types of pipelines. Both these machines are in GCP project
 1. build-runners.gitlab.org:
 1. build-trigger-runner-manager.gitlab.org
 
-#### build-runners.gitlab.org
+#### build-runners-gitlab-org
 
 This runner manager manages the machines used for building and publishing
 official GitLab CE and EE packages. It is locked to the [omnibus-gitlab](https://dev.gitlab.org/gitlab/omnibus-gitlab/)
-and [gitlab-omnibus-builder](https://dev.gitlab.org/cookbooks/gitlab-omnibus-builder/) projects in dev.gitlab.org.
+and [`cookbooks/gitlab-omnibus-builder`](https://dev.gitlab.org/cookbooks/gitlab-omnibus-builder/) projects in dev.gitlab.org.
+
+Its configuration can be found in the [private `gitlab-com/gl-infra/chef-repo` project](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/master/roles/build-runners-gitlab-org.json).
 
 It spins up the following types of machines:
 
-1. x86_64 machines for building packages. They are `n1-highcpu-32` machines with 60GB
-   SSD disks, spawned inside GCP using `google` docker-machine driver.
+1. [`x86_64` machines for building packages](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-runners-gitlab-org.json#L63-106).
+   They are `n1-highcpu-32` machines with 80GB SSD disks, spawned inside GCP using `google` docker-machine driver.
 
-1. ARM64 machines for building ARM and Raspberry Pi packages. They are
-   `m6g.2xlarge` machines with 50GB solid state disks spawned inside AWS
-   using the `amazonec2` docker-machine driver.
+1. [`arm64-builder-dev-gitlab` for building Docker images for ARM and RPi](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-runners-gitlab-org.json#L149-183).
+   They are `m6g.2xlarge` machines with 80GB solid state disks spawned inside AWS using the `amazonec2` docker-machine driver. This is used in <https://dev.gitlab.org/cookbooks/gitlab-omnibus-builder>.
 
-1. `package-promotion` machines for uploading packages. Since they are only used
-   to upload packages, they are scaled down to save costs. They are
-   `n1-standard-2` machines, spawned inside GCP using `google` docker-machine
-   driver.
+1. [`arm64-runners-manager-dev-gitlab` for building ARM and RPi packages](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-runners-gitlab-org.json#L184-226).
+   They are `m6g.2xlarge` machines with 80GB solid state disks spawned inside AWS using the `amazonec2` docker-machine driver.
 
-#### build-trigger-runner-manager.gitlab.org
+1. [`package-promotion` machines for uploading packages](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-runners-gitlab-org.json#L107-148).
+   Since they are only used to upload packages, they are scaled down to save costs. They are `n2d-standard-2` machines, spawned inside GCP using `google` docker-machine driver.
+
+#### build-trigger-runner-manager-gitlab-org
 
 This runner manager manages the machines used for building packages as part of
 triggered pipeline used by developers to test their changes.
 
+Its configuration can be found in the [private `gitlab-com/gl-infra/chef-repo` project](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/master/roles/build-trigger-runner-manager-gitlab-org.json).
+
 It spins up the following types of machines:
 
-1. x84_64 machines for building packages. They are `n1-highcpu-32` machines with 50GB
-   SSD disks, spawned inside GCP using `google` docker-machine driver.
+1. [`x84_64` machines for building packages](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-trigger-runner-manager-gitlab-org.json#L95-139)
+   in the [`gitlab-org/omnibus-gitlab-mirror`](https://gitlab.com/gitlab-org/omnibus-gitlab-mirror) project.
+   They are `n1-highcpu-32` machines with 80GB SSD disks, spawned inside GCP using `google` docker-machine driver.
 
-1. ARM64 machines for buidling arm64 and Raspberry Pi builder images. They
-   are `m6.2xlarge` machines with 50GB solid state disks spawned inside AWS
-   using the `amazonec2` docker-machine driver.
+1. [ARM64 machines for buidling arm64 and Raspberry Pi builder images](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-trigger-runner-manager-gitlab-org.json#L140-174).
+   They are `m6g.2xlarge` machines with 80GB solid state disks spawned inside AWS using the `amazonec2` docker-machine driver.
 
-1. `qa-builder` machines for creating qa test images. They are `n1-standard-2` machines
-   with 50GB disks, spawned inside GCP using `google` docker-machine driver.
+1. [`qa-builder` machines for running end-to-end tests](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a33687bcfaa6728fd4c3255f53cefd80c90a7436/roles/build-trigger-runner-manager-gitlab-org.json#L54-94)
+   in the [`gitlab-org/gitlab-qa`](https://gitlab.com/gitlab-org/gitlab-qa) and [`gitlab-org/gitlab-qa-mirror`](https://gitlab.com/gitlab-org/gitlab-qa-mirror) projects.
+   They are `n2d-standard-2` machines with 50GB disks, spawned inside GCP using `google` docker-machine driver.
 
 ### Maintenance tasks
 

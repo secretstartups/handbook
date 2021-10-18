@@ -103,6 +103,7 @@ If the latest image of the analyzer was built with the affected version of Go, t
 To rebuild the image, maintainers can either:
 - trigger a new pipeline for the git tag that corresponds to the stable release
 - create a new git tag where the `BUILD` number is incremented
+- trigger a pipeline for the default branch, and where the `PUBLISH_IMAGES` variable is set to a non-empty value
 
 Either way a new Docker image is built, and it's published with the same image tags: `MAJOR.MINOR.PATCH` and `MAJOR`.
 

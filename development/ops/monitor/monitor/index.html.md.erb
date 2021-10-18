@@ -311,10 +311,21 @@ The Monitor team uses labels for issue tracking and to organize issue boards.  M
 |                | Label                             | Required            | Description                                               |
 |----------------|-----------------------------------|---------------------|-----------------------------------------------------------|
 | **Stage**      | `~devops::monitor`                | Yes                 | Identifies which stage of GitLab an issue is assigned to. |
-| **Group**      | `~group::monitor`                  | Yes                 | Identifies which team this issue belongs to. This triggers new issues to appear in the weekly triage report for the team's Product and Engineering managers. |
+| **Group**      | `~group::monitor`                 | Yes                 | Identifies which team this issue belongs to. This triggers new issues to appear in the weekly triage report for the team's Product and Engineering managers. |
 | **Team**       |                                   | Yes                 | Identifies which team (or both) will develop a solution. |
 |                | `~frontend`                       |                     |                                                            |
 |                | `~backend`                        |                     |                                                            |
+| **Category**   |                                   | No                 | Identifies the correct [Monitor category](https://about.gitlab.com/direction/monitor/#categories) the issue falls under. |
+|                | `~Category:Runbooks`              |                     |                                                            |
+|                | `~Category:Metrics`               |                     |                                                            |
+|                | `~Category:Incident Management`   |                     |                                                            |
+|                | `~Category:On-call Schedule Management`|                     |                                                            |
+|                | `~Category:Logging`               |                     |                                                            |
+|                | `~Category:Tracing`               |                     |                                                            |
+|                | `~Category:GitLab Self Monitoring`|                     |                                                            |
+|                | `~Category:Error Tracking`        |                     |                                                            |
+|                | `~Category:Synthetic Monitoring`  |                     |                                                            |
+|                | `~Category:Product Analytics`     |                     |                                                            |
 | **Milestone**  | %#.##                             | No                  | While technically not a label, if the issue is being worked on immediately, add the current milestone.  If you know when the issue needs to be scheduled (such as follow-up work), add the future milestone that it should be scheduled in.  Otherwise, leave it empty. |
 | **Priority**   |                                   | Yes, when scheduled | If an issue is scheduled in the current milestone it mush have a `~deliverable` or `~filler` label. |
 |                | `~deliverable`                    |                     | Issues committed to being completed in the current milestone.  |

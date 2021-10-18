@@ -215,7 +215,7 @@ Every month, a Geo engineer is assigned to be the DRI for triaging issues labele
 
 Process summary:
 1. Every week, the Engineering Manager assigns the automated triage issue to the triage DRI. The Due Date is set to the Monday of the following week, the DRI is expected to close the issue with the quick update: how many bugs were triaged, if one fixed any themself, and if there are any awaiting feedback.
-1. The DRI will examine issues that do not yet have a `severity` applied yet. We have a [bug triage board](https://gitlab.com/groups/gitlab-org/-/boards/1077712?label_name[]=bug&label_name[]=group%3A%3Ageo) for easier viewing of bugs without `severity`. 
+1. The DRI will examine the issues in the `Bug Section` that do not yet have a [severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) applied yet. We have a [bug triage board](https://gitlab.com/groups/gitlab-org/-/boards/1077712?label_name[]=bug&label_name[]=group%3A%3Ageo) for easier viewing of bugs without [severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity).
 1. For a given issue, the DRI will:
     1. Determine if the bug is easily reproducible. If more information is required, follow up with the issue author. If the issue does not fall under the Geo team's domain, ping the EM of the appropriate team or ask for Quality team's help by mentioning `@gitlab-org/issue-triage` in the comments.
         1. If you are awaiting feedback from an issue author, assign yourself and apply the `awaiting feedback` label.
@@ -226,7 +226,7 @@ Process summary:
         1. Severity of 1 or 2.
     1. If the bug requires further investigation or implementing the fix will require significant effort, the DRI should:
         1. Determine whether a workaround for the issue exists and document it.
-        1. Apply a `severity` label based on the impact of the bug and feasibility of any workarounds.
+        1. Apply a [severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) label based on the impact of the bug and feasibility of any workarounds.
         1. Apply the `workflow::scheduling` label so that the PM and EM can decide whether to schedule the issue or put in the `Backlog`.
 1. At the end of the month, the triage DRI will schedule a hand off meeting with the next triage DRI to cover any ongoing issues and any strategies for dealing with the backlog of issues.
 
@@ -248,7 +248,7 @@ Expectations:
 | June 2021 | @dbalexandre |
 | May 2021 | @mkozono |
 | April 2021 | @dbalexandre |
-| March 2021 | @mkozono | 
+| March 2021 | @mkozono |
 | February 2021 | @alexives |
 
 ## Retrospectives

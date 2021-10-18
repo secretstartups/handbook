@@ -66,52 +66,54 @@ By the week prior to the completion of the current milestone, the scope of the n
 Backlog refinement is the most important step to ensure an issue is ready to move into development
 and that the issue will match everyone's expectations when the work is delivered.
 
-The goal of the refinement process is to:
-*  Identify and resolve outstanding questions or discussions.
-*  Raise any questions, concerns or alternative approaches.
-*  Outline an implementation plan.
-*  Ensure issue is ready to be worked on.
-*  Assign a weight to the issue.
+The goal of the refinement process is to ensure an issue is ready to be worked on by doing this:
+* Identify and resolve outstanding questions or discussions.
+* Identify missing dependencies (e.g. `backend` API).
+* Raise any questions, concerns or alternative approaches.
+* Outline an implementation plan.
+* Assign a weight to the issue.
 
 ### Refinement steps for Engineers:
 
-1.  Issues you need to refine will be assigned to you by your EM. Note the
-    differences for [bugs](#bug-diagnosis) and [spikes](#refinement-for-spikes).
-1.  Backend/Frontend labels:
-    * If a backend engineer is required for the issue, ensure a `backend` label. Otherwise, remove
-      any backend label, assign any relevant labels and you are done.
-    * If a frontend engineer is required for the issue, ensure a `frontend` label. Otherwise,
-      remove any frontend label, assign any relevant labels and you are done.
-1.  Check the issue for completeness.
-    *  Does it have the necessary designs?
-    *  Is the functionality clearly articulated and is there a consensus or decision on how it
-       should function?
-    *  Are the technical details outlined?
-    *  Has a consensus been reached or decision been made in areas of discussion?
-    *  Are there dependencies? Call those out.
+1. Issues you need to refine will be assigned to you by your EM. Note the
+   differences for [bugs](#bug-diagnosis) and [spikes](#refinement-for-spikes).
+1. Backend/Frontend labels:
+   * If a backend engineer is required for the issue, ensure a `backend` label. Otherwise, remove
+     any backend label, assign any relevant labels and you are done.
+   * If a frontend engineer is required for the issue, ensure a `frontend` label. Otherwise,
+     remove any frontend label, assign any relevant labels and you are done.
+1. Check the issue for completeness.
+   * Does it have the necessary designs?
+   * Is the functionality clearly articulated and is there a consensus or decision on how it
+     should function?
+   * Are the technical details outlined?
+   * Has a consensus been reached or decision been made in areas of discussion?
+   * Are there dependencies? Call those out.
 1. If the issue is not complete:
-    *  Tag the relevant people that can help complete the issue and outline what is needed. Tag the
-       appropriate EM and PM, so they know that the item can not be fully refined.
-    * If you are unable to resolve blockers to your refinement within a reasonable amount of time
-      (2-3 days dependign on size of initative) see [Failing Refinement](#failing-refinement).
+   * Tag the relevant people that can help complete the issue and outline what is needed. Tag the
+     appropriate EM and PM, so they know that the item can not be fully refined.
+   * If you are unable to resolve blockers to your refinement within a reasonable amount of time
+     (2-3 days dependign on size of initative) see [Failing Refinement](#failing-refinement).
 1. Ensure the issue is fully understood.
-    *  Update the issue description with the final description of what will be implemented.
-    *  Update the issue description with an [implementation plan](#implementation-plan).
-    *  Ensure the issue title is accurate for the work being done.
-    *  Open up new issues for 'follow-up' work, or work that was forced out of scope.
+   * Update the issue description with the final description of what will be implemented.
+   * Update the issue description with an [implementation plan](#implementation-plan).
+   * Ensure the issue title is accurate for the work being done.
+   * Open up new issues for 'follow-up' work, or work that was forced out of scope.
 1. Assign a [weight](#weights).
-    * If the issue requires both frontend and backend work, it should be split and weighed independently.
+   * If the issue requires both frontend and backend work, it should be split and weighed independently.
 1. Determine if [a feature flag is needed](https://docs.gitlab.com/ee/development/feature_flags/process.html#when-to-use-feature-flags).
-    * If you think that we should use the feature flag for a given issue, add ~"feature flag" label and add in the description a section called **Feature Flag** with the proposed name.
+   * If you think that we should use the feature flag for a given issue, add ~"feature flag" label
+     and add in the description a section called **Feature Flag** with the proposed name.
 1. Encourage Community Contributions.
-    *  If the scope of the issue is well defined and there are no dependencies, consider adding [contribution Labels](/handbook/marketing/community-relations/code-contributor-program/#contribution-labels).
-    * The `~"good for new contributors"` label is particularly helpful but note that you would
-      be [volunteering to mentor new contributors](/handbook/marketing/community-relations/code-contributor-program/#issues-for-new-contributors).
+   * If the scope of the issue is well defined and there are no dependencies, consider adding
+     [contribution Labels](/handbook/marketing/community-relations/code-contributor-program/#contribution-labels).
+   * The `~"good for new contributors"` label is particularly helpful but note that you would
+     be [volunteering to mentor new contributors](/handbook/marketing/community-relations/code-contributor-program/#issues-for-new-contributors).
 1. Refinement Review.
-    * If the weight you've assigned to the issue is 1, move the issue directly to `~"workflow::ready for development"`.
-    * If the weight of the issue is greater than 1, unassign the issue from yourself and request a review from another engineer.
-    * When the reviewer agrees with the implementation plan and weight, they will unassign themself and move the issue to
-   `~"workflow::ready for development"`.
+   * If the weight you've assigned to the issue is 1, move the issue directly to `~"workflow::ready for development"`.
+   * If the weight of the issue is greater than 1, unassign the issue from yourself and request a review from another engineer.
+   * When the reviewer agrees with the implementation plan and weight, they will unassign themself
+     and move the issue to `~"workflow::ready for development"`.
 
 Anyone should be able to read a refined issue's description and understand what is being
 solved, how it is solving the problem, and the technical plan for implementing the issue.
