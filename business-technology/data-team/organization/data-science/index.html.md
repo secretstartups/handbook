@@ -171,7 +171,9 @@ Below listed common data science terms that are used by team.
 
 # Python vs SQL 
 
-If you are familiar with structured Query Language (SQL), you may want to use clauses while doing your analysis in Python. Below listed Python's equivalents of popular SQL commands. 
+If you are familiar with structured Query Language (SQL), you may want to use clauses while doing your analysis in Python (with library pandas). Below listed Python's equivalents of popular SQL commands. 
+
+Please note that below is not the only way to achieve your expected outcomes - there are many ways in Python to achieve the same result.  
 
 ## SELECT * FROM 
 
@@ -180,6 +182,21 @@ If you are familiar with structured Query Language (SQL), you may want to use cl
 data 
 
 ```
+
+## SELECT col1, col2 FROM 
+
+
+```python
+columns = ['col1', 'col2']
+
+data[columns]
+
+#above can be combined in one code as follows:
+
+data[['col1','col2']]
+
+```
+
 ## COUNT
 
 ```python
@@ -190,9 +207,45 @@ len(data)
 data.size
 ```
 
+## LIMIT
 
+```python
+#lists first 5 rows 
+data.head()
 
+#if you want top 10 rows you can do it by adding number inside head() function
+data.head(10)
+```
 
+## WHERE 
+
+```python
+
+condition = data['column1'] > value
+
+data[condition]
+
+```
+
+Please note that Python accepts combined conditions. Python's equivalent for AND is & and for OR is | 
+
+## GROUP BY (with aggregation functions)
+
+```python
+
+#lists count of rows per column 1
+data.groupby(['col1']).size()
+
+#lists average value of rows per column1
+data.groupby(['col1']).mean()
+
+#lists min value of rows per column1
+data.groupby(['col1']).min()
+
+#lists max value of rows per column1
+data.groupby(['col1']).max()
+
+```
 
 
 
