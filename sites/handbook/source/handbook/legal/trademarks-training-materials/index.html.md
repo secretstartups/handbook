@@ -28,7 +28,7 @@ This introductory session covers the following topics:
 * Trademark infringement
 
 ### **Using Third-party Trademarks**
-🎥 <a href="https://youtu.be/ZJigY-14vos" target="_blank">Video</a> 🎞️ <a href="https://docs.google.com/presentation/d/1rsBNMFnGTk-NNGKotCQxWy0kmcumU_MQXKncTkX6_tE/edit?usp=sharing" target="_blank">Slides</a> 📃 <a href="https://docs.google.com/document/d/13Qd7FGvUH907lkRWYtQy357PqSbxYyNIM6QSSiaryRs/edit?usp=sharing" target="_blank">Transcript</a> 🔈 <a href="https://drive.google.com/file/d/1YoR1_Zhmt4YtV_aERWdoaVoQWMRC3KXB/view?usp=sharing" target="_blank">Audio</a>
+🎥 <a href="https://youtu.be/KbVOenojbUU" target="_blank">Video</a> 🎞️ <a href="https://docs.google.com/presentation/d/1rsBNMFnGTk-NNGKotCQxWy0kmcumU_MQXKncTkX6_tE/edit?usp=sharing" target="_blank">Slides</a> 📃 <a href="https://docs.google.com/document/d/13Qd7FGvUH907lkRWYtQy357PqSbxYyNIM6QSSiaryRs/edit?usp=sharing" target="_blank">Transcript</a> 🔈 <a href="https://drive.google.com/file/d/1YoR1_Zhmt4YtV_aERWdoaVoQWMRC3KXB/view?usp=sharing" target="_blank">Audio</a>
 
 This session covers the following topics:
 * An explanation of the defence of fair use with respect to trademarks
@@ -37,7 +37,7 @@ This session covers the following topics:
 * Practical tips for using third-party trademarks in such a way that is likely to constitute fair use
 
 ### **Using the GitLab Trademarks**
-🎥 <a href="hhttps://youtu.be/McGuMLzzWOM" target="_blank">Video</a> 🎞️ <a href="https://docs.google.com/presentation/d/1D-p0U4RfbV8f5Fwpv71CqDrS9bKJuq6NLt6kV-ZFTDg/edit?usp=sharing" target="_blank">Slides</a> 📃 <a href="https://docs.google.com/document/d/1eb8EO9FIsrvuZD2CQ3G1C117ESUdlkaKLsK57k3QUIQ/edit?usp=sharing" target="_blank">Transcript</a> 🔈 <a href="https://drive.google.com/file/d/1ZgKXjC6Nnnpw04J53O0s3mFDSb4esulK/view?usp=sharing" target="_blank">Audio</a>
+🎥 <a href="https://youtu.be/McGuMLzzWOM" target="_blank">Video</a> 🎞️ <a href="https://docs.google.com/presentation/d/1D-p0U4RfbV8f5Fwpv71CqDrS9bKJuq6NLt6kV-ZFTDg/edit?usp=sharing" target="_blank">Slides</a> 📃 <a href="https://docs.google.com/document/d/1eb8EO9FIsrvuZD2CQ3G1C117ESUdlkaKLsK57k3QUIQ/edit?usp=sharing" target="_blank">Transcript</a> 🔈 <a href="https://drive.google.com/file/d/1ZgKXjC6Nnnpw04J53O0s3mFDSb4esulK/view?usp=sharing" target="_blank">Audio</a>
 
 This session covers the following topics:
 * The importance of GitLab’s trademarks, and why all team members are responsible for their maintenance and protection
