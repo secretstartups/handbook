@@ -169,6 +169,49 @@ Below listed common data science terms that are used by team.
 **Clustering** - process of definining groupings in dataset 
 
 
+# Python vs SQL 
+
+If you are familiar with structured Query Language (SQL), you may want to use clauses while doing your analysis in Python. Below listed Python's equivalents of popular SQL commands. 
+
+## SELECT * FROM 
+
+```python
+#assuming you loaded your dataset as 'data' just put the name of dataframe into Jupyter's cell
+data 
+
+```
+## COUNT
+
+```python
+#defines length of dataframe what equals to amount of rows
+len(data)
+
+#similar as above but additionally lists amount of columns
+data.size
+```
+
+```python
+# Don't do this!
+try:
+   print("Do something")
+except:
+   print("Caught every type of exception")
+
+# Do this 
+while maximum_backoff_sec > (2 ** n):
+    try:
+        print("Do something")
+    except APIError as gspread_error:
+        if gspread_error.response.status_code in (429, 500, 502, 503):
+            self.wait_exponential_backoff(n)
+            n = n + 1
+        else:
+            raise
+else:
+    error(f"Max retries exceeded, giving up on {file_name}")
+```
+
+
 
 
 
