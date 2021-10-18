@@ -28,7 +28,7 @@ DRI: Candidate Experience Team
 1. Find the interview time that works best and hit “select”
 1. Click “Add Zoom to meeting” under each interview
 1. Ensure the Interview Calendar is selected on the bottom of the page so the interview gets put on the appropriate calendar
-1. Once you see the confirmation message at the top of the screen that the interview invites have been successfully sent, you can close the Interview Schedule tab and go back to Greenhouse
+1. Once you see the confirmation message at the top of the screen that the interview invites have been successfully sent, you can close the Prelude tab and go back to Greenhouse
 1. Once you refresh Greenhouse, you should see the interviews populated
 1. Lastly, you’ll send candidate confirmations via Guide
 
@@ -48,7 +48,7 @@ DRI: Candidate Experience Team
 1. Ensure the Interview Calendar is selected on the bottom so the interview gets put on the appropriate calendar
 1. Lastly, you'll send candidate confirmations via Guide
 
-#### How to update a pool in Interview Schedule
+#### How to update a pool in Prelude
 1. Click on the `Settings` tab at the top of the screen
 1. Go down to the Attributes section in the left hand panel and select
 1. Hit `View All Attributes`
