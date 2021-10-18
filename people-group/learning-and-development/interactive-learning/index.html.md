@@ -98,6 +98,8 @@ Not all video on the GitLab Unfiltered channel is handbook first. In order to be
 In addition to making video learning content handbook first, consider these best practices when recording video training or delivering live training:
 
 1. Turn on [Zoom closed captionining and live transcription](https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription)
+1. Whenever possible, upload public videos to YouTube and use the YouTube link to share video on EdCast. This allows users to enable YouTube `closed caption` feature
+1. Upload `.vtt` files with video content added to Rise courses using Articulate360 to include closed captions within the course.
 
 
 ### Handbook first course example
