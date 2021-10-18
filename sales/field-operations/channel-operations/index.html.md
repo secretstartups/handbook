@@ -475,7 +475,43 @@ For more information on quoting or the Partner Program, please visit:
 - [Partner Program](https://about.gitlab.com/handbook/resellers/)
 - [Channel Discount Matrices for GitLab Team Members](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts).  
  
- 
+### Chatter Aliases to Use for SFDC Opportunity and Account Tagging
+When working within an opportunity (or account) in SFDC, please be sure to tag the appropriate team for fastest tag management and to keeo our deals moving smoothly. 
+
+| *Tag Reason* | *Correct Chatter Alias* |
+| ------ | ------ |
+| Update Partner Account Owner | @ Partner Operations |
+| Update Customer Account Owner | @ Sales-Support | 
+| Update Opportunity Owner | @ Sales-Support |
+| Update SQS | @ Partner Operations |
+| Move a linked Deal Reg | @ Partner Help Desk |
+| System issue related to Deal Reg info | @ Partner Operations |
+| System issue related to quote | @ Sales-Support & @ Partner Operations |
+| Extend a Deal Reg | @ Partner Operations |
+| Account Data Review | @ Partner Operations |
+| Opportunity Compensation Questions | @ Partner Operations |
+| ARR Review | @ Sales-Support & @ Partner Operations |
+| Merging Records | @ Partner Operations |
+| Opportunity Approval | @ Partner Operations |
+| Opportunity Data Review | @ Partner Operations |
+| Opportunity Question | @ Partner Operations |
+| Process Question | @ Sales-Support & @ Partner Operations |
+| Quote Approval | @ Sales-Support & @ Partner Operations |
+| Quoote Review | @ Sales-Support & @ Partner Operations |
+| System Error | @ Partner Operations |
+| Partner Discount Matrix Questions | @ Partner Operations |
+| Standard Approval Matrix Questions | @ Sales-Support |
+| Marketplace Private Offer Requests | @ Partner Operations |
+| Partner Deal Registration Access | @ Partner Help Desk |
+| Setup Billing Accounts | @ Billing Ops |
+| Invoice Issues/Questions | @ Billing Ops |
+| Basic Quote Assistance | @ Sales-Support |
+| Ramp Deal | @ Sales-Support |
+| Flat Renewal | @ Sales-Support |
+| Contract Reset/Co-term | @ Sales-Support |
+| Non-standard Deal Structure | @ Sales-Support & @ Partner Operations |
+
+
 ## Partner Help Desk Support and Communication
  
 **Internal Team Members:** Chatter @Partner Help Desk in Salesforce or for general questions, post in the Slack channel #channel-programs-ops.  
