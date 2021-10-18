@@ -71,11 +71,11 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
   - [Minimum Wage Poster](https://www.cityofberkeley.info/MWO/)
 * **City of Los Angeles**
   - [Fair Chance Ordinance](https://bca.lacity.org/Uploads/fciho/Fair%20Chance%20Initiative%20for%20Hiring%20Ordinance%20for%20Private%20Employers.pdf)
-  - [Minimum Wage and Paid Sick Leave](https://wagesla.lacity.org/sites/g/files/wph471/f/2019-MWO-Poster-EN-11.pdf)
+  - [Minimum Wage and Paid Sick Leave](https://file.lacounty.gov/SDSInter/dca/245570_FinalMinimumWageOrdinancePosterEnglishStandardSize8.5x14.pdf)
 * **County of Los Angeles**
-  - [Minimum Wage Ordinance](http://file.lacounty.gov/SDSInter/dca/245570_FinalMinimumWageOrdinancePosterEnglishStandardSize8.5x14.pdf)
+  - [Minimum Wage Ordinance](https://file.lacounty.gov/SDSInter/dca/245570_FinalMinimumWageOrdinancePosterEnglishStandardSize8.5x14.pdf)
 * **City of Oakland**
-  - [Minimum Wage/Paid Sick Leave](http://www2.oaklandnet.com/oakca1/groups/contracting/documents/marketingmaterial/oak061391.pdf)
+  - [Minimum Wage/Paid Sick Leave](https://www2.oaklandnet.com/oakca1/groups/contracting/documents/marketingmaterial/oak061391.pdf)
 * **City of San Jose**
   - [Minimum Wage Bulletin](https://www.sanjoseca.gov/home/showpublisheddocument/67133/637417196663600000)
   - [Opportunity to Work Notice](https://www.sanjoseca.gov/home/showdocument?id=20073)
