@@ -190,26 +190,7 @@ len(data)
 data.size
 ```
 
-```python
-# Don't do this!
-try:
-   print("Do something")
-except:
-   print("Caught every type of exception")
 
-# Do this 
-while maximum_backoff_sec > (2 ** n):
-    try:
-        print("Do something")
-    except APIError as gspread_error:
-        if gspread_error.response.status_code in (429, 500, 502, 503):
-            self.wait_exponential_backoff(n)
-            n = n + 1
-        else:
-            raise
-else:
-    error(f"Max retries exceeded, giving up on {file_name}")
-```
 
 
 
