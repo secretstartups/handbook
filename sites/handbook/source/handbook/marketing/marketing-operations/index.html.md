@@ -33,14 +33,14 @@ Our team is structured as business partners to the rest of marketing. See focus 
 
 | Person | Role | Focus |
 | ------ | ------ | ------ |
-| [Amy Waller](https://gitlab.com/amy.waller)* | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | Campaigns |
-| [Beth Peterson](https://gitlab.com/bethpeterson)* | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | SDRs |
+| [Amy Waller](https://gitlab.com/amy.waller) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) | Awareness & Acquisition |
+| [Beth Peterson](https://gitlab.com/bethpeterson) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) | Conversion & Retention |
+| [Nikki Roth](https://gitlab.com/nikkiroth) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | Campaigns, Content |
 | [Gillian Murphy](https://gitlab.com/gillmurphy) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Content, Localization, and SDRs |
 | [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Associate](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | Digital, Operations |
 | [Robert Rosu](https://gitlab.com/RobRosu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Data |
 | [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Content, Campaigns |
 
-_*indicates business partner_
 
 ## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
 
@@ -117,6 +117,9 @@ Please do not reopen issues that have been closed in a previous milestone. If yo
 ### Weights
 
 To help prioritize issues and scope work in our milestones, we've adopted GitLab [issue weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html#issue-weight) to our issues. By adding a weight to our issues, our team will have a better idea of how much time, value or complexity a given issue has or costs. For the numbering formula, we are using the traditional Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21. Anything marked `21` or above may be promoted to an epic. 
+
+### OKRs
+To track progress on and provide visibility to team OKRs each quarter, Marketing Operations creates a [parent epic](https://gitlab.com/groups/gitlab-com/-/epics/1597) to organize our team-wide work. Issues added to an OKR-related epic utilize [health statuses](#health-status).
 
 ### Health Status
 
@@ -254,6 +257,7 @@ Integrated with Salesforce
 - [Marketo](/handbook/marketing/marketing-operations/marketo)
 - [Outreach.io](/handbook/marketing/marketing-operations/outreach)
 - [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
+- [ReachDesk](/handbook/marketing/marketing-operations/reachdesk/)
 - [Terminus Email Experiences](/handbook/marketing/marketing-operations/terminus-email-experiences)
 - [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
 
@@ -280,7 +284,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - LaunchDarkly
 - [LogRocket](/handbook/marketing/marketing-operations/logrocket)
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
-- MailChimp
+- [MailChimp](/handbook/marketing/marketing-operations/marketo/#mailchimp-sends)
 - [OneTrust](/handbook/marketing/marketing-operations/onetrust)
 - [Rev](/handbook/marketing/marketing-operations/rev)
 - SEMrush
@@ -371,7 +375,7 @@ Status in the table below means:
 | ------ | ------------- | --------------------------------- | ------- |
 | CE Download | core | Downloaded CE version of GitLab | Active |
 | CE Usage Ping | core | Created from CE Usage Ping data | Active |
-| CORE Check-Up | core |  | Active |
+| CORE Check-Up | core | Created from In-App Contact us (Handraise PQL/In-App Health Check) | Active |
 | Demo | inbound | Filled out form to watch demo of GitLab | Active |
 | Education | inbound | Filled out form applying to the Educational license program | Active |
 | Email Request | inbound | Used when an email was received through an alias (_will be deprecated_) | Active |

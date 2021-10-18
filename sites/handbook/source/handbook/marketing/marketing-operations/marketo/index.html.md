@@ -154,7 +154,7 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |**Action**|Campaign Type|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
 |Registered |Registered, <br> Conference > Meeting Requested|	+10	|{{my.Registered}}|	Trigger	| Everytime|
-|Follow Up Requested| Follow Up Requested|	+100	|{{my.Follow Up Requested}}	|Trigger	| Everytime|
+|Follow Up Requested| Follow Up Requested <br> Conference > Meeting Attended|	+100	|{{my.Follow Up Requested}}	|Trigger	| Everytime|
 |* Program High|Workshop, <br> Self-Service Virtual Event, <br> Webcast, <br> Executive Roundtables |	+30	|{{my.Online - High}} |Trigger| Everytime|
 |* Program Med|Sponsored Webcast, <br>Speaking Session,<br> Owned Event	|+20	|{{my.Online - Med}}|Trigger|Everytime|
 |* Program Low |Vendor Arranged Meetings,<br> Conference	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
@@ -165,13 +165,13 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |* Survey - Med|(None Defined)	|+30|	{{my.Survey - Med}}		|Trigger|Everytime|
 |* Survey - Low|Googleforms, <br> Default	|+15|	{{my.Survey - Low}}		|Trigger|Everytime|
 |* PathFactory |Consumes PF content|+10|{{my.Content - High}}|Trigger|Everytime|
-|* Inbound  - High|Contact Request, <br> Demo, <br> Renewals <br> [Hand Raise PQL](https://about.gitlab.com/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise)|	+100|{{my.Inbound - High}}|	Trigger|	1/day	|
+|* Inbound  - High|Contact Request, <br> Renewals, <br> [Hand Raise PQL](https://about.gitlab.com/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise)|	+100|{{my.Inbound - High}}|	Trigger|	1/day	|
 |* Inbound - Med|Inbound form, not above |	+60|{{my.Inbound - Med}}	|	Trigger	|1/day|
 |Drift - High| Drift Interactions with Meeting Scheduled|+100|{{my.Drift - High}}|Trigger|1/day|
 |Drift - Low|All other Drift Interactions|+10|{{my.Drift - Low}}|Trigger|1/day|
 |* Trial | SaaS,<br>Self-Managed,<br>Subscription Portal   |	+65|{{my.Trial}}	|Trigger| 1/day	|
 |Subscription|Fills out Subscription Form	|+5|{{my.Subscription}}	|Trigger	|1/week	|
-|Visits Key Webpage|`/pricing, /get-started`, `/install`, `/free-trial`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
+|Visits Key Webpage|`/pricing, /get-started`, `/install`, `/free-trial`, `/livestream`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
 |Visits Mult Webpages|7 pages in 1 day	|+5	|{{my.Visits Mult. Webpages}}	|Trigger	|1/ 3 days|
 |Web: No activity in 30 days|No web activity, not created in last 30|	-10	|{{my.No Web Activity}}|	Trigger|	1/month|
 |Web: Visits Low Value|`/jobs`|	-10	|{{my.Visits Low Value Webpage}}|	Trigger	|1/day|
@@ -185,7 +185,7 @@ These are boosters to scores that occur when a special action takes place above 
 |**Action**|Description|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
 |E-Book Booster|Lead is created with `Initial Source` of `Gated Content - Ebook`| +15| {{my.Booster}}|Trigger|Once|
-|Demo Webcast Booster|Attends (or On-Demand) demo webcast (not incl. demo form fills)| +15| {{my.Booster}}|Trigger|1/day|
+|Demo Webcast Booster|Attends (or On-Demand) demo webcast | +15| {{my.Booster}}|Trigger|1/day|
 |PF Demo Booster|Consumes PF content that is a demo|+35|{{my.Demo PF Booster}}|Trigger|1/day|
 |PF Engagement Booster 1|Engagement Time >  2 minutes < 4 minutes|+10|{{my.Content Boost 1}}|Trigger|Everytime|
 |PF Engagement Booster 2|Engagement Time > 4 minutes|+15|{{my.Content Boost 2}}|Trigger|Everytime|
