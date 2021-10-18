@@ -180,7 +180,6 @@ Please note that below is not the only way to achieve your expected outcomes - t
 ```python
 #assuming you loaded your dataset as 'data' just put the name of dataframe into Jupyter's cell
 data 
-
 ```
 
 ## SELECT col1, col2 FROM 
@@ -192,7 +191,6 @@ columns = ['col1', 'col2']
 data[columns]
 
 #above can be combined in one code as follows:
-
 data[['col1','col2']]
 
 ```
@@ -220,8 +218,8 @@ data.head(10)
 ## WHERE 
 
 ```python
-
-condition = data['column1'] > value
+#list all rows for which column1 has value greater than 1
+condition = data['column1'] > 1
 
 data[condition]
 
