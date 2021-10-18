@@ -14,6 +14,10 @@ At GitLab, Slack is critical to our communication with each other.  While it ena
 
 There are groups of channels that can help with various areas of GitLab.  This page speaks to a few subsets of those channel groups.
 
+## Search
+
+Search for channels using either the `Search GitLab` toolbar, using a channel name with the `#channel-name` format, **or** go the the left sidebar, click on `More` and then `Channel browser`.
+
 ## Channels
 
 ### General Channels
@@ -122,9 +126,10 @@ In addition to weekly company group calls that bring us together, GitLab has Soc
 * **[`#all-caps`](https://gitlab.slack.com/archives/C01BC085AVB)**: Light-hearted conversation in ALL CAPS.
 * **[`#bookclub`](https://gitlab.slack.com/archives/C0GDX6MK6)**: A place for bibliophiles to connect, share recommendations and discuss their latest reads.
 * **[`#cats`](https://gitlab.slack.com/archives/cats), [`#dog`](https://gitlab.slack.com/archives/dog), [`#cute-animal-photos`](https://gitlab.slack.com/archives/cute-animal-photos)**: Show us your cutest pics of your pets! We love all pets, but we made special channels for cats and dog(s).
+* **[`#cheerleader`](https://gitlab.slack.com/archives/C027JBHML5A)**: When you need or want to share encouragement and support!
 * **[`#cooking`](https://gitlab.slack.com/archives/cooking)**: Share your favorite recipes, and brag about your homemade dishes.
 * **[`#dad_jokes`](https://gitlab.slack.com/archives/dad_jokes)**: Self-explanatory really, give us your best dad jokes!
-* **[`emilys`](https://gitlab.slack.com/archives/emilys)**: For all the Emily/ie/ia/ees at GitLab.
+* **[`#emilys`](https://gitlab.slack.com/archives/emilys)**: For all the Emily/ie/ia/ees at GitLab.
 * **[`#fitlab`](https://gitlab.slack.com/archives/fitlab)**: Channel to discuss fitness and related topics.
 * **[`#gaming`](https://gitlab.slack.com/archives/gaming)**: Discuss gaming (both tabletop and video). We also have a Discord linked in the topic.
 * **[`#office-today`](https://gitlab.slack.com/archives/office-today)**: Where’s your office today? Share a photo or use words to describe it.
@@ -133,3 +138,6 @@ In addition to weekly company group calls that bring us together, GitLab has Soc
 * **[`#managers`](https://gitlab.slack.com/archives/managers)**: Share ideas, thoughts, and issues on all things to do with being a manager at GitLab.
 * **[`#mental_health_aware`](https://gitlab.slack.com/archives/mental_health_aware)**: Mental health is [super important](/company/culture/all-remote/mental-health/) and we realize that. This is a place to discuss concerns you might be having or find someone to talk to if you're feeling alone. We aim to be supportive and available for all who need it.
 * **[`#music`](https://gitlab.slack.com/archives/music)**: Share your current playlist or any interesting music you come across.
+* **[`#postcrossing`](https://gitlab.slack.com/archives/C2L1HK6TV)**: Send team members postcards from your home cities, towns and villages from around the world.
+
+
