@@ -186,8 +186,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-10-04 | 2021-10-08 | UNAVAILABLE  | UNAVAILABLE |
-| 2021-10-11 | 2021-10-15 | UNAVAILABLE | UNAVAILABLE |
 | 2021-10-18 | 2021-10-22 | [Omar Fernández](https://gitlab.com/ofernandez2) - Director, Strategy and Operations | [Kyle Wiebers](https://gitlab.com/kwiebers) - Engineering Manager, Engineering Productivity |
 | 2021-10-25 | 2021-10-29 | [Taurie Davis](https://gitlab.com/tauriedavis) - Product Design Manager, Foundations | [Omar Fernández](https://gitlab.com/ofernandez2) - Director, Strategy and Operations |
 | 2021-11-01 | 2021-11-05 | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager | [Taurie Davis](https://gitlab.com/tauriedavis) - Product Design Manager, Foundations |
@@ -202,6 +200,15 @@ Exceptional community members may be able to participate, as well.
 | 2022-01-18 | 2022-01-21 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-01-24 | 2022-01-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-01-31 | 2022-02-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-02-07 | 2022-02-11 | UNAVAILABLE - SKO | UNAVAILABLE - SKO |
+| 2022-02-14 | 2022-02-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-02-22 | 2022-02-25 | AVAILABLE - REMOTE (short week due to holiday) | AVAILABLE - REMOTE |
+| 2022-02-28 | 2022-03-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-03-07 | 2022-03-11 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-03-14 | 2022-03-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-03-21 | 2022-03-25 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-03-21 | 2022-03-25 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-03-28 | 2022-04-01 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 
 If you have questions regarding the planned rotation schedule, please ping the [Staff Executive Business Admin to the CEO](/handbook/eba/#executive-business-administrator-team). The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
