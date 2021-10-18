@@ -45,6 +45,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 * [Requirements for Closing Deals](https://about.gitlab.com/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) - requirements for closing sales deals
 * [Terms](https://about.gitlab.com/terms/) - legal terms governing the use of GitLab's website, products, and services
 * [Acceptable Licenses](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/licensing.md) - list of acceptable licenses covering third party components used in development
+* [Trademarks training materials](https://about.gitlab.com/handbook/legal/trademarks-training-materials), covering _An Introduction to Trademarks_, _Using Third-party Trademarks_, and _Using the GitLab Trademark_.
 
 ## Processes
 * [Uploading Third Party Contracts to ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
