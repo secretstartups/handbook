@@ -13,7 +13,7 @@ title: Manager Challenge
 
 Welcome to the GitLab Manager Challenge page. The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](/handbook/leadership/#books/). 
 
-L&D will be rolling out a new iteration of the program and the next Manager Challenge will start on 2021-10-18 to 2021-10-29. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/67). Aspiring managers are welcome to sign up for the program, however, seats will be prioritized for current people leaders with direct reports. **Currently, the program is being offered to GitLab team members only.**
+L&D will be rolling out a new iteration of the program and the next Manager Challenge will start on 2021-10-18 to 2021-10-29. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/67). **Currently, the program is being offered to GitLab team members only.**
 
 ### Leadership Development Award   
 
@@ -185,7 +185,7 @@ Team members have access to [LinkedIn Learning](https://about.gitlab.com/handboo
 1. **What if I am out of the office for part of the program?**
      - As long as you complete the challenge and let the Learning and Development know when you have completed them, it is okay to be out of the office during the program. 
 1. **I'm not a Manager, can I still participate?**
-     - Yes, you can still participate in the Manager Challenge. If you are an aspiring people leader or a non-offical manager, please sign up! You'll get a ton out of the program even if you do not have any direct reports reporting to you. 
+     - No, right now, we are prioritizing current people leaders. 
 1. **How will participation be tracked?**
      - Each challenge will be in the form of an Issue. The details of the challenge will be laid out in the issue. We ask that participants complete the challenge asynchronously and comment on the issue according to the challenge prompt. 
 1. **Will I receive a certification?**
