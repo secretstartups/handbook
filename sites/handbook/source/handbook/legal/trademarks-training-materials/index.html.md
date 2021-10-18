@@ -11,14 +11,14 @@ description: "Trademarks training materials for GitLab team members"
 {:toc .hidden-md .hidden-lg}
 
 
-# **Trademarks at GitLab**
+# Trademarks at GitLab
 GitLab’s brand is one of its most valuable assets. As part of this, GitLab's trademarks (the name GitLab, and the GitLab [Tanuki logo](https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png)) distinguish GitLab’s product from those of its competitors. They also signify to our customers and prospects the high quality of our product, which people associate with GitLab.
 
 This series of three training sessions, covering _An Introduction to Trademarks_, _Using Third-party Trademarks_, and _Using the GitLab Trademark_, serves to introduce team members to key trademarks concepts relevant to their roles at GitLab.
 
 All training materials featured on this page are **internal only** - to access the videos, ensure you are **logged in to [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A)**; the slides, transcripts and audio files are accessible via the GitLab Google Drive. 
 
-### **An Introduction to Trademarks**
+### An Introduction to Trademarks
 🎥 <a href="https://youtu.be/aXb6AsWtKy0" target="_blank">Video</a> 🎞️ <a href="https://docs.google.com/presentation/d/10iMEUqsLvmbD2gR5IAlvEy04hVCWnep-3lNOXeg3PW0/edit?usp=sharing" target="_blank">Slides</a> 📃 <a href="https://docs.google.com/document/d/1G8Nkp9ywPtrpOPsqBaY4ivW6a69l2m17EEqAiKTdRWQ/edit?usp=sharing" target="_blank">Transcript</a> 🔈 <a href="https://drive.google.com/file/d/1VNI8KZ3T7wYMdlnhUqxWYI3pR52O0t0Y/view?usp=sharing" target="_blank">Audio</a>
 
 This introductory session covers the following topics:
