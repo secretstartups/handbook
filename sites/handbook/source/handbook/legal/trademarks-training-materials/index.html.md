@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Trademarks Training Materials"
+title: "Trademarks Training Materials"
 description: "Trademarks training materials for GitLab team members"
 ---
 
