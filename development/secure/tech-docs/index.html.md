@@ -17,6 +17,8 @@ title: Secure Technical Documentation
 
 ## Researches
 
+- [Data model for dependencies information](./data-model-for-dependencies-information)
+
 ## Brown bag sessions
 
 Secure team members also share knowledge through [brown bag sessions](https://gitlab.com/gitlab-org/secure/brown-bag-sessions#brown-bag-sessions) on various topics.
