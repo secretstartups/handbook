@@ -381,7 +381,7 @@ If you have trouble, try connecting to [http://captive.apple.com/](http://captiv
 
 ## U2F
 
-Universal 2nd Factor (U2F) is a cryptographically strong 2FA (2-factor authentication) method. It is hardware-based, and is typically deployed via a USB or NFC device. The standard is open and is maintained by the [FIDO Alliance](https://fidoalliance.org/).
+Universal 2nd Factor (U2F) is a cryptographically strong 2FA (2-factor authentication) method. It is hardware-based, and is typically deployed via a USB or NFC device. The standard is open and is maintained by the [FIDO Alliance](https://fidoalliance.org/). U2F is the preferred method of 2FA and is highly recommended by GitLab's Security Department. One of the points of 2FA is that while you are authenticating with a username and password for the first factor, a secondary factor should use a separate - or "out of band (OOB)" - communication channel for the authentication. U2F certainly meets that criteria, better than all other methods. There are other 2FA methods [outlined below](#other-2fa-methods).
 
 ### How it works
 
@@ -420,6 +420,54 @@ What GitLab team members need to keep in mind is that if you travel with your co
 If you are concerned about potentially losing your U2F hardware token, you can always purchase a second one, register it, and store it at a secure location. Sites following the U2F standard should support multiple hardware tokens. That way if one is lost or stolen, you can still use the other token.
 
 Usage of 2FA is mandatory for GitLab team members. While it is not mandatory to use a U2F hardware token at GitLab as your 2FA solution, it is highly recommended as it is one of the most secure and convenient ways to meet 2FA requirements.
+
+## Other 2FA Methods
+
+In addition to [U2F](#u2f), there are additional protocols used for 2FA. There is "cryptographic push", [TOTP](https://en.wikipedia.org/wiki/Time-based_One-Time_Password), and SMS-based authentication (text message). Pluses and minuses to each are listed below.
+
+### Cryptographic Push
+
+This is usually shortened to simply "push technology". It is called "push" because during the authentication process, after you've entered your username and password, the service you are authenticating with automatically "pushes" a secondary authentication via a separate communications channel to a device you possess. This is usually your phone, and it is facilitated via a phone app that is specific to that process. Like U2F, during the registration process a cryptographically-secure key pair is generated, and the app uses that key pair to uniquely identify the Push as coming from the service you are authenticating to. Typically the app then either directly notifies you or you access the app, which will pop up a message asking if you were in fact trying to authenticate. Answer yes and the authentication process is complete. GitLab team members may be familiar with this Push method as it is used by [Okta Verify](https://help.okta.com/eu/en-us/Content/Topics/end-user/ov-overview.htm).
+
+#### Push Caveats
+
+This method is not quite as secure as U2F, as typically the U2F stores data securely on the secure chip on the hardware device itself. It is possible that the Push phone app is also storing secret data on the local secure chip on the phone, however the entire process is dependent on the service's servers being up, and U2F is more self-contained. But note that Push technology is still considered extremely secure, and once configured it is fairly convenient to use.
+
+### TOTP
+
+Timed-based One-Time Password is fairly secure. This method involves a rotating value based off of a cryptographic seed that is used to uniquely identify communication between the service and the end user authenticating. The value is (usually) a six digit number that changes every 30 seconds, and during the authentication process after you've successfully entered in your username and password, you are asked to enter in the value.
+
+#### TOTP Caveats
+
+The main problem with TOTP is that during this 2FA process it typically involves the end user entering in all values through a single communications channel (usually a web browser). As this is the case, it is possible that an attacker could send you a fake web page for you to enter in your credentials, including your TOTP value. Granted, the attacker would have to be reading your replies and sending in all of your credential information extremely quickly and get the entire process completed with 30 seconds so the risk is greatly reduced, but it still exists. Both U2F and Push are preferred over TOTP, but as long as you are the one initiating the communication and you are not clicking on a link in email, you should be okay.
+
+### SMS
+
+One of the more popular (and most common) methods of 2FA is SMS-based text messaging. It is similar to TOTP, but instead of using a locally-stored application to calculate the six digit number, the service you are authenticating to sends the six digits to you via an SMS text message. When you set up your account, you provide the service with your cell phone number so they know which phone number to send the six digits to.
+
+#### SMS Caveats
+
+Due to the number of caveats, SMS is only recommended if there is no other 2FA option available. Here are the main problems with SMS messaging.
+
+- SMS is subject to the same phish-style attack as TOTP. The main difference is that some SMS-based authentication schemes time out after 60 seconds instead of 30, making the phish-style attack slightly easier for the attacker.
+- The information regarding your phone number is stored on a SIM card in your phone. If an attacker with physical access to your phone were to steal the SIM, they could impersonate you from their own phone. Of course they could do the same thing with your U2F token, however they would still need your username and password to use the U2F token. Unfortunately, calling up the service and asking for your password to be reset is often confirmed using SMS messaging, so with the possession of the SIM card, the attacker could pose as you. Again, if you treat your phone the same way you treat your credit card or cash, then this type of attack is minimized.
+- An attacker could contact your phone carrier, impersonate you and state you lost your phone, and set up a new SIM card. Unfortunately many times your account is protected with a security question such as "mother's maiden name", "favorite restaurant", or some other simple question - all information that could be determined from a website that does family trees or via social media where you post pictures of your dinner.
+- An older attack known as "[SIMJacker](https://simjacker.com/)" allowed an attacker to send your phone an SMS message with a malicious payload that allows for direct manipulation of the SIM card itself. This attack still works on older SIM cards, although more modern SIMs are no longer vulnerable to this. Most of the known attacks using SIMJacker involved Latin and South America, the Middle East, Northern Africa, parts of Eastern Europe, and parts of Southeast Asia.
+
+#### If You Must Use SMS
+
+There may be services that only offer SMS as their 2FA solution, so in those cases it is better than nothing. If this is the case, there are a few things you can do to secure things ever so slightly.
+
+- If you have an old phone (5+ years old) you might want to consider upgrading the SIM to a recent one, as these are not susceptible to the SIMJacker issues.
+- Contact your phone carrier and ask if there are additional security measures to protect your account besides security questions, such as a PIN. In lieu of that, you could also try setting your mother's maiden name or family pet security questions to something more, shall we say, unique (e.g. `Hdyla86kajDF64asdlui`).
+- Set a SIM PIN. For iOS devices, follow these [instructions from Apple](https://support.apple.com/en-us/HT201529). For Android devices, start with [these instructions](https://www.digitalcitizen.life/how-change-or-remove-sim-pin-android-2-steps/) but contact your phone's manufacturer website if the instructions do not fit your particular model.
+- Complain to the service to offer more than just SMS for 2FA! The more complaints they get, the more likely they might be to offer more secure options.
+
+### Additional 2FA Concerns
+
+Remember the purpose of 2FA - it is a secondary authentication method, invoked after the primary authentication method has succeeded. You should only acknowledge a 2FA request if you personally have just successfully completed the primary authentication. An unsolicited 2FA request means someone has your password, and is in the process of trying to log in as you. This is why 2FA exists, to help protect your user account from attacks involving your password.
+
+If you experience any such irregularities, please bring it to the attention of the Security Team. For more information, review the handbook regarding [Security Awareness](https://about.gitlab.com/handbook/security/#security-awareness)
 
 ## Slack
 
