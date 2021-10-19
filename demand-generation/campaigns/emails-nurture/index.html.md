@@ -37,7 +37,9 @@ This page focuses on emails and nurture programs, owned and managed by Marketing
 {: #quick-links}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-To be added
+* [FY21 Email Marketing Database Snapshot](https://docs.google.com/presentation/d/1PGeNl3grnb1G3XFIFsck4tf-vJVL3ny0yi39Q1MhpW4/edit#slide=id.gbd5795ae24_0_18)
+* [Request for FY22 to-date email audit](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1736)
+
 
 ## GitLab Email Calendar
 {: #calendar .gitlab-purple}
@@ -224,6 +226,8 @@ These issue templates are also built into the epic codes throughout the handbook
 <!-- DO NOT CHANGE THIS ANCHOR -->
 To see all the emails,  [click here](https://gitlab.com/groups/gitlab-org/growth/-/epics/62#note_494532868)
 
+To see slide deck, [click here](https://docs.google.com/presentation/d/1QSlbq-ZlMijqaSBA1l29WIn06Z8OAYAgX9_g9CQu3B4/edit#slide=id.g540caf0310_0_0)
+
 **These are also known as:**
 - User onboarding emails
 - Free user nurture
@@ -239,10 +243,10 @@ To see all the emails,  [click here](https://gitlab.com/groups/gitlab-org/growth
 We changed send time from 9am UTC every day (5am on the US east coast, 2am pacific) to 4PM UTC. This Change went live April 29, 2021. We could use April 30th forward for a comparison.
 
 **Who’s part of this project?**  
+- Luis Diego Dambrosio (replaced Nout Boctor-Smith) - email marketing DRI, mailgun analytics, & assist technical setup
 - Michael Karampalas (Create path)
 - Sam Awezek (Trial and add Team paths)
 - Jensen Stava (Verify path)
-- Nout Boctor-Smith - email marketing DRI, mailgun analytics, & assist technical setup
 - Growth engineers - technical setup
 - Valerie Silverthorne - copywriter
 
@@ -256,7 +260,6 @@ Basically, we have a series of emails that deploy to net new namespaces. The goa
 - we only send emails if they have not fulfilled the previous action. For invite it would be if they have started a trial
 
 **Sisense data**  
-
 - [Dashboard](https://app.periscopedata.com/app/gitlab/820093/WIP:-Onboarding-Emails)
 - Control = not getting the email, candidate = getting the emails
 
