@@ -250,6 +250,26 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Be8oRHp0E84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
  
+ ### Learning Components - Definitions
+
+| Term | Definition | Duration |
+| ------ | ------ | ------ |
+| Training | The action of teaching a team member a particular skill or behavior | Varies |
+| Bite-sized learning | A short course to learn a skill. Bite-sized can be a compentent of training or a separate learning element (i.e. a video, a PDF cheat-sheet, an infographic) | Max 15 minutes, 5 to 10 minute average |
+| Self-paced course | Learner has the control over the amount of material they want to consume and the duration of time needed to learn the new information. | Pre-defined by the designer (i.e. hours, days, etc.) |
+| Curriculum | A series of learning paths that comprise a course of study on a skill-based topic | Varies |
+| Certification | See definition on the [certification page](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/#certifications) | Varies |
+| Learning Path | A chosen route taken by a learner through a range of learning activities to build knowledge progressivley | Varies |
+This terminology is distinct from our Learning Experience Platform, GitLab Learn, which has it's own [glossary of terms](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#understanding-content-in-gitlab-learn).
+ ### Learning Delivery Methods - Definitions
+| Term | Definition | Duration |
+| ------ | ------ | ------ |
+| Instructor-Led Training (ILT) | Practice of training and learning material between an instructor and learners. Face-to-face training (classroom training) | Varies |
+| Virtual Instructor-Led Training (VILT) | Training that is delivered in a virtual enviornment (i.e. training in Zoom)| 1 to 3 hours |
+| E-Learning | Learning based on traditional learning theories which takes place electronically, often via the Internet. | Varies |
+| Blended Learning | Training that uses multiple methods to teach the new information to learners. It can includ ILTs, self-paced materials, VILT sessions, etc. | Varies |
+| Webinar | A seminar conducted virtually to a large audience | 3+ hours | 
+| Workshop | Hands-on or virtual demos, problem solving, tutorials where team members engage in discussion and activity on a particular subject | Varies |
 
 
 
