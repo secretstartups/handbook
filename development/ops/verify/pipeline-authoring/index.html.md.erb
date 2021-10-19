@@ -79,13 +79,14 @@ Beginning on **10/18/21**, we will trial [iteration cadences](https://docs.gitla
 
 Issues are refined and weighted prior to scheduling them to an upcoming milestone. We use `candidate::` scoped labels to help with planning work in future iterations. The additional label allows us to filter on the issues we are planning, allowing Product, Engineering and UX to [start async issue refinement on the 4th](/handbook/engineering/workflow/#product-development-timeline).  Weighting also helps with capacity planning with respect to how issues are scheduled in future milestones. 
 
-We create 2 issues as part of our Planning process:
- 1. Planning issue - Product is the DRI in prioritizing work, with input from Engineering, UX and Technical Writers. This issue is used to discuss scheduling and team capacity. We use an issue list filtered on the group and candidate labels.
- 1. Needs Weight issue - Engineering is the DRI in ensuring issues are refined asynchronously and weighted accordingly, given what is planned for the milestone. This helps Product understand how much can be scheduled in the future milestone(s), once the complexity and effort of the issues are better understood.  For example, issues may need to be broken down if they are too large for a milestone, or further research may be necessary, so subsequent issues or epics can be created.
+We create a planning issue as part of our planning process. Product is the DRI in prioritizing work, with input from Engineering, UX and Technical Writers. This issue is used to discuss scheduling and team capacity. We use an issue list filtered on the group and candidate labels.
 
-Both issues currently rely on the `candidate::` scoped label to determine what issues are to be investigated for the upcoming milestone(s).
+These issues currently rely on the `candidate::` scoped label to determine what issues are to be investigated for the upcoming milestone(s).
 
 #### Finding issues that need refinement
+All issues that need refining will have the `~needs weight` label applied to them.
+You can access all these issues using this [issue filter](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&state=opened&label_name[]=group%3A%3Apipeline%20authoring&label_name[]=needs%20weight).
+It's never too early to refine an issue, but we should prioritise the issues closest to starting.
 
 #### How Engineering Refines Issues
 
@@ -115,7 +116,7 @@ Engineers will:
 1. Update the `~workflow::` label to the appropriate status, e.g. 
    * ~"workflow::design" if further design refinement is needed, and let the designer know
    * ~"workflow::ready for development" when refinement is completed and a weight has been applied, signaling that it's ready for implementation and the issue can be scheduled accordingly
-   * ~"workflow::planning breakdown" if more investigation and research is needed, the status does not move, and the PM and EMs should be pinged
+   * ~"workflow::planning breakdown" if more investigation, research, is needed, the status does not move, and the PM and EMs should be pinged
 1. Unassign themselves from the issue when they are done refining and weighting the issue
 
 #### Weighting Issues
@@ -166,7 +167,8 @@ Development moves through workflow states in the following order:
 
 At any point, if an issue becomes blocked, it would be in the `workflow::blocked` status. If there is a blocking issue, it needs to be added to the issue description or linked to the issue with a 'blocked by' relationship.
 
-`workflow::ready for development` means that an issue has been sufficiently [refined and weighted by Engineering](##how-engineering-refines-issues), upon request by Product and UX
+`workflow::ready for development` means that an issue has been sufficiently [refined and weighted by Engineering](##how-engineering-refines-issues), upon request by Product and UX.
+Any issues that have not been weighted are not ready for development, and should not be labelled as such.
 
 `Closed` means that all code changes associated with the issue are fully enabled on gitlab.com. If it is being rolled out behind a feature flag, it means the feature flag is enabled for all users on gitlab.com.
 
