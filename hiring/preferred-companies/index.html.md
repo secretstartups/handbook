@@ -253,14 +253,21 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 * Discord
 * Freenode
 
-#### Ecosystem
+### Ecosystem
+
+#### Integrations
 
 * GitHub
 * HashiCorp
+* IFTTT
+* Opsgenie/Atlassian
 * RedHat
 * Salesforce
+* Slack
 * Stripe
+* Tasktop
 * Twilio
+* Zapier
 
 ### Verify
 
