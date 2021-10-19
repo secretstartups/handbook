@@ -17,14 +17,12 @@ Considering our single source of truth for team member data is BambooHR, we need
 are created in BambooHR once they are hired. We created a custom sync between Greenhouse and BambooHR to avoid
 manual work adding the right data from one system to the other.
 
-We check every 15 minutes if new applicants have been marked as hired on Greenhouse. If there are
-any, we create a new user on BambooHR with the applicant and offer data from Greenhouse. When the applicant
-is a former team member, we don't create a new profile but update their existing BambooHR profile. 
+Whenever a candidate is marked as hired, a webhook is send to the [conservatory app](https://gitlab.com/gitlab-com/people-group/peopleops-eng/conservatory).
 
 ### Synced fields
 
 The sync is a one-way sync. We take the data from Greenhouse and add it to BambooHR. Some fields on BambooHR are calculated fields by using data
-from Greenhouse. We do add a note on the candidate's activity saying we synced the profile.
+from Greenhouse. 
 
 | Greenhouse Data | BambooHR Data |
 | --------------- | ------------- |
