@@ -48,6 +48,8 @@ For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.c
 <a href="https://docs.gitlab.com/ee/development/usage_ping/dictionary.html" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Metrics Dictionary</a>
 <a href="https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data:<br>Gainsight Technical Documentation</a>
 <a href="/handbook/product/product-intelligence-guide/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Intelligence Overview</a>
+</div>
+<div class="flex-row" markdown="0" style="height:80px">
 <a href="https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data -<br> Data Team Handbook</a>
 <a href="/handbook/customer-success/product-usage-data/use-case-adoption/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Use Case Adoption Guide</a>
 <a href="/handbook/customer-success/product-usage-data/license-utilization/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">License Utilization in Gainsight</a>
