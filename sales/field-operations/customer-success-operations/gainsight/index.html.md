@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Gainsight Technical Information"
-description: "This page shows the data structure, integrations, and other technical information about how GitLab uses Gainsight."
+title: "Gainsight Administration"
+description: "This page shows the data structure, integrations, and other technical information about how GitLab administers Gainsight."
 ---
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -26,10 +26,6 @@ Assign to Jeff Beaumont.
 
 [Gainsight](https://www.gainsight.com/) is a customer success software that our Technical Account Managers (TAMs) and Enterprise Sales team use in order to support our customers and manage their workflows. This page shows the data structure, integrations, and other technical information about how GitLab uses Gainsight. Gainsight is owned by CS Operations, and Sales Operations and Sales Systems play very active and important roles in its continual expansion and improvement.
 
-## Additional Gainsight technical documentation
-
-The Go-To-Market (GTM) Gainsight technical documentation, which includes rules and sync information, can be found on the [Gainsight Go-To-Market Technical Documentation page](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html).
-
 ## Gainsight support
 
 All teams should use the `#gainsight_users` Slack Channel for questions or issues with Gainsight for quick attention.
@@ -38,8 +34,8 @@ Customer Success Operations provides support for all Customer Success teams.
 
 For Sales teams, we use this escalation path:
 
-1. Log-in problems (Tier 1 support) = Sales Ops
-1. If Sales Ops diagnoses the issue to be more significant than log-in problems (Tier 2)
+1. Login problems (Tier 1 support) = Sales Ops
+1. If Sales Ops diagnoses the issue to be more significant than login problems (Tier 2)
    -  Updates to permissions/access bundles = CS Ops
    - Issues with rules, connectors, etc. that are not sales-specific = CS Ops
      - Example: issue with contact loading in SFDC
@@ -98,6 +94,30 @@ You may also need to click the `...` menu and select `Activate User` if they sti
 1. Search for the user.
 1. Click the `...` menu and select `Make Inactive`. This should clear the `License Type` and any permission bundles. Check `Edit User` to verify.
 
+### Gainsight roles (bundles)
+
+Below are the Gainsight bundles (permission sets) and relevant access categories.
+
+<details>
+<summary markdown='span'>Gainsight bundles and access categories</summary>
+
+| Area                                  | Capability                                                                  | Default Bundle (Admin role) | SAL_Users | View_Group | TAM Journey Orchestrator | TAM_Users | GS Admin sans provisioning |
+|---------------------------------------|-----------------------------------------------------------------------------|-----------------------------|-----------|------------|--------------------------|-----------|----------------------------|
+| Home                                  | Dashboard view access                                                       | ✓                           | ✓         |            | ✓                        | ✓         | ✓                          |
+| Timeline                              | End user account Timeline history view                                      | ✓                           | ✓         | ✓          |                          | ✓         | ✓                          |
+| Cockpit                               | View and execute Calls to Action (CTAs)                                     | ✓                           | ✓         | ✓          |                          | ✓         | ✓                          |
+| C360 Account                          | View and edit customer Account data                                         | ✓                           | ✓         |            | ✓                        | ✓         | ✓                          |
+| Surveys                               | Access to create surveys                                                    | ✓                           |           |            | ✓                        |           | ✓                          |
+| Surveys                               | Access to analyze surveys and view NPS results                              | ✓                           | ✓         | ✓          | ✓                        | ✓         | ✓                          |
+| Admin: Journey Orchestrator           | Administrative access to creating and deploying one-to-many email campaigns | ✓                           |           |            | ✓                        |           | ✓                          |
+| Admin: Data / Integrations Operations | Administrative access for Gainsight customer data and integrations          | ✓                           |           |            |                          |           | ✓                          |
+| Admin: Email Configuration            | Admin access for backend of email domain, including CNAME setup             | ✓                           |           |            |                          |           | ✓                          |
+| Admin: Reporting                      | Admin access to build, share, and modify reports and dashboards             | ✓                           |           |            |                          |           | ✓                          |
+| Admin: Rules Engine                   | Admin access to create rules (workflows) to run CTAs and other operations   | ✓                           |           |            |                          |           | ✓                          |
+| Admin: User Provisioning              | Admin access: user provisioning and deprovisioning access                   | ✓                           |           |            |                          |           |                            |
+
+</details>
+
 ## Data permissions
 
 The purpose of data permissions is to give users access to specific records rather than sections of Gainsight, which is what bundle permissions do. We use data permissions to protect PubSec data.
@@ -116,7 +136,7 @@ The purpose of data permissions is to give users access to specific records rath
 
   Set up who has access to what data here.
   When you go to a specific object and click **Edit**, you can set up which user groups have access to various types of records.
-  Currently, in MDA --> Company, there are rules for who can see what type of Account based on Team
+  In MDA --> Company, there are rules for who can see what type of account based on Team.
 
 From the [Data Permissions page](https://gitlab.gainsightcloud.com/v1/ui/permissions) you can clear the user cache and sync changes. This can come in handy if you are troubleshooting permissions and need to update things manually.
 
@@ -174,38 +194,11 @@ These are some notable custom objects that we have created in Gainsight:
 
 ## Gainsight connectors and integrations
 
-The [Gainsight connectors](https://support.gainsight.com/Gainsight_NXT/Connectors_(Horizon_Experience) are the main way we pull data from other systems into Gainsight. We have connectors set up for the following external systems:
+The [Gainsight connectors](https://support.gainsight.com/Gainsight_NXT/03Connectors) are the main way we pull data from other systems into Gainsight. We have connectors set up for the following external systems:
 
-- Salesforce
 - Zendesk
 - Snowflake
-
-### Salesforce connector
-
-We use the Salesforce connector to create and update accounts as well as other information. Currently we have jobs set up to pull information from the following Salesforce objects:
-
-#### SFDC Account > GS Company
-
-- SFDC Company (AMER/LATAM) Sync - syncs important fields from the account. The 3 jobs for the 3 regions run at different times in order to update accounts in the morning for the relevant region.
-- SFDC Company (APAC) Sync
-- SFDC Company (EMEA) Sync
-- SFDC Stage Adoption Sync - This is a separate job just for simplicity, so the other jobs don’t have too many fields.
-
-#### SFDC Opportunity > GS Gainsight Opportunity
-
-- SFDC Opportunity Sync - Loads important opportunity fields to the Gainsight object `Gainsight Opportunity`.
-
-#### SFDC Contact > GS Company Person
-
-- SFDC Company Person Sync - Loads contact records from SFDC to Gainsight
-- SFDC Customer Subscription > GS Customer Subscription
-- SFDC Subscription Sync - Loads important Customer Subscription fields
-- SFDC User > GS User
-- SFDC User Sync - Loads users from SFDC to GS
-
-The connector is authenticated using a Gainsight Integration user in our Salesforce Instance.
-
-Although a lot of data is brought over from Salesforce using the connector, other data is brought over with rules. See the  [GS Rules List](https://gitlab.gainsightcloud.com/v1/ui/rulesmanager#/rules/list).
+- Salesforce 
 
 ### Zendesk connector
 
@@ -233,17 +226,140 @@ We are only using this in Data Designer. We pull product usage data from Snowfla
 
 Username and password are saved in Jeff Beaumont’s 1Password account. If you need to reset permissions, please ask him.
 
+### Salesforce connector
+
+`Connectors 2.0` is used as one of the main import methods of data from Salesforce to Gainsight, and is a native integration that exists between the two systems. The connector is authenticated using a Gainsight Integration user in our Salesforce instance. More information in regards to the connector and how to set it up in in the [Gainsight Knowledge Base](https://support.gainsight.com/Gainsight_NXT/01Onboarding_and_Implementation/Onboarding_for_Gainsight_NXT_in_Salesforce/Salesforce_Connector/Salesforce_Connector_Overview).
+
+`Connectors 2.0` is used between our Salesforce and Gainsight instances primarily to sync three objects:
+
+- Accounts
+- Contacts
+  - The Upsert key for contacts is their email address. This is useful when it comes to the bi-directional sync of contacts that are created in Gainsight.
+- Salesforce users
+
+<details>
+<summary markdown='span'>Gainsight to Salesforce fields and data types</summary>
+
+|          Source Field (SFDC)         | Source Data Type |       Target Field (Gainsight)       |
+|:------------------------------------:|:----------------:|:------------------------------------:|
+| Account ID                           | id               | SFDC Account ID                      |
+| Account Name                         | string           | Name                                 |
+| Employees                            | int              | Employees                            |
+| CARR (All Child Accounts)            | currency         | ARR (All Child Accounts)             |
+| CARR (Total)                         | currency         | ARR (Total)                          |
+| Federal Account                      | boolean          | Federal Account                      |
+| Region/Sub-Region                    | string           | Region/Sub-Region                    |
+| Account Description                  | textarea         | Description                          |
+| Partner Account                      | boolean          | Is Partner?                          |
+| Account Owner Team                   | string           | Account Owner Team                   |
+| Count of Active Subscription Charges | double           | Count of Active Subscription Charges |
+| Count of Active Subscriptions        | double           | Count of Active Subscriptions        |
+| Customer Advisory Board (CAB)        | boolean          | Customer Advisory Board (CAB)        |
+| Customer Slack Channel (Internal)    | string           | Customer Slack Channel               |
+| Executive Sponsor                    | reference        | Executive Sponsor                    |
+| Solutions Architect                  | reference        | Solutions Architect                  |
+| Support Level                        | picklist         | Support Level                        |
+| Industry                             | picklist         | Industry                             |
+| Account Type                         | picklist         | Company Type                         |
+| CARR (This Account)                  | currency         | ARR                                  |
+| Sales Segment                        | string           | Sales Segment                        |
+| Ultimate Parent Account ID           | string           | Ultimate Parent SFDC Account ID      |
+| Executive Sponsor Program Status     | picklist         | Executive Sponsor Program Status     |
+| Region                               | picklist         | Region                               |
+| Is a Child Account                   | double           | Is a Child Account                   |
+| Sub-Region                           | string           | Sub-Region                           |
+| Account Phone                        | phone            | Phone                                |
+| Customer Since                       | date             | Original Contract Date               |
+| Next Renewal Date                    | date             | Renewal Date                         |
+| License Utilization (%)              | percent          | License Utilization (Rules Engine)   |
+| Products Purchased (This Account)    | textarea         | Subscription                         |
+| Sub-Industry                         | picklist         | Sub-Industry                         |
+| Zendesk Organization ID (ADMIN)      | string           | Zendeal Org ID                       |
+| User ID                              | id               | Account Owner                        |
+| Manage Tech                          | picklist         | Manage Tech                          |
+| Manage Appetite for Replacement      | picklist         | Manage Appetite for Replacement      |
+| Manage Contract End Date             | date             | Manage Contract End Date             |
+| Billing City                         | string           | Billing City                         |
+| Billing Country                      | string           | Billing Country                      |
+| Billing State/Province               | string           | Billing State/Province               |
+| Billing Street                       | textarea         | Billing Street                       |
+| Billing Zip/Postal Code              | string           | Billing Postal Code                  |
+| Number of Licenses (This Account)    | double           | Licensed User Count                  |
+| Parent Account ID                    | id               | Parent Company                       |
+| Technical Account Manager            | id               | CSM                                  |
+
+</details>
+
+### Gainsight rule chains
+
+We have to supplement the data that is brought in through the connector to correctly display it within Gainsight and to coordinate bi-directional data syncs. The rules that exist in Gainsight are highlighted and shared to reflect their use in various Rule Chains in Gainsight.
+
+<details>
+<summary markdown='span'>Rule chain list</summary>
+
+These rules are built out in order to correctly associate our accounts to one another to match our account hierarchy in Salesforce:
+
+- Admin Daily - Load to Company
+- Admin - Load Ultimate Parent Accounts
+- Admin - Load Non-Customer Child Accounts
+- Admin - Load Prospect Details to Company
+- Admin - Set Company Status (Active/Inactive)
+- Admin - Load Public Sector Flag
+- Admin - Load Inactive Users (Permission Set Based)
+- Admin - Load Onboarding Start Date to Company
+- Admin - Load Onboarding End Date to Company
+- Admin - Load First Engagement Date to Company
+- Admin - Load Last Activity Date to Company
+- Admin - Load Open Zendesk Ticket Count to Company
+- Admin - License Utilization Calculation
+- Admin - Delete UnMatch Records
+- Admin - Load GS Contacts to SFDC
+- SFDC RefEdge Reference Status
+
+</details>
+
+### Gainsight to Salesforce sync data
+
+The following Salesforce fields are imported from Gainsight to their associated Salesforce account:
+
+<details>
+<summary markdown='span'>Salesforce to Gainsight data</summary>
+
+|             Source Field (Gainsight)             |  Object |        Target Field (Salesforce)        |                    Notes                   |
+|:------------------------------------------------:|:-------:|:---------------------------------------:|:------------------------------------------:|
+| Unified Scorecard Fact - Company:: TAM Sentiment | Account | [GS] TAM Sentiment :Former Health Score | Uses only the latest TAM Sentiment Entered |
+| Company: Hosting                                 | Account | [GS] Hosting                            |                                            |
+| Company: Provider                                | Account | [GS] Provider                           |                                            |
+| Company: Package Active                          | Account | [GS] Package Active?                    |                                            |
+| Company: Stage                                   | Account | [GS] Lifecycle Stage                    |                                            |
+| Company: Security Active                         | Account | [GS] Secure Active?                     |                                            |
+| Company: Configure Active                        | Account | [GS] Configure Active?                  |                                            |
+| Company: Defend Active                           | Account | [GS] Defend Active?                     |                                            |
+| Company: Create Active                           | Account | [GS] Create Active?                     |                                            |
+| Company: Manage Active                           | Account | [GS] Manage Active?                     |                                            |
+| Company: Current Score Score                     | Account | [GS] Health Score                       | This is the number                         |
+| Company: Current Score Color                     | Account | [GS] Health Score Label                 | This is the Hex Code of the color          |
+| Company: Customer Type                           | Account | [GS] Customer Type                      |                                            |
+| Company: High Availability                       | Account | [GS] High Availability?                 |                                            |
+| Company: Geo                                     | Account | [GS] Geo?                               |                                            |
+| Company: Monitor Active                          | Account | [GS] Monitor Active?                    |                                            |
+| Company: Plan Active                             | Account | [GS] Plan Active?                       |                                            |
+| Company: Verify Active                           | Account | [GS] Verify Active?                     |                                            |
+| Company: Release Active                          | Account | [GS] Release Active?                    |                                            |
+| Company Person: GS Email Opt Out                 | Contact | Email Opt Out                           |                                            |
+| Company: Google Doc Notes                        | Account | [GS] Google Doc Notes                   |                                            |
+| Company: Collaboration Project URL               | Account | GitLab Customer Success Project         |                                            |
+| Company: Architecture Diagram Link               | Account | [GS] Architecture Diagram Link          | 
+                                           |
+
+</details>
+
+
 ## Gainsight rules engine
 
 The [rules engine](https://support.gainsight.com/Gainsight_NXT/03Rules_Engine) is the main automation tool in Gainsight, and allows us to do a variety of actions including bring in and/or send data to other systems, populate field values, create CTAs, set scores, and many others.
 
 We have a team email address cs-ops@gitlab.com that we use for rule failure emails in Gainsight.
-
-### Rule types and examples
-
-Although we import a lot of information from Salesforce to Gainsight using the Connector, there is some data that we bring in from and send to Salesforce using rules.
-
-See information about bi-directional syncs and how to sync data between Gainsight and Salesforce on the [Gainsight Go-To-Market Technical Documentation page](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html).
 
 ### TAM assignment push to SFDC
 
@@ -294,13 +410,20 @@ Rules in place:
 
 A rule exists to null Health Score Measures (ROI, Engagement, TAM Sentiment) for Non-TAM owned accounts, or when no TAM is assigned on accoun. The rule runs once per week on Monday.
 
+### Admin Daily - Stage Adoption
+
+These rules act as field rollups to calculate fields within Gainsight:
+
+- Admin - Load Stage Counts to Company
+- Admin - Load Aggregated Stage Adoption Data to MDA
+
 ### Load to Company/Other Gainsight objects
 
 #### Mark for deletion rules and CS Ops dashboard reports
 
 There are many times when accounts, opportunities, and contacts are synced from Salesforce to Gainsight, but then some time later are deleted in Salesforce. Gainsight does not identify these automatically, so we have some rules to catch deleted items.
 
-- Admin - Mark old Account records for Deletion
+- Admin - Mark old Account records for deletion
 - Admin - Mark old Opportunity records for deletion
 
 These rules compare records in SFDC and Gainsight and mark a boolean field called `Delete?` on the object in Gainsight if the record no longer exists in SFDC.
@@ -309,7 +432,23 @@ Once this boolean field is marked, Gainsight displays these records in reports o
 
 Note: There is a report on the CS Ops dashboard that identifies accounts that need to be _merged_ instead of deleted. This report looks at any accounts that have been marked as `Delete? = true` and also have a TAM assigned to the account, or have dependencies such as CTAs, Success Plans, or Timeline entries. Instead of deleting these accounts, we need to find the correct account that these items should be transferred to, and perform a merge in Gainsight.
 
-## Best practices
+## Gainsight sync timing
+
+Gainsight syncs any updates, new customer accounts, and more into Gainsight first before pushing information back to Salesforce.
+
+| Rule | Rule Type | Time | Day Type |
+|---|---|---|---|
+| User, Company, and Company Person sync | Connector 2.0 | 12:00AM PST | Daily |
+| Admin Daily - Load to Company | Gainsight Rules Engine | 3:00AM PST | Daily |
+| Admin Daily - Stage Adoption | Gainsight Rules Engine | 3:30AM PST | Daily |
+| Scorecard Rules | Gainsight Rules Engine | 4:00AM PST | Daily |
+| CTAs - Daily | Gainsight Rules Engine | 4:30AM PST | Daily |
+| Bi-directional Builds - Weekday | Gainsight Rules Engine | 5:00AM PST | Weekday |
+| Push to SFDC - Weekday | Gainsight Rules Engine | 5:30AM PST | Weekday |
+| Push to SFDC - Weekend | Weekend | 9:00AM PST | Weekend |
+| Bi-directional Builds - Weekend | Weekend | 8:00AM PST | Weekend |
+
+## Recommendations
 
 Codification standards and naming conventions can be found in the [Gainsight Architecture doc](https://docs.google.com/spreadsheets/d/1TOYo4prVlitxqJEcMSy__tTKx_xQIXZkBjgAY4QnZ0M/edit#gid=0).
 
@@ -326,7 +465,10 @@ When creating rules, we add the following prefixes to rule titles for organizati
 
 See more about labeling in [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/42).
 
-| Gainsight Feature | Admin Best Practice | Example |
+<details>
+<summary markdown='span'>Gainsight Rule Label Recommendations</summary>
+
+| Gainsight Feature | Admin Recommendation | Example |
 | --- | --- | --- |
 | Rules | The start of each rule should be named with its primary "action or purpose." Always make sure rules contain a clear description of purpose. When creating new rules that are being built and not yet live, start the rule name with: STAGING so it is clear which rules are currently in the build process. These rules should be put into the STAGING folder and moved to their new applicable folder once they are live. | `{Insert Name of CTA}` Set Score: `{Insert Name of Scorecard Measure}` Load to `{Object}: {Insert Name of Data Load Task}` Load to People: Load Contact Role from Oppty |
 | Folders | Folders should be created for each type of Rule | (CTA Rules, Load to Object Rules, Set Score Rules, etc). |
@@ -341,11 +483,9 @@ See more about labeling in [this issue](https://gitlab.com/gitlab-com/sales-team
 | Templates | For any templates used in Email Assist or Programs start all templates with | Email Assist: `{Insert Template Name}` or Email Program: `{insert Template Name}` Email # - subject Example: Email Onboarding Program: Email 1 - Intro to GitLab |
 | Email Template Folders | Create email template folders that indicate the purpose of the email | Email Assist Templates Onboarding Templates Renewal Templates |
 
-<br>
+</details>
 
-### Rule descriptions
-
-#### Description best practices
+### Description recommendations
 
 - Always add a rule description when creating rules.
 - Link to the GitLab issue in the description: [Issue #275: GS Documentation - Review rule descriptions and titles](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/275)
