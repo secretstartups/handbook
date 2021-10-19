@@ -33,39 +33,64 @@ While we always want to include decision-makers and leadership to be involved wi
 
 Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (internal to GitLab) for more details on how to propose, prepare, and present an EBR. This internal playbook also includes a link to [EBR sell sheets](https://drive.google.com/drive/folders/1MYIIEqOZ_lskuVUt4S-lkz1HR79ZbDjj?usp=sharing), which TAMs can copy and edit to send to their customers to help demonstrate what the customer will get out of the EBR, as well as an "[EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing)" presentation which contains several pointers on the logistics of preparing, such as a suggested timeline, how to prepare and tips on presenting.
 
+### Sample EBR Request Talk-Track
+
+*As we are halfway through our current year of partnership, I wanted to schedule some time for us to meet and discuss progress against your business objectives and key initiatives. The goal of this time together is to:*
+
+1. *Amplify your accomplishments* 
+2. *Show the progress against your key initiatives that you and the team have made* 
+3. *Ensure we are aligned on (company name)'s upcoming key business initiatives*
+
+
+
+*We'd like to invite xxx (influencers, decision-makers) to join also, and we'll have some of our leadership team join.  Would you suggest that my leadership or I reach out to them directly, or what is the best way to get time on everyone's calendar?*
+
+
 ### Sample EBR Emails
 
 #### Initiated by the TAM
 
 The following is an example for a TAM sending the email if not broached on a call. Some language would need to be modified for the specifics of the account (e.g., collect or refine objectives, goals of the meeting, the expected time for EBR). This is intended to be an example, not a cut and paste.
 
-> I am reaching out to determine the best date and time for our Executive Business Review. As a reminder on the purpose of these strategic bi-annual meetings, we look to cover the following:
->
-> - Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes
-> - Collect and discuss future goals and desired success measures
-> - Discuss product use cases of interest and/or future roadmap items
-> - Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)
->
-> We have found significant success in also including key decision makers and will ensure we hit clearly on the progress and successes you and the team have seen.  What would be the best means to invite (insert name of decision maker, influencers)to our review also?
->
-> The following are some suggested dates and times - if there is a better day or time please let us know and I will get the invite on to the calendar.
+*Hello (Name)*
+
+*I am reaching out to determine the best date and time for our bi-annual strategic review. As a reminder on the purpose of these meetings, we look to cover the following:*
+
+
+1. *Review our combined progress on delivering to your goals and business outcomes*
+
+2. *Collect and discuss future goals and desired success measures*
+
+3. *Discuss product use cases of interest and/or future roadmap items*
+
+4. *Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)*
+
+
+*We'd like to invite xxx (influencers, decision makers) to join, and we'll have some of our leadership team join as well.  Would you suggest that I or my leadership reach out to them directly, or what is the best way to get time on everyone's calendar?*
+
+*The following are some suggested dates and times - typically these reviews take 60-90 minutes. I'm looking forward to review future strategy with you and the team!*
+
+
 
 #### Initiated by GitLab leadership
 
 The following is an example for when a GitLab senior leader or executive sends the email. Some language would need to be modified for the specifics of the account (e.g., collect or refine objectives, goals of the meeting, the expected time for EBR). This is intended to be an example, not a cut and paste.
 
-> Introducing myself, I'm the (insert role) at Gitlab and would like to personally thank you for your business and trust in Gitlab.
->
-> (Insert TAM name), your TAM, has shared with me several updates regarding our amazing partnership and the rapid adoption of GitLab at Centene.  I would like to personally invite you to an Executive Business Review (EBR) that is a key part of our engagement and collaboration. Some key objectives include:
->
-> - Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes
-> - Collect and discuss future goals and desired success measures
-> - Discuss product use cases of interest and/or future roadmap items
-> - Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)
->
-> Ultimately, we seek to ensure we're aligned on the path forward to continue delivering to your business needs with the GitLab platform. If you're open to it, we will coordinate with you to find a time that best suits your availability. The EBRs typically take between 90-120 minutes.
->
-> Please let me know if you have any questions.
+*Introducing myself, I'm the (insert role) at Gitlab and would like to personally thank you for your business and trust in Gitlab.*
+
+
+*(Insert TAM name), your TAM, has shared with me several updates regarding our amazing partnership and the rapid adoption of GitLab at (Customer Name).  I would like to personally invite you to an Executive Business Review (EBR) that is a key part of our engagement and collaboration. Some key objectives include:*
+
+1. *Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes*
+2. *Collect and discuss future goals and desired success measures*
+3. *Discuss product use cases of interest and/or future roadmap items*
+4. *Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)*
+
+
+*Ultimately, we seek to ensure we're aligned on the path forward to continue delivering to your business needs with the GitLab platform. If you're open to it, we will coordinate with you to find a time that best suits your availability. The EBRs typically take 60-90 minutes.*
+
+
+*Please let me know if you have any questions.*
 
 ## EBRs in Gainsight
 
