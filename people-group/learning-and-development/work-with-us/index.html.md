@@ -17,7 +17,7 @@ The Learning and Development team is available to support GitLab teams in the fo
 | Support Model | When to use this process |
 | ----- | ----- |
 | Hosting a Live Learning event | You'd like to **host** an internal Live Learning session |
-| Creating a GitLab Learn Channel | You'd like to build a new Channel in GitLab Learn to curate professional development content for your team |
+| Creating a Learning Hub for your team | You'd like to build a new Channel in GitLab Learn to curate professional development content for your team |
 | Creating a new learning pathway | Create a new learning pathway or course for any audience |
 | Uploading to GitLab Learn | Add new or existing learning content to the GitLab Learn LXP |
 | Integrating external content to GitLab Learn | Add off-the-shelf learning from another provider to GitLab Learn |
