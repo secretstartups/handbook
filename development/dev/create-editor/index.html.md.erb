@@ -217,10 +217,11 @@ A template for the status update can be [found here](https://gitlab.com/gl-edito
 
 ### 🔖 Triage
 
-Triaging is a team effort. Every week our engineers are pinged on the GitLab Triage Issue. This lists a lot of issues that have no weight or details on them. Every Engineer should look at triaging **2 Issues/week** and follow these guidelines:
+Triaging is a team-effort. Every week the EM, PM and UX lead are pinged on the GitLab Triage Issue. This lists a lot of issues that have no weight or details on it. The EM, PM and UX lead should look to triage these ASAP and follow these guidelines:
 
-- If it's a high priority bug, please assign it to the current or next Milestone right away so we can address it within time
-- If the issue seems very specific, or it's something that's probably not being addressed anytime soon please apply the `%"Awaiting further demand"` Milestone
+- All bugs should be looked at by the EM, all feature's should be looked at by the PM and then Engineers/UX should be pinged on those issues as needed.
+- If it's a high priority bug, please assign it to the current or next Milestone right away so we can address it within time. 
+- If the issue seems very specific, or it's something that's probably not being addressed anytime soon please apply the `%"Awaiting further demand"` Milestone.
 - If the issue seems like a duplicate, please look for a similar issue, link them and close the newer one.
 - If the issue fits for a [Backlog Refinement](#backlog-refinement) session, please apply the appropriate label.
 - In any other case, it's probably fine to apply the `%Backlog` Milestone, and making sure all appropriate labels are assigned.
@@ -269,13 +270,20 @@ graph LR
 
   A -- Push an MR --> B
   B -- Merged --> C
-  C --> D{Works on staging?}
+  C --> D{Works on production?}
   D -- YES --> CLOSE
   D -- NO --> E[New MR]
   E --> A
 ```
 
-It is advised to manually transition issues from one label to another and not use the "Closes" hook in the description of an MR. This will prevent automatically closing issues without them being verified on staging.
+It is advised to manually transition issues from one label to another and not use the "Closes" hook in the description of an MR. This will prevent automatically closing issues without them being verified on production.
+
+### 😷 Issue Workflow Hygiene
+
+In the Create:Editor team we leverage an automatic issue hygiene system via the [triage bot](https://gitlab.com/gitlab-org/quality/triage-ops/-/tree/master/policies/groups/gitlab-org/editor). This helps to ensure issues and label hygieneare respected, currently our rules are:
+
+- If a issue is assigned the "ready for development" label but has no technical labels, they are assigned automatically and a member of the team is pigned to verify the issue.
+- If an issue is asigned the "verification" label a team memeber is pinged and asked to review it so that the issue can be closed. 
 
 ### 🏋️‍♂️ Capacity planning
 
