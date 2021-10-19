@@ -933,9 +933,9 @@ Anyone can contribute to technical issues that support the Release Post Process 
 
 ### Tracking
 
-Use the following `~Release Post::Tech Advisor` and `~product operations` labels for issues that require changes to the tools that facilitate the delivery of a release post. Create issues for low priority issues that arise during the milestone or as an artifact of decisions made during a retrospective. Creating an issue for immediate incident response isn't required since the delivery of the release post requires quick resolution and synchronous communication.
+Use the following `~Release Post::Tech Advisor` and `~product operations` labels for issues that require changes to the tools that facilitate the delivery of a release post. Create issues for lower priority challenges that arise during the milestone or as an artifact of decisions made during a retrospective. Creating an issue for immediate incident response isn't required since the delivery of the release post requires quick resolution and synchronous communication.
 
-[This board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/3130926?&label_name[]=Release%20Post%3A%3ATech%20Advisor) organizes these labeled issues into a familiar software development workflow. When working on an issue, assign yourself and strive to keep the issue up-to-date with the proper workflow label and weekly async updates.
+[This board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/3130926?&label_name[]=Release%20Post%3A%3ATech%20Advisor) organizes these labeled issues into a familiar software development workflow. When working on an issue, assign yourself and strive to keep the issue up-to-date with the proper workflow label and weekly async updates. The backlog of this board will be maintating and prioritized by Product Operations as the DRI of the Release Post but Technical Advisors are also welcome to make recommendations and apply milestones to the issues. 
 
 ### Handoff
 
