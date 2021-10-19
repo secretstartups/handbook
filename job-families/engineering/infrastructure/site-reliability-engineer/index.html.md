@@ -213,16 +213,6 @@ SRE's with Environment Automation specialization primarily focus on provisioning
 
 SRE's with Stage Group specialization act as stable counterparts to GitLab product groups, helping improve reliability, observability and automation practices within those groups.
 
-#### FY22-Q4 Stage Group Specialty Experiment
-
-During FY22-Q4 we will conduct an experiment aligning an SRE as a stable counterpart.  
-
-* The Verify::Runner group is converting an open Backend Engineer req to an SRE req reporting into Infrastructure.
-* Once hired that individual will be assigned as a stable counterpart for the Verify::Runner group.  
-* If Infrastructure leadership determines the stable counterpart needs to work on other things, they will inform Development of the need to get input and possible escalation or support.  
-* Infrastructure intends to make sure that there is continuity of service via a squad model.  There will be a named stable counterpart, but will be part of squad and they’ll be able to cover for PTO, oncall, etc.
-* We will meet to evaluate the experiment at the end of FY23-Q1 (2021-01-31)
-
 #### Responsibilities
 
 1. Have working knowledge of the group you are assigned.
