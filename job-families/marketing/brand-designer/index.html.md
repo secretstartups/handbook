@@ -117,7 +117,7 @@ The Principal Brand Designer is a [grade TBD](/handbook/total-rewards/compensati
 
 #### Requirements
 
-- 8+ years of senior-level design experience with an in-house team or creative agency.
+- 10+ years of senior-level design experience with an in-house team or creative agency.
 - Deep knowledge, passion and expertise in all aspects of layout, typography, illustration, image making, digital and event/brand experience production.
 - Proven ability as a strong mentor, with a passion for supporting team growth, as well as improvement and advancement toward collective and individual goals.
 - A [manager of one](/handbook/values/#managers-of-one) overseeing brand initiatives from beginning to end, and equally comfortable in a collaborative environment. 
