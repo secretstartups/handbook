@@ -208,6 +208,33 @@ SRE's with Environment Automation specialization primarily focus on provisioning
 1. Develop a fully automated multi-environment observability stack based on the existing SaaS system, and extend it to predict capacity needs based on the usage patterns.
 1. Plan for new service roll-outs, expansion and capacity management of existing services, and work with users to optimise their resource consumption.
 
+
+### Stage Group
+
+SRE's with Stage Group specialization act as stable counterparts to GitLab product groups, helping improve reliability, observability and automation practices within those groups.
+
+#### FY22-Q4 Stage Group Specialty Experiment
+
+During FY22-Q4 we will conduct an experiment aligning an SRE as a stable counterpart.  
+
+* The Verify::Runner group is converting an open Backend Engineer req to an SRE req reporting into Infrastructure.
+* Once hired that individual will be assigned as a stable counterpart for the Verify::Runner group.  
+* If Infrastructure leadership determines the stable counterpart needs to work on other things, they will inform Development of the need to get input and possible escalation or support.  
+* Infrastructure intends to make sure that there is continuity of service via a squad model.  There will be a named stable counterpart, but will be part of squad and they’ll be able to cover for PTO, oncall, etc.
+* We will meet to evaluate the experiment at the end of FY23-Q1 (2021-01-31)
+
+#### Responsibilities
+
+1. Have working knowledge of the group you are assigned.
+1. Collaborate with members of the product group to establish strong operational readiness.
+1. Act as a reliability champion within the product group and help train others in reliability best practices.
+1. Identify architectural bottlenecks and work with stable counterparts and other stakeholders to address them.
+1. Improve observability into SaaS performance at the product group level.
+1. Lead the team in performing incident reviews, root cause analyses, and production readiness reviews.
+1. Work with engineering and product manager stable counterparts to identify and prioritize reliability work appropriately.
+1. Collaborate with product group members to develop automation and improve operational management capabilities.
+
+
 ## Career Ladder
 
 The next step for both individual contributors and managers of people is to move to the [Engineering Management - Infrastructure](/job-families/engineering/infrastructure/engineering-management/) job family.
