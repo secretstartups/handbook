@@ -42,8 +42,9 @@ For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.c
 
 ## Quick Links
 
-<a href="https://about.gitlab.com/handbook/customer-success/product-usage-data/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data -<br>Operational Data Vision Page</a>
+
 <div class="flex-row" markdown="0" style="height:80px">
+<a href="https://about.gitlab.com/handbook/customer-success/product-usage-data/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data -<br>Operational Data Vision Page</a>
 <a href="https://docs.gitlab.com/ee/development/usage_ping/dictionary.html" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Metrics Dictionary</a>
 <a href="https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data:<br>Gainsight Technical Documentation</a>
 <a href="/handbook/product/product-intelligence-guide/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Intelligence Overview</a>
