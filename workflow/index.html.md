@@ -259,6 +259,7 @@ For more information on how the entire process works for security releases, see 
 1. Start working on an issue you’re assigned to. If you’re not assigned to any issue, find the issue with the highest priority and relevant label you can work on, and assign it to yourself. [You can use this query, which sorts by priority for the started milestones][priority-issues], and filter by the label for your team.
 1. If you need to schedule something or prioritize it, apply the appropriate labels (see [Scheduling issues](#scheduling-issues)).
 1. If you are working on an issue that touches on areas outside of your expertise, be sure to mention someone in the other group(s) as soon as you start working on it. This allows others to give you early feedback, which should save you time in the long run.
+1. If you are working on an issue that requires access to specific features, systems, or groups, open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Access_Change_Request) to obtain access on staging and production for testing your changes after they are merged.
 1. When you start working on an issue:
   - Add the `workflow::in dev` label to the issue.
   - Create a merge request (MR) by clicking on the **Create merge request** button in the issue. This creates a MR with the labels, milestone and title of the issue. It also relates the just created MR to the issue.
