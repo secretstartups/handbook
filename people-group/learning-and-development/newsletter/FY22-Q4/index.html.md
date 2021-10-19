@@ -5,21 +5,21 @@ title: FY22-Q4 L&D Newsletter
 
 {add brief intro}
 
-## Recap of Q[3]
+## Recap of Q3
 
-* {add a bulleted list}
+* [Crucial Conversations Cohort 2](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#crucial-conversations) 
+* [FY22-Q3 Mental Health Newsletter](https://about.gitlab.com/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/) 
 
-Past Live Learning sessions can be found on our [Learning & Development Page](https://about.gitlab.com/handbook/people-group/learning-and-development/#live-learning). 
+## Upcoming in Q4
 
-## Upcoming in [Q4] 
-
-* {add a bulleted list}
-
-Sign up for our upcoming Live Learning events in [Q4] by using [Signup Genius?]()
+* Crucial Conversations Cohort with the Security Team
+* abc 
 
 ## Learning Spotlight 
 
-* {add a bulleted list}
+Crucial Conversations is a great way to kickstart your learning! 
+
+If you are interested in participating in Crucial Conversations in the future, please fill out [this form](). If you would like your team to go through the trianing together, please reach out to our team in the `#learninganddevelopment` Slack Channel. 
 
 ## Video 
 
