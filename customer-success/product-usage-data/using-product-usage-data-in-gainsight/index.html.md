@@ -169,7 +169,7 @@ Below are the various data sources, their definitions, and uses.
 
 ### Triaging Data Quality
 
-1. Confirm with CS Operations whether the data quality issue is specific to Gainsight or upstream (post in #gainsight-users)
+1. Confirm with CS Operations whether the data quality issue is specific to Gainsight or upstream (post in #cs-product-analytics)
    1. Alternatively, compare Gainsight to LicensesDot
 1. If the data quality issue is upstream, create a data quality issue in the [Data project](https://gitlab.com/gitlab-data/analytics/-/issues)
    1. Attach to the [data quality epic](https://gitlab.com/groups/gitlab-data/-/epics/216)
