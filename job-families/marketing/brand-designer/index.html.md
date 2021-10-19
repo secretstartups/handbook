@@ -107,7 +107,7 @@ The Senior Brand Designer is a [grade 7](/handbook/total-rewards/compensation/co
 - Demonstrate design leadership through extensive knowledge of the GitLab brand, strategic and creative execution, as well as the willingness to collaborate with and educate others. 
 - Proactively contribute to GitLab’s Brand Design culture in areas such as Creative Philosophy, Design Principles, Brand Standards, workflows & best practices.
 - Lead the enablement of the broader GitLab organization to create cohesive and consistent brand experiences across multiple channels and touchpoints through the development of self-serve tools, templates, and libraries, request processes, communications, etc.
-- Support the [Manager, Brand Design](/job-families/marketing/brand-designer/#manager-brand-design) in the day-to-day management of the Brand Design team by providing inspiration, empowerment and mentorship to team members.
+- Support the [Director, Brand](/job-families/marketing/brand-leadership/#director-brand) in the day-to-day management of the Brand Design team by providing inspiration, empowerment and mentorship to team members.
 - Evangelize the GitLab brand by actively promoting, and educating others of, the work and accomplishments of the Brand Design team.
 - Protect the integrity of the GitLab brand, while pushing creative exploration and risk-taking.
 
