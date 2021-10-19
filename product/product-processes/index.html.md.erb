@@ -1020,7 +1020,11 @@ changes quickly in the future so we try to avoid complex code, complex data stru
 We schedule a prioritized issue by assigning it a milestone; for more on this see
 [Planning a Future Release](#planning-future-release).
 
-#### Issues important to customers
+#### Async RICE Exercise
+
+Conducting a RICE prioritazation exercise with your cross-functional counterparts is a powerful way to make the process more inclusive and improve the quality of your rankings. Consider making this an async-first process to accommodate team members across different timezones. For an example of how to do this async-first, see [this issue that the Geo team used to collaborate on a RICE prioritazation exercise.](https://gitlab.com/gitlab-org/geo-team/discussions/-/issues/5015) This [blank async RICE template](https://docs.google.com/spreadsheets/d/13VgIHJ8y4RrvkNIyhY-gqb4VH9nsY5jrweMikYBXHhU) is also available for you to copy for your own async prioritization exercise.
+
+### Issues important to customers
 
 For prioritizing most issues, we should utilize the RICE framework noted [above](#prioritization), which will capture an aggregate of customer demand.
 
@@ -1033,7 +1037,7 @@ Issues with the `planning priority` label should be:
 
 It is important to note that the `planning priority` label does not constitute a promise for the issue to be delivered in any given milestone or timeframe.
 
-#### Community Considerations
+### Community Considerations
 
 GitLab is open-source, and while [PMs aren't the arbiters of community contributions](#gitlab-pms-arent-the-arbiters-of-community-contributions),
 encouraging and promoting a large ecosystem of contributors is critical to our success. When making prioritization decisions,
@@ -1047,11 +1051,11 @@ Product managers are not responsible for prioritizing contributions outside of t
 [reviewed and merged swiftly](https://docs.gitlab.com/ee/development/contributing/#contribution-flow) allowing everyone
 to contribute, including non-product teams at GitLab.
 
-#### SaaS-First Framework
+### SaaS-First Framework
 
 The [SaaS-First product investment theme](https://about.gitlab.com/direction/#saas-first) will put us in a better position to support our customer base who is expected to accelerate adoption of SaaS products in the coming years. Features will also end up more secure, resilient, performant, and scalable for our self-managed customers if initially built to the expectations of SaaS. Therefore, it is important for PMs to understand and prioritize needs related to the SaaS business. When prioritzing SaaS related issues, we follow the same [guidelines above](#prioritization). Within those guidelines there are a few areas that are especially important for PMs to focus on to ensure the success of our SaaS users.
 
-##### Availability
+#### Availability
 
 Downtime of GitLab.com has a material impact on our customers. From a 2014 report [Gartner estimates](https://blogs.gartner.com/andrew-lerner/2014/07/16/the-cost-of-downtime/) that downtime costs companies on average "$5,600 per minute, which extrapolates to well over $300K per hour." Furthermore, SaaS downtime can severely disrupt the productivity of GitLab Inc since we rely heavily on GitLab.com to run our business. Finally, downtime can also lead to customer churn and damage to our reputation. Thus, it is crucial as a company we collectively work towards consistently maintaining our [99.95% SLA on GitLab.com](https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1&from=1614038400000&to=1616630399000). There are a few things that PMs can do in partnership with their engineering team to help ensure overall Availability for GitLab.com.
 
@@ -1059,7 +1063,7 @@ Downtime of GitLab.com has a material impact on our customers. From a 2014 repor
 - Before rolling out a new service to support a major new feature launch, ensure that your team has gone through the [readiness review process](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/#starting-a-proposal). The effort and timing for a readiness review will vary depending on the complexity of the feature. It is recommended to start this process as early as practical when a significant number of the questions can be answered but not too late to further develop the feature based on learnings from the review.
 - Ensure there are [application limits](https://about.gitlab.com/handbook/product/product-processes/#introducing-application-limits) for your product areas enabled on GitLab.com to reduce [abuse vectors](https://about.gitlab.com/handbook/engineering/security/security-operations/trustandsafety/#examples-of-common-forms-of-abuse-include-but-are-not-limited-to).
 
-##### Infradev
+#### Infradev
 
 The [infradev process](https://about.gitlab.com/handbook/engineering/workflow/#infradev) is used to triage issues requiring priority attention in support of SaaS availability and reliability. As part of the broader effort to responsibly manage tech debt across the company, PMs should partner with their EMs to identify and [incorporate](https://about.gitlab.com/handbook/engineering/workflow/#product-management) infradev labeled issues of [all severities](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) into their sprints regularly. Note, issues labeled with a severity must be mitigated and resolved within [specific timeframes](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability) to meet the SLO. When prioritizing infradev issues, PMs should familiarize themselves with the [infradev process](https://about.gitlab.com/handbook/engineering/workflow/#infradev) and [Board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name%5B%5D=infradev).
 
@@ -1071,13 +1075,13 @@ Other resources PMs can consult to identify and prioritize Infradev issues inclu
 
 While not required, PMs are encouraged to listen in on [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-management) calls for incidents related to their product areas to 1) build empathy with the SRE team by gaining insight into how they handle incidents 2) gain a better sense of the impact of the incident to their customer base, and 3) identify improvements to their product areas, whether technical or feature-related, that could have prevented the incident. PMs are not expected to be in the decision-making path on actions taken to resolve the incident. They are there to listen and learn rather than attempting to decide/influence the course of resolution. After incidents involving their product area, PMs are also encouraged to engage in the [Incident Review](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/), including attendance at the [Sync Incident Review](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/#synchronous-review-meeting-sessions) call if their incident is scheduled. PMs can periodically review incidents via the [Production Incident Board](https://gitlab.com/gitlab-com/gl-infra/production/-/boards/1717012?label_name%5B%5D=incident)
 
-##### Enterprise Customer Needs
+#### Enterprise Customer Needs
 
 Enterprise customers interested in adopting SaaS may have common hard requirements to be able to use the product. For example, large enterprises may need certain security related features, such as Audit Logs, available before their security team will agree to the use of GitLab.com. This can also be about more than just features; it may include how and where we apply features so they can administrate their GitLab instance at enterprise-scale. For instance, permission management and shared configurations are best implemented top-down first instead of Project-up to meet the requirements of large organizations who may have 100s or 1000s of projects and only a small handful of people to perform these system-wide administrative tasks. In order to encourage more Enterprise adoption of GitLab.com, prioritize these common "hard-blockers" to adoption over "nice to have" features. PMs can use customer interviews to hone in on which issues are hard blockers to adopting SaaS vs more "nice to have" features that can be delivered later.
 
 To track hard adoption blockers, use the ~"GitLab.com Enterprise Readiness" label within the [GitLab-Org](https://gitlab.com/groups/gitlab-org/-/boards/2037713?label_name%5B%5D=GitLab.com%20Enterprise%20Readiness) and [GitLab-com](https://gitlab.com/groups/gitlab-com/-/boards/2037722?label_name%5B%5D=GitLab.com%20Enterprise%20Readiness) groups.
 
-##### SaaS Features
+#### SaaS Features
 
 There are a few special considerations when it comes to delivering features for SaaS. In order to achieve [parity between SaaS and Self-managed installations](https://about.gitlab.com/handbook/product/product-principles/#parity-between-saas-and-self-managed-deployments) PMs should prioritize efforts to eliminate existing feature gaps that exist [across the two installations](https://about.gitlab.com/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#all-differences-between-gitlab-saas-and-self-managed). Additionally, new features should ship for SaaS and self-managed at the same time. Features should be implemented at the group level first, before being implemented at the instance level, so that they will work across [both self-managed and SaaS](https://about.gitlab.com/direction/manage/#gitlabcom). Finally, in order for new features to be adequately monitored, they should include [appropriate logging and observability](https://gitlab.com/gitlab-com/gl-infra/readiness/blob/master/.gitlab/issue_templates/production_readiness.md#monitoring-and-alerts), which makes troubleshooting much easier.
 
