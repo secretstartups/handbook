@@ -98,7 +98,7 @@ was created to serve as a transition overview document as we progress further
 towards even more frequent deployments. The current general process is
 described below.
 
-New auto-deploy branches are created at 03:00, 06:00, 11:00, 16:00 and 21:00 UTC.
+New auto-deploy branches are created at 03:00, 06:00, 09:00, 13:00, 18:00 and 20:00 UTC.
 
 Once a new branch is created, only commits that pass the CI tests are eligible for deployments ("green build"). This means that if specs are failing in
 [gitlab-org/gitlab], the deployments cannot progress further.
