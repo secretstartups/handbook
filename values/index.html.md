@@ -95,6 +95,8 @@ Share problems you run into, ask for help, be forthcoming with information and *
 {:.no_toc}
 Give negative feedback in the smallest setting possible.
 One-on-one video calls are preferred.
+If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please let your boss, or the CEO, know as soon as you realize it.
+We want to solve problems while they are **small**.
 
 Negative *feedback* is distinct from negativity and disagreement. If there is no direct feedback involved, strive to discuss disagreement [in a public channel](/handbook/communication/#use-public-channels), respectfully and [transparently](/handbook/values/#transparency).
 
@@ -131,11 +133,6 @@ For managers, it's important to realize that team members react to a negative in
 Keeping that in mind, if an error is so inconsequential that the value gained from providing criticism is low, it might make sense to keep that feedback to yourself.
 In the situations where negative feedback must be given, focus on the purpose for that feedback: to improve the team member's performance going forward.
 Give recognition generously, in the open, and often to [generate more engagement](http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=SA&subtype=WH&htmlfid=LOW14298USEN) from your team.
-
-##### Provide feedback in a timely manner
-{:.no_toc}
-If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please let your boss, or the CEO, know as soon as you realize it.
-We want to solve problems while they are **small**.
 
 ##### Get to know each other
 {:.no_toc}
