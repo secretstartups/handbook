@@ -110,7 +110,7 @@ It can be appropriate to provide negative feedback in a group setting to someone
 
 Negative feedback is 1-1 is to make sure that feedback is not overly harsh in public. Given the dynamics of a group setting it may be appropriate to give feedback in realtime.  
 
-In this [GitLab Unfiltered interview](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij and CTO Eric Johnson discuss this sub-value and give an example of a situation where giving negative feedback to your manager in front of others would be appropriate. 
+In this [GitLab Unfiltered interview](https://www.youtube.com/watch?v=BCpmFWL5Us8), GitLab co-founder and CEO Sid Sijbrandij and CTO Eric Johnson discuss this sub-value and give an example of a situation where giving negative feedback to your manager in front of others would be appropriate. 
 
 ##### Say thanks
 {:.no_toc}
