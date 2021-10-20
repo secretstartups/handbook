@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Calendly for Self-Managed Support
-category: Self-managed
+title: Calendly Setup for Support
+category: References
 description: "Workflow for setting up and using Calendly in Support Engineering"
 ---
 
@@ -11,9 +11,9 @@ description: "Workflow for setting up and using Calendly in Support Engineering"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Always use [single-use Calendly links](#generating-a-single-use-calendly-link) when offering a call with customers.
+**Note**: Always use [single-use Calendly links](#generating-a-single-use-calendly-link) when offering a call with customers.
 
-## Calendly setup for Self-Managed Support
+## Calendly setup
 
 You will have set up Calendly as part of your GitLab onboarding, following [the instructions in tools and tips](/handbook/tools-and-tips/other-apps/#calendly).
 
@@ -27,14 +27,30 @@ Modify your setup as follows
   * Consider changing your availability increment (see below)
   * Location may show as 'Zoom conference call' but won't actually be using the integration. Edit the location, and select zoom (with the blue camcorder icon)
 
+## Availability schedule setup
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/QeqvcjZEVpM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+Setting up your availability schedules is very important. This ensures you get scheduled calls during your intended hours as well as ensures you can be added to the various events we use.
+
+The above video shows how to set this up, but the general gist is:
+
+* Navigate to [https://calendly.com/app/availability/schedules](https://calendly.com/app/availability/schedules)
+* Set the timezone for your default schedule
+* Rename the default schedule to "Working hours"
+* Edit the hours you are available
+* Create a new schedule named "Unavailable"
+* Have yourself 100% unavaible at all times in the "Unavailable" schedule
+
 ### GitLab Support group account
 
-In order to participate in the [round-robin support call](#self-managed-round-robin) for self-managed customers, you'll need to be added to the GitLab Support group account. In addition to allowing you to participate in the Support call group event, being part of the group account also enables the Calendly Pro account features, including the ability to add multiple ["event types"](https://help.calendly.com/hc/en-us/categories/203257248-Customize-Event-Types) for scheduling calls with customers and colleagues as recommended in the [suggestions](#suggestions) below.
+In order to participate in the [round-robin support call](#round-robin) for customers, you'll need to be added to the GitLab Support group account. In addition to allowing you to participate in the Support call group event, being part of the group account also enables the Calendly Pro account features, including the ability to add multiple ["event types"](https://help.calendly.com/hc/en-us/categories/203257248-Customize-Event-Types) for scheduling calls with customers and colleagues as recommended in the [suggestions](#suggestions) below.
 
 To get added to the group account:
 
-1. Open a [Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request)
-1. Title it as `Your Name, Support, Calendly`, list Calendly as the "System Name" and mention that you'll be scheduling customer calls.
+1. Open a [Schedule update request](https://gitlab.com/gitlab-com/support/support-ops/calendly/-/issues/new?issuable_template=Schedule%20update%20request) issue
 1. Assign to your manager, and they'll approve and assign it over to team member that provisions Calendly.
 
 This access is also included as part of [support onboarding](/handbook/support/#onboarding) for GitLab Solutions Focus Support Engineers that will be handling tickets for self-managed customers.
@@ -53,18 +69,13 @@ or a (say) a 14:30-15:30 window available, then reducing the increment to 30 min
 If you have any other meeting lengths available, consider whether it makes sense to offer different start times.
 You can view your calendly availability using a private/incognito browser session.
 
-## Self managed round-robin
+## Round-robin
 
 The support team has a Team Support Call event.
 
 We use this to offer customers the choice between meeting with one engineer, or scheduling a meeting with anyone in the team.
 
 Part of your [support onboarding](/handbook/support/training/), once you're ready and you've been added to the [GitLab Support group account](#gitlab-support-group-account), is to request to be added to the support call event.
-
-To be added to the support call event:
-
-1. Open a [Calendly Support Call Inclusion Request](https://gitlab.com/gitlab-com/support/support-ops/calendly/-/issues/new?issuable_template=Provisioning%20Request) in the [Support Ops Calendly Project](https://gitlab.com/gitlab-com/support/support-ops/calendly/)
-1. Read through the instructions and specify the hours you'll be available relative to your timezone in both Standard Time and Daylight Saving Time (if applicable) and your [tz database designation](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) for future automation.
 
 You'll then also be able to generate a single-use link for this event from your browser plugin.
 
