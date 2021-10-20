@@ -212,6 +212,7 @@ Channel Managers or Sales Reps are responsible for quoting all GitLab direct and
 - Non-contracted partners may transact on a one-off basis, only with explicit approval of regional channel directors, the director of channel programs, or the vice president of channels.
  
 ## Unauthorized Partners
+- An authorized partner is a partner that has signed a contract to transact with GitLab. In SFDC, the "Partner Status" will say "Authorized," there will be a date in the "Signed Contract Date" field, and _either_ the "Click-Through Agreement" box will be checked, or a manual contract will be listed in the Google docs or Contract section of the account record. 
 - A key goal of the GitLab Channel Program is the success of our authorized partners, which means whenever possible, we should work deals with them. We are developing our channel to provide coverage across geos, customer segments and vertical markets. However, there are some situations where customer requires a deal be transacted by a partner that is not willing to join the GitLab Partner Program. Only in those situations should we transact with an unauthorized partner, and only with the explicit approval of the programs team.  
 - Unauthorized partners have not signed a GitLab Partner Agreement.
 - If an unauthorized partner would like to transact GitLab products or services, please have them visit the [Partner Portal](https://partners.gitlab.com/) to sign up. Someone who has authority to accept the Agreement is required.
