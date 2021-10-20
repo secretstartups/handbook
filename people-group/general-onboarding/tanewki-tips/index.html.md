@@ -20,7 +20,7 @@ Hello! We could not be more excited to have you at GitLab. This page is here to 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Meet the People Experience Team! 
 {: #tanuki-orange}
 
-[The People Experience Team](https://about.gitlab.com/handbook/people-group/people-experience-team/) is here to help guide you in your journey here at GitLab. A memeber of the team will be assigned to your Onboarding Issue, and will be there to provide guidance as you begin onboarding. You can learn more about us below by reading our bios on the team page. 
+[The People Experience Team](https://about.gitlab.com/handbook/people-group/people-experience-team/) is here to help guide you in your journey here at GitLab. A member of the team will be assigned to your Onboarding Issue, and will be there to provide guidance as you begin onboarding. You can learn more about us below by reading our bios on the team page. 
 
 - [Alex Venter, People Experience Associate](https://about.gitlab.com/company/team/#alex_venter)
 - [Nitin Upadhyay, Sr. People Experience Associate](https://about.gitlab.com/company/team/#nutaurus)
@@ -56,7 +56,7 @@ After you sign your offer and complete your background check and references, you
 
 1. Take your time! There is a lot to go through, and you may feel like you have to get to everything each day. If you do great! If not, that's great too.    
  - The entire onboarding issue is self-paced however, anything marked with a big red dot - 🔴 - should be completed with importance on the assigned day it is under.
-1. You are going to be overwhelmed when looking at your onboarding issue. This feeling is completely normal. But remember that your manager, onboarding buddy, assigned People Experience Associate, and the entire company is here to help you if you need it. 
+1. You are going to be overwhelmed when looking at your onboarding issue. This feeling is completely normal. But remember that your manager, onboarding buddy, assigned People Experience Associate, and the entire company are here to help you if you need it. 
     - Two of the best Slack channels to get yourself into to ask questions are `#it-help` and `#people-connect`
 1. There is a lot of Handbook content in this issue, that can at times require quite a bit of reading. Consider enabling one of the following tools which will help converting text into speech:
 - https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en
