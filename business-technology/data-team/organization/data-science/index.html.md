@@ -118,6 +118,21 @@ Projects with indirect impact do not translate directly to monetary value, but p
 
 "Our project enabled the product team to finally understand who our major customers are and the behaviors they exhibited. This knowledge helped to secure a new customer worth $1M ARR."
 
+## Describing insights/outcome of the project 
+
+Familiarising yourself with [Google's formula XYZ](https://www.youtube.com/watch?v=zrXZBkYzuZo) can help communicate insights and outcomes of the project in a more efficient way. Formula XYZ is a form of concise sentence that can be used to write down your achievements in resume. This structure has been established by Google and described as: "Accomplished [X] as measured by [Y], by doing [Z]."
+
+X = should be replaced by verb that describes what you accomplished, For example: increased revenue/reduced costs/provided training etc 
+
+Y = should be replaced by measure of your accomplishment. For example, if you increased revenue or reduced costs you could provide monetary value or percentage (Increased revenue by 10%) 
+
+Z = should be replaced by verb that describes how did you accomplished the result you wish to describe. For example, accomplished ABC "by conducting detailed analysis"
+
+Example of full sentence is below: 
+
+Our project increased revenue [X] by 10% [Y] by conducting detailed analysis [Z] 
+
+Please note that above formula is a suggestion only that may help to describe outcomes of the project in a more efficient and concise way.
 
 # Data Science Tools at Gitlab
 
