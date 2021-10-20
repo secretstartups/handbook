@@ -30,6 +30,13 @@ Confused about how to use Chorus? Check out the links below for more information
 - [Chorus Basics for Managers & Sales Enablement](https://docs.chorus.ai/hc/en-us/sections/115002370787-Chorus-Basics-for-Managers-Sales-Enablement)
 - [What’s the maximum length of a Chorus recorded meeting?](https://docs.chorus.ai/hc/en-us/articles/360045702734-What-s-the-maximum-length-of-a-Chorus-recorded-meeting-)
 
+## Security
+
+- Any time a Chorus link is shared, a password should be required or the link should be set to expire. Each user has to do this; it can not be turned on globally from the admin panel.
+As a best practice, please DO NOT include links to Chorus recordings in a public issue. If you need to include a Chorus recording or any type of customer information in an issue, please first mark the issue as `Confidential`.
+For additional details, please see [this issue](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1560#note_702890753).
+
+
 ## Chorus.ai Advanced Usage
 
 - [Chorus Integrations](https://docs.chorus.ai/hc/en-us/sections/115002215568-Integrations)
