@@ -37,7 +37,7 @@ We take both a qualitative and quantitative approach to measuring success of the
 
 No. Although the phases described on this page appear to be independent and linear, they are not. They're presented in this way for simplicity and ease of navigation. At GitLab, we do not promote working in a linear manner. Phases in the product development lifecycle may overlap or occur in parallel.
 
-We aim to achieve key outcomes in each phase in order to de-risk subsequent phases. However, this document doesn't dictate the order we go through the phases, or the time spent in each. When teams have a high confidence in their direction, they should feel empowered to skip or shorten phases that won't contribute to improved confidence.
+We aim to achieve key outcomes in each phase in order to de-risk subsequent phases. However, the product development flow doesn't dictate the order we go through the phases, or the time spent in each. When teams have a high confidence in their direction, they should feel empowered to skip or shorten phases that won't contribute to improved confidence.
 
 Examples:
 - An engineering team conducts a technical review while other team members are performing Validation Phase activities. The team can then move to the Build phase rapidly with high confidence that their improvement is good for customers and technically feasible.
