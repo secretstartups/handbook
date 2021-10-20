@@ -36,6 +36,22 @@ You have two options when setting up jupyter via the data-science project. Choos
    1. First make sure that Google Chrome is your default browser (go to "System Preferences", click "General" and choose Google Chrome from dropdown menu in section "Default web browser"). 
    2. Then, in Chrome, copy paste the url and token found in terminal once the docker image creates. It should look something like `http://127.0.0.1:8888/lab?token=5c7f7da79f4a0968501f087f3c79ee4dd8bd7a63e0f088a8`. The token will change each time you spin up the docker container.
 
+#### Validation of installation
+
+Before you proceed further, validate if your Python and pip (package installer for Python) are in correct paths. If these are not in correct locations you may not be able to work with the most up to date packages.
+
+To check if everything is correct open terminal and run command 
+
+``which python`` 
+
+It lists location of your default Python. It should be in ``/Users/your_user_name/anaconda3/bin``
+
+And command 
+
+``which pip``
+
+It lists location of your default pip. It should be in ``/Users/your_user_name/anaconda3/bin/pip``
+
 #### Connecting to Snowflake
 1. Make sure you have setup a `{User}/.dbt/profiles.yml` file which **does not** include your password. You can use the example provide [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/sample_profiles.yml) as reference
 1. Run through the [auth_example notebook](https://gitlab.com/gitlab-data/data-science/-/blob/main/templates/auth_example.ipynb) in the repo to confirm that you have configured everything successfully. The first time you run it you will get a browser redirect to authenticate your snowflake credientials via Okta. After that, if you run the notebook again you should be able to query data from Snowflake.  
