@@ -81,6 +81,9 @@ When an escalation is resolved:
 
 1. Apply a `:green-check-mark:` emoji to the escalation notification in `#support_escalations`.
 1. Update the associated escalation Issue with an appropriate comment, and Close it.
+1. Consider applying an appropriate label, such as one of the scoped label examples below, to help categorize and track trends in escalations.
+    - `~Escalation::License-Issue` : Identifies the core issue at hand resolves around licensing / subscriptions
+    - `~Escalation::Response-Time` : Useful when the purpose of the escalation is to expedite a response to an issue or case
 
 ## Act as a notification point for security incidents
 
