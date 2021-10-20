@@ -158,3 +158,36 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 ## Career Ladder
 The next step in the Diversity, Inclusion, and Belonging job family is to move to a senior manager role which is not yet defined at GitLab. 
+
+### Vice President, Diversity Inclusion, and Belonging
+The Vice President, Diversity Inclusion, and Belonging reports to the Chief People Officer
+
+#### Vice President, Diversity Inclusion, and Belonging Job Grade 
+The Diversity, Inclusion, and Belonging Partner is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Vice President, Diversity Inclusion, and Belonging Responsibilities
+- Define the right Key Performance Indicators for GitLab globally.
+- Develop and execute the DEIB people, culture and content strategies across GitLab to achieve the assigned key performance indicators.
+- Bring strong awareness of global diversity issues and remediation approaches to the team
+- Integrate DEIB with People strategies, practices and processes at every stage of the team member lifecycle (i.e. hire, engagement, retention, learning and development).
+- Inspire and empower leaders to develop and drive DEIB strategies within their business including to build annual goals and plans that achieve results based on identified needs
+- Develop GitLab strategies, programs, training, and frameworks aimed at improving and promoting a culture based on values, belonging, and inclusion
+- Build trusted partnerships with other teams to further advance our ability to tell authentic and inclusive stories.
+- Provide oversight for our advisory board and team member resource groups and  provide coaching and thought partnership on programming
+- Identify, develop and foster relationships with industry thought leaders, consultants and partners to apply best practices and help drive an inclusive culture.
+- - Craft policies, programs, and other resources to educate team members about diversity and inclusion standard methodologies and behaviors
+Develop and analyze metrics on an established schedule to measure progress and effectiveness of the diversity and inclusion strategy
+- Incorporate global perspectives to implement DEIB programs at global scale
+- Use the unique product opportunity that GitLab has in the market to ensure our product teams are keeping accessibility of our product portfolio top of mind
+- Partner with our product teams to ensure innovation and iteration as we develop of portfolio  
+
+#### Vice President, Diversity Inclusion, and Belonging Requirements
+
+- Expert Diverstiy Equity & Inclusion  (DEI ) industry knowledge and the implementation of best practices with measures of success, having directly worked and led in the diversity space
+- Strong written & presentation communication abilities to reach broad audiences
+- Skilled coach and mentor as well as developer and facilitator of DEI enablement
+- Ability to manage large projects holding yourself and others accountable to timelines and results
+- Deep understanding and application of change management concepts and how they relate to transformation efforts
+- Ability to build strong relationships across all levels within the organization as well as cross functionally and cross culturally
+- Strong community organizing and action skills and ability to elicit participation with DEIB  efforts across an organization
+
