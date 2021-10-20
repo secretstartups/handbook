@@ -92,9 +92,9 @@ Team members are entitled to at least 20 vacation days which run concurrently wi
 
 #### Statutory Sick Leave
 
-- Team members are entitled to 100% of their salary to be paid by GitLab for the first six weeks if they are unable to work due to an illness. This runs concurrently with GitLab PTO. Team members should select `Out Sick` in PTO by Roots to initiate leave. Team members must also submit a medical certificate by the third day of absence.
+- Team members are entitled to 100% of their salary to be paid by GitLab for the first six weeks if they are unable to work due to an illness. This runs concurrently with GitLab PTO. Team members should select `Out Sick` in PTO by Roots to initiate leave. Team members must also upload a medical certificate by the third day of absence to BambooHR > Documents > Employee Uploads folder. Alternatively, please email the medical certificate to the Team Member Relations Specialist team via `teammemberrelations @gitlab.com` and will file this to BambooHR accordingly.
 - If the team member is sick for more than six weeks, they can apply for "Krankengeld" from their health insurer. The benefit amount will be less that the team member's salary.
 
 #### During COVID-19
 
-During the COVID-19 Pandemic, per German labor law, team members are required to present a doctor's certificate if they need to take more than 3+ consecutive sick days. We encourage all team members to meet with a _virtual doctor_ for the certificate to avoid the need to leave home. The team member will send doctor's note to Total Rewards at total-rewards@gitlab.com. Total Rewards will file this in their BambooHR profile and forward to Payroll for processing.
+During the COVID-19 Pandemic, per German labor law, team members are required to present a doctor's certificate if they need to take more than 3+ consecutive sick days. We encourage all team members to meet with a _virtual doctor_ for the certificate to avoid the need to leave home. The team member will send doctor's note to Team Member Relations Specialists at teammemberrelations@gitlab.com. The Team Member Relations Specialists will file this in their BambooHR profile and forward to Payroll for processing.
