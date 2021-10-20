@@ -39,15 +39,15 @@ At GitLab, team members have access to the [Growth and Development benefit](/han
 
 ## How to Apply For Growth and Development Benefits
 
-1. Applying team members must have a [career development conversation](/handbook/people-group/learning-and-development/career-development/#what-is-career-development) with their manager to discuss the learning opportunity. It's important to discuss timing, team member capacity, and application timeline for both the program and benefit processing. This conversation should allow time for both the team member to apply for program/benefit and the manager to ensure team budget capacity.
+**Step 1:** Have a [career development conversation](/handbook/people-group/learning-and-development/career-development/#what-is-career-development) with your manager to discuss the learning opportunity. It's important to discuss timing, team member capacity, and application timeline for both the program and benefit processing. This conversation should allow time for you to apply for program/benefit and your manager to ensure team budget capacity.
 
-2. Create a new Growth & Development issue at least 30 days before the commencement date:
+**Step 2:** Create a new Growth & Development issue at least 30 days before the commencement date:
     * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=academic_study) for applications relating to Academic Study
     * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-growth-development) for other types of Growth & Development applications
 
 * Note: This application process is visible internally. It is preferred and more efficient to create an issue for your application, however, if there is any reason that you would like to keep your application confidential, please send growth-development@gitlab an email with the details of your application (refer to the issue templates for the information required).
 
-3. Request approval on the issue. Manager approval is needed for all applications and Executive Leader approval is needed for applications above $1000 USD. 
+**Step 3:** Request approval on the issue. Manager approval is needed for all applications and Executive Leader approval is needed for applications above $1000 USD. 
 
 * Once the manager has approved, there is no further action to be taken by the manager. They can unassign themselves to the issue if they wish. Total Rewards will update the labels on the issue.
 
@@ -58,7 +58,7 @@ At GitLab, team members have access to the [Growth and Development benefit](/han
   - Field Operations: David Hong (VP of Field Operations)
   - Worldwide Channels: Michelle Hodges (VP of Worldwide Channels) 
 
-4. Claim for reimbursement: 
+**Step 4:** Claim for reimbursement: 
 * If you have signed up for academic study, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you receive your grade/transcript (this can be done at the end of each semester if your course is split into semesters or at the end of the program). You may close the issue once you have received reimbursement for the whole program. 
 * For other types of Growth & Development opportunities, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you have obtained the reimbursement requirement per the [table below](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements). You may close the issue once you have gained approval for your application.
 
