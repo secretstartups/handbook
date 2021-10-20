@@ -701,7 +701,6 @@ release_number: "X.Y"
 title: "GitLab X.Y Released with Feature A and Feature B"
 author: "Name Surname"
 author_gitlab: gitlab.com-username
-author_twitter: twitter-username
 categories: releases
 image_title: '/images/X_Y/X_Y-cover-image.ext'
 description: "GitLab X.Y Released with XXX, YYY, ZZZ, KKK, and much more!"
