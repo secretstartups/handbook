@@ -79,5 +79,53 @@ Community contributions are valuable, and we should handle them as effectively a
 | [Complete Triage for Merged Merge Requests](#complete-triage-for-merged-merge-requests) | 7 days                                     | Reach out to [Engineering Productivity team][Engineering Productivity team] |
 | [Complete Triage for Idle Merge Requests](#complete-triage-for-idle-merge-requests)    | 7 days                                     | Reach out to [Community Relations team](/handbook/marketing/community-relations/#-how-to-reach-us)         |
 
+
+## Triage levels for the www-gitlab-com project
+
+The GitLab Website is owned and managed by a different team than GitLab.org; thus, a further triage process must be defined. 
+
+### Initial Triage
+
+A merge request is considered initially triaged when it has a:
+
+- [`~"Community contribution"` label applied](/handbook/engineering/quality/triage-operations/#ensure-quick-feedback-for-community-contributions).
+- [welcome message](https://gitlab.com/gitlab-org/quality/triage-serverless/-/blob/master/triage/processor/thank_community_contribution.rb) from the [`@gitlab-bot`](https://gitlab.com/gitlab-bot) user with more details on the process.
+
+The Initial triage is automated by the [Engineering Productivity team][Engineering Productivity team], please see [Community contributions on Triage Operations](/handbook/engineering/quality/triage-operations/#community-contributions) page for the full details.
+
+### Complete Triage
+
+The Complete Triage is divided into 3 subcategories depending on the community merge request state.
+
+#### Complete Triage for Open Merge Requests
+
+A merge request is considered completely triaged when it has:
+
+- a reviewer assigned by the [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/) Manager.
+- been reviewed by a reviewer.
+
+Typically, the reviewer is the [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html) of the page the merge request is updated. If there is no code owner assigned, the triager will reach out to the relevant team the page belongs to identify a reviewer.
+
+
+#### Complete Triage for Idle Merge Requests
+
+A merge request is considered completely triaged when it:
+
+- is closed following the [closing policy for issues and merge requests](https://docs.gitlab.com/ee/development/contributing/#closing-policy-for-issues-and-merge-requests).
+
+This triage process is being done manually on a case-by-case basis by the Code Contributor Program manager or the relevant [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html).
+
+## Wider Community Merge Request Triage SLOs
+
+Community contributions are valuable, and we should handle them as effectively as possible to ensure swift feedback to community and increase engagement. To achieve that we define the following [Service-level objectives (SLOs)](https://en.wikipedia.org/wiki/Service-level_objective):
+
+| Triage Level                                                                            | Triage SLO                                 | Escalation path if SLO target is missed                                                                    |
+|-----------------------------------------------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| [Initial Triage](#initial-triage)                                                       | 24 hours                                   | Reach out to [Engineering Productivity team][Engineering Productivity team]|
+| [Partial Triage](#partial-triage)                                                        | 7 days                                     | Reach out to the the [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/) Manager
+| [Complete Triage for Open Merge Requests](#complete-triage-for-open-merge-requests)     | - 7 days to assign <br> - 7 days to review | Reach out to the [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/) Manager         |
+| [Complete Triage for Merged Merge Requests](#complete-triage-for-merged-merge-requests) | 7 days                                     | Reach out to [Engineering Productivity team][Engineering Productivity team] |
+| [Complete Triage for Idle Merge Requests](#complete-triage-for-idle-merge-requests)    | 7 days                                     | Reach out to the [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/) Manager         |
+
 [GitLab.com]: https://gitlab.com/groups/gitlab-org 
 [Engineering Productivity team]: /handbook/engineering/quality/engineering-productivity-team/
