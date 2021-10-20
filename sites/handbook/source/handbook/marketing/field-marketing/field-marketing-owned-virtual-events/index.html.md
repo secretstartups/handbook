@@ -287,8 +287,8 @@ These will be completed by Verticurl when setting up the landing page.
 ### Step 3.B: Turn on Smart Campaigns in Marketo
 **DRI: FMC**
  
-  * Activate the `00 Interesting Moments` campaign.
-  * Activate the `01a Registration Flow (single timeslot)` smart campaign.
+  * Activate the `00 Interesting Moments` smart campaign campaign by going to the `schedule` tab and selecting `activate`.
+  * Activate the `01a Registration Flow (single timeslot)` smart campaign by going to the `schedule` tab and selecting `activate`.
  
 ### Step 3.C: Create the Landing Page
 **DRI: Verticurl**
