@@ -53,6 +53,7 @@ These are just a few strategies outlined in the Crucial Conversation book. We [h
 | [Iteration](/handbook/values/#iteration) | Crucial conversations should happen early and often. The CPR (Content, Pattern, Relationship) encourages conversation early and often in the `content` category before something becomes a `pattern` |
 | [Transparency](/handbook/values/#transparency)| Results, goals, and stories about crucial conversations are shared throughout teams to encourage more crucial conversations. While the content of specific conversations isn't always shared to maintain a safe space, the discussion about practicing crucial conversations keeps us accountable. |
 
+
 ## Strategies for Successful Crucial Conversations
 
 ### 9 Influencing Strategies
@@ -96,6 +97,8 @@ There are many different influencing strategies and in this section we are going
 
 Having crucial conversations via a Zoom call might be more difficult than having the conversation in person. These strategies are meant to identify what makes having crucial conversations in an all-remote environment challenging and things we can try to make the conversations more effective.
 
+
+1. Pre-populate your [1:1 meeting agenda](/handbook/leadership/1-1/) so that everyone can come prepared to have crucial conversations.
 1. In a video call, we might miss out on key body language markers that are more apparent when having conversations in person. Focus on the body language queues we can see. Does someone who typically uses video have their video off, or does someone turn their video off suddenly? Does the person seem to be looking away or looking down, avoiding the screen?
 1. Make space for pause. Silent pauses on a phone call might feel awkward or uncomfortable. These pauses are necessary for people to process feelings and stress and craft thoughtful responses during crucial conversations. Try using these phrases if you need to create a space for silence:
 
@@ -109,6 +112,20 @@ Having crucial conversations via a Zoom call might be more difficult than having
      - Don't try to fill the space with more talking. Let there be a minute or two of quiet on the line.
      - Let your eyes gaze around the room, down, or at your notes if you need something else to focus on
      - Wait until the person you're speaking with initiates conversation again before speaking
+
+1. Asking questions lets everyone determine what facts and stories are present in the conversation. They can be can asked in a synchrounous and async formats. Example questions include
+     - `What do you think?`
+     - `Can I get your perspective/a different perspective on this?`
+     - `How do you feel?`
+     - `Can I get your feedback on...`
+
+1. During a crucial conversation, different priorities might come up from members in the conversation. It's important to determine what conversation people are prepared to participate in and what topics are most important and efficient to address. Determining the root cause of the conversation is important here. Think about questions like:
+     - `Is this turning into a performance discussion?`
+     - `Do we need to reschedule so we can all prepare?`
+     - `Is this conversation about a specific problem?`
+     - `Has this problem happened before?`
+     - `What is the most pressing issue to address?`
+     - `Is what is pressing for me the same thing that is pressing for others in the discussion?`
 
 ## What GitLab Managers Say about Crucial Conversations
 
