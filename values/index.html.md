@@ -106,7 +106,7 @@ In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitL
 >
 > If you want to get better, you talk about what you can improve. We're allowed to publicly discuss negative things; we're not allowed to give negative feedback in a large setting if it could be feasibly administered in a smaller setting.
 
-Negative feedback can be given in a group setting if it's to someone higher in the management chain. This encourages group psychological safety and shows that no one is above feedback. GitLab co-founder and CEO Sid Sijbrandij and CTO Eric Johnson discuss this in this [GitLab Unfiltered video](https://www.youtube.com/watch?v=BCpmFWL5Us8).
+Negative feedback can be given in a group setting if it's to someone higher in the management chain. This shows that no one is above feedback. GitLab co-founder and CEO Sid Sijbrandij and CTO Eric Johnson discuss this in this [GitLab Unfiltered video](https://www.youtube.com/watch?v=BCpmFWL5Us8).
 
 ##### Say thanks
 {:.no_toc}
