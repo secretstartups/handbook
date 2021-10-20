@@ -95,8 +95,6 @@ Share problems you run into, ask for help, be forthcoming with information and *
 {:.no_toc}
 Give negative feedback in the smallest setting possible.
 One-on-one video calls are preferred.
-If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please let your boss, or the CEO, know as soon as you realize it.
-We want to solve problems while they are **small**.
 
 Negative *feedback* is distinct from negativity and disagreement. If there is no direct feedback involved, strive to discuss disagreement [in a public channel](/handbook/communication/#use-public-channels), respectfully and [transparently](/handbook/values/#transparency).
 
@@ -105,6 +103,11 @@ In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitL
 > We deal with negative all the time at GitLab. If it's not a problem, then why are we discussing it? We deal with negativity a lot, and that's also part of our ambition.
 >
 > If you want to get better, you talk about what you can improve. We're allowed to publicly discuss negative things; we're not allowed to give negative feedback in a large setting if it could be feasibly administered in a smaller setting.
+
+##### Provide feedback in a timely manner
+{:.no_toc}
+If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please let your boss, or the CEO, know as soon as you realize it.
+We want to solve problems while they are **small**.
 
 ##### Say thanks
 {:.no_toc}
