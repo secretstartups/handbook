@@ -118,6 +118,14 @@ Projects with indirect impact do not translate directly to monetary value, but p
 
 "Our project enabled the product team to finally understand who our major customers are and the behaviors they exhibited. This knowledge helped to secure a new customer worth $1M ARR."
 
+## Describing insights/outcome of the project 
+
+Familiarising yourself with [Google's formula XYZ](https://www.youtube.com/watch?v=zrXZBkYzuZo) can help communicate insights and outcomes of the project more efficiently. Formula XYZ is described by Google as: "Accomplished [X] as measured by [Y], by doing [Z]."
+
+For example,
+
+Our project increased revenue [X] by 20% [Y]  
+
 
 # Data Science Tools at Gitlab
 
