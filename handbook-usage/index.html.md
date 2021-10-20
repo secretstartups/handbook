@@ -191,12 +191,12 @@ If you require project-based access, you can request temporary developer access 
 
 #### Where can it be found?
 
-- [Internal Handbook Project](https://gitlab.com/internal-handbook/handbook/-/tree/master/source)
-- [Live Website](https://internal-handbook.gitlab.io/handbook) 
+- [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/master/source)
+- [Live Website](https://internal-handbook.gitlab.io) 
 
 #### Why is there a internal handbook?
 
-As a company, we are [public by default](/handbook/values/#public-by-default), but there are things that we cannot discuss publicly. Items that falls into the [not public](/handbook/communication/#not-public) category will be added to this [Internal Handbook](https://internal-handbook.gitlab.io/handbook) . 
+As a company, we are [public by default](/handbook/values/#public-by-default), but there are things that we cannot discuss publicly. Items that falls into the [not public](/handbook/communication/#not-public) category will be added to this [Internal Handbook](https://internal-handbook.gitlab.io) . 
 
 #### The process of using this handbook
 
@@ -204,16 +204,16 @@ Only add items to the internal handbook that fall into the [not public](/handboo
 
 **Updating the Internal Handbook:** 
 
-1. You are on the [live internal handbook website](https://internal-handbook.gitlab.io/handbook/)
-1. Click "Edit this Page" in the bottom left. It will take you to the [Internal Handbook Project](https://gitlab.com/internal-handbook/handbook/-/tree/master/source). 
+1. You are on the [live internal handbook website](https://internal-handbook.gitlab.io/)
+1. Click "Edit this Page" in the bottom left. It will take you to the [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/master/source). 
 1. Click folder titled "Source"
 1. If there is already a section you want to add to, you can select that folder now, go into the appropriate folder, and edit. If the section you are needing has not been created yet, click on the "+" and create a "new file".  
 
 #### Accessing the internal handbook group.
 
 All team members will have this added to their Okta access when they join the company. Login to your Okta dashboard and click on the  `GitLab Internal Handbook` tile. You will have to authenticate with Okta first. 
-- [Internal Handbook Project](https://gitlab.com/internal-handbook/handbook/-/tree/master/source)
-- [Website](https://internal-handbook.gitlab.io/handbook) 
+- [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/master/source)
+- [Website](https://internal-handbook.gitlab.io) 
 
 #### What if I have questions about the internal handbook or want to help with it?
 
