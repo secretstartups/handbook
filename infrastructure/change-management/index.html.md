@@ -227,10 +227,9 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 
 | Dates                       | Type       | Reason                        |
 |-----------------------------|------------|-------------------------------|
-| 14-18 Oct 2021  (start & end at 0700)              | Hard       | GitLab 10 Year Celebration https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/92 (internal only)|
-| 17-19 Sept 2021                | Hard       | Load protection days https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/76 (internal only)|
-| 27-31 July 2021             | Soft |   Address items raised in https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/75 |
-| 22-26 July 2021             | Hard |      Ensure changes are going through extra checks |
+|24 - 28 November 2021 |Soft | US Thanksgiving Holiday (Low team member availability) |
+|24 - 26 December 2021 |Soft | Christmas Holiday (Low team member availability) |
+|31 December 2021 - 2 January 2022 | | New Years (Low team member availability) |
 | Recurring: 22nd of every month         | Soft       | Release day                   |
 | Recurring: [Scheduled Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/#upcoming-family-and-friends-days)         | Soft       | Family and Friends Days                   |
 
