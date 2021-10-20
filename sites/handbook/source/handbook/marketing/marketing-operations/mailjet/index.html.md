@@ -16,15 +16,17 @@ description: "MailJet is used for large scale transactional email sends"
 
 
 ### About MaailJet
-[MailJet](https://www.mailjet.com/) is an email platform used for large transactional sends. It is replacing MailChimp as our large-scale sender. MailJet charges based on volume sent, not database size, so it is more cost effective (among other reasons) to use vs [Marketo](/handbook/marketing/marketing-operations/marketo/).
+[MailJet](https://www.mailjet.com/) is an email platform used for large transactional sends. MailJet charges based on volume sent, not database size, so it is more cost effective (among other reasons) to use vs [Marketo](/handbook/marketing/marketing-operations/marketo/).
 
-MailJet is used by only certain Marketing Ops and Marketing Campaigns users. It is currently being onboarded as of 2021-03-01, planning to have the IP warmed and the platform useable by mid-April 2021.
+MailJet is used by only certain Marketing Ops and Marketing Campaigns users. 
 
 ### Use Cases
 - Large sends (50k) or more.
      - Security Incidents
      - Account Updates (Account and pricing notifications, etc)
      - Privacy Policy Updates
+- Non-database sends
+     - Community alerts
 
 ### Requesting Email Send from MailJet
 If the email is an emergency, please follow directions on [this page](/handbook/marketing/emergency-response).
@@ -37,7 +39,4 @@ Only a select number of marketing and marketing operations team members have acc
 
 
 ### MailJet Templates
-Depending on the send, there are different templates that should be used. Templates are a work in progress, follow status updates in this [epic](https://gitlab.com/groups/gitlab-com/-/epics/1249).
-
-### MailJet Lists
-WIP
+Depending on the send, there are different templates that should be used.
