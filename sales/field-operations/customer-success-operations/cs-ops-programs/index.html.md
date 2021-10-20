@@ -92,22 +92,35 @@ See our [GitLab Admin contact required page](https://about.gitlab.com/handbook/s
 
 Programs are available to specific customer types.
 
-### All-customer programs
+### Digital customer programs
 
-The programs below are available to **digital-only customers**.
+The programs below are available to Sales Assisted **digital-only customers who have GitLab Admin-assigned contacts**.
 
 | Program                         | Category    | Content  | Recipients                                              |
 |---------------------------------|-------------|----------|---------------------------------------------------------|
 | Onboarding intro and enrollment   | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | Customer within the last 3 days                         |
-| Onboarding series               | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | Customer ~3 days                                        |
+| Onboarding series               | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | Customer ~3-15 days                                        |
 | Post-Onboarding Survey          | Onboarding  | [Copy doc](https://docs.google.com/document/d/1B3RV2RuUkb3RzuQeNUTDz1BnpZLRwInnb_igm4ra7aw/edit?usp=sharing) | Participants completed onboarding series                |
-| Customer Use Case: CI           | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) | Customer ~30 days                                       |
-| Customer Use Case: DevSecOps    | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | Customer ~60 days                                       |
+| Customer Use Case: CI           | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) | Customer ~45 days                                       |
+| Customer Use Case: DevSecOps    | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | Customer ~70 days                                       |
+| Customer Use Case: CD           | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | Customer ~100 days                                       |
 | Monthly Newsletters             | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)     | Sent Monthly on Fridays                                 |
 | NPS/CSAT Post-Onboarding Survey | Onboarding  | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Customer since = 60 days                                |
 | NPS/CSAT Pre-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Next renewal date = 120 days                            |
-| Monthly Webinar Invitations     | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/37)   | Sent monthly depended on event date                     |
-| Post Churn Survey               | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/293)    | Opportunity marked Closed-Lost, Active Subscription = 0 |
+| Monthly Webinar Invitations     | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/37)   | Sent monthly dependent on event date                     |
+| Post Churn Survey (SMB Only)             | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/293)    | Opportunity marked Closed-Lost, Active Subscription = 0 |
+| CI Usage Trigger Program        | Enablement  | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/190) | <20% Utilization of CI and not in time-based CI campaign                                       |
+
+The programs below are available to Web Direct **digital-only** customers and sent to the `Latest Sold To` contact.
+
+| Program                         | Category    | Content  | Recipients                                              |
+|---------------------------------|-------------|----------|---------------------------------------------------------|
+| Onboarding series               | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | Customer ~3-15 days                                        |
+| Post-Onboarding Survey          | Onboarding  | [Copy doc](https://docs.google.com/document/d/1B3RV2RuUkb3RzuQeNUTDz1BnpZLRwInnb_igm4ra7aw/edit?usp=sharing) | Participants completed onboarding series                |
+| Customer Use Case: CI           | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) | Customer ~45 days                                       |
+| Customer Use Case: DevSecOps    | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | Customer ~70 days                                       |
+| Customer Use Case: CD           | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | Customer ~100 days                                       |
+| Monthly Newsletters             | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)     | Sent Monthly on Fridays                                 |
 
 <br>
 
@@ -117,7 +130,7 @@ The programs below are available to **TAM-assigned accounts** only.
 
 | Program                               | Category   | Content  | Recipients                              |
 |---------------------------------------|------------|----------|-----------------------------------------|
-| Intro to GitLab CS (not yet live)     | Onboarding | [Copy doc](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) | When a customer is first assigned a TAM |
+| Intro to GitLab CS    | Onboarding | [Copy doc](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) | When a customer is first assigned a TAM |
 | AE <> TAM Introduction (not yet live) | Onboarding | [Copy doc](https://docs.google.com/document/d/14k1h_f4d51GjwS9HzAJ6iOzebBu4aEgETfSQwUA-MME/edit?usp=sharing) | When a customer is first assigned a TAM |
 | Monthly Newsletters*                  | Enablement | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)    | Sent monthly on Fridays                 |
 | NPS/CSAT Post-Onboarding Survey*      |            | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Customer since = 60 days                |
