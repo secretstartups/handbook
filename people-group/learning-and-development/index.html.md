@@ -260,8 +260,12 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 | Curriculum | A series of learning paths that comprise a course of study on a skill-based topic | Varies |
 | Certification | See definition on the [certification page](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/#certifications) | Varies |
 | Learning Path | A chosen route taken by a learner through a range of learning activities to build knowledge progressivley | Varies |
+
 This terminology is distinct from our Learning Experience Platform, GitLab Learn, which has it's own [glossary of terms](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#understanding-content-in-gitlab-learn).
- ### Learning Delivery Methods - Definitions
+
+
+### Learning Delivery Methods - Definitions
+
 | Term | Definition | Duration |
 | ------ | ------ | ------ |
 | Instructor-Led Training (ILT) | Practice of training and learning material between an instructor and learners. Face-to-face training (classroom training) | Varies |
