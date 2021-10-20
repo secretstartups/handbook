@@ -5,7 +5,7 @@ title: "Business Systems Analysts Onboarding"
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-Awesome! You're about to become a Business Systems Analyst at GitLab!
+Awesome! You're now a Business Systems Analyst at GitLab!
 Make sure you've checked out our [handbook](/handbook/) beforehand, so you get a feeling of how we work at GitLab. Below you'll find everything you need to start your journey.
 
 You will feel very slow in the beginning, which is perfectly normal. There is a lot of information being thrown at you all at once. Your goal for the first few weeks here at GitLab is simply to listen, absorb, and ask as many questions as possible.
@@ -182,12 +182,6 @@ Workflow for creating an issue:
 * Fill in all the relevant sections.
 * `@mention` someone in the issue to attract attention to it. Choose an expert [here](/company/team/) or feel free to ask in the #business-technology channel on Slack who it should be reviewed by. Do not worry that you are poking someone to review something when you don't even know them and they might be much more senior than you, if it's not appropriate for them, they will know the right person to pass it along to and do that.
 
-Typical kinds of BSA issues created:
-
-- New Projects: when the BSA will be involved in a already established project.
-    - Template "New Project" [here](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
-- Project Proposal: when the BSA has been dealing with different teams and a new project has to be organized.
-    - Template "Project Proposal" [here](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
 
 ## Relevant links
 
