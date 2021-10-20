@@ -118,6 +118,21 @@ Projects with indirect impact do not translate directly to monetary value, but p
 
 "Our project enabled the product team to finally understand who our major customers are and the behaviors they exhibited. This knowledge helped to secure a new customer worth $1M ARR."
 
+## Describing insights/outcome of the project 
+
+Familiarising yourself with [Google's formula XYZ](https://www.youtube.com/watch?v=zrXZBkYzuZo) can help communicate insights and outcomes of the project in a more efficient way. Formula XYZ is a form of concise sentence that can be used to write down your achievements in resume. This structure has been established by Google and described as: "Accomplished [X] as measured by [Y], by doing [Z]."
+
+X = should be replaced by verb that describes what you accomplished, For example: increased revenue/reduced costs/provided training etc 
+
+Y = should be replaced by measure of your accomplishment. For example, if you increased revenue or reduced costs you could provide monetary value or percentage (Increased revenue by 10%) 
+
+Z = should be replaced by verb that describes how did you accomplished the result you wish to describe. For example, accomplished ABC "by conducting detailed analysis"
+
+Example of full sentence is below: 
+
+Our project increased revenue [X] by 10% [Y] by conducting detailed analysis [Z] 
+
+Please note that above formula is a suggestion only that may help to describe outcomes of the project in a more efficient and concise way.
 
 # Data Science Tools at Gitlab
 
@@ -169,6 +184,81 @@ Below listed common data science terms that are used by team.
 **Clustering** - process of definining groupings in dataset 
 
 
+# Python vs SQL 
+
+If you are familiar with structured Query Language (SQL), you may want to use clauses while doing your analysis in Python (with library pandas). Below listed Python's equivalents of popular SQL commands. 
+
+Please note that below is not the only way to achieve your expected outcomes - there are many ways in Python to achieve the same result.  
+
+## SELECT * FROM 
+
+```python
+#assuming you loaded your dataset as 'data' just put the name of dataframe into Jupyter's cell
+data 
+```
+
+## SELECT col1, col2 FROM 
+
+
+```python
+columns = ['col1', 'col2']
+
+data[columns]
+
+#above can be combined in one code as follows:
+data[['col1','col2']]
+
+```
+
+## COUNT
+
+```python
+#defines length of dataframe what equals to amount of rows
+len(data)
+
+#similar as above but additionally lists amount of columns
+data.size
+```
+
+## LIMIT
+
+```python
+#lists first 5 rows 
+data.head()
+
+#if you want top 10 rows you can do it by adding number inside head() function
+data.head(10)
+```
+
+## WHERE 
+
+```python
+#list all rows for which column1 has value greater than 1
+condition = data['column1'] > 1
+
+data[condition]
+
+```
+
+Please note that Python accepts combined conditions. Python's equivalent for AND is & and for OR is | 
+
+## GROUP BY (with aggregation functions)
+
+```python
+
+#lists count of rows per column 1
+data.groupby(['col1']).size()
+
+#lists average value of rows per column1
+data.groupby(['col1']).mean()
+
+#lists min value of rows per column1
+data.groupby(['col1']).min()
+
+#lists max value of rows per column1
+data.groupby(['col1']).max()
+
+```
 
 
 
