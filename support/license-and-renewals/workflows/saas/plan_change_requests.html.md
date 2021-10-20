@@ -10,6 +10,13 @@ category: GitLab.com subscriptions & purchases
 ----
 # Plan change requests
 
+## Important
+
+- Before using this workflow verity if the namespace recently purchase a plan and if that is the case,
+associate that purchase instead of using this method.
+
+- If this workflow is used always verify the number of seats with the requestor before closing the request.
+
 ## Summary
 
 A plan change is when an existing GitLab SaaS plan will be modified on its plan level or subscription end date.
@@ -17,12 +24,12 @@ A plan change is when an existing GitLab SaaS plan will be modified on its plan 
 ### Which are the plan levels?
 
 1. Ultmate
-1. Premium 
+1. Premium
 1. Free
 
 ## Steps
 
-### Using Mechanizer 
+### Using Mechanizer
 
 1. Use the [Update GitLab Subscription](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_gitlab_plan.html)
    to modify the customer's plan as neeed.
