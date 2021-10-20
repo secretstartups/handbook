@@ -57,7 +57,7 @@ We believe an excellent forecasting process enables us to deploy our resources e
 | [Jun'20 Deck](https://docs.google.com/presentation/d/16Wrcgbzzpz2fs3MdoYtugI2KwM93M6aZ22UUYCWklEI/edit?usp=sharing) | [Jun'21 Deck](https://docs.google.com/presentation/d/1cL-kVCj7tV1jX2wR1I4-YRaGtewcCEm8j1qu9cFfETQ/edit?usp=sharing) |
 | [Jul'20 Deck](https://docs.google.com/presentation/d/1mDXoBdj8fOHfGLezTPJOPzgsi00raDDiuVJ3NkdUe38/edit?usp=sharing) | [Jul'21 Deck](https://docs.google.com/presentation/d/1pCwoNeMoKiOz_9VhWq_0vahVdERJfOLfyTmHJD2PImU/edit?usp=sharing) |
 | [Aug'20 Deck](https://docs.google.com/presentation/d/1aFfCku5LhSgIkurWgDTauvBqMNaaGi_L9e8JkXXxMxo/edit?usp=sharing) | [Aug'21 Deck](https://docs.google.com/presentation/d/1ZQYOrzM2ZeaMAOxMIVp83U3VRHNn8PuS6ozgXZXAX54/edit?usp=sharing) |
-| [Sep'20 Deck](https://docs.google.com/presentation/d/1bevI8Qdu6bTLJ6arBUzKS8dOhK9d2SyfXAO9Z1n9fKk/edit?usp=sharing) |  |
+| [Sep'20 Deck](https://docs.google.com/presentation/d/1bevI8Qdu6bTLJ6arBUzKS8dOhK9d2SyfXAO9Z1n9fKk/edit?usp=sharing) | [Sep'21 Deck](https://docs.google.com/presentation/d/1B2D26IDEA2EIAOaCbjDMzr3qC9a8aqVK_38nLzX1Spo/edit#slide=id.gbe7b1ef5f9_0_5)  |
 | [Oct'20 Deck](https://docs.google.com/presentation/d/1mvIcU03htb4MhlvX-67UUSfAeR_gCEGJkUyqpSWcPDk/edit?usp=sharing) |  |
 | [Nov'20 Deck](https://docs.google.com/presentation/d/1BU7JLYY_8I0qE-twteHHoa0XSmDuWFFDZ-YYyPCWVI0/edit?usp=sharing) |  |
 | [Dec'20 Deck](https://docs.google.com/presentation/d/13sPhVbyDjZi67f3cTsq-1Z_YeDlkqeVBOnWPtf6vETo/edit?usp=sharing) |  |
