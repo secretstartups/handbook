@@ -228,6 +228,7 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
      <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/">GitLab Certified Trainers</a> 
      <ol>
      <li>     Each CTP organization must be able to deliver at least four (4) GitLab courses</li>
+     <li>     Each CTP organization must complete the competency requirements prior to 6 months after the last day of the quarter in which they enrolled in the certification process.</li> 
      </ol>
      </td>
   </tr>
@@ -236,10 +237,7 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
       <h3>Service Offerings</h3>
       </td>
       <td>
-      Any or all of the following services can be provided by a CTP: 
-   
-      <br>* Training Services
-      <br>* Subcontract trainers to <a href="https://about.gitlab.com/services/education/">GitLab Education Services</a>
+      CTP can provide <a href="https://about.gitlab.com/services/education/">GitLab Education Services</a>
       </td>
   </tr>
   <tr>
@@ -351,12 +349,6 @@ Each Certification track offers unique benefits that help partners better prepar
    <td colspan="2" >Badging (specific to the GitLab Certified Service Partner  track)
    </td>
   </tr>
-  <tr>
-   <td colspan="2" >
-   </td>
-   <td>LXP Class Scheduling (future): add public training events into our LXP for visibility to a broader customer base.
-   </td>
-  </tr>
 </table>
   
 
@@ -412,14 +404,14 @@ Each Certification track offers unique benefits that help partners better prepar
    <td colspan="2" >
    </td>
    <td>
-   Special CTP pricing for GitLab Content used to deliver training to end users
+   Program designed to support Partner Training Service Business Model
    </td>
   </tr>
   <tr>
    <td colspan="2" >
    </td>
    <td>
-   Eligible to provide subcontracting services to GitLab Education Services
+   Eligible to be nomiated to provide subcontracting services to GitLab Education Services
    </td>
   </tr>
 </table>
