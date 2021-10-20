@@ -43,7 +43,7 @@ The Sr. Director, Brand reports to the VP, Corporate Marketing.
 
 #### Sr. Director, Brand Job Grade
 
-The Sr. Director, Brand is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sr. Director, Brand is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Sr. Director, Brand Responsibilities
 
