@@ -421,8 +421,6 @@ To create a new template, click "+ New" to the right of "Organization-Wide Templ
 - Finally, you will type out the body of your email template, including tokens and formatting as needed.
 - Click save, and your template is ready to be used!
 
-Greenhouse has also created a [quick video to walk through email templates](https://support.greenhouse.io/hc/en-us/articles/115002226526-VIDEO-Customize-Create-E-mail-Templates) as a resource.
-
 ### Updating requisition and offer approval flows
 
 There are two separate approval flows: one for creating a **requisition** and one for creating an **Offer**. Please note that only `Site Admins` are able to update or add new approvals in Greenhouse.
