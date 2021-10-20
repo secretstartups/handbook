@@ -96,6 +96,11 @@ Please [contact the People Technology & Insights Team](https://gitlab.com/gl-tal
         1. Submit a ticket to their *Support Team* via the same **Get Help** tool.
             * Alternatively, you can email `support@greenhouse.io`.
         * You'll have the option to choose one of the two aforementioned options.
+#Creating and/or updating custom fields in Greenhouse
+    * If and when you encounter a need to create a custom field or update an existing custom field for any reason:
+        1. Submit an issue outlining the change needed and why.
+        1. Assign the issue to the System Owner of Greenhouse as outlined on the tech stack list.  
+
 
 </details>
 
