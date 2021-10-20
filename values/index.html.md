@@ -106,8 +106,8 @@ In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitL
 
 ##### Provide feedback in a timely manner
 {:.no_toc}
-If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please let your boss, or the CEO, know as soon as you realize it.
-We want to solve problems while they are **small**.
+We want to solve problems while they are **small**. 
+If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please escalate to management as soon as you realize it.
 
 ##### Say thanks
 {:.no_toc}
