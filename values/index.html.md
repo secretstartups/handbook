@@ -106,11 +106,7 @@ In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitL
 >
 > If you want to get better, you talk about what you can improve. We're allowed to publicly discuss negative things; we're not allowed to give negative feedback in a large setting if it could be feasibly administered in a smaller setting.
 
-There are times when it makes sense to provide negative feedback in a group setting to someone higher in the management chain as it encourages group psychological safety. If you're comfortable doing this, and you feel that the manager is open to receiving feedback in this way, providing this type of feedback in front of others shows that no one is above feedback and everyone is expected to embody our values. By making feedback real time, it also gives the manager the opportunity to course correct right away. If you are unsure of whether your manager would be open to this type of feedback, ask when you share your feedback in a 1:1 setting.
-
-Negative feedback is 1-1 is to make sure that feedback is not overly harsh in public. Given the dynamics of a group setting it may be appropriate to give feedback in realtime.  
-
-In this [GitLab Unfiltered interview](https://www.youtube.com/watch?v=BCpmFWL5Us8), GitLab co-founder and CEO Sid Sijbrandij and CTO Eric Johnson discuss this sub-value and give an example of a situation where giving negative feedback to your manager in front of others would be appropriate. 
+Negative feedback can be given in a group setting if it's to someone higher in the management chain. This encourages group psychological safety and shows that no one is above feedback. GitLab co-founder and CEO Sid Sijbrandij and CTO Eric Johnson discuss this in this [GitLab Unfiltered video](https://www.youtube.com/watch?v=BCpmFWL5Us8).
 
 ##### Say thanks
 {:.no_toc}
