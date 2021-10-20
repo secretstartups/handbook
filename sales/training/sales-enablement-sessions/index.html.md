@@ -23,9 +23,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Oct 14 | No topic scheduled (moved to next week) | N/A |
-| Oct 21 | FY22-Q3 Product Update | Brian Glanz |
-| Oct 28 | *No session during the last week of the quarter* | N/A |
+| Oct 21 | *No session during the last two weeks of the quarter* | N/A |
+| Oct 28 | *No session during the last two weeks of the quarter* | N/A |
                                                                                                                               
                                                                                                                                    
 ## Past Sessions
