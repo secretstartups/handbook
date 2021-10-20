@@ -3,11 +3,11 @@ layout: job_family_page
 title: "Brand Leadership"
 ---
 
+## Levels
+
 ## Director, Brand 
 
-This role is a leader on the corporate marketing team who will provide vision for a team of creatives that are inspired to take GitLab to the next level. This role will set the GitLab brand vision and work to execute the strategy across various mediums. 
-
-The Director, Brand reports to the VP, Corporate Marketing and oversees the design, brand growth and corporate events teams.
+The Director, Brand reports to the Sr. Director, Brand.
 
 #### Director, Brand Job Grade
 
@@ -27,7 +27,7 @@ The Director, Brand is a [grade 10](/handbook/total-rewards/compensation/compens
 
 #### Director, Brand Requirements
 
-* 15+ years of experience working as a brand leader in B2B technology space. 
+* Experience working as a brand leader in B2B technology space. 
 * Passion for creativity, innovation and making complex topics and systems accessible and understandable.
 * A data-driven mindset with the ability to convert quantitative & qualitative research into actionable insights.
 * Experience in coaching, developing and mentoring employees.
@@ -35,6 +35,25 @@ The Director, Brand is a [grade 10](/handbook/total-rewards/compensation/compens
 * Background in building brands inclusive of audiences that span wide functions and geographies.
 * Experience building and scaling processes, teams, budgets, tools, and programs.
 * Ability to work cross-functionally with product, creatives, product marketers, content marketers, and campaign managers of all levels.
+* Ability to use GitLab
+
+## Sr. Director, Brand 
+
+The Sr. Director, Brand reports to the VP, Corporate Marketing.
+
+#### Sr. Director, Brand Job Grade
+
+The Sr. Director, Brand is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Sr. Director, Brand Responsibilities
+
+* Extends that of the Director, Brand responsibilities
+* Provide vision for a team of creatives that are inspired to take GitLab to the next level
+* Set the GitLab brand vision and work to execute the strategy across various mediums
+
+#### Sr. Director, Brand Requirements
+
+* Extends that of the Director, Brand requirements
 
 ## Performance Indicators
 
