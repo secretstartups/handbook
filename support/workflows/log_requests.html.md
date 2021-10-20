@@ -18,7 +18,7 @@ Users often ask for access to GitLab.com logs, typically, due to [IP blocks](/ha
 
 Always include a link to the log as an internal note, with additional information if needed.
 
-If required, post in the `#support_escalations` channel for a senior engineer or manager review.
+If required, you can escalate the ticket/issue by following our [escalation process](https://about.gitlab.com/handbook/support/internal-support/support-escalations.html).
 
 A standard response is available in ZenDesk as a macro [`Support::SaaS::Audit logs access request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360018514099).
 
