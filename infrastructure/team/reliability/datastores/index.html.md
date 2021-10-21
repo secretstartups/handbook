@@ -40,7 +40,7 @@ Datastores is:
 |[Ahmad Sherif](/company/team/#ahmadsherif)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Jose Cores Finotto](/company/team/#jose-finotto)|[Staff Database Reliability Engineer](/job-families/engineering/infrastructure/database-reliability-engineer/)|
 |[Nels Nelson](/company/team/#nnelson)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|Open Position|[Database Reliability Engineer](/job-families/engineering/infrastructure/database-reliability-engineer/)|
+|[Alexander Sosna](/company/team/#alexander-sosna)|[Database Reliability Engineer](/job-families/engineering/infrastructure/database-reliability-engineer/)|
 |Open Position|[Database Reliability Engineer](/job-families/engineering/infrastructure/database-reliability-engineer/)|
 
 
