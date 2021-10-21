@@ -1,9 +1,9 @@
 ---
 layout: job_family_page
-title: Marketing & Communications Program Manager, Security
+title: Security Analyst, External Security Communications
 ---
 
-As a member of the [Security department](/handbook/engineering/security) at Gitlab, marketing & communications program managers in Security work to increase visibility, strengthen community engagement and industry recognition of GitLab Security initiatives, programs and team members’ expertise through multi-channel campaigns and initiatives that include blogs, contributed articles, social media, online events and more. 
+As a member of the [Security department](/handbook/engineering/security) at Gitlab, the External Security Communications specialty of the Security Analyst role work to increase visibility, strengthen community engagement and industry recognition of GitLab Security initiatives, programs and team members’ expertise through multi-channel campaigns and initiatives that include blogs, contributed articles, social media, online events and more. 
 
 ## Responsibilities
 * Work with security engineers, analysts and leadership to develop ideas for blog posts, assist them as needed to create and improve the content and work with the editorial team to review and publish the posts.
@@ -28,11 +28,11 @@ As a member of the [Security department](/handbook/engineering/security) at Gitl
 
 
 ## Levels
-### Marketing & Communications Program Manager, Security (Intermediate)
-The Marketing & Communications Program Manager, Security reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
+### Security Analyst, External Security Communications (Intermediate)
+The Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
 
 #### Intermediate job grade
-The Marketing & Communications Program Manager, Security is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Security Analyst, External Security Communications is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Intermediate responsibilities
 * Assist with content development and edits on blogs, handbook pages, case studies, contribute articles, social content and more
@@ -52,11 +52,11 @@ The Marketing & Communications Program Manager, Security is a [grade 6](/handboo
 * You share our [values](https://about.gitlab.com/handbook/values), and work in accordance with those values
 
 
-### Marketing & Communications Program Manager, Security (Senior)
-The Senior Marketing & Communications Program Manager, Security reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
+### Security Analyst, External Security Communications (Senior)
+The Senior Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
 
 #### Senior level job grade
-The Senior Marketing & Communications Program Manager, Security is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Security Analyst, External Security Communications is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior level responsibilities
 Senior level responsibilities are inclusive of all Intermediate level responsibilities, as well as to:
@@ -77,12 +77,12 @@ Senior level responsibilities are inclusive of all Intermediate level responsibi
 * Detail-oriented, organized
 * You share our [values](https://about.gitlab.com/handbook/values), and work in accordance with those values
 
-### Marketing & Communications Program Manager, Security (Staff)
-The Staff Marketing & Communications Program Manager, Security reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
+### Security Analyst, External Security Communications (Staff)
+The Staff Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
 
 
 #### Staff level job grade
-The Staff Marketing & Communications Program Manager, Security is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Security Analyst, External Security Communications is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff level responsibilities
 Staff level responsibilities are inclusive of all Senior level responsibilities, as well as to:
@@ -102,12 +102,12 @@ Staff level responsibilities are inclusive of all Senior level responsibilities,
 * Detail-oriented, organized
 * You share our [values](https://about.gitlab.com/handbook/values), and work in accordance with those values
 
-### Marketing & Communications Program Manager, Security (Principal)
-The Principal Marketing & Communications Program Manager, Security reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
+### Security Analyst, External Security Communications (Principal)
+The Principal Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
 
 #### Principal level job grade
  
-The Principal Marketing & Communications Program Manager, Security is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Security Analyst, External Security Communications is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal level responsibilities
 Principal level responsibilities are inclusive of all Staff level responsibilities, as well as to:
@@ -139,7 +139,7 @@ For details on the Security organization leadership roles, to include the Securi
 * Number of 'Ask a Hacker' profiles published each quarter
 
 ## Career ladder
-The next step in the Marketing & Communications Program Manager job family is not yet defined at GitLab.
+The next step in the Security Analyst, External Security Communications job family is not yet defined at GitLab.
 
 ## Hiring process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
