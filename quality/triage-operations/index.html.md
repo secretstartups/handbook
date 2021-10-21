@@ -428,7 +428,7 @@ The possible tier labels to be applied are:
 
 [Type labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) are applied to issues to increase the visibility and discoverability during team issue refinement. This policy applies to `gitlab-org` team member created issues and prompts the author to apply a type label to the issue within the first week.
 
-Type labels ensure that issues are present in the [group triage report]('handbook/engineering/quality/triage-operations/#group-level-bugs-features-and-ux-debt') and added to the correct section.
+Type labels ensure that issues are present in the [group triage report](#group-level-bugs-features-and-ux-debt) and added to the correct section.
 
 * Automation condition: Open issue with no type label applied, opened in the past 7 days, authored by `gitlab-org` member
 * Automation action:
