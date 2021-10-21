@@ -11,17 +11,18 @@ The Vice President, Product Marketing is a [grade 12](/handbook/total-rewards/co
 
 ### Responsibilities
 
-* Drive product marketing direction for GitLab, collaborating with other marketing functions such as revenue marketing, corporate marketing, and inbound marketing.
-* Understand market trends, customer requirements, usage and buying behaivor to better identify market opportunities and customer demand for GitLab's product offerings.
+* Drive product marketing direction for GitLab, collaborating with other marketing functions such as revenue marketing, corporate marketing, partner marketing and inbound marketing.
+* Understand market trends, customer requirements, usage and buying behaivor, and the partner ecosystem to better identify market opportunities and customer demand for GitLab's product offerings.
 * Lead GitLab's analyst relations strategy and interactions with key industry analyst firms.
 * Educate the market about GitLab's core technical value offerings through multiple collateral such as demos, white-papers, workshops, presentations and technical blogs, driving views of that content.
-* Educate sales, product management, and marketing team about competitive landscape and competitor offerings.
-* Develop and activate GitLab's core use case messaging and positioning
+* Educate sales, product management, marketing teams and the partner channel about competitive landscape and competitor offerings.
+* Work with the partner teams to develop solutions that support GitLab's GTM plays and deliver value to customers. 
+*  Develop and activate GitLab's core use case messaging and positioning
 * Provide input and strategy into product roadmap, strategy, and pricing based on market and customer research finding, industry analyst interactions and competitive findings.
-* Nurture and leverage relationships with key DevOps thought leaders, influencers and key strategic customers to help increase market awareness about GitLab.
+* Nurture and leverage relationships with key DevOps thought leaders, influencers and key strategic customers and partners to help increase market awareness about GitLab.
 * Define team's strategy, budget, hiring and OKR's to build and measure team results.
 * Provide input about product priorities and goals to Product Management.
-* Use customer and competitive research to influence product strategy and drive effective messaging.
+* Use customer, partner and competitive research to influence product strategy and drive effective messaging.
 * Develop and own product positioning, messaging and value propositions that differentiate GitLab solutions in the marketplace.
 * Grow a customer reference program to engage our customers and to showcase customer success and value realization achieved using GitLab.
 * Craft engaging audience-specific content, including case studies, solution briefs, web content, presentations, data sheets, whitepapers and sales playbooks that can be utilized globally.
@@ -36,6 +37,7 @@ The Vice President, Product Marketing is a [grade 12](/handbook/total-rewards/co
 * Experience building trusted relationships with executive sponsors and end users.
 * Technical background or clear understanding of developer products; familiarity with Git, Continuous Integration, Containers, Kubernetes and Project Management software a plus.
 * Experience with enterprise Software-as-a-Service offerings a plus.
+* Experience supporting an Integrated GTM motions that includes sales, channel and services partners, strategic alliances and technology eco-systems.  
 * Bachelor’s degree in computer science, marketing, business, or related area; MBA is a plus.
 * Proven track record in building, getting buy-in and executing marketing plans, and staying focused on “getting it done” in a fast-moving, technical environment.
 * Able to coordinate across many teams and perform in fast-moving startup environment.
@@ -58,10 +60,9 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
 * A 45 minute interview with our Chief Marketing Officer
-* A 45 minute interview with our VP of Revenue Marketing
 * A 45 minute interview with our VP of Demand Generation
 * A 45 minute interview with our VP of Corporate Marketing
-* A 45 minute interview with our Sr. Director of Inbound Marketing
+* A 45 minute interview with our Chief Product Officer
 * A 45 minute interview with our Chief Executive Officer or Chief Revenue Officer
 * Successful candidates will subsequently be made an offer via email.
 
