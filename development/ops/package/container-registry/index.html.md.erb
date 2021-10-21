@@ -45,7 +45,7 @@ The metadata database is not just about online garbage collection. It unblocks a
 
 By forking the project, we continued improving the application and implementing several bug fixes, performance improvements, and additional features that were not available or accepted upstream. Consequently, due to the rate of changes and how the codebases diverged, we decided to detach from upstream in [June 2020](https://gitlab.com/gitlab-org/container-registry/-/issues/139). Since then, we have been evolving the project in isolation. We continue to source changes from upstream whenever necessary (mostly security fixes), but these must be merged manually.
 
-In [February 2021](https://www.docker.com/blog/donating-docker-distribution-to-the-cncf/), Docker decided to donate Docker Distribution to the Cloud Native Computing Foundation (CNCF) to revive the project. The project was then renamed to [Distribution](github.com/distribution/distribution). Some of the GitLab Container Registry maintainers are now maintainers of the CNCF project as well.
+In [February 2021](https://www.docker.com/blog/donating-docker-distribution-to-the-cncf/), Docker decided to donate Docker Distribution to the Cloud Native Computing Foundation (CNCF) to revive the project. The project was then renamed to [Distribution](https://github.com/distribution/distribution). Some of the GitLab Container Registry maintainers are now maintainers of the CNCF project as well.
 
 Although some of our engineers contribute to the upstream Distribution project, the codebases diverged beyond reconciliation. Therefore, there is no intention to reunite with upstream at any point in time. Some of the features we have been working on, such as the metadata database and online garbage collection (more on that later), required a significant platform re-architecture. Additionally, we will continue to tailor the GitLab Container Registry to suit the needs of GitLab the product.
 
@@ -79,6 +79,7 @@ The following documentation is especially relevant for engineers working with th
 - [Notifications](https://docs.docker.com/registry/notifications/) - Documentation about the asynchronous webhook notifications feature.
 - [Authentication](https://docs.docker.com/registry/spec/auth/) - All about the authentication specification implemented by the Container Registry and supported by GitLab Rails (the authentication provider).
 - [HTTP API Specification](https://gitlab.com/gitlab-org/container-registry/-/blob/master/docs/spec/api.md) - This is based on the OCI Distribution Specification (see [Standards](#standards) for more details) but we have extended it with additional functionality. A log of changes is kept in the [project documentation](https://gitlab.com/gitlab-org/container-registry/-/blob/master/docs-gitlab/README.md#api).
+- [Online Garbage Collection](https://gitlab.com/gitlab-org/container-registry/-/blob/master/docs-gitlab/db/online-garbage-collection.md) - Documentation about the implementation of online garbage collection.
 
 ### Administration
 
