@@ -591,9 +591,6 @@ This section provides links to relevant reports that may live outside of the Fie
     * Volume 1. New First Order = New/Volume
     * Volume 2. New - Connected = New/Volume
     * Volume 3. Growth = Growth
-- [FY22 Field Marketing led channel campaign tracking](https://gitlab.my.salesforce.com/00O4M000004ap4S) 
-- [Field Marketing Impact to channel opportunities](https://gitlab.my.salesforce.com/00O4M000004apjz) - Includes ALL touchpoints from FMM lead campaigns regardless or not if the campaign was specifically run with a partner. 
-   - To understand where the FMM team measures up to the the Channel SAOs targets that are outlined in the FY22 RevMkt goal doc, you will need to filter the FMM impact to channel opps report to only leave in the `Opportunity: DR - Partner Engagement = Partner Sourced`  download the data, and then use the unique count formula (=countA(unique(B:B)),where counta = the bizible touchpoint ID & unique B = the name of the opportunity. We have to do this because we can have multiple touchpoints on an opportunity, but should only count the actual opp itsself NOT all the touchpoints. 
 - [Sales Funnel Target vs. Actuals](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual)
 - [Linear Attribution Dashboard](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution)
 - [FMM Weighted ARR Contribution](https://gitlab.my.salesforce.com/01Z4M000000oYas) - which will be deprecated once ARR has been updated to both the Linear Attribution & the FMM Dashbord. 
@@ -616,6 +613,20 @@ This section provides links to relevant reports that may live outside of the Fie
        * [MM](https://gitlab.my.salesforce.com/01Z4M000000oXcu) - Filter by SDR generated for data that most aligns with FMM goals
     - SFDC folder: Sales Ops Reports (Verified)
 - [Definitions of the 37,000 😉 fields we have in SFDC that are impactful for reporting](/handbook/sales/sales-term-glossary/)
+
+### Field Marketing ROI to GitLab channel 
+GitLab Field Marketing receives `credit`for the Partner Sourced Opportunity if the opportunity has a Bizible touchpoint from the FMM campaign.
+
+We have 3 reports we use that shows different types of contribution to the GitLab channel program. 
+
+* [FMM_DP_Channel_AllCampaigns](https://gitlab.my.salesforce.com/00O4M000004opQ0) - Field Marketing Deal Path = Channel. Field Marketing impact on all deal path = Channel. Includes MORE than just channel generated opps & regardless if a specific channel partner was directly involved with campaign.
+* [FMM_SQS_Channel_Generated](https://gitlab.my.salesforce.com/00O4M000004opqh) - Field Marketing Sales Qualified Source = Channel. FMM impact on Deal path = channel AND channel generated opps and regardless if a specific channel partner was directly involved with campaign.
+* [FMM CAMPAIGNS specific impact DP channel](https://gitlab.my.salesforce.com/00O4M000004opqr) - Field Marketing Campaigns impact to Deal Path = Channel.  Opp Deal path = Channel - Impact from FMM campaigns runs specifically with channel. 
+
+#### FY22 Field Marketing Channel goals 
+While we can see our ROI in 3 different reports, our charge for FY22, is to help our channel team create channel generated opps. In order to see your progress towards your Channel generated opps, you will use the FMM SQS Channel Generated report and add your name as the `Campaign Owner`. Because you are looking at a Bizible attribution report, you will need to understand how many unique opportunies are in your report. In order to do this, you will download the report from SFDC, and then upload into google sheets, then use the unique count formula (=countA(unique(B:B)),where counta = the bizible touchpoint ID & unique B = the name of the opportunity. 
+
+[Example SFDC report](https://gitlab.my.salesforce.com/00O4M000004opfA) and an [example google sheet](https://docs.google.com/spreadsheets/d/12vKuafod5__ORqv0bCGiasMr1ANPlzPUY_95RN6Pwr0/edit#gid=48544605&range=P1) with the forumla.  
 
 ### Contribution to sales pipeline
 
@@ -1056,7 +1067,7 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 
 ## Field Marketing initiated and funded campaigns 
 
-Jointly with their regionally algined CAM, Field Marketers have a specific budget amount (about 10% of their budget) set aside for joint GitLab/channel partner camapigns. The primary goal of this activity is to convert MQLs to SAOs. 
+Jointly with their regionally algined CAM, Field Marketers have a specific budget amount (for FY22 10% of their budget) set aside for joint GitLab/channel partner camapigns. The primary goal of this activity is to convert MQLs to SAOs. 
 
 In order for FMM to engage in lead generation activity, the CAM needs to fill out the [Channel Lead Gen request issue template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Channel_LeadGen_Req).
 
@@ -1097,10 +1108,8 @@ FMMs may work with “Open” partners outside of P0 and P1 regions depending up
 - Please remember that from a sales perspective, channel deals (MQLs, SAOs, PSOs and won deals) are considered comp neutral so both the partner and the GitLab sales field team gets compensated. So for every deal/lead/PIO/Closed partner deal we ALL get 'credit'.
 
 ### Tracking success of FMM campaigns with Channel
-GitLab Field Marketing receives `credit`for the Partner Sourced Opportunity if the opportunity has a Bizible touchpoint from the FMM campaign.
  
-* [This report](https://gitlab.my.salesforce.com/00O4M000004ap4S) shows all SAOs from Field Marketing campaigns run with channel partners - this report is useful for CAMs to review to see if they have partner attribution missing from an opportunity in addition to the FMM having the ability to review the ROI of the campaign.
-* [This report](https://gitlab.my.salesforce.com/00O4M000004apjz) shows all partner influenced opportunities from all field marketing campaigns regardless or not if a channel partner was explicitly involved or not.
+Please refer to the ROI section here. 
 
 ### Here’s a quick rundown (not exhaustive) of what the Channel Program team handles
 
