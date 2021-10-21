@@ -11,85 +11,79 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/mentorship-program
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Women at GitLab Mentorship Program 
+## Women at GitLab [Mentorship](https://about.gitlab.com/handbook/people-group/learning-and-development/mentor/) Program 
 
 The Women at GitLab Mentorship program is a career development opportunity for participants to build trust across the organization, enable pathways for internal growth and development, and increase collaboration across teams. The program is hosted in collaboration with the Women's TMRG, GitLab Learning and Development team, and the GitLab DIB team.
 
-The Women at GitLab Mentorship Program was kicked off on 2021-07-08. In the program, we have 32 mentor/mentee pairs. Participants represent 16+ departments across GitLab. The program will run for 3 months, from 2021-07 to 2021-09. Please see the [Timeline](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#timeline) and [Metrics and Outcomes](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#metrics-and-outcomes) sections on this page for further details and program results.
-
-### History
+## History
 
 In 2020, the Women's TMRG partnered with the Sales Organization at GitLab to offer the [Women in Sales Mentorship Program pilot](https://about.gitlab.com/handbook/people-group/women-in-sales-mentorship-pilot-program/#women-in-sales-mentorship-program-pilot). This initial iteration was a huge success and inspired the scale of this iteration to include a wider audeince. 
 
-Some of the program structure for this iteration has been adapted to enable greater participation and fit the capacity of the L&D team. The mission, benefits, and goals of the program will stay the same.
+The [second iteration of this program](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/122) ran during July, August, and September 2021 including 32 mentor/mentee pairs with participation from 16+ departments.
 
-### Structure
+## Testimonials
+
+Here what mentors and mentees at GitLab have to say about the program:
+
+**From the Mentees**
+
+`This was my first mentorship experience and I'm so glad I participated. I found my self confidence in my mentor session. I lacked that for so many years and to be reminded of my self value and worth was so enriching. I would highly recommend participating!`
+
+`I really enjoyed having a mentor-mentee relationship with a Director level team member who was not in my division/department. It made it easier for me to feel safe on discussing pain points and see a different perspective on the business as a whole. I really felt supported and s thought the relationship was important to us both, which was empowering.`
+
+`The openness and vulnerability delivered from my mentor made me feel supported and empowered.`
+
+`This mentorship program has been one of the highlights from my time at GitLab so far. My mentor is a great example of an empathetic leader who is great at strategic planning and communicating effectively. I was able to learn things during the program that I immediately applied to my work, and she inspired and motivated me in a way will persist much longer. My mentor has become one of my new role models, and I plan on keeping in touch with her far beyond this program's end.`
+
+**From the Mentors**
+
+`I really enjoyed being a mentor. It was helpful to establish a relationship with someone outside of my department, because it gave me an opportunity to see how other teams are working. It also encouraged me to reflect on my own career progression.`
+
+`I am really proud of the supportive culture the women of GitLab have created. And this was a valuable opportunity for me to get to take part and contribute. I learned a lot from my mentee that I was able to apply back to management.`
+
+`Determining your objectives out of the program is key to getting value from it. If you don't invest time in preparing you won't have any rewards to reap as a result.`
+
+`One of the elements I really enjoyed about this program was the opportunity to meaningfully connect with someone outside of my team - we both learned from each other!`
+
+
+## Program Structure
 
 **Initial program kickoff**
 
-All mentors and mentees will gather for a live program kickoff. This will be a panle format with a short discussion about panelists past experience with mentorship and provide an opportunity for team members to ask program questions. We'll host 3 sessions of this kickoff to accommodate workings hours of all participants. The session will run for 25 minutes.
-
-Watch the replay of our 3 kick-off sessions below:
-
-**Session 1:**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cuRT7nUU10Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Session 2:**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sY57W3xbLJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Session 3:**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pR-WPq4uH5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+A 25-minute discussion pannel with mentors, mentees, and company leadership. Attendance is **required**.
 
 **1:1 Mentor Sessions**
 
-The program proposes a mentor/mentee relationship between selected mentee applicants and mentors across the company. Sessions will take place every other week for 30-minutes and will last for up to 3 months (with the possibility of an extension), as long as both mentors and mentees remain engaged. The mentor/mentee relationship will be cross-divisional, meaning that both parties will have the opportunity to work with and learn from team members outside of their respective divisions.
+Mentors and mentees should meet every other week for 30-minutes for a total of 3 months (with the option to extend). Sessions are led by the mentee and should be focused on specific goals. Attendance is **required**.
 
 **Mentor/Mentee Workbook**
 
-[Async resources](/handbook/people-group/learning-and-development/mentor/#mentoring-resources) have been created to serve as a training guide for all mentor/mentee pairs. These resources include suggested articles to read and discuss, strategies for goal setting, sample meeting agendas, and additional training material. While it's not required that these resources guide the relationship, they are useful if mentors or mentees feel stuck or need a starting place for discussion.
+[Async resources](/handbook/people-group/learning-and-development/mentor/#mentoring-resources) are available as a training guide for all mentor/mentee pairs. These resources include suggested articles to read and discuss, strategies for goal setting, sample meeting agendas, and additional training material. Use of resources is encouraged but not required.
 
 **Mentor/Mentee Training**
 
-Completion of the self-paced [How to be a Good Mentor or Mentee](https://www.linkedin.com/learning/how-to-be-a-good-mentee-and-mentor/the-power-of-mentoring?u=2255073) course on LinkedIn Learning is expected of all mentors and mentees. Depending on need and interest, we will host optional discussion sessions for mentors and mentees to discuss topics learned in the course. If you prefer to review text-based information, you can instead review [this slides](/handbook/people-group/learning-and-development/mentor/#mentor-and-mentee-training) which were created using the content from the LinkedIn course. It's important that participants make every effort to complete the course and/or review the presentation slides to ensure the greatest results from the program and relationship.
-
-_This requirement was updated on 2021-06-28 with the following goals in mind: increase async participation, enable different learning styles, leverage high-quality content in LinkedIn Learning_
-
-**Mid-Program Individual Growth Plan Work**
-
-At the program half-way point, program participants will be encouraged to attend live/watch the recording of the Skill of the Month Individual Growth Plan Trainings hosted by the L&D team. The week after the training, participants will be invited to attend one of three office hour sessions to share examples, ask questions about, and discuss the IGP.
+Completion of the self-paced [How to be a Good Mentor or Mentee](https://www.linkedin.com/learning/how-to-be-a-good-mentee-and-mentor/the-power-of-mentoring?u=2255073) course on LinkedIn Learning is **required** of all mentors and mentees. If you prefer to review text-based information, you can instead review [this slides](/handbook/people-group/learning-and-development/mentor/#mentor-and-mentee-training), created using content from the LinkedIn course.
 
 **End of Program Celebration**
 
-To conclude the program, mentors and mentees will gather for small and full group discussions to share biggest takeaways from the program. We'll host multiple sessions of this celebration to accommodate workings hours of all participants. The celebration call will be 50 minutes long.
+A 25-minute discussion to reflect on the experience. Attendance is **optional**.
 
 
-### Timeline
+## Current Program Timeline
 
 | Date | Description | Related Resources |
 | ----- | ----- | ----- |
-| 2021-05-05 | Discuss program details with Women's TMRG group meeting | [Planning Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/122) |
-| 2021-05-20 - 2021-06-07 | Call for Mentors | Application below |
-| 2021-06-07 - 2021-06-23 | Call for Mentees | Application below |
-| 2021-06-29 | Pairing of mentor relationships complete and communicated to applicants | |
-| Between 2021-06-29 and 2021-07-07 | Optional: Mentor/Mentee pre-program coffee chats | |
-| 2021-07-07 and 2021-07-08 | [Initial program Kickoff meeting](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#structure) | |
-| Week of 2021-07-12 | Self-Paced Training for Mentors and Mentees | See section on [Mentor/Mentee Training](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#structure) |
-| 2021-08-11 | IGP Sessions | Training during Career Development Skill of the Month |
-| 2021-08-25 | IGP Office Hours | Async + Sync participation options |
-| Week of 2021-09-20 | End of program celebration | Date TBD |
+| TBD | Discuss program details with Women's TMRG group meeting |  |
+| TBD | Call for Mentors | Application forthcoming |
+| TBD| Call for Mentees | Application forthcoming |
+| TBD | Pairing of mentor relationships complete and communicated to applicants | |
+| TBD | Optional: Mentor/Mentee pre-program coffee chats | |
+| TBD | [Initial program Kickoff meeting](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#program-structure) | |
+| TBD | Self-Paced Training for Mentors and Mentees | See section on [Mentor/Mentee Training](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#program-structure) |
+| TBD | End of program celebration |  |
 
 
-### Mentoring resources
-
-Existing [resources for mentors](https://about.gitlab.com/handbook/people-group/learning-and-development/mentor/) are available in the L&D handbook. As part of this program, a detailed mentor/mentee relationship workbook will be created in the handbook and used to guide mentoship sessions and communications. Please stay tuned for these resources as the program kick off gets closer.
-
-### Being a Mentor
-
-#### Benefits of being a mentor
+## Being a Mentor
 
 As a mentor, you benefit from:
 
@@ -97,7 +91,7 @@ As a mentor, you benefit from:
 - Opportunity to form relationships with team members in other departments
 - Opportunity to support Women at GitLab and live our values
 
-#### Mentor requirements
+### Mentor requirements
 
 - You have been with GitLab for at least 3 months at the time of application 
 - You have availability in your schedule to meet with your mentee on a bi-weekly basis for at least 30 minute meetings for the entire length of the program
@@ -105,25 +99,21 @@ As a mentor, you benefit from:
 - You are not on a [Formal Coaching plan](/handbook/leadership/underperformance/#options-for-remediation) or PIP (Performance Improvement Plan)
 - You can complete the [DIB training certification](https://gitlab.edcast.com/journey/ECL-5c978980-c9f0-4479-bf44-45d44fc56d05) before the program begins
 
-#### Considerations
-
-Applications will be prioritized on many points including:
+**Applications will be prioritized based on:**
 
 - Skill and prior experience as a mentor
 - Performance in current role
 - Available and appropriate mentee match in the current session
 
-#### Apply to be a Mentor
+### Apply
 
-Please complete [this Mentor Application Google form](https://docs.google.com/forms/d/e/1FAIpQLSfkoP5XXB4Zz_wVqbEvrMlATmp710A9CDRM6GegXRIxSX4KqQ/viewform) to apply to be a mentor.
+Mentorship application for next iteration is forthcoming.
 
-Please note that applying for a mentor does not guarantee you a spot in the program, and eligibility will be evaluated based on criteria above.
+_Applying for a mentor does not guarantee you a spot in the program and eligibility will be evaluated based on criteria above._
 
 If you've participated in a previous GitLab mentor program, you are welcome to apply again!
 
-### Being a Mentee
-
-#### Benefits of being a mentee
+## Being a Mentee
 
 As a mentee, you benefit from:
 
@@ -132,7 +122,7 @@ As a mentee, you benefit from:
 - Career coaching and guidance
 - Opportunity to form relationships with leaders on other teams
 
-#### Mentee requirements
+### Mentee requirements
 
 - You're a woman-identifying team member at GitLab. Gender non-conforming folks who face workplace challenges similar to those of women-identifying team members are also welcome to apply.
 - You have been with GitLab for at least 3 months at the time of application 
@@ -140,22 +130,19 @@ As a mentee, you benefit from:
 - You plan to make every effort to attend all live trainings included in the program structure
 - You are not on a [Formal Coaching plan](/handbook/leadership/underperformance/#options-for-remediation) or PIP (Performance Improvement Plan)
 
-#### Considerations
-
 Applications will be prioritized on many points including:
 
 - Team members on a management career track
 - Performance in current role
 
-#### Apply to be a Mentee
+### Apply
 
-Application for mentees will open on 2021-06-07.
-Please complete [this Mentee Application Google form](https://docs.google.com/forms/d/e/1FAIpQLSfzKUipyNHZKC90ZHcAbOkhAi4a_pqMhmCOkAodLeDBgxII_w/viewform) to apply to be a mentee.
+Mentorship application for next iteration is forthcoming.
 
-Please note that applying for a mentee does not guarentee you a spot in the program, and eligibility will be evaluated based on criteria above.
+_Applying for a mentee does not guarentee you a spot in the program, and eligibility will be evaluated based on criteria above._
 
 
-### Metrics and Outcomes
+## Metrics and Outcomes
 
 Mentors and mentees will complete a pre-program and end of program survey to collect feedback, assess skills, and determine if goals set during mentor/mentee relationships have been set.
 
@@ -165,116 +152,10 @@ Success of this program will be measured by:
 1. attendance to live training sessions, with a goal of 95% attendance
 1. engagement during live training sessions
 1. overall feedback of the program from both the mentor and mentee perspective
-
-### Results
-
-The following section will be updated throughout the program to reflect participations and metrics outlined above.
-
-#### Program Participation
-
-##### Participant Data
-
-1. Total Participants: 66 team members / 33 mentor/mentee pairs
-1. Unique Departments Represented by Mentees: 19
-1. Unique Departments Represented by Mentors: 18
-
-##### Event Attendance
-
-| Event Name | Total Attendance Percentage | Attendance Session 1/Session 2/Session 3 |
-| ----- | ----- | ----- |
-| Program Kickoff | 95.31% | 7/12/42 |
-| Mid-Program Event | 4.5% | 0 / 0 / 3 |
-| End of Program Event | TBD | TBD |
-
-##### 1:1 Mentorship Meeting Data
-
-Based on a survey sent via the Polly Slack app on 2021-07-23:
-
-1. 20/33 mentees responded to the survey
-1. 4 have met and/or scheduled their coffee chat with their mentor
-1. 13 have met for their first mentorship session and set a cadence for future meetings
-1. 4 have their first mentorship session scheduled for next week (week of 2021-07-26)
-1. 1 falls in an `other` category
-
-##### Pre-Program Survey
-
-| Participant | Completions |
-| ----- | ----- |
-| Mentor | 20/33 |
-| Mentee | 16/33 |
-
-###### Mentor Results
-
-![mentor-data](/sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentor-data.jpg)
-
-*What is something you hope to learn from your mentee during this program?*
-
-1. Be an ally - understand and support challenges for women at GitLab and team members in different departments
-1. New leadership perspectives
-1. What kind of support will provide the most help
-1. How well GitLab is supporting professional development of the team
-1. Communication skills
-1. Self-Reflection skills
-
-*What skills do you hope this program will help you develop and/or strengthen?*
-
-1. Situational coaching
-1. Mentorship
-1. Listening
-1. Recieving Feedback
-1. Leadership
-1. Awareness
-1. Coaching
-1. Professional Development
-1. Empathy
-1. Cultural awareness
-1. Motivation/Empowerment
-1. Work/Life Balance
-1. Cross-Functional Collaboration
-1. Communication
-1. Self-Reflection
-1. Confidence
-1. Planning
-
-##### Mentee Results
-
-![mentee-data](/sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentee-data.jpg)
-
-**What is one goal you hope to accomplish by participating in this Women at GitLab mentorship program?**
-
-1. Leadership growth, executive leadership skills, and confidence in working with leadership
-1. Develop career path
-1. Improve cross-functional relationships
-1. Negotiation skills
-1. Build confidence in career path and goals
-1. New inspiration
-
-**What skills do you hope this program will help you develop and/or strengthen?**
-
-1. Leadership
-1. Communication
-1. Introspection
-1. Confidence
-1. Self-promotion
-1. Self-value
-1. Negotiation
-1. Strategy and idea pitching
-1. People Management
-1. Public speaking
-1. Collaborative working style
-1. Building team morale
-1. Empowerment
-1. Effective written and verbal communication
-1. Goal Setting
-1. Strategic thinking
+1. mentor and mentee career development at GitLab after program conclusion
 
 
-##### Post-Program Survey:
-
-TBD, Shared during the week of 2021-09-20
-
-
-### Common Questions
+## FAQ
 
 **Can I participate as both a mentor and a mentee?**
 
@@ -293,6 +174,79 @@ The L&D team is working with the DIB team to create a mentor program framework t
 In addition, team members are always encouraged to build mentor/mentee relationships independently. You can find resources and a list of available mentors in the [Learning and Development handbook](/handbook/people-group/learning-and-development/mentor/)
 
 
-### Additional questions?
+## Additional questions?
 
-Questions, comments, and feedback can be shared in this [issue](https://gitlab.com/gitlab-com/women-tmrg/-/issues/31). For additional questions, please reach out to `@slee24` in the [#women](https://app.slack.com/client/T02592416/C7V402V8X) or [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack channels with questions or concerns.
+Questions, comments, and feedback can be posted in the [#women](https://app.slack.com/client/T02592416/C7V402V8X) slack channel. 
+
+
+## 2021 Program Results
+
+### Participation 
+
+1. Total Participants: 66 team members / 33 mentor/mentee pairs
+1. Unique Departments Represented by Mentees: 19
+1. Unique Departments Represented by Mentors: 18
+
+### Event Attendance
+
+| Event Name | Total Attendance Percentage | Attendance Session 1/Session 2/Session 3 |
+| ----- | ----- | ----- |
+| Program Kickoff | 95.31% | 7 / 12 / 42 |
+| Mid-Program Event | 4.5% | 0 / 0 / 3 |
+| End of Program Event | 27% | 4 / 6 / 8 |
+
+**Kick-off session recordings:**
+
+Session 3: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pR-WPq4uH5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Watch [session 1](https://www.youtube.com/embed/cuRT7nUU10Q)and [session 2](https://www.youtube.com/embed/sY57W3xbLJU) on the GitLab Unfiltered YouTube channel.
+
+
+### Post-Program Survey
+
+Skill development was a key variable used to measure success of this program. 
+
+**Top 5 skills developed by Mentors**
+
+- Situational coaching (73.9%)
+- Mentorship (52.2%)
+- Listening (47.8%)
+- Coaching (43.5%)
+- Communication (34.8%)
+
+**Top 5 skills developed by Mentees**
+
+- Communication (78.9%)
+- Confidence (63.2%)
+- Strategy and idea pitching (36.8%)
+- Self-promotion (36.8%)
+- Self-value (31.6%)
+
+### Other metrics
+
+- 84.3% of mentees plan to continute meeting with their mentor
+- 55% of mentees want to participate as mentors in future iterations of this program
+- 91.3% of mentors had the time, resources, and support to be a great mentor
+- 86.9% thought their mentee was a good fit based on their career history and expertise
+
+### Pre-Program Survey
+
+#### Mentors
+
+*What skills do you hope this program will help you develop and/or strengthen?*
+
+<div style="text-align: center;display: block;">
+<img class="benImg" src="mentor-pre-data-skills.png" alt="mentor skill data from pre survey"/>
+</div>
+
+#### Mentees
+
+**What skills do you hope this program will help you develop and/or strengthen?**
+
+<div style="text-align: center;display: block;">
+<img class="benImg" src="mentee-pre-data-skills.png" alt="mentee skill data from pre survey"/>
+</div>
+
+
