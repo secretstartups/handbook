@@ -101,13 +101,13 @@ Below are the activities that Field Enablement Managers and Sales Kickoff (SKO) 
 
 1. Field Enablement Program Managers to meet with segment VPs and determine on what types of content (topic, format, etc.) to solicit in their Call for Content.
 1. Field Enablement Program Managers open their segment's "Call for Content" and socialize it in relevant meetings/Slack channels.
-1. Call for Content stays open for 2 weeks. 
+1. Call for Content stays open for 3 weeks. 
 1. Call for Content submissions are made via the [SKO Call for Content Submission issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=SKO-call-for-content-submission)
 1. Submissions are managed on an issue board with the following labels for organization: 
    1. Static labels: ~field enablement ~field events ~FE priority::1 ~sko ~sko content submission
    1. Scoped labels: ~sko content::triage, ~sko content::accepted, ~sko content::deferred, ~FE status::triage
-1. Once Call for Content closes, Field Enablement Program Managers review the submissions and choose winning submissions based on the selection process outlined below. 
-1.  Field Enablement Managers notify DRIs of chosen submissions and begin working with them on next steps to build out session content. 
+1. Once Call for Content closes, Field Enablement Program Managers review the submissions and choose top submissions based on the selection process outlined below. 
+1.  Field Enablement Managers notify DRIs of chosen submissions and begin working with them on next steps to further build out session content. 
    1. Label for these accepted issues changes to ~sko content::accepted and ~FE status::wip 
 1. Field Enablement Managers notify DRIs for submissions not chosen. Issues for all submissions that are not chosen (and are viable, i.e. not a partial/irrelevant submission) are moved into the Field Enablement Backlog where they can be considered for upcoming enablement initiatives. 
    1. ~sko content::deferred and ~FE status::backlog
