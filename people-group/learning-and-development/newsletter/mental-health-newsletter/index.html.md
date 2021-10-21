@@ -49,6 +49,7 @@ The newsletter is planned using both issues in the [Mental Health project](https
 1. [FY21-Q4 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY21-Q4/)
 1. [FY22-Q1 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q1/)
 1. [FY22-Q2 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q2/)
+1. [FY22-Q3 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/)
 
 ## Merge request template
 
