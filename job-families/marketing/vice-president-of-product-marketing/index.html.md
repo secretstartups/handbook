@@ -37,7 +37,7 @@ The Vice President, Product Marketing is a [grade 12](/handbook/total-rewards/co
 * Experience building trusted relationships with executive sponsors and end users.
 * Technical background or clear understanding of developer products; familiarity with Git, Continuous Integration, Containers, Kubernetes and Project Management software a plus.
 * Experience with enterprise Software-as-a-Service offerings a plus.
-Expereince supporting an Integrated GTM motions that includes sales, channel and services partners, stratgic alliances and technology eco-systems.  
+* Experience supporting an Integrated GTM motions that includes sales, channel and services partners, strategic alliances and technology eco-systems.  
 * Bachelor’s degree in computer science, marketing, business, or related area; MBA is a plus.
 * Proven track record in building, getting buy-in and executing marketing plans, and staying focused on “getting it done” in a fast-moving, technical environment.
 * Able to coordinate across many teams and perform in fast-moving startup environment.
@@ -60,10 +60,9 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
 * A 45 minute interview with our Chief Marketing Officer
-* A 45 minute interview with our VP of Revenue Marketing
 * A 45 minute interview with our VP of Demand Generation
 * A 45 minute interview with our VP of Corporate Marketing
-* A 45 minute interview with our Sr. Director of Inbound Marketing
+* A 45 minute interview with our Chief Product Officer
 * A 45 minute interview with our Chief Executive Officer or Chief Revenue Officer
 * Successful candidates will subsequently be made an offer via email.
 
