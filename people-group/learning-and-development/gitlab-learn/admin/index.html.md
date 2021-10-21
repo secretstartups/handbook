@@ -705,14 +705,21 @@ GitLab team members can complete the [Learning Evangelist or Learning Curator pa
 
 Team members can also request access to view EdGraph reports.
 
-After a team member has completed the Access Request process for any elevated permissions beyond the basic `member` role:
+After a team member has completed the Access Request process for any elevated permissions beyond the basic `member` role (except EdGraph):
 
 1. Confirm the user has earned the Learning Evangelist badge by navigating to their profile. The easier way to do this is from the admin panel. Go to `Accounts` -> `Users` then search for the user using their email. From here, click on the user's name, which will redirect you to their account in GitLab Learn.
 1. Review the `Badges` section for the Learning Evangelist or Learning Curator badge. If the badge appears here, then the user has completed the learning path. This step does not apply for the EdGraph access.
 1. Return to the admin panel. Still in the `Users` section, relocate the user. Click on `Role`. This should show the current roles this user has.
-1. Under their current roles, there is the option to `Add New Role`. In the drop down menu, select `Learning Evangelist`, `Learning Curator` or `Edgraph` then hit `Save`.
+1. Under their current roles, there is the option to `Add New Role`. In the drop down menu, select `Learning Evangelist` or `Learning Curator`  then hit `Save`.
 1. Alert the user they now have Learning Evangelist permissions in GitLab Learn and can begin contributing content. If they need support, remind them to reach out in the #learninganddevelopment Slack channel.
 
+After a team memebr has completd the Access Request process for `EdGraph` permissions:
+
+1. Navigate to the admin panel. In the `Users` section, locate the user. Click on `Role`. This should show the current roles this user has.
+1. Under their current roles, there is the option to `Add New Role`. In the drop down menu, select  `EdGraph: Reporting Access` then hit `Save`.
+1. Ask the user to log into GitLab Learn and launch `EdGraph` from the waffle navigation. Alert the user that they won't see anything once they launch the app. This only triggers the new user in EdGraph. Ask the user to notify you once they've launched the app
+1. After they've launched EdGraph, coordinate with the EdCast team via email to add each user as a viewer of relevant GitLab data in EdGraph. This is not a permission that our admin have and must be done via the EdCast team.
+1. Once the user permissions are added, share relevant dashbaords with each new users. It's best practice to share a direct link to the user via an issue or Slack.
 
 ## Reporting
 
