@@ -16,7 +16,8 @@ The Vice President, Product Marketing is a [grade 12](/handbook/total-rewards/co
 * Lead GitLab's analyst relations strategy and interactions with key industry analyst firms.
 * Educate the market about GitLab's core technical value offerings through multiple collateral such as demos, white-papers, workshops, presentations and technical blogs, driving views of that content.
 * Educate sales, product management, marketing teams and the partner channel about competitive landscape and competitor offerings.
-* Develop and activate GitLab's core use case messaging and positioning
+* Work with the partner teams to develop solutions that support GitLab's GTM plays and deliver value to customers. 
+*  Develop and activate GitLab's core use case messaging and positioning
 * Provide input and strategy into product roadmap, strategy, and pricing based on market and customer research finding, industry analyst interactions and competitive findings.
 * Nurture and leverage relationships with key DevOps thought leaders, influencers and key strategic customers and partners to help increase market awareness about GitLab.
 * Define team's strategy, budget, hiring and OKR's to build and measure team results.
