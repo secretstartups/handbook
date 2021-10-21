@@ -13,9 +13,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ---
 
-## Taking PTO
-
-As part of GitLab's [paid time off policy](/handbook/paid-time-off/), team members are encouraged to take time off. However, as customer-facing team members, this can feel difficult, so this page is intended to help guide TAMs to ensure they can regularly take time off, avoid burnout, and keep their customers successful.
+As part of GitLab's [paid time off policy](/handbook/paid-time-off/), team members are encouraged to take time off. However, as customer-facing team members this can feel difficult, so this page is intended to help guide TAMs to ensure they can regularly take time off, avoid burnout, and keep their customers successful.
 
 ## Before you go
 
@@ -24,22 +22,22 @@ To take PTO, please follow the guidelines in the [PTO policy](/handbook/paid-tim
 Before your PTO begins, please follow these additional guidelines:
 
 1. [Establish coverage](#establish-coverage) for when you'll be out.
-1. Set up your email auto-responder and include the contact information of who will be [covering](#establish-coverage) for you while you're out.
-1. At least 1 cadence call prior to your PTO, let your customers know you'll be out and who will be covering for them.
-1. If a cadence call falls during your PTO, you can decide to either cancel or reschedule. If there is an emergency or the call cannot be moved, the people covering for you should lead the call. It is the TAM's responsibility to prep in advance whomever will lead the call.
+1. [Communicate](#communicate-your-time-off-plan-to-colleagues) your time off to colleagues.
+1. [Notify customers](#notify-customers-and-make-necessary-changes) and adjust plans as necessary.
+1. [Set up your email autoresponder](#email-autoresponder-template).
 1. Review our [PTO communication guidelines](/handbook/paid-time-off/#communicating-your-time-off).
 
-### Establish Coverage
+## Establish Coverage
 
 When a TAM is out of office, they can rely on their SALs/AEs and/or SAs to lead customer meetings or respond to requests. Make sure your account teams know in advance that you'll be out and for how long so they can be prepared.
 
-You can also ask [another TAM](#backup-tams) to cover for you as well, but they likely don't have the same context as the account team, so you'll need to brief them on any important initiatives.
+You can ask [another TAM](#backup-tams) to cover for you as well, but they likely don't have the same context as the account team, so you'll need to brief them on any important initiatives.
 
 For any specific customer needs (escalating tickets, logging issues, etc.), the TAM should rely on either the SA or backup TAM, and higher-level or sales-related items should be handled by the SAL/AE.
 
 Be sure to confirm with whoever will be covering for you the dates you'll be out to ensure they don't also have PTO scheduled or other conflicts. Then, add them and their coverage responsibilities into PTO Roots.
 
-#### Backup TAMs
+### Backup TAMs
 
 Backup TAMs should not be expected to support the entire book of business of the vacationing TAM; however, they should stay abreast of what is going on with those accounts during the coverage period. For example, you should respond to any customers that reach out to you, but it's also recommended to spend 5 minutes each day of coverage checking if the TAM has been pinged in either Slack or in GitLab.com [collaboration projects](/handbook/customer-success/tam/engagement/). Here are some tips on how to do this quickly and easily:
 
@@ -65,3 +63,33 @@ Additionally, it removes the uncertainty of having to ask the wider team if anyo
 Hopefully as an additional benefit, TAMs will have more exposure to how other team members work and what challenges and initiatives customers have, which will improve our team's efficiency and diversity of thought.
 
 As the East team continues to trial this program, they will share feedback and insights to the wider TAM organization.
+
+## Communicate your time off plan to colleagues
+
+In accordance with our ["no ask, must tell"](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) policy, ensure that you are informing the relevant team members of your out-of-office plan. This includes:
+
+- SAL/AE and SA for the accounts you cover
+- [Backup TAM](#backup-tams)
+- Your manager (via PTO Roots)
+
+Please ensure that everyone knows about the following items during your scheduled PTO:
+
+- Customer meetings
+- Ongoing initiatives that will need attention
+- Who will be responsible for different types of customer communication (e.g. technical issues, license concerns, etc.)
+
+## Notify customers and make necessary changes
+
+Reach out to all of your customers to inform them of your upcoming time off, and who will be covering their account while you are away. Preferably this should be done during the cadence call prior to your PTO starting and reiterated with a follow-up email, but if that is not possible then send an email with all of the relevant details.
+
+If a cadence call falls during your PTO, you can decide to either cancel or reschedule. If there is an emergency or the call cannot be moved, the people covering for you should lead the call. It is the TAM's responsibility to prep in advance whomever will lead the call.
+
+## Email autoresponder template
+
+You can use the following template when creating your PTO email autoresonder to ensure all relevant information is shared in your responses, taking note of the details to replace with the ones specific to you.
+
+> Thank you for your message. I am out of the office until `[RETURN DATE]`.
+>
+> During this time my colleague `[BACKUP TAM NAME]` is available to assist you. You can reach them at `[BACKUP TAM EMAIL]`. In addition you can contact my manager, `[MANAGER NAME]`, at `[MANAGER EMAIL]`.
+>
+> If you need GitLab support, please [submit a support ticket](https://support.gitlab.com) and the GitLab Support team will respond to assist you. Please review our [guidance on how to request support](https://about.gitlab.com/support/) for best results.
