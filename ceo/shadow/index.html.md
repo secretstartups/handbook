@@ -188,8 +188,8 @@ Exceptional community members may be able to participate, as well.
 | ---------- | -------- | ------- | --------- |
 | 2021-10-18 | 2021-10-22 | [Omar Fernández](https://gitlab.com/ofernandez2) - Director, Strategy and Operations | [Kyle Wiebers](https://gitlab.com/kwiebers) - Engineering Manager, Engineering Productivity |
 | 2021-10-25 | 2021-10-29 | [Taurie Davis](https://gitlab.com/tauriedavis) - Product Design Manager, Foundations | [Omar Fernández](https://gitlab.com/ofernandez2) - Director, Strategy and Operations |
-| 2021-11-01 | 2021-11-05 | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager | [Taurie Davis](https://gitlab.com/tauriedavis) - Product Design Manager, Foundations |
-| 2021-11-08 | 2021-11-12 | [REB - Richard E. Baum](https://gitlab.com/xyzzy) - Sr. Solutions Architect | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager |
+| 2021-11-01 | 2021-11-05 | UNAVAILABLE | UNAVAILABLE |
+| 2021-11-08 | 2021-11-12 | [REB - Richard E. Baum](https://gitlab.com/xyzzy) - Sr. Solutions Architect |  [Taurie Davis](https://gitlab.com/tauriedavis) - Product Design Manager, Foundations |
 | 2021-11-15 | 2021-11-19 | AVAILABLE - REMOTE | [REB - Richard E. Baum](https://gitlab.com/xyzzy) - Sr. Solutions Architect |
 | 2021-11-22 | 2021-11-24 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-11-29 | 2021-12-03 | UNAVAILABLE | UNAVAILABLE |
@@ -197,8 +197,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-12-13 | 2021-12-17 | AVAILABLE - REMOTE | [James Heimbuck](https://gitlab.com/jheimbuck_gl) - Sr. Product Manager |
 | 2022-01-03 | 2022-01-07 | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager | AVAILABLE - REMOTE |
 | 2022-01-10 | 2022-01-14 | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager |
-| 2022-01-18 | 2022-01-21 | AVAILABLE - REMOTE | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) |
-| 2022-01-24 | 2022-01-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-01-18 | 2022-01-21 | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) |
+| 2022-01-24 | 2022-01-28 | AVAILABLE - REMOTE | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager |
 | 2022-01-31 | 2022-02-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-02-07 | 2022-02-11 | UNAVAILABLE - SKO | UNAVAILABLE - SKO |
 | 2022-02-14 | 2022-02-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
