@@ -1109,7 +1109,7 @@ FMMs may work with “Open” partners outside of P0 and P1 regions depending up
 
 ### Tracking success of FMM campaigns with Channel
  
-Please refer to the ROI section here. 
+Please refer to the [Channel ROI section](/handbook/marketing/field-marketing/#field-marketing-roi-to-gitlab-channel). 
 
 ### Here’s a quick rundown (not exhaustive) of what the Channel Program team handles
 
