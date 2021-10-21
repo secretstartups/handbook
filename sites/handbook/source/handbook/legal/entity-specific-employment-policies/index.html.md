@@ -18,15 +18,19 @@ This page will serve as a directory for our team members employed through a GitL
 <details>
   <summary markdown="span">GitLab BV (Belgium)</summary>
 </details>
+
 <details>
   <summary markdown="span">GitLab BV (Netherlands)</summary>
 </details>
+
 <details>
   <summary markdown="span">GitLab Canada Corp.</summary>
 </details>
+
 <details>
   <summary markdown="span">GitLab France S.A.S.</summary>
 </details>
+
 <details>
   <summary markdown="span">GitLab GmbH (Germany)</summary>
 
@@ -37,21 +41,33 @@ To ensure the health and safety of our team members in Germany, and to maintain 
 
 - [Work from Home Checklist](https://docs.google.com/document/d/1Z3i-vrkcU5ald0j-scf2rgTumwFCc_sI/edit?usp=sharing&ouid=106298195226644329866&rtpof=true&sd=true)
 </details>
+
 <details>
   <summary markdown="span">GitLab GK (Japan)</summary>
 </details>
+
 <details>
   <summary markdown="span">GitLab Inc. (US)</summary>
 </details>
+
 <details>
   <summary markdown="span">GitLab Ireland LTD</summary>
+
+**Health and Safety**
+
+To ensure the physical and mental health and safety of our team members in Ireland, and to maintain compliance with local employment regulations, all team members in Ireland will complete the following checklist at onboarding. This checklist will be reviewed annually. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, or you need to report an incident, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
+
+- [Home Working Checklist](https://forms.gle/bmXqNdH1xEw2bFTa8)
 </details>
+
 <details>
   <summary markdown="span">GitLab Korea LTD</summary>
 </details>
+
 <details>
   <summary markdown="span">GitLab LTD (UK)</summary>
 </details>
+
 <details>
   <summary markdown="span">GitLab PTY (Australia and New Zealand)</summary>
 
@@ -69,6 +85,7 @@ To ensure the physical and mental health and safety of our team members in New Z
 
 - [Remote Work Checklist](https://forms.gle/DszZNkBA22Rhy3VW7)
 </details>
+
 <details>
   <summary markdown="span">GitLab Singapore PTE LTD</summary>
 
