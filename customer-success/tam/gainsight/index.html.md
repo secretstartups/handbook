@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Using Gainsight within Customer Success"
-description: "The key aspects of how Customer Success uses Gainsight to drive success for customers."
+title: "Using Gainsight as a TAM"
+description: "The key aspects of how Technical Account Managers use Gainsight to drive success for customers."
 ---
 
 ## On this page
