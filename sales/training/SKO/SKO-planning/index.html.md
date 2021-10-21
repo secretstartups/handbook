@@ -103,7 +103,7 @@ Below are the activities that Field Enablement Managers and Sales Kickoff (SKO) 
 1. Field Enablement Program Managers open their segment's "Call for Content" and socialize it in relevant meetings/Slack channels.
 1. Call for Content stays open for 3 weeks. 
 1. Call for Content submissions are made via the [SKO Call for Content Submission issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=SKO-call-for-content-submission)
-1. Submissions are managed on an issue board with the following labels for organization: 
+1. Submissions are managed on [this issue board](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/boards/3428335?scope=all&label_name[]=sko%20content%20submission) with the following labels for organization: 
    1. Static labels: ~field enablement ~field events ~FE priority::1 ~sko ~sko content submission
    1. Scoped labels: ~sko content::triage, ~sko content::accepted, ~sko content::deferred, ~FE status::triage
 1. Once Call for Content closes, Field Enablement Program Managers review the submissions and choose top submissions based on the selection process outlined below. 
