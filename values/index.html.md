@@ -109,7 +109,7 @@ Negative feedback can be given in a group setting if it's to someone higher in t
 ##### Provide feedback in a timely manner
 {:.no_toc}
 We want to solve problems while they are **small**. 
-If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please escalate to management as soon as you realize it.
+If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please escalate to your manager, [skip-level](https://about.gitlab.com/handbook/leadership/skip-levels/#purpose-and-benefits-of-skip-levels), or the CEO as soon as you realize it.
 
 ##### Say thanks
 {:.no_toc}
