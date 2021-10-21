@@ -19,11 +19,33 @@ The purpose of this handbook page is to outline how our UTM strategy drives insi
 
 Everyone can contribute - See something you'd like to discuss or iterate on? Start an MR and post it in [#campaign-reporting](https://gitlab.slack.com/archives/CSBDEH2DQ) slack channel.
 
+## UTMs for URL tagging and tracking
+{: #utm-tracking}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+All URLs that are promoted on external sites and through email must use UTM URL tagging to increase the data cleanliness in Google Analytics and ensure marketing campaigns are correctly attributed. 
+
+We don't use UTMs for internal links. UTM data sets attribution for visitors, so if we use UTMs on internal links it resets everything when the clicked URL loads. This breaks reporting for paid advertising and organic visitors.
+
+You can access our internal [URL tagging tool in Google Sheets](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=0). You will also find details in this spreadsheet on what "Campaign Medium" to use for each URL. If you need a new campaign medium, please check with the Digital Marketing Programs team as new mediums will not automatically be attributed correctly.
+
+If you are not sure if a link needs a UTM, please speak with the marketer who is managing your campaign to ensure you are not interrupting the reporting structure they have in place.
+
+UTM construction best practices:
+- lowercase only, not camelcase
+- alphanumeric characters only
+- no spaces
+
 ## UTMs and Sisense dashboards
 {: #utms-sisense .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-Add notes here
+UTM parameters are used to facilitate performance tracking in Sisense dashboards, enabling different teams across Marketing Organisation measure how traffic, conversions, and ROI are impacted by marketing efforts. UTMs are essentially building blocks of traffic and conversion attribution and they help:
+
+   - Identify sources of traffic and their properties
+   - Organise incoming traffic into meaningful buckets
+   - Attribute results (conversions) to the correct traffic sources
+
+Developing and following a proper strategy to add UTM parameters to the web links will ensure attribution tracking is consistent and data in Sisense dashboard is accurate.
 
 ## UTM link builder process
 {: #utm-builder .gitlab-purple}
@@ -46,11 +68,13 @@ Below are some rules (per [PMG advice](https://gitlab.com/gitlab-com/marketing/d
 {: #utm-medium .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-
+**Campaign Medium** covers general buckets like `paidsearch`, `social`, or `sponsorship` 
 
 #### utm_source
 {: #utm-source .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
+
+**Campaign Source** names where the link lives. Examples include `ebook`, `twitter`, or `qrcode`
 
 Values:
 * 
@@ -72,8 +96,6 @@ Using proper `utm_campaign` values below will minimize number of manual updates 
 * devopsgtm = DevOps Platform Campaign
 * vccusecase = VC&C Campaigns (retired)
 
-
-
 #### utm_content
 {: #utm-content .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
@@ -81,6 +103,20 @@ Using proper `utm_campaign` values below will minimize number of manual updates 
 `utm_content` indicates the content offered by the URL. This is being done currently in publisher utms, and will be instrumented in nurture emails through the [intelligent nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836) project.
 
 See values in [this googlesheet](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=232997146) in column `utm_content=`. These are continually changed as new content is developed, and therefore new `utm_content` values are added.
+
+#### utm_budget
+{: #utm-campaign .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+`utm_budget` indicates which budget is used for campaign promotion. 
+
+* fmm	= Field Marketing
+* dmp	= Digital Marketing
+* corp = Corporate Marketing
+* abm	= Account Based Marketing
+* ptnr = Partner Marketing
+* chnl = Channel
+
 
 ## UTMs in Practice
 {: #utms-in-practice .gitlab-purple}
@@ -106,6 +142,11 @@ See values in [this googlesheet](https://docs.google.com/spreadsheets/d/1QRilUEU
 
 ## Marketo > Bizible integration
 {: #marketo-bizible .gitlab-purple}
+Bizible is our marketing attribution software that allows for connecting marketing and sales touch points over a prospect’s or customer’s lifecycle directly to revenue. It also allows us to directly tie the investment in our online advertising to records within our database. Bizible allows us to track our marketing activities at a more granular level within Salesforce, our single source of truth.
+
+Marketo is our marketing automation platform used for email marketing, lead management, and program management.
+Through Bizible’s integration with Marketo, we create touchpoints for attribution tracking from Marketo’s Program Memberships. This capability allows to track program memberships from email or engagement programs that are otherwise not seen by Bizible’s javascript and should be measured within the attribution journey.
+
 <!-- DO NOT CHANGE ANCHOR -->
 
 Add notes here
