@@ -55,9 +55,9 @@ To ensure the health and safety of our team members in Germany, and to maintain 
 
 **Health and Safety**
 
-To ensure the physical and mental health and safety of our team members in Ireland, and to maintain compliance with local employment regulations, all team members in Ireland will complete the following checklist at onboarding. This checklist will be reviewed annually. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, or you need to report an incident, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
+- [Display Screen Equipment Regulations 2007](https://www.irishstatutebook.ie/eli/2007/si/299/made/en/print#partii-chapv)
 
-- [Home Working Checklist](https://forms.gle/bmXqNdH1xEw2bFTa8)
+- To ensure the physical and mental health and safety of our team members in Ireland, and to maintain compliance with local employment regulations, all team members in Ireland will complete a [home working checklist](https://forms.gle/bmXqNdH1xEw2bFTa8) at onboarding. This checklist will be reviewed annually. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, or you need to report an incident, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
 </details>
 
 <details>
