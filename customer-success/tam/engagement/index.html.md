@@ -51,6 +51,21 @@ The "Welcome to GitLab" call will introduce the customer to the Technical Accoun
 1. Have discussions in the public issues as much as possible. If there is a question/discussion point that requires interaction with the GitLab Engineering and Product teams, post it in the public issue, as it most likely benefits everyone reading the public issue.
 1. When adding a SFDC link to a public issue, remember to [provide feedback](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) to the product managers using the [feedback template](/handbook/product/how-to-engage/#feedback-template)
 
+### E-Group Customer Calls
+
+Occassionally, the CEO or another GitLab executive will meet with a customer, for example, as part of an executive briefing, escalation, etc. Please review the [EBA handbook page](/handbook/eba/) on guidance on how to schedule with the E-Group, specifically the section on [customer, prospect, and partner meetings with an E-Group member](/handbook/eba/#customer-prospect-and-partner-meetings-with-an-e-group-member). There will be a prep call prior to the customer call (typically the day before), and there is a briefing document that must be prepared and shared with the EBA in advance of the prep call, in addition to any materials that will be used during the customer call. Below are some tips to ensure a positive experience:
+
+1. Work on the prep doc and call resources with your account team.
+1. Be as thorough as possible about your customer's details (e.g. ARR, # of users, tier, renewal date, stages in use)
+1. Ensure you write out clear guidance on the purpose of the meeting and what should be the outcome of the meeting.
+1. Be prepared in advance of what you want the E-Group member to do, say, and ask.
+1. Outline the flow of the customer call and ensure everyone knows what they're supposed to do (who will speak when and about what).
+1. Add any topics you think the customer may bring up (positive or negative) and advice on how to approach it.
+1. Provide links wherever possible (e.g. documentation, feature requests, blockers, etc.).
+1. To add a deep-link to the Gainsight Success Plan, go to the TAM Portfolio dashboard, scroll down to the "Success Plans by Account" widget, expand the report (click the square on the top bar of the report), then click the link under the "Success Plan" (not the link in the account name column to the C360); copy and paste this link to the document. It's typically recommended to use the Gainsight direct login, rather than the Salesforce login, for this purpose.
+
+For an example of a prep doc and additional materials that received positive feedback, please visit this **internal only** [Google doc](https://docs.google.com/document/d/1Ym7DUw4jfol3QHy4TaiDXlB__u5-oev85WiYrs5apGg/edit).
+
 ### Disengaging with a customer
 
 There are situations when a TAM needs to disengage with a customer. Examples include:
