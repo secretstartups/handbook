@@ -128,6 +128,14 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
       * Once the exit interview has been completed and all notes entered, the assigned People Specialist will ping the PBP in the `#pbp-peopleops` Slack channel to confirm that the notes have been added and that the Exit Interview has been completed. This ping will occur within 48 hours of the exit interview.
 1. **Experience**: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) on the team member's last day. **Offboardings will see issues being created automatically at the latest 4:00pm their regional time, at which point de-provisioning will commence, unless there are unavoidable circumstances for a later offboarding.**
 
+### Updating Key Offboarding Dates
+In the case an offboarding date needs to be updated, follow the next steps. 
+1. Make a comment in the appropriate thread in the `#offboarding` channel. 
+1. Ping the `@people-exp` to update the following places. 
+   1. Offboarding tracker 
+   1. BambooHR 
+   1. Notify Payroll of the changes 
+1. Save the email confirmation of the new offboarding dates in the `Termination` folder. 
 
 ### Exit Survey
 
