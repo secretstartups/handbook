@@ -226,6 +226,8 @@ Please review the following about user privacy when it comes to learning content
 
 Learning material is built and organized in the GitLab Learn LXP to help you follow a clear path. This is created using Smartcards, Pathways, and Journeys. More information on this content can be found on the [GitLab Learn contribution page](/handbook/people-group/learning-and-development/gitlab-learn/contribute) and in [this video training](https://youtu.be/pJzj4l3tG-4)
 
+Please note this terminology is relating specifically to GitLab Learn and is distinct from the [Learning Components and Learning Delivery Methods definitions](https://about.gitlab.com/handbook/people-group/learning-and-development/#learning-delivery-methods---definitions) used by the Learning & Development team.
+
 | Content Type | Purpose | Example |
 | ----- | ----- | ----- |
 | Journey | A collection of learning pathways | The Field Enablement team uses a journey to organize all content in the field certification. |
