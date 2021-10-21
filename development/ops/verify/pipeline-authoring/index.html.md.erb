@@ -190,15 +190,17 @@ The following are definitions of the health status options:
 Health Statuses can also be used in conjuntion with milestone board to communicate a variety of statuses. Here are some situations and how health status 
 and workflow labels can work together to communicate information on the probability of an issue shipping. They are written in the perspective of the DRI.
 
-1. I have not picked this issue yet, but I believe it will make it => column: ready for dev + health status: on track
-1. I have not picked this issue yet because it's blocked => column: blocked
-1. I have not picked this issue yet, and I don't know if it will make it => column: ready for dev + health status: none
-1. I am currently working on this issue, there are no blockers, but I have no idea if it will make it in the milestone => column: in dev + health status: none
-1. I am currently working on this issue, there are no blockers, but I believe it will make it in the milestone => column: in dev + health status: on track
-1. I am currently working on this issue, there are no blockers, but I believe it wont make it in the milestone => column: in dev + health status: at risk
-1. I am currently working on this issue and I need someone to help me out => column: in dev + health status: needs attention
-1. This issue is done and its being rolled out with feature flag. I believe it will make it in the milestone => column: feature flag rollout + health status: on track
-1. This issue is done and its being rolled out with feature flag. I don't know it will make it in the milestone => column: feature flag rollout + health status: at risk
+| Current Issue Status | `workflow::` label | Health status     | Description  |
+|----------------------|--------------------|-------------------|--------------|
+| Unassigned           | `ready for dev`    | `On track`        | I have not picked this issue yet, but I believe it **will** make it. |
+| Unassigned           | `blocked`          | None              | I have not picked this issue yet because it's blocked. |
+| Unassigned           | `ready for dev`    | None              | I have not picked this issue yet, and I **don't know** if it will make it. |
+| Assigned             | `in dev`           | None              | I am currently working on this issue, there are no blockers, but I have **no idea** if it will make it in the milestone. |
+| Assigned             | `in dev`           | `On track`        | I am currently working on this issue, there are no blockers, but I believe it **will** make it in the milestone. |
+| Assigned             | `in dev`           | `At risk`         | I am currently working on this issue, there are no blockers, but I believe it will **not** make it in the milestone. |
+| Assigned             | `in dev`           | `Needs attention` | I am currently working on this issue and I need someone to help me out. |
+| Assigned             | `in review`        | `On track`        | This issue is done and is being reviewed. I believe it **will** make it in the milestone. |
+| Assigned             | `in review`        | `On track`        | This issue is done and its being reviewed. I **don't know** if it will make it in the milestone. |
 
 **Notes on health status:**
 
