@@ -48,4 +48,7 @@ We will create opportunities to shadow finance leaders for team members to gain 
 
 **Training Aligned to GitLab L&D**
 
-To align and support the broader GitLab L&D efforts, we will promote the training made available by the People team. This will allow us to give back and contribute in a way that makes this program even stronger. We will also look for ways to create a curriculum that fits the different areas of the finance org.
+Together with GitLab L&D, we created the [Finance Learning Hub](https://gitlab.edcast.com/channel/5370), a curated learning channel in GitLab Learn.
+
+To align and support the broader GitLab L&D efforts, we will promote the training made available by the People team. This will allow us to give back and contribute in a way that makes this program even stronger. We will continue to look for ways to create a curriculum that fits the different areas of the finance org.
+
