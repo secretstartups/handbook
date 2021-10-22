@@ -337,7 +337,7 @@ Some things are **internal**, available internally but not externally. The follo
    - a department's cost;
    - team member retention (analysts may make business assumptions based on this);
    - the Sales pipeline (but the Marketing pipeline can be public); and
-   - net and gross retention KPIs (only the actual numbers can't be public. Everything else- the goal, their calculation, etc- can be.).    
+   - net and gross retention KPIs (only the actual numbers can't be public. Everything else- the goal, their calculation, etc- can be.).
 
 3. Please do not share outside of GitLab, any information related to the company's plans related to being a public company, its anticipated public offering, including sharing of the Form S-1 by linking to the document or otherwise, or the company's possible forward looking plans. All external communications should be in line with the company's [SAFE Guidelines](https://about.gitlab.com/handbook/legal/safe-framework/) and [Social Media Policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/). If you have any questions please reach out via the [#Safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
 
@@ -656,12 +656,29 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 1. We request external vendor meetings to use our video conferencing tool so we can quickly join the call and record the session if we need to. Confirm with vendor that they agree we can record the call. The DRI for the vendor meeting will generate the zoom link and share with the vendor.
 1. Decide ahead of the meeting who should be invited, i.e. those likely to get the most out of it.
 1. Ahead of the meeting, we should agree internal agenda items/requirements/priorities and provide to the external provider.
-1. In order to make the best use of time, we wish to avoid team introductions on the call, particularly where there are a number of us attending. We can include a list of attendees with the agenda and give it to the vendor before or after the meeting.
+1. In order to make the best use of time, we wish to avoid team introductions on the call, particularly where there are a number of us attending. We can include a list of attendees with the agenda and give it to the vendor before or after the meeting. Introductions can be helpful in some external calls. In those meetings, use [these guidelines](#meeting-introduction-guidelines).
 1. When a question or issue is raised on the agenda, if the person who raised it is present they will verbalize it live on the call; or if they are not present, then someone will raise it for them. This is a common GitLab practice.
 1. Where possible, we request that the vendor provides their slides / presentation materials and any other related information after the meeting.
 1. Do not demo your tool live, create a pre-recorded walk-through of the tool and make it available to GitLab before the meeting so we can ask questions if needed.
 1. Be cognizant of using inclusive language.
 1. We respectfully request that everyone is mindful of the time available, to help manage the call objectives effectively.
+
+### Meeting Introduction Guidelines
+
+Introductions can be helpful during some external meetings, such as executive sales calls. In those meetings, use these guidelines.
+
+1. Agree ahead of time to do introductions so everyone is prepared for it.
+1. Create a list of people with their roles in a shared agenda and use that for the introduction sequence.
+1. Each person should introduce themselves so that everyone can see that person on Zoom.
+1. The person introducing themselves hands it over to the next person in the agenda.
+Make sure you're never screensharing when people are introducing themselves.
+![GitLab attendees](./introductions.png)
+
+In this example, the introductions would be:
+
+- Sid: Sid Sijbrandij - CEO, Michael
+- McB: Michael McBride - CRO, Mike Pyle
+- Pyle: Mike Pyle, VP Enterprise Sales
 
 ### Focus Fridays
 
@@ -1181,7 +1198,7 @@ Everything at GitLab is a work in progress, so if we see a culture shift where S
 The previous KPI (% of messages sent in public channels) was about public channels but since some necessary parts of the business occur in private channels (discussions around comp, hiring, talent acquisition- and we do A LOT of hiring), this version of the KPI makes more sense.
 Earlier in our history, 50% of all communication _was_ in public channels.
 
-**Note:** Some of these charts require data from a sheetload file that needs to be manually updated. To self-serve data for a chart with missing data, please visit Slack's [workspace administration page](https://slack.com/intl/en-gb/help/articles/218407447-View-your-Slack-analytics-dashboard#pro-and-business+-1). It provides guidance on how to access Slack's analytics dashboard for a particular workspace. If this data is required in the charts below, you can ping the #data channel for a refresh. If this becomes a common request, we may choose for the manual step to become regularly scheduled. 
+**Note:** Some of these charts require data from a sheetload file that needs to be manually updated. To self-serve data for a chart with missing data, please visit Slack's [workspace administration page](https://slack.com/intl/en-gb/help/articles/218407447-View-your-Slack-analytics-dashboard#pro-and-business+-1). It provides guidance on how to access Slack's analytics dashboard for a particular workspace. If this data is required in the charts below, you can ping the #data channel for a refresh. If this becomes a common request, we may choose for the manual step to become regularly scheduled.
 
 <iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/770f45e7-ca4d-417f-a3db-9dfc4403e24d?embed=true" height="700"> </iframe>
 
@@ -1439,7 +1456,7 @@ Reference Google's [documentation](https://support.google.com/drive/answer/24948
 1.  In our handbook, if you find yourself wondering whether it is better to provide a public link to a Google Doc vs. writing out the content on the website, use the following guideline: Is this document frequently adapted / customized? If yes, then provide a link, making sure that the document can be _commented on_ by _anyone_ with the link. For instance, this is how we share our employment [contracts](/handbook/contracts/). If the document is rarely customized, then provide the content directly on the site and deprecate the Google Doc.
 1.  If you want to quickly find where a team member's cursor is in a Google Doc, click their icon at the top of the document and the app will jump you to the current location. This works in Sheets and Presentations as well.
 1.  You can set the notifications on a Google Doc so you only get emailed when someone tags you directly instead of getting emails for every comment. Click on "notifications" and select "Only yours". By the way, when you create the doc, it defaults to All, but when you are just shared with it, it defaults to Only yours. There is [no global default](https://productforums.google.com/forum/#!msg/docs/1C3PZX1AY7Q/6EXXQKQSPCMJ).
-    ![Google Doc Notifications](./google-docs-notifications.png).
+    ![Google Doc Notifications](./google-docs-notifications.png)
 1.  You can find a template of the [GitLab letterhead](https://docs.google.com/document/d/1gN1Z2FHPIfPk7QLIey1KF9dR1yTl0R7QrMSb5_Iqfh4/edit) on the shared Google Drive. Please be sure to make a copy of the document to your Google Drive before customizing the template for your use.
 1.  If you want to have the Google Doc be readable to the public, do not change the sharing settings from 'Editable by Everyone at GitLab', [publish the document](#how-to-publish-a-google-doc) instead.
 1.  In all cases, the sharing settings (who a document is shared with, if it is visible to the whole company, etc.) on a Google Doc should be the single source of truth for the confidentiality of the document.
