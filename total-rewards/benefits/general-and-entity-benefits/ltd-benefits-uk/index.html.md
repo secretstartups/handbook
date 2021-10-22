@@ -65,7 +65,9 @@ GitLab will explore adding vision coverage as a future iteration to our health b
 
 ## Life Insurance
 
-Life Insurance provides peace of mind for you and your loved ones with a tax-free lump sum payout in the event of your untimely death, helping to relieve financial concern during a time of grief. GitLab offers Life Insurance via Unum to all team members between age 16 and State Pension Age. The pension benefit is **4x basic annual salary**. 
+Life Insurance provides peace of mind for you and your loved ones with a tax-free lump sum payout in the event of your untimely death, helping to relieve financial concern during a time of grief. GitLab offers Life Insurance via Unum to all team members between age 16 and State Pension Age. The pension benefit is **4x basic annual salary** up to the Free Cover Limit. Employees with a base salary of £375,000 or higher will need to apply for a medical assessment to receive cover over the Free Cover Limit. Please reach out to Total Rewards if you are eligible and wish to apply for the additional cover. 
+
+To designate a beneficiary for this benefit, please complete the [Expression of Wish Form](https://docs.google.com/document/d/1L5PFNeeZPmC5CArxrm7YX8W4BwKzdLFo/edit?usp=sharing&ouid=115600862362829120699&rtpof=true&sd=true) and send the completed form to the Total Rewards Team. 
 
 ### Employee Assistance Program (EAP)
 
@@ -80,11 +82,13 @@ As part of the life insurance benefit, Unum also offers [Help@hand](https://driv
   * Medical Second Opinions
   * Life, money, and well-being support
 
+New Team Members should expect an enrollment email from Help@Hand the first week of the month following their hire date. 
+
 ## Income Protection
 
 Income Protection provides financial support if you’re unable to work due to illness or injury for a specified length of time, and aims to help you, your family and others who depend on the money you earn. GitLab's policy with Unum will help us to ensure you receive a percentage of your income if you can’t work because of illness or injury. It also includes direct access to expert Vocational Rehabilitation Consultants who can support you while you’re off and ease your return to work. 
 
-All team members (between age 16 and State Pension Age) are enrolled in Income Protection of **66% of base salary payable after you’ve been absent for 13 weeks** effective as of the date of hire. 
+All team members (between age 16 and State Pension Age) are enrolled in Income Protection of **66% of base salary up to the Free Cover Limit payable after you’ve been absent for 13 weeks** effective as of the date of hire. Employees with a base salary of £226,000 or higher will need to apply for a medical assessment to receive cover over the Free Cover Limit. Please reach out to Total Rewards if you are eligible and wish to apply for the additional cover. 
 
 Please reach out to Total Rewards for information on how to apply for Income Protection with Unum. Payments are made exactly like your salary, and tax and National Insurance contributions are deducted in the usual way. If you are absent due to illness or injury on the day your cover or an increase in cover is due to begin, you may not be eligible until you return to active work in your usual role. 
 
