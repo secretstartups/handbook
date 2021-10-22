@@ -82,7 +82,7 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
 ##### Cables
   * AmazonBasics Premium HDMI Cable - [US](https://www.amazon.com/dp/B07KSD9DZ9/) - Supports 4K@60Hz
   * Rankie DisplayPort Cable - [UK](https://www.amazon.co.uk/gp/product/B00YOP0T7G/)
-  * CHOETECH USB-C to DisplayPort Cable - [India](https://www.amazon.in/CHOETECH-DisplayPort-Thunderbolt-Compatible-2016-2020/dp/B08FBJ8DD3) - Supports 4K@60Hz
+  * Tobo USB Type C (Thunderbolt 3) to DisplayPort Cable - [India](https://www.amazon.in/Thunderbolt-DisplayPort-Benfei-Display-Gold-Plated/dp/B06XFG1YKT) - Supports 4K@60Hz
 
 ##### Network Adaptors
   * TP-Link Powerline Adapter - [US](https://www.amazon.com/TP-LINK-Powerline-Pass-Through-TL-PA9020P-KIT/dp/B01H74VKZU), [UK](https://www.amazon.co.uk/TP-Link-TL-PA8033PKIT-Gigabit-Passthrough-Powerline/dp/B07GFHQXBP) - You'll want to aim for adaptors that can support the max ethernet standard or more of 1000mbps.
