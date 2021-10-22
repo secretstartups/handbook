@@ -87,25 +87,6 @@ The TAM( Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compe
 - SCM admin and/or PS experience would be a plus
 - Set up HA/DR, working with Containers and Schedulers (Kubernetes preferred) and also experience with AWS stack (EC2, ECS, RDS, ElastiCache)
 
-## Public Sector Technical Account Manager
-
-The Public Sector Technical Account Manager reports to the [Manager, Public Sector Technical Account Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-public-sector-technical-account-manager).
-
-### Public Sector Technical Account Manager Job Grade
-
-The Public Sector Technical Account Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Public Sector Technical Account Manager Responsibilities
-
-- In addition to the TAM (Intermediate) responsibilities:
-- Working exclusively with Federal Public Sector customers
-
-### Public Sector Technical Account Manager Requirements
-
-- In addition to the TAM (Intermediate) requirements:
-- TS/SCI Security Clearance if applicable
-- Knowledge of and demonstrated progressive experience with Federal Public Sector customers
-
 ## Senior TAM
 
 The Senior TAM reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
@@ -135,24 +116,6 @@ The Senior TAM is a job grade [level 7](/handbook/total-rewards/compensation/com
 * Advanced project management experience & skills
 * Advanced SCM admin and/or PS experience
 
-## Senior Public Sector Technical Account Manager
-
-The Senior Public Sector Technical Account Manager reports to the [Manager, Public Sector Technical Account Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-public-sector-technical-account-manager).
-
-### Senior Public Sector Technical Account Manager Job Grade
-
-The Senior Public Sector Technical Account Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Senior Public Sector Technical Account Manager Responsibilities
-
-- In addition to the Senior TAM (Intermediate) responsibilities:
-- Working exclusively with Federal Public Sector customers
-
-### Senior Public Sector Technical Account Manager Requirements
-
-- In addition to the Senior TAM (Intermediate) requirements:
-- TS/SCI Security Clearance if applicable
-- Knowledge of and demonstrated progressive experience with Federal Public Sector customers
 
 ## Staff TAM (Account)
 
@@ -278,24 +241,6 @@ The Manager, TAM is a [grade 9](/handbook/total-rewards/compensation/compensatio
 * Ability to connect technology with measurable business value
 * Strategic thinking about business, products, and technical challenges
 
-## Manager, Public Sector Technical Account Manager
-
-The Manager, Public Sector Technical Account Manager reports to the [Director, Public Sector Customer Success](https://about.gitlab.com/job-families/sales/director-customer-success/#director-public-sector-customer-success).
-
-### Manager, Public Sector Technical Account Manager Job Grade
-
-The Manager, Public Sector Technical Account Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Manager, Public Sector Technical Account Manager Responsibilities
-
-- In addition to the Manager, TAM responsibilities:
-- Working exclusively with Federal Public Sector customers
-
-### Manager, Public Sector Technical Account Manager Requirements
-
-- In addition to the Manager, TAM requirements:
-- TS/SCI Security Clearance if applicable
-- Knowledge of and demonstrated progressive experience with Federal Public Sector customers
 
 ## Senior Manager, TAM
 
@@ -401,6 +346,21 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 - Curate frequently asked questions (FAQ) and related solution guides based on direct customer engagement, and analysis of customer requests and usage patterns
 - Partner with Customer Programs team to enhance and improve digital adoption journey to preserve or increase net retention for digital customers
 - Partner with our customers to understand industry-wide technical challenges along the customer journey with GitLab
+
+###  Public Sector Technical Account Manager
+####  Public Sector Technical Account Manager Responsibilities
+
+- Extends the corresponding Technical Account Manager level responsibilities:
+- Work exclusively with Public Sector customers
+
+####  Public Sector Technical Account Manager Requirements
+
+- In addition to the corresponding Technical Account Manager level requirements:
+- TS/SCI Security Clearance if applicable
+- Knowledge of and demonstrated progressive experience with Public Sector customers
+
+
+
 
 ## Performance Indicators
 
