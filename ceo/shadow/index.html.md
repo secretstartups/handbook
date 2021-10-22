@@ -506,7 +506,7 @@ Shadows are responsible for being aware of the current time and verbally providi
 **Tips for time-keeping:**
 - Decide who. Past shadows have found it helpful for the individual in the second week of the program to commit to keeping time when applicable.
 - Understand meeting length. Use the calendar invite as an indication of how long the meeting should last. Remember, we do [speedy meetings](/handbook/communication/#scheduling-meetings).
-- **Shadows should provide a 5-minute and 1-minute notification.** Writing "Time check, 5 minutes" on Zoom chat is often sufficient. 
+- **Shadows should provide a 5-minute and 1-minute notification.** Writing "Time check, 5 minutes" on Zoom chat is often sufficient. If the meeting reaches the end time, unmute and verbally say "We're in overtime". 
 
 **Tools to help.**
 
