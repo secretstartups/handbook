@@ -41,6 +41,18 @@ The team accomplishes this mission by building machine learning models and analy
 - GitLab MLOps Product Development - Product Team - Taylor
 - Feature $ARR uplift prediction - Product Team - Anoop Dawar
 
+### Data Science roadmap - executive summary
+
+
+
+
+|  **Timeline** | **Deliverable** | **Value** | **Stakeholders** |
+| :--------------- | :----------------- | :-------------- | :-------------- |
+| FY-22 Q3 / Iterative | [Propensity to Expand (PtE)] | Enables sales team to capture opportunities to  increase ARR | Sales Team |
+| FY-22 Q4 / Iterative | [Propensity to Contract (PtC)] | Enables sales team to prevent reduction of ARR | Sales Team |
+| FY-23 Q1 / Iterative | [User Segmentation (US)] | Enables sales and marketing team efficient territory planning (+ others) | Product Team |
+
+
 # Data Science responsibilities 
 
 - What exactly is data science?! Check out [this video](https://www.youtube.com/watch?v=wRbNExL0hv8) or [these slides](https://docs.google.com/presentation/d/1Y-V6bZ5w8Ms5yfMiuYCYZs9ald7Q5MxydYhSh9DWwwQ/edit?usp=sharing) for a quick overview.
