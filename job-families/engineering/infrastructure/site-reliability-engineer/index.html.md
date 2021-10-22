@@ -105,7 +105,7 @@ Execution:
 
 Collaboration and Communication:
 1. Improves documentation all around, either in application documentation, or in runbooks, explaining the why, not stopping with the what.
-1. Act as a reliability champion within the product group and help train others in reliability best practices.
+1. Act as a reliability champion within the stage group you are assigned and help train other members of this stage group in reliability best practices.
 
 Influence and Maturity
 1. Shares the learnings publicly, either by creating issues that provide context for anyone to understand it or by writing blog posts.
