@@ -116,7 +116,7 @@ Custom Attribution based on the Bizible machine learning attribution model uses 
 
 **How is the Machine Learning model Calculated?**
 
-Bizible calculates the importance of each custom stage by using the touchpoint data from your account. The criteria used to determine the importance of each stage are:
+Bizible calculates the importance of each custom stage by using the touchpoint data from our account. The criteria used to determine the importance of each stage are:
 
 - **Model Accuracy:** If we build a predictive model with the touchpoint data to predict whether we will win a deal eventually, how accurate will the model be? Higher predictive accuracy means that the details of this stage correlates more with whether a deal will close
 - **Conversion Rate:** If Leads or Opportunities at this certain stage convert to the next stage at a high rate, this suggests that the marketing activities that occurred at this stage didn't matter very much. Conversely, if a certain stage converts to the next stage at a low rate, this can suggest that the marketing activities that occurred at this stage were influential in driving the conversion.
@@ -127,7 +127,20 @@ _**Model Percentage = Model Accuracy x Conversion Rate x Touchpoint Uniqueness W
 
 At the end, all the custom stage weights are normalized and converted to % as shown below.
 
-In our case, the custom machine learning model has the following weights for each stage: 
+The Custom Attribution Model, based on the Machine Learning Algorithm is a living model. It constantly improves based on the new data coming in. 
+
+To allow for the most up to date weights, the Marketing Operations team does constant refreshes of the Custom Attribution Model. As to have proper documentation, here in the handbook you can see the weight changes made, and when they occured.  
+
+Currently, the custom machine learning model has the following weights for each stage (updated October 22nd 2021): 
+
+- **First Touch** - 29.7%
+- **Lead Creation** - 28.7%
+- **Opportunity Creation** - 12.2%
+- **SAO** - 8,9%
+- **Closed (Lost, Won)** - 10.4%	
+- **Middle Touches** - 10.1%
+
+Previous weights which were updated on February 15th 2021, can be found below: 
 
 - **First Touch** - 20.9%
 - **Lead Creation** - 24.8%
