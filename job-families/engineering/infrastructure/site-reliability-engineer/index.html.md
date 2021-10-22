@@ -122,7 +122,7 @@ Are experienced Site Reliability Engineers who meet the following criteria
 Technical:
 1. Deep knowledge in 2 areas of expertise and general knowledge of all areas of expertise. Capable of mentoring Interns and Intermediate SREs in all areas and other SRE in their area of deep knowledge.
 1. Working knowledge of GitLab Product, including deep knowledge of groups which may be part of stable counterpart assignments.
-1. Contributes small improvements to the GitLab codebase to resolve issues, especially within specific stable counterpart assignments.
+1. Contributes improvements to the GitLab codebase to resolve issues, especially within specific stable counterpart assignments.
 
 Execution:
 1. Identifies significant projects that result in substantial cost savings or revenue.
@@ -135,8 +135,8 @@ Execution:
 Collaboration and Communication:
 1. Know a domain really well and radiate that knowledge through recorded demos, discussions in [DNA](/handbook/engineering/infrastructure/#design-and-automation-dna) meetings, or [Incident Reviews](/handbook/engineering/infrastructure/incident-review/).
 1. Perform and run blameless RCAs on incidents and outages aggressively looking for answers that will prevent the incident from ever happening again.
-1. Act as a reliability champion within the product group and help train others in reliability best practices.
-1. Lead the team in performing incident reviews, root cause analyses, and production readiness reviews.
+1. Act as a reliability champion within the stage group you are assigned and help train others in reliability best practices.
+1. Lead the product stage group you are assigned in performing incident reviews, root cause analyses, and production readiness reviews.
 
 Influence and Maturity:
 1. Set an example for team of SREs with positive and inclusive leadership and discussion on work.
@@ -162,7 +162,7 @@ Execution:
 1. Measure the risk of introduced features to plan ahead and improve the infrastructure.
 1. Proposes and drives architectural changes that affect the whole company to solve scaling and performance problems.
 1. Directly participates in contributing to and influencing the future direction of stable counterpart groups towards a more resilient and reliable GitLab product.
-1. Leads significant project work for OKR level goals for the team.
+1. Leads significant project work for OKR level goals for the team and product stage group you are assigned to.
 
 Communication and Collaboration:
 1. Works with engineers across the whole company influencing design to create features that will work well with SaaS and self hosted platforms.
