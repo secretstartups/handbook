@@ -1297,6 +1297,8 @@ graph LR;
 
 ```
 
+To view the status of an opportunity after it has been submitted for approval, **review the [7-Closing Stage Dashboard](https://gitlab.my.salesforce.com/01Z4M000000xeww).**
+
 #### Common errors when submitting an opportunity for approval:
 
 * Be sure to submit an opportunity for approval *on the opportunity* level, not the quote level.
