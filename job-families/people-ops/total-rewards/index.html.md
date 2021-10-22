@@ -21,7 +21,7 @@ The [Total Rewards](/handbook/total-rewards/) department strategically aligns th
 | [Compensation Coordinator](#compensation-coordinator) | 5 |
 | [Compensation Analyst](#compensation-analyst) | 6 |  
 | [Senior Compensation Analyst](#senior-compensation-analyst) <br> [Senior Compensation Program Manager](#senior-compensation-program-manager) | 7   
-| [Manager, Compensation](#manager-benefits) | 8 |  
+| [Manager, Compensation](#manager-benefits) <br> [Compensation Partner](#compensation-partner) | 8 |  
 
 **Leadership:**
 | Role                                                | Grade |
@@ -188,11 +188,40 @@ The Senior Compensation Program Manager is a [grade 7](/handbook/total-rewards/c
 - Assist the People Connect group with all compensation related escalated inquires.
 - Keep it efficient and DRY.
 
+### Compensation Partner 
+
+#### Job Grade
+
+The Compensation Partner is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+**Market Justification:** The business need for an individual contributor Compensation Partner role is to have a team member with a high level of expertise in Compensation to be able to advise the business in the Compensation Philiosophy. This team member will collaborate with People Business Partners and leaders to ensure team members fully understand their total rewards package. In the market, there are over 160 organizations that typically have 2 to 3 Compensation Partners. 
+
+#### Responsibilites 
+
+#### Responsibilities
+- Develop compensation strategies and principles.
+- Development and Execution of Compensation Trainings to ensure team members understand GitLab's compensation philosophy.
+- Equity Plan Design
+- Education regarding equity plans at GitLab in collaboration with Stock Administration to ensure team members understand the potential value of their equity.
+- Promote an understanding of compensation philosophies, practices and administration across all levels of the organization, including the executive team. Specifically: 
+  - Collaborate with People Business Partners and business leaders regarding compensation philosophy, practices, and programs. 
+  - Collaborate with Talent Aqusition regarding compensation philosophy, practices, and programs. Ensure the recruiting team is educated how to present GitLab's compensation and overall total rewards strategy. 
+- Ensure compliance with all international rules and regulations.
+- Collaborate with the Total Rewards team on policies, processes, and procedures following the GitLab workflow, with the goal always being to make things easier from the perspective of the team members.
+- Keep it efficient and DRY.
+
+#### Additional Requirements 
+- Experience working with People Business Partners or similar is a business facing role to solve compensation challenges. 
+- Experience working in a public company and exposure to compensation programs at scale. 
+- The ability to present complex models in a simple and clear manner. 
+- Experience leading presentations to executive teams and company-wide audiences. 
+- Experience in Worday preferred. 
+
 ### Manager, Compensation
 The responsibilities for a Manager, Compensation will be added at the time of a business need for this role.
 
 #### Job Grade
-The Compensation Coordinator is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Compensation is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Leadership
 
