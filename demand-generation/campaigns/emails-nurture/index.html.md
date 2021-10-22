@@ -45,7 +45,7 @@ This page focuses on emails and nurture programs, owned and managed by Marketing
 {: #calendar .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The calendar below documents the emails to be sent via Marketo and Mailchimp for:
+The calendar below documents the emails to be sent via Marketo for:
 1. nurture emails
 1. virtual events (invitations, reminders, and follow ups)
 1. in-person events (invitations, reminders, and follow ups)
@@ -410,9 +410,9 @@ Below are the information from the issue template that will need to be filled ou
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 - **Marketing Emails**: Marketing emails are designed to generate leads. The request process outlined is used for ad-hoc marketing emails (not events, webcasts, integrated campaigns, etc as these all have a separate established process). These emails are sent through Marketo using the marketing database or [existing segments](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#geographic-dma-list).
-- **Terms of Service or Privacy Policy Updates**: Terms of Service or Privacy Policy emails are sent to the user base and are not marketing-related. These emails are sent through MailChimp and may require additional approvals, based on the content or number of recipients.
-- **Support emails**: Support emails are typically sent to a subset of impacted users and are not marketing-related. These emails are sent through MailChimp.
-- **Security emails**: Security emails are sent either to the entire user base or a subset of users and are not marketing-related. They are often urgent, but in the case of the monthly security release, they are scheduled. The monthly security release email is sent through Marketo. Urgent notifications are typically sent through MailChimp.
+- **Terms of Service or Privacy Policy Updates**: Terms of Service or Privacy Policy emails are sent to the user base and are not marketing-related. These emails are sent through MailJet and may require additional approvals, based on the content or number of recipients.
+- **Support emails**: Support emails are typically sent to a subset of impacted users and are not marketing-related. These emails are sent through MailJet.
+- **Security emails**: Security emails are sent either to the entire user base or a subset of users and are not marketing-related. They are often urgent, but in the case of the monthly security release, they are scheduled. The monthly security release email is sent through Marketo. Urgent notifications are typically sent through MailJet.
 
 #### Approvals and notifications for email requests
 {: #email-request-approval}
@@ -541,18 +541,9 @@ If you don't have Marketo access and would like to see what the email templates 
 
 All Campaign Managers and reviewers should adhere to the following protocol for every marketing email that is sent to ensure brand consistency and quality in our email program.
 
-We use both Marketo and Mailchimp to send ad-hoc emails. Marketo is the primary system for all marketing emails and the regularly scheduled security updates. Mailchimp should be used for emails to gitlab.com users as these users are not in our marketing systems (unless they have signed up for content). *Examples of emails to be sent through Mailchimp: Critical security updates, support updates that impact a specific subset of users, suspicious account activity notifications.*
+We use both Marketo and MailJet to send ad-hoc emails. Marketo is the primary system for all marketing emails and the regularly scheduled security updates. MailJet should be used for emails to gitlab.com users as these users are not in our marketing systems (unless they have signed up for content). *Examples of emails to be sent through MailJet: Critical security updates, support updates that impact a specific subset of users, suspicious account activity notifications.*
 
- - Once an email request is received using the process above, the Campaign Manager determines which system to send the email from. This is usually Mailchimp unless it is a marketing email to our database.
- - Log into Mailchimp and select "Audience."
- - Select "View Audiences" from the "Manage Audience" drop down on the right side of the screen.
- - Select "Create Audience" and name the audience using ISODate_CampaignName. Complete the Default From email address and name (usually info@, but can be security@ or support@ depending on the email). For "Remind people how they signed up to your audience" select "Entire Database" then click Save.
- - For instructions on adding contacts, review this [documentation](https://mailchimp.com/help/import-contacts-mailchimp/). You can also copy and paste the contacts if the list is small enough. You will be asked to map the fields on your import to the database fields prior to upload.
- - Select "Campaigns." Find a prior campaign that used the same type of email you want to use (plain text or regular). Security emails, privacy policy updates, and terms of service updates use plain text, support emails can use regular.
- - Select replicate, then select the audience you created above. If you do not have the list yet, you can select an existing audience and change it later during the review process.
- - Name the campaign using ISODate_CampaignName. Lay out the email as normal. For information about using Merge Tags, review this [documentation](https://mailchimp.com/help/getting-started-with-merge-tags/).
- - Send a test email to yourself first to confirm email is correct and the links work properly. Then, make any changes and send a test to the designated approvers.
- - Once fully approved, review the audience (and update if necessary), sender, subject line, email and schedule to send.
+To send via MailJet, fill out an issue and follow protocol found [here](/handbook/marketing/emergency-response/#customer-comms-email).
 
 ## Sales nominated flows in Marketo
 {: #sales-nominated .gitlab-purple}
