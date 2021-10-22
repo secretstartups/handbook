@@ -89,7 +89,7 @@ Onboarding is the official process of integrating new team members into an organ
 1. Reduces anxiety
 1. Sets expectations
 
-Onboarding is an investment in the long term success of new hires and in the company as well. Studies show that [87% of team members are less likely to leave a company](http://www.totalteambuilding.com.au/the-positive-impact-of-team-building/) when they feel engaged. Companies that invest in onboarding report [54% more productivity](https://www.urbanbound.com/blog/onboarding-infographic-statistics) from new hires.
+Onboarding is an investment in the long term success of new hires and in the company as well. Studies show that [87% of team members are less likely to leave a company](http://www.totalteambuilding.com.au/the-positive-impact-of-team-building/) when they feel engaged. Companies that invest in onboarding report [54% more productivity](https://www.myshortlister.com/insights/employee-onboarding-statistics) from new hires.
 
 When [hiring in an all-remote organization](/company/culture/all-remote/hiring/), a cohesive onboarding process is especially important because not only do you have to give new hires the information they need to do their jobs, you have to empower them to think remotely as well. Remote onboarding relies heavily on [documentation](/company/culture/all-remote/management/#scaling-by-documenting), anticipating the needs of new team members, and a dedication to continuously improving the process based on feedback.
 
