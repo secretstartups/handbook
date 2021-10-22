@@ -63,6 +63,7 @@ The presence of bug category labels `~availability`, `~performance`, `~security`
 | `~availability` of GitLab SaaS | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | |
 | `~security` Security Vulnerability | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | AppSec team |
 | Global Search | See [Search Prioritization](/handbook/engineering/development/enablement/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/development/enablement/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/development/enablement/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/development/enablement/search/#severity-labels-for-search-issues-advanced-search-global-search) | |
+| `~test` Bugs blocking end-to-end test execution | See [Blocked tests section](#blocked-tests) | See [Blocked tests section](#blocked-tests) | See [Blocked tests section](#blocked-tests) | See [Blocked tests section](#blocked-tests) | [Quality Engineering Sub-Department](/handbook/engineering/quality/qe-subdept/) |
 
 ### Severity SLOs
 
@@ -155,6 +156,17 @@ Priority is tied to severity in the following manner:
 | `~severity::2` | `~priority::1` only | `~priority::2`, `~priority::3` and `~priority::4` |
 | `~severity::3` | `~priority::1` or `~priority::2` | `~priority::3` and `~priority::4` |
 | `~severity::4` | `~priority::1` or `~priority::2` or `~priority::3` | `~priority::4` |
+
+### Blocked tests
+
+End-to-end tests that don't run lead to blind spots that can cause unforeseen availability issues.
+If the test was important enough to add, we must ensure coverage is stable and active.
+Priority is tied to severity in the following manner:
+
+| Type of test blocked | Bug severity | Allowed priorities | **Not-allowed priorities** |
+|-|-|-|-|
+| Smoke end-to-end test | `~severity::1` | `~priority::1` only | `~priority::2`, `~priority::3` and `~priority::4` |
+| Non-smoke end-to-end test | `~severity::2` | `~priority::2` as baseline, `~priority::1` allowed | `~priority::3` and `~priority::4` |
 
 ### Performance
 
