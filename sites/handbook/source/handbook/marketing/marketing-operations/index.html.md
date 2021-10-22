@@ -285,7 +285,6 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - LaunchDarkly
 - [LogRocket](/handbook/marketing/marketing-operations/logrocket)
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
-- [MailChimp](/handbook/marketing/marketing-operations/marketo/#mailchimp-sends)
 - [OneTrust](/handbook/marketing/marketing-operations/onetrust)
 - [Rev](/handbook/marketing/marketing-operations/rev)
 - SEMrush
