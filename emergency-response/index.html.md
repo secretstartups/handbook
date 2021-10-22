@@ -128,9 +128,9 @@ The following approvers are needed for the copy and list size:
 ## Email Platform to Use
 The email platform determines many different factors for us.
 - [Marketo](/handbook/marketing/marketing-operations/marketo/): Quickest deployment, but most costly. Will not be used for communications over 20k
-- [MailJet](/handbook/marketing/marketing-operations/mailjet/): Preferable platform for deployment, but it is not onboarded as of 2021-03-01
-- MailGun: If list send is greater than 50k we will use this. This involves engineering and will add 1 day minimum to send
-- [MailChimp](/handbook/marketing/marketing-operations/marketo/#mailchimp-sends): Only if other platforms are not an option
+- [MailJet](/handbook/marketing/marketing-operations/mailjet/): Platform for large deployment, marketing can set up and send without engineering help.
+- MailGun: Large lists that need verification. This involves engineering and will add 1 day minimum to send
+
 
 
 ## Customer Update / Announcement Emails
