@@ -260,7 +260,6 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 * GitHub
 * HashiCorp
 * IFTTT
-* Opsgenie/Atlassian
 * RedHat
 * Salesforce
 * Slack
@@ -329,7 +328,6 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 
 ### Monitor
 
-* Opsgenie/Atlassian
 * Splunk/VictorOps/SignalFx
 * PagerDuty
 * ServiceNow 
