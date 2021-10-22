@@ -312,8 +312,13 @@ Scheduling [executive interviews](/handbook/hiring/talent-acquisition-framework/
 * Timezones can be tricky with Greenhouse. Always double check timezones before sending confirmations, noting that all interview confirmations and the time shown on the candidate's profile is in your own timezone.
 * You can find a candidate's timezone by viewing their application.
 * To ensure that someone else (another candidate, for example) does not join your video call without your permission, log into your Zoom account online.
-  Click on "My Account" in the top-right corner, and click on "Meeting Settings" in the left sidebar. Scroll down to "In Meeting (Advanced)," and toggle on the option "Waiting Room".
-  You will also need to enable Waiting Room for your Personal Meeting ID. Click on "Meetings" in the left sidebar. Select the "Personal Meeting Room" tab and check the "Enable waiting room" option.
+  1. In the top right corner, select your profile icon, then select your account name.
+  1. In the left sidebar, select **Settings**.
+  1. In the **Security** section, toggle on the **Waiting Room** option.
+  1. In the left sidebar, select **Meetings**.
+  1. Select the **Personal Room** tab, then select **Edit**.
+  1. Scroll to **Security** and select **Waiting Room**.
+  1. Select **Save**.
 
 #### Scheduling Timed Assessments
 
