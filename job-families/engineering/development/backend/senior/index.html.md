@@ -202,14 +202,16 @@ The group focuses on providing GitLab's team with data-driven product insights t
 The Senior Backend Engineer for Product Intelligence extends the Senior Backend Engineer requirements with the following additional nice to have requirements. 
 
 ##### Nice to have
-* Proven database development experience
-* DevOps experience working with and configuring infrastructure
-* Frontend experience including HTML, CSS, and JavaScript frameworks (Vue.js preferred)
+* Proven database development experience.
+* DevOps experience working with and configuring infrastructure.
+* Experience with Snowlow, dbt, or other related data engineering tools.
+* Frontend experience including HTML, CSS, and JavaScript frameworks (Vue.js preferred).
 
 #### Responsibilities
-
-#### Nice to haves
-
+* Build tooling to collect metrics from GitLab.com and self managed instances.
+* Work closely with GitLab's Data team to analyse data pipelines.
+* Build automations to ensure the quality of our collected metrics.
+* Build monitoring to ensure the reliability of our data pipelines.
 
 ### Engineering Productivity
 Engineering Productivity Engineers are full-stack engineers primarily tasked with improving the productivity of the GitLab developers (from both GitLab Inc and the rest of the community), and making the GitLab project maintainable in the long-term.
