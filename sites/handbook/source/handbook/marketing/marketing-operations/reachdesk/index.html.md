@@ -94,3 +94,6 @@ Please use this (Mural TO BE CREATED) to determine your setup.
 
 ### Marketo Campaigns
 1. Directions TBD
+
+### Data Requests and Deletions
+Even though Reachdesk stores PII in lieu of GitLab, it is still GitLab's responsibility to follow protocol with personal data and deletion requests. Upon receiving one of these requests through our normal channels, Reachdesk will need to be emailed at `gdpr@reachdesk.com` to check for PII and or delete that data, where applicable. 
