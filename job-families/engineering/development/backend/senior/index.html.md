@@ -195,7 +195,7 @@ Growth Engineers work with a cross-functional team to influence the growth of Gi
 * Comfort multitasking in a highly iterative environment.
 
 ### Product Intelligence
-Senior Backend Engineer in the Product Intelligence group play a key role in implementing analytics and data collection tools within the GitLab product in a privacy-focused manner. 
+Senior Backend Engineers in the Product Intelligence group play a key role in implementing analytics and data collection tools within the GitLab product in a privacy-focused manner. 
 The group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. 
 
 #### Requirements
