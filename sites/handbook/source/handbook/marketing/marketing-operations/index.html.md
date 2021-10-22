@@ -32,7 +32,8 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 
 | Person | Role | Focus |
 | ------ | ------ | ------ |
-| [David Brown] | [Director, Marketing Operations](https://about.gitlab.com/job-families/marketing/director-marketing-operations/) | |
+| [Christine Lee](https://gitlab.com/christinelee) | Interim Marketing Ops & Strategy Lead| |
+| [David Brown](https://gitlab.com/davidbrown1) | [Director, Marketing Operations](https://about.gitlab.com/job-families/marketing/director-marketing-operations/) | |
 | [Amy Waller](https://gitlab.com/amy.waller) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) | Awareness & Acquisition |
 | [Beth Peterson](https://gitlab.com/bethpeterson) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) | Conversion & Retention |
 | [Nikki Roth](https://gitlab.com/nikkiroth) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | Campaigns, Content |
