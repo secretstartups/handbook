@@ -199,7 +199,7 @@ Senior Backend Engineers in the Product Intelligence group play a key role in im
 The group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. 
 
 #### Requirements
-The Senior Backend Engineer for Product Intelligence extends the Senior Backend Engineer requirements with the following additional nice to have requirements. 
+The Senior Backend Engineer for Product Intelligence extends the Senior Backend Engineer requirements with these additional requirements and responsibilities. 
 
 ##### Nice to have
 * Proven database development experience.
