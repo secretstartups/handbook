@@ -160,7 +160,10 @@ Priority is tied to severity in the following manner:
 ### Blocked tests
 
 End-to-end tests that don't run lead to blind spots that can cause unforeseen availability issues.
-If the test was important enough to add, we must ensure coverage is stable and active.
+We must ensure coverage is stable and active by quickly resolving issues that cause quarantined end-to-end tests.
+
+#### Blocked tests prioritization
+
 Priority is tied to severity in the following manner:
 
 | Type of test blocked | Bug severity | Allowed priorities | **Not-allowed priorities** |
