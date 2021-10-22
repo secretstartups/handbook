@@ -55,7 +55,8 @@ After you sign your offer and complete your background check and references, you
 {: #tanuki-purple}  
 
 1. Take your time! There is a lot to go through, and you may feel like you have to get to everything each day. If you do great! If not, that's great too.    
- - The entire onboarding issue is self-paced however, anything marked with a big red dot - 🔴 - should be completed with importance on the assigned day it is under.
+ - The entire onboarding issue is [self-paced and self-learning](https://about.gitlab.com/handbook/values/#self-service-and-self-learning) however, anything marked with a big red dot - 🔴 - should be completed with importance on the assigned day it is under.
+1. As an all remote company, it is important to remember that we all work in different time zones, [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/#remind-people-that-async-is-more-inclusive) is key to ensure that everyone is included. Don't feel like you need to stay up late at night or early morning to keep up with your fellow team members, this is where we pride oursleves on [our async way](https://about.gitlab.com/company/culture/all-remote/asynchronous/).
 1. You are going to be overwhelmed when looking at your onboarding issue. This feeling is completely normal. But remember that your manager, onboarding buddy, assigned People Experience Associate, and the entire company are here to help you if you need it. 
     - Two of the best Slack channels to get yourself into to ask questions are `#it-help` and `#people-connect`
 1. There is a lot of Handbook content in this issue, that can at times require quite a bit of reading. Consider enabling one of the following tools which will help converting text into speech:
