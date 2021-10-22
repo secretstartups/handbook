@@ -93,6 +93,26 @@ Lead to Lead and Contact to Contact deduplication is currently being managed by 
 
 Just as Lead to Lead and Contact to Contact deduplication, Lead to Contact Deduplication sits with Marketing Ops and is the final deduplication phase. As the naming implies this will make sure we have no duplicates between both objects (leads and contacts). This phase is to be finalised by end of Q3. 
 
-## Current Process
+## Current Process & Order of Operations
 
-The current process is currently being ironed out and will be detailed here once completed. 
+Deduplication and cleaning up a CRM database requires some thought on the processes needed to be successful.  It will depend a lot on what our urgent problems are and our final goals. Below you will see the best practices, using Salesforce as the example, recommendations which Ringlead customers can use to help achieve their goal of clean, efficient and usable data by starting with their main object. Your main object is your ultimate parent (Accounts frequently in Salesforce as an example). That object should be cleaned first of duplicates then move down to the next level and so on. Please see below for our basic Salesforce Recommendations. 
+
+Finding and merging duplicate records is easy with RingLead DMS while preventing valuable data from being lost. When merging duplicates, Surviving Field Value Rules can be set for each field resulting in the chosen Master record having the best, most recent and most valuable data. Since you will have complete, precise control over the values that survive in the Master, you can safely merge large numbers of duplicate record groups automatically.
+
+Marketing Operations and Sales Operations both work with the tool in order to deduplicate the existing leads, contacts, accounts as well as any other custom objects that need deduplication. 
+
+Leads and Contacts objects are being worked by Marketing Operations while the Account object, by Sales Operations. 
+
+Increasing the database cleanliness through deduplication is important and there are good ways and bad ways to do it. Organizations need to make sure they follow the correct order of operations in order to achieve this goal. In the current process, MOps and SOps are using the Ringlead's guidance for proper deduplication of our database. 
+
+Recommended order of operations: 
+
+1. Lead Deduplication
+2. Account Deduplication
+3. Converting Leads to New Contacts
+4. Contact Deduplication
+5. Lead to Contact Deduplication
+6. Deduplication of Custom Objects (Bizible Person IDs). 
+
+
+
