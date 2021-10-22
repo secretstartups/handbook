@@ -204,7 +204,7 @@ The Senior Backend Engineer for Product Intelligence extends the Senior Backend 
 ##### Nice to have
 * Proven database development experience
 * DevOps experience working with and configuring infrastructure
-* Frontend / fullstack experience including html, css, javascript, and javascript frameworks (Vue.js preferred)
+* Frontend experience including HTML, CSS, and JavaScript frameworks (Vue.js preferred)
 
 #### Responsibilities
 
