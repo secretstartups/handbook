@@ -70,10 +70,14 @@ In the above case, we can use this approach to pull the data and load it to the 
 
 Below is the step to be followed for the same. 
 
-Step 1:- Connect to Kubernetes pod
- `kubectl exec -ti <pod_name> -c <webserver|scheduler> /bin/bash`.
- In our current setup 
+Step 1:- Connect to Kubernetes pod:<br>
+ `kubectl exec -ti <pod_name> -c <webserver|scheduler> /bin/bash`.<br>
+
+ In our current setup: <br>
  `kubectl exec -ti airflow-deployment-7484d899c6-tfm8v -c scheduler /bin/bash` 
+
+As gcp client changed some things from time to time, you might encounter the following error: `Unable to connect to the server: x509: certificate signed by unknown authority`. To resolve this, run the following command:<br>
+`gcloud container clusters get-credentials data-ops --zone us-west1-a --project gitlab-analysis` 
 
 Step 2:- Established connection to Postgres using python library. This is required to go through the Kubernetes pod because we don't have access to Postgres directly. The table for which the data has to be extracted picks up the query from the respective manifest file. Below is the step to execute the query and fetch the output in the csv file. In this example, it is being done for table `experiment_subjects`
 ```
