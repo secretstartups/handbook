@@ -97,22 +97,29 @@ to assess all the team members that are within your People Business Partner (PBP
 
 1. Log in to the tool via [this link](https://assessment.gitlab.net/users/sign_in) 
 1. Click `Start a new round` in the top right corner
-1. Select the Department you want to start the Assessment round for from the dropdown menu
+1. Select a Functional Assessment round (for the whole department) or Leadership Assessment round (for when a Leader operates cross-functional) 
+1. Select the Department or Leader 
 1. Enter the start and end date of the Assessment round. The handbook provides a period [ranging between 4-6 weeks](/handbook/people-group/performance-assessments-and-succession-planning/#matrix-assessment-timeline) for the full assessment process. 
-1. Determine if you want to `Enable Succession planning` and/or `Enable Promotion planning`. This function will allow you and your managers to add `Emergency contact` status `Successor timeline` as well as `Promotion readiness`. The general recommendation is to enable [both](/handbook/people-group/performance-assessments-and-succession-planning/#succession-planning), as it is not possible to turn this feature on after the assessment period has started. 
-1. Determine the `Cut off date`. _Note: This is only needed if you want to exclude team members with a hire date after the determined cut-off date. For example, to exclude team members hired after October 31st in the review cycle for Q4, October 31st would be the "cut off date".
+1. Determine if you want to `Enable Succession planning` and/or `Enable Promotion planning`. This function will allow you and your managers to add `Emergency contact` status, `Successor timeline` as well as `Promotion readiness`. It is not possible to turn this feature on after the assessment period has started. 
+1. Determine the `Cut off date`. _Note: This is only needed if you want to exclude team members with a hire date after the determined cut-off date. For example, to exclude team members hired after October 31st in the review cycle for Q4, October 31st would be the "cut off date"._
+1. If the Department or Leader has used the tool before it is possible to load that previous round by checking the box for `Load Assessments from Previous Round`
 1. Click `Create Assessment Round` when all details are filled in. 
 1. The review round for the department has now been created and managers can sign in within the tool and perform their assessments. Their assessments would only be saved if they click the `Save` button. 
 
 ##### Steps For PBPs to move to review stage used for calibration sessions
 1. Log in to the tool via [this link](https://assessment.gitlab.net/users/sign_in) 
 1. Click `Dashboard` in the top right corner. 
-1. Click `Overview` for any of the departments you would want to be reviewing. 
-1. Click on the `Move to Review` button to move the department to review. 
+1. Click `Active Rounds` for any of the departments you would want to be reviewing. 
+1. Click on `Details` to review the details of the round. 
+1. In this view you are able to view progress of the assessment round, distributions, completion as well as what actions you can take. 
+1. Click on the `Move to Review` button on the right top to move the department to review. 
 1. Depending on the participants in the Live review session you can select team members who will not be shown in the review session. This can be helpful if someone is joining the review session (a manager for example) but has also been reviewed by the next level leader. 
 1. When ticking the box - the team member wil not be shown in the box overview. 
+1. During the calibration session you can click `Open review mode` to show the placements and discuss. 
 1. If during the calibration session team members move box, it's important to `Save` any changes in placements by clicking the `Save` button. 
-1. After the live calibration session, as a PBP, you can analyse results and click `Finalize` when all managers/leaders are on board with the placements. The `Finalize` button confirms the assessments.
+1. On the bottom of the page you can see the distribution of the Performance axis live. 
+1. In the dashboard there's also a button to `Edit Round` which allows you as PBP to edit the assessment round. The `Export Data` button will export the results into a Sheet whcih will be downloaded automatically. 
+1. After the live calibration session, as a PBP, you can analyse results and click `Confirm review` when all managers/leaders are on board with the placements. The `Confirm review` button confirms the assessments.
 1. As a final step, in the People Business Partner dashboard, after closing the round, click the `Sync To BambooHR` button to push assessments to BambooHR. Please note that *only* PBPs are able to complete this step.
 
 ##### Steps for PBPs to analyse results after the review session
@@ -129,22 +136,22 @@ to assess all the team members that are within your People Business Partner (PBP
 
 ```mermaid
 graph TD
-    A[2021-10-01 - PBP signs up with the tool]:::PBP -->B[2020-11-01 - PBP kicks off the Assessment period for the department aligned with steps above]
+    A[2021-10-28 - PBP signs up with the tool]:::PBP -->B[2020-11-01 - PBP kicks off the Assessment period for the department aligned with steps above]
     B:::PBP --> C[2021-11-01 - PBP determines start and end data of the assessment]
-    C:::PBP --> D[2021-11-01 - Managers sign up with the tool]
+    C:::PBP --> D[2021-11-01 - Managers can sign up with the tool]
     D:::CLIENT --> E[2021-11-01 - Managers would only be able to see their teams]
     E:::CLIENT --> F{2021-11-XX - Assessment period starts}
     F:::POPS -->|PBP| G[Sets up the calibration meetings]
     F:::CLIENT -->|Managers| H[Start the assessment for their team members]
     G:::PBP --> I[Calibration meeting takes place]
     H:::CLIENT --> I[Calibration meeting takes place]
-    I:::TR --> J[2021-11-29 - Data is extracted into aggregated overview for analysis] 
-    J:::PBP --> K[2021-11-30 - PBP discusses with managers/leadership]
-    K:::CLIENT --> L[2021-11-30 - Performance/Growth reviews are finalised]
-    L:::CLIENT --> M[2021-11-30 - E-Group member/Senior Leadership signs off on the assessments]
-    M:::PBP --> N[2021-11-30 - Approval is obtained via tool or sheets]
-    N:::PBP --> O[2021-12-01 - PBP clicks send to BambooHR]
-    O:::PBP --> P[2021-12-01 - End of Tool cycle]
+    I:::TR --> J[2021-12-03 - Data is extracted into aggregated overview for analysis] 
+    J:::PBP --> K[2021-12-03 - PBP discusses with managers/leadership]
+    K:::CLIENT --> L[2021-12-03 - Performance/Growth reviews are finalised]
+    L:::CLIENT --> M[2021-12-10 - E-Group member/Senior Leadership signs off on the assessments]
+    M:::PBP --> N[2021-12-10 - Approval is obtained via tool or sheets]
+    N:::PBP --> O[2021-12-10 - PBP clicks send to BambooHR]
+    O:::PBP --> P[2021-12-10 - End of Tool cycle]
 
 
 classDef PBP fill:#D8BFD8, stroke: #333
