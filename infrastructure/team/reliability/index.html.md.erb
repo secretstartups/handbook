@@ -191,10 +191,10 @@ The slack channel for that squad is #infra-corrective-actions. Anyone is welcome
 
 The process is as follows:
 1. Choose an open, unrefined "corrective action" issue (ie it does not have a "ca::refined label") in the GitLab Infrastructure Team project. Add the "workflow-infra::Under Review" label, and assign it to yourself. This ensures that other engineers don't pick up the same issue for refinement asynchronously. Issues with the label "ca::triage" or any of "severity::1", "severity::2", "priority::1", "priority::2" should be prioritized for refinement. [This list](https://gitlab.com/groups/gitlab-com/gl-infra/-/issues?scope=all&state=opened&label_name[]=corrective%20action&not[label_name][]=ca%3A%3Arefined) can be a useful place to start.
-1. Read the issue carefully, including any linked incidents, to get context. 
+1. Read the issue carefully, including any linked incidents, to get context.
   1. If there is no linked incident, this issue may be mislabeled. Confirm with the issue creator and if there is no incident related to this issue, remove the "corrective action" label. In this case you are done refining this issue.
 1. Ensure it has a severity label on it - this is the highest severity of linked incident(s).
-1. Ensure it has a priority label on it, indicating the urgency of the issue.
+1. Ensure it has a priority label on it, indicating the urgency of the issue. For guidance on priority level, see the engineering [triage handbook page](https://about.gitlab.com/handbook/engineering/quality/issue-triage/). When in doubt, feel free to ask the issue creator or other relevant engineers for input.
 1. Based on the above, possible actions are:
     1. Cancel the issue by adding the label "workflow-infra::Cancelled" and then closing the issue
         1. Because it is no longer relevant due to other changes in the infrastructure, whether already executed or planned.
@@ -211,6 +211,7 @@ The process is as follows:
         1. Sometimes it becomes clear that a particular corrective action is not an Infrastructure issue. Add a note and move the issue to the appropriate project. If the issue is the responsibility of a stage group, consider adding the `~infradev` label. 
     1. Needs more information
         1. If context is missing or scope is unclear, ping the relevant engineers or managers in the issue to gain clarity so that a determination can be made for one of the above four cases. Sometimes we bring issues we need more input on up for discussion at one of our weekly Reliability Discussion meetings for this purpose.
+    1. Mark the issue as "workflow-infra::Ready" and add the label "ca::refined" to indicate the CA squad has looked at it. This indicates the issue is A. still relevant B. well scoped C. has enough context for the engineer picking up the issue and D. is ready for work.
 1. When refinement is complete and the issue has one of above outcomes, label the issue with "ca::refined" to indicate refinement is completed and remove the "workflow-infra::Under Review" label. Unassign yourself from the issue unless you know you will be the one taking on the work.
 1. Sometimes when refining a series of Corrective Action issues, a pattern may emerge that indicates that perhaps project level work is called for. Feel free to create an issue explaining your findings and bring this to the attention of the current DRI for corrective actions and/or an engineering manager.
 
