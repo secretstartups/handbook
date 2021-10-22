@@ -30,16 +30,11 @@ You can access our internal [URL tagging tool in Google Sheets](https://docs.goo
 
 If you are not sure if a link needs a UTM, please speak with the marketer who is managing your campaign to ensure you are not interrupting the reporting structure they have in place.
 
-UTM construction best practices:
-- lowercase only, not camelcase
-- alphanumeric characters only
-- no spaces
-
 ## UTMs and Sisense dashboards
 {: #utms-sisense .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-UTM parameters are used to facilitate performance tracking in Sisense dashboards, enabling different teams across Marketing Organisation measure how traffic, conversions, and ROI are impacted by marketing efforts. UTMs are essentially building blocks of traffic and conversion attribution and they help:
+UTM parameters are used to facilitate performance tracking in Sisense dashboards, enabling different teams across Marketing measure how traffic, conversions, and ROI are impacted by marketing efforts. UTMs are essentially building blocks of traffic and conversion attribution and they help:
 
    - Identify sources of traffic and their properties
    - Organise incoming traffic into meaningful buckets
@@ -50,6 +45,7 @@ Developing and following a proper strategy to add UTM parameters to the web link
 ## UTM link builder process
 {: #utm-builder .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
+
 
 **[UTM builder googlesheet with formulas](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=1052439774)**
 
@@ -62,7 +58,7 @@ Below are some rules (per [PMG advice](https://gitlab.com/gitlab-com/marketing/d
    - Why: Some platforms are case sensitive and others are not, and it's frankly just an easy thing to mess up when using builders, tools, etc. Some tools will automatically make something lowercase and then it messes something up because it's not the way you were expecting, or vice versa. Is an easy variable to eliminate.
 * No spaces. So, if more than one word, using a hyphen.
    - Why: Spaces can be filled in with other characters when pulling from raw url and is just an easy/messy thing to avoid.
-
+* Alphanumeric characters only
 
 #### utm_medium
 {: #utm-medium .gitlab-purple}
@@ -70,17 +66,18 @@ Below are some rules (per [PMG advice](https://gitlab.com/gitlab-com/marketing/d
 
 **Campaign Medium** covers general buckets like `paidsearch`, `social`, or `sponsorship` 
 
+Values:
+* 
+* 
+* 
+*
+
 #### utm_source
 {: #utm-source .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
 **Campaign Source** names where the link lives. Examples include `ebook`, `twitter`, or `qrcode`
 
-Values:
-* 
-* 
-* 
-* 
 
 #### utm_campaign
 {: #utm-campaign .gitlab-purple}
@@ -108,7 +105,7 @@ See values in [this googlesheet](https://docs.google.com/spreadsheets/d/1QRilUEU
 {: #utm-campaign .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-`utm_budget` indicates which budget is used for campaign promotion. 
+`utm_budget` indicates which budget is used for the campaign promotion. 
 
 * fmm	= Field Marketing
 * dmp	= Digital Marketing
