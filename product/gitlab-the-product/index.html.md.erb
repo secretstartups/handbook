@@ -319,6 +319,29 @@ Pages that are visited often should be prioritized over pages that rarely have a
 However, if page load time approaches 4 seconds or more, they are considered no longer
 usable and should be fixed at the earliest opportunity.
 
+#### Known Product Usage Behaviors
+In this section we document for the benefit of our community our known current product usage behaviors. This helps us ensure that we are aware of not just averages of usage but also  upper bounds. When building new capabilities we will ensure that we accommodate behavior within the range and keep observed upper-bounds in mind when building for scale.
+
+| Metric                            | Average |  Lower Range | Upper Range | Observed Min | Observed Max |
+|:----------------------------------|--------:|-------------:|------------:|-------------:|-------------:|
+| Lines of Code Changed / MR        | | | | | |
+| Pipelines / Project               | | | | | |
+| Projects / Top Level Namespace    | | | | | |
+| Issues / Top Level Namespace      | | | | | |
+| Deployments / Group               | | | | | |
+| Jobs / Pipeline                   | | | | | |
+| Size (GB) / Repository            | | | | | |
+| Size (Lines of Code) / Repository | | | | | |
+| Containers / Registry             | | | | | |
+| Packages / Registry               | | | | | |
+
+#### Product Usage Behavior Definition
+- Average - The average value across all data
+- Lower Range - Two standard deviations below the average
+- Upper Range - Two standard deviations above the average
+- Observed Min - The minimum value observed
+- Observed Max - The maximum value observed
+
 #### Restriction of closed source Javascript
 
 In addition, to meet the [ethical criteria of GNU](https://www.gnu.org/software/repo-criteria-evaluation.html),
