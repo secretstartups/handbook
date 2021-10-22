@@ -600,6 +600,10 @@ When a user returns to/completes a Pathway or Journey after new content is added
 1. Return to the V2 of your Pathway and rename it to the correct title of the Pathway
 1. Make necessary updates to the V2 Pathway quizzes.
 1. This V2 Pathway is now the most up to date version of the Pathway content. Reshare this new V2 Pathway with any related Channels, Groups, or Assignments. 
+1. After resharing the new pathway, include the following line in the description
+
+`As of [YYYY-MM-DD] this pathway has been updated. For any users who were already in progress on this pathway, your completion % may have decreased or you may no longer be able to access some smartcards. Please review any previously completed quizzes in the pathway and ensure they are complete to restore your progress.`
+
 1. Refer to the Reporting section of this admin page to understand how the combination of reports from V1 and V2 Pathways will give a full picture of completion.
 1. If you need to update V2 or versions beyond of a Pathway, follow this same process but replace the version names with `VX` or `version X` where `X` is the correct version number.
 
