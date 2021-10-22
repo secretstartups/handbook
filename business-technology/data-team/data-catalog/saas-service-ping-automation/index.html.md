@@ -141,14 +141,6 @@ Once all of the source metrics are available in Snowflake `RAW.SAAS_USAGE_PING` 
 - [**Redis** based metrics dbt processing](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.instance_redis_metrics)
 - [**Namespace**-level dbt processing](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_namespace)
 
-#### Instance Ping DBT Process Pseudo-code
-
-`coming soon`
-
-#### Namespace Ping DBT Process Pseudo-code
-
-`coming soon`
-
 #### Known Limitations/Improvements
 
 - Namespace-level Redis-source Metrics are not yet available
