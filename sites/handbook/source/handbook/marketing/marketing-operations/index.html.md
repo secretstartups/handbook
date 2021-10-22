@@ -29,10 +29,10 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the Team
 
-Our team is structured as business partners to the rest of marketing. See focus next to the names below:
 
 | Person | Role | Focus |
 | ------ | ------ | ------ |
+| [David Brown] | [Director, Marketing Operations](https://about.gitlab.com/job-families/marketing/director-marketing-operations/) | |
 | [Amy Waller](https://gitlab.com/amy.waller) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) | Awareness & Acquisition |
 | [Beth Peterson](https://gitlab.com/bethpeterson) | [Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) | Conversion & Retention |
 | [Nikki Roth](https://gitlab.com/nikkiroth) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | Campaigns, Content |
@@ -250,6 +250,7 @@ Integrated with Salesforce
 </summary>
 
 - [Bizible](/handbook/marketing/marketing-operations/bizible/)
+- [Conversica](/handbook/marketing/marketing-operations/conversica/)
 - [Demandbase](/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/)
 - [Drift](/handbook/marketing/marketing-operations/drift)
 - [LeanData](/handbook/marketing/marketing-operations/leandata)
@@ -394,7 +395,7 @@ Status in the table below means:
 | Trial - Enterprise | trial | In-product or web request for self-hosted Enterprise license | Active |
 | Trial - GitLab.com | trial | In-product SaaS trial request | Active |
 | Web | inbound |  | Active |
-| Web Chat | inbound | Engaged with us through website chat bot | Active |
+| Web Chat | inbound | Engaged with us through website chat bot | Inactive |
 | Consultancy Request | inbound |  | Active |
 | Drift | inbound |  | Active |
 | Request - Community | inbound |  | Active |
@@ -402,19 +403,19 @@ Status in the table below means:
 | Startup Application | inbound |  | Active |
 | Other | Other |  | Active |
 | AE Generated | outbound | Sourced by an Account Executive through networking or professional groups | Active |
-| Clearbit | outbound |  | Active |
-| Datanyze | outbound |  | Active |
-| DiscoverOrg | outbound |  | Active |
-| Leadware | outbound | Sourced by an SDR through networking or professional groups | Active |
+| Clearbit | outbound |  | Inactive |
+| Datanyze | outbound |  | Inactive |
+| DiscoverOrg | outbound |  | Inactive |
+| Leadware | outbound | Sourced by an SDR through networking or professional groups | Inactive |
 | LinkedIn | outbound |  | Active |
 | Prospecting | outbound |  | Active |
 | Prospecting - General | outbound |  | Active |
-| Prospecting - LeadIQ | outbound |  | Active |
+| Prospecting - LeadIQ | outbound |  | Inactive |
 | SDR Generated | outbound | Sourced by an SDR through networking or professional groups | Active |
 | Zoominfo | outbound |  | Active |
 | Advertisement | paid demand gen |  | Active |
 | Conference | paid demand gen | Stopped by our booth or received through event sponsorship | Active |
-| Field Event | paid demand gen | Paid events we do not own but are active participant (Meetups, Breakfasts, Roadshows) | Active |
+| Field Event | paid demand gen | Paid events we do not own but are active participant (Meetups, Breakfasts, Roadshows) | Inactive |
 | Owned Event | paid demand gen | Events that are created, owned, run by GitLab | Active |
 | Promotion | paid demand gen |  | Active |
 | Virtual Sponsorship | paid demand gen |  | Active |
