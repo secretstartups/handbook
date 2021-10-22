@@ -1276,13 +1276,13 @@ Note: If an exception is granted and the PO is not received within 10 days, on t
 
 ### Opportunity Approval Process
 
-When you have reviewed [all opportunity requirements](/handbook/business-ops/order-processing/#my-customer-signed-the-order-form-now-what) and have a **signed order form from** the customer, you are ready to submit the opportunity for approval.
+When you have reviewed [all opportunity requirements](/handbook/business-ops/order-processing/#my-customer-signed-the-order-form-now-what) and have met all necessary booking requirements, please submit the opportunity for approval.
 
 1.  **To submit the opportunity for approval and closure, the Sales Rep should click on the “Submit for Approval” button on the opportunity level.**
     *  The opportunity page will then display “edit” mode. Click Save.
 1. At this time, no further action is required from the Account Team. You will be notified by the Deal Desk team if further information is needed or if the opp is missing required information.
 
-**NOTE** - Orders will be processed as long as the Start Date is within 60 calendar days from date of submission. If the Start Date is more than 60 days out, Deal Desk will hold the opportunity until the 60 day window. If the opportunity must be booked due to customer budget constraints, chatter Sales-support on the opportunity.
+**NOTE** - Orders will be processed as long as the Quote Start Date is within 15 calendar days from date of submission. If the Quote Start Date is more than 15 days out, Deal Desk will approve and update the close date to the earliest date that the opportunity can be booked. Only on or after that date will the Billing team review the opportunity for final booking. For more information, review the [FY22 Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#fy22-bookings-policy).
 
 #### What happens when you Submit an Opportunity for approval?
 
