@@ -127,7 +127,10 @@ In some cases, we may choose not to post to status.io, the following are example
     1. If the Incident Manager is unable to obtain a response through Slack channels, they should escalate to a manager or director to obtain assistance.
 1. They evaluate information provided by team members, provide direction as necessary or when requested, and coordinate to ensure all Team Members necessary to restore service are engaged.
 1. If applicable, coordinate the incident response with [business contingency activities](/handbook/business-ops/gitlab-business-continuity-plan/).
-1. In the event of a Severity 1 incident which has been running for an hour or more or appears that it will be a long-running Severity 1 incident, page Infrastructure leadership via email at `severity-1@gitlab.pagerduty.com` or via the `GitLab Production - Severity 1 Escalation` service in PagerDuty (app or website) with a link to the incident.
+1. In the event of a Severity 1 incident which has been running for an hour or more or appears that it will be a long-running Severity 1 incident, notify Infrastructure leadership via PagerDuty or directly through their Slack profile contact information.  This notification should occur 24/7 and include the following individuals:
+    1. Director of Reliability Engineering - TBH
+    1. Director of Infrastructure Platform - Marin Jankovski
+    1. VP of Infrastructure - Steve Loyd 
 1. After the incident is resolved, the Incident Manager is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review/).
 1. For high severity bugs that affect customers, the Incident Manager is responsible for making sure Incident Reviews are coordinated with other departments in Engineering and go through the complete Incident Review process.
 1. When engaged in an active incident near the end of an Incident Manager shift, the current Incident Manager owns the decision as to whether to continue in their role or to transition the active incident to the incoming Incident Manager. In most cases, this transition should be the expected default behavior. 
