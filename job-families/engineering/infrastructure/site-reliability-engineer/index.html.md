@@ -93,7 +93,8 @@ into other engineering groups within the company, as well as to GitLab customers
 The Site Reliability Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Technical:
-1. General knowledge of the 4 of the areas of technical expertise with deep knowledge in 1 area
+1. General knowledge of 4 of the areas of technical expertise with deep knowledge in 1 area
+1. Working knowledge of GitLab Product, including deeper knowledge of groups which may be part of stable counterpart assignments
 
 Execution:
 1. Provides emergency response either by being on-call or by reacting to symptoms according to monitoring and escalation when needed
@@ -104,6 +105,7 @@ Execution:
 
 Collaboration and Communication:
 1. Improves documentation all around, either in application documentation, or in runbooks, explaining the why, not stopping with the what.
+1. Act as a reliability champion within the product group and help train others in reliability best practices.
 
 Influence and Maturity
 1. Shares the learnings publicly, either by creating issues that provide context for anyone to understand it or by writing blog posts.
@@ -119,23 +121,27 @@ Are experienced Site Reliability Engineers who meet the following criteria
 
 Technical:
 1. Deep knowledge in 2 areas of expertise and general knowledge of all areas of expertise. Capable of mentoring Interns and Intermediate SREs in all areas and other SRE in their area of deep knowledge.
-1. Contributes small improvements to the GitLab codebase to resolve issues
+1. Working knowledge of GitLab Product, including deep knowledge of groups which may be part of stable counterpart assignments.
+1. Contributes small improvements to the GitLab codebase to resolve issues, especially within specific stable counterpart assignments.
 
 Execution:
-1. Identifies significant projects that result in substantial cost savings or revenue
+1. Identifies significant projects that result in substantial cost savings or revenue.
 1. Identifies changes for the product architecture from the reliability, performance and availability perspective with a data driven approach.
+1. Influences the product roadmap and works with engineering and product counterparts to influence improved resiliency and reliability of the Gitlab product.
 1. Proactively work on the efficiency and capacity planning to set clear requirements and reduce the system resources usage to make GitLab cheaper to run for all our customers.
 1. Identify parts of the system that do not scale, provides immediate palliative measures and drives long term resolution of these incidents.
 1. Identify Service Level Indicators (SLIs) that will align the team to meet the availability and latency objectives.
 
 Collaboration and Communication:
-1. Know a domain really well and radiate that knowledge through recorded demos, discussions in [DNA](/handbook/engineering/infrastructure/#design-and-automation-dna) meetings, or [Incident Reviews](/handbook/engineering/infrastructure/incident-review/)
+1. Know a domain really well and radiate that knowledge through recorded demos, discussions in [DNA](/handbook/engineering/infrastructure/#design-and-automation-dna) meetings, or [Incident Reviews](/handbook/engineering/infrastructure/incident-review/).
 1. Perform and run blameless RCAs on incidents and outages aggressively looking for answers that will prevent the incident from ever happening again.
+1. Act as a reliability champion within the product group and help train others in reliability best practices.
+1. Lead the team in performing incident reviews, root cause analyses, and production readiness reviews.
 
 Influence and Maturity:
 1. Set an example for team of SREs with positive and inclusive leadership and discussion on work.
 1. Show ownership of a major part of the infrastructure.
-1. Trusted to de-escalate conflicts inside the team
+1. Trusted to de-escalate conflicts inside the team.
 
 ### Staff Site Reliability Engineer
 
@@ -149,16 +155,19 @@ Technical:
 1. Able to create innovative solutions that push GitLab's technical abilities ahead of the curve
 1. Deep knowledge of GitLab and 4 areas of expertise. Knowledge of each area of expertise enough to mentor and guide other team members in those areas.
 1. Contributes to GitLab codebase to resolve issues and add new functionality
+1. Collaborates with stable counterpart teams to contribute to future architecture and influence roadmap.
 
 Execution:
 1. Strives for automation either by coding it or by leading and influencing developers to build systems that are easy to run in production.
 1. Measure the risk of introduced features to plan ahead and improve the infrastructure.
-1. Proposes and drives architectural changes that affect the whole company to solve scaling and performance problems
-1. Leads significant project work for OKR level goals for the team
+1. Proposes and drives architectural changes that affect the whole company to solve scaling and performance problems.
+1. Directly participates in contributing to and influencing the future direction of stable counterpart groups towards a more resilient and reliable GitLab product.
+1. Leads significant project work for OKR level goals for the team.
 
 Communication and Collaboration:
-1. Works with engineers across the whole company influencing design to create features that will work well with SaaS and self hosted platforms
-1. Runs RCAs and epic level planning meetings to get meaningful work scheduled into the plan
+1. Works with engineers across the whole company influencing design to create features that will work well with SaaS and self hosted platforms.
+1. Runs RCAs and epic level planning meetings to get meaningful work scheduled into the plan.
+1. Lead the organization in identifying trends, drawing conclusion from problems we face, and establishing the actions needed to resolve these issues within forums such as engineering allocations.
 
 Influence and Maturity:
 1. Writes in-depth documentation that shares knowledge and radiates GitLab technical strengths
@@ -207,23 +216,6 @@ SRE's with Environment Automation specialization primarily focus on provisioning
 1. Ensure systems exist to manage software life-cycles (e.g. Operating Systems) with a minimum of manual effort.
 1. Develop a fully automated multi-environment observability stack based on the existing SaaS system, and extend it to predict capacity needs based on the usage patterns.
 1. Plan for new service roll-outs, expansion and capacity management of existing services, and work with users to optimise their resource consumption.
-
-
-### Stage Group
-
-SRE's with Stage Group specialization act as stable counterparts to GitLab product groups, helping improve reliability, observability and automation practices within those groups.
-
-#### Responsibilities
-
-1. Have working knowledge of the group you are assigned.
-1. Collaborate with members of the product group to establish strong operational readiness.
-1. Act as a reliability champion within the product group and help train others in reliability best practices.
-1. Identify architectural bottlenecks and work with stable counterparts and other stakeholders to address them.
-1. Improve observability into SaaS performance at the product group level.
-1. Lead the team in performing incident reviews, root cause analyses, and production readiness reviews.
-1. Work with engineering and product manager stable counterparts to identify and prioritize reliability work appropriately.
-1. Collaborate with product group members to develop automation and improve operational management capabilities.
-
 
 ## Career Ladder
 
