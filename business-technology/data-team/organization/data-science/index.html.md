@@ -44,11 +44,11 @@ The team accomplishes this mission by building machine learning models and analy
 ### Data Science roadmap - executive summary
 
 
-|  **Timeline** | **Deliverable** | **Value** | **Stakeholders** | Expected Outcome |
+|  **Timeline** | **Deliverable** | **Value** | **Stakeholders** | **Expected Outcome** |
 | :--------------- | :----------------- | :-------------- | :-------------- | :-------------- |
-| FY-22 Q3 / Iterative | [Propensity to Expand (PtE)](https://gitlab.com/gitlab-data/propensity-to-expand) | Enables sales team to capture opportunities to  increase ARR | Sales Team (Jake Bielecki) | TBD |
+| FY-22 Q3 / Iterative | [Propensity to Expand (PtE)](https://gitlab.com/gitlab-data/propensity-to-expand) | Enables sales team to capture opportunities that increase ARR | Sales Team (Jake Bielecki) | TBD |
 | FY-22 Q4 / Iterative | [Propensity to Contract (PtC)](https://gitlab.com/gitlab-data/propensity-to-contract) | Enables sales team to prevent reduction of ARR | Sales Team (Jake Bielecki) | TBD |
-| FY-23 Q1 / Iterative | [User Segmentation (US)](https://gitlab.com/gitlab-data/user-segmentation) | Enables sales and marketing team efficient territory planning (+ others) | Product Team (Hila Qu) | TBD |
+| FY-23 Q1 / Iterative | [User Segmentation (US)](https://gitlab.com/gitlab-data/user-segmentation) | Determines profiles of customers | Product Team (Hila Qu) | TBD |
 
 
 # Data Science responsibilities 
