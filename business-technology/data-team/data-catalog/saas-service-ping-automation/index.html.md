@@ -68,9 +68,9 @@ In total, there are 4 types of Service Ping either in production or development:
 
 ### Process Overview
 
-**(Automated) SaaS Service Ping** is a collection of [python programs](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping.py) and dbt processes orchestrated with Airflow and scheduled to run weekly within the Enterprise Data Platform. The [Automated SaaS Service Ping Project](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) stores all source code and configuration files. The program relies on two primary data sources: redis counters and SQL-Based postgres tables. Both sources are implemented as automated data pipelines into Snowflake, intended to run independently of the SaaS Service Ping implementation process.
-* SQL-Based postgres data from SaaS is synced via [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) and made available in RAW
-* Redis data is accessed at program runtime and also stored in RAW
+**(Automated) SaaS Service Ping** is a collection of [python programs](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping.py) and dbt processes orchestrated with Airflow and scheduled to run weekly within the Enterprise Data Platform. The [Automated SaaS Service Ping Project](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) stores all source code and configuration files. The program relies on two primary data sources: Redis based counters and SQL-Based postgres tables. Both sources are implemented as automated data pipelines into Snowflake, intended to run independently of the SaaS Service Ping implementation process.
+* SQL-Based postgres data from SaaS is synced via [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) and made available in the `RAW.SAAS_USAGE_PING` schema
+* Redis data is accessed at program runtime and also stored in the `RAW.SAAS_USAGE_PING` schema
 
 Automated SaaS Service Ping consists of two major data processing phases.
 1. **Phase 1** is gathering and genterating the metrics as defined in the [Metric Dictionary](https://gitlab-org.gitlab.io/growth/product-intelligence/metric-dictionary/)
@@ -82,6 +82,8 @@ Automated SaaS Service Ping consists of two major data processing phases.
 
 SaaS Instance Service Ping runs as described in the Process Overview.
 
+##### Instance SQL-based data flow
+
 ```mermaid
 graph LR
 subgraph Postgres SQL-sourced Instance Level Metrics
@@ -91,6 +93,10 @@ D --> E[4: Store metrics results in Snowflake RAW INSTANCE_SQL_METRICS]
 D --> F[5: ON ERROR store error information in Snowflake RAW INSTANCE_SQL_ERRORS]
 end
 ```
+
+One important thing to highlight here is that SQL-based queries are transformed from `Postgres` to `Snowflake` syntax. That process is done in the file [transform_instance_level_queries_to_snowsql.py](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/transform_instance_level_queries_to_snowsql.py). For more details, check [Service pinge README.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md) file
+
+##### Redis based data flow
 
 ```mermaid
 graph LR
