@@ -45,9 +45,9 @@ Our contractor agreements and employment contracts are all on the [Contracts](/h
 
 GitLab will [pay for the items you need to get your job done](/handbook/spending-company-money).
 
-## Stock Options
+## Equity Compensation
 
-[Stock options](/handbook/stock-options/) are offered to most GitLab team members. We strongly believe in team member ownership in our Company. We are in business to create value for our shareholders and we want our team members to benefit from that shared success.
+[Equity Compensation](/handbook/stock-options/) is offered to most GitLab team members. We strongly believe in team member ownership in our Company. We are in business to create value for our shareholders and we want our team members to benefit from that shared success.
 
 ## Life Insurance
 
