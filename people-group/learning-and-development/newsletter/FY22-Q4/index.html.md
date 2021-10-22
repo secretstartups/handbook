@@ -9,8 +9,8 @@ You can find more information on the [structure and process](/handbook/people-gr
 
 ## Recap of Q3
 
-* [Crucial Conversations Cohort 2](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#crucial-conversations) 
-* [FY22-Q3 Mental Health Newsletter](https://about.gitlab.com/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/) 
+* [Crucial Conversations Cohort 2](/handbook/people-group/learning-and-development/learning-initiatives/#crucial-conversations) 
+* [FY22-Q3 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/) 
 
 ## Upcoming in Q4
 
@@ -19,7 +19,7 @@ You can find more information on the [structure and process](/handbook/people-gr
 
 ## Learning Spotlight 
 
-Crucial Conversations is a great way to kickstart your learning! 
+[Crucial Conversations](/handbook/leadership/crucial-conversations/) is a great way to kickstart your learning! 
 
 If you are interested in participating in Crucial Conversations in the future, please fill out [this form](). If you would like your team to go through the trianing together, please reach out to our team in the `#learninganddevelopment` Slack Channel. 
 
