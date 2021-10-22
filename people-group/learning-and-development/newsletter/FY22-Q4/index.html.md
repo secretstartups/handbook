@@ -41,12 +41,16 @@ If you are interested in participating in Crucial Conversations in the future, p
 
 ## Learning Tips 
 
-* Set aside 2 hours per week to work on personal development
-* {add a bulleted list}
+If you aren't sure where to start with learning, try out **LinkedIn Learning**. You can go to the website and search by skill or interest and it will bring up all related courses. 
 
-## Other Enablement Initiatives
+Some recommendations of where to find LinkedIn Learning courses: 
 
-* {add a bulleted list}
+* [Skill of the Month Channel](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) has a variety of different LinkedIn Learning courses broken up by topic 
+* [Recommended LinkedIn Learning Courses](https://gitlab.edcast.com/channel/recommended-linkedin-learning-courses) Channel has courses your GitLab team members have taken and also top LinkedIn Learning courses in 2021 
+* Take a look at what we did for our [Career Development Skill of the Month](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#skill-of-the-month) 
+* The [LinkedIn Learning website](https://www.linkedin.com/learning/) to search for any courses that you may be interested in
+
+Once you have taken a course, feel free to share it with your peers or in a slack channel with other GitLab Team Members! 
 
 ## Discussion 
 
