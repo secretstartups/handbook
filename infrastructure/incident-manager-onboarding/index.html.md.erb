@@ -52,7 +52,15 @@ If you have a standing commitment which is longer or does not allow for the info
 Three day shifts mean that, at the most, a Team Member participating in Incident Manager will have shifts every 12 days (assuming minimum 4 person pool). Each additional Team Members added to the pool in your region extends this timing by 3 days. The more Team Members involved, the less often any individual will have shifts. 
 
 #### Can I shift my Incident Manager On Call days around?
-Yes, this is one of the other benefits of having a well staffed pool of Team Members engaged as Incident Managers. Shift "trades" are easy to arrange in Pagerduty. It is your responsibility to ensure that your assigned shift is covered, but in extraordinary circumstances please reach out to the VP of Infrastructure for assistance.
+Yes, this is one of the other benefits of having a well staffed pool of Team Members engaged as Incident Managers. Shift "trades" are easy to arrange in Pagerduty. It is your responsibility to ensure that your assigned shift is covered, but in extraordinary circumstances please reach out to the VP of Infrastructure for assistance.  Swapping shifts is totally fine.  Getting someone to cover for you for either planned vacation or a sudden/urgent familty matter is something we should all do for each other.  
+
+What to do for covering a shift or asking for coverage:
+1.  Post to the #imoc_general channel asking for help.  Make sure to @mention people or @here if you are in an urgent situation.  Let people know the days and times you will need help covering things.
+2.  Get the override scheduled in PagerDuty.  Either person, the person asking or taking, can put in the override.  
+
+Example 1, Scheduling yourself: Go to https://gitlab.pagerduty.com/my-on-call/week and click the shift for which you need an override.  You should get a pop up which will let you pick the person covering you and the hours, which usually default to your whole shift.
+Example 2, Covering for someone.  Go to the [schedule in PagerDuty](https://gitlab.pagerduty.com/schedules#P2SF64D) and pick the shift and person you will override.  You should get a pop up where you can pick yourself and the times for the override.
+
 
 #### How does someone onboard into the Incident Manager rotation? 
 Create an Incident Manager onboarding issue via [this link](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=imoc_onboarding).
@@ -66,5 +74,4 @@ A **Limited User** is sufficient to be an Incident Manager.
 
 ## Learning about Incident Management 
 We have a detailed handbook page that covers how we do [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) at GitLab.
-
 
