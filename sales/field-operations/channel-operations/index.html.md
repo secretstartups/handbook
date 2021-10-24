@@ -120,7 +120,24 @@ PUB-SEC
 For a global view of current and next fiscal quarter channel renewals, [click here](https://gitlab.my.salesforce.com/00O4M000004aWY3).
 _All required team reporting is included above. In the event you need a special report, please [open an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues) on the Channel Operations Board._
 _For the reporting training video hosted by the Channel Operations team, as well as quick reference “cheats” to help with your Salesforce reporting, [click here](https://docs.google.com/document/d/1F1O3BUX80SJIqaFD9TF2RuyZ7DXB865AuiwaGctHnGo/edit?usp=sharing)._
- 
+
+## Communicating with the Channel Teams via Slack
+
+There are a number of different slack channels to serve the different needs of the organization. Below is a list of the most common channels, as well as their uses, intended audience, and posting permissions. Please refer to this list often to ensure you’re posting information and asking questions to the appropriate channel. 
+
+| Slack Channel | Description | Topic | Audience | Posting Permissions |
+| ------ | ------ | ------ | ------ | ------ |
+| channel-fyi | Updates to the Channel & Sales teams on Channel program, operations, enablement and marketing. Questions from team members should be posted on the #channel-programs-ops or #channel-sales | _blank_ | any | Channel Operations, Channel Programs, Michelle Hodges, Nima Badiey
+| channel-program-ops | Questions and comments about channel programs and operations | https://about.gitlab.com/handbook/resellers/ and https://about.gitlab.com/handbook/sales/field-operations/channel-operations/ | any | any |
+| channel-sales |  Questions and comments about opportunities, partner connections, field engagement, and other channel sales questions | _blank_ | any | any |
+| channels-emea | A channel for the EMEA channels team and stakeholders to collaborate | Team coverage: Matthew: France, Russia, Spain, MEA; Ilaria: DACH, Poland, Italy, Cze; Kevin: UK, I, Nordics, BeneLux; Bastian: Commercial (Open partners pan EMEA + Amazic); Camille: Partner Support Helpdesk; Adrian: Solutions Architect - pan EMEA | any | any |
+| channels-amer | A channel for the AMER channels team and stakeholders can collaborate | Team coverage: Jennifer Bailey: Canada & US - West; Sergio Cortes: LATAM & US - Central; Shannon Thomas: US - East; Kyle Olsen: AWS; Kasim Ahmad: GCP; Annie Rooke: Director | any | any |
+| pub-sec-channels | A channel for the Pubsec channels team and stakeholders to collaborate |  [Team Coverage](https://docs.google.com/spreadsheets/d/1fCaRgYn0qJ5lT3Qgaq-Vqkw3X6wa53py3Qm7yPYYlA4/edit#gid=0) | any | any |
+| apac_partners | A channel for the APAC channels team and stakeholders can collaborate | _blank_ | any | any |
+| channel-team-announcements* | Updates to channel team members ONLY | https://about.gitlab.com/handbook/resellers/ and https://about.gitlab.com/handbook/sales/field-operations/channel-operations/ | channel and alliance team members ONLY | Channel Operations, Channel Programs, Michelle Hodges, Nima Badiey |
+
+
+
 ## Standard Channel Practices
 For detailed information on GitLab’s Channel Partner Program, visit the [Channel Partner Handbook](https://about.gitlab.com/handbook/resellers/). Partners must be an Authorized GitLab Partner _and have completed one sales certification_ to transact any GitLab products or services. To achieve authorization, partners must have an executed agreement and meet the requirements of the GitLab Partner Program. Only GitLab partners in good standing may sell GitLab products and services unless specifically approved on a case-by-case basis by the GitLab partner program team. Partners must [sign up](https://partners.gitlab.com/) to be authorized. 
  
