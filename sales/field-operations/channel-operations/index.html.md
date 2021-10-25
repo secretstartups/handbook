@@ -134,6 +134,7 @@ There are a number of different slack channels to serve the different needs of t
 | channels-amer | A channel for the AMER channels team and stakeholders can collaborate | Team coverage: Jennifer Bailey: Canada & US - West; Sergio Cortes: LATAM & US - Central; Shannon Thomas: US - East; Kyle Olsen: AWS; Kasim Ahmad: GCP; Annie Rooke: Director | any | any |
 | pub-sec-channels | A channel for the Pubsec channels team and stakeholders to collaborate |  [Team Coverage](https://docs.google.com/spreadsheets/d/1fCaRgYn0qJ5lT3Qgaq-Vqkw3X6wa53py3Qm7yPYYlA4/edit#gid=0) | any | any |
 | apac_partners | A channel for the APAC channels team and stakeholders can collaborate | _blank_ | any | any |
+| channel-services | Questions and comments about channel services program, enablement and field engagement |  | any | any |
 | channel-team-announcements* | Updates to channel team members ONLY | https://about.gitlab.com/handbook/resellers/ and https://about.gitlab.com/handbook/sales/field-operations/channel-operations/ | channel and alliance team members ONLY | Channel Operations, Channel Programs, Michelle Hodges, Nima Badiey |
 
 
