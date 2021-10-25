@@ -934,7 +934,7 @@ prize to. Option to CC the SAL who is tied to the account to allow them visibili
 Normal FM close process: Send follow-up email, gather recap information from the team and close the issue.
 
 ### Canceling / Postponing a Workshop
-There are certain occassions when a workshop needs to urgently be rescheduled due to technical difficulties. These are the directions to follow to send out a bulk notification to registrants about the disruption and reschedule date.
+There are certain occassions when a workshop needs to urgently be rescheduled due to technical difficulties. These are the directions to follow to send out a bulk notification to registrants about the disruption and reschedule date. If you run into any problems, please [open an issue](/handbook/marketing/marketing-operations/#-how-to-get-help) with the Marketing Ops team, or tag the Verticurl team for help. For urgent requests, also include the issue link in the slack channel `#mktgops`.
 
 1. Go to the folder of your program called `z. Cancellation/Reschedule`
 1. In the folder, you will find a pre-configured email program set to send to all registrants (including hosts) as operational (bypassing unsubscribe). Double check the email smart list to make sure it includes your program's name. 
@@ -943,6 +943,8 @@ There are certain occassions when a workshop needs to urgently be rescheduled du
    - {{my.webcastTime}} to the new time
    - {{my.webcastTitle}} make sure is populated
 1. Once you update these tokens, go to the email and click preview. Check to make sure tokens are rending properly and the email says what you want it to. You can also send yourself a sample email.
+   - To send yourself a test. Click on the email > `Email Actions` (top left) > `Send Sample` and add your email address in the large box. You do not need to fill out the top 3 drop downs. The test that comes to you will say `Test` in the subject line. You can also right click the email to send yourself a sample.
+   - If copy does not look right, you can either update the token OR go into the email clicking `edit draft` and updating there.
 1. You must click `Approve` on the email if you made changes, for those changes to take effect.
 1. Click into email program, on control panel set the date/time for send and click Approve in final box.
    -  Do not click recipient time zone or head start
