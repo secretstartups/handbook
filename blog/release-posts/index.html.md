@@ -92,6 +92,9 @@ It's highly recommended that all volunteers shadow the release post prior to the
 
 Product Managers of any level (IC or managers) can volunteer for any release that doesn't have someone assigned yet. While we encourage IC product managers to take advantage of this opportunity to demonstrate their leadership skills, we also value that managers will bring their experience to the role.
 
+
+Before committing to the date of your choice, please be sure you can perform the key tasks between the 15th and the 22nd of the month as defined in the [monthly MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md). If you can not perform any of the release post manager tasks between the 15th and the 22nd of the month, please sign up for a release post that better aligns with your availability. 
+
 To assign yourself as release post manager or release post manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle:
 
 1. Members that never managed a release post before
