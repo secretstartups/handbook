@@ -413,7 +413,7 @@ Status in the table below means:
 | Prospecting - LeadIQ | outbound |  | Inactive |
 | SDR Generated | outbound | Sourced by an SDR through networking or professional groups | Active |
 | Zoominfo | outbound |  | Active |
-| Advertisement | paid demand gen |  | Active |
+| Advertisement | paid demand gen |  | Inactive |
 | Conference | paid demand gen | Stopped by our booth or received through event sponsorship | Active |
 | Field Event | paid demand gen | Paid events we do not own but are active participant (Meetups, Breakfasts, Roadshows) | Inactive |
 | Owned Event | paid demand gen | Events that are created, owned, run by GitLab | Active |
@@ -429,6 +429,7 @@ Status in the table below means:
 | External Referral | referral |  | Active |
 | Webcast | virtual event | Register for any online webcast (not incl `Demo`) | Active |
 | Webinar | virtual event |  | Active |
+| Workshop| virtual event |   | Active|
 | Web Direct | web direct | Created when purchase is made direct through the portal (check for duplicates & merge record if found) | Active |
 | Investor | outbound | Sourced by our investors (i.e. - GV, Khosla, ICONIQ). The `Investor` value is coupled with the `Investor Name` custom field | Active |
 | GitLab DataMart|core| Created by the GitLab Marketing Database data pump. Contains leads from various internal sources|Active|
