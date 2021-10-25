@@ -6,26 +6,54 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab System Admin Basics Hands On Guide- Lab 1
 {:.no_toc}
 
-## LAB 1- GITLAB EE INSTALLATION
+## LAB 1- INSTALL GITLAB EE
 
-The first thing we need to do is install GitLab on a Virtual Machine your instructor has set up for you. You will install your GitLab Instance using your command line.  
+The first thing we need to do is install GitLab on a virtual machine your instructor has set up for you. You will install your GitLab instance using the command line.  
 
-1. To begin lab, navigate to the following GitLab page and keep it open in a separate tab: <https://about.gitlab.com/install/#centos-8>  
-2. On your local machine, open your terminal window and begin by using SSH to get into the training environment.  
-3. Open the Lab Setup Instructions from your instructor to locate the IP addresses assigned to you.  
-4. Type the following into the terminal: $ssh -i training\_pem.pem ec2-user@<public IPv4-system> and press **Enter**. 
-5. If your system displays an authentication warning, type YES and press **Enter**. 
-6. Now that you are in the training area let’s begin the installation. 
-7. Navigate to the page we opened earlier- <https://about.gitlab.com/install/#centos-8> and locate the first step.  
-8. Complete step 1 titled- Install and configure the necessary dependencies  
-9. DO NOT INCLUDE the following code when using this command- the VMs we are using do not use Firewall:  
-    \# Check if opening the firewall is needed with: sudo systemctl status firewalld 
-    sudo firewall-cmd --permanent --add-service=http sudo firewall-cmd --permanent --add-service=https sudo systemctl reload firewalld 
-10. On Step 2- Add the GitLab package repository and install the package; **use the Public IPv4 DNS** assigned to you in the Lab Setup Instructions sent by your instructor when setting up your DNS.  
-*This step may take a few minutes.*  
-11. Once the installation is complete- navigate to the URL and on your first visit, you'll be redirected to a password reset screen. Use the default account's username root to login. 
+1. Navigate to the following GitLab page and keep it open in a separate tab for reference: <https://about.gitlab.com/install/#centos-8>.  
+2. On your local machine, open a terminal window. You will use SSH to access the training environment.  
+3. Open the Lab Setup Instructions provided by the instructor to locate your assigned public IPv4 address.  
+4. Use your assigned IP address and SSH key to log into the traning environment: 
+
+     ```
+   ssh -i training_pem.pem ec2-user@<assigned-public-IP> 
+     ```
+
+   Press <kbd>Enter</kbd>
+5. If your system displays an authentication warning, type `yes` and press <kbd>Enter</kbd> 
+6. Now that you are logged into the training area, let’s begin GitLab installation. Start by installing some necessary dependencies:
+
+     ```
+   sudo dnf install -y curl policycoreutils perl postfix
+     ```
+
+7. Start and enable Postfix so GitLab can send notification emails:
+
+     ```
+   sudo systemctl enable postfix
+   sudo systemctl start postfix
+     ```
+
+8. Add the GitLab install repository: 
+
+     ```
+   curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ee/script.rpm.sh | sudo bash
+     ```
+
+9. Install the GitLab package. Use the training system's assigned public IP address in lieu of FQDN for now.
+
+     ```
+   sudo EXTERNAL_URL="<assigned-public-IP>" dnf install -y gitlab-ee
+     ```
+  *Note: this step may take a few minutes to complete.*
+
+10. Once the installation is complete, a password will be randomly generated and stored for 24 hours in `/etc/gitlab/initial_root_password`. Using a web browser, nagigate to your GitLab instance and use this password with username `root` to login.
+11. Once logged in, in the upper right corner of the GitLab landing page, click your root user avatar, then **Edit Profile**.
+12. In the left navigation pane **User Settings**, click **Password**. 
+13. Reset the root password to a new permanent password of your choosing. This step requires entering the temporary root password used for initial login.
+
 
 ### SUGGESTIONS?
 
-If you wish to make a change to our Hands on Guide for GitLab System Admin Basics- please submit your changes via Merge Request!
+If you’d like to suggest changes to the GitLab System Admin Basics Hands-on Guide, please submit them via merge request.
 
