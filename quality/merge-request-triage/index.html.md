@@ -82,7 +82,7 @@ Community contributions are valuable, and we should handle them as effectively a
 
 ## Triage levels for the www-gitlab-com project
 
-The GitLab Website is owned and managed by a different team than GitLab.org; thus, a further triage process must be defined. 
+The GitLab Website is owned and managed by a different team than GitLab.org; thus, a further triage process must be defined.
 
 ### Initial Triage
 
@@ -127,5 +127,5 @@ Community contributions are valuable, and we should handle them as effectively a
 | [Complete Triage for Merged Merge Requests](#complete-triage-for-merged-merge-requests) | 7 days                                     | Reach out to [Engineering Productivity team][Engineering Productivity team] |
 | [Complete Triage for Idle Merge Requests](#complete-triage-for-idle-merge-requests)    | 7 days                                     | Reach out to the [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/) Manager         |
 
-[GitLab.com]: https://gitlab.com/groups/gitlab-org 
-[Engineering Productivity team]: /handbook/engineering/quality/engineering-productivity-team/
+[GitLab.com]: https://gitlab.com/groups/gitlab-org
+[Engineering Productivity team]: /handbook/engineering/quality/engineering-productivity/
