@@ -106,4 +106,5 @@ If this doesn't solve the issue, reach out to [Gainsight support](#support-ticke
 ### Role Specific Gainsight Usage 
 
 - You can find more information about how Sales uses Gainsight on the [Using Gainsight within Sales](/handbook/sales/gainsight/account-planning/) page 
-- You can find more information about how Customer Success uses Gainsight on the [Using Gainsight within Customer Success](/handbook/customer-success/tam/gainsight/) page 
+- You can find more information about how Technical Account Managers use Gainsight on the [Using Gainsight for TAMs](/handbook/customer-success/tam/gainsight/) page 
+- You can find more information about how Solutions Architect use Gainsight on the [Using Gainsight for SAs](/handbook/customer-success/solutions-architects/processes/account-planning)
