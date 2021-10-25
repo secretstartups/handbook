@@ -16,6 +16,10 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q3-FY22 
 
+### 2021-10-25 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/67))
+
+**SOPS: [Autopopulate Billing Address on Account](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2033)
+
 ### 2021-10-11 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/65))
 
 **Channel Ops: [Google Cloud Revenue Share Change](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.f6wy7bn2nd7j)**
