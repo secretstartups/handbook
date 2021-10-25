@@ -133,32 +133,37 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 
 ### Release Post Manager Responsibilities
 
+Critical path tasks:
+
 - Setting up the release post branch and completing all the tasks assigned to the Release Post manager in the Release Post MR template
-- Reviewing and supporting overall content quality and accuracy of all content published in the release post
-- Supporting and checking in with the Technical Writer via Slack and a brief weekly standup
-- Onboard the Release Post shadow so they understand the whole process and can contribute to helping with content review and other tasks.
-- Including the Release Post Manager Shadow as much as possible on activities
+     - If you can not perform any of the release post manager tasks between the 15th and the 22nd of the month, please sing up for a release post that better aligns with your availablity
 - Creating the release post [merge request](#create-the-release-post-mr)
 - Creating MRs to collect [usability improvements, performance improvementsm and bug fixes](#create-mrs-for-usability-improvements-bugs-and-performance-improvements)
-- Soliciting/collecting votes for the [MVP](#mvp), getting the write-up form the nominator of the winning candidate and updating `release-X-Y/www-gitlab-com/data/mvps.yml` and `data/release_posts/X_Y/mvp.yml`
-- Adding the [cover image](#cover-image) that is (jpg, png) is [smaller than 300KB](#images)
 - Working with VP of Product Management to identify features to highlight in the introdcution
+- Sending out reminders about upcoming due dates
+- Merging the release post MR on the 22nd and ensuring the release post page goes live
+- Collecting feedback in the release post retrospective issue during the release post not just for your own challenges, but other team members chanllenges as they pop on Slack and other places
+     - Doing a sync retro with the Technical Writer, the Technical Advisor, the Release Post Manager Shadow, and the Product Operations DRI sometime between the 23rd and the 1st of the month, to identify and collaboratively complete actions to improve the process and update the handbook/MRs
+     - Making sure all the action of the retroscpective issue are completed and the issue closed before the next release post cycle beings on or around the 1st
+
+Other key tasks:
+
+- Reviewing and supporting overall content quality and accuracy of all content published in the release post
+- Including the Release Post Manager Shadow as much as possible on activities so they learn prior to their rotation
+- Soliciting/collecting votes for the [MVP](#mvp), getting the write-up form the nominator of the winning candidate
+- Adding the [cover image](#cover-image) that is (jpg, png) is [smaller than 300KB](#images)
 - Working with the VP of Product Management to identify what to include in [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users)
 - Monitoring the Slack Release Post channel to help answer questions and troubleshoot hurdles
 - Pinging the PMs and others as needed in Slack or MRs to help resolve feedback
-- Sending out reminders about upcoming deadlines.
 - Merging master into the release branch on a regular basis to resolve conflicts (do not rebase, please do `git pull origin master`, then `:wq`)
-- Making sure we have the post **ready to merge two days before the 22nd**
-- Merging the release post MR on the 22nd and ensuring the page goes live successfully (coordinate with the release managers in the
-  `#releases` Slack channel and only merge once they've pinged you in Slack to confirm the packages are released, which will be sometime around 14:10 - 14:20)
-- Creating and collecting feedback in the release post retro issue during the release post
-- Doing a sync retro with the Technical Writer, the Technical Advisor, the Release Post Manager Shadow, and the Product Operations DRI sometime between the 23rd and the 1st of the month, to identify and collaboratively complete actions to improve the process and update the handbook/MRs
+- Making sure we have the release post is **ready to merge two days before the 22nd**
 - [Communicate](#communication) directly with product managers using [#product](https://gitlab.slack.com/archives/C0NFPSFA8) on Slack as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd
 - If you need additional support in engaging with the community, the Developer Evangelism team ([#developer-evangelism](https://gitlab.slack.com/archives/CMELFQS4B) on Slack) is available to support on [release days](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#release-days)
 - Making sure the auto sorting of secondary features by title (alpha) and stage generally looks good or is revised if need be [Content Reviews](#content-reviews)
 - Work with PMs and others as needed to make sure any external blogs they reference in their content blogs go live before the release post blog gets published on the 22nd.
 - Making sure the Technical Writer is aware if release post items are added or removed after the 18th
 - Informing the social team that the release post has been published and it's time to schedule social media posts
+- Alerting Product Operations of significant issues or hurdles that may compromise the release post
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
