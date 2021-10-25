@@ -46,6 +46,12 @@ Key:
 <% data.service_maturity.each do |service, maturity| %>
 ### <%= service %> detail
 
+<ul>
+<li> Level: <%= maturity_score(maturity) %></li>
+<li> <a href="https://dashboards.gitlab.net/d/<%= service %>-main">Link to <%= service %> dashboard</a></li>
+<li> <a href="https://gitlab.com/gitlab-com/runbooks/-/blob/master/metrics-catalog/services/<%= service %>.jsonnet">Service definition of <%= service %></a></li>
+</ul>
+
 <table>
   <thead>
     <tr>
@@ -55,7 +61,7 @@ Key:
     </tr>
   </thead>
   <tbody>
-    <% maturity.flat_map(&:criteria).each.with_index do |row, i| %>
+    <% maturity_details(maturity).flat_map(&:criteria).each.with_index do |row, i| %>
     <tr>
       <% maturity_headers(data.service_maturity, i).each do |header, rowspan| %>
       <% if header %><th scope="row" rowspan="<%= rowspan %>"><%= header %></th><% end %>
