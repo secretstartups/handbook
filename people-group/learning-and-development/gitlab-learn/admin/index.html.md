@@ -544,29 +544,70 @@ Edits that you'd like to made related to the arrangement of content in the LXP w
 - Arrangement of SmartCards in a Pathway, or Pathways in a Journey
 - Badging information
 
-#### Editing Pathways after users have completed the Pathway
+#### Editing Pathways and Journeys after users have completed the Pathway or Journey
 
-At GitLab, we iterate quickly and ship things that aren't perfect. The EdCast system does not easily enable us to make iterative updates and changes to Pathways once published, especially after a user has accessed or completed the Pathway. This section outlines the limitations of the tool and best practices for editing Pathways.
+The following section outlines the behavior/user experience when accessing edited content, how to make edits to existing Pathways and Journeys, and the limitations this editing process.
 
 ##### Limitations
 
-- Quizzes that have been completed by users cannot be edited
+- Quizzes that have been completed by users cannot be edited.
 - Administrators cannot see quizzes once they have been completed
-- If a pathway is edited after a user earns the pathway badge, they will retain their badge, but their completion status on the pathway will show up as a percentage less than 100%, depending on how many SmartCards are now `incomplete` after editing
+
+##### Behavior of editing Pathways and Journeys
+
+When a user completes a Pathway or Journey, the following will occur:
+
+1. User will see 100% completion on the course
+1. Course appears in the `Completed` section of their `My Learning Profile`
+1. Any badges associated with the course are added to the user profile
+1. Completed status is marked as `Complete` in the EdGraph data sets
+1. Percentage completed status is marked as `100%` in the EdGraph data sets
+
+When new content is added to a Pathway or Journey after a user has already completed that Pathway or Journey:
+
+1. User will see an updated percentage completion on the course, reflecting the number of SmartCards they have completed. For example, if the original course had 3 SmartCards and 1 new SmartCard was added, the user's completion will change from `100%` to `75%`
+1. Course will appear in the `Current` section of their `My Learning Profile`
+1. Any badges previously earned **will remain on the user profile**
+1. Completed status **remains as `Complete`** in the EdGraph data sets
+1. Percentage completed status is updated to the new percentage completion total in the EdGraph data sets
+1. User will get a bell notification in the platform indicating that new content was added to a Pathway or Journey they already completed
+
+When a user returns to/completes a Pathway or Journey after new content is added:
+
+1. User will again see 100% completion on the course
+1. Course appears again in the `Completed` section of their `My Learning Profile`
+1. Any badges previously earned will remain on the user profile
+1. Completed status remains as `Complete` in the EdGraph data sets
+1. Percentage completed status is marked again as `100%` in the EdGraph data sets
+
 
 ##### Best Practices
 
-1. Use the [lxp-contributions issue board](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions/-/boards) to triage reports of errors in GitLab Learn
-1. Open the Pathway that contains the error. This original Pathway is considered your Version 1 or V1 of the Pathway. Click the three dots in the top right corner of the Pathway and choose `Make a Copy`. This new copy is now considered your Version 2 or V2 of the Pathway.
+1. In most cases, when making updates to Pathways and Journeys, make the updates directly to the existing Pathway and Journey in EdCast
+1. If the course is entirely new content, or a significant fraction of the material is being updated or added, consider creating a new course and either leaving the original version or deprecating it in the system by removing all sharing settings and marking it as `Private`
+1. After adding content, include the following line in the Pathway or Journey description
+
+`As of [YYYY-MM-DD], this [Pathway/Journey] has new material! Please review any SmartCards that are not marked as Complete to earn 100% completion. Any badges earned from this course previously will not be changed or removed`
+1. Quizzes can be added to Pathways and Journeys, but they cannot be edited once a user has completed it. If you need to edit or remove a quiz from an existing pathway, please follow the process below
+
+
+##### Removing or Editing Quizzes in a Pathway or Journey
+
+1. This original Pathway/Journey is considered your Version 1 or V1. Click the three dots in the top right corner of the Pathway and choose `Make a Copy`. This new copy is now considered your Version 2 or V2.
 1. Navigate to your `Profile` page and click `Content` to view the V2 Pathway. This will be titled automatically as `Copy Of {Pathway Name}`
 1. Return to the V1 of your Pathway and rename it as `DEPRECATED V1: {Pathway Name}`
 1. Now, you must remove the Pathway from any related Channels, Groups, or Assignments in order to keep users from finding it. Do **NOT** delete the V1 Pathway as this will remove any user data related to the Pathway.
 1. After removing any Channels, Groups, or Assignments from the Pathway, mark the Pathway as `private`.
 1. Return to the V2 of your Pathway and rename it to the correct title of the Pathway
-1. Make necessary updates to the V2 Pathway. This will most often include replacing current quiz SmartCards with new SmartCards that will correct spelling, answer accuracy, or other content.
+1. Make necessary updates to the V2 Pathway quizzes.
 1. This V2 Pathway is now the most up to date version of the Pathway content. Reshare this new V2 Pathway with any related Channels, Groups, or Assignments. 
+1. After resharing the new pathway, include the following line in the description
+
+`As of [YYYY-MM-DD] this pathway has been updated. For any users who were already in progress on this pathway, your completion % may have decreased or you may no longer be able to access some smartcards. Please review any previously completed quizzes in the pathway and ensure they are complete to restore your progress.`
+
 1. Refer to the Reporting section of this admin page to understand how the combination of reports from V1 and V2 Pathways will give a full picture of completion.
 1. If you need to update V2 or versions beyond of a Pathway, follow this same process but replace the version names with `VX` or `version X` where `X` is the correct version number.
+
 
 ### Channels
 
