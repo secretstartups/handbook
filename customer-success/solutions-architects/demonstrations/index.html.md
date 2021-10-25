@@ -55,3 +55,6 @@ There are several slide decks stored on google drive that are commonly used for 
 
 - [All the Things](https://docs.google.com/presentation/d/1AG6eDm8USqU7TG12Sp4UEc9B3P03pniQnVHZAGzyDAg/edit?usp=sharing) - contains a comprehensive set of slides on all GitLab functionality and value propositions
 - [General Demo.pptx](https://drive.google.com/file/d/17SoRPxPCswT_FublXCsi3rm3TBnHAYI-/view?usp=sharing) - Product walkthrough deck created and maintained by Cherry Han. Tip: you can make a copy of the deck, then open the deck in Google slides to edit it for your own purposes.
+- Demo Prep 
+
+Here is the ![Demo Roadmap](https://drive.google.com/file/d/1KIoJZ0Lcm83_gUHA5nzlFpgQ784xMHZp/view?usp=sharing) which details the steps to undertake/consider to leverage the Demo2Win strategies before delivering a demo.
