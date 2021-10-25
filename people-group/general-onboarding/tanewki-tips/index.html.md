@@ -33,8 +33,9 @@ Hello! We could not be more excited to have you at GitLab. This page is here to 
 {: #tanuki-orange}
 After you sign your offer and complete your background check and references, you can expect your onboarding to go like this: 
 
-##### Before you start
+### Before you start
 {: .gitlab-orange}
+
 1. Sign your offer, and be on the lookout for your :email: Welcome Email from the Candidate Experience Specialist team. You can read about the team on [this handbook page](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/).
     - This email will contain all pertainent information such as how to order your office equipment and most importantly your laptop. The IT team also has a very handy, handbook page [you can review](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptops).
     - Please note,when you receive your laptop, make sure to **not** sign into the laptop with your personal Apple ID. You will be asked to create an Apple ID on day one with your GitLab email address. 
@@ -43,37 +44,28 @@ After you sign your offer and complete your background check and references, you
 1. The next email you will receive, is a [TaNEWki call](https://about.gitlab.com/handbook/people-group/general-onboarding/#tanuki-orange) invite. We hope you can join us! This Zoom call addresses those first day nerves and gives you some time to meet other new team members. You will see this invite sent to you 1-2 weeks before your start date. 
 1. You may receive an email from Okta (our SAAS application portal) with an invite to register. **Please ignore this email** until you receive your onboarding welcome email on your first day with us. This will ensure that no issues are experienced with your access levels on your first day. 
 
-##### First day
+### First day
 {: .gitlab-orange}
 
 1. **When should you log on for day one?** Unless you have worked out a specific time with your manager, feel free to start your day when you feel comfortable starting. We love non-linear work days but you have to [find what works for you](https://about.gitlab.com/company/culture/all-remote/non-linear-workday/#find-what-works-for-you).
 1. The first thing you'll want to do is check your personal email where you will have received an onboarding email from GitLab with directions on how to access Okta, your GitLab email and all other applications. Most of GitLab applications are accessed through Okta so make sure you follow the directions in the email in order. 
 1. Once you accept your GitLab access invites, you'll be able to open up and see your own personalized version of the [onboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md). 
 
+## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Helpful Tools
+{: #tanuki-purple} 
 
-## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Onboarding Expectations
-{: #tanuki-purple}  
+1. [TaNEWki Tips](https://about.gitlab.com/handbook/people-group/general-onboarding/tanewki-tips/) - This page is here to help walk you through what you can expect before and during your first few weeks as a new team member.
+1. [Select and Speak - Text to Speech](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en)
+1. [Read Aloud: A Text to Speech Voice Reader](https://chrome.google.com/webstore/detail/select-and-speak-text-to/gfjopfpjmkcfgjpogepmdjmcnihfpokn?hl=en)
+1. [Spectacle App for Mac](https://www.spectacleapp.com/) - Move and resize windows with ease
+1. [OneTab](https://www.one-tab.com/) - Tab organizer for Chrome, Firefox, Edge, or Safari
 
-1. Take your time! There is a lot to go through, and you may feel like you have to get to everything each day. If you do great! If not, that's great too.    
- - The entire onboarding issue is [self-paced and self-learning](https://about.gitlab.com/handbook/values/#self-service-and-self-learning) however, anything marked with a big red dot - 🔴 - should be completed with importance on the assigned day it is under.
-1. As an all remote company, it is important to remember that we all work in different time zones, [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/#remind-people-that-async-is-more-inclusive) is key to ensure that everyone is included. Don't feel like you need to stay up late at night or early morning to keep up with your fellow team members, this is where we pride oursleves on [our async way](https://about.gitlab.com/company/culture/all-remote/asynchronous/).
-1. You are going to be overwhelmed when looking at your onboarding issue. This feeling is completely normal. But remember that your manager, onboarding buddy, assigned People Experience Associate, and the entire company are here to help you if you need it. 
-    - Two of the best Slack channels to get yourself into to ask questions are `#it-help` and `#people-connect`
-1. There is a lot of Handbook content in this issue, that can at times require quite a bit of reading. Consider enabling one of the following tools which will help converting text into speech:
-- https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en
-- https://chrome.google.com/webstore/detail/select-and-speak-text-to/gfjopfpjmkcfgjpogepmdjmcnihfpokn?hl=en
-1. New user to Mac, don't worry, many of us were also first time users. If you get your laptop, feel free to explore and get used to using your Macbook (just remembering not to set up an Apple ID). There is this really great [Handbook page](https://about.gitlab.com/handbook/tools-and-tips/mac/) that share different helpful tips and many helpful [YouTube video's](https://www.youtube.com/watch?v=PlruI5ryP8Q). 
-1. We use Slack as our formal/informal communications tool. This allows us to communicate with our team members, teams and wider company. New to Slack? No problem! This [quick start guide](https://slack.com/intl/en-za/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide) will share all the helpful tips on getting you started. 
-1. We do not use the standard operating software and instead have a business account with Google Workspace. We use the [Gmail](https://workspace.google.com/intl/en/products/gmail/) feature to retrieve our emails, we use [Drive](https://workspace.google.com/intl/en/products/drive/) to store all our important documents, and Google [Docs](https://workspace.google.com/intl/en/products/docs/)/[Sheets](https://workspace.google.com/intl/en/products/sheets/) for anything we need to document. 
+## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Equipment and Expenses
+{: #tanuki-purple} 
 
-{::options parse_block_html="true" /}
+If you're nearing your start date and still haven't received your laptop, please reach out to people-exp@gitlab.com for us to check in with the IT department and see where your laptop is in transit. 
 
-<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>&nbsp;&nbsp;
-Want to learn more about Onboarding from current team members? View their feedback [here](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-feedback)!
-&nbsp;&nbsp;<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>
-{: .alert .alert-webcast}
-
-## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Expenses
+New user to Mac, don't worry, many of us were also first time users. When you get your laptop, feel free to explore and get used to using your Macbook (just remembering not to set up an Apple ID). There is this really great [Handbook page](https://about.gitlab.com/handbook/tools-and-tips/mac/) that share different helpful tips and many helpful [YouTube video's](https://www.youtube.com/watch?v=PlruI5ryP8Q). 
 
 GitLab utitilizes Expensify as our team member [expense](https://about.gitlab.com/handbook/finance/expenses/) reimbursement tool. All team members will have access to Expensify within 2 days from their hire date. If you didn't receive an email from Expensify for your access, please contact `ap@gitlab.com`. 
 
@@ -89,8 +81,28 @@ There are a few commonly expensed items among new hires that are listed below an
 | Computer Case | Office Supplies | 
 | Monthly Internet Subscription | Telecom Internet | 
 
+## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Onboarding Expectations
+{: #tanuki-purple}  
+
+1. As an all remote company, it is important to remember that we all work in different time zones, [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/#introduction) is key to ensure that everyone is included. Don't feel like you need to stay up late at night or early morning to keep up with your fellow team members, this is where we pride oursleves on [our async way](https://about.gitlab.com/company/culture/all-remote/asynchronous/). **This means that you may not have meetings on your first day, or your first week but it's not because we're not excited to have you here. It's just our way of working!** 
+1. Take your time! There is a lot to go through, and you may feel like you have to get to everything each day. If you do great! If not, that's great too.    
+   - The entire onboarding issue is [self-paced and self-learning](https://about.gitlab.com/handbook/values/#self-service-and-self-learning) however, anything marked with a big red dot - 🔴 - should be completed with importance on the assigned day it is under.
+1. You are going to be overwhelmed when looking at your onboarding issue. This feeling is completely normal. But remember that your manager, onboarding buddy, assigned People Experience Associate, and the entire company are here to help you if you need it. 
+    - Two of the best Slack channels to get yourself into to ask questions are `#it-help` and `#people-connect`
+1. There is a lot of Handbook content in this issue, that can at times require quite a bit of reading. Consider enabling one of the helpful text to speech tools in the Helpful Tools section above.
+1. We use Slack as our formal/informal communications tool. This allows us to communicate with our team members, teams and wider company. New to Slack? No problem! This [quick start guide](https://slack.com/intl/en-za/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide) will share all the helpful tips on getting you started. 
+1. We do not use the standard operating software and instead have a business account with Google Workspace. We use the [Gmail](https://workspace.google.com/intl/en/products/gmail/) feature to retrieve our emails, we use [Drive](https://workspace.google.com/intl/en/products/drive/) to store all our important documents, and Google [Docs](https://workspace.google.com/intl/en/products/docs/)/[Sheets](https://workspace.google.com/intl/en/products/sheets/) for anything we need to document. 
+
+{::options parse_block_html="true" /}
+
+<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>&nbsp;&nbsp;
+Want to learn more about Onboarding from current team members? View their feedback [here](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-feedback)!
+&nbsp;&nbsp;<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>
+{: .alert .alert-webcast}
+
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Frequently Asked Questions
 
+### Equipment and Expenses
 **Q: Am I able to buy things prior to my start date then expense once started?**
 
 A: Absolutely! We recommend reviewing our [expenses](https://about.gitlab.com/handbook/finance/expenses/) handbook page about items are are expensable vs. non-expensable. 
@@ -107,25 +119,28 @@ A: You will get access to Expensify during your first week and you'll want to su
 
 A: It is! You'll just want to make sure to review our co-working space details listed out [here](https://about.gitlab.com/handbook/finance/expenses/#-coworking-or-external-office--space) before signing any agreements.
 
+### HR Based Questions 
 **Q: When will my first paycheck be?** 
 
 A: Depending on where you are located, you can find the payroll cut off dates [here](https://about.gitlab.com/handbook/finance/payroll/#payroll-cut-off-dates) and when you can expect to receive your first paycheck.
 
-**Q: I received an email from Okta about access, do I need to do anything with it?**
-
-A: You won't need to action anything until day one! We are going to want you to review your `Welcome to GitLab Onboarding` email first and follow the instructions within that email to make sure that all your access is set up correctly. This will include creating your GitLab account, getting access to your GitLab email, and all other systems!
-
-**Q: Any tips for working in a remote environment and keeping myself engaged and productive?**
-
-A: GitLab has an entire team dedicated to providing the best tools to be successful at an all remote company. We highly suggest reviewing our [playbook](https://about.gitlab.com/company/culture/all-remote/).
-
-**Q: I have preplanned vacations or commitments, how should I handle this upon starting?**
+**Q: I have preplanned vacations or commitments, how should I handle this upon starting and ensuring the PTO?**
 
 A: That's absolutely okay. You'll want to make sure to talk with your manager as soon as you can about the days to make sure appropriate coverage is there and then once you get access to Slack, you'll be able to submit your time off in [PTO Roots](https://about.gitlab.com/handbook/paid-time-off/#pto-by-roots). 
 
 **Q: How long do I have to enroll in benefits?** 
 
 A: You have 30 days from your start date to enroll in benefits. Even if you enroll on that 30th day, benefits coverage backdates to your start date.
+
+### Access
+**Q: I received an email from Okta about access, do I need to do anything with it?**
+
+A: You won't need to action anything until day one! We are going to want you to review your `Welcome to GitLab Onboarding` email first and follow the instructions within that email to make sure that all your access is set up correctly. This will include creating your GitLab account, getting access to your GitLab email, and all other systems!
+
+### GitLab Culture
+**Q: Any tips for working in a remote environment and keeping myself engaged and productive?**
+
+A: GitLab has an entire team dedicated to providing the best tools to be successful at an all remote company. We highly suggest reviewing our [playbook](https://about.gitlab.com/company/culture/all-remote/).
 
 **Q: What is Family & Friend's Day?**
 
