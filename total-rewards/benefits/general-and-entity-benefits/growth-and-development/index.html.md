@@ -141,7 +141,7 @@ Crucial Conversations charges per-learner to deliver this content. Each license 
 1. First, please fill out [this Google form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform) to express interest in taking the training. You are **not** committing to the training by filling out this form.
 1. The L&D team will assess interest/team need and organize cohorts based on this Google form. The team will contact you to confirm your availability before signing you up for a cohort.
 1. The L&D team will open a G&D benefit issue and tag you in the issue. Please ask your manager to comment on the issue with a note saying `approved` to gain manager approval of your participation.
-1. Once approved, L&D will process the purchase of the licenses and distribute to participants. 
+1. Once approved, L&D will process the purchase of the licenses and distribute to participants by generating an invoice and sending it to GitLab's accounts payable team.
 
 
 The L&D and Total Rewards teams will collaborate to purchase the course license on your behalf and the cost will count towwards your Growth and Development budget. 
