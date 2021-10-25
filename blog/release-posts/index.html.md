@@ -334,9 +334,9 @@ The release post manager posts in Slack channels most requently with reminders. 
 - If you need someone to take an action, say so explicitly and tag that person
 - If the action requested is time sensitive, give a clear due date
 - If there are known issues they need to be aware of, list them out
-- Always cc your release post team and Product Operations for big announcments so everyone is in the loop
+- Always cc your release post team for big announcments so everyone is in the loop
 
-When communicating in either Slack `#release-post` or `#X-Y-release-post-prep` organize your announcements and requests via unique discussions threads to make it easier to track conversations. For example, avoid combining various reminders just because they fall on the same date when they address different topics. As a general rule, if there's is a unique task list item for the reminder in the MR template, that reminder should get its own separate post whether it is in Slack or the MR itself. Also, review GitLab's [effective slack communication](https://about.gitlab.com/handbook/communication/#slack) guidance.
+When communicating with your release post team, use the release post prep channel and organize discussions into threads to make it easier to track conversations. Also, review GitLab's [effective slack communication](https://about.gitlab.com/handbook/communication/#slack) guidance.
 
 Sample post to executive stakehlders for review:
 
@@ -928,19 +928,23 @@ Release post content assembly on the 18th and release post deployment on the 22n
 
 See also: [Google SRE Ch. 14](https://sre.google/sre-book/managing-incidents/)
 
-## Managing Ongoing Technical Support Tasks
+### Managing Ongoing Technical Support Tasks
 
 Anyone can contribute to technical issues that support the Release Post Process with the burden being mostly on the current volunteer tech advisor. The following outlines how to manage active and upcoming issues.
 
-### Tracking
+#### Tracking
 
 Use the following `~Release Post::Tech Advisor` and `~product operations` labels for issues that require changes to the tools that facilitate the delivery of a release post. Create issues for lower priority challenges that arise during the milestone or as an artifact of decisions made during a retrospective. Creating an issue for immediate incident response isn't required since the delivery of the release post requires quick resolution and synchronous communication.
 
 [This board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/3130926?&label_name[]=Release%20Post%3A%3ATech%20Advisor) organizes these labeled issues into a familiar software development workflow. When working on an issue, assign yourself and strive to keep the issue up-to-date with the proper workflow label and weekly async updates. The backlog of this board will be maintained/prioritized by Product Operations as the DRI of the Release Post but Technical Advisors are also welcome to make recommendations and apply milestones to the issues. 
 
-### Handoff
+#### Handoff
 
-It's unlikely that one technical advisor will serve in back-to-back milestones. Therefore, clearly communicating with the incoming technical advisor about the state of issues as part of release post retrospective and kickoff is a good idea.
+It's unlikely that one technical advisor will serve in back-to-back milestones. Therefore, clearly communicating with the incoming technical advisor about the state of issues as part of release post retrospective and kickoff is a good idea. To do so:
+
+- recommend actions, prioritiztion and milestones in the issues
+- unassign them from yourself if you don't plan on working on so it's clear they need to be picked up
+- after your final rotation on the release post, reach out to the next tech advisor for a coffee chat to provide them with helpful information about any issues or bugs that are a priority for their upcoming cycle
 
 Should you prefer to continue to contribute to an issue under active development after your volunteer rotation, that's great. In that situation, make it clear through assignments and issue updates that you will be the DRI.
 
