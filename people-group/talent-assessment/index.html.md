@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Talent Assessment 
-description: "Overview of three critical pieces of GitLab's talent development program: performance, potential, and key talent."
+description: "Overview of three critical pieces of GitLab's talent development program: performance, growth, and key talent."
 ---
 
 ## On this page
@@ -122,25 +122,25 @@ While the primary objective of the performance axis of the Performance/Growth Ma
 
 How can managers determine whether their team members are Developing, Performing, or Exceeding? "The Performance Factor" is determined from several components outlined below. It is _optional_ to use [The Performance Factor Workheet](https://docs.google.com/spreadsheets/d/1HHe-Vb6y6F4HXsek3sObV4IVNAGaTvXGi_9fbatT0Uo/edit#gid=241716076) for weighing the different Performance Factors.
 
-#### Job Family and Functional Competencies
+#### Job Family Responsibilities and Functional Competencies
 
-Performance against Job Family role, requirements, performance indicators, and functional competencies (if applicable) should be weighted at 60%. 
+Performance against Job Family responsibilities, requirements, performance indicators, and functional competencies (if applicable) should be weighted at 60%. 
 
-* Review Job Families: Look at the Responsibilities section/how this previously was feeding into Compa Groups for the roles in your department.
-    * Example: [Software Engineer in Test](https://about.gitlab.com/job-families/engineering/software-engineer-in-test/#responsibilities)
+* Review Job Families: Look at the Responsibilities section and how your team member is performing against those responsibilities 
+    * Example: [Software Engineer in Test](/job-families/engineering/software-engineer-in-test/#responsibilities)
 * Review Performance indicators per Job Family: Look at the Performance indicators.
-    * Example: [Software Engineer in Test](https://about.gitlab.com/job-families/engineering/software-engineer-in-test/#performance-indicators)
-* _(if applicable)_ [Functional Competencies](https://about.gitlab.com/handbook/competencies/#functional-competencies)
+    * Example: [Software Engineer in Test](/job-families/engineering/software-engineer-in-test/#performance-indicators)
+* _(if applicable)_ [Functional Competencies](/handbook/competencies/#functional-competencies)
 
-For management roles, please also review and consider the [levels](https://about.gitlab.com/company/team/structure/#levels) outlined in the Organizational Structure. 
+For management roles, please also review and consider the [levels](/company/team/structure/#levels) outlined in the Organizational Structure. 
 
 #### GitLab Competencies
 
 Performance against these competencies should be weighted at 40%. 
 
-* [Values Competencies](https://about.gitlab.com/handbook/competencies/#values-competencies)
-* [Remote Working Competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies)
-* _(if applicable)_ [Manager and Leadership Competencies](https://about.gitlab.com/handbook/competencies/#manager-and-leadership-competencies) 
+* [Values Competencies](/handbook/competencies/#values-competencies)
+* [Remote Working Competencies](/handbook/competencies/#remote-work-competencies)
+* _(if applicable)_ [Manager and Leadership Competencies](/handbook/competencies/#manager-and-leadership-competencies) 
 
 ## What is "Growth"?
 
@@ -207,6 +207,10 @@ After assessing team member growth based on the four pillars outlined above, man
 
 Please note that "developing" growth *does not* equate to "developing" performance, but correlates with the pillars of growth outlined in the "measuring growth" section below. 
 
+Examples:
+- A team member has recently been promoted and is struggling or hasn't had the time to expand their scope to meet the requirements of their new role.  
+- A team member has actively expressed that they do not have an interest in learning new skills or take on new projects. In a day-to-day they show self-awareness but they have not shown great adaptability, expandability and consistency to further expand on their role and responsibilities. 
+
 #### Growing
 
 "Growing" growth generally refers to a team member who is growing in their current role and demonstrating interest in advancing (up or laterally) and they exhibit knowledge, skills, and abilities that indicate this. Team members with "growing" growth generally:
@@ -215,6 +219,9 @@ Please note that "developing" growth *does not* equate to "developing" performan
 * Are comfortable in their current role
 * Are a stable counterpart for other team members (especially for peers and more junior team members)
 * Learn and apply new skills when the job calls for it; apply lessons learned to enhance success
+
+Example: 
+- A team member has demonstrated adaptability and expandability but has not been consistent in their results or self-awareness. This holds the team member back from growing to a higher level or taking on more complex responsibilities in their current role. 
 
 #### Exceeding
 
@@ -225,6 +232,9 @@ Please note that "developing" growth *does not* equate to "developing" performan
 * Demonstrate ability to learn new skills
 * Actively pursue increased opportunities to influence decisions and inspire others
 
+Example: 
+- A team member has consistently and proactively looked for opportunities to fill gaps and take on stretch projects. When another team member left the team, you leaned on this team member to help keep projects moving forward until you found a suitable backfill. They regularly ask for feedback from peers and adapt their approach accordingly. This has given your team member skills beyond their current job requirements, and broader understanding of the business.
+
 ## Calibration Session Guidelines
 
 The portion of the Performance/Growth matrix that often entails the most significant time commitment is the live calibration session of team members with leadership. The calibration session is very valuable to ensure consistency across the Job Family and level, raise any questions, and provide cross-departmental and/or cross-divisional feedback on team members to capture the assessment of different managers as opposed to the opinion of the direct manager exclusively. 
@@ -233,6 +243,7 @@ The portion of the Performance/Growth matrix that often entails the most signifi
 
 It is **absolutely essential** that managers complete the required pre-work to ensure that the live calibration session is as efficient and productive as possible. Pre work includes:
 
+- For calibration sessions you can leverage [this agenda template](https://docs.google.com/document/d/1zrlZSfdNXpSZ09uvDM71KxH42RWBJxa6U1QTCTw05iI/edit)
 - Review the Job Family/Families that will be reviewed in detail
 - Review our competencies 
     - [Values competencies](/handbook/competencies/#values-competencies)
@@ -278,7 +289,7 @@ While we want to encourage open and transparent conversation during calibration 
 
 ## Matrix Tool
 
-Our goal is to have the whole company use the the Matrix [Assessment Tool](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/) for the Performance/Growth matrix. However, while the tool is being developed and tested, groups who want to get a head start on the Performance/Growth matrix can use the [Performance/Growth Matrix team template](https://docs.google.com/presentation/d/123fS20lqXt-bhDEqwMCyL2K1BAcgVCEd61pQW6FmfRw/edit#slide=id.g817046ecd3_0_44).
+Our goal is to have the whole company use the Talent [Assessment Tool](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/) for the Performance/Growth matrix. Our People Group Engineering team has further iterated on the assessment tools' security, and all team members are now able to log in through Okta. If you have any feedback or questions regarding the tool please reach out to [People Connect](/handbook/people-group/people-connect/).
 
 ## Identifying Action 
 
@@ -288,9 +299,17 @@ After the calibration sessions the performance and growth outcomes can be used a
 * Identifing [L&D opportunities](/handbook/people-group/learning-and-development/)
 * Succession Planning
 
-# Timeline
+# Q4 Formal Talent Assessment 
 
-## Q4 Formal Assessment 
+## Timeline
+Below is the high level timeline for the formal assessment in FY22-Q4. Different departments may have additional due dates built into the high level timeline, so please follow up with your [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) if you have any questions. 
+
+- **2021-11-01:** Kick off Assessment cycles for Managers
+- **2021-11-08 - 2021-12-03:** Time for calibration and finalising assessments
+- **2021-12-06 - 2021-12-09:** Total Rewards and E-Group review
+- **2021-12-10:** Final approvals of E-Group
+- **2021-12-13 - 2021-01-31:** Managers can communicate Performance/Growth Factors to team members
+- **2022-01-01:** Annual Compensation Review Kicks off for Managers
 
 ### Cadence
 
@@ -309,10 +328,12 @@ While there are exceptions, this is the general rule of thumb.
 The Performance/Growth Matrix typically takes 4-6 weeks to complete from beginning to end. Steps are as follows:
 
 1. Managers complete a Performance/Growth Matrix for their respective teams
-1. Live session takes place for calibration 
-1. Executive Review (leadership meets to review the matrix results, promotion requests, development and performance actions, review discrepancies, and measure against previous matrix results).
-1. Performance axis results communicated with team members.
-1. Retrospace takes place with leadership to determine next steps and iterate. 
+1. Live session takes place for calibration with managers up to E-Group level
+1. Executive Review (leadership meets to review the matrix results, key talent, promotion requests, development and performance actions, review discrepancies, and measure against previous matrix results)
+1. Total Rewards performs an equality review. 
+1. Final approval of E-Group member and Total Rewards. 
+1. Performance and Growth results are communicated to team members. Managers can leverage [this template](https://docs.google.com/document/d/1XT1l1STUBilDdVGHXlCcmSE5ApxwVqO1Ln4Wk8e1Fpk/edit#) for communication. 
+1. Annual Compensation review kicks off after Talent Assessment
 
 ## Mid-Year Check In
 
@@ -343,55 +364,45 @@ _Note: Not all division chose to participate in the 360 feedback cycle for FY'22
 1. **2021-09-11**: 360 reports become available for divisions that chose to participate. 
 1. **2021-09-11 - 2021-10-04:** Manager and team members scheduling a synchronous discussion to discuss and document performance, growth, and 360 feedback results. 
 
-
-
-
-
-
 ## Communication 
 
 In most companies the Performance/Growth Matrix is used exclusively as a management tool and results are not typically shared with team members. In the spirit of our transparency value, we want to encourage feedback with team members. **Discussion topics that arise during calibration sessions (or at any other point during the assessment process) are confidential. Please do not share with anyone other than each individual team member.**
 
-The guidelines below are general guidelines and recommendations. However, *each department is at liberty to determine what works best for their groups in collaboration with their People Business Partner*. For all groups we recommend at a minimum that managers communicate Performance Factors. Managers can use discretion regarding communicating growth and if that is preferred, we recommend for managers align across the division/department on that approach. 
-
-We hope to increase the scope of our communication company-wide as we iterate on the Performance/Growth Matrix process and continue to define criteria and receive feedback after the first iteration in Q4 FY21.
+The guidelines below are general guidelines and recommendations. However, *each department is at liberty to determine what works best for their groups in collaboration with their People Business Partner*. For all groups we recommend that managers communicate Performance and Growth factors. 
 
 ## Promotions During Assessment Cycle
 
-For the Q4 FY'21 performance factor assessment round, assessments were calibrated and finalized from October - early December 2020. As different divisions and departments took different approaches with different timelines, dates that performance factors were finalized vary.
+The cut-off date to determine whether to assess team members at the pre-promotion level or post-promotion level for the FY'22 Q4 Talent Assessment cycle is **November 1, 2021** aligned with the cycle kick off. Guidelines are as follows: 
 
-This can impact promotions in two ways:
-
-1. **If team members were promoted _after_ assessments were finalized for their groups, the pre-promotion performance assessment will remain.** 
-    * For example, if a Product Manager is promoted to Senior Product Manager during the talent assessment period _after_ performance factor assessments are finalized, their performance factor would remain the same. Their performance would then be reassesed at the newly promoted level for the next talent assessment round (Q2 or Q4). 
-1. **If team members were promoted _before_ assessments were finalized for their groups, the pre-promotion performance assessment will be reflective of their new role.** 
-    * For example, if a Backend Engineer is promoted to Senior Backend Engineer during the talent assessment period _before_ performance factor assessments are finalized, their performance factor would be re-evaluated based on the role and responsibility expectations against the Senior Backend Engineer role. 
+1. **If a team member is promoted with an effective date _before_ November 1, 2021, they should be assessed at the newly promoted level.** 
+    * For example, if a Product Manager is promoted to Senior Product Manager with an effective date of October 15, 2021 in BambooHR (our SSOT for promotion effective dates), they will be assessed at the Senior Product Manager level for the Q4 Talent Assessment.  
+1. **If a team member is promoted with an effective date _on or after_ November 1, 2021, they should be assessed at the pre-promotion level.**
+    * For example, if a Backend Engineer is promoted to Senior Backend Engineer with an effective date of December 1, 2021, their pre-promotion assessment at the intermediate Backend Engineer level will remain.
 
 It is important to note that because being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase therefore a **promotion "resets" the performance factor evaluation**. 
 
-Moving forward, we will align at the company level on a final assessment date for consistency. For this first iteration, if you have questions about specific dates during which finalization of ratings for your group occurred, please reach out to your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) or manager. 
 
 
 
-## Best Practices for Communicating Performance Factors
+## Best Practices for Communicating Performance/Growth Factors
 
-After calibration sessions are done and performance factors are determined, it’s time to communicate the final results with team members (after you have been notified that they have been approved by the E-Group). **Please refrain from communicating Performance factors until approval through the E-group level is communicated.** Having an extensive conversation on performance with your team members is a great way to set them up for success going forward. We also want to take the opportunity to give them a perspective on their career development. Below we will take you through some of the best practices, but remember, if you are even in doubt please reach out to your manager or [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) for support. 
+After calibration sessions are done and performance and growth factors are determined, it’s time to communicate the final results with team members (after you have been notified that they have been approved by the E-Group). **Please refrain from communicating Performance factors until approval through the E-group level is communicated.** Having an extensive conversation on performance and growth with your team members is a great way to set them up for success going forward. We also want to take the opportunity to give them a perspective on their career development. Below we will take you through some of the best practices, but remember, if you are even in doubt please reach out to your manager or [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) for support. 
 
-1. **Communicate performance factors face-to-face over Zoom**. As a manager, this is the opportunity for you to have a conversation with your team member about their performance. Having the conversation over Zoom allows for you to have a dialogue with your team member (versus just sharing their performance factor) and allows you to pick up other information, like tone and non-verbal cues which can tell you more about how someone is feeling during this conversation.
+1. **Communicate performance and growth factors face-to-face over Zoom**. As a manager, this is the opportunity for you to have a conversation with your team member about their performance. Having the conversation over Zoom allows for you to have a dialogue with your team member (versus just sharing their performance and growth factor) and allows you to pick up other information, like tone and non-verbal cues which can tell you more about how someone is feeling during this conversation.
 
-1. **Prepare for the call ahead of time.** As a manager, you should have prepared in advance of calibration discussions with your team members. Before communicating a team member’s [performance factor](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor), it’s beneficial to look back through your preparation document, notes, and anything relevant that was discussed as part of the calibration exercise. Be prepared with notes on the following: 
+1. **Prepare for the call ahead of time.** As a manager, you should have prepared in advance of calibration discussions with your team members. Before communicating a team member’s [performance and growth factors](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor), it’s beneficial to look back through your preparation document, notes, and anything relevant that was discussed as part of the calibration exercise. Be prepared with notes on the following: 
     * Areas the team member is doing well
     * Areas that need improvement
     * Provide specific examples for both strengths and improvement areas. The [SBI](/handbook/people-group/guidance-on-feedback/#s-b-i-model) (Situation - Behavior - Impact) model can be effective for delivering examples structured in a way that makes impact clear to team members. 
     * Think about recommendations and/or focus areas for a team member’s development
 
-_To help facilitate the conversations we have put together a [Performance Review Template](https://docs.google.com/document/d/1XT1l1STUBilDdVGHXlCcmSE5ApxwVqO1Ln4Wk8e1Fpk/edit) which can be shared with the team member. The use of the template is highly recommended, but optional._
+_To help facilitate the conversations we have put together a [Talent Assessment Template](https://docs.google.com/document/d/1XT1l1STUBilDdVGHXlCcmSE5ApxwVqO1Ln4Wk8e1Fpk/edit) which can be shared with the team member. The use of the template is highly recommended, but optional._
 
-1. **Schedule a separate call or repurpose your [1:1](https://about.gitlab.com/handbook/leadership/1-1/) to discuss a team member’s performance factor**. The performance factor should be communicationed at the beginning of the meeting. This allows the team member time to ask questions, discuss their assessment, and most importantly, determine next steps.
+1. **Schedule a separate call or repurpose your [1:1](https://about.gitlab.com/handbook/leadership/1-1/) to discuss a team member’s performance factor**. The performance and growth factors should be communicated at the beginning of the meeting. This allows the team member time to ask questions, discuss their assessment, and most importantly, determine next steps.
 
 1. **Protect the confidentiality of other team members** by avoiding saying things like “you were the only team member to be rated this performance factor.”
 
-1. **Avoid making future promises** like, “In the next review, I will rate you X performance factor.”
+1. **Avoid making future promises** like, “In the next review, I will rate you X performance/growth factor.”
 
 ### Sample Script for Delivering a Performance Review
 "Thank you for taking some time today to discuss your performance. I wanted to discuss your achievements and strengths, improvement areas, future development, and the final result of the performance assessment." 
@@ -423,16 +434,16 @@ If you have any questions or concerns about next steps, please contact your mana
 
 ### Performance/Growth Review General FAQs
 * **How is this different from what we did in the past?** <br>
-    * **Addition of the Talent Review Process:** In the past, we did not have a company-wide talent review process. Some groups leveraged a 9-box format, skill/will matrices but there was no formal program to support the review of team members. With this newly-launched process, we plan on having talent review cycles company-wide twice a year using the same assessment template. <br>
-    * **Changes to the Annual Compensation Review Program:** In the past, in preparation for the Annual compensation review, managers went through a process to assess someone’s knowledge, skills, and abilities, also known as their compa group. This would directly feed as an input to the compensation review program in addition to location factor changes and cost of living adjustments. For this year, we are replacing the compa group assessment with a performance factor. Location factor changes will continue to be incorporated into the program and we are removing cost of living adjustments. <br>
+    * **Addition of the Talent Assessment Process:** In the past, we did not have a company-wide talent assessment process. Some groups leveraged a 9-box format, skill/will matrices but there was no formal program to support the review of team members. With this newly-launched process, we plan on having talent review cycles company-wide twice a year using the same assessment template. <br>
+    * **Changes to the Annual Compensation Review Program:** In the past (FY20), in preparation for the Annual compensation review, managers went through a process to assess someone’s knowledge, skills, and abilities, also known as their compa group. This would directly feed as an input to the compensation review program in addition to location factor changes and cost of living adjustments. This is the second year that we replaced the compa group assessment with a performance factor. Location factor changes will continue to be incorporated into the program and we are removing cost of living adjustments. <br>
 
 * **Why does this matter to me?** <br> 
 This change will impact both team members and managers. 
-    * Team Members’ performance will be assessed (developing, performing, or exceeding) as well as potential. Team Members should be prepared to have a conversation with their manager about their performance in December. <br>
+    * Team Members’ performance will be assessed (developing, performing, or exceeding) as well as growth. Team Members should be prepared to have a conversation with their manager about their performance and growth in December/January. <br>
     * Managers will need to assess their team member’s performance (developing, performing or exceeding). They will also need to attend a calibration meeting in which team member’s ratings are discussed and evaluated for consistency across the team. Once the program closes, managers will be responsible for communicating performance to team members and in some organizations, growth will be communicated to team members as well. <br>
 
 * **How does this impact the teams I lead?** 
-    * As a manager, you will be required to assess your direct team member’s performance and potential. You will also be required to participate in calibration discussions in which ratings are reviewed to ensure consistency and minimize bias. After the program is approved, you will be responsible for communicating the performance axis with your team member. In some organizations, growth will be communicated as well. <br>
+    * As a manager, you will be required to assess your direct team member’s performance and growth. You will also be required to participate in calibration discussions in which ratings are reviewed to ensure consistency and minimize bias. After the program is approved, you will be responsible for communicating the performance axis with your team member. <br>
 
 * **Who I can reach out to in supporting me with rolling this out with my team?**  
     * You can reach out to your manager or your [aligned People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) to assist you with this process. <br>
@@ -443,20 +454,17 @@ This change will impact both team members and managers.
 * **When should I expect these changes to occur?** 
     * We are launching the talent review process at the beginning of November. Calibration discussions will happen throughout the month. The program will be approved by early December. The Annual Compensation Review program will kick off in January. For a more detailed timeline, please review the [initial launch timeline](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#initial-launch-timeline) above. <br>
 
-* **As a manager, am I required to assess both performance and growth for the first iteration? (FY'21 Q4)?** 
-    * For the reasons stated above in the [communication dos and don'ts](/handbook/people-group/performance-assessments-and-succession-planning/#do-communicate) section, we recommend that groups assess both performance and potential. However, all that is required in FY'21 Q4 is the assessment of performance, as this will impact compensation. There should be assessment consistency within each department at GitLab. Please confirm with your manager or People Business Partner whether your group will be assessing both performance and potential, or just performance for this iteration.
-
 * **As a manager, when reviewing my team members, what is the difference between Developing and Underperformance?**
     * [Underperformance](/handbook/leadership/underperformance/) is generally ongoing for a period of time with multiple attempts to remediate. "Developing" implies more of a stage of progression that is also consistent (I.E. not a sustained underperformance to meet expectations). 
     While everyone within the Developing category isn't necessarily Underperforming, a subset of team members who might be Underperforming would be grouped into the Developing category along with those team members who are not underperforming but are simply new to the role. 
     Team members who are on a formal Underperformance remediation plan, such as a [Performance Improvement Plan](/handbook/leadership/underperformance/#performance-improvement-plan-pip), will not be eligible for a compensation increase as a result of the [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor).
 
-* **How should I factor in COVID impact when assessing performance and potential?** 
+* **How should I factor in COVID impact when assessing performance and growth?** 
 
     When assessing team members who have had COVID impact that has affected their work, (reduced schedules, modified working hours, more extended time off, mental health impact, etc.) please keep in mind:
 
     -  Team members should be assessed at the _agreed upon and expected level_. For example, if manager and team member have agreed that the team member will be working at 80% for a period of time, the team member's performance should be assessed at 80% during that period (not at 100%).  
-    - We should be looking _holistically_ at performance and potential. This performance review should assess the team member's last 12 months of tenure (or less if the team member has joined more recently). Please ensure you are mindful of recency bias, particularly for those team members who have struggled with COVID impact. 
+    - We should be looking _holistically_ at performance and growth. This performance review should assess the team member's last 12 months of tenure (or less if the team member has joined more recently). Please ensure you are mindful of recency bias, particularly for those team members who have struggled with COVID impact. 
 
     Team members - It is very important that you are transparent with your manager if you are experiencing significant impact from COVID that has impacted your overall performance. Managers cannot be mindful of the points above during assessment periods if they are not aware and expectations are not aligned. If it is helpful, feel free to leverage the [COVID Self-Evaluation](/handbook/total-rewards/benefits/covid-19/#self-evaluation) template to facilitate a discussion with your manager.
 
@@ -482,17 +490,14 @@ The performance factor will be one of the factors that will be considered in for
     * We plan to conduct the talent review process twice per year. One mid-year (Q2) and one at the end of fiscal year (Q4). 
 * **What can I do to change my performance factor in the future?**
     * There are a lot of things that you can do to change your performance factor in the future. Please work with your manager on a career development plan and discuss actions that can be taken to improve. 
-* **What is my Growth rating?**
-    * This depends on if your group assessed growth and decided that it will be communicated for this first iteration. Some groups decided not to assess growth for this first iteration and focus on performance. Other groups have been using this process for some time; so decided to look at both performance and potential. Please check with your manager on what your organization decided to do. 
-Regardless if your organization assessed potential, it is ok for you to discuss skill growth with your manager at any time. You should talk to your manager about how you’d like to develop and create a career development plan to determine actionable steps in order to work towards the outcome that you are looking to achieve. 
 * **Can my Growth rating be changed?**
-    * If your organization did decide to assess and communicate growth ratings, your growth factor cannot be changed. You should note that at this point in time, the growth factor does not tie to any other programs (like the Annual Compensation Review) so this would be an opportunity for you and your manager to align on how you see your growth opportunity and how that compares to their assessment. This discussion can be an input into your career development discussion. 
+    * Your growth factor cannot be changed. Your manager assessed your growth factor and this would be an opportunity for you and your manager to align on your growth opportunities. This discussion can also be an input into your career development discussion. 
 * **What can I do to change my Growth rating in the future?**
-    * There are many things that a team member might do to change their growth rating in the future. Talk with your manager about how you might be able to develop a plan to take on more complex projects or learn a new skill. Do you currently possess all the skills needed for your current role? Have you identified what skills you’d like to learn and develop in? Have you determined what your career goals are and are you actively working towards those goals? These are some discussion questions that might help you and your manager align on a future plan for growth in potential. 
+    * There are many things that a team member might do to change their growth factor in the future. Talk with your manager about how you might be able to develop a plan to increase your [expandabitlity, adaptability, consistency and self-awareness](/handbook/people-group/talent-assessment/#adaptability). Do you currently possess all the skills needed for your current role? Have you identified what skills you’d like to learn and develop in? Have you determined what your career goals are and are you actively working towards those goals? Are there additional projects that you might be able to take on to stretch your current responsibilities and/or skills? These are some discussion questions that might help you and your manager align on a future plan for growth in potential. 
 * **My team member is currently on a performance remediation plan; how should I handle?**
     *  You should continue to move forward with communicating their performance factor to them and use the meeting as an opportunity to reinforce the expectations of meeting the goals highlighted in the plan.
-* **My team member has recently been promoted - but we assessed the Performance prior to the promotion. How do I communicate that to the team member?**
-    *  We recognise a timing of a promotion can sometimes coincide with the performance assessment. It's important to discuss with the team member whether the performance assessment was based on the previous or new role. Being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase and therefore a **promotion "resets" the performance factor evaluation** if assessed prior to the promotion. With the promotion the job responsibilities and scope can change significantly, therefore a new assessment should be made at the next talent assessment period. We would recommend to review the job responsibilities of the new role and identify focus points for growth in the new role. 
+* **My team member has recently been promoted - but we assessed the Performance/Growth prior to the promotion. How do I communicate that to the team member?**
+    *  We recognise a timing of a promotion can sometimes coincide with the talent assessment. It's important to discuss with the team member whether the talent assessment was based on the previous or new role. Being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase and therefore a **promotion "resets" the performance/growth factor evaluation** if assessed prior to the promotion. With the promotion the job responsibilities and scope can change significantly, therefore a new assessment should be made at the next talent assessment period. We would recommend to review the job responsibilities of the new role and identify focus points for growth in the new role. 
  
 
 ## Succession Planning
@@ -513,8 +518,7 @@ The resulting charts are reviewed with peers, e.g. all other executives, all oth
 
 | Resource | Purpose |
 | ------ | ------ |
-| [Performance/Growth Training Slides](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit#slide=id.g817046ecd3_0_44) | All managers/leaders should review this content prior to beginning the Performance/Growth matrix assessment process. |
-| [Performance/Growth Team Template](https://docs.google.com/presentation/d/123fS20lqXt-bhDEqwMCyL2K1BAcgVCEd61pQW6FmfRw/edit) | This slide deck provides a template for the assessment for teams that choose to do the exercise prior to the completion of the [assessment tool](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/). |
+| [Performance/Growth Assessment tool](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/). | This tool allows managers to place their team members in the Performance/Growth Matrix and helps facilitate discussion during calibration sessions. |
 | [Values competencies](/handbook/competencies/#values-competencies) | Values competenices form an important part of the Performance Factor evaluation and are important to review prior to beginning the assessment period. |
 |[Remote work competencies](/handbook/competencies/#remote-work-competencies) | Remote work competenices form an important part of the Performance Factor evaluation and are important to review prior to beginning the assessment period. |
 | [Functional competencies](/handbook/competencies/#functional-competencies) | Functional competenices (for groups that have them developmed) can also influence the Performance Factor and should be reviewed prior to the assessment period. |
@@ -525,15 +529,15 @@ The resulting charts are reviewed with peers, e.g. all other executives, all oth
 
 ## Key Talent Criteria  
 
-Key Talent makes up roughly ~10% of the population. Team members who are considered Key Talent meet at least one of the following criteria:  
+Key Talent makes up roughly ~10% of the population. Key Talent represents team members who have a significant impact on GitLab's success. They deliver quality results which are instrumental in moving critical company initiatives forward, and do so consistently in alignment with our values. These team members are often recognized as experts in their current role. Team members, at any level, can be considered Key Talent if they meet at least one of the following criteria:
 
 If the team member were to leave there would be:
-- Critical disruption to the product 
-- Critical disruption to ARR ([Annual Recurring Revenue](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)) - including delays for customers
-- Substantially impacts company ability to achieve significant milestones 
-- Substantial impact to a significant process 
 
-For FY’22, while key talent was determined at the VP level (or the Director level in some cases for larger divisions/departments), the decision was based on guidance and our continuous feedback process from all leadership levels.
+- Critical disruption to the product
+- Critical disruption to ARR ([Annual Recurring Revenue](/handbook/sales/sales-term-glossary/arr-in-practice/)) - including delays for customers
+- Substantially impacts company ability to achieve significant milestones
+- Substantial impact to a significant process
+- Significant impact to the operation of the functional area
 
 ## Key Talent and Performance
 
@@ -543,6 +547,23 @@ Performance and being identified as key talent can influence one another, but th
 - A team member that is new to the role and still ["developing"](/handbook/people-group/performance-assessments-and-succession-planning/#developing) could be identified as key talent if they work in an area of the business that is highly specialized and particularly difficult to hire for. 
 
 _Note: Intentionally hoarding knowledge is in direct conflict with our [transparency value](/handbook/values/#transparency) and is viewed as a performance issue as we measure performance based on alignment with our values._
+
+## Process To Determine Key Talent
+
+The first time we assessed Key Talent in March FY'22, Key Talent was determined at the ["all-directs" level](https://about.gitlab.com/company/team/structure/#all-directs). The All-Directs group is made up of anyone who reports directly to the e-group. It is made up of some ICs, some managers, some directors, and some senior leaders. 
+
+It is important to have a holistic view of all team members when determining who meets the key talent criteria, which is why we require a certain scope when assessing key talent in the organization. There are several factors that can help determine the level at which key talent should be assessed, including things like reporting lines and span of control. As a general rule, if a people manager meets the following requirements, key talent recommendations should start at their level:
+- Senior Manager level or above
+- 20+ direct and indirect reports
+
+The process to determine Key Talent is as follows: 
+
+   1. Senior Managers (if applicable), Directors, and Senior Directors can propose Key Talent to their manager and ultimately [All Directs](https://about.gitlab.com/company/team/structure/#all-directs) leader by highlighting team members in their division's key talent sheet. The fields that will be captured mirror [this template for the sheet](https://docs.google.com/spreadsheets/d/1SoLomy3c-1RD4Dpyc35PV5lYt34cG07vaQAim96JT1k/edit#gid=0) explaining how team members meet the Key Talent [criteria](/handbook/people-group/talent-assessment/#key-talent). 
+   2. The Senior Manager (if applicable), Director, Senior Directors, VP, and People Business Partner (PBP) discuss and calibrate the Key Talent nominations.
+   3. All proposals are gathered in one overview sheet for the Department. 
+   4. The PBP can use this sheet to review distributions levels across diversity factors and department/team/division.
+   5. A final proposal goes to the E-Group member who adds in their Key Talent and reviews for final approval on Division level.
+   6. PBP and E-Group member deliver sheet to Total Rewards to be uploaded in BHR.
 
 ## Organizational Value
 
