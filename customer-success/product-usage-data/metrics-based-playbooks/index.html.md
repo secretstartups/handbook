@@ -18,7 +18,7 @@ GitLab collects product usage metrics via [service ping](https://docs.gitlab.com
 | [`projects_bamboo_active`](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html#countsprojects_bamboo_active)| Higher than 20% of projects on GitLab instance after onboarding or growth month on month| Count of projects with active integrations for Bamboo CI | Ideally this metric should trend down as TAMs help onboard customers onto GitLab's single DevSecOps platform. If the metric is trending up instead, then it is important to understand the customer's motivation and liaise with product to ensure that the customer can benefit from GitLab CI/CD. |
 
 
-## User engagement use-case
+## User Engagement Use Case
 
 | Metric | Triggers | Definition | Discovery|
 |---- | ---- | -------- | --------- |
