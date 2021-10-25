@@ -334,7 +334,7 @@ The release post manager posts in Slack channels most requently with reminders. 
 - If you need someone to take an action, say so explicitly and tag that person
 - If the action requested is time sensitive, give a clear due date
 - If there are known issues they need to be aware of, list them out
-- Always cc your release post team for big announcments so everyone is in the loop
+- Always cc your release post team and Product Operations for big announcements so everyone is in the loop
 
 When communicating with your release post team, use the release post prep channel and organize discussions into threads to make it easier to track conversations. Also, review GitLab's [effective slack communication](https://about.gitlab.com/handbook/communication/#slack) guidance.
 
