@@ -433,6 +433,7 @@ Status in the table below means:
 | Web Direct | web direct | Created when purchase is made direct through the portal (check for duplicates & merge record if found) | Active |
 | Investor | outbound | Sourced by our investors (i.e. - GV, Khosla, ICONIQ). The `Investor` value is coupled with the `Investor Name` custom field | Active |
 | GitLab DataMart|core| Created by the GitLab Marketing Database data pump. Contains leads from various internal sources|Active|
+| GitLab Subscription Portal|Signed up for customers portal account, but did not upgrade|Active|
 
 ### A Note About Trials
 
