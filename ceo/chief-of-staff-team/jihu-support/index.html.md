@@ -77,9 +77,9 @@ graph LR
   repo(GitLab Inc. Repo)
 ```
 
-#### Guidelines for contributing database changes
+#### Guidelines for upstream contributions review process
 
-For database-related changes, including schema and data migrations, please refer to [this documentation](./jihu-database-change-process.html)
+Please refer to [JiHu Contribution Review Process](./jihu-contribution-review-process.html) for details.
 
 #### Guidelines for proprietary and upstream contributions
 
@@ -98,10 +98,6 @@ Contributions in projects that have proprietary and upstream contributions will 
 #### MR escalation
 
 Please refer to our [guidelines](https://docs.google.com/document/d/1zEiPBZ1D90LJdxBJDl45B4N-umqtR0VGt3803OgHjMo/edit?usp=sharing).
-
-#### Application Security Reviews
-
-The Application Security team reviews each JiHu contribution into GitLab repositories. Please see [this documentation](./jihu-contribution-review-process.html) for more information about this process.
 
 #### Release Certification Process
 
