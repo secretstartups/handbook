@@ -334,9 +334,9 @@ The release post manager posts in Slack channels most requently with reminders. 
 - If you need someone to take an action, say so explicitly and tag that person
 - If the action requested is time sensitive, give a clear due date
 - If there are known issues they need to be aware of, list them out
-- Always cc your release post team for big announcments so everyone is in the loop
+- Always cc your release post team and Product Operations for big announcments so everyone is in the loop
 
-When communicating with your release post team, use the release post prep channel and organize discussions into threads to make it easier to track conversations. Also, review GitLab's [effective slack communication](https://about.gitlab.com/handbook/communication/#slack) guidance.
+When communicating in either Slack `#release-post` or `#X-Y-release-post-prep` organized your announcements and requests  via unique discussions  threads to make it easier to track conversations. For example, avoid combined various reminder just because they fall on the same date, as they address different topics. As a general rule, if there's is a unique task list item for the reminder in the MR temaplte, that reminder should get it's own separate post. Also, review GitLab's [effective slack communication](https://about.gitlab.com/handbook/communication/#slack) guidance.
 
 Sample post to executive stakehlders for review:
 
