@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: "Brand Growth - Rloes & Responsibilities"
+title: "Brand Growth - Roles & Responsibilities"
 ---
 
 ## Levels
