@@ -61,7 +61,7 @@ The Senior Corporate Communications Manager is a [grade 7](/handbook/total-rewar
 #### Job Grade
 Staff Corporate Communications Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-**Market Justification:**
+**Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each specialized function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders.
 
 ## Responsibilities
 * Develop QoQ and YoY integrated communications programs.
@@ -84,7 +84,7 @@ Staff Corporate Communications Manager is a [grade 8](/handbook/total-rewards/co
 
 The Principal Corporate Communications Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-**Market Justification:** Survey data yields a return of 18 organizations with over 20 team members in the principal level within Marketing Communications. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. A comparable role at GitLab is the [Principal Internal Communications Manager](https://about.gitlab.com/job-families/marketing/internal-communications/#principal-internal-communications-manager). 
+**Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each business function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. Survey data yields a return of 18 organizations with over 20 team members in the principal level within Marketing Communications. A comparable role at GitLab is the [Principal Internal Communications Manager](https://about.gitlab.com/job-families/marketing/internal-communications/#principal-internal-communications-manager). 
 
 ## Responsibilities
 * Lead public company communication program; including quarterly earnings press releases and activities, investor updates, media interviews, etc.
