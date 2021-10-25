@@ -80,7 +80,7 @@ If a `~"master:broken"` is blocking your team (such as creating a security relea
 
 ### Triage broken master
 
-The [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity-team/) is the triage DRI for monitoring master pipeline failures, identification and communication of `~"master:broken"` issues.
+The [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) is the triage DRI for monitoring master pipeline failures, identification and communication of `~"master:broken"` issues.
 
 #### Triage DRI Responsibilities
 
@@ -139,7 +139,7 @@ The merge request author of the change that broke master is the resolution DRI. 
 1. When `master` build was failing and the underlying problem was quarantined /
    reverted / temporary workaround created but the root cause still needs to be
   discovered: create a new issue with the `~"master:needs-investigation"` label
-1. Create an [issue](https://gitlab.com/gitlab-org/quality/team-tasks/issues/new) for the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity-team/) describing how the `~"master:broken"` could have been prevented in the Merge Request pipeline.
+1. Create an [issue](https://gitlab.com/gitlab-org/quality/team-tasks/issues/new) for the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) describing how the `~"master:broken"` could have been prevented in the Merge Request pipeline.
 
 #### Responsibilities of authors and maintainers
 
@@ -232,7 +232,7 @@ Next, merge the merge request:
 
 ### Broken `master` mirrors
 
-[`#master-broken-mirrors`](https://gitlab.slack.com/archives/C01PK38VAN8) was created to remove duplicative notifications from the `#master-broken` channel which provides a space for [Release Managers](https://about.gitlab.com/community/release-managers/) and the [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity-team/) to monitor failures for the following projects:
+[`#master-broken-mirrors`](https://gitlab.slack.com/archives/C01PK38VAN8) was created to remove duplicative notifications from the `#master-broken` channel which provides a space for [Release Managers](https://about.gitlab.com/community/release-managers/) and the [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/) to monitor failures for the following projects:
 
 - <https://gitlab.com/gitlab-org/security/gitlab>
 - <https://dev.gitlab.org/gitlab/gitlab-ee>
@@ -581,7 +581,7 @@ During FY22 Q4 (the 14.4, 14.5, 14.6 Retrospectives) we will conduct an experime
 
 ### Experiment Hypothesis
 
-As GitLab has grown, there have become too many layers between a group retrospective and the company-wide retrospective. Performing retrospective summaries at the Section level will increase our rate of learning and encourage broader collaboration between stable counterparts across the R&D organization. 
+As GitLab has grown, there have become too many layers between a group retrospective and the company-wide retrospective. Performing retrospective summaries at the Section level will increase our rate of learning and encourage broader collaboration between stable counterparts across the R&D organization.
 
 ### Experiment Success Measurements
 
