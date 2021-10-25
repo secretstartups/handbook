@@ -36,7 +36,11 @@ Examples of helpful notes include:
 
 You can also set your interview limits to alert the Candidate Experience Specialists if you are at your daily and weekly interviewing bandwidth. Please note that the team will add additional interviews to your calendar if necessary, but will do our best to avoid overbooking.  
 
+![daily-and-weekly-limits-screenshot](./Limits.png)
+
 Additionally, you can help us understand which meetings are moveable and which are not. We’ve set up some recommendations in your Prelude account to get you started, but you can adjust these preferences yourself. 
+
+![availability-request-form-image](./Conflicts.png)
 
 #### Find a replacement
 If you need to decline an interview within 48 hours of the scheduled time, find an alternate interviewer where appropriate. Finding a replacement will help us avoid rescheduling a candidate. Once you have found a replacement, email the candidate’s name and replacement interviewer to ces@gitlab.com.
