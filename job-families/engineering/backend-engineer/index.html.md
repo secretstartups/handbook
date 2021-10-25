@@ -31,6 +31,7 @@ requirements and responsibilities:
 * Share [our values][values], and work in accordance with those values
 * Ability to thrive in a fully remote organization
 * Ability to use GitLab
+* Comfort and familiarity with our [code review process](/handbook/engineering/workflow/code-review/)
 
 [values]: /handbook/values/
 [collaboration]: /handbook/values/#collaboration
