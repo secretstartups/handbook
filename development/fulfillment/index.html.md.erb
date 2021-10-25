@@ -398,6 +398,42 @@ The feature freeze for Fulfillment occurs at the same time as the rest of the co
 
 Any issues not merged on the current milestone post feature freeze, will need to be moved to the next one (priority may also change for those).
 
+### Incident Management
+
+On going [InfraDev](/handbook/engineering/development/fulfillment/infradev/) work will provide greater observability to all of the Fulfillment systems. In the meantime, however, we have some tools like [Cabot](https://cabotapp.com/) that post to [#s_fulfillment_status](https://gitlab.slack.com/archives/CL7SX4N86) in Slack. On occasion, there are reports of systemic critical trouble like a liveliness probe check failure, invalid SSL certificate, or other application errors. Look to the following sub-sections below for ways that you can contribute to error resolution.
+
+See this handbook page for more information on [GitLab Monitoring](https://about.gitlab.com/handbook/engineering/monitoring/) and [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/).
+
+#### Investigation
+
+- You can visit our Cabot instance [here](http://jlo-gitlab.bluegod.net:9092/accounts/login). You can find the login credentials in the [_Subscription portal_ vault in 1Password](https://gitlab.1password.com/vaults/27nafqigafgxfjpjkl2wvzs26y/allitems/jdeumqscahayoxvcfazbzdv22u). You will see services for both CustomersDot production and staging.
+- Exceptions for CustomersDot are captured in [Sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/).
+- You can query logs in [Kibana / Elasticsearch](https://log.gprd.gitlab.net/). Use this link to read more on using [kibana at GitLab](https://about.gitlab.com/handbook/support/workflows/kibana.html))
+- Grafana has some [triage dashboards](https://dashboards.gitlab.net/d/RZmbBr7mk/gitlab-triage?orgId=1&refresh=5m) that are generally applicable for GitLab, but do not contain specific observability metrics for Fulfillment systems until the InfraDev work is complete.
+- Blackbox probes reporting production availability alerts are reported to [#production in Slack](https://app.slack.com/client/T02592416/C101F3796/)
+
+#### Declaring Incidents
+
+[Raising an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) is always an option if you need immediate attention on a blocking problem.
+
+Examples of blocking problems include:
+
+- Expired certificate causing interrupted service with staging or test environments
+- ??
+
+Critical problems like a production outage should be raised quickly. You can check [#incident_management](https://gitlab.slack.com/archives/CB7P5CJS1) before raising an incident.
+- CustomersDot outage
+- Failed CustomersDot deploy
+- ??
+
+#### Fulfillment Group Grafana Dashboards
+
+These dashboards are designed to give an insight, to everyone working in a feature category, into how our code operates at GitLab.com scale.
+
+- [License](https://dashboards.gitlab.net/d/stage-groups-provision/stage-groups-group-dashboard-fulfillment-license)
+- [Purchase](https://dashboards.gitlab.net/d/stage-groups-purchase/stage-groups-group-dashboard-fulfillment-purchase)
+- [Utilization](https://dashboards.gitlab.net/d/stage-groups-subscription/stage-groups-group-dashboard-fulfillment-utilization)
+
 ### Measuring Engineering Performance
 
 See the [Fulfillment Section Performance Indicators](/handbook/engineering/development/performance-indicators/fulfillment/) as well as the
