@@ -61,4 +61,6 @@ DRI: Candidate Experience Team
 1. Go down to the Attirbutes section on the left hand panel and select `Interviewer Preferences`
 1. Add availability preferences, ensure the time zone is accurate, and consider interview limits.
 
+Read about how to organize your calendar on the [Interviewer Calendar Maintenance](/handbook/hiring/prelude/calendar/) page. 
+
 
