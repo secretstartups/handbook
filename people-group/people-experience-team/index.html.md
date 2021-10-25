@@ -194,10 +194,10 @@ Wait for People Experience Team to tag you on the team member’s onboarding iss
 * SSN added?
    * Personal tab > make sure “National Identification Number Type” and “National Identification Number” are filled out
 * I-9 Field
-   * Personal tab > Once the SSN has been added, tick the I-9 Processed checkbox
-* PlanSource Field (on Job tab) > tick PlanSource checkbox once you have verified DOB and SSN. 
+   * Personal tab > Once the SSN has been added, tick the I-9 Processed checkbox 
 * Benefit Group
    * Check team member’s state (under Personal tab) against the [Benefit Group Cheat Sheet](https://docs.google.com/spreadsheets/d/1QU2rsFrrKSRQIrzWu2eqylK0HrNvt9FUhc_S5VQAVJ4/edit?ts=5d922f86#gid=0).
+* Sync Employee to PlanSource Field (on Job tab) > tick PlanSource checkbox once you have updated Benefit Group.   
 * Ready to Add to ADP
    * Comment on the onboarding issue, tagging US payroll Specialist to add to ADP.
 * Update GitLab and Turn off Notifications
@@ -325,7 +325,6 @@ Process:
 * Select the special access levels one by one and check the team members profile mentioned in that level. Update their “Access Level” in the report accordingly.
 * Turn off the filter » Search the name one by one » Update their Access Level according to the profile in the Access Level & Additional Column. Use “;” for multiple access levels.
 * For rest of the team members fill the Access Level with “Employee self-service”
-* Turn off filter » Create a filter » Role » Uncheck Individual Contributor » Job Title » Select all the Job titles which are individual contributors but their role is equivalent to managers. Example: Staff Backend Engineer, Fellow Engineer, Principal Product Manager. Change their access level to Employee self-service from Managers and for Contractor self-service, remove Managers from the Additional column. *Turn off filter » Create a filter » Select each access level to audit with the BambooHR access level count. Make sure to match the count of Employee self-service, Managers and Contractor self-service
 
 Note: A terminated team member on Garden Leave will still have the access level to prevent reporting issues. To prevent the access, IT Ops turns off the access via Okta manually as BambooHR is still active for team members.
 
