@@ -27,7 +27,7 @@ To log in, visit Prelude.co and log in with your GitLab email address. From ther
 
 Scroll down to add notes and adjust the dates and times to match your preferences. Then ensure that your time zone is correct so that it matches your availability. 
 
-![Screenshot of availability request form](images/handbook/people-group/Availability.png)
+![Screenshot of availability request form](/images/handbook/people-group/Availability.png)
 
 Examples of helpful notes include: 
  - “Can schedule 1 hour outside of availability with advance notice”
