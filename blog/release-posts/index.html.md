@@ -139,7 +139,7 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 Critical path tasks:
 
 - Setting up the release post branch and completing all the tasks assigned to the Release Post manager in the Release Post MR template
-     - If you can not perform any of the release post manager tasks between the 15th and the 22nd of the month as defined in the [monthly MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), please sign up for a release post that better aligns with your availability
+     - Reminder that if you can not perform any of the release post manager tasks between the 15th and the 22nd of the month as defined in the [monthly MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), it is recommended you sign up for another release post. In the case that schedule/circumstances changes after you'd already signed up for the release post, please consult with Product Operations on how to best manage the situation. 
 - Creating the release post [merge request](#create-the-release-post-mr)
 - Creating MRs to collect [usability improvements, performance improvementsm and bug fixes](#create-mrs-for-usability-improvements-bugs-and-performance-improvements)
 - Working with VP of Product Management to identify features to highlight in the introdcution
