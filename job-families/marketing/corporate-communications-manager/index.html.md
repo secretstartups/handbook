@@ -56,6 +56,28 @@ The Senior Corporate Communications Manager is a [grade 7](/handbook/total-rewar
 * Experience managing agencies and driving results.
 * Highly organized, detail-oriented and able to drive cross-functional deadlines consistently.
 
+### Staff Corporate Communications Manager
+
+#### Job Grade
+Staff Corporate Communications Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+**Market Justification:**
+
+## Responsibilities
+* Develop QoQ and YoY integrated communications programs.
+* Develop overarching company storylines for media.
+* Manage PR agencies to scale integrated communications programs  and ensure their results contribute to the overall corporate marketing objectives and goals.
+* Manage media training schedule and ensure 100% compliance of training completion.
+* Strategically lead crisis communications efforts as needed.
+* Develop program’s OKRs and deliver quarterly reporting of results.
+* Responsible for ideation of Corp Communications activities, OKRs, and reporting on results.
+
+#### Requirements
+* 9+ years experience in public relations and/or marketing communications
+* Experience developing and executing communications programs.
+* Experience managing agencies and driving results.
+* Highly organized, detail-oriented and able to drive cross-functional deadlines consistently.
+
 ### Principal Corporate Communications Manager
 
 #### Job Grade
