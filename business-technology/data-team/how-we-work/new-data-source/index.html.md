@@ -73,13 +73,13 @@ The decision for which instrument to use, is **always** based on the combination
 Its the Data Team that determines which instrument is used. The following decision diagram is used to determine the right extraction solution:
 
 ```mermaid
-graph TD
+graph LR
    
 %%descisions
     api_available{API Available?}
     fivetran_connector_available{Fivetran connector available?}
     stitch_connector_available{Stitch connector available?}
-    data_is_ext_snowflake_sources{Data is ext Snowflake Sources}
+    data_is_ext_snowflake_sources{Data is external Snowflake Source}
 
 %%end solutions
     Fivetran([Fivetran])
