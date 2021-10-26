@@ -95,7 +95,17 @@ You can read more about the process in [our handbook](https://about.gitlab.com/h
 * "X has helped to update handbook pages, keeping the handbook alive"
 * "I find the team member is doing very inspiring work and easy to collaborate with"
 
+*What does 'going above and beyond' mean?*
 
+> to do more or better than would usually be expected of you
+
+What do we normally expect of a GitLab team member? Read their job family responsibilities to determine if their work is part of the normal job expectations. As an example, a senior Frontend developer is expected to [solve technical problems of high scope and complexity.](https://about.gitlab.com/job-families/engineering/development/frontend/#senior-frontend-engineer). Going above and beyond involves taking on work that is outside the scope of their job responsibility listing, and executing it to a high level.
+
+Some tips for knowing if someone is going above and beyond:
+
+- Look at other successfully approved bonuses in that person's stage. Is this work similar?
+- Look at the level above the person's current job responsibilities. Do their actions exceed their current role?
+- Look at the impact of the person's work across the wider organization. Is the work done has a large-scale impact outside of their team or stage?
 Any bonus submitted that does not include clear and valid reasons for submittal may be denied and the nominator / manager will be asked to provide further content and details.
 
 #### Multiple Discretionary Bonuses
