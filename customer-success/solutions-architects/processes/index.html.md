@@ -253,9 +253,4 @@ To be efficient as possible, this is the recommended approach:
 ### Alliances SA Engagement Model
 Alliance SA's are aligned globally with Alliance Partner Managers and the Alliance Business Development Managers.
 
-##### Issue Management Details
-
-1. Creation process.
-2. Update process.
-
 Checkout [this document](../commercial2/index.html.md)
