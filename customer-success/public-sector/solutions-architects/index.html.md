@@ -77,19 +77,19 @@ FAQ for customer engagements when customers are using OpenShift
 
 **Q: How will the customer use GitLab with OpenShift?**
 
-A: When working with a potential prospect its important to understand how that customer wishes to use GitLab and OpenShift together. Will the customer just deploy projects from GitLab to OpenShift? Does the customer wish to run a GitLab Runner within OpenShift? Or, does the customer need to run the GitLab application within OpenShift? Knowing the answer to this is key before continuing the conversation because GitLab currently can deploy to OpenShift and run runners within OpenShift, but the GitLab application does not run in OpenShift just yet.
+A: When working with a potential prospect its important to understand how that customer wishes to use GitLab and OpenShift together. Will the customer just deploy projects from GitLab to OpenShift? Does the customer wish to run a GitLab Runner within OpenShift? Or, does the customer need to run the GitLab Server within OpenShift? Knowing the answer to this is key before continuing the architecture conversation because GitLab currently can deploy to OpenShift, can run runners within OpenShift and run the GitLab server within OpenShift.
 
 **Q: What is the planned release date for OpenShift integration?**
 
-A: The tentative release date for OpenShift integration (running GitLab in OpenShift) is calendar Q1 2021 and is subject to change.
+A: The GitLab Server Operator (the ability to run a GitLab instance on openShift) was released with GitLab v14.3. The GitLab Runner Operator was already released previous to v14.3.
 
 **Q: What features currently do not work when running GitLab with OpenShift?**
 
-A: SAST, DAST, AutoDevops. There are workarounds, but those workarounds are not supported or recommended.
+A: SAST, DAST, AutoDevops. These are on the roadmap with no designated date as of yet. 
 
 **Q: What OpenShift versions will the integration work with?**
 
-A: The current plan is to support OpenShift version 4.5 and above. Versions 3.x and below will not be supported.
+A: OpenShift versions 4.5 through 4.8 are currently supported. Version 4.9 support is in the works. Versions 3.x and below will not be supported.
 
 **Q: How can I (or my customer) track the integration status?**
 
