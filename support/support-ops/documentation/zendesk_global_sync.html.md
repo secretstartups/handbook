@@ -39,23 +39,41 @@ the data is sent to Zendesk.
 
 ```
 SELECT
-  Account_ID_18__c,
-  Name,
-  CARR_This_Account__c,
-  Ultimate_Parent_Sales_Segment_Employees__c,
-  Account_Owner_Calc__c,
-  Number_of_Licenses_This_Account__c,
-  Type,
-  Technical_Account_Manager_Name__c,
-  Support_Level__c,
-  Manual_Support_Upgrade__c,
-  Region__c,
-  JB_Support_Level__c
+  Account.Account_ID_18__c,
+  Account.Name,
+  Account.CARR_This_Account__c,
+  Account.Ultimate_Parent_Sales_Segment_Employees__c,
+  Account.Account_Owner_Calc__c,
+  Account.Number_of_Licenses_This_Account__c,
+  Account.Type,
+  Account.Technical_Account_Manager_Name__c,
+  Account.Support_Level__c,
+  Account.Manual_Support_Upgrade__c,
+  Account.Region__c,
+  Account.GS_Health_Score_Color__c,
+  Account.Next_Renewal_Date__c,
+  (SELECT
+     Current_Subscription_Status__c,
+     Current_Term_End_Date__c,
+     Current_Term_Start_Date__c,
+     Plan_Name__c
+   FROM Customer_Subscriptions__r
+   WHERE Current_Subscription_Status__c = 'Active'),
+   (SELECT
+      Zuora__Status__c,
+      Zuora__SubscriptionEndDate__c	,
+      Zuora__SubscriptionStartDate__c,
+      Support_Level__c,
+      Zuora__OpportunityName__c,
+      Zuora__SubscriptionNumber__c
+    FROM Zuora__Subscriptions__r
+    WHERE Zuora__Status__c = 'Active')
 FROM Account
 WHERE
-  Type IN ('Customer', 'Former Customer') OR
-  (Type IN ('Prospect', 'Prospect - CE User') AND
-   Manual_Support_Upgrade__c = true)
+  Account.Type IN ('Customer', 'Former Customer') OR
+  (Account.Type IN ('Prospect', 'Prospect - CE User') AND
+   Account.Manual_Support_Upgrade__c = true) OR
+  Account.Account_ID_18__c = '0014M00001sGJ8xQAG'
 ```
 
 ### Partner organization sync
@@ -74,22 +92,24 @@ the data is sent to Zendesk.
 
 ```
 SELECT
-  Account_ID_18__c,
-  Name,
-  CARR_This_Account__c,
-  Ultimate_Parent_Sales_Segment_Employees__c,
-  Account_Owner_Calc__c,
-  Number_of_Licenses_This_Account__c,
-  Partners_Partner_Status__c,
-  Partner_Track__c,
-  Technical_Account_Manager_Name__c,
-  Support_Level__c,
-  Manual_Support_Upgrade__c,
-  Region__c,
-  Next_Renewal_Date__c,
-  Products_Purchased__c
+  Account.Account_ID_18__c,
+  Account.Name,
+  Account.CARR_This_Account__c,
+  Account.Ultimate_Parent_Sales_Segment_Employees__c,
+  Account.Account_Owner_Calc__c,
+  Account.Number_of_Licenses_This_Account__c,
+  Account.Type,
+  Account.Technical_Account_Manager_Name__c,
+  Account.Support_Level__c,
+  Account.Manual_Support_Upgrade__c,
+  Account.Region__c,
+  Account.GS_Health_Score_Color__c,
+  Account.Next_Renewal_Date__c,
+  Account.Partners_Partner_Status__c,
+  Account.Partner_Track__c
 FROM Account
 WHERE
+  Type = 'Partner' AND
   Partners_Partner_Status__c IN ('Authorized', 'Former') AND
   Partner_Track__c IN ('Open', 'Select', 'Technology')
 ```
