@@ -18,7 +18,7 @@ description: "Landing page for many of the handbook pages the talent acquisition
 - [Greenhouse](/handbook/hiring/greenhouse/)
 - [Hiring Charts](/handbook/hiring/charts/)
 - [Interviewing](/handbook/hiring/interviewing/)
-- [Interview Schedule](/handbook/hiring/interview-schedule)
+- [Prelude](/handbook/hiring/prelude)
 - [Overview of Job Families](/handbook/hiring/job-families)
 - [Job Offers and Post-Interview Processes](/handbook/hiring/offers/)
 - [People Technology & Insights](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/)
