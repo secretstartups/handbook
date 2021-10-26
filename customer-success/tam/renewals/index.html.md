@@ -66,7 +66,7 @@ The action items created from the “Renewal Review” meeting should be incorpo
 
 For greater predictability across the customer base for renewal, upselling, downgrade, and churn, tracking Account Health and Risks is incorporated into Gainsight. This process creates tighter collaboration with the overall CRO Organization and the rest of GitLab. Note: this was formerly at the Opportunity level instead of Account level. It was moved to Account to be long-term oriented and as Sales owns the Opportunity.
 
-To learn the full process, watch the [At-Risk Customer Process](https://youtu.be/MQqfL3WT1zo) video. 
+To learn the full process, watch the [At-Risk Customer Process](https://youtu.be/MQqfL3WT1zo) video.  
 
 See the [At Risk Customers Dashboard](https://gitlab.gainsightcloud.com/v1/ui/gsdashboard#/8e0f5cb6-c8e1-4b06-8cd2-92af72d76615) for more information.
 
@@ -107,6 +107,8 @@ When a TAM considers an account at-risk of contraction or churn, they should set
 * **Tier Downgrade** - move down tiers
 * **Seat Churn** - reduce license seat count
 * **Customer Sentiment** (Impact Unknown) - customer is unhappy and the impact isn’t quantified
+* **Competitor** - any competitive intelligence we might be up against
+* **Stage Name** - stage impact, for example, product deficiencies, direction, or needs.
 
 ##### Risk Reason
 * **Lack of adoption** - Customer never adopted the product or specific features so they did not get value. This can be because of organizational silos or lack of internal resources. If they didn't adopt because they didn't see / experience value, it should be Product Gap

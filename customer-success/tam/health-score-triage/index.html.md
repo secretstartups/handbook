@@ -56,7 +56,7 @@ Potential risk or significant lack of information leading to uncertainty. Indica
 
 ### Red
 
-Specific, known risks to account retention or upcoming opportunity, or overwhelming lack of information, such as unresponsiveness leading up to renewal. Customer's experience: engagement, adoption and/or experiences are significantly lower than expected where issues are blocking GitLab's ability to deliver expected value, outcomes, or positive experiences as defined by the customer. 
+Specific, known risks to account retention or upcoming opportunity, or overwhelming lack of information, such as unresponsiveness leading up to renewal. Customer's experience: engagement, adoption and/or experiences are significantly lower than expected where issues are blocking GitLab's ability to deliver expected value, outcomes, or positive experiences as defined by the customer.
 Examples:
 
 - Product does not deliver expected value or outcomes as defined by success plan
@@ -93,7 +93,7 @@ The TAM is responsible for coordinating with all relevant parties to develop a p
 
 ### Gainsight
 
-#### TAM Sentiment 
+#### TAM Sentiment
 
 TAMs update TAM Sentiment in determining overall account health. The guidelines are as follows:
 
@@ -115,7 +115,7 @@ Health score criteria is either manually or automatically applied to determine t
    * Example 1: If all product usage data is missing, then it's entirely reallocated to the other measures (Engagement, ROI, TAM Sentiment...). Heavier weighter measures, such as TAM Sentiment, would receive a bigger allocation because it's already the largest.
    * Example 2: If we're receiving Product Usage Data but Continuous Delivery (CD) is NULL, that will be reallocated among Product Usage Data measures. So CI health would go from, say, 5% to 7%.
 
-##### Enterprise 
+##### Enterprise
 
 | Category | Description | Method | Calculation | Weighting |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | --------- |
@@ -146,26 +146,28 @@ Health score criteria is either manually or automatically applied to determine t
 | 51-75% | Green   | Yellow | Red     |
 | > 75%  | Green   | Green   | Green |
 
-#### Triage CTA
+#### At-Risk CTA
 
-##### Opening a Triage CTA:
+For a process overview, see [At Risk Customer Video](https://www.youtube.com/watch?v=MQqfL3WT1zo).
 
-When an account's health status changes to something other than [Green](#green), it may warrant creating a [Gainsight CTA](/handbook/customer-success/tam/gainsight/#ctas). The following criteria determine the creation of the triage CTA:
+##### Opening an At-Risk CTA:
 
-- [Red](#red): The TAM will create a triage CTA
+When an account's health status changes to something other than [Green](#green), it may warrant creating a [Gainsight CTA](/handbook/customer-success/tam/gainsight/#ctas). The following criteria determine the creation of the At-Risk CTA:
+
+- [Red](#red): The TAM will create a At-Risk CTA
 - [Yellow](#yellow): the TAM will determine whether the CTA should be created, based on the [severity of the risk](#yellow).
 
-To manually create the triage CTA, perform the following steps:
+To manually create the At-Risk CTA, perform the following steps:
 
 - Within the account, go to the Cockpit.
 - Create a new CTA, and select "Risk" as the type.
-- Choose the triage playbook.
+- Choose the At-Risk playbook.
 
-Automatic triage CTA creation is triggered by the Gainsight rule `CTA - Create Triage CTA when health becomes Red` the next day if a Triage CTA and/or playbook has not yet been created.
+Automatic At-Risk CTA creation is triggered by the Gainsight rule `CTA - Create At-Risk CTA when health becomes Red` the next day if a At-Risk CTA and/or playbook has not yet been created.
 
-##### Closing a Triage CTA:
+##### Closing an At-Risk CTA:
 
-When a triage issue/risk situation is resolved, or once the customer renews and is past any immediate risk of further downsell, the triage CTA can be closed.  The CTA is kept open until this time so that the average time can be tracked to better understand patterns around time-to-resolution on customer health risk scenarios.
+When an At-Risk issue/risk situation is resolved, or once the customer renews and is past any immediate risk of further downsell, the At-Risk CTA can be closed.  The CTA is kept open until this time so that the average time can be tracked to better understand patterns around time-to-resolution on customer health risk scenarios.
 
 ### GitLab Account Triage Project
 
@@ -231,7 +233,7 @@ to improve the customer's product experience within the triage issue.
 
 Identify the Product DRI by from our [product categories](https://about.gitlab.com/handbook/product/categories/#devops-stages)
 page and ping them in the issue.
-As the TAM responsible for the at-risk account, you are accountable for coordinating all resources. 
+As the TAM responsible for the at-risk account, you are accountable for coordinating all resources.
 Engage early and often with product and any other groups required to advocate for your customer's desired outcomes.
 
 Because `devops::` labels are scoped; please choose the highest-impact stage label and apply it.

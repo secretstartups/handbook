@@ -56,7 +56,7 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | Low License Utilization                                         | Automated        | Risk            |                                                              |
 | Non-Engaged Customer                                            | Manual           | Risk            |                                                              |
 | Product Risk                                                    | Manual           | Risk            |                                                              |
-| Risk Escalation                                                 | Manual           | Risk            | [Opening a Triage CTA](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#triage-cta)                                         |
+| Risk Escalation                                                 | Manual           | Risk            | [Opening an At-Risk CTA](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#triage-cta)                                         |
 | Create Success Plan                                             | Automated        | Lifecycle       |                                                              |
 | Customer Offboarding                                            | Automated        | Lifecycle       |                                                              |
 | Executive Business Review (EBR)                                 | Automated        | Lifecycle       | [EBR in a Box](https://drive.google.com/open?id=1wQp59jG8uw_UtdNV5vXQjlfC9g5sRD5K)                                             |

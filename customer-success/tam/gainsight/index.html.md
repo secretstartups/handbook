@@ -174,4 +174,6 @@ The videos listed here are internal to GitLab only. You will need to be logged i
 - [Using Gainsight in Account Team Meetings](https://youtu.be/gT_pz9PoHHg)
 - [License Usage in Gainsight](https://youtu.be/ZqpmxoUy6EE)
 - [Product Usage Data - Overview](https://youtu.be/5_J9Kfbu5JA)
+- [At Risk Customer Video](https://www.youtube.com/watch?v=MQqfL3WT1zo).
+
 
