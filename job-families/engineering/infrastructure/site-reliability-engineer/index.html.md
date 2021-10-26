@@ -125,7 +125,7 @@ Technical:
 1. Deep knowledge in 2 areas of expertise and general knowledge of all areas of expertise. Capable of mentoring Interns and Intermediate SREs in all areas and other SRE in their area of deep knowledge.
 1. Working knowledge of GitLab Product, including deep knowledge of groups which may be part of stable counterpart assignments.
 1. Contributes improvements to the GitLab codebase to resolve issues.
-1. For stable counterpart assignments, make technical contributions focused improving reliability within the stage group's scope
+1. For stable counterpart assignments, make technical contributions on focused improving reliability within the stage group's scope
 
 Execution:
 1. Identifies significant projects that result in substantial cost savings or revenue.
