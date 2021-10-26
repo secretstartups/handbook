@@ -361,7 +361,21 @@ Via an integration of Allocadia and Coupa, Marketers are able to create a Coupa 
 
 #### Mapping Expenses
 
-Go to the home page. In the `Actuals` column, see if your `Map` column has a Map (#) in red. If so, click on that link, and it will open a new screen to show you what needs to be mapped. Scroll over to see descriptions, invoice numbers, etc from Netsuite. All you do is select the hierarchy category and then the line item to match each one to. Then hit map. You can also bulk map by shifting /clicking several lines and then hit bulk map for a smaller screen with its own “map” button.
+The huge advantage of having an Allocadia ID tagged throughout the systems is that it can then be used to easily match line item plans/forecasts with actuals.
+Allocadia has set up the following (hardcoded!) mapping for our instance:
+
+1. Map to a Line Item by ID, using the 7 digits found in Class: Name
+
+If Class: Name is not “- No Class -“, map to a Line Item by a match on the Existing Salesforce Campaign field
+If Class: Name is not “- No Class -“, map to a Line Item by a match on the Campaign Tag to be Created field
+If Class: Name is not “- No Class -“, map to a Line Item by a match on the Comments field. 
+
+2. If Department: Name field = [name], map to the activity plan with a matching Department: Name rollup panel field value
+**NOTE: This means that if we change the name of the activity plan department, we need to let Allocadia know!**
+
+3. If Department: Name = Field Marketing + Subsidiary: Name = `Gitlab XXX`, map to the `Y REGION` folder
+
+To find expenses that need to be mapped after the Netsuite actual upload, go to the home page. In the `Actuals` column, see if your `Map` column has a Map (#) in red. If so, click on that link, and it will open a new screen to show you what needs to be mapped. Scroll over to see descriptions, invoice numbers, etc from Netsuite. All you do is select the hierarchy category and then the line item to match each one to. Then hit map. You can also bulk map by shifting /clicking several lines and then hit bulk map for a smaller screen with its own “map” button.
 
 If you accidentally map something incorrectly, it can be corrected. You'll need to go to the Activities grid for the line item where you accidentally mapped it, right click and select `Go to Actuals`. A new screen will appear where hopefully you see your error line and you can delete by scrolling to the far right.
 
