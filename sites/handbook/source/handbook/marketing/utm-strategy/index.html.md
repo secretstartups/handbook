@@ -19,35 +19,35 @@ The purpose of this handbook page is to outline how our UTM strategy drives insi
 
 Everyone can contribute - See something you'd like to discuss or iterate on? Start an MR and post it in [#campaign-reporting](https://gitlab.slack.com/archives/CSBDEH2DQ) slack channel.
 
-## UTMs for URL tagging and tracking
-{: #utm-tracking}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-All URLs that are promoted on external sites and through email must use UTM URL tagging to increase the data cleanliness in Google Analytics and ensure marketing campaigns are correctly attributed. 
-
-We don't use UTMs for internal links. UTM data sets attribution for visitors, so if we use UTMs on internal links it resets everything when the clicked URL loads. This breaks reporting for paid advertising and organic visitors.
-
-You can access our internal [URL tagging tool in Google Sheets](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=0). You will also find details in this spreadsheet on what "Campaign Medium" to use for each URL. If you need a new campaign medium, please check with the Digital Marketing Programs team as new mediums will not automatically be attributed correctly.
-
-If you are not sure if a link needs a UTM, please speak with the marketer who is managing your campaign to ensure you are not interrupting the reporting structure they have in place.
-
 ## UTMs and Sisense dashboards
 {: #utms-sisense .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
+UTM parameters are specific text strings appended to the URLs, used to facilitate performance tracking in Sisense dashboards through Bizible Touchpoints.
 
-UTM parameters are used to facilitate performance tracking in Sisense dashboards, enabling different teams across Marketing measure how traffic, conversions, and ROI are impacted by marketing efforts. UTMs are essentially building blocks of traffic and conversion attribution and they help:
+[Bizible Touchpoints] (https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-touchpoints) are series of interactions a prospect has with the online or offline marketing efforts. They capture a multitude of information about the interaction, including utm parameters, date/time of the interaction, and type of interaction (web visit, form submission, campaign response, etc.).
 
-   - Identify sources of traffic and their properties
-   - Organise incoming traffic into meaningful buckets
-   - Attribute results (conversions) to the correct traffic sources
+Bizible Touchpoint is created, based on the `utm_campaign`, `utm_source`, `utm_medium` and mapped to Sisense dashboard view through a defined logic.
 
-Developing and following a proper strategy to add UTM parameters to the web links will ensure attribution tracking is consistent and data in Sisense dashboard is accurate.
+Here is Bizible's breakdown of how [Touchpoints are generated and mapped](https://docs.marketo.com/display/BIZ/Touchpoint+Generation+and+Mapping):    
+
+| Type of Interaction                  | Generation Method            | Mapping Method                                                                                                       |
+|--------------------------------------|------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Online, on your site(s)              | Bizible JavaScript           | Through the Online Channels page in Bizible, by referencing UTM values, landing page, and referring page information |
+| Offline; Online, not on your site(s) | CRM Campaign membership sync | Through the Offline Channels page in Bizible, by referencing Campaign Type                                           |
+| Sales activity                       | CRM Activity sync            | Through the Online Channels page in Bizible, by referencing the Campaign Name assigned on the Activities page        |
+
+**[Demand Gen Dashboard in Sisense](https://app.periscopedata.com/app/gitlab:safe-dashboard/919221/Demand-Gen-Dashboard):** provides an overview of demand gen campaigns performance, measured by the key performance indicators (KPIs): Inquiries, MQLs, and SDR Accepted. These metrics are based on Bizible touchpoints data, while Opportunities, Total IACV$, SAO, Pipeline IACV$, Won Deals count, and Won IACV$ metrics are pulled using the [Linear Bizible Attribution Touchpoints model] (https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#linear-attribution).
 
 ## UTM link builder process
 {: #utm-builder .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-
-**[UTM builder googlesheet with formulas](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=1052439774)**
+**[UTM builder googlesheet with formulas](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=1052439774)** should be used to setup a tracking URL for your campaign. The process involves the following steps:
+1. Open the [Tracking URL Builder] (https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=1052439774)
+2. Add in your page URL in the first column
+3. Fill in each attribute of your UTM parameter, including `utm_source`, `utm_medium`, `utm_campaign`, `utm_content`, `utm_budget`. If some of these UTM parameters are irrelevant to your campaign, keep them blank or remove from the final URL.
+4. Destination URL will be generated automatically in column N, ready for you to use in your campaign. If you need to shorten your URL, use a tool like [bit.ly] (https://bitly.com/). 
+5. Measure success in Sisense. You can track your UTM parameters in your Sisense dashboard under "Integrated Campaign Breakdown" or "Attribution Data" sections. 
 
 ### UTM Values
 {: #utm-values .gitlab-purple}
@@ -58,26 +58,23 @@ Below are some rules (per [PMG advice](https://gitlab.com/gitlab-com/marketing/d
    - Why: Some platforms are case sensitive and others are not, and it's frankly just an easy thing to mess up when using builders, tools, etc. Some tools will automatically make something lowercase and then it messes something up because it's not the way you were expecting, or vice versa. Is an easy variable to eliminate.
 * No spaces. So, if more than one word, using a hyphen.
    - Why: Spaces can be filled in with other characters when pulling from raw url and is just an easy/messy thing to avoid.
-* Alphanumeric characters only
+* Alphanumeric characters only.
+* Keep your URLs clean, descriptive, non-redundant and easy to read.
 
 #### utm_medium
 {: #utm-medium .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-**Campaign Medium** covers general buckets like `paidsearch`, `social`, or `sponsorship` 
+**Campaign Medium** The medium is the overarching channel bucket like `paidsearch`, `social`, or `sponsorship`. It answers the question of "how did they come to us?". `utm_source` will further categorize the overarching channel. 
 
-Values:
-* 
-* 
-* 
-*
+You can choose a campaign medium from a provided picklist of values in the URL Builder spreadsheet. If you need a new campaign medium, please check with the Digital Marketing Programs team as new mediums will not automatically be attributed correctly.
+
 
 #### utm_source
 {: #utm-source .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-**Campaign Source** names where the link lives. Examples include `ebook`, `twitter`, or `qrcode`
-
+**Campaign Source** The source-based URL parameter can tell you which website is sending the traffic. The source is a further "slicing" of overall channels. It answers the question of "how did they come to us?" but with more granular details than utm_medium.Examples include `ebook`, `twitter`, or `qrcode`
 
 #### utm_campaign
 {: #utm-campaign .gitlab-purple}
@@ -92,7 +89,6 @@ Using proper `utm_campaign` values below will minimize number of manual updates 
 * iacgitops = GitOps Campaign
 * devopsgtm = DevOps Platform Campaign
 * vccusecase = VC&C Campaigns (retired)
-
 #### utm_content
 {: #utm-content .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
@@ -107,6 +103,7 @@ See values in [this googlesheet](https://docs.google.com/spreadsheets/d/1QRilUEU
 
 `utm_budget` indicates which budget is used for the campaign promotion. 
 
+Values:
 * fmm	= Field Marketing
 * dmp	= Digital Marketing
 * corp = Corporate Marketing
@@ -118,6 +115,11 @@ See values in [this googlesheet](https://docs.google.com/spreadsheets/d/1QRilUEU
 ## UTMs in Practice
 {: #utms-in-practice .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
+
+UTM parameters provide three key benefits: They help you track the value of your marketing initiatives and measure ROI. They provide precise data about conversion and traffic sources. They allow you to test individual posts head-to-head in classic A/B testing style.
+
+Example:  
+
 
 ### UTM structure for nurture emails
 {: #utms-nurture-emails .gitlab-purple}
@@ -139,7 +141,7 @@ See values in [this googlesheet](https://docs.google.com/spreadsheets/d/1QRilUEU
 
 ## Marketo > Bizible integration
 {: #marketo-bizible .gitlab-purple}
-Bizible is our marketing attribution software that allows for connecting marketing and sales touch points over a prospect’s or customer’s lifecycle directly to revenue. It also allows us to directly tie the investment in our online advertising to records within our database. Bizible allows us to track our marketing activities at a more granular level within Salesforce, our single source of truth.
+Bizible is our marketing attribution software that allows for connecting marketing and sales touchpoints over a prospect’s or customer’s lifecycle directly to revenue. It also allows us to directly tie the investment in our online advertising to records within our database. Bizible allows us to track our marketing activities at a more granular level within Salesforce, our single source of truth.
 
 Marketo is our marketing automation platform used for email marketing, lead management, and program management.
 Through Bizible’s integration with Marketo, we create touchpoints for attribution tracking from Marketo’s Program Memberships. This capability allows to track program memberships from email or engagement programs that are otherwise not seen by Bizible’s javascript and should be measured within the attribution journey.
