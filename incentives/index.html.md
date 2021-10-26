@@ -251,26 +251,13 @@ We encourage and support [diversity](/handbook/values/) and [frugality](/handboo
 * [$500](/handbook/total-rewards/compensation/#exchange-rates) base referral bonus for a new hire.
 * [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a [Location factor](/handbook/total-rewards/compensation/compensation-calculator/calculator/) less than 0.65.
 * In case of a new hire in Enterprise, Commercial, or Channel Sales, [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus is applicable only if the [Sales Regional Factor](/handbook/total-rewards/compensation/#sales-compensation) is less than 0.65.
-* [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a ["select underrepresented group"](#add-on-bonus-for-select-underrepresented-groups).
+* [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a ["select underrepresented group"](/culture/inclusion/#examples-of-select-underrepresented-groups).
 
 The following is an *example* of a cumulative Referral Bonus:
 * Hire a referred Sales Development Representative: $500
 * With a location factor of 0.6: + $1,000
 * Who self-identifies as Native American/Native: + $1,500
 * Cumulative referral bonus to the referring team member: **$3,000**
-
-### Add-On Bonus for Select Underrepresented Groups
-
-An underrepresented group describes a subset of a population that holds a smaller percentage within a significant subgroup than the subset holds in the general population. The accepted definition of “underrepresented minorities” from the National Science Foundation and other major research institutions focuses on racial and ethnic groups whose representation in a profession is significantly below their representation in the general population. While any non-majority group in the workplace is a “minority”, they are not considered to be “underrepresented” unless they meet this definition.
-
-We offer an add-on referral bonus for the following groups:
-* Women in Engineering, Product, & Sales Division - Globally
-* Women in [Management](/company/team/structure/#organizational-chart) - Globally
-* African American/Black - Globally
-* Hispanic American/Latino - Globally
-* Native American/Native - Globally
-* Hawaiian/Pacific Islander - Globally
-* Military Veteran - United States (due to this data being collected in the United States)
 
 #### How to make a referral
 
