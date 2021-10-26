@@ -89,7 +89,7 @@ The certificate files (site, chain, chained (site+chain), and key) are also stor
 
 We decided to use the [NGINX Ingress Controller](https://kubernetes.github.io/ingress-nginx/) since it has excellent built-ins for redirecting and enforcing TLS.
 To install NGINX into the cluster follow below steps:
-1) If helm is not installed in system intall it using command `brew install helm`.  
+1) If helm is not installed in system install it using command `brew install helm`.  
 2) Then add nginx-stable version to helm repo using command `helm repo add nginx-stable https://helm.nginx.com/stable`.  
 3) To get the latest version of stable use `helm repo update`.  This should give output similar to below 
     ```
