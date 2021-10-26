@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Professional Services Agreement"
+title: "Legacy v1: GitLab Professional Services Agreement"
 description: "Learn more about GitLab Professional Services Agreement."
 ---
 
