@@ -254,3 +254,7 @@ To be efficient as possible, this is the recommended approach:
 Alliance SA's are aligned globally with Alliance Partner Managers and the Alliance Business Development Managers.
 
 Checkout [this document](../commercial2/index.html.md)
+
+### Channel SA Engagement Model
+Channel SA's are aligned regionally with Channel Account Managers.
+
