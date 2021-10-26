@@ -67,10 +67,10 @@ We run in the `gitlab-analysis` project in Google Cloud Platform (GCP). Airflow 
 
 Within this cluster there are 4 nodepools: `highmem-pool`, `production-task-pool`, `testing-pool`, and `sdc-1`.  Each nodepool has a dedicated use for ease of monitoring and resource management.
 
-1) `highmem-pool` - used to run the Airflow server, scheduler, and network components.  Autoscales from 1-2 nodes.
-2) `production-task-pool` - used to run most production Airflow tasks except SCD tasks.  Autoscales from 1-5 nodes.
-3) `sdc-1` - used to run production SCD extractions.  Autoscales from 1-3 nodes.
-4) `testing-pool` - a pool that does not usually have a running node, but is used to run engineer's locally-launced Airflow tasks.  Autoscales from 0-1 nodes.
+1) `highmem-pool` - used to run the Airflow server, scheduler, and network components.  Autoscales from 1-2 nodes.  
+2) `production-task-pool` - used to run most production Airflow tasks except SCD tasks.  Autoscales from 2-5 nodes.  
+3) `sdc-1` - used to run production SCD extractions.  Autoscales from 1-3 nodes.  
+4) `testing-pool` - a pool that does not usually have a running node, but is used to run engineer's locally-launced Airflow tasks.  Autoscales from 1-2 nodes.  
 
 All nodepools except the `highmem-pool` have labels and [taints](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/) to manage which nodepool launches which Airflow task. For a task to be scheduled in a nodepool, a task must have nodeAffinity for the pool and it must have a toleration that matches the taint. See [this MR](https://gitlab.com/gitlab-data/analytics/merge_requests/2006/diffs) where we added the affinity and toleration for the Slowly-Changing Dimensions task for our postgres pipeline jobs.
 
@@ -88,7 +88,37 @@ This created the secret `airflow-tls`.
 The certificate files (site, chain, chained (site+chain), and key) are also stored in the Data Team Secure vault in 1password.
 
 We decided to use the [NGINX Ingress Controller](https://kubernetes.github.io/ingress-nginx/) since it has excellent built-ins for redirecting and enforcing TLS.
-NGINX was installed into the cluster with this command `helm install airflownginx stable/nginx-ingress --values nginx_values.yaml`. The [NGINX value file](https://gitlab.com/gitlab-data/data-image/-/blob/93b20e4286d2a383e46eac091c68d162156223bd/airflow_image/manifests/nginx_values.yaml) defines what the load balancer IP address is. The load balancer IP is set to the address generated in the previous section.
+To install NGINX into the cluster follow below steps:
+1) If helm is not installed in system intall it using command `brew install helm`.  
+2) Then add nginx-stable version to helm repo using command `helm repo add nginx-stable https://helm.nginx.com/stable`.  
+3) To get the latest version of stable use `helm repo update`.  This should give output similar to below 
+    ```
+    Hang tight while we grab the latest from your chart repositories...
+    ...Successfully got an update from the "nginx-stable" chart repository
+    ...Successfully got an update from the "ingress-nginx" chart repository
+    Update Complete. ⎈Happy Helming!⎈
+    ```
+4) To check helm repo status use command `helm repo list`
+  ```
+  NAME         	URL
+  ingress-nginx	https://kubernetes.github.io/ingress-nginx
+  nginx-stable 	https://helm.nginx.com/stable`
+  ```
+
+5) Use command to `The NGINX Ingress Controller`  
+  `helm install airflownginx nginx-stable/nginx-ingress --values nginx_values.yaml `
+  It will provide output as below 
+  ```
+    NAME: airflownginx
+    LAST DEPLOYED: Wed Oct 20 19:01:38 2021
+    NAMESPACE: default
+    STATUS: deployed
+    REVISION: 1
+    TEST SUITE: None
+    NOTES:
+    The NGINX Ingress Controller has been installed.  
+  ```
+ The [NGINX value file](https://gitlab.com/gitlab-data/data-image/-/blob/93b20e4286d2a383e46eac091c68d162156223bd/airflow_image/manifests/nginx_values.yaml) defines what the load balancer IP address is. The load balancer IP is set to the address generated in the previous section.
 The values passed into the install command are expanded in the [controller-deployment.yaml file](https://github.com/helm/charts/blob/b7afaf9d8875f6aa1cfed4c0422cb28e51d823a3/stable/nginx-ingress/templates/controller-deployment.yaml#L111-L117).
 
 If NGINX needs to be deleted and reinstalled that can be done via `helm delete airflownginx`.
