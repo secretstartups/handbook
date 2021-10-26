@@ -79,17 +79,17 @@ graph LR
     api_available{API Available?}
     fivetran_connector_available{Fivetran connector available?}
     stitch_connector_available{Stitch connector available?}
-    data_is_ext_snowflake_sources{Data is external Snowflake Source}
+    data_is_ext_snowflake_sources{Data is ext Snowflake Sources}
 
 %%end solutions
-    Fivetran([Fivetran])
-    Stitch([Stitch])
-    Singer([Singer])
     Custom([Custom development])
+    Fivetran([Fivetran])
+    Singer([Singer])
+    Stitch([Stitch])
     Snowflake_datashare([Snowflake data share])
 
 %%flow
-    ds_request[New Request]-->api_available
+    ds_request[New Request]-->api_available 
     api_available-->|Yes|fivetran_connector_available
     fivetran_connector_available-->|Yes|Fivetran
     fivetran_connector_available-->|No|stitch_connector_available
@@ -99,7 +99,6 @@ graph LR
     data_is_ext_snowflake_sources-->|Yes|Snowflake_datashare
     data_is_ext_snowflake_sources-->|No|Custom
 ```
-
   
 #### Access request
 Although it could be helpful to already provide the Data Team access to the source system, its not mandatory to raise an Access Request right now.
