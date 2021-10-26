@@ -56,6 +56,11 @@ When the merge request is ready to be handed back for changes or further review,
 
 **NOTE**: By default, Authors should handoff to the Reviewer/Maintainer who previously reviewed the merge request. If that individual is listed as away in their status for longer than two days, then please `@` mention the `gitlab-org/distribution` group in order to alert the Distribution team for a new reviewer.
 
+## Squash and merge
+
+Distribution-owned projects enable [squash and merge](https://docs.gitlab.com/ee/user/project/merge_requests/squash_and_merge.html) by default. This feature combines all of the merge request's commits into one commit before merging, ensuring a clean history on the target branch.
+
+Because the squash and merge feature is set to [encourage](https://docs.gitlab.com/ee/user/project/merge_requests/squash_and_merge.html#squash-commits-options), authors can still disable the option if desired. For example, merge requests with only one commit would not necessarily benefit from a squash prior to merge.
 
 ## References
 
