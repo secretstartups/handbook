@@ -95,6 +95,7 @@ The Site Reliability Engineer is a [grade 6](/handbook/total-rewards/compensatio
 Technical:
 1. General knowledge of 4 of the areas of technical expertise with deep knowledge in 1 area
 1. Working knowledge of GitLab Product, including deeper knowledge of groups which may be part of stable counterpart assignments
+1. For stable counterpart assignments, make technical contributions focused improving reliability within the stage group's scope
 
 Execution:
 1. Provides emergency response either by being on-call or by reacting to symptoms according to monitoring and escalation when needed
@@ -105,7 +106,8 @@ Execution:
 
 Collaboration and Communication:
 1. Improves documentation all around, either in application documentation, or in runbooks, explaining the why, not stopping with the what.
-1. Act as a reliability champion within the stage group you are assigned and help train other members of this stage group in reliability best practices.
+1. For stable counterpart assignments, act as a reliability champion within the stage group you are assigned and help train other members of this stage group in reliability best practices.
+1. For stable counterpart assignments, maintain awareness and engagement with stage group plans and priorities through participation in stage group meetings and async discussions
 
 Influence and Maturity
 1. Shares the learnings publicly, either by creating issues that provide context for anyone to understand it or by writing blog posts.
@@ -122,7 +124,8 @@ Are experienced Site Reliability Engineers who meet the following criteria
 Technical:
 1. Deep knowledge in 2 areas of expertise and general knowledge of all areas of expertise. Capable of mentoring Interns and Intermediate SREs in all areas and other SRE in their area of deep knowledge.
 1. Working knowledge of GitLab Product, including deep knowledge of groups which may be part of stable counterpart assignments.
-1. Contributes improvements to the GitLab codebase to resolve issues, especially within specific stable counterpart assignments.
+1. Contributes improvements to the GitLab codebase to resolve issues.
+1. For stable counterpart assignments, make technical contributions focused improving reliability within the stage group's scope
 
 Execution:
 1. Identifies significant projects that result in substantial cost savings or revenue.
@@ -135,8 +138,9 @@ Execution:
 Collaboration and Communication:
 1. Know a domain really well and radiate that knowledge through recorded demos, discussions in [DNA](/handbook/engineering/infrastructure/#design-and-automation-dna) meetings, or [Incident Reviews](/handbook/engineering/infrastructure/incident-review/).
 1. Perform and run blameless RCAs on incidents and outages aggressively looking for answers that will prevent the incident from ever happening again.
-1. Act as a reliability champion within the stage group you are assigned and help train others in reliability best practices.
-1. Lead the product stage group you are assigned in performing incident reviews, root cause analyses, and production readiness reviews.
+1. For stable counterpart assignments, maintain awareness and actively influence stage group plans and priorities through participation in stage group meetings and async discussions
+1. For stable counterpart assignments, act as a reliability champion within the stage group you are assigned and help train other members of this stage group in reliability best practices.
+1. For stable counterpart assignments, lead the product stage group you are assigned in performing incident reviews, root cause analyses, and production readiness reviews.
 
 Influence and Maturity:
 1. Set an example for team of SREs with positive and inclusive leadership and discussion on work.
@@ -162,7 +166,7 @@ Execution:
 1. Measure the risk of introduced features to plan ahead and improve the infrastructure.
 1. Proposes and drives architectural changes that affect the whole company to solve scaling and performance problems.
 1. Directly participates in contributing to and influencing the future direction of stable counterpart groups towards a more resilient and reliable GitLab product.
-1. Leads significant project work for OKR level goals for the team and product stage group you are assigned to.
+1. For stable counterpart assignements, leads significant project work for OKR level goals for the team and product stage group you are assigned to.
 
 Communication and Collaboration:
 1. Works with engineers across the whole company influencing design to create features that will work well with SaaS and self hosted platforms.
