@@ -72,7 +72,7 @@ A seamless customer journey requires a continuous flow of relevant information b
 * Add TAM name to account team in Salesforce
 * Identify any relevant Outreach sequences or templates
 * The new TAM should be introduced live on a client call whenever possible
-* Ensure any current action items are identified via an issue on the [Commercial TAM Triage board](https://gitlab.com/gitlab-com/account-management/commercial/triage/-/boards/1139879?&label_name[]=Status%3A%3ANew)  
+* Ensure any current action items are identified via an issue on the [Commercial TAM Triage board](https://gitlab.com/gitlab-com/customer-success/tam-triage-boards/commercial/-/issues/new)  
 
 ### SA to TAM (new accounts)
 
