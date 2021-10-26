@@ -51,8 +51,8 @@ time off, please:
 team calendar.
 
    You should have been granted access when you joined Support. But
-if you don't have it, please ask for help in the `#support_team_chat` channel
-on Slack and someone will share the calendar with you.
+if you don't have it, please check that you're part of the Support Google Group,
+and if required, open an access request issue.
 
 1. We recommend you set up the Google Calendar integration with PTO by Roots so that you do not need to populate your personal and "Support - Time Off" calendars manually.
    1. In Slack, click the `+` sign next to 'Apps' at the bottom of the left sidebar
