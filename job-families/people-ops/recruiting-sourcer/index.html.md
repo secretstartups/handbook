@@ -143,6 +143,38 @@ The Manager, Sourcing is a [grade 8](/handbook/total-rewards/compensation/compen
 * Focused on delivering an excellent candidate experience.
 * Focused on efficiency, scalability and constant process improvements.
 
+### Manager, Inbound Sourcing and Sourcing Operations
+
+The Manager, Inbound Sourcing and Sourcing Operations reports to the Sr, Manager, Recruiting
+
+#### Manager, Inbound Sourcing and Sourcing Operations Job Grade 
+
+The Manager, Sourcing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Manager, Inbound Sourcing and Sourcing Operations Responsibilities
+
+* Lead and coach a remote-based inbound sourcing team 
+* Onboard, mentor, and grow the careers of all team members, providing consistent 1:1 check ins
+* Partner with TA department leaders to develop strategies, priorities, and process improvements specific to sourcing
+* Manage and improve consistent data-driven sourcing metrics
+* Report out on progress to leadership, flag hot spots, and work through creative solutions 
+* Lead trainings and disseminate best practices when needed to the team as a resident sourcing expert
+* Innovate and operationalize sourcing methods to deliver diverse talent to GitLab.
+* Partner with internal TA Enablement team on TA tools initiatives  
+* Initialize and lead talent market research projects
+* Own a small req load as business needs dictate (?)
+
+#### Manager, Inbound Sourcing and Sourcing Operations Requirements
+
+* Expertise and a proven track record of developing sourcing best practices, and candidate sourcing strategies.
+* Proficient in analyzing data, presenting solutions, and making data-driven decisions.
+* Experience effectively sourcing for diverse candidates.
+* Passionate about building teams, growing careers, and inspiring people.
+* Experience sourcing and research at all levels, preferably in a global capacity within the software industry, open source experience is a plus.
+* Experience with competitive global job markets preferred.
+* Focused on delivering an excellent candidate experience.
+* Focused on efficiency, scalability and constant process improvements.
+ 
 ## Performance indicators
 
 * [Prospects Submitted](https://about.gitlab.com/handbook/hiring/metrics/#sourced-prospects-submitted)
