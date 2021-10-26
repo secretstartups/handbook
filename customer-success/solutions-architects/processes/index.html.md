@@ -251,7 +251,7 @@ To be efficient as possible, this is the recommended approach:
 1. **Communicate**: Set up a call with the prospect or customer to determine the next best steps.
 
 ### Alliances SA Engagement Model
-Alliances SAs are aligned Gitlab gitaly
+Alliance SA's are aligned globally with Alliance Partner Managers and the Alliance Business Development Managers.
 
 ##### Issue Management Details
 
