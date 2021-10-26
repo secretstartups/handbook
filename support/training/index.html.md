@@ -98,21 +98,21 @@ It is recommended that you complete the modules in the order listed, unless an i
 
 ## GitLab.com Administration access
 
-Whenever GitLab.com administration access is required to complete any of the modules listed on this page, the training will direct you to this module [GitLab.com Administration Access](https://gitlab.com/gitlab-com/support/support-training/issues/tba) 
+Whenever GitLab.com administration access is required to complete any of the modules listed on this page, the training will direct you to the  [GitLab-com Admin](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20Admin) module.
 
 ## Support Engineer Area of Focus Pathway
 
 When you have completed the basic modules, work with your manager to decide your initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
 
-1. For GitLab.com, move on to the [Gitlab.com SAAS Support Basics pathway](#gitlabcom-saas-support-learning-pathway).
-1. For Self-Managed, move on to the [Self Managed Support Basics pathway](#self-managed-support-learning-pathway).
+1. For GitLab.com, move on to the [Gitlab.com SAAS Support Learning pathway](#gitlabcom-saas-support-learning-pathway).
+1. For Self-Managed, move on to the [Self Managed Support Learning pathway](#self-managed-support-learning-pathway).
 1. For License & Renewals, move on to the [License and Renewals Learning Pathway](#license-and-renewals-learning-pathway).
 
 #### GitLab.com SaaS Support Learning Pathway
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
-| [GitLab.com Basics](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20SaaS%20Basics) | 2 Weeks | Understand the basics to answer GitLab.com (SaaS) product related tickets |
+| [GitLab-com SaaS Basics](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20SaaS%20Basics) | 2 Weeks | Understand the basics to answer GitLab.com (SaaS) product related tickets |
 
 
 When this Area of Focus module is complete, let your manager know that you are ready to [proceed to the appropriate On-Call rotations](#on-call-rotations).
@@ -136,8 +136,7 @@ When this Area of Focus module is complete, let your manager know that you are r
 
 ## On-call rotations
 
-After you've completed a focus area, you should talk to your manager about joining an on-call rotation. They'll have guidance for where Support need
-and your skills overlap. Usually, you'll only complete one of these modules.
+After you've completed a focus area, you should talk to your manager about joining an on-call rotation. They'll have guidance for where Support need and your skills overlap. Usually, you'll only complete one of these modules.
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
