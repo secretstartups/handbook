@@ -152,7 +152,7 @@ All requests for BambooHR-related data or reports with personal people data shou
 1. The Access Request should define exactly what type of personal data is requested, and also define if:
 - This will be a one-time request.
 - This will be an ongoing request and the requestor needs access to be able to run a report themselves.
-1. Please assign all such requests to the People Operations Specialists and ping the People Experience group in the comments using the `@gl-peopleops` tag.
+1. Please assign all such requests to the People Operations Specialists and ping the team in the comments section of the issue using the `@gl-peopleops` tag.
 
 
 ## Netherlands: Certificate of Good Conduct
