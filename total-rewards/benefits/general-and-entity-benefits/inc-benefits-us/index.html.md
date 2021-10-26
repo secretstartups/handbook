@@ -519,7 +519,7 @@ Paternity Leave is not covered under Short-Term Disability, so if the team membe
 **Maternity Leave**
 For maternity leave, GitLab will verify 100% of the wages are paid for eligible team members through payroll, Short-term Disability (STD), and state leave pay (where applicable).
  
-GitLab will recieve the Short-Term Disability funds directly from Cigna and keep the GitLab team member paid at 100% of wages via payroll. Total Rewards will notify payroll of the "leave with pay" status using the start and end date of parental leave.Total Rewards will also notify payroll of any state related payments which may need to be offset.
+Parental leave is inclusive of public holidays that occur during within the start and end date of parental leave. GitLab will recieve the Short-Term Disability funds directly from Cigna and keep the GitLab team member paid at 100% of wages via payroll. Total Rewards will notify payroll of the "leave with pay" status using the start and end date of parental leave. Total Rewards will also notify payroll of any state related payments which may need to be offset.
  
 ## State-Specific Allowed Leaves
  
