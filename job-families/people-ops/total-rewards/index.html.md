@@ -8,6 +8,7 @@ The [Total Rewards](/handbook/total-rewards/) department strategically aligns th
 ## Total Rewards Job Family Matrix
 
 **Benefits:**
+
 | Role                                                | Grade |
 |-----------------------------------------------------|-------|
 | [Benefits Coordinator](#benefits-coordinator) | 5 |
@@ -16,6 +17,7 @@ The [Total Rewards](/handbook/total-rewards/) department strategically aligns th
 | [Manager, Benefits](#manager-benefits) | 8 |  
 
 **Compensation:**
+
 | Role                                                | Grade |
 |-----------------------------------------------------|-------|
 | [Compensation Coordinator](#compensation-coordinator) | 5 |
@@ -24,6 +26,7 @@ The [Total Rewards](/handbook/total-rewards/) department strategically aligns th
 | [Manager, Compensation](#manager-benefits) <br> [Compensation Partner](#compensation-partner) | 8 |  
 
 **Leadership:**
+
 | Role                                                | Grade |
 |-----------------------------------------------------|-------|
 | [Senior Manager, Total Rewards](#senior-manager-total-rewards) | 9 |
