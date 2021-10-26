@@ -106,6 +106,8 @@ The Enterprise Application BSA team is responsible for creating project Epics an
 
 ![projects](/handbook/business-technology/enterprise-applications/bsa/onboarding/project_stages.jpeg)
 
+The templates that we use to structure our parent and children epics are documented in the [_EntApps Project Epics Templates_](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues/394) issue. 
+
 ### Phase Exit Criteria
 #### DEFINE
 During Define, EntApps articulates the business problem and definition of done. This phase covers uses cases, technology impacted and requirements. The ultimate goal of Define is not to figure out everything but to document the process and what is impacted. Finally, before beginning the design, we request approval sign-off from key stakeholders to ensure business requirements are accurate and all-inclusive.
@@ -163,13 +165,18 @@ EntApps owns developing a deployment plan and collaborating with other implement
 - Production configuration
 - Handbooking
 
+### Enterprise Applications OKRs
+
+The Enterprise Applications team identifies 3-4 OKRs per quarter, focused on main implementations and enhancement of existing processes that will be beneficial to the entire company.
+
+Our OKRs are documented and tracked in GitLab.com in the appropriated project epic. If an epic or issue is being used to track an OKR, the labels `~"BT-KR::Enterprise Application KR"` and the correct [BT FY OKR](https://gitlab.com/groups/gitlab-com/business-technology/-/labels?subscribed=&search=bt+fy2) need to be added.
+
+
 ### Rolly
 [Rolly](/handbook/business-technology/how-we-work/rolly/) is a program status rollup automation tool and the BSAs use it to extract key status information from their current project epics and compile them into one issue [every week](https://gitlab.com/gitlab-com/business-technology/business-technology-ops/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=EntApps-weekly-rollup). This issue is then used in different meetings to cover project statuses, what's in progress and what is blocked.
 
 ### Labels
-Labels help us organize and tag our work so we can track and find the work items we’re interested in.
-
-#### Labels used by the BSAs
+Labels help us organize and tag our work so we can track and find the work items we’re interested in. The most common labels used by the BSAs are described below.
 
 | Label | Description | Project/Group |
 | ------ | ------ | ------ |
