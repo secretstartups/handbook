@@ -153,7 +153,7 @@ Shadows who have chosen to delay their rotations until another time include:
 
 1. Create a merge request to add yourself to the [rotation schedule](#rotation-schedule). Ensure the merge request description highlights how you meet the eligibility criteria (merge request examples: [Anastasia Pshegodskaya](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/43159), [Jackie Meshell](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/42958), [Philippe Lafoucrière](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/51265)).
 1. Assign your manager and ask them to approve (**but not to merge**) the merge request. Managers, please ensure the candidate meets the eligibility criteria.
-1. Assign the merge request to the [Executive Business Admin supporting the CEO](/handbook/eba/#executive-business-administrator-team), link to the merge request in the `#ceo-shadow` channel, and `@mention` the Executive Business Admin supporting the CEO in the message.
+1. Once your manager approves the merge request, assign the merge request to the [Executive Business Admin supporting the CEO](/handbook/eba/#executive-business-administrator-team), link to the merge request in the `#ceo-shadow` channel, and `@mention` the Executive Business Admin supporting the CEO in the message.
 
 Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises.
 
