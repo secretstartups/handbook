@@ -11,7 +11,7 @@ title: Account Planning for Solutions Architects
 
 ## Account Planning in Gainsight Overview 
 
-[Account planning](/handbook/sales/account-planning/) helps the SAL and the SA develop a plan to elevate opportunity-driven conversations into value-based conversations that focus on the customer's value drivers. This is is a critical step is helping the team evaluate the customer's orgnization and work more strategically acorss the territory. Gainsight is a the tool for Strategic Account Leaders (SALs), Solutions Architects (SAs), and Technical Account Managers (TAMs) to manage the account planning process. Since it sits within SalesForce, it provides a comprehensive view of your customers, allows you to understand trends and risks, and empowers you to execute a strategy to help you ein deals.
+[Account planning](/handbook/sales/account-planning/) helps the SAL and the SA develop a plan to elevate opportunity-driven conversations into value-based conversations that focus on the customer's value drivers. This is is a critical step is helping the team evaluate the customer's organization and work more strategically across the territory. Gainsight is a the tool for Strategic Account Leaders (SALs), Solutions Architects (SAs), and Technical Account Managers (TAMs) to manage the account planning process. Since it sits within SalesForce, it provides a comprehensive view of your customers, allows you to understand trends and risks, and empowers you to execute a strategy to help you win deals.
 
 # Accessing Gainsight
 - Steps to access Gainsight are outlined on this [Handbook Page](https://about.gitlab.com/handbook/sales/gainsight/#getting-started)
