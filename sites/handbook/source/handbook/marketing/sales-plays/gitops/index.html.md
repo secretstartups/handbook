@@ -273,6 +273,7 @@ How to identify if you need to have a GitOps conversation with a lead?
 
 #### Customer outreach / conversation
 1. There are a number of high performing outreach sequences available - use one that is already available and customize as required
+1. Use the SDR Call Script for [Land](https://docs.google.com/document/d/1MDeaKj4XHEQe73jqDWClNJBKXr61gsZu7qNzHiD4138/edit) / [Expand](https://docs.google.com/document/d/1am53Ijr3EFuoZWwQPxsXAXGIhSOBJ7hQeFQv4-5QVyo/edit) 
 1. Use the content from the [GitOps Pathfactory track](https://learn.gitlab.com/l/gitops-gtm-content) to share with your lead. You can get the content links (including tracking) directly from Pathfactory for Sales through SFDC. They are categorized by the stage in the customer's journey. 
 
 
