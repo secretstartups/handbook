@@ -257,4 +257,4 @@ Checkout [this document](../commercial2/index.html.md)
 
 ### Channel SA Engagement Model
 Channel SA's are aligned regionally with Channel Account Managers.
-
+Here's the [RACI spreadsheet](https://docs.google.com/spreadsheets/d/1AxDrQp2HeIXfomw8QRrb0gemQCHktt_BR3ufpLTtxNc/) for Channel SA.
