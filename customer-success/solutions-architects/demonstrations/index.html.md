@@ -57,4 +57,4 @@ There are several slide decks stored on google drive that are commonly used for 
 - [General Demo.pptx](https://drive.google.com/file/d/17SoRPxPCswT_FublXCsi3rm3TBnHAYI-/view?usp=sharing) - Product walkthrough deck created and maintained by Cherry Han. Tip: you can make a copy of the deck, then open the deck in Google slides to edit it for your own purposes.
 - Demo Prep 
 
-Here is the ![Demo Roadmap](https://drive.google.com/file/d/1KIoJZ0Lcm83_gUHA5nzlFpgQ784xMHZp/view?usp=sharing) which details the steps to undertake/consider to leverage the Demo2Win strategies before delivering a demo.
+Here is the Demo Preparation Roadmap <iframe src="https://drive.google.com/file/d/1KIoJZ0Lcm83_gUHA5nzlFpgQ784xMHZp/preview" width="640" height="480" allow="autoplay"></iframe> which details the steps to undertake/consider to leverage the Demo2Win strategies before delivering a demo.
