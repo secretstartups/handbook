@@ -245,7 +245,8 @@ If you have not received an invitation to create an account, visit the [register
 
 For Leavers, you can request for extended access to the iiPay portal to retrieve any payslips by emailing nonuspayroll@gitlab.com from your personal email address. You will receive a password-reset in your personal email. _Please Note:_ Your _GitLab email_ is your username to reset the password.
 
-#### Contractors:
+
+## iiPay - Contractors
 
 1. Team members must submit their salary invoices through BambooHR and expenses through Expensify by the 8th of each month. For example, submit May salary invoice in the month of May, which is the current month.
 
@@ -285,6 +286,8 @@ For Leavers, you can request for extended access to the iiPay portal to retrieve
 1.  If you are changing your bank details for any reason please let nonuspayroll@gitlab.com know and you can update BambooHR accordingly so another test payment can be set up. Please dont change your banking details just before the deadlines per above as this will cause delays in payment.
 1.  If you receive a promotion, salary increase and you need to back date it, you can include the back pay amount on one invoice with a comment of the detail or submit two separate invoices which ever is preferred, and let Payroll know.
 
+## PEO - Contractors:
+
 #### CXC Global
 
 - Poland
@@ -307,7 +310,7 @@ Team members from the above countries will get paid through CXC Global on or aro
 1. CXC checks that the Payroll submission matches with the invoice, thereafter payment is issued.
 1.  New hires starting after the 1st of the relevant month should pro rate using the following calculation: `(monthly salary / # of business days for that month) * actual workdays from the hire date` team members can email nonuspayroll@gitlab.com if they have any queries in regards to their invoice.
 
-### PEO
+## PEO - Employee:
 
 #### SafeGuard
 
@@ -328,7 +331,8 @@ The internal deadline for changes is the 8th of each month, Payroll will send by
 - Denmark
 - Kenya 
 
-Payroll changes will be sent by the 10th of the month.  Global Upside will send an estimated invoice by the 5th of the previous month. For any additional adjustment, they will invoice the adjustment on the following months invoice.  Note: Philippines have two check date (15th and 30th), any changes sent to Global Upside will be included on the salary of the last day of the month. 
+Payroll changes will be sent by the 10th of the month.  Global Upside will send an estimated invoice by the 5th of the previous month. For any additional adjustment, they will invoice the adjustment on the following months invoice.  Note: Philippines have two check date (15th and 30th), any changes sent to Global Upside will be included on the salary of the last day of the month. For all payroll and team member concerns, please email **gitlabpayroll@globalpeoservices.com**. For HR concerns, send email to **gitlabHR@globalpeoservices.com**. 
+
 
 #### Remote.com
 
@@ -336,6 +340,8 @@ Payroll changes will be sent by the 10th of the month.  Global Upside will send 
 - Austria
 - Mexico
 - South Africa
+
+Payroll changes will be sent to Remote every 10th of the month. Payroll changes includes changes on member's information, bonus, commission, expense etc. Remote will provide the  payroll report along with the invoices. Once reviewed and approved, Payroll will forward the invoices to the Accounts Payable team. 
 
 ## Payroll cut off dates
 
