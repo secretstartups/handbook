@@ -18,14 +18,14 @@ This page will serve as a directory for our team members employed through a GitL
 ## GitLab Entities
 
 <details>
-<summary>GitLab BV (Belgium)</summary>
+<summary markdown="span">GitLab BV (Belgium)</summary>
 
 ### Belgium
 
 </details>
 
 <details>
-<summary>GitLab BV (Netherlands)</summary>
+<summary markdown="span">GitLab BV (Netherlands)</summary>
 
 ### Netherlands 
 
@@ -35,19 +35,19 @@ This page will serve as a directory for our team members employed through a GitL
 </details>
 
 <details>
-<summary>GitLab Canada Corp.</summary>
+<summary markdown="span">GitLab Canada Corp.</summary>
 
 </details>
 
 <details>
-<summary>GitLab France S.A.S.</summary>
+<summary markdown="span">GitLab France S.A.S.</summary>
 
 ### France 
 
 </details>
 
 <details>
-<summary>GitLab GmbH (Germany)</summary>
+<summary markdown="span">GitLab GmbH (Germany)</summary>
 
 ### Germany 
 
@@ -60,14 +60,14 @@ To ensure the health and safety of our team members in Germany, and to maintain 
 </details>
 
 <details>
-<summary>GitLab GK (Japan)</summary>
+<summary markdown="span">GitLab GK (Japan)</summary>
 
 ### Japan
 
 </details>
 
 <details>
-<summary>GitLab Inc. (US)</summary>
+<summary markdown="span">GitLab Inc. (US)</summary>
 
 ### United States
 
@@ -77,7 +77,7 @@ To ensure the health and safety of our team members in Germany, and to maintain 
 </details>
 
 <details>
-<summary>GitLab Ireland LTD</summary>
+<summary markdown="span">GitLab Ireland LTD</summary>
 
 ### Ireland
 
@@ -89,21 +89,21 @@ To ensure the health and safety of our team members in Germany, and to maintain 
 </details>
 
 <details>
-<summary>GitLab Korea LTD</summary>
+<summary markdown="span">GitLab Korea LTD</summary>
 
 ### Korea
 
 </details>
 
 <details>
-<summary>GitLab LTD (UK)</summary>
+<summary markdown="span">GitLab LTD (UK)</summary>
 
 ### United Kingdom
 
 </details>
 
 <details>
-<summary>GitLab PTY (Australia)</summary>
+<summary markdown="span">GitLab PTY (Australia)</summary>
 
 ### Australia 
 
@@ -116,7 +116,7 @@ To ensure the physical and mental health and safety of our team members in Austr
 </details>
 
 <details>
-<summary>GitLab PTY (New Zealand)</summary>
+<summary markdown="span">GitLab PTY (New Zealand)</summary>
 
 ### New Zealand
 
@@ -128,7 +128,7 @@ To ensure the physical and mental health and safety of our team members in New Z
 </details>
 
 <details>
-<summary>GitLab Singapore PTE LTD</summary>
+<summary markdown="span">GitLab Singapore PTE LTD</summary>
 
 ### Singapore
 
