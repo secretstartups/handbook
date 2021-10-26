@@ -103,6 +103,15 @@ What: Forecast at `FYyy-Qx` is a dynamic assessment based on current expectation
 
 Governance: The quarterly rolling forecast is approved by the eGroup and CEO and reviewed with the board of directors. eGroup will be held accountable to the quarterly rolling forecast for expenses. For revenue the company will always be held accountable to Plan.
 
+
+#### Forecast Snapshots in Months 2-3 of each Fiscal Quarter
+
+Purpose: As a public company, GitLab needs to maintain a pulse on the P&L and key financial metrics. As a fiscal quarter develops, we should inform CFO and leadership of our latest forecast
+
+What: Forecast snapshots are developed twice in the second month of each fiscal quarter and weekly in the third month of the fiscal quarter. This forecast is focused on in-quarter P&L and key developments since last snapshot. For example, in January 2022 (month three of Q4-FY22) we will develop four weekly forecast snapshots.
+
+Governance: The forecast snapshots are developed by FP&A, approved by the VP Finance, and reviewed with the CFO inform decision-making.
+
 ### Mechanics of the Board Plan:
 
 - The Board Plan Bookings Plan is developed by completing a bottoms up assessment of expected renewals, churn, expansion bookings and new bookings. This Plan is validated via analysis of historical cohort behavior, landed account potential (LAM), marketing Plans and sales capacity.
