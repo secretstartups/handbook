@@ -57,7 +57,7 @@ requirements and responsibilities:
 * Advocate for improvements to product quality, security, and performance
 * Solve technical problems of moderate scope and complexity.
 * Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment.
-* Conduct [Code Review](https://about.gitlab.com/handbook/engineering/workflow/code-review/) within our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html) and ensure community contributions receive a swift response. 
+* Conduct [Code Review](https://about.gitlab.com/handbook/engineering/workflow/code-review/) within our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html) and ensure community contributions receive a swift response.
 * Recognize impediments to our efficiency as a team ("technical debt"), propose and implement solutions
 * Represent GitLab and its values in public communication around specific projects and community contributions.
 * Confidently ship small features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
@@ -417,7 +417,7 @@ making the GitLab project maintainable in the long-term.
 * Experience using Continuous Integration systems (e.g., GitLab CI, Jenkins, Travis).
 * Experience using Docker and containerized architectures (e.g. Kubernetes).
 
-See the description of the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity-team/) for more details.
+See the description of the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) for more details.
 The position also involves working with the community as
 [Merge Request Coach](/job-families/expert/merge-request-coach/), and working together with our
 [Backend Engineers](/job-families/engineering/backend-engineer/) to respond and
@@ -667,7 +667,7 @@ Candidate should ideally be:
 
 Other qualifications include:
 
-- High proficiency in Ruby or Go. Knowledge of other lanuages is a nice to have. 
+- High proficiency in Ruby or Go. Knowledge of other lanuages is a nice to have.
 - Knowledge of profiling, and performance testing.
 - Understanding of basic database principles and optimisation mechanisms.
 
