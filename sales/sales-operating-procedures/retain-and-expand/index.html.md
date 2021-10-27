@@ -76,7 +76,7 @@ Customer service is an important aspect of the customer journey. The reason this
 
 ### 3.1 Ongoing Customer Engagement
 
-It is important that both the SAL/AE and TAM conduct ongoing customer touchpoints and engagements. TThe following are tasks that fall under the purview of ongoing customer engagement:
+It is important that both the SAL/AE and TAM conduct ongoing customer touchpoints and engagements. The following are tasks that fall under the purview of ongoing customer engagement:
 
 *   SAL/TAM continually re-verify and documents customer’s positive business outcomes and connects the GitLab solution with their pain.
     *   [Success Plans](/handbook/customer-success/tam/success-plans/) for TAMs in GainSight
