@@ -312,7 +312,6 @@ Documentation for the work will be developed by the engineer and the Technical W
 ### Build phase 3: Launch
 
 
-#### Required Labels for Issues that follow the Security Release Cycle
 
 | Labels | Usage |
 |--------|-------|
