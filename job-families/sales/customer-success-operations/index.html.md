@@ -174,9 +174,12 @@ The Customer Success Operations Job Family would flow into the [Director Custome
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
-*{add a bulleted list of the hiring process steps here}
+* Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+* Next, candidates will be invited to schedule a first interview with the Hiring Manager
+* Next, candidates will be invited to interview with 2-5 teammates
+* Finally, candidates may be asked to complete a final interview with our leadership team
+
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 
