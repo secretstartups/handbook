@@ -199,8 +199,6 @@ The Compensation Partner is a [grade 8](/handbook/total-rewards/compensation/com
 
 **Market Justification:** The business need for an individual contributor Compensation Partner role is to have a team member with a high level of expertise in Compensation to be able to advise the business in the Compensation Philiosophy. This team member will collaborate with People Business Partners and leaders to ensure team members fully understand their total rewards package. In the market, there are over 160 organizations that typically have 2 to 3 Compensation Partners. 
 
-#### Responsibilites 
-
 #### Responsibilities
 - Develop compensation strategies and principles.
 - Development and Execution of Compensation Trainings to ensure team members understand GitLab's compensation philosophy.
