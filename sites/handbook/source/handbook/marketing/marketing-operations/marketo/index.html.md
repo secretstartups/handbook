@@ -139,8 +139,6 @@ For account scoring, visit the [DemandBase page](/handbook/marketing/revenue-mar
 
 There is a flow that runs everynight to reset leads that have gone negative back to `0`. 
 
-The model below is updated as of 2021-07-08.
-
 Some leads are exluded from scoring if they:
 * Have a `@gitlab.com` email address
 * Are a competitor
