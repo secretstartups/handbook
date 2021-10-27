@@ -175,7 +175,7 @@ Our current contract is 99.95% availability and a 21 minute monthly error budget
 
 |**Stage Group**   | **Monthly Spend** | **Business Reason** |
 |------------------|---------------------|---------------------|
-| All fulfillment stages |  <=1h 49m      | Our order flow on customersDot is not as large yet and when the system does error out -it is often fixed with a browser refresh. So the number of bad experiences and the severity of the bad experience is not ideal but limited.  On the other hand we have major FY23 sales efficiency initiatives where each sales team members  spending 30 minutes for about 400 ramped deals  to manually do things that we need to automate. So net net - we need to address that efficiency as well in Q4FY22 |  
+| All fulfillment stages |  <=1h 49m  (99.75%)    | Our order flow on customersDot is not as large yet and when the system does error out -it is often fixed with a browser refresh. So the number of bad experiences and the severity of the bad experience is not ideal but limited.  On the other hand we have major FY23 sales efficiency initiatives where each sales team members  spending 30 minutes for about 400 ramped deals  to manually do things that we need to automate. So net net - we need to address that efficiency as well in Q4FY22 |  
 
 
 Feature categories with monthly spend above the allocated budget for three consecutive months may have additional feature development restrictions put in place.    
