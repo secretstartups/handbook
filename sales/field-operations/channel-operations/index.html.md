@@ -494,7 +494,7 @@ For more information on quoting or the Partner Program, please visit:
 - [Partner Program](https://about.gitlab.com/handbook/resellers/)
 - [Channel Discount Matrices for GitLab Team Members](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts).  
  
-### Chatter Aliases to Use for SFDC Opportunity and Account Tagging
+## Chatter Aliases to Use for SFDC Opportunity and Account Tagging
 When working within an opportunity (or account) in SFDC, please be sure to tag the appropriate team for fastest tag management and to keeo our deals moving smoothly. 
 
 | *Tag Reason* | *Correct Chatter Alias* |
