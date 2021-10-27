@@ -1,14 +1,14 @@
 ---
 layout: job_family_page
-title: "Open Source Outreach Fullstack Engineer"
+title: "Contributor Success Fullstack Engineer"
 ---
 
-Open Source Outreach Fullstack Engineers work on laying down an efficiency foundation for our community members to contribute to GitLab.
+Contributor Success Fullstack Engineers work on laying down an efficiency foundation for our community members to contribute to GitLab.
 
 ## Responsibilities 
 
 * Make GitLab contribution process the best and most welcomed in the world.
-* Carry out Engineering Open Source Outreach efforts
+* Carry out Engineering Contributor Success efforts
 * Improve GitLab's Contribution Efficiency and Merge Request Coaching process.
 * Coach and lead cohorts of community contributors and ensure their success.
 * Provide guidance to community contributors on technical and non-technical aspects.
@@ -18,9 +18,9 @@ Open Source Outreach Fullstack Engineers work on laying down an efficiency found
 * Be a permanent member of GitLab MR Coaches.
 * Be proficient at one or more MR Coach speciality (Development, Test, Documentation and etc).
 * Collaborate with GitLab's Core and Developer Relations teams.
-* Participate in Open Source Outreach team stand-up and agile processes.
+* Participate in Contributor Success team stand-up and agile processes.
 * Be a sounding board for our community contributors.
-* Participate in GitLab's overall Open Source Outreach events and processes.
+* Participate in GitLab's overall Contributor Success events and processes.
 
 ## Requirements
 
@@ -44,16 +44,16 @@ Open Source Outreach Fullstack Engineers work on laying down an efficiency found
 * Developer platform/tool industry experience.
 
 ## Levels 
-### Open Source Outreach Fullstack Engineer
+### Contributor Success Fullstack Engineer
 
-#### Open Source Outreach Fullstack Engineer Job Grade
+#### Contributor Success Fullstack Engineer Job Grade
 
-The Open Source Outreach Fullstack Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Contributor Success Fullstack Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Open Source Outreach Fullstack Engineer Responsibilities
+#### Contributor Success Fullstack Engineer Responsibilities
 
 * Contribute to GitLab's contribution efficiency results. 
-* Deliver tasks assigned from Engineering Open Source Outreach project plans.
+* Deliver tasks assigned from Engineering Contributor Success project plans.
 * Coach and lead community contributors.
 * Give orientation to newly formed community contributor cohorts
 * Provide guidance to community contributors on technical and non-technical aspects.
@@ -62,21 +62,21 @@ The Open Source Outreach Fullstack Engineer is a [grade 6](/handbook/total-rewar
 * Nominate impactful community contributors and contribution for recognition. 
 * Be a permanent member of GitLab MR Coaches.
 * Be proficient at one MR Coach speciality (Development, Test, Documentation and etc).
-* Participate in Open Source Outreach team stand-up and agile processes.
+* Participate in Contributor Success team stand-up and agile processes.
 * Listen to community contributors' feedback and capture them as issues in the backlog.
-* Participate in GitLab's overall Open Source outreach events and processes.
+* Participate in GitLab's overall Contributor Success events and processes.
 
-### Senior Open Source Outreach Fullstack Engineer
+### Senior Contributor Success Fullstack Engineer
 
-#### Senior Open Source Outreach Fullstack Engineer Job Grade
+#### Senior Contributor Success Fullstack Engineer Job Grade
 
-The Senior Open Source Outreach Fullstack Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Contributor Success Fullstack Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Open Source Outreach Fullstack Engineer Responsibilities
-The Senior Open Source Outreach Fullstack Engineer role extends the [Open Source Outreach Fullstack Engineer](#open-source-outreach-fullstack-engineer) role.
+#### Senior Contributor Success Fullstack Engineer Responsibilities
+The Senior Contributor Success Fullstack Engineer role extends the [Contributor Success Fullstack Engineer](#open-source-outreach-fullstack-engineer) role.
 
 * Drive GitLab's contribution efficiency efforts and results. 
-* Own one or more Engineering Open Source Outreach project plans.
+* Own one or more Engineering Contributor Success project plans.
 * Coach and lead cohorts of community contributors.
 * Give orientation to newly formed community contributor cohorts
 * Provide guidance to community contributors on technical and non-technical aspects.
@@ -85,22 +85,22 @@ The Senior Open Source Outreach Fullstack Engineer role extends the [Open Source
 * Nominate impactful community contributors, cohorts and contribution for recognition. 
 * Be a permanent member of GitLab MR Coaches.
 * Be proficient at one or more MR Coach speciality (Development, Test, Documentation and etc).
-* Drive Open Source Outreach team stand-up and agile processes.
+* Drive Contributor Success team stand-up and agile processes.
 * Advocate prioritization of improvements backlog based on feedback from our community.
-* Participate in GitLab's overall Open Source outreach events and processes.
+* Participate in GitLab's overall Contributor Success events and processes.
 
-### Staff Open Source Outreach Fullstack Engineer
+### Staff Contributor Success Fullstack Engineer
 
-#### Staff Open Source Outreach Fullstack Engineer Job Grade
+#### Staff Contributor Success Fullstack Engineer Job Grade
 
-The Staff Open Source Outreach Fullstack Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Contributor Success Fullstack Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Staff Open Source Outreach Fullstack Engineer Responsibilities
+#### Staff Contributor Success Fullstack Engineer Responsibilities
 
-The Staff Engineering Open Source Outreach Fullstack Engineer role extends the [Senior Open Source Outreach Fullstack Engineer](#senior-open-source-outreach-fullstack-engineer) role.
+The Staff Engineering Contributor Success Fullstack Engineer role extends the [Senior Contributor Success Fullstack Engineer](#senior-open-source-outreach-fullstack-engineer) role.
 
 * Author results-focused proposals to improve GitLab's contribution efficiency and drive them to completion. 
-* Propose effective Engineering Open Source Outreach project plans.
+* Propose effective Engineering Contributor Success project plans.
 * Propose groups of community contributors to form teams of community contributors (cohort)
 * Give orientation to newly formed community contributor cohorts
 * Track community contributor & community cohorts efficiency metrics
@@ -110,9 +110,9 @@ The Staff Engineering Open Source Outreach Fullstack Engineer role extends the [
 * Review nominations of community contributors, cohorts and contribution for recognition. 
 * Be a permanent member of GitLab MR Coaches.
 * Be proficient at one or more MR Coach speciality (Development, Test, Documentation and etc).
-* Own Project Management of Open Source Outreach team stand-up and agile processes. 
+* Own Project Management of Contributor Success team stand-up and agile processes. 
 * Make trade-off recommendations to priorize the most impactful improvements for the community.
-* Participate in GitLab's overall Open Source outreach events and processes.
+* Participate in GitLab's overall Contributor Success events and processes.
 
 
 ### Performance Indicators
