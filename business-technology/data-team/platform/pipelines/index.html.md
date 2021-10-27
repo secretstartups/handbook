@@ -400,3 +400,18 @@ From this list if any table get the data and we need to add the entry to snowfla
 
 ### For Derived table 
 Zuora have provided view definition for the derived view. As extracting data from the derived view is not feasible in production. Hence for table BI3_WF_SUMM we prepare the data in the DBT model in PREP layer with the DDL provided from Zuora. The DDL definition is present in extract/zuora_revenue/README.md in repo. 
+
+## Zoominfo
+Zoominfo is an external party that can enrich GitLab data. In order to enrich data, Gitlab needs to send data as outbound towards Zoominfo and after processing GitLab will receive processed data as an inbound table via [Snowflake data share](https://docs.snowflake.com/en/user-guide/data-sharing-intro.html). Snowflake Data share enables sharing of snowflake database tables from one account and use shared snowflake tables from another account. This involves creating outbound share and providing access to the snowflake table that needs to be shared to Zoominfo and adding a Zoominfo account which will share the snowflake table to Zoominfo using either web interface/SQL using role ACCOUNTADMIN. Both source and target accounts should be in the same region to add the account and share the table.
+
+Outbound table has Gitlab user information such as First name, Last name, email address and company name. Outbound table is shared only once.("PROD"."SHARE"."GITLAB_USER_OUTBOUND")
+
+#### Loading Inbound tables.  
+Once Zoominfo sends inbound files to Gitlab . Shared database ZOOMINFO_INBOUND is created from inbound share using either the web interface or SQL. Data from inbound tables in ZOOMINFO_INBOUND is ingested into PREP schema ​​using Snowflake Data Exchange loader. Below list of inbound tables are created in PREP schema.
+
+* `"ZI_COMP_WITH_LINKAGES_GLOBAL"` - This is an International table that has a list of all the companies they have information about. This is a one time share.
+* `"ZI_REFERENCE_TECHS"` - This is a Technograph table that has a list of technologies used by companies in their database.This is a one time share.
+* `"USER_ENRICHMENT"` -This is a User table company matched table which appends company information to the user list Gitlab sends to zoominfo. Gitlab sends Zoominfo only once but the appended data can be refreshed quarterly.
+
+![image-4.png](./image-4.png)
+
