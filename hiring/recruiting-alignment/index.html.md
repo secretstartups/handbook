@@ -18,16 +18,16 @@ description: "This page is an overview of the search team alignment and the tale
 | Field Operations,	Global | Joanna Muttiah | Loredana Iluca |
 | Customer Success, Global | Joanna Muttiah | Loredana Iluca ||
 | Marketing, Global | Steph Sarff   | Alina Moise |
-| Marketing, SDR Global | Amy Anderson  | Amy Anderson|
+| Marketing, SDR Global | Tony Tsiras | Tony Tsiras|
 | G&A, Finance, People, CEO | Maria Gore | Alina Moise |
 | G&A, Accounting, Legal | Rachelle Druffel | Alina Moise |
-| Development | Mark Deubel | Zsuzsanna Kovacs |
+| Development | Mark Deubel and Riley Smith | Zsuzsanna Kovacs and Susan Hill |
 | Quality | Rupert Douglas   | Zsuzsanna Kovacs |
 | UX  | Rupert Douglas   | Zsuzsanna Kovacs  |
 | Support | Joanna Michniewicz  |  Joanna Michniewicz |
-| Security | Rupert Douglas  |  Zsuzsanna Kovacs |
+| Security | Nicky Kunstman |  Zsuzsanna Kovacs |
 | Incubation | Rupert Douglas  |  Zsuzsanna Kovacs |
-| Infrastructure   | Matt Allen  | Chris Cruz |
+| Infrastructure   | Josh Barker  | Susan Hill |
 | Product Management  | Matt Allen | Chris Cruz |
 
 The Candidate Experience Specialist team operates off of a queue style system utilizing a [GitLab Service Desk](/stages-devops-lifecycle/service-desk/).
