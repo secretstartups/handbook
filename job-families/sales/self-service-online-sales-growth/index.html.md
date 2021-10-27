@@ -10,7 +10,8 @@ The Self Service Growth function is part of a team focused on building an easy s
 ## Manager, Online Sales & Self Service Growth
 
 ### Job Grade
-The Manager, Online Sales & Self Service Growth is a grade 8.
+
+The Manager, Online Sales & Self Service Growth is a [grade 8]((/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -42,7 +43,7 @@ The Manager, Online Sales & Self Service Growth is a grade 8.
 
 ### Job Grade
 
-The Senior Manager, Online Sales & Self Service Growth is a grade 9.
+The Senior Manager, Online Sales & Self Service Growth is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -63,7 +64,7 @@ The Senior Manager, Online Sales & Self Service Growth is a grade 9.
 ## Director, Online Sales & Self Service Growth
 
 ### Job Grade
-The Director, Online Sales & Self Service Growth is a grade 10.
+The Director, Online Sales & Self Service Growth is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -87,7 +88,7 @@ The Director, Online Sales & Self Service Growth is a grade 10.
 
 ### Job Grade
 
-The Senior Director, Online Sales & Self Service Growth is a grade 11.
+The Senior Director, Online Sales & Self Service Growth is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -109,12 +110,6 @@ The Senior Director, Online Sales & Self Service Growth is a grade 11.
 * Comfortable with ambiguity, high visibility, and being the directly responsible individual for the self-service business
 * Proven ability to effectively influence and communicate cross-functionally to drive results
 
-## Performance Indicators
-* nARR vs. plan > 1 
-* nARR efficiency > 1.0
-* Increased adoption of self-service solutions (buying & account management) driving increased customer satisfaction, efficiency and Rep productivity.
-* Successful experimentation that drives key business decisions around go-to-market and product direction.
-* Subject matter expert for sales on new customer acquisition funnel.  Providing transparency to sales leadership.  And driving partnership with Marketing
 
 ## Specialities
 
@@ -135,4 +130,21 @@ The Senior Director, Online Sales & Self Service Growth is a grade 11.
 * Responsible for the nARR associated with self-service renewals and growing renewals via the self-service channel
 * Will partner closely with our post-sales teams to understand how best to drive self-service renewals
 * Determine creative ways (eg renewal journey) to impact the self-service renewal number
+
+
+## Performance Indicators
+* [nARR vs. plan](https://about.gitlab.com/handbook/sales/performance-indicators/#iacv-vs-plan) > 1 
+* [nARR efficiency](https://about.gitlab.com/handbook/sales/performance-indicators/#iacv-vs-plan) > 1.0
+* Increased adoption of self-service solutions (buying & account management) driving increased customer satisfaction, efficiency and Rep productivity.
+* Successful experimentation that drives key business decisions around go-to-market and product direction.
+* Subject matter expert for sales on new customer acquisition funnel; providing transparency to sales leadership and driving partnership with Marketing
+
+## Hiring Process 
+
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+
+*{add a bulleted list of the hiring process steps here}
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
