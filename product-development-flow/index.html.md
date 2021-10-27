@@ -313,9 +313,6 @@ Documentation for the work will be developed by the engineer and the Technical W
 
 
 
-| Labels | Usage |
-|--------|-------|
-
 Issue Status: `Closed`
 
 #### Key Participants
