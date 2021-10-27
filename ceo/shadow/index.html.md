@@ -191,7 +191,7 @@ Exceptional community members may be able to participate, as well.
 | 2021-11-08 | 2021-11-12 | [REB - Richard E. Baum](https://gitlab.com/xyzzy) - Sr. Solutions Architect |  [Taurie Davis](https://gitlab.com/tauriedavis) - Product Design Manager, Foundations |
 | 2021-11-15 | 2021-11-19 | [David Kim](https://gitlab.com/dskim_gitlab) - Sr. Backend Engineer | [REB - Richard E. Baum](https://gitlab.com/xyzzy) - Sr. Solutions Architect |
 | 2021-11-22 | 2021-11-24 | AVAILABLE - REMOTE | [David Kim](https://gitlab.com/dskim_gitlab) - Sr. Backend Engineer |
-| 2021-11-29 | 2021-12-03 | UNAVAILABLE | UNAVAILABLE |
+| 2021-11-30 | 2021-12-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-12-06 | 2021-12-10 | [James Heimbuck](https://gitlab.com/jheimbuck_gl) - Sr. Product Manager | AVAILABLE - REMOTE |
 | 2021-12-13 | 2021-12-17 | AVAILABLE - REMOTE | [James Heimbuck](https://gitlab.com/jheimbuck_gl) - Sr. Product Manager |
 | 2022-01-03 | 2022-01-07 | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager | AVAILABLE - REMOTE |
