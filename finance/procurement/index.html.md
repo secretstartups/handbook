@@ -14,8 +14,11 @@ title: The GitLab Procurement Team
 {:toc}
 
 
-## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Purchasing Mission and Policy
-- The mission of the Procurement Team at GitLab is to drive business value through external partnerships.
+## <i class="far fa-paper-plane" id="biz-tech-icons"></i> What is Procurement?
+Procurement is the process of selecting vendors, strategic vetting, selection, negotiation of contracts, and the actual purchasing of goods. Procurement acquires all the goods, services, and work that is vital to GitLab.
+
+## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Procurement Mission and Policy
+- The mission of the Procurement Team at GitLab is to be a strategic business partner for all departments to drive value through external partnerships.
 - Team members can purchase goods and services on behalf of the company in accordance with the [Signature Authorization Matrix](/handbook/finance/authorization-matrix/) and guide to [Spending Company Money](/handbook/spending-company-money/). 
 - All purchases made on behalf of GitLab that do not qualify as a personal expense, need an approved Purchase Order (PO) in Coupa. 
 
