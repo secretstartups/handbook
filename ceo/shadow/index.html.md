@@ -505,7 +505,8 @@ Shadows are responsible for being aware of the current time and verbally providi
 **Tips for time-keeping:**
 - Decide who. Past shadows have found it helpful for the individual in the second week of the program to commit to keeping time when applicable.
 - Understand meeting length. Use the calendar invite as an indication of how long the meeting should last. Remember, we do [speedy meetings](/handbook/communication/#scheduling-meetings).
-- **Shadows should provide a 5-minute and 1-minute verbal notification (and a notification on Zoom chat, if possible).** While it might feel awkward to interrupt the flow of a conversation to provide a verbal time cue, it is more respectful to signal a 5-minute warning than to allow a call to end abruptly. Don't wait for a break in the conversation; unmute and say "Hi all, we have 5 minutes left" or "Time check, 5 minutes". If a meeting is running over the allocated time, say "we're in overtime".
+- Shadows should provide a 5-minute and a 1-minute notification. You can write "Time check, 5 minutes" on Zoom chat. 
+- **If a meeting is running over the allocated time, unmute and verbally say "we're in overtime".** Don't wait for a break in the conversation. 
 
 **Tools to help.**
 
