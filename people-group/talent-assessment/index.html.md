@@ -29,7 +29,7 @@ Additional key benefits of the Assessment Program include:
 
 There are many talent assessment options, and we have opted to use a Performance/Growth Matrix (commonly known as "9-Box" in the US) and annually review Key Talent. 
 
-GitLab's Performance/Growth Matrix is a type of talent assessment that forms part of our [Talent Development Program](https://about.gitlab.com/handbook/people-group/talent-development-program/). To ensure we remain efficient and consistent, we built a [Performance/Growth Assessment Tool](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/) to leverage during this process. 
+GitLab's Performance/Growth Matrix is a type of talent assessment that forms part of our [Talent Development Program](https://about.gitlab.com/handbook/people-group/talent-development-program/). 
 
 In addition to assessing Performance/Growth, we annually review Key Talent aligned with the criteria outlined below on this page. The combination of Performance/Growth and Key Talent assessments allow us to identify team members who drive the organization’s success and use our engagement tools to retain them. 
 
@@ -38,9 +38,9 @@ In addition to assessing Performance/Growth, we annually review Key Talent align
 
 | Performance ↑ <br> Growth →  | **Developing Growth** | **Growing Growth** | **Exceeding Growth** |
 |-----------------|---------------|---------------|----------------|
-| **Exceeding** | Team member is performing well in their current job but needs to continue to grow in current role, or has not exhibited the willingness or ability to grow in the current role.| Team member performs well in their current job, makes valuable contributions and consistently demonstrates competencies required. They have shown willingness and/or ability to further grow in their role and they may be ready to take on additional responsibilities in the next 12 months. | Team member is developing faster than the demands of their current position and/or division. Team member has been given additional assignments and has demonstrated high-level commitment/achieved significant results. Team member is ready to broaden their skill set and take on significantly greater scope and responsibility |
-| **Performing** | Team member is currently meeting expectations of their role. Team member is not willing or able to absorb greater scope, impact or complexity. | Team member is currently meeting expectations and has shown willingness or ability to further grow; may not be ready to absorb greater scope, impact or complexity in the next 12 months. | Team member is contributing as expected and is meeting performance expectations. They have shown willingness and/or ability to further grow in their role and they may be ready to take on additional responsibilities in the near future. |
-| **Developing** | Team member is not meeting performance expectations and there is still more to learn in the current position. There are questions about their willingness and ability to succeed in the current role long-term. | Team member has not been in the position long enough to adequately demonstrate their capacity, or may have lost pace with changes in the organization. The team member has shown the willingness and/or ability to grow in the role. | Team member is not meeting the requirements in their current role, or we have not had sufficient time to fully assess performance. This could be a result of a team member being recently promoted/new to the role. The team member has shown willingness and ability to grow in the role and could be more successful in the current role with more direction, or in another role or department that more appropriately suits their skill set. |
+| **Exceeding** | **Box 5** Team member is performing well in their current job but needs to continue to grow in current role, or has not exhibited the willingness or ability to grow in the current role.| **Box 2** Team member performs well in their current job, makes valuable contributions and consistently demonstrates competencies required. They have shown willingness and/or ability to further grow in their role and they may be ready to take on additional responsibilities in the next 12 months. | **Box 1** Team member is developing faster than the demands of their current position and/or division. Team member has been given additional assignments and has demonstrated high-level commitment/achieved significant results. Team member is ready to broaden their skill set and take on significantly greater scope and responsibility |
+| **Performing** | **Box 7** Team member is currently meeting expectations of their role. Team member is not willing or able to absorb greater scope, impact or complexity. | **Box 4** Team member is currently meeting expectations and has shown willingness or ability to further grow; may not be ready to absorb greater scope, impact or complexity in the next 12 months. | **Box 3** Team member is contributing as expected and is meeting performance expectations. They have shown willingness and/or ability to further grow in their role and they may be ready to take on additional responsibilities in the near future. |
+| **Developing** | **Box 9** Team member is not meeting performance expectations and there is still more to learn in the current position. There are questions about their willingness and ability to succeed in the current role long-term. | **Box 8** Team member has not been in the position long enough to adequately demonstrate their capacity, or may have lost pace with changes in the organization. The team member has shown the willingness and/or ability to grow in the role. | **Box 6** Team member is not meeting the requirements in their current role, or we have not had sufficient time to fully assess performance. This could be a result of a team member being recently promoted/new to the role. The team member has shown willingness and ability to grow in the role and could be more successful in the current role with more direction, or in another role or department that more appropriately suits their skill set. |
 
 
 This matrix is an individual assessment tool that evaluates both a team members current contribution to the organization and their potential level of contribution.
@@ -108,11 +108,17 @@ Examples:
 
 **Please note that an `Exceeding` assessment for the performance factor does not guarantee a promotion. While the performance factor is a consideration, there are several considerations that are reviewed when evaluating promotion readiness. Please work with your manager to align expectations.** 
 
-### Expected Distribution Company-Wide
+### Expected Distribution Performance/Growth Company-Wide
 
+Performance: 
 - **Developing**: 10-15%, not yet meeting all of the expectations 
 - **Performing**: 60-65%, “on track” and meeting expectations 
 - **Exceeding**: 25%, consistently surpasses the demands of their current role
+
+Growth:
+- **Developing**: 10-15%
+- **Growing**: 60-65%
+- **Exceeding**: 25%
 
 ### The Performance Factor
 
@@ -269,9 +275,12 @@ It is **absolutely essential** that managers complete the required pre-work to e
 
 The calibration session is one of the most important pieces of the Performance/Growth Matrix process, as it provides time for managers, their peers, and their manager to calibrate. Below are a few communication guidelines to ensure efficiency and fairness during the calibration session discussion. 
 
+Starting in FY'23, we will implement a formal Talent Assesment tool. For the FY'22 cycle, we will leverage spreadsheets during calibration sessions for Performance, Growth, and Key Talent assessments. 
+
+We ask that you use the [following template](https://docs.google.com/spreadsheets/d/1D8zO_Yat9pMmNoxSh61J4qg1IqRxCBJ58EsPEOOcZK0/edit#gid=0) for Performance/Growth assessment and calibration to ensure a format that is compatible for direct upload to BambooHR to minimize opportunity for error. Please reach out to your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) if you have any questions.
+
 #### Best Practices
 
-* It may not be needed to discuss every team member in detail. Calibration sessions typically focuses on gaps, outliers and areas that might require additional management attention like the timeline and process for team members ready for promotion, how to improve performance for developing team members, etc.
 * Be conscious of time and consider setting a (reasonable) time limit per team member being discussed. 
 * Review program guidelines and avoid leniency bias.
 * Refer to performance data that you may have taken on a team member throughout the past year - including 360 review feedback (if both team member and manager agree to include), performance against metrics over time, key accomplishments, etc.; this will help avoid bias like recency bias or the halo effect. Please note that when reviewing 360 data for the Q4 talent assessment, it's important to take into account areas in which the team member has improved. Two quarters is a fairly significant amount of time and team members have (hopefully) take action on improvement areas during this period, which should be reflected in the assessment. Managers and other participants in calibration discussions should be prepared with this information if asked how they determined a rating. 
@@ -280,16 +289,25 @@ The calibration session is one of the most important pieces of the Performance/G
 * Focus on facts and avoid blanket statements (I.E. [team member] has poor communication)
 * **Ask questions and provide feedback!** This may seem obvious, but it is import aspect to help identify any potential bias
 
+##### Who Do I Calibrate?
+
+It is likely not necessary to discuss each team member in detail, particularly for larger groups. Calibration sessions typically focuses on gaps, outliers and areas that might require additional management attention and/or alignment. 
+
+As a best practice, we should calibrate outliers. "Outliers" are typically considered to [Box 1 ("Exceeding Growth" and "Exceeding Performance") and Box 9 ("Developing Growth" and "Developing Performance")](https://about.gitlab.com/handbook/people-group/talent-assessment/). [People Business Partners](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) and business leaders have discretion to expand this threshold as needed, but live calibration for team members in Box 1 and Box 9 should be the baseline across the board. 
+
+A few additional reasons to consider calibrating beyond Box 1 and Box 9 are:
+
+- Team members close to promotion
+- Team members who have changed assessments from the previous fiscal year (I.E. "Performing Performance" to "Exceeding Performance")
+- Team members in Box 3 ("Exceeding Growth" and "Performing Performance") to highlight potential development opportunities from peer groups
+- Outliers based on Performance alone (I.E. everyone "Developing Performance" and everyone "Exceeding performance")
+
 #### Topics To Avoid
 
 While we want to encourage open and transparent conversation during calibration session, there are certain topics that should be avoided to ensure we respect team member privacy.
 
 * Sharing whether team members are currently undergoing [formal performance remediation](/handbook/leadership/underperformance/#options-for-remediation). It is okay to share that team members are receiving coaching, but specifics pertaining to Written coaching, PIPs, etc. should be avoided. 
 * Anything related to health (I.E. medical diagnoses, conditions, disabilities, etc.). It is okay to share that team members have a lot going on in their personal lives, but we should not go into detail. _Note that this applies for team member's friends/family as well._
-
-## Matrix Tool
-
-Our goal is to have the whole company use the Talent [Assessment Tool](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/) for the Performance/Growth matrix. Our People Group Engineering team has further iterated on the assessment tools' security, and all team members are now able to log in through Okta. If you have any feedback or questions regarding the tool please reach out to [People Connect](/handbook/people-group/people-connect/).
 
 ## Identifying Action 
 
@@ -518,7 +536,8 @@ The resulting charts are reviewed with peers, e.g. all other executives, all oth
 
 | Resource | Purpose |
 | ------ | ------ |
-| [Performance/Growth Assessment tool](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/). | This tool allows managers to place their team members in the Performance/Growth Matrix and helps facilitate discussion during calibration sessions. |
+| [Talent Assessment Calibration Sheet](https://docs.google.com/spreadsheets/d/1D8zO_Yat9pMmNoxSh61J4qg1IqRxCBJ58EsPEOOcZK0/edit#gid=0) | We ask that all managers use this consistent format for Performance/Growth assessment calibration and finalizing assessments to ensure we have a format that is compatible with uploading directly to BambooHR to minimize error. This sheet also includes a couple of columns for Key Talent assessment and nominations. Please note that [not all levels of management assess Key Talent](/people-group/talent-assessment/#process-to-determine-key-talent), so this will not apply for all people managers. If Key Talent is not assessed at your level, feel free to simply remove these columns. |
+| [Talent Assessment Calibration Agenda Doc](https://docs.google.com/document/d/1zrlZSfdNXpSZ09uvDM71KxH42RWBJxa6U1QTCTw05iI/edit#heading=h.q1ptlqi506at) | This template can be used by managers to ensure similar pre-work, structure, and context to generate alignment ahead of live calibration sessions. The agenda is also recommend to ensure rationale behind potential assessment changes during calibration are recorded. |
 | [Values competencies](/handbook/competencies/#values-competencies) | Values competenices form an important part of the Performance Factor evaluation and are important to review prior to beginning the assessment period. |
 |[Remote work competencies](/handbook/competencies/#remote-work-competencies) | Remote work competenices form an important part of the Performance Factor evaluation and are important to review prior to beginning the assessment period. |
 | [Functional competencies](/handbook/competencies/#functional-competencies) | Functional competenices (for groups that have them developmed) can also influence the Performance Factor and should be reviewed prior to the assessment period. |
