@@ -115,46 +115,58 @@ Team A's MR Rate for that month would be: (100 / 5) = 20
 
 We use the following type labels to classify our Issues and Merge Requests.
 
-1. `~"Community contribution"`: A community contribution label takes precedence over other labels. Therefore, while the work may introduce a new feature or resolve a bug, we prioritize this label over others due to the importance of this particular category.
-You may apply a second type label such as `~"bug"` or `~"feature"` to indicate the type of issue or merge request.
-1. `~"security"`: Security-related MRs.
-1. `~"bug"`: Defects in shipped code. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
-1. `~"feature"`: Any MR that contains work to support the implementation of a feature and/or results in an improvement in the user experience. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
+1. `~"type::bug"`: Defects in shipped code. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
+1. `~"type::feature"`: Any MR that contains work to support the implementation of a feature and/or results in an improvement in the user experience. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
   - `~"feature::addition"`: Refers to the first MVC that gives GitLab users a foundation of new capabilities that were previously unavailable. For example, these issues together helped create the first MVC for our Reviewer feature: [Create a Reviewers sidebar widget](https://gitlab.com/gitlab-org/gitlab/-/issues/237921), [Show which reviewers have commented on an MR](https://gitlab.com/gitlab-org/gitlab/-/issues/10294), [Add reviewers to MR form](https://gitlab.com/gitlab-org/gitlab/-/issues/216054), [Increase MR counter on navbar when user is designated as reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/255102)
   - `~"feature::enhancement"`: Refers to GitLab user-facing improvements that refine the initial MVC to make it more useful and usable. For example, these issues enhance the existing Reviewer feature: [Show MRs where user is designated as a Reviewer on the MR list page](https://gitlab.com/gitlab-org/gitlab/-/issues/237922), [Display which approval rules match a given reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/233736), [Add Reviewers quick action](https://gitlab.com/gitlab-org/gitlab/-/issues/241244)
-  - `~"feature::maintenance"`: Refers to refinements to an existing feature that are not GitLab user-facing and not related to `~bug` resolution. This could include `~"technical debt"` and industry-standard updates such as work towards Rails upgrade. For example: [Updating software versions in our tech stack](https://gitlab.com/gitlab-org/ci-cd/codequality/-/issues/22), [Recalculating UUIDs for vulnerabilities using UUIDv5](https://gitlab.com/gitlab-org/gitlab/-/issues/212322)
-1. `~"tooling"`: MRs related to engineering tooling.
+1. `~"type::maintenance"`: Refers to refinements to an existing feature that are not GitLab user-facing and not related to `~"type::bug"` resolution. This could include `~"technical debt"` and industry-standard updates such as work towards Rails upgrade. For example: [Updating software versions in our tech stack](https://gitlab.com/gitlab-org/ci-cd/codequality/-/issues/22), [Recalculating UUIDs for vulnerabilities using UUIDv5](https://gitlab.com/gitlab-org/gitlab/-/issues/212322)
+1. `~"type::tooling"`: MRs related to engineering tooling.
   - `~"tooling::pipelines"`: MRs related to pipelines configuration.
   - `~"tooling::workflow"`: MRs related to improvements of the engineering workflow and release tooling like Danger, RuboCop, linters, etc.
-1. `~"documentation"`: For documentation-only MRs, use `~"documentation"` only unless the work is attributable to code changes for a feature or bug, and in that case, use `~"feature"` or `~"bug"`, even if the doc change is being made late for a feature/bug from a previous milestone.
 
 If these labels are missing, it will be tracked in the `undefined` bucket instead.
 The Engineering Manager for each team is ultimately responsible for ensuring that these labels are set correctly.
 
-### Deprecated types
+### Legacy types
 
-`~"backstage"` was intended to be changes that were done to keep product development running smoothly. Over time, `~"backstage"` was also being used for pre-feature work and has become unclear and confusing. `~"backstage"` was deprecated as part of <https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/488>.
+#### `~"backstage"` go-forward guidance
 
-#### Backstage replacements
+`~"backstage"` was intended to be changes that were done to keep product development running smoothly. Over time, `~"backstage"` was also being used for pre-feature work and has become unclear and confusing. `~"backstage"` was deprecated as part of <https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/488>. This will be removed with <https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/483>.
 
-This guidance may be helpful if you are wondering the go-forward type label based on your use case for applying `~"backstage"`.
+This guidance may be helpful if you are wondering the go-forward type label based on your use case for applying `~"backstage"`:
 
-- `~"feature::maintenance"` for industry standard and refactoring changes such as:
-  - `~"technical debt"`
-  -  non-`~"security"` `~"dependency update"`
-  - `~"railsx.y"`
-  - `~"Architecture Decision"`
-- `~"feature::maintenance"` for addition or updates to specs for existing GitLab features
-- `~"feature::addition"` for all changes related to the release of a new feature
-- `~"feature::enhancement"` for user-facing improvements that refine the initial MVC to make it more useful and usable.
-- `~"tooling::workflow"` for changes to engineering workflows such as:
-  - `~"Danger bot"`
-  - `~"static analysis"`
-  - release tooling
-  - Docs tooling changes
+- `~"type::maintenance"`
+  - for industry standard and refactoring changes such as: `~"technical debt"`, `~"railsx.y"`, `~"Architecture Decision"`, non-`~"security"` `~"dependency update"`
+  - for addition or updates to specs for existing GitLab features
+- `~"type::feature"`
+  - and `~"feature::addition"` for all changes related to the release of a new feature
+  - and `~"feature::enhancement"` for user-facing improvements that refine the initial MVC to make it more useful and usable.
+- `~"tooling::workflow"` for changes to engineering workflows such as `~"Danger bot"`, `~"static analysis"`, release tooling, Docs tooling changes
 - `~"tooling::pipelines"` for changes to project pipeline configurations
 
-`~backstage` will be removed with <https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/483>.
+#### `~"Community contribution"` go-forward guidance
+
+`~"Community contribution"` was intended to track community contributions as a top-level type, but it's now only a facet label and a merge request should always get a proper type label set in addition.
+
+Community contributions are welcome in all areas of GitLab, so any type label can be set on `~"Community contribution"` merge requests.
+
+#### `~"security"` go-forward guidance
+
+`~"security"` was intended to track security-related merge requests as a top-level type, but it's now only a facet label and a merge request should always get a proper type label set in addition.
+
+This guidance may be helpful if you are wondering the go-forward type label based on your use case for applying `~"security"`:
+
+- `~"type::feature"` for new security features that aren't fixing an existing vulnerability
+- `~"type::bug"` for any other security changes
+
+#### `~"documentation"` go-forward guidance
+
+`~"documentation"` was intended to track documentation-only merge requests as a top-level type, but it's now only a facet label and a merge request should always get a proper type label set in addition.
+
+This guidance may be helpful if you are wondering the go-forward type label based on your use case for applying `~"documentation"`:
+
+- `~"type::feature"` for new feature documentation (this type would usually be already set on merge requests that introduce a new feature)
+- `~"type::maintenance"` for any other documentation changes
 
 ### Stage and Group labels
 
@@ -162,7 +174,7 @@ In the spirit of "Everyone can Contribute" it's natural that members in a group 
 
 We allow flexibility where the parent `devops::xxx` and child `group::xxx` label may not match. For example:
 * In the case where labelling was corrected by a human.
-* When working on shared `frontend`, `backend` components or `tooling` work that spans multiple groups.
+* When working on shared `frontend`, `backend` components or `type::tooling` work that spans multiple groups.
 
 If a contribution happens across groups, we leave it to the discretion of the engineering and product manager to change the `group::xxx` label to reflect which group worked on it.
 They can also decide if they want to move over the `devops::xxx` as well or keep it to reflect the product area.
