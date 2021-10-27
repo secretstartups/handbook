@@ -66,7 +66,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 * [Third-party Trademark Usage Guidelines](https://about.gitlab.com/handbook/legal/policies/third-party-trademark-usage-guidelines/) - guidelines concerning the use of third-party trademarks in the GitLab product
 
 # Code of Business Conduct and Ethics 
-GitLab's Code of Business Conduct and Ethics summarizes the ethical standards for all directors, officers, team members and contractors of GitLab and of its direct and indirect subsidiaries and is a reminder of the seriousness of our commitment to our values. [Please click here to read GitLab's Code of Business Conduct and Ethics in its entirety.](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) 
+GitLab's Code of Business Conduct and Ethics summarizes the ethical standards for all directors, officers, team members and contractors of GitLab and of its direct and indirect subsidiaries and is a reminder of the seriousness of our commitment to our values. [Please click here to read GitLab's Code of Business Conduct and Ethics in its entirety.](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) 
 
 # General Legal FAQs
 
