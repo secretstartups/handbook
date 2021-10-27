@@ -102,7 +102,9 @@ Follow the same steps for Creating the airflow secret in the testing namespace. 
 
 Execute below command `kubectl create -f kube_secret_testing.yaml` from the directory path  `airflow_image/manifests/`.
 
-
+All the values for secret file is present in the 1 password data team secure vault as document add the value to the secret file from one that document. 
+To edit the document in the testing  namespace use command  `kubectl edit secret airflow  -o yaml --namespace=testing`  and to create in default use `kubectl edit secret airflow  -o yaml`. 
+**Note:-** This has to be executed and created before we try to apply deployment.yml file
 
 
 ##### DNS
@@ -262,7 +264,12 @@ Some gotchas:
 - [Airflow pt 2](https://drive.google.com/open?id=1zZGtSZIvSwHvhu2sEgGm4LjvbLim5KME)
 - [Airflow test environment](https://www.youtube.com/watch?v=zSyzCRVuJ18). The video explained the testing environment for `Airflow` and `pod` operators (`Kubernetes`) in `GCP`.
 
-### Troubleshooting Local Airflow Config
+### Local Airflow Configuration.
+
+All DAGs are created using the `KubernetesPodOperator` so while working from local we need a cluster where we should be able to spin the pod when running a task in local. In order to make this work we need to ensure we are connected through to a cluster. To connect to cluster use  `gcloud container clusters get-credentials data-ops --zone us-west1-a --project gitlab-analysis`. In order to make the local setup work in cluset we need to ensure that the we name `testing` namespace is created and `airflow` secret is also present in the testing namespace. The steps to create this is present above. 
+Once you have these your local setup should be able to spin the pod in the cluster. 
+
+#### Troubleshooting Local Airflow Config
 
 #### No Such File or Directory: 'Users/(user)/google-cloud-sdk-bin/gcloud'
 
