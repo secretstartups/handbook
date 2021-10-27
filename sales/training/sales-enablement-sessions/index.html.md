@@ -19,12 +19,23 @@ description: "Continuous education webcast series for GitLab sales team members"
 ## Upcoming Training
 To see what training is coming soon, view the [Sales Enablement Session issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Summer 2021 Lineup**
+**Winter 2021 Lineup**
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Oct 21 | *No session during the last two weeks of the quarter* | N/A |
-| Oct 28 | *No session during the last two weeks of the quarter* | N/A |
+| Nov 4 |  Q3 FY22 Product Update      | Brian G. |
+| Nov 11 | Q4 FY22 Competitive Update      | Francis P. |
+| Nov 18 |   Trust Building In Consultative Engagement    | Darwin S. & Brian W. |
+| Nov 25 |       |   |
+| Dec 2 |        |   |
+| Dec 9 |        |   |
+| Dec 16 |       |   |
+| Dec 23 |       |   |
+| Dec 30 |       |   |
+| Jan 6 |       |    |
+| Jan 13 |     |   |
+| Jan 20 | *No session during the last two weeks of the quarter* | N/A |
+| Jan 27 | *No session during the last two weeks of the quarter* | N/A |
                                                                                                                               
                                                                                                                                    
 ## Past Sessions
