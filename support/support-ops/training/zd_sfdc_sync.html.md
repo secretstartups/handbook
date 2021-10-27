@@ -30,7 +30,7 @@ from Salesforce into Zendesk.
 ## How does the ZD<>SFDC sync work
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/9hrc8NwzqNg" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/kzZbHHUCotI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 This works in 3 stages:
