@@ -21,7 +21,7 @@ Once the account is won it is time for the AE/SAL/TAM/PSE to work together to en
 
 In the retention and expansion phase, the roles and responsibilities of the TAM/PSE/AE/SAL run parallel and it is very important that all roles work together to help the customer be successful. Retention and expansion is typically the purview of the TAM regarding most project management and technical aspects of customer success, but it’s important for the AE/SAL to conduct ongoing sales engagement activities with the account in order to provide dependable touch points for customer support. This Standard Operating Procedure (SOP) will layout the steps, tasks, and deliverables necessary by all parties below related to account management.  
 
-*   Strategic Account Leader ([Enterprise](https://about.gitlab.com/job-families/sales/strategic-account-leader/)) or Account Executive ([SMB](/handbook/sales/commercial/#smb-account-executives) | [Mid Market](/handbook/sales/commercial/#mid-market-account-executive))
+*   Strategic Account Leader ([Enterprise](https://about.gitlab.com/job-families/sales/strategic-account-leader/)) or Account Executive ([SMB](/handbook/sales/commercial/#smb-account-executives) or [Mid Market](/handbook/sales/commercial/#mid-market-account-executive))
 *   [Technical Account Manager](/handbook/customer-success/tam/#what-is-a-technical-account-manager-tam)
 *   [Solutions Architect](/handbook/customer-success/solutions-architects/)
 *   [Professional Services](/handbook/customer-success/professional-services-engineering/)
