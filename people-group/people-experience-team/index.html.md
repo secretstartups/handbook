@@ -475,6 +475,16 @@ _Note: If you received the same nomination twice (for the same person and the sa
 
 As admins for 1Password, the People Experience team will get notified when an account recovery is requested by the IT Ops team. We do not need to take any action on these and can safely delete/ignore the email. The IT Ops team will complete the recovery.
 
+### Legal Name Change Processing
+
+Once a team member provides the necessary documentation for the legal name change, the People Experience Associate should update the name in BambooHR. If the team member also wants their email updated to their new name, make sure to update the email in BambooHR. 
+
+If the email is updated, the PEA will also need to update [this mapping file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/connectors-gem/-/blob/main/data/email_mapper.yml) as BambooHR emails can be updated however, Slack emails can not.
+
+The PEA will then need to create a [People Engineering ticket](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/new?issue%5Bmilestone_id%5D=) to have them create and push new release for the gem and upgrade the Nominator Bot and People Connect Bot project to the new gem version.
+
+Updating that file and gem, will make sure that all the team members details still populate in People Connect tickets as well as route the correct way in the Nominator Bot.
+
 ### Requesting signatures via DocuSign
 
 We use [DocuSign](https://app.docusign.com/home) to request signatures on documents and follow the below process:
