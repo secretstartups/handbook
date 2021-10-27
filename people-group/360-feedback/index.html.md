@@ -18,6 +18,7 @@ description: >-
 
 **Next 360 Feedback Cycle**
 
+Historically, we have one 360 feedback cycle per year.  
 In Q3 FY'22 we will launch our next 360 feedback cycle. From the People Group we encourage team members to gather feedback from peers, their manager and team members.
 
 ### Timeline FY22 
