@@ -13,45 +13,104 @@ description: "Overview of the Related Party Transactions Policy at GitLab."
 
 # GITLAB INC. RELATED PARTY TRANSACTIONS POLICY
 
+## THIS POLICY WAS AMENDED AND RESTATED BY THE BOARD ON SEPTEMBER 14, 2021
+
+
 ## PURPOSE
-* This policy requires that each Related Party Transaction (as defined below) be considered for approval or ratification in accordance with the guidelines set forth in this policy (i) by the Audit Committee (the “Audit Committee”) of the Board of Directors (the “Board”) of GitLab Inc. (the “Company”) or (ii) if the Audit Committee determines that the approval or ratification of such Related Party Transaction should be considered by all of the disinterested members of the Board, by such disinterested members of the Board by the vote of a majority thereof.
-* A Related Party Transaction will be entered into or continued only if the Audit Committee approves or ratifies the transaction in accordance with the guidelines set out in this policy having determined that the transaction is on terms that are not inconsistent with the best interest of the Company and its shareholders, or if the transaction is approved by the disinterested members of the Board. This policy applies to all Related Party Transactions.
-* The Audit Committee may review this policy from time to time and recommend amendments for consideration and approval by the Board.
+At GitLab Inc. (the “**_Company_**”), we aim to lead by example. We set high standards for our team members at all levels and strive to meet them consistently. Our sound business principles and practices foster our commitment to ethical behavior, accountability and transparency. We expect our directors, officers and team members to avoid conflicts of interest, that is, any activity that interferes with the performance of their duties or that might deprive us of their undivided loyalty in business dealings. Conflicts of interest can come up in various ways, even in situations where the transaction may benefit the Company and our stockholders. This Related Party Transactions Policy (the “**_Policy_**”) deals specifically with those situations where the Company (including any of our subsidiaries) is a party to a transaction with a Related Party. Although our Code of Business Conduct and Ethics addresses this issue generally, we have adopted this Policy to formalize our procedures for the identification, review, and consideration and approval of the Audit Committee of our Board of Directors (the “**_Audit Committee_**”) of any transactions involving the Company and a Related Party. This Policy has been approved by our Board of Directors (“**_Board_**”).
 
-## DEFINITIONS
-* “Related Party Transaction”  means any financial transaction, arrangement or relationship or series of similar transactions, arrangements or relationships (including indebtedness or guarantee of indebtedness) in which:
 
-1. the aggregate amount involved will or may be expected to exceed $120,000 (USD) in any fiscal year   (including   any periodic payments or installments due on or after the beginning of the applicable   fiscal   year   and,   in   the case of indebtedness, the largest amount expected to be outstanding and the amount of annual interest thereon),
-1. the Company or any of its subsidiaries is a participant, and
-1. any Related Party has or will have a direct or indirect interest.
+# PERSONS COVERED BY THIS POLICY
 
-* “Related Party" means:
+This Policy applies to all of our executive officers, any person the Company knows to be the beneficial owner of more than 5% of any class of our voting securities (a “**_significant stockholder_**”), and members of our Board.
 
-1. any person who is or at anytime since the beginning of the Company’s last fiscal year was a director or executive officer of the Company;
-1. any shareholder who beneficially owns in excess of 5% of the Company’s outstanding common stock;
-1. a person who is an immediate family member of any director or executive officer(which means any child, stepchild, parent, stepparent, spouse, sibling, mother-in-law, father-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in law, and any person other than a tenant or employee sharing the house of such director or executive officer); and
-1. any firm, corporation, charitable organization or other entity in which any of these persons is employed or an officer, general partner or principal or in a similar position or in which the person and all related parties has beneficial ownership interest of 10% or more.
+# APPROVAL AUTHORITY
+Our “**_Approval Authority_**” will be our Audit Committee. In a situation where a member of our Audit Committee is a Related Party in the proposed transaction, our Nominating and Corporate Governance Committee will be the Approval Authority.
 
-## APPROVAL PROCESS
-Prior to entering into the Related Party Transaction, the Related Party (or if the Related Party has an immediate family member who is a Related Party) must provide written notice to the Corporate Secretary of the facts and circumstances of the proposed Related Party Transaction. The written notice should include:
+# WHO IS A RELATED PARTY?
 
-1. the Related Party’s relationship to the Company and the person’s interest in the transaction;
-1. the   material   terms   of   the   proposed   transaction,   including   the   aggregate   value   or,   in   the   case   of in debtedness, the aggregate principal and interest rate;
-1. the benefits to the Company of the proposed transaction;
-1. if applicable, the availability of other sources of comparable products or services; and
-1. as assessment of whether the proposed transaction is on terms that are comparable to the terms available to an unrelated third party.
+You are a Related Party if you are:
 
-The  Corporate  Secretary  will  determine  whether  the  proposed  transaction is a Related  Party Transaction  for purposes of this policy and may meet with the relevant business unit or function leader to confirm and supplement the information in the notice. Any proposed transaction determined to be a Related Party Transaction will be submitted   to   the   disinterested   members   of   the   Audit   Committee   for   consideration   at   its next meeting. If the Corporate Secretary, in consultation with the Chief Executive Officer or the Chief Financial Officer, determines that it is not practical for the Company to wait until the next Audit Committee meeting, the Chair of the Audit Committee has the authority to act between Committee meetings unless the Chair of the Audit Committee is a Related Party in the Related Party Transaction.
+        1. a person who is, or at any time since the beginning of our last fiscal year was, a director or executive officer of the Company or a nominee to become a director;
+        2. a significant stockholder; or an immediate family member of a director, director nominee, executive officer or significant stockholder. This includes any child, stepchild, parent, stepparent, spouse, sibling, in-law (mother, father, son, daughter, brother, sister) of such person, and any person (other than a tenant or employee) sharing the household of such person.
 
-The Audit Committee will consider all the relevant facts and circumstances, including the benefits to the Company, the potential effect on a director’s independence of entering into the transaction, the availability of other sources for the products or services, the terms of the transaction and the terms available to unrelated third parties generally. The Audit Committee may approve Related Party Transactions that it determines in good faith are not in consistent with the best interests of the Company and its shareholders. The Chair of the Audit Committee will report to the Audit Committee at its next meeting with regard to any approval of a proposed transaction between Committee meetings under this policy. In the event multiple members of the Audit Committee, including the Chair of the Audit Committee, are Related Parties, the Related Party Transaction will be considered by the disinterested members of the Board in place of the Audit Committee.
+# WHAT TYPES OF TRANSACTIONS ARE COVERED BY THIS POLICY?
 
-## RATIFICATION
-If the Company or a Related Party becomes aware that any Related Party Transaction exists that has not been previously approved or ratified under this policy, it will promptly submit the transaction to the Audit Committee or Chair of the Committee or disinterested members of the Board for consideration.
+Any transaction, arrangement or relationship (including any indebtedness or guarantee of indebtedness) or any series of similar transactions, arrangements or relationships, in which:
 
-If the Company enters into a transaction that (i) the Company was not aware a Related Party Transaction at the time   it was entered into but which it subsequently determines is a Related Party Transaction   prior to full performance there of or (ii) did not constitute a Related Party Transaction at the time such transaction was entered into but thereafter becomes a Related Party Transaction prior to full performance thereof, then in either such case the Related Party Transaction shall be presented for consideration in the manner set forth above. The Audit Committee or Chair of the Committee or Board will evaluate the transaction considering the criteria set out in the approval process under this policy and will consider all options, including ratification, amendment or termination of the Related Party Transaction.
 
-## REVIEW OF ONGOING TRANSACTIONS
-At the Audit Committee’s first meeting of each fiscal year, the committee will evaluate any continuing Related Party Transactions that have remaining amounts receivable of more than $120,000 to determine if it is in the best   interests of the Company and its shareholders to continue, modify or terminate the Related Party Transaction.
+        1. the Company (including any of our subsidiaries) was, is or will be a participant;
+        2. the aggregate amount involved will or may be expected to exceed $120,000 in any fiscal year; and
+        3. any Related Party had, has or will have a direct or indirect material interest.
 
-## DISCLOSURE
-All Related Party Transactions will be disclosed to the Audit Committee and any material Related Party Transaction will be disclosed to the Board.
+Any transaction that meets the above criteria is referred to as a “**_Related Party Transaction_**.”
+
+
+# IDENTIFYING RELATED PARTIES
+
+We have established a process to identify any Related Party to assist us in enforcing this Policy.
+
+**Directors and Executive Officers**
+Our Legal Team will collect, at least annually, the following information from each of our directors and executive officers:
+
+ 1. A list of all entities in which they serve as a director or executive officer, or in which they have 5% or greater beneficial ownership interest.
+ 2. A list of all their immediate family members, and for each immediate family member listed:
+* whether they are (a) an executive officer of any entity, or (b) employed by the Company’s independent auditor (or an affiliate, member firm or other entity associated with our independent auditor), and if so, the name of their employer and job title or a brief job description; and
+* all entities in which they serve as a director or in which they are a significant stockholder.
+
+This list also will include the name of each charitable or non-profit organization for which each director, executive officer and any immediate family member is a major fundraiser or otherwise serves as a director or trustee or in a similar capacity.
+
+Directors and executive officers are expected to notify our Legal Team of any updates to the list of Related Parties, including updates to their employment and relationships with charitable organizations.
+
+## **Significant Stockholders**
+
+When the Company learns that a person has become a significant stockholder, our Legal Team will examine relevant filings with the U.S. Securities and Exchange Commission (“**_SEC_**”) (to the extent such information is available) to determine (a) if the person is an individual, the same information requested of directors and executive officers under this Policy, and (b) if the person is a firm, corporation or other entity, a list of principals or executive officers of such firm, corporation or entity.
+
+# APPROVAL PROCESS
+
+**Advance Approval**
+
+Any transaction the Company intends to undertake with a Related Party, irrespective of the amounts involved (unless the transaction is subject to standing pre-approval as provided in this policy or pursuant to a resolution adopted by the Approval Authority), must be submitted to the Chief Legal Officer (the “**_CLO_**”) for his or her determination of the approvals required under this Policy. The CLO will refer to the Approval Authority any Related Party Transaction, and any other transaction that he or she otherwise determines should be considered for evaluation by the Approval Authority consistent with the purpose of this Policy. The CLO may do so irrespective of any pre-approval or other technical exemption from this Policy.
+
+The Legal Team will provide the Approval Authority with all relevant information available about the proposed transaction, including:
+
+  1. the Related Party’s relationship to the Company and interest in the transaction;
+  2. the material facts of the proposed transaction, including the anticipated aggregate dollar value of the transaction or, in the case of indebtedness, the largest amount of principal outstanding at any time during the current fiscal year plus all amounts of interest payable on it during the fiscal year;
+  3. the rationale for the proposed transaction; and
+  4. any other relevant information with respect to the proposed transaction.
+
+In deciding whether to approve a proposed transaction, the Approval Authority may take into account any relevant information and considerations, including the impact on a director’s independence if the Related Party is a director. The Approval Authority may impose such conditions as it deems appropriate on the Company or on the Related Party in connection with approving the proposed transaction.
+
+The Approval Authority will convey the decision, including any conditions imposed on the transaction, to our CLO, who then will convey the decision to the appropriate people within the Company.
+
+**Review of Ongoing Transactions**
+
+At least annually, the Approval Authority will review any previously approved or ratified transactions with Related Parties that remain ongoing and that have a remaining term of more than six months and remaining amounts payable to or receivable from us of more than $120,000 during the fiscal year. Based on all relevant facts and circumstances, the Approval Authority will determine whether it is in the best interests of the Company and its stockholders to continue, modify or terminate the transaction.
+
+**Ratification**
+
+Members of our finance team will produce quarterly reports of any amounts paid or payable to, or received or receivable from, any Related Party. These reports will be provided (a) to our legal department and used to determine whether there are any Related Party Transactions or other transactions with Related Parties that were not previously approved or previously ratified under this Policy and (b) to our CLO for appropriate reporting in our periodic reports.
+
+If the CLO learns of a transaction with a Related Party that required but did not receive approval or ratification under this Policy, the CLO will promptly submit the transaction to the Approval Authority. The Approval Authority will undertake the review described above. Based on the conclusions reached, the Approval Authority will evaluate all options, including but not limited to ratification, amendment or termination of the transaction with the Related Party, and determine whether disciplinary action is appropriate.
+
+A transaction with a Related Party entered into without pre-approval of the Approval Authority will not be deemed to violate this Policy, or be invalid or unenforceable, provided that the transaction is brought to the Approval Authority as promptly as reasonably practical after it is entered into or after it becomes reasonably apparent that the transaction is covered by this Policy.
+
+**Standing Pre-Approval for Certain Related Party Transactions**
+
+Unless there are special or unusual benefits to the Related Party in a proposed transaction, the following categories of Related Party Transactions do not need to be presented to the Approval Authority for review and approval under this Policy:
+
+1. _Employment of executive officers_: Any employment by us of an executive officer if:
+* the compensation arising from such employment is reported in our proxy statement; or
+* the executive officer is not an immediate family member of another Company executive officer or director, the related compensation would have been reported in our proxy statement if the executive officer were a “named executive officer,” and the Company’s Compensation and Leadership Development Committee approved (or recommended that the Board approve) such compensation;
+2.  _Director compensation_: Any compensation paid to a director (in such capacity) if the compensation is required to be reported in our proxy statement;
+3.  _Transactions where all stockholders receive proportional benefits_: Any transaction in which the Related Party’s interest arises solely from the ownership of our capital stock and all holders of our capital stock receive the same benefit on a pro rata basis (e.g., dividends);
+4.  _Certain transactions with other companies_: Any transaction with another company where a Related Party’s only relationship is as an employee (other than an executive officer), director or beneficial owner, together with their immediate family members, of less than 10% of that company’s outstanding equity or as a limited partner, together with their immediate family members, holding interests of less than 10% in the limited partnership (or similar interests in an alternative form of entity), if the aggregate amount involved does not exceed the greater of $200,000, or 5% of that other company’s consolidated gross revenues;
+5.  _Certain charitable contributions_: Any charitable contribution, grant or endowment by us to a charitable organization, foundation or university at which a Related Party’s only relationship is as an employee (other than an executive officer) or a director, if the aggregate amount involved does not exceed the greater of $200,000, or 5% of the consolidated gross revenues of such charitable organization, foundation or university;
+6.  _Ordinary course expenses, advances and reimbursements_: Ordinary course business travel and expenses, advances and reimbursements;
+7.  _Indemnification_: Indemnification payments and other payments made pursuant to
+8. (a) directors and officers insurance policies, (b) our amended and restated Certificate of Incorporation or Bylaws, and/or (c) any other policy or agreement approved by the Board; and
+9. _Other transactions_: Any transaction with a Related Party (i) where the rates or charges involved are determined by competitive bids; (ii) involving the rendering of services as a common or contract carrier or public utility, at rates or charges fixed in conformity with law or governmental authority; or (iii) involving services as a bank depositary of funds, transfer agent, registrar, trustee under a trust indenture or similar services.
+
+# CHANGES TO THIS POLICY
+The Audit Committee may recommend future amendments to this Policy for consideration by our Board. Our Board reserves the right in its sole discretion to modify or grant waivers to this Policy. Any amendments or waiver may be publicly disclosed if required by applicable laws, rules and regulations.
+
