@@ -53,7 +53,7 @@ This page will serve as a directory for our team members employed through a GitL
 
 **Health and Safety**
 
-To ensure the health and safety of our team members in Germany, and to maintain compliance with the German Occupational Safety and Health Act, all team members in Germany will complete the following checklist at onboarding. This checklist will be reviewed annually. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, or you need to report an incident, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
+To ensure the health and safety of our team members in Germany, and to maintain compliance with the German Occupational Safety and Health Act, all team members in Germany will complete the following checklist at onboarding. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, please contact [People Operations](mailto:peopleops@gitlab.com). If you need to report an accident or injury, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
 
 * [Work from Home Checklist](https://docs.google.com/document/d/1Z3i-vrkcU5ald0j-scf2rgTumwFCc_sI/edit?usp=sharing&ouid=106298195226644329866&rtpof=true&sd=true)
 
@@ -85,7 +85,7 @@ To ensure the health and safety of our team members in Germany, and to maintain 
 
 * [Display Screen Equipment Regulations 2007](https://www.irishstatutebook.ie/eli/2007/si/299/made/en/print#partii-chapv)
 
-* To ensure the physical and mental health and safety of our team members in Ireland, and to maintain compliance with local employment regulations, all team members in Ireland will complete a [home working checklist](https://forms.gle/bmXqNdH1xEw2bFTa8) at onboarding. This checklist will be reviewed annually. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, or you need to report an incident, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
+* To ensure the physical and mental health and safety of our team members in Ireland, and to maintain compliance with local employment regulations, all team members in Ireland will complete a [home working checklist](https://forms.gle/bmXqNdH1xEw2bFTa8) at onboarding. This checklist will be reviewed annually. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, please contact [People Operations](mailto:peopleops@gitlab.com). If you need to report an accident or injury, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
 </details>
 
 <details>
@@ -100,6 +100,21 @@ To ensure the health and safety of our team members in Germany, and to maintain 
 
 ### United Kingdom
 
+**Health and Safety**
+
+[GitLab Ltd Health and Safety Risk Assessment](https://docs.google.com/document/d/1rJmwBW6eP7Db5VF2_GlFBr-DbDQfLbEHkn-IUHzekhM/edit?usp=sharing)
+
+To ensure the physical and mental health and safety of our team members in the UK, and to maintain compliance with local employment regulations, all team members employed by GitLab Ltd. must review the [guidelines for working comfortably at home](https://docs.google.com/document/d/1aFVBgpfLIyuV14kE0kavHsdl5_fWjnnP/edit?usp=sharing&ouid=106298195226644329866&rtpof=true&sd=true) and complete a [home working risk assessment](https://docs.google.com/document/d/1hJDuR1wqEcSCq3us2FnsV_b4My7STgctyM-c_FDqfAU/edit?usp=sharing) at onboarding. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, please contact [People Operations](mailto:peopleops@gitlab.com). If you need to report an accident or injury, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com). 
+
+The handbook also has a wealth of information and recommendations for setting up your workspace and procuring the proper equipment: 
+  * [How to Create an Ergonomic Workspace](https://about.gitlab.com/company/culture/all-remote/tips/#create-an-ergonomic-workspace)
+  * [Focus your Workspace](https://about.gitlab.com/company/culture/all-remote/getting-started/#focus-your-workspace)
+  * [Combating Burnout, Isolation, and Anxiety in a Remote Workplace](https://about.gitlab.com/company/culture/all-remote/mental-health/)
+  * [Considerations for a Productive Home Office](https://about.gitlab.com/company/culture/all-remote/workspace/#introduction)
+  * [Equipment Examples](https://about.gitlab.com/handbook/finance/expenses/#-not-sure-what-to-buy-equipment-examples)
+  * [Hardware Expense Guide](https://about.gitlab.com/handbook/finance/expenses/#-hardware)
+
+
 </details>
 
 <details>
@@ -109,7 +124,7 @@ To ensure the health and safety of our team members in Germany, and to maintain 
 
 **Health and Safety**
 
-To ensure the physical and mental health and safety of our team members in Australia, and to maintain compliance with local employment regulations, all team members in Australia will complete the following checklist at onboarding. This checklist will be reviewed annually. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, or you need to report an incident, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
+To ensure the physical and mental health and safety of our team members in Australia, and to maintain compliance with local employment regulations, all team members in Australia will complete the following checklist at onboarding. This checklist will be reviewed annually. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, please contact [People Operations](mailto:peopleops@gitlab.com). If you need to report an accident or injury, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
 
 * [Remote Work Checklist](https://docs.google.com/document/d/1_sHk3ksGLDVxBZsnO3pMD-U_R_Fy0Yyu/edit?usp=sharing&ouid=106298195226644329866&rtpof=true&sd=true)
 
@@ -122,7 +137,7 @@ To ensure the physical and mental health and safety of our team members in Austr
 
 **Health and Safety**
 
-To ensure the physical and mental health and safety of our team members in New Zealand, and to maintain compliance with local employment regulations, all team members in Australia will complete the following survey at onboarding. The responses will be reviewed annually. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, or you need to report an incident, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
+To ensure the physical and mental health and safety of our team members in New Zealand, and to maintain compliance with local employment regulations, all team members in New Zealand will complete the following survey at onboarding. The responses will be reviewed annually. If you think you may need accommodations in order to achieve and/or maintain a healthy and safe work environment, please contact [People Operations](mailto:peopleops@gitlab.com). If you need to report an accident or injury, please contact [Team Member Relations](mailto:teammemberrelations@gitlab.com).
 
 * [Remote Work Checklist](https://forms.gle/DszZNkBA22Rhy3VW7)
 </details>
