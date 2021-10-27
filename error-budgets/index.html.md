@@ -171,7 +171,7 @@ The balance between feature development and reliability development for a featur
 
 #### Stage Groups with different error budgets.
 
-Our current contract is 99.95% availability and a 20 minute error budget. However the following groups have a different budget based on business needs.
+Our current contract is 99.95% availability and a 21 minute monthly error budget. However the following groups have a different budget based on business needs.
 
 |**Stage Group**   | **Monthly Spend** | **Business Reason** |
 |------------------|---------------------|---------------------|
