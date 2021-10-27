@@ -23,15 +23,14 @@ This page details processes and general guidelines specific to the Executive Bus
 * Kat Allen (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) and Carol Teskey (Senior Director, People Success), Stella Treas (Chief of Staff)
 * Kristie Thomas (Sr. EBA) supporting Scott Williamson (CProdO) and Eric Johnson (CTO)
   * Jennifer Garcia (EBA) providing interim support
-* To be hired (Sr. EBA) supporting Robin Schulman (CLO)
-* To be hired (Sr. EBA) supporting Brian Robins (CFO)
+* Sharlene Seemungal (Sr. EBA) supporting Robin Schulman (CLO)
 
 
 ### All-Directs EBA's 
 * Dana Pelton (Sr. EBA) supporting David Hong (VP of Field Operations), Michelle Hodges (VP of Worldwide Channels) and Nima Badiey (VP of Alliances)
 * Victoria Reinhardt (EBA) supporting David Sakamoto (VP of Customer Success), Ryan O’Nell (VP of Commercial Sales), Mike Pyle (VP of Enterprise Sales)
 * Jennifer Garcia (EBA) supporting Johnathan Hunt (VP of Security) and Anoop Dawar (VP of Product Management)
-* To be hired (EBA) supporting Finance Leadership: Dale Brown, Bryan Wise, VP of IR 
+* Cindy King (EBA) supporting Dale Brown, Bryan Wise and VP of IR 
 
 
 ## Contact us
