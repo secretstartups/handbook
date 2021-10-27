@@ -371,4 +371,4 @@ The slide deck for the session can be found here:
 
 * [The Leader as Coach - Harvard Business Review Article](https://hbr.org/2019/11/the-leader-as-coach)
 * [What Can Coaches Do for You? - Harvard Business Review Article](https://hbr.org/2009/01/what-can-coaches-do-for-you)
-* [Four Tips for Coaching Remote Employees](https://blog.insideoutdev.com/4-tips-for-coaching-remote-employees)
+* [Four Tips for Coaching Remote Employees](https://insideoutdev.com/blog/4-Tips-for-Coaching-Remote-Employees)
