@@ -315,7 +315,6 @@ Documentation for the work will be developed by the engineer and the Technical W
 
 | Labels | Usage |
 |--------|-------|
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> `workflow::awaiting security release` | After the issue has passed  verification , this label is applied signaling that it is ready but awaiting the next [security release](/handbook/engineering/security/#timing-of-the-monthly-security-release).|
 
 Issue Status: `Closed`
 
