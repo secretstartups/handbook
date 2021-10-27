@@ -74,6 +74,37 @@ Within this cluster there are 4 nodepools: `highmem-pool`, `production-task-pool
 
 All nodepools except the `highmem-pool` have labels and [taints](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/) to manage which nodepool launches which Airflow task. For a task to be scheduled in a nodepool, a task must have nodeAffinity for the pool and it must have a toleration that matches the taint. See [this MR](https://gitlab.com/gitlab-data/analytics/merge_requests/2006/diffs) where we added the affinity and toleration for the Slowly-Changing Dimensions task for our postgres pipeline jobs.
 
+#### Create Namespace
+
+When the cluster gets created, it has by default one namespace associated with it named `default`. The airflow setup of the project requires two namespace setups in a production setup.
+1) Default
+2) Testing
+
+Namespace:- In Kubernetes, namespaces provide a mechanism for isolating groups of resources within a single cluster. Names of resources need to be unique within a namespace, but not across namespaces. 
+
+Setup the namespace and secret file once the cluster gets provisioned. `Default` namespace is present by default, and we only need to create the `testing` namespace.  [names_space_testing.yaml](https://gitlab.com/gitlab-data/data-image/-/blob/master/airflow_image/manifests/names_space_testing.yaml) contain information about the namespace details. 
+
+Execute command `kubectl apply -f name_space_testing.yaml` from the folder `airflow_image/manifests/names_space_testing.yaml`. This should create give below as output `namespace/testing created`.
+
+To validate the list of namespace created/present  use `kubectl get namespace`.
+
+### Create kube secret 
+After creating the namespace, create the airflow secret in both the namespace `default` and `testing`.
+For the creation of secrets in `default` namespace use [kube_secret_default.yaml](https://gitlab.com/gitlab-data/data-image/-/blob/master/airflow_image/manifests/kube_secret_default.yaml) Execute below command `kubectl create -f kube_secret_default.yaml` from the directory `airflow_image/manifests`
+Below output you should receive.
+```
+ secret/airflow created
+```
+To check for the secret have been created successfully. Use below command
+`kubectl get secrets --namespace=default `.
+
+Follow the same steps for Creating the airflow secret in the testing namespace. For the creation of secrets in `testing` namespace use [kube_secret_testing.yaml](https://gitlab.com/gitlab-data/data-image/-/blob/master/airflow_image/manifests/kube_secret_testing.yaml).
+
+Execute below command `kubectl create -f kube_secret_testing.yaml` from the directory path  `airflow_image/manifests/`.
+
+
+
+
 ##### DNS
 
 To enable the URL airflow.gitlabdata.com to point to our cluster, a static IP was provisioned in the us-west1 region using the command `gcloud compute addresses create airflow-west --region=us-west1`. The IP generated was `35.233.169.210`. This is available by running `gcloud compute addresses list`. Note that the static IP must be a regional and not global IP for the TLS steps to work.
@@ -92,18 +123,22 @@ To install NGINX into the cluster follow below steps:
 1) If helm is not installed in system install it using command `brew install helm`.  
 2) Then add nginx-stable version to helm repo using command `helm repo add nginx-stable https://helm.nginx.com/stable`.  
 3) To get the latest version of stable use `helm repo update`.  This should give output similar to below 
+
     ```
     Hang tight while we grab the latest from your chart repositories...
     ...Successfully got an update from the "nginx-stable" chart repository
     ...Successfully got an update from the "ingress-nginx" chart repository
     Update Complete. ⎈Happy Helming!⎈
     ```
+
 4) To check helm repo status use command `helm repo list`
+
   ```
   NAME         	URL
   ingress-nginx	https://kubernetes.github.io/ingress-nginx
   nginx-stable 	https://helm.nginx.com/stable`
   ```
+
 
 5) Use command to `The NGINX Ingress Controller`  
   `helm install airflownginx nginx-stable/nginx-ingress --values nginx_values.yaml `
@@ -131,6 +166,8 @@ The [ingress definition](https://gitlab.com/gitlab-data/data-image/-/blob/93b20e
 
 Although not strictly necessary, it is cleaner to delete the ingress when applying changes. This can be done via the UI in GCP or via the command `kubectl delete ingress airflow-ingress`.
 Applying the new configuration is done via the command `kubectl apply -f ingress.yaml`
+
+
 
 ### Viewing Airflow Logs in GCP
 
