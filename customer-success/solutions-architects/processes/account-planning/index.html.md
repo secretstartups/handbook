@@ -28,7 +28,7 @@ A rationale describing how an SA can contribute to the Account Planning is docum
 
 
 # Collaborating with Other Team Members
-It is important to note that Gainsight brings the entire account team onto a single platform to plan, and by having the SAL, SA, and TAM in one place, it allows the SA to visualize the dependencies between the tasks of each individual much more clearly and understand how wach team member is working towards the 6, 12, and 18 month goals.
+It is important to note that Gainsight brings the entire account team onto a single platform to plan, and by having the SAL, SA, and TAM in one place, it allows the SA to visualize the dependencies between the tasks of each individual much more clearly and understand how each team member is working towards the 6, 12, and 18 month goals.
 - SAs should collaborate with the SAL/TAM on a Technical Win Plan and ensure that the plan encompasses Workshops, PoVs, deep dives, etc. 
 - SAs should be DRIs on the technical activities for new lands.
 - SAs should own technical activities on account expansions where TAMs are not engaged. 
