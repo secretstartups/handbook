@@ -41,8 +41,7 @@ The Candidate Experience Specialist team operates off of a queue style system ut
 | Talent Acquisition (Sales) | Jake Foster|
 | Talent Acquisition (Marketing) | Kelly Murdock |
 | Talent Acquisition (G&A) | Kelly Murdock |
-| Talent Acquisition (R&D) | Kelly Murdock|
-| Sourcing | Kelly Murdock |
+| Talent Acquisition (R&D) | Ursela Knezevic |
 | Candidate Experience | Marissa Feber |
 
 ## Talent Acquisition Platform Directly Responsible Individual
