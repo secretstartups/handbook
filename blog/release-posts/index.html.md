@@ -1373,7 +1373,8 @@ A removal is an announcement in the release post notifying the community that a 
 
 When creating your removal please review the deprecation announcement to be sure that it is still accurate and the date is reflective of the most current planned removal date.
 
-Create a removal notice by creating one .yml file in the `/data/release_posts/unreleased/` folder, utilizing the following content block for each notice:
+Removal items go in the same directory as regular release post items. See the [removal template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/removals.yml) to create a removal notice. Create one .yml file in the `/data/release_posts/unreleased/` folder, using the following content block for each notice: 
+
 
 
 ```yaml
@@ -1430,17 +1431,18 @@ When approved, include the "Ready" label in the MR before merging.
 
 ---
 
-### Upgrades
+#### Upgrades
 
 _To be added by Product Managers or Engineering Managers and merged by Engineering Managers._
-
-**Please watch this helpful [video](https://www.youtube.com/watch?v=9gy7tg94j7s) as well as reading the info below to help clarify this process for you.**
 
 Describe any considerations administrators should have when upgrading to this version. These could be warnings about potential data loss, recommendations for maintenance beforehand, and other similar concerns.
 
 Considerations for future upgrades should be noted in the [deprecations](#deprecations) sections.
 
 _One notable example was in %12.10, [we required administrators to migrate from Postgres 10 to Postgres 11](https://about.gitlab.com/releases/2020/04/22/gitlab-12-10-released/#upgrade)._
+
+Upgrade items go in the same directory as regular release post items. See the [upgrade template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/upgrade_sample.yml) to create an upgrade notice. Create one .yml file in the `/data/release_posts/unreleased/` folder, using the following content block for each notice: 
+
 
 ```yaml
 upgrade:
