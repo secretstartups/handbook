@@ -205,13 +205,13 @@ The Senior Backend Engineer for Product Intelligence extends the Senior Backend 
 ##### Nice to have
 * Proven database development experience.
 * DevOps experience working with and configuring infrastructure.
-* Experience with Snowlow, dbt, or other related data engineering tools.
+* Experience with Snowplow, dbt, or other related data engineering tools.
 * Frontend experience including HTML, CSS, and JavaScript frameworks (Vue.js preferred).
 
 #### Responsibilities
 * Build tooling to collect metrics from GitLab.com and self managed instances.
 * Work closely with GitLab's Data team to analyse data pipelines.
-* Build automations to ensure the quality of our collected metrics.
+* Build automation to ensure the quality of our collected metrics.
 * Build monitoring to ensure the reliability of our data pipelines.
 
 ### Engineering Productivity
