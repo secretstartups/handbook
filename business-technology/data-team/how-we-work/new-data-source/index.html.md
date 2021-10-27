@@ -79,7 +79,7 @@ graph LR
     api_available{API Available?}
     fivetran_connector_available{Fivetran connector available?}
     stitch_connector_available{Stitch connector available?}
-    data_is_ext_snowflake_sources{Data is ext Snowflake Sources}
+    data_is_ext_snowflake_sources{Data is in different Snowflake Account}
 
 %%end solutions
     Custom([Custom development])
@@ -99,7 +99,9 @@ graph LR
     data_is_ext_snowflake_sources-->|Yes|Snowflake_datashare
     data_is_ext_snowflake_sources-->|No|Custom
 ```
-  
+
+Custom development is a solution designed and developed by the GitLab Data Team. Examples of this are the current PGP and the Zuora Rev Pro extraction.   
+
 #### Access request
 Although it could be helpful to already provide the Data Team access to the source system, its not mandatory to raise an Access Request right now.
 
