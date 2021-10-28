@@ -36,7 +36,24 @@ For quick questions that **_do not_** require legal advice, deliverables, or any
 *To ensure the protection of confidential and privileged information, GitLab Legal is proud to use [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html) for all general requests.
 For more information on Attorney-Client Privilege, see the [General Legal FAQs](https://about.gitlab.com/handbook/legal/#general-legal-faqs) below.  
 
- 
+## Policies and Guidelines
+* [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
+* [Compliance](https://about.gitlab.com/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
+* [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/) GitLab's policy for how it handles personal information about team members.
+* [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
+* [GitLab Modern Slavery Act Transparency Statement](https://about.gitlab.com/handbook/legal/modern-slavery-act-transparency-statement/)
+* [Patent Program](https://about.gitlab.com/handbook/legal/patent-program/)
+* [Privacy Policy](https://about.gitlab.com/privacy/) - GitLab's policy for how it handles personal information
+* [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
+* [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/)
+* [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark) - information regarding the usage of GitLab's trademark
+* [Third-party Trademark Usage Guidelines](https://about.gitlab.com/handbook/legal/policies/third-party-trademark-usage-guidelines/) - guidelines concerning the use of third-party trademarks in the GitLab product
+* [Insider Trading Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) - this policy is to promote compliance with insider trading laws.
+* [Whistleblower Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) - this policy is provided to enable Team Members with guidelines on on how to report any improper activites, or suspected improper activities. 
+
+
+_NOTE: The Insider Trading and Whistleblower Policies are only accessible to GitLab Team Members signed into their GitLab Account_
+
 
 ## Helpful Resources 
 
@@ -51,20 +68,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 * [Uploading Third Party Contracts to ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
 * [Issue Tracker Workflows](https://about.gitlab.com/handbook/legal/issue-tracker-workflows/)
 * [Privacy Review Process](https://about.gitlab.com/handbook/legal/privacy/#privacy-review-process)
-
-## Policies and Guidelines
-* [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
-* [Compliance](https://about.gitlab.com/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
-* [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/) GitLab's policy for how it handles personal information about team members.
-* [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
-* [GitLab Modern Slavery Act Transparency Statement](https://about.gitlab.com/handbook/legal/modern-slavery-act-transparency-statement/)
-* [Patent Program](https://about.gitlab.com/handbook/legal/patent-program/)
-* [Privacy Policy](https://about.gitlab.com/privacy/) - GitLab's policy for how it handles personal information
-* [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
-* [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/)
-* [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark) - information regarding the usage of GitLab's trademark
-* [Third-party Trademark Usage Guidelines](https://about.gitlab.com/handbook/legal/policies/third-party-trademark-usage-guidelines/) - guidelines concerning the use of third-party trademarks in the GitLab product
-* [Insider Trading Policy](https://drive.google.com/drive/folders/1YoEW6EE3jnif14A6TfgvIVNGTRBTe16-) - this policy is to promote compliance with insider trading laws 
+ 
 
 # Code of Business Conduct and Ethics 
 GitLab's Code of Business Conduct and Ethics summarizes the ethical standards for all directors, officers, team members and contractors of GitLab and of its direct and indirect subsidiaries and is a reminder of the seriousness of our commitment to our values. [Please click here to read GitLab's Code of Business Conduct and Ethics in its entirety.](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) 
