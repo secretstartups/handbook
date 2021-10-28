@@ -401,3 +401,4 @@ After adding it in the Support Week in Review, you then want to cross-link
 * [ZD<>SFDC Sync Partners](https://ops.gitlab.net/gitlab-com/support/zd-sfdc-sync-partners)
 * [ZD Main<>SFDC Sync Video](https://youtu.be/kzZbHHUCotI)
 * [ZD Partner<>SFDC Sync Video](https://youtu.be/9WRauzbjBkg)
+* [ZD US Federal<>SFDC Sync Videp](https://youtu.be/Lv5MlHTekBc)
