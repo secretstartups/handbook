@@ -76,7 +76,7 @@ Support Managers also work on things that will make your (and the lives of your 
 * You’ve got experience leading remote, distributed teams across geographies with a keen focus on employee development and the achievement of desired results.
 * You’ve got extensive experience in leading teams to take ownership and work to manage the entire issue lifecycle, from customer, to development team, to resolution.
 * You’re able to perform complex Linux System Administration tasks.
-* You’ve got experience with web application development using an MVC framework (e.g. Ruby on Rails, Python, Django, PHP, Laravel).
+* You’ve got experience with web application development using an MVC framework e.g. Rails (Ruby), Django (Python), Laravel (PHP).
 * You’ve got experience with Git and CI/CD.
 * Our [values](https://about.gitlab.com/handbook/values/) of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you.
 
