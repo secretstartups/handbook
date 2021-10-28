@@ -419,6 +419,14 @@ If you are a GitLab Team Member and interested in participating in the course, y
 1. Create a subfolder in the [Crucial Conversations](https://drive.google.com/drive/u/1/folders/144sRv0ap4Gwp4IcM_mtkK83c4toVGJZJ?ths=true) Google Drive to organize cohort materials
 1. Use the [live session template](https://docs.google.com/presentation/d/1cXLjK_9_7ndngmgW_5z4yKcLx7iCxZSNgvEVZ7fNJEs/edit?usp=sharing) to organize GitLab-customized Crucial Conversation scenarios for each live session
 
+## New team member Slack training
+
+This training is a 10 day, automated message training via Slack to introduce new team members to key strategies for using Slack at GitLab. All content in the training is based on documentation in the [Slack hanbooke](https://about.gitlab.com/handbook/communication/#slack).
+
+Learn more about the Slack training and sign up here.
+
+Please note: Existing team members are welcome to sign up for the new team member Slack training, as long as they understand the content is directed to brand new Slack users.
+
 ## Past Initiatives
 
 
