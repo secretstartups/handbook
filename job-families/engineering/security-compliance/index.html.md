@@ -90,7 +90,7 @@ The {Staff Security Compliance Engineer} is a [8](/handbook/total-rewards/compen
 * Create dynamic open-source security compliance programs that deliver value to the GitLab community
 * Build the GitLab Security Compliance brand through regular internal and external presentations and publications
 * Design, develop, and deploy scripts to automate continuous control monitoring, administrative tasks and metric reporting for all security compliance programs
-* Successfully execute on quarterly KRs asscoaited with OKRs
+* Successfully execute on quarterly KRs associated with OKRs
 
 #### Staff Security Compliance Engineer Requirements
 * A minimum of 10 years' experience defining and shaping compliance programs with a minimum of 3 years' experience building new compliance programs
@@ -115,12 +115,12 @@ The {Principal Security Compliance Engineer} is a [9](/handbook/total-rewards/co
 * Looks for innovation opportunities between several teams with a willingness to experiment and to boldly confront problems of large complexity and scope
 * Ensures that OKR level goals are aligned across all teams in security assurance
 * Guides conversations to remove blockers and encourage collaboration across teams and departments
-* Provides a point of escalation for security comopliance team members facing complex technical challenges
+* Provides a point of escalation for security compliance team members facing complex technical challenges
 * Attain a measurable impact on the work of security compliance
 * Interact with customers and other external stakeholders as a consultant and spokesperson for the work of security assurance
 * Exposes the work of security compliance and their business impact internally
-* Knowledgeable in all specialities practiced within security assurance
-* Demonstrated achievements that make GitLab's security compliance program an industry leader for Security Complaince
+* Knowledgeable in all specialties practiced within security assurance
+* Demonstrated achievements that make GitLab's security compliance program an industry leader
 
 #### Principal Security Compliance Engineer Requirements
 * A minimum of 15 years' experience defining and shaping compliance programs with a minimum of 5 years' experience building new compliance programs
@@ -142,13 +142,14 @@ The {Manager, Security Compliance} is a [grade 8](/handbook/total-rewards/compen
 * Proactively identify changing regulatory requirements and appropriately adjust the scope of the security compliance program to accommodate these changes
 * Ensure execution of required testing and remediation activities leading to successful security certification(s)
 * Make broad recommendations on improving security compliance related processes and/or procedures across GitLab; partner with stakeholders to implement solutions
+* Achieve and maintain SaaS and Corporate security certifications, to include oversight of external audits
 * Prepare and deliver meaningful metrics to Security Assurance leadership
 * Identify and implement automation of manual processes to shorten processes and cycles
 * Successfully execute on quarterly OKR(s)
  
 #### Manager, Security Compliance Requirements
 * At least 3 years prior experience managing security compliance teams
-* Detailed knowledge of common information security management frameworks, regulatory requirements and applicable standards such as: ISO 27001, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
+* Detailed knowledge of common information security management frameworks, regulatory requirements and applicable standards such as: ISO 27001/2, ISO 27017, ISO 27018, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
 * Detailed knowledge of audit methodologies and standard deliverables
 
 ### Senior Manager, Security Compliance
@@ -167,11 +168,36 @@ The {Senior Manager, Security Compliance} is a [grade 9](/handbook/total-rewards
 * Maintain reliable, up-to-date, information regarding security and compliance changes and trends
 * Proactively identify new metrics along with strategic recommendations to Security Assurance leadership
 * Draft and successfully execute on multiple quarterly OKRs
- 
+
+## Specialties
+### Regulated Markets
+The regulated markets specialty is for compliance professionals highly skilled in unique federal, financial, life sciences and other highly regulated markets. Areas of expertise include Federal, Financial and Quality domains.
+
 #### Senior Manager, Security Compliance Requirements
 * At least 6 years prior experience managing security compliance teams
 * Expert knowledge of common information security management frameworks, regulatory requirements and applicable standards such as: ISO 27001, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
 * Expert knowledge of audit methodologies and standard deliverables
+
+#### Manager, Security Compliance - Regulated Markets Responsibilities
+* Hire and oversee a world class team of security compliance engineers experienced in regulated markets
+* Hold regular 1:1s with team members
+* Work closely with the Manager, Security Compliance and provide requirements for the common control framework aligned with GitLab's Regulated Markets certification roadmap 
+* Maintain a scoped continuous monitoring program aligned with GitLab's Regulated Markets certification roadmap
+* Execute quarterly POA&M activities, maintain SSP and manage significant change requests
+* Proactively identify changing regulatory requirements and appropriately adjust the scope of the regulated markets program to accommodate these changes
+* Ensure execution of required testing and remediation activities leading to successful security certification(s) for regulated markets
+* Make broad recommendations on improving regulated markets related processes and/or procedures across GitLab; partner with stakeholders to implement solutions
+* Achieve and maintain Dedicated and regulated markets security certifications, to include oversight of external audits
+* Prepare and deliver meaningful metrics to Security Assurance leadership
+* Identify and implement automation of manual processes to shorten processes and cycles
+* Successfully execute on quarterly OKR(s)
+
+#### Manager, Security Compliance - Regulated Markets Requirements
+* At least 3 years prior experience managing security compliance teams supporting regulated markets and FedRAMP ATO
+* Experience leveraging OSCAL for SSP development and OSCAL validation tools for continuous control monitoring
+* Detailed knowledge of regulated information security management frameworks, regulatory requirements and applicable standards such as: NIST 800-53/FedRAMP, NIST 800-171/CMMC, DoD IL, STIGs, FIPS 140-2, HITRUST, GxP, ISO 9001, SOC 1 and SOC 2
+* Detailed knowledge of audit methodologies and standard deliverables
+
 
 ## Segment
 ### Security Leadership
