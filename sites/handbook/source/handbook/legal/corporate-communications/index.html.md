@@ -1,19 +1,15 @@
+---
 layout: handbook-page-toc
 title: "Corporate Communications Policy"
 description: "Overview of the Corporate Communication Policy at GitLab."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 # CORPORATE COMMUNICATIONS POLICY
+ **_THIS POLICY WAS APPROVED BY THE BOARD ON SEPTEMBER 14, 2021_**
 
-## THIS POLICY WAS APPROVED BY THE BOARD ON SEPTEMBER 14, 2021
-
-# PURPOSE
+### PURPOSE
 
 We encourage Team Members to be champions on behalf of GitLab Inc. (the “**_Company_**”), especially as you communicate with the outside world. The opportunities for the Company to communicate information to the world are evolving - and each Team Member is viewed by our customers, partners, stockholders and other outside parties as a potential representative of the Company. Whether or not you specifically reference or discuss your work, the things you say publicly are a reflection on the Company.
 
@@ -22,23 +18,23 @@ As a public company, we are committed to providing all legally required disclosu
 If you need help understanding this Policy, or how it applies in any given situation, please contact your supervisor or our Legal and Compliance Team, at #compliance-legal.
 
 
-# PERSONS COVERED BY THIS POLICY
+### PERSONS COVERED BY THIS POLICY
 
 All employees, officers, contractors, consultants and members of the Company’s board of directors (the “**_Board_**” and collectively “**_Team Members_**”) are required to read and comply with this Policy.
 
-# ONLY OUR KEY SPOKESPERSONS MAY SPEAK FOR THE COMPANY
+### ONLY OUR KEY SPOKESPERSONS MAY SPEAK FOR THE COMPANY
 
 One of the ways we can ensure that we are abiding by the rules and regulations for communicating information about the Company to the public is to designate certain key people to speak publicly on behalf of the Company.  Our key spokespersons will be our Chief Executive Officer, members of the Company’s Board , our Chief Financial Officer and the head of the investor relations team. If needed, our key spokespersons may designate others within our Company to provide information on behalf of the Company or to respond to specific inquiries.
 
 Only these key spokespersons, and any spokespersons explicitly designated as such, are authorized to make public disclosures of “_material non-public information_” about the Company that are reasonably expected to reach current or potential investors, the investment community, securities market professionals such as financial analysts, or the financial press - whether in the form of press releases, letters to stockholders, speeches, interviews, website posts, blogs, social media or other forms of communications.
 
 
-# WHAT IS MATERIAL NON-PUBLIC INFORMATION?
+#### WHAT IS MATERIAL NON-PUBLIC INFORMATION?
 
 For a definition of “material non-public information,” please see the Company’s Insider Trading Policy.
 
 
-# YOUR COMMUNICATIONS ABOUT THE COMPANY
+#### YOUR COMMUNICATIONS ABOUT THE COMPANY
 
 As part of your position at the Company, you may communicate with our customers, vendors, suppliers, partners or other third parties.  It is important for you to understand your responsibility to avoid commenting on sensitive business matters and to avoid making any unauthorized disclosure of material non-public information. Please also review our Insider Trading Policy for additional information.
 
@@ -64,7 +60,7 @@ Presentations to forums such as industry trade shows and other marketing and bus
 
 Except as approved by our Legal Team, or as specifically required by your job description, you may not respond to comments, rumors or discussions or otherwise participate in Internet “chat” rooms, blogs, message boards, social media sites or other similar online forums on behalf of the Company.   You may not participate, in any manner other than passive observation, in any investment or stock-related online forums relating to the Company without the prior written approval of our legal department.
 
-# HOW WE COMMUNICATE WITH INVESTORS
+### HOW WE COMMUNICATE WITH INVESTORS
 
 **We Cannot Selectively Disclose Information**
 
@@ -108,11 +104,11 @@ Our Investor Relations Team must be copied on all email correspondence with inve
 
 Generally, we will not confirm or deny rumors or market speculation about the Company or our business. If asked about a rumor or market speculation, spokespersons must state that our policy is not to comment on rumors or market speculation.
 
-# VIOLATIONS OF THIS POLICY HAVE MEANINGFUL CONSEQUENCES: DON’T HESITATE TO REPORT
+### VIOLATIONS OF THIS POLICY HAVE MEANINGFUL CONSEQUENCES: DON’T HESITATE TO REPORT
 
 Any violations of this Policy must be** **brought to the attention of our Chief Legal Officer as quickly as possible. If you want to submit a concern or complaint regarding a possible violation of this Policy anonymously, you should follow the procedures outlined in our Whistleblower Policy. If necessary, our Chief Legal Officer will bring such reports to the attention of our Audit Committee. Anyone who violates this Policy may be subject to disciplinary measures, which may include termination of employment.
 
 
-# CHANGES TO THIS POLICY
+### CHANGES TO THIS POLICY
 
 Our Board reserves the right in its sole discretion to modify or grant waivers to this Policy.  Any amendments or waiver may be publicly disclosed if required by applicable laws, rules and regulations.
