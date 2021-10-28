@@ -37,85 +37,60 @@ Reliability Engineering is responsible for all of GitLab's user-facing services,
 
 ## Team
 
-The Reliability Engineering team is composed of [DBRE](/job-families/engineering/infrastructure/database-reliability-engineer/)s and [SRE](/job-families/engineering/infrastructure/site-reliability-engineer/)s. As the role titles indicate, they have different areas of specialty but shared ownership of GitLab.com's availability. The team is broken down into three sub-teams, each with their own area of ownership.
+The Reliability Engineering team is composed of [DBRE](/job-families/engineering/infrastructure/database-reliability-engineer/)s and [SRE](/job-families/engineering/infrastructure/site-reliability-engineer/)s. As the role titles indicate, they have different areas of specialty but shared ownership of GitLab.com's availability.
 
-#### Core Infra
-
-[Team Page](/handbook/engineering/infrastructure/team/reliability/core-infra/)
-
-The Core Infra teams owns core infrastructure tooling, network ingress/egress, CDNs, DNS, and secrets management.
-
-<%= partial "handbook/engineering/infrastructure/team/reliability/core-infra/_core_infra_team.html" %>
-
-#### Datastores
-
-[Team Page](/handbook/engineering/infrastructure/team/reliability/datastores/)
-
-The Datastores team owns our persistent storage platforms, with PostgreSQL on gitlab.com being the top priority.
-
-Datastores is:
+#### Team members
 
 | Person | Role |
 | ------ | ------ |
-|Open Position|[Engineering Manager, Reliability](https://about.gitlab.com/job-families/engineering/infrastructure/engineering-management/#engineering-manager-reliability)|
+|[David Smith](/company/team/#dawsmith) | [Engineering Manager, Reliability](/job-families/engineering/infrastructure/engineering-management/#engineering-manager-reliability) |
+|[Alex Hanselka](/company/team/#ahanselka) | [Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
+|[Devin Sylva](/company/team/#devin) | [Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
+|[Cindy Pallares](/company/team/#cindy) |[ Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
+|[Craig Barrett](/company/team/#craig) | [Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
+|[Cameron S McFarland](/company/team/#cmcfarland) | [Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
+|[Hendrik Meyer](/company/team/#T4cC0re) | [Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
+|[Marcel Chacon](/company/team/#mchacon3) | [Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
+|[Anna Liisa Moter](/company/team/#amoter) | [Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
+|[Pierre Guinoiseau](/company/team/#pguinoiseau) | [Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
+|[Filipe Santos](/company/team/#fsantos) | [Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/) |
 |[Alejandro Rodríguez](/company/team/#eReGeBe)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Ahmad Sherif](/company/team/#ahmadsherif)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Jose Cores Finotto](/company/team/#jose-finotto)|[Staff Database Reliability Engineer](/job-families/engineering/infrastructure/database-reliability-engineer/)|
 |[Nels Nelson](/company/team/#nnelson)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|Open Position|[Database Reliability Engineer](/job-families/engineering/infrastructure/database-reliability-engineer/)|
-|Open Position|[Database Reliability Engineer](/job-families/engineering/infrastructure/database-reliability-engineer/)|
-
-
-#### Observability
-
-[Team Page](/handbook/engineering/infrastructure/team/reliability/observability/)
-
-The Observability team owns the monitoring and alerting infrastructure for GitLab.com, as well as our caching/queuing infrastructure.
-
-Observability is:
-
-| Person | Role |
-| ------ | ------ |
 |[Kennedy Wanyangu](/company/team/#kwanyangu)|[Engineering Manager, Reliability](/job-families/engineering/infrastructure/engineering-management/#engineering-manager-reliability)|
-|[Igor Wiedler](/company/team/#igorwwwwwwwwwwwwwwwwwwww)|[Staff Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Michal Wasilewski](/company/team/#mwasilewski-gitlab)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Natan Hoppe](/company/team/#nhoppe1)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Rehab Hassanein](/company/team/#rehab)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Anthony Maina](/company/team/#anganga)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Steve Azzopardi](/company/team/#steveazz)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|Open Position|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|Open Position|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
+|[Alexander Sosna](/company/team/#alexander-sosna)|[Senior Database Reliability Engineer](/job-families/engineering/infrastructure/database-reliability-engineer/)|
 
 
 ## How We Work
 
-Though we are organized around teams focused on specific domains, the workflow for Reliability remains the same across Reliability teams. The reasoning behind this is to allow for team members to readily engage in projects where they have expertise, but which are related to domains maintained by another Reliability team. An example here would be an SRE from the Datastores team adding their Ansible expertise to a project with a DRI in Core Infra.
+We maintain a single source of truth epic for all work underway for the Reliability team. That epic can be found at [GitLab SaaS Reliability - work queue](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509) and represents the current state of project work assigned within squads. That epic references projects detailed in the form of sub-epics.
 
 As Reliability, we have three main work streams and each varies in the type of work. Those three work streams are:
 1. [Projects](#how-we-work--projects) - These are pre-planned units of work, managed via an epic and a single DRI who collaborates with other members of Reliability.
 1. [EOC Queue](#how-we-work--eoc-queue) - This is a quarterly milestone consisting of corrective actions and EOC tooling maintenance.
 1. [Customer Request Queue](#how-we-work--customer-request-queue) - This is a quarterly milestone of all small-scale asks which originate from teams outside of Reliability and which are not tied a Project of corrective action. Examples here include adding DNS entries, provisioning/de-provisioning system access, and assisting Support.
 
-
-### How We Work -- Projects
-
-We maintain a single source of truth epic for all work underway for the Reliability team. That epic can be found at [GitLab SaaS Reliability - work queue](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509) and represents the current state of project work for the team. That epic references projects detailed in the form of sub-epics.
-
-#### Project Squads
-Projects are assigned and handled within squads. A squad is composed of a minimum of 2 SREs who are responsible for all the sub-epics and issues within a project. 
-Reliability engineering managers are responsible for the formation of squads and the assignment of projects to the respective squads. 
+#### Project Squads - [Squad List](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509)
+Projects are assigned and handled within squads. A squad is composed of a minimum of 2 SREs who are responsible for all the sub-epics and issues within a project.
+Reliability engineering managers are responsible for the formation of squads and the assignment of projects to the respective squads.
 
 The squad works in a collaborative, transparent approach and uses the strengths of respective SRE to deliver the project in the highest quality within the least amount of time.
-Responsibilities of squads
-1. Appoint a DRI between themselves
+Responsibilities of squads:
 1. Scope with timelines and deliver on the issues within the assigned epic
 1. Assign individual issues within an epic to individual squad members
 1. Hold weekly recorded demos, where possible as per the project needs
-1. DRI - Keep the status of the project updated as frequently as necessary, minimum weekly
 1. Have a balance of experience and subject matter skills
+1. Participate as Infrastructure stable counterparts to other Engineering stage groups
+1. Each squad has a lead who keeps the status of the project updated as frequently as necessary, minimum weekly
 
 #### Roles
-Project DRI - Leads the squad to make hard project decisions and act on them immediately.
+Squad lead - Leads the squad to make hard project decisions and act on them immediately.
 Engineering Manager -  Facilitate communication(upfront context) and strong alignment between squads
 
 Project epics use the following [template](#project-epic-template) in order to capture, current status, DRI, an overview, and any references that help a reader to build context.
@@ -124,7 +99,7 @@ Project epics also are labeled with the `team::Reliability` label and either `wo
 
 Project epic descriptions have this structure:
 1. Status - Current status of the project preceded by the ISO formatted date (YYYY-MM-DD) of the latest status update. Example: "2021-07-20 - DRI selected and initial project sync meeting held."
-1. DRI - Directly responsible individual tasked with maintaining project status. This is the GitLab handle of the DRI, `@GitLabHandle`
+1. DRI - Directly responsible individual working on the specific issue. This is the GitLab handle of the DRI, `@GitLabHandle`
 1. Overview - Narrative description of the project intended to provide additional context. This is a few paragraphs setting context for someone new to the project and wanting to learn more and contribute.
 1. Reference - Links out to existing artifacts which allow team members to build context. These are links to documents and any dependent projects or prior art.
 
@@ -206,9 +181,9 @@ The process is as follows:
     1. Promote to an Epic
         1. Sometimes CAs are high priority but very large in scope (more than a few days' worth of work). In this case the CA can be promoted to an Epic. Update the description of the new epic to show that it was created from a CA and make sure that the incident is referenced and linked in that paragraph.
         1. If it falls within the CA squad's scope, leave the Corrective Action label in place. Otherwise remove it with a note.
-        1. New issues that are created related to an Epic with a "corrective action" label should not get that label, so as not to artificially inflate the numbers for tracking purposes. 
+        1. New issues that are created related to an Epic with a "corrective action" label should not get that label, so as not to artificially inflate the numbers for tracking purposes.
     1. Move to another team/project
-        1. Sometimes it becomes clear that a particular corrective action is not an Infrastructure issue. Add a note and move the issue to the appropriate project. If the issue is the responsibility of a stage group, consider adding the `~infradev` label. 
+        1. Sometimes it becomes clear that a particular corrective action is not an Infrastructure issue. Add a note and move the issue to the appropriate project. If the issue is the responsibility of a stage group, consider adding the `~infradev` label.
     1. Needs more information
         1. If context is missing or scope is unclear, ping the relevant engineers or managers in the issue to gain clarity so that a determination can be made for one of the above four cases. Sometimes we bring issues we need more input on up for discussion at one of our weekly Reliability Discussion meetings for this purpose.
     1. Mark the issue as "workflow-infra::Ready" and add the label "ca::refined" to indicate the CA squad has looked at it. This indicates the issue is A. still relevant B. well scoped C. has enough context for the engineer picking up the issue and D. is ready for work.
