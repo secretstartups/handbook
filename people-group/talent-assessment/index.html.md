@@ -339,7 +339,7 @@ Anyone hired on or before October 31st is eligible to participate in the Q4 Perf
 
 This is because team members generally need several months to get adjusted to their role and responsibilities, and we ideally would have hired the team member at their accurate market rate. 
 
-While there are exceptions, this is the general rule of thumb. 
+While there are exceptions, this is the general guideline. 
 
 ### Matrix Assessment Timeline 
 
