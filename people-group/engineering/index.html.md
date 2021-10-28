@@ -138,7 +138,6 @@ We've build several automations and tools to support our People Group. In the fo
 
 ### Supportive tools for People Group
 
-- [Assessment Tool](/handbook/people-group/engineering/assessment-tool/)
 - [Nominator Bot](/handbook/people-group/engineering/nominatorbot/)
 - [Compensation Calculator](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/)
 - [Inclusive Language Check on Job Families](/handbook/hiring/job-families/#inclusive-language-check)
