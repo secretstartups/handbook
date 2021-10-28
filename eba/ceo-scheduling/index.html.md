@@ -38,11 +38,11 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
 
 1. Meetings before 7:30am and after 6pm Pacific require Sid's approval before scheduling. Please reach out to him in slack to approve. If Sid agrees to a meeting at 7am or earlier, please schedule a block on his calendar on the previous day reminding him that he has a meeting before 7:30am PT the following day.
 1. Don't schedule over the Weekly E-group call unless approved by Sid
-1. When our CLO requests a meeting it will always override other meetings that are scheduled if urgent and important
+1. When our CLO requests a meeting it will always override other meetings that are scheduled if urgent and important (unless there is a Board conflict)
 1. Mark the events listed in [Google Calendar section](/handbook/communication/#google-calendar) of the handbook as 'Private'
 1. The [agenda](https://docs.google.com/document/d/187Q355Q4IvrJ-uayVamoQmh0aXZ6eixAOE90jZspAY4/edit?ts=574610db&pli=1) of items to be handled by Sid's EBA
-1. Use 'and' instead of '<>' in meeting invites because of the transfer to YouTube titles when streaming
-**All** holds on Sid's calendar need a reason so he can judge when the hold might no longer apply.
+1. Use 'and' or '&' instead of '<>' in meeting invites because of the transfer to YouTube titles when streaming
+1. **All** holds on Sid's calendar need a reason so he can judge when the hold might no longer apply.
 1. Monthly reoccuring 1:1 video calls are 25 minutes while quarterly calls/dinners are scheduled for 90 minutes plus any necessary travel time.
 1. Follow up on introductions from certain recipients (board, investors) immediately without asking for approval.
 * If Sid is meeting with a candidate, partner with talent acquisition to send the calendar invite through Greenhouse.
@@ -158,7 +158,7 @@ Please note, requests for meeting about remote work, all-remote efforts, distrib
 
 ### CEO Email Management
 
-* Labels: `/archive`, `/read-respond`, `/chief of staff`, `/personal`, `/investor relations to handle`
+* Labels: `/archive`, `/read-respond`, `/chief of staff`, `/personal`, `/investor relations to handle`, `ea`
 * Emails that need the CEO's attention should be "starred" versus labeled
 * EBA to CEO should prepare draft responses
 * EBA to CEO should proactively schedule meetings requested via e-mail
