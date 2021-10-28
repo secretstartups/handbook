@@ -13,11 +13,11 @@ title: Secure Technical Documentation
 
 - [Overview](./overview/)
 - [Severity Levels](./severity-levels/)
-- [Feedback](./feedback)(Dismiss, create an issue or a Merge Request)
+- [Feedback](./feedback/)(Dismiss, create an issue or a Merge Request)
 
 ## Researches
 
-- [Data model for dependencies information](./data-model-for-dependencies-information)
+- [Data model for dependencies information](./data-model-for-dependencies-information/)
 
 ## Brown bag sessions
 

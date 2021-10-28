@@ -22,7 +22,7 @@ Distribution team members are expected to:
 * Ensure that fixing red master branch in projects takes the highest priority
 * Pick items to work on from the project scheduled queues
 * Define test plans for changes not covered by integration tests
-* Label issues and merge requests to track [engineering metrics](/handbook/engineering/metrics)
+* Label issues and merge requests to track [engineering metrics](/handbook/engineering/metrics/)
 
 ## Scheduled work
 

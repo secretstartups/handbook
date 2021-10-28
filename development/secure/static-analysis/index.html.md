@@ -28,7 +28,7 @@ how we seek to deliver software. The backend engineering team predominantly conc
 we deviate the most. What follows is how we manage the handoff from product management to engineering to deliver software.
 
 Issues worked by this team are backend-centric and can span analyzers, vendored templates, and GitLab's Rails monolith. At times, issues can require support from Secure's 
-frontend team if UI changes are required. Issues needing frontend support may [require more notice](/handbook/engineering/development/secure/analyzer-frontend#How-to-work-with-us), and 
+frontend team if UI changes are required. Issues needing frontend support may [require more notice](/handbook/engineering/development/secure/analyzer-frontend/#How-to-work-with-us), and 
 should be called out as early as possible.
 
 ### Issue Boards
