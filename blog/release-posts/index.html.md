@@ -1817,7 +1817,7 @@ please make sure to specify them in the title, add the correct [category](../#ca
 
 [Video walkthrough of the process](https://youtu.be/GxKooIAknM8)
 
-**What's New will be initiated on the 20th, finalized on the 21st, and merged 2 to 4 hours AFTER the release post is live on the 22nd.**
+**What's New will be initiated on the 20th, finalized on the 21st, and typically merged 2 to 4 hours AFTER the release post is live on the 22nd. The exact timing of the merge depends on the availability of a `maintainer` to merge it**
 
 1. The VP of Product Management will identify the 3-7 topics for [What's New] each release as part of the their final review.
      - What gets highlighted in the What's new can but does not have to align with the primary features and/or theme of the release post.
