@@ -163,19 +163,19 @@ Error Budgets should be reviewed monthly as part of the [Product Development Tim
 
 The balance between feature development and reliability development for a feature category should be as follows:
 
-|**Monthly Spend**               |**Action**|
+|**Monthly Spend (28 days)**               |**Action**|
 |------------------------------  |----------|
-| <= 21 minutes                   | Understand your spend - no further action required. |
-| > 21 minutes                   | Commitment to [reliability/availability improvements](https://about.gitlab.com/handbook/product/product-processes/#prioritization), feature development is secondary. |
+| <= 20 minutes                   | Understand your spend - no further action required. |
+| > 20 minutes                   | Commitment to [reliability/availability improvements](https://about.gitlab.com/handbook/product/product-processes/#prioritization), feature development is secondary. |
 
 
 #### Stage Groups with different error budgets.
 
-Our current contract is 99.95% availability and a 21 minute monthly error budget. However the following groups have a different budget based on business needs.
+Our current contract is 99.95% availability and a 20 minute monthly error budget. However, the following groups have a different budget based on business needs.
 
-|**Stage Group**   | **Monthly Spend** | **Business Reason** |
+|**Stage Group**   | **Monthly Spend (28 days)** | **Business Reason** |
 |------------------|---------------------|---------------------|
-| All fulfillment stages |  <=1h 49m  (99.75%)    | Our order flow on customersDot is not as large yet and when the system does error out -it is often fixed with a browser refresh. So the number of bad experiences and the severity of the bad experience is not ideal but limited.  On the other hand we have major FY23 sales efficiency initiatives where each sales team members  spending 30 minutes for about 400 ramped deals  to manually do things that we need to automate. So net net - we need to address that efficiency as well in Q4FY22 |  
+| All fulfillment stages |  <= 3.65 hours/month about 5 mins/day  (99.5%)    | Our order flow on customersDot is not as large yet and when the system does error out -it is often fixed with a browser refresh. So the number of bad experiences and the severity of the bad experience is not ideal but limited.  On the other hand we have major FY23 sales efficiency initiatives where each sales team members  spending 30 minutes for about 400 ramped deals  to manually do things that we need to automate. So net net - we need to address that efficiency as well in Q4FY22 |  
 
 
 Feature categories with monthly spend above the allocated budget for three consecutive months may have additional feature development restrictions put in place.    
