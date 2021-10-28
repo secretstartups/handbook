@@ -55,11 +55,11 @@ At a high level, the process is:
 | ------ | ------ |
 | By the 7th | The **Release Post Manager** creates a branch on `www-gitlab-com` and MR in that project that will collect all the release post items in to a single blog entry <br><br> Note for Technical Writers: to avoid potential merge conflicts later during content assembly, please **do not** merge updates from `main` to the release post branch even if you notice it falling behind. The **Release Post Manager** has sole responsibility of the release post branch and will take care of merging from `master` as part of the content assembly process on the 18th. |
 | 1st - 10th | **PMs** contribute individual MRs for all of their content blocks (top/primary/secondary features, [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades)) as release post items. For primary items, PMs will also add the item to `features.yml`.<br><br>**EMs** can also contribute individual MRs for [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades) as release post items.<br><br>**PMs** add recurring content blocks for Omnibus improvements, deprecation warnings, and more |
-| by the 15th | **EMs, PMs and PDs** contribute to MRs for Usability, Performance Improvements and Bug Fixes. <br><br> **Note:** For items that are feature flagged, it is recommended they are `enabled by default` by this date to ensure inclusion into self-managed release. <br><br> TW Reviewers merge deprecations MRs to Docs |
-| by the 16th | **TWs** (with optional PMMs, Product Designers, and PM Leader) review individual release post item MRs <br><br>**TW Lead** reviews usability, bugs and performance improvement MRs <br><br> The TW Lead [updates the deprecations docs](#update-the-deprecations-doc) |
-| by the 17th | **EMs** merge MRs if the underlying code was merged _before_ the 17th or manually verified to be in the release (check the release stable branch). [Be aware](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline): "Merging [code] by the 17th does not guarantee that the feature will be in the [milestone] release."<br><br>**Release Post Manager** merges recurring content blocks for usability, performance improvements and bug fixes. Any MRs added after the 17th should be submitted against the Release Post branch, not Master.
+| by the 15th | **EMs, PMs and PDs** contribute to MRs for Usability, Performance Improvements and Bug Fixes. <br><br> **Note:** For items that are feature flagged, it is recommended they are `enabled by default` by this date to ensure inclusion into self-managed release. <br><br> Deprecations MRs are assigned to TWs for final review/merge. |
+| by the 16th | **TWs** (with optional PMMs, Product Designers, and PM Leader) finish review of all release post item MRs (inclusive of deprecations, removals and upgrades) <br><br>**TW Lead** reviews usability, bugs and performance improvement MRs |
+| by the 17th | **EMs** merge feature release post item MRs if the underlying code was merged _before_ the 17th or manually verified to be in the release (check the release stable branch). [Be aware](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline): "Merging [code] by the 17th does not guarantee that the feature will be in the [milestone] release."<br><br>**Release Post Manager** merges recurring MRs for usability, performance improvements and bug fixes.  <br><br> TW Reviewers merge deprecation MRs. <br><br> Any MRs added after the 17th should be submitted against the Release Post branch, not Master.
 | on the 18th | At 8 AM PT, (3 PM UTC) the **Release Post Manager** aggregates all the content blocks by updating the release post branch from the `master` branch, and moving all the "unreleased" items into the release post branch for **final content assembly**.<br><br>The **Release Post Manager** adds the MVP for the release and selects a cover image<br><br>The **Release post manager** works with VP of Product Management to pick features highlighted and finalizes the introduction content |
-| 18th - 20th | The **Release Post Manager and Technical Writer** perform final reviews/revisions to ensure everything is ready to publish. <br><br>Any changes after 8 AM PT (3 PM UTC) on the 18th will be done via the `release-X-Y` branch, not `master` branch, and is subject to approval by the **Release Post Manager**.
+| 18th - 20th | The **Release Post Manager and Technical Writer** perform final reviews/revisions to ensure everything is ready to publish. <br><br>Any changes after 8 AM PT (3 PM UTC) on the 18th will be done via the `release-X-Y` branch, not `master` branch, and is subject to approval by the **Release Post Manager**. <br><br> The TW Lead checks that any deprecations in the release post are also in the [deprecations doc](#update-the-deprecations-doc).
 
 The 18th - 20th can also fall on vacations or holidays. It is important for Product Managers to designate, ahead of time, who to respond to time-sensitive inquiries should they be unreachable. Release Post Managers are also empowered to make decisions and take actions after not hearing back from the product manager before the EOD on the 20th.
 |
@@ -645,7 +645,7 @@ The TW Lead is responsible for a final review of:
 - [Performance improvements](#performance-improvements-mr)
 - [Usablity improvements](#usability-improvements-mr)
 - [MVP check](#mvp-entry)
-- [Updating the deprecations doc](#update-the-deprecations-doc)
+- Verifying the [deprecations doc](#update-the-deprecations-doc) is up to date.
 - [Releasing the next version of the documentation](#versioned-documentation-release)
 
 While individual TW reviewers and product managers have ultimate responsibility for the style and language of their release post items, including [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades), TW leads still have an overall responsibility to notify the release post manager, the product managers and TW reviewers if style and language don't seem reasonably consistent (things are obviously out of sync with known guidelines). But it is not the responsibility of the TW leads to _fix_ style and language inconsistencies. However, TW leads _do_ have the responsibility and ownership to make sure that all links in the release post point to relevant content and be fixed, if issues are found.
@@ -669,7 +669,7 @@ merge requests, the purpose of the structural check is:
 - Check all content for syntax errors, typos and grammar mistakes, remove extra whitespace.
 - Verify that the images look harmonic when scrolling through the page (for example, suppose that most of the images were screenshots taken of a large portion of the screen and one of them is super zoomed. This one should be ideally replaced with another that looks more like the rest of the images).
 - This should happen in the release post item review, but if there's time, double-check documentation links and product tiers.
-- Run the [rake task to add/update deprecations in the docs](#update-the-deprecations-doc) and report any issues found to the PM and TW Reviewers who own the deprecation announcement
+- Make sure the current release's deprecations also show up in the [deprecations doc](https://docs.gitlab.com/ee/update/deprecations.html).
 
 Pay special attention to the release post Markdown file, which adds the introduction.
 Review the introduction briefly, but do not change the writing style nor the messaging;
@@ -812,35 +812,37 @@ of the published documentation for that version.
 
 For instructions, see the GitLab docs [Monthly release process](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/doc/releases.md).
 
-#### Update the deprecations doc
-
-The [deprecations doc](https://docs.gitlab.com/ee/update/deprecations.html) (source file at <https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/update/deprecations.md#L7>) is generated from the [deprecations entries](#creating-a-deprecation-entry) in <https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations>. This is not an automatic process, so the TW lead for the current release post must locally run a Rake task that updates the doc to include the latest deprecation entries.
-
-To update the doc with the latest changes:
-
-1. Create a new branch in the [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab) project.
-1. From the command line (in the branch), run `bin/rake gitlab:docs:compile_deprecations`. If you want to double check that it worked, you can run `bin/rake gitlab:docs:check_deprecations` to verify that the doc is up to date.
-1. Commit the updated doc, push the changes, and create the merge request.
-1. Assign it to another TW for merge. You can ask in `#tw-team` to get a faster review/merge if needed.
-
-To ensure the updated doc is part of the self-managed release, the changes should be merged by the 16th. If merged later, it might miss the the code cutoff which is usually around the 17th of the month.
-
-If a depreation entry is already present in the doc, but needs to be updated, you can update the [deprecation YAML file](#creating-a-deprecation-entry) and run the Rake task to update the doc at any time.
-
-If you run into problems running the Rake task, check [the troubleshooting steps](#deprecation-rake-task-troubleshooting).
-
 ### TW Reviewers
 
 **Note:** TW reviewers should not be confused with the [TW lead](#tw-lead).
 {: .alert .alert-info}
 
 Each person in the Technical Writing team is responsible for the review
-of each individual release post item that falls under their
+of each individual release post item and deprecation item that falls under their
 [respective stage/group](/handbook/engineering/ux/technical-writing/#designated-technical-writers).
 
-When the PM creates the release post item merge request, they should assign to the TW
-of their group for review (required). The process of the TW review is described in the
-[release post item template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md).
+When the PM creates a release post item merge request, or creates a [deprecation entry](#creating-a-deprecation-entry), they should assign it to the TW
+of their group for review (required). The process for TW reviews is described in the:
+
+- [Release post item template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
+- [**Deprecation** MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md)
+
+#### Update the deprecations doc
+
+The [deprecations doc](https://docs.gitlab.com/ee/update/deprecations.html) (source file at <https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/update/deprecations.md#L7>) is generated from the [deprecations entries](#creating-a-deprecation-entry) in <https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations>. This is not an automatic process, so the TW assigned as the reviewer of the deprecation item must locally run a Rake task that updates the doc to include the latest deprecation entries.
+
+While the author of the deprecations MR is responsible for creating the content, they are not responsible for updating the doc. When the deprecation entry is ready to be merged by the TW, they must:
+
+1. Check out the MR's branch in the [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab) project.
+1. From the command line (in the branch), run `bin/rake gitlab:docs:compile_deprecations`. If you want to double check that it worked, you can run `bin/rake gitlab:docs:check_deprecations` to verify that the doc is up to date.
+1. Commit the updated doc and push the changes.
+1. Set the MR to merge when the pipeline succeeds (or merge if the pipeline is already complete).
+
+The deprecation MRs should be merged by the 17th. If merged later, it might miss the code cutoff and won't be included in the self-managed release's docs.
+
+If a deprecation entry needs to be updated, you can use the same process. The PM updates the [deprecation YAML file](#creating-a-deprecation-entry), and the TW reviewer runs the Rake task to update the doc before merge.
+
+If you run into problems running the Rake task, check [the troubleshooting steps](#deprecation-rake-task-troubleshooting).
 
 ### Product Design Reviewers
 
@@ -1339,7 +1341,11 @@ _To be added by Product Managers or Engineering Managers and merged in by Techni
 </figure>
 
 
-A deprecation needs to have an initial announcement in the release post notifying the community **at least two releases in advance** of the date of planned removal. Deprecations should also be included in the [documentation](https://docs.gitlab.com/ee/update/deprecations.html) or for at least 2 releases prior to the final removal. [Deprecation entry MRs](#creating-a-deprecation-entry) need to be ready by the 10th of the month, and merged by the 15th so that self-managed customers receive notice in a timely fashion. Please be sure to review and understand the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
+A deprecation needs to have an initial announcement in the release post notifying the community **at least two releases in advance** of the date of planned removal. Deprecations should also be included in the [documentation](https://docs.gitlab.com/ee/update/deprecations.html) for at least 2 releases prior to the final removal.
+
+[Deprecation entry MRs](#creating-a-deprecation-entry), need to be ready by the 10th of the month, and merged by the 15th, so that self-managed customers receive notice in a timely fashion. There is no requirement to wait until the 10th to create the MR, or merge on the 15th. Deprecations should be added to the documentation as soon as they are confirmed.
+
+Please be sure to review and understand the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
 
 #### Creating a deprecation entry
 
@@ -1353,15 +1359,13 @@ To create a deprecation notice:
    - The `removal_milestone` field should match the milestone when the feature is planned to be removed from the product (e.g. "15.0").
    - `body` should contain a brief description of the feature or functionality being removed. It is recommended that you link to the documentation. The description of the deprecation should state what actions the user should take to rectify the behavior.
 1. Open a new merge request for the change, and select the [**Deprecation** MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md) for the description. Assign reviewers as recommended in the template.
-1. When the deprecation YAML file is ready (no later than the 10th), assign the MR to the [technical writer assigned to the stage](/handbook/engineering/ux/technical-writing/#designated-technical-writers). The TW Reviewer will review the content and merge the MR by the 15th.
+1. When the deprecation YAML file is ready (no later than the 10th), assign the MR to the [technical writer assigned to the stage](/handbook/engineering/ux/technical-writing/#designated-technical-writers). The TW Reviewer will review the content, update the [deprecations doc](https://docs.gitlab.com/ee/update/deprecations.html), and merge the MR by the 15th.
 
-If you have multiple deprecation notices for your category, then you can choose to create one MR and one `.yml` file. No other changes are required and the `features.yml` file should not be edited until the feature is removed from the product.
+If you have multiple deprecation notices for your category, then you should create one `.yml` file and one MR per deprecation. No other changes are required and the `features.yml` file should not be edited until the feature is removed from the product.
 
 Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backwards compatible and breaking changes are recommended for a major release, whereas backwards-compatible changes can be introduced in a minor release.
 
 When the Release Post Manager runs the content assembly step on the 18th, all the new deprecations (meaning the deprecation files where the announcement milestone matches the current release post milestone) are included in the release post, but older ones are not. A link to the documentation page is included so a user can see the full list at any time.
-
-The [deprecations doc](https://docs.gitlab.com/ee/update/deprecations.html) is [updated separately by the TW lead](#update-the-deprecations-doc).
 
 #### Removals
 
