@@ -169,30 +169,30 @@ The {Senior Manager, Security Compliance} is a [grade 9](/handbook/total-rewards
 * Proactively identify new metrics along with strategic recommendations to Security Assurance leadership
 * Draft and successfully execute on multiple quarterly OKRs
 
-## Specialties
-### Regulated Markets
-The regulated markets specialty is for compliance professionals highly skilled in unique federal, financial, life sciences and other highly regulated markets. Areas of expertise include Federal, Financial and Quality domains.
-
 #### Senior Manager, Security Compliance Requirements
 * At least 6 years prior experience managing security compliance teams
 * Expert knowledge of common information security management frameworks, regulatory requirements and applicable standards such as: ISO 27001, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
 * Expert knowledge of audit methodologies and standard deliverables
 
-#### Manager, Security Compliance - Regulated Markets Responsibilities
+## Specialties
+### Dedicated Markets
+The dedicated markets specialty is for compliance professionals highly skilled in federal, financial, life sciences and other highly regulated markets. Areas of expertise include Federal, Financial and Quality domains.
+
+#### Manager, Security Compliance - Dedicated Markets Responsibilities
 * Hire and oversee a world class team of security compliance engineers experienced in regulated markets
 * Hold regular 1:1s with team members
-* Work closely with the Manager, Security Compliance and provide requirements for the common control framework aligned with GitLab's Regulated Markets certification roadmap 
-* Maintain a scoped continuous monitoring program aligned with GitLab's Regulated Markets certification roadmap
+* Work closely with the Manager, Security Compliance and provide requirements for the common control framework aligned with GitLab's dedicated markets certification roadmap 
+* Maintain a scoped continuous monitoring program aligned with GitLab's dedicated markets certification roadmap
 * Execute quarterly POA&M activities, maintain SSP and manage significant change requests
-* Proactively identify changing regulatory requirements and appropriately adjust the scope of the regulated markets program to accommodate these changes
-* Ensure execution of required testing and remediation activities leading to successful security certification(s) for regulated markets
-* Make broad recommendations on improving regulated markets related processes and/or procedures across GitLab; partner with stakeholders to implement solutions
-* Achieve and maintain Dedicated and regulated markets security certifications, to include oversight of external audits
+* Proactively identify changing regulatory requirements and appropriately adjust the scope of the dedicated markets program to accommodate these changes
+* Ensure execution of required testing and remediation activities leading to successful security certification(s) for dedicated markets
+* Make broad recommendations on improving dedicated markets related processes and/or procedures across GitLab; partner with stakeholders to implement solutions
+* Achieve and maintain Dedicated and dedicated markets security certifications, to include oversight of external audits
 * Prepare and deliver meaningful metrics to Security Assurance leadership
 * Identify and implement automation of manual processes to shorten processes and cycles
 * Successfully execute on quarterly OKR(s)
 
-#### Manager, Security Compliance - Regulated Markets Requirements
+#### Manager, Security Compliance - Dedicated Markets Requirements
 * At least 3 years prior experience managing security compliance teams supporting regulated markets and FedRAMP ATO
 * Experience leveraging OSCAL for SSP development and OSCAL validation tools for continuous control monitoring
 * Detailed knowledge of regulated information security management frameworks, regulatory requirements and applicable standards such as: NIST 800-53/FedRAMP, NIST 800-171/CMMC, DoD IL, STIGs, FIPS 140-2, HITRUST, GxP, ISO 9001, SOC 1 and SOC 2
