@@ -107,8 +107,7 @@ Effective January 1, 2021, GitLab will be transitioning from UHC to Cigna as the
  
 **Coverages:**
  
- The Cigna 2022 plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: inclusion of acupuncture, chiropractic care, and hearing aid benefits
-
+ The Cigna 2022 plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: inclusion of acupuncture, chiropractic care, and hearing aid benefits.
  
 In Network:
  
@@ -190,7 +189,7 @@ In addition to the Cigna plans offered above, the following plans are also an op
  
 **Coverages:**
 
- The Kaiser 2022 plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: inclusion of acupuncture, chiropractic care, and hearing aid benefits
+ The Kaiser 2022 plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: inclusion of acupuncture, chiropractic care, and hearing aid benefits. 
  
 | Plan Details               | [2021 HMO 20 NorCal](https://drive.google.com/file/d/1kgJGxaVfAwdN5E2fD0gbzKFWW1eCyU56/view?usp=sharing)  <br> 2022 HMO NorCal (TBD)     | [2021 HMO 20 SoCal](https://drive.google.com/file/d/1UtnmvtKmn4PKETOphAQ7e54lYu32NGb_/view?usp=sharing)  <br> 2022 HMO 20 SoCal (TBD) | [2021 HMO 20 CO](https://drive.google.com/file/d/1MuG9MQumOq3OjAMtwjil33RKkWdNrAa7/view?usp=sharing) <BR>  [2022 HMO 20 CO](https://drive.google.com/file/d/1BosRYdWVsrdpLpaGP--ci79zmTbFPOto/view?usp=sharing)    | [2021 HMO 20 HI](https://drive.google.com/file/d/1oLiQJkVcb2YLuvB-adEJPwf4knM1R9J3/view?usp=sharing)   <BR>  2022 HMO 20 HI (TBD)   |
 |----------------------------|:--------------------:|:---------------:|:---------------:|:---------------:|
@@ -315,7 +314,7 @@ When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingha
  
 **Coverages:**
 
- The 2022 Vision plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: increase frame allowance to up to $150
+ The 2022 Vision plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: increase frame allowance to up to $150. 
 
  
 | Plan Details                      | [Vision](https://drive.google.com/file/d/1iqeSHND7WzTouvP-Rzc6kw8THxz2DlDL/view?usp=sharing)       | 
@@ -326,10 +325,10 @@ When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingha
 | Single Vision                     | $0           | 
 | Bifocal                           | $0           |
 | Trifocal                          | $0           |
-| Frame Allowance                   | up to $130*   |
+| Frame Allowance                   | up to $130   |
 | Elective Lenses Contact Allowance | up to $130   |
  
-*Increase to up to $150 for the Vision 2022 Calendar Year Plan
+**The Frame allowance has increase to up to $150 for the Vision 2022 Calendar Year Plan.**
 
 **Team Member Costs:**
  
