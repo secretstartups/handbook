@@ -18,7 +18,6 @@ This page details processes and general guidelines specific to the Executive Bus
 ### E-Group Member EBA's
 * Cheri Holmes (Staff EBA) supporting Sid Sijbrandij (Co-Founder & CEO) and Michael McBride (CRO)
 * Stefanie Haynes (Sr. EBA) supporting Craig Mestel (CMO), Harsh Jawharkar (VP, Product Marketing) and Melissa Smolensky (VP of Corporate Marketing)
-* Megan Mozart (Temporary EBA) supporting Robin Schulman (CLO) 
 * Alison Allende (Sr. EBA) supporting Brian Robins (CFO) 
 * Kat Allen (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) and Carol Teskey (Senior Director, People Success), Stella Treas (Chief of Staff)
 * Kristie Thomas (Sr. EBA) supporting Scott Williamson (CProdO) and Eric Johnson (CTO)
