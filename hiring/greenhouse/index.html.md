@@ -312,8 +312,13 @@ Scheduling [executive interviews](/handbook/hiring/talent-acquisition-framework/
 * Timezones can be tricky with Greenhouse. Always double check timezones before sending confirmations, noting that all interview confirmations and the time shown on the candidate's profile is in your own timezone.
 * You can find a candidate's timezone by viewing their application.
 * To ensure that someone else (another candidate, for example) does not join your video call without your permission, log into your Zoom account online.
-  Click on "My Account" in the top-right corner, and click on "Meeting Settings" in the left sidebar. Scroll down to "In Meeting (Advanced)," and toggle on the option "Waiting Room".
-  You will also need to enable Waiting Room for your Personal Meeting ID. Click on "Meetings" in the left sidebar. Select the "Personal Meeting Room" tab and check the "Enable waiting room" option.
+  1. In the top right corner, select your profile icon, then select your account name.
+  1. In the left sidebar, select **Settings**.
+  1. In the **Security** section, toggle on the **Waiting Room** option.
+  1. In the left sidebar, select **Meetings**.
+  1. Select the **Personal Room** tab, then select **Edit**.
+  1. Scroll to **Security** and select **Waiting Room**.
+  1. Select **Save**.
 
 #### Scheduling Timed Assessments
 
@@ -420,8 +425,6 @@ To create a new template, click "+ New" to the right of "Organization-Wide Templ
 - Next, you will see in a blue box the various tokens that are able to be included in your email template. These will vary based on the email type and the available tokens will show up as options when you are creating/editing a template. You can also review the [token glossary](https://support.greenhouse.io/hc/en-us/articles/360007039771-Token-Glossary) to understand what each token means.
 - Finally, you will type out the body of your email template, including tokens and formatting as needed.
 - Click save, and your template is ready to be used!
-
-Greenhouse has also created a [quick video to walk through email templates](https://support.greenhouse.io/hc/en-us/articles/115002226526-VIDEO-Customize-Create-E-mail-Templates) as a resource.
 
 ### Updating requisition and offer approval flows
 

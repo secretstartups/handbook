@@ -472,7 +472,7 @@ The process for creating and sending an agreement is as follows:
     -Make sure the downloaded file is titled with new hire’s full name
 1. Once in Egnyte, navigate to *“/Shared/GPS/Active Clients/GitLab/IN/HR/Employee Master/Client Upload/New Employee Information”*
 1. Click *Upload* to place new hire’s statement of work in this folder
-1. Inform the GitLab Implementation alias (gitlab.implementations@globalpeoservices.com) of any new hires by sending email template *Email to Global Upside* under “Email the Team” in Greenhouse to let them know that a new SOW was uploaded into Egnyte and the employee’s name.
+1. Inform the Global Upside team (gitlabHR@globalpeoservices.com) of any new hires by sending email template *Email to Global Upside* under “Email the Team” in Greenhouse to let them know that a new SOW was uploaded into Egnyte and the employee’s name.
 1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
 1. Once Global Upside has drafted up the contract, they will place it in Egnyte and email the CES to review and approve.
     -CES should double-check that the contract reflects all the correct information that we sent to them.
