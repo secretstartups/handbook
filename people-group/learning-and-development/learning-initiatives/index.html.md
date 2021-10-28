@@ -423,7 +423,7 @@ If you are a GitLab Team Member and interested in participating in the course, y
 
 This training is a 10 day, automated message training via Slack to introduce new team members to key strategies for using Slack at GitLab. All content in the training is based on documentation in the [Slack handbook](/handbook/communication/#slack).
 
-Learn more about the Slack training and sign up here.
+[Learn more about the Slack training and sign up here](/handbook/people-group/learning-and-development/learning-initiatives/slack-training).
 
 Please note: Existing team members are welcome to sign up for the new team member Slack training, as long as they understand the content is directed to brand new Slack users.
 
