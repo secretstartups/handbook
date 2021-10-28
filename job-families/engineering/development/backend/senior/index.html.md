@@ -194,6 +194,26 @@ Growth Engineers work with a cross-functional team to influence the growth of Gi
 * Experience with A/B, multivariate, or other data-driven methods of testing.
 * Comfort multitasking in a highly iterative environment.
 
+### Product Intelligence
+Senior Backend Engineers in the Product Intelligence group play a key role in implementing analytics and data collection tools within the GitLab product in a privacy-focused manner. 
+The group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. 
+
+The Senior Backend Engineer for Product Intelligence extends the Senior Backend Engineer requirements with these additional requirements and responsibilities. 
+
+#### Requirements
+
+##### Nice to have
+* Proven database development experience.
+* DevOps experience working with and configuring infrastructure.
+* Experience with Snowplow, dbt, or other related data engineering tools.
+* Frontend experience including HTML, CSS, and JavaScript frameworks (Vue.js preferred).
+
+#### Responsibilities
+* Build tooling to collect metrics from GitLab.com and self managed instances.
+* Work closely with GitLab's Data team to analyse data pipelines.
+* Build automation to ensure the quality of our collected metrics.
+* Build monitoring to ensure the reliability of our data pipelines.
+
 ### Engineering Productivity
 Engineering Productivity Engineers are full-stack engineers primarily tasked with improving the productivity of the GitLab developers (from both GitLab Inc and the rest of the community), and making the GitLab project maintainable in the long-term.
 
