@@ -64,7 +64,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 * [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/)
 * [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark) - information regarding the usage of GitLab's trademark
 * [Third-party Trademark Usage Guidelines](https://about.gitlab.com/handbook/legal/policies/third-party-trademark-usage-guidelines/) - guidelines concerning the use of third-party trademarks in the GitLab product
-* [Insider Trading Policy](https://drive.google.com/drive/folders/1YoEW6EE3jnif14A6TfgvIVNGTRBTe16-) - this policy is to promote compliance with insider trading laws 
+
 
 # Code of Business Conduct and Ethics 
 GitLab's Code of Business Conduct and Ethics summarizes the ethical standards for all directors, officers, team members and contractors of GitLab and of its direct and indirect subsidiaries and is a reminder of the seriousness of our commitment to our values. [Please click here to read GitLab's Code of Business Conduct and Ethics in its entirety.](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) 
