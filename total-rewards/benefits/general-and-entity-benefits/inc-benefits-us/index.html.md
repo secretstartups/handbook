@@ -103,13 +103,15 @@ TODO Add QLE documentation info
  
 Effective January 1, 2021, GitLab will be transitioning from UHC to Cigna as the primary national carrier.
  
-##### Cigna 2021 Calendar Year Plans
+##### Cigna 2021 & 2022 Calendar Year Plans
  
 **Coverages:**
  
+ The Cigna 2022 plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: inclusion of acupuncture, chiropractic care, and hearing aid benefits.
+ 
 In Network:
  
-| Plan Details               | [Cigna - HSA](https://drive.google.com/file/d/1snzJv2JsItipBS12ueibzedjZMgLjs_e/view?usp=sharing)  | [Cigna EPO (PPO $0)**](https://drive.google.com/file/d/147z46SlhXLGUhoXVjQTxI7Qs5ROL6ZLr/view?usp=sharing) | [Cigna PPO 500***](https://drive.google.com/file/d/1utEEBXzbvIY4guFt0asM86waDWVMdLHQ/view?usp=sharing)       |
+| Plan Details               | [2021 Cigna HDHP- HSA ](https://drive.google.com/file/d/1snzJv2JsItipBS12ueibzedjZMgLjs_e/view?usp=sharing) <BR> 2022 Cigna HDHP- HSA (TBD) | [2021 Cigna EPO (PPO $0)**](https://drive.google.com/file/d/147z46SlhXLGUhoXVjQTxI7Qs5ROL6ZLr/view?usp=sharing)<BR> 2022 Cigna EPO (PPO $0)** (TBD)  | [2021 Cigna PPO 500***](https://drive.google.com/file/d/1utEEBXzbvIY4guFt0asM86waDWVMdLHQ/view?usp=sharing)  <BR> 2022 Cigna PPO 500*** (TBD)    |
 |:---------------------------|:----------------------:|:------------------:|:-----------------:|
 | Deductible (Single/Family) | $2,000 / $2,800        | $0 / $0            | $500 / $1,000     |
 | Out of Pocket Max (Single/Family)    | $4,000 / $8,000        | $2,500 / $5,000    | $3,000 / $6,000   |
@@ -132,16 +134,25 @@ In Network:
  
 **Team Member Costs:**
  
-The following costs are monthly rates which would be deducted from your paycheck.
+_2021 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
  
-| Tier                     | HSA | EPO  | PPO  |
+| Tier                     | HDHP-HSA | EPO  | PPO  |
 |--------------------------|:---:|:----:|:----:|
 | Team Member Only         | $0  | $0   | $0   |
 | Team Member + Spouse     | $0  | $234 | $222 |
 | Team Member + Child(ren) | $0  | $180 | $168 |             
 | Family                   | $0  | $402 | $378 |
 
-Note: For the **team member only HSA**, GitLab will contribute $100 per month. For residents of California, Alabama, and New Jersey this additional contribution is taxable on the state level. 
+_2022 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
+ 
+| Tier                     | HDHP-HSA | EPO  | PPO  |
+|--------------------------|:---:|:----:|:----:|
+| Team Member Only         | $0  | $0   | $0   |
+| Team Member + Spouse     | $0  | $248 | $242 |
+| Team Member + Child(ren) | $0  | $188 | $184 |             
+| Family                   | $0  | $426 | $416 |
+
+Note: For the **team member only HSA**, GitLab will contribute $100 per month. For residents of California, Alabama, and New Jersey this additional contribution is taxable on the state level. Effective January 1, 2022, GitLab will expand the $100 per month HSA employer contribution to all Tiers. 
 
 ##### Cigna Infertility Services
  
@@ -172,13 +183,15 @@ Virtual visits for Cigna members can be accessed by visiting [myCigna](https://m
  
 #### Kaiser Medical Plans
  
-##### Kaiser 2021 Calendar Year Plans
+##### Kaiser 2021 & 2022 Calendar Year Plans
  
 In addition to the Cigna plans offered above, the following plans are also an option for team members in the United States located in California, Colorado, and Hawaii.
  
 **Coverages:**
+
+ The Kaiser 2022 plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: inclusion of acupuncture, chiropractic care, and hearing aid benefits. 
  
-| Plan Details               | [HMO 20 NorCal](https://drive.google.com/file/d/1kgJGxaVfAwdN5E2fD0gbzKFWW1eCyU56/view?usp=sharing)       | [HMO 20 SoCal](https://drive.google.com/file/d/1UtnmvtKmn4PKETOphAQ7e54lYu32NGb_/view?usp=sharing)    | [HMO 20 CO](https://drive.google.com/file/d/1MuG9MQumOq3OjAMtwjil33RKkWdNrAa7/view?usp=sharing)     | [HMO 20 HI](https://drive.google.com/file/d/1oLiQJkVcb2YLuvB-adEJPwf4knM1R9J3/view?usp=sharing)       |
+| Plan Details               | [2021 HMO 20 NorCal](https://drive.google.com/file/d/1kgJGxaVfAwdN5E2fD0gbzKFWW1eCyU56/view?usp=sharing)  <br> 2022 HMO NorCal (TBD)     | [2021 HMO 20 SoCal](https://drive.google.com/file/d/1UtnmvtKmn4PKETOphAQ7e54lYu32NGb_/view?usp=sharing)  <br> 2022 HMO 20 SoCal (TBD) | [2021 HMO 20 CO](https://drive.google.com/file/d/1MuG9MQumOq3OjAMtwjil33RKkWdNrAa7/view?usp=sharing) <BR>  [2022 HMO 20 CO](https://drive.google.com/file/d/1BosRYdWVsrdpLpaGP--ci79zmTbFPOto/view?usp=sharing)    | [2021 HMO 20 HI](https://drive.google.com/file/d/1oLiQJkVcb2YLuvB-adEJPwf4knM1R9J3/view?usp=sharing)   <BR>  2022 HMO 20 HI (TBD)   |
 |----------------------------|:--------------------:|:---------------:|:---------------:|:---------------:|
 | Deductible (Single/Family) | $0 / $0              | $0 / $0         | $0 / $0         | $0 / $0         |
 | Out Of Pocket Max (Single/Family)    | $1,500 / $3,000      | $1,500 / $3,000 | $2,000 / $4,000 | $2,500 / $7,500 |
@@ -196,6 +209,8 @@ In addition to the Cigna plans offered above, the following plans are also an op
 **Team Member Costs:**
  
 The following costs are monthly rates which would be deducted from your paycheck.
+
+_2021 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
  
 | Tier                     | HMO CA North | HMO CA South | HMO CO | HMO HI |
 |--------------------------|:------------:|:------------:|:------:|:------:|
@@ -203,6 +218,16 @@ The following costs are monthly rates which would be deducted from your paycheck
 | Team Member + Spouse     | $240         | $240         | $276   | $174   |
 | Team Member + Child(ren) | $192         | $192         | $228   | $138   |         
 | Family                   | $366         | $366         | $456   | $342   |
+
+
+_2022 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
+ 
+| Tier                     | HMO CA North | HMO CA South | HMO CO | HMO HI |
+|--------------------------|:------------:|:------------:|:------:|:------:|
+| Team Member Only         | $0           | $0           | $0     | $0     |
+| Team Member + Spouse     | $244         | $244         | $340   | $178   |
+| Team Member + Child(ren) | $194         | $194         | $284   | $144   |         
+| Family                   | $378         | $378         | $566   | $356   |
  
 ##### Kaiser Telehealth
  
@@ -226,9 +251,12 @@ Dental does not come with individualized insurance cards from Cigna, although yo
  
 When submitting a claim, you can mail it to Cigna Dental PO Box 188037 Chattanooga, TN, 37422 or fax it to 859-550-2662.
  
-#### Dental 2021 Calendar Year Plan
+#### Dental 2021 & 2022 Calendar Year Plan
  
 **Coverages:**
+
+ The 2022 Dental plan details will remain the same as the 2021 plan details listed below.
+
  
 | Plan Details                         | [DPPO](https://drive.google.com/file/d/1s8x3BJ36hJ5gU-vn29dQSOFVkhvm1rH4/view?usp=sharing)       | 
 |--------------------------------------|:----------:|
@@ -245,12 +273,23 @@ When submitting a claim, you can mail it to Cigna Dental PO Box 188037 Chattanoo
 **Team Member Costs:**
  
 The following costs are monthly rates which would be deducted from your paycheck.
- 
+
+ _2021 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
+
 | Tier                     | DPPO |
 |--------------------------|:----:|
 | Team Member Only         | $0   |
 | Team Member + Spouse     | $12  |
 | Team Member + Child(ren) | $18  |
+| Family                   | $36  |
+
+ _2022 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
+
+| Tier                     | DPPO |
+|--------------------------|:----:|
+| Team Member Only         | $0   |
+| Team Member + Spouse     | $14  |
+| Team Member + Child(ren) | $20  |
 | Family                   | $36  |
  
 ##### Cigna Dental Period to Submit Claims
@@ -271,9 +310,12 @@ When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingha
 1. Expand the "Customer Reimbursement Form" section.
 1. Click "Continue" to be taken to the online claim form. Make sure you attach an itemized receipt when prompted.
  
-#### Vision 2021 Calendar Year Plan
+#### Vision 2021 & 2022 Calendar Year Plan
  
 **Coverages:**
+
+ The 2022 Vision plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: increase frame allowance to up to $150. 
+
  
 | Plan Details                      | [Vision](https://drive.google.com/file/d/1iqeSHND7WzTouvP-Rzc6kw8THxz2DlDL/view?usp=sharing)       | 
 |-----------------------------------|:------------:|
@@ -286,9 +328,13 @@ When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingha
 | Frame Allowance                   | up to $130   |
 | Elective Lenses Contact Allowance | up to $130   |
  
+**The Frame allowance has increase to up to $150 for the Vision 2022 Calendar Year Plan.**
+
 **Team Member Costs:**
  
 The following costs are monthly rates which would be deducted from your paycheck.
+
+ _2021 & 2022 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
  
 | Tier                     | Vision |
 |--------------------------|:------:|
@@ -296,7 +342,9 @@ The following costs are monthly rates which would be deducted from your paycheck
 | Team Member + Spouse     | $2.40  |
 | Team Member + Child(ren) | $1.80  |
 | Family                   | $4.80  |
- 
+
+
+
 ##### Cigna Vision Period to Submit Claims
  
 For in-network services: 365 days from Date of Service.
@@ -565,8 +613,9 @@ If you are currently employed and have any general COBRA questions, feel free to
 ### Costs per Month
  
 **Medical**
- 
-| Tier                           | Cigna EPO   | Cigna HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
+
+2021
+| Tier                           | Cigna EPO   | Cigna HDHP HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
 |--------------------------------|:---------:|:-------------:|:----------:|:-----------------:|:----------------:|:--------------:|:------------:|
 | Team Member Only               | $562.21   |   $423.75     | $549.39   |     $532.72       |     $532.72      |    $734.04     |   $495.41    |
 | Team Member + Domestic Partner | $1,225.69   |   $917.57   | $1,197.64  |     $1,230.19     |     $1,230.19    |    $1,614.88   |   $990.83    |
@@ -574,9 +623,19 @@ If you are currently employed and have any general COBRA questions, feel free to
 | Team Member + Child(ren)       | $1,063.98   |   $797.22     | $1,039.70    |     $1,086.73     |     $1,086.73   |    $1,468.08   |   $891.75    |
 | Family                         | $1,699.62 |   $1,270.30   | $1,660.70  |     $1,613.74     |     $1,613.74    |    $2,202.12   |   $1,486.24  |
  
- 
+ 2022
+| Tier                           | Cigna EPO   | Cigna HDPHP HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
+|--------------------------------|:---------:|:-------------:|:----------:|:-----------------:|:----------------:|:--------------:|:------------:|
+| Team Member Only               | $617.15   |   $461.04     | $602.85   |     $545.89       |     $545.89      |    $829.45     |   $523.05    |
+| Team Member + Domestic Partner | $1,345.49 |   $1,003.65   | $1.314.21  |     $1,260.63     |     $1,260.63    |    $1,824.79   |   $1,046.11    |
+| Team Member + Spouse           | $1,345.49   |   $1,003.65   | $1,314.21  |     $1,260.63     |     $1,260.63   |    $1,824.79   |   $1,046.11    |           
+| Team Member + Child(ren)       | $1,167.99   |   $871.43     | $1,134.03    |     $1,113.62     |     $1,113.62   |    $1,658.90   |   $941.50    |
+| Family                         | $1,865.77 |   $1,391.22   | $1,822.35  |     $1,653.67     |     $1,653.67    |    $2,488.36   |   $1,569.16  |
+
+
 **Dental**
  
+ 2021
 | Tier                           | Cigna DPPO |
 |--------------------------------|:----------:|
 | Team Member Only               |   $39.77   |
@@ -584,6 +643,15 @@ If you are currently employed and have any general COBRA questions, feel free to
 | Team Member + Spouse           |   $79.03   |
 | Team Member + Child(ren)       |   $91.41   |
 | Family                         |   $140.24  |
+
+2022
+| Tier                           | Cigna DPPO |
+|--------------------------------|:----------:|
+| Team Member Only               |   $41.13   |
+| Team Member + Domestic Partner |   $81.74   |
+| Team Member + Spouse           |   $81.74   |
+| Team Member + Child(ren)       |   $94.55   |
+| Family                         |   $145.05  |
  
 **Vision**
  
