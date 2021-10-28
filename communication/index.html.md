@@ -577,7 +577,7 @@ The use of a document also serves to ensure that everyone gets a chance to contr
 
 Social call attendance is not mandatory however the sessions do serve as a great way to get to know fellow team members, take a break or (depending on your region) start the day on a fun note.
 
-#### Weekly Call Cycle
+#### Monthly Call Cycle
 
 | Social Call   | Day(s)               | Time       |
 | ------------- | -------------------- | ---------- |
