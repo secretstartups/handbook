@@ -108,7 +108,7 @@ This is a manual review of each new joiner's BambooHR profile that takes place w
 
 ##### Audit Steps 
 
-The People Experience Associates do not have full access to audit team members of the People Group. Please reach out to the BambooHR Admin for further assistance. 
+The People Experience Associates do not have full access to audit team members of the People Group. Please reach out to the BambooHR Provisioners for further assistance. 
 
 ###### Who to Onboard 
 
@@ -137,7 +137,7 @@ Check [Bamboo Onboarding Report](https://gitlab.bamboohr.com/reports/custom/Onbo
    * Effective Date, Hire Date, Compensation & Job Information Effective Date, Employment Status: Check the hire date on the contract. If it is different, go back to the folder and search for a date change confirmation file (usually uploaded by Candidate Experience Specialist). 
    * If the signed letter is not in the folder: go to Greenhouse > search for team member > Activity Feed > Find CES > ping CES on Slack and ask for the date change confirmation to be uploaded.
 * Cost Center, Department & Division: Should be the same as the manager’s.
-    - ** Note in some instances the Department may differ to the managers. Please reach out to BambooHR Admin for further clarity if this should differ or whether this should be updated to match the manager. 
+    - ** Note in some instances the Department may differ to the managers. Please reach out to BambooHR Provisioners for further clarity if this should differ or whether this should be updated to match the manager. 
 * [Payroll Type](https://about.gitlab.com/handbook/contracts/)
 * Compensation:
    * Fill out the [onboarding calculator](https://docs.google.com/spreadsheets/d/1khOeUjkl6l6d_3TaLCo8qn_lnb3AbUq-1rspmNRLzcs/edit?ts=5d7edfee#gid=1910573508)
@@ -152,9 +152,9 @@ Check [Bamboo Onboarding Report](https://gitlab.bamboohr.com/reports/custom/Onbo
 
 ###### Access Level Audit 
 
-The Access Level field should only be updated if the team member is a manager or higher (leader, exec). If they are an IC, you can leave the level as is. The People Experience Associates do not have access to the `Access Level` field in BambooHR - this check should be left unchecked for the BambooHR Admin to complete in instances where the team member is not an IC.
+The Access Level field should only be updated if the team member is a manager or higher (leader, exec). If they are an IC, you can leave the level as is. The People Experience Associates do not have access to the `Access Level` field in BambooHR - this check should be left unchecked for the BambooHR Provisioners to complete in instances where the team member is not an IC.
 
-Process for BambooHR Admin:
+Process for BambooHR Provisioners:
 * Job tab > Settings icon > BambooHR Level:
 * For Employees who are Managers of people: "Managers"
 * For Contractors (independent or corp-to-corp): "Contractor Self-Service"
@@ -175,7 +175,7 @@ Process for BambooHR Admin:
 
 ###### Payroll Change Report
 
-The People Experience Associates have no access to this report. The BambooHR Admin will complete the following:
+The People Experience Associates have no access to this report. The BambooHR Provisioners will complete the following:
 
 Reports (black heading on BHR) > Standard reports > Payroll change report > Change the date for the week > tick the team member’s name
 
@@ -219,7 +219,7 @@ BambooHR creates a standard Payroll Change report to capture any changes process
 
 Process for auditing:
 
-* At the end of each week, the BambooHR Admin downloads a csv of the payroll changes report through that day from BambooHR and imports it into the 'Payroll Changes Report Audit' spreadsheet in a new tab labelled with the corresponding date.
+* At the end of each week, the BambooHR Provisioner downloads a csv of the payroll changes report through that day from BambooHR and imports it into the 'Payroll Changes Report Audit' spreadsheet in a new tab labelled with the corresponding date.
 * Add a column for checkboxes and filter out any "Time off Taken" change types.
 * Review each change captured in the report to ensure the change was intentional, inputted correctly, and proper processing was followed for the change. Once the change has been reviewed, it can be checked off on the report.
 
@@ -293,7 +293,7 @@ If the stock is low/depleted, we will proceed with placing an order for new stoc
 
 Cadence: Every Quarter / As per requirement of Security Audit Team
 
-This audit is meant to identify and fix errors that occur during onboarding, termination, promotions, relocation, country conversion and any other changes that take place throughout the year to a team member's access level in BambooHR profile. This audit is handled by the BambooHR Admin. 
+This audit is meant to identify and fix errors that occur during onboarding, termination, promotions, relocation, country conversion and any other changes that take place throughout the year to a team member's access level in BambooHR profile. This audit is handled by the BambooHR Provisioners. 
 
 Process:
 
