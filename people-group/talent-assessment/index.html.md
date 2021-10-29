@@ -250,6 +250,7 @@ The portion of the Performance/Growth matrix that often entails the most signifi
 It is **absolutely essential** that managers complete the required pre-work to ensure that the live calibration session is as efficient and productive as possible. Pre work includes:
 
 - For calibration sessions you can leverage [this agenda template](https://docs.google.com/document/d/1zrlZSfdNXpSZ09uvDM71KxH42RWBJxa6U1QTCTw05iI/edit)
+- Please ensure that the [Talent Assessment Calibration Sheet](https://docs.google.com/spreadsheets/d/1D8zO_Yat9pMmNoxSh61J4qg1IqRxCBJ58EsPEOOcZK0/edit) (found in the [Resources section](/handbook/people-group/talent-assessment/#resources)) is updated with initial Performance and Growth Assessments prior to the live calibration session. The [Talent Assessment Calibration Sheet](https://docs.google.com/spreadsheets/d/1D8zO_Yat9pMmNoxSh61J4qg1IqRxCBJ58EsPEOOcZK0/edit) will be considered the SSOT for final ratings, while the [agenda document](https://docs.google.com/document/d/1zrlZSfdNXpSZ09uvDM71KxH42RWBJxa6U1QTCTw05iI/edit) serves to help capture the “why” behind changes and provide a format to provide and review pre-work.
 - Review the Job Family/Families that will be reviewed in detail
 - Review our competencies 
     - [Values competencies](/handbook/competencies/#values-competencies)
