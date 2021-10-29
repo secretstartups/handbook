@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/improve-ops-quality/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | October 28rd, 2021 |
-| Target End Date | TBD |
+| Target End Date | April 28rd, 2022 |
 | Slack           | [#contribution-efficiency](https://gitlab.slack.com/archives/C0223D98HHC) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1AOgqaslnq-WI1ICSZ1NzSnALf1Va4D5qAD191icAoSI/edit#) (only accessible from within the company) |
 | Task Board      | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/3014703?label_name%5B%5D=Contribution%20Efficiency) (items above the cut-line) |
@@ -52,5 +52,5 @@ Implement key business iterations that results in substantial and sustained incr
 | Functional Lead       | [Kyle Wiebers](https://gitlab.com/kwiebers)          | Engineering Manager, Engineering Productivity |
 | Functional Lead       | [Christos Bacharakis](https://gitlab.com/cbacharakis)| Senior Code Contributor Program Manager |
 | Functional Lead       | [Nuritzi Sanchez](https://gitlab.com/nuritzi)        | Senior Open Source Program Manager |
-| Member                | [Nailia Iskhakova](https://gitlab.com/niskhakova) | Senior Software Engineer in Test, Enablement:Distribution |
+| Member                | [Nailia Iskhakova](https://gitlab.com/niskhakova)    | Senior Software Engineer in Test, Enablement:Distribution |
 | Member                | [Tanya Pazitny](https://gitlab.com/tpazitny)         | Director of Quality Engineering |
