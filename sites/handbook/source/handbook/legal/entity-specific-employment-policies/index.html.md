@@ -44,6 +44,7 @@ This page will serve as a directory for our team members employed through a GitL
 
 ### France 
 
+* [Remote Work Policy](https://docs.google.com/document/d/1_8-m3QVNXIN7idfv-F0eYJqRhipjrsWx/edit?usp=sharing&ouid=106298195226644329866&rtpof=true&sd=true)
 </details>
 
 <details>
