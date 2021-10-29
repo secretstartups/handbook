@@ -854,6 +854,10 @@ We don't use the first 15 minutes of a meeting to read the materials like they [
 
 Don't use your camera to signal you're not paying attention; [cameras should always be on](/handbook/communication/#video-calls).
 
+### Don't ask meeting attendees to pay attention
+
+There are too few hours in a week, so we expect each team member to [manage their attention](#you-are-the-manager-of-your-attention). If you're hosting a meeting, don't tell people to give you their attention or stop multi-tasking. Respect each team member's agency over their time. Instead of demanding attention, earn participants' attention by organizing and facilitating meetings so that it is compelling to attendees.
+
 ### First post is a badge of honor
 
 You should take pride in being the first person to add a question to a
