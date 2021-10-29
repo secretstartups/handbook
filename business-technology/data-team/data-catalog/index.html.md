@@ -53,6 +53,8 @@ To gain access to SAFE Dashboards:
 
 Please see the [Accessing](/handbook/business-technology/data-team/platform/#warehouse-access) SAFE Data in Snowflake for instructions on to access the SAFE data in Snowflake.
 
+SAFE Data in Google Sheets files can be accessed using the instructions for [Accessing a SAFE Dashboard](/handbook/business-technology/data-team/data-catalog/#accessing-a-safe-dashboard). Please follow those instructions to gain access to SAFE Data in Google Sheets. 
+
 `END OF 2021-09-08 SAFE Dashboard Change Announcement`
 
 ## Data By Subject Area
