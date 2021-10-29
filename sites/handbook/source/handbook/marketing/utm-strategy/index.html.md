@@ -90,6 +90,8 @@ Using proper `utm_campaign` values below will minimize number of manual updates 
 * vccusecase = VC&C Campaigns (retired)
 * competegh = OctoCat Competitive
 
+RULE: all utm_campaign must start with one of the overarching campaigns (devopsgtm, singleappci, iacgitops, etc.)
+
 #### utm_content
 {: #utm-content .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
@@ -99,13 +101,13 @@ Using proper `utm_campaign` values below will minimize number of manual updates 
 See values in [this googlesheet](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=232997146) in column `utm_content=`. These are continually changed as new content is developed, and therefore new `utm_content` values are added.
 
 #### utm_term 
-{: #utm-campaign .gitlab-purple}
+{: #utm-term .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
 **Campaign Term** (`utm_term`) mainly used for tracking ROI on paid keywords in PPC (Pay Per ClicK) campaigns but can also be used to track any keyword or any additional campaign info.
 
 #### utm_budget
-{: #utm-campaign .gitlab-purple}
+{: #utm-budget .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
 **Campaign Budget** (`utm_budget`) indicates which budget is used for the campaign promotion. 
@@ -119,18 +121,22 @@ Values (available as picklist in the UTM builder googlesheet):
 * chnl = Channel
 
 #### utm_allptnr
-{: #utm-campaign .gitlab-purple}
+{: #utm-allptnr .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
 **Alliance Partner** (`utm_allptnr`) indicates which partner is part for the campaign. 
 
 Values (available as picklist in the UTM builder googlesheet):
-* fmm	= Field Marketing
-* dmp	= Digital Marketing
-* corp = Corporate Marketing
-* abm	= Account Based Marketing
-* ptnr = Partner Marketing
-* chnl = Channel
+* aws = AWS
+* gcp = Google Cloud
+* azure = Microsoft Azure
+* do = DigitalOcean
+* oraclecloud = Oracle Cloud	
+* render = Render	
+* amazee = amazee.io	
+* vmware = VMware Tanzu	
+* redhat = RedHat OpenShift
+* ibm = IBM
 
 ## UTMs in Practice
 {: #utms-in-practice .gitlab-purple}
@@ -145,7 +151,6 @@ Here’s a UTM example link with parameters in place:
 `https://page.gitlab.com/dora-report-roundtable.html?utm_medium=social&utm_source=facebook&utm_campaign=devopsgtm&utm_content=fy22q3amerlargeawareness&utm_term=na&utm_budget=dmp&utm_allptnr=aws`
 
 The UTM parameters are everything that comes after the question mark:
-
 * utm_medium=social
 * utm_source=facebook
 * utm_campaign=devopsgtm
@@ -154,11 +159,7 @@ The UTM parameters are everything that comes after the question mark:
 * utm_budget=dmp
 * utm_allptnr=aws
 
-There are seven different UTM parameters in this example. You should use the first four in all UTM tracking links, with the last three being optional.
-
-Another example, more specific to paid digital campaigns:
-
-https://page.gitlab.com/achieve-devsecops-cicd-ebook.html?utm_medium=cpc&utm_source=google&utm_campaign=devsecopsusecase_amer_pr_rsa_nb_exact&utm_content=achievedevsecopsebook_digital_x-pr_english_&utm_term=devsecops&utm_budget=dmp
+More examples and different scenarios are covered in [FAQ doc] (https://docs.google.com/document/d/1VaAwSg39sNY4dfth4bTuBDN5UT8UiKijWt6RdzVV4dY/edit?usp=sharing).
 
 ### UTM structure for nurture emails
 {: #utms-nurture-emails .gitlab-purple}
@@ -177,6 +178,27 @@ https://page.gitlab.com/achieve-devsecops-cicd-ebook.html?utm_medium=cpc&utm_sou
 * UTM GTM = `overarching GTM`
 
 [Documenting issue of discussion on UTM structure for nurture emails](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1513)
+
+### UTM structure for paid digital
+{: #utms-paid-digital .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+Our Digital Agency - PMG are using different UTM structure than our standard process. Their UTM parameters include more information:
+
+* UTM Campaign = `campaigncode_geo_targeting_adunit_br/nb_matchtype`
+   - campaigncode must start with one of the overarching campaigns (devopsgtm, singleappci, iacgitops, etc.)
+* UTM Content = `content_team_budget_language` 
+
+In order to retain historical campaign tracking data we will keep existing UTM structure and will append the new UTMs to the end of the string. Here’s an example with the new parameters in place:
+`https://page.gitlab.com/achieve-devsecops-cicd-ebook.html?utm_medium=cpc&utm_source=google&utm_campaign=devsecopsusecase_amer_pr_rsa_nb_exact&utm_content=achievedevsecopsebook_digital_x-pr_english_&utm_term=devsecops&utm_budget=dmp&utm_allptnr=aws`
+
+* utm_medium=cpc 
+* utm_source=google 
+* utm_campaign=devsecopsusecase_amer_pr_rsa_nb_exact 
+* utm_content=achievedevsecopsebook_digital_x-pr_english_
+* utm_term=devsecops 
+* utm_budget=dmp
+* utm_allptnr=aws
 
 ## Marketo > Bizible integration
 {: #marketo-bizible .gitlab-purple}
