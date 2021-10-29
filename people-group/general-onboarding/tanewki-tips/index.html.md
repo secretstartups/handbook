@@ -132,6 +132,16 @@ A: That's absolutely okay. You'll want to make sure to talk with your manager as
 
 A: You have 30 days from your start date to enroll in benefits. Even if you enroll on that 30th day, benefits coverage backdates to your start date.
 
+### Stock 
+**Q: When will I receive access to Schwab?**
+
+A: Once the board approves your grant, you will receive an email to create your account in Schwab and accept your grants.
+
+**Q: Is the value of the restricted stock anchored to the share price at the time I signed the contract?**
+
+A: You will receive the dollar figure listed on your contract, however the number of RSUs will be dependent upon the share price at the board meeting your grant is approved at.
+
+
 ### Access
 **Q: I received an email from Okta about access, do I need to do anything with it?**
 
