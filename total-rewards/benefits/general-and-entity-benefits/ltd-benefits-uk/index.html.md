@@ -129,7 +129,7 @@ If an employee does not meet these criteria then they will be considered an **En
 
 The following process is followed by GitLab People Operations to join the Scheme during onboarding:
 
-*  During onboarding, the People Operations Specialist Team informs Vistra Payroll of a new hire that joined the company in the UK.
+*  During onboarding, the People Experience Associate Team informs Vistra Payroll of a new hire that joined the company in the UK.
 *  Once Vistra payroll has this information, the employee will be set up on the payroll and added to the pension file for Scottish Widows in preparation to be uploaded.
 *  The pension file is sent to Scottish Widows around the end of 6th of each month and will include any joiners/changes/leavers from the previous month’s payroll run. For example everyone who has been included on the pension file in October (the cut off is 20th October) Scottish Widows will be notified around 6th November
 *  Any employee who joins after 20th or has not been included on the pension file will be picked up in the following month’s file.
@@ -161,7 +161,7 @@ The certification level that has been chosen is **basic salary** only and will n
 ^
 - As your contribution is a percentage of your pay, the amounts will automatically increase or decrease in accordance with your basic pay. These contributions will be taken from your pay and will include tax relief.
 
-- You may increase the contribution percentage you pay by contacting People Operations. Please note the company contribution will remain fixed as above. The total maximum contribution you can make is £40,000 p.a.
+- You may increase the contribution percentage you pay by contacting Non US Payroll team via email. Please note the company contribution will remain fixed as above. The total maximum contribution you can make is £40,000 p.a.
 
 - These percentages are gross percentages using the [relief at source](https://www.gov.uk/workplace-pensions/managing-your-pension) method. As basic rate tax relief is then added by the pension provider, the amount on your payslip will typically be the net amount, which is 80% of the employee's contribution.
 
