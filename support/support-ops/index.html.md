@@ -83,41 +83,63 @@ To help ensure the team doesn't get overwhelmed and has the ability to focus on
 specialization and learning, we divide out the responsibilties amongst our
 team. The current division of responsibilities is:
 
-| Category           | Subcategory                  | DRI              | Backup           |
-|--------------------|------------------------------|------------------|------------------|
-| Zendesk Global     | Agent Signatures             | @jcolyer         | @nabeel.bilgrami |
-|                    | Apps                         | @jcolyer         | @nabeel.bilgrami |
-|                    | Automations                  | @nabeel.bilgrami | @avilla4         |
-|                    | Macros                       | @avilla4         | @nabeel.bilgrami |
-|                    | Provisioning/Deprovisioning  | @nabeel.bilgrami | @avilla4         |
-|                    | Settings                     | @jcolyer         | @nabeel.bilgrami |
-|                    | Ticket Forms and Fields      | @jcolyer         | @nabeel.bilgrami |
-|                    | Theme/Guide                  | @jcolyer         | @nabeel.bilgrami |
-|                    | Triggers                     | @nabeel.bilgrami | @avilla4         |
-|                    | Users and Orgs               | Support Ops team | Support Ops team |
-|                    | Views                        | @avilla4         | @nabeel.bilgrami |
-|                    | ZD<>SFDC Sync Main           | @jcolyer         | @nabeel.bilgrami |
-|                    | ZD<>SFDC Sync Partners       | @jcolyer         | @nabeel.bilgrami |
-| Zendesk US Federal | Agent Signatures             | @jcolyer         | @dnolan1         |
-|                    | Apps                         | @jcolyer         | @dnolan1         |
-|                    | Automations                  | @dnolan1         | @jcolyer         |
-|                    | Macros                       | @dnolan1         | @jcolyer         |
-|                    | Settings                     | @dnolan1         | @jcolyer         |
-|                    | Ticket Forms and Fields      | @jcolyer         | @dnolan1         |
-|                    | Theme/Guide                  | @jcolyer         | @dnolan1         |
-|                    | Triggers                     | @dnolan1         | @jcolyer         |
-|                    | Users and Orgs               | @dnolan1         | @jcolyer         |
-|                    | Views                        | @jcolyer         | @dnolan1         |
-|                    | ZD<>SFDC Sync US Federal     | @jcolyer         | @dnolan1         |
-| Calendly           | N/A                          | @jcolyer         | @nabeel.bilgrami |
-| Docs               | Support Handbook             | @avilla4         | @nabeel.bilgrami |
-|                    | Support Ops Handbook         | @avilla4         | @nabeel.bilgrami |
-| GitLab.com         | 1-1-issue-generator          | @jcolyer         | @dnolan1         |
-|                    | Account Deletions            | @jcolyer         | @dnolan1         |
-|                    | Project/Issue/MR Settings    | @jcolyer         | @nabeel.bilgrami |
-|                    | Triaging support-ops-project | @avilla4         | @nabeel.bilgrami |
-|                    | Audits                       | @jcolyer         | @nabeel.bilgrami |
-|                    | ADWR                         | @jcolyer         | @avilla4         |
+| Category            | Area                       | Primary DRI      | Secondary DRI    |
+|---------------------|----------------------------|------------------|------------------|
+| Audits              | Zendesk Main Audits        | @nabeel.bilgrami | @avilla4         |
+|                     | Zendesk US Federal Audits  | @dnolan1         | @jcolyer         |
+|                     | Calendly Audits            | @avilla4         | @dnolan1         |
+|                     | Pagerduty Audits           | @nabeel.bilgrami | @avilla4         |
+| Zendesk Main        | ZD<>SFDC Sync              | @jcolyer         | @nabeel.bilgrami |
+|                     | Provsioning/Deprovisioning | @nabeel.bilgrami | @jcolyer         |
+|                     | Apps                       | @dnolan1         | @nabeel.bilgrami |
+|                     | Agent Signatures           | @nabeel.bilgrami | @avilla4         |
+|                     | Automations                | @nabeel.bilgrami | @avilla4         |
+|                     | Emails                     | @nabeel.bilgrami | @avilla4         |
+|                     | Extensions/Webhooks        | @nabeel.bilgrami | @avilla4         |
+|                     | Groups                     | @avilla4         | @nabeel.bilgrami |
+|                     | Guide                      | @dnolan1         | @nabeel.bilgrami |
+|                     | Macros                     | @avilla4         | @nabeel.bilgrami |
+|                     | Organizations              | @avilla4         | @nabeel.bilgrami |
+|                     | Roles                      | @avilla4         | @nabeel.bilgrami |
+|                     | SLAs                       | @jcolyer         | @nabeel.bilgrami |
+|                     | Schedules                  | @jcolyer         | @nabeel.bilgrami |
+|                     | Ticket Forms and Fields    | @nabeel.bilgrami | @dnolan1         |
+|                     | Triggers                   | @nabeel.bilgrami | @nabeel.bilgrami |
+|                     | Views                      | @avilla4         | @nabeel.bilgrami |
+|                     | Settings                   | @nabeel.bilgrami | @avilla4         |
+|                     | Procurement                | @jcolyer         | @nabeel.bilgrami |
+| Zendesk US Federal  | ZD<>SFDC Sync              | @jcolyer         | @dnolan1         |
+|                     | Provsioning/Deprovisioning | @jcolyer         | @dnolan1         |
+|                     | Apps                       | @dnolan1         | @jcolyer         |
+|                     | Agent Signatures           | @dnolan1         | @jcolyer         |
+|                     | Automations                | @dnolan1         | @jcolyer         |
+|                     | Emails                     | @dnolan1         | @jcolyer         |
+|                     | Extensions/Webhooks        | @dnolan1         | @jcolyer         |
+|                     | Groups                     | @dnolan1         | @jcolyer         |
+|                     | Guide                      | @dnolan1         | @jcolyer         |
+|                     | Macros                     | @dnolan1         | @jcolyer         |
+|                     | Organizations              | @dnolan1         | @jcolyer         |
+|                     | Roles                      | @dnolan1         | @jcolyer         |
+|                     | SLAs                       | @jcolyer         | @dnolan1         |
+|                     | Schedules                  | @jcolyer         | @dnolan1         |
+|                     | Ticket Forms and Fields    | @dnolan1         | @jcolyer         |
+|                     | Triggers                   | @dnolan1         | @jcolyer         |
+|                     | Views                      | @dnolan1         | @jcolyer         |
+|                     | Settings                   | @dnolan1         | @jcolyer         |
+|                     | Procurement                | @jcolyer         | @dnolan1         |
+| GitLab.com Projects | 1-1 Issue Generator        | @nabeel.bilgrami | @dnolan1         |
+|                     | ADWR                       | @nabeel.bilgrami | @jcolyer         |
+|                     | Account Deletion Form      | @dnolan1         | @nabeel.bilgrami |
+|                     | Customer Ticket Generator  | @avilla4         | @jcolyer         |
+|                     | Support Team Page          | @nabeel.bilgrami | @dnolan1         |
+|                     | Usage Ping Request         | @dnolan1         | @nabeel.bilgrami |
+| Calendly            | Management                 | @avilla4         | @dnolan1         |
+|                     | Procurement                | @jcolyer         | @nabeel.bilgrami |
+| Pagerduty           | Management                 | @nabeel.bilgrami | @dnolan1         |
+| Zapier              | Management                 | @jcolyer         | @nabeel.bilgrami |
+| Status.io           | Provsioning/Deprovisioning | @dnolan1         | @jcolyer         |
+| Access Requests     | Support Onboarding         | @jcolyer         | @nabeel.bilgrami |
+|                     | Internal Licenses          | @dnolan1         | @nabeel.bilgrami |
 
 ## Frequently Asked Questions (F.A.Q.)
 
