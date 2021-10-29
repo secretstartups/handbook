@@ -1081,3 +1081,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-09-13  | 2021-09-24 | [Darren Murph](https://gitlab.com/dmurph) Shadow Alumni | Head of Remote | |
 | 2021-09-20  | 2021-10-01 | [Christen Dybenko](https://gitlab.com/cdybenko) Shadow Alumni | Sr. Product Manager | |
 | 2021-09-28 <br/>2021-10-18 | 2021-10-01 <br/>2021-10-22 | [Kyle Wiebers](https://gitlab.com/kwiebers) | Engineering Manager, Eng Productivity | | 
+| 2021-10-18 | 2021-10-29 | [Omar Eduardo Fernandez](https://gitlab.com/ofernandez2) | Director, Strategy and Operations | |
