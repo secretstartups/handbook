@@ -186,7 +186,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-10-25 | 2021-10-29 | [Taurie Davis](https://gitlab.com/tauriedavis) - Product Design Manager, Foundations | [Omar Fernández](https://gitlab.com/ofernandez2) - Director, Strategy and Operations |
 | 2021-11-01 | 2021-11-05 | UNAVAILABLE | UNAVAILABLE |
 | 2021-11-08 | 2021-11-12 | [REB - Richard E. Baum](https://gitlab.com/xyzzy) - Sr. Solutions Architect |  [Taurie Davis](https://gitlab.com/tauriedavis) - Product Design Manager, Foundations |
 | 2021-11-15 | 2021-11-19 | [David Kim](https://gitlab.com/dskim_gitlab) - Sr. Backend Engineer | [REB - Richard E. Baum](https://gitlab.com/xyzzy) - Sr. Solutions Architect |
