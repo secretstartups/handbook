@@ -104,7 +104,7 @@ team. The current division of responsibilities is:
 |                     | SLAs                       | @jcolyer         | @nabeel.bilgrami |
 |                     | Schedules                  | @jcolyer         | @nabeel.bilgrami |
 |                     | Ticket Forms and Fields    | @nabeel.bilgrami | @dnolan1         |
-|                     | Triggers                   | @nabeel.bilgrami | @nabeel.bilgrami |
+|                     | Triggers                   | @nabeel.bilgrami | @avilla4         |
 |                     | Views                      | @avilla4         | @nabeel.bilgrami |
 |                     | Settings                   | @nabeel.bilgrami | @avilla4         |
 |                     | Procurement                | @jcolyer         | @nabeel.bilgrami |
