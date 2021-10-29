@@ -388,7 +388,7 @@ Candidate should ideally be:
 
 Other qualifications include:
 
-- High proficiency in Ruby or Go. Knowledge of other lanuages is a nice to have. 
+- High proficiency in Ruby or Go. Knowledge of other lanuages is a nice to have.
 - Knowledge of profiling, and performance testing.
 - Understanding of basic database principles and optimisation mechanisms.
 
@@ -410,7 +410,8 @@ Elasticsearch engineers are focused on delivering a first class global search ex
 
 ## Performance Indicators
 * [Backend Unit Test Coverage](/handbook/engineering/development/performance-indicators/#backend-unit-test-coverage)
-* [Mean Time to Merge (MTTM)](/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
+* [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+* [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 
 ## Hiring Process
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).

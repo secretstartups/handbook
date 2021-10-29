@@ -60,7 +60,8 @@ The Frontend Engineer is a [grade 6](/handbook/total-rewards/compensation/compen
 
 ## Performance Indicators
 - [Frontend Unit Test Coverage](/handbook/engineering/development/performance-indicators/#frontend-unit-test-coverage)
-- [Mean Time to Merge (MTTM)](/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
+- [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+- [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 
 ## Hiring Process
 Candidates for a Frontend Engineering position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
