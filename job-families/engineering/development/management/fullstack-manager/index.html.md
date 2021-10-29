@@ -50,23 +50,23 @@ The *Fullstack Engineering Manager* role is a [grade 8](/handbook/total-rewards/
 * Passionate about open source and developer tools
 
 ## Levels
-* Senior [Frontend](/job-families/engineering/development/frontend/senior/), 
-  [Backend](/job-families/engineering/development/backend/senior/), 
+* Senior [Frontend](/job-families/engineering/development/frontend/senior/),
+  [Backend](/job-families/engineering/development/backend/senior/),
   or [Fullstack](/job-families/engineering/development/fullstack/#job-grade) Engineer
-* Fullstack Engineering Manager 
+* Fullstack Engineering Manager
 * [Senior Engineering Manager](/job-families/engineering/development/management/senior-manager/)
 
 
 ## Performance Indicators
 
-Fullstack Engineering Managers have the following job-family performance indicators.
+Fullstack Engineering Managers have the following job-family performance indicators. Performance indicators for a Manager role usually apply to the team, meaning the manager and their direct reports.
 
 * [Key Performance Indicators](/handbook/engineering/development/performance-indicators/#key-performance-indicators)
   * [Past Due Infradev Issues](/handbook/engineering/development/performance-indicators/#past-due-infradev-issues)
-  * [Open MR Review Efficiency (OMRE)](/handbook/engineering/development/performance-indicators/#open-mr-review-efficiency-omre) 
+  * [Open MR Review Efficiency (OMRE)](/handbook/engineering/development/performance-indicators/#open-mr-review-efficiency-omre)
   * [Development Team Member Retention](/handbook/engineering/development/performance-indicators/#development-team-member-retention)
   * [Development Average Age of Open Positions](/handbook/engineering/development/performance-indicators/#development-average-age-of-open-positions)
-  
+
 * [Regular Performance Indicators](/handbook/engineering/development/performance-indicators/#regular-performance-indicators)
   * [Development Department MR Rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
   * [New Hire Average Location Factor](/handbook/engineering/development/performance-indicators/#development-department-new-hire-average-location-factor)
@@ -74,7 +74,7 @@ Fullstack Engineering Managers have the following job-family performance indicat
   * [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
   * [Open To Merge](/handbook/engineering/development/performance-indicators/#open-to-merge)
   * [Overall MRs By Type](/handbook/engineering/development/performance-indicators/#overall-mrs-by-type)
-  
+
 
 ## Hiring Process
 
@@ -95,8 +95,8 @@ Read more about what a [specialty](/company/team/structure/#specialist) is at Gi
 
 ### Fullstack Engineering Manager, Growth
 
-Engineering Managers in the Growth sub-department own the delivery of features and improvements that aim to scale GitLab usage by connecting users to the existing value that GitLab already delivers. 
-The Growth sub-department teams can include fullstack, backend, and frontend engineers and as such engineering managers in Growth are fullstack managers. 
-The Growth sub-department groups are Activation, Adoption, Conversion, Expansion groups, and Product Intelligence. 
-Fullstack Engineering Managers, Growth lead teams of fullstack engineers that work across the breadth of the GitLab project in order to make the necessary frontend and backend changes to test hypothesis that drive improvement in user metrics. 
+Engineering Managers in the Growth sub-department own the delivery of features and improvements that aim to scale GitLab usage by connecting users to the existing value that GitLab already delivers.
+The Growth sub-department teams can include fullstack, backend, and frontend engineers and as such engineering managers in Growth are fullstack managers.
+The Growth sub-department groups are Activation, Adoption, Conversion, Expansion groups, and Product Intelligence.
+Fullstack Engineering Managers, Growth lead teams of fullstack engineers that work across the breadth of the GitLab project in order to make the necessary frontend and backend changes to test hypothesis that drive improvement in user metrics.
 These teams work closely with their counterparts in the Product team to analyze the entire customer journey from acquisition of a customer, to the flow across multiple GitLab features, and even reactivation of lost users.

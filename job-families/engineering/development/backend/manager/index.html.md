@@ -50,9 +50,10 @@ The Backend Engineering Manager role is a [grade 8](/handbook/total-rewards/comp
 * [Backend Engineering Manager](/job-families/engineering/development/backend/manager)
 
 ## Performance Indicators
-Backend Engineering Managers have the following job-family performance indicators.
+Backend Engineering Managers have the following job-family performance indicators. Performance indicators for a Manager role usually apply to the team, meaning the manager and their direct reports.
 
-* [Mean Time to Merge (MTTM)](/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
+* [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+* [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 * [Response to Community SLO](/handbook/engineering/development/performance-indicators/#response-to-community-slo)
 * [Hiring Actual vs. Plan](/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
 * [Development Department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)

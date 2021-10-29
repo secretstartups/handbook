@@ -55,7 +55,9 @@ Backend Engineers at GitLab work on our product. This includes both the open sou
 The Backend Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Performance Indicators
-* [Mean Time To Merge (MTTM)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
+* [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+* [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
+
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
