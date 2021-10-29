@@ -1,6 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Secure Architecture - Engineering discovery: Data model for dependencies information
+title: "Data model for Dependencies Information"
+description: "This document explores additions to the Security reports and to the database schemas
+that would enable new features for Dependency Scanning and License Scanning."
 ---
 
 ## On this page
