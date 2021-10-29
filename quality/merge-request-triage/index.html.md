@@ -34,7 +34,7 @@ The Initial triage is automated by the [Engineering Productivity team][Engineeri
 A merge request is considered partially triaged when it has a:
 
 - [type label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) applied.
-  - (For `~"bug"` and `~"UX Debt"`) It has a [severity label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) applied.
+  - (For `~"type::bug"` and `~"UX Debt"`) It has a [severity label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) applied.
 - [stage label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels) applied.
 - [group label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#group-labels) applied (e.g. `~"group:editor"`). If no group label exists, the stage label is enough.
 
