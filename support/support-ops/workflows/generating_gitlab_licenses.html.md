@@ -60,7 +60,7 @@ graph TD;
 
 * The expiration date is 1 year from license creation date
 * The company name is `GitLab - Team Member License`
-* The user count is 5
+* The user count is 100
 
 Anything deviating from the above will require a reason and approve from a
 Support Operations Manager.
@@ -78,7 +78,7 @@ Support Operations Manager.
    | Email | GitLab team member's company email | No |
    | Zuora subscription ID | leave this blank | No |
    | Zuora subscription name | leave this blank | No |
-   | Users count | 5 | Yes, with support ops managers approval |
+   | Users count | 100 | Yes, with support ops managers approval |
    | Previous users count | 0 or value from the AR | No |
    | Trueup count | 0 or value from the AR | No |
    | Plan code | value from the AR | No |
