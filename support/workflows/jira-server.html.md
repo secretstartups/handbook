@@ -87,7 +87,7 @@ For more information about various uses of Jira Please check out the [Get starte
 
    ![Jira Database setup](assets/Jira_db_setup.png)
 
-1. While waiting for the database to be created,  login to your atlassian account and open https://my.atlassian.com/product .  Generate a license trial license for your server.
+1. While waiting for the database to be created,  login to your atlassian account and open [https://my.atlassian.com/product](https://my.atlassian.com/product) .  Generate a license trial license for your server.
 
    ![Jira Licenses](assets/Jira_licenses.png)
 
@@ -136,7 +136,7 @@ HTTPS connection is **required** for DVCS Connector
    sudo certbot certonly --standalone -d www.example.com
    ```
 
-   ![Jira certbot](assets/Jira_certbot.png)
+   ![Jira certbot](assets/Jira_certbot_successful.png)
 
 1. If everything goes fine. A new SSL will be issued at the below location. Navigate to the below directory and view files.
 
@@ -185,16 +185,26 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
 
    Replace the values accordingly. For `name`, we put it `tomcat` you may change the alias to anything you like but please remember this name.
 
+1. Now convert your `.p12` file to a `.jks` file with the command below. Replace `<your-domain-name>` with your domain name, and `<password>` with the password you used to generate your `.p12` file:
+
+   ```bash
+   keytool -importkeystore \
+   -deststorepass <password> -destkeypass <password> -destkeystore /tmp/<your-domain-name>.jks \
+   -srckeystore /tmp/<your-domain-name>.p12  -srcstoretype PKCS12 -srcstorepass <password> \
+   -alias tomcat
+   ```
+
 1. Copy the generated JKS file to /opt/atlassian/jira/conf
 
    ```bash
    cp /tmp/dwainaina-gitlab-jira-test-runner.sr.gitlab.support.jks  /opt/atlassian/jira/conf/
    ```
 
-1. Change directory to `/opt/atlassian/jira/conf/` and edit the `server.xml`
+1. Change directory to `/opt/atlassian/jira/conf/` and edit the `server.xml`. Before editing your `server.xml` file, consider backing it up first, just in case you need to quickly roll back.
 
    ```bash
    cd /opt/atlassian/jira/conf
+   cp server.xml server_backup.xml
    vim server.xml
    ```
 
@@ -226,7 +236,14 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
 
    Replace the values for your `keyAlias`, `keystoreFile` and `keystrokePass` accordingly.
 
-1. Edit the `web.xml` in conf folder and add the following so that all requests will be handled using the HTTPS
+1. Edit the `web.xml` in conf folder and add the following so that all requests will be handled using the HTTPS. Again, before editing your `web.xml` file, consider backing it up first, just in case you need to quickly roll back.
+
+   ```bash
+   cd /opt/atlassian/jira/conf
+   cp web.xml web_backup.xml
+   vim web.xml
+   ```
+   Add the following lines right after the `<web-app ... version="3.1">` tag:
 
    ```
    <security-constraint>
@@ -250,7 +267,13 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
    jira.home = /PATH/TO/JIRA-HOME
    ```
 
-1. Restart tomcat and check if the site is available in HTTPS.
+1. Restart tomcat and check if the site is available in HTTPS. If you can't find a service with the name tomcat, restart the jira service:
+
+   ```bash
+   systemctl status jira
+   systemctl restart jira
+   systemctl status jira
+   ```
 
    **NOTE:**
    HTTPS port might not be accessible after you restart tomcat.  Run the following command to enable port and apply settings:
@@ -261,6 +284,21 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
    ```
 
 1. The site should now be available as a HTTPs address. Use the credentials you used to configure to now log in.
+
+   **NOTE:**
+   If you still can't access the site using HTTPS, check the permissions of your `/opt/atlassian/jira/conf/<your-domanin-name>.jks` file. Every user should be able to at least read the file. Replace `<your-domain-name>` with your domain name.
+
+   ```bash
+   ll /opt/atlassian/jira/conf/<your-domanin-name>.jks
+   
+   #If you need to change permissions, set it to at least 444 and restart the jira service
+   chmod 444 /opt/atlassian/jira/conf/<your-domanin-name>.jks
+   
+   #Restart the jira service for changes to take effect
+   systemctl status jira
+   systemctl restart jira
+   systemctl status jira
+   ```
 
 ### Common Troubleshooting Steps for Jira tickets
 
