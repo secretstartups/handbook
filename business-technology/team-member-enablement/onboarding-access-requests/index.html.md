@@ -104,9 +104,9 @@ Please only request a Linux laptop if you have experience with this operating sy
 
 We strongly encourage Macs, but we do allow Linux if you are capable of self-support and updates.
 
--  \*\* For Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production (Dell/Linux) - [16”  / 512gig SSD / 32gig RAM / i9 or i7 CPU ](https://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/precision-5540-mobile-workstation/spd/precision-15-5540-laptop/xctop554015us4?configurationid=01b3d81d-57ff-4f71-a79f-f6b81ab2a521)
+-  \*\* For Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production (Dell/Linux) - The 5500 or 5700 Precision Mobile Workstation lines. Due to supply constraints, individuals may get different models from these lines. IT will work with each person to find an available model: [16”  / 512gig SSD / 32gig RAM / i9 or i7 CPU ](https://www.dell.com/en-us/work/shop/laptops/new-15-5560-workstation/spd/precision-15-5560-laptop) 
 
-- Everyone Else (Dell/Linux) - [13” / 256gig SSD / 16gigs RAM / Quad-Core i5 CPU](https://www.dell.com/ng/business/p/latitude-13-7300-laptop/pd)
+- Everyone Else (Dell/Linux) - The 7300 Latitude  line. Due to supply constraints, individuals may get different models from this line. IT will work with each person to find an available model: [13” / 256gig SSD / 16gigs RAM / Quad-Core i5 CPU](https://www.dell.com/en-us/work/shop/laptops/13-7300/spd/latitude-13-7300-laptop)
 
 \*\*NOTE: Max price: **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model minimum 14 days, based on your locality, prior to your desired date to receive.
 
