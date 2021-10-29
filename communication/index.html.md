@@ -1533,4 +1533,4 @@ See the [YouTube page](/handbook/marketing/marketing-operations/youtube/) for op
 
 ## GitLab Communication Knowledge Assessment
 
-Anyone can test their knowledge on GitLab Communication. To obtain a certificate, you will need to complete this [knowledge assessment](https://docs.google.com/forms/d/e/1FAIpQLScyyIQDdC3oN-H6-IJJM1QlZNHaGPI0jESb9ogAfkQlMzKgwQ/viewform) and earn at least an 80%. Once the quiz has been passed, you will receive an email with your certificate that you can share on your personal LinkedIn or Twitter pages. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
+Anyone can test their knowledge on GitLab Communication. To obtain a certificate, you will need to complete this [knowledge assessment](https://gitlab.edcast.com/pathways/ECL-b01718a2-192c-4e0c-9852-31115b1e054f) and earn at least an 80%. Once the quiz has been passed, you will receive an email with your certificate that you can share on your personal LinkedIn or Twitter pages. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
