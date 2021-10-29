@@ -1673,7 +1673,7 @@ If you'd like to check to see when the last pipeline ran (and if it picked up yo
 
 You can also watch [this overview video](https://www.youtube.com/watch?v=rfn9ebgTwKg) demonstrating how to use the `release post item generator`.
 
-*Note: If you find problems with the `release post item generator`, questions should be posted in Slack [#release-post](https://gitlab.slack.com/archives/CTXULEPQD)* or added to the release post retrospective issue, tagging the release post [technical advisor](#technical-advisors). 
+*Note: If you find problems with the `release post item generator`, questions should be posted in Slack #release-post or add feedback to the release post retrospective issue, tagging the release post [technical advisor](#technical-advisors). 
 
 The generator script can also be run on your computer.
 
