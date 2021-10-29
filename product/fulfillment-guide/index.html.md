@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Fulfillment Guide
+description: "The Fulfillment Sub-department is responsible for the infrastructure between the systems which affect the user purchasing process."
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -10,7 +11,7 @@ title: Fulfillment Guide
 
 ## Overview
 
-The Fulfillment Sub-department is responsible for the infrastructure between the systems which affect the user purchasing process, as well as being the primary caretakers of the [CustomersDot](/handbook/engineering/development/fulfillment/architecture/#customersdot) and [LicenseDot](/handbook/engineering/development/fulfillment/architecture/#licensedot) systems.
+The Fulfillment Sub-department is responsible for the infrastructure between the systems which affect the user purchasing process, as well as being the primary caretakers of the CustomersDot](/handbook/engineering/development/fulfillment/#customersdot) and [LicenseDot](https://about.gitlab.com/handbook/engineering/development/fulfillment/#licensedot) systems.
 
 We frequently collaborate with other teams. For example if we are making a change which will affect [usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping) we collaborate with the [Product Intelligence group](/handbook/product/categories/#product-intelligence-group). When our work involves or affects any backend enterprise application, we collaborate with the [Sales Systems team](/handbook/sales/field-operations/sales-systems/).
 
