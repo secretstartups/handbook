@@ -178,7 +178,8 @@ The {Senior Manager, Security Compliance} is a [grade 9](/handbook/total-rewards
 ### Dedicated Markets
 The dedicated markets specialty is for compliance professionals highly skilled in federal, financial, life sciences and other highly regulated markets. Areas of expertise include Federal, Financial and Quality domains.
 
-#### Manager, Security Compliance - Dedicated Markets Responsibilities
+#### Dedicated Markets Responsibilities
+For level: Manager, Security Compliance 
 * Hire and oversee a world class team of security compliance engineers experienced in regulated markets
 * Hold regular 1:1s with team members
 * Work closely with the Manager, Security Compliance and provide requirements for the common control framework aligned with GitLab's dedicated markets certification roadmap 
@@ -192,7 +193,8 @@ The dedicated markets specialty is for compliance professionals highly skilled i
 * Identify and implement automation of manual processes to shorten processes and cycles
 * Successfully execute on quarterly OKR(s)
 
-#### Manager, Security Compliance - Dedicated Markets Requirements
+#### Dedicated Markets Requirements
+For level: Manager, Security Compliance 
 * At least 3 years prior experience managing security compliance teams supporting regulated markets and FedRAMP ATO
 * Experience leveraging OSCAL for SSP development and OSCAL validation tools for continuous control monitoring
 * Detailed knowledge of regulated information security management frameworks, regulatory requirements and applicable standards such as: NIST 800-53/FedRAMP, NIST 800-171/CMMC, DoD IL, STIGs, FIPS 140-2, HITRUST, GxP, ISO 9001, SOC 1 and SOC 2
