@@ -56,7 +56,6 @@ For example, we should have one SSoT for how to articulate the value of GitLab.
 1.  [Customer Success Skills Exchange Sessions](/handbook/sales/training/customer-success-skills-exchange/)
 1.  [Professional services offerings](/handbook/customer-success/professional-services-engineering/framework/#service-offering-framework/)
 1.  [Onboarding](/handbook/people-group/general-onboarding/) both general and department specific
-1.  [Reseller onboarding](/handbook/resellers/onboarding/)
 1.  [Learn@GitLab](https://about.gitlab.com/learn/)
 1.  [Customer Success GitLab Demos platform & catalog](https://gitlabdemo.com/)
 1.  [Customer Services Guided Explorations](https://gitlab.com/guided-explorations) ([How Guided Explorations are engineered for compounded reuse for competency development](https://gitlab.com/guided-explorations/guided-exploration-concept/-/blob/master/README.md))
