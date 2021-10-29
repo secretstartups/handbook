@@ -122,12 +122,14 @@ exists on. If you are sure you wish to confirm the deletion, click the red
 
 | Label                      | Category | Purpose |
 |----------------------------|----------|---------|
+| `Milestone::Missed` | Milestone | The issue/MR has missed the due date of its milestone |
+| `Milestone::Missing` | Milestone | The issue/MR is missing a milestone |
 | `SupportOps::To Do` | Progress | No one has begun working it |
 | `SupportOps::Doing` | Progress | Someone is actively working it |
 | `SupportOps::Completed` | Progress | Someone has completed all work on it |
 | `SupportOps::Blocked` | Progress | Support Ops is unable to work on it due to an external blocker |
 | `SupportOps::Backlog` | Progress | Support Ops has determined the issue/MR is needed, but is not able to prioritize it at this time |
-| `SupportOps::Needs Triage` | Progress | The issue is in need of triage |
+| `SupportOps::Needs Attention` | Progress | The issue is in need of triage |
 | `Support-Ops-Category::Account Deletions` | Categorization | It is about account deletions |
 | `Support-Ops-Category::Agent Signatures` | Categorization | It is about agent signatures |
 | `Support-Ops-Category::Apps` | Categorization | It is about Zendesk Apps |
