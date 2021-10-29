@@ -69,12 +69,11 @@ Below are some rules (per [PMG advice](https://gitlab.com/gitlab-com/marketing/d
 
 You can choose a campaign medium from a provided picklist of values in the URL Builder spreadsheet. If you need a new campaign medium, please check with the Digital Marketing Programs team as new mediums will not automatically be attributed correctly.
 
-
 #### utm_source
 {: #utm-source .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-**Campaign Source** The source-based URL parameter can tell you which website is sending the traffic. The source is a further "slicing" of overall channels. It answers the question of "how did they come to us?" but with more granular details than utm_medium.Examples include `ebook`, `twitter`, or `qrcode`
+**Campaign Source** The source-based URL parameter can tell you which website is sending the traffic. The source is a further "slicing" of overall channels. It answers the question of "how did they come to us?" but with more granular details than utm_medium. Examples include `ebook`, `twitter`, or `qrcode`.
 
 #### utm_campaign
 {: #utm-campaign .gitlab-purple}
@@ -89,21 +88,29 @@ Using proper `utm_campaign` values below will minimize number of manual updates 
 * iacgitops = GitOps Campaign
 * devopsgtm = DevOps Platform Campaign
 * vccusecase = VC&C Campaigns (retired)
+* competegh = OctoCat Competitive
+
 #### utm_content
 {: #utm-content .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-`utm_content` indicates the content offered by the URL. This is being done currently in publisher utms, and will be instrumented in nurture emails through the [intelligent nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836) project.
+**Campaign Content** (`utm_content`) indicates the content offered by the URL. This is being done currently in publisher utms, and will be instrumented in nurture emails through the [intelligent nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836) project.
 
 See values in [this googlesheet](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=232997146) in column `utm_content=`. These are continually changed as new content is developed, and therefore new `utm_content` values are added.
+
+#### utm_term 
+{: #utm-campaign .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+**Campaign Term** (`utm_term`) mainly used for tracking ROI on paid keywords in PPC (Pay Per ClicK) campaigns but can also be used to track any keyword or any additional campaign info.
 
 #### utm_budget
 {: #utm-campaign .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-`utm_budget` indicates which budget is used for the campaign promotion. 
+**Campaign Budget** (`utm_budget`) indicates which budget is used for the campaign promotion. 
 
-Values:
+Values (available as picklist in the UTM builder googlesheet):
 * fmm	= Field Marketing
 * dmp	= Digital Marketing
 * corp = Corporate Marketing
@@ -111,15 +118,47 @@ Values:
 * ptnr = Partner Marketing
 * chnl = Channel
 
+#### utm_allptnr
+{: #utm-campaign .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+**Alliance Partner** (`utm_allptnr`) indicates which partner is part for the campaign. 
+
+Values (available as picklist in the UTM builder googlesheet):
+* fmm	= Field Marketing
+* dmp	= Digital Marketing
+* corp = Corporate Marketing
+* abm	= Account Based Marketing
+* ptnr = Partner Marketing
+* chnl = Channel
 
 ## UTMs in Practice
 {: #utms-in-practice .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-UTM parameters provide three key benefits: They help you track the value of your marketing initiatives and measure ROI. They provide precise data about conversion and traffic sources. They allow you to test individual posts head-to-head in classic A/B testing style.
+UTM parameters provide three key benefits: 
+* They help track the value of marketing initiatives and measure ROI. 
+* They provide precise data about conversion and traffic sources. 
+* They allow you to test individual posts head-to-head in classic A/B testing style.
 
-Example:  
+Here’s a UTM example link with parameters in place:
+`https://page.gitlab.com/dora-report-roundtable.html?utm_medium=social&utm_source=facebook&utm_campaign=devopsgtm&utm_content=fy22q3amerlargeawareness&utm_term=na&utm_budget=dmp&utm_allptnr=aws`
 
+The UTM parameters are everything that comes after the question mark:
+
+* utm_medium=social
+* utm_source=facebook
+* utm_campaign=devopsgtm
+* utm_content=fy22q3amerlargeawareness
+* utm_term=na 
+* utm_budget=dmp
+* utm_allptnr=aws
+
+There are seven different UTM parameters in this example. You should use the first four in all UTM tracking links, with the last three being optional.
+
+Another example, more specific to paid digital campaigns:
+
+https://page.gitlab.com/achieve-devsecops-cicd-ebook.html?utm_medium=cpc&utm_source=google&utm_campaign=devsecopsusecase_amer_pr_rsa_nb_exact&utm_content=achievedevsecopsebook_digital_x-pr_english_&utm_term=devsecops&utm_budget=dmp
 
 ### UTM structure for nurture emails
 {: #utms-nurture-emails .gitlab-purple}
@@ -141,7 +180,6 @@ Example:
 
 ## Marketo > Bizible integration
 {: #marketo-bizible .gitlab-purple}
-Bizible is our marketing attribution software that allows for connecting marketing and sales touchpoints over a prospect’s or customer’s lifecycle directly to revenue. It also allows us to directly tie the investment in our online advertising to records within our database. Bizible allows us to track our marketing activities at a more granular level within Salesforce, our single source of truth.
 
 Marketo is our marketing automation platform used for email marketing, lead management, and program management.
 Through Bizible’s integration with Marketo, we create touchpoints for attribution tracking from Marketo’s Program Memberships. This capability allows to track program memberships from email or engagement programs that are otherwise not seen by Bizible’s javascript and should be measured within the attribution journey.
