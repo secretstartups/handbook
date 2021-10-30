@@ -119,7 +119,7 @@ The debrief should include the People Business Partner, AMA Facilitator and DIB 
 
 AMA meetings always start with an [agenda](https://docs.google.com/document/d/1-wrI4GB8N74O5AUmdnj916uhCbrL2adM8wbD_unrbac/edit?usp=sharing). Ensure that the agenda document is added to the calendar invite at the initial time it is sent to allow everyone to be involved. All questions and answers should be documented in the agenda to allow those who can not attend to catch up as well as to avoid team members talking over each other.
 
-Whenever possible AMAs should be private or publicly [live streamed](/handbook/marketing/marketing-operations/youtube/#live-streaming). Please strive to remain [public by default](/handbook/values/#public-by-default) when hosting an AMA unless it is centered around a topic that is [not-public](/handbook/values/#not-public)
+Whenever possible AMAs should be private or publicly [live streamed](/handbook/marketing/marketing-operations/youtube/#public-or-private-streaming). Please strive to remain [public by default](/handbook/values/#public-by-default) when hosting an AMA unless it is centered around a topic that is [not-public](/handbook/values/#not-public)
 
 ### Process Once Reverse AMA is Setup
 
