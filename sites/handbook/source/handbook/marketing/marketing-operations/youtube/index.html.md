@@ -20,7 +20,7 @@ There are two YouTube channels we use at GitLab:
 
 Everything posted to our **Branded** channel should pass through digital production for quality control on branding and production standards. If you are wondering if your video should go on the Branded channel, reach out to the [Digital Production team in Slack](https://gitlab.slack.com/archives/C01LRUKFQTB).
 
-## Live Streaming
+## Public or Private Streaming
 
 Everyone within the GitLab team is encouraged to live stream their meetings and events on GitLab Unfiltered. First time livestreaming? Find out how below!
 
@@ -264,7 +264,7 @@ Therefore say:
 - Public recording
 - Private recording
 
-Never say: livestream or recording since those are ambiguous.
+Never say: livestream or recording since those are ambiguous. See [top misused terms](/handbook/communication/top-misused-terms/#livestream).
 
 ### What if your aren't sure whether the stream is Public or Private?
 
@@ -291,7 +291,7 @@ The below instructions apply to livestreams to YouTube.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xGwX9zjNr2E?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-1. Default to [livestreaming](#live-streaming) instead of uploading.
+1. Default to [public or private streaming](#public-or-private-streaming) instead of uploading.
 1. Please follow the process for [starting the recorded video](/handbook/tools-and-tips/zoom/#recording-in-zoom).
 1. Unless stated or arranged otherwise, our expected behavior is that the meeting organizer is responsible for distributing the video after the meeting.
 1. Log in to the [Zoom](https://zoom.us/) account of the meeting and go to the menu on the right and choose "My Recordings" (it can take up to 30 minutes before the recording is available to be shared).
