@@ -10,7 +10,7 @@ description: "Overview of Anti-Corruption Policy"
 {:toc .hidden-md .hidden-lg}
 
 # ANTI-CORRUPTION POLICY
-**_THIS POLICY WAS APPROVED BY THE BOARD OF DIRECTORS OF THE COMPANY ON SEPTEMBER 14, 2021
+**THIS POLICY WAS APPROVED BY THE BOARD OF DIRECTORS OF THE COMPANY ON SEPTEMBER 14, 2021
 
 
 ### PURPOSE
@@ -47,10 +47,10 @@ It is important to avoid even the appearance of impropriety.  If you have any qu
 
 Any doubts about whether a particular person is a government official should be resolved by assuming that the individual involved is a government official for purposes of the FCPA or the Anti-Corruption Laws.
 
-**What does “anything of value_” mean?**
+**What does “anything of value” mean?**
 “Anything of value” includes money and monetary equivalents (such as gambling chips and gift cards), entertainment, accommodations, and any other benefit.  There is no “minimum” required under the FCPA – any amount can be sufficient to trigger a violation.
 
-**What is an “-improper advantage”?**
+**What is an “improper advantage”?**
 An “improper advantage” includes payments intended to wrongfully:
 
  1. influence a decision by a government official, including a failure to perform their official functions; 
@@ -155,9 +155,7 @@ The CLO or a designee will conduct a periodic review to confirm the adequacy and
 
 From time to time, Gitlab’s Team Members and Partners may be required to complete training regarding the FCPA and, more broadly, the Anti-Corruption Laws and sign a certification acknowledging commitment to, full understanding of, and compliance with this Anti-Corruption Policy.  The acknowledgment statement shall be included in the personnel file of each Team Member and Partner.  Any Team Member or Partners who violate this Policy or who fail to make or falsify any certification required under this Policy may be subject to disciplinary action, up to and including termination of employment or of the business relationship.
 
-                                                **GitLab Inc.**
-
-
+                                                
 # TEAM MEMBER CERTIFICATION REGARDING COMPLIANCE WITH ANTI-CORRUPTION POLICY
 
 I have read and understand the Anti-Corruption Policy (the “**_Anti-Corruption Policy_**”) of GitLab Inc. (“**_GitLab_**” or “**_Company_**”).  I undertake to comply with the provisions of the Anti-Corruption Policy.  I hereby represent that:
@@ -181,18 +179,16 @@ I have engaged in or observed the following incidents of potential non-complianc
 I understand that a false, misleading or incomplete statement in this certification of compliance or other violation of the Anti-Corruption Policy may be grounds for termination of employment or of the business relationship.
 
 Date: 
- ________________________
+ ________________________________________________
 
 Signature: 	 
- ________________________
+ ________________________________________________
 
 Name printed: 
-
- ________________________
+ ________________________________________________
 
 Title:		
-
- ________________________
+ ________________________________________________
 
 
 
