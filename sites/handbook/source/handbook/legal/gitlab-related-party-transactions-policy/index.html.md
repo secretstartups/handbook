@@ -12,41 +12,40 @@ description: "Overview of the Related Party Transactions Policy at GitLab."
 {:toc .hidden-md .hidden-lg}
 
 # GITLAB INC. RELATED PARTY TRANSACTIONS POLICY
+**_THIS POLICY WAS AMENDED AND RESTATED BY THE BOARD ON SEPTEMBER 14, 2021_**
 
-## THIS POLICY WAS AMENDED AND RESTATED BY THE BOARD ON SEPTEMBER 14, 2021
 
-
-## PURPOSE
+### PURPOSE
 At GitLab Inc. (the “**_Company_**”), we aim to lead by example. We set high standards for our team members at all levels and strive to meet them consistently. Our sound business principles and practices foster our commitment to ethical behavior, accountability and transparency. We expect our directors, officers and team members to avoid conflicts of interest, that is, any activity that interferes with the performance of their duties or that might deprive us of their undivided loyalty in business dealings. Conflicts of interest can come up in various ways, even in situations where the transaction may benefit the Company and our stockholders. This Related Party Transactions Policy (the “**_Policy_**”) deals specifically with those situations where the Company (including any of our subsidiaries) is a party to a transaction with a Related Party. Although our Code of Business Conduct and Ethics addresses this issue generally, we have adopted this Policy to formalize our procedures for the identification, review, and consideration and approval of the Audit Committee of our Board of Directors (the “**_Audit Committee_**”) of any transactions involving the Company and a Related Party. This Policy has been approved by our Board of Directors (“**_Board_**”).
 
-
-# PERSONS COVERED BY THIS POLICY
+### PERSONS COVERED BY THIS POLICY
 
 This Policy applies to all of our executive officers, any person the Company knows to be the beneficial owner of more than 5% of any class of our voting securities (a “**_significant stockholder_**”), and members of our Board.
 
-# APPROVAL AUTHORITY
+### APPROVAL AUTHORITY
 Our “**_Approval Authority_**” will be our Audit Committee. In a situation where a member of our Audit Committee is a Related Party in the proposed transaction, our Nominating and Corporate Governance Committee will be the Approval Authority.
 
-# WHO IS A RELATED PARTY?
+### WHO IS A RELATED PARTY?
 
 You are a Related Party if you are:
 
-        1. a person who is, or at any time since the beginning of our last fiscal year was, a director or executive officer of the Company or a nominee to become a director;
-        2. a significant stockholder; or an immediate family member of a director, director nominee, executive officer or significant stockholder. This includes any child, stepchild, parent, stepparent, spouse, sibling, in-law (mother, father, son, daughter, brother, sister) of such person, and any person (other than a tenant or employee) sharing the household of such person.
+1. a person who is, or at any time since the begining of our last fiscal year was, a director or executive officer of the Company or a nominee to become a director;
 
-# WHAT TYPES OF TRANSACTIONS ARE COVERED BY THIS POLICY?
+2. a significat stockholder, or an immediate family member of a director, director nominee, executive officer or signifiant stockholder. This includes any chiild stepchild, parent, stepparent, spouse, sibbling, in-law (mother, father, son, daughter, brother, sister) of such person, and any person (other than a tenant or employee) sharing the household of such person. 
+
+### WHAT TYPES OF TRANSACTIONS ARE COVERED BY THIS POLICY?
 
 Any transaction, arrangement or relationship (including any indebtedness or guarantee of indebtedness) or any series of similar transactions, arrangements or relationships, in which:
 
+1. the Company (including any of our subsidiaries) was, is or will be a participant;
 
-        1. the Company (including any of our subsidiaries) was, is or will be a participant;
-        2. the aggregate amount involved will or may be expected to exceed $120,000 in any fiscal year; and
-        3. any Related Party had, has or will have a direct or indirect material interest.
+2. the aggregate amount involved will or may be expected to exceed $120,000 in any fiscal year; and 
+
+3. any Related Party had, has or will have a direct or indirect materal interest. 
 
 Any transaction that meets the above criteria is referred to as a “**_Related Party Transaction_**.”
 
-
-# IDENTIFYING RELATED PARTIES
+### IDENTIFYING RELATED PARTIES
 
 We have established a process to identify any Related Party to assist us in enforcing this Policy.
 
@@ -62,11 +61,11 @@ This list also will include the name of each charitable or non-profit organizati
 
 Directors and executive officers are expected to notify our Legal Team of any updates to the list of Related Parties, including updates to their employment and relationships with charitable organizations.
 
-## **Significant Stockholders**
+**Significant Stockholders**
 
 When the Company learns that a person has become a significant stockholder, our Legal Team will examine relevant filings with the U.S. Securities and Exchange Commission (“**_SEC_**”) (to the extent such information is available) to determine (a) if the person is an individual, the same information requested of directors and executive officers under this Policy, and (b) if the person is a firm, corporation or other entity, a list of principals or executive officers of such firm, corporation or entity.
 
-# APPROVAL PROCESS
+### APPROVAL PROCESS
 
 **Advance Approval**
 
@@ -111,6 +110,6 @@ Unless there are special or unusual benefits to the Related Party in a proposed 
 8. (a) directors and officers insurance policies, (b) our amended and restated Certificate of Incorporation or Bylaws, and/or (c) any other policy or agreement approved by the Board; and
 9. _Other transactions_: Any transaction with a Related Party (i) where the rates or charges involved are determined by competitive bids; (ii) involving the rendering of services as a common or contract carrier or public utility, at rates or charges fixed in conformity with law or governmental authority; or (iii) involving services as a bank depositary of funds, transfer agent, registrar, trustee under a trust indenture or similar services.
 
-# CHANGES TO THIS POLICY
+### CHANGES TO THIS POLICY
 The Audit Committee may recommend future amendments to this Policy for consideration by our Board. Our Board reserves the right in its sole discretion to modify or grant waivers to this Policy. Any amendments or waiver may be publicly disclosed if required by applicable laws, rules and regulations.
 
