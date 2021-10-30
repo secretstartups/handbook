@@ -413,5 +413,5 @@ Once Zoominfo sends inbound files to Gitlab, Shared database ZOOMINFO_INBOUND is
 * `"ZI_REFERENCE_TECHS"` - This is a Technograph table that has a list of technologies used by companies in their database.This is a one time share.
 * `"GITLAB_CONTACT_ENHANCE"` -This is a User table company matched table which appends company information to the user list Gitlab sends to zoominfo. Gitlab sends Zoominfo only once but the appended data can be refreshed quarterly.
 
-![image-5.png](./image-5.png)
+![image.png](./image.png)
 
