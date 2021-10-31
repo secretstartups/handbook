@@ -313,6 +313,8 @@ each PM creates for each feature.
 
 The `bin/release-post-assemble` script makes this easy to do:
 
+Make sure to run the sscript this location: `gitpod /workspace/www-gitlab-com $`
+
 ```bash
   git checkout master
   git pull
