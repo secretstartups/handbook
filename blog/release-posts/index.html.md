@@ -1029,6 +1029,8 @@ features:
   top:
 ```
 
+If you wish to promote a primary feature to a top feature. Edit the features `.yml` file and change the word `primary` to `top`. In the MR where you have edited the file, ping the release post manager to let them know about this change.
+
 #### Primary features
 
 Features with higher impact, displayed in rows after the top feature, with an image next to its text. An image accompanying the description is required. A [video](#videos) can also be added to replace the image.
