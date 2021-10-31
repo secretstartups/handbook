@@ -22,9 +22,9 @@ GitLab uses Slack profiles as an internal team directory, where team members can
 ## Letter of Employment
 {: #letter-of-employment}
 
-If you need a letter from GitLab verifying your employment/contractor status or that you work remotely, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeop7IJJtN9OWasZl9S992sH5iNio0j916SJa0mBDgc2-2hNA/viewform). The letter will  be generated and sent to the team directly as per this [automation](/handbook/people-group/engineering/miscellaneous/#letter-of-employment). 
+If you need a letter from GitLab verifying your employment/contractor status or that you work remotely, please submit this [form](https://docs.google.com/forms/d/e/1FAIpQLSeop7IJJtN9OWasZl9S992sH5iNio0j916SJa0mBDgc2-2hNA/viewform). The letter will  be generated and sent to the team member directly as per this [automation](/handbook/people-group/engineering/miscellaneous/#letter-of-employment). 
 
-The Letter includes the following data points from BambooHR; 
+The Letter includes the following data points from your BambooHR record; 
 - Team Member Name
 - GitLab Entity 
 - Pay Amount and Frequency 
