@@ -11,11 +11,12 @@ You can find more information on the [structure and process](/handbook/people-gr
 
 * [Crucial Conversations Cohort 2](/handbook/people-group/learning-and-development/learning-initiatives/#crucial-conversations) 
 * [FY22-Q3 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/) 
+* Completed the [Fifth Iteration of the Manager Challenge](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/), over 20 [Managers and Aspiring Managers](https://docs.google.com/presentation/d/1s_yNEKLVDJ-nYTsvD568lpz1Bfan6qIZoZrY0ZEEkHI/edit#slide=id.gd2286d9050_0_7) completed the training!
 
 ## Upcoming in Q4
 
 * Crucial Conversations Cohort with the Security Team
-* abc 
+* [LifeLabs Learning](https://lifelabslearning.com/) Pilot (More Details to Come!) 
 
 ## Learning Spotlight 
 
