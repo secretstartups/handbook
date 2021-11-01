@@ -615,6 +615,7 @@ If you are currently employed and have any general COBRA questions, feel free to
 **Medical**
 
 2021
+
 | Tier                           | Cigna EPO   | Cigna HDHP HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
 |--------------------------------|:---------:|:-------------:|:----------:|:-----------------:|:----------------:|:--------------:|:------------:|
 | Team Member Only               | $562.21   |   $423.75     | $549.39   |     $532.72       |     $532.72      |    $734.04     |   $495.41    |
@@ -624,6 +625,7 @@ If you are currently employed and have any general COBRA questions, feel free to
 | Family                         | $1,699.62 |   $1,270.30   | $1,660.70  |     $1,613.74     |     $1,613.74    |    $2,202.12   |   $1,486.24  |
  
  2022
+
 | Tier                           | Cigna EPO   | Cigna HDPHP HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
 |--------------------------------|:---------:|:-------------:|:----------:|:-----------------:|:----------------:|:--------------:|:------------:|
 | Team Member Only               | $617.15   |   $461.04     | $602.85   |     $545.89       |     $545.89      |    $829.45     |   $523.05    |
@@ -636,6 +638,7 @@ If you are currently employed and have any general COBRA questions, feel free to
 **Dental**
  
  2021
+
 | Tier                           | Cigna DPPO |
 |--------------------------------|:----------:|
 | Team Member Only               |   $39.77   |
@@ -645,6 +648,7 @@ If you are currently employed and have any general COBRA questions, feel free to
 | Family                         |   $140.24  |
 
 2022
+
 | Tier                           | Cigna DPPO |
 |--------------------------------|:----------:|
 | Team Member Only               |   $41.13   |
