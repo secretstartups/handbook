@@ -35,6 +35,9 @@ When hovering on the far left of the screen, a sidebar will pop up that has a fe
 - Timeline - this [Timeline](/handbook/customer-success/tam/gainsight/timeline/#timeline-view) view shows all customers, rather than an individual customer which can be found on a [Customer 360](#customer-360).
 - Cockpit - the Cockpit is where [CTAs](/handbook/customer-success/tam/gainsight/ctas/) live; this Cockpit view shows all CTAs for all of your customers, including success plan objectives.
 
+#### Further detail on specific dashboards
+1. [TAM Proactive Dashboard](https://about.gitlab.com/handbook/customer-success/tam/gainsight/dashboards/)
+
 ### Customer 360
 
 The Customer 360 (or C360) is the full overview for each individual account.
