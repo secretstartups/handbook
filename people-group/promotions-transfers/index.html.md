@@ -266,6 +266,7 @@ When reviewing compensation for a transfer in Greenhouse, the Total Rewards team
     - The promotion document - the manager will ensure the promotion document is editable by those in the approval chain before submitting to the E-Group leader.
     - Any proposed change to variable compensation (if applicable)
     - If applicable, any business justification for an increase greater than 10% or above the compensation calculator.
+- Once a promotion has been submitted, you can view the status of the promotion's approval from your [BambooHR Sent Requests](https://gitlab.bamboohr.com/inbox/sent_requests/) and navigating to the `Promotion` section. You will be asked within that process (and notified by your People Business Partner) to approve the recommended compensation changes before the process proceeds.
 - Managers should not communicate any promotion or salary adjustment until the request has gone through the entire approval process and you receive an adjustment letter from People Connect Team.
 
 ### BambooHR Promotion Approval Process
