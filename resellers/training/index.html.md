@@ -17,7 +17,6 @@ description: "To support and scale GitLab’s continued growth and success, the 
 GitLab has created a robust training and certification program to enable partners in our ecosystem to sell, market, service and support GitLab prospects and customers.  Training materials and learning paths have been developed to support different partner roles:
 
 
-
 *   Sales Professionals
 *   Technical Sales Professionals
 *   Technical and Consulting Services Professionals 
@@ -27,28 +26,29 @@ GitLab has created a robust training and certification program to enable partner
 <img src="/images/partnerenablement/doc-pencil.png" width="150" alt="" title="GitLab Certifications">    <img src="/images/partnerenablement/illustration_announcement.png" width="175" alt="" title="GitLab Certifications">
 
 **Validate your skills, knowledge and receive recognition for your individual mastery in GitLab!**
+**Help your company meet program requirements and capture the GitLab product sales and services opportunity!**
 
-Training courses, certification exams and other enablement materials can be accessed on the GtlLabPartner Portal (hyperlink).
+Training courses, certification exams and other enablement materials can be accessed through the [GitlLab Partner Portal](partners.gitlab.com).
 
 ### Training and Certifications for Sales Professionals
 
 #### GitLab Sales Core
-This is the basic certification for sales and the prerequisite for pre-sales technical professionals. The curriculum provides an overview of the market GitLab services, customer personas and needs, GitLab solutions and positioning of GitLab. Estimated completion time: 3.5 hours
+This is the basic certification for sales and the prerequisite for pre-sales technical professionals. The curriculum provides an overview of the market GitLab services, customer personas and needs, GitLab solutions and positioning of GitLab. 
 
-By completing the GitLab Sales Core and scoring above 80% on the tests, you’ll earn a GitLab Verified Core Sales completion badge and contribute to the Sales certification program requirements for your company. Formal individual sales certifications will be available by early 2021.
+By completing the GitLab Sales Core and scoring above 80% on the tests, you’ll earn a GitLab Verified Core Sales completion badge and contribute to the Sales certification program requirements for your company. To earn a full GitLab Sales certification, you need to complete both the GitLab Sales Core plus at least two Advanced Use Cases courses.  Estimated completion time: 3.5 hours
 
 <details>
 <summary markdown='span'>
   GitLab Sales Core
 </summary>
 
-<b>Partner Tools and Program:</b>
+<b>Best Practices Selling GitLab:</b>
 
 <ul>
-<li>Partner Portal</li>
-<li>Deal Registration</li>
-<li>Deal Registration Update as of March 22nd</li>
-<li>You’ve Got Issues</li>
+<li>Identifying Customer Pain</li>
+<li>The Economic Buyer</li>
+<li>Decision Criteria and Process</li>
+<li>Competition</li>
 </ul>
 
 <b>DevOps Technology Landscape:</b>
@@ -62,44 +62,27 @@ By completing the GitLab Sales Core and scoring above 80% on the tests, you’ll
 <li>QUIZ:  DevOps Technology Landscape</li>
 </ul>
 
-<b>Introduction to GitLab:</b>
+<b>Welcome to GitLab:</b>
 
 <ul>
-<li>What is GitLab Video</li>
-<li>GitLab Infomercial</li>
-<li>Toolchain White Paper</li>
-<li>GitLab Value Framework</li>
-<li>QUIZ: Introduction To GitLab</li>
-</ul>
-
-<b>Competitive Advantages & Strategy:</b>
-
-<ul>
-<li>Competitor Overview</li>
-<li>GitLab vs. GitHub</li>
-<li>QUIZ: Competition</li>
+<li>Introduction to GitLab</li>
+<li>GitLab Values </li>
+<li>QUIZ: Welcome To GitLab</li>
 </ul>
 
 <b>GitLab Portfolio:</b>
 
 <ul>
-<li>GitLab Company Presentation</li>
-<li>Feature Comparison</li>
-<li>Why Sell Ultimate</li>
-<li>Pricing</li>
-<li>Use Cases</li>
+<li>GitLab Portfolia</li>
+<li>Tiers and Features</li>
 <li>QUIZ:  GitLab Portfolio</li>
 </ul>
 
 <b>GitLab Customers and Personas:</b>
 
 <ul>
-<li>GitLab Value - Discovery Guide</li>
+<li>GitLab CUstomers</li>
 <li>Customer Success Stories & Proof Points</li>
-<li>DevOps Director Buyer Persona</li>
-<li>OPTIONAL - Learn about Other Buyer Personas</li>
-<li>QUIZ: GitLab Customers</li>
-</ul>
 
 </details>
 
@@ -109,7 +92,7 @@ By completing the GitLab Sales Core and scoring above 80% on the tests, you’ll
 ### Training and Certifications for Technical Sales Professionals (Solution Architects / Sales Engineers)
 
 #### GitLab Solution Architect Core
-This is the basic certification for pre-sales technical professionals and provides a deeper understanding of demonstrating, deploying, integrating and optimizing GitLab solutions. This path is a mix of online learning and hands-on labs. GitLab Sales Core is the prerequisite for GitLab Solution Architect Core. GitLab Solution Architect Core meets the program requirement for Pre-sales technical certification, and individuals will recieve a GitLab Core Solution Architecture completion badge. NOTE: The hands-on lab components for this certification are not yet available for partners. Partners will be notified once it is available and will be able to earn a certification at that time. Estimated completion time: 5 hours
+This is the basic certification for pre-sales technical professionals and provides a deeper understanding of demonstrating, deploying, integrating and optimizing GitLab solutions.  This certification is a mix of online learning and hands-on labs. GitLab Sales Core is the prerequisite for GitLab Solution Architect Core.  GitLab Solution Architect Core meets the program requirement for Pre-sales technical certification, and individuals will recieve a GitLab Core Solution Architecture completion badge. NOTE: The hands-on lab components for this certification are not yet available for partners. Partners will be notified once it is available and will be able to earn a certification at that time. Estimated course completion time: 5 hours
 
 <details>
   <summary markdown='span'>
@@ -144,31 +127,12 @@ This is the basic certification for pre-sales technical professionals and provid
 
 <img src="/images/partnerenablement/gitlab-verified-sales-architect-personal.png" width="150" alt="" title="GitLab Verified Solution Architect Core Partner">
 
-#### GitLab Technical Core
-GitLab Technical Core is the foundational technical training for post-sales technical professionals and can also be a valuable training for pre-sales technical professionals. As we continue to develop our services enablement offerings, partners will need to develop a custom plan with their Channel Account Managers to meet the certification requirements.
-
-<details>
-  <summary markdown='span'>
-  GitLab Technical Core
-</summary>
-
-<b>GitLab Technical Fundamentals</b>
-
-<ul>
-<li>Using GitLab as a Project Management Tool</li>
-<li>GitLab Basics for Developers</li>
-<li>Getting Started with GitLab CI/CD</li>
-<li>QUIZ: GitLab Technical Fundamentals</li>
-</ul>
-
-</details>
-
 
 ### Training and Certifications for Technical and Consulting Services Professionals
 
 **Training and Certifications**
 
-GitLab offers Sales and technical certifications that are designed to ensure Partners have the ability to apply GitLab core competencies in the field and within their own practices.  To earn a certification, candidates must first complete all relevant course material and then pass the assessment test with a score of 80% or greater. 
+GitLab offers technical certifications that are designed to ensure Partners have the ability to apply GitLab core competencies in the field and within their own practices.  To earn a certification, candidates must first complete all relevant course material and then pass the assessment test with a score of 80% or greater. 
 
 <details>
   <summary markdown='span'>
@@ -192,7 +156,7 @@ GitLab offers Sales and technical certifications that are designed to ensure Par
 
 </details>
 
-**GitLab Professional Services Engineer (PSE) Certification Exam**
+**GitLab Professional Services Engineer (PSE) Certification **
 
 Individuals who earn the GitLab Professional Services Engineer (Partner) certification are able to demonstrate hands-on proficiency implementing GitLab, and are able to articulate the most common GitLab customer use cases. Estimated completion time: 20-25 hours
 
