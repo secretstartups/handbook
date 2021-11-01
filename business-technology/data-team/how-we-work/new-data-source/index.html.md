@@ -80,7 +80,7 @@ graph LR
     fivetran_connector_available{Fivetran connector available?}
     stitch_connector_available{Stitch connector available?}
     data_is_ext_snowflake_sources{Data is in different Snowflake Account}
-    singer_option{Singer Optionable?}
+    singer_option{Singer Tap Possible?}
 
 %%end solutions
     Custom([Custom development])
