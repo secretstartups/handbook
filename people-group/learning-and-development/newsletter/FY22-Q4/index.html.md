@@ -50,7 +50,7 @@ Some recommendations of where to find LinkedIn Learning courses:
 * [Recommended LinkedIn Learning Courses](https://gitlab.edcast.com/channel/recommended-linkedin-learning-courses) Channel has courses your GitLab team members have taken and also top LinkedIn Learning courses in 2021 
 * Take a look at what we did for our [Career Development Skill of the Month](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#skill-of-the-month) 
 * The [LinkedIn Learning website](https://www.linkedin.com/learning/) to search for any courses that you may be interested in
-
+The [Announcements Channel](https://gitlab.edcast.com/channel/gitlab-corporate-channel) in Edcast highlights some of the new LinkedIn Learning content that's added to the platform every week!
 Once you have taken a course, feel free to share it with your peers or in a slack channel with other GitLab Team Members! 
 
 ## Discussion 
