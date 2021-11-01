@@ -28,17 +28,17 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | Entity | Signatory | 
 |-------- | -----|
 | GitLab Inc | Kelly Murdock, Rob Allen, Pattie Egan, Wendy Nice Barnes, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document.   | 
-| GitLab Federal LLC    |       Bob Stevens, Marc Kriz     |  
-| GitLab BV Belgium, Dutch & English | Carol Teskey (POA),Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab BV, Netherlands | Carol Teskey (POA), Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab GmbH | Kelly Murdock (POA), Carol Teskey (POA), Igor Groenewegen-Mackintosh | 
+| GitLab Federal LLC    |       Bob Stevens     |  
+| GitLab BV Belgium, Dutch & English | Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab BV, Netherlands | Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab GmbH | Kelly Murdock (POA), Igor Groenewegen-Mackintosh | 
 | GitLab PTY Ltd, Australia | Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab PTY Ltd, New Zealand | Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab Ireland LTD | Carol Teskey, Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab UK Ltd | Carol Teskey (POA), Igor Groenewegen-Mackintosh | 
+| GitLab Ireland LTD | Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab UK Ltd | Dale Brown, Igor Groenewegen-Mackintosh | 
 | GitLab Canada Corp | Craig Mestel, Dale Brown | 
 | GitLab GK, Japan | Dale Brown, Craig Mestel | 
-| GitLab IT BV | Carol Teskey (POA), Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab IT BV | Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab South Korea | Dale Brown, Craig Mestel | 
 | GitLab France S.A.S. | Craig Mestel, Igor Groenewegen-Mackintosh |
 | GitLab Singapore PTE. LTD. | Dale Brown, Igor Groenewegen-Mackintosh |
@@ -474,6 +474,7 @@ The process for creating and sending an agreement is as follows:
 1. Click *Upload* to place new hire’s statement of work in this folder
 1. Inform the Global Upside team (gitlabHR@globalpeoservices.com) of any new hires by sending email template *Email to Global Upside* under “Email the Team” in Greenhouse to let them know that a new SOW was uploaded into Egnyte and the employee’s name.
 1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
+1. For candidates from Costa Rica, you will be asked to provide a translation of the job description in Spanish. In this case, you should reach out to the appropriate person in the [Localization](https://about.gitlab.com/handbook/marketing/localization/) page.
 1. Once Global Upside has drafted up the contract, they will place it in Egnyte and email the CES to review and approve.
     -CES should double-check that the contract reflects all the correct information that we sent to them.
 1. Once the contract is signed by the new hire, Global Upside will notify the CES.
@@ -550,7 +551,7 @@ It is important that the start date for German new hires is far enough out that 
 A wet signature is required for German employment agreements the following process must be followed:
 
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring/).
-1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
+1. Ensure the start date is on the first of the month.
 1. The Candidate Experience Specialist sends the new team member the GreenHouse email template: German Contract Step 1.
 1. The Candidate Experience Specialist generates the German Contract form out of GreenHouse and stages for signature though GreenHouse and DocuSign. The Talent Acquisition Manager or the Senior Director of People Success (as listed on the signatory chart above) signs the German Contract.
 1. The Candidate Experience Specialist saves the unsigned contract to be used in a future step. It may require a manual edit to remove the signature tokens.
