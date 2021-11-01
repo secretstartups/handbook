@@ -88,7 +88,7 @@ Team members hired after October 31st will be reviewed to ensure their salary do
 
 ##### January:
 1. January 6th - January 20th: [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Compaas
-  * Each division leader is responsible for making sure their group stays within budget. The company has a [6% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#fy-2022-annual-compensation-review-budget) for all Performance increases and market adjustments.
+  * Each division leader is responsible for making sure their group stays within budget. The company has a [6% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) for all Performance increases and market adjustments.
   * Managers and indirect managers will review the minimum recommended increase from Total Rewards and then propose an increase based on the performance factor for their team members. The minimum recommended increase from Total Rewards is not a cap, but instead a minimum value to ensure alignment to the new ranges based on performance and market adjustments.
   * Depending on budget constraints, the increases for the individual team members may be adjusted up or down by management and reviewed by Total Rewards.
   * _Managers will want to review the total holdings (cash and equity) and determine increases to equity and cash compensation as appropriate to ensure team members are incentivized through their total rewards package in the next fiscal year._ 
