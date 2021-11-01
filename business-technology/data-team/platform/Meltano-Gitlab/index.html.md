@@ -22,7 +22,7 @@ title: "Meltano At Gitlab"
 
 We run Meltano in its own Kubernetes cluster with in the `meltano` namespace. The primary project is https://gitlab.com/gitlab-data/meltano-gitlab which is a fork of https://github.com/Mashey/gitlab-meltano.
 
-The kubernetes cluster is running [GCP as meltano-gitlab](https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/meltano-gitlab/details?project=gitlab-analysis). 
+The kubernetes cluster is running [GCP as meltano-gitlab](https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/meltano-mashey/details?project=gitlab-analysis). 
 
 The UI of Meltano is not exposed to internet. To view the logs we have to look in the kubernetes container logs. It can be found under "LOGS" tab or under the overview page by selecting the `meltano-gitlab` cluster under workloads.
 
@@ -60,3 +60,50 @@ $  kubectl apply -f ./gitlab-app.yaml
 kubectl delete deployment meltano-gitlab --namespace=meltano
 ```
 Watch the [video](https://youtu.be/H7m99t4IghM) on walkthrough of `Meltano setup in GKE` 
+
+## Adding Tap to the meltano.yml file
+At the moment the current setup is adding the tap information to [meltano.yml](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml) file by creating a MR. Once the required information is added to meltano.yml file follow below steps to enable the TAP. 
+Below is the sample of Require Information we need to add for each TAP. 
+```
+## The Name of the TAP under plugins: -- > extractors:
+
+- name: tap-zengrc
+    namespace: tap_zengrc
+    pip_url: git+https://gitlab.com/gitlab-data/tap-zengrc
+    executable: tap-zengrc
+    capabilities:
+    - discover
+    settings:
+    - name: base_url
+    - name: username
+    - name: password
+    config:
+      base_url: https://gitlab.api.zengrc.com/api/v2    
+## Schedules of the tap under schedules section
+schedules:
+- name: zengrc-to-snowflake
+  extractor: tap-zengrc
+  loader: target-snowflake
+  transform: skip
+  interval: '@daily'
+  start_date: 2021-07-13
+```
+Then follow below steps to copy the meltano.yml to the running container. 
+- Connect to the required cluster. In out case `meltano-gitlab` using command `gcloud container clusters get-credentials meltano-mashey --zone us-west1-a --project gitlab-analysis`
+- Connect to the container using command `kubectl exec -it gitlab-production-5f8fd9ccb-q6gt4  -c tap-xactly /bin/bash`. Note:- Pod name might change to get the correct pod name use `kubectl get pods`
+- Copy modified meltano.yml to  container from local `kubectl cp meltano.yml default/gitlab-production-5f8fd9ccb-q6gt4:/projects`
+- Try running the schedule `meltano schedule run zengrc-to-snowflake` for the first time it will ask to install the extractor below is the error we got even in our session.
+```
+    meltano          | Running extract & load...
+    meltano          | ELT could not be completed: Cannot start extractor: Executable 'tap-zengrc' could not be found. Extractor 'tap-zengrc' may not have been installed yet using `meltano install extractor tap-zengrc`, or the executable name may be incorrect.
+    ELT could not be completed: Cannot start extractor: Executable 'tap-zengrc' could not be found. Extractor 'tap-zengrc' may not have been installed yet using `meltano install extractor tap-zengrc`, or the executable name may be incorrect.
+```
+- 
+root@gitlab-production-5f8fd9ccb-q6gt4:/projects# meltano install extractor tap-zengrc
+Installing 1 plugins...
+Installing extractor 'tap-zengrc'...
+Installed extractor 'tap-zengrc'
+
+
+
+
