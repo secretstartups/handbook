@@ -46,4 +46,4 @@ Some recommendations of where to find LinkedIn Learning courses:
 
 ## Discussion 
 
-If you would like to discuss items related to this newsletter, please see the related [issue](). 
+If you would like to discuss items related to this newsletter, please see the related [issue](https://gitlab.com/gitlab-com/people-group/learning-development/newsletter/-/issues/13). 
