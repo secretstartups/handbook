@@ -98,11 +98,15 @@ Then follow below steps to copy the meltano.yml to the running container.
     meltano          | ELT could not be completed: Cannot start extractor: Executable 'tap-zengrc' could not be found. Extractor 'tap-zengrc' may not have been installed yet using `meltano install extractor tap-zengrc`, or the executable name may be incorrect.
     ELT could not be completed: Cannot start extractor: Executable 'tap-zengrc' could not be found. Extractor 'tap-zengrc' may not have been installed yet using `meltano install extractor tap-zengrc`, or the executable name may be incorrect.
 ```
-- 
-root@gitlab-production-5f8fd9ccb-q6gt4:/projects# meltano install extractor tap-zengrc
-Installing 1 plugins...
-Installing extractor 'tap-zengrc'...
-Installed extractor 'tap-zengrc'
+- Post that installed the extractor
+```
+  root@gitlab-production-5f8fd9ccb-q6gt4:/projects# meltano install extractor tap-zengrc
+  Installing 1 plugins...
+  Installing extractor 'tap-zengrc'...
+  Installed extractor 'tap-zengrc'
+```
+- Post that re run the command `meltano schedule run zengrc-to-snowflake` if this keep pushing data in snowflake then the TAP is working as expected. 
+
 
 
 
