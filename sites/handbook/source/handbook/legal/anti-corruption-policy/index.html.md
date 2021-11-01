@@ -5,7 +5,7 @@ description: "Overview of Anti-Corruption Policy"
 ---
 
 # ANTI-CORRUPTION POLICY
-**THIS POLICY WAS APPROVED BY THE BOARD OF DIRECTORS OF THE COMPANY ON SEPTEMBER 14, 2021**
+**THIS POLICY WAS APPROVED BY THE BOARD OF DIRECTORS OF THE COMPANY ON SEPTEMBER 14, 2021. THIS POLICY IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY. AN EXCUTABLE COPY OF THIS POLICY, INCLUDING THE TEAM MEMBERS CERTIFICATION REGARDING COMPLIANCE AND UNDERSTANDING, WILL BE REQUIRED TO BE SIGNED BY GITLAB TEAM MEMBERS.**
 
 
 ### PURPOSE
@@ -173,17 +173,6 @@ I have engaged in or observed the following incidents of potential non-complianc
 
 I understand that a false, misleading or incomplete statement in this certification of compliance or other violation of the Anti-Corruption Policy may be grounds for termination of employment or of the business relationship.
 
-Date: 
- ________________________________________________
-
-Signature: 	 
- ________________________________________________
-
-Name printed: 
- ________________________________________________
-
-Title:		
- ________________________________________________
 
 
 
