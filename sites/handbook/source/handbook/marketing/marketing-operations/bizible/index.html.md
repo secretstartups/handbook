@@ -332,3 +332,14 @@ Below are step-by-step instructions on how to track registration by driving chan
 Training Video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VbmqYu7WFOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Bizible Person ID Deduplication
+
+A Bizible Person ID is created for each lead/contact in our database. In the unfortunate situation in which duplicate leads get created in our database, it will also result in duplicate Bizible Person IDs which may or may not skew the data depending on the touchpoints we have on those Bizible Person IDs. 
+
+Our data cleanliness effort takes this into consideration and deduplicates our database, taking care of the duplicate leads and contacts in the system. 
+
+Removing the duplicate leads and contacts does not automatically result in the elimination of duplicate BP IDs, however this can be achieved through custom object deduplication with Ringlead of the Bizible Person object. 
+
+To view the proper order of operations when it comes to deduplication and to find out more information on this topic please visit the [Ringlead handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/ringlead/).
+
