@@ -1,13 +1,8 @@
+---
 layout: handbook-page-toc
 title: "Anti-Corruption Policy"
 description: "Overview of Anti-Corruption Policy"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 # ANTI-CORRUPTION POLICY
 **THIS POLICY WAS APPROVED BY THE BOARD OF DIRECTORS OF THE COMPANY ON SEPTEMBER 14, 2021**
