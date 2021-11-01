@@ -17,6 +17,7 @@ The Digital Marketing team generates new prospects through paid channels by buil
  
 - [Matt Nguyen](https://gitlab.com/mnguyen4) - Manager, Digital Marketing
 - [Leslie Stinson](https://gitlab.com/lstinson) - Digital Marketing Manager
+- [Zac Badgley](https://gitlab.com/zbadgley) - Digital Marketing Manager
 
 [Click here](/job-families/marketing/digital-marketing-programs-manager/) to learn about the Digital Marketing Programs role.
 
