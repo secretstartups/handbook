@@ -59,8 +59,8 @@ graph LR
 ### Eligibility
 
 To be eligible for Annual Compensation Review, team members with a hire date on or before: 
-* October 31st will be eligible for a cash compensation increase 
-* September 3rd will be eligible for an equit refresh (note: in FY22 we moved from stock options to RSUs for team members hired on or before Sept 3rd) 
+* October 31st will be eligible for a cash compensation increase. 
+* September 5th will be eligible for an equity refresh. Team members are eligible for a refresh grant if they have been at the company for six months ahead of the grant date cutoff. The grant date is slated to be March 15th and the cutoff is March 5th. Note: in FY22 we moved from stock options to RSUs for team members hired on or before Sept 3rd. 
 
 Team members hired after October 31st will be reviewed to ensure their salary does not fall below the bottom of their compensation band (market range) based on increases to benchmark or location factor. If this does occur, the team member will be adjusted to the bottom of the band during the Annual Compensation Review cycle.
 
