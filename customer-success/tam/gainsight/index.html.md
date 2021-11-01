@@ -50,10 +50,16 @@ The left side panel of the 360 contains the following sections:
 - Cockpit - holds all of your tasks and [CTAs](/handbook/customer-success/tam/gainsight/ctas/) for the account
 - Contacts - all contacts for the account ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Zendesk Tickets - recent Zendesk tickets ([synced from Zendesk](#salesforce-and-zendesk-syncing))
-- Adoption - [license utilization](/handbook/customer-success/product-usage-data/license-utilization/) and [stage adoption](/handbook/customer-success/tam/stage-adoption/)
 - Subscriptions - GitLab subscription details ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Opportunities - open opportunities ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Salesforce Activities - "Activity History" section [from Salesforce](#salesforce-and-zendesk-syncing)
+- License Utilization - [license utilization](https://about.gitlab.com/handbook/customer-success/product-usage-data/license-utilization/)
+- Product Usage Trends - [product usage trends](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#gainsight-reports-and-dashboards)
+- Product Usage Scorecard Calcs - shows [calculations](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/) of product usage health score
+- Instance and Namespace Details - [instance and namespace details](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#gainsight-reports-and-dashboards)
+- Whitespace (Use Case) - [use case technology tracking](https://about.gitlab.com/handbook/sales/understand-customer-gitlab-use/#use-case-technology-tracking)
+- Whitespace (Use Case Visual) - visualization of inputs from above report
+- Whitespace (Stages until transition) - tracks whitespace information based on stage
 - Survey - holds all survey response data from Journey Orchestrator customer programs
 - Program Logs - automatically logs Journey Orchestrator customer program emails to the account history for visibility
 
