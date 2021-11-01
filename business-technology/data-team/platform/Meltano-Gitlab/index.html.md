@@ -28,7 +28,7 @@ The UI of Meltano is not exposed to internet. To view the logs we have to look i
 
 To update what extractors are being used, update the `meltano.yml` file in the main project. Add a git tag after the change is merged and update the gitlab-app.yml kubernetes manifest to point to the new image.
 
-Meltano uses Airflow internally and we use Cloud SQL as the metadata database. The [`meltan0` database](https://console.cloud.google.com/sql/instances/meltano/overview?project=gitlab-analysis).
+Meltano uses Airflow internally and we use Cloud SQL as the metadata database. The [`meltano` database](https://console.cloud.google.com/sql/instances/meltano/overview?project=gitlab-analysis).
 ```
 #Connect to the Kubernetes cluster from local(Prerequisites is Google cloud SDK installed). In case the command doesn't work then connect to GCP and select Cluster under Kubernetes and select connect to cluster. It will reveal the latest command. 
 gcloud container clusters get-credentials meltano-gitlab --zone us-west1-a --project gitlab-analysis
