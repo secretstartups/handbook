@@ -1,4 +1,4 @@
----
+ ---
 layout: handbook-page-toc
 title: "New Data Source"
 description: "How to add a new data source"
@@ -80,6 +80,7 @@ graph LR
     fivetran_connector_available{Fivetran connector available?}
     stitch_connector_available{Stitch connector available?}
     data_is_ext_snowflake_sources{Data is in different Snowflake Account}
+    singer_option{Singer Optionable?}
 
 %%end solutions
     Custom([Custom development])
@@ -90,12 +91,14 @@ graph LR
 
 %%flow
     ds_request[New Request]-->api_available 
+    api_available-->|No|data_is_ext_snowflake_sources
     api_available-->|Yes|fivetran_connector_available
+    stitch_connector_available-->|Yes|Stitch
     fivetran_connector_available-->|Yes|Fivetran
     fivetran_connector_available-->|No|stitch_connector_available
-    stitch_connector_available-->|Yes|Stitch
-    stitch_connector_available-->|No|Singer
-    api_available-->|No|data_is_ext_snowflake_sources
+    stitch_connector_available-->|No|singer_option
+    singer_option-->|Yes|Singer
+    singer_option-->|No|Custom
     data_is_ext_snowflake_sources-->|Yes|Snowflake_datashare
     data_is_ext_snowflake_sources-->|No|Custom
 ```
