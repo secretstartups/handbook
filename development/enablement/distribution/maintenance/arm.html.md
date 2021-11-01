@@ -20,7 +20,7 @@ log in with their own credentials.
 
 Several GitLab teams collaborate to provide support for ARM:
 
-1. [Distribution][distribution] manages the [ARM runner provider][scaleway]
+1. [Distribution][distribution] manages the ARM runner provider
    and issues with build pipelines.
 1. [Community Advocates][advocates] answer questions and provide community support in the forums.
 1. [Verify CI][verify-ci] would help build packages for ARM runners.
