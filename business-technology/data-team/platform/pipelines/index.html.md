@@ -150,6 +150,8 @@ Service ping has two major varieties:
 - Self-Managed Service Ping
 - SaaS Service Ping
 
+For more details refer to [4 types of service ping processes](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#4-types-of-service-ping-processes-run-versus-3-environments)
+
 ### Self-Managed Service Ping
 
 Self-Managed Service Ping is loaded into the Data Warehouse from the Versions app and is stored in the `VERSION_DB` databases.
@@ -157,26 +159,30 @@ Self-Managed Service Ping is loaded into the Data Warehouse from the Versions ap
 ### SaaS Service Ping
 
 SaaS Service Ping is loaded into Data Warehouse in two ways:
-* using `SQL` statements from Gitlab `Postgres Database` Replica and
-* RestFUL API call from `Redis` 
+* using `SQL` statements from Gitlab `Postgres Database` Replica (`SQL-based`) and
+* RestFUL API call from `Redis` (`Redis based`) 
 
 Implementation details from Data team is shown under [Readme.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md#user-content-technical-implementation) file.
 
 <img src="saas_service_ping_workflow.png" alt="drawing" width="800"/>
 
-#### Loading instance SQL metrics
+#### Loading instance SQL-based metrics
 
 Data is loaded from `Postgres Sql` replica: The queries are version controlled in the very large JSON (couple of hundreds queries in the file) files present within this extract.  The queries are split out into two categories: instance queries and namespace queries. The instance queries generate data about `GitLab.com` as a whole, while the namespace queries generate data about each namespace on `GitLab.com`.
-Data is stored in the tables (in the `RAW` schema):
-* `"RAW"."SAAS_USAGE_PING"."INSTANCE_SQL_METRICS"`
-* `"RAW"."SAAS_USAGE_PING"."INSTANCE_SQL_ERROR"` - this table contains SQL command where error pops-up during data processing for SQL metrics.
-* `"RAW"."SAAS_USAGE_PING"."GITLAB_DOTCOM_NAMESPACE"`
+Data is stored in the tables (in the `RAW.SAAS_USAGE_PING` schema):
+* `RAW.SAAS_USAGE_PING.INSTANCE_SQL_METRICS`
+* `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERROR` - this table contains SQL command where error pops-up during data processing for SQL metrics.
+* `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
 
-#### Loading instance Redis metrics
+Details about implementation are exposed in **[sql-metrics-implementation](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#sql-metrics-implementation)**
+
+#### Loading instance Redis based metrics
 
 Data is downloaded via API, refer to API specification: [UsageDataNonSqlMetrics API](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api). Stored in a `JSON` format, approximately size is around 2k lines. Usually, it is one file per load _(at the moment, it is a weekly load)_. The main purpose of loading data from Redis is to ensure fine granulation of metrics can't be fetched using SQL queries.
-Data is stored in the table (in the `RAW` schema): 
-* `"RAW"."SAAS_USAGE_PING"."INSTANCE_REDIS_METRICS"`
+Data is stored in the table (in the `RAW.SAAS_USAGE_PING` schema): 
+* `RAW.SAAS_USAGE_PING.INSTANCE_REDIS_METRICS`
+
+Details about implementation are exposed in **[redis-metrics-implementation](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#redis-metrics-implementation)**
 
 ## SheetLoad
 
