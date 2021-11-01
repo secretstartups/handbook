@@ -1,4 +1,3 @@
-
 ---
 layout: handbook-page-toc
 title: Slack Training
