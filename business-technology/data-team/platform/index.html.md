@@ -104,7 +104,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Zoom](https://zoom.us/) | [Meltano](https://meltano.com/) | `tap_zoom` | N/A | People | 24h / N/A |  No |
 | [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h | Yes |
 | [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue) | [Airflow](https://airflow.gitlabdata.com/home)  | `zuora_revenue` | `zuora_revenue` | Finance | 24h / 48h | Yes |
-| [Zoominfo]() | [Snowflake Data Share]()  | N/A | `zoominfo` | Product | once in a quarter | No |
+| [Zoominfo]() | [Snowflake Data Share]()  | N/A | `zoominfo` | Analytics & Insights, Product | once every quarter | No |
 
 ### Adding new Data Fields
 
