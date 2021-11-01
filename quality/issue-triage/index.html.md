@@ -166,8 +166,8 @@ We must ensure coverage is stable and active by quickly resolving issues that ca
 
 To promote awareness of bugs blocking end-to-end test execution, newly opened ~test ~bug issues will be announced in several Slack channels: 
 
-- All newly opened bugs blocking end-to-end test execution should be announced in #quality .
-- A newly opened bug blocking end-to-end test execution that is a product bug should also be announced in #development and #vp-development with the appropriate EM and PM tagged.
+- All newly opened bugs blocking end-to-end test execution should be announced in [#quality](https://gitlab.slack.com/archives/C3JJET4Q6) channel.
+- A newly opened bug blocking end-to-end test execution that is a product bug should also be announced in [#development](https://gitlab.slack.com/archives/C02PF508L) and [#vp-development](https://gitlab.slack.com/archives/CRC0B18UX) channels with the appropriate EM and PM tagged.
 
 Priority is tied to severity in the following manner:
 
