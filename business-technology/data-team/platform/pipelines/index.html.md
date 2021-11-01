@@ -405,7 +405,7 @@ Zuora have provided view definition for the derived view. As extracting data fro
 Zoominfo is an external party that can enrich GitLab data. In order to enrich data, Gitlab needs to send data as outbound towards Zoominfo and after processing GitLab will receive processed data as an inbound table via Snowflake data share.
 
 #### Snowflake Data share.
-[Snowflake data share] (https://docs.snowflake.com/en/user-guide/data-sharing-intro.html) enables sharing of snowflake database tables from one account and also allow to access to data shared from external accounts. This involves creating an outbound share  of a database in their account and grant access to the snowflake table that needs to be shared to an external account using either web interface/SQL using ACCOUNTADMIN role. Both the accounts should be in the same region to add the account.
+[Snowflake data share] (https://docs.snowflake.com/en/user-guide/data-sharing-intro.html) enables sharing of snowflake database tables from one account and also allow to access to data shared from external accounts. This involves creating an outbound share of a database in their account and grant access to the snowflake table that needs to be shared to an external account using either web interface/SQL using ACCOUNTADMIN role. Both the accounts should be in the same region to add the customer to outbound share.
 
 #### Outbound table.
 * `"PROD"."SHARE"."GITLAB_USER_OUTBOUND" - Outbound table has Gitlab user information such as First name, Last name, email address and company name. Outbound table is shared only once to Zoominfo via Snowflake data share..
