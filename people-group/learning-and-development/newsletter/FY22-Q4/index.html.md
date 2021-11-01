@@ -21,6 +21,11 @@ You can find more information on the [structure and process](/handbook/people-gr
 
 * Crucial Conversations Cohort with the Security Team
 * [LifeLabs Learning](https://lifelabslearning.com/) Pilot (More Details to Come!) 
+* 3 Live Speaker Series - watch the team member calendar for invites!
+     1. November: Discussing building internal culture with team members at Google
+     1. November: Managing on a remote team
+     1. December: Mental health awareness week speakers December 13th to 16th
+
 
 ## Learning Spotlight 
 
