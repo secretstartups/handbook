@@ -23,7 +23,7 @@ DRI: Candidate Experience Team
 #### Set your Prelude preferences
 [Prelude](/handbook/hiring/prelude/) is the scheduling tool that the Candidate Experience Team uses to book interviews. Within Prelude, interviewers can set their interviewing availability, daily and weekly limits, and add notes to help CES schedule within their preferences. 
 
-To log in, visit Prelude.co and log in with your GitLab email address. From there, you will be directed to your Interviewer Profile. If you cannot log in, it may be because you do not have a Greenhouse account, which is required. Please submit an Access Request if this is the case for you.
+To log in, visit Prelude.co and select "Sign in with Google", and then use your GitLab email address. From there, you will be directed to your Interviewer Profile. If you cannot log in, it may be because you do not have a Greenhouse account, which is required. Please submit an Access Request if this is the case for you.
 
 Scroll down to add notes and adjust the dates and times to match your preferences. Then ensure that your time zone is correct so that it matches your availability. 
 
