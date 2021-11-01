@@ -39,6 +39,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 ## Policies and Guidelines
 * [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
 * [Compliance](https://about.gitlab.com/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
+* [Corporate Communications Policy)](https://about.gitlab.com/handbook/legal/corporate-communications/) - GitLab's policy for how to handle Company communications. 
 * [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/) GitLab's policy for how it handles personal information about team members.
 * [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
 * [GitLab Modern Slavery Act Transparency Statement](https://about.gitlab.com/handbook/legal/modern-slavery-act-transparency-statement/)
