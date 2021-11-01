@@ -24,6 +24,29 @@ Distribution team members are expected to:
 * Define test plans for changes not covered by integration tests
 * Label issues and merge requests to track [engineering metrics](/handbook/engineering/metrics/)
 
+## Groups
+
+The distribution team is comprised of two groups, Distribution:Build and Distribution:Deploy.
+
+### Distribution Build tasks
+
+- Maintain all team pipelines for all projects
+- Research for the support of new clouds, platforms, architecture, and components
+- Access controls, permissions, and CVE patches
+- Team infrastructure/resource management
+- License management
+- Submissions to Partners for validations/certifications
+
+### Distribution Deploy tasks
+
+- Initial installation and composability
+- Upgrades / Downgrades
+- Scaling deployments
+- Migration between platforms or providers
+- Data lifecycle management
+- Secure configuration & communication
+- Research of clouds and platforms for integration to existing tools
+
 ## Scheduled work
 
 Engineering manager and Product manager are responsible for scheduling
