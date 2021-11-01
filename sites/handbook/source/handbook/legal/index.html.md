@@ -37,6 +37,7 @@ For quick questions that **_do not_** require legal advice, deliverables, or any
 For more information on Attorney-Client Privilege, see the [General Legal FAQs](https://about.gitlab.com/handbook/legal/#general-legal-faqs) below.  
 
 ## Policies and Guidelines
+* [Anti-Corruption Policy](https://about.gitlab.com/handbook/legal/anti-corruption-policy/) - this policy provides guidance regarding ethical business conduct, applicable laws, rules, and regulations.
 * [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
 * [Compliance](https://about.gitlab.com/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
 * [Corporate Communications Policy)](https://about.gitlab.com/handbook/legal/corporate-communications/) - GitLab's policy for how to handle Company communications. 
