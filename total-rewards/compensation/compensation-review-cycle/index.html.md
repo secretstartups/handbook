@@ -441,7 +441,7 @@ All increases for Annual Compensation Review will be finalized by Feb 1st. FY23 
 
 For FY23, each team member with a compensation change will have a [Total Rewards Statment](/handbook/total-rewards/compensation/compensation-review-cycle/#total-rewards-statement) generated. Managers are able to utilize this letter when having conversations with your team members about their increase and overall Total Rewards Compensation package at GitLab. More information on these letters can be found in the handbook section below.
 
-Communication Guidelines can be found in the [Leadership Toolkit](/handbook/leadership/compensation-review-conversations/).
+Communication Guidelines can be found in the [here](/handbook/leadership/compensation-review-conversations/).
 
 If your direct report has any questions on the calculation of their increase please feel free to have them reach out to the Total Rewards team.
 
