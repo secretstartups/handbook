@@ -108,7 +108,7 @@ Negative feedback can be given in a group setting if it's to someone higher in t
 
 ##### Provide feedback in a timely manner
 {:.no_toc}
-We want to solve problems while they are **small**. 
+We want to solve problems while they are **small**.
 If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please voice your concerns rather than keeping them to yourself. If you need to escalate beyond your manager, you could consider speaking to your [skip-level](https://about.gitlab.com/handbook/leadership/skip-levels/#purpose-and-benefits-of-skip-levels), a more senior person, or a [people business partner](https://about.gitlab.com/job-families/people-ops/people-business-partner/).
 
 ##### Say thanks
@@ -420,7 +420,7 @@ We should strive to accept that there are things that we don’t know about the 
 ##### Escalate to unblock
 {:.no_toc}
 
-We should be diligent to define [Directly Responsible Individuals](/handbook/people-group/directly-responsible-individuals/) (DRI). DRIs are empowered to escalate to unblock. Managers at GitLab seek to increase the output of the work of those on their team, a core concept in [High Output Management](/handbook/leadership/high-output-management/). Early escalation, delivered with context of the challenge, enables managers to function as an unblocker. 
+We should be diligent to define [Directly Responsible Individuals](/handbook/people-group/directly-responsible-individuals/) (DRI). DRIs are empowered to escalate to unblock. Managers at GitLab seek to increase the output of the work of those on their team, a core concept in [High Output Management](/handbook/leadership/high-output-management/). Early escalation, delivered with context of the challenge, enables managers to function as an unblocker.
 
 ##### Customer results
 {:.no_toc}
@@ -522,9 +522,9 @@ Consider the time investment you are asking others to make with meetings and a p
 
 ##### Spend company money like it's your own
 {:.no_toc}
-Every dollar we spend will have to be earned back. Be as frugal with company money as you are with your own. In saying this, we ask team members to weigh the cost of purchases against the value that they will bring to the company. 
+Every dollar we spend will have to be earned back. Be as frugal with company money as you are with your own. In saying this, we ask team members to weigh the cost of purchases against the value that they will bring to the company.
 
-Consider the degree to which a purchase increases your ability to better accomplish your work and achieve business [results](/handbook/values/#results) relative to cost. 
+Consider the degree to which a purchase increases your ability to better accomplish your work and achieve business [results](/handbook/values/#results) relative to cost.
 
 We have [guidelines](/handbook/spending-company-money/#guidelines) around this sub-value to help team members better understand our expensing process and expectations.
 
@@ -626,7 +626,7 @@ Take initiative to operate [asynchronously](/company/culture/all-remote/asynchro
 
 This is demonstrated by communicating recordings of [meetings](/company/culture/all-remote/meetings/), using GitLab Issues and Merge Requests rather than texts, calls, or Slack messages, and being sensitive to local holidays and vacation statuses. Encourage others to default to [documentation](/handbook/documentation/) rather than pressuring others to be online outside of their working hours.
 
-##### Embracing uncomfortable ideas and conversations 
+##### Embracing uncomfortable ideas and conversations
 {:.no_toc}
 
 Part of embracing diversity is a willingness to embrace often uncomfortable conversations and situations. This concept is also at the core of inclusion and helping to eliminate the problems that are faced by certain GitLab team members who may not be in the majority.
@@ -640,7 +640,7 @@ Microaggressions are much more than merely rude or insensitive comments. They ca
 
 > "The everyday slights, indignities, put downs and insults that people of color, women, LGBT populations or those who are marginalized experiences in their day-to-day interactions with people." -  Derald W. Sue
 
-At GitLab we believe that everyone is entitled to a safe working space where they can express who they are and participate in conversations without worry of being spoken to in a harmful way, given that we want to encourage everyone to be mindful of what is a microaggression and be mindful of their potential impact. 
+At GitLab we believe that everyone is entitled to a safe working space where they can express who they are and participate in conversations without worry of being spoken to in a harmful way, given that we want to encourage everyone to be mindful of what is a microaggression and be mindful of their potential impact.
 
 ##### Seek diverse perspectives
 {:.no_toc}
@@ -669,9 +669,9 @@ We want cultural diversity instead of cultural conformity, such as a [brogrammer
 {:.no_toc}
 We generally avoid discussing politics or religion in public forums because it is easy to alienate people that have a minority opinion. This doesn’t mean we never discuss these topics. Because we value diversity, inclusion and belonging, and want all team members to feel welcome and contribute equally, we encourage free discussion of operational decisions that can move us toward being a more inclusive company. GitLab also publicly supports pro-diversity activities and events.
 
-There is sometimes a grey area where advocating for diversity and political activities may intersect. Team members should use discretion in grey area communications, because a culture of belonging requires us to be respectful of the broad spectrum of views within our work environment. What does this mean in practice? Please feel empowered to share information that highlights diversity, inclusion and belonging issues and how GitLab and GitLab team members can get involved. In line with our [Code of Conduct](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/), avoid posting articles that reference specific political figures or parties.  
+There is sometimes a grey area where advocating for diversity and political activities may intersect. Team members should use discretion in grey area communications, because a culture of belonging requires us to be respectful of the broad spectrum of views within our work environment. What does this mean in practice? Please feel empowered to share information that highlights diversity, inclusion and belonging issues and how GitLab and GitLab team members can get involved. In line with our [Code of Conduct](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/), avoid posting articles that reference specific political figures or parties.
 
-While it is acceptable for individuals to bring up politics and religion in social contexts such as coffee chats and real-life meetups with other coworkers (with the goal to understand and not judge), always be aware of potential sensitivities, exercise your best judgment, and make sure you stay within the boundaries of our [Code of Conduct](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/). 
+While it is acceptable for individuals to bring up politics and religion in social contexts such as coffee chats and real-life meetups with other coworkers (with the goal to understand and not judge), always be aware of potential sensitivities, exercise your best judgment, and make sure you stay within the boundaries of our [Code of Conduct](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
 
 We're a global company where perspectives and local norms may differ from culture to culture. Diversity, inclusion and belonging is about broad inclusion at a worldwide level. If there is a question or concern, please reach out to diversityinclusion@gitlab.com or #diversity_inclusion_and_belonging.
 
@@ -735,25 +735,25 @@ As a globally-dispersed company, we have team members from many different backgr
 {:.no_toc}
 [Neurodiversity](http://neurocosmopolitanism.com/neurodiversity-some-basic-terms-definitions/) refers to variations in the human brain regarding learning, attention, sociability, mood, and other mental functions. There are various neurodevelopmental conditions, like autism, ADHD, dyslexia, dyscalculia, dyspraxia, cognitive impairment, schizophrenia, bipolarity, and other styles of neurodivergent functioning. While neurodivergent individuals often bring [unique skills and abilities](https://adhdatwork.add.org/potential-benefits-of-having-an-adhd-employee/) which can be harnessed for a [competitive advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage) in many fields (for example, [cybersecurity](https://www.forbes.com/sites/samcurry/2019/05/13/neurodiversity-a-competitive-advantage-in-cybersecurity/)), neurodivergent individuals are often discriminated against. Due to non-inclusive hiring practices, they sometimes have trouble making it through traditional hiring processes. Neurodiversity inclusion best practices benefit everyone, and at GitLab, everyone can contribute. The handbook, values, strategy, and interviewing processes must support the ability for everyone to thrive.
 
-At GitLab we embrace Neurodiversity through adopting a variety of different work styles and communication styles, and we lean into [transparency](https://about.gitlab.com/handbook/values/#transparency), asynchronous as a default working style, and pre-filled meeting agendas. These best practices become even more important when embracing neurodiversity. Providing multiple ways to consume information (written / video / audio) allows everyone to contribute independent of their preferred comprehension style. It is important to ask team members specifically what their preferred communication method is in order to provide them information in a format that is easily consumable for them. 
+At GitLab we embrace Neurodiversity through adopting a variety of different work styles and communication styles, and we lean into [transparency](https://about.gitlab.com/handbook/values/#transparency), asynchronous as a default working style, and pre-filled meeting agendas. These best practices become even more important when embracing neurodiversity. Providing multiple ways to consume information (written / video / audio) allows everyone to contribute independent of their preferred comprehension style. It is important to ask team members specifically what their preferred communication method is in order to provide them information in a format that is easily consumable for them.
 
 Remember, **brains work differently** and always [assume positive intent](https://about.gitlab.com/handbook/values/#assume-positive-intent), even if someone behaves in an unexpected way. While it may be an unexpected behavior to you, it may not be unexpected to the individual exhibiting the behavior. That is the beauty and value of diversity, embracing differences and becoming stronger and better as a result.
 
-We also recommend that all team members review the [Reasonable Accommodation](https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation) process. A Reasonable Accommodation for a team member could include noise-cancelling headphones, scheduling smaller group session zoom calls, providing very explicit and precise instructions and due-dates when given tasks, or providing a variety of supportive software tools.  
+We also recommend that all team members review the [Reasonable Accommodation](https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation) process. A Reasonable Accommodation for a team member could include noise-cancelling headphones, scheduling smaller group session zoom calls, providing very explicit and precise instructions and due-dates when given tasks, or providing a variety of supportive software tools.
 
-The most important thing that managers can do is facilitate an environment in which all team members feel [psychologically safe](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) enough to make requests for [what they need](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/#resources-for-team-members-and-managers) in order to do their job.  
+The most important thing that managers can do is facilitate an environment in which all team members feel [psychologically safe](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) enough to make requests for [what they need](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/#resources-for-team-members-and-managers) in order to do their job.
 
 
 ##### Family and friends first, work second
 {:.no_toc}
 Long-lasting relationships [are the rocks of life](https://www.youtube.com/watch?v=6_N_uvq41Pg), and come before work. As someone said in our #thanks channel after helping a family member for five days after a hurricane: "THANK YOU to GitLab for providing a culture where "family first" is truly meant".  Use the hashtag: **#FamilyAndFriends1st**
 
-##### Diversity, Inclusion & Belonging Competency 
+##### Diversity, Inclusion & Belonging Competency
 {:.no_toc}
 [Competencies](/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
 We demonstrate diversity, inclusion and belongings when we foster an environment where everyone can thrive and ensuring that GitLab is a place where people from every background and circumstance feel like they belong and can contribute.
 
-If you would like to improve your skills or expand your knowledge on topics relating to Diversity, Inclusion, & Belonging at GitLab, check out our resources: 
+If you would like to improve your skills or expand your knowledge on topics relating to Diversity, Inclusion, & Belonging at GitLab, check out our resources:
 
 -  [Being an Ally](/company/culture/inclusion/being-an-ally/)
 -  [Being Inclusive](/company/culture/inclusion/being-inclusive/)
@@ -808,13 +808,13 @@ If you would like to improve your skills or expand your knowledge on topics rela
 ## 👣 Iteration
 {:#iteration .gitlab-purple}
 
-We do the [smallest thing possible and get it out as quickly as possible](/blog/2017/01/04/behind-the-scenes-how-we-built-review-apps/). If you make suggestions that can be excluded from the first iteration, turn them into a separate issue that you link. Don't write a large plan; only write the first step. Trust that you'll know better how to proceed after something is released. You're doing it right if you're slightly embarrassed by the minimal feature set shipped in the first iteration. This value is the one people most underestimate when they join GitLab. The impact both on your work process and on how much you achieve is greater than anticipated. In the beginning, it hurts to make decisions fast and to see that things are changed with less consultation. But frequently, the simplest version turns out to be the best one. 
+We do the [smallest thing possible and get it out as quickly as possible](/blog/2017/01/04/behind-the-scenes-how-we-built-review-apps/). If you make suggestions that can be excluded from the first iteration, turn them into a separate issue that you link. Don't write a large plan; only write the first step. Trust that you'll know better how to proceed after something is released. You're doing it right if you're slightly embarrassed by the minimal feature set shipped in the first iteration. This value is the one people most underestimate when they join GitLab. The impact both on your work process and on how much you achieve is greater than anticipated. In the beginning, it hurts to make decisions fast and to see that things are changed with less consultation. But frequently, the simplest version turns out to be the best one.
 
-People that join GitLab all say they already practice iteration. But this is the value that is the hardest to understand and adopt. People are trained that if you don't deliver a perfect or polished thing, there will be a problem. If you do just one piece of something, you have to come back to it. Doing the whole thing seems more efficient, even though it isn't. If the complete picture is not clear, your work might not be perceived as you want it to be perceived. It seems better to make a comprehensive product. They see other GitLab team members being really effective with iteration but don't know how to make the transition, and it's hard to shake the fear that constant iteration can lead to shipping lower-quality work or a worse product. It is possible to ship a minimally viable product while continuing to adhere to the documented quality standards. 
+People that join GitLab all say they already practice iteration. But this is the value that is the hardest to understand and adopt. People are trained that if you don't deliver a perfect or polished thing, there will be a problem. If you do just one piece of something, you have to come back to it. Doing the whole thing seems more efficient, even though it isn't. If the complete picture is not clear, your work might not be perceived as you want it to be perceived. It seems better to make a comprehensive product. They see other GitLab team members being really effective with iteration but don't know how to make the transition, and it's hard to shake the fear that constant iteration can lead to shipping lower-quality work or a worse product. It is possible to ship a minimally viable product while continuing to adhere to the documented quality standards.
 
 The way to resolve this is to write down only what you can do with the time you have for this project right now. That might be 5 minutes or 2 hours. Think of what you can complete in that time that would improve the current situation. Iteration can be uncomfortable, even painful. If you're doing iteration correctly, it should be. Reverting work back to a previous state is positive, not negative. We're quickly getting feedback and learning from it. Making a small change prevented a bigger revert and made it easier to revert.
 
-However, if we take smaller steps and ship smaller, simpler features, we get feedback sooner. Instead of spending time working on the wrong feature or going in the wrong direction, we can ship the smallest product, receive fast feedback, and course correct. People might ask why something was not perfect. In that case, mention that it was an iteration, you spent only "x" amount of time on it, and that the next iteration will contain "y" and be ready on "z". 
+However, if we take smaller steps and ship smaller, simpler features, we get feedback sooner. Instead of spending time working on the wrong feature or going in the wrong direction, we can ship the smallest product, receive fast feedback, and course correct. People might ask why something was not perfect. In that case, mention that it was an iteration, you spent only "x" amount of time on it, and that the next iteration will contain "y" and be ready on "z".
 
 
 
@@ -837,7 +837,7 @@ But we set a due date because having something out there builds trust and gives 
 {:.no_toc}
 As discussed in [Sid's interview on iteration](https://youtu.be/tPTweQlBS54?t=1030), waiting for approval can slow things down. We can prevent this with automation (e.g. tests of database migration performance) or clean-up after the fact (refactor a Pajamas if something was added that isn't coherent), but we try to ensure that people don't need to wait for signoff.
 
-##### Start off by impacting the fewest users possible 
+##### Start off by impacting the fewest users possible
 {:.no_toc}
 If you do a gradual rollout of your change prefer: few users over many users, internal users (dogfooding) over external ones,  environments you get faster feedback about (SaaS) over low feedback ones (self-managed), etc.
 
@@ -901,7 +901,7 @@ First, optimize for speed and results (and be deliberate about how your change a
 
 ##### Resist bundling
 {:.no_toc}
-Resist the urge to bundle a series of smaller iterations so team members don't see a project as their last (or best) opportunity to contribute. It's tempting to [create encompassing projects or initiatives](https://news.ycombinator.com/item?id=28463789) that roll many smaller projects up. This incarnation of scope creep drives up cost, encourages fewer risks, and incentivizes perfection (via longer cycle times) over progress. 
+Resist the urge to bundle a series of smaller iterations so team members don't see a project as their last (or best) opportunity to contribute. It's tempting to [create encompassing projects or initiatives](https://news.ycombinator.com/item?id=28463789) that roll many smaller projects up. This incarnation of scope creep drives up cost, encourages fewer risks, and incentivizes perfection (via longer cycle times) over progress.
 
 ##### Make two-way door decisions
 {:.no_toc}
@@ -913,12 +913,12 @@ Changing something without shipping it is a revision, not iteration. Only when t
 
 A few challenges have arisen with how we approach iteration. The best example may be the proposal of a two-month release cycle. The argument was that a longer release cycle would buy us time for bug fixes and feature development, but we don’t believe that is the case. As detailed above, we aim to make the absolute smallest thing possible, and that doing otherwise will only slow us down.
 
-That said, we would love to work on a two-week release cycle, but that should be another conversation. 
+That said, we would love to work on a two-week release cycle, but that should be another conversation.
 
-##### Embracing Iteration 
+##### Embracing Iteration
 {:.no_toc}
 
-In order to embrace iteration, we should have the attitude that we are trying to achieve as much as possible in a small amount of time; it's where we are at the end state of an iteration, that counts. The benefit of iteration is to get feedback from the end-user. Focus on sharing context on the _end of the first iteration_ rather than a _hypothetical future state_ requiring multiple iterations. 
+In order to embrace iteration, we should have the attitude that we are trying to achieve as much as possible in a small amount of time; it's where we are at the end state of an iteration, that counts. The benefit of iteration is to get feedback from the end-user. Focus on sharing context on the _end of the first iteration_ rather than a _hypothetical future state_ requiring multiple iterations.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/nXfKtnVUhvQ" frameborder="0" allowfullscreen="true"> </iframe>
@@ -930,7 +930,7 @@ In order to embrace iteration, we should have the attitude that we are trying to
 When you are submitting a merge request for a code change, or a process change in
 the handbook, keep it as small as possible. If you are adding a new page to the
 handbook, create the new page with a small amount of initial content, get it merged
-quickly via [Handbook Usage guidelines](/handbook/handbook-usage/), and then add additional sections iteratively with subsequent merge requests. 
+quickly via [Handbook Usage guidelines](/handbook/handbook-usage/), and then add additional sections iteratively with subsequent merge requests.
 Similarly, when adding features to GitLab, consider ways to [reduce the scope](/handbook/product/product-processes/#crafting-an-mvc) of the feature before creating the merge request to ensure your merge request is as small as possible.
 
 ##### Always iterate deliberately
@@ -960,7 +960,7 @@ Iteration is a key value in many disruptive and successful organizations. Below 
 ##### Iteration Competency
 {:#iteration-competency.no_toc}
 [Competencies](/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
-We demonstrate iteration when we do the smallest thing possible, getting it out quickly for feedback and making changes based that feedback. 
+We demonstrate iteration when we do the smallest thing possible, getting it out quickly for feedback and making changes based that feedback.
 
 <table class="tg">
   <tr>
@@ -1057,7 +1057,7 @@ and kind](https://medium.com/@producthunt/ben-horowitz-s-best-startup-advice-7e8
 
 ##### Articulate when you change your mind
 {:.no_toc}
-If you state one thing, and then change course and support a different direction, point, or outcome, articulate this. It is OK to have your position changed by new data. Articulating that an *earlier* stance is not your *current* stance provides clarity to others and encourages data-driven decision making. 
+If you state one thing, and then change course and support a different direction, point, or outcome, articulate this. It is OK to have your position changed by new data. Articulating that an *earlier* stance is not your *current* stance provides clarity to others and encourages data-driven decision making.
 
 ##### Surface issues constructively
 {:.no_toc}
@@ -1067,7 +1067,7 @@ Be transparent to the right people (up) at the right time (when still actionable
 {:.no_toc}
 We practice transparency even when hiding the facts would be easier. For example, many companies do not give you the real reason why they declined your application because it increases the chance of legal action. We want to only reject people for the right reasons and we want to give them the opportunity to grow by getting this feedback. Therefore, we'll accept the increased risk of holding ourselves to a high standard of making decisions and do the right thing by telling them what we thought. Other examples are being transparent about [security incidents](http://disq.us/p/1r9gceh) and participating in and contributing to Live Broadcasts.
 
-Transparency has costs (distraction, mis-interpretation, etc.) but also great benefits (productivity, hiring, retention, brand awareness, etc). Team members can view more details on these benefits by referencing the "Transparency Benefit Quantification" slides in Google Drive). We should carefully weigh the tradeoff between costs and benefits, to prevent a knee-jerk reaction to reduce transparency when it has costs. 
+Transparency has costs (distraction, mis-interpretation, etc.) but also great benefits (productivity, hiring, retention, brand awareness, etc). Team members can view more details on these benefits by referencing the "Transparency Benefit Quantification" slides in Google Drive). We should carefully weigh the tradeoff between costs and benefits, to prevent a knee-jerk reaction to reduce transparency when it has costs.
 
 ##### Single Source of Truth
 {:.no_toc}
@@ -1079,9 +1079,9 @@ Our transparency value means more than just making information accessible to all
 
 ##### Say why, not just what
 {:.no_toc}
-Transparent changes have the reasons for the change laid out clearly along with the change itself. This leads to fewer questions later on because people already have some understanding. A change with no public explanation can lead to a lot of extra rounds of questioning, which is less efficient. 
+Transparent changes have the reasons for the change laid out clearly along with the change itself. This leads to fewer questions later on because people already have some understanding. A change with no public explanation can lead to a lot of extra rounds of questioning, which is less efficient.
 
-This also helps with institutional memory: a year from now when you want to know why a decision was made, or not, the issue or MR that has the decision also shares why the decision was made. 
+This also helps with institutional memory: a year from now when you want to know why a decision was made, or not, the issue or MR that has the decision also shares why the decision was made.
 This is related to [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence) - it's much easier to suggest removing or changing something if you know why it exists in the first place.
 
 Avoid using terms such as "industry standard" or "best practices" as they are vague, opaque, and don't provide enough context as a reason for a change.
@@ -1092,9 +1092,9 @@ Saying why and not just what enables discussion around topics that may impact mo
 
 Articulating why also helps people understand how something changed when you [articulate that you changed your mind](/handbook/values/#articulate-when-you-change-your-mind).
 
-Saying why does not mean justifying a decision against all other suggestions. 
-The [DRI](/handbook/people-group/directly-responsible-individuals/) is responsible for their decision. 
-The DRI is not responsible for convincing other people, but they should be able to articulate their reasoning for the change. 
+Saying why does not mean justifying a decision against all other suggestions.
+The [DRI](/handbook/people-group/directly-responsible-individuals/) is responsible for their decision.
+The DRI is not responsible for convincing other people, but they should be able to articulate their reasoning for the change.
 
 When a GitLab Team Member comes across an ask or material (MR, handbook, etc.) that does not provide a "why" with sufficient context, the Team Member is responsible for getting the why and, if needed, working with the DRI to ensure that it is adequately documented and communicated to give context to other team members.  In the absence of a why, team members may speculate the why. This is something that can lead to disruption and inefficiency.
 
@@ -1174,25 +1174,25 @@ They help us describe the type of behavior that we expect from people we hire.
 They help us to know how to behave in the organization and what to expect from others.
 Values are a framework for distributed decision making; they allow you to determine what to do without asking your manager.
 
-## How to scale the business while preserving GitLab values? 
+## How to scale the business while preserving GitLab values?
 
-*For certain business decisions or projects (such as [compensation](/handbook/total-rewards/compensation/) and [end-point management](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) ), GitLab team members may have a lot of opinions and interest, 
-and they want to provide their feedback and comments. 
-On the other hand,  it might be challenging for the project DRI to digest and respond to all these inputs. 
-What should you do in this scenario?*  
+*For certain business decisions or projects (such as [compensation](/handbook/total-rewards/compensation/) and [end-point management](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) ), GitLab team members may have a lot of opinions and interest,
+and they want to provide their feedback and comments.
+On the other hand,  it might be challenging for the project DRI to digest and respond to all these inputs.
+What should you do in this scenario?*
 
-Everyone can contribute at GitLab. 
-We encourage team members to share feedback and leave comments on issues. 
-Leaving feedback and comments shows that team members care about a topic and about GitLab as a company. 
-These perspectives may also uncover potential risks and problems in the project. 
+Everyone can contribute at GitLab.
+We encourage team members to share feedback and leave comments on issues.
+Leaving feedback and comments shows that team members care about a topic and about GitLab as a company.
+These perspectives may also uncover potential risks and problems in the project.
 
-There shouldn't be a [“Don’t they have their job to do?”](https://www.youtube.com/watch?v=U9de50APPAg) type of response. 
-Furthermore, we shouldn’t judge team members who are perceived as being the “squeaky wheel.”  
-At GitLab, we [measure results, not hours](/handbook/values/#measure-results-not-hours). 
-As long as a team member is producing required results, they are empowered to decide how to spend their time. 
+There shouldn't be a [“Don’t they have their job to do?”](https://www.youtube.com/watch?v=U9de50APPAg) type of response.
+Furthermore, we shouldn’t judge team members who are perceived as being the “squeaky wheel.”
+At GitLab, we [measure results, not hours](/handbook/values/#measure-results-not-hours).
+As long as a team member is producing required results, they are empowered to decide how to spend their time.
 
-On the other hand, as GitLab grows in size, we need to make decisions and the decisions may not be agreed to by everyone.  
-If a decision or project is sensitive or controversial, and receives large amounts of feedback, it can be challenging for the project DRI to handle. 
+On the other hand, as GitLab grows in size, we need to make decisions and the decisions may not be agreed to by everyone.
+If a decision or project is sensitive or controversial, and receives large amounts of feedback, it can be challenging for the project DRI to handle.
 In these cases, it's best to have time-boxed feedback built into timelines.
 
 In a hypothetical example where a DRI needs to decide between red and gold potatoes for a stew, they would create an issue with the following sentiment:
@@ -1205,7 +1205,7 @@ In a hypothetical example where a DRI needs to decide between red and gold potat
 >
 > Once the decision is made, it will be what is going into the stew.
 
-This method [has shown itself to be effective](https://gitlab.com/groups/gitlab-com/marketing/-/epics/858#what-happens-next) at soliciting productive feedback that doesn't derail a timeline while ensuring team members feel heard. 
+This method [has shown itself to be effective](https://gitlab.com/groups/gitlab-com/marketing/-/epics/858#what-happens-next) at soliciting productive feedback that doesn't derail a timeline while ensuring team members feel heard.
 
 
 
@@ -1277,7 +1277,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication/#link-sharing), agendas, etc.)
 1. Reinforcing our values with features in GitLab, for example the [Iterations feature](https://docs.gitlab.com/ee/user/group/iterations/).
 1. Applying one of our [values virtual backgrounds](https://about.gitlab.com/press/press-kit/#green-screens) in video calls.
-1. Our GitLab [Song Book](https://about.gitlab.com/company/culture/songbook/), the song lyrics often mention GitLab values. 
+1. Our GitLab [Song Book](https://about.gitlab.com/company/culture/songbook/), the song lyrics often mention GitLab values.
 
 The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses, which is why every promotion document at GitLab is shared with the entire company and uses the values as its core structure.
 
@@ -1289,15 +1289,13 @@ In negative feedback, we should be specific about what the problem is. For examp
 
 ## What to do if values aren't being lived out
 
-Value erosion can occur when indifference and apathy are tolerated. It can also occur when individuals justify undesired behaviors by interpreting values as "me values" rather than "company values." For example, a team member may speak to the importance of personal efficiency in order to justify not collaborating professionally with peers. This is not what we expect from team members in terms of efficiency and collaboration. 
+Value erosion can occur when indifference and apathy are tolerated. It can also occur when individuals justify undesired behaviors by interpreting values as "me values" rather than "company values." For example, a team member may speak to the importance of personal efficiency in order to justify not collaborating professionally with peers. This is not what we expect from team members in terms of efficiency and collaboration.
 
 If you feel that values are not being lived out in a given scenario, speak up and ask for context in a respectful manner. Navigating value conflicts starts with [assuming positive intent](/handbook/values/#assume-positive-intent) from other team members. Offer links to relevant values and/or sub-values when discussing the issue. If there is confusion or disagreement about the interpretation of a value, please surface the discussion in GitLab's `#values` Slack channel (for GitLab team members) or @-mentioning  [@gitlab](https://twitter.com/gitlab) on Twitter (for those who do not work at GitLab).
 
 In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitLab co-founder and CEO Sid Sijbrandij offers the following context.
 
 > Almost every time we face a hard decision at GitLab, it's because values are in conflict. It's not binary logic. It requires conversation, and sometimes there is no obvious answer. We can only achieve resolution by respectfully talking with each other and trusting the DRI to make the ultimate decision.
-
- 
 
 ## Permission to play
 
