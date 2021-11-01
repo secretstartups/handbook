@@ -37,7 +37,7 @@ actionable below.
 <a href="#collaboration"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_collaberation.svg" alt="Collaboration" title="Collaboration" height="78"></a>  <a href="#results"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_results.svg" alt="Results" title="Results" height="78"></a>  <a href="#efficiency"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_efficiency.svg" alt="Efficiency" title="Efficiency" height="78"></a>  <a href="#diversity-inclusion"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_diversity.svg" alt="Diversity, Inclusion &amp; Belonging" title="Diversity, Inclusion &amp; Belonging" height="78"></a>  <a href="#iteration"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_iteration.svg" alt="Iteration" title="Iteration" height="78"></a>  <a href="#transparency"><img style="padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_transparency.svg" alt="Transparency" title="Transparency" height="78"></a>
 </div>
 
-We take inspiration from other companies, and we always go for the [boring solutions](#boring-solutions). Our CEO, Sid Sijbrandij, has [shared the origin](/company/history/#Value-Origin-stories) of each of the CREDIT values, but
+We take inspiration from other companies, and we always go for the [boring solutions](#boring-solutions). Our CEO, Sid Sijbrandij, has [shared the origin](/company/history/#value-origin-stories) of each of the CREDIT values, but
 just like the rest of our work, we continually adjust our values and strive to make them better.
 GitLab values are a living document.
 In many instances, they have been documented, refined, and revised based on lessons learned (and scars earned) in the course of doing business.
@@ -939,7 +939,7 @@ Rapid iteration can get in the way of [results](#results) if it's not thought ou
 we use the values to guide all GitLab team members). In those instances, we add additional review to the approval
 process; not to prohibit, but to be more deliberate in our iteration. The change process is documented in the [GitLab Handbook Usage](/handbook/handbook-usage/) page and takes place via merge request approvals.
 
-#### See it in action
+##### See it in action
 {:.no_toc}
 Iteration is so important to GitLab that the CEO hosts [Iteration Office Hours](/handbook/ceo/#iteration-office-hours) to provide guidance and assist in breaking large, complex topics into MVCs and smaller iterations of work.
 
@@ -950,7 +950,7 @@ Iteration is so important to GitLab that the CEO hosts [Iteration Office Hours](
 
 You can view these on our [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/search?query=%22Iteration+Office+Hours%22).
 
-#### Examples of iteration in other companies
+##### Examples of iteration in other companies
 {:.no_toc}
 
 Iteration is a key value in many disruptive and successful organizations. Below are some examples:
@@ -1029,7 +1029,7 @@ Everything at GitLab is public by default.
 If something is not public, there should be a reference in the handbook that states a confidential decision was taken with a link to our Not Public guidelines, unless legal feels it carries undue risk.
 The public process does two things: allows others to benefit from the conversation and acts as a filter. Since there is only a limited amount of time, we prioritize conversations that a wider audience can benefit from.
 
-In line with our value of transparency and being public by default, all GitLab team member [profiles](https://docs.gitlab.com/ee/user/profile/#user-profile) should be public. Public profiles also enable broader collaboration and efficiencies between teams. To do so, please make sure that the checkbox under the [Private profile](https://docs.gitlab.com/ee/user/profile/#private-profile) option is unchecked [in your profile settings](https://gitlab.com/profile/). If you do not feel comfortable with your full name or location on your profile, please change it to what feels appropriate to you as these are displayed even on private profiles.
+In line with our value of transparency and being public by default, all GitLab team member [profiles](https://docs.gitlab.com/ee/user/profile/#user-profile) should be public. Public profiles also enable broader collaboration and efficiencies between teams. To do so, please make sure that the checkbox under the [Private profile](https://docs.gitlab.com/ee/user/profile/#private-profile) option is unchecked [in your profile settings](https://gitlab.com/-/profile). If you do not feel comfortable with your full name or location on your profile, please change it to what feels appropriate to you as these are displayed even on private profiles.
 
 If you believe something shouldn't be public that currently is (or vice versa), then [make a merge request](/handbook/communication/#everything-starts-with-a-merge-request) to the relevant page(s) suggesting the change so that you can collaborate with others and discuss with the [DRI](/handbook/people-group/directly-responsible-individuals/).
 
