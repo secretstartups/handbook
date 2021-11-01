@@ -187,7 +187,7 @@ The CI/CD Engineering Manager also does weekly stand-up with a team and product 
 * Experience with provisioning tools is beneficial but not essential.
 
 ### Growth:Experimentation
-Growth:Experimentation Engineers build, maintain, and integrate with GitLab the tools necessary for experimentation, to enable product teams at GitLab to develop and report on product led experiments. 
+Growth: Experimentation Engineers build, maintain, and integrate with GitLab the tools necessary for experimentation, to enable product teams at GitLab to develop and report on product-led experiments. 
 
 #### Requirements
 * Strong self-direction (this team is being bootstrapped).
