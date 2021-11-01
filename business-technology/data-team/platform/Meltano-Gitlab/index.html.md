@@ -90,8 +90,8 @@ schedules:
 ```
 Then follow below steps to copy the meltano.yml to the running container. 
 - Connect to the required cluster. In out case `meltano-gitlab` using command `gcloud container clusters get-credentials meltano-mashey --zone us-west1-a --project gitlab-analysis`
-- Connect to the container using command `kubectl exec -it gitlab-production-5f8fd9ccb-q6gt4  -c tap-xactly /bin/bash`. Note:- Pod name might change to get the correct pod name use `kubectl get pods`
-- Copy modified meltano.yml to  container from local `kubectl cp meltano.yml default/gitlab-production-5f8fd9ccb-q6gt4:/projects`
+- Connect to the container using command `kubectl exec -it gitlab-production-5f8fd9ccb-npvxl  -c tap-xactly /bin/bash`. Note:- Pod name might change to get the correct pod name use `kubectl get pods`
+- Copy modified meltano.yml to  container from local `kubectl cp meltano.yml default/gitlab-production-5f8fd9ccb-npvxl:/projects`
 - Try running the schedule `meltano schedule run zengrc-to-snowflake` for the first time it will ask to install the extractor below is the error we got even in our session.
 ```
     meltano          | Running extract & load...
