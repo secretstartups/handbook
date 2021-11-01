@@ -23,7 +23,6 @@ and [Fullstack Engineering Managers](/job-families/engineering/development/manag
 * Enable [quad planning team](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) [collaboration](/handbook/values/#collaboration) within [product groups](/company/team/structure/#product-groups)
 * Enable [Product](/handbook/product/performance-indicators/), [Quality](/handbook/engineering/quality/performance-indicators/), and [UX](/handbook/engineering/ux/performance-indicators/) performance via solid [stable-counterpart](/handbook/leadership/#stable-counterparts) partnership
 * Ensure psychological safety on your team
-* Generate and implement process improvements
 * Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format/)
 * Draft quarterly [OKRs](/company/okrs/) and [Engineering KPIs](/handbook/engineering/performance-indicators/#key-performance-indicators)
 * Improve product quality, security, and performance
@@ -54,7 +53,7 @@ and [Fullstack Engineering Managers](/job-families/engineering/development/manag
 * Passionate about open source and developer tools
 * Experience contributing to open source software
 * Experience working with modern frontend frameworks (for example React, Vue.js)
-* Working knowledge of Ruby on Rails and or Golang
+* Working knowledge of Ruby on Rails and/or Golang
 * Domain knowledge relevant to the product stage in which you are looking to join (for example someone with CI/CD experience applying for the Verify and Release team)
 * Be a user of GitLab, or familiar with our company
 * Prior Developer Platform or Tool industry experience
