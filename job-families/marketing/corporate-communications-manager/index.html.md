@@ -56,13 +56,35 @@ The Senior Corporate Communications Manager is a [grade 7](/handbook/total-rewar
 * Experience managing agencies and driving results.
 * Highly organized, detail-oriented and able to drive cross-functional deadlines consistently.
 
+### Staff Corporate Communications Manager
+
+#### Job Grade
+Staff Corporate Communications Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+**Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each specialized function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. Market data yields an output of 35 companies that use this type of level with an average of 2 incumbents. 
+
+## Responsibilities
+* Develop QoQ and YoY integrated communications programs.
+* Develop overarching company storylines for media.
+* Manage PR agencies to scale integrated communications programs  and ensure their results contribute to the overall corporate marketing objectives and goals.
+* Manage media training schedule and ensure 100% compliance of training completion.
+* Strategically lead crisis communications efforts as needed.
+* Develop program’s OKRs and deliver quarterly reporting of results.
+* Responsible for ideation of Corp Communications activities, OKRs, and reporting on results.
+
+#### Requirements
+* 9+ years experience in public relations and/or marketing communications
+* Experience developing and executing communications programs.
+* Experience managing agencies and driving results.
+* Highly organized, detail-oriented and able to drive cross-functional deadlines consistently.
+
 ### Principal Corporate Communications Manager
 
 #### Job Grade
 
 The Principal Corporate Communications Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-**Market Justification:** Survey data yields a return of 18 organizations with over 20 team members in the principal level within Marketing Communications. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. A comparable role at GitLab is the [Principal Internal Communications Manager](https://about.gitlab.com/job-families/marketing/internal-communications/#principal-internal-communications-manager). 
+**Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each business function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. Survey data yields a return of 18 organizations with an average of 1 incumbent in the principal level within Marketing Communications. A comparable role at GitLab is the [Principal Internal Communications Manager](https://about.gitlab.com/job-families/marketing/internal-communications/#principal-internal-communications-manager). 
 
 ## Responsibilities
 * Lead public company communication program; including quarterly earnings press releases and activities, investor updates, media interviews, etc.
