@@ -76,13 +76,38 @@ TODO
 TODO
 
 ##### WEX Discovery
-TODO
+Cadence: Semi-Monthly, after each pay period
+DRI: TBD
+Temporary process until integrations are in place
+
+**HSA, DCFSA, Commuter Parking and Commuter Transit Funding** 
+
+1. Request a report from Payroll on the latest pay period's HSA, DCFSA, Commuter Parking and Commuter Transit Deductions.
+    * HSA ONLY Log on to Plansource to Data & Tools > Reports. Search for HSA Funding Report, and enter the payroll date in the "Point In Time" date. Reconcile the Payroll Report and the PlanSource report to ensure that the HSA deduction data is accurate. If HSA funding data is missing from the Payroll Report, a double deduction may need to occur the following Pay cycle. 
+1. Log on to [Discover Wex Administration Portal](https://benefitsemployerlogin.wexhealth.com/home). Click on "Imports" in the side menu
+1. Click on the "New Import"> "Contribution" . Check "Pre-populate Template" and select the savings account you'd like to fund:
+    * If HSA - Select "Health Savings Account" under Plan Year - then check "Health Savings Account" 
+    * If DCFSA - Select the current plan year "1/01/2021 - 12/32/2021" - then check "Dependent Care FSA" 
+    * If Commuter Transit or Parketing - Select "Commuter Plan 2021" - then check "Mass Transit" and "Parking" 
+1. Click "Download Template"  This will generate a report with the following Columns: EmployeeIdentifier, Contribution Date, Contribution Discription, Contribution Amount, PlanName, PriorTax Year. Enter the information as follows:
+    * EmployeeIdentifier: This Column is the Employee's SSN, and will already be populated for all employees that have an Open HSA Wex account.
+    * Contribution Date: The Payroll Deduction date. Format should be MMDDYYYY - no dashes 
+    * Contribution Description: If the contribution is from the Employer (i.e. Employer HSA Funding) select "Employer". If the contribution is a deduction from the Employee, select "Payroll"
+    * Contribution Amount: The amount that was deducted from the employees' paycheck OR the amount that the Employer is contribution to the employee's HSA.
+    * PlanName: Pre-populated with the type of Funding account.
+    * ProirTaxYear: Leave Blank
+1. Double check the Payroll report if any employees received a deduction or contribution and did not populate on the Pre-populated Template. If so, create a Wex account for that employee and add them to the report.
+1. Once the report is completed, download it as a CSV file. Return to the Wex Import Page where you had left off. Click on "Next", then upload the CSV file. Click "import"
+1. Check if the report had any errors or issues by going back to the "Import" page on the Administration Portal. Under "Pending" you will see if your report had any errors. If there were only a handful of errors you can update directly on the portal by selecting "Fix All". If there were many errors, you can cancel the report and upload a new one.
+
+
+
 
 #### Census Updates
 
 Cadence: Semi-monthly
 DRI: TBD
-Temporary process until intregrations are in plance
+Temporary process until intregrations are in place
 
 **BambooHR to PlanSource:**
 
