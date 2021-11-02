@@ -52,7 +52,7 @@ The [Endpoint Management Implementation Plan](https://gitlab.com/gitlab-com/busi
   * This group will consist of a mix of GitLab team members and Engineering Managers
 * 2nd wave (2020-10-05): E-Group
 * 3rd wave (2020-10-12): People, Talent Acquisition, Finance, Product, Marketing
-* 4th wave (2020-10-19): Sales, Legal, Chief of Staff team
+* 4th wave (2020-10-19): Sales, Legal, Chief of Staff Team to the CEO
 * 5th wave (2020-10-26): Engineering
 
 # Linux laptops
