@@ -1,4 +1,4 @@
----
+ ---
 layout: handbook-page-toc
 title: "New Data Source"
 description: "How to add a new data source"
@@ -59,10 +59,10 @@ Based on the requirements, the data points that need to be extracted (i.e. which
 #### Extraction solution
 The Data Team has different instruments available to extract data out of source systems (randomly ordered):
  
-- Airflow
-- Custom made via Python
+- Custom made (via Python)
 - Fivetran
 - Meltano
+- Snowflake data share
 - Stitch
  
 The decision for which instrument to use, is **always** based on the combination of:
@@ -70,8 +70,41 @@ The decision for which instrument to use, is **always** based on the combination
 2. Maintenance effort.
 3. Ability to extend and adjust.
  
-Its the Data Team that determines which instrument is used.
-  
+Its the Data Team that determines which instrument is used. The following decision diagram is used to determine the right extraction solution:
+
+```mermaid
+graph LR
+   
+%%descisions
+    api_available{API Available?}
+    fivetran_connector_available{Fivetran connector available?}
+    stitch_connector_available{Stitch connector available?}
+    data_is_ext_snowflake_sources{Data is in different Snowflake Account}
+    singer_option{Singer Tap Possible?}
+
+%%end solutions
+    Custom([Custom development])
+    Fivetran([Fivetran])
+    Singer([Singer])
+    Stitch([Stitch])
+    Snowflake_datashare([Snowflake data share])
+
+%%flow
+    ds_request[New Request]-->api_available 
+    api_available-->|No|data_is_ext_snowflake_sources
+    api_available-->|Yes|fivetran_connector_available
+    stitch_connector_available-->|Yes|Stitch
+    fivetran_connector_available-->|Yes|Fivetran
+    fivetran_connector_available-->|No|stitch_connector_available
+    stitch_connector_available-->|No|singer_option
+    singer_option-->|Yes|Singer
+    singer_option-->|No|Custom
+    data_is_ext_snowflake_sources-->|Yes|Snowflake_datashare
+    data_is_ext_snowflake_sources-->|No|Custom
+```
+
+Custom development is a solution designed and developed by the GitLab Data Team. Examples of this are the current PGP and the Zuora Rev Pro extraction.   
+
 #### Access request
 Although it could be helpful to already provide the Data Team access to the source system, its not mandatory to raise an Access Request right now.
 
