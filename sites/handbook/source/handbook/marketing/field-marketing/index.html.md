@@ -1153,7 +1153,7 @@ In alignment with the PubSec team's [process to lock down shared data](https://g
 
 ## PubSec Website
 
-Please see the PubSec website page [here](https://about.gitlab.com/solutions/public-sector/).
+Please see the PubSec website page [here](https://about.gitlab.com/solutions/public-sector/). 
 
 ### How to Edit the PubSec Website
 
@@ -1162,7 +1162,89 @@ We utilize [Netlify CMS](/handbook/marketing/netlifycms/) to edit the PubSec web
 - Event listings do not drop off the page automatically after event has occurred, FMC will manually update the page with new event listings as needed.
 - The PubSec page is listed under the [Solutions](https://about.gitlab.com/admin/) section as `GitLab for the Public Sector`.
 - Note: Netlify sometimes shifts things around in formatting so when you look at the diffs in your MR, it may look like you have changed more than you actually have. The maintainer you assign the MR to will be able to differentiate what you changed versus what Netlify shifted.
-- If you have an open MR and need to make additional changes to the page, go back to the Netlify PubSec application, make your changes and click save. This will submit an additional commit to your open MR.
+- If you have an open MR and need to make additional changes to the page, go back to the Netlify PubSec application, make your changes and click save. This will submit an additional commit to your open MR.  
+
+## GitLab Government User Group Program  
+
+### Purpose, Mission and Values 
+
+#### Purpose
+To build a community of GitLab users within Government and Education where peers can share best practices, connect with GitLab Team members and collaborate on how to best serve the public sector.
+
+#### Mission Statement 
+To provide opportunities for discussion, education and community building for individuals who serve the Public Sector through Meetups (both virtual and in person), training and team building
+
+#### User Group Values
+ Transformation, Collaboration, Education, Iteration, Inclusion
+
+### Four Pillars of our User Group
+
+1. Member Development: Helping our members grow both through both technical and professional education
+1. Outreach: Engaging with the greater Public Sector community
+1. Awareness & Education: Helping to drive conversations on how DevOps can benefit the communities we serve
+1. Contributing: Continue to support the growth and transformation of DevOps within the technical community
+
+### Code of Conduct
+To ensure a positive experience we will adhere to the GitLab code of conduct [found here](https://about.gitlab.com/community/contribute/code-of-conduct/)
+
+### Boilerplate Verbiage
+Join us as we build a community of GitLab users within Government and Education where peers can share best practices, connect with public sector GitLab Team members and collaborate on how to best serve the public sector.
+
+We are committed to providing opportunities for discussion, education and community building for individuals who serve the public sector. We look forward to connecting through both virtual and in person events, training and team building!
+
+### Branches
+ - Caffeine and Collaboration #caffeineandcollaboration
+ - User Group Workshops #usergroupworkshop
+ - Iterate! Start something new! 
+
+### Recommended Formats for Event  
+ - Roughly 1.5 hours in length
+ - Series of 2-3 speakers (one GitLab and 1-2 customers)  
+ - AMA or Panel  
+
+### [Sample Agenda/Example Slide Deck](https://docs.google.com/presentation/d/1hwU1nt8wb8ADtj9JFq-zTg1bbZNf3L5H/edit?usp=sharing&ouid=114806938780598580840&rtpof=true&sd=true)
+
+### GitLab Forum
+ - Encourage members, registrants and attendees to get involved and open up discussions on the [GitLab Forum page](https://forum.gitlab.com/c/gitlab-government-user-group/44) for the GitLab Government User Group.
+
+### Imagery
+ - Branding should remain consistent across the entire User Group program leveraging marketing approved Tanuki graphics.  
+   - Approved GitLab Government User Group Tanuki can be found [here](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/gitlab-brand-files/gitlab-logo-files/user-group-program-tanuki).  
+   - See template for a custom design request [here](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issue%5Bmilestone_id%5D=#). 
+      - Project: Corporate Marketing 
+      - Template: request-design-general
+
+### Hashtags and Social Media Promotion
+ - The following hashtags should be used when promoting on social platforms: 
+   - #gitlabgovernmentusergroup 
+   - #caffeineandcollaboration (when applicable) 
+   - #gitlab 
+   - #devops 
+   - #devsecops 
+   - #gitlabusergroupworkshop (when applicable)  
+ - Event should be promoted via GitLab's corporate LinkedIn Events page. Reach out to @KiraAubrey in Field Marketing to have the event placed on the site.  
+ - Event should be promoted via Bambu. Reach out to @KiraAubrey to get a post created, approved and ready for team sharing. 
+ - Encourage relevant people from the sales, marketing and technical teams to promote via their social pages.  
+
+### When Engaging a Partner
+
+**Consider the following items**:  
+- Will the partner be hosting the meeting? (applicable to both in-person and virtual versions)  
+- Will the partner be collecting the registrations and how/when will those be shared with GitLab?
+- Ensure that the partner is aware this is NOT a marketable event.  
+- Ensure the GitLab marketing team understands "leads" are not to be added to nurture. 
+- Ensure branding is in alignment with GitLab Government User Group branding.  
+
+### Backend Processes:  
+
+**Getting Started with Meetup.com**  
+1. Create your meetup page on meetup.com  
+1. Reach out to the community team to let them know you've created a new meetup and request the GitLab Corporate Account code  
+1. The community team will provide you a unique ticket link. Click and follow prompts to have your meetup page join larger GitLab network on Meetup.com  
+1. Once page is established alert your team that it is live and encourage page engagement
+1. Once an event has been established it should be announced on the [GitLab Government User Group meetup.com page](https://www.meetup.com/gitlab-government-user-group/). Please reach out to @pmejia and/or @KiraAubrey to have the event published.  
+   - **Please Note**: Meetup.com will be leveraged for announcements and save the date messaging. Actual registration will take place on external registration sites via GitLab or the involved partner.  
+   - **Best Practice**: Create a Save the Date event for your upcoming event on meetup.com!
 
 # GitLab Company Information (Including Tax ID)
 
