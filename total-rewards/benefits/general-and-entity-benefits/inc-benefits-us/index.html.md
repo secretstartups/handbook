@@ -22,7 +22,7 @@ US based benefits are arranged through Willis Towers Watson and managed on the [
  
 For an overview of the the 2022 plan year enhancements and changes, please review the [2022 Plan Year US Benefits Open Enrollment Memo](https://drive.google.com/file/d/1wwakNs1d336V3D7b2q5x_l7TFqRIF_KM/view?usp=sharing)
 
-Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits.
+Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits. Please review the [2022 Annual Rights and Notices](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing).
  
 ## Who To Contact
  
@@ -69,7 +69,7 @@ _If you already have current group medical coverage, you may choose to waive or 
  
 If you do not enroll in a plan within your benefits election period, you will automatically receive the medical waiver allowance.
  
-GitLab has confirmed that our medical plans are CREDITABLE. Please see the attached [2021 notice](https://drive.google.com/file/d/1_w2svtOAP09lVKLWXsKzyLhZdlmB2ElZ/view?usp=sharing). If you or your dependents are Medicare eligible or are approaching Medicare eligibility, you will need this notice to confirm your status when enrolling for Medicare Part D. For more information about Medicare prescription drug coverage:
+GitLab has confirmed that our medical plans are CREDITABLE. Please see the attached [2021 notice](https://drive.google.com/file/d/1_w2svtOAP09lVKLWXsKzyLhZdlmB2ElZ/view?usp=sharing) and pg 7 of the [2022 Annual Notice](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing). If you or your dependents are Medicare eligible or are approaching Medicare eligibility, you will need this notice to confirm your status when enrolling for Medicare Part D. For more information about Medicare prescription drug coverage:
 - Visit www.medicare.gov
 - Call your State Health Insurance Assistance Program (see the [“Medicare & You” handbook](https://www.medicare.gov/medicare-and-you) for their telephone number) for personalized help.
 - Call 1-800-MEDICARE (1-800-633-4227). TTY users should call 1-877-486-2048.
@@ -208,6 +208,8 @@ In addition to the Cigna plans offered above, the following plans are also an op
 | Brand - Non-Preferred      | $35                  | $35             | $50             | $50             |
 | Specialty Drugs            | 20% up to $150       | 20% up to $150  | 20% up to $250  | $200            |
  
+Please see the [2022 Kaiser Colorado Enrollment Guide](https://drive.google.com/file/d/1oOqIMImcUShku7gKKd3IKkyMv2z7wRto/view?usp=sharing) for more information on the Kaiser Colorado plan. 
+
 **Team Member Costs:**
  
 The following costs are monthly rates which would be deducted from your paycheck.
@@ -230,6 +232,8 @@ _2022 Rates_: The following costs are monthly rates which would be deducted from
 | Team Member + Spouse     | $244         | $244         | $340   | $178   |
 | Team Member + Child(ren) | $194         | $194         | $284   | $144   |         
 | Family                   | $378         | $378         | $566   | $356   |
+
+
  
 ##### Kaiser Telehealth
  
