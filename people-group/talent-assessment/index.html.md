@@ -446,7 +446,7 @@ As a next step, let's schedule some time to talk more about what you want to do 
 
 ### Sample Next Steps
 The most important part of the performance factor discussion is to determine next steps in partnership with your team member. The team member should be the DRI for the next steps with support from you as their manager. 
-Our [Career Development handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/) includes a lot of great information and resources on career development including [an individual growth plan template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) and [career development worksheet](https://docs.google.com/presentation/d/104AFLl-45WVHbFqQFpNL8Ad-B5_vdY39wPEEmQsEKYI/edit#slide=id.g556339813d_0_2) which should help provide structure and a plan for next steps. 
+Our [Career Development handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/) includes a lot of great information and resources on career development including [an individual growth plan template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) and [career development worksheet](/handbook/people-group/learning-and-development/career-development/#internal-resources-1) which should help provide structure and a plan for next steps. 
 If you have any questions or concerns about next steps, please contact your manager and/or your [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division). 
 
 ## FAQs 
