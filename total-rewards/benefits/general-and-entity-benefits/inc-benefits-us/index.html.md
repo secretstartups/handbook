@@ -22,7 +22,7 @@ US based benefits are arranged through Willis Towers Watson and managed on the [
  
 For an overview of the the 2022 plan year enhancements and changes, please review the [2022 Plan Year US Benefits Open Enrollment Memo](https://drive.google.com/file/d/1wwakNs1d336V3D7b2q5x_l7TFqRIF_KM/view?usp=sharing)
 
-Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits.
+Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits. Please review the [2022 Annual Rights and Notices](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing).
  
 ## Who To Contact
  
