@@ -135,6 +135,9 @@ To be updated and documented upon revamp of nurture engine and database nurutrin
 </iframe>
 
 ##### Setup for Trial Nurture
+{: #setup-trial-nurture}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
 [Marketo Program]()
 
 UTMs
@@ -594,7 +597,8 @@ You can remove specific recurrences of scheduled sales nominated deployments. Th
 * Click the small `x` next to any of the dates that you would like to remove from the scheduled deployments
 
 ## Adding “add to calendar” links in our emails without using 3rd party tools
-
+{: #email-add-to-calendar}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 Example:
 
 [Add to google calendar](https://gitlab.com/) | [Add to other calendar](https://gitlab.com/)
@@ -604,8 +608,9 @@ Example:
 It’s virtually impossible to support all the calendar applications available. To help us understand what calendar tools to focus on, we took a look at our Email Analytics data. The most popular email clients our subscribers use are Apple Mail, Gmail, and Outlook. Using this data, we focused our efforts on creating a “add to calendar” button that would be compatible with iCalendar, Google’s calendar, and Outlook’s calendar.
 [Learn More Here](https://litmus.com/blog/how-to-create-an-add-to-calendar-link-for-your-emails)
 
-**Steps to manually creating “add to calendar” links in our emails**
-
+### Steps to manually creating “add to calendar” links in our emails
+{: #steps-email-add-to-calendar}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 * Create google calendar link for your events
     - Use this tool to generate your event information: [http://kalinka.tardate.com/](http://kalinka.tardate.com/)
     - You would have to copy and paste the information for the event from marketo to the tool above, this takes about 2 minutes
@@ -624,8 +629,9 @@ It’s virtually impossible to support all the calendar applications available. 
       `<a href=“link goes here”>Add to other calendar</a>`
 
 
-### The other option:
-
+### Additional option for "add to calendar": APIs
+{: #add-event-api}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 * Use AddEvent API (available for $19/month billed annually for up to 50 events/month).<br>
   [https://www.addevent.com/plans-and-pricing ](https://www.addevent.com/plans-and-pricing)
 * Use Eventable in Marketo (not sure about price)<br>
