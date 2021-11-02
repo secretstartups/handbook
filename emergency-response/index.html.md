@@ -142,8 +142,8 @@ This section should be used for all customer communications to communicate produ
 ### Recommended Format for Customer Emails
 The following is the recommended format for ad hoc customer emails though tailor it if the communication objective or content requires this. This does not include marketing (e.g., email campaigns, blogs, etc.) or standard product or security notifications (e.g., release blogs, release notifications, etc.). Emails should be clear, crisp, and direct, providing links for details (e.g., details on the issue or risk, procedural details to action). To [maximize reading comprehension](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1709943), remove all extraneous words and language to maximize the probability the email will be read and actioned. 
 
-The email should answer the following questions:
-1.  Why are you (customer) getting this email? This can be either specific (i.e., we know) or general (i.e., you may be or need to be aware).
+The email should answer the following questions in the following sequence:
+1.  Why are you (customer) getting this email? This can be either specific (i.e., we know) or general (i.e., you may be or need to be aware). This be the first sentence in the email. 
 1.  What is the issue/change/problem/etc.? What are the risk and impact? How do you know if you're impacted or potentially impacted by the issue? Is it resolved or still being worked on? 
 1.  What is your call to action? What should you do?
 1.  Where should you go if you need support? If applicable, where do you provide feedback (e.g., forum, issue, other)? If additional updates will be provided, when and how will that information be shared? 
