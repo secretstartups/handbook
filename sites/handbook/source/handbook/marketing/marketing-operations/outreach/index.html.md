@@ -155,6 +155,12 @@ SDR teams will use the functionality for scheduling to save time and effort, pro
 
 If a meeting to be scheduled, the SDR will respond with [times-lots by following the instructions here.](https://support.outreach.io/hc/en-us/articles/115003359774-Insert-Availability-in-Gmail#:~:text=Open%20a%20new%20compose%20window,will%20appear%2C%20revealing%20your%20calendar.)
 
+#### Outreach Phone Numbers for SDR Team
+
+In EMEA, we have purchased a number of phone numbers for the SDRs to use while outbound calling. These numbers allow the prospect to call back and it will go directly to the SDR who owns that phone number. These phone numbers belong to the team and not the SDR, so if the SDR moves team, then we will be taking that number and saving it for the SDR team replacement.
+
+If you need a phone number, please open an issue and we can purchase one if approved. Keep in mind that we can mostly only buy phone numbers in countries where we have an entity.  
+
 ### Outreach Engagement Panel
 Custom fields from Outreach that sync into SFDC for understanding engagement status in Outreach.
 
