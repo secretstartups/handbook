@@ -109,7 +109,7 @@ This leave runs concurrently with GitLab PTO. When partial paid leave is claimed
 
 #### During COVID-19
 
-During the COVID-19 Pandemic, per German labor law, team members are required to present a doctor's certificate if they need to take more than 3+ consecutive sick days. We encourage all team members to meet with a _virtual doctor_ for the certificate to avoid the need to leave home. The team member will send doctor's note to Total Rewards at total-rewards@gitlab.com. Total Rewards will file this in their BambooHR profile and forward to Payroll for processing. 
+During the COVID-19 Pandemic, per German labor law, team members are required to present a doctor's certificate if they need to take more than 3+ consecutive sick days. We encourage all team members to meet with a _virtual doctor_ for the certificate to avoid the need to leave home. The team member will send doctor's note to the Team Member Relations Specialists at teammemberrelations@gitlab.com. The Team Member Relations Specialists will file this in their BambooHR profile and forward to Payroll for processing.
 
 **Infection Protection Act**
 
