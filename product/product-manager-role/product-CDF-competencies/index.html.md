@@ -36,6 +36,13 @@ We also use a values alignment indicator to competencies:
 * [Iteration](/handbook/values/#iteration) - (I
 * [Transparency](/handbook/values/#transparency) - (T) 
 
+#### What is the difference between CDF reviews and Talent Assessments? 
+The CDF is a tool for discussing teammate career development on a regular cadence as a dialogue about performance, which does not impact compensation. 
+
+Across GitLab, we conduct annual [Talent Performance Assessments](https://about.gitlab.com/handbook/people-group/talent-assessment/#talent-assessment-program) which informs the annual compensation changes for teammates. The deliverable for the Talent performance assessment is to categorize teammates using the [performance/growth matrix](https://about.gitlab.com/handbook/people-group/talent-assessment/#the-performancegrowth-matrix) and calibrate the teammate's [performance factor](https://about.gitlab.com/handbook/people-group/talent-assessment/#the-performance-factor). 
+
+CDFs are one input into the [performance factor calibration](https://about.gitlab.com/handbook/people-group/talent-assessment/#calibration-session-guidelines). The second input for calibrations, [Growth](https://about.gitlab.com/handbook/people-group/talent-assessment/#what-is-growth), is not included in the CDF reviews. Growth is assessed by leadership in Product during the [calibration session](https://about.gitlab.com/handbook/people-group/talent-assessment/#calibration-session). The calibration ensures consistency of evaluation across managers and drives cross-departmental feedback on the teammate as it relates to the Job Family expectations. Additionally, CDFs are a great method for [identifying action](https://about.gitlab.com/handbook/people-group/talent-assessment/#identifying-action) as the calibration discussions conclude, putting any feedback into action for the teammate's performance and growth. 
+
 #### CDF for Individual Contributors
 Below, you'll find the CDF framework and potential discussion topics for [Product Managers](/job-families/product/product-manager/). 
 
