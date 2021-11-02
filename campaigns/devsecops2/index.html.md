@@ -59,6 +59,8 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 Users include both the developer and the security pro. We pride ourselves on having a united view of the software vulnerabilies and their status toward resolution. The buyer persona is usually the security manager who funds the delta from Premium to Ultimate.
 
 #### Target Persona 1:
+{: #persona-1}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 * **Level: Manager or Director**
 * **Function: Application Security**. In large organizations, Application Security is a dedicated team or person. In smaller IT shops a group or individual security person may be responsible for application security along with network security, security operations, and more.
@@ -91,7 +93,8 @@ While developers and DevOps teams like to use GitLab for security, the security 
 Competitive solutions require substantial set-up and maintenance to integrate scans into the CI pipeline, with no end-to-end visibility across mutliple tools.
 
 #### Target Persona 2:
-
+{: #persona-2}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 * **Level: Practitioner**
 * **Function: Application Security**
 The security pro cares most about managing risk to the enterprise/agency. They take a broad view of process looking for process improvement areas to reduce risk and avoid repeat mistakes. Because they care about risk, they want to identify unresolved vulnerabilities, their severity, and their remediation status. They care about trends over time and aggregate improvements. Often their metrics are mean time to remediation. It is rare that the security person themselves is able to remediate a software security flaw; they depend upon the developer to do this. This goal misalignment is often a reason for contention between the groups. In traditional app sec environments, where testing is done at the end of the SDLC, they may spend alot of their time tracking and reporting vulnerability statuses, vetting findings, and triaging to dev teams. Where development is more automated, they may be able to focus more on setting policies and allowing the tools to enforce them. They often want to avoid moving any new critical/high vulnerabilities into production and favor breaking the build to enforce this.
@@ -122,7 +125,8 @@ Competitive solutions require substantial set-up and maintenance to integrate sc
 
 
 #### Target Persona 3:
-
+{: #persona-3}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 * **Level: Manager**
 * **Function: Application Development or DevOps**   
 The developer cares about security but does not want to become a security expert. Their primary driver to write secure code is to protect their personal/professional reputation. They don't want to be the one that brings their company down via vulnerable code that they wrote. At the same time, they are goaled mostly on quickly turning out code that meets their users' requirements. Often they are not measured on security flaws. Security can seem like a necessary nuisance. Tools that fit within their workflow, without context-switching are most acceptable. The clarity GitLab provides by reporting vulnerabilities at code commit (changes they just made, not someone else's) is helpful.
@@ -162,8 +166,10 @@ The developer cares about security but does not want to become a security expert
 ### Polished Messaging 
 {: #polished-messaging .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-#### Overall
 
+#### Overall
+{: #polished-messaging-overall}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 |  | Polished Messaging |
 | ------ | ------ |
 | **Overall Message** | The complexity of integrating security is one of the biggest challenges facing DevOps. GitLab simplifies DevSecOps efforts and improves compliance, by embedding robust security capabilities for both the developer and the security pro into one end-to-end DevOps platform. |
@@ -205,7 +211,8 @@ The developer cares about security but does not want to become a security expert
 **[Overview of Prescriptive Buyer's journey>>](https://docs.google.com/spreadsheets/d/17jpqNUlldGaQ7EMEUEPGGWH-7JqIpuTDDBaOsNECNpE/edit#gid=852304802)**
 
 #### PathFactory track
-
+{: #pathfactory}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 **[Awareness pathfactory track>>](https://gitlab.lookbookhq.com/authoring/content-library/recommend/77514)**
 
 **[Consideration pathfactory track>>](https://gitlab.lookbookhq.com/authoring/content-library/recommend/78131)**
@@ -223,13 +230,15 @@ The developer cares about security but does not want to become a security expert
 {: #outreach-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 #### 🔔 About the inbound leads
-
+{: #about-inbound-leads}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 * **What did they do?** They downloaded a relevant DevSecOps asset, registered/attended a DevSecOps webcast/workshop/demo or viewed DevSecOps assets in the campaign's PathFactory track.
 * **Are they MQLs?** If they did one of the actions above and consume additional assets in PF, they will reach the 90 point threshold and MQL.
 * **What if they don't hit the threshold?** They will receive additional related assets via an email nurture campaign in Marketo. As they engage more, their score increases toward the 90 point threshold.
 
 #### Accessing leads in SFDC
-
+{: #leads-in-sfdc}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 In an effort to keep you focused on the prioritized lead and contact views, an **Interesting Moment** is triggered from Marketo.
 
 **Interesting Moment to look for: those that contains `DevSecOps`phrase**
@@ -241,14 +250,15 @@ Please prioritize lead AND contacts views per normal SLAs:
 *If they are in salesadmin / raw status / legacy AE owned, managers will monitor these leads for re-routing.*
 
 #### Outreach sequence
-
+{: #outreach-sequence .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 Please put leads tagged with relevant last interesting moments into the below master sequence:
 
 **[Master Outreach sequence>>](https://app1a.outreach.io/sequences/8901)**
 
 ## Behind the Scenes
-{: .alert #research-prep .alert-gitlab-orange}
-
+{: .alert #behind-the-scenes .alert-gitlab-orange}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 #### Campaign Execution Documentation & Resources
 {: #campaign-execution .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
