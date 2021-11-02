@@ -48,7 +48,7 @@ For now, this role is called a [CEO shadow](https://feld.com/archives/2015/03/ce
 Other names considered:
 
 1. Technical assistant: This title could be mixed up with the [executive assistant](/job-families/people-ops/executive-business-administrator/) role. ["In 2003, Mr. Bezos picked Mr. Jassy to be his technical assistant, a role that entailed shadowing the Amazon CEO in all of his weekly meetings and acting as a kind of chief of staff."](https://www.theinformation.com/articles/amazons-cloud-king-inside-the-world-of-andy-jassy).
-1. Chief of Staff: This commonly is the ["coordinator of the supporting staff"](https://en.wikipedia.org/wiki/Chief_of_staff) which is not the case for this role since people rotate out of it frequently.
+1. Chief of Staff to the CEO: This commonly is the ["coordinator of the supporting staff"](https://en.wikipedia.org/wiki/Chief_of_staff) which is not the case for this role since people rotate out of it frequently.
 1. [Global Leadership Shadow Program:](https://www2.deloitte.com/gr/en/pages/careers/articles/leadership-shadow-program.html) This is too long if only the CEO is shadowed.
 
 ### About the CEO Shadow Program
@@ -1017,7 +1017,7 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-03 | 2020-03 | [Michael Terhar](https://gitlab.com/mterhar) | Technical Account Manager | [The HyperGrowth Calendar](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/44584) |
 | 2020-03 | 2020-04 | [Christen Dybenko](https://gitlab.com/cdybenko) | Sr Product Manager |  |
 | 2020-04 | 2020-04 | [Scott Stern](https://gitlab.com/sstern) | Frontend Engineer |  |
-| 2020-04 | 2020-04 | [Stella Treas](https://gitlab.com/streas) | Chief of Staff |  |
+| 2020-04 | 2020-04 | [Stella Treas](https://gitlab.com/streas) | Chief of Staff to the CEO |  |
 | 2020-04 | 2020-04 | [Bradley Andersen](https://gitlab.com/elohmrow) | Technical Account Manager |  |
 | 2020-04 | 2020-04 | [Cassiana Gudgenov](https://gitlab.com/cgudgenov) | People Operations Specialist |  |
 | 2020-04-28 | 2020-05-08 | [Betsy Church](https://gitlab.com/bchurch) | Senior Talent Brand Manager | [Reflecting on the CEO Shadow Program at GitLab](https://youtu.be/DGJCuMVp6FM) |
