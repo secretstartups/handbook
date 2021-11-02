@@ -293,7 +293,11 @@ Example 2: Team member Matt Gandhi's start date was 2019-06-01 but he departed o
 1. The People Experience team confirm the correct purging dates in the Guarding report using the above formula to calculate how long Form I-9 must be kept for the relevant team members and then purge them after the calculated time period. 
 1. When a team member has passed a purging date, the People Experience team must:
 
-    - Confirm with Guardian that the team member I-9 records have been deleted.
+    - Login to Guardian and go to `Administration`.
+    - Click on `Purge Data`
+    - Select `Purge Employees & I9 Data` from the drop down
+    - Click on the check box by the former team members name
+    - Then click` purge` 
     - Review the team member's Verification folder in BambooHR to ensure that no form I-9 copies are present. Delete form I-9 if found. Receipt and confirmation of work eligibility do not need to be deleted.
 
 ### Letters of Employment and Employee Verification Requests
