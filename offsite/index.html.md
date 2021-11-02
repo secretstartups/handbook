@@ -25,7 +25,7 @@ The agenda should includehsmith-watson-update-handbook-ceo-1 discussions that ar
 ## Attendees
 
 1. [Executives](/company/team/structure/#executives)
-1. [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/); when not possible, the [Director, Strategy and Operations](/job-families/chief-executive-officer/strategy-and-operations/)
+1. [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/); when not possible, the [Director, Strategy and Operations](/job-families/chief-executive-officer/strategy-and-operations/)
 1. [CEO Shadows](/handbook/ceo/shadow/)
 1. [Executive Business Admin](/handbook/eba/#executive-business-administrator-team) to the CEO (optional)
 1. Invited participants: folks invited to participate in one or more specific session
@@ -41,9 +41,9 @@ The **CEO Shadows** are responsible for taking thorough notes throughout the eve
 CEO Shadows will also tasked with making Merge Requests on behalf of an Executive.
 Please follow the below outlined process for announcing and merging the changes.
 
-The **Chief of Staff** or other team member is responsible for facilitating the event.
+The **Chief of Staff to the CEO** or other team member is responsible for facilitating the event.
 They will work with the Staff EBA closely to ensure the event runs smoothly.
-The CoS is the on-the-ground person ensuring that the event is kept on-schedule, discussions are kept on-subject, helping steer the conversation when necessary, guiding conversations towards action items, and ensuring that [implementation is about 50% of time](/company/offsite/#timeline).
+The CoS to the CEO is the on-the-ground person ensuring that the event is kept on-schedule, discussions are kept on-subject, helping steer the conversation when necessary, guiding conversations towards action items, and ensuring that [implementation is about 50% of time](/company/offsite/#timeline).
 
 The **Staff Executive Business Administrator to the CEO** is responsible for organizing and coordinating the Offsite, including travel, lodging, agendas, and meals.
 
@@ -51,7 +51,7 @@ The **Staff Executive Business Administrator to the CEO** is responsible for org
 
 Since most of the E-group is in the San Francisco Bay Area, we'll go to a location that is drivable or a short direct flight, for example: East Bay, Denver, Sonoma.
 We tend to pick a location at or close to a member of the E-group.
-If the CEO is traveling, the CoS (preferred) or the Staff EBA should bring [the Owl](https://www.owllabs.com).
+If the CEO is traveling, the CoS to the CEO (preferred) or the Staff EBA should bring [the Owl](https://www.owllabs.com).
 
 [Hybrid calls are hard](/handbook/communication/#hybrid-calls-are-horrible), but occasionally the Offsite will need to take a hybrid meeting form.
 When this is the case, the Staff EBA to the CEO will ensure that the calendar invite for the Zoom offsite includes a Zoom link.
@@ -103,7 +103,7 @@ In 2021, the following offsite dates have been confirmed (starting dates):
 1. 2 weeks before Content Selection or other required pre-work is finalized
 1. 2 weeks before- if a subject requires data to support the discussion, make a request of [the data team](/handbook/business-ops/data-team/) for assistance no less than 2 weeks before the offsite; [alert the data team of on-call request](/company/offsite/#data-team-member-on-call)
 1. Friday before- agenda is finalized (though always subject to change); Prep Work asks finalized
-1. Immediately following the Offsite, the CoST should create the agenda for the next Offsite so that topics can be added as they come up.
+1. Immediately following the Offsite, the CoST to the CEO should create the agenda for the next Offsite so that topics can be added as they come up.
 
 ## Prep Work
 
@@ -132,30 +132,30 @@ There are a number of reasons why participants are invited to join specific Offs
 ## Data team member on call
 
 A data team member is available on-call during the offsite.
-The CoS gives the data team a heads up at least two weeks before, so that they data team can plan appropriately.
+The CoS to the CEO gives the data team a heads up at least two weeks before, so that they data team can plan appropriately.
 
 ## Finance business partner available in case of questions
 
 A finance business partner is available during offsite agenda sessions related to reviews of the financials or budgets.
-The CoS gives the finance team exec admin and fp&a team a heads up at least two weeks before, so that the finance team can plan and block calendars appropriately.
+The CoS to the CEO gives the finance team exec admin and fp&a team a heads up at least two weeks before, so that the finance team can plan and block calendars appropriately.
 
 ## Agenda and Documenting
 
 We take notes in a Google Doc that contains the SSoT of the agenda.
 At least 1 month prior, the doc is created and proposed topics for discussion should be added to the bottom of the doc. Each proposed topic should include a clear definition of what we are trying to achieve in the discussion (a decision made, a chance for E-Group to give feedback, etc.). E-Group sponsors are responsible for providing context to team members who they plan to include in discussion preparation or participation. This could take the form of a 15 minute meeting to align on goals for the discussion and what material should be prepared in advance. 
-(The CoS will pull from here when prioritizing and planning.)
+(The CoS to the CEO will pull from here when prioritizing and planning.)
 Please add links to relevant materials, issues, or proposals up front.
 When there is an issue or doc linked, we take notes there, instead of in the overall doc.
 There is a [doc template](https://docs.google.com/document/d/1LCy1qWG88ChBXWL8YibNJbkxuxzVdh0Wx9KM1lw_Vcg/edit) that can be used as a starting point.
 
 If we can conclude a topic early we move on to one from a reserve list.
-The CoS is responsible for maintaining the schedule, optimizing discussion schedules for energy levels, and having topics prepared.
+The CoS to the CEO is responsible for maintaining the schedule, optimizing discussion schedules for energy levels, and having topics prepared.
 
 The agenda will guide conversations. If an E-Group member wants to speak, the team member should put thoughts in the agenda. In instances where the comment cannot be typed out, for reasons of confidentiality or given time constraints in typing out the comment, the member can type out: [INSERT NAME:!]. This serves a time placeholder for the team member, so the team member can contribute at the appropriate point in the agenda.
 
 We will document agreed changes directly to the handbook and any other relevant SSoT during the meeting.
 Every item will get a MR maker and MR reviewer assigned.
-Most of the time the MR maker will be the CoS, one of the CEO shadows, or the Staff EBA to the CEO.
+Most of the time the MR maker will be the CoS to the CEO, one of the CEO shadows, or the Staff EBA to the CEO.
 When the MR is ready, the reviewer is at-mentioned in the public E-group channel in Slack.
 The reviewer communicates with the maker via that Slack thread.
 The goal is to merge it the same day, preferably within 15 minutes.
@@ -172,7 +172,7 @@ These include:
 
 
 ### Break guidelines 
-Break periods are scheduled into the agenda by the CoS and should follow these guidelines:
+Break periods are scheduled into the agenda by the CoS to the CEO and should follow these guidelines:
 1. Breaks should be scheduled for 1/6 of the time (same as speedy meeting)
 1. Breaks should be a minimum of 5 minutes
 1. Going over time on any topic should result in moving the break. It does not reduce it.  
@@ -182,7 +182,7 @@ Break periods are scheduled into the agenda by the CoS and should follow these g
 
 Every discussion should start by clarifying "What decision needs to be made from this?"
 All follow up actions need to be captured as to-dos, noted with `TODO Person` in the doc.
-If there is not an exec's name tied to the to-do, it belongs to the CEO Shadows/and or the CoS.
+If there is not an exec's name tied to the to-do, it belongs to the CEO Shadows/and or the CoS to the CEO.
 Before emphasizing follow ups, many conclusions never landed and/or resulted into action.
 Follow ups can take the form of an:
 
@@ -220,9 +220,9 @@ Notes shared with all-directs will be shared with all team members within 4 busi
 
 This Zoom call is a separate invite.
 The Staff EBA to the CEO is responsible for setting up the invite, the doc for the call, and inviting all direct reports to Executives.
-The CoS will moderate the call.
+The CoS to the CEO will moderate the call.
 
-The CoS will have materials prepared for the call, no later than 12 business hours before or before end of day if the offsite concludes on a Friday. Material will include an event summary and a highlight video message.
+The CoS to the CEO will have materials prepared for the call, no later than 12 business hours before or before end of day if the offsite concludes on a Friday. Material will include an event summary and a highlight video message.
 The materials used for the call can be repurposed by attendees to share key information with their teams.
 Think of the materials as a "Meeting in a Box."
 
