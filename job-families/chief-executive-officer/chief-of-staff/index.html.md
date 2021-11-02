@@ -1,17 +1,17 @@
 ---
 layout: job_family_page
-title: "Chief of Staff"
+title: "Chief of Staff to the CEO"
 ---
 
-The Chief of Staff is a very talented individual who serves as a trusted advisor and confidant to the Chief Executive Officer (CEO) for up to 36 months. The Chief of Staff and the CEO work closely together to get twice as much done as the CEO would be able to do alone. Over time the work will get more interesting culminating in a senior leadership position at GitLab or another company. This is a unique opportunity to see every aspect of a fast-growing unicorn at the CEO level. For more context see the [references](#references) at the end of this page.
+The Chief of Staff to the CEO is a very talented individual who serves as a trusted advisor and confidant to the Chief Executive Officer (CEO) for up to 36 months. The Chief of Staff to the CEO and the CEO work closely together to get twice as much done as the CEO would be able to do alone. Over time the work will get more interesting culminating in a senior leadership position at GitLab or another company. This is a unique opportunity to see every aspect of a fast-growing unicorn at the CEO level. For more context see the [references](#references) at the end of this page.
 
-This is a senior leadership role. This role does not do any work our [Executive Business Administrators](/job-families/people-ops/executive-business-administrator/) (EBAs) are already doing, who for example, are responsible for scheduling and driving the [Objective and Key Results](/company/okrs/) (OKR) process. This role could have EBA support, although will not have a dedicated EBA themselves. It also is unrelated to the work of our [CEO Shadow training program](/handbook/ceo/shadow/) who, for example, takes notes during all meetings with the CEO. A detailed list of the types of projects the Chief of Staff might work on can be found in the Chief of Staff [handbook page](/handbook/ceo/chief-of-staff-team/#what-projects-does-the-cost-work-on).
+This is a senior leadership role. This role does not do any work our [Executive Business Administrators](/job-families/people-ops/executive-business-administrator/) (EBAs) are already doing, who for example, are responsible for scheduling and driving the [Objective and Key Results](/company/okrs/) (OKR) process. This role could have EBA support, although will not have a dedicated EBA themselves. It also is unrelated to the work of our [CEO Shadow training program](/handbook/ceo/shadow/) who, for example, takes notes during all meetings with the CEO. A detailed list of the types of projects the Chief of Staff to the CEO might work on can be found in the Chief of Staff to the CEO [handbook page](/handbook/ceo/chief-of-staff-team/#what-projects-does-the-cost-work-on).
 
 ## Job Grade 
 
-The Chief of Staff is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Chief of Staff to the CEO is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## [Chief of Staff Q&A Video with the CEO](https://youtu.be/uUwmlJfim6U)
+## [Chief of Staff to the CEO Q&A Video with the CEO](https://youtu.be/uUwmlJfim6U)
 
 ## Responsibilities
 
@@ -38,7 +38,7 @@ The responsibilities include both directed work that will mostly be triggered by
 1. Brief CEO visitors on GitLab before they visit.
 1. Help contribute topics for the [E-group offsite](/company/offsite/).
 1. Serve as a proxy for the CEO by attending meetings in place of the CEO and making decisions on the CEO's behalf.
-1. Chief of Staff will participate in every E-group meeting. The person will not be an executive or part of the e-group.
+1. Chief of Staff to the CEO will participate in every E-group meeting. The person will not be an executive or part of the e-group.
 1. Act as the communication arm for the CEO with team members, clients, investors, community members, and other stakeholders.
 1. Act as a sounding board to the CEO for new ideas and initiatives.
 1. Prepare ahead of formal and informal Board meetings. Ensure CEO has up to date information from every function in advance of questions from the board.
@@ -79,10 +79,10 @@ Rotation is 24 to 36 months with the following tentative schedule:
    - 2 - 3 months of onboarding your replacement and interviewing at GitLab for senior leadership positions.
 
 ## Risks
-The Chief of Staff will be asked to undertake small, tactical tasks as part of the role. This could lead to them becoming frustrated by feeling that they are being micro-managed. They should feel empowered to delegate or refuse these tasks.
+The Chief of Staff to the CEO will be asked to undertake small, tactical tasks as part of the role. This could lead to them becoming frustrated by feeling that they are being micro-managed. They should feel empowered to delegate or refuse these tasks.
 
 ## Performance Indicators
-- [Meetings shifted from CEO - hours spent in meetings decreases overtime by Chief of Staff stepping in, supported by Internal Consultants](/handbook/ceo/chief-of-staff-team/performance-indicators/#executive-time-for-the-ceo)
+- [Meetings shifted from CEO - hours spent in meetings decreases overtime by Chief of Staff to the CEO stepping in, supported by Internal Consultants](/handbook/ceo/chief-of-staff-team/performance-indicators/#executive-time-for-the-ceo)
 - [Throughput - Issues or merge requests closed as measurement of projects iterated on](/handbook/ceo/chief-of-staff-team/performance-indicators/#throughput-for-the-cost)
 - [Percent of sent Slack messages that are not DMs](/handbook/ceo/chief-of-staff-team/performance-indicators/#percent-of-sent-slack-messages-that-are-not-dms)
 
@@ -102,5 +102,5 @@ Candidates for this position can expect the hiring process to follow the order b
 As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
 
 ## References
-* [What Is a Chief of Staff and When Do You Need One?](https://www.bridgespan.org/insights/library/careers/chief-of-staff-role#sidebar-two) by Madeleine Niebauer 2018-09-26
-* [The Chief of Staff role in Silicon Valley](https://medium.com/@juliadewahl/the-chief-of-staff-role-in-silicon-valley-182eb93e636e) by Julia DeWahl 2019-04-29
+* [What Is a Chief of Staff to the CEO and When Do You Need One?](https://www.bridgespan.org/insights/library/careers/chief-of-staff-role#sidebar-two) by Madeleine Niebauer 2018-09-26
+* [The Chief of Staff to the CEO role in Silicon Valley](https://medium.com/@juliadewahl/the-chief-of-staff-role-in-silicon-valley-182eb93e636e) by Julia DeWahl 2019-04-29

@@ -3,13 +3,13 @@ layout: job_family_page
 title: Strategy and Operations
 ---
 
-The Strategy and Operations team are GitLab's internal strategy consultants who move from problem to problem in different functional areas. This team also plays an operational role in helping to support key intiatives while supporting the Chief of Staff and CEO. 
+The Strategy and Operations team are GitLab's internal strategy consultants who move from problem to problem in different functional areas. This team also plays an operational role in helping to support key intiatives while supporting the Chief of Staff to the CEO and CEO. 
 
 ## Levels
 
 ### Staff Strategy and Operations 
 
-The Staff Strategy and Operations reports to the [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/).
+The Staff Strategy and Operations reports to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/).
 
 #### Staff Strategy and Operations Job Grade
 
@@ -17,12 +17,12 @@ The Staff Strategy and Operations is a [grade 8](/handbook/total-rewards/compens
 
 #### Staff Strategy and Operations Responsibilities
 
-- Fill in knowledge gaps of the Chief of Staff
+- Fill in knowledge gaps of the Chief of Staff to the CEO
 - Identify procedural gaps in existing workflows and work to resolve with optimization, automation, and data
-- Support the creation of prepared materials (documents, decks) for the Chief of Staff and the CEO
+- Support the creation of prepared materials (documents, decks) for the Chief of Staff to the CEO and the CEO
 - Translate practical needs into technical and/or business requirements
 - Support special projects that are urgent and important
-- Execute on projects and ongoing assignments for the Chief of Staff
+- Execute on projects and ongoing assignments for the Chief of Staff to the CEO
 - Determine long-term owners outside of the Strategy and Operations team for initiatives and asks that are best served through a functional home. Partner with future owners to ensure that ownership and responsibilities are understood and agreed upon
 - Demonstrate GitLab values in all work
 
@@ -42,7 +42,7 @@ The Staff Strategy and Operations is a [grade 8](/handbook/total-rewards/compens
 
 ### Principal Strategy and Operations
 
-The Principal Strategy and Operations reports to the [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/).
+The Principal Strategy and Operations reports to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/).
 
 #### Principal Strategy and Operations Job Grade
 
@@ -65,7 +65,7 @@ The Principal Strategy and Operations is a [grade 9](/handbook/total-rewards/com
 
 ### Director of Strategy and Operations 
 
-The Director of Strategy and Operations reports to the [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/).
+The Director of Strategy and Operations reports to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/).
 
 #### Director of Strategy and Operations Job Grade
 
@@ -77,9 +77,9 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Fill in gaps in other parts of the business when there are short-term vacancies or a lack of relevant skills or capacity
 - Collaborate cross-functionally with senior counterparts throughout the business 
 - Identify opportunities to improve business efficiency and make changes to improve the business
-- Prepare materials (documents, decks) for the Chief of Staff and the CEO
+- Prepare materials (documents, decks) for the Chief of Staff to the CEO and the CEO
 - Translate practical needs into technical and/or business requirements
-- Execute on projects and ongoing assignments for the Chief of Staff and/or CEO
+- Execute on projects and ongoing assignments for the Chief of Staff to the CEO and/or CEO
 - Demonstrate GitLab values in all work
 
 #### Director of Strategy and Operations Requirements
@@ -123,7 +123,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 * Extends that of the Staff or Principal level Strategy and Operations 
 - Deeply understands and is able to synthesize the market, competition, and upcoming solutions in the DevOps space 
 - Proven ability to manage cross-functional projects. Need to not only excel in operating at a strategic level but also need to understand when to dive deep to keep the project on track 
-- Readiness to partner directly with the CEO, CoST, or other senior leaders on high priority initiaties
+- Readiness to partner directly with the CEO, CoST to the CEO, or other senior leaders on high priority initiaties
 - Technical background and clear understanding of developer products. Familiarity with Git, Continuous Integration, Containers, Kubernetes, and Project Management software a plus
 - Ability to find opportunities where teams need to collaborate with each other and help them make those decisions that are optimal for the company even if they maybe sub-optimal in the short term for particular groups
 - Ability to take meetings with and work synchronously with folks in Pacific Standard Time
@@ -142,20 +142,20 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 
 ## Performance Indicators
 
-- [Meetings shifted from CEO - hours spent in meetings decreases overtime by Chief of Staff stepping in, supported by the [Chief of Staff Team](/handbook/ceo/chief-of-staff-team/performance-indicators/#executive-time-for-the-ceo)
+- [Meetings shifted from CEO - hours spent in meetings decreases overtime by Chief of Staff to the CEO stepping in, supported by the [Chief of Staff Team to the CEO](/handbook/ceo/chief-of-staff-team/performance-indicators/#executive-time-for-the-ceo)
 - [Throughput - Issues or merge requests closed as measurement of projects iterated on](/handbook/ceo/chief-of-staff-team/performance-indicators/#throughput-for-the-cost)
 - [Percent of Slack Messages that aren't Direct Messages](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/performance-indicators/#percent-of-sent-slack-messages-that-are-not-dms)
 
 ## Career Ladder
 
-This is a cross-functional role, so team members will have exposure to broader parts of the organization. They may choose to join other teams. They may also be considered for the [Chief of Staff role](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/) as the Chief of Staff completes the rotation. 
+This is a cross-functional role, so team members will have exposure to broader parts of the organization. They may choose to join other teams. They may also be considered for the [Chief of Staff to the CEO role](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/) as the Chief of Staff to the CEO completes the rotation. 
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/)
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with one of our global recruiters
 - Next, candidates will be invited to schedule a 50 minute interview with a team member from another department
-- Then, candidates will be invited to schedule a 50 minute interview with the Chief of Staff and be asked to complete a homework assignment
+- Then, candidates will be invited to schedule a 50 minute interview with the Chief of Staff to the CEO and be asked to complete a homework assignment
 - Next, candidates will be invited to schedule a 50 minute interview with a member of our Engineering team and be asked to complete a product assessment
 - Then candidates will be invited to schedule a 50 minute interview with our CLO or another member of the executive team
 - Finally, candidates will meet with our CEO who will conduct the final interview

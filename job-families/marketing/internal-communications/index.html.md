@@ -59,5 +59,5 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule a 50 minute interview with the Chief Legal Officer
 - Next candidates will be asked to complete a homework assignment
 - After that, candidates will be invited to schedule two 50 minute interviews with members of the People and Marketing teams
-- After that, candidates will be invited to interview with the Chief of Staff
+- After that, candidates will be invited to interview with the Chief of Staff to the CEO
 - Finally, candidates will meet with our CEO
