@@ -410,7 +410,7 @@ The Zoominfo data pipeline is an automated bi-directional data pipeline, that le
 [Snowflake data share] (https://docs.snowflake.com/en/user-guide/data-sharing-intro.html) enables sharing of snowflake database tables from one account and also allow to access to data shared from external accounts. This involves creating an outbound share of a database in their account and grant access to the snowflake table that needs to be shared to an external account using either web interface/SQL.
 
 #### Snowflake Data Share using SQL.
-Below are steps followed for working on outbound/inbound shares via snowflake data share using SQL.
+Below are the steps followed for working on outbound/inbound shares via snowflake data share using SQL.
 
 ##### Outbound share using SQL.
 For example database named `prod` with a schema named `share` and a table named `gitlab_user_outbound`is shared with consumer account `azitest`. Run below SQL's
@@ -431,7 +431,7 @@ For example share named `gitlab` is shared to us from account `azitest`, run bel
     `CREATE DATABASE zoominfo_inbound FROM SHARE azitest.gitlab;`
 
 #### Snowflake Data Share using snowflake web interface. 
-Below are steps followed for working on outbound/inbound shares via snowflake data share using Web interface. 
+Below are the steps followed for working on outbound/inbound shares via snowflake data share using Web interface. 
 Use `accountadmin` role and navigate to Share page in the snowflake web interface to perform inbound/outbound data share tasks.
 
 ![image-1.png](./image-1.png)
