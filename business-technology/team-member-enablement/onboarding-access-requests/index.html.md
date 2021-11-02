@@ -238,7 +238,7 @@ If your laptop is broken and needs to be repaired you can take it into an Apple 
 
 If the repair is not going to be too expensive (more than $1000 dollars USD), go ahead and repair and expense. If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on that is non-Windows.
 
-You can open an issue in the [Team Member Enablement Issue Tracker](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval.
+You can open an issue in the [Team Member Enablement Issue Tracker](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval. Please make sure to attach/include any estimates or reciepts for the repair that you got from Apple (or any authorized service center) in the issue. Picture or PDF will work just fine.
 
 Do not provide the repair center with any credentials to your laptop. If they ask, you can tell them that they're authorized to do a factory reset on the laptop should it be necessary to run diagnostics. This will help prevent sensitive data from being accidentally or intentionally leaked during repair.
 
