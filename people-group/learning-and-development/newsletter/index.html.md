@@ -34,6 +34,7 @@ We build the newsletter in an issue in the [Learning & Development Newsletter pr
 - [FY22-Q1 Learning & Development Newsletter](/handbook/people-group/learning-and-development/newsletter/FY22-Q1/)
 - [FY22-Q2 Learning & Development Newsletter](/handbook/people-group/learning-and-development/newsletter/FY22-Q2/)
 - [FY22-Q3 Learning & Development Newsletter](/handbook/people-group/learning-and-development/newsletter/FY22-Q3/)
+- [FY22-Q4 Learning & Development Newsletter](/handbook/people-group/learning-and-development/newsletter/FY22-Q4/)
 
 ### Template
 
