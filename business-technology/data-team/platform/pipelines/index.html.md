@@ -407,16 +407,62 @@ ZoomInfo is a go-to-market intelligence platform for B2B sales and marketing tea
 The Zoominfo data pipeline is an automated bi-directional data pipeline, that leverage Snowflake data share methodology.
 
 ### Snowflake Data share.
-[Snowflake data share] (https://docs.snowflake.com/en/user-guide/data-sharing-intro.html) enables sharing of snowflake database tables from one account and also allow to access to data shared from external accounts. This involves creating an outbound share of a database in their account and grant access to the snowflake table that needs to be shared to an external account using either web interface/SQL using ACCOUNTADMIN role. Both the accounts should be in the same region to add the customer to outbound share.
+[Snowflake data share] (https://docs.snowflake.com/en/user-guide/data-sharing-intro.html) enables sharing of snowflake database tables from one account and also allow to access to data shared from external accounts. This involves creating an outbound share of a database in their account and grant access to the snowflake table that needs to be shared to an external account using either web interface/SQL.
 
-### Architecture
+#### Snowflake Data Share using SQL.
+Below are steps followed for working on outbound/inbound shares via snowflake data share using SQL.
+
+##### Outbound share using SQL.
+For example database named `prod` with a schema named `share` and a table named `gitlab_user_outbound`is shared with consumer account `azitest`. Run below SQL's
+to create outbound share.
+* Step 1: Create a Share using role accountadmin.
+    `USE ROLE accountadmin;'
+    `CREATE SHARE share_test;`
+* Step 2: Add database, schema and table to the Share by Granting Privileges.
+    `GRANT USAGE ON DATABASE prod TO SHARE share_test;`
+    `GRANT USAGE ON SCHEMA prod.share TO SHARE share_test;`
+    `GRANT SELECT ON TABLE prod.share.gitlab_user_outbound TO SHARE share_test;'
+* Step 3: Add consumer account to the Share.
+In order to add account to the share, consumer need to provide their account details and both consumer and provider accounts should be in the same snowflake region.
+    `ALTER SHARE share_test ADD ACCOUNTS =‘azitest';`
+
+##### Inbound share using SQL.
+For example share named `gitlab` is shared to us from account `azitest`, run below SQL to create database in snowflake and to access the tables and data in inbound share.
+
+    `CREATE DATABASE zoominfo_inbound FROM SHARE azitest.gitlab;`
+
+#### Snowflake Data Share using snowflake web interface. 
+Below are steps followed for working on outbound/inbound shares via snowflake data share using Web interface. 
+Use `accountadmin` role and navigate to Share page in the snowflake web interface to perform inbound/outbound data share tasks.
+
+![image-1.png](./image-1.png)
+
+##### Outbound share.
+* Step 1: To create a outbound share click on `outbound` icon and then on `create` icon on Share page in the snowflake web interface.
+* Step 2: Add secure share name, database, table/view details and then click on create button on the bottem. 
+
+![image-2.png](./image-2.png)
+
+* Step 3: Add consumer account to the share and choose to create reader/full account and click on `add` button at the bottem. This will create outbound share.
+
+![image-3.png](./image-3.png)
+
+##### Inbound share.
+Inbound shares can be viewed under Inbound tab under share page on the snowflake web interface. Inorder to access the tables and data in the inbound share, a shared database needs to be created. To create shared database click on `Create database from secure share` icon and provide database name, grant access to and click on `create database` button. This process creates database `zoominfo_inbound` in snowflake. Inbound tables and data can be accessed under this shared database in snowflake. Data from shared database is ingested into `prep`.
+
+![image-4.png](./image-4.png)
+
+![image-5.png](./image-5.png)
+
+
+#### Architecture
 
 ![image.png](./image.png)
 
-#### Outbound table.
+##### Outbound table.
 * `"PROD"."SHARE"."GITLAB_USER_OUTBOUND"` - Outbound table has Gitlab user information such as First name, Last name, email address and company name. Outbound table is shared only once to Zoominfo via Snowflake data share. The table is prepared via `dbt` so it will change over time. Its up to Zoominfo to ingest newly and updated data in this table.
 
-#### Loading Inbound tables.  
+##### Loading Inbound tables.  
 Zoominfo sends inbound files to Gitlab via Snowflake data share. Shared database ZOOMINFO_INBOUND is created from inbound share using either the web interface or SQL. The inbound tables don't follow the standard architecture, where we ingest data in our raw layer and where `dbt` picks the data up for transformation. We handle the shared database as the `raw` database to avoid creating extra processes and make the pipeline more efficient. Data from inbound tables in ZOOMINFO_INBOUND is ingested into snowflake `prep` ​​using Snowflake Data Exchange loader. Below list of inbound tables are created in PREP database under 'zoominfo' schema.
 
 * `"ZI_COMP_WITH_LINKAGES_GLOBAL"` -  International table has a list of all the companies they have information about. This is a one time share.
