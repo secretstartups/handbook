@@ -436,7 +436,7 @@ Use `accountadmin` role and navigate to Share page in the snowflake web interfac
 
 ![image-1.png](./image-1.png)
 
-##### Outbound share.
+##### Outbound share using snowflake web interface.
 * Step 1: To create a outbound share click on `outbound` icon and then on `create` icon on Share page in the snowflake web interface.
 * Step 2: Add secure share name, database, table/view details and then click on create button on the bottem. 
 
@@ -446,7 +446,7 @@ Use `accountadmin` role and navigate to Share page in the snowflake web interfac
 
 ![image-3.png](./image-3.png)
 
-##### Inbound share.
+##### Inbound share using snowflake web interface.
 Inbound shares can be viewed under Inbound tab under share page on the snowflake web interface. Inorder to access the tables and data in the inbound share, a shared database needs to be created. To create shared database click on `Create database from secure share` icon and provide database name, grant access to and click on `create database` button. This process creates database `zoominfo_inbound` in snowflake. Inbound tables and data can be accessed under this shared database in snowflake. Data from shared database is ingested into `prep`.
 
 ![image-4.png](./image-4.png)
