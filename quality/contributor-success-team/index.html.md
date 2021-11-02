@@ -19,10 +19,6 @@ description: "Contributor Success Team"
 
 The goal of the team is to increase the technical improvements and efficiency of our contribution process to sustain our ambition of [1000+ contributors with merged MRs per month to GitLab](/company/strategy/#2-build-on-our-open-core-strength).
 
-## Vision
-
-TBD
-
 ## Strategy
 
 - **Outstanding contributor experience** Smooth, effective and scalable contributor experience.
@@ -35,7 +31,7 @@ TBD
   - Contributor recognition. Harmonize, redesign, promote existing “Hall of Fame” pages (MVP, Heroes, Top annual contributors)
   - Active outreach to partners and customers. Partner with TAM team to launch certification and training resources
   - In collaboration with Marketing, awareness campaign around Open DevOps Platform and the GitLab stewardship model
-  - Benefits program for contributors (
+  - Benefits program for contributors
     - GitLab Developer Certification 
     - GitLab Heroes 
 - **Measure, optimize and iterate** 
@@ -92,7 +88,7 @@ We aim to increase the focus on our community contributions. Below is a timeline
 
 ## Team Responsibilities
 
-* Carry out Engineering Open Source Outreach efforts.)
+* Carry out Engineering Open Source Outreach efforts.
 * Improve GitLab's Contribution Efficiency and Merge Request Coaching process.
 * Engineering representative that can ride along with the evangelist and program manager.
 * Organize community contributors into Cohorts and ensure their success.
@@ -105,7 +101,12 @@ We aim to increase the focus on our community contributions. Below is a timeline
 * Participate in GitLab's overall Open Source Outreach events and processes.
 * Collaborate closely with our Marketing counterparts and Core team.
 
+## Project Management
 
+This team has the following immediate work items planned.
+
+* [Contribution Efficiency Improvements Epic](https://gitlab.com/groups/gitlab-com/-/epics/1619)
+* [Increasing MRARR through internal partnerships](https://gitlab.com/groups/gitlab-com/-/epics/1225)
 
 ## Active Quarter OKRs
 
