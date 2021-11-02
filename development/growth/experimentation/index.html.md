@@ -124,7 +124,7 @@ The [Experiment Successful Cleanup](https://gitlab.com/gitlab-org/gitlab/-/issue
 
 - GitLab `gitlab-org/gitlab` project
     - [Experiment idea](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Idea) issue template
-    - [Experimentation](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experimentation) issue template for Engineering
+    - [Experiment implementation](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experimentation%20Implementation) issue template for Engineering
     - [Experiment rollout](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Rollout)
     - [Experiment successful cleanup](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Successful%20Cleanup) issue template for converting a successful experiment into a feature
 - Growth `team-tasks` project
