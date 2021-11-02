@@ -19,11 +19,11 @@ description: "Continuous education webcast series for GitLab Customer Success te
 ## Upcoming Training
 To see what training is coming soon, view the [Customer Success Skills Exchange Issue Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538).
 
-**Fall 2021 Lineup**
+**Winter 2021 Lineup**
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Oct 20       |   [GitOps with GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/141)             |  Cesar S.              |
+| Nov 3       |   [Kubernetes Integrations with the Agent](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/145#note_719999169)             |  Viktor Nagy              |
 
 
 
