@@ -314,7 +314,7 @@ Here's [a list](/handbook/tools-and-tips/) of the tools we use internally at Git
 
 - [MURAL](https://mural.co/) - visual design collaboration
 - [Figma](https://www.figma.com/) - design collaboration
-- [CoScreen](https://www.coscreen.co/) - remote screensharing
+- [CoS to the CEOcreen](https://www.coscreen.co/) - remote screensharing
 
 ##### Handbook and company-wide documentation
 
