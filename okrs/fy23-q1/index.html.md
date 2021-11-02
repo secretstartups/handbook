@@ -23,8 +23,8 @@ The by-the-book schedule for the OKR timeline would be
 | -4 | 2022-04-04 | E-group propose OKRs for their functions in [Epics and Issues nested under the CEO's OKRs](/company/okrs/#executives-propose-okrs-for-their-functions). These issues and epics are shared in #okrs Slack channel |
 | -3 | 2022-04-11 | E-group 50 minute draft review meeting on 2021-10-18 |
 | -2 | 2022-04-18 | E-group discusses with their respective teams and polish their OKRs |
-| -1 | 2022-04-25 | CEO reports post links to final OKR Epics in #okrs slack channel and @ mention the CEO and CoS for approval |
-| 0  | 2022-05-02 | CoS updates OKR page for current quarter to be active |
+| -1 | 2022-04-25 | CEO reports post links to final OKR Epics in #okrs slack channel and @ mention the CEO and CoS to the CEO for approval |
+| 0  | 2022-05-02 | CoS to the CEO updates OKR page for current quarter to be active |
 
 
 ## OKRs

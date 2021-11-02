@@ -40,7 +40,7 @@ We do not use it to [give performance feedback](/handbook/people-group/360-feedb
 
 The [E-Group](/company/team/structure/#e-group) does use it for their [Performance Enablement Reviews](/handbook/people-group/learning-and-development/career-development/#performance-enablement-review)
 
-The [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/) initiates and guides the OKR process.
+The [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/) initiates and guides the OKR process.
 
 Watch EVP, Engineering Eric Johnson discuss the power of OKRs from his perspective:
 
@@ -114,7 +114,7 @@ Should you need to reschedule, please @ mention the EBA to the CEO in the `#eba-
 
 ### CEO initiates new quarter's OKRs
 
-**Five Mondays** before the start of the fiscal quarter, the CEO and Chief of Staff initiate the OKR process.
+**Five Mondays** before the start of the fiscal quarter, the CEO and Chief of Staff to the CEO initiate the OKR process.
 
 Initiating the OKR process is best done in two distinct MRs. The first accomplishes the following:
 * create that quarter's page in the handbook
@@ -127,7 +127,7 @@ The CEO shares this MR in the #e-group channel in Slack and discusses it in each
 
 ### Executives propose OKRs for their functions
 
-The following week, **four Mondays** before the start of the fiscal quarter, Executives propose OKRs for their functions  **via epics (for objectives) and issues (for KRs) through a Slack message in #okrs channel**. The CEO and Chief of Staff should be at-mentioned. The CEO will confirm sign-off on objectives through commenting directly in them. While the CEO is the DRI, this responsibility may be the delegated to the CoS.
+The following week, **four Mondays** before the start of the fiscal quarter, Executives propose OKRs for their functions  **via epics (for objectives) and issues (for KRs) through a Slack message in #okrs channel**. The CEO and Chief of Staff to the CEO should be at-mentioned. The CEO will confirm sign-off on objectives through commenting directly in them. While the CEO is the DRI, this responsibility may be the delegated to the CoS to the CEO.
 
 Each executive should aim for a maximum of 3 objectives, however, in Q4 each executive can have a maximum of 4 OKRs because we are preparing for the next year. Each objective has between 1 and 3 key results; if you have less, you list less. While OKRs are known for being ambitious or committed, we only have ambitious OKRs. When drafting the OKRs, executives should strive to target actual numbers versus percentages. In advance of the first day of the new quarter, all percentages should be replaced with actual numbers. 
 
@@ -135,8 +135,8 @@ Function epics should cascade from one of the CEO's OKR EPICs.
 
 Executives should consider how their OKR efforts can have the greatest impact on the organization. Functions can have objectives under any of the three CEO OKRs. For example, the People Team could have an objective under the CEO's Net ARR OKR if it identified that a specific enablement activity were key to driving sales or the Sales Team could have an objective under the CEO's Great Teams OKR if it were focused on improving team diversity. Functions should not be pigeonholed into the CEO OKR that appears to be most directly related to the function.
 
-When ready for review or when changes to objectives or issues are made, epics and issues should be shared in the #okrs channel in Slack and at-mention the Chief of Staff and CEO.
-The CEO is responsible for OKR approvals, but may delegate this responsibility to the CoS. 
+When ready for review or when changes to objectives or issues are made, epics and issues should be shared in the #okrs channel in Slack and at-mention the Chief of Staff to the CEO and CEO.
+The CEO is responsible for OKR approvals, but may delegate this responsibility to the CoS to the CEO. 
 
 How objectives cascade from CEO KRs in the handbook to functional Objectives and KRs in Epics and Issues:
 
@@ -182,7 +182,7 @@ In FY21, we had quarterly How to Achieve Meetings in which senior team members s
 
 ### The quarter begins
 
-The Chief of Staff updates the OKR page for the current quarter to be active.
+The Chief of Staff to the CEO updates the OKR page for the current quarter to be active.
 CEO OKRs may be included in the next formal or informal Board meeting.
 
 ### Making changes within quarter
@@ -193,9 +193,9 @@ We value [iteration](/handbook/values/#iteration). We can change an objective or
 1. A KR statement exists, but the target is a placeholder. For example, "Obtain $XM in bookings in Q1"
 1. A KR is related to achievement of a new inititiave, and it is agreed that we should pivot in terms of scope or focus as we learn more about what we want to achieve
 
-It is better to update an objective or KR than continue to work toward a goal that is not best aligned with desired business [results](/handbook/values/#results). In instances where CEO KRs are being updated in the spirit of iteration, post an MR in the #okrs Slack channel and tag the CEO and Chief of Staff for approval. Approval of the MR indicates that the revised goal has been agreed upon. At this point, you can also update the issue or epic to reflect changes.
+It is better to update an objective or KR than continue to work toward a goal that is not best aligned with desired business [results](/handbook/values/#results). In instances where CEO KRs are being updated in the spirit of iteration, post an MR in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO for approval. Approval of the MR indicates that the revised goal has been agreed upon. At this point, you can also update the issue or epic to reflect changes.
 
-In the event that a functional Objective that is captured in an epic or a functional KR that is capured in an issue needs to be updated, please note the change in the #okrs Slack channel and tag the CEO and Chief of Staff for approval. Approval of the change indicates that the revised goal has been agreed upon.
+In the event that a functional Objective that is captured in an epic or a functional KR that is capured in an issue needs to be updated, please note the change in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO for approval. Approval of the change indicates that the revised goal has been agreed upon.
 
 
 ## Format of OKR on the Handbook Page
@@ -295,7 +295,7 @@ Please update scores in addition to status in Key Result Meetings.
 ## Everyone can contribute
 
 Everyone is welcome to a suggestion to improve any OKR.
-To update please make a merge request and post a link to the MR in the #okrs channel in Slack and at-mention the Chief of Staff. If commenting on a functional objective or KR, comment directly in the epic or issue.
+To update please make a merge request and post a link to the MR in the #okrs channel in Slack and at-mention the Chief of Staff to the CEO. If commenting on a functional objective or KR, comment directly in the epic or issue.
 
 ## OKR resources:
 * [With Goals, FAST beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/)

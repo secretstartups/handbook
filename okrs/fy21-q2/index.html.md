@@ -31,7 +31,7 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from May 1, 2020 
 1. **CEO KR:** Drive [IACV](/handbook/sales/#incremental-annual-contract-value-iacv) with growth initiatives. $xm generated.
     1. CLO: Develop and roll-out partner suite of Agreements and enablement materials related to the expanding partner program(s) [KRs in Epic 460](https://gitlab.com/groups/gitlab-com/-/epics/460)
 1. EVP, Engineering: Assist IACV and reduce Opex [KRs in Epic 463](https://gitlab.com/groups/gitlab-com/-/epics/463)
-1. CoS: Entry assessment and action plan for high potential market [KRs in Epic 518](https://gitlab.com/groups/gitlab-com/-/epics/518)
+1. CoS to the CEO: Entry assessment and action plan for high potential market [KRs in Epic 518](https://gitlab.com/groups/gitlab-com/-/epics/518)
 
 ### 2. CEO: Popular next generation product
 [Epic 410](https://gitlab.com/groups/gitlab-com/-/epics/410)
@@ -63,7 +63,7 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from May 1, 2020 
     1. CFO: Metric driven. All KPIs in operational in Sisense, GitLab, or the handbook. [KRs in Epic 635](https://gitlab.com/groups/gitlab-com/-/epics/635)
 1. EVP, Engineering: Improve efficiency through product documentation [KRs in Epic 465](https://gitlab.com/groups/gitlab-com/-/epics/465)
 1. **CEO KR:** Have transparency be core to our workflow. Increase the Percent of Messages that are not DMs in Slack from 19% to 25% by end of FY22-Q2.
-   1. CoS: Internal Communications helps drive behavior changes and educates team members on Slack usage etiquette [KRs in Epic 647](https://gitlab.com/groups/gitlab-com/-/epics/647)
+   1. CoS to the CEO: Internal Communications helps drive behavior changes and educates team members on Slack usage etiquette [KRs in Epic 647](https://gitlab.com/groups/gitlab-com/-/epics/647)
 
 
 ## How to Achieve Presentations

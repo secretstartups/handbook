@@ -24,7 +24,7 @@ The by-the-book schedule for the OKR timeline would be
 | -2 | 2020-10-19 | E-group 50 minute draft review meeting |
 | -2 | 2020-10-19 | E-group discusses with teams |
 | -1 | 2020-10-26 | CEO reports give a How to Achieve presentation. Pre-Meeting and How to Achieve Presentation recordings are added to this page by EBAs |
-| 0  | 2020-11-02 | CoS updates OKR page for current quarter to be active |
+| 0  | 2020-11-02 | CoS to the CEO updates OKR page for current quarter to be active |
 | +5 | 2020-12-08 | Review previous and next quarter during the next Board meeting |
 
 ## OKRs

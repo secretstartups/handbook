@@ -30,7 +30,7 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from August 1, 20
 1. **Chief Technology Officer:** Run GitLab.com more efficiently.[Issue 8303](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8303)
 1. **Senior Director, People Success** 5,000 all remote certifications taken by people at [enterprise](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation) companies [Epic 38](https://gitlab.com/groups/gitlab-com/people-group/-/epics/38)
 1. **CLO - Contracts:** Create and launch “Learning GitLab Legal”. [Epic 738](https://gitlab.com/groups/gitlab-com/-/epics/738)
-1. **Chief of Staff:** Entry assessment and action plan for high potential market. [Epic 890](https://gitlab.com/groups/gitlab-com/-/epics/890)
+1. **Chief of Staff to the CEO:** Entry assessment and action plan for high potential market. [Epic 890](https://gitlab.com/groups/gitlab-com/-/epics/890)
 
 ### 2. CEO: Popular next generation product
 [Epic 722](https://gitlab.com/groups/gitlab-com/-/epics/722)
