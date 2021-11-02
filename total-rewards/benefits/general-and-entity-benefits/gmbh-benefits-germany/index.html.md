@@ -88,9 +88,13 @@ https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-bene
 
 Team members are entitled to at least 20 vacation days which run concurrently with GitLab PTO. The days will accrue from the start date. In general, team members must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the team member was unable to take the holiday due to operational or personal reasons. Team members must designate all vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
 
+## Long-term Care Insurance (Pflegeversicherung)
+
+[Long-term care insurance](https://www.bundesgesundheitsministerium.de/themen/pflege/online-ratgeber-pflege/die-pflegeversicherung.html) was introduced on January 1, 1995 as an independent branch of social insurance. Comprehensive compulsory insurance applies to all those who are legally or privately insured. Everyone who has statutory health insurance is automatically covered by social long-term care insurance. Anyone who is insured in the statutory health insurance automatically belongs to the social long-term care insurance scheme.
+
 **Family Care Leave and Nursing Leave**
 
-Per the [Family Care Leave Act and the Care Leave Act](https://www.bundesgesundheitsministerium.de/service/begriffe-von-a-z/f/freistellungen-nach-pflegezg-und-fpfzg.html), in certain cases team members are able to receive partial or full care allowance as a wage replacement benefit. This is granted on request by the the private compulsory long-term care insurance of the team member in need of care. Team members must provide proof of the relevant illness of the close relative by means of a medical certificate.
+Per the [Family Care Leave Act and the Care Leave Act](https://www.bundesgesundheitsministerium.de/service/begriffe-von-a-z/f/freistellungen-nach-pflegezg-und-fpfzg.html), in certain cases team members are able to receive partial or full care allowance as a wage replacement benefit. This is granted on request by the long-term care insurance (Pflegeversicherung) of the team member in need of care. Team members must provide proof of the relevant illness of the close relative by means of a medical certificate. Please contact the German citizen hotline for health insurance at (030) 340 60 66-01 or the German Federal Ministry of Health at poststelle (at) bmg.bund.de for more information.
 
 - Team members who need time to organize or ensure the care of a close relative in need of care in an acute care situation can take partial paid leave for up to ten days; 
 - Team members who care for a close relative or a close relative at home can also, under certain conditions, take full or partial leave of work for up to six months;
