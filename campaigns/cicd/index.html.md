@@ -48,7 +48,8 @@ Always On Lead Generation:
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Target Persona 1: Manager of App & Dev
-
+{: #persona-1}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 * **Level:** Manager
 * **Function:** Dev, App
 * **Challenges we're trying to solve with this campaign:**
@@ -73,7 +74,8 @@ Always On Lead Generation:
   - GitLab’s built-in CI means less context switching between tools and more time that developers spend writing code. Overall productivity increases
 
 #### Target Persona 2: Practitioners
-
+{: #persona-2}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 * **Level:** Practitioner
 * **Function:** Developers, DevOps engineers, Development leads
 * **Challenges we're trying to solve with this campaign:**
@@ -107,8 +109,10 @@ Always On Lead Generation:
 ### Polished Messaging
 {: #polished-messaging .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-#### Overall
 
+#### Overall
+{: #polished-messaging-overall}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 |  | Polished Messaging |
 | ------ | ------ |
 | **Overall Message** | Work better together |
@@ -124,7 +128,8 @@ Always On Lead Generation:
 | **Top-level Keywords**  | `continuous integration`, `ci`, `ci cd pipeline`, `ci process`, `ci tools`, `yaml`, `DevOps` |
 
 #### Enterprise Segment
-
+{: #polished-messaging-enterprise}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 |  | Polished Messaging |
 | ------ | ------ |
 | **Overall Message** | Secure CI/CD from start to finish |
@@ -142,7 +147,7 @@ Always On Lead Generation:
 
 ## Buyer Journeys, Content & Emails
 {: .alert #content-emails .alert-gitlab-orange}
-
+<!-- DO NOT CHANGE THIS ANCHOR -->
 ### Prescriptive Buyer Journeys
 {: #buyer-journey .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -178,24 +183,25 @@ Always On Lead Generation:
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### :large_blue_circle: MASTER|Inbound sequence for each region
-
+{: #outreach-emails-inbound}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 * [NORAM](https://app1a.outreach.io/sequences/5262)
 * [EMEA](https://app1a.outreach.io/sequences/5393)
 * [APAC](https://app1a.outreach.io/sequences/5394)
 
 #### :black_circle: MASTER|Outbound sequence for each region
-
+{: #outreach-emails-outbound}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 * [NORAM](https://app1a.outreach.io/sequences/5381)
 * [EMEA](https://app1a.outreach.io/sequences/5395)
 * [APAC](https://app1a.outreach.io/sequences/5396)
 
 ## Behind the Scenes
-{: .alert #research-prep .alert-gitlab-orange}
-
+{: .alert #behind-the-scenes .alert-gitlab-orange}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 #### Campaign Execution Documentation & Resources
 {: #campaign-execution .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * [Campaign Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741)
 * [Project timeline plan](https://docs.google.com/spreadsheets/d/1a-0P2N8LKxqmMJLKv2ZlUbXXeu7I1dMSfXHWqzl0rg0/edit#gid=1426779885)
-* [Copy Doc]()
 * [Art Work](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/campaigns/use-cases/CI)
