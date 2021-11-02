@@ -2673,3 +2673,52 @@ The table below will catalog the list of GitLab.com services, the current SLO de
 | CI Runners | Verify-Runner PM @deastman | The service level indicators used to calculate the Runner Apdex score are (1) the job polling operations from runners via the workhouse HTTP interface and (2) the shared runner queues on GitLab.com, i.e. the % of CI jobs that are picked by for servicing by a GitLab SaaS Shared Runner within 60 seconds | [99.95%](https://gitlab.com/gitlab-com/runbooks/-/blob/1aa2d39562705c1d0fbef75242d42ff43a99eb53/metrics-catalog/services/ci-runners.jsonnet) | The goal for FY22 Q3 is to maintain a monthly SLO score of 99.95% or higher. |
 | Container Registry | Package PM @trizzi | [Apdex](https://en.wikipedia.org/wiki/Apdex) for request latency (time to serve) read requests to the container registry. Thresholds are `satisfied` when under .5 seconds and `tolerated` under 1 second. [Further details available here](https://gitlab.com/gitlab-com/runbooks/-/blob/1aa2d39562705c1d0fbef75242d42ff43a99eb53/metrics-catalog/services/lib/registry-helpers.libsonnet). | [99%](https://gitlab.com/gitlab-com/runbooks/-/blob/1aa2d39562705c1d0fbef75242d42ff43a99eb53/metrics-catalog/services/registry.jsonnet) |  |
 | Package Registry | Package PM @trizzi | Error rate for package read requests to the package registry. The service is available when less than 0.5% of requests return a 5XX error status response. | 99.5% |  |
+
+## Product-Specific "People" Processes
+
+### Talent Assessment Process
+
+Company-wide guidelines on the Talent Assessment can be found [here](https://about.gitlab.com/handbook/people-group/talent-assessment/#timeline). The company timeline for the process remains SSOT, the guidelines are below are meant to:
+
+- Provide additional check points and due dates built into the company-wide timeline for Product specifically 
+- Guidance on department/division-specific calibration section structure (attendees, leveling, etc.) 
+- Outline our calibration strategy in Product
+
+#### Calibration Strategy 
+
+We will be calibrating Performance, Growth, and anyone identified as Key Talent for calibration this cycle. Formal calibration will take place at the GPM+ levels. 
+
+We will structure calibration cadence during the live sessions by level/[job grade](/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). For example, in our Director+ session we will first discuss job grade 6 (I.E. Analyst), from there, we'll discuss job grade 7 (I.E. Senior Analyst), from there job grade 8 (Product Manager, etc.
+
+The agenda documents aligned with each calibration session have been structure to align to this system. 
+
+For each level, we will work our way from the outside edges in, so [Box 1/9, 2/3, 7/8](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix), and so forth, with the goal of calibrating on as many people as possible.
+
+#### Pre-Calibration Prep Work
+
+In addition to the [calibration session pre work](https://about.gitlab.com/handbook/people-group/talent-assessment/#calibration-session-guidelines) on the Talent Assessment page, we ask that you review the following guidelines:
+
+1. Performance and Growth assessments need to be completed and added to the session agenda doc at least 3 business days before the live calibration session. Each individual should have ~3 supporting points for the assessment under each pillar (Performance and Growth) added to the agenda doc to help support the “why” behind the assessment. 
+
+1. Key Talent assessment also needs to be completed and added to the session agenda doc at least 3 business days before the live calibration session. If an individual is indicated as key talent, an explanation should be added to indicate how this individual qualifies as key talent against our [key talent definition](/handbook/people-group/talent-assessment/#key-talent). Reminder that the bar for key talent is set high, and that key talent makes up roughtly ~10% of the entire population. **In Product, we will be assessing Key Talent from the Director level and above [aligned with guidelines](/handbook/people-group/talent-assessment/#process-to-determine-key-talent)**, meaning that while *everyone in the organization is eligible to be identified as Key Talent*, the Director level will be assessing and making these initial nominations. The rationale behind this decision is that is important to have a holistic view of all team members when determining who meets the key talent criteria, which is why we require a certain scope when assessing key talent in the organization. 
+
+1. Every session attendee should review the Performance/Growth assessments and Key Talent overviews asynchronously ahead of the session to be prepared for live discussion/calibration. 
+
+**Important**: Be sure to reference our [Resources](https://about.gitlab.com/handbook/people-group/talent-assessment/#resources) for different templates and material to help with the assessment and calibration processes. In particular, we ask that all managers leverage the [Talent Assessment Calibration Spreadsheet template provided](https://about.gitlab.com/handbook/people-group/talent-assessment/#resources) to ensure a consistent format for Performance/Growth assessment calibration and finalizing assessments so we have a format that is compatible with uploading directly to BambooHR to minimize error. Note that this sheet also includes a couple of columns for Key Talent assessment and nominations. Given that not all levels of management assess Key Talent, this will not apply for all people managers. If Key Talent is not assessed at your level, feel free to simply remove these columns. 
+
+#### Calibration Session Timeline
+
+Calibration session attendees will be organized by leadership layer (GPMs, Directors/Senior Directors, VP, CProdO) within the Product division, and within those sessions we will calibrate team members by level. 
+
+Below is an overview of our calibration structure and timeline for the FY'22 Q4 Talent Assessment cycle. 
+
+| Session Number | Attendees | Calibration Level Focus | Session Date | Duration |
+| --------------- | ----------------- |----------------- |----------------- |----------------- |
+| Session 1 _(optional)_  | Directors + GPMs | ICs reporting into GPMs | TBD by Directors for their sub-departments (this can be done synchronously or asynchronously | Director discretion depending on group size/format |
+| Session 2  | People Managers in the Product Management department + PBP | ICs reporting into GPMs | TBD | TBD |
+| Session 3 | Directors+ in the Product division + PBP | ICs, GPMs, Managers | 2021-11-15 | 2 hours |
+| Session 4 | VP, CProdO, PBP | Directors and Senior Directors in the Product Management department | 2021-11-22 | 1 hour |
+| Session 5 | CProdO and PBP | All of the CProdO's direct reports + finalize division-wide | 2021-11-23 | 1 hour | 
+
+
+
