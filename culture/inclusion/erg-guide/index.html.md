@@ -38,6 +38,8 @@ There are many types of groups and not all of them meet the criteria of being a 
 
 The following groups have completed the process to be an TMRG and received formal support as part of the [DIB framework](https://about.gitlab.com/company/culture/inclusion/#ergs---employee-resource-groups). Click the signup link (GitLab team members only) to join:
 
+Ordered alphabetically to avoid the perception that any TMRG is more important than any other TMRG.
+
 | **TMRG** | **Team Leaders** | **Slack Channel** | **Sign Up** | **Ongoing TMRG Agenda** | Executive Sponsor |
 | ------ | ------ | ------ | ------ | ------ |------ |
 | [GitLab API - Asia Pacific Islander](/company/culture/inclusion/tmrg-gitlab-api/) | [Tanuja Paruchuri](https://gitlab.com/tparuchuri) [Christopher Wang](https://gitlab.com/cs.wang) [Steve Xu](https://gitlab.com/steve_xu) | #api-tmrg | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/api-tmrg) | [API Agenda](https://docs.google.com/document/d/17zJuZlWVg40mPjcybnGlj_mK2f4SEpRdrjq3s3Cseow/edit?usp=sharing) | David Hong |
