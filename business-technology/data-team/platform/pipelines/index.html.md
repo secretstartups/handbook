@@ -428,6 +428,7 @@ In order to add account to the share, consumer need to provide their account det
 
 ##### Inbound share using SQL.
 For example share named `gitlab` is shared to us from account `azitest`, run below SQL to create database in snowflake and to access the tables and data in inbound share.
+
     * CREATE DATABASE zoominfo_inbound FROM SHARE azitest.gitlab;
 
 #### Snowflake Data Share using snowflake web interface. 
