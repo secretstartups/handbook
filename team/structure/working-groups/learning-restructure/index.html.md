@@ -46,7 +46,7 @@ canonical_path: "/company/team/structure/working-groups/learning-restructure/"
 | Working Group Role    | Person                | Title                          |
 |-----------------------|-----------------------|--------------------------------|
 | Executive Sponsor     | Sid Sijbandij | CEO |
-| Facilitator           | Stella Treas            | Chief of Staff      |
+| Facilitator           | Stella Treas            | Chief of Staff to the CEO      |
 | Functional Lead       | Kris Reynolds      | Manager, Field Enablement Programs  |
 | Functional Lead       | Josh Zimmerman          | Manager, Learning and Development   |
 | Functional Lead       | Tye Davis         | Manager, Technical Marketing   |
