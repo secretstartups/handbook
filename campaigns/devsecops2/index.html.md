@@ -31,9 +31,9 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Primary assets to be used in Always On Lead Generation:**
-* :books: Dev focused content (Awareness stage)| [ebook: Building a Modern DevSecOps Software Factory](https://learn.gitlab.com/devsecops-aware/building-modern-devsecops-software-factory)
-* :books: Dev focused content (Consideration stage)| [eBook: How to achieve DevSecOps with CI/CD](https://learn.gitlab.com/devsecops-consider/ebook-achieve-devsec)
-* :books: AppSec focused Content  (Purchase stage)| [2021 Magic Quadrant for Application Security Testing](https://learn.gitlab.com/devsecops-purchase/2020-gartner-mq-ast)
+* :books: Dev focused content (Awareness stage): [ebook: Building a Modern DevSecOps Software Factory](https://learn.gitlab.com/devsecops-aware/building-modern-devsecops-software-factory)
+* :books: Dev focused content (Consideration stage): [eBook: How to achieve DevSecOps with CI/CD](https://learn.gitlab.com/devsecops-consider/ebook-achieve-devsec)
+* :books: AppSec focused content  (Purchase stage): [2021 Magic Quadrant for Application Security Testing](https://learn.gitlab.com/devsecops-purchase/2020-gartner-mq-ast)
 
 [other assets available>>](https://docs.google.com/spreadsheets/d/15-yai90Ol7k4D2exHXqHXtFastR6FcE6HABD_GisAl8/edit#gid=0)
 
