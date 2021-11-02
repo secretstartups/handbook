@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Oct 20       |   [GitOps with GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/141)             |  Cesar S.              |
+|        |               |               |
 
 
 
