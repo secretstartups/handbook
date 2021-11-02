@@ -151,8 +151,8 @@ Some leads are exluded from scoring if they:
 Based on certain criteria, a lead may auto-MQL. The scenarios are listed below:
 - Self-Managed Trial + Business email domain
 - SaaS Trial + Business email domain
-- SaaS Trial + `Setup for Company/Use` = TRUE
-- `Contact Us` or `Renewal` forms
+- SaaS Trial + `Setup for Company/Use = TRUE`
+- `Contact Us`, `Professional Services` or `Renewal` forms
 - Handraise PQL
 - In-app Health Check form
 - Program status of `Follow Up Requested` 
