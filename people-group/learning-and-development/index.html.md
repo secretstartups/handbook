@@ -105,9 +105,6 @@ The L&D team hosts and organizes [learning initiatives](/handbook/people-group/l
 
 ## Learning Opportunities 
 
-### Certifications
-
-We provide our team members with certifications to demonstrate their knowledge of specific topics. We have [outlined](/handbook/people-group/learning-and-development/certifications/) our current certifications as well as planned and upcoming certifications for the year.
 
 ### Growth & Development
 
