@@ -109,7 +109,7 @@ All of the standardization smart campaigns are contained in:
 - The following countries have common variations updated to their accepted values: United States, Bolivia, Canada, China, France, Germany, Hong Kong, India, Iran, Ireland, Macao, Myanmar, Netherlands, Russia, South Korea, Sweden, Switzerland, United Kingdom, Venezuela, Vietnam.
 
 
-## MQL Definition
+## MQL and Lead Scoring
 A Marketing Qualified Lead is a lead that has reached a threshold of `100` points, based on demographic/firmographic and/or behavioral information. The [MQL Scoring](/handbook/marketing/marketing-operations/marketo/#scoring-model) is detailed below and is comprised of various actions and/or profile data that are weighted with positive or negative point values.
 When a `Person Score` changes it will be inserted into the routing flow. Using LeanData every time a `Person Score` is updated, [LeanData](/handbook/marketing/marketing-operations/leandata/#record-validation) will run a check to see if the record needs to be processed through the flow.
 
@@ -146,6 +146,17 @@ Some leads are exluded from scoring if they:
 * Are a competitor
 * Status = `Unqualified` or `Bad Data`
 * Company name of `student`, `personal`, `test` and similar 
+
+#### Auto-MQL
+Based on certain criteria, a lead may auto-MQL. The scenarios are listed below:
+- Self-Managed Trial + Business email domain
+- SaaS Trial + Business email domain
+- SaaS Trial + `Setup for Company/Use` = TRUE
+- `Contact Us` or `Renewal` forms
+- Handraise PQL
+- In-app Health Check form
+- Program status of `Follow Up Requested` 
+- Drift interaction with meeting scheduled
 
 #### Behavior Scoring
 
