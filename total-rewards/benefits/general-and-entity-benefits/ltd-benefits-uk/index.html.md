@@ -65,7 +65,32 @@ GitLab will explore adding vision coverage as a future iteration to our health b
 
 ## Life Insurance
 
-GitLab is currently reviewing implementing life insurance and disability in the following [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/44).
+Life Insurance provides peace of mind for you and your loved ones with a tax-free lump sum payout in the event of your untimely death, helping to relieve financial concern during a time of grief. GitLab offers Life Insurance via Unum to all team members between age 16 and State Pension Age. The pension benefit is **4x basic annual salary** up to the Free Cover Limit. Employees with a base salary of £375,000 or higher will need to apply for a medical assessment to receive cover over the Free Cover Limit. Please reach out to Total Rewards if you are eligible and wish to apply for the additional cover. 
+
+To designate a beneficiary for this benefit, please complete the [Expression of Wish Form](https://docs.google.com/document/d/1L5PFNeeZPmC5CArxrm7YX8W4BwKzdLFo/edit?usp=sharing&ouid=115600862362829120699&rtpof=true&sd=true) and send the completed form to the Total Rewards Team. 
+
+### Employee Assistance Program (EAP)
+
+As part of the life insurance benefit, Unum also offers an Employee Assistance Program for those based in the United Kingdom. For information on how to use the EAP, please see the following [document in the google drive](https://drive.google.com/file/d/1OEXPZxNOq0alVB1fWmF_dso642_F-Yub/view?usp=sharing). 
+
+### Help @ Hand
+
+As part of the life insurance benefit, Unum also offers [Help@hand](https://drive.google.com/file/d/1Xh7o57jBac-BfHTdWuUMh7yKi5gXdIIr/view?usp=sharing) providing you and your family with fast, direct access to medical experts through one easy-to-use app, including: 
+  * Remote GPs
+  * Physiotherapy
+  * Mental Health Support
+  * Medical Second Opinions
+  * Life, money, and well-being support
+
+New Team Members should expect an enrollment email from Help@Hand the first week of the month following their hire date. 
+
+## Income Protection
+
+Income Protection provides financial support if you’re unable to work due to illness or injury for a specified length of time, and aims to help you, your family and others who depend on the money you earn. GitLab's policy with Unum will help us to ensure you receive a percentage of your income if you can’t work because of illness or injury. It also includes direct access to expert Vocational Rehabilitation Consultants who can support you while you’re off and ease your return to work. 
+
+All team members (between age 16 and State Pension Age) are enrolled in Income Protection of **66% of base salary up to the Free Cover Limit payable after you’ve been absent for 13 weeks** effective as of the date of hire. Employees with a base salary of £226,000 or higher will need to apply for a medical assessment to receive cover over the Free Cover Limit. Please reach out to Total Rewards if you are eligible and wish to apply for the additional cover. 
+
+Please reach out to Total Rewards for information on how to apply for Income Protection with Unum. Payments are made exactly like your salary, and tax and National Insurance contributions are deducted in the usual way. If you are absent due to illness or injury on the day your cover or an increase in cover is due to begin, you may not be eligible until you return to active work in your usual role. 
 
 ## Pension Introduction
 
@@ -104,7 +129,7 @@ If an employee does not meet these criteria then they will be considered an **En
 
 The following process is followed by GitLab People Operations to join the Scheme during onboarding:
 
-*  During onboarding, the People Operations Specialist Team informs Vistra Payroll of a new hire that joined the company in the UK.
+*  During onboarding, the People Experience Associate Team informs Vistra Payroll of a new hire that joined the company in the UK.
 *  Once Vistra payroll has this information, the employee will be set up on the payroll and added to the pension file for Scottish Widows in preparation to be uploaded.
 *  The pension file is sent to Scottish Widows around the end of 6th of each month and will include any joiners/changes/leavers from the previous month’s payroll run. For example everyone who has been included on the pension file in October (the cut off is 20th October) Scottish Widows will be notified around 6th November
 *  Any employee who joins after 20th or has not been included on the pension file will be picked up in the following month’s file.
@@ -136,7 +161,7 @@ The certification level that has been chosen is **basic salary** only and will n
 ^
 - As your contribution is a percentage of your pay, the amounts will automatically increase or decrease in accordance with your basic pay. These contributions will be taken from your pay and will include tax relief.
 
-- You may increase the contribution percentage you pay by contacting People Operations. Please note the company contribution will remain fixed as above. The total maximum contribution you can make is £40,000 p.a.
+- You may increase the contribution percentage you pay by contacting Non US Payroll team via email. Please note the company contribution will remain fixed as above. The total maximum contribution you can make is £40,000 p.a.
 
 - These percentages are gross percentages using the [relief at source](https://www.gov.uk/workplace-pensions/managing-your-pension) method. As basic rate tax relief is then added by the pension provider, the amount on your payslip will typically be the net amount, which is 80% of the employee's contribution.
 
@@ -280,7 +305,7 @@ If you do not qualify for Statutory Maternity Pay, you may qualify for [Maternit
  
 * To apply for Paternity Leave
    * Submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts.
-   * Send Total Rewards a completed [SPP Form](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///SCApplications/PersonalTax_iForms/1.0/SC3&template=SC3.xdp) if applying for Statutory Paternity Pay or one of the [SPL Forms](https://www.acas.org.uk/shared-parental-leave-forms) if applying for Shared Parental Leave pay.
+   * Send Total Rewards a completed [SPP Form](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/PersonalTax_iForms/1.0/SC3&template=SC3.xdp) if applying for Statutory Paternity Pay or one of the [SPL Forms](https://www.acas.org.uk/shared-parental-leave-forms) if applying for Shared Parental Leave pay.
    * Total Rewards will notify payroll and email Vistra a copy of the form, dates of leave and outline what pay the team member is eligible for (statutory, supplemental, etc).
   
 #### Adoption Leave Payment

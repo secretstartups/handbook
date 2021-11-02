@@ -45,7 +45,7 @@ graph LR
     step_manager_compaas(Manager review<br/>in Compaas)
     step_exec_review_2(Executive review)
     step_manager_final(Manager informs<br/>direct reports of<br/>adjustment to<br/> compensation)
-    stop((New<br/>compensation<br/>effective 1<br/>Feb 2021))
+    stop((New<br/>compensation<br/>effective 1<br/>Feb 2022))
 
     start-->step_manager_review
     step_manager_review-->step_exec_review_1
@@ -58,7 +58,11 @@ graph LR
 
 ### Eligibility
 
-All team members hired on or before October 31st will be eligible to be evaluated as part of the Annual Compensation Review cycle. Team members hired after this date will be reviewed to ensure their salary does not fall below the bottom of their compensation band based on increases to benchmark or location factor. If this does occur, the team member will be adjusted to the bottom of the band during the Annual Compensation Review cycle.
+To be eligible for Annual Compensation Review, team members with a hire date on or before: 
+* October 31st will be eligible for a cash compensation increase. 
+* September 5th will be eligible for an equity refresh. Team members are eligible for a refresh grant if they have been at the company for six months ahead of the grant date cutoff. The grant date is slated to be March 15th and the cutoff is March 5th. Note: in FY22 we moved from stock options to RSUs for team members hired on or before Sept 3rd. 
+
+Team members hired after October 31st will be reviewed to ensure their salary does not fall below the bottom of their compensation band (market range) based on increases to benchmark or location factor. If this does occur, the team member will be adjusted to the bottom of the band during the Annual Compensation Review cycle.
 
 ### Annual Compensation Review Timeline
 
@@ -75,27 +79,30 @@ All team members hired on or before October 31st will be eligible to be evaluate
 1. Once all performance factors have been reviewed and approved the executive leaders of each group will review the breakdown with the Total Rewards team along with the People Business Partner for their group.
      * In this breakdown, leaders will be able to analyze all individual performance factors, the distribution of performance factors overall and by department, as well as an [underrepresented group audit](/handbook/total-rewards/compensation/compensation-review-cycle/#underrepresented-group-audit). Total Rewards will outline any concerns based on the aggregated data for the leader and people business partner to review.
 1. The Total Rewards Team will schedule a sync with the Talent Acquisition team to review proposed iterations.
-1. Using the revised inputs above, the Total Rewards team will calculate a minimum market increase for each team member to stay at the minimum of the FY22 range using the exchange rate as of 2020-12-01.
+1. Using the revised inputs above, the Total Rewards team will calculate a minimum market increase for each team member to stay at the minimum of the FY23 range using the exchange rate as of 2021-12-01.
 1. Anyone on a formal Performance plan (PEP, PIP) that is ongoing through December 15 will be excluded from the Annual Compensation review. December 15th is the due date for emailing Total Rewards with PBP in CC about team members on a formal performance plan.
 1. Anyone who is departing from GitLab, with an end date in until February 1, will be excluded from the Annual review cycle. The People Business Partner will make sure to loop in Total Rewards on any terminations.
-1. December 15 - December 18: People Business Partners bring any preliminary budgets concerns to Divisional leaders (or department leaders as applicable).
+1. December 10th: All data in BambooHR will be pulled to Compaas. The People Ops / PBP team will ensure all promotions, manager changes, title changes, etc are up to date in the system. 
+1. December 15th - December 18th: People Business Partners bring any preliminary budgets concerns to Divisional leaders (or department leaders as applicable).
+
 
 ##### January:
-1. January 7th - January 22nd: [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Compaas
-  * Each division leader is responsible for making sure their group stays within budget. The company has a [6% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#fy-2022-annual-compensation-review-budget) for all Market (location factor and benchmark) and Performance increases.
+1. January 6th - January 20th: [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Compaas
+  * Each division leader is responsible for making sure their group stays within budget. The company has a [6% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) for all Performance increases and market adjustments.
   * Managers and indirect managers will review the minimum recommended increase from Total Rewards and then propose an increase based on the performance factor for their team members. The minimum recommended increase from Total Rewards is not a cap, but instead a minimum value to ensure alignment to the new ranges based on performance and market adjustments.
   * Depending on budget constraints, the increases for the individual team members may be adjusted up or down by management and reviewed by Total Rewards.
+  * _Managers will want to review the total holdings (cash and equity) and determine increases to equity and cash compensation as appropriate to ensure team members are incentivized through their total rewards package in the next fiscal year._ 
 1. The People Business Partner team would advise managers to directly align proposed increases for team members with their manager (Senior Manager/Director) over 1-1s before Submitting.
   * Hereafter divisional leaders (or department leaders as applicable) can review and discuss tentative budgetary impact for the division (or department as applicable).
-1. January 14th: People Business Partner check on the progress/Budget impact.
-1. January 20th: Aim to have all Managers/Senior Managers/Directors reviewed their slates. Justifications must be included in the notes section for all increases exceptions (for example: any above 10%, out of band exceptions due to contract factor updates, etc.) for slates to be complete. These justifications will be reviewed and approved by Department and Division leaders.
-1. January 20 - January 22nd: Department Heads/People Business Partners review budget impact and deficiencies, before moving to E-Group.
-1. January 22nd - January 27th: For E-Group to review and approve final compensation changes.
-1. January 27th - February 1st: Total Rewards will present all compensation changes to the Compensation Group for final approval.
+1. January 13th: People Business Partner check on the progress/Budget impact.
+1. January 18th: Aim to have all Managers/Senior Managers/Directors reviewed their slates. Justifications must be included in the notes section for all increases exceptions (for example: any above 10%, out of band exceptions due to contract factor updates, etc.) for slates to be complete. These justifications will be reviewed and approved by Department and Division leaders.
+1. January 18th - January 20th: Department Heads/People Business Partners review budget impact and deficiencies, before moving to E-Group.
+1. January 21st - January 25th: For E-Group to review and approve final compensation changes.
+1. January 26th - January 31st: Total Rewards will present all compensation changes to the Compensation Group for final approval.
 
 ##### February:
-1. February 1st - Februrary 4th: Total Rewards Analysts will update [BambooHR](https://www.bamboohr.com/d/), and notify all payroll providers to be effective February 1st. Total Rewards will be generating a "Total Rewards Statement" inclusive of Cash Compensation changes and current equity value for managers to use in communicating compensation changes in FY22.
-1. Once the People Group gives the ok: Managers will inform the team members of the increase and adjustments to compensation compared to their performance. Team members will need to be notified no later than February 12th.
+1. February 1st - Februrary 4th: Total Rewards Analysts will update [BambooHR](https://www.bamboohr.com/d/), and notify all payroll providers to be effective February 1st. Total Rewards will be generating a "Total Rewards Statement" inclusive of Cash Compensation changes and current equity value for managers to use in communicating compensation changes in FY22. Total Rewards will also be iterating to include Total Benefits & incentives awarded throughout FY22. 
+1. Once the People Group gives the ok: Managers will inform the team members of the increase and adjustments to compensation compared to their performance. Team members will need to be notified no later than February 11th.
 
 ### Duties and Responsibilities
 
@@ -251,21 +258,15 @@ Review and flag any concerns or possible data errors to the Total Rewards team.
 
 ### Compensation Change Freeze
 
-To ensure a smooth process, the Total Rewards team will freeze any compensation changes relating to promotions as part of the Annual Compensation Review process leading into the [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) portion of the program. Any compensation or promotion change requests need to be [submitted in BambooHR](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change) by 2020-12-04 with last available effective date of 2020-12-01 or 2020-12-16. If an exception needs to be made and a compensation change needs to be processed during this time, such as relocations or other reasons, please send an email to Total Rewards.
+To ensure a smooth process, the Total Rewards team will freeze any compensation changes relating to promotions as part of the Annual Compensation Review process leading into the [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) portion of the program. Any compensation or promotion change requests need to be [submitted in BambooHR](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change) by 2021-12-01 with last available effective date of 2021-12-01. If an exception needs to be made and a compensation change needs to be processed during this time, such as relocations or other reasons, please send an email to Total Rewards.
 
-For internal transfers, Total Rewards will need a list of active applicants from Talent Acquisition on roles as of 2020-12-16. If a team member takes an internal transfer, they will be removed from the Annual Compensation Review process as their compensation will be reviewed per the hiring process.
+For internal transfers, Total Rewards will need a list of active applicants from Talent Acquisition on roles as of 2021-12-08. If a team member takes an internal transfer, they will be removed from the Annual Compensation Review process as their compensation will be reviewed per the hiring process.
 
-Any compensation changes that result from Annual Compensation Review will have an effective date of 2021-02-01. If a manager anticipates that a promotion is more suitable to process for a team member, the manager has the option to remove the team member out of the Annual Compensation Review process. If this is the case, please send an email to Total Rewards no later than 2020-12-16.
-
-Promotions and compensation change requests will reopen in BambooHR on 2021-02-01. The effective date for these requests will be processed in the next available payroll date from the time of approval.
+Any compensation changes that result from Annual Compensation Review will have an effective date of 2022-02-01. If a manager anticipates that a promotion is more suitable to process for a team member, the manager has the option to remove the team member out of the Annual Compensation Review process and process a promotion through Compaas (more details to come). If this is the case, please send an email to Total Rewards no later than 2021-12-08.
 
 ## Performance Factor
 
-Performance Factors are assessed twice per year as part of the [Performance/Growth Matrix](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix). The average performance output (developing - performing - exceeding) will be used for annual compensation review.
-
-For FY22 compensation (effective February 1, 2021) we will only have the ability to have one assessment (conducted in November 2020). If a team has already submitted a Performance/Potential Assessment in Q3 FY21, they will not be required to submit another assessment in Q4, but may update their assessment if desired.
-
-The People Group is developing guidelines and the assessment tool for how the Performance Factor will be determined/processed. [Related Issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-operations-engineering/-/issues/188).
+Performance Factors are assessed as part of the [Performance/Growth Matrix](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix). The performance output (developing - performing - exceeding) will be used for annual compensation review.
 
 ### Performance Factor and Annual Compensation Review
 
@@ -298,6 +299,10 @@ to clearly communicate to the team member how it was derived.
 Increases are not capped at 10%. If a manager would like to suggest an increase higher than the guidelines, they will want to add a justification for each indirect manager to review and approve.
 
 If a manager has a team member on their team who is red circled (paid over the top end of the compensation range), in order for the person to receive an increase, they will need to submit a compensation exception request with their People Business Partner to Total Rewards which will then be reviewed and approved by the Compensation Group. The Total Rewards team will notify the People Business Partners of the team members red-circled once the new ranges are set for proactive review.
+
+## Growth Factor 
+
+TODO
 
 ### Communicating Performance Factor
 
@@ -432,11 +437,11 @@ The following iterations we will continue to review having implemented in Compaa
 
 ### Communicating Compensation Increases
 
-All increases for Annual Compensation Review will be finalized by Feb 1st. FY 2022 compensation will be uploaded into BambooHR no later than Feb 4th for payroll to make changes in all subsequent systems. The Total Rewards team will turn off the ability to see compensation in BambooHR using Employee or Contractor Self Service from Jan 25th until Feb 12th for Employees and until Feb 5th for Contractors. Managers will have the ability to communicate any increases to their team before end of day on the 5th for Contractors and end of day on the 12th for Employees.
+All increases for Annual Compensation Review will be finalized by Feb 1st. FY23 compensation will be uploaded into BambooHR no later than Feb 4th for payroll to make changes in all subsequent systems. The Total Rewards team will turn off the ability to see compensation in BambooHR using Employee or Contractor Self Service from Jan 25th until Feb 11th for Employees and until Feb 4th for Contractors. Managers will have the ability to communicate any increases to their team before end of day on the 4th for Contractors and end of day on the 11th for Employees.
 
-For FY22, each team member with a compensation change will have a [Total Rewards Statment](/handbook/total-rewards/compensation/compensation-review-cycle/#total-rewards-statement) generated. Managers are able to utilize this letter when having conversations with your team members about their increase and overall Total Rewards Compensation package at GitLab. More information on these letters can be found in the handbook section below.
+For FY23, each team member with a compensation change will have a [Total Rewards Statment](/handbook/total-rewards/compensation/compensation-review-cycle/#total-rewards-statement) generated. Managers are able to utilize this letter when having conversations with your team members about their increase and overall Total Rewards Compensation package at GitLab. More information on these letters can be found in the handbook section below.
 
-Communication Guidelines can be found in the [Leadership Toolkit](/handbook/leadership/compensation-review-conversations/).
+Communication Guidelines can be found in the [here](/handbook/leadership/compensation-review-conversations/).
 
 If your direct report has any questions on the calculation of their increase please feel free to have them reach out to the Total Rewards team.
 
@@ -447,20 +452,19 @@ Each team member who receives an increase during the Annual Compensation Review 
 1. If you are a manager, navigate to the profile of one of your direct reports first. Select the Documents tab and expand the `Annual Compensation Review Total Rewards Statements` folder. You can either select the linked document name to open a quick view of the Total Rewards Statement in BambooHR or select the download button that appears to the right of the letter. If you are a manager and are unable to see the Documents tab for your team member, please reach out to `total-rewards@ gitlab` and we will review your access level.
    * ![download change letter](/images/handbook/people-group/BHR_ACRLetter_Folder.png)
 1. There are two different letter formats depending on whether you/your team member is paid a base salary only or receives a commission/bonus:
-   * [Base + Bonus Letter Example](https://drive.google.com/file/d/141f-z4ID3kNHsPbRkBv5H38t9Ffy3lUr/view?usp=sharing)
-   * [Base Only Letter Example](https://drive.google.com/file/d/1_ytqLF6MlpNWLTorSzXJRoaKiT5aBUoI/view?usp=sharing)
-1. Each letter will have a Cash Compensation Section outlining the current (FY21) compensation and new (FY22) compensation in the team member's local currency.
+   * Base + Bonus Letter Example (New Template to be added)
+   * Base Only Letter Example (New Template to be added)
+1. Each letter will have a Cash Compensation Section outlining the current (FY22) compensation and new (FY23) compensation in the team member's local currency.
    * The Base Only letter will list the current and new Base Salary as well as the percent increase (Total Target Cash Compensation % Change).
    * The Base + Bonus letter will list the current and new Base Salary, the current and new Target Bonus (Variable), the current and new Total Target Cash Compensation (Base + Bonus), and the Total Target Cash Compensation % Change.
-1. Both letters will also have a section for Equity Compensation outlining the number of unvested stock options as of January 27, 2021. The letter will also include a link to the [Compensation Calculator](https://comp-calculator.gitlab.net/) for the manager and team member to review the potential value of the unvested stock options.
-   * Please note that the current number of unvested stock options was pulled on January 27th. The total number of unvested options may have changed between this date and the time the letter is reviewed if more stock options were vested during this time period. Please see the handbook for more information on [vesting at GitLab](https://about.gitlab.com/handbook/stock-options/#vesting).
+1. Both letters will also have a section for Equity Compensation. (Additional details to be added). 
 1. Both letters will also have a section for Benefits linking to the [Compensation Calculator](https://comp-calculator.gitlab.net/) for the team member to review the value of their benefits package. The compensation calculator outlines the following benefits: Remote Benefits, General Benefits, and Entity-Specific benefits.
 1. To share the letter directly with the team member once their increase has been communicated, select the gear button to the right of the letter, select "Share with Employee", and, in the pop up prompt, select "Share" again.
    *  ![share letter](/images/handbook/people-group/Share_Letter.png)
 
-## FY 2022 Annual Compensation Review Budget
+## Compensation Program Budget
 
-For Fiscal Year 2022, the promotion and annual compensation review budget is separate and calculated based on the following conditions:
+The promotion and annual compensation review budget is separate and calculated based on the following conditions:
 
 1. Promotion Budget
   * Assume 12% of the team is promoted with an average of a 10% increase to OTE.
@@ -470,7 +474,7 @@ For Fiscal Year 2022, the promotion and annual compensation review budget is sep
   * The budget for [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above is managed by the Compensation Group internally to GitLab, and approved by the Compensation Committee at the Board level.
 1. Relocation Budget
   * Relocations are not considered in the budget. Theoretically throughout the year, there would be a net zero from those moving to higher-cost and lower-cost regions.
-1. Budget Rollovers: The budget from annual compensation review can rollover into the targeted mid-year increase review or the promotion budget for that fiscal year. For example, if Engineering has 20,000 USD left after the FY22 annual compensation review process, they can use these funds for promotions in FY22. At the end of each fiscal year, the budgets will reset.
+1. Budget Rollovers: The budget from annual compensation review can rollover into the promotion budget for that fiscal year. For example, if Engineering has 20,000 USD left after the FY22 annual compensation review process, they can use these funds for promotions in FY22. At the end of each fiscal year, the budgets will reset. Total Rewards will work with FP&A to review what the maximum amount of rollover is 
 1. Budgets _cannot_ be transferred to a different division.
 
 **Calculating Budget Actuals**
@@ -486,9 +490,6 @@ For Fiscal Year 2022, the promotion and annual compensation review budget is sep
 1. Annual Compensation Review Budget
   * Per Division take the total OTE (TTC) of the group as of October 31st x 88%. Review removing any overspend or allocate additional budget per division from the promotion budget.
   * Verify totals with the Manager, FP&A.
-
-**Administering the Promotion Budget Quarterly**
-1. The data team is working to make the promotion budgets available in Sisense.
 
 ## Targeted Mid-year Increase Review
 
@@ -520,15 +521,3 @@ A team member was hired on 2020-11-01 and thus was not eligible for Annual Compe
 
 **Example scenario 2.**
 A team member did not receive an increase over Annual Compensation review as they were promoted on 2021-12-01. In the increase for promotion you took into account the Annual Compensation review and have given them a higher increase than the recommended 5-10% for promotions. They are currently placed a a competitive rate for their level, role and location just below the median. The team member is meeting performance expectations. As a manager you are not going to recommend a targeted mid year increase but will formally assess their performance and growth in the new role in Q4. At the annual compensation review they will be eligible again for an increase. 
-
-### Targeted Mid-year Increase Review Timeline
-
-**All approved increases will be effective on September 1.**
-
-* August 11th: Compaas Opens
-* August 20th: Compaas Closes, All e-group approvals must be in place by August 25th  
-* August 25th: Visibility for team members to view compensation in BambooHR will be turned off 
-* August 26th - 27th: New Compensation will be reviewed / audited by Total Rewards and confirmed by the Compensation Group 
-* September 1st: Compensation Increases will be uploaded to BambooHR
-* September 1st - 10th: Managers to communicate increases to applicable team members 
-* September 15th: Visibility for team members to view compensation in BambooHR will be turned on 

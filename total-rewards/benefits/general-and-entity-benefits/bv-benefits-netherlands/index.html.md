@@ -28,7 +28,7 @@ There is no additional medical coverage scheme through GitLab.
 
 Note that in the Netherlands every citizen is obliged to have at least a basic health insurance package (basisverzekering) with a health insurance company. If you do not have health insurance, you can be fined by the Sociale Verzekeringsbank.
 
-GitLab does not plan on adding additional medical cover at this time due to the governmental cover.
+GitLab does not currently provide medical coverage due to the government policy of subsidizing private insurance.
 
 Due to the [Working Conditions Act](https://www.arboineuropa.nl/en/legislation/wetgeving-in-het-engels/), GitLab contracts an occupational safety and health service. The OSH-service can assist employees who are not able to work because of illness. The contact information for GitLab's designated Occupational Health Service provider is:
 

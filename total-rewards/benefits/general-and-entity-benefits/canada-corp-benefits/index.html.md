@@ -486,6 +486,37 @@ Canada Life has a [user portal](https://www.canadalife.com/) and App available t
 
 Great West Life uses the first day cohabitating as the date of eligibility to enter into the GitLab health plan. Anyone who has a common law spouse that they wish to add, moving from Single to Family coverage, for example, will need to do so within 30 days of moving in together.
 
+## Registered Retirement Savings Plan (RRSP)
+
+Effective November 1, 2021, eligible Canadian Team Members can enroll in GitLab's Group Registered Retirement Savings Plan (RRSP). Under this plan you can begin contributing pre-tax income towards a retirement savings account managed by our provider, Canada Life.
+
+### Plan Details
+
+* Eligible: Start date or November 1, 2021 if hired before the plan effective date.
+* Match: GitLab will match up to 3% of base salary with a cap of 2,500 CAD. Team members may voluntarily choose to contribute more than 3% with no employer match.
+* Eligibility criteria: All full-time (defined as working at least 30 hours per week) team members of GitLab Canada Corp.
+* Contributions may be updated at any time, but please allow 1 - 2 payroll cycles for the new contribution amount to reflect in your paycheck.
+
+### Enrollment
+
+For enrolling into the RRSP, please navigate to [Canada Life's RRSP portal](mycanadalifeatwork.com) and follow the directions in the [enrollment express pdf](https://drive.google.com/file/d/16K333QPsXllZFolC_yiXZYb3rUYJwXvu/view?usp=sharing). For a more detailed overview of enrolling and navigating the RRSP platform, please reference the [enrollment express guide](https://www.brainshark.com/1/player/grs?pi=zGWz97lF4zPVigz0&r3f1=c5ff81d2ded38b99c999f69cca80c7ded98198f2dbc5c1cd9e&fb=0).
+
+* Once enrolled, a plan administrator will need to approve your enrollment. This may take up to two weeks.
+* If you need any help, please contact Canada Life at 1-800-724-3402, our broker SC Insurance at info@scinsurance.ca, or the Total Rewards team at total-rewards@gitlab.com. 
+* Please remember to select a beneficiary when enrolling. This is separate from the beneficiary elected for your life insurance plan.
+
+### Administrative Details for Benefits Team
+
+On the pay changes deadline (every 2 weeks) the following steps should be taken:
+1. Review any pending accounts and approve if they are actively employed with GitLab Canada Corp.
+1. Create a payroll deduction detail report of all active enrollments and update any changes in the Canada Payroll Changes file to be processed on the next payroll.
+1. Once payroll has been processed, the Payroll team will provide a report of $ amounts deducted from team members. This should be returned to our contact at Canada Life or uploaded directly through the portal (preferred method).
+
+Offboarding:
+* The Canada Life RRSP portal is not able to be connected to Collage so team members will need to be manually removed from the RRSP plan upon termination.
+
+Please see the [administration guide](https://drive.google.com/drive/u/0/folders/1qJ3NmOzDjeXKFpwwO2J0upF5ZVBs_YLD) for additional instructions.
+
 ## Administrative Processes 
 
 **Adding a Beneficiary Designation to Collage:** 

@@ -15,11 +15,15 @@ description: A description of programs and resources for team members to access 
 
 At GitLab, team members have access to the [Growth and Development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) to access external resources to develop their career. 
 
-### Growth and Development Benefit Eligibility 
+## Growth and Development Benefit Eligibility 
 
-Team members who are full-time and have been employed for three months can participate in this benefit. If you are a part-time GitLab team member, you may still be eligible to participate in this benefit but your reimbursement might be reduced. These situations will be discussed on a case-by-case basis.
+* Team members who are full-time and have been employed for three months can participate in this benefit. If you are a part-time GitLab team member, you may still be eligible to participate in this benefit but your reimbursement might be reduced. These situations will be discussed on a case-by-case basis.
+* Team members who are meeting performance expectations in their current role:
+    * Currently in good standing with GitLab in terms of performance and behaviours
+    * Not currently on a [PIP](/handbook/leadership/underperformance/#performance-improvement-plan-pip)
+    * Not on any type of remedial, formal coaching as outlined in the [Underperformance page](/handbook/leadership/underperformance/)
 
-Examples of requests that may be approved:
+**Examples of requests that may be approved:**
 * A Backend Engineer who is not on a performance improvement plan seeking a bachelor's degree in Computer Science.
 * A People Operations Generalist seeking a master's in Human Resources with a concentration in International Employee Relations.
 * A Security Analyst seeking to take courses to gain a Cybersecurity certificate through an accredited college or university.
@@ -27,80 +31,83 @@ Examples of requests that may be approved:
 * A Technical Account Manager seeking to obtain a Cloud Certification such as CompTIA Cloud, AWS Certified Solutions Architect, MicroSoft MCSA/MCSE, Cisco CCNA/CCNP.
 * Learning how to code for all team members (for example [Learning Rails on Codecademy](https://www.codecademy.com/learn/learn-rails)).
 
-Examples of requests that may be denied:
+**Examples of requests that may be denied:**
 * A Marketing Manager seeking a master's in Human Resources, but has no intention of applying to a role in people ops.
 * A Frontend Engineer seeking a master's in computer science who is on a performance improvement plan or having discussions around underperformance.
 * If the tuition reimbursement budget has been reached, then your request may be denied, even if you meet eligibility requirements.
 
-**Please note that in order to be eligiblity for the Growth and Development benefit, a team member must be meeting performance expectations in their current role.**
 
-### How to Apply For Growth and Development Benefits
+## How to Apply For Growth and Development Benefits
 
-**For all Growth and Development Benefit applications**
+**Step 1:** Have a [career development conversation](/handbook/people-group/learning-and-development/career-development/#what-is-career-development) with your manager to discuss the learning opportunity. It's important to discuss timing, team member capacity, and application timeline for both the program and benefit processing. This conversation should allow time for you to apply for program/benefit and your manager to ensure team budget capacity.
 
-Applying team members must have a [career development conversation](/handbook/people-group/learning-and-development/career-development/#what-is-career-development) with their manager to discuss the learning opportunity. It's important to discuss timing, team member capacity, and application timeline for both the program and benefit processing. This conversation should allow time for both the team member to apply for program/benefit and the manager to ensure team budget capacity.
+**Step 2:** Create a new Growth & Development issue at least 30 days before the commencement date:
+    * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=academic_study) for applications relating to Academic Study
+    * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-growth-development) for other types of Growth & Development applications
 
+* Note: This application process is visible internally. It is preferred and more efficient to create an issue for your application, however, if there is any reason that you would like to keep your application confidential, please send growth-development@gitlab an email with the details of your application (refer to the issue templates for the information required).
 
-Complete the following application form depending on the cost of the learning opportunity:
+**Step 3:** Request approval on the issue. Manager approval is needed for all applications and Executive Leader approval is needed for applications above $1000 USD. 
 
-**For Growth & Development Benefits that cost under $1,000 USD**
-If the cost is $1,000 USD or less, please fill out the [Growth & Development Benefit Form (Under $1,000)](https://forms.gle/ZLH2KtEqxBtW1Bja6) and submit your expenses via [Expensify](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement). 
+* Once the manager has approved, there is no further action to be taken by the manager. They can unassign themselves to the issue if they wish. Total Rewards will update the labels on the issue.
 
-**For Growth & Development Benefits that cost over $1,000 USD**
-If the cost is greater than $1,000 USD, please fill out the [Growth & Development Benefit Form (Over $1,000 USD)](https://docs.google.com/forms/d/e/1FAIpQLScoql6Yr-r8j_XjUjJNnJRzgf2rOsOE-gXpydn6r1INLqEfKw/viewform) at least 30 days before the commencement date. Total Rewards or Learning & Development will stage a Growth & Development Agreement for you and obtain signatures from the approvers per the table below. If the education provider does not allow for tuition/payment deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course/program (this option is available for reimbursements above $1,000 USD only as it is processed via payroll).
+* **Field organization executive signatures should be routed by the following:**
+  - Enterprise Sales: Mike Pyle (VP of Enterprise Sales)
+  - Customer Success: David Sakamoto (VP of Customer Success)
+  - Commercial Sales: Ryan O'Nell (VP of Commercial Sales)
+  - Field Operations: David Hong (VP of Field Operations)
+  - Worldwide Channels: Michelle Hodges (VP of Worldwide Channels) 
 
-#### Reimbursement 
-Reimbursements for over $1,000 USD will be processed by the following: 
-1. Team member fills out Growth & Development Benefit Form for over $1,000 USD
-1. Total Rewards will stage an Agreement form
-1. All parties will sign the document following the [approval flow below](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#approval-flow-for-benefits-over-1000)
-1. Total Rewards will upload the signed document into the team member's BambooHR folder
-1. Once the team member completes the program, please send proof of completion to `total-rewards@gitlab.com`
-1. For reimbursements for conferences, workshops, professional membership, please also send the invoice to `total-rewards@gitlab.com` once you have signed up
-1. Once proof of completion and/or invoices are received, Total Rewards will notify payroll to begin the reimbursement process. Please see the below [table](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
-1. **At this time team members will not submit expenses through Expensify for Growth & Development funds over $1000 USD**
-1. For Your 4th Trimester Coaching, GitLab will pay the provider directly.
-1. Once payroll is notified, reimbursement will occur in the following pay cycle for the team member
+**Step 4:** Claim for reimbursement: 
+* If you have signed up for academic study, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you receive your grade/transcript (this can be done at the end of each semester if your course is split into semesters or at the end of the program). You may close the issue once you have received reimbursement for the whole program. 
+* For other types of Growth & Development opportunities, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you have obtained the reimbursement requirement per the [table below](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements). You may close the issue once you have gained approval for your application.
 
-If you voluntarily terminate employment with GitLab prior to completing twelve consecutive months of active employment, expenses of $1,000 USD and over will need to be refunded to GitLab. If you opted to receive 50% of the reimbursement up front but the total amount on your form is at least $1,000 USD, the amount will still need to be refunded back to GitLab.
+### Your 4th Trimester Applications
+For Your 4th Trimester applications, please notify Total Rewards that you would like to participate in the program by sending an email to `growth-development@gitlab.com`.
 
-#### Approval Flow for Benefits over $1,000
+## Reimbursements of Growth and Development Applications
 
-If requesting over $1,000 for the Growth & Development benefit, the approval flow will follow the following sequence: 
-1. Form uploaded into DocuSign and sent
-2. Team Member signature
-3. Direct Manager signature
-4. Executive Signature: E-Group or C-Suite Member 
-5. Once all signatures have been signed, Total Rewards will save the form in the team member's BambooHR file under the Documents tab, Growth & Development folder
+**If the cost is [$1,000 USD or less](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
 
-If approvals are taking longer than expected, the team member should send a message to all signatures to ask them to sign. 
+* Take a screenshot of the issue and follow the [Growth & Development Expensify reimbursement process](/handbook/finance/expenses/#-work-related-online-courses-and-professional-development-certifications).
 
-**Field organization executive signatures should be routed by the following:**
-- Enterprise Sales: Mike Pyle (VP of Enterprise Sales)
-- Customer Success: David Sakamoto (VP of Customer Success)
-- Commercial Sales: Ryan O'Nell (VP of Commercial Sales)
-- Field Operations: David Hong (VP of Field Operations)
-- Worldwide Channels: Michelle Hodges (VP of Worldwide Channels) 
+**If the cost is [over $1,000 USD](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
+* For conferences, workshops, professional memberships, please send the invoice to `growth-development@gitlab` once you have signed up. For academic study, send a copy of your grades/transcript and invoice to `growth-development@gitlab`. Please see the Growth & Development [table](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
+* Total Rewards will then notify payroll to begin the reimbursement process.
 
+## Recoupment of Growth and Development Reimbursements
+If you voluntarily terminate employment with GitLab prior to completing twelve consecutive months of active employment, expenses of $1,000 USD and over will need to be refunded to GitLab.
 
-### Tax Implications for Tuition Reimbursement by Country
+## Tax Implications
 
-In some countries, the Growth and Development Benefit may be considered as taxable income and can be (partially) exempted from personal income taxes or subject to employer withholding taxes. Check this [table](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/tax/) for any tax implications in your country.
+In some countries, the Growth and Development Benefit may be considered as taxable income and can be (partially) exempted from personal income taxes or subject to employer withholding taxes. Check [the tax table](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/tax/) for any tax implications in your country.
 
 For example, in the United States 2021 tax year, if GitLab pays over [$5,250 for educational benefits for you during the year, you must generally pay tax on the amount over $5,250](https://www.irs.gov/newsroom/tax-benefits-for-education-information-center). 
 
 Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](mailto:peopleops@gitlab.com) for any tax-related questions in your country.
 
+## Processing Growth and Development Applications
+Reimbursements for over $1,000 USD will be processed by the following: 
 
-### Types of Growth and Development Reimbursements
+1. Team member opens a new Growth & Development issue and requests for approval from their Manager and Executive Leader (if the application is over $1000 USD).
+1. Total Rewards will log the application on their Growth & Development Benefit log and assign the label `GrowhDevelopment::Logged`.
+1. Total Rewards will update the label of the issue according to the approval progress of the application.
+1. Total Rewards will check the eligibility (hire date and tally) of the team member on the Growth & Development log.
+1. Once the team member completes the program or receives the invoice (for non academic study applications), the team member will send `growth-development@gitlab.com` a copy of the transcript/proof of completion/invoice.
+1. Total Rewards will upload the documents in the team member's BambooHR Growth & Development folder.
+1. Total Rewards will notify payroll.
+1. Total Rewards will update the status of the application on the log and change it to `Payroll Notified`.
+1. Once payroll is notified, reimbursement will occur in the following pay cycle for the team member.
 
-All of the types are required to submit a **Growth & Development Form** for [costs under $1,000 USD or costs over $1,000 USD](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits). **Please note the reimbursement section above before proceeding. The training budget does not include the cost for traveling to and from an event.**
+## Types of Growth and Development Reimbursements
+
+**Please note the reimbursement section above before proceeding. The training budget does not include the cost for traveling to and from an event.**
 
 | Category | Description | Eligibility for Reimbursement | Requirements for Reimbursement (in addition to G&D form) | Approver (above $1,000 USD) |
 | -------- | ----------- | ----------------------------- | -----------------------|--------------------------- |
-| Academic Study | GitLab supports team members who wish to continue their education and growth within their professional career. <br> The benefit will cover only the tuition and enrollment related fees. <br> Additional fees related to parking, books, supplies, technology, or administrative charges are not covered as part of the program. Tuition will be validated by receipt showing proof of payment. | - The course must be from a credentialed college or university and must be relevant to your role’s goals and development. <br> - A [Growth & Development form](https://docs.google.com/forms/d/e/1FAIpQLScoql6Yr-r8j_XjUjJNnJRzgf2rOsOE-gXpydn6r1INLqEfKw/viewform) submission will be needed for each semester, however, the relevance of the classes taken for each semester will be subject to the approval of the manager and e-group leader. <br> - The grade must be equivalent to a “B”. | - A final grade report or transcript is required to receive reimbursement. | - Manager, E-Group Member. | 
-| [Your 4th Trimester Coaching](/handbook/total-rewards/benefits/parental-leave-toolkit/#team-member-tool-kit) | Your 4th Trimester is a 90-day coaching program with Broad Perspective Consulting. The purpose of the program is to help parents (regardless of gender) be as prepared as possible to be a working parent through coaching and development. The cost of this program is $2,300 USD. | - Team members returning from Parental Leave. <br> - The provider will invoice GitLab directly. | - n/a | Manager and People Business Partner |
-| Professional Coaching | Professional coaching for managers and leaders to support their development in their area of interest.  We encourage team members to utilize GitLab's internal resources but understand that some team members may desire to have additional external coaching resources to develop their leadership skills. Individual contributors below Grade 8 are encouraged to receive coaching and mentorship from their managers and our internal resources. | - Managers or Individual Contributors Grade 8 and above | - Invoice from the coach is required to receive reimbursement. | Manager, E-Group Member |
+| Academic Study | GitLab supports team members who wish to continue their education and growth within their professional career. <br> The benefit will cover only the tuition and enrollment related fees. <br> Additional fees related to parking, books, supplies, technology, or administrative charges are not covered as part of the program. Tuition will be validated by receipt showing proof of payment. | - The course must be from a credentialed college or university and must be relevant to your role’s goals and development. <br> - If the education provider does not allow for tuition/payment deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course/program <br> - The relevance of the classes taken for each semester will be subject to the approval of the manager. <br> - The grade must be equivalent to a “B”. | - A final grade report or transcript is required to receive reimbursement. | - Manager, E-Group Member. | 
+| [Your 4th Trimester Coaching](/handbook/total-rewards/benefits/parental-leave-toolkit/#team-member-tool-kit) | Your 4th Trimester is a 90-day coaching program with Broad Perspective Consulting. The purpose of the program is to help parents (regardless of gender) be as prepared as possible to be a working parent through coaching and development. The cost of this program is $2,300 USD. | - Team members returning from Parental Leave. <br> - The provider will invoice GitLab directly. | - n/a | n/a |
+| Professional Coaching | Professional coaching for managers and leaders to support their development in their area of interest.  We encourage team members to utilize GitLab's internal resources but understand that some team members may desire to have additional external coaching resources to develop their leadership skills. Team members are expected to know their confidentiality obligations and are responsible for keeping conversations [SAFE](/handbook/legal/safe-framework/) during coaching sessions. **The specifics of your coaching sessions will not be communicated to GitLab**. While not required, we strongly encourage you to share your experience, learnings, reflections,  and discoveries with your manager so they can reinforce them and support you on this journey. Individual contributors below Grade 8 are encouraged to receive coaching and mentorship from their managers and our [internal resources](/handbook/leadership/coaching/). | - Managers or Individual Contributors Grade 8 and above | <br> - Invoice from the coach is required to receive reimbursement. | Manager, E-Group Member |
 | English Language Courses | As GitLab expands globally, we want to support our team members where English may not be their first language. Managers are encouraged to recommend this benefit to team members whose engagement as a part of GitLab and/or performance may be improved by further developing their English language skills. Examples of English Language Courses: <br> - [Coursera](https://www.coursera.org/browse/language-learning/learning-english) offers a wide variety of online English courses in partnership with various reputable colleges and universities, like the [Business English for Non-Native Speakers course](https://www.coursera.org/specializations/business-english-speakers) and the [Improve your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english) . <br> Their courses range from improving your English language skills to more specialized courses that focus on English for STEM or career development. <br> - [Cambridge C2 Exam Prep Course](https://www.kaplaninternational.com/exam-preparation-courses/cambridge-c2-exam-preparation-course) is a program to consider if preparring to take the Cambridge English Qualification. This is an internationally recognized test and qualification of English language ability. More prep course materials can be found [here](https://www.cambridgeenglish.org/exams-and-tests/proficiency/preparation/) or via [International House London](https://www.ihlondon.com/course/cambridge-c2-proficiency-online) <br> - The [University of Texas Austin](https://global.utexas.edu/english-language-center/programs/self-paced) has multiple self-paced writing and pronounciation courses available. <br> - [LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=english) has many courses for English. <br> - [Writing in Plain English](https://www.linkedin.com/learning/writing-in-plain-english) seems particularly well suited for improving async communication. Language learning Apps and sites can be effective tools. <br> - [Duolingo](https://www.duolingo.com/) offers gamified way to learn English, plus other languages. <br> - [Memrise](https://www.memrise.com/) is helpful for vocabulary building. <br> - Use [italki](https://www.italki.com/teachers/english) to find a English tutor. 1:1 instruction is often necessary for continued improvement, especially once a person has reached basic proficiency. <br> - English Language Courses offered in-person or online by a local college or university or English language courses offered online by a non-local college or university. | Courses offered in-person or online by a credential college or university or an English language school are eligible for reimbursement. | - Invoice/receipt when submitting through Expensify. | N/A as a course amount isn’t likely to exceed $1,000 USD. If this does exceed $1,000 USD, the academic study criteria would apply. |
 | Professional Development/Certifications/Licenses | Any certifications/licenses that you and your manager think will be relevant to your development. | Certifications and licenses related to your role. | - For reimbursements above $1,000 USD, a final grade report or satisfactory certificate of completion will be required to receive reimbursement. | Manager, E-Group Member |
 | Professional Dues/Membership | Any professional development membership or dues that will be relevant to your growth and development. | - Professional membership to an accredited organization that aligns with your role <br> - Professional dues needed in order to continue members in an accredited organization. | - An invoice for the dues/membership. | Manager, E-Group Member | 
@@ -130,39 +137,23 @@ The following programs have been contributed by leaders across the organization.
 
 ### Crucial Conversations training 
 
-The Learning and Development team is excited to deliver [Crucial Conversations](/handbook/leadership/crucial-conversations/) training internally to team members. Currently, 2 members of the GitLab L&D team are certified to deliver this training. The team will co-deliver the Crucial Conversations content in a hybrid format, including self-paced learning and live learning practice sessions. A detailed training outline is included below:
-
-**Total program length:** 4 Weeks
-**Time commitment per week:** Approx 2 hours self-paced and 1 hour live practice session
-
-| Week Number | Topic | Commitment |
-| ----- | ----- | ----- |
-| 1 | Introduction, Get Unstuck, Start with Heart | 3 hours |
-| 2 | Master my Stories, State my Path | 3 hours |
-| 3 | Learn to Look, Make it Safe | 3 hours |
-| 4 | Explore Other's Paths Move to Action, Finish the Course | 3 hours |
-
-Training weeks will run Wednesday-Wednesday, with live trainings each week hosted at multiple times across Tuesday/Wednesday. 
-
-Upon completion of the 4 week training, you will earn an official Crucical Conversations certification from VitalSmarts.
+The Learning and Development team is excited to deliver [Crucial Conversations](/handbook/leadership/crucial-conversations/) training internally to team members. Currently, 2 members of the GitLab L&D team are certified to deliver this training. The team will co-deliver the Crucial Conversations content in a hybrid format, including self-paced learning and live learning practice sessions. Read more program details in the [Learning and Development handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#crucial-conversations).
 
 Crucial Conversations charges per-learner to deliver this content. Each license costs $295 per license. The following section outlines how the team member G&D benefit can be used to participate in this training.
 
 1. First, please fill out [this Google form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform) to express interest in taking the training. You are **not** committing to the training by filling out this form.
 1. The L&D team will assess interest/team need and organize cohorts based on this Google form. The team will contact you to confirm your availability before signing you up for a cohort.
-1. Once you've been contacted by the L&D about an upcoming cohort, you will commit to the cohort by taking 2 required actions.
-     - First, talk to your manager for verbal approval and submit the [Growth and Development benefit form for under $1,000](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits)
-     - Once application is approved, use the unique link shared by the L&D team to purchase your license. After purchase, you will immediately have access to the online portal and can submit for reimbursement following the G&D benefit process
-1. You must complete the Crucial Conversations self-paced training and attend **at least** 4 live training sessions **within 3 months of starting the training**. If you do not complete the training in this timeframe, you will be required to pay for the cost of your license. 
+1. The L&D team will open a G&D benefit issue and tag you in the issue. Please ask your manager to comment on the issue with a note saying `approved` to gain manager approval of your participation.
+1. Once approved, L&D will process the purchase of the licenses and distribute to participants by generating an invoice and sending it to GitLab's accounts payable team.
 
-**An important note:** As you are planning your professional development for the calendar year, please keep in mind the cost of this training program ($295 per license). If you have already exceeded your G&D budget or plan to later in the year, you could elect to pay for this license out of pocket, or plan to take the training next year.
+
+The L&D and Total Rewards teams will collaborate to purchase the course license on your behalf and the cost will count towwards your Growth and Development budget. 
+
+You must complete the Crucial Conversations self-paced training and attend at least 4 live training sessions within 3 months of starting the training. If you do not complete the training in this timeframe, you will be required to pay for the cost of your license.
 
 
 ### Administration of Your 4th Trimester 
 
-1. When a new Your 4th Trimester request comes through, Total Rewards will be tagged on the "Growth & Development Benefit Log".
-1. Download the team member's agreement from the "Populated Agreements" folder. Delete the `Agreement` paragraph, `Manager Business Rationale` field, `People Business Partner` field and `C Level` field. Stage the agreement for the team member and manager to sign. 
-1. Update the Status column on the log once the agreement is staged and once the form has been signed (change to "In Progress").
 1. If the team member lives in a country where this benefit is considered taxable income (currently only in Australia and some cases in Belgium), notify payroll.
 1. Total Rewards will send an introductory email to Your 4th Trimester to the team member and Barbara Palmer `barbara@your4thtrimester.com` outlining the expected leave date, expected return to work date and date of birthing event. Barbara will conduct the intake with the team member and communicate directly for any coaching throughout the program. 
 
@@ -182,56 +173,3 @@ Process for Total Rewards Analysts for recouping Growth & Development reimbursem
 * Have the form audited by someone in the Total Rewards team
 * Stage the document in DocuSign
 * Fill out the Growth & Development Recoupment Log
-
-### Processing Steps for G&D Benefit
-
-The following steps are to be completed by the GitLab team who processes and approves G&D benefit applications for team members. GitLab team members can access [this training in Google Drive](https://drive.google.com/file/d/14g3CoWWdaf9TZ3YAk1d06wH0OJRuZii2/view?usp=sharing) that goes over the details of this process.
-
-Team members will need access to the following resources to complete this process and should submit an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) if they do not yet have access:
-
-1. Docusign
-1. [Benefit Log](https://docs.google.com/spreadsheets/d/1OChGPBmet6Ewxr3Zz_Wj4AdwQJxRTM0aGy-HFKa5jm4/edit#gid=1169295845)
-1. BambooHR
-1. [Growth & Development Folder](https://drive.google.com/drive/folders/198MRzlePzA14PoJDh0RgOFrBzEwMGhZH)
-
-This [loom recording](https://www.loom.com/share/13431873d3ad42a9b292428c8c922355) includes a walkthrough of the below steps. Note that the recording mentions HelloSign but we have moved to DocuSign. 
-
-#### For all applications
-
-1. An email is triggered for each application submission for both the under and over $1,000 USD applications
-1. When you are added to the application spreadsheet, you will receive and email for each new application. Click in the email spreadsheet attached to each email to see the list of submitted applications
-1. Check the team member's eligibility and check that the team member's year-to-date spend is within the $10,000 USD limit (check the `Tally` tab on the log). Some team members may have granted an exception to spend up to $20,000 USD for academic study. Any exceptions will be marked `Yes` on the `Limit Exception` column.
-
-1. In the form, there are two tabs - for over and under $1,000USD applications. Follow the steps below for each application type:
-
-##### Applications for expenses under $1,00 USD
-
-1. Scroll over to the `amount` column to populate the currency and convert to USD using Google conversions
-1. This is the only step you need to take for requests for under $1,000 USD
-
-##### Applications for expenses over $1,000 USD
-
-1. Scroll over to the `amount` column in the Benefit Log, located in the Growth & Development Folder
-1. Find the newest entry that triggered the notification 
-1. Drag down the formula from a previous entry to populate course amount
-1. If course amount is other than USD, drag down the formula to convert local currency to USD or lookup USD conversion using [the current exchange rates](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)
-1. Check to see if the applicant has record use of the benefit to date by looking through the spreadsheet previous entries. If they have used their full benefit, they cannot apply for reimbursement again. Please notify them they have reached their full amount. 
-1. Navigate to BambooHR to find the employee number and leadership chain. 
-1. Enter the employee number from BambooHR in the Benefit Log. 
-1. Open G&D Google folder and navigate to the Populated Agreements subfolder. When the team member submits the application form, an agreement form is automatically created in this folder. Click `ctrl F` to find their agreement form. 
-1. Download the file as a word document and save to your desktop. 
-1. Log into Docusign to upload the document to be signed
-1. Add correct signers to the document, including the applicant, the applicant's direct manager, and e-group level of their division. Include signature, name, and date. You can find all of this information by following the applicant's management chain in BambooHR. For some organizations, the [e-group signatures is for the VP level](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#approval-flow-for-benefits-over-1000). 
-1. Name the file `Growth and Development Form - Applicant Name`. Include the following message when sending the document: `Please review and sign the Growth and Development form for [APPLICANT NAME]`
-1. Assign the order of signatures to flow as follows: `applicant`, `manager`, `e-group`
-1. Confirm correct dates and other information on the singing document
-1. Click `next`
-1. Drag and drop signature, name, and date boxes for the `applicant`
-1. Drag and drop signature, name, and date boxes for the `manager`. Add manager initials to the text box for management check points to ensure that the applicant is in good standing with GitLab. Add a text box for manager business rationale for manager to fill in. Add initial for c-suite team member to initial the business rationale.
-1. Drag and drop signature, name, and date boxes for the `e-group`. Add initials of e-group to business rational/development objective at the top of the form. 
-1. Send for signature
-1. Return to the application spreadsheet and update the status to `Agreement Staged` 
-1. You will recieve updates via email when documents are signed. When all 4 signatures are complete, you will get a PDF in your email.
-1. Upload a copy of the signed agreement to the applicant's BambooHR folder.
-1. For conferences and workshops, team members often request to be [reimbursed in advance](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursement). Go to the next step to kick-off the reimbursement process. Ensure that receipts/proof of registration are added to applicants BambooHR G&D folder. 
-1. When the transcript is sent, update the status to `Payroll Notified` in the application spreadsheet which will notify Payroll to start the reibursement process. It might be helpful to check in with total rewards to make sure that Payroll has been notified but tagging them directly in the document.
