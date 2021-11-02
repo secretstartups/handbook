@@ -85,6 +85,26 @@ As owners of the issues assigned to them, engineers are expected to keep the
 workflow labels on their issues up to date, either by manually assigning the new
 label, or by dragging the issue from one column on the board to the next.
 
+Once an engineer starts working an issue, they mark it with the `workflow::"in
+dev"` label as the starting point. From there, the process primarily follows
+the guideline:
+
+``` mermaid
+graph LR
+  classDef workflowLabel fill:#428BCA,color:#fff;
+
+  A(workflow::in dev):::workflowLabel
+  B(workflow::in review):::workflowLabel
+  C(workflow::verification):::workflowLabel
+
+  A -- Push an MR --> B
+  B -- Merged --> C
+  C --> D{Works on production?}
+  D -- YES --> Close
+  D -- NO --> E[New MR]
+  E --> A
+```
+
 ### Issue Boards
 
 The work for the Integrations group can be tracked on the following issue boards:
