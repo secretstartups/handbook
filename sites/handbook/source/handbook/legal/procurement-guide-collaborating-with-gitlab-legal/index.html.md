@@ -53,6 +53,14 @@ Negotiating Terms and Conditions: [Negotiating Terms](https://about.gitlab.com/h
 - GitLab prefers to use the [Standard Terms and Conditions](https://about.gitlab.com/handbook/finance/procurement/vendor-guidelines/#standard-vendor-terms-and-conditions), which includes terms related to purchasing both software and/or professional services.
 - For information regarding purchase requests and negotiation thresholds, please visit the [Procurement handbook](/handbook/finance/procurement/).
 
+## GitLab Legal Procurement Process
+- Within the GitLab PO tool, the GitLab Legal Commercial (Procurement) team is grouped as "Legal", and is listed as part of the "Approval Chain Requirements". 
+- Upon a Req. being opened, a GitLab Legal Commercial (Procurement) Team Member will carry out the following actions:
+    1. Click "Add" Approver;
+    2. Will include the name of the GitLab Legal Commercial (Procurement) Team Member who will review the request (which may be themself) and select "After Current Approver", and then hit "Add"; and
+    3. The Team Member will then add a comment that the Req. is being "Approved" to the applicbale Team Member, and will hit "Approve". 
+- By carrying out the above steps, the Req. will be added to the applicable Team Memebrs "To-Do" and will result in ensuring Team Members are not carrying out duplicative work. 
+
 ## Helpful Resources
 - Many Vendors require basic information about GitLab to be setup as a Customer, visit [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) for general information about each GitLab legal entity
 - GitLab's W9 can be found on the [Finance Page](https://about.gitlab.com/handbook/finance/#forms)
