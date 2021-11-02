@@ -12,19 +12,27 @@ description: "Discover how the GitLab Practice Management team works together."
 
 ## Practice Management Overview
 
-The professional services practice management team is responsible for maturing [current service offerings](https://about.gitlab.com/services/) and building new offerings including their go to market strategy. This page will help describe the areas of responsibility of the practice management team, how we operate and stay organized.
+The professional services practice management team is responsible for maturing [current service offerings](https://about.gitlab.com/services/) and creating and bringing new offerings to market. This page will help describe the areas of responsibility of the practice management team, how we operate and stay organized. 
+
+## Functional Areas
+1. **Channel Solutions Management** - scaling service selling and delivery through channel partner leveraged approach. 
+1. **Engagement Management** - positioning, selling, scoping and coordinating sigature of customer engagements. Check out the [Engagement Management page](handbook/customer-success/professional-services-engineering/engagement-mgmt/) for more information 
+1. **Practice Management** - building, maintaining, and bringing to market service offerings to be sold and delivered by GitLab PS and our partners. Also, improving back-office processes to decrease overall cost of revenue.   
+
+## Meet the team - Lets Chat!
+You can check out our team on the [team page here](https://about.gitlab.com/company/team/?department=practice-management). We are most reachable via the [#ps-practice](https://gitlab.slack.com/archives/C02DWMKHGRG) slack channel. 
 
 ## Backlog, Workflows, and Kanban Board
 
-The practice management team is using the top level label `Practice Management` to organize all of our work together. *Note: we are using labels at the [customer success group level](https://gitlab.com/gitlab-com/customer-success) because some projects have been put there for wider collaboration*
+We use the [PS-Practice-Management](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-practice-management) project to track our [backlog of issues](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-practice-management/-/issues).
 
-Then, we use [these scoped labels](https://gitlab.com/groups/gitlab-com/customer-success/-/labels?utf8=%E2%9C%93&subscribed=&search=PS-Practice) to organize our work into service categories.
+We use a few different [kanban boards](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-practice-management/-/boards/2685806?label_name[]=EM_Process) in this project to help track work from ideation to completion. 
+- We use the scoped labels starting with `ps::` e.g. `ps::todo` to track progress on issues. 
+- We use the `EM_process` label for engagement management and pre sales process improvements
+- We use the `PM-process` label for project management and delivery process improvements
+- We prioritize using `priority::1`, `priority::2` and `priority::3` labels
 
-We are moving toward using standard global workflow labels to track issues from inception to completion, but currently use [custom workflow labels](https://gitlab.com/groups/gitlab-com/customer-success/-/labels?utf8=%E2%9C%93&subscribed=&search=ps%3A%3A) for a simple "TODO, Doing, Done" workflow. They are considering standardizing on workflow labels, but still TBD. They are using this base [kanban board](https://gitlab.com/groups/gitlab-com/customer-success/-/boards/1736936?&label_name[]=Practice%20Management) to help visualize work flowing to completion. You can further filter based on service category scoped labels.
-
-We are starting to use and refine our [roadmap](https://gitlab.com/groups/gitlab-com/customer-success/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Practice%20Management) but it is still very much a work in progress.
-
-### Education Services practice management Labels
+## Education Services practice management Labels
 
 Here are the main labels specific to the Education Practice Management projects.
 
@@ -84,7 +92,7 @@ Here are the main labels specific to the Education Practice Management projects.
     * edEx, EdCast Leapest Marketplace, LinkedIn, Dice.com
     * Blog posts -- GitLab and 3rd party sites (eg StackOverflow, FB)
 
-## How tos
+## Practice Management How to
 
 ### How to create a new service SKU
 
