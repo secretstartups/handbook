@@ -50,7 +50,7 @@ The intention of this is to make sure we're enabling asynchronous communication 
 #### E-Group Initiated
 
 - If an E-Group team member would like a Reverse AMA, they or their EBA will contact an associated TMRG. If there isn't an associated TMRG the E-Group member or EBA will broadcast a message through their Slack channel to see if there is a population of members for the AMA. 
-- The E-Group member or EBA will create an issue (template to follow) tagging the [TMRG Leads](https://about.gitlab.com/company/culture/inclusion/erg-guide/#how-to-join-current-tmrgs-and-their-slack-channels) or a nominated facilitator for a non-tmrg AMA (facilitator group to be determined), a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), and Stella Treas (Chief of Staff)
+- The E-Group member or EBA will create an issue (template to follow) tagging the [TMRG Leads](https://about.gitlab.com/company/culture/inclusion/erg-guide/#how-to-join-current-tmrgs-and-their-slack-channels) or a nominated facilitator for a non-tmrg AMA (facilitator group to be determined), a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), and Stella Treas (Chief of Staff to the CEO)
 - The TMRG Leads will consult with the TMRG membership and accept or reject the request. If accepted the TMRG leads will provide an ideal timeframe for the AMA, ideally within 4 weeks from the date of the request.  
 - Once accepted the EBA will provide a series of times that are suitable
 - The E-Group member or EBA will ensure that there is a a Reverse AMA facilitator for the session. (Facilitator Group link to follow)
@@ -59,7 +59,7 @@ The intention of this is to make sure we're enabling asynchronous communication 
 #### Team Member Initiated
 
 - A team member of a particular underrepresented group will create an issue (Template link to follow)
-- The team member will tag a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), the [E-Group Members EBA](https://about.gitlab.com/handbook/eba/) and Stella Treas (Chief of Staff)
+- The team member will tag a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), the [E-Group Members EBA](https://about.gitlab.com/handbook/eba/) and Stella Treas (Chief of Staff to the CEO)
 - The E-Group member will review the request, the E-Group member can suggest an alternative member including a direct report to host the AMA or may reject the AMA based on the information provided in the issue.
 - If accepted the E-Group EBA will work with the E-Group member or direct report to find a time and date that is sutiable.
 - The team member will work the EBA to ensure an agenda and facilitator are in place. 
