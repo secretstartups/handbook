@@ -22,7 +22,6 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 2. Drive conversion optimization throughout the funnel to increase asset downloads 
 3. Free trials driven by the campaign page
 
-
 ### Campaign Visual
 {: #campaign-visual}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -119,12 +118,12 @@ Always On Lead Generation:
 | **Headline** | Automate and collaborate with GitLab CI/CD |
 | **Statement** | GitLab's complete DevOps platform with built-in CI/CD helps DevOps teams build, test, and deploy from a single application. |
 | **Key Messages** | 1. Eliminate siloes: A complicated toolchain isolates teams and tools, creating bottlenecks in the development lifecycle. GitLab brings dev, sec, and ops together in one interface.|
-||2. Greater visibility: With full visibility across the entire SDLC, teams can solve problems faster with fewer roadblocks.|
-|| 3. Increased efficiency: Instead of managing a brittle plugin environment or maintaining multiple tools, teams can focus on more productive tasks.|
-|| 4. Industry-leading CI/CD: Teams don't have to sacrifice functionality for convenience. GitLab's CI/CD offers everything teams need for cloud native application development and was voted #1 CI by the Forrester Wave. |
+| |2. Greater visibility: With full visibility across the entire SDLC, teams can solve problems faster with fewer roadblocks.|
+| | 3. Increased efficiency: Instead of managing a brittle plugin environment or maintaining multiple tools, teams can focus on more productive tasks.|
+| | 4. Industry-leading CI/CD: Teams don't have to sacrifice functionality for convenience. GitLab's CI/CD offers everything teams need for cloud native application development and was voted #1 CI by the Forrester Wave. |
 | **Topics** | 1. Continuous integration|
-||2. Continuous delivery|
-||3. Cloud native |
+| |2. Continuous delivery|
+| |3. Cloud native |
 | **Top-level Keywords**  | `continuous integration`, `ci`, `ci cd pipeline`, `ci process`, `ci tools`, `yaml`, `DevOps` |
 
 #### Enterprise Segment
@@ -136,13 +135,13 @@ Always On Lead Generation:
 | **Headline** | Build it, test it, deploy it seamlessly under one roof |
 | **Statement** | GitLab's leading CI/CD delivered as a single application means you spend less time switching between tools and tabs and more time working on value that ends up in the hands of your customers . |
 | **Key Messages** | 1. Secure CI that just works: Automate everything from start to finish with confidence that GitLab will keep your pipeline secure from end-to-end.|
-||2. A better developer experience: GitLab knows that happier developers creates higher throughput and better retention. Improve the developer experience with a single application and avoid context switching, deployment delays, and too much downtime.|
-||3. No forced tradeoffs between speed, quality, and ease of use: Don't sacrifice quality for speed. GitLab understands that mimimal viabile changes create faster, superior deliverables in a single, convenient platform. |
+| |2. A better developer experience: GitLab knows that happier developers creates higher throughput and better retention. Improve the developer experience with a single application and avoid context switching, deployment delays, and too much downtime.|
+| |3. No forced tradeoffs between speed, quality, and ease of use: Don't sacrifice quality for speed. GitLab understands that mimimal viabile changes create faster, superior deliverables in a single, convenient platform. |
 | **Topics** | 1. Continuous integration |
-||2. Continuous delivery|
-||3. DevSecOps|
-||4. CI/CD|
-||5. DevOps|
+| |2. Continuous delivery|
+| |3. DevSecOps|
+| |4. CI/CD|
+| |5. DevOps|
 | **Top-level Keywords**  | `CI`, `continuous integration`, `CI pipelines`, `CI/CD pipelines`, `CD`, `continuous delivery`, `DevSecOps`, `DevOps` |
 
 ## Buyer Journeys, Content & Emails
@@ -182,16 +181,14 @@ Always On Lead Generation:
 {: #outreach-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-#### :large_blue_circle: MASTER|Inbound sequence for each region
-{: #outreach-emails-inbound}
-<!-- DO NOT CHANGE THIS ANCHOR -->
+#### MASTER|Inbound sequence for each region
+
 * [NORAM](https://app1a.outreach.io/sequences/5262)
 * [EMEA](https://app1a.outreach.io/sequences/5393)
 * [APAC](https://app1a.outreach.io/sequences/5394)
 
-#### :black_circle: MASTER|Outbound sequence for each region
-{: #outreach-emails-outbound}
-<!-- DO NOT CHANGE THIS ANCHOR -->
+#### MASTER|Outbound sequence for each region
+
 * [NORAM](https://app1a.outreach.io/sequences/5381)
 * [EMEA](https://app1a.outreach.io/sequences/5395)
 * [APAC](https://app1a.outreach.io/sequences/5396)
