@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/real-time/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | March 12, 2020 |
-| Target End Date | August 31, 2020 |
+| Date Closed     | November 1, 2021 |
 | Slack           | [#wg_real-time](https://app.slack.com/client/T02592416/CUX9Z2N66) (only accessible from within the company) |
 | Google Doc      | [Real-Time Working Group Agenda](https://docs.google.com/document/d/1eqwiGKifpnE4XTog0dB4Lgb-Bx0cc8g8OejmWDoZabs/edit#) (only accessible from within the company) |
 | Epic & Design Doc | [Use ActionCable for real-time features](https://gitlab.com/groups/gitlab-org/-/epics/3056)             |
@@ -48,7 +48,7 @@ To ship one real-time feature to self-hosted customers.
 
 (✅ Done, ✏️ In-progress)
 
-##### [One Working Real-Time Feature, Usable on larger deployments](https://gitlab.com/gitlab-org/gitlab/issues/17589) `=> 86%`
+##### [One Working Real-Time Feature, Usable on larger deployments](https://gitlab.com/gitlab-org/gitlab/issues/17589) `=> 100%`
 
 - Omnibus includes ability to start standalone Action Cable Puma Server with config/cable.yml ✅
 - GDK allows configuration of standalone Action Cable and starts Puma server ✅
@@ -56,9 +56,9 @@ To ship one real-time feature to self-hosted customers.
 - [Establish reference architectures for supporting WebSocket connections at scale](https://gitlab.com/gitlab-org/quality/performance/-/issues/256#note_348137517) ✅
 - [Helm charts allow configuration of embedded Action Cable in `webservice` service](https://gitlab.com/gitlab-org/charts/gitlab/-/issues/2286) ✅
 - [QA work complete to test initial feature](https://gitlab.com/gitlab-org/quality/testcases/-/issues/1048) ✅
-- Feature flag defaulted to on, with suitable fallback
+- [Feature flag defaulted to on, with suitable fallback](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/71953) ✅
 
-##### [Working, Real-Time Feature Available on .com](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/228) `=> 89%`
+##### [Working, Real-Time Feature Available on .com](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/228) `=> 100%`
 
 - [Containerization of Real-Time Feature including Action Cable and Puma](https://gitlab.com/gitlab-org/gitlab/-/issues/213861) ✅
 - [Update of Helm charts allowing use of multiple Redis instances](https://gitlab.com/gitlab-org/charts/gitlab/-/merge_requests/1287) ✅
@@ -68,7 +68,7 @@ To ship one real-time feature to self-hosted customers.
 - [Action Cable requests served by Kubernetes pods on Canary](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/228#note_413686741) ✅
 - [Readiness-review complete to ensure observabilty & contain risk](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/355#note_455583247) ✅
 - [Action Cable requests served by Kubernetes pods on Production](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/228#note_413686741) ✅
-- [Default to embedded Action Cable enabled](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1210)
+- [Default to embedded Action Cable enabled](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1210) ✅
 
 ## Design Document
 

@@ -101,14 +101,11 @@ An end-to-end test for real-time assignees was added in [this MR](https://gitlab
 
 ### How to implement it on premise
 
-Instance administrators have a number of options for using Action Cable. Admins of single-instance and small cluster deployments may choose to simply serve WebSocket connections from existing nodes. By [enabling Action Cable](https://docs.gitlab.com/omnibus/settings/actioncable.html) the first feature will be immediately available.
+Instance administrators have a number of options for using Action Cable. The simplest way is to serve WebSocket connections from existing nodes, and this is enabled by default since [14.5](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/71953).
 
-Administrators of larger deployments may wish to proxy WebSocket connections to a separate set of nodes to protect their main Web nodes from saturation. This can be done in one of two ways:
+While extensive testing and experience supporting WebSockets at scale on large deployments internally indicate [this is probably not necessary](https://gitlab.com/gitlab-org/quality/performance/-/issues/256), administrators of larger deployments may wish to proxy WebSocket connections to a separate set of nodes to protect their main Web nodes from saturation. This can be done by splitting WebSocket traffic at the load balancer or ingress stage, typically based on path. This is the method used for gitlab.com.
 
-1. Use the `cableBackend` option to specify a separate address, this defaults to `authBackend`;
-1. Implement traffic splitting manually at the load balancer or ingress stage, typically based on path. This is the option used for gitlab.com.
-
-In both cases only embedded mode is supported for Action Cable. In the latter case the separate nodes are running full GitLab Web processes additionally running Action Cable. See the decision to support only embedded mode [here](https://gitlab.com/gitlab-org/gitlab/-/issues/214061).
+Only embedded mode is supported for Action Cable. Even when splitting traffic, all nodes are running full GitLab Web processes with Action Cable enabled. See the decision to support only embedded mode [here](https://gitlab.com/gitlab-org/gitlab/-/issues/214061).
 
 It's important to note that Action Cable channels (similar to controllers) can do anything that can be done in the web context; such as using models or reading from the cache, so it is important that these processes are treated like existing web processes. They should have the same configuration and should be able to connect to the DB, Redis cache, shared state, sidekiq, etc. Although we probably would just be doing permission checks in the initial implementation, it could be a source of weird bugs in the future if these dependencies aren't setup properly.
 
@@ -118,9 +115,7 @@ It's important to note that Action Cable channels (similar to controllers) can d
 1. WebSocket traffic is [split by path](https://gitlab.com/gitlab-org/charts/gitlab/-/issues/2334) to a separate, independently scalable deployment; and
 1. Pods servicing WebSocket connections run ordinary `webservice` processes with Action Cable enabled.
 
-Since the nodes serving Web requests do not have Action Cable enabled on gitlab.com, the feature can be controlled using the feature flags `:real_time_issue_sidebar` and `:broadcast_issue_updates`. These will be used to roll-out the first feature in a controlled way. 
-
-Note: The feature has been trialled on gitlab.com already using the `ACTION_CABLE_IN_APP` environment variable (via the `extraEnv` section exposed by our Helm charts) to proxy WebSocket requests to a dedicated set of pods. This coincided with elevated memory consumption on our Workhorse nodes and was subsequently rolled-back.
+Initially, nodes serving Web requests did not have Action Cable enabled on gitlab.com. The feature had to be controlled using the feature flags `:real_time_issue_sidebar` and `:broadcast_issue_updates` and these were used to roll-out in a controlled way. This setup was simplified so that nodes have Action Cable enabled, regardless of whether they serve WebSocket requests or Web requests. This allows the nodes serving Web requests to know that Action Cable is available without relying on a feature flag.
 
 ### Monitoring
 
@@ -160,5 +155,9 @@ Action Cable was the first choice because it is included with Rails. Scalability
 
 ### Documentation
 
-
+* [Omnibus settings](https://docs.gitlab.com/omnibus/settings/actioncable.html)
+* [Real-time issue sidebar user documentation](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#real-time-sidebar)
+* [Developer Documentation](https://docs.gitlab.com/ee/development/real_time.html)
+* [Performance testing](https://gitlab.com/gitlab-org/quality/performance/-/issues/256)
+* [Readiness review for GitLab.com](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/355)
 

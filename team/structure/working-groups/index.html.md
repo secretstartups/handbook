@@ -165,6 +165,7 @@ If you are interested in participating in an active working group, it is general
 * [Product Analytics](/company/team/structure/working-groups/product-analytics/)
 * [Product Development Flow](/company/team/structure/working-groups/product-development-flow/)
 * [Product Engagement Actions (FY21)](/company/team/structure/working-groups/FY21-product-engagement-actions/)
+* [Real-Time](/company/team/structure/working-groups/real-time/)
 * [Secure Offline Environment Working Group](/company/team/structure/working-groups/secure-offline-environment/)
 * [Self-Managed Scalability](/company/team/structure/working-groups/self-managed-scalability/)
 * [Sharding](/company/team/structure/working-groups/sharding/)
