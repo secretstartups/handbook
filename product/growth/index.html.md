@@ -146,6 +146,7 @@ We follow the [Product Designer workflows](/handbook/engineering/ux/product-desi
     - [by group](https://gitlab.com/groups/gitlab-org/-/boards/1334665?&label_name%5B%5D=UX&label_name%5B%5D=devops%3A%3Agrowth)
     - [by workflow](https://gitlab.com/groups/gitlab-org/-/boards/1346572)
 - we **label** our issues with `UX`, `devops::growth` and `group::`.
+- we will label experiments with `UX problem validation` and `UX solution validation` according to the [UX Research Workflow](/handbook/engineering/ux/ux-department-workflow/#how-we-use-labels) definitions to indicate the type of learning the experiment achieves. The purpose of these labels is to track [this UX KPI](/handbook/engineering/ux/performance-indicators/#ux-research-velocity) related to research velocity.
 - we use the [workflow labels](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=workflow%3A%3A) for regular issues and [experiment workflow labels](/handbook/engineering/development/growth/#experiment-workflow-labels) for experiment issues.
 - we use **milestones** to aid in planning and prioritizing the four growth groups of Acquisition, Conversion, Expansion and Retention.
     - PMs provide an [ICE score for experiments](https://docs.google.com/spreadsheets/d/1yvLW0qM0FpvcBzvtnyFrH6O5kAlV1TEFn0TB8KM-Y1s/edit#gid=0) and by using [priority labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels) for other issues.
