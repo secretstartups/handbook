@@ -21,7 +21,7 @@ Everyone at GitLab needs to know how to use GitLab and be technical to some leve
 
 ### Prerequsites
 
-[GitLab 101 Tool Certification](/handbook/people-group/learning-and-development/certifications/gitlab-101/)
+[GitLab 101 Tool Certification](/handbook/people-group/learning-and-development/gitlab-101/)
 
 ### What do you need to get started?
 To get started with the GitLab 201 Tool Certification, you will need:
@@ -127,7 +127,7 @@ Please complete the Lesson 1 assessment in [GitLab Learn](https://gitlab.edcast.
 
 ## Lesson 2: Merge Requests
 
-In GitLab 101, we learned how to [create merge requests](/handbook/people-group/learning-and-development/certifications/gitlab-101/#lesson-3-gitlab-merge-requests). In this lesson, we will dive deeper into merge requests.
+In GitLab 101, we learned how to [create merge requests](/handbook/people-group/learning-and-development/gitlab-101/#lesson-3-gitlab-merge-requests). In this lesson, we will dive deeper into merge requests.
 
 ### Reviewing a merge request
 
