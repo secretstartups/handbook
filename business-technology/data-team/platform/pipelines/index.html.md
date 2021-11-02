@@ -416,19 +416,18 @@ Below are steps followed for working on outbound/inbound shares via snowflake da
 For example database named `prod` with a schema named `share` and a table named `gitlab_user_outbound`is shared with consumer account `azitest`. Run below SQL's
 to create outbound share.
 * Step 1: Create a Share using role accountadmin.
-    `USE ROLE accountadmin;'
+    `USE ROLE accountadmin;`
     `CREATE SHARE share_test;`
 * Step 2: Add database, schema and table to the Share by Granting Privileges.
     `GRANT USAGE ON DATABASE prod TO SHARE share_test;`
     `GRANT USAGE ON SCHEMA prod.share TO SHARE share_test;`
-    `GRANT SELECT ON TABLE prod.share.gitlab_user_outbound TO SHARE share_test;'
+    `GRANT SELECT ON TABLE prod.share.gitlab_user_outbound TO SHARE share_test;`
 * Step 3: Add consumer account to the Share.
 In order to add account to the share, consumer need to provide their account details and both consumer and provider accounts should be in the same snowflake region.
     `ALTER SHARE share_test ADD ACCOUNTS =‘azitest';`
 
 ##### Inbound share using SQL.
 For example share named `gitlab` is shared to us from account `azitest`, run below SQL to create database in snowflake and to access the tables and data in inbound share.
-
     `CREATE DATABASE zoominfo_inbound FROM SHARE azitest.gitlab;`
 
 #### Snowflake Data Share using snowflake web interface. 
