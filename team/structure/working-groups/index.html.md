@@ -17,7 +17,7 @@ Like all groups at GitLab, a [working group](https://en.wikipedia.org/wiki/Worki
 
 ### CEO Handbook Learning Discussion on Working Groups
 
-GitLab's CEO, Sid, and Chief of Staff, Stella, and the Learning & Development team discuss Working Groups in detail during a [CEO handbook learning session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions).
+GitLab's CEO, Sid, and Chief of Staff to the CEO, Stella, and the Learning & Development team discuss Working Groups in detail during a [CEO handbook learning session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions).
 
 Topics covered include:
 1. What is a working group
