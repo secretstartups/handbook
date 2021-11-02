@@ -107,9 +107,10 @@ Per the [Family Care Leave Act and the Care Leave Act](https://www.bundesgesundh
 - Team members who need time to organize or ensure the care of a close relative in need of care in an acute care situation can take partial paid leave for up to ten days; 
 - Team members who care for a close relative or a close relative at home can also, under certain conditions, take full or partial leave of work for up to six months;
 - Team members who accompany a close relative in the last phase of life can claim full or partial leave from work for up to three months;
-- Team members who care for a close relative in need of care in a home environment are entitled to family care leave, i.e. to a partial leave of absence to  for a period of up to 24 months. If the relative is underage, there is an entitlement to leave even if care takes place outside the home environment. 
+- Team members who care for a close relative in need of care in a home environment are entitled to family care leave, i.e. to a partial leave of absence for one continuous period of up to 24 months with a minimum of 15 working hours per week;
+- If the relative is underage, there is an entitlement to leave even if care takes place outside the home environment. 
 
-Please communicate with total-rewards@gitlab.com to ensure your eligibility and awareness of your proposed leave. 
+This leave runs concurrently with GitLab PTO. When partial paid leave is claimed, GitLab will supplement the team member's benefit so that they receive 100% of their pay for the first 25 days of leave. Please communicate with [Total Rewards](mailto: total-rewards@gitlab.com) to ensure your eligibility and awareness of your proposed leave. 
 
 ## Sick Leave
 
