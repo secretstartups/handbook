@@ -19,12 +19,34 @@ twitter_creator: '@gitlab'
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### Responsibilities
-{: #goals}
+{: #responsibilities}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+
+#### Marketing Campaigns
+{: #responsibilities-campaigns}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+[Marketing Campaign Managers](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/) strategize, execute, and optimize data-driven demand generation campaign strategies to achieve sales goals for an assigned geographic or firmographic defined market segment.
+
+They are responsible for developing and deploying integrated marketing campaigns, including crafting strategy, aligning internal teams, developing audience segments, building email nurtures, owning top funnel virtual events, and measuring results.
+
+The Campaigns Team is highly collaborative, working closely with marketers across our team and the company, to deliver pipeline aligned to sales goals.
+
+[Read the job family here >>](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/)
+
+#### Lifecycle Marketing
+{: #responsibilities-lifecycle}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+[Lifecycle Marketing](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing) is also a specialization within the Marketing Campaigns team. The lifecycle marketing manager is responsible for strategizing, executing, and optimizing a data-driven user lifecycle communications strategy.
+
+This role works closely with the Product Growth and Data team, among others, to collaborate, plan, and prioritize communication to better engage GitLab users and progress them through the buyer and customer lifecycle. The lifecycle marketing manager will focus on user paths to revenue, including engaging free .com users, trial users, and paid users of GitLab.
+
+[Read the job family here >>](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing)
 
 ### Goals
 {: #goals}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+
+The goals for new first-order MQLs and SAOs are derived from workbacks of sales pipeline projections. These differ by segment and geo, and can be discussed internally.
 
 ### Demand Generation Key Metrics
 {: #key-metrics}
@@ -35,59 +57,68 @@ twitter_creator: '@gitlab'
 - **Business Impact Metric:** CWA/Spend (closed-won attribution)
 - **Supporting/Activity Metrics:** SAOs, Attributed Pipeline, Emails Sent
 
-### MQL Targets
-{: #mql-targets}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-To be determined
-
 ### OKRs
 {: #okrs}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 **OKRs = Objective + Key Result**
 
-**[Overall OKRs Epic](https://gitlab.com/groups/gitlab-com/-/epics/1285)**
+<details>
+<summary markdown='span'>
+FY22-Q3
+</summary>
 
+- **To Be Added**
+
+</details>
+
+<details>
+<summary markdown='span'>
+FY22-Q2
+</summary>
+
+- **To Be Added**
+
+</details>
+
+<details>
+<summary markdown='span'>
+FY22-Q1
+</summary>
+
+- **[Overall OKRs Epic FY22-Q1](https://gitlab.com/groups/gitlab-com/-/epics/1285)**
 - **Objective:** [Implement simplified GTM motion and interlock process to increase collaboration](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1831)
-- **Key Results:**
-    - [Aligned FMM, ABM, Demand Gen & Corporate Marketing to GTM motions completed by end of Feb](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/747) - @jgragnola
-    - [Deprecate previous use cases, campaigns, buyer’s journeys for one SSOT on GTM motions](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2459) - @jgragnola
+    - **Key Results:**
+        - [Aligned FMM, ABM, Demand Gen & Corporate Marketing to GTM motions completed by end of Feb](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/747) - @jgragnola
+        - [Deprecate previous use cases, campaigns, buyer’s journeys for one SSOT on GTM motions](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2459) - @jgragnola
 - **Objective:** [Launch GitLab SaaS email nurtures and marketing to Free users](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1832)
-- **Key Results:**
-    - [Triggered emails launched to Free.com users](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/748) - @nbsmith
-    - [3 emails sent to every non opted-out Free.com user by end of Q](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/749) - @nbsmith
-    - [500 MQLs attributed to Free.com user emails](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/750) - @nbsmith
+    - **Key Results:**
+        - [Triggered emails launched to Free.com users](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/748) - @nbsmith
+        - [3 emails sent to every non opted-out Free.com user by end of Q](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/749) - @nbsmith
+        - [500 MQLs attributed to Free.com user emails](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/750) - @nbsmith
 
-### FY21-22 First Principles
-{: #first-principles}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-1. **Find new accounts** to add to the target pool (paid demand gen)
-1. **Offer compelling ungated content journeys** that drive to proven web CTAs
-1. **Appropriately nurture our database** (of inbound inquiries, free .com users, core users, customers)
+</details>
 
 ## Team Structure
 {: #team-structure .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The Campaigns Team is aligned to sales segments with a geo breakout. Our number one focus is driving outbound MQLs, while collaborating across marketing (working closely with field marketing, sales, and SDRs in region) to develop strategies contributing to SAOs and closed won revenue against target accounts.
+The Campaigns Team is aligned to sales segments with a geo breakout. Our number one focus is driving MQLs (Marketing Qualified Leads) and SAOs (Sales Accepted Opportunities) in collaboration with marketing, SDRs, and Sales.
 
-- **Large**
+- **ENTERPRISE**
     - North America: Agnes Oetama
     - South America, APAC, Public Sector: Jenny Tiemann
     - EMEA: Eirini Pan
-- **Commercial (Mid-Market and SMB)**
-    - Americas: Zac Badgley
+- **COMMERCIAL (Mid-Market and SMB)**
+    - Americas: To be hired
     - EMEA/APAC: Indre Kryzeviciene
-- **Email Marketing**
-    - Global & Lifecycle: Nout Boctor-Smith
+- **Lifecycle Marketing**: Luis Diego Dambrosio
 
 ### Meet the Team
 {: #meet-the-team}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Jackie Gragnola** _Manager, Marketing Campaigns_
+**Jackie Gragnola** _Senior Manager, Marketing Campaigns_
 
 - **Team Prioritization**: plan prioritization of campaigns, related content and webcasts, event support, and projects for the team
 - **Hiring**: organize rolling hiring plan to scale with organization growth
@@ -127,7 +158,7 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
   - Organize execution schedule, timeline, and DRIs for tactics aligned to top-funnel Large EMEA campaign plans, including email nurture, virtual events, digital ads, etc. aimed primarily at driving Inquiries + MQLs (with consideration of SAO attribution)
 - Support EMEA field marketing requests (focused on mid- and bottom-funnel tactics), primarily related to Marketo, SFDC, and Pathfactory
 
-**Indre Kryzeviciene** _Marketing Campaign Manager_
+**Indre Kryzeviciene** _Sr. Marketing Campaign Manager_
 
 - **Top-funnel campaigns for Commercial (Mid-Market and SMB) Segment, *EMEA and APAC***
   - Plan, organize, implement, and optimize top-funnel campaigns for commercial segment
@@ -314,17 +345,6 @@ The following issue templates are used by the campaigns team to organize their w
 - `/weight ` - add weight between 1-5, with 1 being easiest (between 1-4 hours of time) and 5 being most complext (a full week of work). The majority of issues should fall into 1-2. If estimation is weight of 3+, break into separate issues for more manageable pieces to fit into milestones. (example: `/weight 1`)
 - `/epic ` - add epic of the overarching campaign or project to keep things organized. In almost all cases, there is a larger initiative that the issue relates to, so it is best practice to associate issues to the most relevant epic for visibility. (example: `/epic [https://gitlab.com/groups/gitlab-com/marketing/-/epics/370](https://gitlab.com/groups/gitlab-com/marketing/-/epics/370)`)
 
-### Campaigns Team Intake Process
-{: #intake-process}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-Beginning Q3 FY21, the demand gen campaigns team will begin an issue intake process to evaluate comprehensive details of request and assign based on milestone bandwidth and priorities. Requests may be submitted using the correct issue templates.
-
-Issues will be triaged as demonstrated in the diagram below. Please note: All required details in a given issue template must be completed in order for the SLA timeline to begin.
-
-<div style="width: 600px;" class="embed-thumb"> <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab2474/murals/gitlab2474.1598468466093-5f46b1720e54f644475491fc-61c7931a-18e2-4a73-90dd-eafcb724b939.png?v=27e40478-1cf5-43f3-8970-f6d66232a7d1) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1598468466093/3fecfe10c92a0e8b26403fe8e44305c6049185e4" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div> <p style="margin-top: 10px;margin-bottom: 60px;line-height: 24px; font-size: 16px;font-family: Proxima Nova, sans-serif;font-weight: 400; color: #888888;"> You will enter this mural in View Only mode. </p></div>
-
-
 #### Intake process daily/weekly steps
 {: #intake-steps}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -362,20 +382,15 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 
 **FY22 Marketing Milestones:**
 
-
-- [Mktg: 2021-05-09](https://gitlab.com/groups/gitlab-com/-/milestones/401)
-- [Mktg: 2021-05-23](https://gitlab.com/groups/gitlab-com/-/milestones/402)
-- [Mktg: 2021-06-06](https://gitlab.com/groups/gitlab-com/-/milestones/403)
-- [Mktg: 2021-06-20](https://gitlab.com/groups/gitlab-com/-/milestones/404)
-- [Mktg: 2021-07-04](https://gitlab.com/groups/gitlab-com/-/milestones/406)
-- [Mktg: 2021-07-18](https://gitlab.com/groups/gitlab-com/-/milestones/405)
-- [Mktg: 2021-08-01](https://gitlab.com/groups/gitlab-com/-/milestones/516)
-- [Mktg: 2021-08-15](https://gitlab.com/groups/gitlab-com/-/milestones/517)
-- [Mktg: 2021-08-29](https://gitlab.com/groups/gitlab-com/-/milestones/518)
-- [Mktg: 2021-09-12](https://gitlab.com/groups/gitlab-com/-/milestones/519)
-- [Mktg: 2021-09-26](https://gitlab.com/groups/gitlab-com/-/milestones/520)
 - [Mktg: 2021-10-10](https://gitlab.com/groups/gitlab-com/-/milestones/521)
 - [Mktg: 2021-10-24](https://gitlab.com/groups/gitlab-com/-/milestones/522)
+- [Mktg: 2021-11-07](https://gitlab.com/groups/gitlab-com/-/milestones/595)
+- [Mktg: 2021-11-21](https://gitlab.com/groups/gitlab-com/-/milestones/596)
+- [Mktg: 2021-12-05](https://gitlab.com/groups/gitlab-com/-/milestones/597)
+- [Mktg: 2021-12-19](https://gitlab.com/groups/gitlab-com/-/milestones/598)
+- [Mktg: 2022-01-02](https://gitlab.com/groups/gitlab-com/-/milestones/599)
+- [Mktg: 2022-01-16](https://gitlab.com/groups/gitlab-com/-/milestones/574)
+- [Mktg: 2022-01-30](https://gitlab.com/groups/gitlab-com/-/milestones/575)
 
 **Campaigns Team Backlog Milestones:**
 
@@ -404,26 +419,18 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 - [Indre Kryzeviciene](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=ikryzeviciene)
 - [Jackie Gragnola](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=jgragnola)
 - [Jenny Tiemann](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=jennyt)
-- [Zac Badgley](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=zbadgley)
+- [Luis Deigo Dambrosio](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=dambrold)
 
 **All Team Members by Milestone (Current Quarter)**
 
-- [Mktg: 2020-08-30](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202020-08-30)
-- [Mktg: 2020-09-13](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202020-09-13)
-- [Mktg: 2020-09-27](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202020-09-27)
-- [Mktg: 2020-10-11](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202020-10-11)
-- [Mktg: 2020-10-25](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202020-10-25)
+- [Mktg: 2021-11-07](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202021-11-07)
+- [Mktg: 2021-11-21](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202021-11-21)
+- [Mktg: 2021-12-05](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202021-11-07)
+- [Mktg: 2021-12-19](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202021-11-21)
 
 #### Lists
 {: #lists}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-
-**In marketing programs project (to be sunsetted upon move to campaigns project):**
-
-- [Issues in triage status (MPM)](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=mktg-status%3A%3Atriage)
-- [Issues in blocked status (MPM)](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=mktg-status%3A%3Ablocked)
-- [Issues in ready-to-build status (MPM)](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=mktg-status%3A%3Aready-to-build)
-- [Issues in plan status (MPM)](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=mktg-status%3A%3Aplan)
 
 **In campaigns project (transition of new requests to new project):**
 
