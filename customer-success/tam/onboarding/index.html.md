@@ -39,7 +39,7 @@ Digital programs will automate the Intro to GitLab CS (what a TAM does) and onbo
 - Email 4: Onboarding Email - Monitor gitlab, API and rate limits
 - Email 5: Onboarding Email - Additional training and support
 
-Review email copy [here](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) (interal only)
+Review email copy [here](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) (internal only)
 
 ### Kickoff call
 
