@@ -402,22 +402,23 @@ From this list if any table get the data and we need to add the entry to snowfla
 Zuora have provided view definition for the derived view. As extracting data from the derived view is not feasible in production. Hence for table BI3_WF_SUMM we prepare the data in the DBT model in PREP layer with the DDL provided from Zuora. The DDL definition is present in extract/zuora_revenue/README.md in repo. 
 
 ## Zoominfo
-ZoomInfo is a go-to-market intelligence platform for B2B sales and marketing teams. The integrated cloud-based platform provides sellers and marketers with comprehensive information to help them find potential new customers. In order to ge these kind of enrich data, Gitlab needs to send data as outbound towards Zoominfo and after processing GitLab will receive processed data as an inbound table via Snowflake data share from zoominfo.
+ZoomInfo is a go-to-market intelligence platform for B2B sales and marketing teams. The integrated cloud-based platform provides sellers and marketers with comprehensive information to help them find potential new customers. In order to get these kind of enrich data, Gitlab needs to send data as outbound towards Zoominfo and after processing GitLab will receive processed data as an inbound table via Snowflake data share from zoominfo.
 
-#### Snowflake Data share.
+The Zoominfo data pipeline is an automated bi-directional data pipeline, that leverage Snowflake data share methodology.
+
+### Snowflake Data share.
 [Snowflake data share] (https://docs.snowflake.com/en/user-guide/data-sharing-intro.html) enables sharing of snowflake database tables from one account and also allow to access to data shared from external accounts. This involves creating an outbound share of a database in their account and grant access to the snowflake table that needs to be shared to an external account using either web interface/SQL using ACCOUNTADMIN role. Both the accounts should be in the same region to add the customer to outbound share.
 
-#### Outbound table.
-* `"PROD"."SHARE"."GITLAB_USER_OUTBOUND" - Outbound table has Gitlab user information such as First name, Last name, email address and company name. Outbound table is shared only once to Zoominfo via Snowflake data share..
-
-#### Loading Inbound tables.  
-Zoominfo sends inbound files to Gitlab via Snowflake data share. Shared database ZOOMINFO_INBOUND is created from inbound share using either the web interface or SQL. Data from inbound tables in ZOOMINFO_INBOUND is ingested into snowflake ​​using Snowflake Data Exchange loader. Below list of inbound tables are created in PREP database under 'zoominfo' schema.
-
-* `"ZI_COMP_WITH_LINKAGES_GLOBAL"` -  International table has a list of all the companies they have information about. This is a one time share.
-* `"ZI_REFERENCE_TECHS"` - Technograph table that has a list of technologies used by companies in their database.This is a one time share.
-* `"GITLAB_CONTACT_ENHANCE"` - User table company matched table which appends company information to the user list Gitlab sends to zoominfo. Gitlab sends Zoominfo only once but the appended data can be refreshed quarterly.
-
-
+### Architecture
 
 ![image.png](./image.png)
 
+#### Outbound table.
+* `"PROD"."SHARE"."GITLAB_USER_OUTBOUND"` - Outbound table has Gitlab user information such as First name, Last name, email address and company name. Outbound table is shared only once to Zoominfo via Snowflake data share. The table is prepared via `dbt` so it will change over time. Its up to Zoominfo to ingest newly and updated data in this table.
+
+#### Loading Inbound tables.  
+Zoominfo sends inbound files to Gitlab via Snowflake data share. Shared database ZOOMINFO_INBOUND is created from inbound share using either the web interface or SQL. The inbound tables don't follow the standard architecture, where we ingest data in our raw layer and where `dbt` picks the data up for transformation. We handle the shared database as the `raw` database to avoid creating extra processes and make the pipeline more efficient. Data from inbound tables in ZOOMINFO_INBOUND is ingested into snowflake `prep` ​​using Snowflake Data Exchange loader. Below list of inbound tables are created in PREP database under 'zoominfo' schema.
+
+* `"ZI_COMP_WITH_LINKAGES_GLOBAL"` -  International table has a list of all the companies they have information about. This is a one time share.
+* `"ZI_REFERENCE_TECHS"` - Technograph table that has a list of technologies used by companies in their database.This is a one time share.
+* `"GITLAB_CONTACT_ENHANCE"` - User table company matched table which appends company information to the user list Gitlab sends to zoominfo. Gitlab sends Zoominfo only once but the appended data can be refreshed quarterly. 
