@@ -19,7 +19,8 @@ canonical_path: "/company/team/structure/working-groups/mlops/"
 | Target End Date | - |
 | Slack           | #wg_mlops (only accessible from within the company) |
 | Google Doc      | [MLOPs Working Group Agenda](https://docs.google.com/document/d/18iOB05cFxS5to1eT55GwsENirBfVSjHCQJ2ostoY3cw/edit?usp=sharing) (only accessible from within the company) |
-| Issue Label | ~WorkingGroup::MLOps  |
+| Board           | [gitlab-org board](https://gitlab.com/groups/gitlab-org/-/boards/3264088?label_name[]=WorkingGroup%3A%3AMLOps) |
+| Issue Label     | ~WorkingGroup::MLOps  |
 
 ## Goals
 
@@ -97,4 +98,5 @@ The charter of this working group is to bridge the gap between different teams t
 | Member                | Charl De Wit            | Security Manager, Trust & Safety |
 | Member                | Wayne Haber         | Engineering director |
 | Member                | Bartek Marnane         | VP, Incubation Engineering |
+| Member                | Marshall Cottrell      | Strategy and Operations (Technical) Staff |
 
