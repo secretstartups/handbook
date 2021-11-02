@@ -42,18 +42,18 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * A calendar key is available for viewing in the CFO's daily schedule.
 
 
-## Scheduling for Stella Treas, Chief of Staff
+## Scheduling for Stella Treas, Chief of Staff to the CEO
 
 * All meeting requests should go through Katrina Allen
-* Priority given to candidate interviews, CEO, E-Group, GitLab BoD, and direct reports to the CoS
+* Priority given to candidate interviews, CEO, E-Group, GitLab BoD, and direct reports to the CoS to the CEO
 * Limited availability due to personal commitments from 7-9am PT Mon.-Fri. due personal commitments during the California shelter in place order (related to Covid-19). Can often make meetings during these blocks, if given advance notice, but strong preference for meeting outside of these times
 * If meetings need to happen before 9am PT or after 5pm PT check with EBA
-* Do not schedule over DNB (Do Not Book) without reaching out for approval from CoS’s EBA
-* For meetings outside of set business hours contact the CoS’s EBA
+* Do not schedule over DNB (Do Not Book) without reaching out for approval from CoS to the CEO’s EBA
+* For meetings outside of set business hours contact the CoS to the CEO’s EBA
 * During Zoom meetings please do not post information in the chat, add it to the meeting doc or in slack
 * EBA to add reminders at 1 month, 2 weeks, 1 week and 2 days on the calendar for the following events: OKR How to Achieve, Group Conversations and Board of Director meetings
 * All meeting requests should include an agenda or some sort of reference material
-* A calendar key is available for viewing in the CoS's daily schedule
+* A calendar key is available for viewing in the CoS to the CEO's daily schedule
 
 
 ## Scheduling for Eric Johnson, VP of Engineering

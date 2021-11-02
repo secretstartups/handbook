@@ -10,7 +10,7 @@ title: "CEO Scheduling & Preferences"
 {:toc .hidden-md .hidden-lg}
 
 ## The CEO Support Team 
-1. **[Stella Treas](https://about.gitlab.com/company/team/#streas) - Chief of Staff**
+1. **[Stella Treas](https://about.gitlab.com/company/team/#streas) - Chief of Staff to the CEO**
     1. Cross-functional and multi-functional projects
 1. **[Cheri Holmes](https://about.gitlab.com/company/team/#cheriholmes) - Staff Executive Business Administrator** 
     1. Board Meetings 
@@ -18,7 +18,7 @@ title: "CEO Scheduling & Preferences"
     1. CEO e-mail management 
     1. Preparing agendas and content for CEO's meetings 
     1. Triage #ceo slack channel
-    1. Assists CoS with company-wide OKRs as required
+    1. Assists CoS to the CEO with company-wide OKRs as required
     1. Coordinates the quarterly E-Group offsite and other social/team bonding events for the Executive team 
     1. Schedules internal and external meetings with CEO
     1. Triage meeting requests in #eba-team 
@@ -116,7 +116,7 @@ The initial content review for the CEO should be in bullet points only.
 Then the CEO can talk through the slides and a team member can capture the CEO's tone of voice as he talks through the talk.
 This helps ensure the talk track is in the CEO's voice.
 
-The Chief of Staff is responsible for making sure that all of the CEO's Evangelism engagements are on our events page by updating the [events.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/events.yml) file.
+The Chief of Staff to the CEO is responsible for making sure that all of the CEO's Evangelism engagements are on our events page by updating the [events.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/events.yml) file.
 
 ### Pick Your Brain meetings
 
