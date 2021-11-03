@@ -94,16 +94,14 @@ All of Salesforce current accounts in the database have been enriched with Zoomi
 ## SFDC Lead Enrichment
 The lead enrichment jobs currently running in Zoominfo prioritize the following leads: 
 
-1. Leads that are owned by the `SDR Queue` are scheduled to be enriched by Zoominfo weekly on Saturdays. Leads updated by ZoomInfo during this Scheduled Enrich job are reprocessed by LeanData and if possible, assigned to the appropriate SDR. 
+1. Leads that are not in Raw, Bad Data, Web Portal Purchase and Unqualified. - This is a weekly job which runs on Saturdays.
 
-2. Leads that either:
-- Had a Last Interesting Moment in the last 120 days;
-- Have No Phone # OR no Title OR no Email OR have free email AND are not in Raw status AND have not yet been enriched(based on `Zoominfo First Updated` field) ;
-- Large & MM leads based on `Employee bucket` field;
+2. Leads which were created in the last 7 Days; - This jobs runs daily to make sure no newly created leads miss enrichemnt. 
 
 All jobs are scheduled to be enriched over the weekend (on Saturdays). 
 
 ## SFDC Contact Enrichment
+
 Weekly enrichment in SFDC has been extended to all contacts as of 25th September 2021. 
 
 ## Campaign Member Enrichment (Leads & Contacts) 
