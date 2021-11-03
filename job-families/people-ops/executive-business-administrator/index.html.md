@@ -247,7 +247,7 @@ The Staff Executive Business Administrator is a [grade 8](/handbook/total-reward
 
 ## Career Ladder
 
-An Executive Business Administrators career path can take various routes depending on the long term career goals and aspirations of an EBA. One path that is routinely taken is that of a career EBA and is someone who is passionate about being in the EBA role for the long-term resulting in becoming a Senior, Staff, or Principal EBA at GitLab to a member of our E-Group. Another path that is open to an EBA is one where they decide to leverage their experience as an EBA to transition into a new role such as (but not limited to) a Chief of Staff to the CEO, Project Manager, Recruiter, Corporate Events Manager, Business Analyst, Executive Communications, PR, Internal Communications, People Operations Specialist, People Business Partner, etc.
+An Executive Business Administrators career path can take various routes depending on the long term career goals and aspirations of an EBA. One path that is routinely taken is that of a career EBA and is someone who is passionate about being in the EBA role for the long-term resulting in becoming a Senior, Staff, or Principal EBA at GitLab to a member of our E-Group. Another path that is open to an EBA is one where they decide to leverage their experience as an EBA to transition into a new role such as (but not limited to) a Chief of Staff, Project Manager, Recruiter, Corporate Events Manager, Business Analyst, Executive Communications, PR, Internal Communications, People Operations Specialist, People Business Partner, etc.
 
 ## Performance Indicator
 * [Leadership SAT Survey](https://about.gitlab.com/handbook/eba/#leadership-sat-survey)

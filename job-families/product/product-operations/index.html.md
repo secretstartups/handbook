@@ -70,7 +70,7 @@ As the Group Manager, Product Operations, you will be deeply passionate and know
 
 ### Team responsibility
 
-- Serve as "Chief of Staff to the CEO" for the Chief Product Officer, attending all key Product Management leadership meetings and helping to ensure execution of Product team decisions
+- Serve as "Chief of Staff" for the Chief Product Officer, attending all key Product Management leadership meetings and helping to ensure execution of Product team decisions
 - Help define, document, and ensure consistent execution of the GitLab product manager onboarding / product management / product development process
 - Manage a team of 2-4 product managers and/or product operations specialists
 - Lead the implementation and drive adoption of large scale process updates for the product team
