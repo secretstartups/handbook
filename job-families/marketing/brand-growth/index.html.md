@@ -5,36 +5,35 @@ title: "Brand Growth - Roles & Responsibilities"
 
 ## Levels
 
-### Manager, Brand Growth
+### Senior Brand Manager
 
-The Manager, Brand Growth reports to the Director, Brand.
+The senior brand manager reports to the Senior Director, Brand.
 
 #### Manager, Brand Growth Job Grade
 
-The Brand Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Brand Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Manager, Brand Growth Responsibilities
+#### Senior Brand Manager Responsibilities
 
 * Identify how our brand is currently positioned in the market and develop a reporting process to document the progress of our brand
-* Implement brand measurement systems so the value of our brand can be easily tracked
-* Oversee the brand message creation process, as well as make sure the copy on our web properties align with the message
-* Develop and execute marketing campaigns aimed at communicating our brand message
-* Educate and communicate our brand personality internally and align company around the message
-* Develop brand guidelines and communication programs so entities outside of GitLab, can easily understand how to use our brand
-* Brand management for international expansion, including production of brand guidelines in collaboration with the Brand team.
-* Measure and report on success of brand marketing campaigns
-* Oversee merchandise management
-* Provide support with brand team process establishment and documentation
-* Lead Brand Growth Content team
+* Implement brand measurement systems so the value of our brand can be easily tracked.
+* Oversee the brand message creation process, as well as make sure the copy on our web properties align with the message.
+* Develop and execute marketing campaigns aimed at communicating our brand message.
+* Work cross collaboratively to educate and communicate our brand personality internally and align company around the message.
+* Help evolve and maintain GitLab's brand positioning, how it’s articulated, how it is best deployed, across all marketing touchpoints.
+* Partner with brand design team to plan, manage, and implement a calendar of brand opportunities to bring the GitLab brand to life. 
+* Measure and report on success of brand marketing campaigns.
+* Oversee merchandise management.
+* Provide support with brand team process establishment and documentation.
 
 #### Manager, Brand Growth Requirements
 
-* Ability to use GitLab
-* 5-7 years experience in a brand strategy role
-* Knowledge of brand tracking and brand measurement systems
-* Capability to coordinate across many teams and perform in fast-moving startup environment
-* Understand and be able to express the value of GitLab as a brand entity
-* Outstanding written and verbal communications skills
+* Ability to use GitLab.
+* Experience in a brand manager role or similar acting role. 
+* Knowledge of brand tracking and brand measurement systems.
+* Capability to coordinate across many teams and perform in fast-moving startup environment.
+* Understand and be able to express the value of GitLab as a brand entity.
+* Outstanding written and verbal communications skills.
 * You embrace our values, and work in accordance with those values.
 * Develop pre-event, at-event, and post-event marketing plans in conjunction with product marketing, content, alliances, demand generation and field teams.
 * Advance, maintain, and manage external partners and vendors for multiple events and swag, including negotiating optimal terms.
