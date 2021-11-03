@@ -956,12 +956,12 @@ These training materials are for team members who need to access custom reports 
 
 ### Temporary Support Model
 
-GitLab Learn is planned to launch to external audiences on 2021-03-15. Without a dedicated LXP admin, the implementation team will use this temporary support process across the Professional Services and Learning and Development Teams to enable and support all users.
+The temporary support process across the Professional Services and Learning and Development Teams to enable and support all users is outlined below.
 
 ```mermaid
 graph TD
     A[User Question] --> B[Determine user audience]
-    B -->|Team Member| D[Support via Slack from L&D]
+    B -->|Team Member or Partner| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
     B -->|Community Member| F[Support via ticket from Professional Services and Forum support from L&D]
 
@@ -974,6 +974,7 @@ GitLab team members should work towards responding to internal and external requ
 | Audience | Support Method | SLA |
 | ----- | ----- | ----- |
 | Team Members | Slack support from L&D team | 2 business days |
+| Partners | Slack support from L&D team | 2 business days |
 | Customers | Zendesk support from PS team | TBD by PS Team |
 | Community Members | Zendesk support from PS or L&D teams | 1 week |
 | Community Members | Fourm support from L&D team | 1 week |
@@ -991,7 +992,7 @@ This workflow will be implemented when the LXP implementation team has adequate 
 ```mermaid
 graph TD
     A[User Question] --> B[Determine user audience]
-    B -->|Team Member| D[Support via Slack from L&D]
+    B -->|Team Member or Partner| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
     B -->|Community Member| F[Support via ticket or Community Forum answer from LXP admin]
 
