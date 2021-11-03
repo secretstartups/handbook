@@ -159,7 +159,10 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
 
       <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Core</a> 
       <br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect,</a> and 
-      <br>*   at least three (3) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Professional Service Engineers</a> 
+      <br>*   at least three (3) <a href="https://about.gitlab.com/services/pse-certifications/pse-specialist/">GitLab Certified Professional Service Engineers</a> 
+      <ol>
+         <li>Partner organizations who achieved their PSP prior to Nov. 4, 2021 are required to have three (3) <a href="https://about.gitlab.com/services/pse-certifications/pse-specialist/">GitLab Certified Professional Service Engineers</a> on staff prior to August 2, 2022</li>
+      </ol>
       </td>
   </tr>
   <tr>
