@@ -15,11 +15,12 @@ description: "Managing your interview scheduling preferences in Prelude"
 As an interviewer, you play a significant part in creating a seamless, candidate-centered experience for all applicants. Keeping an up-to-date calendar is essential to reducing rescheduling interviews and cancellations.
 DRI: Candidate Experience Team
 
+
 #### Keep your Google Calendar up to date
   - [Ensure your working hours are documented correctly](https://support.google.com/calendar/answer/7638168?hl=en&co=GENIE.Platform%3DDesktop)
   - Set your OOO in a timely manner, including holidays and Friends & Family days. 
   - Set a free calendar appointment for 1-2 days after you return from vacation indicating "no interviews" if you would prefer not to interview during that time.
-MJD: (/handbook/hiring/prelude/)
+
 #### Set your Prelude preferences
 Within Prelude, interviewers can set their interviewing availability, set daily and weekly limits, and add notes to help CES schedule within their preferences. 
 
@@ -35,6 +36,7 @@ Scroll down to add notes and adjust the dates and times to match your preference
 
 ![availability-request-form-image](./Availability.png)
 
+
 Examples of helpful notes include: 
  - “Can schedule 1 hour outside of availability with advance notice”
  - “Prefer not to interview on Wednesday mornings if possible”
@@ -44,9 +46,11 @@ You can also set your interview limits to alert the Candidate Experience Special
 
 ![daily-and-weekly-limits-screenshot](./Limits.png)
 
+
 Additionally, you can help us understand which meetings are moveable and which are not. We’ve set up some recommendations in your Prelude account to get you started, but you can adjust these preferences yourself. 
 
 ![availability-request-form-image](./Conflicts.png)
+
 
 #### Find a replacement
 If you need to decline an interview within 48 hours of the scheduled time, find an alternate interviewer where appropriate. Finding a replacement will help us avoid rescheduling a candidate. Once you have found a replacement, email the candidate’s name and replacement interviewer to ces@gitlab.com.
