@@ -82,7 +82,7 @@ This role includes all of the responsibilities above, plus:
 * Be a leader in building and driving process within the Market Research and Customer Insights team.
 
 ## Staff Reference Program Manager
-As Senior Reference Program Managers progress throughout their career at GitLab or we find the need to hire a Senior Reference Program Manager who has more years of relevant experience, there will be a need for a Staff Reference Program Manager position in the Market Research and Customer Insights team. The Staff Reference Program Manager will report into the Manager, Market Research and Customer Insights.
+As Senior Reference Program Managers progress throughout their career at GitLab or we find the need to hire a Senior Reference Program Manager who has more years of relevant experience, there will be a need for a Staff Reference Program Manager position in the Market Research and Customer Insights team. The Staff Reference Program Manager will report into the Director, Market Strategy and Insights.
 
 ### Job Grade 
 
