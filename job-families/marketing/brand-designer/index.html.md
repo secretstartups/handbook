@@ -114,7 +114,7 @@ Everything in the Senior Brand Designer role, plus:
 
 #### Job Grade
 
-The Principal Brand Designer is a [grade TBD](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Brand Designer is a [grade TBD](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Requirements
 
