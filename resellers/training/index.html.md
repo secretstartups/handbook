@@ -83,6 +83,7 @@ By completing the GitLab Sales Core and scoring above 80% on the tests, you’ll
 <ul>
 <li>GitLab CUstomers</li>
 <li>Customer Success Stories & Proof Points</li>
+</ul>
 
 </details>
 
