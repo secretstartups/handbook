@@ -151,6 +151,10 @@ The email should answer the following questions in the following sequence:
 
 #### Sample email 
 
+Two examples are provided:
+1.  (GitLab internal only as it references a 3rd party software provided) an [example of a security email](https://docs.google.com/document/d/10TEgeGWzmlHpOaiiAYuUzNkevYsWGNmLkNbqWt1KXlo/edit#bookmark=id.aa65snh7vyl6) 
+1.  An example of a product risk communication (see below) 
+
 **Important Customer Update Information On Gitaly Cluster**
 
 If you use [Gitaly Cluster](https://docs.gitlab.com/ee/administration/gitaly/#gitaly-cluster), or plan to migrate to it, this email might be relevant to you.  Recently, we [identified scenarios](https://docs.gitlab.com/ee/administration/gitaly/#known-issues)  that can cause a repository to go into read-only mode requiring customer support intervention to resolve.  
