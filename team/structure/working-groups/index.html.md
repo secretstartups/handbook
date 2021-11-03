@@ -135,6 +135,7 @@ If you are interested in participating in an active working group, it is general
 * [Merge Request Report Widgets](/company/team/structure/working-groups/merge-request-report-widgets/)
 * [MLOps](/company/team/structure/working-groups/mlops/)
 * [Multi-Large](/company/team/structure/working-groups/multi-large/)
+* [Object Storage](/company/team/structure/working-groups/object-storage/)
 * [Pipeline Validation Service Operations](/company/team/structure/working-groups/pipeline-validation-service-operations/)
 * [Real-Time](/company/team/structure/working-groups/real-time/)
 * [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
