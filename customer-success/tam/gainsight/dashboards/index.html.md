@@ -44,11 +44,6 @@ Count of all New/Work in Progress CTAs that are due in the next 30 days
 ​		Count of active EBRs that are due in the next 30 days. Does not look at overdue CTAs  
 
 
-
-​		
-
-​
-
 ### ​Upcoming This Quarter
 
 
@@ -80,41 +75,22 @@ Count of renewal opportunities with ARR > 50000 that aren’t closed or unqualif
 ***Upcoming Upsell Due to Close**
 
 Count of “add-on business” opportunities that aren’t closed but have a close date in the current quarter
-
-
-
-​		
-
-​		
+	
 ### Health and Utilization
 ​		
-
-​***Poor License Utilization**
-
-Count of customers whose License Utilization is Red. This means their billable user count/licenses sold is :
-
-<10% and the customer is at least 2 months old
-
-<50% and the customer’s more than 6 months old
-
-<75% and the customer’s more than 9 months old
-
-
-
 ***High License Utilization**
 
 Count of customers whose License Utilization exceeds 90%
 
+​***License Utilization Health**
 
+Bar chart comparing License Utilization Health across selected filters, which varies depending on how long they've been a customer. 
 
-***Adopted SCM But Not CI:**
+Details on how License Utilization is measured here: [Customer Health Assessment and Management - License Usage Health Table](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#license-usage-health-table)
 
-Count of customers whose SCM health measure is Green and CI is Red
+​***CI Adoption Health**
 
-Merge Requests utilization >= 25 and SMAU Verify Utilization < 20
+Bar chart comparing CI Adoption Health across selected filters. 
 
-
-
-***DevSecOps Poor Health**
-
-Count of customers whose DevSecOps health measure is red. This means their SMAU Secure Utilization < 15
+Details on how CI Adoption is measured here: [Customer Use Case Adoption
+](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/)
