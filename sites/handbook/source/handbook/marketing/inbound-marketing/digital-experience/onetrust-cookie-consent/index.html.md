@@ -65,6 +65,9 @@ OneTrust provides a test script to use on staging environments:
 To be used on live pages in place of the Test Script above:
 
 ```
+<script type="text/javascript" src="https://cdn.cookielaw.org/consent/{{ID}}-test/OtAutoBlock.js" >
+</script>
+
 <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="{{ID}}" >
 </script>
 
