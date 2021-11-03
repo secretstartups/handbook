@@ -119,6 +119,8 @@ graph BT;
 | Part of flywheel | Key Performance Indicator (KPI) | Department |
 |-------------- ---|---------------------------------|------------|
 | More Users | [Stage Monthly Active Users](/handbook/product/metrics/#stage-monthly-active-user) | Product |
+| More Contributions | [Community Contributors per month](/handbook/engineering/quality/performance-indicators/#unique-community-contributors-per-month) | Community Relations and Engineering |
+| More Contributions | [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr) | Community Relations and Engineering |
 | More Contributions | [Wider community contributions per release](/handbook/marketing/community-relations/code-contributor-program/#wider-community-contributions-per-milestone) | Community Relations and Engineering |
 | More Features | [Merge Requests per release per engineer in product development](/handbook/engineering/development/performance-indicators/#average-mrs-development-engineers-month) | Engineering and Product Management |
 | More Revenue | [IACV](/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan | Sales and Marketing |
