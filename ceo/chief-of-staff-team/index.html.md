@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Chief of Staff Team to the CEO"
-description: "GitLab CoS to the CEO Team Handbook"
+description: "GitLab CoST to the CEO Handbook"
 ---
 
 ## On this page
@@ -30,7 +30,7 @@ Complement the CEO through being the cross-functional linchpin for GitLab when i
 ## Contact Us
 * [chief-of-staff-team](https://gitlab.slack.com/archives/CN7MPDZF0/p1568035351000200) on Slack
 
-## Kinds of projects the CoS to the CEO Team works on
+## Kinds of projects CoST to the CEO works on
 {:#what-projects-does-the-cost-work-on}
 
 The Chief of Staff to the CEO and their team may work on projects that fit *any combination* of the following:
@@ -214,9 +214,9 @@ This is not the SSOT for these dates and is meant only for informational/organiz
 * June
 * October
 
-## Chief of Staff to the CEO Shadow
+## Chief of Staff Shadow
 
-The Chief of Staff to the CEO may occasionally have a Chief of Staff to the CEO Shadow, a GitLab team member who will participate in a specific project or initiative for a fixed period of time. Shadow responsibilities could include: taking notes, providing feedback, and/or supporting the overall initiative success. This role would be in addition to any existing responsibilities at GitLab. Participants would opt in to experience another function within GitLab and contribute to a different part of the business. Since participation would be in addition to an existing workload, managers must sign off before a CoS to the CEO Shadow can participate. Interested team members can share their interest with the Chief of Staff to the CEO in the #chief-of-staff-team channel. The CoST to the CEO will follow up with you to understand what you are looking to get out of the experience and review projects that may be a good match. If there is not an existing project, you will be kept in mind for future opportunities.
+The Chief of Staff to the CEO may occasionally have a Chief of Staff Shadow, a GitLab team member who will participate in a specific project or initiative for a fixed period of time. Shadow responsibilities could include: taking notes, providing feedback, and/or supporting the overall initiative success. This role would be in addition to any existing responsibilities at GitLab. Participants would opt in to experience another function within GitLab and contribute to a different part of the business. Since participation would be in addition to an existing workload, managers must sign off before a CoS to the CEO Shadow can participate. Interested team members can share their interest with the Chief of Staff to the CEO in the #chief-of-staff-team channel. The CoST to the CEO will follow up with you to understand what you are looking to get out of the experience and review projects that may be a good match. If there is not an existing project, you will be kept in mind for future opportunities.
 
 Once a project or initiative to Shadow has been identified and the team member decides to participate, the team member should open a merge request to add their name to the below table. The MR should be shared through slack in `#chief-of-staff-team` for review and merge.
 
@@ -247,16 +247,16 @@ Once a project or initiative to Shadow has been identified and the team member d
 
 ## Resources on the CoS to the CEO Role
 
-* [The Unrepentant Generalist: How to Be a Great Chief of Staff to the CEO in Tech](http://www.nehrlich.com/blog/2019/10/31/how-to-be-a-great-chief-of-staff-in-tech/)
-* [NYT: Hail to the Chief of Staff to the CEO](https://www.nytimes.com/2019/11/07/style/what-does-a-chief-of-staff-do.html)
-* 2020 March: [Chief of Staff to the CEO in the Tech Industry](https://medium.com/@alexismonville/chief-of-staff-in-the-tech-industry-c7dc3a43dae6)
+* [The Unrepentant Generalist: How to Be a Great Chief of Staff in Tech](http://www.nehrlich.com/blog/2019/10/31/how-to-be-a-great-chief-of-staff-in-tech/)
+* [NYT: Hail to the Chief of Staff](https://www.nytimes.com/2019/11/07/style/what-does-a-chief-of-staff-do.html)
+* 2020 March: [Chief of Staff in the Tech Industry](https://medium.com/@alexismonville/chief-of-staff-in-the-tech-industry-c7dc3a43dae6)
 * [Emilie Schario's Notes on the CoS to the CEO Book](https://docs.google.com/document/d/1ZjWmqhv78eic57gxR825FvC9GMHo91pYakb3Jc7ximU/edit?usp=sharing)
-* [Chief of Staff to the CEO Tech Network](https://costechnetwork.com/)
-* [Chief of Staff to the CEO Resources](https://www.chiefofstaff.expert)
-* [Prime Chief of Staff to the CEO](https://primechiefofstaff.com)
+* [Chief of Staff Tech Network](https://costechnetwork.com/)
+* [Chief of Staff Resources](https://www.chiefofstaff.expert)
+* [Prime Chief of Staff](https://primechiefofstaff.com)
 * [The First 90 Days](https://medium.com/@robdickins/a-90-day-impact-plan-for-a-new-chief-of-staff-97768d9b04bd)
-* [I’ve Logged 10,000 Hours as a Chief of Staff to the CEO in a Large Tech Company](https://medium.com/@robdickins/ive-logged-10-000-hours-as-a-chief-of-staff-in-a-large-tech-company-here-s-my-pov-on-the-role-7c4aa095f5e8)
-* [The Role of a Corporate Chief of Staff to the CEO](https://medium.com/cos-tech-forum/part-1-the-role-of-a-corporate-chief-of-staff-8db0142318f1)
+* [I’ve Logged 10,000 Hours as a Chief of Staff in a Large Tech Company](https://medium.com/@robdickins/ive-logged-10-000-hours-as-a-chief-of-staff-in-a-large-tech-company-here-s-my-pov-on-the-role-7c4aa095f5e8)
+* [The Role of a Corporate Chief of Staff](https://medium.com/cos-tech-forum/part-1-the-role-of-a-corporate-chief-of-staff-8db0142318f1)
 * [Better CoS to the CEO: Decision Making](https://medium.com/@robdickins/better-cos-decision-making-5d97d14152e3)
-* [Becoming a Chief of Staff to the CEO with Brian Rumao](https://www.linkedin.com/learning/become-a-chief-of-staff-with-brian-rumao)
-* [HBR: The Case for a Chief of Staff to the CEO](https://hbr.org/2020/05/the-case-for-a-chief-of-staff)
+* [Becoming a Chief of Staff with Brian Rumao](https://www.linkedin.com/learning/become-a-chief-of-staff-with-brian-rumao)
+* [HBR: The Case for a Chief of Staff](https://hbr.org/2020/05/the-case-for-a-chief-of-staff)
