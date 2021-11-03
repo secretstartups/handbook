@@ -51,6 +51,25 @@ or other characteristics, as one or even multiple personas from another organiza
 Describing all of them will help us understand the differences that could otherwise go unnoticed
 and make better-focused decisions during product development.
 
+#### List of User Personas
+We describe the following personas in terms of the jobs they do, their motivations and frustrations. Understanding our users through this lens helps us contribute to a product that supports their workflow. 
+
+  1. [Cameron, Compliance Manager](/handbook/product/personas/#cameron-compliance-manager)
+  1. [Parker, Product Manager](/handbook/product/personas/#parker-product-manager)
+  1. [Delaney, Development Team Lead](/handbook/product/personas/#parker-product-manager)
+  1. [Presley, Product Designer](/handbook/product/personas/#presley-product-designer)
+  1. [Sasha, Software Developer](/handbook/product/personas/#sasha-software-developer)
+  1. [Devon, DevOps Engineer](/handbook/product/personas/#devon-devops-engineer)
+  1. [Sidney, Systems Administrator](/handbook/product/personas/#sidney-systems-administrator)
+  1. [Sam, Security Analyst](/handbook/product/personas/#sam-security-analyst)
+  1. [Rachel, Release Manager](/handbook/product/personas/#rachel-release-manager)
+  1. [Alex, Security Operations Engineer](/handbook/product/personas/#alex-security-operations-engineer)
+  1. [Simone, Software Engineer in Test](/handbook/product/personas/#simone-software-engineer-in-test)
+  1. [Allison, Application Ops](/handbook/product/personas/#allison-application-ops)
+  1. [Priyanka, Platform Engineer](/handbook/product/personas/#priyanka-platform-engineer)
+  1. [Dakota, Application Development Director](/handbook/product/personas/#dakota-application-development-director)
+
+
 #### Cameron (Compliance Manager)
 
 - **Alternative Job Titles:** Compliance Program Manager, Audit Report Analyst, Audit Events Analyst
