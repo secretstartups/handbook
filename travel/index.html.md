@@ -227,7 +227,7 @@ For additional security specifically when travelling through an airport, the fol
 
 ## Travel Guidance: COVID-19
 
-Our top priority is the health and safety of our team members. The policy below applies to any travel that requires hotel and/or flight.  
+Our top priority is the health and safety of our team members. 
 
 ### Covid-19 Travel Working Group
 The COVID-19 Travel Working Group is comprised of the Covid Response Committee that was formed in 2020. Members are: Chief People Officer, Chief Legal Officer, Chief Marketing Officer and Chief Revenue Officer with additional support by the Staff EBA and Principal Internal Communications Manager. This group meets once monthly for 25min to review the current travel guidance around COVID-19. The meeting generally occurs on the second Thursday of every month which began on 2021-03-11
@@ -258,7 +258,7 @@ Where Can GitLab Team Members Travel: While some areas of the world have decreas
 Required of/by Team Members Prior to Traveling:
 
 - Travel is voluntary and no Team Member is required to travel. Travel proposals shall be requested by the Team Member and should never be made against the Team Member’s own judgment or comfort level. As a Team Member, if you are not comfortable traveling, please don't make a request.
-- At this time, only vaccinated team members may request travel. Vaccinated team members must wear a mask that meets CDC or WHO guidelines during travel to their destination, and must continue to follow mask requirements meeting CDC/WHO guidelines or local requirements, whichever is more strict.
+- At this time, only vaccinated team members may request travel. Vaccinated team members must wear a mask that meets CDC or WHO guidelines during travel to their destination, and must continue to follow mask requirements meeting CDC/WHO guidelines or local, venue or client requirements, whichever is most strict.
 - Non vaccinated team members (including those with valid exemptions for vaccinations) are currently not allowed to travel.  
 - All international travelers must follow each country's guidelines governing entry and re-entry. 
 - As a reminder, travel is entirely voluntary, and no employment decisions are based on a Team Member’s decision to travel or not to travel. 
