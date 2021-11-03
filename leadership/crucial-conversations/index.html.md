@@ -100,25 +100,22 @@ Having crucial conversations via a Zoom call might be more difficult than having
 
 1. Pre-populate your [1:1 meeting agenda](/handbook/leadership/1-1/) so that everyone can come prepared to have crucial conversations.
 1. In a video call, we might miss out on key body language markers that are more apparent when having conversations in person. Focus on the body language queues we can see. Does someone who typically uses video have their video off, or does someone turn their video off suddenly? Does the person seem to be looking away or looking down, avoiding the screen?
+1. If an async conversation is starting to get out of productive dialogue, move to a synchrounous call to increase safety
+1. Async conversations make it easier for us to hold off a response until emotions cool off, prevenging a fight or flight response. This can be helpful in some cases but watch out for it's detriments. It's important to speak up about projects or conversations that make you feel upset or unheard.
 1. Make space for pause. Silent pauses on a phone call might feel awkward or uncomfortable. These pauses are necessary for people to process feelings and stress and craft thoughtful responses during crucial conversations. Try using these phrases if you need to create a space for silence:
-
      - `Can we wait one second before moving on to that topic?`
      - `I need a minute to think through this one.`
      - `Can we take a pause for a minute?`
      - `I need a few extra seconds/minutes to think through my response here`
-
 1. If you're in a crucial conversation and a team member uses one of these phrases to indicate they need a pause, remember to respect their need for time by:
-
      - Don't try to fill the space with more talking. Let there be a minute or two of quiet on the line.
      - Let your eyes gaze around the room, down, or at your notes if you need something else to focus on
      - Wait until the person you're speaking with initiates conversation again before speaking
-
 1. Asking questions lets everyone determine what facts and stories are present in the conversation. They can be can asked in a synchrounous and async formats. Example questions include
      - `What do you think?`
      - `Can I get your perspective/a different perspective on this?`
      - `How do you feel?`
      - `Can I get your feedback on...`
-
 1. During a crucial conversation, different priorities might come up from members in the conversation. It's important to determine what conversation people are prepared to participate in and what topics are most important and efficient to address. Determining the root cause of the conversation is important here. Think about questions like:
      - `Is this turning into a performance discussion?`
      - `Do we need to reschedule so we can all prepare?`
@@ -153,4 +150,9 @@ Below are additional resources on influencing and leadership for you to review.
 * [5 Leadership Strategies Proven to Improve Performance on Your Team](https://crestcomleadership.com/2016/12/01/5-leadership-strategies-to-improve-performance-in-your-company/)
 * [The 7 Best Books to Improve Influencing Skills](https://www.roffeypark.com/influencing-skills/the-7-best-books-to-improve-influencing-skills/)
 * [7 Ways to Build Influence in the Workplace](https://www.inc.com/jayson-demers/7-ways-to-build-influence-in-the-workplace.html)
+
+
+
+
+
 
