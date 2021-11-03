@@ -237,7 +237,7 @@ These rules are hierarchical and will operate in a top-down fashion, so the firs
 | Web Referral   |                    |                            |                                    |                                    |                                           | *                        |
 
 
-### Offline Channel Mapping
+### Bucket Channel Mapping
  These channels and subchannels are pulled into Salesforce and can be further filtered by using `medium` for those channels with overlap or with `Ad Campaign name` to search for specific UTMs or campaigns. The `Bucket Mapping` is a high-level grouping of each subchannel set to allow for additional reporting.:
 
 | Bizible Channel.SubChannel | Bucket Mapping | Online/Offline | Type of Marketing                                                                                                                                                                                          |
