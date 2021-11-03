@@ -11,7 +11,7 @@ The Self Service Growth function is part of a team focused on building an easy s
 
 ### Job Grade
 
-The Manager, Online Sales & Self Service Growth is a [grade 8]((/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Online Sales & Self Service Growth is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -142,7 +142,7 @@ The Senior Director, Online Sales & Self Service Growth is a [grade 11](/handboo
 ## Hiring Process 
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 * Next, candidates will be invited to schedule a first interview with the Hiring Manager
 * Next, candidates will be invited to schedule interviews 30 minute interviews with 2 immediate team members and 3 cross-functional partners
 * Finally, candidates will be invited to schedule interviews with the hiring manager once more
