@@ -186,6 +186,10 @@ Combining the two axis above results in the below priority matrix.
 
 ## Salesforce specific policies and actions
 
+### Salesforce password policies
+
+Persuant with GitLab's [best practices for password security](https://about.gitlab.com/handbook/security/#gitlab-password-policy-guidelines), our Salesforce environment requires that users use passwords with at least 12 characters, and that they must not re-use any of their last 24 passwords when resetting their password. 
+
 ### Installed Package Removal Process
 
 1. Identify the package and what reason(s) you may think it can be removed.
