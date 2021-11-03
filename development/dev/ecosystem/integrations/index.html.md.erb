@@ -10,19 +10,22 @@ description: The Ecosystem Integrations group is responsible for the Integration
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-<!-- Common Links -->
-[engineering workflow]: /handbook/engineering/workflow/
-[GitLab]: https://gitlab.com/gitlab-org/gitlab
-[#g_ecosystem_integrations]: https://gitlab.slack.com/archives/C01E55XNCEA
-
 ## About
 
 The Integrations group is a part of the [Ecosystem Stage](https://about.gitlab.com/handbook/product/categories/#ecosystem-stage).
 We support the product with 3rd party integrations, REST APIs and GraphQL foundational code, and Webhooks.
 
-This page covers processes and information specific to the Integrations group. See also the [Integrations direction page](/direction/ecosystem/integrations/).
+This page covers processes and information specific to the Integrations group. See also the [Integrations direction page](/direction/ecosystem/integrations/)
+and the [features we support per category](/handbook/product/product-categories/features/#ecosystemintegrations-group).
 
-Slack Channel (internal): [#g_ecosystem_integrations].
+## How to reach us
+
+To get in touch with the Integrations group, it's best to create an
+issue in the relevant project (typically [GitLab](https://gitlab.com/gitlab-org/gitlab)) and add the
+`~"group::integrations"` label, along with any other appropriate labels. Then,
+feel free to ping the relevant Product Manager and/or Engineering Manager.
+
+For more urgent items, feel free to use the Slack Channel (internal): [#g_ecosystem_integrations](https://gitlab.slack.com/archives/g_ecosystem_integrations).
 
 ## Backend Group Members
 
@@ -49,19 +52,15 @@ group. To find the current OKRs for this
 
 ## Work
 
-In general, we use the standard GitLab [engineering workflow]. To get in touch
-with the Ecosystem:Integrations group, it's best to create an issue in the
-relevant project (typically [GitLab]) and add the `~"group::integrations"`
-label, along with any other appropriate labels. Then, feel free to ping the
-relevant Product Manager and/or Engineering Manager.
-
-For more urgent items, feel free to use [#g_ecosystem_integrations] on Slack.
-
-[Take a look at the features we support per category here.](/handbook/product/product-categories/features/#ecosystemintegrations-group)
+The Product Manager compiles the list of Deliverable and Stretch issues following
+the [product prioritization process](/handbook/product/product-processes/#prioritization),
+with input from the team, Engineering Managers, and other stakeholders.
+The iteration cycle lasts from the 18th of one month until the 17th of the next,
+and is identified by the GitLab version set to be released on the 22nd.
 
 ### Collaborating with Counterparts
 
-You are encouraged to work as closely as needed with stable counterparts
+Engineers are encouraged to work as closely as needed with stable counterparts
 including our Product Manager. We should be sure to include documentation, UX,
 quality engineering, and application security in the planning process.
 
@@ -69,25 +68,24 @@ Quality engineering is included in our workflow via the [Quad Planning Process](
 
 ### What to work on
 
-<%= partial("handbook/engineering/development/dev/ecosystem/integrations/what_to_work_on.erb", locals: { group: "Integrations", slack_channel: "g_ecosystem_integrations" }) %>
-[issue board]: https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=group%3A%3Aintegrations
-[assignment board]: https://gitlab.com/groups/gitlab-org/-/boards/2168283
+<%= partial("handbook/engineering/development/dev/ecosystem/integrations/what_to_work_on.erb") %>
 
-### Workflow labels
+### Issue Development Workflow
+
+In general, we use the standard GitLab [engineering workflow](/handbook/engineering/workflow/).
 
 The easiest way for Engineering Managers, Product Managers, and other stakeholders
 to get a high-level overview of the status of all issues in the current milestone,
 or all issues assigned to a specific person, is through the [Development issue board](https://gitlab.com/groups/gitlab-org/-/boards/1290820?scope=all&label_name[]=group%3A%3Aintegrations),
-which has columns for each of the workflow labels described on Engineering Workflow
-handbook page under [Updating Issues Throughout Development](/handbook/engineering/workflow/#updating-issues-throughout-development).
+which has columns for each of the workflow labels.
 
 As owners of the issues assigned to them, engineers are expected to keep the
 workflow labels on their issues up to date, either by manually assigning the new
 label, or by dragging the issue from one column on the board to the next.
 
 Once an engineer starts working an issue, they mark it with the `workflow::"in
-dev"` label as the starting point. From there, the process primarily follows
-the guideline:
+dev"` label as the starting point and continue [updating the issue throughout development](/handbook/engineering/workflow/#updating-issues-throughout-development).
+The process primarily follows the guideline:
 
 ``` mermaid
 graph LR
@@ -123,7 +121,7 @@ Team Member Boards track `group::integrations` labeled issues by the assigned te
 - [BE Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/2168283?scope=all&label_name[]=backend&label_name[]=group%3A%3Aintegrations)
 - [FE Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/2168283?scope=all&label_name[]=frontend&label_name[]=group%3A%3Aintegrations)
 
-#### Deliverable Boards
+#### Deliverable / Stretch Boards
 
 Deliverable Boards tracks `~Deliverable` and `~Stretch` issues.
 
@@ -132,7 +130,7 @@ Deliverable Boards tracks `~Deliverable` and `~Stretch` issues.
 
 ### Monitoring
 
-This is a collection of links for monitoring Ecosystem:Integrations features.
+This is a collection of links for monitoring Integrations features.
 
 #### Grafana dashboards
 
