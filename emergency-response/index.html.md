@@ -148,6 +148,22 @@ The email should answer the following questions in the following sequence:
 1.  What is your call to action? What should you do?
 1.  Where should you go if you need support? If applicable, where do you provide feedback (e.g., forum, issue, other)? If additional updates will be provided, when and how will that information be shared? 
 
+
+#### Sample email 
+
+**Important Customer Update Information On Gitaly Cluster**
+
+If you use [Gitaly Cluster](https://docs.gitlab.com/ee/administration/gitaly/#gitaly-cluster), or plan to migrate to it, this email might be relevant to you.  Recently, we [identified scenarios](https://docs.gitlab.com/ee/administration/gitaly/#known-issues)  that can cause a repository to go into read-only mode requiring customer support intervention to resolve.  
+
+We recommend the following:
+If you use Gitaly Cluster please review the identified scenarios and avoid them.
+If you have not migrated to Gitaly Cluster please know that we [extended NFS support](https://docs.gitlab.com/ee/administration/nfs.html#gitaly-and-nfs-deprecation)  to all 14.x releases.
+
+We're working to reduce the scenarios that can cause a repository to go into read-only mode and will update the [identified scenarios](https://docs.gitlab.com/ee/administration/gitaly/#known-issues) when we do so. If you are using Gitaly Cluster, and require additional guidance,  please contact your support representative or your TAM.
+
+Kind regards,
+
+
 ## Epic Code & Issues
 {: #customer-comms-epic-issues .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
