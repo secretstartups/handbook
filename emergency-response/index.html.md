@@ -10,7 +10,7 @@ description: "GitLab's email response process for marketing emergencies"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Marketing Emergency Response
+## Marketing emergency response
 
 At times GitLab needs to communicate a "breaking" change or details related to a high-priority emergency patch. These emails are transactional and are highly targeted to the impacted audience.
 
@@ -24,8 +24,10 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 1. If there is not a timely response in Slack, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
 1. In the template the requesting team will include details including CTA, email body, send date and **provide link to Google sheet containing list**. 
 
-## Roles and Responsibilities
-### Requestor is responsible for: 
+## Roles and responsibilities
+
+### Requestor responsibilities
+
 * **Alerting email team as soon as possible that there may be a send (even if it does not move forward)**
 * Providing FINAL email, landing page, form copy, autoresponder copy, etc.
     * NOTE: The addition of each item will increase scope and potentially delay announcement
@@ -45,7 +47,8 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 * Approving all other materials and workflows (landing pages, forms, completion actions)
 
 
-### Email team is responsible for: 
+### Email team responsibilities
+
 * Providing a timeline based on the request
 * Creating epic and some issues (all except for the target list or email request issues)
 * Building the email program and actual emails in Marketo (or sending platform of choice)
@@ -59,8 +62,7 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 * Creating SFDC campaign if needed (if needed)
 * Coordinating SDR routing needs with Marketing Ops
 
-
-## Standard Process
+## Standard process
 This is the process to follow when there is an announcement that is an emergency that will need to be sent by the marketing ops and campaigns team. The marketing teams will determine what platform will be used based on the information that is provided to them such as timing, list size and severity.
 
 1. **Requesting team notifies that an emergency communication is needed**
@@ -108,13 +110,13 @@ The following approvers are needed for the copy and list size:
 1. Seldomly, lists need to be created in Salesforce or Marketo using parameters found within the marketing database.  
      - Marketo & Salesforce **do not** contain all records within the user table and vice versa
 
-### List Considerations
+### List considerations
 
 - List loads greater than 20k take time. Millions may take hours/days.
 - Each platform has their own limits as to size of CSV that can be uploaded.
 - Lists greater than 100k may be subject to verification, so that we do not risk our sending reputation. Marketing Ops has budget set aside for these, but it will add possible days to the timeline to send. 
 
-## Other Considerations and Questions for Requestors
+## Other considerations and questions for requestors
 
 - Send / Reply-to email
      - Should there be an auto-responder?
@@ -125,7 +127,7 @@ The following approvers are needed for the copy and list size:
      - Who from GitLab receives the alert?
 
 
-## Email Platform to Use
+## Email platform to use
 The email platform determines many different factors for us.
 - [Marketo](/handbook/marketing/marketing-operations/marketo/): Quickest deployment, but most costly. Will not be used for communications over 20k
 - [MailJet](/handbook/marketing/marketing-operations/mailjet/): Platform for large deployment, marketing can set up and send without engineering help.
@@ -133,16 +135,16 @@ The email platform determines many different factors for us.
 
 
 
-## Customer Update / Announcement Emails
+## Customer update / Announcement emails
 {: #customer-comms-email .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 This section should be used for all customer communications to communicate product or security issues and risks. At minimum, these communications need to be approved in sequence by the head of the department that is leading the communication (e.g., Product, Engineering, Security), Vice President of Customer Success, Legal, or appropriate designates (if they are out on PTO or unavailable).
 
-### Recommended Format for Customer Emails
-The following is the recommended format for ad hoc customer emails though tailor it if the communication objective or content requires this. This does not include marketing (e.g., email campaigns, blogs, etc.) or standard product or security notifications (e.g., release blogs, release notifications, etc.). Emails should be clear, crisp, and direct, providing links for details (e.g., details on the issue or risk, procedural details to action). To [maximize reading comprehension](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1709943), remove all extraneous words and language to maximize the probability the email will be read and actioned. 
+### Recommended format for customer emails
+The following is the recommended format for ad hoc customer emails though tailor it if the communication objective or content requires this. This does not include marketing (e.g., email campaigns, blogs, etc.) or standard product or security notifications (e.g., release blogs, release notifications, etc.). Emails should be clear, crisp, and direct, providing links for details (e.g., details on the issue or risk, procedural details to action). To [maximize reading comprehension](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1709943), remove all extraneous words and language to maximize the probability the email will be read and acted upon. 
 
-The email should answer the following questions in the following sequence:
+The email should answer the following questions in the following order:
 1.  Why are you (customer) getting this email? This can be either specific (i.e., we know) or general (i.e., you may be or need to be aware). This be the first sentence in the email. 
 1.  What is the issue/change/problem/etc.? What are the risk and impact? How do you know if you're impacted or potentially impacted by the issue? Is it resolved or still being worked on? 
 1.  What is your call to action? What should you do?
@@ -155,20 +157,28 @@ Two examples are provided:
 1.  (GitLab internal only as it references a 3rd party software provided) an [example of a security email](https://docs.google.com/document/d/10TEgeGWzmlHpOaiiAYuUzNkevYsWGNmLkNbqWt1KXlo/edit#bookmark=id.aa65snh7vyl6) 
 1.  An example of a product risk communication (see below) 
 
-**Important Customer Update Information On Gitaly Cluster**
+```
+Subject: Important update information for customers using {GitLab Feature}
 
-If you use [Gitaly Cluster](https://docs.gitlab.com/ee/administration/gitaly/#gitaly-cluster), or plan to migrate to it, this email might be relevant to you.  Recently, we [identified scenarios](https://docs.gitlab.com/ee/administration/gitaly/#known-issues)  that can cause a repository to go into read-only mode requiring customer support intervention to resolve.  
+Hello {Customer name},
 
-We recommend the following:
-If you use Gitaly Cluster please review the identified scenarios and avoid them.
-If you have not migrated to Gitaly Cluster please know that we [extended NFS support](https://docs.gitlab.com/ee/administration/nfs.html#gitaly-and-nfs-deprecation)  to all 14.x releases.
+If you use {GitLab Feature}, or plan to migrate to it, this information may be relevant to you.
 
-We're working to reduce the scenarios that can cause a repository to go into read-only mode and will update the [identified scenarios](https://docs.gitlab.com/ee/administration/gitaly/#known-issues) when we do so. If you are using Gitaly Cluster, and require additional guidance,  please contact your support representative or your TAM.
+We recently identified {cases} where {GitLab Feature} can cause a {specific issue} that requires GitLab Support intervention to resolve.
+
+We recommend the following actions to identify and resolve this issue:
+
+- If you use {GitLab Feature}, please review the [scenarios] and avoid them.
+- If you have not migrated to {GitLab Feature}, please know that we [provided additional support] to all affected releases.
+
+We're working to reduce the conditions that can cause {specific issue} and will update the [{cases}] when we do so. If you are using {GitLab Feature} and require additional guidance, please contact your support representative or your TAM.
 
 Kind regards,
+{Sender}
+```
 
 
-## Epic Code & Issues
+## Epic code and issues
 {: #customer-comms-epic-issues .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
