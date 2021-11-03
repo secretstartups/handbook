@@ -44,7 +44,6 @@ The GitLab Professional Education Services team currently provides the following
 - Automate manual operational tasks to become more efficient and deliver consistent education services at scale
 - Continue to innovate and expand the SSOT model for content development at scale
 
-
 #### Related Project and Issues
 - [Professional Education Services Project Issues List](https://gitlab.com/gitlab-com/sales-team/professional-services/education-services/issues)
-- [EdCast LXP Implementation](https://gitlab.com/groups/gitlab-com/-/epics/918)
+- [EdCast LXP/Marketplace User Instructions](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/implementation/bootcamp/)
