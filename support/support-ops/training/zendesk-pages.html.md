@@ -33,6 +33,13 @@ a ticket, such as:
 * Ticket type
 * Custom ticket fields
 
+### User section
+
+This section is only visible by clicking the person icon on the top of the
+metadata section. It contains very basic information about the requester and
+any interactions with them. This section is not used often at GitLab as we
+currently only use the ticket system.
+
 ### Ticket contents section
 
 This section, which makes up the middle of the ticket page, is the main part of
