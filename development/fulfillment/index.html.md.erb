@@ -273,6 +273,21 @@ Basecamp thinks about these stages in relation to the [climb and descent of a hi
 
 While individual groups are free to use as many stages in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) workflow as they find useful, we should be somewhat prescriptive on how issues transition from discovery/refinement to implementation.
 
+### Approving and merging the work
+
+We have approval rules enabled, so every MR that targets `staging` or `master` needs at least one approval (different from the author/committer).
+MRs require the following:
+- at least 2 different reviewers (typical)
+- at least 1 approval
+- a maintainer's review and merge
+
+In addition to the approval rules, MRs may require additional reviews as suggested by the [Danger bot](https://docs.gitlab.com/ee/development/dangerbot.html):
+
+1. Modifications to the DB require database reviewer and maintainer approval
+2. Security-related issues (such as changes to authentication) require a [Security review](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/application-security/appsec-reviews.html#adding-features-to-the-queue)
+3. Changes to the SFDC APIs require review by the [Sales team](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/)
+4. Changes to the Zuora APIs require review by the [EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/)
+
 ### Weekly async issue updates
 
 Every Friday, each engineer is expected to provide a quick async issue update by commenting on their assigned issues using the following template:
