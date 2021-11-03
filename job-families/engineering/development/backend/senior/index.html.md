@@ -186,13 +186,19 @@ The CI/CD Engineering Manager also does weekly stand-up with a team and product 
 * In-depth experience with Ruby on Rails, Go, and/or Git.
 * Experience with provisioning tools is beneficial but not essential.
 
-### Growth
-Growth Engineers work with a cross-functional team to influence the growth of GitLab as a business. In helping us iterate and learn rapidly, these engineers enable us to more effectively meet the needs of potential users.
+### Growth:Experimentation
+Growth: Experimentation Engineers build, maintain, and integrate with GitLab the tools necessary for experimentation, to enable product teams at GitLab to develop and report on product-led experiments. 
 
 #### Requirements
 * Strong self-direction (this team is being bootstrapped).
 * Experience with A/B, multivariate, or other data-driven methods of testing.
 * Comfort multitasking in a highly iterative environment.
+
+##### Nice to have
+* Proven experimentation platform development experience
+* Familiarity with third party experimentation tools 
+* Experience with Snowplow
+* Frontend experience including HTML, CSS, and JavaScript frameworks (Vue.js preferred).
 
 ### Product Intelligence
 Senior Backend Engineers in the Product Intelligence group play a key role in implementing analytics and data collection tools within the GitLab product in a privacy-focused manner. 
