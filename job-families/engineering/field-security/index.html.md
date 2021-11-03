@@ -27,7 +27,7 @@ This position reports to the Manager, Governance and Field Security at GitLab.
 The Field Security Engineer is a [6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Field Security Engineer (Intermediate) Responsibilities
-* Complete customer security assessments, questionnaires and sales enablement activities within pre defined SLA.
+* Complete customer security assessments, questionnaires and sales enablement activities within pre defined SLA
 * Maintain the Customer Assurance Package and other self-service customer security resources
 * Maintain GitLab's standard security response database 
 * Triage new or changing security requirements, security issues, and/or customer risks
@@ -35,7 +35,7 @@ The Field Security Engineer is a [6](/handbook/total-rewards/compensation/compen
 * Identify opportunities for Field Security process automation
 * Maintain Field Security automation tasks
 * Maintain security sales enablement educational materials and support security evangelism
-* Support Field Security internally facing presentations such as Sales Kick Off, Sales Quick Start and Customer Success Skills Exchange
+* Support Field Security internally facing presentations such as Sales Kick Off, Sales Quick Start, Quarterly Business Reviews, and Customer Success Skills Exchange
 * Proactively identify new or increased customer security concerns with management
 
 #### Field Security Engineer (Intermediate) Requirements
@@ -53,7 +53,7 @@ The Senior Field Security Engineer is a [7](/handbook/total-rewards/compensation
 * Extends the Field Security Engineer responsibilities
 * Maintain up-to-date knowledge of GitLab's product, roadmap, environment, systems and architecture
 * Build a strong, collaborative partnership with Sales, Product, Customer Support and Technical Account teams.
-* Independently execute sales enablement activities, including customer security assessments and contract reviews
+* Independently execute sales enablement activities, including customer assurance activity requests and self-attestations
 * Execute end to end Field Security initiatives in accordance with the compliance roadmap
 * Mature the Customer Assurance Package and other self-service customer security resources
 * Monitor industry trends and demands to proactively position GitLab as an industry leader in Security and execute initiatives to support these trends
@@ -61,7 +61,7 @@ The Senior Field Security Engineer is a [7](/handbook/total-rewards/compensation
 * Design and implement requirements for Field Security automation tasks
 * Recommend new Field Security metrics and automate reporting of existing metrics
 * Mature security sales enablement educational program
-* Present a minimum of 4 internally facing presentations per annum such as Sales Kick Off, Sales Quick Start and Customer Success Skills Exchange
+* Present a minimum of 4 internally facing presentations per annum such as Sales Kick Off, Sales Quick Start, Quarterly Business Reviews, and Customer Success Skills Exchange
 * Build the GitLab Security brand by presenting a minimum of 2 external facing engagements per annum, ex: Commit, SKO, conferences, guest speaking engagements, blog posts, whitepapers
 * Monitor and report on new or increased customer security concerns
 
@@ -106,10 +106,10 @@ The {Manager, Governance and Field Security} is a [grade 8](/handbook/total-rewa
 * Hold regular 1:1s with team members
 * Build a strong, collaborative partnership with Security, Training, Legal, Infrastructure, Sales and Product teams
 * Manage a robust governance program, to include oversight of security policies, security training and awareness programs
-* Manage a robust field security program, to include oversight of security RFP databases, customer assurance and security evangilization activites
+* Manage a robust field security program, to include oversight of security RFP databases, customer assurance, and security evangilization activites
 * Assess and promote customer concerns, industry trends and changing regulatory requirements and appropriately adjust the scope to accommodate these changes
 * Oversee deployment and promote continuous improvement of Security Assurance technologies, automations and integrations
-* Present a minimum of 3 external facing engagements per annum, ex: Commit, SKO, conferences, guest speaking engagements, blog posts, whitepapers
+* Present a minimum of 3 external facing engagements per annum, ex: Commit, SKO, QBRs, conferences, guest speaking engagements, blog posts, whitepapers
 * Prepare and deliver meaningful metrics to Security Assurance leadership
 * Successfully execute on quarterly OKR(s)
  
@@ -132,7 +132,7 @@ The {Senior Manager, Governance and Field Security} is a [grade 9](/handbook/tot
 * Expose technology and organizational needs throughout security assurance and oversee successful deployments
 * Create and deploy innovative and effective strategies for proactively addressing regulatory and customer security requests
 * Maintain reliable, up-to-date, information across the industry regarding new security trends, threats and vulnerabilities
-* Present a minimum of 6 external facing engagements per annum, ex: Commit, SKO, conferences, guest speaking engagements, blog posts, whitepapers
+* Present a minimum of 6 external facing engagements per annum, ex: Commit, SKO, QBRs, conferences, guest speaking engagements, blog posts, whitepapers
 * Proactively identify new metrics along with strategic recommendations to Security Assurance leadership
 * Draft and successfully execute on multiple quarterly OKRs
  
