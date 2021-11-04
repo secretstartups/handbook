@@ -95,7 +95,7 @@ Product Managers of any level (IC or managers) can volunteer for any release tha
 
 Before committing to the date of your choice, please be sure you can perform the critical path release post manager tasks between the 15th and the 22nd of the month as defined in the [monthly MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md). If you can not perform any of the release post manager tasks between the 15th and the 22nd of the month, please sign up for a release post that better aligns with your availability. 
 
-To assign yourself as release post manager or release post manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle:
+To assign yourself as release post manager or release post manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle leveraging this [tracking doc](https://docs.google.com/spreadsheets/d/12tFW2nOqZ7Cxm0T-WKZVHmPdZNPtkS6fdIvLwvWVLLc/edit#gid=0):
 
 1. Members that never managed a release post before
 1. Members that have the longest interval since they managed their last release post
