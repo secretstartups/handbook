@@ -3,6 +3,12 @@ layout: handbook-page-toc
 title: "Open Source at GitLab"
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## We believe in Open Source
 
 As a company, GitLab is dedicated to open source. Not only do we believe in it, but we use it, and we give back to it. Not just through GitLab, but through contributions to other open source projects.
