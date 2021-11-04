@@ -67,7 +67,7 @@ Support Operations Manager.
 
 ### Creating a license
 
-1. Login to the [license app](https://license.gitlab.com).
+1. Login to the [license app](https://customers.gitlab.com/admin/).
 1. Click the green `New license` button on the right hand side.
 1. Fill out the fields using the below table:
 
