@@ -200,6 +200,20 @@ In order to retain historical campaign tracking data we will keep existing UTM s
 * utm_budget=dmp
 * utm_allptnr=aws
 
+### UTM structure for account based marketing
+{: #utms-account-based-marketing .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+ 
+* UTM Medium = `banner` 
+* UTM Source = `demandbase` 
+* UTM campaign = `campaign short hand` (the campaign that the content aligns to)
+  - Limited options; keep consistent with other channels.
+  - UTM content = `shorthand of content` (i.e. `20211028cicdworkshop`)
+  - Limited options; keep consistent with other channels.
+  - [See utm_content](/handbook/marketing/utm-strategy/#utm-content) for accepted options.
+  - Do not use `demandbase` for utm_content.
+* UTM GTM = `overarching GTM`
+
 ## Marketo > Bizible integration
 {: #marketo-bizible .gitlab-purple}
 
