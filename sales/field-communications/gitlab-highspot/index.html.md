@@ -12,22 +12,22 @@ description: "GitLab uses Highspot as its Sales Asset Management System. This pa
 
 ## Highspot at GitLab
 
-Highspot is... 
+Highspot is a sales enablement tool we use to gather, categorize, and share content within GitLab and externally to our customers.
 
-Add Highspot in Action video
+<!--Add Highspot in Action video<-->
 
 ### Why Highspot? 
 
 
-### Key Definitions
+### Key definitions
 
-1. Spots - 
-1. Lists - 
-1. Content Owners - 
+1. Spots - Spots are similar to a landing page. We use spots to provide quick access to specific content for a certain group or purpose.
+1. Lists - Lists work as filters, and make it easier to find the content you need.
+1. Content owners - Content owners are responsible for the management of content in Highspot, and can make high-level changes to the search structure as needed.
 
 ### Availability
 
-Highspot is currently available to select GitLab team members as a part of a pilot program that launched on 2021-11-15 and is running through the remainder of CY21. The tool will become generally available for all members of GitLab's go-to-market (GTM) organization in early CY22. 
+Highspot is currently available to select GitLab team members as part of a pilot program that launched on 2021-11-15, and runs through the remainder of CY21. The tool will become generally available for all members of GitLab's go-to-market (GTM) organization in early CY22. 
 
 Access to the tool is provisioned via SSO in Okta. To access Highspot, please navigate through the Highspot tile in your Okta dashboard.
 
@@ -39,7 +39,7 @@ Teams included in the GTM organization include:
 1. Field Operations 
 1. Revenue Marketing 
 1. Field Marketing
-1. Others? 
+<!--1. Others?<-->
 
 ### FAQs
 
@@ -55,13 +55,13 @@ All team members can upload content into their own personal spot, but this conte
 
 Please request access from the manager of Field Communications & Content. 
 
-## Highspot Content Owners
+## Highspot content owners
 
 
-### Adding/Managing Content in Highspot
+### Adding and managing content in Highspot
 Add Highspot help videos 
 
-### GitLab Highspot Best Practices
+### GitLab Highspot recommendations
 
 1. Including content in more than one spot 
 1. Content expiration 101
