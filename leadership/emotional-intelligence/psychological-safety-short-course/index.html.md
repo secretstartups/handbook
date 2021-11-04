@@ -13,11 +13,11 @@ title: Psychological Safety Short Course
 
 Welcome to Psychological Safety: Understanding, Empowerment & Self-Reflection
 
-This is a short course designed to help with your understanding of psychological safety, provide pragmatic steps to cultivate a culture of psychological safety within in your team and reflect on some of your behaviours that may appear psychologically safe or unsafe.
+This is a short course designed to help with your understanding of psychological safety, provide pragmatic steps to cultivate a culture of psychological safety within in your team, and reflect on some of your behaviours that may appear psychologically safe or unsafe.
 
-We are doing this to ensure we create an environment where everyone is able to thrive, be able to easily embody our values of Collaboration, Results, Efficiency, DIB, Iteration and Transparency and the sub values that accompany this. In this course you will see how certain actions can lead quickly to erosion of these values and the erosion of trust amongst team members.
+We are doing this to ensure we create an environment where everyone is able to thrive, as well as easily embody our values of Collaboration, Results, Efficiency, DIB, Iteration and Transparency and the sub values that accompany this. In this course you will see how certain actions can quickly lead to erosion of these values and the erosion of trust amongst team members.
 
-There are 2 ways to take the course. You can watch the [videos](https://gitlab.edcast.com/journey/psychological-safety-understanding-empowerment-and-self-r) on Edcast  or read the content, this is also best done on Edcast where you achieve your badge. You are free to view both of course but the content is duplicated across the two mediums. 
+There are 2 ways to take the course. You can watch the [videos](https://gitlab.edcast.com/journey/psychological-safety-understanding-empowerment-and-self-r) on Edcast or read the content. If you choose to read the content, this is best done on Edcast where you achieve your badge. You are free to view both, of course, but the content is duplicated across the two mediums. 
 
 ## Introduction to Psychological Safety 
 
@@ -25,21 +25,17 @@ There are 2 ways to take the course. You can watch the [videos](https://gitlab.e
 
 2. **Welcome to Psychological Safety: Understanding, Empowerment & Self-Reflection**
 
-This is a short course designed to help with your understanding of psychological safety, provide pragmatic steps to cultivate a culture of psychological safety within your team and reflect on some of your behaviours that may appear psychologically safe or unsafe.
+### First, what is psychological safety?
 
-We are doing this to ensure we create an environment where everyone is able to thrive, be able to easily embody our values of Collaboration, Results, Efficiency, DIB, Iteration and Transparency and the sub values that accompany this. In this course you will see how certain actions can lead quickly to erosion of these values and the erosion of trust amongst team members.
-
-**Firstly what is psychological safety?**
-
-- This was defined by Amy Edmundson as a “shared belief held by members of a team that the team is safe for interpersonal risk taking”. It's not about being warm and fuzzy and sharing your feelings. It's about being comfortable admitting when you are wrong or have made a mistake as well as challenging each other for the better. You can view a great video of Susan David explaining this further in the handbook, in the first smartcard. 
+- This was defined by Amy Edmundson as a “shared belief held by members of a team that the team is safe for interpersonal risk taking”. It's not about being warm and fuzzy and sharing your feelings. It's about being comfortable admitting when you are wrong or have made a mistake as well as challenging each other for the better. You can view a great video of Susan David explaining this further in the handbook. 
 
 - Here is an illustration of what a psychologically safe team and what a psychologically unsafe team would look like.
 
 [Psychological Fear and Psychological Safe](https://docs.google.com/presentation/d/18kMSpBQBbJ0qvpviYxfegwP7_UXEG0zjMX3E_51srHY/edit#slide=id.g8c87dcb54b_0_0)
 
-As you can see, the opportunity to live our values in the red zone is very difficult. Collaboration, Iteration, Transparency, Diversity of thought would disappear which will ultimately lead to poor results. We want to ensure we creating that green environment where everyone is giving the freedom to thrive at GitLab.
+As you can see, the opportunity to live our values in the red zone is very difficult. Collaboration, Iteration, Transparency, and Diversity of thought would disappear. This will ultimately lead to poor results. We want to ensure we are creating the green environment where everyone is given the freedom to thrive at GitLab.
 
-- Creating a Psychological safe environment is much harder in a diverse group of people. The risks to psychological safety is much higher, therefore we have to operate with a much higher intent and work together and separately to learn and grow our ability to cultivate these environments.
+- Creating a Psychological safe environment is much harder in a diverse group of people. The risks to psychological safety is much higher, therefore we have to operate with a much higher intent and work together, as well as individually, to learn and grow our ability to cultivate these environments.
 
 - Cultivating these environments is an on-going process as team members leave and new ones start. You need to always be operating with psychological safety intent.
 
@@ -65,7 +61,7 @@ These three great practices will help you really make that push into ensuring th
 
 2. **Operate with a high intent** - We assume positive intent and on most occasions when mistakes are made where this is not the intent. A way to avoid these mistakes is to operate with higher intent.
 
-Higher intent is the practice of recognizing, reevaluating and reiterating on inclusive practices.
+Higher intent is the practice of recognizing, reevaluating, and reiterating on inclusive practices.
 
 For example, you are an extrovert and enjoy participating in conversations in meetings, but you recognise that you are not the only voice in the meeting and some haven’t been heard. You use your confidence to encourage and provide space for other ideas.
 
@@ -93,56 +89,33 @@ We have our values' sub value of Disagree, Commit, Disagree - to help embrace th
 
 It allows us to have those conversations that spark creativity, iterations and gather viewpoints that we may have missed. With our value ensuring that we still progress and move forward.
 
+- **Encourage and Share personal stories:** This is a great way of ensuring that as team members we build relationships and, ultimately, trust at work. Coffee chats are a great avenue for this so that you are more comfortable bringing up pertinent issues.
 
-- Encourage and Share personal stories
+- **Practice self-reflection:** We will have a task later in the course to help you practice this, but it is important that you are evaluating how you react and engage in conversations at work under different stress responses.
 
-This is a great way of ensuring that as team members we build relationships and, ultimately, trust at work. Coffee chats are a great avenue for this so that you are more comfortable bringing up pertinent issues.
+- **Allow for experimentation and failure:** Again, this is something that sparks creativity and allows some freedom for projects to not workout, provide space for our iteration and efficiency value to prosper. We don't want to be stuck in "we have always done it this way."
 
-- Practice self-reflection
+- **Build a culture of curiosity:** Ask questions not only about people's lives as above about sharing personal stories. Be genuinely curious about processes, practices, products and other things at work. Be curious and respectful.
 
-We will have a task later in the course to help you practice this, but it is important that you are evaluating how you react and engage in conversations at work under different stress responses.
+- **Be open to feedback:** Always be open to both good and constructive feedback. Receiving constructive feedback should not be psychologically unsafe. Leaders, ensure you understand how to give feedback effectively but also how a team member likes to receive constructive feedback.
 
-- Allow for experimentation and failure
- 
-Again, this is something that sparks creativity and allows some freedom for projects to not workout, provide space for our iteration and efficiency value to prosper. We don't want to be stuck in "we have always done it this way."
+- **Encourage creative collaboration and collaborative learning:** Collaboration is a core value here and we encourage learning. Allow for these things to happen together. For example, someone in your team may have a unique skill. Ask if it is possible for other team members to shadow them performing that skill.
 
-- Build a culture of curiosity
-
-Ask questions not only about people's lives as above about sharing personal stories. Be genuinely curious about processes, practices, products and other things at work. Be curious and respectful.
-
-- Be open to feedback
-
-Always be open to both good and constructive feedback. Receiving constructive feedback should not be psychologically unsafe. Leaders, ensure you understand how to give feedback effectively but also how a team member likes to receive constructive feedback.
-
-- Encourage creative collaboration and collaborative learning
-
-Collaboration is a core value here and we encourage learning. Allow for these things to happen together. For example, someone in your team may have a unique skill. Ask if it is possible for other team members to shadow them performing that skill.
-
-- Seek diverse perspectives
- 
-Ask team members from underrepresented groups to avoid confirmation bias. It is so important that a diverse set of voices are considered in our day to day work so actively seek those voices.
+- **Seek diverse perspectives:** Ask team members from underrepresented groups to avoid confirmation bias. It is so important that a diverse set of voices are considered in our day to day work so actively seek those voices.
 
 ### Nurturing Psychological Safety for Leaders
 
 These are specific practices and actions for leaders and future leaders. Whilst nurturing and cultivating psychological safety is everyone's job, leaders are in a unique position to have a disproportionate effect on this.
 
-- Foster a pro diversity mindset and build diverse teams
+- **Foster a pro diversity mindset and build diverse teams:** Try not to build teams where all members look and act the same. Leverage your power to hire and promote URGs, regions and skills whilst still ensuring this is based on merit.
 
-Try not to build teams where all members look and act the same. Leverage your power to hire and promote URGs, regions and skills whilst still ensuring this is based on merit.
+- **Highlight competencies of team members:** Much like collaborative learning, ensure you are letting team members know who subject matter experts may be within the team, one so people can learn but also help elevate voices on certain issues. Get to know your team members.
 
-- Highlight competencies of team members
- 
-Much like collaborative learning, ensure you are letting team members know who subject matter experts may be within the team, one so people can learn but also help elevate voices on certain issues. Get to know your team members.
+- **Try to remove biases such as contrast and compare:** Each team member is unique and was hired based on their strengths, try to avoid that contrast and compare when evaluating performance etc.
 
-- Try to remove biases such as contrast and compare
+- **Participative management:** Try to dismantle perceptions of hierarchy by ensuring you are part of the team and not just the leader of the team.
 
-Each team member is unique and was hired based on their strengths, try to avoid that contrast and compare when evaluating performance etc.
-
-- Participative management
-
-Try to dismantle perceptions of hierarchy by ensuring you are part of the team and not just the leader of the team.
-
-- Avoid blame & keep negative feedback in 1-1
+- **Avoid blame & keep negative feedback in 1-1**
 
 ## Self Reflection Exercise 
 
@@ -184,6 +157,3 @@ Try to dismantle perceptions of hierarchy by ensuring you are part of the team a
 ## Scenarios & Quiz
 
 [You can view scenarios here](https://docs.google.com/presentation/d/1T9VEOGl0ppfwKhp9_9ikoGdDiC3UTEoZElK9SdRsfWg/edit#slide=id.g29a70c6c35_0_68) and take the quiz via Edcast 
-
-
-
