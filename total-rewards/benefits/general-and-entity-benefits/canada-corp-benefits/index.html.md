@@ -519,7 +519,7 @@ Please see the [administration guide](https://drive.google.com/drive/u/0/folders
 
 ## Administrative Processes 
 
-**Adding a Beneficiary Designation to Collage:** 
+**Adding New Dependents and Beneficiary Designation to Collage:** 
 1. Login to [Collage](https://secure.collage.co/)
 2. Top right corner, where your initials are – click on initials
 3. Click on “Your Profile”
