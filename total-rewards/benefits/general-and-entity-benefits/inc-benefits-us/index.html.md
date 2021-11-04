@@ -511,6 +511,10 @@ FSAs (and Dependent Care FSAs) are subject to annual testing by the Internal Rev
 ##### FSA Period to Submit Claims
  
 Up to 90 days after the plan year has concluded (also known as the runout period).
+
+##### 2021 FSA Rollover & DCFSA Extended Grace Period
+
+Due to the Consolidated Appropriations Act, the IRS is allowing for unlimited carryover of FSA funds from 2021 to 2022 and an extended grace period of 12 months to utilize Dependent Care FSA funds from 2021 on expenses incurred in 2022. GitLab has opted into this with our vendor, WEX, to allow team members to take advantage of this and no action is required from team members. 
  
 #### Commuter Benefits
  
