@@ -1,5 +1,15 @@
+---
+layout: handbook-page-toc
+title: SA Manager Operating Rhythm 
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+
 
 View the [SA Handbook homepage](/handbook/customer-success/solutions-architects/) for additional SA-related handbook pages.
 
