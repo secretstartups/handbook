@@ -272,6 +272,7 @@ It is **absolutely essential** that managers complete the required pre-work to e
   <iframe src="https://www.youtube.com/embed/siI3wRtQYQA" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+
 ### Calibration Session
 
 The calibration session is one of the most important pieces of the Performance/Growth Matrix process, as it provides time for managers, their peers, and their manager to calibrate. Below are a few communication guidelines to ensure efficiency and fairness during the calibration session discussion. 
@@ -401,8 +402,6 @@ The cut-off date to determine whether to assess team members at the pre-promotio
 It is important to note that because being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase therefore a **promotion "resets" the performance factor evaluation**. 
 
 
-
-
 ## Best Practices for Communicating Performance/Growth Factors
 
 After calibration sessions are done and performance and growth factors are determined, it’s time to communicate the final results with team members (after you have been notified that they have been approved by the E-Group). **Please refrain from communicating Performance factors until approval through the E-group level is communicated.** Having an extensive conversation on performance and growth with your team members is a great way to set them up for success going forward. We also want to take the opportunity to give them a perspective on their career development. Below we will take you through some of the best practices, but remember, if you are even in doubt please reach out to your manager or [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) for support. 
@@ -423,16 +422,83 @@ _To help facilitate the conversations we have put together a [Talent Assessment 
 
 1. **Avoid making future promises** like, “In the next review, I will rate you X performance/growth factor.”
 
-### Sample Script for Delivering a Performance Review
-"Thank you for taking some time today to discuss your performance. I wanted to discuss your achievements and strengths, improvement areas, future development, and the final result of the performance assessment." 
+### Manager Scenarios - Performance & Growth 
+
+**My team member is on a leave (protected leave or PTO) during the Talent Assessment period. How should I handle communication of their assessment?**
+
+If they will be returning from leave before the due date to communicate [Talent Assessment results](/handbook/people-group/talent-assessment/#timeline), please wait until their return from leave to communicate their assessment. If they are returning from leave after the due date to communicate Talent Assessment results, you may email them to offer to discuss their assessment. If they do not reply or prefer to wait until their return, please respect that choice.
+
+
+**My team member was on protected leave for a large portion of the Talent Assessment period. How should I factor this in when assessing them?**
+
+It’s important to ensure you are assessing the team member's performance for their contributions while working during the assessment time period. There should be no adverse impact on their overall assessment due to being on leave for a portion of the period. During calibration, please remain vigilant to ensure no private details related to their time away are disclosed. Please reach out to your PBP to discuss the specific details related to your team member. 
+
+
+**My team member was assessed as key talent last year, and is not for this assessment period. How should I handle communication with them?**
+
+There is no guarantee that team members will retain their key talent assessment each assessment period. Make sure to explain the reasons why their key talent assessment has changed, including how we assess Key Talent and the [definition outlined in the Handbook](/handbook/people-group/talent-assessment/#key-talent).
+Remember to end the conversation by discussing what your expectations are of key talent going forward. It’s important not to make promises about future assessments, but to focus on what makes a team member critical to the business, and how you, their manager, will support them.
+
+**My team member was exceeding performance last assessment, and is not for this period. How should I communicate this change?**
+
+It’s important to take a look at what may have changed since last year. Is your team member in a new role? On a new team? Did they take on bigger stretch assignments? 
+Any of these factors can influence a team member’s performance. Be prepared with specific examples to share which support your performance assessment. The feedback conversation should also focus on what success looks like for the team member in the year to come and how you, as the manager, can support them with their goals. 
+
+**I have just adopted a new team, and the previous manager is no longer at GitLab. How can I assess the performance of my team fairly?** 
+
+You may be able to gather insights from your manager or cross functional stakeholders who have worked closely with the team member in the performance period. You may have access to the recent 360 feedback for each of your team members, as well as their talent assessment from last year to help inform your thinking. If you haven’t already, it’s important to ask the team member to share their own perspective on their accomplishments prior to you taking the role, so you are well prepared for the discussion of your assessment. 
+
+**My team member does not agree with their placement in performance and growth. How should I approach this?** 
+
+Remember that this conversation will be most effective if you are well prepared. If you haven’t yet, take an opportunity before the performance and growth conversation to understand their own assessment of their results.
+During the performance and growth conversation, provide the opportunity for a dialogue with your team member. Remain open and curious about their perspective. Engage in active listening, ensuring that you aren’t planning your counterpoints while they are sharing. The expectation is not that the results will necessarily change but the insights they provide may shape how you both think about their growth and development path. 
+If you feel a conversation might be particularly challenging, you may reach out to the TMR team or your PBP to role play the discussion and ensure you are prepared.
+
+**My team member is exceeding growth expectations, how should I be thinking about their ongoing development?** 
+
+Great! At GitLab team members have the opportunity to own their own development, and deserve a great manager (you) to facilitate it. Ask your team member to articulate where they would like to see their skills and career develop. You may have insights that help them refine those goals based on where you see the business going, as they will be most successful in gaining the experience they’re looking for if there are opportunities to align those goals with business goals. 
+Using the [70-20-10 model for learning](/handbook/people-group/learning-and-development/#70-20-10-model-for-learning-and-development), help your team member identify experiential and formal learning opportunities, and consider connections you can facilitate that will support their growth.
+The [Career Development handbook page](/handbook/people-group/learning-and-development/career-development/) has more ideas to help your team member craft a growth plan, including information on GitLab’s [Growth and Development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/).
+
+**In some divisions, we didn’t communicate Growth last year. How should we be communicating this?** 
+
+First, ensure the team member understands what we mean when we say we are assessing Growth, including the [4 pillars](/handbook/people-group/talent-assessment/#what-is-growth) that you considered when making the assessment. Be prepared with specifics that led to your evaluation.
+Remember, Growth can change over time as team members are promoted, develop new interests, as new opportunities for growth arise, and as team members continue to broaden their knowledge, skills, and abilities. Avoid making promises, but if your team member sees themselves in a higher position, help them understand behaviors you expect to be able to assess them differently next time.
+
+**I received unexpected feedback about my team member from a crossfuntional stakeholder in my calibration session. What should I do?**
+
+If you receive unexpected feedback during the calibration, ensure you really understand what happened, and what has been discussed with your team member so far. If someone has tried to help this team member in the past, how did it go? Can your peer provide specifics to help you understand the impact of the behaviors? Talk to your peer about the importance of using this feedback to help your team member grow, and make sure you have agreement on how you plan to deliver this message. 
+During the discussion with your team member, be prepared to gain their perspective on the situation first. Listen actively and consider their point of view. When delivering the message, consider the root cause, focus on impact and alignment with our values, and end with a discussion on future actions that would be more successful. 
+If and when appropriate, check in with your peer on how improvements are going. Be sure to stay close to the situation so you are in a position to deliver more timely feedback if the behavior is ongoing. 
+
+**How do I assess team members in acting or interim roles?**
+
+For team members who have assumed an [Acting or an Interim role](/handbook/people-group/promotions-transfers/#interim-and-acting-roles), we will assess team members aligned with their *permanent positions* (I.E. not the Acting or Interim position). 
+As the Talent Assessment impacts compensation, and Acting/Interim periods are not permanent, in the instance that a team member does not end up moving into the Acting/Interim role permanently, we would not want to have their compensation impacted by a temporary position.
+
+**My team member is performing at a high level in terms of results, but they struggle with behavioral alignment to one or more of our values. How do I take the “how” into account when I am assessing their performance and growth?** 
+
+Review the handbook content on how we [measure Performance](/handbook/people-group/talent-assessment/#measuring-performance) and how we [measure Growth](/handbook/people-group/talent-assessment/#measuring-growth). When a high output/results-oriented team member is struggling with soft skills and/or behavior, this is oftentimes related to improvement areas in terms of alignment to our [values competencies](/handbook/people-group/talent-assessment/#gitlab-competencies), and/or our [Growth pillars](/handbook/people-group/talent-assessment/#measuring-growth) (particularly, but not limited to, Self-Awareness). Considering our measurement guidelines for Performance and Growth holistically, and be sure that your assessment takes all of our competencies, job family responsibilities, and pillars into account. 
+
+**My team member has the skills to perform, but there are [will-based performance issues](/handbook/leadership/underperformance/#will-based-performance) that are impacting their ability or the team’s ability to succeed. How should I think about this in terms of assessing their performance?**
+
+First, act early. Do not wait for a formal performance and growth assessment conversation to deliver feedback about your concerns. Be specific, and document your conversation. Loop in a TMR specialist for support as these conversations can be challenging. 
+Review the definition of “Developing” performance. Note that one criteria that applies to this category is a team member who is struggling to perform in a way that is aligned to our values and competencies. Think about the specific behaviors or impacts of their work or how they are working that have led you to assess that they are not fully engaged. Despite having the skills, if your team member is not contributing at the level they are expected to be, you should consider that a performance issue in the way you would a skill based performance issue. Keep in mind that not addressing these challenges may be affecting your other team members, especially those who may be picking up the slack. We encourage to review the handbook page on [Underperformanece](/handbook/leadership/underperformance/#talent-assessment-and-managing-underperformance).
+
+
+### Sample Script for Delivering a Talent Assessment
+
+The script below is intended to help you structure your Performance and Growth conversation. Personalizing this conversation to reflect your authentic tone will make this a more effective conversation with your team member. 
+ 
+"Thank you for taking some time today to discuss your Performance and Growth. I wanted to discuss your achievements and strengths, improvement areas, future development, and the final result of the talent assessment." 
 
 "I assessed your performance factor as ****[Insert Performance factor]***:"
-* ***Exceeding (consistently surpassing the demands of their current position)***
-* ***Performing (“on track” and meeting all expectations of current position)***
-* ***Developing (room to learn and grow, not currently meeting all expectations of current position)***
+* ***Exceeding*** (consistently surpassing the demands of their current position)
+* ***Performing*** (“on track” and meeting all expectations of current position)
+* ***Developing*** (room to learn and grow, not currently meeting all expectations of current position)
 
 "I assessed your performance as ***[Insert Performance Factor]*** because:"
-*  I rated your performance against your job responsibilities as ***[Insert Performance Factor]***.
+*  I assessed your performance against your job responsibilities as ***[Insert Performance Factor]***.
     * Your strengths in your job responsibilities are [Insert strengths with supporting examples]
     * Your opportunities in your job responsibilities are [Insert opportunities with supporting examples]
 
@@ -440,7 +506,16 @@ _To help facilitate the conversations we have put together a [Talent Assessment 
     * Your strengths in aligned competencies are [Insert strengths with supporting examples]
     * Your opportunities in aligned competencies are [Insert opportunities with supporting examples]
 
-Your overall performance is ***[Insert Performance Factor]***. 
+"I assessed your growth factor as ****[Insert Growth factor]***:"
+* ***Exceeding*** (ready to take on more responsibilities within the next year (or when an opportunity arises))
+* ***Growing*** (growing in current role, demonstrating interest in advancing (up or laterally) and they exhibit knowledge, skills, and abilities that indicate this.)
+* ***Developing*** (not working at full growth against the roles and responsibilities)
+
+"I assessed your growth as ***[Insert Growth Factor]*** because:"
+*  I assessed your growth against the four pillars of growth as ***[Insert Growth Factor]***.
+    * You have shown X, Y, Z [Insert strengths with supporting examples]
+    * Your opportunities to further grow in your role are X, Y, Z are [Insert opportunities with supporting examples]
+
 I'd like to thank you for your hard work, and I look forward to continuing to work together! Do you you have any questions? ***[Allow team member to ask questions and respond]*** 
 As a next step, let's schedule some time to talk more about what you want to do in the future and create a career development plan together. 
 
