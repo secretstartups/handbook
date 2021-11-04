@@ -25,11 +25,10 @@ title: Professional Services
 ## How Do I Submit a Request for Professional Services/Contractor?
 - Once you've chosen your vendor and have followed the Bid Requirements per above, follow these instructions:
 1. [Login to Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
-1. Go to "Forms" in the upper right of your screen.
-    - If this is a new supplier, select "New Supplier Request" form and complete the required fields. Click "Review".
+1. Select your supplier
+    - If this is a **new supplier**, go to "Forms" in the upper right of your screen, and select "New Supplier Request" form and complete the required fields. Click "Review".
         - Allow 1-2 business days for processing new supplier.
-        - If this is an existing supplier, skip this step.
-1. If this is an existing supplier (or once your new supplier is in the system) select "Professional Services Request" Form
+    - If this is an **existing supplier** (or once your new supplier is active in Coupa) select "Professional Services Request" Form.
 1. Enter the required Fields and "Add to Cart"
 1. Click on your Cart in the upper right, complete remaining fields. Be prepared to include the following:
     - Whether or not the vendor will have access to [red and/or orange data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-levels) 
@@ -41,11 +40,12 @@ title: Professional Services
 1. If the answer to any of the questions requires additional review from the GitLab legal team, Procurement will add Labor Law Attorney to the approval flow.
 
 ## What Happens after I submit my Request?
-- The Coupa Req will appear as "Pending Buyer Action", this means it is under review from the procurement team. 
+    - The Coupa Req will appear as "Pending Buyer Action", this means it is under review from the procurement team. 
     - If the contract requires negotiation, the req will stay in “Pending Buyer Action” status and a "Negotiation" Label will be added to the Coupa Req. 
         - Within 1-2 business days a member of the procurement team will either reach out a-sync, and/or schedule a meeting to review depending on the complexity.
-    - If your contract does not require negotiation, the Procurement team will review for accuracy and if questions will ping you directly in the Coupa request.
-- Once neotiation is completed and/or it is determined that negotiation is not needed, your purchase request will be approved by procurement and will advance to the next approver, which is typically fp&a. 
+    - If your contract does not require negotiation, the Procurement team will review and ping you directly in the Coupa request.
+    - If the anwser is "yes" to any of the required fields in the intake form, procurement will manually add employment law attorney to the Coupa review flow for approval.
+    - Once neotiation is completed and/or it is determined that negotiation is not needed, your purchase request will be approved by procurement and will advance to the next approver, which is typically fp&a. 
 
 ## How Long Does it take to get my contract reviewed and approved?
 - Contracts greater than $25K are typically negotiated by the procurement team, unless you've already done so.
