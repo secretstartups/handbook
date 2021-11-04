@@ -59,8 +59,18 @@ The below table shares some key metrics, with our current SSoT source, filters t
 | Velocity by segment/region | DG Dash | Notes |
 | Cost-per by segment/region | DG Dash | [Jump to details on filters and calculation](/handbook/marketing/demand-generation/#cost-per) |
 | Pipeline coverage | [Pipeline X-Ray](https://docs.google.com/spreadsheets/d/1B4M60jehG4lfxoHgZeUCXRw9HUECFZarkKvFAvBwrR8/edit#gid=395575352) | Breaks out by segment and New FO/Growth |
-| SDR SAOs by segment/region | TD: Marketing Metrics Dash | Notes |
+| SDR SAOs by segment/region | TD: Marketing Metrics Dash | This CAN be filtered down to segment/region - details below |
 | INQ > SAO conversion rate by segment | TD: Marketing Metrics Dash | Need to confirm if this is accurate by region |
+
+#### SSoT for SDR SAOs
+{: #ssot-sdr-saos}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+[TD: Marketing Metrics](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics)
+
+To get data by region:
+* Select `User_Region_Name` for the region (i.e. east/west)
+* The `User_Territory` will then populate with the next level down of data
 
 #### Cost-per by segment/region
 {: #cost-per}
