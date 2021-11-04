@@ -13,30 +13,29 @@ description: "Overview of the Corporate Communication Policy at GitLab."
 
 We encourage Team Members to be champions on behalf of GitLab Inc. (the “**_Company_**”), especially as you communicate with the outside world. The opportunities for the Company to communicate information to the world are evolving - and each Team Member is viewed by our customers, partners, stockholders and other outside parties as a potential representative of the Company. Whether or not you specifically reference or discuss your work, the things you say publicly are a reflection on the Company.
 
-As a public company, we are committed to providing all legally required disclosures on a timely basis to our stockholders, the public and regulatory agencies, and, at our discretion, may provide other meaningful and relevant information to our stockholders, potential investors and securities market professionals (such as investment analysts), as well as to the press and the general public.  As part of this commitment, and in order to comply with applicable laws, the rules of the U.S. Securities and Exchange Commission (“**_SEC_**”) and the rules, regulations and listing requirements of the stock exchange upon which our securities are listed for trading, we have adopted this Corporate Communications Policy (“**_Policy_**”).
+As a public company, we are committed to providing all legally required disclosures on a timely basis to our stockholders, the public and regulatory agencies, and, at our discretion, may provide other meaningful and relevant information to our stockholders, potential investors and securities market professionals (such as investment analysts), as well as to the press and the general public.  As part of this commitment, and in order to comply with applicable laws, the rules of the U.S. Securities and Exchange Commission (“**_SEC_**”) and the rules, regulations and listing requirements of the stock exchange upon which our securities are listed for trading, we have adopted this Corporate Communications Policy ("**_Policy_**”).
 
 If you need help understanding this Policy, or how it applies in any given situation, please contact your supervisor or our Legal and Compliance Team, at #compliance-legal.
 
-
 ### PERSONS COVERED BY THIS POLICY
 
-All employees, officers, contractors, consultants and members of the Company’s board of directors (the “**_Board_**” and collectively “**_Team Members_**”) are required to read and comply with this Policy.
+All employees, officers, contractors, consultants and members of the Company’s board of directors (the “**_Board_**" and collectively “**_Team Members_**”) are required to read and comply with this Policy.
 
 ### ONLY OUR KEY SPOKESPERSONS MAY SPEAK FOR THE COMPANY
 
-One of the ways we can ensure that we are abiding by the rules and regulations for communicating information about the Company to the public is to designate certain key people to speak publicly on behalf of the Company.  Our key spokespersons will be our Chief Executive Officer, members of the Company’s Board , our Chief Financial Officer and the head of the investor relations team. If needed, our key spokespersons may designate others within our Company to provide information on behalf of the Company or to respond to specific inquiries.
+One of the ways we can ensure that we are abiding by the rules and regulations for communicating information about the Company to the public is to designate certain key people to speak publicly on behalf of the Company.  Our key spokespersons will be our Chief Executive Officer, members of the Company’s Board, our Chief Financial Officer and the head of the investor relations team. If needed, our key spokespersons may designate others within our Company to provide information on behalf of the Company or to respond to specific inquiries.
 
 Only these key spokespersons, and any spokespersons explicitly designated as such, are authorized to make public disclosures of “_material non-public information_” about the Company that are reasonably expected to reach current or potential investors, the investment community, securities market professionals such as financial analysts, or the financial press - whether in the form of press releases, letters to stockholders, speeches, interviews, website posts, blogs, social media or other forms of communications.
 
 
 #### WHAT IS MATERIAL NON-PUBLIC INFORMATION?
 
-For a definition of “material non-public information,” please see the Company’s Insider Trading Policy.
+For a definition of “material non-public information,” please see the Company’s [Insider Trading Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk).
 
 
 #### YOUR COMMUNICATIONS ABOUT THE COMPANY
 
-As part of your position at the Company, you may communicate with our customers, vendors, suppliers, partners or other third parties.  It is important for you to understand your responsibility to avoid commenting on sensitive business matters and to avoid making any unauthorized disclosure of material non-public information. Please also review our Insider Trading Policy for additional information.
+As part of your position at the Company, you may communicate with our customers, vendors, suppliers, partners or other third parties.  It is important for you to understand your responsibility to avoid commenting on sensitive business matters and to avoid making any unauthorized disclosure of material non-public information. Please also review our [Insider Trading Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) for additional information.
 
 **Press**
 
@@ -58,7 +57,7 @@ Presentations to forums such as industry trade shows and other marketing and bus
 
 **Online Forums**
 
-Except as approved by our Legal Team, or as specifically required by your job description, you may not respond to comments, rumors or discussions or otherwise participate in Internet “chat” rooms, blogs, message boards, social media sites or other similar online forums on behalf of the Company.   You may not participate, in any manner other than passive observation, in any investment or stock-related online forums relating to the Company without the prior written approval of our legal department.
+Except as approved by our Legal Team, or as specifically required by your job description, you may not respond to comments, rumors or discussions or otherwise participate in Internet “chat” rooms, blogs, message boards, social media sites or other similar online forums on behalf of the Company.   You may not participate, in any manner other than passive observation, in any investment or stock-related online forums relating to the Company without the prior written approval of our Legal Team.
 
 ### HOW WE COMMUNICATE WITH INVESTORS
 
@@ -90,7 +89,7 @@ The Company may, in its discretion, provide information to the public about its 
 
 **Investment Analyst Reports**
 
-The Company will not review investment analyst reports except, in its discretion, to correct factual errors pertaining to historical information.  Any such review will be the responsibility of the investor relations team.  Whenever it reviews an investment analyst report, investor relations will inform the analyst in writing** **that the report has been reviewed for factual errors pertaining to historical information only and that the Company does not accept, adopt or in any way comment on the premises, assumptions, analysis, financial models or conclusions contained in such report. The Company will not distribute investment analyst reports to third parties without the prior approval of the Company’s Legal Team and Investor Relations Team nor will the Company provide hyperlinks to investment analyst reports.
+The Company will not review investment analyst reports except, in its discretion, to correct factual errors pertaining to historical information.  Any such review will be the responsibility of the investor relations team.  Whenever it reviews an investment analyst report, investor relations will inform the analyst in writing that the report has been reviewed for factual errors pertaining to historical information only and that the Company does not accept, adopt or in any way comment on the premises, assumptions, analysis, financial models or conclusions contained in such report. The Company will not distribute investment analyst reports to third parties without the prior approval of the Company’s Legal Team and Investor Relations Team nor will the Company provide hyperlinks to investment analyst reports.
 
 **Investor Conferences**
 
@@ -106,7 +105,7 @@ Generally, we will not confirm or deny rumors or market speculation about the Co
 
 ### VIOLATIONS OF THIS POLICY HAVE MEANINGFUL CONSEQUENCES: DON’T HESITATE TO REPORT
 
-Any violations of this Policy must be** **brought to the attention of our Chief Legal Officer as quickly as possible. If you want to submit a concern or complaint regarding a possible violation of this Policy anonymously, you should follow the procedures outlined in our Whistleblower Policy. If necessary, our Chief Legal Officer will bring such reports to the attention of our Audit Committee. Anyone who violates this Policy may be subject to disciplinary measures, which may include termination of employment.
+Any violations of this Policy must be brought to the attention of our Chief Legal Officer as quickly as possible. If you want to submit a concern or complaint regarding a possible violation of this Policy anonymously, you should follow the procedures outlined in our Whistleblower Policy. If necessary, our Chief Legal Officer will bring such reports to the attention of our Audit Committee. Anyone who violates this Policy may be subject to disciplinary measures, which may include termination of employment.
 
 
 ### CHANGES TO THIS POLICY
