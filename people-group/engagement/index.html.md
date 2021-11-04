@@ -14,14 +14,14 @@ description: "GitLab uses engagement surveys to allow team members to provide fe
 
 Team Member Engagement is important to the continued success of GitLab making the Engagement Survey an important element within the annual `People Group` calendar.  Engagement strategies have been shown to reduce attrition; improve productivity and efficiency; further embed the company values and ultimately enhance role satisfaction.  
 
-Engagement Surveys are administered by [CultureAmp](https://www.cultureamp.com/) and facilitated by our team of [People Operations Specialists](https://about.gitlab.com/job-families/people-ops/people-operations/#people-operations-specialist) as DRIs for the launch and tooling, and our [People Business Partners](/handbook/people-group/#people-business-partner-alignment-to-division) as the DRIs for survey strategy.
+We partner with [CultureAmp](https://www.cultureamp.com/) to run our Engagement Surveys. CultureAmp provides a platform to gather feedback confidentially, benchmark against external comparables, and uses algorithms to highlight which areas matter most to our team members.  
 
 Engagement surveys are geared toward giving team members an opportunity to provide feedback in terms of their experience within GitLab touching on pertinent elements such as `Company Culture`, `Teamwork`, `Management` and `Wellbeing` among others.  
 
 Feedback from the survey in turn allows Leadership within GitLab to gain insight into what is most important to team members, in particular what the business is doing well and what may need future iteration with the intention of improving the underlying team member experience and ensuring healthy levels of attrition are maintained.
 
 #### Survey Confidentiality 
-In an effort to ensure team member confidentiality is upheld, only managers with >5 respondents will be able to view quantitavive results - this is carried across to demographic filtering in teams with population sizes which exceed the minimum too. The survey is wholly administered by Culture Amp on a secure external website and the survey data will not be stored on any local computer. If you'd like to know more, check out CultureAmp's [FAQ guide](https://support.cultureamp.com/hc/en-us/articles/204529829-Survey-participant-FAQs).
+In an effort to ensure team member confidentiality is upheld, only managers with >5 respondents will be able to view quantitative results - this is carried across to demographic filtering in teams with population sizes which exceed the minimum too. The survey is wholly administered by Culture Amp on a secure external website and the survey data will not be stored on any local computer. If you'd like to know more, check out CultureAmp's [FAQ guide](https://support.cultureamp.com/hc/en-us/articles/204529829-Survey-participant-FAQs).
 
 
 #### Survey Sections and Factors
@@ -43,10 +43,9 @@ The survey factors for FY19 through FY21 were as follows with each section inclu
 ### FY'22 Pulse Engagement Survey 
 
 
-
 #### How We Determine "Pulse" Survey Questions
 
-In FY'22 Q4 we launched our first "pulse" survey. To determine these questions we leveraged a combination of Culture Amp's "impact" feature + recommended focus areas + key themes related to the [Great Resignation](https://www.cultureamp.com/blog/the-great-resignation-turnover) (according to Culture Amp’s People Scientist team)s to determine which rating questions to include in the pulse survey.
+In FY'22 Q4 we launched our first "pulse" survey. To determine these questions we leveraged a combination of Culture Amp's "impact" feature + recommended focus areas + key themes related to the [Great Resignation](https://www.cultureamp.com/blog/the-great-resignation-turnover) (according to Culture Amp’s People Scientist teams) to determine which rating questions to include in the pulse survey.
 
 Per CultureAmp’s insights related to the Great Resignation, we added questions related to:
 - Focus on “Your Manager” (feedback from Manager, and overall manager performance)
@@ -89,21 +88,6 @@ Once the GitLab Team Member Engagement Survey has been closed out, reports will 
 
 [Take Action with Action Framework](https://academy.cultureamp.com/hc/en-us/articles/115005387945-Take-action-with-action-framework)
 
-## People Operations Procedures 
-
-### How to add sub-departments or other demographics not found in BambooHR
-
-1. Open CultureAmp > Settings > Data Intergrations 
-1. Select the blue `Sync Data` button 
-1. Select Partial Upload
-1. Click on Export Users > Export 
-1. Update the information on the spreadsheet
-1. Upload the spreadsheet into CultureAmp 
-1. Select Next (bottom right corner)
-   -  If you select Sync it will only Sync with BambooHR, regardless if you uploaded a file. 
-1. Select Import Data 
-
-You have now updated a demographic in CultureAmp! 
 
 ## Previous Engagement Survey Results 
 
@@ -111,15 +95,6 @@ You have now updated a demographic in CultureAmp!
 The GitLab Team Member Engagement Survey for 2020 (FY21) ran from 2020-11-16 to 2020-12-15 - questions and fine details can be found in the [following planning issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/931).
 
 Bar those who joined on or after 2020-11-01 the survey was extended to all GitLab Team members for completion.  Participation for the FY21 survey closed out at 92% with 1,127 team members having taken part.
-
-#### FY' 21 Engagement Survey Program Timeline
-- 2020-11-16 Launch Date
-- 2020-12-16 Close Date
-- 2020-12-23 High Level Summary Release (Company-Wide)
-- 2021-01-08 E-Group Summary Release
-- 2021-01-12 Training Video and Handbook Update
-- 2021-01-15 to 2021-01-31 Functional Group Action Planning re Focus Areas
-- 2021-02-26 Functional Action Plans added to FY21 Q1 OKRs and CultureAmp Action Planning Module added by E-Group leader and managers
 
 
 #### Benchmarking and Reporting
@@ -288,4 +263,18 @@ GitLab scored 12% below the industry benchmark i.e. 2018 New Tech Size - Large C
 - Managerial encouragement of Team Member development.
 - Total Compensation.
 
+## People Operations Procedures 
 
+### How to add sub-departments or other demographics not found in BambooHR
+
+1. Open CultureAmp > Settings > Data Intergrations 
+1. Select the blue `Sync Data` button 
+1. Select Partial Upload
+1. Click on Export Users > Export 
+1. Update the information on the spreadsheet
+1. Upload the spreadsheet into CultureAmp 
+1. Select Next (bottom right corner)
+   -  If you select Sync it will only Sync with BambooHR, regardless if you uploaded a file. 
+1. Select Import Data 
+
+You have now updated a demographic in CultureAmp! 
