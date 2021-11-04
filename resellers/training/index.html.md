@@ -135,50 +135,26 @@ This is the basic certification for pre-sales technical professionals and provid
 
 GitLab offers technical certifications that are designed to ensure Partners have the ability to apply GitLab core competencies in the field and within their own practices.  To earn a certification, candidates must first complete all relevant course material and then pass the assessment test with a score of 80% or greater. 
 
-<details>
-  <summary markdown='span'>
-  GitLab Certified  Professional Services Engineer (PSE) Certification
-  </summary>
 
-<b>GitLab Partner Bootcamp</b>
 
-<ul>
-<li>Lesson 1: Code Management and Version Control</li>
-<li>Lesson 2: Continuous Integration and AutoDevOps</li>
-<li>Lesson 3: Custom CI Pipelines</li>
-<li>Lesson 4: GitOps</li>
-<li>Lesson 5: Application Security</li>
-<li>Lesson 6: Value Stream Management</li>
-<li>Lesson 7: Installation and Architecture</li>
-<li>Lesson 8: Integrating and Extending</li>
-<li>Lesson 9: Continuous Integration with Kubernetes</li>
-<li>Lesson 10: Runner Configuration</li>
-</ul>
+**GitLab Professional Services Engineer (PSE) Certification**
+[Details Here](https://about.gitlab.com/services/pse-certifications/pse-specialist/)
 
-</details>
+<img src="/images/channel-service-program/gitlab-certified-professional-services-badge.png" width="150" alt="" title="GitLab Certified Professional Services Engineer">
 
-**GitLab Professional Services Engineer (PSE) Certification **
+Earning Criteria: To earn this certification, candidates must complete the learning journey and all associated assessments in the pathways. Candidates can start their training from the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/c/Training)
 
-Individuals who earn the GitLab Professional Services Engineer (Partner) certification are able to demonstrate hands-on proficiency implementing GitLab, and are able to articulate the most common GitLab customer use cases. Estimated completion time: 20-25 hours
 
-<img src="/images/partnerenablement/gitlab-certified-professional-services-engineer-personal.png" width="150" alt="" title="GitLab Certified Professional Services Engineer">
+<p>
+</p>
 
-Earning Criteria: To earn this certification, candidates must receive a passing score from the November 2020 GitLab Partner Bootcamp examination. The course material can be found on the [Partner Bootcamp Handbook page ](/handbook/resellers/bootcamp/) as well as the [GitLab Partner Portal ](https://partners.gitlab.com/English/)
+#### [GitLab Certified Trainer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/#gitlab-certified-trainer---cadidate-process-for-partners)
 
 
 
+#### Training and Certifications
 
-#### GitLab Certified Trainer
-
-We are currently developing a program that will enable select partners (by invitation) to become GitLab Certified Trainers.  Please refer back to this handbook page for updates.
-
-You can find more about our existing [Train the Trainer program ] (/services/education/train-the-trainer/) at our Handbook Page. 
-
-
-
-#### Training and Certifications Roadmap FY22
-
-GitLab Partner Sales Professional Certification **Q1 FY22**
+GitLab Partner Sales Professional Certification 
 
 <img src="/images/partnerenablement/gitlab-certified-sales-professional-personal.png" width="150" alt="" title="GitLab Certified Sales Professional">
 
@@ -195,7 +171,7 @@ GitLab Partner Solutions Architect (SA) Certification **Q1 FY22**
 
 #### Certification Award Process
 
-To sign up for a course, please visit the Partner Portal (hyperlink). Upon successful completion of each learning path, individuals will be awarded a Badge of Completion and / or a Certificate. Badges and certifications will be delivered electronically via email, and will be granted no later than 10 business days after completion. 
+To sign up for a course, please visit the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/c/Training). Upon successful completion of each learning path, individuals will be awarded a Badge of Completion and / or a Certificate. Badges and certifications will be delivered electronically via email, and will be granted no later than 10 business days after completion. 
 
 
 
