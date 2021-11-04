@@ -82,11 +82,6 @@ Once the GitLab Team Member Engagement Survey has been closed out, reports will 
 * After action items have been identified at the E-Group level, all managers who recieved an engagement survey result report (AKA: managers with 5+ direct reports who responded to the survey) will also be asked to create an action plan in Culture Amp.  
 * A manager may choose to align their action planning to their leader or division or they may choose to add a specific and separate action for their team. This will likely depend on the size/structure of the organization. 
 
-The People Operations Team who facilitate the GitLab Team Member Engagement Survey have compiled a detailed video around the survey results, how to view divisional results directly within Culture Amp and objectively identifying impactful action items from the feedback received:
-
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1x1DYgoDT-Wdm-jJeexhrOpu7Nrt6vLe-/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
 #### Resources for Managers
 
