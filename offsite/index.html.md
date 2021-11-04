@@ -198,7 +198,7 @@ All-directs are a key leadership team that plays a key role in identifying and r
 
 In advance of the offsite, E-group members are expected to connect with their team leadership to identify possible agenda topics, get input into specific topics, and share an overview of what is being discussed. The goal is not to waste an opportunity for broader input and insight from the broader leadership team. The all-direct team should arrive at our all-directs Zoom call already having an understanding of some of key items that were discussed.
 
-On the first business day immediately following the Offsite, there is a 50-minute Zoom call before 12pm Pacific time for the [All-Directs Group](/company/team/structure/#all-directs).
+In the week following the Offsite, there is a 50-minute Zoom call before 12pm Pacific time for the [All-Directs Group](/company/team/structure/#all-directs).
 This time will not work for everyone. The meeting will be privately streamed to Unfiltered on YouTube.
 
 The goal of this call is to communicate:
