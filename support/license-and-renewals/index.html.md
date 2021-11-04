@@ -74,7 +74,7 @@ We publish monthly reports to help track and improve our work in this area. Link
 **Before starting to focus on L&R, please discuss with your manager.** We need to balance resources to meet the needs
 of our customers and ticket volume, so manager approval is needed before switching focus.
 
-The first step is to complete the [L&R / Subscriptions training module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/License%20and%20Renewals.md).
+The first step is to complete the [L&R / Subscriptions training module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Subscriptions%20License%20and%20Renewals.md).
 
 ### What you'll be working on
 
