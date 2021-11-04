@@ -68,13 +68,13 @@ computer:
 
 ```bash
 gem install rake
-gem install zendesk_app_tools
+gem install zendesk_apps_tools
 ```
 
 To update it:
 
 ```bash
-gem update zendesk_app_tools
+gem update zendesk_apps_tools
 ```
 
 Much of this tutorial will assume you have this installed and utilize it in any
