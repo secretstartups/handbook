@@ -135,13 +135,13 @@ Always On Lead Generation:
 | **Headline** | Build it, test it, deploy it seamlessly under one roof |
 | **Statement** | GitLab's leading CI/CD delivered as a single application means you spend less time switching between tools and tabs and more time working on value that ends up in the hands of your customers . |
 | **Key Messages** | 1. Secure CI that just works: Automate everything from start to finish with confidence that GitLab will keep your pipeline secure from end-to-end.|
-| |2. A better developer experience: GitLab knows that happier developers creates higher throughput and better retention. Improve the developer experience with a single application and avoid context switching, deployment delays, and too much downtime.|
-| |3. No forced tradeoffs between speed, quality, and ease of use: Don't sacrifice quality for speed. GitLab understands that mimimal viabile changes create faster, superior deliverables in a single, convenient platform. |
+|  |2. A better developer experience: GitLab knows that happier developers creates higher throughput and better retention. Improve the developer experience with a single application and avoid context switching, deployment delays, and too much downtime.|
+|  |3. No forced tradeoffs between speed, quality, and ease of use: Don't sacrifice quality for speed. GitLab understands that mimimal viabile changes create faster, superior deliverables in a single, convenient platform. |
 | **Topics** | 1. Continuous integration |
-| |2. Continuous delivery|
-| |3. DevSecOps|
-| |4. CI/CD|
-| |5. DevOps|
+|  |2. Continuous delivery|
+|  |3. DevSecOps|
+|  |4. CI/CD|
+|  |5. DevOps|
 | **Top-level Keywords**  | `CI`, `continuous integration`, `CI pipelines`, `CI/CD pipelines`, `CD`, `continuous delivery`, `DevSecOps`, `DevOps` |
 
 ## Buyer Journeys, Content & Emails
