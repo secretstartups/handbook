@@ -263,6 +263,8 @@ We do our best to assist team members but do not operate as an internal agency s
 ### Things we don't do
 
 1. **Content changes**. You can do these yourself, it's one of the many awesome things about GitLab!
+    1. Here's our documentation about how to use [GitLab's Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/)
+    1. Want to learn more about our CMS? [Here's the documentation](https://about.gitlab.com/handbook/marketing/netlifycms/)
 2. **Create content**. You can collaborate with our excellent [Global Content team](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/) for these needs.
 3. **Create branded assets, customer graphics, illustrations**. Our [Brand team](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-design/) is so good at this, you definitely want their expertise.
 
