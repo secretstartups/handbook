@@ -114,6 +114,12 @@ for more details.</dd>
 
 </dl>
 
+### Kickoff video
+
+<figure class="video_container">
+	  <iframe src="https://www.youtube.com/embed/X9V_w8hsM8E" frameborder="0"  allowfullscreen="true"> </iframe>
+</figure>
+
 ## Exit criteria
 
 * Design a new simplified architecture for Object Storage.
