@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/object-storage/"
 | Property        | Value                                                                                                                                                                                     |
 |-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Date Created    | November 3, 2021                                                                                                                                                                          |
-| Target End Date | January 31, 2021                                                                                                                                                                          |
+| Target End Date | January 31, 2022                                                                                                                                                                          |
 | Slack           | [#wg_object-storage](https://gitlab.slack.com/messages/wg_object-storage/) (only accessible from within the company)                                                                      |
 | Google Doc      | [Object Storage Working Group Meeting Agenda](https://docs.google.com/document/d/1K4zb9taDyj74NlAdKDOGPmuBzkTQFCbae-oJMMUQuQk/edit?usp=sharing) (only accessible from within the company) |
 
