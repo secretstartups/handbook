@@ -279,56 +279,70 @@ We love collaborating on work that drives our North Star and supporting metrics.
 
 <details>
     <summary>Previous **Quarterly Plans & OKRs**</summary>
-    - [FY22Q3 Digital Experience Quarterly Plan & OKRs](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/385)
+    <a href="https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/385">FY22Q3 Digital Experience Quarterly Plan & OKRs</a>
 </details>
 <details>
     <summary>Content Wireframe Instructions</summary>
     The Digital Experience team is primarily responsible for facilitating content, not creating it. Please prepare a content plan:
-    
-    - Provide the layout you think would work best from existing pages or existing blocks
-        - You can use the [Blocks section in Slippers](https://www.figma.com/file/nWIOpmuMp7RZXmfTj6ujAF/Slippers_foundations?node-id=1280%3A62) to "shop" for blocks and plan your content to work with designs that already exist.
-        - This youtube video shows [how to navigate the Slippers Figma file](https://www.youtube.com/watch?v=HbnxXE4PT_s) and how a content doc can work with the blocks.
-        - Not sure what a "block" is? You can read about that and more on our [Digital Definitions](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/digital-definitions/#blocks) handbook page.
-    - Provide the content in the layout of the existing block or page template
-        - Use this [Content + DSN Block Template](https://docs.google.com/document/d/1c2OYCtT57SACYSt55YMB5ZW-rt-JFw5RxYNWKPZt-Ao/edit?usp=sharing) as a base. This template allows you to input [existing block designs](https://www.figma.com/file/nWIOpmuMp7RZXmfTj6ujAF/Slippers_foundations?node-id=1280%3A62)mentioned above.
-        - This [Content Wireframe Template](https://docs.google.com/document/d/1ypPJVNEpaSiafY0BnZ0p49tBfVeBGQnySVhgYE7gikk/edit?usp=sharing) is based on the current about.gitlab.com/enterprise page
+    <li>Provide the layout you think would work best from existing pages or existing blocks</li>
+    <ul>
+      <li>You can use the <a href="https://www.figma.com/file/nWIOpmuMp7RZXmfTj6ujAF/Slippers_foundations?node-id=1280%3A62">Blocks section in Slippers</a> to "shop" for blocks and plan your content to work with designs that already exist.</li>
+      <li>This youtube video shows <a href="https://www.youtube.com/watch?v=HbnxXE4PT_s">how to navigate the Slippers Figma file</a> and how a content doc can work with the blocks.</li>
+      <li>Not sure what a "block" is? You can read about that and more on our <a href="https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/digital-definitions/#blocks">Digital Definitions</a> handbook page.</li>
+    </ul>
+    <li>Provide the content in the layout of the existing block or page template</li>
+    <ul>
+      <li>Use this <a href="https://docs.google.com/document/d/1c2OYCtT57SACYSt55YMB5ZW-rt-JFw5RxYNWKPZt-Ao/edit?usp=sharing">Content + DSN Block Template</a> as a base. This template allows you to input <a href="https://www.figma.com/file/nWIOpmuMp7RZXmfTj6ujAF/Slippers_foundations?node-id=1280%3A62">existing block designs</a> mentioned above.</li>
+      <li>This <a href="https://docs.google.com/document/d/1ypPJVNEpaSiafY0BnZ0p49tBfVeBGQnySVhgYE7gikk/edit?usp=sharing">Content Wireframe Template</a> is based on the current about.gitlab.com/enterprise page</li>
+    </ul>
+
 </details>
 <details>
     <summary>Requesting homepage promotion</summary>
-    - Use [this template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) to request addition to the content calendar for homepage promotion
-    - If this is for a campaign, please put in the request as part of the initial campaign distribution plan
-    - For more information on this process click [here](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/#homepage-promotion-guidelines)
+    <ul>
+      <li>Use <a href="https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion">this template</a> to request addition to the content calendar for homepage promotion</li>
+      <li>If this is for a campaign, please put in the request as part of the initial campaign distribution plan</li>
+      <li>For more information on this process click <a href="https://about.gitlab.com/handbook/marketing/inbound-marketing/content/#homepage-promotion-guidelines">here</a></li>
+    </ul>
 </details>
 <details>
     <summary>Image Requirements</summary>
-    - See [image guidelines](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/) for specs
+    <ul>
+      <li>See <a href="https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/">image guidelines</a> for specs</li>
+    </ul>
 </details>
 <details>
     <summary>SEO Requirements</summary>
-    - Know the URL and keywords you want to use
-        - SEO and keyword analysis from the Search Team [Issue Templates](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/issues/new?issuable_template=keyword-research-request) is recommended.
-        - See [naming conventions](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#naming-conventions)
+    <li>Know the URL and keywords you want to use</li>
+    <ul>
+      <li>SEO and keyword analysis from the Search Team <a href="https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/issues/new?issuable_template=keyword-research-request">Issue Templates</a> is recommended.</li>
+      <li>See <a href="https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#naming-conventions">naming conventions</a></li>
+    </ul>
 </details>
 <details>
     <summary>Related Pages</summary>
-    - [Digital_Definitions](/handbook/marketing/inbound-marketing/digital-experience/digital-definitions/)
-    - [Engineering_AB_Tests](/handbook/marketing/inbound-marketing/digital-experience/engineering-ab-tests/)
-    - [Engineering Marketo](/handbook/marketing/inbound-marketing/digital-experience/engineering-marketo/)
-    - [Foundations_Agenda](/handbook/marketing/inbound-marketing/digital-experience/foundations-agenda/)
-    - [How_to_Write_Templates](/handbook/marketing/inbound-marketing/digital-experience/writing-description-templates/)
-    - [Image_Guidelines](/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/)
-    - [Marketo_Page_Template](/handbook/marketing/inbound-marketing/digital-experience/marketo-page-template/)
-    - [Slippers_Design_System](/handbook/marketing/inbound-marketing/digital-experience/slippers-design-system/)
-    - [Video_Bands](/handbook/marketing/inbound-marketing/digital-experience/video-bands/)
-    - [Website](/handbook/marketing/inbound-marketing/digital-experience/website/)
-    - [Figma Process](/handbook/marketing/inbound-marketing/digital-experience/figma/)
-    - [OneTrust Implementation](/handbook/marketing/inbound-marketing/digital-experience/onetrust-cookie-consent/)
+    <ul>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/digital-definitions/">Digital_Definitions</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/engineering-ab-tests/">Engineering_AB_Tests</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/engineering-marketo/">Engineering Marketo</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/foundations-agenda/">Foundations_Agenda</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/writing-description-templates/">How_to_Write_Templates</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/">Image_Guidelines</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/marketo-page-template/">Marketo_Page_Template</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/slippers-design-system/">Slippers_Design_System</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/video-bands/">Video_Bands</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/website/">Website</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/figma/">Figma Process</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/onetrust-cookie-consent/">OneTrust Implementation</a></li>
+    </ul>
 </details>
 <details>
     <summary>Checklists</summary>
-    - [All Merge Requests](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Checklist-Basic.md)
-    - [AB Test MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-AB-Checklist.md)
-    - [Diversity, Inclusion, and Belonging](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/editorial-team/#diversity-inclusion-and-belonging)
-    - [Key page regression testing](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/merge-requests/#website-specific-reviews)
-    - [Redirect MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Redirect-Checklist.md)
+    <ul>
+      <li><a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Checklist-Basic.md">All Merge Requests</a></li>
+      <li><a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-AB-Checklist.md">AB Test MR</a></li>
+      <li><a href="https://about.gitlab.com/handbook/marketing/inbound-marketing/content/editorial-team/#diversity-inclusion-and-belonging">Diversity, Inclusion, and Belonging</a></li>
+      <li><a href="https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/merge-requests/#website-specific-reviews">Key page regression testing</a></li>
+      <li><a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Redirect-Checklist.md">Redirect MR</a></li>
+    </ul>
 </details>
