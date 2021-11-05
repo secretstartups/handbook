@@ -143,7 +143,7 @@ Identity: **65% Assertive**
 - When giving or accepting direction, I'm self-directed and flexible, resisting close control and rigid schedules
 
 ## Management Style
-#### [Coach](https://hbr.org/2019/11/the-leader-as-coach) and [Situational Leader](https://en.wikipedia.org/wiki/Situational_leadership_theory)
+[Coach](https://hbr.org/2019/11/the-leader-as-coach) and [Situational Leader](https://en.wikipedia.org/wiki/Situational_leadership_theory)
 
 ### What I Do
 
@@ -168,7 +168,7 @@ Identity: **65% Assertive**
 - My preference is shorter and more frequent meetings, let me know if that works best for you
 - We'll start with weekly 25min meetings and potentially shift to biweekly 45min meetings once we're in flow
 - Please come prepared with 4-5 things you'd like to discuss.
-- You can expect I'll ask the following:
+- You can expect I'll ask the following questions from [The Coaching Habit](https://boxofcrayons.com/the-coaching-habit-book/). I find them incredibly useful:
     1. What's on your mind?
     2. And what else?
     3. What's the real challenge here for you?
@@ -176,7 +176,6 @@ Identity: **65% Assertive**
     5. How can I help?
     6. If you're saying Yes to this, what are you saying No to?
     7. What was most useful to you?
-    - These questions are from [The Coaching Habit](https://boxofcrayons.com/the-coaching-habit-book/) and I find them incredibly useful.
 - Help me calibrate by leadership style by sharing with me what I should be doing more of/less of (I have thick skin, don't worry 😀)
 - Please do not feel you have to wait for a 1:1 to bring anything up, my door/calendar is always open
 
