@@ -26,6 +26,16 @@ How we work:
 **I have a question. Who do I ask?**
 Questions should start by @ mentioning the product manager for the [Product Intelligence Group](/handbook/product/categories/#product-intelligence-group) or by creating an issue in our [issue board](/handbook/engineering/development/growth/product-intelligence/#issue-boards).
 
+## Resposibilities
+
+### Service Ping Metrics
+
+We're responsible to deliver a reliable Service Ping that runs every week on SaaS and Self Managed instances. Our responsiblity is tooling and automations for metric collections to set the company up for success to deliver Service Ping data to our Datawarehouse. Due to the amount of metrics we can't maintain the health of all metrics or can provide insights into the business logic of metrics. 
+- For questions around a specific metric, please find the metric in the [metric dictionary](https://metrics.gitlab.com/) and ask the group that owns the metric.
+- When a metric times out, we will create an issue and inform the responsible team.
+- When a metric is using too many resources to time out the whole Service Ping, we will quarantine the metric and inform the responsible team.
+- When the metric is business critical (defined as any metric with an xMAU value in `performance_indicator_type`) we also inform the responsible team but will treat it as a Severity 1/Priority 1 issue and try to provide a fix.
+
 ## Team members
 
 The following people are permanent members of the Product Intelligence Group:
