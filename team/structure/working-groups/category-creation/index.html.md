@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
-title: "Category Creation Working Group"
-description: "The business goal of GitLab category creation initiative is to solidify GitLab's 'The DevOps Platform’ messaging"
-canonical_path: "/company/team/structure/working-groups/category-creation/"
+title: "Category Leadership Working Group"
+description: "The business goal of GitLab category leadership initiative is to solidify GitLab's 'The DevOps Platform’ messaging"
+canonical_path: "/company/team/structure/working-groups/category-leadership/"
 ---
 
 ## On this page
@@ -17,8 +17,8 @@ canonical_path: "/company/team/structure/working-groups/category-creation/"
 |--------------|-------|
 | Date Created | 2021-07-20 |
 | Estimated Date Ended   | 2021-10-31 |
-| Slack        | [#wg-category-creation](https://app.slack.com/client/T02592416/C028G84V26S/thread/D012QPR06GP-1615593523.027100) (only accessible from within the company) |
-| Google Doc   | Category Creation Working Group - Agenda 
+| Slack        | [#wg-category-leadership](https://app.slack.com/client/T02592416/C028G84V26S/thread/D012QPR06GP-1615593523.027100) (only accessible from within the company) |
+| Google Doc   | Category Leadership Working Group - Agenda 
  |
 
 
@@ -30,7 +30,7 @@ Solidify GitLab's 'The DevOps Platform’ messaging, including messaging for:
 1.  Golden pitch
 1.  Website
 1.  'Airport banner' / Brand agency
-1.  Category creation
+1.  Category leadership
 1.  Commit keynote
 1.  Key external audience messaging
 

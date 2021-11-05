@@ -120,7 +120,7 @@ If you are interested in participating in an active working group, it is general
 ## Active Working Groups (alphabetic order)
 
 * [Architecture Kickoff](/company/team/structure/working-groups/architecture-kickoff/)
-* [Category Creation](/company/team/structure/working-groups/category-creation/)
+* [Category Leadership](/company/team/structure/working-groups/category-leadership/)
 * [China Service](/company/team/structure/working-groups/china-service/)
 * [Database Scalability](/company/team/structure/working-groups/database-scalability/)
 * [Event Stream](/company/team/structure/working-groups/event-stream/)
