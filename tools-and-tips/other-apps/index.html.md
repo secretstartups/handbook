@@ -74,12 +74,6 @@ If you have not already, go to your [Chrome Flash Settings](chrome://settings/co
 For further context, note that [Google Chrome is removing Flash support soon](https://nakedsecurity.sophos.com/2016/05/18/yet-more-bad-news-for-flash-as-google-chrome-says-goodbye-sort-of/), and while the [plugin is better than a local install of Flash](http://security.stackexchange.com/questions/98117/should-flash-be-disabled-or-are-sandboxes-secure-enough), 
 it still leaves vulnerabilities for [zero-day attacks](http://www.pctools.com/security-news/zero-day-vulnerability/).
 
-### Minimizing Google Chrome's resource usage
-
-To minimize Google Chrome browser's memory and CPU usage, you can enable [Tab Freeze](chrome://flags/#proactive-tab-freeze) (you need to manually navigate to this URL) which suspends tabs after five minutes of inactivity.
-
-This is enabled by default from Chrome 80 and the option is removed.
-
 ### Prototyping in the browser
 
 Sometimes you only need to capture small textual or visual changes in a web page as part of a bug report or a feature proposal.
