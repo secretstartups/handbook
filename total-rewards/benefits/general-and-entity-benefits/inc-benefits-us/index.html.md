@@ -53,13 +53,15 @@ For questions on benefits, please see the following [PlanSource Video Library](h
 
 ### Logging into PlanSource
 
-You can log into PlanSource [here](https://benefits.plansource.com) with the following information:
-* Username:  Your username is the first letter of your first name, the first 6 letters of your last name, and the last 4 digits of your social security number. 
-  * Example: John Hancock (SS# XXX-XX-6789) would have the following user name: jhancoc6789
-* Password:  Your password is your birth date in YYYYMMDD format. 
-  * Example:  John Hancock birth date is January 7, 1968 would have the following password: 19680107
+You can log into PlanSource through your BambooHR home page.  
 
-Once you have logged in, you will be prompted to update your password.
+1. Login into the [BambooHR](https://gitlab.bamboohr.com/home) site via Okta
+1. Once you have logged into BambooHR hover over the “Company Links” tab on the left hand side of your home page and click on the “Manage my Benefits” link in order to access the Benefits Dashboard.
+1. The benefits enrollment portal will then open in a separate screen for you to complete your enrollments.
+
+Review the [PlanSource Login & Enrollment](https://drive.google.com/file/d/1py7C8ngTpVlYNSKG4If3yBw43dg3F6Ml/view?usp=sharing) Guide for additional details on logging in and electing benefits. 
+
+
 
 ### Group Medical Coverage
  
