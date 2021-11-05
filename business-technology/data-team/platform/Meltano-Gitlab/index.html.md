@@ -20,18 +20,19 @@ title: "Meltano At Gitlab"
 
 ## Meltano
 
-We run Meltano in its own Kubernetes cluster with in the `default` namespace. Currently 3 project repository is in place. 
-
-1) [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano) -- This project hold infrastructure related code i.e. it hold kubernetes pods creation information in `gitlab-app.yaml` and configuration in `meltano.yml`.  
-2) [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps) -- This is primary repository which holds the TAP source code. It has at the moment source code of 2 taps    
-      1) TAP-XACTLY   
-      2) TAP-ADAPTIVE  
-3) [tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc) -- This project which hold tap-zengrc source code. 
-
-
-The kubernetes cluster is running [GCP as meltano-mashey](https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/meltano-mashey/details?project=gitlab-analysis). 
+We run Meltano in its own Kubernetes cluster with in the `default` namespace. Currently 3 project repository is in place. The Kubernetes cluster is running [GCP as meltano-mashey](https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/meltano-mashey/details?project=gitlab-analysis). 
 
 The UI of Meltano is not exposed to internet. To view the logs we have to look in the kubernetes container logs. It can be found under "LOGS" tab or under the overview page by selecting the `meltano-gitlab` cluster under workloads.
+
+For Meltano we have the following repositories. 
+
+|   | Repository | Description | 
+| - | ---------- | ----------- |
+| 1 | [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano) | his project hold infrastructure related code i.e. it hold kubernetes pods creation information in `gitlab-app.yaml` and configuration in `meltano.yml`. | 
+| 2 | [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps) |  This is primary repository which holds the TAP source code. It has at the moment source code for `TAP-XACTLY` and `TAP-ADAPTIVE ` | 
+| 3 | [tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc) | This project which hold tap-zengrc source code.  | 
+
+For new developed taps, we will create a new repository per tap, like the tap-zengrc. 
 
 To update what extractors are being used, update the `meltano.yml` file in the main project [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano). Add a git tag after the change is merged and update the gitlab-app.yml kubernetes manifest to point to the new image.
 
@@ -120,8 +121,6 @@ The reason for doing this is because the username and password is not a unique k
 
 Check everything is fine by running the schedule of all taps. 
 `meltano schedule run zengrc-to-snowflake`
-
-
 
 ## Adding Tap to the meltano.yml file
 At the moment the current setup is adding the tap information to [meltano.yml](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml) file by creating a MR. Once the required information is added to meltano.yml file follow below steps to enable the TAP. 
