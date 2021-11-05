@@ -959,16 +959,16 @@ Iteration is a key value in many disruptive and successful organizations. Below 
 
 ##### 12 things that are not iteration
 
-Iteration is often counterintuitive. To clarify what an iteration is, it helps to see examples of what is not an iteration. Below are 12 examples of things we've seen mistaken as iteration, but don't meet our definition of iteration. 
+Iteration is often counterintuitive and difficult to do. To clarify what an iteration is, it helps to see examples of what is not an iteration. Below are 12 examples of things we've seen mistaken as iteration, but don't meet our definition of iteration. 
 
-1. Quality 
-1. Documentation
-1. Security
-1. Not the default / in the recommend path
+1. Reduction in quality
+1. Eliminating or reducing documentation
+1. Compromising on security
+1. Not the default or the recommended path
 1. Nothing of value
-1. Unimportant work
+1. An excuse to work on unimportant items
 1. Changing goals
-1. Revisions
+1. Revisions you don't ship or publish
 1. Too tight timelines
 1. Lack of planning
 1. Working long hours
