@@ -961,17 +961,17 @@ Iteration is a key value in many disruptive and successful organizations. Below 
 
 Iteration is often counterintuitive and difficult to do. To clarify what an iteration is, it helps to see examples of what is not an iteration. Below are 12 examples of things we've seen mistaken as iteration, but don't meet our definition of iteration. 
 
-1. Reduction in quality
-1. Eliminating or reducing documentation
+1. Reducing quality
+1. Avoiding or reducing documentation
 1. Compromising on security
-1. Not the default or the recommended path
-1. Nothing of value
-1. An excuse to work on unimportant items
-1. Changing goals
+1. Delivering something that's not the recommended path or on by default
+1. Shipping something of no value
+1. An excuse to focus on unimportant items
+1. Changing or lowering goal posts
 1. Revisions you don't ship or publish
-1. Too tight timelines
-1. Lack of planning
-1. Working long hours
+1. An excuse to impose unrealistically tight timelines
+1. An excuse to avoid planning
+1. Imposing long hours
 1. Expecting others to fix your work
 
 In this [GitLab Unfiltered video](https://www.youtube.com/watch?v=BW6TWwNZzIQ), GitLab co-founder and CEO Sid Sijbrandij elaborates on each of these 12 things that are not iteration. 
