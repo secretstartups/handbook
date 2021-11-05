@@ -29,16 +29,6 @@ title: "Marketing Finance"
 
 The Marketing Variance Review meeting happens once a month to review the actual expenses for the previous month. For example, in the 3rd week of June we will review May's expenses.  
 
-[Feb'21 Deck](https://docs.google.com/presentation/d/1AfJf45dLs4ch9A8snZhDse1SdNQmKGK0dAkBjmtHAcQ/edit)
-
-[Mar'21 Deck](https://docs.google.com/presentation/d/1cDFGtfyTtyZX8EssJPhtkmMqeEocPYFojYd2TfTOOZY/edit)
-
-[Apr'21 Deck](https://docs.google.com/presentation/d/1H88epd0QWG3IvU1so9sJqFDzffDMAqWaNzWDePQi_ao/edit)
-
-[May'21 Deck](https://docs.google.com/presentation/d/1mBD9u0CQ5-BpO1L4HwV1I2BT08IaPD2f9cTup8B8nfk/edit#slide=id.g1952d3a79ac75c6_215)
-
-[Jun'21 Deck](https://docs.google.com/presentation/d/1cCGAExD_glwV-bwr3ndzqtVbTzYseQL_2N9XHezZKbc/edit#slide=id.g1952d3a79ac75c6_215)
-
 ## Important Dates
 * 2021-06-24: June Forecast Due
 * 2021-07-14: June Actuals loaded into Allocadia (estimated) 
@@ -52,6 +42,7 @@ The Marketing Variance Review meeting happens once a month to review the actual 
 * 2021-10-22: October Forecast Due 
 * 2021-11-12: October Actuals loaded into Allocadia (estimated) 
 * 2021-10-29: Q4 Plan Due 
+* 2021-11-19: FY23 Bottom's Up Plan due in Allocadia
 * 2021-11-24: November Forecast Due 
 * 2021-12-14: November Actuals loaded into Allocadia (estimated)
 * 2021-12-24: December Forecast Due 
