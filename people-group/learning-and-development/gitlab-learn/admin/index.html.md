@@ -408,6 +408,14 @@ Learning Evangelists can use the following processes to broadcast or highlight t
 1. Share content with a Group you're a part of, like your team
 1. Share content to a Channel with a relevant topic, like Remote Work Foundations
 
+#### Utilising team profiles to share content
+
+The L&D team can also set up specific team profiles in Edcast that can be used for sharing content. For example, the [GitLab Learning Team](https://gitlab.edcast.com/@gitlablearning507/content) profile is the author for a number of pathways created by members of the L&D team. Using team branding helps give content a more official look and feel, which can be useful for adding credibility to mandatory content and make it clear from whereabouts in the business it was sourced. Whilst not everyone may recognise the individual team member who created a smartcard, using a team profile makes it clear which team is responsible.
+
+The credentials of the team profile can also be shared within teams to help in the monitoring of comments and engagement with the content.
+
+To request the creation of a team profile, please post in the #learninganddevelopment slack channel with details of what you would like the profile to be called and and an image to be used for the profile picture.
+
 ### Adding collaborators to your pathway
 
 Learning evangelists can add other Learning Evangelists as collaborators to Pathways or Journeys they create. In order to do this:
