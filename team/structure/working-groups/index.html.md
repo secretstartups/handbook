@@ -137,7 +137,6 @@ If you are interested in participating in an active working group, it is general
 * [Multi-Large](/company/team/structure/working-groups/multi-large/)
 * [Object Storage](/company/team/structure/working-groups/object-storage/)
 * [Pipeline Validation Service Operations](/company/team/structure/working-groups/pipeline-validation-service-operations/)
-* [Real-Time](/company/team/structure/working-groups/real-time/)
 * [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
 * [SOX PMO](/company/team/structure/working-groups/sox/)
 * [Webpack (Frontend build tooling)](/company/team/structure/working-groups/webpack/)
