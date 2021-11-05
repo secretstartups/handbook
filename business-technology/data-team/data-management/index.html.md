@@ -74,7 +74,6 @@ Additional controls include:
 | Full-Disk Encryption | Required | Required | Required |
 | Quarterly Data Purge | Required | Required | Required |
 
-
 * **Data Infrastructure**: includes any systems with interact access or process data as part of a Data Warehouse and makes data available to end users.
 * **Data Warehouse Controls**: The Enterprise Data Warehouse is a Tier 1 System.
 * **Endpoint Devices**: All Endpoints Which Have Access To The Data Warehosue are Classified as Tier 1
