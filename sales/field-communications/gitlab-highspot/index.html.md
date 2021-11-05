@@ -170,7 +170,7 @@ Using the embed code will allow Highspot users to view the webpage content direc
 
 #### Internal vs. External Content 
 
-**Only mark a resource as external if you are absolutely certain it follows the [SAFE Guidelines](/handbook/legal/safe-framework/).** Under NO circumstances should anything marked as `External` contain material non-public information including financial/performance metrics, non-approved customer logos, etc. Also ensure external content follows our [Image/Logo Guidelines](/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/#sts=Logos) and [Trademark Guidelines](/handbook/legal/trademarks-training-materials/). 
+**Only mark a resource as external if you are absolutely certain it follows the [SAFE Guidelines](/handbook/legal/safe-framework/).** Under NO circumstances should anything marked as `External` contain material non-public information including financial/performance metrics, non-approved customer logos, etc. Also ensure external content follows our [Image/Logo Guidelines](/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/) and [Trademark Guidelines](/handbook/legal/trademarks-training-materials/). 
 
 As a good best-practice, items marked as `External` should only include decks that have been signed off by Marketing and Legal as fit for external use (ex. DevOps Platform deck) or resources that focus on the GitLab product. 
 
