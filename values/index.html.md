@@ -957,6 +957,25 @@ Iteration is a key value in many disruptive and successful organizations. Below 
 
 * [SpaceX](iteration-examples/spacex.html)
 
+##### 12 things that are not iteration
+
+Iteration is often counterintuitive. To clarify what an iteration is, it helps to see examples of what is not an iteration. Below are 12 examples of things we've seen mistaken as iteration, but don't meet our definition of iteration. 
+
+1. Quality 
+1. Documentation
+1. Security
+1. Not the default / in the recommend path
+1. Nothing of value
+1. Unimportant work
+1. Changing goals
+1. Revisions
+1. Too tight timelines
+1. Lack of planning
+1. Working long hours
+1. Expecting others to fix your work
+
+In this [GitLab Unfiltered video](https://www.youtube.com/watch?v=BW6TWwNZzIQ), GitLab co-founder and CEO Sid Sijbrandij elaborates on each of these 12 things that are not iteration. 
+
 ##### Iteration Competency
 {:#iteration-competency.no_toc}
 [Competencies](/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
