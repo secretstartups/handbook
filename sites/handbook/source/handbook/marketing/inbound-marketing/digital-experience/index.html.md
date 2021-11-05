@@ -92,7 +92,6 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
 | [**Tyler Williams**](https://about.gitlab.com/company/team/#tywilliams) | Fullstack Engineer | - Email: [tywilliams@gitlab.com](mailto:tywilliams@gitlab.com)<br>- GitLab: [@tywilliams](https://gitlab.com/tywilliams)<br>- Slack: @Tyler Williams<br>- ReadMe: [tyler-williams](/handbook/marketing/readmes/tyler-williams.html) |
 | [**Laura Duggan**](https://about.gitlab.com/company/team/#lduggan) | Frontend Engineer | - Email: [lduggan@gitlab.com](mailto:lduggan@gitlab.com)<br>- GitLab: [@lduggan](https://gitlab.com/lduggan)<br>- Slack: @Laura Duggan<br>- ReadMe: [laura-duggan](/handbook/marketing/readmes/laura-duggan.html) |
 | [**Javier Garcia**](https://about.gitlab.com/company/team/#jgarc) | Frontend Engineer | - Email: [jgarcia@gitlab.com](mailto:jgarcia@gitlab.com)<br>- GitLab: [@jgarc](https://gitlab.com/jgarc257)<br>- Slack: @Javi |
-| [**Stephen McGuinness**](https://about.gitlab.com/company/team/#smcguinness1) | Product Designer (UX) (Contract) | - GitLab: [@smcguinness1](http://smcguinness1)<br>- Slack: @Stephen McGuinness |
 | [**Tina Lise Ng**](https://about.gitlab.com/company/team/#tng) | Product Designer (UX) (Contract) | - GitLab: [@Tinaliseng](https://gitlab.com/Tinaliseng)<br>- Slack: @Tina Lise Ng |
 | [**Mateo Penagos**](https://about.gitlab.com/company/team/#mpenagos-ext) | Senior Frontend Engineer (Contract) | - GitLab: [@mpenagos-ext](https://gitlab.com/mpenagos-ext)<br>- Slack: @Mateo Penagos |
 | [**John Arias**](https://about.gitlab.com/company/team/#jariasc-ext) | Senior Fullstack Engineer (Contract) | - Email: [jariasc-ext@gitlab.com](mailto:jariasc-ext@gitlab.com)<br>- GitLab: [@jariasc-ext](https://gitlab.com/jariasc-ext)<br>- Slack: @John Arias |
@@ -278,8 +277,8 @@ We love collaborating on work that drives our North Star and supporting metrics.
 ## Digital Experience FAQ
 
 <details>
-    <summary>Previous **Quarterly Plans & OKRs**</summary>
-    <a href="https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/385">FY22Q3 Digital Experience Quarterly Plan & OKRs</a>
+    <summary>Previous <b>Quarterly Plans & OKRs</b></summary>
+    <li><a href="https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/385">FY22Q3 Digital Experience Quarterly Plan & OKRs</a></li>
 </details>
 <details>
     <summary>Content Wireframe Instructions</summary>
