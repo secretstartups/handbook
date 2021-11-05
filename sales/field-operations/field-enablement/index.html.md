@@ -68,7 +68,7 @@ description: "The Field Enablement team's mission is to design and deliver effec
 <!-- blank line -->
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5MC4a_pOOZbOCeCOAngFyY9rSEuPaMitIxHpDMvEgxV-9GqrLJtkbiwkZsCe9ueoIq04BSKdU8Qtg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQ7ldY5rPmQQhpicQJsUZhEgEVK8_3l7YmUf4oq9Y4_KRPXIbCtd4gp1stJMRNesmm4POHyBSqQ9Wx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 <!-- blank line -->
@@ -77,6 +77,7 @@ description: "The Field Enablement team's mission is to design and deliver effec
 
 You can find a read-out of Field Enablement team results by quarter – including overall team achievements, progress against OKRs and program-specific key accomplishments and results – in the Field Enabelement Quarterly Read-Out decks below: 
 
+- [FY22-Q3 Field Enablement Results Readout](https://docs.google.com/presentation/d/1Cq2KcEsWehAGG_VaWCVyrXOliv0V8xf5pFWmcdjZ09k/edit?usp=sharing)
 - [FY22-Q2 Field Enablement Results Readout](https://docs.google.com/presentation/d/1xVt4_1tl_8CgPNAexo4ycq5xWmb6nXEC7WUEBJv3oWw/edit#slide=id.g59bfc474c5_2_145)
 - [FY22-Q1 Field Enablement Results Readout](https://docs.google.com/presentation/d/1La-jKxkb6sId1iZCocX35n5z7cXYF0OcLp7pUzTSBjs/edit#slide=id.g59bfc474c5_2_145)
 
@@ -176,16 +177,17 @@ Knowledge x Practice = Capability
     - Enterprise Sales Enablement: [Emelie Rodriguez](/company/team/#emelier)
     - Commercial Sales Enablement: [Kelley Shirazi (*acting*)](/company/team/#kelley-shirazi)
         - Commercial Sales Enablement, EMEA: TBH
-    - Partner Enablement: TBH
+    - Partner Enablement: [Blair Fraser](/company/team/#bfraser)
     - Solution Architect and Technical Enablement: [Thabo Bopape](/company/team/#tbopape)
     - Technical Account Manager Enablement: [Pallavi Daliparthi](/company/team/#pdaliparthi)
 - **[Field Enablement Program Managers](/job-families/sales/program-manager-field-enablement/)**
     - Field Onboarding and Continuous Education: [John Blevins](/company/team/#jblevins608)
-    - Sales Messaging & Content: [Tanuja Paruchuri](/company/team/#tparuchuri)
     - Field Manager Development: [David Somers (*acting*)](/company/team/#dcsomers)
-- **[Field Communications](/job-families/sales/field-communications)**
-    - [Monica Jacob](/company/team/#monicaj) (Manager, Field Communications)
-    - TBH (Field Communications Specialist)
+- **[Field Communications & Content](/job-families/sales/field-communications)**
+    - [Monica Gomez](/company/team/#monicaj) (Manager, Field Communications & Content)
+    - [Shannon Thompson](/company/team/#shannonthompson) (Field Communications Specialist)
+    - Program Manager, Sales Content: TBH
+
 
 </details>
 
@@ -259,7 +261,7 @@ If you have a Field Communications request (process change, announcement, etc.),
 - [Field Enablement Prioritization Board](https://gitlab.com/groups/gitlab-com/-/boards/2624997)
 
 ### Other
-- [Field Certification Board](https://gitlab.com/groups/gitlab-com/-/boards/2714682?&label_name[]=Field%20Learning%20Programs)
+- [Field Enablement Programs Board](https://gitlab.com/groups/gitlab-com/-/boards/2714682?&label_name[]=Field%20Learning%20Programs)
 - [Value Framework Feedback (VFF) Board](https://gitlab.com/groups/gitlab-com/-/boards/2625246)
 - [Sales Enablement Sessions Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1231617)
 - [Customer Success Skills Exchange Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538)
