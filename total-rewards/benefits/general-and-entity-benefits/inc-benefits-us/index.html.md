@@ -113,7 +113,7 @@ Effective January 1, 2021, GitLab will be transitioning from UHC to Cigna as the
  
 In Network:
  
-| Plan Details               | [2021 Cigna HDHP- HSA ](https://drive.google.com/file/d/1snzJv2JsItipBS12ueibzedjZMgLjs_e/view?usp=sharing) <BR> 2022 Cigna HDHP- HSA (TBD) | [2021 Cigna EPO (PPO $0)**](https://drive.google.com/file/d/147z46SlhXLGUhoXVjQTxI7Qs5ROL6ZLr/view?usp=sharing)<BR> 2022 Cigna EPO (PPO $0)** (TBD)  | [2021 Cigna PPO 500***](https://drive.google.com/file/d/1utEEBXzbvIY4guFt0asM86waDWVMdLHQ/view?usp=sharing)  <BR> 2022 Cigna PPO 500*** (TBD)    |
+| Plan Details               | [2021 Cigna HDHP- HSA ](https://drive.google.com/file/d/1snzJv2JsItipBS12ueibzedjZMgLjs_e/view?usp=sharing) <BR> [2022 Cigna HDHP- HSA](https://drive.google.com/file/d/13TITeW4_KkSM8aQcWL4ya42OtkYY9wRD/view?usp=sharing) | [2021 Cigna EPO (PPO $0)**](https://drive.google.com/file/d/147z46SlhXLGUhoXVjQTxI7Qs5ROL6ZLr/view?usp=sharing)<BR> [2022 Cigna EPO (PPO $0)**](https://drive.google.com/file/d/1HgXi45ik3YwzghWvJZhDatOyAtCiUa-_/view?usp=sharing)  | [2021 Cigna PPO 500***](https://drive.google.com/file/d/1utEEBXzbvIY4guFt0asM86waDWVMdLHQ/view?usp=sharing)  <BR> [2022 Cigna PPO 500***](https://drive.google.com/file/d/1uLa9P6kSkLQ8decI7NMfSf1fzNIXsU7N/view?usp=sharing)    |
 |:---------------------------|:----------------------:|:------------------:|:-----------------:|
 | Deductible (Single/Family) | $2,000 / $2,800        | $0 / $0            | $500 / $1,000     |
 | Out of Pocket Max (Single/Family)    | $4,000 / $8,000        | $2,500 / $5,000    | $3,000 / $6,000   |
@@ -193,7 +193,7 @@ In addition to the Cigna plans offered above, the following plans are also an op
 
  The Kaiser 2022 plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: inclusion of acupuncture, chiropractic care, and hearing aid benefits. 
  
-| Plan Details               | [2021 HMO 20 NorCal](https://drive.google.com/file/d/1kgJGxaVfAwdN5E2fD0gbzKFWW1eCyU56/view?usp=sharing)  <br> 2022 HMO NorCal (TBD)     | [2021 HMO 20 SoCal](https://drive.google.com/file/d/1UtnmvtKmn4PKETOphAQ7e54lYu32NGb_/view?usp=sharing)  <br> 2022 HMO 20 SoCal (TBD) | [2021 HMO 20 CO](https://drive.google.com/file/d/1MuG9MQumOq3OjAMtwjil33RKkWdNrAa7/view?usp=sharing) <BR>  [2022 HMO 20 CO](https://drive.google.com/file/d/1BosRYdWVsrdpLpaGP--ci79zmTbFPOto/view?usp=sharing)    | [2021 HMO 20 HI](https://drive.google.com/file/d/1oLiQJkVcb2YLuvB-adEJPwf4knM1R9J3/view?usp=sharing)   <BR>  2022 HMO 20 HI (TBD)   |
+| Plan Details               | [2021 HMO 20 NorCal](https://drive.google.com/file/d/1kgJGxaVfAwdN5E2fD0gbzKFWW1eCyU56/view?usp=sharing) <br> 2022 HMO NorCal (TBD)     | [2021 HMO 20 SoCal](https://drive.google.com/file/d/1UtnmvtKmn4PKETOphAQ7e54lYu32NGb_/view?usp=sharing)  <br> 2022 HMO 20 SoCal (TBD) | [2021 HMO 20 CO](https://drive.google.com/file/d/1MuG9MQumOq3OjAMtwjil33RKkWdNrAa7/view?usp=sharing) <BR>  [2022 HMO 20 CO](https://drive.google.com/file/d/1BosRYdWVsrdpLpaGP--ci79zmTbFPOto/view?usp=sharing)    | [2021 HMO 20 HI](https://drive.google.com/file/d/1oLiQJkVcb2YLuvB-adEJPwf4knM1R9J3/view?usp=sharing)   <BR>  2022 HMO 20 HI (TBD)   |
 |----------------------------|:--------------------:|:---------------:|:---------------:|:---------------:|
 | Deductible (Single/Family) | $0 / $0              | $0 / $0         | $0 / $0         | $0 / $0         |
 | Out Of Pocket Max (Single/Family)    | $1,500 / $3,000      | $1,500 / $3,000 | $2,000 / $4,000 | $2,500 / $7,500 |
@@ -264,7 +264,7 @@ When submitting a claim, you can mail it to Cigna Dental PO Box 188037 Chattanoo
  The 2022 Dental plan details will remain the same as the 2021 plan details listed below.
 
  
-| Plan Details                         | [DPPO](https://drive.google.com/file/d/1s8x3BJ36hJ5gU-vn29dQSOFVkhvm1rH4/view?usp=sharing)       | 
+| Plan Details                         | [DPPO 2021](https://drive.google.com/file/d/1s8x3BJ36hJ5gU-vn29dQSOFVkhvm1rH4/view?usp=sharing) <br> [DDPO 2022](https://drive.google.com/file/d/10lDPQ-EfmHpE_danm3cwMEb7KA9njlts/view?usp=sharing)  | 
 |--------------------------------------|:----------:|
 | Deductible (Single/Family)                          | $50 / $150 |
 | Maximum Benefit                      | $2,000     |
@@ -323,7 +323,7 @@ When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingha
  The 2022 Vision plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: increase frame allowance to up to $150. 
 
  
-| Plan Details                      | [Vision](https://drive.google.com/file/d/1iqeSHND7WzTouvP-Rzc6kw8THxz2DlDL/view?usp=sharing)       | 
+| Plan Details                      | [Vision 2021](https://drive.google.com/file/d/1iqeSHND7WzTouvP-Rzc6kw8THxz2DlDL/view?usp=sharing) <br> [Vision 2022](https://drive.google.com/file/d/1VmjN9hLqVk7AqaHdWVUqK155U7yO-mBV/view?usp=sharing)     | 
 |-----------------------------------|:------------:|
 | Frequency of Services             | 12 months   |
 | Copay Exam                        | $20          | 
