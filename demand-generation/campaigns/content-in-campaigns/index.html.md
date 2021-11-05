@@ -196,6 +196,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/indbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Growth Marketing
 * [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Editorial
 * [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
+* [ ] Notify Sales Comms about new report available - AR
 
 </details>
 
@@ -269,6 +270,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Editorial
 * [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
 * [ ] Analyst Content: [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) - Multiple teams
+* [ ] Notify Sales Comms about new report available - AR
 
 </details>
 
