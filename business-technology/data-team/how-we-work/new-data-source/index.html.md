@@ -48,7 +48,7 @@ Process for adding a new data source:
 | `workflow::X - blocked`     | Development is blocked |
 
 ### workflow::1 - triage
-All new data source requests starts with an issue. Please use the `New Data Source` [template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/New%20Data%20Source.md). All initial information will be provided by the requestor and assessed by the Data Team. Cross check will be performed if the data doesn't already exist in the data warehouse.
+Every new data source requests starts with an issue. This applies for data source that are already extracted, but needs to be extended and for completely new data sources. Please use the `New Data Source` [template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/New%20Data%20Source.md). All initial information will be provided by the requestor and assessed by the Data Team. Cross check will be performed if the data doesn't already exist in the data warehouse.
  
 ### workflow::2 - validation
 All details regarding the new data source will be flashed out, with the goal of creating a full work breakdown.
@@ -77,10 +77,10 @@ graph LR
    
 %%descisions
     api_available{API Available?}
-    fivetran_connector_available{Fivetran connector available?}
-    stitch_connector_available{Stitch connector available?}
+    fivetran_connector_available{Fivetran connector viable?}
+    stitch_connector_available{Stitch connector viable?}
     data_is_ext_snowflake_sources{Data is in different Snowflake Account}
-    singer_option{Singer Tap Possible?}
+    singer_option{Singer Tap viable?}
 
 %%end solutions
     Custom([Custom development])
