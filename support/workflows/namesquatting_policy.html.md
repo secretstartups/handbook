@@ -14,7 +14,9 @@ subcategory: Accounts
 
 ### Overview
 
-As per the [statement of support](/support/#name-squatting-policy), namespaces may be released when they meet the appropriate criteria.
+According to the [statement of support](/support/#name-squatting-policy), namespaces may be released when they meet the appropriate criteria.
+
+**IMPORTANT NOTE:** If you have any situation that is unusual, or does not fall under the workflow below, [open an Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new?issuable_template=General%2BUncategorized) with Security Operations. Describe the situation and request them to review and provide guidance.
 
 **NOTE:** When applying any of the macros ensure to replace the placeholder **“REQUESTEDNAME”** with the namespace requested.
 
