@@ -196,17 +196,17 @@ The Executive Business Administrator, Lead is a [TBD]
 * A passion for GitLab
 * A sincere willingness to help out
 
-### Staff Executive Business Administrator to the CEO
+### Sr. Executive Business Administrator to the CEO
 
-The Staff Executive Business Administrator to the CEO reports to the [Chief Revenue Officer](/job-families/sales/chief-revenue-officer/).
+The Senior Executive Business Administrator to the CEO reports to the [Chief of Staff to the CEO](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/)
 
-#### Staff Executive Business Administrator to the CEO Job Grade
+#### Sr. Executive Business Administrator to the CEO Job Grade
 
-The Staff Executive Business Administrator is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Executive Business Administrator to the CEO is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Staff Executive Business Administrator to the CEO Responsibilities
+#### Sr. Executive Business Administrator to the CEO Responsibilities
 
-* Strategically and methodically support our Chief Executive Officer as your primary executive, and the Chief Revenue Officer as your secondary executive,  in the Pacific time zone - serving as a partner in handling correspondence, including confidential and sensitive materials
+* Strategically and methodically support our Chief Executive Officer in the Pacific time zone - serving as a partner in handling correspondence, including confidential and sensitive materials
 * Proactively and without supervision, anticipate needs and follow through diligently, often using knowledge of the executive, their direct reports, external parties, and company values to make decisions that lead to more effective executive attention and communication
 * Maintain the executives’ calendars in a thoughtful and purposeful manner, ensuring meetings contain the appropriate attendees, agenda items, and any changes are done with full consideration of a global team, spanning multiple time zones; ensure executive is prepped and briefed as necessary for each meeting
 * Make recommendations for the executive in order to more effectively manage their time, prioritize, delegate and organize
@@ -216,21 +216,16 @@ The Staff Executive Business Administrator is a [grade 8](/handbook/total-reward
 * Assist the full life cycle of recruiting activity for the executive,  including booking interviews, liaising between the hiring team and the candidate, and coordinating onboarding of newly hired executives
 * Manage executive’s email inbox including drafting internal and external communications on behalf of the executive when required
 * Compile receipts to submit timely and accurate expense reports on a monthly basis
-* Document preparation for meetings such as creation of agendas for team meetings, presentations for group conversations, tracking key deliverables and action items, maintain operational metrics or KPIs for the department
-* Hiring, developing and retaining the Administrative team by setting the strategy and prioritizing GitLab’s Objectives and Key Results (OKRs)
-* Maintain the health of the EBA organization, including hiring, on-boarding, training and development, and capacity planning
 * Liaise effectively with EBA counterparts and build strong and collaborative working relationships with a wide range of company stakeholders at all levels
 * Orchestrate events such as team off-sites and team building activities
 * Serve as a helpful knowledge base for executives and other team members (e.g., other EBAs), especially for processes and procedures, and provide assistance in a hands-on, kind, and proactive manner
 * Work flexible hours to support global business meetings; some travel is required
-* Continually improve processes and procedures to reduce work time and cost without compromising work quality;  take proactive measures to prevent yourself from burnout
 * Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
 * Other duties (and ad hoc tasks) as assigned in support of your executive and business
 
-#### Staff Executive Business Administrator to the CEO Requirements
+#### Senior Executive Business Administrator to the CEO Requirements
 
-* Minimum 8+ years supporting a C-Level Executive(s) as an executive business partner at a quickly-scaling company, effectively representing the personal brand of the executive as well as the company’s culture and value
-* Minimum 2 years experience managing a team
+* Experience supporting a C-Level Executive(s) as an EA or executive business partner at a quickly-scaling company, effectively representing the personal brand of the executive as well as the company’s culture and value
 * High integrity and track record of maintaining confidentiality of all work product and sensitive information
 * Strong attention to detail and proofreading ability
 * Extensive technical skills with Google Workspace, Zoom, Slack and Expensify among other tools; demonstrated ability to adopt technical tools quickly (i.e. GitLab.com)
