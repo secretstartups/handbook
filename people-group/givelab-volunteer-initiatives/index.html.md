@@ -27,8 +27,8 @@ Team members are encouraged to take part in an initiative within their local com
 1. Showcase the initiative and your contributions by sharing feedback and images both in #givelab and on social media - it is important to tag `@gitlab` and use `#givelab` when doing so though as posts may be shared from time-to-time taking into account current demands.
 1. Give yourself a pat on the back. Thank you for taking part and helping to spread some love!
 
-### GitLab Donation Drive
-The `GitLab Donation Drive` started as an internal challenge to GitLab team members to donate 5,000 meals to [US Food Banks](https://www.feedingamerica.org/find-your-local-foodbank) over the course of a week - this initiative quickly gained traction and saw over 50,000 meals being donated across 66 unique food banks in the US within a matter of only 32 hours!  The challenge was then opened up globally and at last count has hit in the region 90,000 meals donated across seven countries.
+### GitLab Donation Drives
+The first `GitLab Donation Drive` in 2020 started as an internal challenge to GitLab team members to donate 5,000 meals to [US Food Banks](https://www.feedingamerica.org/find-your-local-foodbank) over the course of a week. This initiative quickly gained traction and saw over 100,000 meals being donated across 19 countries. 2021's campaign expanded to include any type of donation, including donations of time as part of [Global Volunteer Month](#global-volunteer-month).
 
 ### Be the Bridge
 The [People Operations](/job-families/people-ops/people-operations/) and [Diversity, Inclusion and Belonging (DIB)](/job-families/people-ops/diversity-inclusion-partner/) teams collaborated to establish the [Be the Bridge Program](/company/culture/inclusion/be-the-bridge-program/) which is geared toward creating opportunities for those external to GitLab to establish a mentor relationship with a GitLab team member who will be able to offer insights, share knowledge about open source and answer pertinent questions.
