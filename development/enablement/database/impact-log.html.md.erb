@@ -17,7 +17,7 @@ This page captures the database group's impact and wins (most recent first). We'
 
 #### November 2021: Index bloat reduction on GitLab.com
 
-We implemented priority reindexing which allows us to target specific indexes as needed. This helped to [reduce index bloat built up throughout a large data migration](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/208#note_726520964) and reduced GitLab.com index bloat by >500 GB total (down to 17% from 25% relative btree bloat across the site).
+We implemented priority reindexing which allows us to target specific indexes as needed. This helped to [reduce index bloat built up throughout a large data migration](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/208#note_726520964). It reduced GitLab.com index bloat by >500 GB total (down to 17% from 25% relative btree bloat across the site) and [stabilized the index bloat forecast](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/201).
 
 #### Throughout 2021: Prevent primary key integer overflow
 
