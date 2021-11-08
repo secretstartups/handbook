@@ -39,6 +39,8 @@ description: "How to complete an NDA Request"
 - The fully executed NDA will be uploaded to ContractWorks [by the GitLab Legal Team] accordingly. 
 
 
+## Non-Standard NDA Requests
+
 The processes above are only for standard GitLab NDAs. In the event a non-standard NDA is requested, please follow the applicable steps below:
 
 - NDAs regarding Customers and/or Partners require a [Legal Request](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal) to be opened;
