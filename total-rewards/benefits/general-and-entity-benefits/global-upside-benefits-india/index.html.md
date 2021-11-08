@@ -20,9 +20,8 @@ All of the benefits listed below are administered and managed by [Global Upside]
 
 | Email | Purpose |
 | ------ | ------ |
-| `hr@globalpeoservices.com` | Employment-related questions |
-| `benefitsops@globalupside.com` | Questions regarding benefits elections |
-| `IndiaPayroll@globalpeoservices.com` | Payroll-related questions |
+| `gitlabpayroll@globalpeoservices.com` | Payroll-related questions |
+| `gitlabHR@globalpeoservices.com` | All Other Queries (Benefits, Human Resources and Leave) |
 
 ### Medical Benefits
 
