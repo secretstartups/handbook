@@ -71,6 +71,7 @@ Based on the Job Family responsibilities, [values](https://about.gitlab.com/hand
 Examples: 
 
 - The team member needs a lot of guidance from the manager with the majority of tasks to understand requirements and deliverables expected.
+- The team member has not been in the position long enough to adequately demonstrate their capacity. For example, the team member was recently promoted or has changed roles and needs more time to ramp up.
 - The team member is missing important due dates which is affecting the team, GitLab and/or customers. 
 - The team member still needs to adapt remote working best practices. For example, the team member does not manage their own time or work to achieve results or may have difficulty with asyncronous communication. 
 - The team member lacks (a part of) the knowledge, skills and abilities which are required for the role, resulting in a low quality of work being delivered.
