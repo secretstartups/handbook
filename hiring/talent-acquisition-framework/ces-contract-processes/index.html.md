@@ -324,10 +324,11 @@ The process for New Hires is as follows:
 1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 1. The Candidate Experience Specialist will update the GreenHouse Offer Details with BSN and Date of Birth when the new team member provides the necessary details and then generates the "IT BV Employee Temporary - the Netherlands" contract out of GreenHouse.
 1. The Candidate Experience Specialist will stage the contract for signature via DocuSign, CC the hiring manager, and CC the HRSavvy group email. This will ensure our payroll provider in this location can start their onboarding, well ahead of ours.
+1. Please note that you should _not_ be running a criminal background check for the Netherlands, because they'll be doing a different process (Certificate of Good Conduct/VoGS) instead. Please only run an employment verification. 
 
 The People Operation Specialist are in charge of [contract renewals](/handbook/people-group/contracts-probation-periods/#contract-renewals). The process the **end of the first 12-month GitLab BV Netherlands temporary contract** is listed in their [Netherlands Renewal Process](/handbook/people-group/contracts-probation-periods/#netherlands-renewal-process) section of the [Contracts, Probation Periods & PIAA](/handbook/people-group/contracts-probation-periods/) handbook page.
 
-_GitLab IT BV contracts should only be used for contractors. All Netherlands **employees** should be issued the GitLab BV contract. PEO contract templates should be provided by the PEO directly. We should not use GitLab BV or GitLab IT BV contracts for PEO models._
+_GitLab IT BV contracts should only be used for contractors. All Netherlands **employees** should be issued the GitLab BV contract._
 
 ## Process for GitLab Team Members in Australia
 GitLab has an entity in this location. All team members in this location are employees.
