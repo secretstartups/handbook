@@ -85,6 +85,7 @@ SAFE Data in Google Sheets files can be accessed using the instructions for [Acc
 ### Finance
 
 * [TD: Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr/)
+* [Zuora Revenue Waterfall](/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
 
 ### Product
 
