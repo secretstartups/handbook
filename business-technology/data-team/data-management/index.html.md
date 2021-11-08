@@ -91,7 +91,7 @@ Here is a sample checklist of activities:
      - All Snowflake accounts from GitLab team members that are off-boarded, should be deactived from the day they are off-boarded. This activity checks for any active accounts for off-boared GitLab team members. Subsequently any active account will be deactivated. 
 - Deactivate any account, that has not logged-in within the past 60 days from the moment of performing an audit, from Snowflake.
      - Any named user Snowflake account that hasn't logged for more than 60 days will be deactivated. After deactivation, the user will be informed. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
-     - Validate all user accounts require multi-factor authentication.
+     - Validate all user accounts do not have password set.
 
 ### Sisense
 - Deactivate off-boarded employees from Sisense.
