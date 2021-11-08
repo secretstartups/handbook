@@ -76,7 +76,7 @@ If you have any questions about the process, please post in #eba-team Slack chan
 
 Please ensure you have the [Prelude Chrome Extension](https://chrome.google.com/webstore/detail/interview-schedule/nbimjaonnklighojgkihkipemiaimgdk) installed on your Chrome Browser.
 
-Prelude processes can be found [here](https://about.gitlab.com/handbook/hiring/interview-schedule/).
+Prelude processes can be found [here](https://about.gitlab.com/handbook/hiring/prelude/).
 
 #### Resource - Candidate Guide
 
@@ -149,10 +149,11 @@ For additional information on reviewing Background checks see [this page](/handb
 1. Under "Applicant Information" enter in the candidate's first and last name, as well as their email address to confirm.
 1. Next, select "International" from the "Job Position" drop down menu.
 1. Next, select "A La Carte" from the "Screening Packing".
-1. After that, you will select "Criminal-International". A drop down menu will appear, and you will select the country the candidate is located in. Then click "Add"
+1. After that, you will select "Criminal-International". A drop down menu will appear, and you will select the country the candidate is located in. Then click "Add". Do this for any country other than Japan, Russia, or the Netherlands (details below).
 1. You'll then select "Verification-Employment (International") and click "Add".
 1. If you are submitting a background check for a candidate located in Japan or Russia **or if you need to run a financial check for Finance team candidates**, you will select `Extended Global Sanctions` instead of "Criminal-International". Then click "Add"
-1. Make sure the criminal check with country of the candidate is included in the "Search" box.
+1. If you are submitting a background check for the Netherlands, please skip the criminal international check and proceed only with employment verification. The candidate will be completing a VoGS/Certificate of Good Conduct with HRSavvy instead.
+1. Make sure each of the checks you have requested are listed in the "Search" box.
 1. Finally, scroll to the bottom of the page and click "Send"
 1. Make a note in the Greenhouse profile that the Background Check has been started
 
@@ -164,6 +165,7 @@ For additional information on reviewing Background checks see [this page](/handb
 1. Next, select `à la carte` from the Screening Package dropdown.
 1. Next, select `Criminal-International` from the Add-Ons dropdown (can search in the search bar), and push TAB to populate the "Jurisdiction for Criminal-International" box on the righthand side. 
    - If you are submitting a background check for a candidate located in Japan or Russia, **or if you need to run a financial check for Finance team candidates**, you will select `Extended Global Sanctions` instead of "Criminal-International".
+   - If you are submitting a background check for the Netherlands, do not order a `Criminal-International` check and move on to the next step.
 1. Next, select `Verification-Employment (International)` from the Add-Ons drowpdown.
 1. Next, select the candidate's country from the dropdown on the righthand side under `Add-On Details`. 
 1. Next, enter in the candidate's location under `Location of Employment`.
