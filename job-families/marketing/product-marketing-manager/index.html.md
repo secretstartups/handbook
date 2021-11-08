@@ -127,11 +127,11 @@ As a Product Marketing Manager, Agile-Planning Specialist, you will work closely
 * Understand enterprise buyer and user personas tasked with both project and product manager tools and solutions and how to market to them.
 * Experience with Jira, Rally, Version One, Agile Craft and other planning and portfolio mgt tools.
 
-#### Competitive Intelligence Specialist
-As a Competitive Intelligence Product Marketer, you will work closely with a wide range of cross-functional teams (Product, Marketing, Sales) to turn competitive insights into actionable advantages for GitLab’s go-to-market motion. To achieve this ambition, you will organize and distill competitive intelligence, educate our teams, and create specific competitive playbooks & content that increase our share of the market. Product Marketing (Competitive Intelligence) reports to the Senior Director, Product & Solutions Marketing.
+### Competitive Intelligence Specialist
+As a Competitive Intelligence Product Marketer, you will work closely with a wide range of cross-functional teams (Product, Marketing, Sales) to turn competitive insights into actionable advantages for GitLab’s go-to-market motion. To achieve this ambition, you will organize and distill competitive intelligence, educate our teams, and create specific competitive playbooks & content that increase our share of the market.
 
 #### Requirements
-* At least 5 years developing competitive collateral (e.g. playbooks, content, decks, demos, webinars, videos, battle cards, ROI tools, etc.) and collaborating with GTM teams (Marketing & Sales) on competitive response situations.
+* Experience developing competitive collateral (e.g. playbooks, content, decks, demos, webinars, videos, battle cards, ROI tools, etc.) and collaborating with GTM teams (Marketing & Sales) on competitive response situations is a plus.
 * Prior experience in Product Development or Software Engineering & Architecture is a plus.
 * Prior experience in Solution Architecture & Engineering or Technical Account Management is a plus.
 * Hands-on experience installing, configuring, evaluating, and analyzing competitive and complementary technologies to compare and differentiate them.
