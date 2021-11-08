@@ -49,7 +49,7 @@ Why is psychological safety important? When you have psychological safety in the
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQn6_E_jGgOUz9OBe0hYopG5MYF4k6-MV2NsdESCpxjYenS9ikKD8mylL_Id44GXzl5-lHLltwHsWLD/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-Amy Edmonson uses David Kantor's model to show the [relationship between Psychological Safety and Accountability & Motivation](https://peopletalking.com.au/project/psychological-safety/). When there is an environment where psychological safety is low or non-existent, it can be very stress or anxiety filled. When there is high psychological safety, it can make more comfortable. You can get a better picture of this from the diagram below. 
+Amy Edmondson uses David Kantor's model to show the [relationship between Psychological Safety and Accountability & Motivation](https://peopletalking.com.au/project/psychological-safety/). When there is an environment where psychological safety is low or non-existent, it can be very stress or anxiety filled. When there is high psychological safety, it can make more comfortable. You can get a better picture of this from the diagram below. 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvy9_S6SM97risN1JCRC4Hy0rTRt3PQXdMhl_D_xxEFi-W4F5FYL04FrZp62HgrPlt6N-O8Um-gnCk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
