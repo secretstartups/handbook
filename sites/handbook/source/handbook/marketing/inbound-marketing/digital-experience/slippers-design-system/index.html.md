@@ -14,8 +14,8 @@ title: "Slippers Design System Documentation"
 Slippers is following [Semantic Versioning](https://semver.org/) and is currently in 0.x.y and is **not considered stable**. 
 
 ## Resources
-* [Slippers Design System repository](https://gitlab.com/gitlab-com/marketing/inbound-marketing/slippers-ui)
-* [Slippers Design System webpage](https://gitlab-com.gitlab.io/marketing/inbound-marketing/slippers-ui/)
+* [Slippers Design System repository](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui)
+* [Slippers Design System webpage](https://gitlab-com.gitlab.io/marketing/digital-experience/slippers-ui/)
 * [Architecture discussion video Jan 2020](https://www.youtube.com/watch?v=-JUtVOAaQcE&list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba&index=7)
 * [Digital definitions](/handbook/marketing/inbound-marketing/digital-experience/digital-definitions/)
 * [GitLab Blog: Why design systems benefit everyone](https://about.gitlab.com/blog/2021/03/05/starting-from-the-start-slippers-design-system/)
