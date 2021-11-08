@@ -98,7 +98,7 @@ Candidates for this position can generally expect the hiring process to follow t
 * Next, candidates will be invited to schedule a 45 minute fifth interview with a VP of Product or above
 
 ### Director of Product Management
-Director of Product Management reports to either a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product Management](#vp-of-product-management).
+This role typically manages 4-6 direct reports, including Product Managers and Group Managers of Product Management, and reports to either a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product Management](#vp-of-product-management).
 
 #### Director of Product Management - Job Grade
 The Director, Product Management is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -178,7 +178,7 @@ Candidates for this position can generally expect the hiring process to follow t
 * Finally, candidates may be asked to schedule a 50 minute final interview with our CEO
 
 ### Senior Director of Product Management
-Senior Director of Product Management reports to the [VP of Product Management](#vp-of-product-management).
+This role typically manages 4-6 direct reports, including Product Managers, Group Managers of Product Management, and Directors of Product Management, and reports to the [VP of Product Management](#vp-of-product-management).
 
 #### Senior Director of Product Management - Job Grade
 The  Senior Director, Product Management is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -227,7 +227,8 @@ Candidates for this position can generally expect the hiring process to follow t
 * Finally, candidates may be asked to schedule a 50 minute final interview with our CEO
 
 ### VP of Product Management
-The VP of Product Management reports to the [Chief Product Officer](/job-families/product/chief-product-officer/).
+
+This role typically manages 4-6 direct reports, including Group Managers of Product Management, Directors of Product Management and Senior Directors of Product Management, and reports to the [Chief Product Officer](/job-families/product/chief-product-officer/).
 
 #### VP of Product Management - Job Grade
 
