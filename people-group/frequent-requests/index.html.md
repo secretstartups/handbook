@@ -141,13 +141,7 @@ Our HRIS (human resource management system) is BambooHR and it is our Single Sou
     - For US-based team members, an updated Social Security card is preferrable.
        - We ask for an updated Social Security card to insure tax records and payroll are aligned. 
     - For non-US team members, please provide a legal document showing your new name, with the approving regional or federal goverment listed.
-- People Experience: Update Name in BambooHR. 
-- People Experience: Update email adress in BambooHR and this will sync to Okta and GSuite.
-- People Experience: Update the name in Slack.
-- People Experience: Create an MR to update the Team Page with the new name, new GitLab username, as well as any direct reports with the new GitLab username. Ensure to rename the team members image file with the new name as well. 
-- People Experience: If the email is updated, the PEA will also need to update this [mapping file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/connectors-gem/-/blob/main/data/email_mapper.yml) as BambooHR emails can be updated however, Slack emails can not.
-- People Experience: The PEA will then need to create a [People Engineering ticket](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/new?issue%5Bmilestone_id%5D=) to have them create and push new release for the gem and upgrade the Nominator Bot and People Connect Bot project to the new gem version.
-   - Updating that file and gem, will make sure that all the team members details still populate in People Connect tickets as well as route the correct way in the Nominator Bot.
+- People Experience: Complete all to do steps in the [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/Name_change_request.md)
 
 ## Reporting Requests
 All requests for BambooHR-related data or reports with personal people data should be made through an [Access Request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests).
