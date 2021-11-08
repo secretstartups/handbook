@@ -7,9 +7,11 @@ description: "How to complete an NDA Request"
 ## Overview
 
 
-**Only GitLab Team Members with signature authority can execute agreements on behalf of GitLab, including Non-Disclosure Agreements (NDAs).** Please visit the [Signatory Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) to identify individuals that may sign. If you have any questions, contact `#legal` in Slack. 
+- **Only GitLab Team Members with signature authority can execute agreements on behalf of GitLab, including Non-Disclosure Agreements (NDAs).** 
 
-For Team Members who will regularly require agreements to be signed, please open an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) for Docusign. Manager approval will be required.
+- Please visit the [Signatory Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) to identify individuals that may sign. If you have any questions, contact `#legal` in Slack. 
+
+- For Team Members who will regularly require agreements to be signed, please open an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) for Docusign. Manager approval will be required.
 
 
 ## Team Members with Docusign Access
@@ -26,7 +28,7 @@ For Team Members who will regularly require agreements to be signed, please open
 - Click Send;
 
 **Please note:** You will be notified by email when the recipient has signed the requested NDA.
-- **Sales Team Members:** Upload the fully executed copy of the NDA to Salesforce in the appropriate Account.
+- **Sales Team Members:** Upload the fully executed copy of the NDA to Salesforce in the Customer Account.
 - **Procurement Team Member:** Upload the fully executed NDA to the applicable folder with ContractWorks. 
 
 
