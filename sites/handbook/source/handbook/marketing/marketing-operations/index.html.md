@@ -461,17 +461,28 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 
 Marketing Operations has the responsibility for cleaning and enriching our database of leads/contacts with the most complete and up to date information. 
 
-The cleaning part of this process is currently being done using our lead/contact deduplication tool, Ringlead. The enrichment part of the process is done using the data appending/enrichment tool, [Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to account/lead/contact data. 
+The cleaning part of this process is currently being done using our lead/contact deduplication tool, Ringlead. 
+
+The enrichment part of the process is done using the data appending/enrichment tool, [Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to account/lead/contact data. 
 
 This cleaning & enrichment process has 4 main priorities:  
 
 1. **Increase Email Deliverability** by implementing email Validation & verification at point of capture (POC) - Implemented with [NeverBounce](https://neverbounce.com/?fbclid=IwAR1bdezYBpqMH58zm24yg_RFGdeF4VCgBHVQCJKYtTyf-Iegd9gZ1_GhTII). 
-2. **Enrich net new leads with Form Complete**  - Soon to be live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms. 
-3. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads are currently enriched via a Marketo Webhook and Marketo Zoominfo integration. You can find more details on the [Zoominfo Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/). 
-4. **Assure Data Cleanliness & Accuracy** - Lead & Contact Deduplication splits naturally in three main parts: 
+2. **Enrich net new leads with Form Complete**  - Live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms. 
+3. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads are currently enriched via a Marketo Webhook and Marketo Zoominfo integration. 
+4. **Assure Data Cleanliness & Accuracy** - Lead & Contact Deduplication splits naturally in these main parts: 
 	* Lead to Lead Deduplication 
+  * Converting Leads to New Contacts
 	* Contact to Contact Deduplication
-	* Lead to Contact Deduplication (Aiming to have it live in Q3)
+  * Converting Leads to Matching Contacts
+	* Lead to Contact Deduplication 
 
-**Cleaning & Enrichment Frequency:** While the email verification & enrichment jobs for net new leads, from our forms, work on a continuous bases, a full refresh, enrichment of our entire existing database of leads/contacts and the merging of duplicate leads in our database **is done on a quarterly basis**. 
+For more information regarding our data deduplication process visit the [Ringlead Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/ringlead/).
 
+**Cleaning & Enrichment Frequency:** While the email verification & enrichment jobs for net new leads, from our forms, work on a continuous bases, when it comes to enrichment of our existing leads & contacts in SFDC, this is done via scheduled enrichment jobs as follows: 
+
+1. Leads that are not in Raw, Bad Data, Unqualified, Web Portal Purchase statuses are enriched on a weekly basis. Working to extend this to all leads in Q4.  
+2. All leads created in the last 7 Days are enriched daily to make sure no new leads from list uploads miss enrichment.
+3. All contacts in our SFDC get enriched weekly. 
+
+You can find more details on the enrichment process in our [Zoominfo Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/). 
