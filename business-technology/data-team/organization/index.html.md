@@ -59,7 +59,7 @@ classDiagram
 | `@ken_aguilar`       | `@snalamaru`           | `@pempey` _Lead_                |
 | `@jeanpeguero`       | `@chrissharp`          | `@jjstark` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  |
 | `@michellecooper`       | `@ttnguyen28`           |   |
-| `@tpoole1`    | `mdrussell`  |                                 |
+| `@tpoole1`    | `@mdrussell`  |                                 |
 | `@paul_armstrong` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts) |`@jeanpeguero ` GTM Fusion Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  | |  
 |  |`@rbacovic` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  | |  
 
