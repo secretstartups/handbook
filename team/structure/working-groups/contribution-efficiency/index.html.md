@@ -28,11 +28,11 @@ Implement key business iterations that results in substantial and sustained incr
 ### Exit Criteria (0% completed)
 
 1. Implement 5 experiments aimed at increasing community contributors and document results broadly
-   1. TBD
-   1. TBD
-   1. TBD
-   1. TBD
-   1. TBD           
+   1. Decreasing community MR Review time
+   1. Create additional awards 
+   1. Education sector outreach 
+   1. Hackathon continuation 
+   1. TBD outreach effort
 1. Improve upon contribution process based on successful experiment, optimize into our day-to-day operations 
 1. Delivery key joint strategy of increasing community contributors & contributions and hold company-wide AMA
 1. Setup first iteration of community cohort team 
