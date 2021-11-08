@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Nov 3       |   [Kubernetes Integrations with the Agent](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/145#note_719999169)             |  Viktor Nagy              |
+| Nov 3       |   [Kubernetes Integrations with the Agent](https://youtu.be/kgFbgsCsNTo)             |  Viktor Nagy              |
 
 
 
@@ -33,18 +33,18 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
-| 2021-11-03    |   **[Kubernetes Integration with the Agent](https://youtu.be/kgFbgsCsNTo)**              |    Public           |
-| 2021-10-20    |   **[GitOps with GitLab](https://youtu.be/9laTbEb2jbM)**             |  Private              |
-| 2021-10-06      |   **[GitOps using GitLab Terraform and Terratag](https://youtu.be/dMo11PzhVQI)**             |    Public           |
-| 2021-09-15      |   **[Gitlab + DVC for Code and Data Version Control](https://youtu.be/fvwQQbvSyj8)**    |    Private       |
-| 2021-09-01       |  **[Reporting Options/ Metrics with GitLab](https://youtu.be/1nOzwl2vO3k)**             |  Private             |
-| 2021-08-18     |    **[Group Conversation: Demo Repo](https://youtu.be/3j8ypg7TX64)**            |    Private            |
-| 2021-08-04   |   **[Creating and Deploying a Helm Chart with CICD](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/131)**   |  Public    |
+| 2021-11-03 | **[Kubernetes Integration with the Agent](https://youtu.be/kgFbgsCsNTo)**             |    Public           |
+| 2021-10-20 | **[GitOps with GitLab](https://youtu.be/9laTbEb2jbM)**             |  Private              |
+| 2021-10-06 | **[GitOps using GitLab Terraform and Terratag](https://youtu.be/dMo11PzhVQI)**             |    Public           |
+| 2021-09-15 | **[Gitlab + DVC for Code and Data Version Control](https://youtu.be/fvwQQbvSyj8)**    |    Private       |
+| 2021-09-01 | **[Reporting Options/ Metrics with GitLab](https://youtu.be/1nOzwl2vO3k)**             |  Private             |
+| 2021-08-18 | **[Group Conversation: Demo Repo](https://youtu.be/3j8ypg7TX64)**            |    Private            |
+| 2021-08-04 | **[Creating and Deploying a Helm Chart with CICD](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/131)**   |  Public    |
 | 2021-07-14 | **[How to Introduce PS with Ease](https://youtu.be/JU3aXg7Hry0)** | Private |
 | 2021-06-16 | **[Container Host Security - Getting Started with Falco](https://youtu.be/LtQrLXzFc8E)** |   Public              |
 | 2021-05-19 | **[Enablement Roundtable - Completed OKR's](https://youtu.be/m6w4mVhA2GY)** |    Private          |
 | 2021-05-04 | **[Incident Management](https://youtu.be/iEepe2uy1uM)** |   Public          |
-| 2021-04-21 |  **[GitLab's GraphQL API](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/71)**       | Public        |
+| 2021-04-21 | **[GitLab's GraphQL API](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/71)**       | Public        |
 | 2021-03-31 | **[Integrate & Analyze Usage Data in Gainsight](https://youtu.be/h2mPxX-uotw)**              |   Private        |
 | 2021-03-24 | **[Product Roadmap Update](https://youtu.be/2K5wVhitfBk)**            |  Public          |
 | 2021-03-10 | **[Peeling back the layers of Auto Devops](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/121)**  | Public |
