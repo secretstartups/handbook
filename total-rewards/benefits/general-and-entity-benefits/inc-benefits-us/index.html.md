@@ -16,13 +16,21 @@ description: "GitLab Inc (US) benefits specific to US based team members."
 
 ## Specific to US based team members
  
-US based benefits are arranged through Willis Towers Watson and managed on the [PlanSource platform](https://benefits.plansource.com.). The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available. 
+US based benefits are arranged through Willis Towers Watson and managed on the PlanSource platform. The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available. 
  
-**The 2021 Open Enrollment for the 2022 plan year will take place November 8th through November 19th. Your plan will renew January 1, 2022. This will be a passive enrollment, it is not required to log into PlanSource to complete your enrollment unless you wish to make a change _and/or to enroll in a Flexible Spending Account (FSA) or Dependent Care FSA (DCFSA) for 2022. You will not have an FSA or DCFSA in 2022 if you do not elect into them during Open Enrollment._** Information and a digital benefits guide for 2022 will be made available soon
- 
-For an overview of the the 2022 plan year enhancements and changes, please review the [2022 Plan Year US Benefits Open Enrollment Memo](https://drive.google.com/file/d/1wwakNs1d336V3D7b2q5x_l7TFqRIF_KM/view?usp=sharing)
+## 2021 Open Enrollment for the 2022 Plan Year
 
-Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits. Please review the [2022 Annual Rights and Notices](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing).
+**The 2021 Open Enrollment for the 2022 plan year will take place November 8th through November 19th. This year will be a passive enrollment, meaning if you like the plans you are in now, you do not need to take any action to keep them for 2022 with the exception of Flexible Spending Accounts (FSAs), which you must actively (re)enroll in every year. You will not have an FSA or DCFSA in 2022 if you do not elect into them during Open Enrollment.** 
+
+Please see additional information on the 2022 US Benefit Plans: 
+ 
+* For a summary of 2022 plan year enhancements and changes, please review the [2022 Plan Year US Benefits Open Enrollment Memo](https://drive.google.com/file/d/1wwakNs1d336V3D7b2q5x_l7TFqRIF_KM/view?usp=sharing)
+
+* Review the [2022 US Benefits Guide](https://drive.google.com/file/d/1vZD_4CqeQHsxUbrjsdWb0GRgieeOxi0K/view) for full plan details and updated plan rates. Please note, 2022 medical and dental dependent rates have increased in line with standard medical inflation and team members will see an increase in their contributions for dependent cover.  GitLab will continue to cover 100% of team member premiums and 66% of dependent premiums for medical, dental, and vision coverage.
+
+* Watch the [2022 US Benefits Open Enrollment Video](https://www.brainshark.com/1/player/willis?pi=zHWzlwS5CzaInCz0&r3f1=&fb=0) for a full review of the Benefit Plans. 
+
+* Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits. Please review the [2022 Annual Rights and Notices](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing).
  
 ## Who To Contact
  
