@@ -153,7 +153,7 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 
 ### Executive Business Administrator, Manager 
 
-Senior Executive Business Administrators report to the E-Group leader they support. 
+Senior Executive Business Administrators report to the E-Group leader they support or the Chief of Staff of their function (i.e. Chief of Staff, CEO or Chief of Staff, CRO). 
 
 #### Executive Business Administrator, Manager Job Grade
 
