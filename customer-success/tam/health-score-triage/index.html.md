@@ -30,6 +30,21 @@ Health primarily considers the business impact to GitLab by evaluating the deliv
 
 The items below serve as *guidelines* for the TAM to assess and record customer health and should consider where the customer is their lifecycle journey. Account health feeds into [open renewal opportunities](/handbook/customer-success/tam/renewals/#tracking-renewal-opportunity-health-and-risks).
 
+Understanding how Gainsight calculates a measure score to be Red, Yellow, or Green: 
+
+Gainsight scoring framework:
+- Green: 75-100 points
+- Yellow: 50-74 points
+- Red: 0-49 points
+
+[Link to Gainsight Calculation of Measure Group Scores and Overall Score](https://support.gainsight.com/Gainsight_NXT/05Scorecards/02Admin_Guides/Calculation_of_Group_Scores_and_Overall_Scores)
+
+Calculation: ((Score * Weight) + (Score * Weight)... / (Max Potential Score * Weight)
+
+To view the score, hover over the colored circle.
+The weight is shown in the upper right corner of the metric. 
+
+
 ### Green
 
 Customer is very likely to renew and/or expand with no known or assumed risk of downsell or churn. Customer's experience: engagement, adoption and experiences are as expected or better than expected, delivering value and outcomes as appropriate the customer's stage in their journey. Examples:
