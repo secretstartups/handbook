@@ -14,7 +14,7 @@ description: "This page in an overview of all things related to the Sales System
 Sales Systems exists to support the GitLab field organization by providing reliable, scalable, and intuitive technology platforms for everyday use. Primarily working on Salesforce.com and its related business systems, our goal is to constantly deliver value in the form of features to our end users. We also act as the connective tissue between business and technology, gathering requirements from our internal customers, designing the technical specifications and executing on the delivery of the solution.
 
 ## Team Skill Sets
-Below is a list of the different technical skill sets found on the Sales System team. Note: A Sales Systems team member might be using a mix of the following skills sets at any one time.
+Below is a list of the different technical skill sets found on the Sales System team. Note: A Sales Systems team member might be using a mix of the following skills sets at any one time. .
 
 | Role | Expertise |
 | ------ | ------ |
@@ -185,6 +185,10 @@ Combining the two axis above results in the below priority matrix.
 
 
 ## Salesforce specific policies and actions
+
+### Salesforce password policies
+
+Persuant with GitLab's [best practices for password security](https://about.gitlab.com/handbook/security/#gitlab-password-policy-guidelines), our Salesforce environment requires that users use passwords with at least 12 characters, and that they must not re-use any of their last 24 passwords when resetting their password. 
 
 ### Installed Package Removal Process
 
