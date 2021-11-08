@@ -60,7 +60,7 @@ No action is needed by the CES team on this step. For additional information:
    - Note: Greenhouse reminders should be set for "Coordinator" not a specific person
 - After availability is received, CES will schedule interviews based on the interview plans in Greenhouse
    - CES will be using the Zoom integration with [Prelude](https://about.gitlab.com/handbook/hiring/interview-schedule/) for interviews
-- If the candidate is an internal candidate, the CES will tag Enablement in the GH profile to merge while candidate is still in the Team Interview stage.
+- If CES sees an alert to merge applicant profiles, and those profiles are a match (candidates' email address, phone number, or resume matches), they will merge the applicant profiles. Visit [People Technology and Operations page](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/#system-processes) for instructions.
 - CES will [send interview confirmations via Guide](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/#using-the-candidate-guide)
 - CES will not automatically schedule next interviews based off of scorecards
    - The Recruiter or Hiring Manager will need to tag `@ces` in Greenhouse with communication about specific next steps

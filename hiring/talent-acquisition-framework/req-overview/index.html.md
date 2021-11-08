@@ -199,7 +199,7 @@ See [Justification section in offer packages](/handbook/hiring/offers/#justifica
 
 Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. The Recruiter will ensure the offer is routed for approval. Please note, with the use of Guide, candidates will be made aware when they are moved into Offer stage so move stages with caution.
 
-If the candidate for the position is internal, the recruiter needs to tag Talent Acquisition Operations and Insights to merge Greenhouse profiles **prior** to submitting the offer for approval.
+If the candidate for the position is internal, you should wait until you've presented an offer to merge the applicants' profiles. Please visit the [People Technology and Operations page](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/#system-processes) for instructions. 
 
 If there are any special circumstances regarding a known relocation for the candidate, this information should be included in the Compensation Details. Details should include originating location and salary, as well as the new location and new salary details to ensure it is communicated as part of the approval.
 
