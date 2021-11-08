@@ -76,7 +76,9 @@ Please [contact the People Technology & Insights Team](https://gitlab.com/gl-tal
 
 * **Candidate Profile Merge Requests**
 
-  All of Talent Acquisition has access to merge profiles. If you have any questions, please contact the Enablement Manager because profile merges cannot be undone. You can merge candidate profiles by viewing the right hand toolbar on an applicant profile, and clicking on either the alert that appears at the top of the toolbar or `See More` in the `Tools`section.  
+  All of Talent Acquisition has access to merge profiles. If you have any questions, please contact the Enablement Manager because profile merges cannot be undone. You can merge candidate profiles by viewing the right hand toolbar on an applicant profile, and clicking on either the alert that appears at the top of the toolbar or `See More` in the `Tools`section. 
+
+  Before beginning, please ensure that the profiles are a match for each other by verifying that their emails, phone numbers, and/or resumes are the same.  
   
   When selecting which profile is Primary, consider the following: 
    * As a rule of thumb, the most recent applicant profile should most likely be the Primary one, unless the most recent is a Prospect.
