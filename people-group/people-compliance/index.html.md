@@ -77,7 +77,7 @@ Please see the [README.md](https://gitlab.com/gitlab-com/people-group/compliance
 * [Data Classification Policy](/handbook/engineering/security/data-classification-standard.html) - GitLab's Security Compliance policies related to data retention and disposal.
 * [Data Protection Impact Assessment (DPIA) Policy](/handbook/legal/privacy/dpia-policy) - GitLab's policies related to Data Protection.
 * [GitLab Audit Committee](/handbook/board-meetings/committees/audit/) - Information regarding GitLab's Audit Committee of the Board of Directors of GitLab Inc. 
-* [Total Rewards Audits](/handbook/total-rewards/total-rewards-audits/) - Information on some of our People Group audits.
+* [Total Rewards Audits](/handbook/people-group/people-experience-team/index.html.md) - Information on some of our People Group audits.
 
 ## Performance Indicators
 
