@@ -1,11 +1,8 @@
 ---
 layout: handbook-page-toc
-title: "[insert title of your page]"
-description: "[insert a short sentence to appear as part of search results]"
+title: "Non-Disclosure Agreement Process"
+description: "How to complete an NDA Request"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+## Overview
 
-- TOC
-{:toc .hidden-md .hidden-lg}
