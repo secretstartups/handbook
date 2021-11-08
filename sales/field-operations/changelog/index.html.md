@@ -18,6 +18,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2021-11-15 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/72))
 
+**Channel Ops: [Reseller Name Now Populates on Distributor Order Forms](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1942)**
 
 
 ## Q3-FY22 
