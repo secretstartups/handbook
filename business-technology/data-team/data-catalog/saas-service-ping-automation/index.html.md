@@ -223,6 +223,7 @@ In case of an error poped-up during the SQL execution and gathering of SQL-based
 In this situation, when any record appeared in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` do the following actions:
 
 - Analyze which query and metrics cause an error and try to run it manually to ensure what is the root cause of the problem1. Inform the team according to the process which metrics stuck
+- If fixing the issue take more than usual, and/or change is a bit more complex, inform the team as per instructions from [#triage-faq](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/#triage-faq)
 - Fix the issue (all depends is query is bad or some tables/columns are missing)
 - Deploy the code
 - Delete data from `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` table to avoid this error pop-up again
