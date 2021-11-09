@@ -166,7 +166,7 @@ If your team has enabled this, you will receive a list of up to 100 items that h
 
 #### Feature proposals
 
-This section contains issues with the `~"feature"` label without a milestone. It is divided further into issues with and without `~"customer"`
+This section contains issues with the `~"type::feature"` label without a milestone. It is divided further into issues with and without `~"customer"`
 
 * Triage owner: Product Manager(s) for that group.
 * Triage actions:
@@ -176,7 +176,7 @@ This section contains issues with the `~"feature"` label without a milestone. It
 
 #### Frontend bugs
 
-This section contains issues with the `~"bug"` and `~"frontend"` labels without priority and severity. It is divided further into issues with and without `~"customer"`
+This section contains issues with the `~"type::bug"` and `~"frontend"` labels without priority and severity. It is divided further into issues with and without `~"customer"`
 
 * Triage owner: Frontend Engineering Manager(s) for that group.
 * Triage actions:
@@ -187,7 +187,7 @@ This section contains issues with the `~"bug"` and `~"frontend"` labels without 
 
 #### Non-frontend bugs (likely backend)
 
-This section contains issues with the `~"bug"` label without priority and severity. It is divided further into issues with and without `~"customer"`
+This section contains issues with the `~"type::bug"` label without priority and severity. It is divided further into issues with and without `~"customer"`
 
 * Triage owner: Backend Engineering Manager(s) for that group.
 * Triage actions:
@@ -329,9 +329,9 @@ Issues which have a severity label and missed the [SLO target](/handbook/enginee
 
 ### Bug priority label inference
 
-Bugs which have a severity 1 or severity 2 label without a priority label will be labeled with the equal priority label. For example, a `~severity::1` `~bug` without a priority label will have `~priority::1` applied.
+Bugs which have a severity 1 or severity 2 label without a priority label will be labeled with the equal priority label. For example, a `~severity::1` `~"type::bug"` without a priority label will have `~priority::1` applied.
 
-* Automation Condition: `~bug` issue with `~severity::1` or `~severity::2` without a `~priority::*` label.
+* Automation Condition: `~"type::bug"` issue with `~severity::1` or `~severity::2` without a `~priority::*` label.
 * Automation Action:
   * Apply the `~priority::*` label of the same level
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/set-priority-from-severity.yml>
@@ -400,7 +400,7 @@ Merged merge requests with the `~"Community contribution"` label and no mileston
 GitLab values the time spent by contributors on reporting bugs. However, if a bug remains inactive for a very long period, it will qualify for auto-closure.
 The following is the policy for identification and auto-closure of inactive bugs.
 
-- If a `~"severity::3"` or `~"severity::4"` `~"bug"` issue is inactive for at least 12 months, it will be
+- If a `~"severity::3"` or `~"severity::4"` `~"type::bug"` issue is inactive for at least 12 months, it will be
 identified as eligible for auto-closure. At this point, the following actions occur:
     - Application of `~"vintage"` to indicate the issue has been inactive for a year.
     - Application of `~"stale"` to indicate that it is currently being identified for auto-closure.
@@ -444,7 +444,7 @@ Type labels ensure that issues are present in the [group triage report](#group-l
 Bugs have a severity label that indicates the [SLO for a fix](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity). This automated policy aims to prompt managers about bugs in their group that are approaching the SLO threshold
 
 * Automation Condition:
-  - Open issue labelled `~bug` and has a `~severity::1` or `~severity::2`
+  - Open issue labelled `~"type::bug"` and has a `~severity::1` or `~severity::2`
   - Time since current severity label was applied and today is over 75% towards the SLO threshold
 * Automation Action:
   *  Mention EM and PM on the issue to make them aware of the impending SLO breach
@@ -511,8 +511,8 @@ The following URLs are considered customer associated links:
 Whenever a subtype label is added, the corresponding type label is added.
 Current type labels with subtype labels are:
 
-* `~"feature"`
-* `~"tooling"`
+* `~"type::feature"`
+* `~"type::tooling"`
 
 ## Resources
 

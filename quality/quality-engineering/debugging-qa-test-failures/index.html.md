@@ -232,7 +232,7 @@ We use the following labels to capture the cause of the failure.
 - `~"failure::broken-test"`: [Bug in the test](#bug-in-the-test)
 - `~"failure::flaky-test"`: [Flaky test](#flaky-test)
 - `~"failure::test-environment"`: [Failure due to test environment](#failure-due-to-test-environment)
-- `~bug`: [Bug in the application](#bug-in-the-application)
+- `~"type::bug"`: [Bug in the application](#bug-in-the-application)
 
 Bugs blocking end-to-end test execution (due to the resulting quarantined tests) should additionally have severity and priority labels. For guidelines about which to choose, please see the [blocked tests section of the issue triage page](/handbook/engineering/quality/issue-triage/#blocked-tests).
 
@@ -266,7 +266,7 @@ The failure was caused by a bug in the application code.
 
 - Include your findings in a note in the issue about the failure.
 - Add the steps to reproduce the bug and expected/actual behavior.
-- Apply the `~"bug"` label, and cc-ing the corresponding Engineering Managers (EM), QEM, and SET.
+- Apply the `~"type::bug"` label, and cc-ing the corresponding Engineering Managers (EM), QEM, and SET.
 - If the problem adheres to the definition of a [transient bug](/handbook/engineering/quality/issue-triage/#transient-bugs), apply the ~"bug::transient" label as well.
 - If there is an issue open already for the bug, mark the new issue as a duplicate of the original bug.
 - Communicate the issue in the corresponding Slack channels.
@@ -368,7 +368,7 @@ To quarantine a test:
 > **Note** If the example has a `before` hook, [the `quarantine` metadata should be assigned to the outer context](#nested-contexts) to avoid running the `before` hook.
 
 - Create a merge request using the [Quarantine End to End Test](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/merge_request_templates/Quarantine%20End%20to%20End%20Test.md) template.
-  - The merge request shall have the labels: `~"Quality", ~"QA", ~"bug"`.
+  - The merge request shall have the labels: `~"Quality", ~"QA", ~"type::bug"`.
   - The merge request may have auto-deploy labels: `~"Pick into auto-deploy", ~"priority::1", and ~"severity::1"`. Please note that this is reserved for emergency cases only, such as blocked deployments, as it will delay all other deployments by around two hours.
   - The merge request may have stage or group labels. E.g. `~"devops::create" ~"group::source code"`.
   - The merge request shall have the current milestone.

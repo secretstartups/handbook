@@ -62,7 +62,7 @@ A rule of thumb for labelling each individual issue is that the issue should hav
  * One or more feature labels
 
 For more details about workflow labels, please read our
-[contributing guide](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#workflow-labels).
+[Product Development Flow](/handbook/product-development-flow/).
 
 ##### Effectively Triaging Issues
 
@@ -162,9 +162,9 @@ Diagnosing issues facing GitLab.com users is aided greatly by a good knowledge o
 
 ##### Checklist
 
-- [ ] Become comfortable with the concepts and principles outlined in the  [Engineering Workflow](/handbook/engineering/workflow/)
-- [ ] Find an existing ~bug issue to work on in the [GitLab-CE issue tracker bug list](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&state=opened&utf8=%E2%9C%93&label_name%5B%5D=bug)
-- [ ] Follow the [contributing guidelines](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md) and get your bug fix merged!
+- [ ] Become comfortable with the concepts and principles outlined in the [Engineering Workflow](/handbook/engineering/workflow/)
+- [ ] Find an existing `~type::bug` issue to work on in the [GitLab issue tracker bug list](https://gitlab.com/gitlab-org/gitlab/-/issues?sort=created_date&state=opened&label_name[]=type::bug)
+- [ ] Follow the [contributing guidelines](community/contribute/) and get your bug fix merged!
 
 #### Stage 4 - Prepare to gain production access to investigate production issues for GitLab.com
 
@@ -175,7 +175,7 @@ Diagnosing issues facing GitLab.com users is aided greatly by a good knowledge o
 
 ##### Debugging issues in the live Production environment
 
-Issues are often reported on GitLab-CE issue trackers that are already affecting our users and projects in production. GitLab.com is a valuable resource for understanding and reproducing newly found bugs and issues.
+Issues are often reported on GitLab issue trackers that are already affecting our users and projects in production. GitLab.com is a valuable resource for understanding and reproducing newly found bugs and issues.
 
 To investigate these issues you will need to gain access to the production Ruby on Rails console.
 

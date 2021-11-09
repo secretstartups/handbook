@@ -26,7 +26,7 @@ We define two levels of triage.
 An issue is considered partially triaged when:
 
 - Issue has a [type label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) applied.
-  - (For `~"bug"` and `~"UX Debt"`) It has a [severity label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) applied.
+  - (For `~"type::bug"` and `~"UX Debt"`) It has a [severity label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) applied.
 - Issue has a [stage label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels) applied.
 - Issue has a [group label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#group-labels) applied (e.g. `~"group:editor"`). If no group label exists, the stage label is enough.
 
@@ -34,7 +34,7 @@ An issue is considered partially triaged when:
 
 An issue is considered completely triaged when:
 
-- (For `~"bug"` and `~"UX Debt"`) It has a [priority label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels) applied.
+- (For `~"type::bug"` and `~"UX Debt"`) It has a [priority label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels) applied.
 - It has a milestone set.
 
 ## Priority
@@ -50,10 +50,10 @@ The priority label is used to indicate the importance and guide the scheduling o
 
 ## Severity
 
-Severity labels help us determine urgency and clearly communicate the impact of a `~bug` on users. There can be multiple categories of a `~bug`.
+Severity labels help us determine urgency and clearly communicate the impact of a `~"type::bug"` on users. There can be multiple categories of a `~"type::bug"`.
 The presence of bug category labels `~availability`, `~performance`, `~security`, and `~UX` denotes to use the severity definition in that category.
 
-| Type of `~bug` | `~severity::1`: Blocker | `~severity::2`: Critical | `~severity::3`: Major  | `~severity::4`: Low | Triage DRI |
+| Type of `~"type::bug"` | `~severity::1`: Blocker | `~severity::2`: Critical | `~severity::3`: Major  | `~severity::4`: Low | Triage DRI |
 |----------------|--------------------------|---------------------------|-------------------------|----------------------|------------|
 | General bugs   | Broken feature with no workaround. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. | |
 | `~performance` Response time <br> (API/Web/Git)[^1] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 200ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/quality/quality-engineering/sec-enablement-qe-team/) |
@@ -67,10 +67,10 @@ The presence of bug category labels `~availability`, `~performance`, `~security`
 
 ### Severity SLOs
 
-The severity label also helps us define the time a ~bug or ~"corrective action" of that severity should be completed.
+The severity label also helps us define the time a ~"type::bug" or ~"corrective action" of that severity should be completed.
 This indicates the expected timeline & urgency which is used to measure our SLO targets.
 
-| **Severity**   | Incident root cause analysis `~corrective action` SLO | `~bug` resolution SLO            |
+| **Severity**   | Incident root cause analysis `~corrective action` SLO | `~"type::bug"` resolution SLO            |
 |----------------|---------|--------------------------------------------------------------------------------|
 | `~severity::1` | 1 week  | The current release + next available deployment to GitLab.com (within 30 days) |
 | `~severity::2` | 30 days | The next release (60 days)                                                     |
@@ -98,7 +98,7 @@ If a issue seems to fall between two severity labels, assign it to the higher se
 
 ### Availability
 
-Issues with `~availability` label directly impacts the availability of GitLab.com SaaS. It is considered as another category of `~bug`. For the purposes of [Incident Management](/handbook/engineering/infrastructure/incident-management/), incident issue severities are chosen based on the `availability` severity matrix below.
+Issues with `~availability` label directly impacts the availability of GitLab.com SaaS. It is considered as another category of `~"type::bug"`. For the purposes of [Incident Management](/handbook/engineering/infrastructure/incident-management/), incident issue severities are chosen based on the `availability` severity matrix below.
 
 We categorize these issues based on the impact to GitLab.com's customer business goal and day to day workflow.
 
@@ -164,7 +164,7 @@ We must ensure coverage is stable and active by quickly resolving issues that ca
 
 #### Blocked tests prioritization
 
-To promote awareness of bugs blocking end-to-end test execution, newly opened ~test ~bug issues will be announced in several Slack channels:
+To promote awareness of bugs blocking end-to-end test execution, newly opened ~test ~"type::bug" issues will be announced in several Slack channels:
 
 - All newly opened bugs blocking end-to-end test execution should be announced in [#quality](https://gitlab.slack.com/archives/C3JJET4Q6) channel.
 - A newly opened bug blocking end-to-end test execution that is a product bug should also be announced in [#development](https://gitlab.slack.com/archives/C02PF508L) and [#vp-development](https://gitlab.slack.com/archives/CRC0B18UX) channels with the appropriate EM and PM tagged.
@@ -187,7 +187,7 @@ We encourage performance improvements to be broken down. Improve where we can an
 
 ### UX debt
 
-Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~severity::3`, because [MVCs](/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
+Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~"type::bug"` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~severity::3`, because [MVCs](/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
 
 ### Transient bugs
 
@@ -232,7 +232,7 @@ Keep our [user communication guidelines](/handbook/communication/#user-communica
 Check for duplicates! Searching for some keywords in the issue should give you a short list of possibilities to scan through.
 Check both open and closed issues, as it may be a duplicate of a solved problem.
 
-Consider whether the issue is still valid. Especially for older issues, a `~bug` may have been fixed since it was reported, or a `~feature` may have already been implemented.
+Consider whether the issue is still valid. Especially for older issues, a `~"type::bug"` may have been fixed since it was reported, or a `~"type::feature"` may have already been implemented.
 
 Be sure to check cross-reference notes from other issues or merge requests, they are a great source of information!
 For instance, by looking at a cross-referenced merge request, you could see a "Picked into `8-13-stable`, will go into `8.13.6`." which would mean that the issue is fixed since the version `8.13.6`.

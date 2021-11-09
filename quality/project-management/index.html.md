@@ -27,7 +27,7 @@ The Quality team currently works cross-functionally and our task ownership spans
     - [Staging tests](https://gitlab.com/gitlab-org/quality/staging)
     - [Canary test pipeline](https://gitlab.com/gitlab-org/quality/canary)
     - [Production test pipeline](https://gitlab.com/gitlab-org/quality/production)
-    - [Known QA failures](https://gitlab.com/groups/gitlab-org/quality/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=bug)
+    - [Known QA failures](https://gitlab.com/groups/gitlab-org/quality/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=type::bug)
     - [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit)
     - [GitLab Performance Tool (GPT)](https://gitlab.com/gitlab-org/quality/performance)
 

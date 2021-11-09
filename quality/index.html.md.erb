@@ -408,7 +408,7 @@ To mitigate high priority issues like [performance bugs](/handbook/engineering/q
 
 Quality Engineering will do the following in order to identify the issues to be highlighted in the refinement meeting:
 
-- Review existing customer impacting performance bugs [in our issue tracker](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=performance&label_name%5B%5D=customer&label_name%5B%5D=bug) and add the ~"performance-refinement" label.
+- Review existing customer impacting performance bugs [in our issue tracker](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=performance&label_name%5B%5D=customer&label_name[]=type::bug) and add the ~"performance-refinement" label.
 - Review issues raised due to failures in the daily performance tests and idenntify early warning on performance degradation which have not had customer exposure but poses a risk in the future. Apply the ~"performance-refinement" label for these issues as well.
 - Review all issues labelled as ~"bug::transient".
 
@@ -416,7 +416,7 @@ Quality Engineering will do the following in order to identify the issues to be 
 
 - A manager in the Quality Engineering department will lead refinement with issues populated beforehand in the issue boards.
     - The [performance refinement board](https://gitlab.com/groups/gitlab-org/-/boards/1233204?&label_name%5B%5D=performance-refinement) is used to triage performance issues. 
-    - The [transient bugs board](https://gitlab.com/groups/gitlab-org/-/boards/2206756?&label_name%5B%5D=bug%3A%3Atransient) is used to triage transient issues.
+    - The [transient bugs board](https://gitlab.com/groups/gitlab-org/-/boards/2206756?&label_name[]=type::bug%3A%3Atransient) is used to triage transient issues.
 - Before each meeting, for issues that are not yet fully triaged, the QEM meeting lead will assign the product manager of the appropriate stage or group to prioritize them with a scheduled milestone.
 - The QEM meeting lead should review the board for long running issues that do not have meaningful activity and add them to the agenda to be considered for closure if no longer actionable.
 - Any high impact issues which need wider awareness should be added to the agenda for discussion by the relevant stakeholder. This includes urgent performance/transient issues as well as those that have been surfaced as important for customers.

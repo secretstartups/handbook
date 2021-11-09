@@ -86,7 +86,7 @@ September 2021 - January 2022
 - The DRI does the [triage](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#steps-for-debugging-qa-pipeline-test-failures) and they let the counterpart SET know of the failure.
 - The DRI makes the call whether to fix or quarantine the test.
 - The fix/quarantine MR should be reviewed by either the Secondary or the counterpart SET (based on whoever is available). If both of them are not available immediately, then any other SET can review the MR. In any case, both the Secondary and the counterpart SET are always CC-ed in all communications.
-- The DRI should periodically take a look at [the list of unassigned quarantined issues](https://gitlab.com/gitlab-org/gitlab/issues?state=opened&label_name%5B%5D=QA&label_name%5B%5D=bug) and work on them.
+- The DRI should periodically take a look at [the list of unassigned quarantined issues](https://gitlab.com/gitlab-org/gitlab/issues?state=opened&label_name%5B%5D=QA&label_name[]=type::bug) and work on them.
 - If the DRI is not available during their scheduled dates (for more than 2 days), they can swap their schedule with another team member. If the DRI's unavailability during schedule is less than 2 days, the Secondary can help with the tasks.
 
 ### Responsibilities of the DRI and Secondary for deployment pipelines
