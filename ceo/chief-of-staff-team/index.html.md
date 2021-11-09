@@ -90,6 +90,7 @@ Examples of tasks that are important to the CEO:
 * Handbook MRs
 * Values updates
 * Prepping for calls
+* Special projects
 
 ## How to Work
 
@@ -244,6 +245,9 @@ Once a project or initiative to Shadow has been identified and the team member d
 1. Plan to observe and ask questions.
 1. Participating in the shadow program is a privilege where you will be exposed to confidential information. This is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them.
 1. Give feedback to and receive feedback from the Chief of Staff to the CEO. Participants in the shadow program are encouraged to deliver [candid feedback](/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback). Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
+
+## Organizational pulse
+Due to its cross-functional scope and access to information, the Chief of Staff Team to the CEO is uniquely positioned to see what is happening across the company. Members of the CoST to the CEO are encouraged to regularly have [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats) with folks outside of the team and share key insights and feedback from these conversations. 
 
 ## Resources on the CoS to the CEO Role
 
