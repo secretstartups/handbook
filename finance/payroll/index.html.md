@@ -22,6 +22,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 ## Legal Entity Payroll providers
 
 - GitLab BV (Netherlands) - HR Savvy
+- GitLab BV (Finland) - HR Savvy
 - GitLab BV (Belgium) - SD Worx
 - GitLab IT BV - iiPay payment service
 - GitLab Federal LLC (US) - ADP
@@ -43,6 +44,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 1. GitLab BV (Netherlands) team members will get their salary wired on the 25th of every month unless it falls on a holiday then it will be the business day before, and can see their payslip in their personal portal on
 [HR Savvy's system](https://hr-savvy.nmbrs.nl/) towards the end of the month.
 1. GitLab BV (Belgium) team members will get their salary wired on the 28th of each month unless it falls on a holiday then it will be the business day before and will receive their payslip in their personal portal on [myworkandme](https://www.myworkandme.com) once set up.
+1. GitLab BV (Finland) team members will get their salary wired on the 25th of each month unless it falls on a holiday then it will be the business day before, and can see their payslip in their personal portal Netvisor
 1. GitLab Ltd team members will get their salary wired on the 28th of each month unless it falls on a holiday then it will be the business day before. Payslips are accessed via a personal portal on [Vistra's system](https://www.webcare2.com/vistra) towards the end of the month using the login details which is a 9-digit user ID. New hires will recive both a welcome note and password via @webcare2.com while the user id will come from an email sent direct from a Vistra team member usually about two days before paydate. Please contact `nonuspayroll@gitlab.com` if you are having difficuly retrieving or need to have your password reset.
 1. GitLab GmbH team members will get their salary wired on the 28th of every month unless it falls on a holiday then it will be the business day before, and team members can see their payslip via their personal account on [Cloudpay](https://self-service.cloudpay.net/).
 1. GitLab Canada Corp team members will get paid bi-weekly and they can access their payslip via their personal portal on [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess). New hires will receive an invite to their email.
@@ -54,7 +56,8 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 1. GitLab France S.A.S. team members receive their salary on the last business day of the month unless it falls on a holiday then it will be the business day before, team members will be able to access their payslip on Global Upsides [Egnyte Platform](https://globalupside.egnyte.com/navigate/folder/). New hires will receive an invite to their email.
 1. GitLab Singapore Pte. LTD. Team members receive their salary on the last business day of the month unless it falls on a holiday then it will be the business day before, team members will be able to access their payslip on Global Upsides [Egnyte Platform](https://globalupside.egnyte.com/navigate/folder/). New hires will receive an invite to their email.
 1. GitLab IT BV team members that are employed through GitLab's co-employer PE0:
-   - Global Upside (India and China) will get their salary wired by the last day of the month with exception to Philippines having 2 check date-15th and last   day of the month, respectively. Global Upside will send payslips electronically through their HR portal. New hires will receive an invite to their email.
+   - Global Upside: India, Costa Rica, Denmark, Chile & Kenya will get their salary wired by the last day of the month. Philippines have 2 check dates: the 15th and last day of the month, respectively. Latvia will be paid on the 25th of each month (unless it falls on a holiday).
+   Global Upside will send payslips electronically through their HR portal. New hires will receive an invite to their email.
    - Safeguard: Switzerland are paid monthly and on the 25th of each month, Italy and Spain the 26th of each month. Payslips are provided electronically by Safeguard.
    - Remote.com will get their salary wired at the last day of the month. Remote.com will send payslips electronically through their HR portal.
 1. Contractors through CXC Global will get paid by the 25th of each month.
@@ -213,12 +216,12 @@ If you experience login issues, please send an e-mail to uspayroll@gitlab.com so
 ## Non-US
 
 
-### Australia, UK, Belgium, Netherlands, Germany, Ireland, New Zealand, Japan, France, Singapore & South Korea Monthly Payroll Process
+### Australia, UK, Belgium, Netherlands, Finland, Germany, Ireland, New Zealand, Japan, France, Singapore & South Korea Monthly Payroll Process
 
 1. The due date for payroll changes to the providers is usually the 10th of each month with exception of Australia (12th) and UK (15th).  If the due date falls on a weekend or a holiday, then it will be the business day before. Please review the relevant [Payroll Calendar links] (/handbook/finance/payroll/#payroll-cut-off-dates) in the Payroll Cut Off Dates section on this page.  If a new team member starts after the Payroll cut off they will be paid in the following months Payroll with the salary back dated (ie if you start on the 16th June, you will be paid in the July Payroll for the month of July and back dated for June).
 1. The due date for the current month payroll changes to the providers is usually the 10th of each month with exception of Australia (12th) and UK (15th).  If the due date falls on a weekend or a holiday, then it will be the business day before. If a new team member starts after the Payroll cut off they will be paid in the following months Payroll with the salary back dated (ie if you start on the 16th June, you will be paid in the July Payroll for the month of July and back dated for June).
 1. The Total Rewards Team will add certain bonuses, promotions, title changes and other relevant information to the Payroll Changes template.
-1. Payroll will gather all changes, along with any commissions, salary changes & expenses (only UK, Canada, France, South Korea & Singapore) and enter onto a password protected file.
+1. Payroll will gather all changes, along with any commissions, salary changes & expenses (expenses for only UK, Finland, Canada, France, South Korea & Singapore) and enter onto a password protected file.
 1. Payroll sends the payroll changes file to the local payroll providers.
 1. The Local payroll providers will send the payroll reports to Payroll for review and approval.
 1. The Payroll Specialist will review and notify Payroll Manager for final review and approval.  Once that is completed then final approval will be sent before the 21st of the month.
@@ -331,7 +334,7 @@ The internal deadline for changes is the 8th of each month, Payroll will send by
 - Denmark
 - Kenya 
 
-Payroll changes will be sent by the 10th of the month.  Global Upside will send an estimated invoice by the 5th of the previous month. For any additional adjustment, they will invoice the adjustment on the following months invoice.  Note: Philippines have two check date (15th and 30th), any changes sent to Global Upside will be included on the salary of the last day of the month. For all payroll and team member concerns, please email **gitlabpayroll@globalpeoservices.com**. For HR concerns, send email to **gitlabHR@globalpeoservices.com**. 
+Payroll changes will be sent by the 10th of the month.  Global Upside will send an estimated invoice by the 5th of the previous month. For any additional adjustment, they will invoice the adjustment on the following months invoice.  Note: Philippines have two check dates (15th and 30th), any changes sent to Global Upside will be included on the salary of the last day of the month (with the exception of Latvia (the 25th of each month) and the Philippines as quoted above). For all payroll and team member concerns, please email **gitlabpayroll@globalpeoservices.com**. For HR concerns, send email to **gitlabHR@globalpeoservices.com**. 
 
 
 #### Remote.com
