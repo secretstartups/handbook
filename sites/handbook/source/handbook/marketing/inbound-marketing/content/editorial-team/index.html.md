@@ -46,7 +46,6 @@ The GitLab blog is not self-serving; if content is purely promotional and adds n
 
 **Mission statement:** We cover the life of the software developer and anyone involved in the software development lifecycle (e.g., ops, sec, test professionals*). These are our core audience of users, who are influential in adopting and expanding the use of GitLab in their workplaces and communities. Our aim is to help our audience continually improve in all aspects of their work lives. We cover topics ranging from career and skills development and efficient and effective collaboration to sharing tutorials and lessons from our engineering org to new technology developments, trends, and ideas.
 
-Please see [Attributes of a successful blog post](/handbook/marketing/blog/#attributes-of-a-successful-blog-post) for examples of stories that perform well on our blog.
 
 The blog is not the permanent place for tutorials, which should live in the docs and should be linked to when relevant.
 
@@ -107,7 +106,7 @@ The blog is not the permanent place for tutorials, which should live in the docs
 Based on [analyses of traffic to blog posts](#blog-traffic-analyses), below are some topics and types of blog posts that usually resonate with our audience and draw the most traffic.
 
 - Tutorials, including integration demos
-- Newsjacking, where appropriate (see [best practices for newsjacking](/handbook/marketing/blog/#newsjacking))
+- Newsjacking, where appropriate 
 - Opinion/taking a stance on a popular subject, e.g.,
     - [The problem with Git flow](/blog/2020/03/05/what-is-gitlab-flow/)
     - [The trouble with technical interviews? They aren't like the job you're interviewing for](/blog/2020/03/19/the-trouble-with-technical-interviews/)
@@ -119,7 +118,7 @@ Based on [analyses of traffic to blog posts](#blog-traffic-analyses), below are 
 - Kubernetes
 - Open source projects moving to GitLab, e.g.,
   - [Why the KDE community is #movingtogitlab](/blog/2020/06/29/welcome-kde/)
-- See more examples in [Attributes of a successful blog post](/handbook/marketing/blog#attributes-of-a-successful-blog-post)
+- See more examples in [Attributes of a successful blog post](/handbook/marketing/blog/)
 
 ### Posts that do not draw much traffic
 
@@ -149,7 +148,7 @@ These posts don't form part of our editorial strategy as they serve only as comm
 
 [Posts focusing on GitLab features or capabilities](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/editorial/-/issues/42#gitlab-feature-focused-posts) don't consistently draw traffic.
 
-Please see [best practices for GitLab feature posts](/handbook/marketing/blog#gitlab-feature-posts).
+Please see [best practices for GitLab feature posts](/handbook/marketing/blog#featured).
 {: .alert .alert-info}
 
 #### Recaps
@@ -161,9 +160,6 @@ Examples:
 - [Highlights from AWS re:Invent 2019](/blog/2019/12/13/updates-from-aws-reinvent/)
 - [From monolith to microservices: How to leverage AWS with GitLab](/blog/2020/03/24/from-monolith-to-microservices-how-to-leverage-aws-with-gitlab/)
 - [How to deploy AWS Lambda applications with ease](/blog/2020/04/29/aws-gitlab-serverless-webcast/)
-
-Please see [best practices for event coverage](/handbook/marketing/blog/#gitlab-or-industry-events).
-{: .alert .alert-info}
 
 #### Highlights or "year in review" round-ups
 
@@ -260,9 +256,9 @@ Every Monday, a member of the Editorial team reviews [blog post pitches](https:/
 
 - Has another member of the Editorial team already reviewed the pitch and responded? If so, no need to review.
 - Should the pitch be an [announcement request](/handbook/marketing/corporate-marketing/#requests-for-announcements) instead?
-- If the post is a tutorial explaining how to do something with GitLab, does the relevant documentation exist? This needs to be in place before we can publish a blog post about it (see note in [the blog handbook](/handbook/marketing/blog/index.html#how-to-pitch-a-blog-post)).
-- Is the pitch about a GitLab feature? Make sure it aligns with our [best practices for feature posts](/handbook/marketing/blog/#gitlab-feature-posts).
-- Does the pitch meet the requirements and answer the questions outlined in [How to pitch a blog post](/handbook/marketing/blog/#how-to-pitch-a-blog-post)
+- If the post is a tutorial explaining how to do something with GitLab, does the relevant documentation exist? This needs to be in place before we can publish a blog post about it (see note in [the blog handbook](/handbook/marketing/blog/index.html#how-to-suggest-a-blog-post)).
+- Is the pitch about a GitLab feature? Make sure it aligns with our [best practices for feature posts](/handbook/marketing/blog/#featured).
+- Does the pitch meet the requirements and answer the questions outlined in [How to pitch a blog post](/handbook/marketing/blog/#how-to-suggest-a-blog-post)
     - What's in it for the audience?
 - Does the pitch show potential to help us meet our [goals for the blog](#goal-grow-our-audience-engage-readers-and-convert-readers-into-subscribers)?
 - Have we published anything on an overlapping topic recently?
@@ -338,9 +334,9 @@ The #trending channel is for team members to surface new story ideas to Editoria
 We know that team members often share noteworthy news or developments in other channels – the difference here is the channel will help the Editorial team to aggregate and curate items that have [strong blog post potential](#top-performing-blog-posts). The content can be anything that's relevant to our audience and within our [blog scope](#scope).
 
 - Team members can post in the channel ad hoc, or participate in the channel's weekly Geekbot prompts. Feel free to suggest edits to the Geekbot questions.
-- The channel does not replace [pitching to the blog](/handbook/marketing/blog/#how-to-pitch-a-blog-post). Team members can still open an issue to pitch a blog post if they want to write about something, and there's no requirement to post in the channel. The channel is for more informal sharing of possible ideas.
+- The channel does not replace [pitching to the blog](/handbook/marketing/blog/#how-to-suggest-a-blog-post). Team members can still open an issue to pitch a blog post if they want to write about something, and there's no requirement to post in the channel. The channel is for more informal sharing of possible ideas.
 - It's up to the sharer to decide if they would like to write a post or if they're just offering the idea to the Editorial team.
-- Whoever intends to write a post inspired by #trending will need to open [a blog post issue](/handbook/marketing/blog/#how-to-pitch-a-blog-post) to get started.
+- Whoever intends to write a post inspired by #trending will need to open [a blog post issue](/handbook/marketing/blog/#how-to-suggest-a-blog-post) to get started.
 - We won't be able to turn all ideas into blog posts. In some cases an idea may be more suitable for another format or publishing outlet, or it may spark an idea for a related post or series of posts.
 
 ## Checklist for blog post issues
@@ -410,7 +406,7 @@ In each case, final approval must be documented on the merge request or issue fo
 
 Most blog posts concerning third parties are proposed and managed by Partner Marketing in collaboration with the third party in question. Occasionally such posts are proposed by other team members, in which case they should tick the relevant box on the blog post pitch issue and follow those instructions:
 
-> If the post is about one of GitLab's Technology Partners, including integration partners, mention @saraedavila and @arashidi, apply the Partner Marketing label, and see the [blog handbook for more on third-party posts](/handbook/marketing/blog/#third-party-posts)
+> If the post is about one of GitLab's Technology Partners, including integration partners, mention @saraedavila and @arashidi, apply the Partner Marketing label, and see the [blog handbook for more on third-party posts](/handbook/marketing/blog/#guest-posts-by-gitlab-partners)
 
 If the blog post discusses a partner in depth, the person pitching should follow the [blog handbook instructions for engaging Partner Marketing and Alliances for review and approval](/handbook/marketing/blog/#disclosure-process-for-posts-concerning-third-parties).
 
@@ -418,7 +414,7 @@ If the blog post discusses a partner in depth, the person pitching should follow
 
 If a blog post is about a GitLab customer, the team member proposing the post should indicate this in their pitch issue by ticking the relevant box and following the instructions:
 
-> If the post is about one of GitLab's customers, mention @KimLock and @FionaOKeeffe, apply the Customer Reference Program label, and see the [blog handbook for more on third-party posts](/handbook/marketing/blog/#third-party-posts)
+> If the post is about one of GitLab's customers, mention @KimLock and @FionaOKeeffe, apply the Customer Reference Program label, and see the [blog handbook for more on third-party posts](/handbook/marketing/blog/#guest-posts-by-gitlab-partners)
 
 ### Posts with updates that will impact customers
 
@@ -457,7 +453,7 @@ Every Monday, a member of the Editorial team will read new Unfiltered posts publ
 #### Criteria for a featured post
 
 - Post has >500 sessions already, according to the [Content Marketing dashboard](https://datastudio.google.com/open/1NIxCW309H19eLqc4rz0S8WqcmqPMK4Qb), and/or
-- Post has the [attributes of an historically successful blog post](/handbook/marketing/blog/#attributes-of-a-successful-blog-post)
+- Post has the [attributes of an historically successful blog post](/handbook/marketing/blog/)
 
 This is not an exhaustive list of criteria, as the Editorial team member will also use their best judgment regarding what tends to perform well on the branded blog:
 
@@ -502,7 +498,7 @@ It's clear that technical/actionable/how-to content attracts the most blog reade
 
 When writing a blog post, please keep the reader in mind. This person has more than likely searched for a topic or a trend and is looking for comprehensive content with a clear takeaway. Write to this person and consider the tone and the language that will best get your point across.
 
-Our "[How to pitch a blog post](/handbook/marketing/blog/index.html#how-to-pitch-a-blog-post)" section has some tips and prompts to help you prioritize our audience when planning your blog post.
+Our "[How to pitch a blog post](/handbook/marketing/blog/index.html#how-to-suggest-a-blog-post)" section has some tips and prompts to help you prioritize our audience when planning your blog post.
 
 ### How to write with the reader in mind
 
@@ -539,7 +535,7 @@ You can see an example of "sweep" paragraphs at the beginning of [this post on l
 
 Example: "[The trouble with technical interviews? They aren't like the job you're interviewing for](/blog/2020/03/19/the-trouble-with-technical-interviews/)" was originally planned to be just about how GitLab's Frontend group redesigned its technical interviews. After discussion, it was decided that there was a broader story to tell here, because the GitLab story (redesigning Frontend technical interviews) was really addressing a greater, industry-wide problem, which is that technical interviews aren't effective and aren't always inclusive.
 
-Not every post will be suitable for this treatment, so you and the Editorial team member reviewing your post can use your discretion. In some cases it may be appropriate to tweak just the title of the post to make it broader (e.g. "How ~~GitLab~~ CI helps solve common DevSecOps challenges" – see [below](#gitlab-feature-posts)).
+Not every post will be suitable for this treatment, so you and the Editorial team member reviewing your post can use your discretion. In some cases it may be appropriate to tweak just the title of the post to make it broader (e.g. "How ~~GitLab~~ CI helps solve common DevSecOps challenges").
 
 ### Acronyms
 
