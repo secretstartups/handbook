@@ -382,7 +382,7 @@ In accordance with Section 6 of the [GitLab Subscription Agreement](https://abou
 
 ##### New Annual True-Up SKUs as of 2021-11-15
 
-Effective 2021-11-15, the "Trueup" SKU has been deprecated and replaced with 6 new annual True-Up SKUs, each of which tie to the related subscription SKU. When creating quotes that include a True-Up element, please select the appropriate True-Up SKU as listed below. **For the avoidance of doubt, you must select the True-Up SKU related to the subscription SKU that was in use when the True-Up was incurred.**
+Effective 2021-11-15, the "Trueup" SKU has been deprecated and replaced with 6 new annual True-Up SKUs, each of which ties to the related subscription SKU. When creating quotes that include a backward looking, one-time True-Up charge, please select the appropriate True-Up SKU as listed below. **For the avoidance of doubt, you must select the True-Up SKU related to the subscription SKU that was in use when the True-Up was incurred.**
 * Example 1: A customer has a 100 user SaaS - Premium subscription. At renewal, you learn that the customer incurred 5 Overage Users during the initial subscription term. On the renewal quote, you will select True-Up (Annually) - SaaS - Premium SKU with a quantity of 5.
 * Example 2: A customer has a 500 user Self-Managed - Premium subscription. At renewal, they are upgrading to Self-Managed Ultimate for 600 users. During the renewal conversation, you learn that the customer incurred 50 Overage Users during the initial subscription term. On the renewal quote, you will select the True-Up (Annually) - Self-Managed - Premium SKU with a quantity of 50. You will also add the Self-Managed Ultimate SKU for 600 users, and then remove the Self-Managed - Premium SKU.
 
