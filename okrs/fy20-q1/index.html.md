@@ -72,7 +72,7 @@ Note: This is the first quarter where we [shift our fiscal year](https://about.g
              1. [Philippe Lafoucrière](https://about.gitlab.com/company/team/#plafoucriere): Benchmark 3 new security tools for integration in the [Security Products](https://about.gitlab.com/handbook/engineering/development/secure/#security_products). => 10%
         1. Ops (Verify, Release & Package): Increase BE team's throughput by 20% and drive consistency week to week: Increase number of MRs week to week, increase number of reviewers and maintainers, and drive consistency in the trend-line
             1. [Kamil](https://about.gitlab.com/company/team/#ayufanpl) Train 2 new maintainers of GitLab Rails,
-            1. [Kamil](https://about.gitlab.com/company/team/#ayufanpl) Help with building CD features needed to continuously deploy GitLab.com by closing 5 that are either ~"technical debt" or ~"bug"
+            1. [Kamil](https://about.gitlab.com/company/team/#ayufanpl) Help with building CD features needed to continuously deploy GitLab.com by closing 5 that are either ~"technical debt" or ~"type::bug"
             1. Verify BE: Increase Verify throughput by 20% and drive consistency week to week: Increase number of MRs week to week, increase number of reviewers and maintainers, and drive consistency in the trend-line
             1. Verify FE: Reduce implementation time by building on top of gitlab-ui components; increase throughput by building/improving upon JS and Frontend specific tooling by doing product discovery for 2 new tools.
             1. Verify FE: Improve onboarding for new engineers by creating a specific Frontend todo in the overall onbooarding issue.

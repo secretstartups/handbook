@@ -84,11 +84,11 @@ canonical_path: "/company/okrs/2018-q1/"
       * Geo: Make [Geo Disaster Recovery](https://gitlab.com/gitlab-org/gitlab-ee/issues/846) Generally Available
         * 100% (Done in 10.5)
       * Geo: Squash 15+ bugs/month
-         * [27 open bugs](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Geo&label_name[]=bug)
-         * 10.4: [7 closed bugs](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Geo&label_name[]=bug&milestone_title=10.4)
-         * 10.5: [14 closed bugs](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Geo&label_name[]=bug&milestone_title=10.5)
-         * 10.6: [16 closed bugs](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Geo&label_name[]=bug&milestone_title=10.6)
-         * 10.7: [8 closed bugs](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Geo&label_name[]=bug&milestone_title=10.7)
+         * [27 open bugs](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Geo&label_name[]=type::bug)
+         * 10.4: [7 closed bugs](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Geo&label_name[]=type::bug&milestone_title=10.4)
+         * 10.5: [14 closed bugs](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Geo&label_name[]=type::bug&milestone_title=10.5)
+         * 10.6: [16 closed bugs](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Geo&label_name[]=type::bug&milestone_title=10.6)
+         * 10.7: [8 closed bugs](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Geo&label_name[]=type::bug&milestone_title=10.7)
       * Geo: Bring `ee/app/workers` and `ee/db/migrate` directories up to 95% coverage
          * Geo-related files [show 95% coverage](http://gitlab-org.gitlab.io/gitlab-ee/coverage-ruby/#_AllFiles)
       * Geo: Deliver 100% of feature commits in 10.5, 10.6, 10.7
@@ -117,10 +117,10 @@ canonical_path: "/company/okrs/2018-q1/"
         * SP1: 71% (5/7)
         * AP1: 75% (3/4)
         * Overall: 79% (11/14)
-      * Platform: Close 45 [Platform backend bug](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=Platform&label_name%5B%5D=backend&label_name%5B%5D=bug&scope=all&sort=updated_desc&state=opened) issues. Afterwards, we should verify that the backlog went _down_ from the 400 we started with, because otherwise bugs are getting reported faster than we can fix them, and we are not making a dent.
-        * 10.5: [14 bugs closed](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Platform&label_name[]=backend&label_name[]=bug&milestone_title=10.5)
-        * 10.6: [11 bugs closed](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Platform&label_name[]=backend&label_name[]=bug&milestone_title=10.6)
-        * 10.7: [5 bugs closed](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Platform&label_name[]=backend&label_name[]=bug&milestone_title=10.7)
+      * Platform: Close 45 [Platform backend bug](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=Platform&label_name%5B%5D=backend&label_name[]=type::bug&scope=all&sort=updated_desc&state=opened) issues. Afterwards, we should verify that the backlog went _down_ from the 400 we started with, because otherwise bugs are getting reported faster than we can fix them, and we are not making a dent.
+        * 10.5: [14 bugs closed](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Platform&label_name[]=backend&label_name[]=type::bug&milestone_title=10.5)
+        * 10.6: [11 bugs closed](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Platform&label_name[]=backend&label_name[]=type::bug&milestone_title=10.6)
+        * 10.7: [5 bugs closed](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Platform&label_name[]=backend&label_name[]=type::bug&milestone_title=10.7)
         * Overall: 67% (30/45)
         * Ending backlog: 417
       * Platform: Add [backup/restore integration tests](https://gitlab.com/gitlab-org/gitlab-qa/issues/22) to GitLab QA
@@ -148,9 +148,9 @@ canonical_path: "/company/okrs/2018-q1/"
         bugs are getting reported faster than we can fix them, and we are not
         making a dent.
         * 100%.
-        * 10.5: [18 bugs closed](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Discussion&label_name[]=backend&label_name[]=bug&milestone_title=10.5).
-        * 10.6: [15 bugs closed](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Discussion&label_name[]=backend&label_name[]=bug&milestone_title=10.6).
-        * 10.7: [8 bugs closed](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Discussion&label_name[]=backend&label_name[]=bug&milestone_title=10.7).
+        * 10.5: [18 bugs closed](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Discussion&label_name[]=backend&label_name[]=type::bug&milestone_title=10.5).
+        * 10.6: [15 bugs closed](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Discussion&label_name[]=backend&label_name[]=type::bug&milestone_title=10.6).
+        * 10.7: [8 bugs closed](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=Discussion&label_name[]=backend&label_name[]=type::bug&milestone_title=10.7).
         * Ending backlog: 269.
       * Discussion: Make sure all of the 17
         [Discussion backend community contributions][discussion-backend-community-contributions]
@@ -562,7 +562,7 @@ canonical_path: "/company/okrs/2018-q1/"
 [discussion-sl1]: https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Discussion&label_name[]=backend&label_name[]=SL1
 [discussion-sp1]: https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Discussion&label_name[]=backend&label_name[]=SP1
 [discussion-ap1]: https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Discussion&label_name[]=backend&label_name[]=AP1
-[discussion-backend-bug]: https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=Discussion&label_name%5B%5D=backend&label_name%5B%5D=bug&scope=all&sort=updated_desc&state=opened
+[discussion-backend-bug]: https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=Discussion&label_name%5B%5D=backend&label_name[]=type::bug&scope=all&sort=updated_desc&state=opened
 [discussion-backend-community-contributions]: https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Community%20Contribution&label_name[]=Discussion
 [discussion-10-5-update]: https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/9934
 [discussion-10-6-update]: https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/10446

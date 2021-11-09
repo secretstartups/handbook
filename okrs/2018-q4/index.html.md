@@ -105,7 +105,7 @@ canonical_path: "/company/okrs/2018-q4/"
       * Merge smaller changes more frequently: &gt; 6 average MRs merged per week : 79% achieved - [Actual weekly average](https://quality-dashboard.gitlap.com/groups/gitlab-org/teams/monitoring) 4.75 MRs
     * [Kamil](https://about.gitlab.com/company/team/#ayufanpl):
       * Improve scalability: Reduce CI database footprint as part of [Ensure CI/CD can scale in future](https://gitlab.com/gitlab-org/gitlab-ce/issues/46499) with [Use BuildMetadata to store build configuration in JSONB form](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/21499): Done (100%)
-      * Continuous Deployment: Help with building CD features needed to continuously deploy GitLab.com by closing 5 [issues related to Object Storage](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name=Object%20Storage) that are either ~"technical debt" or ~"bug": 2 out of 5 (40%)
+      * Continuous Deployment: Help with building CD features needed to continuously deploy GitLab.com by closing 5 [issues related to Object Storage](https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name=Object%20Storage) that are either ~"technical debt" or ~"type::bug": 2 out of 5 (40%)
     * CI/CD:
       * Spend no more than 15 point of our [error budget]: 30/15 [#5375](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/5375), [#564](https://gitlab.com/gitlab-com/gl-infra/production/issues/564) (0% - Spent double our goal)
       * Merge smaller changes more frequently: >10 average MRs merged per week. (100% - Actual weekly average was 19 MRs)
