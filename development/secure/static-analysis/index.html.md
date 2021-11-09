@@ -184,13 +184,13 @@ The process for dismissing a vulnerability as a false positive is as follows:
 When creating issues for vulnerability consider adding the following labels besides our normal labels:
 
 - ~security
-- ~bug
+- ~"type::bug"
 
 When there is a doubt about the severity/priority while creating the issue and severity/priority labels are
 not added. Then [Appsec Escalation
 Engine](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/appsec-escalator#appsec-escalation-engine)
 could be leveraged to initiate a discussion with the Appsec team.  This bot monitor issues that are labeled
-~security and not ~test or ~feature. If severity/priority labels are not present, then labels
+~security and not ~test or ~"type::feature". If severity/priority labels are not present, then labels
 security-sp-label-missing and security-triage-appsec will be added and this issue will be mentioned in the
 \#sec-appsec Slack channel. Then, the appsec stable counterpart for the group or App sec team triage person
 will pick up the issue and assign a severity as part of the appsec triage rotation.
