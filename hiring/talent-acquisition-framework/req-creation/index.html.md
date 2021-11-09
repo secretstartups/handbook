@@ -228,11 +228,12 @@ Review how to make a referral: /handbook/hiring/referral-process/
 
 1. Review notifications and ensure they align to the preferences of you and the hiring team.
 
-### Publish the Job to the Careers Page & Review Greenhouse Configuration (DRI: CES Team)
+### Publish the Job to the Careers Page & Review Greenhouse Configuration
+
+1. Once a job has been setup in Greenhouse and posted to the GitLab job board it will be automatically posted to the [Careers Page](/jobs/careers/).
 
 **The Candidate Experience Team will:**
 
-1. Post the vacancy to the [Careers Page](/jobs/careers/) once they receive notice from the recruiter.
 1. Review the configurations the Talent Acquisition Manager and Recruiter made and ensure everything is correct; reach out to them to ask clarifying questions if there is anything you don't understand or if there is anything missing.
 1. Ensure each stage is labeled correctly for reporting purposes:
     - Get to Know Us
