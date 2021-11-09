@@ -94,7 +94,7 @@ To take action on Issues in that project:
 1. Add the appropriate label(s).
 1. Look-up the candidate in Greenhouse, if applicable.
 1. Respond to the Issue by commenting and please be sure to do so just as you would with any other GitLab communication.
-    * e.g. *"Hi, NAME. Thank you for reaching out about the status of your referral. Per our [SLA](/handbook/hiring/referral-process/#referral-statuses), please allow us 10-days to review the submission. `@RECRUITER` is responsible for this role and they’ll provide the candidate with an update soon."*
+    * e.g. *"Hi, NAME. Thank you for reaching out about the status of your referral. Per our [SLA](/handbook/hiring/referral-process/#referral-statuses), please allow us 5 business days to review the submission. `@RECRUITER` is responsible for this role and they’ll provide the candidate with an update soon."*
    * e.g. *"Thank you for the referral. `@RECRUITER` is responsible for this role and will provide you with an update soon."*
 1. Please be sure to `@-mention` the responsible Recruiter so that they’re aware an update is being requested.
 1. If one comment addresses the entirety of the message, comment and **close** the Issue. If further information is needed, comment and leave the Issue open.
@@ -106,8 +106,6 @@ To take action on Issues in that project:
 Our Talent Acquisition Team occasionally organizes *Referral Roundup Sessions*.
 
 The objective of theses sessions are to gather referrals, region-specific information about where you're based, and teach you skills related to sourcing and Greenhouse.
-
-We'll invite Team Members who are based in areas with a location factor *less than or equal to* `.58` to theses sessions.
 
 Each session will have a corresponding Issue linked and in that, we ask that you please add information regarding appropriate companies to source from, local meet-up groups, conferences, job boards to advertise on, and any other information you believe will be beneficial to our hiring efforts in your area.
 
