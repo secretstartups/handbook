@@ -120,7 +120,7 @@ Please do not reopen issues that have been closed in a previous milestone. If yo
 To help prioritize issues and scope work in our milestones, we've adopted GitLab [issue weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html#issue-weight) to our issues. By adding a weight to our issues, our team will have a better idea of how much time, value or complexity a given issue has or costs. For the numbering formula, we are using the traditional Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21. Anything marked `21` or above may be promoted to an epic. 
 
 ### OKRs
-To track progress on and provide visibility to team OKRs each quarter, Marketing Operations creates a [parent epic](https://gitlab.com/groups/gitlab-com/-/epics/1597) to organize our team-wide work. Issues added to an OKR-related epic utilize [health statuses](#health-status).
+To track progress on and provide visibility to team OKRs each quarter, Marketing Operations creates a [parent epic](https://gitlab.com/groups/gitlab-com/-/epics/1597) to organize our team-wide work. Issues added to an OKR-related epic utilize [health statuses](#health-status). We use [OKR Labels](/handbook/marketing/marketing-operations/#labeling) to help organize issues.
 
 ### Health Status
 
@@ -132,11 +132,12 @@ If an issue includes a weight of 21 or more, that issue may be promoted to an ep
 
 ### Labeling
 
-We use labels for three purposes:
+We use labels for four purposes:
 
 1. Categorize the tool or area that is affected
 1. Show priority
 1. Identify the stage they are in
+1. Track current and future proposed OKRs
 
 <details>
 <summary markdown='span'>
@@ -194,6 +195,17 @@ Stage
 
 </details>
 
+<details>
+<summary markdown='span'>
+OKR Tracking
+</summary>
+
+- `MktgOps-Current-OKR` - Current OKR that the MktgOps team owns
+- `MktgOps-Proposed-OKR` - Proposed OKR for the future, used to help track and plan for next quarter
+- `MktgOps-Support-OKR` - Current OKR for another team, but MktgOps is highly involved in supporting it
+
+</details>
+
 ### Milestones
 
 The MktgOps team works in two week iterations which are tracked as milestones at the `GitLab.com` level. Each individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two-week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
@@ -219,7 +231,7 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 
 #### Milestone MRs 
 
-The marketing operations team uses 2 collective merge requests (1 per week in a milestone), known as our milestone MRs, to make multiple updates across our handbook, see high-level updates in 1 MR, and avoid conflicts with each other. Here is an [example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71109). We list all major changes with our GitLab username in the description after a commit and link any relevant issues that the commit closes out. If you have an update for the marketing operations handbook, please feel free to use our milestone MR to make a commit and tag us for review to avoid conflicts.
+The marketing operations team uses collective merge requests, known as our milestone MRs, to make multiple updates across our handbook, see high-level updates in 1 MR, and avoid conflicts with each other. Here is an [example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71109). We list all major changes with our GitLab username in the description after a commit and link any relevant issues that the commit closes out. If you have an update for the marketing operations handbook, please feel free to use our milestone MR to make a commit and tag us for review to avoid conflicts.
 
 ### Marketing Ops Calendar
 
@@ -413,7 +425,7 @@ Status in the table below means:
 | Prospecting - LeadIQ | outbound |  | Inactive |
 | SDR Generated | outbound | Sourced by an SDR through networking or professional groups | Active |
 | Zoominfo | outbound |  | Active |
-| Advertisement | paid demand gen |  | Active |
+| Advertisement | paid demand gen |  | Inactive |
 | Conference | paid demand gen | Stopped by our booth or received through event sponsorship | Active |
 | Field Event | paid demand gen | Paid events we do not own but are active participant (Meetups, Breakfasts, Roadshows) | Inactive |
 | Owned Event | paid demand gen | Events that are created, owned, run by GitLab | Active |
@@ -429,9 +441,11 @@ Status in the table below means:
 | External Referral | referral |  | Active |
 | Webcast | virtual event | Register for any online webcast (not incl `Demo`) | Active |
 | Webinar | virtual event |  | Active |
+| Workshop| virtual event |   | Active|
 | Web Direct | web direct | Created when purchase is made direct through the portal (check for duplicates & merge record if found) | Active |
 | Investor | outbound | Sourced by our investors (i.e. - GV, Khosla, ICONIQ). The `Investor` value is coupled with the `Investor Name` custom field | Active |
 | GitLab DataMart|core| Created by the GitLab Marketing Database data pump. Contains leads from various internal sources|Active|
+| GitLab Subscription Portal|Signed up for customers portal account, but did not upgrade|Active|
 
 ### A Note About Trials
 

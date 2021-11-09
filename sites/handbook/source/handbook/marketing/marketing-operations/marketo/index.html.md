@@ -30,6 +30,8 @@ A lead will sync from Marketo to SFDC in these scenarios:
 2. When they reach `MQL` status and reach 100 points
 3. Specifically told to sync via a flow step `Sync to SFDC`
 
+When large updates are made to SFDC, they could cause a sync backlog back to Marketo. To check the backlog, go to [this page](https://app-ab13.marketo.com/supportTools/sfdcSyncStats) and select the object you want to review and click `Get Stats`. Marketo>SFDC is a push count, while SFDC>Marketo is considered Pull. You must be logged in to Marketo to view this information. Backlogs clear automatically, they are slower during working hours due to system usage (Marketo's user base, not just GitLab), but the sync speeds up off-hours and on weekends.
+
 Marketo also can create and edit SFDC campaigns. The `Active` checkbox must be checked in order for Marketo to be able to map to that campaign. [Go here for campaign set up directions](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
 
 ### Sandbox
@@ -107,7 +109,7 @@ All of the standardization smart campaigns are contained in:
 - The following countries have common variations updated to their accepted values: United States, Bolivia, Canada, China, France, Germany, Hong Kong, India, Iran, Ireland, Macao, Myanmar, Netherlands, Russia, South Korea, Sweden, Switzerland, United Kingdom, Venezuela, Vietnam.
 
 
-## MQL Definition
+## MQL and Lead Scoring
 A Marketing Qualified Lead is a lead that has reached a threshold of `100` points, based on demographic/firmographic and/or behavioral information. The [MQL Scoring](/handbook/marketing/marketing-operations/marketo/#scoring-model) is detailed below and is comprised of various actions and/or profile data that are weighted with positive or negative point values.
 When a `Person Score` changes it will be inserted into the routing flow. Using LeanData every time a `Person Score` is updated, [LeanData](/handbook/marketing/marketing-operations/leandata/#record-validation) will run a check to see if the record needs to be processed through the flow.
 
@@ -139,13 +141,22 @@ For account scoring, visit the [DemandBase page](/handbook/marketing/revenue-mar
 
 There is a flow that runs everynight to reset leads that have gone negative back to `0`. 
 
-The model below is updated as of 2021-07-08.
-
 Some leads are exluded from scoring if they:
 * Have a `@gitlab.com` email address
 * Are a competitor
 * Status = `Unqualified` or `Bad Data`
 * Company name of `student`, `personal`, `test` and similar 
+
+#### Auto-MQL
+Based on certain criteria, a lead may auto-MQL. The scenarios are listed below:
+- Self-Managed Trial + Business email domain
+- SaaS Trial + Business email domain
+- SaaS Trial + `Setup for Company/Use = TRUE`
+- `Contact Us`, `Professional Services` or `Renewal` forms
+- Handraise PQL
+- In-app Health Check form
+- Program status of `Follow Up Requested` 
+- Drift interaction with meeting scheduled
 
 #### Behavior Scoring
 
@@ -203,6 +214,7 @@ For Job role/function and seniority descriptions can be found [here](https://doc
 |**Action**|Campaign Type|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
 |Setup for Company/Team Use|Self-Identified as using for company or team in the product|	+40	|{{my.Setup for Company}}|	Trigger|Once|
+|Business Email Domain|Has a valid business email address|	+20	|{{my.Business Domain}}|	Trigger|Once|
 |Focus Account|	[Account Based/Centric](/handbook/marketing/revenue-marketing/account-based-strategy/#gl4300--mm4000)|	+20	|{{my.Focus Account}}|	Trigger|Once|
 |Technology - High (Not Live)|[See tech here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)	|+20|	{{my.Tech - High}}|	Batch / Nightly|	Once|
 |Technology - Low (Not Live)|[See tech here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)	|+10|{{my.Tech - Low}}	|	Batch / Nightly|	Once|
@@ -214,7 +226,7 @@ For Job role/function and seniority descriptions can be found [here](https://doc
 |Function - Med|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|+15|	{{my.Function - Med}}|	Trigger on creation or Update to Title|	Once|
 |Function - Low|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	+10|	{{my.Function - Low}}	|	Trigger on creation or Update to Title|	Once|
 |Function - Negative|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	-20	|{{my.Function - Negative}}		|Trigger on creation or Update to Title|	Once|
-Generic Domain|Contains generic email domain|	-5	|{{my.Generic Domain}}|Triggered|Once|
+Generic Domain|Contains generic email domain|	-10	|{{my.Generic Domain}}|Triggered|Once|
 |Country - P0, P1|[Country = P0, P1](https://about.gitlab.com/handbook/marketing/localization/#priority-countries)|	+5	|{{my. Country - P0, P1}}|	Trigger on creation or Update 	|Once|
 
 ## Lists and Segmentation

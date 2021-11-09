@@ -237,7 +237,7 @@ These rules are hierarchical and will operate in a top-down fashion, so the firs
 | Web Referral   |                    |                            |                                    |                                    |                                           | *                        |
 
 
-### Offline Channel Mapping
+### Bucket Channel Mapping
  These channels and subchannels are pulled into Salesforce and can be further filtered by using `medium` for those channels with overlap or with `Ad Campaign name` to search for specific UTMs or campaigns. The `Bucket Mapping` is a high-level grouping of each subchannel set to allow for additional reporting.:
 
 | Bizible Channel.SubChannel | Bucket Mapping | Online/Offline | Type of Marketing                                                                                                                                                                                          |
@@ -245,6 +245,7 @@ These rules are hierarchical and will operate in a top-down fashion, so the firs
 | Content.Content Syndication | Inbound Paid | Offline | White Paper or other content offer that is hosted by a third party.                                                                                                                                         |
 | Content.Gated Content | Inbound Paid | Offline | White Paper or other content offer.                                                                                                                                                                               |
 | Content.PF Content | Inbound Free Channels | Online | This campaign type is used to track consumption of specific PathFactory assets.                                                                                                                             |
+| Digital.Inbound Request | Inbound Free Channels | Online | Any type of inbound request that requires follow up.                                                                                                                                                                                |
 | Direct | Inbound Free Channels | Online | Unknown or direct (NOTE: this is not the same as Web direct/self-serve in SFDC, this is a Web referral where the original source was not captured)                                                                      |
 | Display.Google | Inbound Paid | Online | A display ad from Google                                                                                                                                                                                                 |
 | Display.Other | Inbound Paid | Online | A display ad from an unspecified source                                                                                                                                                                                   |
@@ -280,8 +281,6 @@ These rules are hierarchical and will operate in a top-down fashion, so the firs
 | Social.LinkedIn | Inbound Free Channels | Online | Referral from LinkedIn                                                                                                                                                                                         |
 | Social.Other | Inbound Free Channels | Online | Referral from an unspecified social platform                                                                                                                                                                      |
 | Social.Twitter | Inbound Free Channels | Online | Referral from Twitter                                                                                                                                                                                           |
-| Swag.Direct Mail | Inbound Paid | Offline | This is when a package or piece of mail is sent out.                                                                                                                                                                   |
-| Swag.Virtual | Inbound Paid | Offline |  This is when digital/virtual gifts are sent out.                                                                                                                                                                           |
 | Trial.Trial | Trial | Online | SaaS Trials                                                                                                                                                                                                                        |
 | Web Referral | Inbound Free Channels | Online | Referral from any site not otherwise defined                                                                                                                                                                      |
 
@@ -299,6 +298,8 @@ Bizible parses the referral URL it receives for: `utm_medium`, `utm_campaign`, `
 Similarly to asset views, upon a successfull form submission on a PathFactory asset, a Bizible touchpoint will be created.
 
 
+**Downloaded Asset**
+When an asset is downloaded on a PathFactory track, a Bizible touchpoint is being generated by the backend script.
 <!-- This diagram is to be used internally and with Pathfactory to understand the attribution touchpoints created through our setup of Pathfactory listening campaigns and how the tracks are used in integrated campaigns and other tactics that drive straight to pathfactory.
 
 <div style="width: 600px;" class="embed-thumb"> <h1 style="position: relative;vertical-align: middle;display: inline-block; font-size: 24px; line-height:22px; color: #393939;margin-bottom: 10px; font-weight: 300;font-family: Proxima Nova, sans-serif;"> <div style="padding-left:50px"> <span style="max-width:555px;display: inline-block;overflow: hidden; white-space: nowrap;text-overflow: ellipsis;line-height: 1; height: 25px; margin-top: -3px;">Bizible Online an Offline Touchpoints with Pathfactory</span> <span style="position:relative;top:-3px;font-size: 16px; margin-top: -6px; line-height: 24px;color: #393939; font-weight: 300;"> by Jackie Gragnola</span> </div> </h1> <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab2474/murals/gitlab2474.1597182505968-5f331229ffb2423070d75f73-4b73eb23-af5f-435c-8bd1-8181147a68af.png?v=c974be40-95fe-4d07-b865-12e38e430e73) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1597182505968/6c8778e0d022161c22d9a3530e47a110e6cd5ef0" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div> </div>
@@ -332,3 +333,14 @@ Below are step-by-step instructions on how to track registration by driving chan
 Training Video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VbmqYu7WFOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Bizible Person ID Deduplication
+
+A Bizible Person ID is created for each lead/contact in our database. In the unfortunate situation in which duplicate leads get created in our database, it will also result in duplicate Bizible Person IDs which may or may not skew the data depending on the touchpoints we have on those Bizible Person IDs. 
+
+Our data cleanliness effort takes this into consideration and deduplicates our database, taking care of the duplicate leads and contacts in the system. 
+
+Removing the duplicate leads and contacts does not automatically result in the elimination of duplicate BP IDs, however this can be achieved through custom object deduplication with Ringlead of the Bizible Person object. 
+
+To view the proper order of operations when it comes to deduplication and to find out more information on this topic please visit the [Ringlead handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/ringlead/).
+

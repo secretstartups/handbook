@@ -10,7 +10,7 @@ description: "This page is a dedicated resource for the Conversica tool."
 
 ## About Conversica
 
-Conversica is a Conversational AI tool that help enterprise marketing, sales, customer success, and finance teams attract, acquire and grow customers at scale across the customer revenue lifecycle. The AI Assitant works by engageing the prospect in a human like conversation over email in an effort to further qualify the prospect. 
+Conversica is a Conversational AI tool that help enterprise marketing, sales, customer success, and finance teams attract, acquire and grow customers at scale across the customer revenue lifecycle. The AI Assitant works by engaging the prospect in a human like conversation over email in an effort to further qualify the prospect. 
 
 In keeping with our GitLab value of Transparency, our AI assitant is named "Free Trial Bot" and it is named as a virtual assitant. 
 
