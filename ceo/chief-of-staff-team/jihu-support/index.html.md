@@ -40,6 +40,14 @@ Process to be added below.
 
 ## Engineering
 
+### R&D Roles
+
+| DRI | Role |
+| --- | --- | 
+| [Mek Stittri](https://about.gitlab.com/company/team/#meks) | Engineering DRI |
+| [Kenny Johnston](https://about.gitlab.com/company/team/#kencjohnston) | Product DRI | 
+| [Kyle Wiebers](https://about.gitlab.com/company/team/#kwiebers) | Engineering Facilitator | 
+
 ### Projects
 
 | GitLab Inc Project                                      | JiHu Project                                               |
