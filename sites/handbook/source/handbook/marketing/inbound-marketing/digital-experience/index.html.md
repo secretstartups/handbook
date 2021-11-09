@@ -193,10 +193,9 @@ Digital Experience code request reviews should include the [merge request checkl
 
 - [How we use Figma](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/figma/)
 
-
 ### GitLab Product Process
 
-From time to time, our team has objectives that require us to collaborate on the [GitLab product](https://gitlab.com/gitlab-org/gitlab). [Read more about the process for our engineers to onboard](/handbook/marketing/inboud-marketing/digital-experience/engineering-gitlab-product)
+From time to time, our team has objectives that require us to collaborate on the [GitLab product](https://gitlab.com/gitlab-org/gitlab). [Read more about the process for our engineers to onboard](/handbook/marketing/inbound-marketing/digital-experience/engineering-gitlab-product)
 
 ### Sprint Releases
 
