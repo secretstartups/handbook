@@ -85,7 +85,7 @@ graph TD
     A(Allie Marconi, VP, Self-Service & Online Sales <br>  <br> Focus: Accountable to growing our self-service channel, aka Web Direct, <br>nARR number and overall adoption of self-service to improve the customer <br>experience while improving go-to-market efficiency. <br>Charter: Lead cross functional efforts to improve and grow our <br>self-service business.  Connect product, marketing and sales with <br>shared vision and operational cadence.  Own the self-service vision <br>and drive innovation to achieve.  Invest in and build out a self-service team.) 
     A --> B(Kazem Kutob, Director,  <br>  <br>Focus: Sales Support, Customer Experience & Product Liaison <br>Charter: Stand up a front line to the self-service experience to <br>improve the customer experience, save our sales teams time and <br>accelerate our self-service adoption.  Develop our point of view <br>on the customer experience and self-service. Act as liaison to <br>our product fulfillment team who owns our self-service roadmap, <br>align on prioritization and roadmap.) 
     A --> C(Alex Martin, Sr. Mgr, Product & Data Analytics <br>  <br>Focus: Product & Data Analytics <br>Charter: Leverage data to optimize for self-service <br>in the customer experience to drive nARR and sales efficiency.<br>Insights will feed: sales visibility, self-service fulfillment <br>features, and marketing experiments.) 
-    C --> D(TBH Sr Analyst)
+    C --> D(Max Fleisher, Mgr, Product & Data Analytics <br>  <br>Focus: Product & Data Analytics <br>Charter: TBD)
 ```
 
 ## Self-Service in the Customer Journey
