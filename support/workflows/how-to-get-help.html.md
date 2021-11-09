@@ -24,8 +24,9 @@ If you are stuck on a ticket, the following workflow seeks to help Support Engin
 1. Optional (and encouraged): Depending on the area of focus (such as self-managed or SaaS) and the urgency, ask for help in the [relevant Support Slack channels](https://about.gitlab.com/handbook/support/#slack).
     - Always link the ticket you need help with.
     - Be specific about the help you need.
+        - For example, "Kubernetes Runner help needed: user is running in X error, logs are saying Y, and we've tried Z. What else could it be?"
     - Check the [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) Support page to see who might be able to assist based on the knowledge area of the problem. 
-    - Copy that person into the thread and the ticket for continued collaboration and guidance.
+    - Mention that person in the thread and the ticket for continued collaboration and guidance.
     - Offer to schedule a pairing session, or work in collaboration with others asynchronously in the Slack thread.
 1. If you are still stuck after steps 1 and 2: Ask for help in the appropriate [DevOps Staging](https://about.gitlab.com/handbook/product/categories/#devops-stages) Slack channel, or reach out to the [Support Stable Counterpart](https://about.gitlab.com/handbook/support/support-stable-counterparts.html) for the area of focus you need help in. If you are unsure about this, ask the team and/or a manager for guidance.
     - For example, if you need help with a runners issue, ask for development support in #g_runner, or reach out to the Support stable counterpart(s) that are listed under the [runner group](https://about.gitlab.com/handbook/product/categories/#runner-group) section.
