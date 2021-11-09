@@ -12,8 +12,13 @@ description: "Prelude (formerly Interview Schedule) is a program GitLab uses to 
 
 ### Prelude
 
-Prelude is integrated with Greenhouse via API.
-DRI: Candidate Experience Team
+Prelude is the scheduling tool that the Candidate Experience Team uses to book
+interviews. Prelude is integrated with Greenhouse via API. DRI: Candidate
+Experience Team
+
+#### Logging in to Prelude
+
+To log in, visit [Prelude.co](Prelude.co), click "Sign In", click "Sign in with Google", and then use your GitLab email address.
 
 #### How to schedule 1:1 via Prelude
 1. In Greenhouse click on “schedule loop” located on the top of the screen when you're in a candidate profile
@@ -58,7 +63,7 @@ DRI: Candidate Experience Team
 
 #### How to update an interviewer's preferences
 1. Click on the `Settings` tab at the top of the screen
-1. Go down to the Attirbutes section on the left hand panel and select `Interviewer Preferences`
+1. Go down to the Attributes section on the left hand panel and select `Interviewer Preferences`
 1. Add availability preferences, ensure the time zone is accurate, and consider interview limits.
 
 Read about how to organize your calendar on the [Interviewer Calendar Maintenance](/handbook/hiring/prelude/calendar/) page. 

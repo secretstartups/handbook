@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Interview Calendar Maintenance"
-description: "As an interviewer, you play a significant part in creating a seamless, candidate-centered experience for all applicants. Keeping an up-to-date calendar is essential to reducing rescheduling interviews and cancellations."
+description: "Managing your interview scheduling preferences in Prelude"
 ---
 
 ## On this page
@@ -21,11 +21,16 @@ DRI: Candidate Experience Team
   - Set your OOO in a timely manner, including holidays and Friends & Family days. 
   - Set a free calendar appointment for 1-2 days after you return from vacation indicating "no interviews" if you would prefer not to interview during that time.
 
-
 #### Set your Prelude preferences
-[Prelude](/handbook/hiring/prelude/) is the scheduling tool that the Candidate Experience Team uses to book interviews. Within Prelude, interviewers can set their interviewing availability, daily and weekly limits, and add notes to help CES schedule within their preferences. 
+Within Prelude, interviewers can set their interviewing availability, set daily and weekly limits, and add notes to help CES schedule within their preferences. 
 
-To log in, visit Prelude.co and select "Sign in with Google", and then use your GitLab email address. From there, you will be directed to your Interviewer Profile. If you cannot log in, it may be because you do not have a Greenhouse account, which is required. Please submit an Access Request if this is the case for you.
+Once you have logged in to Prelude (see our 
+[main Prelude page for help](../index.html#logging-in-to-prelude)), you will
+either land on the main page or your profile page, depending upon your
+permissions. If the page title doesn't indicate that you're looking at your profile,
+just click the profile link near the top right. Note also that if you cannot
+log in, it may be because you do not have a Greenhouse account, which is
+required. Please submit an Access Request if this is the case for you.
 
 Scroll down to add notes and adjust the dates and times to match your preferences. Then ensure that your time zone is correct so that it matches your availability. 
 
