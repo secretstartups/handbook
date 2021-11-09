@@ -49,7 +49,7 @@ Why is psychological safety important? When you have psychological safety in the
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQn6_E_jGgOUz9OBe0hYopG5MYF4k6-MV2NsdESCpxjYenS9ikKD8mylL_Id44GXzl5-lHLltwHsWLD/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-Amy Edmondson uses David Kantor's model to show the [relationship between Psychological Safety and Accountability & Motivation](https://peopletalking.com.au/project/psychological-safety/). When there is an environment where psychological safety is low or non-existent, it can be very stress or anxiety filled. When there is high psychological safety, it can make more comfortable. You can get a better picture of this from the diagram below. 
+Amy Edmondson uses David Kantor's model to show the [relationship between Psychological Safety and Accountability & Motivation](https://peopletalking.com.au/project/psychological-safety/). When there is an environment where psychological safety is low or non-existent, it can be very stress or anxiety filled. When there is high psychological safety, it can make people more comfortable. You can get a better picture of this from the diagram below. 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvy9_S6SM97risN1JCRC4Hy0rTRt3PQXdMhl_D_xxEFi-W4F5FYL04FrZp62HgrPlt6N-O8Um-gnCk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -74,7 +74,7 @@ Psychological safety has impacts on diversity and inclusion in organizations. Ev
 1. Ask questions.
 1. Allow for experimentation and failure.
 1. Dismantle perceptions of hierarchy.
-1. Model openness to feedback
+1. Model openness to feedback.
 1. Set clear goals and key performance indicators.
 1. Offer development opportunities.
 1. Build a speak-up culture.
@@ -82,7 +82,7 @@ Psychological safety has impacts on diversity and inclusion in organizations. Ev
 
 The above list is from a [Grant Thornton article](https://www.grantthornton.com/library/articles/advisory/2020/psychological-safety-speak-up-culture.aspx).
 
-It is important to enable a human-to-human approach and realize the other party is more like you than different. The reflection activity called “Just Like Me” [developed by Paul Santagata](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it) asks you to consider: 
+It is important to enable a human-to-human approach and realize the other party is more like you than different. The reflection activity called “Just Like Me”, [developed by Paul Santagata](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it), asks you to consider: 
 
 - This person has beliefs, perspectives, and opinions, just like me.
 - This person has hopes, anxieties, and vulnerabilities, just like me.
@@ -92,15 +92,16 @@ It is important to enable a human-to-human approach and realize the other party 
 
 # Psychological Safety Learning & Development
 
-## [Psychological Safety Short Course](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/) 
+## [Psychological Safety Short Course](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/)
 
 If you want to learn more about how you can impact psychological safety, you can take the Psychological Safety Short Course which takes approximately 30-45mins. This will guide you things that impact psychological safety, how you can cultivate psychological safety as well as run through scenarios to reaffirm your learning. 
 
-You can access the [Psychological Safety Short Course here](https://gitlab.edcast.com/journey/psychological-safety-understanding-empowerment-and-self-r)
+You can:
 
-You can also access the [read section here](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/)
+- Access the [Psychological Safety Short Course here](https://gitlab.edcast.com/journey/psychological-safety-understanding-empowerment-and-self-r).
+- Read the [content of the course here](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/).
 
-## Live Learning Session 
+## Live Learning Session
 
 During Week 3 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/), we had a course covering Building an Inclusive & Belonging Environment. The [slide deck](https://docs.google.com/presentation/d/1eBr33VeYePGck9K5Q5WGqrhqKmKT8zLgkO3kNNRCew0/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/13BofXLCDC2fafHlYij7sZetBidB2cycuz1BeJSSDsMo/edit?usp=sharing) follow along with the session. 
 
@@ -110,7 +111,7 @@ A recording of the second of two sessions can be found here:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/pdB-WWeXNjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-## One Week Challenge 
+## One Week Challenge
 
 We rolled out a One week challenge in November 2020. All details relating to the challenge can be found here on this page.
 
@@ -118,20 +119,20 @@ The [One Week Challenge](/handbook/people-group/learning-and-development/#gitlab
 
 The challenge was organized in [an Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/19). Each day of the challenge was an issue within the epic with specific tasks for each day. Participation was tracked based on engagement in the issues, attending and participating in one of the live learning sessions, and completing the self reflection and evaluation forms. 
 
-### Program Overview 
+### Program Overview
 
 - 3 Daily Challenges (20 minutes)
 - 1 Live Learning Sessions (1 hour)
 - 1 Weekly Self Reflection and Evaluation (10 minutes)
 - Certification Upon Completion
 
-### Learning Objectives 
+### Learning Objectives
 
 1. Define Psychological Safety
 1. Identify the importance of Psychological Safety
 1. Demonstrate how to increase Psychological Safety
 
-### Program Outline 
+### Program Outline
 
 | Day | Challenge | Time | Format | Activity | Competency |
 | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -141,7 +142,7 @@ The challenge was organized in [an Epic](https://gitlab.com/groups/gitlab-com/pe
 | Day 4 | Attend Live Learning | 50 minutes | Live Learning - Psychological Safety in the Workplace | Participate in the live learning | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
 | Day 5 | Eval + Self Reflection Forms | 20 minutes | Self-Reflection & Evaluation Forms | Complete the Self-reflection and Evaluation | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
 
-## Additional Resources 
+## Additional Resources
 - Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today 
 - Read: [The Fearless Organization by Amy C. Edmondson](https://www.amazon.com/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247/ref=sr_1_1?keywords=The+Fearless+Organization&qid=1567701716&s=gateway&sr=8-1)
 - Read: [7 ways to create psychological safety in your workplace](https://blog.jostle.me/blog/7-ways-to-create-psychological-safety-in-your-workplace)
