@@ -57,7 +57,7 @@ Next, the author and initial reviewers should
 propose candidates for final review. In principle, further reviewers should have:
 
 * At least two SRE's (consider the current on-call).
-* An engineer from the Security department (consider AppSec and Compliance).
+* An engineer from the Security department (consider Infrastructure Security and Compliance).
 * An engineer from the Development department and/or Quality department.
 
 When final reviewers have been selected, author creates a merge request for each group of
