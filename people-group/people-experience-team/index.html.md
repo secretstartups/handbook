@@ -101,21 +101,23 @@ This will be the responsibility of the People Experience Associate that is assig
     - Ensure that the previous manager and current manager completes their respective tasks. 
     - The issue should be closed within 2 weeks of creation, ping the relevant team members to call for a task to be completed in the issue.
 
-#### Onboarding Audit
+### Onboarding Audit
 
 Cadence: Each new joiner.
 
 This is a manual review of each new joiner's BambooHR profile that takes place within their first week of employment. This audit is intended to correct any profile errors and, for US team members only, to check that the I-9 has been completed and sort each team member into the correct Benefit Group. This task is handled by the respective People Experience Associate in the relevant rotation.
 
-##### Audit Steps 
+#### Audit Steps 
 
 The People Experience Associates do not have full access to audit team members of the People Group. Please reach out to the BambooHR Provisioners for further assistance. 
 
-###### Who to Onboard 
+#### Who to Onboard 
 
-Check [Bamboo Onboarding Report](https://gitlab.bamboohr.com/reports/custom/Onboarding/511) to find out the list of new hire for the week or the relevant [issue board](https://gitlab.com/gitlab-com/team-member-epics/employment/-/boards/3350022) by use of the onboarding audit labels.
+Check [Bamboo Onboarding Report](https://gitlab.bamboohr.com/reports/custom/Onboarding+Report/1966) to find out the list of new hire for the week or the relevant [issue board](https://gitlab.com/gitlab-com/team-member-epics/employment/-/boards/3350022) by use of the onboarding audit labels.
 
-####### Process 
+Note: Edit the onboarding report dates as per the onboarding week
+
+#### Process 
 
 - Open the respective onboarding issue for the team member
 - Log into BambooHR and check that team member has inserted their date of birth (check the information updates Inbox as there may be a pending request to update this information). Ping the team member on day 2 if this field has not been completed.
@@ -126,22 +128,22 @@ Check [Bamboo Onboarding Report](https://gitlab.bamboohr.com/reports/custom/Onbo
 * Import from template
 * Go through each of the Onboarding Tasks
 
-###### Audit Personal Tab
+#### Audit Personal Tab
 
 * Check off date of birth field 
 * Check off Social Security Number field
 * Check the GitLab username is correct in BambooHR by cross referencing the team members username in the onboarding issue. Update if not correct in BambooHR. 
 
-###### Audit Job Tab
+#### Audit Job Tab
 
 * Signed Letter: Documents tab > check that the signed contract is in the “Contracts & Changes” folder. 
    * Effective Date, Hire Date, Compensation & Job Information Effective Date, Employment Status: Check the hire date on the contract. If it is different, go back to the folder and search for a date change confirmation file (usually uploaded by Candidate Experience Specialist). 
    * If the signed letter is not in the folder: go to Greenhouse > search for team member > Activity Feed > Find CES > ping CES on Slack and ask for the date change confirmation to be uploaded.
 * Cost Center, Department & Division: Should be the same as the manager’s.
     - ** Note in some instances the Department may differ to the managers. Please reach out to BambooHR Provisioners for further clarity if this should differ or whether this should be updated to match the manager. 
-* [Payroll Type](https://about.gitlab.com/handbook/contracts/)
+* [Payroll Type](https://about.gitlab.com/handbook/people-group/employment-solutions/)
 * Compensation:
-   * Fill out the [onboarding calculator](https://docs.google.com/spreadsheets/d/1khOeUjkl6l6d_3TaLCo8qn_lnb3AbUq-1rspmNRLzcs/edit?ts=5d7edfee#gid=1910573508)
+   * Fill out the [onboarding calculator](https://docs.google.com/spreadsheets/d/1pch83tg59hEC-xnAzMuAOd6Da5GOAsnFBQ-1HNPbjtI/edit#gid=0)
    * Cross-check calculator results against Compensation, Pay Frequency, On Target Earnings, Currency Conversion fields
    * For Non-Sales, “On Target Earnings” should say “No”, no need to add the date
    * Effective Date should be the hire date.
@@ -149,9 +151,9 @@ Check [Bamboo Onboarding Report](https://gitlab.bamboohr.com/reports/custom/Onbo
    * Equity: Audit Shares field against contract or Greenhouse details.
    * Job Information: cross-check against contract. 
    * If title has a speciality, add it under “Job Title Speciality”, for example, “Backend Engineer, Verify” - “Backend Engineer” will go under “Job Title” but “Verify” will go under “Job Title Speciality”
-* Job Codes: audit job title and job code against this [list](https://docs.google.com/spreadsheets/d/1j7A0GmPffyICjBgKAY1RwcB2lx4Rx_uswFJA7Oc7KLM/edit#gid=1977487429)
+* Job Codes: audit job title and job code against this [list](https://docs.google.com/spreadsheets/d/1wUIvWrjErlGIlRLANomwqrQYOHPsklggATFbo0lElpU/edit#gid=1539740034)
 
-###### Access Level Audit 
+#### Access Level Audit 
 
 The Access Level field should only be updated if the team member is a manager or higher (leader, exec). If they are an IC, you can leave the level as is. The People Experience Associates do not have access to the `Access Level` field in BambooHR - this check should be left unchecked for the BambooHR Provisioners to complete in instances where the team member is not an IC.
 
@@ -161,31 +163,31 @@ Process for BambooHR Provisioners:
 * For Contractors (independent or corp-to-corp): "Contractor Self-Service"
 * For Contractors who are Managers of people: "Multiple Access Levels": "Contractor Self-Service" and "Managers"
 
-###### Audit Locality & Region
+#### Audit Locality & Region
 
 * Personal tab > Audit Locality to match the city: 
 * Check if the locality is on Greenhouse (Candidate City + URL for compensation calculator). If not:
 * Check [distance of city to locality on Google Maps](https://www.google.com/maps/). Distance should not be more than 1 hour and 45 minutes during rush hour (8AM). Change the time to 8:00AM
 * Audit Region
 
-###### Sales Geo Differential
+#### Sales Geo Differential
 
 * Personal tab > Sales Geo Differential
 * For non-sales : n/a Comp Calc
-* For sales: pick the region (it will be for any of the titles under the “Not In Comp Calc” section of the [comp calculator](https://docs.google.com/spreadsheets/d/1NS_yTVXQ87UnXaLYvnOk9_4D91jg1pMFRpFy4fgpuSg/edit?ts=5d7ee2b2#gid=1417734479) OR the team member will have On Target Earnings)
+* For sales: pick the sales zone as per the [Location Factors Sheet](https://docs.google.com/spreadsheets/d/1wUIvWrjErlGIlRLANomwqrQYOHPsklggATFbo0lElpU/edit#gid=2134917912)
 
-###### Payroll Change Report
+#### Payroll Change Report
 
 The People Experience Associates have no access to this report. The BambooHR Provisioners will complete the following:
 
 Reports (black heading on BHR) > Standard reports > Payroll change report > Change the date for the week > tick the team member’s name
 
-###### Update GitLab and Turn off Notifications
+#### Update GitLab and Turn off Notifications
 
 * Go back to the onboarding issue of the team member >  complete the respective BambooHR related tasks 
 * Turn off notifications
 
-###### Only For US Team Members:
+#### Only For US Team Members:
 
 Wait for People Experience Team to tag you on the team member’s onboarding issue. Only audit the profile once the SSN has been added to the account. If not, comment on the onboarding issue and remind the team member on their 2nd day to add their SSN. 
 
