@@ -140,7 +140,7 @@ When writing an issue template, it is often better to omit questions about "how"
 **Setup your templates to automatically add relevant information such labels**. *Set confidentiality if applicable*. You might also want to assign issues automatically or add cc @ mentions to the template. For example,
 
 ```
-/label ~bug ~reproduced ~needs-investigation
+/label ~"type::bug" ~reproduced ~needs-investigation
 /cc @project-manager
 /assign @qa-tester
 /due in 14 days
