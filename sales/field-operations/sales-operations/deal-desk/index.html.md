@@ -380,7 +380,9 @@ If the customer needs to change the Quote Start Date (typically for Billing purp
 
 In accordance with Section 6 of the [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#6-payment-of-fees), customers may be required to pay for Overage Users upon the expiration of a Subscription Term in order to renew the Software. 
 
-Effective [ **INSERT DATE HERE** ], the "Trueup" SKU has been deprecated and replaced with 6 new annual True-Up SKUs, each of which tie to the related subscription SKU. When creating quotes that include a True-Up element, please select the appropriate True-Up SKU as listed below. For the avoidance of doubt, you must select the True-Up SKU related to the subscription SKU that was in use when the True-Up was incurred.
+##### New Annual True-Up SKUs as of 2021-11-15
+
+Effective 2021-11-15, the "Trueup" SKU has been deprecated and replaced with 6 new annual True-Up SKUs, each of which tie to the related subscription SKU. When creating quotes that include a True-Up element, please select the appropriate True-Up SKU as listed below. **For the avoidance of doubt, you must select the True-Up SKU related to the subscription SKU that was in use when the True-Up was incurred.**
 * Example: A customer purchased a 100 user SaaS - Premium subscription, and incurred 5 Overage Users. These Overage Users are charged as part of the customer's renewals. In this case, you should use the True-Up (Annually) - SaaS - Premium SKU.
 
 **Self-Managed True-Up SKUs**
@@ -394,6 +396,16 @@ Effective [ **INSERT DATE HERE** ], the "Trueup" SKU has been deprecated and rep
 * True-Up (Annually) - SaaS - Ultimate: $1,188/seat/year
 * True-Up (Annually) - SaaS - Premium: $228/seat/year
 * True-Up (Annually) - Bronze: $48/seat/year
+
+##### New True-Up Selection Flow in Zuora CPQ as of 2021-11-15
+
+To streamline the quoting process, we have created a new product selection step, called "True Ups." When selecting SKUs to add products to a quote, the new True-Up SKUs will display under the third and final page. Previously the "Trueup" SKU was displayed under "Add Add On Products."
+
+![Guided Selling](/handbook/sales/images/trueupsguidedselling.png)
+
+On this new Guided Selling "True Ups" screen, you must select the appropriate True-Up SKU, as displayed below:
+
+![Product Selection](/handbook/sales/images/trueupsproductselection.png)
 
 #### Co-Terming
 
