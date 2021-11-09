@@ -13,9 +13,6 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from May 1, 2021 
 - TOC
 {:toc}
 
-## OKR Schedule
-The by-the-book schedule for the OKR timeline would be
-
 ## OKRs
 
 ### 1. CEO: New delivery methods launched
