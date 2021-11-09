@@ -564,7 +564,7 @@ After Field Marketing has run a campaign, the Field Marketing Manager is respons
 
 # ROI tracking for Field Marketing
 
-For a complete picture of GitLab Marketing Metrics, please refer to our [Marketing Metrics page](/handbook/marketing/marketing-operations/marketing-metrics/).
+For a complete picture of GitLab Marketing Metrics, please refer to our [Marketing Metrics page](/handbook/marketing/strategy-performance/marketing-metrics/).
 
 This section will go into specifics on the workflow for a Field Marketer to check their results.
 
