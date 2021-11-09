@@ -193,6 +193,11 @@ Digital Experience code request reviews should include the [merge request checkl
 
 - [How we use Figma](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/figma/)
 
+
+### GitLab Product Process
+
+From time to time, our team has objectives that require us to collaborate on the [GitLab product](https://gitlab.com/gitlab-org/gitlab). [Read more about the process for our engineers to onboard](/handbook/marketing/inboud-marketing/digital-experience/engineering-gitlab-product)
+
 ### Sprint Releases
 
 On the second Wednesday of each sprint, we have a calendar reminder for: “Sprint Release Async”, which serves as a reminder for team members to add to our [Sprint Release Video Document](https://docs.google.com/document/d/1I9Th3Q-AakOkE_-pmNtEzwwMDSqYKF5Je2etGdPTovk/edit).
