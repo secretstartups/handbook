@@ -110,7 +110,7 @@ The contents of the confidential issue should not be shared.
 Triage vulnerability reports in a similar manner to our [HackerOne process](/handbook/engineering/security/security-engineering-and-research/application-security/runbooks/hackerone-process.html).
 
 * If the report would be Not Applicable, reply with the reason why and close as "Solved."
-* If the report would be Informative or would be an ~feature, you may ask the requester to
+* If the report would be Informative or would be an ~"type::feature", you may ask the requester to
   file an issue themselves. You can start with the "General -> Ask to create an issue"
   macro.
 * If the issue is known, provide a link to the issue. If it is confidential,
