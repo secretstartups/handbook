@@ -148,6 +148,7 @@ Ideally, the functional lead is someone who is an IC working in the affected gro
 | Functional Lead    | Grzegorz Bizon @grzesiek          | Ops, Verify       | Staff Backend Engineer               |
 | Functional Lead    | Jason Plum @WarheadsSE            | Distribution      | Staff Backend Engineer               |
 | Functional Lead    | Matthias Käppler @mkaeppler       | Memory            | Senior Backend Engineer              |
+| Functional Lead    | Łukasz Korbasiewicz @lkorbasiewicz| Support           | Support Engineer                     |
 | Member             | Vladimir Shushlin @vshushlin      | Release group     | Senior Backend Engineer              |
 | Member             | Erick Bajao @iamricecake          | Verify            | Senior Backend Engineer              |
 | Member             | Jaime Martinez @jaime             | Package           | Backend Engineer                     |
