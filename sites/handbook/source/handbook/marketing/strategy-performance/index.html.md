@@ -155,7 +155,7 @@ Periodically Marketing Strategy and Performance becomes aware of significant cha
 
 ## <i id="biz-tech-icons" class="far fa-folder-open"></i>Important Resources
 
-- [Marketing Metrics](/handbook/marketing/marketing-operations/marketing-metrics)
+- [Marketing Metrics](/handbook/marketing/strategy-performance/marketing-metrics)
 
 ## <i id="biz-tech-icons" class="fas fa-toolbox"></i>Tech Stack
 
