@@ -16,7 +16,7 @@ twitter_creator: "gitlab"
 
 ## Sustainability at GitLab
 
-As GitLab's reach in the global developer community grows, so does our impact on the environment. While we intentionally operate within our values as part of our operations, we have not yet understood how to apply our values to our business's impact on the environment. This handbook page will document our growing body of work in aligning our sustainability initiatives with our values. Additional information around how we have quantified carbon emissions and investments to date can be found on our [environmental sustainability page](/handbook/environmental-sustainability/).
+As GitLab's reach in the global developer community grows, so does our impact on the environment. While we intentionally operate within our values as part of our operations, we have not yet understood how to apply our values to our business's impact on the environment. This handbook page will document our growing body of work in aligning our sustainability initiatives with our values. 
 
 ## GitLab's mission can't succeed without sustainability 
 
@@ -77,11 +77,11 @@ While diversity is a critical GitLab value, we must understand that we are not a
 
 We don't know what our philosophy on sustainability will be yet. We don't have more information to share on what commitments we'll soon make. But we do know that we'll need to focus on reducing our emissions now to begin to eliminate those emissions soon. 
 
-## Additional sustainable projects already in motion
+## Sustainable projects already in motion
 
-While not organized under a sustainability banner, the following projects have been driven by or considered sustainability
+While not organized under a sustainability banner, the following projects have been driven by or considered sustainability.
 - [Organizing existing work that enables our marketing website to be more energy efficient](https://gitlab.com/gitlab-com/marketing/inbound-marketing/marketing-website/-/issues/110)
-- Contribute, our annual team member in-person event, considers carbon offsets for travel, which began in 2020
+- Contribute, our annual team member in-person event, considers carbon offsets for travel, which began in 2020.
 - [LinkedIn Learning course for GitLab team members to understand their carbon impacts](https://gitlab.com/gitlab-com/sustainability/-/issues/8)
 - This handbook page also serves as our project for organizing sustainability at GitLab
 
