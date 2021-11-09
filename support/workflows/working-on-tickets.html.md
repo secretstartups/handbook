@@ -179,7 +179,7 @@ B1 -->|No| NT2
 C[Select top ticket from view] --> D
 D{Can you make progress and <BR> take the next steps?}
 D -->|Yes| E[Update the user<BR>with the next steps]
-D -->|No| F[Follow the <BR>How to Get Help workflow<BR>]
+D -->|No| F[Follow the <BR>How to Get Help workflow]
 E & F --> NT0
 
 NT0([Finding a New Ticket]) --> NT1
