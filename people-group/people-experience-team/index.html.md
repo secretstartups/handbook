@@ -115,7 +115,7 @@ The People Experience Associates do not have full access to audit team members o
 
 Check [Bamboo Onboarding Report](https://gitlab.bamboohr.com/reports/custom/Onboarding+Report/1966) to find out the list of new hire for the week or the relevant [issue board](https://gitlab.com/gitlab-com/team-member-epics/employment/-/boards/3350022) by use of the onboarding audit labels.
 
-Note: Edit the onboarding report dates as per the onboarding week
+Note: Only the owner of the BambooHR report has power to edit the dates on the report for the current week so the issue board is the best way to view current team members who need the audit completed.
 
 #### Process 
 
@@ -130,34 +130,39 @@ Note: Edit the onboarding report dates as per the onboarding week
 
 #### Audit Personal Tab
 
-* Check off date of birth field 
-* Check off Social Security Number field
-* Check the GitLab username is correct in BambooHR by cross referencing the team members username in the onboarding issue. Update if not correct in BambooHR. 
+* DOB Audit: Check off if date of birth has been completed
+* SSN Added?: Check off Social Security Number field (if applicable)
+* GitLab Username: Check the GitLab username is correct in BambooHR by cross referencing the team members username in the onboarding issue. Update if not correct in BambooHR. The GitLab username is case sensitive but the `@` symbol is not necessary.
 
 #### Audit Job Tab
 
-* Signed Letter: Documents tab > check that the signed contract is in the “Contracts & Changes” folder. 
+* Start Date Audit: Documents tab > check that the signed contract is in the “Contracts & Changes” folder. 
    * Effective Date, Hire Date, Compensation & Job Information Effective Date, Employment Status: Check the hire date on the contract. If it is different, go back to the folder and search for a date change confirmation file (usually uploaded by Candidate Experience Specialist). 
    * If the signed letter is not in the folder: go to Greenhouse > search for team member > Activity Feed > Find CES > ping CES on Slack and ask for the date change confirmation to be uploaded.
-* Cost Center, Department & Division: Should be the same as the manager’s.
-    - ** Note in some instances the Department may differ to the managers. Please reach out to BambooHR Provisioners for further clarity if this should differ or whether this should be updated to match the manager. 
-* [Payroll Type](https://about.gitlab.com/handbook/people-group/employment-solutions/)
-* Compensation:
+* Division, Department, Cost Center: Should be the same as the manager’s.
+    - ** Note in some instances the Department may differ to the managers. Please reach out to **BambooHR Provisioners** for further clarity if this should differ or whether this should be updated to match the manager. 
+* Entity Check: Check to be sure that the team member was hired into the correct entity based on location and role. 
+* [Payroll Type](https://about.gitlab.com/handbook/people-group/employment-solutions/): 
+   - For all the entities the payroll type is Employee
+   - For Remote and Global Upside it should be Employee-PEO
+   - For Safeguard & CXC it should be Contractor-PEO 
+   - For IT BV it should be Individual Contractor
+* Audit Compensation:
    * Fill out the [onboarding calculator](https://docs.google.com/spreadsheets/d/1pch83tg59hEC-xnAzMuAOd6Da5GOAsnFBQ-1HNPbjtI/edit#gid=0)
    * Cross-check calculator results against Compensation, Pay Frequency, On Target Earnings, Currency Conversion fields
    * For Non-Sales, “On Target Earnings” should say “No”, no need to add the date
    * Effective Date should be the hire date.
    * Exchange Rate Effective Date is going to be 2020-12-01 until we revisit this again in 2021
    * Equity: Audit Shares field against contract or Greenhouse details.
-   * Job Information: cross-check against contract. 
+   * Job Information: cross-check against contract 
    * If title has a speciality, add it under “Job Title Speciality”, for example, “Backend Engineer, Verify” - “Backend Engineer” will go under “Job Title” but “Verify” will go under “Job Title Speciality”
-* Job Codes: audit job title and job code against this [list](https://docs.google.com/spreadsheets/d/1wUIvWrjErlGIlRLANomwqrQYOHPsklggATFbo0lElpU/edit#gid=1539740034)
+* Audit Options and Job Codes: audit job title and job code against this [list](https://docs.google.com/spreadsheets/d/1wUIvWrjErlGIlRLANomwqrQYOHPsklggATFbo0lElpU/edit#gid=1539740034)
 
 #### Access Level Audit 
 
 The Access Level field should only be updated if the team member is a manager or higher (leader, exec). If they are an IC, you can leave the level as is. The People Experience Associates do not have access to the `Access Level` field in BambooHR - this check should be left unchecked for the BambooHR Provisioners to complete in instances where the team member is not an IC.
 
-Process for BambooHR Provisioners:
+**Process for BambooHR Provisioners:**
 * Job tab > Settings icon > BambooHR Level:
 * For Employees who are Managers of people: "Managers"
 * For Contractors (independent or corp-to-corp): "Contractor Self-Service"
@@ -178,14 +183,16 @@ Process for BambooHR Provisioners:
 
 #### Payroll Change Report
 
-The People Experience Associates have no access to this report. The BambooHR Provisioners will complete the following:
+The People Experience Associates have no access to this report. The **BambooHR Provisioners** will complete the following:
 
 Reports (black heading on BHR) > Standard reports > Payroll change report > Change the date for the week > tick the team member’s name
 
 #### Update GitLab and Turn off Notifications
 
 * Go back to the onboarding issue of the team member >  complete the respective BambooHR related tasks 
-* Turn off notifications
+* Turn off notifications for those team members that you aren't the assigned Experience associate for
+* Be sure to update the onboarding audit label from `:: Waiting` to `:: Complete` 
+* For **non-US team members**, there is no need to tag anyone from payroll in the issue
 
 #### Only For US Team Members:
 
@@ -199,12 +206,10 @@ Wait for People Experience Team to tag you on the team member’s onboarding iss
    * Personal tab > Once the SSN has been added, tick the I-9 Processed checkbox 
 * Benefit Group
    * Check team member’s state (under Personal tab) against the [Benefit Group Cheat Sheet](https://docs.google.com/spreadsheets/d/1QU2rsFrrKSRQIrzWu2eqylK0HrNvt9FUhc_S5VQAVJ4/edit?ts=5d922f86#gid=0).
+   * Update the Benefit Group in the `Benefits` tab to reflect the appropriate group
 * Sync Employee to PlanSource Field (on Job tab) > tick PlanSource checkbox once you have updated Benefit Group.   
 * Ready to Add to ADP
    * Comment on the onboarding issue, tagging US payroll Specialist to add to ADP.
-* Update GitLab and Turn off Notifications
-   * Check off the respective tasks applicable to the audit in the issue
-   * Turn off notifications
 
 #### Referral Bonus Audit
 Cadence: Weekly
