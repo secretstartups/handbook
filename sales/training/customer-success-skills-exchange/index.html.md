@@ -23,8 +23,11 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Nov 3       |   [Kubernetes Integrations with the Agent](https://youtu.be/kgFbgsCsNTo)             |  Viktor Nagy              |
-
+| Nov 17     |   [A Journey into the Customer Portal](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/135)           |  Amanda Rueda             |
+| Dec 01     |   [Machine Learning ModelOps/MLOps demonstration](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/140)           |  Sameer Kamani             |
+| Dec 15     |   **[Hold for RedHat OCP Fireside Chat](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/136)**           |  **TBD**             |
+| Jan 01     |   [Click-Through Demos]            |  Itzik Gan Baruch             |
+| Jan 19     |   [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/117)           |  Grant Young             |
 
 
 ## Past Sessions
