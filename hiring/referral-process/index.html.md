@@ -92,7 +92,7 @@ To see what positions are available to submit an external candidate for please v
 
 #### Referral Statuses
 
-You can stay up-to-date on the status of your referral(s) in the **My Referrals** section of your Greenhouse dashboard. If you have any questions regarding your referral, please send an email to the `referrals@gitlab.com`. Please note that the Talent Acquisition Team is **unable** to provide candidate-specific feedback to Referrers (i.e you); only to the Candidate themselves. You can expect Referrals to be reviewed by the Hiring Team within **10 business days** of their submission.
+You can stay up-to-date on the status of your referral(s) in the **My Referrals** section of your Greenhouse dashboard. If you have any questions regarding your referral, please send an email to the `referrals@gitlab.com`. Please note that the Talent Acquisition Team is **unable** to provide candidate-specific feedback to Referrers (i.e you); only to the Candidate themselves. You can expect Referrals to be reviewed by the Hiring Team within **5 business days** of their submission.
 
 Although we place special emphasis on Referrals, we treat Referral interviews the same as we do non-Referrals. Referral interviews should not be more or less demanding than any other interview.
 
