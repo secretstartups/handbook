@@ -236,7 +236,7 @@ Periodically Marketing Operations and other teams through the marketing org make
 
 ## <i class="far fa-folder-open" id="biz-tech-icons"></i> Important Resources
 
-- [Marketing Metrics](/handbook/marketing/marketing-operations/marketing-metrics)
+- [Marketing Metrics](/handbook/marketing/strategy-performance/marketing-metrics)
 - [Marketing Owned Provisioning Instructions](/handbook/marketing/marketing-operations/marketing-owned-provisioning)
 
 ## <i class="fas fa-file-import" id="biz-tech-icons"></i> [List Imports](/handbook/marketing/marketing-operations/list-import)
