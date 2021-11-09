@@ -13,11 +13,11 @@ description: Workflow for Support Engineers on how to get help when working on a
 
 ## Getting Help on a Ticket
 
-When [working on tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html), collaboration is critical, especially when troubleshooting complex issues, or technical areas of focus that fall outside of your experience level. Asking for help means having a [low level of shame](https://about.gitlab.com/handbook/values/#low-level-of-shame), and also shows that you are putting the customer first, because you are trying to progress their issue toward resolution. 
+When [working on tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html), collaboration is critical, especially when troubleshooting complex issues, or technical areas of focus that fall outside of your experience level. Asking for help means having a [low level of shame](https://about.gitlab.com/handbook/values/#low-level-of-shame), and also shows that you are putting the customer first because you are working towards resolving their problem.
 
 ### How to Get Help Workflow
 
-If you are stuck on a ticket, the following workflow seeks to help Support Engineers realize and utilize all of the tools available to progress a ticket to resolution. The following workflow organizes those tools into a progressive approach to so that you can get the help you need. 
+If you are stuck on a ticket, the following workflow seeks to help Support Engineers realize and utilize all of the tools available to progress a ticket to resolution. This workflow organizes those tools into a progressive approach, so that you can get the help you need. 
 
 **If you’re stuck on a ticket…..**
 1. Add your ticket to the `Needs Collaboration` view in ZD. Use the `Collaboration` macro to summarize the help that you need into an internal note so that others can quickly understand what help is needed. Add the `needs_collaboration` tag to the ticket, which will add it to the `Needs Collaboration` view.
