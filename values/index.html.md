@@ -905,7 +905,7 @@ Resist the urge to bundle a series of smaller iterations so team members don't s
 
 ##### Make two-way door decisions
 {:.no_toc}
-Most decisions are easy to reverse. In these cases, the [directly responsible individual](/handbook/people-group/directly-responsible-individuals/) should go ahead and make them without approval. As [Jeff Bezos describes](http://minimumviablestrategy.com/lessons/leadership/one-way-and-two-way-door-decisions/) only when you can't reverse them should there be a more thorough discussion.
+Most decisions are easy to reverse. In these cases, the [directly responsible individual](/handbook/people-group/directly-responsible-individuals/) should go ahead and make them without approval. Only when you can't reverse them should there be a more thorough discussion.
 
 ##### Changing proposals isn't iteration
 {:.no_toc}
