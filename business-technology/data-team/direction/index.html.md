@@ -181,13 +181,16 @@ The Data Capability Model is used to identify target state requirements to suppo
 
 ### [FY22-Q2](https://gitlab.com/gitlab-data/managers/-/issues/249)
 
+FY22-Q2 carried forward and completed several multi-quarter initiatives begun in FY22-Q1, including  adding SaaS Usage Data for Gainsight, shipping a new Company Metrics Dashboard, upgrading Data Access controls across the tech stack, and expanding the GTM Hub. The team continued to build-out GTM components of the Trusted Data Models and the investment in the area started to pay off, with increases in efficiency for Dashboard development and analysis as a result of using standard design patterns. A few additional improvements: rollout of the [Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning/), a [Handbook Jamboree](https://gitlab.com/gitlab-data/analytics/-/issues/9441), 3 [Data 3P Parties](https://docs.google.com/document/d/1cUtE75rbXzLCLpq3SDQS3TtsNTEmAAES6UJoZGoP0-Y/edit#heading=h.qq9lf68vhd66) (Pizza, Pet Peeves, and Predictions), and formalizing [Data Development](/handbook/business-technology/data-team/data-development/#data-development-at-gitlab) approaches.
+
 - [FY22-Q2 Data Team Handbook Updates](https://gitlab.com/gitlab-data/analytics/-/issues/8600)
-- [FY22-Q2 Handbook Jamboree](https://gitlab.com/gitlab-data/analytics/-/issues/9441)
 - [FY22-Q2 Retrospective](https://gitlab.com/gitlab-data/managers/-/issues/262)
 - [FY22-Q2 Release Roundup](https://gitlab.com/gitlab-data/managers/-/issues/276)
 
 
 ### [FY22-Q1](https://gitlab.com/gitlab-data/managers/-/issues/248) 
+
+FY22-Q1 was a very important quarter for the Data Team because the team completed many initiatives started earlier in FY21, including the new organization model with Fusion Teams, the first major release of the Trusted Data solutions and Sales Funnel Dashboard, integration of Product Usage Data into Gainsight, among other things. The Team successfully delivered on all major commitments in the quarter and helped position itself for success and scale heading into Q2.
 
 - [FY22-Q1 Retrospective](https://gitlab.com/gitlab-data/managers/-/issues/259)
 - [FY22-Q1 Report Card](https://gitlab.com/gitlab-data/managers/-/issues/258)
