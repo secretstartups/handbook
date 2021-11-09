@@ -36,7 +36,9 @@ Aligning passionate TAMs with customers to ensure their success by...
 - [Using Gainsight](/handbook/customer-success/tam/gainsight/)
 - [TAM Responsibilities and Services](/handbook/customer-success/tam/services/)
 - [TAM and Product Interaction](/handbook/customer-success/tam/product/)
+- [TAM and Professional Services Interaction](https://about.gitlab.com/handbook/customer-success/tam/engaging-with-ps/)
 - [TAM and Support Interaction](/handbook/customer-success/tam/support/)
+- [TAM and Partner Interaction](/handbook/customer-success/tam/engaging-with-partners/)
 - [Escalation Process](/handbook/customer-success/tam/escalations/)
   *  [Infrastructure Escalation & Incident Process](https://about.gitlab.com/handbook/customer-success/tam/escalations/infrastructure/)
 - [TAM-to-TAM Account Handoff](/handbook/customer-success/tam/account-handoff/)
@@ -63,7 +65,6 @@ Aligning passionate TAMs with customers to ensure their success by...
 - [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
-- [Engaging with Partners](/handbook/customer-success/tam/engaging-with-partners/)
 - [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Risk Types, Discovery & Mitigation](/handbook/customer-success/tam/risk-mitigation/)
 
