@@ -118,7 +118,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing
 * [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Social
 * [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Growth Marketing
-* [ ] [Blog](https://about.gitlab.com/handbook/marketing/blog/#process-for-time-sensitive-posts) - Editorial
+* [ ] [Blog](https://about.gitlab.com/handbook/marketing/blog/) - Editorial
 * [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
 
 </details>
