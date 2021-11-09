@@ -125,6 +125,7 @@ If you are interested in participating in an active working group, it is general
 * [Database Scalability](/company/team/structure/working-groups/database-scalability/)
 * [Event Stream](/company/team/structure/working-groups/event-stream/)
 * [Expense Management](/company/team/structure/working-groups/expense-management/)
+* [FedRAMP Execution](/company/team/structure/working-groups/fedramp-execution/)
 * [Frontend Observability](/company/team/structure/working-groups/frontend-observability/)
 * [GitLab.com Disaster Recovery](/company/team/structure/working-groups/disaster-recovery/)
 * [GTM Product Analytics](/company/team/structure/working-groups/product-analytics-gtm/)
