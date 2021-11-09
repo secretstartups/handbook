@@ -1,10 +1,10 @@
 ---
 layout: handbook-page-toc
 title: "Blog Handbook"
-description: "A comprehensive guide to pitching and publishing to the GitLab blog."
+description: "Everything you need to know about suggesting and publishing a post on GitLab's blog."
 ---
 
-The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing/inbound-marketing/content/editorial-team/). The managing editor of the blog is Valerie Silverthorne (@vsilverthorne).
+Welcome to the GitLab blog handbook! The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing/inbound-marketing/content/editorial-team/). The managing editor of the blog is Valerie Silverthorne (@vsilverthorne) and Sandy Glitten (@Sglitten) is the senior content editor.
 
 ## Communication
 - Chat channels; use `#content` for questions, see `#content-updates` for updates on most recently published articles.
@@ -26,101 +26,25 @@ The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing
 
 ## Who can publish content to the GitLab blog?
 
-[Everyone can contribute at GitLab](/company/mission/#mission). For the blog, this means we welcome your blog pitches, ideas, and drafts. However, the [main blog](/blog) is one of the many official voices of GitLab – meaning content that is published to the main blog must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The editorial team, which manages the blog, is tasked with this responsibility.
+[Everyone can contribute at GitLab](/company/mission/#mission). For the blog, this means we welcome your blog suggestions, ideas, and drafts. However, the [main blog](/blog) is one of the many official voices of GitLab – meaning content that is published there must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The editorial team, which manages the blog, is tasked with this responsibility.
 
-The editorial team members are the [directly responsible individuals (DRI) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/) – anyone can give input, but the editorial team will decide.
+The editorial team members are the [directly responsible individuals (DRI) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/) – anyone can give input, but the editorial team will ultimately decide.
 
-All content that is published to the [main GitLab blog](/blog) must be carefully vetted to ensure the information shared is accurate, credible, [consistent with our values](/handbook/values/), and accurately represents the GitLab brand. The [editorial team](/handbook/marketing/inbound-marketing/content/editorial-team/), which manages the GitLab blog, is tasked with this responsibility. Oftentimes, this responsibility involves [connecting with internal stakeholders on the partner marketing, corporate marketing, and legal teams to ensure the content has been vetted](/handbook/marketing/inbound-marketing/content/editorial-team/#process-for-blog-posts-that-require-approval).
+## How to suggest a blog post
 
-Before publishing, a blog post **must be reviewed by a member of the editorial team**. If the editorial team member is out of the office, a member of the content team can review the blog post. Once the appropriate reviewer has edited and approved the content, the editorial team member can add the blog post to the merge train, which means it is in the queue to publish.
+The first step in publishing a blog is to open an issue in [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and ping @vsilverthorne and/or @Sglitten.
 
-**Announcements may be reviewed and published by members of the corporate marketing team**.
+If your post is time-sensitive, please ping @ValSilver on slack. Otherwise the editorial team will reach out to you to discuss timing. 
 
-Otherwise, no blog may be published to the main blog without being reviewed by an editorial or content team member. The authority to publish rests with this team.
-
-### But what if my blog post is time sensitive?
-
-If you have a priority blog post that is time sensitive, indicate this by [applying the `priority` label to your blog post issue](/handbook/marketing/inbound-marketing/content/editorial-team/#labels) and explain why it is a priority blog post.
-
-Tag the reviewer from the editorial team in a comment on the issue that explains the time sensitive nature of the blog post. If an editorial team member is not available to review and/or merge the blog post, reach out to the #content team on Slack and ask for a team member to review and merge.
-
-_A time sensitive blog post may be held until it can be reviewed by the proper team members if the content contained in it is possibly [unSAFE](/handbook/legal/safe-framework/)._
-
-## How to pitch a blog post
-
-The first step to publishing a blog is to pitch an idea.
-
-Start by opening an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and add the `Blog::Pitch` label to ensure your pitch is triaged. Unless your post is urgent, there is no need to ping the Editorial team as pitches with that label are reviewed weekly.
-
-If you hope to publish on a specific date or within a specific timeframe, please allow at least three weeks' lead time from the date you open your issue and ping `@vsilverthorne` immediately, as the [Editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar) fills up quickly and we cannot guarantee there will be a slot for your post without adequate notice. Please give a rationale for your proposed publish date in the issue description so the team can prioritize accordingly.
-
-If you prefer, you can start drafting your blog post right away, before getting approval. All this means is that you may need to edit your post based on feedback from the Editorial team.
-
-If you do not intend to write the post yourself but are just suggesting an idea you think would be worth pursuing, please make this clear in your issue description.
-
-### Examples of strong blog post pitches
-
-Below are links to blog post proposals that demonstrate the value the post will offer to the reader:
-
-- [Speed up your Sketch design specs using GitLab pages](https://gitlab.com/gitlab-com/content-hack-day/issues/103)
-- [How we turned a 40 person synchronous meeting into a podcast](https://gitlab.com/gitlab-com/content-hack-day/issues/181)
-- [Fixing Git mistakes](https://gitlab.com/gitlab-com/content-hack-day/issues/146)
-- [How to avoid broken master with Pipelines for merged results and Merge Train](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4786)
-- [Git performance on NFS](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4653)
-
-### If your pitch is accepted
-
-1. If you haven't already, feel free to start your draft using this [blog post template](https://docs.google.com/document/d/1TavHlYbHQ8U1C82TEzcYaLS9l0sm89jEcBNQ0gBgkcw/edit) which has all the relevant information already embedded. Then see the [formatting guidelines](#formatting-guidelines) for help with creating and formatting your blog post MR.
+1. Feel free to start your draft using this [blog post template](https://docs.google.com/document/d/1TavHlYbHQ8U1C82TEzcYaLS9l0sm89jEcBNQ0gBgkcw/edit) which has all the relevant information already embedded. Then see the [formatting guidelines](#formatting-guidelines) for help with creating and formatting your blog post MR.
 1. Use the `Blog post` merge request template for your MR and ensure it is set to close the associated issue automatically.
 1. Assign the issue and associated merge request to yourself and apply the appropriate labels based on what stage of creation you are on. Once it's ready for editorial review, assign both to Editorial team member who reviewed your pitch.
 
-Note for the Content team: If your blog post is already scheduled and appears on the [blog calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar) please submit your MR and associated issue directly to @vsilverthorne for review.
-{: .alert .alert-info .note}
-
-### Process for time-sensitive posts
+### Is your blog post an announcement?
 
 First, please see [If you want to share news/an update or are seeking feedback](#-if-you-want-to-share-newsan-update-or-are-seeking-feedback) to check if you need to open an announcement request issue.
 
 If you have already followed those directions in the [PR handbook](/handbook/marketing/corporate-marketing/#requests-for-announcements) and the Corporate Communications and Editorial teams have decided that a blog post is the best way to communicate your announcement, please follow the process below.
-
-#### Time-sensitive posts – instructions
-
-1. Start by opening an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project, using the `Blog post` template and applying the `priority` label. **Even if you do not have a draft or a confirmed publish date, it's important to open the issue as far in advance as possible and ping @vsilverthorne so she knows it is coming and can prioritize accordingly.**
-1. The issue title should reflect the date on which you expect to publish.
-1. The issue due date should be a _minimum_ of two working days before the publish date.
-1. If other due dates apply (for example, design assets are required) make sure the entire timeline and all the people responsible are captured in the issue description.
-1. In most cases, we expect that you or one of your team will write the post and create the merge request for it, with all images and other formatting included. Feel free to start your draft using this [blog post template](https://docs.google.com/document/d/1TavHlYbHQ8U1C82TEzcYaLS9l0sm89jEcBNQ0gBgkcw/edit) which has all the relevant information already embedded. Then see the [formatting guidelines](#formatting-guidelines) for help with creating and formatting your blog post MR.
-1. **If you need assistance with drafting the post or creating the MR, please make this clear in your issue and we will confirm if this is possible within your timeframe.**
-1. Use the `Blog post` merge request template for your MR and ensure it is set to close the associated issue automatically.
-1. Be sure to check the review app for your blog post or preview it locally to ensure images, headlines, etc. are formatted correctly before handing over.
-1. When your MR is ready for review, please assign it and the corresponding issue to @vsilverthorne a _minimum_ of two working days ahead of when you expect to publish. **Please submit your MR earlier if you can**.
-1. When you've assigned your MR and issue to a reviewer, please change the due date on the issue to reflect the publishing date.
-1. Your reviewer may leave comments for you to address, in which case they will assign the MR back to you. When you have resolved all outstanding discussions, assign the MR back to the reviewer for final review and merging.
-
-#### Who to assign your MR to – urgent posts
-
-Please assign first to @vsilverthorne. If she is OOO, assign to @mackanic. If no one is available and you cannot wait until they return, please assign to a member of the Technical Writing team. Where possible, select the technical writer who is [listed for the most relevant stage group](/handbook/product/categories/#devops-stages). If you need immediate assistance/review, find a technical writer who is online on Slack to request this directly. Regardless, be sure to specify any time constraints around getting the content reviewed and posted.
-
-Continuous delivery mindset: With time-sensitive posts, don't wait to publish a post if you have enough information to go live. It's OK to publish a headline and paragraph to get the news out in a timely matter and add more details later (e.g. add more graphics, charts, etc.). We don't want to miss out on a news cycle because we're waiting for an image or supplementary information.
-{: .alert .alert-info}
-
-## Third-party posts
-
-We will promote anyone integrating with GitLab, even if we compete with them. It is very important to demonstrate to our customers that we do not lock them in. Partner or industry-adjacent third parties who want to contribute to our blog should contact the [Partner Marketing](/handbook/marketing/strategic-marketing/partner-marketing/) team before proceeding. GitLab team members asking on behalf of a third party should do the same. Third-party posts should follow the standard pitching process for blog posts.
-
-**Note**: We do not publish material that is exclusively promotional in nature. All blog posts should offer some informational, educational, or entertainment value to the reader.
-
-### Guest author bio
-
-Please be sure to include a short bio of the guest author at the end of the post, using the format below:
-
-```
-### About the guest author
-
-_Short bio describing who the author is and giving any relevant background information._
-```
-
-You can see a [live example of a guest author bio here](/blog/2020/01/27/kubecon-na-2019-are-you-about-to-break-prod/#about-the-guest-author).
 
 ### Disclosure process for posts concerning third parties
 
@@ -140,15 +64,11 @@ When the merge request has been reviewed by the Editorial team, please assign th
 - Accuracy of the technical components of the blog. (i.e., If we're using the wrong CLI command or stating something inaccurate about their service/product offering)
 - The headline, only in cases where the partner or their product or services are named in the headline
 
-We should not proceed to publish the blog post until the partner manager has received the feedback and/or has received acknowledgment from the partner that they have read the draft within the 48-hour window. If we need to escalate within the Alliance team, @bjung is the highest escalation point within that team.
-
-**It should be noted that this is a courtesy review of the content, not a formal approval from our partner to publish the post. It should ultimately be GitLab's decision if to go live with the post or not.**
+We should not proceed to publish the blog post until the partner manager has received the feedback and/or has received acknowledgment from the partner that they have read the draft within the 48-hour window. 
 
 ### Joint announcements
 
-Joint announcements with partners or other third parties should first be [proposed to the Corporate Communications team](/handbook/marketing/corporate-marketing/#requests-for-announcements) ahead of writing to maximize impact and ensure alignment across teams. They will decide whether we issue a press release, blog post, or communicate via other channels. If they decide to move forward with a blog post, please follow the instructions [for time-sensitive blog posts](#process-for-time-sensitive-posts).
-
-If we are doing a joint announcement with another company, the announcement post should appear on one party's site, to maximize impact. If both parties wish to publish a blog post about an announcement, the posts should be original and each take a unique angle, offering something new and valuable to the reader. In some cases this may mean a post takes more time to be researched, written, and reviewed, which may necessitate publishing shortly after the official announcement, if planning further ahead is not possible. Posts tend to get more traffic with this approach, rather than publishing and promoting duplicate posts on two blogs, or rushing to get a straightforward announcement out.
+Joint announcements with partners or other third parties should first be [proposed to the Corporate Communications team](/handbook/marketing/corporate-marketing/#requests-for-announcements) ahead of writing to maximize impact and ensure alignment across teams. They will decide whether we issue a press release, blog post, or communicate via other channels. If they decide to move forward with a blog post, please ping either @vsilverthorne or @Sglitten.
 
 ### Guest posts by GitLab partners
 
@@ -162,13 +82,6 @@ For either type of guest post, the process and guidelines for publishing are as 
 ### Guest posts by non-partners
 
 If the author of a guest post is not an official GitLab partner, they may link back to their website or own content with inline links, but may not include a [CTA button](#cta) or promotional copy.
-
-
-#### If you're publishing a GitLab story on another site
-
-Please try to include 2-3 relevant links back to about.gitlab.com, where appropriate. This is advantageous for SEO and may send some new visitors back to our site.
-
-If there is another layer/angle to the story, we could explore this in a new post on our own blog, which could then link back to the original post on the other site. Please open an issue to propose this if that's the case.
 
 #### If you see a story we should feature on our blog
 
@@ -230,140 +143,6 @@ It is important that our blog content represents our company values of diversity
 - Is your blog post biased? We all have unconscious biases. Take our [recognizing bias training](/company/culture/inclusion/unconscious-bias/#recognizing-bias-training), check the [list of unconscious biases in our DIB handbook page](/company/culture/inclusion/unconscious-bias/#unconscious-biases-to-look-out-for-in-ourselves-and-in-others) and practice strategies for [recognizing and managing yours](/company/culture/inclusion/unconscious-bias/#tips-on-recognizing-and-avoiding-bias).
 - If you still have questions, don't hesitate to tag the editorial team lead @vsilverthorne, leads of the appropriate [team member resource group (TMRG)](/company/culture/inclusion/erg-guide/) in your blog issue or email diversityinclusionandbelonging@gitlab.com with your questions.
 
-### Best practices for specific types of posts
-
-#### Technical posts
-
-Our audience loves a technical post, particularly when they are "how to" focused and include screenshots, code snippets, and more.
-
-Although normally longer blog posts don't tend to perform as well, traffic-wise, a well-thought-out technical how-to post can be long and still attract enthusiastic readers.
-  - A good rule of thumb is to keep it no longer than something you'd want to read yourself.
-  - It's always a nice idea to break things up with subheads, screengrabs, code snippets, or the like.
-  - It can help to make sure the reader knows this will be a long post, as in "This is a _deep dive_ into xxx."  
-  - Finally, it's important to make sure the headline and description set the expectation of a lengthy technical how-to.
-
-#### GitLab or industry events
-
-We conducted [an audit of all event-supporting content for 2018-19 and shared the results](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/1588). Below is a summary of the takeaways:
-
-- It's still important to keep the reader in mind when considering writing about industry events.
-- Live coverage of an event does not tend to draw much traffic either at the time of the event or in the months that follow.
-- For example, KubeCon may have been an amazing event, but it will have been covered by media everywhere.
-- Straightforward event recaps (whether an industry or GitLab-specific event) do not perform well.
-- We've seen the strongest performance from event-supporting content in the form of engineering stories based on a talk or workshop from an event.
-  - These get traffic even if they are published weeks or months after the event because they are standalone stories.
-
-**Recommendations**:
-
-What matters to _our_ readers is what matters to GitLab. A better way to cover events that offers something new with a specific angle is to take one trend or session and do a deep dive on it, rather than trying to cover the conference as a whole.
-
-If you want to share photos from the event such as the GitLab booth or social events, consider sharing these on personal social channels.
-
-#### Analyst report news
-
-If GitLab has been included in an analyst report and you wish to share this news, please follow the [announcement request process](/handbook/marketing/corporate-marketing/#requests-for-announcements) before starting work on a blog post, as we may choose to share the news in a press release or on our social channels (for rare, big news items), for example. If it is decided that a blog post is the best way to share the news, please consider the following when drafting your blog post:
-
-**As always, please keep our (largely technical) audience in mind:**
-1. Why would someone reading our blog be interested in this news? What's in it for them?
-1. If GitLab has been recognized for specific features or capabilities, can you demonstrate how they work/help? What pain points do they address?
-1. A tutorial-style piece that shows how to get started with the relevant features is a great way to share the news while offering additional value to the reader.
-1. How do the features for which GitLab has been recognized fit into the overall product? What context for the features might be useful for someone unfamiliar with GitLab?
-1. If we are building on the features, can you share details around what our vision and roadmap are? Are there issues or epics where work is being done that you can link to? Bonus points for video demos or mockups of future iterations!
-
-**The blog post should have value for our audience beyond an announcement:**
-1. [Straightforward announcements do not draw much traffic](https://gitlab.com/gitlab-com/marketing/product-marketing/-/issues/733).
-1. The content of the blog post should not repeat information from the handbook or a landing page without offering more insight or detail.
-1. If the need for a blog post is only to direct people to a landing page, it's better to skip the blog post altogether and request promotion of the landing page directly.
-1. Think about it this way: would your blog post stand on its own without the news? If it would still make a great blog post if the award/designation was just a footnote or a CTA at the end, then you're on the right track.
-1. A more substantive blog post may take longer to draft but should result in greater visibility for your news.
-1. If the blog post consists of more than just an announcement it is less critical to publish straight away.
-
-#### Newsjacking
-
-These are generally popular if GitLab genuinely has something meaningful or useful to contribute to the conversation. The point of a newsjacking post should not be self serving.
-
-This post about [an experimental Git feature](/blog/2020/03/13/partial-clone-for-massive-repositories/) is a great example, because it takes something newsy, contextualizes it, and then goes into a tutorial.
-
-Examples of successful newsjacking posts:
-
-- [Resources for companies embracing remote work](/blog/2020/03/06/resources-for-companies-embracing-remote-work/)
-- [How can we help solve the COBOL programmer shortage?](/blog/2020/04/23/cobol-programmer-shortage/)
-- [How Git Partial Clone lets you fetch only the large file you need](/blog/2020/03/13/partial-clone-for-massive-repositories/)
-
-#### GitLab feature posts
-
-Posts focusing on GitLab features or capabilities are most successful when we do the following:
-
-- Be selective. Choose only the most popular/highly requested features or capabilities to highlight in a post.
-- Tell the back story. Often, sharing how we built something is more interesting to our audience than just showing them a new feature.
-- Give a tutorial. Technical posts showing how to really use something get more traffic than simply announcing that it exists. If there is a link to a demo on our branded or Unfiltered YouTube channel, link to that, or consider recording a video to accompany your blog post.
-- Broaden the scope. Example: "How GitLab CI helps solve common DevSecOps challenges" could be "How CI helps solve common DevSecOps challenges." You might give examples using GitLab CI but the title doesn't limit the post to be about GitLab CI specifically, straight away. Someone who doesn't know about GitLab might be more inclined to click on the post then.
-- Consider a different format. Blog posts should have an opinion, a unique use case, or commentary on something newsy/timely, otherwise it may be perceived as marketing material. It may be more appropriate to share what you want to post on the relevant feature page.
-
-### Trends
-
-_Updated November 2020. Will update with complete FY21 review in February 2021._
-
-1. Average unique views per month on the blog: ~184,000 (November 2019 -
-   October 2020)
-1. Average unique views per post in two months after publish date: 2,219
-1. 39% of posts get >1,000 sessions in two months
-1. 41% of posts garner <499 sessions in two months
-1. 5% of posts are "hits" (10K+ sessions in two months after publishing); "Hits" don't consistently perform well over time
-
-See [Blog traffic analyses](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-traffic-analyses) for more in-depth analysis on traffic to the blog.
-
-#### Observations
-
-1. There is not a strong correlation between # of sessions and topic
-1. Strong performing content marketing posts focus on show and tell engineering stories (see [Attributes of a successful blog post](#attributes-of-a-successful-blog-post))
-
-### Identifying and qualifying a high-performing blog post
-
-**Qualifying story ideas:**
-
-Look for the following patterns:
-
-1. Team implementing a new technology, process, or coding language
-1. Deep dive into how a popular feature is made
-1. Chronicling a performance improvement
-1. Covering a controversial decision that was made
-
-**Who and how to interview:**
-
-1. Contact the technical subject matter expert. This can be someone who created the issue, or managed the project.
-1. Set up a 30 minute interview and dig into:
-  - What was the challenge?
-  - What was the solution?
-  - How did you go from point a to point b? Walk me through your thought process.
-  - How was the solution implemented and what is a realistic use case of the solution?
-  - What lessons were learned?
-  - How did this make the GitLab product / development community better?
-1. Optional: Contact the business subject matter expert. This could be a product manager or a product marketing manager.
-1. Set up a 30 minute interview and dig into:
-  - How does this solution help a user?
-  - What business value does this solution bring?
-  - How does this solution relate to our product?
-
-### Attributes of a successful blog post:
-
-1. Deep dive into a hard technical challenge.
-1. A behind-the-scenes look at how we tackled something: "How we built x," "How we solved y," "How we scaled z."
-1. Puts the reader in the shoes of the person who faced the challenge; reader learns via compelling example.
-1. Intellectually satisfying; learning component.
-1. Allows the reader to learn from someone else's mistake, and follows a problem/trials and triumphs/solution story arc.
-1. Taking a controversial or unpopular stance on a topic, backed by hard evidence.
-
-### Examples of high-performing posts (20K+ sessions in published month):
-
-1. [Meet the GitLab Web IDE](/blog/2018/06/15/introducing-gitlab-s-integrated-development-environment/)
-1. [How a fix in Go 1.9 sped up our Gitaly service by 30x](/blog/2018/01/23/how-a-fix-in-go-19-sped-up-our-gitaly-service-by-30x/)
-1. [Hey, data teams - We're working on a tool just for you](/blog/2018/08/01/hey-data-teams-we-are-working-on-a-tool-just-for-you/)
-1. [Why we chose Vue.js](/blog/2016/10/20/why-we-chose-vue/)
-1. [How we do Vue: one year later](/blog/2017/11/09/gitlab-vue-one-year-later/)
-
-Team members can also browse the [Content Marketing Dashboard](https://datastudio.google.com/open/1NIxCW309H19eLqc4rz0S8WqcmqPMK4Qb) to see more examples of current blog posts drawing high traffic.
-
 ## Formatting guidelines
 
 To publish to the blog, you will need to create a merge request for the www-gitlab-com project with a file of your blog post content formatted in Markdown. There are a few ways to go about this outlined [below](#when-youre-ready-to-create-your-blog-post). **If you choose to use Netlify CMS you likely won't need to know all the formatting in this section so feel free to [skip ahead](#when-youre-ready-to-create-your-blog-post).**
@@ -410,26 +189,6 @@ More information about each field can be found below.
 
 The title is the headline for your post. Headlines matter, both to the reader and when it comes to search engine optimization (SEO). Below are some best practices for writing headlines:
 
-- Try to craft a headline that tells the reader what your post is about using as few words as possible. The more specific a headline is, the better.
-- The more "prescriptive" the headline is – using words like "how," "why," or "what" for example – the more clear it is to the reader and to Google what the post is about.
-- When all else fails, please put yourself in the position of the reader who is searching for something on Google (because that's the major way people find our blog). What do they care about? What would they be interested in? This is more important to communicate up front than whatever we as GitLab want to tell readers.
-- Try to avoid beginning with continuous verbs ("-ing"). Make them active and descriptive so that readers know what they can expect to gain from reading the post.
-- If there's something clever, funny, or punny that you are tempted to include in your headline, it is probably better to use it in your [description](#description) or in the first paragraph of your post. Jokes generally aren't effective at communicating to readers or Google what to expect from your post (sadly!).
-- It helps to think about your headline as part of a package: the headline, description, and first paragraph (or introduction) are where your reader learns about what your post is about. You can tinker with all of these to optimize the whole package, so if something doesn't fit in your headline it could go into the description, or vice versa.
-- Consider coming back to write or tweak your headline and description when you've finished writing your post. You're more likely to capture what the post is about when you know this yourself!
-- Your headline and any subheadings don't need to be full sentences. Do not include a period at the end.
-
-##### Example headlines
-
-- A headline like "**How GitLab switched from Azure to GCP in 10 days**" clearly reflects what someone might be searching for: how to switch platforms, how to move from Azure, how to move to GCP, etc.
-  - "**Switching from Azure to GCP**" on the other hand is vague, because it's not clear who is doing the switching, or if the post is going to cover how to switch or why to switch.
-- "**What's in your backpack?**" (an actual [post about tools for remote work](/blog/2019/10/10/whats-in-your-backpack/) isn't "findable" on SEO because it's not nearly specific enough.
-  - If the headline had been "**GitLab's top tools for remote work**" or "**GitLab's round up of top remote work tools**" it would have been much more likely to be discovered by someone searching on Google for remote work tools. Some more examples:
--  ~~Reducing DevOps costs~~ -> How to reduce DevOps costs
--  ~~Beautifying our UI~~ -> What we're doing to beautify our UI
-
-If all this seems too much, we get it! And that's why the Editorial team will always review (and maybe tweak) your headline for SEO, style, and content. But, because you're writing a blog post as an SME (and we're not SMEs) we hope you'll put that expertise to work in the headline as much as possible.
-
 #### Author
 
 Write out the author's name here. If you want to credit multiple authors please use the following format:
@@ -469,15 +228,9 @@ If the blog post is about an integration, the DRI from Partner Marketing should 
 
 ##### No image
 
-If you don't have an image in mind or can't think of anything to use, just remove the `image_title` field from the [frontmatter](#frontmatter). No image will appear on the blog post itself, and the default image (see below) will appear on the post's tile on the blog homepage. The thumbnail image for the blog post (when sharing on social media, for example) will automatically be determined by the category of the blog post.
+If you don't have an image in mind or can't think of anything to use, just remove the `image_title` field from the [frontmatter](#frontmatter). But, without at least a Twitter image it will be difficult for the social team to promote your post. Please **do** include a Twitter image in the frontmatter: `twitter_image: "/images/blogimages/file-name.png"` even if it's just a generic Tanuki. 
 
-If preferred, you can use the default image as a cover image, but this is not advised as the image does not add anything to the post and takes up a lot of room beneath the blog title:
-
-  ![default blog cover image](/images/handbook/marketing/default-blog-image-example.png){: .shadow.medium.center}
-
-  If you still want to use the default image, use the path `'/images/default-blog-image.png'` in the [frontmatter](#frontmatter).
-
-  Please see the [Social Marketing handbook](/handbook/marketing/corporate-marketing/social-marketing/admin/#adding-frontmatter-to-gitlab-owned-pages-for-proper-social-sharing) if you would like to use a specific image for the social media thumbnail.
+For more information on this, please see the [Social Marketing handbook](/handbook/marketing/corporate-marketing/social-marketing/admin/#adding-frontmatter-to-gitlab-owned-pages-for-proper-social-sharing) if you would like to use a specific image for the social media thumbnail.
 
 #### Featured
 
@@ -490,6 +243,7 @@ Use only **one** of the following categories per post.
 otherwise you'll create another category, which is something we don't want to do accidentally.
 
 If you're not sure which category your post belongs in, just put a placeholder in your MR and leave a comment for your reviewer noting that.
+
 - `devops platform` - All posts mentioning GitLab's DevOps Platform, or DevOps platforms more generically.
 - `engineering` – technical, actionable content. Anything covering how to do something, use something, or solve a problem should fall under this category
 - `open source` – stories from or about our community, users, or the wider open source community
@@ -499,41 +253,18 @@ If you're not sure which category your post belongs in, just put a placeholder i
 - `security` – security-related posts
 - `releases` - release posts, security and patch releases. Posts in the `releases` category need to be in the `sites/uncategorized/source/releases/posts` directory, not `sites/uncategorized/source/blog/blog-posts`. Please see the [Release Post handbook](/handbook/marketing/blog/release-posts/) for more.
 
-We're working on improving category pages and tagging, but for now you can find posts under the same category by navigating to
-`https://about.gitlab.com/blog/categories/category-name/`. Dashes will be automatically added
-to multi-word categories and all of them will be lowercased in the URL. For example, the
-category "company" will be available under `https://about.gitlab.com/blog/categories/company/`.
-
-Note that there's a CI test that checks for wrong or missing categories. If one of
-the above should change or a new category is added, don't forget to edit the
-following files:
-
-1. [`Rakefile`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/Rakefile) (search for `CATEGORIES`) - responsible for the CI test
-1. [`source/includes/blog/category-nav.html.haml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/blog/category-nav.html.haml) - responsible for the categories navbar
-1. [`source/handbook/marketing/blog/index.html.md`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/handbook/marketing/blog/index.html.md) - the handbook which you're currently reading
-1. If a category changes, you need to replace it in all posts. Here's a one-liner command you can run:
-
-    ```sh
-    find . sites/uncategorized/source/blog/blog-posts -type f -exec sed -i 's/categories: old/categories: new/' {} \;
-    ```
-
-    where `old` is the old category and `new` is the new one.
-1. In case of a category change, a redirect should be added in <https://gitlab.com/gitlab-cookbooks/cookbook-about-gitlab-com> (internal).
-   This is the last step after all the above are merged into `master` and deployed. Ask a production engineer to help you.
-
 #### Description
+
 This field should provide a short summary of your blog post. It's best to think about your description in relation to the [title](#title) of your post. Don't repeat the title in the description; use it as an opportunity to provide more context or information about your post for the reader, and to work in the primary keywords.
 
 The [`description`](https://moz.com/learn/seo/meta-description) meta tag is important
 for SEO, and it appears underneath the title of your post on the post itself and on the [blog index page](/blog/). It is also part of Facebook Sharing and Twitter Cards. Descriptions should be limited to 150 characters, otherwise the text will be cut off on the index page.
 
-The description is mandatory for all the new posts, and it has been included in the default post
-frontmatter generated by [the command `rake new_post`](#create-a-new-post).
-
 #### Tags
+
 These are included to help readers find similar posts if they are interested in a particular subject. Tags appear at the bottom of each blog post, and clicking on a tag takes you to [/blog/tags](/blog/tags.html) where you can view all tagged posts and browse by tag.
 
-You can include as many tags as you like, separated by commas. Please only include tags from the following list, and note that they are case sensitive. If you think a tag should exist that isn't on this list, please leave a comment for the reviewer on your MR saying which tag you'd like to use and why it should be included.
+You can include as many tags as you like, separated by commas. Please only include tags from the following list, and note that they are case sensitive. 
 
 - agile
 - bug bounty
@@ -589,13 +320,6 @@ The CTA entry is optional; if you don't need to add any CTA to the hero, just om
 
 The final result is a red button over the cover image of the post.
 
-In the below example, the following was included in the blog post's [frontmatter](/handbook/marketing/blog/#frontmatter) in order to generate the CTA button.
-
-`cta_button_text: 'Watch the 8.16 release webcast live!'`<br>
-`cta_button_link: 'https://www.youtube.com/watch?v=iYPhXm8RlxI'`
-
-![Hero CTA preview](/images/handbook/marketing/hero-cta.png){:.shadow}
-
 #### Comments
 
 Comments are present on all posts by default. In the rare case that you want to disable comments on a particular blog post, you can do so by adding a line to the frontmatter: `comments: false`
@@ -603,6 +327,7 @@ Comments are present on all posts by default. In the rare case that you want to 
 Please do this only with good reason, as comments are an important source of feedback and engagement on blog posts.
 
 #### EE trial banner
+
 To not display the EE trial banner on the blog post, set `ee_cta` to `false` in the frontmatter. It is set to true by default, so there's no need to add `ee_cta: true` to the frontmatter. Only set to false on the rare occasion you have a strong reason to not display the banner (usually in the case of posts that are for developers and our open source community).
 
 #### Post type
@@ -621,6 +346,7 @@ We use these to make it faster to track the effectiveness of different types of 
 Use the `postType` frontmatter option to set the content definition.
 
 ### Media embeds
+
 We limit media embeds to the following providers:
 - **YouTube** for video
 - **CodePen** for code samples
@@ -692,11 +418,6 @@ Merch banners are automatically added to the end of blog posts if they are desig
 merch_banner: merch_two
 merch_sidebar: merch_two
 ```
-
-
-You can see a live example of the merchandizing in this blog post: [Introducing Resource Groups](/blog/2020/01/21/introducing-resource-groups).
-
-You can also [view the raw file of our example post](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source%2Fblog%2Fposts%2F2020-01-21-introducing-resource-groups.html.md.erb) to see how all the necessary elements have been added to the frontmatter and body of the post.
 
 #### Current merch items
 
@@ -1005,12 +726,6 @@ There are three ways to create a blog post MR:
   <iframe src="https://www.youtube.com/embed/A5_RIEYyIjo" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
-
-### Preparing blog posts privately
-
-Currently, it is not possible to prepare a confidential blog post without forking the www-gitlab-com project. We avoid this because forking is not straightforward for all contributors and it doesn't allow us to use review apps to preview the post before publishing.
-
-We have an [issue open to explore implementing functionality in Netlify CMS that would allow us to stage and preview posts](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1149) before triggering a commit to GitLab.com. In the meantime, please leave a comment in your issue to let us know if the information in your proposed blog post is under embargo (e.g., a company announcement) and whether you need assistance staging the post in private. Please see below for details about how we prepare blog posts privately.
 
 #### Creating MRs for confidential issues
 
