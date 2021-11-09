@@ -96,6 +96,7 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
 | [**Mateo Penagos**](https://about.gitlab.com/company/team/#mpenagos-ext) | Senior Frontend Engineer (Contract) | - GitLab: [@mpenagos-ext](https://gitlab.com/mpenagos-ext)<br>- Slack: @Mateo Penagos |
 | [**John Arias**](https://about.gitlab.com/company/team/#jariasc-ext) | Senior Fullstack Engineer (Contract) | - Email: [jariasc-ext@gitlab.com](mailto:jariasc-ext@gitlab.com)<br>- GitLab: [@jariasc-ext](https://gitlab.com/jariasc-ext)<br>- Slack: @John Arias |
 | [**Miguel Duque**](https://about.gitlab.com/company/team/#mduque-ext) | Frontend Engineer (Contract) | - Email: [mduque-ext@gitlab.com](mailto:mduque-ext@gitlab.com)<br>- GitLab: [@mduque-ext](https://gitlab.com/mduque-ext)<br>-  Slack: @Miguel Duque |
+| [**Daniel Vilchis**](https://about.gitlab.com/company/team/#dvilchis-ext) | Senior Frontend Engineer (Contract) | - Email: [dvilchis-ext@gitlab.com](mailto:dvilchis-ext@gitlab.com)<br>- GitLab: [@dvilchis-ext](https://gitlab.com/dvilchis-ext)<br>-  Slack: @Daniel Vilchis |
 
 ## Metrics
 
