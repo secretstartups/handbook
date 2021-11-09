@@ -2423,7 +2423,7 @@ Mentioning the people in the body of the issue will trigger the notification mec
 chosen by the people who are mentioned - therefore there is no need to notify
 people in another channel after the issue has been created (Slack, email).
 
-GitLab product issues will often have one of the two [type labels](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/development/contributing/issue_workflow.md#type-labels) `~bug` or `~feature`. Features can be further clarified as:
+GitLab product issues will often have one of the three [type labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) `~"type::bug"`, `~"type::feature"`, or `~"type::maintenance"`. Features can be further clarified as:
 
 - `~feature::addition` - Refers to the first MVC that gives GitLab users a foundation of new capabilities that were previously unavailable. For example, these issues together helped create the first MVC for our Reviewer feature:
     - [Create a Reviewers sidebar widget](https://gitlab.com/gitlab-org/gitlab/-/issues/237921)
@@ -2434,9 +2434,6 @@ GitLab product issues will often have one of the two [type labels](https://gitla
     - [Show MRs where user is designated as a Reviewer on the MR list page](https://gitlab.com/gitlab-org/gitlab/-/issues/237922)
     - [Display which approval rules match a given reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/233736)
     - [Add Reviewers quick action](https://gitlab.com/gitlab-org/gitlab/-/issues/241244)
-- `~feature::maintenance` - Refers to refinements to an existing feature that are not GitLab user-facing and not related to `~bug` resolution. This could include `~"technical debt"` and industry-standard updates such as work towards Rails upgrade. For example:
-    - [Updating software versions in our tech stack](https://gitlab.com/gitlab-org/ci-cd/codequality/-/issues/22)
-    - [Recalculating UUIDs for vulnerabilities using UUIDv5](https://gitlab.com/gitlab-org/gitlab/-/issues/212322)
 
 There are also other higher precedence labels, as documented by [Engineering Metrics](/handbook/engineering/metrics/#data-classification).
 
@@ -2468,8 +2465,8 @@ Feature issues identify work to support the implementation of a feature and/or r
 - If there is doubt about whether you could expect something to be there or work, it's a missing feature.
 - We iterate to deliver features, so we often don't have functionality that people expect. For this reason, 'people could reasonably expect this functionality' does not make it a bug.
 - Whether the code results in user facing updates or not, if it is part of building the feature it should be labelled as such.
-- Performance improvements and user interface enhancements improve the experience for end users and should be labelled as `~feature`.
-- API additions including both REST and GraphQL should also be labelled as `~feature`.
+- Performance improvements and user interface enhancements improve the experience for end users and should be labelled as `~"type::feature"`.
+- API additions including both REST and GraphQL should also be labelled as `~"type::feature"`.
 - If people care about a missing feature, then ideally the issue should be marked as `~"Accepting merge requests"`
 
 ##### Bug issues
@@ -2480,7 +2477,7 @@ Bug issues report undesirable or incorrect behavior, such as:
 - Inaccurate presentation or data.
 - Part of GitLab not working according to the documentation or a universal expectation.
 - Functionality inadvertently being broken, or changed from how it is supposed to work. This is also a [regression](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/development/contributing/issue_workflow.md#regression-issues).
-- A [security issue that is determined to be a vulnerability](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) should be classified as `~bug`.
+- A [security issue that is determined to be a vulnerability](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) should be classified as `~"type::bug"`.
 - Loss of data while using the product as intended or as documented. [Data corruption/loss is one basis](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/development/contributing/issue_workflow.md#severity-labels) for classifying a bug as `severity::1`.
 
 #### Issue state
