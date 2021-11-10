@@ -51,8 +51,9 @@ that will be owned by a specific team.
 GitLab uses automation to streamline engineering processes, such as:
 
 - [Danger bot](https://docs.gitlab.com/ee/development/dangerbot) for merge request hygiene. Can use a project access tokens.
-- [Triage ops](https://gitlab.com/gitlab-org/quality/triage-ops) for automated scheduled reminders and reports of issues and merge requests. Requires a service account.
-- [Triage serverless](https://gitlab.com/gitlab-org/quality/triage-serverless) for real-time reaction to events on issues and merge requests. Requires a service account.
+- [Triage ops](https://gitlab.com/gitlab-org/quality/triage-ops) for automated:
+  - Scheduled reminders and reports of issues and merge requests. Requires a service account.
+  - Real-time reaction to events on issues and merge requests. Requires a service account.
 - [Multi-project pipeline polling](https://docs.gitlab.com/ee/development/testing_guide/review_apps#cicd-architecture-diagram)
   for fetching status of downstream pipelines [while we cannot use the `trigger` keyword](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues/6118). Can use a project access tokens.
 - Asynchronous retrospective generation. Can use a project access tokens unless fetching confidential issues.
@@ -66,7 +67,7 @@ GitLab uses automation to streamline engineering processes, such as:
 * [`@gitlab-release-tools-bot`](https://gitlab.com/gitlab-release-tools-bot) owned by the [Delivery team](/handbook/engineering/infrastructure/team/delivery), running delivery/release-related automation.
 * [`@gl-build-trigger`](https://gitlab.com/gl-build-trigger) owned by the [Distribution group](/handbook/engineering/development/enablement/distribution/), triggering build-related pipelines.
 * [`@gitlab-omnibus-mirror-bot`](https://gitlab.com/gitlab-omnibus-mirror-bot) owned by the [Distribution group](/handbook/engineering/development/enablement/distribution/), mirroring various dependency projects of [the `gitlab-org/omnibus-gitlab` project](https://gitlab.com/gitlab-org/omnibus-gitlab).
-* Triage operations for `gitlab-org/quality/triage-ops`, `gitlab-org/quality/triage-serverless`, `gitlab-org/gitlab-triage` owned by the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity).
+* Triage operations for `gitlab-org/quality/triage-ops`, `gitlab-org/gitlab-triage` owned by the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity).
 
 ## Background on the single `@gitlab-bot` service account
 
