@@ -47,33 +47,34 @@ The hope with the above workflow is that everyone will contribute to the creatio
 100% of team-members should have access to the following systems at the following levels of access as part of their work at GitLab.
 This list has been pre-approved so if any team-member needs access to these systems they can reach out directly to the [system admin(s)](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and request access based on this pre-approval.
 
-| System Name                      | Business Purpose                                    | System Role (What level of access)                                         | [Data Classification](/handbook/engineering/security/data-classification-standard.html) |
-| -------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 1Password                        | User Password Management                            | Team Member                                                                | RED                                                                                   |
-| BambooHR                         | Human Resource Platform                             | Employee                                                                   | RED                                                                                   |
-| Calendly                         | Add-in for meeting Scheduling                       | Employee                                                                   | YELLOW                                                                                |
-| Carta                            | Shares Management                                   | Employee                                                                   | RED                                                                                   |
-| CultureAmp                       | 360 Feedback Management                             | User                                                                       | YELLOW                                                                                |
-| EdCast                           | Structured and personal learning experiences        | User                                                                       | YELLOW                                                                                |
-| Expensify                        | Expense Claims and Management                       | Employee                                                                   | ORANGE                                                                                |
-| GitLab.com                       | GitLab Application for Staff                        | Employee                                                                   | RED                                                                                   |
-| Grafana                          | GitLab Dashboard                                    | User                                                                       | ORANGE                                                                                |
-| Greenhouse                       | Recruiting Portal                                   | Interviewer                                                                | RED                                                                                   |
-| Google Workspace                 | Email, Calendar, and Document sharing/collaboration | GitLab.com Org Unit                                                        | RED                                                                                   |
-| Jamf                             | Apple Device Management Tool                        | User                                                                       | RED                                                                                   |
-| Modern Health                    | Employee Assistance Program                         | Employee                                                                   | ORANGE                                                                                |
-| Moo                              | Business Cards                                      | User                                                                       | YELLOW                                                                                |
-| Navex Global                     | LMS Training tool                                   | Employee                                                                   | ORANGE                                                                                |
-| Okta                             | Identity and Single Sign On                         | User                                                                       | ORANGE                                                                                |
-| PTO by Roots/Treehoppr           | PTO tool                                            | User                                                                       | RED                                                                                   |
-| TripActions                      | Travel booking                                      | Employee                                                                   | ORANGE                                                                                |
-| Sertifi                          | Digital signatures, payments, and authorizations    | User                                                                       | YELLOW                                                                                |
-| Slack                            | GitLab async communications                         | Member                                                                     | RED                                                                                   |
-| Sisense (Periscope)              | Data Analysis and Visualisation                     | User                                                                       | RED                                                                                   |
-| Will Learning                    | Staff Training and Awareness Portal                 | User                                                                       | YELLOW                                                                                |
-| YouTube                          | Video sharing platform                              | User                                                                       | ORANGE                                                                                |
-| ZenDesk (non US Federal instance | Customer Support - Incident Management              | [Light Agent](/handbook/support/internal-support/#viewing-support-tickets) | RED                                                                                   |
-| Zoom                             | For video conferencing / meetings                   | Pro                                                                        | RED                                                                                   |
+| System Name                      | Business Purpose                                    | System Role (What level of access)                                         |
+| -------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------- |
+| 1Password                        | User Password Management                            | Team Member                                                                |
+| BambooHR                         | Human Resource Platform                             | Employee                                                                   |
+| Calendly                         | Add-in for meeting Scheduling                       | Employee                                                                   |
+| Carta                            | Shares Management                                   | Employee                                                                   |
+| CultureAmp                       | 360 Feedback Management                             | User                                                                       |
+| EdCast                           | Structured and personal learning experiences        | User                                                                       |
+| Expensify                        | Expense Claims and Management                       | Employee                                                                   |
+| GitLab.com                       | GitLab Application for Staff                        | Employee                                                                   |
+| Grafana                          | GitLab Dashboard                                    | User                                                                       |
+| Greenhouse                       | Recruiting Portal                                   | Interviewer                                                                |
+| Google Workspace                 | Email, Calendar, and Document sharing/collaboration | GitLab.com Org Unit                                                        |
+| Jamf                             | Apple Device Management Tool                        | User                                                                       |
+| Modern Health                    | Employee Assistance Program                         | Employee                                                                   |
+| Moo                              | Business Cards                                      | User                                                                       |
+| Navex Global                     | LMS Training tool                                   | Employee                                                                   |
+| Okta                             | Identity and Single Sign On                         | User                                                                       |
+| PTO by Roots/Treehoppr           | PTO tool                                            | User                                                                       |
+| TripActions                      | Travel booking                                      | Employee                                                                   |
+| Sertifi                          | Digital signatures, payments, and authorizations    | User                                                                       |
+| Slack                            | GitLab async communications                         | Member                                                                     |
+| Sisense (Periscope)              | Data Analysis and Visualisation                     | User                                                                       |
+| Will Learning                    | Staff Training and Awareness Portal                 | User                                                                       |
+| YouTube                          | Video sharing platform                              | User                                                                       |
+| ZenDesk (non US Federal instance | Customer Support - Incident Management              | [Light Agent](/handbook/support/internal-support/#viewing-support-tickets) |
+| ZenGRC                           | Governance, Risk, and Compliance tool               | ZenGRC `Reader` role (higher level privileges require an access request)   |
+| Zoom                             | For video conferencing / meetings                   | Pro                                                                        |
 
 ## Role Entitlements for a specific job
 
