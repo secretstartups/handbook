@@ -75,10 +75,15 @@ Please [contact the People Technology & Insights Team](https://gitlab.com/gl-tal
   </summary>
 
 * **Candidate Profile Merge Requests**
-   * Consider the following when merging candidate/prospect profiles:
-      * Ensure that the Source, Coordinator, and Recruiter listed in the Details tab remains the same.
-      * If a candidate is marked as *Hired*, ensure the profile that they were *Hired* on is the *Primary Profile*.
-      * When merging an internal candidate's profile, ensure that the Primary Profile is the original profile (i.e. the one they first applied with as an external applicant). The merge request must be processed before the candidate reaches the `Offer Stage`.
+
+  All of Talent Acquisition has access to merge profiles. If you have any questions, please contact the Enablement Manager because profile merges cannot be undone. You can merge candidate profiles by viewing the right hand toolbar on an applicant profile, and clicking on either the alert that appears at the top of the toolbar or `See More` in the `Tools`section. 
+
+  Before beginning, please ensure that the profiles are a match for each other by verifying that their emails, phone numbers, and/or resumes are the same.  
+  
+  When selecting which profile is Primary, consider the following: 
+   * As a rule of thumb, the most recent applicant profile should most likely be the Primary one, unless the most recent is a Prospect.
+   * If this is an internal candidate, the most recent profile should always be Primary, but should not be merged until the candidate has accepted their offer to minimize the number of people with access to this information. 
+   * After merging, check the Activity Feed and Details tabs to see what information was removed from old profiles and ensure that you have the most accurate Recruiter, Coordinator, and Source.
 * **Offer Approvals**
     * The Offer Approvals process can be accessed in the [Greenhouse Handbook page](/handbook/hiring/greenhouse/#updating-requisition-and-offer-approval-flows)
 * **Requisition Approvals**
