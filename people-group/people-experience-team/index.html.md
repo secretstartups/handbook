@@ -22,10 +22,9 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 | Date    | Reason |
 |------------------- | --------------|
-| 2021-10-15 | Family and Friends Day
 | 2021-11-29 | Family and Friends Day
-| 2021-12-27 | Holiday Break
-| 2022-01-03 | Holiday Break 
+| 2021-12-27 | Family and Friends Day
+| 2022-01-03 | Family and Friends Day
 
 
 ### OOO Handover Process for People Experience Team
