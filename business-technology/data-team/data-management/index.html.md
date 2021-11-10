@@ -95,7 +95,7 @@ Here is a sample checklist of activities:
 
 ### Sisense
 - Deactivate off-boarded employees from Sisense.
-     - All Sisense accounts from GitLab team members that are off-boarded, should be deactived from the day they are off-boarded. This activity checks for any active accounts for off-boared GitLab team members. Subsequently any active account will be deactivated. 
+     - All Sisense accounts from GitLab team members that are off-boarded, should be deactived from the day they are off-boarded. This activity checks for any active accounts for off-boared GitLab team members. Subsequently any active account will be deactivated. To compare off-boarded employees with the actual users, 2 sources needs to be combined. This is done to extract the list of users from Sisense and load this via sheetload into Snowflake. The queries and details for this proces are in the [template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Quarterly%20Data%20Health%20and%20Security%20Audit.md). 
 - Deactivate any account, that has not logged-in within the past 90 days from the moment of performing an audit, from Sisense.
      - Any Sisense account that hasn't logged for more than 90 days will be deactivated. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
  
