@@ -48,7 +48,7 @@ Additionally, you can help us understand which meetings are moveable and which a
 ![availability-request-form-image](./Conflicts.png)
 
 
-While Prelude does not allow you to change these preferences yourself today, you can ask a member of our CES team to adjust your interview limits if you are at your daily and weekly interviewing bandwidth. Just email ces@gitlab.com and let us know how many interviews you are able to conduct per day and per week.   
+The Candidate Experience Specialists have access to adjust the interview limits below, which recommend that you only receive a certain number of interviews in a given day or week. To request fewer interviews, please email your preferences to ces@gitlab.com and we will do our best to accommodate. 
 
 ![daily-and-weekly-limits-screenshot](./Limits.png)
 
