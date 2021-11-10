@@ -41,7 +41,7 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 | [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Associate](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | Digital, Operations |
 | [Robert Rosu](https://gitlab.com/RobRosu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Data |
 | [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Content, Campaigns |
-
+| [Evan Mathis](https://gitlab.com/emathis) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | Conversion & Retention |
 
 ## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
 
