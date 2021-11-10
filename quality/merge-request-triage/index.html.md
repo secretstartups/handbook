@@ -25,7 +25,7 @@ We define three levels of triage.
 A merge request is considered initially triaged when it has a:
 
 - [`~"Community contribution"` label applied](/handbook/engineering/quality/triage-operations/#ensure-quick-feedback-for-community-contributions).
-- [welcome message](https://gitlab.com/gitlab-org/quality/triage-serverless/-/blob/master/triage/processor/thank_community_contribution.rb) from the [`@gitlab-bot`](https://gitlab.com/gitlab-bot) user with more details on the process.
+- [welcome message](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/thank_community_contribution.rb) from the [`@gitlab-bot`](https://gitlab.com/gitlab-bot) user with more details on the process.
 
 The Initial triage is automated by the [Engineering Productivity team][Engineering Productivity team], please see [Community contributions on Triage Operations](/handbook/engineering/quality/triage-operations/#community-contributions) page for the full details.
 
@@ -89,7 +89,7 @@ The GitLab Website is owned and managed by a different team than GitLab.org; thu
 A merge request is considered initially triaged when it has a:
 
 - [`~"Community contribution"` label applied](/handbook/engineering/quality/triage-operations/#ensure-quick-feedback-for-community-contributions).
-- [welcome message](https://gitlab.com/gitlab-org/quality/triage-serverless/-/blob/master/triage/processor/thank_community_contribution.rb) from the [`@gitlab-bot`](https://gitlab.com/gitlab-bot) user with more details on the process.
+- [welcome message](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/thank_community_contribution.rb) from the [`@gitlab-bot`](https://gitlab.com/gitlab-bot) user with more details on the process.
 
 The Initial triage is automated by the [Engineering Productivity team][Engineering Productivity team], please see [Community contributions on Triage Operations](/handbook/engineering/quality/triage-operations/#community-contributions) page for the full details.
 
