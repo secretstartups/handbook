@@ -42,14 +42,15 @@ Examples of helpful notes include:
  - “Prefer not to interview on Wednesday mornings if possible”
 
 
-You can also set your interview limits to alert the Candidate Experience Specialists if you are at your daily and weekly interviewing bandwidth. Please note that the team will add additional interviews to your calendar if necessary, but will do our best to avoid overbooking.  
-
-![daily-and-weekly-limits-screenshot](./Limits.png)
-
 
 Additionally, you can help us understand which meetings are moveable and which are not. We’ve set up some recommendations in your Prelude account to get you started, but you can adjust these preferences yourself. 
 
 ![availability-request-form-image](./Conflicts.png)
+
+
+While Prelude does not allow you to change these preferences yourself today, you can ask a member of our CES team to adjust your interview limits if you are at your daily and weekly interviewing bandwidth. Just email ces@gitlab.com and let us know how many interviews you are able to conduct per day and per week.   
+
+![daily-and-weekly-limits-screenshot](./Limits.png)
 
 
 #### Find a replacement
