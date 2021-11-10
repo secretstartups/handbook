@@ -103,6 +103,14 @@ The Senior Brand Designer is a [grade 7](/handbook/total-rewards/compensation/co
 
 ### Staff Brand Designer
 
+#### Job Grade
+
+The Staff Brand Designer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+**Market Justification:** Within the market there are a significant number of companies with an average of 7 team members in this type of role at the staff level. 
+
+#### Responsibilites 
+
 Everything in the Senior Brand Designer role, plus:
 
 - Inform the GitLab brand experience through research, exploration, and iteration.
@@ -112,10 +120,6 @@ Everything in the Senior Brand Designer role, plus:
 - Proactively contribute to GitLab’s Brand Design culture in areas such as Creative Philosophy, Design Principles, and Brand Standards.
 - Contribute to the enablement of the broader GitLab organization; creating cohesive and consistent brand experiences across multiple channels and touchpoints through the development of self-serve tools, templates and libraries, request processes, communications, etc.
 
-#### Job Grade
-
-The Staff Brand Designer is a [grade TBD](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
 #### Requirements
 
 - 8+ years experience with an in-house team or creative agency.
@@ -124,6 +128,14 @@ The Staff Brand Designer is a [grade TBD](/handbook/total-rewards/compensation/c
 - Strong sense of concept development, strategy, research, and problem-solving in a fast-paced, iterative environment.
 
 ### Principal Brand Designer
+
+#### Job Grade
+
+The Principal Brand Designer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+**Market Justification:** The Principal Brand Designer role will provide a high level of expertise and ability to think critically and strategically about the GitLab brand experience. This role will be crucial in developing an (iterative) understanding of how the brand drives value to, and resonates with, our enterprise and developer audiences (not just the production of those assets). This role will be key in building and nurturing key cross-functional relationships; resulting in strong brand consistency and experience both internally and externally. In the market there are 20 companies with an average of 7 team members matching to this level. 
+
+#### Responsibilities 
 
 Everything in the Staff Brand Designer role, plus:
 
@@ -136,12 +148,6 @@ Everything in the Staff Brand Designer role, plus:
 - Support and contribute to the day-to-day leadership of the Brand Design team by providing inspiration, empowerment and mentorship to team members.
 - Evangelize the GitLab brand by actively promoting, and educating others of, the work and accomplishments of the Brand Design team.
 - Protect the integrity of the GitLab brand, while pushing creative exploration and risk-taking.
-
-#### Job Grade
-
-The Principal Brand Designer is a [grade TBD](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-**Market Justification:** The business need for this role is to retain and develop key creative talent by establishing an Individual Contributor focused career path for our team members who do not have the desire to move into a people manager role. The Principal Brand Designer role will provide a high level of expertise and ability to think critically and strategically about the GitLab brand experience. This role will be crucial in developing an (iterative) understanding of how the brand drives value to, and resonates with, our enterprise and developer audiences (not just the production of those assets). This role will be key in building and nurturing key cross-functional relationships; resulting in strong brand consistency and experience both internally and externally.
 
 #### Requirements
 
