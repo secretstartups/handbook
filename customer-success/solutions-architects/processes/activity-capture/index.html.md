@@ -47,6 +47,7 @@ SA prospect/customer activity is recorded into `Task` objects within Salesforce 
     - **Persona Levels** (Optional if unknown) - Select the customer/prospect participants' levels in this activity. Current options include: `Individual Contributor, Manager/Director, Executive`
     - **Persona Functions** (Optional if unknown) - Select the customer/prospect functions represented during the activity (ie. Development, Security, DevOps)
     - **Description** - Enter a summary of the interaction. Two to three sentences are usually sufficient, but more detail is ok. Try to capture the meeting's intent, how it went (the outcome or customer/prospect sentiment), and any prospect/customer perceived next steps. It is highly encouraged that you provide a link to more detailed notes of your meeting. You can use [Google Docs Bookmarks](https://support.google.com/docs/answer/45893) to do so.
+    - **Customer Interaction Sentiment** - Choose how you feel this meeting went, indenpendently from any other meeting and independently off the status of the overall opportunity sentiment. Options for this field are strictly 'Positive', 'Neutral', and 'Negative'
 
 #### Activity type description
 
