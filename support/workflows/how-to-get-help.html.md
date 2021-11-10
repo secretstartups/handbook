@@ -17,7 +17,7 @@ When [working on tickets](https://about.gitlab.com/handbook/support/workflows/wo
 
 ### How to Get Help Workflow
 
-If you are stuck on a ticket, the following workflow seeks to help Support Engineers realize and utilize all of the tools available to progress a ticket to resolution. This workflow organizes those tools into a progressive approach, so that you can get the help you need. 
+If you are stuck on a ticket, the following workflow seeks to help Support Engineers realize and utilize all of the resources available to progress a ticket to resolution. This workflow lists some common resources, you can lean on to get the help you need. 
 
 **If you’re stuck on a ticket…..**
 
