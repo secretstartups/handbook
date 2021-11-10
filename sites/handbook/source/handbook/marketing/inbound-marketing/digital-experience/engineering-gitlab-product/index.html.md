@@ -19,10 +19,8 @@ From time to time, our team has objectives that require us to collaborate on the
 
 ### Onboarding
 
-There is an existing onboarding process for GitLab engineering. Digital Experience engineers need to complete a specific subset of that onboarding.
+There is an existing onboarding process for GitLab engineering. Digital Experience engineers need to complete a specific subset of that onboarding: 
 
-While going through that onboarding subset, they should reach out and find an onboarding buddy. 
-
-### Merge process
-
-Merging code into the [GitLab repository](https://gitlab.com/gitlab-org/gitlab) has a different set of procedures than our team's day-to-day process. During and after the onboarding tasks, read through and learn the process.
+1. [Make sure you still feel comfortable with day 5 of the general onboarding steps for git workflow](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#day-5-git)
+1. [Complete the Engineering Division/For Development Department specific tasks](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_development.md)
+1. [Complete the Snowplow onboarding tasks](/handbook/engineering/development/growth/product-intelligence/#snowplow-onboarding-template)
