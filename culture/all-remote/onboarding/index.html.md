@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: "The guide to remote onboarding"
+title: "The complete guide to remote onboarding for new-hires"
 canonical_path: "/company/culture/all-remote/onboarding/"
-description: How to handle onboarding in a remote company
+description: "A complete guide to onboarding new remote work employees and establishing processes that ensure success from day one. Learn more here!"
 twitter_image: "/images/opengraph/all-remote.jpg"
 twitter_image_alt: "GitLab remote team graphic"
 twitter_site: "@gitlab"
@@ -47,7 +47,7 @@ In an all-remote setting where team members are possibly working from a variety 
 1. [Guide for starting a remote job](/company/culture/all-remote/getting-started/)
 1. [Adopting a self-service and self-learning mentality](/company/culture/all-remote/self-service/)
 
-### Technical onboarding 
+### Technical requirements for all-remote onboarding 
 
 While tools are an important part of any role, new hires need to feel empowered to use them. Organizations can help build technical confidence by setting up early wins with action items the new hire can complete as they move through their training. Organizational onboarding provides the access to information through handbooks/documentation, and technical onboarding is about using that knowledge to work through the tools.
 
@@ -62,7 +62,7 @@ For technical onboarding, give new hires access to the tools they'll be using in
 1. [3 things I learned in my first month at GitLab](/blog/2016/11/02/three-things-i-learned-in-my-first-month-at-gitlab/)
 
 
-### Social onboarding 
+### Social requirements for all-remote onboarding 
 
 Starting a new job can be overwhelming. If a new hire is used to working in a traditional office, adjusting to the remote work lifestyle might be a challenge. Having socialization as part of the onboarding process can help team members feel more connected to their new teams, even though they don't share an office.
 
@@ -78,7 +78,7 @@ In an all-remote company, it's important to encourage [informal communication](h
 1. [Considerations for in-person interactions in a remote company](/company/culture/all-remote/in-person/)
 1. [Social slack channel ideas](/handbook/communication/chat/#social-groups)
 
-## The importance of onboarding
+## The importance of the onboarding process
 
 ![GitLab collaboration lightbulb](/images/all-remote/gitlab-collaboration-illustration.jpg){: .medium.center}
 

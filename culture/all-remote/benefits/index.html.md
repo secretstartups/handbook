@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: "All-Remote Benefits"
+title: "A complete guide to the benefits of an all-remote company"
 canonical_path: "/company/culture/all-remote/benefits/"
-description: Benefits of operating a remote company
+description: "This guide provides a full overview of all the great benefits of a all remote company for both the organization and employees. Learn more here!"
 twitter_image: "/images/opengraph/all-remote.jpg"
 twitter_image_alt: "GitLab remote team graphic"
 twitter_site: "@gitlab"
@@ -25,7 +25,7 @@ On this page, we're highlighting benefits of operating an all-remote company for
 
 In the [video](https://www.youtube.com/watch?v=Xw-31PZkHOo) above, GitLab Director of Global People Operations [Carol Teskey](https://gitlab.com/cteskey) shares her view on the many benefits of all-remote, and the competitive advantages that come along with it.
 
-## All-Remote Advantages
+## All-Remote Benefits & Advantages
 
 ![GitLab values illustration](/images/all-remote/gitlab-values-tanukis.jpg){: .medium.center}
 
@@ -47,7 +47,7 @@ A number of studies from the likes of [Google](https://www.forbes.com/sites/abdu
 >
 > I've seen friends and family in Nashville, Raleigh, Iowa, New York, Boston, and all over the west coast. It's not just visiting for a weekend. It's being there for friends, family, birthdays, baby showers, and weddings. Across the board it has been a huge benefit [of all-remote at GitLab]. - *Jackie G., Manager, Marketing Programs at GitLab*
 
-### For employees
+### Benefits for all-remote employees
 
 It’s important for employees to truly take advantage of the freedoms and possibilities enabled by remote, rather than simply remaining where they are and switching an office desk for a room in their home. This is the core benefit of **remote** as compared to **work-from-home**.
 
@@ -78,7 +78,7 @@ From family time to travel plans, there are [many examples and stories](/company
 
 > **“The flexibility makes family life exponentially easier, which reduces stress and makes you more productive and motivated. You can’t put a dollar value on it – it’s priceless.”** - Haydn, Regional Sales Director, GitLab
 
-### For your organization
+### Benefits for all-remote organizations
 
 Remote enables a more diverse and inclusive workforce, greater efficiency in workflows, and broader global coverage in servicing clients. It significantly de-risks a business, making it more resilient in the face of crises and able to maintain continuity regardless of whether an office is open or closed.
 
@@ -112,7 +112,7 @@ Not only does this create a less [inclusive](/company/culture/inclusion/) hiring
 1. There's also business continuity in the case of local disturbances or natural disasters (e.g. political or weather-related events).
 1. Greater flexibility [can mean greater diversity](https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions/resources/pdfs/global-talent-trends-2019.pdf) in your organization.
 
-### For the world
+### Benefits for the world
 
 <!-- blank line -->
 <figure class="video_container">
