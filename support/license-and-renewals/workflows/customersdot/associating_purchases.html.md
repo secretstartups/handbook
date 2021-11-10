@@ -20,7 +20,7 @@ Before we add subscription management contact, we need **one** of the following,
 1. Approval from the existing contact
 1. Prior subscription contract
 1. Recent invoice (last 12 months)
-1. Copy of last loaded license
+1. Copy of last loaded license (Self-Managed only)
 
 There is a macro that asks for this information. You can use [Change CustomerDotContact](https://gitlab.zendesk.com/agent/admin/macros/360028045239) Be sure to copy the existing CustomersDot contact on the reply.
 
