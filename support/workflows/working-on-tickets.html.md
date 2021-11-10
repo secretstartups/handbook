@@ -60,7 +60,7 @@ Here's what to do when you're actively working on tickets in Zendesk. Divide you
 1. Determine whether you can identify any next steps to make progress
    1. If you can, then take those steps, including updating the user
    1. If not, then apply the `needs_collaboration` label to the ticket. This will add it to the `Needs Collaboration` ZenDesk view.
-   1. If you need synchronous help ASAP, link the ticket in Slack and ask for help from your teammates
+   1. If you need synchronous help ASAP, link the ticket in Slack and ask for help from your teammates. You can also follow the [workflow on how to get help](https://about.gitlab.com/handbook/support/workflows/how-to-get-help.html) so that you continue to make forward progress on your tickets.
 1. If it's been an hour or more since you checked the [Main Views](#main-views), or your own view is up-to-date or empty, and **you have the capacity to take on another ticket**, then:
    1. Check the priority of the top ticket in the views [for your region](#main-views). If its preferred region is `All Regions`, and the priority is `High`, follow the [High Priority All-Region Tickets Workflow](/handbook/support/workflows/high-priority-all-regions-tickets-workflow.html)
    1. If the priority is lower, assign it to yourself
@@ -166,6 +166,7 @@ Some caveats to bear in mind:
       1. assign the ticket to the expert
    1. If you've become overloaded with tickets, feel free to rebalance your load by finding one or more teammates to take some of your tickets. Be sure you discuss each ticket before reassigning it to gain agreement and so that the other support engineers don't have to start from scratch. Then add an internal note stating the reassignment agreement **and** add a public meessage informing the user that you’ve asked another support engineer to take the ticket due to your time constraints.
 1. **I am interested in a specific subject area that's not covered by the views provided and I would like to see tickets assigned to other team members.** Create [Zendesk personal views](https://support.zendesk.com/hc/en-us/articles/203690806-Creating-views-to-manage-ticket-workflow) and add filters for the subject area. This will list all the new tickets and the already assigned tickets for that area.
+1. **I am stuck. I really need help. What can I do?** Follow the [how to get help workflow](https://about.gitlab.com/handbook/support/workflows/how-to-get-help.html) for guidance on this. Reach out to a manager for guidance if you are really stuck.
 
 ## Working on Tickets Flowchart
 
@@ -178,7 +179,7 @@ B1 -->|No| NT2
 C[Select top ticket from view] --> D
 D{Can you make progress and <BR> take the next steps?}
 D -->|Yes| E[Update the user<BR>with the next steps]
-D -->|No| F[Link the ticket in<BR>Slack and ask <BR> teammates for help]
+D -->|No| F[Follow the <BR>How to Get Help workflow]
 E & F --> NT0
 
 NT0([Finding a New Ticket]) --> NT1
@@ -250,17 +251,7 @@ If another engineer is looking at a ticket that you’re interested in working o
 
 ### I need deeper technical assistance on a non-emergency case - what do I do?
 
-Sometimes, you might require help from senior support engineers, subject matter experts or developers on your tickets. These tickets are most likely either long-running or technically challenging. We encourage [collaboration](/handbook/values/#collaboration) and you can use the following steps as a general guideline if you are unsure of what to do next:
-
-1. Start by posting an internal message in the ticket clearly summarizing the problem, the steps that have been taken so far (including the reasoning behind them), the results of those steps, and the current status.
-1. Apply the `needs_collaboration` label to the ticket.
-1. Check the [Support Team Knowledge Areas](/handbook/support/workflows/knowledge_areas.html) handbook page to see if someone would be able to assist you.
-1. Look for assistance in the internal Support Slack channels.
-   1. Initiate a crush session or a [pairing session](https://gitlab.com/gitlab-com/support/support-pairing) in the [#support_self-managed](https://gitlab.slack.com/app_redirect?channel=support_self-managed) or [#support_gitlab-com](https://gitlab.slack.com/app_redirect?channel=support_gitlab-com) Slack channels.
-   1. If you now have some new ideas to try, make sure you have a clear plan of action and engage with the user.
-1. If you still require further assistance, reach out in the Slack channel of the appropriate [stage/group](https://about.gitlab.com/features/).
-   1. If the situation demands (bug, regression, feature request etc) and an issue doesn't already exist, a new issue must have been filed related to the ticket and linked in all appropriate places.
-1. If you are unable to get assistance from a developer through the previous step, a Product Manager might need to be involved - reach out to a Support Engineering Manager via the [#support_escalations](https://gitlab.slack.com/messages/CBVAE1L48) Slack channel for assistance.
+Sometimes, you might require help from senior support engineers, subject matter experts or developers on your tickets. These tickets are most likely either long-running or technically challenging. We encourage [collaboration](/handbook/values/#collaboration) and you can use the [How to Get Help workflow](https://about.gitlab.com/handbook/support/workflows/how-to-get-help.html) as a general guideline if you are unsure of what to do next.
 
 ### How can I find opportunities to collaborate with colleages that need help?
 
@@ -268,7 +259,7 @@ Review the `Needs Collaboration` ZenDesk view and look for recent requests for h
 
 ### What is the the `Needs Collaboration` view and workflow?
 
-The `Needs Collaboration` ZenDesk view includes tickets on which the assignee requested help by adding the `needs_collaboration` label.
+The `Needs Collaboration` ZenDesk view includes tickets on which the assignee requested help by using the `Collaboration` Zendesk macro. This will add the `needs_collaboration` label to the ticket.
 
 The ZenDesk view contains tickets with the `needs_collaboration` label sorted in Ascending order by "Next SLA breach".
 
