@@ -84,6 +84,8 @@ We currently focus on security findings with these severity levels:
 - Critical
 - High
 
+An exception is made for `Container scanning` findings - we focus only on findings with `Critical` severity.
+
 #### Triaging vulnerabilities
 
 We use the Vulnerability Report with filters to focus on items matching [our policy](#security-policy) and reported on the relevant projects.
