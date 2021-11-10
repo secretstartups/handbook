@@ -128,7 +128,7 @@ If immediate feedback is required, then add a comment to the vulnerability issue
 
 ### Community contributions triaging process
 
-1. Leverage the group level [list of Merge Requests](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Acomposition%20analysis) with the Composition Analysis group label.
+1. Leverage the group level [list of Merge Requests](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/merge_requests?scope=all&state=opened&label_name[]=group%3A%3Acomposition%20analysis&label_name[]=Community%20contribution) with the Composition Analysis group label.
 1. For each open Merge Request whose author is not a GitLab team member, investigate and help moving it forward.
 
 ### Bugs triaging process
