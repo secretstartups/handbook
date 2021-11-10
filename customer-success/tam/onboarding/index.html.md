@@ -41,6 +41,8 @@ Digital programs will automate the Intro to GitLab CS (what a TAM does) and onbo
 
 Review email copy [here](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) (internal only)
 
+Please review this course on [Introducing the Technical Account Manager](https://gitlab.edcast.com/insights/ECL-c2cdd326-7f29-43f2-9a11-484b8dc6584f). 
+
 ### Kickoff call
 
 ⏰ [**Target time:** within 14 days of customer start date](#time-to-engage)
