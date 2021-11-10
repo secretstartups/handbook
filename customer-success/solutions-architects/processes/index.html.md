@@ -194,6 +194,12 @@ SA engagement for customer interactions, RFP's, audits and more ([how to engage 
 
 APAC SAs are aligned regionally into regions such as ANZ, SEA (South-East Asia), India, South Korea and Japan in close alignment to the Strategic Account Leaders, Commerical AEs and Channels Managers territories. Teams collaborate to the standards [Working Agreements](#working-agreements). 
 
+### Alliances SA Engagement Model
+The Alliance SA team is global. The Alliance SA's are aligned with Alliance Partner Managers/Directors and the Alliance Business Development Managers. In customer accounts where an Alliance partner technology is involved, an Alliance SA engagement for customer interactions can be requested by an Account Executive / SA / TAM using the apropriate issue board. For more details, click on [how to engage an Alliance SA](/handbook/customer-success/solutions-architects/processes/alliance/). Here's the [Alliance Triage Board](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/boards/2245192) and the [issue template](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/issues/new?issuable_template=GitLab%20Internal%20Assistance) 
+
+### Channel SA Engagement Model
+The Channel SA's are aligned globally with the Channel program team as well as regionally with Channel Account Managers. In customer accounts where a Channel partner is involved, a Channel SA engagement for customer interactions can be requested by an Account Executive / SA / TAM using the apropriate issue board. For more details, click on [how to engage a Channel SA](/handbook/customer-success/solutions-architects/processes/channel/). The Channel Triage Board is currently a work in progress. The details on Channel SA engagement model can be found in this [RACI spreadsheet](https://docs.google.com/spreadsheets/d/1AxDrQp2HeIXfomw8QRrb0gemQCHktt_BR3ufpLTtxNc/).
+
 ### Issue Creation Details
 
 1. Navigate to the correct board for your region. NOTE: All triage boards are located in the [SA Triage Boards](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards) group in projects broken out by region or engagement model.
