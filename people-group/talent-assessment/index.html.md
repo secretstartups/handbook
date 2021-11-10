@@ -395,9 +395,9 @@ The guidelines below are general guidelines and recommendations. However, *each 
 
 The cut-off date to determine whether to assess team members at the pre-promotion level or post-promotion level for the FY'22 Q4 Talent Assessment cycle is **November 1, 2021** aligned with the cycle kick off. Guidelines are as follows: 
 
-1. **If a team member is promoted with an effective date _before_ November 1, 2021, they should be assessed at the newly promoted level.** 
+1. **If a team member is promoted with an effective date _on or before_ November 1, 2021, they should be assessed at the newly promoted level.** 
     * For example, if a Product Manager is promoted to Senior Product Manager with an effective date of October 15, 2021 in BambooHR (our SSOT for promotion effective dates), they will be assessed at the Senior Product Manager level for the Q4 Talent Assessment.  
-1. **If a team member is promoted with an effective date _on or after_ November 1, 2021, they should be assessed at the pre-promotion level.**
+1. **If a team member is promoted with an effective date _after_ November 1, 2021, they should be assessed at the pre-promotion level.**
     * For example, if a Backend Engineer is promoted to Senior Backend Engineer with an effective date of December 1, 2021, their pre-promotion assessment at the intermediate Backend Engineer level will remain.
 
 It is important to note that because being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase therefore a **promotion "resets" the performance factor evaluation**. 
