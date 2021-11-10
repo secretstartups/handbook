@@ -23,10 +23,10 @@ The goal of the team is to increase the technical improvements and efficiency of
 
 - **Outstanding contributor experience** Smooth, effective and scalable contributor experience.
   - Improve Community Contributor Productivity
-     - Streamlining the review and feedback process for contributions
+     - Streamline contributrion review and feedback process
      - Improve tooling efficiency
   - Improve Contributor Journey, making it easier and efficient to contribute
-  - Gather feedback from Wider community contributors and product teams on the points of friction for the contribution process
+  - Gather feedback from Wider community contributors and product teams on contribution friction
 - **Contributor inspiration, awareness and incentivization** Regular incentivization of content to inspire contributors. Testimonials from existing contributors
   - Contributor recognition. Harmonize, redesign, promote existing “Hall of Fame” pages (MVP, Heroes, Top annual contributors)
   - Active outreach to partners and customers. Partner with TAM team to launch certification and training resources
@@ -59,10 +59,10 @@ We aim to increase the focus on our community contributions. Below is a timeline
 - **[Community Coaches per Month](/handbook/engineering/quality/performance-indicators/#community-mr-coaches-per-month)**
     - Target to increase to be greater than 50 per month by EOFY22
     - Activities:
-    - Work with Development Department (Christopher L, VP of Development) for volunteers.
-    - Work with UX Department (Christie L, VP of UX) Christie for volunteers.
-    - Refresh MR coaches as “Community coaches” so non-code review work can be encouraged (design, etc)
-    - Launch training materials for coaches
+      - Work with Development Department (Christopher L, VP of Development) for volunteers.
+      - Work with UX Department (Christie L, VP of UX) Christie for volunteers.
+      - Refresh MR coaches as “Community coaches” so non-code review work can be encouraged (design, etc)
+      - Launch training materials for coaches
 - **[Community Contribution MRs as Features per Month](/handbook/engineering/quality/performance-indicators/#community-contribution-mrs-added-as-features-per-month)**
     - Target to increase by 30% by EOFY22
     - Activities:
@@ -75,11 +75,10 @@ We aim to increase the focus on our community contributions. Below is a timeline
         - Improve Community Contribution automation
         - Enable running QA tests on forks
         - Increase number of coaches
-        - Partner with `~"group::ecosystem"` to provide feedback to improve contribution tooling (currently GDK).
+        - Partner with Engineering Productivity to provide feedback to improve contribution tooling (currently GDK).
 - **[MRARR](/handbook/engineering/quality/performance-indicators/#mrarr)**
     - Target to increase to 1B MR$ by EOFY23
     - Activities:
-        - Improve on measurement
         - Reach out to top tier enterprise customers
         - Partner with TAMs to enlist and facilitate contribution from paid customers
         - Launch contribution materials targeting large enterprises
@@ -88,17 +87,18 @@ We aim to increase the focus on our community contributions. Below is a timeline
 
 ## Team Responsibilities
 
-* Carry out Engineering Open Source Outreach efforts.
+* Carry out Engineering open source outreach efforts.
 * Improve GitLab's Contribution Efficiency and Merge Request Coaching process.
 * Engineering representative that can ride along with the evangelist and program manager.
 * Organize community contributors into Cohorts and ensure their success.
 * Provide guidance to community contributors on technical and non-technical aspects.
-* Track contribution delivery of the Community Contributors and Cohorts.
-* Nominate community contributors and contribution for recognition & provide input into awards.
+* Track [contribution](/community/contribute/) delivery of the Community Contributors and Cohorts.
+* Improve community recognition system and awards in collaboration with Community Relations team.
+* Nominate impactful community contributors and contributions for recognition.
 * Contribute as an MR Coach in one or more MR Coach speciality.
 * Provide guidance and coaching to team members on technical contributions, product architecture, and other areas.
-* Be a sounding board for our community contributors.
-* Participate in GitLab's overall Open Source Outreach events and processes.
+* Be a point of escalation for community contributors and identify GitLab DRIs to resolve blockers
+* Participate in GitLab's overall open source outreach events and processes.
 * Collaborate closely with our Marketing counterparts and Core team.
 
 ## Project Management
