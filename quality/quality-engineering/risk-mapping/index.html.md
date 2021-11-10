@@ -123,8 +123,8 @@ The Risk Mapping Tool helps teams easily visualize risks and planned mitigations
 
 Setting up the Risk Mapping Tool is not a requirement, but may be helpful for quick visualizations of risk status. If metrics are in place to measure risk status, the Risk Mapping Tool can more easily expose these.
 
-The Risk Mapping Tool belongs to the Projects [maintained by Quality](https://about.gitlab.com/handbook/engineering/quality/project-management/) and could be a part of the [Quad-Planning process](https://about.gitlab.com/handbook/engineering/quality/qe-subdept/quad-planning/) feeding into the [Test Engineering](https://about.gitlab.com/handbook/engineering/quality/qe-subdept/test-engineering/) practices by facilitating the test planning process with an initial risk analysis.
+The Risk Mapping Tool belongs to the Projects [maintained by Quality](https://about.gitlab.com/handbook/engineering/quality/project-management/) and could be a part of the [Quad-Planning process](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/quad-planning/) feeding into the [Test Engineering](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/test-engineering/) practices by facilitating the test planning process with an initial risk analysis.
 
-To install the Risk Mapping tool, please follow the [README](https://gitlab.com/gitlab-org/quality/qe-subdept/risk-mapping-tool/-/blob/master/README.md) instructions.
+To install the Risk Mapping tool, please follow the [README](https://gitlab.com/gitlab-org/quality/quality-engineering/risk-mapping-tool/-/blob/master/README.md) instructions.
 
 If desired, a team or group could also manually input these in a [visual risk map](https://docs.google.com/presentation/d/1T_9mMQuBHeQzgXIZdV5asicW6h8z_10kbqJYswzJCjM/edit?usp=sharing). [Here's](https://docs.google.com/presentation/d/1d3RoC7Tp1qoQrv1sldjgC9Q0u5ODkSo50ECS0dS9XIo/edit?usp=sharing) an example of a complete visual risk map.  

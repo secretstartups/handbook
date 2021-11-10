@@ -14,7 +14,7 @@ description: Guidelines for investigating end-to-end test pipeline failures
 
 These guidelines are intended to help you to investigate [end-to-end test](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/index.html) pipeline failures so that they can be properly addressed. This will involve analyzing each failure and creating an issue to report it. It might also involve [fixing tests](#fixing-the-test), [putting them in quarantine](#quarantining-tests), or [reporting bugs in the application](#bug-in-the-application).
 
-The Pipeline triage [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is responsible for analyzing and debugging test pipeline failures. Please refer to the [Quality Department pipeline triage rotation schedule](https://about.gitlab.com/handbook/engineering/quality/qe-subdept/oncall-rotation/#schedule) to know who the current DRI is.
+The Pipeline triage [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is responsible for analyzing and debugging test pipeline failures. Please refer to the [Quality Department pipeline triage rotation schedule](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#schedule) to know who the current DRI is.
 
 ### Scheduled QA test pipelines
 
