@@ -67,6 +67,7 @@ Aligning passionate TAMs with customers to ensure their success by...
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
 - [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Risk Types, Discovery & Mitigation](/handbook/customer-success/tam/risk-mitigation/)
+- [Workshops and/or Lunch-and-Learns](/handbook/customer-success/tam/workshops/) 
 
 
 ##### Digital Journey:
@@ -123,7 +124,7 @@ To get the most out of your TAM relationship:
 
 #### Book of Business
 
-Technical Account Managers are responsible for managing a portfolio of customer accounts based on the sum of the annual contract value of the accounts under management. The current target per TAM for the [TAM-assigned segment](/handbook/customer-success/tam/customer-segments-and-metrics/#tam-assigned-segment) is 3.6M per TAM
+Technical Account Managers are responsible for managing a portfolio of customer accounts based on the sum of the annual contract value of the accounts under management. The current target per TAM for the [TAM-assigned segment](/handbook/customer-success/tam/customer-segments-and-metrics/#tam-assigned-segment) is 3.6M USD per TAM
 
 The team continues to drive efficiency improvements to allow TAMs to effectively manage a larger book of business.
 
@@ -140,6 +141,7 @@ There are various services a Technical Account Manager will provide to ensure th
 - Own, manage, and deliver the customer onboarding experience
 - Help GitLab's customers realize the value of their investment in GitLab
 - GitLab Days
+- Deliver [Workshops and/or Lunch-and-Learns](/handbook/customer-success/tam/workshops/) as needed
 
 ## Training
 
