@@ -17,7 +17,7 @@ canonical_path: "/company/team/structure/working-groups/fedramp-execution/"
 |-----------------|-------------------|
 | Date Created    | November 25, 2020 |
 | End Date        | TBD               |
-| Slack           | [#wg_fedramp-execution](https://gitlab.slack.com/archives/C02LT4Q96CC) (only accessible from within the company) |
+| Slack           | [#wg_fedramp](https://gitlab.slack.com/archives/C0110E0NMT9) (only accessible from within the company) |
 | Google Doc      | Search "FedRAMP Execution Working Group Agenda" in Google Drive (only accessible from within the company) |
 | Issue Board     | TBD             |
 
