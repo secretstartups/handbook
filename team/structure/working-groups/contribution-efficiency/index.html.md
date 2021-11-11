@@ -2,7 +2,7 @@
 layout: markdown_page
 title: "Contribution Efficiency"
 description: "Implement key business iterations that results in substantial and sustained increases to community contributors & contributions"
-canonical_path: "/company/team/structure/working-groups/improve-ops-quality/"
+canonical_path: "/company/team/structure/working-groups/contribution-efficiency/"
 ---
 
 ## On this page
@@ -17,7 +17,7 @@ canonical_path: "/company/team/structure/working-groups/improve-ops-quality/"
 |-----------------|-----------------|
 | Date Created    | October 28rd, 2021 |
 | Target End Date | April 28rd, 2022 |
-| Slack           | [#contribution-efficiency](https://gitlab.slack.com/archives/C0223D98HHC) (only accessible from within the company) |
+| Slack           | [#wg_contribution-efficiency](https://gitlab.slack.com/archives/C0223D98HHC) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1AOgqaslnq-WI1ICSZ1NzSnALf1Va4D5qAD191icAoSI/edit#) (only accessible from within the company) |
 | Task Board      | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/3014703?label_name%5B%5D=Contribution%20Efficiency) (items above the cut-line) |
 
