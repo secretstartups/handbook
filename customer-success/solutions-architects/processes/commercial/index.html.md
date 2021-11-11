@@ -20,9 +20,10 @@ The Commercial SA Engagement Model intends to foster collaboration and influence
 
 #### SA Engagement Considerations
 
-- All Solutions Architect (SA) requests are submitted via [Americas](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/-/issues/new?issuable_template=SA%20Activity) and [EMEA](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/emea-commercial-triage/-/issues/new?issuable_template=SA%20Activity) triage boards
+- All Solutions Architect (SA) requests are submitted via [Commercial Triage board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/-/issues/new)
 - SA notes and activities are logged within Salesforce via Troops.ai (review the [SA Activity Capture page](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/)).
-- Deal qualification is simply any deal that **is piped at $10k and higher** focused not only on engagement value but also customer potential for consideration of Solutions Architect assignment.
+- Deal qualification for Mid-Market, Named Accounts and SMB is simply any deal that **is piped at $10k and higher** focused not only on engagement value but also customer potential for consideration of Solutions Architect assignment.
+- Deal qualification for First Order is a deal that **is piped at $2k and higher**
 - All Salesforce linked active opportunities should have [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (and [required 7 methods applied](https://about.gitlab.com/handbook/sales/commercial/#required-7))
 - Compelling events are clearly defined or the issue (i.e. triage request) has a clear statement indicating why that information isn’t available yet and how the SA can help obtain it.
 
