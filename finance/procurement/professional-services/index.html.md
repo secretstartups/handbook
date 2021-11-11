@@ -40,12 +40,12 @@ title: Professional Services
 1. If the answer to any of the questions requires additional review from the GitLab legal team, Procurement will add Labor Law Attorney to the approval flow.
 
 ## What Happens after I submit my Request?
-    - The Coupa Req will appear as "Pending Buyer Action", this means it is under review from the procurement team. 
+- The Coupa Req will appear as "Pending Buyer Action", this means it is under review from the procurement team. 
     - If the contract requires negotiation, the req will stay in “Pending Buyer Action” status and a "Negotiation" Label will be added to the Coupa Req. 
-        - Within 1-2 business days a member of the procurement team will either reach out a-sync, and/or schedule a meeting to review depending on the complexity.
-    - If your contract does not require negotiation, the Procurement team will review and ping you directly in the Coupa request.
-    - If the anwser is "yes" to any of the required fields in the intake form, procurement will manually add employment law attorney to the Coupa review flow for approval.
-    - Once neotiation is completed and/or it is determined that negotiation is not needed, your purchase request will be approved by procurement and will advance to the next approver, which is typically fp&a. 
+    - Within 1-2 business days a member of the procurement team will either reach out async, and/or schedule a meeting to review depending on the complexity.
+- If your contract does not require negotiation, the Procurement team will review and ping you directly in the Coupa request.
+- If the anwser is "Yes" to **any** of the required fields in the intake form, procurement will manually add the Director of Legal - Employment to the Coupa review flow for approval.
+- Once negotiation is completed and/or it is determined that negotiation is not needed, your purchase request will be approved by procurement and will advance to the next approver, which is typically fp&a. 
 
 ## How Long Does it take to get my contract reviewed and approved?
 - Contracts greater than $25K are typically negotiated by the procurement team, unless you've already done so.
