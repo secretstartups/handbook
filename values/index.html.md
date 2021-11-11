@@ -157,15 +157,14 @@ We naturally have a double standard when it comes to the actions of others.
 We blame circumstances for our own mistakes, but individuals for theirs.
 This double standard is called the [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error).
 In order to mitigate this bias, you should always [assume positive intent](https://www.collaborativeway.com/general/a-ceos-advice-assume-positive-intent/) in your interactions with others, respecting their expertise and giving them grace in the face of what you might perceive as mistakes.
-When [disagreeing](/handbook/values/#disagree-commit-and-disagree), folks sometimes argue against the weakest points of argument, or sometimes argue against a "straw man".
-Assume the points are presented in good faith, and instead try to [argue the "steel man" (or the "strong man")](https://desert.glass/newsletter/week-46/):
-> That’s when you articulate the absolute strongest version of your opponent’s position—potentially even stronger than the one they presented.
-A good steel-man argument is one where the other person feels you've represented their argument well, even if they still disagree with your assumptions or conclusion.
+
+When [disagreeing](/handbook/values/#disagree-commit-and-disagree), folks sometimes argue against the weakest points of an argument, or an imaginary argument (e.g. ["straw man"](https://en.wikipedia.org/wiki/Straw_man)). Assume the points are presented in good faith, and instead try to argue against the strongest version of your opponent’s position. We call this arguing against a "steel" position, instead of a "straw" one. This concept is borrowed from [argue the "steel man"](https://desert.glass/newsletter/week-46/) as described in [Robin Sloan](https://www.robinsloan.com/about/)'s newsletter.
+
+A "steel" position should the absolute most effective version of your opponent’s position — potentially even more compelling than the one they presented. It should debate against a strong (or even stronger) position than the one presented by the opponent. A good "steel" position is one where the other person feels you've represented their position well, even if they still disagree with your assumptions or conclusion. 
 
 ##### Address behavior, but don't label people
 {:.no_toc}
-There is a lot of good in [this article](http://bobsutton.typepad.com/my_weblog/2006/10/the_no_asshole_.html) about not wanting jerks on our team,
-but we believe that **jerk** is a label for behavior rather than an inherent classification of a person.  We avoid classifications.
+There is a lot of good in [this article](http://bobsutton.typepad.com/my_weblog/2006/10/the_no_asshole_.html) about not wanting jerks on our team, but we believe that **jerk** is a label for behavior rather than an inherent classification of a person.  We avoid classifications.
 
 ##### Say sorry
 {:.no_toc}
