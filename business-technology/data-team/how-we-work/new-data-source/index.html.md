@@ -1,4 +1,4 @@
- ---
+---
 layout: handbook-page-toc
 title: "New Data Source"
 description: "How to add a new data source"
