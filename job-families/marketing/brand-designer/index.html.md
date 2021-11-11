@@ -107,7 +107,7 @@ The Senior Brand Designer is a [grade 7](/handbook/total-rewards/compensation/co
 
 The Staff Brand Designer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-**Market Justification:** Within the market there are a significant number of companies with an average of 7 team members in this type of role at the staff level. 
+**Market Justification:** The Staff Brand Designer role will provide a high level of expertise in solving complex problems with a strong understanding of brand voice, audience, and strategy. Additionally, this role will be key in educating and enabling a consistent brand experience across the organization through industry experience related to creative philosophy, design principles, and brand standards. This role will help shape GitLab’s brand experience through extensive research, exploration, and iteration. Within the market there are a significant number of companies with an average of 7 team members in this type of role at the staff level. 
 
 #### Responsibilites 
 
