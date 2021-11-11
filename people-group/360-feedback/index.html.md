@@ -222,7 +222,7 @@ We recorded a training on this subject:
 - Follow Up. Did you discuss pathways to career progress, or specific points of attention for improving performance? Make sure you add them to the top of the 1:1 doc so as to remind yourselves to follow up every so often.
 - Managers should also share the themes of the feedback they received with their teams. Making yourself open and vulnerable can help the rest of the team understand that it is ok to get hard feedback and we can grow from it. It also enlists the team is helping you grow.
 - Consider asking each team member to share the top 2-3 Themes from their feedback, what they plan to do now, and how the team can help.
-- If there are areas that were indicated over the 360s that need immediate improvement, are not aligned with our values or go against our [Code of Conduct](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#viii-questions-reporting-and-effect-of-violations), please reach out to our [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/) via teammemberrelations@gitlab.com.
+- If there are areas that were indicated over the 360s that need immediate improvement, are not aligned with our values or go against our [Code of Business Conduct and Ethics for Directors, Officers, Employees and Contractors](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d), please reach out to our [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/) via teammemberrelations@gitlab.com.
 
 ### Action Plans
 
