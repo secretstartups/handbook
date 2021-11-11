@@ -957,7 +957,7 @@ Iteration is a key value in many disruptive and successful organizations. Below 
 * [SpaceX](iteration-examples/spacex.html)
 
 ##### 12 things that are not iteration
-
+{:.no_toc}
 Iteration is often counterintuitive and difficult to do. To clarify what an iteration is, it helps to see examples of what is not an iteration. Below are 12 examples of things we've seen mistaken as iteration, but don't meet our definition of iteration. 
 
 1. Reducing quality
