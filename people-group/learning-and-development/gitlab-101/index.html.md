@@ -255,7 +255,7 @@ To create a merge request:
 
 ### How to search for a GitLab Merge Request
 
-You can search for a GitLab Merge Request in the same way as you search for a GitLab Issue [outlined above](/handbook/people-group/learning-and-development/certifications/gitlab-101/#how-to-search-for-a-gitlab-issue). The only difference is to select the "Merge requests" button in the top right, rather than the Issues button.
+You can search for a GitLab Merge Request in the same way as you search for a GitLab Issue [outlined above](/handbook/people-group/learning-and-development/gitlab-101/#how-to-search-for-a-gitlab-issue). The only difference is to select the "Merge requests" button in the top right, rather than the Issues button.
 
 ### Helpful Tips for Merge Requests
    1. Who can merge your Merge Request (MR)? - your manager should have the ability to merge (i.e. [maintainer access](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions)). If they don't have the ability to merge, they will know who you can assign it to for review/merging.
