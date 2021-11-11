@@ -21,6 +21,8 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 **Deal Desk: [6 new Annual True-Up SKUs] (LINK)**
 **Channel Ops: [Reseller Name Now Populates on Distributor Order Forms](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1942)**
 **Channel Ops: [GCP & AWS Marketplace Private Offer FAQ](https://gitlab-com.gitlab.io/alliances/alliances-internal/)**
+**Sales Ops: [SFDC Bookings Report Access](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2588)**
+**Sales Ops: [SFDC Reports Not Used in 180+ Days](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2486)**
 
 
 ## Q3-FY22 
