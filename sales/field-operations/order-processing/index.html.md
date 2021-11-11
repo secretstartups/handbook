@@ -1223,6 +1223,8 @@ All Closed Won and Closed Lost opportunities closed in a given month will become
 
 Certain customers require that invoices submitted to them include a Purchase Order (PO) number. For these customers, a PO is required for opportunity closure, with limited exceptions. This policy is supplemental to the other booking requirements listed on this page. It does not replace any other booking requirements.
 
+If there is a PO document and customer wants GitLab to add the PO nr to the invoice, we cannot do that without reviewing the PO document (unless there is no PO document issued)
+
 **How can I determine whether a customer requires POs?**
 
 **For new customers:**
@@ -1253,7 +1255,7 @@ If a customer requires POs, they will typically reject any invoice sent to them 
 
 **What if "PO Required" = "YES," and the customer has provided a PO number but not a PO document?**
 
-1. If the customer provides a PO number, not not a PO document, please attach the email (containing the PO number) to the opportunity. If all other booking requirements are met, the opportunity will be closed.
+1. If the customer provides a PO number, but not a PO document, please attach the confirmation email (containing the PO number and stating that there is no PO document issued) to the opportunity. If all other booking requirements are met, the opportunity will be closed. 
 
 **What if the customer requires a PO and the PO is delayed, but all other booking requirements are met?**
 
