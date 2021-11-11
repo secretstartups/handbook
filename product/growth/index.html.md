@@ -253,6 +253,6 @@ In alignment with GitLab's [RADCIE](/handbook/people-group/directly-responsible-
 | Maintenance | Stage Product/Engineering |
 | Alert creation | Growth Product/Engineering : [How to create a Sisense SQL alert](/handbook/engineering/development/growth/sisense_alert.html) |
 
-The Growth team can run experiments in any area of the application. However, when an experiment impacts any other Stage or Foundations area, the Growth team involves that area following the collaboration model above. When results are in, if the experiment is deemed a success and is eligible to go to 100% of users, the Stage or Foundations area affected is aware of that result and decision. 
+It is in the Growth teams purview to run any experiment in any area of the application. When an experiment impacts the area of another product owner/team, Growth informs them following the collaboration model above. Product owners/teams are encouraged to raise concerns and provide further context. Ultimately, Growth determines whether the experiment is deemed a success using data and input from relevant teams. The product owner/team is made aware of the result and next steps.
 
 
