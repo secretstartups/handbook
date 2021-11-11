@@ -163,11 +163,11 @@ It's possible that an issue will be opened in an incorrect project. If that happ
 To move a GitLab issue:
 
 1. Navigate to the issue you want to move
-1. In the right hand column, scroll all the way to the bottom
-1. Select "move issue"
+1. In the right hand menu bar, scroll all the way to the bottom
+1. Select "Move issue"
 1. Search for the project you want to move it to and click on it
-1. Click the green "Move" button
-1. It will move the issue and link to where the issue was before in the old project
+1. Click the blue "Move" button
+1. It will move the issue, and the link will change according to the new location of the issue
 
 #### Video: How to move a GitLab Issue (~2 minutes)
 
