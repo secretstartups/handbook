@@ -424,7 +424,7 @@ Candidate should ideally be:
 
 Other qualifications include:
 
-- Proficiency in Ruby is required. Experience in Go is useful. Knowledge of other lanuages is a nice to have.
+- Language expertise. Application contributions are expected in Ruby and the ability to contribute in Go is helpful.
 - Knowledge of profiling, and performance testing.
 - Understanding of basic database principles and optimisation mechanisms.
 
