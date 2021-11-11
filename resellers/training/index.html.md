@@ -28,7 +28,7 @@ GitLab has created a robust training and certification program to enable partner
 **Validate your skills, knowledge and receive recognition for your individual mastery in GitLab!**
 **Help your company meet program requirements and capture the GitLab product sales and services opportunity!**
 
-Training courses, certification exams and other enablement materials can be accessed through the [GitlLab Partner Portal](partners.gitlab.com).
+Training courses, certification exams and other enablement materials can be accessed through the [GitlLab Learn Partner Community.](https://gitlab.edcast.com/channel/gitlab-partners)
 
 ### Training and Certifications for Sales Professionals
 
