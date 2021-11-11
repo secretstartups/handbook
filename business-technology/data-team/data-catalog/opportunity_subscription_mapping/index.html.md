@@ -18,7 +18,7 @@ The goal of this page:
 * And overall help everyone contribute!
 
 ## Opportunity-Subscription Mapping
-The mapping between opportunities and subscriptions unlocks the entire customer journey for financial, marketing, and sales analytics, among a myriad of other analytical opportunities. 
+The mapping between opportunities and subscriptions unlocks the quote to cash process for Go To Market Analytics including financial, marketing, and sales analytics. 
 
 Historically this was not tracked in our source systems and needed to be backfilled based on our knowledge of previous processes. 
 
