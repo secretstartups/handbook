@@ -151,7 +151,7 @@ To help our Product Manager decide which tech-debt and tooling issues to include
 We regularly review unprioritized issues using these boards:
 
 - [tech-debt issues](https://gitlab.com/groups/gitlab-org/-/boards/2168528?label_name[]=group%3A%3Acomposition%20analysis&label_name[]=technical%20debt)
-- [tooling issues](https://gitlab.com/groups/gitlab-org/-/boards/2168528?label_name[]=group%3A%3Acomposition%20analysis&label_name[]=tooling)
+- [tooling issues](https://gitlab.com/groups/gitlab-org/-/boards/2168528?scope=all&label_name[]=group%3A%3Acomposition%20analysis&label_name[]=type%3A%3Atooling)
 
 ## Projects
 
@@ -179,7 +179,6 @@ Additional notes:
 ### License Compliance
 
 - [License-finder analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/license-finder)
-- [License-management](https://gitlab.com/gitlab-org/security-products/license-management) is the original project that needs to be maintained until [the migration](https://gitlab.com/gitlab-org/gitlab/-/issues/215933) is completed.
 
 ### Upstream scanner mirrors
 
