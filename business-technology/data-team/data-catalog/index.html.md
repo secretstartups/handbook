@@ -85,6 +85,7 @@ SAFE Data in Google Sheets files can be accessed using the instructions for [Acc
 ### Finance
 
 * [TD: Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr/)
+* [Opportunity to Subscription Mapping](/handbook/business-technology/data-team/data-catalog/opportunity_subscription_mapping/)
 
 ### Product
 
