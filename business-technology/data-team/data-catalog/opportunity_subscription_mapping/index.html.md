@@ -28,7 +28,7 @@ Historically this was not tracked in our source systems and needed to be backfil
 
 
 ## Data Quality
-The backfill mapping process has been performed for all subscriptions created after 2019-02-01. Before this point, the processes were not rigid enough to create logic for the mapping. We believe the mapping processes has produced a hierarchy of opportunity-subscription mappings, as follows:
+The backfill mapping process has been performed for all subscriptions created after 2019-02-01. Before this point, the processes were not robust enough to create logic for the mapping. We believe the mapping processes has produced a hierarchy of opportunity-subscription mappings, as follows:
 
 - 2021-04-12 - Present: Green - Due to the internal processes created by Enterprise Apps, we are confident in the data created on or after 2021-04-12. A recent bug has been identified for a small subset of Web Direct deals, but this is a small (< 3%) subset of the overall subscription population. The above mapping has been applied for the blank subscriptions found on or after 2021-04-12 while this is fixed in the source.
 - 2019-02-01 - 2021-04-11: Yellow - The above mapping has been applied for this time range. We believe this is directionally correct based on testing, but cannot assure full fidelity.
