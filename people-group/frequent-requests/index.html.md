@@ -125,12 +125,10 @@ If you are a team member residing in India, please consider using the following 
 
 In Japan, for a team member to qualify for subsidized day care, they need to demonstrate that they are working and need a certified document from their employer confirming their employment status.
 
-- Team member: Fill out the daycare documentation with all the necessary details and only leave out the employer bit. Send this document via email to the People Ops team(peopleops@gitlab.com)
-- PeopleOps: Reach out to the Tricor team who are the current custodians of our Japan Stamp for them to fill out the Employer portion and stamp it.(Contact addresses available on 1Password)
-- Tricor: Send the stamped form back to the People Operations Specialist team.
-- PeopleOps: Email the completely filled and stamped document to the team member.
-- PeopleOps: Save the document on the team members BambooHR profile under the "Contracts and Changes" Folder
-
+- Team member: Fill out the daycare documentation with all the necessary details and only leave out the employer bit. Send this document via email to Non US Payroll (nonuspayroll@gitlab.com)
+- Non US Payroll: Submit the document to our local payroll provider in Japan for completion
+- Local Payroll provider: Send the filled in form back to Non US Payroll
+- Non US Payroll: Forward the completed document to the team member 
 
 ## Name Change
 
