@@ -76,7 +76,7 @@ As Reliability, we have three main work streams and each varies in the type of w
 1. [EOC Queue](#how-we-work--eoc-queue) - This is a quarterly milestone consisting of corrective actions and EOC tooling maintenance.
 1. [Customer Request Queue](#how-we-work--customer-request-queue) - This is a quarterly milestone of all small-scale asks which originate from teams outside of Reliability and which are not tied a Project of corrective action. Examples here include adding DNS entries, provisioning/de-provisioning system access, and assisting Support.
 
-#### Project Squads - [Squad List](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509)
+### Project Squads - [Squad List](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509)
 Projects are assigned and handled within squads. A squad is composed of a minimum of 2 SREs who are responsible for all the sub-epics and issues within a project.
 Reliability engineering managers are responsible for the formation of squads and the assignment of projects to the respective squads.
 
@@ -90,6 +90,7 @@ Responsibilities of squads:
 1. Each squad has a lead who keeps the status of the project updated as frequently as necessary, minimum weekly
 
 #### Roles
+
 Squad lead - Leads the squad to make hard project decisions and act on them immediately.
 Engineering Manager -  Facilitate communication(upfront context) and strong alignment between squads
 
@@ -103,7 +104,8 @@ Project epic descriptions have this structure:
 1. Overview - Narrative description of the project intended to provide additional context. This is a few paragraphs setting context for someone new to the project and wanting to learn more and contribute.
 1. Reference - Links out to existing artifacts which allow team members to build context. These are links to documents and any dependent projects or prior art.
 
-##### Project Epic Template
+#### Project Epic Template
+
 ```markdown
 #### Status
 2021-YY-XX - {+ Current status +}
@@ -123,6 +125,52 @@ Project epic descriptions have this structure:
 
 example project epics:
 1. [https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/471](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/471)
+
+#### Milestone
+
+The [squad lead](#roles) can use
+[milestone](https://docs.gitlab.com/ee/user/project/milestones/#milestones)
+under the [`gitlab-com/gl-infra`
+](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones) to keep track of
+what is going to be achieved in the next block of time.
+
+- **Duration:** It's suggested that the milestone is only for 2 weeks since
+that gives individual contributors  enough time to dive deep into an issue and
+fix it, but it's not long enough that if we have to pivot because of a change
+of priorities it won't disrupt the planning, we don't want to end up in a
+situation where we spend a lot of time planning 1 month and then have it change
+completely a week in because of a large priority change.
+- **Interruption work:** If individual contributors have to work on an issue
+outside of the planned milestone they should add it to the milestone that they
+are working on. This gives a better overview of what kind of interruptions we
+had during that milestone.
+- **Issue boards:** If your squad is using [issue
+boards](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/) you can edit
+the board to be scoped to a specific milestone. Like this, you can keep track
+of the progress on the milestone.
+- **Number of issues doesn't matter:** The higher the number of issues inside
+of the milestone doesn't mean the more productive the squad is.  This is not to
+be used as a metric.
+
+What are the benefits?
+
+- Gives the squad a common goal that everyone is clear on what's being worked
+on in the coming days.
+- Reduce scope, if an issue can't fit in 2 weeks or the milestone duration it's
+clear that it's a big issue and needs to be broken down.
+- Tracking interruptions.
+- Gives a high overview to the engineering manager of what is being worked on.
+- Gives a sense of urgency that something needs to be finished in the allocated
+time, hopefully, this won't lead to burnout but a discussion about our workload
+and a sense that we need to focus on 1 issue at a time.
+- A sense of accomplishment, when the milestone is close and the squad looks
+back at what achieved in that milestone is can give them a great sense of
+accomplishment!
+
+Below are some examples of past milestones that piloted this process:
+
+- [https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/153](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/153)
+- [https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/152](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones/152)
 
 ### How We Work -- EOC Queue
 
