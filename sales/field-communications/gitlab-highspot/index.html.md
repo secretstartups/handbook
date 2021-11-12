@@ -53,7 +53,7 @@ GitLab ultimately chose to onboard Highspot as a sales enablement solution / sal
 | **Field Training & Enablement** | Training, onboarding, recordings, manager resources. | All internal team members | Locked |
 | **Marketing** | Internal marketing collateral, personas, value drivers, use cases, internal analyst reports. | All internal team members | Locked |
 | **Sales Plays** | All active and past GitLab [Sales Plays](/handbook/marketing/sales-plays/). | All internal team members | Locked |
-| **Sales Contributed Content** | Content recommendatons from Field team members of content that should be housed in one of the spots above. A triaging area. | All internal team members | Open |
+| **Sales Contributed Content** | Collateral that Field team members have created for customers and prospects – examples of "what good looks like." | All internal team members | Locked |
 | **Personal Spot** | Each team member with a Highspot account will have their own personal spot that they can use to upload content of their own. Naming convention is `[Your Account First Name] Spot`. | Account holder only | Open |
 
 ### Availability
@@ -80,7 +80,7 @@ Highspot is currently only available to tool administrators and a small group of
 
 **If I have a recommendation for a piece of content that should be in Highspot for all to access, how do I contact the Spot owner?**
 
-Please upload the content into the Sales Contributed Spot. This Spot will be regularly triaged by the Spot owners and content will be moved into its appropriate spot if it is approved. If you have a recommendation for which Spot it should be housed in, feel free to select `Write a Review` for that piece of content and leave a comment sharing which Spot you think it should live in. We also recommend that you tag the content with the relevant lists when uploading. 
+If you have a piece of content or a resource that you think the entire GTM team could benefit from, please request that it be added to Highspot using the [Highspot Content Submission Form](https://forms.gle/62Mp1q7F82ZKQsWu8). This could be anything from a Marketing resource you found that isn't already in Highspot or a presentation/document you created/found that would be helpful for team members to reference as an example of "what good looks like." If it's helpful for the team, we want to include it in Highspot! 
 
 **How do I determine the owner(s) of a spot?**
 
@@ -123,7 +123,7 @@ Please see the short support videos below:
 ### GitLab Highspot Trainings 
 See recordings for internal, GitLab-specific Highspot trainings below: 
 
-1. [GitLab Highspot Content Owner Training, 2021-11-02[(https://youtu.be/X07uT2G90HQ)]
+1. [GitLab Highspot Content Owner Training, 2021-11-02](https://youtu.be/X07uT2G90HQ)
 
 ### GitLab Highspot Best Practices
 
@@ -164,7 +164,14 @@ The format for the embed code is: `<iframe src="https://URL HERE"></iframe>`
 
 Using the embed code will allow Highspot users to view the webpage content directly in Highspot instead of having to click out of the tool, which drives more efficiency and a more seamless user experience. Furthermore, if that link is marked as external and a Highspot user wants to pitch it out to a customer or prospect using Highspot, we will only be able to track engagement analytics on an embedded link, as a non-embedded link will cause the customer to land natively on the URL page where we cannot gather analytics. 
 
-**EXCEPTION:** The exception to this best-practice is for PathFactory links. Do not select `Use embed code` when adding PathFactory links. In order to allow PathFactory to gather the necessary analytics, external audiences will need to access the link that takes them directly to the asset in PathFactory.  
+**For external YouTube links, you will need to use the embed URL provided by YouTube** within the embed code vs. the standard url. To do this, navigate to the YouTube video --> click `Share` underneath the video --> click `Embed` --> copy the url that is a part of the embed code shown. 
+
+**EXCEPTIONS FOR EMBEDDING** 
+
+*The following exceptions should be made for embedding links. Do not select `Use embed code` when adding these types of links.*
+1. PathFactory - In order to allow PathFactory to gather the necessary analytics, external audiences will need to access the link that takes them directly to the asset in PathFactory.  
+1. External - Some external links (ex. industry articles) will not allow embedding. You can test this by selecting `Use embed code` and then clicking on the item to check. You will see a broken link message if that link is unable to be embedded. 
+1. Private YouTube Unfiltered - Links for videos set to private will not embed. 
 
 ![Screenshot_DriveAutoUpdate](/handbook/sales/field-communications/gitlab-highspot/images/Example_EmbedCode.png)
 
