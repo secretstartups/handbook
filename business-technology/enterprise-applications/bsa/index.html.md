@@ -113,10 +113,10 @@ The templates that we use to structure our parent and children epics are documen
 During Define, EntApps articulates the business problem and definition of done. This phase covers uses cases, technology impacted and requirements. The ultimate goal of Define is not to figure out everything but to document the process and what is impacted. Finally, before beginning the design, we request approval sign-off from key stakeholders to ensure business requirements are accurate and all-inclusive.
 
 **Business Systems Analysts**
-- Problem Statements defined/documented
+- Requirements documented and approved by stakeholders
+   - Problem Statements
    - Use Cases
-- Prioritization Matrix completed
-- Requirements documented
+- Prioritization reevaluation and escalation
 - Ideation (high-level solutions)
    - Socialization with stakeholders
 
