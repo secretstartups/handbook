@@ -4,7 +4,7 @@ title: "Blog Handbook"
 description: "Everything you need to know about suggesting and publishing a post on GitLab's blog."
 ---
 
-Welcome to the GitLab blog handbook! The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing/inbound-marketing/content/editorial-team/). The managing editor of the blog is Valerie Silverthorne (@vsilverthorne) and Sandy Glitten (@Sglitten) is the senior content editor.
+Welcome to the GitLab blog handbook! The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing/inbound-marketing/content/editorial-team/). The managing editor of the blog is Valerie Silverthorne (@vsilverthorne) and Sandra Gittlen (@Sgittlen) is the senior content editor.
 
 ## Communication
 - Chat channels; use `#content` for questions, see `#content-updates` for updates on most recently published articles.
