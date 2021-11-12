@@ -23,23 +23,23 @@ This applies to all paying GitLab.com SaaS customers on [Premium or Ultimate](ht
 
 ## Who is involved in this process?
 
-Technical Account Managers (TAMs) and GitLab Support are our customers' main contacts at GitLab. In addition to them, customers can also reach out to GitLab's Field Security by emailing security@gitlab.com. These teams will ensure that the communication with the customer takes place as efficiently as possible, will provide status updates regarding the log request, and ultimately hand out any artefacts that might result from the request to the customer. 
+Technical Account Managers (TAMs) and GitLab Support are our customers' main contacts at GitLab. These teams will ensure that the communication with the customer takes place as efficiently as possible, will provide status updates regarding the log request, and ultimately hand out any artefacts that might result from the request to the customer. 
 
 GitLab Support handles non-complex application log requests that are within a 7-day time window from the time of the request.
 
-GitLab's Security Incident Response Team handles complex, extensive requests. In order to maximize efficiency and provide results in a timely manner, customers will not be able to interface with the relevant security team directly during these requests. All communication with the customer is channelled through GitLab Support, the dedicated TAM, or the Field Security team.
+GitLab's Security Incident Response Team handles complex, extensive requests. In order to maximize efficiency and provide results in a timely manner, customers will not be able to interface with the relevant security team directly during these requests. All communication with the customer is channelled through GitLab Support or the dedicated TAM.
 
 ## Process outline
 
-1. Customer contacts GitLab Support/TAM/Field Security with a request that meets the required [conditions and requirements](#conditions-and-requirements).
-2. GitLab Support/TAM/Field Security creates a `confidential` issue [in the SIRT tracker](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/) using the `information_request` template. The author of the issue ensures that the request contains all [required information](#conditions-and-requirements).
+1. Customer contacts GitLab Support or TAM with a request that meets the required [conditions and requirements](#conditions-and-requirements).
+2. GitLab GitLab Support or TAM creates a `confidential` issue [in the SIRT tracker](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/) using the `information_request` template. The author of the issue ensures that the request contains all [required information](#conditions-and-requirements).
 3. The author tags  `@gitlab-com/gl-security/sirt` on the issue. The requesting customer **must not** be added to the issue.
 4. Approval from GitLab Legal `@lasayers` should only be requested if an exception is required.   
-5. GitLab Support verifies that the requesting customer complies with our [conditions and requirements](#conditions-and-requirements) for the request.
+5. GitLab GitLab Support or TAM verifies that the requesting customer complies with our [conditions and requirements](#conditions-and-requirements) for the request.
 6. The relevant team (either GitLab Support or GitLab Security) starts working on the case, depending on the type of requests. The issue is updated with every new finding.
-7. GitLab Support/TAM/Field Security provides status updates to the customer based on the updates captured in the issue on a 12-hour/business day best-effort cadence.
+7. GitLab Support or TAM provides status updates to the customer based on the updates captured in the issue on a 12-hour/business day best-effort cadence.
 8. Once the requested artefacts (i.e. log entries) are collected, GitLab Security and GitLab Legal review them.
-9. Once reviewed and approved, GitLab Support/TAM/Field Security share the artefacts with the requesting customer.
+9. Once reviewed and approved, GitLab Support or TAM share the artefacts with the requesting customer.
 10. The team that performed the log-dive [creates an issue](https://gitlab.com/gitlab-org/gitlab/-/issues) with ~"Category:Audit Events" and ~"Enterprise Edition" labels to document the gap in [Audit Events](https://docs.gitlab.com/ee/administration/audit_events.html) that forced the customer to request our assistance. This is to ensure that the missing functionality in the product is added in the future. 
 
 ## Conditions and requirements
@@ -72,13 +72,13 @@ The request should contain a list of specific GitLab.com events of interest. If 
 
 ### What if the request exceeds the 1-month time window or is considered excessive?
 
-If the request exceeds the 1-month time window or is considered excessive, GitLab Support/TAM/Field Security can consult with GitLab Security and [Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/) to determine the cost and feasibility of such an undertaking, and provide possible options to the requesting customer.
+If the request exceeds the 1-month time window or is considered excessive, GitLab Support/Account Owner/TAM can utilize the [Service Calculator](https://services-calculator.gitlab.io/) and create a scoping issue with [Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/) to determine the cost and feasibility of such an undertaking, and provide possible options to the requesting customer.
 
 ## Expectations
 
 ### Receiving updates on the status of the request
 
-Log-dives can be time consuming. The GitLab teams performing the log-dives will be providing updates through the designated issue. GitLab Support/TAM/Field Security will relay the updates to the customer. Attempts to contact GitLab Security or its individuals on the status of the request will be unanswered. This applies to out-of-band communication as well (i.e. social media, personal e-mails, phone calls).
+Log-dives can be time consuming. The GitLab teams performing the log-dives will be providing updates through the designated issue. GitLab Support/Account Owner/TAM will relay the updates to the customer. Attempts to contact GitLab Security or its individuals on the status of the request will be unanswered. This applies to out-of-band communication as well (i.e. social media, personal e-mails, phone calls).
 
 #### Access logs
 
