@@ -81,7 +81,7 @@ The Infrastructure department's Reliability Engineering teams provide 24x7 on-ca
 - The rotation is on a weekly basis separated out into 2 timezones APAC/EMEA and AMER and each timezone has a primary and secondary on-call DRI.
 - The primary DRI is responsible for reporting and resolving triage activities while the secondary DRI is involved to prepare for taking over as primary in the following week.
 - This on-call rotation is to ensure accurate and stable test pipeline results that directly affects our continuous release process.
-- The list of pipelines which are monitored are defined on our [pipeline](../engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) page.
+- The list of pipelines which are monitored are defined on our [pipeline](../engineering/quality/quality-engineering/debugging-qa-test-failures/#scheduled-qa-test-pipelines) page.
 - The schedule and roster is defined on our [schedule](../engineering/quality/quality-engineering/oncall-rotation/#schedule) page.
 
 ## PagerDuty
