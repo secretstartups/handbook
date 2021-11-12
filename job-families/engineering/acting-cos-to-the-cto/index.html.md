@@ -5,7 +5,7 @@ canonical_path: "/job-families/engineering/acting-cos-the-the-cto/"
 ---
 
 ## Chief of Staff to the CTO
-This role will help enable communication, collaboration, strategy execution and special projects across the CTO organization. The responsibilities include both directed work that will mostly be triggered by a direction from the CTO as well as leadership work that is self-directed and includes inputs and priorities from the CTO leadership team. This individual will work in close partnership with the CTO to drive programs, execute and monitor our business strategy. The role requires a sharp critical thinker who can solve business issues and communicate effectively.  
+This role will help enable communication, collaboration, strategy execution, and special projects across the CTO organization. The responsibilities include both directed work that will mostly be triggered by a direction from the CTO, as well as leadership work that is self-directed and includes inputs and priorities from the CTO leadership team. This individual will work in close partnership with the CTO to drive programs and execute and monitor our business strategy. The role requires a sharp, critical thinker who can solve business issues and communicate effectively.  
 
 ### Responsibilities
 - Create a structure for the CTO to improve visibility and accountability with their direct reports 
