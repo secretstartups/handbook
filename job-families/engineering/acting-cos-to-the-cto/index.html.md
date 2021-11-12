@@ -22,7 +22,7 @@ This role will help enable communication, collaboration, strategy execution and 
 - Organizing and determining a program for a potential CTO Staff Offsite (virtual or on-site) in the last month of your term
 - Drive future special projects, such as past examples like
     - The [Volunteer Coaching Program for URGs](https://about.gitlab.com/handbook/engineering/volunteer-coaches-for-urgs/)
-    - The vendor selection and implementation of the Ally OKR system
+    - The vendor selection and implementation of the [Ally OKR system](/handbook/engineering/#allyio-for-okrs)
 - Participate in all Engineering Division Key Review meetings by asking clarifying and strategic questions
 - Improve the quality of Engineering Handbook content
 - Collaborate with the [CTO Executive Business Administrator](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/#executive-business-administrator-intermediate/) on logistics, agenda/time management and administration 
