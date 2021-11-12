@@ -249,8 +249,10 @@ In alignment with GitLab's [RADCIE](/handbook/people-group/directly-responsible-
 | Contribution Review | Stage Product/Engineering |
 | Experiment Ramp | Growth Product/Engineering |
 | Post-Experiment Analysis | Data Team |
-| Post-Experiment Decision | Growth Product/Engineering |
+| Post-Experiment Decision | Growth Product/Stage Product/Engineering |
 | Maintenance | Stage Product/Engineering |
 | Alert creation | Growth Product/Engineering : [How to create a Sisense SQL alert](/handbook/engineering/development/growth/sisense_alert.html) |
+
+It is in the Growth teams purview to run any experiment in any area of the application. Growth's ability to experiment in this manner is designed to further learning potential for the larger GitLab team and support business priorities. When an experiment impacts the area of another product owner/team, Growth informs them following the collaboration model above. Product owners/teams are encouraged to raise concerns and provide further context. Ultimately, Growth determines whether the experiment is deemed a success using data and input from relevant teams. The product owner/team is made aware of the result and next steps.
 
 
