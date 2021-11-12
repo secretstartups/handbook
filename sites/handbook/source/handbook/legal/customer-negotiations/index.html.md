@@ -75,7 +75,8 @@ For any other channel partner legal request, please follow the [standard legal r
 3. Once the Agreement has been stamped by GitLab legal, follow the [DocuSign Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) to send the Agreement for signature within SFDC. 
 
 **Additional Resources:**
-Visit the [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) for helpful information
+- Visit the [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) for helpful information
+- **Need an NDA signed?** Follow the process for [Team Members with Docusign access](https://about.gitlab.com/handbook/legal/NDA/)
 
 ## Clear Export Review in SFDC
 1. See the [Visual Compliance Overview](https://docs.google.com/presentation/d/1hD1xgEyJL1U1eyvTci6NNlCdIur4PkB16GO52wjZRgk/edit#slide=id.g5dbc2f529a_0_41)
