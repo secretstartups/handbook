@@ -7,8 +7,7 @@ title: "Sales Development Marketing Operations"
 
 ### Associate Sales Development Operations Manager
 
-The Associate Sales Development Operations Manager reports to
-
+The Associate Sales Development Operations Manager reports to the Director, Sales Development Operations.
 
 #### Associate Sales Development Operations Manager Job Grade 
 
@@ -41,7 +40,7 @@ The Associate Sales Development Operations Manager is a [grade 5](/handbook/tota
 
 ### Sales Development Operations Manager (Intermediate)
 
-The Sales Development Operations Manager (Intermediate) reports to
+The Sales Development Operations Manager (Intermediate) reports to the Director, Sales Development Operations.
 
 #### Sales Development Operations Manager (Intermediate) Job Grade 
 
@@ -65,7 +64,6 @@ The Sales Development Operations Manager (Intermediate) is a [grade 6](/handbook
 #### Sales Development Operations Manager (Intermediate) Requirements
 
 * Extends that of the Associate Sales Development Operations Manager requirements
-* Bachelor's degree. Is your college degree in French foreign politics with a minor in interpretive dance but you've been selling and marketing products since you were 12! We understand that your degree isn't the only thing that prepares you as a potential job candidate.
 * Experience with modern marketing and sales development solutions such as Salesforce, LinkedIn Sales Navigator, Demandbase, Outreach & ZoomInfo.
 * Outreach experience is required.
 * You are obsessed with problem solving, making processes work and have a measurable impact on the Sales Development organisation.
@@ -73,9 +71,9 @@ The Sales Development Operations Manager (Intermediate) is a [grade 6](/handbook
 
 ### Senior Sales Development Operations Manager
 
-The Senior Sales Development Operations Manager reports to
+The Senior Sales Development Operations Manager reports to the Director, Sales Development Operations.
 
-#### Job Grade 
+#### Senior Sales Development Operations Manager Job Grade 
 
 The Senior Marketing Operations Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -97,9 +95,9 @@ The Senior Marketing Operations Manager is a [grade 7](/handbook/total-rewards/c
 
 ### Manager, Sales Development Operations
 
-The Manager, Sales Development Operations reports to
+The Manager, Sales Development Operations reports to the Director, Sales Development Operations.
 
-#### Job Grade 
+#### Manager, Sales Development Operations Job Grade 
 
 The Manager, Sales Development Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -118,16 +116,62 @@ The Manager, Sales Development Operations is a [grade 8](/handbook/total-rewards
 * Ability to think strategically, develop frameworks and platforms that ensure optimal and unfettered access to business tools, assets and capabilities.
 * Superb analytical, problem-solving capability and help the team make sound conclusions.
 * You believe in teamwork and are not afraid of rolling up your sleeves.
- 
+
+### Director, Sales Development Operations
+
+The Director, Sales Development Operations reports to the AVP of Sales Development.
+
+#### Director, Sales Development Operations Job Grade 
+
+The Director, Sales Development Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Director, Sales Development Operations Responsibilities
+
+* Define the Sales Development Operations vision and strategy that enables intelligent decisions through precise analysis
+* Own the Sales Development operations roadmap, ensuring marketing technology is evaluated, selected, implemented, customized and more importantly used to meet the needs of the SDR organization
+* Collaborate with Marketing operations business partners on process improvements and efficiencies
+* Regularly inform stakeholders across marketing, sales, and finance of insights on marketing performance to ensure cross functional alignment on the best possible data-driven marketing strategy
+* Oversee the management  of the SDR handbook updates as processes and programs change
+* Track and report on the entire SDR funnel including lead volume, lead quality, velocity, conversion stage-to-stage, and average value; make sure funnel measures can be analyzed by key dimensions such as industry, geo, and persona
+* Define strategies to optimize SAO and ARR conversions for both First Order and expand teams
+* Work and enable SDR team managers to identify needs in process improvement 
+* Ensure processes are designed, documented, understood, and followed in a way that improves customer experience and pipeline generation 
+* Continually work to simplify systems and processes, avoiding customization bloat and over-engineered processes
+* Manage, build, and lead a strong team by coaching and developing existing members and closing talent gaps where needed through acquisition of new team members.
+* SDR DRI on selection of new vendors
+* Design process changes to improve SDR’s experience and enhance productivity
+
+#### Director, Sales Development Operations Requirements
+
+* Proven and relevant management experience in a fast paced and developing Sales Development Organization
+* Direct experience in enterprise software industry and SaaS
+* Strong leadership presence
+* Balance of strategic vision and tactical execution
+* Exemplary analytic and strategic thinking capability
+* Adept at managing multiple projects and deadlines
+* Excellent planning, organizational and project management skills
+* Extends that of the Senior Manager, Sales Development requirements
+* Track record of leading a team that consistently meets/exceeds goals
+* Demonstrated experience designing, implementing and an innovative sales development technology stack.
+* Experience in successfully hiring and onboarding SDRs and SDR managers
+* Experience building out new SDR team segments, including processes and strategies
+* Excellent understanding of the GitLab SDR tech stack is required
+* Proven track record of implementing and executing efficiency measures in a high volume lead flow model.
+* Ability to understand the nuances required to lead effective outbound campaigns
+* Leadership at GitLab
+* Ability to use GitLab
+
 ## Performance Indicators
  
-*
+* MQL to SAO conversion rate through process improvements
+* * SDR productivity (SAO number/SDR)
+Marketing efficiency ratio (we might need to think of an SDR efficiency ratio)
+* SDR Tech Stack usage
  
 ## Career Ladder
  
 The next step in the Sales Development Marketing Operations job family is yet to be defined.
  
-
 ## Hiring Process
  
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
