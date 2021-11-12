@@ -16,6 +16,20 @@ These guidelines are intended to help you to investigate [end-to-end test](https
 
 The Pipeline triage [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is responsible for analyzing and debugging test pipeline failures. Please refer to the [Quality Department pipeline triage rotation schedule](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#schedule) to know who the current DRI is.
 
+### General guidelines
+
+- **Fix tests failing in `master` before other development work**: [Failing tests on `master` are treated as the highest priority](/handbook/engineering/workflow/#broken-master) relative to other development work, e.g., new features.
+- **Follow the [pipeline triage guidelines](#how-to-triage-a-qa-test-pipeline-failure) for investigating, reporting, and resolving test failures**
+- **Flaky tests are quarantined until proven stable**: A flaky test is as bad as no tests or in some cases worse due to the effort required to fix or even re-write the test.
+As soon as detected it is quarantined immediately to stabilize CI, and then fixed as soon as possible, and monitored until it is fixed.
+- **Close issue when the test is moved out of quarantine**: Quarantine issues should not be closed unless tests are moved out of quarantine.
+- **Quarantine issues should be assigned and scheduled**: To ensure that someone is owning the issue, it should be assigned with a milestone set.
+- **Make relevant stage group aware**: When a test fails no matter the reason, an issue should be created and made known to the relevant product stage group as soon as possible.
+In addition to notifying that a test in their domain fails, enlist help from the group as necessary.
+- **Failure due to bug**: If a test failure is a result of a bug, link the failure to the bug issue. It should be fixed as soon as possible.
+- **Everyone can fix a test, the responsibility falls on the last who worked on it**: Anyone can fix a failing/flaky test, but to ensure that a quarantined test isn't ignored,
+the last engineer who worked on the test is responsible for taking it out of [quarantine](https://gitlab.com/gitlab-org/gitlab/blob/master/qa/README.md#quarantined-tests).
+
 ### Scheduled QA test pipelines
 
 The test pipelines run on a scheduled basis, and their results are posted to Slack. The following are the QA test pipelines that are monitored every day.
@@ -220,6 +234,8 @@ We use the following labels to capture the cause of the failure.
 - `~"failure::test-environment"`: [Failure due to test environment](#failure-due-to-test-environment)
 - `~bug`: [Bug in the application](#bug-in-the-application)
 
+Bugs blocking end-to-end test execution (due to the resulting quarantined tests) should additionally have severity and priority labels. For guidelines about which to choose, please see the [blocked tests section of the issue triage page](/handbook/engineering/quality/issue-triage/#blocked-tests).
+
 **Note**: It might take a while for a fix to propagate to all environments. Be aware that a new failure could be related
 to a recently-merged fix that hasn't made it to the relevant environment yet. Similarly, if a known failure occurs but
 the test should pass because a fix has been merged, verify that the fix has been deployed to the relevant environment
@@ -353,7 +369,7 @@ To quarantine a test:
 
 - Create a merge request using the [Quarantine End to End Test](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/merge_request_templates/Quarantine%20End%20to%20End%20Test.md) template.
   - The merge request shall have the labels: `~"Quality", ~"QA", ~"bug"`.
-  - The merge request may have auto-deploy labels: `~"Pick into auto-deploy", ~"priority::1", and ~"severity::1"`. Please note that this is reserved for emergency cases only, such as blocked deployments, as it will delay all other deployments by around two hours. 
+  - The merge request may have auto-deploy labels: `~"Pick into auto-deploy", ~"priority::1", and ~"severity::1"`. Please note that this is reserved for emergency cases only, such as blocked deployments, as it will delay all other deployments by around two hours.
   - The merge request may have stage or group labels. E.g. `~"devops::create" ~"group::source code"`.
   - The merge request shall have the current milestone.
   - The merge request shall link to (but not close) the failure issue.
@@ -433,7 +449,7 @@ Before dequarantining a test:
 in the nightly pipeline's quarantine job for that test.
 - If the test failure was originally discovered in [staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) or [production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipeline, please make sure that the test passes in the CI pipeline against that environment.
 You can trigger a CI pipeline against a live environment by clicking "Run Pipeline" button on the [staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) or [production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines page
-and setting the `RELEASE` variable to the release that has your changes. See [Running GitLab-QA pipeline against a specific GitLab release](/handbook/engineering/quality/guidelines/tips-and-tricks/#running-gitlab-qa-pipeline-against-a-specific-gitlab-release)
+and setting the `RELEASE` variable to the release that has your changes. See [Running GitLab-QA pipeline against a specific GitLab release](/handbook/engineering/quality/quality-engineering/tips-and-tricks/#running-gitlab-qa-pipeline-against-a-specific-gitlab-release)
 for instruction on finding your release version created and tagged by the Omnibus pipeline.
 
 To dequarantine a test:

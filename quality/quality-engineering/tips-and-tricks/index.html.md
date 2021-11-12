@@ -42,7 +42,7 @@ Note that the string is same as `RELEASE` except for the `-qa` suffix on the ima
 
 Now run the pipeline against the branch that has your changes.
 
-It's also possible to trigger a manual GitLab-QA pipeline against a specific [GitLab environment](https://about.gitlab.com/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) using the `RELEASE` and `QA_IMAGE` variable from the `package-and-qa` job of GitLab's Merge Request.
+It's also possible to trigger a manual GitLab-QA pipeline against a specific [GitLab environment](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#scheduled-qa-test-pipelines) using the `RELEASE` and `QA_IMAGE` variable from the `package-and-qa` job of GitLab's Merge Request.
 For example, here is the link to run a manual GitLab QA pipeline [against Staging](https://ops.gitlab.net/gitlab-org/quality/staging/-/pipelines/new?var[RELEASE]=%27insert_docker_image_name_from_the_MR%27).
 
 ## Running end-to-end test pipelines using code from a specific GitLab-QA branch

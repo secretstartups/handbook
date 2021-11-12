@@ -12,6 +12,16 @@ description: "The Quality Engineering Sub-Department helps facilitate the test p
 
 The Quality Engineering Sub-Department helps facilitate the test planning process for all things related to Engineering work.
 
+### General guidelines
+
+- **Test plans as collaborative design document**: Test Plans as documented in here are design documents that aim to flush out optimal test coverage.
+It is expected that engineers in every cross-functional team take part in test plan discussions.
+- **E2E test automation is a collective effort**: [SET]s should not be the sole responsible party that automates the End-to-end tests.
+The goal is to have engineers contribute and own coverage for their teams.
+- **We own test infrastructure**: Test infrastructure is under our ownership, we develop and maintain it with an emphasis on ease of use, ease of debugging, and orchestration ability.
+- `Future` **Disable feature by default until E2E test merged**: If a feature is to be merged without a QA test,
+it **must** be behind a feature flag (disabled by default) until a QA test is written and merged as well.
+
 ### Test Planning
 
 The goal of our test planning process is to ensure quality and manage risk in an efficient and effective manner.

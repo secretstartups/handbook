@@ -18,9 +18,9 @@ in the various scheduled pipelines that run on multiple environments.
 Quality department's on-call does not include work outside GitLab's normal business hours. Weekends and [Family and Friends Days](/company/family-and-friends-day/) are excluded as well.
 In the current iteration, we have a timezone based rotation and triage activities happen during each team member's working hours.
 
-Please refer to the [Debugging Failing tests](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/)
-guidelines for an exhaustive [list of scheduled pipelines](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines)
-and for [specific instructions on how to do an appropriate level of investigation and determine next steps for the failing test](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#steps-for-debugging-qa-pipeline-test-failures).
+Please refer to the [Debugging Failing tests](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/)
+guidelines for an exhaustive [list of scheduled pipelines](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#scheduled-qa-test-pipelines)
+and for [specific instructions on how to do an appropriate level of investigation and determine next steps for the failing test](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#steps-for-debugging-qa-pipeline-test-failures).
 
 ### Responsibility
 
@@ -32,7 +32,7 @@ and for [specific instructions on how to do an appropriate level of investigatio
 - Reporting and analyzing the End to End test failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines takes priority over [Nightly](https://gitlab.com/gitlab-org/quality/nightly/pipelines), MR, [GitLab `master`](https://gitlab.com/gitlab-org/gitlab/pipelines) or [GitLab FOSS `master`](https://gitlab.com/gitlab-org/gitlab-foss/pipelines) pipelines.
 - If there is a time constraint, the DRI should report and analyze the failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines just enough to determine if it is an application or an infrastructure problem, and [escalate as appropriate](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html). All the reported failures in those pipelines should be treated as ~priority::1/~severity::1 until it's determined that they're not. That means they should be investigated ASAP, ideally within 2 hours of the report. If the DRI will not be able to do so, they should delegate any investigation they're unable to complete to the Secondary. If the Secondary is not available or will also not be able to complete the investigations, solicit help in the #quality slack channel.
 - Consider [blocking the release by creating an incident](https://about.gitlab.com/handbook/engineering/releases/#i-found-a-regression-in-the-qa-issue-what-do-i-do-next) if new ~severity::1 regressions are found in non-reliable/smoke specs.
-- It is important that all other failure investigations are completed in a timely manner, ideally within 24 hours of the report. If the DRI is unable to investigate all the reported failures on [all the pipelines](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) on time, they should delegate the remaining work to the Secondary. If the Secondary is not available, solicit help in the #quality slack channel.
+- It is important that all other failure investigations are completed in a timely manner, ideally within 24 hours of the report. If the DRI is unable to investigate all the reported failures on [all the pipelines](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#scheduled-qa-test-pipelines) on time, they should delegate the remaining work to the Secondary. If the Secondary is not available, solicit help in the #quality slack channel.
 - Cross-cutting issues such as https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/530 are triaged by the on call DRI to determine the next action. Other team-members should notify the DRI if they come across such an issue. The DRI can inform the rest of the department via the #quality channel, if necessary.
 - Everyone in the Quality department should support the on-call DRI and be available to jump on a zoom call or offer help if needed.
 - Every day the APAC/EMEA Primary DRI summarizes the failures found for that day in the triage issue like [this](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues/45#note_408358615). This serves as an asynchronous handoff to the DRI in the other timezone.
@@ -83,7 +83,7 @@ September 2021 - January 2022
 
 ### Responsibilities of the DRI and Secondary for scheduled pipelines
 
-- The DRI does the [triage](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#steps-for-debugging-qa-pipeline-test-failures) and they let the counterpart SET know of the failure.
+- The DRI does the [triage](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#steps-for-debugging-qa-pipeline-test-failures) and they let the counterpart SET know of the failure.
 - The DRI makes the call whether to fix or quarantine the test.
 - The fix/quarantine MR should be reviewed by either the Secondary or the counterpart SET (based on whoever is available). If both of them are not available immediately, then any other SET can review the MR. In any case, both the Secondary and the counterpart SET are always CC-ed in all communications.
 - The DRI should periodically take a look at [the list of unassigned quarantined issues](https://gitlab.com/gitlab-org/gitlab/issues?state=opened&label_name%5B%5D=QA&label_name%5B%5D=bug) and work on them.

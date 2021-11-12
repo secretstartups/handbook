@@ -14,11 +14,11 @@ description: "This page describes the process and technical documentation around
 
 This page describes the process and technical documentation around reliable tests at [GitLab](http://gitlab.com/gitlab-org/gitlab), for both API and UI end-to-end tests located inside the `qa/qa/specs/features/` directory.
 
-Reliable tests are executed as a blocking step in the release process. It is vital that these tests are optimized to run quickly and do not have transient failures. Transient failures of `reliable` tests will lead to blocking the release team. 
+Reliable tests are executed as a blocking step in the release process. It is vital that these tests are optimized to run quickly and do not have transient failures. Transient failures of `reliable` tests will lead to blocking the release team.
 
 ### Defining a reliable test
 
-A reliable test is an end-to-end test that passes consistently in [all pipelines, including merge requests](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines), for at least seven days. Such a test can be given the `:reliable` tag.
+A reliable test is an end-to-end test that passes consistently in [all pipelines, including merge requests](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#scheduled-qa-test-pipelines), for at least seven days. Such a test can be given the `:reliable` tag.
 
 ### Promoting an existing test to reliable
 
@@ -31,7 +31,7 @@ If an end-to-end test consistently passes for 7 consecutive days (as mentioned a
 These are the steps required to promote a new test to reliable
 
 1. All new tests should start without any quarantine tags, and they should be monitored in all environments that are part of the release process for seven days.
-2. If the new tests fail, they are triaged and quarantined per the [pipeline triage procedure](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/).
+2. If the new tests fail, they are triaged and quarantined per the [pipeline triage procedure](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/).
 3. Once the failures are addressed, the quarantine tag is removed.
 4. If the new tests do not fail while out of quarantine for the seven days, they are promoted to reliable.
 
@@ -53,7 +53,7 @@ In this case, the following process should be followed.
 
 **Note:** A test is still reliable if it fails due to a bug in the application code, or due to issues with the application infrastructure that the test is not expected to handle.
 
-**Note 2:** there's a detailed list of possible failures available in the debugging failing tests guideline, in the [Classify and triage the test failure section](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#classify-and-triage-the-test-failure)
+**Note 2:** there's a detailed list of possible failures available in the debugging failing tests guideline, in the [Classify and triage the test failure section](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#classify-and-triage-the-test-failure)
 
 ### How to run the reliable tests
 
@@ -64,7 +64,7 @@ The following command is used to run the reliable tests:
 
 ### When and where the tests are run
 
-Reliable tests will be run as part of the release process, [during every deployment in staging, canary, and production](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) environments.
+Reliable tests will be run as part of the release process, [during every deployment in staging, canary, and production](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#scheduled-qa-test-pipelines) environments.
 
 This is in addition to the `smoke tests` that is already run as part of the release process
 

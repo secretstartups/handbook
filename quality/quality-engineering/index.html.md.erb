@@ -19,6 +19,10 @@ description: "quality Engineering Sub-Department"
 
 <iframe src="https://app.ally.io/public/LXRjSFaQpWM5PDC" class="dashboard-embed" height="1000" width="100%" style="border:none;"> </iframe>
 
+## Previous Quarter OKRs
+
+<iframe src="https://app.ally.io/public/mz3acmJoC4ZhQby" class="dashboard-embed" height="1000" width="100%" style="border:none;"> </iframe>
+
 ## Quality Engineering Structure
 
 Quality Engineering is function under the Quality Department operating as several teams of Software Engineers in Test, each led by a Quality Engineering Manager reporting to the Quality Engineering Sub-Department Leader.
@@ -70,6 +74,18 @@ roles_regexp = /(Engineer in Test)/
 
 <%= stable_counterparts(role_regexp: roles_regexp, direct_manager_role: manager_role) %>
 
+## Engage with Us
+
+Feel free to reach out to us by opening an issue on the [Quality Team Tasks project](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues) or contacting us in one of the Slack channels listed below.
+
+| Team                           | GitLab.com handle  | Slack channel | Slack handle |
+| ------------------------------ | ------------------ | ------------- | ------------ |
+| Quality Engineering            | [`@gl-quality/qe-sub-dept`](https://gitlab.com/gl-quality/qe-sub-dept) | [#quality](https://gitlab.slack.com/archives/C3JJET4Q6) | None |
+| [Dev QE team](dev-qe-team)     | [`@gl-quality/dev-qe`](https://gitlab.com/gl-quality/dev-qe) | [#g_qe_dev](https://gitlab.slack.com/archives/CU90UDHC6) | `@dev-qe-team` |
+| [Ops QE team](ops-qe-team) | [`@gl-quality/ops-qe`](https://gitlab.com/gl-quality/ops-qe) | [#g_qe_ops](https://gitlab.slack.com/archives/CUGNRS97V) | `@ops-qe-team` |
+| [Sec & Enablement QE team](sec-enablement-qe-team) | [`@gl-quality/enablement-qe`](https://gitlab.com/gl-quality/enablement-qe) | [#g_qe_enablement_secure](https://gitlab.slack.com/archives/CTP7N0PM4) | `@enablement-secure-qe-team` |
+| [Fulfillment & Growth QE team](fulfillment-growth-qe-team) | [`@gl-quality/fulfillment-qe`](https://gitlab.com/gl-quality/fulfillment-qe) | [#g_qe_fulfillment_growth](https://gitlab.slack.com/archives/C014UQAC8JW) |`@fulfillment-growth-qe-team` |
+
 ## How we Work
 
 While this team operates as a several teams, we emphasize on ensuring the prioritization and needs of Engineering Leaders via stable counterparts.
@@ -89,19 +105,20 @@ They work at a higher level and align cross-team efforts which maps to a [Develo
 The area a Quality Engineering Manager is responsible for is defined in the [Product Stages and Groups](/handbook/product/categories/#hierarchy) and part of their title.
 This is with the exception of the Engineering Productivity team which is based on the [span of control](/company/team/structure/#management-group).
 
-### Engage with Us
+## Building as part of GitLab
 
-Feel free to reach out to us by opening an issue on the [Quality Team Tasks project](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues) or contacting us in one of the Slack channels listed below.
-
-| Team                           | GitLab.com handle  | Slack channel | Slack handle |
-| ------------------------------ | ------------------ | ------------- | ------------ |
-| Quality Engineering            | [`@gl-quality/qe-sub-dept`](https://gitlab.com/gl-quality/qe-sub-dept) | [#quality](https://gitlab.slack.com/archives/C3JJET4Q6) | None |
-| [Dev QE team](dev-qe-team)     | [`@gl-quality/dev-qe`](https://gitlab.com/gl-quality/dev-qe) | [#g_qe_dev](https://gitlab.slack.com/archives/CU90UDHC6) | `@dev-qe-team` |
-| [Ops QE team](ops-qe-team) | [`@gl-quality/ops-qe`](https://gitlab.com/gl-quality/ops-qe) | [#g_qe_ops](https://gitlab.slack.com/archives/CUGNRS97V) | `@ops-qe-team` |
-| [Sec & Enablement QE team](sec-enablement-qe-team) | [`@gl-quality/enablement-qe`](https://gitlab.com/gl-quality/enablement-qe) | [#g_qe_enablement_secure](https://gitlab.slack.com/archives/CTP7N0PM4) | `@enablement-secure-qe-team` |
-| [Fulfillment & Growth QE team](fulfillment-growth-qe-team) | [`@gl-quality/fulfillment-qe`](https://gitlab.com/gl-quality/fulfillment-qe) | [#g_qe_fulfillment_growth](https://gitlab.slack.com/archives/C014UQAC8JW) |`@fulfillment-growth-qe-team` |
+- **GitLab features first**: Where possible we will implement the tools that we use as GitLab features.
+- **Build vs buy**: If there is a sense of urgency around an area we may consider buying/subscribing to a service to solve our Quality challenges in a timely manner.
+This is where building as part of GitLab is not immediately viable. An issue will be created to document the decision making process in our [team task](https://gitlab.com/gitlab-org/quality/team-tasks) issue tracker.
+This shall follow our [dogfooding](/handbook/engineering#dogfooding) process.
 
 ## Processes
+
+### General tips and tricks
+
+We have compiled a number of tips and tricks we have found useful in day-to-day Quality Engineering related tasks.
+
+For more information, please visit our [tips and tricks page](tips-and-tricks).
 
 ### On-call rotations
 
@@ -109,23 +126,55 @@ The Quality Engineering Sub-Department has two on-call rotations: pipeline triag
 
 For more information, please visit our [on-call rotation page](oncall-rotation).
 
-### Quad Planning
+### Quad planning
 
 The Quality Engineering Sub-Department helps facilitate the quad-planning process.
 This is the participation of Product Management, Development, UX, and Quality which aims to bring test planning as a topic before the development of any feature.
 
 For more information, please visit our [quad planning page](quad-planning).
 
-### Risk Mapping
+### Reliable tests
+
+Reliable tests have met stricter reliability criteria than other tests in our test suite. When a failure is seen in a reliable test, it's less likely to be flakiness and more likely to be a true issue.
+
+For more information, please visit our [reliable tests page](reliable-tests).
+
+### Risk mapping
 
 The Quality Engineering Sub-Department helps facilitate the risk mapping process. This requires the participation of Product Management, Development, UX, and the Quality team to develop a strategic approach to risk and mitigation planning.
 
 For more information, please visit our [risk mapping page](risk-mapping).
 
-### Test Engineering
+### Test engineering
 
 The Quality Engineering Sub-Department helps facilitate the test planning process for all things related to Engineering work.
 
 For more information, please visit our [test engineering page](test-engineering).
 
+### Test failures
+
+If you need to debug a test failure, please visit our [debugging QA pipeline test failures page](debugging-qa-test-failures).
+
+## Submitting and reviewing code
+
+For test automation changes, it is crucial that every change is reviewed by at least one Senior Software Engineer in Test in the Quality team.
+
+We are currently setting best practices and standards for Page Objects and REST API clients. Thus the first priority is to have test automation related changes reviewed and approved by the team.
+For test automation only changes, the Quality Engineering Sub-Department alone is adequate to review and merge the changes.
+
+## Weights
+
+We use Fibonacci Series for weights and limit the highest number to 8. The definitions are as below:
+
+| Weight | Description |
+| ------ | ----------- |
+| 1 - Trivial | Simple and quick changes (e.g. typo fix, test tag update, trivial documentation additions) |
+| 2 - Small | Straight forward changes, no underlying dependencies needed. (e.g. new test that has existing factories or page objects) |
+| 3 - Medium | Well understood changes with a few dependencies. Few surprises can be expected. (e.g. new test that needs to have new factories or page object / page components) |
+| 5 - Large | A task that will require some investigation and research, in addition to the above weights (e.g. Tests that need framework level changes which can impact other parts of the test suite) |
+| 8 - X-large | A very large task that will require much investigation and research. Pushing initiative level |
+| 13 or more | Please break the work down further, we do not use weights higher than 8. |
+
 ## Performance Indicators
+
+TBA
