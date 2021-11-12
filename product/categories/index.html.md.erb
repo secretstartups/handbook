@@ -150,7 +150,7 @@ perspective or limits to what one product manager can handle.
 
 ## Changes
 
-The impact of changes to stages and groups is felt [across the company](/company/team/structure/#stage-groups).
+The impact of changes to stages and groups is felt [across the company](/company/team/structure/#product-groups).
 
 All new category creation needs to be specifically approved via our Opportunity Canvas review process. This is to avoid scope creep and breadth at the expense of depth and user experience.
 
@@ -172,7 +172,6 @@ The following people need to be on the merge request so they stay informed:
 1. Engineering Productivity (by @ mentioning `@gl-quality/eng-prod`)
 1. The Product Marketing Manager relevant to the stage group(s)
 1. Senior Manager, Technical Writing
-
 
 After approval and before merging, obtain final confirmation from the Engineering Manager for Quality Engineering before proceeding with changes that:
 
@@ -201,6 +200,19 @@ Changes that require approval only from the relevant Product Director include:
 - Changing a category maturity date
 - Changes to section or group member lists
 - Changes to a category vision page
+
+### Changing category maturity
+
+We primarily use the [Category Maturity Scorecard](/handbook/engineering/ux/category-maturity-scorecards) process to determine category maturity. 
+
+Typically, category maturity moves up from planned to minimal to viable to complete to lovable. However, maturity can also be downgraded. For example, in cases where we discover a JTBD is not met (see [example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/74367)), or when we [change the definition of maturity](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/92858), we may choose to move category maturity down.
+
+When downgrading product maturity, we adjust our customer's current expectations about our product. This is particularly impactful to our go-to-market team members in customer success and product marketing. We need to do the following to enable alignment between all affected and interested parties:
+
+- Inform VP, Product Management by adding them as Reviewer on the MR
+- Notify the product group counterparts in the MR; Product Marketing, Product Designer, Engineering Manager, and Technical Writer
+- Post the MR in the [#customer-success slack channel](https://gitlab.slack.com/archives/C5D346V08) prior to merging, to allow the team to assess impact and adjust 
+- Post the MR in the [#product slack channel](https://gitlab.slack.com/archives/C0NFPSFA8) for awareness
 
 ## DevOps Stages
 
