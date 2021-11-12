@@ -128,6 +128,17 @@ Here are some example scenarios:
    [using Postgres locks/triggers to block writes](#using-postgres-lockstriggers-to-block-writes).
    Another way to mitigate risk is by doing tests early and using monitoring to
    confirm that `ci_*` tables are never updated via the `main` DB connection.
+1. After the "point of no return" there may also be other manual ways of
+   recovering. If writes have happened to the CI database but we still want to
+   rollback then we need to replay all of those writes against the main
+   database. This should be possible as all of those writes should be in WAL
+   files that are either locally available or archived. The tricky thing will
+   be that we cannot just replay the WAL files as we only want to replay
+   updates to the CI tables as the `main` database has also been taking writes
+   to non-CI tables. An approach could involve replaying these through another
+   database and then streaming the updates from that 3rd database using logical
+   replication. Read more at
+   <https://gitlab.com/gitlab-org/gitlab/-/issues/345560#replaying-ci-table-updates-back-to-main-using-a-3rd-database-and-logical-replication>.
 
 ## Process in diagrams and execution epic
 
