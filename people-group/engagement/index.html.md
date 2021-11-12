@@ -58,6 +58,9 @@ Culture Amp determines which questions are "focus recommendations" based on: imp
 
 In addition to leveraging insights from our Engagement Survey tool, Culture Amp, the People Group may add in a couple of additional questions particularly relevant to current business priorities, changes, and/or challenges. 
 
+#### FY'22 Pulse Engagement Survey Questions
+The FY'22 Pulse Engagement Survey included 19 rating questions and 3 open ended text questions. A complete list of questions can be found [here](https://docs.google.com/document/d/1i25j1t55NK48bkT2MJh-05pSOcKKU3QMrU5D4wknS5w/edit#).
+
 #### FY'22 Pulse Engagement Survey Timeline
 
 * 2021-11-04: Pulse Survey launch @ 8am PT
