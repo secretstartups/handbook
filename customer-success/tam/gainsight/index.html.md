@@ -86,16 +86,16 @@ In order for our customers to receive the surveys,  a [`GitLab admin` role needs
 
 ##### What is NPS?
 - Net Promoter Score - From 1-10
-- It is always one question - ‘how likely are you to recommend (company) to a friend or colleague?
+- It is always one question - "How likely are you to recommend (company) to a friend or colleague?"
 - A Promoter responds with a score of 9 or 10 and can signify a loyal and enthusiastic customer.
-- A Passive responds with 7 or 8, they are satisfied but not happy enough to be a promoter. It is a great target area for improving and learning from these customers
-- A Detractor responds anywhere from 0 to 6 and are unlikely to buy again and may also discourage others from buying
-- It is an attribute that can give another ‘lens’ into how a portion of the customer lifecycle has gone, or may go, such as onboarding (early enablement) and preparation to renew. 
-- The ‘rolled up’ score can give insight into trends - such as onboarding/enablement being bumpy. 
+- A Passive responds with 7 or 8. They are satisfied, but not happy enough to be a promoter. It is a great target area for improving and learning from these customers.
+- A Detractor responds anywhere from 0 to 6, are unlikely to buy again, and may also discourage others from buying
+- It is an attribute that can give another view into how a portion of the customer lifecycle has gone, or may go, such as onboarding (early enablement) and preparation to renew. 
+- The rolled up score can give insight into trends - such as onboarding/enablement being bumpy. 
 - In companies that have more complex/longer onboarding processes, the NPS typically starts lower and rises as the customer begins to feel more return on investment later in the lifecycle.  
 
 ##### What is NPS not?
-- A ‘determination’ of the health of a customer.  It is simply another attribute.
+- A determination of the health of a customer.  It is simply another attribute.
 
 ##### What is CSAT?
 - There are customer satisfaction questions, that often accompany the NPS question to get a deeper understanding of the customer sentiment at that point in the lifecycle.
