@@ -70,8 +70,8 @@ from Greenhouse.
 | `salary` with `currency` | `customLocalAnnualSalary` |
 | `starts_at` (Offer data) | `customDate` |
 | Mapped by Greenhouse offer entity using [this file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/entity_mapper.yml) | `customType` |
-| Mapped by Greenhouse offer entity using [this file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/entity_mapper.yml) | `customType1` |
-| (Hardcoded value - not from Greenhouse) | `customShareVehicle` |
+| Hardcoded to `RSU`, `ISO`, or `International` | `customType1` |
+| Hardcoded to `Stock Options` or `Restricted Stock Units` | `customShareVehicle` |
 | (Hardcoded value - not from Greenhouse) | `customReason` |
 | Yes | `customVariablePay` |
 | `bonus_currency_&_amount_(amount_per_year_as_defined_by_previous_field)` (Offer data) | `customAnnualAmountLocal` |
