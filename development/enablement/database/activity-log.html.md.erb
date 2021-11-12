@@ -11,13 +11,13 @@ title: Database Group Impact Log
 
 ## Overview
 
-This page captures the database group's impact and wins (most recent first). We've started doing this in September 2021.
+This page captures the database group's activity and documents the outcomes, key results and some takeaways (most recent first). We've started doing this towards the end of 2021.
 
 ### 2021:
 
 #### November 2021: Index bloat reduction on GitLab.com
 
-We implemented priority reindexing which allows us to target specific indexes as needed. This helped to [reduce index bloat built up throughout a large data migration](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/208#note_726520964). It reduced GitLab.com index bloat by >500 GB total (down to 17% from 25% relative btree bloat across the site) and [stabilized the index bloat forecast](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/201).
+We implemented priority reindexing which allows us to target specific indexes as needed. This helped to [reduce index bloat built up throughout a large data migration](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/208#note_726520964). It reduced GitLab.com index bloat by >500 GB total, which translates to reducing relative btree bloat across the site from 25% to 17% and freeing up 500 GB worth of disk space in the cluster. This has [stabilized the longer-term index bloat forecast](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/201).
 
 #### Throughout 2021: Prevent primary key integer overflow
 
