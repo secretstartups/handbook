@@ -21,7 +21,7 @@ Several TAMs find success by reviewing Gainsight at the beginning and/or end of 
 
 One of our TAMs created an [8 minute video](https://youtu.be/yk95b6u26So) of her workflow and how she integrates Gainsight into her day to day tasks to reduce the lift and ensure her accounts stay up to date.
 
-### Gainsight Dashboard
+### Gainsight dashboard
 
 When logging in, TAMs will begin on their dashboard. Gainsight's homepage will show a "TAM Portfolio" Dashboard which is a full list and overview of each TAM's customers. This dashboard defaults to show the book of business for the current user but can be filtered and configured in a variety of ways to view the information for specific TAMs, teams, etc.
 
@@ -70,15 +70,15 @@ If you'd like, you can toggle the "Scrolling" button at the top of any 360 page 
 
 Note at the top of the 360 page, there is a button for [Timeline](/handbook/customer-success/tam/gainsight/timeline/), which shows all logged activities for that specific customer. Gainsight has a number of options for logging a TAM's interactions with a customer. These are useful to build a historical record of what the customer has done with us, and the initiatives we've worked on.
 
-#### Following Accounts
+#### Following accounts
 
 On each account's 360, there is a "Follow" button next to the account name. If you are assigned as a TAM to an account, there is no need to follow the account, as you will automatically receive all notifications for that account. If you are not the TAM assigned to an account, you can follow the account to receive the same notifications the TAM assigned does.
 
-#### Referenceable Customers
+#### Referenceable customers
 
 The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/strategic-marketing/customer-reference-program/). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer]().
 
-#### Customer NPS/CSAT Surveys
+#### Customer NPS/CSAT surveys
 
 The purpose of these surveys are to measure customer loyalty, satisfaction, and enthusiasm with GitLab. The onboarding NPS/CSAT serves as an early warning system for the customer beyond what TAM sentiment or product usage data can tell us. It is another attribute that can point to risk early in an account, enabling faster time to resolution. The renewal NPS/CSAT serves as an additional attribute into our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
 
@@ -143,7 +143,7 @@ TAMs can send these emails to customers in one of two ways:
 
 Please note we recommend [BCCing Salesforce](/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce) on all emails rather than syncing every email to Gainsight, although it is also possible to [BCC Gainsight](/handbook/customer-success/tam/gainsight/timeline/#bccing-emails).
 
-## Salesforce and Zendesk Syncing
+## Salesforce and Zendesk syncing
 
 Gainsight is synched with Salesforce so that everything that happens in Gainsight is pulled into Salesforce, allowing Salesforce to remain our SSOT but also allowing us to not have to duplicate information. Gainsight is also integrated and syncs with Zendesk so TAMs can view customer support tickets within Gainsight.
 
