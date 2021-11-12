@@ -489,7 +489,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="tr-auth-matrix">Decisions to file a lawsuit or accept an injunction or consent decree (other than collection of receivables in due course)</div>
   <div class="tr-auth-matrix">Chief Legal Officer Approves</div>
   <div class="tr-auth-matrix">Decision to withdraw from/settle a lawsuit or legal dispute > $250,000</div>
-  <div class="tr-auth-matrix">Approves. See [this document](https://docs.google.com/document/d/1AmKSzBaLbBmvlSpxFXmf0koVlqLnhqDSm1QeWhRphs0/edit) for approval thresholds (internal only) </div>
+  <div class="tr-auth-matrix">Approves. See <a href="https://docs.google.com/presentation/d/1Y4nw-kNsMaVyy8UEwXC9rCDXOakA4bgYmWjFsuNKayg/edit?usp=sharing">this document</a> for approval thresholds (internal only) </div>
   <div class="tr-auth-matrix">Change to equity structure and option plans</div>
   <div class="tr-auth-matrix">Approves</div>
   <div class="tr-auth-matrix">Severance payments greater than 4 weeks of severance payments or the amount of severance payment required by local law or regulation which are not provided for in Company policies or plans</div>
