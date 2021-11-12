@@ -152,6 +152,10 @@ Any line items within a category or subcategory default inherit the details from
 - GitLab Procurement issue URL - this will auto populate for you if you've created the issue with a click of a button within Allocadia
 - GL Account - will be selected for you based on your input in Spend Type above. Note that we have three different fields for GL Account - one for FMM, one for Contribute and one for the rest of marketing. If there are any problems with the GL account during integrations, remind support of this fact to expedite a response.
 
+##### Useful tricks inside the Activity Grid 
+1. Do you find yourself wanting to copy & paste a line item from a diffent activity plan into your activity plan? If so, then you will need to (right click) Copy/Paste the line item within the same activity plan, and then use the right-click "Move" option to move the line item copy to the correct activity plan. Within the Field Marketing team, we ask FMMs to transfer dollars to the ALL plans for shared activity, vs. having multiple line items for the same activity in multiple activity plans. Those instructions can be [found here](/handbook/marketing/field-marketing/#the-field-marketing-budget) pt. 12. 
+
+
 #### 🗓 GitLab Internal Calendars
 
 Certain groups within GitLab have the ability to create a calendar invite directly from the details panel within Allocadia.
