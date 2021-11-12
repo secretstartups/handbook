@@ -15,7 +15,7 @@ This role will help enable communication, collaboration, strategy execution, and
 - Manage, track, and moderate OKRs for Engineering to ensure CTO Staff remains on track, and know their attention points throughout the quarter.
 - Lead the retrospection of the previous quarter OKRs in the first month of your term.
 - Support the creation of investor updates, pitch decks, speeches, conference submissions, and presentations on behalf of the CTO.
-- Effectively triages escalations. Our teams often rely heavily on quick root-cause analyses and fast information sharing. Time-sensitive escalations may include driving cross-functional conversations to get to the bottom of complex issues that have become a business blocker or helping ensure a fast turnaround for specific prospects and customer needs
+- Effectively triage escalations. Our teams often rely heavily on quick root-cause analyses and fast information sharing. Time-sensitive escalations may include driving cross-functional conversations to get to the bottom of complex issues that have become a business blocker or helping ensure a fast turnaround for specific prospects and customer needs.
 - Maintain and foster a close partnership, collaborating effectively with the CEO’s Chief of Staff on strategic initiatives
 - Do weekly 1:1 meetings with your manager and your peers (CTO Staff/Direct reports)
 - Curate the Engineering Week-in-review each Friday ensuring the content is relevant
