@@ -11,7 +11,7 @@ This role will help enable communication, collaboration, strategy execution, and
 - Create a structure for the CTO to improve visibility and accountability with their direct reports 
 - Manage weekly executive staff meetings, including (but not limited to) setting the agenda and providing insights and analysis to inform strategic conversations. Document and communicate decisions and action items from meetings. Ensure follow-up and closure of action items to increase accountability.
 - Act as a sounding board to the CTO for new ideas and initiatives.
-- Initiate and guide the CTO team OKR process according to the [OKR schedule](https://about.gitlab.com/company/okrs/#schedule/) (in partnership with the Chief of Staff to the CEO)
+- Initiate and guide the CTO team OKR process according to the [OKR schedule](https://about.gitlab.com/company/okrs/#schedule/) (in partnership with the Chief of Staff to the CEO).
 - Manage, track and moderate OKRs for Engineering ensuring CTO Staff remains on track and knows their attention points throughout the quarter
 - Lead the retrospection of the previous quarter OKRs in the first month of your term
 - Supports the creation of investor updates, pitch decks, speeches, conference submissions, and presentations on behalf of the CTO
