@@ -278,7 +278,7 @@ Find out more on the social media page[here](/handbook/marketing/corporate-marke
 
 ### Working with PMG
 
-- For [paid social campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#paid-social), details on how we collaborate with the Digital team can be [found here](UPDATE WHEN IM PAGE MERGES).
+- For [paid social campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#paid-social), details on how we collaborate with the Digital team can be [found here](/handbook/marketing/integrated-marketing/#digital-campaigns).
 
 ### Tracking success of digital tactics 
 Please ensure you are using our UTM tracker (look up `Google Analytics Campaign Tagging Tool - UTM generator for tracking` in the Gdrive to find doc). In order to identify which campaigns are from the Field Marketing team, you must add the letters fmm at the end of your campaign name in column E. All lowercase with no spaces or special characters. This allows us to pull ROI reporting, so please don't leave these letters out or else you will lose reporting from a dashboard standpoint. 
