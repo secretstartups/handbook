@@ -27,7 +27,8 @@ TBD
 
 ### Exit Criteria (0% completed)
 
-1. ...
+1. Improve built in demo data
+1. Delivery 
 1. ...
 
 
