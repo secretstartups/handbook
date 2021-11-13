@@ -260,9 +260,9 @@ Required of/by Team Members Prior to Traveling:
 - At this time, only vaccinated team members may request travel*.  
 - Travel requests should be made for any mode of travel where customers and/or co-workers will be meeting in person.  
 - Vaccinated team members must wear a mask that meets CDC or WHO guidelines during travel to their destination(s), and must continue to follow mask requirements meeting CDC/WHO guidelines or local, venue or client requirements, whichever is most strict.
-- Non vaccinated team members (including those with valid exemptions for vaccinations) are currently not allowed to travel.  
+- Except in extremely limited circumstances as may be required by applicable local law, non vaccinated team members are currently not allowed to travel
 - All international travelers must follow each country's guidelines governing entry and re-entry. 
-- As a reminder, travel is entirely voluntary, and no employment decisions are based on a Team Member’s decision to travel or not to travel. 
+
 
 *All team members must be fully vaccinated (two weeks post final vaccination)
 
