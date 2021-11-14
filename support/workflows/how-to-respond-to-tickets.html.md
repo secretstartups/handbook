@@ -74,7 +74,7 @@ Notice we asked for what we needed, and we’ll be able to help. Let’s make it
 >
 > Once you send these over and help us understand how you are getting to the slow state we’ll be happy to help you dive in some more.” (This is us reassuring them we’ll help.)
 
-We’ve asked for what we need early. Hit them with it, so they can start thinking
+We’ve asked for what we need early. Emphasize the ask _early_, so they can start thinking
 on it and if they stop reading right there, they didn’t miss the ask. We’ve given
 a hypothesis which is something for them to chew on and understand our vantage.
 We don’t want to _serve_ our customers we want to _partner_ with them. This is
