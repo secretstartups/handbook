@@ -77,7 +77,7 @@ Notice we asked for what we needed, and we’ll be able to help. Let’s make it
 We’ve asked for what we need early. Emphasize the ask _early_, so they can start thinking
 on it and if they stop reading right there, they didn’t miss the ask. We’ve given
 a hypothesis which is something for them to chew on and understand our vantage.
-We don’t want to _serve_ our customers we want to _partner_ with them. This is
+We don’t want to _serve_ our customers, we want to _partner_ with them. This is
 one way for them to see us as a peer vs. “support minds as a service.”
 
 We then make sure to let them know _we are still here_ and will be when they come back.
