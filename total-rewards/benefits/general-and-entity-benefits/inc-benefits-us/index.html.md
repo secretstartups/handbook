@@ -141,6 +141,8 @@ In Network:
 *** Cigna will provide an extended network PPO Plan for Utah team members which will include the Intermountain Healthcare System.
  
 ^ The linked Prescription Drug List is subject to change. When making a change mid-year, Cigna states that they will send out the following communication to impacted members: centralized notification 60 days prior, 2 letters before the change, and 1 letter after the change.
+
+Accredo is Cigna's specialty pharmacy. For more information on managing your speciality medication please review the [Accredo Customer Flyer](https://drive.google.com/file/d/1qnRKNGj9a9L9j-7Of-ru32sNSEm__2FD/view?usp=sharing).
  
 **Team Member Costs:**
  
