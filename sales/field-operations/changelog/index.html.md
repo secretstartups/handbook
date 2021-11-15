@@ -12,13 +12,28 @@ description: "A running log of Field Operations changes (Sales Ops, CS Ops, Chan
 
 The Field Operations Changelog keeps a running log of Field Ops changes related to Sales Ops, CS Ops, Channel Ops & Deal Desk. The log is organized by fiscal year/quarter and sub-organized by the bi-weekly Field Ops release milestone/epic. It was started in Q3-FY22 and is organized by newest updates at the top. Any entries that were included in a Field Ops Release are **bolded**.
 
-To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/). 
+To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/).
+
+## Q4-FY22
+
+### 2021-11-15 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/72))
+
+**Deal Desk: [6 new Annual True-Up SKUs](/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-annual-true-ups)**
+
+**Channel Ops: [Reseller Name Now Populates on Distributor Order Forms](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1942)**
+
+**Channel Ops: [GCP & AWS Marketplace Private Offer FAQ](https://gitlab-com.gitlab.io/alliances/alliances-internal/)**
+
+**Sales Ops: [SFDC Bookings Report Access](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2588)**
+
+**Sales Ops: [Archiving SFDC Reports Not Used in 180+ Days](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2486)**
+
 
 ## Q3-FY22 
 
 ### 2021-10-25 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/67))
 
-**SOPS: [Autopopulate Billing Address on Account](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2033)
+**SOPS: [Autopopulate Billing Address on Account](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2033)**
 
 ### 2021-10-11 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/65))
 
