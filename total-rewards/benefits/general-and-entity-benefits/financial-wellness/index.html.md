@@ -1,4 +1,3 @@
-
 ---
 layout: handbook-page-toc
 title: Financial Wellness 
@@ -20,6 +19,8 @@ If you have any great resources that you have used in the past, please feel free
 ## Upcoming Resources for Team Members 
 
 [**Modern Health Money Management Circle:**](#modern-health) GitLab will be offering a **Money Management Circle** through Modern Health with an emphasis on the psychological component of Financial Wellness.
+* **When:** 2021-11-22 at 8:30 am PT.  
+* **Recording:** Once recorded, a link will be added to this handbook section for team members to view asynchronously. 
 
 **Session Description:** 
   * What does “wealth” mean to you? Understanding the psychology of money and wealth can help you achieve your financial goals. Join this session with a Modern Health provider to learn how to assess your financial situation and identify your financial values and self-identity. 
@@ -35,8 +36,6 @@ If you have any great resources that you have used in the past, please feel free
 * Past money issue, Future money issues
 * You must have your financial foundations in place
 * Modern Health Resources
-* **When:** 2021-11-22 at 8:30 am PT.  
-* **Recording:** Once recorded, a link will be added to this handbook section for team members to view asynchronously. 
 
 [**SageView Financial Wellness Program:**](#sageview)
 GitLab will be hosting a kickoff call with SageView to discuss an overview of the program’s benefit offerings for team members.
@@ -63,7 +62,8 @@ In order for _managers_ to understand the full picture of their team members’ 
 The Total Rewards Summary will be available to managers of team members who have been granted equity on or before 2021-09-03. All RSU grants will not be shown on these summaries as the next grant date for RSUs to be reviewed and approved is 2021-12-15. 
 
 * Log into [BambooHR](https://gitlab.bamboohr.com/).
-* Navigate to the profile of one of your direct reports. Select the Documents tab and expand the `Annual Compensation Review Total Rewards Statements` folder. * You can either select the linked document name to open a quick view of the Total Rewards Summary in BambooHR or select the download button that appears to the right of the letter. If you are a manager and are unable to see the Documents tab for your team member, please reach out to `total-rewards@ gitlab` and we will review your access level.
+* Navigate to the profile of one of your direct reports. Select the Documents tab and expand the `Annual Compensation Review Total Rewards Statements` folder. 
+* You can either select the linked document name to open a quick view of the Total Rewards Summary in BambooHR or select the download button that appears to the right of the letter. If you are a manager and are unable to see the Documents tab for your team member, please reach out to `total-rewards@ gitlab` and we will review your access level.
 * [Total Rewards Summary example](https://drive.google.com/file/d/1TxOdKxPuFvTRJIswZQEJTmd5IGEMZgx7/view?usp=sharing)
    * Each summary will have a Cash Compensation section outlining the current (FY22) compensation as of November 1st.
    * For team members who are paid a base salary only, the `Target Bonus (Variable)` column will show `Not Applicable`. 
