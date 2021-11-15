@@ -37,7 +37,7 @@ This working group will integrate new Plan stage features in GitLab’s own agil
 * [x] Finalized Q3 OKR's => **Done**
     * [FY21-Q3 Engineering Division OKRs](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8303)
     * Development: [KR: Project planning & Portfolio management](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8429)
-      * [KR: 50% of ~devops::plan ~feature issues moved to ~"workflow::In Dev" should have an iteration assigned](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9058) => 86%
+      * [KR: 50% of ~devops::plan ~"type::feature" issues moved to ~"workflow::In Dev" should have an iteration assigned](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9058) => 86%
       * [KR: 50% of the ~devops::plan issues in a single iteration is burned down](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9059) => 100%
     * UX: [KR: Dogfood the Iterations feature in Plan to decrease the time issues spend in workflow::design](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8436)
     * Quality: [KR: Dogfood project planning and project management feature for proactive quality test-planning processes](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8369)
