@@ -17,8 +17,8 @@ canonical_path: "/company/team/structure/working-groups/fedramp-execution/"
 |-----------------|-------------------|
 | Date Created    | November 25, 2020 |
 | End Date        | TBD               |
-| Slack           | [#wg_fedramp-execution](https://gitlab.slack.com/archives/C02LT4Q96CC) (only accessible from within the company) |
-| Google Doc      | Search "FedRAMP Execution Working Group Agenda" in Google Drive (only accessible from within the company) |
+| Slack           | [#wg_fedramp](https://gitlab.slack.com/archives/C0110E0NMT9) (only accessible from within the company) |
+| Google Doc      | Search "FedRAMP Working Group Agenda" in Google Drive (only accessible from within the company) |
 | Issue Board     | TBD             |
 
 ### Exit Criteria
@@ -31,5 +31,8 @@ This working group will organize all the domain experts needed, surface critical
 |--------------------------------|-----------------|--------------------------------------------|
 | Facilitator                    | Johnathan Hunt  | VP of Security                             |
 | Functional Lead: PM            | Josh Lambert    | Director of Product Management, Enablement |
-| Functional Lead: TBD           | TBD             | TBD                                        |
+| Functional Lead: Pub Sec       | Bob Stevens     | Area Vice President, Public Sector Sales   |
+| Functional Lead: Compliance    | Julia Lake      | Director, Security Assurance               |
 | Executive Stakeholder          | Eric Johnson    | Chief Technology Officer                   |
+| Member                         | Jim Riley       | Federal ASM, Public Sector Sales           |
+| Member                         | Chris Maurer    | Public Sector Manager, Customer Success    |
