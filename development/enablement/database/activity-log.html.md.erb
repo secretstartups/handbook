@@ -15,10 +15,16 @@ This page captures the database group's activity and documents the outcomes, key
 
 ### 2021:
 
-#### November 2021: Index bloat reduction on GitLab.com
+#### November 2021:
+
+This month, we shipped three changes to GitLab.com which led to a 20% reduction in total database size (about 3.3 TB total reduction):
+
+1. Priority reindexing and reindexing support for very large btree and GIN indexes
+1. [Drop deprecated tables](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/73841)
+1. [Partitioning-based retention strategy for time-decay data](https://gitlab.com/gitlab-org/gitlab/-/issues/332199)
 
 We implemented priority reindexing which allows us to target specific indexes as needed. This helped to [reduce index bloat built up throughout a large data migration](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/208#note_726520964). It reduced GitLab.com index bloat by >500 GB total, which translates to reducing relative btree bloat across the site from 25% to 17% and freeing up 500 GB worth of disk space in the cluster. This has [stabilized the longer-term index bloat forecast](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/201).
 
-#### Throughout 2021: Prevent primary key integer overflow
+We released a data retention strategy for time-decay data which is based on dropping partitions rather than deleting records. This solves a major problem on GitLab.com, where a deletion-based strategy hasn't been able to keep up and generated load. After switching on the new strategy, we immediately dropped 2 TB worth of data in `web_hook_logs`.
 
-...
+![gitlab.com size reduction](./2021-11-15_gitlabcom_size_reduction.png)
