@@ -194,8 +194,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-01-03 | 2022-01-07 | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager | AVAILABLE - REMOTE |
 | 2022-01-10 | 2022-01-14 | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager |
 | 2022-01-18 | 2022-01-21 | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) |
-| 2022-01-24 | 2022-01-28 | AVAILABLE - REMOTE | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager |
-| 2022-01-31 | 2022-02-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-01-24 | 2022-01-28 | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager |
+| 2022-01-31 | 2022-02-04 | AVAILABLE - REMOTE | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer |
 | 2022-02-07 | 2022-02-11 | UNAVAILABLE - SKO | UNAVAILABLE - SKO |
 | 2022-02-14 | 2022-02-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-02-22 | 2022-02-25 | AVAILABLE - REMOTE (short week due to holiday) | AVAILABLE - REMOTE |
