@@ -223,6 +223,7 @@ In case of an error poped-up during the SQL execution and gathering of SQL-based
 In this situation, when any record appeared in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` do the following actions:
 
 - Analyze which query and metrics cause an error and try to run it manually to ensure what is the root cause of the problem. Probably will be a problem with missing objects: tables or columns or bad queries we received
+- Details for the error tracing should be find running the script **[service_ping error tracing.sql](https://gitlab.com/gitlab-data/analytics/-/snippets/2206630)**
 - If fixing the issue take more than usual, and/or change is a bit more complex, inform the team as per instructions from [#triage-faq](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/#triage-faq)
 - Fix the issue (all depends is query is bad or some tables/columns are missing)
 - Deploy the code
