@@ -208,6 +208,7 @@ After assessing team member growth based on the four pillars outlined above, man
 
 "Developing" growth generally refers to a team member who is not working at full growth against the roles and responsibilities outlined in their Job Family. There could be a variety of reasons for this, including:
 
+* They are new to their role and did not have the time to demonstrate willingsness and/or ability aligned with the pillars of growth
 * Lack of motivation to learn new skills or take on new projects
 * Motivated to do what is needed in current job, not in what is required in a higher level
 * Not expressing interest or demonstrating desire to move up or laterally 
@@ -215,7 +216,7 @@ After assessing team member growth based on the four pillars outlined above, man
 Please note that "developing" growth *does not* equate to "developing" performance, but correlates with the pillars of growth outlined in the "measuring growth" section below. 
 
 Examples:
-- A team member has recently been promoted and is struggling or hasn't had the time to expand their scope to meet the requirements of their new role.  
+- A team member is recently promoted or is new to the company, and hasn't had sufficient time to demonstrate the pillars of growth for a sustained period of time (and at the new level, if recently promoted) 
 - A team member has actively expressed that they do not have an interest in learning new skills or take on new projects. In a day-to-day they show self-awareness but they have not shown great adaptability, expandability and consistency to further expand on their role and responsibilities. 
 
 #### Growing
