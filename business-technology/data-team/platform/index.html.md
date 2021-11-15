@@ -103,6 +103,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Zendesk](https://www.zendesk.com/) | [Stitch](https://www.stitchdata.com/) | `zendesk_stitch` | `zendesk` | Support | 6h / 24h |  No |
 | [Zoom](https://zoom.us/) | [Meltano](https://meltano.com/) | `tap_zoom` | N/A | People | 24h / N/A |  No |
 | [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h | Yes |
+| [Zuora Central Sandbox](https://www.test.zuora.com/) | [Fivetran](https://fivetran.com/) | `zuora_central_sandbox_fivetran` | `zuora_central_sandbox` | Finance |  24h / 48h | Yes |
 | [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue) | [Airflow](https://airflow.gitlabdata.com/home)  | `zuora_revenue` | `zuora_revenue` | Finance | 24h / 48h | Yes |
 | [Zoominfo](https://www.zoominfo.com/) | [Snowflake Data Share](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#snowflake-data-share)  | x | `zoominfo` | Analytics & Insights, Product, Sales, Marketing | 24h / N/A  | No  |
 
