@@ -99,15 +99,26 @@ A QLE is a change in your situation — like getting married, having a baby, etc
  
 ##### Process for submitting a QLE
 
-1. Log into [PlanSource](https://benefits.plansource.com/).
-1. Select `Update My Benefits`.
-1. Select the Life Event that applies to your situation from the list.
-1. Follow the prompts to review your information and make any changes to dependent(s), if applicable.
-1. Customize your benefits package with any changes. Please note that the system will require you to go into each coverage, even if you had previously declined and would like to continue to decline or are similarly making no changes to the coverage. 
-1. Once you have made all  of your changes, please click the button to Review & Check Out.
-1. You will be taken to a screen to review the costs of your benefits and will need to click Checkout again to confirm your changes.
+1. Log into [PlanSource](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#logging-into-plansource)
+1. Select `Update your current Benefits`.
+1. Select the Life Event that applies to your situation from the list & enter the event date. 
+1. The system will ask you to review your personal details, update as necesary and select continue.  
+1. If your Life Event includes adding a new dependent, select `Add Dependent` and add their information. (For Birth Event: If you are still pending the SSN for your newborn, you may continue the request without this information and can add later when received.)  
+1. Click `Select Benefits` and the system will lead you to the Benefit plans you can update.
+     - **If adding a dependent to the plan(s)**, scroll to the plan(s) you wish to add them on and select `View or Change Plan`. On the next page, select the specific plan you want to enroll in (if you wish to continue on your current plan, select that plan). On the specific plan page, add your new dependent by checking their name. Click `Update Cart`.
+     - **If removing a dependent from the plan(s)**, scroll to the plan(s) you wish to remove them from and select `View or Change Plan`. On the next page, select the specific plan you want to enroll in without your dependent (if you wish to continue on your current plan, select that plan). On the specific plan page, remove your dependent by unchecking their name. Click `Update Cart`.
+     - **Adjust savings accounts or insurance plans** by clicking on the `View or Change Plan` button next to the plan name. Click `Update Cart` after you've made your desired changes.
+1. Once you have made all of your changes, please click the button to `Review and Checkout`
+1. You will be taken to a screen to review the costs of your benefits and will need to click Checkout again to confirm your changes. The request will be routed to the Total Rewards team for review. 
 
-TODO Add QLE documentation info
+If your Qualifying Life Event requires documentation the steps below will follow your QLE request
+
+1. Following your QLE request, you will recieve an email from PlanSource requesting documentation for your Qualifying Life Event.
+1. Log into [PlanSource](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#logging-into-plansource). On your PlanSource Homepage, scroll down to "Your To-Do List". Select the Task requesting documentation for your life event.
+1. Upload the documentation in to PlanSource. 
+1. Once submitted the Total Rewards Team will review your request and documentation for approval. 
+
+
  
 #### Cigna Medical Plans (2021)
  
