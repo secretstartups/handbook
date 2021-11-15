@@ -40,9 +40,7 @@ In the last quarter of FY21, the Learning and Development team began to brainsto
 
 ## Meeting cadence
 
-Leadership Chats are hosted 1x per month, with 2-3 sessions each time to accommodate multiple time zones. 2x per quarter, these calls are lead by managers attending the call. 1x per quarter, the Learning and Development team will facilitate the conversation.
-
-These calls will kick off starting in February 2021. The first session will be facilitated by the Learning and Development team. From this kick off, the rotation of 1x L&D lead, followed by 2x manager lead, will begin. The meetings rotate on multiple days of the week to better accommote attendance. 
+Leadership Chats are hosted 1x per month, with 2-3 sessions each time to accommodate multiple time zones. These calls are lead by managers attending the call.
 
 We hope that managers can find a day or time at least 1x per quarter to attend!
 
@@ -52,8 +50,6 @@ We hope that managers can find a day or time at least 1x per quarter to attend!
 | 2nd month of the quarter | Third Tuesday | 12pm UTC Tuesday, 9pm UTC Tuesday, 4am UTC Wednesday | independent manager conversation |
 | 3rd month of the quarter | Third Thursday | 12pm UTC Thursday, 9pm UTC Thursday, 4am UTC Friday | independent manager conversation |
 
-
-Note: Due to a planned commitment by the L&D team, the first session will be held on the last Wednesday of February 2021. In future quarters, the call will be hosted based on the cadence above.
 
 ## Attendance
 
