@@ -528,17 +528,14 @@ If you have any questions or concerns about next steps, please contact your mana
 ## FAQs 
 
 ### Performance/Growth Review General FAQs
-* **How is this different from what we did in the past?** <br>
-    * **Addition of the Talent Assessment Process:** Prior to 2020, we did not have a company-wide talent assessment process. Some groups leveraged a 9-box format or skill/will matrices, but there was no formal program to support the review of team members. With the Performance/Growth process, talent-review cycles take place company-wide twice each year, using the same assessment template. <br>
-    * **Changes to the Annual Compensation Review Program:** In the past (FY20), in preparation for the Annual compensation review, managers went through a process to assess someone’s knowledge, skills, and abilities, also known as their *compa group*. This would directly feed as an input to the compensation review program, in addition to location factor changes, and cost of living adjustments. The compa group assessment has been replaced with the Performance/Growth factor. Location factor changes will continue to be incorporated into the program. As of XXX date, we have removed cost-of-living adjustments. <br>
 
 * **Why does this matter to me?** <br> 
-The Talent Assessment involves both team members and managers. 
-    * Team Members’ are assessed according to [performance](/handbook/people-group/talent-assessment/#what-is-performance) and [growth](/handbook/people-group/talent-assessment/#what-is-growth). Team Members should be prepared to have a conversation with their manager about their performance and growth in **December/January** each year. <br>
+The Talent Assessment involves all team members and managers. 
+    * Team Members are assessed according to [performance](/handbook/people-group/talent-assessment/#what-is-performance) and [growth](/handbook/people-group/talent-assessment/#what-is-growth). Team Members should be prepared to have a conversation with their manager about their performance and growth in **December/January** each year. <br>
     * Managers assess their team members' [performance](/handbook/people-group/talent-assessment/#what-is-performance) and [growth](/handbook/people-group/talent-assessment/#what-is-growth). Managers attend calibration meetings in which team members' ratings are discussed and evaluated to ensure consistency and minimize bias. Once the program closes, managers are responsible for communicating Performance/Growth Factor to team members.<br>
 
 * **How does this impact the way I work at GitLab?** 
-    * The Talent Assessment does not directly impact the way that you do your daily work at GitLab. [Performance](/handbook/people-group/talent-assessment/#what-is-performance) is evaluated against your [job family responsibilities](/handbook/people-group/talent-assessment/#job-family-responsibilities-and-functional-competencies) and [GitLab competencies](/handbook/people-group/talent-assessment/#gitlab-competencies). <br>
+    * The Talent Assessment does not directly impact the way that you do your daily work at GitLab. [Performance](/handbook/people-group/talent-assessment/#what-is-performance) is evaluated against the [job family responsibilities](/handbook/people-group/talent-assessment/#job-family-responsibilities-and-functional-competencies) and [GitLab competencies](/handbook/people-group/talent-assessment/#gitlab-competencies) that you already focus on in your daily work. <br>
 
 * **How does this impact the teams I lead?** 
     * As a manager, you assess your team members' [performance](/handbook/people-group/talent-assessment/#what-is-performance) and [growth](/handbook/people-group/talent-assessment/#what-is-growth). Managers attend calibration meetings in which team members' ratings are discussed and evaluated to ensure consistency and minimize bias. Once the program closes, managers are responsible for communicating Performance/Growth Factor to team members.<br>
@@ -547,7 +544,7 @@ The Talent Assessment involves both team members and managers.
     * You can reach out to your manager or your [aligned People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). <br>
 
 * **As a manager, when reviewing my team members, what is the difference between Developing and Underperformance?**
-    * The "Developing" rating means that the team member is not (yet) meeting all of the responsibilities and competencies for the role. This can be for many reasons, including a recent start date. By contrast, [underperformance](/handbook/leadership/underperformance/) involves *consistently* not meeting the goals and requirements of the job; GitLab follows specific processes to attempt to remediate. 
+    * The "Developing" rating means that the team member is not (yet) meeting all of the responsibilities and competencies for the role. This can be for many reasons, including a recent start date. By contrast, [Underperformance](/handbook/leadership/underperformance/) involves *consistently* not meeting the goals and requirements of the job; GitLab follows specific processes to attempt to remediate. 
     * While everyone within the Developing category isn't automatically Underperforming, a team member who is Underperforming would also be grouped into the Developing category, because Performing is not an accurate assessment. 
     * Team members who are on a formal Underperformance remediation plan, such as a [Performance Improvement Plan](/handbook/leadership/underperformance/#performance-improvement-plan-pip), are not eligible for a compensation increase as a result of the [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/).
 
@@ -563,6 +560,11 @@ The Talent Assessment involves both team members and managers.
     No. For 2021, only the performance assessment ties directly to compensation.
 
     If you have any questions, please reach out to your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
+
+* **How is this different from what we did in the past?** <br>
+    * **Talent Assessment Process:** Prior to FY21, GitLab did not have a unified company-wide talent assessment process. Some groups leveraged a 9-box format or skill/will matrices, but there was no formal program to support the review of team members. With the Performance/Growth process, talent-review cycles take place company-wide twice each year, using the same assessment template. <br>
+    * **Changes to the Annual Compensation Review Program:** Prior to FY21, in preparation for the Annual compensation review, managers went through a process to assess team members' knowledge, skills, and abilities, summarized as their *compa group*. This was an input to the compensation review program, in addition to location factor changes, and cost of living adjustments. Starting FY21, the compa group assessment has been replaced with the Performance/Growth factor. Location factor changes will continue to be incorporated into the program. As of XXX date, we have removed cost-of-living adjustments. <br>
+
 
 ### Performance/Growth Communication FAQs
 * **Can my performance factor be changed?**
