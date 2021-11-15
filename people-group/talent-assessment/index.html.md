@@ -557,7 +557,7 @@ The Talent Assessment involves all team members and managers.
     Team members: It is very important that you are transparent with your manager if you are experiencing significant impact from COVID that has affected your overall performance. Managers cannot be mindful of the points above during assessment periods if they are not aware and expectations are not aligned. If it is helpful, feel free to use the [COVID Self-Evaluation template](/handbook/total-rewards/benefits/covid-19/#self-evaluation) to facilitate a discussion with your manager.
 
 * **Will my Growth assessment impact my compensation?** 
-    No. For 2021, only the performance assessment ties directly to compensation.
+    Yes in FY22 both Performance, Growth and Key Talent Assessment can impact your Total Rewards. 
 
     If you have any questions, please reach out to your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
 
