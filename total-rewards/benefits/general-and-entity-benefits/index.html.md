@@ -58,6 +58,10 @@ In the unfortunate event that a GitLab team member passes away, GitLab will prov
   * The team member must have indicated in writing to whom the money should be transferred. To do this you must complete the [Expression of wishes](https://docs.google.com/document/d/1bBX6Mn5JhYuQpCXgM4mkx1BbTit59l0hD2WQiY7Or9E/edit?usp=sharing) form. To do this, first copy the template to your Google Drive (File -> Make a copy), enter your information, sign electronically. To sign the document, use a free document signing program like [smallpdf](https://smallpdf.com/sign-pdf); or you can print it, sign and digitize. Sign, save as a pdf and upload to your Employee Uploads folder in BambooHR.
   * For part-time GitLab team members, the lump sum is calculated pro-rata, so for example for a team member that works for GitLab 50% of the time, the lump sum would be [$10,000](/handbook/total-rewards/compensation/#exchange-rates).
 
+## Financial Wellness 
+
+GitLab offers resources related to [Financial Wellness](/handbook/total-rewards/benefits/general-and-entity-benefits/financial-wellness/) to support team members in their financial journey. 
+
 ## Paid Time Off
 
 GitLab has a "no ask, must tell" [time off policy](/handbook/paid-time-off) per 25 consecutive calendar days off.
