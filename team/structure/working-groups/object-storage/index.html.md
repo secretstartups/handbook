@@ -6,6 +6,7 @@ canonical_path: "/company/team/structure/working-groups/object-storage/"
 ---
 
 ## On this page
+
 {:.no_toc}
 
 - TOC
@@ -14,7 +15,7 @@ canonical_path: "/company/team/structure/working-groups/object-storage/"
 ## Attributes
 
 | Property        | Value                                                                                                                                                                                     |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Date Created    | November 3, 2021                                                                                                                                                                          |
 | Target End Date | January 31, 2022                                                                                                                                                                          |
 | Slack           | [#wg_object-storage](https://gitlab.slack.com/messages/wg_object-storage/) (only accessible from within the company)                                                                      |
@@ -70,29 +71,29 @@ iterations](#company-efforts-on-uploads). This has led to increased
 complexity across the board, from development (new features and bug
 fixes) to installation:
 
-* New GitLab installations require the creation and configuration of
+- New GitLab installations require the creation and configuration of
   several object storage buckets instead of just one, as each group of
   features requires its own. This has an impact on the installation
   experience and new feature adoption, and takes further away from
   boring solutions.
-* The realease of cloud native GitLab necessitated the removal of NFS
+- The realease of cloud native GitLab necessitated the removal of NFS
   shared storage and the development of direct upload, a feature that
   was expanded, milestone after milestone, to several type of uploads,
   but never enabled globally.
-* Today GitLab supports both local storage and object storage. Local
+- Today GitLab supports both local storage and object storage. Local
   storage only works on single box installations or with a NFS, which
   [we no longer
   recommend](https://docs.gitlab.com/ee/administration/nfs.html)
   to our users and is no longer in use on GitLab.com.
-* Understanding all the moving parts and the flow is extremely
+- Understanding all the moving parts and the flow is extremely
   complicated: we have CarrierWave, Fog, Golang S3/Azure SDKs, all
   being used, and that complicates testing as well.
-* Fog and CarrierWave are not maintained to the level of the native
+- Fog and CarrierWave are not maintained to the level of the native
   SDKs (e.g. AWS S3 SDK), so we end up having to maintain or monkey
   patch those tools to support requested customer features
   (e.g. https://gitlab.com/gitlab-org/gitlab/-/issues/242245) that
   would normally be "free".
-* In many cases, we copy around object storage files needlessly
+- In many cases, we copy around object storage files needlessly
   (e.g. https://gitlab.com/gitlab-org/gitlab/-/issues/285597). Large
   files (LFS, packages, etc.) are slow to finalize or don't work at
   all as a result.
@@ -122,42 +123,41 @@ for more details.</dd>
 
 ## Exit criteria
 
-* Design a new simplified architecture for Object Storage.
-* Create the necessary issues and plan out when the implementation of the newly designed architecture will be completed.
-* Oversee the implementation of the new architecture.
-* Ensure there is clear documentation written using and contributing to newly designed Object Storage.
-* Ensure each type of upload will be intercepted by Workhorse and processed according to the new design.
-* Identify features and configuration that should be deprecated to reduce the maintenance complexity.
-
+- Design a new simplified architecture for Object Storage.
+- Create the necessary issues and plan out when the implementation of the newly designed architecture will be completed.
+- Oversee the implementation of the new architecture.
+- Ensure there is clear documentation written using and contributing to newly designed Object Storage.
+- Ensure each type of upload will be intercepted by Workhorse and processed according to the new design.
+- Identify features and configuration that should be deprecated to reduce the maintenance complexity.
 
 ## Roles and responsibilities
 
 The functional leads will be responsible for:
 
-* Representing the needs of individual stakeholders in their department/sub-dept.
-* Gathering and consolidating feedback on specific proposals from their department/sub-dept.
-* Communicating the output from the working group (if any) and answering questions from their dept/sub-dept.
+- Representing the needs of individual stakeholders in their department/sub-dept.
+- Gathering and consolidating feedback on specific proposals from their department/sub-dept.
+- Communicating the output from the working group (if any) and answering questions from their dept/sub-dept.
 
 Ideally, the functional lead is someone who is an IC working in the affected groups, but anyone capable of representing a group, department, or sub-department in the fashion mentioned above is welcome.
 
-
-| Working Group Role | Person                            | Stakeholder Dept. | Title                                |
-|--------------------|-----------------------------------|-------------------|--------------------------------------|
-| Executive Sponsor  | Marin Jankovski @marin            | Infrastructure    | Director of Infrastructure, Platform |
-| Facilitator        | Alessio Caiazza @nolith           | Infrastructure    | Staff Backend Engineer               |
-| Functional Lead    | Grzegorz Bizon @grzesiek          | Ops, Verify       | Staff Backend Engineer               |
-| Functional Lead    | Jason Plum @WarheadsSE            | Distribution      | Staff Backend Engineer               |
-| Functional Lead    | Matthias Käppler @mkaeppler       | Memory            | Senior Backend Engineer              |
-| Functional Lead    | Łukasz Korbasiewicz @lkorbasiewicz| Support           | Support Engineer                     |
-| Member             | Vladimir Shushlin @vshushlin      | Release group     | Senior Backend Engineer              |
-| Member             | Erick Bajao @iamricecake          | Verify            | Senior Backend Engineer              |
-| Member             | Jaime Martinez @jaime             | Package           | Backend Engineer                     |
-| Member             | David Fernandez @10io             | Package           | Senior Backend Engineer              |
-| Member             | Tiger Watson @tigerwnz            | Configure         | Senior Backend Engineer              |
-| Member             | Vitor Meireles De Sousa @vdesousa | AppSec            | Senior Application Security Engineer |
-| Member             | Patrick Bajao @patrickbajao       | Workhorse         | Senior Backend Engineer              |
-| Member             | Catalin Irimie @cat               | Geo               | Senior Backend Engineer              |
-| Member             | Chad Woolley @cwoolley-gitlab     | Editor (Pages)    | Senior Backend (Fullstack) Engineer  |
+| Working Group Role | Person                             | Stakeholder Dept. | Title                                |
+| ------------------ | ---------------------------------- | ----------------- | ------------------------------------ |
+| Executive Sponsor  | Marin Jankovski @marin             | Infrastructure    | Director of Infrastructure, Platform |
+| Facilitator        | Alessio Caiazza @nolith            | Infrastructure    | Staff Backend Engineer               |
+| Functional Lead    | Grzegorz Bizon @grzesiek           | Ops, Verify       | Staff Backend Engineer               |
+| Functional Lead    | Jason Plum @WarheadsSE             | Distribution      | Staff Backend Engineer               |
+| Functional Lead    | Matthias Käppler @mkaeppler        | Memory            | Senior Backend Engineer              |
+| Functional Lead    | Łukasz Korbasiewicz @lkorbasiewicz | Support           | Support Engineer                     |
+| Member             | Vladimir Shushlin @vshushlin       | Release group     | Senior Backend Engineer              |
+| Member             | Erick Bajao @iamricecake           | Verify            | Senior Backend Engineer              |
+| Member             | Jaime Martinez @jaime              | Package           | Backend Engineer                     |
+| Member             | David Fernandez @10io              | Package           | Senior Backend Engineer              |
+| Member             | Tiger Watson @tigerwnz             | Configure         | Senior Backend Engineer              |
+| Member             | Vitor Meireles De Sousa @vdesousa  | AppSec            | Senior Application Security Engineer |
+| Member             | Patrick Bajao @patrickbajao        | Workhorse         | Senior Backend Engineer              |
+| Member             | Catalin Irimie @cat                | Geo               | Senior Backend Engineer              |
+| Member             | Chad Woolley @cwoolley-gitlab      | Editor (Pages)    | Senior Backend (Fullstack) Engineer  |
+| Member             | Sofia Vistas @svistas              | Quality           | Senior Software Engineer in Test     |
 
 # Company efforts on uploads
 
