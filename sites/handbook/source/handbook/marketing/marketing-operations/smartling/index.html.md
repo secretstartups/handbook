@@ -216,7 +216,7 @@ File directives are used to define the location of specific data in a file. **CS
 
 ## Design Files
 
-We have a workflow in Smartling that will format your file to support the new translation. Desktop Publishing in Smartling will take the new translations and apply them to your design files and return back a formatted file ready to use. Below is the process to follow if you wish for DTP to format your file:
+We have a workflow in Smartling that will format your file to support the new translation. Desktop Publishing in Smartling will take the new translations and apply them to your design files and return back a formatted file ready to use. Design files can be requested in the `#marketing-design` slack channel. Below is the process to follow if you wish for DTP to format your file:
 
 1. Open the job in Smartling and select the workflow called DTP. This workflow will translate your content, allow it go to review with our internal reviewers and then go onto the graphic designer who will format it.
 2. After you upload the file for translation, You will need to upload the file to our Smartling Dropbox Folder. If you need access to the Dropbox folder, please ask for access in the `#mktgops` slack channel. For indesign files, job submitters will need to upload an indesign package with the following files:
