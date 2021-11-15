@@ -287,7 +287,7 @@ Before creating a new content track, decide what type of content track (target v
             - Link
             - CTA Label
             - Delay (seconds)
-    - **Exit:** Suggested content window appears when visitor tries to navigate away from the Content Track.
+    - **Exit:** Suggested content window appears when visitor tries to navigate away from the Content Track. **In order to provide a popup-free web experience, please do not enable an Exit promoter without explicit approval from Craig Mestel (CMO) and Michael Preuss (Senior Manager, Digital Experience)**
         - Available overrides:
             - Headline
             - Message
