@@ -26,6 +26,8 @@ Say good-bye to multiple spreadsheets, disparate data sets and misaligned market
 
 Similar to prior year, if we do not use the full envelope provided to Marketing by the end of the **quarter**, we **will** lose those dollars.
 
+Allocadia integrates with multiple systems described further [below](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/#integrations-behind-the-scenes). However, [this presentation](https://docs.google.com/presentation/d/1tIWyzb6P9_-c-S1tYEGX5fC_jdjrMt8_/edit?usp=sharing&ouid=118269909391513703853&rtpof=true&sd=true) gives a high level view.
+
 ## Great links for more details in Allocadia support pages:
 
 - [Allocadia terms glossary](https://support.allocadia.com/hc/en-us/articles/115005305868-Glossary)
