@@ -29,7 +29,7 @@ For a deeper dive on how GitLab thinks about and implements all facets of meetin
 ![GitLab all-remote mentor](/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg)
 {: .shadow.medium.center}
 
-Every work-related meeting should have a live doc agenda affixed to the calendar invite. To better understand how GitLab utilizes agenda docs, here's a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) you can copy and use in your organization.
+"[No agenda, no attenda](/handbook/communication/#external-communication)." Every work-related meeting should have a live doc agenda affixed to the calendar invite. To better understand how GitLab utilizes agenda docs, here's a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) you can copy and use in your organization.
 
 If you determine that a meeting is needed to move a project forward, address a blocker, or resolve a miscommunication, be sure to have an agenda and be disciplined about using it.
 
