@@ -55,7 +55,7 @@ GitLab will be hosting a kickoff call with SageView to discuss an overview of th
 
 An important component of the [Total Rewards Package](https://about.gitlab.com/handbook/total-rewards/) is [Equity Compensation](https://about.gitlab.com/handbook/stock-options/). Team Members can review their equity holdings in Schwab. Please note that vested and exercised shares are currently being held in Computershare. The Stock Admin team will be providing additional information on these shares. 
 
-In order for _managers_ to understand the full picture of their team members’ total rewards package, the People Group has generated a [Total Rewards Summary](#total-rewards-statements) for managers to view vested and unvested holdings as of October 14, 2021 for each direct report.  
+In order for _managers_ to understand the full picture of their team members’ total rewards package, the People Group has generated a [Total Rewards Summary](#total-rewards-summary) for managers to view vested and unvested holdings as of October 14, 2021 for each direct report.  
 
 ### Total Rewards Summary 
 
