@@ -75,12 +75,46 @@ Make sure as you (and/or the partner) is delivering the implementation services,
 
 If the project requirements exceed the current capacity of the available resources then the professional services team may employ a subcontractor to help deliver the project.  The following provides a checklist of items to process before and during the use of a subcontracted resource:
 
-1. Confirm that the terms and conditions agreed to with the customer enable the use of a subcontractor.  In some cases, GitLab must first obtain written approval from the customer in order to employ a subcontractor.
+1. Partner Search 
+    - Share “sample SOW” with viable partners
+        - Create “sample SOW” for the following 5 elements
+        - Advisory
+        - Implementation
+        - Migration
+        - Project Management
+        - Training
+    - Share “PSE Profile” with viable partners
+        - Create “perfect PSE” profile (aka technical requirements)
+        - Advisory
+        - Implementation
+        - Migration
+        - Project Management
+        - Training
 
-1. Review the list of potential Partners and subcontractors.  GitLab has established relationships and signed Master Service Agreements with a collection of partners.  Review the list of partners and select ones that have resources with the correct set of skills and certifications.
+1. Partner Vetting
+    - Sr. Channel Solutions Manager schedules 15 min "consultant vetting" from Director of Professional Services 
+    - Professional Services Director approval needed to move forward  
+    - Sr. Channel Solutions Manager to schedule 30-45 min technical deep-dive with a Senior PSE 
+    - Interview Results captured in [partner tracking sheet](https://docs.google.com/spreadsheets/d/1koIvClx0Va-PwCZqGJ6PLeYyR00oxH_yekFDiioSLLY/edit?usp=sharing)
+    - Sr. PSE approval needed to move to onboarding
 
-1. Contact the selected partner through an introduction by the GitLab PS Partner Manager.  GitLab should then submit the requirements to the partner and request resumes and rates for any resources the partner deems available and suitable for the project.
-Interview proposed resources. GitLab will meet with the proposed resources to determine if the person is a fit technically as well as from the perspective of fitting in with the project team that includes both GitLab and customer personnel.
+
+1. Partner Onboarding
+    - Partner principals requests consultants to register on [Gitlab's Partner Portal](https://partners.gitlab.com). _This will result in an email to the consultant's inbox for them to open the "Welcome to Edcast" & activate their account for Onboarding._
+        - EdCast
+            - [Migration](https://gitlab.edcast.com/pathways/gitlab-migration-services-engineer-pathway)
+            - [Implementation](https://gitlab.edcast.com/pathways/gitlab-implementation-engineer-specialist-pathway)
+            - Training
+                - [GitLab Certified Security Speialist](https://gitlab.edcast.com/pathways/gitlab-certified-security-specialist-pathway-for-gitlab-part)
+                - [Gitlab Certified CI/CD Specialist](https://gitlab.edcast.com/pathways/gitlab-certified-ci-cd-specialist-pathway-for-gitlab-partner)
+                - [Gitlab Certified Associate Pathway](https://gitlab.edcast.com/pathways/gitlab-certified-associate-pathway-for-gitlab-partners)
+                - [Gitlab Certfied Project Management Specialist](https://gitlab.edcast.com/pathways/gitlab-certified-project-management-specialist-pathway-for-g-this)
+        - PM
+    - Subcontractor must use the same email address they used for training to ensure onboarding issue is tied to the correct entity
+    - PS Ops assigns an onboarding buddy 
+       - The person will follow the subcontractor throughout the project
+    - PS Ops triggers the subcontractor Edcast Onboarding Pathway & manages the subcontractor onboarding journey. 
+
 
 1. Share Statement of Work between GitLab and the selected partner.  The Statement of Work should be based on the latest released template to ensure that up to date legal language is included. 
 
