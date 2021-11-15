@@ -105,7 +105,7 @@ Our active feature flags can be found on the [feature flag dashboard](https://ap
 ### Planning
 
 #### Quad-planning
-Also known as the [Three Amigos](ttps://www.agilealliance.org/glossary/three-amigos) process, Quad-planning is the development of a shared understanding about the scope of work in an issue and what it means for the work represented in an issue to be considered done. When an SET counterpart is assigned, we will perform Quad-planning earlier in the planning process than described in the [product workflow](https://about.gitlab.com/handbook/product-development-flow/#build-phase-1-plan), beginning when the PM develops initial acceptance criteria. Once this occurs, the PM will apply the `quad-planning:ready` label. At this point, asynchronous collaboration will begin between product, engineering, UX, and quality. Supplying these distinct viewpoints at this early stage of planning is valuable to our team. This can take place more than one milestone into the future. Once acceptance criteria is agreed upon, the `quad-planning:complete` label is applied.
+Also known as the [Three Amigos](https://www.agilealliance.org/glossary/three-amigos) process, Quad-planning is the development of a shared understanding about the scope of work in an issue and what it means for the work represented in an issue to be considered done. When an SET counterpart is assigned, we will perform Quad-planning earlier in the planning process than described in the [product workflow](/handbook/product-development-flow/#build-phase-1-plan), beginning when the PM develops initial acceptance criteria. Once this occurs, the PM will apply the `quad-planning:ready` label. At this point, asynchronous collaboration will begin between product, engineering, UX, and quality. Supplying these distinct viewpoints at this early stage of planning is valuable to our team. This can take place more than one milestone into the future. Once acceptance criteria is agreed upon, the `quad-planning:complete` label is applied.
 
 #### Release planning issue
 We use a [release planning issue](https://gitlab.com/gitlab-org/ci-cd/testing-group/-/issues/new?issuable_template=ReleasePlan) to plan our release-level priorities over each milestone. This issue is used to highlight deliverables, capacity, team member holidays, and more. This allows team members and managers to see at a high-level what we are planning on accomplishing for each release, and serves as a central location for collecting information.
@@ -156,8 +156,8 @@ There may be some issues in a milestone with neither `Deliverable` nor `Stretch`
 #### Definition of Ready
 Before the team will accept an issue into a milestone for work it must meet these criteria:
 
-* Issues labeled with ~feature include a well stated "why" and customer problem
-* Issues labeled ~bug include steps to reproduce
+* Issues labeled with ~"type::feature" include a well stated "why" and customer problem
+* Issues labeled ~"type::bug" include steps to reproduce
 * Designs are in the design tab if needed
 * If the issue will be worked on by Verify:Testing engineers, it has a [weight](https://about.gitlab.com/handbook/engineering/development/dev/create/source-code-be/#weights)
 * Design proposal satisfies the [UX Definition of Done (DoD)](/handbook/engineering/ux/stage-group-ux-strategy/ci-cd/#definition-of-done-for-ux-pilot)
@@ -272,7 +272,7 @@ If an issue is being resolved in a merge request that is made by a [community co
 
 When an engineer discovers a potential technical concern (e.g. performance, scalability, usability, etc.), we encourage the engineer to surface that as soon as possible by creating an issue and labeling with `~performance`, `~usability`, etc. so we can avoid or mitigate future issues.
 
-As a 3 month trial (ending in September 2021), we are going to be [using an epic to collect each issue created as a technical concern](https://gitlab.com/groups/gitlab-org/-/epics/6108).
+As a ~~3~~ 6 month trial (ending in December 2021), we are going to be [using an epic to collect each issue created as a technical concern](https://gitlab.com/groups/gitlab-org/-/epics/6108).
 When creating an issue for this epic, the engineer details the problem as well as the potential severity of the issue so that we can properly prioritize the issue into future milestones.
 Once we schedule the issue, we remove the issue from [the technical concerns epic](https://gitlab.com/groups/gitlab-org/-/epics/6108) so that it can be placed in a more feature specific epic.
 After the 3 month trial is over, we will have a group retrospective to determine whether we should use this process permanently or not.

@@ -139,6 +139,22 @@ We follow the [OKR (Objective and Key Results)](https://about.gitlab.com/company
 * We get a chance to work on the things we want to work on
 * Everyone can contribute; no silos
 
+### SAFE Fulfillment
+
+Working in [SAFE manner](https://about.gitlab.com/handbook/legal/safe-framework/) at GitLab is everyone's responsibility. We along with our stable counterparts in Sales and Billing contribute to an area of the product that potentially could encounter sensitive or financial information, and could have an effect on the business as a whole. Therefore, it's important for Fulfillment team members to ensure that the SAFE epics, issues, videos, MRs, and other artifacts we produce are kept confidential.
+
+On occasion, it may be prudent to include language like the following to the description of public issues where potentially SAFE discussions are happening.
+
+```
+This page may contain information related to upcoming products, features and functionality.
+It is important to note that the information presented is for informational purposes only, so please do not rely on the information for purchasing or planning purposes.
+Just like with all projects, the items mentioned on the page are subject to change or delay, and the development, release, and timing of any products, features, or functionality remain at the sole discretion of GitLab Inc.
+```
+
+Similarly, not all information should be included in the public handbook. Instead, use the [private internal handbook](https://internal-handbook.gitlab.io/) for this SAFE information.
+
+Please reference this documentation about [promising features in future versions](https://docs.gitlab.com/ee/development/documentation/styleguide/#promising-features-in-future-versions) for more information.
+
 ### Planning
 
 We plan in monthly cycles in accordance with our [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline).
@@ -146,22 +162,11 @@ Release scope for an upcoming release should be finalized by the `1st`.
 
 On or around the `26th`: Product meets with Engineering Managers for a preliminary issue review. Issues are tagged with a milestone and are estimated initially.
 
-#### Purchase
+#### Planning Issues
 
-* [13.11 Board](https://gitlab.com/groups/gitlab-org/-/boards/2471198?milestone_title=13.11&&label_name%5B%5D=group%3A%3Apurchase)
-* [13.11 Frontend Board](https://gitlab.com/groups/gitlab-org/-/boards/2341677?&label_name%5B%5D=devops%3A%3Afulfillment&label_name%5B%5D=frontend)
-* [13.11 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/168)
-
-#### License
-
-* [13.11 Board](https://gitlab.com/groups/gitlab-org/-/boards/2474045?milestone_title=13.11&&label_name%5B%5D=group%3A%3Alicense)
-* [13.11 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/183)
-
-#### Utilization
-
-* [13.11 Board](https://gitlab.com/groups/gitlab-org/-/boards/2473827?milestone_title=13.11&&label_name%5B%5D=group%3A%3Autilization)
-* [13.11 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/187)
-
+- [Purchase](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues?scope=all&state=opened&label_name[]=Planning%20Issue&label_name[]=Category%3APurchase)
+- [License](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues?scope=all&state=opened&label_name[]=Planning%20Issue&label_name[]=Category%3ALicense)
+- [Utilization](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues?scope=all&state=opened&label_name[]=Category%3AUtilization&label_name[]=Planning%20Issue)
 
 ### Estimation
 
@@ -228,6 +233,11 @@ Let me draw your attention to potential caveats.
 <!--
 - ensure that rotation speed of sonic screwdriver doesn't exceed rotational limits
 -->
+
+**Documentation required**: Y/N
+<!--
+- Do we need to add or change documentation for the issue?
+-->
 ```
 
 ### Picking something to work on
@@ -268,6 +278,21 @@ Basecamp thinks about these stages in relation to the [climb and descent of a hi
 
 While individual groups are free to use as many stages in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) workflow as they find useful, we should be somewhat prescriptive on how issues transition from discovery/refinement to implementation.
 
+### Approving and merging the work
+
+We have approval rules enabled, so every MR that targets `staging` or `master` needs at least one approval (different from the author/committer).
+MRs require the following:
+- at least 2 different reviewers (typical)
+- at least 1 approval
+- a maintainer's review and merge
+
+In addition to the approval rules, MRs may require additional reviews as suggested by the [Danger bot](https://docs.gitlab.com/ee/development/dangerbot.html):
+
+1. Modifications to the DB require database reviewer and maintainer approval
+2. Security-related issues (such as changes to authentication) require a [Security review](https://about.gitlab.com/handbook/engineering/security/security-engineering-and-research/application-security/appsec-reviews.html#adding-features-to-the-queue)
+3. Changes to the SFDC APIs require review by the [Sales team](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/)
+4. Changes to the Zuora APIs require review by the [EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/)
+
 ### Weekly async issue updates
 
 Every Friday, each engineer is expected to provide a quick async issue update by commenting on their assigned issues using the following template:
@@ -281,10 +306,12 @@ Please be sure to update the workflow labels of your issue to one of the followi
 - ~"workflow::blocked"
 -->
 ### Async issue update
+
 1. Please provide a quick summary of the current status (one sentence).
 1. When do you predict this feature to be ready for maintainer review?
 1. Are there any opportunities to further break the issue or merge request into smaller pieces (if applicable)?
 1. Were expectations met from a previous update? If not, please explain why.
+1. Are the related issues up to date? Are there any issues in the epic that could be linked to this issue?
 ```
 
 We do this to encourage our team to be more async in collaboration and to allow the community and other team members to know the progress of issues that we are actively working on.
@@ -297,7 +324,7 @@ GitLab's Quality is everyone's responsibility. The [SETs](/handbook/engineering/
 
 The SETs helps facilitate the quad-planning process. This is the participation of Product Management, Development, UX, and the Quality team which aims to bring test planning as a topic before the development of any feature.
 
-We follow the Quad Planning process defined [here](https://about.gitlab.com/handbook/engineering/quality/qe-subdept/quad-planning/#process).
+We follow the Quad Planning process defined [here](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/quad-planning/#process).
 
 [Quad Planning Dashboard](https://app.periscopedata.com/app/gitlab/634305/Quad-Planning-Dashboard?widget=8844548&udv=1040834) showcases the total Planned issues for Quad Planning vs the actual ones for each milestone.
 
@@ -439,9 +466,17 @@ These dashboards are designed to give an insight, to everyone working in a featu
 See the [Fulfillment Section Performance Indicators](/handbook/engineering/development/performance-indicators/fulfillment/) as well as the
 [Centralized Engineering Dashboards](/handbook/engineering/metrics/).
 
-### CustomersDot Engineer:Maintainer ratio
+### CustomersDot Engineer:Maintainer Ratio
 
 <embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 825250, chart: 11035807, embed: 'v2') %>">
+
+We attempt to have an ideal Engineer to Maintainer Ratio of 1:1 for both backend and frontend effort for our primary application, [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com). The active list of maintainers can be found on the [Engineering Projects page](https://about.gitlab.com/handbook/engineering/projects/#customers-app).
+
+Some considerations that differ from other maintainer ratios:
+
+1. Fulfillment maintainer ratios are Maintainers vs Reviewers
+2. GitLab maintainer ratios are Mantainers vs Maintainers + Reviewers
+3. GitLab maintainer ratios do not count full-stack engineers properly (Fulfillment one does)
 
 ### Meetings (Sync)
 

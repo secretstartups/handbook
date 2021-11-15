@@ -128,6 +128,10 @@ The container registry exposes structured access and application logs. For GitLa
 
 ## Releases
 
+The Container Registry adheres to the same development and release timeline as all other GitLab projects. However, because the release process is manual, ensuring all changes are merged on the project repository by the 17th is not enough. We still have to deal with the manual release process, which can take a couple of days to complete, especially for self-managed installs.
+
+Considering this, we strive to have deliverables merged in the project repository by the 12th of each month. At this point, a maintainer should cut a new release following the [documented process]((https://gitlab.com/gitlab-org/container-registry/-/tree/master/docs-gitlab#releases)). This gives us a 5-day window to deal with the release process and merge all version bumps by the 17th. It is the responsibility of the maintainer creating the last release to ensure that all deliverables have been merged or that the assigned engineer(s) acknowledge that changes will not be ready on time. Engineers are encouraged to set a due date on deliverable issues to reduce the chances of missing the merge and release window.
+
 ### GitLab.com
 
 Unlike the main Rails application, the Container Registry does not currently benefit from continuous delivery. Releases and deployments are, therefore, a manual process ([for now](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/316)). You can learn more about the process in the [project documentation](https://gitlab.com/gitlab-org/container-registry/-/tree/master/docs-gitlab#releases).

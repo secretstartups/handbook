@@ -26,6 +26,16 @@ How we work:
 **I have a question. Who do I ask?**
 Questions should start by @ mentioning the product manager for the [Product Intelligence Group](/handbook/product/categories/#product-intelligence-group) or by creating an issue in our [issue board](/handbook/engineering/development/growth/product-intelligence/#issue-boards).
 
+## Resposibilities
+
+### Service Ping Metrics
+
+We're responsible to deliver a reliable Service Ping that runs every week on SaaS and Self Managed instances. Our responsiblity is tooling and automations for metric collections to set the company up for success to deliver Service Ping data to our Datawarehouse. Due to the amount of metrics we can't maintain the health of all metrics or can provide insights into the business logic of metrics. 
+- For questions around a specific metric, please find the metric in the [metric dictionary](https://metrics.gitlab.com/) and ask the group that owns the metric.
+- When a metric times out, we will create an issue and inform the responsible team.
+- When a metric is using too many resources to time out the whole Service Ping, we will quarantine the metric and inform the responsible team.
+- When the metric is business critical (defined as any metric with an xMAU value in `performance_indicator_type`) we also inform the responsible team but will treat it as a Severity 1/Priority 1 issue and try to provide a fix.
+
 ## Team members
 
 The following people are permanent members of the Product Intelligence Group:
@@ -346,7 +356,7 @@ MR labels can mirror issue labels (which is automatically done when created from
 **Required labels**
 - [Stage:](/handbook/engineering/development/growth/#how-we-work) `~devops::growth`
 - [Group:](/handbook/engineering/development/growth/#how-we-work) `~group::product intelligence`
-- [Type:](/handbook/engineering/metrics/#data-classification) `~security`, `~bug`, `~feature`, `~tooling`, `~documentation`
+- [Type:](/handbook/engineering/metrics/#data-classification) `~"type::bug"`, `~"type::feature"`, `~"type::tooling"`, `~"type::maintenance"`
 
 ### Milestones
 
@@ -442,6 +452,6 @@ All new team members to the Product Intelligence teams are provided two onboardi
 | [Growth Sub-Department Development Process](/handbook/engineering/development/growth/).                                              | The development process for the Growth sub-department     |
 | [Growth Sub-Department Performance Indicators Process](/handbook/engineering/development/performance-indicators/growth/)              | The performance indicators for the Growth sub-department  |
 | [Growth UX Process](/handbook/product/growth/)                                                        | The UX process for the Growth sub-department              |
-| [Growth QE Process](/handbook/engineering/quality/qe-subdept/fulfillment-growth-qe-team/)                                                                   | The QE process for the Growth sub-department              |
+| [Growth QE Process](/handbook/engineering/quality/quality-engineering/fulfillment-growth-qe-team/)                                                                   | The QE process for the Growth sub-department              |
 | [GitLab Performance Snowplow Dashboards ](./gitlab_com_performance_dashboard.html) | Performance dashbaords for GitLab.com via Snowplow  |
 

@@ -19,15 +19,15 @@ all in one place.
 The package group is a [Fullstack team](https://about.gitlab.com/handbook/engineering/#fullstack-teams) which means that all the engineers, Frontend and Backend, report to a single [Fullstack Engineering Manager](https://about.gitlab.com/job-families/engineering/development/management/fullstack-manager/). The intention of using this model is to increase efficiency and drive results by building a process that supports all team members towards our goals. Primarily, this means that all engineers participate in conversations in the group and contribute broadly to group process iteration.
 
 The package group is made up of 3 functional teams:
-- Two Go engineers primarily responsible for
+- Go engineers primarily responsible for
   - [Container Registry](https://about.gitlab.com/direction/ops/#container-registry/)
   - [Helm Chart Registry](https://about.gitlab.com/direction/ops/#helm-chart-registry)
-- Three Ruby engineers who are primarily responsible for:
+- Ruby engineers who are primarily responsible for:
   - [Package Registry](https://about.gitlab.com/direction/ops/#package-registry)
   - [Dependency Proxy](https://about.gitlab.com/direction/ops/#dependency-proxy)
   - [Dependency Firewall](https://about.gitlab.com/direction/ops/#dependency-firewall)
   - [Git LFS](https://about.gitlab.com/direction/ops/#git-lfs)
-- One frontend engineer who is primarily responsible for
+- Frontend engineers who are primarily responsible for
   - Implementation of User Experience spanning all categories
 
 Due to these small functional teams, the Package group deliverables are sometimes more at risk given that there are fewer people who can help out.
@@ -118,7 +118,7 @@ Follow along our instrumentation and measurement of Package-related metrics in [
 * [Package:Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1196366?&label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage) - Issue board showing milestone planning for current and future milestones.
 * [Package:Assignments](https://gitlab.com/groups/gitlab-org/-/boards/1200765?&label_name[]=group%3A%3Apackage) - Issue board organized by assignee to give a snapshot of who is working on what.
 * [Package:Cross-Group Assignments](https://gitlab.com/groups/gitlab-org/-/boards/2470946?label_name[]=package%3Across-group-dependency) - Similar to `Package:Assignments` but for [Cross-Group Dependencies](#cross-group-dependencies).
-* [Package:Bugs](https://gitlab.com/groups/gitlab-org/-/boards/1200744?&label_name[]=bug&label_name[]=devops%3A%3Apackage) - Issue board displaying priority and severity of package related bugs.
+* [Package:Bugs](https://gitlab.com/groups/gitlab-org/-/boards/1200744?&label_name[]=type::bug&label_name[]=devops%3A%3Apackage) - Issue board displaying priority and severity of package related bugs.
 * [Package: Validation Track](https://gitlab.com/groups/gitlab-org/-/boards/1397751?&label_name[]=group%3A%3Apackage)
 * [Package:Scheduling](https://gitlab.com/groups/gitlab-org/-/boards/1382732?&label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage)
 * [Package:Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1284221?label_name[]=group%3A%3Apackage) - Issue board broken down by workflow label to give a snapshot of the status of in-progress issues.
@@ -369,6 +369,7 @@ There are times during the development lifecycle that changes need to be communi
 - If your work will impact rate-limits as in [GitLab-#778](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/778)
 - If you are considering adjusting the existing [Package limits](https://docs.gitlab.com/ee/administration/instance_limits.html#package-registry-limits)
 
+
 ### Onboarding Enterprise customers
 
 The GitLab Container and Package Registry currently handle hundreds of millions of events per week. However, when onboarding a large, enterprise customer it will be helpful for GitLab and the customer to understand their expected use case and workflows to ensure that the product scales reliably. When onboarding a new, large customer, it's helpful to follow the below steps:
@@ -389,6 +390,7 @@ The GitLab Container and Package Registry currently handle hundreds of millions 
 * [Recorded meetings][youtube] - This is where we post all of our team meetings and discussions.
 * [Monthly Retrospectives][retros]
 * [Timezones][timezones]
+* [Package Registry processes](/handbook/engineering/development/ops/package/package-registry/)
 * [Package use case](/handbook/marketing/strategic-marketing/usecase-gtm/package/)
 * [Package risk map](/handbook/engineering/development/ops/package/risk-map/)
 * [Validation board](https://gitlab.com/groups/gitlab-org/-/boards/1397751?&label_name[]=group%3A%3Apackage) - This is a board with issues in workflow validation, which means, issues for which ones we are doing discovering and validation of the need, feature or solution

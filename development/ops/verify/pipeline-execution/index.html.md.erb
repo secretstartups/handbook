@@ -41,14 +41,14 @@ Not included in the Pipeline Execution group's domain:
 - Secrets Management, see the [direction page](/direction/release/secrets_management/)
 - Pipeline Authoring, see the [direction page](/direction/verify/pipeline_authoring/)
 - Compliance in Pipelines, see the [direction page](/direction/manage/compliance-management/)
-- [Job artifacts: storage and management of artifacts is the gateway for many CI/CD features]((/direction/verify/build_artifacts/)
+- [Job artifacts: storage and management of artifacts is the gateway for many CI/CD features](/direction/verify/build_artifacts/)
 
 ## Team Members
 
 The following people are permanent members of the Verify:Pipeline Execution group:
 
 ### Backend
-<%= direct_team(manager_role: 'Acting Senior Manager, Engineering, Verify & Backend Engineering Manager, Verify:Pipeline Execution', role_regexp: /Pipeline Execution/) %>
+<%= direct_team(manager_role: 'Acting Backend Engineering Manager, Verify:Pipeline Execution', role_regexp: /Pipeline Execution/) %>
 
 ### Frontend
 <%= direct_team(manager_role: 'Frontend Engineering Manager, Verify', role_regexp: /Pipeline Execution/) %>
@@ -57,7 +57,7 @@ The following people are permanent members of the Verify:Pipeline Execution grou
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Verify(?!:)|Pipeline Execution/, direct_manager_role: 'Interim Senior Manager, Engineering, Verify & Backend Engineering Manager, Verify:Pipeline Execution', other_manager_roles: ['Frontend Engineering Manager, Verify']) %>
+<%= stable_counterparts(role_regexp: /[,&] Verify(?!:)|Pipeline Execution/, direct_manager_role: 'Acting Backend Engineering Manager, Verify:Pipeline Execution', other_manager_roles: ['Frontend Engineering Manager, Verify']) %>
 
 ## Technologies
 
@@ -140,7 +140,7 @@ If an issue requires a feature flag rollout plan, consider increasing the weight
 
 ### Release Plans
 
-To encourage more transparency and collaboration amongst the team and additionally align on the [Release Posts](/handbook/marketing/blog/release-posts/) we publish at the end of each milestone, we will be creating a separate issue to highlight a **Feature flag roll out plan** for each feature being released starting in 13.2, based on the [issue template for feature flag roll outs](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20Flag%20Roll%20Out.md). The engineer who implements the feature will be responsible for creating this separate issue to highlight the details of when and how the feature flag will be toggled, and subsquently link this issue to their feature issue.  The product manager will tag this issue as a blocker to their release post, so that everyone is aligned on the release plan of the feature.
+To encourage more transparency and collaboration amongst the team and additionally align on the [Release Posts](/handbook/marketing/blog/release-posts/) we publish at the end of each milestone, we will be creating a separate issue to highlight a **Feature flag roll out plan** for each feature being released starting in 13.2, based on the [issue template for feature flag roll outs](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20Flag%20Roll%20Out.md). The engineer who implements the feature will be responsible for creating this separate issue to highlight the details of when and how the feature flag will be toggled, and subsequently link this issue to their feature issue.  The product manager will tag this issue as a blocker to their release post, so that everyone is aligned on the release plan of the feature.
 
 ### Workflow
 
@@ -316,6 +316,18 @@ The Pipeline Execution group supports the product marketing categories described
 | `onboarding` | [Issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Apipeline%20authoring&label_name[]=onboarding) | | Issues that are helpful for someone onboarding as a new team member. |
 | [`Good for 1st time contributors`] | [Issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Apipeline%20authoring&label_name[]=Good%20for%201st%20time%20contributors) | | Issues that are good for first time community contributors, and could similarly be labeled for `onboarding` |
 
+### Developing with Feature Flags
+
+When building features that may have high impact the team uses established [GitLab guidelines](https://about.gitlab.com/handbook/product-development-flow/feature-flag-lifecycle/) for feature flags.
+
+We also ensure we are collaborating with our teammates in customer support and customer success by [alerting them](https://docs.gitlab.com/ee/development/feature_flags/controls.html#communicate-the-change) to the rollout issue before a feature is enabled.
+
+The feature flags introduced by the team still in the code can be found in this table.
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10522908, dashboard: 792066, embed: 'v2', filters:[{"name": "team_group", "value": "pipeline execution"}]) %>">
+
+You can also search all Feature Flags through Sam's great [tool here](https://samdbeckham.gitlab.io/feature-flags/#%5B%7B%22type%22:%22group%22,%22value%22:%7B%22data%22:%22group::pipeline%C2%A0execution%22,%22operator%22:%22=%22%7D%7D,%7B%22type%22:%22filtered-search-term%22,%22value%22:%7B%22data%22:%22%22%7D%7D%5D) (prefiltered for pipeline exeuction)
+
 ### Collaboration with UX and Engineering
 
 To create a high-quality product that is functional and useful – Engineering, PM and Product Designer need to work closely together, combine methodologies, and often connect throughout the product development. Product Management and Product Designers aim to work 3 months in advance of Engineering proposals to ensure the problem definition and solution has been adequately validated prior to building. 
@@ -326,10 +338,10 @@ Product Designer, PM, and Engineering use `workflow::design` to discuss possible
 
 #### UX Scorecards 
 
-A top priority for us is usability, and one way to effectively measure our [JTBDs](/handbook/engineering/development/ops/verify/pipeline-execution/jtbd/) is with periodic [UX Scorecards](/handbook/engineering/ux/ux-scorecards/). For especially technical tasks requiring infrasturcture support such as a functional cluster or provisoned environment with a gitlab-ci.yml file Product Design and the Product Manager may work with Engineering Manager and Quality stable counterparts to craft a project based on the scenarios to test to the JTBDs. Some guidelines for working together in this case: 
+A top priority for us is usability, and one way to effectively measure our [JTBDs](/handbook/engineering/development/ops/verify/pipeline-execution/jtbd/) is with periodic [UX Scorecards](/handbook/engineering/ux/ux-scorecards/). For especially technical tasks requiring infrastructure support such as a functional cluster or provisioned environment with a gitlab-ci.yml file Product Design and the Product Manager may work with Engineering Manager and Quality stable counterparts to craft a project based on the scenarios to test to the JTBDs. Some guidelines for working together in this case: 
 
 - Be sure to schedule _at least_ a full milestone in advance, so there is enough lead time for the stable counterparts
-- Create an overall epic and add issues for task tracking for infrasturcture creation
+- Create an overall epic and add issues for task tracking for infrastructure creation
 - Schedule a kick off or record a walkthrough of the scenarios for everyone to have a shared understanding of the JTBD that users are being evaluated against
 
 We are also working on building a library of precreated tasks for contribution from the engineering team in [CI Sample Projects group](https://gitlab.com/ci-sample-projects). These will be prioritized in the milestone and will help avoid having too much overhead from UX Scorecards and Category Maturity Scorecards in the future.
@@ -344,7 +356,7 @@ Some practical examples of this are:
 - When you open up or begin working on an epic, issue, or merge request consider if all stakeholders are aware of this or should be updated. If unsure, error on the side of updating rather than keeping silent.
 - When making significant progress make sure this is seen by the relevant stakeholders even if you don't require immediate feedback by mentioning them rather than relying on automated email notifications. Make their involvement explicit.
 
-For issues related to Merge Request experience, make sure to keep [the Code Review group](/handbook/product/categories/#code-review-group) in the loop to avoid any technical or UX debt from occuring. Refer to the [collaboration on merge requests experience](/handbook/product/cross-stage-features/merge-requests/) page to learn more about the collaboration framework.
+For issues related to Merge Request experience, make sure to keep [the Code Review group](/handbook/product/categories/#code-review-group) in the loop to avoid any technical or UX debt from occurring. Refer to the [collaboration on merge requests experience](/handbook/product/cross-stage-features/merge-requests/) page to learn more about the collaboration framework.
 
 Note: A good practice when only wanting to inform rather than requesting a direct action from the mentioned stakeholders is to put `FYI` directly following the @mention handle.
 
@@ -352,10 +364,11 @@ Note: A good practice when only wanting to inform rather than requesting a direc
 
 We suggest using the below steps to reach the best results in the shortest time:
 
-* Once, through user research, we have identified a user need and have generated the big idea to meet that need, Product Designer drives the process of moving that idea into a solution prototype involving PM and Engineering Team early and often.
+* Once, through user research, we have identified a user need and have generated some ideas to meet that need, Product Designer drives the process of moving those ideas into solution prototypes involving PM and Engineering Team early and often.
     * The [UX Definition of Done](/handbook/engineering/ux/stage-group-ux-strategy/ci-cd/continuous-integration/index.html#ci-ux-dod-objectives) can be applied in order to better break down design work and give counterparts better insight into which steps in the design workflow need to be completed before the MVC can move to the development phase.
-* We take that prototype through a user testing to validate it is solving the original problem.
-* When the solution is validated with users - it is time to break the big solution down into smaller issues involving a whole team (PM, Engineers, Product Designer, QA and Technical Writer).
+* We take those prototypes through user testing to validate they are solving the original problem.
+* Engineers, Product Designer, EM and PM may compare and contrast multiple possible solutions to decide which one to work on first based on the scope of the solutions and experience of the team.
+* When a solution is validated with users - it is time to break the big solution down into smaller issues involving the whole team (PM, Engineers, Product Designer, QA and Technical Writer).
 * Engineers, Product Designer, EM and PM are expected to work closely together to find the most technically feasible and smallest feature set to deliver value to early customers and provide feedback for future product development. Check out [iteration strategies](#iteration-strategies) for help.
 
 We aim to design broadly for an epic or full feature at least one milestone ahead of time and then break the big solution into smaller issues to pick up in the next milestones.
@@ -368,7 +381,7 @@ A lot has changed since this was introduced so we're making steps to re-align ou
 
 UX reviews should follow [the guidelines](/handbook/engineering/ux/product-designer/mr-reviews/) as closely as possible to reduce the impact on velocity whilst maintaining quality.
 
-We'll be measuring the impact of this change by [comparing the Mean Time To Merge (MTTM)](https://docs.google.com/spreadsheets/d/13ecB1vWKBdsEYQ7ksQuDdo9soRK9PVumO0Fh_0Iqr78/edit#gid=0) on user-facing MRs before and after the change. 
+We'll be measuring the impact of this change by [comparing the Mean Time To Merge (MTTM)](https://docs.google.com/spreadsheets/d/13ecB1vWKBdsEYQ7ksQuDdo9soRK9PVumO0Fh_0Iqr78/edit#gid=0) on user-facing MRs before and after the change through the remainder of 2021.
 
 #### Dealing with Community Merge Requests
 
@@ -492,10 +505,10 @@ This board has 2 main sections:
       - the area affected does not change frequently
       - the problem is related to a number of reported `severity::4` bugs
 
-Note that a multiple factors can exist at once. In that case use your judgment to either bump the impact score or lower it. For example:
-- the problem exists in a feature that has a supporting role in our domain but it's related to a number of `severity::2` bugs.
+Note that multiple factors can exist at once. In that case use your judgment to either bump the impact score or lower it. For example:
+- The problem exists in a feature that has a supporting role in our domain but it's related to a number of `severity::2` bugs.
   Then choose `severity::2`.
-- the problem is related to an important feature but the workaround is acceptable as the code around it does not
+- The problem is related to an important feature but the workaround is acceptable as the code around it does not
   change frequently. Then choose `severity::3`.
 
 ### Risk Mapping

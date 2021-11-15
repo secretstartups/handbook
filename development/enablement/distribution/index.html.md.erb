@@ -21,6 +21,8 @@ The Omnibus package and Helm Chart are the primary deployment methods that Distr
 * Enhance the install, upgrade and next steps experience
 * Update major components such as PostgreSQL and other HA-related tooling
 
+The Distribution team is comprised of two groups, Distribution:Build and Distribution:Deploy.
+
 ## Vision
 
 Distribution team vision is shown below, and not limited to:
@@ -55,6 +57,14 @@ outreach.
 
 Distribution ensures the experience of installing and maintaining GitLab is easy and safe for everyone. It is Distribution team's task to think about the widest variety of installation/update use-cases and provide a solution that will satisfy most needs. Distribution is there to provide the best possible experience for a user that is a novice but also a veteran when it comes to installing and maintaining software.
 
+### Distribution:Build Charter
+
+The focus for the Build group of the Distribution team is to ensure the components that make up GitLab are tested, up to date, license compliant, and available for our users’ platforms and architectures. This group manages the build pipelines, researches support for new services, platforms, and architectures, as well as maintains existing ones. We strive to respond efficiently to build failures, security results, and dependency changes in order to ensure a safe reliable product for our users.
+
+### Distribution:Deploy Charter
+
+The focus for the Deploy group of the Distribution team surrounds configuration, deployment, and operation of GitLab as a whole product. The goal is to deliver an intuitive, clear, and frictionless installation experience, followed by smooth, seamless upgrade and maintenance processes for deployments of any scale. We strive to deliver ongoing operational behaviors for scaling, little to zero downtime upgrades, and highly reliable experiences for not only instance administrators but their users.
+
 ## Goals
 
 Increase # of active installations
@@ -65,9 +75,13 @@ Reduce average days behind latest version
 
 ## Team members
 
-The following people are members of the Distribution Team:
+The following people are members of the Distribution:Build Team:
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Distribution') %>
+<%= direct_team(manager_role: 'Backend Engineering Manager (interim), Distribution:Build') %>
+
+The following people are members of the Distribution:Deploy Team:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Distribution:Deploy') %>
 
 ### Stable counterparts
 
@@ -184,7 +198,7 @@ graph TD
 
 ## Cloud Native
 
-GitLab's cloud native solutions span a collection of image, Helm chart and Operator projects to deploy and manage GitLab on container platforms including Kubernetes and OpenShift.
+GitLab's cloud native solutions span a collection of [image](https://gitlab.com/gitlab-org/build/CNG), Helm [chart](https://gitlab.com/gitlab-org/charts/gitlab) and [Operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) projects to deploy and manage GitLab on container platforms including Kubernetes and OpenShift.
 
 ### Cloud Native GitLab project's product outputs
 
@@ -220,7 +234,7 @@ graph TD
 | Docker All in one GitLab image | [gitlab-org/omnibus-gitlab/docker](https://gitlab.com/gitlab-org/omnibus-gitlab/tree/master/docker) | Build Docker images for GitLab CE/EE based on the omnibus-gitlab package |
 | GitLab Helm Chart | [gitlab-org/charts/gitlab](https://gitlab.com/gitlab-org/charts/gitlab) | Cloud Native GitLab Helm Charts |
 | Docker images for GitLab Helm Chart | [gitlab-org/build/CNG](https://gitlab.com/gitlab-org/build/CNG) | Individual images used by GitLab Helm Charts |
-| GitLab OpenShift operator | [gitlab-org/gl-openshift/gitlab-operator](https://gitlab.com/gitlab-org/gl-openshift/gitlab-operator/) | The GitLab operator creates and manages GitLab instances/deployments in a container platform such as Openshift or Kubernetes. It will run an any environment that provides native Kubernetes resources including deployments, statefulsets, services, ingress/openshift routes, persistent volume claims, persistent volumes, etc. |
+| GitLab Operator | [gitlab-org/cloud-native/gitlab-operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) | The GitLab operator creates and manages GitLab instances/deployments in a container platform such as Openshift or Kubernetes. It will run an any environment that provides native Kubernetes resources including deployments, statefulsets, services, ingress/openshift routes, persistent volume claims, persistent volumes, etc. |
 | Kubernetes Helm Charts index | [charts/charts.gitlab.io](https://gitlab.com/charts/charts.gitlab.io) | Helm charts repository index |
 | AWS images | [AWS marketplace](https://aws.amazon.com/marketplace/pp/B071RFCJZK?qid=1493819387811&sr=0-1&ref_=srh_res_product_title) | AWS image based on the omnibus-gitlab package |
 | GitLab provisioner | [gitlab-org/distribution/gitlab-provisioner](https://gitlab.com/gitlab-org/distribution/gitlab-provisioner) | Creates a GitLab HA installation using Ansible and Terraform |

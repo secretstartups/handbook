@@ -84,6 +84,8 @@ We currently focus on security findings with these severity levels:
 - Critical
 - High
 
+An exception is made for `Container scanning` findings - we focus only on findings with `Critical` severity.
+
 #### Triaging vulnerabilities
 
 We use the Vulnerability Report with filters to focus on items matching [our policy](#security-policy) and reported on the relevant projects.
@@ -111,7 +113,7 @@ You can leverage quick actions to add the necessary labels.
 
     /confidential
 
-    /label ~security ~bug
+    /label ~security ~type::bug
     /label ~"section::securedefend" ~"devops::secure" ~"group::composition analysis"
 
     <!-- depending on the affected project: -->
@@ -126,12 +128,12 @@ If immediate feedback is required, then add a comment to the vulnerability issue
 
 ### Community contributions triaging process
 
-1. Leverage the group level [list of Merge Requests](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Acomposition%20analysis) with the Composition Analysis group label.
+1. Leverage the group level [list of Merge Requests](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/merge_requests?scope=all&state=opened&label_name[]=group%3A%3Acomposition%20analysis&label_name[]=Community%20contribution) with the Composition Analysis group label.
 1. For each open Merge Request whose author is not a GitLab team member, investigate and help moving it forward.
 
 ### Bugs triaging process
 
-1. Leverage the [Bug scrub issues board](https://gitlab.com/groups/gitlab-org/-/boards/1077546?scope=all&utf8=%E2%9C%93&label_name[]=bug&label_name[]=devops%3A%3Asecure&label_name[]=group%3A%3Acomposition%20analysis).
+1. Leverage the [Bug scrub issues board](https://gitlab.com/groups/gitlab-org/-/boards/1077546?scope=all&label_name[]=devops%3A%3Asecure&label_name[]=group%3A%3Acomposition%20analysis&label_name[]=type%3A%3Abug).
 1. For each open issue that has no Priority label ("Open" column), shortly investigate the bug (< 2h) and comment with your findings. Ideally you'd suggest Priority and Severity levels to guide PM decision. Depending on how confident you are, you can either set the labels by yourself, or make a suggestion in a comment, and ping PM.
 
    Track how long you actually spent investigating each bug in the [Composition Analysis Bug Triaging Time Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1vCh6DTY9eUK26xXceO4ZUyuNlyv2AwXpKxvGGejieEg).
