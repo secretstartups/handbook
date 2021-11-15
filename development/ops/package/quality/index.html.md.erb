@@ -45,11 +45,10 @@ In the [GitLab repository](https://gitlab.com/gitlab-org/gitlab), the End-to-End
 - `qa/qa/specs/features/ee/api/5_package` _*_
 - `qa/qa/specs/features/ee/browser_ui/5_package` _*_
 
-_* There are currently no API tests or browser UI tests for paid features (Enterprise Edition)._
 
 ### How to run them locally
 
-#### GDK
+#### Using GDK
 
 To test against your local GDK, first make sure:
 - Environment variables are correctly set
@@ -80,22 +79,94 @@ instance as we are using our GDK as the GitLab instance under test. In order to 
 Particularly useful when running on pipelines, but they also need to be included when running locally since they act as a filter for running `:packages` related tests only.
 
 
-#### Using the gitlab-qa gem
+## Using the gitlab-qa gem
 
 Install the `gitlab-qa` gem by running the command `gem install gitlab-qa`. This gem was created to verify the integrated pieces that compose GitLab work well together making it possible to run the QA test suite for any merge request before it gets merged to master.
-To run orchestrated-level scenarios related to the Package group:
-* Run the command: `gitlab-qa Test::Instance::Image EE --omnibus-config packages` to test `:packages` tagged tests against an Omnibus instance configured [to have the Package Registry enabled.](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/lib/gitlab/qa/runtime/omnibus_configurations/packages.rb)
-* Run the command: `gitlab-qa Test::Instance::Image EE --omnibus-config object_storage` to test `:object_storage` tagged tests (all package managers) against an Omnibus instance [configured to use Minio as the storage dafault](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/lib/gitlab/qa/runtime/omnibus_configurations/object_storage.rb), instead of local storage.
-* Run the command: `GITLAB_TLS_CERTIFICATE=$(cat /path/to/certificate.crt) gitlab-qa Test::Integration::Registry EE` to test `:registry` tagged tests against an Omnibus instance [configured to use a Registry with TLS](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/lib/gitlab/qa/scenario/test/integration/registry.rb).
 
-`EE` is the `latest` tagged image for [gitlab-ee](https://hub.docker.com/r/gitlab/gitlab-ee/).
+This can be used as an alternative to test with GDK. It requires providing a GitLab image to spin up the GitLab instance under test.
+Using `EE` or `CE`, as seen below on example commands, will pull the [latest nightly image](https://hub.docker.com/r/gitlab/gitlab-ee/tags).
+To build a custom image locally (**builds only the test code**) do:
+
+1. Go to the GitLab folder on your gdk and run `docker build -f qa/Dockerfile -t gitlab/gitlab-ee-qa:test . `
+2. After building the QA Image pull the `gitlab/gitlab-ee nightly`` image with: `docker pull gitlab/gitlab-ee:nightly`
+3. Associate the QA Image `test` with GitLab Nightly: `docker tag gitlab/gitlab-ee:nightly gitlab/gitlab-ee:test`
+4. On commands bellow, modify to use the built image: `QA_SKIP_PULL=true gitlab-qa Test::Instance::Image gitlab/gitlab-ee:test --omnibus-config ...`
+
+To use the image built on the MR, which has **application changes**, trigger `package-and-qa` and verify the `qa-test` job log. There is a variable with the name `RELEASE` which contains the packaged GitLab image with the new application changes.
+There is also an image address with the test code, stored on a variable named `QA_IMAGE`. Take note of both variables and use them in the following manner:
+
+`QA_SKIP_PULL=true gitlab-qa Test::Instance::Image <RELEASE> <QA_IMAGE> --omnibus-config packages`
+
+Using the `QA_SKIP_PULL=true` means that the framework will skip pulling the latest image and use the image passed instead.
+
+### Orchestrated-level scenarios
+
+#### Scenario - Run all package manager tests
+
+Applies to all tests tagged with the `:packages` metadata. Configures a GitLab instance to have the Package Registry enabled.
+
+* Run the command: `gitlab-qa Test::Instance::Image EE --omnibus-config packages` 
+
+#### Scenario - Run all tests from the Package group against an Object Storage provider
+
+Applies to all tests in the `5_package` folder tagged with the `:object_storage` metadata. 
+
+* Run the command to test against **AWS**: `gitlab-qa Test::Instance::Image EE --omnibus-config object_storage_aws`
+* Run the command to test against **GCP**: `gitlab-qa Test::Instance::Image EE --omnibus-config object_storage_gcp`
+* Run the command to test against **MinIO**: `gitlab-qa Test::Instance::Image EE --omnibus-config object_storage`
+
+The configurations for these different providers can be found on the [Omnibus Configurations](https://gitlab.com/gitlab-org/gitlab-qa/-/tree/master/lib/gitlab/qa/runtime/omnibus_configurations) folder in GitLab QA.
+They require some environment variables to be set prior running the command:
+
+| Scenario              | Variable            | Description                          |
+|-----------------------|---------------------|--------------------------------------|
+| AWS S3 Object Storage | AWS_S3_REGION       | AWS region where bucket is created   |
+| AWS S3 Object Storage | AWS_S3_KEY_ID       | AWS credentials                      |
+| AWS S3 Object Storage | AWS_S3_ACCESS_KEY   | AWS credentials                      |
+| AWS S3 Object Storage | AWS_S3_BUCKET_NAME  | Name of the bucket set in AWS        |
+| GCP Object Storage    | GCS_BUCKET_NAME     | Name of the bucket set in AWS        |
+| GCP Object Storage    | GOOGLE_JSON_KEY     | JSON key credential                  |
+| GCP Object Storage    | GOOGLE_CLIENT_EMAIL | Email address of the service account |
+| GCP Object Storage    | GOOGLE_PROJECT      | GCP project name                     |
+
+All the values above can be found on the QA 1Password Vault. They are passed to the command like `AWS_S3_REGION=value  AWS_S3_KEY_ID=value ... gitlab-qa Test::Instance::Image EE --omnibus-config object_storage_aws`.
+
+#### Scenario - Run Container Registry tests
+
+There are two kinds of Container Registry scenarios.
+
+#### TLS Enabled Registry
+
+* Run the command: `GITLAB_TLS_CERTIFICATE=$(cat /path/to/certificate.crt) gitlab-qa Test::Integration::RegistryTLS EE` 
+
+The TLS certificate used can be found on the GitLab QA [tls_certificates folder](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/tls_certificates/gitlab/gitlab.test.crt).
+
+#### Insecure Registry
+
+* Run the command: `gitlab-qa Test::Integration::Registry EE`
+
+This is a preferable way when the instance does not run on HTTPS or there is no access to a TLS certificate of the GitLab instance being tested.
+
+#### Composed Scenario - Run the Container Registry tests against an Object Storage provider
+
+This composes two scenarios by setting up a GitLab instance that has both an Object Storage provider configured and the Registry with TLS enabled.
+
+* Run the command: `GITLAB_TLS_CERTIFICATE=$(cat /path/to/certificate.crt) gitlab-qa Test::Integration::RegistryTLS EE --omnibus-config object_storage`
+
+Note: the command above uses the option `--omnibus-config object_storage` which can be adjusted to `--omnibus-config object_storage_aws` or `--omnibus-config object_storage_gcp` depending on the Object Storage provided for setup.
+
+#### Scenario - Run Dependency Proxy tests
+
+* Run the command: `gitlab-qa Test::Integration::Registry EE -- qa/specs/features/browser_ui/5_package/dependency_proxy/dependency_proxy_spec.rb --tag registry`
+
+
+#### Scenario - Run Dependency Proxy on a SAML Group SSO enabled 
+
+* Run the command: `CI=true gitlab-qa Test::Integration::GroupSAML EE -- qa/specs/features/browser_ui/5_package/dependency_proxy/dependency_proxy_sso_spec.rb --tag group_saml`
 
 More information on how to run tests using the gitlab-qa gem can be found on [What Tests Can Be Run](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/what_tests_can_be_run.md) docs on the GitLab QA repository.
 
 ### FAQ
-
-#### Can I get a GITLAB_TLS_CERTIFICATE to run Container Registry tests locally?
-Yes. This can be found on the [tls_certificates folder in GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/tls_certificates/gitlab/gitlab.test.crt).
 
 #### I triggered package-and-qa. Where do I find the tests?
 If you have an MR and want to make sure it is running the End-to-End tests, please trigger the manual `package-and-qa` job on the pipeline of your MR. After the pipeline runs there will be a note on your MR titled "Allure report" with a `package-and-qa` test report link. 
@@ -104,13 +175,49 @@ It is also possible to see which jobs failed in the `package-and-qa` pipeline, j
 In Staging, or other environments [that run full tests](https://about.gitlab.com/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines), all the
 tests within the `qa/specs/features/browser_ui/5_package` folder can be found running on the `qa-triggers-browser_ui-5_package` job.
 
-#### What are orchestrated-level scenarios and which do we have available for the Package group?
+#### What is the difference between orchestrated-level scenarios and instance-level scenarios?
 Orchestrated-level scenarios are configurations for a GitLab instance and all necessary components required to perform the test. An example would be a GitLab instance with [object storage settings](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/lib/gitlab/qa/runtime/omnibus_configurations/object_storage.rb) enabled, using [a Minio component](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/lib/gitlab/qa/component/minio.rb).
-Instance-level scenarios are the package tests scripts in the `qa/qa/specs/` folder.
+Instance-level scenarios are the tests scripts in the `qa/qa/specs/` folder.
 
-* The Packages scenario (runs tests on a job named `packages`) configures a GitLab Omnibus instance to have the Package Registry explicitly enabled.
-* The Object Storage scenario (runs tests on a job named `object_storage`) runs the all the package managers tests using Minio as the default storage option instead of local storage.
-* The Registry scenario (runs tests on a job named `registry`) runs the Container Registry test(s) for Omnibus GitLab, configuring a Registry using TLS.
+#### How can I run tests against environments?
+To run tests from a local machine is possible by using the intended environment address (i.e `staging.gitlab.com`, `pre.gitlab.com`) in the following way:
+
+`bundle exec bin/qa Test::Instance::All https://staging.gitlab.com -- qa/specs/features/browser_ui/5_package --tag packages`
+
+Each of the environments require different environment variables. These are described in the [GitLab QA documentation](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/what_tests_can_be_run.md#testinstancestaging).
+The command above runs the local **test code** against Staging.
+
+If the MR has modified test code where these modified tests run only against Staging, then it would be best to trigger manually a [Staging pipeline](https://ops.gitlab.net/gitlab-org/quality/staging/-/pipelines) and pass
+the `RELEASE` and `QA_IMAGE` variables. These variables can be found on the MR, after triggering the `package-and-qa` job, under the `qa-test` job. These variables values can be found at the job log.
+
+#### How are the tests filtered to run on a particular job or pipeline?
+Not all the tests run in all pipelines. There are some tests running only in Staging or not running against Object Storage providers. This can be found at the top of the test spec:
+
+```ruby
+describe 'Container Registry Online Garbage Collection', :registry_gc, :requires_admin, only: { subdomain: %i[pre] } do
+```
+
+The `only: {}` metadata defines and filters the environment. Know more about [Execution Context Selection](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/execution_context_selection.html).
+
+#### Can I use the gitlab-qa gem to just do the setup of a GitLab instance locally without running tests?
+Yes. There are two useful options that can be passed to the command: `--no-teardown` which ensure the gitlab instance stays up after running tests and `--no-tests` for only setting up the instance without having any test code run.
+
+An example:
+
+`GITLAB_TLS_CERTIFICATE=$(cat /path/to/certificate.crt) gitlab-qa Test::Integration::RegistryTLS EE --no-tests`
+
+Output:
+
+```shell
+...
+Skipping tests.
+The orchestrated docker containers have not been removed.
+Docker shell command: `docker ps`
+CONTAINER ID  IMAGE                     ... PORTS
+fdeffd791b69  gitlab/gitlab-ee:nightly      22/tcp, 443/tcp, 0.0.0.0:32768->443/tcp
+````
+
+Runs locally on `https://0.0.0.0:32768` using `https://` because it is TLS enabled.
 
 ### Troubleshooting
 Please reach out to [your counterpart SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) or in the `#quality` channel.
