@@ -23,10 +23,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Nov 4 |  Q3 FY22 Product Update      | Brian G. |
-| Nov 11 | Q4 FY22 Competitive Update      | Francis P. |
-| Nov 18 |   Trust Building In Consultative Engagement    | Darwin S. & Brian W. |
-| Nov 25 |       |   |
+| Nov 18 | Trust Building In Consultative Engagements    | Darwin S. & Brian W. |
+| Nov 25 | *No session due to US Thanksgiving holiday*      | N/A  |
 | Dec 2 |        |   |
 | Dec 9 |        |   |
 | Dec 16 |       |   |
@@ -45,7 +43,9 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
-| 2021-10-07  | **[DevSecOps Campaign Refresh](https://youtu.be/6eE0K2NXNw8)** | Private |
+| 2021-11-11 | **[FY22-Q4 Competitive Update](https://youtu.be/jqUM-zJBdOY)** | Private |
+| 2021-11-04 | **[FY22-Q3 Product Update](https://youtu.be/z6hFnUtm2Gk)** | Private |
+| 2021-10-07 | **[DevSecOps Campaign Refresh](https://youtu.be/6eE0K2NXNw8)** | Private |
 | 2021-09-30 | **[Co-Selling Executive Business Reviews](https://youtu.be/1CL5YQeC8Fs)** | Private |
 | 2021-09-20 | **[NEW DevOps Platform customer deck](https://youtu.be/mtQ1HbnXjb4)** | Private |
 | 2021-09-09 | **[Bitbucket Sales Play](https://youtu.be/SjvL0hyV3Zo)** | Private |
