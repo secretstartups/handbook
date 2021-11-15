@@ -35,9 +35,9 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 **[See the FY22 Marketing Calendar for upcoming virtual events >>](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493&fvid=1408681455)**
 
 Always On Lead Generation:
-* :books: Content | [[eBook] The benefits of single application CI/CD](https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/)
-* :books: Content | [[eBook] Modernize your CI/CD](https://about.gitlab.com/resources/ebook-fuel-growth-cicd/)
-* :video_camera: On-Demand Webinar | [[Demo + Q&A] Continuous Integration with GitLab](https://www.brighttalk.com/webcast/17523/461825?utm_source=GitLab&utm_medium=brighttalk&utm_campaign=461825)
+* :books: Content [[eBook] The benefits of single application CI/CD](https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/)
+* :books: Content [[eBook] Modernize your CI/CD](https://about.gitlab.com/resources/ebook-fuel-growth-cicd/)
+* :video_camera: On-Demand Webinar [[Demo + Q&A] Continuous Integration with GitLab](https://www.brighttalk.com/webcast/17523/461825?utm_source=GitLab&utm_medium=brighttalk&utm_campaign=461825)
 
 ## Research & Prep
 {: .alert #research-prep .alert-gitlab-orange}
@@ -129,7 +129,7 @@ Always On Lead Generation:
 #### Enterprise Segment
 {: #polished-messaging-enterprise}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-|  | Polished Messaging |
+|   | Polished Messaging |
 | ------ | ------ |
 | **Overall Message** | Secure CI/CD from start to finish |
 | **Headline** | Build it, test it, deploy it seamlessly under one roof |
