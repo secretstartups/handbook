@@ -46,7 +46,7 @@ If you require a group of your own to have a paid tier, please submit an [access
 
 ## Testing Environment License
 
-For a test you will need to make an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) requesting one. You can select `GitLab Team Member License`
+For a test you will need to make an [internal issue](hhttps://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) requesting one. 
 
 Please keep in mind *you can't generate licenses for customers* only for testing
 purposes.
