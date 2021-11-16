@@ -320,37 +320,42 @@ These rules are built out in order to correctly associate our accounts to one an
 
 ### Gainsight to Salesforce sync data
 
-The following Salesforce fields are imported from Gainsight to their associated Salesforce account:
+The following fields are pushed from Gainsight to their associated Salesforce field:
 
 <details>
-<summary markdown='span'>Salesforce to Gainsight data</summary>
+<summary markdown='span'>Gainsight to Salesforce data</summary>
 
-|             Source Field (Gainsight)             |  Object |        Target Field (Salesforce)        |                    Notes                   |
-|:------------------------------------------------:|:-------:|:---------------------------------------:|:------------------------------------------:|
-| Unified Scorecard Fact - Company:: TAM Sentiment | Account | [GS] TAM Sentiment :Former Health Score | Uses only the latest TAM Sentiment Entered |
-| Company: Hosting                                 | Account | [GS] Hosting                            |                                            |
-| Company: Provider                                | Account | [GS] Provider                           |                                            |
-| Company: Package Active                          | Account | [GS] Package Active?                    |                                            |
-| Company: Stage                                   | Account | [GS] Lifecycle Stage                    |                                            |
-| Company: Security Active                         | Account | [GS] Secure Active?                     |                                            |
-| Company: Configure Active                        | Account | [GS] Configure Active?                  |                                            |
-| Company: Defend Active                           | Account | [GS] Defend Active?                     |                                            |
-| Company: Create Active                           | Account | [GS] Create Active?                     |                                            |
-| Company: Manage Active                           | Account | [GS] Manage Active?                     |                                            |
-| Company: Current Score Score                     | Account | [GS] Health Score                       | This is the number                         |
-| Company: Current Score Color                     | Account | [GS] Health Score Label                 | This is the Hex Code of the color          |
-| Company: Customer Type                           | Account | [GS] Customer Type                      |                                            |
-| Company: High Availability                       | Account | [GS] High Availability?                 |                                            |
-| Company: Geo                                     | Account | [GS] Geo?                               |                                            |
-| Company: Monitor Active                          | Account | [GS] Monitor Active?                    |                                            |
-| Company: Plan Active                             | Account | [GS] Plan Active?                       |                                            |
-| Company: Verify Active                           | Account | [GS] Verify Active?                     |                                            |
-| Company: Release Active                          | Account | [GS] Release Active?                    |                                            |
-| Company Person: GS Email Opt Out                 | Contact | Email Opt Out                           |                                            |
-| Company: Google Doc Notes                        | Account | [GS] Google Doc Notes                   |                                            |
-| Company: Collaboration Project URL               | Account | GitLab Customer Success Project         |                                            |
-| Company: Architecture Diagram Link               | Account | [GS] Architecture Diagram Link          | 
-                                           |
+| Source Object (Gainsight)        | Source Field (Gainsight)   | Target Object (Salesforce) | Target Field (Salesforce)          |
+| -------------------------------- | -------------------------- | -------------------------- | ---------------------------------- |
+| Company                          | Architecture Diagram Link  | Account                    | [GS] Architecture Diagram Link     |
+| Company                          | Collaboration Project URL  | Account                    | GitLab Customer Success Project    |
+| Company                          | Google Doc Notes           | Account                    | [GS] Google Doc Notes              |
+| Company                          | Triage Issue URL           | Account                    | [GS] Triage Issue URL              |
+| Company                          | Customer Slack Channel     | Account                    | Customer Slack Channel (Internal)  |
+| Company                          | Geo?                       | Account                    | [GS] Geo?                          |
+| Company                          | High Availability?         | Account                    | [GS] High Availability?            |
+| Company                          | Stage Count                | Account                    | [GS] Stage Count                   |
+| Company                          | Current Score --> Color    | Account                    | [GS] Health Score Hex code         |
+| Company                          | First Value Date           | Account                    | [GS] First Value Date              |
+| Company                          | TAM Prioritization         | Account                    | [GS] TAM Prioritization            |
+| Company                          | Customer Conversion Source | Account                    | [GS] Customer Type                 |
+| Company                          | Hosting                    | Account                    | [GS] Hosting                       |
+| Company                          | Provider                   | Account                    | [GS] Provider                      |
+| Unified Scorecard Fact - Company | CD Adoption                | Account                    | [GS] Health: CD                    |
+| Unified Scorecard Fact - Company | CI Adoption                | Account                    | [GS] Health: CI                    |
+| Unified Scorecard Fact - Company | DevSecOps Adoption         | Account                    | [GS] Health: DevSecOps             |
+| Unified Scorecard Fact - Company | SCM Adoption               | Account                    | [GS] Health: SCM                   |
+| Unified Scorecard Fact - Company | License Utilization        | Account                    | [GS] Health: License Utilization   |
+| Unified Scorecard Fact - Company | Product Usage              | Account                    | [GS] Health: Overall Product Usage |
+| Unified Scorecard Fact - Company | TAM Sentiment              | Account                    | [GS] TAM Sentiment                 |
+| Company Person                   | Email Opt Out              | Contact                    | Email Opt Out                      |
+| Company Person                   | Inactive Contact           | Contact                    | Inactive Contact                   |
+| Company Person                   | GitLab Role                | Contact                    | Role                               |
+| Company Person                   | Email                      | Contact                    | Email                              |
+| Company Person                   | First Name                 | Contact                    | First Name                         |
+| Company Person                   | Last Name                  | Contact                    | Last Name                          |
+| Company Person                   | Title                      | Contact                    | Title                              |
+
 
 </details>
 
