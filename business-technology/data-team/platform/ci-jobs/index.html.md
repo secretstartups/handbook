@@ -30,6 +30,13 @@ This page documents the CI jobs used by the data team in Merge Requests in both 
 * The easiest way to do to this is to click the blue run pipeline button as below: 
 ![run_pipeline_button.png](run_pipeline_button.png)
 
+### Variable Name not found in the CI Pipeline job
+This kind of error pops up in the pipeline like KeyError: 'GITLAB_COM_CI_DB_USER'. It means the variable is not defined in the variable section of CI/CD Settings. To resolve this, add the variable name to [CI/CD setting](https://gitlab.com/gitlab-data/analytics/-/settings/ci_cd) i.e. settings --> ci_cd --> variable, also provide the variable value.      
+**Notes:-** Turn off the Flags, so the variable is accessible from the CI pipeline.   
+The same applies to the variable value; if it is incorrect in the job, we can update it in the above link.
+
+
+
 # Analytics pipelines 
 
 ## Stages
@@ -236,9 +243,15 @@ These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/anal
 
 There are several jobs that only appear when `.py` files have changed. All of them will run automatically on each new commit where `.py` files are present. Otherwise they are unavailable to run. Other jobs are:
 
-#### permifrost_manual
+#### 🧊⚙permifrost_run
 
 Manual job to do a dry run of [Permifrost](https://gitlab.com/gitlab-data/permifrost/).
+
+#### 🧊 permifrost_spec_test
+
+Must be run at least once before any changes to `permissions/snowflake/roles.yml` are merged. Takes around 30 minutes to complete.  
+
+Runs the `spec-test` cli of [Permifrost](https://gitlab.com/gitlab-data/permifrost/) to verify changes have been correctly configured in the database. 
 
 #### yaml_validation
 

@@ -80,7 +80,8 @@ SAFE Data in Google Sheets files can be accessed using the instructions for [Acc
 
 #### Analytics Projects
 
-* [Propensity to Buy](/handbook/business-technology/data-team/organization/data-science/#propensity-to-buy)
+* Propensity to Buy: [Project](https://gitlab.com/gitlab-data/propensity-to-buy), [Handbook](/handbook/business-technology/data-team/organization/data-science/#propensity-to-buy)
+* Propensity to Contract and Churn: [Project](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [Presentation](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68)
 
 ### Finance
 
@@ -122,6 +123,7 @@ SAFE Data in Google Sheets files can be accessed using the instructions for [Acc
 * [2021-08 SSO Login Deep Dive Analysis](https://docs.google.com/presentation/d/1j66MejLh8uKhUDUkSVIhPLI79M1LtbgCSxuvJKzRRaI/edit#slide=id.p)
 * [Growth Insights](/direction/growth/#insights)
 * [Concluded Growth Experiments](/direction/growth/#growth-experiments-knowledge-base---concluded-experiments)
+* [FY22-Q3 xMAU Estimation Exploration](https://docs.google.com/presentation/d/1ifKhhGw2rWF33g22n42bdD6Yqq6m3o_djqxo6qvJVoo/edit#slide=id.gf7594bb92d_0_190)
 
 ### Customer Success
 

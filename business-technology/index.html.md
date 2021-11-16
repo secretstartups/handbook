@@ -42,7 +42,7 @@ description: Business Technology
 
 <div class="flex-row" markdown="0">
   <div>
-    <h5>IT Compliance</h5>
+    <h5>IT Security and Compliance</h5>
     <a href="/handbook/business-technology/it-compliance/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
     <a href="https://gitlab.com/gitlab-com/business-technology/it-compliance/it-compliance-issue-tracker/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">Issue Tracker</a>
   </div>

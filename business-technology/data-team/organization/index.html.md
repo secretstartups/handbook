@@ -14,17 +14,20 @@ description: "GitLab Data Team Organization"
 
 ---
 
-## Data Team Organization
+# Data Team Organization
 
-The Data Team is organized into centers of technical and subject matter excellence, complemented by __Business-Focused__ and __Business-Involved__ teams responsible for delivering data solutions that we call [**Fusion Teams**](/handbook/business-technology/data-team/#data-fusion-teams). Complementing the Data Fusion Teams by providing a high-performance compute and storage layer, in addition to data sources, pipelines, and analytics tooling is the [Data Platform & Engineering Team](https://about.gitlab.com/handbook/business-technology/data-team/#the-data-platform--engineering-team). And complemeting the Data Teams bu providing advanced analytics is the [Data Science Team](/handbook/business-technology/data-team/#the-data-science-team). Read more about how the team is organized and how we work with the rest of GitLab in [How Data Works at GitLab](/handbook/business-technology/data-team/#how-data-works-at-gitlab).
+The Data Team Organization model is guided by three primary business needs:
 
-### Data & Analytics Demos
+1. The need for **bespoke data solutions** unique to the GitLab business.
+1. The need for **high-performance and reliable data storage and compute** platform to support distributed analyst teams.
+1. The need for centers of excellence for **data technologies** and **advanced analytics**.
+1. The need for flexible data solutions driven by varying **urgency and quality** requirements.
 
-Data & Analytics Demos are a great way for everyone involved in the Data Program to share progress, innovation, collaborate, and just have fun. Data & Analytics Demos are [held every Thursday](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTA5MTZUMTUwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL) and recordings are posted to the [GitLab Unfildered Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). 
+Based on these needs, the Data Team is organized in the following way:
 
-### Data Program Recruiting Video
-
-We've put together a short [GitLab Data Recruiting](https://youtu.be/4DlwsBIPxUw) video to say "Hi" and give you some insight into how we work and what we work on. Enjoy!
+1. **[Data Fusion Teams](/handbook/business-technology/data-team/#data-fusion-teams):** __Business-Focused__ and __Business-Involved__ teams responsible for delivering data solutions
+1. **[Data Platform & Engineering Team](/handbook/business-technology/data-team/#the-data-platform--engineering-team):** __Center of Excellence__ for data technologies, including owning and operating the Data Stack
+1. **[Data Science Team](/handbook/business-technology/data-team/#the-data-science-team):** __Center of Excellence__ for advanced analytics, including delivery of data science projects to the business
 
 ## Data Fusion Team Organization
 
@@ -33,17 +36,17 @@ Data Fusion Teams are composed of team members from across the business and the 
 ```mermaid
 classDiagram
    GTM <|-- Platform
-        GTM : + Business Partner
+        GTM : + Business Partner Data Champion
         GTM : + Function Analyst
         GTM : + Data Analyst
         GTM : + Analytics Engineer
     R_and_D <|-- Platform
-        R_and_D : + Business Partner
+        R_and_D : + Business Partner Data Champion
         R_and_D : + Function Analyst
         R_and_D : + Data Analyst
         R_and_D : + Analytics Engineer
     G_and_A <|-- Platform
-        G_and_A : + Business Partner
+        G_and_A : + Business Partner Data Champion
         G_and_A : + Function Analyst
         G_and_A : + Data Analyst
         G_and_A : + Analytics Engineer
@@ -63,11 +66,11 @@ classDiagram
 | `@paul_armstrong` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts) |`@jeanpeguero ` GTM Fusion Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  | |  
 |  |`@rbacovic` Data Platform Team [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)  | |  
 
-#### Data Platform Team Stable Counterpart
+### Data Platform Team Stable Counterpart
 
 Following the GitLab [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts) principles, every **Fusion Team** have a **Data Platform Team** Stable Counterpart assigned. The Data Platform Stable Counterpart divides their time, work and priorities between the Data Platform Team and Fusion Team (general an average of 50% each). The Stable Counterpart is aware of the direction and priorities of the Fusion Team and when needed brought into discussion with the Data Platform Team. I.e. when there is a bigger demand than the Stable Counterpart can handle in the assigned availability or architectural direction needs to change. The Stable Counterpart recognize, flags and address this with the applicable stakeholders (in general the Lead/DRI of the Data Platform Team and the Fusion Team). 
 						
-### Fusion Team Operations
+### Data Fusion Team Operations
 
 Critical to successful Data Fusion Teams are the following elements:
 
@@ -78,13 +81,31 @@ Critical to successful Data Fusion Teams are the following elements:
 We encourage our stakeholders to follow along with our issue boards to understand the scope of work:
 
 1. [GTM](https://gitlab.com/gitlab-data/analytics/-/issues?label_name%5B%5D=Team%3A%3AGTM)
-2. [R&D](https://gitlab.com/gitlab-data/analytics/-/issues?label_name%5B%5D=Team%3A%3AR%26D)
+2. [R&D](https://gitlab.com/gitlab-data/analytics/-/boards/3544389?label_name[]=Team%3A%3AR%26D)
 3. G&A: [People](https://gitlab.com/groups/gitlab-data/-/boards/1435002?&label_name[]=People), Engineering Analytics `coming soon`
 4. [Platform](https://gitlab.com/gitlab-data/analytics/-/issues?label_name%5B%5D=Team%3A%3AData+Platform)
 
-## Data Roles and Career Development
+# Data & Analytics Programs
 
-### [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer)
+## Show-n-Tell and Demos
+
+Data & Analytics Demos are a great way for everyone involved in the Data Program to share progress, innovation, collaborate, and just have fun. Data & Analytics Demos are [held every Thursday](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTA5MTZUMTUwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL) and recordings are posted to the [GitLab Unfildered Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). 
+
+## Data Science AMAs
+
+The Data Science Team regularly holds AMAs to help spread awareness of Data Science and initiatives. Check out the [AMA with GitLab Data Scientists Agenda](https://docs.google.com/document/d/1C5odZ14Fbnbb5uqNnrJsDnYQR_ZrvfPQCQ43xUEZsJY/edit) to learn more.
+
+
+# Data Program Recruiting
+
+Recruiting great people is critical to our success and we've invested much effort into making the process efficient. Here are some reference materials we use:
+- a [GitLab Data Recruiting](https://youtu.be/4DlwsBIPxUw) video to say "Hi" and give you some insight into how we work and what we work on. Enjoy!
+- [Data Roles and Career Development](https://about.gitlab.com/handbook/business-technology/data-team/organization/#data-roles-and-career-development) to help existing team members and prospects understand growth opportunities
+- a [Take Home Test](https://about.gitlab.com/handbook/business-technology/data-team/organization/#data-roles-and-career-development) that we ask each candidate to complete; this test is good for the candidate and for us because it represents the type of work we perform regularly and if the candidate is not interested in this work it helps them make a more informed decision about their application
+
+# Data Roles and Career Development
+
+## [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer)
 
 ```mermaid
   graph LR;
@@ -98,7 +119,7 @@ We encourage our stakeholders to follow along with our issue boards to understan
   click supe:fde "https://about.gitlab.com/job-families/finance/data-management#staff-data-engineer";
 ```
 
-### [Data Analysis](https://about.gitlab.com/job-families/finance/data-analyst)
+## [Data Analysis](https://about.gitlab.com/job-families/finance/data-analyst)
 
 ```mermaid
   graph LR;
@@ -116,7 +137,7 @@ We encourage our stakeholders to follow along with our issue boards to understan
   click supe:fda "https://about.gitlab.com/job-families/finance/data-analyst#staff-data-analyst";
 ```
 
-### [Data Science](https://about.gitlab.com/job-families/finance/data-scientist)
+## [Data Science](https://about.gitlab.com/job-families/finance/data-scientist)
 
 ```mermaid
   graph LR;
@@ -128,7 +149,7 @@ We encourage our stakeholders to follow along with our issue boards to understan
   click supe:sds "https://about.gitlab.com/job-families/finance/data-science/#senior-data-scientist";
 ```
 
-### [Analytics Engineering](https://about.gitlab.com/job-families/finance/analytics-engineer)
+## [Analytics Engineering](https://about.gitlab.com/job-families/finance/analytics-engineer)
 
 ```mermaid
   graph LR;
@@ -144,7 +165,7 @@ We encourage our stakeholders to follow along with our issue boards to understan
   click supe:pae "https://about.gitlab.com/job-families/finance/analytics-engineer#principal-analytics-engineer";
 ```
 
-### [Data Management](https://about.gitlab.com/job-families/finance/manager-data)
+## [Data Management](https://about.gitlab.com/job-families/finance/manager-data)
 
 ```mermaid
   graph LR;
