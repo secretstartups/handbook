@@ -348,7 +348,7 @@ All GitLab team members should use [Two Factor Authentication](https://en.wikipe
 - [TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm). TOTP (Time-based One Time Password) is a popular method for a second factor. This can be done via a mobile app (Google Authenticator, Duo Security, etc) although there are some software implementations as well. While not as secure as U2F or Push as TOTP could be [phished](https://en.wikipedia.org/wiki/Phishing) (although the attack window would be extremely short), it is still a very secure method of authentication. As 1Password is used by GitLab team members, this could be used for TOTP after proper configuration ([see below](/handbook/security/#two-factor-authentication-and-time-based-one-time-passwords)).
 - [SMS](https://en.wikipedia.org/wiki/SMS). SMS (Short Message Service) is a method of using text messaging to provide out-of-band (OOB) authentication. As the messages can be spoofed or intercepted more easily than other methods, SMS is not recommended for 2FA. As of this writing the Security Department is unaware of GitLab assets or third party applications that team members are using that _only_ support SMS 2FA, but if you need to use something that only offers SMS as a second factor for GitLab, contact the [Security Department](/handbook/engineering/security/#slack-channels).
 
-There is a reason that multiple 2FA methods are supported (e.g. Okta supports U2F, Push, and TOTP). Situations are different for different team members. For team members that travel a lot, they might feel more comfortable using Push instead of U2F if they are concerned about losing the hardware token during their travels. Many team members us 1Password and TOTP for the convenience. Many services support configuring multiple methods, which can be used for different situations or as a backup if a factor is lost. The idea is that we give team members a choice so that they can adapt a 2FA solution that best suits their needs. Again, contact the [Security Department](/handbook/engineering/security/#slack-channels) if you have questions.
+There is a reason that multiple 2FA methods are supported (e.g. Okta supports U2F, Push, and TOTP). Situations are different for different team members. For team members that travel a lot, they might feel more comfortable using Push instead of U2F if they are concerned about losing the hardware token during their travels. Many team members use 1Password and TOTP for the convenience. Many services support configuring multiple methods, which can be used for different situations or as a backup if a factor is lost. The idea is that we give team members a choice so that they can adapt a 2FA solution that best suits their needs. Again, contact the [Security Department](/handbook/engineering/security/#slack-channels) if you have questions.
 
 For a better understanding of how 2FA fits into GitLab, refer to the [Accounts and Passwords](/handbook/security/#accounts-and-passwords) section, which includes pointers to setting up passwords, acquiring U2F tokens, and links to further resources. Refer to the Tools and Tips page for more detailed information regarding [U2F](/handbook/tools-and-tips/#u2f) and [other 2FA methods](/handbook/tools-and-tips/#other-2fa-methods).
 
@@ -873,7 +873,7 @@ To forward the email as an attachment to GitLab's Security Team using Gmail:
   3. Send it to `phishing@gitlab.com`
 
 #### Step 2
-GMail offers the option to report the email directly to Google as a
+Gmail offers the option to report the email directly to Google as a
 phishing attempt, which will result in its deletion. Reporting the email
 in this manner will help the security team track phishing metrics and trends over
 time within Google Workspace.
@@ -889,9 +889,13 @@ sender you don't recognize, for example -- do not click on any links in the
 email. Instead use your own bookmark for the site or manually type the address
 of the website into your browser.
 
-Unsolicited email should be treated as phishing emails.  For example, if you
+Unsolicited email should be treated as phishing emails. For example, if you
 did not register for a site claiming to send you email, do not click on links
 in the email or visit the site.
+
+The Security Team uses automated tooling to analyze your reported attachments. 
+If something is missing from your report, you may be contacted by `support@tines.io`,
+which is the tooling's no-reply notifyer address. 
 
 ## Panic Email
 
