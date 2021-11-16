@@ -23,7 +23,7 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from November 1, 
 
 ### 2. CEO: Optimize GitLab Managed future
 [Epic 1610](https://gitlab.com/groups/gitlab-com/-/epics/1610)
-   1. **CEO KR:** Meet GitLab.com improvement goals (availability above 99.95%, free user RoI strategy, increase trial conversion from x% to y% on the path to z%). [Issue 12482](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12482)
+   1. **CEO KR:** Meet GitLab.com improvement goals (availability above 99.95%, free user RoI strategy). [Issue 12482](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12482)
    1. **CEO KR:** Meet SaaS improvement goals (increase customer empathy project in engineering, x customers live with Project Horse beta, launch storage visibility). [Issue 12483](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12483)
    1. **CEO KR:** Implement category creation plan. [Issue 12484](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12484)
 

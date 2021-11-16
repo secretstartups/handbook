@@ -16,15 +16,15 @@ canonical_path: "/company/okrs/"
 ## Most recent OKRs
 
 All our OKRs are public and listed on the pages below.
-- [FY22-Q4 Active](/company/okrs/fy22-q4/)
-- [FY23-Q1 Future](/company/okrs/fy23-q1/)
-- [Previous OKRs](#okr-archive)
+- [FY22-Q4 Active](/company/okrs/fy22-q4/){:data-ga-name="fy22-q4"}{:data-ga-location="body"}
+- [FY23-Q1 Future](/company/okrs/fy23-q1/){:data-ga-name="fy23-q1"}{:data-ga-location="body"}
+- [Previous OKRs](#okr-archive){:data-ga-name="okr archive"}{:data-ga-location="body"}
 
 ## What are OKRs?
 
 [OKRs](https://en.wikipedia.org/wiki/OKR) stand for Objectives and Key Results and are our quarterly objectives.
-OKRs are _how_ to achieve the goal of the Key Performance Indicators [KPIs](/handbook/ceo/kpis/).
-They lay out our plan to execute our [strategy](/company/strategy/) and help make sure our goals and how to achieve that are clearly defined and aligned throughout the organization.
+OKRs are _how_ to achieve the goal of the Key Performance Indicators [KPIs](/handbook/ceo/kpis/){:data-ga-name="KPIs"}{:data-ga-location="body"}.
+They lay out our plan to execute our [strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"} and help make sure our goals and how to achieve that are clearly defined and aligned throughout the organization.
 The **Objectives** help us understand *what* we're aiming to do,
 and the **Key Results** help paint the picture of *how* we'll measure success of the objective.
 You can use the phrase “We will achieve a certain OBJECTIVE as measured by the following KEY RESULTS…” to know if your OKR makes sense.
@@ -36,11 +36,11 @@ OKRs have four superpowers:
 * Tracking
 * Stretch
 
-We do not use it to [give performance feedback](/handbook/people-group/360-feedback/) or as a [compensation review](/handbook/total-rewards/compensation/) for team members.
+We do not use it to [give performance feedback](/handbook/people-group/360-feedback/){:data-ga-name="give performance feedback"}{:data-ga-location="body"} or as a [compensation review](/handbook/total-rewards/compensation/){:data-ga-name="compensation review"}{:data-ga-location="body"} for team members.
 
-The [E-Group](/company/team/structure/#e-group) does use it for their [Performance Enablement Reviews](/handbook/people-group/learning-and-development/career-development/#performance-enablement-review)
+The [E-Group](/company/team/structure/#e-group){:data-ga-name="e-group"}{:data-ga-location="body"} does use it for their [Performance Enablement Reviews](/handbook/people-group/learning-and-development/career-development/#performance-enablement-review){:data-ga-name="performance enablement reviews"}{:data-ga-location="body"}
 
-The [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/) initiates and guides the OKR process.
+The [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/){:data-ga-name="chief of staff"}{:data-ga-location="body"} initiates and guides the OKR process.
 
 Watch EVP, Engineering Eric Johnson discuss the power of OKRs from his perspective:
 
@@ -56,13 +56,13 @@ Some KRs will measure new approaches or processes in a quarter. When this happen
 
 ### Shared Objectives
 
-If there is something important that requires two (or more) parts of our organization, all leaders involved should share the same or similar objective. They should have deconflicted key results so they can still achieve things within their sphere of control. This is in keeping with our concepts of [collaboration](/handbook/values/#collaboration) and [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual).
+If there is something important that requires two (or more) parts of our organization, all leaders involved should share the same or similar objective. They should have deconflicted key results so they can still achieve things within their sphere of control. This is in keeping with our concepts of [collaboration](/handbook/values/#collaboration){:data-ga-name="collaboration"}{:data-ga-location="body"} and [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual){:data-ga-name="DRI"}{:data-ga-location="body"}.
 
 ### OKRs are what is different
 
 The OKRs are what initiatives we are focusing on this quarter specifically.
 Our most important work are things that happen every quarter.
-Things that happen every quarter are measured with [Key Performance Indicators](/handbook/ceo/kpis).
+Things that happen every quarter are measured with [Key Performance Indicators](/handbook/ceo/kpis){:data-ga-name="key performance indicators"}{:data-ga-location="body"}.
 Part of the OKRs will be or cause changes in KPIs.
 
 ### Pass-thru Key Results
@@ -82,10 +82,10 @@ You should decide your scoring methodology ahead of time. You might score an OKR
 OKRs do not replace or supersede core team member responsibilities or performance indicators. OKRs are additive and are essentially a high signal request from your leadership team to prioritize the work. They typically are used to help galvanize the entire company or a set of teams to rapidly move in the one direction together. They are expected to be completed unless you have higher priority work that is surfaced and agreed to by leadership.  When surfacing tradeoffs, team members should not factor in how an unmet OKR may impact your executive leadership bonus in their prioritization. They should instead focus on GitLab priorities. If your executive leader still feels that the OKR is more important, they will ask you to *disagree and commit*. 
 
 ## Dogfood portfolio management's strategic planning capabilities
-OKRs are like [Portfolio Management](/handbook/product/categories/#portfolio-management-group) so we are [dogfooding](/handbook/values/#dogfooding) those features to track our OKR progress over the course of a quarter.
+OKRs are like [Portfolio Management](/handbook/product/categories/#portfolio-management-group){:data-ga-name="portfolio management"}{:data-ga-location="body"} so we are [dogfooding](/handbook/values/#dogfooding){:data-ga-name="dogfooding"}{:data-ga-location="body"} those features to track our OKR progress over the course of a quarter.
 Work happens in GitLab, so we use GitLab to manage tracking the progress of that work.
 We use epics to track objectives, and issues to track key results.
-With [health statuses](/releases/2020/04/22/gitlab-12-10-released/index.html#epic-and-issue-health-tracking), each of the CEO OKRs maps to an epic, and the progress of all cascading OKRs can be seen at-a-glance.
+With [health statuses](/releases/2020/04/22/gitlab-12-10-released/index.html#epic-and-issue-health-tracking){:data-ga-name="health statuses"}{:data-ga-location="body"}, each of the CEO OKRs maps to an epic, and the progress of all cascading OKRs can be seen at-a-glance.
 
 ![okr-epic-at-a-glance](/company/okrs/okr-epic-at-a-glance.png)
 
@@ -108,7 +108,7 @@ Part of the individual performance review is the answer to: how much did this pe
 ## OKR Process at GitLab
 
 The EBA to the CEO is responsible for scheduling and coordination of the OKRs process detailed below.
-Scheduling should be completed at least 30 days in advance of the beginning of the OKR process, which begins 5 weeks before the start of the [fiscal quarter](/handbook/finance/#fiscal-year).
+Scheduling should be completed at least 30 days in advance of the beginning of the OKR process, which begins 5 weeks before the start of the [fiscal quarter](/handbook/finance/#fiscal-year){:data-ga-name="fiscal quarter"}{:data-ga-location="body"}.
 
 Should you need to reschedule, please @ mention the EBA to the CEO in the `#eba-team` slack channel. 
 
@@ -167,7 +167,7 @@ Notes for Pass-thru KRs: To avoid duplicate issues for the same KR due to the fa
 
 ### Dependency Commitments
 
-Top level dependencies should be identified in the [OKR Draft Review Meeting](https://about.gitlab.com/company/okrs/#okr-draft-review-meeting), but it is likely that additional dependencies will be identified as OKRs cascade. We want to avoid situations where big asks are coming weeks into the quarter, or teams are being committed to do work without first having input. This makes it difficult for teams to manage their own priorities and succeed in their own initiatives. 
+Top level dependencies should be identified in the [OKR Draft Review Meeting](https://about.gitlab.com/company/okrs/#okr-draft-review-meeting){:data-ga-name="OKR draft review"}{:data-ga-location="body"}, but it is likely that additional dependencies will be identified as OKRs cascade. We want to avoid situations where big asks are coming weeks into the quarter, or teams are being committed to do work without first having input. This makes it difficult for teams to manage their own priorities and succeed in their own initiatives. 
 
 It is each team's responsibility to proactively identify dependencies in which the team cannot reach success without meaningful engagement from another team. In these instances, it is important that all teams required to make a significant contribution sign off on the KR and agree on the level of support to be provided. A boring solution is to create a sister KR for other departments that will need to be actively involved. KRs with dependencies should not be considered final until other teams have confirmed support, but other teams should also respect department KRs as the top priorities for the overall business and do what they can to support. 
 
@@ -176,9 +176,9 @@ It is each team's responsibility to proactively identify dependencies in which t
 In FY21, we had quarterly How to Achieve Meetings in which senior team members shared their plans for achieving KRs. These meetings were often short and inefficient as much of the content could be covered during the planning process and reviewed async. While we no longer have these meetings, plans for achieving KR targets should still be clearly documented within KR issues. An issue should include the following fields:
 
 1. **Overview:** some additional background on what we are trying to accomplish and why it is important. This section should elaborate on KRs that are not fully descriptive and provide context for team members who might not otherwise understand the desired result.
-1. **DRI or Core Team**: document the [DRI](/handbook/people-group/directly-responsible-individuals/). Other key team members and their roles can also be captured in this section.
+1. **DRI or Core Team**: document the [DRI](/handbook/people-group/directly-responsible-individuals/){:data-ga-name="DRI"}{:data-ga-location="body"}. Other key team members and their roles can also be captured in this section.
 1. **Action Items:** a list of 3-10 key action items for achieving the target. You can consider using check boxes or a chart to help communicate progress.
-1. **Scoring**: your KR should be a statement that clearly indicates how you will score final achievement at the end of quarter. If it is, this section is not needed. When how the KR will be scored isn't immediately clear from the KR itself, details on how scoring will work should be documented according to [scoring guidelines](/okrs/#scoring-okrs). 
+1. **Scoring**: your KR should be a statement that clearly indicates how you will score final achievement at the end of quarter. If it is, this section is not needed. When how the KR will be scored isn't immediately clear from the KR itself, details on how scoring will work should be documented according to [scoring guidelines](/okrs/#scoring-okrs){:data-ga-name="OKRs"}{:data-ga-location="body"}. 
 
 ### The quarter begins
 
@@ -187,24 +187,24 @@ CEO OKRs may be included in the next formal or informal Board meeting.
 
 ### Making changes within quarter
 
-We value [iteration](/handbook/values/#iteration). We can change an objective or KR if we find that in our pursuit of the initial KR we have not set the optimal goal. Here are a few examples of when this could happen:
+We value [iteration](/handbook/values/#iteration){:data-ga-name="iteration"}{:data-ga-location="body"}. We can change an objective or KR if we find that in our pursuit of the initial KR we have not set the optimal goal. Here are a few examples of when this could happen:
 
 1. It becomes clear that the performance indicator does not provide the best measure for success
 1. A KR statement exists, but the target is a placeholder. For example, "Obtain $XM in bookings in Q1"
 1. A KR is related to achievement of a new inititiave, and it is agreed that we should pivot in terms of scope or focus as we learn more about what we want to achieve
 
-Please note that iteration **does not** mean [changing or lower goal posts](https://about.gitlab.com/handbook/values/12-things-that-are-not-iteration), because it looks like we can't meet what were ambitious but agreed upon key results.
+Please note that iteration **does not** mean [changing or lower goal posts](https://about.gitlab.com/handbook/values/12-things-that-are-not-iteration){:data-ga-name="changing or lower goal posts"}{:data-ga-location="body"}, because it looks like we can't meet what were ambitious but agreed upon key results.
 
-It is better to update an objective or KR than continue to work toward a goal that is not best aligned with desired business [results](/handbook/values/#results). In instances where CEO KRs are being updated in the spirit of iteration, post an MR in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO for approval. Approval of the MR indicates that the revised goal has been agreed upon. At this point, you can also update the issue or epic to reflect changes.
+It is better to update an objective or KR than continue to work toward a goal that is not best aligned with desired business [results](/handbook/values/#results){:data-ga-name="results"}{:data-ga-location="body"}. In instances where CEO KRs are being updated in the spirit of iteration, post an MR in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO for approval. Approval of the MR indicates that the revised goal has been agreed upon. At this point, you can also update the issue or epic to reflect changes.
 
 In the event that a functional Objective that is captured in an epic or a functional KR that is capured in an issue needs to be updated, please note the change in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO for approval. Approval of the change indicates that the revised goal has been agreed upon.
 
 
 ## Format of OKR on the Handbook Page
 
-Top level CEO KRs will appear in the handbook. OKRs have numbers attached to them for [ease of reference, not for ranking](/handbook/communication/#numbering-is-for-reference-not-as-a-signal). In order to maintain a [single source of truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot), starting in Q4 FY21, we're putting functional objectives and KRs in epics and issues that should link to the CEO KR epics that are linked on the handbook page. We made this change, because the handbook and epics were not being consistently updated, so there often wasn't a single source of truth. We were also struggling with merge conflicts as regular changes were being made to the handbook page. 
+Top level CEO KRs will appear in the handbook. OKRs have numbers attached to them for [ease of reference, not for ranking](/handbook/communication/#numbering-is-for-reference-not-as-a-signal){:data-ga-name="ease of reference"}{:data-ga-location="body"}. In order to maintain a [single source of truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot){:data-ga-name="single source of truth"}{:data-ga-location="body"}, starting in Q4 FY21, we're putting functional objectives and KRs in epics and issues that should link to the CEO KR epics that are linked on the handbook page. We made this change, because the handbook and epics were not being consistently updated, so there often wasn't a single source of truth. We were also struggling with merge conflicts as regular changes were being made to the handbook page. 
 
-Functional leaders are responsible for updating the their objectives and KRs in their epics and issues before each [Key Review](/handbook/key-review/#automated-kpi-slides).
+Functional leaders are responsible for updating the their objectives and KRs in their epics and issues before each [Key Review](/handbook/key-review/#automated-kpi-slides){:data-ga-name="key reviews"}{:data-ga-location="body"}.
 
 ## Format of Objectives and Key Results in Epics and Issues
 
@@ -233,7 +233,7 @@ Although the steps in this example reference the Development department these st
 
 ### The Tracking Issue
 
-For Development we use the [Development Department Issue Board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1008667?label_name[]=Development%20Department) to track OKRs, organized by each sub-department.  Each group creates their own tracking issue with the description of the issue linking out to [Objectives](#objectives) and [Key Results](#key-results).  Instructions for creating the tracking issue:
+For Development we use the [Development Department Issue Board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1008667?label_name[]=Development%20Department){:data-ga-name="development issue board"}{:data-ga-location="body"} to track OKRs, organized by each sub-department.  Each group creates their own tracking issue with the description of the issue linking out to [Objectives](#objectives) and [Key Results](#key-results).  Instructions for creating the tracking issue:
 
 1. Create a tracking issue using the `engineering-okr` template ([link](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=engineering-okr&issue[title]=FYYY-QQ%20Group%20Name%20OKRs))
 1. Note: The `engineering-okr` template can be used by any department, simply remove the ~"Engineering Management" label
@@ -243,10 +243,10 @@ For Development we use the [Development Department Issue Board](https://gitlab.c
 
 #### Objectives
 
-The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/).  In your Tracking Issue you will need to [create an epic](https://gitlab.com/groups/gitlab-com/-/epics/new) for each objective with the proper title [formatting](https://about.gitlab.com/company/okrs/#format-of-objectives-and-key-results-in-epics-and-issues).  There are currently no templates for these epics.  Steps to create an objective epic:
+The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/){:data-ga-name="OKR section of the handbook"}{:data-ga-location="body"}.  In your Tracking Issue you will need to [create an epic](https://gitlab.com/groups/gitlab-com/-/epics/new){:data-ga-name="epics"}{:data-ga-location="body"} for each objective with the proper title [formatting](https://about.gitlab.com/company/okrs/#format-of-objectives-and-key-results-in-epics-and-issues){:data-ga-name="formatting"}{:data-ga-location="body"}.  There are currently no templates for these epics.  Steps to create an objective epic:
 
-1. [Create an epic](https://gitlab.com/groups/gitlab-com/-/epics/new) for each objective that you wish to create a key result
-1. [Format the epic title](https://about.gitlab.com/company/okrs/#format-of-objectives-and-key-results-in-epics-and-issues) to match the company OKR title
+1. [Create an epic](https://gitlab.com/groups/gitlab-com/-/epics/new){:data-ga-name="epics"}{:data-ga-location="body"} for each objective that you wish to create a key result
+1. [Format the epic title](https://about.gitlab.com/company/okrs/#format-of-objectives-and-key-results-in-epics-and-issues){:data-ga-name="format the title"}{:data-ga-location="body"} to match the company OKR title
 1. Optional - add labels for your group or sub-department or department
 1. Add the newly created epic to your manager's objective in the same category (e.g. Product, Team, Net ARR).  This is so that all objective roll up to the CEO objective of the same category and everyone can see a cascading view of objectives
 1. Update the [Tracking Issue](#the-tracking-issue) with the title and link of this newly created objective
@@ -255,7 +255,7 @@ The objectives for the quarter are defined in the [OKR section of the handbook](
 
 Each [Objective](#objectives) will contain one or more Key Result issues.  Instructions:
 
-1. Create a [new issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=engineering-kr&issue[title]=FYYY-QQ%20Group%20Name%20KR:%20Text)
+1. Create a [new issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=engineering-kr&issue[title]=FYYY-QQ%20Group%20Name%20KR:%20Text){:data-ga-name="new issue"}{:data-ga-location="body"}
 1. The title format is FYYY-QQ Group Name KR: Text (e.g. FY21-Q3 Protect Group KR: Protect our Code!)
 1. Add the following labels: ~OKR ~"Engineering Management" and the label for your department (e.g. ~"Development Department" and sub-department (e.g. ~"Dev Sub-department" )
 1. Add labels for your `group` (e.g. ~group::compliance)
@@ -267,7 +267,7 @@ Each [Objective](#objectives) will contain one or more Key Result issues.  Instr
 
 ## Maintaining the status of OKRs
 
-Teams should update the Health Status of their KR issues and present them in their [Key Review](/handbook/key-review/).
+Teams should update the Health Status of their KR issues and present them in their [Key Review](/handbook/key-review/){:data-ga-name="key reviews"}{:data-ga-location="body"}.
 When presenting the status of OKRs, we use the following terms to denote the status of a key result:
 1. On track - the DRI is confident the key result will be achieved.
 1. Needs attention - the DRI believes there is some risk the key result will be achieved. Elevated attention is required in order for the key result to be achieved.
@@ -275,7 +275,7 @@ When presenting the status of OKRs, we use the following terms to denote the sta
 
 A Key Results issue's health status should be maintained as the SSOT on the status. This is something that should be able to be referenced at any point in order to get a clear view of progress against the objective. The issue's parent epic will roll up the health statuses of all relevant issues. 
 
-During Key Reviews, teams should include material that covers [key OKR progress  details](/handbook/key-review/#okr-slides) and links to relevant epics and issues.
+During Key Reviews, teams should include material that covers [key OKR progress  details](/handbook/key-review/#okr-slides){:data-ga-name="okr slides"}{:data-ga-location="body"} and links to relevant epics and issues.
 
 The first Key Review of the following quarter should offer a clear scoring for each KR.
 
@@ -305,20 +305,20 @@ To update please make a merge request and post a link to the MR in the #okrs cha
 * [A Modern Guide to Lean OKRs](https://worldpositive.com/a-modern-guide-to-lean-okrs-part-i-c4a30dba5fa1)
 
 ## OKR Archive
-- [FY22-Q3](/company/okrs/fy22-q3/)
-- [FY22-Q2](/company/okrs/fy22-q2/)
-- [FY22-Q1](/company/okrs/fy22-q1/)
-- [FY21-Q4](/company/okrs/fy21-q4/)
-- [FY21-Q3](/company/okrs/fy21-q3/)
-- [FY21-Q2](/company/okrs/fy21-q2/)
-- [FY21-Q1](/company/okrs/fy21-q1/) 
-- [FY20-Q4](/company/okrs/fy20-q4/)
-- [FY20-Q3](/company/okrs/fy20-q3/)
-- [FY20-Q2](/company/okrs/fy20-q2/)
-- [FY20-Q1](/company/okrs/fy20-q1/)
-- [CY18-Q4](/company/okrs/2018-q4/)
-- [CY18-Q3](/company/okrs/2018-q3/)
-- [CY18-Q2](/company/okrs/2018-q2/)
-- [CY18-Q1](/company/okrs/2018-q1/)
-- [CY17-Q4](/company/okrs/2017-q4/)
-- [CY17-Q3](/company/okrs/2017-q3/)
+- [FY22-Q3](/company/okrs/fy22-q3/){:data-ga-name="fy22-q3"}{:data-ga-location="body"}
+- [FY22-Q2](/company/okrs/fy22-q2/){:data-ga-name="fy22-q2"}{:data-ga-location="body"}
+- [FY22-Q1](/company/okrs/fy22-q1/){:data-ga-name="fy22-q1"}{:data-ga-location="body"}
+- [FY21-Q4](/company/okrs/fy21-q4/){:data-ga-name="fy21-q4"}{:data-ga-location="body"}
+- [FY21-Q3](/company/okrs/fy21-q3/){:data-ga-name="fy21-q3"}{:data-ga-location="body"}
+- [FY21-Q2](/company/okrs/fy21-q2/){:data-ga-name="fy21-q2"}{:data-ga-location="body"}
+- [FY21-Q1](/company/okrs/fy21-q1/){:data-ga-name="fy21-q1"}{:data-ga-location="body"} 
+- [FY20-Q4](/company/okrs/fy20-q4/){:data-ga-name="fy20-q4"}{:data-ga-location="body"}
+- [FY20-Q3](/company/okrs/fy20-q3/){:data-ga-name="fy20-q3"}{:data-ga-location="body"}
+- [FY20-Q2](/company/okrs/fy20-q2/){:data-ga-name="fy20-q2"}{:data-ga-location="body"}
+- [FY20-Q1](/company/okrs/fy20-q1/){:data-ga-name="fy20-q1"}{:data-ga-location="body"}
+- [CY18-Q4](/company/okrs/2018-q4/){:data-ga-name="2018-q4"}{:data-ga-location="body"}
+- [CY18-Q3](/company/okrs/2018-q3/){:data-ga-name="2018-q3"}{:data-ga-location="body"}
+- [CY18-Q2](/company/okrs/2018-q2/){:data-ga-name="2018-q2"}{:data-ga-location="body"}
+- [CY18-Q1](/company/okrs/2018-q1/){:data-ga-name="2018-q1"}{:data-ga-location="body"}
+- [CY17-Q4](/company/okrs/2017-q4/){:data-ga-name="2017-q4"}{:data-ga-location="body"}
+- [CY17-Q3](/company/okrs/2017-q3/){:data-ga-name="2017-q3"}{:data-ga-location="body"}
