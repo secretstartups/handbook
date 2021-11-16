@@ -3,16 +3,7 @@
 layout: handbook-page-toc
 title: "TD: Zuora Revenue Waterfall"
 ---
-## On this page
-
-- TOC
-{:toc}
-
-{::options parse_block_html="true" /}
-
----
-
-The goal of this page:
+## Goal of this Page:
 
 * Help you understand how to navidate the Zuora Revenue Waterfall.
 
