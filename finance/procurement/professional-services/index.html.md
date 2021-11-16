@@ -53,6 +53,7 @@ title: Professional Services
 - Contracts less than $25K do not need to be negotiated by procurement unless there is a business reason to do so. 
     - If no negotiation is required, the review and approval cycle typically takes 1-2 weeks. Large and/or complex contracts can take longer, and this can vary wildly based on supplier input into the proces.
 - The procurement process consists of multiple approvals from different cross-functional teams, this can include finance, IT, security, and legal. 
+    - All Third Parties are subject to a [Risk Assessment](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html#part-1--risk-assessment) performed by  IT Security's Third Party Risk Management (TPRM) team. If required, an associated [Security Assessment](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html#part-2--security-assessment) will be performed.
 - All approvals are necessary before your contract can be signed for compliance purposes. 
 
 ## What if I have an Urgent Request?
