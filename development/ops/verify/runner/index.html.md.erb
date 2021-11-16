@@ -10,26 +10,215 @@ description: "The GitLab Runner Group's team page."
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Vision
-
-For an understanding of what this team is going to be working on take a look at [the product
-vision](/direction/verify/runner/#top-vision-items).
-
 ## Mission
 
-The Verify:Runner Group is focused on all the functionality with respect to
-Runner.
+The Verify:Runner Group is responsible for developing and maintaining GitLab Runner, features and capabilities for Runner Cloud, and delivering a lovable user experience for managing a build agent fleet at scale.  Our mission is to provide market-leading features to simplify CI/CD workflows running anywhere and on any computing platform and support our thriving and active community contributors.
 
 This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
 
-## Direction
+## Product Vision and Strategy
 
-For an understanding of what our category direction is, take a look at the [direction page](/direction/verify/runner/).
+The vision and strategy for the runner product categories are covered on the following direction pages.
+
+- [Runner Core](/direction/verify/runner/)
+- [Runner Cloud](/direction/verify/runner_cloud)
+- [Runner Fleet Management](/direction/verify/runner_cloud)
 
 ## UX strategy
 
 - UX Strategy page - _coming soon_
 - [Verify:Runner JTBD](/handbook/engineering/development/ops/verify/runner/jtbd/)
+
+## Performance Indicator
+
+In the [OPS section](https://internal-handbook.gitlab.io/product/performance-indicators/ops-section/), we continuously define, measure, analyze, and iterate or Performance Indicators (PIs). One of the PI process goals is to ensure that, as a product team, we are focused on strategic and operational improvements to improve leading indicators, precursors of future success.
+
+## Team Members
+
+The following people are permanent members of the Verify:Runner group:
+
+<%= shared_team_members(role_regexps: [/Verify:Runner/i]) %>
+
+## Stable Counterparts
+
+To find out who our stable counterparts are, look at the [runner product
+categtory](/handbook/product/categories/#runner-group)
+
+## Projects we maintain
+
+As a team we maintain several projects. The <https://gitlab.com/gitlab-com/runner-maintainers> group
+is added to each project with maintainer permission. We also try to align tools and versions used across them.
+
+### Product projects
+
+- [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner)
+- [GitLab Runner's Helm Chart](https://gitlab.com/gitlab-org/charts/gitlab-runner)
+- [Autoscaler - Custom Executor driver](https://gitlab.com/gitlab-org/ci-cd/custom-executor-drivers/autoscaler)
+- [AWS Fargate - Custom Executor driver](https://gitlab.com/gitlab-org/ci-cd/custom-executor-drivers/fargate)
+- [GitLab Runner UBI offline build](https://gitlab.com/gitlab-org/ci-cd/gitlab-runner-ubi-images)
+- [GCP Windows Shared Runners base VM image](https://gitlab.com/gitlab-org/ci-cd/shared-runners/images/gcp/windows-containers)
+- [MacStadium macOS VM images](https://gitlab.com/gitlab-org/ci-cd/shared-runners/images/macstadium/orka)
+- [GitLab Runner Operator](https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator)
+
+### Helper projects
+
+- [Runner release helper](https://gitlab.com/gitlab-org/ci-cd/runner-release-helper)
+- [GitLab Changelog](https://gitlab.com/gitlab-org/ci-cd/runner-tools/gitlab-changelog)
+- [Release index generator](https://gitlab.com/gitlab-org/ci-cd/runner-tools/release-index-generator)
+- [Common configuration for new GitLab Runner projects](https://gitlab.com/gitlab-org/ci-cd/runner-common-config)
+- Linters
+  - [Runner linters Docker images](https://gitlab.com/gitlab-org/ci-cd/runner-tools/runner-linters)
+  - [goargs linter](https://gitlab.com/gitlab-org/language-tools/go/linters/goargs)
+
+### Other projects
+
+- [DinD image tests](https://gitlab.com/gitlab-org/ci-cd/tests/dind-image-tests)
+- [Docker Machine fork](https://gitlab.com/gitlab-org/ci-cd/docker-machine/)
+
+## Technologies
+
+We spend a lot of time working in Go which is the language that [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) is written in. Familiarity with Docker and Kubernetes is also useful on our team.
+
+## Common Links
+
+ * [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Arunner)
+ * [Slack Channel](https://gitlab.slack.com/archives/g_runner)
+ * [Roadmap](https://gitlab.com/groups/gitlab-org/-/boards/2169473?label_name[]=Category%3ARunner&label_name[]=direction)
+
+## Development Process
+
+### Roadmap
+
+The GitLab Runner product development team maintains the following roadmap issue boards aligned to delivery milestones.
+
+- [Runner Core](https://gitlab.com/groups/gitlab-org/-/boards/3379024?scope=all&label_name[]=group%3A%3Arunner&label_name[]=runner%3A%3Acore)
+- [Runner Cloud](https://gitlab.com/groups/gitlab-org/-/boards/3383252?label_name[]=group%3A%3Arunner&label_name[]=runner%3A%3Acloud)
+- [Runner Fleet Management](https://gitlab.com/groups/gitlab-org/-/boards/3383529?label_name[]=group%3A%3Arunner&label_name[]=runner%3A%3Aenterprise-ui)
+
+These roadmap views are the tactical implementation of the GitLab Runner Product Vision and Strategy. They depict the actual work that the runner development team is actively working on for the current milestone or planning to deliver in a near-term milestone.
+
+**Note** Even though issues are assigned to a milestone as this is important for roadmap planning and general direction setting, it is only on completion of the iteration plan for a milestone will engineering commit delivery.
+
+### Iterations
+
+The Gitlab Runner team works in monthly iterations. While the feature freeze for the core runner project is on the 7th in preparation for the release on the 22nd of each month, iteration planning dates for the upcoming milestone are aligned with GitLab's [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
+
+At a minimum, 14 days before the start of a milestone, the runner PM reviews and re-prioritizes as needed the features, bugs, technical debt, UX debt to be included for developer assignment in the iteration. Note - this is and must be a conversation with the PM, EM and members of the team.
+
+The commitments for the iteration plan are directly related to the capacity of the team for the upcoming iteration. Therefore, to finalize the iteration plan for a milestone, we re-evaluate and consider the following sources of input:
+
+- In flight development work that did not complete prior to feature freeze.
+- Strategic direction features.
+- Community or customer requested features.
+- Security issues.
+- Bugs: Priority one bugs are first in the queue for available developer capacity. Second is long-standing priority two bugs with missed SLO's.
+- Technical Debt.
+- Maintenance.
+- Engineering allocations.
+- Community merge requests review assignments.
+
+### Iteration Planning and Issue Refinement Process
+
+1. The PM creates iteration planning issues for at minimum the next three milestones.
+1. The PM adds candidate issues to the issue. The PM considers the WIP limits for each runner category. The WIP limits must be considered as this (a) forces rigorous prioritization and (2) enables the team to be more efficient as the team can focus on a manageable list of issues. The WIP limits as of November 2021 are listed below.
+1. The PM adds the scoped label ~"candidate::x.y" to each issue. For example ~"candidate::15.0"
+1. The PM assigns the iteration planning issue to the runner EM, Quality and UX leads.
+1. The PM tags the runner team on the issue. This is to enable the team to collaborate async on the planning issue. This is very important as the goal is to ensure that the iteration plan reflects planned work.
+1. The EM reviews all candidate tech debt, bugs, security and feature issues and validates if the `~workflow::ready for development` label can be applied or the issue needs further refinement. The priority is the next in queue milestone.
+1. The EM will assign issues needing refinement to individual engineers and add the `~workflow::refinement` label to the issue.
+1. **Issue Refinement**: engineers assigned to refine an issue are responsible for coming up with an implementation plan for the issue - exploring any unknowns, edge cases, or compatibility challenges that may come up and proposing how the issue can be broken down into smaller tasks that can be iterted on quickly. We strive to iterate and break down the efforts to ship as much value in the milestone for our users as possible. If you see a more efficient way forward when you start working on issue refinement, you are free to update the proposal and create a new issue to deliver value more quickly to our users.
+1. At minimum, three business days prior to GitLab's monthly release [kickoff](https://about.gitlab.com/handbook/engineering/workflow/#kickoff) livestream. The PM, EM, Quality and UX leads finalize the iteration plan for the upcoming milestone. All issues that are targeted for delivery in the milestone must have an engineer assigned.
+1. Finally the EM adds the `~deliverable` label to all issues and removes the scoped label ~"candidate::x.y" from the issue.
+
+### Runner Category WIP (capacity) Limits for Iteration Planning - revised 2021-11-15
+
+| Runner Category |Sub-category|Issue limit|
+| ------ | ------ |------ |
+| Runner Core| Tech Debt| 2|
+| Runner Core| Bugs & Security Issues | 4|
+| Runner Core| Features | 4|
+| Runner Cloud| pending| pending|
+| Runner Fleet Management| pending| pending|
+
+### Guidelines for Merge Requests
+
+As a developer on the runner team, you will be contributing to the various runner projects. Since the GitLab Runner project reviewers and maintainers review all code contributions (runner team members and community contributions), we must try and be as efficient as possible when submitting merge requests for review.
+
+#### The responsibility of the merge request author
+
+Developers are responsible for creating merge requests that incrementally improve the product. Every developer should aspire to have their merge requests "sail through" the review process.
+
+Each merge request created should include an explanation of why it is needed. Simply saying `Closes Issue #1234` is incomplete - it puts the work of understanding the context on the reviewer who then needs to go through the issue and put together the context they need to understand this particular change. Maintainers are encouraged to immediately send back MRs that don't make it clear why the change is needed.
+
+When a merge request is sent to a reviewer or maintainer, it should be for the sake of performing a review that leads to a merge. If a merge request can't be merged at the end of the review it should not make it to a maintainer. For example, if it is blocked by another MR that needs to be merged before it or a yet-to-be-decided constant value then it cannot be merged and shouldn't be clogginging up the maintainers review queue.
+
+As the author of a merge request, it is your responsibility to get your code merged. If it's not happening due to delays in review, it's up to you to reach out to the reviewer, consider offering to pair-review it on a call, or reassign it to a reviewer with more capacity.
+
+When an MR is ready for review, or maintainer review, it is the author's responsibility to find a reviewer with capacity who agrees to take it on. All the active work of this is on the MR author as part of their responsibility for getting their code merged. Often times our maintainers, being the friendly team mates that they are, will actively solicit MRs that need revieweing - especially when approaching a release date - but this shouldn't be expected.
+
+Reviewers and maintainers have a limit on how many MRs they can have assigned for review at any given time. If no one has capacity to review your MR consider doing anything possible to help address that situation. For example, offer to do a pair review with the reviewer to speed up a review. Otherwise you may need to wait for the backlog of reviews to be resolved by the reviewers before moving along with asking for more reviews. The current number of assigned reviews for each member of the team is viewable on the [spreadsheet dashboard](https://docs.google.com/spreadsheets/d/1fkPW5cy2Cz_h2T2tSoYGlnuulMzU-zX6Miwz53sErE4/edit#gid=0)
+
+#### The responsibility of Reviewers and Maintainers
+
+Reviews, especially maintainer reviews, are the biggest bottleneck for our team delivering improvements to the product. Because of this we must be strict with expectations of incoming MRs and reasonable with the expecations we have on how much work the maintainers can handle. Because an issue in GitLab can have a one-to-many relationship with MRs, MRs - not issues - are our representation of work in flight. To help maintain reasonable amount of work on the shoulders of anyone doing reviews, we have a WIP limit of 5 MRs being reviewed by any person at any time. This can be tracked on the [spreadsheet dashboard](https://docs.google.com/spreadsheets/d/1fkPW5cy2Cz_h2T2tSoYGlnuulMzU-zX6Miwz53sErE4/edit#gid=0) and will alert in the team slack channel when anyone crosses the WIP limit in either direction.
+
+Because reviewing is a bottleneck for our team, it is important to be efficient. When reviewing an MR, consider high-level things before diving deeply into it - is the MR description adequate for you to understand the context without reading through 100's of issue comments? Does the general approach to the solution make architectural sense? Is it clear to you how to test it out and what behavioural difference you should see when the code is exercised?
+
+If you as a reviewer or maintainer who has reached your limit of assigned review MRs, consider asking for assistance from your peers by reassigning some to them. Additionally consider pair-reviewing with the authors on a video call to speed up the review cycle - especially if you have multiple MRs to review from a single author.
+
+Non-team member MRs count towards WIP limit. At GitLab anyone can contribute, and codebases do not equal "teams" or "groups" (even if they happen to share a name). Therefore we should, from time to time, anticipate the occasional MR from a non-team member. Since other teams may not be familiar with our imposed WIP limits, we will need to accommodate them as best we can and the reviewers may need to help with the re-balancing their workload. We should not accept these MRs as a valid reason to go above the WIP limits.
+
+These limits are intended to help with the work load on the reviewers and maintainers. If you are feeling pressured to rush through reviews, talk to your EM. Quality is always more important than speed of review.
+
+### Runner Group Specific Onboarding Needs
+
+* `editor` access to the `group-verify` project in GCP
+* Add as `maintainer` to the `gitlab-com/runner-group` group on GitLab.com
+* Make sure entry in `team.yml` has the new member as a reviewer of `gitlab-org/gitlab-runner` and `gitlab-org/ci-cd/custom-executor-drivers/autoscaler`
+* Add to Geekbot daily standup for `Runner Group Daily Standup` and `Runner Weekly Retro`
+* Add to `Verify` 1password vault (requires creating an access request).
+
+### Onboarding
+
+When a new developer joins Runner, their responsibility will include maintaining the runner project and all satelite repositories we own from their first day. This means that the developer will get Maintainer access to our repositories and will be added to the [`runner-maintainers`](https://gitlab.com/groups/gitlab-com/runner-maintainers/-/group_members?with_inherited_permissions=exclude) group so they appear in merge request approval group.
+
+This allows the onboarding developer to grow organically over time in their responsibilities, which might include (non-exhaustive) code reviews, incident response, operations and releases. We should still follow the [traditional two-stage review process](https://about.gitlab.com/handbook/engineering/workflow/code-review/) for merges in most cases (incident response and operations being exceptions if the situation warrants it).
+
+### Becoming a maintainer for one of our projects
+
+Although maintainer access is provided from day one for practical purposes,
+we follow the same process [outlined
+here](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer).
+Any engineeer inside of the organization is welcome to become a
+maintainer of a project owned by the Runner team. The first step would
+be to become a [trainee
+maintainer](/handbook/engineering/workflow/code-review/#trainee-maintainer).
+
+To start the maintainer training process,
+please create an issue in the Runner project's issue tracker using the [Release Maintainer Trainee template](https://gitlab.com/gitlab-org/gitlab-runner/issues/new?issuable_template=trainee-backend-maintainer).
+
+### Technical Debt / Backstage work
+
+In general, technical debt, backstage work, or other classifications of development work that don't directly contribute to a users experience with the runner are handled the same way as features or bugs and covered by the above Kanban style process. The one exception is that for each engineer on the team, they can only have 1 technical debt issue in flight at a time. This means that if they start working on a technical debt type issue they cannot start another one until the first one is merged. In the event that an engineer has more than one technical debt item in flight, they should choose which one to keep working on and move the others to the "in development" or "ready for review" columns depending on their status. The intent of this limitation is to constrain the number of technical debt issues that are in review at any given time to help ensure we always have most of our capacity available to review and iterate on features or bugs.
+
+### Retrospectives
+
+The team has a monthly retrospective meeting on the first Tuesday of the
+month. The agenda can be found
+[here](https://docs.google.com/document/d/1fJfUzsk2RJqLaN8C42fXWzsTo5M8sZDQ5N2M-qJGt2M/edit?usp=sharing)
+(internal link).
+
+### Deprecations process
+
+At GitLab, our release post policy specifies that deprecation notices need to be added to the release post at least two cycles before the release when the feature is removed or officially obsolete. There are typically several deprecations or removals that the runner team needs to manage across the main runner project and the other projects that this team maintains.  As such, the runner development team uses the following process to manage deprecations and removals. This process should start no later than one month after the launch of a major release.
+
+1. The assigned developer creates a Deprecations and Removal epic for the next major release. See example [epic](https://gitlab.com/groups/gitlab-org/-/epics/3212).
+1. The assigned developer collects all planned deprecations and removals with input from the development team and includes them in the epic.
+1. The assigned developer verifies that there are deprecation issues created for each deprecation.
+1. The assigned developer tags the runner development team, engineering manager, and product manager.
+1. The product manager uses the list of issues to create the deprecation notices. Our goal is to start announcing deprecations no later than six cycles before the next major release.
+1. The product manager will continue to include the deprecation notices in all release post entries up to and including the major release where the features will be fully deprecated or removed.
+
 
 ## Issue Health Status Definitions
 
@@ -84,262 +273,6 @@ Some notes/suggestions:
 * It is not necessary that the updates happen at the same time/day each week
 * Generally when there is a logical time to leave an update, that is the best time
 * Engineers are encouraged to use these updates as a place to collect some technical notes and thoughts or "think out loud" as they work through an issue
-
-## Performance Indicator
-
-We measure the value we contribute by using Performance Indicators (PI), which we define and use to track progress. As the GitLab Runner is the engine that enables GitLab continuous integration (CI), it is essential to analyze monthly active user metrics for CI when evaluating R&D investment prioritization decisions for the Runner.  We have also defined additional performance indicators specific to the Runner to evaluate R & D investment prioritization decisions.
-
-### GitLab SaaS
-
-- [Linux Shared (SaaS) Runners Minutes Used](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#verifyrunner---other---linux-shared-saas-runners-minutes-used)
-- [Windows Shared Runners (SaaS) Minutes Used](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#verifyrunner---other---windows-shared-runners-saas-minutes-used)
-
-### Self-Managed
-
-- [Total downloads of runner binaries and docker images per month for self-managed](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#verifyrunners---other---total-downloads-of-runner-binaries-and-docker-images-per-month-for-self-managed)
-
-## Usage Funnel
-
-As defined on the growth page, AARRR stands for Acquisition, Activation, Retention, Revenue, and Referral. This framework represents the customer journey, and the various means a product manager may apply a North Star metric (performance indicator) to drive a desired behavior in the funnel. As discussed above, since Runner is the engine that drives GitLab CI, at this time, we will leverage the same usage funnel definitions for [Verify:Pipeline Execution](/handbook/engineering/development/ops/verify/pipeline-execution/#usage-funnel).
-
-When we launch the macOS Runners as a product, we will add a section here that defines the AARRR metrics for that offer. The rationale for that is that we are planning for a separate landing page for the macOS Runners. As such, we can measure page views and click-throughs to call to actions.
-
-Example AARRR metrics that we have in mind for that offer:
-- Acquisition: conversion rate from page view to click-through to call to action.
-- Activation:  conversion rate from call to action click-throughs to new user sign-ups for a GitLab plan.
-- Retention: percentage of new users that continue to use GitLab after sign up.
-- Revenue: macOS Cloud Runner minutes used per month.
-
-## Team Members
-
-The following people are permanent members of the Verify:Runner group:
-
-<%= shared_team_members(role_regexps: [/Verify:Runner/i]) %>
-
-## Stable Counterparts
-
-To find out who our stable counterparts are, look at the [runner product
-categtory](/handbook/product/categories/#runner-group)
-
-## Projects we maintain
-
-As a team we maintain several projects. The <https://gitlab.com/gitlab-com/runner-maintainers> group
-is added to each project with maintainer permission. We also try to align tools and versions used across them.
-
-### Product projects
-
-- [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner)
-- [GitLab Runner's Helm Chart](https://gitlab.com/gitlab-org/charts/gitlab-runner)
-- [Autoscaler - Custom Executor driver](https://gitlab.com/gitlab-org/ci-cd/custom-executor-drivers/autoscaler)
-- [AWS Fargate - Custom Executor driver](https://gitlab.com/gitlab-org/ci-cd/custom-executor-drivers/fargate)
-- [GitLab Runner UBI offline build](https://gitlab.com/gitlab-org/ci-cd/gitlab-runner-ubi-images)
-- [GCP Windows Shared Runners base VM image](https://gitlab.com/gitlab-org/ci-cd/shared-runners/images/gcp/windows-containers)
-- [MacStadium macOS VM images](https://gitlab.com/gitlab-org/ci-cd/shared-runners/images/macstadium/orka)
-- [GitLab Runner Operator](https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator)
-
-### Helper projects
-
-- [Runner release helper](https://gitlab.com/gitlab-org/ci-cd/runner-release-helper)
-- [GitLab Changelog](https://gitlab.com/gitlab-org/ci-cd/runner-tools/gitlab-changelog)
-- [Release index generator](https://gitlab.com/gitlab-org/ci-cd/runner-tools/release-index-generator)
-- [Common configuration for new GitLab Runner projects](https://gitlab.com/gitlab-org/ci-cd/runner-common-config)
-- Linters
-  - [Runner linters Docker images](https://gitlab.com/gitlab-org/ci-cd/runner-tools/runner-linters)
-  - [goargs linter](https://gitlab.com/gitlab-org/language-tools/go/linters/goargs)
-
-### Other projects
-
-- [DinD image tests](https://gitlab.com/gitlab-org/ci-cd/tests/dind-image-tests)
-- [Docker Machine fork](https://gitlab.com/gitlab-org/ci-cd/docker-machine/)
-
-## Technologies
-
-We spend a lot of time working in Go which is the language that [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) is written in. Familiarity with Docker and Kubernetes is also useful on our team.
-
-## Common Links
-
- * [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Arunner)
- * [Slack Channel](https://gitlab.slack.com/archives/g_runner)
- * [Roadmap](https://gitlab.com/groups/gitlab-org/-/boards/2169473?label_name[]=Category%3ARunner&label_name[]=direction)
-
-## How we work
-
-### The responsibility of the merge request author
-
-Developers are responsible for creating merge requests that incrementally improve the product. Every developer should aspire to have their merge requests "sail through" the review process.
-
-Each merge request created should include an explanation of why it is needed. Simply saying `Closes Issue #1234` is incomplete - it puts the work of understanding the context on the reviewer who then needs to go through the issue and put together the context they need to understand this particular change. Maintainers are encouraged to immediately send back MRs that don't make it clear why the change is needed.
-
-When a merge request is sent to a reviewer or maintainer, it should be for the sake of performing a review that leads to a merge. If a merge request can't be merged at the end of the review it should not make it to a maintainer. For example, if it is blocked by another MR that needs to be merged before it or a yet-to-be-decided constant value then it cannot be merged and shouldn't be clogginging up the maintainers review queue.
-
-As the author of a merge request, it is your responsibility to get your code merged. If it's not happening due to delays in review, it's up to you to reach out to the reviewer, consider offering to pair-review it on a call, or reassign it to a reviewer with more capacity.
-
-When an MR is ready for review, or maintainer review, it is the author's responsibility to find a reviewer with capacity who agrees to take it on. All the active work of this is on the MR author as part of their responsibility for getting their code merged. Often times our maintainers, being the friendly team mates that they are, will actively solicit MRs that need revieweing - especially when approaching a release date - but this shouldn't be expected.
-
-Reviewers and maintainers have a limit on how many MRs they can have assigned for review at any given time. If no one has capacity to review your MR consider doing anything possible to help address that situation. For example, offer to do a pair review with the reviewer to speed up a review. Otherwise you may need to wait for the backlog of reviews to be resolved by the reviewers before moving along with asking for more reviews. The current number of assigned reviews for each member of the team is viewable on the [spreadsheet dashboard](https://docs.google.com/spreadsheets/d/1fkPW5cy2Cz_h2T2tSoYGlnuulMzU-zX6Miwz53sErE4/edit#gid=0)
-
-### The responsibility of Reviewers and Maintainers
-
-Reviews, especially maintainer reviews, are the biggest bottleneck for our team delivering improvements to the product. Because of this we must be strict with expectations of incoming MRs and reasonable with the expecations we have on how much work the maintainers can handle. Because an issue in GitLab can have a one-to-many relationship with MRs, MRs - not issues - are our representation of work in flight. To help maintain reasonable amount of work on the shoulders of anyone doing reviews, we have a WIP limit of 5 MRs being reviewed by any person at any time. This can be tracked on the [spreadsheet dashboard](https://docs.google.com/spreadsheets/d/1fkPW5cy2Cz_h2T2tSoYGlnuulMzU-zX6Miwz53sErE4/edit#gid=0) and will alert in the team slack channel when anyone crosses the WIP limit in either direction.
-
-Because reviewing is a bottleneck for our team, it is important to be efficient. When reviewing an MR, consider high-level things before diving deeply into it - is the MR description adequate for you to understand the context without reading through 100's of issue comments? Does the general approach to the solution make architectural sense? Is it clear to you how to test it out and what behavioural difference you should see when the code is exercised?
-
-If you as a reviewer or maintainer who has reached your limit of assigned review MRs, consider asking for assistance from your peers by reassigning some to them. Additionally consider pair-reviewing with the authors on a video call to speed up the review cycle - especially if you have multiple MRs to review from a single author.
-
-Non-team member MRs count towards WIP limit. At GitLab anyone can contribute, and codebases do not equal "teams" or "groups" (even if they happen to share a name). Therefore we should, from time to time, anticipate the occasional MR from a non-team member. Since other teams may not be familiar with our imposed WIP limits, we will need to accommodate them as best we can and the reviewers may need to help with the re-balancing their workload. We should not accept these MRs as a valid reason to go above the WIP limits.
-
-These limits are intended to help with the work load on the reviewers and maintainers. If you are feeling pressured to rush through reviews, talk to your EM. Quality is always more important than speed of review.
-
-### Runner Group Specific Onboarding Needs
-
-* `editor` access to the `group-verify` project in GCP
-* Add as `maintainer` to the `gitlab-com/runner-group` group on GitLab.com
-* Make sure entry in `team.yml` has the new member as a reviewer of `gitlab-org/gitlab-runner` and `gitlab-org/ci-cd/custom-executor-drivers/autoscaler`
-* Add to Geekbot daily standup for `Runner Group Daily Standup` and `Runner Weekly Retro`
-* Add to `Verify` 1password vault (requires creating an access request).
-
-### Onboarding
-
-When a new developer joins Runner, their responsibility will include maintaining the runner project and all satelite repositories we own from their first day. This means that the developer will get Maintainer access to our repositories and will be added to the [`runner-maintainers`](https://gitlab.com/groups/gitlab-com/runner-maintainers/-/group_members?with_inherited_permissions=exclude) group so they appear in merge request approval group.
-
-This allows the onboarding developer to grow organically over time in their responsibilities, which might include (non-exhaustive) code reviews, incident response, operations and releases. We should still follow the [traditional two-stage review process](https://about.gitlab.com/handbook/engineering/workflow/code-review/) for merges in most cases (incident response and operations being exceptions if the situation warrants it).
-
-### Becoming a maintainer for one of our projects
-
-Although maintainer access is provided from day one for practical purposes,
-we follow the same process [outlined
-here](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer).
-Any engineeer inside of the organization is welcome to become a
-maintainer of a project owned by the Runner team. The first step would
-be to become a [trainee
-maintainer](/handbook/engineering/workflow/code-review/#trainee-maintainer).
-
-To start the maintainer training process,
-please create an issue in the Runner project's issue tracker using the [Release Maintainer Trainee template](https://gitlab.com/gitlab-org/gitlab-runner/issues/new?issuable_template=trainee-backend-maintainer).
-
-### Kanban
-
-We try to use the Kanban process for planning/development.  Here is the
-single source of truth about how we work. Any future changes should be
-reflected here. If you feel like that process is not ideal in certain
-aspects or doesn't achieve a goal, you are more than welcome to open a
-merge request and suggest a change.
-
-#### Goals
-
-- Reduce churn of each milestone, having to move 1 issue to another
-  milestone, checking if we have the capacity.
-- Be more flexible with what makes it in a milestone.
-- Make our process clearer to identify bottlenecks.
-- Remove the feeling that we just planned this milestone but need to
-  change certain things because we added a new issue.
-
-#### Process
-
-We use the following
-[board](https://gitlab.com/groups/gitlab-org/-/boards/1605623?&label_name[]=group%3A%3Arunner)
-for planning, milestone tracking.
-
-- Open column: This is the teams' backlog, all issues that the team is
-  responsible for.
-- `~workflow::start`: This is the backlog for the product manager, they
-  are responsible for this column. Issues should be vertically stacked,
-  the top one has the highest priority. At this stage the issue is not
-  very fleshed out, and we still need to understand the problem. When an
-  issue is in this column it means that the product manager is aware of
-  the issue and will start working on it soon. This column is limited to
-  10.
-- - `~workflow::design`: At this point, issues that impact the GitLab UI have a clear problem and are going through the design process, where the [UX Definition of Done (DoD)](https://about.gitlab.com/handbook/engineering/ux/stage-group-ux-strategy/ci-cd/#definition-of-done-for-ux-pilot) is applied to any issues. In order to progress to `~workflow::planning breakdown`, the UX DoD must be complete.
-- `~workflow::planning breakdown`: This is where the engineering team
-  will work with the product manager to make sure we have a good
-  proposal for the issue at hand. Each engineer should spend 1-2 hours each
-  week to discuss the issue async with the community and product manager
-  to figure out a proposal. Particular attention should be given to thinking
-  about how the team can build the feature in an iterative way - what's the
-  smallest change we could make to get some version of the feature into the
-  hands of a customer in a single release?
-
-  Sometimes it's helpful to attach a milestone to the issue that is in this
-  column, so that an engineer can focus time doing PoC and research spikes for
-  that specific release.. It's perfectly OK for an issue to be closed from this
-  column if we decided to split the issue into multiple ones. When both the
-  product manager and engineering team are happy with the proposal they should
-  move the issue to the next column, `~workflow::ready for development`. The
-  people assigned to this issue are most likely engineers and are responsible
-  for getting this issue to the next stage.
-- `~workflow::ready for development`: At this stage, we should have a
-  good idea of what the issue requires, and how much work it is. When an
-  engineer is out of tasks to work on and has no merge requests to
-  review or any issues that are `~workflow::In dev` they should pick the
-  one on top, assign it to them and move it to the next column. In this
-  column, each issue should have a milestone attached to it to indicate
-  to the customer in which release it will be done in.
-- `~workflow::In dev`: Here is where the engineer starts working on the
-  issue. If the issue is not clear on what needs to be achieved, they
-  should discuss it with the team to see if it needs to go back to
-  previous stages. This column is limited to 3 issues per engineer in
-  the team. If they have more issues assigned to them we need to
-  reevaluate the workload of the engineer because there is most likely a
-  lot of context switching which is not effective.
-- `~workflow::In review`: When the issue has either 1 merge request or
-  multiple merge requests ready for review it should be moved to the
-  `~workflow::In review` column. There is a limit of 20 issues that
-  should be in review. If we are at limit engineers should not pick up
-  new work but see if they can help out in the review process.
-- `~workflow::blocked`: There are multiple reasons why an issue can be
-  blocked. If the issue has a milestone attached to it, the issue
-  blocking it should have the same milestone or 1 earlier, and have a
-  higher priority. We should also mark the issue as blocked using the
-  [related issue
-  feature](https://docs.gitlab.com/ee/user/project/issues/related_issues.html#adding-a-related-issue).
-- Closed column: Congratulations, the issue process has finished, the
-  bug was fixed or the feature was added. Check if you can help with
-  `~workflow::planning breakdown` or `~workflow::In review`. If not pick
-  a new issue from `~workflow::ready for development`.
-
-Tips:
-- For each column the priority is stack-ranked, meaning that the one on
-  the top is the most important one.
-- To keep the stack intact, moving 1 issue from 1 column to another
-  might mess the priority. Open the issue and use the
-  [`/label`](https://docs.gitlab.com/ee/user/project/quick_actions.html)
-  quick action to keep the same priority stack.
-
-#### Kickoff
-
-As discussed above each issue inside of `~workflow::ready for
-development` should have a milestone attached to it. If stack-ranked
-properly, the issues on top should be in the current milestone, and then
-the upcoming milestone. The product manager will take the top 5 issues
-from the `~workflow::ready for development` column that is intended
-for the upcoming milestone and use these issues as [kickoff
-issues](/handbook/product/product-processes/#kickoff-meetings).
-
-#### Weekly Refinement
-
-Each week the EM and PM on the team get together and select 1-3 issues that are our next highest priority to be broken down. On a rough rotation, the EM will then assign those issues to individual engineers. Over the following 1-2 weeks the assigned engineers will be responsible for coming up with an implementation plan for the issue - exploring any unknowns, edge cases, or compatibility challenges that may come up and proposing how the issue can be broken down into smaller, more reasonable to handle tasks. During this time frame the other engineers on the team will also be asked to become familiar with the issue. On the team call that follows, the assigned engineers will lead a discussion about the considerations and challenges they uncovered and the implementation plan they proposed. After the discussion the assigned engineer will capture any notes from the conversation and the implementation plan in the issue itself, move the issue into `~workflow::ready for development`, and unassign themselves from the issue so that it can be picked up in the priority based approach described by the Kanban workflow above.
-
-#### Technical Debt / Backstage work
-
-In general, technical debt, backstage work, or other classifications of development work that don't directly contribute to a users experience with the runner are handled the same way as features or bugs and covered by the above Kanban style process. The one exception is that for each engineer on the team, they can only have 1 technical debt issue in flight at a time. This means that if they start working on a technical debt type issue they cannot start another one until the first one is merged. In the event that an engineer has more than one technical debt item in flight, they should choose which one to keep working on and move the others to the "in development" or "ready for review" columns depending on their status. The intent of this limitation is to constrain the number of technical debt issues that are in review at any given time to help ensure we always have most of our capacity available to review and iterate on features or bugs.
-
-### Retrospecitves
-
-The team has a monthly retrospective meeting on the first Tuesday of the
-month. The agenda can be found
-[here](https://docs.google.com/document/d/1fJfUzsk2RJqLaN8C42fXWzsTo5M8sZDQ5N2M-qJGt2M/edit?usp=sharing)
-(internal link).
-
-### Deprecations process
-
-At GitLab, our release post policy specifies that deprecation notices need to be added to the release post at least two cycles before the release when the feature is removed or officially obsolete. There are typically several deprecations or removals that the runner team needs to manage across the main runner project and the other projects that this team maintains.  As such, the runner development team uses the following process to manage deprecations and removals. This process should start no later than one month after the launch of a major release.
-
-1. The assigned developer creates a Deprecations and Removal epic for the next major release. See example [epic](https://gitlab.com/groups/gitlab-org/-/epics/3212).
-1. The assigned developer collects all planned deprecations and removals with input from the development team and includes them in the epic.
-1. The assigned developer verifies that there are deprecation issues created for each deprecation.
-1. The assigned developer tags the runner development team, engineering manager, and product manager.
-1. The product manager uses the list of issues to create the deprecation notices. Our goal is to start announcing deprecations no later than six cycles before the next major release.
-1. The product manager will continue to include the deprecation notices in all release post entries up to and including the major release where the features will be fully deprecated or removed.
 
 ## Regression Error Budget Process
 
