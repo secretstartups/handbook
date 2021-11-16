@@ -227,6 +227,12 @@ The Product Intelligence team has created an API endpoint that allows the Data T
 - `ping_date`: date when the query got run
 - `run_id`: unique identifier of the processing
 
+### Performance improvements
+
+As a crucial advantage for `service ping` automation worth mentioning significant performance improvement. Graphical comparison is exposed in the picture below.
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/8e8decaf-a45c-4bc3-9fd5-6fa3dd1ea660" id="oylsfHz9bLWc"></iframe></div>
+
 ### Airflow setup
 
 We created a Airflow dag `saas-instance-usage-ping` run every Saturday that executes all the operations described below:
