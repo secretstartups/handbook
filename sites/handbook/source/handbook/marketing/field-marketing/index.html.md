@@ -645,7 +645,7 @@ If you spent money on digital ads to drive registration, then you’ll also want
 
 #### 3rd Party digital agency
 
-In order to track engagement for any work we do with PMG (our global digital marketing partner), a campaign UTM code will be created by the DMP team. The DMP team uses this UTM code to create a SFDC UTM Report. Please note a SFDC UTM Report is not the same as a SFDC Campaign (which pulls in registrations for events, webinars and content syndication leads). It is a dedicated report for our paid digital efforts only. For more information on UTM's at GitLab [can be found here](/handbook/marketing/revenue-marketing/digital-marketing-programs/digital-marketing-management/#utms-for-url-tagging-and-tracking).
+In order to track engagement for any work we do with PMG (our global digital marketing partner), a campaign UTM code will be created by the DMP team. The DMP team uses this UTM code to create a SFDC UTM Report. Please note a SFDC UTM Report is not the same as a SFDC Campaign (which pulls in registrations for events, webinars and content syndication leads). It is a dedicated report for our paid digital efforts only. For more information on UTM's at GitLab [can be found here](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#utm-tracking).
 
 You will follow this process when you are working with our 3rd party digital agency to serve your target audience ads/LinkedIn InMails.
 
