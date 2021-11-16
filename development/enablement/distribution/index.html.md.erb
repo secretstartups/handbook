@@ -162,6 +162,8 @@ Based on team responsibilities, the following objectives apply:
 
 [omnibus-gitlab](https://gitlab.com/gitlab-org/omnibus-gitlab) - This project creates platform-specific, self-contained GitLab packages and images for self-managed consumption in cloud environments and on-premisis hosting.
 
+[Cloud Native GitLab](https://gitlab.com/gitlab-org/build/CNG) provides cloud native containers to deploy GitLab. These containers may be deployed and managed via Helm using [GitLab Charts](https://gitlab.com/gitlab-org/charts/gitlab) or [GitLab Operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) on Kubernetes, OpenShift, and Kubernetes compatible container platforms.
+
 ### Omnibus GitLab project's product outputs
 
 ```mermaid
@@ -195,10 +197,6 @@ graph TD
   VMW(VMWare)
   AZURE(Azure)
 ```
-
-## Cloud Native
-
-GitLab's cloud native solutions span a collection of [image](https://gitlab.com/gitlab-org/build/CNG), Helm [chart](https://gitlab.com/gitlab-org/charts/gitlab) and [Operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) projects to deploy and manage GitLab on container platforms including Kubernetes and OpenShift.
 
 ### Cloud Native GitLab project's product outputs
 
@@ -409,6 +407,20 @@ your feature/change might not be shipped within the release.
 
 If you have any doubt whether your change will have an impact on the Distribution team,
 don't hesitate to ping us in your issue and we'll gladly help.
+
+### Requesting a new component or replacing a component
+
+Create a [Deliverables Request](https://gitlab.com/gitlab-org/distribution/team-tasks/-/issues/new?issuable_template=Architectural-Deliverables-Request)
+in the Distribution team [issue tracker].
+
+### Requesting feedback on a feature change
+
+For requesting feedback you can ping `@gitlab-org/distribution` in your issue or merge request.
+
+When looking for a Distribution reviewer for a merge request you should use the process outlined in our
+[merge request workflow](merge_requests.html#workflow) for [projects owned by the Distribution team](#all-projects). For
+changes that need Distribution review outside those projects, please ping `@gitlab-org/distribution` in the merge
+request.
 
 ## Engaging Distribution for expertise in support
 

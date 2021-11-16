@@ -43,6 +43,13 @@ Not included in the Pipeline Execution group's domain:
 - Compliance in Pipelines, see the [direction page](/direction/manage/compliance-management/)
 - [Job artifacts: storage and management of artifacts is the gateway for many CI/CD features](/direction/verify/build_artifacts/)
 
+## Exciting things and accomplishments
+This section will list the top three most recent, exciting accomplishments from the team.
+
+* [Marius Bobin](https://gitlab.com/mbobin) is now a backend maintainer for the GitLab project!
+* [James Heimbuck](https://gitlab.com/jheimbuck_gl) has joined the team as our new Product Manager.
+* The team released the first iteration of the [CI_JOB_TOKEN](https://about.gitlab.com/releases/2021/10/22/gitlab-14-4-released/#improve-security-of-cijobtoken-with-bots-and-more) to enable more secure automated workflows in GitLab CI/CD.
+
 ## Team Members
 
 The following people are permanent members of the Verify:Pipeline Execution group:
@@ -159,9 +166,11 @@ Development moves through workflow states in the following order:
  1. `Closed`
 
 `workflow::planning breakdown` is driven by Product, but is a collaborative effort between Product, UX and Engineering. The steps for **planning breakdown** typically consists of:
- - Product defining or clarifying the problem statement. Product and UX will collaborate on `problem validation` as needed
- - UX providing designs (as necessary)
+ - Product defining or clarifying the problem statement. Product and UX will collaborate on `problem validation` as needed.
+ - UX providing designs as needed.
+ - UX reviewing issues that have a workflow/user experience change by monitoring issues with the `~UX` label.
  - Engineering clarifying the issue description as stated, and refines and weights the issue once Product and UX have provided enough details to do so.
+ - Tech writing reviewing issues for documentation additions/edits and adding perspective on UI text by monitoring issues with the `~"Technical Writing"` label. (Experimental during FY22Q4)
 
 At any point, if an issue becomes blocked, it would be in the `workflow::blocked` status. If there is a blocking issue, it needs to be added to the issue description or linked to the issue with a 'blocked by' relationship.
 
@@ -177,7 +186,6 @@ We use a series of labels to indicate the highest priority issues in the milesto
 
 1. The highest priorities for a given milestone would be issues labelled with `VerifyP1` and `group::pipeline execution`.
 1. Once all of the `VerifyP1` issues have been picked up and are in `workflow:in dev` or beyond, we have `VerifyP2` and `VerifyP3` to signal issues that will become `VerifyP1` issues in the following milestones.
-
 
 Any future product priorities (`VerifyP2` or `VerifyP3` labelled issues) will typically be in `workflow::ready for development` and have designs ready, and ideally already be weighted with proposals for implementation. Beyond the product `VerifyPX` priorities, the `ready for development` column will be stack ranked (or at least reviewed) daily by the Product Manager, so that each team member can pull from the top of the column expecting that it is already ordered in priority.
 
@@ -477,7 +485,7 @@ We track our technical debt using the following [Pipeline Execution Technical De
 This board has 2 main sections:
 
 1. Issue readiness
-    - In `workflow::planning breakdown` we find issues that are currently being groomed.
+    - In `workflow::planning breakdown` we find issues that are currently being refined.
     - In `workflow::ready for development` we find issues that clearly defined and a weight has been assigned.
 
 1. Impact breakdown. We use `severity::1`, `severity::2`, `severity::3` and `severity::4` labels to classify the impact of the specific tech debt item.
@@ -486,7 +494,7 @@ This board has 2 main sections:
       - blocking debt that prevents any further changes in the area
       - we stumble on the same complex code every single time and it causes serious slow down on development
       - the problem exists in a core part of our domain that represents a dependency for a large number of features
-      - the problem is wild spread throughout several domains
+      - the problem is wide spread throughout several domains
       - the problem is related to a number of reported `severity::1` bugs
     - `severity::2` High
       - blocks many changes in the area or makes them difficult to work around it
@@ -504,6 +512,8 @@ This board has 2 main sections:
       - the problem is very isolated and has low or no impact to development
       - the area affected does not change frequently
       - the problem is related to a number of reported `severity::4` bugs
+
+1. Issue scheduling. The Engineering Manager(s) will review the [PE Technical Debt issue board](https://gitlab.com/groups/gitlab-org/-/boards/3567075?scope=all&label_name[]=group%3A%3Apipeline%20execution&label_name[]=technical%20debt&assignee_id=None) and recommend issues to schedule for upcoming milestones by adding them to the [planning issue](#planning) for a milestone or communicating with Product a need to schedule the issue in an upcoming milestone. The team strives to have 20% of a sprint's capacity filled with Tech Debt issues.
 
 Note that multiple factors can exist at once. In that case use your judgment to either bump the impact score or lower it. For example:
 - The problem exists in a feature that has a supporting role in our domain but it's related to a number of `severity::2` bugs.

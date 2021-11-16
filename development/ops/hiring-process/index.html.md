@@ -24,7 +24,8 @@ The process for Ops is a mix of the current [hiring manager (HM) tasks](/handboo
 
 ### Step 2. Kickoff
 
-1. [Create Kickoff](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session)
+1. [Create Kickoff](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session) 
+1.  Create a separate kickoff issue for each req you are hiring (each unique GHID).  For identical roles one kickoff issue can just be a link to another, but having a separate issue for each req is valuable for tracking purposes.
 1. Include label ~section::ops to the kickoff issue so we can track in [this board](https://gitlab.com/gl-talent-acquisition/req-intake/-/boards/3516477?label_name[]=section%3A%3Aops) (confidential) and use it as the single source of thruth (SSOT)
 1. [Complete Kickoff](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-2hm-complete-kick-off)
 
@@ -39,15 +40,16 @@ The main purpose of sourcing is to **Identify and engage top talent**
 
 1. Get a [recruiter LinkedIn account](/handbook/hiring/sourcing/#upgrading-your-linkedin-account) and setup 
 1. Setup LinkedIn for sourcing, for example:
-    1. setup your own templates
-    1. create projects for each of your open positions
+    1. Create your own templates
+    1. Create projects for each of your open positions or make sure you are invited to
 1. Search for candidates
     1. If you are getting support from a sourcer, follow the steps to [review inbound applications](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-4hm-optional-source-candidates-andor-review-inbound-applications)
-1. [Add prospects to Greenhouse](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-overview/#step-4-indentify--engage-top-talent-prospects)
-1. Reach Out
+1. Reach Out. Consider using the templates listed in the resources. Make sure to ask for contact details of the prospect, you will need this in the next step.
+1. [Add prospects to Greenhouse](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-overview/#step-4-indentify--engage-top-talent-prospects). In the prospect's profile, click in the three dots, and click on export to ATS. 
+1. After importing to Greenhouse, edit the profile (under Details tab, there is an edit button) to include the email and any other contact information. This is important because Greenhouse automatically sends an email to the candidate when is moved from prospect to candidate to fill a form which includes the CV to be uploaded there.
 
 **Resources**:
-- Mark Deubel's [Sourcing Outreach Podcast episode](https://doobles.podbean.com/e/building-the-foundation-sourcing-outreach-pt1-episode-3/) and [sourcing outreach](https://doobles.podbean.com/e/guest-show-sourcing-outreach-with-dov-and-mark/)
+- Mark Deubel's podcast: [Foundtaions - Sourcing Outreach](https://doobles.podbean.com/e/building-the-foundation-sourcing-outreach-pt1-episode-3/) and [Guest Show - Sourcing outreach](https://doobles.podbean.com/e/guest-show-sourcing-outreach-with-dov-and-mark/)
 - [Talent Acquisition Reach out templates](https://docs.google.com/presentation/d/1ySqgLoYnFUGtb7hdywav6iSb_NBPRhfIs6WZlGne6Ww/edit?usp=sharing) (private)
 - [Ops reach out templates](https://gitlab.com/gitlab-com/ops-sub-department/ops-hiring-process/-/blob/main/outreach-messages.md) (private)
 - [Sourcing](https://about.gitlab.com/handbook/hiring/sourcing/)
