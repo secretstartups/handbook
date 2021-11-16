@@ -7,7 +7,7 @@ title: "Tim Poffenbarger's README"
 
 ## Tim Poffenbarger's README
 
-**[Manager, Solutions Architects - Commercial](https://about.gitlab.com/company/team/#poffey21)**
+**[Senior Manager, Solutions Architects - Commercial](https://about.gitlab.com/company/team/#poffey21)**
 
 ## Related pages
 
