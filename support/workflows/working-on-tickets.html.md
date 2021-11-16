@@ -13,9 +13,9 @@ description: How to resolve users' problems by solving tickets on a daily basis.
 
 ## What is the "Working on Tickets" workflow?
 
-The [core responsibility of GitLab Support Engineers](/handbook/support/support-engineer-responsibilities.html) is to resolve user problems by solving support tickets on a daily basis. You accomplish this using the "Working on Tickets" workflow. The focus is **being responsible for the continuous progress toward resolution of a specific set of tickets**. What does this look like?
+The [core responsibility of GitLab Support Engineers](/handbook/support/support-engineer-responsibilities.html) is to resolve user problems by solving support tickets on a daily basis. You accomplish this using the "Working on Tickets" workflow. The focus is **being responsible for the continuous progress toward resolution of a specific set of tickets**.
 
-When you're "Working on Tickets", you're driving achievement of our KPI of [Support Satisfaction](/handbook/support/performance-indicators/#support-satisfaction-ssat) by helping to resolve tickets as quickly and effectively as possible.
+When you are "Working on Tickets", you contribute to the achievement of our teamwide [Support Satisfaction](/handbook/support/performance-indicators/#support-satisfaction-ssat) and [First Response Time](/handbook/support/performance-indicators/#service-level-agreement-sla) KPIs by helping to resolve tickets as quickly and effectively as possible.
 
 ## How do we prioritize tickets?
 
@@ -30,43 +30,20 @@ The global priority order for handling tickets is:
 
 ### The Process in Action
 
-#### Brief Summary
-Here's what to do when you're actively working on tickets in Zendesk. Divide your efforts between:
 
-1. taking **next** steps on tickets that are already in your
-   [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834)
-   view
-1. replying to new tickets from the `Needs Org / FRT` and `Handover Needed` views (see [Meeting FRT SLA](/handbook/support/workflows/meeting-frt-sla.html)).
+1. Contribute to [meeting our first reply time target](meeting-frt-sla.html) by [taking ownership of new tickets](#2-take-ownership-of-new-tickets) before they breach.
+1. Ensure tickets don't languish by pulling tickets that don't yet have an owner from "Handover Needed".
+1. Work on your assigned tickets and collaborate with others.
 
 #### Main Views
 
-1. My Assigned Tickets - Keep your customers up to date and moving towards solutions
-1. [Needs Org / FRT](https://gitlab.zendesk.com/agent/filters/360076150200) - all SEs find new tickets here
-1. [Handover Needed (REGION)](https://gitlab.zendesk.com/agent/filters/360076150280) - all SEs find new tickets here
-1. [SaaS Account](https://gitlab.zendesk.com/agent/filters/360050768099) - SaaS focused SEs find new tickets here
-1. [Free user tickets](https://gitlab.zendesk.com/agent/filters/360038103100) - help when you have capacity
-1. [L&R](https://gitlab.zendesk.com/agent/filters/360038103700) - for L&R focused SEs
-
-#### The Full Workflow
-
-1. Start your work at the top of your own view
-1. Determine whether you can identify any next steps to make progress
-   1. If you can, then take those steps, including updating the user
-   1. If not, then apply the `needs_collaboration` label to the ticket. This will add it to the `Needs Collaboration` ZenDesk view.
-   1. If you need synchronous help ASAP, link the ticket in Slack and ask for help from your teammates. You can also follow the [workflow on how to get help](https://about.gitlab.com/handbook/support/workflows/how-to-get-help.html) so that you continue to make forward progress on your tickets.
-1. If it's been an hour or more since you checked the [Main Views](#main-views), or your own view is up-to-date or empty, and **you have the capacity to take on another ticket**, then:
-   1. Check the priority of the top ticket in the views [for your region](#main-views). If its preferred region is `All Regions`, and the priority is `High`, follow the [High Priority All-Region Tickets Workflow](/handbook/support/workflows/high-priority-all-regions-tickets-workflow.html)
-   1. If the priority is lower, assign it to yourself
-   1. Check the `Needs Collaboration` view for opportunities to help Support team members who've requested help on tricky tickets.
-1. If you've asked in Slack for help on a ticket, and nobody has stepped up to help, and you feel you can't wait any longer for help, then:
-   1. `@mention` your manager in Slack in the thread where you requested help, and ask them what the next steps should be
-1. If there are tickets left in your view to work on, then go back to step 1, else go back to step 3
-
-#### Workflow Visual
-
-See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visual representation.
-
-<!-- ![Working on Tickets process flowchart](assets/working-on-tickets-workflow.png) -->
+The views within Zendesk are arranged as follows: 
+- [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834) - Keep your customers up to date and moving towards solutions once you've made sure no tickets are breaching.
+- [Needs Org / FRT](https://gitlab.zendesk.com/agent/filters/360076150200) - These tickets are the top priority; start here.
+- [Handover Needed (REGION)](https://gitlab.zendesk.com/agent/filters/360076150280) - If nothing is in danger of breaching, grab these.
+- [SaaS Account](https://gitlab.zendesk.com/agent/filters/360050768099) - A subset of Handover Needed focused on SaaS account issues.
+- [Free user tickets](https://gitlab.zendesk.com/agent/filters/360038103100) - help when you have capacity
+- [Needs Collaboration](https://gitlab.zendesk.com/agent/filters/360080204660) - Tickets where your colleagues are looking for help, see [What is the `Needs Collaboration` view and workflow](##what-is-the-the-needs-collaboration-view-and-workflow)
 
 ### Zendesk Housekeeping and Things To Keep In Mind:
 
@@ -161,34 +138,6 @@ Some caveats to bear in mind:
 1. **I am interested in a specific subject area that's not covered by the views provided and I would like to see tickets assigned to other team members.** Create [Zendesk personal views](https://support.zendesk.com/hc/en-us/articles/203690806-Creating-views-to-manage-ticket-workflow) and add filters for the subject area. This will list all the new tickets and the already assigned tickets for that area.
 1. **I am stuck. I really need help. What can I do?** Follow the [how to get help workflow](https://about.gitlab.com/handbook/support/workflows/how-to-get-help.html) for guidance on this. Reach out to a manager for guidance if you are really stuck.
 
-## Working on Tickets Flowchart
-
-```mermaid
-graph TD
-A([My Tickets]) --> B
-B[Open the 'My Assigned Tickets View' in Zendesk] --> B1
-B1{Are there tickets left in <BR> your view that need work?} -->|Yes| C
-B1 -->|No| NT2
-C[Select top ticket from view] --> D
-D{Can you make progress and <BR> take the next steps?}
-D -->|Yes| E[Update the user<BR>with the next steps]
-D -->|No| F[Follow the <BR>How to Get Help workflow]
-E & F --> NT0
-
-NT0([Finding a New Ticket]) --> NT1
-NT1{Have you checked <BR> the main view <BR> in the last hour?} -->|Yes| AH0
-NT1 -->|No| NT2
-NT2{Do you have capacity <BR> for another ticket?} -->|No| AH0
-NT2 -->|Yes| NT3
-NT3{Is there a ticket in <BR> the main view?} -->|No| AH0
-NT3 -->|Yes| NT4
-NT4([Assign the top ticket to yourself]) --> B1
-
-AH0([Check on Help Requests]) --> AH1
-AH1{Is there a ticket <BR> on which you need <BR> help but nobody's <BR> volunteered?} -->|Yes| AH2
-AH1 -->|No| B1
-AH2["@"mention your manager in <BR> Slack in the thread <BR> where you requested help. <BR> Ask them for next steps.] --> B1
-```
 ## Tips for working on tickets (all roles)
 
 ### I've taken a new ticket, what are some important things to consider as I make the first response?
@@ -389,6 +338,15 @@ Please see [Requesting Support for Customers](/handbook/support/internal-support
 When customers are putting negative emotions into ticket communications, refer to the handbook entry on 
 [how to keep a ticket moving toward resolution when emotions are getting involved](./emotionally-charged-tickets.html)
 for helpful tips and guidance. 
+
+### A customer has provided feedback in the ticket instead of submitting it via the customer feedback form
+
+A customer always has the option to submit feedback on how their support experience is going via the [customer feedback form](https://gitlab-com.gitlab.io/support/customer-feedback/).
+The link to this form is included in the signature of all outgoing replies from Support Engineers in Zendesk.
+
+Sometimes a customer may provide feedback via the ticket directly. To ensure this feedback is captured, you can create an issue in the [Customer Feedback](https://gitlab.com/gitlab-com/support/feedback/-/issues/new) project using the `Indirect Feedback` template and copy the feedback into the issue. The [SSAT Reviewing Manager](https://gitlab.pagerduty.com/schedules#P9UIIDY) should be assigned to the issue and they will review the feedback and take the appropriate action.
+
+In the meantime, you should continue to assist the customer with their queries and address their feedback if appropriate. If you are unsure on how to proceed, do ask for help in the [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) Slack channel.
 
 ### Handling Free User tickets
 

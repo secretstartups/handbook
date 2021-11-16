@@ -210,8 +210,7 @@ needed:
 | Team impacted | Approvers |
 |---------------|-----------|
 | Support | @gitlab-com/support/managers/senior |
-| Security | @gitlab-com/gl-security/security-assurance/risk-field-security-team | @slee24 @kmarquart |
-| Professional Services |
+| Professional Services |@slee24 @kmarquart |
 | AR/Billing | @annapiaseczna @s_mccauley |
 
 ## Stage 10: Testing and implementation

@@ -1,21 +1,20 @@
 ---
-layout: markdown_page
+layout: handbook-page-toc
 title: Servicing Internal Requests
 description: "Various templates and workflows that should be followed in order to properly service GitLab.com related requests that Support receives in the internal requests issue tracker"
 category: GitLab.com
 ---
 
-### On this page
-{:.no_toc}
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
 
 - TOC
-{:toc}
+{:toc .hidden-md .hidden-lg}
 
-----
 
-For GitLab team members wanting to file an internal request, please see the [Support Internal Requests handbook page](/handbook/support/internal-support/).
+**NOTE:** If you are a GitLab team member who wants to file an internal request, please see the [Support Internal Requests handbook page](/handbook/support/internal-support/).
 
-Note: For internal requests relating to licenses and subscriptions, please refer to the [relevant license and subscription workflow](/handbook/support/license-and-renewals/workflows/), or [CustomersDot console workflow](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html).
+**NOTE:** For internal requests relating to licenses and subscriptions, please refer to the [relevant license and subscription workflow](/handbook/support/license-and-renewals/workflows/), or [CustomersDot console workflow](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html).
 
 ## Overview
 
@@ -73,13 +72,11 @@ GitLab team members can create this request for their own use or on behalf of th
 
 ## Contact Request
 
-GitLab team members, primarily infra, will use this template to request Support to contact a user on their behalf. If requested to do this via Slack, open an issue on behalf of the requester.
+GitLab team members, primarily infra, will use this template to request Support to contact a user on their behalf. If requested to do this via Slack, open an issue on behalf of the requestor.
 
-The requestor should contact the [CMOC](/handbook/support/internal-support/#regarding-gitlab-support-plans-and-namespaces) to fulfill the request.
+The requestor should contact the [CMOC](/handbook/support/internal-support/#regarding-gitlab-support-plans-and-namespaces) to fulfill the request, as the CMOC has the ability to look up user email-addresses.
 
-This typically requires GitLab.com admin access, because you will need to look up the relevant email addresses.
-
-See the [Sending notices workflow](sending_notices.html) for more details. If none of the listed cases apply, you can use the [`Support::SaaS::Notices::General Contact Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360013369860) macro. Leave an internal note with a link to the issue.
+See the [Sending notices workflow](/handbook/support/workflows/sending_notices.html) for complete instructions on how to contact users.
 
 ## Repo Size Limit Increases
 
