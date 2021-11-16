@@ -84,7 +84,7 @@ Field Marketing runs hands-on workshops virtually. Regardless or not if there wi
 - By using Zoom webcast for these workshops we are able to more easily track and manage the Q&A coming in from the larger audience. With the chat feature in the Self Service Zoom offering, the chat runs long and can become confusing.
 - There is a more professional look and feel of a Webcast run event vs a self-service run event.
 
-For details regarding Virtual Workshops, please visit the [Field Marketing Page](/handbook/marketing/revenue-marketing/field-marketing/workshop-webcast-how-to/#virtual-workshops).
+For details regarding Virtual Workshops, please visit the [Field Marketing Page](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops).
 
 ### Virtual Conference
 {: #virtual-conference}

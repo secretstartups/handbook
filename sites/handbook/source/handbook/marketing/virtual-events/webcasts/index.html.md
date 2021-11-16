@@ -191,7 +191,7 @@ Create a [webcast date request issue](https://gitlab.com/gitlab-com/marketing/de
 ## Webcasts
 {: #field-abm-webcasts .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- For details on how the Field Marketing team runs Hosted Webcasts, please review [this page](/handbook/marketing/revenue-marketing/field-marketing/workshop-webcast-how-to/#webcasts-1).
+- For details on how the Field Marketing team runs Hosted Webcasts, please review [this page](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcasts-1).
 - For details on how the ABM team runs Hosted Webcasts, please review [this page](/handbook/marketing/revenue-marketing/account-based-strategy/account-based-marketing/abm-campaign-tactics/#webcasts).
 
 ## Virtual Workshops
@@ -199,7 +199,7 @@ Create a [webcast date request issue](https://gitlab.com/gitlab-com/marketing/de
 
 Virtual Workshops are managed and moderated by Field Marketing, working closely with Solution Architects and other GitLab team members, with partial technical setup by Campaign Managers.  
 
-For details regarding Virtual Workshops, please visit the [Field Marketing Page](/handbook/marketing/revenue-marketing/field-marketing/workshop-webcast-how-to/#virtual-workshops-1).
+For details regarding Virtual Workshops, please visit the [Field Marketing Page](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshops-1).
 
 # Best Practices
 {: #webcast-best-practices .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
