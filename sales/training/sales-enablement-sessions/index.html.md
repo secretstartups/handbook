@@ -23,12 +23,10 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Nov 25 | *No session due to US Thanksgiving holiday*      | N/A  |
-| Dec 2 |  Q4 FY22 Competitive Update      | Francis P.   |
-| Dec 9 |  Q4 FY22 Product Update      | TBD  |
-| Dec 16 |  Gitaly Cluster     | Mark W.  |
-| Dec 23 |       |   |
-| Dec 30 |       |   |
+| Dec 9 |  Gitaly Cluster     | Mark W.  |
+| Dec 16 |  Q4 FY22 Product Update      | TBD  |
+| Dec 23 | **No Session due to Holiday**      | N/A  |
+| Dec 30 |  **No Session due to Holiday**      | N/A  |
 | Jan 6 |  GitLab on IBM Power - Modernization     | Sara C. Erik O.    |
 | Jan 13 | Q4 FY22 Professional Services Update    | Bryan M.  |
 | Jan 20 | *No session during the last two weeks of the quarter* | N/A |

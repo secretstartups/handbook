@@ -34,11 +34,9 @@ Preparing for a negotiation starts as early as your first conversation, and succ
 
 ## 5 1/2 tips for how to approach price-lock negotiations at GitLab
 
-In this video, VP of Enterprise Sales - Mike Pyle, gives tips for how to approach price-lock negotiations at GitLab while protecting the value of our product during these negotiations. The key to doing this well is consistently and proactively having this conversation. This guidance is useful no matter the size or your prospect or customer.
-
+In this video, VP of Enterprise Sales - Mike Pyle, gives tips for how to approach price-lock negotiations at GitLab while protecting the value of our product during these negotiations. The key to doing this well is consistently and proactively having this conversation. This guidance is useful no matter the size of your prospect or customer. Watch below or go directly to GitLab Unfiltered to view: [5 1/2 Tips for Getting Ahead of Price-lock Negotiations (YouTube, 10 minutes)](https://www.youtube.com/watch?v=mzGc1bXESzI).
 <!-- blank line -->
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/mzGc1bXESzI"></iframe></figure><!-- blank line -->
-In addition to these tips, the below critical sales skills will also help you achieve a successful negotiation:
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/mzGc1bXESzI"></iframe></figure>In addition to these tips, the below critical sales skills will also help you achieve a successful negotiation:
 
 ## Uncover customer needs
 
