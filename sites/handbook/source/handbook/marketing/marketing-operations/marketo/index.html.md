@@ -153,7 +153,7 @@ Based on certain criteria, a lead may auto-MQL. The scenarios are listed below:
 - SaaS Trial + Business email domain
 - SaaS Trial + `Setup for Company/Use = TRUE`
 - `Contact Us`, `Professional Services` or `Renewal` forms
-- Handraise PQL
+- [Handraise PQL](/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise)
 - In-app Health Check form
 - Program status of `Follow Up Requested` 
 - Drift interaction with meeting scheduled
@@ -176,7 +176,7 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |* Survey - Med|(None Defined)	|+30|	{{my.Survey - Med}}		|Trigger|Everytime|
 |* Survey - Low|Googleforms, <br> Default	|+15|	{{my.Survey - Low}}		|Trigger|Everytime|
 |* PathFactory |Consumes PF content|+10|{{my.Content - High}}|Trigger|Everytime|
-|* Inbound  - High|Contact Request, <br> Renewals, <br> [Hand Raise PQL](https://about.gitlab.com/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise) <br> In-app Health Check|	+100|{{my.Inbound - High}}|	Trigger|	1/day	|
+|* Inbound  - High|Contact Request, <br> Renewals, <br> [Hand Raise PQL](/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise) <br> In-app Health Check|	+100|{{my.Inbound - High}}|	Trigger|	1/day	|
 |* Inbound - Med|Inbound form, not above |	+60|{{my.Inbound - Med}}	|	Trigger	|1/day|
 |Drift - High| Drift Interactions with Meeting Scheduled|+100|{{my.Drift - High}}|Trigger|1/day|
 |Drift - Low|All other Drift Interactions|+10|{{my.Drift - Low}}|Trigger|1/day|
