@@ -11,7 +11,7 @@ title: "Channel Marketing"
 
 ## This page is intended for the following audiences
 
-GitLab global and regional channel sales teams, global and local field sales teams, regional [field marketing](https://about.gitlab.com/handbook/marketing/revenue-marketing/field-marketing/#field-marketing--channel-marketing) teams, channel account managers, the global alliances team and product marketing team.
+GitLab global and regional channel sales teams, global and local field sales teams, regional [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) teams, channel account managers, the global alliances team and product marketing team.
 
 ## Our Team
 Global Channel Marketing is a team of seasoned professionals supporting global channel sales objectives and providing support to the GitLab channel partner community.  This small but mighty team is responsible for the development of channel marketing campaigns that leverage GitLab’s FY22 Go to Market Campaigns and sales plays.  We work with partners to help them understand what the campaigns are, how to use them to help drive partner sourced opportunities, how to leverage upcoming GitLab webinars/webcasts to drive conversion and how to generate trials for GitLab that they can nurture with prospects.  Channel partners are ultimately responsible for the execution of these campaigns.  
@@ -34,7 +34,7 @@ As a service bureau to a wide variety of teams, we have support functions that a
     *   Develop marketing campaign that targets partner Solution Architects to become advocates of GitLab by delivering GitLab solution overviews, demos and proof of concepts to uncover and convert sales opportunities
     *   Enable channel partner marketers to participate in [FY22 global GTM](https://about.gitlab.com/handbook/marketing/plan-fy22/) motions in partnership with the [GTM team](https://about.gitlab.com/handbook/marketing/plan-fy22/#core-teams).  
         *   Build and deliver a Bill of Materials of channel-friendly and consumable versions of GitLab campaigns and assets 
-*   Provide review and approval for local/regional [field marketing](https://about.gitlab.com/handbook/marketing/revenue-marketing/field-marketing/#field-marketing--channel-marketing) plans with partners
+*   Provide review and approval for local/regional [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) plans with partners
 *   Provide review and approval of Channel Account Manager (CAM) marketing plans.
 *   Build a repeatable, predictable, sustainable and desirable model enabling partners to receive, accept, nurture and close GitLab leads leveraging the GitLab Partner Portal and Vartopia Deal Registration system.  (future link to documentation of the process)
 *   Enable channel partners to add “[GitLab free trial](https://about.gitlab.com/free-trial/self-managed/)” functionality to their websites with marketing tools and lead passing to allow partners to effectively generate and nurture their own leads.  This will serve as partner primary CTA within demand generation efforts. 
@@ -68,7 +68,7 @@ CAN and SHOULD be leveraged as much as possible when the partner is involved in 
 
 ## Tracking Success:
 GitLab Marketing receives 'credit' for opportunities that are partner sourced so long as the oportunity has a BATP (Bizable Touchpoint) from the campaign.
-Check out the [field marketing handbook page](https://about.gitlab.com/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-initiated-and-funded-campaigns)
+Check out the [field marketing handbook page](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing-initiated-and-funded-campaigns)
 that details the FMM process where CAMs can read more about how to complete [the lead gen issue.](https://gitlab.com/gitlab-com/marketing/field-marketing/-.issues/new?issuable_template=Channel_LeadGen_Req)
 
 ## Requesting MDF funds
@@ -109,8 +109,8 @@ Partners now have the ability to place a FREE trial button on their website as a
 
 
 
-*   Individual partner support, planning, ideation and execution including but not limited to joint demand generation campaigns.  Please work closely with your region’s [field marketing](https://about.gitlab.com/handbook/marketing/revenue-marketing/field-marketing/#field-marketing--channel-marketing) team and reference linked Handbook pages for self support and field support of these programs.
-*   Custom campaigns: Channel Marketing does not currently have the resources to support individual partner campaigns and events.  Please encourage your partners to leverage one of our turnkey, and integrated campaigns-in-a-box.  For unique virtual and live events, the CAM should engage with their [field marketing](https://about.gitlab.com/handbook/marketing/revenue-marketing/field-marketing/#field-marketing--channel-marketing) counterpart to leverage field budget and marketing support for joint events.  The Field Marketing Manager will engage with their sales teams and support the CAM and partner with development, execution, and lead follow up for  the event.
+*   Individual partner support, planning, ideation and execution including but not limited to joint demand generation campaigns.  Please work closely with your region’s [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) team and reference linked Handbook pages for self support and field support of these programs.
+*   Custom campaigns: Channel Marketing does not currently have the resources to support individual partner campaigns and events.  Please encourage your partners to leverage one of our turnkey, and integrated campaigns-in-a-box.  For unique virtual and live events, the CAM should engage with their [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) counterpart to leverage field budget and marketing support for joint events.  The Field Marketing Manager will engage with their sales teams and support the CAM and partner with development, execution, and lead follow up for  the event.
 *   Asset creation: Channel Marketing is unable to work directly with partners to customize their marketing assets. 
 *   Joint demand generation planning and execution:** **The GitLab CAM is the primary point of contact to enable their partners run a successful campaign or event.  
 *   Event speakers: The Channel Marketing team does not have the resources to help locate GitLab speakers for partner events.
