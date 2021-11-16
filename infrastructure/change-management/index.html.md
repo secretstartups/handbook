@@ -166,6 +166,8 @@ bastion-01-gstg  $ ./script/migrate
 
 Maintenance changes require change reviews. The reviews are intended to bring to bear the **collective** experience of the team while providing a forum for pointing out potential risks for any given change. Consider using multiple reviewers for ~C1 or ~C2 Change requests.
 
+Fill each of the items under the `Change Reviewer checklist` based on the change criticality label assigned to the issue.
+
 ## Communication Channels
 
 Information is a key asset during any change.  Properly managing the flow of information to its intended destination is critical in keeping interested stakeholders apprised of developments in a timely fashion. The awareness that a change is happening is critical in helping stakeholders plan for said changes.
@@ -240,8 +242,9 @@ There are 2 types of PCLs: soft and hard.
 Soft PCLs aim to mitigate risk without halting all changes to production.
 Soft PCLs prohibit infrastructure changes with a criticality level of 2 or higher. In case of an emergency, the EOC should interact with the Incident Manager On Call for C1 and C2 changes.
 
-During the soft PCL, code deployments to canary are allowed since we have tools to control canary impact. Production deployments are allowed for lower criticality items (C3/C4) in coordination with the EOC.
-These items include high priority code deployments (impactful bugs, security fixes).
+During the soft PCL, code deployments to canary are allowed since we have tools to control canary impact. Production deployments are allowed for lower criticality items (C3/C4) in coordination with the EOC. These items include high priority code deployments (impactful bugs, security fixes).
+
+During the soft PCL, feature flags can be conditionally toggled, depending on their criticality, as described in the [guidelines about feature flags and the Change Management Process](/handbook/engineering/infrastructure/change-management#feature-flags-and-the-change-management-process). Feature flags that do not require a change management issue can be toggled by engineers. In case of a change management issue being required, follow guidelines for change management process described on this page.
 
 ### Hard PCL
 
