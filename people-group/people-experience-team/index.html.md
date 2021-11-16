@@ -409,9 +409,16 @@ In some instances, we may be contacted by certain Governmental institutions aski
 
 The People Experience Associate in the `Probation Period` rotation, will complete the full process as per the steps listed in the [Probation Period](/handbook/people-group/contracts-probation-periods/#probation-period) section of the hanbook. If the weekly rotation has come to an end and not all confirmations have been received, the Associate in the next weeks rotation will follow up with team members managers.
 
-#### Triage People Group Issues
+#### Netherlands Certification of Good Conduct (VOG) Report 
 
-The People Experience Associate in the 'triage' rotation will pull up all issues opened in the [General project](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/issues) and tag / assign team members according to the request. It is important that once you have triaged the issue, to update the label from `workflow:triage` to `workflow:todo / doing`. 
+THe first day of the month, the People Experience Associate in the assigned rotation, will ensure that the new Netherlands based team members hired in the previous month have uploaded their VOG. 
+
+- There is a shared report in BambooHR called Netherlands VOG. Open that report.
+**note** If need be, please adjust the dates by editing the report. 
+- View the employees listed.
+- Go to each team members profile, then to documents, then go to either employee uploads or contracts folder. Check for the letter.
+- If a letter has been uploaded, there is nothing further you will need to do.
+- If there is not a letter, please reach out to the team member to have them upload the letter. 
 
 #### Deleting Team Member Data from Letter of Employment Rotation
 
