@@ -254,7 +254,7 @@ cc @jburton to create list upload issue and DMA request as required
    1. Open issue in the `Corporate Marketing` project for booth design. Assign to Design team and provide booth spec and due date. Provide as much notice as possible.
    1. For any content or major layout changes, tag Strategic Marketing and Design in the related booth design issue created in the `Corporate Marketing` project.
 1. Digital
-   - Coordinate all digital marketing requests with your regional MPM. See [Requesting Digital Marketing Promotions](/handbook/marketing/revenue-marketing/digital-marketing-programs/digital-marketing-management/#requesting-digital-marketing-promotions) for more info.
+   - Coordinate all digital marketing requests with your regional MPM. See [Requesting Digital Marketing Promotions](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#requests) for more info.
 1. For Corporate events - Meeting Setting
    1. All leads gathered through meeting setting must be tracked in their own campaign which will be set up by the MPM and associated to the main event campaign.
    1. We generally provide a small give (under \$50 USD or country equivalent) for anyone who takes a meeting with us.
