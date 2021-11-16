@@ -99,7 +99,7 @@ Smartling categorizes translation jobs by the integration type (Marketo, documen
 
 **Field Marketing use of Smartling**
 
-For information on how Field Marketing uses translations, please head to [that page](/handbook/marketing/revenue-marketing/field-marketing/#fmm-localization-process).
+For information on how Field Marketing uses translations, please head to [that page](/handbook/marketing/field-marketing/#fmm-localization-process).
 
 ## Notifications
 
