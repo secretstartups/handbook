@@ -56,6 +56,7 @@ The Account Based Marketing Manager is a [6](/handbook/total-rewards/compensatio
 - CRM/marketing automation background, preferably Salesforce and Marketo
 - Experience working both independently and within close teams in a fast-paced remote work environment, managing multiple projects simultaneously
 - Ability to use GitLab.
+* Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 
 #### Performance Indicators

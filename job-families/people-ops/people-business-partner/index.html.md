@@ -23,7 +23,7 @@ The Associate People Business Partner is a [grade 5](/handbook/total-rewards/com
 
 ### Requirements
 
-* Prefer 5+ years of People experience in recruiting, employee relations, people operations, compensation/benefits, and/or organizational development.
+* Relevant, progressive people experience in recruiting, employee relations, people operations, compensation/benefits, and/or organizational development.
 * Demonstrate discretion and sound judgment while working with sensitive and confidential materials.
 * Comfortable using technology, including Google Workspace and GitLab.
 * Effective verbal and written communications.
@@ -52,7 +52,7 @@ The People Business Partner is a [grade 6](/handbook/total-rewards/compensation/
 
 ### Requirements
 
-* 5 years of HR experience in recruiting, employee relations, people operations, compensation/benefits, and/or organizational development. Prefer at least 2 years in a business partner role.
+* Relevant, progressive in recruiting, employee relations, people operations, compensation/benefits, and/or organizational development. Prefer at least 2 years in a business partner role.
 * Demonstrate discretion and sound judgment while working with sensitive and confidential materials.
 * Comfortable using technology, including Google Workspace and GitLab.
 * Effective verbal and written communications.
@@ -82,7 +82,43 @@ The Senior People Business Partner is a [grade 7](/handbook/total-rewards/compen
 
 ### Requirements
 
-* At least 5 years of relevant People Business Partner experience supporting front line, mid-level and executive leaders.
+* Relevant, progressive People Business Partner experience supporting front line, mid-level and executive leaders.
+* Expert-level experience in a variety of HR competency areas such as organizational design and development, leadership development, change management, performance management, and employee relations.
+* Strong attention to detail and ability to work well with fluid information.
+* Comfortable using technology, including Google Workspace and Gitlab.
+* Effective and concise verbal and written communication skills; ability to collaborate cross-functionally.
+* Obsessed with results that matter; able to create and deliver full-cycle projects (start to finish) and results in a timely manner.
+* Team player who acts with a sense of urgency and adapts to a fast-paced and ever-changing environment.
+* Ability to solve complex problems; resourceful and takes initiative to seek internal and external resources when problem-solving.
+* Very strong EQ, with fine-tuned instincts and problem-solving skills. Demonstrates sound, consistent, trusted judgment.
+* Experience working with Global Talent (Americas, EMEA, APAC); remote experience preferred.  
+* Comfortable with high volume and very fast-paced workload; not afraid to "roll up your sleeves" to complete more tactical work. Able to switch between strategic and tactical work daily.
+* Bachelor's degree preferred; Master's degree and/or HR Certification strongly preferred.
+
+## Manager, People Business Partner (PBP)
+
+### Job Grade
+
+The Manager, People Business Partner is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+This job may be an individual contributor or a manager of people, but the title is aligned with the market practice and scope of influence for the role.
+
+**Market Justification:** The business need for this role as an individual contributor is to ensure the proper experience and expertise in partnering with leadership at the company. The PBP team brings a vast amount of knowledge with respect to strategic operations in the role. In the market it is common to have this role as an individual contributor with over 50 companies reporting data for this role for an average of 2 incumbents in the role. 
+
+### Responsibilities
+
+* Provides support and feedback to client groups, and consults with managers at all levels in areas of performance management, management training and coaching, organizational development, and employee relations. Typically supports multiple VPs across a function; likely supports a more senior executive based on organizational structure.
+* Identifies great talent, internally and externally, who will raise the bar across GitLab. Mentors others both in the client group and in the People team.
+* Uses data to identify trends related to talent in the business and coupled with a deep understanding of business needs for their client group; develops and presents solutions to senior leaders to help drive results in the organization.
+* Develops and drives People programs and processes from start to finish that align with GitLab goals and values. Deliver meaningful results to the client group with ongoing improvements that take into account both the client group and broader GitLab impact. 
+* Leads client group to maintain a high bar for performance by reviewing trends in management of underperformance. Based on insights from Team Member Relations, keeps senior leadership apprised of performance management trends and hot spots. May be more hands on with TMR for complex or senior level performance issues or investigations.
+* Analyzes trends and metrics in partnership with the People team to develop solutions, programs and policies. Raises concerns/trends to the PBP team, CPO and Legal as needed.
+* Partners with client group leadership team and relevant People groups to drive a talent strategy focused on engagement and retention of top talent. Works with Total Rewards and Talent and Engagement to ensure key trends and retention levers are addressed and used effectively.  
+* Provides guidance and input on business unit restructures, workforce planning and succession planning to support the business strategy.
+
+
+### Requirements
+
+* Relevant, progressive People Business Partner experience supporting front line, mid-level and executive leaders.
 * Expert-level experience in a variety of HR competency areas such as organizational design and development, leadership development, change management, performance management, and employee relations.
 * Strong attention to detail and ability to work well with fluid information.
 * Comfortable using technology, including Google Workspace and Gitlab.
@@ -115,7 +151,7 @@ The Director People Business Partner is a [grade 10](/handbook/total-rewards/com
 
 ### Requirements
 
-* Minimum of 10 years of relevant HR experience, with at least 5 years as a business partner supporting Senior Executive and/or C-level leaders.
+* Relevant, progressive HR experience, with at least 5 years as a business partner supporting Senior Executive and/or C-level leaders.
 * Strong attention to detail and ability to work well with fluid information.
 * Comfortable using technology, especially open source technology, Google Workspace and GitLab.
 * Effective and concise verbal and written communication skills with the ability to collaborate with cross-functional team members. At times, courage is required to respectfully speak up, “push back”, challenge “the way things have always been done” and even disagree with leaders and executives.
@@ -131,7 +167,7 @@ The Director People Business Partner is a [grade 10](/handbook/total-rewards/com
 ## Specialties
 
 ### PBP, Engineering:
-* 5-10 years relevant experience in a high growth, fast moving company where ongoing change is the norm, with at least 2-3 of those years supporting a SaaS or related software organization.
+* Relevant, progressive experience in a high growth, fast moving company where ongoing change is the norm, with at least 2-3 of those years supporting a SaaS or related software organization.
 * Partner with the engineering leaders on the people strategy for their organization.
 * Provide support and guidance to people leaders at all levels within the Engineering organization (front line managers, mid-management, and senior executives).
 * Understand GitLab’s Engineering strategy in order to align people strategies to meet business goals.
@@ -142,7 +178,7 @@ The Director People Business Partner is a [grade 10](/handbook/total-rewards/com
 * Drive equality, diversity, and inclusion throughout all of our programs and initiatives.
 
 ### PBP, Sales:
-* 5-10 years of relevant experience in a high growth, fast moving company where ongoing change is the norm, with at least 2-3 of those years supporting a global software sales organization with particular focus on Enterprise Sales, Commercial Sales and Customer Success.
+* Relevant, progressive experience in a high growth, fast moving company where ongoing change is the norm, with at least 2-3 of those years supporting a global software sales organization with particular focus on Enterprise Sales, Commercial Sales and Customer Success.
 * Partner with 1 or more Sales VPs on the people strategy for their organization.
 * Provide support and guidance to people leaders at all levels within the sales organization (front line managers, mid-management, and senior executives).
 * Experience with sales compensation, sales plans, sales data/analysis as needed, in partnership with the Sales Operations and People Operations team.

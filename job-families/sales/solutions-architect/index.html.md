@@ -62,7 +62,7 @@ The Solutions Architect is a [grade 6](/handbook/total-rewards/compensation/comp
 * Experience with cloud computing and related technologies and practices
 * Willingness to travel
 * B.Sc. in Computer Science or equivalent experience
-* Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks)
+* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 * Ability to use GitLab
 
 ### Senior Solutions Architect

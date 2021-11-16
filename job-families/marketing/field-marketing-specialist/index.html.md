@@ -113,6 +113,7 @@ This role includes all of the requirements of the previous level, plus:
 
 - 7+ years experience in marketing or event management with the desire to learn more about Field Marketing.
 - Proven knowledge of working within GitLab or within an agile environment. 
+* Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ### Performance Indicators
 This role includes all of the performance indicators of the previous level plus:
