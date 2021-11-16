@@ -7,7 +7,7 @@ title: "Stella Treas's README"
 
 ## Stella's README
 
-**Stella treas, Chief of Staff**
+**Stella treas, Chief of Staff to the CEO**
 
 This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
 

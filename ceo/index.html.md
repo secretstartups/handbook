@@ -256,7 +256,7 @@ I'm always willing to record [video content](https://www.youtube.com/watch?v=Y31
 Email [my EBA](/handbook/eba/#executive-business-administrator-team) to coordinate the recording.
 
 ## CEO Voice
-When preparing scripts or documents in my voice, please follow these guidelines. This list can help you prepare a draft that is as close as possible to my natural way of communicating. For additional information or questions, please contact the `#external-comms` Slack channel or the [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/).
+When preparing scripts or documents in my voice, please follow these guidelines. This list can help you prepare a draft that is as close as possible to my natural way of communicating. For additional information or questions, please contact the `#external-comms` Slack channel or the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/).
 
 1. Avoid “we” or “our” when discussing the product. I don’t wish to speak on behalf of others or to imply that GitLab team members are owners of GitLab or its users. Everyone can contribute = everyone has some ownership of GitLab.
 1. Less is more. If you can say something in fewer words, do so. I prefer speaking in shorter sentences. 

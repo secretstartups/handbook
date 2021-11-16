@@ -48,7 +48,7 @@ For now, this role is called a [CEO shadow](https://feld.com/archives/2015/03/ce
 Other names considered:
 
 1. Technical assistant: This title could be mixed up with the [executive assistant](/job-families/people-ops/executive-business-administrator/) role. ["In 2003, Mr. Bezos picked Mr. Jassy to be his technical assistant, a role that entailed shadowing the Amazon CEO in all of his weekly meetings and acting as a kind of chief of staff."](https://www.theinformation.com/articles/amazons-cloud-king-inside-the-world-of-andy-jassy).
-1. Chief of Staff: This commonly is the ["coordinator of the supporting staff"](https://en.wikipedia.org/wiki/Chief_of_staff) which is not the case for this role since people rotate out of it frequently.
+1. Chief of Staff to the CEO: This commonly is the ["coordinator of the supporting staff"](https://en.wikipedia.org/wiki/Chief_of_staff) which is not the case for this role since people rotate out of it frequently.
 1. [Global Leadership Shadow Program:](https://www2.deloitte.com/gr/en/pages/careers/articles/leadership-shadow-program.html) This is too long if only the CEO is shadowed.
 
 ### About the CEO Shadow Program
@@ -186,8 +186,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-11-01 | 2021-11-05 | UNAVAILABLE | UNAVAILABLE |
-| 2021-11-08 | 2021-11-12 | [REB - Richard E. Baum](https://gitlab.com/xyzzy) - Sr. Solutions Architect |  [Taurie Davis](https://gitlab.com/tauriedavis) - Product Design Manager, Foundations |
 | 2021-11-15 | 2021-11-19 | [David Kim](https://gitlab.com/dskim_gitlab) - Sr. Backend Engineer | [REB - Richard E. Baum](https://gitlab.com/xyzzy) - Sr. Solutions Architect |
 | 2021-11-22 | 2021-11-24 | AVAILABLE - REMOTE | [David Kim](https://gitlab.com/dskim_gitlab) - Sr. Backend Engineer |
 | 2021-11-30 | 2021-12-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
@@ -196,8 +194,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-01-03 | 2022-01-07 | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager | AVAILABLE - REMOTE |
 | 2022-01-10 | 2022-01-14 | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager |
 | 2022-01-18 | 2022-01-21 | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) |
-| 2022-01-24 | 2022-01-28 | AVAILABLE - REMOTE | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager |
-| 2022-01-31 | 2022-02-04 | [Kurt Dusek](https://gitlab.com/kdusek) | AVAILABLE - REMOTE |
+| 2022-01-24 | 2022-01-28 | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager |
+| 2022-01-31 | 2022-02-04 | AVAILABLE - REMOTE | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer |
 | 2022-02-07 | 2022-02-11 | UNAVAILABLE - SKO | UNAVAILABLE - SKO |
 | 2022-02-14 | 2022-02-18 | AVAILABLE - REMOTE | [Kurt Dusek](https://gitlab.com/kdusek) |
 | 2022-02-22 | 2022-02-25 | AVAILABLE - REMOTE (short week due to holiday) | AVAILABLE - REMOTE |
@@ -312,7 +310,7 @@ Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the C
 1. Solve urgent issues. For example, help solve a complaint from a customer or coordinate the response to a technical issue.
 1. Share [thanks](/handbook/communication/#say-thanks) in the `#thanks` channel in Slack when it comes from a customer or wider community member in a meeting.
 1. Compile a report on a subject.
-1. Write an blog post on the public company blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Please see [information about pitching and publishing a blog post](/handbook/marketing/blog/#how-to-pitch-a-blog-post) for information about the publishing process, and be sure to read previous CEO shadows' blog posts before you start writing to ensure that your post has a new angle. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni) section. These do not need to be approved by the CEO but he will happily review them if you'd like. The posts should however follow the parameters outlined in the [additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit). In the event you have any questions about what is okay to share, please reach out to the GitLab Legal team in slack at `#legal` or the Corporate Communications team in `#corpcomms`.
+1. Write an blog post on the public company blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Please see [information about pitching and publishing a blog post](/handbook/marketing/blog/#how-to-suggest-a-blog-post) for information about the publishing process, and be sure to read previous CEO shadows' blog posts before you start writing to ensure that your post has a new angle. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni) section. These do not need to be approved by the CEO but he will happily review them if you'd like. The posts should however follow the parameters outlined in the [additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit). In the event you have any questions about what is okay to share, please reach out to the GitLab Legal team in slack at `#legal` or the Corporate Communications team in `#corpcomms`.
 1. Ensure visual aids and presentations are visible to guests during in-person meetings.
 1. Prepare for and receive guests at Mission Control.
 1. Offer GitLab swag to guests at Mission Control before they leave.
@@ -1017,7 +1015,7 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-03 | 2020-03 | [Michael Terhar](https://gitlab.com/mterhar) | Technical Account Manager | [The HyperGrowth Calendar](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/44584) |
 | 2020-03 | 2020-04 | [Christen Dybenko](https://gitlab.com/cdybenko) | Sr Product Manager |  |
 | 2020-04 | 2020-04 | [Scott Stern](https://gitlab.com/sstern) | Frontend Engineer |  |
-| 2020-04 | 2020-04 | [Stella Treas](https://gitlab.com/streas) | Chief of Staff |  |
+| 2020-04 | 2020-04 | [Stella Treas](https://gitlab.com/streas) | Chief of Staff to the CEO |  |
 | 2020-04 | 2020-04 | [Bradley Andersen](https://gitlab.com/elohmrow) | Technical Account Manager |  |
 | 2020-04 | 2020-04 | [Cassiana Gudgenov](https://gitlab.com/cgudgenov) | People Operations Specialist |  |
 | 2020-04-28 | 2020-05-08 | [Betsy Church](https://gitlab.com/bchurch) | Senior Talent Brand Manager | [Reflecting on the CEO Shadow Program at GitLab](https://youtu.be/DGJCuMVp6FM) |
@@ -1081,3 +1079,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-09-20  | 2021-10-01 | [Christen Dybenko](https://gitlab.com/cdybenko) Shadow Alumni | Sr. Product Manager | |
 | 2021-09-28 <br/>2021-10-18 | 2021-10-01 <br/>2021-10-22 | [Kyle Wiebers](https://gitlab.com/kwiebers) | Engineering Manager, Eng Productivity | | 
 | 2021-10-18 | 2021-10-29 | [Omar Eduardo Fernandez](https://gitlab.com/ofernandez2) | Director, Strategy and Operations | |
+| 2021-10-25 <br/>2021-11-08 | 2021-10-29 <br/>2021-11-12 | [Taurie Davis](https://gitlab.com/tauriedavis) | Product Design Manager, Foundations | |

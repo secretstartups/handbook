@@ -24,7 +24,7 @@ Please refer to our [guidelines](https://docs.google.com/document/d/1oJd_3SMHlTo
 
 ## Communications
 
-Please refer to our [guidelines](https://docs.google.com/document/d/1SEBkJp0R-yjN654KTJjcSI55VGwWPHN2xTKLW5FNvUM/edit?usp=sharing)
+Please refer to our [guidelines](https://docs.google.com/document/d/1SEBkJp0R-yjN654KTJjcSI55VGwWPHN2xTKLW5FNvUM/edit?usp=sharing). Invitations sent to GitLab Team members to join the `gitlab-jh.slack.com` Slack server are legitimate. This server is used for communications between GitLab Inc. and JiHu.
 
 ## Sales
 
@@ -39,6 +39,14 @@ Please refer to our guidelines (link to be added).
 Process to be added below.
 
 ## Engineering
+
+### R&D Roles
+
+| DRI | Role |
+| --- | --- | 
+| [Mek Stittri](https://about.gitlab.com/company/team/#meks) | Engineering DRI |
+| [Kenny Johnston](https://about.gitlab.com/company/team/#kencjohnston) | Product DRI | 
+| [Kyle Wiebers](https://about.gitlab.com/company/team/#kwiebers) | Engineering Facilitator | 
 
 ### Projects
 
