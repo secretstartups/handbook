@@ -24,7 +24,7 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 - [Sales Nominated Invitations](/handbook/marketing/demand-generation/campaigns/emails-nurture/#sales-nominated)
 - [Add to Nurture](/handbook/marketing/demand-generation/campaigns/emails-nurture/#add-to-nurture-in-program)
 - [Marketo Program + Salesforce Campaigns](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)
-- [Workshop Landing Page and Marketo Setup](/handbook/marketing/revenue-marketing/field-marketing/workshop-webcast-how-to/#virtual-workshop-logistical-set-up)
+- [Workshop Landing Page and Marketo Setup](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up)
 - To be added (not yet scoped with MOps): GTM Motion token to build in overarching nurture logic and remove "add to nurture" issues.
 
 ### Team Members
@@ -181,7 +181,7 @@ Verticurl FMC
 1. **GitLab**: EMEA FMC reviews Field Marekting Issue, confirms the campaign tag or Allocadia ID has been created and adds in the allocadia line item to the event details.
 1. **GitLab**: EMEA FMC adds the label `FMM-Verticurl::wip` to the Field Markeitng Issue and `@helenadixon` will assign issue to a Verticurl FMC DRI (Directly Responsible Individual)
 1. **Verticurl**: Verticurl FMC reviews Field Marketing Issue espcially that the FMC Checklist is complete
-1. **Verticurl**: Verticurl FMC creates the epic and sub-issues utilizing this [list of epics](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)  
+1. **Verticurl**: Verticurl FMC creates the epic and sub-issues utilizing this [list of epics](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)  
 1. **Verticurl**: Verticurl FMC adds the event to the appropriate events calendar. All events should be added to the [internal calendar](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar)
 1. **Verticurl**: Verticurl FMC creates the Marketo program and SFDC campaign utilizing the Program Tracking sub-issue previously created
 1. **Verticurl**: Verticurl FMC pings the FMM in the Program Tracking issue that the Marketo program and SFDC campaign have been created and closes issue
