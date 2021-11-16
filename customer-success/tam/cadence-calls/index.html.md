@@ -33,7 +33,24 @@ An effective cadence call involves more than just the call itself. There are sev
 
 Leading up to a cadence call, the TAM should prepare a meeting agenda. This is the foundation of an effective call, and should be collaborated on by all attendees. The agenda should be made available to everyone at least a few days in advance of the call.
 
-Recommended details to include in the agenda include:
+#### Tasklist for the 1st cadence call
+
+The following items are to be covered/completed in your initial cadence call with a customer:
+
+- [ ] Identify 60-day problem areas, best practices, or training needs
+- [ ] Review customer infrastructure diagram and upload to collaboration project
+- [ ] Confirm resources/infrastructure will support future growth, and are following the reference architecture for their current (or projected) user count.
+  - [ ] For customers who are already deployed, confirm resource requirements aligned to future growth plans
+- [ ] Backup/Restore Plan in place
+- [ ] Disaster Recovery plan in place
+- [ ] Discuss & document monthly release & upgrade plan
+
+
+
+
+--- 
+
+#### Recommended details to include in the agenda include:
 
 - Attendees, both from GitLab and from the customer
 - Advance materials or read-only items
