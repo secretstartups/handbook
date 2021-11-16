@@ -127,7 +127,7 @@ To optimize productivity, GitLab field team members must be able to consistently
 Live sales enablement videocasts are held every Thursday from 12:00-12:30pm ET with the exception of the last two weeks of every quarter. Sessions are recorded and published to YouTube, made available for on-demand playback, and added to the inventory above. [Learn more here](/handbook/sales/training/sales-enablement-sessions/).
 
 # **Customer Success Skills Exchange**
-Live customer success enablement videocasts are held every Wednesday, and delivered on a weekly basis alternating time slots every other week. Every two weeks they are delivered at 10:30-11:20am ET, and the alternating weeks are delivered at 2:00-2:50pm ET. Sessions are recorded and published to [YouTube](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_), and made available for on-demand playback.
+Live customer success enablement videocasts are held roughly every other Wednesday. Learn more by visiting the [Customer Success Skills Exchange Sessions](/handbook/sales/training/customer-success-skills-exchange/#past-sessions) Handbook page and/or check out the [Customer Success Skills Exchange playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_) on GitLab Unfiltered to watch past sessions at a location and time of your choosing.
 
 # **SDR Coaching**
 Similar sessions are held for GitLab’s SDR team every Wednesday from 12:30-1:00pm ET.
