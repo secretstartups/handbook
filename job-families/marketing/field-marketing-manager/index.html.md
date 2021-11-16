@@ -87,9 +87,9 @@ The Field Marketing Manager is a [grade 6](/handbook/total-rewards/compensation/
 
 ### Key Performance Indicators 
 * [10X spend contribution to sales pipeline](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution) for region responsible for.
-* 100% SAO contribution in alignment to the FY SAO goals. Linked in the [FMM handbook](/handbook/marketing/revenue-marketing/field-marketing/#roi-tracking-for-field-marketing).
-* Field Marketing plans completed in alignment [with planning schedule](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-planning). 
-* Spending of the regional [Field Marketing budget](/handbook/marketing/revenue-marketing/field-marketing/#the-field-marketing-budget) within 5% variance. 
+* 100% SAO contribution in alignment to the FY SAO goals. Linked in the [FMM handbook](/handbook/marketing/field-marketing/#roi-tracking-for-field-marketing).
+* Field Marketing plans completed in alignment [with planning schedule](/handbook/marketing/field-marketing/#field-marketing-planning). 
+* Spending of the regional [Field Marketing budget](/handbook/marketing/field-marketing/#the-field-marketing-budget) within 5% variance. 
 
 ## Senior Field Marketing Manager
 As Field Marketing Managers progress throughout their career at GitLab or we find the need to hire a Field Marketing Manager who has more years of relevant experience, there will be a need for a Senior Field Marketing Manager position with in the Field Marketing Organization. The Senior Field Marketing Manager will report into the Manager of Field Marketing for which region they report into.
@@ -172,7 +172,7 @@ The Manager, Field Marketing is a [grade 8](/handbook/total-rewards/compensation
 This role includes all of the performance indicators of the previous level plus:
 * [10X spend contribution to sales pipeline](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution) for geo (AMER, EMEA,APAC) responsible for.
 * 100% SAO contribution at the [Large Segment level](/handbook/sales/field-operations/gtm-resources/#segmentation) for geo (AMER, EMEA,APAC) responsible for. 
-* Spending of the regional [Field Marketing budget](/handbook/marketing/revenue-marketing/field-marketing/#the-field-marketing-budget) within 5% variance, for geo (AMER, EMEA,APAC) responsible for. 
+* Spending of the regional [Field Marketing budget](/handbook/marketing/field-marketing/#the-field-marketing-budget) within 5% variance, for geo (AMER, EMEA,APAC) responsible for. 
 
 ### Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
