@@ -18,7 +18,7 @@ There are 3 groups within marketing who handle external events. Each group has a
 
 - [Community Relations](/handbook/marketing/community-relations/evangelist-program/)
 - [Corporate Events](/handbook/marketing/corporate-marketing/#corporate-events)
-- [Field Marketing](/handbook/marketing/revenue-marketing/field-marketing/)
+- [Field Marketing](/handbook/marketing/field-marketing/)
 
 [Marketing Programs](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/) supports Corporate and Field Marketing in relation to all events with communication timeline, technical tracking, reporting, email deployment, landing page creation, and more as required by the event.
 
@@ -818,11 +818,11 @@ GitLab's Community Relations team reviews and manages our community events (typi
 
 ### Field Marketing Campaign Tags
 
-For Field Marketing campaign tag details, please visit the Field Marketing page [here](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-tags).
+For Field Marketing campaign tag details, please visit the Field Marketing page [here](/handbook/marketing/field-marketing/#field-marketing-campaign-tags).
 
 ### Field Marketing Swag and Event Assets
 
-For all details regarding Field Marketing Swag and Event Assets, please visit the Field Marketing page [here](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-swag).
+For all details regarding Field Marketing Swag and Event Assets, please visit the Field Marketing page [here](/handbook/marketing/field-marketing/#field-marketing-swag).
 
 ### AMER Field Marketing QR Codes for Events
 
