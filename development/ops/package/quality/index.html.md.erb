@@ -88,7 +88,7 @@ Using `EE` or `CE`, as seen below on example commands, will pull the [latest nig
 To build a custom image locally (**builds only the test code**) do:
 
 1. Go to the GitLab folder on your gdk and run `docker build -f qa/Dockerfile -t gitlab/gitlab-ee-qa:test . `
-2. After building the QA Image pull the `gitlab/gitlab-ee nightly`` image with: `docker pull gitlab/gitlab-ee:nightly`
+2. After building the QA Image pull the `gitlab/gitlab-ee nightly` image with: `docker pull gitlab/gitlab-ee:nightly`
 3. Associate the QA Image `test` with GitLab Nightly: `docker tag gitlab/gitlab-ee:nightly gitlab/gitlab-ee:test`
 4. On commands bellow, modify to use the built image: `QA_SKIP_PULL=true gitlab-qa Test::Instance::Image gitlab/gitlab-ee:test --omnibus-config ...`
 
