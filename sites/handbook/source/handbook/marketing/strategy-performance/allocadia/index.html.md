@@ -175,7 +175,7 @@ Certain groups within GitLab have the ability to create a calendar invite direct
                 - use the `External Virtual Events` calendar
         - All else, do not create calendar invite and present error message `Cannot create calendar invite for this Spend Type`.
 
-While Workshops & Webcasts DO require a calendar invite, we intentionally left the auto create calendar invite out of the plug in. We did this because the `GitLab Hosted Zoom Webcasts` calendar requires Zoom integration work and is a locked calendar, given the technical work required to run the campaign types. For more information on booking a GitLab-hosted Workshop or Webcast, please visit [this handbook page](/handbook/marketing/revenue-marketing/field-marketing/workshop-webcast-how-to/#securing-a-virtual-workshop-or-buyer-progression-webcast-date).
+While Workshops & Webcasts DO require a calendar invite, we intentionally left the auto create calendar invite out of the plug in. We did this because the `GitLab Hosted Zoom Webcasts` calendar requires Zoom integration work and is a locked calendar, given the technical work required to run the campaign types. For more information on booking a GitLab-hosted Workshop or Webcast, please visit [this handbook page](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#securing-a-virtual-workshop-or-webcast-date).
 
 The calendar invite is set for the entire day. If you would like the event to be on the calendar for a specific time, then you may go in and manually change the time.
 
@@ -265,7 +265,7 @@ As we move to Coupa, we will be changing this to be a Create PO button instead.
 
 For Field Marketing, the reviewer/approver will click into the linked Allocadia line item and will review the impact modeller there, as well as have the ability to click into the Marketing issue from your line item, so you will not need to address the ROI question in the issue template. You will however, need to address the justification question on if you're requesting to spend more than $500 per MQL in the procurement issue.
 
-More information on the [campaign tag creation](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-tags) can be found on the FMM handbook page.
+More information on the [campaign tag creation](/handbook/marketing/field-marketing/#field-marketing-campaign-tags) can be found on the FMM handbook page.
 
 You may also create a procurement issue for software & that video will be forthcoming.
 
