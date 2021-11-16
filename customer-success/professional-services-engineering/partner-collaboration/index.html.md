@@ -75,22 +75,95 @@ Make sure as you (and/or the partner) is delivering the implementation services,
 
 If the project requirements exceed the current capacity of the available resources then the professional services team may employ a subcontractor to help deliver the project.  The following provides a checklist of items to process before and during the use of a subcontracted resource:
 
-1. Confirm that the terms and conditions agreed to with the customer enable the use of a subcontractor.  In some cases, GitLab must first obtain written approval from the customer in order to employ a subcontractor.
 
-1. Review the list of potential Partners and subcontractors.  GitLab has established relationships and signed Master Service Agreements with a collection of partners.  Review the list of partners and select ones that have resources with the correct set of skills and certifications.
+1. Partner Search 
+    - Share “sample PS Projects” with viable partners
+        - [Advisory Project](https://docs.google.com/document/d/1KhADjTUOndaAev3dSLlRgyEJtBIT6wv_rr3aH5hsKKQ/edit?usp=sharing) 
+        - [Implementation Project](https://docs.google.com/document/d/13Mw-7uSSclfwm6JWcs8UrXM9SunX8ebIeIk-n9q9b6Y/edit?usp=sharing)
+        - [Migration Project](https://docs.google.com/document/d/1OuCZqxZvjiPx2S0bFnX8tGgfBFWeg_gdifQWhdtTlAg/edit?usp=sharing)
+        - Project Management Project (coming soon)
+        - Training Project (coming soon)
+    - Share “PSE Profiles” with viable partners
+        - Advisory (Profile coming soon)
+        - Implementation (Profile coming soon)
+        - Migration (Profile coming soon)
+        - Project Management (Profile coming soon)
+        - Training (Profile coming soon)
 
-1. Contact the selected partner through an introduction by the GitLab PS Partner Manager.  GitLab should then submit the requirements to the partner and request resumes and rates for any resources the partner deems available and suitable for the project.
-Interview proposed resources. GitLab will meet with the proposed resources to determine if the person is a fit technically as well as from the perspective of fitting in with the project team that includes both GitLab and customer personnel.
+1. Partner Vetting
+    - Sr. Channel Solutions Manager sends [Skills Matrix Form](https://docs.google.com/forms/d/e/1FAIpQLScxgCHtbuLl53HrzH55hTpXxCSCXeUDRo6uyM2YKxy9QHMI0w/viewform?usp=sf_link) for Subcontractor to complete prior to meetings with PS Team Members. 
+    - Sr. Channel Solutions Manager schedules 15 min "consultant vetting" from Director of Professional Services 
+    - Professional Services Director approval needed to move forward  
+    - Sr. Channel Solutions Manager to schedule 30-45 min technical deep-dive with a Senior PSE 
+    - Interview Results captured in [partner tracking sheet](https://docs.google.com/spreadsheets/d/1koIvClx0Va-PwCZqGJ6PLeYyR00oxH_yekFDiioSLLY/edit?usp=sharing)
+    - Sr. PSE approval needed to move to onboarding
 
-1. Share Statement of Work between GitLab and the selected partner.  The Statement of Work should be based on the latest released template to ensure that up to date legal language is included. 
 
-1. Send GitLab signed and stamped Statement of Work to the Partner.
+1. Partner Onboarding
+    - Partner principals requests consultants to register on [Gitlab's Partner Portal](https://partners.gitlab.com). _This will result in an email to the consultant's inbox for them to open the "Welcome to Edcast" & activate their account for Onboarding._
+        - EdCast
+            - [Migration](https://gitlab.edcast.com/pathways/gitlab-migration-services-engineer-pathway)
+            - [Implementation](https://gitlab.edcast.com/pathways/gitlab-implementation-engineer-specialist-pathway)
+            - Training
+                - [GitLab Certified Security Speialist](https://gitlab.edcast.com/pathways/gitlab-certified-security-specialist-pathway-for-gitlab-part)
+                - [Gitlab Certified CI/CD Specialist](https://gitlab.edcast.com/pathways/gitlab-certified-ci-cd-specialist-pathway-for-gitlab-partner)
+                - [Gitlab Certified Associate Pathway](https://gitlab.edcast.com/pathways/gitlab-certified-associate-pathway-for-gitlab-partners)
+                - [Gitlab Certfied Project Management Specialist](https://gitlab.edcast.com/pathways/gitlab-certified-project-management-specialist-pathway-for-g-this)
+        - Project Manager Onboarding 
+            - Partner Principals create [Gitlab Onboarding Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/onboarding-epics) for Project Managers and assign it to Subcontractor. 
+            - Subcontractor must complete onboarding issue and mark onboarding issue as completed. 
+    - Subcontractor must use the same email address they used for training to ensure onboarding issue is tied to the correct entity. 
+    - Professional Services Operations Team Tasks
+        - PS Ops Teams assigns an Onboarding Buddy 
+        - Onboarding Buddy will follow the subcontractor throughout the project
+        - PS Ops Team triggers the subcontractor Edcast Onboarding Pathway & manages the subcontractor onboarding journey. 
 
-1. Onboard the subcontractor using the [onboarding process](https://gitlab.com/gitlab-com/customer-success/professional-services-group/onboarding-epics).
 
-1. Track time.  As described on the [PS Operations](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations) page, GitLab must account for all time logged against a project.  
+1. Partner Projects
+    - PS Ops Team reaches out to list of viable partners looking for a specific role that needs to be staffed for a customer project
+    - Partner responds with candidates and availability 
+        - If not vetted, go to Step 2
+        - If vetted, go to Step 4, activity # 3
+    - PS Ops Team initiates SOW using partner specific SOW template (if available), or generic GitLab SOW template
+        - Director or PS negotiates rate on a per project basis, unless predetermined
+        - SOW modifications include, but not limited to:
+             - Scope 
+             - Technical requirements
+             - Background check/security clearance requirements
+             - Hourly rate
+             - Billing terms as determined in MSA, MPA or Sub-contracting Agreement
+             - Travel and expenses (if on site required)
+    - PS OPs: SOW Approval process:
+        - Verbal or written approval from the partner to proceed with SOW
+        - GitLab submits legal case attached to the customer opportunity, requesting legal stamp on the SOW
+        - GitLab submits stamped SOW for Finance Signature via Docusign
+        - Signed/stamped SOW is sent to the Partner for signature via Docusign or email
+        - Final SOW is posted to SFDC opportunity, and in partner folder in G Drive, Mavenlink, Coupa
+        - PS Ops Team ensures background checks/security clearance meets the needs of the customer 
+        - PS Ops Team sets subcontractor up in Mavenlink
+             - PS Ops Team meets with Subcontractor to [review how to log time](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations), etc.
+             - PS Ops Team adds subcontractor OOO schedule to Mavenlink
+Utilize project escalation process as needed
+                - [Work at Risk (WAR)](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-at-risk&issue%5Btitle%5D=Work%20at%20Risk)
+                - [Work Exception](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-exception) 
+                - [Change Order](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=change-order&issue%5Btitle%5D=Change%20Order)
+        - PS Ops Team submits Access Request Issues
+            - Requesting access to appropriate technical tools (hardware & software)
+            - Requesting to add subcontractor to appropriate slack channel(s)
+        - PS GitLab Project Manager starts the project with the subcontractor
+        - PS GitLab Project Manager tracks subcontractor hours against SOW
+             - PS GitLab Project Manager keeps tabs on total burn vs. project burn to ensure subcontractor can complete the project as per the terms of the SOW
+             - PS GitLab Project Manager raises risk of Change Order to PS Ops as appropriate
+        - Subcontractor holds weekly check-in outside of customer meetings, including with their onboarding buddy. _Subcontractor and PS Onboarding Buddy ensure clear communication (as subcontractor have less access to slack)._
 
-1. Offboard the resource.  At the conclusion of the project, remove access to Slack channel, internal tools, as needed.
+
+1. Partner Offboarding
+    - PS Project Manager invites subcontractor to Project Retrospective meeting (as appropriate)
+    - PS Project Manager submits an Access Request to:
+        - Remove the subcontractor from the customer project slack channel
+        - Remove access to any project specific GitLab tools or development work spaced
+            - Ensure subcontractor is not working on any other ongoing projects
+    - PS Onboarding Buddy or PS GitLab Project Manager sends Subcontractor Survey to gather feedback on project & onboarding experience. 
 
 
 

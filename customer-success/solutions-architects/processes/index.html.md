@@ -54,16 +54,16 @@ Simplified process description:
 
 ## Customer Security Assurance
 
-Follow the process detailed in the [GitLab's Customer Assurance Activities](handbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html)
+Follow the process detailed in the [GitLab's Customer Assurance Activities](/handbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html)
 handbook page.
 
 Simplified process description:
 
 - Start with [Security - GitLab Trust Center](https://about.gitlab.com/security/).
-- Encourage customers to use and review [Self-service Information Gathering](handbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html#customer-self-service-information-gathering).
+- Encourage customers to use and review [Self-service Information Gathering](/handbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html).
 - SAs are expected to attempt a first-pass for all security questionnaires
     - Do it, it’s fun and educational!
-    - Make use of the [GitLab AnswerBase](handbook/engineering/security/security-assurance/field-security/common-security-questions.html) (200+ pre-answered questions)
+    - Make use of the [GitLab AnswerBase](/handbook/engineering/security/security-assurance/field-security/answerbase.html) (200+ pre-answered questions)
 - Additional requests can be made in [#sec-fieldsecurity](https://gitlab.slack.com/archives/CV5A53V70) Slack Channel.
 - It is critical to ensure we capture the initial time dedicated by the SAs in this process in our SA Activity Capture system (troops) to be able to increase future efficiencies 
 

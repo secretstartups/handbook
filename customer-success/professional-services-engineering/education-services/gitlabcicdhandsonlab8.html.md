@@ -8,22 +8,19 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ## LAB 8: GITLAB DOCKER REGISTRY
 
-This lab uses a CI/CD job that will not work on the shared runners available in the training environment, so students have 2 options:
+In this lab the CI/CD job will not work with the shared runners in the training environment. That gives us an opportunity to register a new GitLab Runner with the Docker executor on your own computer to complete the lab.
 
-+ Watch the instructor demo the lab *OR*
-+ Register a new GitLab Runner with the Docker executor on your own computer, and complete the lab yourself.
-
-**The second option is only available if you have Docker installed.** If you meet this requirement and would like to install your own GitLab Runner, continue with the rest of these instructions.
+**Requirement: You will need [Docker installed](https://docs.docker.com/engine/install/) on your machine in order for the below steps to work correctly.**
 
 ### Register a GitLab Runner with the `docker` executor
 
 1. Start Docker on your computer if it’s not running already.
-1. You should already have the `gitlab-runner` executable installed on your computer, from Lab 2. Remember that this executable is not itself a GitLab Runner. Instead, you use it to register and manage the actual GitLab Runner processes.
+1. In Lab 2 you installed the `gitlab-runner` executable on your computer. This executable is not itself a GitLab Runner. It's used to register and manage the actual GitLab Runner processes.
 1. Register a **specific** runner with `gitlab-runner register`, using these configuration details:
     + scope it to your existing **CICD Demo** project by using the registration key from that project
     + assign it the `docker` executor
     + give it a tag of your choosing, to make sure it runs the CI/CD job you’ll create in this lab. The job definition you’ll paste in later uses the `byo-runner` tag, but you can change this to anything as long as the GitLab Runner has the same tag.
-    + for the `Enter the default Docker image` enter `Docker:stable`
+    + when prompted for a default Docker image, enter `alpine:latest`
     
 ### Edit the `config.toml` file
 
