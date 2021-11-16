@@ -106,7 +106,7 @@ The blog is not the permanent place for tutorials, which should live in the docs
 Based on [analyses of traffic to blog posts](#blog-traffic-analyses), below are some topics and types of blog posts that usually resonate with our audience and draw the most traffic.
 
 - Tutorials, including integration demos
-- Newsjacking, where appropriate 
+- Newsjacking, where appropriate
 - Opinion/taking a stance on a popular subject, e.g.,
     - [The problem with Git flow](/blog/2020/03/05/what-is-gitlab-flow/)
     - [The trouble with technical interviews? They aren't like the job you're interviewing for](/blog/2020/03/19/the-trouble-with-technical-interviews/)
@@ -311,7 +311,7 @@ We can optimize these in a few ways:
 
 Reach out to the blog post author to find out if there is an update to the story that might make a good blog post, or if they have another story to share. You can do this by [opening an issue for a new blog post](#checklist-for-blog-post-issues) and pinging the author there.
 
-This is a good idea for engineering posts that explain in depth how we built a feature, completed a major migration, or fixed a bug. These posts don't age poorly because they describe something that has already happened. We don't need to keep them current in the same way as a tutorial, but there might be more to the story now that time has passed.  
+This is a good idea for engineering posts that explain in depth how we built a feature, completed a major migration, or fixed a bug. These posts don't age poorly because they describe something that has already happened. We don't need to keep them current in the same way as a tutorial, but there might be more to the story now that time has passed.
 
 For example, [this post about Praefect](/blog/2021/01/21/high-availability-git-storage-with-praefect/) is a follow-up to a [popular post from 2018 about Gitaly](/blog/2018/09/12/the-road-to-gitaly-1-0/).
 
@@ -758,7 +758,7 @@ How to spell and style commonly used words.
 - operations
     - use "ops" sparingly; do not capitalize
 - plugin
-   - always one word  
+   - always one word
 - set up/setup
     - two words for the verb, one for the noun ("How to set up a Kubernetes cluster"/"Let's walk through the Kubernetes cluster setup process")
 - sign up/signup
@@ -898,27 +898,28 @@ If a pipeline fails when you try to merge something, it is usually not something
 
 ## MR buddies
 
-If you run into issues with your MR, pipeline, or Terminal, it's usually quickest to ask for help in the #mr-buddies, #git-help, or #questions channel on Slack (be sure to include a link to your MR!). If you don't get an answer that way, you can reach out to a [Merge Request Buddy](/handbook/people-group/general-onboarding/mr-buddies/). The following team members have volunteered to be called on for assistance. You can also search for "Merge Request Buddy" on the [team page](/company/team).
+If you run into issues with your MR, pipeline, or terminal, it's usually quickest to ask for help in the #mr-buddies, #git-help, or #questions channel on Slack (be sure to include a link to your MR!). If you don't get an answer that way, you can reach out to a [Merge Request Buddy](/handbook/people-group/general-onboarding/mr-buddies/). The following team members have volunteered to be called on for assistance. You can also search for "Merge Request Buddy" on the [team page](/company/team).
 
+- Abubakar Siddiq Ango
+- Axil Pipinellis
+- Brendan O’Leary
 - Charlie Ablett
+- Cynthia Ng
+- Dan Gordon
+- Emilie Schario
+- Jason Yavorska
+- Jean du Plessis
+- John Coghlan
+- Kenny Johnston
+- Lyle Kozloff
+- Marcin Sedlak-Jakubowski
+- Mario de la Ossa
+- Markus Koller
 - Mayra Cabrera
 - Phil Calder
-- William Chia
-- John Coghlan
-- Mario de la Ossa
-- Jean du Plessis
-- Dan Gordon
-- Kenny Johnston
-- Markus Koller
-- Lyle Kozloff
-- Jason Yavorska
-- Cynthia Ng
-- Brendan O’Leary
-- Axil Pipinellis
-- Emilie Schario
-- Abubakar Siddiq Ango
 - Ronald van Zon
 - Thomas Woodham
+- William Chia
 
 ## Process for paid social
 
