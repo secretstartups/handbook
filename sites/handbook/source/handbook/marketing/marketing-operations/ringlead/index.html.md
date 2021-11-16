@@ -81,18 +81,6 @@ Currently, Sales & Marketing Operations have access to Ringlead. To request acce
 
 Once you have access you can follow [this link](https://dms.ringlead.com/auth/login/?next=/) to login. For more information about Ringlead and it's capabilities please visit the [Ringlead Help center](https://ringlead.atlassian.net/wiki/spaces/DUG/overview). 
 
-### Account Deduplication
-
-Account deduplication is currently being managed by Sales Ops. The deduplication job applies for Prospect Accounts w/o ZI Company ID and runs weekly every Saturday at 12:00 PDT. 
-
-### Lead to Lead, Contact to Contact Deduplication
-
-Lead to Lead and Contact to Contact deduplication is currently being managed by Marketing Ops and is in the final testing/troubleshooting phase before it's going to be rolled out. This is  will also be done through scheduled runs for different sub-sets of our leads/contacts databases with the goal of a full refresh/merge of duplicate of leads and contacts every quarter. 
-
-### Lead to Contact Deduplication
-
-Just as Lead to Lead and Contact to Contact deduplication, Lead to Contact Deduplication sits with Marketing Ops and is the final deduplication phase. As the naming implies this will make sure we have no duplicates between both objects (leads and contacts). This phase is to be finalised by end of Q3. 
-
 ## Current Process & Order of Operations
 
 Deduplication and cleaning up a CRM database requires some thought on the processes needed to be successful.  It will depend a lot on what our urgent problems are and our final goals. Below you will see the best practices, using Salesforce as the example, recommendations which Ringlead customers can use to help achieve their goal of clean, efficient and usable data by starting with their main object. Your main object is your ultimate parent (Accounts frequently in Salesforce as an example). That object should be cleaned first of duplicates then move down to the next level and so on. Please see below for our basic Salesforce Recommendations. 
@@ -107,12 +95,29 @@ Increasing the database cleanliness through deduplication is important and there
 
 Recommended order of operations: 
 
-1. Lead Deduplication
-2. Account Deduplication
-3. Converting Leads to New Contacts
-4. Contact Deduplication
-5. Lead to Contact Deduplication
-6. Deduplication of Custom Objects (Bizible Person IDs). 
+1. Lead Deduplication (Completed - runs weekly)
+2. Account Deduplication 
+3. Converting Leads to New Contacts (This step is skipped in our case since it would impact sales workflow considerably. We will re-evaluate if the sales team is not as heavily focused on leads as we are now.)
+4. Contact Deduplication (WIP)
+5. Lead to Contact Deduplication (WIP)
+6. Deduplication of Custom Objects (Bizible Person IDs - On hold until Steps 4 & 5 are completed). 
 
+### Account Deduplication
 
+Account deduplication is currently being managed by Sales Ops. The deduplication job applies for Prospect Accounts w/o ZI Company ID and runs weekly every Saturday at 12:00 PDT. 
 
+### Lead to Lead Deduplication
+
+Lead to Lead deduplication is managed by Marketing Ops and it done using 8 deduplication tasks, each task dividing our leads by Status and doing that deduplication in smaller, more manageable buckets. The deduplication jobs are scheduled to run on Friday at 2AM PST with the only exception being the task for the MQL subset which runs on Saturday at 2AM PST. Currently the setup is still set to manually merge after the jobs ran in order to avoid any possible merging errors. 
+
+### Contact to Contact Deduplication
+
+Lead to Lead and Contact to Contact deduplication is currently being managed by Marketing Ops and is in the final testing/troubleshooting phase before it's going to be rolled out. This part will also be done through scheduled runned tasks for different sub-sets of our contact database with the goal of a full refresh/merge of duplicate contacts weekly. 
+
+### Lead to Contact Deduplication
+
+Just as Lead to Lead and Contact to Contact deduplication, Lead to Contact Deduplication sits with Marketing Ops and is the final standard fields deduplication phase. As the naming implies this will make sure we have no duplicates between both objects (leads and contacts). This phase is to be finalised by end of Q4. 
+
+### Custom Object Deduplication
+
+Once all the standard fields have been deduplicated in the correct order of operations, we can move to custom object deduplication to make sure all our custom objects are clean and duplicate free as well. In our case, once Contact to Contact and Lead to Contact deduplication is complete, we're looking to deduplicate our Bizible Person Object, scheduled to be tackled by end of Q4. 

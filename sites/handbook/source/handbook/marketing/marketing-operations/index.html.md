@@ -74,6 +74,10 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 - [#mktgops](https://gitlab.slack.com/archives/mktgops) - We use this channel for general marketing operations support, weekly marketing operations team standup updates, and key system status updates. We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration. 
 - [#hbupdate-mktgops](https://gitlab.slack.com/archives/mktgops) - This channel is used to automatically post new [handbook updates](#handbook-updates) that have been merged. 
 
+**Salesforce**
+
+We are working on a Salesforce chatter handle to support Marketing team requests. More info to come.
+
 **Emergency Comms and Pager Duty**
 
 If an emergency communication needs to be send out, Marketing Ops will need to assist. Follow directions on this [page](/handbook/marketing/emergency-response/) to initiate the emergency response. You can also follow the [security incident communication plan](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html) for security related issues.
@@ -318,7 +322,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 
 To request access to an existing tool in the stack, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
 
-If you are working with a contractor or consultant that requires access to a tool in our stack, [please follow the professional services access request process](https://about.gitlab.com/handbook/finance/procurement/vendor-contract-professional-services/#-step-7--create-professional-services-access-request-optional) as outlined in the procurement handbook.
+If you are working with a contractor or consultant that requires access to a tool in our stack, [please follow the professional services access request process](https://about.gitlab.com/handbook/finance/procurement/) as outlined in the procurement handbook.
 
 ### Requesting a new tool
 
@@ -484,18 +488,19 @@ This cleaning & enrichment process has 4 main priorities:
 1. **Increase Email Deliverability** by implementing email Validation & verification at point of capture (POC) - Implemented with [NeverBounce](https://neverbounce.com/?fbclid=IwAR1bdezYBpqMH58zm24yg_RFGdeF4VCgBHVQCJKYtTyf-Iegd9gZ1_GhTII). 
 2. **Enrich net new leads with Form Complete**  - Live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms. 
 3. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads are currently enriched via a Marketo Webhook and Marketo Zoominfo integration. 
-4. **Assure Data Cleanliness & Accuracy** - Lead & Contact Deduplication splits naturally in these main parts: 
-	* Lead to Lead Deduplication 
-  * Converting Leads to New Contacts
-	* Contact to Contact Deduplication
-  * Converting Leads to Matching Contacts
-	* Lead to Contact Deduplication 
+4. **Assure Data Cleanliness & Accuracy** - The Marketing Operations team is following the recommended deduplication order of operations as detailed below:
+    * Lead to Lead Deduplication  (Completed - Runs weekly on Fridays and Saturdays)
+    * Account Deduplication (This part is currently performed by Sales Operations)
+    * Converting Leads to New Contacts (This step is skipped in our case since it would impact sales workflow considerably. We will re-evaluate if the sales team is not as heavily focused on leads as we are now.)
+    * Contact to Contact Deduplication (WIP)
+    * Lead to Contact Deduplication (WIP)
+    * Deduplication of Custom Objects (Bizible Person IDs - On hold until Contact Deduplication and Lead to Contact Deduplication are completed)
 
 For more information regarding our data deduplication process visit the [Ringlead Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/ringlead/).
 
 **Cleaning & Enrichment Frequency:** While the email verification & enrichment jobs for net new leads, from our forms, work on a continuous bases, when it comes to enrichment of our existing leads & contacts in SFDC, this is done via scheduled enrichment jobs as follows: 
 
-1. Leads that are not in Raw, Bad Data, Unqualified, Web Portal Purchase statuses are enriched on a weekly basis. Working to extend this to all leads in Q4.  
+1. Leads that are not in Raw, Bad Data, Unqualified, Web Portal Purchase statuses are enriched on a weekly basis.   
 2. All leads created in the last 7 Days are enriched daily to make sure no new leads from list uploads miss enrichment.
 3. All contacts in our SFDC get enriched weekly. 
 
