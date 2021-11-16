@@ -22,7 +22,7 @@ This step is optional per each function.
 
 Once it is determined that a candidate will be moving to the offer stage, the hiring manager will answer the following questions in the justification stage in the candidate's greenhouse profile:
 - In what specific way(s) does this candidate make the team better?
-- What flags were raised during the interview process?
+- What flags were raised during the interview process? Include any past rejections, thumbs-down ratings, or hesitancy from previous interview scorecards (but not resume reviews), as well as your reasons for being comfortable moving forward despite these (preferably with confirmation from the past interviewer).
 - How do we intend on setting this candidate up for success?
 - Engineering specific: Does the candidate meet a simple majority of nice-to-have requirements (5 of 9) for the role? (please add them to the appropriate scorecard section)
 - Is the offer in-plan, and why? (e.g.: critical budgeted hire, backfill, transfer)
