@@ -29,7 +29,7 @@ Identify what's causing you to get stuck. Some examples are:
 
 Then choose from below the appropriate resource that can help unblock you. [Escalating to unblock](https://about.gitlab.com/handbook/values/#escalate-to-unblock) is a sub-value of Results.
 
-* Follow [the workflow](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#what-is-the-the-needs-collaboration-view-and-workflow) to add your ticket to the `Needs Collaboration` view in Zendesk. Use the `Collaboration` macro to summarize the help that you need into an internal note so that others can quickly understand what help is needed. This will add the `needs_collaboration` tag to the ticket, which will add it to the `Needs Collaboration` view.
+* Follow [the workflow](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#what-is-the-the-needs-collaboration-view-and-workflow) to add your ticket to the `Needs Collaboration` view in Zendesk. Use the `Collaboration` macro to summarize the help that you need into an internal note so that others can quickly understand what help is needed. This will add the `needs_collaboration` tag to the ticket, and remove you as the assigned agent, which will add it to the `Needs Collaboration` view. Make sure your user is in the CCs list.
 * Depending on the area of focus (such as self-managed or SaaS) and the urgency, ask for help in the [relevant Support Slack channels](https://about.gitlab.com/handbook/support/#slack).
     - Always link the ticket you need help with.
     - Be specific about the help you need.
