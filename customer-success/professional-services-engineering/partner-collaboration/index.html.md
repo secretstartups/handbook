@@ -75,6 +75,7 @@ Make sure as you (and/or the partner) is delivering the implementation services,
 
 If the project requirements exceed the current capacity of the available resources then the professional services team may employ a subcontractor to help deliver the project.  The following provides a checklist of items to process before and during the use of a subcontracted resource:
 
+
 1. Partner Search 
     - Share “sample SOW” with viable partners
         - Create “sample SOW” for the following 5 elements
@@ -110,13 +111,14 @@ If the project requirements exceed the current capacity of the available resourc
                 - [Gitlab Certified Associate Pathway](https://gitlab.edcast.com/pathways/gitlab-certified-associate-pathway-for-gitlab-partners)
                 - [Gitlab Certfied Project Management Specialist](https://gitlab.edcast.com/pathways/gitlab-certified-project-management-specialist-pathway-for-g-this)
         - Project Manager Onboarding 
-            - Partner Principals create Gitlab Onboarding Issue for Project Managers and assign it to Subcontractor. 
+            - Partner Principals create [Gitlab Onboarding Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/onboarding-epics) for Project Managers and assign it to Subcontractor. 
             - Subcontractor must complete onboarding issue and mark onboarding issue as completed. 
     - Subcontractor must use the same email address they used for training to ensure onboarding issue is tied to the correct entity. 
     - Professional Services Operations Team Tasks
         - PS Ops Teams assigns an Onboarding Buddy 
         - Onboarding Buddy will follow the subcontractor throughout the project
         - PS Ops Team triggers the subcontractor Edcast Onboarding Pathway & manages the subcontractor onboarding journey. 
+
 
 1. Partner Projects
     - PS Ops Team reaches out to list of viable partners looking for a specific role that needs to be staffed for a customer project
@@ -140,7 +142,7 @@ If the project requirements exceed the current capacity of the available resourc
         - Final SOW is posted to SFDC opportunity, and in partner folder in G Drive, Mavenlink, Coupa
         - PS Ops Team ensures background checks/security clearance meets the needs of the customer 
         - PS Ops Team sets subcontractor up in Mavenlink
-             - PS Ops Team meets with Subcontractor to review how to log time, etc.
+             - PS Ops Team meets with Subcontractor to [review how to log time](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations), etc.
              - PS Ops Team adds subcontractor OOO schedule to Mavenlink
 Utilize project escalation process as needed
                 - WaR
@@ -155,15 +157,13 @@ Utilize project escalation process as needed
         - Subcontractor holds weekly check-in outside of customer meetings, including with their onboarding buddy. _Subcontractor and PS Onboarding Buddy ensure clear communication (as subcontractor have less access to slack)._
 
 
-
-
-1. Send GitLab signed and stamped Statement of Work to the Partner.
-
-1. Onboard the subcontractor using the [onboarding process](https://gitlab.com/gitlab-com/customer-success/professional-services-group/onboarding-epics).
-
-1. Track time.  As described on the [PS Operations](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations) page, GitLab must account for all time logged against a project.  
-
-1. Offboard the resource.  At the conclusion of the project, remove access to Slack channel, internal tools, as needed.
+1. Partner Offboarding
+    - PS Project Manager invites subcontractor to Project Retrospective meeting (as appropriate)
+    - PS Project Manager submits an Access Request to:
+        - Remove the subcontractor from the customer project slack channel
+        - Remove access to any project specific GitLab tools or development work spaced
+            - Ensure subcontractor is not working on any other ongoing projects
+    - PS Onboarding Buddy or PS GitLab Project Manager sends Subcontractor Survey to gather feedback on project & onboarding experience. 
 
 
 
