@@ -22,10 +22,11 @@ graph TD
     is_group -->|No| other_group[label appropriate group];
     group_sharding --> is_active{To be completed<br> within 3 milestones}
     is_active -->|Yes| active[label sharding::active]
-    is_active -->|No| milestone
-    active --> milestone
-    other_group --> sharding_blocker[label sharding-blocker]
- sharding_blocker --> milestone[add appropriate milestone]
+    is_active -->|No| sharding_blocker[label sharding-blocker]
+    active --> sharding_blocker
+    other_group --> sharding_blocker
+    sharding_blocker --> sharding_blocker_phase[label sharding-blocker::phaseX]
+    sharding_blocker_phase --> milestone[add appropriate milestone]
     milestone --> priority[add priority/severity labels]
     priority --> epic[add to appropriate epic]
 
