@@ -109,7 +109,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 
 | Aspect | Tier 1 | Tier 2  | Tier 3 | 
 |:-|:-|:-|:-|
-| **Description**  | Trusted Data solutions that are most important and business critical. <p> Components needs to  be available and refreshed to ensure day-by-day operation | Data solutions that are important and beneficial for gathering insights. <p> Components should be available and refreshed to supporting day-by-day operation | Data solutions that are important for for Ad-Hoc, periodically or one-time analysis. <p> Components could be unavailable or data not refreshed. |
+| **Description**  | Trusted Data solutions that are most important and business critical. <br><br> Components needs to  be available and refreshed to ensure day-by-day operation | Data solutions that are important and beneficial for gathering insights. <br><br> Components should be available and refreshed to supporting day-by-day operation | Data solutions that are important for for Ad-Hoc, periodically or one-time analysis. <br><br> Components could be unavailable or data not refreshed. |
 |**Criteria**|Any data, process, or related service that would result in a $100k or _higher_ business impact if unavailable for 24 hours | Any data, process, or related service that would result in  _less_  than $100k business impact if unavailable for 24 hours | Any data, process or related service that would _not_ result in a immediate business impact if unavailable for more than 5 working days |
 |**Impact due to outage**|Severe|Lenient|Negligible |
 
