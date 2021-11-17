@@ -18,7 +18,7 @@ _Partner with the Group Manager, Product Operations to maintain a prioritized Pr
    - Improve the release post and release notes framework for Gitlab the company through process refinements and automation
    - Contribute to the definition and management of the GitLab [product development flow](https://about.gitlab.com/handbook/product-development-flow/)
    - Recommend and implement optimizations to the [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
-   - Support the Group Manager, Product Operation in designing/delivering on high priority projects as they arise, leaning in with the perspective of how to create repetable frameworks and automations to leverage/resuse 
+   - Support the Group Manager, Product Operations in designing/delivering on high priority projects as they arise, collaborating/contributing with the perspective of how to create repeatable/reusable frameworks and automations for efficiency
 - [Build Qualitative & Quantitive Feedback Loops](https://about.gitlab.com/direction/product-operations/#building-qualitative--quantitative-feedback-loops)
    - Help streamline intelligence as a whole between product management and its stable counterparts within GitLab the company through process/frameworks refinements and automation
    - Leverage automation to boost internal and external knowledge about GitLab's key product communications such as:
