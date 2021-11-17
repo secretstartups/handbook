@@ -10,10 +10,10 @@ description: "GitLab's sales learning framework and sales training resources"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# **GitLab Sales Learning Framework**
+# GitLab Sales Learning Framework
 GitLab field team members are expected to be knowledgeable and proficient across a variety of topics, skills, behaviors, and processes. For ease of consumption, sales training resources are organized in 6 categories below. If you are looking for more immediate access to resources to support your selling efforts, please check out the [Sales Resources](/handbook/marketing/strategic-marketing/sales-resources/) page.
 
-## **GitLab Target Audiences**
+## GitLab Target Audiences
 Successful field team members must have an intimate understanding of ideal customer profiles, customer environments where opportunities for GitLab are most ripe, targeted buyer personas, industry-relevant insights, and more.
 
 | **Topic** | **Resource(s)** |
@@ -23,7 +23,7 @@ Successful field team members must have an intimate understanding of ideal custo
 | What are target buyer personas and their pain points? | - [GitLab Buyer Personas](/handbook/marketing/strategic-marketing/roles-personas/#buyer-personas) <br> - [Interview with an IT Agility Director](/handbook/sales/it-agility-director-interview/) <br> - Learn more about [Enterprise IT roles & key pain points](/handbook/marketing/strategic-marketing/enterprise-it-roles/) |
 | What are target user personas and their pain points? | - [Handbook page](/handbook/marketing/strategic-marketing/roles-personas/#user-personas) |
 
-## **Industry Topics & Trends**
+## Industry Topics & Trends
 To serve as trusted advisors to customers and partners, GitLab field team members must be able to competently and confidently engage with customers on topics like the Software Development Life Cycle (SDLC), Source Code Management (SCM) / Version Control & Collaboration, open source & open core, DevOps, Continuous Integration & Continuous Delivery (CI/CD), containers, Kubernetes, and more.
 
 | **Topic** | **Resource(s)** |
@@ -47,12 +47,13 @@ To serve as trusted advisors to customers and partners, GitLab field team member
 | What is concurrent DevOps? | - [Video](https://www.youtube.com/watch?v=bDTYHGEIeM0) (Apr 2019, 24.5 minutes) <br> - GitLab Concurrent DevOps white paper ([internal link](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/resources/downloads/gitlab-concurrent-devops-whitepaper.pdf)) ([gated link](https://about.gitlab.com/resources/whitepaper-concurrent-devops/)) |
 | How do I keep up to date with industry trends? | - Review and subscribe to the following blogs: [Hacker News](https://news.ycombinator.com/), [Martin Fowler](https://martinfowler.com/), and [New Stack](https://thenewstack.io/) |
 
-## **Why GitLab?**
+## Why GitLab?
 GitLab field team members must be able to clearly articulate a compelling, differentiated, value-driven message to customers, prospects, and partners.
 
 | **Topic** | **Resource(s)** |
 | ------ | ------ |
 | What is GitLab? | - [GitLab Explainer Video](https://www.youtube.com/watch?v=-_CDU6NFw7U) (Oct 2020, 1.5 minutes) <br> - [GitLab infomercial](https://youtu.be/gzYTZhJlHoI) featuring David Astor (Feb 2020, 5.5 minutes) |
+| GitLab is THE DevOps Platform | - [The DevOps Platform customer deck (Enterprise)](https://docs.google.com/presentation/d/1vtFnh8DU6ZZzASTHg83UrhM6LJWqo5lq9mJDAY2ILpw/edit?usp=sharing) (internal only)<br> - [DevOps Platform Message House](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/message-house/) |
 | Key value drivers and differentiators | - Review the [Command of the Message](/handbook/sales/command-of-the-message/) page <br> - [Operational Efficiencies](https://youtu.be/8z1ek4Qwnqw) (May 2020, 32 minutes) <br> - [End to End Visibility & Insights](https://youtu.be/cduwGbXOScY) (Apr 2020, 31 minutes) <br> - Understand the [3 types of differentiators: Unique, Comparative, and Holistic](https://www.forcemanagement.com/seller-blog/articulating-differentiation-5-ways-to-trap-the-competition)|
 | Positioning GitLab | - GitLab customer deck ([presentation](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing)) <br> - GitLab customer deck [video](https://youtu.be/UdaOZ9vvgXM) (Dec 2019, 28 minutes) <br> - GitLab Sales Kickoff 2020: Articulating and Selling the GitLab Vision & Customer Journey ([slides](https://drive.google.com/open?id=14kO1iTqSwuvV-7CDHThslUv8_QP_EnaZg4yG-1romZc)) ([video](https://www.youtube.com/watch?v=DtL38mgpycE)) (Feb 2020, 37.5 minutes) <br> - [GitLab value prop messaging](/handbook/marketing/strategic-marketing/messaging/#gitlab-value-proposition) <br> - [Pitch deck](/handbook/marketing/corporate-marketing/brand-activation/brand-growth/pitch-deck/) <br> - [Delivering the GitLab pitch deck](https://drive.google.com/open?id=1vRgU1o-o4kcOblQCxNi3h6xrN7KQZY1H) (Apr 2019, 14 minutes) <br> - [Keys to Faster Delivery (Accelerate Digital Transformation)](https://youtu.be/MwSJuKYXAy4) (Jul 2019, 18.5 minutes) <br> - [Removing Software Bottlenecks](https://www.youtube.com/watch?v=RT-fKTFevEY) (Mar 2019, 30 minutes) <br> - [Forrester Total Economic Impact Report](https://youtu.be/J_6QgemCz2E) (July 2020, 60 minutes) <br> - [Demystifying the Metrics Conversation](https://youtu.be/dbB6gzNYsG8) (Aug 2020, 30 minutes) |
 | What customer ROI models are available? | - Check out the resources on [this page](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/#economic-metrics) |
@@ -61,7 +62,7 @@ GitLab field team members must be able to clearly articulate a compelling, diffe
 | GitLab vision | - Review [GitLab’s Direction](/direction/#single-application) |
 | Follow GitLab | - Review and subscribe to the [GitLab blog](/blog/) |
 
-## **Competition**
+## Competition
 To maximize opportunities, GitLab field team members must demonstrate the knowledge and ability to beat out various competitors.
 
 | **Topic** | **Resource(s)** |
@@ -73,7 +74,7 @@ To maximize opportunities, GitLab field team members must demonstrate the knowle
 | Jenkins | - [Proactively Competing Against Jenkins](https://drive.google.com/open?id=1IvftLfaQyKn5-n1GLgCZokOoLU-FFzQ8LfJ9cf0FVeg) presentation (SKO 2020, internal only) <br> - [Competing Against Jenkins and CloudBees](https://youtu.be/a95DQqRTOHw) (Sep 2019, 25 minutes) <br> - [Jenkins: Competitive Overview](https://www.youtube.com/watch?v=_HJMtp-fcHc) (Feb 2019, 31 minutes) <br> - [Jenkins: Overcoming Objections](https://www.youtube.com/watch?v=qrENxT9iPvE) (Mar 2019, 26 minutes) <br> - [GitLab vs Jenkins, where is GitLab weaker?](https://www.youtube.com/watch?v=3Wr3O6mY5VE) (Feb 2019, 25.5 minutes) |
 | Where may one find additional competitive insights? | - [Q1 FY22 Competitive Update](https://youtu.be/WzxQjr94mOM) (Feb 2021, 30 minutes) <br> - [GitLab's Competitive Intelligence Resources Page](https://about.gitlab.com/devops-tools/) is the single source of truth for competitive sales resources organized by competitor <br> - [Compete page overview and launch to sales](https://www.youtube.com/watch?v=S_z_hgf3ASc&feature=youtu.be) (June 2020, 27 minutes)  |
 
-## **GitLab Portfolio**
+## GitLab Portfolio
 GitLab field team members must understand how various elements of the GitLab portfolio (offering tiers, SDLC phases, services, training, etc.) solve customer challenges.
 
 | **Topic** | **Resource(s)** |
@@ -94,7 +95,7 @@ GitLab field team members must understand how various elements of the GitLab por
 | What about GitLab testing capabilities? | - [Testing Direction Handbook pages](https://about.gitlab.com/handbook/product/categories/#testing-group) <br> - [Verify:Testing Category Vision and Positioning](https://youtu.be/Zisa9Qfh8v8) (Sep 2021, 26 minutes) |
 | What are the most common technical questions that GitLab sales team members should be able to answer? | - Check out the [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/) page |
 
-## **Functional and Technical Skills & Processes**
+## Functional and Technical Skills & Processes
 To optimize productivity, GitLab field team members must be able to consistently demonstrate the skills and behaviors (including adherence to standard processes and use of tools like Salesforce, Gainsight, and others) that lead to desired outcomes. These functional and technical skills and processes are complementary and in addition to GitLab's [Values](/handbook/competencies/#values-competencies) and [Remote Working](/handbook/competencies/#remote-work-competencies) competencies.
 
 | **Topic** | **Resource(s)** |
@@ -123,14 +124,11 @@ To optimize productivity, GitLab field team members must be able to consistently
 | Other | - [Things I Wish I Knew During My First Few Quarters at GitLab](https://youtu.be/3gprWrDTEQM) video (Aug 2019, 25.5 minutes) <br> - Sessions (presentations, videos) from [GitLab Sales Kickoff 2020](/handbook/sales/training/SKO/#sales-kickoff-2020) <br> - [How to Host a GitLab Meetup](https://www.youtube.com/watch?v=h24aS5rpfmM) (May 2019, 36.5 minutes) |
 | Where can I go to learn more? | - Bookmark the [GitLab Sales Handbook](/handbook/sales/) <br> - [Upcoming and past Level Up sales enablement webcasts](/handbook/sales/training/sales-enablement-sessions/) <br> - [Customer Success Skills Exchange GitLab Unfiltered playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_) on YouTube <br> - Check out past [Customer Success meetings](/handbook/customer-success/#customer-success-meetings) where new features from recent product releases are discussed and/or demo'ed  |
 
-# **Sales Enablement Sessions**
+# Sales Enablement Sessions
 Live sales enablement videocasts are held every Thursday from 12:00-12:30pm ET with the exception of the last two weeks of every quarter. Sessions are recorded and published to YouTube, made available for on-demand playback, and added to the inventory above. [Learn more here](/handbook/sales/training/sales-enablement-sessions/).
 
-# **Customer Success Skills Exchange**
+# Customer Success Skills Exchange
 Live customer success enablement videocasts are held roughly every other Wednesday. Learn more by visiting the [Customer Success Skills Exchange Sessions](/handbook/sales/training/customer-success-skills-exchange/#past-sessions) Handbook page and/or check out the [Customer Success Skills Exchange playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_) on GitLab Unfiltered to watch past sessions at a location and time of your choosing.
-
-# **SDR Coaching**
-Similar sessions are held for GitLab’s SDR team every Wednesday from 12:30-1:00pm ET.
 
 # **Additional Notes**
 *  Learn about GitLab customer training on the [GitLab Training Tracks site](/learn/)
