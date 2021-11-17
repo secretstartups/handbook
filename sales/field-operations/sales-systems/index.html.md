@@ -109,6 +109,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 | Quote Templates / Docusign Order Forms                                                                                              | Manager, Deal Desk                           | Sr. Manager, Deal Desk |
 | Quoting Workflow Changes  (Ex. Updating Button Behavior (Edit Quote vs Maintain Quote), removing fields or permissions)             | Sr. Manager, Deal Desk                       | Manager, Deal Desk     |
 
+1. If approval is pending, `Deal Desk::Pending Approval` Label will be added to the issue by the DRI. 
 1. Once Approval is secured, Deal Desk will add `Deal Desk::Approved` Label to the issue. 
 1. If the proposed change will negatively impact the quoting cycle, Deal Desk will add `Deal Desk::Need More Information` Label to the issue. Deal Desk will partner with Issue DRI to identify alternative solution. 
 1. If the proposed change is not approved, Deal Desk will add `Deal Desk::Rejected` Label to the issue. An alternative solution must be presented. 
