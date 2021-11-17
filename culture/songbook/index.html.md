@@ -496,3 +496,7 @@ How do I <br>
 follow you?!<br>
 <br>
 Into the unknowwwwwwwnnnnnnnnnnn<br>
+
+## Chant / Yell / Rapbook? Improve this header
+
+1. G to the T, L to the B Who's contributing remotely? That's ME!
