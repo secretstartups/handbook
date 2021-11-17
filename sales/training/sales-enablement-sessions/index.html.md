@@ -25,13 +25,13 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 |--------|--------|--------|                      
 | Nov 18 | Trust Building In Consultative Engagements    | Darwin S. & Brian W. |
 | Nov 25 | *No session due to US Thanksgiving holiday*      | N/A  |
-| Dec 2 |        |   |
-| Dec 9 |        |   |
-| Dec 16 |       |   |
+| Dec 2 |  Q4 FY22 Competitive Update      | Francis P.   |
+| Dec 9 |  Q4 FY22 Product Update      | TBD  |
+| Dec 16 |  Gitaly Cluster     | Mark W.  |
 | Dec 23 |       |   |
 | Dec 30 |       |   |
-| Jan 6 |       |    |
-| Jan 13 |     |   |
+| Jan 6 |  GitLab on IBM Power - Modernization     | Sara C. Erik O.    |
+| Jan 13 | Q4 FY22 Professional Services Update    | Bryan M.  |
 | Jan 20 | *No session during the last two weeks of the quarter* | N/A |
 | Jan 27 | *No session during the last two weeks of the quarter* | N/A |
                                                                                                                               
