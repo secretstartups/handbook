@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Nov 17     |   [A Journey into the Customer Portal](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/135)           |  Amanda Rueda             |
 | Dec 01     |   [Machine Learning ModelOps/MLOps demonstration](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/140)           |  Sameer Kamani             |
 | Dec 15     |   **[Hold for RedHat OCP Fireside Chat](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/136)**           |  **TBD**             |
 | Jan 01     |   [Click-Through Demos]            |  Itzik Gan Baruch             |
@@ -36,6 +35,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2021-11-17 | **[A Journey into the Customer Portal](https://www.youtube.com/watch?v=JsJyCA7Z6m0)** |  Private              |
 | 2021-11-03 | **[Kubernetes Integration with the Agent](https://youtu.be/kgFbgsCsNTo)**             |    Public           |
 | 2021-10-20 | **[GitOps with GitLab](https://youtu.be/9laTbEb2jbM)**             |  Private              |
 | 2021-10-06 | **[GitOps using GitLab Terraform and Terratag](https://youtu.be/dMo11PzhVQI)**             |    Public           |
