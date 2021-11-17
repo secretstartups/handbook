@@ -53,7 +53,7 @@ You can learn more at GitLab's [remote team solutions page](/solutions/gitlab-fo
 ![GitLab all-remote mentor](/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg)
 {: .shadow.medium.center}
 
-"[No agenda, no attenda](/handbook/communication/#external-communication)." Every work-related meeting should have a live doc agenda affixed to the calendar invite. To better understand how GitLab utilizes agenda docs, here's a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) you can copy and use in your organization.
+"[No agenda, no attenda](/handbook/communication/#external-communication)." Every work-related meeting should have a live doc agenda affixed to the calendar invite. To better understand how GitLab utilizes agenda docs, here's a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) you can copy and use in your organization. [Coffee chats](/culture/all-remote/informal-communication/#coffee-chats) are excluded from this given their function in informal communication. 
 
 **If you determine that a meeting is needed to move a project forward, address a blocker, or resolve a miscommunication, visit our detailed guide on conducting a [live doc meeting](/company/culture/all-remote/live-doc-meetings/).**
 
