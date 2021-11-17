@@ -36,7 +36,7 @@ More detail on our product strategy can be found on our [direction page](/direct
 
 We will strive to increase the contributions of the wider community.
 
-1. **Contributions:** Grow contributors to 1000 a month by being responsive and encouraging full-time contributors at customers.
+1. **Contributions:** Grow to 1000 contributors per month by being responsive and encouraging full-time contributors at customers.
 1. **Enterprise leading usability:** Enable contributions that improve the user experience of our application through purpose driven user research and product development, leading to a [SUS](/handbook/engineering/ux/performance-indicators/system-usability-scale/#sus-and-gitlab) score > 77.
 1. **Connect with users on self-managed free:** Know the organization and be in contact with at least one person in organizations that collectively host more than 10m active users of our open source product. Do this via SaaS services for self-managed and proprietary features that can be used for free.
 
