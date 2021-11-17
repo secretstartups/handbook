@@ -194,7 +194,7 @@ There is an issue to also [add DRIs and review the mitigations](https://gitlab.c
 
 ## Supporting Contribute Challenge
 
-The CEO chooses to run a Contribute Challenge in advance of some [Contributes](/events/gitlab-contribute/). The Challenge is shared at least two weeks in advance of Contribute. As an example, the 2020 Challenge encouraged team members to [beautify docs](https://gitlab.com/groups/gitlab-org/-/epics/3063). The CoST to the CEO is responsbile for collaborating with the CEO to create and introduce the challenge. The CEO is responsible for identifing a prize for team members, but the CoST should ensure that a prize is identified and support the CEO in this, if needed.
+The CEO chooses to run a Contribute Challenge in advance of some [Contributes](/events/gitlab-contribute/). The Challenge is shared at least two weeks in advance of Contribute. As an example, the 2020 Challenge encouraged team members to [beautify docs](https://gitlab.com/groups/gitlab-org/-/epics/3063). The CoST to the CEO is responsible for collaborating with the CEO to create and introduce the challenge. The CEO is responsible for identifying a prize for team members, but the CoST should ensure that a prize is identified and support the CEO in this, if needed.
 
 ## Dates to Keep Track of
 
