@@ -22,8 +22,8 @@ Complement the CEO through being the cross-functional linchpin for GitLab when i
 * [Chief of Staff to the CEO Job Family](/job-families/chief-executive-officer/chief-of-staff/)
 * [Strategy & Operations Job Family](/job-families/chief-executive-officer/strategy-and-operations/)
 * [Performance Indicators](/handbook/ceo/chief-of-staff-team/performance-indicators/)
-* CoS = Chief of Staff
-* CoST = Chief of Staff Team
+* CoS to the CEO = Chief of Staff to the CEO
+* CoST to the CEO = Chief of Staff Team to the CEO
 * [Project](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team)
 * [Team READMEs](/handbook/ceo/chief-of-staff-team/readmes/)
 
@@ -192,16 +192,16 @@ We outline our [biggest risks](/handbook/leadership/biggest-risks/) and our [big
 The CoS to the CEO is responsible for maintaining this list.
 There is an issue to also [add DRIs and review the mitigations](https://gitlab.com/gitlab-com/cos-team/-/issues/20).
 
+## Supporting Contribute Challenge
+
+The CEO chooses to run a Contribute Challenge in advance of some [Contributes](/events/gitlab-contribute/). The Challenge is shared at least two weeks in advance of Contribute. As an example, the 2020 Challenge encouraged team members to [beautify docs](https://gitlab.com/groups/gitlab-org/-/epics/3063). The CoST to the CEO is responsbile for collaborating with the CEO to create and introduce the challenge. The CEO is responsible for identifing a prize for team members, but the CoST should ensure that a prize is identified and support the CEO in this, if needed.
+
 ## Dates to Keep Track of
 
 This is not the SSOT for these dates and is meant only for informational/organizational purposes.
 
 **Informal Board Meetings**
 * Monthly on the 3rd Friday except in months where a formal BOD Meeting is scheduled
-
-**NomGov Meetings**
-* 2021-03-15
-* 2021-09-17
 
 **Board Meetings**
 * March
