@@ -95,6 +95,25 @@ Below is a list of the different technical skill sets found on the Sales System 
 
 ## Salesforce.com Change Management Process
 
+**Approval for Proposed Changes related to Quoting**
+1. All changes that will impact Quoting (ex. creating quotes, creating validation rules, generating quote PDFs, Quote Templates, Approval Module updates) will require approval from Deal Desk before being pushed to production. The goal is to prevent changes from being pushed to production that could delay the quoting process or create a bottleneck in the quote to cash lifecycle. 
+1. Approval should be secured in the comments section of the related issue from the Designated Approver outlined below. 
+1. Additionally, if a change is proposed that could materially impact the quoting experience for Sales teams and **is not listed below**, please request review from Sr. Manager, Deal Desk in the comments section of the issue.  
+
+|                                                                Change                                                               |              Designated Appover              |    Back Up Approver    |
+|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|------------------------|
+| Approval Module Updates  (Discounts, Payment Terms, Approval Structure/Hierarchy, Approval Notifications, Override Functions)       | Sr. Manager, Deal Desk                       |   Manager, Deal Desk   |
+| SuperSonics Logic Updates                                                                                                           | Sr. Manager, Deal Desk                       | Manager, Deal Desk     |
+| Smart Templates Gate Logic                                                                                                          | Manager, Deal Desk                           | Sr. Manger, Deal Desk  |
+| Proposed Validation Rules  (Ex. "X" Field is Mandatory on all quote objects, if "X" is blank, user cannot move forward with quote.  | Sr. Manager, Deal Desk &  Manager, Deal Desk | Manager, Deal Desk     |
+| Quote Templates / Docusign Order Forms                                                                                              | Manager, Deal Desk                           | Sr. Manager, Deal Desk |
+| Quoting Workflow Changes  (Ex. Updating Button Behavior (Edit Quote vs Maintain Quote), removing fields or permissions)             | Sr. Manager, Deal Desk                       | Manager, Deal Desk     |
+
+1. Once Approval is secured, Deal Desk will add `Deal Desk::Approved` Label to the issue. 
+1. If the proposed change will negatively impact the quoting cycle, Deal Desk will add `Deal Desk::Need More Information` Label to the issue. Deal Desk will partner with Issue DRI to identify alternative solution. 
+1. If the proposed change is not approved, Deal Desk will add `Deal Desk::Rejected` Label to the issue. An alternative solution must be presented. 
+
+
 **Before beginning work, make sure:**
 1.  You have a fully setup local SFDC Dev Environment.
    * [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=DX_841432)
