@@ -20,7 +20,7 @@ The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/co
 * Creates projections of media buy spend in line with brand growth goals. 
 * Works collaboratively with key stakeholders to create brand messaging.
 * Works cross-functionally across sales and marketing to make sure brand campaigns create as much impact as possible. 
-* Educate and communicate our brand personality internally and align company around the message
+* Educate and communicate our brand personality internally and align company around the message.
 * Startegically works with partners, customers and other third-parties to figure out ways to uplevel the GitLab brand. 
 * Develops global brand campaign strategy to impact markets of interest to GitLab. 
 * Oversees and guides the team on KPIs for brand campaigns and impact on overall brand. 
@@ -34,12 +34,12 @@ The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/co
 #### Manager, Brand Strategy and Growth Requirements
 
 * Ability to use GitLab
-* Past experience in a management role
-* Experience brand strategist with experience delivering global brand campaigns. 
+* Proven and demonstrated progressive experience in a management role.
+* Experienced brand strategist with expertise delivering global brand campaigns. 
 * Ability to think outside the box to uplevel the GitLab brand in new and unique ways. 
 * Advanced knowledge on brand measurement and tools for brand measurement. 
-* Capability to coordinate across many teams and perform in fast-moving startup environment
-* 
+* Proven capability to coordinate across many teams and perform in a fast-moving startup environment.
+
 
 
 
@@ -50,7 +50,7 @@ The senior brand manager reports to the Manager, Brand Strategy and Growth.
 
 #### Senior Brand Manager Job Grade
 
-The Senior Brand Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Brand Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Brand Manager Responsibilities
 
