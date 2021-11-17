@@ -29,6 +29,8 @@ GitLab's VHI scheme will begin November 1, 2020. You can choose to enroll from t
 
 As part of the initial enrollment, please use the following [enrollment guide](https://drive.google.com/file/d/1YwsQp7ybVZ7cYg5G4EBlPFBJskxmjfqG/view?usp=sharing) to review the plans and enroll either via the online platform or by calling VHI. Enrollment will close on October 26th for a November 1st effective date.
 
+The policy may renew automaticallly at the end of each policy year. If renewed, notification will be sent to the team member by email. 
+
 ### Tax Implications of Medical Plans
 
 The health insurance allowance is treated like any other income or allowance under Revenue Commissioners rules. Your normal tax rate including other statutory deductions will apply. You will be liable for Benefit in kind on your health insurance premium, for more information please read [here](https://www.revenue.ie/en/personal-tax-credits-reliefs-and-exemptions/health-and-age/medical-insurance-premiums/index.aspx). 
