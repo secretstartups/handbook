@@ -548,6 +548,8 @@ It is intended that gearing ratios not become overly complicated. In support of 
 * One Distinguished Engineer reports to Director+
 * One Engineering Fellow reports to VP+
 
+Please note, the [Incubation Engineering](https://about.gitlab.com/handbook/engineering/incubation/) department is exempt from the Gearing Ratio guidelines. Due to the [Single Engineer Group](https://about.gitlab.com/company/team/structure/#single-engineer-groups) structure and the experimental nature of Incubation Engineering, each engineer is essentially their own team, so it is expected and natural that we would have multiple Staff+ engineers in this department. 
+
 #### Exception Process
 These [gearing ratios](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) govern the number of Staff+ positions available.
 
