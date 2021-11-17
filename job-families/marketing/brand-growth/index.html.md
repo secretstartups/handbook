@@ -5,11 +5,49 @@ title: "Brand Growth - Roles & Responsibilities"
 
 ## Levels
 
+### Manager, Brand Strategy and Growth
+
+The Manager, Brand Strategy and Growth reports to the Senior Director, Brand.
+
+#### Manager, Brand Strategy and Growth Job Grade
+
+The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Manager, Brand Growth Responsibilities
+
+* Oversee a team of brand managers to deliver brand campaigns in line with our messaging to drive unaided and aided brand awareness. 
+* Provides overall brand strategy to drive brand growth. 
+* Creates projections of media buy spend in line with brand growth goals. 
+* Works collaboratively with key stakeholders to create brand messaging.
+* Works cross-functionally across sales and marketing to make sure brand campaigns create as much impact as possible. 
+* Educate and communicate our brand personality internally and align company around the message
+* Startegically works with partners, customers and other third-parties to figure out ways to uplevel the GitLab brand. 
+* Develops global brand campaign strategy to impact markets of interest to GitLab. 
+* Oversees and guides the team on KPIs for brand campaigns and impact on overall brand. 
+## Performance Indicators
+
+* Moving the needle on aided and unaided brand awareness. 
+* Global brand campaign strategy and execution.
+* Media buying project planning and delivery.
+
+#### Manager, Brand Growth Requirements
+
+* Ability to use GitLab
+* Past experience in a management role
+* Experience brand strategist with experience delivering global brand campaigns. 
+* Ability to think outside the box to uplevel the GitLab brand in new and unique ways. 
+* Advanced knowledge on brand measurement and tools for brand measurement. 
+* Capability to coordinate across many teams and perform in fast-moving startup environment
+* 
+
+
+
+
 ### Senior Brand Manager
 
 The senior brand manager reports to the Senior Director, Brand.
 
-#### Manager, Brand Growth Job Grade
+#### Senior Brand Manager Job Grade
 
 The Senior Brand Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -26,7 +64,7 @@ The Senior Brand Manager is a [grade 8](/handbook/total-rewards/compensation/com
 * Oversee merchandise management.
 * Provide support with brand team process establishment and documentation.
 
-#### Manager, Brand Growth Requirements
+#### Senior Brand Manager Requirements
 
 * Ability to use GitLab.
 * Experience in a brand manager role or similar acting role. 
