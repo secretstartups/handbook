@@ -28,7 +28,7 @@ Ensure that when customers buy DevOps software the single application approach i
 1. **Deliver products:** Have mature and enterprise ready products across a broad range of categories ([50%](/company/strategy/2023/) of our [categories](/handbook/product/categories/) are at [lovable maturity](/direction/maturity/)).
 1. **Drive product adoption:** Focus on usability for new customers and cross promoting stages to achieve 25m estimated [Combined Monthly Active Users](/handbook/product/performance-indicators/#estimated-combined-monthly-active-users).
 1. **Be a thought leader:** Be the trusted voice about the future of the DevOps. If you ask our potential customers what GitLab is, 70% should say a [DevOps Platform](/solutions/devops-platform/). This is how the analysts define the category.  
-1. **Create a strong partner ecosystem:** develop alliances, systems integrator and channel partners to service specific markets to drive [partner initiatied opportunities](/handbook/sales/field-operations/channel-operations/#partner-initiated-opportunity---pio) to contribute 30% of incremental ARR and 20% of new logos.
+1. **Create a strong partner ecosystem:** Develop alliances, systems integrator and channel partners to service specific markets to drive [partner initiated opportunities](/handbook/sales/field-operations/channel-operations/#partner-initiated-opportunity---pio) to contribute 30% of incremental ARR and 20% of new logos.
 
 More detail on our product strategy can be found on our [direction page](/direction/#vision).
 
