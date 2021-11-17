@@ -29,7 +29,7 @@ In November 2012, Dmitriy made the [first version of GitLab CI](https://gitlab.c
 
 Large organizations running GitLab asked Sid to add features that they needed.
 At the same time Dmitriy tweeted out to the world that he wanted to work on GitLab full time.
-Sid and Dmitriy teamed up and introduced [GitLab Enterprise Edition](/blog/2013/07/22/announcing-gitlab-enterprise-edition) with the features asked for by larger organizations.
+Sid and Dmitriy teamed up and introduced [GitLab Enterprise Edition](/blog/2013/07/22/announcing-gitlab-enterprise-edition) with the features asked for by larger organizations. Sid authored the [initial commit](https://gitlab.com/gitlab-com/www-gitlab-com/-/commit/d69bc4c1acb61666e20ec62a2a0907d535176753) on GitLab's website repository.
 
 ### _2014: GitLab was incorporated_
 
@@ -47,7 +47,7 @@ We became much more comfortable with a much faster pace, and it changed the way 
 
 It was essential to the trajectory we've set. We never thought we could beat our competitors, but we had big ambitions and knew we had a great product and would continue to iterate and improve on that product, which we still do today.
 
-We graduated in March of 2015 and had 9 people on our team.
+We graduated in March of 2015 and had 9 people on our team. The GitLab Handbook was [added to the website repository](https://gitlab.com/gitlab-com/www-gitlab-com/-/commit/2d2ced8f79da96fe981a3a6f6cf5918fa2dd992a). 
 
 ### _2016: Growth_
 
