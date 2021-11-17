@@ -168,7 +168,15 @@ Note: For the **team member only HSA**, GitLab will contribute $100 per month. F
 
 ##### Cigna Infertility Services
  
-Infertility services will be included in both the PPO 500 plan and HSA plan. This includes a $15,000 lifetime infertility benefit for each covered member. More details will be included in the SBCs once available.
+Infertility services will be included in both the PPO 500 plan and HSA plan. This includes a $15,000 lifetime infertility benefit for each covered member.
+
+Coverage will be provided for the following services:
+* Testing and treatment services performed in connection with an underlying medical condition.
+* Testing performed specifically to determine the cause of infertility.
+* Treatment and/or procedures performed specifically to restore fertility (e.g. procedures to correct an infertility condition).
+* Artificial Insemination, In-vitro, GIFT, ZIFT, etc.
+
+More details can be found on the [2021 PPO SPD](https://drive.google.com/file/d/1Qy3OqQMXfkcCcae_zmvbRKbAla--Wfip/view?usp=sharing) and [2021 HDHP SPD](https://drive.google.com/file/d/1R74l9fxgo9Yyzbc32Ebxm9WOl5m_3dK1/view?usp=sharing). The 2022 SPD Will be posted shortly. 
  
 ##### Cigna Transgender Benefit Coverage
  
@@ -193,6 +201,10 @@ Provider contracts change and sometimes the contracts change faster than the web
  
 Virtual visits for Cigna members can be accessed by visiting [myCigna](https://my.cigna.com/web/public/guest), selecting "Find Care & Costs" and scrolling down to the bottom of the page.
  
+##### Cigna Coverage Outside Service Area - International travel
+
+Benefits for services and supplies received outside the Service Area are covered only for medical emergencies and other urgent situations where treatment could not have been reasonably delayed until the insured person was able to return to the United States
+
 #### Kaiser Medical Plans
  
 ##### Kaiser 2021 & 2022 Calendar Year Plans
@@ -248,12 +260,29 @@ _2022 Rates_: The following costs are monthly rates which would be deducted from
 ##### Kaiser Telehealth
  
 Virtual visits for Kaiser members can be accessed by logging into Kaiser's [online portal](https://healthy.kaiserpermanente.org/). Please consult the online portal and your plan details for your copay amount.
+
+##### Kaiser Coverage 
+
+Kaiser provides or arranges for Services or supplies directly to you and your Family Dependents through an integrated medical care system.
+You must receive your health care from KP providers and in KP facilities within the Kaiser Service Area except for these services:
+
+Written and authorized referrals (by a KP provider and/or our Authorizations and Referrals department)
+* Emergency care
+* Out-of-state Urgent Care when traveling
+* Dependent child benefits (as described in this EOC) while out-of-state
+ 
+Outside the Service Area
+Your benefits outside the Service Area are limited to:
+* Emergency Services or out-of-state Urgent Care benefits described in the Benefit Summary
+* Dependent Child outside the Service Area benefits described in the Benefit Summary
+* Authorized referrals by KP provider
  
 ##### Kaiser Period to Submit Claims
  
 For in-network services: N/A.
  
 For out-of-network services: 365 days from Date of Service.
+
  
 #### Pregnancy & Maternity Care
  
@@ -512,7 +541,7 @@ Domestic Partner Reimbursements: If the team member is not legally married to th
 
 FSAs help you pay for eligible out-of-pocket health care and dependent day care expenses on a pretax basis. You determine your projected expenses for the Plan Year and then elect to set aside a portion of each paycheck into your FSA.
 
-FSAs have a $550 rollover each calendar year. This is subject to change as dictated by the IRS.
+FSAs typically have a $550 rollover each calendar year. This is subject to change as dictated by the IRS. Due to COVID legislation, the IRS is allowing for unlimited carryover of FSA funds from 2021 to 2022. Starting in 2022 the IRS increased the FSA rollover amount to $570. 
 
 FSAs are employer-owned accounts. If you leave GitLab, your FSA account will be terminated on your date of termination unless you continue this through COBRA. You are able to use your full FSA amounts up to and on your last day, but not afterwards unless you enroll into COBRA. WEX (Discovery) asks that all claims be submitted up to 90 days after termination date. You can enroll into COBRA FSA if you have spent less out of your account than you have contributed to it. If you decide to enroll, you will be required to continue making your monthly contributions on a post-tax status.  For additional information, please reach out to WEX (Discovery) at 866.451.3399 or `customerservice@discoverybenefits.com`.
  
@@ -528,7 +557,7 @@ Due to the Consolidated Appropriations Act, the IRS is allowing for unlimited ca
  
 #### Commuter Benefits
  
-GitLab offers [commuter benefits](https://drive.google.com/file/d/0B4eFM43gu7VPek1Ia0ZqYjhuT25zYjdYTUpiS1NFSXFXc0Vn/view?usp=sharing) which are administered through WEX (Discovery Benefits). The contribution limits from the IRS for 2020 are $270/month for parking and $270/month for transit. These contributions rollover month to month.
+GitLab offers [commuter benefits](https://drive.google.com/file/d/0B4eFM43gu7VPek1Ia0ZqYjhuT25zYjdYTUpiS1NFSXFXc0Vn/view?usp=sharing) which are administered through WEX (Discovery Benefits). The contribution limits from the IRS for 2021 are $270/month for parking and $270/month for transit. Starting in 2022 the contribution limits will increase to $280/month for parking and $280 per month of transit. These contributions rollover month to month. 
  
 ##### Commuter Benefits Period to Submit Claims
  
