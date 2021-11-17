@@ -64,7 +64,7 @@ The FY'22 Pulse Engagement Survey included 19 rating questions and 3 open ended 
 #### FY'22 Pulse Engagement Survey Timeline
 
 * 2021-11-04: Pulse Survey launch @ 8am PT
-* 2021-11-18: Pulse Survey close @ 8pm PT
+* 2021-11-18: Pulse Survey close @ 11pm PT
 * 2021-11-22: High-level summary shared with CPO and PBPs
 * 2021-11-29: High-level summary shared with e-group
 * 2021-12-01: High-level summary release (company-wide)
