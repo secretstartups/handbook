@@ -31,7 +31,7 @@ The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/co
 * Global brand campaign strategy and execution.
 * Media buying project planning and delivery.
 
-#### Manager, Brand Growth Requirements
+#### Manager, Brand Strategy and Growth Requirements
 
 * Ability to use GitLab
 * Past experience in a management role
@@ -46,7 +46,7 @@ The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/co
 
 ### Senior Brand Manager
 
-The senior brand manager reports to the Senior Director, Brand.
+The senior brand manager reports to the Manager, Brand Strategy and Growth.
 
 #### Senior Brand Manager Job Grade
 
