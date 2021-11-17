@@ -321,6 +321,15 @@ An example of a folder setup in Marketo is:
 **Important Notes**:
 1. The `Active` checkbox must be checked on the SFDC campaign for Marketo to be able to "see" the campaign. This will happen automatically if you follow the process below, but if there is a time you cannot find a SFDC campaign in Marketo, check to make sure that box is checked in SFDC. Additionally, if this box is unchecked, Marketo cannot send leads or update campaign member status for that SFDC campaign.
 1. We have a trigger in SFDC that stamps the start date, end date, reporting date, and fiscal quarter by taking the first 8 characters of the name of the campaign (if they are numbers) and converting that into a date (example: 20210505 == 5/5/2021, so YYYYMMDD). So, campaigns starting with a number must contain a valid date, otherwise you will receive an error.
+1. There are 4 Campaign Statuses which we would like to be automated by SFDC - Default opens at `Planned`, moves to `In Progress` when date = start date, moves to `Completed` when date = end date
+
+|Status|Definition|When does it update?|
+|------|--------|--------|
+|Planned| The campaign is expected and has been set up, but the start date hasn't happened yet (could also be where its pulled back to if an event is postponed).|prior to the Start date - upon Creation|
+|In Progress|The campaign has begun. This is expected to be at least 30 days prior, but could be more if the campaign requires it. |on Start date (generally 30 days prior to event)|
+|Aborted|Campaign has been suspended, cancelled, aborted. |Manually when campaign is aborted|
+|Completed|The campaign happened and has ended, generally 60 days after the event, but manually set by the campaign manager as appropriate. |After End date (generally 60 days after event)|
+
 
 
 ##### Step 1: Clone the Marketo program indicated below
