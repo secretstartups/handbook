@@ -202,6 +202,8 @@ There are two ways to create the initial monthly release post in the [about.GitL
 
 1. Push the branch that was created and follow the link to [create the merge request](#create-the-release-post-mr).
 
+You can find this by going to the www-gitlab.com project and selecting Merge requests. You will be prompted to create the merge request.
+
 ###### Gitpod
 
 If you want to use the script but don't want to setup the local environment you can use [GitPod](https://www.gitpod.io/).
@@ -234,7 +236,7 @@ The manual way can be done either locally or using the GitLab Web IDE:
 Create a merge request with the introductory changes _after the previous post has been merged and before the feature freeze date_ to make the post available to receive contributions from the team:
 
 1. The source branch must be `release-X-Y` and the target branch `master`.
-1. Set the title to `Draft: Release post - GitLab X.Y`.  Prefix the title with `Draft:` or `WIP:`.
+1. Set the title to `Draft: Release post - GitLab X.Y`.  Prefix the title with `Draft:`.
 1. Confirm that "Delete source branch when merge request is accepted" is selected.
 1. Use the release post template for your MR.
 
