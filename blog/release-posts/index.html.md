@@ -189,7 +189,7 @@ There are two ways to create the initial monthly release post in the [about.GitL
 ##### First way: using a script
 
 1. Make sure you have [set everything up to contribute to the about.GitLab.com repository](/handbook/git-page-update/).
-1. In a terminal (locally or Gitpod), run the task:
+1. In a terminal (locally), run the task:
 
    ```shell
    bundle exec rake "release:monthly"
@@ -203,16 +203,6 @@ There are two ways to create the initial monthly release post in the [about.GitL
 1. Push the branch that was created and follow the link to [create the merge request](#create-the-release-post-mr).
 
 You can find this by going to the www-gitlab.com project and selecting Merge requests. You will be prompted to create the merge request.
-
-###### Gitpod
-
-If you want to use the script but don't want to setup the local environment you can use [GitPod](https://www.gitpod.io/).
-
-1. [Enable Gitpod in your GitLab settings](https://docs.gitlab.com/ee/integration/gitpod.html#enable-gitpod-in-your-user-settings)
-1. Go to [about.GitLab.com repository](https://gitlab.com/gitlab-com/www-gitlab-com) and click the down caret next to the "WebIDE" button and slect "Gitpod" from the drop down.
-1. Click the Gitpod button and follow the prompts to create an account (if you have not previously)
-1. Wait for setup of the environemnt to happen
-1. Follow steps above but in the Gitpod terminal not local terminal
 
 ##### Second way: manually
 
@@ -313,8 +303,6 @@ Those block items comprise of the [release post items](#pm-contributors) that
 each PM creates for each feature.
 
 The `bin/release-post-assemble` script makes this easy to do:
-
-Make sure to run the sscript this location: `gitpod /workspace/www-gitlab-com $`
 
 ```bash
   git checkout master
