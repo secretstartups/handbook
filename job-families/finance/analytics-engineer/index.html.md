@@ -121,8 +121,15 @@ Requirements for the Staff Analytics Engineer extend the Senior Analytics Engine
 
 Specializations within the Staff Analytics Engineer extend the Senior Analytics Engineer job: 
 
-* Staff Analytics Engineer, Data Architect: the data architect sets data architecture principles, creates models that enable the implementation of the intended architecture, and creates an inventory of the data and tools needed to implement the architecture vision.
-* Staff Analytics Engineer, Technical Lead: the technical lead sets a technical direction for projects, coordinates the technical effort during development and design, resolves technical disagreements, and manages the technical quality of team deliverables. 
+* Staff Analytics Engineer, Data Architect: 
+  - Sets data architecture principles, standards and guidelines
+  - Continuously reviews current data modelling principles and initiate any improvements to enable the implementation of the intended architecture
+  - Creates an inventory of the data and tools needed to implement a scalable data architecture.
+
+* Staff Analytics Engineer, Technical Lead:
+  - Sets the technical direction for data and cross-functional projects
+  - Coordinates the technical effort during design and development and resolves technical disagreements
+  - Manages the technical quality of team deliverables
 
 ### Principal Analytics Engineer
 
