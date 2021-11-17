@@ -14,7 +14,7 @@ title: "Nominating and Corporate Governance Committee"
 ## Nominating and Corporate Governance Committee Composition
 
 - **Chairperson:** Matthew Jacobson
-- **Members:** Sid Sijbrandij, Sue Bostrom
+- **Members:** Godfrey Sullivan, Sue Bostrom
 - **Management DRI:** Chief Legal Officer
 
 ## Nominating and Corporate Governance Committee Charter
