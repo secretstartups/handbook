@@ -1,51 +1,44 @@
 ---
 layout: handbook-page-toc
 title: Internal Requests tracker
-category: Working L&R requests
-description: Describes how to service internal requests for licensing & renewals.
+category: Managers Workflows
+description: How to manage plan/license escalations
 ---
 
 {:.no_toc}
 
 ----
 
-### Servicing Internal Requests
+### How to manage plan/license related escalations
 
-Follow the same [General Workflow](/handbook/support/workflows/internal_requests.html#general-workflow) as dotcom for servicing L&R internal requests.
+Any escalation during your manager on-call shift can be evaluated using the following diagram.
 
-### L&R Internal Requests Hawk
+### Edgecases
 
-There is a internal requests hawk role which rotates on a weekly basis which
-serves as a temporary measure to make sure internal requests tagged with
-the following labels receive the appropriate attention from Support:
+An edge case can be any situation where the process has been followed and the system will not produce the expeccted results.
+Examples:
 
-* `Associate Subscription Console Escalation::Customers` - Workflow to be documented
-* `Billable Members` - Workflow instructions on template
-* `Console Escalation::Customers` - Workflow to be documented
-* `EULA` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/troubleshooting_eulas.html)
-* `License Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/license_troubleshooting.html)
-* `Plan Change Request` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/plan_change_requests.html)
-* `SaaS Subscription Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/license_troubleshooting.html#transactions)
-* `Trial Extension License issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials.html#extending-trials)
+  - A customer is trying to link their purchase to their account and after following the process the system produces an error.
+  - The webpage or system needed to complete the process is down.
+  - The owner is not available.
 
-When on this role, prioritize working on internal request issues over Zendesk tickets.
-The general workflow guide and best practices are:
+```mermaid
+graph TD
+    A{LR Escalation}--> C[Plan/License requests]
+    C-->T[Is this request for a trial?]
+    T-->|No|G[Is the customer in grace period?]
+    T-->|Yes|SA[Is this a sales asisted trial]
+    SA-->|Yes|G
+    SA-->|No|No
+    G-->|Yes| No[No need for escalation]
+    G-->|No| Exp[Is the plan/lic expiring in more than 24h ?]
+    Exp-->|Yes| No
+    Exp-->|No|Pass[Ok to escalate]
+    No-->X[Manager to collect data for feedback and label escalation issue]
+    A-->WP[Wrong product sold]
+    A-->FR[Force Reassociate]
+    FR--->FR1[Use the docs to deflect]
+    FR1-->|Edge case|Pass
+    WP-->|After sales intervention|Pass
+```
 
-1. Review the list of [unassigned issues](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR). 
-    - For those with US Public Sector access please also check the [L&R view](https://gitlab-federal-support.zendesk.com/agent/filters/360196736931) in the US Federal Support Portal.
-1. Pick an issue to work on/respond to and assign this to yourself.
-1. If you have resolved the problem or attended to the request, close the issue and let the requestor know to re-open the issue if further assistance is required.
-1. If you are awaiting manager approval or a reply from the requestor before moving the issue forward, add the appropriate labels (for example `Manager Approval::Awaiting` or `Status::Awaiting Confirmation`).
-1. Repeat steps above until there are no longer any unassigned issues.
-1. Check if there are any [assigned issues where responses have stalled](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR&assignee_id=Any) and check with the assignee and requestor if follow up action needs to be taken.
-
-You will continue to be responsible for any issues assigned to yourself even
-after you're off the role, so be mindful about working sustainably. If you need
-to, ask for others to help with unassigned issues -- the expectation is that
-GitLab Support as a team should be responding timely to internal requests, not
-you personally as the L&R Internal Requests Hawk.
-
-You'll only be expected to work your usual work hours while doing this role. There
-is a [PagerDuty schedule](https://gitlab.pagerduty.com/schedules#PQ6DB1G) set up
-solely to facilitate tracking/swapping of shifts. It is in no way an indication of
-actual hours of work.
