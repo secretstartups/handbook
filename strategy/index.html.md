@@ -17,18 +17,18 @@ canonical_path: "/company/strategy/"
 Our strategy is looking 3 years out and [fits into our cadences](/company/cadence/#strategy). It also maps to and reflects GitLab's [mission](/company/mission/), [vision](/company/vision/) and [values](/handbook/values/). It is a living strategy, so we will revisit on a regular basis and [iterate](/handbook/values/#iteration) when there is reason to do so.
 
 Along the road to realizing our mission of **everyone can contribute**, our
-strategic goal is to become the leading complete DevOps
-platform (or, what Gartner calls the DevOps Value Stream Delivery platform) delivered as a [single application](/handbook/product/single-application/).  We will help our customers build better software faster including developing cloud native applications, building mobile applications, and incorporating machine learning and artificial intelligence into their products and solutions. We believe that our [dual flywheels](#dual-flywheels) (single application + open-core model) will propel us to efficiently be the default choice  in the Enterprise market.
+strategic goal is to be known as the leading complete [DevOps Platform](/solutions/devops-platform/)
+ (or, what Gartner calls the DevOps Value Stream Delivery platform) delivered as a [single application](/handbook/product/single-application/).  We will help our customers build better software faster including developing cloud native applications, building mobile applications, and incorporating machine learning and artificial intelligence into their products and solutions. We believe that our [dual flywheels](#dual-flywheels) (single application + open-core model) will propel us to efficiently be the default choice in the Enterprise market.
 
 To achieve this, we will endeavor to:
 
 ### 1) Accelerate market maturity around the DevOps Platform
 Ensure that when customers buy DevOps software the single application approach is the default.
 
-1. **Deliver products** that are mature and enterprise ready across a broad range of categories ([50%](/company/strategy/2023/) of our [categories](/handbook/product/categories/) are at [lovable maturity](/direction/maturity/)).
-1. **Drive product adoption** by focusing on usability for new customers and cross promoting stages, we hope to achieve 25m estimated [Combined Monthly Active Users](/handbook/product/performance-indicators/#estimated-combined-monthly-active-users)
-1. **Be a thought leader:** We aspire to become the trusted voice about the future of the DevOps industry by being the number one IT vendor ranking in Google searches for DevOps and [DevOps Platform](/solutions/devops-platform/)
-1. **Create a strong partner ecosystem:**  Do our best to develop alliances, systems integrator and channel partners to service specific markets to drive [partner initiatied opportunities](/handbook/sales/field-operations/channel-operations/#partner-initiated-opportunity---pio) to contribute 30% of incremental ARR and 20% of new logos.
+1. **Deliver products:** Have mature and enterprise ready across a broad range of categories ([50%](/company/strategy/2023/) of our [categories](/handbook/product/categories/) are at [lovable maturity](/direction/maturity/)).
+1. **Drive product adoption:** Focus on usability for new customers and cross promoting stages to achieve 25m estimated [Combined Monthly Active Users](/handbook/product/performance-indicators/#estimated-combined-monthly-active-users).
+1. **Be a thought leader:** Be the trusted voice about the future of the DevOps. If you ask our potential customers what GitLab is, 70% should say a [DevOps Platform](/solutions/devops-platform/). This is how the analysts define the category.  
+1. **Create a strong partner ecosystem:** develop alliances, systems integrator and channel partners to service specific markets to drive [partner initiatied opportunities](/handbook/sales/field-operations/channel-operations/#partner-initiated-opportunity---pio) to contribute 30% of incremental ARR and 20% of new logos.
 
 More detail on our product strategy can be found on our [direction page](/direction/#vision).
 
@@ -36,10 +36,9 @@ More detail on our product strategy can be found on our [direction page](/direct
 
 We will strive to increase the contributions of the wider community.
 
-1. **Community contributions:** Build out a community engagement program to drive community contributions per month from our open source community to 50% of the wider community by EOFY23.
-1. **Customer contributions:** We will seek to encourage existing customers to make GitLab work for them with a [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr) above $1b MR per year.
-1. **Enterprise leading usability:** We will aim to enable contributions that improve the user experience of our application through purpose driven user research and product development, leading to a [SUS](/handbook/engineering/ux/performance-indicators/system-usability-scale/#sus-and-gitlab) score > 77.
-1. **Connect with core users:** Know the organization and be in contact with at least one person in organizations that collectively host more than 10m active users of our open source product. Do this via SaaS services for self-managed and proprietary features that can be used for free.
+1. **Contributions:** Grow contributions to 1000 a month by being responsive and encouraging full-time contributors at customers.
+1. **Enterprise leading usability:** Enable contributions that improve the user experience of our application through purpose driven user research and product development, leading to a [SUS](/handbook/engineering/ux/performance-indicators/system-usability-scale/#sus-and-gitlab) score > 77.
+1. **Connect with users on self-managed free:** Know the organization and be in contact with at least one person in organizations that collectively host more than 10m active users of our open source product. Do this via SaaS services for self-managed and proprietary features that can be used for free.
 
 ### 3) Customer centricity
 The customer will be the center of our operations including how we develop, market, and support our products. While we ship fast every month, we are committed to a seamless change management experience for our customers so they can get the best of GitLab in a predictable way.  We have a goal that over one thousand of our customers become references.
