@@ -82,7 +82,7 @@ The operating system choices have obviously affected the hardware selection proc
 
 Apple hardware is the common choice for most GitLab team-members, but if you are comfortable using and self-supporting yourself with Linux (Ubuntu usually) you may also choose from the Dell builds below.
 
-NOTE: GitLab does **not** have a corporate discount with Apple.
+NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased Apple products only. Apple does **not** have an employee discount program for GitLab at this time.
 
 ##### Apple Hardware
 
