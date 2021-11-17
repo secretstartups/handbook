@@ -51,7 +51,7 @@ Key features of this call include:
 1. CEO and CRO attendance required
 1. Not recorded 
 
-#### Selection Criteria - Q4-FY22 
+### Selection Criteria - Q4-FY22 
 
 In total, 12 team members from across the Field organization will be recognized. The categories by segment include: 
 1. Enterprise Sales
@@ -77,13 +77,18 @@ See the detailed criteria in [this spreadsheet](https://docs.google.com/spreadsh
 1. Categories are reevaluated by CRO leadership and Field Operations every quarter and changed if deemed necessary. 
 1. A team member cannot win a Quarterly Achiever award twice within a fiscal year. 
 
-#### Quarterly Achiever's Chat Process and Timeline
+### Quarterly Achiever's Chat Process and Timeline
 1. Quarterly Achievers finalized within the second week of the new quarter
 1. Quarterly Achievers announced and recognized in the first WW Field Sales Call following [QBRs](/handbook/sales/qbrs/) (typically 3 weeks into the new quarter)
 1. Quarterly Achievers Chat held within the first month of new quarter 
 1. CEO and CRO to congratulate and inquire about key learnings from achievers on call
 1. CEO and CRO to pull out 2-3 of the most impactful key learnings and share with the larger team in a Slack post (either #ceo or #cro) after the call
 1. Achievers recognized in the next-available [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/)
+
+### Quarterly Achiever's Recognition Dinner 
+As part of this initiative, Quarterly Achievers are able to expense a meal up to $250.00 USD within the same quarter they were selected in. For example, if a team member is selected as a Quarterly Achiever in November, they must expense their meal before the end of Q4 (the last day in January). Please submit your meal expense in Expensify and in the description field link to this section of the handbook for approval. 
+
+The $250.00 USD is reimbursable for a meal only, other items do not qualify. 
 
 ## #deal-gratitude Slack Channel 
 
