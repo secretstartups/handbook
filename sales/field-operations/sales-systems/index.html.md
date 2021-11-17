@@ -104,7 +104,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 |-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|------------------------|
 | Approval Module Updates  (Discounts, Payment Terms, Approval Structure/Hierarchy, Approval Notifications, Override Functions)       | Sr. Manager, Deal Desk                       |   Manager, Deal Desk   |
 | SuperSonics Logic Updates                                                                                                           | Sr. Manager, Deal Desk                       | Manager, Deal Desk     |
-| Smart Templates Gate Logic                                                                                                          | Manager, Deal Desk                           | Sr. Manger, Deal Desk  |
+| Smart Templates Gate Logic                                                                                                          | Manager, Deal Desk                           | Sr. Manager, Deal Desk  |
 | Proposed Validation Rules  (Ex. "X" Field is Mandatory on all quote objects, if "X" is blank, user cannot move forward with quote.  | Sr. Manager, Deal Desk &  Manager, Deal Desk | Manager, Deal Desk     |
 | Quote Templates / Docusign Order Forms                                                                                              | Manager, Deal Desk                           | Sr. Manager, Deal Desk |
 | Quoting Workflow Changes  (Ex. Updating Button Behavior (Edit Quote vs Maintain Quote), removing fields or permissions)             | Sr. Manager, Deal Desk                       | Manager, Deal Desk     |
