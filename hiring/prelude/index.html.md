@@ -18,7 +18,7 @@ Experience Team
 
 #### Logging in to Prelude
 
-To log in, visit [Prelude.co](Prelude.co), click "Sign In", click "Sign in with Google", and then use your GitLab email address.
+To log in, visit [Prelude.co](https://Prelude.co), click "Sign In", click "Sign in with Google", and then use your GitLab email address.
 
 #### How to schedule 1:1 via Prelude
 1. In Greenhouse click on “schedule loop” located on the top of the screen when you're in a candidate profile
