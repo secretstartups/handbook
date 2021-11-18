@@ -101,6 +101,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 ### Connecticut
 * [Connecticut Commission on Human Rights and Opportunities Sexual Harassment Notice](https://portal.ct.gov/-/media/CHRO/SexualHarassmentPreventionPosterpdf.pdf)
 * [Paid Sick Leave](https://www.ctdol.state.ct.us/wgwkstnd/NoticeSickLeavePoster2014%20.pdf)
+* [CT Paid Leave](https://ctpaidleave.my.salesforce.com/sfc/p/#t00000004XRe/a/t00000017vPH/IYK_GaizuYSGI4PeNMl128HN2hn8O1vZ9diq3q7VKX8)
 * [Discrimination is Illegal](https://portal.ct.gov/-/media/CHRO/DiscriminationFlyerpdf.pdf)
 * [Minimum Wage](https://www.ctdol.state.ct.us/wgwkstnd/DOL-75.pdf)
 * Unemployment Insurance Notice
