@@ -271,7 +271,7 @@ Reports open for more than 2 weeks with the `~"triage report"` label will be clo
 
 ## Triage automation
 
-General triage automation is run to label and update issues which help with
+Scheduled triage automation is run to label and update issues which help with
 reporting and milestone transition. This is handled by
 [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops).
 
@@ -379,7 +379,7 @@ Merge requests which have an author that is not a member of `gitlab-org` will ha
 * Automation Condition:
   * Merge request under `gitlab-org` with author that is not in the `gitlab-org` group.
   * Merge request under `gitlab-com/www-gitlab-com` with author that is not in the `gitlab-com` group.
-* Frequency: daily, and **a realtime welcome message with triage-serverless for applies ~"Community contribution"`**
+* Frequency: daily, and **a realtime welcome message for applies ~"Community contribution"`**
 * Automation Action:
   *  The label `~"Community contribution"` is applied
 *  Example: <https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/30909/#note_0a1c0937d1b2851e9695fb89848d8425dcf28e00>
@@ -472,9 +472,9 @@ Note:
 
 ## Reactive triage automation
 
-Reactive triage automation is complementary to general triage automation where
+Reactive triage automation is complementary to scheduled triage automation where
 realtime feedback provides an improved developer experience. This is handled by
-[triage-serverless](https://gitlab.com/gitlab-org/quality/triage-serverless).
+[triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops).
 
 ### Ensure quick feedback for Community contributions
 
