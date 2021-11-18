@@ -44,6 +44,17 @@ For all-remote companies, leaders should not expect informal communication to ha
 
 In an all-remote environment, informal communication should be formally addressed. Leaders should organize informal communication, and to whatever degree possible, design an atmosphere where team members all over the globe feel comfortable reaching out to anyone to converse about topics unrelated to work.
 
+## Community impact outings
+
+Community impact outings are a meaningful alternative to Zoom happy hours. Instead of allocating a shared hour to chat in a video call with teammates, consider a formal outing where each team member redirects that hour to their local community. This approach is not only more inclusive of time zones and family committments (as the hour can be spent at any point in a given week versus a set time on a calendar), but it celebrates the core of what makes us all unique: our chosen homes and surroundings.
+
+Here's how to construct a Community Impact Outing.
+1. Ask your team to block a given amount of time (e.g. one hour) on their calendar during a specific week. Entitle it `[TEAM] Community Impact Outing`. Empower team members to devote time to something meaningful to them, such as volunteering at a library or assisting the elderly.
+1. Optionally, ask team members to wear company swag during their outing and capture a photo, video, selfie, or written story.
+1. At the start of the following week, encourage team members to share those assets in a team Slack channel, all-hands, or stand-up meeting. Dedicate time to sharing what each team member did and how it impacted them. 
+
+Empowering people to fill their social quota *outside* of work, in local neighborhoods and communities, and then bring that culture *to* work, creates a refreshing medium for fostering informal communication.
+
 ## Create opportunity for chance meetings
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">To what extend do you think chance meetings can be organized? For some examples see <a href="https://t.co/OAYB1uKX3r">https://t.co/OAYB1uKX3r</a></p>&mdash; Sid Sijbrandij (@sytses) <a href="https://twitter.com/sytses/status/1270721630537277442?ref_src=twsrc%5Etfw">June 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
