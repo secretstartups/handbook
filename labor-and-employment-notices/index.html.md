@@ -110,7 +110,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Pregnancy Discrimination and Accommodation in the Workplace](https://www.ctdol.state.ct.us/gendocs/SS46a%20Pregnancy%20Disability%20Poster.pdf)
 
 ### Massachusetts
-* [Paid Family and Medical Leave](https://www.mass.gov/doc/paid-family-and-medical-leave-mandatory-workplace-poster/download)
+* [Paid Family and Medical Leave](https://www.mass.gov/doc/2022-paid-family-and-medical-leave-mandatory-workplace-poster/download)
 * [Earned Sick Time](https://www.mass.gov/doc/earned-sick-time-notice-of-employee-rights/download)
 * [Massachusetts Wage and Hours Laws](https://www.mass.gov/doc/massachusetts-wage-hour-laws-poster/download)
 * [Fair Employment Law](https://www.mass.gov/doc/fair-employment-poster/download)
