@@ -52,7 +52,7 @@ We measure success using the following metrics:
 | Metrics | How we measure | Goal |
 | ----- | ----- | ----- |
 | Percentage of new team members who complete the training per quarter | Completions of end of program survey | 30% |
-|  Impact on target of [percent of messages that are not DMs](/handbook/communication/#why-we-track--of-messages-that-are-not-dms) | Tracked on [Slack handbook page](/handbook/communication/#why-we-track--of-messages-that-are-not-dms) | Correlation of course completsions and target |
+|  Impact on target of [percent of messages that are not DMs](/handbook/communication/#why-we-track--of-messages-that-are-not-dms) | Tracked on [Slack handbook page](/handbook/communication/#why-we-track--of-messages-that-are-not-dms) | Correlation of course completions and target |
 
 ## Future improvements
 
