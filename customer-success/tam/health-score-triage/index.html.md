@@ -90,10 +90,10 @@ Very rarely, a customer reaches a point at which it is accepted by the account t
 In order for a customer to move to the 'will churn' stage, the following must be completed:
 
 - [ ] All options discussed in the triage issue and in at-risk reviews have been exhausted
-- [ ] VP of Customer Success has reviewed scenario and agreed to move to 'will churn' approvals
-- [ ] Enterprise Sales: The ASM has reviewed scenario and agreed to move to 'will churn'
-- [ ] Commercial Sales: The VP of Sales has reviewed scenario and agreed to move to 'will churn'
-- [ ] TAM has recieved confirmation in the triage issue that leadership agrees with moving this customer to 'will churn'
+- [ ] Technical Account Manager opens a Will Churn" issue
+  - ["Will Churn" Enterprise issue template](https://gitlab.com/gitlab-com/customer-success/account-triage/-/issues/new?issuable_template=Will%20Churn%20-%20ENT)
+- [ ] Technical Account Manager links from the triage issue to the newly created "Will Churn" issue, and closes the triage issue
+- [ ] Listed personas in the "Will Churn" issue provide feedback and approval
 - [ ] SAL/AE has marked the opportunity as 'Will Churn'
 
 
