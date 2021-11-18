@@ -86,14 +86,13 @@ NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased
 
 ##### Apple Hardware
 
-- Macbook Pro - 14" M1 Max 16-Core CPU /24-core GPU / 32GB / 512GB - **Engineer, Technical, or approved finance role**
-- Macbook Pro - 16" M1 Max 16-Core CPU /24-core GPU / 32GB / 512GB or 1TB/ - **Engineer, Technical, or approved finance role**
-- MacBook Pro - 16”  / 512 SSD / 32 RAM / i9 or i7 Intel CPU - Limited supply, we may offer this model depending on availabilty the new M1 Max model. 
-- Macbook Pro - 13" / M1 / 16Gb / 512GB - **Non-Engineer or "Everyone Else"**
+- Macbook Pro - 14" M1 Max 16-Core CPU /24-core GPU / 32GB / 512GB - **Performance model**
+- Macbook Pro - 16" M1 Max 16-Core CPU /24-core GPU / 32GB / 512GB or 1TB/ - **Performance model**
+- MacBook Pro - 16”  / 512 SSD / 32 RAM / i9 or i7 Intel CPU - **Legacy performance model** - Limited supply, we may offer this model depending on availability the new M1 Max model. 
+- Macbook Pro - 13" / M1 / 16Gb / 512GB - **Standard model**
 
-**Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Engineering Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production are approved for 14" or 16" Macbook Pro M1 Max models.**
+Most roles that require higher performance machines are approved for a 14" or 16" MacBook Pro M1 Max model. Please see this [spreadsheet](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit?usp=sharing) (public) to locate your department group and determine which machine you are eligible for. 
 
-If you're a current Gitlab team member with a Google login you can view a detailed breakdown of the models and department policy [here](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit#gid=0). 
 
 ##### Linux Hardware
 
