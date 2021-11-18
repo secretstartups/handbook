@@ -13,7 +13,7 @@ The Manager, Brand Strategy and Growth reports to the Senior Director, Brand.
 
 The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Manager, Brand Stratgy and Growth Responsibilities
+#### Manager, Brand Strategy and Growth Responsibilities
 
 * Oversee a team of brand managers to deliver brand campaigns in line with our messaging to drive unaided and aided brand awareness. 
 * Provides overall brand strategy to drive brand growth. 
@@ -44,15 +44,15 @@ The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/co
 
 
 
-### Senior Brand Manager
+### Staff Brand Manager
 
 The senior brand manager reports to the Manager, Brand Strategy and Growth.
 
-#### Senior Brand Manager Job Grade
+#### Staff Brand Manager Job Grade
 
-The Senior Brand Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Brand Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Brand Manager Responsibilities
+#### Staff Brand Manager Responsibilities
 
 * Identify how our brand is currently positioned in the market and develop a reporting process to document the progress of our brand
 * Implement brand measurement systems so the value of our brand can be easily tracked.
@@ -65,7 +65,7 @@ The Senior Brand Manager is a [grade 7](/handbook/total-rewards/compensation/com
 * Oversee merchandise management.
 * Provide support with brand team process establishment and documentation.
 
-#### Senior Brand Manager Requirements
+#### Staff Brand Manager Requirements
 
 * Ability to use GitLab.
 * Experience in a brand manager role or similar acting role. 
