@@ -257,7 +257,7 @@ Where Can GitLab Team Members Travel: While some areas of the world have decreas
 
 Required of/by Team Members Prior to Traveling:
 
-- At this time, only vaccinated team members may request travel*. Except in extremely limited circumstances as may be required by applicable local law, non vaccinated team members are currently not allowed to travel. By making a request to travel, you are confirming that you are authorized to travel due to being vaccinated.
+- At this time, only vaccinated team members may request travel*. Except in extremely limited circumstances as may be required by applicable local law, non vaccinated team members are currently not allowed to travel. By making a request to travel, you are confirming that you are authorized to travel based on your vaccination status.  
 - Travel requests should be made for any mode of travel where Team Members will be meeting with customers and/or partners in person.
 - Vaccinated team members must wear a mask that meets CDC or WHO guidelines during travel to their destination(s), and must continue to follow mask requirements meeting CDC/WHO guidelines or local, venue or client requirements, whichever is most strict.
 - All international travelers must follow each country's guidelines governing entry and re-entry. 
