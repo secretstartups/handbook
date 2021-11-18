@@ -263,9 +263,9 @@ Required of/by Team Members Prior to Traveling:
 - All international travelers must follow each country's guidelines governing entry and re-entry. 
 
 
-*All team members must be fully vaccinated (two weeks post final vaccination)
+*All team members must be fully vaccinated against COVID-19 (two weeks past your final vaccination date)
 
-Please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  
+Travel requests should be made for any mode of travel where team members will be meeting customers and/or partners in person. To request travel, please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  
 
 General recommendations/precautions:
 
