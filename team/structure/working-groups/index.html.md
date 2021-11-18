@@ -176,3 +176,7 @@ If you are interested in participating in an active working group, it is general
 * [Transient Bugs](/company/team/structure/working-groups/transient-bugs/)
 * [Upstream Diversity](/company/team/structure/working-groups/upstream-diversity/)
 
+## 11 Cross-Functional Initiatives   
+In FY22-Q4, we identified 11 cross-functional initatives that are key to GitLab's success in FY23 and beyond. While there are other important business initiatives and priorities that exist within functions or require engagement accross the business, we elevated these iniatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and montioring. 
+
+Team members with appropriate permissions can find this list of initiatives in Google Drive by searching for "Top 11 Cross Functional Projects."
