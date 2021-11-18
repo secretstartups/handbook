@@ -23,7 +23,7 @@ The user-facing end of GitLab's data stack is comprised of our BI Tool, Sisense 
 
 Some useful links that we recommend for you to bookmark:
 
-- [Usage Pings documentation](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html)
+- [Service Pings documentation](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html)
 - Snowplow [backend](https://docs.gitlab.com/ee/development/event_tracking/backend.html) and [frontend](https://docs.gitlab.com/ee/development/event_tracking/frontend.html) documentation
 - [DBT documentation](https://dbt.gitlabdata.com/#!/overview) where most of the tables are documented
 - [Sisense link](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B)
@@ -84,18 +84,18 @@ The first question we on the data team ask product managers is usually "are you 
 
 - See this [Sisense chart](https://app.periscopedata.com/app/gitlab/602123/Data-For-Product-Managers:-Supporting-Dashboard?widget=7940644&udv=0) which shows the differences between the 2 product offerings from a financial perspective.
 - We have three primary data sources that are useful from a product perspective.
-    - **Usage Ping** (for Self-Managed and GitLab.com)
+    - **Service Ping** (for Self-Managed and GitLab.com)
     - **GitLab.com Postgres Database** (for GitLab.com)
     - **Snowplow** (for GitLab.com)
 
-### Usage Ping (Version App)
+### Service Ping (Version App)
 
-- [Usage Ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html) is a custom tool that GitLab built to deal with the problem of collecting weekly aggregate information from our customers who host our product on their own hardware.
+- [Service Ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html) is a custom tool that GitLab built to deal with the problem of collecting weekly aggregate information from our customers who host our product on their own hardware.
 - It is optional but defaults to being on.
-- 30% of licensed instances successfully send usage ping every month. We don't know about unlicensed (core) users but assume the same rate. Here is more [information](https://gitlab.com/gitlab-org/product-intelligence/issues/291#note_276741996) on why some instances block data from being sent.
+- 30% of licensed instances successfully send service ping every month. We don't know about unlicensed (core) users but assume the same rate. Here is more [information](https://gitlab.com/gitlab-org/product-intelligence/issues/291#note_276741996) on why some instances block data from being sent.
     <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 7861044, dashboard: 545874, embed: 'v2') %>">
-- GitLab.com usage pings can be filtered out of your query as they always come from the same UUID.
-- Monthly totals for Usage Ping are added to Snowflake daily. By the 2nd all the data should be available from the previous month. You can always check the [Manual Usage Ping Validation Status Dashboard](https://app.periscopedata.com/app/gitlab/762611/Manual-Usage-Ping-Validation).
+- GitLab.com service pings can be filtered out of your query as they always come from the same UUID.
+- Monthly totals for Service Ping are added to Snowflake daily. By the 2nd all the data should be available from the previous month. You can always check the [Manual Service Ping Validation Status Dashboard](https://app.periscopedata.com/app/gitlab/762611/Manual-Usage-Ping-Validation).
 
 **Query Example filtering out GitLab.com:**
 
@@ -109,11 +109,11 @@ WHERE uuid <> 'ea8bf810-1d6f-4a6a-b4fd-93e8cbd8b57f' --GitLab.com UUID
 
 Snippets are great ways to allow Sisense users to build charts without writing any SQL. Anyone with editor access can write their own snippets. The data team has created several snippets that have the official badge. To find a list of available snippets, click on the scissors in the left menu.
 
-We created several snippets that allow you to get quickly without any SQL writing some feature usage from the Usage Pings data source.
+We created several snippets that allow you to get quickly without any SQL writing some feature usage from the Service Pings data source.
 
 ##### How do I know which one to use ?
 
-We have created a dashboard [Usage Ping Exploration](https://app.periscopedata.com/app/gitlab/658340/Usage-Ping-Exploration?) that helps you QA your new Usage Ping counters and tells you which snippets to use.
+We have created a dashboard [Service Ping Exploration](https://app.periscopedata.com/app/gitlab/658340/Usage-Ping-Exploration?) that helps you QA your new Service Ping counters and tells you which snippets to use.
 
 ##### `td_xmau` snippet
 
@@ -151,13 +151,13 @@ The snippet called `feature_usage_this_agg_period_and_growth(feature)` ([SQL sou
 
 This snippet can be used with the date-range and aggregation filters. It has been used in several dashboards, one of them is the [Secure Metrics dashboard](https://app.periscopedata.com/app/gitlab/410654/Secure-Metrics)
 
-We are planning to build a second snippet to report on the adoption rate per [product tier](/handbook/marketing/strategic-marketing/tiers/). This snippet will allow to easily calculate among the instances that send us usage pings in a given period, the number of instances that use a specific feature.
+We are planning to build a second snippet to report on the adoption rate per [product tier](/handbook/marketing/strategic-marketing/tiers/). This snippet will allow to easily calculate among the instances that send us service pings in a given period, the number of instances that use a specific feature.
 
 ###### Examples
 
-- **Example 1**: [What percent of self-managed instances sending usage pings have a project with an active Jira integration?](https://app.periscopedata.com/app/gitlab/602123/Data-For-Product-Manager:-Supporting-doc?widget=7886001)
+- **Example 1**: [What percent of self-managed instances sending service pings have a project with an active Jira integration?](https://app.periscopedata.com/app/gitlab/602123/Data-For-Product-Manager:-Supporting-doc?widget=7886001)
 - **Example 2**: [What are the salesforce accounts of the 100 instances that use issues the most?](https://app.periscopedata.com/app/gitlab/602123/Data-For-Product-Managers:-Supporting-Doc?widget=7932958)
-- **Example 3**: [How many SAST jobs have been created in the last 12 months by self-managed instances sending usage pings ?](https://app.periscopedata.com/app/gitlab/602123/Data-For-Product-Manager:-Supporting-doc?widget=7886026)
+- **Example 3**: [How many SAST jobs have been created in the last 12 months by self-managed instances sending service pings ?](https://app.periscopedata.com/app/gitlab/602123/Data-For-Product-Manager:-Supporting-doc?widget=7886026)
 
 ##### usage_ping_metric_count Snippet
 
@@ -210,12 +210,12 @@ This state is definitely not final! The Data Team is currently towards a more un
 - Our ELT process works by explicitly stating which columns and tables we want to import into the data warehouse. This means we might be missing a column or whole table that you want to have in the data warehouse for analysis.
 - When this is the case, please create a data issue letting us know what you want us to import. Before doing so, please confirm that the table/column is truly part of the [production schema](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql).
 
-#### Replicating Usage Ping using GitLab.com Data
+#### Replicating Service Ping using GitLab.com Data
 
-- Because usage ping only aggregates data at an `instance` level, it is not super useful for GitLab.com since we often want to see information at the `namespace` level. For example, knowing that 40K people used your stage on GitLab.com is somewhat useful, but you'll probably want to know more context (Are they free or paid? What plan are they on? Do I have any power users or is usage equally distributed?)
-- But since we have access to the GitLab.com postgres database, we are capable of replicating any part of usage ping at the namespace level or even the user level.
-- All usage ping does under the hood is execute some `SELECT COUNT(*) FROM x` statements, making it trivial to replicate.
-- [This model](https://dbt.gitlabdata.com/analytics/dbt/snowflake/#!/model/model.gitlab_snowflake.gitlab_dotcom_usage_data_events) exemplifies hows usage ping could be replicated for GitLab.com at the namespace level. This model is available as a discovery dataset in Periscope. [More information is available here](/handbook/business-technology/data-team/platform/periscope/#discovery-datasets)
+- Because service ping only aggregates data at an `instance` level, it is not super useful for GitLab.com since we often want to see information at the `namespace` level. For example, knowing that 40K people used your stage on GitLab.com is somewhat useful, but you'll probably want to know more context (Are they free or paid? What plan are they on? Do I have any power users or is usage equally distributed?)
+- But since we have access to the GitLab.com postgres database, we are capable of replicating any part of service ping at the namespace level or even the user level.
+- All service ping does under the hood is execute some `SELECT COUNT(*) FROM x` statements, making it trivial to replicate.
+- [This model](https://dbt.gitlabdata.com/analytics/dbt/snowflake/#!/model/model.gitlab_snowflake.gitlab_dotcom_usage_data_events) exemplifies hows service ping could be replicated for GitLab.com at the namespace level. This model is available as a discovery dataset in Periscope. [More information is available here](/handbook/business-technology/data-team/platform/periscope/#discovery-datasets)
 - We created [this dashboard](https://app.periscopedata.com/app/gitlab/576469/WIP:-Namespace-Overview) to demonstrate what data is available and which type of drilldowns can be done.
 
 #### Examples
@@ -241,7 +241,7 @@ This state is definitely not final! The Data Team is currently towards a more un
 
 A lot!
 
-Because Snowplow doesn't rely on Usage Ping and is mainly for GitLab SaaS, data from Snowplow is much faster to collect (as soon as the feature is deployed) and visualize.
+Because Snowplow doesn't rely on Service Ping and is mainly for GitLab SaaS, data from Snowplow is much faster to collect (as soon as the feature is deployed) and visualize.
 
 As mentioned, even though the anonymization of snowplow events is a major limitation, with the fast feedback, it is an effective source of data to measure feature adoption and usage.
 
@@ -315,8 +315,8 @@ TODO
 ## Product Intelligence
 
 - [Product Intelligence](/direction/product-intelligence/) is part of the product org and is completely separate from the Data team. However, the Data team and the Product Intelligence collaborate closely as Product Analytics Fusion Team.
-- The Product Intelligence team members are the [DRI](/handbook/people-group/directly-responsible-individuals/)s for data collection across both GitLab.com and Self-Managed. They own Usage Ping and Snowplow. They are the ones to go to for questions like:
+- The Product Intelligence team members are the [DRI](/handbook/people-group/directly-responsible-individuals/)s for data collection across both GitLab.com and Self-Managed. They own Service Ping and Snowplow. They are the ones to go to for questions like:
     - How do I instrument a new statistic for self-managed?
-    - What are the best practices for adding to usage ping?
+    - What are the best practices for adding to service ping?
     - How can I use snowplow to track a frontend interaction on GitLab.com?
     - Can I utilize snowplow to track events on the server-side?
