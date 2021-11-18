@@ -93,6 +93,8 @@ NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased
 
 **Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Engineering Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production are approved for 14" or 16" Macbook Pro M1 Max models.**
 
+If you're a current Gitlab team member with a Google login you can view a detailed breakdown of the models and department policy [here](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit#gid=0). 
+
 ##### Linux Hardware
 
 Please only request a Linux laptop if you have experience with this operating system and its requirements, all others, select a MacBook.
