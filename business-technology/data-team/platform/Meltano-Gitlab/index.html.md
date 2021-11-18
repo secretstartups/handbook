@@ -20,7 +20,18 @@ title: "Meltano At Gitlab"
 
 ## Meltano
 
-We run Meltano in its own Kubernetes cluster with in the `default` namespace. Currently 3 project repository is in place. The Kubernetes cluster is running [GCP as meltano-mashey](https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/meltano-mashey/details?project=gitlab-analysis). 
+### Kubernetes cluster Setup with terraform explained for Meltano.
+
+We host Meltano in kubernetes cluster of one node pool named `meltano-pool` with one active node. The node pool is not scalable at the moment.
+
+
+We run Meltano in its own Kubernetes cluster with in the `meltano` namespace.
+
+
+
+
+
+Currently 3 project repository is in place. The Kubernetes cluster is running [GCP as meltano-mashey](https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/meltano-mashey/details?project=gitlab-analysis). 
 
 The UI of Meltano is not exposed to internet. To view the logs we have to look in the kubernetes container logs. It can be found under "LOGS" tab or under the overview page by selecting the `meltano-gitlab` cluster under workloads.
 
