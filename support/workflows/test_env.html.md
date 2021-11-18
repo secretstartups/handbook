@@ -149,6 +149,7 @@ If you wish to test resources using a real domain name (instead of an IP address
 For a Digital Ocean droplets [follow this guide](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md).
 Once you've  created your resource you can follow the section named [Creating GitLab test instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) (though do keep in mind that we are moving away from this project).
 
+
 ## Persistent Local Environments
 
 ### Install Docker
@@ -345,3 +346,12 @@ docker exec -it gitlab-ee gitlab-ctl reconfigure
 + [https://docs.gitlab.com/omnibus/docker/](https://docs.gitlab.com/omnibus/docker/)
 + [https://docs.docker.com/machine/get-started/](https://docs.docker.com/machine/get-started/)
 + [https://docs.docker.com/machine/reference/ip/](https://docs.docker.com/machine/reference/ip/)
+
+## Windows
+
+It may come to pass that you require a Windows environment to test a [Windows Runner](https://docs.gitlab.com/runner/install/windows.html) or
+even the [Kubernetes Executor in a Mixed Cluster](https://docs.gitlab.com/runner/executors/kubernetes.html#example-for-windowsamd64). 
+
+The options are the same as above:
+ - Cloud environements: GCP and AWS have Windows Server images you can spin up to connect to via RDP.
+ - A local environment: Microsoft provides [pre-packeged Windows VMs](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/) for your hypervisor of choice.
