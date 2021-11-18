@@ -172,6 +172,7 @@ I spend the majority of my time focused on completing planned development tasks,
 - When I’m on-call, I want to be the expert on some part of the system, so I know that I’m a valuable part of the team.
 - When collaborating with a large number of developers, I want to see a record of everyone’s changes, so we can pinpoint and unwind mistakes.
 - When I’m pairing with my teammates, I want to learn new tools and skills, so I can keep growing in my career.
+- When I'm making changes, I want to deliver secure and performant code, so I can ensure the integrity of my organization's software is not compromised.
 
 ##### Frustrations
 
