@@ -22,7 +22,7 @@ GitLab team members participating in this training will:
 
 1. Build confidence in their ability to use Slack as a form of informal and formal communication at GitLab.
 1. Improve efficiency using tools built into the Slack app.
-1. Conribute to reaching our target of [percent of messages that are not DMs](/handbook/communication/#why-we-track--of-messages-that-are-not-dms).
+1. Contribute to reaching our target of [percent of messages that are not DMs](/handbook/communication/#why-we-track--of-messages-that-are-not-dms).
 1. Review and reinforce GitLab values within the scope of Slack.
 
 ## Requirements
@@ -43,7 +43,7 @@ Here's what to expect in the Slack training:
 1. 3 days before the training begins, you'll be added to a group direct message with a notification of the training start date and first instructions
 1. The training will run for 10 business days
 1. Each day, you'll get one direct message with your daily task instructions
-1. Messages will be schedlued by the L&D team and are triggered to send at 2pm UTC
+1. Messages will be scheduled by the L&D team and are triggered to send at 2pm UTC
 
 ## Metrics
 
@@ -52,13 +52,13 @@ We measure success using the following metrics:
 | Metrics | How we measure | Goal |
 | ----- | ----- | ----- |
 | Percentage of new team members who complete the training per quarter | Completions of end of program survey | 30% |
-|  Impact on target of [percent of messages that are not DMs](/handbook/communication/#why-we-track--of-messages-that-are-not-dms) | Tracked on [Slack handbook page](/handbook/communication/#why-we-track--of-messages-that-are-not-dms) ] | Correlation of course completsions and target |
+|  Impact on target of [percent of messages that are not DMs](/handbook/communication/#why-we-track--of-messages-that-are-not-dms) | Tracked on [Slack handbook page](/handbook/communication/#why-we-track--of-messages-that-are-not-dms) | Correlation of course completsions and target |
 
 ## Future improvements
 
 The following topics will be prioritized in future iterations of this training:
 
-1. Increase automation - explore tools and plugins that can automatically assign and trigger this training based on team member start date.
+1. Increase automation - explore tools and plugins that can automatically assign and trigger this training based on team member start date
 1. Improve metrics - track impact of training on team member behavior in Slack
 
 ## Questions
