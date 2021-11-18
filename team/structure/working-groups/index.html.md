@@ -179,4 +179,4 @@ If you are interested in participating in an active working group, it is general
 ## 11 Cross-Functional Initiatives   
 In FY22-Q4, we identified 11 cross-functional initiatives that are key to GitLab's success in FY23 and beyond. While there are other important business initiatives and priorities that exist within functions or require engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring. 
 
-Team members with appropriate permissions can find this list of initiatives in Google Drive by searching for "Top 11 Cross Functional Projects."
+Team members with appropriate permissions can find this list of initiatives in Google Drive by searching for "Top 11 Cross Functional Projects." This document is [limited access](/handbook/communication/#limited-access). 
