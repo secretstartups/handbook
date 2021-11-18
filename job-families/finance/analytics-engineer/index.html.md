@@ -91,6 +91,7 @@ The Staff Analytics Engineer reports to the [Manager, Data.](https://about.gitla
 #### Staff Analytics Engineer Job Grade
 
 The Staff Analytics Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
 #### Staff Analytics Engineer Responsibilities
 
 Responsibilites for the Staff Analytics Engineer extend the Senior Analytics Engineer job. In addition:
