@@ -86,11 +86,12 @@ NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased
 
 ##### Apple Hardware
 
-- For Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Engineering Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production (MacBook Pro) - [16”  / 512gig SSD / 32gig RAM / i9 or i7 CPU](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-2.6ghz-6-core-processor-512gb)
+- Macbook Pro - 14" M1 Max 16-Core CPU /24-core GPU / 32GB / 512GB - **Engineer, Technical, or approved finance role**
+- Macbook Pro - 16" M1 Max 16-Core CPU /24-core GPU / 32GB / 512GB or 1TB/ - **Engineer, Technical, or approved finance role**
+- MacBook Pro - 16”  / 512 SSD / 32 RAM / i9 or i7 Intel CPU - Limited supply, we may offer this model depending on availabilty the new M1 Max model. 
+- Macbook Pro - 13" / M1 / 16Gb / 512GB - **Non-Engineer or "Everyone Else"**
 
-- Everyone Else (MacBook Pro) - [13” / 512gig SSD / 16gigs RAM / i5 CPU](https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-1.4ghz-quad-core-processor-with-turbo-boost-up-to-3.9ghz-256gb)
-
-- 13" Macbook Pro w/ M1, 16Gb, 512GB (avaliable upon request depending on shipping times)
+**Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Engineering Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production are approved for 14" or 16" Macbook Pro M1 Max models.**
 
 ##### Linux Hardware
 
