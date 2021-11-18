@@ -87,6 +87,59 @@ Once above is done it will create 2 state file in GCS bucket named `production.t
 To select production use command `terraform workspace select production ` or for staging use command `terraform workspace select  staging`.
 When you switch between workspace you will the statement `Switched to workspace "staging".` or name of any workspace we want to switch.
 
+Step 3:
+Now to create the cluster we need to run below command `terraform plan -var-file=meltano_gke_production.tfvars -out "plan_to_apply"` this will generate the plan for the cluster creation of staging enviornment.
+all looks good then run the command `terraform apply "plan_to_apply"`
+It will give output like below
+```
+google_container_cluster.meltano_cluster: Creating...
+google_container_cluster.meltano_cluster: Still creating... [10s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [20s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [30s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [40s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [50s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [1m0s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [1m10s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [1m20s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [1m30s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [1m40s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [1m50s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [2m0s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [2m10s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [2m20s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [2m30s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [2m40s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [2m50s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [3m0s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [3m10s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [3m20s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [3m30s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [3m40s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [3m50s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [4m0s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [4m10s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [4m20s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [4m30s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [4m40s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [4m50s elapsed]
+google_container_cluster.meltano_cluster: Still creating... [5m0s elapsed]
+google_container_cluster.meltano_cluster: Creation complete after 5m1s [id=projects/gitlab-analysis/locations/us-west1-a/clusters/data-ops-meltano-staging]
+google_container_node_pool.meltano-pool: Creating...
+google_container_node_pool.meltano-pool: Still creating... [10s elapsed]
+google_container_node_pool.meltano-pool: Still creating... [20s elapsed]
+google_container_node_pool.meltano-pool: Still creating... [30s elapsed]
+google_container_node_pool.meltano-pool: Still creating... [40s elapsed]
+google_container_node_pool.meltano-pool: Still creating... [50s elapsed]
+google_container_node_pool.meltano-pool: Still creating... [1m0s elapsed]
+google_container_node_pool.meltano-pool: Creation complete after 1m7s [id=projects/gitlab-analysis/locations/us-west1-a/clusters/data-ops-meltano-staging/nodePools/meltano-pool-staging]
+```
+Then in the cluster page we can see the cluster created with name `data-ops-meltano` for meltano production and for staging `data-ops-meltano-staging`.
+The node pool is also suffixed with -staging for staging environment.
+
+As this point onward we don't do anything in staging environment although we can very well but it will required creation of separate airfow database postgres in cloud sql for airfow running in meltano.
+
+
+Now the cluster is ready all we need to do is applying the configuration on the cluster.
 
 We run Meltano in its own Kubernetes cluster with in the `meltano` namespace.
 
