@@ -15,7 +15,7 @@ canonical_path: "/company/team/structure/working-groups/fedramp-execution/"
 
 | Property        | Value             |
 |-----------------|-------------------|
-| Date Created    | November 25, 2020 |
+| Date Created    | November 25, 2021 |
 | End Date        | TBD               |
 | Slack           | [#wg_fedramp](https://gitlab.slack.com/archives/C0110E0NMT9) (only accessible from within the company) |
 | Google Doc      | Search "FedRAMP Working Group Agenda" in Google Drive (only accessible from within the company) |
@@ -36,3 +36,5 @@ This working group will organize all the domain experts needed, surface critical
 | Executive Stakeholder          | Eric Johnson    | Chief Technology Officer                   |
 | Member                         | Jim Riley       | Federal ASM, Public Sector Sales           |
 | Member                         | Chris Maurer    | Public Sector Manager, Customer Success    |
+| Member                         | Vincy Wilson    | Quality Engineering Manager, Fulfillment, Growth, Sec, Enablement |
+| Member                         | Joanna Shih     | Quality Engineering Manager, Ops           |
