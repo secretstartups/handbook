@@ -264,7 +264,7 @@ Required of/by Team Members Prior to Traveling:
 
 *All team members must be fully vaccinated against COVID-19 (two weeks past your final vaccination date)
 
-Travel requests should be made for any mode of travel where team members will be meeting customers and/or partners in person. To request travel, please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  
+Travel requests should be made for any mode of travel where team members will be meeting customers and/or partners in person. By making a request to travel, you are confirming that you are authorized to travel based on your vaccination status.  We are currently not requiring vaccination verification at this time.  To request travel, please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  
 
 General recommendations/precautions:
 
