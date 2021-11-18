@@ -330,6 +330,35 @@ Our development organization uses GitLab.com to manage the DevOps lifecycle of G
 We also capture other content and processes in Git repos and manage them with GitLab.
 1.  When something breaks, doesn't work well, or needs improvement, we are more likely to notice it internally and address it before it impacts our larger community.
 
+##### Customer results
+{:.no_toc}
+Our focus is to improve the results that customers achieve, which requires being aware of [the Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12).
+
+[Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/), a Princeton Professor, described his frustration with Blackboard in a viral Tweet: 
+
+>It has every feature ever dreamed up. But like anything designed by a committee, the interface is incoherent and any task requires at least fifteen clicks (and that's if you even remember the correct sequence the first time).
+>
+>Software companies can be breathtakingly clueless when there's a layer of indirection between them and their users. Everyone who's suffered through Blackboard will have the same reaction to this: try having less functionality! 
+
+[Ryan Falor](https://twitter.com/ryanfalor) followed up on Narayanan's tweet with his definition of the Concur Effect:
+
+>1. decision makers are not direct users
+>1. features are overwhelming and disjointed
+>1. user experience gets worse over time
+
+See [the Hacker News discussion](https://news.ycombinator.com/item?id=21224209) for a specific UX example. 
+
+At GitLab, we want to drive customer results through focusing on platform enhancements that drive the most value for direct users.
+
+**Customer results are more important** than:
+
+1. **What we plan to make**. If we focus only on our own plans, we would have only GitLab.com and no self-hosted delivery of GitLab.
+1. **Large customers**. This leads to the [innovator's dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma), so we should also focus on small customers and future customers (users).
+1. **What customers ask for**. This means we don't use the phrase "customer focus", because it tempts us to prioritize what the customer _says_ they want over what we discover they actually need through our product development process. Often, it’s easier for a customer to think in terms of a specific solution than to think about the core problem that needs to be solved. But a solution that works well for one customer isn’t always relevant to other customers, and it may not align with our overall product strategy. When a customer asks for something specific, we should strive to understand why, work to understand the broader impact, and then create a solution that scales.
+1. **Our existing scope**. For example, when customers asked for better integrations and complained about integration costs and effort, we responded by expanding our scope to create a [single application](/handbook/product/single-application/) for the DevOps lifecycle.
+1. **Our assumptions**. Every company works differently, so we can’t assume that what works well for us will support our customers’ needs. When we have an idea, we must directly validate our assumptions with customers to ensure we create scalable, highly relevant solutions.
+1. **What we control**. We should take responsibility for what the **customer experiences**, even when it isn’t entirely in our control. We aim to treat every customer-managed instance downtime as a [$1M a day problem](https://gitlab.com/gitlab-com/www-gitlab-com/commit/8b7857c1f7c59c53e4a9c0d6008830459d817497).
+
 ##### Give agency
 {:.no_toc}
 We give people agency to focus on what they think is most beneficial. If a meeting doesn't seem interesting and someone's active participation is not critical to the outcome of the meeting, they can always opt to not attend, or during a video call they can work on other things if they want. Staying in the call may still make sense even if you are working on other tasks, so other peers can ping you and get fast answers when needed. This is particularly useful in multi-purpose meetings where you may be involved for just a few minutes.
@@ -420,18 +449,6 @@ We should strive to accept that there are things that we don’t know about the 
 {:.no_toc}
 
 We should be diligent to define [Directly Responsible Individuals](/handbook/people-group/directly-responsible-individuals/) (DRI). DRIs are empowered to escalate to unblock. Managers at GitLab seek to increase the output of the work of those on their team, a core concept in [High Output Management](/handbook/leadership/high-output-management/). Early escalation, delivered with context of the challenge, enables managers to function as an unblocker.
-
-##### Customer results
-{:.no_toc}
-Our focus is to improve the results that customers achieve, which requires being aware of [the Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12), see [the Hacker News discussion](https://news.ycombinator.com/item?id=21224209) for a specific UX example.
-**Customer results are more important** than:
-
-1. **What we plan to make**. If we focus only on our own plans, we would have only GitLab.com and no self-hosted delivery of GitLab.
-1. **Large customers**. This leads to the [innovator's dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma), so we should also focus on small customers and future customers (users).
-1. **What customers ask for**. This means we don't use the phrase "customer focus", because it tempts us to prioritize what the customer _says_ they want over what we discover they actually need through our product development process. Often, it’s easier for a customer to think in terms of a specific solution than to think about the core problem that needs to be solved. But a solution that works well for one customer isn’t always relevant to other customers, and it may not align with our overall product strategy. When a customer asks for something specific, we should strive to understand why, work to understand the broader impact, and then create a solution that scales.
-1. **Our existing scope**. For example, when customers asked for better integrations and complained about integration costs and effort, we responded by expanding our scope to create a [single application](/handbook/product/single-application/) for the DevOps lifecycle.
-1. **Our assumptions**. Every company works differently, so we can’t assume that what works well for us will support our customers’ needs. When we have an idea, we must directly validate our assumptions with customers to ensure we create scalable, highly relevant solutions.
-1. **What we control**. We should take responsibility for what the **customer experiences**, even when it isn’t entirely in our control. We aim to treat every customer-managed instance downtime as a [$1M a day problem](https://gitlab.com/gitlab-com/www-gitlab-com/commit/8b7857c1f7c59c53e4a9c0d6008830459d817497).
 
 ##### Results Competency
 {:#results-competency .no_toc}
