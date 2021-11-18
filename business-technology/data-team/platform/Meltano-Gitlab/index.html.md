@@ -22,7 +22,70 @@ title: "Meltano At Gitlab"
 
 ### Kubernetes cluster Setup with terraform explained for Meltano.
 
-We host Meltano in kubernetes cluster of one node pool named `meltano-pool` with one active node. The node pool is not scalable at the moment.
+We host Meltano in Kubernetes cluster of one node pool named `meltano-pool` with one active node. The node pool is not scalable. 
+The main definition of terraform is present in the file `meltano_infra/meltnao_gcp_gke.tf` in the [gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/tree/main). In the repo we have 2 other tfvar file
+
+- meltano_infra/meltano_gke_production.tfvars   -- For production cluster creation 
+- meltano_infra/meltano_gke_staging.tfvars -- For staging environment cluster creation
+
+In order to do the deployment of terraform script you need to be owner at the moment.In this terraform script we are storing the state of the terraform into remote location in GCS in bucket `gitlab-analysis-data-terraform-state/meltano-production/state`. This gives added advantage that any team member with proper permission will be able to update,delete and create the cluster from last time it has been created.
+
+Below is the step which we need to create the kubernetes cluster  and what thing we need to keep in mind when working on staging cluster and production. So that we don't corrupt the remote state. 
+
+Step 1: Run the initialize command `terraform init` in your local from folder `meltano_infra`.  
+Step 2: Select the proper workspace to do the update, destroy or create the cluster.
+To see all the workspace list run the command.     
+`terraform workspace list`
+```
+╰─$ terraform workspace list
+* default
+  production
+  staging
+```
+It might show that the current workspace is pointed to default. We don't use default workspace. We have 2 types of workspace 
+1) production 
+2) staging
+
+To which  ever environment you want to change use command `terraform workspace select <workspace name>` to select that environment. For production run `terraform workspace select production`.
+Ensure before running next command that you are in correct workspace i.e. to environment you want to do the update. To do that you can do below
+```
+╰─$ terraform workspace list
+  default
+* production
+  staging
+```
+`*` indicate current workspace.
+  
+**All about workspace in terraform**
+
+This happens for the first time , it will be required only when you  want to setup a complete new bucket.Not required otherwise.
+As soon you initialise the  terraform using `terraform init` in the directory it will create the `default.tfstate` in the GCS bucket in path `gitlab-analysis-data-terraform-state/meltano-production/state`.
+Then create the workspace using `terraform workspace new staging ` for different environment.
+For meltano we have 2 workspace one staging and other is production. We don't run any thing on staging , it is required only to test the cluster creation.
+
+```terraform
+╭─vedprakash@veds-MacBook-Pro ~/repos/gitlab-data-meltano/meltano_infra ‹Terraform-script-meltano*›
+╰─$ terraform workspace new staging                                                                                                                                                                                          1 ↵
+Created and switched to workspace "staging"!
+
+You're now on a new, empty workspace. Workspaces isolate their state,
+so if you run "terraform plan" Terraform will not see any existing state
+for this configuration.
+╭─vedprakash@veds-MacBook-Pro ~/repos/gitlab-data-meltano/meltano_infra ‹Terraform-script-meltano*›
+╰─$ terraform workspace new production
+Created and switched to workspace "production"!
+
+You're now on a new, empty workspace. Workspaces isolate their state,
+so if you run "terraform plan" Terraform will not see any existing state
+for this configuration.
+╭─vedprakash@veds-MacBook-Pro ~/repos/gitlab-data-meltano/meltano_infra ‹Terraform-script-meltano*›
+╰─$
+```
+
+Once above is done it will create 2 state file in GCS bucket named `production.tfstate` and `staging.tfstate`. This is required because we don't want to mix with production cluster while trying to change staging cluster and vice versa.
+
+To select production use command `terraform workspace select production ` or for staging use command `terraform workspace select  staging`.
+When you switch between workspace you will the statement `Switched to workspace "staging".` or name of any workspace we want to switch.
 
 
 We run Meltano in its own Kubernetes cluster with in the `meltano` namespace.
