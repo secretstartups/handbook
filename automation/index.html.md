@@ -16,6 +16,10 @@ Automations for the `gitlab-org` group and projects under it can be split into t
 
 These guidelines ensure consistency for Engineering automation using approved secure patterns aligned with [least privileged access principle](/handbook/engineering/security/access-management-policy.html#least-privilege-reviews-for-access-requests).
 
+### Merge request automation guidelines
+
+Automation that opens a merge request in projects under `gitlab-org` shall apply the `~"automation:bot"` label for filtering from metrics. 
+
 ## Access token best practices
 
 ### Don't reuse an existing token
