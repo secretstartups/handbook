@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Customer Use Cases"
+title: "DevOps Solutions"
 ---
 
 ## On this page
@@ -9,9 +9,9 @@ title: "Customer Use Cases"
 - TOC
 {:toc}
 
-## Customer Use Case Definition
+## DevOps Solution Definition
 
-A customer use case is:
+A DevOps solution is:
 * A customer problem or initiative that needs a solution and attracts budget
 * Defined In customer terms
 * Often aligned to industry analyst market coverage (i.e. Gartner, Forrester, etc. write reports on the topic)
@@ -19,9 +19,9 @@ A customer use case is:
 * These are discrete problems that we believe GitLab solves and are reasons customers choose GitLab (hence which we should seek out in prospects)
 
 
-## Specific Use Cases
+## Specific DevOps Solutions go-to-market motions
 
-#### [1. Version Control and Collaboration (VC&C)](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration)
+#### [1. Version Control and Collaboration (VC&C, aka Source Code Management)](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration)
 **Create, manage and protect my intellectual property (i.e. source code, design, images, etc)** - in simple terms [Version Control](https://about.gitlab.com/solutions/version-control/) and Collaboration (VC&C), but more inclusively, *product configuration management* or *product asset management*.
 I need a better way to manage changes to documents, software, images, large websites, and other collections of code, configuration, and metadata among disparate teams. (Examples in GitLab include Git, branches, merge requests, code review, InnerSourcing, WebIDE, and files.)  
 
@@ -98,18 +98,22 @@ I want to manage my entire DevOps lifecycle more efficiently with better outcome
    1. *Deliver Better Products Faster:* More collaboration, working in parallel
    1. *Reduce Security and Compliance Risk:* Testing early, and enforcing common controls like single sign on, and shared view for collaboration, reporting and visibility.
 
-#### 8. Cloud Native
+#### 8. Cloud Native 
 **Want to use more modern, cloud-native approaches to application development** (**cloud native**)
 I want to use things like containers, K8s, and/or serverless for new development or containerize legacy applications. Help me lift and shift to cloud. Minimize my learning curve to set up, maintain and use clusters.
 
-   **Analyst Coverage**: TBD
+   **Analyst Coverage**: TBD (this should be IT Solution since no analyst market segment alignment)
 
    **Value Drivers:**
    1. *Increase Operational Efficiencies:* consistent dev experience, streamline cloud native deployment, simplified tool chain
    1. *Deliver Better Products Faster:* developer self-service, application scalability, resiliency
    1. *Reduce Security and Compliance Risk:* Reduce technical and operational risk of migrating to the cloud. Enforce common controls.
 
-## Other Use cases to consider
+## Other solutions to consider in the future
+
+#### Digital Transformation (IT Solution)
+
+#### Application Modernization (IT Solution)
 
 #### Data Science
 I want to collaborate both inside and outside my team and/or organization. I need to plan and manage projects and sprints, with tools flexible enough to support scrum, kanban, and more. I want to be able to version control everything (e.g. manage and track different versions of files, models, test cases, data sets) and automate key workflow steps to improve efficiencies and mitigate manual errors. Speed is key, so I also want to streamline testing and validation of work. In addition to all of the above, I'd like to simplify infrastructure management (often across multiple cloud providers).
@@ -130,7 +134,7 @@ I need a platform that consumes alerts from my monitoring stack and provides me 
 I need a centralized location to seamlessly manage, store, and distribute my packages and container images. I also want to package up my applications, along with their dependencies, in a secure way.
 
 
-## Non-Use Cases
+## Use Cases (not solutions)
 
 #### Integration - Planning
 Integrations with Project Planning tools like: VersionOne, Rally, Jira, Trello, Monday, Workfront, and Basecamp.  Or integrations with Portfolio Planning tools like Clarity, MicroFocus PPM, or others.
