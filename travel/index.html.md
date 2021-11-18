@@ -249,9 +249,12 @@ If you have a question or feedback related to the working group, please post in 
 ### Policy and Guidelines
 Guidelines on who can travel, to which locations, and for what purpose is necessary to avoid non-business critical travel during this time and to help keep GitLab Team Members safe.
 
-Purposes of travel: Business critical events and/or customer-focused meetings or sessions to sell, support, or provide focused care for a current or potential customer account with GitLab. Customer/Partner representatives must be present at the meeting or in-person session.  
+Purposes of travel: 
+-Customer or Field Marketing Focused Travel:  Business critical events and/or customer-focused meetings or sessions to sell, support, or provide focused care for a current or potential customer account with GitLab. Customer/Partner representatives must be present at the meeting or in-person session.  Must receive approval from your direct manager to travel. 
 
-Who can travel: GitLab Team Members responsible for business critical events or those responsible for selling, supporting or caring for customer accounts and whose presence will increase the effectiveness and outcomes of the meeting/session. This is voluntary only - no team member is required to travel.
+Internal Team Travel: Any travel required to meet with co-workers in person will require eGroup approval per the normal budget process.  
+
+
 
 Where Can GitLab Team Members Travel: While some areas of the world have decreased cases of Covid-19, some are increasing.  Team Members must refer to the [CDC website](https://covid.cdc.gov/covid-data-tracker/#global-counts-rates) to ensure that both locations (traveling from and to) are safe locations in which to travel. 
 
@@ -264,7 +267,7 @@ Required of/by Team Members Prior to Traveling:
 
 *All team members must be fully vaccinated against COVID-19 (two weeks past your final vaccination date)
 
-Travel requests should be made for any mode of travel where team members will be meeting customers and/or partners in person. By making a request to travel, you are confirming that you are authorized to travel based on your vaccination status.  We are currently not requiring vaccination verification at this time.  To request travel, please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  
+Travel requests should be made for any mode of travel where team members will be meeting customers and/or partners in person. By making a request to travel, you are confirming that you are authorized to travel based on your vaccination status.  We are currently not requiring vaccination verification at this time.  To request travel, please discuss your travel plans with your direct manager to determine whether travel is necessary.  
 
 General recommendations/precautions:
 
