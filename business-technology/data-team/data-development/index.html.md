@@ -13,25 +13,31 @@ description: "This page defines the Data Development lifecycle"
 
 ## Data Development at GitLab
 
-GitLab deploys three distinct but interrelated approaches to build data solutions that help drive insights and business decisions. These approaches are complementary to one another and are focused on delivering results at a level of speed, quality, and reliability required by the business, problem being solved, and question being asked. The approaches are complementary and evolutionary in nature, enabling development in an earlier stage to be leveraged in a later stage if required. Data solutions developed at an early stage can be improved and enhanced to a later stage if there is sufficient business need to do so. All analysis follows the well-established [Data Analysis Process](/handbook/business-technology/data-team/organization/analytics/#data-analysis-process).
+GitLab deploys four distinct but interrelated approaches to build data solutions that help drive insights and business decisions. These approaches are complementary to one another and are focused on delivering results at a level of speed, quality, and reliability required by the business, problem being solved, and question being asked. The approaches are complementary and evolutionary in nature, enabling development in an earlier stage to be leveraged in a later stage if required. Data solutions developed at an early stage can be improved and enhanced to a later stage if there is sufficient business need to do so. All analysis follows the well-established [Data Analysis Process](/handbook/business-technology/data-team/organization/analytics/#data-analysis-process).
 
-These three approachs "Ad-Hoc","Business Insights", and "Trusted Data". 
+These four approachs "Explorational', "Ad-Hoc","Business Insights", and "Trusted Data". 
 
-|  | Ad-hoc | Business Insights | Trusted Data |
-| :-- | :-: | :-: | :-: |
-| When To Use | **Directional / Urgent Analysis** | **Routine / Operational Analysis** | **Mission Critical Analysis** | 
-| Visualization using [SiSense](/handbook/business-technology/data-team/platform/periscope) | optional | **required** | **required** |
-| Built Using the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw) | optional | optional | **required** |
-| Registered in the [Data Catalog](/handbook/business-technology/data-team/data-catalog/) | optional | **required** | **required** |
-| Follows [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development) process | optional | optional | **required** |
-| Tested using the [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) | optional | optional | **required** |
-| Auditable w/linkage to source systems |  optional | optional | **required** |
-| 'Trusted Data' Branded |  N/A |  N/A | **required** |
-| 'Business Insights' Branded |  N/A | required | N/A |
+|  | Explorational | Ad-hoc | Business Insights | Trusted Data |
+| :-- | :-: | :-: | :-: | :-: |
+| When To Use | **Prototyping / flexibel Analysis** |  **Directional / Urgent Analysis** | **Routine / Operational Analysis** | **Mission Critical Analysis** | 
+| Manual adding data | optional | N/A| N/A | N/A |
+| Creating own data structures | optional | N/A | N/A | N/A | 
+| Visualization using [SiSense](/handbook/business-technology/data-team/platform/periscope) | optional | optional | **required** | **required** |
+| Built Using the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw) | optional | optional | optional | **required** |
+| Registered in the [Data Catalog](/handbook/business-technology/data-team/data-catalog/) | N/A | optional | **required** | **required** |
+| Follows [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development) process | N/A | optional | optional | **required** |
+| Tested using the [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) | N/A | optional | optional | **required** |
+| Auditable w/linkage to source systems | N/A | optional | optional | **required** |
+| 'Trusted Data' Branded |  N/A | N/A |  N/A | **required** |
+| 'Business Insights' Branded |  N/A | N/A | required | N/A |
+
+### Explorational Data Development
+
+**Explorational** gives ultimate flexibility to prototype on data solutions. If a new data set needs to be explored and new transformations need to be built in a fast-paced iterative way, the Explorational Data Development can be used. Because of its nature of flexibility, it is not suitable to make mission critical decisions. It's a first step for maturing the data solution.
 
 ### Ad-hoc Data Development
 
-**Ad-hoc** is the typical first step of any analysis effort and results in the delivery of a report or dashboard for one-time or limited use. Ad-hoc development is performed when no existing data solution answers the questions being asked. Code developed for ad-hoc analysis is not written to be leveraged in a long-term solution, rather it is mean to deliver results quickly. To complete ad-hoc analysis, Analysts typically write and run SQL queries versus the Enterprise Data Warehouse, extract data to analyze using tools like Sisense or Python, or perhaps leverage existing dashboards. At times, new data may need to be sourced from text files, spreadsheets, or other data sources. 
+**Ad-hoc** is the typical a step of any analysis effort and results in the delivery of a report or dashboard for one-time or limited use. Ad-hoc development is performed when no existing data solution answers the questions being asked. Code developed for ad-hoc analysis is not written to be leveraged in a long-term solution, rather it is mean to deliver results quickly. To complete ad-hoc analysis, Analysts typically write and run SQL queries versus the Enterprise Data Warehouse, extract data to analyze using tools like Sisense or Python, or perhaps leverage existing dashboards. At times, new data may need to be sourced from text files, spreadsheets, or other data sources. 
 
 Most of the time the ad-hoc report solves for the immediate business need and no further action is required. However, sometimes the results of ad-hoc analysis yield results that require additional analysis. And at times, the results of ad-hoc analysis are important enough to warrant developing into a more reliable solution at which point a decision is made to create a Business Insights solution or Trusted Data solution.
 
@@ -64,12 +70,23 @@ All Trusted Data solutions must meet the following criteria:
 
 ## Database Implementation 
 
+In any case, data is made available in the `PROD` database, throughout multiple schemas. Data can be read out of multiple schemas in Snowflake and Sisense. 
+
+### Explorational Database Implementation
+
+**Explorational Data Development** takes place in Snowflake in the `PROD` database. Dedicated schemas are made available per department. In the schemas users have read and write permissions in order to create tables, add columns and prototype data solutions. The schemas are prefixed with `EXPLORATIONAL_`.
+ 
+Functional ownership of the schemas resides with the departmental VP (or equivalent). This means that VP needs to provide approval in case of an _Access Request_ and carries the responsibility of proper usage of the data in the schema (i.e. in case of MNPI, PII and sensitive data).
+
+### Ad-Hoc Database Implementation
+
 To make data available for **Ad-Hoc Data Development**, data is untransformed and made available in the Snowflake `PROD` database. The data is made available as an _1 on 1 copy_ from the source. Sometimes, depending on the source and extraction, data is deduplicated.
  
 There are dedicated schemas available in the `PROD` database. The schemas for **Ad-Hoc Data Development** are prefixed with `WORKSPACE_` or `RESTRICTED_SAFE_WORKSPACE_` if it contains MNPI data. In order to make data available in the `PROD` database schemas, `dbt` models are created. 
- 
-**Trusted data** is only available on the `PROD` database. It follows the EDM methodology. There are dedicated schemas available in the `PROD` database for **Trusted data**. The schemas for **Trusted Data Development** are prefixed with `COMMON_` or `RESTRICTED_SAFE_COMMON_` if it contains MNPI data. In order to make data available in the `PROD` database schemas, `dbt` models are created for transforming the data towards an Enterprise Data Model (fact and dimension tables).
- 
+
+### Business Insights Database Implementation 
 Because **Business Insights Data Development** is a combination of **Ad-Hoc Data Development** and **Trusted Data Development** it will leverage both the schemas mentioned for their particular development methodology.
- 
-In any case, data is made available in the `PROD` database, throughout multiple schemas. Data can be read out of multiple schemas in Snowflake and Sisense. 
+
+### Trusted Data Database Implementation 
+**Trusted data** is only available on the `PROD` database. It follows the EDM methodology. There are dedicated schemas available in the `PROD` database for **Trusted data**. The schemas for **Trusted Data Development** are prefixed with `COMMON_` or `RESTRICTED_SAFE_COMMON_` if it contains MNPI data. In order to make data available in the `PROD` database schemas, `dbt` models are created for transforming the data towards an Enterprise Data Model (fact and dimension tables).
+
