@@ -216,7 +216,7 @@ If you feel that your travel frequency may expose your data please keep in mind 
 - Speaking in crowded places - Ensure that when you are talking about restricted data you are in a secure place and no-one can hear you.
 - 1Password travel mode - If you are approaching travel in a risky country or you have to leave your devices in an insecure place, please use [Travel Mode](https://support.1password.com/travel-mode/) in 1Password to ensure that your vaults will be safe if your device is compromised.
 
-When travelling, there is the possibility that customs, border control, or other law enforcement agents demand that you provide the password to your laptop or mobile device. If this happens to you in regards to a company-owned account or device, GitLab recommends that you comply with any such requests without protesting. If you do end up providing a password to any device or account that has access to GitLab resources (including your personal devices), you should follow [the process to engage Security on-call](https://about.gitlab.com/handbook/engineering/security/#engaging-the-security-on-call) as soon as you can safely do so. Even if you do not provide a password, if any of your devices are permanently seized or even temporarily removed from sight, you should also engage the Security on-call.
+When travelling, there is the possibility that customs, border control, or other law enforcement agents demand that you provide the password to your laptop or mobile device. If this happens to you in regards to a company-owned account or device, GitLab recommends that you comply with any such requests without protesting. If you do end up providing a password to any device or account that has access to GitLab resources (including your personal devices), you should follow [the process to engage Security on-call](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html) as soon as you can safely do so. Even if you do not provide a password, if any of your devices are permanently seized or even temporarily removed from sight, you should also engage the Security on-call.
 
 For additional security specifically when travelling through an airport, the following advice is provided:
 
@@ -276,7 +276,15 @@ General recommendations/precautions:
 - Practice good respiratory hygiene, that is, when coughing and sneezing, cover your mouth and nose with flexed elbow or tissue – discard tissue immediately into a closed bin and clean your hands with alcohol-based hand rub or soap and water
 - Maintain physical distancing, that is, leave at least 2 metres (6 feet) distance between yourself and other people, particularly those who are coughing, sneezing and have a fever
 - Avoid touching your eyes, nose and mouth – if you touch your eyes, nose or mouth with your contaminated hands, you can transfer the virus from the surface to yourself
-- Keep the surfaces around you clean
+- Keep the surfaces around you clean 
+
+### Process for obtaining travel approval in the CRO Organization
+
+1. Review the steps above 
+1. Fill out the Travel Exception Request form (see above)
+1. Via email, forward the completed form to your manager and request their approval 
+1. Your manager should then forward the completed form with their approval and justification for approval (no more than 3 sentences) via email to your functional VP (one of McB's direct reports) i.e. if you're in Enterprise Sales, this form will need to be emailed to Mike Pyle for approval
+1. The functional VP will review and if approved, they should forward the email with their approval to McB and Cheri Holmes for final approval 
 
 ### Personal Travel
 
