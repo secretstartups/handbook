@@ -60,7 +60,7 @@ handbook page.
 Simplified process description:
 
 - Start with [Security - GitLab Trust Center](https://about.gitlab.com/security/).
-- Encourage customers to use and review [Self-service Information Gathering](/handbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html#Self-Service-Customer-Assurance-Documentation).
+- Encourage customers to use and review [Self-service Information Gathering](/handbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html#customer-self-service-information-gathering).
 - SAs are expected to attempt a first-pass for all security questionnaires
     - Do it, it’s fun and educational!
     - Make use of the [GitLab AnswerBase](/handbook/engineering/security/security-assurance/field-security/answerbase.html) (200+ pre-answered questions)
