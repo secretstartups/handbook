@@ -123,7 +123,7 @@ Any team member or contractor found to be in violation of this policy may be sub
 
 ### Consultations
 
-To consult with the Security Team, use the appropriate contact: `security@gitlab.com`, or create an issue in the [Security Compliance tracker](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues).
+To consult with the Security Team create an issue in the [Security Compliance tracker](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues).
 
 ## Exceptions
 
