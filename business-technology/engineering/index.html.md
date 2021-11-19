@@ -39,8 +39,8 @@ The Business Technology Engineering team focuses on three primary competencies:
 |-----------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------|
 | [Bryan Wise](https://about.gitlab.com/company/team/#bryanwise)        | VP, Business Technology                  | VP+ level requests, new programs, infrastructure managed services   |
 | [Christopher Nelson](https://about.gitlab.com/company/team/#ccnelson) | Senior Director, Enterprise Applications | Enterprise Applications and Integrations Engineering                |
-| To Be Hired                                                           | Senior Director, IT Operations           | TBD                                                                 |
-| [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis)        | IT Manager                               | Access Manager, IT Operations                                    |
+| [Rob Rea](https://about.gitlab.com/company/team/#rrea1)]              | Senior Director, IT Operations           | Security, Tech Stack Vendors, Compliance, Helpdesk, etc.                                                                 |
+| [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis)        | Manager, IT Engineering                  | Access Manager, Okta, Google, IT Engineering       |
 
 ## How We Work
 
@@ -67,6 +67,9 @@ If in doubt of how to engage or wish to informally ask, simply send a message to
 * [Access Manager Docs (Preview)](https://docs.access.gitlabenvironment.cloud) (internal)
 * [Access Manager Docs (Code)](https://gitlab.com/gitlab-com/business-technology/engineering/access-manager/gitlab-access-manager-docs) (internal)
 * [Access Manager Application Code](https://gitlab.com/gitlab-com/business-technology/engineering/access-manager/gitlab-access-manager-app) (internal)
+* [YouTube Playlist - Weekly Development Demos](https://www.youtube.com/playlist?list=PL05JrBw4t0KoLbqn20qVAX8f-ZGvbb88V)
+* [Google Drive Folder with Slide Decks](https://drive.google.com/drive/folders/1qY4KCTAM26VEmUPPcKFS8EdK1p3McxU_)
+* [Development Roadmap](https://drive.google.com/drive/folders/1W1861aFWo8XBoBYbI95FbRX6zDS2bsAr)
 
 ### Background Context
 
@@ -149,7 +152,7 @@ We collaborate closely with the [Infrastructure Security ("InfraSec") team](http
 
 We also provide escalation engineering and triage support for the [Security Incident Response Team ("SIRT")](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/) and [Security RED Team](https://about.gitlab.com/handbook/engineering/security/security-operations/red-team/) when security anomalies, events, or incidents require AWS/GCP subject matter expertise.
 
-In FY20-Q4, we launched the [Demo Systems]() for the Customer Success department to have a shared sandbox environment for demonstration and training class purposes. You can learn more on the [demo systems handbook page](https://about.gitlab.com/handbook/customer-success/demo-systems/).
+In FY20-Q4, we launched the Demo Systems for the Customer Success department to have a shared sandbox environment for demonstration and training class purposes. You can learn more on the [demo systems handbook page](https://about.gitlab.com/handbook/customer-success/demo-systems/).
 
 In FY21-Q4, we launched the [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/), a deployment of our open source [HackyStack](https://gitlab.com/hackystack/hackystack-portal) project (powered by [Laravel](https://laravel.com/docs/8.x)) to automate the provisioning of AWS acccounts, AWS IAM users, GCP projects, and GCP users. This has allowed us to automate a large portion of our AWS and GCP access requests.
 
@@ -162,7 +165,7 @@ For additional guidance or questions, please ask in `#infra-access-requests` or 
 ## Operations Engineering ("IT EngOps")
 
 * **DRI:** [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis)
-* **Team Members:** [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), [Marcus Whitaker](https://about.gitlab.com/company/team/#mwhitaker), [Mohammed Al Kobaisy](https://about.gitlab.com/company/team/#malkobaisy)
+* **Team Members:** [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin), [Marcus Whitaker](https://about.gitlab.com/company/team/#mwhitaker), [Mohammed Al Kobaisy](https://about.gitlab.com/company/team/#malkobaisy)
 * [Handbook Page](/handbook/business-technology/engineering/operations)
 * [Issue Tracker](https://gitlab.com/gitlab-com/business-technology/engineering/operations/issue-tracker)
 * [Project Repositories](https://gitlab.com/gitlab-com/business-technology/engineering/operations)
