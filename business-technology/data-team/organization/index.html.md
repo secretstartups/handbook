@@ -78,7 +78,7 @@ Critical to successful Data Fusion Teams are the following elements:
 We encourage our stakeholders to follow along with our issue boards to understand the scope of work:
 
 1. [GTM](https://gitlab.com/gitlab-data/analytics/-/issues?label_name%5B%5D=Team%3A%3AGTM)
-2. [R&D](https://gitlab.com/gitlab-data/analytics/-/issues?label_name%5B%5D=Team%3A%3AR%26D)
+2. [R&D](https://gitlab.com/gitlab-data/analytics/-/boards/3544389?label_name[]=Team%3A%3AR%26D)
 3. G&A: [People](https://gitlab.com/groups/gitlab-data/-/boards/1435002?&label_name[]=People), Engineering Analytics `coming soon`
 4. [Platform](https://gitlab.com/gitlab-data/analytics/-/issues?label_name%5B%5D=Team%3A%3AData+Platform)
 
