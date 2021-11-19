@@ -86,6 +86,7 @@ Due to the limited number of licenses available for Coupa, it is recommended tha
 
 ##### Contract Templates
 
+- [GitLab Vendor Terms and Conditions](https://about.gitlab.com/handbook/finance/procurement/vendor-guidelines/)
 - [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
 - [Data Processing Agreement](https://drive.google.com/file/d/1zR-QYz8Hnk5XR-DaFNlzrEksL0hyFsjT/view?usp=sharing)
 - [US-based Independent Contractor Agreement](https://drive.google.com/file/d/1NIon0c92ej2CRABQsdzWbpdM-3cJy0Se/view?usp=sharing) Master agreement for a subcontractor performing internal services directly to GitLab.
