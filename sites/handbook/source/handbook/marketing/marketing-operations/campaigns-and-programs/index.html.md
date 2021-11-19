@@ -484,14 +484,19 @@ The campaign meta data is a one time synch, where as the `Actual Cost in Campaig
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 
-#### Steps to Setup SimplyDirect Surveys in Marketo and SFDC
+#### Steps to Setup Surveys in Marketo and SFDC
+There are two templates to consider when setting up surveys in Marketo, one being specific to Simply Direct and the other a more general survey template. For this section and where instructions diverge, Simply Direct instructions will be labeled with `a` and the more general set up with `b`. 
+
 Simply Direct will provide you with an unique `Survey Name` that they will pass over into Marketo via the API populating the `Person Source` and the `SurveyName` fields. This name is unique to each survey that is ran. `Person Source` will not update if the lead already exists in Marketo.
 
 SimplyDirect is also passing over the survey Q&A through the `Comment Capture` field. This will populate via a URL on the Interesting Moment and the `Web Form` field, so that the SDR following up will have full access to all of the survey questions and answers.
 
 
-##### Step 1: [Clone this program](https://app-ab13.marketo.com/#PG6164A1)
+##### Step 1: Clone program template
+- a. [Simply Direct template](https://app-ab13.marketo.com/#PG6164A1)
+- b. [General survey template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6402A1)
 - Use format `YYYY_MM_SurveyName`
+- 
 
 ##### Step 2: Sync to Salesforce
 
@@ -499,14 +504,21 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
     - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
     - Click "Save"
 
-##### Step 3: Update SurveyName across Smart Lists and Flows
+##### Step 3a: Update SurveyName across Smart Lists, Flows and Tokens
 - Contact SimplyDirect and ask for the SurveyName they will pass to Marketo
 - Click into `01 Processing`
      - In Smart List, change every `SurveyName` to the name you were given. There are 3 fields on the smartlist you must change. Tokens will not work, you must update in the smart list. Do not include any extra spaces!
      - In the Flow, on step 1 `Change Data Value` update `SurveyName` to the name you were given.
      - Click to the "Schedule" tab and click `Activate`. It should be set that a person can only run through the flow once.
 - BEFORE launch of the survey, have SimplyDirect send an existing lead, and a new lead through to make sure both are being captured.
+- Fill in necessary program tokens.
 
+##### Step 3b: Update Smart Lists, Flows and Tokens
+- If the survey is automated via a trigger to add leads into the Marketo program via a form fill or other means, click into `01a Registration Flow` to make the upcoming changes. If the survey requires a manual upload via a list upload, focus attention on updating the `01 Processing` batch smart campaign. For manual list uploads, the batch will be activated during the upload process. 
+     - In the `01a Registration Flow` smart list, change the `form name` and or `web page` to the correct form and page being used. If a different trigger method is needed, e.g. `added to list` via a Zapier automation, consult MktgOps [via issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/zapier_connection_request.md) on building out the automation.
+     - In the Flow, on step 2, double check the `send email` flow has been correctly set up.
+     - For the `01a Registration Flow` trigger smart campaign, select "Schedule" tab and click `Activate`. It should be set that a person can only run through the flow once.
+- Fill in necessary program tokens.
 
 ##### Step 4: Update the Salesforce campaign
 
