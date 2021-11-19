@@ -16,6 +16,10 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q4-FY22
 
+### 2021-12-06 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/76))
+
+
+
 ### 2021-11-15 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/72))
 
 **Deal Desk: [6 new Annual True-Up SKUs](/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-annual-true-ups)**
