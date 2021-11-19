@@ -1478,7 +1478,7 @@ Sales-support does not have the ability to:
 
 #### When to contact Customer Support:
 
-The customer support team is here to resolve technical errors related to the customers subscription. [**DO NOT GO TO CUSTOMER SUPPORT** for License issues until you have read this page](/handbook/business-ops/business_systems/portal/troubleshooting)
+The customer support team is here to resolve technical errors related to the customers subscription. [**DO NOT GO TO CUSTOMER SUPPORT** for License issues until you have read this page](https://about.gitlab.com/handbook/support/internal-support/#should-i-contact-gitlab-support)
 
 Please check out the support page[/handbook/support/#gitlab-support-service-levels] for indepth information on how to contact the team. Spoiler alert, you will need to open an issue or the customer needs to open a Support ticket.
 
