@@ -1175,14 +1175,14 @@ This policy dictates the timing of opportunity closure for all sales-assisted de
   - The transaction should be recorded as a New Business opportunity, using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). The original Closed Lost opportunity will not be reversed.
 
 **Exceptions:**
-- Any exceptions to the Late Renewal Policy must be documented in SFDC Chatter and include the following details:
-  - Relevant details about the account/opp seeking a late renewal extension
+- Any exceptions to the Late Renewal Policy or to the 15-day booking policy must be documented in SFDC Chatter and include the following details:
+  - Relevant details about the account/opp seeking a late renewal extension / early booking
   - Why an exception is needed (justification)
   - Impact to the business (Net ARR or Renewal ARR loss)
   - **Approval from both** GitLab CRO and CFO (or Principal Accounting Officer)
   - Anticipated (revised) Renewal Close Date
   
-- Once all of the above have been documented in Chatter, please tag @sales-support on the associated opportunity so that Sales Operations can take the appropriate actions to exclude the opportunity from auto closure
+- Once all of the above have been documented in Chatter, please tag @sales-support on the associated opportunity so that Sales Operations can take the appropriate actions to exclude the opportunity from auto closure / forward the opportunity to Billing Ops for early booking.
 
 
 **Do I have to wait to submit my opportunity for approval?**
