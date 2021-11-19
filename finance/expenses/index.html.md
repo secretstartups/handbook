@@ -118,7 +118,7 @@ The company will reimburse for the following expenses if you need it for work or
     1. The [IT Ops](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) page outlines laptop purchasing for new hires and for repairs and EOL for existing employees.
     1. Laptops paid for by the company are property of GitLab and need to be reported with serial numbers, make, model, screen size and processor to IT Ops by adding it to this form: [GitLab laptop information](https://docs.google.com/forms/d/e/1FAIpQLSeUOlP11qeLdLZHTI62CFr7MSHAoI_1M6CRpnUA6fegkEKCOQ/viewform) for proper [asset tracking](/handbook/finance/accounting/#fixed-asset-register-and-asset-tracking). Since these items are company property, you do not need to buy insurance or an extended warranty for them unless it is company policy to do so (for example, at the moment we do not purchase Apple Care or extended warranties). You do need to report any loss following [Lost or Stolen Procedures](/handbook/people-group/acceptable-use-policy/#lost-or-stolen-procedures) or damage to IT Ops as soon as it occurs.
     1.  **Repairs to company issued equipment.**
-        * If you need to replace a battery or something small that does not affect the productivity or speed of the device, please go ahead and get that small item replaced and expensed.
+        * If you need to replace a battery or something small that does not affect the productivity or speed of the device, please go ahead and get that small item replaced and submit for reimbursement in Expensify.
         * Please get approval from your Manager if your equipment appears to be damaged, defective, or in need of repair. Business Operations can advise on next steps to ensure you have the proper equipment to work.
         * For loaner laptops: Do not hesitate when expensing a loaner laptop while your primary laptop is being repaired. Use your best judgment identifying a local vendor. Please check out our [laptop repair](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptop-repair) page for more info.
 1. English lessons. At GitLab the lingua franca is [US English](/handbook/communication/#american-english), when English is not your native language it can limit you in expressing yourself.
@@ -225,9 +225,9 @@ No problem, and consider adding it to this list if others can benefit as well.
 	* If you are new to Expensify and would like a brief review, please see [Getting Started](https://community.expensify.com/discussion/7703/getting-started-video)
 	* For step by step instructions on creating, submitting, and closing a report please see [Create, Submit, Close](https://docs.expensify.com/en/articles/2921-report-actions-create-submit-and-close)
 	* For US team members, the approved expense amount will be deposited into your account a few days after the report has been approved by Accounts Payable.
-	* For Australia, New Zealand, Belgium, Germany, Netherlands, Ireland, and Japan AP will process the approved report on Friday.  The payment will be deposited into your account no later than three business days the following week. 
+	* For Australia, New Zealand, Belgium, Germany, Netherlands, Ireland, and Japan entity members - AP will process the approved payment amount via Tipalti each week.  The payment will be deposited into your account no later than three business days the following week. 
     Accounts payable uses Tipalti to drive payment to the above policies. As part of onboarding, an invitation to the Tipalti portal will be sent. Please sign up and onboard only banking information, no tax information is needed. If set up of the personal Tipalti account is not completed in a timely manner, this may result in a delay of expense payment.
-
+    * For Canadian team members, expense reports are paid with your bi-weekly payroll deposits via CloudPay. Reports must be approved by the first day of each pay cycle to be included in the following week's payment.
 	* For all team members being paid by Safeguard, Remote, Global Upside, CXC, iiPay, or Vistra, the approved expense amount will be deposited in your account with your monthly salary.
 
 1. If you are a team member with a company credit card, your company credit card charges will automatically be fed to a new Expensify report each month. Please attach receipts for all expenses (per the Expense Policy, see below) within 1 business days after the end of the month. These amounts will not be reimbursed to you but Expensify provides a platform for documenting your charges correctly.
@@ -321,9 +321,9 @@ These instructions apply if a team member is unable to purchase required items, 
     * All expense question(s) can be addressed via expenses@gitlab.com or in the #Finance and #expense-reporting-inquires
 Slack channel
 
-1. <i class="fas fa-bullseye" id="biz-tech-icons"></i>  **Expenses Reports approval deadline**
+1. <i class="fas fa-bullseye" id="biz-tech-icons"></i>  **Expenses Reports approval timeline**
     * Australia, Germany, New Zealand, Netherlands, United States, New Zealand, Ireland, Japan - After approval completion by manager and Accounts Payable.
-    * United Kingdom - All expense reports must be approved by the manager and Accounts Payable no later than the 14th of each month.  Team members - please be sure to submit your report(s) a couple days before the due date so your manager and Accounts Payable have enough time for approval.
+    * United Kingdom - All expense reports must be approved by the manager **and** Accounts Payable no later than the 14th of each month.  Team members - please be sure to submit your report(s) a couple days before the due date so your manager and Accounts Payable have enough time for approval.
     * Canada - All expense reports must be approved by manager and Accounts Payable before 1st day of each payroll period.
     * All non-US contractors - All expense reports must be approved by manager and Accounts Payable no later than the 8th of each month. Team members - please be sure to submit your report(s) a couple days before the due date.
 
