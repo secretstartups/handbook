@@ -240,6 +240,10 @@ There are several jobs that only appear when `.py` files have changed. All of th
 
 Manual job to do a dry run of [Permifrost](https://gitlab.com/gitlab-data/permifrost/).
 
+#### permifrost_automatic
+
+Triggered when there is a change to `permissions/snowflake/roles.yml`. Runs the `spec-test` cli of [Permifrost](https://gitlab.com/gitlab-data/permifrost/) to verify changes have been correctly configured in the database. 
+
 #### yaml_validation
 
 Triggered when there is a change to `permissions/snowflake/roles.yml`. Validates that the YAML is correctly formatted.
