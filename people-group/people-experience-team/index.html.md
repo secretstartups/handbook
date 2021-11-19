@@ -16,7 +16,7 @@ This page lists all the processes and agreements for the People Experience team.
 
 If you need our attention, please feel free to ping us on issues using `@gl-people-exp`.
 
-## People Experience Team Availability
+# People Experience Team Availability
 
 Holidays with no availability for onboarding/offboarding/career mobility issues:
 
@@ -29,34 +29,32 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 ### OOO Handover Process for People Experience Team
 
-1. The People Experience Associate will open a PEA Handover OOO [issue](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/issue_templates/PEA_OOO_Handover_Issue.md) and tag all Associates in the issue at least the day before their scheduled OOO. If there are confidential items/tasks that need to be handed over, please create a Google doc, share with the team and link to the issue.
-1. Get assistance from the People Operation Specialist team if additional hands are needed.
+When going out of office, the People Experience Associate will open a PEA Handover OOO [issue](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/issue_templates/PEA_OOO_Handover_Issue.md).
+1. Get assistance from the People Operation Specialist team for extra support.
+1. For confidential items/tasks, please create a Google doc, share with the team, and link to the issue.
 
+# People Experience Team Processes
 
-## People Experience Team Processes
+The People Experience Associate will attempt to solve queries within the specific time zones and relevant SLA's. 
 
-All queries will be attempted to be resolved within the specific time zones and relevant SLA's. If unforeseen circumstances prevents the People Experience Associates from completing a specific/urgent task, a message will be posted in the `#pea-team` Slack channel to handover any important tasks / messages to the next team member available. 
+If the People Experience Associate is unable to complete a specific/urgent task, please post in the `#pea-team` Slack channel. Please handover any important tasks/messages to the next team member available. 
 
 ### Bi-Weekly Rotations 
 
-On a bi-weekly occurence, the People Experience Team will open a [PEA Rotation Issue](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/Weekly-Rotation-PEA.md). This rotation issue reflects what tasks the PEA's are accountable for and to be completed within the 2 weeks which lists how the tasks are shared amongst the team.  
+Bi-Weekly, the People Experience Associate will open a [PEA Rotation Issue](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/Weekly-Rotation-PEA.md).. This rotation issue lists what tasks the PEA will be accountable for, for the next 2 weeks. 
 
-Certain tasks will be allocated based on a ongoing rotation between all People Experience Associates. 
+The following factors are considered when allocating in the issue:
+- Scheduled PTO 
+- The listed Tasks are split  fairly
+- The use of PEA/POps Task Tracker to divide certain tasks
 
-The following factors will also be taken into consideration:
-
-- Scheduled PTO for the team members
-- Ensure that the tasks split evenly and fairly 
-- A tracker will be kept to track the data of how the tasks are split up
-
-**The following tasks will be completed by any available People Experience Associate within the designated SLA:**
-
+**The PEA will complete the below tasks within the designated SLA**
 - Verification Of Employment 
 - Anniversary Queries
+- Other requests that come through the People-Exp email. 
 
 #### Allocations for Onboarding
 
-- We always try and split evenly and fairly.
 - Not time zone specific to ensure that all Associates learn all aspects to different countries during onboarding. 
 
 #### Allocations for Offboarding
