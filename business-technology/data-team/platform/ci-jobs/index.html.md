@@ -236,11 +236,11 @@ These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/anal
 
 There are several jobs that only appear when `.py` files have changed. All of them will run automatically on each new commit where `.py` files are present. Otherwise they are unavailable to run. Other jobs are:
 
-#### permifrost_manual
+#### 🧊⚙permifrost_manual
 
 Manual job to do a dry run of [Permifrost](https://gitlab.com/gitlab-data/permifrost/).
 
-#### permifrost_automatic
+#### 🧊 permifrost_automatic_spec_test
 
 Triggered when there is a change to `permissions/snowflake/roles.yml`. Runs the `spec-test` cli of [Permifrost](https://gitlab.com/gitlab-data/permifrost/) to verify changes have been correctly configured in the database. 
 
