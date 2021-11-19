@@ -100,19 +100,22 @@ Below is a list of the different technical skill sets found on the Sales System 
 1. Approval should be secured in the comments section of the related issue from the Designated Approver outlined below. 
 1. Additionally, if a change is proposed that could materially impact the quoting experience for Sales teams and **is not listed below**, please request review from Sr. Manager, Deal Desk in the comments section of the issue.  
 
-|                                                                Change                                                               |              Designated Appover              |    Back Up Approver    |
-|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|------------------------|
-| Approval Module Updates  (Discounts, Payment Terms, Approval Structure/Hierarchy, Approval Notifications, Override Functions)       | Sr. Manager, Deal Desk                       |   Manager, Deal Desk   |
-| SuperSonics Logic Updates                                                                                                           | Sr. Manager, Deal Desk                       | Manager, Deal Desk     |
-| Smart Templates Gate Logic                                                                                                          | Manager, Deal Desk                           | Sr. Manager, Deal Desk  |
-| Proposed Validation Rules  (Ex. "X" Field is Mandatory on all quote objects, if "X" is blank, user cannot move forward with quote.  | Sr. Manager, Deal Desk &  Manager, Deal Desk | Manager, Deal Desk     |
-| Quote Templates / Docusign Order Forms                                                                                              | Manager, Deal Desk                           | Sr. Manager, Deal Desk |
-| Quoting Workflow Changes  (Ex. Updating Button Behavior (Edit Quote vs Maintain Quote), removing fields or permissions)             | Sr. Manager, Deal Desk                       | Manager, Deal Desk     |
+|                                                                Change                                                               |                Designated Appover               |    Back Up Approver    |
+|:-----------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------:|:----------------------:|
+| Approval Module Updates  (Discounts, Payment Terms, Approval Structure/Hierarchy, Approval Notifications, Override Functions)       |              Sr. Manager, Deal Desk             |   Manager, Deal Desk   |
+| Channel Quote Approval Module Updates (Validation Rule changes, Discount Thresholds, Approval Structure/Hierarchy, Notifications)   | Manager, Channel Operations  Manager, Deal Desk | Sr. Manager, Deal Desk |
+| SuperSonics Logic Updates                                                                                                           | Sr. Manager, Deal Desk                          | Manager, Deal Desk     |
+| Smart Templates Gate Logic                                                                                                          | Manager, Deal Desk                              | Sr. Manger, Deal Desk  |
+| Proposed Validation Rules  (Ex. "X" Field is Mandatory on all quote objects, if "X" is blank, user cannot move forward with quote.  | Sr. Manager, Deal Desk &  Manager, Deal Desk    | Manager, Deal Desk     |
+| Quote Templates / Docusign Order Forms                                                                                              | Manager, Deal Desk                              | Sr. Manager, Deal Desk |
+| Quoting Workflow Changes  (Ex. Updating Button Behavior (Edit Quote vs Maintain Quote), removing fields or permissions)             | Sr. Manager, Deal Desk                          | Manager, Deal Desk     |
 
 1. If approval is pending, `Deal Desk::Pending Approval` Label will be added to the issue by the DRI. 
 1. Once Approval is secured, Deal Desk will add `Deal Desk::Approved` Label to the issue. 
 1. If the proposed change will negatively impact the quoting cycle, Deal Desk will add `Deal Desk::Need More Information` Label to the issue. Deal Desk will partner with Issue DRI to identify alternative solution. 
 1. If the proposed change is not approved, Deal Desk will add `Deal Desk::Rejected` Label to the issue. An alternative solution must be presented. 
+
+Channel Operations and Deal Desk will work closely on all updates related to the quoting process. The purpose is to ensure that a proposed change does not contradict with an existing process that a team member may not be aware of. 
 
 
 **Before beginning work, make sure:**
