@@ -160,12 +160,28 @@ The purpose of the daily standup is to allow team members to have visibility int
 
 While it is encouraged to participate in the full variety of daily questions, it is completely acceptable to skip questions by entering `-`.
 
+The Geekbot asynchronous standup will be reserved for blocking items and merge announcements (merge parrot!). 
+
 #### Async Issue Updates
-The Geekbot asynchronous standup will be reserved for blocking items and merge announcements (merge parrot!). Our normal daily updates on progress and status will be added to the issues as a comment. A daily update may be skipped if there was no progress. It's preferable to update the issue rather than the related merge requests, as those do not provide a view of the overall progress. A weekly async update should be added to epics, providing an overview of the progress across related issues.
 
-The status comment should include what percentage complete the work is, the confidence of the person that the issue will be completed in the milestone, notes on what was done and/or if review has started. It could be good to include whether this is a front end or back end update if there are multiple people working on it. Finally, for each MR associated, please include an entry for each.
+The purpose of daily updates is to inspect progress and adapt upcoming planned work as necessary. In a all-remote culture, we keep the updates asynchronous directly in the issues.
 
-Examples:
+The async daily update communicates the progress and confidence in a comment and the status using the field Healt Status feature. A daily update may be skipped if there was no progress. It's preferable to update the issue rather than the related merge requests, as those do not provide a view of the overall progress. 
+
+A weekly async update should be added to epics, providing an overview of the progress across related issues.
+
+When communication the status health the options are:
+- `on track` - when the issue is progressing as planned 
+- `needs attention` - when the issue requires attention or intervention to keep it on schedule
+- `at risk` - when there is a risk the issue will not be completed according to schedule
+
+The status comment should include:
+- what percentage complete the work is
+- the confidence of the person that their estimate is correct
+- notes on what was done and/or if review has started
+- it could be good to include whether this is a front end or back end update if there are multiple people working on it 
+
+Example:
 ```
 Complete: 80%
 Confidence: 90%
@@ -173,6 +189,9 @@ Notes: expecting to go into review tomorrow
 Concern: ~frontend
 ```
 
+Include one entry for each MR associated
+
+Example:
 ```
 Issue status: 20% complete, 75% confident
 
