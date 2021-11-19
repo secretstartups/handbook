@@ -70,9 +70,6 @@ The request should contain a list of specific GitLab.com resources of interest -
 
 The request should contain a list of specific GitLab.com events of interest. If the list is considered excessive, GitLab will ask for the request to be re-scoped. This is to ensure that the request is handled in a timely and resource-efficient manner.
 
-### What if the request exceeds the 1-month time window or is considered excessive?
-
-If the request exceeds the 1-month time window or is considered excessive, GitLab Support/Account Owner/TAM can utilize the [Service Calculator](https://services-calculator.gitlab.io/) and create a scoping issue with [Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/) to determine the cost and feasibility of such an undertaking, and provide possible options to the requesting customer.
 
 ## Expectations
 
