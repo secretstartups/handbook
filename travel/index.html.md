@@ -1,8 +1,3 @@
----
-layout: handbook-page-toc
-title: "Travel"
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -12,8 +7,8 @@ title: "Travel"
 ## Expenses While Traveling
 
 1. The company will cover all work-related travel expenses. This includes lodging and meals during the part of the trip that is work-related. Depending on the distance of your travel, it can also include one day before and one day after the work related business. For example, if you are attending a 3 day conference in a jetlag-inducing location, the company will cover your lodging and meals those 3 days as well as one day before and one day after.
-1. The company will cover costs related to transiting to and from a destination or airport which is work-related. This includes public transit, ride-sharing services (Lyft, Uber, etc.), or personal vehicle mileage between one's home and airport, bus/rail station, or work-related meeting. 
-   * When [expensing](/handbook/finance/expenses/#travel-and-expense-guidelines) personal vehicle mileage within Expensify, navigate to `New Expense`, `Manually Create`, and select the `Distance` tab for [automatic calculation and map receipt creation](/images/handbook/travel/expensify-personal-vehicle-mileage-reimbursement-distance-tab-example.png). 
+1. The company will cover costs related to transiting to and from a destination or airport which is work-related. This includes public transit, ride-sharing services (Lyft, Uber, etc.), or personal vehicle mileage between one's home and airport, bus/rail station, or work-related meeting.
+    - When [expensing](/handbook/finance/expenses/#travel-and-expense-guidelines) personal vehicle mileage within Expensify, navigate to `New Expense`, `Manually Create`, and select the `Distance` tab for [automatic calculation and map receipt creation](/images/handbook/travel/expensify-personal-vehicle-mileage-reimbursement-distance-tab-example.png).
 1. The company can accommodate custom requests. It is OK to stay longer on your trip. However, the extra days will not be covered by the company.
 1. Understand that the guidelines of [Spending Company Money](/handbook/spending-company-money), especially the part about spending it like it is your own money, still apply for all [expenses](/handbook/finance/expenses/).
 1. Always bring a credit card with you when traveling for company business if you have one.
@@ -24,8 +19,8 @@ title: "Travel"
 ## Self Stay Incentive Policy <a name="self-stay"></a>
 
 If you decide to stay with friends or family instead of a hotel / Airbnb for a business trip, the company will pay you 50% of what would have been
-the cost of a reasonable hotel. A reasonable hotel would be the negotiated hotel rate a conference provides.  This is in keeping with our values of frugality and freedom, and intended to reward you for saving company money on
-accommodation expenses. Contractors should take a screenshot of a hotel search from the same location in TripActions and submit this along with your expense report or invoice.  Employees will be paid through payroll by submitting the screenshot by email to People Operations for processing.
+the cost of a reasonable hotel. A reasonable hotel would be the negotiated hotel rate a conference provides. This is in keeping with our values of frugality and freedom, and intended to reward you for saving company money on
+accommodation expenses. Contractors should take a screenshot of a hotel search from the same location in TripActions and submit this along with your expense report or invoice. Employees will be paid through payroll by submitting the screenshot by email to People Operations for processing.
 
 ## Booking travel and lodging<a name="TripActions"></a>
 
@@ -35,7 +30,7 @@ When your accommodation booking is confirmed, you may want to communicate the da
 
 ### Setting up your TripActions account
 
-Below is some more information to help you get set up with your [TripActions](https://tripactions.com/signup) account.  
+Below is some more information to help you get set up with your [TripActions](https://tripactions.com/signup) account.
 
 1. Follow the link in your onboarding issue to create your TripActions account and set a secure password. (Contact People Ops if you need help finding the link).
 1. Once you are in your dashboard, make sure to set up your info in your profile (see link from drop down menu under your name).
@@ -50,11 +45,11 @@ All flights need to be booked through [TripActions](https://tripactions.com) (Bu
 
 **Hotels and Cars**
 
-If you book Hotels and/or Cars through TripActions, the costs will need to be charged to a personal credit card. For business related bookings, you can submit the costs for reimbursement via our corporate expense reimbursement tool. 
+If you book Hotels and/or Cars through TripActions, the costs will need to be charged to a personal credit card. For business related bookings, you can submit the costs for reimbursement via our corporate expense reimbursement tool.
 
 **Trains**
 
-If you book Trains through TripActions, business related bookings can be added to the GitLab invoice and **no credit card is needed**. 
+If you book Trains through TripActions, business related bookings can be added to the GitLab invoice and **no credit card is needed**.
 
 **Personal Bookings**
 
@@ -81,12 +76,12 @@ to book flights, hotels, trains, or rental cars.
 1. Select "continue to checkout" and fill out the reasons for booking.
 1. Once confirming all details are correct you can select "complete booking".
 1. If your trip is out of policy, you will have the ability to continue booking the trip and a "soft" approval email will be sent to your direct manager. Please refer to "Booking shows Out of Policy" below.
-
 1. You can add a hotel or car by clicking the boxes between the flight details and "complete booking" and go through the same steps.
 
 Note: Once a flight is booked, re-routing is at person’s own cost unless requested by the company or force majeure (in the latter case often the airline will cover the difference).
 
 #### FAQ about travel
+
 Please read through these FAQ **entirely**.
 
 1. If you have trouble finding travel within a budget, contact **your manager** about this, _not_ TripActions.
@@ -95,18 +90,19 @@ Please read through these FAQ **entirely**.
 1. If part of your travel has been changed after you've booked, contact **TripActions Support** about this, they can help.
 
 ##### FAQ regarding transition from NexTravel to TripActions
-[TripActions FAQs](https://tripactions.com/faq#) is a great resource for questions surrounding TripActions features. 
+
+[TripActions FAQs](https://tripactions.com/faq#) is a great resource for questions surrounding TripActions features.
 
 1. Does TripActions integrate with Okta?
-    * Yes! Access to TripActions is a baseline entitlement and should be automatically added to a team member's Okta profile.
+    - Yes! Access to TripActions is a baseline entitlement and should be automatically added to a team member's Okta profile.
 1. Will we be able to use personal credit cards to pay for trips booked through TripActions?
-    * Yes, you can add and maintain personal credit cards in your user profile under the "Payments & Clubs" tab. Once a personal credit card has been added, you can select this payment method at time of booking. **Please note that TripActions allows team members the ability to book "Personal Trips". If/When selecting a "Personal Trip", any "Corporate" payment method will not be available for use.**
+    - Yes, you can add and maintain personal credit cards in your user profile under the "Payments & Clubs" tab. Once a personal credit card has been added, you can select this payment method at time of booking. **Please note that TripActions allows team members the ability to book "Personal Trips". If/When selecting a "Personal Trip", any "Corporate" payment method will not be available for use.**
 1. Are we requiring all travel to be booked through this portal? Or is it still the same as before eg. book based on what works best in options and price?
-    * No, we are still booking based on what works best in options and price.
+    - No, we are still booking based on what works best in options and price.
 1. Is there documentation on how to erase our account with NextTravel?
-    * The Business Operations Team and Security Team are actively working on deleting PII data in NexTravel. 
+    - The Business Operations Team and Security Team are actively working on deleting PII data in NexTravel.
 1. I’d like to know if I can seamlessly integrate with booking personal travel as well - e.g. if I can book for my partner and I to be sat next to each other, for example, or that we are stopping in Canada first, etc.
-    * TripActions has a lot of neat features! You have the ability to choose the Multi-City as well as the option to choose your seats. From [TripActions FAQs](https://tripactions.com/faq#) **TripActions recently added the ability to pick your seat from all platforms (being a mobile first company, you used to have to use our mobile apps). Some airlines need the flight confirmation code verified before you can select a seat. Confirmation numbers are granted and verified after ticketing is complete. This means that once ticketing is complete you will need to return to the ‘My Trips’ section within TripActions to select your seat. We are continuously working with our partners as well as expanding our features and functionality to improve your experience.**
+    - TripActions has a lot of neat features! You have the ability to choose the Multi-City as well as the option to choose your seats. From [TripActions FAQs](https://tripactions.com/faq#) **TripActions recently added the ability to pick your seat from all platforms (being a mobile first company, you used to have to use our mobile apps). Some airlines need the flight confirmation code verified before you can select a seat. Confirmation numbers are granted and verified after ticketing is complete. This means that once ticketing is complete you will need to return to the ‘My Trips’ section within TripActions to select your seat. We are continuously working with our partners as well as expanding our features and functionality to improve your experience.**
 
 **Please also review our [TripActions Q&A doc](https://docs.google.com/document/d/1fDWBzJV3YjojZN5t7anPzJYixhCjpkiP9flWemJS2LM/edit?usp=sharing).**
 
@@ -189,7 +185,7 @@ VPNs can help you reach services or sites that are blocked, get contents that ar
 - [ZenMate](https://zenmate.com/) - Great application with a good 7 days free trial
 - [Opera](http://www.opera.com/) - Has a built in free VPN
 
-*Note that a VPN may not always work as intended. For example both Netflix and China have blocked certain VPNs, limiting their usefulness.*
+_Note that a VPN may not always work as intended. For example both Netflix and China have blocked certain VPNs, limiting their usefulness._
 
 ### Media and Entertainment
 
@@ -227,12 +223,14 @@ For additional security specifically when travelling through an airport, the fol
 
 ## Travel Guidance: COVID-19
 
-Our top priority is the health and safety of our team members. 
+Our top priority is the health and safety of our team members.
 
 ### Covid-19 Travel Working Group
+
 The COVID-19 Travel Working Group is comprised of the Covid Response Committee that was formed in 2020. Members are: Chief People Officer, Chief Legal Officer, Chief Marketing Officer and Chief Revenue Officer with additional support by the Staff EBA and Principal Internal Communications Manager. This group meets once monthly for 25min to review the current travel guidance around COVID-19. The meeting generally occurs on the second Thursday of every month which began on 2021-03-11
 
 Meeting Schedule:
+
 1. 2021-03-11
 1. 2021-04-13
 1. 2021-05-13
@@ -242,25 +240,25 @@ Meeting Schedule:
 1. 2021-09-09
 1. 2021-10-14
 
-These meetings are subject to change and we will continue to evaluate the frequency of them. The Principal Internal Communications manager is responsible for drafting any shareable updates as a result of the meeting, which include MRs and messaging around changes to the travel guidance on this page. 
+These meetings are subject to change and we will continue to evaluate the frequency of them. The Principal Internal Communications manager is responsible for drafting any shareable updates as a result of the meeting, which include MRs and messaging around changes to the travel guidance on this page.
 
 If you have a question or feedback related to the working group, please post in the slack channel: #covid19-response-committee
 
 ### Policy and Guidelines
+
 Guidelines on who can travel, to which locations, and for what purpose is necessary to avoid non-business critical travel during this time and to help keep GitLab Team Members safe.
 
-Where Can GitLab Team Members Travel: While some areas of the world have decreased cases of Covid-19, some are increasing.  Team Members must refer to the [CDC website](https://covid.cdc.gov/covid-data-tracker/#global-counts-rates) to ensure that both locations (traveling from and to) are safe locations in which to travel. 
+Where Can GitLab Team Members Travel: While some areas of the world have decreased cases of Covid-19, some are increasing. Team Members must refer to the [CDC website](https://covid.cdc.gov/covid-data-tracker/#global-counts-rates) to ensure that both locations (traveling from and to) are safe locations in which to travel.
 
 Required of/by Team Members Prior to Traveling:
 
-- At this time, all business travel requires pre-approval and only fully vaccinated team members may travel for business if their request is approved.  Except where an exemption or accommodation may apply, non-vaccinated team members are currently not allowed to travel.  Being fully vaccinated means that you are at least two weeks past your final vaccination date.   
-- Business travel requests should be made for any mode of travel (including personal vehicles for local travel and local public transportation) where team members will be meeting co-workers, customers and/or partners in person.  
+- At this time, all business travel requires pre-approval and only fully vaccinated team members may travel for business if their request is approved. Except where an exemption or accommodation may apply, non-vaccinated team members are currently not allowed to travel. Being fully vaccinated means that you are at least two weeks past your final vaccination date.
+- Business travel requests should be made for any mode of travel (including personal vehicles for local travel and local public transportation) where team members will be meeting co-workers, customers and/or partners in person.
 - To request business travel, please discuss your business travel plans with your direct manager to determine wheether business travel is necessary.
-- Traveling to meet with co-workers in person will require eGroup approval per the normal budget process and is considered business travel for the purpose of this policy.  
-- By making a request to travel, you are confirming that you are authorized to travel based on your vaccination status. GitLab is not requiring vaccination confirmation at this time in order to travel.   
+- Traveling to meet with co-workers in person will require eGroup approval per the normal budget process and is considered business travel for the purpose of this policy.
+- By making a request to travel, you are confirming that you are authorized to travel based on your vaccination status. GitLab is not requiring vaccination confirmation at this time in order to travel.
 - Vaccinated team members must wear a mask that meets CDC or WHO guidelines during travel to their destination(s), and must continue to follow mask requirements meeting CDC/WHO guidelines or local, venue or client requirements, whichever is most strict.
 - All international travelers must follow each country's guidelines governing entry and re-entry. If COVID-19 testing is required to travel, GitLab will reimburse team members for required testing costs.
-
 
 General recommendations/precautions:
 
@@ -268,17 +266,15 @@ General recommendations/precautions:
 - Practice good respiratory hygiene, that is, when coughing and sneezing, cover your mouth and nose with flexed elbow or tissue – discard tissue immediately into a closed bin and clean your hands with alcohol-based hand rub or soap and water
 - Maintain physical distancing, that is, leave at least 2 metres (6 feet) distance between yourself and other people, particularly those who are coughing, sneezing and have a fever
 - Avoid touching your eyes, nose and mouth – if you touch your eyes, nose or mouth with your contaminated hands, you can transfer the virus from the surface to yourself
-- Keep the surfaces around you clean 
+- Keep the surfaces around you clean
 
 ### Personal Travel
 
-You must make your own decision about what is right for you regarding travel. Please be aware that any risk of potential exposure to Covid-19 may subject you to potential restrictions from GitLab or third parties (ex. customers, vendors, conferences, etc.) on your ability to attend in-person meetings or events for some period of time, even after the removal of general travel restrictions. Consult authoritative agencies at both departure and arrival locations before embarking on international travel. If you choose to travel internationally, please note the resources provided by agencies such as the CDC (in the USA) and your local government, and we ask that you notify your manager with your travel dates so we can help set expectations for timing to return to possible in-person meetings in the future.  Always consider ways to get the business results remotely before requesting travel approval.
+You must make your own decision about what is right for you regarding travel. Please be aware that any risk of potential exposure to Covid-19 may subject you to potential restrictions from GitLab or third parties (ex. customers, vendors, conferences, etc.) on your ability to attend in-person meetings or events for some period of time, even after the removal of general travel restrictions. Consult authoritative agencies at both departure and arrival locations before embarking on international travel. If you choose to travel internationally, please note the resources provided by agencies such as the CDC (in the USA) and your local government, and we ask that you notify your manager with your travel dates so we can help set expectations for timing to return to possible in-person meetings in the future. Always consider ways to get the business results remotely before requesting travel approval.
 
-### Resources: 
+### Resources:
+
 - [World Health Organization Guidance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 - [CDC Guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html)
 - [Government of Canada Guidance](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 - TripActions Application found via Okta - TripActions has information regarding [Travel Restrictions](https://app.tripactions.com/app/user2/travel-restrictions)
-
-
-
