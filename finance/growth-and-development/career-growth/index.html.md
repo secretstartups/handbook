@@ -44,7 +44,7 @@ Welcome to Learning and Development for the Finance Department at GitLab! The re
 - [Principal Accounting Offier](https://about.gitlab.com/job-families/finance/pao-jf)
 
 ##### Tax
-- [International Tax Manager](https://about.gitlab.com/job-families/finance/international-tax-manager)
+- [International Tax Manager](https://about.gitlab.com/job-families/finance/international-tax)
 - [Director of Tax](https://about.gitlab.com/job-families/finance/director-of-tax)
 
 ##### FP&A
