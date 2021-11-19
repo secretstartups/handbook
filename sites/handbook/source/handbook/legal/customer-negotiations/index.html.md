@@ -27,7 +27,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | OPERATIONAL| EDUCATIONAL |
 | ------ | ------ |
 | [**How to reach Legal** ](#how-to-reach-legal)                  | [**Overview of GitLab Agreements**](#overview-of-gitlab-agreements)  |
-| [**How do I get an Agreement signed**](#how-do-i-get-an-agreement-signed)       | [**When does GitLab negotiate**](#when-does-gitlab-negotiate)  |
+| [**How do I get an Agreement signed**](#how-do-i-get-an-agreement-signed) _(including NDAs)_     | [**When does GitLab negotiate**](#when-does-gitlab-negotiate)  |
 | [**Clearing Export Review in SFDC** ](#clear-export-review-in-sfdc)     | [**SKO 2021 Resources**](#gitlab-legal-sko-2021-resources) |
 |[**Completing Vendor Request Forms** ](#completing-vendor-request-forms) | [**What is Open Source Software?**](#open-source) |
 | [**What's needed to close a deal?**](#whats-needed-to-close-a-deal)    | [**GitLab Subscription Agreement 101**](#gitlab-subscription-agreement-101) |
@@ -41,14 +41,14 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 *Learn about how to open a Legal Request, When to Open a Legal Request; 2:24 (Log into GitLab Unfiltered)*
 
 1. **UPDATE TO PROCESS:** Please note, the "Legal Request Button" will now be available exclusively in the Opportunity template layout. The purpose of this update was to enable Legal to gather more information regarding Legal Requests created and the applicable Opportunity information. If an Opportunity does not exists, please open a $0 Opportunity to then create the Legal Request following the steps within this Section and the video.  
-2. For all questions related to Partners and/or Customers, including: NDA's, Contract Review / Negotiations, Legal Questions...etc., please open a **Legal Request** in SFDC. 
+2. For all questions related to Partners and/or Customers, including: Non-standard NDA requests, Contract Review / Negotiations, Legal Questions...etc., please open a **Legal Request** in SFDC. 
 3. There is a:
      * $25K ARR opportunity minimum threshold to review edits to our terms; and
      * $100K ARR opportunity minimum threshold to review Customer.
      
 * **Please Note** The above thresholds are based on a single opportunity and not the "total Account value" or "total Contract value", OR, potential investment size of a future opportunity. For clarity, if a Customer is purchasing $30,000USD over three (3) year term, this Opportunity **WOULD NOT** meet the threshold for negotiation(s). 
     
-* The above thresholds do not apply to NDA's, simply follow the same process(es) and attach the Customer red-lined GitLab NDA, OR, the Customer's NDA template.
+* With respect to non-standard NDAs, the above thresholds do not apply. Simply follow the same process(es) and attach the Customer red-lined GitLab NDA, OR, the Customer's NDA template.
 
 4. Step-by-Step directions on opening a Legal Request can be found [here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#request-editable-version-of-gitlab-template)
 _NOTE:_ Once you open a Legal Request for "Contract Review", **DO NOT** open another Legal Request when updated red-lines are provided. All red-lines / negotiated versions will be stored in one (1) Legal Request to ensure version history is maintained. 
@@ -72,10 +72,12 @@ For any other channel partner legal request, please follow the [standard legal r
 
 1. **Sales Reps cannot sign any Agreements.** Only certain individuals may execute on behalf of GitLab see Authorization Matrix [here](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix). 
 2. All Agreements require a GitLab Legal stamp in order to be executed. This stamp is placed by a Contract Manager when an executable version is reached. 
-3. Once the Agreement has been stamped by GitLab legal, follow the [DocuSign Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) to send the Agreement for signature within SFDC. 
+3. Once the Agreement has been stamped by GitLab legal, follow the [DocuSign Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) to send the Agreement for signature within SFDC. **Note:** All Sales Team Members have Docusign access, please work with Sales Ops for any questions on how to use. 
+
+#### **Need an NDA signed?** Follow the process for [Team Members with Docusign access](https://about.gitlab.com/handbook/legal/NDA/) 
 
 **Additional Resources:**
-Visit the [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) for helpful information
+- Visit the [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) for helpful information
 
 ## Clear Export Review in SFDC
 1. See the [Visual Compliance Overview](https://docs.google.com/presentation/d/1hD1xgEyJL1U1eyvTci6NNlCdIur4PkB16GO52wjZRgk/edit#slide=id.g5dbc2f529a_0_41)
@@ -141,9 +143,11 @@ GitLab includes a signed version of the DPA on the [Terms of Service](https://ab
 
 ## When does GitLab negotiate
 ### 🎥 [Watch the "When does GitLab Negotiate Video"](https://www.youtube.com/embed/zYvZKP5OohA)
-*Learn about when GitLab negotiates; Where to find an NDA template; 3:20 (Log into GitLab Unfiltered)*
+*Learn about when GitLab negotiates; 3:20 (Log into GitLab Unfiltered)*
 
-1. GitLab will negotiate NDAs with our prospects. You can always send the prospect the GitLab NDA template and ask for them to sign. If they want to use their template, simply open a Legal Request for "Contract Review".
+**Note:** The updated NDA process may not be referenced in the video, please follow most recent directions in this Sales Guide
+
+1. GitLab will negotiate NDAs with our prospects. You can always send the prospect the GitLab NDA template (following the steps within this Sales Guide) and ask for them to sign. If they want to use their template, simply open a Legal Request for "Contract Review".
 2. GitLab will negotiate changes to our terms and conditions provided the [current] Opportunity is greater than $25K (USD).
 3. GitLab will negotiate using a Customer terms and conditions-if they are applicable to our Software and business-if the [current] Opportunity is greater than $100K (USD).
 4. **Why don't we negotiate with all Customers?** Using resources to negotiate on all deals would not be a good use of GitLab resources and instead, we created our terms to be reasonable and in line with industry standards which allows us to place our resources into creating better products and services. 
