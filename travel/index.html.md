@@ -249,13 +249,6 @@ If you have a question or feedback related to the working group, please post in 
 ### Policy and Guidelines
 Guidelines on who can travel, to which locations, and for what purpose is necessary to avoid non-business critical travel during this time and to help keep GitLab Team Members safe.
 
-Purposes of travel: 
--Customer or Field Marketing Focused Travel:  Business critical events and/or customer-focused meetings or sessions to sell, support, or provide focused care for a current or potential customer account with GitLab. Customer/Partner representatives must be present at the meeting or in-person session.  Must receive approval from your direct manager to travel. 
-
-Internal Team Travel: Any travel required to meet with co-workers in person will require eGroup approval per the normal budget process.  
-
-
-
 Where Can GitLab Team Members Travel: While some areas of the world have decreased cases of Covid-19, some are increasing.  Team Members must refer to the [CDC website](https://covid.cdc.gov/covid-data-tracker/#global-counts-rates) to ensure that both locations (traveling from and to) are safe locations in which to travel. 
 
 Required of/by Team Members Prior to Traveling:
@@ -269,7 +262,6 @@ Required of/by Team Members Prior to Traveling:
 - All international travelers must follow each country's guidelines governing entry and re-entry. If COVID-19 testing is required to travel, GitLab will reimburse team members for required testing costs.
 
 
-
 General recommendations/precautions:
 
 - Wash your hands frequently with soap and water or use an alcohol-based hand rub if your hands are not visibly dirty
@@ -277,14 +269,6 @@ General recommendations/precautions:
 - Maintain physical distancing, that is, leave at least 2 metres (6 feet) distance between yourself and other people, particularly those who are coughing, sneezing and have a fever
 - Avoid touching your eyes, nose and mouth – if you touch your eyes, nose or mouth with your contaminated hands, you can transfer the virus from the surface to yourself
 - Keep the surfaces around you clean 
-
-### Process for obtaining travel approval in the CRO Organization
-
-1. Review the steps above 
-1. Fill out the Travel Exception Request form (see above)
-1. Via email, forward the completed form to your manager and request their approval 
-1. Your manager should then forward the completed form with their approval and justification for approval (no more than 3 sentences) via email to your functional VP (one of McB's direct reports) i.e. if you're in Enterprise Sales, this form will need to be emailed to Mike Pyle for approval
-1. The functional VP will review and if approved, they should forward the email with their approval to McB and Cheri Holmes for final approval 
 
 ### Personal Travel
 
