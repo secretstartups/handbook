@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Nov 18 | Trust Building In Consultative Engagements    | Darwin S. & Brian W. |
 | Nov 25 | *No session due to US Thanksgiving holiday*      | N/A  |
 | Dec 2 |  Q4 FY22 Competitive Update      | Francis P.   |
 | Dec 9 |  Q4 FY22 Product Update      | TBD  |
@@ -43,6 +42,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-11-18 | **[Trust Building In Consultative Engagements](https://youtu.be/UswJSp3eeNA)**    | Private |
 | 2021-11-11 | **[FY22-Q4 Competitive Update](https://youtu.be/jqUM-zJBdOY)** | Private |
 | 2021-11-04 | **[FY22-Q3 Product Update](https://youtu.be/z6hFnUtm2Gk)** | Private |
 | 2021-10-07 | **[DevSecOps Campaign Refresh](https://youtu.be/6eE0K2NXNw8)** | Private |
