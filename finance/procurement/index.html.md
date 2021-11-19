@@ -86,7 +86,6 @@ Due to the limited number of licenses available for Coupa, it is recommended tha
 
 ##### Contract Templates
 
-- [Mutual Non-Disclosure Agreement (NDA)](https://drive.google.com/file/d/1kQfvcnJ_G-ljZKmBnAFbphl-yFfF7W5U/view?usp=sharing)
 - [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
 - [Data Processing Agreement](https://drive.google.com/file/d/1zR-QYz8Hnk5XR-DaFNlzrEksL0hyFsjT/view?usp=sharing)
 - [US-based Independent Contractor Agreement](https://drive.google.com/file/d/1NIon0c92ej2CRABQsdzWbpdM-3cJy0Se/view?usp=sharing) Master agreement for a subcontractor performing internal services directly to GitLab.
@@ -94,6 +93,7 @@ Due to the limited number of licenses available for Coupa, it is recommended tha
 
 #### Documentation
 
+* [Non-Disclosure Agreement (NDA) Process](https://about.gitlab.com/handbook/legal/NDA/)
 * [Uploading Third Party Contracts to ContractWorks](/handbook/legal/vendor-contract-filing-process/)
 * [Company Information](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information) - general information about each legal entity of the company
 * [Trademark](/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark) - information regarding the usage of GitLab's trademark
