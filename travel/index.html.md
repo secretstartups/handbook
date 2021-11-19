@@ -1,3 +1,8 @@
+---
+layout: handbook-page-toc
+title: Travel
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -212,9 +217,9 @@ If you feel that your travel frequency may expose your data please keep in mind 
 - Speaking in crowded places - Ensure that when you are talking about restricted data you are in a secure place and no-one can hear you.
 - 1Password travel mode - If you are approaching travel in a risky country or you have to leave your devices in an insecure place, please use [Travel Mode](https://support.1password.com/travel-mode/) in 1Password to ensure that your vaults will be safe if your device is compromised.
 
-When travelling, there is the possibility that customs, border control, or other law enforcement agents demand that you provide the password to your laptop or mobile device. If this happens to you in regards to a company-owned account or device, GitLab recommends that you comply with any such requests without protesting. If you do end up providing a password to any device or account that has access to GitLab resources (including your personal devices), you should follow [the process to engage Security on-call](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html) as soon as you can safely do so. Even if you do not provide a password, if any of your devices are permanently seized or even temporarily removed from sight, you should also engage the Security on-call.
+When traveling, there is the possibility that customs, border control, or other law enforcement agents demand that you provide the password to your laptop or mobile device. If this happens to you in regards to a company-owned account or device, GitLab recommends that you comply with any such requests without protesting. If you do end up providing a password to any device or account that has access to GitLab resources (including your personal devices), you should follow [the process to engage Security on-call](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html) as soon as you can safely do so. Even if you do not provide a password, if any of your devices are permanently seized or even temporarily removed from sight, you should also engage the Security on-call.
 
-For additional security specifically when travelling through an airport, the following advice is provided:
+For additional security specifically when traveling through an airport, the following advice is provided:
 
 - Completely power-off laptops and mobile devices before any security checkpoints. This reduces the risk of attacks that may be conducted against machines in a sleep mode, where the disk encryption is not being actively enforced.
 - Prior to the trip, remove any sensitive data from your local machine that is not absolutely required. Refer to the [Data Classification Standards](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-standards) for more information.
@@ -254,7 +259,7 @@ Required of/by Team Members Prior to Traveling:
 
 - At this time, all business travel requires pre-approval and only fully vaccinated team members may travel for business if their request is approved. Except where an exemption or accommodation may apply, non-vaccinated team members are currently not allowed to travel. Being fully vaccinated means that you are at least two weeks past your final vaccination date.
 - Business travel requests should be made for any mode of travel (including personal vehicles for local travel and local public transportation) where team members will be meeting co-workers, customers and/or partners in person.
-- To request business travel, please discuss your business travel plans with your direct manager to determine wheether business travel is necessary.
+- To request business travel, please discuss your business travel plans with your direct manager to determine whether business travel is necessary.  Once approved by your manager, you are authorized to travel for business.
 - Traveling to meet with co-workers in person will require eGroup approval per the normal budget process and is considered business travel for the purpose of this policy.
 - By making a request to travel, you are confirming that you are authorized to travel based on your vaccination status. GitLab is not requiring vaccination confirmation at this time in order to travel.
 - Vaccinated team members must wear a mask that meets CDC or WHO guidelines during travel to their destination(s), and must continue to follow mask requirements meeting CDC/WHO guidelines or local, venue or client requirements, whichever is most strict.
