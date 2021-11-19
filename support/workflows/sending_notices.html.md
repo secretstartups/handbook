@@ -13,9 +13,11 @@ description: How to send notices out to GitLab.com users and customers to inform
 
 ### Overview
 
-From time to time we'll be asked by various teams within GitLab to send notices out to GitLab.com users and customers to inform them of various actions that we've either taken or will be taking on namespaces under their control.
+Support may be asked by various teams within GitLab to send notices out to GitLab.com users and customers, to inform them of actions that we have taken (or will be taking) on namespaces under their control.
 
-We may also occasionally need to do this to inform certain users of a feature that will be deprecated that they're taking advantage of. This workflow details the various macros that we currently have in use to inform users of these specific situations and the steps that you, as a GitLab.com Support Engineer, should take to use them.
+We may also occasionally need to inform certain users of a feature they use that will be deprecated. This workflow describes the various [Zendesk macros](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_macros.html) that we can use to inform users, and the steps that a GitLab.com Support Engineer must take.
+
+**NOTE:** If none of the below situations apply, you can use the generic [`Support::SaaS::Notices::General Contact Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360013369860) macro in Zendesk. Leave an internal note (with a link to any relevant [internal-request issue](https://about.gitlab.com/handbook/support/workflows/internal_requests.html#contact-request)).
 
 ### Blocked Accounts
 
