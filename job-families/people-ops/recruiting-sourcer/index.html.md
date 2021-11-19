@@ -4,15 +4,56 @@ title: "Recruiting Sourcer"
 description: "Sourcers at GitLab are experts at finding the best candidates for a high-tech, distributed company."
 ---
 
-Sourcers at GitLab are experts at finding the best candidates for a high-tech, distributed company. They work closely with the broader Recruiting team on building sourcing strategies, market mapping, and finding the best talent in the world.
+## Levels
 
-## Responsibilities
+### Inbound Sourcer
+
+The Inbound Sourcer reports into the Manager, Inbound Sourcing and Sourcinig Operations.
+
+#### Inbound Sourcer Job Grade
+
+The Inbound Sourcer is a [grade TBD](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Inbound Sourcer Responsibilities
+
+* Manage all applicants and referrals from resume review to hiring team review for various roles at GitLab
+* Track inbound data to measure the efficacy of job posting strategies
+* Develop creative and scalable changes to how we match candidates to roles across the organization
+* Identify and nurture  new inbound applicant channels 
+* Advise applicants on alternative roles that would be a match for their experience and interest
+* Partner with recruiters and hiring managers to develop a firm understanding of the the assigned roles
+
+#### Inbound Sourcer Requirements
+
+* Relevant  experience in Recruiting/Sourcing/HR.
+* A passion for delivering exceptional candidate experience
+* An ability to be organized across multiple requisitions while responding to a high volume of candidates
+* Ability to build relationships with managers and colleagues across multiple disciplines and timezones.
+* Outstanding written and verbal communication skills across all levels.
+* Working knowledge using candidate tracking systems. Greenhouse is a plus.
+* Remote working experience in a technology startup will be an added advantage.
+* Willingness to learn and use software tools including Git and GitLab.
+* Ability to use GitLab
+
+### Associate Sourcer
+
+The Associate Sourcer reports to a Talent Acquisition Manager.
+
+#### Associate Sourcer Job Grade
+
+The Associate Sourcer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Associate Sourcer Responsibilities
+
 - Source for the best passive candidates in the global market.
 - Put meaningful focus on building a diverse pipeline.
 - Develop a strong relationship with candidates and make judicious decisions on fit for a particular role or team, in addition to thinking through fit for our unique culture.
 - Map out individual markets and gather intelligence around specific talent pools, using that knowledge to identify top talent.
+- Build strong partnerships with recruiters and business leaders to understand specific needs to attract and engage with top talent.
+- Strategically utilize LinkedIn, online research, events, etc. to engage highly passive, sought after candidates.
 
-## Requirements
+#### Associate Sourcer Requirements
+
 - Experience sourcing and research at all levels, preferably in a global capacity within the software industry, open source experience is a plus.
 - Proven success in sourcing for technical/sales/marketing/g&a roles.
 - Demonstrated ability to effectively source passive candidates. This is a fully outbound role.
@@ -26,27 +67,11 @@ Sourcers at GitLab are experts at finding the best candidates for a high-tech, d
 - Remote working experience in a technology startup will be an added advantage.
 - Willingness to learn and use software tools including Git and GitLab.
 - Ability to use GitLab.
-
-## Levels
-
-### Associate Sourcer
-The Associate Sourcer reports to the Manager, Sourcing.
-
-#### Associate Sourcer Job Grade
-The Associate Sourcer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Associate Sourcer Responsibilities
-- Extends the Sourcer Job Family responsibilities.
-- Build strong partnerships with recruiters and business leaders to understand specific needs to attract and engage with top talent.
-- Strategically utilize LinkedIn, online research, events, etc. to engage highly passive, sought after candidates.
-
-#### Associate Sourcer Requirements
-- Extends the Sourcer Job Family responsibilities.
-- 1+ years of experience in Recruiting/Sourcing/HR.
 - Experience sourcing and research at junior and intermediate levels, preferably in a global capacity within the software industry, open source experience is a plus.
 
 ### Sourcer (Intermediate)
-The Intermediate Sourcer reports to the Manager, Sourcing.
+
+The Intermediate Sourcer reports a Talent Acquisition Manager.
 
 #### Sourcer (Intermediate) Job Grade 
 
@@ -59,18 +84,22 @@ The Sourcer is a [grade 6](/handbook/total-rewards/compensation/compensation-cal
 * Continuously work on streamlining sourcing processes and delivering great candidate experience.
 
 #### Sourcer (Intermediate) Requirements
+
 * Extends the Associate Sourcer requirements. 
 * Experience sourcing and research at all levels, preferably in a global capacity within the software industry, open source experience is a plus.
-* 3+ years experience in Recruiting or Sourcing.
+* relevant experience in Recruiting or Sourcing.
 * Experience working directly with hiring managers.
 
 ### Senior Sourcer
-The Senior Sourcer reports to the Manager, Sourcing.
+
+The Senior Sourcer reports to a Talent Acquisition Manager.
 
 #### Senior Sourcer Job Grade 
+
 The Senior Sourcer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Sourcer Responsibilities: 
+#### Senior Sourcer Responsibilities
+
 - Extends the Sourcer (Intermediate) responsibilities.
 - Assist with evaluation and implementation of new sourcing tools and procedures.
 - Leverage data to improve efficiency, drive innovation, and influence hiring decisions.
@@ -78,18 +107,22 @@ The Senior Sourcer is a [grade 7](/handbook/total-rewards/compensation/compensat
 - Serve as the primary sourcer for senior and executive level roles.
 
 #### Senior Sourcer Requirements
+
 * Extends the Intermediate Sourcer requirements. 
 * 5+ years of experience in Recruiting or Sourcing.
 * Worked closely with Sourcers, Recruiters, and Candidate Experience Specialists.
 * Experience and proficiency with Applicant Tracking Systems and other recruiting software (ideally including Greenhouse and LinkedIn Recruiter).
 
 ### Sourcing Lead 
-The Senior Sourcer reports to the Manager, Sourcing.
+
+The Senior Sourcer reports to a Talent Acquisition Manager.
 
 #### Sourcing Lead Job Grade 
+
 The Sourcing Lead is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Sourcing Lead Responsibilities
+
 - Extends the Senior Sourcer responsibilities.
 - Own a req load (approx. 70% of capacity) with a primary focus on senior level roles.
 - Lead others on outbound talent outreach practices and develop talent maps to guide sourcing strategy discussions.
@@ -103,9 +136,10 @@ The Sourcing Lead is a [grade 8](/handbook/total-rewards/compensation/compensati
 - Stay connected to the competitive landscape, including trends in sourcing.
 
 #### Sourcing Lead Requirements
+
 - Extends the Senior Sourcer requirements. 
-- 6+ years of recruiting experience within a growing organization.
-- 2+ years experience sourcing for senior level roles.
+- relevant recruiting experience within a growing organization.
+- relevant experience sourcing for senior level roles.
 - Experience as leader, mentor, guide, or subject matter expert.
 - Consistent track record and strong performance reviews.
 - Confidence to learn and translate that learning to others.
@@ -113,12 +147,15 @@ The Sourcing Lead is a [grade 8](/handbook/total-rewards/compensation/compensati
 - High sense of urgency.
 
 ### Manager, Sourcing 
-The Manager, Sourcing reports to the [VP of Recruiting](/job-families/people-ops/vp-recruiting/).
+
+The Manager, Sourcing reports to the a Talent Acquisition Leader.
 
 #### Manager, Sourcing Job Grade 
+
 The Manager, Sourcing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Sourcing Responsibilities
+
 * Lead and coach a remote-based sourcing team that is focused on achieving Recruiting OKRs and scaling to the dynamic demands of a rapidly growing company.
 * Onboard, mentor, and grow the careers of all team members.
 * Conduct [skip-level](https://about.gitlab.com/handbook/leadership/skip-levels/) and 1:1 meetings.
@@ -132,8 +169,9 @@ The Manager, Sourcing is a [grade 8](/handbook/total-rewards/compensation/compen
 * Provide coaching to improve performance of team members and drive accountability.
 
 #### Manager, Sourcing Requirements
-* Minimum of 2-3 years of people management experience.
-* 7+ years of Recruiting or Sourcing experience.
+
+* People management experience.
+* Relevant Recruiting or Sourcing experience.
 * Expertise and a proven track record of developing recruiting best practices, and candidate sourcing strategies.
 * Proficient in analyzing data, presenting solutions, and making data-driven decisions.
 * Experience effectively sourcing for diverse candidates.
@@ -145,7 +183,7 @@ The Manager, Sourcing is a [grade 8](/handbook/total-rewards/compensation/compen
 
 ### Manager, Inbound Sourcing and Sourcing Operations
 
-The Manager, Inbound Sourcing and Sourcing Operations reports to the Sr, Manager, Recruiting
+The Manager, Inbound Sourcing and Sourcing Operations reports to the Sr, Manager, Recruiting.
 
 #### Manager, Inbound Sourcing and Sourcing Operations Job Grade 
 
