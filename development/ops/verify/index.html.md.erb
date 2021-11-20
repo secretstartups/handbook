@@ -22,12 +22,13 @@ We take ownership of the things we build, with a focus on stability and availabi
 
 ## Who we are
 
-The Verify stage is made up of 4 groups:
+The Verify stage is made up of 5 groups:
 
 1. [Verify:Pipeline Execution](/handbook/engineering/development/ops/verify/pipeline-execution/)
 1. [Verify:Pipeline Authoring](/handbook/engineering/development/ops/verify/pipeline-authoring/)
 1. [Verify:Runner](/handbook/engineering/development/ops/verify/runner/)
 1. [Verify:Testing](/handbook/engineering/development/ops/verify/testing/)
+1. [Verify:Platform](/handbook/engineering/development/ops/verify/platform/)
 
 ## UX Strategy
 
@@ -50,13 +51,13 @@ Pipeline Authoring and Pipeline Execution are closely related but they also repr
 
 ### Verify:Pipeline Execution
 
-<%= direct_team(manager_role: 'Interim Senior Manager, Engineering, Verify & Backend Engineering Manager, Verify:Pipeline Execution', role_regexp: /Pipeline Execution/) %>
+<%= direct_team(manager_role: 'Acting Backend Engineering Manager, Verify:Pipeline Execution') %>
 
 <%= direct_team(manager_role: 'Frontend Engineering Manager, Verify', role_regexp: /Pipeline Execution/) %>
 
 ### Verify:Pipeline Authoring
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Pipeline Authoring', role_regexp: /Pipeline Authoring/) %>
+<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Pipeline Authoring & Verify:Platform', role_regexp: /Pipeline Authoring/) %>
 
 <%= direct_team(manager_role: 'Frontend Engineering Manager, Verify', role_regexp: /Pipeline Authoring/) %>
 
@@ -68,6 +69,10 @@ Pipeline Authoring and Pipeline Execution are closely related but they also repr
 
 <%= direct_team(manager_role: 'Interim Fullstack Engineering Manager, Verify:Testing') %>
 
+### Verify:Platform
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Pipeline Authoring & Verify:Platform', role_regexp: /Platform/) %>
+
 ## How we work
 
 Each group in Verify is encouraged to define their own process based on what works best for them. Individual group processes are described on the pages below:
@@ -76,6 +81,7 @@ Each group in Verify is encouraged to define their own process based on what wor
 * [Verify:Pipeline Authoring](/handbook/engineering/development/ops/verify/pipeline-authoring/)
 * [Verify:Runner](/handbook/engineering/development/ops/verify/runner/)
 * [Verify:Testing](/handbook/engineering/development/ops/verify/testing/)
+* [Verify:Platform](/handbook/engineering/development/ops/verify/platform)
 
 ### Shared issues
 
@@ -116,12 +122,12 @@ The following members of other functional teams are our stable counterparts:
 
 <%=
 role_regexp = /[,&] Verify/
-direct_manager_role = 'Senior Manager, Engineering, Verify'
+direct_manager_role = 'Interim Senior Manager, Engineering, Verify'
 other_manager_roles = [
   'Frontend Engineering Manager, Verify',
-  'Backend Engineering Manager, Verify:Pipeline Execution & Verify:Pipeline Authoring',
+  'Acting Backend Engineering Manager, Verify:Pipeline Execution',
   'Backend Engineering Manager, Verify:Runner',
-  'Backend Engineering Manager, Verify:Testing'
+  'Interim Fullstack Engineering Manager, Verify:Testing'
 
 ]
 stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
