@@ -96,7 +96,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 ## Salesforce.com Change Management Process
 
 **Approval for Proposed Changes related to Quoting**
-1. All changes that will impact Quoting (ex. creating quotes, creating validation rules, generating quote PDFs, Quote Templates, Approval Module updates) will require approval from Deal Desk before being pushed to production. The goal is to prevent changes from being pushed to production that could delay the quoting process or create a bottleneck in the quote to cash lifecycle. 
+1. All changes that will impact Quoting (ex. creating quotes, creating validation rules, generating quote PDFs, Quote Templates, Approval Module updates) will require approval from Deal Desk and Channel Ops before being pushed to production. The goal is to prevent changes from being pushed to production that could delay the quoting process or create a bottleneck in the quote to cash lifecycle. 
 1. Approval should be secured in the comments section of the related issue from the Designated Approver outlined below. 
 1. Additionally, if a change is proposed that could materially impact the quoting experience for Sales teams and **is not listed below**, please request review from Sr. Manager, Deal Desk in the comments section of the issue.  
 
