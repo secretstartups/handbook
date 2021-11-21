@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Technical Account Management Handbook"
-description: "The Technical Account Management team at GitLab is a part of the Customer Success department, activing as trusted advisors to our customers and helping them realize value faster."
+description: "The Technical Account Management team at GitLab is a part of the Customer Success department, acting as trusted advisors to our customers and helping them realize value faster."
 ---
 
 ## On this page
@@ -176,7 +176,7 @@ As a Technical Account Manager, it is important to be continuously learning more
 
 ## SFDC useful reports 
 
-### Tracking oportunities for your assigned SALs
+### Tracking opportunities for your assigned SALs
 
 To ensure that opportunities are listed with the correct Order Type, [this Salesforce report](https://gitlab.my.salesforce.com/00O4M000004agfP) shows you all of the opportunities that have closed, or are soon to close, with your SALs. Tracking Order Type is important since TAM team quota and compensation depend on this. Please reference the latest [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/) information to know what is counted.
 
