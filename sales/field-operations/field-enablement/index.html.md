@@ -75,11 +75,11 @@ description: "The Field Enablement team's mission is to design and deliver effec
 
 ## Results 
 
-You can find a read-out of Field Enablement team results by quarter – including overall team achievements, progress against OKRs and program-specific key accomplishments and results – in the Field Enabelement Quarterly Read-Out decks below: 
+You can find a read-out of Field Enablement team results by quarter – including overall team achievements, progress against OKRs and program-specific key accomplishments and results – in the Field Enablement Quarterly Readout decks below: 
 
 - [FY22-Q3 Field Enablement Results Readout](https://docs.google.com/presentation/d/1Cq2KcEsWehAGG_VaWCVyrXOliv0V8xf5pFWmcdjZ09k/edit?usp=sharing)
-- [FY22-Q2 Field Enablement Results Readout](https://docs.google.com/presentation/d/1xVt4_1tl_8CgPNAexo4ycq5xWmb6nXEC7WUEBJv3oWw/edit#slide=id.g59bfc474c5_2_145)
-- [FY22-Q1 Field Enablement Results Readout](https://docs.google.com/presentation/d/1La-jKxkb6sId1iZCocX35n5z7cXYF0OcLp7pUzTSBjs/edit#slide=id.g59bfc474c5_2_145)
+- [FY22-Q2 Field Enablement Results Readout](https://docs.google.com/presentation/d/1xVt4_1tl_8CgPNAexo4ycq5xWmb6nXEC7WUEBJv3oWw/edit?usp=sharing)
+- [FY22-Q1 Field Enablement Results Readout](https://docs.google.com/presentation/d/1La-jKxkb6sId1iZCocX35n5z7cXYF0OcLp7pUzTSBjs/edit?usp=sharing)
 
 ## Handbook-First Approach to GitLab Learning and Development Materials
 
