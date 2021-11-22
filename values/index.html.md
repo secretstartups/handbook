@@ -891,7 +891,7 @@ Educating users on the longer-term plan helps create a shared understanding of h
 {:.no_toc}
 When we talked to Nat Friedman, he said: "A low level of shame is intrinsic to your culture." This captures the pain we feel by shipping something that isn't where we want it to be yet.
 
-In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of Remote Darren M. adds context on this sub-value.
+GitLab Head of Remote Darren M. adds context on this sub-value.
 
 > In many organizations, you take a risk when you put forth any work that's not perfect — where you haven't spent endless cycles planning for contingencies or counterpoints. Because of this, you're incentivized to invest a lot of time and effort into preparing for 'What if?' scenarios before any work is presented.
 >
