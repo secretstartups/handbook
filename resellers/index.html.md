@@ -168,6 +168,11 @@ The GitLab Partner Program consists of three tracks that support the different w
   *   Discounts and Referral Fees
   *   GitLab Badges
   *   Field Support
+
+  Open partners must meet these minimum requirements to earn program benefits:
+  *   Three (3) Sales Verifications (completion of GitLab Sales Core) in the region specified in your GitLab Partner Contract. 
+  *   One (1) Technical Sales Certifications in the region specified in your GitLab Partner Contract.  Both the GitLab Sale Architect Core and Professional Services Engineering courses meet this requirement.
+
 2. **Select** partners make a greater investment in expertise, develop services practices around GitLab and are expected to drive greater product recurring revenues. Participation in the Select Partner track is by invitation only. We provide:
   *   Focused Strategic Relationships (Channel Account Manager, Solution Architect, Executives)
   *   Discounts and Referral Fees, including limited-time Select-partner only incentive programs
@@ -179,9 +184,10 @@ The GitLab Partner Program consists of three tracks that support the different w
   *   Business Planning and QBRs
   *   Priority Help Desk support
   *   Priority position in the GitLab Partner Locator
+
 Since participation in the Select Track is by invitation only, partners are not automatically upgraded. To be considered, they must meet these minimum requirements:
-  *   Five (5) Sales Certifications in the region specified in your GitLab Partner Contract
-  *   Three (3) Technical Sales Certifications in the region specified in your GitLab Partner Contract
+  *   Five (5) Sales Verifications (completion of GitLab Sales Core) in the region specified in your GitLab Partner Contract. 
+  *   Three (3) Technical Sales Certifications in the region specified in your GitLab Partner Contract.  Both the GitLab Sale Architect Core and Professional Services Engineering courses meet this requirement.
   *   Executive-sponsored joint business plan
   *   $300k minimum program revenue, defined as Net Annual Recurring Revenue (NetARR). This includes all the incremental licenses sold to new and existing customers.
   *   Dedicated DevOps sales and/or services practice
