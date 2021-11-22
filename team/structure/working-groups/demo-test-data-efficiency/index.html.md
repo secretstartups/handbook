@@ -17,7 +17,7 @@ canonical_path: "/company/team/structure/working-groups/demo-test-data-efficienc
 |-----------------|-----------------|
 | Date Created    | Dec 1st 2021 |
 | Target End Date | Feb 22nd 2022  |
-| Slack           | TBD |
+| Slack           | [#wg_demo-test-data](https://gitlab.slack.com/archives/C02M7GX1SBE) (only accessible from within the company) |
 | Google Doc      | [Link](https://docs.google.com/document/d/1YHgGG8aedB9ho_QHOTIlo3TNxAl_0N6vOWyT7YtCWeU/edit#) |
 | Task Board      | TBD |
 
