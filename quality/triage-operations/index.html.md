@@ -109,14 +109,14 @@ files. If the group definition file is changed, we'll need to
 [run some scripts](https://gitlab.com/gitlab-org/quality/triage-ops#generating-policy-files-and-ci-jobs)
 to update the generated files as well.
 
-### Newly created unlabelled issues requiring first-triage
+### Newly created untriaged issues
 
-This report contains the 72 most recent unlabelled issues requiring initial triage. The goal is to ensure we achieve [partial triage](/handbook/engineering/quality/issue-triage#partial-triage) before the issue is picked up by a Product Manager and Engineering Manager in that area.
+This is a daily generated report that contains the most recent unlabelled issues requiring initial triage. Currently, the number of issues indexed is based on the number of active Quality Department Engineering Managers for that day. This is 4 items per active Manager, so at most 16 items per day. The goal is to ensure we achieve [partial triage](/handbook/engineering/quality/issue-triage#partial-triage) before the issue is picked up by a Product Manager and Engineering Manager in that area.
 
-* Triage owner: Quality Department Engineers.
+* Triage owner: Quality Department Managers
 * Triage action: Follow the instructions in the triage report.
   * Enlist help as needed by mentioning folks in the [#triage](https://gitlab.slack.com/messages/C39HX5TRV) slack channel.
-  * Example: [https://gitlab.com/gitlab-org/gitlab-ce/issues/57834](https://gitlab.com/gitlab-org/gitlab-ce/issues/57834)
+  * Example: <https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/5362>
 
 #### Manual creation
 
