@@ -36,7 +36,7 @@ We will benefit from tooling efficiency together and broaden visiblity of demo d
 1. Identify differences and gaps between demo and test data 
 1. Publish Demo/Test data structure in the handbook along with identified future DRIs
 1. Provision first 3 versions of test/demo data on all developer used test environments (staging,review apps and GDK)
-
+1. Outline plan for Demo data on Reference Architecture playbook to enhance team enablement
 
 ### Roles and Responsibilities
 
