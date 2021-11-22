@@ -56,11 +56,21 @@ Most of these fields can be source from gitlab_dotcom_ci_builds, and related tab
 
 Data is sourced from GitLab.com.
     
-#### Entity Relationship Diagrams, Data Flows and Table Definitions
+### Related Data Artifacts
 
-| Diagram/Entity                                                                                              | Grain | Purpose | Keywords |
-| ------------------------------------------------------------------------------------------------------------| ----- | ------- | -------- |
-| [Product Usage Data ERD](https://lucid.app/lucidchart/232217df-3928-4756-bab5-ff5d9e9f8e1d/view?page=AD~qmCVo1T~c#) |  All of the below | Shows all table structures, including column name, column data type, column constraints, primary key, foreign key, and relationships between tables.| Customer, Usage Ping, Subscription, Seat Link, Self- Managed, SaaS, Product, Delivery, Accounts |
+The Data Team maintains these Data artifcats related to CI Runner Activity :
+
+- **ERD**
+    - The [CI Runner Activity Physical Data Model](https://lucid.app/lucidchart/fe967fe7-5cb8-4a83-96f6-17ba824275b9/edit?beaconFlowId=3414471839151653&invitationId=inv_2c1487d9-d40c-4cda-b983-198344a56a7d&page=csqmM_lDyM2l#) shows all table structures, including column name, column data type, column constraints, primary key, foreign key, and relationships between tables that are used for the data.
+
+<br>
+- **Data Fow Diagram**
+   - The [CI Runner Activity Data Flow diagram](https://lucid.app/lucidchart/fe967fe7-5cb8-4a83-96f6-17ba824275b9/edit?beaconFlowId=3414471839151653&page=0_0&invitationId=inv_2c1487d9-d40c-4cda-b983-198344a56a7d#) provides a high level overviw of how the Data flows in to the `fact model` - [fct_ci_runner_activity](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ci_runner_activity) and `Mart models` - [mart_ci_runner_activity_daily](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_ci_runner_activity_daily) and [mart_ci_runner_activity_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_ci_runner_activity_monthly) from `Prep/Intermediate` and other `Dimension` tables. 
+<br>
+
+- **Table Definitions**
+
+
 
 ## Self-Service Capabilities
 
@@ -74,13 +84,9 @@ The data solution delivers three [Self-Service Data](/handbook/business-technolo
 
 From a Data Platform technology perspective, the solution delivers:
 
-1. Gainsight Data Pump - EDW to Gainsight and Gainsight to EDW
-1. An extension to the Enterprise Dimensional Model for Product Usage data
+1. An extension to the Enterprise Dimensional Model for CI Runner Activity data
 1. Testing and data validation extensions to the Data Pipeline Health dashboard
-1. ERDs, dbt models, and related platform components
-
-
-
+1. ERD, Data Flow diagam, dbt models, and related platform components
 
 
 ### Quick Links
@@ -93,72 +99,6 @@ From a Data Platform technology perspective, the solution delivers:
    <a href="https://www.youtube.com/watch?v=Fdl6mdlp1-Y&amp;feature=youtu.be" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Self Service Walk-through Video</a>
 </div>
 <br><br><br><br><br><br><br><br><br>
-
-### Data Security Classification
-
-Much of the data within and supporting the Product Usage Data is [Orange](/handbook/engineering/security/data-classification-standard.html#orange) or [Yellow](/handbook/engineering/security/data-classification-standard.html#yellow). This includes ORANGE customer metadata from the account, contact data from Salesforce and Zuora and GitLab's Non public financial information, all of which shouldn't be publicly available. Care should be taken when sharing data from this dashboard to ensure that the detail stays within GitLab as an organization and that appropriate approvals are given for any external sharing. In addition, when working with row or record level customer metadata care should always be taken to avoid saving any data on personal devices or laptops. This data should remain in [Snowflake](/handbook/business-technology/data-team/platform/#data-warehouse) and [Sisense](/handbook/business-technology/data-team/platform/periscope/) and should ideally be shared only through those applications unless otherwise approved.
-
-  
-**ORANGE**
-
-- Description: Customer and Personal data at the row or record level.
-- Objects:
-  - `dim_crm_account`
-  - `dim_billing_account`
-  - `dim_ip_to_geo`
-  - `dim_location`
-
-**YELLOW**
-
-- Description: GitLab Financial data, which includes aggregations or totals.
-- Objects:
-  - `dim_subscriptions`
-  - `prep_recurring_charge`
-
-### Solution Ownership
-
-- Source System Owner:
-    - Usage Ping: `@jfarris`
-    - Salesforce: `@jbrennan1`
-- Source System Subject Matter Expert:
-    - Usage Ping: `@jfarris`
-    - Gainsight:  `@jbeaumont`
-    - Salesforce: `@jbrennan1`
-- Data Team Subject Matter Expert: `@rparker` `@snalamaru`
-
-### Key Terms
-
-1. [Customer](/handbook/sales/sales-term-glossary/#customer)
-1. [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping/)
-1. [GitLab Self-Managed Subscription](https://docs.gitlab.com/ee/subscriptions/self_managed)
-1. [GitLab SaaS subscription](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#gitlab-saas-subscription)
-1. [Seat Link](https://docs.gitlab.com/ee/subscriptions/self_managed/#seat-link)
-1. [Product Category, Product Tier, Delivery](/handbook/marketing/strategic-marketing/tiers/#overview)
-1. [Version Check](/handbook/sales/process/version-check/)
-1. Billable Members: [API](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group), [Definition](https://docs.gitlab.com/ee/subscriptions/self_managed/#billable-users), EDM Field Name: `billable_user_count`
-1. Active Users: [Customer Docs](https://docs.gitlab.com/ee/user/admin_area/index.html#users-statistics), [Metric Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html#active_user_count), EDM Field Name: `active_user_count`
-
-### Key Metrics, KPIs, and PIs
-
-1. [Data Mart - Metric Definitions](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=0)
-1. [Event-based Metrics](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
-1. [User-based Metrics](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
-1. [Stage and Group Performance Indicators](https://about.gitlab.com/handbook/product/stage-and-group-performance-indicators/)
-1. [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/)
-
-
-### Metric Formats
-
-1. **User-based metrics**: # of users who performed an action/event
-   - Last 28 days
-   - Last 7 days
-     - Example: "# of users who completed a merge request in the last 28 days"
-1. **Event-based metrics**: # of [actions performed]
-1. **Total counts** # of [events/attributes/users]
-   1. Example: "# of runners" or "# of auto_devops_enabled projects"
-1. **Indicator Metrics**: Whether an attribute is true or false
-   1. Example: "Whether shared runners are enabled or not"
-1. **Power user metrics**: # of users who did this action, and this action, and that action
 
 
 ## Self-Service Data Solution
@@ -179,32 +119,6 @@ A great way to get started building charts in Sisense is to watch this 10 minute
 - Aggregated metrics for all time frame are present in the count top level key, with the aggregate_ prefix added to their name.
 - The underlying tables for Gainsight's consumption are built on the set of all Zuora subscriptions that are associated with a Self-Managed rate plans. Seat Link data from Customers DB is combined with high priority Usage Ping metrics to build out the set of facts included in this table.Tthe most recently received and the latest Usage Ping (by created_at date for a given subscription_id) and Seat Link (by dim_subscription_id) payload from each month are reported.
 
-
-
-
-
-#### Reference SQL
-
-| Snippet Library                                                                                                            | Description |
-| -------------------------------------------------------------------------------------------------------------------------- | -------- |
-| |  |
-
-## Data Platform Solution
-
-### Gainsight Data Pump
-
-
-
-#### EDW to Gainsight Data Pump:
-
-The Data Team has leveraged the native capabilities in Gainsight to read data from the Snowflake Enterprise Data Warehouse. The Data Team has build a read-only mart-level table for Gainsight to access and it will contain all of the data currently available. Over time as the Data Team adds more metrics or customer segments, this table will automatically be refreshed with the additional data. This “interface” is called the `Gainsight Data Pump`.
-
-#### Gainsight to Snowflake Data Pipeline:
-
-The Data Team to develop a new source data pipeline from Gainsight into Snowflake to include new custom objects and data created in Gainsight to increase the usage ping match rate, among other improvements.
-
-The diagram [Product Usage data developemental Streams](https://lucid.app/lucidchart/232217df-3928-4756-bab5-ff5d9e9f8e1d/view?page=UJ-bqxNqcUw2#)
-illustrates our development approach for managing the delivery of Self-Managed and SaaS Product Usage to Gainsight.
 
 ## Trusted Data Solution
 
