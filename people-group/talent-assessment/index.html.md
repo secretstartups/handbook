@@ -416,7 +416,7 @@ After calibration sessions are done and performance and growth factors are deter
     * Provide specific examples for both strengths and improvement areas. The [SBI](/handbook/people-group/guidance-on-feedback/#s-b-i-model) (Situation - Behavior - Impact) model can be effective for delivering examples structured in a way that makes impact clear to team members. 
     * Think about recommendations and/or focus areas for a team member’s development
 
-_To help facilitate the conversations we have put together a [Talent Assessment Template](https://docs.google.com/document/d/1XT1l1STUBilDdVGHXlCcmSE5ApxwVqO1Ln4Wk8e1Fpk/edit) which can be shared with the team member. The use of the template is highly recommended, but optional._
+**To help facilitate the conversations we have put together a [Talent Assessment Template](https://docs.google.com/document/d/1XT1l1STUBilDdVGHXlCcmSE5ApxwVqO1Ln4Wk8e1Fpk/edit) which can be shared with the team member. The use of the template is highly recommended, but optional.**
 
 1. **Schedule a separate call or repurpose your [1:1](https://about.gitlab.com/handbook/leadership/1-1/) to discuss a team member’s performance factor**. The performance and growth factors should be communicated at the beginning of the meeting. This allows the team member time to ask questions, discuss their assessment, and most importantly, determine next steps.
 
