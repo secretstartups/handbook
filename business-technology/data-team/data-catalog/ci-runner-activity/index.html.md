@@ -12,7 +12,7 @@ title: "CI Runner Activity"
 ---
 ## CI Runner Activity
 
-Previosly, there wasn't an easy way to tie cost directly to CI usage without making assumptions. And the process was not scalable, so a better solution was needed for thr future.
+Previously, there wasn't an easy way to tie cost directly to CI usage without making assumptions. And the process was not scalable, so a better solution was needed for thr future.
 
 For this purpose, a Unified model for CI Minutes/Cost has been created as a part of [Enterprise Dimensional Model](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) that ties the cost from app usage table (postgres) to `gcp_billing` and labels our runners in GCP with `job_id` labels to join to `ci_builds` table.
 
