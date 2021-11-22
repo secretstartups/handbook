@@ -56,210 +56,39 @@ pages under the "Categories" header) is the single source of truth on where we'r
 
 
 #### Prioritization
-
-Our priorities should follow [overall guidance for Product](/handbook/product/product-processes/#how-we-prioritize-work). This should be reflected in the priority label for scheduled issues:
-
-| Priority | Description | Probability of shipping in milestone |
-| ------ | ------ | ------ |
-| priority::1 | **Urgent**: top priority for achieving in the given milestone. These issues are the most important goals for a release and should be worked on first; some may be time-critical or unblock dependencies. | ~100% |
-| priority::2 | **High**: important issues that have significant positive impact to the business or technical debt. Important, but not time-critical or blocking others.  | ~75% |
-| priority::3 | **Normal**: incremental improvements to existing features. These are important iterations, but deemed non-critical. | ~50% |
-| priority::4 | **Low**: stretch issues that are acceptable to postpone into a future release. | ~25% |
+<!-- TODO: Would like to remove this and keep it on the group pages instead -->
+<%= partial("handbook/engineering/development/dev/manage/prioritization.erb") %>
 
 #### Organizing the work
 
-We generally follow the [Product Development Flow](/handbook/product-development-flow/#workflow-summary):
-1. `workflow::problem validation` - needs clarity on the problem to solve
-1. `workflow::design` - needs a clear proposal (and mockups for any visual aspects)
-1. `workflow::solution validation` - needs refinement and acceptance from engineering
-1. `workflow::planning breakdown` - needs a Weight estimate
-1. `workflow::scheduling` - needs a milestone assignment
-1. `workflow::ready for development`
-1. `workflow::in dev`
-1. `workflow::in review`
-1. `workflow::verification` - code is in production and pending verification by the DRI engineer
-
-Generally speaking, issues are in one of two states:
-* Discovery/refinement: we're still answering questions that prevent us from starting development,
-* Implementation: an issue is waiting for an engineer to work on it, or is actively being built.
-
-Basecamp thinks about these stages in relation to the [climb and descent of a hill](https://www.feltpresence.com/hills.html).
-
-While individual groups are free to use as many stages in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) workflow as they find useful, we should be somewhat prescriptive on how issues transition from discovery/refinement to implementation.
-
-##### Backlog management
-
-Backlog management is very challenging, but we try to do so with the use of labels and milestones.
-
-###### Refinement
-
-**The end goal is defined,** where all direct stakeholders says “yes, this is ready for development”. Some issues get there quickly, some require a few passes back and forth to figure out.
-
-The goal is for engineers to have buy-in and feel connected to the roadmap. By having engineering included earlier on, the process can be much more natural and smooth.
-
-To do so, engineering managers, engineers, and designers can be pinged directly from the issue. We're currently exploring [converting the Manage project into a group](https://gitlab.com/gitlab-org/manage/-/issues/16983) to be able to create groups to more easily ping group members.
-
-To find issues that require refinement, please see the [Next Up](#next-up) label and its purpose.
-
-###### Next Up
-
-* To identify issues that need refinement, use the "Next Up" label.
-  * The purpose of the "Next Up" label is to identify issues that are currently in _any_ workflow stage before `workflow::ready for development`. By using this "Next Up" label in addition to workflow labels, we're able to see exactly what is being refined, e.g., problem, design, solution. This helps identify which issues are closer to being ready to schedule.
-* Issues shouldn't receive a milestone for a specific release (e.g. 13.0) until they've received a 👍 from both Product and Engineering. This also means the issue should not be labeled as `workflow::ready for development`.
-  * Product approval is represented by an issue moving into `workflow::planning breakdown`.
-  * Engineering approval is represented by an issue weight measuring its complexity.
-
-###### Directional Milestones
-
-Directional milestones indicates a level of intent on whether or not an issue will be scheduled in short/mid/long-term segments. They are also indicative to the level of refinement and "shovel-readiness" of a given feature or topic, i.e., something planned 3+ releases for now is likely very unrefined and not likely to be scheduled or implemented any time soon.
-
-It's important to remember that these are **not hard commitments**, and that this should be communicated with any stakeholders that may be sensitive to seeing an issue get scheduled into a milestone other than "Backlog".
-
-For issues that are actually being committed to the short-term roadmap, please refer to [Next Up](#next-up)
-
-The utility in direction milestones is helping to segment the backlog and form a sort of roadmap. See the [Import Roadmap](https://gitlab.com/groups/gitlab-org/-/boards/1459561?label_name[]=group%3A%3Aimport) board for an example.
-
-Examples of directional milestones include:
-
- - Next 1-3 releases
- - Next 4-7 releases
- - Next 7-13 releases
-
-##### Breaking down or promoting issues
-
-Depending on the complexity of an issue, it may be necessary to break down or promote issues. A couple sample scenarios may be:
-
-- We need to do discovery on the design, before we do anything else. A "Discovery:" issue may work best here as it helps to contain the design thinking and discussion there, with the end result being transferred over to a "Implementation:" issue. These prefixes also help to organize what type of issue they are, in the case they are linked to parent issues or epics.
-- The scope of work is larger than anticipated, and needs to be broken down further, e.g., it currently has a weight higher than 5. It may suit you to then promote said issue to an epic, to break it down into smaller issues to list out the different iterations or phases of work that need to happen to deliver the overall feature that was originally proposed.
-- The scope of work is clear, but a bit unwieldy for one issue. It may make sense to keep the given issue as is, to keep the conversation and activity visible to everyone, but create separate child design, backend, or frontend issues to track the more nuanced progress of a given issue.
-
-If none of the above applies, then the issue is probably fine as-is! It's likely then that the weight of this issue is quite low, e.g., 1-2.
-
-##### Managing discussions, information, decisions, and action items in an issue.
-
-As part of [breaking down or promoting issues](#breaking-down-or-promoting-issues), you may find that there are a significant number of threads and comments in a given issue.
-
-It's very important that we make sure any proposal details, pending action items, and decisions are easily visible to any stakeholder coming into an issue. Therefore, it's paramount that the issue description is kept up-to-date, or otherwise broken down or promoted as per the above section.
+<!-- TODO: Would like to remove this and keep it on the group pages instead -->
+<%= partial("handbook/engineering/development/dev/manage/organizing_work.erb") %>
 
 #### Estimation
 
-Before work can begin on an issue, we should estimate it first after a preliminary investigation.
-
-If the scope of work of a given issue touches several disciplines (docs, design, frontend, backend, etc.) and involves significant complexity across them, consider creating separate issues for each discipline (see [an example](https://gitlab.com/gitlab-org/gitlab-ee/issues/9288)).
-
-Issues without a weight should be assigned the "workflow::planning breakdown" label.
-
-When estimating development work, please assign an issue an appropriate weight:
-
-| Weight | Description (Engineering) |
-| ------ | ------ |
-| 1 | The simplest possible change. We are confident there will be no side effects. |
-| 2 | A simple change (minimal code changes), where we understand all of the requirements. |
-| 3 | A simple change, but the code footprint is bigger (e.g. lots of different files, or tests affected). The requirements are clear. |
-| 5 | A more complex change that will impact multiple areas of the codebase, there may also be some refactoring involved. Requirements are understood but you feel there are likely to be some gaps along the way. We should challenge ourselves to break this issue in to smaller pieces. |
-| 8 | A complex change, that will involve much of the codebase or will require lots of input from others to determine the requirements. These issues will often need further investigation or discovery before being `~workflow::ready for development` and we will likely benefit from multiple, smaller issues. |
-| 13 | A significant change that may have dependencies (other teams or third-parties) and we likely still don't understand all of the requirements. It's unlikely we would commit to this in a milestone, and the preference would be to further clarify requirements and/or break in to smaller Issues. |
-
-As part of estimation, if you feel the issue is in an appropriate state for an engineer to start working on it, please add the ~"workflow::ready for development" label. Alternatively, if there are still requirements to be defined or questions to be answered that you feel an engineer won't be able to easily resolve, please add the ~"workflow::blocked" label. Issues with the `workflow::blocked` label will appear in their own column on our planning board, making it clear that they need further attention. When applying the `workflow::blocked` label, please make sure to leave a comment and ping the DRI on the blocked issue and/or link the blocking issue to raise visibility.
-
-##### Implementation Approach
-
-For engineers, you may want to create an implementation approach when moving an issue out of `~workflow::planning breakdown`. A proposed implementation approach isn't required to be followed, but is helpful to justify a recorded weight.
-
-As the DRI for `workflow::planning breakdown`, consider following the example below to signal the end of your watch and the issues preparedness to move into scheduling. While more straightforward issues that have already been broken down may use a shorter format, the plan should (at a minimum) always justify the "why" behind an estimation.
-
-The following is an example of an implementation approach from [https://gitlab.com/gitlab-org/gitlab/-/issues/247900#implementation-plan](https://gitlab.com/gitlab-org/gitlab/-/issues/247900#implementation-plan). It illustrates that the issue should likely be broken down into smaller sub-issues for each part of the work:
-
-```md
-### Implementation approach
-
-~database
-
-1. Add new `merge_requests_author_approval` column to `namespace_settings` table (The final table is TBD)
-
-~"feature flag"
-
-1. Create new `group_merge_request_approvers_rules` flag for everything to live behind
-
-~backend
-
-1. Add new field to `ee/app/services/ee/groups/update_service.rb:117`
-1. Update `ee/app/services/ee/namespace_settings/update_service.rb` to support more than just one setting
-1. *(if feature flag enabled)* Update the `Projects::CreateService` and `Groups::CreateService` to update newly created projects and sub-groups with the main groups setting
-1. *(if feature flag enabled)* Update the Groups API to show the settings value
-1. Tests tests and more tests :muscle:
-
-~frontend
-
-1. *(if feature flag enabled)* Add new `Merge request approvals` section to Groups general settings
-1. Create new Vue app to render the contents of the section
-1. Create new setting and submission process to save the value
-1. Tests tests and more tests :muscle:
-```
-
-Once an issue has been estimated, it can then be moved to `workflow::scheduling` to be assigned a milestone before finally being `workflow::ready for development`.
+<!-- TODO: Would like to remove this and keep it on the group pages instead -->
+<%= partial("handbook/engineering/development/dev/manage/estimation.erb") %>
 
 #### Planning
 
-We plan in monthly cycles in accordance with our [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline). While meeting this timeline is up to the discretion of individual groups, a typical planning cycle is suggested to look like:
-
-* By the 4th, Product should have created a planning issue for their group in the [Manage project](https://gitlab.com/gitlab-org/manage/issues) for the coming release.
-  * This issue should include a tentative plan for the release, along with links to boards that represent the proposed work for the milestone. Please see examples from [Fulfillment](https://gitlab.com/gitlab-org/fulfillment-meta/issues/37), [Manage](https://gitlab.com/gitlab-org/manage/issues/65), and [Create](https://gitlab.com/gitlab-org/create-stage/issues/33)!
-  * Issues without estimates should have the `workflow::planning breakdown` label applied to make estimation easier and be marked for the coming release as `Deliverable`. Issues of particular significance to our stage's strategy should be marked with `direction`.
-  * At this stage, the Product Manager applies the `quad-planning::ready` label to all `feature` issues and assigns them to the SET counterpart for the group.
-  * To review the proposed scope and kick start estimation, synchronous meetings with Engineering and Design are recommended.
-* By the 12th, all planned issues proposed for the next release should be estimated by engineering (`workflow:ready for development`).
-  * To assist with capacity planning, we track the cumulative weight of closed issues over the past 3 releases on a rolling basis. The proposed scope of work for the next release should not exceed 80% of this to account for slippage from the previous release.
-  * After estimation, Product should make any needed adjustments to the proposed scope based on estimates. A synchronous meeting to review the final release scope is recommended.
-* By the 20th, Product should review the release that just concluded development (currently, we transition development work from one release to the next on the 18th) for issues that slipped from the milestone. Please evaluate issues that weren't merged in time and reschedule them appropriately.
+<!-- TODO: Would like to remove this and keep it on the group pages instead -->
+<%= partial("handbook/engineering/development/dev/manage/planning.erb") %>
 
 #### During a release
 
-* When an issue is introduced into a release after Kickoff, an equal amount of weight must be removed to account for the unplanned work.
-* Development should not begin on an issue before it's been estimated and given a weight.
-* By the 15th, engineering merge requests should be merged. In other words, we assume code merged after the 15th will not be in the release. That allows time for the release to be finalized, and any associated [Release Posts](https://about.gitlab.com/handbook/marketing/blog/release-posts/) to be merged by the 17th. (This is an [experiment starting with 13.11](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17330).)
+<!-- TODO: Would like to remove this and keep it on the group pages instead -->
+<%= partial("handbook/engineering/development/dev/manage/release.erb") %>
 
 #### Proof-of-concept MRs
 
-We strongly believe in [Iteration](/handbook/values/#iteration) and delivering value in small pieces. Iteration can be hard, especially when you lack product context or are working in a particularly risky/complex part of the codebase. If you are struggling to estimate an issue or determine whether it is feasible, it may be appropriate to first create a proof-of-concept MR. The goal of a proof-of-concept MR is to remove any major assumptions during planning and provide early feedback, therefore reducing risk from any future implementation.
-
-* Create an MR, prefixed with `PoC: `.
-* Explain what problem the PoC MR is trying to solve for in the MR description.
-* Timebox it. Can you determine feasibility or a plan in less than 2-3 days?
-* Identify a reviewer to provide feedback at the end of this period.
-* Close the MR. Provide a summary in the original issue on what you learned from the PoC, including product and performance implications.
-  * State whether you are able to move forwards with implementation or not.
-  * Please do not close the issue.
-
-The need for a proof-of-concept MR may signal that parts of our codebase or product have become overly complex. It's always worth discussing the MR as part of the retrospective so we can discuss how to avoid this step in future.
+<!-- TODO: Would like to remove this and keep it on the group pages instead -->
+<%= partial("handbook/engineering/development/dev/manage/pocs.erb") %>
 
 ### Working on unscheduled issues
 
-Everyone at GitLab has the freedom to manage their work as they see fit,
-because [we measure results, not hours](/handbook/values/#measure-results-not-hours). Part of this is the
-opportunity to work on items that aren't scheduled as part of the
-regular monthly release. This is mostly a reiteration of items elsewhere
-in the handbook, and it is here to make those explicit:
+<!-- TODO: Would like to remove this and keep it on the group pages instead -->
+<%= partial("handbook/engineering/development/dev/manage/unscheduled_issues.erb") %>
 
-1. We expect people to be [managers of one](/handbook/values/#managers-of-one), and we [use
-   GitLab ourselves](/handbook/values/#dogfooding). If you see something that you think
-   is important, you can request for it to be scheduled, or you can
-   [work on a proposal yourself](/handbook/values/#dont-wait), _as long as you keep your
-   other priorities in mind_.
-2. From time to time, there are events that GitLab team-members can participate
-   in, like the [issue bash](https://about.gitlab.com/community/issue-bash/). Anyone is welcome
-   to participate in these.
-
-When you pick something to work on, please:
-
-1. Follow the standard workflow and assign it to yourself.
-2. Share it in `#s_manage` to encourage [transparency](/handbook/values/#transparency)
-
-### Retrospectives
-
-After the Kickoff, the Manage stage conducts an [asynchronous retrospective](/handbook/engineering/management/team-retrospectives/) on the prior release. You can find current and past retrospectives for Manage in [https://gitlab.com/gl-retrospectives/manage/issues/](https://gitlab.com/gl-retrospectives/manage/issues/).
-
-We're currently exploring group-specific retrospectives, in order to create a private and safe environment for group members to share thoughts, feedback, and concerns amongst group members they work more often with.
 
 ### Career Development
 
@@ -277,102 +106,25 @@ It can be hard to understand how you're doing in your role, because feedback can
 
 ### Group Access - additional considerations
 
-#### Code Review
+<!-- TODO: Would like to remove this and keep it on the group pages instead -->
+<%= partial("handbook/engineering/development/dev/manage/access_processes.erb") %>
 
-Access works on components of the application that have a far-reaching impact. Because only a simple change can cause widespread support tickets and/or production incidents, there is less room for error which requires us to take these extra steps:
-
-1. Access merge requests will be assigned to another Access engineer for first review in order to build more institutional knowledge across the team
-1. Access merge requests will include a comment that needs answered before merging, "Should this be behind a feature flag?" This is an effort to remind engineers about feature flag usage, but also to challenge reasoning as to why changes do not need to be behind a feature flag.
-1. Merge requests that are specific to Linear Namespaces will require a feature flag with gradual rollouts, either by grouping the work behind a single flag or by using multiple flags
-
-
-#### Security Rota
-
-The Access group are responsible for several product categories that attract a significant amount of scrutiny from a security perspective. An outcome of this is that we see a higher number of new security issues being created compared to other groups, which over time has caused the security backlog to grow. To help tackle the backlog, from milestone 13.3, we will assign 2 Backend Engineers per milestone to a security rota.
-
-The goal of this new process is to achieve more consistent progress in [burning through the backlog](https://app.periscopedata.com/app/gitlab/695525/Manage::Access-Backend-Overview). Historically we have focussed on solving high severity (severity::1/severity::2) issues, while trying to maintain a pragmatic balance with other concerns in the team - but this hasn't been effective in reducing the overall backlog. By dedicating capacity each milestone we can separate the planning of security issues from the main milestone goals, with the aim of introducing a more optimal process.
-
-Engineers who are part of the rota should work from [this board](https://gitlab.com/groups/gitlab-org/-/boards/1816615).
-
-| Release | Start Date | First Engineer | Second Engineer |
-|---:|---|---|---|
-| 13.3 | 17th July 2020 | [mksionek](https://gitlab.com/mksionek) | [dblessing](https://gitlab.com/dblessing) |
-| 13.4 | 17th August 2020 | [ifarkas](https://gitlab.com/ifarkas) | [manojmj](https://gitlab.com/manojmj)  |
-| 13.5 | ~28th September 2020 | [alexpooley](https://gitlab.com/alexpooley) | - |
-| 13.6 | ~26th October 2020 | [ifarkas](https://gitlab.com/ifarkas) | [manojmj](https://gitlab.com/manojmj) |
-| 13.7 | ~23rd November 2020 | [mksionek](https://gitlab.com/mksionek) | [sarcila](https://gitlab.com/sarcila) |
-| 14.0 | ~23rd May 2021 | [mksionek](https://gitlab.com/mksionek) | [dblessing](https://gitlab.com/dblessing) |
-| 14.1 | ~23rd June 2021 | [mksionek](https://gitlab.com/mksionek) | [dblessing](https://gitlab.com/dblessing) |
-| 14.2 | ~23rd July 2021 | [mksionek](https://gitlab.com/mksionek) | [dblessing](https://gitlab.com/dblessing) |
-| 14.3 | ~23rd August 2021 | | [serenafang](https://gitlab.com/serenafang) | [dblessing](https://gitlab.com/dblessing) |
-| 14.4 | ~23rd September 2021 | | [serenafang](https://gitlab.com/serenafang) |
-
-More information about security rota can be found [here](/handbook/engineering/development/dev/manage/security-rota/).
-
-#### Refinement
-
-To help with milestone planning, we encourage asynchronously weighing issues to help get them `ready for development`.
-
-1. Engineering Managers will review the refinement board (see links below) on a weekly basis.
-1. Each Engineer is assigned a few issues per week from the board to be weighed as per the [estimation](#estimation) process. Where possible, the people closest to the problem will be assigned.
-1. The Engineer assesses issue to determine if it is `workflow:ready for development` or not. Clarifying questions are asked on the issue. Product Manager adjusts description and scope as needed. This process may take a few days and the objective is to have an issue defined well enough to be estimated.
-1. Once all questions are answered and the issue description is updated, Engineering assigns a weight to the issue.
-1. To encourage collaboration, the Engineer will pick someone else from the team (at random) to review the discussion.
-1. If the reviewer is happy with the weight and scope they will set the `workflow:ready for development` label. Alternatively they should raise their concerns in the issue. If the proposal is changed, the issue description should be updated.
 
 ### Group Compliance - additional considerations
 
-#### Include a "Require separate implementation issues" section
-
-The Compliance group would like to include an experimental section in issue descriptions. The section gives the author the opportunity to specify whether or not an issue requires subsequent implementation issues.
-￼
-In previous milestones, we've found that it's easy to miss linked implementation issues. In most cases, less complex issues already have a detailed implementation plan. In other cases, there may be links to follow-up issues. Other issues may be promoted to epics with the issues contained within the epic.
-￼
-We think that a dedicated section in issue descriptions, such as the following, would help:
-
-```
-### Does this issue require subsequent implementation issues?
-
-Yes/No
-```
+<!-- TODO: Would like to remove this and keep it on the group pages instead -->
+<%= partial("handbook/engineering/development/dev/manage/compliance_processes.erb") %>
 
 ### Group Import - additional considerations
 
-While group Import follows the Manage's process described above, we utilize additional flows that help us better prepare issues for scheduling into milestones.
+<!-- TODO: Would like to remove this and keep it on the group pages instead -->
+<%= partial("handbook/engineering/development/dev/manage/import_processes.erb") %>
 
-#### Issue Prioritization
-
-The Import group does not use the `~priority::x` labels. Instead, we use `~milestone::px` labels.
-
-#### Issue Triage
-
-_Note: We are currently iterating on a more formal process to improve communication and set more accurate expectations when handling customer escalations: [Escalation Triage Process](/handbook/engineering/development/dev/manage/import/escalation-triage-process)_.
-
-In order to assign an [incoming issue](/handbook/engineering/quality/triage-operations/#triage-reports) to a milestone or close it, the product manager may require input from the engineers.
-
-To facilitate an asynchronous triage question and answer flow, the issue is labeled with the `triage question` label and the team members are invited into a thread where the question is discussed. Any team member can answer the question and mention the product manager in the answer. If the product manager has enough information to triage the issue, the `triage question` label is removed and the issue is assigned to the appropriate milestone or closed as infeasible.
-
-#### Issue Refinement
-
-For an issue to be deemed `workflow::ready for development`, the issue goes through a refinement stage, where the engineers, the product manager, and other stable counterparts are able to evaluate the issue, ask any clarifying questions, and discuss potential approaches. At the end of that conversation, the issue can be deemed `workflow::ready for development`, marked for further breakdown or even canceled if determined not feasible. As the team creates context around the issue, they also estimate the weight during this phase.
-
-To place an issue into refinement, the issue is labeled with `workflow::refinement` so it appears in the relevant list on our [kanban board](https://gitlab.com/groups/gitlab-org/-/boards/2013571). To ensure a steady flow of work that is ready for development, engineers should attempt to refine an issue that is `workflow::refinement` before picking up their next `workflow::ready for development` issue. For issues with high urgency, issues can be assigned directly to engineers asking them to complete the refinement process as a top priority so it can be moved to `workflow::ready for development` faster.
-
-Our refinement process is asynchronous and encourages input from all team members. We vote (using emojis) whether the issue is ready for development or not. Any "no" votes are explained and further discussed in comments until the vote becomes a "yes", or the issue is removed from consideration.
-
-Emojis are also used to vote for the issue weight. Any outlier votes are discussed in comments until a compromise is reached. Large estimates are also discussed to determine if the issue can be broken down further.
-
-If the issue has all "yes" votes and has a weight estimate, it is deemed `workflow::ready for development`.
 
 ### Group Optimize - additional considerations
 
-#### Capacity planning
-
-During planning we don't plan 100% of the team's capacity to go into deliverable work each milestone. Instead, we reserve a buffer of 15% per team member to allow for more time to research and scope work.
-
-#### Documentation
-
-Documentation is a crucial part of our [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done). For any change that requires documentation, we may create a separate documentation issue that is linked to both backend and frontend issues. The frontend issue should be blocked by the documentation issue to prevent it from being closed prematurely. Backend will create a first draft and pass it on to frontend for adding screenshots and additional UI information if needed. The documentation MR and the feature MR(s) need to be merged in the same milestone.
+<!-- TODO: Would like to remove this and keep it on the group pages instead -->
+<%= partial("handbook/engineering/development/dev/manage/optimize_processes.erb") %>
 
 ### Group Workspace - additional considerations
 
