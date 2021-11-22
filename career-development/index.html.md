@@ -565,21 +565,21 @@ Since collective exceptions within a department will at some point impact overal
 
 All exceptions should be documented in a handbook page local to the product group or in an issue/epic, and linked to the table below. This process is established as of March 2021 and may not reflect all existing product group situations. At any point when additional exceptions are required, just start an MR to add them per the steps noted above.
 
-| **Team** | **Department** | **Ratio** | **Link** |
-|---------------|----------------|-----------|----------|
-| Scalability Team | Infrastructure | 2 Staff+ : Team | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#scalability-team-ic-gearing) |
-| Delivery Team | Infrastructure | 3 Staff+ : Team | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#delivery-team-ic-gearing) |
-| Staff Security Engineer Application Security | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517284925) |
-| Staff Security Engineer Red Team | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517282157) |
-| Staff Security Engineer Security Research | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517284355)|
-| Engineering Data Analyst |Quality| 2 : Team | Hyperlink TBD |
-| Distribution Team | Development | 2 Staff+ : Team | [Distribution Team Page](/handbook/engineering/development/enablement/distribution/#team-ic-gearing) |
-| Geo Team | Development | 2 Staff+ : Team | [Geo Team Page](/handbook/engineering/development/enablement/geo/) |
-| Vulnerability Research | Development | 2 Staff+ : Team | [Issue](https://gitlab.com/gitlab-org/secure/general/-/issues/155) |
-| Create:Editor Team | Development | 2 Staff+ : Team | [Editor Team Page](/handbook/engineering/development/dev/create-editor/#team-ic-gearing) |
-| Sharding Team | Development | 4 Staff+ : Team | [Sharding Team Page](/handbook/engineering/development/enablement/sharding/#team-ic-gearing) |
-| Engineering Productivity Team | Quality | 2 Staff+ : Team | [Engineering Produtivity Team Page](/handbook/engineering/quality/engineering-productivity/#team-ic-gearing) |
-| Protect:Container Security and Secure:Threat Insights | Development | 2 Staff+ : Team | N/A |
+| **Team**                                     | **Department** | **Amount** | **Link** |
+|----------------------------------------------|----------------|------------|----------|
+| Scalability Team                             | Infrastructure | 2 Staff+   | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#scalability-team-ic-gearing) |
+| Delivery Team                                | Infrastructure | 3 Staff+   | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#delivery-team-ic-gearing) |
+| Staff Security Engineer Application Security | Security       | 2 Staff+   | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517284925) |
+| Staff Security Engineer Red Team             | Security       | 2 Staff+   | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517282157) |
+| Staff Security Engineer Security Research    | Security       | 2 Staff+   | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517284355) |
+| Engineering Data Analyst                     | Quality        | 2 Staff+   | Hyperlink TBD |
+| Distribution Team                            | Development    | 2 Staff+   | [Distribution Team Page](/handbook/engineering/development/enablement/distribution/#team-ic-gearing) |
+| Geo Team                                     | Development    | 2 Staff+   | [Geo Team Page](/handbook/engineering/development/enablement/geo/) |
+| Vulnerability Research                       | Development    | 2 Staff+   | [Issue](https://gitlab.com/gitlab-org/secure/general/-/issues/155) |
+| Create:Editor Team                           | Development    | 2 Staff+   | [Editor Team Page](/handbook/engineering/development/dev/create-editor/#team-ic-gearing) |
+| Sharding Team                                | Development    | 4 Staff+   | [Sharding Team Page](/handbook/engineering/development/enablement/sharding/#team-ic-gearing) |
+| Engineering Productivity Team                | Quality        | 2 Staff+   | [Engineering Produtivity Team Page](/handbook/engineering/quality/engineering-productivity/#team-ic-gearing) |
+| Container Security & Threat Insights         | Development    | 2 Staff+   | N/A |
 
 ### Opportunity
 It is not the intent of these gearing ratios to limit individual opportunity for advancement although it is acknowledged that at full staff capacity this situation could occur.
