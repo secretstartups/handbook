@@ -579,7 +579,7 @@ All exceptions should be documented in a handbook page local to the product grou
 | Create:Editor Team                           | Development    | 2 Staff+   | [Editor Team Page](/handbook/engineering/development/dev/create-editor/#team-ic-gearing) |
 | Sharding Team                                | Development    | 4 Staff+   | [Sharding Team Page](/handbook/engineering/development/enablement/sharding/#team-ic-gearing) |
 | Engineering Productivity Team                | Quality        | 2 Staff+   | [Engineering Produtivity Team Page](/handbook/engineering/quality/engineering-productivity/#team-ic-gearing) |
-| Container Security & Threat Insights         | Development    | 2 Staff+   | N/A |
+| Container Security & Threat Insights         | Development    | 2 Staff+   | [Justification](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/94321#rationale-for-exception) |
 
 ### Opportunity
 It is not the intent of these gearing ratios to limit individual opportunity for advancement although it is acknowledged that at full staff capacity this situation could occur.
