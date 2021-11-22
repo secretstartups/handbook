@@ -364,6 +364,8 @@ There is a `covid19` database, which is a shared database managed through the Sn
 
 There is a `testing_db` database, which is used for testing Permifrost.
 
+There is a `bi_tool_eval` database, which is used for testing bi tooling. Users are able create own testing sets manually. 
+
 All databases not defined in our [`roles.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml) Permifrost file are removed on a weekly basis.
 
 | Database | Viewable in Sisense |
