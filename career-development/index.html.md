@@ -579,6 +579,7 @@ All exceptions should be documented in a handbook page local to the workgroup or
 | Create:Editor Team | Development | 2 Staff+ : Team | [Editor Team Page](/handbook/engineering/development/dev/create-editor/#team-ic-gearing) |
 | Sharding Team | Development | 4 Staff+ : Team | [Sharding Team Page](/handbook/engineering/development/enablement/sharding/#team-ic-gearing) |
 | Engineering Productivity Team | Quality | 2 Staff+ : Team | [Engineering Produtivity Team Page](/handbook/engineering/quality/engineering-productivity/#team-ic-gearing) |
+| Protect:Container Security and Secure:Threat Insights | Development | 2 Staff+ : Team | N/A |
 
 ### Opportunity
 It is not the intent of these gearing ratios to limit individual opportunity for advancement although it is acknowledged that at full staff capacity this situation could occur.
