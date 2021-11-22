@@ -258,11 +258,13 @@ Also, if this is your first time conducting interviews on behalf of GitLab I wi
 As always, If you have any questions let me know!
 Thanks, xxx
 
-### Reqs going Outbound to Inbound 
+### Publishing jobs to LinkedIn
 
-Once it's been decided that the req is ready to go inbound, the recruiter should follow the steps below to ensure the job shows up correctly on 3rd party job boards.
+All jobs created in Greenhouse are setup to be automatically posted to LinkedIn using their job wrapping feature.
 
-If the job should only be advertised in a specific country (e.g. Japan, Germany), the LinkedIn Job Wrapping codes are not necessary. LinkedIn will pull the specific country from the `Publish to Free Job Boards` location within Greenhouse. 
+If the job should only be advertised in a specific country (e.g. Japan, Germany), the LinkedIn Job Wrapping codes are not necessary. Simply list the job as location = "Remote, Country". 
+
+- Do not select the option to `Publish to Free Job Boards` within Greenhouse as this information will override the location information. 
 
 If the job is regional (e.g. APAC, EMEA, LATAM), recruiters can make sure it is added to LinkedIn by following the steps below:
 
@@ -274,14 +276,13 @@ If the job is regional (e.g. APAC, EMEA, LATAM), recruiters can make sure it is 
 - GitLab team members can review [job wrapping tags here](https://docs.google.com/spreadsheets/d/1CrrPGk3imxrap7Na3AQTQ0lmw2ENyZ51/edit?usp=sharing&ouid=100237668635376025864&rtpof=true&sd=true)
 - Click Ok
 
-If multiple tags are added to the description, please enter the additional tag on a new line. For example:
+### Publishing jobs to Indeed and Glassdoor
 
-`<div><span style="font-size: xx-small;"><span style="color: white;">Remote-EMEA</span></span></div>`
-`<div><span style="font-size: xx-small;"><span style="color: white;">Remote-North America</span></span></div>`
+Our jobs are now set up to automatically go to Indeed and Glassdoor and be posted as remote roles on both sites.
 
-While tags are not visible on the Greenhouse posting, they will appear when viewed on LinkedIn. So, please, be mindful of how many tags are added to any one particular requisition.
+Recruiters should unselect or leave unselected the option in Greenhouse to "publish to free job boards" as this requires us to input city, state, and country data that overrides the remote job listing. There is an automation in place to automatically send jobs to Indeed and Glassdoor.
 
-Once the LinkedIn coding is complete, the CES will make the external job post live.
+
 
 ### Publishing Vacancies on External Job Boards
 
