@@ -21,7 +21,8 @@ For this purpose, a Unified model for CI Minutes/Cost has been created as a part
 - Cost of All CI Pipelines run in gitlab-org-gitlab project in January 2021
 - Average Cost per pipeline for all GitLab.com CI usage
 - Count of CI pipelines run by namespace X last month
-- Count and Cost of CI minutes run in project X over past year.
+- Count of CI minutes run in project X over past year
+- Cost of CI minutes run in project X over past year
 
 ### Key Field Descriptions
 
