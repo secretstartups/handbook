@@ -1,0 +1,32 @@
+---
+layout: handbook-page-toc
+title: Guidelines on public discussion of competitor product features
+description: "Guidelines applicable to discussion of competitor product features and sharing of screenshots of competitor products in public issues and other public-facing media."
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Scope
+
+These Guidelines apply to all discussion of competitor product features and sharing of screenshots of competitor products in public issues and other public-facing forums, whether initiated, or shared, by team members or members of the GitLab community.
+
+These Guidelines do not apply to discussions and sharing of screenshots in confidential issues, or on platforms only accessible to GitLab team members like [MURAL](https://about.gitlab.com/handbook/engineering/ux/ux-resources/#tools).
+
+"**Screenshots**" when used in these Guidelines means screenshots and screen recordings, wherever obtained, including those taken from publicly-available sources like YouTube videos and competitor or third-party websites, and directly from competitor products themselves.
+
+## Dos and don’ts
+
+Do:
+* Initiate, and engage in, general discussions about competitor product features. For example, a discussion about the advantages and disadvantages of collaborate.ly's new implementation of merge commit messages, which includes screenshots of collaborate.ly's product obtained from publicly-available sources, is permissible. 
+* Share screenshots of competitor products for the purpose of illustration and commentary  when initiating or engaging in general discussions about competitor product features.
+* Engage in general discussions about competitor product features in response to screenshots shared by community members.
+* Reach out to [#legal](https://app.slack.com/client/T02592416/C78E74A6L) with any questions.
+
+Do not:
+* Publicly share screenshots of competitor products without commentary or critical analysis.
+* Initiate, or engage in, discussions proposing plans or suggesting that there are plans to directly copy competitor product features verbatim, whether or not such discussions include screenshots of competitor products. For example, discussion of a proposal to copy verbatim collaborate.ly's implementation of merge commit messages is not permissible. 
+* Publicly share screenshots of competitor products taken from free trials, or free or paid access to such products.
