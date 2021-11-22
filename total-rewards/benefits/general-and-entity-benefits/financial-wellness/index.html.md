@@ -20,7 +20,7 @@ If you have any great resources that you have used in the past, please feel free
 
 [**Modern Health Money Management Circle:**](#modern-health) GitLab will be offering a **Money Management Circle** through Modern Health with an emphasis on the psychological component of Financial Wellness.
 * **When:** 2021-11-22 at 8:30 am PT.
-* **Recording:** Once recorded, a link will be added to this handbook section for team members to view asynchronously.
+* **[Recording](https://www.youtube.com/watch?v=YhoHMT94Mkg):**
 
 **Session Description:**
   * What does “wealth” mean to you? Understanding the psychology of money and wealth can help you achieve your financial goals. Join this session with a Modern Health provider to learn how to assess your financial situation and identify your financial values and self-identity.
