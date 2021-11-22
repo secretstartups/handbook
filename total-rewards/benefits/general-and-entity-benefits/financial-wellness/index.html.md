@@ -69,6 +69,8 @@ GitLab offers all team members the ability to work with an independent financial
 * Access to SageView’s communications
 * Financial Wellness Workshops hosted by SageView
 
+Please see the following [flyer](https://drive.google.com/file/d/1tAxGvQbstMfKO3m5JdciaKByumHOGPqa/view?usp=sharing) for more information and a link to schedule a consultation. 
+
 ### LinkedIn Learning
 
 Self Learning around money management is also available through the company sponsored [LinkedIn Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/) account.
