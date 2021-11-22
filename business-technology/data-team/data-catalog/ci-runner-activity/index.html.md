@@ -12,9 +12,9 @@ title: "CI Runner Activity"
 ---
 ## CI Runner Activity
 
-Previously, there wasn't an easy way to tie cost directly to CI usage without making assumptions. And the process was not scalable, so a better solution was needed for thr future.
+Previously, there wasn't an easy way to tie cost directly to CI usage without making assumptions. And the process was not scalable, so a better solution was needed for the future.
 
-For this purpose, a Unified model for CI Minutes/Cost has been created as a part of [Enterprise Dimensional Model](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) that ties the cost from app usage table (postgres) to `gcp_billing` and labels our runners in GCP with `job_id` labels to join to `ci_builds` table.
+For this purpose, a Unified model for **CI Minutes/Cost** has been created as a part of [Enterprise Dimensional Model](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) that ties the cost from app usage table (postgres) to `gcp_billing` and labels our runners in GCP with `job_id` labels to join to `ci_builds` table.
 
 ### Business Use Cases/Example KPIs:
 
@@ -27,9 +27,9 @@ For this purpose, a Unified model for CI Minutes/Cost has been created as a part
 ### Key Field Descriptions
 
 - `CI Build ID` 
-    - Sets granularity level of table at level of 1 GitLab job that runs (ci_builds table)
+    - Sets granularity level of table at level of a single GitLab job that runs (ci_builds table)
 - `CI Build Duration` 
-    - Currently calculated from start time -> end time of single job in ci_builds table   
+    - Currently calculated from start time -> end time of a single job in ci_builds table   
 - `Runner type` 
     - Determines whether GitLab pays for the runner cost or if it's hosted by user (ci_runners table)
 - `Project ID`
@@ -39,9 +39,9 @@ For this purpose, a Unified model for CI Minutes/Cost has been created as a part
 - `User ID`
     - Determines user that ran the job
 
-### Table Join Details
+### Table Relationship Details
 
-Most of these fields can be source from `gitlab_dotcom_ci_builds`, and related tables are linked to ci_builds as:
+Most of these fields can be sourced from `gitlab_dotcom_ci_builds`, and related tables are linked to `ci_builds` by using below relationships:
 - `ci_runners`: gitlab_dotcom_ci_builds.ci_build_runner_id -> gitlab_dotcom_ci_runners.runner_id
 - `ci_stages`: gitlab_dotcom_ci_builds.ci_build_stage_id -> gitlab_dotcom_ci_stages.ci_stage_id
     - ci_pipelines: gitlab_dotcom_ci_stages.pipeline_id -> gitlab_dotcom_ci_pipelines.ci_pipeline_id
@@ -56,10 +56,10 @@ Data is sourced from `GitLab.com` models.
     
 ### Related Data Artifacts
 
-The Data Team maintains these Data artifacts related to CI Runner Activity :
+The Data Team maintains these Data artifacts related to `CI Runner Activity` :
 
 - **ERD**
-   - The [CI Runner Activity Physical Data Model](https://lucid.app/lucidchart/fe967fe7-5cb8-4a83-96f6-17ba824275b9/edit?beaconFlowId=3414471839151653&invitationId=inv_2c1487d9-d40c-4cda-b983-198344a56a7d&page=csqmM_lDyM2l#) shows all table structures, including column name, column data type, column constraints, primary key, foreign key, and relationships between tables that are used for the data. 
+   - The [CI Runner Activity Physical Data Model](https://lucid.app/lucidchart/fe967fe7-5cb8-4a83-96f6-17ba824275b9/edit?beaconFlowId=3414471839151653&invitationId=inv_2c1487d9-d40c-4cda-b983-198344a56a7d&page=csqmM_lDyM2l#) shows all table structures, including column name, column data type, column constraints, primary key, foreign key, and relationships between tables that are used for this data. 
 <br>
 
 - **Data Flow Diagram**
@@ -67,14 +67,14 @@ The Data Team maintains these Data artifacts related to CI Runner Activity :
 <br>
 
 - **Table Definitions**
-   - [fct_ci_runner_activity](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ci_runner_activity) - Fact table containing quantitative data related to CI runner activity on GitLab.com. The grain of the table would be a single GitLab job that ran (successful or not) determined by `dim_ci_build_id` which is the unique key of each CI build.
+   - [fct_ci_runner_activity](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ci_runner_activity) - Fact table containing quantitative data related to CI runner activity on GitLab.com. The grain of the table would be a single GitLab job that ran (successful or not) determined by `dim_ci_build_id` which is the unique key for each CI build.
    - [mart_ci_runner_activity_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_ci_runner_activity_monthly) - Mart table containing quantitative data related to CI runner activity on GitLab.com. These metrics are aggregated at a monthly grain per `dim_namespace_id`. Additional identifier/key fields - `dim_ci_runner_id`, `dim_ci_pipeline_id`, `dim_ci_stage_id` have been included for Reporting purposes. Only activity since 2020-01-01 is being processed due to the high volume of the data.
    - [mart_ci_runner_activity_daily](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_ci_runner_activity_daily) - Mart table containing quantitative data related to CI runner activity on GitLab.com. These metrics are aggregated at a daily grain per `dim_project_id`. Additional identifier/key fields - `dim_ci_runner_id`, `dim_ci_pipeline_id`, `dim_ci_stage_id` have been included for Reporting purposes. Only activity since 2020-01-01 is being processed due to the high volume of the data.
 
    
 ## Self-Service Capabilities
 
-The data solution delivers three [Self-Service Data](/handbook/business-technology/data-team/direction/self-service/) capabilities:
+The data solution delivers two [Self-Service Data](/handbook/business-technology/data-team/direction/self-service/) capabilities:
 
 1. **Dashboard Developer**: The CI data related existing Sisense data models containing different widget charts now uses the complete dimensional model components built for CI Runner Activity data.
 1. **SQL Developer**: A [Enterprise Dimensional Model](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) subject area. Refer to the `R2A Objects` tab.
