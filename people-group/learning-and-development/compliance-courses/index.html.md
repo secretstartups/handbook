@@ -60,18 +60,10 @@ In the United States, the training requirements may vary. If the state varies fr
 
 | State     | Guidelines  | 
 |---------|-----------------|
-| California | - Within 6 months of hire date or assuming supervisory position
-- Nonsupervisory position - 1 hour of training
-- Supervisory position - 2 hours of training
-- All training must be completed every 2 years | 
-| Connecticut| - Within 6 months of hire date or assuming supervisory position
-- Everyone - 2 hours of training
-- "Periodic supplemental training at least every 10 years" | 
-| Delaware | - Required if there are 50 or more employees in the state
-- Within 1 year of hire date or assuming supervisory position
-- All training must be completed every 2 years | 
-| New York | - "As soon as possible"
-- All training must be completed annually | 
+| California | - Within 6 months of hire date or assuming supervisory position - Nonsupervisory position - 1 hour of training - Supervisory position - 2 hours of training - All training must be completed every 2 years | 
+| Connecticut| - Within 6 months of hire date or assuming supervisory position - Everyone - 2 hours of training - "Periodic supplemental training at least every 10 years" | 
+| Delaware | - Required if there are 50 or more employees in the state - Within 1 year of hire date or assuming supervisory position - All training must be completed every 2 years | 
+| New York | - "As soon as possible" - All training must be completed annually | 
 
 ### Processing Steps for L&D Team
 
