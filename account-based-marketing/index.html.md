@@ -115,7 +115,7 @@ Is our single source of truth (SSoT) for processes and relevant links
 {: #prioritization-boards}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-1. [ABM Team - Prioritization](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2532209?&label_name[]=mktg-demandgen)
+1. [ABM Team - Prioritization]()
    - At start of milestone, ensure that issues are in the proper category of prioritization. Align them to the [priority definitions](/handbook/marketing/account-based-marketing/#prioritization-labels).
    - Consider the time you have available in a 2 week period, recognizing meeting commitments and planned PTO.
    - Only add issues to account for 70% of your available work hours. Don't max out at 100% since there will likely be things that arise and need immediate attention throughout milestone.
@@ -124,6 +124,13 @@ Is our single source of truth (SSoT) for processes and relevant links
 1. [ABM Team - Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?milestone_title=%23started&)
    - Minimize the "Low" and "Medium" columns. Your focus should first be on the "Top" and "High" priority issues.
    - Prioritize completion of "Top" priority issues, then "High" priority issues.
+
+### Boards
+
+* [Overall ABM Prioritization](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536730?label_name[]=ABM)
+* [Current Milestone Prioritization](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536724?scope=all&label_name[]=ABM&assignee_username=megan_odowd)
+   - [Megan's Current Milestone Priorities](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536724?scope=all&label_name[]=ABM&assignee_username=megan_odowd)
+   - [Christina's Current Milestone Priorities](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536724?scope=all&label_name[]=ABM&assignee_username=cmcleod516) 
 
 ### Labels
 {: #labels}
@@ -190,3 +197,7 @@ Note on timelines: Requests will be committed to as bandwidth permits. Please se
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 To be added
+
+## Budgeting
+
+Allocadia
