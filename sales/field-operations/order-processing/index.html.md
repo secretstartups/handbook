@@ -36,7 +36,7 @@ This page outlines the Quote to Cash process. Topics include account and opportu
     *   [ARR Calculation Guide](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)
     *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     *   [Security Questionnaire Process](/handbook/engineering/security/#process)
-    *   [Troubleshooting: True Ups, Licenses + EULAS](/handbook/business-ops/business_systems/portal/troubleshooting/)
+    *   [Troubleshooting: True Ups, Licenses + EULAS](https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions)
     *   [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/)
     *   [Legal Authorization Matrix](/handbook/finance/authorization-matrix/)
     *   [Trade Compliance](/handbook/business-ops/trade-compliance/)
@@ -1478,7 +1478,7 @@ Sales-support does not have the ability to:
 
 #### When to contact Customer Support:
 
-The customer support team is here to resolve technical errors related to the customers subscription. [**DO NOT GO TO CUSTOMER SUPPORT** for License issues until you have read this page](/handbook/business-ops/business_systems/portal/troubleshooting)
+The customer support team is here to resolve technical errors related to the customers subscription. [**DO NOT GO TO CUSTOMER SUPPORT** for License issues until you have read this page](https://about.gitlab.com/handbook/support/internal-support/#should-i-contact-gitlab-support)
 
 Please check out the support page[/handbook/support/#gitlab-support-service-levels] for indepth information on how to contact the team. Spoiler alert, you will need to open an issue or the customer needs to open a Support ticket.
 
