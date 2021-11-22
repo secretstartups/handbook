@@ -15,8 +15,8 @@ canonical_path: "/company/team/structure/working-groups/demo-test-data-efficienc
 
 | Property        | Value           |
 |-----------------|-----------------|
-| Date Created    | TBD |
-| Target End Date | TBD |
+| Date Created    | Dec 1st 2021 |
+| Target End Date | Feb 22nd 2022  |
 | Slack           | TBD |
 | Google Doc      | TBD |
 | Task Board      | TBD |
