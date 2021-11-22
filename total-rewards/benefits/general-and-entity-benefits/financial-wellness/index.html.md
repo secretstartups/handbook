@@ -42,7 +42,7 @@ GitLab will be hosting a kickoff call with SageView to discuss an overview of th
 * **When:** 2021-11-22 at 8 am PT and 4 pm PT
 * **Recording:** Once recorded, a link will be added to this handbook section for team members to view asynchronously.
 
-**Session Description:**
+**[Session Description](https://drive.google.com/file/d/1rPc_7iCiZV33BMuoithOlaJefeWNYgAK/view?usp=sharing):**
   * The specifics of Financial Wellness are different for everyone, but the common underlying theme is similar for most; identify your resources and utilize your opportunities in a way that gives you both peace of mind and the highest likelihood of achieving your financial goals.”
    * This will be an introductory call for GitLab team members to ask questions about SageView’s Financial Wellness Benefit. A general agenda is as follows:
      * Intro by GitLab & Overview of Sageview
