@@ -70,7 +70,7 @@ In the United States, the training requirements may vary. If the state varies fr
 | Delaware | - Required if there are 50 or more employees in the state
 - Within 1 year of hire date or assuming supervisory position
 - All training must be completed every 2 years | 
-| New York | I- "As soon as possible"
+| New York | - "As soon as possible"
 - All training must be completed annually | 
 
 ### Processing Steps for L&D Team
