@@ -123,7 +123,7 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 
 1. For Tax Certificate requests please email the Finance team at [tax@gitlab.com](mailto:tax@gitlab.com)
 2. For Insurance Certificate requests please work with the Deal Desk team by tagging @sales-support in SFDC Chatter.  
-3. Regarding GitLab financial information (e.g., annual statements, equity ownership...etc) please note that GitLab is a private company and does not share this information with Customers.  
+3. Regarding GitLab financial information, GitLab is a public company and its public filings can be found on SEC.gov or on [GitLab's Investor Relations website](https://ir.gitlab.com/financial-information/sec-filings)
 
 
 ## How to get a Data Processing Addendum (DPA) signed
