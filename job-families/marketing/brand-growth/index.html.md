@@ -52,6 +52,8 @@ The senior brand manager reports to the Manager, Brand Strategy and Growth.
 
 The Staff Brand Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+**Market Justification:** The Staff Brand Manager provides a high level of expertise in brand, marketing, and strategy to develop integrated marketing campaigns in an effort to increase GitLab’s brand awareness. Additionally, this role is specialized due to industry experience required to collaborate with high-profile individuals, agencies, executives, and other senior stakeholders. This role will help shape GitLab’s brand through collaboration and iteration. A comparable role at GitLab is the [Staff Brand Designer](https://about.gitlab.com/job-families/marketing/brand-designer/#staff-brand-designer).
+
 #### Staff Brand Manager Responsibilities
 
 * Identify how our brand is currently positioned in the market and develop a reporting process to document the progress of our brand
