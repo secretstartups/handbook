@@ -48,10 +48,11 @@ The following factors are considered when allocating in the issue:
 - The listed Tasks are split  fairly
 - The use of PEA/POps Task Tracker to divide certain tasks
 
-**The PEA will complete the below tasks within the designated SLA**
+**The PEA Team will complete the below tasks within the designated SLA**
 - Verification Of Employment 
 - Anniversary Queries
 - Other requests that come through the People-Exp email. 
+- Referral Bonus Audit 
 
 #### Allocations for Onboarding
 
