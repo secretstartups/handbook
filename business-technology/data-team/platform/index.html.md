@@ -70,7 +70,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 
 | [Data Source](/handbook/business-technology/data-team/platform/pipelines) | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO| MNPI | 
 |------------:|:--------:|:---------:|:--------:|:-------:|:--------:|:--------:|
-| Adaptive | Meltano | `tap_adaptive` | | Finance | | Yes | 
+| [Adaptive](https://www.adaptiveplanning.com/) | [Meltano]() | `tap_adaptive` | | Finance | | Yes | 
 | [Airflow](https://airflow.apache.org/) | [Stitch](https://www.stitchdata.com/) | `airflow_stitch` | `airflow` |  Data Team | 24h / 24h | No |
 | [BambooHR](https://www.bamboohr.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `bamboohr` | `sensitive` | People | 12h / 24h | No |
 | Clearbit | x | x | x | x / x | | No |
