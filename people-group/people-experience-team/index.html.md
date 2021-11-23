@@ -11,12 +11,14 @@ description: "This page lists all the processes and agreements for the People Ex
 {:toc .hidden-md .hidden-lg}
 
 # People Experience Team
+{: #People Experience Team .gitlab-purple}
 
 This page lists all the processes and agreements for the People Experience team. 
 
 If you need our attention, please feel free to ping us on issues using `@gl-people-exp`.
 
 # People Experience Team Availability
+{: #People Experience Team Availability .gitlab-purple}
 
 Holidays with no availability for onboarding/offboarding/career mobility issues:
 
@@ -34,6 +36,7 @@ When going out of office, the People Experience Associate will open a PEA Handov
 1. For confidential items/tasks, please create a Google doc, share with the team, and link to the issue.
 
 # People Experience Team Processes
+{: #People Experience Team Processes .gitlab-purple}
 
 The People Experience Associate will attempt to solve queries within the specific time zones and relevant SLA's. 
 
