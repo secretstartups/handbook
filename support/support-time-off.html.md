@@ -136,7 +136,7 @@ Groom your queue before going on PTO. As guidelines cannot cover every case, thi
    - The status text should contain one of the following strings: 'OOO', 'PTO', 'Parental Leave', or 'Friends and Family'
    - And the emoji should be one of the following: `:palm_tree:`, `:beach:`, `:beach_umbrella:`, `:beach_with_umbrella:`, `:ferris_wheel:`, `:thermometer:`, `:face_with_thermometer:`, `:red_circle:`, `:bulb:`, `:sun_with_face:`.
 
-#### Holiday time off ticket management
+## Holiday time off ticket management
 
 Guidance around ticket handling over holiday time off is slightly different.
 
