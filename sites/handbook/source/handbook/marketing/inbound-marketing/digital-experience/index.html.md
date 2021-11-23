@@ -332,15 +332,16 @@ We love collaborating on work that drives our North Star and supporting metrics.
 <details>
     <summary>Related Pages</summary>
     <ul>
-      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/digital-definitions/">Digital_Definitions</a></li>
-      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/engineering-ab-tests/">Engineering_AB_Tests</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/data-dictionary/">Data Attribute Dictionary</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/digital-definitions/">Digital Definitions</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/engineering-ab-tests/">Engineering AB Tests</a></li>
       <li><a href="/handbook/marketing/inbound-marketing/digital-experience/engineering-marketo/">Engineering Marketo</a></li>
-      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/foundations-agenda/">Foundations_Agenda</a></li>
-      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/writing-description-templates/">How_to_Write_Templates</a></li>
-      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/">Image_Guidelines</a></li>
-      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/marketo-page-template/">Marketo_Page_Template</a></li>
-      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/slippers-design-system/">Slippers_Design_System</a></li>
-      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/video-bands/">Video_Bands</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/foundations-agenda/">Foundations Agenda</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/writing-description-templates/">How to Write Templates</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/">Image Guidelines</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/marketo-page-template/">Marketo Page Template</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/slippers-design-system/">Slippers Design System</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/video-bands/">Video Bands</a></li>
       <li><a href="/handbook/marketing/inbound-marketing/digital-experience/website/">Website</a></li>
       <li><a href="/handbook/marketing/inbound-marketing/digital-experience/figma/">Figma Process</a></li>
       <li><a href="/handbook/marketing/inbound-marketing/digital-experience/onetrust-cookie-consent/">OneTrust Implementation</a></li>
