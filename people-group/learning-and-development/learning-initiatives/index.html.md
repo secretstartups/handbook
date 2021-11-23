@@ -339,9 +339,9 @@ This is the list of topics that will be the focus in FY22. Each skill of the mon
 - August: Career Development
 - September: Manager of One
 - October: Emotional Intelligence
-- November: [topic TBD]
-- December: [topic TBD]
-- January: [topic TBD]
+- November: Gratitude and Recognition
+- December: Resilience and Reflection
+- January: Team Member Wellbeing
 
 ### Organizing a Skill of the Month 
 
