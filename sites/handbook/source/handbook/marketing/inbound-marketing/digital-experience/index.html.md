@@ -164,6 +164,8 @@ We release every 2 weeks, always on a Wednesday. We can push MRs at any time but
 
 Before a sprint starts, our team aligns on what will be delivered during the sprint. We identify issues that need to be written, write them, then add them to our boards and weight them.
 
+There is always a chance that a team member's sprint plan will change during the meeting. 
+
 **Weighting**
 
 We use issue weight to plan and manage our work. Team members are not held to weights, they’re simply a planning and learning tool. Digital Experience weights are based on the following point scale: 1pt = .5 day. In a full two-week sprint, we plan to deliver 20 points per team member.
@@ -171,6 +173,9 @@ We use issue weight to plan and manage our work. Team members are not held to we
 **Agenda**
 
 We use our [Sprint Planning document](https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit#heading=h.aa7av9szmk5t) for our planning meetings.
+
+Team members plan a majority of their sprint async before the sprint planning meeting. If you have an issue or project that needs to get done in the upcoming sprint, place it in the **"Unassigned"** section. Please add a link to the issue and when it needs to be delivered. It is recommended to add these items to the sprint planning doc by the Friday before Monday's sprint planning meeting. This will enable team members to work efficiently while planning their sprints Monday morning.
+
 
 <figure class="video_container">
  <iframe src="https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit?usp=sharing"></iframe>
