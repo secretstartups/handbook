@@ -143,9 +143,27 @@ kubectl apply -f kube_secret_cloud_sql.yaml
 kubectl apply -f kube_secret_meltano_db.yaml
 # This will create secret tap-secrets
 kubectl apply -f kube_secret_tap_secrets.yaml
-Once all are created to check the list of secret created use below command
-kubectl get secrets --namespace=meltano
+
 # Below should be the output.
+secret/airflow-db created
+secret/airflow created
+secret/cloud-sql created
+secret/meltano-db created
+secret/tap-secrets created
+
+#Once all are created to check the list of secret created use below command
+kubectl get secrets --namespace=meltano
+
+# Output could be similar to below
+
+NAME                  TYPE                                  DATA   AGE
+airflow               Opaque                                0      6s
+airflow-db            Opaque                                0      15s
+cloud-sql             Opaque                                0      4s
+default-token-5m8lq   kubernetes.io/service-account-token   3      39s
+meltano-db            Opaque                                0      3s
+tap-secrets           Opaque                                0      1s
+
 ```
 
 Step 3: Edit each of the secret and add the key:value to them. For each one of them the value is stored in 1 password as a file. We need open it and paste the required section from there. Below is the mapping of each secret file and secret name under which it is stored in 1password under `meltano_secret`.
