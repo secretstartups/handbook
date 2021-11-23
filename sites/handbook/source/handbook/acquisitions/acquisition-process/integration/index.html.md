@@ -44,7 +44,7 @@ The DRI for the integration stage is the Dir. Corporate Development. This will c
 
 ### People integration
 
-1. 2 months after the new team members have joined GitLab, the [acquisition employee survey](https://docs.google.com/document/d/19unq7wVuZLiMklvvTxfRkV3NhI6gm_B6u5ipGUhxP9E/edit) should be sent by the People Ops Business Partner through CultureAmp
+1. 2 months after the new team members have joined GitLab, the [acquisition team member survey](https://docs.google.com/document/d/19unq7wVuZLiMklvvTxfRkV3NhI6gm_B6u5ipGUhxP9E/edit) should be sent by the People Ops Specialist through CultureAmp
 
 ### Field enablement
 
