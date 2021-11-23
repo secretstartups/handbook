@@ -74,6 +74,10 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 - [#mktgops](https://gitlab.slack.com/archives/mktgops) - We use this channel for general marketing operations support, weekly marketing operations team standup updates, and key system status updates. We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration. 
 - [#hbupdate-mktgops](https://gitlab.slack.com/archives/mktgops) - This channel is used to automatically post new [handbook updates](#handbook-updates) that have been merged. 
 
+**Salesforce**
+
+We are working on a Salesforce chatter handle to support Marketing team requests. More info to come.
+
 **Emergency Comms and Pager Duty**
 
 If an emergency communication needs to be send out, Marketing Ops will need to assist. Follow directions on this [page](/handbook/marketing/emergency-response/) to initiate the emergency response. You can also follow the [security incident communication plan](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html) for security related issues.
