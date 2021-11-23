@@ -28,6 +28,7 @@ description: "GitLab Data Team Platform"
 - [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/)
 - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
 - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
+- [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/)
 
 ## <i class="fas fa-cubes fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Our Data Stack
 
@@ -70,7 +71,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 
 | [Data Source](/handbook/business-technology/data-team/platform/pipelines) | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO| MNPI | 
 |------------:|:--------:|:---------:|:--------:|:-------:|:--------:|:--------:|
-| [Adaptive](https://www.adaptiveplanning.com/) | [Meltano]() | `tap_adaptive` | | Finance | | Yes | 
+| [Adaptive](https://www.adaptiveplanning.com/) | [Meltano](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/#TAP-ADAPTIVE) | `tap_adaptive` | | Finance | | Yes | 
 | [Airflow](https://airflow.apache.org/) | [Stitch](https://www.stitchdata.com/) | `airflow_stitch` | `airflow` |  Data Team | 24h / 24h | No |
 | [BambooHR](https://www.bamboohr.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `bamboohr` | `sensitive` | People | 12h / 24h | No |
 | Clearbit | x | x | x | x / x | | No |
