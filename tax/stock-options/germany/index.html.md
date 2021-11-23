@@ -21,12 +21,12 @@ The "spread": Difference between the Offer Price and Exercise Price
 ### Subject to tax withholding?
 GitLab must withhold income tax on the taxable amount and remit by the 10th day of the month following the month in which the taxable event occurs. EUR 360 of the taxable amount may be exempt from income tax withholding (see below).
 
-- Maximum Income Tax Rate: 45% on annual income greater than EUR 265,327 (single taxpayer)
-- Solidarity surcharge of 5.5% (solidarity surcharge may be repealed) and church surtax at 8% or 9%
+- Maximum Income Tax Rate: 45% on annual income greater than EUR 277,826 (single taxpayer, 2022)
+- Solidarity surcharge of up to 5.5% and if applicable church surtax at 8% or 9%
 - The total maximum income tax rate is therefore 51.525%
 - Maximum income tax rate does not take into account that church tax qualifies as a deductible special expense.
 
-An employee may be able to deduct EUR 360 per year from the taxable amount provided the equity award was offered in a uniform manner to all employees working for the employer for at least one year and the employee has not already used this deduction in connection with other acquisitions of GitLab shares during the calendar year. GitLab should confirm whether this tax deduction applies to the employee to determine the appropriate tax withholding amount. Income tax is imposed at a rate of 14% to 42% on annual income between EUR 9,169 to EUR 265,326.
+An employee may be able to deduct EUR 1,440 per year from the taxable amount provided the equity award was offered in a uniform manner to all employees working for the employer for at least one year and the employee has not already used this deduction in connection with other acquisitions of GitLab shares during the calendar year. GitLab should confirm whether this tax deduction applies to the employee to determine the appropriate tax withholding amount. Income tax is imposed at a rate of 14% to 42% on annual income between EUR 9,984 to EUR 277,826 (single taxpayer, 2022).
 
 ### Social Insurance Contribution Withholding?
 Yes (capped)
@@ -41,15 +41,15 @@ Yes (capped)
 GitLab must withhold estimated employee social insurance contributions and remit both employee and employer estimated social insurance contributions by the third bank working day before the end of the month in which the taxable event occurs; any unpaid social insurance contributions should be remitted with the following month's contributions.
 
 Employee Rate:
-- On annual income up to EUR 80,400(West German states) / EUR 73,800 (East German States)
+- On annual income up to EUR 84,600 (West German states) / EUR 81,00 (East German States)
 - Old age pension 9.3%
 - Unemployment 1.25%
 - In addition, on annual income up to EUR 54,450:
-- Home Care Insurance 1.525% (plus 0.25 % for employees age 23 and older without children)
+- Home Care Insurance 1.525% (plus 0.35 % for employees age 23 and older without children)
 - Health Insurance 7.3% (+ 50 % of additional contribution if levied by the Health Insurance carrier).
 
 Employer Rate:
-- On annual income up to EUR 80,400 (West German states) / EUR 73,800 (East German States)
+- On annual income up to EUR 84,600 (West German states) / EUR 81,00 (East German States)
 - Old age pension 9.3%
 - Unemployment 1.25%
 - In addition, on annual income up to EUR 54,450
