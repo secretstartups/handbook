@@ -140,7 +140,7 @@ Groom your queue before going on PTO. As guidelines cannot cover every case, thi
 
 Guidance around ticket handling over holiday time off is slightly different.
 
-**If you are planning to take holiday time off:**
+#### If you are planning to take holiday time off
 1. Please do your best to resolve any assigned tickets you have in your queue.
 1. Communicate with your customers to let them know you’ll be away, and when they can expect you to return. 
     - Many of our customers may likely be on the same holiday schedule and will be fine with resuming work on a ticket when you both return.
