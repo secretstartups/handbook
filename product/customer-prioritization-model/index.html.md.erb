@@ -1,0 +1,168 @@
+---
+layout: handbook-page-toc
+title: "Customer Prioritization Model"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+
+The Customer Prioritization Model was developed as a way to measure customer and prospective customer demand for capabilities within GitLab. The page covers how the model works and how to interact and interpret the private dashboards that it powers.
+
+## Why
+
+1. Collaboration & Transparency -- Provide quantitative data at scale that enables various GitLab departments to evaluate and discuss customer and prospect needs in an "apples to apples" manner. 
+1. Efficiency -- Increase the efficiency of GitLab team members by leveraging a single model to replace many manual, tedious, and time-consuming processes.
+1. Results -- Provide a fair "influence economy" across all customers and prospects and keep the focus on delivering customer results.  
+
+## Dashboards 
+
+This model powers the following dashboards:
+
+- [User Request Issue Prioritization - Product](https://app.periscopedata.com/app/gitlab:safe-dashboard/951007/User-Request-Issue-Prioritization---Product)
+- [User Request Issue Prioritization - TAM / Customer View](https://app.periscopedata.com/app/gitlab:safe-dashboard/954237/User-Request-Issue-Prioritization---TAM-Customer-View)
+
+## How the model works
+
+The customer prioritization model is loosely based on concepts rooted in [cost of delay](https://en.wikipedia.org/wiki/Cost_of_delay). While ARR is a key input to determining value, the scores are derivitive measures and should not be conflated with the notion that if a given issue or epic is delivered, GitLab's ARR will increase by the derivative score amount. 
+
+The model consists of several key inputs:
+
+1. Linking an account to an issue/epic
+1. Account urgency 
+1. Account priority points
+1. Account ARR / Opportunity ARR
+1. Issue/Epic weight - If it is a single issue, the value found in the `weight` field. If it is an epic, the sum of the weights of all issues within the epic. 
+
+These inputs are used to calculate four key computed measurements where each builds on the value of the former:
+
+1. Account priority point value
+1. Score 
+1. Priority Score
+1. Weighted Priority Score
+
+The model is re-calculated on a daily basis to incorporate the dynamic nature of the inputs. Changes made to issues/epics on any given day will therefore not be reflected in the dashboards until the following day. 
+
+### Inputs
+
+#### Linking an account to an issue/epic
+
+[Use the feeedback template and Salesforce/Zendesk link](https://about.gitlab.com/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) to add a comment to the issue or epic in `gitlab-org` or any project within this group (ex: `/gitlab-org/gitlab`). For best results, only include one Salesforce or Zendesk link per comment.
+
+If you want to "unlink" an account from an issue or epic, simply remove the Salesforce or Zendesk link from the respective comment(s) on the issue or epic. 
+
+Edge cases worth highlighting:
+
+1. If there is no `~customer priority::` label, we assign a default value of `1`.
+1. There can only be one `~customer priority::` label per description or comment. If there are multiple Salesforce or Zendesk links referenced in the same comment or description, we will attribute the first `~customer priority::` label to the first link found. The other links will get the default value.
+1. If multiple comments or reference on an issue link to the same account or opportunity, the most recently updated comment is used.
+1. If an issue is marked as a duplicate of another issue, the GitLab team member will need to add the comment with the link and `~customer priority::` label to the respective open issue. 
+1. For completeness sake, `/gitlab-org/...` issues that are referenced in a customer's collaboration project creates an automated link between the account and the issue/epic, but the recommended path to take full advantage of the model is to add a comment directly to the `/gitlab-org/...` issue as `~customer priority::` can't be defined from a collaboration project. 
+
+#### Account Urgency
+
+Urgency is a function of a customer's [overall health as defined in Gainsight](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/) and their renewal date. 
+
+| Overall Health | Renewal > 18 mo. | Renewal > 12 mo. | Renewal > 6 mo. |
+|---------------|------------------|------------------|-----------------|
+| Unknown       | 1                | 1                | 1               |
+| Green         | 1                | 1                | 1               |
+| Yellow        | 1.5              | 2                | 2.5             |
+| Red           | 2                | 3                | 4               |
+
+#### Account Priority Points 
+
+You can think about a priority point representing a "vote" on an issue or epic. Each customer or prospective customer starts with a priority point pool of 0. When a Salesforce or Zendesk link is added to an issues or epic, we default to attributing 1 "vote" to the issue on the account's behalf. Optionally using the `~customer priority::2` through `~customer priority::10` label in the same comment as the Salesforce or Zendesk link provides a mechanism to cast additional votes (up to 10) on a single issue on the customer's behalf. There is no upper bound on how many priority points a customer can "vote" in total across all issues, but each point dilutes the customer or opportunity value that can be attributed to a given issue or epic.
+
+### Computed measures
+
+#### Account priority point value 
+
+The value of one priority point where the value is unique to each account as it represents a distribution of the account or opportunity ARR across their priority point pool. It is calculated by by counting the total number of priority points an account has across all issues and epics to which they are linked. 
+
+`account priority point value = account ARR / SUM(account priority points)`
+
+#### Score 
+
+The raw score of an issue or epic taking into account all priority points and their respective values from all accounts that are linked to the issue. This effectively represents all account ARR evenly distributed in across all linked issues in a non-duplicated manner.
+
+`account score = account priority points x account priority point value`
+
+`score = SUM(account score, account score, ...)`
+
+#### Priority Score 
+
+Similar to `Score` but adding the dimension of Account Urgency to the model. 
+
+`account score with urgency = account score x account urgency`
+
+`priority score = SUM(account score with urgency, account score with urgency, ...)`
+
+##### Practical Example
+
+`Awesome Co.` has an ARR value of $125,314 and an Account Urgency modifier of `3` given they have an Overall Health of red and a renewal date of > 12 months. They've been linked to the following six different issues:
+
+
+| Issue ID     | `~customer priority::`       | Score             | Priority Score | 
+|--------------|-----------------|------------------------|-----------------|
+| 1            | 8               | 50,126                 | 150,377         |
+| 2            | 3               | 18,797                 | 56,391          |
+| 3            | 5               | 31,329                 | 93,986          |
+| 5            | 1               | 6,266                  | 18,797          |
+| 6            | 3               | 18,797                 | 56,391          |
+| Account priority points       | 20      |                        |                 |
+| Account priority point value   | $125,314 / 20 = $6,266  |              |                 |
+| Account urgency  | 3          |                        |                 |
+
+
+`Awesome Co.` has an ARR value of $576,124 and an Account Urgency modifier of `1.5` given they have an Overall Health of yellow and a renewal date of > 18 months. They've been linked to the following five different issues:
+
+| Issue ID    | `~customer priority::`  | Score |  Priority Score     |
+|-------------|----------|------------|---------|
+| 1           | 2        | 54,869     | 82,303  |
+| 3           | 4        | 109,738    | 164,607 |
+| 4           | 4        | 109,738    | 164,607 |
+| 6           | 2        | 54,869     | 82,303  |
+| 7           | 9        | 246,910    | 370,365 |
+| Account priority points      | 21       |            |         |
+| Account priority point value  | 576,124 / 21 = $27,434 |            |         |
+| Account urgency | 1.5 | | |
+
+Now to get the priority score for each issue/epic, we aggregate the data from all the linked accounts: 
+
+| Issue ID | Score | Priority Score | Accounts |
+|-----------|------------|-------------|-----------|
+| 1         | 104,995    | 232,680     | Awesome Co., Beam Co.  |
+| 2         | 18,797     | 56,391      | Awesome Co.       |
+| 3         | 141,066    | 258,592     | Awesome Co., Beam Co.  |
+| 4         | 109,738    | 164,607     | Beam Co.       |
+| 5         | 6,266      | 18,797      | Awesome Co.       |
+| 6         | 73,666     | 138,695     | Awesome Co., Beam Co.  |
+| 7         | 246,910    | 370,365     | Beam Co.       |
+
+#### Weighted Priority Score 
+
+The priority score of the issue or epic that is inclusive of effort where effort is the weight of the issue or the sum of all issues within an epic. If there is no weight defined, the default value is 1. 
+
+`weighted priority score = priority score / weight`
+
+##### Practical Example
+
+Now we can layer `weighted priority score` to our previous `priority score` example:
+
+| Issue ID | Weight | Score | Priority Score | Weighted Priority Score | Accounts |
+|-----------|--------|------------|-------------|----------------------|-----------|
+| 1         | 3      | 104,995    | 232,680     | 77,560               | Awesome Co., Beam Co.  |
+| 2         | 8      | 18,797     | 56,391      | 7,049                | Awesome Co.       |
+| 3         | 13     | 141,066    | 258,592     | 19,892               | Awesome Co., Beam Co.  |
+| 4         | 5      | 109,738    | 164,607     | 32,921               | Beam Co.       |
+| 5         | 5      | 6,266      | 18,797      | 3,759                | Awesome Co.      |
+| 6         | 3      | 73,666     | 138,695     | 46,232               | Awesome Co., Beam Co.  |
+| 7         | 8      | 246,910    | 370,365     | 46,296               | Beam Co.       |
+
+In the above example, working on `Issue ID: 1` first would most likely be the best choice because it has the the most value relative to effort. 
+
+
