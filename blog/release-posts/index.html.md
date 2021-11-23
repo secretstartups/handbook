@@ -337,7 +337,7 @@ The release post manager posts in Slack channels most requently with reminders. 
 
 When communicating in either Slack `#release-post` or `#X-Y-release-post-prep` organize your announcements and requests via unique discussions threads to make it easier to track conversations. For example, avoid combining various reminders just because they fall on the same date when they address different topics. As a general rule, if there's is a unique task list item for the reminder in the MR template, that reminder should get its own separate post whether it is in Slack or the MR itself. Also, review GitLab's [effective slack communication](https://about.gitlab.com/handbook/communication/#slack) guidance.
 
-Sample post to executive stakehlders for review:
+Sample post to executive stakeholders for review:
 
 _`@Sid @Scott Williamson @Anoop Dawar` The 13.6 Release Post has been generated and can be reviewed at https://release-13-6.about.gitlab-review.app/releases/2020/11/22/gitlab-13-6-released/index.html
 
@@ -348,6 +348,20 @@ Currently there are no known issues/adjustments to the content but I know of one
 Here’s the 13.6 release post MR: https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/66652
 
 Cc `@Farnoosh @axil @Saumya Upadhyaya @Michael Karampalas`
+
+Other samples for posts include reminders and notices on any items that the Release post manager is taking: 
+
+```
+🎺 Hi team! Announcing a "last call" that no further contributions to the bugs, performance improvements, and usability improvements MRs will be taken after the 15th. Please get them in 🏃‍♂️ cc `@Farnoosh`
+```
+
+```
+Hey team, reminder that there are currently XX Open and Ready MRs targeting XX.X milestone (link to open MRs). Please take a moment to ask your EMs to merge or to move out the items that won't make milestone. 
+```
+
+```
+Hi all, I will be completing the final merge for the release post in the next 45 minutes-1 hour! I will be coordinating any activities with team members to resolve any problems that come up. cc @Farnoosh @Tech Advisor @TW Lead
+```
 
 The Developer Evangelism team will reach out to the release post manager in Slack #release-post following their [Release days process](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#release-days) when they need help responding to inquiries about content in the release post blog. These needs will primarily arise within the first week of going live with the blog. However, as Author for a specific release post, you may get pinged to help coordinate a response some weeks later as issues arise. You will usually just need to find the best DRI to handle the issue, often the PM of the release post item in question.
 
