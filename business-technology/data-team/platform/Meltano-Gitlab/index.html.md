@@ -181,54 +181,23 @@ kubectl delete  -f gitlab-app.yaml
 At this stage whole of production environment is up and running of meltano in GKE with latest configuration of all tap present in  `meltano.yml` . 
 
 
-
+## Development Guidelines for creation of branch and adding taps. 
 
 For new developed taps, we will create a new repository per tap, like the tap-zengrc or under different folder [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps).
-
-
-To update what extractors are being used, update the `meltano.yml` file in the main project [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano). Add a git tag after the change is merged and update the gitlab-app.yml kubernetes manifest to point to the new image.
+Once the development is done create a branch from the [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano), to update what extractors are being used, update the `meltano.yml` file. Add a git tag after the change is merged and update the gitlab-app.yml kubernetes manifest to point to the new image.
 
 Meltano uses Airflow internally and we use Cloud SQL as the metadata database. The [`meltano` database](https://console.cloud.google.com/sql/instances/meltano/overview?project=gitlab-analysis).
-```
-#Connect to the Kubernetes cluster from local(Prerequisites is Google cloud SDK installed). In case the command doesn't work then connect to GCP and select Cluster under Kubernetes and select connect to cluster. It will reveal the latest command. 
-gcloud container clusters get-credentials meltano-mashey --zone us-west1-a --project gitlab-analysis
-```
-Currently in the setup we have below secret defined in the cluster. 
-- cloud-sql
-- meltano-db
-- airflow
-- tap-secrets
-- airflow-db
 
 
+## Add extractor, Config variable and schedule to meltano setup to be used by TAPs 
 
+We have CI process in place for newly created taps or to update new variables config to existing Meltano taps. For this to work smoothly we need to create a branch from the [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano).
 
+Step 1:  Decide the unique variable name and add those variable values to the Kubernetes secret named `tap-secrets` in the [cluster](`https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/data-ops-meltano/details?project=gitlab-analysis`).  
+The command to edit the secret file is `kubectl edit secret tap-secrets  -o yaml --namespace=meltano`  
+It is standard base64 encoded values. Also ensure to update the document in the 1password `meltano_secret_tap_secrets` with the new key value which is being added as this will be required in case of environment provisioning. 
 
-### Exec into a container
-
-```
-kubectl exec -it gitlab-production-5dd4c79694-vwwtm  -c tap-xactly /bin/bash
-```
-**Notes:** The pod name might change so look for the pod name in either UI or  by using the command   `kubectl get pods`
-
-```
-# Applying the updated manifest does NOT require the namespace
-kubectl apply  -f gitlab-app.yaml
-```
-
-```
-# Delete the deployment of  namespace
-kubectl delete   -f gitlab-app.yaml
-```
-Watch the [video](https://youtu.be/H7m99t4IghM) on walkthrough of `Meltano setup in GKE` 
-
-## Add Config variable to meltano setup to be used by TAPs. 
-
-Whenever we need to pass on the config to Meltano taps. We need to do the below 5 activity.  
-
-1) Decide the unique variable name and add those variable values to the Kubernetes secret named `tap-secrets` in the [cluster](`https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/meltano-mashey/details?project=gitlab-analysis`).
-The command to edit the secret file is `kubectl edit secret tap-secrets  -o yaml `  
-2) Add those variables in the `gitlab-app.yaml` file using references like below. 
+Step 2: Add those variables in the `gitlab-app.yaml` file using references like below. 
 ```
  # Kubernetes Secrets:: zengrc
         - name: ZENGRC_USERNAME # Keep it unique in the environment
@@ -242,27 +211,11 @@ The command to edit the secret file is `kubectl edit secret tap-secrets  -o yaml
               name: tap-secrets # this is the secret name under which we have added the secrets it can be any secret file present.
               key: ZENGRC_PASSWORD # Keep it unique in the environment
 ```
-3) After modifying the file, we need to apply the newly prepared deployment file to the cluster. In order to do this, we need to drop the existing deployment and apply the new one. Use below to command for the same. 
-- `kubectl delete   -f gitlab-app.yaml`  to delete the existing deployment. 
-- `kubectl apply  -f gitlab-app.yaml ` to apply the new deployment. 
+Step 3: Add/modify Tap to the meltano.yml file.  
+The current setup is adding the tap information to [meltano.yml](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml)
 
-4) Refer to these defined variables in the config file i.e. `meltano.yml` like below 
-```
-config:
-  username: $ZENGRC_USERNAME
-  password: $ZENGRC_PASSWORD
-```
-
-The reason for doing this is because the username and password is not a unique key in the environment it is being used by other taps as well so to pass on the correct TAPS config we pass the reference to the lube secret variable name.    
-5) We need to ensure we copy the latest `meltano.yml` file to the container. using the below command. 
-`kubectl cp meltano.yml default/<**pod-name**>:/projects`
-
-Check everything is fine by running the schedule of all taps. 
-`meltano schedule run zengrc-to-snowflake`
-
-## Adding Tap to the meltano.yml file
-At the moment the current setup is adding the tap information to [meltano.yml](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml) file by creating a MR. Once the required information is added to meltano.yml file follow below steps to enable the TAP. 
 Below is the sample of Require Information we need to add for each TAP. 
+
 ```
 ## The Name of the TAP under plugins: -- > extractors:
 
@@ -287,9 +240,29 @@ schedules:
   interval: '@daily'
   start_date: 2021-07-13
 ```
-Then follow below steps to copy the meltano.yml to the running container. 
-- Connect to the required cluster. In our case `meltano-mashey` which is current active cluster using command `gcloud container clusters get-credentials meltano-mashey --zone us-west1-a --project gitlab-analysis`
-- Connect to the container using command `kubectl exec -it gitlab-production-5f8fd9ccb-npvxl  -c tap-xactly /bin/bash`. Note:- Pod name might change to get the correct pod name use `kubectl get pods`
+Refer to these defined variables in the config file i.e. `meltano.yml` like below 
+
+```
+config:
+  username: $ZENGRC_USERNAME
+  password: $ZENGRC_PASSWORD
+```
+
+The reason for doing this is because the username and password is not a unique key in the environment it is being used by other taps as well so to pass on the correct TAPS config we pass the reference to the lube secret variable name.  
+
+Step 4:  Add a git tag after the change is merged and update the gitlab-app.yml kubernetes manifest to point to the new image.
+
+Step 5: After Merge to the master, we need to apply the newly prepared deployment file to the cluster with latest image. In order to do this, we need to drop the existing deployment and apply the new one. Use below to command for the same. 
+- Connect to the cluster `data-ops-meltano` 
+- Checkout main branch for [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano) 
+- `kubectl delete  -f gitlab-app.yaml`  to delete the existing deployment. 
+- `kubectl apply  -f gitlab-app.yaml ` to apply the new deployment. 
+
+
+## Debugging and manual testing of meltano.yml file for newly created tap
+Follow below steps to copy the meltano.yml to the running container to test the newly created meltano.yml file is correct and it will
+- Connect to the required cluster. In our case `data-ops-meltano` which is current active cluster using command `gcloud container clusters get-credentials data-ops-meltano--zone us-west1-a --project gitlab-analysis`
+- Connect to the container using command `kubectl exec -it gitlab-production-5f8fd9ccb-npvxl  -c meltano-tap /bin/bash`. Note:- Pod name might change to get the correct pod name use `kubectl get pods`
 - Copy modified meltano.yml to  container from local `kubectl cp meltano.yml default/gitlab-production-5f8fd9ccb-npvxl:/projects`
 - Try running the schedule `meltano schedule run zengrc-to-snowflake` for the first time it will ask to install the extractor below is the error we got even in our session.
 ```
@@ -305,7 +278,19 @@ Then follow below steps to copy the meltano.yml to the running container.
   Installed extractor 'tap-zengrc'
 ```
 - Post that re run the command `meltano schedule run zengrc-to-snowflake` if this keep pushing data in snowflake then the TAP is working as expected. 
+ 
+- To copy the latest `meltano.yml` file to the container. using the below command. 
+`kubectl cp meltano.yml default/<**pod-name**>:/projects`
 
+- To Check everything is fine by running the schedule of all taps. 
+`meltano schedule run zengrc-to-snowflake`
+
+
+
+## Current Configured Taps in Gitlab.
+- [tap-xactly](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-xactly) 
+- [tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc)
+- [tap-adaptive](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-adaptive)
 
 
 
