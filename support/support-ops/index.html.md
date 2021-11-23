@@ -144,8 +144,15 @@ team. The current division of responsibilities is:
 ## Code freeze
 
 During the month of December, Support Operations enters a code freeze. During
-this period, Support Operations will not deploy any changes to the various
-systems we manager (Zendesk, Calendly, etc.).
+this period, Support Operations will not deploy any major changes to the
+various systems we manage (Zendesk, Calendly, etc.).
+
+For reference, a "major" change would be anything impacting ticket routing
+or Support workflows. Some general examples would be:
+
+* Ticket field and form changes
+* Major view changes
+* Adding new avenues of ticket creation
 
 This is done to promote stability, especially during a time many of us take
 time off for the holidays. We also use this time to review our setup and look
@@ -157,6 +164,7 @@ During this time, we will still do the following:
 * Fix any issues/errors that occur
 * Discuss and test new changes (to be implemented January or later)
 * Make changes to access based on ARs for onboarding and offboarding
+* Maintain changes to the Support team page
 
 ## Frequently Asked Questions (F.A.Q.)
 
