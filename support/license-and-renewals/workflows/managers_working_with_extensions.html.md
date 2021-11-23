@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Internal Requests tracker
+title: Plan/License Escalations Workflow
 category: Managers Workflows
 description: How to manage plan/license escalations
 ---
