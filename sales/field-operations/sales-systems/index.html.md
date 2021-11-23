@@ -112,15 +112,15 @@ Below is a list of the different technical skill sets found on the Sales System 
 
 1. If approval is pending Deal Desk review, `Deal Desk::Pending Approval` Label will be added to the issue by the DRI. 
 1. Once Approval is secured, Deal Desk will add `Deal Desk::Approved` Label to the issue. If no other approval is required, systems can move forward with work. 
-1. If the proposed change will negatively impact the quoting cycle, Deal Desk will add `Deal Desk::Need More Information` Label to the issue. Deal Desk will partner with Issue DRI to identify alternative solution. 
+1. If the proposed change will negatively impact the quoting cycle, Deal Desk will add `Deal Desk::Need More Information` Label to the issue. Deal Desk will partner with Issue DRI to identify alternative solutions. 
 1. If the proposed change is not approved, Deal Desk will add `Deal Desk::Rejected` Label to the issue. An alternative solution must be presented. 
 
 Channel Operations and Deal Desk will work closely on all updates related to the quoting process. The purpose is to ensure that a proposed change does not contradict with an existing process that a team member may not be aware of. 
 
-1. If approval is pending Channel Ops review, `Channel Ops::Pending Appoval` Label will be added to the issue by the DRI. 
-1. Once Approval is secured, Channnel Ops will add `Channnel Ops::Approved` Label to issue. If no other approval is required, systems can move forward with work. 
-1. If the proposed change will negatively impact Channel priorities, Channel Operations will add `Channel Ops::Need More Information` Label to the issue. Channnel Ops will partner with Issue DRI to identify alternative solution. 
-1. If the proposed change is not approed, Channel Ops will add `Channnel Ops::Rejected` Label to the issue. An alternative solution must be presented. 
+1. If approval is pending Channel Ops review, `Channel Ops::Pending Approval` Label will be added to the issue by the DRI. 
+1. Once Approval is secured, Channnel Ops will add `Channel Ops::Approved` Label to issue. If no other approval is required, systems can move forward with work. 
+1. If the proposed change will negatively impact Channel priorities, Channel Operations will add `Channel Ops::Need More Information` Label to the issue. Channel Ops will partner with Issue DRI to identify alternative solution. 
+1. If the proposed change is not approved, Channel Ops will add `Channel Ops::Rejected` Label to the issue. An alternative solution must be presented. 
 
 **SLA for Channel Operations & Deal Desk Approvals related to Quoting** 
 
