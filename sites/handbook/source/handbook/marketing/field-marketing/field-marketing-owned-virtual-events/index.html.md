@@ -409,9 +409,9 @@ Please reach out to your Verticurl rep to shut down the landing page, or if you 
 ### Converting the Webcast to an On-Demand Gated Asset
  
 #### DRI: FMC
-1. **Youtube**: Submit an [upload request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request) to the Digital Production team. They will review your webcast and upload to the [GitLab Branded YouTube channel](/handbook/marketing/marketing-operations/youtube/#channels).
+1. **Youtube**: Submit an [upload request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request) to the Digital Production team. They will review your webcast and upload to the [GitLab Branded YouTube channel](/handbook/marketing/marketing-operations/youtube/#channels). Please include title, description and thumbnail (if any). 
 1. **YouTube**: Once the recording has been uploaded, copy the video link on the right
-1. **Pathfactory**: Login to PathFactory and add the copied youtube link to Pathfactory as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content).
+1. **Pathfactory**: Login to PathFactory and add the copied YouTube link to Pathfactory as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content).
 1. **Pathfactory**: Create a new Pathfactory track by folliwng the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory/#content-tracks) and then add your track to the [Changelog](/handbook/marketing/marketing-operations/pathfactory/#changelog). NOTE: You must create a [custom slug](/handbook/marketing/marketing-operations/pathfactory/#configure-content-track-settings) when creating the Pathfactory track. 
 1. **Marketo**: Click into your campaign’s Marketo program and update the `ondemandUrl` token with the Pathfactory track URL. 
    * The track URL should NOT contain any `?` question marks (if it does, you did not update the custom URL slug) - [WATCH THE EXPLAINER VIDEO](https://www.youtube.com/watch?v=VHgR33cNeJg)
