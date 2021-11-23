@@ -15,41 +15,6 @@ description: A summary of Financial Wellness resources available to team members
 GitLab has generated this handbook page to provide resources to team members relating to Financial Wellness. Please note that GitLab is not able to directly provide team members with any financial advice.
  
 If you have any great resources that you have used in the past, please feel free to create a merge request to add to this page as everyone can contribute!
- 
-## Upcoming Resources for Team Members
-
-[**Modern Health Money Management Circle:**](#modern-health) GitLab will be offering a **Money Management Circle** through Modern Health with an emphasis on the psychological component of Financial Wellness.
-* **When:** 2021-11-22 at 8:30 am PT.
-* **[Recording](https://www.youtube.com/watch?v=YhoHMT94Mkg):**
-
-**Session Description:**
-  * What does “wealth” mean to you? Understanding the psychology of money and wealth can help you achieve your financial goals. Join this session with a Modern Health provider to learn how to assess your financial situation and identify your financial values and self-identity.
-    * Modules in the session:
-* Welcome
-* Money can powerfully influence our thoughts and actions in ways that we’re often not aware of.
-* What does “wealth” mean to you?
-* What does “the good life” mean to you?
-* What you should consider about the psychology of money and wealth
-* Reassessing your financial goals
-* Understanding your financial values
-* Understanding your financial self-identity
-* Past money issue, Future money issues
-* You must have your financial foundations in place
-* Modern Health Resources
-
-[**SageView Financial Wellness Program:**](#sageview)
-GitLab will be hosting a kickoff call with SageView to discuss an overview of the program’s benefit offerings for team members.
-* **When:** 2021-11-22 at 8 am PT and 4 pm PT
-* **Recording:** Once recorded, a link will be added to this handbook section for team members to view asynchronously.
-
-**[Session Description](https://drive.google.com/file/d/1rPc_7iCiZV33BMuoithOlaJefeWNYgAK/view?usp=sharing):**
-  * The specifics of Financial Wellness are different for everyone, but the common underlying theme is similar for most; identify your resources and utilize your opportunities in a way that gives you both peace of mind and the highest likelihood of achieving your financial goals.”
-   * This will be an introductory call for GitLab team members to ask questions about SageView’s Financial Wellness Benefit. A general agenda is as follows:
-     * Intro by GitLab & Overview of Sageview
-     * Components of Financial Wellness
-     * How SageView can help (e.g. what services are included within the new benefit)
-     * Overview of Stock Options
-     * Details around the ongoing SageView Financial Wellness Program Timeline
 
 ## Financial Wellness Resources 
 
@@ -60,6 +25,8 @@ GitLab will be hosting a kickoff call with SageView to discuss an overview of th
 Some of these resources include:
 * Ability to [add a Financial Coach](https://drive.google.com/file/d/1bZj00YXuWfl47QXOMBzLXkej5NgQvygQ/view?usp=sharing) to your care team.
 * Digital program through the app titled `Financial Well-being`.
+* [**Modern Health Money Management Circle:**](#modern-health) GitLab hosted a **Money Management Circle** through Modern Health with an emphasis on the psychological component of Financial Wellness. **Link to [Recording](https://www.youtube.com/watch?v=YhoHMT94Mkg)**
+   * **Session Description:** What does “wealth” mean to you? Understanding the psychology of money and wealth can help you achieve your financial goals. Join this session with a Modern Health provider to learn how to assess your financial situation and identify your financial values and self-identity.
 
 ### SageView
 
@@ -70,6 +37,11 @@ GitLab offers all team members the ability to work with an independent financial
 * Financial Wellness Workshops hosted by SageView
 
 Please see the following [flyer](https://drive.google.com/file/d/1tAxGvQbstMfKO3m5JdciaKByumHOGPqa/view?usp=sharing) for more information and a link to schedule a consultation. 
+
+GitLab hosted a kickoff call with SageView to discuss an overview of the program’s benefit offerings for team members.
+* **Recording:** [Presentation (Option 1)](https://www.youtube.com/watch?v=2rsUjnjjYQ0), AMA [(Option 2)](https://www.youtube.com/watch?v=kKJii7YbFxY)
+* **[Session Description](https://drive.google.com/file/d/1rPc_7iCiZV33BMuoithOlaJefeWNYgAK/view?usp=sharing):**
+  * The specifics of Financial Wellness are different for everyone, but the common underlying theme is similar for most; identify your resources and utilize your opportunities in a way that gives you both peace of mind and the highest likelihood of achieving your financial goals.
 
 ### LinkedIn Learning
 
