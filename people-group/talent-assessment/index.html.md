@@ -331,7 +331,7 @@ Below is the high level timeline for the formal assessment in FY22-Q4. Different
 - **2021-12-06 - 2021-12-09:** Total Rewards and E-Group review
 - **2021-12-10:** Final approvals of E-Group
 - **2021-12-13 - 2022-01-31:** Managers can communicate Performance/Growth Factors to team members
-- **2022-01-01:** Annual Compensation Review Kicks off for Managers
+- **2022-01-06:** Annual Compensation Review Kicks off for Managers
 
 ### Cadence
 
