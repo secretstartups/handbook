@@ -1097,6 +1097,89 @@ All of these filters pull from the linked/specified field(s) from Salesforce. No
 1. User Geo Name - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Geo`
 1. User Area Name - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Area`
 
+### Lead Source Buckets
+To give executives a better view of lead sources and showing where leads and contact are sourced from we created a bucketed feild. Its often refered to as `lead source buckets` in Sisense.
+
+This grouping was first used in the [CMO Plan](https://app.periscopedata.com/app/gitlab:safe-dashboard/943559/WIP:-CMO-Plan)
+
+Below is the table mapping for each lead source and its Source Bucket.
+| Initial Source                                                                                                         | Source Bucket      |
+|------------------------------------------------------------------------------------------------------------------------|--------------------|
+| Advertisement                                                                                                          | paid demand gen    |
+| AE Generated                                                                                                           | AE Generated       |
+| CE Download                                                                                                            | product            |
+| CE Usage Ping                                                                                                          | product            |
+| Channel Qualified Lead                                                                                                 | partner marketing  |
+| Clearbit                                                                                                               | SDR prospecting    |
+| Conference                                                                                                             | paid demand gen    |
+| CORE Check-Up                                                                                                          | product            |
+| Datanyze                                                                                                               | SDR prospecting    |
+| Demo                                                                                                                   | organic inbound    |
+| DiscoverOrg                                                                                                            | SDR prospecting    |
+| Drift                                                                                                                  | organic inbound    |
+| Education                                                                                                              | organic inbound    |
+| Email Request                                                                                                          | organic inbound    |
+| Email Subscription                                                                                                     | organic inbound    |
+| Employee Referral                                                                                                      | other              |
+| Event Partner                                                                                                          | partner marketing  |
+| Executive Roundtable                                                                                                   | paid demand gen    |
+| Existing Client                                                                                                        | product            |
+| External Referral                                                                                                      | product            |
+| Field Event                                                                                                            | paid demand gen    |
+| Gainsight                                                                                                              | product            |
+| Gated Content                                                                                                          | organic inbound    |
+| Gated Content -                                                                                                        | organic inbound    |
+| Gated Content - Demo                                                                                                   | organic inbound    |
+| Gated Content - eBook                                                                                                  | organic inbound    |
+| Gated Content - General                                                                                                | organic inbound    |
+| Gated Content - Report                                                                                                 | organic inbound    |
+| Gated Content - Reports                                                                                                | organic inbound    |
+| Gated Content - select one (you may NOT choose from an option other than these): whitepaper,report,video,eBook,general | organic inbound    |
+| Gated Content - study                                                                                                  | organic inbound    |
+| Gated Content - Video                                                                                                  | organic inbound    |
+| Gated Content - webcast                                                                                                | organic inbound    |
+| Gated Content - Whitepaper                                                                                             | organic inbound    |
+| GitLab DataMart                                                                                                        | product            |
+| GitLab Subscription Portal                                                                                             | product            |
+| GitLab.com                                                                                                             | product            |
+| hopin                                                                                                                  | paid demand gen    |
+| Impartner                                                                                                              | partner marketing  |
+| Investor                                                                                                               | organic inbound    |
+| Leadware                                                                                                               | SDR prospecting    |
+| LinkedIn                                                                                                               | SDR prospecting    |
+| List - DB - GACoreUpsert - 20200706                                                                                    | SDR prospecting    |
+| List - Demandbase - GACoreInsert - 20200706                                                                            | SDR prospecting    |
+| List-2HCentric-DB-20200914                                                                                             | SDR prospecting    |
+| Newsletter                                                                                                             | product            |
+| OSS                                                                                                                    | organic inbound    |
+| Other                                                                                                                  | other              |
+| Owned Event                                                                                                            | paid demand gen    |
+| Partner                                                                                                                | partner marketing  |
+| Prof Serv Request                                                                                                      | organic inbound    |
+| Promotion                                                                                                              | paid demand gen    |
+| Prospecting                                                                                                            | SDR prospecting    |
+| Prospecting - General                                                                                                  | SDR prospecting    |
+| Prospecting - LeadIQ                                                                                                   | SDR prospecting    |
+| Public Relations                                                                                                       | organic inbound    |
+| Purchased List                                                                                                         | SDR prospecting    |
+| Registered                                                                                                             | organic inbound    |
+| Request - Contact                                                                                                      | organic inbound    |
+| Request - Professional Services                                                                                        | organic inbound    |
+| Request - Public Sector                                                                                                | organic inbound    |
+| SDR Generated                                                                                                          | SDR prospecting    |
+| Security Newsletter                                                                                                    | product            |
+| Startup Application                                                                                                    | product            |
+| Trial - Enterprise                                                                                                     | Trial - Enterprise |
+| Trial - GitLab.com                                                                                                     | Trial - GitLab.com |
+| Virtual Sponsorship                                                                                                    | paid demand gen    |
+| Web                                                                                                                    | organic inbound    |
+| Web Chat                                                                                                               | organic inbound    |
+| Web Direct                                                                                                             | Web Direct         |
+| Webcast                                                                                                                | paid demand gen    |
+| Word of mouth                                                                                                          | organic inbound    |
+| Workshop                                                                                                               | paid demand gen    |
+| ZI-EMEA-MM-OutboundQ4-2020.08.19                                                                                       | SDR prospecting    |
+| Zoominfo                                                                                                               | SDR prospecting    |
 
 ## Reporting Fields Source of Truth
 This section captures and links the most often used fields in reporting so that anyone pulling a Salesforce report can and is using the correct fields and the same fields that are being used in Periscope reports/dashboards.    
