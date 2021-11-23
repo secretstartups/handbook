@@ -58,7 +58,7 @@ Aligning passionate TAMs with customers to ensure their success by...
    - [Sample Questions & Techniques for Getting to Good Customer Metrics](https://about.gitlab.com/handbook/customer-success/tam/success-plans/questions-techniques/)
 - [Stage Enablement & Stage Expansion - The Two Stage Adoption Motions](/handbook/customer-success/tam/stage-enablement-and-expansion/)
    - [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
-   - [The Customer Value Received with Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
+   - [The Customer Value Received with Service Ping](/handbook/customer-success/tam/service-ping-faq/)
    - [Product Usage Data - Definitive Guide to Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
    - [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/)
    - [Metrics Based Product Usage Playbooks](/handbook/customer-success/product-usage-data/metrics-based-playbooks/)
