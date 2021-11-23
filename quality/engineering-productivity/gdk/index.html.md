@@ -28,7 +28,7 @@ provides a self-contained GitLab environment, which can be run locally or in a
 virtual machine. It's useful for developers contributing to the [GitLab project](https://gitlab.com/gitlab-org/gitlab), 
 or anyone needing to test, experiment with, or validate GitLab functionality.
 
-This category is responsible for improving the usability and reliability of the 
+This category is responsible for improving the usability and reliability of 
 the [GDK](https://gitlab.com/gitlab-org/gitlab-development-kit). 
 The GDK is essential for locally developing and testing changes. 
 It is used by nearly all of the product development organization at GitLab as
