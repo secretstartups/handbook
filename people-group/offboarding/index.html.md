@@ -162,13 +162,13 @@ Culture Amp Exit Survey now has an additional "Reporting to" demographic. Initia
 ## GitLab Alumni Program
 
 All offboarding may request to be added to the Slack channel `gitlab-alumni` by requesting through the PBP who can review the request and confirm to the People Experience Associate who can open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=slack_googlegroup_1Passwordgroupvault) on behalf of the former team member.
-Reasons that someone would not be permitted to join would be due to involuntary offboarding for extreme behavior or a violation of our [Code of Conduct](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
+Reasons that someone would not be permitted to join would be due to involuntary offboarding for extreme behavior or a violation of our [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 Underperformance or other causes for involuntary offboarding are not a reason to exclude someone from the alumni program. 
 The purpose of this channel is to network and socialize with team members.
 Joining the channel is voluntary and subject to GitLab's [Code of Conduct](/community/contribute/code-of-conduct/).
 
 GitLab, the company, monitors the channel and can remove people from it at their sole discretion.
-The GitLab [code of conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) is enforced in the channel.
+The GitLab [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) is enforced in the channel.
 
 ## Involuntary Offboarding
 
