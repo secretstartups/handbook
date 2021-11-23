@@ -20,6 +20,14 @@ title: "Meltano At Gitlab"
 
 ## Meltano
 
+Currently 3 project repository is in place for Meltano.
+| SNo.  | Repository | Description | 
+| - | ---------- | ----------- |
+| 1 | [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano) | his project hold infrastructure related code i.e. it hold kubernetes pods creation information in `gitlab-app.yaml` and configuration in `meltano.yml`. | 
+| 2 | [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps) |  This is primary repository which holds the TAP source code. It has at the moment source code for `TAP-XACTLY` and `TAP-ADAPTIVE ` | 
+| 3 | [tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc) | This project which hold tap-zengrc source code.  | 
+
+
 ### Kubernetes cluster Setup with terraform explained for Meltano.
 
 We host Meltano in Kubernetes cluster of one node pool named `meltano-pool` with one active node. The node pool is not scalable. 
@@ -96,33 +104,6 @@ google_container_cluster.meltano_cluster: Creating...
 google_container_cluster.meltano_cluster: Still creating... [10s elapsed]
 google_container_cluster.meltano_cluster: Still creating... [20s elapsed]
 google_container_cluster.meltano_cluster: Still creating... [30s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [40s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [50s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [1m0s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [1m10s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [1m20s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [1m30s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [1m40s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [1m50s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [2m0s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [2m10s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [2m20s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [2m30s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [2m40s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [2m50s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [3m0s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [3m10s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [3m20s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [3m30s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [3m40s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [3m50s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [4m0s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [4m10s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [4m20s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [4m30s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [4m40s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [4m50s elapsed]
-google_container_cluster.meltano_cluster: Still creating... [5m0s elapsed]
 google_container_cluster.meltano_cluster: Creation complete after 5m1s [id=projects/gitlab-analysis/locations/us-west1-a/clusters/data-ops-meltano-staging]
 google_container_node_pool.meltano-pool: Creating...
 google_container_node_pool.meltano-pool: Still creating... [10s elapsed]
@@ -133,33 +114,77 @@ google_container_node_pool.meltano-pool: Still creating... [50s elapsed]
 google_container_node_pool.meltano-pool: Still creating... [1m0s elapsed]
 google_container_node_pool.meltano-pool: Creation complete after 1m7s [id=projects/gitlab-analysis/locations/us-west1-a/clusters/data-ops-meltano-staging/nodePools/meltano-pool-staging]
 ```
-Then in the cluster page we can see the cluster created with name `data-ops-meltano` for meltano production and for staging `data-ops-meltano-staging`.
-The node pool is also suffixed with -staging for staging environment.
+Then in the cluster page we can see the cluster created with name `data-ops-meltano` for meltano production and for staging `data-ops-meltano-staging`.The node pool is also suffixed with -staging for staging environment.
+As this point onward we don't do anything in staging environment. Although we can very well use it but it will require creation of separate airflow database postgres in cloud sql for airflow running in meltano.
 
-As this point onward we don't do anything in staging environment although we can very well but it will required creation of separate airfow database postgres in cloud sql for airfow running in meltano.
-
-
-Now the cluster is ready all we need to do is applying the configuration on the cluster.
-
-We run Meltano in its own Kubernetes cluster with in the `meltano` namespace.
-
-
-
-
-
-Currently 3 project repository is in place. The Kubernetes cluster is running [GCP as meltano-mashey](https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/meltano-mashey/details?project=gitlab-analysis). 
+The Kubernetes cluster is running [data-ops-meltano](https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/data-ops-meltano/details?project=gitlab-analysis). 
 
 The UI of Meltano is not exposed to internet. To view the logs we have to look in the kubernetes container logs. It can be found under "LOGS" tab or under the overview page by selecting the `meltano-gitlab` cluster under workloads.
 
-For Meltano we have the following repositories. 
+Now the cluster is ready all we need to do is applying the configuration on the cluster. Follow below steps for the same.
 
-|   | Repository | Description | 
+Step 1: Connect to the Kubernetes cluster from local(Prerequisites is Google cloud SDK installed). In case the command doesn't work then connect to GCP and select Cluster under Kubernetes and select connect to cluster. It will reveal the latest command.
+At present the production cluster has been setup with name `data-ops-meltano` following naming convention of other data team cluster.
+
+`gcloud container clusters get-credentials data-ops-meltano --zone us-west1-a --project gitlab-analysis`
+
+Step 2: We run Meltano in its own Kubernetes cluster with in the `meltano` namespace. Create namespace `meltano` by using the file kube_namespace_secret_yaml/namespace_meltano.yaml using below command.  
+`kubectl apply -f namespace_meltano.yaml`
+
+Step 3: Create all the required named secret using below command from the directory `kube_namespace_secret_yaml`. We have used YAMl file to ensure consistency across all GKE environment.
+```
+# This will create secret airflow-db
+kubectl apply -f kube_secret_airflow_db.yaml
+# This will create secret airflow
+kubectl apply -f kube_secret_airflow.yaml
+# This will create secret cloud-sql
+kubectl apply -f kube_secret_cloud_sql.yaml
+# This will create secret meltano-db
+kubectl apply -f kube_secret_meltano_db.yaml
+# This will create secret tap-secrets
+kubectl apply -f kube_secret_tap_secrets.yaml
+Once all are created to check the list of secret created use below command
+kubectl get secrets --namespace=meltano
+# Below should be the output.
+```
+
+Step 3: Edit each of the secret and add the key:value to them. For each one of them the value is stored in 1 password as a file. We need open it and paste the required section from there. Below is the mapping of each secret file and secret name under which it is stored in 1password under `meltano_secret`.
+
+|SNo|Secret Name|1password secret name|
 | - | ---------- | ----------- |
-| 1 | [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano) | his project hold infrastructure related code i.e. it hold kubernetes pods creation information in `gitlab-app.yaml` and configuration in `meltano.yml`. | 
-| 2 | [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps) |  This is primary repository which holds the TAP source code. It has at the moment source code for `TAP-XACTLY` and `TAP-ADAPTIVE ` | 
-| 3 | [tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc) | This project which hold tap-zengrc source code.  | 
+|1|airflow|meltano_secret_airflow|
+|2|airflow-db|meltano_secret_airflow_db|
+|3|cloud-sql|meltano_secret_cloud_sql|
+|4|meltano-db|meltano_secret_meltano_db|
+|5|tap-secrets|meltano_secret_tap_secrets|
 
-For new developed taps, we will create a new repository per tap, like the tap-zengrc. 
+To edit secrets use below command 
+```
+kubectl edit secrets cloud-sql -o yaml --namespace=meltano
+kubectl edit secrets meltano-db -o yaml --namespace=meltano
+kubectl edit secrets airflow -o yaml --namespace=meltano
+kubectl edit secrets tap-secrets -o yaml --namespace=meltano
+kubectl edit secrets airflow-db -o yaml --namespace=meltano
+```
+
+Step 4: The final step in the configuration process. Apply the configuration or manifest of meltano to the cluster. 
+```
+# Applying the  manifest does NOT require the namespace
+kubectl apply  -f gitlab-app.yaml
+```
+To reapply in case of adding new variables or change the image name use first delete the existing configuration and reapply. To delete simply use 
+```
+# Delete the deployment of namespace
+kubectl delete  -f gitlab-app.yaml
+```
+
+At this stage whole of production environment is up and running of meltano in GKE with latest configuration of all tap present in  `meltano.yml` . 
+
+
+
+
+For new developed taps, we will create a new repository per tap, like the tap-zengrc or under different folder [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps).
+
 
 To update what extractors are being used, update the `meltano.yml` file in the main project [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano). Add a git tag after the change is merged and update the gitlab-app.yml kubernetes manifest to point to the new image.
 
@@ -175,22 +200,8 @@ Currently in the setup we have below secret defined in the cluster.
 - tap-secrets
 - airflow-db
 
-#### Creating secret file 
-```
-kubectl create secret generic cloud-sql
-kubectl create secret generic meltano-db
-kubectl create secret generic airflow
-kubectl create secret generic tap-secrets	
-kubectl create secret generic airflow-db
-```
-#### Editing Secrets
-```
-kubectl edit secrets cloud-sql 
-kubectl edit secrets meltano-db
-kubectl edit secrets airflow
-kubectl edit secrets tap-secrets
-kubectl edit secrets airflow-db
-```
+
+
 
 
 ### Exec into a container
