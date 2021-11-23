@@ -57,7 +57,7 @@ In addition to the above workflow, the Composition Analysis group can be involve
 
 #### Group retrospective
 
-After the 19th, we conducts [an asynchronous retrospective](https://about.gitlab.com/handbook/engineering/management/group-retrospectives/). You can find current and past retrospectives for Composition Analysis team in https://gitlab.com/gl-retrospectives/secure-sub-dept/composition-analysis.
+After the 19th, we conduct [an asynchronous retrospective](https://about.gitlab.com/handbook/engineering/management/group-retrospectives/). You can find current and past retrospectives for Composition Analysis team in https://gitlab.com/gl-retrospectives/secure-sub-dept/composition-analysis.
 
 #### Iteration retrospective
 
@@ -65,7 +65,7 @@ First Wednesday of the milestone, we conduct an iteration retrospective where we
 3 days before the retrospective, [a retrospective host](https://gitlab.com/brytannia) creates [a new iteration retrospective issue](https://gitlab.com/gl-retrospectives/secure-sub-dept/composition-analysis).
 In this issue team members suggests candidate issues or epics to review.
 The host picks up one item to discuss synchronously.
-Results are documented in the issue or epic.
+Results are documented in the retrospective issue.
 
 ### Reaction rotation
 
