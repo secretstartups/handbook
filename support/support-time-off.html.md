@@ -149,7 +149,7 @@ Guidance around ticket handling over holiday time off is slightly different.
     - This keeps the ticket in your assignment, but gives the wider team visibility into any tickets that may need attention while you’re away. 
 1. If you anticipate that no action will be necessary over the holiday on any tickets, they do not need to be added to the `Needs Collaboration` view. 
 
-**If you are working on a holiday:**
+#### If you are working on a holiday
 1. Continue to prioritize FRT first, and then management of your own tickets.
 1. Please pay **extra** attention to the `Needs Collaboration` view. Help progress any tickets while the original assignee is away.
 1. Copy (cc) yourself on the ticket to provide continued help throughout the day.
