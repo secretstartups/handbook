@@ -45,7 +45,9 @@ Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded fo
 
 Form documentation can be found [here](https://docs.google.com/spreadsheets/d/1cV_hI2wAzLxYYDI-NQYF5-FDDPXPXH0VV5qRBUJAQQk). It contains all of our current forms, as well as standardized country and state picklists.
 
-**Translated Forms Available**: Spanish, French, Italian, German, Portuguese, and Japanese. If you require a new language, please gather the [translations](/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). Due to resource constraints, we are only creating new forms for [P0 countries](https://about.gitlab.com/handbook/marketing/localization/#priority-countries).
+**Translated Forms Available**: Spanish, French, Italian, German, Portuguese, and Japanese. These are global forms, go to the Design Studio > Forms > Translated Forms. It is important to use these (and not clone) as they influence the [localization segmentation](/handbook/marketing/marketing-operations/marketo/#segmentations) of `Language Preference`. 
+
+If you require a new language or need a new form, please gather the [translations](/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). Due to resource constraints, we are only creating new forms for [P0 countries](https://about.gitlab.com/handbook/marketing/localization/#priority-countries).
 
 All forms should follow these guidelines:  
 - Field labels are always ALL CAPS
@@ -53,7 +55,7 @@ All forms should follow these guidelines:
 - Fields should be stacked in a vertical line
 - `State/Province` only visible when `Country` = `United States` or `Canada`; the visibility rule dynamically displays `Province` when `Canada` is selected or `State` when `United States` is selected 
 - Generally `City` is only visible when `Country` = `Ukraine`
-- Forms should all contain a checkbox for `opting in` to communications via email
+- Forms should all contain a checkbox to obtain consent to `opting in` to communications via email
 - When `Country` = `Ukraine` there is an additional checkbox for the submitter to confirm they do not belong to the Crimean region of the Ukraine
 - Country should not include [embargoed countries ](/handbook/business-ops/trade-compliance/) 
 - All forms should have hidden fields for Demandbase, gclid and google analytics tracking
