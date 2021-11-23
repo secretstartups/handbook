@@ -27,9 +27,7 @@ The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/co
 
 ## Performance Indicators
 
-* Moving the needle on aided and unaided brand awareness. 
-* Global brand campaign strategy and execution.
-* Media buying project planning and delivery.
+* Increase overall brand awareness and key message pull through media buys and sponsorships.
 
 #### Manager, Brand Strategy and Growth Requirements
 
