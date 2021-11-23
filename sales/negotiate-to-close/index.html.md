@@ -1,3 +1,13 @@
+---
+layout: handbook-page-toc
+title: Negotiate to Close
+description: >-
+  A sales negotiation is a strategic discussion (or series of discussions)
+  between buyer and seller that ideally leads to a deal being closed. The main
+  goal of the negotiation process is to reach an agreement that's acceptable to
+  everyone.
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -6,11 +16,11 @@
 
 ## Overview
 
-A sales negotiation is a strategic discussion (or series of discussions) between buyer and seller that ideally leads to a deal being closed. The main goal of the negotiation process is to reach an agreement that's acceptable to everyone. Successful negotiation outcomes often start with the sales professional having and demonstrating the right mindset--one focused on a building a long-term partnership whereby both parties (buyer and seller) benefit more by working together than if the partnership did not exist.
+A sales negotiation is a strategic discussion (or series of discussions) between buyer and seller that ideally leads to a deal being closed. The main goal of the negotiation process is to reach an agreement that's acceptable to everyone. Successful negotiation outcomes often start with the sales professional having and demonstrating the right mindset -- one focused on a building a long-term partnership whereby both parties (buyer and seller) benefit more by working together than if the partnership did not exist.
 
 In his book [_Closing Time_](https://www.amazon.com/Closing-immutable-Sales-Negotiation-Hubsher/dp/0981789005), Ron Hubsher highlights the 7 immutable laws of sales negotiation:
 
-1. You must be the buyer's 1st choice
+1. You must be the buyer's first choice
 1. Know the financial benefit your solution creates
 1. Anticipate getting squeezed on price
 1. Be proactive on budget and remove decision-making obstacles in advance
@@ -18,21 +28,29 @@ In his book [_Closing Time_](https://www.amazon.com/Closing-immutable-Sales-Nego
 1. Never give without getting
 1. Know your walk-away price and conditions
 
-## When Do Negotiations Start
+## When do negotiations start?
 
-In addition to demonstrating the right mindset, successful negotiation outcomes begin with embracing a value-based sales methodology like [Command of the Message](/handbook/sales/command-of-the-message/) from the very onset of the sales process. In fact, the below critical sales skills are prerequisites for a successful negotiation:
+Preparing for a negotiation starts as early as your first conversation, and successful negotiation outcomes begin with embracing a value-based sales methodology like [Command of the Message](/handbook/sales/command-of-the-message/) from the very onset of the sales process.
 
-### Uncover Customer Needs
+#### 5 1/2 tips for how to approach price-lock negotiations at GitLab
 
-Conduct effective, ongoing discovery to
+In this video, VP of Enterprise Sales - Mike Pyle, gives tips for how to approach price-lock negotiations at GitLab while protecting the value of our product during these negotiations. The key to doing this well is consistently and proactively having this conversation. This guidance is useful no matter the size or your prospect or customer.
+
+`<iframe width="560" height="315" src="https://www.youtube.com/embed/mzGc1bXESzI?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+
+In addition to these tips, the below critical sales skills will also help you achieve a successful negotiation:
+
+#### Uncover customer needs
+
+Conduct effective, ongoing discovery to:
 
 - Obtain a deep understanding of the customer's current state (see [Sales Discovery and Qualification Questions](/handbook/sales/qualification-questions/))
 - Identify the Positive Business Outcomes they want or need to achieve (and why), and
 - Co-create a shared vision for the Required Capabilities to get from the current state to the desired future state
 
-### Articulate Value and Differentiation
+#### Articulate value and differentiation
 
-Don't start a negotiation is you are not the buyer's 1st choice. With a thorough understanding of your customer's needs, be sure to:
+Don't start a negotiation if you are not the buyer's first choice. With a thorough understanding of your customer's needs, be sure to:
 
 - Effectively articulate how GitLab will address the customer's requirements (leverage [these core resources](/handbook/sales/command-of-the-message/#resources-core-content))
 - Successfully connect the dots between technical metrics and the business value that GitLab delivers (see [Demystifying the Metrics Conversation](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/)), and
@@ -49,7 +67,7 @@ While there are [numerous closing techniques](https://spotio.com/blog/sales-clos
 1. **The Needs Close** - methodically go through the list of all of the customer's requirements to explicitly show how you are addressing their needs and will help them achieve their desired results
 1. **The Assumptive Close** - gently nudging the customer to move forward in a non-manipulative way when it seems clear that your solution meets all of the customer's requirements (most effective when you have an established and trusted relationship with the buyer)
 
-## Recommended Resources
+## Recommended resources
 
 - [_Closing Time_](https://www.amazon.com/Closing-immutable-Sales-Negotiation-Hubsher/dp/0981789005) by Ron Hubsher
 - LinkedIn Learning course: [Sales: Closing Strategies](https://www.linkedin.com/learning/sales-closing-strategies/) (38 minutes)
