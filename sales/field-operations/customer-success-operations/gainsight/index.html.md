@@ -422,20 +422,18 @@ These rules act as field rollups to calculate fields within Gainsight:
 - Admin - Load Stage Counts to Company
 - Admin - Load Aggregated Stage Adoption Data to MDA
 
-### Load to Company/Other Gainsight objects
+## Deleting and Merging Old Records
 
-#### Mark for deletion rules and CS Ops dashboard reports
+When an account record is deleted or merged in Salesforce, the matching record in Gainsight is not automatically deleted/merged. In order to catch these records and clean them up in Gainsight we have some rules and reports to identify them.
 
-There are many times when accounts, opportunities, and contacts are synced from Salesforce to Gainsight, but then some time later are deleted in Salesforce. Gainsight does not identify these automatically, so we have some rules to catch deleted items.
+### Rules
+- `Admin - Mark old Account records to be Deleted/Merged`: this rule brings in a list of all accounts in Salesforce and a list of all accounts in Gainsight. It then compares the lists and retains only the accounts that exist in Gainsight but NOT in Salesforce. The rule also looks to see if the Gainsight record has any important information attached to it such as a TAM name, CTAs, Success Plans, or Timeline activities. If the Gainsight record does have these items, the boolean field `Merge?` is checked. If none of these items exist on the account, the field `Delete?` is checked. The account name will also be appended with either "TO BE MERGED NO LONGER IN SALESFORCE" or "TO BE DELETED NO LONGER IN SFDC."
+  - The rules `Load to Company: Count CTAs`, `Load to Company: Count Success Plans`, and `Load to Company: Last Timeline Activity` all calculate information about the account that is then used in the `Admin - Mark old Account records to be Deleted/Merged` rule to determine if the account needs to be merged or deleted.
 
-- Admin - Mark old Account records for deletion
-- Admin - Mark old Opportunity records for deletion
-
-These rules compare records in SFDC and Gainsight and mark a boolean field called `Delete?` on the object in Gainsight if the record no longer exists in SFDC.
-
-Once this boolean field is marked, Gainsight displays these records in reports on the CS Ops dashboard in Gainsight. You can then go into Data Operations, filter for `Delete? = true`, and permanently delete the records.
-
-Note: There is a report on the CS Ops dashboard that identifies accounts that need to be _merged_ instead of deleted. This report looks at any accounts that have been marked as `Delete? = true` and also have a TAM assigned to the account, or have dependencies such as CTAs, Success Plans, or Timeline entries. Instead of deleting these accounts, we need to find the correct account that these items should be transferred to, and perform a merge in Gainsight.
+### Reports
+The following reports are located on the CS Ops dashboard in Gainsight. They are also scheduled to be emailed to the CS Ops email address every Monday morning so that a member of the team can be reminded to review them weekly.
+- `Accounts Flagged to Merge`: This report identifies accounts where the `Merged?` field is checked. The accounts that appear on this report need to be reviewed and merged with the correct account. This can be done in the Data Operations section in Gainsight by filtering to accounts where `Merge?` = Yes. More instructions on merging accounts in Gainsight can be found on the [Gainsight documentation website](https://support.gainsight.com/Gainsight_NXT/02Data_Management/02Managing_Data_In_Gainsight/Company_Merge).
+- `Accounts Flagged to Delete`: This report identifies accounts where the `Delete?` field is checked. These accounts need to be deleted completely from Gainsight. This can be done in the Data Operations section in Gainsight by filtering to accounts where `Delete?` = Yes. More instructions on deleting accounts in Gainsight can be found on the [Gainsight documentation website](https://support.gainsight.com/Gainsight_NXT/02Data_Management/03Gainsight_Standard_Objects/01Data_Operations#Delete_Records).
 
 ## Gainsight sync timing
 
