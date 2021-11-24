@@ -20,7 +20,7 @@ The purpose of this page is to document how a GitLab employee can:
 - Use a third-party open source code in a GitLab's project
 
 ## General notes
-- Mention Intellectual Property /handbook/legal/gitlab-code-of-business-conduct-and-ethics/#intellectual-property-and-protecting-ip ?
+- Mention Intellectual Property https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#intellectual-property-and-protecting-ip ?
 - [PIAA](/handbook/people-group/contracts-probation-periods/#piaa-proprietary-information-and-assignment-agreement) ?
 
 ## Creating an open source project
