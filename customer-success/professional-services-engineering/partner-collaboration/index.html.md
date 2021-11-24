@@ -144,8 +144,9 @@ If the project requirements exceed the current capacity of the available resourc
              - PS Ops Team meets with Subcontractor to [review how to log time](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations), etc.
              - PS Ops Team adds subcontractor OOO schedule to Mavenlink
 Utilize project escalation process as needed
-                - WaR
-                - Work Exception 
+                - [Work at Risk (WAR)](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-at-risk&issue%5Btitle%5D=Work%20at%20Risk)
+                - [Work Exception](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-exception) 
+                - [Change Order](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=change-order&issue%5Btitle%5D=Change%20Order)
         - PS Ops Team submits Access Request Issues
             - Requesting access to appropriate technical tools (hardware & software)
             - Requesting to add subcontractor to appropriate slack channel(s)
