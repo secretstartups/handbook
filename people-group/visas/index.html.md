@@ -114,7 +114,7 @@ Everyone that meets the following requirements can request to immigrate and relo
 1. You have been a team member at GitLab for one year.
 1. You are not on a Performance Improvement Plan (PIP).
 
-#### Special considerations for underrepresented groups and unsafe environments
+#### Special considerations for team members in unsafe environments
 Tenure of less than 1 year at GitLab may be possibly waived as a requirement if:
   - You are a member of a(n [underrepresented](https://about.gitlab.com/company/culture/inclusion/#definitions)) group that is unsafe or in any way mistreated in your country.
   - Violence in your country does not provide a safe environment.
