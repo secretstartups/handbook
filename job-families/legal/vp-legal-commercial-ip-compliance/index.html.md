@@ -31,7 +31,7 @@ The VP of Commercial, IP and Compliance is a [grade 12](/handbook/total-rewards/
 - Previous experience in a Global Start-up and remote first environment would be ideal.
 - Experience with open source software a plus.
 - Experience with employment law a plus.
-- Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
+- Successful completion of a [background check](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#background-checks).
 - Ability to use GitLab
 
 ## Performance Indicators

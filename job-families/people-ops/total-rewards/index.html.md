@@ -47,7 +47,7 @@ The [Total Rewards](/handbook/total-rewards/) department strategically aligns th
 - Willing to make Total Rewards as open and transparent as possible
 - You share our [values](/handbook/values/), and work in accordance with those values
 - The ability to work in a fast-paced environment with strong attention to detail is essential.
-- Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
+- Successful completion of a [background check](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#background-checks).
 - Ability to use GitLab
 
 ### Benefits Coordinator
@@ -128,7 +128,7 @@ The Manager, Benefits is a [grade 8](/handbook/total-rewards/compensation/compen
 - Willing to make Total Rewards as open and transparent as possible
 - You share our [values](/handbook/values/), and work in accordance with those values
 - The ability to work in a fast-paced environment with strong attention to detail is essential.
-- Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
+- Successful completion of a [background check](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#background-checks).
 - Ability to use GitLab
 
 ### Compensation Coordinator

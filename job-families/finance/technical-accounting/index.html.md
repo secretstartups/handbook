@@ -36,7 +36,7 @@ The Technical Accounting Manager is a [grade 8](/handbook/total-rewards/compensa
 * Revenue recognition, namely 606, experience highly preferred.
 * Detail-oriented, self-directed and able to effectively complete tasks with minimal supervision
 * You share our [values](/handbook/values/), and work in accordance with those values.
-* Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
+* Successful completion of a [background check](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#background-checks).
 * [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 * Ability to use GitLab.
 

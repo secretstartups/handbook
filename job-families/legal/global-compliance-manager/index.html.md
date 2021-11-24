@@ -36,7 +36,7 @@ The Global Compliance Manager is a [grade 6](/handbook/total-rewards/compensatio
 - Enthusiasm and "self-starter" qualities enabling him or her to manage responsibilities with an appropriate sense of urgency; the ability to function effectively and efficiently in a fast-paced & dynamic environment.
 - Previous experience in a global startup and remote-first environment would be ideal.
 - Experience with open source software a plus.
-- Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
+- Successful completion of a [background check](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#background-checks).
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab
 

@@ -33,6 +33,6 @@ You and your team would communicate the strategic direction of the company at:
 - Ability to work well with colleagues both in and outside of the organization, with good judgment, discretion, and tact.
 - Ability to [lead a team](/handbook/leadership/) and good management skills.
 - You share our [values](/handbook/values/), and work in accordance with those values
-- Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
+- Successful completion of a [background check](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#background-checks).
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#s-group)
 - Ability to use GitLab

@@ -47,7 +47,7 @@ need to make sure that the company is building, shipping and supporting the righ
 - Ability to take decisions at high velocity.
 - Able to define minimum viable changes.
 - You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
-- Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
+- Successful completion of a [background check](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#background-checks).
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#s-group)
 - Ability to use GitLab
 

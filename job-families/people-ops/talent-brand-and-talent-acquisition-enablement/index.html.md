@@ -42,7 +42,7 @@ The Talent Brand Program Manager is a [grade 6](/handbook/total-rewards/compensa
 - Self-motivated with the ability to work both independently and collaboratively
 - Proficient in Google Docs
 - You share our [values](/handbook/values/), and work in accordance with those values
-- Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks)
+- Successful completion of a [background check](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#background-checks)
 - Ability to use GitLab
 
 ## Enablement
