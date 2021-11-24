@@ -37,7 +37,7 @@ title: "Vendor Guidelines"
 
 1.11  “GitLab” means GitLab Inc. and any GitLab Affiliate identified in a Transaction Document.
 
-1.12  “GitLab Code of Conduct” means the published document, updated from time to time, found at /handbook/legal/gitlab-code-of-business-conduct-and-ethics/.
+1.12  “GitLab Code of Conduct” means the published document, updated from time to time, found at https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d.
 
 1.13  “GitLab Data” means all GitLab information or data, including without limitation, personal data, used by Vendor in connection with the Agreement.
 
