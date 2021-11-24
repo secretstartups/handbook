@@ -134,6 +134,19 @@ In order to properly onboard the shadow, the Release Post Manager should:
 
 Remember - the goal of the shadow is to get them engaged and aware of the process so they can run one on their own. Include the shadow as much as possible so they can learn and be prepared!
 
+#### Technical Advisor considerations
+
+We recommend that technical advisors volunteer for at least 2 or 3 release posts in a row, to allow proper time for orientation with the process and the ongoing technical backlog. 
+
+Technical advisors are expected to:
+
+- Solve problems with Git branch conflicts and Ruby installations.
+- Be able to technically contribute to [`www-gitlab-com`](https://gitlab.com/gitlab-com/www-gitlab-com) source code.
+- Resolve some of the [backlog issues](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/3130926?&label_name%5B%5D=Release%20Post%3A%3ATech%20Advisor).
+
+The responsibilities of a technical advisor can be seen in more detail in [Technical advisors](#technical-advisors).
+
+
 ### Release Post Manager Responsibilities
 
 Critical path tasks:
@@ -141,8 +154,8 @@ Critical path tasks:
 - Setting up the release post branch and completing all the tasks assigned to the Release Post manager in the Release Post MR template
      - Reminder that if you can not perform any of the release post manager tasks between the 15th and the 22nd of the month as defined in the [monthly MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), it is recommended you sign up for another release post. In the case that schedule/circumstances changes after you'd already signed up for the release post, please consult with Product Operations on how to best manage the situation. 
 - Creating the release post [merge request](#create-the-release-post-mr)
-- Creating MRs to collect [usability improvements, performance improvementsm and bug fixes](#create-mrs-for-usability-improvements-bugs-and-performance-improvements)
-- Working with VP of Product Management to identify features to highlight in the introdcution
+- Creating MRs to collect [usability improvements, performance improvements and bug fixes](#create-mrs-for-usability-improvements-bugs-and-performance-improvements)
+- Working with VP of Product Management to identify features to highlight in the introduction
 - Sending out reminders about upcoming due dates
 - Merging the release post MR on the 22nd and ensuring the release post page goes live
 - Collecting feedback in the release post retrospective issue during the release post not just for your own challenges, but other team members chanllenges as they pop on Slack and other places
@@ -1588,6 +1601,8 @@ The release post is created from many small data files, that are rendered into t
 
 The content files need to be created every release with the content unique to that release, as described by the section [getting started](#getting-started).
 
+### Getting started
+
 The template and helper files are used to render the blog post from the many content files, and do not need to be changed in most releases.
 
 - **Templates:**
@@ -1602,6 +1617,24 @@ The template and helper files are used to render the blog post from the many con
   - **Blog post (Markdown) file**: the blog post file holds the introduction of the blog post and frontmatter ([template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md), [example](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/uncategorized/source/releases/posts/2017-05-22-gitlab-9-2-released.html.md)).
 
 To learn more how the template system works, read through an overview on [Modern Static Site Generators](/blog/2016/06/10/ssg-overview-gitlab-pages-part-2/).
+
+To run the project locally:
+
+1. In the terminal, go to the `www-gitlab-com` project. Depending where you cloned it:
+
+   ```sh
+   cd /path/to/www-gitlab-com
+   ```
+
+1. Install dependencies:
+
+   ```sh
+   bundle install
+   yarn
+   ```
+
+1. [Run Middleman](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/development.md#run-middleman).
+1. See the release post locally, using `http://127.0.0.1:4567/` instead of `https://about.gitlab.com/`. For example, `http://127.0.0.1:4567/releases/2021/09/22/gitlab-14-3-released/`.
 
 ### Feature order
 
