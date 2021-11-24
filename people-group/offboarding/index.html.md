@@ -65,7 +65,7 @@ The table below details the circumstances under which a Team Member will or will
 | Other | with Review |
 | Performance | with Review |
 | Not a fit for the role | with Review |
-| [Conduct](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/)| No |
+| [Conduct](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/)| No |
 | [Job Abandonment](https://about.gitlab.com/handbook/people-policies/#job-abandonment) | No |
 
 Opening of the offboarding issue which will in turn begin the process of systems de-provisioning will be aligned to the information presented by the People Business Partner within the Offboarding Workflow i.e. Termination Date / Last Working Day.
