@@ -61,7 +61,7 @@ If you wish to use dbt and contribute to the data team project, you'll need to g
 - In the `~/.dbt/` folder there should be a `profiles.yml`file that looks like this [sample profile](https://gitlab.com/gitlab-data/analytics/blob/master/admin/sample_profiles.yml)
 - The smallest possible warehouse should be stored as an environment variable. Our dbt jobs use `SNOWFLAKE_TRANSFORM_WAREHOUSE` as the variable name to identify the warehouse. The environment variable can be set in the `.bashrc` or `.zshrc` file as follows:
     - `export SNOWFLAKE_TRANSFORM_WAREHOUSE="ANALYST_XS"`
-    - In cases where more compute is required, the variable can be overwritten by adding `--vars '{warehouse_name: analyst_xl}'` to the dbt command
+    - In cases where more compute is required, the variable can be overwritten by adding `--target dev_xl'` to the dbt command
 - Clone the [analytics project](https://gitlab.com/gitlab-data/analytics/)
 - If running on Linux: 
   - Ensure you have [Docker installed](https://docs.docker.com/docker-for-mac/)
@@ -71,7 +71,7 @@ Note that many of these steps are done in the [onboarding script](https://gitlab
 ### Venv Workflow
 {: #Venv-workflow}
 
-Recommended workflow for anyone running a Mac system. 
+Recommended workflow for anyone running a Mac system.
 
 #### Using dbt
 
@@ -83,6 +83,9 @@ Recommended workflow for anyone running a Mac system.
 - To start a `dbt` container and run commands from a shell inside of it, use `make run-dbt`
 - This will automatically import everything `dbt` needs to run, including your local `profiles.yml` and repo files
 - To see the docs for your current branch, run `make run-dbt-docs` and then visit `localhost:8081` in a web-browser. Note that this requires the `docs` profile to be configured in your `profiles.yml`
+
+#### Why do we use a virtual environment for local dbt development?
+We use virtual environments for local dbt development because it ensures that each developer is running exactly the same dbt version with exactly the same dependencies. This minimizes the risk that developers will have different development experiences due to different software versions, and makes it easy to upgrade everyone’s software simultaneously. Additionally, because our staging and production environments are containerized, this approach ensures that the same piece of code will execute as predictably as possible across all of our environments.
 
 ### Docker Workflow
 {: #docker-workflow}
