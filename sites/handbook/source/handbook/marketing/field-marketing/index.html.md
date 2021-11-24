@@ -187,7 +187,7 @@ SimplyDirect defines engagement by targets filling out the survey.  The SimplyDi
 
 #### Helpful Links
 * [**Survey Details**](/handbook/marketing/field-marketing/#survey)  
-* [**Simply Direct Marketo & SFDC Instructions**](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-simplydirect-surveys-in-marketo-and-sfdc)  
+* [**Simply Direct Marketo & SFDC Instructions**](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-surveys-in-marketo-and-sfdc)  
   * **Note about Nurture Setup**: You'll need Verticurl to "activate" (turn on) the triggered smart campaign for nurture *before* leads begin to flow into the program so everything is automated. Make sure to submit your [add to nurture request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_add_nurture.md) to Verticurl as soon as your Marketo program is set up and request a triggered nurture setup (automatically updates with new leads) versus a batch run (one time update).
 * [**Pathfactory Request**](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)  
 
