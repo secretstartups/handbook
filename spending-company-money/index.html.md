@@ -23,7 +23,7 @@ The guidelines below describe what people in our team commonly expense. Some of 
 1. If you make a purchase that will cost GitLab $1000 USD per item (or over), this is classed as company property, you will be required to return the item(s) if you leave the company.
 1. Employees: file your expense report in the same month that you made the purchase. Contractors: include receipts with your invoices.
 1. Any non-company expenses should not be paid with a company credit card.
-1. If team members submit expenses for reimbursement for personal purchases that are not covered in the expense policy, this is a violation of our [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).  
+1. If team members submit expenses for reimbursement for personal purchases that are not covered in the expense policy, this is a violation of our [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).  
 
 
 ## Expense Policy
