@@ -9,6 +9,9 @@ title: "Tax Treatment of Stock Options as Employee of GitLab GmbH"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+### TL;DR
+This page can be used to check the tax consequences following the exercise of GitLab stock options. The Tax Team will try to do its best to cutting through complexity for you. However, the information on this page should be used for discussion purposes only. For any personal advice please reach out to a tax professional.
+
 ### Equity Award
 Stock Option Plan
 
@@ -41,18 +44,18 @@ Yes (capped)
 GitLab must withhold estimated employee social insurance contributions and remit both employee and employer estimated social insurance contributions by the third bank working day before the end of the month in which the taxable event occurs; any unpaid social insurance contributions should be remitted with the following month's contributions.
 
 Employee Rate:
-- On annual income up to EUR 84,600 (West German states) / EUR 81,00 (East German States)
+- On annual income up to EUR 85,200 (West German states) / EUR 80,400 (East German States)
 - Old age pension 9.3%
-- Unemployment 1.25%
-- In addition, on annual income up to EUR 54,450:
+- Unemployment 1.2%
+- In addition, on annual income up to EUR 58,050:
 - Home Care Insurance 1.525% (plus 0.35 % for employees age 23 and older without children)
 - Health Insurance 7.3% (+ 50 % of additional contribution if levied by the Health Insurance carrier).
 
 Employer Rate:
-- On annual income up to EUR 84,600 (West German states) / EUR 81,00 (East German States)
+- On annual income up to EUR 85,200 (West German states) / EUR 80,400 (East German States)
 - Old age pension 9.3%
-- Unemployment 1.25%
-- In addition, on annual income up to EUR 54,450
+- Unemployment 1.2%
+- In addition, on annual income up to EUR 58,050
 - Home Care Insurance 1.525%
 - Health Insurance 7.3% (+ 50 % of additional contribution if levied by the Health Insurance carrier)
 
