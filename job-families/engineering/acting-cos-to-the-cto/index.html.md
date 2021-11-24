@@ -19,7 +19,7 @@ This role will help enable communication, collaboration, strategy execution, and
 - Maintain and foster a close partnership, collaborating effectively with the CEO’s Chief of Staff on strategic initiatives.
 - Conduct weekly 1:1 meetings with your manager and your peers (CTO Staff/Direct reports).
 - Curate the Engineering Week-in-Review each Friday, ensuring the content is relevant.
-- Record one [Day in the Life of (DITLO) video interview](/handbook/engineering/#day-life-of-ditlo-videos) with a user and share it across Engineering
+- Record one [Day in the Life of (DITLO) video interview](/handbook/engineering/#day-in-the-life-of-ditlo-videos) with a user and share it across Engineering
 - Organize and determine a program for a potential CTO Staff Offsite (virtual or on-site) in the last month of your term.
 - Drive future special projects, such as past examples like
     - The [Volunteer Coaching Program for URGs](https://about.gitlab.com/handbook/engineering/volunteer-coaches-for-urgs/)
