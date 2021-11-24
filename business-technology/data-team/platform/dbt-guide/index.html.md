@@ -61,7 +61,7 @@ If you wish to use dbt and contribute to the data team project, you'll need to g
 - In the `~/.dbt/` folder there should be a `profiles.yml`file that looks like this [sample profile](https://gitlab.com/gitlab-data/analytics/blob/master/admin/sample_profiles.yml)
 - The smallest possible warehouse should be stored as an environment variable. Our dbt jobs use `SNOWFLAKE_TRANSFORM_WAREHOUSE` as the variable name to identify the warehouse. The environment variable can be set in the `.bashrc` or `.zshrc` file as follows:
     - `export SNOWFLAKE_TRANSFORM_WAREHOUSE="ANALYST_XS"`
-    - In cases where more compute is required, the variable can be overwritten by adding `--target dev_xl` to the dbt command
+    - In cases where more compute is required, the variable can be overwritten by adding `--target dev_l` to the dbt command
 - Clone the [analytics project](https://gitlab.com/gitlab-data/analytics/)
 - If running on Linux: 
   - Ensure you have [Docker installed](https://docs.docker.com/docker-for-mac/)
