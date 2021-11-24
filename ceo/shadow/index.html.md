@@ -187,8 +187,8 @@ Exceptional community members may be able to participate, as well.
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
 | 2021-11-15 | 2021-11-19 | [David Kim](https://gitlab.com/dskim_gitlab) - Sr. Backend Engineer | [REB - Richard E. Baum](https://gitlab.com/xyzzy) - Sr. Solutions Architect |
-| 2021-11-30 | 2021-12-03 | AVAILABLE - REMOTE | [David Kim](https://gitlab.com/dskim_gitlab) - Sr. Backend Engineer |
-| 2021-12-06 | 2021-12-10 | [James Heimbuck](https://gitlab.com/jheimbuck_gl) - Sr. Product Manager | AVAILABLE - REMOTE |
+| 2021-11-30 | 2021-12-03 | [Amy Qualls](https://gitlab.com/aqualls) - Sr. Technical Writer | [David Kim](https://gitlab.com/dskim_gitlab) - Sr. Backend Engineer |
+| 2021-12-06 | 2021-12-10 | [James Heimbuck](https://gitlab.com/jheimbuck_gl) - Sr. Product Manager | [Amy Qualls](https://gitlab.com/aqualls) - Sr. Technical Writer |
 | 2021-12-13 | 2021-12-17 | [Cynthia Ng](https://gitlab.com/cynthia) - Sr. Support Engineer | [James Heimbuck](https://gitlab.com/jheimbuck_gl) - Sr. Product Manager |
 | 2022-01-03 | 2022-01-07 | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager | [Cynthia Ng](https://gitlab.com/cynthia) - Sr. Support Engineer |
 | 2022-01-10 | 2022-01-14 | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager |
@@ -501,8 +501,8 @@ Shadows are responsible for being aware of the current time and verbally providi
 **Tips for time-keeping:**
 - Decide who. Past shadows have found it helpful for the individual in the second week of the program to commit to keeping time when applicable.
 - Understand meeting length. Use the calendar invite as an indication of how long the meeting should last. Remember, we do [speedy meetings](/handbook/communication/#scheduling-meetings).
-- Shadows should provide a 5-minute and a 1-minute notification. You can write "Time check, 5 minutes" on Zoom chat. 
-- **If a meeting is running over the allocated time, unmute and verbally say "we're in overtime".** Don't wait for a break in the conversation. 
+- Shadows should provide a 5-minute and a 1-minute notification. You can write "Time check, 5 minutes" on Zoom chat.
+- **If a meeting is running over the allocated time, unmute and verbally say "we're in overtime".** Don't wait for a break in the conversation.
 
 **Tools to help.**
 
@@ -1076,6 +1076,6 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-09-07  | 2021-09-17 | [Kris Reynolds](https://gitlab.com/kreykrey) | Manager, Field Enablement Programs | |
 | 2021-09-13  | 2021-09-24 | [Darren Murph](https://gitlab.com/dmurph) Shadow Alumni | Head of Remote | |
 | 2021-09-20  | 2021-10-01 | [Christen Dybenko](https://gitlab.com/cdybenko) Shadow Alumni | Sr. Product Manager | |
-| 2021-09-28 <br/>2021-10-18 | 2021-10-01 <br/>2021-10-22 | [Kyle Wiebers](https://gitlab.com/kwiebers) | Engineering Manager, Eng Productivity | | 
+| 2021-09-28 <br/>2021-10-18 | 2021-10-01 <br/>2021-10-22 | [Kyle Wiebers](https://gitlab.com/kwiebers) | Engineering Manager, Eng Productivity | |
 | 2021-10-18 | 2021-10-29 | [Omar Eduardo Fernandez](https://gitlab.com/ofernandez2) | Director, Strategy and Operations | |
 | 2021-10-25 <br/>2021-11-08 | 2021-10-29 <br/>2021-11-12 | [Taurie Davis](https://gitlab.com/tauriedavis) | Product Design Manager, Foundations | |
