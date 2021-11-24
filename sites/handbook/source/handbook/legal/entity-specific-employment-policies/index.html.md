@@ -13,7 +13,7 @@ description: "A directory of employment-related policies categorized by entity"
 
 ## Introduction
 
-This page will serve as a directory for our team members employed through a GitLab entity to locate employment-related policies specific to their country of residence. These policies do not supersede [GitLab Inc.'s Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/). 
+This page will serve as a directory for our team members employed through a GitLab entity to locate employment-related policies specific to their country of residence. These policies do not supersede [GitLab Inc.'s Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d). 
 
 ## GitLab Entities
 
@@ -168,7 +168,7 @@ To ensure the physical and mental health and safety of our team members in New Z
  
 **Workplace Harassment Policy**
 * [Anti-Harassment Policy](https://about.gitlab.com/handbook/anti-harassment/#introduction)
-* [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/)
+* [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d)
  
 **Fair Employment Practices Policy**
 * [GitLab PTE LTD Fair Employment Practices Policy](https://docs.google.com/document/d/1osJfO9BysOqjpt5iLnqygXX7B5Imb9NXIXA3KBtDCJk/edit?usp=sharing)
