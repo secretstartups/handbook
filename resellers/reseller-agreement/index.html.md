@@ -196,7 +196,7 @@ Pursuant to the terms of the Agreement, this Exhibit describes the terms and con
 trade names, markings or notices affixed to or contained in the GitLab Products and Services;
 2.7.10. be responsible for advertising and promoting the GitLab Products and Services in the Territory;
 2.7.11. comply with all of the guidelines and conditions of the GitLab Partner Program; and
-2.7.12. Comply with the GitLab Partner Code of Ethics as found at https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/
+2.7.12. Comply with the GitLab Code of Business Conduct and Ethics as found at https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d
 2.8. GitLab shall:
 2.8.1. Provide Partner with marketing and technical assistance reasonably necessary to enable Partner to Resell GitLab Products and Services;
 2.8.2. Provide Partner promptly with all applicable information and assistance necessary to enable Partner to perform its obligation under this Agreement. 
