@@ -290,7 +290,7 @@ _Mediation_
 
 ### GitLab Inc and GitLab Federal LLC
 
-In addition to [EthicsPoint](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#viii-questions-reporting-and-effect-of-violations) and [Lighthouse](https://about.gitlab.com/handbook/people-group/#how-to-report-violations), please review the [Team Member Relations Specialist](/handbook/people-group/#team-member-relations-specialist) section. GitLab also offers a [Harassment Complaint Form](https://docs.google.com/document/d/1Xk5SXvh2kpO-w-TdykiczjhXNrEBjbMwDQHEt6lMhIk/edit?usp=sharing) that any team member may use to document any instance of any type of workplace harassment. Simply copy the form, fill it out with your information and send it to our Team Member Relations Specialist at teammemberrelations@gitlab.com.
+In addition to [EthicsPoint](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#viii-questions-reporting-and-effect-of-violations) and [Lighthouse](https://about.gitlab.com/handbook/people-group/#how-to-report-violations), please review the [Team Member Relations Specialist](/handbook/people-group/#team-member-relations-specialist) section. GitLab also offers a [Harassment Complaint Form](https://docs.google.com/document/d/1Xk5SXvh2kpO-w-TdykiczjhXNrEBjbMwDQHEt6lMhIk/edit?usp=sharing) that any team member may use to document any instance of any type of workplace harassment. Simply copy the form, fill it out with your information and send it to our Team Member Relations Specialist at teammemberrelations@gitlab.com.
 
 ### California Law Requirements
 
