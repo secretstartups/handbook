@@ -34,7 +34,7 @@ The Learning & Development Instructional Designer is responsible for designing a
 * Ability to use GitLab
 * Bachelor’s degree or equivalent experience in Instructional Development, Training Education/Communication is preferred
 * You share our [values](https://about.gitlab.com/handbook/values), and work in accordance with those values
-* Successful completion of a [background check](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks)
+* Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks)
 
 
 ## Levels
