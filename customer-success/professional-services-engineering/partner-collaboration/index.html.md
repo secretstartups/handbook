@@ -77,22 +77,21 @@ If the project requirements exceed the current capacity of the available resourc
 
 
 1. Partner Search 
-    - Share “sample SOW” with viable partners
-        - Create “sample SOW” for the following 5 elements
-        - Advisory
-        - Implementation
-        - Migration
-        - Project Management
-        - Training
-    - Share “PSE Profile” with viable partners
-        - Create “perfect PSE” profile (aka technical requirements)
-        - Advisory
-        - Implementation
-        - Migration
-        - Project Management
-        - Training
+    - Share “sample PS Projects” with viable partners
+        - [Advisory Project](https://docs.google.com/document/d/1KhADjTUOndaAev3dSLlRgyEJtBIT6wv_rr3aH5hsKKQ/edit?usp=sharing) 
+        - [Implementation Project](https://docs.google.com/document/d/13Mw-7uSSclfwm6JWcs8UrXM9SunX8ebIeIk-n9q9b6Y/edit?usp=sharing)
+        - [Migration Project](https://docs.google.com/document/d/1OuCZqxZvjiPx2S0bFnX8tGgfBFWeg_gdifQWhdtTlAg/edit?usp=sharing)
+        - Project Management Project (coming soon)
+        - Training Project (coming soon)
+    - Share “PSE Profiles” with viable partners
+        - Advisory (Profile coming soon)
+        - Implementation (Profile coming soon)
+        - Migration (Profile coming soon)
+        - Project Management (Profile coming soon)
+        - Training (Profile coming soon)
 
 1. Partner Vetting
+    - Sr. Channel Solutions Manager sends [Skills Matrix Form](https://docs.google.com/forms/d/e/1FAIpQLScxgCHtbuLl53HrzH55hTpXxCSCXeUDRo6uyM2YKxy9QHMI0w/viewform?usp=sf_link) for Subcontractor to complete prior to meetings with PS Team Members. 
     - Sr. Channel Solutions Manager schedules 15 min "consultant vetting" from Director of Professional Services 
     - Professional Services Director approval needed to move forward  
     - Sr. Channel Solutions Manager to schedule 30-45 min technical deep-dive with a Senior PSE 
