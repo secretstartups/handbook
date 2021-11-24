@@ -30,14 +30,14 @@ Lunch-and-Learns are generally 1 hour and involve presentation, demo, and Q&A an
 
 ### Currently available sessions
 
-The folllowing are already developed, have been given to multiple customers and are [available](https://drive.google.com/drive/folders/1NnDsqoc-KRdy7hF1jbo6H_59FwzpiKUc):
+The following are already developed, have been given to multiple customers and are [available](https://drive.google.com/drive/folders/1NnDsqoc-KRdy7hF1jbo6H_59FwzpiKUc):
 * **Intro to GitLab** _(for teams just starting with GitLab)_ - General intro session that gives a high-level overview of GitLab
 * **Developer Journey - Idea to Production** _(for developers, operations, security)_ - Covers a typical workflow for a developer from getting assigned an issue to work on through creating the merge request, making changes and reviewing the pipeline results, and participating in code reviews
 * **WebIDE and Markdown** _(for anyone looking to make changes to code or Pages)_ - Covers what you can do with the built-in GitLab WebIDE to make changes to code, files, Pages directly from the GitLab web UI, as well as tips & tricks you can do with GitLab markdown in issues, merge requests, epics, Pages, etc.
 * **Git Basics** _(for those who want to contribute on their local machine)_ - Focuses on the command line interface into GitLab that a developer may need to pull/push code to/from the GitLab server
 * **CI/CD Basics** _(for those who want to learn about automated build/test/deploy pipelines)_ - Covers the basics of how to set up a pipeline to build, test, and deploy your code
-* **Advanced CI/CD** _(for those interested in learning more about CI/CD)_ - Requires basic CI/CD knowledge and covers advanced topics such as includes/extends, rules, child pipelines, and more (specific content will be curated)
-* **GitLab Security and Compliance** _(for security, developers, managers, and PMs)_ - Covers an overview of the security features including how developers see the scan results in the merge request and how security teams can review the results in the Security Dashboard
+* [**Advanced CI/CD**](/handbook/customer-success/workshops/ci-workshop.md) _(for those interested in learning more about CI/CD)_ - Requires basic CI/CD knowledge and covers advanced topics such as includes/extends, rules, child pipelines, and more (specific content will be curated)
+* [**GitLab Security and Compliance**](/handbook/customer-success/workshops/secure/) _(for security, developers, managers, and PMs)_ - Covers an overview of the security features including how developers see the scan results in the merge request and how security teams can review the results in the Security Dashboard
 * **GitLab as a PM tool** _(for PMs, scrum masters, team leads, developers)_ - Focuses on organization and use of epics, sub-epics, roadmaps, issues, labels, milestones, and boards
 * **Issue, labels, and boards** _(for those interested in learning more about GitLab PM)_ - Covers more tips & tricks on issues, labels, and boards and is good follow-on after the PM session
 * **DevOps Metrics with GitLab** _(for managers, PMs, team leads)_ - Goes over what the DORA4 metrics are, why it is useful to track them, and what is available in GitLab
@@ -81,7 +81,7 @@ When you do pause for questions, try to answer them but it is OK to say you don'
 
 ### After the session
 
-Send a copy of the sldies used and a link to the recording to your champion so they can share it with the aprticipants and with those that could not attend the live session. Follow up on any question that could not be answered.  Add a follow-up item to your next cadence call agenda to see what they thought went well and what could be improved for future sessions. Work to schedule other sessions based on demand.
+Send a copy of the slides used, and a link to the recording to your champion so they can share it with the participants and with those that could not attend the live session. Follow up on any question that could not be answered. Add a follow-up item to your next cadence call agenda to see what they thought went well and what could be improved for future sessions. Work to schedule other sessions based on demand.
 
 ## Session Notes
 

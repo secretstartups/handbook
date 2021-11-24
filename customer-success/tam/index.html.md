@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Technical Account Management Handbook"
-description: "The Technical Account Management team at GitLab is a part of the Customer Success department, activing as trusted advisors to our customers and helping them realize value faster."
+description: "The Technical Account Management team at GitLab is a part of the Customer Success department, acting as trusted advisors to our customers and helping them realize value faster."
 ---
 
 ## On this page
@@ -58,7 +58,7 @@ Aligning passionate TAMs with customers to ensure their success by...
    - [Sample Questions & Techniques for Getting to Good Customer Metrics](https://about.gitlab.com/handbook/customer-success/tam/success-plans/questions-techniques/)
 - [Stage Enablement & Stage Expansion - The Two Stage Adoption Motions](/handbook/customer-success/tam/stage-enablement-and-expansion/)
    - [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
-   - [The Customer Value Received with Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
+   - [The Customer Value Received with Service Ping](/handbook/customer-success/tam/service-ping-faq/)
    - [Product Usage Data - Definitive Guide to Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
    - [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/)
    - [Metrics Based Product Usage Playbooks](/handbook/customer-success/product-usage-data/metrics-based-playbooks/)
@@ -176,7 +176,7 @@ As a Technical Account Manager, it is important to be continuously learning more
 
 ## SFDC useful reports 
 
-### Tracking oportunities for your assigned SALs
+### Tracking opportunities for your assigned SALs
 
 To ensure that opportunities are listed with the correct Order Type, [this Salesforce report](https://gitlab.my.salesforce.com/00O4M000004agfP) shows you all of the opportunities that have closed, or are soon to close, with your SALs. Tracking Order Type is important since TAM team quota and compensation depend on this. Please reference the latest [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/) information to know what is counted.
 

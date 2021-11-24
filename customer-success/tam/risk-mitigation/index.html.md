@@ -21,6 +21,7 @@ We have identified these as the most common types of risk in an account...
    - Lack of a plan
 - **Competitive**
 - **Product** (the product does do what they want or meets their needs or isn't mature enough)
+- **Product Usage** (not using features & functionality they've paid for... Ex. Ultimate customer not using Secure)
 - **Lack of Engagement/Loss of Champion**
 
 ## **Discovery into the Risk**
@@ -59,6 +60,22 @@ Based on the identified type of risk, the TAM can use some of the following ques
    - `What feature(s) do you need **right now** to continue using GitLab?`
    - `Where do you see more opportunity to replace other tools if GitLab was more mature?`
 
+### Product Usage (not using features & functionality in their license tier)
+#### Ultimate Customer not using Secure
+   1. `What kind of security tests are mandated or recommended within your organization?`
+      - If they give any answer related to 3rd party products, just to question 2.
+      - If they say “nothing is mandated/recommended”, ask “why”.
+      - Adoption is shown to increase dramatically when leadership has bought into the solution and mandates usage.
+   1. `What tools are you using to meet those mandates?` 
+      - Third-party or custom-built in-house solutions? 
+      - Are those specific tools mandated or do teams have the freedom to choose what they use?
+   1. `Does your organization have a concrete shift-left or DevSecOps initiative in play?`
+      - If “Yes”... “Tell me about that in terms of tooling and timelines.”
+   1. `Are you aware that you can enforce compliance and security testing at the group level using our compliance frameworks?`
+      - If they say “No”, arrange for enablement around compliance frameworks.
+      - If they say “Yes”, follow up with “Are you using them to ensure security compliance?”
+
+
 ### Lack of Engagement/Loss of Champion
    - `Who is in charge of maintaining GitLab going forward?`
    - `Is there someone in your organization in charge of tool adoption or change management?`
@@ -86,6 +103,15 @@ Once we know the risk and done some discovery into that risk, we have some optio
 - Based on the discovery questions, identify the gaps.
 - If it's a maturity problem, each product Stage has a roadmap page in the handbook. Product Managers are also generally very happy to get on a call with a customer to discuss the roadmap and to listen to the customer's needs and wants.
 - If its a functionality gap, make sure that you've identified all the gaps and added the customer to the relevant issues using the [Product Feedback Template](https://about.gitlab.com/handbook/product/how-to-engage/#feedback-template). Its also a good opportunity to get a PM on a call with the customer to help advocate for these issues and get them on the roadmap.
+
+### Product Usage (not using features & functionality in their license tier)
+#### Ultimate Customer not using Secure
+- Offer a [Secure Workshop](https://about.gitlab.com/handbook/customer-success/workshops/secure/)
+- Try to come up with an adoption strategy that will get them to use more Secure
+- Try to identify teams who are willing to test out Secure functionality at a small scale
+- Try to engage with the Security team to find out what policies aren't being followed
+- Try to engage with the Economic Buyer and let them know of the lack of adoption and your concerns
+   - Encourage them to implement a top-down mandate to use more GitLab Secure
 
 ### Lack of engagement/Loss of champion
 - For lack of engagement, please see our [Strategies for Non-Engaged Customers](https://about.gitlab.com/handbook/customer-success/tam/engagement/Non-engaged-customer-strategies/) handbook page.

@@ -112,7 +112,7 @@ As a Solutions Architect, Technical Account Manager, or Professional Services En
 
 TAM-Created, Enablement Focus:
 
-- [All TAM-created workshops ](/handbook/customer-success/workshops/)
+- [All TAM-created workshops](/handbook/customer-success/tam/workshops/)
 
 SA-Created, Hands-On Focus:
 
