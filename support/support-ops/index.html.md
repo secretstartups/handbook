@@ -166,6 +166,20 @@ During this time, we will still do the following:
 * Make changes to access based on ARs for onboarding and offboarding
 * Maintain changes to the Support team page
 
+## Hiring Plan
+
+Currently, Support Operations is using a ratios for our hiring plan. The ratios
+used are:
+
+* 40 Support Engineers to every 1 Support Operations Specialist
+* 10 Support Operations Specialists to every 1 Support Operations Manager
+
+There are plans to utilize the information at the
+[Support Ops Metrics page](https://gitlab-com.gitlab.io/support/support-ops/support-ops-metrics/)
+in conjuction with the above ratios to refine this hiring plan in the future.
+The Support Ops Metrics page can be used to get a quick look at how we are
+currently doing and help determine future needs.
+
 ## Frequently Asked Questions (F.A.Q.)
 
 **If we receive any problem in using Zendesk, can we contact Zendesk directly?**
