@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
-title: "Data Dictionary"
-description: "TThe purpose of this page is to align the data attributes to be used on all website links"
+title: Data Dictionary
+description: >-
+  Our goal is to to ensure the consistency of data attribute keys and values for tagging the Marketing site. This will result in properly formatted event data getting added to the dataLayer and sent to Google Analytics.
 ---
 
 ## On this page
@@ -13,18 +14,19 @@ description: "TThe purpose of this page is to align the data attributes to be us
 # Digital definitions
 {:.no_toc}
 
-The purpose of this page is to align the data attributes to be used on all links to `*.gitlab.com` on about.gitlab.com, in order to send event data to Google Analytics. 
+Our goal is to to ensure the consistency of data attribute keys and values for tagging the Marketing site. This will result in properly formatted event data getting added to the dataLayer and sent to Google Analytics.
 
 ## Data Attribute Usage
 
-Each link on the website should have the two following data attributes: 
+Each link on the Marketing Site should have the two following data attributes:
 
 - `data-ga-name`
 - `data-ga-location`
 
-An example of this usage for a free trial button might be as follows: 
+An example of this usage for a free trial button might be as follows:
 
 ### HTML
+
 ```
 <a href="/free-trial/" data-ga-name="free trial" data-ga-location="hero">Get free trial</a>
 ```
@@ -43,12 +45,18 @@ Or preferrably:
 
 ### What is the Name attribute?
 
-The name should be, in english, what the button says or points to. 
+The `name` should be, in English, what the button/link/input/etc says or points to.
 
-An example for a page with a series of "learn more" links that lead to different customer pages might have a name like `goldman sachs link`. Please note that we prefer lower case letters. 
+An example for a page with a series of "Learn more" links that lead to different customer pages might have a `name` like `goldman sachs link`. *Please note:* we prefer lower case letters.
 
 ### What is the Location attribute?
 
+The purpose of the `location` attribute is to discern between multiple links with the same `name` on the same page. The `location` attribute is primarily for our top pages (see [this link](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/80) for our current top 50 pages). For the lower priority pages, simply having the `name` attribute should suffice.
 
-
-
+| Key | Definition | Example |
+| --- | ---------- | ------- |
+| nav | This link is found in the navigation of the page. | `data-ga-location="nav"` |
+| header | This link is found in the header of a page. | `data-ga-location="header"` |
+| body | If this link is the only one of its kind in the main body of the page (not the hero, not the nav/footer), you can use body.  | `data-ga-location="body"` |
+| {{section}} | If there are multiple links of this kind within the body, consider naming the location something descriptive about what section this particular link can be found under. Examples might be "features" or "benefits" | `data-ga-location="features"` |
+| footer | This is for links in the footer of the page. The footer is the very bottom section with the purple background.  | `data-ga-location="footer"` |
