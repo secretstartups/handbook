@@ -57,7 +57,7 @@ Any event  that we have paid to sponsor, have a booth/presence and are sending r
 
 In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual booth and sometimes a speaking session slot or panel presence. Presence of a virtual booth is a requirement due to success criteria. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-sponsored-virtual-conference).
 
-For list loads greater than 1,000 of `attendees` they will not be considered a `success` or `scored` as such.
+For list loads greater than 1,000 of `attendees` they will not be considered a `success` or `scored` as such. Follow [directions here](/handbook/marketing/marketing-operations/campaigns-and-programs/#instructions-how-to-update-conferences-with-more-than-1000-attendees) on how to do this (MktgOps only).
 
 **Bizible:** This is tracked as an _offline_ channel, because we do not host a registration page, and receive a list of booth visitors post-event.
 
@@ -496,7 +496,6 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - a. [Simply Direct template](https://app-ab13.marketo.com/#PG6164A1)
 - b. [General survey template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6402A1)
 - Use format `YYYY_MM_SurveyName`
-- 
 
 ##### Step 2: Sync to Salesforce
 
