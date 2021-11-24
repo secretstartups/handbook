@@ -41,7 +41,7 @@ This policy is not intended to limit team members from sharing their feedback or
 ### All other GitLab codes of conduct and policies also apply to our social media policy
 {:.no_toc}
 
-Please adhere to the [Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/), [Anti-Harrassment Policy](https://about.gitlab.com/handbook/anti-harassment/), which includes sexual harrassment and discrimination policies, and our [Code of Business Conduct and Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/). These policies all apply to team member behavior within social media and in public online spaces.
+Please adhere to the [Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/), [Anti-Harrassment Policy](https://about.gitlab.com/handbook/anti-harassment/), which includes sexual harrassment and discrimination policies, and our [Code of Business Conduct and Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/). These policies all apply to team member behavior within social media and in public online spaces.
 
 ##### Social Media sometimes generates press and media attention or legal questions. Please refer all inquires to the Communications Team in the #external-comms Slack channel.
 {:.no_toc}
