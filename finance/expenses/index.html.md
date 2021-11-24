@@ -52,7 +52,7 @@ Team members are reimbursed on different schedules depending on their location. 
         - You can use the same invoice copy each month.
     1. Expense report items should clearly state if the spend includes amounts for clients / non-team members. Tax requirements in certain countries require us to account for client spend differently.
     1. All team members must submit their expense reports in their designated policies in Expensify - COGS team members in COGS policies and non-COGS team members in non-COGS policies.
-        - You can verify the policy that you are reporting in by review the title of your report: `Report Title: Sid Sybrant | Receipt Date: 2021-11-05 to 2021-11-05 | **Policy Name: GitLab- Amex** | Report ID: 83335598 | Total $275.35`
+        - You can verify the policy that you are reporting in by review the title of your report: `Report Title: Sid Sijbrandij | Receipt Date: 2021-11-05 to 2021-11-05 | **Policy Name: GitLab- Amex** | Report ID: 83335598 | Total $275.35`
         - The value next to *Policy Name* should match the entity, PEO, Country and COGS/Non-COGS department that you are employed with.  If these values are not a match, you can change them on the right hand side of the page - under Details, then under policy there is a drop down to choose from any policies you are a part of.
     1. Giftcards are not accepted as a form of payment for business expenses.
     1. All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date.
