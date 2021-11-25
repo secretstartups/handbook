@@ -66,6 +66,14 @@ Please indicate the relative priority of the new issue compared to any other iss
 in the backlog (if applicable). In general, the issues that are more immediately actionable and 
 impactful to the [company KPIs](/company/kpis/) should be higher in priority.
 
+We ask that PMs apply a `pm-priority::` label to issues to indicate relative priority of the ask.
+
+| Label | Priority |
+| ----- | -------- |
+| `pm-priority::1` | High and/or urgent |
+| `pm-priority::2` | Medium |
+| `pm-priority::3` | Low, non-urgent |
+
 ### Iteration Planning
 
 Final commitment and prioritization will occur during the iteration planning meeting, which 
@@ -221,26 +229,24 @@ our level of support.
 {: .alert .alert-info}
 
 The [agenda](https://docs.google.com/document/d/1ZXS-eeZNuRUn7176dZFqsyhIU-DSWYvWuEhogpbTzys/edit#) 
-is first-come, first-served. Please add your name and topic (or question) by EOD Monday before 
-the next office hours. This allows the team time to review new agenda items ahead of time.
+is first-come, first-served. Walk-ins/drop-ins are always welcome, but if possible, please add 
+your name and topic (or question) by EOD Monday before the next office hours. This allows the 
+team time to review new agenda items ahead of time.
 
-Topics will be time-boxed to 30 minutes in order to ensure that, at minimum, we are able to help 
-2 stakeholders. (An exception will be made if there is only 1 item on the agenda). If 
-topics are too large to be covered in 30 minutes, a team member will reach out to the 
-stakeholder to either reduce the scope or to [open an issue for the team](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issue%5Bmilestone_id%5D=) 
+If there are multiple items on the agenda, topics will be time-boxed to 30 minutes in order to 
+ensure that, at minimum, we are able to help 2 stakeholders. If topics are too large to be 
+covered in 30 minutes, a team member will reach out to the stakeholder to either reduce the 
+scope or to [open an issue for the team](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request) 
 instead. Stakeholders are welcome to leverage office hours to discuss and define the new issue, 
-which can help reduce async back-and-forth communication in the issue itself.
-
-To respect everyone's time, the team will set the schedule ahead of time and notify the 
-stakeholders we have slated for discussion. We will also pull in 1-2 "on deck" topics -- 
-those that we might be able to address, time permitting. If we are unable to cover a topic, 
-it will be pushed to the following meeting.
+which can help reduce async back-and-forth communication in the issue itself. If we are unable 
+to cover a topic on the agenda, it will be pushed to the following meeting.
 
 #### Example Topics
 
 Office hours is intended for smaller bodies of work, brainstorming, and assistance with 
-data self-service. Since topics are limited to 30 minutes, we ask that stakeholders be mindful of the types of 
-items they add to the agenda. Here are some examples of topics for office hours:
+data self-service. Since topics are limited to 30 minutes, we ask that stakeholders be mindful 
+of the types of items they add to the agenda. When it doubt, add the topic and we can help scope 
+it. Here are some examples of topics for office hours:
 
 <details><summary>👍 Example Topic 1: Experiment Setup</summary>
 
@@ -304,7 +310,7 @@ addressed during office hours and should be captured in an issue. Please note th
 are welcome to come to office hours to discuss the scope and details of the subsequent issue 
 (see example topic 6 above).
 
-<details><summary>👎 Example Topic 7: New Dashboard</summary>
+<details><summary>👎 Example Topic 7: Net-New Dashboard</summary>
 
 Can you build a dashboard to help me understand invite acceptance rate?
 
@@ -324,7 +330,7 @@ Office Hours is intended to help PMs with smaller tasks, provide a venue for bra
 help folks looking to learn more about data self-service. The benefit is that the agenda is 
 first-come, first-served, the prioritization process is bypassed, and the wait time is minimal.
 
-Formal data requests are larger bodies of work captured in issues in the [Product Analytics project](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issue%5Bmilestone_id%5D=). 
+Formal data requests are larger bodies of work captured in issues in the [Product Analytics project](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request). 
 They can help answer more complex questions, but go through more robust [intake](/handbook/product/product-analysis/#issue-intake) 
 and [planning](/handbook/product/product-analysis/#iteration-planning) processes. As such, there 
 is a longer turn-around time given team size and [capacity](/handbook/product/product-analysis/#capacity).
@@ -332,8 +338,9 @@ is a longer turn-around time given team size and [capacity](/handbook/product/pr
 **What if I don't know if my topic is best suited for office hours or whether I need to open an issue?**
 
 Feel free to ask your analyst partner (if applicable) or in [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/). 
-In addition, we will review agenda items before office hours, and will flag any topics that are 
-too broad to be covered in office hours.
+When in doubt, come to office hours and the team can discuss there. We review agenda items added 
+in advance of office hours, and will flag any topics that are too broad to be covered during 
+office hours. 
 
 ### Slack
 
@@ -358,5 +365,6 @@ the Product Analysis team's asynchronous daily stand-up, powered by [Geekbot](ht
 1. [Growth Experiments Knowledge Base](/direction/growth/#growth-experiments-knowledge-base)
 1. [Growth Product Handbook](/handbook/product/growth/)
 1. [Data Team Handbook](/handbook/business-technology/data-team/)
+1. [Data Catalog](/handbook/business-technology/data-team/data-catalog/)
 1. [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
 1. [Experimentation Best Practices](/handbook/business-technology/data-team/experimentation-best-practices/)
