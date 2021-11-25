@@ -137,20 +137,17 @@ Any working epic that the team creates should be directly added as a child to on
 Working epic should always have:
 
 1. [A Problem Statement](https://lamport.azurewebsites.net/pubs/state-the-problem.pdf).
-1. Link to an issue board used to organize work described in the epic.
-1. Clear indication of the epic status in the epic description.
-    * ✅ - completed
-    * ⏹ - not started
-    * ⏳ - in progress
-1. ![Team label](img/label-team.png)
-1. Label used as part of the project scope (eg. `kubernetes`, `security-release`).
 1. [Directly responsible individuals][DRI] responsible for the project completion.
-1. Start and due date.
-1. Defined exit criteria.
-1. Issue admin. Issue priority, labels and epic for quick actions. [Example](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/273#issue-template). 
-1. Status YYYY-MM-DD to indicate what is being worked on, why, and planned next steps. The DRI is responsible for updating the epic status each week. 
+1. Defined exit criteria
+1. Issue admin section to provide the issue priority, labels and epic for quick actions. [Example](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/273#issue-template). 
+1. Status YYYY-MM-DD to indicate what is being worked on, why, and planned next steps. The DRI is responsible for updating the epic status each week. Note, this must be the last heading in the epic to support automated epic summary updates
+1. Start date and estimated due date
+1. Labels: 
+    * ![Team label](img/label-team.png)
+    * Label used as part of the project scope (eg. `kubernetes`, `security-release`).
+    * Epic status label using the 'workflow-infra::triage', 'workflow-infra::proposal', 'workflow-infra::in-progress', 'workflow-infra::done'
 
-In cases where the work is tracked in a project in a different group outside of our canonical project location, we will create two epics for the same topic and state in the epic description which one is the working epic.  It is expected that the Status of the Epic is updated on the DRI on a weekly basis.
+In cases where the work is tracked in a project in a different group outside of our canonical project location, we will create two epics for the same topic and state in the epic description which one is the working epic. 
 
 ### Issue Boards
 
