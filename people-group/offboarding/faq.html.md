@@ -88,7 +88,7 @@ Finance provides an invoice template that can be emailed to your personal email.
 
 #### Other Reimbursements, Refunds or Repurchasements
 
-- Please review our [Loan Policy](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#loans) if it applies to you. Please also note that in the event that a loan is approved, a legal contract, in accordance to the team member's state, local or federal laws regarding loans and repayment of loans during employment, will be created by the Legal team. It will lay out the complete loan terms, repayment and refunding policy if applicable. If you leave GitLab with any loan balance not yet repaid, it will be refunded to GitLab, if applicable and legally allowed, as laid out in the terms of the original contract and with support from the Payroll team.
+- Please review our Loan Policy in the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) if it applies to you. Please also note that in the event that a loan is approved, a legal contract, in accordance to the team member's state, local or federal laws regarding loans and repayment of loans during employment, will be created by the Legal team. It will lay out the complete loan terms, repayment and refunding policy if applicable. If you leave GitLab with any loan balance not yet repaid, it will be refunded to GitLab, if applicable and legally allowed, as laid out in the terms of the original contract and with support from the Payroll team.
 - Please review our [Unpaid Leave](/handbook/paid-time-off/#unpaid-leave-of-absence) section regarding payments in error. 
 - Please review our policy regarding [Repurchasing Unvested Shares](/handbook/stock-options/#exercising-your-options).
 
