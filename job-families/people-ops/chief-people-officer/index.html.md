@@ -73,7 +73,7 @@ Analytical
 Other requirements
 
 - You'll bring concise written and verbal communication skills to the team
-- You'll complete our [background check](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#background-checks).
+- Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 
 ## Performance Indicators
 

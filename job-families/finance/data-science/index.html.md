@@ -64,7 +64,7 @@ The Data Scientist (Intermediate)  is a [grade 6](/handbook/total-rewards/compen
 * [Self-motivated and self-managing](/handbook/values/#efficiency), with excellent organizational skills
 * Share our values, and work in accordance with those values
 * Ability to thrive in a fully remote organization
-* Successful completion of a [background check](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#background-checks)
+* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 
 #### Data Scientist (Intermediate) Performance Indicators
 

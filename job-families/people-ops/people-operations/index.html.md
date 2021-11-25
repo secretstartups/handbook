@@ -252,7 +252,7 @@ The Director, Global People Operations is a [Grade 10](/handbook/total-rewards/c
 - Strategic and innovative thinker; able to prioritize and use sound judgment and decision-making.
 - Executive presence with excellent written and oral communication skills.
 - Business insight and high EQ to successfully collaborate with executives and business partners at all levels.
-- Successful completion of a [background check](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#background-checks).
+- Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 - You share our [values](/handbook/values/), and work in accordance with those values.
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 - Ability to use GitLab

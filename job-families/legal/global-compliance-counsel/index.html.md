@@ -41,7 +41,7 @@ The Director, Global Risk and Compliance is a [grade 10](/handbook/total-rewards
 - Experience with DSS and government contracting compliance required.
 - Previous experience in a global startup and remote-first environment would be ideal.
 - Experience with open source software a plus.
-- Successful completion of a [background check](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#background-checks).
+- Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 - Ability to use GitLab
 
 ## Career Ladder

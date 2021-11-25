@@ -37,7 +37,7 @@ Engineering Analytics Manager manages a team of Engineering Analysts that work o
 * Able to use GitLab.
 * BS degree in Computer Science, Finance, Accounting or Economics (MS Prefered)
 * Confidentiality in handling sensitive organizational information.
-* Successful completion of our [background check](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d#background-checks)
+* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 
 
 ### Nice to haves
