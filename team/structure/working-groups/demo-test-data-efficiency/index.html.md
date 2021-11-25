@@ -49,5 +49,7 @@ We will benefit from tooling efficiency together and broaden visiblity of demo d
 | Stakeholder           | Tanya Pazitny          | Director of Quality           |
 | Executive Sponsor     | Mek Stittri            | VP of Quality                  |
 | Member                | Vincy Wilson           | Quality Engineering Manager    |
+| Member                | Tim Zallmann           | Senior Director of Engineering |
+| Member                | Mark Wood              | Senior Product Manager         |
 | Member                |                        |                                |
 | Member                |                        |                                |
