@@ -16,13 +16,18 @@ Most (if not all) work begins with an issue or epic (which we will generally ref
 1. Determine with your manager whether to invoke the workflow.
 1. Open an **architecture issue** in [architecture/tasks](https://gitlab.com/gitlab-org/architecture/tasks) project, which tracks progress of the workflow itself.
    1. Add a sensible title, and a brief summary and a link to the domain issue in the description.
+   1. Be mindful about not exposing information that should be kept [SAFE](/handbook/legal/safe-framework/).
    1. Proposal DRIs: assign the architecture issue to yourself, your manager, and an Architecture Evolution Coach (AEC); as we make progress and identify a management Engineering Leader, this individual will replace your manager as a DRI.
-1. Open an **architecture blueprint [merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/)**
-   1. The merge request should briefly describe the proposal in the [architecture blueprints directory](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints)
-   1. Add a sensible title and a link to the architecture issue in the description.
+1. Open a new Google Doc where you will collaborate on an architectural blueprint with others.
+   1. Write an initial draft of the blueprint, describe the vision, challenges and opportunities.
    1. Collaborate with AEC to find appropriate Domain Experts and Functional Experts (Security, QA and Infrastructure) that should be involved and @-mentioned in the blueprint merge request
    1. Collaborate with AEC to find relevant Product Management DRI if applicable and @-mention them in the blueprint merge request
    1. Post on [`#architecture` channel on Slack](https://gitlab.slack.com/archives/CJ4DB7517)
+   1. Post a request for the review on thei Slack channel (`#safe` Slack channel).
+   1. Once the initial draft gets approved, you can now move it to a merge request, and keep collaborating with DRIs there.
+1. Open an **architecture blueprint [merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/)**
+   1. The merge request should briefly describe the proposal from the Google Doc in the [architecture blueprints directory](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints)
+   1. Add a sensible title and a link to the architecture issue in the description.
 1. The AEC will help with scoping, roadmap placement, and organizational amplification by:
    1. Evaluating and updating roadmaps as necessary
    1. Engaging with the appropriate management Engineering Leader who will ultimately make priority and staffing decisions
