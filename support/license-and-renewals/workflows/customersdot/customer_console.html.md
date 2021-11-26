@@ -306,7 +306,7 @@ This includes potentially extending the expiry date.
 | `:namespace` | *Yes* | The namespace to update using the path |
 | `:plan` | *Yes* | The plan to assign to the namespace (free, bronze, silver, gold) |
 | `:expire` | *No* | Optional parameter, if entered the existing subscription will be extended up to this date |
-| `:subscription` | *Yes* | The plan's subscription to extend (e.g. A-S00000000) |
+| `:subscription` | *No* | Required to extend a subscription, but not for trials. |
 
 #### Sample
 
