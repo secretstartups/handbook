@@ -36,6 +36,15 @@ If a user cannot make use of self-serve methods (lost their account recovery cod
 
 If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
 
+### Conditions for 2FA Reset Consideration
+
+In order for a SaaS user to be a candidate for the [workflow](#workflow), one of the following is true:
+1. The user on GitLab.com occupies a seat in a paid group on GitLab.com
+1. The user is the primary billing contact on a current invoice for either Self-managed or SaaS purchases
+1. GitLab Employees (account managers, TAMs or others) collaborate with the holder of this account in an account management project.
+
+More succintly: they're paid, they use the account to pay, or we use the account to communicate with them.
+
 While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with [SSO enforcement](https://docs.gitlab.com/ee/user/group/saml_sso/#sso-enforcement) enabled. In these cases:
 
 1. [Owner vouch](#authenticating-an-owner) is required.
