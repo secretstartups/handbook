@@ -32,11 +32,17 @@ Frequency: Quarterly
 
 Attendees: Business Technology
 
+As part of a team who partners with and supports all other departments in a growing start-up, it can become easy for all of us to focus on the priorities and needs that arise every day, month or quarter, leaving documentation and our handbook first approach as a second priority.
+
+We want to make sure that as a team we are not only constantly adding new workflows/processes/solutions to the handbook, but we are also updating/removing/re-structuring information so we can provide team members across the company with round-the-clock easy-to-find-and-access information without having them to wait for a response from our teams.
+
 ## Hackathon
 
 Frequency: Anually
 
 Attendees: Business Technology
+
+A hackathon is a design sprint-like event; in which team members can collaborate intensively on projects. Hackathons create a structure and process around idea development. Hackathons should lead to concrete ideas for new processes that can improve the team member experience and company growth.
 
 ## Vendor Day
 
