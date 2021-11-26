@@ -150,14 +150,14 @@ Check out the [Demystifying the Metrics Conversation](/handbook/sales/command-of
 
 - What does the purchasing (budget and funding release) process entail?
 - What paperwork will be required to make the purchase happen?
-- Do you know how each step gets approved?
+- Do you know how each step gets approved? Are there any SLAs we need to be aware of along the way?
 - Does the purchasing process include a board or committee review/approval?
 - How has this process and timeline expectations for each step been documented and communicated?
 - Is there a legal team involved in contract negotiations?
 - Who is involved in this and how long does it take?
 - What does a purchase of this size look like?
 - Has a purchase of this size happened before?
-- Do you know who the actual signer is?
+- Do you know who the actual signer is? Is there more than one signatory?
 - Do you know if the PO gets automatically generated once the business approves the order form or if the PO needs to also get approved by someone in purchasing/procurement?
 - Is there enough time left in the quarter to complete this?
 
