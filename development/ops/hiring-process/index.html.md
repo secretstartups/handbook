@@ -47,7 +47,7 @@ The main purpose of sourcing is to **Identify and engage top talent**
 1. Reach Out
 
 **Resources**:
-- Mark Deubel's [Sourcing Outreach Podcast episode](https://doobles.podbean.com/e/building-the-foundation-sourcing-outreach-pt1-episode-3/)
+- Mark Deubel's [Sourcing Outreach Podcast episode](https://doobles.podbean.com/e/building-the-foundation-sourcing-outreach-pt1-episode-3/) and [sourcing outreach](https://doobles.podbean.com/e/guest-show-sourcing-outreach-with-dov-and-mark/)
 - [Talent Acquisition Reach out templates](https://docs.google.com/presentation/d/1ySqgLoYnFUGtb7hdywav6iSb_NBPRhfIs6WZlGne6Ww/edit?usp=sharing) (private)
 - [Ops reach out templates](https://gitlab.com/gitlab-com/ops-sub-department/ops-hiring-process/-/blob/main/outreach-messages.md) (private)
 - [Sourcing](https://about.gitlab.com/handbook/hiring/sourcing/)
