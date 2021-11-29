@@ -178,7 +178,6 @@ We use a series of labels to indicate the highest priority issues in the milesto
 1. The highest priorities for a given milestone would be issues labelled with `VerifyP1` and `group::pipeline execution`.
 1. Once all of the `VerifyP1` issues have been picked up and are in `workflow:in dev` or beyond, we have `VerifyP2` and `VerifyP3` to signal issues that will become `VerifyP1` issues in the following milestones.
 
-
 Any future product priorities (`VerifyP2` or `VerifyP3` labelled issues) will typically be in `workflow::ready for development` and have designs ready, and ideally already be weighted with proposals for implementation. Beyond the product `VerifyPX` priorities, the `ready for development` column will be stack ranked (or at least reviewed) daily by the Product Manager, so that each team member can pull from the top of the column expecting that it is already ordered in priority.
 
 To make sure we ship complete solutions in a [timely manner](https://app.periscopedata.com/app/gitlab/641753/UX-Debt) and contribute to the [overall CI/CD UX strategy](/handbook/engineering/ux/stage-group-ux-strategy/ci-cd/#strategy) we strive to close UX Debt Quickly. We try to dedicate a certain percentage (~10%) of our capacity by weight in each milestone to working on [ux debt](/handbook/engineering/ux/performance-indicators/#ux-debt) labeled issues and address them within their SLOs. We select items from the list of [open UX debt issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&state=opened&label_name%5B%5D=UX%20debt&label_name%5B%5D=group%3A%3Apipeline%20execution) for pipeline execution. Our goal is to close the high severity [open UX debt issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&state=opened&label_name%5B%5D=UX%20debt&label_name%5B%5D=group%3A%3Apipeline%20execution) and reduce the open UX Debt age from 620 to (at or below) 150 days.
@@ -477,7 +476,7 @@ We track our technical debt using the following [Pipeline Execution Technical De
 This board has 2 main sections:
 
 1. Issue readiness
-    - In `workflow::planning breakdown` we find issues that are currently being groomed.
+    - In `workflow::planning breakdown` we find issues that are currently being refined.
     - In `workflow::ready for development` we find issues that clearly defined and a weight has been assigned.
 
 1. Impact breakdown. We use `severity::1`, `severity::2`, `severity::3` and `severity::4` labels to classify the impact of the specific tech debt item.
@@ -486,7 +485,7 @@ This board has 2 main sections:
       - blocking debt that prevents any further changes in the area
       - we stumble on the same complex code every single time and it causes serious slow down on development
       - the problem exists in a core part of our domain that represents a dependency for a large number of features
-      - the problem is wild spread throughout several domains
+      - the problem is wide spread throughout several domains
       - the problem is related to a number of reported `severity::1` bugs
     - `severity::2` High
       - blocks many changes in the area or makes them difficult to work around it
@@ -504,6 +503,8 @@ This board has 2 main sections:
       - the problem is very isolated and has low or no impact to development
       - the area affected does not change frequently
       - the problem is related to a number of reported `severity::4` bugs
+
+1. Issue scheduling. The Engineering Manager(s) will review the [PE Technical Debt issue board](https://gitlab.com/groups/gitlab-org/-/boards/3567075?scope=all&label_name[]=group%3A%3Apipeline%20execution&label_name[]=technical%20debt&assignee_id=None) and recommend issues to schedule for upcoming milestones by adding them to the [planning issue](#planning) for a milestone or communicating with Product a need to schedule the issue in an upcoming milestone. The team strives to have 20% of a sprint's capacity filled with Tech Debt issues.
 
 Note that multiple factors can exist at once. In that case use your judgment to either bump the impact score or lower it. For example:
 - The problem exists in a feature that has a supporting role in our domain but it's related to a number of `severity::2` bugs.
