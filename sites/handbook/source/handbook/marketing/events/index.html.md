@@ -117,7 +117,7 @@ The purpose of creating a new issue for each ancillary event is to better facili
 1. **Marketing Program Manager will add the related necessary execution issues** as indicated by the YES/NO section in the issue. **This section must be complete before the issue moves to `status:wip`.**
    - Ex: Landing Page - Dinner + Date - Event name as shown on original issue)
 1. **Marketing Program Manager will add as a new line item for each ancillary event in the [Events googledoc](https://docs.google.com/spreadsheets/d/1mw16Ft0Wo379dT6OYingQ5A4xXTT1EjdpD6k-lgQync/edit#gid=0)**
-1. If the event is approved to move forward to contracting, is on the budget sheet, and the campaign tag has been created (Corporate Marketing) or auto-created by formula (Field Marketing), the DRI will start finance issue for contract review and signature following the [Procure to Pay Process](/handbook/finance/procurement/purchase-request-process/). The event DRI/FMC (for Field Marketing) is in charge of the finance issue creation and ushering it along. The finance issue will include:
+1. If the event is approved to move forward to contracting, is on the budget sheet, and the campaign tag has been created (Corporate Marketing) or auto-created by formula (Field Marketing), the DRI will start finance issue for contract review and signature following the [Procure to Pay Process](/handbook/finance/procurement/). The event DRI/FMC (for Field Marketing) is in charge of the finance issue creation and ushering it along. The finance issue will include:
    - ROI calculation for event in the final cost section.
    - Add the finance issue as a `Related issue` to the original issue for reference.
    - Add in any discounts or contract negotiations you have already completed.
