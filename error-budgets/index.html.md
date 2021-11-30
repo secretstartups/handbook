@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Engineering Error Budgets"
+description: "The error budget provides a clear, objective metric that determines how unreliable the service is allowed to be within a single quarter."
 ---
 
 ## On this page
@@ -198,7 +199,7 @@ _This is subject to change as Error Budget spend across feature categories decre
 1. Error budgets exist for each feature category and incorporate a standard apdex threshold and error rate.
 1. Error budgets are published for stage groups and stages through Grafana and Sisense Dashboards.
 1. Contributing factors are explorable through links available on the Grafana Dashboards.
-1. Error budgets are included in the [Product Prioritization process]((https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).). 
+1. Error budgets are included in the [Product Prioritization process](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
 
 ## Roadmap
 
