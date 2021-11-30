@@ -1426,7 +1426,7 @@ Field Marketing manages its budget in [Allocadia](/handbook/marketing/strategy-p
 
 ## Legal Approvals
 
-Field Marketing executes contracts with outside vendors to support the work we do. We do so by following the company [procure to pay process](/handbook/finance/procurement/purchase-request-process/).
+Field Marketing executes contracts with outside vendors to support the work we do. We do so by following the company [procure to pay process](/handbook/finance/procurement/).
 
 We have an expectation of a 5 business day turnaround for a GitLab executed contract (could be longer depending on the amount of the contract & how many chains of approval the contract needs to go through).
 
