@@ -352,7 +352,7 @@ At GitLab, we want to drive customer results through focusing on platform enhanc
 
 **Customer results are more important** than:
 
-1. **What we plan to make**. If we focus only on our own plans, we would have only GitLab.com and no self-hosted delivery of GitLab.
+1. **What we plan to make**. If we focus only on our own plans, we would have only GitLab.com and no self-managed delivery of GitLab.
 1. **Large customers**. This leads to the [innovator's dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma), so we should also focus on small customers and future customers (users).
 1. **What customers ask for**. This means we don't use the phrase "customer focus", because it tempts us to prioritize what the customer _says_ they want over what we discover they actually need through our product development process. Often, it’s easier for a customer to think in terms of a specific solution than to think about the core problem that needs to be solved. But a solution that works well for one customer isn’t always relevant to other customers, and it may not align with our overall product strategy. When a customer asks for something specific, we should strive to understand why, work to understand the broader impact, and then create a solution that scales.
 1. **Our existing scope**. For example, when customers asked for better integrations and complained about integration costs and effort, we responded by expanding our scope to create a [single application](/handbook/product/single-application/) for the DevOps lifecycle.
