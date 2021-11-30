@@ -92,7 +92,7 @@ We encourage operational excellence in the following ways:
 1. [KPIs](/handbook/business-ops/data-team/metrics/#gitlab-kpis)
 1. Open source with a lot of wider community contributors who make it easier to uncover customer demand for features and allow our organization to stay leaner.
 1. A [single application](/handbook/product/single-application/) makes the user experience better, allows us to introduce new functionality to users, and it makes it easier for us to keep our velocity.
-1. Run the same code for GitLab.com and self-hosted applications and [merged the CE and EE codebases](/blog/2019/02/21/merging-ce-and-ee-codebases/)
+1. Run the same code for GitLab.com and self-managed applications and [merged the CE and EE codebases](/blog/2019/02/21/merging-ce-and-ee-codebases/)
 1. How we [make decisions](/handbook/leadership/#making-decisions)
 
 ### High Ambition
