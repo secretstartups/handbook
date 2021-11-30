@@ -71,16 +71,18 @@ A 25-minute discussion to reflect on the experience. Attendance is **optional**.
 
 ## Current Program Timeline
 
+Review the progam timeline below for the next iteration of this program which will run from February through June of 2022
+
 | Date | Description | Related Resources |
 | ----- | ----- | ----- |
-| TBD | Discuss program details with Women's TMRG group meeting |  |
-| TBD | Call for Mentors | Application forthcoming |
-| TBD| Call for Mentees | Application forthcoming |
-| TBD | Pairing of mentor relationships complete and communicated to applicants | |
-| TBD | Optional: Mentor/Mentee pre-program coffee chats | |
-| TBD | [Initial program Kickoff meeting](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#program-structure) | |
-| TBD | Self-Paced Training for Mentors and Mentees | See section on [Mentor/Mentee Training](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#program-structure) |
-| TBD | End of program celebration |  |
+| 2021-09 | Discuss program details with Women's TMRG group meeting |  |
+| 2021-12-08 | Call for Mentors | [Application Link](https://docs.google.com/forms/d/e/1FAIpQLSez17b-APUA3MEpYETHtDPrAt85tLD8Je64gpP50xpHEPuT6A/viewform?usp=sf_link) |
+| 2021-12-08| Call for Mentees | [Application Link](https://docs.google.com/forms/d/e/1FAIpQLSfkDQZwdYw2CFguB_-O2gLC9Wznz88ec-JPnaLxF-VG-zAeCA/viewform?usp=sf_link) |
+| 2022-01-12 | Applications Close | |
+| 2022-01-19  | Pairing of mentor relationships complete and communicated to applicants | |
+| Week of 2021-01-24 | Optional: Mentor/Mentee pre-program coffee chats | |
+| 2021-02-2 and 2021-02-3 | [Initial program Kickoff meeting](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#program-structure) | |
+| 2021-06 | End of program celebration | Exact date TBD |
 
 
 ## Being a Mentor
