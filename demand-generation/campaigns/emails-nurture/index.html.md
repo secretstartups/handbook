@@ -137,6 +137,9 @@ To be updated and documented upon revamp of nurture engine and database nurutrin
 </iframe>
 
 ##### Setup for Trial Nurture
+{: #setup-trial-nurture}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
 [Marketo Program]()
 
 UTMs
@@ -586,3 +589,44 @@ You can remove specific recurrences of scheduled sales nominated deployments. Th
 * Navigate to the `Schedule` tab of the Sales Nominated smart campaign
 * Scroll down and you will see the scheduled deployment dates with a small red `x` to the right
 * Click the small `x` next to any of the dates that you would like to remove from the scheduled deployments
+
+## Adding “add to calendar” links in our emails without using 3rd party tools
+{: #email-add-to-calendar}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Example:
+
+[Add to google calendar](https://gitlab.com/) | [Add to other calendar](https://gitlab.com/)
+
+**Note:** gmail inboxes a majority of our sends, according to litmus analytics pixel data. Outlook makes up 3-15% of our recipients. This is exactly what Limus did:
+
+It’s virtually impossible to support all the calendar applications available. To help us understand what calendar tools to focus on, we took a look at our Email Analytics data. The most popular email clients our subscribers use are Apple Mail, Gmail, and Outlook. Using this data, we focused our efforts on creating a “add to calendar” button that would be compatible with iCalendar, Google’s calendar, and Outlook’s calendar.
+[Learn More Here](https://litmus.com/blog/how-to-create-an-add-to-calendar-link-for-your-emails)
+
+### Steps to manually creating “add to calendar” links in our emails
+{: #steps-email-add-to-calendar}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* Create google calendar link for your events
+    - Use this tool to generate your event information: [http://kalinka.tardate.com/](http://kalinka.tardate.com/)
+    - You would have to copy and paste the information for the event from marketo to the tool above, this takes about 2 minutes
+        - Location should be formatted as follows to show up as an address in the google calendar invite<br>
+          **747 Howard St, San Francisco, CA 94103, USA**
+        - Make sure time zone is correct
+
+    - Create link [Example Here](http://www.google.com/calendar/event?action=TEMPLATE&dates=20200406T150000Z%2F20200409T030000Z&text=Google%20Next%202020&location=747%20Howard%20St%2C%20San%20Francisco%2C%20CA%2094103%2C%20USA&details=https%3A%2F%2Fcloud.withgoogle.com%2Fnext%2Fsf%2F) and paste into correct template in Marketo as follows:
+    `<a href=“http://www.google.com/calendar/event?action=TEMPLATE&dates=20200206T035000Z%2F20200206T065000Z&text=Nouts%20test%20event&location=5107%20Oakbrook%20Drive%2C%20Durham%2C%20NC&details=nout's%20test%20event%20”>Add to Google calendar</a>`
+
+* Create ICS file for all other calendars (mostly Outlook and Apple)
+    - Marketo can create an ICS file 
+    - Add “Calendar File” Token to local tokens section
+    - Paste all necessary information (same as above)
+    - Add token to the email as follows: <br>
+      `<a href=“link goes here”>Add to other calendar</a>`
+
+
+### Additional option for "add to calendar": APIs
+{: #add-event-api}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* Use AddEvent API (available for $19/month billed annually for up to 50 events/month).<br>
+  [https://www.addevent.com/plans-and-pricing ](https://www.addevent.com/plans-and-pricing)
+* Use Eventable in Marketo (not sure about price)<br>
+  [https://www.eventable.com/info/add-to-calendar-marketo/](https://www.eventable.com/info/add-to-calendar-marketo/)      
