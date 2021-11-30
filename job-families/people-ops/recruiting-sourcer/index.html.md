@@ -188,7 +188,7 @@ The Manager, Sourcing is a [grade 8](/handbook/total-rewards/compensation/compen
 
 ### Sourcer (Inbound)
 
-#### Sourcer (Inbound) Responsibilities
+#### Associate Sourcer (Inbound) Responsibilities
 
 * Manage all applicants and referrals from resume review to hiring team review for various roles at GitLab
 * Track inbound data to measure the efficacy of job posting strategies
@@ -197,7 +197,7 @@ The Manager, Sourcing is a [grade 8](/handbook/total-rewards/compensation/compen
 * Advise applicants on alternative roles that would be a match for their experience and interest
 * Partner with recruiters and hiring managers to develop a firm understanding of the the assigned roles
 
-#### Sourcer (Inbound) Requirements
+#### Associate Sourcer (Inbound) Requirements
 
 * Relevant  experience in Recruiting/Sourcing/HR.
 * A passion for delivering exceptional candidate experience
