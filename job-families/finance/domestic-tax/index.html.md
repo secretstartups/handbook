@@ -7,7 +7,7 @@ title: "Domestic Tax"
 
 ### US Tax Manager (Intermediate)
 
-The US Tax Manager (Intermediate) reports to [Director of Tax](/job-families/finance/director-of-tax/).
+The US Tax Manager (Intermediate) reports to Director, Tax Accounting and Domestic Tax.
 
 #### US Tax Manager (Intermediate) Job Grade
 The US Tax Manager (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -54,7 +54,7 @@ The US Tax Manager (Intermediate) is a [grade 6](/handbook/total-rewards/compens
 
 #### Senior US Tax Manager
 
-The Senior US Tax Manager reports to [Director of Tax](/job-families/finance/director-of-tax/).
+The Senior US Tax Manager reports to Director, Tax Accounting and Domestic Tax.
 
 #### Senior US Tax Manager Job Grade
 
@@ -77,7 +77,7 @@ The Senior US Tax Manager is a [grade 7](/handbook/total-rewards/compensation/co
 
 ### Staff US Tax Manager
 
-The Staff US Tax Manager reports to [Director of Tax](/job-families/finance/director-of-tax/).
+The Staff US Tax Manager reports to Director, Tax Accounting and Domestic Tax.
 
 #### Staff US Tax Manager Job Grade
 
