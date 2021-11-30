@@ -97,7 +97,7 @@ The backend work for integration will be primarily handled by the [Applied ML](h
 
 * Milestone 1 [Reviewer/maintainer assignment architectural plan and PoC](https://gitlab.com/groups/gitlab-org/-/epics/5794)
 * Milestone 2 [Customer facing MVC of integration of unreview](https://gitlab.com/groups/gitlab-org/-/epics/6113)
-* Milestone 3 [Extend MVC and create plan for unreview functionality for self-hosted customers](https://gitlab.com/groups/gitlab-org/-/epics/6114)
+* Milestone 3 [Extend MVC and create plan for unreview functionality for self-managed customers](https://gitlab.com/groups/gitlab-org/-/epics/6114)
 
 ## Milestone 1
 
@@ -228,36 +228,36 @@ end
 
 ### Overview:
 
-Milestone 3 focuses on further improving the UnReview functionality for Gitlab.com customers, as well as planning to provide the functionality to self-hosted customers. At this milestone, GitLab.com customers will continue seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models. Primary feedback from GitLab.com customers and dogfooding at GitLab should be considered and integrated into the product. 
+Milestone 3 focuses on further improving the UnReview functionality for Gitlab.com customers, as well as planning to provide the functionality to self-managed customers. At this milestone, GitLab.com customers will continue seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models. Primary feedback from GitLab.com customers and dogfooding at GitLab should be considered and integrated into the product. 
 	
 To support GitLab.com customers:
 
 * Make the feature flag enabled by default and available to customers GA via configuration options in the GitLab user interface.
 * Automatically assign reviewers when the feature flag is enabled.
 
-To support self-hosted customers:
+To support self-managed customers:
 
-* Determine self-hosted performance concerns as it relates to performance and storage requirements in the customer-hosted environment and at customers that intentionally have no internet connectivity.
+* Determine self-managed performance concerns as it relates to performance and storage requirements in the customer-hosted environment and at customers that intentionally have no internet connectivity.
 
 More information on Milestone 3 can be found by following its [epic](https://gitlab.com/groups/gitlab-org/-/epics/6114).
 
 ### Architecture
 
-Delivering the full UnReview functionality to self-hosted customers may be challenging. Processing data and training ML models requires significant hardware power and administration efforts from the customer’s team itself. We continue to explore various approaches to addressing this issue. Additionally, we are looking towards privacy-preserving machine learning through data obfuscation.
+Delivering the full UnReview functionality to self-managed customers may be challenging. Processing data and training ML models requires significant hardware power and administration efforts from the customer’s team itself. We continue to explore various approaches to addressing this issue. Additionally, we are looking towards privacy-preserving machine learning through data obfuscation.
 
-Overall, one way to support self-hosted customers might be to:
+Overall, one way to support self-managed customers might be to:
 
-* securely access only the necessary data stored on the self-hosted GitLab infrastructure;
+* securely access only the necessary data stored on the self-managed GitLab infrastructure;
 * process the obtained data on the GitLab.com side and then train the ML model;
-* send the trained ML model back to the self-hosted GitLab infrastructure to serve it on-premise.
+* send the trained ML model back to the self-managed GitLab infrastructure to serve it on-premise.
 
-The following diagram provides more details on how UnReview may interact with the self-hosted GitLab infrastructure:
+The following diagram provides more details on how UnReview may interact with the self-managed GitLab infrastructure:
 
 ```mermaid
 flowchart TD
 
 subgraph Approach
-    Gitlaborg[GitLab self-hosted] --> |1. send the required data|Gitlabcom[GitLab.com]
+    Gitlaborg[GitLab self-managed] --> |1. send the required data|Gitlabcom[GitLab.com]
     Gitlabcom --> |2. train the model|Unreview[UnReview]
     Unreview --> |3. return the trained model|Gitlabcom
     Gitlabcom --> |4. return the trained model|Gitlaborg
