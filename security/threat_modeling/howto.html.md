@@ -117,7 +117,7 @@ So spoofing in the Kubernetes Agent example might manifest in one `agentk` being
 
 Once the initial steps have been done and we have a first set of well thought out threats we can now use this list during development of our feature to mitigate what we've deemed to be the threats and worst case scenarios. 
 
-Here again it's really fruitful to think a bit out of the box: a certain feature might work well on `GitLab.com` but cause trouble and outages in some self-hosted environment which is set up quite differently than our SaaS platform. This can be a threat as well and it's caused due to some environmental change for our feature. This in conclusion means that we should always consider the environment our feature is being used in. That environment might change over time or in different deployment scenarios, and it might not always be friendly and trusted in the first place.
+Here again it's really fruitful to think a bit out of the box: a certain feature might work well on `GitLab.com` but cause trouble and outages in some self-managed environment which is set up quite differently than our SaaS platform. This can be a threat as well and it's caused due to some environmental change for our feature. This in conclusion means that we should always consider the environment our feature is being used in. That environment might change over time or in different deployment scenarios, and it might not always be friendly and trusted in the first place.
 
 #### Documenting the process
 
