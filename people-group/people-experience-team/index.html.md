@@ -11,12 +11,14 @@ description: "This page lists all the processes and agreements for the People Ex
 {:toc .hidden-md .hidden-lg}
 
 # People Experience Team
+{: #People Experience Team .gitlab-purple}
 
 This page lists all the processes and agreements for the People Experience team. 
 
 If you need our attention, please feel free to ping us on issues using `@gl-people-exp`.
 
-## People Experience Team Availability
+# People Experience Team Availability
+{: #People Experience Team Availability .gitlab-purple}
 
 Holidays with no availability for onboarding/offboarding/career mobility issues:
 
@@ -29,34 +31,34 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 ### OOO Handover Process for People Experience Team
 
-1. The People Experience Associate will open a PEA Handover OOO [issue](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/issue_templates/PEA_OOO_Handover_Issue.md) and tag all Associates in the issue at least the day before their scheduled OOO. If there are confidential items/tasks that need to be handed over, please create a Google doc, share with the team and link to the issue.
-1. Get assistance from the People Operation Specialist team if additional hands are needed.
+When going out of office, the People Experience Associate will open a PEA Handover OOO [issue](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/issue_templates/PEA_OOO_Handover_Issue.md).
+1. Get assistance from the People Operation Specialist team for extra support.
+1. For confidential items/tasks, please create a Google doc, share with the team, and link to the issue.
 
+# People Experience Team Processes
+{: #People Experience Team Processes .gitlab-purple}
 
-## People Experience Team Processes
+The People Experience Associate will attempt to solve queries within the specific time zones and relevant SLA's. 
 
-All queries will be attempted to be resolved within the specific time zones and relevant SLA's. If unforeseen circumstances prevents the People Experience Associates from completing a specific/urgent task, a message will be posted in the `#pea-team` Slack channel to handover any important tasks / messages to the next team member available. 
+If the People Experience Associate is unable to complete a specific/urgent task, please post in the `#pea-team` Slack channel. Please handover any important tasks/messages to the next team member available. 
 
 ### Bi-Weekly Rotations 
 
-On a bi-weekly occurence, the People Experience Team will open a [PEA Rotation Issue](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/Weekly-Rotation-PEA.md). This rotation issue reflects what tasks the PEA's are accountable for and to be completed within the 2 weeks which lists how the tasks are shared amongst the team.  
+Bi-Weekly, the People Experience Associate will open a [PEA Rotation Issue](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/Weekly-Rotation-PEA.md).. This rotation issue lists what tasks the PEA will be accountable for, for the next 2 weeks. 
 
-Certain tasks will be allocated based on a ongoing rotation between all People Experience Associates. 
+The following factors are considered when allocating in the issue:
+- Scheduled PTO 
+- The listed Tasks are split  fairly
+- The use of PEA/POps Task Tracker to divide certain tasks
 
-The following factors will also be taken into consideration:
-
-- Scheduled PTO for the team members
-- Ensure that the tasks split evenly and fairly 
-- A tracker will be kept to track the data of how the tasks are split up
-
-**The following tasks will be completed by any available People Experience Associate within the designated SLA:**
-
+**The PEA Team will complete the below tasks within the designated SLA**
 - Verification Of Employment 
 - Anniversary Queries
+- Other requests that come through the People-Exp email. 
+- Referral Bonus Audit 
 
 #### Allocations for Onboarding
 
-- We always try and split evenly and fairly.
 - Not time zone specific to ensure that all Associates learn all aspects to different countries during onboarding. 
 
 #### Allocations for Offboarding
@@ -179,6 +181,7 @@ The Access Level field should only be updated if the team member is a manager or
 * Personal tab > Sales Geo Differential
 * For non-sales : n/a Comp Calc
 * For sales: pick the sales zone as per the [Location Factors Sheet](https://docs.google.com/spreadsheets/d/1wUIvWrjErlGIlRLANomwqrQYOHPsklggATFbo0lElpU/edit#gid=2134917912)
+   - **Note: Sales zone is not applicable within Customer Success or Field Operations as location factor is applied - should read as n/a - comp calc**
 
 #### Payroll Change Report
 
@@ -409,9 +412,16 @@ In some instances, we may be contacted by certain Governmental institutions aski
 
 The People Experience Associate in the `Probation Period` rotation, will complete the full process as per the steps listed in the [Probation Period](/handbook/people-group/contracts-probation-periods/#probation-period) section of the hanbook. If the weekly rotation has come to an end and not all confirmations have been received, the Associate in the next weeks rotation will follow up with team members managers.
 
-#### Triage People Group Issues
+#### Netherlands Certification of Good Conduct (VOG) Report 
 
-The People Experience Associate in the 'triage' rotation will pull up all issues opened in the [General project](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/issues) and tag / assign team members according to the request. It is important that once you have triaged the issue, to update the label from `workflow:triage` to `workflow:todo / doing`. 
+THe first day of the month, the People Experience Associate in the assigned rotation, will ensure that the new Netherlands based team members hired in the previous month have uploaded their VOG. 
+
+- There is a shared report in BambooHR called Netherlands VOG. Open that report.
+**note** If need be, please adjust the dates by editing the report. 
+- View the employees listed.
+- Go to each team members profile, then to documents, then go to either employee uploads or contracts folder. Check for the letter.
+- If a letter has been uploaded, there is nothing further you will need to do.
+- If there is not a letter, please reach out to the team member to have them upload the letter. 
 
 #### Deleting Team Member Data from Letter of Employment Rotation
 

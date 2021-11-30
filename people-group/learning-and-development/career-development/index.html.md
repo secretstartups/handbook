@@ -134,6 +134,10 @@ Steps:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p4a60slPg5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Health Tracker: Growth Plan
+
+Consider making a copy of this [Google sheet template](https://docs.google.com/spreadsheets/d/1Pr_yl8TRAXucSr4qYml6TdsO86PgiaKB/edit#gid=2104005676) to track the current status and long term goals you've set for both your personal and professional growth.
+
 ### External Resources some with no cost
 
 - [Stanford's Centre for Professional Development](http://scpd.stanford.edu/home)

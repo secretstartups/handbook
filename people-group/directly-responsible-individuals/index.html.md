@@ -95,7 +95,7 @@ Different organizations use different methods of assigning responsibility; one o
 
 GitLab's implementation of a DRI for decision-making means that we have evolved the RACI matrix to DCI (DRI, Consulted, Informed).
 
-The **Responsible** and **Accountable** person is the **DRI**, the **Consulted** people are those whose opinions are sought, typically subject-matter experts; and with whom there is two-way communication. and **Informed** people are those who are kept up-to-date on progress, often only on completion of the task or deliverable; and with whom there is just one-way communication. Given that **[Everyone Can Contribute](**/company/mission/#mission**)**, **Informed** people also includes **Everyone**.
+The **Responsible** and **Accountable** person is the **DRI**, the **Consulted** people are those whose opinions are sought, typically subject-matter experts; and with whom there is two-way communication. and **Informed** people are those who are kept up-to-date on progress, often only on completion of the task or deliverable; and with whom there is just one-way communication. Given that [**Everyone Can Contribute**](/company/mission/#mission), **Informed** people also includes **Everyone**.
 
 # Circumstances Requiring the Rare Need for Approvals
 
