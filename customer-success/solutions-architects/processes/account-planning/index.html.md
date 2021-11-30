@@ -19,9 +19,9 @@ title: Account Planning for Solutions Architects
 
 # SA Role Specific Gainsight Usage
 - **How to create and edit a Technical Win Plan from Gainsight:**
-* You can create an objective under account plan. Here is a sample Success Plan to use as guidance
+* You can create an objective under account plan. Here is a sample Success Plan to use as guidance:
 
-[Sample Success Plan](https://lucid.app/documents/view/3f6a8cf8-f63a-4649-b797-c540034c3f1e)
+  [Sample Success Plan](https://lucid.app/documents/view/3f6a8cf8-f63a-4649-b797-c540034c3f1e)
 
 # How does an SA contribute to the Account Planning?
 A rationale describing how an SA can contribute to the Account Planning is documented here in the [Handbook](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)
@@ -30,7 +30,8 @@ A rationale describing how an SA can contribute to the Account Planning is docum
 # Collaborating with Other Team Members
 It is important to note that Gainsight brings the entire account team onto a single platform to plan, and by having the SAL, SA, and TAM in one place, it allows the SA to visualize the dependencies between the tasks of each individual much more clearly and understand how each team member is working towards the 6, 12, and 18 month goals.
 - SAs should collaborate with the SAL/TAM on a Technical Win Plan and ensure that the plan encompasses Workshops, PoVs, deep dives, etc. 
-- **NOTE**
+
+**NOTE**
 - The Techincal Win Plan is still part of the SALs account plan and SAs don't have to create anything new.
 - SAs should be DRIs on the technical activities for new lands.
 - SAs should own technical activities on account expansions where TAMs are not engaged. 
@@ -38,19 +39,19 @@ It is important to note that Gainsight brings the entire account team onto a sin
 - SAs are not the DRIs of a customer’s initial account plan. By the time the opportunity reaches the Account Planning stage, basic account details should have been entered into Salesforce. Thus, the main purpose of completing the Account Profile section of the account plan,should be to capture important details about the customer or prospect, including information about the organization's business, strategic objectives, goals, motivations, competitive landscape, pertinent technology stack details, etc. The account profile should be all about the customer (not GitLab). 
 
 
-
 # FAQs:
-- How is Gainsight different from Troops and SFDC?
-  Gainsight is a platform that enables collaboration between SAL, SA & TAMs. SA are expected to collaborate during Account Planning. SAs should own the objective of creating a technical win plan during account planning. Troops is used for day to day activity capture for meetings. 
-- Will using Gainsight save me time?
-  Yes, Gainsight will save time by making sure all teams are working & collaborating in the same system.
-- How is it going to help me in my daily job?
-  It's going to help in our daily jobs since now all the account plans by SALs, Success plans by TAMS are listed in the same system encouraging collaboration.
-- Why use gainsight for account planning
-  It's an existing platform already loved by existing teams in Gitlab. Gainsight provides metrics, timelines, call to action like reminders. It also has the ability to create playbooks defining different steps in a process for eg: [an ultimate play](https://about.gitlab.com/handbook/customer-success/solutions-architects/sales-plays/)
-- How is it related to SFDC?
-  SFDC is still the best place to record customer information for accurate forecating, creating accounts so on. Gainsight gives you the power to forecast plans for accounts, create objectives, identify tasks to be completed for those objectives. The timeline, attributes section of gainsight is fed back into SFDC.
-- What if there is no account plan from the SAL?
+- **How is Gainsight different from Troops and SFDC?**
+  - Gainsight is a platform that enables collaboration between SAL, SA & TAMs. SA are expected to collaborate during Account Planning. SAs should own the objective of creating a technical win plan during account planning. Troops is used for day to day activity capture for meetings. 
+- **Will using Gainsight save me time?**
+  - Yes, Gainsight will save time by making sure all teams are working & collaborating in the same system.
+- **How is it going to help me in my daily job?**
+  - It's going to help in our daily jobs since now all the account plans by SALs, Success plans by TAMS are listed in the same system encouraging collaboration.
+- **Why use gainsight for account planning**
+  - It's an existing platform already loved by existing teams in Gitlab. Gainsight provides metrics, timelines, call to action like reminders. It also has the ability to create playbooks defining different steps in a process for eg: [an ultimate play](https://about.gitlab.com/handbook/customer-success/solutions-architects/sales-plays/)
+- **How is it related to SFDC?**
+  - SFDC is still the best place to record customer information for accurate forecating, creating accounts so on. Gainsight gives you the power to forecast plans for accounts, create objectives, identify tasks to be completed for those objectives. The timeline, attributes section of gainsight is fed back into SFDC.
+- **What if there is no account plan from the SAL?**
+  - The SA together with the SAL will create a Technical Win Plan using Gainsight.
 
 # Gainsight Enablement 
 * [Account Planning Handbook Page](/handbook/sales/account-planning/)

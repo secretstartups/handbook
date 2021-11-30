@@ -167,7 +167,7 @@ To align our education and enablement with our product, each of the topics below
 - [Kubernetes Management Feature Overview](https://about.gitlab.com/solutions/kubernetes/)
 - [Secrets Management CI Variable Docs](https://docs.gitlab.com/ee/ci/variables/)
 - [ChatOps Feature Docs](https://docs.gitlab.com/ee/ci/chatops/)
-- [Serverless Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/serverless/)
+- [Serverless Feature Overview](https://about.gitlab.com/topics/serverless/)
 - [Infrastructure-as-Code Feature Docs](https://docs.gitlab.com/ee/user/infrastructure/)
 - [Cluster Cost Management Feature Docs](https://docs.gitlab.com/ee/user/clusters/cost_management.html)
 

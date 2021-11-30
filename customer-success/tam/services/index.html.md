@@ -39,7 +39,7 @@ Example:
 
 - Commercial (Mid-Market and SMB) customers are eligible for a TAM if the recurring contract value (ARR) is greater than $50,000.
 - APAC accounts should be routed through the APAC TAM manager for assignment
-- Exceptions can be made for clearly defined growth opportunities, decided by sales and TAM leadership. The basic criteria used will be (1 AND 2 AND 3):
+- Exceptions can be made for clearly defined growth opportunities, decided by sales and TAM leadership. To request, [open an issue](https://about.gitlab.com/handbook/customer-success/comm-sales/#account-executive-to-tam-existing-accounts-without-a-tam) on the Commercial TAM Triage board. The basic criteria used will be (1 AND 2 AND 3):
     1. Well defined growth opportunity
     1. Clear objectives/goals - what do they need TAM help to accomplish?
     1. Timeframe - if we accomplish X and Y in Z months, we agree to evaluate expanding/growing

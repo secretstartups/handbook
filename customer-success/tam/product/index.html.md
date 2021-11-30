@@ -102,7 +102,7 @@ If a customer is unable to continue using GitLab without a specific feature, the
 
 #### Bugs
 
-TAMs can refer to the following steps if a medium priority Bug has become stale on the Product Management [triage board](https://gitlab.com/groups/gitlab-org/-/boards/1075672?&label_name%5B%5D=bug&label_name%5B%5D=customer). Another potentially helpful view is the [triage report label](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&search=triage+report).
+TAMs can refer to the following steps if a medium priority Bug has become stale on the Product Management [triage board](https://gitlab.com/groups/gitlab-org/-/boards/1075672?&label_name[]=type::bug&label_name%5B%5D=customer). Another potentially helpful view is the [triage report label](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&search=triage+report).
 
 Follow the same [steps as for logging and tracking bugs as with feature requests](#gitlab-issues), but be sure that steps to reproduce and workarounds are included whenever possible.
 
