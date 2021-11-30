@@ -154,7 +154,7 @@ If you have not heard from the tagged analyst within 1 business day* (or earlier
 requires a faster turn-around), please send a message in [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/) 
 and feel free to tag `@cbraza`.
 
-_*Please keep in mind that we work across different timezones_
+_*Please keep in mind that we work across different time zones_
 
 ### Additional Considerations
 
@@ -241,9 +241,9 @@ to cover a topic on the agenda, it will be pushed to the following meeting.
 
 #### Example Topics
 
-Office hours is intended for smaller bodies of work, brainstorming, and assistance with 
+Office hours are intended for smaller bodies of work, brainstorming, and assistance with 
 data self-service. Since topics are limited to 30 minutes, we ask that stakeholders be mindful 
-of the types of items they add to the agenda. When it doubt, add the topic and we can help scope 
+of the types of items they add to the agenda. When in doubt, add the topic and we can help scope 
 it. Here are some examples of topics for office hours:
 
 <details><summary>👍 Example Topic 1: Experiment Setup</summary>
@@ -270,7 +270,7 @@ acceptance rate.
 
 I wrote a query to calculate xMAU for namespaces that converted from a trial to a paid plan.
 * Is this `JOIN` correct?
-* Does this logic to only include namespaces that had trials before converting?
+* Does this logic only include namespaces that had trials before converting?
 
 **Note:** We are not able to accommodate all code reviews in the scope of office hours. 
 Please limit this type of topic to specific aspects of a query, whether you are using the correct 
