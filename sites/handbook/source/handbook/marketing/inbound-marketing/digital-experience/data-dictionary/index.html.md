@@ -28,19 +28,19 @@ An example of this usage for a free trial button might be as follows:
 ### HTML
 
 ```
-<a href="/free-trial/" data-ga-name="free trial" data-ga-location="hero">Get free trial</a>
+<a href="/free-trial/" data-ga-name="free trial" data-ga-location="header">Get free trial</a>
 ```
 
 ### HAML
 
 ```
-%a{href: '/free-trial', :"data-ga-name" => "free trial", :"data-ga-location" => "hero"}
+%a{href: '/free-trial', :"data-ga-name" => "free trial", :"data-ga-location" => "header"}
 ```
 
 Or preferrably:
 
 ```
-= link_to "Get free trial", "/free-trial", :"data-ga-name" => "free trial", :"data-ga-location" => "hero"
+= link_to "Get free trial", "/free-trial", :"data-ga-name" => "free trial", :"data-ga-location" => "header"
 ```
 
 ### What is the Name attribute?
