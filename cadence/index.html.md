@@ -28,33 +28,33 @@ Below are the cadences we have at GitLab:
 
 ## Day
 
-- [Group conversation](/handbook/group-conversations/)
+- [Group conversation](/handbook/group-conversations/){:data-ga-name="group conversation"}{:data-ga-location="body"}
 
 ## Week
 
-- [1-1 cadence with reports](/handbook/leadership/1-1/)
-- [Measure growth of early startup, 10% WoW](https://about.gitlab.com/blog/2020/05/05/wow-rule/)
-- [E-Group Weekly](/handbook/e-group-weekly/)
+- [1-1 cadence with reports](/handbook/leadership/1-1/){:data-ga-name="1-1 cadence"}{:data-ga-location="body"}
+- [Measure growth of early startup, 10% WoW](https://about.gitlab.com/blog/2020/05/05/wow-rule/){:data-ga-name="wow rule"}{:data-ga-location="body"}
+- [E-Group Weekly](/handbook/e-group-weekly/){:data-ga-name="e-group weekly"}{:data-ga-location="body"}
 
 ## Month
 
-- [Key Reviews](/handbook/key-review/)
-- [Release](/releases/)
-- [Retrospective](/handbook/communication/#kickoffs)
-- [Most KPIs](/handbook/business-ops/data-team/metrics/)
+- [Key Reviews](/handbook/key-review/){:data-ga-name="key reviews"}{:data-ga-location="body"}
+- [Release](/releases/){:data-ga-name="releases"}{:data-ga-location="body"}
+- [Retrospective](/handbook/communication/#kickoffs){:data-ga-name="retrospective"}{:data-ga-location="body"}
+- [Most KPIs](/handbook/business-ops/data-team/metrics/){:data-ga-name="metrics"}{:data-ga-location="body"}
 
 ## Quarter
 
-- [OKRs](/company/okrs/)
-- [Board meeting](/handbook/board-meetings/#board-meeting-process)
-- Sales targets (in [Clari](/handbook/business-ops/tech-stack/#clari))
-- [E-group offsite](/company/offsite/)
+- [OKRs](/company/okrs/){:data-ga-name="OKRs"}{:data-ga-location="body"}
+- [Board meeting](/handbook/board-meetings/#board-meeting-process){:data-ga-name="board meeting"}{:data-ga-location="body"}
+- Sales targets (in [Clari](/handbook/business-ops/tech-stack/#clari)){:data-ga-name="clari"}{:data-ga-location="body"}
+- [E-group offsite](/company/offsite/){:data-ga-name="e-group offsite"}{:data-ga-location="body"}
 
 ## Year
 
-- [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters)
-- [Annual plan](/handbook/finance/financial-planning-and-analysis/#planning-process--gitlab)
-- Most of [Direction](/direction/)
+- [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters){:data-ga-name="forecast"}{:data-ga-location="body"}
+- [Annual plan](/handbook/finance/financial-planning-and-analysis/#planning-process--gitlab){:data-ga-name="annual plan"}{:data-ga-location="body"}
+- Most of [Direction](/direction/){:data-ga-name="direction"}{:data-ga-location="body"}
 
 ```mermaid
 gantt
@@ -139,17 +139,17 @@ gantt
 
 **3 years**
 
-- Most of [strategy](/company/strategy/)
-- [3-year product direction strategy](/direction/#3-year-strategy)
-- [Option vesting](/handbook/stock-options/#vesting) after cliff of 1 year is passed
-- Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-operations-metrics/#team-member-turnover) (<16%). See [actual reports](/handbook/people-group/people-operations-metrics/#reporting)
+- Most of [strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"}
+- [3-year product direction strategy](/direction/#3-year-strategy){:data-ga-name="3 year strategy"}{:data-ga-location="body"}
+- [Option vesting](/handbook/stock-options/#vesting){:data-ga-name="vesting"}{:data-ga-location="body"} after cliff of 1 year is passed
+- Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-operations-metrics/#team-member-turnover){:data-ga-name="turnover"}{:data-ga-location="body"} (<16%). See [actual reports](/handbook/people-group/people-operations-metrics/#reporting){:data-ga-name="reports"}{:data-ga-location="body"}
 
 ## Vision
 
 **10 years**
 
-- [Vision](/company/vision/)
-- [Product vision](/direction/#vision)
+- [Vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"}
+- [Product vision](/direction/#vision){:data-ga-name="product vision"}{:data-ga-location="body"}
 - Time needed for category creation
 - [Investor fund time limit](https://www.strictlybusinesslawblog.com/2017/06/29/the-life-cycle-of-a-private-equity-or-venture-capital-fund/)
 - Commitment of DZ
@@ -158,8 +158,8 @@ gantt
 
 **30 years**
 
-- Time to realize [our mission](/company/mission/#mission)
-- [BHAG](/company/mission/#big-hairy-audacious-goal)
+- Time to realize [our mission](/company/mission/#mission){:data-ga-name="mission"}{:data-ga-location="body"}
+- [BHAG](/company/mission/#big-hairy-audacious-goal){:data-ga-name="BHAG"}{:data-ga-location="body"}
 - [Lifespan of the average company](https://www.bbc.com/news/business-16611040), 10 years to get into the S&P500, then 15 in it, and 5 of decline for a total of 30
 - [Lifespan of Amazon](https://www.forbes.com/sites/richardkestenbaum/2018/11/16/amazon-is-not-too-big-to-fail-bezos/#65fba0621626) "Amazon is not too big to fail...In fact, I predict one day Amazon will fail. Amazon will go bankrupt. If you look at large companies, their lifespans tend to be 30-plus years, not a hundred-plus years."
 - [Generation is also 30 years](https://www.ncbi.nlm.nih.gov/pubmed/10677323)
