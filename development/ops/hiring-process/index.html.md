@@ -45,7 +45,7 @@ The main purpose of sourcing is to **Identify and engage top talent**
     1. If you are getting support from a sourcer, follow the steps to [review inbound applications](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-4hm-optional-source-candidates-andor-review-inbound-applications)
 1. Reach Out. Consider using the templates listed in the resources. Make sure to ask for contact details of the prospect, you will need this in the next step.
 1. [Add prospects to Greenhouse](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-overview/#step-4-indentify--engage-top-talent-prospects). In the prospect's profile, click in the three dots, and click on export to ATS. 
-
+1. After importing to Greenhouse, edit the profile (under Details tab, there is an edit button) to include the email and any other contact information. This is important because Greenhouse automatically sends an email to the candidate when is moved from prospect to candidate to fill a form which includes the CV to be uploaded there.
 
 **Resources**:
 - Mark Deubel's podcast: [Foundtaions - Sourcing Outreach](https://doobles.podbean.com/e/building-the-foundation-sourcing-outreach-pt1-episode-3/) and [Guest Show - Sourcing outreach](https://doobles.podbean.com/e/guest-show-sourcing-outreach-with-dov-and-mark/)
