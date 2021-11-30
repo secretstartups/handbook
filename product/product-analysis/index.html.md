@@ -218,9 +218,7 @@ all GitLab team members are welcome to join.
 
 The intent of office hours is to give PMs faster access to the team and get support for smaller 
 tasks, brainstorming, and data self-service. More formal requests that answer more complex 
-questions are captured in issues and go through a more 
-Unlike more formal requests that we capture in issues, office hours is intended to help PMs 
-with smaller tasks, brainstorming, and data self-service. 
+questions are captured in issues and go through a more rigorous, structured prioritization process.
 
 #### How to Sign Up
 
@@ -330,7 +328,7 @@ Office Hours is intended to help PMs with smaller tasks, provide a venue for bra
 help folks looking to learn more about data self-service. The benefit is that the agenda is 
 first-come, first-served, the prioritization process is bypassed, and the wait time is minimal.
 
-Formal data requests are larger bodies of work captured in issues in the [Product Analytics project](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request). 
+Formal data requests and larger bodies of work are captured in issues in the [Product Analytics project](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request). 
 They can help answer more complex questions, but go through more robust [intake](/handbook/product/product-analysis/#issue-intake) 
 and [planning](/handbook/product/product-analysis/#iteration-planning) processes. As such, there 
 is a longer turn-around time given team size and [capacity](/handbook/product/product-analysis/#capacity).
