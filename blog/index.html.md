@@ -9,6 +9,20 @@ Welcome to the GitLab blog handbook! The [GitLab blog](/blog/) is managed by [th
 ## We're looking for technical content!
 Engineering-driven content performs very well on our blog, so if you have an idea, please ping @ValSilver on Slack. We're eager to showcase all the technical how-to and deep-dive content we can.
 
+## Turnaround time
+Our "SLA": The blog team will review all blog post "pitches" within two business days and get back to you with suggestions/go-forward approval. Once a blog draft is received, our goal is to edit _urgent posts_ within one business day and non-urgent posts within three business days. **NB: As of November 2021, all blog posts must still be reviewed by legal, and that could add time to process, just to set expectations. 
+
+If you're just looking for feedback on an idea, Slack us for a same-day turnaround.
+
+And, if you're an edge case not covered by the above, please Slack @ValSilver.
+
+Publishing of blog posts occurs according to an editorial calendar. However, that is subject to change based on news/information that needs to be posted. The blog team will update authors as to their expected publish dates.
+
+## Blog publishing goals
+Volume of posts: We'd like to publish at least 20 blog posts a month but even in a crazy busy month we'll more than likely be able to find a place for your post, so, please send us your ideas and let us worry about the scheduling.
+
+Traffic from posts: Ideally every post we publish should support our goal of driving traffic to the website. We apply SEO best practices to posts. It's a combination of art, science, and (sometimes) luck, and we do our best to maximize the page views each post will receive.  
+
 ## Communication
 - Chat channels; use `#content` for questions, see `#content-updates` for updates on most recently published articles.
 
