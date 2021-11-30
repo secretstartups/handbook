@@ -173,7 +173,7 @@ The Legal Counsel, Product and Privacy collaborates with clients across GitLab o
 * Experience identifying privacy issues, conducting privacy impact assessments, and advising on privacy compliance requirements(e.g., GDPR, CCPA)
 * A strong mix of legal, technical, and business acumen that will allow you to understand and discuss complex technical issues and data flows.
 * Basic knowledge of DMCA and Law Enforcement requirements
-* Experience working in a SaaS and self-hosted software company
+* Experience working in a SaaS and self-managed software company
 
 
 ### Employment - EMEA
