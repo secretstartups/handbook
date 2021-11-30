@@ -1,13 +1,3 @@
----
-layout: handbook-page-toc
-title: Negotiate to Close
-description: >-
-  A sales negotiation is a strategic discussion (or series of discussions)
-  between buyer and seller that ideally leads to a deal being closed. The main
-  goal of the negotiation process is to reach an agreement that's acceptable to
-  everyone.
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -35,10 +25,8 @@ Preparing for a negotiation starts as early as your first conversation, and succ
 ## 5 1/2 tips for how to approach price-lock negotiations at GitLab
 
 In this video, VP of Enterprise Sales - Mike Pyle, gives tips for how to approach price-lock negotiations at GitLab while protecting the value of our product during these negotiations. The key to doing this well is consistently and proactively having this conversation. This guidance is useful no matter the size or your prospect or customer.
-
 <!-- blank line -->
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/mzGc1bXESzI"></iframe></figure><!-- blank line -->
-In addition to these tips, the below critical sales skills will also help you achieve a successful negotiation:
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/mzGc1bXESzI"></iframe></figure>In addition to these tips, the below critical sales skills will also help you achieve a successful negotiation:
 
 ## Uncover customer needs
 
