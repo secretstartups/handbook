@@ -404,7 +404,7 @@ Status in the table below means:
 | Request - Contact | inbound | Filled out contact request form on GitLab website | Active |
 | Request - Professional Services | inbound | Any type of request that comes in requesting to engage with our Professional Services team | Active |
 | Security Newsletter | inbound | Signed up for security alerts | Active |
-| Trial - Enterprise | trial | In-product or web request for self-hosted Enterprise license | Active |
+| Trial - Enterprise | trial | In-product or web request for self-managed Enterprise license | Active |
 | Trial - GitLab.com | trial | In-product SaaS trial request | Active |
 | Web | inbound |  | Active |
 | Web Chat | inbound | Engaged with us through website chat bot | Inactive |

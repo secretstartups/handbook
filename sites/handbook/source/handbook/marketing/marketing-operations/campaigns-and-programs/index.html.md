@@ -232,7 +232,7 @@ A survey that we or a 3rd party sends out. Tracks respondents and new leads we r
 
 #### Trial
 
-Track cohort of Trials for each product line (Self-hosted or SaaS) to see their influence.
+Track cohort of Trials for each product line (Self-managed or SaaS) to see their influence.
 
 **Bizible:** In-product self-managed and SaaS trials are tracked as an **offline** Bizible touchpoint. The self-managed trial utilizing a Marketo form is an **online** Bizible touchpoint.
 
