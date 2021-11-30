@@ -39,15 +39,16 @@ The main purpose of sourcing is to **Identify and engage top talent**
 
 1. Get a [recruiter LinkedIn account](/handbook/hiring/sourcing/#upgrading-your-linkedin-account) and setup 
 1. Setup LinkedIn for sourcing, for example:
-    1. setup your own templates
-    1. create projects for each of your open positions
+    1. Create your own templates
+    1. Create projects for each of your open positions or make sure you are invited to
 1. Search for candidates
     1. If you are getting support from a sourcer, follow the steps to [review inbound applications](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-4hm-optional-source-candidates-andor-review-inbound-applications)
-1. [Add prospects to Greenhouse](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-overview/#step-4-indentify--engage-top-talent-prospects)
-1. Reach Out
+1. Reach Out. Consider using the templates listed in the resources. Make sure to ask for contact details of the prospect, you will need this in the next step.
+1. [Add prospects to Greenhouse](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-overview/#step-4-indentify--engage-top-talent-prospects). In the prospect's profile, click in the three dots, and click on export to ATS. 
+
 
 **Resources**:
-- Mark Deubel's [Sourcing Outreach Podcast episode](https://doobles.podbean.com/e/building-the-foundation-sourcing-outreach-pt1-episode-3/) and [sourcing outreach](https://doobles.podbean.com/e/guest-show-sourcing-outreach-with-dov-and-mark/)
+- Mark Deubel's podcast: [Foundtaions - Sourcing Outreach](https://doobles.podbean.com/e/building-the-foundation-sourcing-outreach-pt1-episode-3/) and [Guest Show - Sourcing outreach](https://doobles.podbean.com/e/guest-show-sourcing-outreach-with-dov-and-mark/)
 - [Talent Acquisition Reach out templates](https://docs.google.com/presentation/d/1ySqgLoYnFUGtb7hdywav6iSb_NBPRhfIs6WZlGne6Ww/edit?usp=sharing) (private)
 - [Ops reach out templates](https://gitlab.com/gitlab-com/ops-sub-department/ops-hiring-process/-/blob/main/outreach-messages.md) (private)
 - [Sourcing](https://about.gitlab.com/handbook/hiring/sourcing/)
