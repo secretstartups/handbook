@@ -155,7 +155,7 @@ canonical_path: "/company/okrs/2018-q3/"
   * Quality: Source 150 candidates by Aug 15 and hire 3 test automation engineers: X sourced (60%), hired 2 (78%)
   * Security: Source 150 candidates by Aug 15 and hire 5 security team members: 105 sourced (105%), hired 5 (100%)
   * Support: Source 50 candidates by July 15 and hire an APAC manager: 50 sourced (100%), hired 0 (0%) - pursued top candidate for over a month who ended up signing our offer days after Q3 ended!
-    * Self-hosted: Source 350 candidates by July 30 and hire 7 support engineers: 110 sourced (32%), hired 7 (100%)
+    * self-managed: Source 350 candidates by July 30 and hire 7 support engineers: 110 sourced (32%), hired 7 (100%)
     * Services: Source 200 candidates by July 30 and hire 4 agents: 110 sourced (55%), hired 4 (100%)
   * UX: Source 25 candidates by Aug 15 and hire 3 ux designers: 25 sourced (100%), hired 2 (66%)
 * CFO: Improve payroll and payments to team members
