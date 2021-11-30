@@ -6,35 +6,6 @@ description: "Sourcers at GitLab are experts at finding the best candidates for 
 
 ## Levels
 
-### Inbound Sourcer
-
-The Inbound Sourcer reports into the Manager, Inbound Sourcing and Sourcinig Operations.
-
-#### Inbound Sourcer Job Grade
-
-The Inbound Sourcer is a [grade TBD](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Inbound Sourcer Responsibilities
-
-* Manage all applicants and referrals from resume review to hiring team review for various roles at GitLab
-* Track inbound data to measure the efficacy of job posting strategies
-* Develop creative and scalable changes to how we match candidates to roles across the organization
-* Identify and nurture  new inbound applicant channels 
-* Advise applicants on alternative roles that would be a match for their experience and interest
-* Partner with recruiters and hiring managers to develop a firm understanding of the the assigned roles
-
-#### Inbound Sourcer Requirements
-
-* Relevant  experience in Recruiting/Sourcing/HR.
-* A passion for delivering exceptional candidate experience
-* An ability to be organized across multiple requisitions while responding to a high volume of candidates
-* Ability to build relationships with managers and colleagues across multiple disciplines and timezones.
-* Outstanding written and verbal communication skills across all levels.
-* Working knowledge using candidate tracking systems. Greenhouse is a plus.
-* Remote working experience in a technology startup will be an added advantage.
-* Willingness to learn and use software tools including Git and GitLab.
-* Ability to use GitLab
-
 ### Associate Sourcer
 
 The Associate Sourcer reports to a Talent Acquisition Manager.
@@ -212,6 +183,30 @@ The Manager, Sourcing is a [grade 8](/handbook/total-rewards/compensation/compen
 * Experience with competitive global job markets preferred.
 * Focused on delivering an excellent candidate experience.
 * Focused on efficiency, scalability and constant process improvements.
+
+## Specialties
+
+### Sourcer (Inbound)
+
+#### Sourcer (Inbound) Responsibilities
+
+* Manage all applicants and referrals from resume review to hiring team review for various roles at GitLab
+* Track inbound data to measure the efficacy of job posting strategies
+* Develop creative and scalable changes to how we match candidates to roles across the organization
+* Identify and nurture  new inbound applicant channels 
+* Advise applicants on alternative roles that would be a match for their experience and interest
+* Partner with recruiters and hiring managers to develop a firm understanding of the the assigned roles
+
+#### Sourcer (Inbound) Requirements
+
+* Relevant  experience in Recruiting/Sourcing/HR.
+* A passion for delivering exceptional candidate experience
+* An ability to be organized across multiple requisitions while responding to a high volume of candidates
+* Ability to build relationships with managers and colleagues across multiple disciplines and timezones.
+* Outstanding written and verbal communication skills across all levels.
+* Working knowledge using candidate tracking systems. Greenhouse is a plus.
+* Remote working experience in a technology startup will be an added advantage.
+* Willingness to learn and use software tools including Git and GitLab.
  
 ## Performance indicators
 
