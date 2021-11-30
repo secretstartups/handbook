@@ -13,7 +13,7 @@ description: "These instructions will walk GitLab Team Members through how to fi
 
 ## Steps to Filing Your New Vendor Contract in ContractWorks
 
-This process is used to file your contract or related vendor documents after they are fully executed (signed by all parties).  For the full contract approval process, see the [Vendor Contracts](/handbook/finance/procurement/purchase-request-process/) page.
+This process is used to file your contract or related vendor documents after they are fully executed (signed by all parties).  For the full contract approval process, see the [Vendor Contracts](/handbook/finance/procurement/) page.
 
 ### Requesting a ContractWorks Log In
 
