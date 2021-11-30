@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "Real-Time Working Group"
-description: "The GitLab Real-Time Working Group aim is to ship one real-time feature to self-hosted customers. Read more!"
+description: "The GitLab Real-Time Working Group aim is to ship one real-time feature to self-managed customers. Read more!"
 canonical_path: "/company/team/structure/working-groups/real-time/"
 ---
 
@@ -25,7 +25,7 @@ canonical_path: "/company/team/structure/working-groups/real-time/"
 
 ## Business Goal
 
-To ship one real-time feature to self-hosted customers.
+To ship one real-time feature to self-managed customers.
 
 ## Exit Criteria - Phase 1
 
