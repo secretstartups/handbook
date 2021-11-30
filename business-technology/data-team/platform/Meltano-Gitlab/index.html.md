@@ -36,7 +36,7 @@ The main definition of terraform is present in the file `meltano_infra/meltnao_g
 - meltano_infra/meltano_gke_production.tfvars   -- For production cluster creation 
 - meltano_infra/meltano_gke_staging.tfvars -- For staging environment cluster creation
 
-In order to do the deployment of terraform script you need to be owner at the moment.In this terraform script we are storing the state of the terraform into remote location in GCS in bucket `gitlab-analysis-data-terraform-state/meltano-production/state`. This gives added advantage that any team member with proper permission will be able to update,delete and create the cluster from last time it has been created.
+In order to do the deployment of terraform script you need to be owner at the moment.In this terraform script we are storing the state of the terraform into remote location in GCS in bucket `gitlab-analysis-data-terraform-state/meltano-production/state`. This gives added advantage that any team member with proper permission will be able to update, delete and create the cluster from last time it has been created.
 
 Below is the step which we need to create the kubernetes cluster  and what thing we need to keep in mind when working on staging cluster and production. So that we don't corrupt the remote state. 
 
@@ -97,7 +97,7 @@ When you switch between workspace you will the statement `Switched to workspace 
 
 Step 3:
 Now to create the cluster we need to run below command `terraform plan -var-file=meltano_gke_production.tfvars -out "plan_to_apply"` this will generate the plan for the cluster creation of staging enviornment.
-all looks good then run the command `terraform apply "plan_to_apply"`
+All looks good then run the command `terraform apply "plan_to_apply"`
 It will give output like below
 ```
 google_container_cluster.meltano_cluster: Creating...
@@ -114,7 +114,7 @@ google_container_node_pool.meltano-pool: Still creating... [50s elapsed]
 google_container_node_pool.meltano-pool: Still creating... [1m0s elapsed]
 google_container_node_pool.meltano-pool: Creation complete after 1m7s [id=projects/gitlab-analysis/locations/us-west1-a/clusters/data-ops-meltano-staging/nodePools/meltano-pool-staging]
 ```
-Then in the cluster page we can see the cluster created with name `data-ops-meltano` for meltano production and for staging `data-ops-meltano-staging`.The node pool is also suffixed with -staging for staging environment.
+Then in the cluster page we can see the cluster created with name `data-ops-meltano` for meltano production and for staging `data-ops-meltano-staging`. The node pool is also suffixed with -staging for staging environment.
 As this point onward we don't do anything in staging environment. Although we can very well use it but it will require creation of separate airflow database postgres in cloud sql for airflow running in meltano.
 
 The Kubernetes cluster is running [data-ops-meltano](https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/data-ops-meltano/details?project=gitlab-analysis). 
