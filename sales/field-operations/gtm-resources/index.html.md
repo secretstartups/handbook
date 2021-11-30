@@ -849,6 +849,12 @@ See [Working with Professional Services](/handbook/customer-success/professional
 1. Click `Save`
 1. To create a quote, see the ['Creating Accounts, Contacts, Opportunities and Quotes'](/handbook/sales/#creating-accounts-contacts-opportunities-and-quotes-in-salesforce) and begin with Step 4. Here is a [video](https://drive.google.com/file/d/142csIZyrzIfSJOSJkIAK6d9c1JwTO_Rq/view?usp=sharing) that hightlights the process.
 
+#### How to Share an Opportunity
+1.  On the Opportunity record in SFDC that you want to share, navigate to the `Opportunity Teams` section and click the `Add` button.
+1.  Once there, add the User you want to share with, Team Role and Opportunity Access.
+1.  Save
+1.  Only the Opportunity Owner (or their manager(s)), will be able to add Opportunity Team members.
+
 #### Tracking Sales Qualified Source in the Opportunity
 
 Sales Qualified Source is dimension used when analyzing pipeline creation, lead conversion, sales cycles, and conversion rates.
