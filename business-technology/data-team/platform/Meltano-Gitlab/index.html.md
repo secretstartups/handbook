@@ -88,7 +88,7 @@ Watch the [video](https://youtu.be/H7m99t4IghM) on walkthrough of `Meltano setup
 
 Whenever we need to pass on the config to Meltano taps. We need to do the below 5 activity.  
 
-1) Decide the unique variable name and add those variable values to the Kubernetes secret named `tap-secrets` in the [cluster](`https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/meltano-mashey/details?project=gitlab-analysis`).
+1) Decide the unique variable name and add those variable values to the Kubernetes secret named `tap-secrets` in the [cluster](https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/meltano-mashey/details?project=gitlab-analysis).
 The command to edit the secret file is `kubectl edit secret tap-secrets  -o yaml `  
 2) Add those variables in the `gitlab-app.yaml` file using references like below. 
 ```
