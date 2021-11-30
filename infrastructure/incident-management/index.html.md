@@ -134,6 +134,10 @@ In some cases, we may choose not to post to status.io, the following are example
 1. After the incident is resolved, the Incident Manager is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review/).
 1. For high severity bugs that affect customers, the Incident Manager is responsible for making sure Incident Reviews are coordinated with other departments in Engineering and go through the complete Incident Review process.
 1. When engaged in an active incident near the end of an Incident Manager shift, the current Incident Manager owns the decision as to whether to continue in their role or to transition the active incident to the incoming Incident Manager. In most cases, this transition should be the expected default behavior. 
+1. When a Sev 1 or Sev 2 incident which includes status page communication ends during your shift, ensure that one of the following individuals are made aware in order to schedule a follow-up Reliability & Security Standup meeting:
+    1. VP of Infrastructure - Steve Loyd
+    1. VP of Development - Christopher Lefelhocz
+    1. Director of Reliability Engineering - TBH
 1. During a shift where no Incident Manager engaged incidents have occurred, no transition ("handover") is required. 
 
 To engage the Incident Manager: either run `/pd trigger` in Slack, then select the "GitLab
