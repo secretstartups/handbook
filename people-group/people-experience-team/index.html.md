@@ -181,6 +181,7 @@ The Access Level field should only be updated if the team member is a manager or
 * Personal tab > Sales Geo Differential
 * For non-sales : n/a Comp Calc
 * For sales: pick the sales zone as per the [Location Factors Sheet](https://docs.google.com/spreadsheets/d/1wUIvWrjErlGIlRLANomwqrQYOHPsklggATFbo0lElpU/edit#gid=2134917912)
+   - **Note: Sales zone is not applicable within Customer Success or Field Operations as location factor is applied - should read as n/a - comp calc**
 
 #### Payroll Change Report
 

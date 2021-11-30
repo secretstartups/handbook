@@ -594,17 +594,43 @@ The Performance/Growth Factor is one of the factors considered in the [Annual Co
  
 ## Succession Planning
 
-The succession planning process starts with leaders doing a [performance/growth matrix](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix) of each of their direct reports.
+Succession planning is an important step in our Talent Assessment process. Completing the [Performance/Growth Assessment](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix) gives leaders a fresh overview of the top performers and the highest growth team members in their respective organizations. Particularly for individuals in Senior Leadership roles and above (the [S-Group](https://about.gitlab.com/company/team/structure/#s-group) and depending on structure the [Director-Group](https://about.gitlab.com/company/team/structure/#director-group)), a recommended next step following the Performance/Growth assessment is to do succession planning. 
 
-The resulting charts are reviewed with peers, e.g. all other executives, all other senior leaders in the function, etc.
+Succession planning ensures we are identifying and developing future GitLab leaders to ensure business continuity in the event of an unforseen change, and providing the current leadership team the opportunity to grow and scale. It may provide an opportunity to diversify our leadership team by developing our internal bench of talent. Note, potential alone does not determine who will be a successor. Strong succession candidates should demonstrate sustained exceeding performance and growth, aspire to have a role at the next level, and be ready for a much larger role in the near term. 
 
-| Person    | Jane Doe | John Doe |
-|-----------|---|---|
-| Role      | Job Title  | Job Title  |
-| Emergency (ER) | Someone who could take over this role if the current person were affected by a [lottery factor](/handbook/total-rewards/compensation/#competitive-rate) or had to take emergency leave |   |
-| Ready Now (RN) | Someone who could be promoted into the role today  |   |
-| Ready in less than 1 year (R1) | Someone who could be trained and elevated into the role in less than 1 year  |   |
-| Ready in 1 year or more (R1+) | Someone who could be trained and elevated into the role in 1 year or more  |   |
+Questions we should ask ourselves when thinking about succession planning (and the individual(s) identified) are:
+
+1. What are our current and upcoming business goals?
+2. Does the successor candidate have a track record of delivering strategic results, working in alignment with our values, and demonstrating high growth potential?
+3. Does our successor candidate have skill gaps that must close before they are ready to deliver on the business goals identified? 
+4. _(if we do have skill gaps)_ Can we develop our successors to close those gaps? If so, how? How long will this additional exposure and skill development take? Who else at GitLab should we engage to support their development?
+5. If not, do we need to hire externally to ensure business continuity? 
+6. If we do not have anyone who could assume the role in an emergency situation, what is our plan to provide emergency coverage? 
+
+
+### Succession Planning Process
+
+The succession planning process might vary slightly for different areas of the business depending on size and structure, but at a high level the process should flow as follows:
+
+1. **Leaders go through the [Performance/Growth Assessment](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix) process for all of their direct reports.** Ideally, this process includes [calibration](/handbook/people-group/talent-assessment/#calibration-session-guidelines) to generate a level of initial familiarity amongst leadership peers with the talent in the organization. 
+2. **Leaders identify and document their respective successors** (and emergency coverage plans if the identified successor could not currently cover in an emergency situation) leveraging [this template](https://docs.google.com/presentation/d/1w-ODnm-S_sV7TAEDqfU6kUpZqr7-cDIFwAlPZI10HzU/edit#slide=id.p). 
+3. **Succession plans are reviewed with peers** (I.E. all other executives, all other senior leaders in the function, etc.) and your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division), ideally during a synchronous session to facilitate discussion and questions. 
+4. **Development plans are finalized** for successors and documented in the successor slide.
+5. _(if applicable)_ **Skills gaps impacting ability to achieve business goals are identified and actions are put in place** to ensure these gaps are closed/minimized (I.E. stretch assignments, increased visiblity and exposure, or hiring)
+
+### Succession Readiness Definitions
+
+| Succession Readiness    | Description | 
+|-----------|---|
+| Emergency (ER) | Someone who could take over this role if the current person were affected by a [lottery factor](/handbook/total-rewards/compensation/#competitive-rate) or had to take emergency leave. _Note: If there is no one who could assume the role today in an emergency situation, part of the succession coverage plan should include an overview of recommendation steps (I.E. engaging a consultancy, splitting up the team, etc.)_ |   
+| Ready Now (RN) | Someone who could be promoted into the role today  |   
+| Ready in 1-2 years) | Someone who could be trained and elevated into the role in 1-2 years  |   
+| Ready in 3-5 years | Someone who could be trained and elevated into the role in 3-5 years |   
+
+_Note that the `Emergency Coverage` slide in the [template above](https://docs.google.com/presentation/d/1w-ODnm-S_sV7TAEDqfU6kUpZqr7-cDIFwAlPZI10HzU/edit#slide=id.gf99d467451_1_8) should only be used to if the identified successor could not provide temporary coverage for the current leader in an emergency situation._ 
+
+
+
 
 ## Resources
 

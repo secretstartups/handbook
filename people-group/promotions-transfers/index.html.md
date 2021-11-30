@@ -340,8 +340,8 @@ If a department is over the 12% promotion rolling rate, the following process sh
     - If the change was instead being processed on June 15, this would be effective July 1.
 1. Stage the letter in DocuSign and add the following team members to sign:
     - Add radio button (Delete the additional one) for the `Total Rewards Analyst` to audit
-    - Add radio button (Delete the additional one) for the Manager to communicate the change to the team member by sharing the letter of adjustment during the 1:1 Zoom call and then again add one radio button to (Delete the additional one) announce on the `#team-member-updates` Slack channel. 
     - Add signature field for the Total Rewards Authorized Signatory
+    - Add radio button (Delete the additional one) for the Manager to communicate the change to the team member by sharing the letter of adjustment during the 1:1 Zoom call and then again add one radio button to (Delete the additional one) announce on the `#team-member-updates` Slack channel. 
     - Add signature field for the team member
     - Add sign date field for the team member
     - **Note:** Make sure that **a)** "Set signing order” option has been selected while preparing the doc, and **b)** Select radio button instead of checkboxes as only radio button allows you to select the required field/mandatory field option. This prohibits the Total Rewards Analysts and Manager to process the letter without checking the tasks on the letters.
