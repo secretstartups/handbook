@@ -151,7 +151,26 @@ These are specific practices and actions for leaders and future leaders. While n
 
 - What constitutes psychologically unsafe behavior? Leaders and team members can provide feedback that, for example, isn’t itself psychologically unsafe, but someone may feel that *any* feedback makes them feel unsafe. Challenge your assumptions on whether it is truly unsafe or part of the work.
 
-  Giving and receiving feedback at work should be psychologically safe if done correctly. Giving negative feedback should not inherently be un-psychologically safe.
+## Psychological Safety Manager 1:1 
+
+This is a guide on how to conduct a 1:1 with your direct reports after they have completed the Psychological Safety Short Course. 
+
+1. If your direct reports are taking the course ensure you have completed the course too here
+2. Create a safe space to share. 
+    - No need to keep notes 
+    - Be conversational 
+    - Share scenarios or anecdotes 
+3. Be vulnerable, share your learnings from the course and your commitments to psychological safety after taking the course. 
+4. Challenge team members to share authentically and ask follow up questions to help team members share. 
+
+**Example Agenda** 
+
+- What are one or two things that you learnt from the course, was there anything that surprised you? 
+- What were some of the learnings that came out of the self reflection exercise and how do you plan to use those learnings moving forward?
+- How can I support you as a manager or anything I can do to make our relationship more psychologically safe and for the team at large? 
+- What is one personal commitment that you will make moving forward to psychological safety? 
+
+
 
 ## Scenarios & Quiz
 
