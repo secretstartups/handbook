@@ -715,7 +715,7 @@ When an event is rescheduled or cancelled, the FMC is responsible for updating t
 
 ## Rescheduling or Cancelling a Self-Service Event
 
-Please see process here. - `Will be added soon, waiting on another MR to merge.`
+Please see process [here](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#rescheduling-self-service-virtual-events-with-or-without-promotion) for rescheduling and [here](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/self-service-ve-with-without-promotion/#cancelling-for-self-service-virtual-events-with-or-without-promotion) for cancelling.
 
 ## Rescheduling or Cancelling a Webast or Workshop
 
