@@ -58,9 +58,14 @@ The Senior Manager, Sales Developement Enablement Programs is a [grade 9](/handb
 * Anticipate shifts in direction, and knows when to prepare or adapt the team based on interactions with leaders and others
 * Communicates what is around the corner to team, partners, and leaders and creates excitement for new ideas
 
-#### Senior Manager, Sales Developement Enablement Programs Requirements
+#### Senior Manager, Sales Development Enablement Programs Requirements
 
-* Extends that of the Manager, SDR Enabelement Programs requirements
+* Extends that of the Manager, SDR Enablement Programs requirements
+* Proven experience driving cross functional projects, programs and collaboration.
+* Experience in hiring, scaling, managing and leading a team.
+* Experience managing external vendors and agencies.
+* Relevant experience evangalizing, developing, and executing global sales teams’ effectiveness strategies, tactics and action plans for a technology platform.
+* Proven experience communicating to senior leadership the effectiveness of sales development enablement programs
 
 ## Performance Indicators
 
