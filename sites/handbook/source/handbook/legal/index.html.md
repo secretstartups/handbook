@@ -31,7 +31,7 @@ For quick questions that **_do not_** require legal advice, deliverables, or any
 | Marketing | Visit the [Marketing Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/marketing-collaboration/), which covers amongst other things [Contests and Sweepstakes](https://about.gitlab.com/handbook/legal/marketing-collaboration/#contests-and-sweepstakes) and [Media Consent and Model Release Requests](https://about.gitlab.com/handbook/legal/marketing-collaboration/#media-consent-and-model-release)<br /><br />If the request is not addressed in the Marketing Guide, open a new [General Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template)|
 | Engineering requests related to use of third-party software; Questions related to acceptable use of open source licenses | Open a [Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues) and include applicable information related to the request<br /><br />Visit [Open Source at GitLab](https://about.gitlab.com/handbook/engineering/open-source/#using-open-source-libraries) for helpful information including [Acceptable Licenses](https://about.gitlab.com/handbook/engineering/open-source/#acceptable-licenses)|
 | *Any Non Engineering, Marketing, Sales or Procurement Request (Corporate, Marketing, Employment or Product & Privacy Questions) | Email: [Legal_Internal@gitlab.com](mailto:legal_internal@gitlab.com) |
-| NDA Request | Use the [GitLab NDA](https://drive.google.com/file/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/view) send to recipient using electronic signature. See [Signatory Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) for who can sign on behalf of GitLab |
+| NDA Request | Follow the [Non-Disclosure Agreement Process](https://about.gitlab.com/handbook/legal/NDA/) |
 
 *To ensure the protection of confidential and privileged information, GitLab Legal is proud to use [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html) for all general requests.
 For more information on Attorney-Client Privilege, see the [General Legal FAQs](https://about.gitlab.com/handbook/legal/#general-legal-faqs) below.  
@@ -45,13 +45,14 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 * [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/) GitLab's policy for how it handles personal information about team members.
 * [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
 * [GitLab Modern Slavery Act Transparency Statement](https://about.gitlab.com/handbook/legal/modern-slavery-act-transparency-statement/)
+* [Insider Trading Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) - this policy is to promote compliance with insider trading laws.
 * [Patent Program](https://about.gitlab.com/handbook/legal/patent-program/)
 * [Privacy Policy](https://about.gitlab.com/privacy/) - GitLab's policy for how it handles personal information
+* [Public Discussion of Competitor Products Guidelines](handbook/legal/competitor-discussion-guidelines)
 * [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
-* [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/ gitlab-related-party-transactions-policy/) - this Policy formalizes GitLab's procedures for the identification, review, and consideration and approval of any transactions involving the Company and a Related Party. 
+* [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/) - this Policy formalizes GitLab's procedures for the identification, review, and consideration and approval of any transactions involving the Company and a Related Party. 
 * [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark) - information regarding the usage of GitLab's trademark
 * [Third-party Trademark Usage Guidelines](https://about.gitlab.com/handbook/legal/policies/third-party-trademark-usage-guidelines/) - guidelines concerning the use of third-party trademarks in the GitLab product
-* [Insider Trading Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) - this policy is to promote compliance with insider trading laws.
 * [Whistleblower Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) - this policy is provided to enable Team Members with guidelines on on how to report any improper activites, or suspected improper activities. 
 
 
