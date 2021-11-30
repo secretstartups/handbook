@@ -460,7 +460,7 @@ _Innovative Solution in Developer Ecosystem for the tight integration with GKE_<
 ----
 
 <big>[GitLab voted as G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)</big><br>
-_Over 170 public reviews with a 4.4 rating, including: "[Powerful team collaboration tool for managing software development projects](https://www.g2.com/products/gitlab/reviews/gitlab-review-1976773)," "[Great self-hosted, open source, source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)," "[Efficient, can trace back, easy to collaborate](https://www.g2.com/products/gitlab/reviews/gitlab-review-701837)," and "[Perfect solution for cloud and on-premise DevOps tool](https://www.g2.com/products/gitlab/reviews/gitlab-review-2388492)"_<br>
+_Over 170 public reviews with a 4.4 rating, including: "[Powerful team collaboration tool for managing software development projects](https://www.g2.com/products/gitlab/reviews/gitlab-review-1976773)," "[Great self-managed, open source, source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)," "[Efficient, can trace back, easy to collaborate](https://www.g2.com/products/gitlab/reviews/gitlab-review-701837)," and "[Perfect solution for cloud and on-premise DevOps tool](https://www.g2.com/products/gitlab/reviews/gitlab-review-2388492)"_<br>
 **Value Drivers:** Efficiency, Speed, Risk<br>
 **Differentiators:** Rapid Dev, Visibility<br>
 **Usecase** VC&C, CI, CD
@@ -582,7 +582,7 @@ _[The original and internal-to-GitLab proof points Google Doc is online, here](h
 
 ----
 
-"[Great self-hosted, open source source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)" — Administrator, Mid-Market from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+"[Great self-managed, open source source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)" — Administrator, Mid-Market from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
 **Value Drivers:** Efficiency<br>
 **Use Case:** VC&C
 
@@ -662,7 +662,7 @@ _[The original and internal-to-GitLab proof points Google Doc is online, here](h
 
 ----
 
-"[Great self-hosted, open source source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)" — Administrator, Mid-Market from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+"[Great self-managed, open source source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)" — Administrator, Mid-Market from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
 **Value Drivers:** Efficiency<br>
 **Use Case:** SCM <br>
 **Differentiator:** Software Anywhere, SCM&CI <br>
