@@ -123,7 +123,7 @@ To make sure these don't get stuck, we are pinged in the offboarding issue and w
 run the following snippet on the production shell:
 
 ```
-/bin/herokuish procfile exec bundle exec rake offboarding:run[BAMBOO_ID]
+/cnb/lifecycle/launcher bundle exec rake offboarding:run[BAMBOO_ID]
 ```
 
 This will do a lookup on nominations that are pending for a manager or second level manager approver
@@ -131,7 +131,7 @@ and will resend the nomination approval to the new manager.
 
 To take into account:
 - you can only perform this if the reports have been assigned new managers
-- if you're uncomfortable running an executing script, you can first to the `dry run` version: `/bin/herokuish procfile exec bundle exec rake offboarding:dry_run[BAMBOO_ID]`. This will print out the 
+- if you're uncomfortable running an executing script, you can first to the `dry run` version: `/cnb/lifecycle/launcher bundle exec rake offboarding:dry_run[BAMBOO_ID]`. This will print out the 
 nominations that we would retrigger.
 
 Don't forget to check off the task on the offboarding issue so the People Experience team knows it's been done.

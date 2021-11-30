@@ -136,7 +136,7 @@ Monthly announcements are shared by the L&D team on the first Tuesday of each mo
 | ----- | ----- | ----- | ----- | ----- |
 | 2021-09 | [Video](https://www.loom.com/share/a087f45f78134f04a8260fd181cead53) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/305)| 44 | 1 |
 | 2021-10 | [Video](https://www.loom.com/share/eee099e204a54769a050babee0b67c6c) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/324) | 32 | 0 |
-| 2021-11 | - | - | - | - |
+| 2021-11 | [Video](https://www.loom.com/share/a30aecc6bec8449cb391b9f9fb4a4775) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/338) | 59 | 1 |
 | 2021-12 | - | - | - | - |
 | 2022-01 | - | - | - | - |
 
@@ -339,9 +339,9 @@ This is the list of topics that will be the focus in FY22. Each skill of the mon
 - August: Career Development
 - September: Manager of One
 - October: Emotional Intelligence
-- November: [topic TBD]
-- December: [topic TBD]
-- January: [topic TBD]
+- November: Gratitude and Recognition
+- December: Resilience and Reflection
+- January: Team Member Wellbeing
 
 ### Organizing a Skill of the Month 
 

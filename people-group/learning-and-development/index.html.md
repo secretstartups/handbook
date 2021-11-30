@@ -105,20 +105,13 @@ The L&D team hosts and organizes [learning initiatives](/handbook/people-group/l
 
 ## Learning Opportunities 
 
-
 ### Growth & Development
 
-Team members can take advantage of up to $10,000 USD per calendar year for [Growth & Development opportunities](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/). This amount can be used for professional development, certifications, workshops, coaching, and much more!
+Team members can take advantage of up to $10,000 USD per calendar year for [Growth & Development opportunities](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/). This amount can be used for professional development, certifications, workshops, coaching, language courses, and much more!
 
 ### Career Development
 
 Everyone's career development is different, but we have [outlined](/handbook/people-group/learning-and-development/career-development/) what it can look like at GitLab. Career development also includes our [GitLab coaching framework](/handbook/leadership/coaching/) to support managers in holding coaching discussions with their team. 
-
-### Language Courses
-
-Please review language course opportunities covered by the [GitLab Growth and Development Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) for more information.
-
-There is also a way to practice foreign languages and ask for advice in several Slack channels, each dedicated to a specific language. You can find all these channels by searching for channels starting with #lang. If you're missing a channel for your target language, feel free to create one and mention it in #whats-happening-at-gitlab so that fellow GitLab team-members can join too!
 
 ### Manager Enablement Programs
 

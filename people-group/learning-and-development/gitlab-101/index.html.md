@@ -163,11 +163,11 @@ It's possible that an issue will be opened in an incorrect project. If that happ
 To move a GitLab issue:
 
 1. Navigate to the issue you want to move
-1. In the right hand column, scroll all the way to the bottom
-1. Select "move issue"
+1. In the right hand menu bar, scroll all the way to the bottom
+1. Select "Move issue"
 1. Search for the project you want to move it to and click on it
-1. Click the green "Move" button
-1. It will move the issue and link to where the issue was before in the old project
+1. Click the blue "Move" button
+1. It will move the issue, and the link will change according to the new location of the issue
 
 #### Video: How to move a GitLab Issue (~2 minutes)
 
@@ -255,7 +255,7 @@ To create a merge request:
 
 ### How to search for a GitLab Merge Request
 
-You can search for a GitLab Merge Request in the same way as you search for a GitLab Issue [outlined above](/handbook/people-group/learning-and-development/certifications/gitlab-101/#how-to-search-for-a-gitlab-issue). The only difference is to select the "Merge requests" button in the top right, rather than the Issues button.
+You can search for a GitLab Merge Request in the same way as you search for a GitLab Issue [outlined above](/handbook/people-group/learning-and-development/gitlab-101/#how-to-search-for-a-gitlab-issue). The only difference is to select the "Merge requests" button in the top right, rather than the Issues button.
 
 ### Helpful Tips for Merge Requests
    1. Who can merge your Merge Request (MR)? - your manager should have the ability to merge (i.e. [maintainer access](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions)). If they don't have the ability to merge, they will know who you can assign it to for review/merging.

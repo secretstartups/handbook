@@ -22,18 +22,19 @@ Whenever a candidate is marked as hired, a webhook is send to the [conservatory 
 ### Synced fields
 
 The sync is a one-way sync. We take the data from Greenhouse and add it to BambooHR. Some fields on BambooHR are calculated fields by using data
-from Greenhouse. 
+from Greenhouse.
 
 | Greenhouse Data | BambooHR Data |
 | --------------- | ------------- |
 | `first_name` (Applicant data) - the preferred name | `firstName` |
 | `last_name` (Applicant data) | `lastName` |
 | the part in `first_name` that's between quotes (Applicant data) | `preferredName` |
+| the part in `last_name` that's between quotes (Applicant data) | `customPreferredLastName` |
 | `candidate_country` (Offer data) | `country` |
 | `state_of_team_member` (Offer data) | `state` |
 | `starts_at` (Offer data) | `hireDate` |
 | `email_addresses.personal` (Applicant data) | `homeEmail` |
-| `departmemt` (Offer data) | `department` |
+| `department` (Offer data) | `department` |
 | `division` (Offer data) | `division` |
 | `employment_type` (Offer data) | `customFullOrPartTime` |
 | `id` (Greenhouse Applicant) | `customCandidateID` |
@@ -45,7 +46,9 @@ from Greenhouse.
 | `level_of_role` (Offer data) | `customRole` |
 | Mapped by Greenhouse entity using [this file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/entity_mapper.yml) | `customEmployeeCorptoCorp` |
 | `starts_at` (Offer data) | `customHireDate` |
-| `stock_options` (Offer data) | `customShares` |
+| `stock_options` (Offer data) | `customShares1` |
+| `stock_options` (Offer data) | `customTotal` |
+| `rsu_$_value` (Offer data) | `customRSUValue` |
 | `entity` (Offer data) | `customInc/BV` |
 | "Hired" (Hardcoded value - not from Greenhouse) | `customNotes` |
 | `starts_at` (Offer data) | `date` |
@@ -61,11 +64,15 @@ from Greenhouse.
 | Mapped through `candidate_country` to the right value | `paySchedule` |
 | Mapped by using the local currency to the USD rate | `customCurrencyConversionFactor` |
 | Latest revision date of the currency conversion file | `customConversionEffectiveDate` |
+| `starts_at` (Offer data) | `customEffectiveDate2` |
 | `starts_at` (Offer data) | `customEffectiveDate3` |
 | `salary` * `customCurrencyConversionFactor` | `customUSDAnnualSalary` |
 | `salary` with `currency` | `customLocalAnnualSalary` |
 | `starts_at` (Offer data) | `customDate` |
-| Mapped by Greenhouse entity using [this file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/entity_mapper.yml) | `customType` |
+| Mapped by Greenhouse offer entity using [this file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/entity_mapper.yml) | `customType` |
+| Hardcoded to `RSU`, `ISO`, or `International` | `customType1` |
+| Hardcoded to `Stock Options` or `Restricted Stock Units` | `customShareVehicle` |
+| (Hardcoded value - not from Greenhouse) | `customReason` |
 | Yes | `customVariablePay` |
 | `bonus_currency_&_amount_(amount_per_year_as_defined_by_previous_field)` (Offer data) | `customAnnualAmountLocal` |
 | `customAnnualAmountLocal` * customCurrencyConversionFactor | `customAnnualAmountUSD` |
@@ -80,6 +87,11 @@ from Greenhouse.
 | "Signing Bonus" (Hardcoded value - not from Greenhouse) | `customBonustype` |
 | "Paid Signing Bonus" (Hardcoded value - not from Greenhouse) | `customBonuscomments` |
 | `family_relationship` (Offer data) | `customRelationship` |
+| A new employment status row is added and the value is set to `Active` | `employmentStatus` |
+| `starts_at` (Offer data) | `customEffectiveDate6` |
+| Mapped through `candidate_country` to the right value | `customPayFrequency2` |
+| `job_code` (Offer data, can only be synced if the job code exists on BambooHR | `customJobCode2` |
+| `job_grade` (Offer data) | `customJobGrade2` |
 
 Besides syncing the above fields, we also sync:
 
