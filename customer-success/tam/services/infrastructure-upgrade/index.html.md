@@ -5,7 +5,7 @@ title: "TAM Infrastructure Upgrade Coordination"
 
 ## Overview
 
-Customers on self-hosted GitLab deployments may need to upgrade to new
+Customers on self-managed GitLab deployments may need to upgrade to new
 infrastructure for a number of reasons, including moving to a cloud provider,
 utilizing technologies such as Kubernetes, or because GitLab growth requires
 more computational resources. GitLab provides recommended [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/#available-reference-architectures)
