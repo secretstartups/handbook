@@ -164,7 +164,7 @@ The Director, Sales Development Operations is a [grade 10](/handbook/total-rewar
 ## Performance Indicators
  
 * MQL to SAO conversion rate through process improvements
-* * SDR productivity (SAO number/SDR)
+* SDR productivity (SAO number/SDR)
 Marketing efficiency ratio (we might need to think of an SDR efficiency ratio)
 * SDR Tech Stack usage
  
