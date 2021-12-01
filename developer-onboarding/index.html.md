@@ -122,26 +122,51 @@ as the reason for a longer expiration.
 
 ### Ruby Gems
 
-When building and publishing Gems for GitLab be sure to add [`gitlab-qa`](https://rubygems.org/profiles/gitlab-qa) to the
+When building and publishing Gems for GitLab, be sure to add [`gitlab-qa`](https://rubygems.org/profiles/gitlab-qa) to the
 [Gem Owners](https://guides.rubygems.org/managing-owners-using-ui), to ensure that the gem doesn't end up orphaned or
 unable to be published for any reason.
 
 You can additionally add some, or all of the following as co-owners, and other
 relevant developers as well:
 
-* [Dmitriy Zaporozhets](https://rubygems.org/profiles/dzaporozhets)
 * [Marin Jankovski](https://rubygems.org/profiles/marinjankovski)
 * [Rémy Coutable](https://rubygems.org/profiles/rymai)
 * [Robert Speicher](https://rubygems.org/profiles/rspeicher)
 * [Stan Hu](https://rubygems.org/profiles/stanhu)
 * [Yorick Peterse](https://rubygems.org/profiles/YorickPeterse)
 
-[handbook]: /handbook
-[in the open]: /2015/08/03/almost-everything-we-do-is-now-open/
-[contrib-guide]: https://about.gitlab.com/community/contribute/
+#### New version release
+
+Gem projects should use the [shared CI config](https://gitlab.com/gitlab-org/quality/pipeline-common/-/blob/master/ci/gem-release.yml)
+to release and publish new gem versions by adding the following to their `.gitlab-ci.yml`:
+
+```yaml
+include:
+  - project: 'gitlab-org/quality/pipeline-common'
+    file: '/ci/gem-release.yml'
+```
+
+Make sure to create a `v0.0.0` tag if you don't already have any [SemVer](https://semver.org) tag so
+that the auto-release can compute the diff when releasing the actual first version of the gem.
+This job will handle building and publishing the gem, as well as creating the tag, release and populating its release notes by
+using the [Generate changelog data](https://docs.gitlab.com/ee/api/repositories.html#generate-changelog-data) API endpoint.
+
+For instructions for when and how to generate a changelog entry file, see the dedicated [Changelog entries](https://docs.gitlab.com/ee/development/changelog.html) page.
+
+[To be consistent with the GitLab project](https://docs.gitlab.com/ee/development/changelog.html),
+Gem projects could also define a changelog YAML configuration file at `.gitlab/changelog_config.yml` with the same content
+as [in the `gitlab-styles` gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles/-/blob/master/.gitlab/changelog_config.yml).
+
+To ease the release process, you could also create a `.gitlab/merge_request_templates/Release.md` MR template with the same content
+as [in the `gitlab-styles` gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles/-/raw/master/.gitlab/merge_request_templates/Release.md)
+(make sure to replace `gitlab-styles` with the actual gem name).
 
 ## Relevant links
 
 - [Engineering Handbook](/handbook/engineering/)
 - [Engineering Workflow](/handbook/engineering/workflow/)
 - [Product Handbook](/handbook/product/)
+
+[handbook]: /handbook
+[in the open]: /2015/08/03/almost-everything-we-do-is-now-open/
+[contrib-guide]: https://about.gitlab.com/community/contribute/
