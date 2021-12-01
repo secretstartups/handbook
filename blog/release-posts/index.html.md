@@ -1488,7 +1488,7 @@ Major releases happen once a year and start a new versioning cycle: 14.0 - 14.10
 
 ### Breaking changes workflow and timeline
 
-Product Operations will support with one product manager and TW volunteer who volunteer to draft, launch and share a breaking changes blog across designated channels as needed. Four releases in advance of a major release (e.g 14.7 for 15.0) Product Operations initiates this process by posting in Slack #release-post requesting a PM volunteer and TW voluneer to drive the breaking changes blog.
+Product Operations will support the product manager and technical write who volunteer to draft, launch and share the breaking changes blog and push it across designated channels as needed. Four releases in advance of a major release (e.g 14.7 for 15.0) Product Operations initiates this process by posting in Slack #release-post and then cross-posting to #product and #tw-team requesting a PM volunteer and TW volunteer to drive the breaking changes blog.
 
 The PM will lead the effort leverage the breaking changes [epic/issue templates ](template TBD)as their SSOT for timeline and process, which will also include the TW specific tasks. 
 
