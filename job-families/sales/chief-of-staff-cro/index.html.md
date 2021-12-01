@@ -107,7 +107,4 @@ Majority of the interviews and screening calls will be conducted via a video cal
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/)
 
-## References
-[The Case for a Chief of Staff](https://hbr.org/2020/05/the-case-for-a-chief-of-staff)
-[The role of a corporate chief of staff](https://medium.com/chiefofstaffnetwork/part-1-the-role-of-a-corporate-chief-of-staff-8db0142318f1) 
-[Why I need a Chief of Staff and You Probably Do, Too](https://www.entrepreneur.com/article/324484) 
+
