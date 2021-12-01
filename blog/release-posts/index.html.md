@@ -179,7 +179,7 @@ Other key tasks:
 - Making sure the TW Lead is aware if release post items are added or removed after the 18th
 - Informing the social team that the release post has been published and it's time to schedule social media posts
 - Alerting Product Operations of significant issues or hurdles that may compromise the release post
-- Supporting on task specific to[major releases](#major-releases)if collaborators reach out
+- Supporting on tasks specific to [major releases](#major-releases) if collaborators reach out
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
