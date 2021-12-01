@@ -10,7 +10,7 @@ This role does not do any work our [Executive Business Administrators](/job-fami
 
 ## Responsibilities
 
-The responsibilities include both directed work that will mostly be triggered by a direction from the CRO as well as leadership work that is self-directed and includes inputs and priorities from the CRO leadership team.  This role will help enable communication, collaboration, strategy execution and special projects across the CRO organization.  This individual will work in close partnership with the CRO and other business stakeholders to drive programs, execute and monitor our business strategy.  
+The responsibilities include both directed work initiated by the CRO as well as self-directed leadership work that includes inputs and priorities from the CRO leadership team.  This role will help enable communication, collaboration, strategy execution and special projects across the CRO organization. This individual will work in close partnership with the CRO and other business stakeholders to drive programs, execute and monitor our business strategy.  
 
 * Create a structure for the CRO to improve visibility and accountability with their direct reports 
 * Lead and partner on special projects for areas in which the CRO personally oversees (or has a keen interest in)
