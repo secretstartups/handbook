@@ -74,6 +74,11 @@ This year we celebrated 10 years of GitLab, marking a decade since the [first co
 
 On October 14, 2021, GitLab Inc. [became a publicly traded company](/blog/2021/10/14/gitlab-inc-takes-the-devops-platform-public/) on the Nasdaq Global Market (NASDAQ: GTLB).
 
+<figure class="video_container">
+   <iframe src="https://player.vimeo.com/video/650088717?h=c4db5327bd" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+
 ## When did we know that GitLab would work?
 
 As our CEO, Sid, puts it: [it was iterative](https://youtu.be/jYYxi_bs1Qg). The first time was when he saw GitLab and how easy it made collaboration. The second time was when he first made a post about it on Hacker News, and it didn't trend at first, so he left his computer to go make pancakes. But he had his phone with him, and his post started to get tons of comments and was featured on the home page. He asked his wife to take over making the pancakes for a few minutes, but he never came back because he spent the rest of the day answering questions about GitLab. Another time was when GitLab got into Y Combinator.
