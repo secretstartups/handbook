@@ -35,6 +35,8 @@ Modify your setup as follows
 
 Setting up your availability schedules is very important. This ensures you get scheduled calls during your intended hours as well as ensures you can be added to the various events we use.
 
+We utilize two schedules per person, your default "working hours" schedule and one named "Unavailable". This is because to use the one-time use links and the like, you must be a member of the event. When added to the event, your default schedule is used. In cases where you need to be added to an event but are not part of the round-robin, we would then utilize the "Unavailable" schedule. This ensures no meetings are routed to you but you are still able to use the features of the event in question.
+
 The above video shows how to set this up, but the general gist is:
 
 * Navigate to [https://calendly.com/app/availability/schedules](https://calendly.com/app/availability/schedules)
