@@ -175,7 +175,7 @@ Integrated with Salesforce
 
 To request access to Bizible or Allocadia, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
 
-If you are working with a contractor or consultant that requires access to one of these tools, [please follow the professional services access request process](https://about.gitlab.com/handbook/finance/procurement/vendor-contract-professional-services/#-step-7--create-professional-services-access-request-optional) as outlined in the procurement handbook.
+If you are working with a contractor or consultant that requires access to one of these tools, [please follow the professional services access request process](https://about.gitlab.com/handbook/finance/procurement/) as outlined in the procurement handbook.
 
 ## <i class="fas fa-receipt" id="biz-tech-icons"></i> Marketing Expense Tracking
 
