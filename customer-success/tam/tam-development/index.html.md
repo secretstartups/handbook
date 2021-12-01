@@ -18,6 +18,8 @@ As a Technical Account Manager, it is essential to understand what resources are
 
 <iframe src="https://docs.google.com/presentation/d/1HCoPkdjucC7nUaJl5eNzj3VNCWFdQ3nWvUNiMv2tcDU/embed?start=false&loop=false&delayms=3000&slide=id.gfc2de8fb7d_0_358" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfxhniPy9BWx7I4e9VZrZmWlYLAijmVP5whTGYbCOBCVE5aQk9Bh9sZcI3zlN8pCmQmTNRhpFLNxSq/embed?start=false&loop=false&delayms=3000&slide=id.gfc2de8fb7d_0_358" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 1. [Customer Success Education & Enablement (All-CS)](/handbook/customer-success/education-enablement/)
 1. [New TAM Sales Quickstart Learning Path](https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/): Delivered through scheduled training sessions and pre/post work, with portions applicable only to the TAM role.
 1. [Edcast](https://gitlab.edcast.com/): For certifications, learning paths and more!
