@@ -16,7 +16,6 @@ As a Technical Account Manager, it is essential to understand what resources are
 ## Key handbook sections, roadmaps and L&D platforms for enablement:
 1. [TAM Planned Enablement Roadmap for H2 FY22](https://docs.google.com/presentation/d/1HCoPkdjucC7nUaJl5eNzj3VNCWFdQ3nWvUNiMv2tcDU/edit#slide=id.g605d07d6c5_2_96)
 
-<iframe src="https://docs.google.com/presentation/d/1HCoPkdjucC7nUaJl5eNzj3VNCWFdQ3nWvUNiMv2tcDU/embed?start=false&loop=false&delayms=3000&slide=id.gfc2de8fb7d_0_358" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfxhniPy9BWx7I4e9VZrZmWlYLAijmVP5whTGYbCOBCVE5aQk9Bh9sZcI3zlN8pCmQmTNRhpFLNxSq/embed?start=false&loop=false&delayms=3000&slide=id.gfc2de8fb7d_0_358" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
