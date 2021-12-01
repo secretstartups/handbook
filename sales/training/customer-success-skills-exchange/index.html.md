@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Dec 01     |   [Machine Learning ModelOps/MLOps demonstration](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/140)           |  Sameer Kamani             |
 | Dec 15     |   **[Hold for RedHat OCP Fireside Chat](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/136)**           |  **TBD**             |
 | Jan 01     |   [Click-Through Demos]            |  Itzik Gan Baruch             |
 | Jan 19     |   [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/117)           |  Grant Young             |
@@ -35,6 +34,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2021-12-01 | **[GitLab for AI/ML applications](https://youtu.be/bDng9nwwLKU)** |  Public              |
 | 2021-11-17 | **[A Journey into the Customer Portal](https://www.youtube.com/watch?v=JsJyCA7Z6m0)** |  Private              |
 | 2021-11-03 | **[Kubernetes Integration with the Agent](https://youtu.be/kgFbgsCsNTo)**             |    Public           |
 | 2021-10-20 | **[GitOps with GitLab](https://youtu.be/9laTbEb2jbM)**             |  Private              |
