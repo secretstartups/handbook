@@ -36,6 +36,7 @@ In cases where Support needs to take action on the project or group, such as for
 
 1. Verify the user is a group _Owner_ or project _Maintainer_. Otherwise, ask the user to have an owner/maintainer contact us.
 1. Ask for permission to take action. See the [Asking Permission](#asking-permission) section below.
+1. Consider adding an [Admin Note](/handbook/support/workflows/admin_note.html) to the group admin page if Support may need to know the action was taken in the future.
 
 You can continue working with the original requester once an owner/maintainer provides permission if that is their preference.
 
