@@ -1484,7 +1484,7 @@ When approved, include the "Ready" label in the MR before merging.
 
 ## Major releases
 
-Major releases happen once year and start a new versioning cycle: 14.0 - 14.10 --> 15.0 and so on.  Contrribion to and managemaent of conent for major releases follows all the same protocols as [monthly releases](#monthly-releases). But for major releases, the release post manager can expect some extra coordinate and communication from the Marketing Team, due to extra marketing activies and needes. Additionally, during a major release  the release post manager may need to support Product Operatons or PM volunteeres managing communication of removals that are breaking changes.
+Major releases happen once a year and start a new versioning cycle: 14.0 - 14.10 --> 15.0 and so on.  Contribution to and management of content for major releases follows all the same protocols as [monthly releases](#monthly-releases). But for major releases, the release post manager can expect some extra coordination and communication from the Social, PR and Marketing Team, due to extra activities and needs for a major release. Additionally, during a major release, the release post manager may need to support Product Operations or PM volunteers managing communication of removals that are breaking changes.
 
 ### Breaking changes workflow and timeline
 
