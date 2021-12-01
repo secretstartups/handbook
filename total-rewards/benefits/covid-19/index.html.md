@@ -65,7 +65,7 @@ We encourage team members to only take the time they need to recover in accordan
 
 For some, our [Paid Time Off Policy](/handbook/paid-time-off/) of 25 consecutive calendar days will be suitable. Please keep your manager informed of any upcoming Paid Time Off. You are in no way obligated to release a personal medical diagnosis of COVID-19 to your manager.
 
-If you meet the criteria set forth above and find that you need additional time past the 25 consecutive calendar days allowed under our Paid Time Off Policy, please follow these steps to apply for COVID-19 Leave:
+If you meet the criteria set forth above and find that you need additional sick leave time past the 25 consecutive calendar days allowed under our Paid Time Off Policy, please follow these steps to apply for COVID-19 Leave:
 * On or before day 20 of your Paid Time Off,  please email total-rewards@gitlab.com with the following to request COVID-19 Leave:
   * Start date of your Paid Time Off
   * Start date of your COVID-19 Leave (this will be the 26th day after your Paid Time Off began)
