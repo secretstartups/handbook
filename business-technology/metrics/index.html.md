@@ -11,6 +11,18 @@ title: "Business Technology Performance Indicators"
 
 # Performance Indicators (PI)
 
+## OKRs SLA
+
+This performance indicator tracks the SLA for completing OKRs every quarter. The goal is that all OKRs need to be completed two weeks ahead of the end of each quarter.
+
+## Reports and key reviews SLA
+
+This performance indicator tracks the SLA for filling out reports and Finance Key Reviews. The goal is:
+
+- Finance Key Review: Slides updated 2 working days before the Finance Key Review meeting
+- Report out: Slides updated 3 working days before the quarterly Business Technology All Hands.
+
+
 ## Adoption of Data Team BI charts throughout company
 
 This performance indicator is tracked by several metrics including:
