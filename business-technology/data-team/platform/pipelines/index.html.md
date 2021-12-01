@@ -144,7 +144,7 @@ On this data pipeline, 3 types of Trusted Data Framework tests are executed:
 ## Service ping
 
 Service Ping is a method for GitLab Inc to collect usage data about a given GitLab instance.
-More information about `Service ping` (formerly known as `Usage ping`) from a Product perspective, should be found **[here](https://about.gitlab.com/handbook/customer-success/tam/usage-ping-faq/)**. Comprehensive guide with rich documentation is exposed in [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/).
+More information about `Service ping` (formerly known as `Service ping`) from a Product perspective, should be found **[here](https://about.gitlab.com/handbook/customer-success/tam/service-ping-faq/)**. Comprehensive guide with rich documentation is exposed in [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/).
 
 Service ping has two major varieties:
 - Self-Managed Service Ping
@@ -474,3 +474,63 @@ Zoominfo sends inbound files to Gitlab via Snowflake data share. Shared database
 * `"ZI_COMP_WITH_LINKAGES_GLOBAL_SOURCE"` -  International table has a list of all the companies they have information about. This is a one time share.
 * `"ZI_REFERENCE_TECHS_SOURCE"` - Technograph table that has a list of technologies used by companies in their database.This is a one time share.
 * `"GITLAB_CONTACT_ENHANCE_SOURCE"` - User table company matched table which appends company information to the user list Gitlab sends to zoominfo. Gitlab sends Zoominfo only once but the appended data can be refreshed quarterly. 
+
+## Adaptive
+ 
+Adaptive has been implemented as part of this [issue](https://gitlab.com/gitlab-data/analytics/-/issues/6237). The tap is reponsible for 100% sync for every refresh and executed via Meltano via the TAP-ADAPTIVE. 
+ 
+Below is the list of the relevant endpoints in Adaptive. The end points available and more information around the end point is present [here](https://adaptiveplanning.doc.workday.com/r/DG7oXjCPB6kIw6Th6awNUg/r2Yl8CztW98XTEeX1vKtgQ)
+ 
+- exportAccounts
+- exportActiveCurrencies
+- exportAttributes
+- exportConfigurableModelData
+- exportCustomerLogo
+- exportData
+- exportDimensionFamilies
+- exportDimensions
+- exportDimensionMapping
+- exportGroups
+- exportInstances
+- exportLevels
+- exportLocales
+- exportModeledSheet
+- exportRoles
+- exportPermissionSet
+- exportSecurityAudit
+- exportSheetDefinition
+- exportSheets
+- exportTime
+- exportTransactionDefinition
+- exportUsers
+- exportVersions
+
+All of these end points or table are created in snowflake. If the data is not present then also sklenton of the table will be created. The target landing Schema is `RAW.TAP-ADAPTIVE`.
+
+Repo URL for [TAP-ADAPTIVE](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-adaptive). 
+
+To run the TAP it required 2 enviornment variable named `TAP_ADAPTIVE_USERNAME` and  `TAP_ADAPTIVE_PASSWORD`. Below is the details of meltano.yml file which is configured for the TAP-ADAPTIVE.
+ 
+```
+- name: tap-adaptive
+    namespace: tap_adaptive
+    pip_url: git+https://gitlab.com/gitlab-data/meltano_taps.git#subdirectory=tap-adaptive
+    executable: tap-adaptive
+    capabilities:
+     - catalog
+     - discover
+     - state
+    settings:
+     - name: username
+     - name: password
+       kind: password
+     - name: start_date
+       value: '2010-01-01T00:00:00Z'
+    config:
+      start_date: '2010-01-01T00:00:00Z'
+      username: $TAP_ADAPTIVE_USERNAME
+      password: $TAP_ADAPTIVE_PASSWORD
+  loaders:
+```
+ 
+The Schedule is set to run daily at midnight.

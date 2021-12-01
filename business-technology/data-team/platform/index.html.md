@@ -28,6 +28,7 @@ description: "GitLab Data Team Platform"
 - [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/)
 - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
 - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
+- [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/)
 
 ## <i class="fas fa-cubes fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Our Data Stack
 
@@ -70,7 +71,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 
 | [Data Source](/handbook/business-technology/data-team/platform/pipelines) | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO| MNPI | 
 |------------:|:--------:|:---------:|:--------:|:-------:|:--------:|:--------:|
-| Adaptive | Meltano | `tap_adaptive` | | Finance | | Yes | 
+| [Adaptive](https://www.adaptiveplanning.com/) | [Meltano](/handbook/business-technology/data-team/platform/pipelines/#adaptive) | `tap_adaptive` | | Finance | | Yes | 
 | [Airflow](https://airflow.apache.org/) | [Stitch](https://www.stitchdata.com/) | `airflow_stitch` | `airflow` |  Data Team | 24h / 24h | No |
 | [BambooHR](https://www.bamboohr.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `bamboohr` | `sensitive` | People | 12h / 24h | No |
 | Clearbit | x | x | x | x / x | | No |
@@ -103,6 +104,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Zendesk](https://www.zendesk.com/) | [Stitch](https://www.stitchdata.com/) | `zendesk_stitch` | `zendesk` | Support | 6h / 24h |  No |
 | [Zoom](https://zoom.us/) | [Meltano](https://meltano.com/) | `tap_zoom` | N/A | People | 24h / N/A |  No |
 | [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h | Yes |
+| [Zuora Central Sandbox](https://www.test.zuora.com/) | [Fivetran](https://fivetran.com/) | `zuora_central_sandbox_fivetran` | `zuora_central_sandbox` | Finance |  24h / 48h | Yes |
 | [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue) | [Airflow](https://airflow.gitlabdata.com/home)  | `zuora_revenue` | `zuora_revenue` | Finance | 24h / 48h | Yes |
 | [Zoominfo](https://www.zoominfo.com/) | [Snowflake Data Share](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#snowflake-data-share)  | x | `zoominfo` | Analytics & Insights, Product, Sales, Marketing | 24h / N/A  | No  |
 
@@ -363,6 +365,8 @@ This includes all tables, views, queries, users, etc.
 There is a `covid19` database, which is a shared database managed through the Snowflake Data Exchange.
 
 There is a `testing_db` database, which is used for testing Permifrost.
+
+There is a `bi_tool_eval` database, which is used for testing bi tooling. Users are able create own testing sets manually. 
 
 All databases not defined in our [`roles.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml) Permifrost file are removed on a weekly basis.
 
