@@ -57,7 +57,8 @@ More details on definitions of outage, and degradation are on the [incident-mana
 
 | **Year Month** | **Availability** | **Comments** |
 | ---- | ----------- | ---- |
-| 2021 November | TBD |  |
+| 2021 December | TBD |  |
+| 2021 November | 99.71 |  |
 | 2021 October | 99.98 |  |
 | 2021 September | 99.85 |  |
 | 2021 August | 99.86 |  |
