@@ -30,16 +30,11 @@ If an emergency takes longer than an hour to resolve, and/or multiple people are
 
 ## Security Disclosures
 
-We have a [Responsible Disclosure Policy](/security/disclosure/). Emails sent to security@gitlab.com go into Zendesk and receive an autoresponder that says:
-`"Thank you for your responsible disclosure of a potential GitLab vulnerability. We'll follow up with you within one business day."`
-We also accept reports via [HackerOne](https://hackerone.com/gitlab); see [more information](/handbook/support/channels#hackerone) on this channel.
-
-Occasionally, issues do not get automatically labeled as `security` or assigned to the Security Team; refer to [working with Security](/handbook/support/workflows/working_with_security.html) for information on identifying and handling these tickets. Sometimes issues that would be better served directly by Support Engineers end up in the `security` queue.  It is okay to take and handle issues such as 2-factor authentication and other authorization configuration problems for GitLab.com.
-users.
+We have a [Responsible Disclosure Policy](/security/disclosure/). Users who reach out to `security@gitlab.com` will now receive an auto-reply providing them with specific instructions for reporting the various types of security concerns. We also accept reports via [HackerOne](https://hackerone.com/gitlab); see [more information](/handbook/support/channels#hackerone) on this channel. Refer to [working with Security](/handbook/support/workflows/working_with_security.html) for information on identifying and handling these tickets.
 
 When in doubt, please be very patient with these reports. Do not say 'there is no problem'. You might be misunderstanding something that can lead to a 0-day disclosure. Give examples and keep asking questions until you understand the problem or until the researcher concludes there is no problem. If someone invested time to help us, offer to mention them on our [Security Researcher Acknowledgments page](/security/vulnerability-acknowledgements/) even if there was no actual vulnerability. If you say that we'll get back to them, **always** mention that they can email us at any time for an update. This is really important to prevent a 0-day disclosure resulting from us forgetting to respond.
 
-Issues created from reports to `security@gitlab.com` must follow the [security issue triage](/handbook/engineering/security/#issue-triage) process.
+Issues created from ZenDesk tickets must follow the [security issue triage](/handbook/engineering/security/#issue-triage) process.
 
 Reports that are PGP-encrypted will be handled by the [Security Team](/handbook/engineering/security/#external-contact-information).
 
