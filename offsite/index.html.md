@@ -10,7 +10,7 @@ description: "The E-group offsite happens every quarter for four days after the 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The E-group offsite happens every quarter for four days after the [Board of Directors meeting](/handbook/board-meetings/#board-meeting-schedule)
+The E-group offsite happens every quarter for four days after the [Board of Directors meeting](/handbook/board-meetings/#board-meeting-schedule){:data-ga-name="Board meeting schedule"}{:data-ga-location="body"}
 
 ## Goal
 
@@ -24,10 +24,10 @@ The agenda should includehsmith-watson-update-handbook-ceo-1 discussions that ar
 
 ## Attendees
 
-1. [Executives](/company/team/structure/#executives)
-1. [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/); when not possible, the [Director, Strategy and Operations](/job-families/chief-executive-officer/strategy-and-operations/)
-1. [CEO Shadows](/handbook/ceo/shadow/)
-1. [Executive Business Admin](/handbook/eba/#executive-business-administrator-team) to the CEO (optional)
+1. [Executives](/company/team/structure/#executives){:data-ga-name="executives"}{:data-ga-location="body"}
+1. [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/){:data-ga-name="chief of staff"}{:data-ga-location="body"}; when not possible, the [Director, Strategy and Operations](/job-families/chief-executive-officer/strategy-and-operations/){:data-ga-name="director strategy and operations"}{:data-ga-location="body"}
+1. [CEO Shadows](/handbook/ceo/shadow/){:data-ga-name="CEO shadow"}{:data-ga-location="body"}
+1. [Executive Business Admin](/handbook/eba/#executive-business-administrator-team){:data-ga-name="executive business admin"}{:data-ga-location="body"} to the CEO (optional)
 1. Invited participants: folks invited to participate in one or more specific session
 
 #### Roles
@@ -43,7 +43,7 @@ Please follow the below outlined process for announcing and merging the changes.
 
 The **Chief of Staff to the CEO** or other team member is responsible for facilitating the event.
 They will work with the Staff EBA closely to ensure the event runs smoothly.
-The CoS to the CEO is the on-the-ground person ensuring that the event is kept on-schedule, discussions are kept on-subject, helping steer the conversation when necessary, guiding conversations towards action items, and ensuring that [implementation is about 50% of time](/company/offsite/#timeline).
+The CoS to the CEO is the on-the-ground person ensuring that the event is kept on-schedule, discussions are kept on-subject, helping steer the conversation when necessary, guiding conversations towards action items, and ensuring that [implementation is about 50% of time](/company/offsite/#timeline){:data-ga-name="timeline"}{:data-ga-location="body"}.
 
 The **Staff Executive Business Administrator to the CEO** is responsible for organizing and coordinating the Offsite, including travel, lodging, agendas, and meals.
 
@@ -53,14 +53,14 @@ Since most of the E-group is in the San Francisco Bay Area, we'll go to a locati
 We tend to pick a location at or close to a member of the E-group.
 If the CEO is traveling, the CoS to the CEO (preferred) or the Staff EBA should bring [the Owl](https://www.owllabs.com).
 
-[Hybrid calls are hard](/handbook/communication/#hybrid-calls-are-horrible), but occasionally the Offsite will need to take a hybrid meeting form.
+[Hybrid calls are hard](/handbook/communication/#hybrid-calls-are-horrible){:data-ga-name="hybrid calls are hard"}{:data-ga-location="body"}, but occasionally the Offsite will need to take a hybrid meeting form.
 When this is the case, the Staff EBA to the CEO will ensure that the calendar invite for the Zoom offsite includes a Zoom link.
 The Zoom link should have a waiting room attached to it, since the zoom URL is on calendars and is discoverable internally.
 This also allows the E-group to pull in folks as-needed into the room without switching Zoom rooms, as people won't just jump in and out without being noticed or before the E-group is ready to move onto that subject.
 
 #### Offsites in the era of COVID-19
 
-COVID-19 has lead GitLab to [suspend all non-essential travel](/handbook/travel/#travel-guidance-covid-19).
+COVID-19 has lead GitLab to [suspend all non-essential travel](/handbook/travel/#travel-guidance-covid-19){:data-ga-name="suspend all non-essential travel"}{:data-ga-location="body"}.
 That includes the E-group offsite.
 
 In the circumstance of a fully remote e-group offsite, instead of 2.5 days of in-person meetings, the e-group offsite occurs over 4 all-remote half-day sessions.
@@ -101,7 +101,7 @@ In 2021, the following offsite dates have been confirmed (starting dates):
 ## Timeline
 
 1. 2 weeks before Content Selection or other required pre-work is finalized
-1. 2 weeks before- if a subject requires data to support the discussion, make a request of [the data team](/handbook/business-ops/data-team/) for assistance no less than 2 weeks before the offsite; [alert the data team of on-call request](/company/offsite/#data-team-member-on-call)
+1. 2 weeks before- if a subject requires data to support the discussion, make a request of [the data team](/handbook/business-ops/data-team/){:data-ga-name="the data team"}{:data-ga-location="body"} for assistance no less than 2 weeks before the offsite; [alert the data team of on-call request](/company/offsite/#data-team-member-on-call){:data-ga-name="alert the data team of on call request"}{:data-ga-location="body"}
 1. Friday before- agenda is finalized (though always subject to change); Prep Work asks finalized
 1. Immediately following the Offsite, the CoST to the CEO should create the agenda for the next Offsite so that topics can be added as they come up.
 
@@ -111,11 +111,11 @@ Because the Offsite is a very expensive meeting, we want to be sure we are as ef
 One of the ways we do this is by asking participants to do prep work ahead of time.
 
 Examples of prep work include:
-* [Reading the content that was selected](/company/offsite/#content-choice)
-* Executives working with their People Business Partners to prep the [Performance/Potential Matrix of their direct reports](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix)
-* Executives working with their People Business Partners to prep any [Director + promotion nominations](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process)
+* [Reading the content that was selected](/company/offsite/#content-choice){:data-ga-name="content choice"}{:data-ga-location="body"}
+* Executives working with their People Business Partners to prep the [Performance/Potential Matrix of their direct reports](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix){:data-ga-name="performance portential matrix"}{:data-ga-location="body"}
+* Executives working with their People Business Partners to prep any [Director + promotion nominations](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotion nominations"}{:data-ga-location="body"}
 * Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direct](/direction/growth/)
-* [Watch this short clip on the danger of sticky bears](/company/offsite/beware-sticky-bears/)
+* [Watch this short clip on the danger of sticky bears](/company/offsite/beware-sticky-bears/){:data-ga-name="growth"}{:data-ga-location="body"}
 
 Anyone who is presenting for a topic should share materials with the prep work.
 
@@ -165,9 +165,9 @@ The goal is to merge it the same day, preferably within 15 minutes.
 There are some topics discussed at every E-group offsite.
 These include:
 1. Reviewing action items from the last offsite
-1. [Talent Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/) (1.5 hrs, ~10 mins per function). CEO Shadows and EBAs do not attend this session
-1. [Director+ Promotions](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process) (as-needed based on number of people, estimate ~10 mins per person)
-1. [Content Discussion](/company/offsite/#content-choice) (30 minutes - 1 hour)
+1. [Talent Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/){:data-ga-name="talent assesment"}{:data-ga-location="body"} (1.5 hrs, ~10 mins per function). CEO Shadows and EBAs do not attend this session
+1. [Director+ Promotions](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotions"}{:data-ga-location="body"} (as-needed based on number of people, estimate ~10 mins per person)
+1. [Content Discussion](/company/offsite/#content-choice){:data-ga-name="content discussion"}{:data-ga-location="body"} (30 minutes - 1 hour)
 1. Spend prioritization discussion (50 minutes)
 
 
@@ -198,7 +198,7 @@ All-directs are a key leadership team that plays a key role in identifying and r
 
 In advance of the offsite, E-group members are expected to connect with their team leadership to identify possible agenda topics, get input into specific topics, and share an overview of what is being discussed. The goal is not to waste an opportunity for broader input and insight from the broader leadership team. The all-direct team should arrive at our all-directs Zoom call already having an understanding of some of key items that were discussed.
 
-In the week following the Offsite, there is a 50-minute Zoom call before 12pm Pacific time for the [All-Directs Group](/company/team/structure/#all-directs).
+In the week following the Offsite, there is a 50-minute Zoom call before 12pm Pacific time for the [All-Directs Group](/company/team/structure/#all-directs){:data-ga-name="all directs"}{:data-ga-location="body"}.
 This time will not work for everyone. The meeting will be privately streamed to Unfiltered on YouTube.
 
 The goal of this call is to communicate:
@@ -236,9 +236,9 @@ The offsite includes a 30 minute to 1 hour discussion on material chosen by the 
 
 We will share discussion highlights and takeaways in E-Group Offsite meeting notes that are shared with all team members. This also allows team members to engage in the conversation.
 
-Team Members may [expense](/handbook/spending-company-money/#expense-policy) E-Group offsite material in the quarter that it is discussed.
+Team Members may [expense](/handbook/spending-company-money/#expense-policy){:data-ga-name="expense"}{:data-ga-location="body"} E-Group offsite material in the quarter that it is discussed.
 
-Material that the E-Group finds noteworthy should be added to the [Leadership Books](/handbook/leadership/#books).
+Material that the E-Group finds noteworthy should be added to the [Leadership Books](/handbook/leadership/#books){:data-ga-name="leadership books"}{:data-ga-location="body"}.
 
 ### Previous Reads
 
