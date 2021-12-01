@@ -25,7 +25,7 @@ When recording prospect/customer activity by SA into `Task` objects within Sales
 This page describes all activity types available for SAs in 
 - [Enterprise and Commercial](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Enterprise-and-Commercial-SA-Activity-Type) 
 - [Strategic Field](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Strategic-Field-SA-Activity), and
-- [Alliance/Channel](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Alliance/Channel-SA-Activity)
+- [Alliance/Channel](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#description-for-alliancechannel-sa-activity)
 
 
 ### Description for Enterprise and Commercial SA Activity Type
