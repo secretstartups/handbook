@@ -179,6 +179,7 @@ Other key tasks:
 - Making sure the TW Lead is aware if release post items are added or removed after the 18th
 - Informing the social team that the release post has been published and it's time to schedule social media posts
 - Alerting Product Operations of significant issues or hurdles that may compromise the release post
+- Supporting on task specific to[major releases](#major-releases)if collaborators reach out
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
@@ -1480,6 +1481,16 @@ upgrade:
 Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
 
 When approved, include the "Ready" label in the MR before merging.
+
+## Major releases
+
+Major releases happen once year and start a new versioning cycle: 14.0 - 14.10 --> 15.0 and so on.  Contrribion to and managemaent of conent for major releases follows all the same protocols as [monthly releases](#monthly-releases). But for major releases, the release post manager can expect some extra coordinate and communication from the Marketing Team, due to extra marketing activies and needes. Additionally, during a major release  the release post manager may need to support Product Operatons or PM volunteeres managing communication of removals that are breaking changes.
+
+### Breaking changes workflow and timeline
+
+Product Operations will support with one product manager and TW volunteer who volunteer to draft, launch and share a breaking changes blog across designated channels as needed. Four releases in advance of a major release (e.g 14.7 for 15.0) Product Operations initiates this process by posting in Slack #release-post requesting a PM volunteer and TW voluneer to drive the breaking changes blog.
+
+The PM will lead the effort leverage the breaking changes [epic/issue templates ](template TBD)as their SSOT for timeline and process, which will also include the TW specific tasks. 
 
 ## Adding content
 
