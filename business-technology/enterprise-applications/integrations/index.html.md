@@ -53,11 +53,13 @@ Slack: `#bt-integrations`
 We are the team that designs, builds and maintains the complex ecosystem of integrations and automations that exist in our Enterprise Applications ecosystem. We do this via the use of a hybrid integrations platform. We also fill a governance role in the organization for system integrations and real-time data flow by applying [standards and conventions](#standards-and-conventions) for all of our Enterprise Application systems and integrations.
 
 ### GitLab's Hybrid Integrations Platform
-At GitLab we have a hybrid integrations platform philosophy. Our core integrations platform is Platypus. It's built with the open source Node.js framework [Nest.js](https://nestjs.com/){:target="_blank"} and maintained by the Integrations Engineering team. In addition to Platypus we also use an IPaaS platform called Workato.
+At GitLab we have a hybrid integrations platform philosophy called Platypus. Platypus is built with two tools; Nestjs and Workato. [Nest.js](https://nestjs.com/){:target="_blank"} is an open source Node.js backend application framework. In addition to Nest.js we also use an IPaaS platform called [Workato](https://www.workato.com/){:target="_blank"} that brings us out of the box connectors and recipes for common application integrations.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R-el26goNgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus" target="_blank">
-        <img style="padding: 5px" src="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus/-/raw/master/logos/logowidecropped.svg" width="400px">
+        <img style="padding: 5px" src="https://camo.githubusercontent.com/c704e8013883cc3a04c7657e656fe30be5b188145d759a6aaff441658c5ffae0/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f5f746578742e737667" width="400px">
     </a>
     <i class="fas fa-plus" style="font-size: 2em; margin-top: 10px; margin-bottom: 10px"/>
     <a href="https://www.workato.com/" target="_blank">
