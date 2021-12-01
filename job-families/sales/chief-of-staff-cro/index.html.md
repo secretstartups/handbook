@@ -3,30 +3,30 @@ layout: job_family_page
 title: Chief of Staff to the CRO 
 ---
 
-This is a key leadership position on the Chief Revenue Officer’s team. This highly visible role is a trusted partner to the Chief Revenue Officer (CRO) to drive operational excellence and deliver repeatable business results. This role serves as the right hand to the CRO by being a strategic advisor and executing cross-functional and cross-region initiatives and activities supporting the CRO's strategy and vision in alignment with our company values.  
+This is a key leadership position on the Chief Revenue Officer’s team. This highly visible role is a trusted partner to the Chief Revenue Officer (CRO) to drive operational excellence and deliver repeatable business results. This role serves as a partner to the CRO as a strategic advisor and executing cross-functional and cross-organization initiatives and activities supporting the CRO's strategy and vision in alignment with our company values.  
 
-This role does not do any work our [Executive Business Administrators](/job-families/people-ops/executive-business-administrator/) are already doing. This role could have EBA support, although will not have a dedicated EBA themselves.
+This role does not overlap with responsibilities [Executive Business Administrators](/job-families/people-ops/executive-business-administrator/) already handle. This role could have EBA support, will work closly with the EBA to the CRO, and may directly manage an EBA, although will not have a dedicated EBA themselves.
 
 
 ## Responsibilities
 
 The responsibilities include both directed work initiated by the CRO as well as self-directed leadership work that includes inputs and priorities from the CRO leadership team.  This role will help enable communication, collaboration, strategy execution and special projects across the CRO organization. This individual will work in close partnership with the CRO and other business stakeholders to drive programs, execute and monitor our business strategy.  
 
-* Create a structure for the CRO to improve visibility and accountability with their direct reports 
+* Create structure and process for the CRO to improve visibility and accountability with their direct reports 
 * Lead and partner on special projects for areas in which the CRO personally oversees (or has a keen interest in)
 * Act as a sounding board to the CRO and CRO leadership team for new ideas and initiatives.
-* Act as a thought partner to the CRO, executive leadership team, and cross-functional teams on strategy, company policies, and operating systems
+* Act as a thought partner to the CRO, CRO leadership team, executive leadership team, and cross-functional teams on strategy, company policies, and operating systems
 * Develop high-quality processes to improve how we operate company-wide (in collaboration with the CoS, CEO)
 * Initiate and guide the CRO team OKR process according to the [OKR schedule](/company/okrs/#schedule) in partnership with the CoS, CEO
 * Help define, drive and run CRO-level and relevant business reviews including CRO QBRs
 * Work closely with internal teams on goal-setting and tracking, interfacing, and consulting with cross-functional groups
-* Develops and maintains strong relationships with executives, senior leaders, and stakeholders to achieve project objectives and deliverables
+* Develop and maintain strong relationships with executives, senior leaders, and stakeholders to achieve project objectives and deliverables
 * Serving as CRO Board Liaison, including support with Board and Committee materials and follow-ups, information flow, training, etc
-* Partners with the CRO’s People Business Partner, Talent Acquisition, SS&A, and Finance to support staffing needs planning
-* Identifies, develops, and implements continuous process improvements to increase the efficiency and effectiveness of the CRO and the organization
-* Transparently shares vital information and learnings across teams, including documenting in the company Handbook
-* Supports the creation of investor updates, pitch decks, speeches, conference submissions, and presentations on behalf of the CRO.
-* Effectively triages escalations. Our teams often rely heavily on quick root-cause analyses and fast information sharing. Time-sensitive escalations may include driving cross-functional conversations to get to the bottom of complex issues that have become a business blocker or helping ensure a fast turnaround for specific prospects and customer needs
+* Partners with the CRO’s People Business Partner, Talent Acquisition lead, SS&A team, and Finance team to support planning, metrics, reporting, and decisions
+* Identify, develop, and implement continuous process improvements to increase the efficiency and effectiveness of the CRO and the organization
+* Transparently share vital information and learnings across teams, including documenting in the company Handbook
+* Support the creation of investor updates, pitch decks, speeches, conference submissions, and presentations on behalf of the CRO.
+* Effectively triage escalations. Our teams often rely heavily on quick root-cause analyses and fast information sharing. Time-sensitive escalations may include driving cross-functional conversations to get to the bottom of complex issues that have become a business blocker or helping ensure a fast turnaround for specific prospects and customer needs
 * Act as the communication arm for the CRO with team members, clients, investors, community members, and other stakeholders.
 * Maintain and foster a close partnership with the CEO’s Chief of Staff on strategic initiatives
 * Maintain and foster a close partnership with the Sales Strategy & Analytics and the broader Field Operations Teams
@@ -63,7 +63,7 @@ The responsibilities include both directed work initiated by the CRO as well as 
 * Problem solver, analytical and organized thinker
 * Proven track record of effectively interacting with senior stakeholders on cross-functional projects.  
 * You have [short toes](/handbook/values/#short-toes) and an aptitude for working well with a wide range of people.
-* “Calm under fire” demeanor
+* “Calm under pressure” demeanor
 * Bachelor's Degree in Business Administration, Finance, or a related discipline or prior work experience in one or more of these disciplines
 * Some travel will be required: Ability to travel to support the CRO, as needed 
 * Operational experience in a previous role 
@@ -77,7 +77,7 @@ The Chief of Staff to the CRO is a [grade 9](/handbook/total-rewards/compensatio
 
 ## Performance Indicators
 
-* Meetings shifted from CRO - hours spent in meetings decreases overtime by Chief of Staff stepping in and maximizing the CRO’s time
+* Meetings shifted from CRO - hours spent in meetings decreases over time by Chief of Staff prioritizing and maximizing the CRO’s time allocation
 LSAT Survey - leadership satisfaction survey 
 * On a semi-annual basis, the CRO and their leadership team (direct reports to the CRO) will receive a survey with a series of questions and a rating scale of 1-5, 5 being excellent to help determine the performance and impact of the Chief of Staff, CRO. 
     * Sample questions:
@@ -89,7 +89,7 @@ LSAT Survey - leadership satisfaction survey
 
 
 ## Career Ladder
-There is no set career path for a Chief of Staff. As such, the role is often viewed as having a ~2 year rotation — a passthrough program with an eye towards leading a functional area of their business thereafter. Some may step into a senior leadership or VP role in operations or strategy, or some may stay and thrive in the CoS role for a longer time period. It is more common to see a CoS evolve into GM or similar roles overseeing entire business units — roles that require management experience, strong communication and contextual knowledge of multiple teams working together.
+There is no set career path for a Chief of Staff. As such, the role is often viewed as having a ~2 year rotation — a passthrough program with an eye towards leading a functional area of their business thereafter. Some may step into a senior leadership role in operations or strategy, or some may continue to grow thier career and thrive in the CoS role for a longer time period. It is more common to see a CoS evolve into functional leadership roles — roles that require management experience, strong communication and contextual knowledge of multiple teams working together.
 
 
 ## Hiring Process
