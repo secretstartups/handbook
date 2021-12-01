@@ -14,7 +14,7 @@ description: "At GitLab, we are family and friends first, work second. A monthly
 
 # What is a Family and Friends Day?
 
-At GitLab, we are [family and friends first, work second](/handbook/values/#family-and-friends-first-work-second). In an ongoing pandemic with COVID-19 affecting many of our team members, we want to ensure that people are making their well-being a top priority and that we are living out our values, to emphasize this we will coordinate a monthly "Family and Friends Day" for as long as the majority of the world, where our team members reside, are dealing with COVID-19. On this day, we will close the doors to the GitLab virtual office, reschedule all meetings, and have a **publicly visible shutdown**.
+At GitLab, we are [family and friends first, work second](/handbook/values/#family-and-friends-first-work-second){:data-ga-name="family and friends"}{:data-ga-location="body"}. In an ongoing pandemic with COVID-19 affecting many of our team members, we want to ensure that people are making their well-being a top priority and that we are living out our values, to emphasize this we will coordinate a monthly "Family and Friends Day" for as long as the majority of the world, where our team members reside, are dealing with COVID-19. On this day, we will close the doors to the GitLab virtual office, reschedule all meetings, and have a **publicly visible shutdown**.
 
 Team members can share about their Family and Friends Day in the `#family-and-friends-day` Slack channel after the event, or publicly on social media such as Twitter, LinkedIn, or wherever they're most comfortable using the hashtag #FamilyFriends1st. Sharing is optional. Taking the day off is strongly encouraged if your role allows it.
 
@@ -24,7 +24,7 @@ Team members can share about their Family and Friends Day in the `#family-and-fr
 1. 2021-12-27
 1. 2022-01-03
 
-We will look at scheduling future dates pending the global COVID-19 situation. Because we are living in unprecedented times and are trying to give our Team Members some extra space in their lives outside of work. In line with our [Paid Time Off](/handbook/paid-time-off/) policy, we encourage GitLab Team Members to continue to take additional days off, as needed. Family and Friends Day is a reminder to do this.
+We will look at scheduling future dates pending the global COVID-19 situation. Because we are living in unprecedented times and are trying to give our Team Members some extra space in their lives outside of work. In line with our [Paid Time Off](/handbook/paid-time-off/){:data-ga-name="PTO"}{:data-ga-location="body"} policy, we encourage GitLab Team Members to continue to take additional days off, as needed. Family and Friends Day is a reminder to do this.
 
 ## Past Family and Friends Days
 
@@ -63,7 +63,7 @@ If you are in a role that requires you to work on Family and Friends Day, you ca
 We encourage you to take off the next working day. If this day isn't an option, work with your manager to find another day that works for you and your team.
 
 ### How is this any different than our vacation policy?
-Nothing about our [Paid Time Off](/handbook/paid-time-off/) policy is changing. We wanted to designate a specific day in order to more proactively force a pause for team members. If most of the company isn't working, there is less pressure for you to do so.
+Nothing about our [Paid Time Off](/handbook/paid-time-off/){:data-ga-name="PTO"}{:data-ga-location="body"} policy is changing. We wanted to designate a specific day in order to more proactively force a pause for team members. If most of the company isn't working, there is less pressure for you to do so.
 
 ### What about client or prospect meetings that conflict?
 If you feel that this meeting can be rescheduled without any setbacks to the business, please go ahead and do so. If you have a meeting that would be hard to reschedule or would jeopardize the business results, please work with your manager to find another day that would work for both you and your team.
@@ -74,6 +74,6 @@ Feel better! Please work with your manager to find another day that works for yo
 ### How do I communicate that I'm off that day?
 We'll assume that most people are off on Family and Friends Day, but we know that some people will take other days.
 
-Please update [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) in Slack. You can select `Create an OOO Event` and find `Family and Friends Day` in the drop-down menu of `What type of OOO is this?`.
+Please update [PTO by Roots](/handbook/paid-time-off/#pto-by-roots){:data-ga-name="PTO by roots"}{:data-ga-location="body"} in Slack. You can select `Create an OOO Event` and find `Family and Friends Day` in the drop-down menu of `What type of OOO is this?`.
 
 Feel free to block your calendar with "Family and Friends Day" to share whatever day you take.
