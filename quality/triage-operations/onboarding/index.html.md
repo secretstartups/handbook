@@ -14,9 +14,9 @@ description: "Onboarding guidelines for Issue Triaging team"
 
 ## Expectations of the Issue Triaging team
 
-### Community Support
+### Community Assistance
 
-The Community Support side of the issue triage involves analyzing issues posted to our various Issue Trackers and determining their validity and importance. 80% of your time will be spent triaging issue reported by the Community and your fellow Team Members.
+The Community Assistance side of the issue triage involves analyzing issues posted to our various Issue Trackers and determining their validity and importance. 80% of your time will be spent triaging issue reported by the Community and your fellow Team Members.
 
 This facet to the role will also include digging into the various GitLab product's codebases to thoroughly understand the root cause to a problem to deliver a workaround, report the problem accurately to the correct team, or provide a fix.
 
@@ -127,11 +127,11 @@ We were able to reproduce the bug on GitLab.com, this is a proper regression! Le
 
 ----
 
-#### Stage 2 - Prepare for Community Support
+#### Stage 2 - Prepare for Community Assistance
 
 ##### Goals
 
-* Gain sufficient Product Knowledge to provide Community Support
+* Gain sufficient Product Knowledge to provide Community Assistance
 * Prepare your own Environments for replicating and debugging Community Issues
 * Understand where to find documentation and answers
 * Understand the tools that are at our disposal
