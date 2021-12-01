@@ -50,7 +50,7 @@ While Support typically identifies users by their membership in a paid namespace
 1. [Owner vouch](#authenticating-an-owner) is required.
 1. Primary email of the account must match the company domain.
 1. User must still prove account ownership following the [workflow](#workflow).
-   - Include the paid namespace when determining the data classification level.  
+   - Include the paid namespace when determining the data classification level.
 
 ### Workflow
 
@@ -264,6 +264,7 @@ If no Self-service options are viable, follow the steps below:
 1. Once we received the necessary document, double check all the requested information is included. If not, let them know what's missing. If all required elements are present, follow the next step.
 1. Create a new issue in [the Legal tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/) requesting approval to add or upgrade the permissions of the requesting user. Note the issue in an internal comment on the ticket, then reply to the requestor using [`Legal::General` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in `#legal`.
 1. After receiving approval: add or elevate the requested user to Owner role.
+1. [Add an admin note](admin_note.html.md) on the group admin page.
 
 ## **Authenticating an Owner**
 
