@@ -9,7 +9,7 @@ title: "Temporary Service Providers Access Requests, Onboarding and Offboarding"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Similar to our Access Request process for team members, we have an access request process for consultants or professional services providers. We track issues related to consultants/professional service providers in the [Temporary Service Providers group](https://gitlab.com/gitlab-com/temporary-service-providers). Temporary Service Providers need to go through the [Professional Services Procurement process](https://about.gitlab.com/handbook/finance/procurement/vendor-contract-professional-services/) before they can be onboarded.
+Similar to our Access Request process for team members, we have an access request process for consultants or professional services providers. We track issues related to consultants/professional service providers in the [Temporary Service Providers group](https://gitlab.com/gitlab-com/temporary-service-providers). Temporary Service Providers need to go through the [Professional Services Procurement process](https://about.gitlab.com/handbook/finance/procurement/) before they can be onboarded.
 
 ## Access Requests and Orientation issues
 
