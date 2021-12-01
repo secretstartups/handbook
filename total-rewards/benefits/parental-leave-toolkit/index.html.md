@@ -100,11 +100,11 @@ A nice way to celebrate a team member's new addition to their family is by hosti
 * Review our [parental leave benefits/policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave)
 * Slack channel to connect with other parents — `#intheparenthood` ([Join Slack channel](https://gitlab.slack.com/app_redirect?channel=intheparenthood) - *for GitLab team members only*)
 * Read the handbook section on [returning from parental leave](/handbook/paid-time-off/#returning-to-work-after-parental-leave) with tips for the transition back to work
-* Consider participating in the [**Your 4th Trimester program**](https://www.broadperspectiveconsulting.com/maternity-transition), a 90-day coaching program to help parents transition back to work. 
+* Consider participating in the [**Your 4th Trimester program**](https://drive.google.com/file/d/1NOkpt1oBruKunt3IdR6bQuvR0P2ht6Tg/view?usp=sharing), a 90-day coaching program to help parents transition back to work. 
    * All team members taking Parental Leave are welcome to participate in this program (regardless of gender)
    * The program starts a month before a team member goes out on Parental Leave
    * Barbara (from Your 4th Trimester) will re-engage with the team member 30 days before the end of Parental Leave
-   * To apply for this coaching program, follow the [Growth & Development process (Over $1,000 USD)](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits).
+   * To apply for this coaching program, please notify Total Rewards that you would like to participate in the program by sending an email to growth-development@domain.
 * Read [GitLab's guide to parenting as a remote worker](/company/culture/all-remote/parenting/)
 * Consider reaching out to a [Parental Leave Reentry Buddy](#parental-leave-reentry-buddies)
 * Watch the video below from [Crucial Conversations](/handbook/leadership/crucial-conversations/) entitled `How Working Moms can Do it All`: 

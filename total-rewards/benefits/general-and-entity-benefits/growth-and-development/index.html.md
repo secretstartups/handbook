@@ -42,8 +42,8 @@ At GitLab, team members have access to the [Growth and Development benefit](/han
 **Step 1:** Have a [career development conversation](/handbook/people-group/learning-and-development/career-development/#what-is-career-development) with your manager to discuss the learning opportunity. It's important to discuss timing, team member capacity, and application timeline for both the program and benefit processing. This conversation should allow time for you to apply for program/benefit and your manager to ensure team budget capacity.
 
 **Step 2:** Create a new Growth & Development issue at least 30 days before the commencement date:
-    * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=academic_study) for applications relating to Academic Study
-    * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-growth-development) for other types of Growth & Development applications
+* Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=academic_study) for applications relating to Academic Study
+* Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-growth-development) for other types of Growth & Development applications
 
 * Note: This application process is visible internally. It is preferred and more efficient to create an issue for your application, however, if there is any reason that you would like to keep your application confidential, please send growth-development@gitlab an email with the details of your application (refer to the issue templates for the information required).
 
@@ -156,9 +156,6 @@ You must complete the Crucial Conversations self-paced training and attend at le
 
 1. If the team member lives in a country where this benefit is considered taxable income (currently only in Australia and some cases in Belgium), notify payroll.
 1. Total Rewards will send an introductory email to Your 4th Trimester to the team member and Barbara Palmer `barbara@your4thtrimester.com` outlining the expected leave date, expected return to work date and date of birthing event. Barbara will conduct the intake with the team member and communicate directly for any coaching throughout the program. 
-
-**Monthly Reporting:**
-GitLab will provide Your 4th Trimester with a report monthly of any team members with an upcoming parental leave: expected leave date, expected return to work date, date of birthing event, country, whether the person has already opted in, and maternity or paternity leave. The purpose of this monthly report is to ensure Your 4th Trimester can plan accordingly to the volume of coaching for GitLab team members. 
 
 **Billing:**
 Your 4th Trimester will bill GitLab for this benefit quarterly with 50% at intake and 50% at the completion of the coaching program per participant. If there are more than 5 participants in a quarter, there will be a discount on the bill. If there are any tax implications for the GitLab team member, Total Rewards will work with payroll to ensure this is reported compliantly. 
