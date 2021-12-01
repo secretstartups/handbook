@@ -83,14 +83,14 @@ If you're comfortable using Git and GitLab and want to help team members trouble
 
 ## Virtual Baby (or Growing Your Family) Shower
 
-A nice way to celebrate a team member's new addition to their family is by hosting a virtual baby/growing your family shower. In colocated companies, this is something that teams often do to wish a team member well as they head out on parental or adoption leave. We encourage virtual showers to be considered for all team members (not just expectant moms). In order to help teams host a virtual shower, here are some resources that can help you get started:
+A nice way to celebrate a team member's new addition to their family is by hosting a virtual baby/growing your family shower. In colocated companies, this is something that teams often do to wish a team member well as they head out on parental or adoption leave. We encourage virtual showers to be considered for all team members (not just birthing parents). In order to help teams host a virtual shower, here are some resources that can help you get started:
 1. Ask the team member if they would be comfortable with a virtual shower. In a remote environment, surprising the parent-to-be is less effective as they need to be an active participant in the process.
 1. If the team member is comfortable and open to an event, ask them who they would like to include in the celebration and if they have any gift registries that other team members can buy gifts from so they are purchasing items that the baby will need. The purchase of gifts should always be optional.
 1. Send out an invite in advance of the event so attendees can plan to be available for that date and time.
 1. Create an agenda for the event. Be mindful to create an inclusive and welcoming atmosphere. Consider running potential games by the celebrated team member to ensure comfortability. See a sample agenda below:
 * Kick off the meeting by thanking everyone for coming, review the agenda and how games and prizes will be work.  
 * Start meeting off with opening ice breaker: An option is a Baby MadLibs game.
-* Game 1 - Measure the belly. If the soon-to-be parent is an expecting mom, you can play this game. It requires a roll of toilet paper. Participants guess how many sheets of toilet paper it will take to wrap around the expecting mom's belly. The closest guess gets a prize.
+* Game 1 - Measure the belly. If the soon-to-be parent is a birthing parent, you can play this game. It requires a roll of toilet paper. Participants guess how many sheets of toilet paper it will take to wrap around the birthing parent's belly. The closest guess gets a prize.
 * Open presents - Have the soon-to-be parent save the presents shipped to them to be opened during the celebration.
 * Game 2 - Songs with the word "Baby." Have participants write as many songs as they can think of that have the word "baby" in them. Whoever thinks of the most songs within three minutes, wins a prize.  
 * Close the event with an open forum for people to ask fun questions and send positive affirmations.

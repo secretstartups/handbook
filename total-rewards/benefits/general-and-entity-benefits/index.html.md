@@ -32,7 +32,7 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 - [Gitlab France S.A.S.](/handbook/total-rewards/benefits/general-and-entity-benefits/france-sas)
 - [GitLab Singapore Pte Ltd](/handbook/total-rewards/benefits/general-and-entity-benefits/singapore-pte-ltd)
 - [Remote Technology (South Africa, Mexico, Hungary and Austria)](/handbook/total-rewards/benefits/general-and-entity-benefits/remote-com)
-- [Safeguard (Spain, Italy, France, Brazil and Switzerland)](/handbook/total-rewards/benefits/general-and-entity-benefits/safeguard/)
+- [Safeguard (Spain, Italy, Brazil and Switzerland)](/handbook/total-rewards/benefits/general-and-entity-benefits/safeguard/)
 
 ### Benefits Available to Contractors
 
@@ -45,9 +45,9 @@ Our contractor agreements and employment contracts are all on the [Contracts](/h
 
 GitLab will [pay for the items you need to get your job done](/handbook/spending-company-money).
 
-## Stock Options
+## Equity Compensation
 
-[Stock options](/handbook/stock-options/) are offered to most GitLab team members. We strongly believe in team member ownership in our Company. We are in business to create value for our shareholders and we want our team members to benefit from that shared success.
+[Equity Compensation](/handbook/stock-options/) is offered to most GitLab team members. We strongly believe in team member ownership in our Company. We are in business to create value for our shareholders and we want our team members to benefit from that shared success.
 
 ## Life Insurance
 
@@ -55,8 +55,12 @@ In the unfortunate event that a GitLab team member passes away, GitLab will prov
 * This benefit is not applicable if there is a separate life insurance policy as part of the [Entity Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) package.
 * For all other GitLab team members, the following conditions apply:
   * The team member must be either an employee or direct contractor.
-  * The team member must have indicated in writing to whom the money should be transferred. To do this you must complete the [Expression of wishes](https://docs.google.com/document/d/1bBX6Mn5JhYuQpCXgM4mkx1BbTit59l0hD2WQiY7Or9E/edit?usp=sharing) form. To do this, first copy the template to your Google Drive (File -> Make a copy), enter your information, sign electronically. To sign the document, use a free document signing program like [smallpdf](https://smallpdf.com/sign-pdf); or you can print it, sign and digitize. Sign, save as a pdf and upload to your Employee Uploads folder in BambooHR.
+  * The team member must have indicated in writing to whom the money should be transferred. To do this you must complete the [Expression of wishes](https://docs.google.com/document/d/19p4IN-msvs4H10teBessfPx-1wu8J7Vs67Es8iVLlL8/edit?usp=sharing) form. To do this, first copy the template to your Google Drive (File -> Make a copy), enter your information, sign electronically. To sign the document, use a free document signing program like [smallpdf](https://smallpdf.com/sign-pdf); or you can print it, sign and digitize. Sign, save as a pdf and upload to your Employee Uploads folder in BambooHR.
   * For part-time GitLab team members, the lump sum is calculated pro-rata, so for example for a team member that works for GitLab 50% of the time, the lump sum would be [$10,000](/handbook/total-rewards/compensation/#exchange-rates).
+
+## Financial Wellness 
+
+GitLab offers resources related to [Financial Wellness](/handbook/total-rewards/benefits/general-and-entity-benefits/financial-wellness/) to support team members in their financial journey. 
 
 ## Paid Time Off
 

@@ -28,6 +28,24 @@ Annual Mandatory Indexation:  Each year Belgian’s Joint Industrial Committee 2
 
 Each year all employees will be sent ecocheques no later than July 31. In accordance with the local law these are provided by GitLab at no cost to the individuals. These are currently sent by GitLab's payroll provider in electronic form via a [Sodexo](http://be.benefits-rewards.sodexo.com/) card. A pin for this card will be sent separately. The maximum value is 250 Euros, the amount that will be granted is pro-rated depending on the employee's start date. The reference period is from July 1 of the previous year to June 30 of the year of payment. These ecocheques must be used to purchase ecological products and services; you can always find a current list of what is available on the [National Labor Council](http://www.cnt-nar.be/CAO-ORIG/cao-098-quinquies-(23-05-2017).pdf) website. These ecocheques are exempt from social security contributions and may not be awarded for replacement or conversion of salary.
 
+## Belgium Holiday Schedule
+ 
+Pursuant to article 13 of the law on paid public holidays, employers are obliged to inform employees of observance holidays granted in lieu of public holidays which fall on a Sunday or another day of inactivity. Below is the 2022 Holiday and Observance schedule for Team Members in Belgium:
+ 
+| Date                     | Holiday | Replacement Day |
+|--------------------------|:---:|:----:|
+| Saturday January 1st         | New Year's Day  | Friday, December 31st, 2021 |
+| Monday April 18th     | Easter Monday  |  |
+| Sunday May 1st | Labour Day  | Monday May 2nd |        
+| Thursday May 26th   | Ascension Day  |  |
+| Monday June 6th        | Whit Monday   |  |
+| Thursday July 21st     | National Holiday  |  |
+| Monday August 15th | Assumption Day  |  |
+| Tuesday November 1st  | All Saints Day   | |        
+| Friday November 11th    | Armistice  |  |
+| Sunday December 25th     | Christmas  | Monday December 26th |
+
+
 ## GitLab B.V. Belgium Leave Policy
 
 * Sick Leave
@@ -64,3 +82,6 @@ Each year all employees will be sent ecocheques no later than July 31. In accord
 ***Note: GitLab has a global [`no ask time off policy`](/handbook/paid-time-off/#paid-time-off), which is the guideline for all GitLab employees globally. We highlight statutory requirements for some countries as well to ensure local compliance, but stress that our Paid Time Off policy is applicable for all GitLab team members globally irrespective of local policy.*** 
 
 People Ops will consult with Vistra to ensure that the statute is met.
+
+
+

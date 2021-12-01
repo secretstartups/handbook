@@ -70,7 +70,7 @@ The platform is currently available in English and Spanish. If English or Spanis
   * After your download is complete, select “Join Now” from the welcome page of the mobile app.  
   * Use the first and last name you have on file with GitLab.
   * Verify using your company email.
-  * Enter the your GitLab email and password of your choice. (Reminder that you must register with your GitLab email, but you can change your Modern Health account email to your personal email in Settings upon registration.)
+  * Enter your GitLab email and the password of your choice. (Reminder that you must register with your GitLab email, but you can change your Modern Health account email to your personal email in Settings upon registration.)
   * Select “Register” on the web or “Agree & Join” on the mobile app to complete registration.
 
 If you have trouble registering for Modern Health, please don’t hesitate to reach out to `help@joinmodernhealth.com` with a note or screenshot. Their customer support team will verify the information against what they have on file to provide you the best instructions on how to successfully access Modern Health.
