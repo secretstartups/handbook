@@ -102,14 +102,14 @@ Per the [Family Care Leave Act and the Care Leave Act](https://www.bundesgesundh
 - Team members who care for a close relative in need of care in a home environment are entitled to family care leave, i.e. to a partial leave of absence for one continuous period of up to 24 months with a minimum of 15 working hours per week;
 - If the relative is underage, there is an entitlement to leave even if care takes place outside the home environment. 
 
-This leave runs concurrently with GitLab PTO. When partial paid leave is claimed, GitLab will supplement the team member's benefit so that they receive 100% of their pay for the first 25 days of leave. Please communicate with [Total Rewards](mailto: total-rewards@gitlab.com) to ensure your eligibility and awareness of your proposed leave. 
+This leave runs concurrently with GitLab PTO. When partial paid leave is claimed, GitLab will supplement the team member's benefit so that they receive 100% of their pay for the first 25 days of leave. Please communicate with [Total Rewards](mailto:total-rewards@gitlab.com) to ensure your eligibility and awareness of your proposed leave. 
 
 ## Sick Leave
 
 #### Statutory Sick Leave
 
 - Team members are entitled to 100% of their salary to be paid by GitLab for the first six weeks if they are unable to work due to an illness. This runs concurrently with GitLab PTO. Team members should select `Out Sick` in PTO by Roots to initiate leave. Team members must also upload a medical certificate by the third day of absence to BambooHR > Documents > Employee Uploads folder. Alternatively, please email the medical certificate to the Team Member Relations Specialist team via `teammemberrelations @gitlab.com` and will file this to BambooHR accordingly.
-- If the team member is sick for more than six weeks, they can apply for "Krankengeld" from their health insurer. The benefit amount will be less that the team member's salary.
+- If the team member is sick for more than six weeks, they can apply for "Krankengeld" from their health insurer. The benefit amount will be less than the team member's salary.
 
 #### During COVID-19
 
