@@ -130,7 +130,7 @@ To view the full job description, view our handbook (insert job family url). The
 Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
     - `Job Name` - if only internal candidates will be considered for the role, job title should read "CURRENT TEAM MEMBERS ONLY - Job Name"
     - `Post To` should always be `Internal`.
-    - `Location` always keep `Remote` listed in addition to any location requirement.
+    - `Location` is automatically set to `Remote`. If there is additional location information you'd like to add that should be included in the Job Name.
     - `Application Language` should always be `English`.
     - `Description` should be the copy/pasted from the job family on GitLab.com with the relevant information for the level/specialty/etc.
     - Be sure to add the Compensation section as a header and hyperlink the `view our handbook` to the correct job family link:
@@ -232,23 +232,10 @@ Review how to make a referral: /handbook/hiring/referral-process/
 
 1. Review notifications and ensure they align to the preferences of you and the hiring team.
 
-### Publish the Job to the Careers Page & Review Greenhouse Configuration
-
-1. Once a job has been setup in Greenhouse and posted to the GitLab job board it will be automatically posted to the [Careers Page](/jobs/careers/).
+#### Ensuring interviews and interviewers are set up for success
 
 **The Candidate Experience Team will:**
 
-1. Review the configurations the Talent Acquisition Manager and Recruiter made and ensure everything is correct; reach out to them to ask clarifying questions if there is anything you don't understand or if there is anything missing.
-1. Ensure each stage is labeled correctly for reporting purposes:
-    - Get to Know Us
-    - Screening
-    - Assessment
-    - Hiring Manager Interview
-    - Team Interview
-    - Technical Interview
-    - Justification
-    - Background Check & References
-    - Offer
 1. Confirm each person in the hiring process has appropriate access and upgrade if necessary in [Greenhouse](/handbook/hiring/greenhouse/#access-levels-and-permissions).
 1. Confirm each interviewer has completed an [Interview Training Issue](https://gitlab.com/gitlab-com/people-ops/Training/issues/new).
 1. The CES may choose to send the following email to each member of the interview team:
@@ -258,11 +245,15 @@ Also, if this is your first time conducting interviews on behalf of GitLab I wi
 As always, If you have any questions let me know!
 Thanks, xxx
 
+### Publish the Job to the Careers Page & Review Greenhouse Configuration
+
+1. Once a job has been setup in Greenhouse and posted to the GitLab job board it will be automatically posted to the [Careers Page](/jobs/careers/).
+
 ### Publishing jobs to LinkedIn
 
 All jobs created in Greenhouse are setup to be automatically posted to LinkedIn using their job wrapping feature.
 
-If the job should only be advertised in a specific country (e.g. Japan, Germany), the LinkedIn Job Wrapping codes are not necessary. Simply list the job as location = "Remote, Country". 
+If the job should only be advertised in a specific country (e.g. Japan, Germany), the LinkedIn Job Wrapping codes are not necessary. Simply list the job as location = "Remote" and add the country to the Job Name. 
 
 - Do not select the option to `Publish to Free Job Boards` within Greenhouse as this information will override the location information. 
 
