@@ -247,7 +247,7 @@ Thanks, xxx
 
 ### Publish the Job to the Careers Page & Review Greenhouse Configuration
 
-1. Once a job has been setup in Greenhouse and posted to the GitLab job board it will be automatically posted to the [Careers Page](/jobs/careers/).
+Once a job has been setup in Greenhouse and posted to the GitLab public job board it will be automatically posted to the [Careers Page](/jobs/careers/).
 
 ### Publishing jobs to LinkedIn
 
@@ -266,6 +266,20 @@ If the job is regional (e.g. APAC, EMEA, LATAM), recruiters can make sure it is 
 - The default tag should be Remote-Global if no other locations were given by the recruiter
 - GitLab team members can review [job wrapping tags here](https://docs.google.com/spreadsheets/d/1CrrPGk3imxrap7Na3AQTQ0lmw2ENyZ51/edit?usp=sharing&ouid=100237668635376025864&rtpof=true&sd=true)
 - Click Ok
+
+### Taking ownership of your LinkedIn job posts as a GitLab recruiter
+
+With some recent changes to the way greenhouse connects with LinkedIn, we're now able to give each of our recruiters access to edit their job posts on LinkedIn as needed. If you need to change the country or countries that a particular job shows up in or correct something about the listing you can do that by following these steps:
+
+1. Each recruiter has a custom job wrapping tag assigned to them. This is typically a hashtag consisting of #LI- followed by FirstNameInitial, then LastNameIntial, and a number. You can look up your hashtag by logging into LinkedIn Recruiter and [following these instructions](https://www.linkedin.com/help/recruiter/answer/a412402).
+    1. Each GitLab recruiter has 50 job slots assigned to them in LinkedIn. Jobs will randomly be assigned to those job slots until all 50 slots are utilized by tagged jobs.
+1. Once you've identified your job tagging hashtag you simply add this to the bottom of the job setup in greenhouse.
+1. With the custom recruiter hashtag added to the bottom of the job setup in greenhouse, these roles will then be assigned to correct recruiter on LinkedIn.
+1. You can then view all of your published roles and make changes on LinkedIn by visiting the [All Jobs page](https://www.linkedin.com/talent/jobs/jobs-list?jobStatuses=%5B%22LISTED%22%5D). Please note you must have an active LinkedIn Recruiter license with GitLab to access that page.
+1. To make changes to your jobs on LinkedIn, you can click the "edit job" button.
+
+If you run into problems, you can reach out to the #talent-brand channel for support.
+
 
 ### Publishing jobs to Indeed and Glassdoor
 
