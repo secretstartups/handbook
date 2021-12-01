@@ -390,6 +390,15 @@ When customers are putting negative emotions into ticket communications, refer t
 [how to keep a ticket moving toward resolution when emotions are getting involved](./emotionally-charged-tickets.html)
 for helpful tips and guidance. 
 
+### A customer has provided feedback in the ticket instead of submitting it via the customer feedback form
+
+A customer always has the option to submit feedback on how their support experience is going via the [customer feedback form](https://gitlab-com.gitlab.io/support/customer-feedback/).
+The link to this form is included in the signature of all outgoing replies from Support Engineers in Zendesk.
+
+Sometimes a customer may provide feedback via the ticket directly. To ensure this feedback is captured, you can create an issue in the [Customer Feedback](https://gitlab.com/gitlab-com/support/feedback/-/issues/new) project using the `Indirect Feedback` template and copy the feedback into the issue. The [SSAT Reviewing Manager](https://gitlab.pagerduty.com/schedules#P9UIIDY) should be assigned to the issue and they will review the feedback and take the appropriate action.
+
+In the meantime, you should continue to assist the customer with their queries and address their feedback if appropriate. If you are unsure on how to proceed, do ask for help in the [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) Slack channel.
+
 ### Handling Free User tickets
 
 Free users receive support in a few specified cases following the [free users section of the statement of support.](/support/statement-of-support.html#free-users). See the [Handling Free User tickets section of the triaging workflow](/handbook/support/workflows/ticket_triage.html#handling-free-user-tickets) for more details on how to triage these tickets.
