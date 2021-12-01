@@ -358,6 +358,8 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 - In addition to the corresponding Technical Account Manager level requirements:
 - TS/SCI Security Clearance if applicable
 - Knowledge of and demonstrated progressive experience with Public Sector customers
+- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies. 
+
 
 
 
