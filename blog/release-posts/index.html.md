@@ -1344,7 +1344,7 @@ extras:
 ```
 ### Deprecations, removals and breaking changes
 
-Below you'll find info on how to announce deprecations and removals in the release post and documentation. Please also review GitLab's overall deprecation and removal definition and policies [here](https://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features) before announcing any deprecations or removals. 
+Below you'll find info on how to announce deprecations and removals in [GitLab Docs](https://docs.gitlab.com/ee/update/deprecations). As of 14.5, deprecations are announced and maintained in Docs and linked  to from the release post. Please review GitLab's overall deprecation and removal definition and policies [here](https://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features) before announcing any deprecations or removals. 
 
 #### Deprecations
 
@@ -1361,9 +1361,9 @@ _To be added by Product Managers or Engineering Managers and merged in by Techni
 </figure>
 
 
-A deprecation needs to have an initial announcement in the release post notifying the community **at least two releases in advance** of the date of planned removal. Deprecations should also be included in the [documentation](https://docs.gitlab.com/ee/update/deprecations.html) for at least 2 releases prior to the final removal.
+A deprecation needs to have an initial announcement in [GitLab Docs](https://docs.gitlab.com/ee/update/deprecations) notifying the community **at least two releases in advance** of the date of planned removal. It is recommended to announce deprecations, especially if it's a breaking change, as soon as the planned milestone is known. 
 
-[Deprecation entry MRs](#creating-a-deprecation-entry), need to be drafted and under review by the 10th of the month and merged by the 17th of the month (just like all other content block MRs), so that self-managed customers receive notice in a timely fashion. There is no requirement to wait until the 10th to create the MR, or merge on the 17th. Deprecations can be added to the documentation, reviewed and merged as soon as they are confirmed.
+[Deprecation entry MRs](#creating-a-deprecation-entry), need to be drafted and under review by the 10th of the month and merged by the 17th of the month (just like all other content block MRs), so that self-managed customers receive notice in a timely fashion. There is no requirement to wait until the 10th to create the MR, or merge on the 17th. Deprecations can be added to the documentation, reviewed and merged as soon as they are confirmed. 
 
 Please be sure to review and understand the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
 
@@ -1380,6 +1380,7 @@ To create a deprecation notice:
    - `body` should contain a brief description of the feature or functionality being removed. It is recommended that you link to the documentation. The description of the deprecation should state what actions the user should take to rectify the behavior.
 1. Open a new merge request for the change, and select the [**Deprecation** MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md) for the description. Assign reviewers as recommended in the template.
 1. When the deprecation YAML file and MR are ready (no later than the 15th), assign the MR to the [technical writer assigned to the stage](/handbook/engineering/ux/technical-writing/#designated-technical-writers). The TW Reviewer will review the content, update the [deprecations doc](https://docs.gitlab.com/ee/update/deprecations.html), and merge the MR by the 17th.
+1. Be sure to add the label `breaking change` if appropriate, as this will be leveraged to pull/highlight breaking changes as part of the major release in GitLab Docs and other documentation.
 
 If you have multiple deprecation notices for your category, then you should create one `.yml` file and one MR per deprecation. No other changes are required and the `features.yml` file should not be edited until the feature is removed from the product. There are sometimes cases in which it makes sense to bundle  multiple `.yml` files into one deprecation MR, such as if it's a group of dependent deprecations that will happen on the same date as "all or none." However, before bundling deprecations into one MR, you should reach out and first discuss with the Release Post Manager to confirm. 
 
