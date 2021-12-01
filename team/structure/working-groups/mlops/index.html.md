@@ -61,8 +61,10 @@ Read more about the topic area from the links below:
 ### Related GitLab projects
 
   - [Spamcheck](https://gitlab.com/gitlab-org/spamcheck)
+    - [Architecture Diagram](https://gitlab.com/gitlab-org/spamcheck#architecture-diagram)
   - [Tanuki-Stan](https://gitlab.com/gitlab-org/ml-ops/tanuki-stan)
   - [UnReview](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/projects/unreview/)
+    - [Architecture Diagram](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/projects/unreview/#architecture)
 
 ### Related ML Slack channels
  - #g_applied_ml
@@ -70,7 +72,7 @@ Read more about the topic area from the links below:
  - #feed_tanuki-stan
  - #security-ml
 
-## Exit Criteria 
+## Exit Criteria
 
 The charter of this working group is to bridge the gap between different teams that are building ML products at GitLab by discussing overlapping architectural concerns:
 
