@@ -463,30 +463,38 @@ During the last week of the month, the PEA in the assigned rotation will create 
 ### Anniversary Period Gift Process
 
 People Experience Team process:
-- Create the Anniversary Gift reports in BambooHR. You will create three serperate reports for 1, 3, and 5 year anniversaries. 
-    This report should be formated: First Name, Prefered Name, Last Name, Hire Date, and Work Email
-- Copy and Paste the reports into Google Sheets, and create three seprate tabs. These tabs will be named 1, 3, and 5 year anniversary. 
-    Make sure to put 1 year anniversary in the 1 year  tab, and so on.  
+- Create the Anniversary Gift reports in BambooHR. You will create three separate reports for 1, 3, and 5 year anniversaries. 
+   * This report should be formated: First Name, Prefered Name, Last Name, Hire Date, and Work Email
+   * Set filters to only capture the anniversaries for the month you are working on
+- Download the .csv version of the BambooHR reports then Copy and Paste the reports into Google Sheets, and create three seprate tabs. These tabs will be named 1, 3, and 5 year anniversary. 
+   * Make sure to put 1 year anniversary in the 1 year  tab, and so on.  
+   * Save this to the People Experience Team Google Drive `Anniversary Gifts 2020` folder
 - Log into [Printfection](https://app.printfection.com/account/secure_login.php)
-- Click on `Campaigns` and select `Congrats on your (blank) anniversary`. There are 3 options, 1st, 3rd, 5th.  
-- Select `Giveaways` and scroll to `Campaign summaries` section
+- Click on `Campaigns` > `Giveaways` > scroll to `Campaign summaries` section. Then `Congrats on your (blank) anniversary`. There are 3 options, 1st, 3rd, 5th.  
+   * There are currently two 5th year options in Printfection - be sure to select the one that already has Shipped items in it
+   * Helpful Tip: Star and bell the relevant campaigns applicable to our team for further ease to search for. 
 - Click on the relevant campaign and then select the `Manage` tab
 - Select the `Generate More Links` green button - Ensure you are in the correct Campaign - (1st, 3rd or 5th Year)
 - Enter the number of links you would like to generate and click `Add links`
-- Download the CSV of the links generated
-
-- Import the CSV to the People Experience Team Google Drive `Anniversary Gifts 2020` folder
-- Name the CSV to the applicable month that you are generating for
-- Pull a report from BambooHR for all team members that only shows anniversary dates for the current month, utilizing filters within the BambooHR. 
-- Add the list of names to the generated links sheet
-- Select Add-Ons in the sheet > select Document Studio from the dropdown > open
+- Download the CSV of the links generated then copy & paste them into the google sheet you have created with the 1, 3, and 5 year tabs. 
+- Once all of the year (1, 3 and 5) tabs have the `Code` & `URL` columns from Printfection - we can move on to creating the Mail Merge.
+- Select `Extensions` in the sheet > select `Document Studio` from the dropdown > `Open`
+   * **Important Note**: You will need to Upgrade to Premium to complete this. Please buy and expense through expensify.
 - Select `Mail Merge with Gmail` and use the visual editor option to see the current text 
 - Edit the relevant text applicable to the specific gift option and ensure that the fields are all correct
-- Ensure to mark the ones that are not applicable to the email with an X in the Document Studio columns
-- Once ready, click on `Ready to Merge` > Send emails now > Save 
-- That's it! All team members will now be able to claim their anniversary swag
+   * Send Email To: `Work Email`
+   * Sender's Full Name: `People Experience Team`
+   * Email Subject: `Congrats on your Anniversary with GitLab!`
+   * Reply-to Address: `people-exp@gitlab.com`
+   * Email Message Body: Copy and paste appropriate template from this [folder](https://drive.google.com/drive/folders/16SiX4hWmPWsU7mFEufRcAYJkzSlB0ZzU)
+   * Uncheck `Include the Merged Document as an Email Attachment`
+   * Send from: `people-exp@gitlab.com`
+- Hit `Save`
+- Once ready, click on `Finish and Merge` > check Send emails now > uncheck `Merge Every Hour` > Save 
+- Repeat the above 3 steps with each tab on the Google Sheet ensuring the message body is using the correct template.
 
-Tip for Printfection Site: Star and bell the relevant campaigns applicable to our team for further ease to search for. 
+That's it! All team members will now be able to claim their anniversary swag.
+
 
 ### Printfection Report for New Hire Swag
 
