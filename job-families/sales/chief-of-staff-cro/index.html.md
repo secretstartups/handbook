@@ -70,7 +70,7 @@ The responsibilities include both directed work that will mostly be triggered by
 * Structured about how to prioritize work and time.  
 
 
-#### {add Level} Job Grade
+#### Job Grade
 
 The Chief of Staff to the CRO is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
