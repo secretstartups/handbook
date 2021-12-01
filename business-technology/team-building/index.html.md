@@ -15,9 +15,9 @@ title: Business Technology Team Building
 
 ## CXO Speaker Series
 
-Frequency: Quarterly
+_**Frequency:**_ Quarterly
 
-Attendees: Business Technology plus other departments depending on topic
+_**Attendees:**_ Business Technology plus other departments depending on topic
 
 - [Unfiltered Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ)
     - **Ella Dillon, VP of Customer Success, Outreach** - [2021-09-29. **Topic:**  Sharing what Customer Success means - tying it to Business Technology/IT and the impact to overall journey / customer value realization.](https://www.youtube.com/watch?v=dmOhn7q6738&list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ&index=6)
@@ -28,9 +28,9 @@ Attendees: Business Technology plus other departments depending on topic
     
 ## Handbook Jamboree
 
-Frequency: Quarterly 
+_**Frequency:**_ Quarterly 
 
-Attendees: Business Technology
+_**Attendees:**_ Business Technology
 
 As part of a team who partners with and supports all other departments in a growing start-up, it can become easy for all of us to focus on the priorities and needs that arise every day, month or quarter, leaving documentation and our handbook first approach as a second priority.
 
@@ -38,32 +38,32 @@ We want to make sure that as a team we are not only constantly adding new workfl
 
 ## Hackathon
 
-Frequency: Anually
+_**Frequency:**_ Anually
 
-Attendees: Business Technology
+_**Attendees:**_ Business Technology
 
 A hackathon is a design sprint-like event; in which team members can collaborate intensively on projects. Hackathons create a structure and process around idea development. Hackathons should lead to concrete ideas for new processes that can improve the team member experience and company growth.
 
 ## Vendor Day
 
-Frequency: Anually
+_**Frequency:**_ Anually
 
-Attendees: Business Technology plus other departments depending on vendor
+_**Attendees:**_ Business Technology plus other departments depending on vendor
 
 ## Book Club
 
-Frequency: Not defined
+_**Frequency: Not defined
 
-Attendees: Business Technology
+_**Attendees: Business Technology
 
 Book Club: [Truth from the Valley: A Practical Primer on Future IT Management Trends](https://gitlab.com/gitlab-com/book-clubs/-/issues/12)
 
 
 ## Technology Days
 
-Frequency: Monthly
+_**Frequency:**_ Monthly
 
-Attendees: Business Technology
+_**Attendees:**_ Business Technology
 
 Let's discover new technologies through conversation, collaboration, demonstration, and instruction based on professional experiences and current projects being worked on within our department. As a participant you will have an inside track on thought-leadership, trends, and practical experience. During our cross-team social and technical sessions running once a month, we will get to understand the challenges other teams experience and collaborate on solving them.
 
@@ -80,9 +80,9 @@ Nest.js Framework.
 
 ## Social Calls
 
-Frequency: Quarterly
+_**Frequency:**_ Quarterly
 
-Attendees: Business Technology
+_**Attendees:**_ Business Technology
 
 During the social hours we play one of the following games:
 
