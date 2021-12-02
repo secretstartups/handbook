@@ -48,7 +48,7 @@ licensing, as well as all of our internal workflows (like lead generation for Sa
 - [#s_fulfillment](https://gitlab.slack.com/app_redirect?channel=CMJ8JR0RH)
 - [#s_fulfillment_engineering](https://gitlab.slack.com/app_redirect?channel=C029YFPUA6M)
 - [#enterprise-apps](https://gitlab.slack.com/app_redirect?channel=CCPG8P3K4)
-- [#bt-integrations-architecture](https://gitlab.slack.com/app_redirect?channel=C02G66BFWJ2)
+- [#bt-integrations](https://gitlab.slack.com/app_redirect?channel=C015U7R5XJ8)
 
 ### Prior Art
 
