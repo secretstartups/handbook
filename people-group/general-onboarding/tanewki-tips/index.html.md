@@ -57,7 +57,7 @@ After you sign your offer and complete your background check and references, you
 1. [TaNEWki Tips](https://about.gitlab.com/handbook/people-group/general-onboarding/tanewki-tips/) - This page is here to help walk you through what you can expect before and during your first few weeks as a new team member.
 1. [Select and Speak - Text to Speech](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en)
 1. [Read Aloud: A Text to Speech Voice Reader](https://chrome.google.com/webstore/detail/select-and-speak-text-to/gfjopfpjmkcfgjpogepmdjmcnihfpokn?hl=en)
-1. [Spectacle App for Mac](https://www.spectacleapp.com/) - Move and resize windows with ease
+1. [Rectangle App](https://rectangleapp.com/) - Move and resize windows with ease
 1. [OneTab](https://www.one-tab.com/) - Tab organizer for Chrome, Firefox, Edge, or Safari
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Equipment and Expenses
