@@ -69,5 +69,12 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 
 [Engineering director shadow program](https://about.gitlab.com/handbook/engineering/readmes/wayne-haber/development-director-shadow-experiment.html)
 
+### Currently hiring
 
-
+* [Backend engineer - applied ML](https://calendly.com/whabergitlab/30min?back=1&month=2021-12)
+* [Fullstack engineer - growth](https://boards.greenhouse.io/gitlab/jobs/5156630002)
+* [Senior backend engineer - applied ML](https://boards.greenhouse.io/gitlab/jobs/5429916002)
+* [Senior fullstack engineer - applied ML and antiabuse](https://boards.greenhouse.io/gitlab/jobs/5630264002)
+* [Senior backend engineer growth experimentation](https://boards.greenhouse.io/gitlab/jobs/5608684002)
+* [Senior backend enginer - product intelligence](https://boards.greenhouse.io/gitlab/jobs/5642816002)
+* [Backend engineer - fulfillment](https://boards.greenhouse.io/gitlab/jobs/5434651002)
