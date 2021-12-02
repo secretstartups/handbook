@@ -63,7 +63,7 @@ If you are in a role that requires you to work on Family and Friends Day, you ca
 We encourage you to take off the next working day. If this day isn't an option, work with your manager to find another day that works for you and your team.
 
 ### How is this any different than our vacation policy?
-Nothing about our [Paid Time Off](/handbook/paid-time-off/){:data-ga-name="PTO"}{:data-ga-location="body"} policy is changing. We wanted to designate a specific day in order to more proactively force a pause for team members. If most of the company isn't working, there is less pressure for you to do so.
+Nothing about our [Paid Time Off](/handbook/paid-time-off/){:data-ga-name="Paid Time Off"}{:data-ga-location="body"} policy is changing. We wanted to designate a specific day in order to more proactively force a pause for team members. If most of the company isn't working, there is less pressure for you to do so.
 
 ### What about client or prospect meetings that conflict?
 If you feel that this meeting can be rescheduled without any setbacks to the business, please go ahead and do so. If you have a meeting that would be hard to reschedule or would jeopardize the business results, please work with your manager to find another day that would work for both you and your team.
