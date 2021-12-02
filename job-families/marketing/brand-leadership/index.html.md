@@ -47,19 +47,28 @@ The Sr. Director, Brand is a [grade 11](/handbook/total-rewards/compensation/com
 
 #### Sr. Director, Brand Responsibilities
 
-* Extends that of the Director, Brand responsibilities
-* Provide vision for a team of creatives that are inspired to take GitLab to the next level
-* Set the GitLab brand vision and work to execute the strategy across various mediums
+* Extends that of the Director, Brand responsibilities.
+* Provides vision for the Brand Design, Brand Campaigns and Corporate events teams and inspires them to take GitLab to the next level.
+* Works closely with GitLab leadership to set the GitLab brand vision and execute the strategy across various mediums.
+* Bundles up overall brand direction and communicates it clearly and effectively across the company and organization.
+* Uses qualitative and quantitative data to help drive and support overall brand decisions, as well as measure brand campaign effectiveness. 
 
 #### Sr. Director, Brand Requirements
 
 * Extends that of the Director, Brand requirements
+* Has a global mindset and understanding about how the brand message should change in different regions.
+* Ability to work with leadership to drive conversations around GitLab's brand direction and category leadership.
+* Proven abaility to drive successful global brand campaigns.
+* Demonstrated experience designing and executing integrated brand campaigns across multiple media forms with measurable impact on business results.
+
+
 
 ## Performance Indicators
 
 * Sets brand goals and objectives for the organization. 
 * Increases overall brand awareness through various channels and campaigns. 
 * Builds and recruits a world-class brand team.
+* Increase aided and unaided brand awareness.
 
 ## Career Ladder
 
