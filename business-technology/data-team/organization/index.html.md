@@ -30,17 +30,17 @@ Data Fusion Teams are composed of team members from across the business and the 
 ```mermaid
 classDiagram
    GTM <|-- Platform
-        GTM : + Business Partner
+        GTM : + Business Partner Data Champion
         GTM : + Function Analyst
         GTM : + Data Analyst
         GTM : + Analytics Engineer
     R_and_D <|-- Platform
-        R_and_D : + Business Partner
+        R_and_D : + Business Partner Data Champion
         R_and_D : + Function Analyst
         R_and_D : + Data Analyst
         R_and_D : + Analytics Engineer
     G_and_A <|-- Platform
-        G_and_A : + Business Partner
+        G_and_A : + Business Partner Data Champion
         G_and_A : + Function Analyst
         G_and_A : + Data Analyst
         G_and_A : + Analytics Engineer
@@ -79,18 +79,18 @@ We encourage our stakeholders to follow along with our issue boards to understan
 3. G&A: [People](https://gitlab.com/groups/gitlab-data/-/boards/1435002?&label_name[]=People), Engineering Analytics `coming soon`
 4. [Platform](https://gitlab.com/gitlab-data/analytics/-/issues?label_name%5B%5D=Team%3A%3AData+Platform)
 
+# Data & Analytics Programs
 
-### Data & Analytics Demos
+## Data & Analytics Demos
 
 Data & Analytics Demos are a great way for everyone involved in the Data Program to share progress, innovation, collaborate, and just have fun. Data & Analytics Demos are [held every Thursday](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTA5MTZUMTUwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL) and recordings are posted to the [GitLab Unfildered Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). 
 
 # Data Program Recruiting
 
-Video
-
-We've put together a short [GitLab Data Recruiting](https://youtu.be/4DlwsBIPxUw) video to say "Hi" and give you some insight into how we work and what we work on. Enjoy!
-
-
+Recruiting great people is critical to our success and we've invested much effort into making the process efficient. Here are some reference materials we use:
+- a [GitLab Data Recruiting](https://youtu.be/4DlwsBIPxUw) video to say "Hi" and give you some insight into how we work and what we work on. Enjoy!
+- [Data Roles and Career Development](https://about.gitlab.com/handbook/business-technology/data-team/organization/#data-roles-and-career-development) to help existing team members and prospects understand growth opportunities
+- a [Take Home Test](https://about.gitlab.com/handbook/business-technology/data-team/organization/#data-roles-and-career-development) that we ask each candidate to complete; this test is good for the candidate and for us because it represents the type of work we perform regularly and if the candidate is not interested in this work it helps them make a more informed decision about their application
 
 # Data Roles and Career Development
 
