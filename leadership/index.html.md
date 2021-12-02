@@ -220,7 +220,7 @@ Watch the replay of our conversation with [Jeb Hurley, Co-founder and Managing P
 
 1. Managing trust, productivity, and wellbeing on remote teams
 1. Behavior, biochemistry, and dynamics of trust
-1. The value in measuring and reporting on impacts of building trust
+1. The value of measuring and reporting on impacts of building trust
 
 <!-- blank line -->
 <figure class="video_container">
