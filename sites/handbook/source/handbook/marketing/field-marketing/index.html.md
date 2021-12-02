@@ -1484,14 +1484,13 @@ The **Weekly Status Update** is configured to run at 9 AM local time on Monday, 
 
 1. _**What was your favorite part of the weekend?**_
 The goal with this question is for you to get to know your colleagues and for you to be able to share what excited you from the previous few days when you weren't working.
-1. _**What's happening in your life?**_
-Is there anything you'd like the team to know about what's going in your life? Feel free to share as much or as little as you feel comfortable sharing.
 1. <i>**Are you traveling anywhere this week? If so, where and why.**</i> <--- This question is paused for the moment. :)
 As Field Marketers, we travel up to 50% of the time. Sharing where you are is important, especially if are in a different timezone.
 1. _**What are your top 1-3 priorities for the next week?**_
 These top 3 priorities should be focused on what you plan to accomplish that week.
 1. _**Anything blocking your progress?**_
 Of those 1-3 items listed, do you need any roadblocks removed in order to accomplish the priorities?
+1. A question that is related to which [GitLab Value](/handbook/values/) we are focusing on for the month. 
 
 You will be notified via the Geekbot plug in on slack at 9 AM your local time on Mondays, as stated above. It is important to note, that unless you answer all questions in the Geekbot plug in, your answers will NOT be shared with your colleagues, so please be sure to complete all questions!
 
