@@ -40,7 +40,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 
 ## Pay Date
 
-1. GitLab Inc and GitLab Federal team members will get paid on the 15th and the last day of the month. The payroll schedule and payslips are available on [ADP portal](https://workforcenow.adp.com). To access pay statements, go to Myself -> Pay Statements.
+1. GitLab Inc and GitLab Federal team members will get paid on the 15th and the last day of the month. The payroll schedule and payslips are available on [ADP portal](https://workforcenow.adp.com). To access pay statements, go to Myself -> Pay Statements. If a GitLab Inc or GitLab Federal wishes to print their pay statement(s), they may expense the cost of printing the statements at an outside printing location such as FedEx, or they may expense $0.05 per page printed using a home printer.
 1. GitLab BV (Netherlands) team members will get their salary wired on the 25th of every month unless it falls on a holiday then it will be the business day before, and can see their payslip in their personal portal on
 [HR Savvy's system](https://hr-savvy.nmbrs.nl/) towards the end of the month.
 1. GitLab BV (Belgium) team members will get their salary wired on the 28th of each month unless it falls on a holiday then it will be the business day before and will receive their payslip in their personal portal on [myworkandme](https://www.myworkandme.com) once set up.
