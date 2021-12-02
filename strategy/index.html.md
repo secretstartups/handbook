@@ -25,12 +25,12 @@ To achieve this, we will endeavor to:
 ### 1) Accelerate market maturity around the DevOps Platform
 Ensure that when customers buy DevOps software the single application approach is the default.
 
-1. **Deliver products:** Have mature and enterprise ready products across a broad range of categories ([50%](/company/strategy/2023/){:data-ga-name="strategy 2023"}{:data-ga-location="body"} of our [categories](/handbook/product/categories/){:data-ga-name="categories"}{:data-ga-location="body"} are at [lovable maturity](/direction/maturity/){:data-ga-name="maturity"}{:data-ga-location="body"}).
+1. **Deliver products:** Have mature and enterprise ready products across a broad range of categories ([50%](/company/strategy/2023/){:data-ga-name="strategy 2023"}{:data-ga-location="body"} of our [categories](/handbook/product/categories/){:data-ga-name="categories"}{:data-ga-location="body"} are at [lovable maturity](/direction/maturity/){:data-ga-name="lovable maturity"}{:data-ga-location="body"}).
 1. **Drive product adoption:** Focus on usability for new customers and cross promoting stages to achieve 25m estimated [Combined Monthly Active Users](/handbook/product/performance-indicators/#estimated-combined-monthly-active-users){:data-ga-name="monthly active users"}{:data-ga-location="body"}.
-1. **Be a thought leader:** Be the trusted voice about the future of the DevOps. If you ask our potential customers what GitLab is, 70% should say a [DevOps Platform](/solutions/devops-platform/){:data-ga-name="devops platform"}{:data-ga-location="body"}. This is how the analysts define the category.  
+1. **Be a thought leader:** Be the trusted voice about the future of the DevOps. If you ask our potential customers what GitLab is, 70% should say a [DevOps Platform](/solutions/devops-platform/){:data-ga-name="70% devops platform"}{:data-ga-location="body"}. This is how the analysts define the category.  
 1. **Create a strong partner ecosystem:** Develop alliances, systems integrator and channel partners to service specific markets to drive [partner initiated opportunities](/handbook/sales/field-operations/channel-operations/#partner-initiated-opportunity---pio){:data-ga-name="partner initiated opportunities"}{:data-ga-location="body"} to contribute 30% of incremental ARR and 20% of new logos.
 
-More detail on our product strategy can be found on our [direction page](/direction/#vision){:data-ga-name="vision"}{:data-ga-location="body"}.
+More detail on our product strategy can be found on our [direction page](/direction/#vision){:data-ga-name="direction page"}{:data-ga-location="body"}.
 
 ### 2) Build on our Open Core strength
 
@@ -65,12 +65,12 @@ As we execute on our strategy, it is important to use our [financial targets](/h
 ## Principles
 
 1. Fast follower: we don't have to be first to market and we don't suffer from Not Invented Here (NIH)
-1. Values: make decisions based on [our values](/handbook/values/){:data-ga-name="values"}{:data-ga-location="body"}, even if it is inconvenient.
+1. Values: make decisions based on [our values](/handbook/values/){:data-ga-name="our values"}{:data-ga-location="body"}, even if it is inconvenient.
 1. Reach: go for a broad reach, no focus on business verticals or certain programming languages.
 1. Seed then nurture: [plant seeds and nurture the product to build out depth](#seed-then-nurture).
 1. Speed: ship every change in the next release to maximize responsiveness and learning.
 1. Life balance: we want people to stay with us for a long time, so it is important to [take time off](/handbook/paid-time-off/){:data-ga-name="take time off"}{:data-ga-location="body"} and work on life balance; being [all-remote](/company/culture/#all-remote-work){:data-ga-name="all remote"}{:data-ga-location="body"} is a large part of the solution.
-1. Open Source Stewardship: be a good [steward of GitLab](/company/stewardship/){:data-ga-name="stewardship"}{:data-ga-location="body"} and [collaborate with the wider community](/community/contribute/){:data-ga-name="contribute"}{:data-ga-location="body"} to [improve the product together](/handbook/engineering/development/performance-indicators/#mr-rate){:data-ga-name="improve the product"}{:data-ga-location="body"}.
+1. Open Source Stewardship: be a good [steward of GitLab](/company/stewardship/){:data-ga-name="steward of GitLab"}{:data-ga-location="body"} and [collaborate with the wider community](/community/contribute/){:data-ga-name="collaborate with wider community"}{:data-ga-location="body"} to [improve the product together](/handbook/engineering/development/performance-indicators/#mr-rate){:data-ga-name="improve the product"}{:data-ga-location="body"}.
 
 ### Seed then nurture
 
@@ -83,7 +83,7 @@ If we effectively seed and then nurture, we can fully activate GitLab's [two gro
 ## Assumptions
 
 1. [Open source user benefits](http://buytaert.net/acquia-retrospective-2015): significant advantages over proprietary software because of its faster innovation, higher quality, freedom from vendor lock-in, greater security, and lower total cost of ownership.
-2. [Open Source stewardship](/company/stewardship/){:data-ga-name="stewardship"}{:data-ga-location="body"}: the wider community comes first, we [play well with others](/handbook/product/gitlab-the-product/#plays-well-with-others){:data-ga-name="play well with others"}{:data-ga-location="body"} and share the pie with other organizations commercializing GitLab.
+2. [Open Source stewardship](/company/stewardship/){:data-ga-name="open source stewardship"}{:data-ga-location="body"}: the wider community comes first, we [play well with others](/handbook/product/gitlab-the-product/#plays-well-with-others){:data-ga-name="play well with others"}{:data-ga-location="body"} and share the pie with other organizations commercializing GitLab.
 3. [Innersourcing](/blog/2014/09/05/innersourcing-using-the-open-source-workflow-to-improve-collaboration-within-an-organization/){:data-ga-name="innersourcing"}{:data-ga-location="body"} is needed and companies will choose one solution top-down.
 4. Git will be the prevailing technology in the version control market in CY2020.
 5. A single application where [interdependence creates exceptional value](https://medium.com/@gerstenzang/developer-tools-why-it-s-hard-to-build-a-big-business-423436993f1c#.ie38a0cls) is superior to a collection of tools or a network of tools. Even so, good integrations are important for network effects and making it possible to integrate GitLab into an organization.
@@ -127,15 +127,15 @@ graph BT;
 
 ### Flywheel with two turbos
 
-GitLab is a [complete DevOps platform](/solutions/devops-platform/){:data-ga-name="devops platform"}{:data-ga-location="body"}, delivered as a [single application](/handbook/product/single-application/){:data-ga-name="single application"}{:data-ga-location="body"}, with [contributions from the wider community](/community/contribute/){:data-ga-name="contribute"}{:data-ga-location="body"}.
+GitLab is a [complete DevOps platform](/solutions/devops-platform/){:data-ga-name="complete devops platform"}{:data-ga-location="body"}, delivered as a [single application](/handbook/product/single-application/){:data-ga-name="single application"}{:data-ga-location="body"}, with [contributions from the wider community](/community/contribute/){:data-ga-name="contribute"}{:data-ga-location="body"}.
 
 Compared to other DevOps platforms, GitLab leverages one or two unique turbos that boost the company:
 
 1. [Advantages of a single application](/handbook/product/single-application/){:data-ga-name="single application"}{:data-ga-location="body"}, leading to more [Stages per Organization](/handbook/product/performance-indicators/#stages-per-organization-spo){:data-ga-name="stages per organization"}{:data-ga-location="body"}
-1. [Open Source stewardship](/company/stewardship/){:data-ga-name="stewardship"}{:data-ga-location="body"}, leading to [Wider community contributions](/community/contribute/){:data-ga-name="contribute"}{:data-ga-location="body"}
+1. [Open Source stewardship](/company/stewardship/){:data-ga-name="stewardship"}{:data-ga-location="body"}, leading to [Wider community contributions](/community/contribute/){:data-ga-name="Wider community contributions"}{:data-ga-location="body"}
 
 The advantage of a single application manifests itself if people start using more stages of the application.
-In the graph below this is visualized with [Stages per Organization (SpO), knowing that an organization using an extra stage triples conversion](/direction/#product-strategy){:data-ga-name="strategy"}{:data-ga-location="body"}.
+In the graph below this is visualized with [Stages per Organization (SpO), knowing that an organization using an extra stage triples conversion](/direction/#product-strategy){:data-ga-name="SpO"}{:data-ga-location="body"}.
 Increasing SpO drives both more seats and higher revenue per seat.
 
 In the development spend flywheel, we capture the relationship between merge requests (MRs), changes in ARR from one period to the next (Delta ARR), hyper growth R&D spend and the resulting impact on MRs. We see that more MRs increase stage maturity which drives more monthly active users and stages per user which in turn drives more seats and more revenue which funds R&D spend and leads to more MRs.
@@ -186,6 +186,6 @@ Our yearly plans are linked from the [relevant cadence section](/company/cadence
 
 ## Why is this page public?
 
-Our strategy is completely public because transparency is one of our [values](/handbook/values/){:data-ga-name="values"}{:data-ga-location="body"}.
+Our strategy is completely public because transparency is one of our [values](/handbook/values/){:data-ga-name="transparency values"}{:data-ga-location="body"}.
 We're not afraid of sharing our strategy because, as Peter Drucker said,
 "Strategy is a commodity, execution is an art."
