@@ -71,7 +71,7 @@ Team members who have the skills necessary to succeed in their current role but 
 - Team member exhibits undesirable behavior that impedes their success
 - Team member exhibits undesirable behavior that impedes the success of another Team member, Team or GitLab as a whole
 
-If a manager or any team member witnesses or is made aware of any team member behavior that violates our [Code of Conduct](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) they should immediately reach out to our [Team Member Relations Specialist](/handbook/people-group/#team-member-relations-specialist).
+If a manager or any team member witnesses or is made aware of any team member behavior that violates our [Code of Conduct](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) they should immediately reach out to our [Team Member Relations Specialist](/handbook/people-group/#team-member-relations-specialist).
 
 ## Warning Signs/Patterns of Underperformance
 
