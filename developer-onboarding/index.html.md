@@ -133,7 +133,7 @@ relevant developers as well:
 * [Rémy Coutable](https://rubygems.org/profiles/rymai)
 * [Robert Speicher](https://rubygems.org/profiles/rspeicher)
 * [Stan Hu](https://rubygems.org/profiles/stanhu)
-* [Yorick Peterse](https://rubygems.org/profiles/YorickPeterse)
+* [GitLab-QA](https://rubygems.org/profiles/gitlab-qa)
 
 #### New version release
 
