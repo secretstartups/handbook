@@ -22,6 +22,10 @@ This page will serve as a directory for our team members employed through a GitL
 
 ### Belgium
 
+**Workplace Regulations**
+* [GitLab BV (Belgium) Work Regulations - Dutch](https://docs.google.com/document/d/1CPh3DwRexBwtdS2t3Opz84a3THRNr90u/edit?usp=sharing&ouid=106298195226644329866&rtpof=true&sd=true)
+* [GitLab BV (Belgium) Work Regulations - French](https://docs.google.com/document/d/1O8UwiarIE3ctFWZPC0kMYrm-hCxl1Sy-/edit?usp=sharing&ouid=106298195226644329866&rtpof=true&sd=true)
+* [GitLab BV (Belgium) Work Regulations - English](https://docs.google.com/document/d/1K5fssyIGUmE2QBxfODu7rFx2H_d70wyE1UbAD9_Lg78/edit?usp=sharing)
 </details>
 
 <details>
