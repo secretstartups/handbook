@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "IT Compliance"
-description: "IT Compliance"
+title: "IT Security and Compliance"
+description: "IT Security and Compliance"
 ---
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -23,7 +23,7 @@ description: "IT Compliance"
   </div>
  </div>
 
-IT Compliance works collaboratively with multiple functional teams throughout the GitLab organization. We partner with our Security Compliance and Legal teams to identify and manage privacy, data protection risks, and compliance requirements to help meet stakeholder expectations. We also partner with Management, Business Teams, and our Data Team to implement solutions. 
+IT Security and Compliance works collaboratively with multiple functional teams throughout the GitLab organization. We partner with our Security and Legal teams to identify and manage privacy, data protection risks, and compliance requirements to help meet stakeholder expectations. We also partner with Management, Business Teams, and our Data Team to implement solutions. 
 
 Our work can be tracked in the [IT Compliance GitLab Group](https://gitlab.com/gitlab-com/business-technology/it-compliance). 
 
