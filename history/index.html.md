@@ -66,7 +66,7 @@ Haydn Mackay delivered a [wonderful keynote](https://www.youtube.com/watch?v=kDf
 
 ### _2020: The world's largest all-remote company_
 
-With over 1,200 team members in more than 65 countries, GitLab was the world's largest all-remote company prior to the COVID-19 pandemic. Every single team member is remote, with no central headquarters and no company-owned offices anywhere in the world. GitLab has experienced 50x growth in 4 years, reaching the $100M ARR (annual recurring revenue) mark in 2020. This milestone brings us one step closer toward our aspiration of reaching $1B in 4 years. GitLab is currently valued at $2.75 billion and has [raised $426M to date](/press/releases/2019-09-17-gitlab-raises-268m-to-expanding-leading-devops-platform.html).
+With over 1,200 team members in more than 65 countries, we believe we were the world's largest all-remote company prior to the COVID-19 pandemic. Every single team member is remote, with no central headquarters and no company-owned offices anywhere in the world. GitLab has [raised $426M to date](/press/releases/2019-09-17-gitlab-raises-268m-to-expanding-leading-devops-platform.html).
 
 ### _2021: 10 Years of GitLab_
 
