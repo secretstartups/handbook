@@ -52,7 +52,7 @@ All stages of the [DevOps lifecycle](/direction/#scope){:data-ga-name="scope"}{:
 If people ask us why a certain feature is paid we might reply with a [link to this section of the handbook](/stewardship#what-features-are-paid-only){:data-ga-name="paid only features"}{:data-ga-location="body"}. We do not mean to imply you don't need the feature. Feel free to [make the argument](../pricing/#changing-tiers-and-pricing-changes){:data-ga-name="make the argument"}{:data-ga-location="body"} for moving it to another tier, we're listening.
 
 If the wider community contributes a feature that is currently source-available we use the process linked in
-[Contributing an existing feature to open-source it](#contributing-an-existing-feature-to-open-source-it){:data-ga-name="contributing"}{:data-ga-location="body"}.
+[Contributing an existing feature to open-source it](#contributing-an-existing-feature-to-open-source-it){:data-ga-name="contributing an existing feature"}{:data-ga-location="body"}.
 
 ## Why Release Simultaneously In Both
 
@@ -148,7 +148,7 @@ We'll weigh all factors and you can judge our stewardship of the open source cod
 ## Contributing A Not-Yet-Existing Feature
 
 When someone contributes a _not yet existing_ feature on the [issue tracker](https://gitlab.com/gitlab-org/gitlab/issues){:data-ga-name="issue tracker"}{:data-ga-location="body"} that has a paid tier label,
-and it has met the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria){:data-ga-name="contribution acceptance criteria"}{:data-ga-location="body"},
+and it has met the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria){:data-ga-name="met the contribution acceptance criteria"}{:data-ga-location="body"},
 we will accept it under whatever license (open-source or source-available) they prefer, provided that GitLab Inc. has not already started working on the feature. (The contribution
 should not contain any _already existing_ source-available features in it.) We encourage contributors to @-mention the [relevant product manager](/handbook/product/categories/#devops-stages){:data-ga-name="relevant product manager"}{:data-ga-location="body"} earlier in the development process (in the issue or merge request) to ensure GitLab team-members are not already working on the feature in order to avoid conflicts.
 
