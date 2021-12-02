@@ -102,6 +102,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Version DB](https://version.gitlab.com/users/sign_in) | [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `version_db` | `version_db` | Product |  24 h / 48 h | No |
 | [Xactly](https://www.xactlycorp.com) | [Meltano](https://meltano.com/) | `tap_xactly` | N/A | Sales | 24h / N/A |  Yes |
 | [Zendesk](https://www.zendesk.com/) | [Stitch](https://www.stitchdata.com/) | `zendesk_stitch` | `zendesk` | Support | 6h / 24h |  No |
+| [ZenGRC](https://reciprocity.com/product/) | [Meltano](https://meltano.com/) | `tap_zengrc` | `zen_grc` | Security/Engineering | 24h / 72h | No |
 | [Zoom](https://zoom.us/) | [Meltano](https://meltano.com/) | `tap_zoom` | N/A | People | 24h / N/A |  No |
 | [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h | Yes |
 | [Zuora Central Sandbox](https://www.test.zuora.com/) | [Fivetran](https://fivetran.com/) | `zuora_central_sandbox_fivetran` | `zuora_central_sandbox` | Finance |  24h / 48h | Yes |
