@@ -62,7 +62,7 @@ If there is something important that requires two (or more) parts of our organiz
 
 The OKRs are what initiatives we are focusing on this quarter specifically.
 Our most important work are things that happen every quarter.
-Things that happen every quarter are measured with [Key Performance Indicators](/handbook/ceo/kpis){:data-ga-name="KPIs"}{:data-ga-location="body"}.
+Things that happen every quarter are measured with [Key Performance Indicators](/handbook/ceo/kpis){:data-ga-name="key performance indicators"}{:data-ga-location="body"}.
 Part of the OKRs will be or cause changes in KPIs.
 
 ### Pass-thru Key Results
@@ -243,7 +243,7 @@ For Development we use the [Development Department Issue Board](https://gitlab.c
 
 #### Objectives
 
-The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/){:data-ga-name="OKRs"}{:data-ga-location="body"}.  In your Tracking Issue you will need to [create an epic](https://gitlab.com/groups/gitlab-com/-/epics/new){:data-ga-name="epics"}{:data-ga-location="body"} for each objective with the proper title [formatting](https://about.gitlab.com/company/okrs/#format-of-objectives-and-key-results-in-epics-and-issues){:data-ga-name="formatting"}{:data-ga-location="body"}.  There are currently no templates for these epics.  Steps to create an objective epic:
+The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/){:data-ga-name="OKR section of the handbook"}{:data-ga-location="body"}.  In your Tracking Issue you will need to [create an epic](https://gitlab.com/groups/gitlab-com/-/epics/new){:data-ga-name="epics"}{:data-ga-location="body"} for each objective with the proper title [formatting](https://about.gitlab.com/company/okrs/#format-of-objectives-and-key-results-in-epics-and-issues){:data-ga-name="formatting"}{:data-ga-location="body"}.  There are currently no templates for these epics.  Steps to create an objective epic:
 
 1. [Create an epic](https://gitlab.com/groups/gitlab-com/-/epics/new){:data-ga-name="epics"}{:data-ga-location="body"} for each objective that you wish to create a key result
 1. [Format the epic title](https://about.gitlab.com/company/okrs/#format-of-objectives-and-key-results-in-epics-and-issues){:data-ga-name="format the title"}{:data-ga-location="body"} to match the company OKR title
