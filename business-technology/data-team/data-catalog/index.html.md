@@ -122,6 +122,7 @@ SAFE Data in Google Sheets files can be accessed using the instructions for [Acc
 * [2021-08 SSO Login Deep Dive Analysis](https://docs.google.com/presentation/d/1j66MejLh8uKhUDUkSVIhPLI79M1LtbgCSxuvJKzRRaI/edit#slide=id.p)
 * [Growth Insights](/direction/growth/#insights)
 * [Concluded Growth Experiments](/direction/growth/#growth-experiments-knowledge-base---concluded-experiments)
+* [FY22-Q3 xMAU Estimation Exploration](https://docs.google.com/presentation/d/1ifKhhGw2rWF33g22n42bdD6Yqq6m3o_djqxo6qvJVoo/edit#slide=id.gf7594bb92d_0_190)
 
 ### Customer Success
 
