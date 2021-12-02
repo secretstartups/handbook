@@ -9,14 +9,16 @@ description: "This page is an overview of the search team alignment and the tale
 | Department                    | Recruiter       | Sourcer     | Candidate Experience Specialist    |
 |--------------------------|-----------------|-----------------|-------------------------------------|
 | Executive          | Rich Kahn   | Chriz Cruz | Ale Ayala |
-| Enterprise Sales, NA | Jonathan Edwards |  TBH | Hannah Stewart |
+| Enterprise Sales, NA | Betty Sanchez |  TBH | Hannah Stewart |
 | Enterprise Sales, EMEA | Debbie Harris |  Kanwal Matharu | Hannah Stewart (temporary) |
 | Enterprise Sales, APAC | Debbie Harris |  Kanwal Matharu | Hannah Stewart (temporary) |
 | Commercial Sales,	AMER | Marcus Carter | TBH  | Hannah Stewart |
 | Commercial Sales,	EMEA/APAC | Ben Cowdry | TBH  | Hannah Stewart (temporary) |
 | Channel Sales, Global | Debbie Harris |  Kanwal Matharu | Hannah Stewart (temporary) |
-| Field Operations,	Global | Joanna Muttiah | Loredana Iluca | Hannah Stewart (temporary) |
-| Customer Success, Global | Joanna Muttiah | Loredana Iluca | Hannah Stewart (temporary) |
+| Field Operations,	Global | Kelsey Hart | Loredana Iluca | Hannah Stewart (temporary) |
+| Customer Success, EMEA | Joanna Muttiah | Loredana Iluca | Hannah Stewart (temporary) |
+| Customer Success, APAC | Joanna Muttiah | Loredana Iluca | Hannah Stewart (temporary) |
+| Customer Success, NA | Kevin Rodrigues | Loredana Iluca | Hannah Stewart (temporary) |
 | Marketing, Global | Steph Sarff   | Alina Moise | Davie Soomalelagi |
 | Marketing, SDR Global | Tony Tsiras | Tony Tsiras| Davie Soomalelagi |
 | G&A, Finance, People, CEO | Maria Gore | Alina Moise | Davie Soomalelagi |
