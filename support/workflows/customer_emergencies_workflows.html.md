@@ -46,6 +46,16 @@ If at any point you would like advice or help finding additional support, go ahe
 1. Open the Zendesk ticket.
     1. Most PagerDuty notification formats provide a direct link to the ticket.
     1. Alternatively, use Zendesk search with the term `priority: urgent` to find the ticket.
+1. Verify that the requester is a customer with emergency support entitlement:
+   1. If the customer's email address is not associated with an org in Zendesk,
+      plan to start the Zoom call by verifying support entitlement **and** to
+      end the call gracefully if they do not have sufficient entitlement. In
+      they are a free user, mark the ticket `solved`. Otherwise, lower the
+      priority.
+   1. If the customer is associated with an org in Zendesk, verify that their
+      subscription is Premium or above. If it is not, lower the priority of
+      the ticket and inform the customer kindly that their subscription does
+      not include emergency support.
 1. Create a Public Comment in the ticket acknowledging the emergency; offer a Zoom call to the customer if appropriate to the reported situation. A SaaS emergency related to a public incident published on the status page, for example, would not warrant a call.
    * Example of self-managed emergency ticket which was resolved without a call: https://gitlab.zendesk.com/agent/tickets/148028
 1. Only Resolve the PagerDuty alert _after_ you have contacted the customer. This means that you are actively handling the emergency now and will see it through.
