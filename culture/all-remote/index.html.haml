@@ -160,7 +160,7 @@ extra_js:
             .webcast-tagline
               Join our weekly webcast series tackling all things remote work!
             .webcast-btn-wrap
-              %a.btn.cta-btn.orange{:href => "/company/culture/all-remote/universal-remote/"}
+              %a.btn.cta-btn.orange{:href => "/company/culture/all-remote/universal-remote/", :"data-ga-name" => "universal remote", :"data-ga-location" => "body"}
                 Watch now
 
   .why-remote
@@ -173,13 +173,13 @@ extra_js:
           %h2 Why Remote?
           %p
             From cost savings on office space to more flexibility in employees'
-            %a{href: '/company/culture/all-remote/people/'} daily lives,
+            %a{href: '/company/culture/all-remote/people/', :"data-ga-name" => "people", :"data-ga-location" => "body"} daily lives,
             all-remote work offers a number of
-            %a{href: '/company/culture/all-remote/benefits/'} advantages
+            %a{href: '/company/culture/all-remote/benefits/', :"data-ga-name" => "benefits", :"data-ga-location" => "body"} advantages
             to organizations and their people. 
           %br
             Download the
-            %a{href: '/resources/downloads/remote-work-report-2021.pdf'} 2021 Remote Work Report by GitLab 
+            %a{href: '/resources/downloads/remote-work-report-2021.pdf', :"data-ga-name" => "remote work report", :"data-ga-location" => "body"} 2021 Remote Work Report by GitLab 
             to learn more.
       .why-remote-col.why-remote-col-right
         .why-remote-video
@@ -199,13 +199,13 @@ extra_js:
             .case-study-img
               = image_tag "/images/all-remote/case-study-hotjar.png", alt: "Case Study"
             .case-study-content
-              %a{:href => "/customers/hotjar/"}
+              %a{:href => "/customers/hotjar/", :"data-ga-name" => "hotjar deploys faster", :"data-ga-location" => "body"}
                 %h4.case-study-title 
                   How Hotjar deploys 50% faster with GitLab
               %div.case-study-author
                 by GitLab
               %div.case-study-blurb
-              %a.case-study-btn{:href => "/customers/hotjar/"}
+              %a.case-study-btn{:href => "/customers/hotjar/", :"data-ga-name" => "hotjar read more", :"data-ga-location" => "body"}
                 Read more
 
         .col-md-4
@@ -243,7 +243,7 @@ extra_js:
         .col-md-12
           .all-remote-quick-links-intro.text-center
             %h2
-              %a{href: '/company/culture/all-remote/guide/'} 
+              %a{href: '/company/culture/all-remote/guide/', :"data-ga-name" => "guide", :"data-ga-location" => "body"} 
                 Read GitLab's Guide to Remote Work
 
       .row.row-quick-links-wrap
@@ -251,116 +251,116 @@ extra_js:
           %h4 How & Why
           %ul
             %li
-              = link_to "Vision", "/company/culture/all-remote/vision/"
+              = link_to "Vision", "/company/culture/all-remote/vision/", :"data-ga-name" => "vision", :"data-ga-location" => "body"
             %li
-              = link_to "Tips", "/company/culture/all-remote/tips/"
+              = link_to "Tips", "/company/culture/all-remote/tips/", :"data-ga-name" => "tips", :"data-ga-location" => "body"
             %li
-              = link_to "Benefits", "/company/culture/all-remote/benefits/"
+              = link_to "Benefits", "/company/culture/all-remote/benefits/", :"data-ga-name" => "benefits", :"data-ga-location" => "body"
             %li
-              = link_to "Drawbacks", "/company/culture/all-remote/drawbacks/"
+              = link_to "Drawbacks", "/company/culture/all-remote/drawbacks/", :"data-ga-name" => "drawbacks", :"data-ga-location" => "body"
             %li
-              = link_to "Phases", "/company/culture/all-remote/phases-of-remote-adaptation/"
+              = link_to "Phases", "/company/culture/all-remote/phases-of-remote-adaptation/", :"data-ga-name" => "phases", :"data-ga-location" => "body"
             %li
-              = link_to "Forcing functions", "/company/culture/all-remote/how-to-work-remote-first/"
+              = link_to "Forcing functions", "/company/culture/all-remote/how-to-work-remote-first/", :"data-ga-name" => "forcing functions", :"data-ga-location" => "body"
             %li
-              = link_to "Stories", "/company/culture/all-remote/stories/"
+              = link_to "Stories", "/company/culture/all-remote/stories/", :"data-ga-name" => "stories", :"data-ga-location" => "body"
             %li
-              = link_to "History", "/company/culture/all-remote/history/"
+              = link_to "History", "/company/culture/all-remote/history/", :"data-ga-name" => "history", :"data-ga-location" => "body"
         .col-md-2
           %h4 Getting Started
           %ul
             %li
-              = link_to "Getting started", "/company/culture/all-remote/getting-started/"
+              = link_to "Getting started", "/company/culture/all-remote/getting-started/", :"data-ga-name" => "getting started", :"data-ga-location" => "body"
             %li
-              = link_to "Ramping up", "/company/culture/all-remote/remote-work-starter-guide/"
+              = link_to "Ramping up", "/company/culture/all-remote/remote-work-starter-guide/", :"data-ga-name" => "ramping up", :"data-ga-location" => "body"
             %li
-              = link_to "Remote onboarding", "/company/culture/all-remote/onboarding/"
+              = link_to "Remote onboarding", "/company/culture/all-remote/onboarding/", :"data-ga-name" => "remote onboarding", :"data-ga-location" => "body"
             %li
-              = link_to "Defining All-Remote", "/company/culture/all-remote/terminology/"
+              = link_to "Defining All-Remote", "/company/culture/all-remote/terminology/", :"data-ga-name" => "defining all remote", :"data-ga-location" => "body"
             %li
-              = link_to "What not to do", "/company/culture/all-remote/what-not-to-do/"
+              = link_to "What not to do", "/company/culture/all-remote/what-not-to-do/", :"data-ga-name" => "what not to do", :"data-ga-location" => "body"
             %li            
-              = link_to "Evaluate", "/company/culture/all-remote/evaluate/"
+              = link_to "Evaluate", "/company/culture/all-remote/evaluate/", :"data-ga-name" => "evaluate", :"data-ga-location" => "body"
             %li
-              = link_to "Workspace", "/company/culture/all-remote/workspace/"
+              = link_to "Workspace", "/company/culture/all-remote/workspace/", :"data-ga-name" => "workspace", :"data-ga-location" => "body"
             %li
-              = link_to "Jobs", "/company/culture/all-remote/jobs/"
+              = link_to "Jobs", "/company/culture/all-remote/jobs/", :"data-ga-name" => "jobs", :"data-ga-location" => "body"
             %li
-              = link_to "Interviews", "/company/culture/all-remote/interviews/"
+              = link_to "Interviews", "/company/culture/all-remote/interviews/", :"data-ga-name" => "interviews", :"data-ga-location" => "body"
         .col-md-2
           %h4 People & Values
           %ul
             %li
-              = link_to "People", "/company/culture/all-remote/people/"
+              = link_to "People", "/company/culture/all-remote/people/", :"data-ga-name" => "people", :"data-ga-location" => "body"
             %li
-              = link_to "Non-linear workday", "/company/culture/all-remote/non-linear-workday/"
+              = link_to "Non-linear workday", "/company/culture/all-remote/non-linear-workday/", :"data-ga-name" => "non linear workday", :"data-ga-location" => "body"
             %li
-              = link_to "Values", "/company/culture/all-remote/values/"
+              = link_to "Values", "/company/culture/all-remote/values/", :"data-ga-name" => "values", :"data-ga-location" => "body"
             %li
-              = link_to "Building culture", "/company/culture/all-remote/building-culture/"
+              = link_to "Building culture", "/company/culture/all-remote/building-culture/", :"data-ga-name" => "building culture", :"data-ga-location" => "body"
             %li
-              = link_to "Mental health", "/company/culture/all-remote/mental-health/"
+              = link_to "Mental health", "/company/culture/all-remote/mental-health/", :"data-ga-name" => "mental health", :"data-ga-location" => "body"
             %li
-              = link_to "Informal communication", "/company/culture/all-remote/informal-communication/"
+              = link_to "Informal communication", "/company/culture/all-remote/informal-communication/", :"data-ga-name" => "informal communication", :"data-ga-location" => "body"
             %li
-              = link_to "Parenting", "/company/culture/all-remote/parenting/"
+              = link_to "Parenting", "/company/culture/all-remote/parenting/", :"data-ga-name" => "parenting", :"data-ga-location" => "body"
             %li
-              = link_to "Work while traveling", "/company/culture/all-remote/working-while-traveling/"
+              = link_to "Work while traveling", "/company/culture/all-remote/working-while-traveling/", :"data-ga-name" => "work while traveling", :"data-ga-location" => "body"
             %li
-              = link_to "Scaling", "/company/culture/all-remote/scaling/"
+              = link_to "Scaling", "/company/culture/all-remote/scaling/", :"data-ga-name" => "scaling", :"data-ga-location" => "body"
         .col-md-2
           %h4 Management
           %ul
             %li
-              = link_to "Remote fast boot", "/company/culture/all-remote/remote-work-emergency-plan/"
+              = link_to "Remote fast boot", "/company/culture/all-remote/remote-work-emergency-plan/", :"data-ga-name" => "remote fast boot", :"data-ga-location" => "body"
             %li
-              = link_to "Stages of remote", "/company/culture/all-remote/stages/"
+              = link_to "Stages of remote", "/company/culture/all-remote/stages/", :"data-ga-name" => "stages of remote", :"data-ga-location" => "body"
             %li
-              = link_to "Hybrid-remote", "/company/culture/all-remote/hybrid-remote/"
+              = link_to "Hybrid-remote", "/company/culture/all-remote/hybrid-remote/", :"data-ga-name" => "hybrid remote", :"data-ga-location" => "body"
             %li
-              = link_to "Asynchronous", "/company/culture/all-remote/asynchronous/"
+              = link_to "Asynchronous", "/company/culture/all-remote/asynchronous/", :"data-ga-name" => "asynchronous", :"data-ga-location" => "body"
             %li
-              = link_to "Handbook-first documentation", "/company/culture/all-remote/handbook-first-documentation/"
+              = link_to "Handbook-first documentation", "/company/culture/all-remote/handbook-first-documentation/", :"data-ga-name" => "handbook first documentation", :"data-ga-location" => "body"
             %li
-              = link_to "Meetings", "/company/culture/all-remote/meetings/"
+              = link_to "Meetings", "/company/culture/all-remote/meetings/", :"data-ga-name" => "meetings", :"data-ga-location" => "body"
             %li
-              = link_to "Transition to remote", "/company/culture/all-remote/transition/"
+              = link_to "Transition to remote", "/company/culture/all-remote/transition/", :"data-ga-name" => "transition to remote", :"data-ga-location" => "body"
             %li
-              = link_to "Effective management", "/company/culture/all-remote/management/"
+              = link_to "Effective management", "/company/culture/all-remote/management/", :"data-ga-name" => "effective management", :"data-ga-location" => "body"
             %li
-              = link_to "In-person interactions", "/company/culture/all-remote/in-person/"
+              = link_to "In-person interactions", "/company/culture/all-remote/in-person/", :"data-ga-name" => "in person interactions", :"data-ga-location" => "body"
             %li
-              = link_to "Leading teams", "/company/culture/all-remote/being-a-great-remote-manager/"
+              = link_to "Leading teams", "/company/culture/all-remote/being-a-great-remote-manager/", :"data-ga-name" => "leading teams", :"data-ga-location" => "body"
         .col-md-2
           %h4 Hiring & Learning
           %ul
             %li
-              = link_to "Hiring", "/company/culture/all-remote/hiring/"
+              = link_to "Hiring", "/company/culture/all-remote/hiring/", :"data-ga-name" => "hiring", :"data-ga-location" => "body"
             %li
-              = link_to "Compensation", "/company/culture/all-remote/compensation/"
+              = link_to "Compensation", "/company/culture/all-remote/compensation/", :"data-ga-name" => "compensation", :"data-ga-location" => "body"
             %li
-              = link_to "Collaboration", "/company/culture/all-remote/collaboration-and-whiteboarding/"
+              = link_to "Collaboration", "/company/culture/all-remote/collaboration-and-whiteboarding/", :"data-ga-name" => "collaboration", :"data-ga-location" => "body"
             %li
-              = link_to "Remote internships", "/company/culture/all-remote/internship/"            
+              = link_to "Remote internships", "/company/culture/all-remote/internship/", :"data-ga-name" => "remote internships", :"data-ga-location" => "body"
             %li
-              = link_to "Textual communication", "/company/culture/all-remote/effective-communication/"
+              = link_to "Textual communication", "/company/culture/all-remote/effective-communication/", :"data-ga-name" => "textual communication", :"data-ga-location" => "body"
             %li
-              = link_to "Self-service", "/company/culture/all-remote/self-service/"
+              = link_to "Self-service", "/company/culture/all-remote/self-service/", :"data-ga-name" => "self service", :"data-ga-location" => "body"
             %li
-              = link_to "L&D", "/company/culture/all-remote/learning-and-development/"
+              = link_to "L&D", "/company/culture/all-remote/learning-and-development/", :"data-ga-name" => "learning and development", :"data-ga-location" => "body"
             %li
-              = link_to "Events", "/company/culture/all-remote/events/"
+              = link_to "Events", "/company/culture/all-remote/events/", :"data-ga-name" => "events", :"data-ga-location" => "body"
             %li
-              = link_to "Certification", "/company/culture/all-remote/remote-certification/"
+              = link_to "Certification", "/company/culture/all-remote/remote-certification/", :"data-ga-name" => "certification", :"data-ga-location" => "body"
         .col-md-2
           %h4 Want to contribute?
           %ul
             %li
-              = link_to "Pick your brain", "/company/culture/all-remote/pick-your-brain/"
+              = link_to "Pick your brain", "/company/culture/all-remote/pick-your-brain/", :"data-ga-name" => "pick your brain", :"data-ga-location" => "body"
             %li
-              = link_to "Contribute now", "/company/culture/all-remote/contributions/"
+              = link_to "Contribute now", "/company/culture/all-remote/contributions/", :"data-ga-name" => "contribute now", :"data-ga-location" => "body"
             %li
-              = link_to "Resources", "/company/culture/all-remote/resources/"
+              = link_to "Resources", "/company/culture/all-remote/resources/", :"data-ga-name" => "resources", :"data-ga-location" => "body"
 
   .featured-remote-posts
     .featured-remote-posts-content
