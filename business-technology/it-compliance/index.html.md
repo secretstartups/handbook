@@ -16,10 +16,11 @@ description: "IT Security and Compliance"
 <div class="flex-row" markdown="0">
   <div>
     <h5>Issue Trackers</h5>
-    <a href="https://gitlab.com/gitlab-com/business-technology/it-compliance/it-automation/change-log-automation/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">System Change Log Automation</a>
-    <a href="https://gitlab.com/gitlab-com/business-technology/it-compliance/it-automation/user-export-automation/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">User Export Automation</a>
-    <a href="https://gitlab.com/gitlab-com/business-technology/it-compliance/it-access-review/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">Compliance Access Review</a>
-    <a href="https://gitlab.com/gitlab-com/business-technology/it-compliance/it-compliance-issue-tracker/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">IT Compliance Issue Tracker</a>
+    <a href="https://gitlab.com/gitlab-com/business-technology/it-compliance/it-automation/change-log-automation/-/issues/new" class="btn btn-purple" style="width:180px;margin:5px;">System Change Log Automation</a>
+    <a href="https://gitlab.com/gitlab-com/business-technology/it-compliance/it-automation/user-export-automation/-/issues/new" class="btn btn-purple" style="width:180px;margin:5px;">User Export Automation</a>
+    <a href="https://gitlab.com/gitlab-com/business-technology/it-compliance/it-access-review/-/issues/new" class="btn btn-purple" style="width:180px;margin:5px;">Compliance Access Review</a>
+    <a href="https://gitlab.com/gitlab-com/business-technology/it-compliance/it-compliance-issue-tracker/-/issues/new" class="btn btn-purple" style="width:180px;margin:5px;">IT Compliance Issue Tracker</a>
+    <a href="https://gitlab.com/gitlab-com/business-technology/it-compliance/it-security/-/issues/new" class="btn btn-purple" style="width:180px;margin:5px;">IT Security Issue Tracker</a>
   </div>
  </div>
 
