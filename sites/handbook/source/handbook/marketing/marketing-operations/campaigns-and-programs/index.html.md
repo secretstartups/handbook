@@ -513,9 +513,9 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Fill in necessary program tokens.
 
 ##### Step 3b: Update Smart Lists, Flows and Tokens
-- If the survey is automated via a trigger to add leads into the Marketo program via a form fill or other means, click into `01a Registration Flow` to make the upcoming changes. If the survey requires a manual upload via a list upload, focus attention on updating the `01 Processing` batch smart campaign. For manual list uploads, the batch will be activated during the upload process. 
+- If the survey is automated via a trigger to add leads into the Marketo program via a form fill or other means, click into `01a Registration Flow` to make the upcoming changes. If the survey requires a manual upload via a list upload, focus attention on updating the `01 Processing` batch smart campaign. For manual list uploads, the batch will be activated manually by MktgOps during the upload process. 
      - In the `01a Registration Flow` smart list, change the `form name` and or `web page` to the correct form and page being used. If a different trigger method is needed, e.g. `added to list` via a Zapier automation, consult MktgOps [via issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/zapier_connection_request.md) on building out the automation.
-     - In the Flow, on step 2, double check the `send email` flow has been correctly set up.
+     - In the Flow, on step 2, have a MPM or MktgOps team member double check the `send email` flow has been correctly set up or if it is needed.
      - For the `01a Registration Flow` trigger smart campaign, select "Schedule" tab and click `Activate`. It should be set that a person can only run through the flow once.
 - Fill in necessary program tokens.
 
