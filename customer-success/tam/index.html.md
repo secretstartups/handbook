@@ -73,7 +73,7 @@ Aligning passionate TAMs with customers to ensure their success by...
 ##### Digital Journey:
 
 - [Digital Journey](/handbook/customer-success/tam/digital-journey/)
-  * [Nominating Contacts for the Digital Journey](/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/)
+  * [Nominating Contacts for the Digital Journey](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts)
 
 
 ### TAM Managers
