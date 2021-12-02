@@ -14,7 +14,7 @@ title: "Chief Financial Officer"
 - Financial, legal and operational assessment, diligence and negotiation of potential M&A transactions
 - Oversee accounting and billing system that can scale with company growth
 - Accurate, timely, detailed, and easy-to-access metrics on sales, sales enablement, customer success and adoption, peopleops, marketing, engineering, product, and finance.
-- Must successfully complete a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
+- Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#e-group)
 
 ## Performance Indicators
