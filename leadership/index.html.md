@@ -216,7 +216,7 @@ Building a team to deliver [results](/handbook/values/#results) is a very import
 - Maintain effective communication and a healthy relationship with each other
 - Make unanimous decisions as a team
 
-Watch the replay of our conversation with [Jeb Hurley, Co-founder and Managing Partner Brainware Partners](https://www.brainware-partners.com/) where we discussed 
+Watch the replay of our conversation with [Jeb Hurley, Co-founder and Managing Partner Brainware Partners](https://www.brainware-partners.com/) where we discussed: 
 
 1. Managing trust, productivity, and wellbeing on remote teams
 1. Behavior, biochemistry, and dynamics of trust
