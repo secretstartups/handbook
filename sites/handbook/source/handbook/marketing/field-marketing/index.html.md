@@ -1534,24 +1534,7 @@ Account based marketing is separate but sits next to field marketing. For info o
 Can be found on the [DemandBase1 Handbook page.](https://about.gitlab.com/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/#field-marketing-use-cases-within-db1)
 
 # Field Marketing during COVID-19 Pandemic
-The health and safety of our team members continue to be a top priority. Given the continuing situation with COVID-19 worldwide, our eGroup has decided that they will review our return to in person events on a case by case basis.
-
-### Returning to in person events 
-At this time, our leadership is open to Field Marketing building a business case for attending in person events. We still need to go through an approval process to gain full approval. This will be handled by the following: 
-1. FMM open a [in person request issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_in_person_biz_case) 
-1. Regional leader/Director of FMM to review
-1. Director of FMM to pull in VP of RevMktg & CMO 
-1. CMO will make go/no-go decision 
-1. If you are requesting approval for an inperson event that is more than 1 month away, then 1 month before the in person event is scheduled to take place, the FMM event DRI needs to confirm that there has been NO change in the overall GitLab travel policy that would no longer allow for the already approved travel exception. If an update was made in the GitLab travel policy, then the event sponsorship would no longer be able to happen. 
-
-#### Field Marketing travel approval 
-If you are a Marketer who is planning on attending an event, please fill out the [COVID Travel form](https://about.gitlab.com/handbook/travel/#policy-and-guidelines) and attach to [this section](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_in_person_biz_case.md#on-site-marketing-attendance) in the FMM issue.
-
-If multiple marketers are attending this event, please ensure all COVID Travel forms have been added before seeking CMO approval.
-
-Upon leadership approval of this issue, there will be no other steps you need to take to seek your own approval.
-
-If you have any questions please feel free to reach out to the Director of Field Marketing, or your direct line manager.
+The health and safety of our team members continue to be a top priority.  If you are a Marketer who is planning on attending an event, please follow instructions listed in our [Policy & Guidelines](https://about.gitlab.com/handbook/travel/#policy-and-guidelines) section. 
 
 ## In-Person Event Changes Due to COVID-19
 
