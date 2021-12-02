@@ -94,14 +94,17 @@ The CES should also tag the Recruiter in the Greenhouse profile of the candidate
 
 The only exception to this should be for executive roles. Please just forward the withdrawal email to the Executive Recruiter and they will handle any follow-up.
 
-### Reference Checks/Background Checks
+### Non-Disclosure Agreements
+
+To send a Non-Disclosure Agreement (NDA) to a candidate, Recruiters should ping @ces in Greenhouse. 
+CES can then log into Docusign, select "start" and "use a template", and then access shared templates.
+Once the NDA has been returned, upload the document in the "details" section of Greenhouse.  
+
+### Background Checks
 
 GitLab will obtain references and complete a criminal [background check](https://about.gitlab.com/handbook/people-policies/#background-checks) with employment verifications.
 
-- Once a candidate is moved to the reference check stage, the recruiter should ping `@ces` to kick off the reference check process
    - If the candidate is located in Belgium and the role is not Grade 9 or higher, the CES or Recruiter (whoever kicks off the reference check process) should send the job requisition to the legal team via the #legal Slack channel during Reference/Background check phase to determine whether or not the role is a position of trust. 
-- CES will send the Reference Check email via Guide
-   - CES will send [references to hiring managers](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-6hm-complete-references) with recruiter in cc via email using the "Email the Team" option in GH once received from the candidate. Please ensure this email is sent from the CES team.
 - The recruiter should ping @ces once a verbal offer has been made to the candidate. Once the verbal offer has been made, the CES team will initiate the background check process.
 - The Candidate Experience Specialist will [initiate a background check](/handbook/people-policies/#background-checks) and start the contract process for the candidate. CES will continue to monitor the background check until finalized, using the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR, if hired
 - Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication
