@@ -120,7 +120,7 @@ As part of a Harvard Business School case study [interview](https://youtu.be/jdN
 >
 > We said, 'OK, we'll be pragmatic. As soon as we have a big breakdown in the leadership team or something, we'll reconsider.'
 >
-> That did not happen. We said, 'We're pretty sure this [scales a lot better](/company/culture/all-remote/scaling/){:data-ga-name="sacling"}{:data-ga-location="body"}. We're actually able to grow faster and have less disconnect amongst the leadership team than in other companies.'
+> That did not happen. We said, 'We're pretty sure this [scales a lot better](/company/culture/all-remote/scaling/){:data-ga-name="scaling"}{:data-ga-location="body"}. We're actually able to grow faster and have less disconnect amongst the leadership team than in other companies.'
 
 Moving to the topic of investors and their perception of remote companies, Sid added the following.
 
