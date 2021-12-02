@@ -56,7 +56,9 @@ licensing, as well as all of our internal workflows (like lead generation for Sa
   - [Handbook Page](https://about.gitlab.com/company/team/structure/working-groups/commercial-licensing/)
   - [Agenda Doc](https://docs.google.com/document/d/1ayKH7rSKTCzjZojd15YFRk-T18xt-aznSNR-R4pFXnM/edit#heading=h.7liqin7jry4)
   - **Purpose:** Define business & customer experience requirements for a system to handle commercial and licensing transactions into the future.
-  - **Outcome:** _???_
+  - **Outcomes:**
+    - [Zuora Single Source of Truth Discusssion Paper](https://docs.google.com/document/d/1ayKH7rSKTCzjZojd15YFRk-T18xt-aznSNR-R4pFXnM/edit)
+    - ???
 
 ### Infrastructure
 
