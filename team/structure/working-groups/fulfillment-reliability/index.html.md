@@ -58,6 +58,15 @@ licensing, as well as all of our internal workflows (like lead generation for Sa
   - **Purpose:** Define business & customer experience requirements for a system to handle commercial and licensing transactions into the future.
   - **Outcome:** _???_
 
+### Infrastructure
+
+Infrastructure team is committed to supporting Fulfillment in the migration of CustomersDot
+from the legacy Azure VM to GCP by the end of 2022-01. See the discussion in [2021-11-30 Engineering Allocation Review](https://docs.google.com/document/d/1j_9P8QlvaFO-XFoZTKZQsLUpm1wA2Vyf_Y83-9lX9tg/edit)) for details.
+
+This will help bring CustomersDot inline with the rest of our application stack in terms of how it is operated,
+but the application will still need to be instrumented and alerting configured in order to address our current
+lack of observability and insight into this app.
+
 ### Engineering
 
 - [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com)
