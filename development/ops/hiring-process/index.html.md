@@ -24,7 +24,8 @@ The process for Ops is a mix of the current [hiring manager (HM) tasks](/handboo
 
 ### Step 2. Kickoff
 
-1. [Create Kickoff](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session)
+1. [Create Kickoff](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session) 
+1.  Create a separate kickoff issue for each req you are hiring (each unique GHID).  For identical roles one kickoff issue can just be a link to another, but having a separate issue for each req is valuable for tracking purposes.
 1. Include label ~section::ops to the kickoff issue so we can track in [this board](https://gitlab.com/gl-talent-acquisition/req-intake/-/boards/3516477?label_name[]=section%3A%3Aops) (confidential) and use it as the single source of thruth (SSOT)
 1. [Complete Kickoff](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-2hm-complete-kick-off)
 
