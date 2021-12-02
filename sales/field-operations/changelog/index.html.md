@@ -18,7 +18,10 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2021-12-06 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/76))
 
+**Channel Ops: [Partner Operations Case Alias](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues/290)**
+
 **Channel Ops: [Partner Business Plan Module Launch](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues/339)**
+
 
 ### 2021-11-15 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/72))
 
