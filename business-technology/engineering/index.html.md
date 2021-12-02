@@ -39,7 +39,7 @@ The Business Technology Engineering team focuses on three primary competencies:
 |-----------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------|
 | [Bryan Wise](https://about.gitlab.com/company/team/#bryanwise)        | VP, Business Technology                  | VP+ level requests, new programs, infrastructure managed services   |
 | [Christopher Nelson](https://about.gitlab.com/company/team/#ccnelson) | Senior Director, Enterprise Applications | Enterprise Applications and Integrations Engineering                |
-| [Rob Rea](https://about.gitlab.com/company/team/#rrea1)]              | Senior Director, IT Operations           | Security, Tech Stack Vendors, Compliance, Helpdesk, etc.                                                                 |
+| [Rob Rea](https://about.gitlab.com/company/team/#rrea1)              | Senior Director, IT Operations           | Security, Tech Stack Vendors, Compliance, Helpdesk, etc.                                                                 |
 | [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis)        | Manager, IT Engineering                  | Access Manager, Okta, Google, IT Engineering       |
 
 ## How We Work
