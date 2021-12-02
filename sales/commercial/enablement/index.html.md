@@ -1,3 +1,9 @@
+---
+layout: handbook-page-toc
+title: Commercial Sales Enablement
+description: Welcome to the Commercial Sales Enablement Handbook Page
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -25,6 +31,7 @@ To improve sales efficiency & predictability as well as excellence in role, the 
 | Title | Learning Objective | Duration |
 | ----- | ------------------ | -------- |
 | [Selling Services Workshop](https://classroom.google.com/c/MTgxMzg1MjQ2NzM3?cjc=i6kyzzp) | Ensure each AE/ASM can identify and position Professional Service offerings and value | 90 min |
+| AE Choice- [The Journey to Ultimate](https://www.youtube.com/watch?v=d3tkGHBFaRM&list=PL05JrBw4t0KptP3PU_ltZk-_jY2P3T1gb&index=1) <br>with James Heimbuck | Learn how to build a roadmap for customers to get to Ultimate; understand how specific <br>features in Ultimate help customers innovate as they scale; overcome objections by <br>understanding how uptier features solve business problems | 60 min |
 
 ### Course Assets
 
