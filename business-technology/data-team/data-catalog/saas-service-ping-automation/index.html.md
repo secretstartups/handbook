@@ -216,6 +216,22 @@ We then run all these queries and store the results in a json that we send them 
 
 For any error appeared, data is saved into `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` table. This table keeps data in `json` data type. On the top of the table, mechanism is build to incorporate any error in the `Trusted Data Model` and easily make any malfunction in the `SQL` processing visible. 
 
+##### Error handling for SQL based service ping
+
+In case of an error poped-up during the SQL execution and gathering of SQL-based metrics, an error will be handled in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` table.The information will be visible both in `Airflow` logs and `Sisense` (tag is `service_ping`). Data will be generated for all other metrics, except the problematic one. 
+
+In this situation, when any record appeared in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` do the following actions:
+
+- Analyze which query and metrics cause an error and try to run it manually to ensure what is the root cause of the problem. Probably will be a problem with missing objects: tables or columns or bad queries we received
+- Details for the error tracing should be found running the script **[service_ping error tracing.sql](https://gitlab.com/gitlab-data/analytics/-/snippets/2206630)**
+- If fixing the issue take more than usual, and/or change is a bit more complex, inform the team as per instructions from [#triage-faq](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/#triage-faq)
+- Fix the issue (all depends is query is bad or some tables/columns are missing)
+- Deploy the code
+- Delete data from `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` table to avoid this error pop-up again
+- Re-run `Airflow` dag for SQL based metrics: task name is `saas-instance-usage-ping`
+
+As this task run once per week - we have enough time to fix the issue, but try to be efficient due to the importance of the data.
+
 
 #### Redis Metrics Implementation
 
