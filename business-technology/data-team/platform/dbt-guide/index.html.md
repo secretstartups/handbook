@@ -73,10 +73,10 @@ Note that many of these steps are done in the [onboarding script](https://gitlab
 Our Snowflake instance contains [warehouses of multiple sizes](https://docs.snowflake.com/en/user-guide/warehouses-overview.html), which allow for dbt developers to allocate
 differing levels of compute resources to the queries they run. The larger a warehouse is and the longer it runs, the more the query costs. For example, it costs [8 times](https://docs.snowflake.com/en/user-guide/warehouses-overview.html#warehouse-size) more to run a Large warehouse for an hour than it costs to run an X-Small warehouse for an hour.
 
- If you have access to multiple warehouses, you can
+If you have access to multiple warehouses, you can
 create an entry for each warehouse in your `profiles.yml` file. Having done this, you will be able to specify which warehouse should run when you call `dbt run`. This should be done
 carefully; using a larger warehouse increases performance but will greatly increase cost! Err on the side of using smaller warehouses. If you find that the smaller warehouse's
-performance is not adequate, investigate the cause before you try again with a larger warehouse. Running an inefficient model against a larger warehouse does not only increase the costs during development, it also increases the costs every-time the model runs in the production situation, which will result an ex-intentional cost increasement on our Snowflake license.
+performance is not adequate, investigate the cause before you try again with a larger warehouse. Running an inefficient model against a larger warehouse not only increases cost during development, it also increases cost every time the model runs in production, resulting in unintentional ongoing increase in Snowflake costs.
 
 #### Example
 
