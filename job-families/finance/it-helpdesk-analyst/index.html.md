@@ -31,30 +31,29 @@ title: "IT Helpdesk"
 
 ## Levels
 
-### IT Helpdesk Analyst
+### IT Helpdesk Analyst (Intermediate)
 
-#### Job Grade
+#### IT Helpdesk Analyst (Intermediate) Job Grade
 
-The IT Helpdesk Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The IT Helpdesk Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### IT Helpdesk Analyst (Intermediate)
 
-The IT Helpdesk Analysts share the same responsibilities outlined above.
+The IT Helpdesk Analyst (Intermediate) share the same responsibilities outlined above.
 
-#### Requirements
+#### IT Helpdesk Analyst (Intermediate)
 
-The IT Helpdesk Analysts share the same requirements outlined above.
+The IT Helpdesk Analyst (Intermediate) share the same requirements outlined above.
 
 ### Senior IT Helpdesk Analyst
 
-#### Job Grade
+#### Senior IT Helpdesk Analyst Job Grade
 
-The IT Helpdesk Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior IT Helpdesk Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### Senior IT Helpdesk Analyst Responsibilities
 
-All the responsibilities of an IT Helpdesk Analyst, plus:
-
+* Extends that of the IT Helpdesk Analyst (Intermediate) responsibilities
 - Mentoring and developing a team of IT Helpdesk Support Analysts
 - VIP Support and Escalations
 - Own and coordinate Endpoint and Peripheral orders Globally
@@ -66,10 +65,9 @@ All the responsibilities of an IT Helpdesk Analyst, plus:
 - Ability to analyse problems and present solutions to technical support issues.
 
 
-#### Requirements
+#### Senior IT Helpdesk Analyst Requirements
 
-All the requirements of an IT Helpdesk Analyst, plus:
-
+* Extends that of the IT Helpdesk Analyst (Intermediate) requirements
 - Experience of writing procedural and/or support documentation
 - An active / empathic listener
 - Demonstrable ability to think around issues and look at the wider picture in order to provide solutions through a variety of problem-solving techniques
