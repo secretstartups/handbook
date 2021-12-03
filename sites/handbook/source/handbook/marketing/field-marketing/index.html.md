@@ -1067,7 +1067,7 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 
 ## Field Marketing initiated and funded campaigns 
 
-Jointly with their regionally algined CAM, Field Marketers have a specific budget amount (for FY22 10% of their budget) set aside for joint GitLab/channel partner camapigns. The primary goal of this activity is to convert MQLs to SAOs. 
+Jointly with their regionally algined CAM, Field Marketers have a specific budget amount (for FY22 10% of their budget) set aside for joint GitLab/channel partner camapigns. It is expected that 50% of all FM activities involve a channel partner. The primary goal of this activity is to convert MQLs to PSOs. 
 
 In order for FMM to engage in lead generation activity, the CAM needs to fill out the [Channel Lead Gen request issue template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Channel_LeadGen_Req).
 
