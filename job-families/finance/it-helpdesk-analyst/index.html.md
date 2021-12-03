@@ -99,6 +99,4 @@ Candidates for this position can expect the hiring process to follow the order b
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-## Career Ladder
 
-The next step in the IT Helpdesk job family is to move to the [TODO]() job family.
