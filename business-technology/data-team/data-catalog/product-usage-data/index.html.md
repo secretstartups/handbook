@@ -190,6 +190,7 @@ illustrates our development approach for managing the delivery of Self-Managed a
 The dbt solution generates a dimensional model that represents the flow of data through each of the tables from Source Models to Gainsight.
 
 - A complete data lineage of the dbt models can be found at [Data Flow Diagram](https://lucid.app/lucidchart/232217df-3928-4756-bab5-ff5d9e9f8e1d/view)
+- Details of the mappings from raw service ping data to our product usage marts can be found in this [document](https://docs.google.com/spreadsheets/d/10SZ-khsdGbu0J0G6NCrRihmLKtSCTJZF-9aG6crmdQM/edit?usp=sharing).
 
 
 ## Trusted Data Solution
