@@ -35,22 +35,30 @@ Open a terminal session or shell prompt and type `git version`. If the output pr
 ### Generate an SSH key
 
 These steps are only needed if you do not have an SSH key already installed.
-1. In a terminal or shell prompt, type `ssh-keygen`
-1. When prompted, hit <kbd>Enter</kbd> to accept the default key location.
-1. When prompted, hit <kbd>Enter</kbd> to use a blank passphrase.
+1. Check to see if you have an existing SSH key (Bash command).
+```bash
+$ ls -al ~/.ssh
+# Lists the files in your .ssh directory, if they exist
+```
+2. If you do need an SSH key, in a terminal or shell prompt, type `ssh-keygen`
+3. When prompted, hit <kbd>Enter</kbd> to accept the default key location.
+4. When prompted, hit <kbd>Enter</kbd> to use a blank passphrase.
 
 ### Add an SSH key to your GitLab profile
 
-1. In the top right-hand corner where your avatar resides, click the **down arrow** to the right.
+1. Back in GitLab, in the top right-hand corner where your avatar resides, click the **down arrow** to the right.
 2. From the dropdown menu, click **Edit profile**.
 3. In the left-hand navigation pane, click **SSH Keys**.
 4. Return to your terminal/shell session. Navigate to the folder that you saved the ssh key in: `cd .ssh`
 5. Type `ls -al` to see two key files: a public key and a private key. The public key ends with `.pub` and is what you need to share with GitLab.
 6. Type `cat <PUBLIC-KEY-FILE>` (for example, `cat id_rsa.pub`) to print the contents of your public key. Copy the output to your clipboard.
 7. Return to the GitLab app in your browser. Paste the public key contents into the **Key** field, enter any title you want in the **Title** field, and click **Add key**.
-8. Run **one** of these commands, depending on what kind of course you’re taking. If the command completes with a welcome message, your SSH key is set up correctly.
+8. In the terminal or shell run **one** of these commands, depending on what kind of course you’re taking. If the command completes with a welcome message, your SSH key is set up correctly.
     + Instructor-led course: `ssh -T git@ilt.gitlabtraining.cloud`
     + Self-paced course: `ssh -T git@spt.gitlabtraining.cloud` 
+```bash
+Welcome to GitLab, ...
+```
 
 ### Clone a project repository to your local machine
 
@@ -66,8 +74,8 @@ These steps are only needed if you do not have an SSH key already installed.
 
 ### Work on a branch
 
-1. Type `git branch temporary_branch` to create a new branch called **temporary_branch** on your computer.
-2. Type `git checkout temporary_branch` to switch to the branch you just created.
+1. To create a new branch called **temporary_branch** on your computer, run `git branch temporary_branch`.
+2. Switch to the branch you just created by running `git checkout temporary_branch`.
 3. Type `git branch -a` to see all branches. The red branches are on the remote server, which is the GitLab instance in your training environment. The asterisk indicates the branch you are currently on.
 
 ### Edit a file
