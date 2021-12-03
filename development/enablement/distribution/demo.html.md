@@ -36,6 +36,7 @@ The presenter is expected to:
 
 1. Prepare any required environmental and related dependencies ahead of the demo
 1. Include a demo synopsis in the meeting notes with key component/environment versions, etc. for reproducibility
+1. Record the demo *locally* and upload to YouTube [Distribution Team Demos](https://www.youtube.com/playlist?list=PL05JrBw4t0KrPasGZcEUoHHIYdUtzpfA4)
 1. Limit distractions and keep professionalism high by muting slack and presenting in a demo conducive location
 1. Follow up on concerns raised during the demo and/or provide links to known issues identified
 
