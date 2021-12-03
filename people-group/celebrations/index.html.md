@@ -67,4 +67,4 @@ Once you have your card created:
 1. Slack or email the card to the recipient
 
 Recommended sites:
-- [Ella Cards](https://www.ellacards.com/) 
+- [Ella Cards](https://www.ellacard.com/) 
