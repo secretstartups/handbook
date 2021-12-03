@@ -14,6 +14,14 @@ description: "It is the lifelong process of managing learning, work, leisure and
 
 It is the lifelong process of managing learning, work, leisure and transitions in order to move toward a personally determined and evolving preferred future.
 
+### Career Development Handbook Learning Session
+
+On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team had a handbook learning session with Eric Johnson, CTO, about career development. 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/hYahDZ9nIWA" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Roles and Responsibilities
 
 Team Member Owned
@@ -45,13 +53,52 @@ Additional Questions to Think About
 - Does your feedback from others tell you anything about how feasible your aspirations are?
 - Do you currently have the skills and talents needed for the future business needs?  If not what can you do now to get ready?
 
-### Internal Resources
+### The Relationship Between Learning and Development and Promotion
 
-#### Growth and Development Benefit
+As is highlighted in our [Leadership](/handbook/leadership/1-1/#key-points) section, GitLab team members should not feel pressure to climb the proverbial ladder. We recognize that not everyone wants to advance or move to a new level, and that is supported. Developing one's skills and promotion at the company are not mutually exclusive.
+
+It is perfectly acceptable to seek out learning and development opportunities — to sharpen one's understanding of a coding language to better understand a function, etc. — yet not strive for promotion beyond your current role. Some team members are happier and more productive without managing a team, for example.
+
+As detailed in GitLab's [Definition of Diversity, Inclusion & Belonging ](/company/culture/inclusion/), we recognize that unique characteristics and experiences form how we as individuals approach challenges and solve problems. They also shape how we view success in our individual careers and lives. Not everyone views promotion as a measure of success, and team members will not be thought less of or penalized for holding this view.
+
+As part of GitLab's [Transparency](/handbook/values/#transparency) value, team members are encouraged to be open and honest with their manager. You are encouraged to learn and develop your skills without pressure to in turn seek promotion. If you feel you are not being supported in this way, please visit the [Need Help?](/handbook/people-group/#reach-peopleops) portion of the People Group Handbook.
+
+## Internal Resources
+
+### Growth and Development Benefit
 
 Review the total rewards handbook for details on how to use the [GitLab Growth and Development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) for GitLab team members.
 
-#### Internship for Learning
+Some external resources that might be qualified for expenseing under this benefit include:
+
+- [Stanford's Centre for Professional Development](http://scpd.stanford.edu/home)
+- [Yale Open Courseware](https://oyc.yale.edu/)
+- [MIT Open Courseware](https://ocw.mit.edu/index.htm)
+- [Notre Dame Open Courseware](https://www.edx.org/school/notredamex)
+- [WorkLife with Adam Grant Podcast](https://www.ted.com/series/worklife_with_adam_grant)
+- [Dose of Leadership with Richard Rierson - Authentic & Courageous Leadership Development](https://www.stitcher.com/podcast/dose-of-leadership-podcast)
+
+### Recorded Workshops
+
+During our Career Development workshops at Contribute, May 2019 we took team members through tips to creating a clear growth (aka development) plan. Below are the resources from that session:
+
+- [Career Development Workshop, slides](https://docs.google.com/presentation/d/1yY0ofMGgzN07ylTAnRP5geFnWcgUYkiVlcIyR54tpD0/edit#slide=id.g29a70c6c35_0_68)
+- [Individual Growth Plan template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
+- [Tips for Creating Effective Growth Plans](https://docs.google.com/document/d/1O45gRkQqUa3dEgjJXGwdBE7iZbBI22EPC7zrkS3T4dM/edit)
+- [Talent Assessment template](https://docs.google.com/document/d/1XT1l1STUBilDdVGHXlCcmSE5ApxwVqO1Ln4Wk8e1Fpk/edit)
+- [Individual Development Plan in Security](/handbook/engineering/security/individual-development-plan.html)
+
+### Internal Opportunities to expand exposure
+
+There are various internal opportunities to expand a team member's exposure to multiple parts of the organization.  These include:
+
+- Participation in a [Team Member Resource Group (TMRG)](https://about.gitlab.com/company/culture/inclusion/erg-guide/)
+- Work on a [Working Group (WG)](https://about.gitlab.com/company/team/structure/working-groups/)
+- Do an [apprenticeship](https://about.gitlab.com/handbook/engineering/career-development/#apprenticeship-for-learning) on another team
+- Apply to do the [CEO shadow program](https://about.gitlab.com/handbook/ceo/shadow/) for two weeks
+- When appropriate and possible, attending some of the staff meetings of the team members manager's manager
+
+### Internship for Learning
 
 If your manager has coverage, you can spend a percentage of your time working (through an 'internship') with another team.
 
@@ -59,7 +106,7 @@ This could be for any reason: maybe you want to broaden your skills or maybe you
 
 If your team has someone working part-time on it, it's on the manager of that team to ensure that the person has the support and training they need, so they don't get stuck. Maybe that's a buddy system, or maybe it's just encouragement to use existing Slack channels - whatever works for the individuals involved.
 
-##### How does this work?
+#### How does this work?
 
 **What percentage of time should be allocated?** Well, 10% time and 20% time are reasonably common. As long as you and your manager have the capacity the decision is theirs and yours.
 
@@ -84,7 +131,7 @@ allocated headcount in the time-frame in which you complete your internship.
 
 If at the end of your internship, you are interested in transferring teams please follow the guidelines in [Internal Department Transfers](/handbook/people-group/promotions-transfers/#internal-department-transfers).
 
-##### Starting Your New Internship
+#### Starting Your New Internship
 
 Please create a new issue in the [Training project](https://gitlab.com/gitlab-com/people-ops/Training/issues/new), choose the `internship_for_learning` template, and fill out the placeholders.
 
@@ -92,213 +139,14 @@ No internship for learning should be approved without both managers having a con
 
 Once you've agreed upon the internship goals, both managers should inform their respective groups' People Business Partner.
 
-##### Recommendations
+#### Recommendations
 
 We recommend that, at any given time, each [team](/company/team/structure/#team-and-team-members) is handling only one intern. This is to allow for an efficient and focused mentorship without impacting the capacity of the team. You can, of course, adjust this depending on the size of the team but please consider the impact of mentoring when scheduling internships.
 
-#### Individual Growth Plan 
-
-The [Individual Growth Plan (IGP)](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) is a great way to take initiative of your career growth. 
-
-Maybe you aren't sure where to start or you are having trouble filling out your IGP, we recommend watching the [How to Develop your Career Plan](https://www.linkedin.com/learning/how-to-develop-your-career-plan/introduction?u=2255073) course on LinkedIn Learning. 
-
-Steps: 
-1. Open the [Individual Growth Plan (IGP) Template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
-1. Make a copy of the template + save to your drive
-1. Fill out the template 
-1. Review with your manager 
-1. Start working towards your goals! 
-
-##### GitLab Team Member Using the IGP
-
-The video below is an interivew with a GitLab team member who has used the Individual Growth Plan in their career development. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ih0lMoKxN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-##### IGP Live Learning
-
-The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dJezH0ToqLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### Tracking your Accomplishments 
-
-Some people may call it a "brag sheet" some call it a CREDIT Tracker, either way, it's a great place to put all of your accomplishments and positive feedback. We encourage you to utizlize the Accomplishment tracker in conjunction with the IGP and GitLab Epics. 
-
-Steps: 
-1. Go to the [Accomplishment Tracker Template](https://docs.google.com/document/d/1tBjEbX-p4MYinEsdU-91KDQ_BJkihwrBKZ0n9yfdLjo/edit?usp=sharing)
-1. Make a copy + save to your drive
-1. Start filling it out (check out the video below for a walkthrough)
-
-##### Using your Accomplishment Tracker
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p4a60slPg5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Health Tracker: Growth Plan
-
-Consider making a copy of this [Google sheet template](https://docs.google.com/spreadsheets/d/1Pr_yl8TRAXucSr4qYml6TdsO86PgiaKB/edit#gid=2104005676) to track the current status and long term goals you've set for both your personal and professional growth.
-
-### External Resources some with no cost
-
-- [Stanford's Centre for Professional Development](http://scpd.stanford.edu/home)
-- [Yale Open Courseware](https://oyc.yale.edu/)
-- [MIT Open Courseware](https://ocw.mit.edu/index.htm)
-- [Notre Dame Open Courseware](https://www.edx.org/school/notredamex)
-
-- [WorkLife with Adam Grant Podcast](https://www.ted.com/series/worklife_with_adam_grant)
-
-- [Dose of Leadership with Richard Rierson - Authentic & Courageous Leadership Development](https://www.stitcher.com/podcast/dose-of-leadership-podcast)
-
-### Career Development Handbook Learning Session
-
-On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team had a handbook learning session with Eric Johnson, CTO, about career development. 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/hYahDZ9nIWA" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-### Internal Resources
-
-During our Career Development workshops at Contribute, May 2019 we took team members through tips to creating a clear growth (aka development) plan. Below are the resources from that session:
-
-- [Career Development Workshop, slides](https://docs.google.com/presentation/d/1yY0ofMGgzN07ylTAnRP5geFnWcgUYkiVlcIyR54tpD0/edit#slide=id.g29a70c6c35_0_68)
-- [Individual Growth Plan template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
-- [Tips for Creating Effective Growth Plans](https://docs.google.com/document/d/1O45gRkQqUa3dEgjJXGwdBE7iZbBI22EPC7zrkS3T4dM/edit)
-- [Talent Assessment template](https://docs.google.com/document/d/1XT1l1STUBilDdVGHXlCcmSE5ApxwVqO1Ln4Wk8e1Fpk/edit)
-- [Individual Development Plan in Security](/handbook/engineering/security/individual-development-plan.html)
-
-### Internal Opportunities to expand exposure
-
-There are various internal opportunities to expand a team member's exposure to multiple parts of the organization.  These include:
-
-- Participation in a [Team Member Resource Group (TMRG)](https://about.gitlab.com/company/culture/inclusion/erg-guide/)
-- Work on a [Working Group (WG)](https://about.gitlab.com/company/team/structure/working-groups/)
-- Do an [apprenticeship](https://about.gitlab.com/handbook/engineering/career-development/#apprenticeship-for-learning) on another team
-- Writing for the [GitLab Blog](https://about.gitlab.com/handbook/marketing/blog/unfiltered/)
-- Apply to do the [CEO shadow program](https://about.gitlab.com/handbook/ceo/shadow/) for two weeks
-- When appropriate and possible, attending some of the staff meetings of the team members manager's manager
-
-### Having Career Development Conversations
-
-#### Having Career Development Conversations with your Manager
-
-The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/JA3NNTGoELU" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-#### Having Career Development Conversations with your Team
-
-The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/f1T2KKlrZCY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-### Career Development Conversation Acknowledgements
-
-Career development is a key factor in team member engagement and role satisfaction. As part of the FY'20 GitLab annual [engagement survey results](/handbook/people-group/engagement/) it was clear that team members want to have meaningful conversations with their managers on an annual basis or even more frequently. Starting in FY'22 we will be tracking career development conversations via BambooHR. 
-
-#### Cadence
-
-This process is just an acknowledgement by the team member that they have had career conversations. Aligned with the Performance/Potential [matrix cadence](/handbook/people-group/performance-assessments-and-succession-planning/#regular-cadence), formal career conversations will ideally happen twice per year:
-
-* Once in Q2
-* Once in Q4
-
-The bi-annual cadence is not required, but recommended. Some team members may prefer annual career conversations, other team members may prefer more informal check-ins quarterly. This is a personal decision that should be made between team member and manager. The minimal recommended cadence for career development conversations is annnually, the most frequency recommended cadence is quarterly. 
-
-#### Process 
-
-_Please note that while managers can facilitate career development conversations with team members and help guide growth plans by using our [internal resources](/handbook/people-group/learning-and-development/career-development/#internal-resources),  managers cannot complete the acknowledgement process for team members. The team member is responsible for the acknowledgement in BambooHR._
-
-Starting FY'22 (exact date is TBD) team members will receive a notice via BambooHR to acknowledge that a career conversation has occurred. By signing the acknowledgement you are confirming that you have indeed had a career development conversation during the specified time period (Q2 or Q4 respectively).
-
-*  This is not mandatory, however we highly encourage all team members to discuss their career goals with their manager.
-*  There is not one right way to document a career development conversation. Some team members may use their 1:1 document to capture the conversation and actions, others may use the [tools provided above](/handbook/people-group/learning-and-development/career-development/#internal-resources) to help guide the conversation, or a team member may use their own personal template or process to have a career development conversation.
-*  There is no timeline or deadline on this process, however, the goal is for all team members to acknowledge at least one career development conversation in FY'22. 
-*  If you have not had a career conversation yet it is up to you to schedule a time to review and discuss with your manager.  
-*  If you are new to GitLab the recommendation is that you start career conversations after your first 90 days.
-*  Career conversations should not be confused with promotion conversations. Team members who do not want to increase their scope of work or be promoted, but are performing, should not feel pressured to move up or out. Career conversations can also focus on helping team members identify projects or other activities that keep the team member engaged and learning new skills. _Please note that development can also include lateral moves, or moving to another speciality within the same job family and job level._  
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/xUNupnJyTNY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-### Career Mapping and Development
-{:#career-mapping-and-development}
-
-We have started this process at GitLab by defining Junior, Senior and Staff advancement levels. Career Mapping helps GitLab team-members to understand and develop the skills they need to achieve their goals, giving them clear criteria.
-Mapping helps managers and leaders internally develop the skills and knowledge they need to achieve future business goals. The key to this is to identify the key skills, knowledge, and abilities needed to master each level. Another essential tool is a career development plan, here are some examples:
-
-- [Career Plan](https://docs.google.com/document/d/1hJIzMnVhEz3X4k24oAwNnlgGhBeQ518Cps9kLVRRoWQ/edit)
-- [Template  - Development Scorecard](https://docs.google.com/spreadsheets/d/1DBrukzzsV6InaCkZf8_ngLeTcLQ9uj6ynE93qLmHkQA/edit#gid=1677297587)
-- [Career Plan Template](https://performancemanager.successfactors.com/doc/po/develop_employee/carsample.html)
-
-Managers should discuss career development at least once a month at the [1:1](/handbook/leadership/1-1/) and then support their team members with creating a plan to help them achieve their career goals. If you would to know more about this please checkout the [career mapping course video](https://www.youtube.com/watch?v=YoZH5Hhygc4)
-
-### The Relationship Between Learning and Development and Promotion
-
-As is highlighted in our [Leadership](/handbook/leadership/1-1/#key-points) section, GitLab team members should not feel pressure to climb the proverbial ladder. We recognize that not everyone wants to advance or move to a new level, and that is supported. Developing one's skills and promotion at the company are not mutually exclusive.
-
-It is perfectly acceptable to seek out learning and development opportunities — to sharpen one's understanding of a coding language to better understand a function, etc. — yet not strive for promotion beyond your current role. Some team members are happier and more productive without managing a team, for example.
-
-As detailed in GitLab's [Definition of Diversity, Inclusion & Belonging ](/company/culture/inclusion/), we recognize that unique characteristics and experiences form how we as individuals approach challenges and solve problems. They also shape how we view success in our individual careers and lives. Not everyone views promotion as a measure of success, and team members will not be thought less of or penalized for holding this view.
-
-As part of GitLab's [Transparency](/handbook/values/#transparency) value, team members are encouraged to be open and honest with their manager. You are encouraged to learn and develop your skills without pressure to in turn seek promotion. If you feel you are not being supported in this way, please visit the [Need Help?](/handbook/people-group/#reach-peopleops) portion of the People Group Handbook.
-
-#### Recomendations for Managers to support the learning of team members
-
-Managers should support their direct reports with career and professional development goals. Managers can help direct reports by implementing the following into their [1-1](/handbook/leadership/1-1/), team meetings, and async communications. 
-
-- Encourage team members to incorporate learning and professional development into their [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources-1) or using [Gitlab Epics to track career development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development). 
-- Utilize the [Growth & Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) for professional development opportunities
-- Ensure that direct reports prioritize learning, and support different learning styles: 
-     - Recommend blocking time to take [time out to learn](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign). This can be on a weekly, monthly, or quarterly basis; whatever works best for the reports learning goals. 
-    - Organize communities of learning within your team and cross-functional ones to encourage [social learning.](/handbook/people-group/learning-and-development/learning-initiatives/#social-learning-through-live-learning)
-    - Be the example for your team by sharing career and professional development pursuits you are currently looking into and completing in synchronous and asynchronous communications. 
-- Create a team or functional [Learning Hub](/handbook/people-group/learning-and-development/work-with-us/#creating-a-learning-hub-for-your-team) on [GitLab Learn](/handbook/people-group/learning-and-development/gitlab-learn/) to organize team learning paths and activities to promote self-service and self-paced learning. 
-    - Curate content in GitLab by reviewing offerings in [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/), the Handbook, external vendors, and open-source material that apply to the role and skills needed for the team. 
-    - Document learning in a centralized knowledge base in GitLab Learn and a Handbook page. 
-
-
-### E-Group Performance Enablement Review
-
-Effective FY21, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](/company/team/#sytses), at the beginning of the new fiscal year. These conversations will assess alignment to each of our [credit values](https://about.gitlab.com/handbook/values/#credit), performance and personal development.
- 
-The E-Group will follow a similar process to our GitLab team member process with the additional requirement of a [self review](https://docs.google.com/document/d/1pi-nv6NtMejosVOXlr1O4rZGxmGUzuN01OMnXn5dxKU/edit#). 
-
-**Performance Factors**
-
-- Developing in role i.e. you are new to company / new to role  or there is performance development required
-- Performing in role i.e. you are meeting all requirements
-- Exceeding in role i.e. you are knocking it out of the park
-
-**Compensation Reviews**
-
-When conducting compensation reviews for the E-Group, GitLab will review two items: 
-1. Alignment to market rates 
-1. Performance factors 
-
-### Use GitLab Epics to track your career development
-
-Epics are a great way to [transparently](/handbook/values/#transparency) and [efficiently](/handbook/values/#efficiency) track your work and map learning back to your [results](/handbook/values/#results).
-
-Here are some ways you can use Epics when organizing your career development work. Here are two examples from the Learning and Development team: [Example 1](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/43), [Example 2](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/47)
-
-Below is a short video from the L&D team reviewing how and why you might choose to use epics for career development tracking:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xuisSgBQtaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-1. Open an epic in a personal or team project
-1. Use the description to highlight your learning goals, ideal programs or resources you want to review, considerations when planning, etc.
-1. Open issues to track actions you'll take as a result or inspriationo of learning resources you've used
-1. Add those issues as related to your epic. If you can't add the related issues becuase they are in differnet projects, consider starting a new thread in the epic that links to any and all issues that are a result of, or impacted by, your career development work
 
 ### Skill of the Month
 
-In August 2021 we are holding a Career Development Skill of the Month. All items are linked in the [FY22 Skill of the Month](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) GitLab Learn Channel. All of the Async AMA Issues can be found in the [Career Development Interviews 2021 Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/68). More will be added to this section as we go through the weeks of the month. 
+In August 2021 we held a Career Development Skill of the Month. All items are linked in the [FY22 Skill of the Month](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) GitLab Learn Channel. All of the Async AMA Issues can be found in the [Career Development Interviews 2021 Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/68). More will be added to this section as we go through the weeks of the month. 
 
 #### Week 1 
 
@@ -355,3 +203,168 @@ In August 2021 we are holding a Career Development Skill of the Month. All items
 #### Week 5
 
 - [Career Development with Sherrod Patching](https://gitlab.edcast.com/pathways/career-development-with-sherrod-patching)
+
+
+## Tracking your Career Development
+
+### Individual Growth Plan 
+
+The [Individual Growth Plan (IGP)](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) is a great way to take initiative of your career growth. 
+
+Maybe you aren't sure where to start or you are having trouble filling out your IGP, we recommend watching the [How to Develop your Career Plan](https://www.linkedin.com/learning/how-to-develop-your-career-plan/introduction?u=2255073) course on LinkedIn Learning. 
+
+Steps: 
+1. Open the [Individual Growth Plan (IGP) Template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
+1. Make a copy of the template + save to your drive
+1. Fill out the template 
+1. Review with your manager 
+1. Start working towards your goals! 
+
+#### GitLab Team Member Using the IGP
+
+The video below is an interivew with a GitLab team member who has used the Individual Growth Plan in their career development. 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/0ih0lMoKxN0" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+#### IGP Live Learning
+
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/dJezH0ToqLk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+### Tracking your Accomplishments 
+
+Some people may call it a "brag sheet" some call it a CREDIT Tracker, either way, it's a great place to put all of your accomplishments and positive feedback. We encourage you to utizlize the Accomplishment tracker in conjunction with the IGP and GitLab Epics. 
+
+Steps: 
+1. Go to the [Accomplishment Tracker Template](https://docs.google.com/document/d/1tBjEbX-p4MYinEsdU-91KDQ_BJkihwrBKZ0n9yfdLjo/edit?usp=sharing)
+1. Make a copy + save to your drive
+1. Start filling it out (check out the video below for a walkthrough)
+
+#### Using your Accomplishment Tracker
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/p4a60slPg5k" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+### Health Tracker: Growth Plan
+
+Consider making a copy of this [Google sheet template](https://docs.google.com/spreadsheets/d/1Pr_yl8TRAXucSr4qYml6TdsO86PgiaKB/edit#gid=2104005676) to track the current status and long term goals you've set for both your personal and professional growth.
+
+### Use GitLab Epics to track your career development
+
+Epics are a great way to [transparently](/handbook/values/#transparency) and [efficiently](/handbook/values/#efficiency) track your work and map learning back to your [results](/handbook/values/#results).
+
+Here are some ways you can use Epics when organizing your career development work. Here are two examples from the Learning and Development team: [Example 1](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/43), [Example 2](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/47)
+
+Below is a short video from the L&D team reviewing how and why you might choose to use epics for career development tracking:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xuisSgBQtaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+1. Open an epic in a personal or team project
+1. Use the description to highlight your learning goals, ideal programs or resources you want to review, considerations when planning, etc.
+1. Open issues to track actions you'll take as a result or inspriationo of learning resources you've used
+1. Add those issues as related to your epic. If you can't add the related issues becuase they are in differnet projects, consider starting a new thread in the epic that links to any and all issues that are a result of, or impacted by, your career development work
+
+## Career Mapping and Development
+{:#career-mapping-and-development}
+
+We have started this process at GitLab by defining Junior, Senior and Staff advancement levels. Career Mapping helps GitLab team-members to understand and develop the skills they need to achieve their goals, giving them clear criteria.
+Mapping helps managers and leaders internally develop the skills and knowledge they need to achieve future business goals. The key to this is to identify the key skills, knowledge, and abilities needed to master each level. Another essential tool is a career development plan, here are some examples:
+
+- [Career Plan](https://docs.google.com/document/d/1hJIzMnVhEz3X4k24oAwNnlgGhBeQ518Cps9kLVRRoWQ/edit)
+- [Template  - Development Scorecard](https://docs.google.com/spreadsheets/d/1DBrukzzsV6InaCkZf8_ngLeTcLQ9uj6ynE93qLmHkQA/edit#gid=1677297587)
+- [Career Plan Template](https://performancemanager.successfactors.com/doc/po/develop_employee/carsample.html)
+
+Managers should discuss career development at least once a month at the [1:1](/handbook/leadership/1-1/) and then support their team members with creating a plan to help them achieve their career goals. If you would to know more about this please checkout the [career mapping course video](https://www.youtube.com/watch?v=YoZH5Hhygc4)
+
+
+## Having Career Development Conversations
+
+### Having Career Development Conversations with your Manager
+
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/JA3NNTGoELU" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### Having Career Development Conversations with your Team
+
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/f1T2KKlrZCY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+#### Recomendations for Managers to support the learning of team members
+
+Managers should support their direct reports with career and professional development goals. Managers can help direct reports by implementing the following into their [1-1](/handbook/leadership/1-1/), team meetings, and async communications. 
+
+- Encourage team members to incorporate learning and professional development into their [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources-1) or using [Gitlab Epics to track career development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development). 
+- Utilize the [Growth & Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) for professional development opportunities
+- Ensure that direct reports prioritize learning, and support different learning styles: 
+     - Recommend blocking time to take [time out to learn](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign). This can be on a weekly, monthly, or quarterly basis; whatever works best for the reports learning goals. 
+    - Organize communities of learning within your team and cross-functional ones to encourage [social learning.](/handbook/people-group/learning-and-development/learning-initiatives/#social-learning-through-live-learning)
+    - Be the example for your team by sharing career and professional development pursuits you are currently looking into and completing in synchronous and asynchronous communications. 
+- Create a team or functional [Learning Hub](/handbook/people-group/learning-and-development/work-with-us/#creating-a-learning-hub-for-your-team) on [GitLab Learn](/handbook/people-group/learning-and-development/gitlab-learn/) to organize team learning paths and activities to promote self-service and self-paced learning. 
+    - Curate content in GitLab by reviewing offerings in [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/), the Handbook, external vendors, and open-source material that apply to the role and skills needed for the team. 
+    - Document learning in a centralized knowledge base in GitLab Learn and a Handbook page. 
+
+### Career Development Conversation Acknowledgements
+
+Career development is a key factor in team member engagement and role satisfaction. As part of the FY'20 GitLab annual [engagement survey results](/handbook/people-group/engagement/) it was clear that team members want to have meaningful conversations with their managers on an annual basis or even more frequently. Starting in FY'22 we will be tracking career development conversations via BambooHR. 
+
+### Cadence
+
+This process is just an acknowledgement by the team member that they have had career conversations. Aligned with the Performance/Potential [matrix cadence](/handbook/people-group/performance-assessments-and-succession-planning/#regular-cadence), formal career conversations will ideally happen twice per year:
+
+* Once in Q2
+* Once in Q4
+
+The bi-annual cadence is not required, but recommended. Some team members may prefer annual career conversations, other team members may prefer more informal check-ins quarterly. This is a personal decision that should be made between team member and manager. The minimal recommended cadence for career development conversations is annnually, the most frequency recommended cadence is quarterly. 
+
+### Process 
+
+_Please note that while managers can facilitate career development conversations with team members and help guide growth plans by using our [internal resources](/handbook/people-group/learning-and-development/career-development/#internal-resources),  managers cannot complete the acknowledgement process for team members. The team member is responsible for the acknowledgement in BambooHR._
+
+Starting FY'22 (exact date is TBD) team members will receive a notice via BambooHR to acknowledge that a career conversation has occurred. By signing the acknowledgement you are confirming that you have indeed had a career development conversation during the specified time period (Q2 or Q4 respectively).
+
+*  This is not mandatory, however we highly encourage all team members to discuss their career goals with their manager.
+*  There is not one right way to document a career development conversation. Some team members may use their 1:1 document to capture the conversation and actions, others may use the [tools provided above](/handbook/people-group/learning-and-development/career-development/#internal-resources) to help guide the conversation, or a team member may use their own personal template or process to have a career development conversation.
+*  There is no timeline or deadline on this process, however, the goal is for all team members to acknowledge at least one career development conversation in FY'22. 
+*  If you have not had a career conversation yet it is up to you to schedule a time to review and discuss with your manager.  
+*  If you are new to GitLab the recommendation is that you start career conversations after your first 90 days.
+*  Career conversations should not be confused with promotion conversations. Team members who do not want to increase their scope of work or be promoted, but are performing, should not feel pressured to move up or out. Career conversations can also focus on helping team members identify projects or other activities that keep the team member engaged and learning new skills. _Please note that development can also include lateral moves, or moving to another speciality within the same job family and job level._  
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/xUNupnJyTNY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+
+## E-Group Performance Enablement Review
+
+Effective FY21, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](/company/team/#sytses), at the beginning of the new fiscal year. These conversations will assess alignment to each of our [credit values](https://about.gitlab.com/handbook/values/#credit), performance and personal development.
+ 
+The E-Group will follow a similar process to our GitLab team member process with the additional requirement of a [self review](https://docs.google.com/document/d/1pi-nv6NtMejosVOXlr1O4rZGxmGUzuN01OMnXn5dxKU/edit#). 
+
+**Performance Factors**
+
+- Developing in role i.e. you are new to company / new to role  or there is performance development required
+- Performing in role i.e. you are meeting all requirements
+- Exceeding in role i.e. you are knocking it out of the park
+
+**Compensation Reviews**
+
+When conducting compensation reviews for the E-Group, GitLab will review two items: 
+1. Alignment to market rates 
+1. Performance factors 
+
+
