@@ -17,11 +17,17 @@ description: "GitLab Data Team Organization"
 # Data Team Organization
 
 The Data Team Organization model is guided by three primary business needs:
-1. delivery of bespoke data solutions, usually requiring integration from across data domains and ranging in quality requirements from ad-hoc to trusted
-1. a a high-performance, stable, and reliable data storage and compute platform to support distributed analyst teams
-1. a center of excellence for advanced analytics and data science
 
-Based on these needs, the Data Team is organized into three __Business-Focused__ and __Business-Involved__ teams responsible for delivering data solutions that we call [**Fusion Teams**](/handbook/business-technology/data-team/#data-fusion-teams) and two centers of technical and analytical excellence, the [Data Platform & Engineering Team](https://about.gitlab.com/handbook/business-technology/data-team/#the-data-platform--engineering-team) and the [Data Science Team](/handbook/business-technology/data-team/#the-data-science-team). Read more about how the team is organized and how we work with the rest of GitLab in [How Data Works at GitLab](/handbook/business-technology/data-team/#how-data-works-at-gitlab).
+1. The need for **bespoke data solutions** unique to the GitLab business.
+1. The need for **high-performance and reliable data storage and compute** platform to support distributed analyst teams.
+1. The need for centers of excellence for **data technologies** and **advanced analytics**.
+1. The need for flexible data solutions driven by varying **urgency and quality** requirements.
+
+Based on these needs, the Data Team is organized in the following way:
+
+1. **[Data Fusion Teams](/handbook/business-technology/data-team/#data-fusion-teams):** __Business-Focused__ and __Business-Involved__ teams responsible for delivering data solutions
+1. **[Data Platform & Engineering Team](/handbook/business-technology/data-team/#the-data-platform--engineering-team):** __Center of Excellence__ for data technologies, including owning and operating the Data Stack
+1. **[Data Science Team](/handbook/business-technology/data-team/#the-data-science-team):** __Center of Excellence__ for advanced analytics, including delivery of data science projects to the business
 
 ## Data Fusion Team Organization
 
