@@ -425,7 +425,7 @@ If you are a GitLab Team Member and interested in participating in the course, y
 After you've completed the Crucial Conversations course at GitLab, there are a few ways you can continute to practice your skills:
 
 1. Attend the **Crucial Conversations Alumni sync session**. This 25-minute call happens every other month starting in January 2022. Check the GitLab team member's calendar for the invitation
-1. Star and check the **#crucial-conversations** [Slack channel](https://app.slack.com/client/T02592416/C0258087472/user_profile/UBE4ZBF1N)for async discussion every other month, starting in January 2022
+1. Star and check the **#crucial-conversations** [Slack channel](https://app.slack.com/client/T02592416/C0258087472/user_profile/UBE4ZBF1N)for async discussion every other month, starting in February 2022
 1. Consider building your own system to practice your skills, like [this example using GitLab](https://gitlab.com/abrams-career-development/crucial-conversations)
 
 ## New team member Slack training
