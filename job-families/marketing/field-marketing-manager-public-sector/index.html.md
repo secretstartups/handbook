@@ -21,6 +21,7 @@ The Public Sector Field Marketing Manager has the same expectations as other [Fi
 ### Requirements
 
 The Public Sector Field Marketing Manager has the same requirements as other [Field Marketing Managers](/job-families/marketing/field-marketing-manager/), as well as additional public sector requirements.  
+* Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ### Additional Requirements for US Public Sector
 
