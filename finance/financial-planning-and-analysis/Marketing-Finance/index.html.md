@@ -19,10 +19,26 @@ title: "Marketing Finance"
 
 ## Finance Business Partner Alignment
 
-| Name | Function |
-| -------- | ---- |
-| @cmachado1 | Sr. Manager |
-| @cmcclure1 | Financial Analyst |
+| Roll Up | Department | Name |
+| -------- | ---- | -------- |
+| Corporate Marketing | Awareness | @cmcclure1 |
+| Corporate Marketing | Brand Activation | @cmcclure1 | 
+| Corporate Marketing | Communication | @cmcclure1 |
+| Corporate Marketing | Community Relations | @cmcclure1 |
+| Corporate Marketing | Content | @cmcclure1 |
+| Corporate Marketing | Search Marketing | @cmcclure1 |
+| Product Marketing | Product Marketing | @cmcclure1 |
+| Revenue Marketing | Sales Development| @cmcclure1 |
+| Growth Marketing | Digital Design | @rcallam |
+| Growth Marketing | Marketing Ops | @rcallam |
+| CMO Executive | CMO Executive | @rcallam |
+| Integrated Marketing | Digital Marketing | @rcallam |
+| Integrated Marketing | Partner Marketing | @rcallam |
+| Integrated Marketing | Campaigns | @rcallam |
+| Integrated Marketing | Field Marketing | @rcallam |
+| Integrated Marketing | ABM | @rcallam |
+
+
 
 
 ## Marketing Variance Packages
