@@ -40,7 +40,7 @@ Next, let’s add a file with a known vulnerability and see if SAST detects it.
 1. Navigate away from the Web IDE and back to your project overview page by clicking the **CI Test** project title in the top left of the page.
 2. Near the top left of the page, click the `+` icon to the right of the `main` branch name. Under **This directory**, click **New file**.
 3. In the **File name** field, type `main.go`
-4. Open this [snippet](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-with-git-basics/gitlab-flow-demo/-/snippets/1) in a separate tab. Copy the content of that snippet. Paste it into the empty `main.go` file in your original GitLab tab.
+4. Open this [snippet](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-with-git-basics/gitlab-flow-demo/-/snippets/26) in a separate tab. Copy the content of that snippet. Paste it into the empty `main.go` file in your original GitLab tab.
 5. Click **Commit changes**.
 6. In the left-hand navigation pane, click **CI/CD > Pipelines**. 
 7. In the top row of the table of pipelines, click the **running** or **passed** status label. Under the **Test** stage, you should see a new `gosec-sast` job. This job does SAST scanning for Go code.

@@ -6,7 +6,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 # GitLab with Git Basics Hands-on Guide: Lab 3
 {:.no_toc}
 
-## LAB 3: USE GITLAB TO PUSH CODE
+## LAB 3: USE GITLAB TO MERGE CODE
 
 ### Create a new project and issue
 1. Navigate to your group.

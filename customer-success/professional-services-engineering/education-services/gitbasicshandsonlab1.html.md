@@ -9,9 +9,9 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 ## LAB 1: CREATE A PROJECT AND ISSUE
 
 ### Create a project
-1. In the top navigation bar, click Menu > Groups > Your Groups.
-- If you are in an instructor-led class, expand the arrow to the left of the Training Users group. Expand the arrow to the left of your Session's subgroup. Open the subgroup called My Test Group - <USERNAME>.
-- If you are in the self-paced environment, open the group called My Test Group - <USERNAME>.
+1. In the top navigation bar, click **Menu > Groups > Your Groups**.
+    - If you are in an instructor-led class, expand the arrow to the left of the **Training Users** group. Expand the arrow to the left of your Session's subgroup. Open the subgroup called **My Test Group - \<USERNAME\>**.
+    - If you are in the self-paced environment, open the group called **My Test Group - \<USERNAME\>**.
 
 1. Click the **New project** button. Click **Create blank project**.
 1. In the **Project name** field, enter `Top Level Project`<br/>
