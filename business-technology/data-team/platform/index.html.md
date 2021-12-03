@@ -37,13 +37,13 @@ We use GitLab to operate and manage the analytics function.
 Everything starts with an issue.
 Changes are implemented via merge requests, including changes to our pipelines, extraction, loading, transformations, and parts of our analytics.
 
-| Stage           |              Tool             |
+| Stage           |              Tools             |
 | :-------------- | :---------------------------: |
-| Extraction      |  Stitch, Fivetran, and Custom |
-| Loading         |  Stitch, Fivetran, and Custom |
-| Orchestration   |            Airflow            |
-| Data Warehouse  |           Snowflake           |
-| Transformations |     dbt and Python scripts    |
+| Extraction      | Stitch, Fivetran, and Custom Code |
+| Loading         | Stitch, Fivetran, and Custom Code |
+| Orchestration   | Airflow |
+| Data Warehouse  | Snowflake Enterprise Edition |
+| Transformations | dbt and Python scripts |
 | Data Visualization | Sisense For Cloud Data Teams‎ |
 | Advanced Analytics | jupyter‎ |
 
@@ -57,7 +57,7 @@ For source ownership please see [the Tech Stack Applications sheet (internal onl
 
 ### Data Sources
 
-The following table indexes all of the RAW data sources we are loading into the data wareouse. We manage the development backlog and priorities in the [New Data Source/Pipeline Project Management](https://docs.google.com/spreadsheets/d/14uqsAIqRnyyL9Ta39QYwheXnf0k86yTTIKhrkY_1el8/edit#gid=0) sheet, with links to GitLab issues for up-to-date status and progress management. The [new data source handbook](/handbook/business-technology/data-team/how-we-work/new-data-source/) page describes how the Data Team handles any request for new data sources. 
+The following table indexes all of the RAW data sources we are loading into the data warehouse from external locations. We manage the development backlog and priorities in the [New Data Source/Pipeline Project Management](https://docs.google.com/spreadsheets/d/14uqsAIqRnyyL9Ta39QYwheXnf0k86yTTIKhrkY_1el8/edit#gid=0) sheet, with links to GitLab issues for up-to-date status and progress management. The [new data source handbook](/handbook/business-technology/data-team/how-we-work/new-data-source/) page describes how the Data Team handles any request for new data sources. 
 
 **Key**
 - Pipeline: The technology we use to replicate data.
@@ -112,14 +112,6 @@ The following table indexes all of the RAW data sources we are loading into the 
 | **Description**  | - Trusted Data solutions that are most important and business critical. <br><br> - Components needs to  be available and refreshed to ensure day-by-day operation | - Data solutions that are important and beneficial for gathering insights. <br><br> - Components should be available and refreshed to supporting day-by-day operation | - Data solutions that are important for for Ad-Hoc, periodically or one-time analysis. <br><br> - Components could be unavailable or data not refreshed. |
 |**Criteria**|- Any data, process, or related service that would result in a $100k or _higher_ business impact if unavailable for 24 hours <br><br>-  Affecting more than 15 business users | - Any data, process, or related service that would result in  _less_  than $100k business impact if unavailable for 24 hours <br><br> - Affecting between 5 and 15 business users | - Any data, process or related service that would _not_ result in a immediate business impact if unavailable for more than 5 working days <br><br> - Affecting less then 5 business users |
 |**Impact due to outage**|Severe|Lenient|Negligible |
-
-### Adding new Data Fields
-
-To add new fields to the BambooHR extract:
-
-- Create a new issue in the Analytics project using the BambooHR template
-- Gain approval from a Data Team Manager and the Compensation and Benefits Manager
-- Once approved, assign to the Compensation and Benefits Manager and a Data Engineer who will verify the extract
 
 ### Data Team Access to Data Sources
 
