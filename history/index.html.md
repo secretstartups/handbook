@@ -74,6 +74,8 @@ This year we celebrated 10 years of GitLab, marking a decade since the [first co
 
 On October 14, 2021, GitLab Inc. [became a publicly traded company](/blog/2021/10/14/gitlab-inc-takes-the-devops-platform-public/) on the Nasdaq Global Market (NASDAQ: GTLB).
 
+## Watch the video of GitLab's Listing Day
+
 <figure class="video_container">
    <iframe src="https://player.vimeo.com/video/650088717?h=c4db5327bd" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </figure>
