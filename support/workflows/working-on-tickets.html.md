@@ -13,9 +13,9 @@ description: How to resolve users' problems by solving tickets on a daily basis.
 
 ## What is the "Working on Tickets" workflow?
 
-The [core responsibility of GitLab Support Engineers](/handbook/support/support-engineer-responsibilities.html) is to resolve user problems by solving support tickets on a daily basis. You accomplish this using the "Working on Tickets" workflow. The focus is **being responsible for the continuous progress toward resolution of a specific set of tickets**. What does this look like?
+The [core responsibility of GitLab Support Engineers](/handbook/support/support-engineer-responsibilities.html) is to resolve user problems by solving support tickets on a daily basis. You accomplish this using the "Working on Tickets" workflow. The focus is **being responsible for the continuous progress toward resolution of a specific set of tickets**.
 
-When you're "Working on Tickets", you're driving achievement of our KPI of [Support Satisfaction](/handbook/support/performance-indicators/#support-satisfaction-ssat) by helping to resolve tickets as quickly and effectively as possible.
+When you are "Working on Tickets", you contribute to the achievement of our teamwide [Support Satisfaction](/handbook/support/performance-indicators/#support-satisfaction-ssat) and [First Response Time](/handbook/support/performance-indicators/#service-level-agreement-sla) KPIs by helping to resolve tickets as quickly and effectively as possible.
 
 ## How do we prioritize tickets?
 
