@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: Commercial Sales
+department: >-
+  The Commercial Sales department at GitLab focuses on delivering maximum value
+  to SMB and Mid-Market customers throughout their entire journey with GitLab
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -51,6 +59,7 @@ Below is a list of resources considered highly valuable for continuous learning 
 - [Sales & SDR Enablement Sessions](/handbook/sales/training/sales-enablement-sessions/) Weekly training sessions covering popular product, market and sales training topics chosen by the sales and marketing team members.
 - [Product Study Guide](/handbook/marketing/strategic-marketing/tiers/) A study course for team members to understand the current full scope of capabilities offered in each tier of GitLab and reasons for tier upgrades.
 - [Sales Training](/handbook/sales/training/) page
+- [Commercial Sales Enablement](https://about.gitlab.com/handbook/sales/commercial/enablement/) page
 
 ### Events
 
@@ -302,17 +311,13 @@ GitLab.com Trials & Subscription Management
 
 #### Close Date Conventions
 
-``` sse
 <span class="colour" style="color: rgb(0, 0, 0);">First, forecasting, down to even the opportunity level, is a routine exercise for accuracy, not motivation or aspiration. Each week on Wednesday it is required to update five values in Clari by close of business (5 PM) local time.  This is Renewal Loss Best Case, Renewal Loss Best Case, Gross Net ARR Best Case, Gross Net ARR Commit, and Net 50/50.  At this time, it is required to double-check pipeline cleanliness and always follow the close date conventions listed here.</span>
-```
 
 1. <span class="colour" style="color:rgb(0, 0, 0)">The close date should always be in the month that you believe it has the most likely chance of closing (with only one exception as dictated below).</span>
 1. <span class="colour" style="color:rgb(0, 0, 0)">At **all times** the Net ARR amount should reflect your best estimate of the actual amount that the opportunity will have on it when it closes in the month reflected in the close date. There are no exceptions other than returning from an onsite visit, even if you have not spoken with the account. If you get a new opp you should quickly assess the account and, given your experience, make an educated guess on what amount the company will transact at.</span>
 1. <span class="colour" style="color:rgb(0, 0, 0)">The Stage represents where you believe the customer is in their buying process, not only the specific steps they have taken with you.</span>
 
-``` sse
 <span class="colour" style="color: rgb(0, 0, 0);">The three close dates:</span>
-```
 
 1. <span class="colour" style="color:rgb(0, 0, 0)">Last day of the month it will close in **only if you have a compelling event defined**</span>
 1. <span class="colour" style="color:rgb(0, 0, 0)">The actual day the opportunity will close when the quote goes out for signature. It will appear past due if we don’t get the signature back and pushes to the Friday of the week it should close.  Renewals default to this convention</span>
@@ -537,12 +542,10 @@ It is the goal of this team to make the first transaction with GitLab:
 
 1. As a general rule, Sales Development Representatives (SDRs) own leads and Account Executives (AEs) own accounts and opportunities. It is the Account Executive's job to help the SDR understand how the First Order team works and what the expectations are. The expectations are as follows:
 
-``` sse
    - Reach out to all [Marketing Qualified Leads](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#:~:text=The%20lead%20scoring%20model%20is,Score%20and%20their%20Demographic%20Score%20.) (MQLs) within one hour of them being assigned to the SDR.
     - The first outreach should be a phone call if there is a phone number listed
     - After the initial call, the SDR should email the prospect using either the sequence designated for trial requests and contact requests or the sequence designated for all other MQLs.
     - If an MQL or inquiry hasn't been actioned after two weeks of being assigned to the SDR, the AE has permission to reach out to the lead.
-```
 
 #### First Order Handoff Process
 
