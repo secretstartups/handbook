@@ -127,7 +127,7 @@ You can leverage quick actions to add the necessary labels.
 
     /confidential
 
-    /label ~security ~type::bug
+    /label ~security ~"type::bug"
     /label ~"section::securedefend" ~"devops::secure" ~"group::composition analysis"
 
     <!-- depending on the affected project: -->
