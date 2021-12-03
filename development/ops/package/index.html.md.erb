@@ -113,7 +113,16 @@ We expect to track the journey of users through the following funnel. You can vi
 
 Follow along our instrumentation and measurement of Package-related metrics in [gitlab-#2289](https://gitlab.com/groups/gitlab-org/-/epics/2289).
 
-### Issue boards
+### Issue boards and projects
+
+Issues for Package group can be found in the following projects:
+
+- [gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name[]=group%3A%3Apackage) - any issues for GitLab the product, this means all work and category issues.
+- [gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&state=opened&label_name[]=group%3A%3Apackage) - issues for any changes in handbook or blog
+- Inside gitlab-org [package-stage/package](https://gitlab.com/gitlab-org/ci-cd/package-stage/package/-/issues) - any issues related to team organization, team styles, how we work, etc.
+- [package-combined-team/team](https://gitlab.com/package-combined-team/team/-/issues) (private) - any issues that don't fit in the previous ones, and for major reasons, example, psychologically safe environment, we want to keep private to just the Package team members. Examples could be issues similar to retrospectives
+
+To plan, visualize and organize better our work, we use the following [issue boards](https://docs.gitlab.com/ee/user/project/issue_board.html#issue-boards):
 
 * [Package:Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1196366?&label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage) - Issue board showing milestone planning for current and future milestones.
 * [Package:Assignments](https://gitlab.com/groups/gitlab-org/-/boards/1200765?&label_name[]=group%3A%3Apackage) - Issue board organized by assignee to give a snapshot of who is working on what.
@@ -160,12 +169,30 @@ The purpose of the daily standup is to allow team members to have visibility int
 
 While it is encouraged to participate in the full variety of daily questions, it is completely acceptable to skip questions by entering `-`.
 
+The Geekbot asynchronous standup will be reserved for blocking items and merge announcements (merge parrot!). 
+
 #### Async Issue Updates
-The Geekbot asynchronous standup will be reserved for blocking items and merge announcements (merge parrot!). Our normal daily updates on progress and status will be added to the issues as a comment. A daily update may be skipped if there was no progress. It's preferable to update the issue rather than the related merge requests, as those do not provide a view of the overall progress. A weekly async update should be added to epics, providing an overview of the progress across related issues.
 
-The status comment should include what percentage complete the work is, the confidence of the person that their estimate is correct and, notes on what was done and/or if review has started. It could be good to include whether this is a front end or back end update if there are multiple people working on it. Finally, for each MR associated, please include an entry for each.
+The purpose of daily updates is to inspect progress and adapt upcoming planned work as necessary. In an all-remote culture, we keep the updates asynchronous and put them directly in the issues.
 
-Examples:
+The async daily update communicates the progress and confidence using an issue comment and the milestone health status using the Health Status field in the issue. A daily update may be skipped if there was no progress. It's preferable to update the issue rather than the related merge requests, as those do not provide a view of the overall progress. 
+
+A weekly async update should be added to epics, providing an overview of the progress across related issues.
+
+When communicating the health status, the options are:
+- `on track` - when the issue is progressing as planned 
+- `needs attention` - when the issue requires attention or intervention to keep it on schedule
+- `at risk` - when there is a risk the issue will not be completed according to schedule
+
+https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/94040#note_740865374
+
+The async update comment should include:
+- what percentage complete the work is, in other words, how much work is done to put all the required MRs in review
+- the confidence of the person that their estimate is correct
+- notes on what was done and/or if review has started
+- it could be good to include whether this is a front end or back end update if there are multiple people working on it 
+
+Example:
 ```
 Complete: 80%
 Confidence: 90%
@@ -173,6 +200,9 @@ Notes: expecting to go into review tomorrow
 Concern: ~frontend
 ```
 
+Include one entry for each associated MR
+
+Example:
 ```
 Issue status: 20% complete, 75% confident
 
@@ -180,6 +210,13 @@ MR statuses:
 !11111 - 80% complete, 99% confident - docs update - need to add one more section
 !21212 - 10% complete, 70% confident - api update - database migrations created, working on creating the rest of the functionality next
 ```
+
+##### How to measure confidence?
+
+Ask yourself, how confident am I that my % of completeness is correct?.
+
+For things like bugs or issues with many unknowns, the confidence can help communicate the level of unknowns. For example, if you start a bug with a lot of unknowns on the first day of the milestone you might have low confidence that you understand what your level of progress is.
+
 
 #### Workflow
 
@@ -202,6 +239,20 @@ Cross-group dependencies may exist as pre-requisites to deliver Package features
 For discoverability, issues that represent cross-group dependencies should be labeled with `package:cross-group-dependency`. If working on one of these issues, Package engineers should ensure that they are labeled correctly. For visibility, these issues are shown in the [Package:Cross-Group Assignments](https://gitlab.com/groups/gitlab-org/-/boards/2470946?label_name[]=package%3Across-group-dependency) issue board.
 
 The product manager should include cross-group dependencies in the milestone planning issue for review, discussion and prioritization.
+
+#### Communication
+
+We're an all-remote group, [effective](https://about.gitlab.com/handbook/communication/#effective--responsible-communication-guidelines) and [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/) is key for success.
+
+When requiring attention from all the team members, use any of the following options or mix them.
+
+* Ping the team using `@package-combined-team` only once in an issue - When there will be multiple interactions and actions required. Consider this as the way to bring the issue to team members' attention. For example, when a milestone planning issue is ready for team members to review and give feedback, and multiple actions could come up later in the conversations.
+* Include a checklist for each team member in the description of the issue - When there is an action required for each team member and is required to track when the action is completed. For example, in training issues.
+* Assign team members to the issue - When there is an action required for each team member. The expectation is that team members will unassign themselves when they complete the action requested, for example, in retrospective or training issues.
+* For announcements (FYI), we prefer to share the message on Slack. For purposes of searching and historical information, we include the announcement also in the weekly sync agenda. For example, when new Production Change Lock (PCL) dates are announced.
+
+For any other communication tailored to only certain members, we ping them individually on issues.
+
 ### Milestone Planning
 
 Our Product Manager, Product Designer, and Engineering Manager develop a plan for upcoming milestones. The issues are labelled and assigned to the milestone. The Product Manager creates an issue for milestone planning that includes the priorities for the milestone. Product Developers review the milestone planning issue, ask questions, raise concerns and weigh each issue. The result of this process is a groomed milestone. Our milestone planning issues can be found in our [Milestone Planning Epic](https://gitlab.com/groups/gitlab-org/-/epics/3591).
@@ -209,10 +260,11 @@ Our Product Manager, Product Designer, and Engineering Manager develop a plan fo
 #### Priorities
 
 Throughout the workflow, issues should be addressed in the following priority order:
-1. Security issues: These will be at the top of our [Package:Milestones Board](https://gitlab.com/groups/gitlab-org/-/boards/1196366?label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage) and identified with either a `Planning Priority` or `Package:P1` label
+1. Sustaining work: `security`, `infradev` or `sharding-blocker` issues will be at the top of our [Package:Milestones Board](https://gitlab.com/groups/gitlab-org/-/boards/1196366?label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage) and identified with either a `Planning Priority` or `Package:P1` label
 1. `Planning Priority` label: Organizational level priorities that span multiple customers and prospects.
 1. `Package:P1` label: Used to identify high priority issues that should be committed to in a given milestone or scheduled in an upcoming milestone.
-1. `Package:P2` label: Used to identify security issues, bugs and feature requests that although may not be in a milestone, should be worked on ahead of any other work.
+1. `Community Contribution` label: When in the milestone planning, this identifies community contributions we commited to deliver in a given milestone.
+1. `Package:P2` label: Used to strech goals for a given milestone.
 1. `Package:Triage` label: Cross-functional dependencies required to resolve important issues for our team.
 1. `package:active` label: least effort to largest
 1. `workflow::scheduling` label: These are issues that require [weighting](#issue-weighting), feedback and scheduling before being moved to `package:active`
@@ -369,6 +421,16 @@ There are times during the development lifecycle that changes need to be communi
 - If your work will impact rate-limits as in [GitLab-#778](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/778)
 - If you are considering adjusting the existing [Package limits](https://docs.gitlab.com/ee/administration/instance_limits.html#package-registry-limits)
 
+### Returning from PTO
+
+It can be overwhelming to come back to work after taking time off. Remember to review the [returning from PTO](https://about.gitlab.com/handbook/paid-time-off/#returning-from-pto)
+section of our time-off policy, especially the key points:
+
+- It is OK to take your time to catch up. You can consider blocking your calendar to do so.
+- Taking time off doesn't mean that you need to work extra hours before or after your vacation.
+- It is [impossible to know everything](https://about.gitlab.com/handbook/values/#its-impossible-to-know-everything) (AKA some things can be ignored).
+- Consider scheduling a coffee chat or sync with other team members to help ease your way back.
+- Consider asking in [#s_package](https://gitlab.slack.com/archives/CAGEWDLPQ) for a summary of what happened while you were gone.
 
 ### Onboarding Enterprise customers
 
@@ -433,6 +495,7 @@ The GitLab Container and Package Registry currently handle hundreds of millions 
 - [How to view all of the images and tags in your group](https://youtu.be/9IxoGYnTIaI)
 
 ##### Dependency Proxy
+- [View a list of tags in the cache in the UI](https://youtu.be/uYEY75qz7Jg)
 - [How to use GraphQL to set TTL policies](https://www.youtube.com/watch?v=ujzicvPt8i8)
 - [Authenticate with deploy tokens when using the dependency proxy](https://youtu.be/uPNpa6BDs6A)
 - [Use the GitLab Dependency Proxy to proxy and cache images from DockeHub](https://youtu.be/fNTfL55fh5c)

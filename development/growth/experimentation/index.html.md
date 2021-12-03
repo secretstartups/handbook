@@ -170,4 +170,4 @@ There are dashboards in Sisense to indicate whether the experiment flag still ex
 - [Experiments removed](https://app.periscopedata.com/app/gitlab/799224/Growth-experiment-cadence?widget=12422147&udv=0)
 - [Legacy experiments (before 13.7)](https://app.periscopedata.com/app/gitlab/799224/Growth-experiment-cadence?widget=10640406&udv=0)
 
-The [experiment rollout board](https://gitlab.com/groups/gitlab-org/-/boards/1352542?label_name[]=experiment-rollout) lists rollout issues linked  [experiment feature flags](https://docs.gitlab.com/ee/development/feature_flags/#experiment-type) used in development.
+The [experiment rollout board](https://gitlab.com/groups/gitlab-org/-/boards/1352542?label_name[]=experiment-rollout) lists rollout issues linked to [experiment feature flags](https://docs.gitlab.com/ee/development/feature_flags/#experiment-type) used in development and on SaaS.

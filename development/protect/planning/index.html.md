@@ -44,9 +44,9 @@ fulfill the original issue's requirements.
 
 ### Refinement
 
-Issues in the `workflow::refinement` state are either assigned by EMs to individuals engineers for refinement, or are assigned randomly by the triage bot based on the [assign-refinement policy](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/container-security/assign-refinement.yml).
+Issues in the `workflow::refinement` state are either assigned by EMs to individuals engineers for refinement, or are assigned randomly by the triage bot based on the [assign-refinement policy](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/container-security/assign-refinement.yml). Note that [Epics are slightly different](#epic-engineering-dri).
 
-Engineers assigned to refine issues are encouraged to ask questions and are authorized to push back on PM if issues lack the information and/or designs required for successful refinement and execution.
+Engineers assigned to refine issues are encouraged to ask questions and push back on PM if issues lack the information and/or designs required for successful refinement and execution.
 
 We assign issues for refinement to ensure we have focus on the highest-priority items, as determined by Product Management.  This is **not** an assignment to work on the issue.
 

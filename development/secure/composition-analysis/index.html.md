@@ -53,6 +53,20 @@ In addition to the above workflow, the Composition Analysis group can be involve
 
 *There are no experiments in progress at the moment.*
 
+### Retrospectives
+
+#### Group retrospective
+
+After the 19th, we conduct [an asynchronous retrospective](https://about.gitlab.com/handbook/engineering/management/group-retrospectives/). You can find current and past retrospectives for Composition Analysis team in https://gitlab.com/gl-retrospectives/secure-sub-dept/composition-analysis.
+
+#### Iteration retrospective
+
+First Wednesday of the milestone, we conduct an iteration retrospective where we review our [Iteration](https://about.gitlab.com/handbook/values/#iteration) skill.
+3 days before the retrospective, [a retrospective host](https://gitlab.com/brytannia) creates [a new iteration retrospective issue](https://gitlab.com/gl-retrospectives/secure-sub-dept/composition-analysis).
+In this issue team members suggests candidate issues or epics to review.
+The host picks up one item to discuss synchronously.
+Results are documented in the retrospective issue.
+
 ### Reaction rotation
 
 On top of our development roadmap, engineering teams need to respond to additional requests (support, community contributions, security vulnerabilities).
@@ -113,7 +127,7 @@ You can leverage quick actions to add the necessary labels.
 
     /confidential
 
-    /label ~security ~type::bug
+    /label ~security ~"type::bug"
     /label ~"section::securedefend" ~"devops::secure" ~"group::composition analysis"
 
     <!-- depending on the affected project: -->
@@ -151,7 +165,7 @@ To help our Product Manager decide which tech-debt and tooling issues to include
 We regularly review unprioritized issues using these boards:
 
 - [tech-debt issues](https://gitlab.com/groups/gitlab-org/-/boards/2168528?label_name[]=group%3A%3Acomposition%20analysis&label_name[]=technical%20debt)
-- [tooling issues](https://gitlab.com/groups/gitlab-org/-/boards/2168528?label_name[]=group%3A%3Acomposition%20analysis&label_name[]=tooling)
+- [tooling issues](https://gitlab.com/groups/gitlab-org/-/boards/2168528?scope=all&label_name[]=group%3A%3Acomposition%20analysis&label_name[]=type%3A%3Atooling)
 
 ## Projects
 
@@ -179,7 +193,6 @@ Additional notes:
 ### License Compliance
 
 - [License-finder analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/license-finder)
-- [License-management](https://gitlab.com/gitlab-org/security-products/license-management) is the original project that needs to be maintained until [the migration](https://gitlab.com/gitlab-org/gitlab/-/issues/215933) is completed.
 
 ### Upstream scanner mirrors
 
