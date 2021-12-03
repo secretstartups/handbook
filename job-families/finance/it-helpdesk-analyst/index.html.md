@@ -55,9 +55,16 @@ The IT Helpdesk Analyst is a [grade 7](/handbook/total-rewards/compensation/comp
 
 All the responsibilities of an IT Helpdesk Analyst, plus:
 
-- Provide Hardware and Software support remotely for all GitLab team members and escalating appropriately.
-- Liaise with the wider Support Team regarding outstanding calls and managing customer expectations.
-- Provide day-to-day support to other IT Helpdesk Analysts, ensuring work is allocated and completed effectively and to the required standards.
+- Mentoring and developing a team of IT Helpdesk Support Analysts
+- VIP Support and Escalations
+- Own and coordinate Endpoint and Peripheral orders Globally
+- Act as escalation point for IT Analyst team
+- Collaborate closely with Security and Engineering teams.
+- Have strong capability in setting priorities, meeting deadlines and make time sensitive decisions with limited information.
+- Excellent practical understanding of Incident Management, Change &  Problem Resolution
+- Be an integral team player, stand in when needed and cover any role in times of need.
+- Ability to analyse problems and present solutions to technical support issues.
+
 
 #### Requirements
 
