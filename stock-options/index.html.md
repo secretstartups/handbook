@@ -280,7 +280,7 @@ There are two methods to exercise your shares:
 
 **Note for US residents:** whichever method you choose, if you early exercise unvested shares, be sure to download the **83-b election form** provided by Carta and file with the IRS within 30 days of exercise. Send a copy of the signed and dated election form to `stockadmin@gitlab.com`. The Stock Plan Administrator will file it within Bamboo/HR.
 
-See on Carta: [What and where is my 83(b) form?](https://support.carta.com/s/article/what-and-where-is-my-83-b-form) or [download the 83-b election form template](https://carta.my.salesforce.com/sfc/p/#f4000000nrKS/a/0H000000Xm1Z/H0r8oAMKO54MeOPha6Y2ej8zlCnIrPzVyQsFP5XdboU)
+See Carta's Support article [83(b) Form for Early Exercised Option Grants](https://support.carta.com/s/article/form-83b-option-exercises) -- [download the 83-b election form template here](https://carta.my.salesforce.com/sfc/p/#f4000000nrKS/a/0H000000Xm1Z/H0r8oAMKO54MeOPha6Y2ej8zlCnIrPzVyQsFP5XdboU).
 
 You will most likely want to include the following letter when sending in the 83-b election to the IRS:
 
