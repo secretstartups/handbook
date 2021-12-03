@@ -56,7 +56,7 @@ Below, you'll find the CDF framework and potential discussion topics for [Produc
 | **Typical Experience** | Two to four years of relevant experience or equivalent combination of experience and education. | Four to six years of relevant experience or equivalent combination of experience and education. | Eight to ten years of experience with at least one year of people management responsibility. | 
 
 ##### CDF Topics For Product Managers
-Responsibilities outlined in the [Product Manager Job Family page](https://about.gitlab.com/job-families/product/product-manager/#role).
+Responsibilities outlined in the [Product Manager Job Family page](https://about.gitlab.com/job-families/product/product-manager/#role). Note - some of these skills are regularly practiced and demonstrated, while others are demonstrated on an as-needed basis. Despite this fact, PMs should strive to grow across all of these skills.
 
 **Validation Track Skills**
 * Partnership with design (C, R)
@@ -86,20 +86,20 @@ Responsibilities outlined in the [Product Manager Job Family page](https://about
 * Adoption funnel (R)
 * Direction updates (T)
 * Buyer understanding (R)
-* Partnership with GTM (C), (D)
-* Corporate development engagements (C), (R)
+* Partnership with GTM including use case creation (C), (D)
+* Business case creation (for investment case or acquisition) (R) , (C)
 
 **Communication Skills**
 
 * Async communication with a bias towards action (D)
 * Verbal presentation (C)
-* Representing GitLab roadmap (T)
+* Representing GitLab product-wide roadmap (T)
 * Non-R&D stakeholder rapport (D)
 * Ability to influence (C, E)
 
 **People Management Skills**
 
-* N/A
+* Mentoring product management interns (D), (C)
 
 ### CDF for Product Leadership
 The below table outlines the Career Development Framework used for [Product Leaders](/handbook/product/product-leadership/#product-leaders).
