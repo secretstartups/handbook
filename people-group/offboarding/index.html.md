@@ -144,6 +144,21 @@ People Operations Specialists will send the [CultureAmp](https://www.cultureamp.
 
 The People Specialist & the team member may proactively set up time to discuss their responses and ask for further information. Exit interviews are not mandatory, however your input will help provide GitLab with information regarding what is working well and what can be improved. Please point team member to the [Offboarding FAQ page](/handbook/people-group/offboarding/faq.html).
 
+#### Tasks for People Operations
+
+1. Monitor the #offboarding slack channel to be notified of leavers
+1. If the PeopleOps Specialist was selected as the exit interview owner, add a spiral pad emoji to signal you are processing this exit interview
+1. Schedule a 30 minutes zoom call with the leaving team member within 1 week of their exit date.
+Email invite template:
+"I wanted to schedule time with you to go over the exit interview questions that were sent to you via Culture Amp.  This meeting is optional, if there is additional information that you would like to share please accept this invite or propose a new time.
+If you do not wish to have an in person exit interview you can simply decline the meeting.
+Thanks and I wish you the best in your future endeavors!"
+1. Log into CultureAmp via Okta > Surveys > Exit Survey > Start exit > select team member > select your name > set dates with survey to be completed two days before interview > send
+1. Populate columns 'Exit Interview - POPS' with your name and 'Exit Interview Date' of the [Offboarding tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=60c1df26#gid=330541891)
+1. Complete the exit interview by asking questions to add context to survey answers and save your notes in CultureAmp. Click complete on the bottom of the page once done.
+1. Post in #pbp-peopleops: Hi 'applicable PBP' ‘Emp name’ exit survey is available for review now. (Flag trends, red flags etc.)
+
+
 #### Exit Survey - Inactive Team Member
 Follow this process to send out an exit survey to an inactive team member;
 
