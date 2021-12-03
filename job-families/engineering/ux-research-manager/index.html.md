@@ -25,7 +25,7 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 - Maintain an accurate and current understanding of the active UX Research projects being worked on by the team.
 - Build and develop your research toolkit to extend across all levels of complexity.
 - Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between scrappy research and rigor.
-- Personally initiate and conduct research projects to build stronger foundational knowledge of our GitLab users. Research should consist of a mix of problem validation, foundational research, and strategic research projects.
+- Personally initiate and conduct research projects to help build foundational knowledge of our GitLab users. Research should consist of a mix of problem validation, foundational research, and strategic research projects.
 - Communicate, advocate for, and socialize actionable insights in a clear and compelling way.
 - Regularly sync with Product Management Directors to understand strategy, discover blockers, manage quality, and help ensure UX Research prioritization.
 - Develop and utilize reusable research project prioritization approaches for UX Researchers to leverage within their own teams.  Work with UX Researchers and Product in applying these approaches to ensure UX Researchers have a clear set of prioritized research projects.
@@ -38,10 +38,10 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 
 #### Requirements
 
-* Expert-level knowledge in the field of UX Research with at least 5 years of experience in hands-on research.
-* A minimum of 3 years of experience managing UX Researchers or large research teams.
+* Deep knowledge in the field of UX Research with a proven understanding of quantitative and qualitative research methods.
+* Experience managing UX Researchers who focus on enterprise, developer, and/or business tools.
 * Outstanding communicator both verbally and in writing.
-* Strong collaboration skills.
+* Excellent collaboration skills.
 * A proven record of driving change through UX Research.
 * Passion for the field of UX Research.
 * Evangelize research. Share user insights within the broader organization and externally in creative ways to increase empathy.
@@ -110,8 +110,8 @@ The Senior Manager, UX Research is a [grade 9](/handbook/total-rewards/compensat
 
 #### Requirements
 
-* Expert-level knowledge in the field of UX Research with at least 8 years of experience in hands-on research.
-* A minimum of 2 years of experience managing UX Research Managers.
+* Expert-level knowledge in the field of UX Research with expert-level understanding of quantitative and qualitative research methods.
+* Experience managing UX Research Managers who focus on enterprise, developer, and/or business tools.
 * Outstanding communicator both verbally and in writing.
 * Strong collaboration skills.
 * A proven record of leading a team that drives change through UX Research.
@@ -161,8 +161,9 @@ The Director, UX Research is a [grade 10](/handbook/total-rewards/compensation/c
 
 #### Requirements
 
-* Expert-level knowledge in the field of UX Research with at least 10 years of experience in hands-on research.
-* A minimum of 4 years of experience managing UX Research Managers.
+* Expert-level knowledge in the field of UX Research and experience setting UX Research vision for a product company.
+* Experience managing UX Research Managers.
+* A clear philosophy about how to create an environment that empowers remote UX Research teams and encourages them to deliver high-impact work.
 * Outstanding communicator both verbally and in writing.
 * Strong collaboration skills.
 * A proven record of leading a team that drives change through UX Research.
