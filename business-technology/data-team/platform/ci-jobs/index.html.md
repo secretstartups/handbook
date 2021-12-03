@@ -31,9 +31,9 @@ This page documents the CI jobs used by the data team in Merge Requests in both 
 ![run_pipeline_button.png](run_pipeline_button.png)
 
 ### Variable Name not found in the CI Pipeline job
-This kind of error pops up in the pipeline like KeyError: 'GITLAB_COM_CI_DB_USER'. It means the variable is not defined in the variable section of CI/CD Settings. To resolve this, add the variable name to CI/CD setting i.e. settings --> ci_cd --> variable.   
+This kind of error pops up in the pipeline like KeyError: 'GITLAB_COM_CI_DB_USER'. It means the variable is not defined in the variable section of CI/CD Settings. To resolve this, add the variable name to [CI/CD setting](https://gitlab.com/gitlab-data/analytics/-/settings/ci_cd) i.e. settings --> ci_cd --> variable, also provide the variable value.      
 **Notes:-** Turn off the Flags, so the variable is accessible from the CI pipeline.   
-The same applies to the variable value if it is incorrect in the job.  
+The same applies to the variable value; if it is incorrect in the job, we can update it in the above link.
 
 
 
