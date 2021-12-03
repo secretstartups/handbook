@@ -61,33 +61,83 @@ If you wish to use dbt and contribute to the data team project, you'll need to g
 - In the `~/.dbt/` folder there should be a `profiles.yml`file that looks like this [sample profile](https://gitlab.com/gitlab-data/analytics/blob/master/admin/sample_profiles.yml)
 - The smallest possible warehouse should be stored as an environment variable. Our dbt jobs use `SNOWFLAKE_TRANSFORM_WAREHOUSE` as the variable name to identify the warehouse. The environment variable can be set in the `.bashrc` or `.zshrc` file as follows:
     - `export SNOWFLAKE_TRANSFORM_WAREHOUSE="ANALYST_XS"`
-    - In cases where more compute is required, the variable can be overwritten by adding `--vars '{warehouse_name: analyst_xl}'` to the dbt command
+    - In cases where more compute is required, this variable can be overwritten at run. We will cover how to do this in the [next section](/handbook/business-technology/data-team/platform/dbt-guide/#choosing-the-right-snowflake-warehouse-when-running-dbt).
 - Clone the [analytics project](https://gitlab.com/gitlab-data/analytics/)
-- If running on Linux: 
+- If running on Linux:
   - Ensure you have [Docker installed](https://docs.docker.com/docker-for-mac/)
 
 Note that many of these steps are done in the [onboarding script](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/onboarding_script.zsh) we recommend new analysts run.
 
+### Choosing the right Snowflake warehouse when running dbt
+
+Our Snowflake instance contains [warehouses of multiple sizes](https://docs.snowflake.com/en/user-guide/warehouses-overview.html), which allow for dbt developers to allocate
+differing levels of compute resources to the queries they run. The larger a warehouse is and the longer it runs, the more the query costs. For example, it costs [8 times](https://docs.snowflake.com/en/user-guide/warehouses-overview.html#warehouse-size) more to run a Large warehouse for an hour than it costs to run an X-Small warehouse for an hour.
+
+If you have access to multiple warehouses, you can
+create an entry for each warehouse in your `profiles.yml` file. Having done this, you will be able to specify which warehouse should run when you call `dbt run`. This should be done
+carefully; using a larger warehouse increases performance but will greatly increase cost! Err on the side of using smaller warehouses. If you find that the smaller warehouse's
+performance is not adequate, investigate the cause before you try again with a larger warehouse. Running an inefficient model against a larger warehouse not only increases cost during development, it also increases cost every time the model runs in production, resulting in unintentional ongoing increase in Snowflake costs.
+
+#### Example
+
+Imagine that you are a Data Team member who needs to make a change to a dbt model. You have access to both an X-Small warehouse and a Large warehouse, and your `profiles.yml` file
+is set up like so:
+```
+gitlab-snowflake:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      threads: 8
+      account: gitlab
+      user: {username}
+      role: {rolename}
+      database: {databasename}
+      warehouse: ANALYST_XS
+      schema: preparation
+      authenticator: externalbrowser
+    dev_l:
+      type: snowflake
+      threads: 16
+      account: gitlab
+      user: {username}
+      role: {rolename}
+      database: {databasename}
+      warehouse: ANALYST_L
+      schema: preparation
+      authenticator: externalbrowser
+```
+
+You open up your terminal and code editor, create a new branch, make an adjustment to a dbt model, and save your changes. You are ready to run dbt locally to test your changes,
+so you enter in the following command: `dbt run --models @{model_name}`. dbt starts building the models, and by default it builds them using the `ANALYST_XS` warehouse. After a
+while, the build fails due to a timeout error. Apparently the model tree you are building includes some large or complex models. In order for the queries to complete, you'll need to
+use a larger warehouse. You want to retry the build, but this time you want dbt to use the `ANALYST_L` warehouse instead of `ANALYST_XS`. So you enter in
+`dbt run --models @{model_name} --target dev_l`, which tells dbt to use the warehouse you specified in the `dev_l` target in your `profiles.yml` file. After a few minutes, the build
+completes and you start checking your work.
+
 ### Venv Workflow
 {: #Venv-workflow}
 
-Recommended workflow for anyone running a Mac system. 
+Recommended workflow for anyone running a Mac system.
 
 #### Using dbt
 
 - Ensure you have the `DBT_PROFILE_PATH` environment variable set. This should be set if you've used the [onboarding_script.zsh](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/onboarding_script.zsh) (recommened to use this as this latest and updated regularly), but if not, you can set it in your `.bashrc` or `.zshrc` by adding `export DBT_PROFILE_PATH="/<your_root_dir/.dbt/"` to the file or simply running the same command in your local terminal session
 - Ensure your SSH configuration is setup according to the [GitLab directions](https://gitlab.com/help/ssh/README). Your keys should be in `~/.ssh/` and the keys should have been generated with no password.
     - You will also need access to [this project](https://gitlab.com/gitlab-data/data-tests) to run `dbt deps` for our main project.
-- **NB**: Ensure your default browser is set to chrome. The built-in SSO login only works with chrome 
-- **NB**: Before running dbt for the first time run `make prepare-dbt`. This will ensure you have venv installed. 
+- **NB**: Ensure your default browser is set to chrome. The built-in SSO login only works with chrome
+- **NB**: Before running dbt for the first time run `make prepare-dbt`. This will ensure you have venv installed.
 - To start a `dbt` container and run commands from a shell inside of it, use `make run-dbt`
 - This will automatically import everything `dbt` needs to run, including your local `profiles.yml` and repo files
 - To see the docs for your current branch, run `make run-dbt-docs` and then visit `localhost:8081` in a web-browser. Note that this requires the `docs` profile to be configured in your `profiles.yml`
 
+#### Why do we use a virtual environment for local dbt development?
+We use virtual environments for local dbt development because it ensures that each developer is running exactly the same dbt version with exactly the same dependencies. This minimizes the risk that developers will have different development experiences due to different software versions, and makes it easy to upgrade everyone’s software simultaneously. Additionally, because our staging and production environments are containerized, this approach ensures that the same piece of code will execute as predictably as possible across all of our environments.
+
 ### Docker Workflow
 {: #docker-workflow}
 
-The below is the recommended workflow primarily for users running Linux as the venv workflow has fewer prerequisites and is considerably faster. 
+The below is the recommended workflow primarily for users running Linux as the venv workflow has fewer prerequisites and is considerably faster.
 
 To abstract away some of the complexity around handling `dbt` and its dependencies locally, the main [analytics project](https://gitlab.com/gitlab-data/analytics/) supports using `dbt` from within a `Docker` container.
 We build the container from the [`data-image`](https://gitlab.com/gitlab-data/data-image) project.
@@ -998,11 +1048,11 @@ This should never be set to `RAW` as it will overwrite production data.
 ##### Snapshots and GDPR
 
 Sometimes the data team receives requests to delete personal data from the Snowflake Data Warehouse, because of GDPR. To address these deletions, we use `dbt` macros. A macro scans all applicable data that needs to be removed, this also applies to snapshot tables.
- 
+
 There are 2 flavours:
 1. The GDPR deletion request applies to all GitLab sources, and therefore all tables in the data warehouse need to be checked and updated. [Macro](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.gdpr_delete).
 2. The GDPR deletion request applies to only GitLab.com related sources and therefore only Gitlab.com related tables in the data warehouse need to be checked and updated. [Macro](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.gdpr_delete_gitlab_dotcom)
- 
+
 Specific to the second flavour, check when creating a new snapshot model or rename an existing snapshot model, if the `dbt` macro covers the models involved. Check if the filtering in the macro applies to the applicable snapshot tables in case of a GDPR deletions request for Gitlab.com only related sources.
 
 #### Make snapshots table available in prod database
@@ -1099,5 +1149,3 @@ Views and snippets included in the output will be surrounded by square brackets 
         }
     }
 ```
-
-

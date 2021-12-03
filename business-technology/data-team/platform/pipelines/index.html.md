@@ -144,11 +144,13 @@ On this data pipeline, 3 types of Trusted Data Framework tests are executed:
 ## Service ping
 
 Service Ping is a method for GitLab Inc to collect usage data about a given GitLab instance.
-More information about `Service ping` (formerly known as `Usage ping`) from a Product perspective, should be found **[here](https://about.gitlab.com/handbook/customer-success/tam/usage-ping-faq/)**. Comprehensive guide with rich documentation is exposed in [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/).
+More information about `Service ping` (formerly known as `Service ping`) from a Product perspective, should be found **[here](https://about.gitlab.com/handbook/customer-success/tam/service-ping-faq/)**. Comprehensive guide with rich documentation is exposed in [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/).
 
 Service ping has two major varieties:
 - Self-Managed Service Ping
 - SaaS Service Ping
+
+For more details refer to [4 types of service ping processes](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#4-types-of-service-ping-processes-run-versus-3-environments)
 
 ### Self-Managed Service Ping
 
@@ -157,26 +159,30 @@ Self-Managed Service Ping is loaded into the Data Warehouse from the Versions ap
 ### SaaS Service Ping
 
 SaaS Service Ping is loaded into Data Warehouse in two ways:
-* using `SQL` statements from Gitlab `Postgres Database` Replica and
-* RestFUL API call from `Redis` 
+* using `SQL` statements from Gitlab `Postgres Database` Replica (`SQL-based`) and
+* RestFUL API call from `Redis` (`Redis based`) 
 
 Implementation details from Data team is shown under [Readme.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md#user-content-technical-implementation) file.
 
 <img src="saas_service_ping_workflow.png" alt="drawing" width="800"/>
 
-#### Loading instance SQL metrics
+#### Loading instance SQL-based metrics
 
 Data is loaded from `Postgres Sql` replica: The queries are version controlled in the very large JSON (couple of hundreds queries in the file) files present within this extract.  The queries are split out into two categories: instance queries and namespace queries. The instance queries generate data about `GitLab.com` as a whole, while the namespace queries generate data about each namespace on `GitLab.com`.
-Data is stored in the tables (in the `RAW` schema):
-* `"RAW"."SAAS_USAGE_PING"."INSTANCE_SQL_METRICS"`
-* `"RAW"."SAAS_USAGE_PING"."INSTANCE_SQL_ERROR"` - this table contains SQL command where error pops-up during data processing for SQL metrics.
-* `"RAW"."SAAS_USAGE_PING"."GITLAB_DOTCOM_NAMESPACE"`
+Data is stored in the tables (in the `RAW.SAAS_USAGE_PING` schema):
+* `RAW.SAAS_USAGE_PING.INSTANCE_SQL_METRICS`
+* `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERROR` - this table contains SQL command where error pops-up during data processing for SQL metrics.
+* `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
 
-#### Loading instance Redis metrics
+Details about implementation are exposed in **[sql-metrics-implementation](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#sql-metrics-implementation)**
+
+#### Loading instance Redis based metrics
 
 Data is downloaded via API, refer to API specification: [UsageDataNonSqlMetrics API](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api). Stored in a `JSON` format, approximately size is around 2k lines. Usually, it is one file per load _(at the moment, it is a weekly load)_. The main purpose of loading data from Redis is to ensure fine granulation of metrics can't be fetched using SQL queries.
-Data is stored in the table (in the `RAW` schema): 
-* `"RAW"."SAAS_USAGE_PING"."INSTANCE_REDIS_METRICS"`
+Data is stored in the table (in the `RAW.SAAS_USAGE_PING` schema): 
+* `RAW.SAAS_USAGE_PING.INSTANCE_REDIS_METRICS`
+
+Details about implementation are exposed in **[redis-metrics-implementation](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#redis-metrics-implementation)**
 
 ## SheetLoad
 
@@ -400,3 +406,146 @@ From this list if any table get the data and we need to add the entry to snowfla
 
 ### For Derived table 
 Zuora have provided view definition for the derived view. As extracting data from the derived view is not feasible in production. Hence for table BI3_WF_SUMM we prepare the data in the DBT model in PREP layer with the DDL provided from Zuora. The DDL definition is present in extract/zuora_revenue/README.md in repo. 
+
+## Zoominfo
+ZoomInfo is a go-to-market intelligence platform for B2B sales and marketing teams. The integrated cloud-based platform provides sellers and marketers with comprehensive information to help them find potential new customers. In order to get these kind of enrich data, Gitlab needs to send data as outbound towards Zoominfo and after processing GitLab will receive processed data as an inbound table via Snowflake data share from zoominfo.
+
+The Zoominfo data pipeline is an automated bi-directional data pipeline that leverages Snowflake data share methodology.
+
+### Snowflake Data share.
+[Snowflake data share](https://docs.snowflake.com/en/user-guide/data-sharing-intro.html) enables sharing of snowflake database tables from one account and also allows access to data shared from external accounts. This involves creating an outbound share of a database in their account and grant access to the snowflake table that needs to be shared to an external account using either web interface/SQL.
+
+#### Snowflake Data Share using SQL
+Below are the steps followed for working on outbound/inbound shares via snowflake data share using SQL.
+
+##### Outbound share using SQL
+For example database named `prod` with a schema named `share` and a table named `gitlab_user_outbound`is shared with consumer account `azitest`. Run below SQL's
+to create outbound share.
+* Step 1: Create a Share using role accountadmin.
+    * USE ROLE accountadmin;
+    * CREATE SHARE share_test;
+* Step 2: Add database, schema and table to the Share by Granting Privileges.
+    * GRANT USAGE ON DATABASE prod TO SHARE share_test;
+    * GRANT USAGE ON SCHEMA prod.share TO SHARE share_test;
+    * GRANT SELECT ON TABLE prod.share.gitlab_user_outbound TO SHARE share_test;
+* Step 3: Add consumer account to the Share.
+In order to add account to the share, consumer need to provide their account details and both consumer and provider accounts should be in the same snowflake region.
+    * ALTER SHARE share_test ADD ACCOUNTS =‘azitest';
+
+##### Inbound share using SQL
+For example share named `gitlab` is shared to us from account `azitest`, run below SQL to create database in snowflake and to access the tables and data in inbound share.
+
+* CREATE DATABASE zoominfo_inbound FROM SHARE azitest.gitlab;
+
+#### Snowflake Data Share using snowflake web interface 
+Below are the steps followed for working on outbound/inbound shares via snowflake data share using Web interface. 
+Use `accountadmin` role and navigate to shares page in the snowflake web interface to perform inbound/outbound data share tasks.
+
+![image-1.png](./image-1.png)
+
+##### Outbound share using snowflake web interface
+* Step 1: To create a outbound share click on `outbound` icon and then on `+create` icon on shares page in the snowflake web interface.
+* Step 2: Add secure share name, database, table/view details and then click on create button on the bottem. 
+
+![image-2.png](./image-2.png)
+
+* Step 3: Add consumer account to the share and choose to create reader/full account and click on `add` button at the bottem. This will create a share and shares tables/views to consumer.
+
+![image-3.png](./image-3.png)
+
+##### Inbound share using snowflake web interface
+Inbound shares can be viewed under Inbound tab under shares page on the snowflake web interface. Inorder to access the tables and data in the inbound share, a shared database needs to be created. To create shared database click on `Create database from secure share` icon and provide database name, grant access to and click on `create database` button. This process creates database `zoominfo_inbound` in snowflake. Inbound tables and data can be accessed under this shared database in snowflake. Data from shared database is ingested into `prep`.
+
+![image-4.png](./image-4.png)
+
+![image-5.png](./image-5.png)
+
+
+### Architecture
+
+![image.png](./image.png)
+
+#### Outbound table
+* `"PROD"."SHARE"."GITLAB_USER_OUTBOUND"` - Outbound table has Gitlab user information such as First name, Last name, email address and company name. Outbound table is shared only once to Zoominfo via Snowflake data share. The table is prepared via `dbt` so it will change over time. Its up to Zoominfo to ingest newly and updated data in this table.
+
+#### Loading Inbound tables  
+Zoominfo sends inbound files to Gitlab via Snowflake data share. Shared database ZOOMINFO_INBOUND is created from inbound share using either the web interface or SQL. The inbound tables don't follow the standard architecture, where we ingest data in our raw layer and where `dbt` picks the data up for transformation. We handle the shared database as the `raw` database to avoid creating extra processes and make the pipeline more efficient. Data from inbound tables in ZOOMINFO_INBOUND is ingested into snowflake `prep` ​​using Snowflake Data Exchange loader. Below list of inbound tables are created in PREP database under 'zoominfo' schema.
+
+* `"ZI_COMP_WITH_LINKAGES_GLOBAL_SOURCE"` -  International table has a list of all the companies they have information about. This is a one time share.
+* `"ZI_REFERENCE_TECHS_SOURCE"` - Technograph table that has a list of technologies used by companies in their database.This is a one time share.
+* `"GITLAB_CONTACT_ENHANCE_SOURCE"` - User table company matched table which appends company information to the user list Gitlab sends to zoominfo. Gitlab sends Zoominfo only once but the appended data can be refreshed quarterly. 
+
+## Adaptive
+ 
+Adaptive has been implemented as part of this [issue](https://gitlab.com/gitlab-data/analytics/-/issues/6237). The tap is reponsible for 100% sync for every refresh and executed via Meltano via the TAP-ADAPTIVE. 
+ 
+Below is the list of the relevant endpoints in Adaptive. The end points available and more information around the end point is present [here](https://adaptiveplanning.doc.workday.com/r/DG7oXjCPB6kIw6Th6awNUg/r2Yl8CztW98XTEeX1vKtgQ)
+ 
+- exportAccounts
+- exportActiveCurrencies
+- exportAttributes
+- exportConfigurableModelData
+- exportCustomerLogo
+- exportData
+- exportDimensionFamilies
+- exportDimensions
+- exportDimensionMapping
+- exportGroups
+- exportInstances
+- exportLevels
+- exportLocales
+- exportModeledSheet
+- exportRoles
+- exportPermissionSet
+- exportSecurityAudit
+- exportSheetDefinition
+- exportSheets
+- exportTime
+- exportTransactionDefinition
+- exportUsers
+- exportVersions
+
+All of these end points or table are created in snowflake. If the data is not present then also sklenton of the table will be created. The target landing Schema is `RAW.TAP-ADAPTIVE`.
+
+Repo URL for [TAP-ADAPTIVE](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-adaptive). 
+
+To run the TAP it required 2 enviornment variable named `TAP_ADAPTIVE_USERNAME` and  `TAP_ADAPTIVE_PASSWORD`. Below is the details of meltano.yml file which is configured for the TAP-ADAPTIVE.
+ 
+```
+- name: tap-adaptive
+    namespace: tap_adaptive
+    pip_url: git+https://gitlab.com/gitlab-data/meltano_taps.git#subdirectory=tap-adaptive
+    executable: tap-adaptive
+    capabilities:
+     - catalog
+     - discover
+     - state
+    settings:
+     - name: username
+     - name: password
+       kind: password
+     - name: start_date
+       value: '2010-01-01T00:00:00Z'
+    config:
+      start_date: '2010-01-01T00:00:00Z'
+      username: $TAP_ADAPTIVE_USERNAME
+      password: $TAP_ADAPTIVE_PASSWORD
+  loaders:
+```
+ 
+The Schedule is set to run daily at midnight.
+
+
+## ZenGRC
+
+The ZenGRC data source uses a singer tap we developed in [gitlab-data/tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc) and is run in our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L73) schedule at midnight with the other taps in Meltano.
+
+Currently this tap only extracts a small number of objects from ZenGRC as a pilot for the data source. These are listed in the [stream types in `tap_zengrc/tap.py`](https://gitlab.com/gitlab-data/tap-zengrc/-/blob/main/tap_zengrc/tap.py#L10). 
+
+They are:
+- `Audits`
+- `Assessments`
+- `Objectives`
+- `Controls`
+
+This tap was created using [Meltano SDK](https://sdk.meltano.com/en/latest/) and the [ZenGRC API](https://gitlab.api.zengrc.com/#/). [Environment variables for username and password](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L29) `$ZENGRC_USERNAME` and `$ZENGRC_PASSWORD`are required to run this in Meltano.

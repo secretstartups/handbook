@@ -30,6 +30,13 @@ This page documents the CI jobs used by the data team in Merge Requests in both 
 * The easiest way to do to this is to click the blue run pipeline button as below: 
 ![run_pipeline_button.png](run_pipeline_button.png)
 
+### Variable Name not found in the CI Pipeline job
+This kind of error pops up in the pipeline like KeyError: 'GITLAB_COM_CI_DB_USER'. It means the variable is not defined in the variable section of CI/CD Settings. To resolve this, add the variable name to [CI/CD setting](https://gitlab.com/gitlab-data/analytics/-/settings/ci_cd) i.e. settings --> ci_cd --> variable, also provide the variable value.      
+**Notes:-** Turn off the Flags, so the variable is accessible from the CI pipeline.   
+The same applies to the variable value; if it is incorrect in the job, we can update it in the above link.
+
+
+
 # Analytics pipelines 
 
 ## Stages
@@ -214,6 +221,10 @@ This recursively searches the entire periscope repo for a string that matches a 
 
 This uses word count (wc) to see how many lines are in the comparison file. If there is more than zero it will print the lines and exit with a failure. If there are no lines it exits with a success.
 
+#### safe_model_script
+
+In order to ensure that all [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) data is being stored in appropriate schemas all models that are downstream of [source models with MNPI data](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/new-data-source/#mnpi-data) must either have an exception tag or be in a restricted schema in `PROD`. This CI Job checks for compliance with this state. If your MR fails this job it will likely either need to be audited and verified to be without change MNPI data and have the appropriate exception tags added, or models may need to be migrated to the appropriate restricted schema
+
 #### schema_tests
 
 Runs only schema tests
@@ -232,9 +243,15 @@ These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/anal
 
 There are several jobs that only appear when `.py` files have changed. All of them will run automatically on each new commit where `.py` files are present. Otherwise they are unavailable to run. Other jobs are:
 
-#### permifrost_manual
+#### 🧊⚙permifrost_run
 
 Manual job to do a dry run of [Permifrost](https://gitlab.com/gitlab-data/permifrost/).
+
+#### 🧊 permifrost_spec_test
+
+Must be run at least once before any changes to `permissions/snowflake/roles.yml` are merged. Takes around 30 minutes to complete.  
+
+Runs the `spec-test` cli of [Permifrost](https://gitlab.com/gitlab-data/permifrost/) to verify changes have been correctly configured in the database. 
 
 #### yaml_validation
 

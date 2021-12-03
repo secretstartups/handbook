@@ -82,20 +82,17 @@ The operating system choices have obviously affected the hardware selection proc
 
 Apple hardware is the common choice for most GitLab team-members, but if you are comfortable using and self-supporting yourself with Linux (Ubuntu usually) you may also choose from the Dell builds below.
 
-NOTE: GitLab does have a corporate discount with Apple.
-In Apple Retail Stores, you can bring a paystub or invoice along with a photo ID to get
-the discount.
-You can also call the [Small Business line](https://www.apple.com/retail/business/) to learn more about
-ordering online.
-Discounts vary depending on the purchase, but it can range anywhere from 2-10%.
+NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased Apple products only. Apple does **not** have an employee discount program for GitLab at this time.
 
 ##### Apple Hardware
 
-- For Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Engineering Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production (MacBook Pro) - [16”  / 512gig SSD / 32gig RAM / i9 or i7 CPU](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-2.6ghz-6-core-processor-512gb)
+- Macbook Pro - 14" M1 Max 16-Core CPU /24-core GPU / 32GB / 512GB - **Performance model**
+- Macbook Pro - 16" M1 Max 16-Core CPU /24-core GPU / 32GB / 512GB or 1TB/ - **Performance model**
+- MacBook Pro - 16”  / 512 SSD / 32 RAM / i9 or i7 Intel CPU - **Legacy performance model** - Limited supply, we may offer this model depending on availability the new M1 Max model. 
+- Macbook Pro - 13" / M1 / 16Gb / 512GB - **Standard model**
 
-- Everyone Else (MacBook Pro) - [13” / 512gig SSD / 16gigs RAM / i5 CPU](https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-1.4ghz-quad-core-processor-with-turbo-boost-up-to-3.9ghz-256gb)
+Most roles that require higher performance machines are approved for a 14" or 16" MacBook Pro M1 Max model. Please see this [spreadsheet](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit?usp=sharing) (public) to locate your department group and determine which machine you are eligible for. 
 
-- 13" Macbook Pro w/ M1, 16Gb, 512GB (avaliable upon request depending on shipping times)
 
 ##### Linux Hardware
 
@@ -104,9 +101,9 @@ Please only request a Linux laptop if you have experience with this operating sy
 
 We strongly encourage Macs, but we do allow Linux if you are capable of self-support and updates.
 
--  \*\* For Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production (Dell/Linux) - [16”  / 512gig SSD / 32gig RAM / i9 or i7 CPU ](https://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/precision-5540-mobile-workstation/spd/precision-15-5540-laptop/xctop554015us4?configurationid=01b3d81d-57ff-4f71-a79f-f6b81ab2a521)
+-  \*\* For Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production (Dell/Linux) - The 5500 or 5700 Precision Mobile Workstation lines. Due to supply constraints, individuals may get different models from these lines. IT will work with each person to find an available model: [16”  / 512gig SSD / 32gig RAM / i9 or i7 CPU ](https://www.dell.com/en-us/work/shop/laptops/new-15-5560-workstation/spd/precision-15-5560-laptop) 
 
-- Everyone Else (Dell/Linux) - [13” / 256gig SSD / 16gigs RAM / Quad-Core i5 CPU](https://www.dell.com/ng/business/p/latitude-13-7300-laptop/pd)
+- Everyone Else (Dell/Linux) - The 7300 Latitude  line. Due to supply constraints, individuals may get different models from this line. IT will work with each person to find an available model: [13” / 256gig SSD / 16gigs RAM / Quad-Core i5 CPU](https://www.dell.com/en-us/work/shop/laptops/13-7300/spd/latitude-13-7300-laptop)
 
 \*\*NOTE: Max price: **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model minimum 14 days, based on your locality, prior to your desired date to receive.
 
@@ -238,7 +235,7 @@ If your laptop is broken and needs to be repaired you can take it into an Apple 
 
 If the repair is not going to be too expensive (more than $1000 dollars USD), go ahead and repair and expense. If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on that is non-Windows.
 
-You can open an issue in the [Team Member Enablement Issue Tracker](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval.
+You can open an issue in the [Team Member Enablement Issue Tracker](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval. Please make sure to attach/include any estimates or reciepts for the repair that you got from Apple (or any authorized service center) in the issue. Picture or PDF will work just fine.
 
 Do not provide the repair center with any credentials to your laptop. If they ask, you can tell them that they're authorized to do a factory reset on the laptop should it be necessary to run diagnostics. This will help prevent sensitive data from being accidentally or intentionally leaked during repair.
 

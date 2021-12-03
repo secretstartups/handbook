@@ -28,6 +28,7 @@ description: "GitLab Data Team Platform"
 - [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/)
 - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
 - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
+- [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/)
 
 ## <i class="fas fa-cubes fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Our Data Stack
 
@@ -142,11 +143,11 @@ The end user experience is described on the [UX Qualtrics page](/handbook/engine
 
 Attempting to reprocess a spreadsheet should usually be the first course of action when a spreadsheet has an error and there is no apparent issue with the request file itself.  Reprocessing has been necessary in the past when new GitLab plan names have been added to the `gitlab_api_formatted_contacts` dbt model, as well as when the Airflow task hangs when processing a file.  This process should only be performed with coordination or under request from the owner of the spreadsheet, to ensure that they are not using any partial mailing list created by the process, as well as not making any additional changes to the spreadsheet.
 
-To reprocess a Qualtrics Mailing List request file:
-    1. Disable the Qualtrics Sheetload DAG in Airflow. 
-    1. Delete any mailing lists in Qualtrics that have been created from the erroring spreadsheet.  You should be able to log into Qualtrics using the `Qualtrics - API user` credentials and delete the mailing list.  The mailing list's name corresponds to the name of the spreadsheet file after `qualtrics_mailing_list.`, which should also be the same as the name of the tab in the spreadsheet file.
-    1. Edit cell A1 of the erroring file to be `id`
-    1. Enable the Qualtrics Sheetload DAG in Airflow again and let it run, closely monitoring the Airflow task log
+To reprocess a Qualtrics Mailing List request file:   
+    1. Disable the Qualtrics Sheetload DAG in Airflow.  
+    2. Delete any mailing lists in Qualtrics that have been created from the erroring spreadsheet.  You should be able to log into Qualtrics using the `Qualtrics - API user` credentials and delete the mailing list.  The mailing list's name corresponds to the name of the spreadsheet file after `qualtrics_mailing_list.`, which should also be the same as the name of the tab in the spreadsheet file.  
+    3. Edit cell A1 of the erroring file to be `id`.  
+    4. Enable the Qualtrics Sheetload DAG in Airflow again and let it run, closely monitoring the Airflow task log.  
 
 ### Snowplow Infrastructure
 
@@ -362,6 +363,8 @@ This includes all tables, views, queries, users, etc.
 There is a `covid19` database, which is a shared database managed through the Snowflake Data Exchange.
 
 There is a `testing_db` database, which is used for testing Permifrost.
+
+There is a `bi_tool_eval` database, which is used for testing bi tooling. Users are able create own testing sets manually. 
 
 All databases not defined in our [`roles.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml) Permifrost file are removed on a weekly basis.
 

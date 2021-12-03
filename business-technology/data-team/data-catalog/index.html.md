@@ -53,6 +53,8 @@ To gain access to SAFE Dashboards:
 
 Please see the [Accessing](/handbook/business-technology/data-team/platform/#warehouse-access) SAFE Data in Snowflake for instructions on to access the SAFE data in Snowflake.
 
+SAFE Data in Google Sheets files can be accessed using the instructions for [Accessing a SAFE Dashboard](/handbook/business-technology/data-team/data-catalog/#accessing-a-safe-dashboard). Please follow those instructions to gain access to SAFE Data in Google Sheets. 
+
 `END OF 2021-09-08 SAFE Dashboard Change Announcement`
 
 ## Data By Subject Area
@@ -78,11 +80,14 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 
 #### Analytics Projects
 
-* [Propensity to Buy](/handbook/business-technology/data-team/organization/data-science/#propensity-to-buy)
+* Propensity to Buy: [Project](https://gitlab.com/gitlab-data/propensity-to-buy), [Handbook](/handbook/business-technology/data-team/organization/data-science/#propensity-to-buy)
+* Propensity to Contract and Churn: [Project](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [Presentation](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68)
 
 ### Finance
 
 * [TD: Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr/)
+* [Opportunity to Subscription Mapping](/handbook/business-technology/data-team/data-catalog/opportunity_subscription_mapping/)
+* [Zuora Revenue Waterfall](/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
 
 ### Product
 
@@ -118,6 +123,7 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 * [2021-08 SSO Login Deep Dive Analysis](https://docs.google.com/presentation/d/1j66MejLh8uKhUDUkSVIhPLI79M1LtbgCSxuvJKzRRaI/edit#slide=id.p)
 * [Growth Insights](/direction/growth/#insights)
 * [Concluded Growth Experiments](/direction/growth/#growth-experiments-knowledge-base---concluded-experiments)
+* [FY22-Q3 xMAU Estimation Exploration](https://docs.google.com/presentation/d/1ifKhhGw2rWF33g22n42bdD6Yqq6m3o_djqxo6qvJVoo/edit#slide=id.gf7594bb92d_0_190)
 
 ### Customer Success
 
