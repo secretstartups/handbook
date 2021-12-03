@@ -41,15 +41,29 @@ concurrently. A customer may request this if they wish to give a higher-tier
 subscription a trial.
 
 There is an [open feature request #12186](https://gitlab.com/gitlab-org/gitlab/-/issues/12186)
-requesting to implement this functionality in GitLab. In the meanwhile, use the
-[Update GitLab Subscription](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_gitlab_plan.html)
-form processor to directly modify the customer's subscription:
+requesting to implement this functionality in GitLab.
 
-1. Submit the form processor with the appropriate information filled out. This
-   will create an internal request issue if the change is successfully applied.
-1. Set a reminder for yourself at the end of the trial period to submit the form
-   processor again to downgrade the namespace back to its original plan.
-   * You can use the issue due date functionality for this.
+In the meantime, if you receive one of these requests, ask the requester that they and their customer understand the risks involved.
+
+<details>
+  <summary markdown="span">Confirmation of risks - Example wording</summary>
+
+  <p>Due to various bug issues it has caused, we are `[working on deprecating trials on an existing SaaS subscription](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3887)`. As we recognize this is a sudden change and communication is still in progress, we can go ahead. However, we want to ensure that you and your customer are aware of the risks.</p>
+
+   <p>By manually updating the plan, the namespace's plan will no longer match our subscription records. If the system does a validation check, it will `**immediately**` downgrade the namespace to Free. If this happens, customers can submit a high priority ticket, but are asked `*not*` to submit an emergency ticket as this is a known risk for the change requested.</p>
+
+   <p>If the customer does not want to take the risk, we recommend they start a 30-day trial on a separate group, and fork (or create) a project to test the features in the trial group.</p>
+
+   <p>If you have communicated the above with your customer and you still want to go ahead, then please confirm that for us and we will make the requested change.</p>
+</details>
+
+If the requester still wants to go ahead:
+
+1. Follow the [plan change requests using GitLab.com instructions](#using-gitlabcom-admin).
+1. Add a comment on the issue that the change has been made with a link to the namespace admin page.
+1. Set yourself as assignee.
+1. Set an appropriate due date.
+1. Once the due date has been reached, change the plan back to the original, and remove the admin note instead of adding another one.
 
 ## Workflow diagram
 
