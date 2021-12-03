@@ -5,10 +5,6 @@ title: "IT Helpdesk"
 
 ## IT Helpdesk Analyst
 
-### Job Grade
-
-The IT Helpdesk Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
 ### Responsibilities
 
 * Triage all IT related questions as they arise
@@ -32,6 +28,49 @@ The IT Helpdesk Analyst is a [grade 6](/handbook/total-rewards/compensation/comp
 * Configure, build, test, and deploy
 * Experience working with Git
 * Ability to use GitLab
+
+## Levels
+
+### IT Helpdesk Analyst
+
+#### Job Grade
+
+The IT Helpdesk Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+The IT Helpdesk Analysts share the same responsibilities outlined above.
+
+#### Requirements
+
+The IT Helpdesk Analysts share the same requirements outlined above.
+
+### Senior IT Helpdesk Analyst
+
+#### Job Grade
+
+The IT Helpdesk Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+All the responsibilities of an IT Helpdesk Analyst, plus:
+
+- Provide Hardware and Software support remotely for all GitLab team members and escalating appropriately.
+- Liaise with the wider Support Team regarding outstanding calls and managing customer expectations.
+- Provide day-to-day support to other IT Helpdesk Analysts, ensuring work is allocated and completed effectively and to the required standards.
+
+#### Requirements
+
+All the requirements of an IT Helpdesk Analyst, plus:
+
+- Experience of writing procedural and/or support documentation
+- An active / empathic listener
+- Demonstrable ability to think around issues and look at the wider picture in order to provide solutions through a variety of problem-solving techniques
+- Knowledge and understanding of best practice framework (such as ITIL, ISO20k) for the delivery of IT services
+- Ability to clearly and accurately communicate processes and procedures 
+- Experience of working accurately and confidently with service desk tools and technology, such as ITSM, remote access, knowledge resources
+- Experience of developing professional and effective working relationships with customers and key stakeholders
+- Experience of delivering a high level of customer service
 
 ## Performance Indicators (PI)
 
