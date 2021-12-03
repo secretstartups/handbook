@@ -103,6 +103,9 @@ When you delay this conversation until your manager identifies underperformance 
 
 Looping in the [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/) early is essential. The TMR specialist can offer support, guidance, coaching, and partner with Legal to ensure compliance. Please be sure to align with your TMR specialist prior to delivering any formal action plan to team members. Formal action includes a Written Performance Letter, Verbal Warning, Written Warning, and a Performance Improvement Plan. Managers will partner with the team member relations group in the creation and delivery of any formal action.
 
+**Important**: While timelines vary case-by-case and in accordance with local labor law in the location of each individual, if someone is underperforming without sustained improvement with informal manager lead coaching in place for 1 month or more, the TMR team should be looped in. Looping in the TMR team is a critical piece of the underperformance management process, and not doing so within a reasonable timeframe ultimately impacts the manager's performance. Connecting with the TMR team ensures that feedback is being delivered in accordance with our [guidance for giving feedback](/handbook/people-group/guidance-on-feedback/) and next steps are followed in a timely manner. See the `underperformance management related to manager performance` section below for more detail.
+
+
 ### Manager: Identify And Take Action As Early As Possible
 
 Taking action sooner allows the action to be less severe and allows more time for coaching to have an effect.
@@ -117,6 +120,12 @@ If your manager warns you about possible underperformance before you notify them
 Managing underperformance is very important because it reinforces acceptable standards of performance.
 It is hard because frequently the underperformance is due to a mistake we made in hiring, onboarding, and/or coaching.
 It is also hard to give and receive the message that someone's performance is not adequate.
+
+## Underperformance Management Related To Manager Performance
+
+Managing performance effectively is a critical skill for people managers. Particularly the first phase of performance management (identifying underperformance, informal coaching, and looping in Team Member Relations) is essential for managers to drive. Lack of performance management is a reflection on the manager's performance, and has a negative impact on the manager, team member, other team members and the business. 
+
+We have resources (Team Member Relations) in place so managers feel support and partnership during the underperformance management process, but managers need to leverage the support available in a timely fashion to ensure: fairness to the team member through acting early, providing a structure to facilitate improvement, and being mindful of business impact. 
 
 ## Frequency and Metrics
 
