@@ -84,6 +84,7 @@ The Field Marketing Manager is a [grade 6](/handbook/total-rewards/compensation/
 - A passion and substantial understanding of the developer tools, IT operations tools, and/or IT security markets.
 - Experience with supporting both direct sales and channel sales teams.
 - Travel up to 50%.
+* Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ### Key Performance Indicators 
 * [10X spend contribution to sales pipeline](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution) for region responsible for.
