@@ -200,6 +200,10 @@ This section contains issues with the `~"type::bug"` label without priority and 
 
 This section contains bugs which has past our targeted SLO based on the severity label set. This is based on our [missed SLO detection](/handbook/engineering/quality/triage-operations/index.html#missed-slo) triage policy.
 
+#### Heatmap for ~customer bugs
+
+This section contains a table displaying the open issues for a group labelled with `~"customer"` and `~"bug"`. There is a breakdown by the assigned severity and priority labels
+
 ### Group level merge requests that may need attention
 
 This report contains merge requests that belong to a group in our
