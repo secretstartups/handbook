@@ -674,7 +674,7 @@ Caregiving, outreach programs, and community service do not conveniently wait fo
 
 ##### Be a mentor
 {:.no_toc}
-People feel more included when they're supported. To encourage this, and to support diversified learning across departments, consider GitLab's [Internship for Learning](/handbook/people-group/promotions-transfers/#internship-for-learning) program.
+People feel more included when they're supported. To encourage this, and to support diversified learning across departments, consider GitLab's [Internship for Learning](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) program.
 
 ##### Culture fit is a bad excuse
 {:.no_toc}
