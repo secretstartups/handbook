@@ -10,50 +10,117 @@ title: Product Organization OKRs
 
 <%= partial("handbook/product/product-handbook-links") %>
 
+## What are OKRs?
 
-## What are OKRs
+OKRs (Objectives and Key Results) are a simple goal setting technique which provides companies with a number of benefits including: [Focus, Alignment, Accountability, Status and Ambition]((https://www.whatmatters.com/faqs/benefits-of-okrs/)). At GitLab, we think of our OKRs as the "How to achieve the goal" of a KPI. So, the question we need to consider as a Product team is: "Are we defining our OKRs in a way that leads us toward meeting the KPI?"
 
-OKRs (Objectives and Key Results) are a simple goal setting technique propelled by Google and implemented by many leading companies with astounding success. [Five key OKR benefits](https://www.whatmatters.com/faqs/benefits-of-okrs/) include: Focus, Alignment, Accountability, Status and Ambition.
+## Product OKR Process
 
-John Doerr is a leader in the OKR world and authored the book Measure What Matters, a handbook for setting and achieving audacious goals. He as since built a company called What Matters, that gives leaders the tools they need to achieve their goals. The [What Matters website](https://www.whatmatters.com/) is a rich and detailed resource for OKRs. You can also check out the [how to write OKRs](#how-to-write-okrs) section of this page for more guidance.
+#### Product & Engineering Shared R&D OKRs (6 weeks prior to Quarter)
+
+- Prior to the start of the fiscal quarter, the CProdO and CTO will use an Issue ("Planning Issue") to collaborate on Shared R&D OKRs. These OKRs will be recommended to the CEO for the top-down OKR Draft.
+
+- Quarterly OKRs from the CTO and CProdO are referred to as Shared R&D OKRs and they are treated as priorties for [Product Groups](/handbook/product/product-processes/#quad--infra--security-product-group-dris).
+
+- Shared R&D OKRs are not function-specific, as they are identified as a necessary priority across the whole product ecosystem by the CTO and CProdO and approved by the CEO.
+
+- Shared R&D Objectives may be owned by either the CTO or the CProdO, and the KRs will be cascaded to cross-functional team members regardless of reporting/organizational structure.
+
+#### CEO shares Company OKRs (5 weeks prior to Quarter)
+
+- The CEO will share an MR in the #e-group Slack channel with the 3 Company Objectives for the quarter and one to three Key Results for each objective.
+
+#### CProdO updates Product OKRs (4 weeks prior to Quarter)
+
+- The CProdO will continue to iterate on the Planning Issue based on conversations with the CEO, CTO, and members of the Product team.
+
+- Product Operations will ping PMs and recommend they begin following updates in the Planning Issue in order to engage their product groups (PD, EM, QA, Infra and/or Security) in ideation.
+
+#### CEO approves OKRs (3 weeks prior to Quarter)
+
+- Upon CEO approval, the CProdO updates the Planning Issue and tags relevant teams to begin alignment and ownership of the KRs.
+
+#### OKRs finalized and added to Ally (2 weeks prior to Quarter)
+
+- Product Operations will add the OKRs in the Planning Issue to Ally, making assignments as necessary.
+- Product Operations aligns the Shared and Product OKRs to parent-level OKRs to enable cascading from Company-level OKRs.
+- Product Operations notifies the Product team to review OKRs in Ally and work with their Product Group to add additional KRs they would like to contribute.
+- Product Managers collaborate with their Product Group to prioritize KRs supporting Shared R&D Objectives owned by the CProdO and CTO.
+
+##### Creating KRs not aligned with Shared R&D OKRs
+
+- Product Managers may choose to create KRs not aligned to Shared R&D OKRs. In this case they may:
+     - Define Key Results for an existing Product or Engineering OKR in Ally.
+     - Create a new Objective and define the Key Results (connect with Product Operations for help adding to Ally).
+     - Define Key Results for a [yearly Product theme](https://about.gitlab.com/direction/#fy22-product-investment-themes) (connect with Product Operations for help adding to Ally).
+
+#### CProdO and CTO highlight Shared R&D OKRs (1 week prior to Quarter)
+
+- The CProdO and CTO record a video discussing the Shared R&D OKRs.
+- Product Operations updates handbook pages and shares in relevant Slack channels.
+- Product Operations pings all Directors and GPMs to review OKRs their direct reports have added to Ally. Any modifications or additions must be made prior to the beginning of the quarter.
+
+#### Finalize scores and close KRs (1 week after the Quarter)
+
+- Product Operations asks Product team to ensure previous quarter scores are finalized and their KRs closed by end of week in Ally
+- Product Operations asks VP Product Management, Directors, and Group Product Managers to run OKR retrospectives ([Issue template](https://gitlab.com/gitlab-com/Product/-/issues/new?issuable_template=OKR-Retrospective)) for the previous quarter.
+
+#### Share retrospectives (3 weeks after the Quarter)
+
+- Product Operations asks VP Product Management, Directors, and Group Product Managers to share insights from retrospectives in the `#product` Slack channel or [PM Weekly](https://docs.google.com/document/d/1Kp8T4YrfmSvqbNlAKJw4pB4dPkV5-AjMT0wVvsxMJUY/edit#heading=h.avveod33mpb).
 
 
-## GitLab OKRs
-
-GitLab uses the [OKR (Objective and Key Results) framework](https://www.youtube.com/watch?v=L4N1q4RNi9I) to set and track goals on a quarterly basis. You can read more about OKRs at GitLab OKRs including the overall process as well as current and past OKRs [here](https://about.gitlab.com/company/okrs/). Every department participates in OKRs to collaboratively goal set across the organization. GitLab does quarterly objectives which align with our Fiscal Year.
 
 ## Shared R&D OKRs
 
-Quarterly priority OKRs from CTO and CprodO are referred to as **Shared R&D OKRs**. The teams responsible for collaborating on these OKRs are [**Product Groups**](/handbook/product/product-processes/#quad--infra--security-product-group-dris). 
+Quarterly priority OKRs from CTO and CprodO are referred to as **Shared R&D OKRs**. The teams responsible for collaborating on these OKRs are [Product Groups](/handbook/product/product-processes/#quad--infra--security-product-group-dris).
 
-Shared R&D OKRs stem from Objectives the CTO and CProdO align on, jointly with their leadership teams and [fiscal year product investment themes](https://about.gitlab.com/direction/#fiscal-year-product-investment-themes). These OKRs are not function-specific, as they are identified as a necessary priority across the whole product ecosystem by the CTO and CProdO and approved by the CEO. Shared R&D Objectives may be owned by either the CTO or the CProdO, and the KRs will be cascaded to cross-functional team members regardless of reporting/organizational structure. For example, the VP of User Experience may own a KR that cascades from an Objective owned by the CProdO. Shared R&D OKRs will be worked on as a priority by [Product Groups](/handbook/product/product-processes/#quad--infra--security-product-group-dris).
+Shared R&D OKRs stem from Objectives the CTO and CProdO align on, jointly with their leadership teams and [fiscal year product investment themes](https://about.gitlab.com/direction/#fiscal-year-product-investment-themes). These OKRs are not function-specific, as they are identified as a necessary priority across the whole product ecosystem by the CTO and CProdO and approved by the CEO. Shared R&D Objectives may be owned by either the CTO or the CProdO, and the KRs will be cascaded to cross-functional team members regardless of reporting/organizational structure. For example, the VP of User Experience may own a KR that cascades from an Objective owned by the CProdO. Shared R&D OKRs will be worked on as a priority by Product Groups.
 
-To maintain clear focus and prioritization, the CTO and CProdO will aim to have no more than three Shared R&D objectives per quarter. There may be times the CProdO or CTO  need to have functinal team specific Objectives. In those cases they will still limit the total number of objectives they cascade to their respective teams to be no more than three. 
-
+To maintain clear focus and prioritization, the CTO and CProdO will aim to have no more than three Shared R&D objectives per quarter. There may be times the CProdO or CTO need to have [functional team-specific Objectives](# functional-team-specific-okrs). In those cases, they will still limit the total number of objectives they cascade to their respective teams to be no more than three.
 
 ## Functional team specific OKRs
 
-Some quarters, the Product Team may have  functional team specific OKRs that do not require collaboration from the cross-functional team. Those OKRs will still be defined and cascaded by the CProdO following the [timeline/process](#timeline-for-current-and-upcoming-quarter) published on this page.
+There are times the Product Team will have functional team objectives that do not require collaboration from the cross-functional product group. Those OKRs will still be defined and cascaded by the CProdO following the same workflow as Shared R&D OKRs. 
 
-The CTO drafts any Engineering function specific OKRs per the [engineering OKR process](https://about.gitlab.com/handbook/engineering/#engineering-okr-process).
+All OKRs relevant to the product team are initiated by the Chief Product Officer each quarter per the details and timeline shared on this page.
 
+The CTO drafts any Engineering organization specific OKRs per the [engineering OKR process](https://about.gitlab.com/handbook/engineering/#engineering-okr-process)
 
 ## Guidance on timelines and process
 
-All OKRs relevant to the product team are initiated by the CProdO each quarter per the details and timeline shared on this page.
+For guidance about the OKR process, team members can post in Slack #product and tag [Product Operations](https://about.gitlab.com/company/team/#fseifoddini). Team members can also attend [Product Operations office hours](/handbook/product/product-processes/#product-operations-office-hours-bi-weekly) for live support. For guidance on how to use Ally.io please check out [how to use ally.io](#how-to-use-allyio) or post in Slack #ally-okr-rollout and tag Product Operations. 
 
-For guidance about the  OKR process, team members can post in Slack #product and tag [Product Operations](https://about.gitlab.com/company/team/#fseifoddini). Team members can also attend [Product Operations office hours](/handbook/product/product-processes/#product-operations-office-hours-bi-weekly) for live support. For guidance on how to use Ally.io please check out [how to use ally.io](#how-to-use-allyio) or post in Slack #ally-okr-rollout and tag Product Operations. 
+Every quarter, there will also be a feedback issue linked on this page as part of that quarters timeline/process that anyone can contribute to. 
 
-Every quarter, there will also be a feedback issue linked on this page as  part of that quarters timeline/process that anyone can contribute to. 
+## Product OKRs by Quarter
 
+#### Current Quarter
 
-## Timeline for current and upcoming quarter
+<iframe src="https://app.ally.io/public/AlHP9KoxhNsSCtY" class="dashboard-embed" height="1280" width="100%" style="border:none;"> </iframe>
 
-### FY23 Q1 Product Team OKR Process
+- FY22-Q4 Shared R&D OKR Overview by CTO and CProdO
 
-**Below is our Q1 iteration on the OKR process.** This Q1 process/timeline incorporates [FY22 Q4 learnings](https://gitlab.com/gitlab-com/Product/-/issues/3142).
+<iframe src="https://www.youtube.com/embed/nQ9LdWzoSU4" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-Please share your feedback in [Feedback on FY23 Q1 OKR Process](LINK TBD)
+#### Upcoming quarter
+
+- [Product OKRs FY23-Q1](https://app.ally.io/teams/39480/objectives?tab=0&time_period_id=135092&viewId=208953)
+
+#### Past Quarters
+
+- [Product OKRs FY22-Q3](https://app.ally.io/teams/39480/objectives?tab=0&time_period_id=135092)
+- [Product OKRs FY22-Q2](https://gitlab.com/gitlab-com/Product/-/issues/2376)
+- [Product OKRs FY22-Q1](https://gitlab.com/gitlab-com/Product/-/issues/1914)
+- [Product OKRs FY21-Q4](https://gitlab.com/gitlab-com/Product/-/issues/1566)
+- [Product OKRs FY21-Q3](https://gitlab.com/gitlab-com/Product/-/issues/1320)
+
+## Timeline and guidance for the current and upcoming quarter
+
+### FY23 Q1 Product OKR Process
+
+- Incorporates [FY22-Q4 learnings](https://gitlab.com/gitlab-com/Product/-/issues/3142).
+- [FY23-Q1 feedback issue](LINK TBD)
 
 #### OKR Kick-off by the Product and Engineering Leadership Teams
 
@@ -71,14 +138,12 @@ Please share your feedback in [Feedback on FY23 Q1 OKR Process](LINK TBD)
      - the CProdO adds the aligned upon Shared R&D OKRs plus any additional Product organization specific OKRs to [FY23-Q1 Shared R&D and Product Org OKR Planning](https://gitlab.com/gitlab-com/ally-okr-rollout/-/issues/36) and reviews the proposed OKRs with the CEO
      - Product Operations informs Product team members that Q1 OKR planning has begun by tagging them into this issue, highlighting that it is recommended for Product Managers to review and activate their [Product Group](https://about.gitlab.com/handbook/product/product-processes/#quad--infra--security-product-group-dris) to begin ideation on their Q4 KRs at this time. 
 
-
 #### OKR Collaboration by the Product Team
 
 - **3 weeks** prior to the start of the new quarter, the CEO approves the Shared R&D OKRs and Product organization specific OKRs. The CProdO updates both the  Shared R&D and Product organization specific OKRs in [FY23-Q1 Shared R & D OKR Planning](https://gitlab.com/gitlab-com/ally-okr-rollout/-/issues/36) as appropriate and tags in the teams for alignment and to finalize ownership of the KRs
 - **2 weeks** prior to the start of the new quarter:
      - Product Operations ports the finalized Shared R&D and Product organization OKRs approved by the CProdO, CTO and VP of Product from the planning issue  into Ally.io. Product Operations assigns the Objectives and Key Results to the designated owners, as specified by in the issues
-     - Product Operations aligns the Shared R&D OKRs and Product organization OKRs to their corresponding parent-level OKRs in Ally.io so everything cascades from the Company Objectives set by the CEO and Chief of Staff to the CEO. 
-          - Product Operations creates Section and Stage level KRs to further organize the cascade structure as needed
+     - Product Operations  aligns the Shared R&D OKRs and Product organization OKRs to their corresponding parent-level OKRs in Ally.io so everything cascades from the Company Objectives set by the CEO and Chief of Staff to the CEO. 
      - Product Operations notifies all Product that approved Shared R&D and Product organization OKRs are in Ally.io, requesting they review all OKRs in Ally and Product Managers work with their Product Group to add any additional KRs they'd like to contribute
      - Product Managers initiate the planning process. They will work with their Product Group to identify KRs supporting Shared R&D Objectives owned by the CProdO and CTO, as this is the agreed-upon priority across the Product and  Engineering teams
      - Product Managers may, in alignment and partnership with their Product Group, choose to create KRs not aligned to existing Shared R&D OKRs. In this case they may either:
@@ -147,7 +212,6 @@ In this scenario you didn’t complete two of the KRs, but since you selected th
 
 - Quarterly priority OKRs from CTO and CprodO will be referred to as [**Shared R&D OKRs**](#shared-rd-okrs)
 - The teams responsible for collaborating on these OKRs will be referred to as [**Product Groups**](/handbook/product/product-processes/#quad--infra--security-product-group-dris)
-
 
 For guidance about the Product OKR process, team members can post in Slack #product and tag [Product Operations](https://about.gitlab.com/company/team/#fseifoddini). Team members can also attend [Product Operations office hours](/handbook/product/product-processes/#product-operations-office-hours-bi-weekly) for live support. For guidance on how to use Ally.io please check out [how to use ally.io](#how-to-use-allyio) or post in Slack #ally-okr-rollout and tag Product Operations. 
 
@@ -247,7 +311,6 @@ In this scenario you didn’t complete two of the KRs, but since you selected th
 
 - Product Key Reviews will reference Ally.io in an [OKR specific slide](https://docs.google.com/presentation/d/1O5Kc1kpJJBm5aJFT24V05xuR3pHjCGzID-QkYcUSZ5k/edit#slide=id.ge7a2c8f4b9_0_12)
 - Product team OKR owners may leverage this [slide template](https://docs.google.com/presentation/d/1O5Kc1kpJJBm5aJFT24V05xuR3pHjCGzID-QkYcUSZ5k/edit#slide=id.geb1b1c60d1_1_4) if additional details are needed for their KRs
-
 
 ## Timeline and guidance for the previous quarters
 
@@ -358,7 +421,7 @@ In this scenario you didn’t complete two of the KRs, but since you selected th
 - Product Key Reviews will reference Ally.io in an [OKR specific slide](https://docs.google.com/presentation/d/1O5Kc1kpJJBm5aJFT24V05xuR3pHjCGzID-QkYcUSZ5k/edit#slide=id.ge7a2c8f4b9_0_12)
 - Product team OKR owners may leverage this [slide template](https://docs.google.com/presentation/d/1O5Kc1kpJJBm5aJFT24V05xuR3pHjCGzID-QkYcUSZ5k/edit#slide=id.geb1b1c60d1_1_4) if additional details are needed for their KRs.
 
-### FY22-Q2 Product OKR Process
+### FY22 Q2 Product OKR Process
 
 #### OKR Kick-off by the Product Leadership Team
 
@@ -378,30 +441,6 @@ _Please note that the FY22-Q2 process is a "hybrid" model as we continue to leve
 - Team members who **own** Q2 OKRs will update the score (% complete) in the relevant GitLab epics/issues and [Key Reivew slides](https://docs.google.com/presentation/d/1xAbkJC8EAWV49bYIEyRCT7qXkiPnq4CQXX9VM_93szw/edit#slide=id.p) monthly and notify any relevant stakeholders.
 - The EBA to the Chief product Officer will then update the [Q2 scores in Ally.io](https://about.gitlab.com/company/okrs/#scoring-okrs) based on the latest Key Review slides by the end of each month.
      - It is recommended to direct link to the monthly update in the GitLab epic/issue  or Key Review slides in the Ally.io OKR description to maintain a clear reference to the SSOT.
-
-
-## Product OKRs by Quarter
-
-#### Current Quarter
-
-<iframe src="https://app.ally.io/public/AlHP9KoxhNsSCtY" class="dashboard-embed" height="4400" width="100%" style="border:none;"> </iframe>
-
-
-- FY22-Q4 Shared R&D OKR Overview by CTO and CProdO
-
-<iframe src="https://www.youtube.com/embed/nQ9LdWzoSU4" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-#### Upcoming quarter
-
-- [Product OKRs FY23-Q1](https://app.ally.io/teams/39480/objectives?tab=0&time_period_id=135092&viewId=208953)
-
-#### Past Quarters
-- [Product OKRs FY22-Q3](https://app.ally.io/teams/39480/objectives?tab=0&time_period_id=135092)
-- [Product OKRs FY22-Q2](https://gitlab.com/gitlab-com/Product/-/issues/2376)
-- [Product OKRs FY22-Q1](https://gitlab.com/gitlab-com/Product/-/issues/1914)
-- [Product OKRs FY21-Q4](https://gitlab.com/gitlab-com/Product/-/issues/1566)
-- [Product OKRs FY21-Q3](https://gitlab.com/gitlab-com/Product/-/issues/1320)
-
 
 ## How to write OKRs
 
@@ -435,6 +474,21 @@ Samples of well written KRs from GitLab team members from the [Q2 product group 
 - group::code review: Reduce mean-time-to-close of S1 + S2 bugs by 50%
 - group::editor: Complete 10 usability issues related to our primary categories (Web IDE, Snippets, Wiki)
 
+## Migrating Product OKRs from GitLab to Ally
+
+### Through FY22 Q2
+
+Through FY22 Q2, Product team OKRs will be tracked as Epics [gitlab.com](https://gitlab.com/groups/gitlab-com/-/epics?scope=all&state=opened&search=FY22-Q2+OKR) and the KRs are tracked as Issues in the [Product project](https://gitlab.com/gitlab-com/Product) and on the [Product OKR Board](https://gitlab.com/gitlab-com/Product/-/boards/906048?label_name%5B%5D=OKR).
+
+### Introducing Ally in FY22 Q2
+
+Starting in FY22-Q2, all OKRs are also in [Ally.io](https://app.ally.io/teams/39480/objectives?tab=0&time_period_id=135090) so we can get familiar with the tool before FY22-Q3.
+
+### Moved to Ally in FY22 Q3
+
+Beginning in FY22-Q3, we replaced GitLab epics, issues and boards as our method for tracking OKRs and move to Ally.
+
+To learn more about the rollout process for Product and Engineering see [Ally OKR Rollout GitLab Project](https://gitlab.com/gitlab-com/ally-okr-rollout).
 
 ## How to use Ally.io
 
@@ -452,6 +506,11 @@ For an overview of how Product is currently using Ally.io and how to do some bas
 - [Video: How and when do Product Managers participate in OKRs definition, planning and tracking?](https://www.youtube.com/watch?v=M7z6ZnEpztU)
 - [Video: How OKR alignments work in Ally](https://www.youtube.com/watch?v=pRl5QkvJEq8)
 
+## Additional Resources
+
+- [What Matters](https://www.whatmatters.com/)
+- [Ally/OKR overview video for Product Managers](https://www.youtube.com/watch?v=M7z6ZnEpztU)
+- [How OKR alignments work in Ally](https://www.youtube.com/watch?v=pRl5QkvJEq8)
 
 ## How to contribute to this page
 
