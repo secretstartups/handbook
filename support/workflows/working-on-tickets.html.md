@@ -37,12 +37,13 @@ The global priority order for handling tickets is:
 
 #### Main Views
 
-1. My Assigned Tickets - Keep your customers up to date and moving towards solutions
-1. [Needs Org / FRT](https://gitlab.zendesk.com/agent/filters/360076150200) - all SEs find new tickets here
-1. [Handover Needed (REGION)](https://gitlab.zendesk.com/agent/filters/360076150280) - all SEs find new tickets here
-1. [SaaS Account](https://gitlab.zendesk.com/agent/filters/360050768099) - SaaS focused SEs find new tickets here
-1. [Free user tickets](https://gitlab.zendesk.com/agent/filters/360038103100) - help when you have capacity
-1. [L&R](https://gitlab.zendesk.com/agent/filters/360038103700) - for L&R focused SEs
+The views within Zendesk are arranged as follows: 
+- [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834) - Keep your customers up to date and moving towards solutions once you've made sure no tickets are breaching.
+- [Needs Org / FRT](https://gitlab.zendesk.com/agent/filters/360076150200) - These tickets are the top priority; start here.
+- [Handover Needed (REGION)](https://gitlab.zendesk.com/agent/filters/360076150280) - If nothing is in danger of breaching, grab these.
+- [SaaS Account](https://gitlab.zendesk.com/agent/filters/360050768099) - A subset of Handover Needed focused on SaaS account issues.
+- [Free user tickets](https://gitlab.zendesk.com/agent/filters/360038103100) - help when you have capacity
+- [Needs Collaboration](https://gitlab.zendesk.com/agent/filters/360080204660) - Tickets where your colleagues are looking for help, see [What is the `Needs Collaboration` view and workflow](##what-is-the-the-needs-collaboration-view-and-workflow)
 
 ### Zendesk Housekeeping and Things To Keep In Mind:
 
