@@ -50,10 +50,10 @@ Pushing to the Container Registry with Docker commands requires authentication.
        - Select **Create personal access token**.
         **Save the personal access token somewhere safe. After you leave the page, you no longer have access to the token.**
     - Authenticate by running the Docker command as a script in the `gitlab-ci.yml`.   
-   ```yml
-   # Add the following commands under the "script" keyword in `.gitlab-ci.yml`
-   - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
-   ```
+```yml
+# Add the following commands under the "script" keyword in `.gitlab-ci.yml`
+- docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+```
 ### Build and push image to Container Registry
 Build and push to the Container Registry:
 
