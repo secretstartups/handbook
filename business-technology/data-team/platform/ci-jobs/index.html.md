@@ -30,6 +30,12 @@ This page documents the CI jobs used by the data team in Merge Requests in both 
 * The easiest way to do to this is to click the blue run pipeline button as below: 
 ![run_pipeline_button.png](run_pipeline_button.png)
 
+### Variable Name found in the job
+If this kind of error pops up in the pipeline like KeyError: 'GITLAB_COM_CI_DB_USER'. It mean the variable is not defined in the variable section of CI/CD Settings. To resolve this add the variable name to variable section by going to settings --> ci_cd --> variable. 
+The same apply for the variable value if it is incorrect in the job. 
+
+
+
 # Analytics pipelines 
 
 ## Stages
