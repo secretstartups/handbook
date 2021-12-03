@@ -51,6 +51,8 @@ The Product Marketing Manager is a [grade 8](/handbook/total-rewards/compensatio
 * Experience designing sales collateral from scratch based on sales conversations, sales calls, product interviews, user interviews, market research, and your own experience.
 * You share our [values](/handbook/values/) and work according to those values.
 * Ability to use GitLab.
+* Ability to travel if needed and comply with the company’s travel policy. 
+* If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ## Senior Product Marketing Manager
 Senior product marketing managers are leaders and bring deep experience in a specific domain. Through your leadership, experience, and insight, you will position GitLab to address business challenges, contribute to the product strategy, and provide thought leadership. You will be expected to prioritize and manage your work with minimal guidance from leadership or other product team members.
@@ -75,6 +77,8 @@ The Senior Product Marketing Manager is a [grade 9](/handbook/total-rewards/comp
 * Experience with Software-as-a-Service offerings and open core software a plus.
 * Experience designing sales collateral from scratch based on sales conversations, sales calls, product interviews, user interviews, market research, and your own experience.
 * You share our [values](/handbook/values/) and work according to those values.
+* Ability to travel if needed and comply with the company’s travel policy. 
+* If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ## Specialties
 
@@ -87,6 +91,8 @@ As a Product Marketing Manager, Security Specialist, you will work closely with 
 * Deep understanding of Agile and DevOps methodologies across the entire Software Development Lifecycle, especially as it relates to application security risks, threats, trends, and patterns.
 * Understand enterprise buyer and user personas tasked with security pain points and how to market security solutions to them.
 * Security certifications such as CISSP a plus.
+* Ability to travel if needed and comply with the company’s travel policy. 
+* If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 
 ### Monitoring Specialist
@@ -98,6 +104,8 @@ As a Sr. Product Marketing Manager, Monitoring Specialist, you will work closely
 * Understand enterprise buyer and user personas tasked with enterprise IT operations and monitoring pain points and how to market monitoring solutions to them.
 * Experience with cloud native, datacenter, and hybrid infrastructure and applications desirable.
 * Operations certifications such as ITIL a plus.
+* Ability to travel if needed and comply with the company’s travel policy. 
+* If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 
 ### Developer Specialist (create)
@@ -108,6 +116,8 @@ As a Sr.  Product Marketing Manager, development, you will work closely with our
 * Understand market dynamics, the competition, and customer needs of the enterprise application developers.
 * Understand enterprise buyer and user personas tasked with developer tools and solutions and how to market developer solutions to them.
 * Experience with git, perforce, bitbucket, Gerrit, code reviews, pair programming, and open source software.
+* Ability to travel if needed and comply with the company’s travel policy. 
+* If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ### Verify Specialist (Continuous Integration)
 As a Product Marketing Manager, Verify Specialist, you will work closely with our marketing, engineering, business development, and sales team, and partners to help them understand how GitLab continuous integration, testing, and quality management capabilities help solve customer problems as well as educate them about market competitors.  You will also be responsible for crafting, testing, creating and rolling out messaging and positioning of GitLab’s CI capabilities.
@@ -117,6 +127,8 @@ As a Product Marketing Manager, Verify Specialist, you will work closely with ou
 * Understand market dynamics, the competition, and customer needs of the enterprise application developers and software testing / QA.
 * Understand enterprise buyer and user personas tasked with both developer and QA tools and solutions and how to market to them.
 * Experience with jenkins, bamboo, circle CI, automated testing, quality management, traceability and cloud-native applications.
+* Ability to travel if needed and comply with the company’s travel policy. 
+* If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ### Agile-Planning Specialist (Plan)
 As a Product Marketing Manager, Agile-Planning Specialist, you will work closely with our marketing, engineering, business development, and sales team, and partners to help them understand how GitLab planning and portfolio management capabilities help solve customer problems as well as educate them about market competitors.  You will also be responsible for crafting, testing, creating and rolling out messaging and positioning of GitLab’s agile project management capabilities.
@@ -126,6 +138,8 @@ As a Product Marketing Manager, Agile-Planning Specialist, you will work closely
 * Understand market dynamics, the competition, and customer needs of the enterprise agile project and portfolio management.
 * Understand enterprise buyer and user personas tasked with both project and product manager tools and solutions and how to market to them.
 * Experience with Jira, Rally, Version One, Agile Craft and other planning and portfolio mgt tools.
+* Ability to travel if needed and comply with the company’s travel policy. 
+* If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ### Competitive Intelligence Specialist
 As a Competitive Intelligence Product Marketer, you will work closely with a wide range of cross-functional teams (Product, Marketing, Sales) to turn competitive insights into actionable advantages for GitLab’s go-to-market motion. To achieve this ambition, you will organize and distill competitive intelligence, educate our teams, and create specific competitive playbooks & content that increase our share of the market.
@@ -139,6 +153,8 @@ As a Competitive Intelligence Product Marketer, you will work closely with a wid
 * Understand enterprise buyer and user personas tasked with developer, security, and operations tools and solutions and how to market to them.
 * Ability to move iteratively with speed and urgency.
 * Written and verbal communication fit to engage customers, analysts, and influencers.
+* Ability to travel if needed and comply with the company’s travel policy. 
+* If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 #### Responsibilities
 * Develop, organize, and maintain a competitive information repository, both internal and external facing.
@@ -193,6 +209,8 @@ As a Product Marketing Manager, Market Insights, you will bring your market know
 * Participate and help prepare for industry analyst briefings as required.
 * Support support to sales team in sales discussions with prospects and customers.
 * Past experience in market and customer research roles is a plus.
+* Ability to travel if needed and comply with the company’s travel policy. 
+* If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ## Career Ladder 
 The next step in a Senior Product Marketing Manager's career at GitLab is to be a [Manager, Product Marketing.](https://about.gitlab.com/job-families/marketing/product-marketing-management/).
