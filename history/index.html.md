@@ -7,66 +7,7 @@ canonical_path: "/company/history/"
 
 - TOC
 {:toc}
-
 ## A brief history of GitLab
-
-### _2011: Start of GitLab_
-
-Our CTO Dmitriy needed a great tool to collaborate with his team. He wanted something efficient and enjoyable so he could focus on his work, not the tools. He created GitLab from his house in Ukraine. It was a house without running water but Dmitriy perceived not having a great collaboration tool as a bigger problem than his daily trip to the communal well.
-
-So together with Valery, he started to build GitLab as a solution for this. [This commit](https://gitlab.com/gitlab-org/gitlab-foss/commit/9ba1224867665844b117fa037e1465bb706b3685) was the very start of GitLab on October 8, 2011.
-
-The GitLab name was inspired by [GitWeb](https://git-scm.com/book/en/v2/Git-on-the-Server-GitWeb) and other git products.
-
-### _2012: GitLab.com_
-
-Sid saw GitLab for the first time and thought it was natural that a collaboration tool for programmers was an open source so you could contribute to it.
-Being a Ruby programmer he checked out the source code and was impressed with the code quality of GitLab after more than 300 contributions in the first year.
-He [asked Hacker News](https://news.ycombinator.com/item?id=4428278) if they were interested in using GitLab.com and hundreds of people signed up for the beta.
-In November 2012, Dmitriy made the [first version of GitLab CI](https://gitlab.com/gitlab-org/gitlab-ci/commit/52cd500ee64a4a82b9ff6752ee85028cd419fcbe).
-
-### _2013: "I want to work on GitLab full time"_
-
-Large organizations running GitLab asked Sid to add features that they needed.
-At the same time Dmitriy tweeted out to the world that he wanted to work on GitLab full time.
-Sid and Dmitriy teamed up and introduced [GitLab Enterprise Edition](/blog/2013/07/22/announcing-gitlab-enterprise-edition) with the features asked for by larger organizations. Sid authored the [initial commit](https://gitlab.com/gitlab-com/www-gitlab-com/-/commit/d69bc4c1acb61666e20ec62a2a0907d535176753) on GitLab's website repository.
-
-### _2014: GitLab was incorporated_
-
-In 2014 GitLab was officially incorporated as a [limited liability corporation](/blog/2014/04/18/gitlab-cloud-becomes-gitlab-com/).
-GitLab released a new version every month on the 22nd, just as every year before and after.
-The first release of the year at January 22nd: GitLab 6.5. At the end of 2014, December 2014, GitLab 7.6 was released.
-In the end of that year we submitted [our application to Y Combinator](/blog/2016/09/30/gitlabs-application-for-y-combinator-winter-2015/).
-
-### _2015: Y Combinator_
-
-In the very start of 2015, almost the entire GitLab team flew over to Silicon
-Valley to [participate in Y Combinator](/blog/2015/03/04/gitlab-is-part-of-the-y-combinator-family/).
-
-We became much more comfortable with a much faster pace, and it changed the way we thought about what we could achieve in a short timeframe. If we think something takes too long, we need to change our idea of what we can accomplish. There is always an opportunity to do something smaller and imperfect but that still makes a difference.
-
-It was essential to the trajectory we've set. We never thought we could beat our competitors, but we had big ambitions and knew we had a great product and would continue to iterate and improve on that product, which we still do today.
-
-We graduated in March of 2015 and had 9 people on our team. The GitLab Handbook was [added to the website repository](https://gitlab.com/gitlab-com/www-gitlab-com/-/commit/2d2ced8f79da96fe981a3a6f6cf5918fa2dd992a). 
-
-### _2016: Growth_
-
-In 2016 the number of [people that contributed to GitLab](http://contributors.gitlab.com/) grew to more than 1000.
-More than 100,000 organizations and millions of users are using GitLab.
-Our team grew with 100 people to more than 140.
-In September we announce [our master plan](/blog/2016/09/13/gitlab-master-plan/) and raising $20m in our B round of financing.
-
-### _2017: GitLab Storytime_
-
-A team member at GitLab interviewed the first five team members from GitLab to hear stories from the first years. In [Storytime Part 1](https://www.youtube.com/watch?v=DSmqOQ6eLB4) the team talks about hiring its first team member, learning to iterate, thoughts of shutting down, Y Combinator, and how the values were created. In [Storytime Part 2](https://www.youtube.com/watch?v=4pe6_d9ZTC4), we hear some hilarious stories of a surprise bachelor party, a competitor’s offer to talk, a presentation that involved a lab coat and safety goggles, the first GitLab summit, and experiences at the Mountain View House.
-
-### _2019: Contribute_
-
-Haydn Mackay delivered a [wonderful keynote](https://www.youtube.com/watch?v=kDfHy7cv96M&feature=youtu.be&t=2640) at GitLab Contribute in New Orleans detailing GitLab's history. As one of GitLab's earliest employees and an inspiration for GitLab's all-remote culture, Haydn provided a uniquely comprehensive view of GitLab's evolution. 
-
-### _2020: The world's largest all-remote company_
-
-With over 1,200 team members in more than 65 countries, we believe we were the world's largest all-remote company prior to the COVID-19 pandemic. Every single team member is remote, with no central headquarters and no company-owned offices anywhere in the world. GitLab has [raised $426M to date](/press/releases/2019-09-17-gitlab-raises-268m-to-expanding-leading-devops-platform.html).
 
 ### _2021: 10 Years of GitLab_
 
@@ -79,7 +20,63 @@ On October 14, 2021, GitLab Inc. [became a publicly traded company](/blog/2021/1
 <figure class="video_container">
    <iframe src="https://player.vimeo.com/video/650088717?h=c4db5327bd" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </figure>
+### _2020: The world's largest all-remote company_
 
+With over 1,200 team members in more than 65 countries, we believe we were the world's largest all-remote company prior to the COVID-19 pandemic. Every single team member is remote, with no central headquarters and no company-owned offices anywhere in the world. GitLab has [raised $426M to date](/press/releases/2019-09-17-gitlab-raises-268m-to-expanding-leading-devops-platform.html).
+
+### _2019: Contribute_
+
+Haydn Mackay delivered a [wonderful keynote](https://www.youtube.com/watch?v=kDfHy7cv96M&feature=youtu.be&t=2640) at GitLab Contribute in New Orleans detailing GitLab's history. As one of GitLab's earliest employees and an inspiration for GitLab's all-remote culture, Haydn provided a uniquely comprehensive view of GitLab's evolution. 
+
+### _2017: GitLab Storytime_
+
+A team member at GitLab interviewed the first five team members from GitLab to hear stories from the first years. In [Storytime Part 1](https://www.youtube.com/watch?v=DSmqOQ6eLB4) the team talks about hiring its first team member, learning to iterate, thoughts of shutting down, Y Combinator, and how the values were created. In [Storytime Part 2](https://www.youtube.com/watch?v=4pe6_d9ZTC4), we hear some hilarious stories of a surprise bachelor party, a competitor’s offer to talk, a presentation that involved a lab coat and safety goggles, the first GitLab summit, and experiences at the Mountain View House.
+
+### _2016: Growth_
+
+In 2016 the number of [people that contributed to GitLab](http://contributors.gitlab.com/) grew to more than 1000.
+More than 100,000 organizations and millions of users are using GitLab.
+Our team grew with 100 people to more than 140.
+In September we announce [our master plan](/blog/2016/09/13/gitlab-master-plan/) and raising $20m in our B round of financing.
+
+### _2015: Y Combinator_
+
+In the very start of 2015, almost the entire GitLab team flew over to Silicon
+Valley to [participate in Y Combinator](/blog/2015/03/04/gitlab-is-part-of-the-y-combinator-family/).
+
+We became much more comfortable with a much faster pace, and it changed the way we thought about what we could achieve in a short timeframe. If we think something takes too long, we need to change our idea of what we can accomplish. There is always an opportunity to do something smaller and imperfect but that still makes a difference.
+
+It was essential to the trajectory we've set. We never thought we could beat our competitors, but we had big ambitions and knew we had a great product and would continue to iterate and improve on that product, which we still do today.
+
+We graduated in March of 2015 and had 9 people on our team. The GitLab Handbook was [added to the website repository](https://gitlab.com/gitlab-com/www-gitlab-com/-/commit/2d2ced8f79da96fe981a3a6f6cf5918fa2dd992a). 
+
+### _2014: GitLab was incorporated_
+
+In 2014 GitLab was officially incorporated as a [limited liability corporation](/blog/2014/04/18/gitlab-cloud-becomes-gitlab-com/).
+GitLab released a new version every month on the 22nd, just as every year before and after.
+The first release of the year at January 22nd: GitLab 6.5. At the end of 2014, December 2014, GitLab 7.6 was released.
+In the end of that year we submitted [our application to Y Combinator](/blog/2016/09/30/gitlabs-application-for-y-combinator-winter-2015/).
+
+### _2013: "I want to work on GitLab full time"_
+
+Large organizations running GitLab asked Sid to add features that they needed.
+At the same time Dmitriy tweeted out to the world that he wanted to work on GitLab full time.
+Sid and Dmitriy teamed up and introduced [GitLab Enterprise Edition](/blog/2013/07/22/announcing-gitlab-enterprise-edition) with the features asked for by larger organizations. Sid authored the [initial commit](https://gitlab.com/gitlab-com/www-gitlab-com/-/commit/d69bc4c1acb61666e20ec62a2a0907d535176753) on GitLab's website repository.
+
+### _2012: GitLab.com_
+
+Sid saw GitLab for the first time and thought it was natural that a collaboration tool for programmers was an open source so you could contribute to it.
+Being a Ruby programmer he checked out the source code and was impressed with the code quality of GitLab after more than 300 contributions in the first year.
+He [asked Hacker News](https://news.ycombinator.com/item?id=4428278) if they were interested in using GitLab.com and hundreds of people signed up for the beta.
+In November 2012, Dmitriy made the [first version of GitLab CI](https://gitlab.com/gitlab-org/gitlab-ci/commit/52cd500ee64a4a82b9ff6752ee85028cd419fcbe).
+
+### _2011: Start of GitLab_
+
+Our CTO Dmitriy needed a great tool to collaborate with his team. He wanted something efficient and enjoyable so he could focus on his work, not the tools. He created GitLab from his house in Ukraine. It was a house without running water but Dmitriy perceived not having a great collaboration tool as a bigger problem than his daily trip to the communal well.
+
+So together with Valery, he started to build GitLab as a solution for this. [This commit](https://gitlab.com/gitlab-org/gitlab-foss/commit/9ba1224867665844b117fa037e1465bb706b3685) was the very start of GitLab on October 8, 2011.
+
+The GitLab name was inspired by [GitWeb](https://git-scm.com/book/en/v2/Git-on-the-Server-GitWeb) and other git products.
 
 ## When did we know that GitLab would work?
 
