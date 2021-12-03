@@ -44,7 +44,7 @@ The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/co
 
 ### Staff Brand Manager
 
-The senior brand manager reports to the Manager, Brand Strategy and Growth.
+The Staff Brand Manager reports to the Manager, Brand Strategy and Growth.
 
 #### Staff Brand Manager Job Grade
 
