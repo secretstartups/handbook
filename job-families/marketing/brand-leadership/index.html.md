@@ -27,7 +27,7 @@ The Director, Brand is a [grade 10](/handbook/total-rewards/compensation/compens
 
 #### Director, Brand Requirements
 
-* Experience working as a brand leader in B2B technology space. 
+* Proven and progressive experience working as a strategic brand leader in B2B technology space. 
 * Passion for creativity, innovation and making complex topics and systems accessible and understandable.
 * A data-driven mindset with the ability to convert quantitative & qualitative research into actionable insights.
 * Experience in coaching, developing and mentoring employees.
@@ -56,7 +56,7 @@ The Sr. Director, Brand is a [grade 11](/handbook/total-rewards/compensation/com
 #### Sr. Director, Brand Requirements
 
 * Extends that of the Director, Brand requirements
-* Has a global mindset and understanding about how the brand message should change in different regions.
+* Has a global mindset and understanding about how the brand message should be adapted for different regions.
 * Ability to work with leadership to drive conversations around GitLab's brand direction and category leadership.
 * Proven abaility to drive successful global brand campaigns.
 * Demonstrated experience designing and executing integrated brand campaigns across multiple media forms with measurable impact on business results.
