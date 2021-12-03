@@ -273,7 +273,7 @@ Below is a short video from the L&D team reviewing how and why you might choose 
 1. Open issues to track actions you'll take as a result or inspriationo of learning resources you've used
 1. Add those issues as related to your epic. If you can't add the related issues becuase they are in differnet projects, consider starting a new thread in the epic that links to any and all issues that are a result of, or impacted by, your career development work
 
-## Career Mapping and Development
+### Career Mapping and Development
 {:#career-mapping-and-development}
 
 We have started this process at GitLab by defining Junior, Senior and Staff advancement levels. Career Mapping helps GitLab team-members to understand and develop the skills they need to achieve their goals, giving them clear criteria.
