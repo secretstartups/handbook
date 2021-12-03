@@ -82,7 +82,7 @@ This section will usually be done by the peer reviewer.
 
 #### User Fails to Prove Account Ownership
 
-> **Note**: Do _not_ provide hints to answers. That is how social engineering works!
+> **Note**: Do _not_ provide hints to answers, or let the user know which challenges they got right or wrong. That is how social engineering works!
 
 1. If the user is unable to pass the risk factor but we have not provided all the applicable challenges, you may offer further challenges.
    - Most commonly, an `Owner in the top level namespace` (with a valid subscription) vouch is requested. Use the [`Support::SaaS::2FA::2FA ask owner vouch` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360052221199). The originating email of this request should match a verified email of the Owner's account.
