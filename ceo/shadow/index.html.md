@@ -186,7 +186,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-11-15 | 2021-11-19 | [David Kim](https://gitlab.com/dskim_gitlab) - Sr. Backend Engineer | [REB - Richard E. Baum](https://gitlab.com/xyzzy) - Sr. Solutions Architect |
 | 2021-11-30 | 2021-12-03 | [Amy Qualls](https://gitlab.com/aqualls) - Sr. Technical Writer | [David Kim](https://gitlab.com/dskim_gitlab) - Sr. Backend Engineer |
 | 2021-12-06 | 2021-12-10 | [James Heimbuck](https://gitlab.com/jheimbuck_gl) - Sr. Product Manager | [Amy Qualls](https://gitlab.com/aqualls) - Sr. Technical Writer |
 | 2021-12-13 | 2021-12-17 | [Cynthia Ng](https://gitlab.com/cynthia) - Sr. Support Engineer | [James Heimbuck](https://gitlab.com/jheimbuck_gl) - Sr. Product Manager |
@@ -1079,3 +1078,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-09-28 <br/>2021-10-18 | 2021-10-01 <br/>2021-10-22 | [Kyle Wiebers](https://gitlab.com/kwiebers) | Engineering Manager, Eng Productivity | |
 | 2021-10-18 | 2021-10-29 | [Omar Eduardo Fernandez](https://gitlab.com/ofernandez2) | Director, Strategy and Operations | |
 | 2021-10-25 <br/>2021-11-08 | 2021-10-29 <br/>2021-11-12 | [Taurie Davis](https://gitlab.com/tauriedavis) | Product Design Manager, Foundations | |
+| 2021-11-08 | 2021-11-19 | [REB - Richard E. Baum](https://gitlab.com/xyzzy) | Sr. Solutions Architect | |
