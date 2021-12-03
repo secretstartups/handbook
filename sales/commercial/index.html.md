@@ -1,9 +1,3 @@
----
-layout: handbook-page-toc
-title: "Commercial Sales"
-department: "The Commercial Sales department at GitLab focuses on delivering maximum value to SMB and Mid-Market customers throughout their entire journey with GitLab"
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -160,21 +154,23 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
 1. Keeping your opportunities [up to date at all times](/handbook/sales/commercial/#salesforce-pipeline-activity) [video](https://youtu.be/o5gm7_5321w)
 
 ## Chorus recordings
+
 A recording Chorus license is mandatory for all Commercial Account Executives. Our intent is to record customer calls for the following reasons:
 
-- For training, to make sure we are giving customers the best possible experience 
+- For training, to make sure we are giving customers the best possible experience
 - To give to the customer as a visual record of our conversations with them
 - To verify any details we may have missed in the conversation
 
 ### Mandatory steps required to record calls
-Laws around recording differ from states to state and country to country. Therefore, it is required that every Account Executive take the steps below on *every* customer call. The Account Executive is responsible for ensuring the steps below are followed.
+
+Laws around recording differ from states to state and country to country. Therefore, it is required that every Account Executive take the steps below on _every_ customer call. The Account Executive is responsible for ensuring the steps below are followed.
 
 1. Introduce GitLab Notetaker and clearly explain what it is and why it is there. Example: "You may have noticed GitLab Notetaker here. This is recording the call for training and verification. I can share the recording with you if you want. If you are OK being recorded, please say so verbally and give a thumbs up. If you're not, I can remove it from the meeting."
-2. If the customer requests that they are not recorded, you must remove GitLab Notetaker immediately and verbally confirm you have done so.
-3. If the customer verbally and visually agrees to being recorded, you can continue.
-4. If you are due to be on a call and cannot make it, you **must** inform the customer that Chorus will be in the call and that they should remove Notetaker when you decline the invite.
+1. If the customer requests that they are not recorded, you must remove GitLab Notetaker immediately and verbally confirm you have done so.
+1. If the customer verbally and visually agrees to being recorded, you can continue.
+1. If you are due to be on a call and cannot make it, you **must** inform the customer that Chorus will be in the call and that they should remove Notetaker when you decline the invite.
 
-Failure to follow the above is not acceptable in any situation. 
+Failure to follow the above is not acceptable in any situation.
 
 ## [Opportunity Consults](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) (OCF) and Lightweight Deal Review (LDR) Process
 
@@ -193,17 +189,15 @@ Failure to follow the above is not acceptable in any situation.
 1. Always keep Next Steps Date and Next Steps up to date as an assignment to a future version of yourself on how you will take action to continue the customers buying process.
 1. When you start your day you need to check all inputs like email, zendesk, and lead queue so you can triage those requests into your priorities for that day.
 1. Allocate times of your day in four ways:
-
-   - Customer meetings scheduled
-   - Proactive email and internal efforts
-   - Proactive calling efforts
-   - Time to check inputs again
-
+    - Customer meetings scheduled
+    - Proactive email and internal efforts
+    - Proactive calling efforts
+    - Time to check inputs again
 1. When beginning a proactive time block, open your opportunities view and sort by Next Steps Date.
 1. Your Next Steps should be specific and compelling so that you can take action on them within 3 minutes of reading.
-    1. `Next Steps` should contain **_only_** the actions you will take next: no dates, no history, just the Next Steps
-    2. When you update `Next Steps`, the `Next Steps History` will automatically capture your prior `Next Steps`, applying a date stamp and storing them in reverse-chronological order
-    3. __Please Note:__ If you previously included history in the `Next Steps` field, the next time you update `Next Steps` you will need to clear the field completely and input only your Next Steps
+    1. `Next Steps` should contain <b>_only_</b> the actions you will take next: no dates, no history, just the Next Steps
+    1. When you update `Next Steps`, the `Next Steps History` will automatically capture your prior `Next Steps`, applying a date stamp and storing them in reverse-chronological order
+    1. **Please Note:** If you previously included history in the `Next Steps` field, the next time you update `Next Steps` you will need to clear the field completely and input only your Next Steps
 
 ### Opportunity-Specific Slide Deck
 
@@ -212,39 +206,31 @@ It is required that all opportunities above $10,000 (Mid Market) and $5,000 (SMB
 #### Custom Deck Requirements
 
 1. **Visual Requirements**
-
-   - Deck's main color will match or resemble that of the customer's.
-   - Where possible, use the customer's logo.
-   - It is appropriate to ask the customer for a blank template.
-
+    - Deck's main color will match or resemble that of the customer's.
+    - Where possible, use the customer's logo.
+    - It is appropriate to ask the customer for a blank template.
 1. **Customer Agreed-upon Agenda**
-
-   - When meeting with the customer, leverage an agreed upon agenda to aide in co-selling.
-
+    - When meeting with the customer, leverage an agreed upon agenda to aide in co-selling.
 1. **Calculated ROI of GitLab v. Next Best Option**
+    - For New Business the next best option could be 'do nothing' or our competition.
 
-   - For New Business the next best option could be 'do nothing' or our competition.
-  - For Renewals the next best option could be to go back to what they were doing before.
+- For Renewals the next best option could be to go back to what they were doing before.
 
 1. **Two options (rough plans) with GitLab going forward**
-
-   - For new business this takes the form of [Two Lane Selling](https://docs.google.com/document/d/1h7DCIRAQ1pRiqDF6Aebl354uoMXiXbSVLaC_XefzM6w/edit) where we give them a high engagement and a low engagement option.
-   - For a renewal, this could be a one year v. a three year option, or Premium v. Ultimate.
-
+    - For new business this takes the form of [Two Lane Selling](https://docs.google.com/document/d/1h7DCIRAQ1pRiqDF6Aebl354uoMXiXbSVLaC_XefzM6w/edit) where we give them a high engagement and a low engagement option.
+    - For a renewal, this could be a one year v. a three year option, or Premium v. Ultimate.
 1. **Non-Custom Single Application pitch to the customer**
-
-   - This slide should have a visual representation of using GitLab as a single application for the entire software development life cycle.
-   - The intent of this slide is to have the conversation with the customer on 'what is possible', and to capture their feedback
-
+    - This slide should have a visual representation of using GitLab as a single application for the entire software development life cycle.
+    - The intent of this slide is to have the conversation with the customer on 'what is possible', and to capture their feedback
 1. **Full capture of the customer's feedback on the 'Single Application' slide**
-
-   - Capture the customer's actual words in the speaker notes of the 'single application' slide
+    - Capture the customer's actual words in the speaker notes of the 'single application' slide
 
 ## SMB Account Executives
 
 SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](/handbook/sales/field-operations/gtm-resources/) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees. These GitLab team members are responsible for working new business in their [territory](/handbook/sales/territories) as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions. [Please read through the SMB handbook page for more information](/handbook/sales/commercial/smb).
 
 ### Critical Salesforce reports to follow and bookmark
+
 - [SMB AMER Required 7](https://gitlab.my.salesforce.com/01Z4M000000oXCS)
 - [SMB AMER Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
 - [SMB APAC/EMEA Required 7](https://gitlab.my.salesforce.com/01Z4M000000oWyL)
@@ -283,6 +269,7 @@ Support will take the lead on all incoming requests in the queue and only forwar
 
 - Prior to working a new opportunity always double-check the Account segmentation is "SMB" and the employee count for the company is less than 100, by viewing datafox information and verifying with LinkedIn (especially outside of AMER)
 - Direct yourself every day to your Next Steps to know how to prioritize and organize your day. Recommendations on how to work through your next steps for the day:
+
 1. Sort by stage, placing highest priority stage at the top
 1. Prioritize the opportunities you are going to work on first by stage, amount, and close date
 1. Ensure "Next Steps," "Next Step Date," and "Next Steps Owner" are current with actionable and informative information that helps guide you on how to move the opportunity through the pipeline
@@ -290,7 +277,8 @@ Support will take the lead on all incoming requests in the queue and only forwar
 1. Once opportunities in the stages Discovery through Awaiting Signature are updated, begin working on Pending Acceptance. Continue to prioritize with the same criteria as above.
 
 #### Pipeline Generation
-- In weekly communication with your direct management review the health of your pipeline and update records as needed in real-time. You should know at all times what your pipeline multiplier is and if you need to create more pipeline to have a successful month and quarter. Refer to your team's **Pipeline Generation** checklist documents and the associated SFDC reports associated with keeping activity up to date. 
+
+- In weekly communication with your direct management review the health of your pipeline and update records as needed in real-time. You should know at all times what your pipeline multiplier is and if you need to create more pipeline to have a successful month and quarter. Refer to your team's **Pipeline Generation** checklist documents and the associated SFDC reports associated with keeping activity up to date.
 
 #### Web Direct Oppty Management in Salesforce
 
@@ -314,19 +302,23 @@ GitLab.com Trials & Subscription Management
 
 #### Close Date Conventions
 
+``` sse
 <span class="colour" style="color: rgb(0, 0, 0);">First, forecasting, down to even the opportunity level, is a routine exercise for accuracy, not motivation or aspiration. Each week on Wednesday it is required to update five values in Clari by close of business (5 PM) local time.  This is Renewal Loss Best Case, Renewal Loss Best Case, Gross Net ARR Best Case, Gross Net ARR Commit, and Net 50/50.  At this time, it is required to double-check pipeline cleanliness and always follow the close date conventions listed here.</span>
+```
 
-1. <span class="colour" style="color: rgb(0, 0, 0);">The close date should always be in the month that you believe it has the most likely chance of closing (with only one exception as dictated below).</span>
-1. <span class="colour" style="color: rgb(0, 0, 0);">At **all times** the Net ARR amount should reflect your best estimate of the actual amount that the opportunity will have on it when it closes in the month reflected in the close date. There are no exceptions other than returning from an onsite visit, even if you have not spoken with the account. If you get a new opp you should quickly assess the account and, given your experience, make an educated guess on what amount the company will transact at.</span>
-1. <span class="colour" style="color: rgb(0, 0, 0);">The Stage represents where you believe the customer is in their buying process, not only the specific steps they have taken with you.</span>
+1. <span class="colour" style="color:rgb(0, 0, 0)">The close date should always be in the month that you believe it has the most likely chance of closing (with only one exception as dictated below).</span>
+1. <span class="colour" style="color:rgb(0, 0, 0)">At **all times** the Net ARR amount should reflect your best estimate of the actual amount that the opportunity will have on it when it closes in the month reflected in the close date. There are no exceptions other than returning from an onsite visit, even if you have not spoken with the account. If you get a new opp you should quickly assess the account and, given your experience, make an educated guess on what amount the company will transact at.</span>
+1. <span class="colour" style="color:rgb(0, 0, 0)">The Stage represents where you believe the customer is in their buying process, not only the specific steps they have taken with you.</span>
 
+``` sse
 <span class="colour" style="color: rgb(0, 0, 0);">The three close dates:</span>
+```
 
-1. <span class="colour" style="color: rgb(0, 0, 0);">Last day of the month it will close in **only if you have a compelling event defined**</span>
-1. <span class="colour" style="color: rgb(0, 0, 0);">The actual day the opportunity will close when the quote goes out for signature. It will appear past due if we don’t get the signature back and pushes to the Friday of the week it should close.  Renewals default to this convention</span>
-1. <span class="colour" style="color: rgb(0, 0, 0);">First day of the following month, no compelling event defined </span>
-    1. <span class="colour" style="color: rgb(0, 0, 0);">This is to straddle the first two and we have a plan to get a compelling event, then move to the last day of the month of actual closing</span>
-    1. <span class="colour" style="color: rgb(0, 0, 0);">This close date carries a window of roughly 60 days of when you think it will come in</span>
+1. <span class="colour" style="color:rgb(0, 0, 0)">Last day of the month it will close in **only if you have a compelling event defined**</span>
+1. <span class="colour" style="color:rgb(0, 0, 0)">The actual day the opportunity will close when the quote goes out for signature. It will appear past due if we don’t get the signature back and pushes to the Friday of the week it should close.  Renewals default to this convention</span>
+1. <span class="colour" style="color:rgb(0, 0, 0)">First day of the following month, no compelling event defined </span>
+    1. <span class="colour" style="color:rgb(0, 0, 0)">This is to straddle the first two and we have a plan to get a compelling event, then move to the last day of the month of actual closing</span>
+    1. <span class="colour" style="color:rgb(0, 0, 0)">This close date carries a window of roughly 60 days of when you think it will come in</span>
 
 **Example**: It's April 23rd, a new business Mid-Market opportunity is identified for a company at 410 employees and growing at an unknown rate (unclear due to being an agency). The company completed their evaluation with a trial ending this month, there are defined problems initially trying to solve, with some people who have used GitLab before.
 
@@ -350,9 +342,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 ### Mid Market Roles
 
 1. **MM Key Accounts First Order AE** (MMKAFO): These AEs work on the highest potential accounts that are not currently customers of GitLab. Once the customer has signed its first contract, the customer is transitioned to a MM Key Account Named AE. However, if an account is won by this team and is deemed to be low potential it will be passed to a MM Territory AE. The rough guideline for these accounts is more than 500 employees total and more than 100 combined employees in engineering and IT. We don't refer to MM First Order accounts as "Named Accounts", because First Order accounts can either go to Named or Territory AEs.
-
 1. **MM Key Accounts Named AE** (MMKAN): These AEs work on current customers that have been deemed to be high spending (high CARR) or have the potential to be high spending (high LAM). To be successful the MMKAN AE must expand their accounts more than the standard expansion rate for their named list of accounts. The named list for each MMKAN AE will grow through the fiscal year as the MMKAFO AE wins new high potential customers.
-
 1. **MM Territory AE**: These AEs work geographic regions of accounts that have not been vetted to be MM Key Account First Order AE or MM Key Account named AE. The role sells to both prospects and current accounts.
 
 "MM Key Accounts" can be used to refer to MM Key Accounts First Order and MM Key Accounts Named collectively. MM Key Accounts are the sub-set of MM accounts with a higher [LAM](https://about.gitlab.com/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) and potential LAM.
@@ -440,51 +430,52 @@ It is a requirement for the Commercial Sales Team to tier their accounts using t
 - Rank 3 Accounts that I keep informed about GitLab and DevOps monthly.
 
 ## Co-Selling
-Co-selling is the responsibility of both the Account Executive and their Area Sales Manager to join sales calls together. This is to ensure the best client/prospect experience, along with jointly finding the highest potential within that account. 
+
+Co-selling is the responsibility of both the Account Executive and their Area Sales Manager to join sales calls together. This is to ensure the best client/prospect experience, along with jointly finding the highest potential within that account.
 Area Sales Managers have an expectation to log a minimum of 5 co-selling calls per rolling 7 days, although we are aiming to achieve closer to 10-12 calls over a rolling 7 days.
 
 ### Co-Selling Roles when working with your ASM
-* Primary Seller: Consider this role as the main pitch person. You are directing the conversation, sharing the deck and taking live notes and adding value, while also keeping on track with the agenda decided upon.
-* Co-Seller: This individual is responsible for raw notes in Salesforce, time management, and digging into comments to identify areas where we should be finding additional information. The Co-pilot should be digging into levels and amounts of pain when the Pilot moves on without capturing this.
+
+- Primary Seller: Consider this role as the main pitch person. You are directing the conversation, sharing the deck and taking live notes and adding value, while also keeping on track with the agenda decided upon.
+- Co-Seller: This individual is responsible for raw notes in Salesforce, time management, and digging into comments to identify areas where we should be finding additional information. The Co-pilot should be digging into levels and amounts of pain when the Pilot moves on without capturing this.
 For additional information please visit this [reinforcement module](https://rise.articulate.com/share/-azahQvz24JLQ0yFj4JoRMorDMokvEeJ#/lessons/_fwDOSI3QjsRpf9LxRpm1R6gLVljSy0w)
- 
+
 ### Working with Channel Partners
 
-The GitLab partner network is ready to work with GitLab Account Executive's in order to extend the customer selling and services capacity offered by Commercial Sales. Channel's approach to this is called Partner Co-selling and working with Partners involves building a simple, clear, mutual customer opportunity plan establishing “who will do what, when?”. 
+The GitLab partner network is ready to work with GitLab Account Executive's in order to extend the customer selling and services capacity offered by Commercial Sales. Channel's approach to this is called Partner Co-selling and working with Partners involves building a simple, clear, mutual customer opportunity plan establishing “who will do what, when?”.
 
-#### What are the key benefits from working with partners? 
+#### What are the key benefits from working with partners?
 
-*   AEs Working with Partners for Increased Customer Value & Net ARR
-*   Extended reach and capabilities via Partner sales and services capacity and reach via  GitLab-trained Partner AE’s, SA’s, Engineers, and often a GitLab channel manager to coordinate/assist.   
-*   Accelerated reach to new customer logos “**_Land_**”: Partners are beginning to bring GitLab new logo opportunities via mining their customer base. In many cases, Partners already have a “trusted Partner status” with their customers, which also serves to accelerate new logo engagements. 
-*   Increased customer “**_Expand_**” success: In many cases, Partners will sell and deliver the key services called for to ensure customers get the maximum value from their GitLab technology investment and drive stage advance along with user growth.  
-*   Deployment and related services: For faster delivery and increased capacity, AEs are turning to Partners to sell and deliver these services, also TAM-like customer success services. 
-*   In the case of OPEN partners via distributors, dramatic reduction in the admin steps associated with quote-to-order process.
+- AEs Working with Partners for Increased Customer Value & Net ARR
+- Extended reach and capabilities via Partner sales and services capacity and reach via GitLab-trained Partner AE’s, SA’s, Engineers, and often a GitLab channel manager to coordinate/assist.
+- Accelerated reach to new customer logos “<b>_Land_</b>”: Partners are beginning to bring GitLab new logo opportunities via mining their customer base. In many cases, Partners already have a “trusted Partner status” with their customers, which also serves to accelerate new logo engagements.
+- Increased customer “<b>_Expand_</b>” success: In many cases, Partners will sell and deliver the key services called for to ensure customers get the maximum value from their GitLab technology investment and drive stage advance along with user growth.
+- Deployment and related services: For faster delivery and increased capacity, AEs are turning to Partners to sell and deliver these services, also TAM-like customer success services.
+- In the case of OPEN partners via distributors, dramatic reduction in the admin steps associated with quote-to-order process.
 
-#### How do AEs work with partners for increased customer value & Net ARR? 
+#### How do AEs work with partners for increased customer value & Net ARR?
 
-GitLab has a mature Partner network with good coverage of GitLab-trained Sales and Technical resources.  There are a few ways in which AEs will work with a customer including a Partner. 
+GitLab has a mature Partner network with good coverage of GitLab-trained Sales and Technical resources. There are a few ways in which AEs will work with a customer including a Partner.
 
-*   [Approved Partner GitLab Deal Registrations](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview) As these are received in your territory, in most cases* you will be contacted by a GitLab channel team member to arrange a co-selling kickoff call to develop a simple Partner co-selling plan to share with the Partner.  GitLab Channel Managers do not proactively manage all OPEN Partners. AEs can always request Channel Manager support for a Deal Registration by slacking channel-sales or available contacts.
-*  If you find themselves thinking 1. “a Partner SA could execute on this  customer-requested SA task”, or 2. AEs have customers that could benefit from a “Partner services attach engagement”, reach out on slack [#channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR) with a Partner engagement request, if possible with a link to the related account or opportunity. A member of the channel team will promptly reach out to learn more about the request, and connect you with a Partner that is pre-qualified to promptly and properly execute on the task at hand, and keep you updated along the way. 
-*   AEs should lead planning and execution of the joint opportunity/customer pursuit with alignment and support of the partner and GitLab Channel Manager. The plan should be [tracked in SFDC with tasks and action items](https://about.gitlab.com/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans). Partners should always get an email confirmation of any tasks assigned to them (via AE or Channel Mgr).  
-*   Channel Managers will engage with AE’s in the following ways:
-    *   When a new deal registration arrives in the AE’s pipeline
-    *   To review 2-3 Partners for the AE to work with for AE-selected joint customer success motions:
-        *   The Channel Manager will bring the possibilities forward during this call
-        *   2 examples of working with Partners are featured in this **[this Levelup](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2)**
-        *   AEs should share their thoughts about prioritizing which Partner activities would be best for which of their customers
-* In the case of Open partners via distributions, when the opportunity is ready, AE's email `partnersupport@gitlab.com` with the link to the opportunity requesting quote-to-order support (chatter alias coming soon) 
+- [Approved Partner GitLab Deal Registrations](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview) As these are received in your territory, in most cases* you will be contacted by a GitLab channel team member to arrange a co-selling kickoff call to develop a simple Partner co-selling plan to share with the Partner. GitLab Channel Managers do not proactively manage all OPEN Partners. AEs can always request Channel Manager support for a Deal Registration by slacking channel-sales or available contacts.
+- If you find themselves thinking 1. “a Partner SA could execute on this customer-requested SA task”, or 2. AEs have customers that could benefit from a “Partner services attach engagement”, reach out on slack [#channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR) with a Partner engagement request, if possible with a link to the related account or opportunity. A member of the channel team will promptly reach out to learn more about the request, and connect you with a Partner that is pre-qualified to promptly and properly execute on the task at hand, and keep you updated along the way.
+- AEs should lead planning and execution of the joint opportunity/customer pursuit with alignment and support of the partner and GitLab Channel Manager. The plan should be [tracked in SFDC with tasks and action items](https://about.gitlab.com/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans). Partners should always get an email confirmation of any tasks assigned to them (via AE or Channel Mgr).
+- Channel Managers will engage with AE’s in the following ways:
+    - When a new deal registration arrives in the AE’s pipeline
+    - To review 2-3 Partners for the AE to work with for AE-selected joint customer success motions:
+        - The Channel Manager will bring the possibilities forward during this call
+        - 2 examples of working with Partners are featured in this <b>[this Levelup](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2)</b>
+        - AEs should share their thoughts about prioritizing which Partner activities would be best for which of their customers
+- In the case of Open partners via distributions, when the opportunity is ready, AE's email `partnersupport@gitlab.com` with the link to the opportunity requesting quote-to-order support (chatter alias coming soon)
 
 #### Resources to learn more about teaming with Channel Partners?
 
-*   If this is a first time for an AE, we recommend watching the available training delivered. This Levelup video starts with a basic understanding of the [Channel Partner landscape](https://youtu.be/OeykHQetd7U). 
-*   LevelUp video on [Maximizing Value of Partners in a Deal](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2) specifically for AE’s to learn more about co-selling success.
-*   [Learn more about Partner co-selling best practices,  how Partners can help build out key elements of an AE’s R7 & Command Plans ](https://about.gitlab.com/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans)and much more in the [Channel Sales Handbook](https://about.gitlab.com/handbook/sales/channel/). 
-*   Slack [#channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR) or reach out to your Channel Account Manager with any questions or requests for assistance. The channel is closely monitored by several members of the channel team who are here to help AE’s succeed in co-selling in any way we can. 
-*  List of [GitLab-trained OPEN and SELECT channel partners](https://help.salesforce.com/articleView?id=reports_schedule.htm&type=5)
-*  Channel Partner Finder **[Here](https://partners.gitlab.com/English/directory/)
-
+- If this is a first time for an AE, we recommend watching the available training delivered. This Levelup video starts with a basic understanding of the [Channel Partner landscape](https://youtu.be/OeykHQetd7U).
+- LevelUp video on [Maximizing Value of Partners in a Deal](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2) specifically for AE’s to learn more about co-selling success.
+- [Learn more about Partner co-selling best practices, how Partners can help build out key elements of an AE’s R7 & Command Plans](https://about.gitlab.com/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans) and much more in the [Channel Sales Handbook](https://about.gitlab.com/handbook/sales/channel/).
+- Slack [#channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR) or reach out to your Channel Account Manager with any questions or requests for assistance. The channel is closely monitored by several members of the channel team who are here to help AE’s succeed in co-selling in any way we can.
+- List of [GitLab-trained OPEN and SELECT channel partners](https://help.salesforce.com/articleView?id=reports_schedule.htm&type=5)
+- Channel Partner Finder **[Here](https://partners.gitlab.com/English/directory/)
 
 ## Center of Excellence
 
@@ -528,65 +519,66 @@ Improvements to the Professional Services offering
 - **Ultimate**
 Improvements to the full pitch including [Why Ultimate](/pricing/ultimate/)
 
-
 ## Mid-Market Key Accounts First Order
 
 **Mid-Market Key Accounts First Order Team (MMKAFO) Tactics and Definitions**
 
-
 [The MM Key Accounts First Order Team](https://about.gitlab.com/handbook/sales/commercial/#mid-market-roles) is comprised of Account Executives that work on the highest potential accounts that are [not currently customers of GitLab](https://about.gitlab.com/handbook/sales/sales-term-glossary/#first-order-customers). Once the customer has signed its first contract, the customer is transitioned to a MM Key Account Named AE. However, if an account is won by this team and is deemed to be low potential it will be passed to a MM Territory AE. The rough guideline for these accounts is between 500 and 1999 employees and more than 100 combined employees in engineering and IT. We don't refer to MM First Order accounts as "Named Accounts", because First Order accounts can either go to Named or Territory AEs.
 
 It is the goal of this team to make the first transaction with GitLab:
-1.  Customer-Focused
-2.  Efficient
-3.  Scaleable
+
+1. Customer-Focused
+1. Efficient
+1. Scaleable
 
 #### First Order Prospecting Guidelines
 
 **Inbound Leads**
- 1. As a general rule, Sales Development Representatives (SDRs) own leads and Account Executives (AEs) own accounts and opportunities. It is the Account Executive's job to help the SDR understand how the First Order team works and what the expectations are. The expectations are as follows:
+
+1. As a general rule, Sales Development Representatives (SDRs) own leads and Account Executives (AEs) own accounts and opportunities. It is the Account Executive's job to help the SDR understand how the First Order team works and what the expectations are. The expectations are as follows:
+
+``` sse
    - Reach out to all [Marketing Qualified Leads](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#:~:text=The%20lead%20scoring%20model%20is,Score%20and%20their%20Demographic%20Score%20.) (MQLs) within one hour of them being assigned to the SDR.
     - The first outreach should be a phone call if there is a phone number listed
     - After the initial call, the SDR should email the prospect using either the sequence designated for trial requests and contact requests or the sequence designated for all other MQLs.
     - If an MQL or inquiry hasn't been actioned after two weeks of being assigned to the SDR, the AE has permission to reach out to the lead.
-
+```
 
 #### First Order Handoff Process
 
 After the first transaction is closed by the MMKAFO team, the First Order AEs are responsible to kickstart the handover process. Below are the responsibilities of the Mid-Market Key Account First Order team and the Mid-Market Key Account Named team.
 
 **MMKAFO Team**
+
 1. After the opportunity is marked 'Closed-Won', [look here](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2028) to find the appropriate MMKAN AE.
-2. Ensure the customer has received and installed their license
-3. Chatter the Named AE (if known), their ASM, the First Order ASM, Sales-Support, and Mid-Market Global Director to change the account and renewal opportunity into the Named Account Executive’s name.
-4. Log an activity on the ACCOUNT detailing: 
-    -  Why the account chose GitLab (use case)
-    -  Key contacts at the account
-    -  The expected NetARR to be sold in the next 12 months
-    -  Date by which the next order is expected to close
-    -  Estimated NetARR of the next opportunity
-    -  Why you believe c,d,and e
-    -  Naming convention of the activity should be: (Name of FO AE) FO Account Summary for Handoff
-5. Set up a call with the Named AE and the customer for a handoff call. 
-6. If the initial amount AND the immediate potential of the account is low (< $20,000 
+1. Ensure the customer has received and installed their license
+1. Chatter the Named AE (if known), their ASM, the First Order ASM, Sales-Support, and Mid-Market Global Director to change the account and renewal opportunity into the Named Account Executive’s name.
+1. Log an activity on the ACCOUNT detailing:
+    - Why the account chose GitLab (use case)
+    - Key contacts at the account
+    - The expected NetARR to be sold in the next 12 months
+    - Date by which the next order is expected to close
+    - Estimated NetARR of the next opportunity
+    - Why you believe c,d,and e
+    - Naming convention of the activity should be: (Name of FO AE) FO Account Summary for Handoff
+1. Set up a call with the Named AE and the customer for a handoff call.
+1. If the initial amount AND the immediate potential of the account is low (< $20,000
 combined), a handoff email can be used.
-7. Ensure all material like custom decks are editable by everyone.
+1. Ensure all material like custom decks are editable by everyone.
 
 **MMKAN Team**
+
 1. Work with the First Order AE to schedule a handoff call (or email) with the customer.
     - The goal should be to have two-way communication with the customer within one week of the initial close.
     - Named AE please respond to the handoff email/meeting invite to introduce yourself.
-2. Look in the account activities for the notes from the First Order AE, and based on those notes open an appropriate growth opportunity.
-3. Read through all notes tagged (ii) to gain an understanding of the account and its potential.
-4. Determine if a TAM (if under $50,000 nARR) is appropriate for this customer based on the immediate growth potential. If needed, request on
-5. Create a growth/add on opportunity for any growth that will happen before the first renewal date.
+1. Look in the account activities for the notes from the First Order AE, and based on those notes open an appropriate growth opportunity.
+1. Read through all notes tagged (ii) to gain an understanding of the account and its potential.
+1. Determine if a TAM (if under $50,000 nARR) is appropriate for this customer based on the immediate growth potential. If needed, request on
+1. Create a growth/add on opportunity for any growth that will happen before the first renewal date.
 
 **Note 1:** Once the account is handed off to the new AE, the new account owner is responsible for the success of the account. This includes any troubleshooting, support, ticket escalations, etc. The exception to this will be if there are any billing issues that arise on the initial order. Because billing issues related to the first order are assigned to the account owner. In some cases, the First Order AE can better fix such problems. In these cases, Named AE can re-assign the issue to the First Order AE for resolution.
 
 **Note 2:** If a First Order account is deemed to have low potential (fewer than 100 total users), it should be assigned to a Mid-Market Territory Account Executive. If in question, the First Order AE should involve their ASM, Regional Director, and VP of Commercial to determine if the account should be assigned to a Mid-Market First Order AE or a Mid-Market Named AE.
-
-
-
 
 ## Other Related Pages
 
