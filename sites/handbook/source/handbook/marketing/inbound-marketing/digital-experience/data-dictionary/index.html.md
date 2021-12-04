@@ -60,3 +60,11 @@ The purpose of the `location` attribute is to discern between multiple links wit
 | body | If this link is the only one of its kind in the main body of the page (not the hero, not the nav/footer), you can use body.  | `data-ga-location="body"` |
 | {{section}} | If there are multiple links of this kind within the body, consider naming the location something descriptive about what section this particular link can be found under. Examples might be "features" or "benefits" | `data-ga-location="features"` |
 | footer | This is for links in the footer of the page. The footer is the very bottom section with the purple background.  | `data-ga-location="footer"` |
+
+### Utilities
+
+To facilitate finding links contained in markdown inside files that do not highlight markdown, developers may use this [regular expression](https://en.wikipedia.org/wiki/Regular_expression): 
+
+```
+(?:__|[*#])|\[(.*?)\]\(.*?\)
+```
