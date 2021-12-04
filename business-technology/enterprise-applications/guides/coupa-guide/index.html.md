@@ -234,9 +234,11 @@ To add a class, follow the below steps for more detail:
 {: .panel-heading}
 <div class="panel-body">
 
-- If you have any questions about the **class** of the line items or need to request a new one, tag `@ggonzalez@gitlab.com` in a comment before submitting the requisition for approval.
-   - Requisitions can be saved for later.
-- The FP&A and Procurement teams will review the commodity for each line item during their approval and tag `@ggonzalez@gitlab.com` in a comment if there are any questions.
+- If you need to request a new  **class**, please navigate to [this tracker](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit?usp=sharing) and enter the information required for the GL team to create the tag. 
+   * The GL team will create the tags at the end of each day. 
+   * The tag is created in Netsuite and syncs with Expensify and Coupa.
+   * Requisitions can be saved for later, while you complete the tag creation process.
+- The FP&A and Procurement teams will review the commodity for each line item during their approval and ping @GLTeam in a comment if there are any questions.
 
 
 </div>
