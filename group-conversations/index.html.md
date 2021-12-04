@@ -153,7 +153,7 @@ These should be called Fill-In AMAs so it's clear to team members that the AMA w
 ### 24 Hours Before the Call
 
 1. Ensure the slide deck, any handbook or document links, and the optional video are visible to all of GitLab
-1. Post in #whats-happening-at-gitlab on Slack if there is a video for the group conversation that you'd like people to watch beforehand. Please @ mention `Cheri Holmes` when posting
+1. Post in #whats-happening-at-gitlab on Slack if there is a video for the group conversation that you'd like people to watch beforehand. Please @ mention `Christina Keelan Cottrell` when posting so she may schedule time for the CEO to watch the video ahead of the group conversation
 
 ### 30 Minutes Before the Call
 
