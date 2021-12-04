@@ -24,7 +24,7 @@ In Q4 FY22, the Account Based Marketing team will [evaluate and update the FAL p
 If you have any questions, please feel free to direct them to `@jgragnola` in the [#abmteam slack channel](https://gitlab.slack.com/archives/CFBT2HSEB).
 
 ### Large Focus Accounts (FY22)
-{: #fal-large }
+{: #fal-enterprise }
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. ICP accounts- any account that matches our ICP
