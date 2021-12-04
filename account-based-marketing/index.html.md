@@ -60,7 +60,15 @@ To be added
 {: #responsibilities}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-To be added
+- Developing (in partnership with sales and marketing) and maintaining our [ideal customer profile (ICP)](/handbook/marketing/revenue-marketing/account-based-strategy/#ideal-customer-profile)
+- Maintenance of GitLab's [focus account lists](/handbook/marketing/revenue-marketing/account-based-strategy/#focus-account-lists)
+- [Account based marketing (ABM)](/handbook/marketing/revenue-marketing/account-based-strategy/#account-based-marketing-abm) campaigns and tactics
+- [Demandbase](/handbook/marketing/revenue-marketing/account-based-strategy/#demandbase)
+    - platform management
+    - enablement
+    - account scoring
+    - account based engagement
+    - campaign orchestration
 
 ### Meet the Team
 {: #meet-the-team}
