@@ -1,13 +1,18 @@
 ---
 layout: handbook-page-toc
-title: "Ideal Customer Profile"
+title: Ideal Customer Profile
+description: Ideal Customer Profile Handbook
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
 ---
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+# <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Ideal Customer Profile
 
 ## Overview
 {: #overview .gitlab-purple}

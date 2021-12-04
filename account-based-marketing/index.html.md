@@ -12,7 +12,7 @@ twitter_creator: '@gitlab'
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Campaigns Team
+# <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Account Based Marketing Team
 
 ## Overview
 {: #overview .gitlab-purple}
