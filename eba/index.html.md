@@ -16,10 +16,11 @@ This page details processes and general guidelines specific to the Executive Bus
 ## Executive Business Administrator Team
 
 ### E-Group Member EBA's
-* Cheri Holmes (Staff EBA) supporting Sid Sijbrandij (Co-Founder & CEO) and Michael McBride (CRO)
-* Stefanie Haynes (Sr. EBA) supporting Craig Mestel (CMO), Harsh Jawharkar (VP, Product Marketing) and Melissa Smolensky (VP of Corporate Marketing)
+* Christina Keelan Cottrell (Temp EBA) supporting Sid Sijbrandij (Co-Founder & CEO) and Stella Treas (Chief of Staff to the CEO)
+* Cheri Holmes (Chief of Staff) supporting Michael McBride (CRO) on an interim basis
+* Stefanie Haynes (Sr. EBA) supporting Craig Mestel (CMO) and Melissa Smolensky (VP of Corporate Marketing)
 * Alison Allende (Sr. EBA) supporting Brian Robins (CFO) 
-* Kat Allen (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) and Carol Teskey (Senior Director, People Success), Stella Treas (Chief of Staff to the CEO)
+* Kat Allen (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) 
 * Kristie Thomas (Sr. EBA) supporting Scott Williamson (CProdO) and Eric Johnson (CTO)
   * Jennifer Garcia (EBA) providing interim support
 * Sharlene Seemungal (Sr. EBA) supporting Robin Schulman (CLO)
@@ -132,17 +133,17 @@ Please remember to reach out to the EBA of the executive you need to schedule fo
 ### Before the meeting
 
 1. Ask yourself or the requestor of the meeting: can this be done async? 
-  a. If not, schedule the meeting. Please consider that synchronous meetings consume valuable time and resources, please consider conducting your meeting asynchronously whenever possible 
+   * If not, schedule the meeting. Please consider that synchronous meetings consume valuable time and resources, please consider conducting your meeting asynchronously whenever possible 
 1. Calendar event for the meeting must include: 
-  a. Link to the [Agenda Document](https://docs.google.com/document/d/1qj4MRlIXXGs4Jni0ITYp1uaHDQr53IvOqmpN-47RD-k/edit). Please avoid hyperlinking and paste the full URL in the invite. Consider utilizing the Share button at the top right hand corner of the Google doc and use the copy link function to make sure you get just the link to the doc itself unless you really need to link to a specific section of the document. The agenda doc should be editable by everyone in the meeting and whenever possible be editable or viewable by GitLab team members. It should also be editable for the EBA's scheduling the meeting or supporting members of E-Group involved in the meeting. 
-  b. Link to the Zoom meeting in the location field and body of the invite 
-  c. If the meeting is in person, include the address and any pertinent details (like how to access the building or security requirements) in the location and body of the invite. Please include the cell phone numbers of key contacts. 
+  * Link to the [Agenda Document](https://docs.google.com/document/d/1qj4MRlIXXGs4Jni0ITYp1uaHDQr53IvOqmpN-47RD-k/edit). Please avoid hyperlinking and paste the full URL in the invite. Consider utilizing the Share button at the top right hand corner of the Google doc and use the copy link function to make sure you get just the link to the doc itself unless you really need to link to a specific section of the document. The agenda doc should be editable by everyone in the meeting and whenever possible be editable or viewable by GitLab team members. It should also be editable for the EBA's scheduling the meeting or supporting members of E-Group involved in the meeting. 
+  * Link to the Zoom meeting in the location field and body of the invite 
+  * If the meeting is in person, include the address and any pertinent details (like how to access the building or security requirements) in the location and body of the invite. Please include the cell phone numbers of key contacts. 
 1. Must be a speedy meeting
 1. Agenda for the meeting must be complete 24hrs or 1 business day before the meeting and include any links to materials and pre-recorded presentations
-  a. [Live doc meetings](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/) provides a great overview of how we use live docs in our meetings.  
-  b. We do not present in any of our meetings. If you wish to present your material, you can record a presentation in advance and link it in the agenda document. We use synchronous meetings for Q&A. More detail at https://about.gitlab.com/handbook/communication/#no-presenting-in-meetings
+   * [Live doc meetings](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/) provides a great overview of how we use live docs in our meetings.  
+   * We do not present in any of our meetings. If you wish to present your material, you can record a presentation in advance and link it in the agenda document. We use synchronous meetings for Q&A. More detail at https://about.gitlab.com/handbook/communication/#no-presenting-in-meetings
 1. Plan to join the meeting on time. We start on time and do not wait for folks to join. 
-  a. As most of our meetings are conducted over zoom, please join with your camera on and with a headset or dedicated microphone whenever possible
+   * As most of our meetings are conducted over zoom, please join with your camera on and with a headset or dedicated microphone whenever possible
 1. The meeting may be recorded or live streamed to GitLab Unfiltered on YouTube, please determine in advance if the meeting should be live streamed or recorded 
 1. [Hybrid calls are horrible](https://about.gitlab.com/handbook/communication/#hybrid-calls-are-horrible) - remote meetings should have participants taking the meeting from their own equipment versus a shared conference room, shared device, etc. 
 1. If you need to reschedule, contact the EBA team in #eba-team in slack versus contacting the E-Group directly
@@ -150,7 +151,7 @@ Please remember to reach out to the EBA of the executive you need to schedule fo
 ### During the meeting 
 1. The Host should start the meeting on time, if the Host is late, the participants should feel empowered to start the meeting on time 
 1. We start in order of the agenda, with the person who has the first point in the numbered list
-  a. Unless it is a 1-1 meeting or some working group meetings, then we'd start at the bottom and work our way up
+   * Unless it is a 1-1 meeting or some working group meetings, then we'd start at the bottom and work our way up
 1. If you're not actively speaking please help take notes. We prefer to [document everything live.](https://about.gitlab.com/company/culture/all-remote/meetings/#document-everything-live-yes-everything)]   
 1. If something is not on the agenda, we do not discuss it. However, participants can add topics during the meeting if time permits
 1. If you're not benefitting or contributing to the meeting, it is okay to leave the meeting 
@@ -185,7 +186,7 @@ To view members of Google Groups, reference the [Google Workspace group member r
 
 ## Company Mail
  The mail is forwarded weekly to the CFO's Sr. EBA and will be distributed accordingly.
-* Mail addressed to Sytse 'Sid' Sijbrandij - contact the Staff Executive Business Admin to CEO for next steps.
+* Mail addressed to Sytse 'Sid' Sijbrandij - contact the EBA to CEO for next steps.
 * Incoming checks for deposit - scan and email to the PAO, Controller, Director of Revenue and Sr. Billing Manager; then send for deposit.
 * Mail from Comerica - scan and email to the Controller and Sr. Billing Manager.
 * Mail addressed to Legal - contact the CLO for next steps.
