@@ -510,7 +510,7 @@ A wet signature is required for German employment agreements the following proce
    * new team member's name address
 1. The CES will then add the candidates name to the [Germany Contracts Tracker](https://docs.google.com/spreadsheets/d/1AQLbzI1S9m8rftWaQMDl5p8YKXufpaeJtVFzumH0scw/edit?usp=sharing). 
 1. The Talent Acquisition Manager or the VP of Talent Acquisition will print two copies of the unsigned contract, sign and then send them to the new team member by postal service or FedEx (details of the fedex account can be found in 1Password => Secretarial Vault => Fedex).
-1. Once the documents have been sent the Talent Acquisition Manager, they will add the tracking number to the [Germany Contracts Tracker](https://docs.google.com/spreadsheets/d/1AQLbzI1S9m8rftWaQMDl5p8YKXufpaeJtVFzumH0scw/edit?usp=sharing).
+1. Once the documents have been sent, the Talent Acquisition Manager will notify the CES team or the CES team member will follow up with the Talent Acquisition manager.
 1. The Candidate Experience Specialist should set a Greenhouse reminder for 1 week time to follow-up with the new team member if they have not received an update.
 1. When the new team member has emailed stating they received and signed the paper version, the Candidate Experience Specialist will email them back the GreenHouse email template German Contract Step 2.
 1. Once the law firm has received the contract they will scan and email a copy to People Operations Specialist to file in BambooHR.
