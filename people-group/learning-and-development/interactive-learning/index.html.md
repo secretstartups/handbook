@@ -27,7 +27,7 @@ The Field Enablement team will utilize the Articulate 360 Storyline Suite as the
 
 ### Learning and Development
 
-The L&D team hosts [Mini and Extended Challanges](https://about.gitlab.com/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) to engage team members in bite sized learning about a specific topic. Participants in the challenge collaborate on issues and are driven to the handbook to review learning content.
+The L&D team hosts [Mini and Extended Challenges](https://about.gitlab.com/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) to engage team members in bite sized learning about a specific topic. Participants in the challenge collaborate on issues and are driven to the handbook to review learning content.
 
 
 ## Interactivity in E-learning
