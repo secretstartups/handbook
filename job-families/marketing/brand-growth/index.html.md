@@ -25,12 +25,6 @@ The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/co
 * Develops global brand campaign strategy to impact markets of interest to GitLab. 
 * Oversees and guides the team on KPIs for brand campaigns and impact on overall brand. 
 
-## Performance Indicators
-
-* Executing overall brand strategy and brand campaign initiatives 
-* Collaborating effectively and receiving overall buy-in internally 
-* Reporting on metrics on brand campaigns to show that our brand is trending upwards. 
-
 #### Manager, Brand Strategy and Growth Requirements
 
 * Ability to use GitLab
@@ -83,7 +77,7 @@ The Staff Brand Manager is a [grade 8](/handbook/total-rewards/compensation/comp
 * Executing overall brand strategy and brand campaign initiatives 
 * Collaborating effectively and receiving overall buy-in internally 
 * Reporting on metrics on brand campaigns to show that our brand is trending upwards. 
- 
+
 ## Career Ladder
 
 * The next step in the Corporate Events job family is not yet defined at GitLab.
