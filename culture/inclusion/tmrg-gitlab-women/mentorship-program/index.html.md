@@ -109,7 +109,7 @@ As a mentor, you benefit from:
 
 ### Apply
 
-Mentorship application for next iteration is forthcoming.
+Mentor applications open 2021-12-08. [Apply here to be a mentor.](https://docs.google.com/forms/d/e/1FAIpQLSez17b-APUA3MEpYETHtDPrAt85tLD8Je64gpP50xpHEPuT6A/viewform?usp=sf_link).
 
 _Applying for a mentor does not guarantee you a spot in the program and eligibility will be evaluated based on criteria above._
 
@@ -139,7 +139,7 @@ Applications will be prioritized on many points including:
 
 ### Apply
 
-Mentorship application for next iteration is forthcoming.
+Mentee application opened 2021-12-08. [Apply here to be a mentee.](https://docs.google.com/forms/d/e/1FAIpQLSfkDQZwdYw2CFguB_-O2gLC9Wznz88ec-JPnaLxF-VG-zAeCA/viewform?usp=sf_link)
 
 _Applying for a mentee does not guarentee you a spot in the program, and eligibility will be evaluated based on criteria above._
 
@@ -152,9 +152,9 @@ Success of this program will be measured by:
 
 1. percentage of mentor/mentee pairs who meet consistently on a bi-weekly basis, with a goal of 95% completion
 1. attendance to live training sessions, with a goal of 95% attendance
-1. engagement during live training sessions
-1. overall feedback of the program from both the mentor and mentee perspective
-1. mentor and mentee career development at GitLab after program conclusion
+1. quality of feedback of the program from both the mentor and mentee perspective
+1. percentage of mentee goal achieved during mentorship, as reported by mentees with a goal of at least 50% of goal achieved
+1. mentor and mentee career development at GitLab after program conclusion including rates of promotion, transfer, and retention
 
 
 ## FAQ
