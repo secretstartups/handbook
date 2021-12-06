@@ -119,6 +119,14 @@ Recruiting great people is critical to our success and we've invested much effor
   click supe:fde "https://about.gitlab.com/job-families/finance/data-management#staff-data-engineer";
 ```
 
+### Intermediate and Senior Data Engineer Onboarding Timeline
+
+| By Day 30 | By Day 60 |  By Day 90 | By Day 120 |
+| ------ | ------ |------ |------ |
+| Complete People and Data Onboarding | Perform triage activities | Extract new data sources | Own a specific area of the data platform |
+Create a MR to contribute to handbook or templates | Investigate incidents and issues | Work on OKR assignments | Propose new ideas and come up with Data Platform improvement initiatives  |
+| Understand the current setup of the data platform  | Make small/corrective changes to the platform infrastructure or data pipelines | Contribute on work breakdown |
+
 ## [Data Analysis](https://about.gitlab.com/job-families/finance/data-analyst)
 
 ```mermaid
@@ -136,6 +144,15 @@ Recruiting great people is critical to our success and we've invested much effor
   click supe:sda "https://about.gitlab.com/job-families/finance/data-analyst#senior-data-analyst";
   click supe:fda "https://about.gitlab.com/job-families/finance/data-analyst#staff-data-analyst";
 ```
+
+### Intermediate and Senior Data Analyst Onboarding Timeline
+
+| By Day 30 | By Day 60 |  By Day 90 | By Day 120 |
+| ------ | ------ |------ |------ |
+| Complete People and Data Onboarding  | Extend an existing Sisense dashboard or complete the triage phase for a dbt issue | Run a project end-to-end as DRI with support from Data Fusion Team | Create ERDs/Data Artifacts (e.g. dashboards) or complete a product evaluation|
+| Start attending Data Fusion Team and Business Team synchronous meetings | Perform Triage activities | | |
+| Complete First Issue: S to M T-Shirt Size  |  |  |
+
 
 ## [Data Science](https://about.gitlab.com/job-families/finance/data-scientist)
 
@@ -165,6 +182,14 @@ Recruiting great people is critical to our success and we've invested much effor
   click supe:pae "https://about.gitlab.com/job-families/finance/analytics-engineer#principal-analytics-engineer";
 ```
 
+### Intermediate and Senior Analytics Engineer Onboarding Timeline
+
+| By Day 30 | By Day 60 |  By Day 90 | By Day 120 |
+| ------ | ------ |------ |------ |
+| Complete People and Data Onboarding  | Extend an existing dbt Trusted Data Models | Run a project end-to-end as DRI with support from Data Fusion Team| Create ERDs/Data Artifacts|
+| Start attending Data Fusion Team and Business Team synchronous meetings | Perform Triage activities | | |
+| Complete First Issue: S to M T-Shirt Size  |  |  |
+
 ## [Data Management](https://about.gitlab.com/job-families/finance/manager-data)
 
 ```mermaid
@@ -180,3 +205,12 @@ Recruiting great people is critical to our success and we've invested much effor
   click supe:dd "https://about.gitlab.com/job-families/finance/dir-data-and-analytics/#director-data-and-analytics";
   click supe:sdd "https://about.gitlab.com/job-families/finance/dir-data-and-analytics/#senior-director-data-and-analytics";
 ```
+
+
+### Data Manager Onboarding Timeline
+
+| By Day 30 | By Day 60 |  By Day 90 | By Day 120 |
+| ------ | ------ |------ |------ |
+| Add a new page to the handbook| Create and deploy new TDM dbt models|Lead discussions with Users/Stakeholders to understand the requirements and translate them to technical implementations|System/Application Change Control Management|
+ | Gain familiarity with current setup of dbt models, Airflow, Snowflake environment, Sisense Reports etc. | Production Cadence to dbt model refreshes, Airflow DAGs etc, | |Suggest Process Improvements /Future State
+|Create a MR for a simple Issue and get it merged|Create new Sisense Reports| |Provide Demos|
