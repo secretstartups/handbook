@@ -27,7 +27,9 @@ The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/co
 
 ## Performance Indicators
 
-* Increase overall brand awareness and key message pull through media buys and sponsorships.
+* Executing overall brand strategy and brand campaign initiatives 
+* Collaborating effectively and receiving overall buy-in internally 
+* Reporting on metrics on brand campaigns to show that our brand is trending upwards. 
 
 #### Manager, Brand Strategy and Growth Requirements
 
@@ -37,10 +39,6 @@ The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/co
 * Ability to think outside the box to uplevel the GitLab brand in new and unique ways. 
 * Advanced knowledge on brand measurement and tools for brand measurement. 
 * Proven capability to coordinate across many teams and perform in a fast-moving startup environment.
-
-
-
-
 
 ### Staff Brand Manager
 
