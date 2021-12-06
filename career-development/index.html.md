@@ -565,7 +565,7 @@ Since collective exceptions within a department will at some point impact overal
 
 All exceptions should be documented in a handbook page local to the product group or in an issue/epic, and linked to the table below. This process is established as of March 2021 and may not reflect all existing product group situations. At any point when additional exceptions are required, just start an MR to add them per the steps noted above.
 
-| **Team**                                     | **Department** | **Amount** | **Link** |
+| **Team**                                     | **Department** | **Amount** | **Link to Justification** |
 |----------------------------------------------|----------------|------------|----------|
 | Scalability Team                             | Infrastructure | 2 Staff+   | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#scalability-team-ic-gearing) |
 | Delivery Team                                | Infrastructure | 3 Staff+   | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#delivery-team-ic-gearing) |
@@ -580,6 +580,7 @@ All exceptions should be documented in a handbook page local to the product grou
 | Sharding Team                                | Development    | 4 Staff+   | [Sharding Team Page](/handbook/engineering/development/enablement/sharding/#team-ic-gearing) |
 | Engineering Productivity Team                | Quality        | 2 Staff+   | [Engineering Produtivity Team Page](/handbook/engineering/quality/engineering-productivity/#team-ic-gearing) |
 | Container Security & Threat Insights         | Development    | 2 Staff+   | [Justification](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/94321#rationale-for-exception) |
+| Secure: DAST Team | Development | 2 Staff+ | [DAST Justification](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/94315) |
 
 ### Opportunity
 It is not the intent of these gearing ratios to limit individual opportunity for advancement although it is acknowledged that at full staff capacity this situation could occur.
