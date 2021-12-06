@@ -259,6 +259,12 @@ We do have a few fields within Allocadia which have a different name on the fron
 | Closed Won | Estimated Outcome (Last Funnel Level Total) |
 |  |  |
 |  |  |
+##### Nuances with fields + reporting 
+Allocadia comes with a lot of standard fields & definitions associated with those fields. At times our definitions may vary and we may have to create a new custom field. Unfortunately, we cannot delete out the Allocadia fields and only have our current fields available. This causes us to have many similar fields and a creates a need for us to document which field should be used when building reports. The list below should serve as the SSOT for fields when building reports. 
+
+1. Campaign Type - should be used when you want to report out on both Spend Type and Spend Type (FM). These two fields have been merged into one in reporting.
+   * Do NOT use Campaign Tupe (DNU) OR Campaign Type (SF) as we do not capture data in those fields, therefore nothing will return on your report. 
+
 
 ## Integrations (behind the scenes)
 
