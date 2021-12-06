@@ -11,16 +11,30 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 - TOC
 {:toc .toc-list-icons .hidden-md .hidden-lg}
 
-## Integrated Campaigns
+## Global Integrated Campaigns
 {: #integrated-campaigns .gitlab-purple}
 
 The goal of GitLab integrated campaigns is to strategically land a cohesive message to a target audience across a variety of channels and offers dependent on the goals of the campaign. Content types include a combination of blog posts, webinars, whitepapers, reports, videos, case studies, and more. Channels include digital ads, social, paid social, SEO, PR, email, and more.
 
-**Campaign Managers** are responsible for the strategizing of integrated campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns.
+**Campaign Managers** are responsible for the strategizing of global integrated campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns. Campaign Managers are also aligned to specific segments and geos to define strategy for new first order logo MQLs and SAOs, aligned to pipeline goals.
 
 In an effort to continually improve our ability to derive success of campaigns, reporting is a focus using Bizible data in Sisense. [Issue here for more information on progress](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/982)
 
-**Questions? Please feel free to ask in the [#marketing_programs slack channel](https://gitlab.slack.com/messages/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-programs.**
+**Questions? Please feel free to ask in the [#marketing-campaigns slack channel](https://gitlab.slack.com/archives/CCWUCP4MS).**
+
+## Anchor Campaigns and Activation in Geos
+{: #anchor-campaigns-and-activation .gitlab-purple}
+
+Global campaigns 
+
+<div style="width: 600px;" class="embed-thumb"> <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab2474/murals/gitlab2474.1598468466093-5f46b1720e54f644475491fc-61c7931a-18e2-4a73-90dd-eafcb724b939.png?v=27e40478-1cf5-43f3-8970-f6d66232a7d1) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1598468466093/3fecfe10c92a0e8b26403fe8e44305c6049185e4" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div> <p style="margin-top: 10px;margin-bottom: 60px;line-height: 24px; font-size: 16px;font-family: Proxima Nova, sans-serif;font-weight: 400; color: #888888;"> You will enter this mural in View Only mode. </p></div>
+
+<iframe src='https://app.mural.co/embed/9f6f85dc-e19e-4d54-851a-c0a786871c1c'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
 
 ## In Progress and Future Campaigns
 {: #upcoming-integrated-campaigns .gitlab-purple}
