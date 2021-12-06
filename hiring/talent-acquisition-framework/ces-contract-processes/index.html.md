@@ -13,12 +13,12 @@ description: "This page is an overview of the Candidate Experience Specialist Co
 ## Talent Acquisition Process - Candidate Experience Specialist Contract Processes
 {: #framework-coord}
 
-Assuming that the [hiring process](/handbook/hiring/) went smoothly, now it is time to prepare the applicable contracts. Once the verbal offer is made, the coordinator will send the contract to the applicant, using DocuSign in Greenhouse. On rare occasion, the coordinator may have to create the contract outside of Greenhouse using Google Docs; if this is the case, the coordinator needs to have a People Ops team member review the contract for accuracy before sending it out for signature.
+Assuming that the [hiring process](/handbook/hiring/) went smoothly, now it is time to prepare the applicable contracts. Once the verbal offer is made, an issue will be created via the "email team" option in Greenhouse. You should keep this issue open until you've hired the candidate into BambooHR. The coordinator will send the contract to the applicant, using DocuSign in Greenhouse. On rare occasion, the coordinator may have to create the contract outside of Greenhouse using Google Docs; if this is the case, the coordinator needs to have a manager review the contract for accuracy before sending it out for signature.
 
 First, be sure to validate the following:
 
 1. The candidate lives in a country we are able to hire in. The SSOT for all country hiring is [here](https://comp-calculator.gitlab.net/hiring_status/index).
-1. The currency listed in the offer package in Greenhouse should normally be the local currency of the new team member unless they explicitly request USD/EUR because their local currency has a lot of inflation. This needs to be confirmed and approved by our People Ops Analyst prior to making the offer, as any changes to the currency will require complete reapproval in Greenhouse, regardless if it is the same amount just in a different currency.
+1. The currency listed in the offer package in Greenhouse should normally be the local currency of the new team member unless they explicitly request USD/EUR because their local currency has a lot of inflation. This needs to be confirmed and approved by Total Rewards prior to making the offer, as any changes to the currency will require complete reapproval in Greenhouse, regardless if it is the same amount just in a different currency.
 1. Confirm if the team member would be an employee or contractor and [through which entity the team member would be employed or contracted](/handbook/people-group/employment-solutions/#team-member-types-at-gitlab). If the team member wants to be contracted through a company, it can either be their own established legal entity or a separate and unaffiliated 3rd party company; please confirm which with the team member prior to sending out the contract. If the team member will be contracted through their own entity (or as an independent contractor), please use the BV Contractor Agreement. If the team member will be contracted through a 3rd party company, please inform Legal so that we can enter into a vendor contract with the company. The 3rd party company will then enter into a contract with the team member, and People Ops Analyst will provide the necessary specific salary and position information.
 
 ### Entity Contract Signatories
@@ -55,7 +55,7 @@ Once the entity of the chosen candidate has been determined and the CES team has
 
 1. Once the offer package has been approved in Greenhouse and the recruiter has given the verbal offer, go to the candidate's profile in Greenhouse. Verify the address is listed on the details tab. If the address is not listed you can locate it on the background check, or in the reference request email reply.
 1. If necessary click Edit Profile to update the candidate's name to their legal name (given during the reference/background check stage) and list any preferred names in quotes as the first name. Legal names are required on contracts and for proper export to Bamboo HR.
-1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
+1. Ensure the start date is on a Monday, unless Monday is a holiday/no start date or the non-Monday date is legally required.
 1.  Update signatory and entity by clicking "Update" under Offer Details. Add signatory name and title, as well as entity based on candidate's location.
 1. Next you'll need to update the signatory's permissions to ensure we're able to send the DocuSign contract to them.
     - Navigate to `Job Setup` at the top of the page.
@@ -83,8 +83,9 @@ Once the entity of the chosen candidate has been determined and the CES team has
     - Add a `Signature` field, a `Name` field, and a `Date Signed` field to the correct areas.
 1. There may also be other fields you'll need to add a textbox for, so double check if there are any other fields that need to be completed by either the candidate or GitLab signatory (as contracts for different entities vary; one that is easy to miss is the UK contract which requires the candidate to input their national insurance number). Once you've verified that all the information is correct and appropriately assigned, click "Send" at the top right corner.
 1. You'll now be redirected back to Greenhouse, where you can monitor the progress of the contract and be able to see when each party signs it. Once it is signed by all parties, you and everyone cc'd on the original request will receive a confirmation email that it has been signed.
-1. After sending the contract via DocuSign, ping the signatory and the Senior Recruiting Program Analyst - Erich Wegscheider (or People Operations Specialist - Ashley Jameson if Erich is unavailable) in the #contracts-to-sign slack channel.
+1. After sending the contract via DocuSign, ping the signatory in the #contracts-to-sign slack channel.
 1. If you need to resend the contract, follow the same steps, but be sure to log into your DocuSign account and first delete the original one to avoid confusion.
+1. Update the status of your open issue.
 
 ### How to add a contract into Greenhouse
 
@@ -213,7 +214,7 @@ There are certain times when a contract needs to get resent to the candidate aft
 1. Once they confirms the profile is deleted, proceed with marking the candidate as hired in Greenhouse and closing out the req again.
 1. If a People Experience Specialist was involved, make sure you ping them and let them know the contract has been updated and the new BambooHR profile has been created.
 
-For Talent Acquisition Ops:
+For Talent Acquisition Enablement:
 1. Once notified by the CES team, copy the Job Approval Chain and add it to the Approval Details Notes section. Include the names of the approvers, the dates approved, and the reason as to why the requisition is being re-opened. Tag the Finance Business Partner, CES, and Recruiter in this note.
 1. From the Approvals page, select 'Edit Job & Openings'
 1. Duplicate the Opening that needs to be re-opened.
@@ -289,7 +290,7 @@ _Important: Employment contracts cannot be backdated. If a team member requests 
 ### How to Unhire a Candidate After Contract is Signed
 If for some reason a candidate declines an offer after they have been hired into the system, whoever receives that information needs to make sure `@ces` is tagged in the Greenhouse profile and is made aware that the candidate will no longer be starting at GitLab.
 
-If they have been hired in Greenhouse and exported to BambooHR, follow these steps:
+If they have been hired in Greenhouse and exported to BambooHR, Enablement will need to follow these steps:
 1. Unhire the candidate in Greenhouse if the req is still open. If the req is closed, Recruiting Ops will need to be brought in to unhire.
 1. Reject them in Greenhouse; add reasons in notes, you may add the email that was sent by the candidate. Click ‘reject and don’t send email’.
 1. Cancel any scheduled emails in Greenhouse.
@@ -353,7 +354,7 @@ Reminder: France requires contracts to be individually drafted by the Legal team
 
 Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 
-## CXC
+## CXC (NOTE: HIRING IS CURRENTLY PAUSED HERE: Please speak with Enablement before sending offer letters)
 
 GitLab is working in partnership with [CXC Global](http://cxcglobal.com/) to employ GitLab team-members located in **Poland**, **Ukraine**, **Romania**, **Russia**, **Serbia**, & **Slovenia**. The actual employment contracts will be sent and issued by CXC and are in accordance with local labor law. CXC also handles the processing and payment of payroll and associated taxes and compliance in each of the countries on behalf of GitLab. The contracts themselves are between the individual and CXC.
 
@@ -384,62 +385,6 @@ To create the contract:
 1. CXC will then reach out to the candidates directly to coordinate the contract signing and onboarding to CXC's payroll.
 1. Kindly allow a duration of one week for CXC to complete their process. This might mean that a two week notice period to start at GitLab, could increase to three weeks, its important to communicate this duration to new hires in this location.
 1. CXC will inform the Candidate Experience Specialist when the contract is signed.
-1. The Candidate Experience Specialist will mark the candidate as hired.
-1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
-1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract). See steps 10-12.
-
-
-
-
-## Safeguard
-
-GitLab has partnered with [Safeguard](http://www.safeguardworld.com/) to hire in Switzerland, Italy,and Brazil. You can also review this [document](https://drive.google.com/file/d/1aUjgb37XO-3LqdW8WF8l-QV2ZcTLBTPj/view?usp=sharing) that Safeguard created regarding frequently asked questions about their process.
-
-To create the contract:
-
-1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring/).
-1. The Candidate Experience Specialist emails the new team member to gather additional details required to generate the contract.
-   - From the GreenHouse profile, under tools, click to email the new team member
-   - From the template drop down list select: Contract Info Request - Safeguard
-   - Send Email
-1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
-1. The Candidate Experience Specialist will check if there is a probationary period.
-    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-probation-periods/#probation-periods-of-team-members-employed-through-a-peo-or-an-entity) and check the candidate's country.
-    - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
-1. The Candidate Experience Specialist will check if the contract is indefinite or fixed.
-    - If the contract is indefinite, select "Indefinite" from the dropdown in "Offer Details".
-    - If the contract is fixed, select "Fixed Contract" from the dropdown in "Offer Details" and enter the end date under "End Date".
-1. When the new team member provides the necessary details, the Candidate Experience Specialist will update GreenHouse offer details and generate the PEO form out of GreenHouse.
-   - Offer Details
-   - Update
-   - Nationality
-   - Probationary Period
-   - Indefinite or Fixed Contract
-   - Save
-   - Navigate to Offer Documents
-   - Generate
-   - Click in the white space below Select templates
-   - Select PEO New Hire Template from the drop down list
-   - Generate
-   - Send with DocuSign
-   - Template: Offer through DocuSign - Safeguard
-   - To User: yourself
-   - Add our single point of contact at Safeguard and the global email address to the list of CC email addresses. If they are not populating automatically you can find their contact details in 1password => People Operations Vault => Entity & Co-employer HR Contacts.
-   - Preview on DocuSign
-   - Select the new team member's name in the upper left hand corner
-   - Edit Recipients
-   - On the new team member's block change Needs to Sign to Receives a Copy
-   - Edit the signing order to yourself 1 and everyone else 2
-   - Done
-   - Add fields to Section 5 of the form if they do not auto populate: Name, title, email, and date
-   - Send
-   - Do you want to sign this now? Yes
-   - Sign the form
-1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
-1. Once Safeguard receives the form they will contact the candidate directly to onboard them. This first contact usually takes 2-3 days, but can take up to a week.
-1. If the Candidate Experience Specialist does not hear back from Safeguard within 72 hours, they will follow up to check if the start date is viable, get timing on when they will hear back and when the new hire will receive their contract and other important employee information.
-1. The new hire should be kept updated by the Candidate Experience Specialist or Recruiter by email. If the contract has not been received by GitLab 5 business days prior to the start date, we'll need to reconsider the start date.
-1. SafeGuard will inform the Candidate Experience Specialist when the contract is signed.
 1. The Candidate Experience Specialist will mark the candidate as hired.
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract). See steps 10-12.
