@@ -72,15 +72,15 @@ In November 2012, Dmitriy made the [first version of GitLab CI](https://gitlab.c
 
 ### _2011: Start of GitLab_
 
-Our CTO Dmitriy needed a great tool to collaborate with his team. He wanted something efficient and enjoyable so he could focus on his work, not the tools. He created GitLab from his house in Ukraine. It was a house without running water but Dmitriy perceived not having a great collaboration tool as a bigger problem than his daily trip to the communal well.
+GitLab's co-founder Dmitriy Zaporozhets needed a great tool to collaborate with his team. He wanted something efficient and enjoyable so he could focus on his work, not the tools. He created GitLab from his house in Ukraine. It was a house without running water but Dmitriy perceived not having a great collaboration tool as a bigger problem than his daily trip to the communal well.
 
-So together with Valery, he started to build GitLab as a solution for this. [This commit](https://gitlab.com/gitlab-org/gitlab-foss/commit/9ba1224867665844b117fa037e1465bb706b3685) was the very start of GitLab on October 8, 2011.
+So together with Valeriy Sizov, he started to build GitLab as a solution for this. [This commit](https://gitlab.com/gitlab-org/gitlab-foss/commit/9ba1224867665844b117fa037e1465bb706b3685) was the very start of GitLab on October 8, 2011.
 
 The GitLab name was inspired by [GitWeb](https://git-scm.com/book/en/v2/Git-on-the-Server-GitWeb) and other git products.
 
 ## When did we know that GitLab would work?
 
-As our CEO, Sid, puts it: [it was iterative](https://youtu.be/jYYxi_bs1Qg). The first time was when he saw GitLab and how easy it made collaboration. The second time was when he first made a post about it on Hacker News, and it didn't trend at first, so he left his computer to go make pancakes. But he had his phone with him, and his post started to get tons of comments and was featured on the home page. He asked his wife to take over making the pancakes for a few minutes, but he never came back because he spent the rest of the day answering questions about GitLab. Another time was when GitLab got into Y Combinator.
+As GitLab's co-founder and CEO, Sid, puts it: [it was iterative](https://youtu.be/jYYxi_bs1Qg). The first time was when he saw GitLab and how easy it made collaboration. The second time was when he first made a post about it on Hacker News, and it didn't trend at first, so he left his computer to go make pancakes. But he had his phone with him, and his post started to get tons of comments and was featured on the home page. He asked his wife to take over making the pancakes for a few minutes, but he never came back because he spent the rest of the day answering questions about GitLab. Another time was when GitLab got into Y Combinator.
 
 ## How did GitLab become an all-remote company?
 
