@@ -402,12 +402,13 @@ Training weeks will run Wednesday-Wednesday, with 1 live trainings hosted each w
 
 ### Upcoming Sessions 
 
-If you are a GitLab Team Member and interested in participating in the course, you can fill out our [Crucial Conversations interest form](https://docs.google.com/forms/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform). 
+If you are a GitLab Team Member and interested in participating in the course, you can fill out our [Crucial Conversations interest form](https://docs.google.com/forms/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform).
 
 **FY22** 
 
 - 2021-12: Security department course
-- FY23-Q1: Exact dates to be confirmed
+- 2022-02: Begins January 26th, sign-ups closed
+- FY23-Q2: Dates to be confirmed
 
 ### Setting up the Training 
 
@@ -418,6 +419,14 @@ If you are a GitLab Team Member and interested in participating in the course, y
 1. Add all participants to the live event calendar invites 
 1. Create a subfolder in the [Crucial Conversations](https://drive.google.com/drive/u/1/folders/144sRv0ap4Gwp4IcM_mtkK83c4toVGJZJ?ths=true) Google Drive to organize cohort materials
 1. Use the [live session template](https://docs.google.com/presentation/d/1cXLjK_9_7ndngmgW_5z4yKcLx7iCxZSNgvEVZ7fNJEs/edit?usp=sharing) to organize GitLab-customized Crucial Conversation scenarios for each live session
+
+## Crucial Conversations Alumni
+
+After you've completed the Crucial Conversations course at GitLab, there are a few ways you can continute to practice your skills:
+
+1. Attend the **Crucial Conversations Alumni sync session**. This 25-minute call happens every other month starting in January 2022. Check the GitLab team member's calendar for the invitation
+1. Star and check the **#crucial-conversations** [Slack channel](https://app.slack.com/client/T02592416/C0258087472/user_profile/UBE4ZBF1N)for async discussion every other month, starting in February 2022
+1. Consider building your own system to practice your skills, like [this example using GitLab](https://gitlab.com/abrams-career-development/crucial-conversations)
 
 ## New team member Slack training
 
