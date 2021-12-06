@@ -45,7 +45,7 @@ This page is meant to showcase the features by tier across GitLab's Product Hier
             <% if category.features? %>
               <% category.features.each do |feature| %>
                 <% ultimateList << "[#{feature.title}](#{feature.link})" if feature.gitlab_ultimate && !feature.gitlab_premium %>
-                <% premiumList << "[#{feature.title}](#{feature.link})" if feature.gitlab_premium && feature.gitlab_starter %>
+                <% premiumList << "[#{feature.title}](#{feature.link})" if feature.gitlab_premium && feature.gitlab_starter && !feature.gitlab_core %>
                 <% coreList << "[#{feature.title}](#{feature.link})" if feature.gitlab_core %>
               <% end %>
             <% end %>
