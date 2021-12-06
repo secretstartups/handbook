@@ -1281,18 +1281,18 @@ When you have reviewed [all opportunity requirements](/handbook/business-ops/ord
 
 1.  **To submit the opportunity for approval and closure, the Sales Rep should click on the “Submit for Approval” button on the opportunity level.**
     *  The opportunity page will then display “edit” mode. Click Save.
-1. At this time, no further action is required from the Account Team. You will be notified by the Deal Desk team if further information is needed or if the opp is missing required information.
+1. At this time, no further action is required from the Account Team. You will be notified by the Order Management team if further information is needed or if the opp is missing required information.
 
-**NOTE** - Orders will be processed as long as the Quote Start Date is within 15 calendar days from date of submission. If the Quote Start Date is more than 15 days out, Deal Desk will approve and update the close date to the earliest date that the opportunity can be booked. Only on or after that date will the Billing team review the opportunity for final booking. For more information, review the [FY22 Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#fy22-bookings-policy).
+**NOTE** - Orders will be processed as long as the Quote Start Date is within 15 calendar days from date of submission. If the Quote Start Date is more than 15 days out, Order Management will approve and update the close date to the earliest date that the opportunity can be booked. Only on or after that date will the Billing team review the opportunity for final booking. For more information, review the [FY22 Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#fy22-bookings-policy).
 
 #### What happens when you Submit an Opportunity for approval?
 
 ```mermaid
 
 graph LR;
-    A[Signed Order Form<br>attached to Opp] --> |Submit for Approval|B[Deal Desk Reviews<br>Opportunity<br>Requirements];
-    B --> |Deal Desk<br>Approved|C[Finance Review];
-    B --> |Deal Desk<br>Rejected|D(Sales Resolves<br>Missing Opp<br>Requirements);
+    A[Signed Order Form<br>attached to Opp] --> |Submit for Approval|B[Order Mgmt Reviews<br>Opportunity<br>Requirements];
+    B --> |Order Mgmt<br>Approved|C[Finance Review];
+    B --> |Order Mgmt<br>Rejected|D(Sales Resolves<br>Missing Opp<br>Requirements);
     D --> |Submit Opp<br>For Approval|B
     C --> F[Opportunity<br>Closed-Won!<br>Congrats! ];
 
