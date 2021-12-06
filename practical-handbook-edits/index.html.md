@@ -78,8 +78,6 @@ This video covers:
 - When and how to add images to the handbook - @5:32
 - How to keep up-to-date on changes in the handbook - @21:40
 
-![picture-of-study-group](/handbook/practical-handbook-edits/picture.png)
-
 ### How to add a new directory and page to the handbook
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/9NcJG9Bv6sQ" frameborder="0" allowfullscreen="true"> </iframe>
