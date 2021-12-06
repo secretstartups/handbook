@@ -298,7 +298,7 @@ When a category or sub-category ID is used, the SFDC Campaign will be auto-tagge
 Detailed instructions on how to set this synch up, which does have to be done campaign by campaign, can be [found here](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
 
 #### Drop down in details panel 
-If you need to add a new value to the drop down selector options, in order for the new options to properly pull through Marketo>SFDC correctly, you need to be sure the new drop down value has been added to Allocadia, Marketo, &  SFDC. Once that's been done, test the systems and you should be good to go! 
+If you need to add a new value to the drop down selector options, in order for the new options to properly pulled through to SFDC correctly, you need to be sure the new drop down value has been added to Allocadia and SFDC. Once that's been done, test the systems and you should be good to go! 
 
 ### Okta
 
@@ -307,6 +307,10 @@ Please login using SSO, so that all marketing budget holders can sign in easily 
 ### Adaptive
 
 We will be using CSV transfer files to upload plans from Allocadia to Adaptive. Our finance business partner will be the DRI for this.
+
+### Marketo
+
+There is no integration with Marketo. However, through the [Marketo program/SFDC campaign creation process](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up), Marketo will update the SFDC campaign description with an ID. Allocadia ingests this ID and in return, updates SFDC campaign fields to match. 
 
 ### Netsuite
 
