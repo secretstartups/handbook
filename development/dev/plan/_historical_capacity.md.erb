@@ -1,8 +1,4 @@
-Points of weight delivered by the team on the last three milestones, including
-rolling average. This allows for more accurate estimation of what we can deliver
-in future milestones. Full chart [here](https://app.periscopedata.com/app/gitlab/587512/Plan-stage-capacity-planning).
-
-<% chart_ids ||= [7693808, 7693825] %>
-<% chart_ids.each do |chart_id| %>
-  <embed width="<%= 99 / chart_ids.size.to_f %>%" height="300" src="<%= signed_periscope_url(dashboard: 587512, chart: chart_id, embed: 'v2', filters: [{name: 'Milestones', value: ["13.10", "13.11", "13.12"]}]) %>">
-<% end %>
+Points of weight delivered by the team in previous milestones, including a 3-month
+rolling average, are available in [this chart](https://app.periscopedata.com/app/gitlab/587512/Plan-stage-capacity-planning). 
+This allows for more accurate estimation of what we can deliver
+in future milestones.
