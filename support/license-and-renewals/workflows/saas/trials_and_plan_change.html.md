@@ -65,6 +65,8 @@ If the requester still wants to go ahead:
 1. Set an appropriate due date.
 1. Once the due date has been reached, change the plan back to the original, and remove the admin note instead of adding another one.
 
+If the namespace accidentally gets downgraded to Free and the customer no longer wants to be on the Ultimate trial, use the [force associate](../workflows/customersdot/mechanizer.html#force-associate). Otherwise, manually changed them back to the Ultimate plan.
+
 ## Workflow diagram
 
 ```mermaid
