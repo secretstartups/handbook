@@ -247,6 +247,11 @@ Each fiscal year the GitLab Awards program recognizes team members who made grea
  
 #### The DZ Award
 In honor of our valued co-founder, [Dmitriy Zaporozhets “DZ”](https://gitlab.edcast.com/insights/dz), his contributions and him dedicating 10 years to GitLab, GitLab recognizes a team member each fiscal year who made a great impact solving a hard problem by using a [boring solution](/handbook/values/#boring-solutions). 
+
+The DZ award details: 
+- The recipient of The DZ award will receive a one time cash bonus equivalent to $10,000 USD at using the local exchange rate. This is designed to honor DZ's 10 years of contributions to GitLab and the recipient's role in continuing DZ's legacy.
+- Company wall-hanging Plaque detailing the Award.
+- Specially designed Tanuki sticker & t-shirt for all finalists and the winner.
  
 #### Criteria for The DZ Award
 Potential nominees should be any team members who solved a challenging problem by creating and implementing a [boring solution](/handbook/values/#boring-solutions) that resulted in a positive and profound impact.
@@ -264,6 +269,10 @@ Potential nominees should be any team members who solved a challenging problem b
  
 #### The Values Awards
 The Values Awards honor those who embody and employ the GitLab values which are fostering an environment where everyone can thrive. These awards specifically recognize team members who are inclusive with all team members in their diversity of thought and perspectives. Team members eligible for these awards demonstrate: no ego in the workplace, use a single source of truth, saying why not just what, and embracing uncomfortable ideas and conversations. The contributions or displays of the GitLab Value should be visible beyond the team member’s direct team, customers, users or investors.
+
+The Values Awards details:
+- There are six awards, one for: Collaboration, Results, Efficiency, Diversity, Inclusion and Belonging, Iteration and Transparency.
+- The recipient of each value award will receive a one time cash bonus equivalent to $5,000 USD at the exchange rate.
  
 #### Values Award Descriptions
 #### [Collaboration](/handbook/values/#collaboration) Award
