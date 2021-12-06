@@ -1448,6 +1448,14 @@ To edit an existing deprecation entry:
 
 _To be added by Product Managers or Engineering Managers and merged by either._
 
+To add a removal to the release post, follow these steps:
+
+1. Create an MR with the `data/release_posts/unreleased/samples/removals.yml` template in the [`gitlab-com/www-gitlab-com`](https://gitlab.com/gitlab-com/www-gitlab-com) project
+1. If appropriate, add the label `breaking change`. It's used to highlight breaking changes as part of the major release in GitLab docs and other documentation.
+1. Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
+
+Read on for more details.
+
 **Please watch this helpful [video](https://www.youtube.com/watch?v=9gy7tg94j7s) as well as reading the info below to help clarify this process for you.**
 
 A removal is an announcement in the release post notifying the community that a feature has officially been removed. Do not use the removal template until the feature is actually getting removed. Removals are announced in the release post as a deprecation at least 2 releases prior to the actual release when feature is removed. Note the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
