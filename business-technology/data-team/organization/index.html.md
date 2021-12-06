@@ -123,9 +123,9 @@ Recruiting great people is critical to our success and we've invested much effor
 
 | By Day 30 | By Day 60 |  By Day 90 | By Day 120 |
 | ------ | ------ |------ |------ |
-| Complete People and Data Onboarding | Perform triage activities | Extract new data sources | Own a specific area of the data platform |
-Create a MR to contribute to handbook or templates | Investigate incidents and issues | Work on OKR assignments | Propose new ideas and come up with Data Platform improvement initiatives  |
-| Understand the current setup of the data platform  | Make small/corrective changes to the platform infrastructure or data pipelines | Contribute on work breakdown |
+| Complete People and Data Onboarding | Perform [triage](/handbook/business-technology/data-team/how-we-work/triage/) activities | Extract [new data sources](/handbook/business-technology/data-team/how-we-work/new-data-source/) | Own a specific area of the data platform |
+Create a MR to contribute to handbook or templates | Investigate incidents and issues | Work on [OKR assignments](/handbook/business-technology/data-team/direction/#quarterly-objectives) | Propose new ideas and come up with Data Platform improvement initiatives |
+| Understand the current setup of the data platform | Make small/corrective changes to the platform infrastructure or data pipelines | Contribute on work breakdown |
 
 ## [Data Analysis](https://about.gitlab.com/job-families/finance/data-analyst)
 
@@ -149,8 +149,8 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 
 | By Day 30 | By Day 60 |  By Day 90 | By Day 120 |
 | ------ | ------ |------ |------ |
-| Complete People and Data Onboarding  | Extend an existing Sisense dashboard or complete the triage phase for a dbt issue | Run a project end-to-end as DRI with support from Data Fusion Team | Create ERDs/Data Artifacts (e.g. dashboards) or complete a product evaluation|
-| Start attending Data Fusion Team and Business Team synchronous meetings | Perform Triage activities | | |
+| Complete People and Data Onboarding | Extend an existing [Sisense dashboard](/handbook/business-technology/data-team/platform/periscope/) or complete the triage phase for a dbt issue | Run a project end-to-end as DRI with support from a Data Fusion Team | Create ERDs/Data Artifacts (e.g. dashboards) or complete a product evaluation|
+| Start attending [Data Fusion Team](/handbook/business-technology/data-team/#data-fusion-teams) and Business Team synchronous meetings | Perform [triage](/handbook/business-technology/data-team/how-we-work/triage/) activities | | |
 | Complete First Issue: S to M T-Shirt Size  |  |  |
 
 
@@ -186,8 +186,8 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 
 | By Day 30 | By Day 60 |  By Day 90 | By Day 120 |
 | ------ | ------ |------ |------ |
-| Complete People and Data Onboarding  | Extend an existing dbt Trusted Data Models | Run a project end-to-end as DRI with support from Data Fusion Team| Create ERDs/Data Artifacts|
-| Start attending Data Fusion Team and Business Team synchronous meetings | Perform Triage activities | | |
+| Complete People and Data Onboarding  | Extend an existing dbt [Trusted Data Models](/handbook/business-technology/data-team/data-development/#trusted-data-development) | Run a project end-to-end as DRI with support from a Data Fusion Team | Create ERDs/Data Artifacts|
+| Start attending Data Fusion Team and Business Team synchronous meetings | Perform [triage](/handbook/business-technology/data-team/how-we-work/triage/) activities | | |
 | Complete First Issue: S to M T-Shirt Size  |  |  |
 
 ## [Data Management](https://about.gitlab.com/job-families/finance/manager-data)
@@ -206,11 +206,10 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
   click supe:sdd "https://about.gitlab.com/job-families/finance/dir-data-and-analytics/#senior-director-data-and-analytics";
 ```
 
-
 ### Data Manager Onboarding Timeline
 
 | By Day 30 | By Day 60 |  By Day 90 | By Day 120 |
 | ------ | ------ |------ |------ |
-| Add a new page to the handbook| Create and deploy new TDM dbt models|Lead discussions with Users/Stakeholders to understand the requirements and translate them to technical implementations|System/Application Change Control Management|
- | Gain familiarity with current setup of dbt models, Airflow, Snowflake environment, Sisense Reports etc. | Production Cadence to dbt model refreshes, Airflow DAGs etc, | |Suggest Process Improvements /Future State
-|Create a MR for a simple Issue and get it merged|Create new Sisense Reports| |Provide Demos|
+| Complete People, Data, and Manager Onboarding | Meet everyone on the team and business data champions | Complete a Team Assessment | Draft a people development Roadmap | 
+| Understand the current setup of the data platform | Work on [OKR assignments](/handbook/business-technology/data-team/direction/#quarterly-objectives) and map them to the data platform | Lead discussions with Users/Stakeholders on initiatives and OKRs | Draft a program development Roadmap (Process Improvements /Future State) | 
+| Add a new page to the handbook | Make regular contributions to the handbook spanning your area of management | Become DRI for major portions of hte Data Handbook | System/Application Change Control Management of one or more modules |
