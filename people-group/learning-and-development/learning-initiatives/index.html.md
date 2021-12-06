@@ -426,7 +426,8 @@ After you've completed the Crucial Conversations course at GitLab, there are a f
 
 1. Attend the **Crucial Conversations Alumni sync session**. This 25-minute call happens every other month starting in January 2022. Check the GitLab team member's calendar for the invitation
 1. Star and check the **#crucial-conversations** [Slack channel](https://app.slack.com/client/T02592416/C0258087472/user_profile/UBE4ZBF1N)for async discussion every other month, starting in February 2022
-1. Consider building your own system to practice your skills, like [this example using GitLab](https://gitlab.com/gitlab-com/people-group/learning-development/crucial-conversations)
+1. Fork or copy [this GitLab project for practicing Crucial Conversations](https://gitlab.com/gitlab-com/people-group/learning-development/crucial-conversations). Use the issue templates in the project to create your own issues, set due dates, and pratice your skills after you complete the certification.
+
 ## New team member Slack training
 
 This training is a 10 day, automated message training via Slack to introduce new team members to key strategies for using Slack at GitLab. All content in the training is based on documentation in the [Slack handbook](/handbook/communication/#slack).
