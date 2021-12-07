@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Compliance Information"
-description: "This Handbook Page offers a single source related to Public Company information"
+description: "This Handbook Page offers a single source related to Compliance Information"
 ---
 
 ## Trading Window Status
