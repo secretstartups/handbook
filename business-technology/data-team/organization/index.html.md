@@ -212,4 +212,4 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 | ------ | ------ |------ |------ |
 | Complete People, Data, and Manager Onboarding | Meet everyone on the team and business data champions | Complete a Team Assessment | Draft a people development Roadmap | 
 | Understand the current setup of the data platform | Work on [OKR assignments](/handbook/business-technology/data-team/direction/#quarterly-objectives) and map them to the data platform | Lead discussions with Users/Stakeholders on initiatives and OKRs | Draft a program development Roadmap (Process Improvements /Future State) | 
-| Add a new page to the handbook | Make regular contributions to the handbook spanning your area of management | Become DRI for major portions of hte Data Handbook | System/Application Change Control Management of one or more modules |
+| Add a new page to the handbook | Make regular contributions to the handbook spanning your area of management | Become DRI for major portions of the Data Handbook | System/Application Change Control Management of one or more modules |
