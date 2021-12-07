@@ -373,7 +373,7 @@ fixes and typos, you can create an MR and tag in the [Product Operations DRI](ht
 for reference, and then merge. There's no need to wait for feedback on these types of updates prior to merging.
 
 For updates that affect the overall phases by modifying core definitions, workflow labels or other cross-functionally utilized processes,
-you can create an issue or MR, add the current milestone and label `product develpment flow`, and assign it to the [Product Operations DRI](https://about.gitlab.com/company/team/#fseifoddini) for review, collaboration and iteration.
+you can create an issue or MR, add the current milestone and label `product development flow`, and assign it to the [Product Operations DRI](https://about.gitlab.com/company/team/#fseifoddini) for review, collaboration and iteration.
 
 The Product Operations DRI will ensure the MR gets included in product develoment flow release updates as well as ensuring alignment happens with the following stakeholders if needed:
 
