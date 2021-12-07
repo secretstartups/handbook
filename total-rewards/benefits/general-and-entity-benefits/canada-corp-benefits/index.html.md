@@ -112,20 +112,30 @@ Please fill out the [Evidence of Insurability Form](https://drive.google.com/fil
 
 ## Enrollment  
 
-GitLab has chosen a digital administration platform, Collage, to manage our benefits administration for all plans except the RRSP plan. Consider this platform as your single source of truth when it comes to benefits, where you can enroll in the plan, update your enrollment information, and view your coverage that will be in effect March 1, 2020.
+GitLab has chosen a digital administration platform, Collage, to manage our benefits administration for all plans except the RRSP plan. Consider this platform as your single source of truth when it comes to benefits, where you can enroll in the plan, update your enrollment information and view coverage.
 
 **For new hires:**
 You will be receiving an invitation from `no-reply@collage.co` with a personalized link. Click on that link to set up your profile. Please reach out to the Total Rewards team at `total-rewards@gitlab.com` if you have any questions! Here are some additional [instructions](https://drive.google.com/file/d/0B4eFM43gu7VPRWZFOHBxMUZnaUVoOGxWbzVSNEdiWk9qOVpR/view?usp=sharing) on how to set up your account and enroll in benefits.
 
 Member ID: When you complete your digitial enrollment, Collage will populate a Member ID # for you. You can find the Member ID # in the Benefits Tab on your Collage profile page. You may need this number to complete your Evidence of Insurability form or your Beneficairy Designation form.
 
+### Updating Coverage Status and Enrollment of Domestic Partners, Spouses, and Dependents
+
+For instructions on adding your spouse, dependents, and updating your coverage stutus, please review the [Employee Collage Benefits HQ Handbook](https://drive.google.com/file/d/1Ph5ur-tguZ0EIWXCaJvmWlUOhnfcy7X9/view?usp=sharing) 
+
+Domestic Partner Enrollment: Canada Life uses the first day cohabitating as the date of eligibility to enter into the GitLab health plan. Anyone who has a common law spouse that they wish to add, moving from Single to Family coverage, for example, will need to do so within 30 days of moving in together. For further instructions on adding your 
+
 ### Canada Life Enrollment
 
-To register through Canada Life, you can do so by following this [registration link](https://gwl.greatwestlife.com/MyRegistration). This will allow you access to Canada Life’s GroupNet for Plan Members and the ability to download the GroupNet Mobile app on your mobile device. Once registered you will have access to online claims submission, your electronic benefits card, direct deposit of claim payments, view the status of your claims and more. Canada Life has also provided the following [Welcome Packet](https://drive.google.com/file/d/1Fg9LxE-eyLqgDihpw5kUb-4PuDK5AeMa/view?usp=sharing). The [french version of the welcome packet](https://drive.google.com/file/d/1SChNz6Ir6Vyk8scbM-WJR1N8solVmpeE/view?usp=sharing) is also available. 
+In addition to enrollment in the Collage portal, you can also register directly with Canada Life. To register, you can do so by following this [registration link](https://gwl.greatwestlife.com/MyRegistration). This will allow you access to Canada Life’s GroupNet for Plan Members and the ability to download the GroupNet Mobile app on your mobile device. Once registered you will have access to online claims submission, your electronic benefits card, direct deposit of claim payments, view the status of your claims and more. Canada Life has also provided the following [Welcome Packet](https://drive.google.com/file/d/1Fg9LxE-eyLqgDihpw5kUb-4PuDK5AeMa/view?usp=sharing). The [french version of the welcome packet](https://drive.google.com/file/d/1SChNz6Ir6Vyk8scbM-WJR1N8solVmpeE/view?usp=sharing) is also available. 
 
 Learn how to use GroupNet for Plan Members by watching the helpful videos in the following [pdf](https://drive.google.com/file/d/1mrZPMKd17m9cwC1Qnsdq6KyJ2lmfehFe/view?usp=sharing).
 
-## Insurance Cards
+### Canada Life User Portal and App 
+
+Canada Life has a [user portal](https://www.canadalife.com/) and App available to download that allows you to access your benefits information and ID cards. Please see the [brochure](https://drive.google.com/file/d/1ohL0svax7CEyfuNl1Xn0HcURwJ9I5HYm/view?usp=sharing) for more information and instructions on registering. 
+
+### Insurance Cards
 
 Printed Canada Life benefits cards are being phased out and it is recommended to print a PDF card for yourself and your spouse (if applicable). You can also access your electronic drug card online through the Groupnet for Plan Members site or through the mobile app.
 
@@ -133,13 +143,10 @@ For further instructions on how this can be obtained online, please review the f
 
 This card provides your group plan number and member identification number. Keep this information with you at all times and use it when requested by a health or dental provider or in case of medical emergency when traveling.
 
-## Canada Life Tools
+### Canada Life Tools
 
 Canada Life has designed [tools and services](https://www.greatwestlife.com/you-and-your-family/products/group-benefits.html) to make your life easier, allowing you to access your coverage details when you want, the way you want.  
 
-## Canada Life User Portal and App 
-
-Canada Life has a [user portal](https://www.canadalife.com/) and App available to download that allows you to access your benefits information and ID cards. Please see the [brochure](https://drive.google.com/file/d/1ohL0svax7CEyfuNl1Xn0HcURwJ9I5HYm/view?usp=sharing) for more information and instructions on registering. 
 
 ## Frequently asked questions
 
@@ -156,12 +163,6 @@ Canada Life has a [user portal](https://www.canadalife.com/) and App available t
      * Death of spouse or insured child, Birth or adoption of a child
      * Loss of spouse’s benefits
      * Dependents becoming ineligible for dependent coverage either because of their age or student status 
-
-### Updating Coverage Status and Enrollment of Domestic Partners, Spouses, and Dependents
-
-For instructions on adding your spouse, dependents, and updating your coverage stutus, please review the [Employee Collage Benefits HQ Handbook](https://drive.google.com/file/d/1Ph5ur-tguZ0EIWXCaJvmWlUOhnfcy7X9/view?usp=sharing) 
-
-Domestic Partner Enrollment: Canada Life uses the first day cohabitating as the date of eligibility to enter into the GitLab health plan. Anyone who has a common law spouse that they wish to add, moving from Single to Family coverage, for example, will need to do so within 30 days of moving in together. For further instructions on adding your 
 
 ## Registered Retirement Savings Plan (RRSP)
 
