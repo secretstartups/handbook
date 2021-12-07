@@ -388,6 +388,13 @@ Below are attributes that can be added to a stage in `data/stages.yml`. Each of 
 Below are attributes that can be added to a group in `data/stages.yml`. Groups are defined in the `groups` property of a stage. Each of these properties is accessed via `stages.<stage_key>.groups.<group_key>.foo`
 
 - `name`: the name of the Group in sentence case
+- `label`: The group [label in the `gitlab-org` group](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=group%3A%3A).
+By default, the group label is inferred from its name.
+For instance, the `import` group is represented by the
+[`group::import` label in the `gitlab-org` group](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=group%3A%3Aimport).
+This attribute allows to override that.
+For instance, the `gitlab-org` label for the `Distribution Deploy`
+group is [`group::distribution`](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=group%3A%3Adistribution).
 - `focus`:
 - `pm`: the Product Manager
 - `pmm`: the Product Marketing Manager
