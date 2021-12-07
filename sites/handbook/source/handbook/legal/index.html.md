@@ -12,8 +12,10 @@ description: "Meet the GitLab Legal Team and learn how to engage with us for int
  
 # Welcome to GitLab Legal!
 
-We are glad you are here! GitLab's [Legal Team](https://about.gitlab.com/company/team/?department=legal) is small but mighty and entirely at your service. 
+We are glad you are here! Learn more about GitLab's [Legal Team](https://about.gitlab.com/company/team/?department=legal). 
 
+# Trading Window Status
+- GitLab Team Members can view the current trading window status via the [Trading Window Status Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12780) 
 
 ## How to Reach Us
 
@@ -61,7 +63,8 @@ _NOTE: The Insider Trading and Whistleblower Policies are only accessible to Git
 
 ## Helpful Resources 
 
-* Compliance trainings for team members are prvided by GitLab Legal via [GitLab Learn](https://gitlab.edcast.com/) and [Navex](https://lms.navexglobal.com/topclass5/).
+* For information related to compliance, including the Insider Trading Policy & Insider Trading Policy FAQ, and various Designated Insider information please visit the [Compliance Information Handbook Page](https://about.gitlab.com/handbook/legal/publiccompanyresources/) 
+* Compliance trainings for team members are provided by GitLab Legal via [GitLab Learn](https://gitlab.edcast.com/) and [Navex](https://lms.navexglobal.com/topclass5/).
 * [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
 * [Requirements for Closing Deals](https://about.gitlab.com/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) - requirements for closing sales deals
 * [Terms](https://about.gitlab.com/terms/) - legal terms governing the use of GitLab's website, products, and services
