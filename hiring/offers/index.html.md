@@ -172,3 +172,16 @@ Key:
 Offers made to new team members should be documented in Greenhouse through the notes thread between the person authorized to make the offer and the Candidate Experience Specialist.
 
    -  Greenhouse offer details should be updated as necessary to reflect any changes including start date. Sections updated that will trigger re-approval are noted in Greenhouse.
+
+#### Declined Offers
+
+Although rare, there are times a candidate may decline an offer once an offer is verbalized, and/or once they have received a contract from GitLab. It is important to take the following steps if this occurs:
+
+* Declined at time of verbal offer (no contract generated, but offer fully approved)
+   * Notify your [Finance Business Partner](/handbook/finance/#finance-business-partner-alignment) via the candidates notes section in GH that the candidate has declined the offer (DRI: Recruiter)
+   * Make appropriate changes in Adaptive (DRI: FBP)
+
+* Declined at time of contract (a contract has been generated)
+   * Notify CES via the candidate notes section in GH that the candidate has declined offer and the contract needs to be voided (DRI: Recruiter)
+   * Notify your [Finance Business Partner](/handbook/finance/#finance-business-partner-alignment) via the candidates notes section in GH that the candidate has declined the offer (DRI: Recruiter)
+   * Make appropriate changes in Adaptive (DRI: FBP)
