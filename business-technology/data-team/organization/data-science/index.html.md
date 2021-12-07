@@ -27,7 +27,7 @@ The team accomplishes this mission by building machine learning models and analy
 
 - Start Date: 2021-06-30
 - [Project](https://gitlab.com/gitlab-data/propensity-to-buy)
-- [Data Science Work breakdown](https://gitlab.com/groups/gitlab-data/-/epics/340)
+- [Work breakdown](https://gitlab.com/groups/gitlab-data/-/epics/340)
 - Slack Channel: #data-propensity-projects
 
 ### Propensity to Contract (PtC)
