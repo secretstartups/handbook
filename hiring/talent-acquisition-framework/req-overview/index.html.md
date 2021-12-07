@@ -201,11 +201,8 @@ If the candidate for the position is internal, you should wait until you've pres
 
 If there are any special circumstances regarding a known relocation for the candidate, this information should be included in the Compensation Details. Details should include originating location and salary, as well as the new location and new salary details to ensure it is communicated as part of the approval.
 
-### **Step 10: Req Retro Issue**
 
-Once a candidate has signed their offer document, at that time the CES that sent the contract should create the [Req Retro Issue](https://gitlab.com/gl-talent acquisition/req-intake/-/blob/master/.gitlab/issue_templates/req-retro.md) found in the [Req Intake Project](https://gitlab.com/gl-talent acquisition/req-intake). Instructions are found on the issue template, the participants are the CES, Recruiter, Sourcer and the Hiring Manager. The issue is used to reacap the req, report on KRs, as well discussing what went well during the process and what can be improved upon.
-
-### **Step 11: Verbal Offer**
+### **Step 10: Verbal Offer**
 
 Once the offer is approved in Greenhouse and references are completed, an offer will be verbalized to the candidate by the Recruiter or Hiring Manager. _**Please note:** verbal offers should not be made to candidates in Japan until after a clear background check has been received. If the offer is ready to be verbalized but the background check is not yet complete, the hiring manager or recruiter can let the candidate know that they would like to make an offer, but it is contingent upon their background checking coming back clear._
 
