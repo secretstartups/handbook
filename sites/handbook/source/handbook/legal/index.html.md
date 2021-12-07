@@ -63,7 +63,7 @@ _NOTE: The Insider Trading and Whistleblower Policies are only accessible to Git
 
 ## Helpful Resources 
 
-* For information related to: Compliance, including the Insider Trading Policy & Insider Trading Policy FAQ, and various Designated Insider information please visit the [Compliance Information Handbook Page](https://about.gitlab.com/handbook/legal/publiccompanyresources/) 
+* For information related to compliance, including the Insider Trading Policy & Insider Trading Policy FAQ, and various Designated Insider information please visit the [Compliance Information Handbook Page](https://about.gitlab.com/handbook/legal/publiccompanyresources/) 
 * Compliance trainings for team members are provided by GitLab Legal via [GitLab Learn](https://gitlab.edcast.com/) and [Navex](https://lms.navexglobal.com/topclass5/).
 * [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
 * [Requirements for Closing Deals](https://about.gitlab.com/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) - requirements for closing sales deals
