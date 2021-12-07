@@ -104,6 +104,7 @@ fun and quirkiness to our team calls (so that we can learn more about each other
 | 2021-06-01 | What was the worst haircut you ever had? | Sheldon |
 | 2021-06-22 | What's the piece of tech you miss the most? | Paul S |
 | 2021-08-17 | A kilobyte of fun | Mark |
+| 2021-10-05 | What's the most mind-blowing fact you've ever learned? | Miguel |
 
 ### Frontend calendar
 
