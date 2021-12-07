@@ -173,7 +173,7 @@ If at any time during the interview process a candidate is declined due to compe
 
 #### Team Interview
 
-*  Once a screening call is completed and a candidate is still determined as top talent, team interviews will be scheduled. To do this, the recruiter will ping `@ces` in the Greenhouse profile with specific communication on what interview(s) need to be scheduled. The CES team will then [schedule team interviews](/handbook/hiring/talent-acquisition-framework/coordinator/#schedule-team-interviews).
+*  Once a screening call is completed and a candidate is still determined as top talent, team interviews will be scheduled. To do this, the recruiter will send an "Email the Team" template called `CES Scheduling Request Form` through Greenhouse to CES* with specific communication on what interview(s) need to be scheduled. The CES team member will then [schedule team interviews](/handbook/hiring/talent-acquisition-framework/coordinator/#schedule-team-interviews).
 * The number of team interviews and order will vary from vacancy to vacancy. An example of what a Team Interview may look like is:
   * Round 1: 50 minute interview with Hiring Manager
   * If applicable, Round 2A: 25 minute interview with a Hiring Team member
@@ -185,11 +185,9 @@ If at any time during the interview process a candidate is declined due to compe
 
 * The [Weekly Check-In Issue](/handbook/hiring/talent-acquisition-framework/req-overview/#step-5-weekly-check-in-issue) has a section for an async interview debrief. This may be needed if there is an apparent disconnect with the hiring team (team is not aligned on requirements, level, etc.). Jarring differences in feedback and ratings are a flag that should trigger information in that section of the issue template. This can also be used if the hiring team consistently provides delayed feedback, or if candidate ISAT surveys are uncovering other concerns with the process. Interview debriefs are a helpful way to evaluate how the process has been going thus far and if we need to change our strategy or approach.
 
-### **Step 7: References and Background Check**
+### **Step 7: References**
 
-Once a Hiring Manager has determined they want to move forward with a candidate, the Recruiter will tag `@ces` in the Greenhouse profile to reach out to the candidate to request their references contact details and inform them a backgound check is being issued, using [Guide](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/#using-the-candidate-guide). The CES will [initiate the background check](/handbook/hiring/talent-acquisition-framework/coordinator/#initiate-background-check).
-
-If the candidate declines GitLab's offer, or the offer is extended to another candidate and we do not move forward with a candidate that we started background check and references on, the Recruiter will tag the CES team in Greenhouse to inform them. The CES team member will `Dismiss` any associated reminders or tasks for the candidate at disposition.
+Once a Hiring Manager has determined they want to move forward with a candidate, the Recruiter will email the candidate to request their references contact details as well as details that will help with an offer letter such as Legal name and background check. A template can be found in Greenhouse to send at this stage.
 
 ### **Step 8: Justification (Engineering Only)**
 
@@ -203,11 +201,8 @@ If the candidate for the position is internal, you should wait until you've pres
 
 If there are any special circumstances regarding a known relocation for the candidate, this information should be included in the Compensation Details. Details should include originating location and salary, as well as the new location and new salary details to ensure it is communicated as part of the approval.
 
-### **Step 10: Req Retro Issue**
 
-Once a candidate has signed their offer document, at that time the CES that sent the contract should create the [Req Retro Issue](https://gitlab.com/gl-talent acquisition/req-intake/-/blob/master/.gitlab/issue_templates/req-retro.md) found in the [Req Intake Project](https://gitlab.com/gl-talent acquisition/req-intake). Instructions are found on the issue template, the participants are the CES, Recruiter, Sourcer and the Hiring Manager. The issue is used to reacap the req, report on KRs, as well discussing what went well during the process and what can be improved upon.
-
-### **Step 11: Verbal Offer**
+### **Step 10: Verbal Offer**
 
 Once the offer is approved in Greenhouse and references are completed, an offer will be verbalized to the candidate by the Recruiter or Hiring Manager. _**Please note:** verbal offers should not be made to candidates in Japan until after a clear background check has been received. If the offer is ready to be verbalized but the background check is not yet complete, the hiring manager or recruiter can let the candidate know that they would like to make an offer, but it is contingent upon their background checking coming back clear._
 
@@ -231,8 +226,8 @@ After the verbal offer is made the recruiter can send an email to the candidate 
 
 *A verbal offer can **only** be communicated once the offer has been fully approved in Greenhouse.  Ahead of the official approval, the Recruiter may choose to have a conversation regarding what a potential compensation package may look like, however, the Recruiter must be clear that they are not extending a formal verbal offer as the offer has yet to be approved.*
 
-If the candidate declines GitLab's offer, the Recruiter will tag the CES team in Greenhouse to inform them. The CES team member will `Dismiss` any associated reminders or tasks for the candidate at disposition.
+If the candidate declines GitLab's offer, the Recruiter will tag the CES team and FP&A partners for their department in Greenhouse to inform them. The CES team member will `Dismiss` any associated reminders or tasks for the candidate at disposition.
 
 ### **Step 11: Contract**
 
-Once a verbal offer is made to a candidate, the Recruiter will notify `@ces` to [send a contract](/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract) to the candidate. If there are any special circumstances regarding relocation, this should be communicated in the notification to CES to ensure it is added to the contract. Once a candidate signs a contract, the CES will send welcome email with instructions on hardware ordering and next steps.
+Once a verbal offer is made to a candidate, the Recruiter will notify `@ces` to [send a contract](/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract) to the candidate via Greenhouse email. If there are any special circumstances regarding relocation, this should be communicated in the notification to CES to ensure it is added to the contract. The CES will [initiate the background check](/handbook/hiring/talent-acquisition-framework/coordinator/#initiate-background-check) during this stage. Once a candidate signs a contract, the CES will send welcome email with instructions on hardware ordering and next steps.
