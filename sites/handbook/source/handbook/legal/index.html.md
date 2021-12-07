@@ -15,7 +15,7 @@ description: "Meet the GitLab Legal Team and learn how to engage with us for int
 We are glad you are here! Learn more about GitLab's [Legal Team](https://about.gitlab.com/company/team/?department=legal). 
 
 # Trading Window Status
-- GitLab Team Members can view the current trading window status via the [Trading Window Status Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12780) 
+GitLab Team Members can view the current trading window status via the [Trading Window Status Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12780) 
 
 ## How to Reach Us
 
