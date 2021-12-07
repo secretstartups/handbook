@@ -15,10 +15,10 @@ description: "This page is an overview of the search team alignment and the tale
 | Commercial Sales,	AMER | Marcus Carter | TBH  | Hannah Stewart |
 | Commercial Sales,	EMEA/APAC | Ben Cowdry | TBH  | Hannah Stewart (temporary) |
 | Channel Sales, Global | Debbie Harris |  Kanwal Matharu | Hannah Stewart (temporary) |
-| Field Operations,	Global | Kelsey Hart | Loredana Iluca | Hannah Stewart (temporary) |
+| Field Operations,	Global | Kelsey Hart | Loredana Iluca | Hannah Stewart |
 | Customer Success, EMEA | Joanna Muttiah | Loredana Iluca | Hannah Stewart (temporary) |
 | Customer Success, APAC | Joanna Muttiah | Loredana Iluca | Hannah Stewart (temporary) |
-| Customer Success, NA | Kevin Rodrigues | Loredana Iluca | Hannah Stewart (temporary) |
+| Customer Success, NA | Kevin Rodrigues | Loredana Iluca | Hannah Stewart |
 | Marketing, Global | Steph Sarff   | Alina Moise | Davie Soomalelagi |
 | Marketing, SDR Global | Tony Tsiras | Tony Tsiras| Davie Soomalelagi |
 | G&A, Finance, People, CEO | Maria Gore | Alina Moise | Davie Soomalelagi |
