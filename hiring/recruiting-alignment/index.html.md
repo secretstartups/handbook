@@ -6,31 +6,33 @@ description: "This page is an overview of the search team alignment and the tale
 
 ## Search Team Alignment by Department
 
-| Department                    | Recruiter       | Sourcer     |
-|--------------------------|-----------------|-----------------|
-| Executive          | Rich Kahn   | Chriz Cruz |
-| Enterprise Sales, NA | Jonathan Edwards |  TBH |
-| Enterprise Sales, EMEA | Debbie Harris |  Kanwal Matharu |
-| Enterprise Sales, APAC | Debbie Harris |  Kanwal Matharu |
-| Commercial Sales,	AMER | Marcus Carter | TBH  |
-| Commercial Sales,	EMEA/APAC | Ben Cowdry | TBH  |
-| Channel Sales, Global | Debbie Harris |  Kanwal Matharu |
-| Field Operations,	Global | Joanna Muttiah | Loredana Iluca |
-| Customer Success, Global | Joanna Muttiah | Loredana Iluca ||
-| Marketing, Global | Steph Sarff   | Alina Moise |
-| Marketing, SDR Global | Tony Tsiras | Tony Tsiras|
-| G&A, Finance, People, CEO | Maria Gore | Alina Moise |
-| G&A, Accounting, Legal | Rachelle Druffel | Alina Moise |
-| Development | Mark Deubel and Riley Smith | Zsuzsanna Kovacs and Susan Hill |
-| Quality | Rupert Douglas   | Zsuzsanna Kovacs |
-| UX  | Rupert Douglas   | Zsuzsanna Kovacs  |
-| Support | Joanna Michniewicz  |  Joanna Michniewicz |
-| Security | Nicky Kunstman |  Zsuzsanna Kovacs |
-| Incubation | Rupert Douglas  |  Zsuzsanna Kovacs |
-| Infrastructure   | Josh Barker  | Susan Hill |
-| Product Management  | Matt Allen | Chris Cruz |
+| Department                    | Recruiter       | Sourcer     | Candidate Experience Specialist    |
+|--------------------------|-----------------|-----------------|-------------------------------------|
+| Executive          | Rich Kahn   | Chriz Cruz | Ale Ayala |
+| Enterprise Sales, NA | Betty Sanchez |  TBH | Hannah Stewart |
+| Enterprise Sales, EMEA | Debbie Harris |  Kanwal Matharu | Hannah Stewart (temporary) |
+| Enterprise Sales, APAC | Debbie Harris |  Kanwal Matharu | Hannah Stewart (temporary) |
+| Commercial Sales,	AMER | Marcus Carter | TBH  | Hannah Stewart |
+| Commercial Sales,	EMEA/APAC | Ben Cowdry | TBH  | Hannah Stewart (temporary) |
+| Channel Sales, Global | Debbie Harris |  Kanwal Matharu | Hannah Stewart (temporary) |
+| Field Operations,	Global | Kelsey Hart | Loredana Iluca | Hannah Stewart (temporary) |
+| Customer Success, EMEA | Joanna Muttiah | Loredana Iluca | Hannah Stewart (temporary) |
+| Customer Success, APAC | Joanna Muttiah | Loredana Iluca | Hannah Stewart (temporary) |
+| Customer Success, NA | Kevin Rodrigues | Loredana Iluca | Hannah Stewart (temporary) |
+| Marketing, Global | Steph Sarff   | Alina Moise | Davie Soomalelagi |
+| Marketing, SDR Global | Tony Tsiras | Tony Tsiras| Davie Soomalelagi |
+| G&A, Finance, People, CEO | Maria Gore | Alina Moise | Davie Soomalelagi |
+| G&A, Accounting, Legal | Rachelle Druffel | Alina Moise | Davie Soomalelagi |
+| Development | Mark Deubel and Riley Smith | Zsuzsanna Kovacs and Susan Hill | Michelle Jubrey (temporary) |
+| Quality | Rupert Douglas   | Zsuzsanna Kovacs | Davie Soomalelagi (temporary) |
+| UX  | Rupert Douglas   | Zsuzsanna Kovacs  | Davie Soomalelagi (temporary) |
+| Support | Joanna Michniewicz  |  Joanna Michniewicz | Ale Ayala (temporary) |
+| Security | Nicky Kunstman |  Zsuzsanna Kovacs | Michelle Jubrey |
+| Incubation | Rupert Douglas  |  Zsuzsanna Kovacs | Davie Soomalelagi (temporary) |
+| Infrastructure   | Josh Barker  | Susan Hill | Michelle Jubrey |
+| Product Management  | Matt Allen | Chris Cruz | Michelle Jubrey |
 
-The Candidate Experience Specialist team operates off of a queue style system utilizing a [GitLab Service Desk](/stages-devops-lifecycle/service-desk/).
+For urgent requests of the Candidate Experience Specialist team, we encourage you to contact them by also tagging @CES in Slack messages and CC'ing CES@gitlab.com on emails. 
 
 ## Talent Acquisition Leader Alignment
 
