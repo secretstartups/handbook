@@ -159,7 +159,7 @@ Walk through the candidates resume in reverse chronological order. For each role
 
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=jyFQHOo9LF8" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/jyFQHOo9LF8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ### Interview feedback
