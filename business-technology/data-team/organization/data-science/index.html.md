@@ -23,7 +23,7 @@ The team accomplishes this mission by building machine learning models and analy
 
 ## Projects
 
-### Propensity to Expand
+### Propensity to Expand (PtE)
 
 - Start Date: 2021-06-30
 - [Project](https://gitlab.com/gitlab-data/propensity-to-buy)
@@ -34,8 +34,8 @@ The team accomplishes this mission by building machine learning models and analy
 
 - Buy (Upsell) Predicted ARR
 - Golden Journey - Growth Team - Hila Qu
-- PtB.first order  - Growth Team - Hila Qu
-- PtB.churn - Customer Success Team - David Sakamoto
+- PtE.first order  - Growth Team - Hila Qu
+- PtE.churn - Customer Success Team - David Sakamoto
 - User Segmentation / persona activity, use cases - Product Team - Hila Qu
 - Community Sentiment Analysis / twitter, facebook - Product Team
 - GitLab MLOps Product Development - Product Team - Taylor
