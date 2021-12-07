@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Public Company Resources"
+title: "Compliance Information"
 description: "This Handbook Page offers a single source related to Public Company information"
 ---
 
