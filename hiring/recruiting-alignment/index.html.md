@@ -13,7 +13,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Enterprise Sales, EMEA | Debbie Harris |  Kanwal Matharu | Hannah Stewart (temporary) |
 | Enterprise Sales, APAC | Debbie Harris |  Kanwal Matharu | Hannah Stewart (temporary) |
 | Commercial Sales,	AMER | Marcus Carter | TBH  | Hannah Stewart |
-| Commercial Sales,	EMEA/APAC | Ben Cowdry | TBH  | Hannah Stewart (temporary) |
+| Commercial Sales,	EMEA/APAC | Ben Cowdry | Kanwal Matharu  | Hannah Stewart (temporary) |
 | Channel Sales, Global | Debbie Harris |  Kanwal Matharu | Hannah Stewart (temporary) |
 | Field Operations,	Global | Kelsey Hart | Loredana Iluca | Hannah Stewart |
 | Customer Success, EMEA | Joanna Muttiah | Loredana Iluca | Hannah Stewart (temporary) |
