@@ -40,7 +40,7 @@ Looking through just one lens provides a limited view. On a happier note, the cu
 * **Product**: License activation + User engagement + Use Case: 50% weighting
 * **Risk**: TAM Sentiment + Opportunity Renewal risks: 0-50%
 * **Outcomes**: Success Plan + Verified Outcomes: 20%
-* **Voice**: Support + Surveys: 10%
+* **Voice of the customer** (VoC): Support + Surveys: 10%
 * **Engagement**: Customer Engagement + Executive Sponsorship + Events + Certifications: 20%
 
 
