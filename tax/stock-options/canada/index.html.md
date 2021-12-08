@@ -9,7 +9,7 @@ title: "Tax Treatment of Stock Options as employee in Canada"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This page describes the taxation of your stock options in Canada when you have transfered to GitLab Canada Corp. as your employer.
+This page describes the taxation of your stock options in Canada when you have transfered to GitLab Canada Corp. as your employer. The information on this page should be used for discussion purposes only. For any personal advice please reach out to a tax professional.
 
 ### Equity Award
 Stock Option Plan
