@@ -67,7 +67,7 @@ Welcome to Accounts Payable, commonly referred to as AP. You should be able to f
 
 We’re excited to announce that GitLab has launched Coupa, effective June 1, 2021 for Phase I and effective December 13, 2021 for Phase II.
 
-Coupa is a procure-to-pay system that will help us streamline the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be implementing this new system in a phased approach, Phase I consists of US and Netherlands entities - GitLab Inc, Federal LLC, IT BV and BV. All other entities will switch over to Coupa during Phase II
+Coupa is a procure-to-pay system that will help us streamline the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be implementing this new system in a phased approach. Phase I consists of US and Netherlands entities - GitLab Inc, Federal LLC, IT BV and BV. All remaining entities will switch over to Coupa during Phase II.
 
 Invoices can be emailed to <i>[invoices@gitlab.coupahost.com](invoices@gitlab.coupahost.com)</i>. Vendors can also upload their invoices directly and match to their PO through their Coupa supplier portal.
 
@@ -90,7 +90,7 @@ Invoices can be emailed to <i>[invoices@gitlab.coupahost.com](invoices@gitlab.co
     - If PO is hard/fully closed, it cannot be reversed.
 1. Payment batch creation:
     - Use the pre-set view "Payment Setup" which has filters applied to select anything for a vendor that is "payable" and due within 6 days and aged prior to the current date.
-     ![Payment-setup](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/paymnent-setup.png "Payment Setup"){: .shadow}
+     ![Payment-setup](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/payment-setup.png "Payment Setup"){: .shadow}
 1. How to remove an invoice from a payment batch:	
     - To remove a payment from a submitted batch, please add a comment to the batch and tag Misty Brown so that she can remove the payment and the request will be recorded in Coupa.
 1. Use of daily checklist to clear errors per [this issue](https://gitlab.com/gitlab-com/Finance-Division/ap-team/ap-project/-/issues/76). 
