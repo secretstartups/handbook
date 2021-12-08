@@ -92,6 +92,8 @@ The Staff Analytics Engineer reports to the [Manager, Data.](https://about.gitla
 
 The Staff Analytics Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+**Market Justification:** From a survey data perspective 98 companies have this role with an average of 3 employee incumbents in all industries. In tech there are 33 companies reporting an average of 2 employee incumbents. The business justification for Analytics Engineer Staff and Principal job grades is to retain and develop deep technical talent by establishing Individual Contributor focused career paths for our team members who do not want to move into [Data People Management](https://about.gitlab.com/job-families/finance/manager-data/). Despite residing in the Finance Division, all Data job families are deeply technical in nature and require knowledge of databases, SQL, and modeling. Education in a technical field, typically Computer Science, Mathematics, Management Information Systems, or Data Analytics is typical for individuals in Data careers. At GitLab, the Analytics Engineer role is critical to support the growing Data Program because it helps glue together the business-facing Data Analyst roles with the technology-focused Data Engineering roles by creating data solutions for both roles. The Analytics Engineer is a specialized in dbt, which GitLab has chosen as the standard for developing Trusted Data Models.
+
 #### Staff Analytics Engineer Responsibilities
 
 Responsibilites for the Staff Analytics Engineer extend the Senior Analytics Engineer job. In addition:
