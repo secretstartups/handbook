@@ -9,6 +9,8 @@ title: "Tax Treatment of Stock Options as Employee of GitLab BV"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+The information on this page should be used for discussion purposes only. For any personal advice please reach out to a tax professional. Especially if you migrated to the Netherlands and stock options vested abroad.
+
 ### Equity Award
 Stock Option Plan
 
