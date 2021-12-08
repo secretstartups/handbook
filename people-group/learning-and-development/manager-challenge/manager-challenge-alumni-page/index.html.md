@@ -11,15 +11,17 @@ title: Manager Challenge Alumni
 
 ## Introduction
 
-## Continuous Learning Opportunities For Manager Challenge Participants
+Congrats on making it through GitLab's Manager Challenge Program! We are thrilled that you have completed the training, but your road to personal development as a leader isn't over. There are lots of ways you can continue to practice your skills. 
 
 ### Manager Challenge Alumni Channel
 
+Join the #manager-challenge-alumni channel to keep up to date with the latest annoucements related to leadership development and manager enablement at GitLab. 
+
 ### Self-paced Learning
 
-Recommended LinkedIn Learning Courses
+Take a look at some of the courses the Learning & Development recommends for [People Leaders on LinkedIn Learning](handbook/people-group/learning-and-development/linkedin-learning/#people-leaders). 
 
-GitLab Learn - EdCast
+L&D also has courses on [GitLab Learn](https://gitlab.edcast.com/) that you can explore for manager training. 
 
 ### Professional Coaching
 
