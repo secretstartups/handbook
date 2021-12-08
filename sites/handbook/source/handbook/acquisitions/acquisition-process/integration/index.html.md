@@ -14,7 +14,7 @@ our acquisitions approach visit our [acquisitions process](/handbook/acquisition
 
 ## Overview
 
-The DRI for the integration stage is the Dir. Corporate Development. This will consist of several aspects and [best practices](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-the-best-acquirers-excel-at-integration):
+The DRI for the integration stage is the Sr. Dir. Corporate Development. This will consist of several aspects and [best practices](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-the-best-acquirers-excel-at-integration):
 
 1. Operational shutdown (if appropriate):
     1. Execution of customer sunset plans
@@ -35,11 +35,11 @@ The DRI for the integration stage is the Dir. Corporate Development. This will c
 1. Each delivery milestone which is defined in the acquisition agreement will be converted to confidential issue by the PM leading the integration efforts, once the acquisition announcement has been made public. These issues will be the SSOT to track progress on a delivery milestone. Once an issue is completed, it will serve as a confirmation of a successful delivery of that milestone. Signoff for completion of a milestones is required by:
     1. Product champion
     1. Engineering champion
-    1. Dir. Corp. Dev.
-1. Once a milestone has been signed-off, the Dir. Corp. Dev. will notify the accounting team if there is a consideration payment which needs to be processed
+    1. Corp. Dev. champion
+1. Once a milestone has been signed-off, the Corp. Dev. champion will notify the accounting team if there is a consideration payment which needs to be processed
 1. Monthly check-in calls will be scheduled by the PM leading the integration efforts with the following team members:
     1. Product and engineering champions
-    1. Acquisition lead (Dir. Corp. Dev.)
+    1. Acquisition lead (Corp. Dev. champion)
     1. Main engineer leading the integration efforts from the acquired company
 
 ### People integration

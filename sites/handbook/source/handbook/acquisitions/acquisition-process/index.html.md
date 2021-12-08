@@ -163,7 +163,7 @@ The process is comprised of four key stages:
         1. A board package will be shared with the BoD members before requesting their approval. It should include:
             1. Executive summary email:
                 1. Will be sent to the BoD members by the CEO
-                1. The Dir. Corp Dev will create a 1-2 page executive summary email message. It should include a high level coverage of the following topics:
+                1. The acquisition lead will create a 1-2 page executive summary email message. It should include a high level coverage of the following topics:
                     1. Deal details and rationale (including roadmap acceleration, projected revenue gain)
                     1. Expertise of team joining
                     1. Key terms for the APA and any additional costs
@@ -182,7 +182,7 @@ The integration process is outlined in our [acquisition integration page](/handb
 
 An acquisition team will consist of the following GitLab functional team members:
 
-1. Dir. Corporate Development - acquisition lead
+1. Corporate Development - acquisition lead
 1. [Product Section Leader](/handbook/product/product-leadership/#general-product-organizational-structure) (reporting to VP Product)
 1. Product Manager
 1. Dir. Engineering
