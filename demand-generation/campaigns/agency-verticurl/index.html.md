@@ -35,13 +35,11 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 | Name | Company/Role | GitLab Handle | Email Address |
 | ---- | ------------ | ------------- | ------------- |
 | Ashwinraj Maniraj | Verticurl, Client Success Manager | @ashwin.raj | `ashwinraj.maniraj@verticurl.com` |
-| Jayaprakash D | Verticurl, Campaigns Team Consultant | @? | `jayaprakash.d@verticurl.com` |
-| Sonu Gifty | Verticurl, Campaigns Team Consultant | @sonugifty | `sonugifty.thomas@verticurl.com` |
-| Priya | Verticurl, Campaigns Team Consultant | @@priya_sridhar | `mohanapriya.thangavel@verticurl.com` |
+| Priya | Verticurl, Campaigns Team Consultant | @priya_sridhar | `mohanapriya.thangavel@verticurl.com` |
 | Viswanath R | Verticurl, Project Management | @? | `Viswanath.R@verticurl.com` |
-| Prathap Arumugam | Verticurl, Backup Project Management | @? | `prathap.arumugam@verticurl.com` |
-| Karthikeyan K. | Verticurl, FMM/ABM resource | @@karthikeyan.k  | `karthikeyan.k@verticurl.com` |
-| Alexia Emmanoulopoulou | Verticurl, EMEA FMC resource | @@ae5202 | `alexia.emmanoulopoulou@verticurl.com` |
+| Jitha Asokan | Verticurl, FMM/ABM resource | @jitha.asokan | `jitha.asokan@verticurl.com` |
+| Karthikeyan K. | Verticurl, FMM/ABM resource | @karthikeyan.k  | `karthikeyan.k@verticurl.com` |
+| Alexia Emmanoulopoulou | Verticurl, EMEA FMC resource | @ae5202 | `alexia.emmanoulopoulou@verticurl.com` |
 
 ## Project Management - Campaigns team
 {: #project-management-campaigns-team}
@@ -130,9 +128,9 @@ In an effort to avoid manually adding the issues we are working on with Verticur
 
 1. **GitLab**: Issues are submitted with final copy and all details included, with status `FMM-Verticurl::triage`.
     - At the time of moving to triage, all details must be provided and final (including copy reviewed by relevant stakeholders, and all hyperlinks double-checked and confirmed).
-1. **GitLab**: Triage Manager (Regional Manager, FMM) for relevant team will review the incoming issues for completed details. When details are confirmed and final, Triage Manager will move to `mktg-status::wip` and assign to `FMM Verticurl resource - karthikeyan.k`, `FMM Verticurl resourse - sonugifty` and `FMM Verticurl Resource - priya_sridhar`
+1. **GitLab**: Triage Manager (Regional Manager, FMM) for relevant team will review the incoming issues for completed details. When details are confirmed and final, Triage Manager will move to `mktg-status::wip` and assign to `FMM Verticurl resource - karthikeyan.k`, `FMM Verticurl resourse - jitha.asokan` and `FMM Verticurl Resource - priya_sridhar`
     - If Triage Manager finds that all details are not included in the issue, then Triage Manager will add the label `FMM-Verticurl::blocked` and will also comment to the requesting team member what is missing. Once the team member addresses the missing pieces, they then add the `FMM-Verticurl::triage` label again to start the review process over.
-1. **Verticurl**: `FMM Verticurl resource - karthikeyan.k`, `FMM Verticurl resourse - sonugifty` and `FMM Verticurl Resource - priya_sridhar` will assign issue to a Verticurl [DRI](/handbook/people-group/directly-responsible-individuals/) within Verticurl's internal project management system. Today, that is `FMM Verticurl resource - karthikeyan.k`, `FMM Verticurl resourse - sonugifty` and `FMM Verticurl Resource - priya_sridhar`.
+1. **Verticurl**: `FMM Verticurl resource - karthikeyan.k` and `FMM Verticurl Resource - priya_sridhar` will assign issue to a Verticurl [DRI](/handbook/people-group/directly-responsible-individuals/) within Verticurl's internal project management system. Today, that is `FMM Verticurl resource - karthikeyan.k`, `FMM Verticurl resourse - jitha.asokan` and `FMM Verticurl Resource - priya_sridhar`.
 1. **Verticurl**: Verticurl DRI adds email to the Google Calendar for the anticipated send date.
     - The requested send date is the due date of the issue. If the requested send date is less than 5 Business Days from the date it is passed to Karthikeyan K, the date of the issue will be scheduled 5 business days out to abide by SLAs.
 1. **Verticurl**: Verticurl DRI completes the setup in Marketo, then sends a test email to the "Reviewers/Approvers" listed in the issue
@@ -167,7 +165,6 @@ The FMC resources can be found [here](/handbook/marketing/demand-generation/camp
 FMC DRI - Helena Dixon. 
 
 Verticurl FMC 
-1. Sonu Gifty - @sonugifty `sonugifty.thomas@verticurl.com` 
 1. Priya - @priya_sridhar  `mohanapriya.thangavel@verticurl.com` 
 
 ### Vericurl FMC Duties 
