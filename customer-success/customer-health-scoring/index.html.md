@@ -31,11 +31,12 @@ Account Health is an aggregation of key metrics for a multi-perspective view of 
 - Downgrade
 - Churn
 
-For instance, the customer may have deployed all their subscription licenses but aren’t actively using them; or they may be using them, but all their Support tickets are very negative. 
+For instance, the customer may have deployed all their subscription licenses but aren’t actively using them; or they may be using them, but all their Support tickets are very negative.
 
-Looking through just one lens provides a limited view. On a happier note, the customer may have deployed most of their licenses, are heavily using all the current tier’s high end features, and are hitting business outcomes. In that case, their milestones indicate expansion opportunities. We will need to PROVE value to the customer and ourselves:
+Looking through just one lens provides a limited view. In a happier example, a customer may have deployed most of their licenses, be heavily using all the current tier’s high end features,
+and achieving positive business outcomes (PBOs). In this case, metrics indicate expansion opportunities. We will need to **PROVE** value to the customer and ourselves:
 
-**PROVE**
+**P.R.O.V.E.**
 
 * **Product**: License activation + User engagement + Use Case: 50% weighting
 * **Risk**: TAM Sentiment + Opportunity Renewal risks: 0-50%
