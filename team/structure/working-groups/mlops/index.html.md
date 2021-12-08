@@ -19,7 +19,8 @@ canonical_path: "/company/team/structure/working-groups/mlops/"
 | Target End Date | - |
 | Slack           | #wg_mlops (only accessible from within the company) |
 | Google Doc      | [MLOPs Working Group Agenda](https://docs.google.com/document/d/18iOB05cFxS5to1eT55GwsENirBfVSjHCQJ2ostoY3cw/edit?usp=sharing) (only accessible from within the company) |
-| Issue Label | ~WorkingGroup::MLOps  |
+| Board           | [gitlab-org board](https://gitlab.com/groups/gitlab-org/-/boards/3264088?label_name[]=WorkingGroup%3A%3AMLOps) |
+| Issue Label     | ~WorkingGroup::MLOps  |
 
 ## Goals
 
@@ -60,8 +61,10 @@ Read more about the topic area from the links below:
 ### Related GitLab projects
 
   - [Spamcheck](https://gitlab.com/gitlab-org/spamcheck)
+    - [Architecture Diagram](https://gitlab.com/gitlab-org/spamcheck#architecture-diagram)
   - [Tanuki-Stan](https://gitlab.com/gitlab-org/ml-ops/tanuki-stan)
   - [UnReview](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/projects/unreview/)
+    - [Architecture Diagram](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/projects/unreview/#architecture)
 
 ### Related ML Slack channels
  - #g_applied_ml
@@ -69,7 +72,7 @@ Read more about the topic area from the links below:
  - #feed_tanuki-stan
  - #security-ml
 
-## Exit Criteria 
+## Exit Criteria
 
 The charter of this working group is to bridge the gap between different teams that are building ML products at GitLab by discussing overlapping architectural concerns:
 
@@ -91,8 +94,11 @@ The charter of this working group is to bridge the gap between different teams t
 | Functional Lead                | Jayson Salazar        | Senior Security Engineer, Security Automation   |
 | Functional Lead                | Juliet Wanjohi        | Security Engineer, Security Automation          |
 | Functional Lead                | Eduardo Bonet         | Staff Full Stack Engineer - MLOps, SEG |
+| Functional Lead                | Monmayuri Ray         | Engineering Manager, Applied Machine Learning & Anti-abuse |
+| Functional Lead                | Shawn Sichak         | Senior Security Engineer, Trust and Safety |
 | Member                | Alexander Dietrich    | Senior Security Engineer, Security Automation   |
 | Member                | Charl De Wit            | Security Manager, Trust & Safety |
 | Member                | Wayne Haber         | Engineering director |
 | Member                | Bartek Marnane         | VP, Incubation Engineering |
+| Member                | Marshall Cottrell      | Strategy and Operations (Technical) Staff |
 
