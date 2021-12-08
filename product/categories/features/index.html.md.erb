@@ -49,7 +49,7 @@ This page is meant to showcase the features by tier across GitLab's Product Hier
                 <% coreList << "[#{feature.title}](#{feature.link})" if feature.gitlab_core %>
               <% end %>
             <% end %>
-            <%= "| **[#{category.name}](#{category.best_link})** | #{coreList.join(', ')} | #{premiumList.join(', ')} | #{ultimateList.join(', ')} | " %>
+            <%= "| **[#{category.name}](#{category.best_link})** | #{coreList.join('<br/> ')} | #{premiumList.join('<br/> ')} | #{ultimateList.join('<br/> ')} | " %>
           <% end %>
         <% end %>
 
