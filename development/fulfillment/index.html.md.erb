@@ -139,7 +139,7 @@ We follow the [OKR (Objective and Key Results)](https://about.gitlab.com/company
 * We get a chance to work on the things we want to work on
 * Everyone can contribute; no silos
 
-### Keeping our work SAFE
+### SAFE
 
 Working in [SAFE manner](https://about.gitlab.com/handbook/legal/safe-framework/) at GitLab is everyone's responsibility. We along with our stable counterparts in Sales and Billing contribute to an area of the product that potentially could encounter sensitive or financial information, and could have an effect on the business as a whole. Therefore, it's important for Fulfillment team members to ensure that the SAFE epics, issues, videos, MRs, and other artifacts we produce are kept confidential.
 
@@ -286,6 +286,14 @@ Basecamp thinks about these stages in relation to the [climb and descent of a hi
 
 While individual groups are free to use as many stages in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) workflow as they find useful, we should be somewhat prescriptive on how issues transition from discovery/refinement to implementation.
 
+**Quad-planning workflow**
+
+The SETs helps facilitate the quad-planning process. This is the participation of Product Management, Development, UX, and the Quality team which aims to bring test planning as a topic before the development of any feature.
+
+We follow the Quad Planning process defined [here](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/quad-planning/#process).
+
+[Quad Planning Dashboard](https://app.periscopedata.com/app/gitlab/634305/Quad-Planning-Dashboard?widget=8844548&udv=1040834) showcases the total Planned issues for Quad Planning vs the actual ones for each milestone.
+
 ### Approving and merging the work
 
 We have approval rules enabled, so every MR that targets `staging` or `master` needs at least one approval (different from the author/committer).
@@ -328,15 +336,7 @@ We do this to encourage our team to be more async in collaboration and to allow 
 
 GitLab's Quality is everyone's responsibility. The [SETs](/handbook/engineering/quality/#stable-counterparts) embedded within Fulfillment section follow the [Quality Engineering Departments's principles](https://about.gitlab.com/handbook/engineering/quality/#our-principles) primarily to ensure that everyone is aware of product quality.
 
-**Quad-planning workflow**
-
-The SETs helps facilitate the quad-planning process. This is the participation of Product Management, Development, UX, and the Quality team which aims to bring test planning as a topic before the development of any feature.
-
-We follow the Quad Planning process defined [here](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/quad-planning/#process).
-
-[Quad Planning Dashboard](https://app.periscopedata.com/app/gitlab/634305/Quad-Planning-Dashboard?widget=8844548&udv=1040834) showcases the total Planned issues for Quad Planning vs the actual ones for each milestone.
-
-## Testing
+### Testing
 
 The CustomersDot has different types of tests running:
 
@@ -352,7 +352,7 @@ Any test failure is notified to #s_fulfillment_status including a link to the pi
 
 ### Deployment
 
-### Revenue impacting changes
+#### Revenue impacting changes
 
 Fulfillment is unique in Engineering because our changes can directly impact revenue. Changes which impact revenue or are otherwise high risk may require broader scrutiny including input from teams outside of Fulfillment. PM is the DRI on these decisions, taking input from stakeholders including Sales, Enterprise Applications, Marketing, Finance, and Customer Support.
 
@@ -469,24 +469,15 @@ These dashboards are designed to give an insight, to everyone working in a featu
 - [Purchase](https://dashboards.gitlab.net/d/stage-groups-purchase/stage-groups-group-dashboard-fulfillment-purchase)
 - [Utilization](https://dashboards.gitlab.net/d/stage-groups-subscription/stage-groups-group-dashboard-fulfillment-utilization)
 
-### CustomersDot Engineer:Maintainer Ratio
-
-<embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 825250, chart: 11035807, embed: 'v2') %>">
-
-We attempt to have an ideal Engineer to Maintainer Ratio of 1:1 for both backend and frontend effort for our primary application, [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com). The active list of maintainers can be found on the [Engineering Projects page](https://about.gitlab.com/handbook/engineering/projects/#customers-app).
-
-Some considerations that differ from other maintainer ratios:
-
-1. Fulfillment maintainer ratios are Maintainers vs Reviewers
-2. GitLab maintainer ratios are Mantainers vs Maintainers + Reviewers
-3. GitLab maintainer ratios do not count full-stack engineers properly (Fulfillment one does)
 
 ### Retrospectives
+
+#### Monthly Retrospectives
 
 After the `8th`, the Fulfillment team conducts an [asynchronous retrospective](/handbook/engineering/management/team-retrospectives/). You can find current and past retrospectives for Fulfillment in [https://gitlab.com/gl-retrospectives/fulfillment/issues/](https://gitlab.com/gl-retrospectives/fulfillment/issues/).
 
 
-## Iteration Retrospectives
+#### Iteration Retrospectives
 
 There are several resources at GitLab for improving our iteration capability:
 
@@ -503,17 +494,17 @@ An Iteration Retrospective, in the GitLab values sense that we're using here, is
 
 Each group should perform their own Iteration Retrospective, but share as transparently as possible to help fellow teammates and other teams learn from your investigation.
 
-### Frequency
+##### Frequency
 
 Iteration Retrospectives should be conducted quarterly.
 
-### Preparation
+##### Preparation
 
 Engineering Manager(s) or Other team members should review current or previous milestones to find a good, challenging candidate issue for the Iteration Retrospective. Choose one (or two if related) from the suggestions, then create a retrospective issue.
 
 Review [these rules](https://about.gitlab.com/handbook/engineering/management/group-retrospectives/) for an effective retrospective.
 
-### Participation
+##### Participation
 
 Everyone can and should contribute asynchronously to the discussion. Present your ideas on alternative methods or mechanisms to break down the problem stated in chosen issue for review. If the problem breakdown was fine, suggestions about process or other refinements are also welcome.
 
@@ -521,7 +512,7 @@ Don't belabor the point, participation should be timeboxed to 1 week. A 1 week d
 
 Consider handbook updates, process changes, and bubbling up information from your conclusions after this retrospective.
 
-### Template (optional)
+##### Template (optional)
 
 ```
 Iteration is one of six GitLab Values, but also really difficult. By focusing how we have iterated well in the past and how we have not will help us iterate faster. Please contribute the following [Iteration Retrospective](#link-to-handbook-page).
@@ -615,10 +606,22 @@ To be added
 
 ## Performance indicators
 
-### Measuring Engineering Performance
-
 See the [Fulfillment Section Performance Indicators](/handbook/engineering/development/performance-indicators/fulfillment/) as well as the
 [Centralized Engineering Dashboards](/handbook/engineering/metrics/).
+
+## Maintainer ratios
+
+### CustomersDot
+
+<embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 825250, chart: 11035807, embed: 'v2') %>">
+
+We attempt to have an ideal Engineer to Maintainer Ratio of 1:1 for both backend and frontend effort for our primary application, [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com). The active list of maintainers can be found on the [Engineering Projects page](https://about.gitlab.com/handbook/engineering/projects/#customers-app).
+
+Some considerations that differ from other maintainer ratios:
+
+1. Fulfillment maintainer ratios are Maintainers vs Reviewers
+2. GitLab maintainer ratios are Mantainers vs Maintainers + Reviewers
+3. GitLab maintainer ratios do not count full-stack engineers properly (Fulfillment one does)
 
 ## Knowledge sharing
 
