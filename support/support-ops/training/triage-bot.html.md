@@ -94,14 +94,20 @@ to perform various triage actions on issues and merge requests we work out of.
 Generally speaking, we have rules for:
 
 * Issues
-  * Add a label when the issue has no category label
-  * Add a label when the issue has no priority label
-  * Add a label when the issue has no progress label
+  * Find issues missing a category label
+  * Find issues missing a priority label
+  * Find issues missing a progress label
+  * Find issues missing a milestone
+  * Find issues that missed their milestone
+  * Find closed issues with incorrect progress label
 * Merge requests
-  * Add a label when the MR has no category label
-  * Add a label when the MR has no priority label
-  * Add a label when the MR has no progress label
-  * Add the `Completed` progress label when the MR is merged
+  * Find MRs missing a category label
+  * Find MRs missing a priority label
+  * Find MRs missing a progress label
+  * Find MRs missing a milestone
+  * Find MRs that missed their milestone
+  * Find closed MRs with incorrect progress label
+  * Find merged MRs with incorrect progress label
 
 ## Useful links
 

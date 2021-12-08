@@ -15,10 +15,10 @@ description: "Support Engineering workflow when a customer reports an inability 
 
 Use this workflow when user reports an inability to utilize their Google Cloud Credit (GCP Credit).
 
-
 ______________
 
 ##### Workflow
+
 1. Ask user if they've used the following URL when they applied for the credit: https://cloud.google.com/partners/partnercredit/?pcn_code=0014M00001h35gDQAQ#contact-form
     1. If no, ask them to try the link and report any issues.
     2. If yes, follow the below directions.
@@ -34,7 +34,7 @@ ______________
     1. Your Name: user's name
     1. Email Address: user's email
     1. Company Name: GitLab
-    1. Partner Yype: `Alliance / Technology / Vertical (excl. Healthcare) Partner`
+    1. Partner Type: `Alliance / Technology / Vertical (excl. Healthcare) Partner`
     1. Billing Account ID: user's Google billing ID
     1. Your Google Sales Rep's email: manverma@google.com
     1. Select SUBMIT
@@ -43,5 +43,6 @@ ______________
 1. Once confirmation is received, update user and close ticket.
 
 #### Additional Reference
+
 1. Reference tickets: [ZD#133164](https://gitlab.zendesk.com/agent/tickets/133164) & [ZD#117290](https://gitlab.zendesk.com/agent/tickets/117290)
 1. If no reply is received from Google and the user does not have any credit, contact product marketing in Slack for escalation assistance

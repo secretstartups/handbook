@@ -35,7 +35,7 @@ description: "Customer Support Areas of Focus workgroup description and overview
 | -- | -- | -- | -- |
 | Facilitator | Jason Colyer | Support Operations Manager | AMER | 
 | Executive Stakeholder | Tom Cooney | VP of Support | AMER |
-| Member | Tom Atkins | Suport Engineering Manager (EMEA) |  EMEA |
+| Member | Tom Atkins | Support Engineering Manager (EMEA) |  EMEA |
 | Member | Jane Gianoutsos | Support Engineering Manager (APAC) | APAC |
 | Member | Ronnie Alfaro | Support Engineering Manager (AMER) | AMER |
 | Member | Cynthia Ng | Senior Support Engineer (AMER) | AMER |

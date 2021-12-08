@@ -14,9 +14,11 @@ subcategory: Accounts
 
 ### Overview
 
-As per the [statement of support](/support/#name-squatting-policy), namespaces may be released when they meet the appropriate criteria.
+According to the [statement of support](/support/#name-squatting-policy), namespaces may be released when they meet the appropriate criteria.
 
-**NOTE:** When applying any of the macros ensure to replace the placeholder **“REQUESTEDNAME”** with the namespace requested. 
+**IMPORTANT NOTE:** If you have any situation that is unusual, or does not fall under the workflow below, [open an Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new?issuable_template=General%2BUncategorized) with Security Operations. Describe the situation and request them to review and provide guidance.
+
+**NOTE:** When applying any of the macros ensure to replace the placeholder **“REQUESTEDNAME”** with the namespace requested.
 
 ### Workflow
 
@@ -113,7 +115,6 @@ __________________
 * [`Support::SaaS::Name Squatting Policy::Contact Namespace Owner`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465059)
 * [`Support::SaaS::Name Squatting Policy::Successful Namespace Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051569820)
 * [`Support::SaaS::Name Squatting Policy::Cancel Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057441960)
-
 
 **Automations**
 

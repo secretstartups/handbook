@@ -21,7 +21,7 @@ Use this workflow when you want to do a Support Week-in-Review Podcast as a gene
 
 1. Check the Support Team Google calendar for the recording session (near the end of the week).
 1. Determine who will be responsible for each of the following roles. One person can be responsible for them all.
-   - Editor: 
+   - Editor:
       - add theme music
       - coalesce all of the audio files into the final mix using [Anchor.fm](https://anchor.fm/) (credentials are in the Support Vault in 1Password)
       - publish the final mix onto Slack and link into the WIR document
@@ -69,4 +69,3 @@ Once you have the compiled audio:
 1. Upload it to the [Support Week in Review - Audio Edition](https://drive.google.com/drive/search?q=Support%20Week%20in%20Review%20-%20Audio%20Edition) folder
 1. Change the Sharing Settings to "Anyone within GitLab can View"
 1. Copy/paste the URL into the SWIR document
-

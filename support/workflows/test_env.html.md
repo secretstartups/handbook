@@ -46,13 +46,10 @@ If you require a group of your own to have a paid tier, please submit an [access
 
 ## Testing Environment License
 
-For a test license you can log into LicenseDot with your GitLab login. You can use one of the [shared licenses](https://license.gitlab.com/licenses/) or if you need special add-ons, such as geo, you can generate a new one.
+For a test you will need to make an [internal issue](hhttps://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) requesting one. 
 
 Please keep in mind *you can't generate licenses for customers* only for testing
-purposes. To generate a new license, log in to LicenseDot and click on the
-'New License' green button on the right side of the screen. Click on "You can also manually create a license
-without a Zuora subscription" at the bottom of the screen and fill out all non-optional
-fields.
+purposes.
 
 ## Cloud Testing Environments
 
@@ -66,12 +63,12 @@ If you need additional flexibility for creating test environments. The [GitLab S
 
 **Note:** Please remember to shut down resources that you are no longer using. The personally-owned GCP projects aren't yet making use of the [frugal resources tool](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md#frugal-resources) for automating the shut down of resources created in your own project.
 
-
 #### GCP `support-resources` automation
 
 You can also use the [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) project to automatically spin up resources. They will appear in the `support-resources` GCP project, which all Support Engineers should have access to as part of their baseline entitlements. If you don't have access to this project, please reach out in the `#support_operations` slack channel for assistance.
 
 Some advantages of using the `support-resources` automation project over Sandbox Cloud are:
+
 1. [Frugal times](https://gitlab.com/gitlab-com/support/support-resources#frugal-resources) - this is a key feature that allows for resources to be turned off (and on) based on a customizable schedule (GCP only charges for uptime). If you're using [GET](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit/) to spin up a 10k reference architecture (for example), the cost can be upwards of $250 USD/day. Frugal times lets you halve that by automatically turning it off when you're not online.
 1. Easy provisioning of streamlined complex topologies - with only a few clicks or a couple of commands, one can provision complex Gitlab set-ups (Gitlab installed on GKE, Gitlab+Runner+Elasticsearch stack, etc) on any available version.
 1. Easily troubleshooting customer tickets by replicating their set-up in minutes and easily reproducing their issues. The Gitlab instance can be provisioned as already seeded with Groups, Projects, Issues, MRs, etc. Because they are easy to set-up and, hence disposable, the instances can be shared with customers so they can themselves reproduce or showcase an issue or experiment and collaborate.
@@ -80,11 +77,11 @@ Some advantages of using the `support-resources` automation project over Sandbox
 1. Terraform development - while continuously developing the project a few support engineers have become very familiar with `terraform`, `ansible` and general automation guidelines (could include here `gcloud`, `bash` and `chef`). This is becoming more and more important as we are seeing the adoption of [GET](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit/).
 
 There's also a few disadvantages to using the project:
+
 1. Less granularity - while you can identify all the resources a user is running, having one's personal GCP project brings a lot more granularity to the data about each individual user.
 1. Isolation - while the `Support-Resources` automation project is good at preventing resources conflicts, those can still happen as everybody has access to the pool of resources (so accidents can and have happened). In a personal GCP project one can, among other things, restrict access to their resources.
 1. Familiarity with GCP - when using the `Support-Resources` project a lot of the intricacies of using GCP are performed beneath the covers. Having your own GCP projects will expose you to the complexity of setting things up manually or automating that yourself.
 1. Sandbox Cloud is the emerging company standard. For more history and details on the sets of problems it solves, see the [Sandbox Cloud Context and Problem Statement](/handbook/infrastructure-standards/realms/sandbox/#background-context-and-problem-statement)
-
 
 #### Other GCP Projects
 
@@ -95,6 +92,7 @@ You can use the `support-resources` project to manually create resources in a GC
 We also have a `support-openshift` project created for the purpose of creating OpenShift clusters for testing the [GitLab Operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) and [GitLab Runner Operator](https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator). Reach out to your Support Team colleagues in the [#support-testing Slack Channel](https://gitlab.slack.com/archives/C0167JB9E02) for more details on using this project for shared OpenShift testing.
 
 **Note:** Please remember to shut down any manually created that you are no longer using.
+
 #### GCP GKE Kubernetes Cluster
 
 Please use the `support-resources` GCP project or your [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) GCP project to create a GCP Kubernetes (GKE) cluster. If you are using the `support-resources` GCP project you can create a GKE cluster manually from the console or you can use the [Support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master) automation project to streamline your [GKE cluster creation](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master#how-do-i-spin-up-a-gke-cluster) and there's even an option to [create a GKE cluster that already has GitLab installed through helm chart](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master#how-do-i-spin-up-a-gke-cluster-with-gitlab-installed-through-helm-chart).
@@ -126,6 +124,12 @@ For features not available in either instance, please create your own trial for 
 
 If you need an Okta sandbox environment to test SAML and SCIM, please go to https://developer.okta.com/signup/ and enter your credentials for a free developer instance where you can perform all your tests. This is a full featured environment so you should be able to add and remove applications, and perform all tests as if you were in a regular production instance.
 
+**Please note**: We have observed a bug while setting up an environment using `developer.okta.com`. When you assign a SAML app to the user then the username field is prefilled with the configured value for the NameID ( e.g. `user.getInternalProperty('id')` ) instead of the created user Identity. This works perfectly fine when using a trial.
+
+ ![Assign SAML app on Okta](/images/handbook/support/error_assiging_SAML.png)
+
+In case you are setting up SCIM along with SAML, you can work around this bug by assigning SCIM app first to the user, and copy the user externalId, then manually fill in the username with this value when assiging the SAML app to this user 
+
 ### LDAP Testing Environments
 
 For testing LDAP integrations with a self-managed GitLab instance, you may consider any of these options:
@@ -136,7 +140,7 @@ For testing LDAP integrations with a self-managed GitLab instance, you may consi
 
 ### gitlab.support testing domain
 
-If you wish to test resources using a real domain name (instead of an IP address, e.g. for testing TLS certificates), you can use a subdomain of `gitlab.support`. You can confgure this in GCP in the [gitlab-support project here](https://console.cloud.google.com/net-services/dns/zones/gitlabsupport/details?project=support-testing-168620).
+If you wish to test resources using a real domain name (instead of an IP address, e.g. for testing TLS certificates), you can use a subdomain of `gitlab.support`. You can configure this in GCP in the [gitlab-support project here](https://console.cloud.google.com/net-services/dns/zones/gitlabsupport/details?project=support-testing-168620).
 
 ### Digital Ocean and Docker Testing Environment
 
@@ -144,6 +148,7 @@ If you wish to test resources using a real domain name (instead of an IP address
 
 For a Digital Ocean droplets [follow this guide](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md).
 Once you've  created your resource you can follow the section named [Creating GitLab test instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) (though do keep in mind that we are moving away from this project).
+
 
 ## Persistent Local Environments
 
@@ -153,7 +158,8 @@ Install [Docker Desktop for Mac](https://www.docker.com/get-started) or the
 [Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux).
 
 ### Install Docker Machine
-Since Docker Toolbox has been deprecated, Docker Machine has to be downloaded and installed manually. Use the following commands to install or upgrade Docker Machine sepparately:
+
+Since Docker Toolbox has been deprecated, Docker Machine has to be downloaded and installed manually. Use the following commands to install or upgrade Docker Machine separately:
 
 ```
 $ curl -L https://github.com/docker/machine/releases/download/v0.16.2/docker-machine-`uname -s`-`uname -m` >/usr/local/bin/docker-machine && \
@@ -172,7 +178,6 @@ This guide involves configuring and setting up VMWare and Docker locally and ass
 1. Install VMWare Fusion 10.
 1. Launch VMWare Fusion.
 1. When prompted, enter the license details.
-
 
 ### VirtualBox Testing Environment (free & opensource alternative to installing VMWare Fusion)
 
@@ -208,10 +213,11 @@ Once installed, [support/toolbox](https://gitlab.com/gitlab-com/support/toolbox)
 > Support toolkit to help manage GitLab inventory and additional services via docker containers.
 
 * [GitLab Support Setups](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-setups)
- 
+
 > Provide a common provisioning and directory structure for various support setups including GitLab with connected GitLab Runners.
 
 ## Creating GitLab test instance
+
 #### Creating settings variables
 
 ```
@@ -241,7 +247,6 @@ docker-machine create \
 
 + Resource: [https://docs.docker.com/machine/drivers/virtualbox/](https://docs.docker.com/machine/drivers/virtualbox/)
 
-
 ### Creating GitLab test instance with docker machine
 
 #### Connect your shell to the new machine
@@ -261,6 +266,7 @@ echo 'eval "$(docker-machine env gitlab-test-env)"' >> ~/.bash_profile
 ```
 
 #### Get the available tags for GitLab
+
 Optionally replace the `ee` in the URL with `ce`
 
 ```
@@ -271,7 +277,7 @@ wget -q https://registry.hub.docker.com/v1/repositories/gitlab/gitlab-ee/tags -O
 
 + HTTP port: `8888`
 + SSH port: `2222`
-   + Set `gitlab_shell_ssh_port` using `--env GITLAB_OMNIBUS_CONFIG `
+   + Set `gitlab_shell_ssh_port` using `--env GITLAB_OMNIBUS_CONFIG`
 + Hostname: IP of docker host
 + Container name: `gitlab-test-11.9`
 + GitLab version: **EE** `11.9.9-ee.0`
@@ -285,7 +291,8 @@ export VERSION=11.9.9-ee.0
 export NAME=gitlab-test-11.9
 ``` -->
 
-#####  Create container
+##### Create container
+
 ```
 export IP=$(docker-machine ip $ENV_NAME)
 
@@ -339,3 +346,12 @@ docker exec -it gitlab-ee gitlab-ctl reconfigure
 + [https://docs.gitlab.com/omnibus/docker/](https://docs.gitlab.com/omnibus/docker/)
 + [https://docs.docker.com/machine/get-started/](https://docs.docker.com/machine/get-started/)
 + [https://docs.docker.com/machine/reference/ip/](https://docs.docker.com/machine/reference/ip/)
+
+## Windows
+
+It may come to pass that you require a Windows environment to test a [Windows Runner](https://docs.gitlab.com/runner/install/windows.html) or
+even the [Kubernetes Executor in a Mixed Cluster](https://docs.gitlab.com/runner/executors/kubernetes.html#example-for-windowsamd64). 
+
+The options are the same as above:
+ - Cloud environements: GCP and AWS have Windows Server images you can spin up to connect to via RDP.
+ - A local environment: Microsoft provides [pre-packeged Windows VMs](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/) for your hypervisor of choice.

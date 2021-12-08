@@ -37,15 +37,33 @@ contain one of the following ticket tags:
 
 This is done via the automation [`SSAT::Survey::Send out survey`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20012489&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+46784293).
 
-## What questions are asked?
+## End-user experience when the SSAT survey is sent
 
-In the event a user indicates they are not satisfied, we ask them to specify a
-reason for the dissatisfaction. The options available are:
+Once the
+[`SSAT automation`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20012489&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+46784293)
+runs on the solved ticket, the user will receive the SSAT survey email where
+they can rate their support experience directly from the email message. A sample
+of this would look like:
+
+![SSAT Survey Email](/images/handbook/support/ssat_survey_sample.png)
+
+Once the user clicks either of the two satisfaction links in the email message,
+the rating will be submitted and they'll be redirected to another page where
+they can add a comment about the rating if they'd like.
+
+![Good rated SSAT](/images/handbook/support/good_rated_ssat_sample.png)
+
+In the event the user selects the `Bad, I'm unsatisfied` link, we ask them to
+specify a reason for the dissatisfaction. 
+
+The options available are:
 
 * The issue was not resolved
 * GitLab doesn't meet my needs
 * The answer wasn't delivered in a timely manner
 * The answer wasn't helpful
+
+![Bad rated SSAT](/images/handbook/support/bad_rated_ssat_sample.png)
 
 ## Feedback to gitlab issues
 

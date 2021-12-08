@@ -32,7 +32,7 @@ only need a `package.json` file.
  - `git init`
  - `git remote add origin <your_git_url>`
 
-##### Step 3: Navigate to the npm-package directory and initialize the npm package under your org/username. 
+##### Step 3: Navigate to the npm-package directory and initialize the npm package under your org/username.
 This will create a `package.json`
  - `npm init --scope=<your_group/username>`
 
@@ -53,7 +53,7 @@ scope, as well as the current user's authentication to push/pull packages.
 ##### Step 1: Create the ~/.npmrc file
  - The ~/.npmrc generally lives in the home directory, however, sometimes, it can be created within the project's root directory, but also has no effect on packages that
  are installed globally (`npm install -g`)
- 
+
 ##### Step 2: Provision the ~/.npmrc file <a name="create-npmrc-file"></a>
  - Add the registry to your scope, that way npm knows where to look for packages that start with @nameofyourscope.
   Example:
@@ -64,7 +64,7 @@ scope, as well as the current user's authentication to push/pull packages.
  NOTE **Note**: This is so you can pull packages from that repo when running `npm install`.
 
  - Add the auth token to the URL to publish your package:
- 
+
     - ` //gitlab.ahbabou.com/api/v4/projects/<project_id>/packages/npm/:_authToken=<Oauth Token>`
 
 NOTE **Note**: We can't install nor publish this particular project yet, because we still have to tell our package where it can publish itself.
@@ -72,14 +72,14 @@ NOTE **Note**: We can't install nor publish this particular project yet, because
 ## 3. Publishing The Scoped Package <a name="publishing-scoped-package"></a>
 
  - Add this to your `package.json`:
- 
+
   `"publishConfig": {
       "@your_scope:registry":"<yourgiturl>/api/v4/projects/<project_Id>/packages/npm/"
     },`
-    
+
  - Run `npm publish`
  - Check the Packages section in your package's repository to confirm that it has been published
- 
+
  `your-gitlab-url/package-project/-/packages`
 
 ## 4. Pulling the scoped package from the NPM Registry on GitLab <a name="pulling-scoped-package"></a>
@@ -87,19 +87,17 @@ NOTE **Note**: We can't install nor publish this particular project yet, because
 - You can run npm install from any other npm project(including this one), or clone [this project](https://gitlab.com/sahbabou/npm-test-project), then run npm install from the project's directory, and then
 confirm whether you're able to install the package.
 
-
 ## 5. Common troubleshooting tips: <a name="troubleshooting"></a>
 
 Note: **NOTE**: If on < 11.9, [packages with a dot in the package name return a 403 on npm install](https://gitlab.com/gitlab-org/gitlab-ee/issues/10248) @test.group/project is read as @test. The workaround is to either:
 * Rename the groups/username so they don't include a dot in the URL(sara-ahbabou/saraahbabou)
-* Re-publish packages under the new scope. Be sure to update the `publichConfig` value in the `package.json`: 
+* Re-publish packages under the new scope. Be sure to update the `publichConfig` value in the `package.json`:
 
     `"publishConfig": {
         "@username-dash:registry":"http://localhost:3001/api/v4/projects/24/packages/npm/"
     }`
 
 * Update the `.npmrc` file so it reflects the new group name/username(@sara-ahbabou:registry or @saraahbabou:registry)
- 
 
 If you receive a 40x error, re-run the same command with a `--verbose` flag, and confirm whether it's hitting the correct registry
 
@@ -114,13 +112,13 @@ In order to run a job to publish your package in a job, paste the snippet below 
 
 1. Run it from the package's repository
 2. Add your Personal Access Token and Oauth Access Token as environment variables(this scripts assumes you named them `PERSONAL_ACCESS_TOKEN` and `OAUTH_TOKEN`)
-3. Add the following lines in `package.json` in `script` so the commit message includes the package version and name: 
+3. Add the following lines in `package.json` in `script` so the commit message includes the package version and name:
   ```
   "scripts": {
          "getName": "echo  $npm_package_name"
          "getVersion": "echo  $npm_package_version",
        }
-       
+
   ```
 ```
 image: node:latest

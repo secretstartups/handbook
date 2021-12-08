@@ -10,7 +10,7 @@ This page serves as the cornerstone for a Support Engineering data analysis
 [community of practice](https://en.wikipedia.org/wiki/Community_of_practice).
 Support team members who engage in any form of data extraction and analysis,
 either out of interest or as part of their work, can use this page to get an
-overview of ongoing planning and analysis efforts in the Suport team, current
+overview of ongoing planning and analysis efforts in the Support team, current
 methods of extracting and analyzing data, and figure out who to collaborate with
 on specific topics of interest.
 

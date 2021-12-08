@@ -48,13 +48,13 @@ The `Handover Needed` view has tickets that have already had a first reply but a
 1. Choose a ticket at or near the top of the `Needs Org / FRT` view
 1. Assign it to yourself (this takes it out of the view - see [Why assign first?](#why-assign-first))
 1. Write your reply to the customer
-1. Choose one of the following:
-    1. If the preferred region is your region or 'all regions' submit as Pending.
-    1. If the preferred region is neither your region nor 'all regions', use the [`Handover to Preferred Region`](#using-the-handover-to-preferred-region-macro)
+1. Take next steps depending on the region and the work you completed:
+    1. If you have a complete first reply, submit as Pending
+    1. If the preferred region is neither your region nor 'all regions', use the [`Handover to Preferred Region`](#using-the-handover-to-preferred-region-macro) macro
     1. If you can't reply:
         1. try to collaborate first (see [Tips for sending first replies](#tips-for-sending-first-replies))
         1. leave an internal note describing your investigation
-        1. put the ticket back in the FRT view by assigning it to `GitLab Suppport`
+        1. put the ticket back in the FRT view by assigning it to `GitLab Support`
 
 #### Why assign first?
 
@@ -76,7 +76,7 @@ This is basically the same as above:
     1. If you can't reply:
         1. try to collaborate first
         1. leave an internal note describing your investigation
-        1. put the ticket back in the `Handover Needed` view by assigning it to `GitLab Suppport`
+        1. put the ticket back in the `Handover Needed` view by assigning it to `GitLab Support`
 
 ### How do I choose between `Needs Org / FRT` and `Handover Needed` view?
 
@@ -104,10 +104,10 @@ A form change results in an auto-reply for tickets that don't have an org associ
 
 1. If the **ticket priority** does not match our [Definitions of Support Impact](/support/#definitions-of-support-impact) let the customer know and agree on the new priority. Use the macro [General::Changed priority](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Changed%20priority.yaml).
 1. If the ticket has the potential to become an emergency, ping the engineer on-call for a heads-up.
-1. You can send a quick reply and follow up with the customer later.
+1. If a ticket is close to breaching and you need more time to provide a comprehensive response then send an initial quick reply to prevent the breach and follow up with the customer later.
     1. Ask any clarifying questions and let them know when you plan to work on it and when they can expect a reply.
     1. Submit as `on-hold`.
-    1. You can use the 'Due Date' and 'Reminder' apps in Zendesk to remind you when to follow up. If it's not an urgent ticket it might be that you'll work on it the next day. The customer has an opportunity to reply to you if this isn't soon enough for them. The [4-minute SLA Clock video](https://www.youtube.com/watch?v=CVue_aHcGlc&list=PL05JrBw4t0Kq13oaMq0DCl2gUz_g1u29o&index=30) gives general guidance on this workflow.
+    1. You can use the ['Due Date'](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#due-date-picker) and ['Reminder'](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-reminders-app) apps in Zendesk to remind you when to follow up. If it's not an urgent ticket it might be that you'll work on it the next day. The customer has an opportunity to reply to you if this isn't soon enough for them. The [4-minute SLA Clock video](https://www.youtube.com/watch?v=CVue_aHcGlc&list=PL05JrBw4t0Kq13oaMq0DCl2gUz_g1u29o&index=30) gives general guidance on this workflow.
 1. Collaborate! Not sure how to reply? Speak with the team and work together.
 
 ### Manager responsibilities

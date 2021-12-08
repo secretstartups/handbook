@@ -40,7 +40,7 @@ We can confirm this by searching through the mailgun log. To locate the password
 1. On the top left, click the `Domain` dropdown and choose `customers.gitlab.com` and enter the customer email to search for recent email. You can also search in `mg.gitlab.com` domain to confirm whether the password reset email was requested on GitLab.com or on customers.gitlab.com
 1. If no password reset was sent, we can issue a password reset email or ask the customer to request a password reset email from https://customers.gitlab.com/customers/password/new
 
-#### 3. The CusotmerDot account has not been confirmed
+#### 3. The CustomersDot account has not been confirmed
 
 When the account is not confirmed, the customer cannot log in. To view whether an account is confirmed:
 
@@ -50,4 +50,3 @@ When the account is not confirmed, the customer cannot log in. To view whether a
 1. The confirmation is shown in `Confirmed at` field
 
 If the customer has not confirmed their email. We can resend the confirmation email from https://customers.gitlab.com/customers/confirmation/new and get back to the customer.
-

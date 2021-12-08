@@ -26,7 +26,7 @@ The [Add CI Minutes form](https://gitlab-com.gitlab.io/support/toolbox/forms_pro
 
 ### Force Associate
 
-The [Force Associate form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html) assoicates a group with a subscription. It's fields are:
+The [Force Associate form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html) assoicates a group with a subscription. All fields are required.
 
 - **Your GitLab Username**: Your non-admin GitLab.com username without a preceding @ (ex. `username` and not `@username`).
 - **Namespace**: The customer namespace as it appears in the URL.
@@ -34,18 +34,31 @@ The [Force Associate form](https://gitlab-com.gitlab.io/support/toolbox/forms_pr
 
 ### Update GitLab Subscription or Customer Trial
 
-The [Update Plan](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_gitlab_plan.html) form allows directly changing a customer subscription, including updating a trial but **not** creating one. Please note that in order to extend a trial, the customer **MUST** have an active trial and support should always check [Salesforce](https://gitlab.my.salesforce.com/) before proceeding.  If the prospect has not yet initiated a trial themselves, please have them do so via the [customers portal](https://customers.gitlab.com/trials/new?gl_com=true). Support cannot create a trial for a customer.
+The [Update Plan](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_gitlab_plan.html) form is meant for the following cases:
+
+1. Downgrade to Free
+1. Trials
+    1. Change Plan
+    1. Renew/extend Date
+1. "Extend" an existing active or expired subscription.
+    - Note: To "extend" a subscription, a trial is triggered on the namespace. An old trial order is used if it exists. Otherwise, a new trial is created.
+
+Please note that in order to extend or renew a trial, the customer **MUST** have an active trial because a CustomersDot account needs to exist.  If the prospect has not yet initiated a trial themselves, please have them do so via the [customers portal](https://customers.gitlab.com/trials/new?gl_com=true).
 
 These three fields are mandatory:
 
-- **Your GitLab Username**: Your non-admin GitLab.com username without a preceding @ (e.g. `username` and not `@username`).
-- **Namespace**: The customer's namespace as it appears in the URL.  For example, if the customer namespace is located at http://gitlab.com/gitlab-com then the namespace would be `gitlab-com`. Please confirm through your own observation and through communication with Sales, the TAM or the customer that the namespace is the one with the subscription or trial to be updated.
-- **Plan**: The subscription plan that you would like applied for the customer's group.  If the `free` option is selected, the customer's trial or subscription will immediately be downgraded and terminated.
+- **Your GitLab Username**: Your non-admin GitLab.com username without a preceding @ (meaning `username` and not `@username`).
+- **Namespace**: The customer's namespace as it appears in the URL.  For example, if the customer namespace is located at http://gitlab.com/gitlab-com then the namespace would be `gitlab-com`. Please confirm through your own observation and through communication with Sales, the TAM, or the customer that the namespace is the one with the subscription or trial to be updated.
+- **Plan**: The subscription plan that you would like applied for the customer's group.  If the `free` option is selected, the customer's namespace will immediately be downgraded and the trial or subscription ended.
 
 These two fields are optional:
 
 - **End Date**: The updated date the plan will end.
 - **Sales Manager Approval**: The GitLab.com username (without a preceding @) of the sales manager who approved a trial extension of more than 30 days.
+
+Required to "extend" a subscription:
+
+- **Subscription name**: The name of the existing (active or expired) subscription tied to the namespace.
 
 ### Clear Subscription
 The [Clear Subscription](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription.html) form unlinks a grop from a subscription.

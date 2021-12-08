@@ -26,7 +26,7 @@ The main situations where action may need to be taken on behalf of the user:
 
 Following our [Security Policy on "GitLab's Access to Your Private Repositories"](/security/faq), actions should always be taken by the user whenever possible.
 
-For example, users should be deleting their own projects, but if they encounter an error with every attempt and there are no workarounds, then Support can intervene with permission.
+For example, users should be deleting their own projects, but if they encounter an error with every attempt and there are no workarounds, then Support can intervene [with permission](#asking-permission).
 
 If in doubt, please ask a Support manager to review.
 
@@ -36,19 +36,27 @@ In cases where Support needs to take action on the project or group, such as for
 
 1. Verify the user is a group _Owner_ or project _Maintainer_. Otherwise, ask the user to have an owner/maintainer contact us.
 1. Ask for permission to take action. See the [Asking Permission](#asking-permission) section below.
+1. Consider adding an [Admin Note](/handbook/support/workflows/admin_note.html) to the group admin page if Support may need to know the action was taken in the future.
 
 You can continue working with the original requester once an owner/maintainer provides permission if that is their preference.
 
 ## Account Access Requests
 
-If a user has lost access to their account, all other options (such as SSH recovery codes, password reset) should be exhausted first.
+In cases where a user has lost access to their account, all other options (such as SSH recovery codes, password reset) should be exhausted first.
 
-Before taking any action, ensure that you have verified the account owner using the [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow.
+For unconfirmed accounts, the only account action support will typically take is an [email typo fix](confirmation_emails.html.md#typo-fix).
+
+Before taking any action on confirmed accounts, ensure that you have verified the account owner using the [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow.
 
 If ownership is verified, then:
 
-1. [Confirm permission for the changes](#asking-permission)
+1. [Confirm permission for the changes](#asking-permission).
 1. Add an [Admin Note](/handbook/support/workflows/admin_note.html) to the user's account.
+
+Example cases include:
+
+1. Swapping secondary email with primary email due to primary email being unconfirmed, non-existent, or similar.
+1. Removing an identity tied to the user account. The identity should also be verified in these cases.
 
 ## Releasing an Email Address
 
@@ -67,9 +75,27 @@ To release an email address for an inactive account:
     - This can be done with Admin access or [via Chatops](./chatops.html#Update-a-Users-Primary-Email)
 1. Add an [Admin Note](admin_note.html) to the user's account.
 
+## How is permission given for troubleshooting?
+
+The Support team will not view any private information unless required to resolve an issue. Typically, the issue is filed by the account holder (for users) or valid members of the namespace (for projects and groups) via a support ticket for troubleshooting purposes as outlined in [Security Policy on "GitLab's Access to Your Private Repositories"](/security/faq).
+
+A Support team member may look at information on pages not explicitly mentioned in the request, but will limit the scope of the review to the minimum access required to solve any issues.
+
+The Support team will only take action from the requester if they:
+- Are a member of the namespace.
+- Have a problem that requires Support to investigate.
+- Provide a link to the namespace.
+  - This link can come from the initial form submission or a response in the ticket.
+
+We expect users to provide specific links in order to focus on the related views and logs while investigating an issue. For example, a request to look into a CI/CD error should include links to the relevant job logs, pipelines, and/or CI YAML file.
+
+Any time user data needs to be downloaded (such as cloning a repository), or where secrets must be revealed (such as [CI/CD Variables](https://docs.gitlab.com/ee/ci/variables/)), to further troubleshoot, requires [explicit permission](#asking-permission) before continuing. Any user data that has been downloaded for reproduction purposes must be deleted when the issue is resolved.
+
 ## Asking Permission
 
-Before any actions are taken, including impersonating a user, please request explicit permission to take the required action. Be as specific as possible so that there is no confusion.
+Before any actions are taken, please request explicit permission to take the required action. Be as specific as possible so that there is no confusion.
+
+Once permission is confirmed by the user, then you may proceed.
 
 Some sample phrases:
 
@@ -79,16 +105,10 @@ or
 
 > Could you please confirm that you would like us to ... ?
 
-For example:
+Some examples:
 
-> Could you please provide permission for Support to re-run one or more pipelines in project `xyz` to investigate the issue you've described?
+> Could you please provide permission for Support to re-run one or more pipelines in project `xyz` to investigate the issue you've described? Replying in this ticket stating you provide permission will be sufficient.
 >
-> Could you please confirm that you would like us to add `example@email.address` to your account and make it the _primary_ email address?
-
-Once permission is confirmed by the user, then you may proceed.
-
-### Impersonating
-
-Impersonating a user is considered as performing an action as another account, it will update the **Current sign-in IP** and **Current sign-in at** of the user you are impersonating.
-
-When impersonating a user, the administrator account will receive a slack message from the **Tines** app asking to confirm if the impersonation was a legit action.
+> Could you please provide permission for our Support Engineers to look at the CI/CD variables in the project so that we confirm they are correct? Replying in this ticket stating you provide permission will be sufficient.
+>
+> Could you please confirm that you would like us to add `example@email.address` to your account and make it the _primary_ email address? Replying in this ticket stating you provide permission will be sufficient.

@@ -60,14 +60,14 @@ graph TD;
 
 * The expiration date is 1 year from license creation date
 * The company name is `GitLab - Team Member License`
-* The user count is 5
+* The user count is 100
 
 Anything deviating from the above will require a reason and approve from a
 Support Operations Manager.
 
 ### Creating a license
 
-1. Login to the [license app](https://license.gitlab.com).
+1. Login to the [license app](https://customers.gitlab.com/admin/).
 1. Click the green `New license` button on the right hand side.
 1. Fill out the fields using the below table:
 
@@ -78,7 +78,7 @@ Support Operations Manager.
    | Email | GitLab team member's company email | No |
    | Zuora subscription ID | leave this blank | No |
    | Zuora subscription name | leave this blank | No |
-   | Users count | 5 | Yes, with support ops managers approval |
+   | Users count | 100 | Yes, with support ops managers approval |
    | Previous users count | 0 or value from the AR | No |
    | Trueup count | 0 or value from the AR | No |
    | Plan code | value from the AR | No |

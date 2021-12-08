@@ -16,7 +16,7 @@ All the learning pathways we have in Support are listed [here](https://gitlab-co
 
 To create an issue for yourself with one of the module templates:
 
-- Click on the module you want to pursue from the [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) page
+- Click on the module you want to pursue from the [Skills Catalog](https://gitlab-com.gitlab.io/support/team/skills-catalog.html) page
 - Title it as **_Your Name_: _Module Name_**
 - Assign it to yourself
 - Now you're all set to follow the instructions in the module!
@@ -46,7 +46,7 @@ sequenceDiagram
     Manager->>New SE: Check progress, ensures new ticket responses are aligned<br/> with our expectations and coaches as needed.
 
     loop Pairing Sessions
-        New SE->>New SE: Uses Pairing sessions as a tool to get help<br/>from other team mebers and to learn new topics
+        New SE->>New SE: Uses Pairing sessions as a tool to get help<br/>from other team members and to learn new topics
     end
 
     Trainer-->New SE: Schedules weekly follow up sessions.
@@ -60,7 +60,7 @@ sequenceDiagram
     Manager->>New SE: Set expectations for hybrid work split, starting with 90%/10%.
 
     loop 1:1s
-        New SE->>New SE: As more experince is gained brings the topic to 1:1<br/>looking to increase the % of Self Managed work by 10%.<br/>With a goal of ~50%/5
+        New SE->>New SE: As more experience is gained brings the topic to 1:1<br/>looking to increase the % of Self Managed work by 10%.<br/>With a goal of ~50%/5
     end
 ```
 
@@ -98,21 +98,21 @@ It is recommended that you complete the modules in the order listed, unless an i
 
 ## GitLab.com Administration access
 
-Whenever GitLab.com administration access is required to complete any of the modules listed on this page, the training will direct you to this module [GitLab.com Administration Access](https://gitlab.com/gitlab-com/support/support-training/issues/tba) 
+Whenever GitLab.com administration access is required to complete any of the modules listed on this page, the training will direct you to the  [GitLab-com Admin](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20Admin) module.
 
 ## Support Engineer Area of Focus Pathway
 
 When you have completed the basic modules, work with your manager to decide your initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
 
-1. For GitLab.com, move on to the [Gitlab.com SAAS Support Basics pathway](#gitlabcom-saas-support-learning-pathway).
-1. For Self-Managed, move on to the [Self Managed Support Basics pathway](#self-managed-support-learning-pathway).
+1. For GitLab.com, move on to the [Gitlab.com SAAS Support Learning pathway](#gitlabcom-saas-support-learning-pathway).
+1. For Self-Managed, move on to the [Self Managed Support Learning pathway](#self-managed-support-learning-pathway).
 1. For License & Renewals, move on to the [License and Renewals Learning Pathway](#license-and-renewals-learning-pathway).
 
 #### GitLab.com SaaS Support Learning Pathway
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
-| [GitLab.com Basics](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20SaaS%20Basics) | 2 Weeks | Understand the basics to answer GitLab.com (SaaS) product related tickets |
+| [GitLab-com SaaS Basics](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20SaaS%20Basics) | 2 Weeks | Understand the basics to answer GitLab.com (SaaS) product related tickets |
 
 
 When this Area of Focus module is complete, let your manager know that you are ready to [proceed to the appropriate On-Call rotations](#on-call-rotations).
@@ -136,8 +136,7 @@ When this Area of Focus module is complete, let your manager know that you are r
 
 ## On-call rotations
 
-After you've completed a focus area, you should talk to your manager about joining an on-call rotation. They'll have guidance for where Support need
-and your skills overlap. Usually, you'll only complete one of these modules.
+After you've completed a focus area, you should talk to your manager about joining an on-call rotation. They'll have guidance for where Support need and your skills overlap. Usually, you'll only complete one of these modules.
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |

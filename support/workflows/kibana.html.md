@@ -189,7 +189,7 @@ Customers will sometimes give us an IP Range of their resources such as their Ku
   }
 }
 ```
-1. Click Save to perform your query. 
+1. Click Save to perform your query.
 
 Note that depending on the range, this operation may be expensive so it is best to first narrow down your date range first.
 

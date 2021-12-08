@@ -68,14 +68,22 @@ computer:
 
 ```bash
 gem install rake
-gem install zendesk_app_tools
+gem install zendesk_apps_tools
 ```
 
 To update it:
 
 ```bash
-gem update zendesk_app_tools
+gem update rake
+gem update zendesk_apps_tools
 ```
+Sometimes on Mac terminal, you will get write permission error. You may use:
+
+```bash
+sudo gem update rake
+sudo gem update zendesk_apps_tools
+```
+Note: ZAT is having issues with Ruby version `3.0.0 and plus`. Prefere old stable versions like `2.6.3p62`
 
 Much of this tutorial will assume you have this installed and utilize it in any
 steps/procedures.

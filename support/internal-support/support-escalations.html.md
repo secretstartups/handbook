@@ -56,7 +56,7 @@ Depending on whether you want to draw attention to either a Zendesk ticket or an
 
 ### Ticket De-escalation
 
-Sometimes the Support Manager on-call may feel that an escalation request is without merit. In these cases, it's important to set expectations with the requester by documenting the following in the escalation issue.
+Depending on the request the Support Manager on-call will decide that an escalation request is without merit. In these cases, it's important to set expectations with the requester by documenting the following in the escalation issue.
 
 1. Reasons why the ticket doesn't qualify for an escalation.
 1. Agreement with requester on an acceptable alternative path.
@@ -72,6 +72,9 @@ Every escalation that is `de-escalated` must include the `De-Escalation` label.
 | Urgent        | The ticket/issue may become an [emergency](https://about.gitlab.com/support/#definitions-of-support-impact) if no follow-up is provided within the next 30 minutes and may lead to customer dissatisfaction. This escalation is urgent, and the overall impact is `high`.|
 
 ## Requesting an Escalation
+
+**Important**
+The support escalations form will be available during our [support hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours), outside of these hours the form will be disabled.
 
 The following instructions apply to escalating both Zendesk tickets and issues within the `internal-requests` issue tracker.
 

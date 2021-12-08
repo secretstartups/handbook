@@ -31,5 +31,4 @@ PII requests have a 48 hour SLA.
 1. If the content is still live, forward the request to Abuse for further review.
 1. The Abuse Team will comment on the ticket advising on the next steps or steps taken.
 
-It is important for the Abuse team to review the request before forwarding it to the reported account.  The Abuse Team will create a new ticket and forward the initial notice, including the reference ticket in Internal Notes. Abuse Team will take over from here. 
-
+It is important for the Abuse team to review the request before forwarding it to the reported account.  The Abuse Team will create a new ticket and forward the initial notice, including the reference ticket in Internal Notes. Abuse Team will take over from here.

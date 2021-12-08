@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Hiring
-description: "Hiring new Customer Support team members is a multi-department process. An outline of the responsiblities of Customer Support in that process."
+description: "Hiring new Customer Support team members is a multi-department process. An outline of the responsibilities of Customer Support in that process."
 ---
 
 ## On this page
@@ -17,6 +17,10 @@ Support Engineers comprise the vast majority of Customer Support. This page pres
 ## Hiring flow
 
 Hiring is described on the [jobs page](/job-families/engineering/support-engineer/#hiring-process) for Support Engineers. The following are the stages carried out by Customer Support team members.
+
+### Sourcing
+
+If you have open positions on your team, you should join (or arrange) a [source-a-thon](#source-a-thons) on a regular basis to proactively identify candidates our recruiters can reach out to. More information can be found on the general [Sourcing page](/handbook/hiring/sourcing/).
 
 ### Technical questionnaire
 
@@ -55,7 +59,7 @@ Each of these have a training module.  The technical assessments don't involve d
 
 
 ### Reviewing Assessments
-Guidlines for reviewing and giving feedback on assessments for the Support Engineer role can be found in the [Support-Assessment-Solutions](https://gitlab.com/gitlab-com/support/support-assessment-solutions/-/blob/master/README.md) project. 
+Guidelines for reviewing and giving feedback on assessments for the Support Engineer role can be found in the [Support-Assessment-Solutions](https://gitlab.com/gitlab-com/support/support-assessment-solutions/-/blob/master/README.md) project. 
 
 Assessments are assigned by the support aligned Recruiter in the Talent Acquisition team.  These are carried out asynchronously, so you could be asked to to review assessments from candidates in all regions. 
 
@@ -87,3 +91,28 @@ For each vacancy there should be a:
 
 1. When we get close to the target start date, the talent acquisition team will update Greenhouse with the vacancy and assign it an **Opening ID**.
 1. When a vacancy is open in Greenhouse, the hiring manager (or Sr. Manager) will be noted in the spreadsheet.
+
+## Source-a-thons
+
+A source-a-thon is a synchronous or asynchronous activity where one or more individuals gets together to actively look for candidates.
+If you want to participate, make sure you [upgrade your LinkedIn Account](/handbook/hiring/sourcing/#upgrading-your-linkedin-account).
+
+More general information about this activity is on the [general Source-a-thon page](/handbook/hiring/sourcing/#source-a-thons).
+
+### AMER - Sip 'n Source
+On the first Monday of each month we have a Source-a-thon called the "Sip 'n Source". The position we'll be sourcing for will change depending on need, but
+bring a special drink, get ready for some music and get ready to source! If you can't join, that's okay, you can still participate async.
+
+Specific outcomes:
+ - Each manager sources >=40 candidates per month (10 per week)
+
+Each month, before the synchronous event:
+ - AMER Managers identify REQs that need specific sourcing
+ - An AMER Senior Manager creates a new [source-a-thon issue](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/issues/new?issuable_template=source-a-thon) laying out the specific role, focuses and goals.
+ - AMER Senior Manager tags each AMER manager with a checkbox for completion
+ - AMER Senior Manager sets a due date for the end of the month
+
+
+
+
+

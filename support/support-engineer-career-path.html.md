@@ -11,7 +11,6 @@ description: The details of this page are to outline more specific guidance arou
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-
 ## Career Development in Support
 
 Exploring your passions and interests is just as important as focusing on a plan of short and long-term goals needed for any career development plan. Taking that time to explore, prepare, learn, and self-reflect can help ensure that you remain on track with where you ultimately want to grow.
@@ -23,6 +22,7 @@ Promotions within the Support Department are guided by the [Support Career Frame
 When you are ready to start building your path to promotion, review the tips on [creating and building a promotion doc](/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document). Ask for manager guidance and feedback as necessary.
 
 ### General Recommendations and Useful Resources (Applies to Any Promotion Path)
+
 Familiarize yourself with what it means to plan your career path, and how leadership plays a role in your next step.
 
 - Read about [Career Development at Gitlab](/handbook/people-group/learning-and-development/career-development/).
@@ -32,14 +32,16 @@ Familiarize yourself with what it means to plan your career path, and how leader
 - Watch this [Engineering IC Leadership - Handbook Learning Session](https://www.youtube.com/watch?v=OXBwtaZ9edQ) to understand the difference between **IC leadership** and **Management**.
 - Schedule a coffee chat or AMA with someone in the position to better understand what they do, and ask for advice on how to work towards this role.
 - Become familiar with [gearing ratios](https://about.gitlab.com/handbook/engineering/career-development/#gearing-ratios), and how they are used to help govern ([not intended to limit but may delay](https://about.gitlab.com/handbook/engineering/career-development/#opportunity-1)) the amount of available positions in proportion to the mission of a group. Note: Support's gearing ratio is 1 Staff per 1 Senior Manager.
-- Speak with your manager about available openings, and review #spt_hiring for any opportunity announcements. 
+- Speak with your manager about available openings, and review #spt_hiring for any opportunity announcements.
 - Review and use the templates and resources available in [this Google Drive folder](https://drive.google.com/drive/folders/1LZ6AkjVv4JW0CiHYTGzyMQdGadyOgDY_) to track your performance, career development, and path to promotion.
 - As you begin to track and document your path to promotion document, use meaningful examples that highlight the relevant competencies and the type of work the promotion document asks for. See each section below for some specific conditions.
 
 ## Path to Promotion: Senior Support Engineering
+
 A Senior-level Support engineer is a natural leader who has championed multiple areas of technical skillsets required to resolve both intermediate and complex customer issues. Senior engineers are direct mentors of Support Engineers, and extend their contributions to other areas, such as contributing to documentation, bug fixes, workflow improvements, or engaging as the next point of escalation for technical issues.
 
 ### Considerations and Recommendations
+
 Recommendations to explore this path:
 
 - Read about the [Senior Support Engineer role criteria](/job-families/engineering/support-engineer/#senior-support-engineer).
@@ -54,9 +56,11 @@ Considerations when building your path:
 - You are willing to stretch yourself with new challenges, and learn to improve from setbacks versus settle for mediocrity.
 
 ## Path to Promotion: Staff Engineering
+
 Choosing to pursue a Staff-level role within the Support team involves an advanced level of technical skills that are often both broad and deep, in combination with leadership skills that help support and mentor other engineers. Staff Engineers lead by example, and often help to breakdown barriers between customers, Support, and other cross-functional teams by engaging in technical deep dives, contributing to bug fixes, contributing to feature enhancements, or providing product-improving recommendations.
 
 ### Considerations and Recommendations
+
 Recommendations to explore this path:
 
 - Read about [what staff level means at GitLab](https://about.gitlab.com/blog/2020/02/18/staff-level-engineering-at-gitlab/).
@@ -74,11 +78,13 @@ Considerations when building your path:
 - You are willing to stretch yourself with new challenges, and engage in customer meetings to provide a level of support that sets the customer on the path to success.
 
 ## Path to Promotion: Support Engineering Manager
+
 People managers need a combination of skills involving not only [technical credibility](/handbook/engineering/management/#technical-credibility), but interpersonal and organizational skills in order to lead a team of diverse individuals. These skills include embodying the [GitLab Values](/handbook/values/), [coaching](/handbook/leadership/coaching/), [interviewing and hiring](/handbook/support/managers/hiring.html), and thinking holistically about the Support team, how we fit within the company, and interact with users. People managers also need to have _organizational awareness_ within GitLab, so you know where to look for answers and how to guide team members toward solutions. Read more about [Leadership at GitLab](/handbook/leadership/).
 
 Maintaining your technical skillsets becomes secondary, however you have the  autonomy (and ability) to balance your level of technical skill upkeep with the priorities and needs of your team. Above all, you keep team members and our customers your top priority.
 
 ### Recommendations and Considerations
+
 Recommendations to explore this path:
 
 - Read about [what you can expect in a Support Engineering Manager role](/job-families/engineering/support-management/#what-you-can-expect-in-a-manager-support-engineering-role-at-gitlab).
@@ -100,4 +106,5 @@ Considerations when building your path:
 - You have the deep desire to grow every team member you work with, using both empathy and open communication to maintain honesty in every line of feedback you give.
 
 ## Looking Beyond Staff, Manager, and Support Roles
+
 While this document is meant to primarily focus on career development opportunities for Support Engineering IC's, there are many other possible opportunities to pursue. This may include [transfer option examples](https://about.gitlab.com/handbook/engineering/career-development/#transfer-options), or continued promotion opportunities that go beyond that of Staff and Support Engineering Manager, such as a [Principal Engineer](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/74187) role, [Senior Engineering Manager](https://about.gitlab.com/job-families/engineering/development/management/senior-manager/) role, and [Promotions to Director and above](https://about.gitlab.com/handbook/people-group/promotions-transfers/#promotions-to-director-and-above).

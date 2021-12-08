@@ -17,4 +17,4 @@ We have access to an application called [BrowserStack](https://www.browserstack.
 
 The credentials are in 1Password.
 
-Once logged in, you should navigate to the [browser dashboard](https://live.browserstack.com/dashboard) and choose your desired Operating System / browser. 
+Once logged in, you should navigate to the [browser dashboard](https://live.browserstack.com/dashboard) and choose your desired Operating System / browser.

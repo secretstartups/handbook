@@ -306,11 +306,12 @@ This includes potentially extending the expiry date.
 | `:namespace` | *Yes* | The namespace to update using the path |
 | `:plan` | *Yes* | The plan to assign to the namespace (free, bronze, silver, gold) |
 | `:expire` | *No* | Optional parameter, if entered the existing subscription will be extended up to this date |
+| `:subscription` | *No* | Required to extend a subscription, but not for trials. |
 
 #### Sample
 
 ```ruby
-irb(main):001:0> update_gitlab_plan("example","bronze","2020-10-22")
+irb(main):001:0> update_gitlab_plan('example','bronze','2020-10-22','A-S00000000')
 {"plan"=>
   {"code"=>"bronze",
    "name"=>"Bronze",

@@ -27,7 +27,7 @@ Numerous Support team members including all SaaS focused ones also assist with i
 
 ## Legal Context
 
-When signing up, users agree to our [terms](/terms), which means they are bound by them as well.
+When signing up, users agree to our [terms](/terms/), which means they are bound by them as well.
 
 Violation of terms, including DMCA and code of conduct, are taken care of by [Security Operations](https://about.gitlab.com/handbook/engineering/security/operations/).
 
@@ -49,18 +49,23 @@ Due to the current way users register for accounts, terms apply to individual ac
 
 While it can sometimes make support interactions more difficult or frustrating, even something as basic as the email address on an account should not be shared if it's not public, or the user has not provided us explicit permission to share it with the other individual.
 
-#### Enterprise Users
+### Enterprise Users
 
-As of 2021-02-01 when our terms were last updated, when a user meets the definition of an **enterprise user**, information can be shared and actions can be taken based on a *top-level group owner's* request.
+As of 2021-02-01 when our terms were last updated, we introduced the definition of an **enterprise user**.
 
-However, in situations where [proof of account ownership is required](account_verification.html), then a request is still required from the relevant user, not just the group owner.
+When requested by an `Owner` in the **top-level of a paid group**, information can be shared about, and actions can be made on behalf of an enterprise user.
 
-A request can be worked on without explicit permission from the account holder if the user meets the definition of an Enterprise User, meaning all of the following are true:
+In situations where [proof of account ownership is required](account_verification.html), then either the relevant user or requesting owner can pass the verification process.
 
-1. The request comes from a user with role `Owner` in the top-level of a *paid* group.
+A user is considered an enterprise user when the following are true:
+
 1. The user's email has a domain that is owned by the company of the paid group.
 1. The user account meets one of the following conditions:
     - was created 2021-02-01 or later.
     - has a SAML or SCIM identity tied to the organization's group.
-    - has a `provisioned_by_group_id` value that is the same as the organization's group's ID. (This can be found with the [Users API](https://docs.gitlab.com/ee/api/users.html#for-admins))
+    - has a `provisioned_by_group_id` value that is the same as the organization's group's ID.
     - is a member of the organization's group, where the subscription was purchased or renewed 2021-02-01 or later.
+
+Note: This means that the user need not be a member of the paid group as that is only one of the possible conditions.
+
+The relevant information can be found in the ZenDesk GitLab User Lookup, GitLab admin or API. Subscription information can additionally be found in CustomersDot.

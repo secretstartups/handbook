@@ -51,8 +51,8 @@ time off, please:
 team calendar.
 
    You should have been granted access when you joined Support. But
-if you don't have it, please ask for help in the `#support_team_chat` channel
-on Slack and someone will share the calendar with you.
+if you don't have it, please check that you're part of the Support Google Group,
+and if required, open an access request issue.
 
 1. We recommend you set up the Google Calendar integration with PTO by Roots so that you do not need to populate your personal and "Support - Time Off" calendars manually.
    1. In Slack, click the `+` sign next to 'Apps' at the bottom of the left sidebar
@@ -146,12 +146,12 @@ please. Please follow the same guidelines as you would in [Choosing Time Off](#c
 During Holidays, GitLab Support continues to operate as normal. Please book holidays as required by your locality. For
 non-statutory holidays, please follow the same guidelines as you would in [Choosing Time Off](#choosing-time-off).
 
-As many customers may also take popular holidays Support Leadership will provide additional guidance in terms of 
+As many customers may also take popular holidays Support Leadership will provide additional guidance in terms of
 the number of engineers required on those days.
- 
+
 ## Tips
 
-In addition to the companywide tips in
+In addition to the company-wide tips in
 [Communicating Your Time Off](/handbook/paid-time-off/#communicating-your-time-off),
 take a look at these tips to increase your ability to disconnect from work,
 truly make the most of your time off, and make it easier to return to work:
@@ -172,4 +172,3 @@ truly make the most of your time off, and make it easier to return to work:
 
 Please consider adding an item in the Support Week in Review after you get back to let the rest of the
 team know what you've been up to!
-

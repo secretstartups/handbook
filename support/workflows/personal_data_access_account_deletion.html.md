@@ -13,6 +13,7 @@ description: "Support Engineering workflows for account deletion and data access
 {:toc .hidden-md .hidden-lg}
 
 ## Purpose
+
 The Personal Data Access and Account Deletion Request Standard defines scope, data deletion categories and provides an overview of GitLab's personal data access and account deletion workflow.
 
 ## Scope
@@ -39,9 +40,9 @@ Use the appropriate workflow on this page when a user requests one of the follow
 
 ## Before You Begin
 
-Account deletion and data access requests go through a few stages before they can be closed, and it can be difficult to keep track of what stage in the process each request is in at any given time. Consider creating an issue board within the account deletion project and use the `Awaiting::Challenge Answers`, `Awaiting::Deletion`, and `meta-issue` labels to track the progress of each request. See [this board](https://gitlab.com/gitlab-com/gdpr-request/-/boards/2316580?assignee_username=tristan&) for an example. 
+Account deletion and data access requests go through a few stages before they can be closed, and it can be difficult to keep track of what stage in the process each request is in at any given time. Consider creating an issue board within the account deletion project and use the `Awaiting::Challenge Answers`, `Awaiting::Deletion`, and `meta-issue` labels to track the progress of each request. See [this board](https://gitlab.com/gitlab-com/gdpr-request/-/boards/2316580?assignee_username=tristan&) for an example.
 
-Users requesting deletion are required to confirm their intent to delete at the time of submission. After submission, the form entries are automatically checked and validated (such as the username, email address, and if the account is part of a paid namespace). 
+Users requesting deletion are required to confirm their intent to delete at the time of submission. After submission, the form entries are automatically checked and validated (such as the username, email address, and if the account is part of a paid namespace).
 
 If the user account is a free account or personal subscription add the `account-deletion::personal` label to the issue created in the [account deletion and other requests project](https://gitlab.com/gitlab-com/gdpr-request/-/issues?scope=all&state=all). If the user account is tied to a paid namespace with a signed contract in Salesforce (a corporate request) add the `account-deletion::corporate` label to the issue created in the [Account deletion and other requests project](https://gitlab.com/gitlab-com/gdpr-request/-/issues?scope=all&state=all).
 
@@ -51,14 +52,14 @@ An issue in our [Account Deletion and Other Requests](https://gitlab.com/gitlab-
 
 Examples of personal requests that you may receive (based on the request type) are below.
 
-### Examples of **account deletions requests**:
+### Examples of **account deletions requests**
 
 - Please delete my account in GitLab.com, along with all other associated data tied to my account.
 - I am looking to delete my GitLab.com account so I can recreate it using the same email.
 - Please delete all of my personal information and data tied to any of your services. I want to be forgotten for good.
 - I am hereby requesting immediate erasure of personal data concerning me according to Article 17 GDPR. Please erase all personal data concerning me as defined by Article 4(1) GDPR.
 
-### Examples of **data access requests**:
+### Examples of **data access requests**
 
 - Please confirm whether or not my personal data is being processed. If it is, please provide me with the categories of personal data you have about me in your files and databases.
   - In particular, please tell me what you know about me in your information systems, whether or not contained in databases, and including e-mail, documents on your networks, or voice or other media that you may store.

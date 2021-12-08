@@ -56,7 +56,8 @@ This contains information such as:
 
 ### Organization fields
 
-![App](/images/support/organization_page_fields.jpg)
+![App](/images/support/organization_page_fields2.png)
+
 
 Below the organization details section you will find the organization fields
 section. These come from the Zendesk<>SFDC sync and should not be edited
@@ -76,6 +77,8 @@ are:
 * Manual Support Upgrade - if this account is entitled for priority prospect
   support (prospects only)
 * Region - the region this organization is in
+* Health score - the health score of the organization from Gainsight
+* Expiration date - the next renewal date as per SFDC
 * Creation date - the date the organization was created
 * Updated date - the last date this organization was updated
 

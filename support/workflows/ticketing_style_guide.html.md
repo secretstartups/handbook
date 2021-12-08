@@ -24,7 +24,7 @@ Everyone in the Support Team is welcome to contribute or modify the suggestions 
 
 ## Readability
 
-1. If your reply consists of more than 6 lines, consider breaking it to sections using HEADERS. Eaxmple:
+1. If your reply consists of more than 6 lines, consider breaking it to sections using HEADERS. Example:
 
 ```
 ### Logs analysis
@@ -77,7 +77,7 @@ It is possible that you've configured the caching differently in each node, whic
 2. When requesting logs from the customer, only ask for as much as you think you'll need to diagnose the problem. Example:
 
 ```
-If the issue is reproducable and is not front-end related, ask for `gitlab-ctl tail`, if it's intermittent, ask for GitlabSOS.
+If the issue is reproducible and is not front-end related, ask for `gitlab-ctl tail`, if it's intermittent, ask for GitlabSOS.
 ```
 
    This makes it easier to debug the issue as you'll go through the minimal number of log files, and save the customer from breaking up a large GitLabSOS file, unless GitlabSOS is necessary.

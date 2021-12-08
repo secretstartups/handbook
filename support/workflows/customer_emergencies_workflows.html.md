@@ -36,7 +36,7 @@ We [assume positive intent](/handbook/values/#assume-positive-intent) from the c
 
 ### (Optional) Contact the on-call Support Manager
 
-If at any point you would like advice or help finding additional support, go ahead and [contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager). The on-call manager is there to support you. They can locate additional Support Engineers if needed. This can make it easier to handle a complex emergency by having more than one person on the call, so you can share responsibilities (e.g., one person takes notes in Slack while the other commuincates verbally on the call). Managers are on-call during weekends, so you can page for help at any time.
+If at any point you would like advice or help finding additional support, go ahead and [contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager). The on-call manager is there to support you. They can locate additional Support Engineers if needed. This can make it easier to handle a complex emergency by having more than one person on the call, so you can share responsibilities (e.g., one person takes notes in Slack while the other communicates verbally on the call). Managers are on-call during weekends, so you can page for help at any time.
 
 ### Respond to PagerDuty alerts
 
@@ -46,6 +46,16 @@ If at any point you would like advice or help finding additional support, go ahe
 1. Open the Zendesk ticket.
     1. Most PagerDuty notification formats provide a direct link to the ticket.
     1. Alternatively, use Zendesk search with the term `priority: urgent` to find the ticket.
+1. Verify that the requester is a customer with emergency support entitlement:
+   1. If the customer's email address is not associated with an org in Zendesk,
+      plan to start the Zoom call by verifying support entitlement **and** to
+      end the call gracefully if they do not have sufficient entitlement. In
+      they are a free user, mark the ticket `solved`. Otherwise, lower the
+      priority.
+   1. If the customer is associated with an org in Zendesk, verify that their
+      subscription is Premium or above. If it is not, lower the priority of
+      the ticket and inform the customer kindly that their subscription does
+      not include emergency support.
 1. Create a Public Comment in the ticket acknowledging the emergency; offer a Zoom call to the customer if appropriate to the reported situation. A SaaS emergency related to a public incident published on the status page, for example, would not warrant a call.
    * Example of self-managed emergency ticket which was resolved without a call: https://gitlab.zendesk.com/agent/tickets/148028
 1. Only Resolve the PagerDuty alert _after_ you have contacted the customer. This means that you are actively handling the emergency now and will see it through.
@@ -128,7 +138,7 @@ Remember to say only things that help the customer and that maintain their confi
 - _I'm working on finding someone who has specific expertise in this area._
 - _I don't know the answer just yet, but I'm here for you and I will use all the resources at my disposal to get this resolved._
 
-If you encounter a SaaS emergency at the weekend that you are unable to progress, then consider checking if the [CMOC engineer on call](https://gitlab.pagerduty.com/escalation_policies#PNH1Z1L) is available to offer any help or guideance.
+If you encounter a SaaS emergency at the weekend that you are unable to progress, then consider checking if the [CMOC engineer on call](https://gitlab.pagerduty.com/escalation_policies#PNH1Z1L) is available to offer any help or guidance.
 
 If you are still stuck _and_ are having difficulty finding help, contact the [manager on-call](/handbook/support/on-call/#paging-the-on-call-manager) or initiate the [dev-escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
 
@@ -137,7 +147,7 @@ If you are still stuck _and_ are having difficulty finding help, contact the [ma
 The workflow for these calls is the same as with self-managed emergencies: success means that the customer is unblocked. In some cases,
 you may even be able to fully resolve a customer's problem.
 
-For any customer facing a SaaS Emergency you are empowered to perform any [two-way door](/handbook/values/#make-two-way-door-decisions) action required to unblock them without seeking approval first. 
+For any customer facing a SaaS Emergency you are empowered to perform any [two-way door](/handbook/values/#make-two-way-door-decisions) action required to unblock them without seeking approval first.
 
 Some examples:
  - manually setting a subscription level
@@ -145,7 +155,7 @@ Some examples:
  - adding extra CI minutes
  - toggling a feature flag
 
-During a SaaS Emergency, you have additional visibility into problems that a customer may be facing. 
+During a SaaS Emergency, you have additional visibility into problems that a customer may be facing.
 
 Review:
 
@@ -154,11 +164,11 @@ Review:
 
 We're expecting, broadly that emergencies will fall into one of five categories:
 
-- **broken functionality due to a regression being pushed to GitLab.com** 
+- **broken functionality due to a regression being pushed to GitLab.com**
    - Success may mean: reproducing, identifying or creating a bug report and escalating to have a patch created and deployed.
-- **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it. 
+- **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it.
     - Success may mean reproducing the error, identifying it Sentry/Kibana, escalating to have the specific data corrected (and creating a bug report so our code is better)
-- **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched. This is the hardest class, but will generally be operational emergencies. 
+- **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched. This is the hardest class, but will generally be operational emergencies.
    - Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) and letting the SRE team diagnose and correct the root cause.
 
 - **License / Consumption issues are preventing access to the product**
@@ -177,8 +187,8 @@ If a customer is reporting that behaviour has recently changed, first check [Git
 
 #### Broken functionality due to a regression or feature flag
 
-1. Create a `~bug` issue and have the customer review it.
-1. Escalate the `~bug` issue
+1. Create a `~"type::bug"` issue and have the customer review it.
+1. Escalate the `~"type::bug"` issue
    - If it's a new bug, or a bug with [S1/S2 severity](/handbook/engineering/quality/issue-triage/#severity) escalate using the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/). In most cases we will generate a roll-back patch and apply it to Gitlab.com.
    - If it's a feature flag, work with the who turned it on to [disable it through ChatOps](https://docs.gitlab.com/ee/development/feature_flags/controls.html#disabling-feature-flags). In some cases, you may need to use the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) to raise a developer.
 1. If this is affecting multiple customers, [declare an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) to engage the incident response team who will update the status page.
@@ -190,7 +200,7 @@ If a customer is reporting that behaviour has recently changed, first check [Git
 
 #### Broken functionality due to an incident
 
-If there is a known incident, it's acceptable to link to the public status page and related incident issue. Consider using [`Support::SaaS::Incident First Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Incident%20First%20Response.yaml). 
+If there is a known incident, it's acceptable to link to the public status page and related incident issue. Consider using [`Support::SaaS::Incident First Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Incident%20First%20Response.yaml).
 
 #### Example tickets:
 {:.no_toc}
@@ -210,7 +220,7 @@ A customer may be blocked because of a license expiring or neglecting to apply a
 
 #### CI Minutes quota is blocking a production deployment
 
-A customer may be blocked because they have run out of CI minutes. 
+A customer may be blocked because they have run out of CI minutes.
 
 1. Advise them to purchase additional minutes or set up individual runners.
 1. At your discretion, as a courtesy, [set an additional 1000 minutes on their namespace through ChatOps](/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace)
@@ -246,7 +256,7 @@ If this occurs:
 At any point, you may ack/resolve PD alerts. It may be faster to do so through the PagerDuty web interface.
 
 During an incident:
- - *If there is no production issue to link to yet*: let customers know we are actively working to address the problem and that we will follow-up with a link to a tracking issue as soon as one is created. Set the ticket to **Open**. Once the issue is available, send a follow-up note letting the customer know that they should follow along with the issue and that we are marking the ticket as **Solved**. Inclue a note that they should reply if they still have trouble once the production issue has been closed / the incident has been declared resolved.
+ - *If there is no production issue to link to yet*: let customers know we are actively working to address the problem and that we will follow-up with a link to a tracking issue as soon as one is created. Set the ticket to **Open**. Once the issue is available, send a follow-up note letting the customer know that they should follow along with the issue and that we are marking the ticket as **Solved**. Include a note that they should reply if they still have trouble once the production issue has been closed / the incident has been declared resolved.
 - *If there is a production issue to link to*: let customers know we are actively working to address the problem, that they should follow along at the issue, that we are marking the ticket as **Solved** and they should reply if they still have trouble once the production issue has been closed / the incident has been declared resolved.
 
 #### Using Zendesk Bulk Update
@@ -265,8 +275,6 @@ You can bulk edit tickets by:
 4. Click Submit with the appropriate status change
 
 ![ZD Bulk Update View](/images/support/zd-bulk-update.png){: .shadow}
-
-
 
 ## US Federal on-call
 
