@@ -114,6 +114,7 @@ If you get an error, use admin following the instructions in the next section.
 
 1. Go to the namespace admin page (`/admin/users/username` or `/admin/groups/group_path`).
 1. Click `Edit`.
-1. Change the `Plan` to the appropriate plan (Ultimate or Premium).
+1. Change the `Plan` to the appropriate plan (`Ultimate` or `Premium`).
+   - Don't use `Ultimate Trial` or `Premium Trial` in these cases -- these plans are intended for use by automated systems only, and may [cause an error](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3698) on the namespace when set incorrectly.
 1. Add [an admin note](../../../workflows/admin_note.html).
 1. Click `Save`.
