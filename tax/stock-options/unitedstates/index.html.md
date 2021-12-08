@@ -9,6 +9,8 @@ title: "Tax Treatment of Stock Options as Employee of GitLab Inc"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+The information on this page should be used for discussion purposes only. For any personal advice please reach out to a tax professional.
+
 ### Award Types
 
 For USA employees the following stock option treatments have been identified:
