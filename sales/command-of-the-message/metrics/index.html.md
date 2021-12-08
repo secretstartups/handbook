@@ -57,7 +57,7 @@ Listen to how Nico Ochoa (Strategic Account Leader, US West) explains the value 
   <iframe src="https://www.youtube.com/embed/vtlAs68YY8M" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-As a follow on to the above, be sure to familiarize yourself with GitLab's Value Stream Management (VSM) & Value Stream Analytics capabilities. Effectively articulating these capabilities plays to two of GitLab's key differentiators:
+As a follow on to the above, be sure to familiarize yourself with GitLab's [Value Stream Management (VSM)](/solutions/value-stream-management/) & Value Stream Analytics capabilities. Effectively articulating these capabilities plays to two of GitLab's key differentiators:
 1. Single Application for Entire DevOps Lifecycle, and 
 1. End-to-End Insight and Visibility
 
