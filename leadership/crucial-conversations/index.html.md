@@ -98,16 +98,17 @@ There are many different influencing strategies and in this section we are going
 Having crucial conversations via a Zoom call might be more difficult than having the conversation in person. These strategies are meant to identify what makes having crucial conversations in an all-remote environment challenging and things we can try to make the conversations more effective.
 
 
-1. Pre-populate your [1:1 meeting agenda](/handbook/leadership/1-1/) so that everyone can come prepared to have crucial conversations.
+1. Pre-populate your [1:1 meeting agenda](/handbook/leadership/1-1/) so that everyone can come prepared to have meaningful conversations. The ability to prepare ensures that everyone in the conversation knows the topics that will be discussed and can prepare in advance.
 1. In a video call, we might miss out on key body language markers that are more apparent when having conversations in person. Focus on the body language queues we can see. Does someone who typically uses video have their video off, or does someone turn their video off suddenly? Does the person seem to be looking away or looking down, avoiding the screen?
 1. If an async conversation is starting to get heated and is veering away from productive dialogue, move to a synchronous call to increase safety.
 1. Async conversations make it easier for us to hold off a response until emotions cool off, preventing a fight or flight response. This can be helpful in some cases but watch out for its detriments. It's important to speak up about projects or conversations that make you feel upset or unheard.
-1. It's easy to assign tone to text-based communication. The tone we assign can influence the story we tell ourselves. We can avoid this by [assuming positive intent](/handbook/values/#assume-positive-intent).
+1. It's easy to assign tone to text-based communication. The tone we assign can influence the story we tell ourselves. We can avoid this by [assuming positive intent](/handbook/values/#assume-positive-intent). Emojis can help to add context to text-based commuication.
 1. Make space for pause. Silent pauses on a phone call might feel awkward or uncomfortable. These pauses are necessary for people to process feelings and stress and craft thoughtful responses during crucial conversations. Try using these phrases if you need to create a space for silence:
      - `Can we wait one second before moving on to that topic?`
      - `I need a minute to think through this one.`
      - `Can we take a pause for a minute?`
      - `I need a few extra seconds/minutes to think through my response here`
+     - `I think I got defensive there - let me take a second to regroup`
 1. If you're in a crucial conversation and a team member uses one of these phrases to indicate they need a pause, remember to respect their need for time by:
      - Don't try to fill the space with more talking. Let there be a minute or two of quiet on the line.
      - Let your eyes gaze around the room, down, or at your notes if you need something else to focus on
