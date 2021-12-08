@@ -55,7 +55,7 @@ As of 2021-02-01 when our terms were last updated, we introduced the definition 
 
 When requested by an `Owner` in the **top-level of a paid group**, information can be shared about, and actions can be made on behalf of an enterprise user.
 
-In situations where [proof of account ownership is required](account_verification.html), then a request is still required from the relevant user, not just the group owner.
+In situations where [proof of account ownership is required](account_verification.html), then either the relevant user or requesting owner can pass the verification process.
 
 A user is considered an enterprise user when the following are true:
 

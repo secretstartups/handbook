@@ -42,14 +42,21 @@ You can continue working with the original requester once an owner/maintainer pr
 
 ## Account Access Requests
 
-If a user has lost access to their account, all other options (such as SSH recovery codes, password reset) should be exhausted first.
+In cases where a user has lost access to their account, all other options (such as SSH recovery codes, password reset) should be exhausted first.
 
-Before taking any action, ensure that you have verified the account owner using the [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow.
+For unconfirmed accounts, the only account action support will typically take is an [email typo fix](confirmation_emails.html.md#typo-fix).
+
+Before taking any action on confirmed accounts, ensure that you have verified the account owner using the [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow.
 
 If ownership is verified, then:
 
-1. [Confirm permission for the changes](#asking-permission)
+1. [Confirm permission for the changes](#asking-permission).
 1. Add an [Admin Note](/handbook/support/workflows/admin_note.html) to the user's account.
+
+Example cases include:
+
+1. Swapping secondary email with primary email due to primary email being unconfirmed, non-existent, or similar.
+1. Removing an identity tied to the user account. The identity should also be verified in these cases.
 
 ## Releasing an Email Address
 
@@ -86,7 +93,9 @@ Any time user data needs to be downloaded (such as cloning a repository), or whe
 
 ## Asking Permission
 
-Before any actions are taken, including impersonating a user, please request explicit permission to take the required action. Be as specific as possible so that there is no confusion.
+Before any actions are taken, please request explicit permission to take the required action. Be as specific as possible so that there is no confusion.
+
+Once permission is confirmed by the user, then you may proceed.
 
 Some sample phrases:
 
@@ -103,5 +112,3 @@ Some examples:
 > Could you please provide permission for our Support Engineers to look at the CI/CD variables in the project so that we confirm they are correct? Replying in this ticket stating you provide permission will be sufficient.
 >
 > Could you please confirm that you would like us to add `example@email.address` to your account and make it the _primary_ email address? Replying in this ticket stating you provide permission will be sufficient.
-
-Once permission is confirmed by the user, then you may proceed.
