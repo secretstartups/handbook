@@ -38,7 +38,7 @@ canonical_path: "/company/team/structure/working-groups/learning-restructure/"
 1. Update https://about.gitlab.com/learn/ to capture SSoT and provide more clarity on which training is for what
 
 ### Create future coordination processes and plan
-1. Clearly identify how key teams will work together in future to ensure optimal training experience and minimal inefficiencies.
+1. Document in the Handbook a process that DRIs working on learning content will follow to keep https://about.gitlab.com/learn/ up-to-date, to ensure it remains the SSOT of GitLab-produced learning content. This will include existing content and planned content. 
 
 
 ## Roles and Responsibilities
