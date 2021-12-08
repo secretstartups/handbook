@@ -16,6 +16,10 @@ All elearning courses at GitLab will utilize the Handbook as the Single Source o
 
 ![gitlab-learning-content-diagram](/handbook/people-group/learning-and-development/interactive-learning/gitlab-learning-content-diagram.png)
 
+All our available learning material can be found on [GitLab Learn](https://about.gitlab.com/learn/).
+
+Team members should follow [these important steps](/handbook/marketing/inbound-marketing/digital-experience/website/#updating-content-on-gitlab-learn) to update GitLab Learn every time a new certification is created.
+
 ## Handbook-First Interactive Learning Examples
 
 ### Field Enablement 
