@@ -69,11 +69,6 @@ Depending on the level of customer impact, either Technical Support or TAM organ
 
 - For medium, high and critical-level escalations, create an escalation document using the [Escalation Tracker Template](https://docs.google.com/document/d/1DFW9WDigDZTRQlArqvyaLl_GcYi5lwsxKKKtcjB49s0/edit#) (internal GitLab access only). 
     - Save the document for each individual customer and replace (CUSTOMER) with the customer name.
-- Create a mutually shared Google doc with the customer
-    - Capture discussion items in a list with status
-    - Run through the list with the customer looking at the same list
-    - Follow-up with meeting notes (decisions, action items, or open issues)
-    - If the customer cannot access Google docs, then create an issue in the customer collaboration project to serve the same purpose
 - Create a temporary slack channel to facilitate communication internally at GitLab. This will remain open until the escalation is closed and should be documented in the escalation document. 
 - When a customer escalation is defined, the escalation document and the name of the temporary slack channel should be posted into the `#escalated_customers` channel by the escalation owner (i.e., Support for Low/Medium severity, TAM for high/critical severity escalations). The posting to this channel should occur:
     - when the escalation is identified and created
