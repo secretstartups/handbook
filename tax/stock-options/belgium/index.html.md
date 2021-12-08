@@ -9,7 +9,7 @@ title: "Tax Treatment of Stock Options as employee in Belgium"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Taxation in Belgium depends on whether the Stock Option offer has been accepted within 60 days upon start of the employment. Please read carefully.
+The information on this page should be used for discussion purposes only. For any personal advice please reach out to a tax professional. Taxation in Belgium depends on whether the Stock Option offer has been accepted within 60 days upon start of the employment. Please read carefully. 
 
 ### Equity Award
 Stock Option Plan
