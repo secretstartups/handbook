@@ -76,13 +76,15 @@ Please review the [success plan handbook page](/handbook/customer-success/tam/su
 
 The first [cadence call](/handbook/customer-success/tam/cadence-calls/) is typically the TAM's second conversation with the customer, and is when we can start to deliver value through our efforts as a trusted advisor. In addition to the [general recommendations for a cadence call](/handbook/customer-success/tam/cadence-calls/), the agenda items for this call are to include the following:
 
-1. Review customer infrastructure diagram and upload to collaboration project
-1. Confirm resources/infrastructure will support future growth. For customers who will be self-deploying, provide
-1. Review any deployment instructions and resource requirements. For customers who are already deployed, confirm resource requirements aligned to future growth plans
-1. Review of any Support tickets
-1. Confirm Back/Restore Plan in place
-1. Identify short-term problem areas, best practices, or training needs
-1. Discuss & document monthly release & upgrade plan
+1. Review customer infrastructure diagram and upload to [collaboration project](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/blob/master/PLEASE-READ-THESE-INSTRUCTIONS.md)
+    * Check in the [Account Management](https://gitlab.com/gitlab-com/account-management) group and then the relevent region/sub-section ([Western North America](https://gitlab.com/gitlab-com/account-management/western-north-america), [Eastern North America](https://gitlab.com/gitlab-com/account-management/eastern-north-america), [LATAM](https://gitlab.com/gitlab-com/account-management/eastern-north-america/latam), [EMEA](https://gitlab.com/gitlab-com/account-management/emea), [APAC](https://gitlab.com/gitlab-com/account-management/apac) or [Commercial](https://gitlab.com/gitlab-com/account-management/commercial)) to see if the collaboration project already exists.
+    * If a collaboration project does not already exist for this customer, create one
+2. Confirm resources/infrastructure will support future growth. For customers who will be self-deploying, provide
+3. Review any deployment instructions and resource requirements. For customers who are already deployed, confirm resource requirements aligned to future growth plans
+4. Review of any Support tickets
+5. Confirm Back/Restore Plan in place
+6. Identify short-term problem areas, best practices, or training needs
+7. Discuss & document monthly release & upgrade plan
 
 The completion of this second customer call marks the completion of customer onboarding, moving the customer into the adoption phase of the customer lifecycle.
 
