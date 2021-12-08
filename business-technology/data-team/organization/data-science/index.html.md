@@ -28,14 +28,14 @@ The team accomplishes this mission by building machine learning models and analy
 - Start Date: 2021-06-30
 - [Project](https://gitlab.com/gitlab-data/propensity-to-buy)
 - [Work breakdown](https://gitlab.com/groups/gitlab-data/-/epics/340)
-- Slack Channel: #data-propensity-projects
+- Slack Channel: [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7)
 
 ### Propensity to Contract (PtC)
 
 - Start Date: 2021-11-01
 - [Project](https://gitlab.com/gitlab-data/propensity-to-contract)
 - [Work Breakdown](https://gitlab.com/groups/gitlab-data/-/epics/382)
-- Slack Channel: #data-propensity-projects
+- Slack Channel: [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7)
 
 ### Project Backlog
 
@@ -66,10 +66,8 @@ The team accomplishes this mission by building machine learning models and analy
     - With the **Data Leadership Team**:
         - Defining and publishing a Data Science roadmap to expand analytical capabilities
         - Broadcasting regular updates about data deliverables, ongoing initiatives, and upcoming plans
-    - With the [**Data Engineering Team**](https://about.gitlab.com/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities):
+    - With the [**Data Engineering Team**](/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities/):
         - Helping to define and champion Data Quality practices and programs for GitLab data systems
-
-
 
 # Projects structure 
 
@@ -77,7 +75,7 @@ Data Scientists follow [Cross-Industry standard process for data mining (CRISP-D
 
 ### Business Understanding 
 
-First step is to define business needs of end users of the project and success criteria. This phase includes gathering requirements, stakeholders interviews, defining vision, user stories for product and use cases for models. This phase is closely aligned with GitLab's [OKRs](https://about.gitlab.com/company/okrs/) and company's value - [Iteration](https://about.gitlab.com/handbook/values/#iteration)
+First step is to define business needs of end users of the project and success criteria. This phase includes gathering requirements, stakeholders interviews, defining vision, user stories for product and use cases for models. This phase is closely aligned with GitLab's [OKRs](https://about.gitlab.com/company/okrs/) and company's value - [Iteration](/handbook/values/#iteration)
 
 ### Data Understanding 
 
@@ -93,7 +91,7 @@ Modeling refers to building machine learning model, which consists of training, 
 
 ### Evaluation 
 
-In this phase, performance of model is measured (if required in Business Understanding) and outcomes are presented to stakeholders and end users for feedback. This phase is strongly aligned with one of the GitLab's values - [Iteration](https://about.gitlab.com/handbook/values/#iteration) After feedback, data scientists iterate on above phases as long as business goal is met.
+In this phase, performance of model is measured (if required in Business Understanding) and outcomes are presented to stakeholders and end users for feedback. This phase is strongly aligned with one of the GitLab's values - [Iteration](/handbook/values/#iteration) After feedback, data scientists iterate on above phases as long as business goal is met.
 
 ### Deployment / Productionalization
 
@@ -151,13 +149,11 @@ Please note that above formula is a suggestion only that may help to describe ou
 
 # Data Science Tools at Gitlab
 
-- **[Pre-configured JuypterLab Image](https://gitlab.com/gitlab-data/data-science)**: The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out the the [Jupyter Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/jupyter-guide/) for additional information.
+- **[Pre-configured JuypterLab Image](https://gitlab.com/gitlab-data/data-science)**: The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out the the [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/) for additional information.
 
 - **[gitlabds python tools](https://gitlab.com/gitlab-data/gitlabds/)**: Functions to help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly via `pip install gitlabds` or use as part of the JupyterLab image above.
 
 - **Modeling Templates** (**Coming Soon!**)
-
-
 
 # Useful Data Science & Machine Learning Resources
 
