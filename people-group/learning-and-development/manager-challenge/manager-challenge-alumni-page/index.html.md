@@ -11,15 +11,17 @@ title: Manager Challenge Alumni
 
 ## Introduction
 
-## Continuous Learning Opportunities For Manager Challenge Participants
+Congrats on making it through GitLab's Manager Challenge Program! We are thrilled that you have completed the training, but your road to personal development as a leader isn't over. There are lots of ways you can continue to practice your skills. 
 
 ### Manager Challenge Alumni Channel
 
+Join the #manager-challenge-alumni channel to keep up to date with the latest annoucements related to leadership development and manager enablement at GitLab. 
+
 ### Self-paced Learning
 
-Recommended LinkedIn Learning Courses
+Take a look at some of the courses the Learning & Development recommends for [People Leaders on LinkedIn Learning](handbook/people-group/learning-and-development/linkedin-learning/#people-leaders). 
 
-GitLab Learn - EdCast
+L&D also has courses on [GitLab Learn](https://gitlab.edcast.com/) that you can explore for manager training. 
 
 ### Professional Coaching
 
@@ -31,9 +33,15 @@ GitLab offers the following benefits for team members to receive coaching:
 
 2. [Growth & Development Budget](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/): Team members have access to up $10,000 USD to use for professional development, including coaching. Managers can find coaches and use the funds for personalized leadership coaching that is action-oriented for professional development. 
 
+**Note:** L&D is exploring a formalized coaching program for the organization
+
 ### LifeLabs Learning
 
-GitLab L&D is exploring additional management training with [LifeLabs Learning](https://lifelabslearning.com/). More details to come. 
+Starting in January 2022, the L&D team will be piloting LifeLabs Learning to a grow of ten people leaders across the organization. LifeLabs Learning is the go-to team member resource for over 1000 organizations. They offer leadership and people-skills training that blends science, playfulness, and practical tools. 
+
+The pilot audience will be participating in the [Manager Core 1](https://drive.google.com/file/d/1MJmxjrMSSCq3lWOOks-vMnzdzPucI0jp/view) and [Manager Core 2](https://drive.google.com/file/d/1f0HhqBfGn1lnaYSMHcYYqauwyOkNHS0R/view) training curriculum. 
+
+You can follow along in the #lifelabs-learning-pilot channel
 
 ### Leadership Chats
 
@@ -41,12 +49,11 @@ Join the [Leadership Chats](/handbook/people-group/learning-and-development/mana
 
 ## Aspiring Managers Resources
 
-- Slack Channel
-
-### Self Paced Learning 
+Check out the #aspiring-managers Slack channel to learn more about the activities aspiring managers are doing on their path towards leadership. 
 
 ### Coffee Chat with Manager Challenge Alumni
 
 If you are interested in participating in the [Manager Challenge program](/handbook/people-group/learning-and-development/manager-challenge/), feel free to schedule a coffee chat with any of the Manager Challenge alumni. You can review the list of alumni below. The chats are helpful to gain a better understanding of the program, what to expect, and how to participate. 
 
 ## List of past Manager Challenge Participants
+
