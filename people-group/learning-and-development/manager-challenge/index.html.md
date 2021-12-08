@@ -11,13 +11,15 @@ title: Manager Challenge
 
 ## Introduction
 
-Welcome to the GitLab Manager Challenge page. The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](/handbook/leadership/#books/). 
+Developing mangerial skills is no small task. While taking on a new or expanded role as a manager brings great rewards, it also introudces new challenges. To be successful as a manager it requires management training that develops your ability to lead a functioning team while implementing management skills and abilities such as adaptive leadership, building trust, psychological safety, and conflict resolution. 
 
-The next Manager Challenge will run from **2022-02-07 to 2022-02-25**. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/78). **Currently, the program is being offered to GitLab team members only.**
+The Manager Challenge addresses your specific needs to understand the qualities of a good leader and to master practical leadership styles that empower you to become a confident mangager. Effective leadership is grounded in your understanding of powerful interpersonal skills that inspire performance, communication, team member retention, and motivation to achieve results. 
+
+Join us for the next Manager Challenge will run from **2022-02-07 to 2022-02-25**. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/78). **Currently, the program is being offered to GitLab team members only.**
 
 ### Leadership Development Award   
 
-The Manager Challenge was awarded a Gold Excellence in Leadership Development by the [Brandon Hall Group for the Best Unique and Innovative Leadership Development Program](http://www.brandonhall.com/excellenceawards/excellence-leadership.php?year=2021#BestUniqueorInnovativeLeadershipProgram). Brandon Hall operates the largest and longest running awards in Human Capital Management. The GitLab program was evaluated by a panel of learning and development veterans, senior industry experts, analysts, and executives. L&D is thrilled to have been recognized for this achievement! 
+The program was awarded a Gold Excellence in Leadership Development by the [Brandon Hall Group for the Best Unique and Innovative Leadership Development Program](http://www.brandonhall.com/excellenceawards/excellence-leadership.php?year=2021#BestUniqueorInnovativeLeadershipProgram). Brandon Hall operates the largest and longest running awards in Human Capital Management. The GitLab program was evaluated by a panel of learning and development veterans, senior industry experts, analysts, and executives. L&D is thrilled to have been recognized for this achievement! 
 
 ![picture-of-gold-in-leadership-excellence award](Gold-LD-Award-2021-01.png){: .shadow.medium.center}
 
@@ -38,12 +40,11 @@ All details relating to the next iteration of the Manager Challenge program can 
 ### Manager Challenge Learning Objectives
 
 You may be asking yourself what you will achieve by taking part in the Manager Challenge program! Our goal is that participants walk away with the following skills after completing the four-week challenge: 
+
 - Improve your team performance by strengthening management skills
 - Develop a management style that incorporates a whole-person approach to leading others
 - Apply and learn GitLab Leadership best practices into your management role
-- Demonstrate the application of High Output Management principles 
 - Evaluate difficult management situations with greater certainty in your decisions
-- Practice emotional intelligence to improve leadership and build more effective relationships with your people
 - Build an inclusive environment for your people that is built on trust
 
 Below is a video L&D recorded with Sid on manager enablement: 
