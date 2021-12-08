@@ -27,7 +27,7 @@ Most of us are good at avoiding them because it's human nature to avoid pain and
 
 At GitLab, there can be many instances where a crucial conversation is needed. Whether it is addressing the underperformance of a team member, discussing the results of promotion, interviewing, being notified that a high performer is leaving the team, etc. The Crucial Conversations book has strategies laid out that can help master one:
 1. **Power of Dialogue:** Gaining information and context on the situation. The free flow of meaning between two or more people. 
-2. **Shared Meaning:** Each of us enters conversations with our own opinions, feelings, theories, and experiences about the topic at hand. Coming to a shared opinion and entering a pool of a shared meaning helps our synergy with team members in many ways. 
+2. **Shared Meaning:** Each of us enters conversations with our own opinions, feelings, theories, and experiences about the topic at hand. Coming to a shared opinion and entering a pool of a shared meaning helps our synergy with team members in many ways. Adding information to the shared pool of meaning requires each person to take meaningful ownership of their role in the conversation. 
 3. **Start with the Heart:** If you can’t get yourself right, you’ll have a hard time getting dialogue right by looking inward first. Apply empathy in the moment by asking questions to yourself that return you to the dialogue:
    - What do I really want for myself?
    - What do I really want for others?
@@ -46,7 +46,7 @@ These are just a few strategies outlined in the Crucial Conversation book. We [h
 
 | GitLab Value | Crucial Conversation Connection |
 | ----- | ----- |
-| [Collaboration](/handbook/values/#collaboration) | Crucial conversations are introduced not just by people leaders but by all GitLab team members. We are all managers of one and should feel enabled to open crucial conversations whenever necessary |
+| [Collaboration](/handbook/values/#collaboration) | Crucial conversations are introduced not just by people leaders but by all GitLab team members. We are all managers of one and should feel enabled to open crucial conversations whenever necessary. Building a shared pool of meaning in a discussion requires everyone in the conversation to share to be successful. |
 | [Results](/handbook/values/#results) | Crucial conversations are results-oriented. Conversations should focus on action that will improve the situation or problem for all members involved in the conversation. |
 | [Efficient](/handbook/values/#efficiency) | Crucial conversations can be evaluated via the CPR (Content, Pattern, Relationship) method to determine the root cause of the conflict or problem. This method allows for efficiency in approaching crucial conversations with specific tools depending on the context.
 | [Diversity, Inclusion, and Belonging](/handbook/values/#diversity-inclusion) | Everyone has a shared voice in a crucial conversation. The goal is to fill a shared pool of knowledge with facts and stories from all points of view. Hosts of crucial conversations should be open to having their stories challenged. |
@@ -102,6 +102,7 @@ Having crucial conversations via a Zoom call might be more difficult than having
 1. In a video call, we might miss out on key body language markers that are more apparent when having conversations in person. Focus on the body language queues we can see. Does someone who typically uses video have their video off, or does someone turn their video off suddenly? Does the person seem to be looking away or looking down, avoiding the screen?
 1. If an async conversation is starting to get heated and is veering away from productive dialogue, move to a synchronous call to increase safety.
 1. Async conversations make it easier for us to hold off a response until emotions cool off, preventing a fight or flight response. This can be helpful in some cases but watch out for its detriments. It's important to speak up about projects or conversations that make you feel upset or unheard.
+1. It's easy to assign tone to text-based communication. The tone we assign can influence the story we tell ourselves. We can avoid this by [assuming positive intent](/handbook/values/#assume-positive-intent).
 1. Make space for pause. Silent pauses on a phone call might feel awkward or uncomfortable. These pauses are necessary for people to process feelings and stress and craft thoughtful responses during crucial conversations. Try using these phrases if you need to create a space for silence:
      - `Can we wait one second before moving on to that topic?`
      - `I need a minute to think through this one.`
