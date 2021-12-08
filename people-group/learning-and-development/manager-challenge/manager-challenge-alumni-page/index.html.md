@@ -35,7 +35,12 @@ GitLab offers the following benefits for team members to receive coaching:
 
 ### LifeLabs Learning
 
-GitLab L&D is exploring additional management training with [LifeLabs Learning](https://lifelabslearning.com/). More details to come. 
+Starting in January 2022, the L&D team will be piloting LifeLabs Learning to a grow of ten people leaders across the organization. LifeLabs Learning is the go-to team member resource for over 1000 organizations. They offer leadership and people-skills training that blends science, playfulness, and practical tools. 
+
+The pilot audience will be participating in the [Manager Core 1](https://drive.google.com/file/d/1MJmxjrMSSCq3lWOOks-vMnzdzPucI0jp/view) and [Manager Core 2](https://drive.google.com/file/d/1f0HhqBfGn1lnaYSMHcYYqauwyOkNHS0R/view) training curriculum. 
+
+You can follow along in the #lifelabs-learning-pilot channel
+
 
 ### Leadership Chats
 
@@ -43,7 +48,7 @@ Join the [Leadership Chats](/handbook/people-group/learning-and-development/mana
 
 ## Aspiring Managers Resources
 
-- Slack Channel
+Check out the #aspiring-managers Slack channel to learn more about the activities aspiring managers are doing on their path towards leadership. 
 
 ### Self Paced Learning 
 
