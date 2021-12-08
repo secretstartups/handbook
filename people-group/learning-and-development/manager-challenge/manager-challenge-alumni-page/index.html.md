@@ -33,6 +33,8 @@ GitLab offers the following benefits for team members to receive coaching:
 
 2. [Growth & Development Budget](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/): Team members have access to up $10,000 USD to use for professional development, including coaching. Managers can find coaches and use the funds for personalized leadership coaching that is action-oriented for professional development. 
 
+**Note:** L&D is exploring a formalized coaching program for the organization
+
 ### LifeLabs Learning
 
 Starting in January 2022, the L&D team will be piloting LifeLabs Learning to a grow of ten people leaders across the organization. LifeLabs Learning is the go-to team member resource for over 1000 organizations. They offer leadership and people-skills training that blends science, playfulness, and practical tools. 
@@ -40,7 +42,6 @@ Starting in January 2022, the L&D team will be piloting LifeLabs Learning to a g
 The pilot audience will be participating in the [Manager Core 1](https://drive.google.com/file/d/1MJmxjrMSSCq3lWOOks-vMnzdzPucI0jp/view) and [Manager Core 2](https://drive.google.com/file/d/1f0HhqBfGn1lnaYSMHcYYqauwyOkNHS0R/view) training curriculum. 
 
 You can follow along in the #lifelabs-learning-pilot channel
-
 
 ### Leadership Chats
 
@@ -50,10 +51,9 @@ Join the [Leadership Chats](/handbook/people-group/learning-and-development/mana
 
 Check out the #aspiring-managers Slack channel to learn more about the activities aspiring managers are doing on their path towards leadership. 
 
-### Self Paced Learning 
-
 ### Coffee Chat with Manager Challenge Alumni
 
 If you are interested in participating in the [Manager Challenge program](/handbook/people-group/learning-and-development/manager-challenge/), feel free to schedule a coffee chat with any of the Manager Challenge alumni. You can review the list of alumni below. The chats are helpful to gain a better understanding of the program, what to expect, and how to participate. 
 
 ## List of past Manager Challenge Participants
+
