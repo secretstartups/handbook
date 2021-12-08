@@ -69,15 +69,24 @@ Depending on the level of customer impact, either Technical Support or TAM organ
 
 - For medium, high and critical-level escalations, create an escalation document using the [Escalation Tracker Template](https://docs.google.com/document/d/1DFW9WDigDZTRQlArqvyaLl_GcYi5lwsxKKKtcjB49s0/edit#) (internal GitLab access only). 
     - Save the document for each individual customer and replace (CUSTOMER) with the customer name.
+- Create a mutually shared Google doc with the customer
+    - Capture discussion items in a list with status
+    - Run through the list with the customer looking at the same list
+    - Follow-up with meeting notes (decisions, action items, or open issues)
+    - If the customer cannot access Google docs, then create an issue in the customer collaboration project to serve the same purpose
 - Create a temporary slack channel to facilitate communication internally at GitLab. This will remain open until the escalation is closed and should be documented in the escalation document. 
 - When a customer escalation is defined, the escalation document and the name of the temporary slack channel should be posted into the `#escalated_customers` channel by the escalation owner (i.e., Support for Low/Medium severity, TAM for high/critical severity escalations). The posting to this channel should occur:
     - when the escalation is identified and created
+    - posting daily updates
     - when the escalation is closed or risk reduced to standard business process to manage (i.e., issue resolved and monitoring the solution)
     - The `#escalated_customers` channel is for awareness only and is not intended to replace the dedicated slack channel created as above, the account or support channels. Leverage the specific escalation channel created for working communications, collaborations and executive updates.
 - Maintain the escalations document
+    - Account Summary: Basic customer information (ARR, Renewal date, customer contact list, etc.), but also defines who the DRI is for the escalation and keeping the escalation doc updated
+        - DRI: Always include the TAM, but also useful to include DRI's from Support, Professional Services, Product or Engineering
     - Executive Summary: This section does not need to be updated daily but should be updated when there are changes to the status of the overall engagement (e.g., top-level issue status, milestones, etc.)
-    - Milestones should include key customer and GitLab milestones
-    - Capture escalation-related meetings
+    - *Optional*: Milestones should include key customer and GitLab milestones
+    - Timeline: For an ongoing escalation or emergency call, a running timeline of what's going on, what's been tried, what's failed, etc. is helpful for anyone coming into an ongoing call.
+    - Meeting notes: Capture notes from both customer and internal meetings
     - Document updates at a cadence defined by the level of the escalation 
     - Copy any key updates or next steps from other channels like Slack
 - When the issue(s) related to the escalation are resolved or move into a non-escalated state:
