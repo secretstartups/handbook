@@ -9,6 +9,8 @@ title: "Tax Treatment of Stock Options at GitLab New Zealand"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+The information on this page should be used for discussion purposes only. For any personal advice please reach out to a tax professional.
+
 ### Equity Award
 Stock Option Plan
 
