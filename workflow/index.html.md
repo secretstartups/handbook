@@ -99,7 +99,7 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
      * Ask for assistance in the `#development` Slack channel if there is no
        merge request that caused the `~"master:broken"`.
 1. Communication
-   * Communicate `~"master:broken"` in `#development`, `#backend`, and `#frontend`.
+   * Communicate `~"master:broken"` in `#development`, `#backend`, and `#frontend` using the Slack Workflow. Click the Shortcut lightning bolt icon in the `#master-broken` channel and select "Broadcast Master Broken". Continue the broadcast after the automated message in `#master-broken`. 
 1. (Optional) Pre-resolution
    * If the triage DRI believes that there's an easy resolution by either:
      * Reverting a particular merge request.
