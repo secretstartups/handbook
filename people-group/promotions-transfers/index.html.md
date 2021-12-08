@@ -178,7 +178,7 @@ If you recieve a job change or letter of adjustment to an interim or acting role
 
 ## For Managers: Requesting a Promotion or Compensation Change
 
-Please note that promotions will [freeze](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-change-freeze) from 2020-12-01 to 2020-02-01 due to Annual Compensation Review. Please ensure all promotions are submitted to BambooHR by December 1st.
+Please note that promotions will [freeze](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-change-freeze) from 2021-12-01 to 2022-02-01 due to Annual Compensation Review. Please ensure all promotions are submitted to BambooHR by December 1st.
 
 To promote or change compensation for one of your direct reports, do the following steps:
 
