@@ -46,10 +46,10 @@ If you have any questions, please feel free to direct them to `@jgragnola` in th
 <!-- DO NOT CHANGE THIS ANCHOR -->
 The below are the categorizations for FY22. As the Account Based Marketing [evaluates and updates the FAL process for FY23](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2475) in collaboration with Marketing, Sales, and Customer Success, this this section will be updated, and changes will be communicated across the teams for full transparency. If you have any questions, please feel free to direct them to `@jgragnola` in the [#abmteam slack channel](https://gitlab.slack.com/archives/CFBT2HSEB).
 
-* **Volume**: Default selection for all accounts that are not currently in an `account centric` or `abm` motion.
-* **TOTAL ADDRESSABLE MARKET**: All `first order available` accounts that are not in our account centric motion
-* **ACCOUNT CENTRIC**: 1:many marketing strategy.  Sometime referred to as programmatic ABM.
-* **ABM**: All accounts that are currently in our ABM programs (1:1 and 1:few).
+1. **ABM**: accounts being targeted with a higher-touch `1:1` or `1:few` ABM campaign.
+1. **ACCOUNT CENTRIC**: accounts being targeted with a `1:many` ABM campaign.
+1. **TOTAL ADDRESSABLE MARKET**: `first order available` accounts not being targeted with ABM tactics.
+1. **VOLUME**: All other accounts (**not** `first order available` and not being targeted with ABM tactics)
 
 ## Terminology & Definitions
 {: #terminology .gitlab-purple}
