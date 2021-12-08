@@ -132,14 +132,14 @@ We follow the [OKR (Objective and Key Results)](https://about.gitlab.com/company
 <% billing_ar_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| billing_ar.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: billing_ar_members }) %>
 
-## How we work
+## Project management process
 
 * In accordance with our [GitLab values](/handbook/values/)
 * Transparently: nearly everything is public, we record/livestream meetings whenever possible
 * We get a chance to work on the things we want to work on
 * Everyone can contribute; no silos
 
-### SAFE Fulfillment
+### Keeping our work SAFE
 
 Working in [SAFE manner](https://about.gitlab.com/handbook/legal/safe-framework/) at GitLab is everyone's responsibility. We along with our stable counterparts in Sales and Billing contribute to an area of the product that potentially could encounter sensitive or financial information, and could have an effect on the business as a whole. Therefore, it's important for Fulfillment team members to ensure that the SAFE epics, issues, videos, MRs, and other artifacts we produce are kept confidential.
 
@@ -162,7 +162,7 @@ Release scope for an upcoming release should be finalized by the `1st`.
 
 On or around the `26th`: Product meets with Engineering Managers for a preliminary issue review. Issues are tagged with a milestone and are estimated initially.
 
-#### Planning Issues
+**Planning Issues**
 
 - [Purchase](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues?scope=all&state=opened&label_name[]=Planning%20Issue&label_name[]=Category%3APurchase)
 - [License](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues?scope=all&state=opened&label_name[]=Planning%20Issue&label_name[]=Category%3ALicense)
@@ -195,7 +195,7 @@ In planning and estimation, we value [velocity over predictability](/handbook/en
 - If an issue has many unknowns, we can break it into two issues. The first issue is for research, also referred to as a [Spike](https://en.wikipedia.org/wiki/Spike_(software_development)), where we de-risk the unknowns and explore potential solutions. The second issue is for the implementation.
 - If an initial estimate is incorrect and needs to be adjusted, we revise the estimate immediately and inform the Product Manager. The Product Manager and team will decide if a milestone commitment needs to be adjusted.
 
-#### Estimation Template
+**Estimation Template**
 
 The following is a guiding mental framework for engineers to consider when contributing to estimates on issues.
 
@@ -265,7 +265,7 @@ The following table will be used as a guideline for scheduling work within the m
 | Features    | 14%            | non-critical                                                                               |
 | Other       | 20%            | engineer picks, critical security/data/availability/regression, urgent business priorities |
 
-#### Organizing the work
+### Workflow
 
 We generally follow the [Product Development Flow](/handbook/product-development-flow/#workflow-summary):
 1. `workflow::problem validation` - needs clarity on the problem to solve
@@ -328,7 +328,7 @@ We do this to encourage our team to be more async in collaboration and to allow 
 
 GitLab's Quality is everyone's responsibility. The [SETs](/handbook/engineering/quality/#stable-counterparts) embedded within Fulfillment section follow the [Quality Engineering Departments's principles](https://about.gitlab.com/handbook/engineering/quality/#our-principles) primarily to ensure that everyone is aware of product quality.
 
-#### Quad-planning workflow
+**Quad-planning workflow**
 
 The SETs helps facilitate the quad-planning process. This is the participation of Product Management, Development, UX, and the Quality team which aims to bring test planning as a topic before the development of any feature.
 
@@ -336,7 +336,7 @@ We follow the Quad Planning process defined [here](https://about.gitlab.com/hand
 
 [Quad Planning Dashboard](https://app.periscopedata.com/app/gitlab/634305/Quad-Planning-Dashboard?widget=8844548&udv=1040834) showcases the total Planned issues for Quad Planning vs the actual ones for each milestone.
 
-#### Tests
+## Testing
 
 The CustomersDot has different types of tests running:
 
@@ -352,7 +352,7 @@ Any test failure is notified to #s_fulfillment_status including a link to the pi
 
 ### Deployment
 
-### Release of Revenue Impacting Changes
+### Revenue impacting changes
 
 Fulfillment is unique in Engineering because our changes can directly impact revenue. Changes which impact revenue or are otherwise high risk may require broader scrutiny including input from teams outside of Fulfillment. PM is the DRI on these decisions, taking input from stakeholders including Sales, Enterprise Applications, Marketing, Finance, and Customer Support.
 
@@ -407,7 +407,7 @@ The app lives at https://license.gitlab.com
 
 The `staging` environment can be found [here](https://gitlab-org-license-gitlab-com-staging.license-stg.gitlab.org)
 
-#### Escalation Process
+#### Escalation process
 
 In most cases an MR should follow the standard process of review, maintainer review, merge, and deployment as outlined above. When production is broken:
 
@@ -469,11 +469,6 @@ These dashboards are designed to give an insight, to everyone working in a featu
 - [Purchase](https://dashboards.gitlab.net/d/stage-groups-purchase/stage-groups-group-dashboard-fulfillment-purchase)
 - [Utilization](https://dashboards.gitlab.net/d/stage-groups-subscription/stage-groups-group-dashboard-fulfillment-utilization)
 
-### Measuring Engineering Performance
-
-See the [Fulfillment Section Performance Indicators](/handbook/engineering/development/performance-indicators/fulfillment/) as well as the
-[Centralized Engineering Dashboards](/handbook/engineering/metrics/).
-
 ### CustomersDot Engineer:Maintainer Ratio
 
 <embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 825250, chart: 11035807, embed: 'v2') %>">
@@ -486,19 +481,9 @@ Some considerations that differ from other maintainer ratios:
 2. GitLab maintainer ratios are Mantainers vs Maintainers + Reviewers
 3. GitLab maintainer ratios do not count full-stack engineers properly (Fulfillment one does)
 
-### Meetings (Sync)
-
-We hold optional synchronous social meetings weekly where we chat about anything outside work.
-These meetings happen each Wednesday alternating between 10:00am UTC (EMEA) and 4:00pm (AMER).
-Check the [Fulfillment Google calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_7199q584haas4tgeuk9qnd48nc%40group.calendar.google.com&ctz=America%2FBogota) for more information.
-
 ### Retrospectives
 
 After the `8th`, the Fulfillment team conducts an [asynchronous retrospective](/handbook/engineering/management/team-retrospectives/). You can find current and past retrospectives for Fulfillment in [https://gitlab.com/gl-retrospectives/fulfillment/issues/](https://gitlab.com/gl-retrospectives/fulfillment/issues/).
-
-### Onboarding
-
-To be added
 
 
 ## Iteration Retrospectives
@@ -618,9 +603,22 @@ Use these prompts or similar to start conversation threads.
 /label ~"Iteration Retrospective"
 ```
 
-## Performance indicators
+## Meetings
+
+We hold optional synchronous social meetings weekly where we chat about anything outside work.
+These meetings happen each Wednesday alternating between 10:00am UTC (EMEA) and 4:00pm (AMER).
+Check the [Fulfillment Google calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_7199q584haas4tgeuk9qnd48nc%40group.calendar.google.com&ctz=America%2FBogota) for more information.
+
+## Onboarding
 
 To be added
+
+## Performance indicators
+
+### Measuring Engineering Performance
+
+See the [Fulfillment Section Performance Indicators](/handbook/engineering/development/performance-indicators/fulfillment/) as well as the
+[Centralized Engineering Dashboards](/handbook/engineering/metrics/).
 
 ## Knowledge sharing
 
