@@ -87,28 +87,27 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * **Content Marketing DRI:**  
 * **Official Content Name:** 
 * **Official Content Type:** 
-* **Primary GTM Motion:** `CI/CD` `DevOps Platform` OR `GitOps`
-* **Primary Sales Segment:** `Large`, `Mid-Market`, or `SMB`
-* **Primary Buying Stage:** `Awareness`, `Consideration`, or `Decision/purchase`
-* **Primary Use Case:** 
+* **Primary Campaign:** (choose one) CI/CD, DevOps Platform, GitOps, OR DevSecOps
+* **Primary Sales Segment:** (select all approrpiate) Large, MM, and/or SMB
+* **Primary Buying Stage:** (choose one) Awareness, Consideration, OR Decision/Purchase
 * **Primary Persona:** 
 * **Language:** 
-* **Marketo Program Name:** `YYYY_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_BegGuideGitOps`. This will be used for MKTO/SFDC program. -->
-* [ ] ~~[main salesforce program]()~~
-* [ ] ~~[main marketo campaign]()~~
+* **Marketo Program Name:** `YYYY_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short `YYYY_NameAsset` - i.e. `2020_BegGuideGitOps`. This will be used for MKTO/SFDC program. -->
+* [ ] [main salesforce program]()
+* [ ] [main marketo campaign]()
 * [ ] [asset copy draft]() - `doc to be added by Content Marketing`
 * [ ] [pathfactory track link]() - `link to PF track (the track in PF, not the live link) when created`
 
 
 ### :books:  Issues to Create
 
-[Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
+[Use the No. 1 (no landing page) or No. 3 (contains landing page) workback timeline in the calculator linked here to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
 **Required Issues:**
 * [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493)
 * [ ] [Asset Copy Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=content-resource-request) - Content
 * [ ] [Asset Design Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=design-request-content-resource) - Digital Design
-* [ ] [Pathfactory Upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - Content
+* [ ] [Pathfactory Upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - Content (feel free to just upload and comment in the epic with the link)
 * [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
 * [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
 
@@ -163,23 +162,22 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * **External Content (i.e. AR) DRI:**  
 * **Official Content Name:** 
 * **Official Content Type:** 
-* **Primary GTM Motion:** `CI/CD` `DevOps Platform` OR `GitOps`
-* **Primary Sales Segment:** `Large`, `Mid-Market`, or `SMB`
-* **Primary Buying Stage:** `Awareness`, `Consideration`, or `Decision/purchase`
-* **Primary Use Case:** 
+* **Primary Campaign:** (choose one) CI/CD, DevOps Platform, GitOps, OR DevSecOps
+* **Primary Sales Segment:** (select all approrpiate) Large, MM, and/or SMB
+* **Primary Buying Stage:** (choose one) Awareness, Consideration, OR Decision/Purchase
 * **Primary Persona:** 
 * **Language:** 
 * **Budget:** <!-- Match to Allocadia -->
-* **Marketo program name:** `YYYY_Vendor_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_Gartner_MQARO`. This will be used for MKTO/SFDC program. -->
-* [ ] ~~[main salesforce program]()~~
-* [ ] ~~[main marketo campaign]()~~
+* **Marketo Program Name:** `YYYY_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short `YYYY_NameAsset` - i.e. `2020_Gartner_MQARO`. This will be used for MKTO/SFDC program. -->
+* [ ] [main salesforce program]()
+* [ ] [main marketo campaign]()
 * [ ] [pathfactory track link]() - `link to PF track (the track in PF, not the live link) when created`
 
 ### [Pathfactory & Resource Page Copy]() - `doc to be added by Content Owner` ([use template here](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1837173931)
 
 ### :books:  Issues to Create
 
-[Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
+[Use the No. 2 (no landing page) or No. 4 (contains landing page) workback timeline in the calculator linked here to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
 **Required Issues:**
 * [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493)
