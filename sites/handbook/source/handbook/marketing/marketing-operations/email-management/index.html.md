@@ -41,9 +41,11 @@ We have a Marketo enforced limit on how many emails a single address can recieve
 
 The email limits are not set in campaign templates, however, if your email is set to send to more than 20,000 people, you must include a filter for `Not Sent Email in last 2 Days`.
 
-Certain emails can bypass unsubscribe and invalid emails by being marked as `operational`. Examples include critical system alerts, account updates (policy updates, etc.), event reminders with necessary link to attend event, and auto-responders for post event recording and slides emails. Please folloow this decision tree for auto-responder emails to help determine whether or not your email fits the operational standards. If they do not, you must include the proper email compliance filters in order to send the email, and also uncheck the operational check box on the email.
 
-Emails that contain mostly marketing or promotional content like newsletters, event invites and sales emails are not considered `operational`. Only Mops and certain MCMs have access to this feature in Marketo. If you have any questions on whether or not your email is operational, contact MOps. **When in doubt, ask!** [This Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1609875791482/41f0f728c4353fce6b50338f7ca7cc032acf1f11) contains examples to help you make your decision.
+### Operational / Bypass Unsubscribe
+Certain emails can bypass unsubscribe and invalid emails by being marked as `operational`. Examples include critical system alerts, account updates (policy updates, etc.), event reminders with necessary link to attend event, and auto-responders for post event recording and slides emails. Please follow this [decision tree](https://app.mural.co/t/gitlab2474/m/gitlab2474/1609875791482/41f0f728c4353fce6b50338f7ca7cc032acf1f11) for auto-responder emails to help determine whether or not your email fits the operational standards. If they do not, you must include the proper email compliance filters in order to send the email, and also uncheck the operational check box on the email. 
+
+Emails that contain mostly marketing or promotional content like newsletters, event invites and sales emails are not considered `operational`. Only MktgOps and certain MCMs have access to this feature in Marketo. If you have any questions on whether or not your email is operational, contact MktgOps, who will bring in Legal for a final review. **When in doubt, ask!**
 
 
 
