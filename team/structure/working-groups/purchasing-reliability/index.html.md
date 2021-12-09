@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
-title: "Fulfillment Reliability Working Group"
-description: "Learn more about Fulfillment Reliability Working Group attributes, goals, roles and responsibilities."
-canonical_path: "/company/team/structure/working-groups/fulfillment-reliability/"
+title: "Purchasing Reliability Working Group"
+description: "Learn more about Purchasing Reliability Working Group attributes, goals, roles and responsibilities."
+canonical_path: "/company/team/structure/working-groups/purchasing-reliability/"
 ---
 
 ## On this page
@@ -17,13 +17,13 @@ canonical_path: "/company/team/structure/working-groups/fulfillment-reliability/
 |-----------------|-----------------|
 | Date Created    | 2021-12-01 |
 | Target End Date | - |
-| Slack           | [#wg_fulfillment_reliability](https://gitlab.slack.com/app_redirect?channel=C02PQ4U0E7K) (only accessible from within the company) |
-| Google Doc      | [Fulfillment Reliability Working Group Agenda](https://docs.google.com/document/d/1m6sozlyvEIEKcEIPF2_nujrYTOV3IPpx_jaPXD1hPpU/edit) (only accessible from within the company) |
+| Slack           | [#wg_purchasing_reliability](https://gitlab.slack.com/app_redirect?channel=C02PQ4U0E7K) (only accessible from within the company) |
+| Google Doc      | [Purchasing Reliability Working Group Agenda](https://docs.google.com/document/d/1m6sozlyvEIEKcEIPF2_nujrYTOV3IPpx_jaPXD1hPpU/edit) (only accessible from within the company) |
 | Issue Label | ~WorkingGroup::Fulfillment  |
 
 ## Business Goals
 
-A fulfillment system that is well-documented and easily understood by all stakeholders.
+A purchase and ordering system that is well-documented and easily understood by all stakeholders.
 The system will be resiliant, reliable, and observable from the ground-up.
 In addition to addressing our current use-cases, the system will easily accomodate the addition
 of new purchasing workflows (like channel partners), metered billing, and project Horse.
@@ -33,13 +33,18 @@ up-sell opportunities directly in the product.
 
 ## Definitions
 
-### What is Fulfillment?
+### What is Purchasing?
 
 At GitLab, "fulfillment" generally refers to the [Fulfillment Sub-department](/handbook/engineering/development/fulfillment/) of Engineering.
 
-For the purposes of this Working Group, "fulfillment" is an all-encompasing term to describe
+To avoid confusion, this Working Group uses "purchasing" as an all-encompasing term to describe
 the end-to-end purchasing experience including (but not necessarily limited to) ordering, billing,
-licensing, as well as all of our internal workflows (like lead generation for Sales, and reporting for Finance). 
+licensing, fulfillment, and all of our internal workflows
+(like lead generation for Sales, and reporting for Finance).
+
+Be aware if you see the term "fulfillment" used casually in the context of this Working Group,
+it is likely referring to the entire "purchasing system", not the
+[Fulfillment Sub-department](/handbook/engineering/development/fulfillment/) specifically.
 
 ## Related Projects & Documentation
 
@@ -69,7 +74,7 @@ This will help bring CustomersDot inline with the rest of our application stack 
 but the application will still need to be instrumented and alerting configured in order to address our current
 lack of observability and insight into this app.
 
-### Engineering
+### Engineering (Fulfillment)
 
 - [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com)
 - [LicenseDot](https://gitlab.com/gitlab-org/license-gitlab-com)
@@ -101,7 +106,7 @@ defining a clear vision and team/service boundaries going forward.
 |-----------------------|-----------------------|-------------------------------------------------|
 | Executive Sponsor     | Sid Sijbrandij        | CEO                                             |
 | Facilitator           | Marshall Cottrell     | Principal Strategy and Operations (Technical)   |
-| Functional Lead       |                       |                                                 |
+| Functional Lead       | Jerome Z Ng           | Senior Engineering Manager, Fulfillment         |
 | Member                |                       |                                                 |
 | Member                |                       |                                                 |
 
