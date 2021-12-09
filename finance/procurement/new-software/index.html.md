@@ -14,17 +14,17 @@ title: New software
 {:toc}
 
 ## How Do I Purchase New Software
-- If you are looking to purchase software from a new supplier, review the policy for selecting new suppliers on the "Vendor Management" page.
-- Do NOT agree to ANY business, legal, and or pricing prior to engaging the procurement team. 
+- If you are looking to purchase software from a new supplier, review the policy for selecting new suppliers on the [Vendor Selection Process](https://about.gitlab.com/handbook/finance/procurement/vendor-selection-process/) page.
+- Do NOT agree to ANY business, legal, and or pricing prior to engaging the Procurement Team. 
     - This ensures alignment across the multiple functions to make good-faith commitments to vendors and don’t put our company in to possible risk.
 
 
 ## How Do I Submit a Request to Purchase New Software?
 - Once you've chosen your software vendor and have followed the Bid Requirements per above follow these instructions:
 1. [Login to Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
-2. Under "Forms", select "New Supplier Request" complete the required fields, and click "Review".
+2. Go to the "Forms and Quick Links" section (right side of main screen), select "Request a New Supplier", complete the required fields, and click "Review".
     - Allow 1-2 business days for processing.
-3. Once your New Supplier is entered into the system, - Click on "Write a Request" in the upper right, under the search bar.
+3. Once your New Supplier is entered into the system, click on "Write a Request" in the upper right, under the search bar.
 4. Enter the required Fields and "Add to Cart"
 5. Click on your Cart in the upper right, complete remaining fields. Be prepared to include the following:
     - Whether or not the software will have access to [red and/or orange data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-levels) 
