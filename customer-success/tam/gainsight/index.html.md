@@ -36,7 +36,8 @@ When hovering on the far left of the screen, a sidebar will pop up that has a fe
 - Cockpit - the Cockpit is where [CTAs](/handbook/customer-success/tam/gainsight/ctas/) live; this Cockpit view shows all CTAs for all of your customers, including success plan objectives.
 
 #### Further detail on specific dashboards
-1. [TAM Proactive Dashboard](https://about.gitlab.com/handbook/customer-success/tam/gainsight/dashboards/)
+1. [TAM Proactive Dashboard](https://about.gitlab.com/handbook/customer-success/tam/gainsight/dashboards/#tam-proactive-dashboard)
+1. [TAM Key Metrics Dashboard](https://about.gitlab.com/handbook/customer-success/tam/gainsight/dashboards/#tam-key-metrics-dashboard)
 
 ### Customer 360
 
