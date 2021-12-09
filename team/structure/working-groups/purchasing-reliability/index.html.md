@@ -98,7 +98,13 @@ The charter of this working group is to obtain alignment between stackholders (i
 Enterprise Apps, Sales, and Finance). This includes addressing some immediate-term technical debt as well as
 defining a clear vision and team/service boundaries going forward.
 
-1. TBD
+1. Relevant systems (namely CustomerDot) fully migrated from Azure to GCP
+1. Improved logging, observability, and well-defined metrics
+    - Applications updated with approppriate instrumentation
+    - Alerts are defined, configured, and monitored by SREs (either from Infra or Fulfillment)
+1. Data models, touchpoints between integrations and services are documented and consistent
+1. Single Source of Truth (SSoT) is identified (and respected) for each data model
+    - Any data currently stored in multiple systems is consolidated
 
 ## Roles and Responsibilities
 
