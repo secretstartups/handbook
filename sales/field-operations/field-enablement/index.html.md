@@ -162,9 +162,9 @@ Knowledge x Practice = Capability
 </details>
 
 <details>
-<summary markdown="span">5. What is most important right now (1HFY22)?</summary>
+<summary markdown="span">5. What is most important right now (2HFY22)?</summary>
 
-[**FY22-Q3 Field Enablement OKRs**](https://gitlab.com/groups/gitlab-com/-/epics/1537)
+[**FY22-Q4 Field Enablement OKRs**](https://gitlab.com/groups/gitlab-com/-/epics/1614)
 
 </details>
 
@@ -179,10 +179,12 @@ Knowledge x Practice = Capability
 - **[Role-based Enablement Managers](/job-families/sales/program-manager-field-enablement/)**
     - Enterprise Sales Enablement: [Emelie Rodriguez](/company/team/#emelier)
     - Commercial Sales Enablement: [Kelley Shirazi (*acting*)](/company/team/#kelley-shirazi)
-        - Commercial Sales Enablement, EMEA: TBH
+        - Commercial Sales Enablement, EMEA: [Cristian Enache](https://about.gitlab.com/company/team/#cenache)
     - Partner Enablement: [Blair Fraser](/company/team/#bfraser)
     - Solution Architect and Technical Enablement: [Thabo Bopape](/company/team/#tbopape)
     - Technical Account Manager Enablement: [Pallavi Daliparthi](/company/team/#pdaliparthi)
+- **[Director, Revenue Programs](https://about.gitlab.com/job-families/sales/revenue-programs/#director-revenue-programs)**
+    - [Allison Gleisner](/company/team/#agleisner) 
 - **[Field Enablement Program Managers](/job-families/sales/program-manager-field-enablement/)**
     - Field Onboarding and Continuous Education: [John Blevins](/company/team/#jblevins608)
     - Field Manager Development: [David Somers (*acting*)](/company/team/#dcsomers)
