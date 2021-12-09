@@ -426,7 +426,7 @@ The feature freeze for Fulfillment occurs at the same time as the rest of the co
 
 Any issues not merged on the current milestone post feature freeze, will need to be moved to the next one (priority may also change for those).
 
-### Incident Management
+### Incident management
 
 On going [InfraDev](/handbook/engineering/development/fulfillment/infradev/) work will provide greater observability to all of the Fulfillment systems. In the meantime, however, we have some tools like [Cabot](https://cabotapp.com/) that post to [#s_fulfillment_status](https://gitlab.slack.com/archives/CL7SX4N86) in Slack. On occasion, there are reports of systemic critical trouble like a liveliness probe check failure, invalid SSL certificate, or other application errors. Look to the following sub-sections below for ways that you can contribute to error resolution.
 
@@ -440,7 +440,7 @@ See this handbook page for more information on [GitLab Monitoring](https://about
 - Grafana has some [triage dashboards](https://dashboards.gitlab.net/d/RZmbBr7mk/gitlab-triage?orgId=1&refresh=5m) that are generally applicable for GitLab, but do not contain specific observability metrics for Fulfillment systems until the InfraDev work is complete.
 - Blackbox probes reporting production availability alerts are reported to [#production in Slack](https://app.slack.com/client/T02592416/C101F3796/)
 
-#### Declaring Incidents
+#### Declaring incidents
 
 [Raising an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) is always an option if you need immediate attention on a blocking problem.
 
@@ -454,7 +454,7 @@ Critical problems like a production outage should be raised quickly. You can che
 - Failed CustomersDot deploy
 - ??
 
-#### Fulfillment Group Grafana Dashboards
+#### Grafana dashboards
 
 These dashboards are designed to give an insight, to everyone working in a feature category, into how our code operates at GitLab.com scale.
 
@@ -472,12 +472,12 @@ The Program Manager, Cloud Licensing (currently Wayne Haber) will be primarily r
 
 ### Retrospectives
 
-#### Monthly Retrospectives
+#### Monthly retrospectives
 
 After the `8th`, the Fulfillment team conducts an [asynchronous retrospective](/handbook/engineering/management/team-retrospectives/). You can find current and past retrospectives for Fulfillment in [https://gitlab.com/gl-retrospectives/fulfillment/issues/](https://gitlab.com/gl-retrospectives/fulfillment/issues/).
 
 
-#### Iteration Retrospectives
+#### Iteration retrospectives
 
 There are several resources at GitLab for improving our iteration capability:
 
@@ -637,7 +637,6 @@ Some considerations that differ from other maintainer ratios:
 - [CustomersDot Resource Video Library](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/resource_videos.md)
 - [Zuora University Select Topics](https://university.zuora.com/series/courses-by-topic#filter-by-9-keys_integrations)
 - [Confidential Issue Git Pre-push Hook](https://gitlab.com/gitlab-org/gitlab/-/issues/332471) to prevent any accidental push to any non-Gitlab Security remote whenever a developer works on a _confidential issue_. Reference: [How to customize Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks).
-
 
 
 ## Common links
