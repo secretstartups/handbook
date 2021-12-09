@@ -16,9 +16,7 @@ title: Personal Use Software
 ## I Need Personal Use Software- Where Do I Start?
 - If you need a personal-use software subscription, please first check the list of [Tech Stack applications](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=1906611965).
     - If your vendor is listed in the tech stack, please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) to gain access
-- If your vendor is not listed in the tech stack, please reference this spreadsheet of pre-approved vendors [to be created from ZenGRC list of screened/approved vendors] to see if GitLab has an existing agreement with your desired software vendor.
-    - If GitLab does have an existing agreement with your preferred vendor, please contact the designated business owner listed in the spreadsheet to inquire about the appropriate process for obtaining access and/or a license.
-- If GitLab does not have any existing agreements with your preferred vendor, please consider whether one of our existing vendors, either in the official Tech Stack or in our list of pre-approved vendors, may be able to service your needs adequately. It is always preferable to add users to existing agreements that have already been screened and approved where possible, as this decreases GitLab’s risk and grants you access to the tools you need sooner.
+- If GitLab does not have any existing agreements with your preferred vendor, please consider whether one of our existing vendors may be able to service your needs adequately. It is always preferable to add users to existing agreements that have already been screened and approved where possible, as this decreases GitLab’s risk and grants you access to the tools you need sooner.
 
 ## How Do I Submit a Request for New Personal Use Software?
 - If you cannot find an existing software vendor that provides the service you need, please submit a request through this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfWp2lnSKp0gTKBfZxol-YEkTst4gtOYpRJQvnVvDzhcGuxwg/viewform). 
