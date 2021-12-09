@@ -90,7 +90,7 @@ Invoices can be emailed to <i>[invoices@gitlab.coupahost.com](invoices@gitlab.co
     - If PO is hard/fully closed, it cannot be reversed.
 1. Payment batch creation:
     - Use the pre-set view "Payment Setup" which has filters applied to select anything for a vendor that is "payable" and due within 6 days and aged prior to the current date.
-     ![Payment-setup](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/Payment-setup.png "Payment Setup"){: .shadow}
+     ![Payment-setup](source/images/Payment-setup.png "Payment Setup"){: .shadow}
 1. How to remove an invoice from a payment batch:	
     - To remove a payment from a submitted batch, please add a comment to the batch and tag Misty Brown so that she can remove the payment and the request will be recorded in Coupa.
 1. Use of daily checklist to clear errors per [this issue](https://gitlab.com/gitlab-com/Finance-Division/ap-team/ap-project/-/issues/76). 
