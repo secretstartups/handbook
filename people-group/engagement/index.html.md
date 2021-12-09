@@ -174,7 +174,7 @@ TBC
 
 **Resource Allocation**
 1. Increased headcount from 1267 team members in December 2020 to 1574 team members in December 2021.
-1. Our average [promotion rate](https://about.gitlab.com/handbook/people-group/people-group-metrics/#promotion-rate) in 2021 is 16.77%, which is 5.67% higher than the benchmark: Radford US, Tech Promo Rate Market data as of Sept 2021 = 11,1%
+1. Our average [promotion rate](https://about.gitlab.com/handbook/people-group/people-group-metrics/#promotion-rate) in 2021 is 16.77%, which is higher than the average market promotion rate
 
 #### Questions and Support
 The GitLab Team Member Engagement Survey is managed by the `People Operations Specialists`, if you require support or have any questions around the survey please be sure to reach out via `#people-connect`.
