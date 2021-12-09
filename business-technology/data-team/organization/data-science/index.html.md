@@ -23,15 +23,17 @@ The team accomplishes this mission by building machine learning models and analy
 
 ## Projects
 
-### Propensity to Expand (PtE)
+### Propensity to Expand
 
+- Alias: PtE
 - Start Date: 2021-06-30
 - [Project](https://gitlab.com/gitlab-data/propensity-to-buy)
 - [Work breakdown](https://gitlab.com/groups/gitlab-data/-/epics/340)
 - Slack Channel: [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7)
 
-### Propensity to Contract (PtC)
+### Propensity to Contract
 
+- Alias: PtC
 - Start Date: 2021-11-01
 - [Project](https://gitlab.com/gitlab-data/propensity-to-contract)
 - [Work Breakdown](https://gitlab.com/groups/gitlab-data/-/epics/382)
