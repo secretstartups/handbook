@@ -64,6 +64,8 @@ Consider the following when documenting course content in the handbook:
 
 Google Chrome browsers can use the [copy link to highlight](https://support.google.com/chrome/answer/10256233?hl=en&co=GENIE.Platform%3DDesktop) feature. This will highlight a specified section of the handbook when clicked.
 
+Note that this will only work with Google Chrome, so be mindful of the audience you are reaching before using this kind of link.
+
 This kind of link is powerful to use when directing learners to the handbook as it **clearly marks where they should start and stop reading**.
 
 Here is an example of how to create these links: 
