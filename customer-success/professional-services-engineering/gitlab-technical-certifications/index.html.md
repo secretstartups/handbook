@@ -12,17 +12,19 @@ description: "Explore how GitLab Professional Services certifies engineers to va
 
 ## GitLab Technical Certifications
 
-GitLab offers technical certifications to help the GitLab community and team members validate their ability to apply GitLab in their daily DevOps work. To earn certification, candidates must first pass a written assessment, followed by a hands-on lab assessment graded by GitLab Professional Services engineers. 
+GitLab offers technical certifications to help the GitLab community and team members validate their ability to apply GitLab in their daily DevOps work. To earn certification, candidates must first pass a written assessment, followed by a hands-on lab assessment graded by GitLab Professional Services engineers.
 
 ### Getting Started
 
-To start your GitLab technical certification journey, you can sign up for an instructor-led [GitLab Certified Associate](https://about.gitlab.com/services/education/gitlab-certified-associate/) program or the [GitLab Certified Associate Self-Service](https://about.gitlab.com/services/education/gitlab-certified-associate-self-service/) option.
+For a full list of GitLab Certifications see the [GitLab Certifications page](/learn/certifications/public).
+
+To get started, consider the instructor-led [GitLab Certified Associate](https://about.gitlab.com/services/education/gitlab-certified-associate/) or the [GitLab Certified Associate Self-Service](https://about.gitlab.com/services/education/gitlab-certified-associate-self-service/) option.
 
 Once you've completed the GitLab Certified Associate, you can move on to Specialist certifications. 
 
 ### Overview
 
-GitLab is planning and developing several technical certifications to help the GitLab community and team members validate their ability to apply GitLab in their daily DevOps work. To earn certification, candidates must first pass a written assessment, followed by a hands-on lab assessment graded by GitLab Professional Services engineers. 
+GitLab is planning and developing several technical certifications to help the GitLab community and team members validate their ability to apply GitLab in their daily DevOps work. To earn certification, candidates must first pass a written assessment, followed by a hands-on lab assessment graded by GitLab Professional Services engineers.
 
 #### Certification Journey Structure and Flow
 
@@ -111,4 +113,3 @@ Here are the certifications GitLab have been fully launched in FY'21. Each set o
 ### Recertification
 
 GitLab Technical Certifications do not have an expiration date. Instead, GitLab uses a continuous model for recertification in which a certified individual can take the latest assessments at any time to receive an updated digital badge. The badge provides verification of the latest date certified for an efficient way to showcase staying up-to-date.
-
