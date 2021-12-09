@@ -19,7 +19,7 @@ canonical_path: "/company/team/structure/working-groups/purchasing-reliability/"
 | Target End Date | - |
 | Slack           | [#wg_purchasing_reliability](https://gitlab.slack.com/app_redirect?channel=C02PQ4U0E7K) (only accessible from within the company) |
 | Google Doc      | [Purchasing Reliability Working Group Agenda](https://docs.google.com/document/d/1m6sozlyvEIEKcEIPF2_nujrYTOV3IPpx_jaPXD1hPpU/edit) (only accessible from within the company) |
-| Issue Label | ~WorkingGroup::Fulfillment  |
+| Issue Label | ~WorkingGroup::Purchasing  |
 
 ## Business Goals
 

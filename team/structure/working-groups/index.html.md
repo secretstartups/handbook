@@ -127,7 +127,7 @@ If you are interested in participating in an active working group, it is general
 * [Expense Management](/company/team/structure/working-groups/expense-management/)
 * [FedRAMP Execution](/company/team/structure/working-groups/fedramp-execution/)
 * [Frontend Observability](/company/team/structure/working-groups/frontend-observability/)
-* [Fulfillment Reliability](/company/team/structure/working-groups/fulfillment-reliability/)
+* [Purchasing Reliability](/company/team/structure/working-groups/purchasing-reliability/)
 * [GitLab.com Disaster Recovery](/company/team/structure/working-groups/disaster-recovery/)
 * [GTM Product Analytics](/company/team/structure/working-groups/product-analytics-gtm/)
 * [IACV - Delta ARR](/company/team/structure/working-groups/iacv-delta-arr/)
