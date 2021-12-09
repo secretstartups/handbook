@@ -383,9 +383,9 @@ Our agreed schedule with finance is [Montly/ Quarterly/ Year End Time Lines](htt
      * Time would include hours for that day along with an estimate of hours for the final 2 business days of the month
      * If corrections need to be made for the final 3 days of the month, that would be included in the following weeks time sheet
    * By 2PM ET, Time Sheets will need to be approved by the Project Managers and Coordinators on -3 working day from the last business day of the month
-   * By 6 PM ET, the Operastions Manager will have gone through the review process and submit reporting to Finance on -3 working day from the last business day of the month
+   * By 6 PM ET, the Operations Manager will have gone through the review process and submit reporting to Finance on -3 working day from the last business day of the month
 
-Here is a link of an overview of the [process](https://www.loom.com/share/6966f309567d404eacc0ed60fa67b7b1)
+Here is a link of an overview of the [December Process](https://www.loom.com/share/28eea56141164bca8865112f255d48fa?sharedAppSource=personal_library)
 
 
 Time sheets would be submitted by the team and then approved by the project lead on the cutoff date.  Then an additional project line would be added to finish out the remainder of the week, and follow the normal end of the week process.
