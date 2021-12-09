@@ -531,52 +531,7 @@ Only GitLab-authorized partners who have completed one sales certification may t
 
 **Quote Approvals:** The Quote Approval module identifies channel deals (subscription deals only) and manages the necessary approvals automatically. **To request approval on a quote, follow the steps above: [Standard Quote Approval](/handbook/business-ops/order-processing/#standard-quote-approval)**
 
-For a full overview of required channel quote approvals, select the appropriate scenario below:
-
-<details>
-<summary markdown="span"><b>Approvals for Partners signed to the Partner Program<b></summary>
-
-**Scenario 1: The partner is under the new partner program, a discount has been applied, and there are no other non-standard terms.**
-- If discount is correct:
-  1.  Quote is automatically approved.
-- If discount is incorrect:
-  1.  Quote is routed to VP Global Channels for discount approval.
-  2.  If VP Global Channels approves, the quote will then go through the standard discount approval process, if applicable.
-
-**Scenario 2: The partner is under the new partner program, a discount has been applied, and there are other non-standard terms.**
-- If discount is correct:
-  1.  Quote goes to Deal Desk for approval on non-standard terms.
-- If discount is incorrect:
-  1.  Quote is routed to VP Global Channels for discount approval.
-  2.  If VP Global Channels approves, the quote will then go through the standard discount approval process, if applicable.
-  3.  Quote goes to Deal Desk for approval on non-standard terms.
-
-**Scenario 3: The partner is under the new partner program, no discount has been applied, and there are no other non-standard terms.**
-1. Quote is routed to VP Global Channels for approval.
-
-**Scenario 4: The partner is under the new partner program, no discount has been applied, and there are other non-standard terms.**
-1. Quote is routed to VP Global Channels for approval.
-2. If VP Global Channels approves, the quote then goes to Deal Desk for approval on non-standard terms.
-
-</details>
-
-<details>
-<summary markdown="span"><b>Approvals for Partners signed to Legacy Partner Agreements<b></summary>
-
-**Scenario 1: The partner is under a legacy contract, a discount has been applied, and there are no other non-standard terms.**
-1. Quote goes to Deal Desk for approval. Deal Desk will review the legacy contract to ensure that the proper discount has been applied.
-
-**Scenario 2: The partner is under a legacy contract, a discount has been applied, and there are other non-standard terms.**
-1. Quote goes to Deal Desk for approval. Deal Desk will review the legacy contract to ensure that the proper discount has been applied, and to ensure that the non-standard terms have been approved separately where necessary.
-
-**Scenario 3: The partner is under a legacy contract, no discount has been applied, and there are no other non-standard terms.**
-1. Quote goes to Deal Desk for approval. Deal Desk will review the legacy contract to ensure that the proper discount has been applied.
-
-**Scenario 4: The partner is under a legacy contract, no discount has been applied, and there are other non-standard terms.**
-1. Quote goes to Deal Desk for approval. Deal Desk will review the legacy contract to ensure that the proper discount has been applied, and to ensure that the non-standard terms have been approved separately where necessary.
-
-</details>
-
+**Channel Approvers:** More information regarding regional Channel Approvers can be found [here](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#channel-approvals).
 
 In the event that you require escalation for an approval request, please [reach out to Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us). If possible, Deal Desk will override the approval. If Deal Desk cannot do so, Deal Desk will help to seek approvals from necessary parties.
 
