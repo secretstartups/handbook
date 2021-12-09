@@ -19,17 +19,18 @@ This diagram describes our issue creation workflow.
 graph TD
     Create[Create Issue] --> is_group{Will<br>Group::Sharding<br>own this issue};
     is_group -->|Yes| group_sharding[label group::sharding];
-    is_group -->|No| other_group[label appropriate group];
-    group_sharding --> is_active{To be completed<br> within 3 milestones}
-    is_active -->|Yes| active[label sharding::active]
-    is_active -->|No| sharding_blocker[label sharding-blocker]
+    is_group -->|No| is_infra{Assigned to<br>infrastructure?};
+    is_infra -->|No| other_group[label appropriate group];
+    is_infra -->|Yes| at_mention_kenn[mention kwanyangu];
+    at_mention_kenn -->sharding_blocker
+    group_sharding --> active[label sharding::active]
     active --> sharding_blocker
     other_group --> sharding_blocker
     sharding_blocker --> sharding_blocker_phase[label sharding-blocker::phaseX]
     sharding_blocker_phase --> milestone[add appropriate milestone]
     milestone --> priority[add priority/severity labels]
     priority --> epic[add to appropriate epic]
-
+    
 ```
 Notes
 - Assign Priority/Severity based on the desired [Time To Resolve SLO](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability) 
