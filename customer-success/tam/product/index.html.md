@@ -37,7 +37,7 @@ Find TAM [process](https://docs.google.com/presentation/d/1LPJazgskhQJnqjBYzRlu5
 2. The CRM tags the TAMs and TAM managers in the issue to review the CAB recordings/ notes and transcripts when their customer has attended the CAB
 3. The TAM create new issues in the Product repo as per [agreed process](https://about.gitlab.com/handbook/customer-success/tam/product/) based upon their customer feedback (links to the customer SFDC account as per standard process for reporting)
 4. If the issue already exists please add the CAB label provided and add the customer SFDC record 
-5. The TAM tags the issue with the CAB label (CAB Takeaway+FQ+FY) so we can track CAB input into product)
+5. The TAM tags the issue with the general CAB label (CAB Takeaway) PLUS the specific dated CAB label (CAB Takeaway+FQ+FY) so we can track CAB input into product)
 6. The CRM schedules an annual meeting with CS/TAM/Product teams to review the CAB Takeaway label board in the Product Repo
 
 
