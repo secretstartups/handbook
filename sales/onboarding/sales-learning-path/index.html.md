@@ -10,9 +10,12 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Sales & Customer Success Quick Start Learning Path - Core Curriculum
+## Sales & Customer Success Learning Path - Core Curriculum
 
-### 1.[Welcome to GitLab Sales!](https://gitlab.edcast.com/pathways/sales-quick-start/cards/7167664)
+<details>
+<summary markdown="span">1. Welcome to GitLab Sales!</summary>
+
+### 1.[ Welcome to GitLab Sales!](https://gitlab.edcast.com/pathways/sales-quick-start/cards/7167664)
 *  **ACTIVITY: Let's Git To Know Each Other! (Assignment, 5 minutes, 1 Point - Pre Work)**
    - Please complete this brief [google form](https://docs.google.com/forms/d/e/1FAIpQLScXH3QSAcqUP4mRJsqUWbn7BUJS_SYJVjFg2oXqOoOwzBMzLA/viewform) to introduce yourself.
 *  **What is GitLab? (Material - Video, 31 Minutes)**
@@ -33,6 +36,11 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - You can see more information about team members and who reports to whom on the team page. Throughout the course you will be asked to schedule a few brief meetings with your peers. Keep in mind that it is always ok to put a meeting on someone's calendar, if they can't make it and decline it is not a problem. We hope you enjoy getting to know your super cool co-workers!
    - Check out the [org chart](https://comp-calculator.gitlab.net/org_chart) and the [Team Page](https://about.gitlab.com/company/team/)
 
+   </details>
+
+<details>
+<summary markdown="span">2. DevOps Technology Landscape</summary>
+
 ### 2. [DevOps Technology Landscape](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459977)
 *  **DevOps Technology Landscape**
    - Please click on the link below and go through the course modules.
@@ -47,6 +55,11 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **QUIZ: Increase Operational Efficiencies (Assignment - 25 Minutes - 6 Points - Pre Work)**
    - GitLab is a single application for the entire DevOps lifecycle! Please read the "Manage Your Tool Chain Before it Manages You" white paper from Forrester (see link above) to answer the questions in the [Google Form Quiz.](https://forms.gle/namX7dcg1dbo5KQQ7)
 
+      </details>
+
+<details>
+<summary markdown="span">3. Our Customers</summary>
+
 ### 3. [Our Customers](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459979)
 *  **Our Customers**
    - Please click on the link below and go through the course modules.
@@ -59,6 +72,11 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - References are an age old tenet of sales pros! Your prospective clients will definitely be impressed by the positive business outcomes of our customers. Check out our [customer case studies](https://about.gitlab.com/customers/) and [proof points](/handbook/sales/command-of-the-message/proof-points/) on GitLab value.
 *  **Marketing Materials Repository (Material - Gitlab.com - 10 Minutes)**
    - Check out the GitLab [marketing materials repository](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send copies to your clients to help them understand GitLab value. If you would like to share one of these assests on social media please be careful to only use the gated links to content.
+
+      </details>
+
+<details>
+<summary markdown="span">4. Our Portfolio</summary>
 
 ### 4. [Our Portfolio](https://gitlab.edcast.com/pathways/sales-quick-start/cards/7172709)
 *  **Our Portfolio**
@@ -95,6 +113,12 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
       - [GitLab Marketing Materials Repository](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/resources/downloads): Check out the GitLab.com marketing materials repository to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send downloaded copies to your clients to help them understand GitLab value.
       - [GitLab Pricing Model](https://about.gitlab.com/company/pricing/): Check out the chart to understand our pricing model. For additional context take a look at the handbook page on [pricing](https://about.gitlab.com/pricing/).
 
+</details>
+
+<details>
+<summary markdown="span">5. Field Roles & Expectations</summary>           
+
+
 ### 5. [Field Roles & Expectations](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1460153)
 *  **Sales Roles (Material, - Handbook - 30 minutes)**
    - Review the sales roles based on the customer segment you will cover.
@@ -119,6 +143,12 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Read the [Handbook](/handbook/customer-success/professional-services-engineering/)
 *  **Customer Success Handbook (Material - Handbook - 10 minutes)**
    - Skim and bookmark the [Handbook](/handbook/customer-success/)
+ 
+</details>
+
+
+<details>
+<summary markdown="span">6. Sales Process</summary> 
 
 ### 6. Sales Process
 *  **Command of the Message Intro Course (Assignment - 2 Hours - 10 Points - Pre Work)**
@@ -144,6 +174,12 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **[QUESTION: Account Development](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1470151) (Assignment - 15 Minutes - 10 Points - Pre Work)**
    - One of the most important parts of a salesperson's job is account development. Your clients bought from you once, and they are very likely to do it again! Please share 1-2 insights on strategy or best practices from your experience. How do you keep your clients buying more and sending referrals? Let's crowdsource some experience!
 
+</details>
+
+
+<details>
+<summary markdown="span">7. Sales Action and Role Plays</summary> 
+
 ### 7. Sales Action and Role Plays
 *  **ACTIVITY: Buyer Brief: Role Play Scenario (Assignment - 30 Minutes - 10 Points - Pre Work)**
    - You've got the money and the power, you're the buyer! Create your own business, or use an account you're currently working on to role play as the buyer with a partner. Once completed, please share the [attached document](https://docs.google.com/document/d/1Zuy4z2YHZR0GXdQB_zexiknDKllgRab59wFWj3kpVnU/edit?usp=sharing) with your role play partner so they can prepare to be the seller in your role play.
@@ -152,6 +188,11 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **ACTIVITY: First Mock Call (Assignment - 30 Minutes - 10 Points - Pre Work)**
    - Record your mock call with zoom, then upload the recording to Google Drive to submit the assignment.
 
+</details>
+
+
+<details>
+<summary markdown="span">8. Our Competition</summary> 
 
 ### 8. [Our Competition](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1462204)
 *  **The Industry In Which GitLab Competes (Material - Video - 11 Minutes)**
@@ -178,6 +219,12 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 * **QUIZ: Competitors (Assignment - 5 Points - Pre Work)**
 Please take a moment to answer the questions in this short [quiz.](https://docs.google.com/forms/d/e/1FAIpQLSc6-LgwwSBBnsXDn1spi68FCseBY8OjP0rur_DKqa9RmEwQIg/viewform) The information in this quiz is covered in the handbook pages on [Competitive Intelligence](/handbook/marketing/strategic-marketing/competitive/) and [DevOps Tools Landscape.](https://about.gitlab.com/devops-tools/)
 
+</details>
+
+
+<details>
+<summary markdown="span">9. Tools to Get Your Job Done</summary> 
+
 ### 9. Tools to Get Your Job Done
 *  **Using GitLab: The Basics (Material - Handbook - 45 minutes)**
    -This module includes information to help you learn GitLab, and walks you through Projects, Issues, Merge Requests, Pipelines, Settings, User & Admin Area. It includes the Git Basics Training commonly delivered to customers by Professional Services and documentation to help you feel more comfortable with using GitLab.
@@ -198,6 +245,10 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **Reference Edge (Material - Video - 10 Minutes)**
    - Reference Edge Software will help reps to easily see what available references are the best fit for their current opportunity. Check out the [video](/handbook/sales/training/#functional-skills--processes), and [Powerpoint](https://docs.google.com/presentation/d/18odHX0PTzifRJaeAr-yxa9jdg1_nw4RYDiBqAkYFAyM/edit?usp=sharing) on this new tool.
 
+</details>
+
+<details>
+<summary markdown="span">10. Sales and Customer Success Support</summary> 
 
 ### 10. [Sales and Customer Success Support](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472289)
 *  **The Product Teams (Material - Handbook - 60 minutes)**
@@ -214,6 +265,10 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **Where to Find Sponsored Marketing Events (Material - Handbook - 10 Minutes)**
    - Take a look at the [marketing issue board](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) to see when and where we will be hosting marketing events.
 
+</details>
+
+<details>
+<summary markdown="span">11. GitLab Customer Support Team</summary> 
 
 ### 11. [GitLab Customer Support Team](https://gitlab.edcast.com/insights/gitlab-customer-support)
 
@@ -231,6 +286,86 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 - **Sign up for Zendesk (Assignment - 5 Minutes - 10 Points - Pre Work)**
   - All GitLab staff can request a 'Light Agent' account so that you can see customer tickets in Zendesk and leave notes for the Support team. These accounts are free. To request a Light Agent Zendesk account, please send an email to [gitlablightagent.5zjj2@zapiermail.com]. You'll receive an automated reply with the result of your request. NOTE: you must send your request from your GitLab Google / Gmail account. No other addresses will work. The Subject and Body fields of the email can be empty.
       - Check out the additional information in the [handbook](https://about.gitlab.com/handbook/support/internal-support/#viewing-support-tickets), in [Zendesk](https://www.zendesk.com/company/collaboration-add-on-additional-features/), and on [gitlab.com](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request). Once the account is created, you'll need to wait 24 hours for it to be assigned in Okta. Once Zendesk is assigned, you should be able to login to Zendesk at https://gitlab.zendesk.com/agent.
+
+</details>
+
+<details>
+<summary markdown="span">In-Class Assignments</summary> 
+
+### In-Class Assignments
+* **Essential Questions Exercise (Assignment - 30 Minutes - 10 Points - In-Class)**
+   - Please work in small groups to answer the questions on the [attached document.](https://docs.google.com/document/d/1XvFKnDdueKeUhdk-x9vp9_ASS1rHIPmFhN63z0wlZcs/edit?usp=sharing)
+* **Value Card Exercise - Group Activity (Assignment - 30 Minutes - 10 Points - In-Class)**
+   - Please work in small groups to create a value card for your assigned differentiator with the [attached document.](https://docs.google.com/document/d/1XvFKnDdueKeUhdk-x9vp9_ASS1rHIPmFhN63z0wlZcs/edit?usp=sharing).
+* **Discovery Questions Exercise (Assignment - 30 Minutes - 10 Points - In-Class)**
+   - Please work in small groups to fill out the [attached document.](https://docs.google.com/document/d/1bKe4AGwg1gGhvUqovuQdm3b7y5bQb6EOvu5BxC4ZUSw/edit?usp=sharing) Think of a real opportunity that you or someone in your group is currently working and write some good discovery questions & expected responses.
+* **Defensible Differentiator Exercise (Assignment - 30 Minutes - 10 Points - In-Class)**
+   - Please work in small groups to fill out the [attached assignment](https://docs.google.com/document/d/1V2yMIaHvp_s1RzSlsAR2_AsExSloyLKbVuSlqVkbufg/edit?usp=sharing) on defensible differentiators.
+*  **Searching GitLab Like a Pro (Assignment - 10 Minutes - 10 Points - In-Class)**
+   - At GitLab, we're prolific at documenting what we do in the handbook, the website, and in GitLab documentation. This may make it difficult to find specific pieces of content. Google already indexes all our public facing pages and there is a search modifier google offers that will help. Take a look at the handbook page on how to [set up your search engine like the pros!](/handbook/tools-and-tips/searching/)
+*  **Role Play Notes (Assignment - 10 Minutes - 10 Points - In-Class)**
+   - Please submit your notes from one of the role plays that you observed using the [notes template](https://docs.google.com/document/d/1bzuO-ngACn4Z1S55Z7EtNOb2HYCZbcBZZRYIVpkeMtw/edit?usp=sharing). Dont forget to check out the [handbook page](/handbook/sales/#sales-note-taking) on how we take notes at GitLab.
+*  **Group Activity: Positioning Value, Resolving Objections & Closing (Assignment - 30 Minutes - 10 Points - In-Class)**
+   - Break into groups of 3-5 people that are different than your mock discovery call groups. Choose one person to fill out the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfwZiy__U1cl0kB3vOKl7GiQmcDgnBptT8G4qL_ZSw0gdC_hA/viewform?usp=sf_link), and please answer the following questions as a team. Be prepared to share your answers with the class.
+*  **Call Planning & Preparation - Group Activity (Assignment - 30 Minutes - 10 Points - In-Class)**
+   - Break into groups of 3-5 people that are different than your mock discovery call groups. Choose one person to fill out the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfwZiy__U1cl0kB3vOKl7GiQmcDgnBptT8G4qL_ZSw0gdC_hA/viewform?usp=sf_link), and please answer the following questions as a team. Be prepared to share your answers with the class.
+*  **Territory Planning - Group Activity (Assignment - 30 Minutes - 10 Points - In-Class)**
+   - Break into groups of 3-5 people that are different than your mock discovery call groups. Choose one person to fill out the [google form](https://forms.gle/EkJ6cfZZMqvPYGFTA), and please answer the following questions as a team. Be prepared to share your answers with the class
+*  **Account Planning - Group Activity (Assignment - 30 Minutes - 10 Points - In-Class)**
+   - Break into groups of 3-5 people that are different than your mock discovery call groups. Choose one person to fill out the [google form](https://forms.gle/3XJBawZ48jc3sFdr7), and please answer the following questions as a team. Be prepared to share your answers with the class
+
+</details>
+
+<details>
+<summary markdown="span">Post-Class Assignments</summary> 
+
+### Post-Class Assignments
+*  **Outreach (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
+   - Please complete the Outreach learning path. Time to complete is approximately 1 Hour.
+   - Instructions to join the class on your own:
+   - Go to [classroom.google.com](https://classroom.google.com/).
+   - On the top right of the Classes page, click + then > Join class.
+   - Enter the code **rfo76ti** and click Join.
+*  **Chorus.ai (Assignment - Classroom - 30 Minutes - 10 Points - Post Work)**
+   - Please complete the Chorus.ai learning path. Chorus is a powerful conversation analytics platform that will help you expand your knowledge, ramp up faster, and adopt best practices! Time to complete is approximately 30 minutes.
+   - Instructions to join the class on your own:
+   - Go to [classroom.google.com](https://classroom.google.com/).
+   - On the top right of the Classes page, click + then > Join class.
+   - Enter the code **3pyea4i** and click Join.
+*  **Listen to Chorus Calls (Assignement - 10 points - Post Work)**
+   - Using [Chorus](https://www.chorus.ai/) listen to 3 calls that were with another team member in your same role.
+*  **Clari for Salespeople (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
+   - The Clari assignment is only for Strategic Account Leaders, Mid-Market Account Executives, and SMB Customer Advocates. SAs, TAMs, SDRs, and ISRs may disregard and do not need to complete the course. Clari is a sales forecasting technology that helps salespeople drive more pipeline, accelerate revenue, and forecast accurately. Time to complete is approximately 1 hour.
+   - Instructions to join the class on your own:
+   - Go to [classroom.google.com](https://classroom.google.com/).
+   - On the top right of the Classes page, click + then > Join class.
+   - Enter the code **3dfmc4w** and click Join.
+*  **MEDDPPICC Opportunity Qualification (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
+   - Use this [template](https://docs.google.com/document/d/17Rr03SHKQ2XXlOnvuhz68F8pTxNhr6nOK70TBwB63oc/edit?usp=sharing) to begin qualifying an account suggested by your manager.
+*  **Create a Light Territory Plan (Assignment - 1 Hour - 10 Points)**
+   - Create a light territory plan to review with your manager.
+*  **Custom Pitch Deck (Assignment - 1 Hour - 10 Points)**
+   - Create a custom Pitch Deck for an account that you're currently prospecting.
+*  **Custom Pitch Deck Recording (Assignment - 1 Hour - 10 Points)**
+   - Record yourself delivering your custom Pitch Deck with zoom to practice.
+*  **Live Lead (Assignment - 1 Hour - 10 Points)**
+   -Please submit the link to your live lead using Chorus. If your lead was not recorded with Chorus, please upload the Zoom recording to Drive and submit the Drive file.
+
+</details>
+
+<details>
+<summary markdown="span">Course Evaluation & Feedback</summary> 
+
+
+### 17. Course Evaluation & Feedback
+*  Every participant is asked to please let us know how we can do better by taking [this brief survey](https://docs.google.com/forms/d/e/1FAIpQLSch3PLSzmoPUCSyhHUVwUfFSSPwiVGl2lAhRIc_bCmqZ6us6g/viewform?usp=sf_link)
+
+</details>
+
+## Customer Success Quick Start - Role Based Curriculum
+
+<details>
+<summary markdown="span">Technical Deep Dive (SA, TAM, and PSE ONLY</summary> 
 
 ### 12. [Technical Deep Dive (SA, TAM, and PSE ONLY)](https://gitlab.edcast.com/insights/ECL-a9fb71d3-9877-4da9-af7d-7eab2dd1c04b)
 *  **GitLab Ultimate Demo (Material - Video - 60 minutes)**
@@ -266,6 +401,12 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    -Bookmark these [AWS and CI references](https://docs.google.com/document/d/1bB7vlefsD_jwVgRxwaGuc8-AmR5sMyGSssS_alkNxuc/edit)
    -Bookmark these [Marketing Demos](/handbook/marketing/strategic-marketing/demo/)
 
+</details>
+
+
+<details>
+<summary markdown="span">Integrations (SA, TAM, and PSE Only)</summary> 
+
 
 ### 13. [Integrations (SA, TAM, and PSE Only)](https://gitlab.edcast.com/insights/ECL-a9fb71d3-9877-4da9-af7d-7eab2dd1c04b)
 * **Category Overview**
@@ -279,6 +420,11 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **GitLab as OAuth 2 Authentication Service Provider (Material - GitLab Docs - 60 minutes)**
    -OAuth provides to client applications a ‘secure delegated access’ to server resources on behalf of a resource owner. In fact, OAuth allows an authorization server to issue access tokens to third-party clients with the approval of the resource owner, or the end-user.
    -Review this page to learn how to use [GitLab as an OAuth authentication service provider](https://docs.gitlab.com/ee/integration/oauth_provider.html)
+
+</details>
+
+<details>
+<summary markdown="span">SAs Only: Set Up Your Demo Environment</summary>
 
 ### 14. SAs Only: Set Up Your Demo Environment
 *  **ACTIVITY: Obtain Gold Level Access to Enable All Features on GitLab.com (Assignment - 15 minutes - 10 points)**
@@ -304,6 +450,11 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **OPTIONAL: Sign up for a Sandbox Cloud Environment**
    - [Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/) is an automated provisioning platform for AWS or GCP environments. These environments are helpful for demo/sandbox/testing purposes and is paid for by GitLab.
 
+</details>
+
+<details>
+<summary markdown="span">TAMs Only: Certifications to Complete and Lifecycle Processes</summary> 
+
 ### 15. TAMs Only: Certifications to Complete and Lifecycle Processes
 
 #### Certifications:
@@ -321,6 +472,11 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    -Using Zoom, record a short mock customer kickoff call. Be sure to invite your manager and your onboarding buddy.
    -The [Rubric for the call](https://docs.google.com/forms/d/e/1FAIpQLSeZgqf6cU0rR0wvoOneGGh0jNaC0PXCzN5TEf_IBbBn80VxfQ/viewform)
 
+</details>
+
+<details>
+<summary markdown="span">PSEs Only: Statement of Work</summary> 
+
 ### 16. PSEs Only: Statement of Work
 *  **The Statement of Work (SOW) Process (Material - Handbook - 20 minutes)**
    - Review the SOW Creation Process, and review the below reference deck for details on creating a Professional Services SOW.
@@ -331,60 +487,4 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    -[GitLab Services Calculator](https://services-calculator.gitlab.io/) Please note the SOW may have errors in it as the calculator is still WIP
    - Many example SOW's can be found in the [Google Drive Folder](https://drive.google.com/drive/folders/1J1HqK6lh36UYLnyRcpe3u-Hpl5xSy0Vp)
 
-### In-Class Assignments
-* **Essential Questions Exercise (Assignment - 30 Minutes - 10 Points - In-Class)**
-   - Please work in small groups to answer the questions on the [attached document.](https://docs.google.com/document/d/1XvFKnDdueKeUhdk-x9vp9_ASS1rHIPmFhN63z0wlZcs/edit?usp=sharing)
-* **Value Card Exercise - Group Activity (Assignment - 30 Minutes - 10 Points - In-Class)**
-   - Please work in small groups to create a value card for your assigned differentiator with the [attached document.](https://docs.google.com/document/d/1XvFKnDdueKeUhdk-x9vp9_ASS1rHIPmFhN63z0wlZcs/edit?usp=sharing).
-* **Discovery Questions Exercise (Assignment - 30 Minutes - 10 Points - In-Class)**
-   - Please work in small groups to fill out the [attached document.](https://docs.google.com/document/d/1bKe4AGwg1gGhvUqovuQdm3b7y5bQb6EOvu5BxC4ZUSw/edit?usp=sharing) Think of a real opportunity that you or someone in your group is currently working and write some good discovery questions & expected responses.
-* **Defensible Differentiator Exercise (Assignment - 30 Minutes - 10 Points - In-Class)**
-   - Please work in small groups to fill out the [attached assignment](https://docs.google.com/document/d/1V2yMIaHvp_s1RzSlsAR2_AsExSloyLKbVuSlqVkbufg/edit?usp=sharing) on defensible differentiators.
-*  **Searching GitLab Like a Pro (Assignment - 10 Minutes - 10 Points - In-Class)**
-   - At GitLab, we're prolific at documenting what we do in the handbook, the website, and in GitLab documentation. This may make it difficult to find specific pieces of content. Google already indexes all our public facing pages and there is a search modifier google offers that will help. Take a look at the handbook page on how to [set up your search engine like the pros!](/handbook/tools-and-tips/searching/)
-*  **Role Play Notes (Assignment - 10 Minutes - 10 Points - In-Class)**
-   - Please submit your notes from one of the role plays that you observed using the [notes template](https://docs.google.com/document/d/1bzuO-ngACn4Z1S55Z7EtNOb2HYCZbcBZZRYIVpkeMtw/edit?usp=sharing). Dont forget to check out the [handbook page](/handbook/sales/#sales-note-taking) on how we take notes at GitLab.
-*  **Group Activity: Positioning Value, Resolving Objections & Closing (Assignment - 30 Minutes - 10 Points - In-Class)**
-   - Break into groups of 3-5 people that are different than your mock discovery call groups. Choose one person to fill out the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfwZiy__U1cl0kB3vOKl7GiQmcDgnBptT8G4qL_ZSw0gdC_hA/viewform?usp=sf_link), and please answer the following questions as a team. Be prepared to share your answers with the class.
-*  **Call Planning & Preparation - Group Activity (Assignment - 30 Minutes - 10 Points - In-Class)**
-   - Break into groups of 3-5 people that are different than your mock discovery call groups. Choose one person to fill out the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfwZiy__U1cl0kB3vOKl7GiQmcDgnBptT8G4qL_ZSw0gdC_hA/viewform?usp=sf_link), and please answer the following questions as a team. Be prepared to share your answers with the class.
-*  **Territory Planning - Group Activity (Assignment - 30 Minutes - 10 Points - In-Class)**
-   - Break into groups of 3-5 people that are different than your mock discovery call groups. Choose one person to fill out the [google form](https://forms.gle/EkJ6cfZZMqvPYGFTA), and please answer the following questions as a team. Be prepared to share your answers with the class
-*  **Account Planning - Group Activity (Assignment - 30 Minutes - 10 Points - In-Class)**
-   - Break into groups of 3-5 people that are different than your mock discovery call groups. Choose one person to fill out the [google form](https://forms.gle/3XJBawZ48jc3sFdr7), and please answer the following questions as a team. Be prepared to share your answers with the class
-
-### Post-Class Assignments
-*  **Outreach (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
-   - Please complete the Outreach learning path. Time to complete is approximately 1 Hour.
-   - Instructions to join the class on your own:
-   - Go to [classroom.google.com](https://classroom.google.com/).
-   - On the top right of the Classes page, click + then > Join class.
-   - Enter the code **rfo76ti** and click Join.
-*  **Chorus.ai (Assignment - Classroom - 30 Minutes - 10 Points - Post Work)**
-   - Please complete the Chorus.ai learning path. Chorus is a powerful conversation analytics platform that will help you expand your knowledge, ramp up faster, and adopt best practices! Time to complete is approximately 30 minutes.
-   - Instructions to join the class on your own:
-   - Go to [classroom.google.com](https://classroom.google.com/).
-   - On the top right of the Classes page, click + then > Join class.
-   - Enter the code **3pyea4i** and click Join.
-*  **Listen to Chorus Calls (Assignement - 10 points - Post Work)**
-   - Using [Chorus](https://www.chorus.ai/) listen to 3 calls that were with another team member in your same role.
-*  **Clari for Salespeople (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
-   - The Clari assignment is only for Strategic Account Leaders, Mid-Market Account Executives, and SMB Customer Advocates. SAs, TAMs, SDRs, and ISRs may disregard and do not need to complete the course. Clari is a sales forecasting technology that helps salespeople drive more pipeline, accelerate revenue, and forecast accurately. Time to complete is approximately 1 hour.
-   - Instructions to join the class on your own:
-   - Go to [classroom.google.com](https://classroom.google.com/).
-   - On the top right of the Classes page, click + then > Join class.
-   - Enter the code **3dfmc4w** and click Join.
-*  **MEDDPPICC Opportunity Qualification (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
-   - Use this [template](https://docs.google.com/document/d/17Rr03SHKQ2XXlOnvuhz68F8pTxNhr6nOK70TBwB63oc/edit?usp=sharing) to begin qualifying an account suggested by your manager.
-*  **Create a Light Territory Plan (Assignment - 1 Hour - 10 Points)**
-   - Create a light territory plan to review with your manager.
-*  **Custom Pitch Deck (Assignment - 1 Hour - 10 Points)**
-   - Create a custom Pitch Deck for an account that you're currently prospecting.
-*  **Custom Pitch Deck Recording (Assignment - 1 Hour - 10 Points)**
-   - Record yourself delivering your custom Pitch Deck with zoom to practice.
-*  **Live Lead (Assignment - 1 Hour - 10 Points)**
-   -Please submit the link to your live lead using Chorus. If your lead was not recorded with Chorus, please upload the Zoom recording to Drive and submit the Drive file.
-
-
-### 17. Course Evaluation & Feedback
-*  Every participant is asked to please let us know how we can do better by taking [this brief survey](https://docs.google.com/forms/d/e/1FAIpQLSch3PLSzmoPUCSyhHUVwUfFSSPwiVGl2lAhRIc_bCmqZ6us6g/viewform?usp=sf_link)
+</details>
