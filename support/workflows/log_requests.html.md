@@ -34,7 +34,7 @@ Requester must be a Group Owner of a paid namespace.
 
 We can provide the following information:
 
-- Information found in the Audit Events Features
+- Information found in the [Audit Events Features](https://docs.gitlab.com/ee/administration/audit_events.html)
 - Information about who has accessed the account/projects that the customers owns.  This can include:
   - number of users
   - number of times accessed
