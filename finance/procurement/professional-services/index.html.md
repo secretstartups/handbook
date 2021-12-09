@@ -28,7 +28,7 @@ title: Professional Services
 1. Select your supplier
     - If this is a **new supplier**, go to the "Forms and Quick Links" section (right side of main screen), select "Request a New Supplier" and complete the required fields. Click "Review".
         - Allow 1-2 business days for processing new supplier.
-    - If this is an **existing supplier** (or once your new supplier is active in Coupa) select "Professional Services Request" Form.
+    - If this is an **existing supplier** (or once your new supplier is active in Coupa), go to "Forms" in the upper right of your screen, and select "Professional Services Request" Form.
 1. Enter the required Fields and "Add to Cart"
 1. Click on your Cart in the upper right, complete remaining fields. Be prepared to include the following:
     - Whether or not the vendor will have access to [red and/or orange data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-levels) 
