@@ -97,7 +97,7 @@ The only exception to this should be for executive roles. Please just forward th
 
 To send a Non-Disclosure Agreement (NDA) to a candidate, Recruiters should ping @ces in Greenhouse. 
 CES can then log into Docusign, select "start" and "use a template", and then access shared templates.
-Once the NDA has been returned, upload the document in the "details" section of Greenhouse.  
+Once the NDA has been returned, upload the document in the "details" section of Greenhouse. Download this document from DocuSign as separate files, and only use the NDA itself (the summary is not necessary). 
 
 ### Background Checks
 
