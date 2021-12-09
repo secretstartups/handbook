@@ -23,19 +23,28 @@ The team accomplishes this mission by building machine learning models and analy
 
 ## Projects
 
-### Propensity to Buy
+### Propensity to Expand
 
+- Alias: PtE
 - Start Date: 2021-06-30
 - [Project](https://gitlab.com/gitlab-data/propensity-to-buy)
-- [Data Science Work breakdown](https://gitlab.com/groups/gitlab-data/-/epics/340)
-- [Slack Channel](https://gitlab.slack.com/archives/C027EEYL8EL)
+- [Work breakdown](https://gitlab.com/groups/gitlab-data/-/epics/340)
+- Slack Channel: [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7)
+
+### Propensity to Contract
+
+- Alias: PtC
+- Start Date: 2021-11-01
+- [Project](https://gitlab.com/gitlab-data/propensity-to-contract)
+- [Work Breakdown](https://gitlab.com/groups/gitlab-data/-/epics/382)
+- Slack Channel: [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7)
 
 ### Project Backlog
 
 - Buy (Upsell) Predicted ARR
 - Golden Journey - Growth Team - Hila Qu
-- PtB.first order  - Growth Team - Hila Qu
-- PtB.churn - Customer Success Team - David Sakamoto
+- PtE.first order  - Growth Team - Hila Qu
+- PtE.churn - Customer Success Team - David Sakamoto
 - User Segmentation / persona activity, use cases - Product Team - Hila Qu
 - Community Sentiment Analysis / twitter, facebook - Product Team
 - GitLab MLOps Product Development - Product Team - Taylor
@@ -43,13 +52,11 @@ The team accomplishes this mission by building machine learning models and analy
 
 ### Data Science roadmap - executive summary
 
-
 |  **Timeline** | **Deliverable** | **Value** | **Stakeholders** | **Expected Outcome** |
 | :--------------- | :----------------- | :-------------- | :-------------- | :-------------- |
 | FY-22 Q3 / Iterative | [Propensity to Expand (PtE)](https://gitlab.com/gitlab-data/propensity-to-expand) | Enables sales team to capture opportunities that increase ARR | Sales Team (Jake Bielecki) | TBD |
 | FY-22 Q4 / Iterative | [Propensity to Contract (PtC)](https://gitlab.com/gitlab-data/propensity-to-contract) | Enables sales team to prevent reduction of ARR | Sales Team (Jake Bielecki) | TBD |
 | FY-23 Q1 / Iterative | [User Segmentation (US)](https://gitlab.com/gitlab-data/user-segmentation) | Determines profiles of customers | Product Team (Hila Qu) | TBD |
-
 
 # Data Science responsibilities 
 
@@ -61,10 +68,8 @@ The team accomplishes this mission by building machine learning models and analy
     - With the **Data Leadership Team**:
         - Defining and publishing a Data Science roadmap to expand analytical capabilities
         - Broadcasting regular updates about data deliverables, ongoing initiatives, and upcoming plans
-    - With the [**Data Engineering Team**](https://about.gitlab.com/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities):
+    - With the [**Data Engineering Team**](/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities):
         - Helping to define and champion Data Quality practices and programs for GitLab data systems
-
-
 
 # Projects structure 
 
@@ -72,7 +77,7 @@ Data Scientists follow [Cross-Industry standard process for data mining (CRISP-D
 
 ### Business Understanding 
 
-First step is to define business needs of end users of the project and success criteria. This phase includes gathering requirements, stakeholders interviews, defining vision, user stories for product and use cases for models. This phase is closely aligned with GitLab's [OKRs](https://about.gitlab.com/company/okrs/) and company's value - [Iteration](https://about.gitlab.com/handbook/values/#iteration)
+First step is to define business needs of end users of the project and success criteria. This phase includes gathering requirements, stakeholders interviews, defining vision, user stories for product and use cases for models. This phase is closely aligned with GitLab's [OKRs](https://about.gitlab.com/company/okrs/) and company's value - [Iteration](/handbook/values/#iteration)
 
 ### Data Understanding 
 
@@ -88,7 +93,7 @@ Modeling refers to building machine learning model, which consists of training, 
 
 ### Evaluation 
 
-In this phase, performance of model is measured (if required in Business Understanding) and outcomes are presented to stakeholders and end users for feedback. This phase is strongly aligned with one of the GitLab's values - [Iteration](https://about.gitlab.com/handbook/values/#iteration) After feedback, data scientists iterate on above phases as long as business goal is met.
+In this phase, performance of model is measured (if required in Business Understanding) and outcomes are presented to stakeholders and end users for feedback. This phase is strongly aligned with one of the GitLab's values - [Iteration](/handbook/values/#iteration) After feedback, data scientists iterate on above phases as long as business goal is met.
 
 ### Deployment / Productionalization
 
@@ -146,13 +151,11 @@ Please note that above formula is a suggestion only that may help to describe ou
 
 # Data Science Tools at Gitlab
 
-- **[Pre-configured JuypterLab Image](https://gitlab.com/gitlab-data/data-science)**: The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out the the [Jupyter Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/jupyter-guide/) for additional information.
+- **[Pre-configured JuypterLab Image](https://gitlab.com/gitlab-data/data-science)**: The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out the the [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/) for additional information.
 
 - **[gitlabds python tools](https://gitlab.com/gitlab-data/gitlabds/)**: Functions to help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly via `pip install gitlabds` or use as part of the JupyterLab image above.
 
 - **Modeling Templates** (**Coming Soon!**)
-
-
 
 # Useful Data Science & Machine Learning Resources
 
@@ -269,10 +272,3 @@ data.groupby(['col1']).min()
 data.groupby(['col1']).max()
 
 ```
-
-
-
-
-
-
-
