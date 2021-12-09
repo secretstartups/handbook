@@ -103,6 +103,7 @@ defining a clear vision and team/service boundaries going forward.
     - Applications updated with approppriate instrumentation
     - Alerts are defined, configured, and monitored by SREs (either from Infra or Fulfillment)
 1. Data models, touchpoints between integrations and services are documented and consistent
+    - Some mechanism in place for change management, review and communication between teams
 1. Single Source of Truth (SSoT) is identified (and respected) for each data model
     - Any data currently stored in multiple systems is consolidated
 
