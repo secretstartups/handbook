@@ -14,6 +14,9 @@ description: "The Field Enablement team's mission is to design and deliver effec
 
 ## Overview
 
+### Field Enablement Vision
+**Motivate and inspire the field organization and partners to achieve high levels of success through the acquisition and application of knowledge, skills and behaviors that improve productivity and accelerate growth.**
+
 ### Field Enablement Mission
 **Design and deliver effective enablement solutions that grow field team members' and partners' expertise and confidence to drive efficient, predictable, and scalable growth for GitLab** 
 
