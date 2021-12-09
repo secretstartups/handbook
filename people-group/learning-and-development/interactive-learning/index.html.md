@@ -18,7 +18,7 @@ All elearning courses at GitLab will utilize the Handbook as the Single Source o
 
 All our available learning material can be found on [GitLab Learn](https://about.gitlab.com/learn/).
 
-Team members should follow [these important steps](/handbook/marketing/inbound-marketing/digital-experience/website/#updating-content-on-gitlab-learn) to update GitLab Learn every time a new certification is created.
+Team members should follow [these important steps](/handbook/marketing/inbound-marketing/digital-experience/website/#updating-content-on-gitlab-learn) to update GitLab Learn every time a new course or certification is created.
 
 ## Handbook-First Interactive Learning Examples
 
