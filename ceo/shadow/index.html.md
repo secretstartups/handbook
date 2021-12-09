@@ -189,8 +189,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-12-06 | 2021-12-10 | [James Heimbuck](https://gitlab.com/jheimbuck_gl) - Sr. Product Manager | [Amy Qualls](https://gitlab.com/aqualls) - Sr. Technical Writer |
 | 2021-12-13 | 2021-12-17 | [Cynthia Ng](https://gitlab.com/cynthia) - Sr. Support Engineer | [James Heimbuck](https://gitlab.com/jheimbuck_gl) - Sr. Product Manager |
 | 2022-01-03 | 2022-01-07 | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager | [Cynthia Ng](https://gitlab.com/cynthia) - Sr. Support Engineer |
-| 2022-01-10 | 2022-01-14 | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager |
-| 2022-01-18 | 2022-01-21 | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) |
+| 2022-01-10 | 2022-01-14 | AVAILABLE-REMOTE (All Directs and 11 Cross-Functional Initiaive Folks Have Priority) | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager |
+| 2022-01-18 | 2022-01-21 | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager | AVAILABLE-REMOTE (All Directs and 11 Cross-Functional Initiaive Folks Have Priority) |
 | 2022-01-24 | 2022-01-28 | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager |
 | 2022-01-31 | 2022-02-04 | [Kurt Dusek](https://gitlab.com/kdusek) - Sr. Solution Architect | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer |
 | 2022-02-07 | 2022-02-11 | UNAVAILABLE - SKO | UNAVAILABLE - SKO |
