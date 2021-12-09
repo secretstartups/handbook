@@ -163,11 +163,18 @@ On or around the `26th`: Product meets with Engineering Managers for a prelimina
 
 ### Prioritization
 
-We follow the same prioritization guidelines as the [product team at large](https://about.gitlab.com/handbook/product/product-processes/#how-we-prioritize-work). Issues tend to flow from having no milestone, to being added to the backlog, to a directional milestone (e.g. Next 3-4 releases), and are finally assigned a specific milestone.
+We follow the same [prioritization guidelines](https://about.gitlab.com/handbook/product/product-processes/#prioritization) as the rest of the Product team where `security`, `data-loss`, `availability`, and `regression` all come before `feature` work. Issues tend to flow from having no milestone, to being added to the backlog, to a directional milestone (e.g. Next 3-4 releases), and are finally assigned a specific milestone.
 
-Our entire public backlog for Fulfillment can be viewed [on the issue board](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=section%3A%3Afulfillment), and can be filtered by labels or milestones. If you find something you are interested in, you're encouraged to jump into the conversation and participate. At GitLab, everyone can contribute!
+Each milestone typically follows the following allocation:
 
-We also track and prioritize work closely with our GTM counterparts. This is tracked in an internal [spreadsheet](https://docs.google.com/spreadsheets/d/1JdtaZYO90pR4_NQgSZRu9qdGuMrFj_H6qkBs5tFMeRc/edit#gid=0) and reviewed monthly with the CRO leadership team.
+| Type        | % of Milestone | Description                                                                                |
+|-------------|----------------|-------------|------------------------------------------------------------------------------|
+| Feature     | 54%            | business priorities (compliance, IACV, efficiency initiatives)                             |
+| Bug         | 16%            | non-critical bug fixes                                                                     |
+| Tech debt   | 10%            |                                                                                            |
+| Other       | 20%            | engineer picks, critical security/data/availability/regression, urgent business priorities |
+
+When it comes to `feature` work, we prioritize using the [RICE Framework](https://about.gitlab.com/handbook/product/product-processes/#using-the-rice-framework). We determine the Reach, Impact, Confidence, and Effort and calculate a RICE score for each initiatives. Initiatives are then stack-ranked to determine their priority on our [Roadmap](https://about.gitlab.com/direction/fulfillment/#roadmap).
 
 ### Estimation
 
@@ -247,16 +254,6 @@ Engineers can find and open [the milestone board for Fulfillment](https://gitlab
 and begin working first on those with the `deliverable` label.
 
 It's possible for engineers to pick any of the remaining issues for the milestone once the deliverables are done. If the engineer has no preference, they can choose the next available issue from the top.
-
-The following table will be used as a guideline for scheduling work within the milestone:
-
-| Type        | % of Milestone | Description                                                                                |
-|-------------|----------------|-------------|------------------------------------------------------------------------------|
-| Deliverable | 40%            | business priorities (compliance, IACV, efficiency initiatives)                             |
-| Bug         | 16%            | non-critical bug fixes                                                                     |
-| Tech debt   | 10%            |                                                                                            |
-| Features    | 14%            | non-critical                                                                               |
-| Other       | 20%            | engineer picks, critical security/data/availability/regression, urgent business priorities |
 
 ### Workflow
 
