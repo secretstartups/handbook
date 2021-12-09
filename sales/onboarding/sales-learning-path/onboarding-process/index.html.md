@@ -25,3 +25,6 @@ title: "Sales & Customer Success Onboarding Process"
     - In the "New Team Member" section, there is a specific action for the new hire to "Complete your Sales Quick Start learning path."
     - See what's included in the virtual, self-paced [Sales Quick Start learning path.](/handbook/sales/onboarding/sales-learning-path/)
     - Non-Sales team members can choose to add themselves to the [SQS Learning Path](https://gitlab.edcast.com/pathways/sales-quick-start) regardless of role if interested in understanding what new Sales Team Members are expected to complete prior to attending an SQS Workshop.
+1. Field team members will matriculate into an appropriate role-based learner journey after successful completion of Sales Quick Start to support onboarded / ramping team member's continued learning journey to greater success.
+
+
