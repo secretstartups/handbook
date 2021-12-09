@@ -176,9 +176,7 @@ Our current contract is 99.95% availability and a 20 minute monthly error budget
 
 |**Stage Group**   | **Monthly Spend (28 days)** | **Business Reason** | **Review Date**|
 |------------------|---------------------|---------------------|---------------------|
-| All fulfillment stages |  <= 3.65 hours/month about 5 mins/day  (99.5%)    | Business decision to prioritize sales efficiency initiatives.<br/>Feature categories with comparitively low utilization so reduced risk of law targets affecting Service SLOs.<br/>Work in progress to [migrate CustomersDot to GCP](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/390).<br/>
- |  The end of FY22 Q4 (28th Feb 2022) |
-
+| All fulfillment stages |  <= 3.65 hours/month about 5 mins/day  (99.5%)    | Business decision to prioritize sales efficiency initiatives.<br/>Feature categories with comparitively low utilization so reduced risk of law targets affecting Service SLOs.<br/>Work in progress to [migrate CustomersDot to GCP](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/390).<br/> |  The end of FY22 Q4 (28th Feb 2022) |
 
 Feature categories with monthly spend above the allocated budget for three consecutive months may have additional feature development restrictions put in place.    
 _This is subject to change as Error Budget spend across feature categories decreases._
@@ -211,9 +209,10 @@ The changes below aim to increase the maturity of the Error Budgets.
 
 - _**Cancelled**_ The SLO targets originally used for Error Budgets are coupled with the alerting used for Infrastructure monitoring. We [proposed to use Sisense to be able to set targets by stage group](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1236), but this approach was not favoured. We found a method to use separate targets for the Infrastructure monitoring and the Error Budgets, but the decision was taken to keep the targets the same and adjust the default latency threshold for the apdex portion of the Error Budgets (see next item).
 - _**Completed**_ SLI calculations used request duration threshold which was not appropriate for all endpoints. [The threshold was increased to 5s](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1243) on the 21st of Sept and it will take 28 days for the full effect to be shown in the Error Budgets. 
-- Stage groups will next be enabled to set their own SLI per endpoint by expanding on the configurability of SLI request duration threshold. [epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/525). 
-- Endpoints that are currently `not_owned` will be attributed to the correct feature category. This will be addressed by [using caller information for Sidekiq](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1200)
-and having [graphQL query-to-feature correlation](https://gitlab.com/gitlab-org/gitlab/-/issues/328535).
+- **Completed** Stage groups will next be enabled to set their own SLI per endpoint by expanding on the configurability of SLI request duration threshold. [epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/525). 
+- Endpoints that are currently `not_owned` will be attributed to the correct feature category. This will be addressed by 
+   - **Completed** [using caller information for Sidekiq](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1200), and
+   - having [graphQL query-to-feature correlation](https://gitlab.com/gitlab-org/gitlab/-/issues/328535).
 - The [impact of system-wide outages on Error Budgets should be more clear](https://gitlab.com/gitlab-com/Product/-/issues/2884).
 - Provide guidance for PM's who report on both Error Budgets and Service Availability. (Such as Runner and Pages). 
 
@@ -222,6 +221,7 @@ and having [graphQL query-to-feature correlation](https://gitlab.com/gitlab-org/
 Product Development teams are encouraged to:
 - Continue working on [Rapid Action][rapid action], [Infradev][infradev], [Corrective Actions][corrective action], [Security][security vulnerabilities], and [Engineering Allocation][engineering allocation] issues per our [Prioritization guidelines][engineering prioritization]
 - Propose SLOs for their endpoints
+- [Opt-in to using the new apdex calculation methods that use the custom target durations](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1451)
 - Provide further feedback for future improvements to Error Budgets
 
 #### 2. Increase visibility into Error Budgets (error portion)
