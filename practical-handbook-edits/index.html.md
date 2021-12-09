@@ -58,6 +58,7 @@ This video covers:
    - What they look like
    - Use cases for using them in the handbook
 
+Note: Flowcharts are universally used to outline the steps of a processes in sequential order. [Every shape or symbol has its own function in a flowchart.](https://www.lucidchart.com/pages/flowchart-symbols-meaning-explained)
 ### Creating issue templates
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/ObNWS3trqIY" frameborder="0" allowfullscreen="true"> </iframe>
