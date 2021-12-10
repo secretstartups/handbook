@@ -79,3 +79,86 @@ present unique challenges, the common troubleshooting guide for these would be:
 
 This is a catchall field, meaning there is no specific workflow for requests
 using this problem type.
+
+#### Incorrect initial form tickets
+
+When a ticket is filed using the incorrect form, agents will use the
+`General::Forms::Incorrect form used` macro. This will change the form to our
+form, tag the ticket, and leave an internal note. From there, we are expected
+to review the ticket and resolve the problem.
+
+To do this, the best approach is often to create a new ticket for the customer
+using the correct form. When doing this, review the original ticket to best
+determine which form to use (if you are unsure, reach out to a Support Manager
+or Support Ops Manager for assistance).
+
+**Note**: If the ticket needs to undergo the Needs-Org process, please do that
+in the original ticket first. We want the new ticket to be as ready to be
+worked as possible, and starting a new ticket we created for an end-user with
+the Needs-Org process is not a great customer experience.
+
+Once you determine the correct form, you should review what ticket fields that
+form uses and what information is missing. In the original ticket, leave an
+internal comment saying which form needed to be used and what data is missing.
+Any of the data you can determine based on the original ticket is a
+plus, as it will skip needing to ask the customer to reply with that
+information in the new ticket. An example note could be:
+
+> The correct form should have been Self-Managed.
+> 
+> The missing data is:
+>
+> * Self-Managed Problem Type
+> * GitLab Install Type
+> * GitLab Version
+
+Once you have noted the original ticket, create the new ticket using the
+correct ticket form. Make sure to file the ticket using
+https://support.gitlab.com/hc/en-us/requests/new (you may need to use a
+different browser or an incognito window) so the first reply is from the
+original requester and not an agent (this ensures it gets the FRT SLA). Make
+sure to fill in as much of the information as is possible. For any information
+you do not readily know, do your best to guess for the time being.
+
+Some notes to help in filing the ticket properly:
+
+* The subject of the ticket should be the _exact_ same as the original ticket.
+* The description should be in the format:
+  > Greetings <NAME_OF_ORIGINAL_REQUESTER>,
+  >
+  > Recently you filed ticket #<ID_OF_ORIGINAL_TICKET> with us. Sadly, it was
+  > using the incorrect form and was filed incorrectly on our end. To help
+  > clear that up and get you working with the correct team, we are filing this
+  > new ticket on your behalf.
+  >
+  > During our review of ticket #<ID_OF_ORIGINAL_TICKET>, we did find some
+  > needed information was missing. Please comment back as soon as possible
+  > with the following information:
+  >
+  > <LIST_OF_MISSING_DATA>
+  >
+  > While we review your ticket, here is some other data you could also send
+  > that is often helpful to us:
+  >
+  > * A GitLabSOS report (https://gitlab.com/gitlab-com/support/toolbox/gitlabsos/) if you are using Omnibus
+  > * A KubeSOS report (https://gitlab.com/gitlab-com/support/toolbox/kubesos/) if you are using Kubernetes
+  >
+  > Your original request's ticket description was as follows:
+  >
+  >
+  > <DESCRIPTION_FROM_ORIGINAL_TICKET>
+* Markdown does not work for customer filed tickets. Try to limit the markdown
+  used to markdown that will still render properly in plaintext
+
+Once the new ticket is created, notate the original ticket and send the
+following reply:
+
+> Greetings {{ticket.requester.first_name}},
+>
+> Sadly, this ticket was filed using the incorrect form and was routed
+> incorrectly on our end. To help clear that up and get you working with the
+> correct team, we have filed a new ticket on your behalf: #<ID_OF_NEW_TICKET>
+>
+> To avoid confusion, we will be closing this ticket out.
+
+After doing so, mark the original ticket as solved.
