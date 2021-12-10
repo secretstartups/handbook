@@ -78,31 +78,31 @@ Here's an example of what's included in a content set:
 
 Title: Sr. Content Marketing Manager
 
-Area of focus: Dev, Version control and collaboration
+Area of focus: Dev, version control and collaboration
 
 GitLab handle: @suripatel
 
 Slack handle: @suri
 
-**[Valerie Silverthorne](https://gitlab.com/vsilverthorne)**
+**[Sharon Gaudin](https://gitlab.com/sgaudin)**
 
 Title: Sr. Content Marketing Manager
 
-Area of focus: Sec, DevSecOps
+Area of focus: DevOps
 
-GitLab handle: @vsilverthorne
+GitLab handle: @sgaudin
 
-Slack handle: @ValSilver
+Slack handle: @Sharon Gaudin
 
-**[Chrissie Buchanan](https://gitlab.com/cbuchanan)**
+**[Kristina Weis](https://gitlab.com/KristinaWeis)**
 
-Title: Content Marketing Manager
+Title: Sr. Content Marketing Manager
 
-Area of focus: Ops, CI/CD
+Area of focus: CI/CD
 
-GitLab handle: @cbuchanan
+GitLab handle: @KristinaWeis
 
-Slack handle: @chrissie
+Slack handle: @Kristina Weis
 
 
 ### Recommended slack channels
