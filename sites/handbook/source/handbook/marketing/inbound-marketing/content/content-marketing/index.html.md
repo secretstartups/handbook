@@ -74,14 +74,6 @@ Here's an example of what's included in a content set:
 
 ## Meet the Content Marketing team
 
-**[Brein Matturro](https://gitlab.com/bmatturro)**
-
-Title: Manager, Content Marketing
-
-GitLab handle: @bmatturro
-
-Slack handle: @Brein
-
 **[Suri Patel](https://gitlab.com/suripatel)**
 
 Title: Sr. Content Marketing Manager
