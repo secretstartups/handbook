@@ -122,7 +122,7 @@ Thoroughly understand the main technical issues the customer cares about and has
 
 Assess the environment where the customer's GitLab instance is hosted.
 
-- Self-Hosted Assessment:
+- Self-Managed Assessment:
   - Health Checks
   - Architecture diagrams
   - Machine specifications
