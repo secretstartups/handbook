@@ -31,13 +31,13 @@ Fragment identifiers are automatically generated from most headings. Keep that i
 
 Handbook content currently uses both `Title Case` and `Sentence case` for titles and headlines. Moving forward, we recommend using [sentence case](https://www.thoughtco.com/sentence-case-titles-1691944), which is the conventional way of using capital letters in a sentence or capitalizing only the first word and any proper nouns. This aligns the handbook with our [pajamas design system](https://design.gitlab.com/content/punctuation/).
 
-### Capitalize Brand Names
+### Capitalize brand names
 
 Brand names such as "Apple" and "Slack" are proper nouns, so they should be capitalized, unless a brand name uses unusual capitalization, as in "eBay" and "VMware". If that is the case, then follow the brand's convention.
 
-### Use Kebab Case for File and Directory Names
+### Use kebab case for file and directory names
 
-For easy reading, easy typing, and consistency use kebab case—lowercase letters with hyphens between words—for all file and directory names unless you have a specific reason for doing otherwise (e.g., due to a programming convention for which underscores are preferred or because a file is primarily intended for download and you want it to have a certain name when downloaded).
+For easy reading, typing, and consistency use kebab case—lowercase letters with hyphens between words—for all file and directory names. This holds unless you have a specific reason for doing otherwise (e.g., due to a programming convention where underscores are preferred or because a file is primarily intended for download and you want it to have a certain name when downloaded). An example of kebab case would be descriptive-variable-name.
 
 See [URL Guidelines](#url-guidelines) for more information about best practices for URLs.
 
