@@ -20,7 +20,7 @@ The below page overviews the primary meetings for the WW Field Team.
 * If you would like to add topics to the agenda, please coordinate with Field Communications using their [announcement request process.](/handbook/sales/field-communications/#requesting-field-announcements).
 
 ### Format
-1. CRO State of the Union (10 min)
+1. CRO Organizational Update (10 min)
 1. CRO Leadership & Guest Speaker Updates (5 min)
 1. Update Ticker (read asynchronously)
 1. Q&A (5-10 min)
@@ -74,22 +74,17 @@ You can view previous updates in the "Group Conversation Sales" (previously "Fun
 For a full overview of the QBR planning and execution process, QBR request tracking, best-practices for organizers and attendees, and where to find past QBR content, [see here](/handbook/sales/qbrs). 
 
 ## WW GTM Field Update
-This update takes place in the first week of each new quarter and is meant to give Field team members a summary of activities and results across all go-to-market (GTM) functions in preparation for their QBR presentations. The meeting includes updates from: 
+This update takes place after each GitLab quarterly earnings call and is meant to give Field team members a summary of activities and results across key go-to-market (GTM) functions. The meeting includes updates from: 
 - Sales 
 - Product
 - Marketing
    - General Marketing 
    - Revenue Marketing 
    - Strategic Marketing 
-- Customer Success
-- Channel
-- Alliances  
-- Field Operations 
 
-The format of this update changes - from a synchronous meeting with department presentations followed by a Q&A to an asynchronous video recording with an issue or office hours to address questions – based on the timing of EOQ and its proximity to QBRs. 
 
 ## Focus Fridays
-The Field team is piloting Focus Fridays through the end of CY 2020. The goal is to encourage all field team members to clear out their calendars on Fridays as much as possible in hopes that this will help all of us be more efficient, allow space within our weeks for focused work, and reduce potential burnout. Guidance for Focus Fridays includes:  
+The Field team practices Focus Fridays. The goal is to encourage all field team members to clear out their calendars on Fridays as much as possible in hopes that this will help all of us be more efficient, allow space within our weeks for focused work, and reduce potential burnout. Guidance for Focus Fridays includes:  
 - Cancel or move any standing meetings occurring on Fridays
 - Customer/prospect/partner/external meetings are exceptions
 - Some one-off internal meetings might not be avoidable, but aim to minimize them as much as possible
