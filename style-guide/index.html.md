@@ -43,7 +43,7 @@ See [URL Guidelines](#url-guidelines) for more information about best practices 
 
 ## Links
 
-### Link Guidelines
+### Link guidelines
 
 <!-- blank line -->
 
@@ -56,7 +56,7 @@ See [URL Guidelines](#url-guidelines) for more information about best practices 
 
 Links from the Handbook should conform to a few general guidelines:
 
-* Linked text should describe the content to which the link leads. A page title or description is usually a good choice and preferable to something like "this" or "here".
+* Linked text should describe the content the link leads to. A page title or description is usually a good choice and preferable to something like "see the information here".
 * Link URLs should not result in unnecessary redirection. HTTP redirection (e.g., via [redirect.rb](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/lib/redirect.rb) and [redirects.yml](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/redirects.yml)) can be helpful, especially for handling external links and bookmarks, but it is better for link and bookmark reliability (and sometimes loading speed) to skip redirection whenever possible.
 * Link URLs should not specify default file names or extensions unless excluding them would result in redirection. Overly specific link URLs are more likely to break in response to future changes.
 * Same-site links should use root-relative URLs, not absolute URLs or document-relative URLs.
@@ -67,13 +67,13 @@ See [Understanding Absolute and Relative URLs](#understanding-absolute-and-relat
 
 ## URLs
 
-### URL Guidelines
+### URL guidelines
 
-In general, Handbook URLs should describe their content and be as clean and easy to remember as feasible. Unless there is a good reason for formatting URLs otherwise (e.g., language conventions or technical limitations), they should be entirely lower case, any two words should be separated by a single hyphen, and ampersands should be replaced by "and", _not_ an additional hyphen.
+In general, Handbook URLs should describe their content and be as clean and easy to remember as possible. Unless there is a good reason for formatting URLs otherwise (e.g., language conventions or technical limitations), they should be entirely lower case. Also, any two words should be separated by a single hyphen, and ampersands should be replaced by "and", _not_ an additional hyphen.
 
-Files and directories should _never_ be given names that differ from the names of other files or directories in the same location only by letter case. Case-sensitive file systems allow such naming, but our source code is shared with people using various different file systems, including case-_insensitive_ file systems, upon which the mere existence such similarly named files in a repository can cause problems. For example, new macOS systems use case-insensitive APFS by default and on those systems Git can end up alternately showing two differently-capitalized files as modified when no changes have actually been made to either.
+Files and directories should _never_ be given names that differ from the names of other files or directories in the same location only by letter case. Case-sensitive file systems allow this kind of naming, but our source code is shared with people using various different file systems, including case-_insensitive_ file systems, in which the mere existence of such similarly named files in a repository can cause problems. For example, new macOS systems use case-insensitive APFS by default and in those systems Git can end up alternately showing two differently-capitalized files as modified when no changes have actually been made to either.
 
-### Understanding Absolute and Relative URLs
+### Understanding absolute and relative URLs
 
 When you’re adding or editing links in the Handbook (or really, _anywhere_ on the marketing site) please keep in mind that root-relative URLs are preferable for our same-site links.
 
@@ -83,14 +83,14 @@ Absolute URLs are the ones that look like this:
 https://about.gitlab.com/handbook/
 ```
 
-With absolute URLs links always load the _live_ version of the site—even when run from a development, testing, or staging context. They're great for sharing URLs via Slack, issue and merge request comments, email, and social media, but _not_ for same-site links.
+With absolute URLs, links always load the _live_ version of the site—even when run from a development, testing, or staging context. They're great for sharing URLs via Slack, issue and merge request comments, email, and social media. However, they are _not_ good for same-site links.
 
 Document-relative URLs are the ones that look like this:
 ```
 ../product/technical-writing/
 ```
 
-With document-relative URLs links can break when either a linking document or a linked document is moved separately from the other document. These kinds of URLs can be great for maintaining relationships between documents in different contexts, but links that use this kind of URL are best managed by automated systems that won't forget to update them.
+With document-relative URLs, links can break when either a linking document or a linked document is moved separately from another document. These kinds of URLs can be great for maintaining relationships between documents in different contexts, but links that use this kind of URL are best managed by automated systems that won't forget to update them.
 
 Root-relative URLs, _the kind we prefer for use in the Handbook_, look like this:
 
