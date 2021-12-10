@@ -40,6 +40,7 @@ Choose the type of purchase you're making for the process guidance:
   <a href="/handbook/finance/procurement/professional-services/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Professional Services / Contractors / Agencies</a>
   <a href="/handbook/finance/procurement/field-marketing-events" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Field Marketing and Events</a>
   <a href="/handbook/finance/procurement/office-equipment-supplies/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Home office equipment and supplies</a>
+  <a href="/handbook/finance/procurement/personal-use-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Personal Use Software</a>
 </div> 
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Toolkits
