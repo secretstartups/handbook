@@ -160,7 +160,7 @@ GitLab was rated between 1%-10% percent higher than the industry benchmark i.e. 
 | --- | --- |
 | I have seen positive changes taking place based on recent team member survey results  | 48% |
 | I believe action will take place as a result of this survey | 61% |
-| I believe there are good career oppotunities for me at GitLab | 72% |
+| I believe there are good career opportunities for me at GitLab | 72% |
 
 GitLab scored 1-2% below the industry benchmark i.e. New Tech +1,000 2021 for the two lowest scoring questions surrounding positive actions however GitLab scored 6% higher than the benchmark regarding career opportunities.
 
