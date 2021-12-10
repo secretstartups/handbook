@@ -11,7 +11,7 @@ title: "Handbook Style Guide"
 
 ## Introduction
 
-GitLab's general communications practices are detailed at [GitLab Communication](/handbook/communication/), but beyond those we do have some channel-specific guidance available. This page is for Handbook-specific guidance that does not necessarily apply to the company overall or to other specific channels such as [GitLab Documentation](https://docs.gitlab.com/) or the [GitLab Blog](/blog/).
+GitLab's general communications practices are detailed at [GitLab Communication](/handbook/communication/), but beyond those we do have some channel-specific guidance available. This page is for Handbook-specific guidance that does not necessarily apply to the company overall or to other specific channels, such as [GitLab Documentation](https://docs.gitlab.com/) or the [GitLab Blog](/blog/).
 
 In the absence of Handbook-specific guidance, you can't go wrong by following GitLab's [Writing Style Guidelines](/handbook/communication/#writing-style-guidelines) and [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html). The GitLab Documentation site also offers a list of [topic-specific style guides](https://docs.gitlab.com/ee/development/contributing/style_guides.html).
 
@@ -29,7 +29,7 @@ Fragment identifiers are automatically generated from most headings. Keep that i
 
 ### Use sentence case for titles and headings
 
-Handbook content currently uses both `Title Case` and `Sentence case` for titles and headlines. Moving forward, we recommend using [sentence case](https://www.thoughtco.com/sentence-case-titles-1691944), as it aligns the handbook with our [pajamas design system](https://design.gitlab.com/content/punctuation/).
+Handbook content currently uses both `Title Case` and `Sentence case` for titles and headlines. Moving forward, we recommend using [sentence case](https://www.thoughtco.com/sentence-case-titles-1691944), which is the conventional way of using capital letters in a sentence or capitalizing only the first word and any proper nouns. This aligns the handbook with our [pajamas design system](https://design.gitlab.com/content/punctuation/).
 
 ### Capitalize Brand Names
 
