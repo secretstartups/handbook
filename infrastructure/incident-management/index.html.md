@@ -120,6 +120,10 @@ If any of the following are true, it would be best to engage an Incident Manager
 1. The SSOT for who is the current Incident Manager is the [GitLab Production - IMOC](https://gitlab.pagerduty.com/service-directory/PE8A5MX) service definition in PagerDuty.
 1. The Incident Manager should engage when requested by the EOC. The IM will not be requested for every incident, typically only S1/S2 incidents. [Incident Manager incident Checklist in runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/incidents/general_incidents.md#imoc-checklist)
 1. When possible, the Incident Manager should [monitor](https://gitlab.slack.com/archives/CB7P5CJS1) ongoing [incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues?scope=all&utf8=%E2%9C%93&state=opened) and engage with the incident if it escalates to a user-impacting incident. In most cases this will happen via the EOC escalating to the Incident Manager.
+1. When joining the incident zoom, edit your zoom name to start with "IMOC"
+    1. During an incident, clarity of roles aids Time to Resolution, and doing this will allow anyone joining the call at any time to easily see who has the role of IMOC.
+    1. To edit your name during a zoom call, click on the three dots by your name in your video tile.
+    1. Edits made during a zoom call only last for the length of the call, so it should automatically revert to your profile name/title with the next call.
 1. The Incident Manager should support the EOC by contacting team members from other teams as well as escalating within management when required.
     1. If the Incident Manager is unable to obtain a response through Slack channels, they should escalate to a manager or director to obtain assistance.
 1. They evaluate information provided by team members, provide direction as necessary or when requested, and coordinate to ensure all Team Members necessary to restore service are engaged.
