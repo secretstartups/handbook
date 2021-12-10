@@ -53,7 +53,7 @@ Key features of this call include:
 1. CEO and CRO attendance required
 1. Not recorded 
 
-### Selection Criteria - Q4-FY22 
+### Selection Criteria - FY23-Q1
 
 In total, 12 team members from across the Field organization will be recognized. The categories by segment for FY23-Q1 winners will be added here once decided on by CRO LT. 
 
