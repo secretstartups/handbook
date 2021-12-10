@@ -4,6 +4,7 @@ title: "Static Analysis Group"
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -17,32 +18,32 @@ and [Secret Detection](/direction/secure/static-analysis/secret-detection/) for 
 
 ## Common Links
 
-* Slack channel: #g_secure-static-analysis
-* Slack alias: @secure_static_analysis_be
-* Google groups: static-analysis-be@gitlab.com
+- Slack channel: #g_secure-static-analysis
+- Slack alias: @secure_static_analysis_be
+- Google groups: static-analysis-be@gitlab.com
 
 ## How We Work
 
-The Static Analysis group is largely aligned with GitLab's [Product Development Flow](/handbook/product-development-flow/), however there are some notable differences in 
-how we seek to deliver software. The backend engineering team predominantly concerns itself with the delivery of software, which is the portion of the workflow states where 
+The Static Analysis group is largely aligned with GitLab's [Product Development Flow](/handbook/product-development-flow/), however there are some notable differences in
+how we seek to deliver software. The backend engineering team predominantly concerns itself with the delivery of software, which is the portion of the workflow states where
 we deviate the most. What follows is how we manage the handoff from product management to engineering to deliver software.
 
-Issues worked by this team are backend-centric and can span analyzers, vendored templates, and GitLab's Rails monolith. At times, issues can require support from Secure's 
-frontend team if UI changes are required. Issues needing frontend support may [require more notice](/handbook/engineering/development/secure/analyzer-frontend/#How-to-work-with-us), and 
+Issues worked by this team are backend-centric and can span analyzers, vendored templates, and GitLab's Rails monolith. At times, issues can require support from Secure's
+frontend team if UI changes are required. Issues needing frontend support may [require more notice](/handbook/engineering/development/secure/analyzer-frontend/#How-to-work-with-us), and
 should be called out as early as possible.
 
 ### Issue Boards
 
-* [Static Analysis Delivery Board](https://gitlab.com/groups/gitlab-org/-/boards/1590112?label_name[]=group%3A%3Astatic%20analysis&group_by=epic&label_name[]=backend)
-  * Primary board for engineers from which engineers can work. It's stripped down to only include the workflow labels we use when delivering software and utilizes epic-level swimlanes.
-* [Static Analysis Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1229162?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Astatic%20analysis)
-  * Milestone-centric board primarily used by product management to gauge work in current and upcoming milestones.
-* [Static Analysis EM Board](https://gitlab.com/groups/gitlab-org/-/boards/1655697)
-  * Engineer-centric board used by engineering management to gauge how heavy a load engineer is carrying. Judged by the number of issues assigned to them.
+- [Static Analysis Delivery Board](https://gitlab.com/groups/gitlab-org/-/boards/1590112?label_name[]=group%3A%3Astatic%20analysis&group_by=epic&label_name[]=backend)
+  - Primary board for engineers from which engineers can work. It's stripped down to only include the workflow labels we use when delivering software and utilizes epic-level swimlanes.
+- [Static Analysis Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1229162?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Astatic%20analysis)
+  - Milestone-centric board primarily used by product management to gauge work in current and upcoming milestones.
+- [Static Analysis EM Board](https://gitlab.com/groups/gitlab-org/-/boards/1655697)
+  - Engineer-centric board used by engineering management to gauge how heavy a load engineer is carrying. Judged by the number of issues assigned to them.
 
 #### Issue and Merge Requests labels
 
-GitLab has a labeling convention for issues and Merge Requests. We follow this convention, though there are specific labels required to route artifacts to us. We 
+GitLab has a labeling convention for issues and Merge Requests. We follow this convention, though there are specific labels required to route artifacts to us. We
 use these labels to filter issues meant for us on our issue boards. They are also used for metrics and KPI reporting.
 
 | Label | Meaning |
@@ -57,23 +58,63 @@ use these labels to filter issues meant for us on our issue boards. They are als
 
 ### It all starts with planning
 
-Like the rest of GitLab, we are product-driven and work in response to the priorities identified by Product Management. We use planning issues to articulate the epics which should be our top priorities in each release. This practice means we can interpret epics to be the features we're being asked to deliver and 
-are given the freedom to break down those epics according to our best judgment. 
+As is the case throughout GitLab, the Static Analysis group works on a monthly planning cadence. We are product-driven and work in response to the priorities identified by Product Management.
+
+However, GitLab milestones start in the second half of each month, which has made a planning cadence organized around weeks in a milestone somewhat difficult to understand as there are many
+edge cases which are at odds with the Gregorian calendar. Rather than trying to work out week numbers in a milestone, we describe our planning cadence based upon weeks in a month.
+
+#### Week 1
+
+- Milestone release issue created and assigned out.
+  - Expected outcome: Engineers will complete designated tasks within 2 weeks.
+
+#### Week 2
+
+- Draft planning issue created
+  - Single DRI assigned for each prioritized theme.
+  - DRI works with Engineering Manager and Staff Engineer to discern the following:
+    - Do you understand hte business capabilities requested?
+      - Are they clearly articulated in the issue description?
+      - Do you agree with them?
+        - If not, what's missing?
+    - Do you have enough information about the work requested?
+      - If so, please collect or create implementation issues.
+      - If not, what are the unanswered questions?
+        - Take questions to Product Management to clarify expectations.
+        - If clarity is not found, create technical discovery issue(s) to flesh out the unknowns.
+  - Theme design completed.
+  - Engineering team for each theme declared.
+  - Issues created or collected.
+
+#### Week 3
+
+- Issues in prioritized theme refined by declared engineering team.
+
+#### Week 4
+
+- Retrospective conversation held on the just-completed milestone.
+- MoSCoW session held to review oldest issues still open.
+  - Are the opportunities they describe still relevant?
+
+### Planning issues
+
+We use planning issues to articulate the epics which should be our top priorities in each release. This practice means we can interpret epics to be the features we're being asked to deliver and
+are given the freedom to break down those epics according to our best judgment.
 
 #### How we interact with planning issues
 
-* Engineering Manager will mention engineers in planning issues to declare which epic they will work within.
-* Engineering Manager will assign engineer(s) who will be working on issues in the prioritized epics.
-* Engineering Manager will pull all issues on the epics prioritized into the `~workflow::planning breakdown` state.
-  * This action should make the issues available on **Static Analysis Delivery Board** mentioned above.
+- Engineering Manager will mention engineers in planning issues to declare which epic they will work within.
+- Engineering Manager will assign engineer(s) who will be working on issues in the prioritized epics.
+- Engineering Manager will pull all issues on the epics prioritized into the `~workflow::planning breakdown` state.
+  - This action should make the issues available on **Static Analysis Delivery Board** mentioned above.
 
 ### Software delivery in Static Analysis
 
-While we follow GitLab's product development flow, our processes as a backend engineering team most closely resemble kanban. Engineers are empowered to choose issues from the Delivery 
-Board in their assigned epic swimlane and pull them through the identified states. In addition to the workflow states identified by the company, we are experimenting with the 
+While we follow GitLab's product development flow, our processes as a backend engineering team most closely resemble kanban. Engineers are empowered to choose issues from the Delivery
+Board in their assigned epic swimlane and pull them through the identified states. In addition to the workflow states identified by the company, we are experimenting with the
 `~workflow::refinement` state. Engineers are expected to use their best judgment as to how issues flow through the board, but the following outcomes are expected at each state.
 
-An issue landing on the delivery board is the means by which work is released to the engineering team for Delivery. This event is the beginning of the process by which the 
+An issue landing on the delivery board is the means by which work is released to the engineering team for Delivery. This event is the beginning of the process by which the
 engineers will scrutinize an issue's readiness, estimate it size, and implement the changes necessary to achieve the desired outcomes.
 
 | State | Expected Outcomes |
@@ -111,21 +152,21 @@ as [velocity is more important than predictability](/handbook/engineering/#veloc
 
 #### How we commit to delivering work in a milestone
 
-In GitLab, the `~Deliverable` label is referred to as a [release scoping label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#release-scoping-labels). Applying this label 
-represents a commitment from the engineering team to realize the work required in the issue within the milestone to which the issue is assigned. This means we decide whether we can commit to 
-delivering work once an issue is in the `workflow::ready for development` state. 
+In GitLab, the `~Deliverable` label is referred to as a [release scoping label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#release-scoping-labels). Applying this label
+represents a commitment from the engineering team to realize the work required in the issue within the milestone to which the issue is assigned. This means we decide whether we can commit to
+delivering work once an issue is in the `workflow::ready for development` state.
 
 The decision on when to use the `~Deliverable` label is made through answering the following questions.
 
 - Given the issue's weight, are we reasonably confident there is enough time left in the milestone for the engineer to deliver the issue?
-    - We currently assume an engineer in Static Analysis can achieve a velocity of 9 in any one milestone.
+  - We currently assume an engineer in Static Analysis can achieve a velocity of 9 in any one milestone.
 - Would the issue be achievable early in the next milestone if work began now?
-    - If so, discuss with the Product Manager about the situation. Work can begin if the Product Manager agrees with the proposed timeline and would like to proceed.
-    - Please make sure the milestone is updated before continuing with work.
+  - If so, discuss with the Product Manager about the situation. Work can begin if the Product Manager agrees with the proposed timeline and would like to proceed.
+  - Please make sure the milestone is updated before continuing with work.
 - Is this the smallest, testable unit of work which adds value and cannot be further broken down without adding overhead?
 
-The `~Deliverable` label is applied if the answer to the above questions are yes. The use of this label impacts the group's Say/Do ratio, making the Engineering Manager the directly responsible 
-individual for this label. However, engineers in Static Analysis are empowered to use their judgment about applying this label and proceeding if they believe the work is achievable. Please 
+The `~Deliverable` label is applied if the answer to the above questions are yes. The use of this label impacts the group's Say/Do ratio, making the Engineering Manager the directly responsible
+individual for this label. However, engineers in Static Analysis are empowered to use their judgment about applying this label and proceeding if they believe the work is achievable. Please
 have a conversation with the Engineering Manager if uncertain about how to proceed.
 
 #### Code Review Process
@@ -134,8 +175,8 @@ The process for reviewing and maintainer code is documented within our [Static A
 
 #### Stabilization Period and Slack Time
 
-The collection of issues which make up epics represent a sizable amount of work, which we typically seek to limit to approximately 1.5 milestones in total duration. The size and scope of 
-this work can result in previously unseen scope or have unexpected consequences. As a result, we will not immediately kick off work on another epic immediately after completing one. We will 
+The collection of issues which make up epics represent a sizable amount of work, which we typically seek to limit to approximately 1.5 milestones in total duration. The size and scope of
+this work can result in previously unseen scope or have unexpected consequences. As a result, we will not immediately kick off work on another epic immediately after completing one. We will
 allow one week of time for tech debt cleanup, feature stabilization, and engineer slack time to explore topics they encountered which are of interest to them.
 
 ### Security Vulnerability Process
@@ -173,11 +214,11 @@ As always, contributions are welcome from our community or the current MR coach 
 
 The process for dismissing a vulnerability as a false positive is as follows:
 
-* If it doesn't exist on the [Static Analysis Group Defined False Positives](/handbook/engineering/development/secure/static-analysis/false_positives.html) page, then write documentation describing the type of false positive and why we think it is classified as such.
-* If the vulnerability relates to a specific code location (e.g. SAST), then open an MR with comments at each FP location that contain a link to the FP documentation.
-* Dismiss vulnerability in the GitLab UI with a comment that contains:
-  * A link to the FP documentation.
-  * A link to the FP comment MR if it was created.
+- If it doesn't exist on the [Static Analysis Group Defined False Positives](/handbook/engineering/development/secure/static-analysis/false_positives.html) page, then write documentation describing the type of false positive and why we think it is classified as such.
+- If the vulnerability relates to a specific code location (e.g. SAST), then open an MR with comments at each FP location that contain a link to the FP documentation.
+- Dismiss vulnerability in the GitLab UI with a comment that contains:
+  - A link to the FP documentation.
+  - A link to the FP comment MR if it was created.
 
 #### Vulnerability Issue Labels
 
@@ -197,23 +238,23 @@ will pick up the issue and assign a severity as part of the appsec triage rotati
 
 ### We Own What We Ship
 
-We are responsible for delivering GitLab's SAST and Secret Detection features, and the analyzers we develop rely heavily upon open source software. 
-This means we can be dramatically affected by changes in those software packages. We will check for updates to these packages once per [GitLab 
+We are responsible for delivering GitLab's SAST and Secret Detection features, and the analyzers we develop rely heavily upon open source software.
+This means we can be dramatically affected by changes in those software packages. We will check for updates to these packages once per [GitLab
 release](https://about.gitlab.com/releases/). New versions will be scrutinized for the following aspects:
 
-* Breaking changes
-* New, updated, or removed security rules
-* Behavior changes
-* Analyzer changes needed to use the new version
-* Security vulnerabilities
+- Breaking changes
+- New, updated, or removed security rules
+- Behavior changes
+- Analyzer changes needed to use the new version
+- Security vulnerabilities
 
-An issue will be created and prioritized if a breaking change is discovered. Otherwise, dependency updates will be detailed in the relevant 
-analyzer's changelog and a new version will be released utilizing the change. This is a lot of work, most likely requiring several hours of 
-focused study to understand what is happening in the new version. As a result, dependency updates will be divided evenly and assigned to 
-Senior and Intermediate Backend Engineers, with the remainder going to the group's Staff Backend Engineer. Assignments will be managed 
+An issue will be created and prioritized if a breaking change is discovered. Otherwise, dependency updates will be detailed in the relevant
+analyzer's changelog and a new version will be released utilizing the change. This is a lot of work, most likely requiring several hours of
+focused study to understand what is happening in the new version. As a result, dependency updates will be divided evenly and assigned to
+Senior and Intermediate Backend Engineers, with the remainder going to the group's Staff Backend Engineer. Assignments will be managed
 through our [Release project's issue template](https://gitlab.com/gitlab-org/security-products/release/-/blob/master/scripts/templates/release_issue.md.erb).
 
-The assigned backend engineer is the group's primary liaison with the dependency's open source community. Engineers are expected to contribute 
+The assigned backend engineer is the group's primary liaison with the dependency's open source community. Engineers are expected to contribute
 back to those projects, especially if critical or high security findings are confirmed.
 
 #### Testing for security vulnerabilities
@@ -221,14 +262,14 @@ back to those projects, especially if critical or high security findings are con
 We have a [dependencies group](https://gitlab.com/gitlab-org/security-products/dependencies) which contains mirrored copies of the OSS projects upon which we most rely. Prior to submitting an MR updating an analyzer to a new version of these projects, engineers are expected to do the following:
 
 1. Find a release branch which matches the new version we wish to ship.
-  * If one doesn't exist, create it from the corresponding tag.
+  1. If one doesn't exist, create it from the corresponding tag.
 1. Push the branch through a pipeline which executes all of our security products.
-  * Please note, some of these projects have complicated builds. Auto-Devops works sometimes, but projects such as [spotbugs](https://gitlab.com/gitlab-org/security-products/dependencies/spotbugs) can require a custom CI configuration for our scans to be successful. Also, these projects include tests that can be noisy if not filtered out.
-1. Evaluate any potential security vulnerabilities which are found. 
-  * Work with the relevant Open Source community to resolve any Critical or High severity findings.
-  * GitLab has published [Secure Coding Guidelines](https://docs.gitlab.com/ee/development/secure_coding_guidelines.html), which may be a useful resource to use when trying to solve identified risks.
+  1. Please note, some of these projects have complicated builds. Auto-Devops works sometimes, but projects such as [spotbugs](https://gitlab.com/gitlab-org/security-products/dependencies/spotbugs) can require a custom CI configuration for our scans to be successful. Also, these projects include tests that can be noisy if not filtered out.
+1. Evaluate any potential security vulnerabilities which are found.
+  1. Work with the relevant Open Source community to resolve any Critical or High severity findings.
+  1. GitLab has published [Secure Coding Guidelines](https://docs.gitlab.com/ee/development/secure_coding_guidelines.html), which may be a useful resource to use when trying to solve identified risks.
 
-We do not want to ship updated dependencies which have Critical and High severity vulnerabilities in them. If we find ourselves in this situation, we will 
+We do not want to ship updated dependencies which have Critical and High severity vulnerabilities in them. If we find ourselves in this situation, we will
 withhold updates to the dependency until the problems have been patched.
 
 #### Go security fixes
@@ -237,11 +278,11 @@ At times we will need to update our analyzers because of security updates to gol
 
 ### Unplanned work
 
-In general, the Static Analysis group has two sources of unplanned work: community contributions and ~severity::1 bugs. We will reserve capacity each 
-release so we can respond quickly and efficiently. In both scenarios, we will route community contributions to the [engineer who "owns" the analyzer](#we-own-what-we-ship). 
+In general, the Static Analysis group has two sources of unplanned work: community contributions and ~severity::1 bugs. We will reserve capacity each
+release so we can respond quickly and efficiently. In both scenarios, we will route community contributions to the [engineer who "owns" the analyzer](#we-own-what-we-ship).
 
-We do, however, own and contribute to projects beyond the analyzers shipped as part of GitLab's product. Where possible, unplanned work requiring 
-the attention of an engineer in Static Analysis will be routed according to that project's `CODEOWNERS` file. Otherwise, unplanned work will be 
+We do, however, own and contribute to projects beyond the analyzers shipped as part of GitLab's product. Where possible, unplanned work requiring
+the attention of an engineer in Static Analysis will be routed according to that project's `CODEOWNERS` file. Otherwise, unplanned work will be
 considered and handled on a case-by-base basis.
 
 ### Product Prioritization Labels
@@ -260,11 +301,11 @@ Features we expect everyone to need and use
 
 ##### Types of issues
 
-* Scanner updates
-* Language coverage
-* OWASP Top 10
-* Better Vunl Metadata
-* Documentation
+- Scanner updates
+- Language coverage
+- OWASP Top 10
+- Better Vunl Metadata
+- Documentation
 
 #### `~SAST: Advanced Config`
 
@@ -276,9 +317,9 @@ Features we don’t expect everyone to use
 
 ##### Types of issues
 
-* Customize rulesets
-* Monorepo support
-* Security scan customization
+- Customize rulesets
+- Monorepo support
+- Security scan customization
 
 #### `~SAST: Enforce & Control`
 
@@ -290,9 +331,9 @@ Use least disruptive settings by default and allow customizations
 
 ##### Types of issues
 
-* New scanners
-* Policy ideas
-* Compliance features
+- New scanners
+- Policy ideas
+- Compliance features
 
 #### `~SAST: Workflow`
 
@@ -302,8 +343,8 @@ Use least disruptive settings by default and allow customizations
 
 ##### Types of issues
 
-* Speedy Scanners
-* Usage ping data
+- Speedy Scanners
+- Usage ping data
 
 #### `~SAST: Integrate`
 
@@ -315,4 +356,4 @@ Strongly defined integration harness to make internal/external integrations easi
 
 ##### Types of issues
 
-* Integration related ideas
+- Integration related ideas
