@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Customer Prioritization Model"
+title: "Customer Prioritization Framework"
 ---
 
 ## On this page
@@ -10,43 +10,54 @@ title: "Customer Prioritization Model"
 {:toc .hidden-md .hidden-lg}
 
 
-The Customer Prioritization Model was developed as a way to measure customer and prospective customer demand for capabilities within GitLab. The page covers how the model works and how to interact and interpret the private dashboards that it powers.
+The Customer Prioritization Framework was developed as a way to measure customer and prospective customer demand for capabilities within GitLab. The page covers how the model works and how to interact with, and interpret, the private dashboards that it powers.
 
 ## Why
 
-1. Collaboration & Transparency -- Provide quantitative data at scale that enables various GitLab departments to evaluate and discuss customer and prospect needs in an "apples to apples" manner. 
-1. Efficiency -- Increase the efficiency of GitLab team members by leveraging a single model to replace many manual, tedious, and time-consuming processes.
-1. Results -- Provide a fair "influence economy" across all customers and prospects and keep the focus on delivering customer results.  
+1. **Collaboration & Transparency:** Provide quantitative data at scale that enables various GitLab departments to evaluate and discuss customer and prospect needs in an "apples to apples" manner. 
+1. **Efficiency:** -- Increase the efficiency of GitLab team members by leveraging a single model to replace many manual, tedious, and time-consuming processes such as the maintaining the Top ARR Spreadsheet, Technical Account Managers tracking customer requests in issue descriptions within collaboration projects or external spreadsheets, and product managers scouring dozens issues and many external sources to gather information about customer priorities.
+1. **Results:** Establish a fair "influence economy" across all customers and prospects and keep the focus on delivering customer results. Enable GitLab leadership to easily change the global prioritization of customer issues across R&D depending on desired growth and retention outcomes.   
 
-## Dashboards 
+## Use cases this model was designed to support
 
-This model powers the following dashboards:
+### Product
 
-- [User Request Issue Prioritization - Product](https://app.periscopedata.com/app/gitlab:safe-dashboard/951007/User-Request-Issue-Prioritization---Product)
-- [User Request Issue Prioritization - TAM / Customer View](https://app.periscopedata.com/app/gitlab:safe-dashboard/954237/User-Request-Issue-Prioritization---TAM-Customer-View)
+`TO DO`
+
+### Sales
+
+`TO DO`
+
+### Customer success
+
+`TO DO`
 
 ## How the model works
 
 The customer prioritization model is loosely based on concepts rooted in [cost of delay](https://en.wikipedia.org/wiki/Cost_of_delay). While ARR is a key input to determining value, the scores are derivitive measures and should not be conflated with the notion that if a given issue or epic is delivered, GitLab's ARR will increase by the derivative score amount. 
 
-The model consists of several key inputs:
+There are many inputs to the model with the underlying goal to segment and measure the value of an open issue on the basis of how it will contribute to retention of current ARR and/or growth of net new ARR, and to do so within the context of every other issue in order to get a better understanding of what customer requested issues we could prioritize within R&D to significantly impact retaining existing customers or growing net ARR via landing or expanding. 
 
-1. Linking an account to an issue/epic
-1. Account urgency 
-1. Account priority points
-1. Account ARR / Opportunity ARR
-1. Issue/Epic weight - If it is a single issue, the value found in the `weight` field. If it is an epic, the sum of the weights of all issues within the epic. 
+The model consists of several key components:
 
-These inputs are used to calculate four key computed measurements where each builds on the value of the former:
+1. **Customer Links:** Linking accounts, opportunities, or support tickets to issues and epics.
+1. **Urgency:** Determing the account and opportunity urgency modifier. 
+1. **Priority Points:** Calculating a customer or prospect's total account and opportunity priority points across all linked issues.
+1. **Priority Point Value:** Calculating the value of a priority point based on account ARR and opportunity net ARR
+1. **Rention Score:**
+1. **Growth Score:**
+1. **Score:**
+1. **Weighted Priority Score:** 
 
-1. Account priority point value
-1. Score 
-1. Priority Score
-1. Weighted Priority Score
+The model is re-calculated on a daily basis to incorporate the dynamic nature of the inputs. Changes made to issues/epics on any given day will be reflected in the dashboards the following day. 
 
-The model is re-calculated on a daily basis to incorporate the dynamic nature of the inputs. Changes made to issues/epics on any given day will therefore not be reflected in the dashboards until the following day. 
+### Components
 
-### Inputs
+#### Customer Links 
+
+- **Zendesk Ticket:** Use the link of a Zendesk ticket to connect a customer support request to an issue or epic. This will map the issue or epic to the customer's `CARR (this account)` field value in Salesforce. 
+- **Salesforce Opportunity:** Use the link of a Salesforce opportunity when the opportunity represents net new ARR. Typically this would map to the following order types in Salesforce: `1. New - First Order`, `2. New - Connected`, and `3. Growth`. This will map the issue or epics to the customer's 
+- **Salesforce Account:** Use the link of a Salesforce account for all other use cases that don't directly correlate to net new ARR. 
 
 #### Linking an account to an issue/epic
 
@@ -165,4 +176,32 @@ Now we can layer `weighted priority score` to our previous `priority score` exam
 
 In the above example, working on `Issue ID: 1` first would most likely be the best choice because it has the the most value relative to effort. 
 
+## Dashboards 
 
+### Product user requested issue prioritization 
+
+[View dashboard in Sisense](https://app.periscopedata.com/app/gitlab:safe-dashboard/951007/User-Request-Issue-Prioritization---Product)
+
+Column definitions:
+
+- `Notable ID`: The ID of the issue or epic.
+- `Notable Type`:
+- `Notable Title`:
+- `Group`:
+- `Stage`:
+- `Category`:
+- `Notable Weight`:
+- `Milestone`:
+- `Upvote Count`:
+- `Unique Accounts`:
+- `Customer Reach`:
+- `Retention Score`:
+- `Growth Score`:
+- `Combined Score`:
+- `Priority Score`:
+- `Weighted Priority Score`:
+
+
+### TAM user requested issue prioritization 
+
+- [View dashboard in Sisense](https://app.periscopedata.com/app/gitlab:safe-dashboard/954237/User-Request-Issue-Prioritization---TAM-Customer-View)
