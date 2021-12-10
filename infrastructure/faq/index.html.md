@@ -37,7 +37,7 @@ A: You can find the [settings we use for GitLab.com and our runners in our docs]
 
 A: Data from March 2019 showed there was 3.5 Million Users, around 4,000 requests per second over https, 8.4 Million Repos, and over 3 PB total storage. See our [vanity metrics dashboard](https://dashboards.gitlab.com/d/ZwfWfY2iz/vanity-metrics-dashboard?orgId=1).
 
-#### Q: Does GitLab have an automated way to migrate from a self-hosted instance?
+#### Q: Does GitLab have an automated way to migrate from a self-managed instance?
 
 A: Currently you can only use the [project import/export](https://docs.gitlab.com/ee/user/project/settings/import_export.html) feature to migrate projects to GitLab.com.
 
