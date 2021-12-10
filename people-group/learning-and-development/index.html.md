@@ -196,8 +196,7 @@ Additional planning and notes around the sprint board can be found in [this issu
 
 ## Developing Learning Content
 
-<details>
-<summary markdown="span">Top Five Training Content Development Principles</summary>
+### Top Five Training Content Development Principles
 
 If you are developing content to meet your learning needs or partnering with the L&D team, here are five key principles to consider when formulating a learning session: 
 
@@ -210,10 +209,9 @@ If you are developing content to meet your learning needs or partnering with the
 4. **Engage the Learner** - Adults learn through practice and involvement. Consider using tools to engage learners in a virtual setting like [Mentimeter](https://www.mentimeter.com/) or [Kahoot](https://kahoot.com/business-u/) to stimulate interactivity. Ask the [L&D team](/handbook/people-group/learning-and-development/) for more insight on learning engagement tools. There is a lot you can leverage! 
 
 5. **Implement Blended Learning Course Content** - Give the audience some pre-course work to read and review before the learning session. Use off-the-shelf resources and ensure the content is applicable to what will be covered in the session. Follow up with the audience following the session to gauge how they've applied what they've learned on the job through surveys and questionnaires. 
-</details>
 
-<details>
-<summary markdown="span">Application of Adult Learning Theory</summary>
+
+### Application of Adult Learning Theory
 
 Adults learn differently in the workplace than in traditional learning environments or how they learned growing up. If you are developing training, consider applying principles related to Adult Learning Theories, those include: 
 
@@ -224,10 +222,8 @@ Adults learn differently in the workplace than in traditional learning environme
 3. **Experiential learning:** Adults learn through experiences and by doing. When designing a learning experience, apply activities to stimulate learning by doing through role-playing, simulations, virtual labs, case studies, etc. 
 
 4. **Andragogy:** Recognize that adults learn differently than children. Design learning experiences with the assumption that your participants will come to the table with their own set of life experiences and motivations. Adults tend to direct their own learning, tend to learn better by doing, and will want to apply their learning to concrete situations as soon as possible. 
-<details>
 
-<details>
-<summary markdown="span">Developing Learning Objectives</summary>
+### Developing Learning Objectives
 
 If you are developing training, add learning objectives to the beginning of the content to state a clear training outcome. A clear learning objective describes what the learner will do upon completion of a learning/training activity. Good learning objectives are what you want team members to learn or achieve. 
 
@@ -242,16 +238,14 @@ If you are developing training, add learning objectives to the beginning of the 
 - By the end of the session, team members will be able to describe the steps taken to address underperformance
 - Team members will be able to apply the GROW coaching model framework to coaching sessions with members of their team 
 - After learning about the high-performance team-building model, team members will be able to determine the steps needed to reach high performance.
-<details>
 
-<details>
-<summary markdown="span">70-20-10 Model for Learning and Development</summary>
+
+### 70-20-10 Model for Learning and Development
 
 The L&D team uses a formula to describe the optimal sources of learning at GitLab. It shows that team members obtain 70 percent of the knowledge from job-related experiences, 20 percent from interactions with others, and 10 percent from formal learning events. The model is intended to show that hands-on experience (70 percent) can be one of the most beneficial for team members because it enables them to discover and refine their job-related skills. Team members learn from others (20 percent) through a variety of activities we offer every week. Lastly, the formula holds that only 10 percent of professional development comes from traditional live learning and eLearning events. 
 <details>
 
-<details>
-<summary markdown="span">Instructional Design 101</summary>
+### Instructional Design 101
 
 The Learning & Development, [Field Enablement](/handbook/sales/field-operations/field-enablement/), and [Professional Services](/handbook/customer-success/professional-services-engineering/) team hosted an Instructional Design 101 session on 2020-10-28 to better understand concepts of adult learning theory and instructional design. Check out the video to learn how to apply instructional design to learning content. 
 
