@@ -495,7 +495,7 @@ The campaign meta data is a one time synch, where as the `Actual Cost in Campaig
     - Update `Status` to `In Progress` or the approriate selection
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
-- If the program is being ran by Digital Marketing, add the SFDC campaign under the parent campaign `Demand Gen Pulishers/Sponsorships
+- If the program is being ran by Digital Marketing, add the SFDC campaign under the parent campaign `Demand Gen Pulishers/Sponsorships`
 
 #### Steps to Setup Surveys in Marketo and SFDC
 There are two templates to consider when setting up surveys in Marketo, one being specific to Simply Direct and the other a more general survey template. For this section and where instructions diverge, Simply Direct instructions will be labeled with `a` and the more general set up with `b`. 
