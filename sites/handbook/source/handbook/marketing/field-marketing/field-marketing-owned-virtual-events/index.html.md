@@ -478,6 +478,14 @@ This process is currently in transition but for more details, please visit [this
 ## Rescheduling a Webcast
 **DRI: FMM and FMC**  
 
+## Emergency Reschedule of a Workshop
+It is not optimal, but in a situation where  unforeseen event causes an emergency cancellation and you need to reschedule. Please add these first steps to the outline below: 
+1. If you are in the pre-event session, and determine the event can not occur.  Obtain 2 alternative dates and times from the SME’s delivering the session while everyone is on the call.   
+1. Open the webcast session and remain on for a minimum of 30 minutes, broadcasting a messate with the name of the event, and share "Due to unexpected issues beyond our control, this morning’s workshop is being rescheduled.  Please check your email for more details.  We apologize for any inconvenience, and appreciate your understanding
+1. Reach out to the FMC to send a message to registrants, indicating the event will not occur due to unforeseen circumstances, and ask them to stay tuned for more details.  Apologize for any inconvenience. 
+1. If the FMC is not available, download the contact from SFDC and send the message directly from your email. 
+1. Proceed to the next section.
+
 In the event you need to change the date of your webcast, please follow the steps outlined below.
  
 1. Update the date/time of the webcast on the webcast calendar and resend invites to all panelists.
