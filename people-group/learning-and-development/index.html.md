@@ -64,16 +64,7 @@ _Performance indicators_
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdSkXvFLoLfpF4egf-4h8-Y-_FOx_BBfC9PVxVNMUlZ2Xi7oH7oHi8nCrCm7bD2Cir2znJ-9tBOlp2/pub?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-**Learn more about our [FY22 Roadmap and curriculum](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375)**.
-
-### Handbook First Training Content
-
-All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning). One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
-
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-
+**Learn more about our [FY22 Roadmap and tracking sheet](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375)**.
 
 ### L&D Organization
 
@@ -85,7 +76,7 @@ We are a small team, but we've got a big role to play at GitLab!
 * [Instructional Designer](/job-families/people-ops/instructional-designer/): [Irina Grosu](https://gitlab.com/IrinaGrosu)
 * [Learning System Administrator](/job-families/people-ops/learning-system-administrator/): [Jamie Allen](https://gitlab.com/jallen16)
 
-## How to Communicate with Us
+## Contact Us
 
 Slack: `#learninganddevelopment`
 
@@ -99,11 +90,19 @@ Please take 5 minutes for a survey to [tell us how do you prefer to learn](https
 
 You can view the Learning & Development calendar, as well as other people group team calendars on the [People Group Page](https://about.gitlab.com/handbook/people-group/#team-calendars). 
 
-## Learning Initiatives 
+### Handbook First Training Content
 
-The L&D team hosts and organizes [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) to engage the GitLab team in opportunities to learn. The team is consistently iterating on and adding to these resources!
+All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning). One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## Learning Opportunities 
+
+### Learning Initiatives 
+
+The L&D team hosts and organizes [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) to engage the GitLab team in opportunities to learn. The team is consistently iterating on and adding to these resources!
 
 ### Growth & Development
 
@@ -113,12 +112,17 @@ Team members can take advantage of up to $10,000 USD per calendar year for [Grow
 
 Everyone's career development is different, but we have [outlined](/handbook/people-group/learning-and-development/career-development/) what it can look like at GitLab. Career development also includes our [GitLab coaching framework](/handbook/leadership/coaching/) to support managers in holding coaching discussions with their team. 
 
-### Manager Enablement Programs
+### Leadership Development Programs
 
 GitLab has a growing [resource](/handbook/people-group/learning-and-development/manager-development/) to enable all team members transitioning to a manager role. It contains a link to a checklist, readings, and a form to help learning and development customize your development as a manager.
 
-The [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) is one of the first steps to building out a comprehensive manager enablement curriculum for People Leaders. We use daily challenges and the GitLab tool to facilitate async learning in a remote environment. We encourage new and tenured managers to sign up for an upcoming program to develop their ability to lead remote teams while learning from others in a collaborative setting. 
+**Learning programs to develop as a people leader:** 
 
+- [The Manager Challenge](https://about.gitlab.com/handbook/people-group/learning-and-development/)
+- [Transitioning to a manager role](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-development/)
+- [Coaching](https://about.gitlab.com/handbook/leadership/coaching/)
+- [Field Manager Development Program](https://about.gitlab.com/handbook/sales/field-manager-development/)
+ 
 ### Self-Paced Learning 
 
 Take advantage of [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/), an online educational platform that team members have access too to help develop skills through expert-led course videos. 
