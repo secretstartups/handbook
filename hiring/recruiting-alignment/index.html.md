@@ -9,7 +9,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Department                    | Recruiter       | Sourcer     | Candidate Experience Specialist    |
 |--------------------------|-----------------|-----------------|-------------------------------------|
 | Executive          | Rich Kahn   | Chriz Cruz | Ale Ayala |
-| Enterprise Sales, NA | Betty Sanchez |  TBH | Hannah Stewart |
+| Enterprise Sales, NA | Jake Foster |  TBH | Hannah Stewart |
 | Enterprise Sales, EMEA | Debbie Harris |  Kanwal Matharu | Hannah Stewart (temporary) |
 | Enterprise Sales, APAC | Debbie Harris |  Kanwal Matharu | Hannah Stewart (temporary) |
 | Commercial Sales,	AMER | Marcus Carter | TBH  | Hannah Stewart |
