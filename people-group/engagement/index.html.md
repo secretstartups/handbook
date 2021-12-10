@@ -106,6 +106,8 @@ See the examples from FY21' for the [Product](https://gitlab.com/gitlab-com/Prod
 
 #### Resources for Managers
 
+[Engagment Survey Manager Toolkit - GitLab Learn pathway](https://gitlab.edcast.com/pathways/engagement-survey-manager-toolkit)
+
 [Managers Guide to Taking Action](https://academy.cultureamp.com/hc/en-us/articles/207302419-Manager-s-guide-to-taking-action-on-Engagement-survey-results)
 
 [Take Action with Action Framework](https://academy.cultureamp.com/hc/en-us/articles/115005387945-Take-action-with-action-framework)
