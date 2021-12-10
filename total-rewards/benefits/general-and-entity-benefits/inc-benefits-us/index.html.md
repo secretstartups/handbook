@@ -298,6 +298,8 @@ For out-of-network services: 365 days from Date of Service.
 #### Pregnancy & Maternity Care
  
 With medical plans, GitLab offers pregnancy and maternity care. Depending on the plan you selected, your coverages may differ for in-network vs out-of-network, visits, and inpatient care. Please contact the [Total Rewards team or WTW](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#who-to-contact) with any questions about your plan. Once your child has arrived, please follow the steps outlined above in regard to this [Qualifying Life Event](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#qualifying-life-events).
+
+You may need a [reasonable accommodation](/handbook/people-policies/inc-usa/#reasonable-accommodation) during your pregnancy. For more information regarding GitLab's [Pregnancy Accommodation](/handbook/people-policies/inc-usa/#pregnancy-accommodation) policy, please also refer to our [Individuals with Disabilities](/handbook/people-policies/inc-usa/#individuals-with-disabilities-policy) policy. 
  
 ### Dental
  
