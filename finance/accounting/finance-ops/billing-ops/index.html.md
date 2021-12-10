@@ -248,6 +248,16 @@ See also: [The GitLab Tax Team](https://about.gitlab.com/handbook/tax/)
 
 </details>
 
+<details>
+
+<summary markdown='span'>
+Can a customer view invoices from the GitLab Customers Portal?
+</summary>
+
+Yes, Customers can view invoices in the GitLab Customers Portal! The customer account admin can access invoices by selecting the `View Invoices` option from the upper right hand option in the portal, then select the `Download as PDF` option to view any invoices that have been issued.
+
+</details>
+
 Internal FAQ Resource: [Frequently Asked Questions - pulled from Chatter, Slack, Cases, and Tickets](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/FAQ_Internal_Billing_Team)
 
 ## GitLab Billing Entities
