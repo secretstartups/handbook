@@ -85,23 +85,28 @@ In the event of an severity::1 (critical) security vulnerability email communica
 {: #documentation-past}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * [MURAL of experienece prior to intelligent nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1625087469029/970807f67b4072c5d9f4cb22d813de3288a2e70a?sender=jgragnola2053)
-* [CTA & UTM documentation experienece prior to intelligent nurturee](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=0)
+* [CTA & UTM documentation experienece prior to intelligent nurture](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=0)
 
-#### Creating an Email Send Program for Intelligent Nurture
+#### Creating an nurture Email Send Program for Intelligent Nurture
+{: #create-nurture-email}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 **The following process is for Verticurl for the inital switch over, and will be updated once the initial recreation of emails is completed.** If you have quesitons, please ask `@jgragnola` in [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1541).
 
-1. [Clone this template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8466A1) and name with the 
+1. [Clone this template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8466A1)
     - Clone into `A Campaign Folder`
-    - Name the program `Type-ShortContentName` (i.e. `ebook-scaledci`)
+    - Name the program `Type-ShortContentName` (i.e. `ebook-scaledci` or `webcast-simlifycicd` or `work-security`)
     - Folder is `Master Email Programs (Intelligent Nurture)`
-    - Description link to [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1541)
 1. Edit Email in the program
     - DO NOT UPDATE EMAIL CODE or you will break the email from the template.
-    - Copy is indicated in [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1541) with the link to the original in Marketo. 
-    - If the email in the original in Marketo is missing something (i.e. a CTA button because the template is different), please comment in the issue with a link to BOTH 1. the original Marketo email link 2. the new Marketo email program
+    - Copy is indicated in the issue and should align to the email template. 
+    - If the email in the original in Marketo is missing something (i.e. a CTA button because the template is different), please comment in the issue.
 1. Add the link to the new email in [this spreadsheet](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=2096477155) in the column named `Link to New Marketo Program`
-1. Check the box in [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1541) for the email that was created, AND link to the new Marketo program
 
+#### Adding an email to Intelligent Nurture
+{: #add-nurture-email}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+In the nurture stream, click "add content" BLAH BLAH BLAH
 
 #### Reading for those unfamiliar with Marketo
 {: #marketo-nurutre-reading}
