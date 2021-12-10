@@ -1,4 +1,3 @@
-
 ---
 layout: markdown_page
 title: "Selling Reference Architectures Working Group"
