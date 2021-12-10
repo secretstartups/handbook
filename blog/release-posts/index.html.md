@@ -491,7 +491,7 @@ A feature should be `primary` if the feature:
 #### Reviews
 
 PM Director/Group Manager, PMM, and Product Design reviews are highly recommended, but the Tech Writer review is the only one required for inclusion in the Release Post. Tech Writer review is required even when late additions are made to the release post after the 18th of the month. The Tech Writing review should be focused on looking for typos, grammar errors, and helping with style. PMs are responsible for coordinating any significant content/tech changes. Communicating priority about which release post items are most important for review will help Product Section leads, PMMs, and Tech Writers review the right items by the 10th of each month, to ensure the proper labels are applied to the MR and assign reviewers to the MR when it is ready for them to review (ex: `Tech Writing`, `Direction`, `Deliverable`, etc).
-- **Note: For consistency, use the [Reviewers for Merge Requests(https://docs.gitlab.com/ee/user/project/merge_requests/getting_started#reviewer)] feature in GitLab when assigning PM Director/Group Manager, PMM, TW, and Product Design team members for content reviews.**
+- **Note: For consistency, use the [Reviewers for Merge Requests](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started#reviewer)] feature in GitLab when assigning PM Director/Group Manager, PMM, TW, and Product Design team members for content reviews.**
 
 ##### Recommendations for optional PM Director/Group Manager and PMM Reviews
 
@@ -1830,7 +1830,7 @@ The [development.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/
 
 Here are some of the common errors that a user might encounter where it may not be clear as what to do.
 
-1. You are missing a required Ruby Gem
+**You are missing a required Ruby Gem**
 
 You might receive obscure error such as this:
 
@@ -1847,7 +1847,7 @@ Traceback (most recent call last):
 
 In this case, Ruby is trying to load a file named `styled_yaml`. It's not clear that this is a gem (a self-contained Ruby library), but the `require` statement in the output is a clue that there is some unresolved dependency here. **The action you should take in this case is to run `bundle install`**. You can also run `./bin/doctor` and it _should_ provide guidance on what to do. If you're uncomfortable or encounter have difficulty here, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
 
-2. Ruby mismatch
+**Ruby mismatch**
 
 If you have a Ruby version manager installed, you may receive an error in your terminal along the lines of `ruby  3.0.0  Not installed. Run "asdf install ruby 3.0.0"`
 
@@ -1867,7 +1867,7 @@ Note that the handbook currently [suggests](https://about.gitlab.com/handbook/gi
 
 It is also possible that your ruby version manager is misconfigured or your settings have been altered because of an upgrade to macOS especially from earlier versions to Catalina or higher. It's difficult to suggest an action for this scenario, you may want to reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
 
-3. Gems install correctly, but you still have a missing gem error
+**Gems install correctly, but you still have a missing gem error**
 
 The ruby gem package manager is called bundler. Depending on the version of bundler you have installed, it is possible to configure bundler to install gems in a location different from the usual (and required) location by passing the `--path that_other_directory` are remembered between invocations and will be stored in `./.bundle/config` or in `./bundle/config`.
 
@@ -1879,7 +1879,7 @@ BUNDLE_PATH: "that_other_directory"
 
 **The action you can take here is to edit that file `./bundle/config` and possibly `./bundle/config` to remove the BUNDLE_PATH setting and re-run `bundle install`.** You may also want to remove the `that_other_directory` which is often `vendor`. If you're uncomfortable or encounter have difficulty here, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
 
-4. Locking support
+**Locking support**
 
 You might encounter a message like this about locking support when you push a local commit to origin.
 
@@ -1890,7 +1890,7 @@ Locking support detected on remote "origin". Consider enabling it with:
 
 You can probably safely ignore this suggestion. More documentation on [Git LFS file locking](https://github.com/git-lfs/git-lfs/wiki/File-Locking).
 
-5. JAMF and git-lfs conflict
+**JAMF and git-lfs conflict**
 
 In the process of trying to push your commits to gitlab.com git is trying to verify the SSL cert. If you have JAMF installed (and you should for compliance reasons), git might find a different certificate for gitlab.com and throw an error about `Post "https://gitlab.com/gitlab-com/www-gitlab-com.git/info/lfs/locks/verify": x509: certificate signed by unknown authority
 error: failed to push some refs to 'gitlab.com:gitlab-com/www-gitlab-com.git'`.
