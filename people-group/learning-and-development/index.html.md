@@ -118,10 +118,11 @@ GitLab has a growing [resource](/handbook/people-group/learning-and-development/
 
 **Learning programs to develop as a people leader:** 
 
-- [The Manager Challenge](https://about.gitlab.com/handbook/people-group/learning-and-development/)
-- [Transitioning to a manager role](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-development/)
-- [Coaching](https://about.gitlab.com/handbook/leadership/coaching/)
-- [Field Manager Development Program](https://about.gitlab.com/handbook/sales/field-manager-development/)
+- [The Manager Challenge](/handbook/people-group/learning-and-development/)
+- [Leadership Chats](/handbook/people-group/learning-and-development/manager-challenge/leadership-chats/)
+- [Transitioning to a manager role](/handbook/people-group/learning-and-development/manager-development/)
+- [Coaching](/handbook/leadership/coaching/)
+- [Field Manager Development Program](/handbook/sales/field-manager-development/)
  
 ### Self-Paced Learning 
 
@@ -129,9 +130,7 @@ Take advantage of [LinkedIn Learning](/handbook/people-group/learning-and-develo
 
 ### [GitLab Learn](https://gitlab.edcast.com/): EdCast Learning Experience Platform (LXP) 
 
-We are currently in the process of implementing GitLab Learn, our [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-learn/). **The LXP launched internally for GitLab team members on 2021-01-11** This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
-
-We are also in the process of launching LinkedIn Learning internally for all team members. Stay tuned for more details and the content will be supplemental to GitLab customized content and apply a [Handbook-first approach to interactive learning](/handbook/people-group/learning-and-development/interactive-learning/).
+GitLab Learn, our [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-learn/) launched internally for GitLab team members on 2021-01-11. This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
 
 ### Mentoring at GitLab
 
