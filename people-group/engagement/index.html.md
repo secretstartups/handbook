@@ -90,17 +90,19 @@ For the FY22 Engagement Survey, all divisions are recommended to create an Epic 
 
 In addition, Managers can create an Engagement Survey Action Issue that links to the division wide epic. In the Issue, managers can link team wide actions to the division. 
 
-See the examples from FY21' for the [Product](https://gitlab.com/gitlab-com/Product/-/issues/1986) and [Development](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10743) groups for inspiration
+See the examples from FY21' for the [Product](https://gitlab.com/gitlab-com/Product/-/issues/1986) and [Development](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10743) groups for inspiration.
 
 **FY22 Division-Wide Engagement Survey Action Epics:** 
 
 - Engineering 
-- Field 
+- Product
+- Sales 
+- Marketing
 - Finance
 - People
-- Product
 - Legal
-- COS
+- CEO
+
 
 #### Resources for Managers
 
