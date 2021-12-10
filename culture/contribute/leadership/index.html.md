@@ -32,13 +32,13 @@ Leaders should consider themselves "hosts" of the event, which means that, in ad
 - Check on your team throughout Contribute
 - Err on the side of caution and over-communication by contacting People Ops immediately if there is an issue or if you think there may be a problem/concern
 
-**Who to contact?**
+**Who to contact if an issue or violation occurs?**
 - Corporate Events team - can be reached through the event app or [via email](mailto:contribute@gitlab.com)
 - People Operations Team - can be reached via Slack and people ops email address
 
 ## Behavior
 
-* Attending Contribute is optional but recommended. Most people report it is great to get to know each-other better and the schedule is fun, about 90% of the team is able to attend.
+* Attending Contribute is optional but recommended. Most team members report it is great to get to know each-other better and the schedule is fun. In past in-person Contribute events, about 90% of the team were able to attend.
 * The executive team is required to attend for the full duration of the event.
 * Wear your name-tag when you're outside your room, including during excursions, meals, and on departure day.
 * Try to join different people every time we sit down for a meal
@@ -48,10 +48,10 @@ Leaders should consider themselves "hosts" of the event, which means that, in ad
 * Prior to Contribute, ensure to communicate to any external stakeholders (i.e. candidates, customers, vendors, etc) that response time may be less reliable, as you will be out of the office and will not have as much access to email and calls.
 * Respect the laws and customs of the location we are visiting.
 
-### Extraverts and Introverts
+### Extroverts and Introverts
 Remember that you and your co-workers may have different personality types in terms of how you interact with others in large social situations. Consider the differences between extraverts and introverts:
 
-**Extraverts**
+**Extroverts**
 
 - Recharge by being Social
 - Enjoy group conversations
@@ -71,11 +71,11 @@ Remember that you and your co-workers may have different personality types in te
 
 **Ambiverts**
 
-- A combination of both introverts and extraverts
+- A combination of both introverts and extroverts
 
 References:
-[Are Extraverts Happier Than Introverts? Psychology Today](https://www.psychologytoday.com/blog/thrive/201205/are-extroverts-happier-introverts)
-[Are You an Extravert, Introvert, or Ambivert?](https://www.psychologytoday.com/us/blog/cutting-edge-leadership/201711/are-you-extravert-introvert-or-ambivert)
+[Are Extroverts Happier Than Introverts? Psychology Today](https://www.psychologytoday.com/blog/thrive/201205/are-extroverts-happier-introverts)
+[Are You an Extrovert, Introvert, or Ambivert?](https://www.psychologytoday.com/us/blog/cutting-edge-leadership/201711/are-you-extravert-introvert-or-ambivert)
 
 ## Health and safety
 {: #health-and-safety}
