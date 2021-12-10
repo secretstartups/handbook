@@ -56,7 +56,7 @@ For customers on free plans (.com 'Free' and self-managed 'core'), there is the 
 
 ## GitLab issue trackers
 
-When an issue for either GitLab.com or self-hosted installations is confirmed (bug, regression etc), it will be reported on the main [GitLab project issue tracker](https://gitlab.com/gitlab-org/gitlab/issues). As a Support Team member, most issues will be reported here, however you might report issues in one of the other following areas listed below (based on the specific feature or product):
+When an issue for either GitLab.com or self-managed installations is confirmed (bug, regression etc), it will be reported on the main [GitLab project issue tracker](https://gitlab.com/gitlab-org/gitlab/issues). As a Support Team member, most issues will be reported here, however you might report issues in one of the other following areas listed below (based on the specific feature or product):
 
 - [GitLab Runner issue tracker](https://gitlab.com/gitlab-org/gitlab-runner/-/issues) for issues specific to GitLab Runners.
 - [GitLab Charts issue tracker](https://gitlab.com/gitlab-org/charts/gitlab/-/issues) for issues specific to GitLab Helm Charts.
