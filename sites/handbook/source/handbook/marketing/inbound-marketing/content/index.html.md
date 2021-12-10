@@ -1,9 +1,3 @@
----
-layout: handbook-page-toc
-title: "Global Content Team"
-description: "An overview of the strategy and processes for the Global Content team, which comprises content marketing, editorial, digital production, and search marketing."
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -13,6 +7,7 @@ description: "An overview of the strategy and processes for the Global Content t
 The Global Content team is responsible for generating content growing GitLab's website traffic and share of voice.
 
 Global Content is part of the [Inbound Marketing department](/company/team/structure/#organizational-structure), and has four (4) teams:
+
 - [Content Marketing](/handbook/marketing/inbound-marketing/content/content-marketing/)
 - [Digital Production](/handbook/marketing/inbound-marketing/content/digital-production/)
 - [Editorial](/handbook/marketing/inbound-marketing/content/editorial-team)
@@ -90,7 +85,7 @@ We accomplish this through:
 
 ### Content Strategy Principles
 
-1. **Audience-first mindset.**  All content is produced with the audience in mind and has a clearly defined "who, what, why, how".
+1. **Audience-first mindset.** All content is produced with the audience in mind and has a clearly defined "who, what, why, how".
 1. **Entertain and connect.** Our content is entertaining, enjoyable to consume, and expresses our acute understanding of our audience. We want our content to compel our audience to binge and share versus bookmark for later.
 1. **Make it easy.** Relevant content is easy to find regardless of format. Our content finds our audiences where they are.
 1. **Media company mindset.** Our global content team operates with the mindset that our audience is our customers, content is our product, and subscribers are our currency.
@@ -108,6 +103,7 @@ Our FY21-22 direction focuses on building inbound organic search traffic and get
 The Editorial team's [goals are to grow our blog audience, engage readers, and covert readers into subscribers](/handbook/marketing/inbound-marketing/content/editorial-team/#goal-grow-our-audience-engage-readers-and-convert-readers-into-subscribers). To achieve this our strategy is guided by our existing audience's needs and wants; prioritizing useful, educational, informative, and entertaining content that has value beyond promoting GitLab.
 
 Areas of focus:
+
 - Continue to monitor traffic to posts and document takeaways on performance to inform our planning of future posts
 - Continue to document [best practices](/handbook/marketing/inbound-marketing/content/editorial-team/#writing-blog-posts--best-practices) to enable contributors
 - Improve SEO in new blog posts and selected past posts
@@ -120,6 +116,7 @@ Areas of focus:
 The content market team creates, writes, and publishes awareness and consideration level content for the website. The content focuses primarily on topics pages, web articles, eBooks, infographics, case studies, and white papers. The team works closely with various groups to strategize and develop content for all integrated marketing campaigns, including creating assets and providing awareness level insights for email marketing.
 
 Areas of focus:
+
 - Continue to create content for existing campaigns: VC&C, CI/CD, DevSecOps, GitOps.
 - Continue cross-team collaboration for partner campaigns.
 - Continue to produce case studies, web articles, and topics pages.
@@ -140,9 +137,12 @@ Detail our plan & roadmap for content creation. Link to the CM handbook. Include
 ## Communication Overview
 
 ### Issue trackers
+
+``` sse
  - [Global Content](https://gitlab.com/groups/gitlab-com/-/boards/1500703?&label_name[]=Global%20Content)
  - [Blog](https://gitlab.com/gitlab-com/www-gitlab-com/boards/804552?&label_name[]=blog%20post)
  - [Content by stage](https://gitlab.com/groups/gitlab-com/-/boards/1136104)
+```
 
 ### Labels
 
@@ -197,10 +197,11 @@ The homepage hero is updated frequently to promote new content, events, and anno
 
 1. The H1 should be 50 characters or less and include a "you" statement, speaking directly to the reader.
 1. The H2 should be 65 characters or less and include a value statement (i.e. what the reader will gain).
-1. CTAs should be lead with an action verb and convey exactly what will be given in exchange for filling out the form.  
+1. CTAs should be lead with an action verb and convey exactly what will be given in exchange for filling out the form.
 
 ## Requesting content team support
-*Need help finding relevant content to use in an email or to send to a customer?* Ask for help in the #content channel.*
+
+_Need help finding relevant content to use in an email or to send to a customer?_ Ask for help in the #content channel.*
 
 ### Requesting content and copy reviews
 
@@ -226,7 +227,7 @@ Content production is aligned to digital campaigns and product messaging.
 
 **Definitions**
 
-- Campaign/Value driver: A high-level GTM message that doesn't change often. Campaigns are tracked as `Parent Epics`.  
+- Campaign/Value driver: A high-level GTM message that doesn't change often. Campaigns are tracked as `Parent Epics`.
 - Pillar: A story within a theme. Pillars are tracked as `Child Epics`.
 - Set: A topical grouping of content to be executed within a specific timeframe. Sets are tracked as `Milestones`.
 - Resource: An informative asset, such as an eBook or report, that is often gated.
@@ -234,17 +235,20 @@ Content production is aligned to digital campaigns and product messaging.
 ## Content stage / buyer's journey definitions
 
 ### Awareness (Top)
-Users and buyers realize that they have a problem or challenge which could be solved through some sort of outside software or service.  At this stage, they are trying to define the scope and the relative impact and size of the problem.  They probably do not yet have a solution identified, but are in the process of learning about potential solutions to their specific business problem.
 
-In general, messaging in collateral and content should be focused on **educating them about the problems they are facing, the business impact of their problems, and the reality that others are successfully solving the same problem**.  This is an opportunity for them to learn that GitLab is an authority in addressing their domains.
+Users and buyers realize that they have a problem or challenge which could be solved through some sort of outside software or service. At this stage, they are trying to define the scope and the relative impact and size of the problem. They probably do not yet have a solution identified, but are in the process of learning about potential solutions to their specific business problem.
+
+In general, messaging in collateral and content should be focused on **educating them about the problems they are facing, the business impact of their problems, and the reality that others are successfully solving the same problem**. This is an opportunity for them to learn that GitLab is an authority in addressing their domains.
 
 ### Consideration (Middle)
-Users and buyers understand the problem they are trying to solve and the business impact/value of addressing the problem and are now actively seeking and evaluating potential remedies to their business issue.  Typically, they will be considering a range of approaches from better leveraging existing tools to investing in new technologies and vendors.  In this stage they are focused on identifying options that meet their specific requirements and needs.  While cost will be a consideration, they have not yet made a final decision about how to address their needs.  In this stage, they will be defining their budget and overall plans for implementing a solution.
 
-In general, collateral and content designed to reach prospects in this stage of their journey should be focused on **positioning GitLab as a viable and compelling solution to their specific problem**.  
+Users and buyers understand the problem they are trying to solve and the business impact/value of addressing the problem and are now actively seeking and evaluating potential remedies to their business issue. Typically, they will be considering a range of approaches from better leveraging existing tools to investing in new technologies and vendors. In this stage they are focused on identifying options that meet their specific requirements and needs. While cost will be a consideration, they have not yet made a final decision about how to address their needs. In this stage, they will be defining their budget and overall plans for implementing a solution.
+
+In general, collateral and content designed to reach prospects in this stage of their journey should be focused on **positioning GitLab as a viable and compelling solution to their specific problem**.
 
 ### Decision/Purchase (Bottom)
-Users and buyers have concluded that they need to invest in solving a specific business problem and are now comparing and evaluating specific options.  In this stage, they are evaluating and comparing different options in order to identify the ideal solution for their specific situation.  They will consider Fit (technology, process, etc), implementation effort/cost, total cost of ownership and other factors to guide them in making a final selection.  
+
+Users and buyers have concluded that they need to invest in solving a specific business problem and are now comparing and evaluating specific options. In this stage, they are evaluating and comparing different options in order to identify the ideal solution for their specific situation. They will consider Fit (technology, process, etc), implementation effort/cost, total cost of ownership and other factors to guide them in making a final selection.
 
 In general, collateral and content designed to reach prospects in this stage of their journey should be focused on key information that a buyer needs to **justify GitLab as their chosen solution**.
 
