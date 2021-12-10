@@ -45,35 +45,19 @@ The Quarterly Achiever's Chat recognizes Field team members who have excelled in
 1. Knowledge sharing of best practices that can replicated by other Field team members
 1. Leaders/teams outside of the Field organization gain visibility into Sales momentum and key wins
 
+Quarterly Achievers Chats span three quarters: Q1, Q2 and Q3 each year. We do not have Quarterly Achievers criteria/winners for Q4, as award/recognition efforts for Q4 are wrapped into Sales Kickoff (SKO) Awards.
+
 Key features of this call include: 
 1. 25-minute call
 1. Held within first month of new quarter
 1. CEO and CRO attendance required
 1. Not recorded 
 
-### Selection Criteria - Q4-FY22 
+### Selection Criteria - FY23-Q1
 
-In total, 12 team members from across the Field organization will be recognized. The categories by segment include: 
-1. Enterprise Sales
-   1. ENT Rookie Award
-   1. Land with Vision Expand with Purpose Award
-   1. Services Attach Success Award 
-1. Customer Success
-   1. Top Delivery Team Results
-   1. SA Customer Results
-   1. T(e)AM Expansion
-1. Commercial Sales
-   1. Q3 Comm Rookie Award
-   1. R7 Results Delivery Award
-1. Channel 
-   1. Q3 Channel Rookie Award 
-   1. Partner Collaboration Award
-1. Alliances 
-   1. Alliances Peak Results Award
-1. Field Operations
-   1. Field Operations MVP
+In total, 12 team members from across the Field organization will be recognized. The categories by segment for FY23-Q1 winners will be added here once decided on by CRO LT. 
 
-See the detailed criteria in [this spreadsheet](https://docs.google.com/spreadsheets/d/1hSHyI-jZL_TwrhHeZILQWIktfFJXr_3jQ16E56thnEk/edit?usp=sharing). Considerations include: 
+Considerations include: 
 1. Categories are reevaluated by CRO leadership and Field Operations every quarter and changed if deemed necessary. 
 1. A team member cannot win a Quarterly Achiever award twice within a fiscal year. 
 
