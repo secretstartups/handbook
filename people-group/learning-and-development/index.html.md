@@ -197,7 +197,7 @@ Additional planning and notes around the sprint board can be found in [this issu
 ## Developing Learning Content
 
 <details>
-<summary markdown="span">Top five training content development principles</summary>
+<summary markdown="span">Top Five Training Content Development Principles</summary>
 
 If you are developing content to meet your learning needs or partnering with the L&D team, here are five key principles to consider when formulating a learning session: 
 
@@ -259,9 +259,10 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Be8oRHp0E84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
+
 <details>
- 
- ### Learning Components - Definitions
+
+### Learning Components - Definitions
 
 | Term | Definition | Duration |
 | ------ | ------ | ------ |
