@@ -250,7 +250,6 @@ If you are developing training, add learning objectives to the beginning of the 
 The L&D team uses a formula to describe the optimal sources of learning at GitLab. It shows that team members obtain 70 percent of the knowledge from job-related experiences, 20 percent from interactions with others, and 10 percent from formal learning events. The model is intended to show that hands-on experience (70 percent) can be one of the most beneficial for team members because it enables them to discover and refine their job-related skills. Team members learn from others (20 percent) through a variety of activities we offer every week. Lastly, the formula holds that only 10 percent of professional development comes from traditional live learning and eLearning events. 
 <details>
 
-
 <details>
 <summary markdown="span">Instructional Design 101</summary>
 
@@ -259,7 +258,6 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Be8oRHp0E84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-
 <details>
 
 ### Learning Components - Definitions
