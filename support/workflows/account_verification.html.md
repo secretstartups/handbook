@@ -50,7 +50,7 @@ More succinctly: they're paid, they use the account to pay, or we use the accoun
 
 While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with [SSO enforcement](https://docs.gitlab.com/ee/user/group/saml_sso/#sso-enforcement) enabled. In these cases:
 
-1. [Owner vouch](#verifying-an-owner-vouch) is required.
+1. [Owner vouch](#authenticating-an-owner-vouch) is required.
 1. Primary email of the account must match the company domain.
 1. User must still prove account ownership following the [workflow](#workflow).
    - Include the paid namespace when determining the data classification level.
@@ -75,9 +75,9 @@ If you need a basis for a response where you send the challenges, or in a 2FA ti
 1. **If the verification failed**: A peer review is optional, and you may opt to [offer more challenges to the user](#user-fails-to-prove-account-ownership).
 1. *Peer reviewer:* In case you disagree, leave an internal note on the ticket stating your thoughts on what the risk factor should be and reply to the Slack conversation for further discussion. If you agree, move to [the next section](#user-successfully-proves-account-ownership) on what to do if successful.
 
-### Verifying an Owner Vouch
+### Authenticating an Owner Vouch
 
-For a paid namespace, the owner should create a private Snippet with a Support-provided string. Once they have replied verifying they have done so:
+In a paid namespace: If the user elects to have an Owner vouch for their request, apply the macro `Support::SaaS::2FA::2FA ask owner vouch`. This will direct the requestor to have an Owner create a private Snippet with a Support-provided string. Once they have replied verifying they have done so:
 
 1. Verify that the Owner's email address matches the primary address of an Owner in the namespace.
 1. Use your Admin or Auditor account to browse to the Snippet provided (e.g. `https://gitlab.com/-/snippets/2057341`)
@@ -86,7 +86,14 @@ For a paid namespace, the owner should create a private Snippet with a Support-p
    - Verify that the author of the Snippet is an Owner in the paid namespace
 1. If the Owner passes, you may count this towards the account verification challenges.
 
-Please note: Due to this [bug](https://gitlab.com/gitlab-org/gitlab/-/issues/337939) some group owners are not able to create snippets. Please add a comment to the bug issue, and check for possible workarounds. If the owner is still not able to create a snippet, please verify the owner vouch and proceed with the request.
+Note: Due to this [bug](https://gitlab.com/gitlab-org/gitlab/-/issues/337939) some group owners are not able to create snippets. In that case use a [backup method](#backup-methods-for-authenticating-an-owner) instead.
+
+### Backup methods for authenticating an owner
+
+If a group owner is unable to create a snippet, you may use another method to verify their identity. It must be an action that has been specifically instructed by Support and identifiably unique to the situation. Some examples include having the owner:
+ - create an issue in a project they have access to with a specific piece of text that you provide.
+ - create a new project at a path that you provide.
+ - update their GitLab Status to a specific string.
 
 ### User Successfully Proves Account Ownership
 
@@ -103,7 +110,7 @@ This section is typically done by the peer reviewer. If needed, the peer reviewe
 > **Note**: Do _not_ provide hints to answers, or let the user know which challenges they got right or wrong. That is how social engineering works!
 
 1. If the user is unable to pass the risk factor but we have not provided all the applicable challenges, you may offer further challenges.
-   - Most commonly, an `Owner in the top level namespace` (with a valid subscription) vouch is requested. Use the [`Support::SaaS::2FA::2FA ask owner vouch` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360052221199). See the [Verifying an Owner Vouch section](#verifying-an-owner-vouch) for more information.
+   - Most commonly, an `Owner in the top level namespace` (with a valid subscription) vouch is requested. Use the [`Support::SaaS::2FA::2FA ask owner vouch` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360052221199). See the [Verifying an Owner Vouch section](#authenticating-an-owner-vouch) for more information.
    - For large organizations, please check the Zendesk organization notes to see if they're using the [large customers](#large-customers) workflow before offering the owner vouch challenge.
    - When we receive a subsequent response, go back to [evaluating the challenges](#evaluating-challenge-answers) to see if they now pass.
 1. If the user is unable to pass the available challenges:
