@@ -44,7 +44,7 @@ At GitLab, team members have access to the [Growth and Development benefit](/han
 **Step 2:** Create a new Growth & Development issue at least 30 days before the commencement date:
 * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=academic_study) for applications relating to Academic Study.
 * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-growth-development) for other types of Growth & Development applications.
-* For bulk applications or if you are a manager creating one issue for your team members, please include the team members' BambooHR Employee Numbers on the issue.
+* For bulk applications or if you are a manager creating one issue for your team members, please include the team members' GitLab emails on the issue.
 
 * Note: This application process is visible internally. It is preferred and more efficient to create an issue for your application, however, if there is any reason that you would like to keep your application confidential, please send growth-development@gitlab an email with the details of your application (refer to the issue templates for the information required).
 
