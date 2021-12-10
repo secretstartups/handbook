@@ -1,3 +1,12 @@
+---
+layout: handbook-page-toc
+title: Global Content Team
+description: >-
+  An overview of the strategy and processes for the Global Content team, which
+  comprises content marketing, editorial, digital production, and search
+  marketing.
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -6,12 +15,12 @@
 
 The Global Content team is responsible for generating content growing GitLab's website traffic and share of voice.
 
-Global Content is part of the [Inbound Marketing department](/company/team/structure/#organizational-structure), and has four (4) teams:
+Global Content is part of the [Corporate Marketing department](https://about.gitlab.com/handbook/marketing/corporate-marketing/), and has four (4) teams:
 
 - [Content Marketing](/handbook/marketing/inbound-marketing/content/content-marketing/)
 - [Digital Production](/handbook/marketing/inbound-marketing/content/digital-production/)
 - [Editorial](/handbook/marketing/inbound-marketing/content/editorial-team)
-- Search Marketing
+- [Search Marketing](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/)
 
 ## Slack Channels
 
@@ -23,7 +32,6 @@ Global Content is part of the [Inbound Marketing department](/company/team/struc
 
 - [GitLab blog handbook](/handbook/marketing/blog)
 - [Gated content process](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/)
-- [Newsletter process](/handbook/marketing/marketing-sales-development/marketing-programs/#newsletter)
 
 ## Editorial calendar
 
@@ -138,11 +146,9 @@ Detail our plan & roadmap for content creation. Link to the CM handbook. Include
 
 ### Issue trackers
 
-``` sse
  - [Global Content](https://gitlab.com/groups/gitlab-com/-/boards/1500703?&label_name[]=Global%20Content)
  - [Blog](https://gitlab.com/gitlab-com/www-gitlab-com/boards/804552?&label_name[]=blog%20post)
  - [Content by stage](https://gitlab.com/groups/gitlab-com/-/boards/1136104)
-```
 
 ### Labels
 
