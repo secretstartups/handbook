@@ -33,7 +33,7 @@ Handbook content currently uses both `Title Case` and `Sentence case` for titles
 
 ### Capitalize Brand Names
 
-Brand names such as "Apple" and "Slack" are proper nouns, so they should usually be capitalized. If a brand name uses unusual capitalization, as in "eBay" and "VMware", then follow the brand's convention.
+Brand names such as "Apple" and "Slack" are proper nouns, so they should be capitalized, unless a brand name uses unusual capitalization, as in "eBay" and "VMware". If that is the case, then follow the brand's convention.
 
 ### Use Kebab Case for File and Directory Names
 
