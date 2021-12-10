@@ -49,7 +49,7 @@ The editorial team members are the [directly responsible individuals (DRI) for t
 
 ## How to suggest a blog post
 
-The first step in publishing a blog is to open an issue in [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and ping @vsilverthorne and/or @Sglitten.
+The first step in publishing a blog is to open an issue in [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and ping @vsilverthorne and/or @Sgittlen.
 
 If your post is time-sensitive, please ping @ValSilver on slack. Otherwise the editorial team will reach out to you to discuss timing. 
 
