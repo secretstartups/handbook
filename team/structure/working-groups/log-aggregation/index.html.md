@@ -41,7 +41,7 @@ Intent is to:
    1. Aggregation: The consistent, reliable, and configurable collection and shipping of logs to defined location(s)
    1. Accessibility: Tooling and functionality to provide timely access and manipulation of the log data
    1. Retention: Define, provide means to enforce, and verify the necessary retention policies on log data
-1. Publish documentation and training material on the GitLab logging lifecycle for use by the GitLab.com service and self-hosted GitLab
+1. Publish documentation and training material on the GitLab logging lifecycle for use by the GitLab.com service and self-managed GitLab
 
 ## Roles and Responsibilities
 
