@@ -19,7 +19,7 @@ The Database Engineer is a [grade 6](/handbook/total-rewards/compensation/compen
 ## Responsibilities
 
 * Pro-actively identify database performance impediments and resolve them by proposing and delivering changes to the GitLab codebase. Own this process end-to-end, from triaging issues to verifying your solution in production (GitLab.com)
-* Deliver application changes that allow us to scale the application and its database further and make sure we're prepared for data growth on both GitLab.com and self-hosted installs
+* Deliver application changes that allow us to scale the application and its database further and make sure we're prepared for data growth on both GitLab.com and self-managed installs
 * Act as a Database [Maintainer](https://about.gitlab.com/handbook/engineering/workflow/code-review/#maintainer) for the GitLab codebase and [review database-related application changes](https://docs.gitlab.com/ee/development/database_review.html) before they are released
 * Providing database expertise to engineering teams through code reviews, pairing and training to help deliver optimal database designs and queries
 * Review, optimize and refactor the existing database schema
