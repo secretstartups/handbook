@@ -95,6 +95,7 @@ For feedback issues labeled "satisfaction::bad", determine the following:
 1. Why the feedback was given
 1. If further [action needs to be taken](#if-there-is-action-to-be-taken)
 1. If the customer should be contacted to discuss the feedback given
+1. If the feedback should be discussed with a TAM
 
 You should document your finding and any follow-up actions taken in the issue.
 You may use the following template to add a comment to the feedback issue (NOT the
@@ -104,6 +105,7 @@ ticket!):
 * **Summary of ticket/feedback:**
 * **Action to be taken:**
 * **Contact customer to discuss feedback? (Y/N)**
+* **Make the TAM aware of this feedback? (Y/N)**
 ```
 
 If no action needs to be taken, and the customer does not need to be contacted to discuss the ticket, `/close` the Feedback Issue.
