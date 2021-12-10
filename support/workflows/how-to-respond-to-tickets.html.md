@@ -112,7 +112,7 @@ We also can be transparent that we're in the hypothesis testing mode. When doing
 
 It is interesting to note that the hypothesis test feeds back into the characterization mode, as we're establishing new facts about the user's scenario with the test.
 
-You can come up with multiple theories and corresponding tests in a single response. In fact, doing so might help explicit the structure of the operation modes described above. The facts established in the characterization step would be common to all theories. The possibilities described in a single theory, however, might not apply to others, so it is important to keep them separate.
+You can come up with multiple theories and corresponding tests in a single response. In fact, doing so might help make explicit the structure of the operation modes described above. The facts established in the characterization step would be common to all theories. The possibilities described in a single theory, however, might not apply to others, so it is important to keep them separate.
 
 The idea for this was taken from [Jeff Anderson's talk](https://www.youtube.com/watch?v=DK1ew1HpmeY&t=127s).
 
@@ -196,7 +196,7 @@ Currently we are curating the list of articles and redirects, so you need to rea
 ### Openly share your mistakes and learn from them
 
 We are all human and while we all strive to ensure our interactions with customers
-is 100% correct, the truth is that we are bound to make mistakes from time to
+are 100% correct, the truth is that we are bound to make mistakes from time to
 time. This can create a stressful or anxious situation if you provided a customer
 with the wrong advice, or you were unaware of a particular aspect of a ticket that
 was pointed out to you later on for example.
