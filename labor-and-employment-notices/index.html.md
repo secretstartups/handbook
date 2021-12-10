@@ -127,7 +127,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 ### Pennsylvania
 * [Minimum Wage Law](https://www.dli.pa.gov/Documents/Mandatory%20Postings/llc-1.pdf)
 * [Abstract of Equal Pay Law](https://www.dli.pa.gov/Documents/Mandatory%20Postings/llc-8.pdf)
-* [Employment Provisions of the PA Human Relations Act](https://www.phrc.pa.gov/About-Us/Publications/Documents/Required%20Posters/Fair%20Employment.pdf)
+* [Employment Provisions of the PA Human Relations Act](https://www.phrc.pa.gov/AboutUs/Documents/Fair%20Employment.pdf)
 
 #### City of Philadelphia
 * [Promoting Healthy Families and Workplaces](https://www.phila.gov/media/20191218103833/Paid-Sick-Leave-Poster-Translations.pdf)
