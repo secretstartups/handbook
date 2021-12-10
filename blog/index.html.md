@@ -49,7 +49,7 @@ The editorial team members are the [directly responsible individuals (DRI) for t
 
 ## How to suggest a blog post
 
-The first step in publishing a blog is to open an issue in [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and ping @vsilverthorne and/or @Sglitten.
+The first step in publishing a blog is to open an issue in [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and ping @vsilverthorne and/or @Sgittlen.
 
 If your post is time-sensitive, please ping @ValSilver on slack. Otherwise the editorial team will reach out to you to discuss timing. 
 
@@ -114,7 +114,7 @@ Example: Does this blog post contain confidential company information, customer 
 
 **2. Accurate:** "The A in SAFE serves as a reminder to double-check that the information Team Members are sharing is Accurate."
 
-Example: Can you site the information shared in this blog post? Is this information verifiable if challenged by an external party?
+Example: Can you cite the information shared in this blog post? Is this information verifiable if challenged by an external party?
 
 Remember: "Not only should Team Members make sure that the information is Accurate, but they should be able to provide the underlying data, if applicable, to support the accuracy or confirm the methodology used to achieve the data."
 
@@ -158,7 +158,7 @@ It is important that our blog content represents our company values of diversity
 ### More DIB writing tips
 
 - Is your blog post biased? We all have unconscious biases. Take our [recognizing bias training](/company/culture/inclusion/unconscious-bias/#recognizing-bias-training), check the [list of unconscious biases in our DIB handbook page](/company/culture/inclusion/unconscious-bias/#unconscious-biases-to-look-out-for-in-ourselves-and-in-others) and practice strategies for [recognizing and managing yours](/company/culture/inclusion/unconscious-bias/#tips-on-recognizing-and-avoiding-bias).
-- If you still have questions, don't hesitate to tag the editorial team lead @vsilverthorne, leads of the appropriate [team member resource group (TMRG)](/company/culture/inclusion/erg-guide/) in your blog issue or email diversityinclusionandbelonging@gitlab.com with your questions.
+- If you still have questions, don't hesitate to tag the editorial team lead @vsilverthorne, leads of the appropriate [team member resource group (TMRG)](/company/culture/inclusion/erg-guide/) in your blog issue, or email diversityinclusionandbelonging@gitlab.com with your questions.
 
 ## Formatting guidelines
 
@@ -419,7 +419,7 @@ Ideally you should choose three blog posts related to your post, using the URL f
 
 ### Merch banner and sidebar
 
-These should be included by default on all blog posts. Use your discretion; if it doesn't seem appropriate to include merchandizing on a post you can leave out either the sidebar or both the sidebar and banner. Examples: If we're announcing a partnership or integration, if the blog post contains lots of images and a sidebar could distract from the content, or if the blog post is very technical in nature (a tutorial or post describing a security advisory, offensive security practices, etc) and merchandizing undermines the authenticity or intent of the content or author.
+These should be included by default on all blog posts. Use your discretion; if it doesn't seem appropriate to include merchandizing on a post you can leave out either the sidebar or both the sidebar and banner. Examples: If we're announcing a partnership or integration, if the blog post contains lots of images and a sidebar could distract from the content, or if the blog post is very technical in nature (a tutorial or post describing a security advisory, offensive security practices, etc.) and merchandizing undermines the authenticity or intent of the content or author.
 
 There are two steps to include these: Designate what merch sidebar and banner to add in the front matter [example frontmatter above](/handbook/marketing/blog/#frontmatter), and add the merch sidebar inside your content:
 
