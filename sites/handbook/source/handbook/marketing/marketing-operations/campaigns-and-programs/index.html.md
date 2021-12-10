@@ -33,7 +33,10 @@ Campaign Managers track costs associated with campaigns - such as events, conten
 **The following steps are used to create and manage campaign tags:**
 
 1. Event Owners create the campaign tag in the budget document, link to a procurement issue if it exists, and also the main tactic issue. 
-1. Finance is notified by either the Procurement issue or the main tactic issue (if the tactic costs less than $5,000 and has no contract that needs to be signed) that a campaign tag needs to be created.  NetSuite, which then updates Expensify nightly.
+1. To request the creation of a new campaign tag please add the details to [this tracker](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit?usp=sharing). 
+   * The GL team will create the tags at the end of each day. 
+   * The tag is created in Netsuite and syncs with Expensify and Coupa.
+1. The tag must be noted in the Coupa requisition, Procurement issue or the main tactic issue (if the tactic costs less than $5,000 and has no contract that needs to be signed) 
 1. The Salesforce campaign is set up to match the campaign tag exactly, so that it can be used as a unique identifier and tracked across multiple systems. We only need to set up campaign tags for events/campaigns or if there are multiple vendors for the same budget line item that we are trying to track.
 1. If you are a Field Marketer, more information on campaign tags for Field Marketing can be [found here](/handbook/marketing/field-marketing/#field-marketing-campaign-tags). 
 1. For the MCM team, additional details can be found in the campaign epic. 
