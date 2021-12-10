@@ -110,6 +110,99 @@ See the examples from FY21' for the [Product](https://gitlab.com/gitlab-com/Prod
 
 [Take Action with Action Framework](https://academy.cultureamp.com/hc/en-us/articles/115005387945-Take-action-with-action-framework)
 
+## FY' 22 Q4 Pulse Engagement Survey Results
+
+Our Pulse Engagement Survey FY'22 Q4 ran from 2021-11-4 to 2021-11-18 and was open to all team members who started prior to 2021-10-15. We reached 87% participation and an overall engagement score of 85% favorable. 
+This score is 9 pts higher than our New Tech peer group, which consists of ~150 fast growing and disruptive tech companies who have ~1000+ total team members. 
+We also scored 4 pts higher than we did in the 2020 Engagement Survey overall. 
+
+Below you will find a summary of our overall results, as well as key insights and opportunities.
+
+A huge thanks to everyone who completed the survey and made their voice heard. Your feedback helps us to continually improve the experience of working at GitLab.
+
+#### Company Results (Overall)
+
+| **Favourable** | **Neutral** | **Unfavourable** |
+|---|---|---|
+| 85% | 11% | 4% |
+
+#### Top Three Scores
+
+In addition to Engagement, we asked questions about other factors regarding our workplace and culture. A factor score is the average score of all questions within that factor.
+
+| **Factor** | **Favourability Rating** |
+| --- | --- | 
+| Company Confidence | 94% | 
+| Inclusion | 88% | 
+| Our Leaders | 83% | 
+
+GitLab was rated between 4%-12% percent higher than the industry benchmark i.e. New Tech (1,000+) 2021 across all three factors detailed above.
+
+| **Question** | **Favourability Rating** |
+| --- | --- |
+| I am proud to work for GitLab | 96% |
+| GitLab is in a position to really succeed over the next three years | 94% |
+| I would recommend GitLab as a great place to work | 94% |
+
+GitLab was rated between 7-12% percent higher than the industry benchmark i.e. New Tech (1,000+) 2021 across all three questions detailed above.
+
+#### Top Three Opportunities
+
+| **Factor** | **Favourability Rating** |
+| --- | --- | 
+| Action | 55% | 
+| Your Role | 67% | 
+| Growth % Development | 79% | 
+
+GitLab was rated between 1%-10% percent higher than the industry benchmark i.e. New Tech (1,000+) 2021 across all three factors detailed above.
+
+| **Question** | **Favourability Rating** |
+| --- | --- |
+| I have seen positive changes taking place based on recent team member survey results  | 48% |
+| I believe action will take place as a result of this survey | 61% |
+| I believe there are good career oppotunities for me at GitLab | 72% |
+
+GitLab scored 1-2% below the industry benchmark i.e. New Tech +1,000 2021 for the two lowest scoring questions surrounding positive actions however GitLab scored 6% higher than the benchmark regarding career opportunities.
+
+#### FY' 22 E-Group Focus Areas
+
+
+For the FY'22 Q4 Pulse Engagement Survey results, we will be leaning into epics and issues for tracking and planning. 
+
+You can find full detail on the process and guidance [here](https://about.gitlab.com/handbook/people-group/engagement/#taking-action).
+
+All links should be added by 2022-01-21 aligned with our [timeline](/handbook/people-group/engagement/#fy22-pulse-engagement-survey-timeline). 
+
+
+#### Actions taken since the last survey
+
+**Growth & Development**
+1. 2 L&D team members trained to deliver Crucial Conversations and so far delivered 3 cohorts in 2021
+1. Hosted multiple live learning sessions
+1. Organized Skill of the Month
+1. Added LinkedIn Learning benefit for team members
+1. Iterated and delivered multiple sessions of Manager Challenge
+1. Implemented new GitLab Learn LXP
+1. Built out mentorship handbook resources
+1. Piloting LifeLabs Learning for Manager Enablement
+1. Launched GitLab Team Members Certification
+1. Learning & Development Team expansion with 2 new team members
+1. Facilitated over 15 CEO Handbook Learning Sessions
+1. Launched Functional Learning Hubs on GitLab Learn
+
+**Compensation**
+1. Implemented regions in the location factors.
+1. Moved to annual refresh grants from 3.5 year refresh with the first cycle taking effect March 2021.
+1. Moved from options to RSUs in September 2021.
+1. Reduced the vesting for RSUs to new hire cliff of 6 months and no cliff for promos/refresh.
+1. Implemented industry leading ESPP / Alternate ESPP for all team members at GitLab.
+
+**Resource Allocation**
+1. Increased headcount from 1267 team members in December 2020 to 1574 team members in December 2021.
+1. Our average [promotion rate](https://about.gitlab.com/handbook/people-group/people-group-metrics/#promotion-rate) in 2021 is 16.77%, which is higher than the average market promotion rate
+
+#### Questions and Support
+The GitLab Team Member Engagement Survey is managed by the `People Operations Specialists`, if you require support or have any questions around the survey please be sure to reach out via `#people-connect`.
 
 ## Previous Engagement Survey Results 
 
