@@ -21,15 +21,14 @@ This page details processes and general guidelines specific to the Executive Bus
 * Stefanie Haynes (Sr. EBA) supporting Craig Mestel (CMO) and Melissa Smolensky (VP of Corporate Marketing)
 * Alison Allende (Sr. EBA) supporting Brian Robins (CFO) 
 * Kat Allen (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) 
-* Kristie Thomas (Sr. EBA) supporting Scott Williamson (CProdO) and Eric Johnson (CTO)
-  * Jennifer Garcia (EBA) providing interim support
+* Kristie Thomas (Sr. EBA) supporting Scott Williamson (CProdO), Eric Johnson (CTO) and Anoop Dawar (VP of Product Management)
 * Sharlene Seemungal (Sr. EBA) supporting Robin Schulman (CLO)
 
 
 ### All-Directs EBA's 
 * Dana Pelton (Sr. EBA) supporting David Hong (VP of Field Operations), Michelle Hodges (VP of Worldwide Channels) and Nima Badiey (VP of Alliances)
 * Victoria Reinhardt (EBA) supporting David Sakamoto (VP of Customer Success), Ryan O’Nell (VP of Commercial Sales), Mike Pyle (VP of Enterprise Sales)
-* Jennifer Garcia (EBA) supporting Johnathan Hunt (VP of Security) and Anoop Dawar (VP of Product Management)
+* Jennifer Garcia (EBA) supporting Johnathan Hunt (VP of Security)
 * Cindy King (EBA) supporting Dale Brown, Bryan Wise, VP FP&A and VP of IR 
 
 
