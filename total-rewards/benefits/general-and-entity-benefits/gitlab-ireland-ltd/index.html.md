@@ -67,9 +67,9 @@ All full-time GitLab team members are eligible for disability cover in the amoun
 
 ## Additional Benefits Through Aviva
 
-* Best Doctors
-* Up to 15% off Aviva general insurance products
-* Free travel insurance if you take our Car & Home together
+* [Best Doctors](https://drive.google.com/file/d/1U4qZSavFwBYSJlbJ1-EnEeYqW6AV07Ft/view?usp=sharing)
+* Up to 15% off Aviva general insurance products.  To retrieve the discount, members should contact [Aviva](https://www.aviva.ie/about-and-support/contact-us/) and quote the promocode on the [discount flyer](https://docs.google.com/document/d/103R3aoktGOafEJz_qGuLoG3ObIas6vEKT-W9mJhIJ10/edit?usp=sharing).
+* Free travel insurance if you take our Car & Home together. Members can access this benefit via the [Insurance Discount Flyer](https://drive.google.com/file/d/1TjPKiTMYYTUvoxz0p83bseMgPM2G3K_Z/view?usp=sharing)
 
 ## Bike to Work/Tax Saver Commuter Scheme
 
