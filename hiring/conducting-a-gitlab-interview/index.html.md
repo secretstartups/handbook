@@ -200,6 +200,8 @@ Scoring is defined as follows:
   * The candidate demonstrated clear opposition to either our Collaboration, Diversity, or Results values
   * The candidate demonstrated unwillingness to learn our Efficiency, Iteration, or Transparency values
 
+More info on [engineering hiring practices](/handbook/engineering/#hiring-practices).
+
   ### Frequently Asked Questions (FAQ)
 
 * My Zoom link isn't working, who can help?
