@@ -129,7 +129,7 @@ Please follow the following payment process when purchasing new licenses from WI
 
 1. Request an invoice from WILL Interactive
 1. Once you have recieved the invoice from our WILL Interactive representative, send the PDF to `gitlab @ supplierinvoices.com` and cc other team members on the [Learning & Development Job Family](https://about.gitlab.com/job-families/people-ops/learning-development/) as well as the WILL Interactive representative. 
-1. The Learning & Development Generalist will recieve an email from Tipalti to approve the invoice 
+1. The Learning & Development Generalist will receive an email from Coupa to approve the invoice 
 1. Once the L&D Generalist approves, it will go to the Principal Accounting Officer to approve 
 1. Once fully approved, the payment will go out in the weeks payment run 
 
