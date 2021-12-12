@@ -16,7 +16,7 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 
 ## Specific to Canadian Team Members
 
-Benefits are administered by Great West Life. The benefits decision discussions are held by Total Rewards and the Comp Group to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available.
+Benefits are administered by Canada Life. The benefits decision discussions are held by Total Rewards and the Comp Group to elect the next year's benefits by the carrier's deadlines. 
 
 GitLab covers **100%** of team member, spouse, dependents, and/or domestic partner premiums for medical, dental, and vision coverage.
 
@@ -108,6 +108,84 @@ Please fill out the [Evidence of Insurability Form](https://drive.google.com/fil
 * Reach out to Total Rewards to fill out section 1-3 first. 
 * Total Rewards will return this to you to complete the remaining sections. 
 * Once completed, please submit directly to Canada Life at groupmed@canadalife.com 
+
+
+## Enrollment  
+
+GitLab has chosen a digital administration platform, Collage, to manage our benefits administration for all plans except the RRSP plan. Consider this platform as your single source of truth when it comes to benefits, where you can enroll in the plan, update your enrollment information and view coverage.
+
+**For new hires:**
+You will be receiving an invitation from `no-reply@collage.co` with a personalized link. Click on that link to set up your profile. Please reach out to the Total Rewards team at `total-rewards@gitlab.com` if you have any questions! Here are some additional [instructions](https://drive.google.com/file/d/0B4eFM43gu7VPRWZFOHBxMUZnaUVoOGxWbzVSNEdiWk9qOVpR/view?usp=sharing) on how to set up your account and enroll in benefits.
+
+Member ID: When you complete your digitial enrollment, Collage will populate a Member ID # for you. You can find the Member ID # in the Benefits Tab on your Collage profile page. You may need this number to complete your Evidence of Insurability form or your Beneficairy Designation form.
+
+### Updating Coverage Status and Enrollment of Domestic Partners, Spouses, and Dependents
+
+For instructions on adding your spouse, dependents, and updating your coverage stutus, please review the [Employee Collage Benefits HQ Handbook](https://drive.google.com/file/d/1Ph5ur-tguZ0EIWXCaJvmWlUOhnfcy7X9/view?usp=sharing) 
+
+Domestic Partner Enrollment: Canada Life uses the first day cohabitating as the date of eligibility to enter into the GitLab health plan. Anyone who has a common law spouse that they wish to add, moving from Single to Family coverage, for example, will need to do so within 30 days of moving in together. For further instructions on adding your 
+
+### Canada Life Enrollment
+
+In addition to enrollment in the Collage portal, you can also register directly with Canada Life. To register, you can do so by following this [registration link](https://gwl.greatwestlife.com/MyRegistration). This will allow you access to Canada Life’s GroupNet for Plan Members and the ability to download the GroupNet Mobile app on your mobile device. Once registered you will have access to online claims submission, your electronic benefits card, direct deposit of claim payments, view the status of your claims and more. Canada Life has also provided the following [Welcome Packet](https://drive.google.com/file/d/1Fg9LxE-eyLqgDihpw5kUb-4PuDK5AeMa/view?usp=sharing). The [french version of the welcome packet](https://drive.google.com/file/d/1SChNz6Ir6Vyk8scbM-WJR1N8solVmpeE/view?usp=sharing) is also available. 
+
+Learn how to use GroupNet for Plan Members by watching the helpful videos in the following [pdf](https://drive.google.com/file/d/1mrZPMKd17m9cwC1Qnsdq6KyJ2lmfehFe/view?usp=sharing).
+
+### Canada Life User Portal and App 
+
+Canada Life has a [user portal](https://www.canadalife.com/) and App available to download that allows you to access your benefits information and ID cards. Please see the [brochure](https://drive.google.com/file/d/1ohL0svax7CEyfuNl1Xn0HcURwJ9I5HYm/view?usp=sharing) for more information and instructions on registering. 
+
+### Insurance Cards
+
+Printed Canada Life benefits cards are being phased out and it is recommended to print a PDF card for yourself and your spouse (if applicable). You can also access your electronic drug card online through the Groupnet for Plan Members site or through the mobile app.
+
+For further instructions on how this can be obtained online, please review the following [PDF](https://drive.google.com/file/d/1x3Ug5nYQir-Ct_8YxN2dwBP0b7uMvGX9/view?usp=sharing).
+
+This card provides your group plan number and member identification number. Keep this information with you at all times and use it when requested by a health or dental provider or in case of medical emergency when traveling.
+
+### Canada Life Tools
+
+Canada Life has designed [tools and services](https://www.greatwestlife.com/you-and-your-family/products/group-benefits.html) to make your life easier, allowing you to access your coverage details when you want, the way you want.  
+
+
+## Frequently asked questions
+
+* Can the pharmacist submit my prescription claim electronically without a drug card?
+  * Yes, as long as you have the necessary information, a physical card is not needed for your prescription claim to be electronically submitted. Here are a few options for you: Log-on to [GroupNet for Plan Members](https://gwl.greatwestlife.com/MyLogin) and print out a paper copy of your drug card. Log-on to GroupNet for Plan Members (Mobile App or online) and save an electronic card to your phone. Provide your pharmacist you plan number, identification number, date of birth and identify if the patient is the employee, spouse or dependent child. 
+* Who should I contact with questions?
+  * For health, prescription drug, dental or out-of-country coverage or claims inquiries, please call 1-800-957-9777 or email Canada Life at `grp_hd_inquire@gwl.ca`.
+* What are my key responsibilities as a plan member?
+  * If you experience a major lifestyles event, you must advise your plan administrator within 31 days of the event and complete any corresponding paperwork. Failure to notify Canada Life of a lifestyle event within 31 days of the event, could result in limitations or declined coverage. Please see your plan administrator for support.
+  * Major lifestyles events include: 
+     * Marriage - legal or common-law (1st day of cohabitation)
+     * Legal Separation
+     * Divorce or termination of a common-law relationship
+     * Death of spouse or insured child, Birth or adoption of a child
+     * Loss of spouse’s benefits
+     * Dependents becoming ineligible for dependent coverage either because of their age or student status 
+
+## Registered Retirement Savings Plan (RRSP)
+
+Effective November 1, 2021, eligible Canadian Team Members can enroll in GitLab's Group Registered Retirement Savings Plan (RRSP). Under this plan you can begin contributing pre-tax income towards a retirement savings account managed by our provider, Canada Life.
+
+### Plan Details
+
+* Eligible: Start date or November 1, 2021 if hired before the plan effective date.
+* Match: GitLab will match up to 3% of base salary with a cap of 2,500 CAD. Team members may voluntarily choose to contribute more than 3% with no employer match.
+* Eligibility criteria: All full-time (defined as working at least 30 hours per week) team members of GitLab Canada Corp.
+* Contributions may be updated at any time, but please allow 1 - 2 payroll cycles for the new contribution amount to reflect in your paycheck.
+
+### RRSP Enrollment
+
+For enrolling into the RRSP, please navigate to [Canada Life's RRSP portal](https://mycanadalifeatwork.com) and follow the directions in the [enrollment express pdf](https://drive.google.com/file/d/16K333QPsXllZFolC_yiXZYb3rUYJwXvu/view?usp=sharing). For a more detailed overview of enrolling and navigating the RRSP platform, please reference the [enrollment express guide](https://www.brainshark.com/1/player/grs?pi=zGWz97lF4zPVigz0&r3f1=c5ff81d2ded38b99c999f69cca80c7ded98198f2dbc5c1cd9e&fb=0).
+
+* Once enrolled, a plan administrator will need to approve your enrollment. This may take up to two weeks.
+* If you need any help, please contact Canada Life at 1-800-724-3402, our broker SC Insurance at info@scinsurance.ca, or the Total Rewards team at total-rewards@gitlab.com. 
+* Please remember to select a beneficiary when enrolling. This is separate from the beneficiary elected for your life insurance plan.
+
+## Canada Pension Plan (CPP)
+
+Employer contributions are made to the federal Canada Pension Plan (CPP).
 
 ## PTO and Vacation Information
 
@@ -433,77 +511,6 @@ The following statutory leave types run concurrently with GitLab PTO. Statutory 
 
 </details>
 
-## Canada Pension Plan (CPP)
-
-Employer contributions are made to the federal Canada Pension Plan (CPP).
-
-## Enrollment  
-
-GitLab has chosen a digital administration platform to manage our benefits administration. Consider this platform as your single source of truth when it comes to benefits, where you can enroll in the plan, update your enrollment information, and view your coverage that will be in effect March 1, 2020.
-
-**For new hires:**
-You will be receiving an invitation from `no-reply@collage.co` with a personalized link. Click on that link to set up your profile. Please reach out to the Total Rewards team at `total-rewards@gitlab.com` if you have any questions! Here are some additional [instructions](https://drive.google.com/file/d/0B4eFM43gu7VPRWZFOHBxMUZnaUVoOGxWbzVSNEdiWk9qOVpR/view?usp=sharing) on how to set up your account and enroll in benefits.
-
-### Canada Life Enrollment
-
-To register through Canada Life, you can do so by following this [registration link](https://gwl.greatwestlife.com/MyRegistration). This will allow you access to Canada Life’s GroupNet for Plan Members and the ability to download the GroupNet Mobile app on your mobile device. Once registered you will have access to online claims submission, your electronic benefits card, direct deposit of claim payments, view the status of your claims and more. Canada Life has also provided the following [Welcome Packet](https://drive.google.com/file/d/1Fg9LxE-eyLqgDihpw5kUb-4PuDK5AeMa/view?usp=sharing). The [french version of the welcome packet](https://drive.google.com/file/d/1SChNz6Ir6Vyk8scbM-WJR1N8solVmpeE/view?usp=sharing) is also available. 
-
-Learn how to use GroupNet for Plan Members by watching the helpful videos in the following [pdf](https://drive.google.com/file/d/1mrZPMKd17m9cwC1Qnsdq6KyJ2lmfehFe/view?usp=sharing).
-
-## Insurance Cards
-
-Printed Canada Life benefits cards are being phased out and it is recommended to print a PDF card for yourself and your spouse (if applicable). You can also access your electronic drug card online through the Groupnet for Plan Members site or through the mobile app.
-
-For further instructions on how this can be obtained online, please review the following [PDF](https://drive.google.com/file/d/1x3Ug5nYQir-Ct_8YxN2dwBP0b7uMvGX9/view?usp=sharing).
-
-This card provides your group plan number and member identification number. Keep this information with you at all times and use it when requested by a health or dental provider or in case of medical emergency when traveling.
-
-## Canada Life Tools
-
-Canada Life has designed [tools and services](https://www.greatwestlife.com/you-and-your-family/products/group-benefits.html) to make your life easier, allowing you to access your coverage details when you want, the way you want.  
-
-## Canada Life User Portal and App 
-
-Canada Life has a [user portal](https://www.canadalife.com/) and App available to download that allows you to access your benefits information and ID cards. Please see the [brochure](https://drive.google.com/file/d/1ohL0svax7CEyfuNl1Xn0HcURwJ9I5HYm/view?usp=sharing) for more information and instructions on registering. 
-
-## Frequently asked questions
-
-* Can the pharmacist submit my prescription claim electronically without a drug card?
-  * Yes, as long as you have the necessary information, a physical card is not needed for your prescription claim to be electronically submitted. Here are a few options for you: Log-on to [GroupNet for Plan Members](https://gwl.greatwestlife.com/MyLogin) and print out a paper copy of your drug card. Log-on to GroupNet for Plan Members (Mobile App or online) and save an electronic card to your phone. Provide your pharmacist you plan number, identification number, date of birth and identify if the patient is the employee, spouse or dependent child. 
-* Who should I contact with questions?
-  * For health, prescription drug, dental or out-of-country coverage or claims inquiries, please call 1-800-957-9777 or email Canada Life at `grp_hd_inquire@gwl.ca`.
-* What are my key responsibilities as a plan member?
-  * If you experience a major lifestyles event, you must advise your plan administrator within 31 days of the event and complete any corresponding paperwork. Failure to notify Canada Life of a lifestyle event within 31 days of the event, could result in limitations or declined coverage. Please see your plan administrator for support.
-  * Major lifestyles events include: 
-     * Marriage - legal or common-law (1st day of cohabitation)
-     * Legal Separation
-     * Divorce or termination of a common-law relationship
-     * Death of spouse or insured child, Birth or adoption of a child
-     * Loss of spouse’s benefits
-     * Dependents becoming ineligible for dependent coverage either because of their age or student status 
-
-### Enrollment of Domestic Partners
-
-Great West Life uses the first day cohabitating as the date of eligibility to enter into the GitLab health plan. Anyone who has a common law spouse that they wish to add, moving from Single to Family coverage, for example, will need to do so within 30 days of moving in together.
-
-## Registered Retirement Savings Plan (RRSP)
-
-Effective November 1, 2021, eligible Canadian Team Members can enroll in GitLab's Group Registered Retirement Savings Plan (RRSP). Under this plan you can begin contributing pre-tax income towards a retirement savings account managed by our provider, Canada Life.
-
-### Plan Details
-
-* Eligible: Start date or November 1, 2021 if hired before the plan effective date.
-* Match: GitLab will match up to 3% of base salary with a cap of 2,500 CAD. Team members may voluntarily choose to contribute more than 3% with no employer match.
-* Eligibility criteria: All full-time (defined as working at least 30 hours per week) team members of GitLab Canada Corp.
-* Contributions may be updated at any time, but please allow 1 - 2 payroll cycles for the new contribution amount to reflect in your paycheck.
-
-### Enrollment
-
-For enrolling into the RRSP, please navigate to [Canada Life's RRSP portal](https://mycanadalifeatwork.com) and follow the directions in the [enrollment express pdf](https://drive.google.com/file/d/16K333QPsXllZFolC_yiXZYb3rUYJwXvu/view?usp=sharing). For a more detailed overview of enrolling and navigating the RRSP platform, please reference the [enrollment express guide](https://www.brainshark.com/1/player/grs?pi=zGWz97lF4zPVigz0&r3f1=c5ff81d2ded38b99c999f69cca80c7ded98198f2dbc5c1cd9e&fb=0).
-
-* Once enrolled, a plan administrator will need to approve your enrollment. This may take up to two weeks.
-* If you need any help, please contact Canada Life at 1-800-724-3402, our broker SC Insurance at info@scinsurance.ca, or the Total Rewards team at total-rewards@gitlab.com. 
-* Please remember to select a beneficiary when enrolling. This is separate from the beneficiary elected for your life insurance plan.
 
 ### Administrative Details for Benefits Team
 
@@ -517,12 +524,3 @@ Offboarding:
 
 Please see the [administration guide](https://drive.google.com/drive/u/0/folders/1qJ3NmOzDjeXKFpwwO2J0upF5ZVBs_YLD) for additional instructions.
 
-## Administrative Processes 
-
-**Adding New Dependents and Beneficiary Designation to Collage:** 
-1. Login to [Collage](https://secure.collage.co/)
-2. Top right corner, where your initials are – click on initials
-3. Click on “Your Profile”
-4. Go to “Beneficiaries and Dependents” (this section states – add, change or remove beneficiaries and dependents)
-5. Click to review – “Your Benefits”
-6. If able to update – please update in this section 
