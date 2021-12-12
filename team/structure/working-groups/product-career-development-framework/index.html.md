@@ -16,7 +16,7 @@ description: "Learn more about the Product Career Development Framework Working 
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | April 21, 2021 |
-| Target End Date | September 30, 2021 |
+| Target End Date | January 31, 2021 |
 | Slack           | [#wg_product-cdf](https://join.slack.com/share/zt-pg3dw504-aLrkdftFZ9xrqHEGqgqQMw) (only accessible by GitLab team members) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1a0baXkNsfDuDwcJ5IxNlLekCmFzElMGnmTmVAfQYV8o/edit?usp=sharing) (only accessible by GitLab team members) |
 | Docs            | TBD |
