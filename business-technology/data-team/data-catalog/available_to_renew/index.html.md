@@ -28,10 +28,6 @@ In a subscription business, it is crucial to understand what and how much of our
 
 Additionally, to get the full picture of what is available to renew you must also determine if a subscription is a multi-year deal. If it is a multi-year deal, the subscription will be available to renew at the end of the multi-year term.
 
-Example:
-* 3 year subscription, paid upfront: Appears as available to renew three years after the subscription is effective for the full amount, but not in the intervening years.
-* 3 year ramp subscription, paid annually: One-third of this subscription appears as available to renew for each year the subscription is effective.
-
 The models mentioned below have been designed to do this, pulling together the universe of potential renewal subscriptions at a point in time. The snapshotting models go futher to lock in this data on a given date so we can review how the subscriptions available to renew shift over time compared to the live model.
 
 By using historical data, you can then put weights on the amount of money available to renew to do forecasting for future billings or bookings. This model does not fall under the purvue of the Data Team, but is an interesting use case for this particular model.
@@ -77,7 +73,6 @@ Facts:
 
 Marts:
 * `mart_available_to_renew`
-* `mart_available_to_renew_snaphot`
 * `mart_available_to_renew_snapshot_model`
 
 Reports:
