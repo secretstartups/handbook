@@ -46,16 +46,33 @@ To gain access to SAFE Dashboards:
 
 1. Create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and list up to three SAFE Dashboards from the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index) you require access to. This list of SAFE Dashboards will help approvers understand your needs and intent.
 2. Request approval from your immediate manager, your Departmental VP (or equivalent), and the SAFE Space Owner defined in the GitLab Dashboard Index header. Approval is **not needed**, if you have an approval for SAFE Data [access](/handbook/business-technology/data-team/platform/#warehouse-access) in Snowflake, that is not older than 60 days. Skip this step and link to the particular AR. 
-3. Once the request is approved, tag @gitlab-data/analysts and the Data Team will process the request.
+3. Once the request is approved, follow the instructions in the tech_stack.yml file for provisioning. 
 4. After processing is complete you will be able to login to Sisense and access your requested SAFE dashboard and all other dashboards within the SAFE Dashboard Space.
 
-![Sisense Spaces](sisense_spaces_singular.png)
+![Sisense Spaces](safe_intermediate.png)
 
 Please see the [Accessing](/handbook/business-technology/data-team/platform/#warehouse-access) SAFE Data in Snowflake for instructions on to access the SAFE data in Snowflake.
 
 SAFE Data in Google Sheets files can be accessed using the instructions for [Accessing a SAFE Dashboard](/handbook/business-technology/data-team/data-catalog/#accessing-a-safe-dashboard). Please follow those instructions to gain access to SAFE Data in Google Sheets. 
 
 `END OF 2021-09-08 SAFE Dashboard Change Announcement`
+
+`IMPORTANT: 2021-12-17 SAFE Intermediate Dashboard Changes`
+
+**On 2021-12-17 We will iterate on the SAFE Dashboard Program by creating a new **SAFE Intermediate Dashboard** space. The **SAFE Intermediate Dashboard** space is driven by GitLab's maturation and the [SAFE Data Framework](https://about.gitlab.com/handbook/legal/safe-framework/). The following section describes the planned access changes.**
+
+Access to the **SAFE Dashboard** space is not changing and team members can continue to follow the [Accessing a SAFE Dashboard](/handbook/business-technology/data-team/data-catalog/#accessing-a-safe-dashboard) instructions to gain access to the space. Access to the **GitLab** space is not changing and that continues to be a baseline entitlement for all team members. What is changing is the creation of a new **SAFE Intermediate Dashboard** space that will be governed as follows: 
+
+- the **SAFE Intermediate Dashboard** space houses dashboards that do NOT expose Material Non-Public Information (MNPI); however, they are built using restricted data models that contain sensitive financial data. Having VIEW only access to the space will NOT result in a team member being added to the designated insiders list by being included in the space. However, a team member could still be added to the designated insiders list for having access to sensitive information in other applications outside of Sisense. Having the EDITORS role in the **SAFE Intermediate Dashboard** space WILL result in the team member being added to the designated insiders list. This is because EDITORS in the Space will have access to all of the sensitive data in the restricted schemas in the space. Team members should check to see if the dashboard they require VIEW only access is available in the **SAFE Intermediate Dashboard** space so they can avoid be adding to the **SAFE Dashboard** space and thereby being added to the designated insiders list. A complete list of Dashboards, including SAFE and SAFE Intermediate Dashboards, is available in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index).
+
+To gain access to SAFE Intermediate Dashboards:
+
+1. To receive VIEW access only, create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and follow the instructions in the tech_stack.yml file.
+2. To receive EDITORS access, create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request), request approval from your immediate manager, your Departmental VP (or equivalent), and the SAFE Space Owner defined in the GitLab Dashboard Index header. Approval is **not needed**, if you have an approval for SAFE Data [access](/handbook/business-technology/data-team/platform/#warehouse-access) in Snowflake, that is not older than 60 days. Skip this step and link to the particular AR. 
+3. Once the request is approved, follow the instructions in the tech_stack.yml file for provisioning. 
+4. After processing is complete you will be able to login to Sisense and access your requested SAFE Intermediate dashboard and all other dashboards within the SAFE Intermediate Dashboard Space.
+
+![Sisense Spaces](sisense_spaces_singular.png)
 
 ## Data By Subject Area
 
