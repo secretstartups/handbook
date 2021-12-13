@@ -27,6 +27,7 @@ When the AppSec team is pinged on a JiHu contribution, it will typically be firs
 the AppSec engineer on [Triage (mentions and issues) Rotation](./triage-rotation.html). This person should:
 
 1. Ping the stable counterpart for the [relevant part of the codebase](/handbook/product/categories/#devops-stages) and ask them to perform the review
+    * If the change is small or easy to review, the AppSec engineer on triage can do the review themselves and `@-mention` the stable counterpart for visibility
 1. If the stable counterpart is unavailable or unassigned, the AppSec engineer on Triage Rotation can perform the review
 1. Alternatively, they can ask that someone else review it by linking to the MR in the `#sec-appsec` Slack channel and asking for a reviewer to volunteer
 
