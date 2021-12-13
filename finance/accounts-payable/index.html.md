@@ -65,7 +65,7 @@ Welcome to Accounts Payable, commonly referred to as AP. You should be able to f
 
 ### <i id="biz-tech-icons" class="far fa-flag"></i>Coupa
 
-We’re excited to announce that GitLab has launched Coupa, effective June 1, 2021 for Phase I and effective December 13, 2021 for Phase II.
+We’re excited to announce that GitLab has launched Coupa, effective 2021-06-01 for Phase I and effective 2021-12-13 for Phase II.
 
 Coupa is a procure-to-pay system that will help us streamline the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be implementing this new system in a phased approach. Phase I consists of US and Netherlands entities (GitLab Inc, Federal LLC, IT BV and BV). All remaining entities will switch over to Coupa during Phase II.
 
