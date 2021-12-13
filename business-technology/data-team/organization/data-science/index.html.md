@@ -30,8 +30,48 @@ The team accomplishes this mission by building machine learning models and analy
     - With the [**Data Engineering Team**](/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities):
         - Helping to define and champion Data Quality practices and programs for GitLab data systems
 
-# What is Data Science?
-- What exactly is data science?! Check out [this video](https://www.youtube.com/watch?v=wRbNExL0hv8) or [these slides](https://docs.google.com/presentation/d/1Y-V6bZ5w8Ms5yfMiuYCYZs9ald7Q5MxydYhSh9DWwwQ/edit?usp=sharing) for a quick overview.
+## What is Data Science?
+Check out this brief overview of what data science is at Gitlab:
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=wRbNExL0hv8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+([Corresponding slides](https://docs.google.com/presentation/d/1Y-V6bZ5w8Ms5yfMiuYCYZs9ald7Q5MxydYhSh9DWwwQ/edit?usp=sharing))
+
+### Data Science Tools at Gitlab
+
+- **[Pre-configured JuypterLab Image](https://gitlab.com/gitlab-data/data-science)**: The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out the the [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/) for additional information.
+
+- **[gitlabds python tools](https://gitlab.com/gitlab-data/gitlabds/)**: Functions to help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly via `pip install gitlabds` or use as part of the JupyterLab image above.
+
+- **Modeling Templates** (**Coming Soon!**)
+
+### Common Data Science Terms 
+**Data Science (DS)** - interdisciplinary field that uses computer science, statistical techniques and domain expertise to extract insights from data
+
+**Machine Learning (ML)** - use and development of algorithms without being explicitly programmed to determine patterns in data
+
+**Algorithm** -  sequence of computer-implementable instructions used to solve specific problem
+
+**Feature** - single column in dataset that can be used for analysis, such as country, age etc. Sometimes refered to as variables or attributes 
+
+**Feature Engineering** -  process of selecting, combining and transforming data into features that can be used by ML algorithms 
+
+**Weight** - numerical value assigned to feature that determines it's strength
+
+**Model** - A complex set of mathematical formulas that generates preditions
+
+**Imputation** - process of replacing missing or incorrect data with statistical "best guesses" of the actual values
+
+**Training** -  Applying an algorithm to data to generate a model
+
+**Test Dataset** - Deliberately excluding some observations from training the model so they can be used to test how well the model predicts  
+
+**Classification** - process of predicting categories for each observation. For example, determining if a picutre is of a cat or a dog. 
+
+**Regression** - process of predicting continuous numerical variable for each observation. For example, predicting a person's income.
+
+**Clustering** - process of finding natural groupings of observations in dataset. Often used for segmenation of product users or customers.
 
 
 ## Handbook First on Data Science Team
@@ -151,128 +191,15 @@ Our project increased revenue [X] by 10% [Y] by conducting detailed analysis [Z]
 
 Please note that above formula is a suggestion only that may help to describe outcomes of the project in a more efficient and concise way.
 
-# Data Science Tools at Gitlab
+## Useful Data Science & Machine Learning Resources
 
-- **[Pre-configured JuypterLab Image](https://gitlab.com/gitlab-data/data-science)**: The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out the the [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/) for additional information.
+- **_Python Data Science Handbook_** by Jake VanderPlas: Great for beginngers looking to learn python and dip their toes into data science.
 
-- **[gitlabds python tools](https://gitlab.com/gitlab-data/gitlabds/)**: Functions to help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly via `pip install gitlabds` or use as part of the JupyterLab image above.
+- **_Python Machine Learning_** by Sebastian Raschka & Vahid Mirjalili: More advanced topics with the assumption of a basic level of python.
 
-- **Modeling Templates** (**Coming Soon!**)
-
-# Useful Data Science & Machine Learning Resources
-
-- _Python Data Science Handbook_ by Jake VanderPlas: Great for beginngers looking to learn python and dip their toes into data science.
-
-- _Python Machine Learning_ by Sebastian Raschka & Vahid Mirjalili: More advanced topics with the assumption of a basic level of python.
-
-- _The Elements of Stastical Learning, Data Mining, Inference, and Prediction_ by Trevor Hastie, Robert Tibshirani, & Jerome Friedman: Great deep dive into all the statistics and logic behind many of the commonly used predictive techniques. Can be pretty stats/math heavy at time.
-
-# Common Data Science Terms 
-
-Below listed common data science terms that are used by team. 
+- **_The Elements of Stastical Learning, Data Mining, Inference, and Prediction_** by Trevor Hastie, Robert Tibshirani, & Jerome Friedman: Great deep dive into all the statistics and logic behind many of the commonly used predictive techniques. Can be pretty stats/math heavy at time.
 
 
-**Data Science (DS)** - interdisciplinary field that uses computer science, statistical techniques and domain expertise to extract insights from data
-
-**Machine Learning (ML)** - use and development of algorithms without being explicitly programmed to determine patterns in data
-
-**Algorithm** -  sequence of computer-implementable instructions used to solve specific problem
-
-**Feature** - single column in dataset that can be used for analysis, such as country, age etc. Sometimes refered to as variables or attributes 
-
-**Feature Engineering** -  process of selecting, combining and transforming data into features
-
-**Weight** - numerical value assigned to feature that determines it's strength
-
-**Model** - an applied algorithm with weights determined by input data
-
-**Imputation** - process of replacing missing data with substituted values
-
-**Training** -  assigning weights in a model based on input data
-
-**Testing** - comparing predicted values from trained model to actual values 
-
-**Classification** - process of predicting categories for each data point 
-
-**Regression** - process of predicting continuous numerical variable for each data point 
-
-**Clustering** - process of definining groupings in dataset 
 
 
-# Python vs SQL 
 
-If you are familiar with structured Query Language (SQL), you may want to use clauses while doing your analysis in Python (with library pandas). Below listed Python's equivalents of popular SQL commands. 
-
-Please note that below is not the only way to achieve your expected outcomes - there are many ways in Python to achieve the same result.  
-
-## SELECT * FROM 
-
-```python
-#assuming you loaded your dataset as 'data' just put the name of dataframe into Jupyter's cell
-data 
-```
-
-## SELECT col1, col2 FROM 
-
-
-```python
-columns = ['col1', 'col2']
-
-data[columns]
-
-#above can be combined in one code as follows:
-data[['col1','col2']]
-
-```
-
-## COUNT
-
-```python
-#defines length of dataframe what equals to amount of rows
-len(data)
-
-#similar as above but additionally lists amount of columns
-data.size
-```
-
-## LIMIT
-
-```python
-#lists first 5 rows 
-data.head()
-
-#if you want top 10 rows you can do it by adding number inside head() function
-data.head(10)
-```
-
-## WHERE 
-
-```python
-#list all rows for which column1 has value greater than 1
-condition = data['column1'] > 1
-
-data[condition]
-
-```
-
-Please note that Python accepts combined conditions. Python's equivalent for AND is & and for OR is | 
-
-## GROUP BY (with aggregation functions)
-
-```python
-
-#lists count of rows per column 1
-data.groupby(['col1']).size()
-
-#lists average value of rows per column1
-data.groupby(['col1']).mean()
-
-#lists min value of rows per column1
-data.groupby(['col1']).min()
-
-#lists max value of rows per column1
-data.groupby(['col1']).max()
-
-```
-
-# Data Science Resources
