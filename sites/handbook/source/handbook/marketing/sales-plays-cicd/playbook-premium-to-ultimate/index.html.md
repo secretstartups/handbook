@@ -20,7 +20,7 @@ Note: Think of a sales play as a recipe. If you follow the recipe, we can achiev
 
 ## Overview
 
-**Objective** - Convert landed accounts that are already using CI/CD to expand from GitLab Premium to GitLab Ultimate.
+**Objective** - Convert landed accounts that are already using [CI/CD](/topics/ci-cd/) to expand from GitLab Premium to GitLab Ultimate.
 
 Who is this sales play for?  
 * Primary: SALs and AEs who call on one or more existing GitLab Premium customers  
