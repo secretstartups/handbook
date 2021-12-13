@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Career Development
+title: Career Development and Mobility
 description: "It is the lifelong process of managing learning, work, leisure and transitions in order to move toward a personally determined and evolving preferred future."
 ---
 
@@ -53,15 +53,23 @@ Additional Questions to Think About
 - Does your feedback from others tell you anything about how feasible your aspirations are?
 - Do you currently have the skills and talents needed for the future business needs?  If not what can you do now to get ready?
 
-### The Relationship Between Learning and Development and Promotion
+### Career Development versus Career Mobility
+
+#### The Relationship between learning and [promotions](/handbook/people-group/promotions-transfers/)
 
 As is highlighted in our [Leadership](/handbook/leadership/1-1/#key-points) section, GitLab team members should not feel pressure to climb the proverbial ladder. We recognize that not everyone wants to advance or move to a new level, and that is supported. Developing one's skills and promotion at the company are not mutually exclusive.
-
-It is perfectly acceptable to seek out learning and development opportunities — to sharpen one's understanding of a coding language to better understand a function, etc. — yet not strive for promotion beyond your current role. Some team members are happier and more productive without managing a team, for example.
 
 As detailed in GitLab's [Definition of Diversity, Inclusion & Belonging ](/company/culture/inclusion/), we recognize that unique characteristics and experiences form how we as individuals approach challenges and solve problems. They also shape how we view success in our individual careers and lives. Not everyone views promotion as a measure of success, and team members will not be thought less of or penalized for holding this view.
 
 As part of GitLab's [Transparency](/handbook/values/#transparency) value, team members are encouraged to be open and honest with their manager. You are encouraged to learn and develop your skills without pressure to in turn seek promotion. If you feel you are not being supported in this way, please visit the [Need Help?](/handbook/people-group/#reach-peopleops) portion of the People Group Handbook.
+
+#### Career Development
+
+It is perfectly acceptable to seek out learning and development opportunities — to sharpen one's understanding of a coding language to better understand a function, etc. — yet not strive for promotion beyond your current role. Some team members are happier and more productive without managing a team, for example.
+
+#### Career Mobility
+
+You may choose to participate in a learning and development program as a step in the direction towards a desired promotion or change of role. Self-directed courses to learn a new skill, mentorship programs to build relationships with leaders, and internships to understand how a different team works might be steps you take on this career mobility path. While the learning you do might be identical to that of career development, the focus on career mobility requires action and reflection after the learning is complete to communicate your new skills and transfer them to a new role or responsibility set.
 
 ## Internal Resources
 
