@@ -393,7 +393,7 @@ This database is not available to query in Sisense, and is the first layer of ve
 
 #### Prod
 
-This database and all schemas and tables in it are queryable by Sisense. This data has been transformed and modeled for business needs.
+This database and all schemas and tables in it are queryable by Sisense. This data has been transformed and modeled for business use.
 
 With the exception of `public`, and [`boneyard`](/handbook/business-technology/data-team/#mind-about-sheetload), all schemas are controlled by dbt.
 See the [dbt guide](/handbook/business-technology/data-team/platform/dbt-guide) for more information.
