@@ -13,7 +13,7 @@ title: GitLab 101 Tool Certification
 
 Welcome to the GitLab 101 Tool certification page! Here you will find our 101 course on how to use GitLab. 
 
-Please visit GitLab Learn and create an account to complete the [GitLab 101 Certification](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification) and earn the GitLab 101 Badge!
+Please visit GitLab Learn and create an account to complete the [GitLab Team Members Certification](https://gitlab.edcast.com/pathways/ECL-1b9db605-c6ce-4da5-8a0d-087486d2aabe). All of the information contained on this handbook page can be found in the GitLab Team Members Certification on GitLab Learn. 
 
 ### Who can benefit from this 101 training?
 
