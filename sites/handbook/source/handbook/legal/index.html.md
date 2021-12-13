@@ -48,7 +48,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 * [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
 * [GitLab Modern Slavery Act Transparency Statement](https://about.gitlab.com/handbook/legal/modern-slavery-act-transparency-statement/)
 * [Insider Trading Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) - this policy is to promote compliance with insider trading laws.
-* [Merger and Acquisitions Committee Charter](https://drive.google.com/drive/folders/1HIF4YrxJjPPYM0XVhW0s4Jky-U5EQw19) - Gitlab's Mergers and Acquisitions Committee Charter.
+* [Merger and Acquisitions Committee Charter](https://drive.google.com/file/d/1_GG0JJ2NUq50djVx-yxwnrRJUhIYhs3D/view?usp=sharing) - Gitlab's Mergers and Acquisitions Committee Charter.
 * [Patent Program](https://about.gitlab.com/handbook/legal/patent-program/)
 * [Privacy Policy](https://about.gitlab.com/privacy/) - GitLab's policy for how it handles personal information
 * [Public Discussion of Competitor Products Guidelines](handbook/legal/competitor-discussion-guidelines)
