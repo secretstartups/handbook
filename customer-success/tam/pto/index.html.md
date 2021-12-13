@@ -24,8 +24,8 @@ Before your PTO begins, please follow these additional guidelines:
 1. [Establish coverage](#establish-coverage) for when you'll be out.
 1. [Communicate](#communicate-your-time-off-plan-to-colleagues) your time off to colleagues.
 1. [Notify customers](#notify-customers-and-make-necessary-changes) and adjust plans as necessary.
-1. [Set up your email autoresponder](#email-autoresponder-template).
-1. Review our [PTO communication guidelines](/handbook/paid-time-off/#communicating-your-time-off).
+2. [Set up your email autoresponder](#email-templates).
+3. Review our [PTO communication guidelines](/handbook/paid-time-off/#communicating-your-time-off).
 
 ## Establish Coverage
 
@@ -80,16 +80,10 @@ Please ensure that everyone knows about the following items during your schedule
 
 ## Notify customers and make necessary changes
 
-Reach out to all of your customers to inform them of your upcoming time off, and who will be covering their account while you are away. Preferably this should be done during the cadence call prior to your PTO starting and reiterated with a follow-up email, but if that is not possible then send an email with all of the relevant details.
+Reach out to all of your customers to inform them of your upcoming time off, and who will be covering their account while you are away. Preferably this should be done during the cadence call prior to your PTO starting and [reiterated with a follow-up email](#email-templates), but if that is not possible then [send an email with all of the relevant details](#email-templates).
 
 If a cadence call falls during your PTO, you can decide to either cancel or reschedule. If there is an emergency or the call cannot be moved, the people covering for you should lead the call. It is the TAM's responsibility to prep in advance whomever will lead the call.
 
-## Email autoresponder template
+## Email templates
 
-You can use the following template when creating your PTO email autoresonder to ensure all relevant information is shared in your responses, taking note of the details to replace with the ones specific to you.
-
-> Thank you for your message. I am out of the office until `[RETURN DATE]`.
->
-> During this time my colleague `[BACKUP TAM NAME]` is available to assist you. You can reach them at `[BACKUP TAM EMAIL]`. In addition you can contact my manager, `[MANAGER NAME]`, at `[MANAGER EMAIL]`.
->
-> If you need GitLab support, please [submit a support ticket](https://support.gitlab.com) and the GitLab Support team will respond to assist you. Please review our [guidance on how to request support](https://about.gitlab.com/support/) for best results.
+To simplify communicating out of office details to customers, [email templates are available](https://gitlab.com/gitlab-com/customer-success/tam/-/wikis/Out-of-Office-Email-Templates). These ensure that all of the relevant information is provided. Please use these as guidance for your customer communication when OOO.

@@ -76,7 +76,7 @@ There will be several limitations with the MVC deployment; however, as you come 
 
 | Topic | Description | Questions to Address | References |
 | :--- | --- | --- | --- |
-| Understanding the basics of my customer's usage | With data syncing to Gainsight, we can quickly and easily look up an account and see instances where we are receiving their data.<br> Use this to see all instances and namespaces related to your account (Production and non-Production) and their activity. <br> **Note** : This only works for instances that are tied to an active subscription. | {::nomarkdown}<ul><li>Who is sending us their usage ping data?</li><li>Are they sending Production data?</li><li>Is their activity in line with my expectations?</li><li>Does the activity found in the product usage data agree with what I know about their usage?</li></ul>{:/} |  |
+| Understanding the basics of my customer's usage | With data syncing to Gainsight, we can quickly and easily look up an account and see instances where we are receiving their data.<br> Use this to see all instances and namespaces related to your account (Production and non-Production) and their activity. <br> **Note** : This only works for instances that are tied to an active subscription. | {::nomarkdown}<ul><li>Who is sending us their service ping data?</li><li>Are they sending Production data?</li><li>Is their activity in line with my expectations?</li><li>Does the activity found in the product usage data agree with what I know about their usage?</li></ul>{:/} |  |
 | C360: Instance and Namespace Details | To better support my customer, I need to know what GitLab version they're on so I can help them upgrade or patch their self-managed instance. | {::nomarkdown}<ul><li>What versions are my customers on?</li><li> If they have multiple instances, how do I know which instance is on which version?</li></ul>{:/} | C360: Instance and Namespace<br><br> Product Usage Data Dashboard (`Self Managed Instances - Current GitLab Version Details`) |
 | How many licenses has my customer deployed? | License Utilization (see above) to understand how many licenses have been deployed  `billable_user_count/licensed seats`. <br> For example, a customer may have purchased 200 licenses and have only deployed 80 after 9 months of being a customer. | {::nomarkdown}<ul><li>What trends can I see?</li><li> How do I understand my customer's License Utilization?</li></ul>{:/} | C360: User Adoption Metrics<br><br> Product Usage Data dashboard<br><br>[License Utilization Handbook](/handbook/customer-success/product-usage-data/license-utilization/) |
 | Understanding my customer's GitLab adoption | As an MVC, use metrics mapped to use cases SCM (Create), CI (Verify), and DevSecOps (Secure) to understand their adoption.<br> Use the [Use Case Adoption guide](/handbook/customer-success/product-usage-data/use-case-adoption/) for specific definitions around whether a customer has adopted a specific stage. <br> See the [GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) for an explanation on the adoption of SCM, CI, and Secure. | {::nomarkdown}<ul><li>Which use cases has my customer adopted?</li><li>To what degree have they adopted which use case?</li><li>Which features of each use case have they adopted?</li><li>Does feature adoption align to customer purchase intent?</li></ul>{:/} | C360: Scorecard<br><br>Product Usage Data dashboard 
@@ -134,7 +134,7 @@ See our technical documentation for our [instance of Gainsight's Adoption Explor
 
 ### User and Project Adoption Metrics
 
-Below is a list of user- and project-based adoption metrics to assist with understanding the usage of key features for the overall customer. Examples include the number of users running ci_pipelines divided by the total licensed user count.
+Below is a list of user- and project-based adoption metrics to assist with understanding the usage of key features for the overall customer. Examples include the number of users running ci_pipelines divided by the total licensed user count. Note: L28D means "Last 28 Days"
 
 | Metric | Calculation | Description |
 | ------ | ----------- | ----------- |
@@ -179,9 +179,9 @@ Below are the various data sources, their definitions, and uses.
    1. Attach to the [data quality epic](https://gitlab.com/groups/gitlab-data/-/epics/216)
    1. Please include screenshots for troubleshooting and _mark issue as confidential_
 
-##### Usage Ping (self-managed)
+##### Service Ping (self-managed)
 
-We utilize Usage Ping to derive self-managed customer usage data. For more details, see [Usage Ping FAQs](/handbook/customer-success/tam/usage-ping-faq/). Any references to "Usage Ping" in Gainsight explicitly refers to self-managed product usage data (licenses + feature use).
+We utilize Service Ping to derive self-managed customer usage data. For more details, see [Service Ping FAQs](/handbook/customer-success/tam/service-ping-faq/). Any references to "Service Ping" in Gainsight explicitly refers to self-managed product usage data (licenses + feature use).
 
 ##### SaaS (Snowplow)
 
@@ -193,7 +193,7 @@ When licenses are automatically generated (either via WebStore or Deal Desk) a Z
 
 If there is ever an issue where that data is not mapped follow the steps below:
 
-1. Confirm the account has Usage Ping enabled by checking the VersionApp
+1. Confirm the account has Service Ping enabled by checking the VersionApp
 1. Check to see if their license key has a Zuora subscription linked in LicenseDot
 1. IF the Zuora subscription is missing, [open a support issue](https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions) to generate a new license with the correct Zuora subscription ID
 

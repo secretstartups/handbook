@@ -65,7 +65,7 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | New Customer Digital Onboarding: Self-Managed Email Series      | Manual           | Lifecycle       |                                                              |
 | New Customer Onboarding                                         | Automated        | Lifecycle       |                                                              |
 | Onboarding Pilot                                                | Automated        | Lifecycle       |                                                              |
-| Usage Data Enablement                                           | Manual           | Lifecycle       | [Usage Ping FAQ](https://about.gitlab.com/handbook/customer-success/tam/usage-ping-faq/)                                               |
+| Usage Data Enablement                                           | Manual           | Lifecycle       | [Service Ping FAQ](https://about.gitlab.com/handbook/customer-success/tam/service-ping-faq/)                                               |
 | Agile Enablement Stage Adoption                                 | Manual           | Objective       |                                                              |
 | Agile Expansion Stage Enablement                                | Manual           | Objective       |                                                              |
 | CD Enablement Stage Adoption                                    | Manual           | Objective       | [Continuous Delivery/Release](https://about.gitlab.com/handbook/customer-success/playbooks/cd-release.html)                                  |

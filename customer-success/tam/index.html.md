@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Technical Account Management Handbook"
-description: "The Technical Account Management team at GitLab is a part of the Customer Success department, activing as trusted advisors to our customers and helping them realize value faster."
+description: "The Technical Account Management team at GitLab is a part of the Customer Success department, acting as trusted advisors to our customers and helping them realize value faster."
 ---
 
 ## On this page
@@ -36,7 +36,9 @@ Aligning passionate TAMs with customers to ensure their success by...
 - [Using Gainsight](/handbook/customer-success/tam/gainsight/)
 - [TAM Responsibilities and Services](/handbook/customer-success/tam/services/)
 - [TAM and Product Interaction](/handbook/customer-success/tam/product/)
+- [TAM and Professional Services Interaction](https://about.gitlab.com/handbook/customer-success/tam/engaging-with-ps/)
 - [TAM and Support Interaction](/handbook/customer-success/tam/support/)
+- [TAM and Partner Interaction](/handbook/customer-success/tam/engaging-with-partners/)
 - [Escalation Process](/handbook/customer-success/tam/escalations/)
   *  [Infrastructure Escalation & Incident Process](https://about.gitlab.com/handbook/customer-success/tam/escalations/infrastructure/)
 - [TAM-to-TAM Account Handoff](/handbook/customer-success/tam/account-handoff/)
@@ -56,22 +58,22 @@ Aligning passionate TAMs with customers to ensure their success by...
    - [Sample Questions & Techniques for Getting to Good Customer Metrics](https://about.gitlab.com/handbook/customer-success/tam/success-plans/questions-techniques/)
 - [Stage Enablement & Stage Expansion - The Two Stage Adoption Motions](/handbook/customer-success/tam/stage-enablement-and-expansion/)
    - [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
-   - [The Customer Value Received with Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
+   - [The Customer Value Received with Service Ping](/handbook/customer-success/tam/service-ping-faq/)
    - [Product Usage Data - Definitive Guide to Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
    - [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/)
    - [Metrics Based Product Usage Playbooks](/handbook/customer-success/product-usage-data/metrics-based-playbooks/)
 - [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
-- [Engaging with Partners](/handbook/customer-success/tam/engaging-with-partners/)
 - [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Risk Types, Discovery & Mitigation](/handbook/customer-success/tam/risk-mitigation/)
+- [Workshops and/or Lunch-and-Learns](/handbook/customer-success/tam/workshops/) 
 
 
 ##### Digital Journey:
 
 - [Digital Journey](/handbook/customer-success/tam/digital-journey/)
-  * [Nominating Contacts for the Digital Journey](/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/)
+  * [Nominating Contacts for the Digital Journey](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts)
 
 
 ### TAM Managers
@@ -122,7 +124,7 @@ To get the most out of your TAM relationship:
 
 #### Book of Business
 
-Technical Account Managers are responsible for managing a portfolio of customer accounts based on the sum of the annual contract value of the accounts under management. The current target per TAM for the [TAM-assigned segment](/handbook/customer-success/tam/customer-segments-and-metrics/#tam-assigned-segment) is 3.6M per TAM
+Technical Account Managers are responsible for managing a portfolio of customer accounts based on the sum of the annual contract value of the accounts under management. The current target per TAM for the [TAM-assigned segment](/handbook/customer-success/tam/customer-segments-and-metrics/#tam-assigned-segment) is 3.6M USD per TAM
 
 The team continues to drive efficiency improvements to allow TAMs to effectively manage a larger book of business.
 
@@ -139,6 +141,7 @@ There are various services a Technical Account Manager will provide to ensure th
 - Own, manage, and deliver the customer onboarding experience
 - Help GitLab's customers realize the value of their investment in GitLab
 - GitLab Days
+- Deliver [Workshops and/or Lunch-and-Learns](/handbook/customer-success/tam/workshops/) as needed
 
 ## Training
 
@@ -162,6 +165,7 @@ There are various services a Technical Account Manager will provide to ensure th
 The following articulates where collaboration and customer management is owned:
 
 1. [**Account Management Projects**](https://gitlab.com/gitlab-com/account-management): Shared project between GitLab team members and customer. Used to prioritize/plan work with customer.
+   1. [**Ultimate Feature Exploration Checklist**](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/blob/master/.gitlab/issue_templates/ultimate_features.md): Issue template that can be made into an issue in a customer's account management project. To be shared with the customer if they want to learn more about GitLab Ultimate features.
 1. [**Google Drive**](https://drive.google.com/drive/u/0/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U): Internal. Used to capture call notes and other customer related documents.
 1. [**Chorus**](/handbook/business-ops/tech-stack/#chorus): Internal. Used to record Zoom calls.
 1. [**Gainsight**](/handbook/customer-success/tam/gainsight/): Internal. Used to track customer health score, logging [customer activity](/handbook/customer-success/tam/gainsight/timeline/#activity-types) (i.e. calls, emails, meetings)
@@ -172,7 +176,7 @@ As a Technical Account Manager, it is important to be continuously learning more
 
 ## SFDC useful reports 
 
-### Tracking oportunities for your assigned SALs
+### Tracking opportunities for your assigned SALs
 
 To ensure that opportunities are listed with the correct Order Type, [this Salesforce report](https://gitlab.my.salesforce.com/00O4M000004agfP) shows you all of the opportunities that have closed, or are soon to close, with your SALs. Tracking Order Type is important since TAM team quota and compensation depend on this. Please reference the latest [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/) information to know what is counted.
 

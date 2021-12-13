@@ -50,7 +50,7 @@ Technical evaluation is where the prospective customer evaluates the fit of GitL
 * Add any call notes (when not redundant of the AE) from calls and demos using Log a Call (under Activity History) in SFDC
 * Create a customer collaborative account if a TAM will own the account post-sale
 * Share applicable case studies, example projects and/or relevant documentation
-* Recommended: Execute a self-hosted implementation review
+* Recommended: Execute a self-managed implementation review
 * Optional: create and execute a new POV if > $10K IACV
 
 ### Playbooks

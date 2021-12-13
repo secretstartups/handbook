@@ -11,19 +11,23 @@ description: >-
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-When a prospect is moving towards becoming a customer, they will need to be transitioned from the pre-sales engagement model to post-sales. In practice, that means that the Account Executive/Solutions Architect works with the Technical Account Manager to facilitate a smooth handoff and ensure continuity for the customer. 
+As a member of the pre-sales team, closing another successful deal for GitLab, it is important to pave the way for the TAM. A successful TAM introduction is a critical step in the customer lifecycle. An effective TAM introduction will lead to customer excitement about the product and increase the TAM's credibility as they assist the customer through onboarding, implementation, and adoption. 
 
-  - **Commercial:** AE or SA will facilitate the handoff to TAM
-  - **Enterprise:** SA will facilitate the handoff to TAM
+  - **Commercial:** AE or SA will facilitate the introduction to TAM
+  - **Enterprise:** SA will facilitate the introduction to TAM
+
+Please review this course on [Introducing the Technical Account Manager](https://gitlab.edcast.com/insights/ECL-c2cdd326-7f29-43f2-9a11-484b8dc6584f). 
 
 ## Transition timeline
 
 | Team | Stage | Notes | 
 | ---  | ---   | ---   |
 | Commercial | `Closed Won` | Once a prospect opportunity reaches [stage ](/handbook/sales/field-operations/gtm-resources/)`Closed-Won`, the AE/SA and TAM should begin the transition process. The AE/SA will send an email to the technical customer team to introduce the TAM.| 
-| Enterprise | `5-Negotiating` or <br> `Closed Won`| Once a prospect opportunity reaches [stage ](/handbook/sales/field-operations/gtm-resources/) `5-Negotiating` or `Closed Won`, the SA and TAM should begin the transition process. The SA will set up the call with the technical customer team to introduce the TAM.| 
+| Enterprise | `5-Negotiating` or <br> `Closed Won`| Once a prospect opportunity reaches [stage](/handbook/sales/field-operations/gtm-resources/) `5-Negotiating` or `Closed Won`, the SA and TAM should begin the transition process. The SA will set up a call with the customer team to introduce the TAM. | 
 
-The transition process is outlined in the sections below. 
+##### This is also a great time to introduce the TAM to the decision-makers and key stakeholders. These business counterparts aren't usually involved in future cadence calls, so fostering that relationship early helps TAMs drive adoption and build a successful goals-oriented partnership, which leads to improved success planning, EBRs, etc. 
+
+The transition process is further outlined in the sections below. 
 
 Most of the process outlined below should occur between the opportunity reaching stage `5-Negotiating` and `Closed Won`.
 
@@ -83,7 +87,7 @@ From this initial introduction, the TAM should schedule the kickoff meeting with
 
 Once the account is in post-sales, the TAM takes primary responsibility for guidance & best practices conversations, customer enablement, and product usage. Most responsibilities of the AE/SA will transition to the TAM at this point.
 
-During customer onboarding, the SA may choose to stay engaged with the customer to help facilitate a seamless handoff and address any ongoing activities from the POV. This should be done in such a way as to allow the TAM to take over those activities, so all conversations with the customer on these items should include the TAM.
+During customer onboarding, the SA may choose to stay engaged with the customer to help facilitate a seamless introduction and address any ongoing activities from the POV. This should be done in such a way as to allow the TAM to take over those activities, so all conversations with the customer on these items should include the TAM.
 
 Once the account is fully transitioned to post-sales, the SA may be invited by the TAM for the following activities:
 

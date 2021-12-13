@@ -82,6 +82,21 @@ Examples:
 - Significantly poor experiences with Support or Professional Services
 - Significant number of support tickets (16+ per month)
 
+
+### Will Churn (Grey)
+
+Very rarely, a customer reaches a point at which it is accepted by the account team and leadership that a customer will churn. As Gainsight does not support a 'grey' color (or any color outside of the standard green to red health scoring), the 'will churn' stage can be applied.  Applying this stage will remove the customer from health scoring reporting, so that at-risk reviews are spent productively.
+
+In order for a customer to move to the 'will churn' stage, the following must be completed:
+
+- [ ] All options discussed in the triage issue and in at-risk reviews have been exhausted
+- [ ] Technical Account Manager opens a Will Churn" issue
+  - ["Will Churn" Enterprise issue template](https://gitlab.com/gitlab-com/customer-success/account-triage/-/issues/new?issuable_template=Will%20Churn%20-%20ENT)
+- [ ] Technical Account Manager links from the triage issue to the newly created "Will Churn" issue, and closes the triage issue
+- [ ] Listed personas in the "Will Churn" issue provide feedback and approval
+- [ ] SAL/AE has marked the opportunity as 'Will Churn'
+
+
 ## Communication Guidelines
 
 The following are guidelines on who to notify when an account is yellow or red. This includes the [update frequency for the triage issue](#update-frequency). Please make sure the following people are notified with the respective customer health ratings.

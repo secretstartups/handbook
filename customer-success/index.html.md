@@ -112,7 +112,7 @@ As a Solutions Architect, Technical Account Manager, or Professional Services En
 
 TAM-Created, Enablement Focus:
 
-- [All TAM-created workshops ](/handbook/customer-success/workshops/)
+- [All TAM-created workshops](/handbook/customer-success/tam/workshops/)
 
 SA-Created, Hands-On Focus:
 
@@ -163,7 +163,7 @@ Customer Success team members maintain a [FAQ](/handbook/customer-success/faq/) 
 - [Sales Collateral](https://drive.google.com/open?id=0B-ytP5bMib9TaUZQeDRzcE9idVk)
 - [GitLab University](https://docs.gitlab.com/ee/university/)
 - [Our Support Handbook](/handbook/support/)
-- [GitLab Hosted](/gitlab-hosted/)
+- [GitLab Hosted](/githost/)
 - [Customer Collaboration Project template](https://gitlab.com/gitlab-com/account-management/customer-collaboration-project-template)
 - [Workflow SA Demo Scenarios](https://docs.google.com/document/d/1kSVUNM4u6KI8M9FxoyiUbHEHAHIi34iiY25NhMxLucc/edit) (Internal Only)
 - [GitLab Demo Portal](https://gitlabdemo.com)

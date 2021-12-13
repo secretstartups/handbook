@@ -73,7 +73,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 #### Existing Professional Services That May Help
 
-- [Implementation Rapid Results Self-Hosted](https://about.gitlab.com/services/rapid-results/self-managed/)
+- [Implementation Rapid Results Self-Managed](https://about.gitlab.com/services/rapid-results/self-managed/)
 - [Implementation Rapid Results .com](https://about.gitlab.com/services/rapid-results/dot-com/)
 - [Dedicated Implementation Planning](https://about.gitlab.com/services/implementation/enterprise/)
 
@@ -157,18 +157,18 @@ Please be sure to include all the sections when updating or adding Engagements.
 #### Customer Applicability Cues
 
 - **Complexity Cues:** "How do we backup the new instance and how do we test our disaster recovery ability?"<br />"How do we assign permissions to the many runners we will have?"
-- **Experienced with Consuming Professional Services Cue:**  "Do you have documentation on all the activities we will need to undertake to manage our self-hosted instance similar to how you run GitLab.com?"
+- **Experienced with Consuming Professional Services Cue:**  "Do you have documentation on all the activities we will need to undertake to manage our self-managed instance similar to how you run GitLab.com?"
 
 #### Customers Transitions That Indicate a Potential Need For This
 
-- Initial Purchase of Self-Hosted
+- Initial Purchase of Self-Managed
 - Re-Platforming Existing GitLab Installation
-- Moving to from GitLab SaaS to Self-Hosted
+- Moving to from GitLab SaaS to Self-Managed
 - Stabilty Issues / Version Stagnation of Existing Self Managed GitLab Instance
 
 #### Existing Professional Services That May Help
 
-- [Implementation Rapid Results Self-Hosted](https://about.gitlab.com/services/rapid-results/self-managed/)
+- [Implementation Rapid Results Self-Managed](https://about.gitlab.com/services/rapid-results/self-managed/)
 - [Dedicated Implementation Planning](https://about.gitlab.com/services/implementation/enterprise/)
 
 #### Preparation Materials
@@ -415,7 +415,7 @@ Please be sure to include all the sections when updating or adding Engagements.
   - "We will be pushing ML Ops data sets for our AI project that will requires massive elastic scaling."
 - **Velocity Cue:** "We need a runner per team operational on the launch of GitLab." 
 - **Complexity Cue:** "Our production environment cloud account is zero touch - how can GitLab runners be setup to deploy into that cloud account?"
-- **Experienced with Consuming Professional Services Cue:**  "Can we have professional services help us design an approach to self-hosted runners that will work for us?"
+- **Experienced with Consuming Professional Services Cue:**  "Can we have professional services help us design an approach to self-managed runners that will work for us?"
 
 #### Customers Transitions That Indicate a Potential Need For This
 
