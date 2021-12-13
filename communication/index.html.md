@@ -140,7 +140,7 @@ Issues are useful when there isn't a specific code change that is being proposed
 1. When cross-linking issues or MRs, include a preview of the content you are linking, to facilitate [low-context communication](/company/culture/all-remote/effective-communication/#understanding-low-context-communication):
    1. Good: `this would cause performance issue similar to #123456`. The reader has full information on first read and can refer to the link for more.
    1. Avoid: `this would cause issue similar to #123456`. The reader needs to click the link and find the relevant information among other discussion threads, before switching back to the original discussion.
-1. When providing links to specific lines of code relevant to the issue, **always use a permalink** (a link to a specific commit for the file). This ensures that the reference is still valid if the file changes. For more information, see [Link to specific lines of code](https://docs.gitlab.com/ee/development/documentation/styleguide.html#link-to-specific-lines-of-code).
+1. When providing links to specific lines of code relevant to the issue, **always use a permalink** (a link to a specific commit for the file). This ensures that the reference is still valid if the file changes. For more information, see [Link to specific lines of code](https://docs.gitlab.com/ee/development/documentation/styleguide/#link-to-specific-lines-of-code).
 1. Prioritize your work on issues in the current [milestone](https://gitlab.com/groups/gitlab-org/-/milestones).
 1. Use the public issue trackers on GitLab.com for everything since [we work out in the open](/blog/2015/08/03/almost-everything-we-do-is-now-open/). Issue trackers that can be found on the relevant page in the handbook and in the projects under [the gitlab-com group](https://gitlab.com/gitlab-com/).
 1. Assign an issue to yourself as soon as you start to work on it, but not before that time. If you complete part of an issue and need someone else to take the next step, **re-assign** the issue to that person.
@@ -959,7 +959,7 @@ Theoretically you can have multiple people in a room with their own equipment bu
 1. If you use headers, properly format them (`##` in Markdown, "Heading 2" in Google Docs); start at the second header level because header level 1 is for titles. Do not end headers with a colon. Do not use emoji in headers as these cause links to have strange characters.
 1. Always use a [serial comma](https://en.wikipedia.org/wiki/Serial_comma) (a.k.a. an "Oxford comma") before the coordinating conjunction in a list of three, four, or more items.
 1. Always use a single space between sentences rather than two.
-1. Read our [Documentation Styleguide](https://docs.gitlab.com/ee/development/documentation/styleguide.html) for more information when writing documentation.
+1. Read our [Documentation Styleguide](https://docs.gitlab.com/ee/development/documentation/styleguide/) for more information when writing documentation.
 1. Do not use acronyms when you can avoid them. Acronyms have the effect of excluding people from the conversation if they are not familiar with a particular term. Example: instead of `MR`, write `merge request (MR)`.
    1. If acronyms are used, expand them at least once in the conversation or document and define them in the document using [Kramdown abbreviation syntax](https://kramdown.gettalong.org/syntax.html#abbreviations). Alternatively, link to the definition.
    1. If you don't know the meaning of an acronym, ask. It's always ok to [speak up](handbook/values/#share).
