@@ -22,12 +22,9 @@ The business had identified the need to optimize the Procure to Pay process with
 
 The business decided to move forward with the implementation of Coupa for the Procurement and Payment Program. Coupa provides these functionalities within one platform and is integrated to decrease procurement approval turn-times and reduce manual workflow delays.
 
-In scope for this first delivery is the implementation of Coupa Pay for the US and Netherlands entities.
-{: .alert .alert-info}
-
 ## What is Coupa
 
-Coupa is a cloud-based purchasing and payment platform that will be used by GitLab as from June 1st 2021 **for the US and Netherlands entities**. It has an easy-to-use interface that will improve the way suppliers connect with GitLab. All new purchase orders, invoices and communications will be managed through the Coupa Supplier Portal.
+Coupa is a cloud-based purchasing and payment platform that will be used by GitLab as of 2021-06-01 for the US and Netherlands entities and as of 2021-12-13 for remaining entities. It has an easy-to-use interface that will improve the way suppliers connect with GitLab. All new purchase orders, invoices and communications will be managed through the Coupa Supplier Portal.
 
 ### How to access Coupa
 
@@ -75,6 +72,7 @@ Due to the limited number of licenses available for Coupa, it is recommended tha
 1. **To Do’s** - Displays a list of action items within Coupa that are assigned to you. Selecting "View All" will bring you to your Coupa Inbox to display all of your to do’s.
 1. **Additional Stores (“Punchouts”)** - Offers the possibility to search, select and submit purchases directly from the Supplier’s portal.
 1. **GitLab - Important Links and Resources** - Displays important information about Coupa, along with links to training material and other important documents.
+1. ** Forms and Quick Links** - Displays shortcut icons for various forms and quick links.
 
 ### User Account
 
@@ -99,7 +97,11 @@ Account Name contains a number of options related to managing your account in Co
    - **Address Book**: Allows you to view your default shipping address and change it as needed (you can also change the shipping address of a particular requisition on the requisition page).
    - **Delegates**: Users can delegate their receiving and approvals to another user by using the Delegates functionality (it is possible to add multiple, overlapping delegates, and enable notifications). _Check the [How to add a Delegate in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-add-a-delegate-in-coupa) section for more details_.
    - **Reports**: Users can schedule a report by going to a particular report view and specifying the scheduling details (only certain users will have access to reports and report views are dependent on role).
-   - **Notifications**: Coupa notifications can be managed. For each type of notification, the User can choose whether they would like to receive notifications via email (Email), within Coupa (Online), both, or neither.
+   - **Notifications**: Coupa notifications can be managed under the User's Settings. 
+
+![coupa-image-26](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa26.png)   
+   
+For each type of notification, the User can choose whether to receive notifications via email, Slack, or within Coupa (Online) and can select multiple platforms.
    - **Two-Factor Authentication (2FA)**: Should be enabled on user profiles to ensure that financial accounts and instruments are protected for control and use by the individual to whom they are intended. This extra authentication layer on the user profile is required before that user can be granted privileged permissions for working with payment features like creating batches for expense and invoice payments, creating accounts, and many other secured payment functions. _Check the [How to enable Two-Factor Authentication (2FA)](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-enable-two-factor-authentication) section for more details_.
 - **Inbox** - Displays all current and previous notifications.
 - **Sign Out** - to exit the application.
@@ -157,10 +159,11 @@ For Field Marketing Dept Only - please refer to the [Field Marketing Handbook - 
 - j) Supplier Part Number _(optional)_<br>
 - k) Manufacturer Name _(optional)_<br>
 - l) Manufacturer Part Number _(optional)_<br>
-- m) Service Start Date _(optional)_<br>
-- n) Service End Date _(optional)_<br>
-- o) Attachments _(optional)_<br>
-- p) Write Multiple Request _(tick this box if you will create multiple lines)_<br><br>
+- m) Service Start Date _(required)_<br>
+- n) Service End Date _(required)_<br>
+- o) Payment Structure_(optional)_<br>
+- p) Attachments _(optional)_<br>
+- q) Write Multiple Request _(tick this box if you will create multiple lines)_<br><br>
 - Click "Add to Cart" once completed.
 - Review your cart by clicking on the "Cart" button at the top of the page.
    - All the cart details will be displayed and the requestor can review and/or edit the details as required. (This is the Purchase Request form that will be flipped into an Order when approved).
@@ -324,6 +327,10 @@ There are several ways to approve transactions in Coupa:
    - The app allows you to do approvals for both Requisitions and Invoices:
       - To Approve: Open the requisition or invoice notification, review the information, and approve.
       - To Reject: Open the requisition or invoice notification, review the information, and reject.
+- ** Coupa Slack integration**
+   - Coupa has built-in integration with Slack, which provides users with another method for Coupa notifications. Users that have activated the integration will start receiving Slack notifications. Users can choose to receive Slack notifications for the following activities in Coupa: comments, mentions, approvals, and approval reminders. Users can provide approvals and rejections directly from Slack or click on the link embedded in the Slack notification and they will be directed to Coupa where they can take any actions needed. We encourage users to set up Slack notifications by following [Coupa instructions](https://success.coupa.com/Support/Docs/BSM_Platform/Core/Workflow/Notifications/Integrate_Slack) (starting at step **Connect Slack to your Coupa account**) or viewing the [Coupa Slack quick demo](https://www.loom.com/share/188a2df7f1cd4b35a3df9e96db7c05e7). Below is an example of an approval notification in Slack:
+
+ ![coupa-image-27](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa27.png)  
 
 
 <div class="panel panel-info">
@@ -331,7 +338,7 @@ There are several ways to approve transactions in Coupa:
 {: .panel-heading}
 <div class="panel-body">
 
-- If your requisition status is "Pending Buyer Action", it is in Procurement's To Do List and can be ignored. If there are any issues, Procurement will add comments to the requisition and you will receive notification via email or in your To Do List (depending on your notification setup in Coupa). 
+- If your requisition status is "Pending Buyer Action", it is in Procurement's To Do List and can be ignored. If there are any issues, Procurement will add comments to the requisition and you will receive notification via email, Slack or in your To Do List (depending on your notification setup in Coupa). 
 - If you see "Onboarding" next to the Supplier's name on the line items of your requisition (see below screenshot), please reach out to your Supplier and request them to join Coupa's Supplier Portal to complete the onboarding process. Suppliers have to complete their onboarding in Coupa before the requisition can be finalized. 
 
 ![coupa-image-25](/handbook/business-technology/enterprise-applications/guides/coupa-guide/Coupa25.png)
@@ -448,12 +455,12 @@ Under Activity > Orders, the requestor can click on **Supplier Print View** to p
 
 ### How to Request a New Supplier
 
-A supplier must exist in Coupa prior to submitting a requisition for that supplier.
+A supplier must exist in Coupa prior to submitting a requisition for that supplier. To complete a New Supplier Request form:
+1. Click on "Request a New Supplier" button on the Homepage; "Forms and Quick Links" section in the lower left.
 
 ![coupa-image-17](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa17.png)
 
-To raise a New Supplier Request:
-1. Click on the "Forms" link on the Homepage and select the New Supplier Request.
+
 1. Complete the form details and click "Review".
    - The approval Workflow will be displayed.
 1. Click "Submit for Approval" to route to the approvers.
@@ -474,12 +481,11 @@ To raise a New Supplier Request:
 
 ### How to complete the Professional Services Request Form
 
-The Professional Services Request form must be filled out **before** creating a requisition for any professional services related purchase.
+The Professional Services Request form must be filled out **before** creating a requisition for any professional services related purchase. To complete the Professional Services Request form:
+1. Click on "Professional Services request" button on the Homepage; "Forms and Quick Links" section in the lower left.
 
 ![coupa-image-21](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa21.png)
 
-To complete the Professional Services Request form:
-1. Click on the "Forms" link on the Homepage and select "Professional Services Request".
 1. Fill out all the form questions and click "Submit".
    - The cart will be automatically updated with the provided answers in the line item.
 
