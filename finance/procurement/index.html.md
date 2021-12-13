@@ -23,8 +23,7 @@ Procurement is the process of selecting vendors, strategic vetting, selection, n
 - All purchases made on behalf of GitLab that do not qualify as a personal expense, need an approved Purchase Order (PO) in Coupa. 
 
 **Exceptions to the PO Policy are:**
-1. Purchases under $5K that are NOT Software
-      - ALL Software needs an approved PO in Coupa regardless of dollar value due to security risk requirements.  
+1. Purchases under $5K
 1. Last minute un-planned onsite event needs such as food and rental transactions needed for event.
 1. One-time field marketing and event purchases less than $10K such as booth rentals, AV equipment, catering, etc.
 1. Confidential Legal Fees
@@ -99,6 +98,5 @@ Due to the limited number of licenses available for Coupa, it is recommended tha
 * [Company Information](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information) - general information about each legal entity of the company
 * [Trademark](/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark) - information regarding the usage of GitLab's trademark
 * [Authorization Matrix](/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
-* [Procurement Playbook](https://docs.google.com/document/d/1Hb3S0fZ9CoYpvwusksjSP7vibH4z1ShJE8GX62exLGQ/edit?usp=sharing)
 
 {::options parse_block_html="false" /}
