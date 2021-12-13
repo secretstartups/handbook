@@ -15,6 +15,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 <details>
 <summary markdown="span">1. Welcome to GitLab Sales!</summary>
 
+
 ### 1.[ Welcome to GitLab Sales!](https://gitlab.edcast.com/pathways/sales-quick-start/cards/7167664)
 *  **ACTIVITY: Let's Git To Know Each Other! (Assignment, 5 minutes, 1 Point - Pre Work)**
    - Please complete this brief [google form](https://docs.google.com/forms/d/e/1FAIpQLScXH3QSAcqUP4mRJsqUWbn7BUJS_SYJVjFg2oXqOoOwzBMzLA/viewform) to introduce yourself.
