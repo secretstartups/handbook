@@ -170,7 +170,7 @@ $ curl -L https://github.com/docker/machine/releases/download/v0.16.2/docker-mac
 
 This guide involves configuring and setting up VMWare and Docker locally and assumes you're using macOS.
 
-#### Install VMWare
+#### Install VMWare (paid)
 
 1. Navigate to [VMWare store](https://store.vmware.com), and then purchase
    **VMware Fusion 10 (for macOS)** (or current version).
@@ -179,9 +179,19 @@ This guide involves configuring and setting up VMWare and Docker locally and ass
 1. Launch VMWare Fusion.
 1. When prompted, enter the license details.
 
-### VirtualBox Testing Environment (free & opensource alternative to installing VMWare Fusion)
+### UTM (free & opensource - compatible with Apple Silicon)
 
-This guide involves configuring and setting up VirtualBox and Docker locally and assumes you're using macOS.
+UTM is an open source QEMU-based virtualisation software for MacOS. It currently provides support for Apple silicon hardware, so may be useful for engineers on Apple M1 devices to deploy local virtual machines.
+
+#### Install UTM
+
+1. [Navigate to the UTM home page](https://mac.getutm.app/) and select 'Download'.
+1. Once installed, follow the [instructions for an ARM-based installation of Ubuntu](https://mac.getutm.app/gallery/ubuntu-20-04)
+1. Start the VM within the UTM interface.
+
+### VirtualBox Testing Environment (free & opensource - does not currently support Apple silicon)
+
+This guide involves configuring and setting up VirtualBox and Docker locally and assumes you're using macOS. *VirtualBox does not currently support Apple M1 CPUs.*
 
 #### Install VirtualBox
 
