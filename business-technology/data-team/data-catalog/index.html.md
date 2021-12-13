@@ -74,6 +74,8 @@ To gain access to SAFE Intermediate Dashboards:
 
 ![Sisense Spaces](safe_intermediate.png)
 
+`END OF 2021-12-17 SAFE Intermediate Dashboard Change Announcement`
+
 ## Data By Subject Area
 
 ### Marketing
