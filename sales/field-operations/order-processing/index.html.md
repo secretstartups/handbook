@@ -795,7 +795,7 @@ Note: You must log in with your DocuSign credentials to access these educational
 
 ### **Submit an Opportunity for Booking**
 
-You've created the quote, recieved all necessary approvals, and the customer has signed the Order Form. Awesome! Time to submit the opportunity for booking. Hold up! Be sure to review all required fields listed below **before** submitting the opportunity for approval.
+You've created the quote, received all necessary approvals, and the customer has signed the Order Form. Awesome! Time to submit the opportunity for booking. Hold up! Be sure to review all required fields listed below **before** submitting the opportunity for approval.
 
 All opportunities must meet *all* requirements outlined below to be processed. **Exceptions are rare and not made lightly** and often require several approvals. Your opportunity will be rejected if it does not meet booking requirements. 
 
@@ -859,7 +859,7 @@ There are unique requirements for different methods of selling GitLab. Review th
   <tr>
     <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Signed Order Form</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Not required</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Exception: if the reseller cannot provide a PO document and wants to sign our Order Form, the reseller Order Form with signature block can be selected in the quote template section of the quote object.</span></td>
+    <td class="tg-0lax"><span style="font-weight:bold;font-style:normal;text-decoration:underline">Exception: if the reseller cannot provide a PO document and wants to sign our Order Form, the reseller Order Form with signature block can be selected in the quote template section of the quote object.</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Signature</span></td>
@@ -1238,18 +1238,18 @@ When you have reviewed [all opportunity requirements](/handbook/business-ops/ord
 
 1.  **To submit the opportunity for approval and closure, the Sales Rep should click on the “Submit for Approval” button on the opportunity level.**
     *  The opportunity page will then display “edit” mode. Click Save.
-1. At this time, no further action is required from the Account Team. You will be notified by the Deal Desk team if further information is needed or if the opp is missing required information.
+1. At this time, no further action is required from the Account Team. You will be notified by the Order Management team if further information is needed or if the opp is missing required information.
 
-**NOTE** - Orders will be processed as long as the Quote Start Date is within 15 calendar days from date of submission. If the Quote Start Date is more than 15 days out, Deal Desk will approve and update the close date to the earliest date that the opportunity can be booked. Only on or after that date will the Billing team review the opportunity for final booking. For more information, review the [FY22 Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#fy22-bookings-policy).
+**NOTE** - Orders will be processed as long as the Quote Start Date is within 15 calendar days from date of submission. If the Quote Start Date is more than 15 days out, Order Management will approve and update the close date to the earliest date that the opportunity can be booked. Only on or after that date will the Billing team review the opportunity for final booking. For more information, review the [FY22 Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#fy22-bookings-policy).
 
 #### What happens when you Submit an Opportunity for approval?
 
 ```mermaid
 
 graph LR;
-    A[Signed Order Form<br>attached to Opp] --> |Submit for Approval|B[Deal Desk Reviews<br>Opportunity<br>Requirements];
-    B --> |Deal Desk<br>Approved|C[Finance Review];
-    B --> |Deal Desk<br>Rejected|D(Sales Resolves<br>Missing Opp<br>Requirements);
+    A[Signed Order Form<br>attached to Opp] --> |Submit for Approval|B[Order Mgmt Reviews<br>Opportunity<br>Requirements];
+    B --> |Order Mgmt<br>Approved|C[Finance Review];
+    B --> |Order Mgmt<br>Rejected|D(Sales Resolves<br>Missing Opp<br>Requirements);
     D --> |Submit Opp<br>For Approval|B
     C --> F[Opportunity<br>Closed-Won!<br>Congrats! ];
 
