@@ -24,7 +24,6 @@ Procurement is the process of selecting vendors, strategic vetting, selection, n
 
 **Exceptions to the PO Policy are:**
 1. Purchases under $5K
-   - ALL Software needs an approved PO in Coupa regardless of dollar value due to security risk requirements.
 1. Last minute un-planned onsite event needs such as food and rental transactions needed for event.
 1. One-time field marketing and event purchases less than $10K such as booth rentals, AV equipment, catering, etc.
 1. Confidential Legal Fees
