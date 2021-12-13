@@ -359,7 +359,7 @@ For budgetary reasons, Marketing Operations will be performing quarterly, and fo
 
 ### Invoice Approval
 
-Marketing Operations approves any invoices that have not already been coded and approved through a Finance issue or that exceed the original cost estimate. We make use of Tipalti for this process. Team leads will confirm that services were performed or products were received also through Tipalti. Campaign tags are used to track costs related to events and campaigns.
+Invoices submitted to Coupa will be routed for approval. Details regarding this process can be found on the [Coupa End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#methods-to-approve-transactions) page. Campaign tags are used to track costs related to events and campaigns.
 
 ## Lead Scoring, Lead Lifecycle, and MQL Criteria
 
