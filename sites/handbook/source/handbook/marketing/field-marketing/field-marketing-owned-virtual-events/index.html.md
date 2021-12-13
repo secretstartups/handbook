@@ -485,8 +485,8 @@ There are certain occassions when a workshop needs to urgently be rescheduled du
 
 1. If you are in the pre-event session and determine the event cannot occur, obtain 2 alternative dates and times from the SMEs delivering the session while everyone is on the call.   
 1. Open the webcast session and remain on for a minimum of 30 minutes, broadcasting a message with the name of the event and specify the following - "Due to unexpected issues beyond our control, this workshop is being rescheduled. Please check your email for more details. We apologize for any inconvenience and appreciate your understanding."
-1. Reach out to your FMC to request a Marketo email send to participants and provide specific copy for the send in the copy doc (see additional instructions below). **Note:** There is some standard verbiage for rescheduling at the very bottom of the copy doc template under [Webcast Reschedule Email Copy](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#bookmark=kix.z3zivyrxl4tz) that can be utilized.
-1. If the FMC is not available, reach out to Marketing Ops (per the above instructions).
+1. Reach out to your FMC to request a Marketo email send to participants and provide specific copy for the send in the copy doc (see additional instructions below). **Note:** There is some standard verbiage for rescheduling at the very bottom of the copy doc template under [Webcast Reschedule Email Copy](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#bookmark=kix.z3zivyrxl4tz) that can be utilized. **Note:** If the FMC is not available, reach out to Marketing Ops (per the above instructions).
+1. It is best practice to send out a gift item to registrants as an apology for the inconvenience of having to reschedule last minute. The quickest option is to send email gift cards via Thnks or Reachdesk. The FMM will determine what to send, update Allocadia with budget for items, pull the registration email addresses from SFDC, and provide the email list and copy to the FMC to send the apology gifts.
 
 ### General Rescheduling Instructions
 
