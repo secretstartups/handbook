@@ -324,6 +324,7 @@ If a department is over the 12% promotion rolling rate, the following process sh
 1. If the request comes through BambooHR, approve the request, then update the entries in BambooHR to ensure that there are the proper dates, amounts, job information. Also, ensure to add stock options to the job tab if applicable. If the team member is moving to a Manager position, update their access level in BambooHR.
 1. Notify Payroll of the changes. This can be done in the following google docs: United States: "Payroll Changes", Everyone else: "Monthly payroll changes for non-US international team members". Payroll does not need to be notified for Contractors.
 1. If the team member is in Sales or transferred to Sales, update the changes tab on the "Final Sales OTE FY 2020" google doc.
+1. If the team member is employed in Canada notify Total Rewards of the salary change (so they can update their salaries on Canada Life and Collage platforms)
 
 #### Letter of Adjustment
 
