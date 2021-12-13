@@ -16,17 +16,15 @@ title: Field Marketing and Events
 ## Field Marketing and Events
 
 ## Important to Know
-- If you are looking to work with a new service provider, review the policy for selecting new suppliers on the "Vendor Management" page.
-- Do NOT agree to ANY business, legal, and or pricing prior to engaging the procurement team. 
+- If you are looking to work with a new service provider, review the policy for selecting new suppliers on the [Vendor Selection Process](https://about.gitlab.com/handbook/finance/procurement/vendor-selection-process/) page.
+- Do NOT agree to ANY business, legal, and or pricing prior to engaging the Procurement Team. 
     - This ensures alignment across the multiple functions to make good-faith commitments to vendors and don’t put our company in to possible risk.
 
 ## How Do I Submit a Request for a Contract and PO?
 - Once you've chosen your vendor and have followed the Bid Requirements per above, follow these instructions:
 1. [Login to Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
-1. Go to "Forms" in the upper right of your screen.
-    - If this is a new supplier, select "New Supplier Request" form and complete the required fields. Click "Review".
+1. If this is a new supplier, go to the "Forms and Quick Links" section on the Home screen, click on "Request a New Supplier" and complete the required fields. Click "Review".
         - Allow 1-2 business days for processing new supplier.
-        - If this is an existing supplier, skip this step.
 1. If this is an existing supplier (or once your new supplier is in the system) select "Write a request" in the upper right of your screen under the search bar. 
 1. Enter the required Fields and "Add to Cart"
 1. Click on your Cart in the upper right, complete remaining fields. Be prepared to include the following:
