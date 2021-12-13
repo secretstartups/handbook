@@ -22,7 +22,7 @@ title: New software
 ## How Do I Submit a Request to Purchase New Software?
 - Once you've chosen your software vendor and have followed the Bid Requirements per above follow these instructions:
 1. [Login to Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
-2. Go to the "Forms and Quick Links" section (right side of main screen), select "Request a New Supplier", complete the required fields and click "Review".
+2. Go to the "Forms and Quick Links" section on Home screen, click on "Request a New Supplier", complete the required fields and click "Review".
     - Allow 1-2 business days for processing.
 3. Once your New Supplier is entered into the system, click on "Write a Request" in the upper right, under the search bar.
 4. Enter the required Fields and "Add to Cart"
