@@ -48,6 +48,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 * [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
 * [GitLab Modern Slavery Act Transparency Statement](https://about.gitlab.com/handbook/legal/modern-slavery-act-transparency-statement/)
 * [Insider Trading Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) - this policy is to promote compliance with insider trading laws.
+* [Merger and Acquisitions Committee Charter](https://drive.google.com/drive/folders/1HIF4YrxJjPPYM0XVhW0s4Jky-U5EQw19) - Gitlab's Mergers and Acquisitions Committee Charter.
 * [Patent Program](https://about.gitlab.com/handbook/legal/patent-program/)
 * [Privacy Policy](https://about.gitlab.com/privacy/) - GitLab's policy for how it handles personal information
 * [Public Discussion of Competitor Products Guidelines](handbook/legal/competitor-discussion-guidelines)
@@ -58,7 +59,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 * [Whistleblower Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) - this policy is provided to enable Team Members with guidelines on on how to report any improper activites, or suspected improper activities. 
 
 
-_NOTE: The Insider Trading and Whistleblower Policies are only accessible to GitLab Team Members signed into their GitLab Account_
+_NOTE: The Insider Trading Policy, Mergers and Acquisitions Committee Charter and Whistleblower Policy are only accessible to GitLab Team Members signed into their GitLab Account_
 
 
 ## Helpful Resources 
