@@ -26,7 +26,7 @@ In a subscription business, it is crucial to understand what and how much of our
 
 <br>To calculate the amount of revenue available to renew at a given time, you must first filter your transactions to only recurring charges (i.e. subscriptions, not one-time deals). You must then determine when this subscription is set to renew based on its effective date. From these details you can get a broad view of how much revenue is available to renew at any given time. 
 
-Additionally, to get the full picture of what is available to renew you must also determine if a subscription is a multi-year deal and if it has been prepaid. If a subscription is paid in full up front, it will not be available to renew until the end of its term. If it is a multi-year deal and has not been paid upfront, a proporiate amount of its total subscription amount will appear as available to renew in each year between the start and end dates of the subscription since we would expect to receive revenue for this deal yearly until payment is complete. 
+Additionally, to get the full picture of what is available to renew you must also determine if a subscription is a multi-year deal. If it is a multi-year deal, the subscription will be available to renew at the end of the multi-year term.
 
 Example:
 * 3 year subscription, paid upfront: Appears as available to renew three years after the subscription is effective for the full amount, but not in the intervening years.
