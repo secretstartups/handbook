@@ -20,20 +20,34 @@ description: "GitLab Data Science Team Handbook"
 The mission of the Data Science team is to help understand business, customers and products better with model-based insights.
 The team accomplishes this mission by building machine learning models and analysing data to convert results into trusted and scalable products. 
 
+## Data Science Responsibilities 
+- Responsibilities of data scientists are outlined [here](https://about.gitlab.com/job-families/finance/data-science/) 
+
+- Additionally, the **Data Science Team** supports the following responsibilities:
+    - With the **Data Leadership Team**:
+        - Defining and publishing a Data Science roadmap to expand analytical capabilities
+        - Broadcasting regular updates about data deliverables, ongoing initiatives, and upcoming plans
+    - With the [**Data Engineering Team**](/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities):
+        - Helping to define and champion Data Quality practices and programs for GitLab data systems
+
+# What is Data Science?
+- What exactly is data science?! Check out [this video](https://www.youtube.com/watch?v=wRbNExL0hv8) or [these slides](https://docs.google.com/presentation/d/1Y-V6bZ5w8Ms5yfMiuYCYZs9ald7Q5MxydYhSh9DWwwQ/edit?usp=sharing) for a quick overview.
+
+
+## Handbook First on Data Science Team
 
 ## Projects
 
-### Propensity to Expand
-
-- Alias: PtE
+### Propensity to Expand (PtE)
+- Object
 - Start Date: 2021-06-30
 - [Project](https://gitlab.com/gitlab-data/propensity-to-buy)
 - [Work breakdown](https://gitlab.com/groups/gitlab-data/-/epics/340)
 - Slack Channel: [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7)
 
-### Propensity to Contract
+### Propensity to Contract (PtC)
 
-- Alias: PtC
+- Objective:
 - Start Date: 2021-11-01
 - [Project](https://gitlab.com/gitlab-data/propensity-to-contract)
 - [Work Breakdown](https://gitlab.com/groups/gitlab-data/-/epics/382)
@@ -58,20 +72,8 @@ The team accomplishes this mission by building machine learning models and analy
 | FY-22 Q4 / Iterative | [Propensity to Contract (PtC)](https://gitlab.com/gitlab-data/propensity-to-contract) | Enables sales team to prevent reduction of ARR | Sales Team (Jake Bielecki) | TBD |
 | FY-23 Q1 / Iterative | [User Segmentation (US)](https://gitlab.com/gitlab-data/user-segmentation) | Determines profiles of customers | Product Team (Hila Qu) | TBD |
 
-# Data Science responsibilities 
 
-- What exactly is data science?! Check out [this video](https://www.youtube.com/watch?v=wRbNExL0hv8) or [these slides](https://docs.google.com/presentation/d/1Y-V6bZ5w8Ms5yfMiuYCYZs9ald7Q5MxydYhSh9DWwwQ/edit?usp=sharing) for a quick overview.
-
-- Responsibilities of data scientists are outlined [here](https://about.gitlab.com/job-families/finance/data-science/) 
-
-- Additionally, the **Data Science Team** supports the following responsibilities:
-    - With the **Data Leadership Team**:
-        - Defining and publishing a Data Science roadmap to expand analytical capabilities
-        - Broadcasting regular updates about data deliverables, ongoing initiatives, and upcoming plans
-    - With the [**Data Engineering Team**](/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities):
-        - Helping to define and champion Data Quality practices and programs for GitLab data systems
-
-# Projects structure 
+## Projects structure 
 
 Data Scientists follow [Cross-Industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) to deliver projects, which consists of 6 phases. More detailed breakdown of project structure and code examples can be found (here). 
 
@@ -99,7 +101,7 @@ In this phase, performance of model is measured (if required in Business Underst
 
 Once a viable prediction model has been created, the next step is to deploy the model in to the TBD data science production pipeline. This process automatically updates ("re-trains") the model as new data becomes available and generates predictions for all eligable records on a regular cadence.  
 
-# Success Criteria 
+## Success Criteria 
 
 Every data science project at GitLab starts and ends with success criteria. 
 
@@ -272,3 +274,5 @@ data.groupby(['col1']).min()
 data.groupby(['col1']).max()
 
 ```
+
+# Data Science Resources
