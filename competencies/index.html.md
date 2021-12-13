@@ -12,7 +12,7 @@ description: "GitLab has competencies as a common framework to learn things. Thi
 
 ## Intro
 
-GitLab has competencies as a common framework to learn things. This page is a [Single Source of Truth (SSoT)](https://docs.gitlab.com/ee/development/documentation/styleguide.html#why-a-single-source-of-truth) resource for our competencies.
+GitLab has competencies as a common framework to learn things. This page is a [Single Source of Truth (SSoT)](https://docs.gitlab.com/ee/development/documentation/styleguide/#why-a-single-source-of-truth) resource for our competencies.
 
 A competency is defined as a set of skills, knowledge, and behaviors that allow an individual to effectively and efficiently carry out their role. There are three key categories of competencies at GitLab:
 
@@ -22,7 +22,7 @@ A competency is defined as a set of skills, knowledge, and behaviors that allow 
 
 ## Principles
 
-1. We will re-use the same materials for different audiences by having them on a [Single Source of Truth (SSoT)](https://docs.gitlab.com/ee/development/documentation/styleguide.html#why-a-single-source-of-truth) competency page
+1. We will re-use the same materials for different audiences by having them on a [Single Source of Truth (SSoT)](https://docs.gitlab.com/ee/development/documentation/styleguide/#why-a-single-source-of-truth) competency page
 1. We will make competencies accessible to everyone in the world, including knowledge assessments, to validate understanding a competency (via Google forms and Zapier)
 1. We will work handbook first so [everyone can contribute](https://about.gitlab.com/company/mission/#mission)
 
