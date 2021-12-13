@@ -13,7 +13,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 ## Sales & Customer Success Learning Path - Core Curriculum
 
 <details>
-<summary markdown="span">1. Welcome to GitLab Sales!</summary>
+<summary>1. Welcome to GitLab Sales!</summary>
 
 ### 1.[ Welcome to GitLab Sales!](https://gitlab.edcast.com/pathways/sales-quick-start/cards/7167664)
 *  **ACTIVITY: Let's Git To Know Each Other! (Assignment, 5 minutes, 1 Point - Pre Work)**
