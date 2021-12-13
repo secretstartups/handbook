@@ -36,20 +36,21 @@ This page is meant to showcase the features by tier across GitLab's Product Hier
         <% if group.categories %>
 
 | Category | Features in Core | Features in Premium | Features in Ultimate |
-|:--------:|:----------------:|:-------------------:|:--------------------:|
+|:---------|:-----------------|:--------------------|:---------------------|
           <% group.categories.each do |category_key| %>
             <% category = Gitlab::Homepage::Category.all!.find{|category| category.key == category_key} %>
             <% ultimateList=[] %>
             <% premiumList=[] %>
             <% coreList=[] %>
             <% if category.features? %>
-              <% category.features.each do |feature| %>
+              <% category.features.sort_by { |feature| feature[:title] }.each do |feature| %>
                 <% ultimateList << "[#{feature.title}](#{feature.link})" if feature.gitlab_ultimate && !feature.gitlab_premium %>
                 <% premiumList << "[#{feature.title}](#{feature.link})" if feature.gitlab_premium && feature.gitlab_starter && !feature.gitlab_core %>
                 <% coreList << "[#{feature.title}](#{feature.link})" if feature.gitlab_core %>
               <% end %>
             <% end %>
-            <%= "| **[#{category.name}](#{category.best_link})** | #{coreList.join('<br/> ')} | #{premiumList.join('<br/> ')} | #{ultimateList.join('<br/> ')} | " %>
+            <%# coreList = coreList.map { |item|  "<li>#{item}</li>" } %>
+            <%= "| **[#{category.name}](#{category.best_link})** | #{coreList.join('<br /><br />')} | #{premiumList.join('<br /><br />')} | #{ultimateList.join('<br /><br />')} | " %>
           <% end %>
         <% end %>
 
