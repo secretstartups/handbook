@@ -49,7 +49,7 @@ To gain access to SAFE Dashboards:
 3. Once the request is approved, follow the instructions in the tech_stack.yml file for provisioning. 
 4. After processing is complete you will be able to login to Sisense and access your requested SAFE dashboard and all other dashboards within the SAFE Dashboard Space.
 
-![Sisense Spaces](safe_intermediate.png)
+![Sisense Spaces](sisense_spaces_singular.png)
 
 Please see the [Accessing](/handbook/business-technology/data-team/platform/#warehouse-access) SAFE Data in Snowflake for instructions on to access the SAFE data in Snowflake.
 
@@ -72,7 +72,7 @@ To gain access to SAFE Intermediate Dashboards:
 3. Once the request is approved, follow the instructions in the tech_stack.yml file for provisioning. 
 4. After processing is complete you will be able to login to Sisense and access your requested SAFE Intermediate dashboard and all other dashboards within the SAFE Intermediate Dashboard Space.
 
-![Sisense Spaces](sisense_spaces_singular.png)
+![Sisense Spaces](safe_intermediate.png)
 
 ## Data By Subject Area
 
