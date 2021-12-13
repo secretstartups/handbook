@@ -556,7 +556,7 @@ To pay via invoice, simply e-sign the[ reseller quote](/handbook/resellers/#gitl
 
 ##### Execute the GitLab EULA
 
-All orders require an executed[ EULA](https://about.gitlab.com/terms/signature.html) when there's a new subscription or an add-on. There are 2 methods of obtaining a EULA:
+All orders require an executed[ EULA](https://about.gitlab.com/handbook/legal/subscription-agreement/) when there's a new subscription or an add-on. There are 2 methods of obtaining a EULA:
 
 
 
