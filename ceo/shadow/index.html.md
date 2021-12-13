@@ -391,6 +391,8 @@ CEO Shadows may be the point of contact for helping coordinate (not schedule) me
 Take initiative, for example finding a quiet space for the CEO to take the call, if it is done while traveling.
 When participating in media briefings, CEO Shadows are to act as silent participants, except when directly asked a question.
 
+Remote: To listen in when it is not a live broadcast session, please contact the Corporate Communications team by posting in the #corpscomms Slack channel ahead of time to let the media contact know.
+
 ###### Candidate Interviews
 {:.no_toc}
 
