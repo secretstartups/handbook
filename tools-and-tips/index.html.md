@@ -1,3 +1,8 @@
+---
+layout: handbook-page-toc
+title: Tools and tips
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -91,6 +96,8 @@ It's for topics like parenting where people may want to share knowledge, but the
 
 Link your GitLab email address to an easily recognizable photo of yourself on GitLab, Slack, and [Gravatar](https://en.gravatar.com/).
 It is company policy to use a photo, and not an avatar, a stock photo, or something with sunglasses for any of your GitLab accounts, as we have a lot of GitLab team-members and our brains are comfortable with recognizing people; let's use them.
+
+_**Note**: If you upload your photo to Gravatar associated with your gitlab.com email, then you can simply not set an image in your GitLab and Slack profiles and they will automatically use your Gravatar photo.  If you already uploaded individual photos to your GitLab and Slack profiles, simply removing them will cause your avatar to use the Gravatar photo by default._
 
 ### Creating gifs
 
@@ -863,10 +870,8 @@ Set up an [email signature](https://support.google.com/mail/answer/8395) which i
 
 _Note: You can copy and paste the template below to use it in your own signature._
 
-``` sse
 <span style="font-family: serif;font-size: small;display: block;">John Doe</span>
 <span style="color: #999999;font-family: sans-serif;font-size: small;display: block;">Frontend Engineer | GitLab</span>
-```
 
 <img src="https://lh3.googleusercontent.com/lFQxFbGYJpI6e_oQkEJ6WVDr-9RAmCZgV7_vgKs8zLJzIsSDF13zot8wtdMqFvBq8OH6jPiv6kwszHf5r_YrSNoXKRdSb42dsyyw7oOSSan1Nuq8ud2AtaD4yBwM-1xtYAb7IMFz" width="98" height="37">
 
