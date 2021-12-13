@@ -159,26 +159,24 @@ The list may not be up to date.  If something is missing, please add it.
 # Slack Channels
 
 - Oncall-related channels:
-  1. `production`
-  1. `ongres-gitlab`
-  1. `mgcp_gitlab_ops`
-  1. `incident-management`
-  1. `alerts`
-  1. `announcements`
-  1. `dev-escalation`
-  1. `feed_alerts-general`
-  1. `cloud-provider-alerts`
+  - `production`
+  - `incident-management`
+  - `alerts`
+  - `announcements`
+  - `dev-escalation`
+  - `feed_alerts-general`
+  - `cloud-provider-alerts`
 - Infrastructure channels:
-  1. `sre_observability`
-  1. `sre_coreinfra`
-  1. `sre_datastores`
-  1. `infrastructure-lounge`
-  1. `infra-lounge-social`
-  1. `infra-read-feed`
-  1. `g_delivery`
-  1. `g_scalability`
-  1. `infra_capacity-planning`
-  1. `kubernetes`
+  - `sre_standup`
+  - `infrastructure-lounge`
+  - `infra-lounge-social`
+  - `infra-read-feed`
+  - `g_delivery`
+  - `g_scalability`
+  - `infra_capacity-planning`
+  - `ansible`
+  - `kubernetes`
+  - `terraform`
 
 # Zendesk
 
