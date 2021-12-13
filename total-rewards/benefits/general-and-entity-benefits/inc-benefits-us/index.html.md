@@ -12,7 +12,10 @@ description: "GitLab Inc (US) benefits specific to US based team members."
 
 ----
 
-* Navigate to [Total Rewards Processes & Audits for US Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/total-rewards-processes/)
+If you are not in the United States, please see the following [Entity Specific handbook section](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) to review available benefits in your country. 
+
+Related Pages: 
+* [Total Rewards Processes & Audits for US Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/total-rewards-processes/)
 
 ## Specific to US based team members
  
