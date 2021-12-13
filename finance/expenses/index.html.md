@@ -333,7 +333,7 @@ In FY22, each eGroup member has been allocated $50 per team member per quarter f
 
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i>Year-end Holiday Party Budget
 
-GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. Due to continued travel restrictions, each eGroup member will be responsible for setting the holiday event guidelines for their teams.  The budget per team member is $100 USD.  if you have any questions, please reach out to your eGroup member.
+GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December/January. Due to continued travel restrictions, each eGroup member will be responsible for setting the holiday event guidelines for their teams. The budget per team member is $100 USD. If you have any questions, please reach out to your eGroup member.
 
 ## <i class="fas fa-bullseye" id="biz-tech-icons"></i>Travel and Expense Guidelines
 
