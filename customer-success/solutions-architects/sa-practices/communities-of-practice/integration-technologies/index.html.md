@@ -40,7 +40,7 @@ Elasticsearch is able to install on most [platforms](https://www.elastic.co/guid
 
 Demo Examples:
 - [Recently Viewed Suggestions](https://www.youtube.com/watch?v=a1Y9927eC4I) [VIDEO]
-- [Advanced Search Syntax](https://docs.gitlab.com/ee/user/search/advanced_search_syntax.html)
+- [Advanced Search Syntax](https://docs.gitlab.com/ee/user/search/advanced_search.html)
 
 ### FAQ
 
