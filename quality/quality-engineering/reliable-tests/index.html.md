@@ -5,6 +5,7 @@ description: "This page describes the process and technical documentation around
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -18,13 +19,34 @@ Reliable tests are executed as a blocking step in the release process. It is vit
 
 ### Defining a reliable test
 
-A reliable test is an end-to-end test that passes consistently in [all pipelines, including merge requests](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#scheduled-qa-test-pipelines), for at least seven days. Such a test can be given the `:reliable` tag.
+A reliable test is an end-to-end test that passes consistently in [all pipelines](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#scheduled-qa-test-pipelines), for at least seven days. Such a test can be given the `:reliable` tag.
 
 ### Promoting an existing test to reliable
 
-If an end-to-end test consistently passes for 7 consecutive days (as mentioned above), it could be considered a reliable test.
+If an end-to-end test consistently passes for 14 consecutive days (as mentioned above), it could be considered a reliable test.
 
 **Note:** the DRI for promoting existing tests to reliable is the author of the test. In case the author of the test isn't available, the counterpart SET of the test's DevOps stage should be the DRI.
+
+#### Reliable spec report
+
+Every week a reliable spec report is generated and report issue with the report summary is posted to slack channel `#quality-reports`.
+
+Test report contains all specs that have passed consecutively for 14 days on following pipelines:
+
+- `Production Full`
+- `Staging full`
+- `Gitlab master`
+- `Nightly packages`
+
+Additionally, report contains information on `reliable` specs that have failed in the past 14 days on any of the following pipelines:
+
+- `Production Full`
+- `Production Smoke and Reliable`
+- `Staging full`
+- `Staging Smoke and Reliable`
+- `Staging Smoke and Reliable (No Admin)`
+- `Gitlab master`
+- `Nightly packages`
 
 ### Promoting a new test to reliable
 
@@ -41,10 +63,10 @@ These are the steps required to promote a new test to reliable
 
 A test is no longer considered reliable if it fails in any pipeline, including in merge requests, and the cause of the failure is found to be
 
-* the test itself, or
-* relevant unreliable parts of the test framework, or
-* minor transient test infrastructure issues, or
-* any other similar cause that the test should be able to cope with.
+- the test itself, or
+- relevant unreliable parts of the test framework, or
+- minor transient test infrastructure issues, or
+- any other similar cause that the test should be able to cope with.
 
 In this case, the following process should be followed.
 
@@ -70,21 +92,6 @@ This is in addition to the `smoke tests` that is already run as part of the rele
 
 ### Open questions
 
-There is still one open question that needs to be addressed, as described below.
-
-1. How are the last 7 days of data gathered?
-
-We could potentially use the test suites report to gather such data (e.g., https://ops.gitlab.net/gitlab-org/quality/staging/pipelines/116213/test_report.)
-
-The following issues could be useful as well.
-
-- https://gitlab.com/gitlab-org/gitlab/issues/24944
-- https://gitlab.com/gitlab-org/quality/team-tasks/issues/187
-
-**Notes:**
-
-- Currently, this is a manual process where we need to analyze across different pipelines/channels/environments to determine whether it is safe to move a test to a separate bucket.
-- The next step is to come up with a semi-automated process. This process could be a weekly test cases' health report that is generated and grouped under three buckets - new tests, unquarantined, and reliable. This report would be helpful in quickly identifying the health of a test case. The moving of test cases across buckets would still be a manual process.
-- The long term goal would be identifying and moving tests across buckets automatically.
+- Promotion of test case to reliable or removing from reliable is still a manual process. The long term goal would be identifying and moving tests across buckets automatically.
 
 > If there are more open questions they can be added here too.
