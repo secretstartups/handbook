@@ -1,8 +1,3 @@
----
-layout: handbook-page-toc
-title: "Tools and tips"
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -26,8 +21,8 @@ You can find more tools and tips in the following sub-pages:
 
 - Starting point: let's say your username is `old-mary` and you want it to be just `mary`.
 - **Note:** each GitLab account is tracked by an **userID**, which is a number stored in a database.
-  If we change the username, the userID does not change.
-  And all the permissions, issues, MRs, and relevant stuff within GitLab are related to your **userID**, not with your username.
+If we change the username, the userID does not change.
+And all the permissions, issues, MRs, and relevant stuff within GitLab are related to your **userID**, not with your username.
 - **Note:** if you are not a GitLab Team member, the same process applies except your e-mail ([STEP 2](#change-username-step-2)), which will be different (will not be @gitlab.com email), so you can replace it with your own email account.
 
 ##### STEP 1: Request your new username
@@ -41,42 +36,43 @@ You can find more tools and tips in the following sub-pages:
 {: #change-username-step-2}
 
 - If support replies to you telling that the username is free to use, create a new GitLab.com account with it.
-  Use a personal email to register your new account and choose one that has not been used with your old GitLab account.
+Use a personal email to register your new account and choose one that has not been used with your old GitLab account.
 - Navigate to your [**Profile Settings** > **Emails**](https://gitlab.com/profile/emails), and add a new email.
-  ⭐️ **Trick** ⭐️ If your email at GitLab is `mary@gitlab.com`, add the new email as `mary+something@gitlab.com`: this is a [Gmail trick](https://support.google.com/mail/answer/12096?hl=en)! All your emails sent to this alias will end up in your GitLab email account 😃
-- Navigate to <https://gitlab.com/profile/notifications> and choose the notifications email: `mary+something@gitlab.com`.
+⭐️ **Trick** ⭐️ If your email at GitLab is `mary@gitlab.com`, add the new email as `mary+something@gitlab.com`: this is a [Gmail trick](https://support.google.com/mail/answer/12096?hl=en)! All your emails sent to this alias will end up in your GitLab email account 😃
+- Navigate to [https://gitlab.com/profile/notifications](https://gitlab.com/profile/notifications) and choose the notifications email: `mary+something@gitlab.com`.
 - Open your old account in one browser and the new one in another browser (e.g., Chrome and Firefox, or Chrome and Safari) - log in to both accounts at the same time.
 
 ##### STEP 3: Let's have some fun (kidding, this is critical!)
 
-- Navigate to <https://gitlab.com/profile/account> in both your accounts.
+- Navigate to [https://gitlab.com/profile/account](https://gitlab.com/profile/account) in both your accounts.
 - Look for your username.
-  This operation has to be done quickly, otherwise you are risking to lose your awesome new username to someone else quicker than you.
-  We need to **swap** the usernames between both accounts, so you'll keep all your history, your privileges, issues, and MRs assigned to you, etc.
+This operation has to be done quickly, otherwise you are risking to lose your awesome new username to someone else quicker than you.
+We need to **swap** the usernames between both accounts, so you'll keep all your history, your privileges, issues, and MRs assigned to you, etc.
 - If you work with 2 monitors, open each browser on one monitor.
-  If you don't, open them side by side, so that you can keep an eye on both at the same time.
+If you don't, open them side by side, so that you can keep an eye on both at the same time.
 - Rename your new username `mary` to something like `mary-1` and **DO NOT** click **update username** yet.
-  Rename your old username `old-mary` to your new username `mary` and **DO NOT** update that either.
-  Just leave them typed into the boxes.
+Rename your old username `old-mary` to your new username `mary` and **DO NOT** update that either.
+Just leave them typed into the boxes.
 - Make sure you did the previous step right!
 - ⚠️ **CRITICAL** ⚠️ Update the first one (`mary` to `mary-1`).
-  Immediately, click **update** on the other one (`old-mary` to `mary`).
+Immediately, click **update** on the other one (`old-mary` to `mary`).
 - Immediately, rename the `mary-1` to your old one `old-mary` and click **update username** again.
 - Ta-Da! 🙌
 
 ##### STEP 4: Move your projects (or not)
 
 - Now, if you have any personal projects, you might want to import them to your new account (the one that has your old username now).
-  To do that, in your new account (the one with the old username), click **Create a New Project**, give it the very same name as the original one, click **Git - add repo by url**, and paste the `https://` URL of your project there.
-  To make things easier, make sure all the projects you want to import are set to `public` view.
-  You can make them private afterwards.
+To do that, in your new account (the one with the old username), click **Create a New Project**, give it the very same name as the original one, click **Git - add repo by url**, and paste the `https://` URL of your project there.
+To make things easier, make sure all the projects you want to import are set to `public` view.
+You can make them private afterwards.
 - If you have GitLab Pages projects with the default **GitLab.io** url, you will need to import them to you new account, then make a change to **trigger a build** and redeploy your site.
-  They will be affected only if you're using a [CNAME with a subdomain instead of an A record](/blog/2016/04/07/gitlab-pages-setup/#custom-domains).
-  This won't affect Pages projects that use custom domains, as they all point to the same Pages server IP via `A` record.
-  Your groups won't be affected either, as they operate under their own namespace.
-  Add both users as members of your groups and nothing changes.
+They will be affected only if you're using a [CNAME with a subdomain instead of an A record](/blog/2016/04/07/gitlab-pages-setup/#custom-domains).
+This won't affect Pages projects that use custom domains, as they all point to the same Pages server IP via `A` record.
+Your groups won't be affected either, as they operate under their own namespace.
+Add both users as members of your groups and nothing changes.
 
 That's it! Don't forget to update your username in the following places:
+
 - [team page](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team.yml)
 - [Marketing Handbook](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/handbook/marketing/index.html.md), in case you're a Marketing Team member.
 - [BambooHR](https://gitlab.bamboohr.com/home/) GitLab Username under contact details
@@ -106,20 +102,20 @@ We have a [dedicated section](/handbook/product/making-gifs) for that in the han
 
 On macOS, install ImageMagick with Homebrew:
 
-```shell
+``` shell
 $ brew install imagemagick
 ```
 
 On Linux, use your package manager:
 
-```shell
+``` shell
 $ sudo dnf install ImageMagick
 $ sudo apt install imagemagick
 ```
 
 This example converts an existing image to `1920x1080` resolution and replaces it inline:
 
-```shell
+``` shell
 convert blogimage.jpg -resize 1920x1080 blogimage.jpg
 ```
 
@@ -130,19 +126,18 @@ You can also use percentage values for the `-resize` parameter. The `convert` CL
 Mermaid is a tool that allows us to create flowcharts, graphs, diagrams, Gantt charts, etc. within GitLab! Check out the [examples in the GitLab docs](https://docs.gitlab.com/ee/user/markdown.html#mermaid) on how to use Mermaid.
 
 A few additional resources that can be helpful when working with Mermaid are:
-* The [live mermaid editor](https://mermaid-js.github.io/mermaid-live-editor) to check your work!
-* [GitHub's Mermaid overview](https://mermaid-js.github.io/mermaid/#/)
-* A [CSS color bank](https://www.rapidtables.com/web/css/css-color.html) to add color to your charts.
-* You can see an example of how to add images to Mermaid charts [here](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuICBDIC0tPiBHXG4gIEcoXCI8aW1nIHNyYz0naHR0cHM6Ly9pY29uc2NvdXQuY29tL21zLWljb24tMzEweDMxMC5wbmcnOyB3aWR0aD0nMzAnIC8-XCIpIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQiLCJzZWN1cml0eUxldmVsIjoibG9vc2UifX0).
-* Examples of Mermaid charts that have been created by GitLab team members:
-  - [Talent Development Program Chart](/handbook/people-group/talent-development-program/#talent-development-program-chart) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Operations Specialist
-  - [CEO Year at a Glance](/company/cadence/#year-at-a-glance)
-  - [Data Infrastructure System Diagram](/handbook/business-ops/data-team/platform/infrastructure/#system-diagram)
-* [Advanced layout demos](mermaid) for Mermaid diagrams
 
-_Note: When creating Mermaid charts in the GitLab handbook, you need to type `three back tick symbols` followed by the word `mermaid` before the chart, and `three back tick symbols` at the end of the chart.
-This will enable Markdown to distinguish between .md and Mermaid.
-Please reference the example Mermaid charts linked above to see how this looks live._
+- The [live mermaid editor](https://mermaid-js.github.io/mermaid-live-editor) to check your work!
+- [GitHub's Mermaid overview](https://mermaid-js.github.io/mermaid/#/)
+- A [CSS color bank](https://www.rapidtables.com/web/css/css-color.html) to add color to your charts.
+- You can see an example of how to add images to Mermaid charts [here](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuICBDIC0tPiBHXG4gIEcoXCI8aW1nIHNyYz0naHR0cHM6Ly9pY29uc2NvdXQuY29tL21zLWljb24tMzEweDMxMC5wbmcnOyB3aWR0aD0nMzAnIC8-XCIpIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQiLCJzZWN1cml0eUxldmVsIjoibG9vc2UifX0).
+- Examples of Mermaid charts that have been created by GitLab team members:
+    - [Talent Development Program Chart](/handbook/people-group/talent-development-program/#talent-development-program-chart) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Operations Specialist
+    - [CEO Year at a Glance](/company/cadence/#year-at-a-glance)
+    - [Data Infrastructure System Diagram](/handbook/business-ops/data-team/platform/infrastructure/#system-diagram)
+- [Advanced layout demos](mermaid) for Mermaid diagrams
+
+_Note: When creating Mermaid charts in the GitLab handbook, you need to type `three back tick symbols` followed by the word `mermaid` before the chart, and `three back tick symbols` at the end of the chart. This will enable Markdown to distinguish between .md and Mermaid. Please reference the example Mermaid charts linked above to see how this looks live._
 
 ### Visual help to differentiate between GitLab servers
 
@@ -153,8 +148,8 @@ If you are working on multiple GitLab instances and want to have a visual differ
 Page counts are determined through a simple two-step process:
 
 1. Count the number of words in the handbook.
-   This can be done by running `find source/handbook -type f | xargs wc -w` from the root directory of the repository.
-2. Submit the word count to [WordCounter](https://wordcounter.net/words-per-page) for conversion to a page count.
+This can be done by running `find source/handbook -type f | xargs wc -w` from the root directory of the repository.
+1. Submit the word count to [WordCounter](https://wordcounter.net/words-per-page) for conversion to a page count.
 
 ### Trainee maintainer issue upkeep
 
@@ -200,6 +195,7 @@ If they're already enabled try toggling them off and on again to force an update
 If this doesn't work, request that ITOps reset your 2FA setting.
 
 Links for finding the settings:
+
 - iOS: [Get help with the date and time on your iPhone, iPad, and iPod touch - Apple Support](https://support.apple.com/en-us/HT203483)
 - macOS: [If the date or time is wrong on your Mac - Apple Support](https://support.apple.com/en-us/HT203413)
 - Linux (using systemd): [systemd-timesyncd - ArchWiki](https://wiki.archlinux.org/index.php/systemd-timesyncd)
@@ -224,19 +220,21 @@ Netstat is a command line tool which can be useful to print network connections,
  tcp   0      0 127.0.0.1:9168     0.0.0.0:*     LISTEN     18808/puma 4.3.3.gi
  tcp   0      0 0.0.0.0:80         0.0.0.0:*     LISTEN     18831/nginx: master
 ```
+
 If you find a port already in use, you won't be able to successfully start up a service or program that utilizes that same port. Options to resolve are:
 
 - Stop the service currently running on the needed port and confirm the port is no longer in use
 - Review documentation to determine whether it is possible to specify an alternate port for either process (the existing one or your new service)
 
 #### Known Port Conflicts
+
 When the GitLab Development Kit cannot start using the `./run` command and Unicorn terminates because port 3000 is already in use, you will have to check what process is using it.
 Running `sudo lsof -iTCP:3000 -sTCP:LISTEN -n -P` will yield the offender so this process can be killed.
 It might be wise to alias this command in your `.bash_profile` or equivalent for your shell.
 
 You may also wish to add a function in your `.bash_profile` (or equivalent file for your shell) like this:
 
-```zsh
+``` zsh
 function killport() {
   lsof -i tcp:$1 | awk '(NR!=1) && ($1!="Google") && ($1!="firefox") {print $2}' | xargs kill
 }
@@ -244,7 +242,7 @@ function killport() {
 
 which you can use like so:
 
-```shell
+``` shell
 > killport 3000
 ```
 
@@ -261,7 +259,7 @@ If you are not inside a git repository, it only displays the username and the cu
 
 Add the following lines in your `.bash_profile`
 
-```sh
+``` sh
 git_branch() {
     git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
 }
@@ -270,7 +268,7 @@ export PS1="\u@\[\033[32m\]\w\[\033[33m\]\$(git_branch)\[\033[00m\]\$ "
 
 Doing the following, makes the changes to get reflected in you current terminal:
 
-```sh
+``` sh
 source ~/.bashrc
 ```
 
@@ -283,7 +281,7 @@ Another option would be:
 
 Add the following lines in your `~/.zshrc`
 
-```sh
+``` sh
 parse_git_branch() {
      git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
 }
@@ -292,18 +290,17 @@ PROMPT="%n@%d~%f%\$(parse_git_branch) %# "
 
 The changes will show on the next terminal or immediately by running.
 
-```sh
+``` sh
 . ~/.zshrc
 ```
-
 
 ### Shell aliases
 
 Use command aliases in your shell to speed up your workflow.
 Take a look at [these aliases](https://gitlab.com/sytses/dotfiles/blob/master/zsh/aliases.zsh) and others in [Sid's dotfiles project](https://gitlab.com/sytses/dotfiles/tree/master).
-For example, by adding the following to your `.bash_profile` or equivalent for your shell, you can just type <kbd>s</kbd> to checkout the `master` branch of this website, pull the latest changes, and open the repository in Sublime Text:
+For example, by adding the following to your `.bash_profile` or equivalent for your shell, you can just type<kbd>s</kbd>to checkout the `master` branch of this website, pull the latest changes, and open the repository in Sublime Text:
 
-```sh
+``` sh
 alias gco='git checkout'
 alias gl='git pull --prune'
 alias gca='git commit -a'
@@ -312,22 +309,21 @@ alias www='cd ~/Dropbox/Repos/www-gitlab-com/source'
 alias s='www;subl .;gco master;gl'
 ```
 
-After editing, you can just type <kbd>gca</kbd> to commit all of your changes, followed by <kbd>gp</kbd> to push them to the remote branch.
+After editing, you can just type<kbd>gca</kbd>to commit all of your changes, followed by<kbd>gp</kbd>to push them to the remote branch.
 
 If you are using [Oh My ZSH!](https://ohmyz.sh/), you can add custom aliases shown below. You can freely define the file name, only the suffix `.zsh` is important.
 
-```sh
+``` sh
 $ vim ~/.oh-my-zsh/custom/aliases.zsh
 ```
 
 An example can be found in [Michael Friedrich's dotfiles project](https://gitlab.com/dnsmichi/dotfiles/-/tree/main/.oh-my-zsh/custom).
 
-
 #### Delete local Git branches where remote branch was deleted
 
-In order to delete local Git branches which are deleted on the remote server, you'll need to combine the `--prune` pull/fetch command with more commands. `git branch -vv` lists all details of local branches, the followed `grep` filters for all marked gone in the default remote `origin` and prints the results with `awk`. This argument is passed into `git branch -d`, and executed for all matching results. Note that `-d` does not delete unmerged branches. `-D` has more impact but can accidentally delete branches. 
+In order to delete local Git branches which are deleted on the remote server, you'll need to combine the `--prune` pull/fetch command with more commands. `git branch -vv` lists all details of local branches, the followed `grep` filters for all marked gone in the default remote `origin` and prints the results with `awk`. This argument is passed into `git branch -d`, and executed for all matching results. Note that `-d` does not delete unmerged branches. `-D` has more impact but can accidentally delete branches.
 
-```sh
+``` sh
 # Delete all remote tracking Git branches where the upstream branch has been deleted
 alias git_prune="git fetch --prune && git branch -vv | grep 'origin/.*: gone]' | awk '{print \$1}' | xargs git branch -d"
 ```
@@ -340,13 +336,13 @@ $ git fetch --prune && git branch -vv | grep 'origin/.*: gone]' | awk '{print $1
 
 ### Dotfiles
 
-You can use dotfiles to customize your system, and keep all configuration in a central place. The name `dot file` is derived from Linux/Unix where all configuration files started with a dot, hiding them from the default list view `ls`. 
+You can use dotfiles to customize your system, and keep all configuration in a central place. The name `dot file` is derived from Linux/Unix where all configuration files started with a dot, hiding them from the default list view `ls`.
 
 Team member dotfiles projects:
 
 - [Sid Sijbrandij's dotfiles](https://gitlab.com/sytses/dotfiles)
 - [Michael Friedrich's dotfiles](https://gitlab.com/dnsmichi/dotfiles), more details in [this blog post](/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/)
-- [Brendan O'Leary's dotfiles](https://gitlab.com/brendan/dotfiles) 
+- [Brendan O'Leary's dotfiles](https://gitlab.com/brendan/dotfiles)
 
 ## Travelling
 
@@ -391,7 +387,7 @@ During the registration of the U2F device, a public/private key pair is generate
 
 ### U2F devices
 
-YubiKey: The most popular U2F device is Yubico's YubiKey. There are a wide variety of sizes and styles of YubiKeys. Yubico (along with Google) helped develop the original U2F standard before it was moved to the  FIDO Alliance. Most GitLab team members that have U2F devices have a YubiKey. It should be noted that for a long time Yubico's source code for its firmware was open source, but some of the newer versions of firmware are closed source. This has caused some concern in the security community, particularly those that prefer to use open source whenever possible.
+YubiKey: The most popular U2F device is Yubico's YubiKey. There are a wide variety of sizes and styles of YubiKeys. Yubico (along with Google) helped develop the original U2F standard before it was moved to the FIDO Alliance. Most GitLab team members that have U2F devices have a YubiKey. It should be noted that for a long time Yubico's source code for its firmware was open source, but some of the newer versions of firmware are closed source. This has caused some concern in the security community, particularly those that prefer to use open source whenever possible.
 
 Solo Security Key: Solokeys' Solo Security Key is growing in popularity, and while it often lags behind in certain features, it is also used by a few GitLab team members with success. The company began as a Kickstarter project, both the hardware designs and firmware source code are open source for Solokeys, and the open source nature is the reason a number of team members favor it.
 
@@ -520,8 +516,8 @@ E.g. `@jenny` as it can create a message that distracts others.
 
 Quick Switcher is a great feature to know about if you want to get productive with Slack.
 As the name suggests, it allows you to switch between channels and direct messages quickly.
-Invoke it with <kbd>Cmd</kbd> + <kbd>k</kbd> on Mac or <kbd>Ctrl</kbd> + <kbd>k</kbd> on Windows or Linux and start typing the name of the person to chat with or the channel you are interested in.
-You can then navigate the suggestions with <kbd>↑</kbd> and <kbd>↓</kbd> keys and hit <kbd>enter</kbd> to select.
+Invoke it with<kbd>Cmd</kbd>+<kbd>k</kbd>on Mac or<kbd>Ctrl</kbd>+<kbd>k</kbd>on Windows or Linux and start typing the name of the person to chat with or the channel you are interested in.
+You can then navigate the suggestions with<kbd>↑</kbd>and<kbd>↓</kbd>keys and hit<kbd>enter</kbd>to select.
 
 ### Display only unread conversations
 
@@ -571,8 +567,8 @@ Many applications can integrate with Slack.
 Recommended apps:
 
 1. Google Calendar - By integrating your calendar with Slack, you'll get notifications about meetings directly in Slack.
-   Most important - 1 minute before a meeting begins, you'll receive a message with the meeting info, including a link to join meetings that are occurring in Zoom.
-   You can set up the integration by typing /gcal into any message field.
+Most important - 1 minute before a meeting begins, you'll receive a message with the meeting info, including a link to join meetings that are occurring in Zoom.
+You can set up the integration by typing /gcal into any message field.
 
 ### Slack Reminders
 
@@ -600,9 +596,9 @@ Tip: The [Google Calendar](/handbook/tools-and-tips/#google-calendar) invite is 
 #### Google Docs Pro Tips
 
 1. Quickly create a new Google Doc in chrome: type "docs.new" in the chrome address bar.
-   Likewise "sheets.new" for a Google Sheet etc...
+Likewise "sheets.new" for a Google Sheet etc...
 1. While in a document with many other editors, click on the image or icon of any user at the top of the document to move focus to their cursor and what they are typing in the document.
-   This is great when someone is speaking about something they are typing on a video call and you are not sure where they are in the document.
+This is great when someone is speaking about something they are typing on a video call and you are not sure where they are in the document.
 1. Quickly find all action items assigned to you with a [search for `followup:actionitems`](https://drive.google.com/drive/search?q=followup:actionitems).
 1. To add additional rows to a numbered list in a Google Document, press `Return` to add additional spaces under the existing numbered list in the document, highlight those spaces, and click the numbered list icon in the formatting bar (or press `Command ⌘ + Shift + 7` on a Mac) to create a numbered list from the spaces. See video on [how to add more rows to a numbered list](https://www.youtube.com/watch?v=dgyttEJi-ZQ) for a quick tutorial.
 
@@ -623,34 +619,26 @@ To see the data for a specific page:
 - Click **Site content > All pages**
 - On the top-right, adjust the period of time you'd like to analyze
 - On the middle of the page, look for a search bar and paste the URL you'd like to analyze (without `https://`) and click on the magnifier button to search:
-
-    ![Google Analytics - find pageviews](/images/handbook/tools-and-tips/google-analytics-find-pageviews.png)
-
-    Note that you can use the search tool with:
-
+![Google Analytics - find pageviews](/images/handbook/tools-and-tips/google-analytics-find-pageviews.png)
+Note that you can use the search tool with:
     - A full URL, which will return results for that specific URL
     - Part of an URL, e.g., `/2017/`, which will return the results for all the blog posts published on 2017
     - The higher directory on the file tree, which will return the results for a range of URLs in that tree.
-      E.g., `docs.gitlab.com/ee/ci/` will return the results for all the range of pages contained in the `/ci/` directory
-
+    E.g., `docs.gitlab.com/ee/ci/` will return the results for all the range of pages contained in the `/ci/` directory
 - GA will output the data about the page (or range of pages) you searched for, including pageviews, unique pageviews, and other data:
-
-    ![Google Analytics - see pageviews](/images/handbook/tools-and-tips/google-analytics-pageviews.png)
+![Google Analytics - see pageviews](/images/handbook/tools-and-tips/google-analytics-pageviews.png)
 
 To find the referrals for a certain page, continue from the steps above.
 
 - Click on one of the website links to look at the data for a page of your choice
-
-    ![Google Analytics - find referrals](/images/handbook/tools-and-tips/google-analytics-find-referrals.png)
-
+![Google Analytics - find referrals](/images/handbook/tools-and-tips/google-analytics-find-referrals.png)
 - Just above the graph, click **Navigation summary**
 - GA will output the referrals, including **Previous Page Path** and **Next Page Path**:
-
-    ![Google Analytics - see referrals](/images/handbook/tools-and-tips/google-analytics-referrals.png)
+![Google Analytics - see referrals](/images/handbook/tools-and-tips/google-analytics-referrals.png)
 
 ### Set your picture in Google
 
-Optional: [Set your picture](https://myaccount.google.com/personal-info) in Google so that your picture will show where you are in a  Google document (vs showing just your first intial).  This will allow others to more easily follow a discussion when meeting attendees move around in a document.
+Optional: [Set your picture](https://myaccount.google.com/personal-info) in Google so that your picture will show where you are in a Google document (vs showing just your first intial). This will allow others to more easily follow a discussion when meeting attendees move around in a document.
 
 ### Google Calendar
 
@@ -665,9 +653,9 @@ To use Find a Time:
 
 1. Create a new event or modify an existing event.
 1. Click the "Find a Time" tab. Invited guests will be presented in the availability table and represented by a column.
-    * Areas outside of someone's working hours (9:00 AM - 5:00 PM by default) are represented in light grey.
-    * Guests who are optional will not appear in the availability table by default.
-      You can add them by checking their name in the "Guests" area on the right hand side.
+    - Areas outside of someone's working hours (9:00 AM - 5:00 PM by default) are represented in light grey.
+    - Guests who are optional will not appear in the availability table by default.
+    You can add them by checking their name in the "Guests" area on the right hand side.
 
 #### GitLab Availability Calendar
 
@@ -684,11 +672,10 @@ Please reach out to the People Experience team for any requests and changes to t
 
 To add an event to this calendar:
 
-1. Create your calendar invite. 
-1. Add your zoom link. 
-1. Add agenda. 
-1. Under Add Guests, add `Gitlab Team Meetings` in addition to anyone else you want invited (if you want the entire company invited please use everyone@) 
-
+1. Create your calendar invite.
+1. Add your zoom link.
+1. Add agenda.
+1. Under Add Guests, add `Gitlab Team Meetings` in addition to anyone else you want invited (if you want the entire company invited please use everyone@)
 
 #### Managing invite responses
 
@@ -699,7 +686,7 @@ If you are familiar with queries in Gmail, add a filter to remove invites respon
 You can also create a filter to remove ALL invite responses from your inbox with the following search terms:
 
 - Subject: "invitation" OR "accepted" OR "rejected" OR "updated" OR "canceled event" OR "declined"
-- Has the words: *.ics 
+- Has the words: *.ics
 
 Then click Create filter:
 
@@ -719,10 +706,10 @@ You can configure this to be checked by default under [Event Settings](https://c
 
 When you have accidentally deleted something from the Team Meetings calendar, you can recover it by:
 
-* Go to [Google Calendar](https://calendar.google.com/calendar/r) and click the gear icon at the top left of your screen.
-* Choose the [Trash](https://calendar.google.com/calendar/r/trash).
-* Make sure you are on the correct calendar, by clicking on the name of the calendar in the left sidebar.
-* Hover over the item you'd like to restore and click the arrow to "Restore".
+- Go to [Google Calendar](https://calendar.google.com/calendar/r) and click the gear icon at the top left of your screen.
+- Choose the [Trash](https://calendar.google.com/calendar/r/trash).
+- Make sure you are on the correct calendar, by clicking on the name of the calendar in the left sidebar.
+- Hover over the item you'd like to restore and click the arrow to "Restore".
 
 #### Sharing
 
@@ -730,17 +717,17 @@ We recommend you set your Google Calendar access permissions to 'Make available 
 
 Consider marking the following appointments as 'Private':
 
-* Personal appointments
-* Confidential & sensitive meetings with third-parties outside of GitLab
-* 1-1 performance or evaluation meetings
-* Meetings on organizational changes
+- Personal appointments
+- Confidential & sensitive meetings with third-parties outside of GitLab
+- 1-1 performance or evaluation meetings
+- Meetings on organizational changes
 
 There are several benefits and reasons to sharing your calendar with everyone at GitLab:
 
 1. Transparency is one of our values and sharing what you work on is in line with our message of "be open about as many things as possible".
 1. Due to our timezone differences, there are small windows of time when our availabilities overlap.
-   If other members need to schedule a new meeting, seeing the details of recurring meetings (such as 1-1s) will allow for more flexibility in scheduling without needing to wait for a confirmation from the team member.
-   This speaks to our value to be more efficient.
+If other members need to schedule a new meeting, seeing the details of recurring meetings (such as 1-1s) will allow for more flexibility in scheduling without needing to wait for a confirmation from the team member.
+This speaks to our value to be more efficient.
 
 ![Google Calendar - make calendar available setting](/images/handbook/tools-and-tips/google-calendar-share.png)
 
@@ -769,7 +756,7 @@ See the [Engineering handbook](/handbook/engineering/#resources) for a listing o
 
 #### First, an important message - Don't use Google Drive/Apps (unless you have to)
 
-We would be remiss if we didn't start this section off with this IMPORTANT message:  **Your default storage place for information that needs to persist and be available to others in the company should be ON THE WEBSITE/IN THE COMPANY HANDBOOK and not in Google Drive and Google Apps files!!** This is from the top.
+We would be remiss if we didn't start this section off with this IMPORTANT message: **Your default storage place for information that needs to persist and be available to others in the company should be ON THE WEBSITE/IN THE COMPANY HANDBOOK and not in Google Drive and Google Apps files!!** This is from the top.
 This is how we operate, because Google Docs/Apps can only be found and contributed to by team members, and not by users, customers, advocates, future employees, Google handbook searches, or developers.
 
 #### Do not link directly to Google Drive/Apps
@@ -784,9 +771,9 @@ It is important that we not just throw files into random or general places in th
 Doing so makes it harder for others to find and work with the content.
 Here are some guidelines to organizing the Google Drive content:
 
-* First by department (e.g. strategic marketing)
-* then by subject (e.g. analysts relations)
-* then by sub-subjects as deep as necessary (e.g. Gartner -> 2018 ARO MQ)
+- First by department (e.g. strategic marketing)
+- then by subject (e.g. analysts relations)
+- then by sub-subjects as deep as necessary (e.g. Gartner -> 2018 ARO MQ)
 
 #### Using Google Drive
 
@@ -794,10 +781,10 @@ For starters, when your GitLab Google company account is created you automatical
 You can get to it by:
 
 1. (optional) Login to your GitLab account in your browser (if you are using Chrome)
-2. Open your web browser to https://drive.google.com
-3. If you're not already logged in as your GitLab account (Chrome users should be) then login to Google using your GitLab account
-4. This will take you to your Google Drive (called My Drive) which is like your home directory.
-   If you create Google files using Google Apps and don't specify where to store them, they will be put in this home directory.
+1. Open your web browser to https://drive.google.com
+1. If you're not already logged in as your GitLab account (Chrome users should be) then login to Google using your GitLab account
+1. This will take you to your Google Drive (called My Drive) which is like your home directory.
+If you create Google files using Google Apps and don't specify where to store them, they will be put in this home directory.
 
 This is great for storing your own working files.
 As already stated, **this should never be the final resting place for shared files** that are meant to be used by the rest of the company (or beyond).
@@ -808,11 +795,11 @@ There are a few Google Drive repositories of GitLab shared files (there might be
 
 - [UX Research Drive](https://drive.google.com/drive/folders/0AH_zdtW5aioNUk9PVA) - This houses all findings from [Customer Discovery Meetings](/handbook/product/product-processes/#customer-discovery-meetings) and raw, confidential materials from customers shared with Design, UX Research, Product and Customer Success. Distilled findings from [User Research](/handbook/engineering/ux/ux-research/) are stored in the [UXR_Insights repository](https://gitlab.com/gitlab-org/uxr_insights/).
 - [GitLab Marketing Drive](https://drive.google.com/drive/u/0/folders/0Bz6KrzE1R_3helZZQlV3ajFNTzg) - This houses all shared files from the entire Marketing organization.
-  The best practice is for sub-organizations to have their own directory inside this space (e.g. [Strategic Marketing](https://drive.google.com/drive/u/0/folders/0Bz6KrzE1R_3hNjJMNUt2LUJGREU)).
+The best practice is for sub-organizations to have their own directory inside this space (e.g. [Strategic Marketing](https://drive.google.com/drive/u/0/folders/0Bz6KrzE1R_3hNjJMNUt2LUJGREU)).
 - [Sales Drive](https://drive.google.com/drive/u/0/folders/0BzQII5CcGHkKSFFJWkx3R1lUdGM) - This houses all the shared files from the Sales organization.
-  The best practice is for some sub-organizations to have their own directory inside this space (e.g. [Customer Success](https://drive.google.com/drive/u/0/folders/0B3MA-pZf8fAYdUl6Nk5ObzlQbjQ)).
+The best practice is for some sub-organizations to have their own directory inside this space (e.g. [Customer Success](https://drive.google.com/drive/u/0/folders/0B3MA-pZf8fAYdUl6Nk5ObzlQbjQ)).
 - [GitLab Alliance Drive](https://drive.google.com/drive/folders/1ElkWOoepL1eAGi2WfxPNM3W9uEMx62US) - This houses all shared files from the entire Alliance organization.
-  The best practice is for sub-organizations to have their own directory inside this space (e.g. [Partner Discussions](https://drive.google.com/drive/folders/1tAmu6pnw0cwR7dXj1Yeylrpt-ijerXyQ)).
+The best practice is for sub-organizations to have their own directory inside this space (e.g. [Partner Discussions](https://drive.google.com/drive/folders/1tAmu6pnw0cwR7dXj1Yeylrpt-ijerXyQ)).
 
 How do you use these? You don't have to remember these URL's.
 To add these links to your Google Drive My Drive directory, do the following:
@@ -820,12 +807,12 @@ To add these links to your Google Drive My Drive directory, do the following:
 ![Add to Drive Animation](/images/handbook/tools-and-tips/add2drive.gif)
 
 1. Make sure you are logged into your GitLab account in Google Drive in your browser
-2. Open the link of interest (from above) to go to that directory
-3. Find the directory path across the top (under the "Search Drive" field)
-4. Find the name of directory in that path that you want to add to your drive (e.g. Sales)
-5. Click on the down arrow next to it
-6. From the resulting pop-up menu, select "Add to My Drive"
-7. From now on you can get to that directory by first going to your drive (https://drive.google.com) and then opening that link
+1. Open the link of interest (from above) to go to that directory
+1. Find the directory path across the top (under the "Search Drive" field)
+1. Find the name of directory in that path that you want to add to your drive (e.g. Sales)
+1. Click on the down arrow next to it
+1. From the resulting pop-up menu, select "Add to My Drive"
+1. From now on you can get to that directory by first going to your drive (https://drive.google.com) and then opening that link
 
 #### Adding Google Drive to your Mac
 
@@ -837,13 +824,13 @@ Here's how to do this:
 ![Download Drive Sync Animation](/images/handbook/tools-and-tips/downloaddrivesync.gif)
 
 1. Make sure you are logged into your GitLab account in Google Drive in your browser
-2. Go to your Google Drive (https://drive.google.com)
-3. Click on the "Settings" icon (Gear) to the right of the search field
-4. From the resulting menu, select "Download Drive File Stream for Mac"
-5. It might pull up a new page/tab and use your personal login.
-   If it does this you won't see "Download & install Drive File Stream" on the page.
-   Switch to your GitLab account.
-6. Download and install 
+1. Go to your Google Drive (https://drive.google.com)
+1. Click on the "Settings" icon (Gear) to the right of the search field
+1. From the resulting menu, select "Download Drive File Stream for Mac"
+1. It might pull up a new page/tab and use your personal login.
+If it does this you won't see "Download & install Drive File Stream" on the page.
+Switch to your GitLab account.
+1. Download and install
 
 ### Google Forms
 
@@ -856,7 +843,7 @@ Computers with older CPUs (pre-2016/Skylake) may be missing hardware acceleratio
 In Chrome, this can cause excessive CPU due to use of the codec.
 On macOS switching to Safari or using [h264ify](https://github.com/erkserkserks/h264ify) ([Chrome Web Store](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal)) solves this since it will use h264 that is hardware accelerated.
 
-To check the status of acceleration on Chrome, see the "Video Encode" option in [about://gpu](about://gpu) (type the address about://gpu directly into the browsers address bar as the hyperlink will not work).
+To check the status of acceleration on Chrome, see the "Video Encode" option in about://gpu (type the address about://gpu directly into the browsers address bar as the hyperlink will not work).
 
 ### Google Mail (Gmail)
 
@@ -874,10 +861,13 @@ Set up an [email signature](https://support.google.com/mail/answer/8395) which i
 
 ##### Example
 
-*Note: You can copy and paste the template below to use it in your own signature.*
+_Note: You can copy and paste the template below to use it in your own signature._
 
+``` sse
 <span style="font-family: serif;font-size: small;display: block;">John Doe</span>
 <span style="color: #999999;font-family: sans-serif;font-size: small;display: block;">Frontend Engineer | GitLab</span>
+```
+
 <img src="https://lh3.googleusercontent.com/lFQxFbGYJpI6e_oQkEJ6WVDr-9RAmCZgV7_vgKs8zLJzIsSDF13zot8wtdMqFvBq8OH6jPiv6kwszHf5r_YrSNoXKRdSb42dsyyw7oOSSan1Nuq8ud2AtaD4yBwM-1xtYAb7IMFz" width="98" height="37">
 
 #### Filters
@@ -887,11 +877,11 @@ Set up an [email signature](https://support.google.com/mail/answer/8395) which i
 It might be useful to add a Gmail filter that adds a label to any GitLab notification email in which you are specifically mentioned, as opposed to a notification that you received simply because you were subscribed to the issue or merge request.
 
 1. Search for `from:(gitlab@mg.gitlab.com) "you+have+been+mentioned+on"`.
-2. Click the down arrow on the right side of the search field.
-3. Click **Create filter with this search**.
-4. Check **Apply the label:** and select a label to add, or create a new one, such as "Mentioned".
-5. Check **Also apply filter to matching conversations**.
-6. Click **Create filter**.
+1. Click the down arrow on the right side of the search field.
+1. Click **Create filter with this search**.
+1. Check **Apply the label:** and select a label to add, or create a new one, such as "Mentioned".
+1. Check **Also apply filter to matching conversations**.
+1. Click **Create filter**.
 
 ##### Apply label to all GitLab-generated emails
 
@@ -940,7 +930,7 @@ The integration for Google Meet and Google Chat is enabled by default. It can co
 - Chat: `Off`
 - Meet: `Hide the Meet section in the main menu`
 
-Save the changes and wait for Google Mail to reload. 
+Save the changes and wait for Google Mail to reload.
 
 ### Google Slides
 
@@ -952,7 +942,7 @@ Make a copy of the slide deck and only edit the copy; please do not edit the tem
 Here are a few quick steps for updating your slide decks to match the most recent template:
 
 1. In the top toolbar click `Theme` which will open the Themes panel (on the right-hand side).
-   ![Change theme in Google Slides](/images/handbook/tools-and-tips/google-slides-change-theme.png)
+![Change theme in Google Slides](/images/handbook/tools-and-tips/google-slides-change-theme.png)
 1. At the bottom of the Themes panel, click `Import theme`.
 1. In the Import theme dialog box type `GitLab_Template` into the search field.
 1. Find the `GitLab_Template` and click the `Select` button in the bottom left to apply the theme to your slide deck.
