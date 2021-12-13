@@ -67,9 +67,23 @@ As part of GitLab's [Transparency](/handbook/values/#transparency) value, team m
 
 It is perfectly acceptable to seek out learning and development opportunities — to sharpen one's understanding of a coding language to better understand a function, etc. — yet not strive for promotion beyond your current role. Some team members are happier and more productive without managing a team, for example.
 
+**Team member examples of career development:**
+
+1. An engineer takes a LinkedIn Learning course to improve their communication and leadership skills
+1. A project manager participates in a mentorship program practice their goal setting and planning skills
+1. A team member on any team takes a LinkedIn Learning course becuase the topic is of personal interest
+
 #### Career Mobility
 
-You may choose to participate in a learning and development program as a step in the direction towards a desired promotion or change of role. Self-directed courses to learn a new skill, mentorship programs to build relationships with leaders, and internships to understand how a different team works might be steps you take on this career mobility path. While the learning you do might be identical to that of career development, the focus on career mobility requires action and reflection after the learning is complete to communicate your new skills and transfer them to a new role or responsibility set.
+You may choose to participate in a learning and development program as a step in the direction towards a promotion or new role. Career mobility requires action and reflection after the learning is complete to demonstrate gained skills and transfer them to a new role or responsibility set. 
+
+We use the [career mobility issue template](/handbook/people-group/engineering/career-mobility/) to guide team members when they transfer or are promoted to a new role within the organization.
+
+**Team member examples of career mobility:**
+
+1. An engineer takes a leadership course and volunteers as a mentor working towards their goal of becoming an engineering manager
+1. A project manager earns a professional certificate as they work towards a senior-level promotion
+1. A sales team member completes an internship with marketing to explore new career opportunities in a different division
 
 ## Internal Resources
 
