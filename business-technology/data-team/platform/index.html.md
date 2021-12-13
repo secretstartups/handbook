@@ -376,15 +376,16 @@ All databases not defined in our [`roles.yml`](https://gitlab.com/gitlab-data/an
 
 #### Raw
 
-This database is not available to query in Sisense. No dbt models exist for this data. 
+This database is not available to query in Sisense. No dbt models exist for this data and it may be the case that the data needs review or transformation in order to be useful or accurate. This review, documentation, and transformation all happens downtream in `PREP` and `PROD`
 
 - Raw may contain sensitive data, so permissions need to be carefully controlled
+- RAW will contain data that isn't ready for business use.
 - Data is stored in different schemas based on the source
 - User access can be controlled by schema and tables
 
 #### Prep
 
-This database is not available to query in Sisense.
+This database is not available to query in Sisense, and is the first layer of verification and transformation in the warehouse, but is not yet ready for general business use.
 
 - [Source models](/handbook/business-technology/data-team/platform/dbt-guide/#source-models) are built in logical schemas corresponding to the data source (i.e. `sfdc`, `zuora`)
 - PREPARATION - this is the default schema where dbt models are built
@@ -392,7 +393,7 @@ This database is not available to query in Sisense.
 
 #### Prod
 
-This database and all schemas and tables in it are queryable by Sisense.
+This database and all schemas and tables in it are queryable by Sisense. This data has been transformed and modeled for business needs.
 
 With the exception of `public`, and [`boneyard`](/handbook/business-technology/data-team/#mind-about-sheetload), all schemas are controlled by dbt.
 See the [dbt guide](/handbook/business-technology/data-team/platform/dbt-guide) for more information.
