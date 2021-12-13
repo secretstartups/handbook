@@ -376,7 +376,7 @@ All databases not defined in our [`roles.yml`](https://gitlab.com/gitlab-data/an
 
 #### Raw
 
-This database is not available to query in Sisense. No dbt models exist for this data and so it may be the case that the data needs review or transformation in order to be useful or accurate. This review, documentation, and transformation all happens downtream in `PREP` and `PROD`
+This database is not available to query in Sisense. No dbt models exist for this data and so it may be the case that the data needs review or transformation in order to be useful or accurate. This review, documentation, and transformation all happens downstream in dbt for `PREP` and `PROD`
 
 - Raw may contain sensitive data, so permissions need to be carefully controlled
 - RAW will contain data that isn't ready for business use.
