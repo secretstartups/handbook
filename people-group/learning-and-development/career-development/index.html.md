@@ -14,6 +14,14 @@ description: "It is the lifelong process of managing learning, work, leisure and
 
 It is the lifelong process of managing learning, work, leisure and transitions in order to move toward a personally determined and evolving preferred future.
 
+Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://www.skylyte.com/) about the connection between wellbeing, purpose, and our career growth.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/2XmmGYlsEP8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ### Career Development Handbook Learning Session
 
 On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team had a handbook learning session with Eric Johnson, CTO, about career development. 
