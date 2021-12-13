@@ -248,9 +248,8 @@ To add your email to your LinkedIn profile, click `Me` > `Settings & Privacy` > 
 
 Notifications are configured as part of the [requisition creation process](/handbook/hiring/talent-acquisition-framework/req-creation/#requisition-creation-process) but can be adjusted at any time. To set up notifications, go to the requisition's job dashboard and click on `Job Setup` at the top, then `Notifications` at the left. Under each section, you can then click `Edit` to add or remove people for that section.
 
-It is recommended for the Recruiter of a requisition to set up notifications for themselves regarding new internal applicants, new referrals, new agency submissions, approved to start talent acquisition, offer fully approved, stage transitions, and new scorecards.
+It is recommended for the Recruiter of a requisition to set up notifications for themselves regarding new internal applicants, new referrals, new agency submissions, approved to start talent acquisition, offer fully approved, stage transitions, and new scorecards. Best practice is to use the name of the person to be notified rather than `Candidate's Recruiter` or `Candidate's Coordinator`. 
 
-For stage transition and new scorecards, it is possible to select `Candidate's Recruiter` or `Candidate's Coordinator` instead of a particular person for each stage, which is highly recommended.
 
 ### Configuring email permissions
 
