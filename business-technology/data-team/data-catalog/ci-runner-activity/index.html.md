@@ -31,7 +31,7 @@ For this purpose, a Unified model for **CI Minutes/Cost** has been created as a 
 - `CI Build Duration` 
     - Currently calculated from start time -> end time of a single job in ci_builds table   
 - `Runner type` 
-    - Determines whether GitLab pays for the runner cost or if it's hosted by user (ci_runners table)
+    - Determines scope of runners. See https://docs.gitlab.com/ee/ci/runners/runners_scope.html for more details. GitLab only pays for shared runners that customers use as well as group/specific runners that are used within our own projects. (ci_runners table)
 - `Project ID`
     - Determines what project runner activity linked to and all related info
 - `Namespace ID`
