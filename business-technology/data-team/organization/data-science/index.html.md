@@ -29,14 +29,14 @@ Of the [Data Team's Responsibilities](https://about.gitlab.com/handbook/business
 
 Additionally, the Data Analytics Team **supports** the following responsibilities:
 
-- With the **Data Leadership Team**:
-  - Defining and publishing a Data Science strategy that has a direct impact on business KPIs
+- With **Data Leadership**:
+  - Scoping and executing a data science strategy that directly impacts business KPIs
   - Broadcasting regular updates about data deliverables, ongoing initiatives, and upcoming plans
-- With the [**Data Engineering Team**](/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities):
-  - Helping to define and champion Data Quality practices and programs for GitLab data systems
-  - productionalizing models, ensuring data quality and integrity, shaping datasets to be conductive with advanced analytics and machine learning, brining new datasets online
-- With the Data Analytics Team:
-  - dashboard to enhance the value and impact of the data science models.
+- With the [**Data Engineering Team**](https://about.gitlab.com/handbook/business-technology/data-team/organization/engineering/):
+  - Defining and championing data quality best practices and programs for GitLab data systems
+  - Deploying data science models, ensuring data quality and integrity, shaping datasets to be compatible with machine learning, and brining new datasets online
+- With the [**Data Analytics Team**](https://about.gitlab.com/handbook/business-technology/data-team/organization/analytics/):
+  - Designing dashboard to enhance the value and impact of the data science models.
 
 ## What is Data Science?
 Check out this brief overview of what data science is at Gitlab:
@@ -73,7 +73,7 @@ At GitLab we are [Handbook First](https://about.gitlab.com/handbook/handbook-usa
 ## Projects
 | Name | Maturity | Objective | Sponsor | Epic | Last Update | Next Update | Deliverables
 | -----| ----- | ------ |-----| ------ |-----| -----| -----| 
-| [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-buy) (PtE) | Ad hoc | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | Sales | https://gitlab.com/groups/gitlab-data/-/epics/340 | FY22-Q3 | FY22-Q4 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results) |
+| [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-buy) (PtE) | Viable | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | Sales | https://gitlab.com/groups/gitlab-data/-/epics/340 | FY22-Q3 | FY22-Q4 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results) |
 | [Propensity to Contract](https://gitlab.com/gitlab-data/propensity-to-contract) (PtC) | Planned | Determine which paid accounts are likely to reduce their ARR by > 10% or $1000 | Customer Success | https://gitlab.com/groups/gitlab-data/-/epics/382 | | FY23-Q4 ||
 | User Segmentation | Planned | - | Growth | || FY23-Q1 | | 
 | Propensity to Make First Purchase | Planned | - | Growth | || FY23-Q1 || |
@@ -87,11 +87,12 @@ At GitLab we are [Handbook First](https://about.gitlab.com/handbook/handbook-usa
 | GitLab MLOps Product Development | Unplanned | - | Product (Taylor) | | | | | 
 
 ### Maturity
-- **Unplanned**: Not implemented, and not yet on our roadmap
-- **Planned**: Not implemented, but on our roadmap.
-- **Ad hoc**: Complete, but must be run manually on local machine
-- **Deployed**: Complete, and fully implmented into Data Team cloud infrastructure 
-- **Optmized**: Fully automated and self-service
+Maturity of data science projects closely follows the [Gitlab product maturity model](https://about.gitlab.com/direction/maturity/):
+- **Unplanned**: Not implemented, and not yet on our roadmap.
+- **Planned**: Not implemented, but on our roadmap; executive sponsor attached to project.
+- **Viable**: Available, but not fully productionalized yet; scores and insights manually generated; low adoption outside of immediate stakeholders.
+- **Complete**: Fully implmented into Data Team cloud production infrastructure; increasing adoption of corresponding dashboards and scores within the intended organization.
+- **Optimized**: Fine-tuned, fully automated, and self-service; continuous model monitoring and scoring; high adoption within intended organization.
 
 ### Project Slack Channels
 - [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7): For PtE & PtC
