@@ -32,6 +32,7 @@ The Associate Technology Partner Manager is a [grade 5](/handbook/total-rewards/
 1. Excellent time management and written/verbal communication skills
 1. Ability to quickly understand technical concepts and explain them to audiences of varying technical expertise
 1. [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+1. Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
 1. Ability to use GitLab
 
 ### Technology Partner Manager (Intermediate)
