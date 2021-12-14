@@ -4,6 +4,8 @@ title: "Sales & Customer Success Quick Start Learning Path"
 description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 ---
 
+{::options parse_block_html="true" /}
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -36,7 +38,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - You can see more information about team members and who reports to whom on the team page. Throughout the course you will be asked to schedule a few brief meetings with your peers. Keep in mind that it is always ok to put a meeting on someone's calendar, if they can't make it and decline it is not a problem. We hope you enjoy getting to know your super cool co-workers!
    - Check out the [org chart](https://comp-calculator.gitlab.net/org_chart) and the [Team Page](https://about.gitlab.com/company/team/)
 
-   </details>
+</details>
 
 <details>
 <summary markdown="span">2. DevOps Technology Landscape</summary>
@@ -55,7 +57,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **QUIZ: Increase Operational Efficiencies (Assignment - 25 Minutes - 6 Points - Pre Work)**
    - GitLab is a single application for the entire DevOps lifecycle! Please read the "Manage Your Tool Chain Before it Manages You" white paper from Forrester (see link above) to answer the questions in the [Google Form Quiz.](https://forms.gle/namX7dcg1dbo5KQQ7)
 
-      </details>
+</details>
 
 <details>
 <summary markdown="span">3. Our Customers</summary>
@@ -73,7 +75,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **Marketing Materials Repository (Material - Gitlab.com - 10 Minutes)**
    - Check out the GitLab [marketing materials repository](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send copies to your clients to help them understand GitLab value. If you would like to share one of these assests on social media please be careful to only use the gated links to content.
 
-      </details>
+</details>
 
 <details>
 <summary markdown="span">4. Our Portfolio</summary>
@@ -430,7 +432,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **ACTIVITY: Obtain Gold Level Access to Enable All Features on GitLab.com (Assignment - 15 minutes - 10 points)**
    -An [example request](https://gitlab.com/gitlab-com/support/internal-requests/issues/310)
 *  **ACTIVITY: Create a demo account on gitlabdemo.com (Assignment - 10 points)**
-   - Log in with your GitLab credentials using Okta. After login, a GitLab group will be created automatically and accessible on the [Demo Dashboard](https://gitlabdemo.com/dashboard). From there, this group can serve as a ground for future demo projects. For an oveview of our demo systems, please review the [Demo Systems Handbook page](/handbook/customer-success/demo-systems/).
+   - Log in with your GitLab credentials using Okta. After login, a GitLab group will be created automatically and accessible on the [Cloud Sandbox](https://gitlabsandbox.cloud). From there, this group can serve as a ground for future demo projects. For an oveview of our demo systems, please review the [Demo Systems Handbook page](/handbook/customer-success/demo-systems/). For an overview of the Cloud Sandbox, please review the [Sandbox Cloud Realm Handbook Page](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/).
 *  **ACTIVITY: Set Up Standby Demo Project (Assignment - 1 day - 10 points)**
    - At any point in the day, you may be called in to do a quick demo and its helpful to have a standby project in your back pocket with commonly requested workflows.
    - Pair up with a member of your team on creating a standby project. Bonus - Collaborate on storytelling ideas when creating the standby project.
