@@ -23,9 +23,9 @@ The team accomplishes this mission by building machine learning models and analy
 ## Data Science Responsibilities 
 Of the [Data Team's Responsibilities](https://about.gitlab.com/handbook/business-technology/data-team/#responsibilities) the Data Science Team is **directly responsible** for:
 
-- A
-- B
-- C
+- Delivering _descriptive_, _predictive_, and _prescriptive_ solutions that promote and improve [Gitlab's KPIs](https://about.gitlab.com/company/kpis/)
+- Being a **_Center of Excellence_** for advanced analytics and supporting other teams at Gitlab in their data science endeavors 
+- Developing tooling, processes, and best practices for data science and machine learning
 
 Additionally, the Data Analytics Team **supports** the following responsibilities:
 
@@ -36,7 +36,7 @@ Additionally, the Data Analytics Team **supports** the following responsibilitie
   - Defining and championing data quality best practices and programs for GitLab data systems
   - Deploying data science models, ensuring data quality and integrity, shaping datasets to be compatible with machine learning, and brining new datasets online
 - With the [**Data Analytics Team**](https://about.gitlab.com/handbook/business-technology/data-team/organization/analytics/):
-  - Designing dashboard to enhance the value and impact of the data science models.
+  - Designing dashboard to enhance the value and impact of the data science models
 
 ## What is Data Science?
 Check out this brief overview of what data science is at Gitlab:
@@ -49,7 +49,7 @@ Check out this brief overview of what data science is at Gitlab:
 ### Data Science Tools at Gitlab
 
 - **[Pre-configured JuypterLab Image](https://gitlab.com/gitlab-data/data-science)**: The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out the the [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/) for additional information.
-- **[gitlabds python tools](https://gitlab.com/gitlab-data/gitlabds/)**: Functions to help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly via `pip install gitlabds` or use as part of the JupyterLab image above.
+- **[gitlabds python tools](https://gitlab.com/gitlab-data/gitlabds/)**: Functions to help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly via [pypi](https://pypi.org/project/gitlabds/) (`pip install gitlabds`), or use as part of the JupyterLab image above.
 - **Modeling Templates** (**Coming Soon!**)
 
 ### Common Data Science Terms 
