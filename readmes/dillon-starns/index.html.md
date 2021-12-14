@@ -1,6 +1,8 @@
 ---
 layout: markdown_page
-title: "Dillon Starns' README"
+title: "Dillon Starns README"
+description: "Personal readme page for Dillon Starns, Manager, Support Engineering (AMER-E) GitLab"
+job: "Manager, Support Engineering"
 ---
 
 
