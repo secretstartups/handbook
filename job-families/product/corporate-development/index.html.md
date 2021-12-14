@@ -146,6 +146,7 @@ The Senior Director of Corporate Development is a [grade 11](/handbook/total-rew
 * Collaborate with cross-functional leadership to build collaborative, effective, and trusting relationships; iterate on the acquisition process and department-level processes across Product, Engineering, Legal, People, Finance-Accounting and Marketing
 * Lead engagement and communication with GitLab board's M&A committee
 * Ensure a proper level of strategic, operational, and organizational alignment.
+* Lead out-of-scope engagement and initiatives 
 
 #### Requirements
 
