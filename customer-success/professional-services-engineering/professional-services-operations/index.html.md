@@ -561,8 +561,8 @@ TO DO
       * Link Fully Executed SOW  
 
 #### Invoice Processing and Tracking
-CURRENT PROCESS VIA TIPALTI:
-* Project Coordinator receives email notification from Tipalti to review the partner submitted invoice.
+CURRENT PROCESS VIA COUPA:
+* Project Coordinator receives notification from Coupa to review the partner submitted invoice.
    * Note - Approval queue is Consulting Project Coordinator first and Training Project Coordinator second.
 * Project Coordinator reviews the invoice and Mavenlink timesheets to ensure accuracy of hours approved and rate.
 * If the invoice and timesheets align, then the invoice is approved.
