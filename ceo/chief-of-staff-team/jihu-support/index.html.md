@@ -91,6 +91,36 @@ graph LR
   repo(GitLab Inc. Repo)
 ```
 
+##### Guidelines for iterative contributions
+
+Bigger product feature contributions should follow GitLab
+[iteration strategies](/handbook/product/product-processes/#iteration-strategies).
+
+[Iteration training](https://about.gitlab.com/handbook/engineering/development/onboarding/manager/#iteration-training) is available to coach on GitLab's value of iteration. This can be helpful to understand the expectations of GitLab product teams for feature iteration.
+
+Not every features can follow the same strategy, but the first strategy we
+try should be [crafting the minimal viable change](/handbook/product/product-processes/#crafting-an-mvc), and for creating
+merge requests, always try to [keep merge requests small](/handbook/engineering/workflow/iteration/#how-to-keep-a-merge-request-small).
+
+In the above guidelines to keep merge requests small, we mentioned:
+
+* Horizontal slicing
+* Vertical slicing
+
+Given JiHu upstream contributions cannot easily slice horizontally due to lacking
+developer permissions, always try to slice vertically first, that is,
+reduce the scope of the feature. Only consider slicing horizontally if
+it cannot be smaller, while it's still too large to fit inside a single
+merge request.
+
+Here are some examples for how we break down a feature in multiple iterations,
+both horizontally and vertically:
+
+| Feature | Merge requests (not an exhaustive list) | Slicing |
+| --- | --- | --- |
+| [GitLab Insights](https://gitlab.com/groups/gitlab-org/-/epics/725) | {::nomarkdown}<ul><li>{:/}[Introduce the Gitlab::Insights framework](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/9912){::nomarkdown}</li><li>{:/}[Introduce the Insights controllers](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/9776){::nomarkdown}</li><li>{:/}[Insights frontend](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/9856){::nomarkdown}</li><li>{:/}[Move to supporting multiple charts per page for Insights](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/10516){::nomarkdown}</li></ul>{:/} | Mixture with both. Horizontally for the base and vertically on top of it
+| [Filter search results by state](https://gitlab.com/groups/gitlab-org/-/epics/4293) | {::nomarkdown}<ul><li>{:/}[Search UI add issue scope results filtering by state](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/39881){::nomarkdown}</li><li>{:/}[Add issues/merge_requests filtering by state for search API](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/41989){::nomarkdown}</li></ul>{:/} | Vertically that each merge request shipped a standalone feature
+
 #### Guidelines for upstream contributions review process
 
 Please refer to [JiHu Contribution Review Process](./jihu-contribution-review-process.html) for details.
