@@ -26,9 +26,17 @@ Log requests beyond a summary (similar to the examples below) or where logs are 
 
 ## Who can make a request
 
-Requester must be a Group Owner of a paid namespace.
+### Paid Subscriptions
 
- - Must verify that this is who is making the request.
+Requester must be a Group Owner of a pre-existing paid namespace.
+
+ - Must verify that this is who is making the request and should be in alignment with support for [Enterprise Users](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#sts=Enterprise%20Users)
+
+> NOTE: A user cannot upgrade to a paid subscription to gain access to logging requests.
+
+### Free Users
+
+Free users can make requests about IP Blocks/rate-limiting only and an IP address must be supplied.
 
 ## What we can provide
 
