@@ -1,21 +1,21 @@
 ---
 layout: job_family_page
-title: "Channel Projects - Go to Market"
+title: "Channel - Go to Market"
 ---
 
 ## Levels
 
-### Director, Channel Projects - GTM
+### Director, Channel - GTM
 
-The Director, Channel Projects - GTM reports to the [VP, Global Channel](/job-families/sales/vp-of-global-channels/).
+The Director, Channel - GTM reports to the [VP, Global Channel](/job-families/sales/vp-of-global-channels/).
 
-#### Director, Channel Projects - GTM Job Grade
+#### Director, Channel - GTM Job Grade
 
-The Director, Channel Projects - GTM is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Channel - GTM is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** While an Individual Contributor equivalent of Director in Channel Go to Market is not applicable in survey data, Go to Market and Sales Strategy is a critical role in growth initiative organizations. Many times senior level team members are tasked with setting up new business and thus set as an Individual Director equivalent. This role brings extensive experience to help scale partner strategy for emerging markets. 
 
-#### Director, Channel Projects - GTM Responsibilities 
+#### Director, Channel - GTM Responsibilities 
 
 * Understand and synthesize the GitLab channel, competition, and upcoming channel requirements to help the business meet ARR goals 
 * Lead cross-functional projects 
@@ -28,7 +28,7 @@ The Director, Channel Projects - GTM is a [grade 10](/handbook/total-rewards/com
 * Execute on projects and ongoing assignments for the Channel Leadership team 
 * Demonstrate GitLab values in all work
 
-#### Director, Channel Projects - GTM Requirements
+#### Director, Channel - GTM Requirements
 
 * Proven experience in Channel sales & leadership roles within a high growth start up environment 
 * Experience in Emerging Markets 
@@ -58,7 +58,7 @@ The Director, Channel Projects - GTM is a [grade 10](/handbook/total-rewards/com
 
 ## Career Ladder
 
-* The next steps for the Director, Channel Projects - GTM job family is yet to be defined.
+* The next steps for the Director, Channel - GTM job family is yet to be defined.
 
 ## Hiring Process
 
