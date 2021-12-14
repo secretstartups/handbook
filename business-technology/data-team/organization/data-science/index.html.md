@@ -71,49 +71,54 @@ Check out this brief overview of what data science is at Gitlab:
 At GitLab we are [Handbook First](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) and drive this by ensuring the data science team page remains updated with the most accurate information regarding data science projects and methologies. We also strive to keep the handbook updated with useful resources and the current iteration of data science tools we are devloping. 
 
 ## Projects
-| Name | Status | Objective | Maturity | Sponsor | Epic | Last Updated | Deliverables
-| -----| ------ |-----| ------ |-----| ------ |-----| -----| 
-| [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-buy) (PtE) | Production | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | 1 | Sales Strategy | https://gitlab.com/groups/gitlab-data/-/epics/340 | FY22-Q3 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results) |
-| [Propensity to Contract](https://gitlab.com/gitlab-data/propensity-to-contract) (PtC) | Development | | 1 | Sales Strategy | https://gitlab.com/groups/gitlab-data/-/epics/382 | FY22-Q4 | |
-| User Segmentation | Backlog | | - | Growth Team | | FY23-Q1 | | 
-| Propensity to Make First Purchase | Backlog | | - | | | FY23-Q1 | | 
-| Golden Journey | Backlog | | - | Growth Team | | FY23-Q2 | | 
-| Stage Adoption MRI | Backlog | | - | | | FY23-Q2 | | 
-| Product Usage Event | Backlog | | - | | | FY23-Q3 | |
-| Marketing Lead Scoring | Backlog | | - | Marketing | | FY23-Q4 | |  
+| Name | Maturity | Objective | Sponsor | Epic | Last Update | Next Update | Deliverables
+| -----| ----- | ------ |-----| ------ |-----| -----| -----| 
+| [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-buy) (PtE) | Ad hoc | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | Sales Strategy | https://gitlab.com/groups/gitlab-data/-/epics/340 | FY22-Q3 | FY22-Q4 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results) |
+| [Propensity to Contract](https://gitlab.com/gitlab-data/propensity-to-contract) (PtC) | Planned |  | Sales Strategy | https://gitlab.com/groups/gitlab-data/-/epics/382 | | FY23-Q4 ||
+| User Segmentation | Planned | - | Growth Team | || FY23-Q1 | | 
+| Propensity to Make First Purchase | Planned | - | | || FY23-Q1 || |
+| Golden Journey | Planned | - | Growth Team | || FY23-Q2 | | 
+| Stage Adoption MRI | Planned | - | | || FY23-Q2 | | 
+| Product Usage Event | Planned | - | | || FY23-Q3 | |
+| Marketing Lead Scoring | Planned | - | Marketing | || FY23-Q4 | |  
 
 ### Maturity
+- **Unplanned**: Not implemented, and not yet on our roadmap
+- **Planned**: Not implemented, but on our roadmap.
+- **Ad hoc**: Complete, but must be run manually on local machine
+- **Deployed**: Complete, and fully implmented into Data Team cloud infrastructure 
+- **Optmized**: Fully automated and self-service
 
 ### Project Slack Channels
 - [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7): For PtE & PtC
 
 ### Project Structure 
 
-Data Scientists follow [Cross-Industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) to deliver projects, which consists of 6 phases. More detailed breakdown of project structure and code examples can be found (here). 
+The Data Science Team follows [Cross-Industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) to deliver projects, which consists of the following 6 phases:
 
 ##### Business Understanding 
 
-First step is to define business needs of end users of the project and success criteria. This phase includes gathering requirements, stakeholders interviews, defining vision, user stories for product and use cases for models. This phase is closely aligned with GitLab's [OKRs](https://about.gitlab.com/company/okrs/) and company's value - [Iteration](/handbook/values/#iteration)
+The first step is to understand the business needs of the stakeholders and the success criteria of the project. This phase includes requirements gathering, stakeholders interviews, project defintion, product user stories, and potential use cases. This phase is closely aligned with GitLab's [OKRs](https://about.gitlab.com/company/okrs/) and company's value - [Iteration](/handbook/values/#iteration)
 
 ##### Data Understanding 
 
-Data understanding is closely aligned with business understanding. It requires to define data sources that business already has in place and the ones that business does not. In this phase data scientists work closely with data engineers and data analysts to define any miscrepancies and risks. If there is a need to bring external data, request should be raised in this phase. 
+Data understanding is closely aligned with business understanding. It requires determining the breadth and scope of existing relevant datasources. In this phase, data scientists work closely with data engineers and data analysts to determine where gaps may exist and to identify any data discrepancies or risks. If there is a need to bring external data, a request should be raised in this phase. 
 
 ##### Data Preparation 
 
-After defining business needs and data sources it is time to dive into the data! This phase requires conducting [Second data quality check] and [Exploratory data analysis]. At this stage, data scientists are gathering greater understanding of data, its types, correlations and distributions what will be useful in the next phase - modeling.
+After defining business needs and data sources, it is time to dive into the data! This phase requires conducting data quality checks and exploratory data analysis (EDA). At this stage, data scientists are developing a greater understanding of data and how different datapoints relate to solving the business need.This will be very useful in the next phase - modeling.
 
 ##### Modeling 
 
-Modeling refers to building machine learning model, which consists of training, testing and validating model. Based on Business Understanding phase initial algorithm should be picked and pre-processing should be defined. In this phase, outcomes from Data Preparation are needed as not all algorithms can work with all data types.
+Modeling refers process by which various machine learning techniques are used to find a solution that addresses the business need. This often takes the form of predicting why/when/how future instances of a business outcome will occur (e.g. which customers are likely to churn in the next 6 months?). This is achieved by looking at the complex mathematical relationships between the data and the outcome. Often, this process is referred to as "training the model."
 
 ##### Evaluation 
 
-In this phase, performance of model is measured (if required in Business Understanding) and outcomes are presented to stakeholders and end users for feedback. This phase is strongly aligned with one of the GitLab's values - [Iteration](/handbook/values/#iteration) After feedback, data scientists iterate on above phases as long as business goal is met.
+Performance is generally measured by how _accurate_, _powerful_, and _explainable_ the model is. Findings are presented to the stakeholders for feedback. This phase is strongly aligned with the GitLabs values of [Iteration](/handbook/values/#iteration) Incorporating feedback, data scientists iterate over _Modeling_ and _Evalution_ long as business goal is met.
 
-##### Deployment / Productionalization
+##### Deployment
 
-Once a viable prediction model has been created, the next step is to deploy the model in to the TBD data science production pipeline. This process automatically updates ("re-trains") the model as new data becomes available and generates predictions for all eligable records on a regular cadence.  
+Once the model has been approved by the stakeholders, it then gets deployed into the data science production pipeline. This process automatically updates, generates predictions, and monitors the model on a regular cadence.  
 
 ## Useful Data Science & Machine Learning Resources
 
