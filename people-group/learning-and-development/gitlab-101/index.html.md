@@ -15,6 +15,9 @@ Welcome to the GitLab 101 Tool certification page! Here you will find our 101 co
 
 Please visit GitLab Learn and create an account to complete the [GitLab 101 Certification](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification) and earn the GitLab 101 Badge!
 
+Team members can also complete the [GitLab Team Members Certification](https://gitlab.edcast.com/pathways/ECL-1b9db605-c6ce-4da5-8a0d-087486d2aabe). All of the information contained on this handbook page can be found in the GitLab Team Members Certification on GitLab Learn. 
+
+
 ### Who can benefit from this 101 training?
 
 Everyone at GitLab needs to know how to use GitLab and be technical to some level. This training is geared toward GitLab team members who are in non-engineering roles (i.e. talent acquisition, peopleops, marketing, finance, etc) and/or have not used a DevOps tool like GitLab before. This can also be helpful for non-engineering people outside of GitLab wanting to learn how to use GitLab for personal projects.
