@@ -73,14 +73,18 @@ At GitLab we are [Handbook First](https://about.gitlab.com/handbook/handbook-usa
 ## Projects
 | Name | Maturity | Objective | Sponsor | Epic | Last Update | Next Update | Deliverables
 | -----| ----- | ------ |-----| ------ |-----| -----| -----| 
-| [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-buy) (PtE) | Ad hoc | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | Sales Strategy | https://gitlab.com/groups/gitlab-data/-/epics/340 | FY22-Q3 | FY22-Q4 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results) |
-| [Propensity to Contract](https://gitlab.com/gitlab-data/propensity-to-contract) (PtC) | Planned |  | Sales Strategy | https://gitlab.com/groups/gitlab-data/-/epics/382 | | FY23-Q4 ||
-| User Segmentation | Planned | - | Growth Team | || FY23-Q1 | | 
-| Propensity to Make First Purchase | Planned | - | | || FY23-Q1 || |
-| Golden Journey | Planned | - | Growth Team | || FY23-Q2 | | 
+| [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-buy) (PtE) | Ad hoc | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | Sales | https://gitlab.com/groups/gitlab-data/-/epics/340 | FY22-Q3 | FY22-Q4 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results) |
+| [Propensity to Contract](https://gitlab.com/gitlab-data/propensity-to-contract) (PtC) | Planned | Determine which paid accounts are likely to reduce their ARR by > 10% or $1000 | Customer Success | https://gitlab.com/groups/gitlab-data/-/epics/382 | | FY23-Q4 ||
+| User Segmentation | Planned | - | Growth | || FY23-Q1 | | 
+| Propensity to Make First Purchase | Planned | - | Growth | || FY23-Q1 || |
+| Golden Journey | Planned | - | Growth | || FY23-Q2 | | 
 | Stage Adoption MRI | Planned | - | | || FY23-Q2 | | 
 | Product Usage Event | Planned | - | | || FY23-Q3 | |
 | Marketing Lead Scoring | Planned | - | Marketing | || FY23-Q4 | |  
+| Expansion Predicted ARR | Unplanned | - | Sales | | | | |  
+| Community Sentiment Analysis | Unplanned | - | Product | | | | | 
+| Feature $ARR Uplift Prediction | Unplanned | - | Product (Anoop) | | | | | 
+| GitLab MLOps Product Development | Unplanned | - | Product (Taylor) | | | | | 
 
 ### Maturity
 - **Unplanned**: Not implemented, and not yet on our roadmap
