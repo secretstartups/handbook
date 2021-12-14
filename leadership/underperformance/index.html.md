@@ -168,6 +168,7 @@ Remediation options will vary based on if the team members underperformance is s
 
 Managers are expected to address performance concerns (skill-based or will-based) in a timely manner. Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with their team member. These conversations must be documented by the manager and shared with the team member so that everyone has a record of the discussion and is in alignment on where improvements need to be made and by when. Documentation should be brief (a few key bullet points or a paragraph), and should be sent via email to the team member within 24 hours of the verbal discussion. See the example coaching email below:
 
+```
 Dear (Team member name)
 
 Thank you for meeting with me today to discuss (insert topics of concern or issues discussed and any agreed-upon actions).
@@ -176,6 +177,7 @@ Please know that I am fully committed to working with you in addressing these is
 
 Thanks,
 (Manager name)
+```
 
 Underperformance feedback should be the first item on your [1-1 agenda](/handbook/leadership/1-1/suggested-agenda-format/). If it is helpful, managers can use the [Managing Underperformance Meeting Plan Template](https://docs.google.com/document/d/1dNFrGWS9NNUNrIo8ts9RwXObVB9nTgHaXr-_y2A0ipU/edit#) to facilitate the discussion with clear actionable steps on how to talk through feedback.
 
