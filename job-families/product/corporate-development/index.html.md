@@ -143,7 +143,8 @@ The Senior Director of Corporate Development is a [grade 11](/handbook/total-rew
   * Prepare all acquisition related documents such as Non-Disclosure Agreements, Letters of Intent, and Purchase Agreements with our legal team and legal counsel
   * Integrate the acquisition into the company
 * Provide project management leadership over the pre-term sheet validation and due diligence stages of the acquisition process with cross-functional teams, including communication of diligence findings
-* Collaborate with cross-functional leadership to build collaborative, effective, and trusting relationships; iterate on the acquisition process and department-level processes across Product, Engineering, Legal, People, Finance-Accounting and Marketing
+* Collaborate with cross-functional leadership to build collaborative, effective, and trusting relationships
+* Iterate on the acquisition process and empower department-level functions across Product, Engineering, Legal, People, Finance-Accounting and Marketing to create specific acquisition sub-processes
 * Lead engagement and communication with GitLab board's M&A committee
 * Ensure a proper level of strategic, operational, and organizational alignment.
 * Lead out-of-scope engagement and initiatives 
