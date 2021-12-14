@@ -65,7 +65,7 @@ _Simplifed namespaces data set that includes enhanced filtering_
 
 **Data Sets Used:** 
 - `legacy.gitlab_dotcom_namespaces_xf`
-- `legacy.GITLAB_DOTCOM_USERS_BLOCKED_XF`
+- `legacy.gitlab_dotcom_users_blocked_xf`
 - `legacy.gitlab_dotcom_members`
 - `legacy.gitlab_dotcom_user_preferences`
 
@@ -73,8 +73,10 @@ _Simplifed namespaces data set that includes enhanced filtering_
 
 - `namespace_id`
 - `creator_id`
-- `namespace_creation_date` (aggregated `namespace_creation_date`)
+- `namespace_created_at` (timestamp)
+- `namespace_creation_date` (date)
 - `company_setup_filter` (filter for `setup_for_company`)
+- `namespace_visibility_level` (filter for `namespace_visibility`)
 
 **Automatic Filters**
 
@@ -89,23 +91,22 @@ _Simplifed namespaces data set that includes enhanced filtering_
 - `setup_for_company`
 - `DateRange`: Select what range of `namespace_created_at` dates you want included in the report
 - `Aggregation`: Aggregate how to group the `namespace_created_at` dates (daily, weekly, monthly, etc)
+- `namespace_visibility`
 
 How to Use and Sample Output (if copy/pasted into Sisense):
 
 These snippets are written as plug-and-play CTEs. You can apply your own name to these CTEs
 
-
-```
+``` sql
 WITH namespaces AS [growth_data_namespaces]
 
-SELECT * FROM namespaces LIMIT 5
+SELECT * 
+FROM namespaces 
+LIMIT 5
+;
 ```
 
-
-
 </details>
-
-
 
 
 #### SpO within the First X Days
@@ -129,7 +130,7 @@ Granularity: One record per namespace
 - `legacy.gitlab_dotcom_daily_usage_data_events`
 - `legacy.gitlab_dotcom_xmau_metrics`
 - `legacy.gitlab_dotcom_namespaces_xf`
-- `legacy.GITLAB_DOTCOM_USERS_BLOCKED_XF`
+- `legacy.gitlab_dotcom_users_blocked_xf`
 - `legacy.gitlab_dotcom_members`
 - `legacy.gitlab_dotcom_user_preferences`
 
@@ -167,7 +168,6 @@ _See namespace-level stage adoption metrics such as time to first adoption, stag
 - Copy/paste `[growth_data_stage_adoption]` into your Sisense report.
 - Copy/paste [SQL code](https://gitlab.com/gitlab-data/periscope/-/blob/periscope/master/snippets/growth_data_stage_adoption/growth_data_stage_adoption.sql) to customize query within your Sisense report.
 
-
 **Dependencies:** Snippet includes `[growth_data_namespaces]` snippet
 
 **Granularity:** One record per namespace per stage.
@@ -198,15 +198,126 @@ _See namespace-level stage adoption metrics such as time to first adoption, stag
 - `event_plan_name`: Select plan name(s) you want to include in the reporting.
 - `First_X_Days_Filter`: Filters for the first 
 
-```
+```sql
 WITH stages AS [growth_data_stage_adoption]
 
-SELECT * FROM stages LIMIT 5
+SELECT * 
+FROM stages 
+LIMIT 5
+;
 ```
-
 
 </details>
 
+
+#### Group Namespace Invites & Member Counts
+
+_Group namespace-level invites_
+
+<details markdown="1"><summary>Click to expand</summary>
+
+**Options for accessing this snippet:**
+- Copy/paste `[growth_data_group_namespace_invites]` into your Sisense report.
+- Copy/paste [SQL code](https://gitlab.com/gitlab-data/periscope/-/blob/periscope/master/snippets/growth_data_group_namespace_invites/growth_data_group_namespace_invites.sql) to customize query within your Sisense report.
+
+**Granularity:** One record per invited user per namespace (one record per `member_id`)
+
+**Dependencies:** Snippet includes `[growth_data_namespaces]` snippet
+
+**Data Sets Used:** 
+
+- `legacy.gitlab_dotcom_namespaces_xf`
+- `legacy.gitlab_dotcom_users_blocked_xf`
+- `legacy.gitlab_dotcom_user_preferences`
+- `legacy.gitlab_dotcom_members`
+- `legacy.gitlab_dotcom_memberships`
+- `common.dim_user`
+
+**Fields**
+
+- `namespace_id`
+- `namespace_created_at` (timestamp)
+- `namespace_visibility_level`
+- `user_id`
+- `member_id`: Identifier unique to the user and namespace
+- `invite_created_at`: Timestamp that user was invited to namespace
+- `invite_accepted_at`: Timestamp that user accepted the invitation (will be `NULL` if access was 
+automatically granted)
+- `invite_expires_at`: Timestamp of invite expiration, defined as `invite_created_at` + 90 days 
+(unless explicitly set by inviter)
+- `invite_success_at`: Timestamp that user joined the namespace (either via invite acceptance 
+or access granted)
+- `user_created_at`
+- `invited_user_type`: `'NEW'` (user did not have GitLab account at time of invite) or `'EXISTING'` (user had GitLab account at time of invite)
+- `invite_status`: `'INVITE_ACCEPTED'`, `'ACCESS_GRANTED'`, '`INVITE_EXPIRED'`, `'INVITE_PENDING'`
+- `invite_was_successful`
+
+**Automatic Filters**
+
+- _This snippet includes all automatic filters used in the [growth_data_namespaces] snippet_
+
+**Filtering Options (if filters aren't enabled, will show all results)**
+
+- _This snippet includes all filtering options used in the [growth_data_namespaces] snippet_
+
+How to Use and Sample Output (if copy/pasted into Sisense):
+
+These snippets are written as plug-and-play CTEs. You can apply your own name to these CTEs
+
+``` sql
+WITH namespaces AS [growth_data_namespaces]
+
+SELECT * 
+FROM namespaces 
+LIMIT 5
+;
+```
+
+</details>
+
+<details markdown="1">
+  <summary>More about gitlab_dotcom_members and gitlab_dotcom_memberships tables</summary>
+
+**Stepping back: two different types of "invites"**
+
+There are 2 different scenarios when a user is invited to a namespace:
+
+1. An invite is sent to the user and they need to accept it in order to join the namespace
+    * This happens when the invited user does not yet have a GitLab account that is visible 
+    to the invitee.
+    * If accepted, `invite_status = 'INVITE_ACCEPTED'`
+2. An actual invite is not sent, the user is added to the namespace automatically
+    * This happens when the invited user already has a GitLab account that is visible to the 
+    inviter (ex: public profile, within the same organization, etc). 
+    * No action is needed by the invitee to be added to the namespace..
+    * `invite_status = 'ACCESS_GRANTED'`
+
+
+
+* INVITE_ACCEPTED: Appears in memberships table, invite_accepted_at IS NOT NULL
+* ACCESS_GRANTED: Appears in memberships table, invite_accepted_at IS NULL
+* INVITE_EXPIRED: Does not appear in the memberships table, invite_created_at over 90 days ago
+* INVITE_PENDING: Does not appear in the memberships table, invite_created_at in last 90 days
+
+
+**[legacy.gitlab_dotcom_members](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_members)**
+
+* Records are added any time a user is invited to a namespace (regardless of whether an actual 
+invite needs to be sent or access is automatically granted) or any time a user's status changes 
+(ex: their namespace permissions change)
+* This is a type 2 table with multiple records per primary key, `member_id` (unique to the `user_id` and `namespace_id`)
+  * Type 2 documented in source table: [PREP.gitlab_dotcom.gitlab_dotcom_members_source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_members_source#description)
+
+
+
+* legacy.gitlab_dotcom_members: https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_members_source (just select * from the source table)
+  * Records added when users are invited or given access to namespace
+  * PK: member_id, with multiple records per PK
+**[legacy.gitlab_dotcom_memberships](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_memberships)**
+  * Records added _after_ a user is successfully added to a namespace, either via invite 
+  acceptance or access automatically granted.
+
+</details>
 
 ## Resources for Growth Experimentation
 
@@ -227,24 +338,35 @@ _Sisense snippet that can easily be adjusted any experiment using Snowplow event
 **Fields Included**
 
 - `event_id`
-- `event_action`
-- `derived_timestamp` (timestamp with millisecond granularity)
-- `event_value`
-- `event_property`
 - `experiment_name`
-- `context_key`
 - `experiment_variant`
+- `context_key`
+- `derived_tstamp` (timestamp with millisecond granularity)
+- `event_action`
+- `event_property`
+- `event_value`
+- `environment` (`'production'` or `'staging'`, based on `app_id`)
+
+**Filtering Options (if filters aren't enabled, will show all results)**
+
+- `select_experiment`: Applied to `experiment_name`
+- `DateRange`: Applied to `derived_tstamp`
+- `snowplow_environment`: `'production'` or `'staging'`
+
+_NOTE: Due to the size of the Snowplow data set and performance concerns, please be sure to apply, 
+at minimum, the `select_experiment` filter. Queries will be much more performant if you also 
+apply the `DateRange` filter._
 
 **Sample Output:**
-```
+``` sql
 WITH events AS ([experiment events])
 
 SELECT *
 FROM events
 WHERE experiment_name = 'new_repo'
 LIMIT 10
+;
 ```
-
 
 </details>
 
@@ -294,8 +416,8 @@ _At a glance, see if the experiment is reporting data, for which events, and wha
 **Sample of Charts included in Dashboard**
 
 
-
 </details>
+
 
 ## Key Data Source Guide
 
@@ -325,6 +447,7 @@ _Provides helpful fields on every namespace such as the `namespace_id`, `namespa
 
 
 </details>
+
 
 ### Events Data (Coming Soon)
 
