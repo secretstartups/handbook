@@ -76,6 +76,13 @@ To gain access to SAFE Intermediate Dashboards:
 
 ![Sisense Spaces](safe_intermediate.png)
 
+Sisense Data Access Matrix:
+
+| Space | Read-Only | Editor |
+| ----- | --------- | ------ |
+| General / GitLab | Baseline entitlement | AR with manager approval |
+| SAFE Intermediate Dashboard | AR with manager approval | AR with manager, departmental VP (or equivalent) and SAFE Space owner approval | 
+| SAFE Dashboard | AR with manager, departmental VP (or equivalent) and SAFE Space owner approval | AR with manager, departmental VP (or equivalent) and SAFE Space owner approval |
 `END OF 2021-12-17 SAFE Intermediate Dashboard Change Announcement`
 
 ## Data By Subject Area
