@@ -26,9 +26,8 @@ The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Ke
 **On 2021-09-08 Sisense dashboard access will be changing, driven by GitLab's maturation and the [SAFE Data Framework](https://about.gitlab.com/handbook/legal/safe-framework/). The following section describes the planned access process.**
 
 Access to Sisense dashboards is based on job role and goverened by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Sisense, dashboards are classified into the following spaces:
-- the **SAFE Dashboard** space houses all dashboards that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart). SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need.
 - the **GitLab** space is a General Access area which houses dashboards which do not require SAFE handling. General Access Dashboards are accessible by all GitLab Team Members.
-- the **SAFE Intermediate Dashboard** space houses dashboards which do not require SAFE handling, but are based on data models that contain SAFE Data.  SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need.
+- the **SAFE Intermediate Dashboard** space houses dashboards which do not require SAFE handling, but are based on data models that contain SAFE Data.  SAFE Intermediate Dashboards are available to GitLab Team Members based on job role or demonstrated need.
 - the **SAFE Dashboard** space houses all dashboards that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart). SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need.
 
 A complete list of Dashboards, including SAFE Dashboards, is available in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index).
@@ -85,7 +84,7 @@ Sisense Data Access Matrix:
 | Space | Read-Only | Editor |
 | ----- | --------- | ------ |
 | General / GitLab | Baseline entitlement | AR with manager approval |
-| SAFE Intermediate Dashboard | AR with manager approval | AR with manager, departmental VP (or equivalent) and SAFE Space owner approval | 
+| SAFE Intermediate Dashboard | AR with manager approval | AR with manager, departmental VP (or equivalent) and SAFE Intermediate Space owner approval | 
 | SAFE Dashboard | AR with manager, departmental VP (or equivalent) and SAFE Space owner approval | AR with manager, departmental VP (or equivalent) and SAFE Space owner approval |
 
 `END OF 2021-12-17 SAFE Intermediate Dashboard Change Announcement`
