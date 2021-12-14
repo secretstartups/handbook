@@ -297,7 +297,13 @@ For in-network services: N/A.
  
 For out-of-network services: 365 days from Date of Service.
 
- 
+##### Kaiser Inertility Services
+
+Kaiser California and Colorado Members are covered for infertility services at 50% co-insurance. Coverage includes services for dagnosis and treatment of infertility. Coverage does not include conception by artifical means (IVF/GIFT/ZIFT/etc). Please check with the WTW Benefits Helpline `877-409-9288` or `GitLab@willistowerswatson.com` for more information. 
+
+Kaiser Hawaii Plan members are covered for an infertility consultation and certain In Vitro Fertilization (IVF) procedures. More information on the Infertility services for Hawaii Kaiser members can be found on the [2021 Hawaii Health Plan](https://drive.google.com/file/d/1jQhVbbd0xpNDLB093nfptlUv972ALlDF/view?usp=sharing). 
+
+
 #### Pregnancy & Maternity Care
  
 With medical plans, GitLab offers pregnancy and maternity care. Depending on the plan you selected, your coverages may differ for in-network vs out-of-network, visits, and inpatient care. Please contact the [Total Rewards team or WTW](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#who-to-contact) with any questions about your plan. Once your child has arrived, please follow the steps outlined above in regard to this [Qualifying Life Event](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#qualifying-life-events).
