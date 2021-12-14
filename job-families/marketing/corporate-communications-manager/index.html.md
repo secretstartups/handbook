@@ -56,6 +56,26 @@ The Senior Corporate Communications Manager is a [grade 7](/handbook/total-rewar
 * Experience managing agencies and driving results.
 * Highly organized, detail-oriented and able to drive cross-functional deadlines consistently.
 
+### Manager, Corporate Communications
+
+#### Job Grade
+Manager, Corporate Communications is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+## Responsibilities
+* Develop QoQ and YoY integrated cross-functional communications programs.
+* Develop overarching company storylines for media.
+* Manage a team of direct reports, freelancers and/or agencies to scale integrated communications programs and ensure their results contribute to the  corporate communications strategy.
+* Manage media training schedule and ensure 100% compliance of training completion.
+* Strategically lead crisis communications efforts as needed.
+* Develop program’s OKRs and deliver quarterly reporting of results.
+* Responsible for ideation of Corp Communications activities, OKRs, and reporting on results.
+
+#### Requirements
+* 9+ years experience in public relations and/or marketing communications.
+* Experience developing and executing cross-functional communications programs.
+* Experience managing agencies, freelancers and a team of direct reports to drive results.
+* Highly organized, detail-oriented and able to drive cross-functional deadlines consistently.
+
 ### Staff Corporate Communications Manager
 
 #### Job Grade
@@ -66,8 +86,6 @@ Staff Corporate Communications Manager is a [grade 8](/handbook/total-rewards/co
 ## Responsibilities
 * Develop QoQ and YoY integrated communications programs.
 * Develop overarching company storylines for media.
-* Manage PR agencies to scale integrated communications programs  and ensure their results contribute to the overall corporate marketing objectives and goals.
-* Manage media training schedule and ensure 100% compliance of training completion.
 * Strategically lead crisis communications efforts as needed.
 * Develop program’s OKRs and deliver quarterly reporting of results.
 * Responsible for ideation of Corp Communications activities, OKRs, and reporting on results.
@@ -75,8 +93,23 @@ Staff Corporate Communications Manager is a [grade 8](/handbook/total-rewards/co
 #### Requirements
 * 9+ years experience in public relations and/or marketing communications
 * Experience developing and executing communications programs.
-* Experience managing agencies and driving results.
+* Experience driving results.
 * Highly organized, detail-oriented and able to drive cross-functional deadlines consistently.
+
+### Senior Manager, Corporate Communications
+
+#### Job Grade
+Senior Manager, Corporate Communications is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+## Responsibilities
+* Managing a portion of the Corporate Communications budget. 
+* Develop and execute integrated programs that further the overall corporate marketing objectives and goals.
+* Manage a team of direct reports, freelancers and agencies, ensuring their results contribute to the overall corporate marketing objectives and goals.
+
+#### Requirements
+* 10+ years experience in public relations and/or marketing communications.
+* Experience managing budgets aligning with communications objectives and goals.
+* Experience managing a team whose results drove the overall communications strategy.
 
 ### Principal Corporate Communications Manager
 
@@ -115,23 +148,23 @@ The Director of Corporate Communications is a [grade 10](/handbook/total-rewards
 The executive communications manager will work closely with the executive leadership team to develop content for executive speaking opportunities, extend the reach of executive participation in external events, develop a platform for “Pick Your Brain” or other Zoom series, executive contributed articles and more.
 
 #### Responsibilities
+* Own the executive visibility program, driving its strategy and executing on the strategy.
 * Work closely with the executive leadership team to develop strong narrative presentations and content for external speaking opportunities.
 * Work with the brand, design, technical marketing team and others needed to develop state of the art slide decks for external events.
-* Lead speaking coaching sessions with the leadership team to make sure they comfortably deliver the content in a natural and charismatic way; incorporate edits as needed.
-* Think strategically about other executive leadership platforms and how we should be promoting them externally, whether that is via our blog, contributed articles, podcasts, YouTube or other external platforms.
+* Lead speaking coaching sessions with the leadership team to ensure they comfortably deliver the content in a natural and charismatic way; incorporate edits as needed.
+* Think strategically about other executive leadership platforms (aspirational and industry peers) and how we should be promoting them externally, whether that is via our blog, contributed articles, podcasts, YouTube, social media or other external platforms.
 * Work closely with others in the Corporate Communications department and with PR agencies to share presentation narratives for media consumption and obtain media messages/interview feedback to incorporate in external speaking presentations.
-* Work closely with Senior Manager, Corporate Communications to manage executive visibility programs.
 * Manage any outside agencies or freelancers hired to assist with the executive visibility program.
 * Work closely with Executive Business Administrators to plan executive speaking schedules for the year.
 
 #### Requirements
-* 5+ years experience in an executive communications role.
-* Experience running public relations, communications or marketing efforts at an enterprise company.
+* Experience in public relations and/or marketing communications.
+* Experience developing and executing executive communications programs.
 * Experience in enterprise software and/or open source.
 * Creative, thoughtful and passionate about storytelling.
 * Outstanding written and verbal communications skills.
-* Experience with presentation building - both narrative flow and design
-* Able to coordinate across many teams and perform in a fast-moving startup environment.
+* Experience with presentation building - both narrative flow and design.
+* Able to coordinate across many teams and perform in a fast-moving environment.
 * Proven ability to be self-directed and work with minimal supervision.
 * You share our values, and work in accordance with those values.
 * Highly organized, detail-oriented and able to meet deadlines consistently.
@@ -143,7 +176,7 @@ The GitLab [PR Manager](/job-families/marketing/pr-manager/) will help GitLab bu
 The [Social Marketing Manager](/job-families/marketing/social-marketing-manager/) is a key part of building GitLab’s brand into one that is loved by its audience of developers, IT ops practitioners, and IT leaders.
 
 ### Internal Communications
-The [Principal Internal Communications Manager](https://about.gitlab.com/job-families/marketing/internal-communications/) plans and improves company-wide team member communications to ensure team members feel informed and heard.
+The [Principal Internal Communications Manager](https://about.gitlab.com/job-families/marketing/internal-communications/) is part of the Talent Brand team within the PeopleOps group, but works very closely with the Corporate Communications team. Internal Communications plans and improves company-wide team member communications to ensure team members feel informed and heard.
 
 ## Career Ladder
 
