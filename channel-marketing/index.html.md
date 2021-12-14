@@ -95,7 +95,18 @@ that details the FMM process where CAMs can read more about how to complete [the
 
 ## Partner-Initiated FREE Trials
 
-Partners now have the ability to place a FREE trial button on their website as a critical call to action to their demand generation plans. Free trials allow users to have access to a full set of features for a limited amount of time (30-days). Once a visitor requests a free trial from a GitLab partner, the record is sent to GitLab for the license key to be assigned and assigned to a partner in SFDC. In addition, the lead is then routed automatically via Vartopia to the partner for tracking and follow up. This is the same process that is followed whether the record is considered a lead or a contact within GitLab's instance of SFDC.
+Partners now have the ability to place a FREE trial button on their website as a critical call to action to their demand generation plans. Free trials allow users to have 30 day access to the full set of features in the Self-Managed version of GitLab. Once a visitor requests a free trial from a GitLab partner, the record is sent to GitLab for the license key to be assigned and assigned to a partner in SFDC. In addition, the lead is then routed automatically via Vartopia to the partner for tracking and follow up. This is the same process that is followed whether the record is considered a lead or a contact within GitLab's instance of SFDC.
+
+For step by step instructions, [view this brief, 3 minute video.](https://youtu.be/e3qXq6TGbMY)
+
+    Critical systems and tools used for this process and their DRI's: 
+    Marketo: PLEASE ENTER DESCRIPTION OF WORK HERE @amy.waller
+    Lean Data: PLEASE ENTER DESCRIPTION OF WORK HERE @bpeterson
+    Sales Systems: (SFDC):PLEASE ENTER DESCRIPTION OF WORK HERE @sheelaviswanathan
+    Vartopia Lead Management: @cfarris
+    Vartopia Lead Management
+Partners can access and manage their GitLab leads in the same interface as their [deal registration](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview). When leads are shared with partners, partners will now see an additional tab in the Vartopia GitLab Deal Registration portal called Prospects. Partners can also easily convert their prospects to deal registrations and submit them to GitLab for approval. Reference the User Guide[https://docs.google.com/document/d/1zo8QE5-0pAZgvNlxgrqz6lN6OxV0cyja/edit] and [how-to video](https://youtu.be/e3qXq6TGbMY) for full details. 
+
 
 ## Future/Potential Service Offerings
 
@@ -134,6 +145,8 @@ When requesting support from our team, we commit to responding to your [issue](h
 *   **Lisa Rom**: Senior Partner Channel Manager.  Lisa will be focusing on global alliances and channel marketing initiatives and major channel programs
 *   **Karen Pourshadi**: Senior Channel Marketing Manager.  Karen will be focusing on partner content: enabling our partner marketing resources with major GitLab GTM initiatives and developing turnkey, integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/campaigns/#what-is-a-partner-instant-marketing-campaign) for GitLab channel partners. 
 *   **Sara Valko**: DMR Channel Marketing Manager.  Sara will be focusing on our DMR channel partners including but not limited to: CDW, SHI and Insight.  She will be partnering with them to develop integrated demand generation campaigns that drive net new logos for GitLab. 
+*   **Samara Souza**: Senior Partner Program Manager.  Samara will be focusing on creating new service offerings for our partners to leverage in their demand generation motions including but not limited to: Free trial syndication; case study development, MDF process, and much much more! 
+
 
 ## The best way to contact our team is through our Slack channels
 
