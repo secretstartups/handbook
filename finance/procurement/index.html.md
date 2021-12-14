@@ -23,8 +23,7 @@ Procurement is the process of selecting vendors, strategic vetting, selection, n
 - All purchases made on behalf of GitLab that do not qualify as a personal expense, need an approved Purchase Order (PO) in Coupa. 
 
 **Exceptions to the PO Policy are:**
-1. Purchases under $5K that are NOT Software
-      - ALL Software needs an approved PO in Coupa regardless of dollar value due to security risk requirements.  
+1. Purchases under $5K
 1. Last minute un-planned onsite event needs such as food and rental transactions needed for event.
 1. One-time field marketing and event purchases less than $10K such as booth rentals, AV equipment, catering, etc.
 1. Confidential Legal Fees
@@ -40,6 +39,7 @@ Choose the type of purchase you're making for the process guidance:
   <a href="/handbook/finance/procurement/professional-services/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Professional Services / Contractors / Agencies</a>
   <a href="/handbook/finance/procurement/field-marketing-events" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Field Marketing and Events</a>
   <a href="/handbook/finance/procurement/office-equipment-supplies/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Home office equipment and supplies</a>
+  <a href="/handbook/finance/procurement/personal-use-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Personal Use Software</a>
 </div> 
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Toolkits
@@ -90,7 +90,7 @@ Due to the limited number of licenses available for Coupa, it is recommended tha
 - [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
 - [Data Processing Addendum](https://docs.google.com/document/d/188OI1xC63VpqWNbot-O-KmUXPAqh7q0s/edit?usp=sharing&ouid=105676530718857820161&rtpof=true&sd=true)
 - [EU Standard Contractual Clauses](https://drive.google.com/file/d/1oOgETU0YZrp_JhM88oI57DsLEh1qpvFV/view?usp=sharing)
-- [US Contractor Agreement](https://drive.google.com/file/d/1wlY3opFQyClkZxLqdbtoXrYFBtspPYLj/view?usp=sharing)
+- [US Contractor Agreement](https://docs.google.com/document/d/1L_GeF3I4Ak_ijjrSv_V7kJpE5EKp2hM6/edit?usp=sharing&ouid=101595031187349560306&rtpof=true&sd=true)
 
 #### Documentation
 
@@ -99,6 +99,5 @@ Due to the limited number of licenses available for Coupa, it is recommended tha
 * [Company Information](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information) - general information about each legal entity of the company
 * [Trademark](/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark) - information regarding the usage of GitLab's trademark
 * [Authorization Matrix](/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
-* [Procurement Playbook](https://docs.google.com/document/d/1Hb3S0fZ9CoYpvwusksjSP7vibH4z1ShJE8GX62exLGQ/edit?usp=sharing)
 
 {::options parse_block_html="false" /}

@@ -508,9 +508,13 @@ If approval is not required, then proceed and send the invoice to Accounts Payab
 
 ### Creation of Expense Tags
 
-If you would like to track spend for a particular campaign, project and/or event you can do that through expense tag also known as classes in NetSuite.  If you would like to request an expense tag to be set up please send your request to *ap@gitlab.com* and they can work with the General Ledger team to have it set up for you. You can also put a message in the #finance chat channel in Slack.
+If you would like to track spend for a particular campaign, project and/or event you can do that through expense tag, also known as classes in NetSuite.  If you would like to request an expense tag/class to be set up please open [this tracker](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit?usp=sharing) and enter the information required for the General Ledger (GL) team to create the tag.
+   * The GL team will create the tags at the end of each day. 
+   * The tag is created in Netsuite and syncs with Expensify and Coupa.
+   * Requisitions can be saved for later, while you complete the tag creation process.
 
-**In NetSuite:**
+
+**Creat Classes In NetSuite:**
 1. In NetSuite go to Setup-Company-Classes-New
 1. Add the name of the expense tag under Name
 1. Under subsidiaries highlight GitLab Inc and check the box that states "Include in Children"
@@ -518,7 +522,7 @@ If you would like to track spend for a particular campaign, project and/or event
 
 Expensify will auto-sync any new "expense tags" on a daily basis, but if the Expensify admin wants to manually sync they can by following these steps:
 
-**In Expensify:**
+**Import new Classes/Tags In Expensify:**
 1. Go to the Admin page and click on the *Policies* tab.
 1. Select a policy and find the *Connections* subtab. The NetSuite connector is located on this page.
 1. Click the *Sync Now* button for the NetSuite connector. The page will run a prompt showing sync status.
@@ -569,11 +573,11 @@ Please see the [GitLab entities listing in the Handbook] (https://gitlab.com/git
  **Note that company credit card expenses should never be commingled with reimbursable expense reports. Reimbursable expenses should always be submitted separately. Please contact the Accounting Manager if you have any questions.**
 
 
-### Summit Costs and other key expenses
-
+### Contribute Costs and other key expenses
 
 **Marketing Campaign Expenses**
 Please see the [campaign expense guidelines in the Marketing handbook](/handbook/marketing/marketing-sales-development/marketing-operations/#campaign-cost-tracking).
+
 **GitLab Contribute Cost Tracking**
 (Previously GitLab Summit)
 Tracking expenses for company Contributes enables us to analyze our spend and find opportunities to iterate, and in turn, improve subsequent Contributes. To enable tracking we create an expense tag that will allow GitLab team-members to tag Contribute related expenses in Expensify. This should be done prior to the announcement of each Contribute.
@@ -784,10 +788,10 @@ This policy applies to all Company locations and departments.
 3.  Company Credit Cards may not be used for personal expenses of any nature or where an approved [finance contract issue process](/handbook/finance/procurement/) can be used with prior planning involved.
   * Recurring charges or anything that can be billed directly through our accounts payable department should NOT be put on the corporate card. If a vendor only accepts a credit card, please reach out to AP team to assist in handling.
   * Any expense over $5,000 USD must have an approved finance issue associated with the expense.
-  * Credit cards can be used to charge sponsorships, annual subscriptions or deposits for events if the charge is less than $5,000USD and does not require a signature (remember, anything that needs a signature MUST go through the finance issue approval process no matter the cost). If the expense is between $5,000 USD and $10,000USD there must be an accompanying approved finance issue to use the corporate card.
-  * Any purchase exceeding $10,000USD and up to $20,000USD will be allowed to be charged on the card but needs to have an approved finance issue with direct manager approval and/or executive level approval based on our [authorization matrix](/handbook/finance/authorization-matrix/).  The approval needs to be attached to the charge in Expensify upon submission.
-  * Anything over $20,000USD should not be charged on the card and has to go through the normal finance contract issue approval process.
-  * If you have a recurring charge and the vendor only takes credit card we can make an exception to allow the card to be charged if the per-transaction charge is under $10,000USD.  If over $10,000USD provide an approved finance issue following the signature authority matrix.  You can create a blanket issue for each calendar year.
+  * Credit cards can be used to charge sponsorships, annual subscriptions or deposits for events if the charge is less than $5,000 USD and does not require a signature (remember, anything that needs a signature MUST go through the finance issue approval process no matter the cost). If the expense is between $5,000 USD and $10,000 USD there must be an accompanying approved finance issue to use the corporate card.
+  * Any purchase exceeding $10,000 USD and up to $20,000 USD will be allowed to be charged on the card but needs to have an approved finance issue with direct manager approval and/or executive level approval based on our [authorization matrix](/handbook/finance/authorization-matrix/).  The approval needs to be attached to the charge in Expensify upon submission.
+  * Anything over $20,000 USD should not be charged on the card and has to go through the normal finance contract issue approval process.
+  * If you have a recurring charge and the vendor only takes credit card we can make an exception to allow the card to be charged if the per-transaction charge is under $10,000 USD.  If over $10,000 USD provide an approved finance issue following the signature authority matrix.  You can create a blanket issue for each calendar year.
   * The Corporate Travel Card is to only be used by TripActions to book approved travel on behalf of GitLab through the TripActions portal.
   * The BizOps IT Card is to only be used by BizOps to make purchases for new hire equipment following the Spending Company Money guidelines.  This is the only card that is allowed to be shared in a secure vault to only BizOps IT personnel responsible for new hire purchases.
   * Cards are to be used where pre-planning was not able to occur such as extra food at an event or last-minute materials used to host an event or unusual items at a marketing or sales events that were not anticipated and cannot be directly billed to accounts payable for said event.
@@ -1003,29 +1007,30 @@ Manual journal entries are recorded in order to ensure our financial statements 
 Journal entry types not included above will always be recorded, no matter the amount.  These include entries such as bank account activity, payroll, and taxes.
 
 #### Finance Class/Tag creation in Netsuite
-##### Class/Tag Purpose
+#### Class/Tag Purpose
 The main function of a Finance Class/Tag created in Netsuite is to track expenses, segmenting expenses into cost centers allows for greater control and analysis of total costs.
 
 Campaign owners track costs associated with events, content, webcasts, Subscriptions, Memberships, Contracts etc. Campaign tags can be applied to Expensify reports, corporate credit card charges, and vendor bills processed by Accounts Payable. Campaign expenses that are incurred by independent contractors should be clearly noted with the appropriate tag and included in their invoices to the company. 
 
-##### How to create a Class or Tag in Netsuite:
-**Marketers**
+If the tag needed will incur costs greater than $5K, a Coupa PO or an issue needs to be created. Please visit the [Procurement page](https://about.gitlab.com/handbook/finance/procurement/#how-to-start-procurement-process) to identify which process is applicable to your purchase.
 
+#### How to create a Class or Tag in Netsuite:
+
+**Marketers**
 Please refer to : [Campaigns and Programs](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns)
 
 **Other Departments/teams:**
-
-If the tag needed will incur costs greater than $5k a procurement issue needs to be created and the owner has the responsibility to tag the Finance team for approval and also to include the accounting team (ggonzalez) for the creation of the tag in NS.
-
-Please visit the [Procurement page](https://about.gitlab.com/handbook/finance/procurement/#how-to-start-procurement-process) to identify which process is applicable to your purchase.
-
-If the tag is needed for any reason that does not incur more than $5k there is no need to create a procurement issue please request the accounting team to create the tag in the Slack channel **#finance** (ping ggonzalez)
+Please navigate to [this tracker](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit?usp=sharing) and enter the information required for the GL team to create the tag. 
+   * The GL team will create the tags at the end of each day. 
+   * The tag is created in Netsuite and syncs with Expensify and Coupa.
+   * If you have requisitions or an issue in process - it can be saved for later, while you complete the tag creation process.
 
 The name can be any combination of characters that does not exceed the 31 digits allowed by the system. The suggested format for assigning a name to the class is YYYYYYMMDD_Vendor_Description. We suggest that it contain the date or the related fiscal year, the vendor's name and/or the description of the expenses.
 
-Please be aware that when creating the tag in Netsuite the system automatically synchronizes with Expensify, Tipalti and Coupa to have the same classes created and available in each system.
+Please be aware that once the class is created in Netsuite, the system automatically synchronizes with Expensify, Tipalti and Coupa to have the same classes created and available in each system.
 
 If a tag has been created the owner is responsible for communicating and including the class in any related communication or expense.
+
 
 ### Recording Employee Stock Option Expense
 
@@ -1062,6 +1067,7 @@ Each month the Senior Accounting Manager will lead a Month-End review to discuss
 In addition to the Month-End review process, Accounting will coordinated the Month-End Close Checklist to ensure all closing tasks are completed.
 
 - [Month-End Close Checklist](https://docs.google.com/a/gitlab.com/spreadsheets/d/1SSUQpudxxpPgXIS97Ctuj-JRII0qhq0I3r19jmBKU7c/edit?usp=sharing)
+
 ### Preliminary vs Final
 
 The monthly close process includes both a preliminary and final close process. If any adjustments come out of the preliminary financial review the Accounting team will book the adjustments before the final financial results are published. After any adjustments are made the accounting team will then record the intercompany calculations and ensure all intercompany eliminates properly before officially closing the month.  Once the period is officially closed the accounting team will run the final financials and distribute to the appropriate management team.  The intercompany calculations are the very last entry during the month end close process. Therefore, the Accounting team ensures that the preliminary financial results are corrected and/or updated before the intercompany calculations are completed and books are officially closed to improve efficiency.

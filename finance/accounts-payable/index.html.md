@@ -37,34 +37,24 @@ Welcome to Accounts Payable, commonly referred to as AP. You should be able to f
 - Invoices are paid strictly by the invoice due dates. Any "Urgent Payment" requests will be paid in the next available payment run as long as they have been fully approved and the vendor has been successfully on-boarded. AP cannot accommodate same day payment requests.
 - Suppliers are to be paid via ACH and Wire only. AP does not issue check payments.
 - The cutoff for customer refund payments are the 25th of each month. Any customer refund requests received after the 25th will be paid the following month.
-- The AP team will only create issues that are AP related in nature. Any item forwarded to AP that is outside of our regular scope will be forwarded back to the requestor to handle or create the issue.
 - Contractors and consultants who invoice bi-weekly or monthly will be set to the industry standard of 30 day payment terms.
 
 ## <i id="biz-tech-icons" class="far fa-question-circle"></i>Frequently Asked Questions
 
 1. The vendor's invoice has not been paid yet, and they are asking me when it will be paid?
-    - Check if your issue or PO was fully approved:
-        - AP cannot send an invoice out for approval until **ALL** approvals are checked off in the procurement issue and the contract has been uploaded.
-        - Likewise, for Coupa POs, all approvals must be received, before we can process an invoice against the PO.
-        - In Coupa, the PO must also be received before we can release payment. Instructions on this process can be found [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-receive-an-order).
+    - Check if your Coupa PO was fully approved.
+    - The PO must also be received before we can release payment. Instructions on this process can be found [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-receive-an-order).
     - Verify if the invoice was sent to the correct place:
-        - An invoice uploaded to an issue or attached to a PO **will not** get processed. 
-        - Invoices for Tipalti must best sent to gitlab@supplierinvoices.com 
-        - Invoices for Coupa should be submitted in the supplier portal against their PO or email to invoices@gitlab.coupahost.com if they do not have a PO.
-    - Ensure that your vendor has <b>_fully_</b> on-boarded themselves in Coupa or Tipalti:
+        - An invoice attached to a PO **will not** get processed. 
+        - Invoices for Coupa should be submitted in the supplier portal against their PO or emailed to <i>[invoices@gitlab.coupahost.com](invoices@gitlab.coupahost.com)</i> if they do not have a PO.
+    - Ensure that your vendor has <b>_fully_</b> on-boarded themselves in Coupa:
         - This includes filling in bank details (in their billing currency) and the appropriate tax forms.
     - Confirm that your vendor has invoiced to the correct GitLab entity:
-        - AP cannot process an invoice unless it is addressed to the entity and currency selected in the issue or PO.
-        - If a new invoice is required, AP will reach out to the issue/PO owner and ask that they obtain a new invoice from the vendor.
+        - AP cannot process an invoice unless it is addressed to the entity and currency selected on the PO.
+        - If a new invoice is required, AP will reach out to the PO owner and ask that they obtain a new invoice from the vendor.
     - We cannot process an invoice unless the correct VAT has been included on the invoice - per the entity that the vendor is invoicing to.
 
-    **If you are sure that all of these things have been done correctly, please ask the vendor to contact the AP team directly, via email <i>[ap@gitlab.com](mailto:ap@gitlab.com)</i>**
-
-1. I do not know which system to add my vendor to?
-    - Any vendors for Inc, Federal LLC, IT BV and BV will be processed with a PO in **Coupa** as of June 2021.
-    - All other entities will continue to be processed and paid through **Tipalti** until we implement phase 2 of Coupa, in fall/winter of 2021.
-    - This includes Ireland, GK, GmbH, Korea, UK, Canada Corp, Singapore.
-    - More information can be found on the [Procure to Pay](/handbook/finance/accounting/#procure-to-pay) page.
+    **If you are sure that all of these things have been done correctly, please ask the vendor to contact the AP team directly via email <i>[ap@gitlab.com](mailto:ap@gitlab.com)</i>**
 
 
 1. How do I submit an expense report? And, when will it get paid?
@@ -75,13 +65,11 @@ Welcome to Accounts Payable, commonly referred to as AP. You should be able to f
 
 ### <i id="biz-tech-icons" class="far fa-flag"></i>Coupa
 
-We’re excited to announce that GitLab has launched Coupa, effective June 1, 2021.
+We’re excited to announce that GitLab has launched Coupa, effective 2021-06-01 for Phase I and effective 2021-12-13 for Phase II.
 
-Coupa is a procure-to-pay system that will help us streamline the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be implementing this new system in a phased approach, starting with the US and Netherlands entities - GitLab Inc, Federal LLC, IT BV and BV.
+Coupa is a procure-to-pay system that will help us streamline the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be implementing this new system in a phased approach. Phase I consists of US and Netherlands entities (GitLab Inc, Federal LLC, IT BV and BV). All remaining entities will switch over to Coupa during Phase II.
 
-All other entities will also switch over to Coupa in subsequent phases during the remainder of 2021.
-
-Invoices for GitLab Inc, Federal LLC, IT BV and BV entities can be sent to <i>[invoices@gitlab.coupahost.com](invoices@gitlab.coupahost.com)</i>. Vendors can also upload their invoices directly and match to their PO through their Coupa supplier portal.
+Invoices can be emailed to <i>[invoices@gitlab.coupahost.com](invoices@gitlab.coupahost.com)</i>. Vendors can also upload their invoices directly and match to their PO through their Coupa supplier portal.
 
 > You can learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/coupa-faq/) and in the [Coupa Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/)
 
@@ -89,9 +77,8 @@ Invoices for GitLab Inc, Federal LLC, IT BV and BV entities can be sent to <i>[i
 
 1. How to request info from suppliers in Coupa:	
     - To request that a supplier input data to their supplier card in Coupa, you can search the vendor, click on the box to the left and then click on Request Info. 
-    - You can send the template text or write up your own email to the supplier. Ensure to **ONLY** select 'EXTERNAL SUPPLIER FORM'. The one noted (system form) is a standard coupa one that we cannot disable, doesn’t capture any banking info, and isnt mapped to our supplier record, aka it causes mapping issues.
 1. Assisting vendors to set up their Remit To: 
-    - To set up your payment details in Coupa please follow [this link](https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Administer_the_CSP/06_View_and_Manage_Remit-to_Information) for further details on this process.
+    - To set up their payment details in Coupa, please follow [this link](https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Administer_the_CSP/06_View_and_Manage_Remit-to_Information) for further details on the process.
 1. PO Requirements:	
     - All purchases with a value over $5000 are required to have a purchase order. 
     - If the invoice is received without a PO, we will reach out to the business owner and request that the supplier's PO is created before we process the invoice. 
@@ -103,7 +90,7 @@ Invoices for GitLab Inc, Federal LLC, IT BV and BV entities can be sent to <i>[i
     - If PO is hard/fully closed, it cannot be reversed.
 1. Payment batch creation:
     - Use the pre-set view "Payment Setup" which has filters applied to select anything for a vendor that is "payable" and due within 6 days and aged prior to the current date.
-     ![Paynent-setup](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/paymnent-setup.png "Payment Setup"){: .shadow}
+     ![Payment-setup](Payment-setup.png){: .shadow}
 1. How to remove an invoice from a payment batch:	
     - To remove a payment from a submitted batch, please add a comment to the batch and tag Misty Brown so that she can remove the payment and the request will be recorded in Coupa.
 1. Use of daily checklist to clear errors per [this issue](https://gitlab.com/gitlab-com/Finance-Division/ap-team/ap-project/-/issues/76). 
@@ -114,21 +101,14 @@ Invoices for GitLab Inc, Federal LLC, IT BV and BV entities can be sent to <i>[i
     - AP team will adjust the vendor card for new currencies or entites. 
     - Change Exported to YES in Coupa when the error is fixed.
 
-### <i id="biz-tech-icons" class="far fa-flag"></i>Tipalti
 
-Tipalti is an invoice processing and payment system that GitLab has been using since 2019. We will continue to use Tipalti for invoice processing and payments for all remaining entities until phase 2 of Coupa is completed near the end of 2021.
-
-Invoices for Ireland, GK, GmbH, Korea, UK, Canada Corp, Singapore entities can be sent to _gitlab@supplierinvoices.com_. Vendors can also upload their invoices directly to Tipalti through their supplier portal.
-
-> Please visit [the Procure to Pay page](/handbook/finance/accounting/#procure-to-pay) for a detailed outline of vendor on-boarding and invoice processing in each system.
 
 ## <i aria-hidden="true" style="color:rgb(252,109,38); font-size:.85em" class="fab fa-gitlab fa-fw"></i>Invoice Payments
 {: #tanuki-orange}
 
-- The first step to getting an invoice paid is to review the appropriate [procurement process](/handbook/finance/procurement/) to see what type of procurement issue or Coupa PO is required.
-- If the vendor is being used for the first time, we will need to invite them to onboard in either Tipalti or Coupa - depending on the entity they are billing. This instruction is also outlined in the [procurement page](/handbook/finance/procurement/).
-    - **Regardless of the system used, the procurement portion must be completed first.**  Once the procurement process is complete, with all approvals, we can process the invoice.
-- Invoices should be emailed to _ap@gitlab.com_. The AP team will then process the invoice in the respective system.
+- The first step to getting an invoice paid is to review the appropriate [procurement process](/handbook/finance/procurement/).
+- If the vendor is being used for the first time, we will need to invite them to onboard with Coupa. This instruction is also outlined in the [procurement page](/handbook/finance/procurement/).
+    - **The procurement portion must be completed first.**  Once the procurement process is complete, with all approvals, we can process the invoice.
 - Make note that invoices are paid per the due date on the invoice or per the vendors payment terms in their contract, whichever comes first.
 - Please note that AP **cannot process same day requests for payments**. We must follow the process outlined above and ensure all approvals are attained before paying.
 - Payments are set up each Thursday and the money is released to vendors through the respective payment systems. It may take a few days for transfers to reach vendors depending on their location and the bank they use.

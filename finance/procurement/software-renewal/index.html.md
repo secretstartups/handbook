@@ -13,12 +13,8 @@ title: Software renewals and add-on
 - TOC
 {:toc}
 
-## <i class="far fa-clock" id="biz-tech-icons"></i> Software Renewals and Add-ons
-
-If your request is for any entity OTHER than the US or Netherlands CLICK HERE for instructions.
-
 ## <i class="far fa-clock" id="biz-tech-icons"></i> How Do I Renew My Software Agreement and/or Add Licenses to it?
-- Do NOT agree to ANY business, legal, and or pricing prior to engaging the procurement team. 
+- Do NOT agree to ANY business, legal, and or pricing prior to engaging the Procurement Team. 
     - This ensures alignment across the multiple functions to make good-faith commitments to vendors and don’t put our company in to possible risk.
 
 ## How Do I Submit a Request to Renew/Add-On to my Agreement?
