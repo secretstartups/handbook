@@ -101,9 +101,20 @@ Zendesk is our support queue for customer inquiries. Each case is then converted
 
 See also: [Zendesk](https://about.gitlab.com/handbook/marketing/community-relations/community-operations/tools/zendesk/) 
 
-### Collections System - WORK IN PROCESS (WIP)
+### Tesorio
 
-> Coming Soon
+Tesorio is a full cycle cash flow performance platform. It allows for AR, collections, cash forecast automation, and increased predicatbility around customer performance metrics and Accounts Receivable KPIs.
+
+- **Tesorio is used for the following:**
+   - Customer past due notifications
+   - Customer statement submissions
+   - Account amd invoice tagging 
+   - Customer account segmentation and agent assignment
+   - KPI analysis and reporting
+      - DSO - Days Sales Outstanding
+      - CEI - Collection Effectiveness Index
+      - ADC - Average Days Collected
+   - Cash receipts forecast support
 
 ## Accounts Receivable FAQs
 
