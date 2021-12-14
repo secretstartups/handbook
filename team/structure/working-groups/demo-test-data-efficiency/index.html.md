@@ -51,5 +51,5 @@ We will benefit from tooling efficiency together and broaden visiblity of demo d
 | Member                | Vincy Wilson           | Quality Engineering Manager    |
 | Member                | Tim Zallmann           | Senior Director of Engineering |
 | Member                | Mark Wood              | Senior Product Manager         |
-| Member                |                        |                                |
+| Member                |  Sameer Kamani         | Staff Federal Solution Architect |
 | Member                |                        |                                |
