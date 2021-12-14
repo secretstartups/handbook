@@ -142,41 +142,41 @@ Ability to travel if needed and comply with the company’s travel policy.
 
 ## Specialties
  
-### Sales Events
+### Event Content Manager
  
-* Focus on Sales specific Events
-* Flexible work schedule and the ability to travel approximately 30% of the time.
+The Event Content Manager reports to Manager, Corporate Events and Branding.
  
-### Production Manager
+#### Event Content Manager Responsibilities
  
-The Production Manager reports to Manager, Corporate Events and Branding.
- 
-#### Production Manager Responsibilities
- 
+* Ensure a premium speaker experience for internal and external speakers, including building preparation documentation, facilitating speaker kick-off seasons and in-platform demos, and collaborate with content DRIs to meet all due dates.
+* Partner with speakers and content DRIs to develop session arcs, slide contents and provide support on slides and talking points.
+* Have the ability to work on in-person and online events to execute a top-notch brand experience in either environment.
+* Draft speaker communications and manage speaker expectations and experience.
+* Act as the main point of contact for all speakers & presenters.
+* Manage the event wrap-up process, ensuring collecting feedback from speakers.
 * Ensuring there is a DRI for all content-related tasks for corporate marketing events to see through a successful execution of all elements of the event. This includes making sure all elements of branded events have an owner and reporting back on updates and deadlines.
-* Working closely with event DRI, GitLab digital production and Local to provide quality AV systems and on‐site support for live corporate events. Collaborates to build event orders for audio, video, staging, and lighting systems. Assist in the planning and coordination of productions, including but not limited to scouting locations, talent, and crew.
-* Working hand-in-hand with digital production on how content is used and promoted post-event. Potential writing and/or editing treatments and scripts for multimedia packages.
-* Liaising with internal teams to assist with pre- and post-production for GitLab-branded audio and video projects and events, including but not limited to Contribute, Sales Events, Commit user conferences, Developer Evangelism, Community, Employment branding, sales enablement, social, and livestreams.
-* Writing keynote scripts and acting as the day-of contact for speakers and running the day-of show for all event production-related needs for opening and closing keynotes.
-* Working with brand, design, and social media to make sure brand is represented in slide decks.
-* Managing local production staff and accounts.
-* Owning the integrated marketing campaigns and connecting the dots between demand generation, content marketing, and corporate events.
-* Managing the corporate events branded website design and execution to drive ticket sales and properly promote our events overall.
+* Working closely with event DRI, GitLab digital production and vendors to provide quality AV production support for corporate events. This includes build event orders for audio, video, staging, and lighting systems. Assist in the planning and coordination of productions, including but not limited to scouting locations, talent, and crew.
+* Work hand-in-hand with digital production on how content is used for promotion pre- and post-event. 
+* Work with brand, design, and social media to make sure the brand is consistent throughout content and presentations.
+* Manage the corporate events branded website to drive ticket sales and properly promote all Corporate Events.
 * Manage our self-hosted events Call For Proposals (CFP) process, working hand-in-hand with internal and external thought leaders on their talk submissions.
 * Review slide decks and develop a speaker training program.
+* Build draft agenda and suggested event timing in order to maximize opportunities for global contribution and attendee engagement.
+* Own the master run of show for all  stakeholders (show caller, production company, emcees, etc) for both in-person and virtual events.
+
  
-#### Production Manager Requirements
+#### Event Content Manager Requirements
  
 * Excellent written and verbal communication skills
 * Exceptional organizational skills
 * Relationships in the software DevOps space are a plus
-* Substantial knowledge with live corporate events and conferences.
+* Substantial knowledge with live and virtual corporate events and conferences
 * Highly collaborative, fostering effective relationships across all parts of the business and must enjoy learning/sharing knowledge
 * This position will require doing occasional work on‐site and includes occasional weekend work
-* Ability to travel if needed and comply with the company’s travel policy. 
-* If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
+* Ability to travel if needed and comply with the company’s travel policy 
+* If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies
 * Anticipated travel 15 to 20%
-* 5+ years in events work and 2+ in software or tech related space
+* 4+ years in events work and 2+ in software or tech related space
  
 ### Manager, Corporate Events
  
