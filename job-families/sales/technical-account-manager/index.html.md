@@ -29,6 +29,7 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 - Project management experience & skills
 - Strong technical, analytic, and problem-solving skills
 - Share our [values](/handbook/values/), and work in accordance with those values
+- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
 
 ### Levels
 

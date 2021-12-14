@@ -21,6 +21,7 @@ The Associate Technology Partner Manager is a [grade 5](/handbook/total-rewards/
 1. Ensure successful execution of marketing and sales acceleration programs, with a drive for measurable outcomes and revenue yield
 1. Facilitate meaningful relationships between GitLab and our technology partners' teams. This includes partners executive leaders, product managers, engineering, sales and marketing.
 1. Identify new opportunities for quality, high ROI engagements with partners
+1. 1. Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
 
 #### Associate Technology Partner Manager Requirements
 

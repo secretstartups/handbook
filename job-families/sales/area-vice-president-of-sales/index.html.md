@@ -31,6 +31,7 @@ The Area Vice President reports into the [VP, Enterprise Sales](/job-families/sa
 * Polished presentation skills
 * Ability to handle a fast-paced environment and ambitious workload
 * Bachelor degree 
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
 
 ## Segment
 

@@ -17,6 +17,7 @@ The Director, Partnerships is a [grade 10](/handbook/total-rewards/compensation/
 * Evaluate effectivity of partner relationships and engagements in delivering positive ROI.
 * Speak regularly in public as the voice for GitLab and the partner
 * SA level expertise with GitLab AND the partners technology
+* 1. Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
 
 ## Requirements
 

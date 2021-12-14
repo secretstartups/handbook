@@ -43,6 +43,7 @@ The Professional Services Engagement Manager (Intermediate) is a [grade 6](/hand
 * * You share our values, and work in accordance with those values.
 * [Leadership at GitLab](/handbook/leadership/)
 * Ability to use GitLab
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ### Senior Professional Services Engagement Manager
 

@@ -41,6 +41,7 @@ The VP, Online Sales and Self Service is a [grade 12](/handbook/total-rewards/co
 * Polished presentation skills
 * Ability to handle a fast-paced environment and ambitious workload
 * Bachelor degree
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ## Performance Indicators 
 

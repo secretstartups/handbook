@@ -30,6 +30,7 @@ The Senior Channel Services Manager is a [grade 7](/handbook/total-rewards/compe
 * BS/BA required or equivalent experience; MBA a plus
 * Experience in the DevOps space a plus
 * Ability to use GitLab
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
 
 ## Channel Services Manager
 

@@ -38,6 +38,7 @@ The Director, Channel Programs & Enablement is a [grade 10](/handbook/total-rewa
 * You share our values, and work in accordance with those values.
 * [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 * Ability to use GitLab
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ## Senior Channel Program Manager
 
