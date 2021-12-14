@@ -16,6 +16,10 @@ All elearning courses at GitLab will utilize the Handbook as the Single Source o
 
 ![gitlab-learning-content-diagram](/handbook/people-group/learning-and-development/interactive-learning/gitlab-learning-content-diagram.png)
 
+All our available learning material can be found on [GitLab Learn](https://about.gitlab.com/learn/).
+
+Team members should follow [these important steps](/handbook/marketing/inbound-marketing/digital-experience/website/#updating-content-on-gitlab-learn) to update GitLab Learn every time a new course or certification is created.
+
 ## Handbook-First Interactive Learning Examples
 
 ### Field Enablement 
@@ -59,6 +63,24 @@ Consider the following when documenting course content in the handbook:
 1. Embed relevant YouTube videos in the handbook
 1. Link to knowledge assessments
 1. Cross reference any additional handbook content with links
+
+## Using highlighted links in the handbook
+
+Google Chrome browsers can use the [copy link to highlight](https://support.google.com/chrome/answer/10256233?hl=en&co=GENIE.Platform%3DDesktop) feature. This will highlight a specified section of the handbook when clicked.
+
+Note that this will only work with Google Chrome, so be mindful of the audience you are reaching before using this kind of link.
+
+This kind of link is powerful to use when directing learners to the handbook as it **clearly marks where they should start and stop reading**.
+
+Here is an example of how to create these links: 
+
+1. Highlight the section of the page you want to appear highlighted
+1. Right click and choose `Copy link to highlight`
+1. Direct users to generated link for highlighted section
+
+![gitlab-learning-content-diagram](/handbook/source/handbook/people-group/learning-and-development/interactive-learning/copy_link_to_highlight.jpeg)
+
+It's important to note that high traffic or frequently updated handbook pages might result in broken links if the first or last word in a highlighted section is edited.
 
 ## Building handbook first learning content in the EdCast LXP
 

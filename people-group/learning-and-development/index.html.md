@@ -61,19 +61,10 @@ _Performance indicators_
 ### GitLab Learning Strategy & Roadmap
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBdQFDSp8MBSkekUzM-DItdPxr-ETEjrCq85fhET_cC-6nAJGfwuFE-aK3jwSLJylg6yX8N1THaHsk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdSkXvFLoLfpF4egf-4h8-Y-_FOx_BBfC9PVxVNMUlZ2Xi7oH7oHi8nCrCm7bD2Cir2znJ-9tBOlp2/pub?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-**Learn more about our [FY22 Roadmap and curriculum](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375)**.
-
-### Handbook First Training Content
-
-All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning). One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
-
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-
+**Learn more about our [FY22 Roadmap and tracking sheet](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375)**.
 
 ### L&D Organization
 
@@ -85,7 +76,7 @@ We are a small team, but we've got a big role to play at GitLab!
 * [Instructional Designer](/job-families/people-ops/instructional-designer/): [Irina Grosu](https://gitlab.com/IrinaGrosu)
 * [Learning System Administrator](/job-families/people-ops/learning-system-administrator/): [Jamie Allen](https://gitlab.com/jallen16)
 
-## How to Communicate with Us
+## Contact Us
 
 Slack: `#learninganddevelopment`
 
@@ -99,11 +90,19 @@ Please take 5 minutes for a survey to [tell us how do you prefer to learn](https
 
 You can view the Learning & Development calendar, as well as other people group team calendars on the [People Group Page](https://about.gitlab.com/handbook/people-group/#team-calendars). 
 
-## Learning Initiatives 
+### Handbook First Training Content
 
-The L&D team hosts and organizes [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) to engage the GitLab team in opportunities to learn. The team is consistently iterating on and adding to these resources!
+All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning). One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## Learning Opportunities 
+
+### Learning Initiatives 
+
+The L&D team hosts and organizes [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) to engage the GitLab team in opportunities to learn. The team is consistently iterating on and adding to these resources!
 
 ### Growth & Development
 
@@ -113,21 +112,31 @@ Team members can take advantage of up to $10,000 USD per calendar year for [Grow
 
 Everyone's career development is different, but we have [outlined](/handbook/people-group/learning-and-development/career-development/) what it can look like at GitLab. Career development also includes our [GitLab coaching framework](/handbook/leadership/coaching/) to support managers in holding coaching discussions with their team. 
 
-### Manager Enablement Programs
+### Leadership Development Programs
 
 GitLab has a growing [resource](/handbook/people-group/learning-and-development/manager-development/) to enable all team members transitioning to a manager role. It contains a link to a checklist, readings, and a form to help learning and development customize your development as a manager.
 
-The [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) is one of the first steps to building out a comprehensive manager enablement curriculum for People Leaders. We use daily challenges and the GitLab tool to facilitate async learning in a remote environment. We encourage new and tenured managers to sign up for an upcoming program to develop their ability to lead remote teams while learning from others in a collaborative setting. 
+**Learning programs to develop as a people leader:** 
 
+- [The Manager Challenge](/handbook/people-group/learning-and-development/)
+- [Leadership Chats](/handbook/people-group/learning-and-development/manager-challenge/leadership-chats/)
+- [Transitioning to a manager role](/handbook/people-group/learning-and-development/manager-development/)
+- [Coaching](/handbook/leadership/coaching/)
+- [Field Manager Development Program](/handbook/sales/field-manager-development/)
+
+**What's coming in FY23:**
+- New Manager Bootcamp
+- Coaching Pilot 
+- LifeLabs Learning Pilot
+- Managing at GitLab Course
+ 
 ### Self-Paced Learning 
 
 Take advantage of [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/), an online educational platform that team members have access too to help develop skills through expert-led course videos. 
 
 ### [GitLab Learn](https://gitlab.edcast.com/): EdCast Learning Experience Platform (LXP) 
 
-We are currently in the process of implementing GitLab Learn, our [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-learn/). **The LXP launched internally for GitLab team members on 2021-01-11** This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
-
-We are also in the process of launching LinkedIn Learning internally for all team members. Stay tuned for more details and the content will be supplemental to GitLab customized content and apply a [Handbook-first approach to interactive learning](/handbook/people-group/learning-and-development/interactive-learning/).
+GitLab Learn, our [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-learn/) launched internally for GitLab team members on 2021-01-11. This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
 
 ### Mentoring at GitLab
 
@@ -185,8 +194,9 @@ Additional planning and notes around the sprint board can be found in [this issu
 - Consider using the `new-initiative` issue template when planning a new learning initiative, engagement program, or program idea
 - Consider using the `content-scoping` issue template when proposing a new pathway, creating a new course, or building any new learning experience
 
- 
-### Top five training content development principles
+## Developing Learning Content
+
+### Top Five Training Content Development Principles
 
 If you are developing content to meet your learning needs or partnering with the L&D team, here are five key principles to consider when formulating a learning session: 
 
@@ -199,6 +209,7 @@ If you are developing content to meet your learning needs or partnering with the
 4. **Engage the Learner** - Adults learn through practice and involvement. Consider using tools to engage learners in a virtual setting like [Mentimeter](https://www.mentimeter.com/) or [Kahoot](https://kahoot.com/business-u/) to stimulate interactivity. Ask the [L&D team](/handbook/people-group/learning-and-development/) for more insight on learning engagement tools. There is a lot you can leverage! 
 
 5. **Implement Blended Learning Course Content** - Give the audience some pre-course work to read and review before the learning session. Use off-the-shelf resources and ensure the content is applicable to what will be covered in the session. Follow up with the audience following the session to gauge how they've applied what they've learned on the job through surveys and questionnaires. 
+
 
 ### Application of Adult Learning Theory
 
@@ -228,9 +239,11 @@ If you are developing training, add learning objectives to the beginning of the 
 - Team members will be able to apply the GROW coaching model framework to coaching sessions with members of their team 
 - After learning about the high-performance team-building model, team members will be able to determine the steps needed to reach high performance.
 
+
 ### 70-20-10 Model for Learning and Development
 
 The L&D team uses a formula to describe the optimal sources of learning at GitLab. It shows that team members obtain 70 percent of the knowledge from job-related experiences, 20 percent from interactions with others, and 10 percent from formal learning events. The model is intended to show that hands-on experience (70 percent) can be one of the most beneficial for team members because it enables them to discover and refine their job-related skills. Team members learn from others (20 percent) through a variety of activities we offer every week. Lastly, the formula holds that only 10 percent of professional development comes from traditional live learning and eLearning events. 
+
 
 ### Instructional Design 101
 
@@ -239,8 +252,9 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Be8oRHp0E84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
- 
- ### Learning Components - Definitions
+
+
+### Learning Components - Definitions
 
 | Term | Definition | Duration |
 | ------ | ------ | ------ |

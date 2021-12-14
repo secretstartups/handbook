@@ -15,7 +15,7 @@ title: GitLab Learn Admin Documentation
 On this page, team members working in the GitLab Learn platform will find documented processes and best practices for content creation. The page is split into the following sections.
 
 | Title | Purpose |
-| ----- | ----- | 
+| ----- | ----- |
 | [Best practices for content creation and organization](/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization) | Outlines best practices for creating on-brand, handbook first learning content in GitLab learn. Please get familiar with this section before creating or organizing content in GitLab Learn. |
 | [Processes, management, and maintenance of content in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#processes-management-and-maintence-of-content-in-edcast) | Outlines processes in the frontend and backend of GitLab Learn that are used to create, edit, and maintain content |
 | [Reporting](/handbook/people-group/learning-and-development/gitlab-learn/admin/#reporting) | Includes key links and trainings in EdGraph |
@@ -109,7 +109,7 @@ Watch this video that explains the difference between public and private content
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MDu7CbyNHj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Step 2: Build smartcards depending on content status 
+#### Step 2: Build smartcards depending on content status
 
 This video outlines the three scenarios for building public versus private content outlined below:
 
@@ -123,7 +123,7 @@ This video outlines the three scenarios for building public versus private conte
 
 **Example:** L&D creates a publicly available course called GitLab 101. The SmartCards for this course link to the handbook and should be public to all users in the platform. The team will create each SmartCard independently in the EdCast platform, then add them all to a Pathway. Quizzes for the course will be created within the Pathway to utilize progressive unlocking features. The course can be broadcasted on public channels for new learners to discover the content.
 
-##### Building `private` content 
+##### Building `private` content
 
 1. Build Smartcards within a Pathway or Journey
 1. Make sure the `private` content checkbox is checked for SmartCards, Pathways, and Journeys
@@ -144,7 +144,7 @@ If parts of the content are for a certain audience and parts are available to al
 
 **Example:** L&D hosts a [manager challenge course](/handbook/people-group/learning-and-development/manager-challenge/) with graded content for a specific group of learners. The team wants the manager content available for the wider community but needs the graded content to be restricted to assigned learners. SmartCards with public content will be built independently of any Pathway, then added to the private manager challenge Pathway. SmartCards with private content will be built within the private manager challenge Pathway. This private Pathway will be assigned to specific audiences and the wider community can discover content in SmartCards.
 
-There is also the option to organize these public SmartCards into a second Pathway that the wider community can access without the graded requirements. Perhaps a quick quiz or poll could be utilized here instead. 
+There is also the option to organize these public SmartCards into a second Pathway that the wider community can access without the graded requirements. Perhaps a quick quiz or poll could be utilized here instead.
 
 #### Step 3: Sharing private content with the right audience
 
@@ -156,7 +156,7 @@ Please review these key structures and how they can impact **who can access your
 
 **Important Note: The first line in the table below is the ONLY way to ensure your content is truly restricted to a specific audience.**
 
-| Content Type | Shared With | Who can Access | 
+| Content Type | Shared With | Who can Access |
 | ----- | ----- | ----- |
 | Private | Private Group or Private Channel | Only members of that Group or people added to the Channel |
 | Public | Public Group or Public Channel | Anyone in the Group or Channel and discoverable via search |
@@ -187,7 +187,7 @@ Badges are available with the creation of both pathways and journeys and are awa
 Teams should choose to use a badge to recognize learners achievements when:
 
 - Learning Pathways are completed
-- Journeys that do not require an official certification or accreditation 
+- Journeys that do not require an official certification or accreditation
 - Setting goals, motivating behaviors, representing achievements, and communicating success
 
 Follow the steps below for [creating a badge in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#creating-a-badge)
@@ -199,7 +199,7 @@ Watch this video to review how to add badges to a Pathway or Journey:
 
 ### Image guidelines
 
-Images in the LXP enable us to: 
+Images in the LXP enable us to:
 
 - maintain a look and feel that aligns with the GitLab brand
 - help users identify different kinds of content in the platform
@@ -221,7 +221,7 @@ Keep the following in mind when choosing a photograph:
 
 1. Look for opportunities to demonstrate [GitLab culture](/company/culture/). For example, consider choosing an image of a learner working on their laptop to reflect [all-remote work](/company/culture/all-remote/), two people working together to demonstrate [collaboration](https://about.gitlab.com/handbook/values/#collaboration), or a family or small group of friends learning together to reflect [friends and family first, work second](/handbook/values/#family-and-friends-first-work-second)
 1. Choose inclusive images that reflect our values of [Diversity, Inclusion, and Belonging](/company/culture/inclusion/)
-1. Look for opportunities to use images that demonstrate learning. This could include virtual classroom discussion, social learning/networking, working on a project, use of mobile, leadership talks, etc. 
+1. Look for opportunities to use images that demonstrate learning. This could include virtual classroom discussion, social learning/networking, working on a project, use of mobile, leadership talks, etc.
 1. Avoid images of large groups as it could make content look out of date
 1. Keep the focal point of the image in the middle to enable better cropping and addition of the image overlays described below
 
@@ -329,7 +329,7 @@ If a course is required by specific users to complete, it's best pracitce to ass
 1. Learning Evangeslists, Content Administrators, and Platform Administrators in GitLab Learn can make learning assignments. Navigate to the SmartCard, Pathway, or Journey you want to assign and click the 3 dots on the top right corner of the card. Here you have the option to `Assign`. You can assign to individuals, groups, or channels. Assigning to the `GitLab Internal Team Members` group is the most common use case for required GitLab trainings.
 1. When learning is assigned, users get an email notification to alert them about the newly assigned item
 1. When making an assignment, you can add a message. This message appears in the email subject line of the assignment notification email
-1. You can also add a start and due date to the assignment. 
+1. You can also add a start and due date to the assignment.
 1. Notifications about the upcoming due dates on assigned content are pushed to users 6 days before, 2 days before, and on the due date of the assignment
 1. When assinging content, consider the following
      1. Is it absolutely required by the learner? If not, use the `Share` method instead of making an assignment
@@ -358,7 +358,7 @@ Engage learners in groups using the following practices
 
 ##### Dynamic Group Workflows
 
-Dynamic group workflows automatically add users to groups based on user account settings. The integration with BambooHR allows GitLab team members to be sorted by team, role, location, etc. All data available to sort by in dynamic group workflows can be viewed in the `User` section under the `Accounts` tab. 
+Dynamic group workflows automatically add users to groups based on user account settings. The integration with BambooHR allows GitLab team members to be sorted by team, role, location, etc. All data available to sort by in dynamic group workflows can be viewed in the `User` section under the `Accounts` tab.
 
 The following steps describe the process for creating a new dynamic group workflow.
 
@@ -393,7 +393,7 @@ When building a dynamic group workflow for team members, be sure to include the 
 
 #### Broadcasting on Channels
 
-Channels are used to collect and broadcast information based on like content. Users can follow channels to stay up to date on all new learning content in a specific area of interest. 
+Channels are used to collect and broadcast information based on like content. Users can follow channels to stay up to date on all new learning content in a specific area of interest.
 
 1. Use Channels to share content with a wider audience. For example, if the L&D team created a training on effective communication for the GitLab team and assigned it to the GitLab team group, the same content could be shared on a Remote Communication Channel so the wider community could train on this course as well
 1. Channels should have a clear title and description that defines what content the user will find in the channel
@@ -437,7 +437,7 @@ A workaround for this limitation is outlined below. If you'd like a `Collaborato
 
 The discover page is the page where learners will land upon logging into the LXP. On this page, users can discover new content, navigate to their followed channels, find their groups, and more.
 
-The discover page can be leveraged by admin to: 
+The discover page can be leveraged by admin to:
 
 - advertise new learning opportunities
 - share new channels
@@ -447,10 +447,10 @@ The discover page is also curated based on the user. For example, if a carousel 
 
 Use these best practices when designing and updating the discover page in EdCast:
 
-1. Consider multiple user perspectives when adding static content to the discover page. For example, the first iteration of the discover page includes links to EdCast user docs, which is relevant for all users in their first few times accessing the platform 
+1. Consider multiple user perspectives when adding static content to the discover page. For example, the first iteration of the discover page includes links to EdCast user docs, which is relevant for all users in their first few times accessing the platform
 1. Use custom carousels to organize content by topic. Carousels can display either channels or users
 1. Custom carousels with channels should be clearly named and invite the learner to explore a specific topic
-1. Custom carousels with users should feature engaged learners and leaders in the platform 
+1. Custom carousels with users should feature engaged learners and leaders in the platform
 1. Leverage a carousel of groups by creating SmartCards that link directly to groups that you want to highlight
 
 
@@ -519,7 +519,7 @@ Project SmartCards are used to collect URL project submissions from users. Use c
 
 #### Using iframes and the Rich Text Editor (RTE) EdCast feature
 
-EdCast has enabled a Rich Text Editor(RTE) that enables iframes in text SmartCards. This is a great way to create [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning) directly in GitLab Learn. 
+EdCast has enabled a Rich Text Editor(RTE) that enables iframes in text SmartCards. This is a great way to create [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning) directly in GitLab Learn.
 
 To use the RTE:
 
@@ -528,7 +528,7 @@ To use the RTE:
 1. Include your iframe directly in the text box on the text card. For best practices for building iframes, refer to how we use [iframes in Articulate360](/handbook/people-group/learning-and-development/interactive-learning/#using-iframes-to-display-the-gitlab-handbook)
 1. If you'd like to upload a photo, you can do so in the text card. This photo will be used as the thumbnail image on the card when it appears in Pathways, Journeys, etc.
 
-If you have access to our Sandbox instance, you can see a couple of examples there. This is an example of [no scrolling](https://gitlabsandbox.edcast.com/insights/using-iframes-for-handbook-first-learning) which can be used to focus on a specific section or a video. This is an example of [scrolling](https://gitlabsandbox.edcast.com/insights/test-learning) if you are wanting to include an entire handbook page. 
+If you have access to our Sandbox instance, you can see a couple of examples there. This is an example of [no scrolling](https://gitlabsandbox.edcast.com/insights/using-iframes-for-handbook-first-learning) which can be used to focus on a specific section or a video. This is an example of [scrolling](https://gitlabsandbox.edcast.com/insights/test-learning) if you are wanting to include an entire handbook page.
 
 ### Editing Journeys, Pathways, and SmartCards
 
@@ -608,7 +608,7 @@ When a user returns to/completes a Pathway or Journey after new content is added
 1. After removing any Channels, Groups, or Assignments from the Pathway, mark the Pathway as `private`.
 1. Return to the V2 of your Pathway and rename it to the correct title of the Pathway
 1. Make necessary updates to the V2 Pathway quizzes.
-1. This V2 Pathway is now the most up to date version of the Pathway content. Reshare this new V2 Pathway with any related Channels, Groups, or Assignments. 
+1. This V2 Pathway is now the most up to date version of the Pathway content. Reshare this new V2 Pathway with any related Channels, Groups, or Assignments.
 1. After resharing the new pathway, include the following line in the description
 
 `As of [YYYY-MM-DD] this pathway has been updated. For any users who were already in progress on this pathway, your completion % may have decreased or you may no longer be able to access some smartcards. Please review any previously completed quizzes in the pathway and ensure they are complete to restore your progress.`
@@ -628,14 +628,14 @@ When a user returns to/completes a Pathway or Journey after new content is added
 1. In the `setup` tab, define the following for your channel:
      - Name: This is the name users will see on the discover page and across the top of the channel
      - Description: Provide a short text description about content this channel will broadcast
-     - Profile image: Refer to the image guidelines below 
+     - Profile image: Refer to the image guidelines below
      - Topics: Add at least 3 topics to categorize content that will be in this channel. This will help users discover the channel in the platform
      - Provider: Define who is creating the channel or where the content is coming from. For example, 'GitLab Field Enablement Team'. This step is not required.
      - Provider Image: Add an image to correspond with the provider above. This step is not required. This image will overwrite the channel image
      - Private, Open, Allow Follow, and Automated Pin Cards: Confirm all permissions
 1. Click `save channel`
 1. After you click `save channel`, the following tabs will open for editing: `content`, `people` and `carousels`
-1. These tabs will allow you to further define permissions for your channel. These are not required to create your channel, but will help customize and organize content. 
+1. These tabs will allow you to further define permissions for your channel. These are not required to create your channel, but will help customize and organize content.
 
 **Documentation Note:** For the purposes of MVC documentation, the L&D team will stop channel documentation here and iterate in the future as we discover how customization within these additional tabs can be leveraged.
 
@@ -646,7 +646,7 @@ When a user returns to/completes a Pathway or Journey after new content is added
 1. Click on `channels`
 1. Here, you can turn the `promotion` tab on or off if you'd like to promote the channel
 1. You have the option to delete or view the history of the channel, see the title, and related user information
-1. Locate the channel you'd like to edit in the list. Click on the small pencil button to edit. 
+1. Locate the channel you'd like to edit in the list. Click on the small pencil button to edit.
 1. Follow the steps above for `Creating a new channel` to make any edits or updates to the existing channel
 
 #### Creating custom carousels on a channel
@@ -656,10 +656,10 @@ Custom carousels in a channel can help organize and guide users to highlighted c
 1. Login to Edcast and navigate to the `admin` panel
 1. Click on the `content` tab
 1. Click on `channels`
-1. Locate the channel you'd like to edit in the list. Click on the small pencil button to edit. 
+1. Locate the channel you'd like to edit in the list. Click on the small pencil button to edit.
 1. Click on the `carousels` tab on the top right corner
 1. From here, you can `enable` or `disable` existing carousels
-1. You can also create new carousels here. Enter the name of your new carousel and click on the `create carousel` button 
+1. You can also create new carousels here. Enter the name of your new carousel and click on the `create carousel` button
 1. When the new carousel has been created, click the small pencil button to edit.
 1. Click the `add item` box to add content to that carousel. Remember that only shared content to the specific channel will appear here.
 1. The changes will save automatically. Navigate to the channel in the GitLab Learn front end and refresh the page to see your changes
@@ -717,7 +717,7 @@ On a channel’s homepage you have the option to feature content you may want to
 1. Click on `custom carousels`
 1. Here, you can edit and enable/disable carousels. Disabled carousels will not be visible on the Discover page
 1. Click on the pencil icon
-1. In editing a carousel, you can change the style and add channels, users, or SmartCards. When you're done editing, click the `done` button to save your changes 
+1. In editing a carousel, you can change the style and add channels, users, or SmartCards. When you're done editing, click the `done` button to save your changes
 1. You can update the name of your carousel. Click the `update carousel name` button to save your changes
 
 
@@ -820,7 +820,7 @@ Existing reports on EdGraph key dashboards can be filtered and saved to create a
 
 ##### Using data sets to build custom reports
 
-This process is currently being built by the L&D, Field Enablement and PeopleOps team at GitLab. Additional information can be found in previous office hours recordings in this [Google Drive folder](https://drive.google.com/drive/u/1/folders/1RMqJqYNwO2KMjnDKb5FwNxvwDHCcmbk6) 
+This process is currently being built by the L&D, Field Enablement and PeopleOps team at GitLab. Additional information can be found in previous office hours recordings in this [Google Drive folder](https://drive.google.com/drive/u/1/folders/1RMqJqYNwO2KMjnDKb5FwNxvwDHCcmbk6)
 
 ### Building Custom Dashboards
 
@@ -835,13 +835,13 @@ This process is currently being built by the L&D, Field Enablement and PeopleOps
 1. In the vertical navigation bar, you'll see the option to add `Header`, `Layout`, `Card`, `Image`, `Text` and `Border`. Review the use case for each element in the chart below:
 
 | Element | Use |
-| ----- | ----- | 
-| Header | Text header to give titles on your dashboard | 
-| Layout | Built-in organization options for multiple report cards | 
-| Card | A single report card | 
-| Image | Upload and display an image to the dashboard | 
+| ----- | ----- |
+| Header | Text header to give titles on your dashboard |
+| Layout | Built-in organization options for multiple report cards |
+| Card | A single report card |
+| Image | Upload and display an image to the dashboard |
 | Text | Add a textbox |
-| Border | Add a solid horizontal line to delineate space on the dashboard | 
+| Border | Add a solid horizontal line to delineate space on the dashboard |
 
 {Video training coming soon}
 
@@ -850,7 +850,7 @@ This process is currently being built by the L&D, Field Enablement and PeopleOps
 1. Navigate to the report you want to share. This could be a built-in report from one of the EdGraph dashboards, or a custom report you've already built.
 1. Click the drop down toggle image in the top right hand corner of the report and select `Save As`. This will create a copy of the original report and save the copy to your selected dashboard.
 1. Rename the report how you'd like and add a description if needed.
-1. From the drop down menu, select the dashboard you'd like to save the report to. 
+1. From the drop down menu, select the dashboard you'd like to save the report to.
 1. The `Take me to the new card when I'm done` option is auto-checked. If you'd like to stay on the current page in EdGraph, remember to uncheck this box. If you'd like to automatically go to this new report, keep the box checked.
 1. Click `Save`
 1. Navigate to the dashboard where the report was saved. The report will appear in the `Appendix` section at the bottom of the report. From here, you can edit and filter the report, change the display, and stylize/arrange the report on your dashboard.
@@ -865,7 +865,7 @@ Stylized dashboards can:
 1. organize data by learning experience, audience, and other factors
 1. quickly communicate key results to stakeholders.
 
-This training video demonstrates some of the stylized additions you can make to your dashboards. Please not this is not an expansive training and that taking time to explore Domo and EdGraph is one of the best ways to try out different dashboard style options and arrangements. 
+This training video demonstrates some of the stylized additions you can make to your dashboards. Please not this is not an expansive training and that taking time to explore Domo and EdGraph is one of the best ways to try out different dashboard style options and arrangements.
 
 {Video training coming soon}
 
@@ -914,7 +914,7 @@ Ideal report requirements:
 
 1. Open [team members who complete 1+ course all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1671460122)
 1. Click `edit in analyzer`
-1. Confirm filters: 
+1. Confirm filters:
      - `GitLab Internal` = `t`
      - `User Full Name` = `Select All` then hit `Apply`
 1. Set date range to `All Time`
@@ -928,7 +928,7 @@ Note: Completed courses is equal to total completions of Journeys and Pathways i
 
 1. Open [team members who complete 1+ course all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1671460122)
 1. Click `edit in analyzer`
-1. Confirm filters: 
+1. Confirm filters:
      - `GitLab Internal` = `t`
      - `User Full Name` = `Select All` then hit `Apply`
 1. Set date range to `Between` then choose first and last days of the desired month
@@ -1028,7 +1028,7 @@ This chart outlines common questions and triage actions taken by the L&D team:
 
 #### Customers and community members support via Zendesk
 
-Zendesk will be our main hub for providing user support for external audiences on GitLab Learn. 
+Zendesk will be our main hub for providing user support for external audiences on GitLab Learn.
 
 Customers and community members will be directed to open a ticket using the professional services contact form.
 
@@ -1062,7 +1062,7 @@ F--Free-->H;
 
 The workflow for customers using the LXP will be determined by the Professional Services team via the `paid` Zendesk view.
 
-##### Community support workflow using Zendesk (Free Users)
+##### Community assistance workflow using Zendesk (Free Users)
 
 Zendesk tickets from users with free GitLab accounts or without a GitLab.com account will be routed to the `free` view and processed by the LXP admin.
 
@@ -1085,7 +1085,7 @@ Important considerations when responding to questions in the forum:
 
 The following Zendesk macros are set up in the Professional Services Zendesk view to provide efficient support to free and paid users:
 
-| FAQ | Macro Title| 
+| FAQ | Macro Title|
 | ----- | ----- |
 | Team member opens a Zendesk ticket for support | Send `Professional Services -> Team-member-ticket` macro in Zendesk |
 | How do I share my GitLab Learn badges externally? | Send `Professional Services -> Share-badge` macro in Zendesk |
@@ -1099,11 +1099,11 @@ The following Zendesk macros are set up in the Professional Services Zendesk vie
 This process will delete the user from EdCast, EdGraph and the CEP Marketplace.
 
 1. Document the deletion request in [this Google sheet](https://docs.google.com/spreadsheets/d/1lncdFnLYa3eY_v503abvGviVzVh5fwllbvqrbYMFdss/edit#gid=920552359), visable only to some GitLab team members
-1. Open the `admin` panel 
+1. Open the `admin` panel
 1. Find the user via email
 1. Select the checkbox associated with the user account and click the `Delete User` button
 1. Confirm `Yes` or `No` that you'd like to delete the user
-1. The deletion should happen real time, but could take up to 30 minutes to actually remove the accounts. 
+1. The deletion should happen real time, but could take up to 30 minutes to actually remove the accounts.
 If you can't confirm the deletion was immediate, wait 30 minutes and check in the admin panel for confirmation before following up with the user.
 1. Confirm via email or Zendesk ticket with the user that their account has been deleted
 
@@ -1115,26 +1115,7 @@ The `gitlablearn@gmail.com` will trigger a new professional services Zendesk tic
 
 #### Zendesk macro for free users
 
-```
-Hello,
-
-Thanks for contacting GitLab Support with your questions about the GitLab Learn platform.
-
-Please note, you have opened this ticket through our paid support channel and we were unable to automatically determine your GitLab.com subscription. If you do not have a subscription, or you are on a trial, be aware that only **community support** is included; consider searching for and posting your question in our [community forum](https://forum.gitlab.com/) if you haven't already.
-
-If you're looking for support regarding a frequently asked question, please take a moment to review our [GitLab Learn user documentation](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/).
-
-The Learning and Development team will address community member support questions as capacity allows.
-
-For additional information on our support policies and the community-driven support resources available to you, please see our [statement of support](https://about.gitlab.com/support/statement-of-support.html#free-plan-users).
-
-
-If you believe that you received this response in error and already have a GitLab.com subscription, please reply with the organization or subscriber name and the email address the subscription was purchased under.
-
-Sincerely, 
-
-The GitLab Learning and Development Team
-```
+The contents of the `General::Self-managed or GitLab.com Free User Request` macro can be located [here](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Self-managed%20or%20GitLab.com%20Free%20User%20Request.yaml).
 
 ### Admin Support
 
@@ -1160,12 +1141,12 @@ Submit a feature request to EdCast by either
 - Analytics / Reporting
 - Users / Onboarding
 - Group Management
-- Content Curation 
+- Content Curation
 - Integrations
 - Notifications
-- Mobile 
+- Mobile
 - Other
- 
+
 2. In what way would the Enhancement Request enhance or impact your business(align use case)
 - [ ] Quality / Performance improvements
 - [ ] Will drive usage, engagement and adoption
@@ -1174,10 +1155,10 @@ Submit a feature request to EdCast by either
 - [ ] Affects ability to achieve specific business goals (specify)
 - [ ] Affects planned rollout, adoption and initiatives.
 - [ ] Other
- 
+
 3. Enhancement Description - Please provide a detailed description of the business problem and use cases. Specify affected user flow, steps to recreate the scenario, add screenshots/videos.
- 
-4. Expected Outcome - Please provide a detailed description of what the expected outcome of the enhancement request would be. Please specify how these outcomes help achieve business goal(s), 
+
+4. Expected Outcome - Please provide a detailed description of what the expected outcome of the enhancement request would be. Please specify how these outcomes help achieve business goal(s),
 5. Why is this feature important (State the business impact)
 
 6. What is the level of urgency and expected timeframe? In months & quarters. If possible, quantify the value associated with business impact. (Remember, if everything is urgent then nothing is!)
@@ -1194,13 +1175,13 @@ Submit a feature request to EdCast by either
 1. Email `support@edcast.com` using the below template, adding as much detail as possinble:
 
 ```
- 
+
 1. Incident Details
 - Date / time of the incident
-- User Information 
+- User Information
 - No of users affected
- 
-2. Subject Area 
+
+2. Subject Area
 - Admin Functionality
 - SmartCards / Journeys / Pathways
 - Search
@@ -1209,11 +1190,11 @@ Submit a feature request to EdCast by either
 - Analytics / Reporting
 - Users / Onboarding
 - Group Management
-- Content Curation 
+- Content Curation
 - Integrations
 - Notifications
 - Other
- 
+
 3. Incident Description - Please provide a detailed description.
 
 4. Are you able to reproduce this incident in test environment (Yes/ No)
@@ -1238,7 +1219,7 @@ Submit a feature request to EdCast by either
 
 ```
 Below is the information that would be needed when opening a “mobile” related support ticket.
- 
+
 - Incident Details
 - Date / time of the incident
 - User Information -
@@ -1269,14 +1250,14 @@ Submit a feature request to EdCast by either
 1. Opening a ticket in the [Enterprise Support Community](https://edcast-support.force.com/s/)
 1. Email `support@edcast.com` using the below template, adding as much detail as possinble:
 
-``` 
+```
 1. Incident Details
 - Date / time of the incident
 - User Information - user credentials
 - No of users that are encountering the same behavior
 - Location - is the incident isolated to user’s location or is it global
- 
-2. Subject Area 
+
+2. Subject Area
 - Admin Functionality
 - SmartCards / Journeys / Pathways
 - Search
@@ -1285,11 +1266,11 @@ Submit a feature request to EdCast by either
 - Analytics / Reporting
 - Users / Onboarding
 - Group Management
-- Content Curation 
+- Content Curation
 - Integrations
 - Notifications
 - Other
- 
+
 3. Incident Description - Please provide a detailed description.
 
 4. Are you able to reproduce this incident in test environment (Yes/ No)
@@ -1302,7 +1283,7 @@ Submit a feature request to EdCast by either
 
 8. Please provide video recording of the user behavior
 
-9. Please provide a (HAR) file. 
+9. Please provide a (HAR) file.
 
 10. Any additional information that you would like to share with the support team
 ```
@@ -1370,4 +1351,3 @@ Sincerely,
 {{agent.firstname}}
 
 ```
-

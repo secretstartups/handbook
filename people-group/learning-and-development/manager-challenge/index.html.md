@@ -11,23 +11,25 @@ title: Manager Challenge
 
 ## Introduction
 
-Welcome to the GitLab Manager Challenge page. The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](/handbook/leadership/#books/). 
+Developing mangerial skills is no small task. While taking on a new or expanded role as a manager brings great rewards, it also introudces new challenges. To be successful as a manager it requires management training that develops your ability to lead a functioning team while implementing management skills and abilities such as adaptive leadership, building trust, psychological safety, and conflict resolution. 
 
-L&D will be rolling out a new iteration of the program and the next Manager Challenge will start on 2022-02-07 to 2022-02-18. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/78). **Currently, the program is being offered to GitLab team members only.**
+The Manager Challenge addresses your specific needs to understand the qualities of a good leader and to master practical leadership styles that empower you to become a confident mangager. Effective leadership is grounded in your understanding of powerful interpersonal skills that inspire performance, communication, team member retention, and motivation to achieve results. 
+
+Join us for the next Manager Challenge will run from **2022-02-07 to 2022-02-25**. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/78). **Currently, the program is being offered to GitLab team members only.**
 
 ### Leadership Development Award   
 
-The Manager Challenge was awarded a Gold Excellence in Leadership Development by the [Brandon Hall Group for the Best Unique and Innovative Leadership Development Program](http://www.brandonhall.com/excellenceawards/excellence-leadership.php?year=2021#BestUniqueorInnovativeLeadershipProgram). Brandon Hall operates the largest and longest running awards in Human Capital Management. The GitLab program was evaluated by a panel of learning and development veterans, senior industry experts, analysts, and executives. L&D is thrilled to have been recognized for this achievement! 
+The program was awarded a Gold Excellence in Leadership Development by the [Brandon Hall Group for the Best Unique and Innovative Leadership Development Program](http://www.brandonhall.com/excellenceawards/excellence-leadership.php?year=2021#BestUniqueorInnovativeLeadershipProgram). Brandon Hall operates the largest and longest running awards in Human Capital Management. The GitLab program was evaluated by a panel of learning and development veterans, senior industry experts, analysts, and executives. L&D is thrilled to have been recognized for this achievement! 
 
 ![picture-of-gold-in-leadership-excellence award](Gold-LD-Award-2021-01.png){: .shadow.medium.center}
 
 ### Team Member Time Investment Level
 
-If you plan to participate in the Manager Challenge, please discuss with your manager. Let them know you are interested and will be dedicating the two weeks to actively participating. This is not like the [CEO Shadow program](/handbook/ceo/shadow/), but the Manager Challenge will **require a heavy time investment**. If you plan to participate, try to do everything you can to block one to two hours each day during the program. This is an intensive program with the goal of covering a lot of material in a short amount of time to increase knowledge retention! **There will be more synchronous activities this challenge due to feedback from past participants.**
+If you plan to participate in the Manager Challenge, please discuss with your manager. Let them know you are interested and will be dedicating the three weeks to actively participating. This is not like the [CEO Shadow program](/handbook/ceo/shadow/), but the Manager Challenge will **require a heavy time investment**. If you plan to participate, try to do everything you can to block one to two hours each day during the program. This is an intensive program with the goal of covering a lot of material in a short amount of time to increase knowledge retention! **There will be more synchronous activities, less async, this challenge due to feedback from past participants.**
 
 Make the program part of your [career development](/handbook/people-group/learning-and-development/career-development/), and include in your [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources-1).
 
-L&D will be making some significant changes to the program in the meantime, but expect to dedicate 1 hour (daily challenges) to and 1.5 hours (live learnings) each day during the program. Some participants, request additional time to complete the async activities so please plan accordingly. 
+L&D is making some significant changes to the program in the meantime, but expect to dedicate 1 hour (daily challenges) to and 1.5 hours (live learnings) each day during the program. Some participants, request additional time to complete the async activities so please plan accordingly. 
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
@@ -38,12 +40,11 @@ All details relating to the next iteration of the Manager Challenge program can 
 ### Manager Challenge Learning Objectives
 
 You may be asking yourself what you will achieve by taking part in the Manager Challenge program! Our goal is that participants walk away with the following skills after completing the four-week challenge: 
+
 - Improve your team performance by strengthening management skills
 - Develop a management style that incorporates a whole-person approach to leading others
 - Apply and learn GitLab Leadership best practices into your management role
-- Demonstrate the application of High Output Management principles 
 - Evaluate difficult management situations with greater certainty in your decisions
-- Practice emotional intelligence to improve leadership and build more effective relationships with your people
 - Build an inclusive environment for your people that is built on trust
 
 Below is a video L&D recorded with Sid on manager enablement: 
@@ -105,7 +106,7 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 
 The below curriculum will be updated for the October program: 
 
-During week two we will discuss **Effective Communications with Your Team**. Information covered in week two can be found on the following handbook pages and external sites: 
+During week two, we will discuss **Effective Communications with Your Team**. Information covered in week two can be found on the following handbook pages and external sites: 
 - [Leadership ](/handbook/leadership/)
 - [1-1](/handbook/leadership/1-1/)
 - [Guidance on Feedback](/handbook/people-group/guidance-on-feedback/)

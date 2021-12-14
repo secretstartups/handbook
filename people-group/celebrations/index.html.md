@@ -42,6 +42,8 @@ The event in question must pertain to a GitLab Team Member or the immediate fami
 
 Managers can facilitate the ordering of Flowers or Gifts for delivery, but please note that you are unable to send restaurant gift cards at this time.  In an instance where you would like to extend the offer of a meal or food delivery service, this will need to be expensed by the recipient for reimbursement.
 
+**Please note: The intended recipient will need to provide their residential address directly for the purposes of flower / gift delivery - personal information may not be disclosed without team member consent.**
+
 Recommended sites:
 - [1-800 Flowers](https://www.1800flowers.com/) 
 - [Flora Queen](https://www.floraqueen.com/) 
@@ -51,8 +53,6 @@ The budget for sending these gifts will come from the department budget of the g
 To make sure the reports in Expensify are routed correctly, managers will need to be sure to fill in the correct division and department. Managers will also need to be sure to use `FY22_EmployeeGiftsFlowers` in the `classification` section of the expense.  
 
 For any further questions regarding expensing of flowers or gifts, please reach out to the AP team at `ap@gitlab.com`
-
-** Please note: The intended recipient will need to provide their residential address directly for the purposes of flower / gift delivery - personal information may not be disclosed without team member consent.  
 
 ### Sending an E-Card
 
