@@ -114,7 +114,15 @@ defining a clear vision and team/service boundaries going forward.
 | Executive Sponsor     | Sid Sijbrandij        | CEO                                             |
 | Facilitator           | Marshall Cottrell     | Principal Strategy and Operations (Technical)   |
 | Functional Lead       | Jerome Z Ng           | Senior Engineering Manager, Fulfillment         |
-| Member                |                       |                                                 |
-| Member                |                       |                                                 |
+| Member                | Steve Loyd            | VP Infrastructure                               |
+| Member                | Bryan Wise            | VP of IT                                        |
+| Member                | Robert Rea            | Senior Director, IT Ops                         |
+| Member                | Chase Southard        | Engineering Manager, Fulfillment:Utilization    |
+| Member                | Daniel Parker         | Senior Integrations Engineer, Business Technology |
+| Member                | Mark Quitevis         | Senior Business Systems Analyst, Business Technology |
+| Member                | Courtney Meddaugh     | Senior Business Systems Analyst, Business Technology |
+| Member                | Jack Brennan          | Senior Director, Sales Systems                  |
+| Member                | Vincy Wilson          | Manager, Quality                                |
+| Member                | Chloe Liu             | Senior Software Engineer in Test, Quality       |
 
 
