@@ -89,7 +89,7 @@ SAFE Data in Google Sheets files can be accessed using the instructions for [Acc
 * [TD: Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr/)
 * [Opportunity to Subscription Mapping](/handbook/business-technology/data-team/data-catalog/opportunity_subscription_mapping/)
 * [Zuora Revenue Waterfall](/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
-* [TD: Available to Renew (/handbook/business-technology/data-team/data-catalog/available_to_renew/)]
+* [TD: Available to Renew](/handbook/business-technology/data-team/data-catalog/available_to_renew/)
 
 ### Product
 
