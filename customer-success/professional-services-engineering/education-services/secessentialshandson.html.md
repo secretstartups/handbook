@@ -16,10 +16,10 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 ## GitLab Security Essentials Labs
 * [Lab 1: Enable, configure, and run SAST, Secret Detection, and DAST](./secessentialshandson1.html)
 * [Lab 2: Enable, configure, and run Dependency Scanning](./secessentialshandson2.html)
-* [Lab 3: Add manual k6 Load testing](./secessentialshandson3.html)
-* [Lab 4: Run a fuzz test](./secessentialshandson4.html)
-* [Lab 5: Build and Push an Image and Run Container Scanning](./secessentialshandson5.html.md)
-* [Lab 6: Create Network Policies (YAML edition)](./secessentialshandson6.html.md)
+* [Lab 3: Enable, configure, and run License Compliance](./secessentialshandson3.html)
+* [Lab 4: Enable, configure, and run Coverage-Guided Fuzz Testing](./secessentialshandson4.html)
+* [Lab 5: Build and Push an Image and Run Container Scanning](./secessentialshandson5.html)
+* [Lab 6: Create Network Policies (YAML edition)](./secessentialshandson6.html)
 
 
 ## Quick links
