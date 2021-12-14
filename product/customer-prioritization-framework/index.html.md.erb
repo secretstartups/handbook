@@ -97,16 +97,16 @@ If you are adding a link to an issue or epic, here are some guidelines on how to
 
 | Label | Impact |
 | ----- | ------ |
-| `customer priority::10` | **Blocker:** The account is likely to churn or we will not be able to win the opportunity because the customer or prospect is unable to address their business needs without it.  |
-| `customer priority::9` | |
-| `customer priority::8` | |
-| `customer priority::7`  | **Critical:** Not having an adequate solution to the problem is causing a significant loss of productivity or inability to achieve the desired business outcomes.|
-| `customer priority::6` | |
-| `customer priority::5` | |
-| `customer priority::4`  | **Major:** There is currently a workaround, but it's not ideal and should addressed in the near future. |
-| `customer priority::3` | |
-| `customer priority::2` | |
-| `customer priority::1`  | **Low:** Purely a quality of life improvement but does not prevent the customer or prospect from realizing the value of GitLab. |
+| `~customer priority::10` | **Blocker:** The account is likely to churn or we will not be able to win the opportunity because the customer or prospect is unable to address their business needs without it.  |
+| `~customer priority::9` | |
+| `~customer priority::8` | |
+| `~customer priority::7`  | **Critical:** Not having an adequate solution to the problem is causing a significant loss of productivity or inability to achieve the desired business outcomes.|
+| `~customer priority::6` | |
+| `~customer priority::5` | |
+| `~customer priority::4`  | **Major:** There is currently a workaround, but it's not ideal and should addressed in the near future. |
+| `~customer priority::3` | |
+| `~customer priority::2` | |
+| `~customer priority::1`  | **Low:** Purely a quality of life improvement but does not prevent the customer or prospect from realizing the value of GitLab. |
 
 ### Priority point value
 
@@ -122,7 +122,7 @@ The score of an issue or epic taking into account all retention priority points 
 
 The value for each account is calculated on a per issue basis as follows:
 
-`account retention score = customer priority::1-10 x retention priority point value`
+`account retention score = ~customer priority::1-10 x retention priority point value`
 
 Once we have the scores for each unique account that is linked to an issue or epic, we sum them to get the retention score for the issue:
 
@@ -134,7 +134,7 @@ The score of an issue or epic taking into account all growth priority points and
 
 The value for each opportunity is calculated on a per issue basis as follows:
 
-`account growth score = customer priority::1-10 x growth priority point value`
+`account growth score = ~customer priority::1-10 x growth priority point value`
 
 Once we have the scores for each unique account's opportunities that are linked to an issue or epic, we sum them to get the growth score for the issue:
 
@@ -168,7 +168,7 @@ Growth urgency is a function of an opportunity close date and win probability. T
 | 40-60%        | 1.25              | 1.5                | 2.0             |
 | 0-39%           | 1.5                | 2.0                | 2.5              |
 
-Priority score is calculated similar to how retention score, growth score, and the combined score but layers in the dimension of retention and growth urgency to the model. 
+Priority score is calculated similar to how retention score, growth score, and combined score but layers in the dimension of retention and growth urgency to the model. 
 
 1. Calculate account retention scores with urgency for an issue - `account retention score with urgency = account retention score x account urgency`
 1. Aggregate account retention scores with urgency - `retention score with urgency = SUM(account retention score with urgency, account retention score with urgency, ...)`
