@@ -41,14 +41,27 @@ If you're a GitLab team member looking for help with a security problem, please 
 - See the [GitLab Support On-Call Guide](/handbook/support/on-call/) for a more
   comprehensive guide to handling customer emergencies.
 
-## Reliability Engineering Team On-Call Rotation
+## GitLab.com Reliability On-Call Rotation
+
+### Infrastructure Engineer On-Call
 
 The Infrastructure department's Reliability Engineering teams provide 24x7 on-call coverage for the production environment. For details, please see [incident-management](/handbook/engineering/infrastructure/incident-management/).
 
-## Incident Manager On-Call (IMOC)
+### Engineering Incident Manager On-Call (IMOC)
 
 - Incident manager on-call rotation is staffed by certain [team members in the Development and Infrastructure departments](https://about.gitlab.com/handbook/engineering/infrastructure/incident-manager-onboarding/#who-are-the-incident-managers).
 - More information regarding the Incident Manager role, including shift schedules, responsibilities can be found in the [Incident Manager on-boarding page](https://about.gitlab.com/handbook/engineering/infrastructure/incident-manager-onboarding/#who-are-the-incident-managers). 
+
+### Development Team On-Call Rotation
+
+- This on-call process is designed for GitLab.com operational issues that are escalated by the Infrastructure team.
+- Development team currently does NOT use PagerDuty for scheduling and paging. On-call schedule is maintained in this [schedule sheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit#gid=0).
+- Issues are escalated in the Slack channel [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4) by the Infrastructure team.
+- First response SLO is 15 minutes. If no response within the first 5 minutes, the infrastructure team will call the engineer's phone number on the schedule sheet.
+- Development engineers do 4-hour shifts.
+- Engineering managers do monthly shifts as scheduling coordinators.
+- Check out [process description and on-call workflow](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) when escalating GitLab.com operational issue(s).
+- Check out more detail for [general information](/handbook/engineering/development/processes/Infra-Dev-Escalation/) of the escalation process.
 
 ## Security Team On-Call Rotation
 
@@ -69,16 +82,6 @@ The Infrastructure department's Reliability Engineering teams provide 24x7 on-ca
 - The Security Manager on-call is responsible to engage alternative/backup SecOps Engineers in the event the primary is unavailable.
 - In the event of a high-impact security incident to GitLab, the Security Manager on-call will be engaged to assist with cross-team/department coordination.
 
-## Development Team On-Call Rotation
-
-- This on-call process is designed for GitLab.com operational issues that are escalated by the Infrastructure team.
-- Development team currently does NOT use PagerDuty for scheduling and paging. On-call schedule is maintained in this [schedule sheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit#gid=0).
-- Issues are escalated in the Slack channel [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4) by the Infrastructure team.
-- First response SLO is 15 minutes. If no response within the first 5 minutes, the infrastructure team will call the engineer's phone number on the schedule sheet.
-- Development engineers do 4-hour shifts.
-- Engineering managers do monthly shifts as scheduling coordinators.
-- Check out [process description and on-call workflow](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) when escalating GitLab.com operational issue(s).
-- Check out more detail for [general information](/handbook/engineering/development/processes/Infra-Dev-Escalation/) of the escalation process.
 
 ## Quality Team On-Call Rotation
 
