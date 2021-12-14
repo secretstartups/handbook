@@ -155,7 +155,8 @@ Once you've  created your resource you can follow the section named [Creating Gi
 ### Install Docker
 
 Install [Docker Desktop for Mac](https://www.docker.com/get-started) or the
-[Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux).
+[Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux).  
+It's all you need to get started using the officially supported [Docker installation methods](https://docs.gitlab.com/ee/install/docker.html).
 
 ### Install Docker Machine
 
