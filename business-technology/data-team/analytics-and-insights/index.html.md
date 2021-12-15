@@ -20,6 +20,10 @@ description: "The Analytics and Insights Team makes data driven strategy and dat
 
 Analytics and Business Insights reports into FP&A and provides a broad view of performance across the business. Business Insights primarily work on company-wide strategic analysis and data that spans various departments – sales, marketing, product, engineering, people, operations and finance. To the extent this analysis leads to insights that should be produced on a regular basis, Business Insights will work with the Data team to create a self-service dashboard.  The distinction between Business Insights and the Data Team is deep dive analysis that currently doesn’t have a dashboard to drive deeper business insights with data that resides in multiple areas.
 
+### The Virtuous Cycle
+
+![The Virtuous Cycle](/handbook/source/handbook/business-technology/data-team/analytics-and-insights/the-viruous-cycle.png)
+
 ### Team Projects
 
 Our [Current Project List](https://docs.google.com/spreadsheets/d/1PoMO2LfOR0PbDuf1Ma02Z8Gt1IwtGGszd9VaeKVPMTM/edit#gid=0) contains the projects we're actively working on.
