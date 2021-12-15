@@ -748,11 +748,11 @@ Please utilize the [Printfection Sales Swag](https://get.printfection.com/dcdzm/
 
 ## EMEA Field Marketing Swag
 
-The EMEA Field Marketing team utilises the swag vendor [Ten&One](https://www.tenandone.com). Ten&One is available to source, fulfillment, ship and store swag and event material. The FMC is responsible for ensuring adequate stock levels and coordinating field event swag logistics.
+The EMEA Field Marketing team utilises [Reachdesk](https://about.gitlab.com/handbook/marketing/marketing-operations/reachdesk/#project-management) to source, fulfill, ship and store (European adn Uk warehouses) swag branded swag items.  We also utilise vendor [Ten&One](https://www.tenandone.com) who can source swag items and who also currently store all EMEA event material. The FMC is responsible for ensuring adequate stock levels and coordinating field event swag logistics.
 
 **Invoicing:** All invoices for Field Marketing are required to include the Campaign Tag `swag_field` to allow for proper finance coding.
 
-- **Existing Items:** Item descriptions and quantities are listed in the Ten&One portal, please reach out to `@helenadixon` for current inventory levels.
+- **Existing Items:** Item descriptions and quantities are listed on the Reachdesk portal, please reach out to `@helenadixon` for current inventory levels.
 - **New Items and Designs:** Requests for new swag items not already available require management approval. Any new swag designs must be approved by the brand team for brand consistency. You can suggest new designs in the swag slack channel or more formally in an issue in the [Swag Project](https://gitlab.com/gitlab-com/swag_suggestions).
 - **Large Orders:** For orders over 500 pieces, contact `@helenadixon` for assistance.
 - **Shipping:** Please make sure to specify all shipping requirements and deadlines when ordering your items.
@@ -768,7 +768,7 @@ Delivery options and timelines are provided during the ordering process. Any new
     - Email address
     - Date (timeline when shipping can arrive)
     - Swag items required and Quantities
-- **Return items to warehouse**: FMC will coordinate with Ten&One the return of all banners, table cloths, back walls, counter top, iPads (not SWAG) back to Ten&One Address: Agentur, Meyerbeerstraße 12, 81247 München, Germany, Phone: +49 89 2554190
+- **Return Event Material from event locations to warehouse**: FMC will coordinate with Ten&One the return of all banners, table cloths, back walls, counter top, iPads (not SWAG) back to Ten&One Address: Agentur, Meyerbeerstraße 12, 81247 München, Germany, Phone: +49 89 2554190
 
 # Field Marketing Fedex Account
 
