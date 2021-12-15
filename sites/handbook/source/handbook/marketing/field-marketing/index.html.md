@@ -748,7 +748,7 @@ Please utilize the [Printfection Sales Swag](https://get.printfection.com/dcdzm/
 
 ## EMEA Field Marketing Swag
 
-The EMEA Field Marketing team utilises [Reachdesk](https://about.gitlab.com/handbook/marketing/marketing-operations/reachdesk/#project-management) to source, fulfill, ship and store (European adn Uk warehouses) swag branded swag items.  We also utilise vendor [Ten&One](https://www.tenandone.com) who can source swag items and who also currently store all EMEA event material. The FMC is responsible for ensuring adequate stock levels and coordinating field event swag logistics.
+The EMEA Field Marketing team utilises [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/#project-management) to source, fulfill, ship and store (European adn Uk warehouses) swag branded swag items.  We also utilise vendor [Ten&One](https://www.tenandone.com) who can source swag items and who also currently store all EMEA event material. The FMC is responsible for ensuring adequate stock levels and coordinating field event swag logistics.
 
 **Invoicing:** All invoices for Field Marketing are required to include the Campaign Tag `swag_field` to allow for proper finance coding.
 
