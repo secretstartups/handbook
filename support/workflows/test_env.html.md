@@ -156,7 +156,7 @@ Once you've  created your resource you can follow the section named [Creating Gi
 
 Install [Docker Desktop for Mac](https://www.docker.com/get-started) or the
 [Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux).  
-It's all you need to get started using the officially supported [Docker installation methods](https://docs.gitlab.com/ee/install/docker.html).
+It's all you need to get started using the officially supported [Docker installation methods](https://docs.gitlab.com/ee/install/docker.html). Note that on Macs with M1 / Apple Silicon, running GitLab in Docker is not working properly for now. Check out [UTM](#utm-free--opensource---compatible-with-apple-silicon) below as an alternative for a local setup on your M1 Mac.
 
 ### Install Docker Machine
 
