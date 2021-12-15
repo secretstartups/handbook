@@ -1543,7 +1543,7 @@ When approved, include the Ready label in the MR before merging.
 
 Major releases happen once a year and start a new versioning cycle: 14.0 - 14.10 --> 15.0 and so on.  Contribution to and management of content for major releases follows all the same protocols as [monthly releases](#monthly-releases). But for major releases, the release post manager can expect some extra coordination and communication from the Social, PR, and Marketing teams, due to extra activities and needs for a major release. Additionally, during a major release, the release post manager may need to support Product Operations or PM volunteers managing communication of removals that are breaking changes.
 
-### Breaking changes workflow and timeline
+### Communicating breaking changes workflow
 
 Product Operations will support the product manager and technical writer who volunteer to draft, launch and share the breaking changes blog and push it across designated channels as needed. Four releases in advance of a major release (e.g 14.7 for 15.0) Product Operations initiates this process by posting in Slack #release-post and then cross-posting to #product and #tw-team requesting a PM volunteer and TW volunteer to drive the breaking changes blog.
 
