@@ -73,13 +73,15 @@ By default, the local install will use the data-science folder as the root direc
 1. Rerun `make jupyter-local` from the data-science directory and your root directory should now be changed to what you specified above. 
 
 #### Enabling Jupyter Templates
-The data science team have created modeling templates to allow you to easily start building predictive models without writing python code from scratch. To enable these templates:
-- In terminal run `pip install jupyterlab_templates`
-- In your `jupyter_lab_config.py` that you created as part of the [Mounting a local directory](https://about.gitlab.com/handbook/business-technology/data-team/platform/jupyter-guide/#mounting-a-local-directory), add the following lines, replacing the path with the path to the `data-science/templates` repo on your local machine:
+The data science team has created modeling templates that allow you to easily start building predictive models without writing python code from scratch. To enable these templates:
+1. In terminal run `pip install jupyterlab_templates`
+2. In your `jupyter_lab_config.py` that you created as part of the [Mounting a local directory](https://about.gitlab.com/handbook/business-technology/data-team/platform/jupyter-guide/#mounting-a-local-directory), add the following lines, replacing the path with the path to the `data-science/templates` repo on your local machine:
 ```
 c.JupyterLabTemplates.template_dirs = ['/Users/{your_user_name}/repos/data-science/templates']
 c.JupyterLabTemplates.include_default = False
 ```
+3. Launch JupyterLab and you should see a new _Template_ icon. Click the icon and select which template you would like to use.
+![alt text](sites/handbook/source/handbook/business-technology/data-team/platform/jupyter-guide/jupyter-screen-shot.png)
 
 #### Increasing Docker Memory Allocation
 
