@@ -76,6 +76,9 @@ MacBooks are wonderful laptops, but no laptop is without faults.
 You may come across a "wonky" situation with your Mac, so below are some pointers that may help fix common issues.
 
 - Reset your [NVRAM and PRAM](https://support.apple.com/en-us/HT204063) - non-volatile random access memory and parameter RAM stores small amount of information on your Mac, if you experience issues related to what's in the Apple article resetting this might help out.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LoUO1RwMg1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - Reset the [SMC](https://support.apple.com/en-us/HT201295) - System Management Controller handles some low-level functions like battery management and if you experience issues with fans or internal ports this could help resolve those issues.
     (Note: different models have different reset methods)
 - Apple Diagnostics [Hardware Diagnostics](https://support.apple.com/en-us/HT202731)
