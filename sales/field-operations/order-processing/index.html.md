@@ -1181,6 +1181,10 @@ Certain customers require that invoices submitted to them include a Purchase Ord
 
 If there is a PO document and customer wants GitLab to add the PO nr to the invoice, we cannot do that without reviewing the PO document (unless there is no PO document issued)
 
+Customer POs should be remitted to PO@gitlab.com (Direct Deals Only)
+
+Partner or Distributor POs should be remitted to partnersupport@gitlab.com (Channel Deals Only)
+
 **How can I determine whether a customer requires POs?**
 
 **For new customers:**
