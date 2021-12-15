@@ -16,7 +16,7 @@ description: "GitLab Data Science Team Handbook"
 
 # Data Science at GitLab 
 
-The mission of the data science team is to facilitate more informed and quicker decision-making using predictive modeling.
+The mission of the data science team is to facilitate making better decisions faster using predictive analytics.
 
 ## Data Science Responsibilities 
 Of the [Data Team's Responsibilities](https://about.gitlab.com/handbook/business-technology/data-team/#responsibilities), the Data Science Team is **directly responsible** for:
@@ -48,7 +48,7 @@ Check out this brief overview of what data science is at Gitlab:
 
 - **[Pre-configured JuypterLab Image](https://gitlab.com/gitlab-data/data-science)**: The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out the the [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/) for additional information.
 - **[gitlabds python tools](https://gitlab.com/gitlab-data/gitlabds/)**: Functions to help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly via [pypi](https://pypi.org/project/gitlabds/) (`pip install gitlabds`), or use as part of the JupyterLab image above.
-- **Modeling Templates** (**Coming Soon!**)
+- **[Modeling Templates](https://gitlab.com/gitlab-data/data-science/-/tree/main/templates)**: The data science team has created modeling templates to allow you to easily start building predictive models without needing to write python code from scratch. To enable these templates, follow the instructions on the [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/#enabling-jupyter-templates).
 
 ### Common Data Science Terms 
 - **Algorithm** -  sequence of computer-implementable instructions used to solve specific problem
