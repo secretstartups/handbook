@@ -184,6 +184,7 @@ For managers it is ok to reach out to a team member every 3-4 weeks to just to s
 
 Please be aware that new team members' PTO by Roots accounts are activated and synced automatically once a day, so if you try to access PTO by Roots on your first day and receive an error message, please attempt to access PTO by Roots on Day 2. If you still receive an error message, let your assigned People Ops Specialist know in your onboarding issue.
 
+GitLab teammate questions about PTO by Roots can be directed to `#people-connect` Slack channel. 
 
 ### Slack Commands
 * `/pto-roots ooo` Create an OOO event.
@@ -192,6 +193,7 @@ Please be aware that new team members' PTO by Roots accounts are activated and s
 * `/pto-roots @usergroup` See upcomming OOO for everyone on the particualr user group.
 * `/pto-roots feedback` This is your direct line to support. At any time, use this command to report bugs or share your thoughts on how the product can be improved or what’s working well.
 * `/pto-roots help` A top-level look at PTO by Roots items that you may need help with, and how to receive help.
+* `/pto-roots report` See historical time off. For managers, this command will generate a report of your direct report time off. 
 
 ### Home Tab
 
