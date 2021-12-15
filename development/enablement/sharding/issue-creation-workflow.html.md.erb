@@ -22,12 +22,12 @@ graph TD
     is_group -->|No| is_infra{Assigned to<br>infrastructure?};
     is_infra -->|No| other_group[label appropriate group];
     is_infra -->|Yes| at_mention_kenn[mention kwanyangu];
-    at_mention_kenn -->sharding_blocker
+    at_mention_kenn -->ci-decomposition
     group_sharding --> active[label sharding::active]
-    active --> sharding_blocker
-    other_group --> sharding_blocker
-    sharding_blocker --> sharding_blocker_phase[label sharding-blocker::phaseX]
-    sharding_blocker_phase --> milestone[add appropriate milestone]
+    active --> ci-decomposition
+    other_group --> ci-decomposition
+    ci-decomposition --> ci-decomposition_phase[label ci-decomposition::phaseX]
+    ci-decomposition_phase --> milestone[add appropriate milestone]
     milestone --> priority[add priority/severity labels]
     priority --> epic[add to appropriate epic]
     
