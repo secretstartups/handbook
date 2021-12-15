@@ -478,18 +478,41 @@ This process is currently in transition but for more details, please visit [this
 ## Rescheduling a Webcast
 **DRI: FMM and FMC**  
 
-In the event you need to change the date of your webcast, please follow the steps outlined below.
+### Emergency Rescheduling of a Workshop
+There are certain occassions when a workshop needs to urgently be rescheduled due to technical difficulties. Below you will find directions in bold to follow to send out a bulk notification to registrants about the disruption and reschedule the date. If you run into any problems, please [open an issue](/handbook/marketing/marketing-operations/#-how-to-get-help) with the Marketing Ops team, or tag the Verticurl team for help. For urgent requests, also include the issue link in the slack channel `#mktgops`.
+
+**DRI: FMM**  
+
+1. If you are in the pre-event session and determine the event cannot occur, obtain 2 alternative dates and times from the SMEs delivering the session while everyone is on the call.   
+1. Open the webcast session and remain on for a minimum of 30 minutes, broadcasting a message with the name of the event and specify the following - "Due to unexpected issues beyond our control, this workshop is being rescheduled. Please check your email for more details. We apologize for any inconvenience and appreciate your understanding."
+1. Reach out to your FMC to request a Marketo email send to participants and provide specific copy for the send in the copy doc (see additional instructions below). **Note:** There is some standard verbiage for rescheduling at the very bottom of the copy doc template under [Webcast Reschedule Email Copy](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#bookmark=kix.z3zivyrxl4tz) that can be utilized. **Note:** If the FMC is not available, reach out to Marketing Ops (per the above instructions).
+1. It is best practice to send out a gift item to registrants as an apology for the inconvenience of having to reschedule last minute. The quickest option is to send email gift cards via Thnks or Reachdesk. The FMM will determine what to send, update Allocadia with budget for items, pull the registration email addresses from SFDC, and provide the email list and copy to the FMC to send the apology gifts.
+
+### General Rescheduling Instructions
+
+**DRI: FMM and FMC**  
  
-1. Update the date/time of the webcast on the webcast calendar and resend invites to all panelists.
-1. In the Field/Corporate Marketing issue, Field/Corporate DRI to ping the GL Accountant (@gggonzalez) with the old campaign tag to be removed from Netsuite and the new campaign tag to be added in Netsuite.
-1. Update the webcast epic and subsequent issues so the new date is reflected on the title and issue due dates are updated based on the new timeline. *Field/Corporate DRI make sure to change the date in the Field/Corporate Marketing issue and adjust date in the Budget Document.*
+1. Update the date/time of the webcast on the webcast calendar.
+1. Update the webcast epic and subsequent issues so the new date is reflected on the title and issue due dates are updated based on the new timeline. Make sure to also adjust the date in the main issue and in Allocadia.
 1. Leave a comment on the epic stating the event has been rescheduled and tag all internal panelists and hosts.
 1. If webcast is on the Events Page, [submit MR](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to change the date.
-1. Go to marketo, send a webcast reschedule email to all registrants, telling them they will be receiving a new email with the new join link from zoom shortly (this will be covered in step 11). See example reschedule email [here](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#bookmark=id.eqjyly5at0fb).
-1. Create a new zoom program with the new webcast date/time following the steps outlined in [the section above](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-1-configure-zoom).
-1. Create a new marketo program with the new webcast date/time following the steps outlined in [the section above](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#create-program-in-marketo) minus the create new campaign in SFDC step since we will be syncing to the existing SFDC program in a later step (step 14).
+1. **Bulk Email Send for Rescheduling a Webcast:** Follow the below instructions to send a webcast reschedule email to all registrants, telling them they will be receiving a new email with a new Zoom link (additional details covered in steps below). See example reschedule email in the copy doc template [here](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#bookmark=kix.z3zivyrxl4tz).
+   1. Go to the folder of your program called `z. Cancellation/Reschedule`
+   1. In the folder, you will find a pre-configured email program set to send to all registrants (including hosts) as operational (bypassing unsubscribe). Double check the email smart list to make sure it includes your program's name. 
+   1. Navigate to your main marketo campaign program, and click the tokens tab. Update the following tokens:
+      - {{my.webcastDate}} to the new date
+      - {{my.webcastTime}} to the new time
+      - {{my.webcastTitle}} make sure is populated
+   1. Once you update these tokens, go to the email and click preview. Check to make sure tokens are rending properly and the email says what you want it to. You can also send yourself a sample email.
+      - To send yourself a test. Click on the email > `Email Actions` (top left) > `Send Sample` and add your email address in the large box. You do not need to fill out the top 3 drop downs. The test that comes to you will say `Test` in the subject line. You can also right click the email to send yourself a sample.
+      - If copy does not look right, you can either update the token OR go into the email clicking `edit draft` and updating there.
+   1. You must click `Approve` on the email if you made changes, for those changes to take effect.
+   1. Click into email program, on control panel set the date/time for send and click Approve in final box.
+      -  Do not click recipient time zone or head start  
+1. Create a new Zoom program with the new webcast date/time following the steps outlined in [the section above](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-1-configure-zoom).
+1. Create a new Marketo program with the new webcast date/time following the steps outlined in [the section above](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#create-program-in-marketo) minus the create new campaign in SFDC step, since we will be syncing to the existing SFDC program in a later step.
 1. If you are rescheduling your webcast due to technical difficulties the day of the event (if the event has technically completed in Zoom and your statuses have already been triggered) you will need assistance from Marketing Operations from this point forward so they can adjust certain Marketo details and make sure all registrants are moved over to the new program. Open a [Marketing Operations issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template) and link your epic with the old and new Marketo programs and SFDC campaigns and specify that you will need assistance moving all registrants over to the new program.
-1. Move the landing page from the Marketo program with old webcast date/time to the newly created marketo program with new webcast date/time. This should automatically move the registrants from the original Marketo program to the new program and also trigger Zoom to send a new confirmation email. If this does not happen, please complete the next step below. **NOTE:** All registrants in the program (including hosts and panelists) will receive a new personalized Zoom registration link at this time. Marketo does not differentiate between hosts/panelists and regular registrants, so the hosts and panelists will need to be made aware that they should NOT utilize the standard Zoom URLs they will recieve during this point in the process. Instead, they will utilize the host and panelists Zoom URLs that will be sent to them (and linked in the Dry Run Agenda) during the [dry run scheduling process](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#securing-a-virtual-workshop-or-webcast-dry-run-date).
+1. Move the landing page from the Marketo program with old webcast date/time to the newly created Marketo program with new webcast date/time. This should automatically move the registrants from the original Marketo program to the new program and also trigger Zoom to send a new confirmation email. If this does not happen, please complete the next step below. **NOTE:** All registrants in the program (including hosts and panelists) will receive a new personalized Zoom registration link at this time. Marketo does not differentiate between hosts/panelists and regular registrants, so the hosts and panelists will need to be made aware that they should NOT utilize the standard Zoom URLs they will recieve during this point in the process. Instead, they will utilize the host and panelists Zoom URLs that will be sent to them (and linked in the Dry Run Agenda) during the [dry run scheduling process](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#securing-a-virtual-workshop-or-webcast-dry-run-date).
 1. (Needed only if the above step did not automatically move registrants and trigger a new Zoom confirmation email.) Move the registrants from the Marketo program with old webcast date/time to the newly created marketo program with new webcast date/time by running a one time bulk update on the `(Optional: for rescheduled webcast only) Import registrants from old program` smart campaign. Doing this will also re-trigger the confirmation email to existing registrants.
 1. Remove the SFDC campaign sync on the Marketo program with old webcast date/time by clicking salesforce campaign sync and selecting `None`.
 1. Go to SFDC and change the ISO date in the SFDC campaign name for the webcast to the new date. 
@@ -931,22 +954,6 @@ prize to. Option to CC the SAL who is tied to the account to allow them visibili
 **DRI: FMM**
 
 Normal FM close process: Send follow-up email, gather recap information from the team and close the issue.
-
-### Canceling / Postponing a Workshop
-There are certain occassions when a workshop needs to urgently be rescheduled due to technical difficulties. These are the directions to follow to send out a bulk notification to registrants about the disruption and reschedule date. If you run into any problems, please [open an issue](/handbook/marketing/marketing-operations/#-how-to-get-help) with the Marketing Ops team, or tag the Verticurl team for help. For urgent requests, also include the issue link in the slack channel `#mktgops`.
-
-1. Go to the folder of your program called `z. Cancellation/Reschedule`
-1. In the folder, you will find a pre-configured email program set to send to all registrants (including hosts) as operational (bypassing unsubscribe). Double check the email smart list to make sure it includes your program's name. 
-1. Navigate to your main marketo campaign program, and click the tokens tab. Update the following tokens:
-   - {{my.webcastDate}} to the new date
-   - {{my.webcastTime}} to the new time
-   - {{my.webcastTitle}} make sure is populated
-1. Once you update these tokens, go to the email and click preview. Check to make sure tokens are rending properly and the email says what you want it to. You can also send yourself a sample email.
-   - To send yourself a test. Click on the email > `Email Actions` (top left) > `Send Sample` and add your email address in the large box. You do not need to fill out the top 3 drop downs. The test that comes to you will say `Test` in the subject line. You can also right click the email to send yourself a sample.
-   - If copy does not look right, you can either update the token OR go into the email clicking `edit draft` and updating there.
-1. You must click `Approve` on the email if you made changes, for those changes to take effect.
-1. Click into email program, on control panel set the date/time for send and click Approve in final box.
-   -  Do not click recipient time zone or head start
 
 ## Proposing New Virtual Workshops
 
