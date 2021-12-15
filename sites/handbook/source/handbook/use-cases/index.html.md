@@ -47,7 +47,7 @@ I need to automate the build and testing processes to consistently integrate cod
    1. *Deliver Better Products Faster:* Automation to speed the process.
    1. *Reduce Security and Compliance Risk:* test my code automatically and early to reduce risks
 
-**Continuous Delivery (CD)](/handbook/marketing/strategic-marketing/usecase-gtm/cd/)**
+**[Continuous Delivery (CD)](/handbook/marketing/strategic-marketing/usecase-gtm/cd/)**
 **Want to speed up my build and release process and empower my developers to automatically deploy code** - (CI/**CD**)
 I want to automate the build, test and packaging, configuration and deployment of applications to a target environment. (Examples in GitLab include: Pipeline, CI Runner, Jobs, Scheduled Jobs, Testing, Security Scanning (SAST), and Code Quality. CI Runner, Container Repository, Deploy Boards, Canary Deploys, Partial Deploys, Manual Deploys, Environments.)  
 
