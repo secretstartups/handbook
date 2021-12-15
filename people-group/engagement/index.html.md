@@ -98,8 +98,8 @@ See the examples from FY21' for the [Product](https://gitlab.com/gitlab-com/Prod
 - Product
 - Sales 
 - Marketing
-- Finance
-- People
+- [Finance](https://gitlab.com/groups/gitlab-com/Finance-Division/-/epics/7)
+- [People](https://gitlab.com/groups/gitlab-com/people-group/-/epics/89)
 - Legal
 - CEO
 
