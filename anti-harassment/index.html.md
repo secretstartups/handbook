@@ -13,7 +13,7 @@ canonical_path: "/handbook/anti-harassment/"
 
 ## Introduction
 
-Everyone at GitLab has a responsibility to prevent and stop harassment. Working remotely means that the majority of our interactions are by video call or written communication, such as email or shared documents. The exceptions to this are team summits, attending conferences together, and local team meetups. No matter the method of communication, it is expected that everyone will contribute to an inclusive and collaborative working environment and respect each other at all times. Team member behavior is not limited to internal interactions with each other.  Our Anti-harassment policy applies to GitLab team members interaction with customers, vendors and community members. Should you become aware of or witness any form of harassment or behavior that violates this policy or our [company values](/handbook/values/), please report the incident directly to the Chief People Officer, the [Senior Director, People Success](/company/team/#cteskey) or a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) immediately for thorough investigation.
+Everyone at GitLab has a responsibility to prevent and stop harassment. Working remotely means that the majority of our interactions are by video call or written communication, such as email or shared documents. The exceptions to this are team summits, attending conferences together, and local team meetups. No matter the method of communication, it is expected that everyone will contribute to an inclusive and collaborative working environment and respect each other at all times. Team member behavior is not limited to internal interactions with each other.  Our Anti-harassment policy applies to GitLab team members interaction with customers, vendors and community members. Should you become aware of or witness any form of harassment or behavior that violates this policy or our [company values](/handbook/values/), please report the incident directly to the Chief People Officer, [Team Member Relations](/handbook/people-group/team-member-relations/#discussing-private-concerns), or a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) immediately for thorough investigation.
 
 ## Perspective
 
@@ -54,7 +54,7 @@ We do not tolerate discrimination against anyone, including team members, custom
 
 Report suspected discrimination right away and never retaliate against anyone who raises a good faith belief that unlawful discrimination has occurred. 
 
-If you believe you have been discriminated against or witnessed discriminatory practices, please contact the Chief People Officer, the [Senior Director, People Success,](/company/team/#cteskey), a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division), or the [Team Member Relations Specialist](/handbook/people-group/team-member-relations/) to initiate an investigation into the behavior. GitLab has also engaged Lighthouse Services to provide anonymous reporting methods, as described in the [How to Report Violations](/handbook/people-group/#how-to-report-violations) section.
+If you believe you have been discriminated against or witnessed discriminatory practices, please contact the Chief People Officer, a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division), or the [Team Member Relations Specialist](/handbook/people-group/team-member-relations/) to initiate an investigation into the behavior. GitLab has also engaged Lighthouse Services to provide anonymous reporting methods, as described in the [How to Report Violations](/handbook/people-group/#how-to-report-violations) section.
 
 ### Bullying / Workplace Violence
 
@@ -62,7 +62,7 @@ GitLab does not tolerate violent acts or threats of violence. The company will n
 
 ### Retaliation
 
-Retaliation of any sort for filing a claim of harassment will not be tolerated. If you believe you have been retaliated against, please contact the Chief People Officer, the [Senior Director, People Success](/company/team/#cteskey) or a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to initiate an investigation.
+Retaliation of any sort for filing a claim of harassment will not be tolerated. If you believe you have been retaliated against, please contact the Chief People Officer, [Team Member Relations](/handbook/people-group/team-member-relations/#discussing-private-concerns) or a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to initiate an investigation.
 
 ## Speaking up during a public situation
 
@@ -90,7 +90,7 @@ If a threat is made against you or someone else that makes you or another team m
 ## Reporting Alleged Harassment
 
 1. Any individual who believes they have been the target of harassment of any kind is encouraged to immediately and directly address the harasser, letting them know that their behavior is unwelcome, offensive, and must stop immediately.
-1. If they do not wish to address the harasser directly or the behavior doesn’t cease, they should report the misconduct to the Chief People Officer, the [Senior Director, People Success](/company/team/#cteskey) or a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
+1. If they do not wish to address the harasser directly or the behavior doesn’t cease, they should report the misconduct to the Chief People Officer, [Team Member Relations](/handbook/people-group/team-member-relations/#discussing-private-concerns) or a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 1. Once reported, an impartial investigation will be conducted by a People Business Partner or by an independent third party, depending on the severity and circumstances of the complaint.
 1. Individual(s) reporting an incident or pattern of behavior will be asked to provide a written account, including any action(s) causing concern, the dates and times such actions occurred, and the names of anyone involved, including the participants and witnesses. All complaints or concerns of alleged harassment or discrimination will be taken seriously and handled confidentially.
 
