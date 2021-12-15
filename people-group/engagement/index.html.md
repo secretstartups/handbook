@@ -86,7 +86,7 @@ Once the GitLab Team Member Engagement Survey has been closed out, reports will 
 
 ##### Using Epics and Issues to Create an Action Plan
 
-For the FY22 Engagement Survey, all divisions are recommended to create an Epic to store Engagement Survey Action Issues. Every Division should create an Epic that gives an overview of the engagement survey results that includes: highlights, lowlights, recommended actions, and resources. 
+For the FY22 Engagement Survey, all divisions are recommended to create an Epic to store Engagement Survey Action Issues. Every Division should create an Epic that gives an overview of the engagement survey results that includes: highlights, lowlights, recommended actions, and resources. Epic's can be created in division issue boards or projects that are applicable to the organization. 
 
 In addition, Managers can create an Engagement Survey Action Issue that links to the division wide epic. In the Issue, managers can link team wide actions to the division. 
 
