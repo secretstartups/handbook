@@ -20,12 +20,12 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 ## Resources for Team Members and Managers+
 
 - [How to embed neurodiversity into your people management practices](https://www.hrzone.com/perform/people/how-to-embed-neurodiversity-into-your-people-management-practices)
-- [Austistic Advocacy Resources](https://autisticadvocacy.org/resources/accessibility/)
+- [Autistic Advocacy Resources](https://autisticadvocacy.org/resources/accessibility/)
 - [Certified Neurodiverse Workplace](https://ibcces.org/certified-neurodiverse-workplace/)
 - [Understanding the benefits of neurodiversity in the workplace](https://www.hays.com.au/blog/insights/understanding-the-benefits-of-neurodiversity-in-the-workplace)
 - [Neurodiversity Resources for Employers](https://www.neurodiversityhub.org/resources-for-employers)
 - [Neurodiver-city.org](https://www.neurodiver-city.org/)
-- Useful vidoes for understanding ADHD from the outside, [What is ADHD?](https://www.youtube.com/watch?v=xMWtGozn5jU) and [Why Do We Hold Ourselves to Neurotypical Standards?](https://www.youtube.com/watch?v=IMeCxDQZeqY) 
+- Useful videos for understanding ADHD from the outside, [What is ADHD?](https://www.youtube.com/watch?v=xMWtGozn5jU) and [Why Do We Hold Ourselves to Neurotypical Standards?](https://www.youtube.com/watch?v=IMeCxDQZeqY) 
 
 ## Reasonable Accommodations
 
