@@ -1545,7 +1545,9 @@ Major releases happen once a year and start a new versioning cycle: 14.0 - 14.10
 
 ### Breaking changes workflow and timeline
 
-Product Operations will lead the communication of breaking changes for major releases. It is important the breaking changes be flagged for SaaS users prior to the rollout of the updates in the major version, so they are prepared and their workflow is not unexpectedly disrupted. As such, we will begin a series of communications via the [broadcast message feature](https://docs.gitlab.com/ee/user/admin_area/broadcast_messages.html), looping in the appropriate stakeholders along the way, starting in 14.7, four releases in advance of a major release (e.g 14.7 for 15.0). Product Operations initiates breaking changes communications when they're assigned an [automated GitLab issue](LINK TO TEMPLATE), with a task list and timeline. This will happen on the first day of the month four cycles in advance of the major release. For example, January 1 during 14.7, if the major release 15.0 is planned for May 22. 
+Product Operations will lead the communication of breaking changes for major releases. It is important the breaking changes be flagged for SaaS users prior to the rollout of the updates in the major version, so they are prepared and their workflow is not unexpectedly disrupted. Beginning with 14.7, we will use the [broadcast message feature](https://docs.gitlab.com/ee/user/admin_area/broadcast_messages.html) to communicate with users, looping in the appropriate stakeholders along the way.
+
+These messages will begin four minor releases in advance of a major release (such as 14.7 for release 15.0). Product Operations initiates breaking changes communications when they're assigned an [automated GitLab issue](LINK TO TEMPLATE), with a task list and timeline. These communications should begin on the first day of the month four minor releases before the major release. For example: if the major 15.0 release is planned for May 22, the communications should begin January 1 during release 14.7. 
 
 
 ## Adding content
