@@ -29,6 +29,8 @@ This dashboard is likely to be a TAM's most-frequented page, as it shows a summa
 
 There are also other dashboards available to TAMs to look at, including the CS Leadership Dashboard which reviews aspects of all TAM-supported accounts, the Customer Onboarding Dashboard which shows the status of onboarding across all accounts, and the Stage Adoption Dashboard which goes into detail regarding which stages have been adopted and the success of adoption plays.
 
+If there is an asterisk (*) in the title of a report, widget, or field, that means it takes up to 24 hours for that data to update if you change it. For example, in the TAM Burndown Dashboard, there's a widget called `*PR1 Cadence >30 Days`, which shows how many Priority 1 accounts have not had a cadence call recorded in more than 30 days. If you then record a call in Timeline, it will take up to 24 hours for that widget to reflect the updated information.  
+
 When hovering on the far left of the screen, a sidebar will pop up that has a few options:
 
 - Home - you're here!
