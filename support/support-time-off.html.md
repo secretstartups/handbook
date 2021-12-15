@@ -138,9 +138,25 @@ Groom your queue before going on PTO. As guidelines cannot cover every case, thi
 
 ## Holiday time off ticket management
 
-Guidance around ticket handling over holiday time off is slightly different.
+Guidance around ticket handling over global holiday time off is slightly different because of the potential in increased impact to the Support team.
 
-#### If you are planning to take holiday time off
+For example, the following peak holidays have the greatest potential to impact coverage:
+- Australia Day (26-January)
+- Republic Day (26-January)
+- Anzac Day (25-April)
+- International Workers Day (1-May)
+- Independence Day (1-July to 4-July)
+- Immaculate Conception Day (8-Dec)
+- Christmas Day, St Stephens Day, Boxing Day, New Years Day and Day After New Years (Period between 24-Dec to 2-Jan)
+- Holidays that vary in dates each year that are celebrated in multiple countries:
+   - Easter Sunday (late March to early April)
+   - Easter Monday (late March to early April)
+   - Whit Monday (May or June)
+   - Ascension Day (May)
+   - Memorial Day (last Monday in May)
+   - Labour Day (first Monday in September)
+
+#### If you are planning to take time off during peak holidays
 1. Please do your best to resolve any assigned tickets you have in your queue.
 1. Communicate with your customers to let them know you’ll be away, and when they can expect you to return. 
     - Many of our customers may likely be on the same holiday schedule and will be fine with resuming work on a ticket when you both return.
