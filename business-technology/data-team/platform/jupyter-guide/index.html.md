@@ -59,7 +59,7 @@ It lists location of your default pip. It should be in ``/Users/{your_user_name}
 #### Connecting to Snowflake
 
 1. Make sure you have setup a `{your_user_name}/.dbt/profiles.yml` file which **does not** include your password. You can use the example provide [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/sample_profiles.yml) as reference
-1. Run through the [auth_example notebook](https://gitlab.com/gitlab-data/data-science/-/blob/main/templates/auth_example.ipynb) in the repo to confirm that you have configured everything successfully. The first time you run it you will get a browser redirect to authenticate your snowflake credientials via Okta. After that, if you run the notebook again you should be able to query data from Snowflake.  
+1. Run through the [auth_example notebook](https://gitlab.com/gitlab-data/data-science/-/blob/main/examples/auth_example.ipynb) in the repo to confirm that you have configured everything successfully. The first time you run it you will get a browser redirect to authenticate your snowflake credientials via Okta. After that, if you run the notebook again you should be able to query data from Snowflake.  
 1. If you get an error then likely Snowflake is not properly configured on your machine. Please refer to the Snowflake and dbt sections of the [Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md). It is likely that your .dbt/profiles.yml is not setup correctly.
 
 
@@ -71,6 +71,15 @@ By default, the local install will use the data-science folder as the root direc
 1. Search for the following line in the file: `#c.ServerApp.root_dir = ''` and replace with `c.ServerApp.root_dir = '/the/path/to/other/folder/'`. If unsure, set the value to your repo directory (i.e. `c.ServerApp.root_dir = '/Users/{your_user_name}/repos'`). Make sure you remove the `#` at the beginning of the line.
 1. Make sure you use forward slashes in your path. Backslashes could be used if placed in double quotes, even if folder name contains spaces as such as `\{your_user_name}\Any Folder\More Folders\`
 1. Rerun `make jupyter-local` from the data-science directory and your root directory should now be changed to what you specified above. 
+
+#### Enabling Jupyter Templates
+The data science team have created modeling templates to allow you to easily start building predictive models without writing python code from scratch. To enable these templates:
+- In terminal run `pip install jupyterlab_templates`
+- In your `jupyter_lab_config.py` that you created as part of the [Mounting a local directory](https://about.gitlab.com/handbook/business-technology/data-team/platform/jupyter-guide/#mounting-a-local-directory), add the following lines, replacing the path with the path to the `data-science/templates` repo on your local machine:
+```
+c.JupyterLabTemplates.template_dirs = ['/Users/{your_user_name}/repos/data-science/templates']
+c.JupyterLabTemplates.include_default = False
+```
 
 #### Increasing Docker Memory Allocation
 
