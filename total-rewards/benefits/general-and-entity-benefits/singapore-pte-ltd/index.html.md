@@ -25,6 +25,19 @@ AvivaOnline IT Helpdesk Contact Information:
 - Email: `avivaonline_ithelpdesk@aviva-asia.com`
 - Address: `Aviva Asia Pte Ltd, 4 Shenton Way #01-01 SGX Centre 2, Singapore 068807`
 
+### Enrollment 
+
+Team Members will be enrolled into the medical plans by Global Upside upon their start date.  
+
+Team Members who experience a qualified status change can update their information by sending an email to Global Upside at benefitsops@globalupside.com.
+
+When adding a new dependent to the plan, please include the following information in your request to Global Upside:
+* Dependent Name
+* Dependent Date of Birth
+* NRIC Number
+* Gender
+* Nationality 
+
 ## Pension
 
 GitLab does not plan to offer a supplementary private pension benefit at this time as Singapore has their Pension system called as [Central Provident Fund](https://www.cpf.gov.sg/members)
