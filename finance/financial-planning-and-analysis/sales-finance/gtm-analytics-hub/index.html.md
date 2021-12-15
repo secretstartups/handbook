@@ -11,7 +11,7 @@ title: "GTM Analytics Hub"
 
 
 ## Common Links
-* [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance)
+* [Sales Finance](/handbook/finance/financial-planning-and-analysis/sales-finance/)
 * [Sales Strategy & Analytics (SS&A)](/handbook/sales/field-operations/sales-strategy/)
 
 ## Reports and Dashboards

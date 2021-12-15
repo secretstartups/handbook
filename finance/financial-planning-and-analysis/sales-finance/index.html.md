@@ -12,9 +12,9 @@ title: "Sales Finance"
 ## Welcome to the Sales Finance Handbook!
 
 ### Common Links
- * [Financial Planning & Analysis (FP&A)](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/)
- * [Sales Strategy & Analytics (SS&A)](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/)
- * [GTM Analytics Hub](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/Sales-Finance/GTM-Analytics-Hub)
+ * [Financial Planning & Analysis (FP&A)](/handbook/finance/financial-planning-and-analysis/)
+ * [Sales Strategy & Analytics (SS&A)](/handbook/sales/field-operations/sales-strategy/)
+ * [GTM Analytics Hub](/handbook/finance/financial-planning-and-analysis/sales-finance/gtm-analytics-hub)
 
 ## Sales Finance Charter
  
@@ -75,7 +75,7 @@ High-level long-range Quota & Capacity model to assess the feasibility of future
 [File](https://docs.google.com/spreadsheets/d/1SzTLYRGYsNUWxijvwryi2i5O2Lh1FpUGwe8RPLi7WwQ/edit?usp=sharing)
 
 ## Rolling List of Asks File
-intake investment requests of both Headcount and Program Spend from Sales teams, prioritize them via a consistent framework, and implement them based on agreed-upon prioritization. For the Sales Headcount Change Management process, please refer to the [Sales Headcount](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/sales-headcount/) Handbook page located in Sales Strategy & Analytics.
+intake investment requests of both Headcount and Program Spend from Sales teams, prioritize them via a consistent framework, and implement them based on agreed-upon prioritization. For the Sales Headcount Change Management process, please refer to the [Sales Headcount](/handbook/sales/field-operations/sales-strategy/sales-headcount/) Handbook page located in Sales Strategy & Analytics.
 
 [File](https://docs.google.com/spreadsheets/d/1NgnRnCQkDXRuLykroLLeNmWqKhIE1g0OaueSbFSUz6Q/edit#gid=0)
 
