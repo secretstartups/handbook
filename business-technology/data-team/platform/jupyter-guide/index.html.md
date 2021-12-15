@@ -22,6 +22,7 @@ See related [repository](https://gitlab.com/gitlab-data/data-science)
 - Need a feature you use but don't see? Let us know on [#bt-data-science](https://gitlab.slack.com/archives/C027285JQ4E) and we can add it!
 
 ### Getting Started
+First, you need to install and launch [Docker Desktop](https://www.docker.com/products/docker-desktop) on your local machine.
 
 You have two options when setting up jupyter via the data-science project. Choose from one of the following:
 - **Full install (Recommended)**: Installs all libraries defined by the [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile), **_plus_** a complete anaconda install.
@@ -47,17 +48,17 @@ To check if everything is correct open terminal and run command
 
 ``which python`` 
 
-It lists location of your default Python. It should be in ``/Users/your_user_name/anaconda3/bin``
+It lists location of your default Python. It should be in ``/Users/{your_user_name}/anaconda3/bin``
 
 And command 
 
 ``which pip``
 
-It lists location of your default pip. It should be in ``/Users/your_user_name/anaconda3/bin/pip``
+It lists location of your default pip. It should be in ``/Users/{your_user_name}/anaconda3/bin/pip``
 
 #### Connecting to Snowflake
 
-1. Make sure you have setup a `{User}/.dbt/profiles.yml` file which **does not** include your password. You can use the example provide [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/sample_profiles.yml) as reference
+1. Make sure you have setup a `{your_user_name}/.dbt/profiles.yml` file which **does not** include your password. You can use the example provide [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/sample_profiles.yml) as reference
 1. Run through the [auth_example notebook](https://gitlab.com/gitlab-data/data-science/-/blob/main/templates/auth_example.ipynb) in the repo to confirm that you have configured everything successfully. The first time you run it you will get a browser redirect to authenticate your snowflake credientials via Okta. After that, if you run the notebook again you should be able to query data from Snowflake.  
 1. If you get an error then likely Snowflake is not properly configured on your machine. Please refer to the Snowflake and dbt sections of the [Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md). It is likely that your .dbt/profiles.yml is not setup correctly.
 
@@ -65,16 +66,16 @@ It lists location of your default pip. It should be in ``/Users/your_user_name/a
 #### Mounting a local directory
 
 By default, the local install will use the data-science folder as the root directory for jupyter. This is not terribly useful when all your code, data, and notebooks are in other locations on your computer. To change, this you will need to create and modify a jupyter notebook config file:
-1. Run `jupyter-lab --generate-config`. This creates the file `/Users/{user}/.jupyter/jupyter_lab_config.py`
-1. Browse to the file location and open it in an Editor
-1. Search for the following line in the file: `#c.ServerApp.root_dir = ''` and replace with `c.ServerApp.root_dir = '/the/path/to/other/folder/'`. If unsure, set the value to your repo directory (i.e. `c.ServerApp.root_dir = '/Users/{user}/repos'`). Make sure you remove the `#` at the beginning of the line.
-1. Make sure you use forward slashes in your path. Backslashes could be used if placed in double quotes, even if folder name contains spaces as such as `\yourUserName\Any Folder\More Folders\`
+1. Open terminal and run `jupyter-lab --generate-config`. This creates the file `/Users/{your_user_name}/.jupyter/jupyter_lab_config.py`
+1. Browse to the file location and open it in an editor
+1. Search for the following line in the file: `#c.ServerApp.root_dir = ''` and replace with `c.ServerApp.root_dir = '/the/path/to/other/folder/'`. If unsure, set the value to your repo directory (i.e. `c.ServerApp.root_dir = '/Users/{your_user_name}/repos'`). Make sure you remove the `#` at the beginning of the line.
+1. Make sure you use forward slashes in your path. Backslashes could be used if placed in double quotes, even if folder name contains spaces as such as `\{your_user_name}\Any Folder\More Folders\`
 1. Rerun `make jupyter-local` from the data-science directory and your root directory should now be changed to what you specified above. 
 
 #### Increasing Docker Memory Allocation
 
 By default, docker will allocate 2GB of memory to run containers. This is likely not enough RAM to work with jupyter and python, as data is held in-memory. It is recommended you increase the docker memory allocation to avoid out-of-memory errors.
-1. Open Docker dashboard.
+1. Open Docker dashboard (on Mac, there should be an icon on the top menu bar).
 1. Click on the gear icon in the upper right to show settings.
 1. Under "Resources" allocate additional memory to be used by Docker. 8GB is recommended but you may have to increase it futher if working with large datasets.
 1. Restart Docker. 
@@ -82,7 +83,7 @@ By default, docker will allocate 2GB of memory to run containers. This is likely
 #### Setting Up Jupyter Extensions
 
 - The data-science repo comes with many useful Jupyter Lab extensions pre-installed, including [git](https://github.com/jupyterlab/jupyterlab-git), [variable inspector](https://github.com/lckr/jupyterlab-variableInspector), [collapsible headings](https://github.com/aquirdTurtle/Collapsible_Headings), [execute time](https://github.com/deshaw/jupyterlab-execute-time), and [system monitor](https://github.com/jtpio/jupyterlab-system-monitor). 
-- To get the most out of these (and to avoid having to configure them every time you run the container), create the following file: `/Users/{user}/.jupyter/lab/user-settings/@jupyterlab/notebook-extension/tracker.jupyterlab-settings`
+- To get the most out of these (and to avoid having to configure them every time you run the container), create the following file: `/Users/{your_user_name}/.jupyter/lab/user-settings/@jupyterlab/notebook-extension/tracker.jupyterlab-settings`
 - Within that file, paste the following and save: 
 
 ```
