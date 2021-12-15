@@ -164,6 +164,14 @@ that tells you what state it's currently in.
 | Solved   | The ticket has been solved | When a user replies to a `Solved` ticket, Zendesk reopens it. A Solved ticket will transition to `Closed` after 7 days. |
 | Closed   | The ticket is archived | When a user replies to a `Closed` ticket, Zendesk opens a new ticket with a note that relates the new ticket to the closed ticket. |
 
+#### Make sure to reply to the user
+
+If a user's reply is the last one in the ticket, make sure to send a public
+reply when changing the ticket status.
+
+Changing a ticket's status (except for `Solved`) without replying will not stop
+the ticket's breach clock. See [breach clocks](#breach-clocks) for more details.
+
 #### Avoiding status change automations
 
 By default, Zendesk will move a ticket from pending to solved after 20 days
@@ -192,14 +200,6 @@ It's the engineer's responsibility to ensure timely replies or to set the ticket
 back to `Open` if they are no longer working on it. Setting a ticket to `On-Hold`
 while working on it can be useful as it takes it out of the main view, thus
 saving other engineers from wasting time reading it.
-
-##### Make sure to reply to the user
-
-If a user's reply is the last one in the ticket, make sure to send a public
-reply while setting the ticket status to `On-Hold`.
-
-Setting a ticket to `On-Hold` without replying will not stop the ticket's breach
-clock. See [breach clocks](#breach-clocks) for more details.
 
 ##### Set clear expectations
 
