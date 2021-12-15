@@ -87,12 +87,21 @@ GitLab Certified Training Partner program is invite only until 31 January 2021.
 2. The Channel Services team will then engage the Channel Account Management (CAM) team to identify and prioritize the eligible partners per that criteria, and issue the invitations. 
 
 #### Process for Enrolling Partners into the GitLab Certified Training Partner Program
+In order to collaborate with partner organizations, the Channel Solutions Architect group has created a sub-group named [Partners](https://gitlab.com/gitlab-com/channel/partners) under the [channels sub-group](https://gitlab.com/gitlab-com/channel) in GitLab.com where the Channel Account Managers share projects directly with our partner contacts. In order to work with a partner directly, the CAM is required to ensure there is an open sub-group for the specific partner under the [Partners sub-group](https://gitlab.com/gitlab-com/channel/partners). 
+1. Check for the partner's sub-group:
+    a. Navigate to the [Partners](https://gitlab.com/gitlab-com/channel/partners) sub-group.
+    b. Click on the sub-group for the region where the partner is located.
+    c. Review the list of partners in that region.
+2. If you did not see the partner in the sub-group for their region, create a sub-group named `Partner Company Name` with two sub-groups (collaboration and internal) under the company sub-group.
+    a. Please refer to the [Sub-groups documentation page](https://docs.gitlab.com/ee/user/group/subgroups/) to learn how to create sub-groups.
+    b. Please refer to an existing partner company sub-group and use it to as a model for the new one that you are creating.
+3. Whether they had to create a new collaboration sub-group for the partner or there is an existing collboration sub-group for the partner, the CAM is required to add and/or verify that the partner primary contact is a member of the collaboration sub-group with `maintainer` permissions.  
 After a partner accepts an invitiation, the CAM:
 1. Will open a project in the [Channel Partner's collaboration sub-group](https://gitlab.com/gitlab-com/channel/partners) using the GitLab_Certified_Service_Partner_Program project template.
-2. Name the project "'Partner Company Name' CTP Requirements Project".
+2. Name the project "`Partner Company Name` CTP Requirements Project".
 3. Open an issue using the CTP_Requirement_Tracking_Issue template in that project. 
    1. The template automatically engages the GitLab Channel Services team and the GitLab Education Services Delivery team
-   2. The CAM is required to assign themselves and the partner primary contact to the issue 
+   2. The CAM is required to assign themselves and the partner primary contact to the issue. 
    3. Each assigned team member is required to complete all sections assigned to the their job title within 6 mos of creating the tracking issue. Please watch [this video](https://docs.google.com/presentation/d/1zQuq8Lzz9YtdonI5zkjrNyN7bz53O2vv_-98tPusrPo/edit?usp=sharing) if you need help learning how to use project and issue templates to complete this action.   
 
 The issue is designed to:
