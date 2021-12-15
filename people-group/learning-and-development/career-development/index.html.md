@@ -143,7 +143,7 @@ If at the end of your internship, you are interested in transferring teams pleas
 
 Please create a new issue in the [Training project](https://gitlab.com/gitlab-com/people-ops/Training/issues/new), choose the `internship_for_learning` template, and fill out the placeholders.
 
-No internship for learning should be approved without both managers having a conversation and agreeing upong the percentage of time the team member will spending on the internship. Also, the team members manager may has discretion not to approve the internship for learning if there are team member performance issues.
+No internship for learning should be approved without both managers having a conversation and agreeing upon the percentage of time the team member will be spending on the internship. Also, the team member's manager has discretion not to approve the internship for learning if there are team member performance issues.
 
 Once you've agreed upon the internship goals, both managers should inform their respective groups' People Business Partner.
 
@@ -219,7 +219,7 @@ In August 2021 we held a Career Development Skill of the Month. All items are li
 
 The [Individual Growth Plan (IGP)](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) is a great way to take initiative of your career growth. 
 
-Maybe you aren't sure where to start or you are having trouble filling out your IGP, we recommend watching the [How to Develop your Career Plan](https://www.linkedin.com/learning/how-to-develop-your-career-plan/introduction?u=2255073) course on LinkedIn Learning. 
+If you aren't sure where to start or are having trouble filling out your IGP, we recommend watching the [How to Develop your Career Plan](https://www.linkedin.com/learning/how-to-develop-your-career-plan/introduction?u=2255073) course on LinkedIn Learning. 
 
 Steps: 
 1. Open the [Individual Growth Plan (IGP) Template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
@@ -248,7 +248,7 @@ The video below is a recording of the Live Learning that took place in August 20
 
 ### Tracking your Accomplishments 
 
-Some people may call it a "brag sheet" some call it a CREDIT Tracker, either way, it's a great place to put all of your accomplishments and positive feedback. We encourage you to utizlize the Accomplishment tracker in conjunction with the IGP and GitLab Epics. 
+Some people may call it a "brag sheet". Some call it a CREDIT Tracker. Either way, it's a great place to put all of your accomplishments and positive feedback. We encourage you to utizlize the Accomplishment tracker in conjunction with the IGP and GitLab Epics. 
 
 Steps: 
 1. Go to the [Accomplishment Tracker Template](https://docs.google.com/document/d/1tBjEbX-p4MYinEsdU-91KDQ_BJkihwrBKZ0n9yfdLjo/edit?usp=sharing)
@@ -270,7 +270,7 @@ Consider making a copy of this [Google sheet template](https://docs.google.com/s
 
 Epics are a great way to [transparently](/handbook/values/#transparency) and [efficiently](/handbook/values/#efficiency) track your work and map learning back to your [results](/handbook/values/#results).
 
-Here are some ways you can use Epics when organizing your career development work. Here are two examples from the Learning and Development team: [Example 1](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/43), [Example 2](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/47)
+Here are two examples of using Epics to organize career development work from the Learning and Development team: [Example 1](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/43), [Example 2](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/47)
 
 Below is a short video from the L&D team reviewing how and why you might choose to use epics for career development tracking:
 
@@ -278,17 +278,17 @@ Below is a short video from the L&D team reviewing how and why you might choose 
 
 1. Open an epic in a personal or team project
 1. Use the description to highlight your learning goals, ideal programs or resources you want to review, considerations when planning, etc.
-1. Open issues to track actions you'll take as a result or inspriationo of learning resources you've used
-1. Add those issues as related to your epic. If you can't add the related issues becuase they are in differnet projects, consider starting a new thread in the epic that links to any and all issues that are a result of, or impacted by, your career development work
+1. Open issues to track actions you'll take as a result or inspired by things learned from the resources you've used
+1. Add those issues as related to your epic. If you can't add the related issues because they are in different projects, consider starting a new thread in the epic that links to any and all issues that are a result of, or impacted by, your career development work
 
 ### Career Mapping and Development
 {:#career-mapping-and-development}
 
-We have started this process at GitLab by defining Junior, Senior and Staff advancement levels. Career Mapping helps GitLab team-members to understand and develop the skills they need to achieve their goals, giving them clear criteria.
+We have started this process at GitLab by defining Junior, Senior and Staff advancement levels. Career Mapping helps GitLab team members to understand and develop the skills they need to achieve their goals, giving them clear criteria.
 Mapping helps managers and leaders internally develop the skills and knowledge they need to achieve future business goals. The key to this is to identify the key skills, knowledge, and abilities needed to master each level. Another essential tool is a career development plan, here are some examples:
 
 - [Career Plan](https://docs.google.com/document/d/1hJIzMnVhEz3X4k24oAwNnlgGhBeQ518Cps9kLVRRoWQ/edit)
-- [Template  - Development Scorecard](https://docs.google.com/spreadsheets/d/1DBrukzzsV6InaCkZf8_ngLeTcLQ9uj6ynE93qLmHkQA/edit#gid=1677297587)
+- [Template - Development Scorecard](https://docs.google.com/spreadsheets/d/1DBrukzzsV6InaCkZf8_ngLeTcLQ9uj6ynE93qLmHkQA/edit#gid=1677297587)
 - [Career Plan Template](https://performancemanager.successfactors.com/doc/po/develop_employee/carsample.html)
 
 Managers should discuss career development at least once a month at the [1:1](/handbook/leadership/1-1/) and then support their team members with creating a plan to help them achieve their career goals. If you would to know more about this please checkout the [career mapping course video](https://www.youtube.com/watch?v=YoZH5Hhygc4)
@@ -365,9 +365,9 @@ The E-Group will follow a similar process to our GitLab team member process with
 
 **Performance Factors**
 
-- Developing in role i.e. you are new to company / new to role  or there is performance development required
-- Performing in role i.e. you are meeting all requirements
-- Exceeding in role i.e. you are knocking it out of the park
+- Developing in role, i.e., you are new to company / new to role or there is performance development required
+- Performing in role, i.e., you are meeting all requirements
+- Exceeding in role, i.e., you are knocking it out of the park
 
 **Compensation Reviews**
 
