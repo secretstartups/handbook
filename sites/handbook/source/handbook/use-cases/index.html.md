@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "DevOps Solutions"
+title: "Core DevOps Solutions"
 ---
 
 ## On this page
@@ -9,7 +9,7 @@ title: "DevOps Solutions"
 - TOC
 {:toc}
 
-## DevOps Solution Definition
+## Core DevOps Solution Definition
 
 A DevOps solution is:
 * A customer problem or initiative that needs a solution and attracts budget
@@ -17,11 +17,12 @@ A DevOps solution is:
 * Often aligned to industry analyst market coverage (i.e. Gartner, Forrester, etc. write reports on the topic)
 * Relatively stable over time.
 * These are discrete problems that we believe GitLab solves and are reasons customers choose GitLab (hence which we should seek out in prospects)
+* Aligned to value plays and revenue programs
 
 More information on how GitLab uses solutions can be found on the [Solutions Go-to-market page](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/)
 
 
-## Specific DevOps Solutions go-to-market motions
+## SCore DevOps Solutions go-to-market motions
 
 #### [1. Usecase: DevOps Platform](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
 **Want to achieve expected results of DevOps given siloed teams, lack of visibility and collaboration which inhibits my speed of delivery** - (**DevOps Platform**)
@@ -34,7 +35,8 @@ I want to manage my entire DevOps lifecycle more efficiently with better outcome
    1. *Deliver Better Products Faster:* More collaboration, working in parallel
    1. *Reduce Security and Compliance Risk:* Testing early, and enforcing common controls like single sign on, and shared view for collaboration, reporting and visibility.
 
-#### [2. Continuous Integration (CI/CD)](/handbook/marketing/strategic-marketing/usecase-gtm/ci/)
+#### **2. Software Delivery Automation** 
+This is a new term for us and is being better defined. It will include (CI/CD)](/handbook/marketing/strategic-marketing/usecase-gtm/ci/), and more.
 **Increase the quality of my code while decreasing time to delivery** - Continuous Integration (**CI**)
 I need to automate the build and testing processes to consistently integrate code and continuously test. I want to run the unit and integration tests, measure performance and automate manual QA processes. I may use GitLab SCM or another. (Examples in GitLab include Pipeline, CI Runner, Jobs, Scheduled Jobs, Testing, Security Scanning (SAST), and Code Quality).
 
@@ -56,7 +58,8 @@ I want to automate the build, test and packaging, configuration and deployment o
    1. *Deliver Better Products Faster:* Automatically deploy and test application with early feedback.
    1. *Reduce Security and Compliance Risk:* Enforce common controls and scan for vulnerabilities at the point of code change.
 
-#### [3. DevSecOps (Shift Left Security)](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/)
+#### **3. Continuous Software Security Assurance**
+Aligns to what was DevSecOps (Shift Left Security)](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/)
 **Test for application security vulnerabilities early in my app dev lifecycle** 
 I need to identify vulnerabilities during development with actionable information to empower dev to remediate vulnerabilities earlier in the life cycle. (In GitLab, SAST, DAST, Dependency Scanning, and Container Scanning, etc.)
 
@@ -67,7 +70,7 @@ I need to identify vulnerabilities during development with actionable informatio
    1. *Deliver Better Products Faster:* Ability to start testing early in dev process to eliminate vulnerabilities at the source
    1. *Reduce Security and Compliance Risk:* Fix vulnerabilities with actionable feedback to the developer at point of code change. Auto remediate when possible.
 
-#### [4. Software Compliance](/handbook/marketing/strategic-marketing/usecase-gtm/compliance/)
+#### [4. Continous Software Compliance](/handbook/marketing/strategic-marketing/usecase-gtm/compliance/)
 **Reduce risk by ensuring pipelines are compliant with common controls and popular industry regulations**
 I need to enforce standardized CI pipelines that include requesite testing and the ensure common compliance controls are followed (such as separation of duties).
 
@@ -80,7 +83,9 @@ I need to enforce standardized CI pipelines that include requesite testing and t
 
 
 
-## Auxiliary Solutions
+## Wedge conversation topics
+
+These are topics where sales and marketing conversations may start, but then we want to lead the prospect toward delivery automation. For instance, GitOps is hot topic and ranking well in SEO so it's worth talking about. But ultimately we want drive people to delivery automation (or platform). 
 
 #### [1. Source Code Management (aka Version Control and Collaboration, VC&C](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration)
 **Create, manage and protect my intellectual property (i.e. source code, design, images, etc)** - in simple terms [Version Control](https://about.gitlab.com/solutions/version-control/) and Collaboration (VC&C), but more inclusively, *product configuration management* or *product asset management*.
