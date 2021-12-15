@@ -1161,7 +1161,14 @@ We are committed to providing opportunities for discussion, education and commun
 
 ## iPad Tracking
 
-To ensure we know who within the company currently has a company owned ipad, [please see here](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/1031).
+### AMER
+In the AMER region, we utilize [this issue](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/1031) to track the team's iPads.
+
+### EMEA
+In the EMEA region, [Ten&One](/handbook/marketing/field-marketing/#emea-field-marketing-swag) is utilized for the team's iPad tracking.
+
+### APAC
+TBD
 
 ## Setting Up Logins
 
