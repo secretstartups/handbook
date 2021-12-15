@@ -16,12 +16,10 @@ description: "GitLab Data Science Team Handbook"
 
 # Data Science at GitLab 
 
-
-The mission of the Data Science team is to help understand business, customers and products better with model-based insights.
-The team accomplishes this mission by building machine learning models and analysing data to convert results into trusted and scalable products. 
+The mission of the data science team is to facilitate more informed and quicker decision-making using predictive modeling.
 
 ## Data Science Responsibilities 
-Of the [Data Team's Responsibilities](https://about.gitlab.com/handbook/business-technology/data-team/#responsibilities) the Data Science Team is **directly responsible** for:
+Of the [Data Team's Responsibilities](https://about.gitlab.com/handbook/business-technology/data-team/#responsibilities), the Data Science Team is **directly responsible** for:
 
 - Delivering _descriptive_, _predictive_, and _prescriptive_ solutions that promote and improve [Gitlab's KPIs](https://about.gitlab.com/company/kpis/)
 - Being a **_Center of Excellence_** for advanced analytics and supporting other teams at Gitlab in their data science endeavors 
