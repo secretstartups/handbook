@@ -79,7 +79,7 @@ To gain access to SAFE Intermediate Dashboards:
 
 ![Sisense Spaces](safe_intermediate.png)
 
-Sisense Data Access Matrix:
+### Sisense Data Access Matrix:
 
 | Space | Read-Only | Editor |
 | ----- | --------- | ------ |
