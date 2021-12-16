@@ -78,7 +78,7 @@ The Senior People Operations Specialist is a [Grade 7](/handbook/total-rewards/c
 
 ## Manager, People Operations
 
-The Manager, People Operations reports to the Senior Manager, People Operations.
+The Manager, People Operations reports to the Director, Global People Operations
 
 #### Job Grade
 
@@ -150,7 +150,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 ## Senior Manager, People Operations
 
-The Senior Manager, People Operations reports to Director, People Operations. 
+The Senior Manager, People Operations reports to Director, Global People Operations. 
 
 #### Job Grade
 
@@ -215,7 +215,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 ## Director, Global People Operations
 
-The Director of Global People Operations reports to the [Senior Director, People Success](/job-families/people-ops/people-leadership/).
+The Director of Global People Operations reports to the VP, People Operations, Technology and Analytics
 
 #### Job Grade
 
@@ -225,28 +225,23 @@ The Director, Global People Operations is a [Grade 10](/handbook/total-rewards/c
 
 - Lead and manage a growing People Operations team responsible for managing the employee experience throughout the employee lifecycle.
 - Help shape a global People Operations strategy that aligns and moves the business towards continued growth, innovation and improvement.
-- Provide HR support and consultation to the business; answering employee and manager questions about HR programs, policies, and other HR-related items.
-- Provide HR support and leadership with respect to day-to-day HR life cycle activities of client groups, including performance management issues, investigations, and reorganizations.
-- Understand workforce needs as the company scales managing costs while staying competitive with salary, benefits, perks, leaves, etc.
-- Work with the executive team to come up with a competitive compensation strategy.
-- Assess and apply market data, ensuring alignment with the company’s total compensation philosophy.
-- Oversee performance, development, and the compensation review process.
+- Provide HR support and consultation to the business; answering employee and manager questions about HR programs, policies, and other HR-related items with the team member satisfaction top of mind and priority.
+- Provide HR support and leadership with respect to day-to-day HR life cycle activities of client groups, including onboarding, offboarding, relocations, and other team member events.
+- Coordinate and support new People program implementations.   
+- Create and manage streamlined processes and ensure alignment with key stakeholders inside and outside the People Team (Talent Acquisition Enablement, Payroll, Stock Administration, Finance)
+- Build collaborative relationships across the organization.  
 - Drive a progressive, proactive, positive culture, and increase levels of engagement, enablement, and retention.
-- Coach, influence, and provide guidance to business partners to figure out optimal organizational design, development, and performance management plans.
-- Assist with the maintenance and accuracy of HR data, including processing SAP data, such as Employee Action Forms.
-- Provide resolution to employee and organizational issues in a proactive and sensitive manner.
+- Assist with the maintenance and accuracy of HR data, including data audits.
+- Provide leadership and oversight of People Compliance function, ensuring compliant processes and alignment with local and international employee laws and regulations.  
 - Assess/identify HR strategy, policy, or process improvements.
-- Ensure People Operations strategies and processes remain aligned with the company’s talent management and workforce plans to enhance employee engagement and sustain business growth.
-- Collaborate with Chief People Officer, People Operations, and organizational leaders in fostering a culture of empowerment and performance; establish the employee lifecycle journey and succession plans.
+- Provide leadership and oversight of business expansion solutions, ensuring scalability, forward focused, and meet team member satisfaction requirements.  
 - Maintain in-depth knowledge of local, global, and federal employment laws; maintain and store records judiciously and securely.
 
 #### Requirements
 
 - 8+ years of progressive experience in HR roles with a demonstrable track record of building and optimizing processes, systems, and structures.
-- Requires a Bachelor’s degree preferably in Human Resources, Organizational Development, Organizational Leadership, or related field.
-- 5+ years hands-on experience with compensation & benefits.
-- Labor Relations experience required, preferably in multiple countries.
-- Working knowledge of regulatory and legal requirements related to total rewards and systems.
+- Working knowledge of regulatory and legal requirements related to employment and People Compliance.
+- Working knowledge of business employment solutions and the options available such as utilizing a PEO or hiring contractors.  
 - 3-5 years of experience leading people and cross-functional organizations.
 - Demonstrable ability to own, execute and deliver on short- and long-term projects.
 - Strategic and innovative thinker; able to prioritize and use sound judgment and decision-making.
@@ -261,10 +256,9 @@ The Director, Global People Operations is a [Grade 10](/handbook/total-rewards/c
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a 45 minute interview with our Senior Manager, People Operations
-* After that, candidates will be invited to schedule a 30 minute interview with members of the People Business Partner Team 
-* Next, candidates will be invited to schedule a 30 minute interview with members of the Legal team
-* After that, candidates will be invited to interview with the Senior Director, People Success
+* Next, candidates will be invited to schedule a 45 minute interview with our Director, Technology
+* After that, candidates will be invited to schedule a 30 minute interview with members of the Operations Team such as the Compliance Partner and/or Employment Solutions Partner
+* After that, candidates will be invited to interview with the VP, People Operations, Technology and Analytics
 * Finally, our CPO may choose to conduct a final interview
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
