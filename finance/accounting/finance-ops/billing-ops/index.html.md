@@ -78,7 +78,6 @@ The expected close to invoice cycle is 24-48 hours depending on the complexity o
 - **Commission Data Reporting and Invoice Validation**
 - **Month-End Activities**
     - Booking to billing reconciliation
-    - Cash receipts reconciliation
     - VAT reporting and validation
     - Professional services billing reconciliation
     - Reconciliation of related Balance Sheet G/L Accounts
