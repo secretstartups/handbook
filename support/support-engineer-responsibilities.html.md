@@ -63,6 +63,7 @@ tickets for each focus area is different. [This dashboard](https://gitlab.zendes
 contains the current values.
 
 #### How the baseline is calculated
+{: .no_toc}
 
 We establish a **dynamic baseline** that is 0.85 of the mean average for each
 metric.
@@ -78,6 +79,7 @@ Here's an example week for folks working on self-managed tickets:
 | **Baseline (0.85 of avg)** | 5.1    | 20              | 8.5            |
 
 #### Notes
+{: .no_toc}
 
 1. Support Engineers that have completed onboarding are expected to achieve the
    baseline as a minimum. Don't worry in a given week if you don't meet the
