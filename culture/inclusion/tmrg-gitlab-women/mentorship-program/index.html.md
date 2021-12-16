@@ -139,7 +139,7 @@ Applications will be prioritized on many points including:
 
 ### Apply
 
-Mentee application opened 2021-12-08. [Apply here to be a mentee.](https://docs.google.com/forms/d/e/1FAIpQLSfkDQZwdYw2CFguB_-O2gLC9Wznz88ec-JPnaLxF-VG-zAeCA/viewform?usp=sf_link)
+Mentee application opened 2022-01-12. [Apply here to be a mentee.](https://docs.google.com/forms/d/e/1FAIpQLSfkDQZwdYw2CFguB_-O2gLC9Wznz88ec-JPnaLxF-VG-zAeCA/viewform?usp=sf_link)
 
 _Applying for a mentee does not guarentee you a spot in the program, and eligibility will be evaluated based on criteria above._
 
