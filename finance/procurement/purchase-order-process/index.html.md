@@ -34,9 +34,9 @@ It is the responsibility of the business owner/issue creator to request a Purcha
 > ### Exceptions to the Purchase Order requirement:
 
 1. Confidential Legal Fees
-   - AP will route approvals in Tipalti based on matrix
+   - AP will route approvals in Coupa based on matrix
 1. Audit and Tax Fees
-   - AP will route approvals in Tipalti based on matrix
+   - AP will route approvals in Coupa based on matrix
 1. Benefits & Payroll
    - Includes PEOs and benefit related expenses
 
@@ -46,7 +46,7 @@ It is the responsibility of the business owner/issue creator to request a Purcha
 
 ## Creation of the Purchase Order
 
-Once a Vendor issue has completed the [Procure to Pay Process](/handbook/finance/procurement), a Purchase Order is created in Netsuite by the procurement team. Before the Purchase Order can be completed, the vendor must self register/setup within Tipalti. Any delay in the Vendor Setup process will delay payment to the Vendor. Refer to [Vendor Master Management](/handbook/finance/accounting/#3-vendor-master-management) for the Vendor set up process.
+Once a Vendor issue has completed the [Procure to Pay Process](/handbook/finance/procurement), a Purchase Order is created in Netsuite by the procurement team. Before the Purchase Order can be completed, the vendor must self register/setup within Coupa. Any delay in the Vendor Setup process will delay payment to the Vendor. Refer to [Vendor Master Management](/handbook/finance/accounting/#3-vendor-master-management) for the Vendor set up process.
 
 Detailed Guide with screen shots is available [here](https://docs.google.com/document/d/1iJQHbG1qBFwwis8i_-dtytMP2HY8MNg8rxAH0VS2L3E/edit#).
 
@@ -190,5 +190,5 @@ Contact Procurement directly in Slack via #procurement if you have questions.
 
 1.  The Business Owner / Requestor has to open a PO Change Approval issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=PO_Change_Approval) to begin the process.
 1.  Once the change has been approved by all parties, the Procurement team will amend the Purchase Order in NetSuite.
-1.  The Business Owner / Requestor has to send the bill back to Accounts Payable (either by logging into Tipalti or directly clicking on the button "Send back to AP" from the email) and notify that the PO has been amended by adding the PO Change Approval issue URL.
+1.  The Business Owner / Requestor has to send the bill back to Accounts Payable and notify that the PO has been amended by adding the PO Change Approval issue URL.
     - **If the bill is not sent back to AP by the Business Owner, the process will not move forward and the invoice won't be paid.**
