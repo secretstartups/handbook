@@ -179,9 +179,12 @@ If you are interested in participating in an active working group, it is general
 ## 11 Cross-Functional Initiatives   
 In FY22-Q4, we identified 11 cross-functional initiatives that are key to GitLab's success in FY23 and beyond. While there are other important business initiatives and priorities that exist within functions or require engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring. 
 
-Team members with appropriate permissions can find this list of initiatives in Google Drive by searching for "Top 11 Cross Functional Projects." This document is [limited access](/handbook/communication/#limited-access). 
-
 ### 11 Cross-Functional Initiative DRIs
 Each of our top cross-functional initiatives has an executive sponsor and a [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/). DRIs are the folks ultimately held accountable for the success (or failure) of the project. They are the linchpins as these initiatives require deep cross-functional alignment and coordination. DRIs are also responsible for performance tracking and reporting. This includes:
 1. Providing updates in advance of relevant [Key Reviews](https://about.gitlab.com/handbook/key-review). Updates should map to the Executive Sponsor who is aligned with the initiative. For example, category leadership maps to Marketing as the Exec Sponsor is the CMO. The DRI should plan to update the project tracking sheet and designated overview slides in advance of the meeting.
 1. Providing updates in Top Initiative Check In Meetings. No slides are needed, but the project tracking sheet should be updated in advance. DRIs should come prepared to speak to status of the initiatives and any notable risks and/or dependencies. 
+
+### Information Access
+The full tracking file is [limited access](/handbook/communication/#limited-access) as required to comply with [SAFE guidelines](/handbook/legal/safe-framework/). Team members with appropriate permissions have been given access to the initiative file. Team members with access should be captured in the first tab. If team members with access need to add folks who require access at this level, please confirm the addition with your E-Group sponsor and add to person to the first tab before providing access to the file. 
+
+Team members without access can find the initiavies by searching within Google Drive for "FY23 Cross-Functional Projects." The intention is to migrate this list to the internal handbook. 
