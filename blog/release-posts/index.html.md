@@ -1545,9 +1545,10 @@ Major releases happen once a year and start a new versioning cycle: 14.0 - 14.10
 
 ### Communicating breaking changes 
 
-Product Operations will support the product manager and technical writer who volunteer to draft, launch and share the breaking changes blog and push it across designated channels as needed. Four releases in advance of a major release (e.g 14.7 for 15.0) Product Operations initiates this process by posting in Slack #release-post and then cross-posting to #product and #tw-team requesting a PM volunteer and TW volunteer to drive the breaking changes blog.
+Product Operations will lead the communication of breaking changes for major releases as part of the release post. It is important the breaking changes be flagged for SaaS users prior to the rollout of the updates in the major version, so they are prepared and their workflow is not unexpectedly disrupted. Beginning with 14.7, we will use the [broadcast message feature](https://docs.gitlab.com/ee/user/admin_area/broadcast_messages.html) to communicate with users, looping in the appropriate stakeholders along the way.
 
-The product manager will lead the effort for breaking changes by leveraging the [breaking changes blog templates](LINK TBD) to create an epic as their SSOT for timeline and process, which will also include the TW-specific tasks. 
+These messages will begin four minor releases in advance of a major release (such as 14.7 for release 15.0). Product Operations initiates breaking changes communications when they're assigned an [automated GitLab issue](https://gitlab.com/gitlab-com/Product/-/tree/main/.gitlab/issue_templates/ProdOps-Breaking-Changes-Comms.md), with a task list and timeline. These communications should begin on the first day of the month four minor releases before the major release. For example: if the major 15.0 release is planned for May 22, the communications should begin January 1 during release 14.7. 
+
 
 ## Adding content
 
