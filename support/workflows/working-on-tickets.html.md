@@ -79,12 +79,11 @@ insight, or next steps to help move the ticket toward resolution.
 1. Ticket assignee uses the `Collaboration` macro to add an internal note
    summarizing the problem, the steps taken and why, the results of those steps,
    and the current status.
-1. Ticket macro adds the `needs_collaboration` label and removes the current
-   assignee. Make sure the assignee is listed in the CCs.
+1. Ticket macro adds the `needs_collaboration` label.
 1. Ticket assignee gets help from others via pairing sessions, internal notes
    and Slack.
-1. Original ticket assignee removes the `needs_collaboration` label once
-   sufficient assistance has been obtained, and takes the ticket.
+1. Ticket assignee removes the `needs_collaboration` label once
+   sufficient assistance has been obtained.
 
 ##### Support Team Providing Collaboration Assistance
 
