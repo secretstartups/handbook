@@ -149,14 +149,17 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
 
 ![vcard-image-11](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard11.png)
 <br>
-    - Click **Submit**.
-    - Click on the **Go to PR in Coupa to submit** link.
-    - On the **Review Cart** screen in Coua, complete the requisition. In the **Cart Items** section, edit the line(s) to enter the **actual Supplier name** in the **Requested Virtual Card Supplier** field then click **Save**. Then click "Submit".
+- Click **Submit**
+- Click on the **Go to PR in Coupa to submit** link.
+- On the **Review Cart** screen in Coua, complete the requisition.    
+   - In the **Cart Items** section, edit the line(s) to enter the **actual Supplier name** in the **Requested Virtual Card Supplier** field then click **Save**. 
+
 
 ![vcard-image-14](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard14.png)
+<br>
 
-     - Click "Submit".
-     - After the requisition has been approved, the PO will be issued and the requester will receive the Virtual Card number for use.
+- Click "Submit".
+- After the requisition has been approved, the PO will be issued and the requester will receive the Virtual Card number for use.
 
 <br>
 
@@ -172,7 +175,7 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
 ## Virtual Cards FAQ
 
 - **How long is the Virtual Card valid?**
-   - By default, the Virtual Card is valid for 60 days. After that, the card will expire for security reasons. If you are unable to make payment within those 60 days and the Virtual Card has expired, tag **Accounts Payable Approval Group** in the **Comments** section of the Purchase Order with the business justification for reissuing a card. 
+   - By default, the Virtual Card is valid for 60 days. After that, the card will expire for security reasons. If you are unable to make payment within those 60 days and the Virtual Card has expired, tag **@Accounts Payable Approval Group** in the **Comments** section of the Purchase Order with the business justification for reissuing a card. 
 
 - **How do I request an amount to increase the Virtual Card?**
    - Follow the same process as [How to do a Purchase Order Change Request](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request). Once the change request has been approved, the Virtual Card amount will be increased.
@@ -184,7 +187,7 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
    1. Locate the Supplier/charge to add the receipt/invoice then click the **Add** link under the **Receipts** column.   
    1. A box will appear, click on the **green plus sign** to attach the receipt/invoice. Then click **Save**.
 
- ![vcard-image-15](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard15.png)  
+ ![vcard-image-16](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard16.png)  
 
 <br>
 
