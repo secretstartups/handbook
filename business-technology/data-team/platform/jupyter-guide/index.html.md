@@ -75,7 +75,7 @@ By default, the local install will use the data-science folder as the root direc
 #### Enabling Jupyter Templates
 The data science team has created modeling templates that allow you to easily start building predictive models without writing python code from scratch. To enable these templates:
 1. In terminal run `pip install jupyterlab_templates`
-2. In your `jupyter_lab_config.py` that you created as part of the [Mounting a local directory](https://about.gitlab.com/handbook/business-technology/data-team/platform/jupyter-guide/#mounting-a-local-directory), add the following lines, replacing the path with the path to the `data-science/templates` repo on your local machine:
+2. In your `jupyter_lab_config.py` that you created as part of the [Mounting a local directory](https://about.gitlab.com/handbook/business-technology/data-team/platform/jupyter-guide/#mounting-a-local-directory), add the following lines, replacing `/Users/{your_user_name}/repos/` with the path to the `data-science/templates` repo on your local machine:
 ```
 c.JupyterLabTemplates.template_dirs = ['/Users/{your_user_name}/repos/data-science/templates']
 c.JupyterLabTemplates.include_default = False
