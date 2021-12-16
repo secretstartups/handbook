@@ -188,13 +188,53 @@ Location Factor is [calculated](#calculating-location-factors) using multiple da
 
 ### Geographical Areas
 
-The location factor depends on your [geographical area](#geographical-areas). To determine geographical areas as it relates to compensation, we looked at what the [United Nations](https://unstats.un.org/unsd/methodology/m49/) outlines globally.
+The location factor depends on your geographical area. To determine geographical areas as it relates to compensation, we looked at what the [United Nations](https://unstats.un.org/unsd/methodology/m49/) outlines globally:
+
+- Americas/LATAM:
+  - US: Central
+  - US: Mid Atlantic
+  - US: South Atlantic
+  - US: Mountain
+  - US: New England
+  - US: Pacific
+  - Canada
+  - Central America
+  - South America
+  - Caribbean
+- EMEA:
+  - Eastern Europe
+  - United Kingdom
+  - Northern Europe
+  - Southern Europe
+  - Western Europe
+  - Middle Africa
+  - Northern Africa
+  - Eastern Africa
+  - Southern Africa
+  - Western Africa
+- APAC:
+  - Central Asia
+  - Eastern Asia
+  - Northwestern Asia
+  - South-eastern Asia
+  - Southern Asia
+  - Southwestern Asia
+  - New Zealand
+  - Australia
 
 To determine your area:
 
-   1. Select the country you live in. This will filter out all areas outside of your country. Then you will select your Province or State (if applicable). Based on the choices under "Metro Area," if you live within a commutable one hour and forty-five minutes of a city listed, you may use that as your location. If you are within a commutable one hour and forty-five minutes of more than one city, the city with the shortest commute would be used as your location. If not, you will select "Not Applicable." If no additional boxes for State/Province and/or Metro Area generate for the country you select, this country has the same location factor regardless of the city you live in. Similarly, if no additional box generates for Metro Area after selecting a State/Province, this State/Province has the same location factor regardless of the city you live in.
+   1. Select the country you live in. This filters out all areas outside of your country.
+   1. Select your Province or State (if applicable).
+   1. Select your Metro Area if you live within a commutable one hour and forty-five minutes of a city listed.
+
+      If you are within a commutable one hour and forty-five minutes of more than one city, use the city with the shortest commute as your location. If not, select "Not Applicable."
+
+      If there are no additional boxes for State/Province and/or Metro Area for the country you select, this country has the same location factor regardless of the city you live in. Similarly, if there is no additional box for Metro Area after selecting a State/Province, this state or province has the same location factor regardless of the city you live in.
    1. If your country is not listed, reach out to total-rewards@domain to gather relevant data.
    1. When you move, you have to inform People Ops and Total Rewards, per the [Relocation process](/handbook/people-group/relocation/) and your compensation may be adjusted up or down. Refer to Total Rewards team or the Compensation Calculator to see what the likely impact will be.
+
+If the location of a metropolitan area is higher than the regional minimum, the metropolitan area's location factor is used for the calculation.
 
 ### Calculating Location Factors
 
