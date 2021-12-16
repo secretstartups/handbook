@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Meeting the FRT Service Level Agreement (SLA)
+title: Meeting the First Response Time (FRT) Service Level Agreement (SLA)
 description: "Meeting FRT SLA"
 category: Handling tickets
 ---
@@ -12,7 +12,7 @@ category: Handling tickets
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Aim: 95% or better FRT SLA achievement
+## Aim: 95% or better First Response Time (FRT) SLA achievement
 
 **Everyone in the Support team contributes every day to ensure tickets get first replies within the [Service Level Agreement](https://about.gitlab.com/support/#gitlab-support-service-levels)** we have with our customers.
 

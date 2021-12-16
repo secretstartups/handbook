@@ -60,7 +60,7 @@ Our [Support Service Levels](https://about.gitlab.com/support/#gitlab-support-se
 
 **What does success look like?**
 
-1. Every day, [take ownership of new tickets to help us meet our FRT Service Level Agreement](/handbook/support/workflows/meeting-frt-sla.html). The linked page gives guidance on how many new tickets to take based on your focus area.
+1. Every day, [take ownership of new tickets to help us meet our First Response Time (FRT) Service Level Agreement](/handbook/support/workflows/meeting-frt-sla.html). The linked page gives guidance on how many new tickets to take based on your focus area.
 
 ## 3. Join customer calls (Weekly)
 
