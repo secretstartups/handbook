@@ -24,14 +24,7 @@ When a lead is passed to a partner, they will be suspended from GitLab marketing
 # Types of Partner Campaigns
 
 ## Joint GitLab and Partner Events
-When GitLab and Partners participate in events together, they will share leads. The mural below shows the current rules of engagement
-
-<iframe src='https://app.mural.co/embed/b89f9208-e9f6-4df1-9c92-a886a5af0642'
-        width='100%'
-        height='480px'
-        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
-        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
-</iframe>
+When GitLab and Partners participate in events together, they will share leads. [This mural shows the current rules of engagement](https://app.mural.co/embed/b89f9208-e9f6-4df1-9c92-a886a5af0642) and lead flow.
 
 Lead statuses that are considered `GitLab actively working` are below. Being marked as such does not mean they will not be passed to the partner - follow the mural above for those rules. This will be iterated on in the short future.
 
