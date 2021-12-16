@@ -220,7 +220,7 @@ An infographic is an illustrated overview of a topic or process, and is typicall
 
 #### Topic page
 
-A topic page is a high-level explanatory "pillar" page dedicated to a specific topic, such as [version control](/topics/version-control/), [application security](/topics/application-security/), or [continuous integration](/topics/ci-cd/). Topic pages should explain what the subject is, why it is important, and explain the basic concepts of the subject. Topic pages should include links to additional related resources, such as blogs, web articles, videos, and case studies, as well as at least one CTA to a gated asset.
+A topic page is a high-level explanatory "pillar" page dedicated to a specific topic, such as [version control](/topics/version-control/), [DevSecOps](/topics/devsecops/), or [continuous integration](/topics/ci-cd/). Topic pages should explain what the subject is, why it is important, and explain the basic concepts of the subject. Topic pages should include links to additional related resources, such as blogs, web articles, videos, and case studies, as well as at least one CTA to a gated asset.
 
 #### Web article
 
@@ -229,7 +229,7 @@ Web articles are educational, informational content, designed to support topic p
 **Examples:**
 1. [How to choose the right continuous integration tool](/topics/ci-cd/choose-continuous-integration-tool/)
 2. [What are Git version control best practices?](/topics/version-control/version-control-best-practices/)
-3. [What is developer-first security?](/topics/application-security/what-is-developer-first-security/)
+3. [What is developer-first security?](/topics/devsecops/what-is-developer-first-security/)
 
 #### Case study
 
