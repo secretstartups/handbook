@@ -11,7 +11,10 @@ This is a senior leadership role. This role does not do any work our [Executive 
 
 The Chief of Staff to the CEO is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## [Chief of Staff to the CEO Q&A Video with the CEO](https://youtu.be/uUwmlJfim6U)
+## Q&A Videos
+
+* [2019-07-24 Chief of Staff to the CEO Q&A Video with the CEO](https://youtu.be/uUwmlJfim6U)
+* [2021-12-15 Chief of Staff partnership with the CEO Q&A Video](https://youtu.be/jdlNhxFTAnM)
 
 ## Responsibilities
 
