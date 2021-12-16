@@ -172,3 +172,17 @@ truly make the most of your time off, and make it easier to return to work:
 
 Please consider adding an item in the Support Week in Review after you get back to let the rest of the
 team know what you've been up to!
+
+## Catching up after long time-off 
+
+It can be a bit overwhelming trying to catch-up after a long time-off (a week or more). 
+So here is a list of resources to check that should get you up to date with almost everything 
+that happened while you were away:
+
+- [SWIR](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/)
+- Slack channels:
+  - `#company-fyi`
+  - `#company-fyiprivate`
+  - `#whats-happening-at-gitlab`
+
+Also, consider some tips for [returning from pto](https://about.gitlab.com/handbook/paid-time-off/#returning-from-pto).
