@@ -106,6 +106,7 @@ Before you end the call, take a few minutes to summarize the highlights of what 
 
 When crafting your emails to customers, follow the below recommended guidelines to ensure a positive experience.
 
+1. Strive to send your follow up email as soon as possible, or within one business day of your call. If it will take longer than that, set expectations with your customers upfront.
 1. Address every action item, and if you don't have an update yet, let them know that you're working on it and an estimated turnaround time.
 1. Keep your email as succinct as possible, as customers probably don't want to read lengthy emails.
 1. Share links whenever possible, however:
