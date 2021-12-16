@@ -20,10 +20,10 @@ Most (if not all) work begins with an issue or epic (which we will generally ref
    1. Proposal DRIs: assign the architecture issue to yourself, your manager, and an Architecture Evolution Coach (AEC); as we make progress and identify a management Engineering Leader, this individual will replace your manager as a DRI.
 1. Open a new Google Doc where you will collaborate on an architectural blueprint with others.
    1. Write an initial draft of the blueprint, describe the vision, challenges and opportunities.
-   1. Collaborate with AEC to find appropriate Domain Experts and Functional Experts (Security, QA and Infrastructure) that should be involved and @-mentioned in the blueprint merge request
+   1. Collaborate with AEC to find appropriate Domain Experts and Functional Experts (Security, QA, Database, and Infrastructure) that should be involved and @-mentioned in the blueprint merge request
    1. Collaborate with AEC to find relevant Product Management DRI if applicable and @-mention them in the blueprint merge request
    1. Post on [`#architecture` channel on Slack](https://gitlab.slack.com/archives/CJ4DB7517)
-   1. Post a request for the review on thei Slack channel (`#safe` Slack channel).
+   1. Post a request for the review on their Slack channel (`#safe` Slack channel).
    1. Once the initial draft gets approved, you can now move it to a merge request, and keep collaborating with DRIs there.
 1. Open an **architecture blueprint [merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/)**
    1. The merge request should briefly describe the proposal from the Google Doc in the [architecture blueprints directory](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints)
@@ -77,7 +77,7 @@ In order to choose the right stakeholders, the author and their manager will fir
 
 The first step is to find a management Engineering Leader that will be responsible for approving the proposal and adding the blueprint to the architecture roadmap. The management Engineering Leader needs to be someone who works on an [appropriate level in the organization](https://comp-calculator.gitlab.net/org_chart) to carry on the vision described in the proposal. For example, changes that involve only one team can be approved by an Engineering Manager; when multiple teams within a one section are involved, a Director of Engineering. Changes that span more than one department might require approval from the Executive VP.
 
-Domain Experts are people with deep skills on the topic at hand, and they can work anywhere in the organization (it can even be the author themself). Functional Experts get involved to ensure we have input and functional domain expertise available (from, for instance, Infrastructure, Security or QA).
+Domain Experts are people with deep skills on the topic at hand, and they can work anywhere in the organization (it can even be the author themself). Functional Experts get involved to ensure we have input and functional domain expertise available (from, for instance, Infrastructure, Security, Database or QA).
 
 All these people are here to amplify the influence of the author of the proposal in an environment that fosters creativity and knowledge sharing.
 
@@ -121,7 +121,7 @@ Sometimes there is an Architecture Evolution Coach available who is also a Domai
 
 #### Functional Experts
 
-Functional Experts are engineers with deep knowledge across specific functional areas, which include Security, QA, and Infrastructure. You should always involve these functional experts during the generation of blueprint so that we generate awareness early in the cycle and so that they can provide appropriate input into the blueprint.
+Functional Experts are engineers with deep knowledge across specific functional areas, which include Security, QA, Database, and Infrastructure. You should always involve these functional experts during the generation of blueprint so that we generate awareness early in the cycle and so that they can provide appropriate input into the blueprint.
 
 ##### Security
 
@@ -140,6 +140,13 @@ The QA expert is...
 The Infrastructure Expert is an engineer from Infrastructure's Reliability sub-department and can evaluate the impact of the blueprint on our reliability and availability posture. It is important to identify reliability aspects associated with the blueprint early, as workarounds to address availability, scalability and performance issues can be expensive, and directly affects GitLab.com's availability.
 
 @-mention `@gitlab-com/gl-infra/managers` so that a specific Infrastructure Functional Expert DRI is assigned to the blueprint.
+
+##### Database
+
+The Database Expert is an engineer from Database team and can evaluate the impact of the blueprint on our database, particularly looking at GitLab.com scale. It is important to identify database impact associated with the blueprint early, as workarounds to address performance issues can be expensive, and directly affects GitLab.com's availability.
+
+@-mention `@gitlab-org/database-team ` so that a specific Database Expert DRI is assigned to the blueprint.
+
 
 ### Blueprint merge request
 
