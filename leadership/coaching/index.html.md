@@ -24,6 +24,7 @@ There are various ways to find a coach at GitLab:
 * [Modern Health](/handbook/total-rewards/benefits/modern-health/), our Employee Assistance Program provides professional coaching to support development areas on the feedback you receive. 
 * Consider a senior to you in your larger team or someone outside of your team that has inspired you on the specific areas you are working and developing on. 
 * Your current Manager can be a coach that steers you towards future goals. Please ensure that your Manager can take you on in a coaching capacity. However, coaching can also be a type of interaction you have with your Manager during 1:1 discussions. 
+* When you've identified a coach, consider using the [Growth & Development benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#stq=Coaching&stp=1) to pay for professional coaching
 
 ## How coaches coach
 
