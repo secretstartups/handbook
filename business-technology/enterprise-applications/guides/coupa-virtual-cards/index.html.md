@@ -38,7 +38,7 @@ Please view demo video here [TBD] or follow the instructions below.
 </div>
 
 ## How to request a Virtual Card for Scenario A
-Supplier paid by Virtual Card for one time purchase or emergency payment
+**(Supplier paid by Virtual Card for one time purchase or emergency payment)**
 
 1. Click on the "Request Virtual Card" icon from your Coupa Home page.
 
@@ -88,7 +88,7 @@ The Cart Items section will list "Virtual Card" as the Supplier and will list th
 
 
 ## How to request a Virtual Card for Scenario B
-Supplier permanently paid by Virtual Card
+**(Supplier permanently paid by Virtual Card)**
 
 <div class="panel panel-danger">
 **IMPORTANT NOTE**
