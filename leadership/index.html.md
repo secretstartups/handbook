@@ -306,9 +306,17 @@ We sometimes self-organize [book clubs](/handbook/leadership/book-clubs) to read
 
 When you give leadership training please [screenshare the handbook instead of creating a presentation](/handbook/handbook-usage/#screenshot-the-handbook-instead-of-creating-a-presentation).
 
-### Manager Enablement
+### Leadership Development Opportunities 
 
-Managers can participate in our [manager challenge program](/handbook/people-group/learning-and-development/manager-challenge/), focused on developing foundational management skills to lead high performing teams.
+1. Managers can participate in our [manager challenge program](/handbook/people-group/learning-and-development/manager-challenge/), focused on developing management skills to lead all-remote teams.
+2. Leadership development coaching with the [growth & development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#introduction). More details about a formal GitLab coaching program to come. 
+3. [Self-led opportunities to be a mentor](/handbook/people-group/learning-and-development/mentor/) - keep an eye out for a company-wide mentorship program with applications opening at the end of January 2022.
+4. [Join the women's TMRG mentorship group](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/) to either be a mentor to practice leadership or get paired with a leader to learn from.
+5. Sign up for [Crucial Conversations training](handbook/people-group/learning-and-development/learning-initiatives/#crucial-conversations)
+6. Explore opportunities to join the [CEO Shadow program](/handbook/ceo/shadow/) or other division specific shadow programs with the [Chief of Staff](/handbook/ceo/chief-of-staff-team/#chief-of-staff-shadow), [People Experience team](/handbook/people-group/people-experience-shadow-program/), [Security](/handbook/engineering/security/security-shadow.html), and [Development Director Shadow Experiment.](https://about.gitlab.com/handbook/engineering/readmes/wayne-haber/development-director-shadow-experiment.html)
+7. Explore the skills needed to successfully transistion from IC to Manager in [GitLab Learn](/channel/coming-soon-transitioning-from-ic-to-manager). 
+8. Explore leadership and management courses on [LinkedIn Learning](https://www.linkedin.com/learning/topics/leadership-and-management?u=2255073)
+9. [Learning and Development](/handbook/people-group/learning-and-development/) is developing several programs in FY23 to include a [Managing at GitLab Course](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/78), [New Manager Bootcamp](https://gitlab.com/gitlab-com/people-group/learning-development/training-curriculum/-/issues/33), [LifeLabs Learning Pilot and Launch](https://gitlab.com/gitlab-com/people-group/learning-development/training-curriculum/-/issues/29), [coaching program](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/342), and much more!
 
 ## People Group
 
