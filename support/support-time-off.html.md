@@ -181,8 +181,8 @@ that happened while you were away:
 
 - [SWIR](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/)
 - Slack channels:
-  - `#company-fyi`
-  - `#company-fyiprivate`
-  - `#whats-happening-at-gitlab`
+  - [#company-fyi](https://gitlab.slack.com/archives/C010XFJFTHN)
+  - [#company-fyiprivate](https://gitlab.slack.com/archives/C02E7JGBU4E)
+  - [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/C0259241C)
 
 Also, consider some tips for [returning from pto](https://about.gitlab.com/handbook/paid-time-off/#returning-from-pto).
