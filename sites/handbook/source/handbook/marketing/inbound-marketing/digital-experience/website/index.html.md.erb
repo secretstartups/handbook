@@ -620,25 +620,25 @@ When creating new pages to list subsets of our learning resources, you should ma
 
 This markdown code generates a list of courses in from learn.yml filtering for only courses tagged with the use_case of "Continuous Integration". 
 
-```
+>>>
 <% data.learn.learn.select{|course| course.use_case == "Continuous Integration"}.sort_by(&:name).each do |course| %>
 <%= "- [#{course.name}](#{course.url})" %>
 <% end %>
-```
+>>>
 **List of certifications**
 
 This markdown code generates a list from learn.yml filtering for only those tagged as Certification.
 
-```
+>>>
 <% data.learn.learn.select{|course| course.assessment == "Certification"}.sort_by(&:name).each do |course| %>
 <%= "- [#{course.name}](#{course.url})" %>
 <% end %>
-```
+>>>
 
 **List of learning materials by use case in table form**
 You can see the source code on [this page](/learn/use-case/public/) for an example on how to build a page with headers based on the classification.yml file and then for each use case build a table with the relevant course data. 
 
-```
+>>>
 <% data.learn.classification["use-case"].categories.each do |use_case| %>
 <%= "## #{use_case.name}" %>
 
@@ -649,7 +649,7 @@ You can see the source code on [this page](/learn/use-case/public/) for an examp
 <% end %>
 
 <% end %>
-```
+>>>
 
 ### Creating a DevOps tools comparison page
 
