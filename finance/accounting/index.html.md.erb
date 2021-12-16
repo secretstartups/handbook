@@ -220,22 +220,11 @@ Procure to pay is the process of requisitioning, purchasing, receiving, paying f
 ### Vendor Master Management
 
 - If the vendor is not already set up in NetSuite it is considered a new vendor.
-- According to the new vendor's Legal Entity, they will be either onboarded into Tipalti or Coupa.
-
-#### New Vendor Onboarding - Tipalti
-
-Tipalti is an Accounts Payable Invoice and Payment Processing System that feeds data into NetSuite.
-
-**How vendors are added into Tipalti:**
-1. New vendors will be added to Tipalti by the Accounts Payable team. This will generate an onboarding email request to the vendor.
-1. Once a vendor receives the onboarding request, they will need to onboard themselves into the portal. They have to include their banking details and tax information which will all be stored in the secure portal.
-1.  Once a vendor onboards themselves in Tipalti, the vendor record will auto feed into NetSuite and the vendor is created.  Only after a vendor has onboarded themselves into Tipalti will they be ready to have invoices processed against their vendor record.
-1.  The vendor will receive auto generated instructions via email on how to submit their invoices to GitLab upon onboarding.  They can submit their invoices directly to the Tipalti portal or send them to *gitlab@supplierinvoices.com*.
-1.  If a vendor has any questions and/or AP inquiries please email them to *ap@gitlab.com*.
+- According to the new vendor's Legal Entity, they will be onboarded into Coupa.
 
 #### New Vendor Onboarding - Coupa
 
-Coupa is a procure-to-pay system that streamlines the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be rolling out in a phased approach, starting with the US and Netherlands entities - GitLab Inc, Federal, IT BV and BV.
+Coupa is a procure-to-pay system that streamlines the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be rolling out in a phased approach, with the US and Netherlands entities (GitLab Inc, Federal, IT BV and BV) in Phase I (2021-06-01). The remaining entities will be part of Phase II (2021-12-13).
 
 > You can learn more about Coupa on our [FAQ Page](/handbook/finance/procurement/coupa-faq/)
 
@@ -248,28 +237,13 @@ Coupa is a procure-to-pay system that streamlines the purchase request process, 
 1. After approval, the Supplier details will be integrated to NetSuite. Once the supplier is successfully created in NetSuite, it will flow back to Coupa to complete the New Supplier creation. By then, the Supplier should be available when creating Purchase Requests and Invoices.
 
 
-If you are a GitLab recurring vendor and did not get an onboarding email from Coupa please reach out to *ap@gitlab.com*.
+If you are a GitLab recurring vendor and did not receive an onboarding email from Coupa, please reach out to *ap@gitlab.com*.
 {: .alert .alert-info}
 
 ### Invoice Accounting
 
-#### Invoicing in Tipalti
-
-Invoices will arrive by email to gitlab@supplierinvoices.com or directly uploaded into the Tipalti portal by the vendor.
-
-1. The invoice is auto scanned into Tipalti (Tipalti is an AP Invoice and Payment Processing System that feeds data into NetSuite).
-1. AP locates the finance or procurement issue which corresponds with the invoice received to identify the invoice approver and the GL coding. All approvals must be complete in the issue in order for AP to process the invoice. 
-   If the invoice does not have a finance or procurement issue the AP team verifies that it is a recurring vendor and seeks approval from the prior invoice approver and ensures the approver is in line with the authorization matrix.  
-   If AP receives an invoice and it is not a recurring vendor and/or there is no approved finance or procurement issue, AP will not record the invoice in NetSuite.  AP will then locate the team member requesting the service and will ask them to reference an approved finance issue before the invoice could be recorded.  
-   AP will reference the finance or procurement issue in the header of the invoice when processing in Tipalti.
-1. AP routes the invoice to the appropriate GitLab team-member(s) via the Tipalti portal to obtain approval.
-1. The bill approver(s) are responsible to ensure that services/items were rendered/received as expected and billed accordingly.  They also need review the GL account, department and class to ensure bill is coded in line with the expected budget, and matching the approved issue.
-1. Once the requestor approves the invoice via Tipalti, Tipalti will automatically update the status of the invoice to approved and will record the transaction into NetSuite.
-1. Tipalti will send auto notifications to the business partners if they do not approve an invoice timely.  If an approver rejects the invoice AP will be notified and will act accordingly.
-   If you have rejected or disputed an invoice, please include clear instructions to the vendor and the AP on what actions are required. 
-
 **Entering a Bill (invoice) in NetSuite**
-Please note the below steps reference how to manually enter bills into NetSuite.  Effective 2019-11-01 all AP invoices should be getting processed through Tipalti and Effective 2021-06-01 we will begin to process in Coupa as well. These 2 systems will automatically record the transaction into NetSuite after the invoice has been approved by the corresponding business partner in the respective system.
+Please note the below steps reference how to manually enter bills into NetSuite.  Effective 2019-11-01 all AP invoices were processed through Tipalti. Effective 2021-06-01 (Coupa Phase I) and 2021-12-13 (Coupa Phase II), AP invoices will be processed in Coupa. These systems will automatically record the transaction into NetSuite after the invoice has been approved by the corresponding business partner in the respective system.
 
 1. On the NetSuite home page, click the “+” icon near the global search bar at the top of the screen and select “Bill."
 1. Select the appropriate vendor record. If adding a new vendor, follow the bullets below before proceeding, otherwise skip to step 3.
@@ -293,7 +267,7 @@ Please note the below steps reference how to manually enter bills into NetSuite.
 
 Coupa is a Procurement and Invoicing Tool. Similarly to purchase requests for goods/services that must be initiated in Coupa, invoices are also created and approved in Coupa.
 
-For all issues created before Coupa go-live (June 1st 2021), the business will not be setting up Purchase Orders for those and the Accounts Payable team will manually enter the related invoices as Non PO-backed.
+For all issues created before Coupa Go-Live (Phase I; 2021-06-01 and Phase II; 2021-12-13), the business will not be setting up Purchase Orders for those and the Accounts Payable team will manually enter the related invoices as Non PO-backed.
 {: .alert .alert-warning}
 
 Invoices in Coupa can be created via 4 different channels:
@@ -323,7 +297,7 @@ However, there will be no details regarding the integration issue. You will need
 
 <br>
 
-For vendors who invoice GitLab for multiple entities, all invoices are separated by subsidiary (due to audit standards). The Accounts Payable team will evaluate on an invoice by invoice basis which goes into Coupa and which will go into Tipalti. If the vendor onboards for the Coupa Supplier Portal (CSP), the vendor will only see the POs related to those entities, and will need to email the others. If you are a GitLab vendor who invoices for multiple entitites and you have any questions, please reach out to *ap@gitlab.com*.
+For vendors who invoice GitLab for multiple entities, all invoices are separated by subsidiary (due to audit standards). If the vendor onboards for the Coupa Supplier Portal (CSP), the vendor will only see the POs related to those entities, and will need to email the others. If you are a GitLab vendor who invoices for multiple entitites and you have any questions, please reach out to *ap@gitlab.com*.
 {: .alert .alert-warning}
 
 #### Approving an Invoice in Coupa
@@ -363,17 +337,6 @@ Once disputed, an invoice can be Withdrawn from Dispute by Accounts Payable or V
 The invoice rejection process in Coupa allows the Accounts Payable team to make adjustments on invoices before restarting approvals, continuing approvals or disputing the invoice back to the supplier. This is an internal status that suppliers cannot see indicating that an approver or approval group rejected the invoice. Comments are required when rejecting an invoice - please provide as much detail/information as possible.
 
 ###  Payment Process
-
-#### Processing payment for invoices in Tipalti
-
-1. On a weekly basis, AP will generate a batch in Tipalti of invoices due to be paid.
-1. AP will submit the batch to the payment approvers through the Tipalti portal.
-1. Management will review and approve the payment batches directly in the Tipalti portal.
-1. Management will communicate to AP via email to ap@gitlab.com when rejecting payments in the batches.  This will ensure AP is aware that payment is still pending and follow up is required.
-1. Once payments are approved the vendors will be paid and Tipalti will automatically record the payment in NetSuite and change the status of the invoice to paid.
-
-**Please note:** Invoices will be paid upon vendor payment terms. Any invoice approved and sent to AP by EOD Tuesday can be paid the following week on Monday and/or based on the vendor payment terms if the terms are NOT due UPON Receipt. Any invoice approved and sent to AP from Wednesday to Friday of that week will be paid the following Monday and/or based on the vendor payment terms, whichever comes first.
-{: .alert .alert-warning}
 
 **Billable Expenses**
 If you have an expense report that can be billed back to a customer please make sure to check the "billable" flag in Expensify along with tagging the customer name under the "customer" field in Expensify.
@@ -1012,7 +975,7 @@ The main function of a Finance Class/Tag created in Netsuite is to track expense
 
 Campaign owners track costs associated with events, content, webcasts, Subscriptions, Memberships, Contracts etc. Campaign tags can be applied to Expensify reports, corporate credit card charges, and vendor bills processed by Accounts Payable. Campaign expenses that are incurred by independent contractors should be clearly noted with the appropriate tag and included in their invoices to the company. 
 
-If the tag needed will incur costs greater than $5K, a Coupa PO or an issue needs to be created. Please visit the [Procurement page](https://about.gitlab.com/handbook/finance/procurement/#how-to-start-procurement-process) to identify which process is applicable to your purchase.
+If the tag needed will incur costs greater than $5K, a Coupa PO needs to be created. Please visit the [Procurement page](https://about.gitlab.com/handbook/finance/procurement/#how-to-start-procurement-process) to identify which process is applicable to your purchase.
 
 #### How to create a Class or Tag in Netsuite:
 
@@ -1027,7 +990,7 @@ Please navigate to [this tracker](https://docs.google.com/spreadsheets/d/1wBqvCv
 
 The name can be any combination of characters that does not exceed the 31 digits allowed by the system. The suggested format for assigning a name to the class is YYYYYYMMDD_Vendor_Description. We suggest that it contain the date or the related fiscal year, the vendor's name and/or the description of the expenses.
 
-Please be aware that once the class is created in Netsuite, the system automatically synchronizes with Expensify, Tipalti and Coupa to have the same classes created and available in each system.
+Please be aware that once the class is created in Netsuite, the system automatically synchronizes with Expensify and Coupa to have the same classes created and available in each system.
 
 If a tag has been created the owner is responsible for communicating and including the class in any related communication or expense.
 
