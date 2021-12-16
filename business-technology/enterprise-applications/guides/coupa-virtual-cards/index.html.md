@@ -21,9 +21,9 @@ GitLab’s preferred method of payment for suppliers is electronic funds transfe
 
 ## How to request a Virtual Card
 
-There are two different scenarios for Virtual Cards
-  - Scenario A: Supplier paid by Virtual Card for one time purchase or emergency payment **(most common request)**
-  - Scenario B: Supplier permanently paid by Virtual Card
+There are two different scenarios for Virtual Cards:
+  - **Scenario A:** Supplier paid by Virtual Card for one time purchase or emergency payment **(most common request)**
+  - **Scenario B:** Supplier permanently paid by Virtual Card
   
 Please view demo video here [TBD] or follow the instructions below.
 
@@ -37,25 +37,26 @@ Please view demo video here [TBD] or follow the instructions below.
 </div>
 </div>
 
-## How to request a Virtual Card for Scenario A: Supplier paid by Virtual Card for one time purchase or emergency payment
+## How to request a Virtual Card for Scenario A
+Supplier paid by Virtual Card for one time purchase or emergency payment
 
 1. Click on the "Request Virtual Card" icon from your Coupa Home page.
 
 ![vcard-image-1](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard1.png)
 
-1. Complete all the fields on the form. **NOTE** For the last question, check "No" and click "Submit".
+2. Complete all the fields on the form. **NOTE** - for the last question, check "No" and click "Submit".
 
 ![vcard-image-9](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard9.png)
 
 
-1. After the form is submitted, this will create a Requisition Cart for you.
+3. After the form is submitted, it will create a Requisition Cart for you.
    - Go to your Cart and click on "Review Cart". 
    - Complete the fields on the General Info section (see below for required fields). 
 
 ![vcard-image-3](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard3.png)
 
 
-1. Review the Cart Items section and verify the Billing information is correct. 
+4. Review the Cart Items section and verify the Billing information is correct. 
 
 <div class="panel panel-warning">
 **NOTE**
@@ -71,21 +72,23 @@ The Cart Items section will list "Virtual Card" as the Supplier and will list th
 </div>
 
    - Click on "Submit for Approval". 
-1. Once the Requisition is fully approved, a Purchase Order will be generated. You will receive an emailed notification that the Virtual Card is available for use for the Purchase Order. Click on the PO link. **NOTE** Only you, as the requestor, will have the ability to view the credit card details.
+
+5. Once the Requisition is fully approved, a Purchase Order will be generated. You will receive an emailed notification that the Virtual Card is available for use for the Purchase Order. Click on the PO link. **NOTE** Only you, as the requestor, will have the ability to view the credit card details.
   
 ![vcard-image-6](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard6.png)
 
-1. The Virtual Card information is provided on the Purchase Order under the "Payment" section. Click on the link to view the card details. You will be prompted to enter Two-Factor Authentication (2FA) verification code.
+6. The Virtual Card information is provided on the Purchase Order under the "Payment" section. Click on the link to view the card details. You will be prompted to enter Two-Factor Authentication (2FA) verification code.
 
 ![vcard-image-7](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard7.png)  
 
-1. The card number, expiration date, and CVV code will be available to the requester. At this point the requester can use the card information to complete the purchase or provide the card information to the supplier.
+7. The card number, expiration date, and CVV code will be available to the requester. At this point the requester can use the card information to complete the purchase or provide the card information to the supplier.
 
 ![vcard-image-8](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard8.png)  
 
 
 
-## How to request a Virtual Card for Scenario B: Supplier permanently paid by Virtual Card
+## How to request a Virtual Card for Scenario B
+Supplier permanently paid by Virtual Card
 
 <div class="panel panel-danger">
 **IMPORTANT NOTE**
@@ -101,7 +104,7 @@ The Cart Items section will list "Virtual Card" as the Supplier and will list th
    - Supplier only accepts credit card as form of payment and you have documentation regarding this requirement.
    - GitLab frequently purchases goods and services from this supplier.
    - This is the first time you are requesting the permanent virtual card for the supplier.
-- Accounts Payable will need to set up a Virtual Card as the supplier’s default form of payment. To facilitate this process, please select “Yes” to the last question in the Virtual Card form, then provide answers to the additional 4 questions. **NOTE** Insufficient information will delay the creation of the card.   
+- Accounts Payable will need to set up a Virtual Card as the supplier’s default form of payment. To facilitate this process, please select “Yes” to the last question in the Virtual Card form, then provide answers to the additional 4 questions. **NOTE** - insufficient information will delay the creation of the card.   
 
 ![vcard-image-10](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard10.png)
 
@@ -126,7 +129,7 @@ You only need to request a permanent virtual card for the supplier once. After A
    - Follow the same process as [How to do a Purchase Order Change Request](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request). Once the change request has been approved, the Virtual Card amount will be increased.
 
 - What if I have an Urgent Request?
-   - Urgent requests that need approval in less than 5 business days, need to be escalated in the #procurement channel for expediting per the below steps.
+   - Urgent requests that need approval in less than 5 business days, need to be escalated in the #procurement channel for expediting per the below steps;
       - Your slack message **MUST** include:
          - Link to your Coupa Request. 
             - Contracts should not be posted directly in slack.
