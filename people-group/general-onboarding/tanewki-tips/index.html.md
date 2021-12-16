@@ -55,8 +55,8 @@ After you sign your offer and complete your background check and references, you
 {: #tanuki-purple} 
 
 1. [TaNEWki Tips](https://about.gitlab.com/handbook/people-group/general-onboarding/tanewki-tips/) - This page is here to help walk you through what you can expect before and during your first few weeks as a new team member.
-1. [Select and Speak - Text to Speech](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en)
-1. [Read Aloud: A Text to Speech Voice Reader](https://chrome.google.com/webstore/detail/select-and-speak-text-to/gfjopfpjmkcfgjpogepmdjmcnihfpokn?hl=en)
+1. [Select and Speak - Text to Speech](https://chrome.google.com/webstore/detail/select-and-speak-text-to/gfjopfpjmkcfgjpogepmdjmcnihfpokn?hl=en)
+1. [Read Aloud: A Text to Speech Voice Reader](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en)
 1. [Rectangle App](https://rectangleapp.com/) - Move and resize windows with ease
 1. [OneTab](https://www.one-tab.com/) - Tab organizer for Chrome, Firefox, Edge, or Safari
 
