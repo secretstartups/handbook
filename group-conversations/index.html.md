@@ -130,7 +130,7 @@ Best practices for presentations:
 1. Slides with a lot of text that can be read on their own with lots of links are appreciated.
 1. If you want to present, please consider [posting a recording to YouTube](/handbook/marketing/marketing-operations/youtube/) at least a day before the meeting. Link it to the Google Doc (including specifying whether the video is private or public), and mention it in the relevant slack channels.
 1. Once a quarter, add a slide covering items being actioned from the engagement survey.
-1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as template to your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab.
+1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as template to your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab so [everyone can contribute](/company/strategy/#why).
 1. We encourage you to share metrics and key results during your Group Conversation. Please do not use cumulative metrics in your Group Conversations since those will usually show an upward trend and make it difficult to assess current performance. It is more appropriate to share cumulative metrics externally. See [#8 of the general presentation suggestions](/handbook/communication/#presentations) for more information about cumulative metrics.
 
 For more general presentation best practices, please see our communication handbook's [Presentation section](/handbook/communication/#presentations). 
@@ -206,7 +206,7 @@ Additional links which may be useful when preparing to moderate a call include:
 
 ### During the Call
 
-1. It is important to start Start the Group Conversation at the exact time indicated within the calendar invite; it is at this point which you will start the livestream using the following [guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#starting-a-livestream).
+1. It is important to start Start the Group Conversation at the exact time indicated within the calendar invite; it is at this point which you will start the livestream using the following [guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#starting-a-livestream). Do not start the livestream earlier than the scheduled time to avoid long silence at the beginning of the video.
 1. If an error which reads `Please grant necessary Privilege for Livestreaming` pops up, click on the option that appears beside the GitLab Unfiltered account in the middle of the page reading `Not Me` - you will then be prompted to sign in again, please do so and click `Go Live` afterwhich Zoom should indicate `Live on YouTube` in the upper left hand orner.
 1. Be sure to either close or mute the YouTube page to prevent an echo.
 1. In the event that you are unable to stream to YouTube for any reason, inform the Host that you will record the conversation via Zoom and upload the video to YouTube after the conversation has ended. In addition to this be sure to post the YouTube link to the #group-conversations Slack channel once it has been uploaded.
@@ -276,6 +276,14 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Jean-Baptiste Larramendy | No | Every other month |
 | [Alliances](/handbook/alliances/) | Nima Badiey | No | Every other month |
 
+
+## Examples of Past Group Conversations
+
+All of the public live streamed Group Conversations can be found on the GitLab Unfiltered Youtube channel [Group Conversations playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e).
+
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/EAtkUmww_7I"></iframe></figure>
+
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/V_UAe5dhrTc"></iframe></figure>
 
 ## Request a new Group Conversation
 
