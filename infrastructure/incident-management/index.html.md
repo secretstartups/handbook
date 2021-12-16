@@ -30,8 +30,7 @@ resolution. To that end, incident management provides:
 
 1. well-defined [roles and responsibilities](#roles-and-responsibilities) and [workflow](#incident-workflow) for members of the incident team,
 1. control points to manage the flow **information** and the **resolution path**,
-1. a **root-cause analysis** (RCA),
-1. and a post-incident review where lessons and techniques are extracted and shared
+1. an incident review where lessons and techniques are extracted and shared
 
 When an [incident starts](#reporting-an-incident), the automation sends a message
 in the [`#incident-management`](https://gitlab.slack.com/archives/CB7P5CJS1) channel
@@ -130,8 +129,8 @@ If any of the following are true, it would be best to engage an Incident Manager
     1. VP of Infrastructure - Steve Loyd
 1. After the incident is resolved, the Incident Manager is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review/).
 1. For high severity bugs that affect customers, the Incident Manager is responsible for making sure Incident Reviews are coordinated with other departments in Engineering and go through the complete Incident Review process.
-1. When engaged in an active incident near the end of an Incident Manager shift, the current Incident Manager owns the decision as to whether to continue in their role or to transition the active incident to the incoming Incident Manager. In most cases, this transition should be the expected default behavior. 
-1. During a shift where no Incident Manager engaged incidents have occurred, no transition ("handover") is required. 
+1. When engaged in an active incident near the end of an Incident Manager shift, the current Incident Manager owns the decision as to whether to continue in their role or to transition the active incident to the incoming Incident Manager. In most cases, this transition should be the expected default behavior.
+1. During a shift where no Incident Manager engaged incidents have occurred, no transition ("handover") is required.
 
 To engage the Incident Manager: either run `/pd trigger` in Slack, then select the "GitLab
 Production - IMOC" service, or create an incident in [the Pagerduty page for the](https://gitlab.pagerduty.com/service-directory/PE8A5MX)
