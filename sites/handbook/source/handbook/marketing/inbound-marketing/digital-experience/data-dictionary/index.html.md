@@ -68,3 +68,52 @@ To facilitate finding links contained in markdown inside files that do not highl
 ```
 (?:__|[*#])|\[(.*?)\]\(.*?\)
 ```
+
+## Google Enhanced Ecommerce
+
+We use Google's [enhanced ecommerce for tag manager](https://developers.google.com/analytics/devguides/collection/ua/gtm/enhanced-ecommerce) to collect information across our web properties. 
+
+Our data needs to confrom to four APIs:
+
+1. [Product impressions](https://developers.google.com/analytics/devguides/collection/ua/gtm/enhanced-ecommerce#product-impressions)
+1. [Add product](https://developers.google.com/analytics/devguides/collection/ua/gtm/enhanced-ecommerce#add)
+1. [Checkout](https://developers.google.com/analytics/devguides/collection/ua/gtm/enhanced-ecommerce#checkout)
+1. [Purchases](https://developers.google.com/analytics/devguides/collection/ua/gtm/enhanced-ecommerce#purchases)
+
+The values we use in that API are described below by key/value pair, where arrays of each value are arrays of possible values. In practice, only one should be used: 
+
+- `name`: `[Ultimate, Premium, Pipeline Minutes, Storage]`
+- `id`: `[0001, 0002, 0003, 0004]`
+- `price`: `[99, 19, 10, 60]`
+- `brand`: `GitLab`
+- `category`: `DevOps`
+- `variant`: `[SaaS, Self-Managed]`
+- `quantity`: `Integer`
+- `affiliation`: `GitLab`
+- `option`: `Visa`
+- `revenue`: `"Total Price" eg 289.34`
+- `tax`:`"Tax Amount" eg: 13.45`
+- `shipping`:`0`
+- `coupon`: `"Leave Empty"`
+
+So an example product object might look like this:
+
+```js
+{
+  name: 'Ultimate',
+  id: '0001',
+  price: '99',
+  brand: 'GitLab',
+  category: 'DevOps',
+  variant: 'Saas',
+  quantity: 1,
+  affiliation: 'GitLab',
+  option: 'Visa',
+  revenue: '289.34', // The total price paid, after taxes, fees, etc.
+  tax: '13.45',
+  shipping: '0',
+  coupon: null,
+}
+```
+
+This specification was derived from the the work [Empirical Path put together](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/uploads/f252fc80f1dd6799d19e4d57d6b4c239/Gitlab_GTM_DataLayer_Spec.pdf).
