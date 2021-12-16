@@ -180,6 +180,8 @@ So here is a list of resources to check that should get you up to date with almo
 that happened while you were away:
 
 - [SWIR](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/)
+
+- [Support Team Meeting](https://docs.google.com/document/d/1jwj5g0BIq3kTepw2-ZD9VSETs7Isf6YDHGzmYxmTt50/)
 - Slack channels:
   - [#company-fyi](https://gitlab.slack.com/archives/C010XFJFTHN)
   - [#company-fyiprivate](https://gitlab.slack.com/archives/C02E7JGBU4E)
