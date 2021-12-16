@@ -392,6 +392,16 @@ In most companies the Performance/Growth Matrix is used exclusively as a managem
 
 The guidelines below are general guidelines and recommendations. However, *each department is at liberty to determine what works best for their groups in collaboration with their People Business Partner*. For all groups we recommend that managers communicate Performance and Growth factors. 
 
+### Final Assessments in BambooHR
+
+Aligned with the [timeline](https://about.gitlab.com/handbook/people-group/talent-assessment/#timeline), managers can see final assessments for each of their team members in their respective BambooHR profiles. To navigate to final assessments follow the steps below:
+
+1. Use Okta to log in to BambooHR
+2. Go to your team member's BambooHR profile
+3. Go to the `job` tab
+4. Scroll down to the bottom of the page to the `Performance and Growth Table`
+5. The most recent assessment will have a `2021-12-01` effective date
+
 ## Promotions During Assessment Cycle
 
 The cut-off date to determine whether to assess team members at the pre-promotion level or post-promotion level for the FY'22 Q4 Talent Assessment cycle is **November 1, 2021** aligned with the cycle kick off. Guidelines are as follows: 
