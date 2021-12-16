@@ -26,6 +26,7 @@ There are two different scenarios for Virtual Cards:
   - **Scenario B:** Supplier permanently paid by Virtual Card
   
 Please view demo video here [TBD] or follow the instructions below.
+<br>
 
 <div class="panel panel-danger">
 **IMPORTANT NOTE**
@@ -39,24 +40,26 @@ Please view demo video here [TBD] or follow the instructions below.
 
 ## How to request a Virtual Card for Scenario A
 **(Supplier paid by Virtual Card for one time purchase or emergency payment)**
+<br>
 
-1. Click on the "Request Virtual Card" icon from your Coupa Home page.
+Step 1. Click on the "Request Virtual Card" icon from your Coupa Home page.
 
 ![vcard-image-1](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard1.png)
+<br>
 
-2. Complete all the fields on the form. **NOTE** - for the last question, check "No" and click "Submit".
+Step 2. Complete all the fields on the form. **NOTE** - for the last question, check "No" and click "Submit".
 
 ![vcard-image-9](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard9.png)
+<br>
 
-
-3. After the form is submitted, it will create a Requisition Cart for you.
+Step 3. After the form is submitted, it will create a Requisition Cart for you.
    - Go to your Cart and click on "Review Cart". 
    - Complete the fields on the General Info section (see below for required fields). 
 
 ![vcard-image-3](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard3.png)
+<br>
 
-
-4. Review the Cart Items section and verify the Billing information is correct. 
+Step 4. Review the Cart Items section and verify the Billing information is correct. 
 
 <div class="panel panel-warning">
 **NOTE**
@@ -70,18 +73,22 @@ The Cart Items section will list "Virtual Card" as the Supplier and will list th
 
 </div>
 </div>
+<br>
 
-   - Click on "Submit for Approval". 
+Step 5. Click on "Submit for Approval". 
+<br>
 
-5. Once the Requisition is fully approved, a Purchase Order will be generated. You will receive an emailed notification that the Virtual Card is available for use for the Purchase Order. Click on the PO link. **NOTE** Only you, as the requestor, will have the ability to view the credit card details.
+Once the Requisition is fully approved, a Purchase Order will be generated. You will receive an emailed notification that the Virtual Card is available for use for the Purchase Order. Click on the PO link. **NOTE** Only you, as the requestor, will have the ability to view the credit card details.
   
 ![vcard-image-6](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard6.png)
+<br>
 
-6. The Virtual Card information is provided on the Purchase Order under the "Payment" section. Click on the link to view the card details. You will be prompted to enter Two-Factor Authentication (2FA) verification code.
+The Virtual Card information is provided on the Purchase Order under the "Payment" section. Click on the link to view the card details. You will be prompted to enter Two-Factor Authentication (2FA) verification code.
 
 ![vcard-image-7](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard7.png)  
+<br>
 
-7. The card number, expiration date, and CVV code will be available to the requester. At this point the requester can use the card information to complete the purchase or provide the card information to the supplier.
+The card number, expiration date, and CVV code will be available to the requester. At this point the requester can use the card information to complete the purchase or provide the card information to the supplier.
 
 ![vcard-image-8](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard8.png)  
 
@@ -107,8 +114,10 @@ The Cart Items section will list "Virtual Card" as the Supplier and will list th
 - Accounts Payable will need to set up a Virtual Card as the supplier’s default form of payment. To facilitate this process, please select “Yes” to the last question in the Virtual Card form, then provide answers to the additional 4 questions. **NOTE** - insufficient information will delay the creation of the card.   
 
 ![vcard-image-10](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard10.png)
+<br>
 
-Submit the form and complete the requisition cart as outlined in Scenario A steps 3-4.
+Submit the form and complete the requisition cart as outlined in above Scenario A steps 3-4.
+<br>
 
 <div class="panel panel-warning">
 **NOTE**
@@ -129,7 +138,7 @@ You only need to request a permanent virtual card for the supplier once. After A
    - Follow the same process as [How to do a Purchase Order Change Request](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request). Once the change request has been approved, the Virtual Card amount will be increased.
 
 - What if I have an Urgent Request?
-   - Urgent requests that need approval in less than 5 business days, need to be escalated in the #procurement channel for expediting per the below steps;
+   - Urgent requests that need approval in less than 5 business days, need to be escalated in the #procurement channel for expediting per the below steps:
       - Your slack message **MUST** include:
          - Link to your Coupa Request. 
             - Contracts should not be posted directly in slack.
