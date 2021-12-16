@@ -150,7 +150,9 @@ If you identify a ticket as from a trial user,
 - select `Self-provisioned trial` in the `SaaS Subscription` or `Self-Managed Subscription`field
 
 **Note:**  A Zendesk trigger will automatically add a `trial` tag to the ticket and it will be moved to the `Free user tickets` view without SLA,
-so you should also respond with the appropriate `Free User` macro.
+so you should also respond with the appropriate `Free User` macro. 
+
+For 2FA Free tickets, there is no need to respond with the [`Support::SaaS::Free 2FA Support Deprecated`](https://gitlab.zendesk.com/agent/admin/macros/360049871240) macro because there is already a [trigger](https://gitlab.com/gitlab-com/support/support-ops/zendesk-triggers/-/blob/master/triggers/active/Automation%20Stage/Autoreply%20to%20Free%20and%20consumption%202FA%20tickets.yaml) that automatically sends the 2FA Free messaging to customers as long as the ticket meets the specified trigger conditions. You would only need to send that macro if something has told Zendesk to skip sending it when it did need to be sent.
 
 ### Identifying free users
 
