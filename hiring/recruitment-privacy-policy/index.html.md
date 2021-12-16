@@ -79,6 +79,10 @@ Your personal information will be retained until the end of the employment appli
 
 You may access, correct, or delete your personal information at any time. You may also withdraw your consent, or object to the processing of your personal information when based on our legitimate interests. To do so, please contact us at: `recruiting@gitlab.com`.    
 
+Due to a high volume of Candidates, GitLab uses automated decision-making to filter Candidates based on responses to our application questions.  When certain criteria is met regarding visa sponsorship, work permits, hiring country, and other employment restrictions, our software will reject your application.  This is because GitLab cannot legally hire or sponsor workers in a number of jurisdictions, or in certain cases other legal requirements are in place that prevent hiring. We will continually update which responses will result in a rejection of your application as our legal requirements change.  Once rejected, your application will not move forward in our recruitment process.
+
+Our use of automated decision-making enables us to enter into an employment contract with the selected Candidate by providing a manageable list of possible candidates.  If you object to our use of automated decision-making for the reasons stated above, please contact us at `recruitingops@gitlab.com` to request a separate review of your application by one of our trained recruitment specialists.  After this separate review, we will contact you with an explanation of our decision.
+
 #### Policy Changes
 
 GitLab may change this Privacy Policy from time to time. If we decide to make a significant change to this Privacy Policy, we will post a notice of the update on this site. We encourage you to periodically review this page for the latest information.
