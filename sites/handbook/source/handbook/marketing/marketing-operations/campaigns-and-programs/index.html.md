@@ -655,9 +655,6 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 - Make sure `opt-in` language is on the Linkedin Form, if not, remove the `opt-in` step in the campaign Flow
 - Turn on / Activate the triggered campaign in the `schedule` tab of the smart campaign
 - All linkedin programs with your form prefix will now flow through this campaign
-- Update `Add to nurture (trigger)` smart list and flow steps. 
-  - Update `member of program` filter in the smart list to be the program name.
-  - Edit the `flow` steps to be the nurture program you desire to push leads into, and the stream.
 
 ##### Step 5: Update this Handbook page
 - Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a `yes` and a link to the parameter and campaign you have set up.
