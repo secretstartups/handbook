@@ -221,7 +221,7 @@ From there, identify what will be needed to attain the new skills and consider u
 
 In a [discussion with Darren Murph, Head of Remote at GitLab, about his career development](https://gitlab.edcast.com/pathways/career-development-with-darren-murph/cards/7123731), Darren called out the importance of taking time out to learn, reminding the team that career development is "not something that comes around the fringes of work - it is work". The Take Time out to Learn initiative leans into this idea.
 
-Consider documenting the steps you are going to take learn new skills in the individual growth plan. Check in with your manager and ask for accountablity from them to help you stay aligned with goals. 
+Consider documenting the steps you are going to take learn new skills in the individual growth plan. Check in with your manager and ask for accountablity from them to help you stay aligned with goals.
 
 
 ## Mini-Challenge
@@ -249,15 +249,6 @@ All of GitLab's Learning and Development programs use the [GitLab tool to facili
 Learning campaigns at GitLab have an asynchronous focus and are used to raise awareness around a specific topic or set of resources. These campaigns are inspired by the structure of a learning challenge but without the required engagement or tracking. For example, the L&D team is using a learning campaign structure to host a [mental health awareness week](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/156)
 
 Learning campaigns use a combination of GitLab issues and Slack announcements to raise awareness and spark discussion. Following the campaign, the L&D team will aggregate comments and resources that have surfaced and document in the handbook. Learning campaigns can be used to build buzz around a live speaker series or to start conversation about a common question or issue that GitLab team members are facing.
-
-### Management Tip of the Week
-
-Weekly Slack messages that are posted in the #managers channel with quick, practical management advice to help people leaders do their job better, delivered weekly on Thrusday's. Sample topics include:
-- LinkedIn Learning Courses, articles, GitLab Learn, handbook pages, etc. 
-- Training announcements
-- External webinars
-- Management thought leadership
-
 
 ## CEO Handbook Learning Sessions
 
