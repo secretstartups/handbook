@@ -90,7 +90,7 @@ Maturity of data science projects closely follows the [Gitlab product maturity m
 - **Unplanned**: Not implemented, and not yet on our roadmap.
 - **Planned**: Not implemented, but on our roadmap; executive sponsor attached to project.
 - **Viable**: Available, but not fully productionalized yet; scores and insights manually generated; low adoption outside of immediate stakeholders.
-- **Complete**: Fully implmented into Data Team cloud production infrastructure; increasing adoption of corresponding dashboards and scores within the intended organization.
+- **Complete**: Fully implemented into Data Team cloud production infrastructure; increasing adoption of corresponding dashboards and scores within the intended organization.
 - **Optimized**: Fine-tuned, fully automated, and self-service; continuous model monitoring and scoring; high adoption within intended organization.
 
 ### Project Slack Channels
