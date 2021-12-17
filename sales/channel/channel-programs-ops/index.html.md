@@ -93,7 +93,7 @@ In order to collaborate with partner organizations, the Channel Solutions Archit
     * Click on the sub-group for the region where the partner is located.
     * Review the list of partners in that region.
 2. If you did not see the partner in the sub-group for their region, create a sub-group named `Partner Company Name` with two sub-groups (collaboration and internal) under the company sub-group.
-    a. Please refer to the [Sub-groups documentation page](https://docs.gitlab.com/ee/user/group/subgroups/) to learn how to create sub-groups.
+    * Please refer to the [Sub-groups documentation page](https://docs.gitlab.com/ee/user/group/subgroups/) to learn how to create sub-groups.
     * Please refer to an existing partner company sub-group and use it to as a model for the new one that you are creating.
 3. Whether they had to create a new collaboration sub-group for the partner or there is an existing collboration sub-group for the partner, the CAM is required to add and/or verify that the partner primary contact is a member of the collaboration sub-group with `maintainer` permissions.  
 After a partner accepts an invitiation, the CAM:
