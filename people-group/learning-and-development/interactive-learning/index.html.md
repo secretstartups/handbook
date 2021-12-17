@@ -115,6 +115,14 @@ The following best practices should be followed when building learning content t
 
 Not all video on the GitLab Unfiltered channel is handbook first. In order to be sure that video in EdCast aligns with the handbook first best practices outlined above, we've elected to turn off the GitLab Unfiltered API in EdCast. 
 
+### Content Creation Best Practices
+
+The Instructional Designer on the Learning & Development Team maintains a [Content Creation Best Practices Guide](https://docs.google.com/document/d/1YZnPU5qCO6VhXttqTt97A69jsQyUsO0oPCNJe_Adv4o/edit?usp=sharing) to provide team members with a guide when creating learning content. 
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSBYFxRxMH36U03Eo-Ko2WbMdM-JJgj03Rel4WH9napbzcOQepFOXatixlBwTXyJEROg4hnGXsxt52j/pub?embedded=true"></iframe>
+</figure>
+
 ### Learning Video Best Practices
 
 In addition to making video learning content handbook first, consider these best practices when recording video training or delivering live training:
