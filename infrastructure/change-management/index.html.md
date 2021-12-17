@@ -229,9 +229,7 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 
 | Dates                       | Type       | Reason                        |
 |-----------------------------|------------|-------------------------------|
-|24 - 28 November 2021 |Soft | US Thanksgiving Holiday (Low team member availability) |
-|24 - 26 December 2021 |Hard | Christmas Holiday (Low team member availability) |
-|31 December 2021 - 2 January 2022 |Hard | New Years (Low team member availability) |
+|24 December 2021 - 2 January 2022 |Hard | Year End Holidays (Low team member availability) |
 | Recurring: 22nd of every month         | Soft       | Release day                   |
 | Recurring: [Scheduled Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/#upcoming-family-and-friends-days)         | Soft       | Family and Friends Days                   |
 
