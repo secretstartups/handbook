@@ -15,7 +15,7 @@ description: Information on GitLab's Employee Assistance Program.
 
 GitLab offers an Employee Assistance Program to all team members via [Modern Health](https://www.joinmodernhealth.com/). Modern Health provides technology and professional support to help reduce stress, feel more engaged, and be happier. Through GitLab, you have access to 5 coaching sessions and 6 therapy sessions at no cost to you as well as 100+ digital programs & mediations and unlimited live provider-led group sessions or circles.
 
-For more information on Modern Health and getting started, we recorded an [information session](https://drive.google.com/file/d/1dodfWAPP3XDWUmDI9bB5jaqxOe3Bieqe/view?usp=sharing) in April 2021 that walks a team member through valuable information about this benefit and how to start utilizing it.
+For more information on Modern Health and getting started, we recorded an [information session](https://drive.google.com/file/d/1dodfWAPP3XDWUmDI9bB5jaqxOe3Bieqe/view?usp=sharing) in April 2021 and another session in [December 2021](https://drive.google.com/file/d/1emrCtcTiOJzxma1895qOzEXLKtpXsj9d/view?usp=sharing) that walks a team member through valuable information about this benefit and how to start utilizing it.
 
 ### What does Modern Health offer?
 
