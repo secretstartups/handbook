@@ -25,9 +25,7 @@ In an effort to continually improve our ability to derive success of campaigns, 
 ## Anchor Campaigns and Activation in Geos
 {: #anchor-campaigns-and-activation .gitlab-purple}
 
-Global campaigns 
-
-<div style="width: 600px;" class="embed-thumb"> <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab2474/murals/gitlab2474.1598468466093-5f46b1720e54f644475491fc-61c7931a-18e2-4a73-90dd-eafcb724b939.png?v=27e40478-1cf5-43f3-8970-f6d66232a7d1) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1598468466093/3fecfe10c92a0e8b26403fe8e44305c6049185e4" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div> <p style="margin-top: 10px;margin-bottom: 60px;line-height: 24px; font-size: 16px;font-family: Proxima Nova, sans-serif;font-weight: 400; color: #888888;"> You will enter this mural in View Only mode. </p></div>
+Anchor campaigns are developed and then activated across each segment (Enterprise, MidMarket, SMB) and each region (AMER, EMEA, APAC, PubSec) as appropriate. Below is a diagram that demonstrates what is included in a **Campaign Bundle** (i.e. the anchor campaign) to then be leveraged by the campaigns team, digital marketing, field marketing, abm, etc. for activation in region and consistent messaging throughout the buyer journey.
 
 <iframe src='https://app.mural.co/embed/9f6f85dc-e19e-4d54-851a-c0a786871c1c'
         width='100%'
