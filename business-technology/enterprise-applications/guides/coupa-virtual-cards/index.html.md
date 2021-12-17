@@ -56,7 +56,7 @@ There are two different scenarios for Virtual Cards:
 ![vcard-image-1](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard1.png)
 <br>
 
-**Step 2.** Complete all the fields on the form. **NOTE - for the last question, check **No** and click **Submit**.**
+**Step 2.** Complete all the fields on the form. **NOTE - for the last question, check "No" and click "Submit".**
 
 ![vcard-image-9](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard9.png)
 <br>
@@ -76,6 +76,7 @@ There are two different scenarios for Virtual Cards:
 <div class="panel-body">
 
 The Cart Items section will list **Virtual Card** as the Supplier and will list the actual supplier's name under the **Requested Virtual Card Supplier** field.
+<br>
 
 ![vcard-image-4](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard4.png)
 
@@ -87,7 +88,7 @@ The Cart Items section will list **Virtual Card** as the Supplier and will list 
 **Step 5.** Click on **Submit for Approval**. 
 <br>
 
-Once the Requisition is fully approved, a Purchase Order will be generated. You will receive an emailed notification that the Virtual Card is available for use for the Purchase Order. Click on the PO link. **NOTE** - only you, as the requestor, will have the ability to view the credit card details.**
+Once the Requisition is fully approved, a Purchase Order will be generated. You will receive an emailed notification that the Virtual Card is available for use on that Purchase Order. Click on the PO link to view the Virtual Card details. **NOTE - only you, as the requestor, will have the ability to view the Virtual Card details.**
   
 ![vcard-image-6](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard6.png)
 <br>
@@ -97,7 +98,7 @@ The Virtual Card information is provided on the Purchase Order under the **Payme
 ![vcard-image-7](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard7.png)  
 <br>
 
-The card number, expiration date, and CVV code will be available to the requester. At this point the requester can use the card information to complete the purchase or provide the card information to the supplier.
+The card number, expiration date, and CVV code will be available to the requester. At this point the requester can use the card details to complete the purchase.
 
 ![vcard-image-8](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard8.png)  
 
@@ -119,8 +120,8 @@ The card number, expiration date, and CVV code will be available to the requeste
 - The supplier must meet the below requirements:
    - Supplier only accepts credit card as form of payment and you have documentation regarding this requirement.
    - GitLab frequently purchases goods and services from this supplier.
-   - This is the first time you are requesting the permanent virtual card for the supplier.
-- Accounts Payable will need to set up a Virtual Card as the supplier’s default form of payment. To facilitate this process, please select “Yes” to the last question in the Virtual Card form, then provide answers to the additional 4 questions. **NOTE - insufficient information will delay the creation of the card.**   
+   - This is the first time you are requesting the permanent Virtual Card for the supplier.
+- Accounts Payable will need to set up a Virtual Card as the supplier’s default form of payment. To facilitate this process, please select **Yes** to the last question in the Virtual Card Request form, then provide answers to the additional 4 questions. **NOTE - insufficient information will delay the creation of the card.**   
 
 ![vcard-image-10](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard10.png)
 <br>
@@ -158,7 +159,7 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
 ![vcard-image-14](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard14.png)
 <br>
 
-- Click "Submit".
+- Click **Submit**.
 - After the requisition has been approved, the PO will be issued and the requester will receive the Virtual Card number for use.
 
 <br>
@@ -166,8 +167,8 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
 - **Suppliers to be paid permanently by Virtual Card**
    - Submit the requisition through Allocadia using the **actual Supplier name**.
    - When completing the requisition in Coupa, tag **@Accounts Payable Approval Group** in the **Comments** section requesting the supplier to be set up with Virtual Card as the permanent payment method. You only need to request a permanent virtual card for the supplier once.
-   - AP will set up the permanent Virtual Card as a **Requester Card** (SPA Document Type = PO) and will confirm in the requisition comments that it has been created.
-   - After the requisition has been approved, the PO will be issued and the requester will receive the Virtual Card number for use.
+   - AP will set up the permanent Virtual Card as a **Requester Card** and will confirm in the requisition comments that it has been created.
+   - After the requisition has been approved, the PO will be issued and the requester will receive the Virtual Card for use.
 
 <br>
 
@@ -175,15 +176,15 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
 ## Virtual Cards FAQ
 
 - **How long is the Virtual Card valid?**
-   - By default, the Virtual Card is valid for 60 days. After that, the card will expire for security reasons. If you are unable to make payment within those 60 days and the Virtual Card has expired, tag **@Accounts Payable Approval Group** in the **Comments** section of the Purchase Order with the business justification for reissuing a card. 
+   - By default, the Virtual Card is valid for 60 days. After that, the card will expire for security reasons. If you are unable to make payment within those 60 days and the Virtual Card has expired, tag **@Accounts Payable Approval Group** in the **Comments** section of the Purchase Order. You must include the business justification for reissuing a card in your comments.
 
 - **How do I request an amount to increase the Virtual Card?**
    - Follow the same process as [How to do a Purchase Order Change Request](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request). Once the change request has been approved, the Virtual Card amount will be increased.
 
 - **How do I attached a receipt or invoice?**
-   - Go to to your Settings
-   1. Navigate to **Activity**
-   1. Select **Charges**
+   - Go to to your **Settings**.
+   1. Navigate to **Activity**.
+   1. Select **Charges**.
    1. Locate the Supplier/charge to add the receipt/invoice then click the **Add** link under the **Receipts** column.   
    1. A box will appear, click on the **green plus sign** to attach the receipt/invoice. Then click **Save**.
 
@@ -193,7 +194,7 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
 
 - **What if I have an Urgent Request?**
    - Urgent requests that need approval in less than 5 business days, need to be escalated in the #procurement channel for expediting per the below steps:
-      - Your slack message **MUST** include:
+      - Your Slack message **MUST** include:
          - Link to your Coupa Request. 
             - Contracts should not be posted directly in slack.
          - Date needed.
