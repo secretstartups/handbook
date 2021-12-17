@@ -52,9 +52,9 @@ _**Attendees:**_ Business Technology plus other departments depending on vendor
 
 ## Book Club
 
-_**Frequency: Not defined
+_**Frequency:**_ Not defined
 
-_**Attendees: Business Technology
+_**Attendees:**_ Business Technology
 
 Book Club: [Truth from the Valley: A Practical Primer on Future IT Management Trends](https://gitlab.com/gitlab-com/book-clubs/-/issues/12)
 

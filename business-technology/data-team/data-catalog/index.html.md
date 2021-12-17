@@ -26,8 +26,9 @@ The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Ke
 **On 2021-09-08 Sisense dashboard access will be changing, driven by GitLab's maturation and the [SAFE Data Framework](https://about.gitlab.com/handbook/legal/safe-framework/). The following section describes the planned access process.**
 
 Access to Sisense dashboards is based on job role and goverened by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Sisense, dashboards are classified into the following spaces:
+- the **GitLab** space is a General Access area which houses dashboards which do not require SAFE handling. General Access Dashboards are accessible by all GitLab Team Members.
+- the **SAFE Intermediate Dashboard** space houses dashboards which do not require SAFE handling, but are based on data models that contain SAFE Data.  SAFE Intermediate Dashboards are available to GitLab Team Members based on job role or demonstrated need.
 - the **SAFE Dashboard** space houses all dashboards that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart). SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need.
-- the **GitLab** space is a General Access area which houses all dashboards which do not require SAFE handling. General Access Dashboards are accessible by all GitLab Team Members.
 
 A complete list of Dashboards, including SAFE Dashboards, is available in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index).
 
@@ -46,7 +47,7 @@ To gain access to SAFE Dashboards:
 
 1. Create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and list up to three SAFE Dashboards from the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index) you require access to. This list of SAFE Dashboards will help approvers understand your needs and intent.
 2. Request approval from your immediate manager, your Departmental VP (or equivalent), and the SAFE Space Owner defined in the GitLab Dashboard Index header. Approval is **not needed**, if you have an approval for SAFE Data [access](/handbook/business-technology/data-team/platform/#warehouse-access) in Snowflake, that is not older than 60 days. Skip this step and link to the particular AR. 
-3. Once the request is approved, tag @gitlab-data/analysts and the Data Team will process the request.
+3. Once the request is approved, follow the instructions in the tech_stack.yml file for provisioning. 
 4. After processing is complete you will be able to login to Sisense and access your requested SAFE dashboard and all other dashboards within the SAFE Dashboard Space.
 
 ![Sisense Spaces](sisense_spaces_singular.png)
@@ -56,6 +57,39 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 SAFE Data in Google Sheets files can be accessed using the instructions for [Accessing a SAFE Dashboard](/handbook/business-technology/data-team/data-catalog/#accessing-a-safe-dashboard). Please follow those instructions to gain access to SAFE Data in Google Sheets. 
 
 `END OF 2021-09-08 SAFE Dashboard Change Announcement`
+
+`IMPORTANT: 2021-12-17 SAFE Intermediate Dashboard Changes`
+
+**On 2021-12-17 We will iterate on the SAFE Dashboard Program by creating a new **SAFE Intermediate Dashboard** space. The **SAFE Intermediate Dashboard** space is driven by GitLab's maturation and the [SAFE Data Framework](https://about.gitlab.com/handbook/legal/safe-framework/). The following section describes the planned access changes.**
+
+Access to the **SAFE Dashboard** space is not changing and team members can continue to follow the [Accessing a SAFE Dashboard](/handbook/business-technology/data-team/data-catalog/#accessing-a-safe-dashboard) instructions to gain access to the space. Access to the **GitLab** space is not changing and that continues to be a baseline entitlement for all team members. What is changing is the creation of a new **SAFE Intermediate Dashboard** space that will be governed as follows: 
+
+### Accessing a SAFE Intermediate Dashboard
+
+- The **SAFE Intermediate Dashboard** space houses dashboards that do NOT expose Material Non-Public Information (MNPI); however, they are built using restricted data models that contain sensitive financial data. Having VIEW only access to the space will NOT result in a team member being added to the designated insiders list by being included in the space. However, a team member could still be added to the designated insiders list for having access to sensitive information in other applications outside of Sisense. Having the EDITORS role in the **SAFE Intermediate Dashboard** space WILL result in the team member being added to the designated insiders list. This is because EDITORS in the Space will have access to all of the sensitive data in the restricted schemas in the space. Team members should check to see if the dashboard they require VIEW only access is available in the **SAFE Intermediate Dashboard** space so they can avoid be adding to the **SAFE Dashboard** space and thereby being added to the designated insiders list. A complete list of Dashboards, including SAFE and SAFE Intermediate Dashboards, is available in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index).
+
+- Editors in the **SAFE Intermediate Dashboard** space should not expose MNPI in the charts and dashboards. Generally speaking, data insights that show Total Company ARR, Net and Gross Dollar Retention, Revenues, and Expenses should not not be exposed in the SAFE Intermediate Space and should continue to be built in the **SAFE Dashboard** space. Data insights that show a partial view of the Sales Funnel, a partial view of ARR or other sensitve financial data, or an abstraction of senstive financial data such that one cannot determine what the Total Company metrics would be are ok to visualize in the **SAFE Intermediate Dashboard**. Should Editors in the space have any questions about a specific dashboard, they can ask in the #safe Slack channel and ping a member of the data team for assistance.
+
+- SAFE Intermediate Dashboard Change Management: ALL new dashboards in the space will require review by the Data Team, Corporate Finance, and Legal to ensure no MNPI data has been exposed in the dashboard. The recommended development workflow is to develop your new dashboard in the SAFE space and when you are ready to release the dashboard, you could open an issue in the Data Team project, have the dashboard reviewed, and then migrate it to the SAFE Intermediate Dashboard space. The Data Team can assist with this process and request for the dashboard to be copied over. Any new charts added to existing dashboards in the space or any material changes to existing charts in the dashboard that would cause the insights to change require review by the Data Team, Corporate Finance, and Legal.  Please open a ticket in the Data Team project and request review of the dashboard when you make updates. This change management policy is to insure that no material MNPI is exposed in the space and will help keep the space safe.  
+
+To gain access to SAFE Intermediate Dashboards:
+
+1. To receive VIEW access only, create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and follow the instructions in the tech_stack.yml file.
+2. Due to the sensitive and nuanced nature of data in this **SAFE Intermediate Dashboard** space, only a select few Functional and Central Data Analysts have been added to the Space as Editors. Any additional Editor users would be added on a case by case basis when new Functional and/or Central Data Analysts join the team and would need access to develop dashboards in the Space. Team members are permitted to gain view access as needed with Manager approval.
+3. Once the request is approved, follow the instructions in the tech_stack.yml file for provisioning. 
+4. After processing is complete you will be able to login to Sisense and access your requested SAFE Intermediate dashboard and all other dashboards within the SAFE Intermediate Dashboard Space.
+
+![Sisense Spaces](safe_intermediate.png)
+
+### Sisense Data Access Matrix:
+
+| Space | Read-Only | Editor |
+| ----- | --------- | ------ |
+| General / GitLab | Baseline entitlement | AR with manager approval |
+| SAFE Intermediate Dashboard | AR with manager approval | No additional Editors will be added at this time | 
+| SAFE Dashboard | AR with manager, departmental VP (or equivalent) and SAFE Space owner approval | AR with manager, departmental VP (or equivalent) and SAFE Space owner approval |
+
+`END OF 2021-12-17 SAFE Intermediate Dashboard Change Announcement`
 
 ## Data By Subject Area
 
@@ -80,14 +114,15 @@ SAFE Data in Google Sheets files can be accessed using the instructions for [Acc
 
 #### Analytics Projects
 
-* Propensity to Buy: [Project](https://gitlab.com/gitlab-data/propensity-to-buy), [Handbook](/handbook/business-technology/data-team/organization/data-science/#propensity-to-buy)
-* Propensity to Contract and Churn: [Project](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [Presentation](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68)
+* Propensity to Expand: [Project](https://gitlab.com/gitlab-data/propensity-to-buy), [Handbook](/handbook/business-technology/data-team/organization/data-science/#projects), [Presentation](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0)
+* Propensity to Contract and Churn: [Project](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [Handbook](/handbook/business-technology/data-team/organization/data-science/#projects), [Presentation](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68)
 
 ### Finance
 
 * [TD: Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr/)
 * [Opportunity to Subscription Mapping](/handbook/business-technology/data-team/data-catalog/opportunity_subscription_mapping/)
 * [Zuora Revenue Waterfall](/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
+* [TD: Available to Renew](/handbook/business-technology/data-team/data-catalog/available_to_renew/)
 
 ### Product
 

@@ -183,7 +183,7 @@ _Completion of all fields is necessary for approvals. Any missing or incomplete 
 - Select `Sales-assisted (SFDC Quote)` if the customer will need to go through the sales team to purchase the proposed SKU.
 
 **License Type**
-- If the license will be for SaaS (cloud-based) or self-hosted (On-premise) customers.
+- If the license will be for SaaS (cloud-based) or self-managed (On-premise) customers.
 
 **Product/Service Type for Quoting**
 - Add On Product is the only option for Professional Services SKUs.

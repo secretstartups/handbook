@@ -24,7 +24,7 @@ The user-facing end of GitLab's data stack is comprised of our BI Tool, Sisense 
 Some useful links that we recommend for you to bookmark:
 
 - [Service Pings documentation](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html)
-- Snowplow [backend](https://docs.gitlab.com/ee/development/event_tracking/backend.html) and [frontend](https://docs.gitlab.com/ee/development/event_tracking/frontend.html) documentation
+- Snowplow [backend](https://docs.gitlab.com/ee/development/telemetry/index.html) and [frontend](https://docs.gitlab.com/ee/development/telemetry/index.html) documentation
 - [DBT documentation](https://dbt.gitlabdata.com/#!/overview) where most of the tables are documented
 - [Sisense link](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B)
 
@@ -245,7 +245,7 @@ Because Snowplow doesn't rely on Service Ping and is mainly for GitLab SaaS, dat
 
 As mentioned, even though the anonymization of snowplow events is a major limitation, with the fast feedback, it is an effective source of data to measure feature adoption and usage.
 
-We recommend Product Managers and their teams use [Snowplow custom structured events](https://github.com/snowplow/snowplow/wiki/canonical-event-model#customstruct), which are Snowplow's canonical events. We have built [`Tracking`](https://docs.gitlab.com/ee/development/event_tracking/frontend.html) and [`GitLab::Tracking`](https://docs.gitlab.com/ee/development/event_tracking/backend.html), 2 wrappers for Snowplow JavaScript and Ruby Trackers respectively.
+We recommend Product Managers and their teams use [Snowplow custom structured events](https://github.com/snowplow/snowplow/wiki/canonical-event-model#customstruct), which are Snowplow's canonical events. We have built [`Tracking`](https://docs.gitlab.com/ee/development/telemetry/index.html) and [`GitLab::Tracking`](https://docs.gitlab.com/ee/development/telemetry/index.html), 2 wrappers for Snowplow JavaScript and Ruby Trackers respectively.
 
 - JavaScript trackers can be used to collect users' frontend action, especially clicks.
 - Ruby trackers can be used to collect any event happening in the backend. For example, we currently use them for monitor:APM. More information in this [issue](https://gitlab.com/gitlab-org/gitlab/issues/121724)

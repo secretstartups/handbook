@@ -21,9 +21,10 @@ title: "Meltano At Gitlab"
 ## Meltano
 
 Currently 3 project repository is in place for Meltano.
+
 | SNo.  | Repository | Description | 
 | - | ---------- | ----------- |
-| 1 | [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano) | his project hold infrastructure related code i.e. it hold kubernetes pods creation information in `gitlab-app.yaml` and configuration in `meltano.yml`. | 
+| 1 | [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano) | Contains infrastructure related code i.e. it hold kubernetes pods creation information in `gitlab-app.yaml` and configuration in `meltano.yml`. | 
 | 2 | [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps) |  This is primary repository which holds the TAP source code. It has at the moment source code for `TAP-XACTLY` and `TAP-ADAPTIVE ` | 
 | 3 | [tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc) | This project which hold tap-zengrc source code.  | 
 
