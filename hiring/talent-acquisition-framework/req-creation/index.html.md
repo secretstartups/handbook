@@ -114,8 +114,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiter will cr
 Title: Function: Job name, Greenhouse req/opening number
 Due Date: Target Start Date
 Labels: Division and Department
-1. Open up a [kick-off issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/issues/new) and attach to the Child Eric
-1. Open a [weekly check-in issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/blob/master/.gitlab/issue_templates/weekly-check-in.md) and attach to the Child Epic.
+1. The recruiter will also need to open up a [kick-off issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/issues/new), open a [weekly check-in issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/blob/master/.gitlab/issue_templates/weekly-check-in.md) and attach both to the Child Epic.
 
 ### Kick-off & Finalize Greenhouse Setup (DRI: Recruiter)
 
@@ -124,7 +123,7 @@ Labels: Division and Department
 #### Complete the Kick-Off
 
 1. Schedule a [Kick-off Session](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session) or complete a-sync with the Hiring Team.
-1. Notify the CES Team inside the kickoff issue so the job can be published to the [Careers Page](/jobs/careers/)
+1. Prepare the job to be posted on the [Careers Page](/jobs/).
 
 #### Post the job internally
 
@@ -160,6 +159,24 @@ New Job Alert: TITLE
 Apply internally: LINK
 Review how to make a referral: /handbook/hiring/referral-process/
 ```
+
+#### Using job posting rules in Greenhouse
+
+Setting up job posting rules when publishing a new job can save time later on by automatically removing candidates that are applying from countries in which we cannot hire them.
+
+There are two fields that we can consider using job post rules to help manage applications: candidate location and candidate visa sponsorship needs.
+The recommendation is to implement a rule on job postings that automatically rejects candidates who are applying from countries where we cannot actively hire.
+To do this, the following steps should be taken:
+
+1. In the custom application questions section of the job setup, add the question "Please choose the country in which you are located" and select the option to make this a required question.
+1. Navigate to the "Manage Rules" link in the "Job Posts" section of the job setup and choose to "Add a rule".
+1. Design a rule so that when a candidate selects a country that we cannot hire them in then they are auto-rejected.
+1. Choose "Country Hiring Restriction" as the rejection reason and choose to "send email" using the "Reject because we cannot hire in this country" template to be sent to the candidate.
+
+Similarly, you can set up a custom rule to reject candidates based on visa requirements following the process above and applying rules to the question "Will you now or in the future require sponsorship for a visa to remain in your current location? (Please be aware that GitLab does not offer any form of Work Sponsorship.)"
+
+If you are applying rules to reject candidates based on visa sponsorship needs it's important to consider whether there's a possibility that we may reject candidates with complex situations that we actually can hire. If there is any doubt, avoid using rules to reject candidates automatically based on visa sponsorship requirements.
+
 
 #### Update the Scorecard
 
