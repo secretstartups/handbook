@@ -35,13 +35,18 @@ canonical_path: "/company/team/structure/working-groups/"
 
 ## Exit Criteria
 
-### Select a learning platform for Professional Services 
-1. Robust eCommerce features
-1. Seamless learner experience for paid customers
+### Select a learning platform for Professional Services, that supports the following
+1. System must include:  
+     1. eCommerce features
+     1. Excellent learner experience
+     1. Learning Paths
+     1. Certification Exams
+     1. Certification Provisioning
+     1. Integration with CRM
 
 ### Determine if learning platform can be used by other audiences
 1. Document in the handbook if learning platform can be used by Field Enablement and L&D use cases
-2. Go/No-go decision on the need for another learning platform for team members
+2. Go/No-go decision on the need for an additional learning platform for team members
 
 ## Roles and Responsibilities
 
