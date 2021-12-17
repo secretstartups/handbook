@@ -108,13 +108,10 @@ For positions that are included in the GitLab Hiring Plan, the Recruiter will cr
 1. Scroll to the bottom of the page and click `Request Approval`.
 1. You'll be redirected to the vacancy in Greenhouse, where you can review the vacancy, make any changes, or make any updates.
 
-#### Setup Child Epic, Weekly Check-In Issue, and Kick-Off Issue
+#### Kick-Off Issue
 
-1. Create a Child Epic in the Talent Acquisition Project Project. Child Epics should be created in the correct Functional Parent Epic:
-Title: Function: Job name, Greenhouse req/opening number
-Due Date: Target Start Date
-Labels: Division and Department
-1. The recruiter will also need to open up a [kick-off issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/issues/new), open a [weekly check-in issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/blob/master/.gitlab/issue_templates/weekly-check-in.md) and attach both to the Child Epic.
+
+1. The recruiter will open up a [kick-off issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/issues/new).
 
 ### Kick-off & Finalize Greenhouse Setup (DRI: Recruiter)
 
