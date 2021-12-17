@@ -40,9 +40,8 @@ The Program Manager, Learning & Development (Junior) is a [grade 5](/handbook/to
 #### Program Manager, Learning & Development (Junior) Responsibilities
 
 - Support the identification and design of learning solutions to support GitLab's growth
-- Maintains the back-end management of learning administration to include certifications, knowledge assessments, external learning inquires, and internal training programs
-- Develops Learning Management System (LMS) adoption guides for team members and enablement activities with guidance from the L&D Partner 
-- Supports the L&D Generalist with integrating the LMS into GitLab. Utilizes the LMS course authoring tool to create Handbook first course content
+- Maintains the back-end management of learning administration to include certifications, knowledge assessments, external learning inquires, and internal training programs 
+- Supports L&D Program Managers with integrating the LMS/LXP into GitLab. Utilizes the LMS course authoring tool to create Handbook first course content
 - Develop customized learning paths for team members that incorporate customized and curated learning content
 - Track and monitor training consumptions through reporting and analytics
 
@@ -57,8 +56,8 @@ The Program Manager, Learning & Development (Junior) is a [grade 5](/handbook/to
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/). 
 
-* 30-minute interview with L&D Partner 
-* 30-minute interview with L&D Generalist
+* 30-minute interview with L&D Manager
+* 30-minute interview with L&D Program Manager
 * 30-minute interview with a People Business Partner (PBP)
 * A final assessment, candidates may be invited to give a short 10-minute presentation on managing underperformance to the L&D team
 
@@ -99,7 +98,7 @@ The Program Manager, Learning & Development (Intermedidate) is a [grade 6](/hand
 
 ### Senior Program Manaager, Learning & Development 
 
-The Learning & Development Manager reports to the [Talent Acquisition Leadership](/job-families/people-ops/talent-acquisition-leadership/).
+The Senior Program Manaager, Learning & Development reports to the [L&D Manager](/job-families/people-ops/talent-acquisition-leadership/).
 
 ####  Senior Program Manaager, Learning & Development 
 
@@ -107,7 +106,7 @@ The Learning & Development Partner is a [grade 7](/handbook/total-rewards/compen
 
 ####  Senior Program Manaager, Learning & Development Responsibilities
 
-- Extends the Learning & Development Generalist responsibilities
+- Extends the Learning & Development, Program Manager (Intermediate) responsibilities
 - Partner with members of the People group and the leadership team to identify, develop, and deliver solutions that support the growth of our team members and GitLab's success
 - Establish an internal learning and development roadmap for all GitLab managers and individual contributors
 - Iterate on existing materials and design and develop new L&D content, utilizing [GitLab's YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) and [handbook](/handbook/handbook-usage/)
@@ -118,9 +117,9 @@ The Learning & Development Partner is a [grade 7](/handbook/total-rewards/compen
 - Identify and design the right learning solutions to support GitLab's growth
 - Build and scale initiatives that focuses on company culture, individual development, strengthening our leadership, and organizational learning
 
-####  Senior Program Manaager, Learning & Development  Requirements
+####  Senior Program Manager, Learning & Development  Requirements
 
-- Extends the Learning & Development Generalist requirements
+- Extends the Learning & Development Program Manager (Intermediate) requirements
 - 5+ years experience in related work such as instructional design and developing learning content
 - Track record of designing engaging and impactful development programs that improves individual, team, and company performance
 - Exceptional written and interpersonal skills
@@ -144,11 +143,11 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 ### Learning & Development Manager 
 
-The Learning & Development Manager reports to the [Senior Director, People Success](/job-families/people-ops/people-leadership/#senior-director-people-success).
+The Learning & Development Manager reports to the [VP, Talent Acquistion](/job-families/people-ops/talent-acquisition-leadership/).
 
 #### Learning & Development Manager Job Grade
 
-The Learning & Development Partner is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Learning & Development Manager Responsibilities
 
@@ -170,7 +169,7 @@ The Learning & Development Partner is a [grade 8](/handbook/total-rewards/compen
 
 #### Learning & Development Manager Requirements
 
-- Extends the Learning & Development Partner requirements
+- Extends the L&D Senior Program Manager requirements
 - 7+ years of work experience in the areas of training delivery, instructional design, learning technology, and people management 
 - Strong project management, leadership, change management, and cross-functional collaboration skills with a track record of managing complex learning projects
 - Ability to seamlessly bridge across technical and non-technical groups to achieve an aligned outcome
