@@ -39,9 +39,12 @@ Additionally, the Data Science Team **supports** the following responsibilities:
 
 ## What is Data Science?
 Check out this brief overview of what data science is at Gitlab:
+
+<!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=wRbNExL0hv8" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/wRbNExL0hv8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+<!-- blank line -->
 
 ([Corresponding slides](https://docs.google.com/presentation/d/1Y-V6bZ5w8Ms5yfMiuYCYZs9ald7Q5MxydYhSh9DWwwQ/edit?usp=sharing))
 
@@ -70,16 +73,16 @@ Check out this brief overview of what data science is at Gitlab:
 At GitLab we are [Handbook First](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) and drive this by ensuring the data science team page remains updated with the most accurate information regarding data science projects and methologies. We also strive to keep the handbook updated with useful resources and the current iteration of data science tools we are devloping. 
 
 ## Projects
-| Name | Maturity | Objective | Sponsor | Epic | Last Update | Next Update | Deliverables
-| -----| ----- | ------ |-----| ------ |-----| -----| -----| 
+| Name | Maturity | Objective | Sponsor | Epic | Last Update | Next Update | Deliverables |
+| ----- | -----| -----| -----| ----- | ----- | ----- | ----- | 
 | [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-buy) (PtE) | Viable | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | Sales | https://gitlab.com/groups/gitlab-data/-/epics/340 | FY22-Q3 | FY22-Q4 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results) |
 | [Propensity to Contract](https://gitlab.com/gitlab-data/propensity-to-contract) (PtC) | Viable | Determine which paid accounts are likely to reduce their ARR by > 10% or $1000 | Customer Success | https://gitlab.com/groups/gitlab-data/-/epics/382 | FY22-Q4 | FY23-Q1 ||
-| User Segmentation | Planned | - | Growth | || FY23-Q1 | | 
-| Propensity to Make First Purchase | Planned | - | Growth | || FY23-Q1 || |
-| Golden Journey | Planned | - | Growth | || FY23-Q2 | | 
-| Stage Adoption MRI | Planned | - | | || FY23-Q2 | | 
-| Product Usage Event | Planned | - | | || FY23-Q3 | |
-| Marketing Lead Scoring | Planned | - | Marketing | || FY23-Q4 | |  
+| User Segmentation | Planned | - | Growth | | | FY23-Q1 | | 
+| Propensity to Make First Purchase | Planned | - | Growth | | | FY23-Q1 | | 
+| Golden Journey | Planned | - | Growth | | | FY23-Q2 | | 
+| Stage Adoption MRI | Planned | - | | | | FY23-Q2 | | 
+| Product Usage Event | Planned | - | | | | FY23-Q3 | |
+| Marketing Lead Scoring | Planned | - | Marketing | | | FY23-Q4 | |  
 | Expansion Predicted ARR | Unplanned | - | Sales | | | | |  
 | Community Sentiment Analysis | Unplanned | - | Product | | | | | 
 | Feature $ARR Uplift Prediction | Unplanned | - | Product (Anoop) | | | | | 
