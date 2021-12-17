@@ -175,7 +175,7 @@ Examples of personas/titles include: Director/VP of Engineering, Director / VP o
 #### Phases for SimplyDirect
 - **Phase 1:** Sales and Marketing create the survey and share the target accounts and personas with SimplyDirect. Upon completion, SimplyDirect sends out the survey and shares survey results with the GitLab team via the SimplyDirect portal. The account list shared with SimplyDirect has an SDR assigned to each account so the tool will send the assigned SDR an email notifying them when a survey is completed. FMM will share the portal website, username, and password in the issue for SDRs or SALs to access survey results and analytics. FMM will also provide SDRs with training before launch on how to navigate the portal and share SimplyDirect's best practices. This phase is considered complete once the predetermined number of survey responses is achieved (number of responses will be identified in the SOW). Please note that a gift is sent to survey respondents by SimplyDirect as a thank you for completing the survey (Example: Columbia Jacket/Fleece). SimplyDirect also creates a detailed Pulse Report with survey results when the phase is completed and provides it to GitLab along with a list of high-intent targets who did not complete the survey (see Phase 3 details on how to utilize these additional targets). Access to the portal is not indefinite so a report should be pulled from the SimplyDirect portal in order to add survey responses to our own tracking sheet if needed.
 - **Phase 2:** Leads are uploaded to SFDC automatically through our SimplyDirect<>Marketo integration and SDRs can set up an Outreach sequence to follow-up with these leads by sharing the Pulse Report. There is also an option of a swag giveaway at this phase if a meeting is booked/attended.
-- **Phase 3:** SimplyDirect gathers a list of additional high-intent targets (also contracted in the SOW) that have not opted in to be contacted by GitLab directly. In order to try to capture these additional leads, we can create a Pathfactory track that requires visitors to enter in their contact information to view the track (which includes the Pulse Report and other assets). SimplyDirect includes this Pathfactory link in their follow-up email to the additional contacts. Anyone who enters their contact information in Pathfactory can be sent a follow-up by GitLab or can be added to nurture.
+- **Phase 3:** SimplyDirect gathers a list of additional high-intent targets (also contracted in the SOW) that have not opted in to be contacted by GitLab directly. In order to try to capture these additional leads, we can create a Pathfactory track that requires visitors to enter in their contact information to view the track (which includes the Pulse Report and other assets). SimplyDirect includes this Pathfactory link in their follow-up email to the additional contacts. Anyone who enters their contact information in Pathfactory can be sent a follow-up by GitLab.
 
 #### Reporting and Dashboards
 SimplyDirect defines engagement by targets filling out the survey.  The SimplyDirect<>Marketo integration adds anyone who fills out the survey automatically into the salesforce campaign.
@@ -188,7 +188,6 @@ SimplyDirect defines engagement by targets filling out the survey.  The SimplyDi
 #### Helpful Links
 * [**Survey Details**](/handbook/marketing/field-marketing/#survey)  
 * [**Simply Direct Marketo & SFDC Instructions**](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-surveys-in-marketo-and-sfdc)  
-  * **Note about Nurture Setup**: You'll need Verticurl to "activate" (turn on) the triggered smart campaign for nurture *before* leads begin to flow into the program so everything is automated. Make sure to submit your [add to nurture request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_add_nurture.md) to Verticurl as soon as your Marketo program is set up and request a triggered nurture setup (automatically updates with new leads) versus a batch run (one time update).
 * [**Pathfactory Request**](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)  
 
 ### Printfection Direct Mail Giveaways
@@ -320,7 +319,7 @@ At GitLab, we utilize Bizible for attribution tracking. In order to track the to
 - Account Based Marketing (ABM) Manager - will work with FMM to produce target account list based on intent data and known targets & will also lead strategy session with Demandbase Campaign Manager, should the FMM decided its part of the strategy to deploy ads via Demandbase.
 - Sales Development Rep (SDR) - Will assist in building out the actual target people & build Outreach cadence to support agreed upon CTA.
 - Digital Marketing Programs - Can assist in deploying paid digital strategies (ex: display ads, paid search, paid social, and/or paid publisher placement) and geo focused ads via our digital agency. They can also help get our digital agency involved should the FMM want to engage with the agency.
-- Marketing Program Managers - Setup of Marketo and Salesforce campaigns with correct program type to support the tactic. Guidance on system tracking, setup of Marketo email follow up, and addition of needs to existing email nurture programs (all as needed). Facilitate new program types with MOps and other MPMs as necessary.
+- Marketing Program Managers - Setup of Marketo and Salesforce campaigns with correct program type to support the tactic. Guidance on system tracking, and setup of Marketo email follow up. Facilitate new program types with MOps and other MPMs as necessary.
 
 ### Steps for the Creation and Organization of Micro-Campaign Epics & Issues
 
@@ -417,14 +416,12 @@ For example - You have created a micro-campaign that will include a self-service
     - [Micro-Campaign FM Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1396)
         - [Self-Service Virtual Event with promotion Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1073)
             - [Self-Service Virtual Event with Promotion FM Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1397)
-            - [Add to Nurture Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2960)
             - [Follow Up Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2959)
             - [Invites and Reminders Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2958)
             - [List Clean and Upload Issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/2712)
             - [Facilitate Tracking Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2957)
         - [Paid Survey Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1074) (No separate FM issue since information is in overall Micro-Campaign Issue)
             - [Gated Content Request Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2965)
-            - [Add to Nurture Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2963)
             - [Follow Up Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2962)
             - [Facilitate Tracking Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2961)
         - [LinkedIn Inmail Issue](https://gitlab.com/gitlab-com/marketing/account-based-marketing/-/issues/136) (No epic required)
@@ -1232,7 +1229,6 @@ We are committed to providing opportunities for discussion, education and commun
 - Will the partner be hosting the meeting? (applicable to both in-person and virtual versions)  
 - Will the partner be collecting the registrations and how/when will those be shared with GitLab?
 - Ensure that the partner is aware this is NOT a marketable event.  
-- Ensure the GitLab marketing team understands "leads" are not to be added to nurture. 
 - Ensure branding is in alignment with GitLab Government User Group branding.  
 
 ### Backend Processes:  
