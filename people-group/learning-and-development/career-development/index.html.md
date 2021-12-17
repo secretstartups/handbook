@@ -75,7 +75,7 @@ It is perfectly acceptable to seek out learning and development opportunities â€
 
 #### Career Mobility
 
-You may choose to participate in a learning and development program as a step in the direction towards a promotion or new role. Career mobility requires action and reflection after the learning is complete to demonstrate gained skills and transfer them to a new role or responsibility set. 
+Career mobility involves both lateral (promotions) and horizontal (transfers) movement along a career path. This mobility most often involves applying actions taken and skills developed as leverage for a new role. Career mobility requires action and reflection after the learning is complete to demonstrate gained skills and transfer them to a new role or responsibility set. 
 
 We use the [career mobility issue template](/handbook/people-group/engineering/career-mobility/) to guide team members when they transfer or are promoted to a new role within the organization.
 
