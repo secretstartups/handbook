@@ -56,7 +56,7 @@ There are two different scenarios for Virtual Cards:
 ![vcard-image-1](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard1.png)
 <br>
 
-**Step 2.** Complete all the fields on the form. **NOTE - for the last question, check "No" and click "Submit".**
+**Step 2.** Complete all the fields on the form. **NOTE - for the last question, check "No" then click "Submit".**
 
 ![vcard-image-9](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard9.png)
 <br>
