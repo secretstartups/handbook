@@ -136,6 +136,7 @@ To gain access to SAFE Intermediate Dashboards:
 * [Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data/)
 * [SaaS Service Ping](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/)
 * [SaaS Product Events](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/)
+* [CI Runner Activity](/handbook/business-technology/data-team/data-catalog/ci-runner-activity/) 
 
 #### Analytics Projects
 
