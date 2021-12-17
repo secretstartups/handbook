@@ -96,7 +96,8 @@ In order to collaborate with partner organizations, the Channel Solutions Archit
     * Please refer to the [Sub-groups documentation page](https://docs.gitlab.com/ee/user/group/subgroups/) to learn how to create sub-groups.
     * Please refer to an existing partner company sub-group and use it to as a model for the new one that you are creating.
 3. Whether they had to create a new collaboration sub-group for the partner or there is an existing collboration sub-group for the partner, the CAM is required to add and/or verify that the partner primary contact is a member of the collaboration sub-group with `maintainer` permissions.  
-After a partner accepts an invitiation, the CAM:
+
+<br>After a partner accepts an invitiation, the CAM:
 1. Will open a project in the [Channel Partner's collaboration sub-group](https://gitlab.com/gitlab-com/channel/partners) using the GitLab_Certified_Service_Partner_Program project template.
 2. Name the project "`Partner Company Name` CTP Requirements Project".
 3. Open an issue using the CTP_Requirement_Tracking_Issue template in that project. 
