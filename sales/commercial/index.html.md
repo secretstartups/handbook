@@ -29,7 +29,7 @@ Please ensure you read the [Commercial Sales onboarding page](/handbook/sales/co
 ### Top Tips to Onboard Quicker
 
 1. Bookmark the relevant SalesForce dashboard for your region, this is essential to your success. Your Manager will give you the link when you first join.
-1. Get familiar with the [close date conventions](https://docs.google.com/document/d/1TK3X22rBPIOwR9PkopK4snmVVkyCyvdTwKJ_eszH48I/edit?usp=sharing) used in Commercial Sales.
+1. Get familiar with the [close date conventions](https://about.gitlab.com/handbook/sales/commercial/#close-date-conventions) used in Commercial Sales.
 1. Ensure you fully understand [the Required 7](/handbook/sales/commercial/#required-7). Your teammates and manager are more than happy to help you with this if you need it.
 1. Read through reviews of GitLab to get an idea of what customers think about the product. Two good places to start are [Softwareadvice.com](https://www.softwareadvice.com/project-management/gitlab-profile/reviews/) and [Gartner Reviews](https://www.gartner.com/reviews/market/application-release-orchestration-solutions/vendor/gitlab/product/gitlab).
 1. Watching videos is core to your onboarding. You can watch YouTube & Chorus videos at 1.5x or 1.75x speed to get through them efficiently, you can still retain the information but in less time. Go to the Settings widget > Playback speed.
