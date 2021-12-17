@@ -18,7 +18,7 @@ The Program Manager, Learning & Development (Junior) is a [grade 5](/handbook/to
 
 - Support the identification and design of learning solutions to support GitLab's growth
 - Maintains the back-end management of learning administration to include certifications, knowledge assessments, external learning inquires, and internal training programs 
-- Supports L&D Program Managers with integrating the LMS/LXP into GitLab. Utilizes the LMS course authoring tool to create Handbook first course content
+- Utilizes the LMS course authoring tool to create Handbook first course content
 - Develop customized learning paths for team members that incorporate customized and curated learning content
 - Track and monitor training consumptions through reporting and analytics
 
@@ -31,7 +31,6 @@ The Program Manager, Learning & Development (Junior) is a [grade 5](/handbook/to
 - 0-2 years of work experience in the areas of training delivery, instructional design, or learning technology
 
 ### Performance Indicators
-
 1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](/handbook/people-group/offboarding/#exit-survey) related to career development
 2. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
 3. Increase in access to career mobility: internal transfers, promotions, job shadows, intern for learning, and professional development
@@ -42,12 +41,14 @@ The next step in the Program Manager, L&D (Junior) role is to move the Program M
 
 #### Program Manager, Learning & Development (Junior) Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/). 
-
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters. 
 * 30-minute interview with L&D Manager
 * 30-minute interview with L&D Program Manager
 * 30-minute interview with a People Business Partner (PBP)
-* A final assessment, candidates may be invited to give a short 10-minute presentation on managing underperformance to the L&D team
+* A final assessment, candidates may be invited to give a short 30-minute presentation to the L&D team
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)
 
 ## Program Manager, Learning & Development (Intermedidate) 
 
@@ -85,7 +86,6 @@ The Program Manager, Learning & Development (Intermedidate) is a [grade 6](/hand
 - Display strong consulting and collaboration skills
 
 ### Performance Indicators
-
 1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](/handbook/people-group/offboarding/#exit-survey) related to career development
 2. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
 3. Increase in access to career mobility: internal transfers, promotions, job shadows, intern for learning, and professional development
@@ -93,6 +93,17 @@ The Program Manager, Learning & Development (Intermedidate) is a [grade 6](/hand
 ### Career Ladder
 
 The next step in the Program Managers, L&D (Generalist) role is to move into the L&D Senior Program Manager role. 
+
+### Hiring Process
+
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters. 
+* 30-minute interview with L&D Manager
+* 30-minute interview with L&D Program Manager
+* 30-minute interview with a People Business Partner (PBP)
+* A final assessment, candidates may be invited to give a short 30-minute presentation to the L&D team
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring)
 
 ## Senior Program Manaager, Learning & Development 
 
@@ -129,7 +140,6 @@ The Learning & Development Partner is a [grade 7](/handbook/total-rewards/compen
 - Deep experience in assessing organizational needs and developing a variety of learning solutions to drive development and growth within the company
 
 ### Performance Indicators
-
 1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](/handbook/people-group/offboarding/#exit-survey) related to career development
 2. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
 3. Increase in access to career mobility: internal transfers, promotions, job shadows, intern for learning, and professional development
@@ -141,11 +151,11 @@ The next step in the Senior Program Manager is to move to a Learning & Developme
 ### Senior Program Manager, Learning & Development Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a 30 minute interview with our Director of People Operations.
-* Next, the candidate will be invited to interview with a member of the L&D team, a member from our Sales Enablement team, a People Business Partner and our Director, Strategy & Operations.
-* After that, our CEO may choose to conduct a final interview.
-* As a final assessment, candidates will be required to prepare and present a short 15 minute training on giving feedback, to the Director of People Operations.
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters. 
+* 30-minute interview with L&D Manager
+* 30-minute interview with L&D Program Manager
+* 30-minute interview with a People Business Partner (PBP)
+* A final assessment, candidates may be invited to give a short 30-minute presentation to the L&D team
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
@@ -191,11 +201,13 @@ The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compen
 - Experience in influencing senior leaders/stakeholders at the director and above levels
 
 ### Performance Indicators
+1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](/handbook/people-group/offboarding/#exit-survey) related to career development
+2. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
+3. Increase in access to career mobility: internal transfers, promotions, job shadows, intern for learning, and professional development
 
 ### Career Ladder      
 
 The next step in the L&D Manager role is to move to the Senior Manager, L&D level.
-
 
 ### Learning & Development Manager Hiring Process
 
@@ -228,12 +240,9 @@ Additional details about our process can be found on our [hiring page](/handbook
 - Partner with People Operations team to ensure administrative requirements of onboarding for all new hires are met 
 - Continuously work to ensure onboarding process is organized and efficient as possible while identifying and acting on opportunities to improve and update processes and policies
 
-
 ## Performance Indicators
-- [Engagement Survey Growth and Development Score](/handbook/people-group/learning-and-development/#engagement-survey-growth-and-development-score--x)
-- [Rate of internal job promotions](/handbook/people-group/learning-and-development/#rate-of-internal-job-promotions--x)
-- [12 month voluntary team member turnover related to growth](/handbook/people-group/learning-and-development/#12-month-voluntary-team-member-turnover-related-to-growth--x)
 
-## Learning & Development Career Ladder
+1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](/handbook/people-group/offboarding/#exit-survey) related to career development
+2. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
+3. Increase in access to career mobility: internal transfers, promotions, job shadows, intern for learning, and professional development
 
-The next step in the Learning and Development job family is to move into a senior manager role which is not yet defined at GitLab. 
