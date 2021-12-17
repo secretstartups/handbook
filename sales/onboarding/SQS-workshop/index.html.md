@@ -25,22 +25,22 @@ This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjd
 
 ## SQS Remote Agenda:
 
-| DATE | START TIME | END TIME | ACTIVITY | TEAM ASSIGNED |
+| DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
 | ------ | ------ | ------ | ------ | ------ |
-|December 1, 2021 | 10:00a ET | 11:20a ET | Essential Questions Exercise | Field Enablement  |
-|December 1, 2021 | 11:30a ET | 12:50p ET | Value Card Exercise | Field Enablement  |
-|December 2, 2021 | 10:00a ET | 11:20a ET | Discovery Question Exercise | Field Enablement  |
-|December 2, 2021 | 11:30a ET | 12:50p ET | Differentiator Exercise | Field Enablement  |
-|December 3, 2021 | 10:00a ET | 11:20a ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
-|December 3, 2021 | 11:30a ET | 12:20p ET | Discovery Call 1 | Mock Customers  |
-|December 7, 2021| 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
-|December 6, 2021 | 11:00a ET | 11:50a ET | No Tissues for Issues + Product Tiering | Product Marketing  |
-|December 7, 2021 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
-|December 8, 2021 | 12:00p ET | 12:50p ET | Discovery Call 3 |  Mock Customers |
-|December 9, 2021 | 11:00a ET | 11:50a ET | Discovery Call 4 |  Mock Customers |
-|December 8, 2021 | 11:00a ET | 11:50a ET | Territory Planning | Enterprise Sales  |
-|December 8, 2021 | 10:00a ET | 10:30a ET | Field Security | Field Security Team   |
-|December 9, 2021 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence   |
-|December 9, 2021 | 10:00a ET | 10:40a ET | Legal / Deal Desk | Legal / Deal Desk Team |
-|December 10, 2021 | 11:00a ET | 11:50a ET | Professional Services | Professional Services Team    |
-|December 10, 2021 | 12:00p ET | 12:50p ET | Channel | Channel Team   |
+|January 12, 2022 | 10:00a ET | 11:20a ET | Essential Questions Exercise | Field Enablement  |
+|January 12, 2022 | 11:30a ET | 12:50p ET | Value Card Exercise | Field Enablement |
+|January 13, 2022 | 10:00a ET | 11:20a ET | Discovery Question Exercise | Field Enablement  |
+|January 13, 2022 | 11:30a ET | 12:50p ET | Differentiator Exercise | Field Enablement  |
+|January 14, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
+|January 14, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
+|January 17, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
+|January 18, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
+|January 17, 2022  | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
+|January 19, 2022 | 12:00p ET | 12:50p ET | Discovery Call 3 | Mock Customers |
+|January 20, 2022 | 11:00a ET | 11:50a ET | Discovery Call 4 | Mock Customers |
+|January 18, 2022 | 12:00p ET | 12:30p ET | Field Security |  Field Security Team   |
+|January 19, 2022 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence  |
+|January 20, 2022 | 10:00a ET | 10:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
+|January 20, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services | Professional Services Team    |
+|January 21, 2022 | 12:00p ET | 12:50p ET | Channels |  Channel Team   |
+
