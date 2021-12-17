@@ -16,259 +16,123 @@ description: "GitLab Data Science Team Handbook"
 
 # Data Science at GitLab 
 
+The mission of the data science team is to facilitate making better decisions faster using predictive analytics.
 
-The mission of the Data Science team is to help understand business, customers and products better with model-based insights.
-The team accomplishes this mission by building machine learning models and analysing data to convert results into trusted and scalable products. 
+## Data Science Responsibilities 
+Of the [Data Team's Responsibilities](https://about.gitlab.com/handbook/business-technology/data-team/#responsibilities), the Data Science Team is **directly responsible** for:
 
+- Delivering _descriptive_, _predictive_, and _prescriptive_ solutions that promote and improve [Gitlab's KPIs](https://about.gitlab.com/company/kpis/)
+- Being a **_Center of Excellence_** for advanced analytics and supporting other teams in their data science endeavors 
+- Developing tooling, processes, and best practices for data science and machine learning
+
+Additionally, the Data Science Team **supports** the following responsibilities:
+
+- With **Data Leadership**:
+  - Scoping and executing a data science strategy that directly impacts business KPIs
+  - Broadcasting regular updates about data deliverables, ongoing initiatives, and roadmap
+- With the [**Data Engineering Team**](https://about.gitlab.com/handbook/business-technology/data-team/organization/engineering/):
+  - Defining and championing data quality best practices and programs for GitLab data systems
+  - Deploying data science models, ensuring data quality and integrity, shaping datasets to be compatible with machine learning, and brining new datasets online
+- With the [**Data Analytics Team**](https://about.gitlab.com/handbook/business-technology/data-team/organization/analytics/):
+  - Incorpating data science into analytics initiatives
+  - Designing dashboard to enhance the value and impact of the data science models
+
+## What is Data Science?
+Check out this brief overview of what data science is at Gitlab:
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=wRbNExL0hv8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+([Corresponding slides](https://docs.google.com/presentation/d/1Y-V6bZ5w8Ms5yfMiuYCYZs9ald7Q5MxydYhSh9DWwwQ/edit?usp=sharing))
+
+### Data Science Tools at Gitlab
+
+- **[Pre-configured JuypterLab Image](https://gitlab.com/gitlab-data/data-science)**: The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out our [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/) for additional information.
+- **[gitlabds python tools](https://gitlab.com/gitlab-data/gitlabds/)**: Functions to help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly via [pypi](https://pypi.org/project/gitlabds/) (`pip install gitlabds`), or use as part of the above JupyterLab image.
+- **[Modeling Templates](https://gitlab.com/gitlab-data/data-science/-/tree/main/templates)**: The data science team has created modeling templates to allow you to easily start building predictive models without writing python code from scratch. To enable these templates, follow the instructions on the [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/#enabling-jupyter-templates).
+
+### Common Data Science Terms 
+- **Algorithm** -  sequence of computer-implementable instructions used to solve specific problem
+- **Classification** - process of predicting a category for each observation. For example, determining if a picutre is of a cat or a dog. 
+- **Clustering** - process of finding natural groupings of observations in dataset. Often used for segmenation of users or customers.
+- **Data Science (DS)** - interdisciplinary field that uses computer science, statistical techniques and domain expertise to extract insights from data
+- **Feature** - single column in dataset that can be used for analysis, such as country or age. Also refered to as variables or attributes 
+- **Feature Engineering** -  process of selecting, combining and transforming data into features that can be used by machine learning algorithms 
+- **Imputation** - process of replacing missing or incorrect data with statistical "best guesses" of the actual values
+- **Machine Learning (ML)** - use and development of algorithms without being explicitly programmed to determine patterns in data
+- **Model** - A complex set of mathematical formulas that generates preditions
+- **Regression** - A statistical method for predicting an outcome. For example, predicting a person's income, or how likely a customer is to churn
+- **Training** -  Applying an algorithm to data to generate a model
+- **Test Dataset** - Deliberately excluding some observations from training the model so they can be used to test how well the model predicts  
+- **Weight** - numerical value assigned to feature that determines it's strength
+
+## Handbook First on Data Science Team
+At GitLab we are [Handbook First](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) and drive this by ensuring the data science team page remains updated with the most accurate information regarding data science projects and methologies. We also strive to keep the handbook updated with useful resources and the current iteration of data science tools we are devloping. 
 
 ## Projects
+| Name | Maturity | Objective | Sponsor | Epic | Last Update | Next Update | Deliverables
+| -----| ----- | ------ |-----| ------ |-----| -----| -----| 
+| [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-buy) (PtE) | Viable | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | Sales | https://gitlab.com/groups/gitlab-data/-/epics/340 | FY22-Q3 | FY22-Q4 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results) |
+| [Propensity to Contract](https://gitlab.com/gitlab-data/propensity-to-contract) (PtC) | Viable | Determine which paid accounts are likely to reduce their ARR by > 10% or $1000 | Customer Success | https://gitlab.com/groups/gitlab-data/-/epics/382 | FY22-Q4 | FY23-Q1 ||
+| User Segmentation | Planned | - | Growth | || FY23-Q1 | | 
+| Propensity to Make First Purchase | Planned | - | Growth | || FY23-Q1 || |
+| Golden Journey | Planned | - | Growth | || FY23-Q2 | | 
+| Stage Adoption MRI | Planned | - | | || FY23-Q2 | | 
+| Product Usage Event | Planned | - | | || FY23-Q3 | |
+| Marketing Lead Scoring | Planned | - | Marketing | || FY23-Q4 | |  
+| Expansion Predicted ARR | Unplanned | - | Sales | | | | |  
+| Community Sentiment Analysis | Unplanned | - | Product | | | | | 
+| Feature $ARR Uplift Prediction | Unplanned | - | Product (Anoop) | | | | | 
+| GitLab MLOps Product Development | Unplanned | - | Product (Taylor) | | | | | 
 
-### Propensity to Expand
+### Maturity
+Maturity of data science projects closely follows the [Gitlab product maturity model](https://about.gitlab.com/direction/maturity/):
+- **Unplanned**: Not implemented, and not yet on our roadmap.
+- **Planned**: Not implemented, but on our roadmap; executive sponsor attached to project.
+- **Viable**: Available, but not fully productionalized yet; scores and insights manually generated; low adoption outside of immediate stakeholders.
+- **Complete**: Fully implemented into Data Team cloud production infrastructure; increasing adoption of corresponding dashboards and scores within the intended organization.
+- **Optimized**: Fine-tuned, fully automated, and self-service; continuous model monitoring and scoring; high adoption within intended organization.
 
-- Alias: PtE
-- Start Date: 2021-06-30
-- [Project](https://gitlab.com/gitlab-data/propensity-to-buy)
-- [Work breakdown](https://gitlab.com/groups/gitlab-data/-/epics/340)
-- Slack Channel: [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7)
+### Project Slack Channels
+- [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7): For PtE & PtC
 
-### Propensity to Contract
+### Project Structure 
 
-- Alias: PtC
-- Start Date: 2021-11-01
-- [Project](https://gitlab.com/gitlab-data/propensity-to-contract)
-- [Work Breakdown](https://gitlab.com/groups/gitlab-data/-/epics/382)
-- Slack Channel: [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7)
+The Data Science Team follows [Cross-Industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) to deliver projects, which consists of the following 6 phases:
 
-### Project Backlog
+##### Business Understanding 
 
-- Buy (Upsell) Predicted ARR
-- Golden Journey - Growth Team - Hila Qu
-- PtE.first order  - Growth Team - Hila Qu
-- PtE.churn - Customer Success Team - David Sakamoto
-- User Segmentation / persona activity, use cases - Product Team - Hila Qu
-- Community Sentiment Analysis / twitter, facebook - Product Team
-- GitLab MLOps Product Development - Product Team - Taylor
-- Feature $ARR uplift prediction - Product Team - Anoop Dawar
+The first step is to understand the business needs of the stakeholders and the success criteria of the project. This phase includes requirements gathering, stakeholders interviews, project defintion, product user stories, and potential use cases. This phase is closely aligned with GitLab's [OKRs](https://about.gitlab.com/company/okrs/) and company's value - [Iteration](/handbook/values/#iteration)
 
-### Data Science roadmap - executive summary
+##### Data Understanding 
 
-|  **Timeline** | **Deliverable** | **Value** | **Stakeholders** | **Expected Outcome** |
-| :--------------- | :----------------- | :-------------- | :-------------- | :-------------- |
-| FY-22 Q3 / Iterative | [Propensity to Expand (PtE)](https://gitlab.com/gitlab-data/propensity-to-expand) | Enables sales team to capture opportunities that increase ARR | Sales Team (Jake Bielecki) | TBD |
-| FY-22 Q4 / Iterative | [Propensity to Contract (PtC)](https://gitlab.com/gitlab-data/propensity-to-contract) | Enables sales team to prevent reduction of ARR | Sales Team (Jake Bielecki) | TBD |
-| FY-23 Q1 / Iterative | [User Segmentation (US)](https://gitlab.com/gitlab-data/user-segmentation) | Determines profiles of customers | Product Team (Hila Qu) | TBD |
+Data understanding is closely aligned with business understanding. It requires determining the breadth and scope of existing relevant datasources. In this phase, data scientists work closely with data engineers and data analysts to determine where gaps may exist and to identify any data discrepancies or risks. If there is a need to bring external data, a request should be raised in this phase. 
 
-# Data Science responsibilities 
+##### Data Preparation 
 
-- What exactly is data science?! Check out [this video](https://www.youtube.com/watch?v=wRbNExL0hv8) or [these slides](https://docs.google.com/presentation/d/1Y-V6bZ5w8Ms5yfMiuYCYZs9ald7Q5MxydYhSh9DWwwQ/edit?usp=sharing) for a quick overview.
+After defining business needs and data sources, it is time to dive into the data! This phase requires conducting data quality checks and exploratory data analysis (EDA). At this stage, data scientists are developing a greater understanding of data and how different datapoints relate to solving the business need.This will be very useful in the next phase - modeling.
 
-- Responsibilities of data scientists are outlined [here](https://about.gitlab.com/job-families/finance/data-science/) 
+##### Modeling 
 
-- Additionally, the **Data Science Team** supports the following responsibilities:
-    - With the **Data Leadership Team**:
-        - Defining and publishing a Data Science roadmap to expand analytical capabilities
-        - Broadcasting regular updates about data deliverables, ongoing initiatives, and upcoming plans
-    - With the [**Data Engineering Team**](/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities):
-        - Helping to define and champion Data Quality practices and programs for GitLab data systems
+Modeling refers process by which various machine learning techniques are used to find a solution that addresses the business need. This often takes the form of predicting why/when/how future instances of a business outcome will occur (e.g. which customers are likely to churn in the next 6 months?). This is achieved by looking at the complex mathematical relationships between the data and the outcome. Often, this process is referred to as "training the model."
 
-# Projects structure 
+##### Evaluation 
 
-Data Scientists follow [Cross-Industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) to deliver projects, which consists of 6 phases. More detailed breakdown of project structure and code examples can be found (here). 
+Performance is generally measured by how _accurate_, _powerful_, and _explainable_ the model is. Findings are presented to the stakeholders for feedback. This phase is strongly aligned with the GitLabs values of [Iteration](/handbook/values/#iteration) Incorporating feedback, data scientists iterate over _Modeling_ and _Evalution_ long as business goal is met.
 
-### Business Understanding 
+##### Deployment
 
-First step is to define business needs of end users of the project and success criteria. This phase includes gathering requirements, stakeholders interviews, defining vision, user stories for product and use cases for models. This phase is closely aligned with GitLab's [OKRs](https://about.gitlab.com/company/okrs/) and company's value - [Iteration](/handbook/values/#iteration)
+Once the model has been approved by the stakeholders, it then gets deployed into the data science production pipeline. This process automatically updates, generates predictions, and monitors the model on a regular cadence.  
 
-### Data Understanding 
+## Useful Data Science & Machine Learning Resources
 
-Data understanding is closely aligned with business understanding. It requires to define data sources that business already has in place and the ones that business does not. In this phase data scientists work closely with data engineers and data analysts to define any miscrepancies and risks. If there is a need to bring external data, request should be raised in this phase. 
+- **_Python Data Science Handbook_** by Jake VanderPlas: Great for beginngers looking to learn python and dip their toes into data science.
 
-### Data Preparation 
+- **_Python Machine Learning_** by Sebastian Raschka & Vahid Mirjalili: More advanced topics with the assumption of a basic level of python.
 
-After defining business needs and data sources it is time to dive into the data! This phase requires conducting [Second data quality check] and [Exploratory data analysis]. At this stage, data scientists are gathering greater understanding of data, its types, correlations and distributions what will be useful in the next phase - modeling.
+- **_The Elements of Stastical Learning, Data Mining, Inference, and Prediction_** by Trevor Hastie, Robert Tibshirani, & Jerome Friedman: Great deep dive into all the statistics and logic behind many of the commonly used predictive techniques. Can be pretty stats/math heavy at time.
 
-### Modeling 
 
-Modeling refers to building machine learning model, which consists of training, testing and validating model. Based on Business Understanding phase initial algorithm should be picked and pre-processing should be defined. In this phase, outcomes from Data Preparation are needed as not all algorithms can work with all data types.
 
-### Evaluation 
 
-In this phase, performance of model is measured (if required in Business Understanding) and outcomes are presented to stakeholders and end users for feedback. This phase is strongly aligned with one of the GitLab's values - [Iteration](/handbook/values/#iteration) After feedback, data scientists iterate on above phases as long as business goal is met.
 
-### Deployment / Productionalization
-
-Once a viable prediction model has been created, the next step is to deploy the model in to the TBD data science production pipeline. This process automatically updates ("re-trains") the model as new data becomes available and generates predictions for all eligable records on a regular cadence.  
-
-# Success Criteria 
-
-Every data science project at GitLab starts and ends with success criteria. 
-
-Success criteria is measured as follows: 
-
-`value_provided = future_state - current_state`
-
-We recognise two types of business outcomes from data science projects: direct and indirect impact.
-
-## Direct Impact 
-
-Projects with direct impact allow to translate project outcomes directly to monetary value. This usually can be achieved by optimisation projects which goal is to reduce time spent on process or increase revenue of company. Below provided examples of success criteria statement for direct impact: 
-
-### Time Saved 
-
-"Our project helped to reduce time spent on process X by 10 000 hours valued at $500k."
-
-### Money earned 
-
-"Our project brought new high-profile customers that brought extra $50 Million to annual revenue"
-
-## Indirect impact 
-
-Projects with indirect impact do not translate directly to monetary value, but provide platform for other decision makers to bring monetary value. These projects are usually the ones where critical insights are provided to stakeholders as scalable product and then used to increase capabilities of decision maker. Below provided examples of success criteria statement for indirect impact:
-
-### Increased Visibility 
-
-"Our project helped stakeholders increase decision making capabilities, which improved sales strategy by 10%."
-
-### Unlock Insights 
-
-"Our project enabled the product team to finally understand who our major customers are and the behaviors they exhibited. This knowledge helped to secure a new customer worth $1M ARR."
-
-## Describing insights/outcome of the project 
-
-Familiarising yourself with [Google's formula XYZ](https://www.youtube.com/watch?v=zrXZBkYzuZo) can help communicate insights and outcomes of the project in a more efficient way. Formula XYZ is a form of concise sentence that can be used to write down your achievements in resume. This structure has been established by Google and described as: "Accomplished [X] as measured by [Y], by doing [Z]."
-
-X = should be replaced by verb that describes what you accomplished, For example: increased revenue/reduced costs/provided training etc 
-
-Y = should be replaced by measure of your accomplishment. For example, if you increased revenue or reduced costs you could provide monetary value or percentage (Increased revenue by 10%) 
-
-Z = should be replaced by verb that describes how did you accomplished the result you wish to describe. For example, accomplished ABC "by conducting detailed analysis"
-
-Example of full sentence is below: 
-
-Our project increased revenue [X] by 10% [Y] by conducting detailed analysis [Z] 
-
-Please note that above formula is a suggestion only that may help to describe outcomes of the project in a more efficient and concise way.
-
-# Data Science Tools at Gitlab
-
-- **[Pre-configured JuypterLab Image](https://gitlab.com/gitlab-data/data-science)**: The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out the the [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/) for additional information.
-
-- **[gitlabds python tools](https://gitlab.com/gitlab-data/gitlabds/)**: Functions to help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly via `pip install gitlabds` or use as part of the JupyterLab image above.
-
-- **Modeling Templates** (**Coming Soon!**)
-
-# Useful Data Science & Machine Learning Resources
-
-- _Python Data Science Handbook_ by Jake VanderPlas: Great for beginngers looking to learn python and dip their toes into data science.
-
-- _Python Machine Learning_ by Sebastian Raschka & Vahid Mirjalili: More advanced topics with the assumption of a basic level of python.
-
-- _The Elements of Stastical Learning, Data Mining, Inference, and Prediction_ by Trevor Hastie, Robert Tibshirani, & Jerome Friedman: Great deep dive into all the statistics and logic behind many of the commonly used predictive techniques. Can be pretty stats/math heavy at time.
-
-# Common Data Science Terms 
-
-Below listed common data science terms that are used by team. 
-
-
-**Data Science (DS)** - interdisciplinary field that uses computer science, statistical techniques and domain expertise to extract insights from data
-
-**Machine Learning (ML)** - use and development of algorithms without being explicitly programmed to determine patterns in data
-
-**Algorithm** -  sequence of computer-implementable instructions used to solve specific problem
-
-**Feature** - single column in dataset that can be used for analysis, such as country, age etc. Sometimes refered to as variables or attributes 
-
-**Feature Engineering** -  process of selecting, combining and transforming data into features
-
-**Weight** - numerical value assigned to feature that determines it's strength
-
-**Model** - an applied algorithm with weights determined by input data
-
-**Imputation** - process of replacing missing data with substituted values
-
-**Training** -  assigning weights in a model based on input data
-
-**Testing** - comparing predicted values from trained model to actual values 
-
-**Classification** - process of predicting categories for each data point 
-
-**Regression** - process of predicting continuous numerical variable for each data point 
-
-**Clustering** - process of definining groupings in dataset 
-
-
-# Python vs SQL 
-
-If you are familiar with structured Query Language (SQL), you may want to use clauses while doing your analysis in Python (with library pandas). Below listed Python's equivalents of popular SQL commands. 
-
-Please note that below is not the only way to achieve your expected outcomes - there are many ways in Python to achieve the same result.  
-
-## SELECT * FROM 
-
-```python
-#assuming you loaded your dataset as 'data' just put the name of dataframe into Jupyter's cell
-data 
-```
-
-## SELECT col1, col2 FROM 
-
-
-```python
-columns = ['col1', 'col2']
-
-data[columns]
-
-#above can be combined in one code as follows:
-data[['col1','col2']]
-
-```
-
-## COUNT
-
-```python
-#defines length of dataframe what equals to amount of rows
-len(data)
-
-#similar as above but additionally lists amount of columns
-data.size
-```
-
-## LIMIT
-
-```python
-#lists first 5 rows 
-data.head()
-
-#if you want top 10 rows you can do it by adding number inside head() function
-data.head(10)
-```
-
-## WHERE 
-
-```python
-#list all rows for which column1 has value greater than 1
-condition = data['column1'] > 1
-
-data[condition]
-
-```
-
-Please note that Python accepts combined conditions. Python's equivalent for AND is & and for OR is | 
-
-## GROUP BY (with aggregation functions)
-
-```python
-
-#lists count of rows per column 1
-data.groupby(['col1']).size()
-
-#lists average value of rows per column1
-data.groupby(['col1']).mean()
-
-#lists min value of rows per column1
-data.groupby(['col1']).min()
-
-#lists max value of rows per column1
-data.groupby(['col1']).max()
-
-```

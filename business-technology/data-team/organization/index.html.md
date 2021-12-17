@@ -137,7 +137,7 @@ Recruiting great people is critical to our success and we've invested much effor
   click supe:fda "https://about.gitlab.com/job-families/finance/data-analyst#staff-data-analyst";
 ```
 
-## [Data Science](https://about.gitlab.com/job-families/finance/data-scientist)
+## [Data Science](https://about.gitlab.com/job-families/finance/data-science/)
 
 ```mermaid
   graph LR;
