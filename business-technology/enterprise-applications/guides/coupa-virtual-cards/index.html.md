@@ -16,7 +16,7 @@ description: "Coupa Virtual Card Guide"
 
 ## What is Virtual Card?
 
-GitLab’s preferred method of payment for suppliers is electronic funds transfer with supplier invoice. In the instances where this option is not available with the supplier, the Virtual Card can be used as an alternative payment method. Virtual Card can be selected as a payment option by the requestor via the **Request Virtual Card** icon on the Home page in Coupa. 
+GitLab’s preferred method of payment for suppliers is electronic funds transfer with supplier invoice. In the instances where this option is not available with the supplier, the Virtual Card, which is a temporary credit card, can be used as an alternative payment method. Virtual Card can be selected as a payment option by the requestor via the **Request Virtual Card** icon on the Home page in Coupa. 
 
 <div class="panel panel-danger">
 **IMPORTANT NOTE**
@@ -121,6 +121,7 @@ The card number, expiration date, and CVV code will be available to the requeste
    - Supplier only accepts credit card as form of payment and you have documentation regarding this requirement.
    - GitLab frequently purchases goods and services from this supplier.
    - This is the first time you are requesting the permanent Virtual Card for the supplier.
+- Click on the 'Request Virtual Card' button on the Coupa Homepage.
 - Accounts Payable will need to set up a Virtual Card as the supplier’s default form of payment. To facilitate this process, please select **Yes** to the last question in the Virtual Card Request form, then provide answers to the additional 4 questions. **NOTE - insufficient information will delay the creation of the card.**   
 
 ![vcard-image-10](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard10.png)
@@ -144,15 +145,15 @@ You only need to request a permanent virtual card for the supplier once. After A
 
 If you are a Marketing team member that uses Allocadia to submit Coupa requisitions, please first review the above instructions to get an overall understanding for requesting and receiving a Virtual Card then follow the instructions below.
 
-- **Suppliers with a one time payment / emergency payment by Virtual Card**
-   - Submit the requisition through Allocadia.
-   - On the **Create PR in Coupa** screen, enter **Virtual Card** on the **Supplier** field.
+### Suppliers with a one time payment / emergency payment by Virtual Card
+- Submit the requisition through Allocadia.
+- On the **Create PR in Coupa** screen, enter **Virtual Card** on the **Supplier** field.
 
 ![vcard-image-11](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard11.png)
 <br>
 - Click **Submit**
 - Click on the **Go to PR in Coupa to submit** link.
-- On the **Review Cart** screen in Coua, complete the requisition.    
+- On the **Review Cart** screen in Coupa, complete the requisition.    
    - In the **Cart Items** section, edit the line(s) to enter the **actual Supplier name** in the **Requested Virtual Card Supplier** field then click **Save**. 
 
 
@@ -164,11 +165,11 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
 
 <br>
 
-- **Suppliers to be paid permanently by Virtual Card**
-   - Submit the requisition through Allocadia using the **actual Supplier name**.
-   - When completing the requisition in Coupa, tag **@Accounts Payable Approval Group** in the **Comments** section requesting the supplier to be set up with Virtual Card as the permanent payment method. You only need to request a permanent virtual card for the supplier once.
-   - AP will set up the permanent Virtual Card as a **Requester Card** and will confirm in the requisition comments that it has been created.
-   - After the requisition has been approved, the PO will be issued and the requester will receive the Virtual Card for use.
+### Suppliers to be paid permanently by Virtual Card**
+- Submit the requisition through Allocadia using the **actual Supplier name**.
+- When completing the requisition in Coupa, tag **@Accounts Payable Approval Group** in the **Comments** section requesting the supplier to be set up with Virtual Card as the permanent payment method. **You only need to request a permanent virtual card for the supplier once.**
+- AP will set up the permanent Virtual Card as a **Requester Card** and will confirm in the requisition comments that it has been created.
+- After the requisition has been approved, the PO will be issued and the requester will receive the Virtual Card for use.
 
 <br>
 
