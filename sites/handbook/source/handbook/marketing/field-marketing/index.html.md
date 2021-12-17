@@ -72,83 +72,6 @@ Being the marketing experts for the region, GitLab Field Marketers are also resp
 ### ReachDesk
 Go to the [Reachdesk page](/handbook/marketing/marketing-operations/reachdesk) for instructions on campaign set up. (WIP)
 
-### Alyce Direct Mail
-
-<details markdown="1">
-
-<summary>Expand below to see details regarding Alyce Direct Mail</summary>
-
-#### Overview
-Alyce is a direct mail campaign used to land and accelerate deals to fuel pipeline progression using personalized gifts from information pulled via social media accounts as a thank you meeting with our Sales team. Our strategy will be limited to digital only during covid-19 using email campaigns, social media, and other SDR outreach methods until we can safely return to physical mailing as our prospects move back into the office.
-
-We currently have an SOW the AMER FMM team is utilizing that includes the ability for 1,000 sends in a 180 day timeframe. At the end of the 180 days or upon completion of the 1,000 sends (which ever comes first), the AMER team will assess the results and decide if the team will renew. If you are outside of the AMER FMM team and are interested in using Alyce for our own campaign, please see section `Processing a New Alyce SOW and Campaign Setup`, below (NEED TO LINK).
-
-Note: Gift recipients will always be able to donate the value of their gift to a meaningful charity or exchange for something different with equal or lesser value.
-
-#### Regions that use Alyce
-At this time, Alyce is only used by our AMER Field Marketing team via a pilot program.
-
-#### Successful Usage
-Strategic success is contingent upon close alignment and communication between Marketing and Sales. Alyce believes that prospecting by building rapport, earning trust and driving loyalty are the keys to success and have built their entire platform from this model. SDRs will leverage templates available in the Alyce tool that they are able to customize.
-
-**We will work together to complete the following:**
-
-- Determine our list of top prospects
-- Create account-centric plan per SAL
-- Understand Alyce platform and how to use it
-- Review Alyce use-cases to optimize success
-
-#### SDR Allocation per Gifting Rules
-
-- MQL Score < 30 = $35 gift allowance
-- MQL Score 31-75 = $50 gift allowance
-- MQL Score 76-100 = Up to $100 gift allowance
-- For a higher gift allowance a very specific justification should be presented and would need to be approved by FMM DRI
-
-#### SDR Requirements for Booking IQMs via Alyce
-
-- Meetings that are booked by SDR leveraging Alyce should use the following naming convention when creating an IQM Event: IQM - Prospect Name, Account Name - Alyce. This will allow FMM's and SDR Managers to filter reports by IQMs booked via Alyce platform.
-
-#### Training and Helpful Videos
-To be successful, there will be a series of training sessions to enable the Sales and Marketing team success.
-- [Introductory Training/Sales Enablement](https://gitlab.zoom.us/rec/share/OgjnGu92hWJJO0wOD2YqFXQDEBt9VYIgDwOXbrQQBJBslvWAkbPWMxLPs0kgvRCC.2ioRU-qJbvioHhVJ?startTime=1596812685000)
-- [SDR Enablement Training](https://gitlab.zoom.us/rec/share/1uDOxHhjx6C15dwko_u_6BdCK6L6tNtKJn52AK6Wwt3Q2_UifMa2jUEehedxHjMZ.WT9ikakQyMlfrFJF?startTime=1598983434000)
-- [Alyce Quick Start Video](https://gitlab.zoom.us/rec/play/mEBrvrZfMPrzjZhmUtndNJU9_ZWrlU0wfjoWxGX1gNv6ZkzP1WVafvDyGYjUAUR4NFsExNb2S9C1_k6X.aE3YZYdS_rKq23W8?continueMode=true)
-
-#### Reporting and Dashboards
-Alyce defines influence as engagement, which would be any opportunity/pipeline with an Alyce gift that passed through viewed and/or accepted. We have integrated the Alyce dashboard into SFDC for easy access [HERE](https://gitlab.my.salesforce.com/01Z4M000000oYBs). There is also a report folder for Alyce, which can be [found here](https://gitlab.my.salesforce.com/00O/o?listview_pageState=1&sort=&fcf=00l4M000001ADlO&folderType=r&sfk=&entityType=&scope=noFilter&search=).
-
-#### ROI & Metrics
-- Total number of engagements
-- Total number of meetings
-- Total number of SAOs
-- Pipeline progression
-- 90 or 180-day progression
-
-#### Personas
-Our focus will be geared towards key-decision makers or fellow team members who can help push to key decision makers. This opens up our outreach to anyone in DevOps, DevSecOps, IT, and other related fields with titles ranging from Developer Team Lead to Executives.
-
-Building rapport with a personalized experience that’s relatable, relevant, and respectful will be our cornerstone framework for any persona. Preferably, we’ll have had previous conversation before using Alyce.
-
-#### Sales Acceleration
-Every deal has multiple layers and multiple teams involved. This can lead to opportunities stalling unless you can re-engage and advance the conversation. Once a SAL has identified that they need to move the needle, our team will engage specifically with Alyce to move the conversation along.
-
-If the SAL or the SDR has already started early stages discussion, a post-meeting follow-up will keep the relationship moving forward. By using information learned at their earlier communications they can send a personal thank you.
-
-Once a target person has been identified within the Alyce system, the system needs 6-12 hours to come to you with suggested gifting options specific to that person.
-
-#### Processing a New Alyce SOW and Campaign Setup
-
-- If you are looking to run a new regional Alyce campaign and the team does not currently have a SOW in progress, you'll first need to contact the Alyce sales rep to discuss pricing/timeline/number of sends, review details with your regional manager, and have the sales rep create your SOW. Please contact `@krogel` for the Alyce sales rep contact details.
-- NOTE: Gifting Costs - Your SOW will include an initial cost for gifting. You will need to budget additional gifting costs throughout the entirety of your contract timeframe. A helpful way to organize your budget is to have one line item for the initial cost of the tool/SOW and then a second line item for budgeting additional gifting costs to help track how much you are spending on gifting. Both line items should utilize the same campaign tag.
-- Once you are ready to process your SOW, please follow the [Software Vendor/Product Approval Process](/handbook/marketing/field-marketing/#software-vendorproduct-approval-process).
-- After you have a fully executed SOW, you will be introduced to our GitLab Alyce Customer Success Rep. They will walk you through the tool and explain how to set up your campaign in Alyce and adjust settings. They will also host training sessions for the sales reps and provide helpful documentation.
-- When you are ready to set up your Alyce campaign in SFDC, your FMC will follow [these instructions](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-direct-mail-campaigns).
-- For general details and questions, please see the [Alyce Help Center](https://help.alyce.com/hc/en-us) and these helpful [Alyce videos](https://www.alyce.com/page/2/?s&resource_type&persona_type=marketing&tag_type).
-- We also currently have an Alyce Slack channel that includes our Customer Success Rep so they can answer any questions the team might have during the campaign. Please add your participating sales team to `#alycecollaboration`.
-
-</details>
-
 ### SimplyDirect
 
 #### Overview
@@ -220,34 +143,6 @@ using the Direct Mail campaign status progressions. (for example, when a person'
 - Cost of the items you are using in the giveaway
 - Fulfillment and shipping fees for each order placed once the giveaway is running (there is a Cost Estimate under campaign settings but please note actuals have ended up higher than their estimate so far) These will be on a Printfection invoice, more details to come on the invoice process.
 - $25/month per item stocked in Printfection. This will not hit your field marketing campaign tag, but is an overall cost to GitLab to consider and be mindful of (noted in Step 12 [here](/handbook/marketing/corporate-marketing/merchandise-handling/#creating-the-send-order)
-
-### EMEA Giveaway/SWAG Campaigns
-
-- When printfection is not an option, EMEA Field Marketing utilise the services of vendor [Ten&One](https://www.tenandone.com/) to source, fulfill and ship giveaways/swag [EMEA SWAG](/handbook/marketing/events/#emea-field-marketing-swag). Please create an issue utilizing the [EMEA Swag Request Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/EMEA_SWAG_Request_template.md) or contact the EMEA FMC for further information and options.
-
-### Lieferando (Takeaway Pay)
-
-#### Overview
-**Lieferando or Takeaway** is a leading online food delivery marketplace in Europe, focused on connecting consumers and restaurants through its platform. Takeaway offers an online marketplace where supply and demand for food delivery and ordering meet.
-
-In EMEA we organise **Lunch & Learn** virtual sessions in collaboration with our SDR and SAL colleagues. These are virtual client/prospect meetings, normally reserved for those accounts which fall into our [large segment](/handbook/sales/field-operations/gtm-resources/), where we invite a company to participate in a presentation. We provide the RSVP'd attendees with lunch e-vouchers so they can order food directly to their office/home. We have a Lieferando/Takeaway Pay B2B account (monthly invoicing) in place that can be utilised for these Lunch & Learn virtual events.
-
-#### Regions that use Lieferando/Takeaway
-Takeaway Pay (their booking platform for B2B) currently operates in the following countries (note only € currency is available at this moment):
-**Germany, Austria, Switzerland, Belgium, Netherlands, France, Poland and Romania**
-
-#### How it works - to order vouchers
-Please contact @helenadixon on slack for assistanve with ordering the vouchers.
-1. Log into our account Lieferando.de portal (please contact the EMEA Field Marketing team for login details)
-2. Order the e-vouchers and send by email.
-
-#### How it works - for the receiver
-1. The receiver will receive an email with "GitLab GmbH has granted you a Takeaway Pay allowance."
-2. There will be a button with "Takeaway Pay: Activate your Account". Please click on the blue button "Activate".
-2. Now click on "Create new account" for creating a new Lieferando account.
-3. Please create a new password.
-4. Done! You can now browse restaurants, choose your favourite meal and pay with your Takeaway Pay budget.
-5. The allowance allocated by GitLab is valid for a certain day/time/amount. This should be explained by email by the sender.
 
 ### Linkedin events Feature - FMM team access
 
@@ -684,7 +579,10 @@ Via our Marketing Operations team, Field Marketers can request Author Role acces
 1. Optimisation: Viewing each asset/track's performance can help Field Marketing refine and optimise the content with monthly or quarterly refreshes.
 
 ### Getting Started
-Visit the [User Role](/handbook/marketing/marketing-operations/pathfactory/#user-roles) section of the PathFactory page to learn more about the Author Role: [the Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E) and [Author role training (Do not share externally - PII data presented](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing) are mandatory trainings to complete prior to submitting an AR to MOps.
+Visit the [user role](/handbook/marketing/marketing-operations/pathfactory/#user-roles) section of the PathFactory page to learn more about the author role. 
+
+### Required Training
+Please review the [Pathfactory Training](/handbook/marketing/marketing-operations/pathfactory/#training) videos (specifically the author role training) before submitting an AR to request author role access.
 
 This section will continue to be fleshed out as we rollout to the global Field Marketing team.
 
@@ -811,8 +709,8 @@ For complete details on Smartling, our translation tool, please see the [Smartli
 
 The AMER Field Marketing team utilizes our swag vendor, [Nadel](https://www.nadel.com/) and their contracted warehouse, DG Fulfillment. Nadel is available to produce, ship and store swag and event material. The FMM is responsible for accessing the [Nadel Portal](https://rhu270.veracore.com/v5fmsnet/MONEY/OeFrame.asp?PmSess1=2095144&Action=LOGIN&pos=GIT476&v=4&OfferID=&sxref=) via the Field Marketing team login available in the 1Password Marketing Vault to order all swag and trade show items for their events.
 
-Nadel Portal Demo - [View Here](https://drive.google.com/open?id=1JGGjmWioXmwKI8t1zowqyfl22GKeaOk3)
-Nadel Admin Portal Demo - [View Here](https://drive.google.com/open?id=1YNNjr-A8OJVLuod27vWfTCbEO1y21d9T)
+Nadel Portal Demo - [View Here](https://drive.google.com/open?id=1JGGjmWioXmwKI8t1zowqyfl22GKeaOk3)  
+Nadel Admin Portal Demo - [View Here](https://drive.google.com/open?id=1YNNjr-A8OJVLuod27vWfTCbEO1y21d9T)  
 
 - **[Campaign Tags](/handbook/marketing/field-marketing/#field-marketing-campaign-tags):** You are required to provide a campaign tag for all Nadel orders. All charges related to swag and shipping will be associated to your specific campaign.
 - **Budgeting for Swag:** Please note that we pay a $6.50 per order fee for any orders placed through the Nadel warehouse (DG Fulfillment). Remember to add this cost to your overall campaign swag budget.
@@ -832,10 +730,10 @@ Each FMM and FMC is to keep a GitLab tablecloth, popup banner and table runner w
 It is the FMM’s responsibility to not only ship assets to events, but to also ensure the onsite event DRI ships the items back within **3 days** of the end of the event. When shipping items via the Nadel portal, there is an option to include return shipping labels during the ordering process so items can be sent back to Nadel directly. The return shipping labels will be included on the outside of the box in a sleeve marked `Return Documents Enclosed`. The FMM is to make sure the onsite event DRI is aware of the location of the return shipping labels. If a return shipping label is not included for any reason during the Nadel ordering process, the FMM is to provide the Field Marketing Fedex account number (available in the 1Password Marketing Vault) and the return shipping address listed below to the onsite event DRI. The onsite event DRI will then need to drop off the items to a Fedex location.
 
 #### Nadel Warehouse Address for Returns
-DG Receiving Dept - GIT476 (FM)
-2270 E 220th Street
-Deliveries To: Dock Door 21
-Carson, CA 90810
+DG Receiving Dept - GIT476 (FM)  
+2270 E 220th Street  
+Deliveries To: Dock Door 21  
+Carson, CA 90810  
 
 ### AMER Sales Welcome Swag Kits
 
@@ -847,11 +745,11 @@ Please utilize the [Printfection Sales Swag](https://get.printfection.com/dcdzm/
 
 ## EMEA Field Marketing Swag
 
-The EMEA Field Marketing team utilises the swag vendor [Ten&One](https://www.tenandone.com). Ten&One is available to source, fulfillment, ship and store swag and event material. The FMC is responsible for ensuring adequate stock levels and coordinating field event swag logistics.
+The EMEA Field Marketing team utilises [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/#project-management) to source, fulfill, ship and store (European adn Uk warehouses) swag branded swag items.  We also utilise vendor [Ten&One](https://www.tenandone.com) who can source swag items and who also currently store all EMEA event material. The FMC is responsible for ensuring adequate stock levels and coordinating field event swag logistics.
 
 **Invoicing:** All invoices for Field Marketing are required to include the Campaign Tag `swag_field` to allow for proper finance coding.
 
-- **Existing Items:** Item descriptions and quantities are listed in the Ten&One portal, please reach out to `@helenadixon` for current inventory levels.
+- **Existing Items:** Item descriptions and quantities are listed on the Reachdesk portal, please reach out to `@helenadixon` for current inventory levels.
 - **New Items and Designs:** Requests for new swag items not already available require management approval. Any new swag designs must be approved by the brand team for brand consistency. You can suggest new designs in the swag slack channel or more formally in an issue in the [Swag Project](https://gitlab.com/gitlab-com/swag_suggestions).
 - **Large Orders:** For orders over 500 pieces, contact `@helenadixon` for assistance.
 - **Shipping:** Please make sure to specify all shipping requirements and deadlines when ordering your items.
@@ -867,11 +765,11 @@ Delivery options and timelines are provided during the ordering process. Any new
     - Email address
     - Date (timeline when shipping can arrive)
     - Swag items required and Quantities
-- **Return items to warehouse**: FMC will coordinate with Ten&One the return of all banners, table cloths, back walls, counter top, iPads (not SWAG) back to Ten&One Address: Agentur, Meyerbeerstraße 12, 81247 München, Germany, Phone: +49 89 2554190
+- **Return Event Material from event locations to warehouse**: FMC will coordinate with Ten&One the return of all banners, table cloths, back walls, counter top, iPads (not SWAG) back to Ten&One Address: Agentur, Meyerbeerstraße 12, 81247 München, Germany, Phone: +49 89 2554190
 
 # Field Marketing Fedex Account
 
-The Field Marketing team utilizes the Field Marketing Fedex Account (details located in the Marketing 1pass) for shipping.
+The Field Marketing team utilizes the Field Marketing Fedex Account for shipping (details located in the Marketing 1pass). Please always include a reference when using the account (Allocadia ID, name of event, etc.) so charges can be tracked appropriately. For any questions regarding the Field Marketing Fedex account, please contact `@krogel`.
 
 # AMER Field Marketing Vendors and Tools
 
