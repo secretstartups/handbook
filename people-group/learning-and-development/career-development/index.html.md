@@ -65,7 +65,7 @@ As part of GitLab's [Transparency](/handbook/values/#transparency) value, team m
 
 #### Career Development
 
-It is perfectly acceptable to seek out learning and development opportunities — to sharpen one's understanding of a coding language to better understand a function, etc. — yet not strive for promotion beyond your current role. Some team members are happier and more productive without managing a team, for example.
+Career development involves the process of choosing a career and building a career path that will accelerate professional growth. It is perfectly acceptable to seek out learning and development opportunities — to sharpen one's understanding of a coding language to better understand a function, etc. — yet not strive for promotion beyond your current role. Some team members are happier and more productive without managing a team, for example.
 
 **Team member examples of career development:**
 
