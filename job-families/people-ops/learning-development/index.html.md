@@ -195,10 +195,24 @@ Candidates for this position can expect the hiring process to follow the order b
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-## Specialties
+## Specialities 
 
+### Career Mobility & Development
 
+- Focus on the development and implementation of learning programs that enable team member career mobility & development
+- Design, develops, and co-creates scalable, results-driven programs that expose team members to on the job training resources including mentorship, interning, shadowing, and other professional development opportunities
+- Create career development progression paths for team members that align with team member employment lifecycle
+- Educates team members of career mobility programs and measures the impact to include promotion rates, retention, and engagement survey scores
+- Partner with People Operations to evaluate, manage, and build tools to increase efficiency with talent mobility programs
 
+### Onboarding
+
+- Focus on owning the end-to-end development of an efficient and innovative onboarding program for the organization to ensure new hires effectively assimilate into GitLab culture and ways of working
+- Re-designs current onboarding program to equip technical and non-technical team members with the right skills to be successful in their role 
+- Co-creates new onboarding programs for Managers to Executive Leadership 
+- Serve as the main point of contact for Day 1, 30 days, 60 days, 90, 180 days, to ensure a successful onboarding process with new hires.
+- Partner with People Operations team to ensure administrative requirements of onboarding for all new hires are met 
+- Continuously work to ensure onboarding process is organized and efficient as possible while identifying and acting on opportunities to improve and update processes and policies
 
 
 ## Performance Indicators
