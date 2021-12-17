@@ -199,30 +199,24 @@ These future state nurture programs will be aligned to GTM Motions, with three s
 {: #add-to-nurture-in-program}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-These smart campaigns are in Marketo program templates in order to add leads to nurture programs. This is the interim of building an automated Nurture Logic Engine, which will enable a more scaled and efficient approach.
+With Intelligent Email Nurture launched, all net-new leads will be automatically added to their appropriate nurture program. We are still migrating existing leads into the programs, so in the meantime, for programs that were set up before 2021-12-15, there still be an `add to nurture` smart campaign. That should be updated as follows:
 
-**Review the smartlist and run:**
+**Update the smartlist and run:**
 * Smart List (filter):
     - Member of Program: (current program, success status) - `NOTE: These are pre-built in the templates, no need to edit!`
-    - Subscription Filters (fitlers here are dependent on program type, and subject to change, so not adding all details)
-    - Not in a trial
-    - Not on an open opportunity
+    - Subscription Filters: `Member of smartlist` IN `Nurture Emailable - DO NOT EDIT`
 * Flow
-    - Add to nurture:
-       - Select the program indicated in the issue description (should include one of the [active nurture program options](/handbook/marketing/demand-generation/campaigns/emails-nurture/#gtm-motion-nurtures))
-       - Select the stream indicated in the issue description (should be awareness, consideration, OR decision/purchase)
+    - Request Campaign - `*Air Traffic Control Automation.00 - Movement - Existing Leads Processor`
 * Schedule
     - Select `Run Once` > Choose `Run Now` > Click `Run`
+
+Once activated, the leads will flow through the appropriate processing campaigns to put them in the right nurture. If they are already in an existing nurture program, they will not be added. That means you do not need to filter out new vs existing leads when updating the smart campaign above.
 
 #### Requesting to add leads to a nurture program
 {: #add-to-nurture-request}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-While the future automated nurture system is in progress, to request to add a segment of leads to a nurture, please create an add-to-nurture issue request:
-   - If Field Marketing is DRI: [request-add-to-nurture](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_add_nurture)
-   - If any other team is DRI: [request-add-to-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
-
-These issue templates are also built into the epic codes throughout the handbook accordingly. As the overarching automated nurture logic is created, AND epic codes consistently indicate the required details for the logic, we will discontinue use of these issue templates.
+There is no need to request addition of leads to a nurture, since all leads will be in their appropriate nurture at all times.
 
 #### In Product Email Campaigns
 {: #in-product-emails .gitlab-purple}
@@ -412,10 +406,7 @@ Below are the information from the issue template that will need to be filled ou
 {: #email-request-types}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- **Marketing Emails**: Marketing emails are designed to generate leads. The request process outlined is used for ad-hoc marketing emails (not events, webcasts, integrated campaigns, etc as these all have a separate established process). These emails are sent through Marketo using the marketing database or [existing segments](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#geographic-dma-list).
-- **Terms of Service or Privacy Policy Updates**: Terms of Service or Privacy Policy emails are sent to the user base and are not marketing-related. These emails are sent through MailJet and may require additional approvals, based on the content or number of recipients.
-- **Support emails**: Support emails are typically sent to a subset of impacted users and are not marketing-related. These emails are sent through MailJet.
-- **Security emails**: Security emails are sent either to the entire user base or a subset of users and are not marketing-related. They are often urgent, but in the case of the monthly security release, they are scheduled. The monthly security release email is sent through Marketo. Urgent notifications are typically sent through MailJet.
+Go to [this page](/handbook/marketing/marketing-operations/email-management/#types-of-email) to read more about email management and the different types of emails.
 
 #### Approvals and notifications for email requests
 {: #email-request-approval}
@@ -586,9 +577,7 @@ Send sameple to the DRI for the program (i.e. workshop owner) who is responsible
 
 You can remove specific recurrences of scheduled sales nominated deployments. The FMC is responsible for this change for field marketing activities, and campaign managers are responsible for this change for demand generation activities.
 
-* Navigate to the `Schedule` tab of the Sales Nominated smart campaign
-* Scroll down and you will see the scheduled deployment dates with a small red `x` to the right
-* Click the small `x` next to any of the dates that you would like to remove from the scheduled deployments
+To cancel a send, follow [these directions](handbook/marketing/marketing-operations/campaigns-and-programs/canceling-an-email-send).
 
 ## Adding “add to calendar” links in our emails without using 3rd party tools
 {: #email-add-to-calendar}
