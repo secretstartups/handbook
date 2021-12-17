@@ -106,7 +106,19 @@ In the event of an severity::1 (critical) security vulnerability email communica
 {: #add-nurture-email}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-After you have created the Email Program (see above: [Creating a nurture email program for the Intelligent Nurture](/handbook/marketing/demand-generation/campaigns/emails-nurture/#create-nurture-email))
+After you have created the Email Program (see above: [Creating a nurture email program for the Intelligent Nurture](/handbook/marketing/demand-generation/campaigns/emails-nurture/#create-nurture-email)) and tested your email (including checking UTM parameters), your email is ready to be activated in the Intelligent Nurture.
+
+Work with the Campaigns Team to indicate the appropriate streams for the offer to be included (this is based on segment/region/funnel stage).
+
+1. Navigate to the appropiate nurture program (i.e. AMER Enterprise)
+1. In the appropriate stream (i.e. MQL > SAO), click the plus icon at the top.
+1. Inn the `Type` section, select `Program`
+1. In the `Program Name` section, begin to type in the name of the corresponding email program (i.e. ebook-10stepsciso) and select the program you created for this offer
+1. In the `Smart Campaign` section, select `01 Send Controller`
+1. Now, click the gear icon for your program in the stream and either:
+   - `Activate` if it is not an upcoming event
+   - `Edit Availability` if it is an upcoming event and set the "End Date" for the date of the event. This will automatically stop the email from sending when the event has taken place.
+
 
 #### Reading for those unfamiliar with Marketo
 {: #marketo-nurutre-reading}
