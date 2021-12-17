@@ -21,6 +21,17 @@ Reliable tests are executed as a blocking step in the release process. It is vit
 
 A reliable test is an end-to-end test that passes consistently in [all pipelines](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#scheduled-qa-test-pipelines), for at least 14 days. Such a test can be given the `:reliable` tag.
 
+### Promoting a new test to reliable
+
+These are the steps required to promote a new test to reliable
+
+1. All new tests should start without any quarantine tags, and they should be monitored in all environments that are part of the release process for seven days.
+2. If the new tests fail, they are triaged and quarantined per the [pipeline triage procedure](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/).
+3. Once the failures are addressed, the quarantine tag is removed.
+4. If the new tests do not fail while out of quarantine for the 14 days, they are promoted to reliable.
+
+**Note:** the DRI for promoting new tests to reliable is the author of the MR that adds the new test(s). The author of the reliable test should consider adding documentation on how to run and debug the test prior to promoting it.
+
 ### Promoting an existing test to reliable
 
 If an end-to-end test consistently passes for 14 consecutive days (as mentioned above), it could be considered a reliable test.
@@ -47,17 +58,6 @@ Additionally, report contains information on `reliable` specs that have failed i
 - `Staging Smoke and Reliable (No Admin)`
 - `Gitlab master`
 - `Nightly packages`
-
-### Promoting a new test to reliable
-
-These are the steps required to promote a new test to reliable
-
-1. All new tests should start without any quarantine tags, and they should be monitored in all environments that are part of the release process for seven days.
-2. If the new tests fail, they are triaged and quarantined per the [pipeline triage procedure](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/).
-3. Once the failures are addressed, the quarantine tag is removed.
-4. If the new tests do not fail while out of quarantine for the seven days, they are promoted to reliable.
-
-**Note:** the DRI for promoting new tests to reliable is the author of the MR that adds the new test(s). The author of the reliable test should consider adding documentation on how to run and debug the test prior to promoting it.
 
 ### What to do when a reliable test fails?
 
