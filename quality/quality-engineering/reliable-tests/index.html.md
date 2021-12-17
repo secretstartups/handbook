@@ -19,7 +19,7 @@ Reliable tests are executed as a blocking step in the release process. It is vit
 
 ### Defining a reliable test
 
-A reliable test is an end-to-end test that passes consistently in [all pipelines](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#scheduled-qa-test-pipelines), for at least seven days. Such a test can be given the `:reliable` tag.
+A reliable test is an end-to-end test that passes consistently in [all pipelines](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#scheduled-qa-test-pipelines), for at least 14 days. Such a test can be given the `:reliable` tag.
 
 ### Promoting an existing test to reliable
 
@@ -90,8 +90,8 @@ Reliable tests will be run as part of the release process, [during every deploym
 
 This is in addition to the `smoke tests` that is already run as part of the release process
 
-### Open questions
+### Future Iterations
 
 - Promotion of test case to reliable or removing from reliable is still a manual process. The long term goal would be identifying and moving tests across buckets automatically.
 
-> If there are more open questions they can be added here too.
+> If there are more suggestions/ open questions they can be added here too.
