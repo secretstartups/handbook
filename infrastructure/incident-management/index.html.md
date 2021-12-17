@@ -129,6 +129,8 @@ If any of the following are true, it would be best to engage an Incident Manager
     1. Director of Infrastructure Platform - Marin Jankovski
     1. VP of Infrastructure - Steve Loyd
 1. After the incident is resolved, the Incident Manager is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review/).
+    1. If an incident is either an S1 or public S2(including security) then the Incident Manager should add the incident to the Gitlab.com standup agenda.
+    1. If the meeting is not active (no agenda) then the Incident Manager should activate meeting for the following business day.  
 1. For high severity bugs that affect customers, the Incident Manager is responsible for making sure Incident Reviews are coordinated with other departments in Engineering and go through the complete Incident Review process.
 1. When engaged in an active incident near the end of an Incident Manager shift, the current Incident Manager owns the decision as to whether to continue in their role or to transition the active incident to the incoming Incident Manager. In most cases, this transition should be the expected default behavior. 
 1. During a shift where no Incident Manager engaged incidents have occurred, no transition ("handover") is required. 
