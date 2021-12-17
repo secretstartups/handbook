@@ -20,7 +20,7 @@ Most (if not all) work begins with an issue or epic (which we will generally ref
    1. Proposal DRIs: assign the architecture issue to yourself, your manager, and an Architecture Evolution Coach (AEC); as we make progress and identify a management Engineering Leader, this individual will replace your manager as a DRI.
 1. Open a new Google Doc where you will collaborate on an architectural blueprint with others.
    1. Write an initial draft of the blueprint, describe the vision, challenges and opportunities.
-   1. Collaborate with AEC to find appropriate Domain Experts and Functional Experts (Security, QA, Database, and Infrastructure) that should be involved and @-mentioned in the blueprint merge request
+   1. Collaborate with AEC to find appropriate Domain Experts and Functional Experts (Security, QA, Database, and Infrastructure) that have to be involved and @-mentioned in the blueprint merge request
    1. Collaborate with AEC to find relevant Product Management DRI if applicable and @-mention them in the blueprint merge request
    1. Post on [`#architecture` channel on Slack](https://gitlab.slack.com/archives/CJ4DB7517)
    1. Post a request for the review on their Slack channel (`#safe` Slack channel).
