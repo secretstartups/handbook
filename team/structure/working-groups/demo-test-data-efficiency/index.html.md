@@ -40,16 +40,20 @@ We will benefit from tooling efficiency together and broaden visiblity of demo d
 
 ### Roles and Responsibilities
 
-| Working Group Role    | Person                 | Title                          |
-|-----------------------|------------------------|--------------------------------|
-| Facilitator           | Grant Young            | Staff Software Engineer in Test |
+| Working Group Role    | Person                 | Title                             |
+|-----------------------|------------------------|-----------------------------------|
+| Facilitator           | Grant Young            | Staff Software Engineer in Test   |
 | Functional Lead       | Mark Fletcher          | Engineering Productivity Engineer |
 | Functional Lead       | Marcellus Thabo Bopape | Senior Technical Enablement Program Manager |
 | Stakeholder           | Tim Poffenbarger       | Senior Manager, Solutions Architects |
-| Stakeholder           | Tanya Pazitny          | Director of Quality           |
-| Executive Sponsor     | Mek Stittri            | VP of Quality                  |
-| Member                | Vincy Wilson           | Quality Engineering Manager    |
-| Member                | Tim Zallmann           | Senior Director of Engineering |
-| Member                | Mark Wood              | Senior Product Manager         |
-| Member                |  Sameer Kamani         | Staff Federal Solution Architect |
-| Member                |                        |                                |
+| Stakeholder           | Tanya Pazitny          | Director of Quality               |
+| Executive Sponsor     | Mek Stittri            | VP of Quality                     |
+| Member                | Vincy Wilson           | Quality Engineering Manager       |
+| Member                | Tim Zallmann           | Senior Director of Engineering    |
+| Member                | Mark Wood              | Senior Product Manager            |
+| Member                | Sameer Kamani          | Staff Federal Solution Architect  |
+| Member                | Joe Randazzo           | Solutions Architect               |
+| Member                | Darwin Sanoy           | Staff Solutions Architect         |
+| Member                | Dan Davison            | Senior Software Engineer in Test  |
+| Member                | Nailia Iskhakova       | Senior Software Engineer in Test  |
+| Member                | Erick Banks            | Senior Software Engineer in Test  |
