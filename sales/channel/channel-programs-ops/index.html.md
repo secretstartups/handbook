@@ -89,7 +89,7 @@ GitLab Certified Training Partner program is invite only until 31 January 2021.
 #### Process for Enrolling Partners into the GitLab Certified Training Partner Program
 In order to collaborate with partner organizations, the Channel Solutions Architect group has created a sub-group named [Partners](https://gitlab.com/gitlab-com/channel/partners) under the [channels sub-group](https://gitlab.com/gitlab-com/channel) in GitLab.com where the Channel Account Managers share projects directly with our partner contacts. In order to work with a partner directly, the CAM is required to ensure there is an open sub-group for the specific partner under the [Partners sub-group](https://gitlab.com/gitlab-com/channel/partners). 
 1. Check for the partner's sub-group:
-    a. Navigate to the [Partners](https://gitlab.com/gitlab-com/channel/partners) sub-group.
+    * Navigate to the [Partners](https://gitlab.com/gitlab-com/channel/partners) sub-group.
     b. Click on the sub-group for the region where the partner is located.
     c. Review the list of partners in that region.
 2. If you did not see the partner in the sub-group for their region, create a sub-group named `Partner Company Name` with two sub-groups (collaboration and internal) under the company sub-group.
