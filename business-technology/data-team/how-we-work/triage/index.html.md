@@ -20,14 +20,40 @@ description: "GitLab Data Triage Guide"
 
 The Data team has implemented the following triage schedule to take advantage of native timezones:
 
-| UTC Day   | Data Analyst      | Data Engineer     |
+| UTC Day   | Data Analyst / Analytics Engineer      | Data Engineer     |
 | --------- | ----------------- | ----------------- |
-| Sunday    | `@ken_aguilar`    | -                 |
-| Monday    | `@chrissharp`     | `@vedprakash2021` |
-| Tuesday   | `@chrissharp`     | `@paul_armstrong` |
-| Wednesday | `@michellecooper` | `@rbacovic`       |
-| Thursday  | `@ken_aguilar`    | `@laddula`        |
-| Friday    | `@jeanpeguero`    | `@jjstark`        |
+| Sunday    | `@ken_aguilar`  |  no assignment | no assignment |
+| Monday    | See below for R&D assignee | `@vedprakash2021` |
+| Tuesday   | See below for R&D assignee | `@paul_armstrong` |
+| Wednesday | `@michellecooper` | `@rbacovic` |
+| Thursday  | `@ken_aguilar`    | `@laddula` |
+| Friday    | `@jeanpeguero`    | `@jjstark` |
+
+R&D Fusion team triage schedule:
+
+| UTC Day   | R&D Data Analyst / Analytics Engineer | 
+| --------- | ----------------- | 
+| Dec 13-14 | `@chrissharp`    | 
+| Dec 20-21 | `@ttnguyen28`    | 
+| Dec 27-28 | `@snalamaru`    | 
+| Jan 3-4   | `@mdrussell`    |
+| Jan 10-11 | `@chrissharp`    | 
+| Jan 17-18 | `@ttnguyen28`    | 
+| Jan 24-25 | `@snalamaru`    | 
+| Jan 31-Feb 1 | `@mdrussell`    | 
+| Feb 7-8 | `@chrissharp`    | 
+| Feb 14-15 | `@ttnguyen28`    | 
+| Feb 21-22 | `@snalamaru`    | 
+| Feb 28-Mar 1 | `@mdrussell`    | 
+| Mar 7-8 | `@chrissharp`    | 
+| Mar 14-15 | `@ttnguyen28`    | 
+| Mar 21-22 | `@snalamaru`    | 
+| Mar 28-29 | `@mdrussell`    | 
+| Apr 4-5 | `@chrissharp`    | 
+| Apr 11-12 | `@ttnguyen28`    | 
+| Apr 18-19 | `@snalamaru`    | 
+| Apr 25-26 | `@mdrussell`    | 
+
 
 A team member who is off, on vacation, or working on a high priority project is responsible for finding coverage and communicating to the team who is taking over their coverage;
 this should be updated on the [Data Team's Google Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9kN2RsNDU3ZnJyOHA1OHBuM2s2M2VidW84b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). To avoid putting the _Monday workload_ on the same shoulders every week again, the Data Engineers will will rotate/exchange every now and then triage days in good collaboration on an ad-hoc basis.
