@@ -21,13 +21,10 @@ The Analyst, Online Sales & Self Service Operations is a [grade 6](/handbook/tot
 * Build, monitor and maintain dashboards and reports, all the way from running the day-to-day of the business to ensuring executive visibility
 * Proactively and reactively identify, analyze, troubleshoot, escalate, triage and resolve business-stopping customer-facing issues through partnership with engineering and product teams
 * Actively engage with sales and customer-facing teams to identify customer self-service opportunities and gaps. Influence the self-service product backlog based on data, customer feedback and internal feedback
-* Develop content and train our customer-facing teams on self-service systems and business processes
-* Improve the self-service team’s effectiveness and efficiency and provide increased insights through data, automation, and analytics
 
 ### Requirements
 * 1-3 years experience in SaaS operations or related field
 * Strong analytical and problem-solving skills
-* Demonstrated progressive Operations experience supporting Sales / Customer Success / Account Management teams, preferably within an Enterprise SaaS organization
 * Resourcefulness to get things done cross-functionally, prioritize multiple projects, and project-manage
 * Self-starter, detail-oriented and comfortable working in a fast-paced/dynamic environment
 * Experience and knowledge of B2B enterprise SaaS tools (e.g. Salesforce, Zendesk, Drift)
@@ -35,16 +32,24 @@ The Analyst, Online Sales & Self Service Operations is a [grade 6](/handbook/tot
 * Willingness to learn and use GitLab
 * You share our values and work by those values
 
+
 ## Senior Analyst, Online Sales & Self Service Operations
 
 ## Job Grade
 The Senior Analyst, Online Sales & Self Service Operations is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
-* 
+* Extends that of the Analyst requirements
+* Improve the self-service team’s effectiveness and efficiency and provide increased insights through data, automation, and analytics
+* Develop content and train our customer-facing teams on self-service systems and business processes
+
 
 ## Requirements
-* 
+* Extends that of the Analyst requirements
+* 2-4 years experience in SaaS operations or related field
+* Demonstrated progressive Operations experience supporting Sales / Customer Success / Account Management teams, preferably within an Enterprise SaaS organization
+* Ability to convey complex information to non-domain individuals
+
 
 ## Performance Indicators
 * Future experience (e.g. live-chat) OKRs (e.g., customer satisfaction score, first response time, first contact resolution, etc.) These measures need to be finalized based on creation of chat.
