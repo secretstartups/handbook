@@ -91,7 +91,7 @@ In order to collaborate with partner organizations, the Channel Solutions Archit
 1. Check for the partner's sub-group:
     * Navigate to the [Partners](https://gitlab.com/gitlab-com/channel/partners) sub-group.
     * Click on the sub-group for the region where the partner is located.
-    c. Review the list of partners in that region.
+    * Review the list of partners in that region.
 2. If you did not see the partner in the sub-group for their region, create a sub-group named `Partner Company Name` with two sub-groups (collaboration and internal) under the company sub-group.
     a. Please refer to the [Sub-groups documentation page](https://docs.gitlab.com/ee/user/group/subgroups/) to learn how to create sub-groups.
     * Please refer to an existing partner company sub-group and use it to as a model for the new one that you are creating.
