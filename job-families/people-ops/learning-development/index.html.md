@@ -17,8 +17,8 @@ The Program Manager, Learning & Development (Junior) is a [grade 5](/handbook/to
 ### Program Manager, Learning & Development (Junior) Responsibilities
 
 - Support the identification and design of learning solutions to support GitLab's growth
-- Maintains the back-end management of learning administration to include certifications, knowledge assessments, external learning inquires, and internal training programs 
-- Utilizes the LMS course authoring tool to create Handbook first course content
+- Maintain the back-end management of learning administration to include certifications, knowledge assessments, external learning inquires, and internal training programs 
+- Utilize the LMS course authoring tool to create Handbook first course content
 - Develop customized learning paths for team members that incorporate customized and curated learning content
 - Track and monitor training consumptions through reporting and analytics
 
@@ -119,8 +119,6 @@ The Learning & Development Partner is a [grade 7](/handbook/total-rewards/compen
 - Partner with members of the People group and the leadership team to identify, develop, and deliver solutions that support the growth of our team members and GitLab's success
 - Establish an internal learning and development roadmap for all GitLab managers and individual contributors
 - Iterate on existing materials and design and develop new L&D content, utilizing [GitLab's YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) and [handbook](/handbook/handbook-usage/)
-- Collaborate with the Sales team to design and deliver orientation content that develops new hires' understanding of GitLab’s business and platform
-- Select a learning platform for GitLab that incorporates content from the handbook and provides methods for tracking assessments and completion
 - Monitor L&D metrics and iterate upon programs and courses for continuous improvement
 - Create and design the supporting course material for all development programs, both for instructor-led and e-learning
 - Identify and design the right learning solutions to support GitLab's growth
@@ -169,7 +167,7 @@ The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compen
 
 ### Learning & Development Manager Responsibilities
 
-- Extends the Learning & Development Partner responsibilities
+- Extends the Senior Program Manager, Learning & Development responsibilities
 - Develop and lead the Learning and Development team while creating quality learning lessons and programs
 - Design and develop role-based learning paths for individual contributors, managers, aspiring managers, and executive leadership 
 - Advise People group and the leadership with organization wide training initiatives that support the growth of our team members and GitLab’s success
@@ -240,9 +238,4 @@ Additional details about our process can be found on our [hiring page](/handbook
 - Partner with People Operations team to ensure administrative requirements of onboarding for all new hires are met 
 - Continuously work to ensure onboarding process is organized and efficient as possible while identifying and acting on opportunities to improve and update processes and policies
 
-## Performance Indicators
-
-1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](/handbook/people-group/offboarding/#exit-survey) related to career development
-2. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
-3. Increase in access to career mobility: internal transfers, promotions, job shadows, intern for learning, and professional development
 
