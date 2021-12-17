@@ -154,7 +154,7 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 | Complete First Issue: S to M T-Shirt Size  |  |  |
 
 
-## [Data Science](https://about.gitlab.com/job-families/finance/data-scientist)
+## [Data Science](https://about.gitlab.com/job-families/finance/data-science)
 
 ```mermaid
   graph LR;
