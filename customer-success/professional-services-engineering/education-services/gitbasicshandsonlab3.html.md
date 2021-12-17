@@ -49,7 +49,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. Click the **Overview** tab under the MR title.
 1. You haven’t specified any approvers for this project. If you had, an **Approve** button would appear in the **View eligible approvers** section.
 1. Ensure the **Delete source branch** checkbox is enabled, and click **Merge**.
-1. Navigate back to your repository’s project by clicking **Repository** in the left-hand navigation pane.
+1. Navigate back to your project's repository by clicking **Repository** in the left-hand navigation pane.
 1. Check what branch you’re on by looking at the dropdown at the top left of the page. Switch to **main** if you’re not already on it.
 1. Since the default view of the repository displays the contents of the `README.md` file, it’s easy to verify that the merge added `Edit my README.md file` to the contents of `README.md`.
 
