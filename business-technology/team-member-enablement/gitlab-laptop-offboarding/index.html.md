@@ -16,7 +16,7 @@ Any team member leaving Gitlab must review this handbook page thoroughly and in 
 
 **All laptops must be wiped by a member of the IT team on or before your last day of employment. If you perform the laptop wipe yourself, you will be forced to wipe it again, so please refrain from doing that twice, and contact us instead.**
 
-**Please note all team members have a 24 hour grace period after your last day to arrange a laptop wipe. If you do not contact Gitlab IT (gitlab-laptop-recovery@gitlab.com or #it-help if you have access to Gitlab’s Slack workspace) within this 24 hour period after your last day your laptop will be pin code locked. To reverse this, please email gitlab-laptop-recovery@gitlab.com.**
+**Please note you must have a laptop wipe appointment scheduled on your last day. If you do not contact Gitlab IT (gitlab-laptop-recovery@gitlab.com or #it-help if you have access to Gitlab’s Slack workspace) on your last day your laptop will be pin code locked. To reverse this, please email gitlab-laptop-recovery@gitlab.com.**
 
 
 ### Before your last day.
@@ -25,6 +25,7 @@ Ensure your laptop is enrolled in [Jamf](https://about.gitlab.com/handbook/busin
 
 The team member should arrange a meeting with the respective IT Ops team member on their last day (30-60 minutes before the scheduled offboarding time) to complete the laptop wipe: Calendly links will be provided in your Gitlab Off-boarding Email Packet. 
 - Marc DiSabatino - AMER time zone
+- Jenny Wong - AMER time zone
 - Paul Laurinavicius - EMEA time zone
 - Steve Ladgrove - APAC time zone
  
