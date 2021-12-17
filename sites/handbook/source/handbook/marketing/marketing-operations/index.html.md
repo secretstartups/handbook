@@ -359,7 +359,7 @@ For budgetary reasons, Marketing Operations will be performing quarterly, and fo
 
 ### Invoice Approval
 
-Marketing Operations approves any invoices that have not already been coded and approved through a Finance issue or that exceed the original cost estimate. We make use of Tipalti for this process. Team leads will confirm that services were performed or products were received also through Tipalti. Campaign tags are used to track costs related to events and campaigns.
+Invoices submitted to Coupa will be routed for approval. Details regarding this process can be found on the [Coupa End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#methods-to-approve-transactions) page. Campaign tags are used to track costs related to events and campaigns.
 
 ## Lead Scoring, Lead Lifecycle, and MQL Criteria
 
@@ -408,7 +408,7 @@ Status in the table below means:
 | Request - Contact | inbound | Filled out contact request form on GitLab website | Active |
 | Request - Professional Services | inbound | Any type of request that comes in requesting to engage with our Professional Services team | Active |
 | Security Newsletter | inbound | Signed up for security alerts | Active |
-| Trial - Enterprise | trial | In-product or web request for self-hosted Enterprise license | Active |
+| Trial - Enterprise | trial | In-product or web request for self-managed Enterprise license | Active |
 | Trial - GitLab.com | trial | In-product SaaS trial request | Active |
 | Web | inbound |  | Active |
 | Web Chat | inbound | Engaged with us through website chat bot | Inactive |
