@@ -46,6 +46,7 @@ There are two different scenarios for Virtual Cards:
 
 </div>
 </div>
+<br>
 
 ## How to request a Virtual Card for Scenario A
 **(Supplier paid by Virtual Card for one time purchase or emergency payment)**
@@ -73,13 +74,11 @@ There are two different scenarios for Virtual Cards:
 {: .panel-heading}
 <div class="panel-body">
 
-**The Virtual Card Supporting Documentation must match the amount of the Requisition** If the amounts differs, please see below **Virtual Cards FAQ; How do I attached a receipt or invoice after the Purchase Order is issued?** for the instructions.
+**The Virtual Card Supporting Documentation must match the amount of the Requisition.** If the amounts differs, please see below **Virtual Cards FAQ - How do I attached a receipt or invoice after Purchase Order is issued?** for instructions.
 
 </div>
 </div>
 <br>
-
-
 **Step 4.** Review the Cart Items section and verify the Billing information is correct. **NOTE - only GitLab Inc is available for Virtual Card at this time.**
 
 <div class="panel panel-warning">
@@ -96,7 +95,6 @@ The Cart Items section will list **Virtual Card** as the Supplier and will list 
 </div>
 </div>
 <br>
-
 **Step 5.** Click on **Submit for Approval**. 
 <br>
 
@@ -133,7 +131,7 @@ The card number, expiration date, and CVV code will be available to the requeste
    - Supplier only accepts credit card as form of payment and you have documentation regarding this requirement.
    - GitLab frequently purchases goods and services from this supplier.
    - This is the first time you are requesting the permanent Virtual Card for the supplier.
-- Click on the 'Request Virtual Card' button on the Coupa Homepage.
+- Click on the **Request Virtual Card** icon on the Coupa Home page.
 - Accounts Payable will need to set up a Virtual Card as the supplier’s default form of payment. To facilitate this process, please select **Yes** to the last question in the Virtual Card Request form, then provide answers to the additional 4 questions. **NOTE - insufficient information will delay the creation of the card.**   
 
 ![vcard-image-10](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard10.png)
@@ -152,9 +150,6 @@ You only need to request a permanent virtual card for the supplier once. After A
 </div>
 </div>
  <br>
-
-
-
 
 ## How to request a Virtual Card submitted via Allocadia
 
@@ -179,8 +174,7 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
 - After the requisition has been approved, the PO will be issued and the requester will receive the Virtual Card number for use.
 
 <br>
-
-### Suppliers to be paid permanently by Virtual Card**
+### Suppliers to be paid permanently by Virtual Card
 - Submit the requisition through Allocadia using the **actual Supplier name**.
 - When completing the requisition in Coupa, tag **@Accounts Payable Approval Group** in the **Comments** section requesting the supplier to be set up with Virtual Card as the permanent payment method. **You only need to request a permanent virtual card for the supplier once.**
 - AP will set up the permanent Virtual Card as a **Requester Card** and will confirm in the requisition comments that it has been created.
@@ -197,7 +191,7 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
 - **How do I request an amount to increase the Virtual Card?**
    - Follow the same process as [How to do a Purchase Order Change Request](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request). Once the change request has been approved, the Virtual Card amount will be increased.
 
-- **How do I attached a receipt or invoice after the Purchase Order is issued?**
+- **How do I attached a receipt or invoice after Purchase Order is issued?**
    - Go to to your **Settings**.
    1. Navigate to **Activity**.
    1. Select **Charges**.
