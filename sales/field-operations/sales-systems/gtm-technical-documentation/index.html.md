@@ -482,8 +482,20 @@ Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePA
  
 * Workflow Rule: [Next Steps History](https://gitlab.my.salesforce.com/01Q4M000000sslN)
 * Field Update Action: [Update Next Steps History](https://gitlab.my.salesforce.com/04Y4M000000saO7)
+
+## Tesorio Integration
  
-## Automations
+**Business Process this supports:** Finance Systems Team implements a new Collections Management Tool (Tesorio). Tesorio will be connected to Zuora and get most of the data it needs to manage running process which also requires Tesorio to be integrated with Salesforce to get some additional data on the customer accounts (i.e. account owner).
+ 
+**Overview:** Tesorio integrates with Salesforce using REST APIs. The integration requires a Connected App to be created within Salesforce. The data import from Salesforce are:
+- Accounts - One-way sync of account data into Tesorio. Account data is matched with Customers only if a custom field containing the internal id of the customer record from the ERP system is present.
+- Contacts - One-way sync of all contacts into Tesorio. Contacts associated with Accounts are linked with customers automatically. If an account has custom fields which are lookups of contacts, they will also come over as contacts within Tesorio.
+ 
+**Logic Locations:**
+ 
+  * [Tesorio Client](https://gitlab.my.salesforce.com/_ui/core/application/force/connectedapp/ForceConnectedApplicationPage/d?applicationId=06P4M000000XZXs)
+
+# Automations
  
 ### Email Alerts
  
@@ -500,12 +512,13 @@ Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePA
 This logic is included in the `OpportunityJob` to trigger the action (Field Update) & alert. The recipients who receive these emails are Opportunity Owner, Opportunity Owner's Manager & ISR. Specific templates have been created to match up with the notifications. The field updates made to the `Admin Poke` field are used to trigger `Troops` to send email alerts to the SAs(Primary Solution Architect).
 To request updating these emails alerts/recipients/actions, please create an [issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) in SalesSystems Board for Systems Team Member to review & make necessary updates.
 Here is the config table for the automation logic for reference:
-| For Open Renewal Opportunity Only                                 | Email Template ID Used  | Logic [Opportunity Quote Start Date]  | Field Update                                                                                                                                                                                                                      | Email Alerts Sent To                         | Troops Alerts Sent To |
+| For Open Renewal Opportunity Only                                 | Email Template ID used  | Logic[Quote Date in Opportunity]  | Field Update                                                                                                                                                                                                                      | Email Alerts Sent To                         | Troops Alerts Sent To |
 |-------------------------------------------------------|--------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|--------------|
 | First Notification - Email Alert - 15 days prior to Quote Start Date                      | 00X4M00000121nCUAQ | Today = Quote Start Date - 15 Days  | Admin Poke = 15 days prior lapsed renewal alert1 sent                                                                                                                                                                                       | Opportunity owner, ISR, opp owner manager | SAs          |
 | Second Notification - Email Alert - Day of Quote Start Date                    | 00X4M00000121nFUAQ | Today = Quote Start Date      | Admin Poke = on the day lapsed renewal alert2 sent                                                                                                                                                                                         | Opportunity owner, ISR, opp owner manager | SAs          |
 | Third Notification - Email Alert -30 days after Quote Start Date                      | 00X4M00000121nDUAQ | Today = Quote Start Date + 30 Days  | Admin Poke = 30 days prior lapsed renewal alert3 sent                                                                                                                                                                                      | Opportunity owner, ISR, opp owner manager | SAs          |
 | Final Notification - Email Alert + Closed Lost Update -46 days after Quote Start Date | 00X4M00000121nEUAQ | Today = Quote Start Date + 46 Days    | Admin Poke = opp closed lapsed renewal alert4 sent,        Opportunity Stage = Closed Lost,                                 Closed Lost/Unqualified Reason = Other,               Closed Lost/Unqualified Details = Auto closed lapsed renewal | Opportunity owner, ISR, opp owner manager | SAs          |
+
 **Logic Locations:**
 * [Email Templates](https://gitlab.my.salesforce.com/00X?setupid=CommunicationTemplatesEmail&retURL=%2Fui%2Fsetup%2FSetup%3Fsetupid%3DCommunicationTemplates)
 * [OpportunityJob.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityJob.cls)
