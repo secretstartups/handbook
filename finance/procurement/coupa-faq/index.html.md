@@ -17,20 +17,8 @@ title: Coupa FAQ
 
 ### What is Coupa?
 
-- Coupa is a cloud-based purchasing and payment platform that will be used by GitLab as from June 1st 2021 for US and Netherlands. It has an easy-to-use interface that will improve the way suppliers connect with GitLab. All new purchase orders, invoices and communications will be managed through the Coupa Supplier Portal.
+- Coupa is a cloud-based purchasing and payment platform that will be used by GitLab as of 2021-06-01 for US and Netherlands entities and as of 2021-12-13 for remaining entities. It has an easy-to-use interface that will improve the way suppliers connect with GitLab. All new purchase orders, invoices and communications will be managed through the Coupa Supplier Portal.
 
-### Does the Coupa implementation impact all GitLab Entities?
-
-- This initial delivery is for US and Netherlands entities **only** with a go-live scheduled for June 1st 2021.
-
-### Can I continue to transact like I do today after the Coupa go live? (e.g. via GitLab issues)
-
-- You **will not** be able to transact as you do today after the Coupa Go-Live for the US and Netherlands entities.  
-Once we're live (June 1st), all new Purchase Orders and associated invoices will flow through Coupa. 
-
-### Do we still need to use GitLab issues after Go Live, if receiving POs and invoices from other entities?
-
-- Yes. We will be rolling out in a phased approach, starting with the US and Netherlands. For all other entities the process will remain the same as is.
 
 ## SUPPLIER FAQ
 
@@ -40,7 +28,7 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 
 ### Are suppliers required to sign up with Coupa?
 
-- Yes. When live, Coupa will be the only platform for transacting with GitLab, with all new Purchase Orders and associated invoices flowing through Coupa. For suppliers who choose to use the Coupa Supplier Portal (CSP), it is a free tool that allows to easily do business with GitLab.
+- Yes. Coupa will be the only platform for transacting with GitLab, with Purchase Orders and associated invoices flowing through Coupa. For suppliers who choose to use the Coupa Supplier Portal (CSP), it is a free tool that allows to easily do business with GitLab.
 
 ### How will suppliers be notified when a PO has been raised for them?
 
@@ -64,7 +52,7 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 
 ### How long does it take to register for the CSP?
 
-- The registration process takes less than 5 minutes upon receiving the invitation email. Suppliers can expect to receive an invitation email from GitLab starting May 28th 2021.
+- The registration process takes less than 5 minutes upon receiving the emailed invitation email. 
 
 ### Do suppliers need additional software to use the CSP?
 
@@ -104,7 +92,7 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 
 ### Do suppliers need to set-up a CSP account, or will this be done for them?
 
-- GitLab will send the supplier links on how to register on the Coupa Supplier Portal and they will be provided with an invitation to join CSP starting May 2021. Suppliers must set up an CSP account and linking with GitLab Coupa system will be done automatically.
+- GitLab will email the supplier links on how to register on the Coupa Supplier Portal and they will be provided with an invitation to join CSP. Suppliers must set up an CSP account and linking with GitLab Coupa system will be done automatically.
 
 ### Does SAN option connect to the CSP and can suppliers have both?
 

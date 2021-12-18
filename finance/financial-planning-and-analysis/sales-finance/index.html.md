@@ -12,9 +12,9 @@ title: "Sales Finance"
 ## Welcome to the Sales Finance Handbook!
 
 ### Common Links
- * [Financial Planning & Analysis (FP&A)](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/)
- * [Sales Strategy & Analytics (SS&A)](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/)
- * [GTM Analytics Hub](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/Sales-Finance/GTM-Analytics-Hub)
+ * [Financial Planning & Analysis (FP&A)](/handbook/finance/financial-planning-and-analysis/)
+ * [Sales Strategy & Analytics (SS&A)](/handbook/sales/field-operations/sales-strategy/)
+ * [GTM Analytics Hub](/handbook/finance/financial-planning-and-analysis/sales-finance/gtm-analytics-hub)
 
 ## Sales Finance Charter
  
@@ -60,7 +60,7 @@ We believe an excellent forecasting process enables us to deploy our resources e
 | [Aug'20 Deck](https://docs.google.com/presentation/d/1aFfCku5LhSgIkurWgDTauvBqMNaaGi_L9e8JkXXxMxo/edit?usp=sharing) | [Aug'21 Deck](https://docs.google.com/presentation/d/1ZQYOrzM2ZeaMAOxMIVp83U3VRHNn8PuS6ozgXZXAX54/edit?usp=sharing) |
 | [Sep'20 Deck](https://docs.google.com/presentation/d/1bevI8Qdu6bTLJ6arBUzKS8dOhK9d2SyfXAO9Z1n9fKk/edit?usp=sharing) | [Sep'21 Deck](https://docs.google.com/presentation/d/1B2D26IDEA2EIAOaCbjDMzr3qC9a8aqVK_38nLzX1Spo/edit#slide=id.gbe7b1ef5f9_0_5)  |
 | [Oct'20 Deck](https://docs.google.com/presentation/d/1mvIcU03htb4MhlvX-67UUSfAeR_gCEGJkUyqpSWcPDk/edit?usp=sharing) | [Oct'21 Deck](https://docs.google.com/presentation/d/1Iwk3KZG23Qb77fejAQk6iTC62f4dbMDu41TjvQAUXJY/edit#slide=id.gbe7b1ef5f9_0_5) |
-| [Nov'20 Deck](https://docs.google.com/presentation/d/1BU7JLYY_8I0qE-twteHHoa0XSmDuWFFDZ-YYyPCWVI0/edit?usp=sharing) |  |
+| [Nov'20 Deck](https://docs.google.com/presentation/d/1BU7JLYY_8I0qE-twteHHoa0XSmDuWFFDZ-YYyPCWVI0/edit?usp=sharing) | [Nov'21 Deck](https://docs.google.com/presentation/d/1_WCZGJeNYOfJvdy4wjesVemk1z1Tl8uTItQqTeHqHZE/edit?usp=sharing) |
 | [Dec'20 Deck](https://docs.google.com/presentation/d/13sPhVbyDjZi67f3cTsq-1Z_YeDlkqeVBOnWPtf6vETo/edit?usp=sharing) |  |
 | [Jan'21 Deck](https://docs.google.com/presentation/d/1UC1xFGZmw7bQJnYZFDjSGmchvqzFEihJTcbMf9FnYq8/edit?usp=sharing) |  |
 
@@ -75,7 +75,7 @@ High-level long-range Quota & Capacity model to assess the feasibility of future
 [File](https://docs.google.com/spreadsheets/d/1SzTLYRGYsNUWxijvwryi2i5O2Lh1FpUGwe8RPLi7WwQ/edit?usp=sharing)
 
 ## Rolling List of Asks File
-intake investment requests of both Headcount and Program Spend from Sales teams, prioritize them via a consistent framework, and implement them based on agreed-upon prioritization. For the Sales Headcount Change Management process, please refer to the [Sales Headcount](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/sales-headcount/) Handbook page located in Sales Strategy & Analytics.
+intake investment requests of both Headcount and Program Spend from Sales teams, prioritize them via a consistent framework, and implement them based on agreed-upon prioritization. For the Sales Headcount Change Management process, please refer to the [Sales Headcount](/handbook/sales/field-operations/sales-strategy/sales-headcount/) Handbook page located in Sales Strategy & Analytics.
 
 [File](https://docs.google.com/spreadsheets/d/1NgnRnCQkDXRuLykroLLeNmWqKhIE1g0OaueSbFSUz6Q/edit#gid=0)
 
