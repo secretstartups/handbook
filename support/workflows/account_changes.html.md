@@ -115,6 +115,6 @@ Some examples:
 
 ### Impersonating
 
-Impersonating a user is considered as performing an action as another account, it will update the **Current sign-in IP** and **Current sign-in at** of the user you are impersonating.
+Impersonating a user is considered performing an action as another account, impersonating will update the **Current sign-in IP** and **Current sign-in at** for the impersonated user.
 
 When impersonating a user, the administrator account will receive a slack message from the **Tines** app asking to confirm if the impersonation was a legit action.
