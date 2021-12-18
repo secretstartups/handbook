@@ -168,10 +168,35 @@ An IP can become rate-limited if a customer attempts to export or download proje
 
 - `json.path`: `/namespace/project/download_export`
 
-### Handling Gitlab.com "Access Denied" errors
+### Handling Gitlab.com "Access Denied" errors (CloudFlare Block)
 
-As noted above, IP addresses are typically blocked due to rate limiting and are usually released after a few hours. However there may be some instances where IP addresses remain blocked. If this occurs then please contact the customer and request a screenshot of the “Access Denied” page. This will contain two relevant pieces of data: the “Ray ID” and the “Timestamp”, as shown below:
+There may be cases where a user is being blocked by CloudFlare and they are not being blocked due to rate limiting. You can typically request a screenshot of the CloudFlare “Access Denied” page or have the customer perform a `curl` with the `-i` flag to retrieve the relevant headers:
 
 ![Access Denied](/handbook/support/workflows/assets/AccessDenied.png)
 
-Once you obtain this information you should either consult the #infrastructure-lounge Slack channel for further assistance or open a [Cloudfare Firewall issue](https://gitlab.com/gitlab-com/gl-infra/cloudflare-firewall/-/issues) providing the “Ray ID” and the “Timestamp” to request that the IP address block is removed.
+```
+curl -i --header "PRIVATE-TOKEN: *****" https://gitlab.com
+
+HTTP/2 403
+date: Thu, 18 Nov 2021 13:48:09 GMT
+content-type: text/plain; charset=UTF-8
+content-length: 16
+x-frame-options: SAMEORIGIN
+referrer-policy: same-origin
+cache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=AbCdeFgXXXXX"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+server: cloudflare
+cf-ray: 6b01a12345abcde-KBP
+error code: 1020
+```
+
+Note the `HTTP 403` response and `error code 1020`.
+
+Once you obtain this information you should open a [Cloudflare Firewall issue](https://gitlab.com/gitlab-com/gl-infra/cloudflare-firewall/-/issues) providing the `cf-ray` ID and the timestamp (date) to request that the IP address block be removed. You can also consult the #infrastructure-lounge Slack channel with the open issue for further assistance. Some blocks may happen as a result of a mitigation effort, so you may want to verify that a [contact request](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) is not open on the internal board.
+
+Note that IP addresses may be blocked if they are identified as being from a [current US embargoed country](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) as per [our Terms of Use](https://about.gitlab.com/handbook/legal/subscription-agreement/). Blocks are done automatically through CloudFlare's GeoLocation block methods and cannot be changed. You can [enter an IP address](https://www.maxmind.com/en/geoip2-precision-demo) to determine how it is classified and verify against [the list of countries](https://about.gitlab.com/handbook/business-technology/trade-compliance/). A user can consider [requesting a data correction](https://support.maxmind.com/geoip-data-correction-request/) of their IP address but it is not guaranteed and GitLab has no control over this process.
