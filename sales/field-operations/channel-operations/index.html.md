@@ -28,6 +28,7 @@ New partner program changes are effective on August 15, 2021. Please visit the [
 - Kim Stagg - Manager, Channel Operations
 - Niles Jamshaid - Manager, Channel Operations
 - Dennis Zeissner - Associate Partner Operations Analyst
+- Bhano Pippala - Sales Operations Analyst
 
 ### How to Contact Us
 The **#channel-programs-ops** Slack channel can be leveraged for inquiries. Both the Channel Operations Team and the Channel Programs Team monitor this slack channel.
