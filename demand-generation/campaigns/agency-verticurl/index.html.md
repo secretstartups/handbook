@@ -22,10 +22,8 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 - [Sales Nominated Invitations](/handbook/marketing/demand-generation/campaigns/emails-nurture/#sales-nominated)
-- [Add to Nurture](/handbook/marketing/demand-generation/campaigns/emails-nurture/#add-to-nurture-in-program)
 - [Marketo Program + Salesforce Campaigns](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)
 - [Workshop Landing Page and Marketo Setup](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-logistical-set-up)
-- To be added (not yet scoped with MOps): GTM Motion token to build in overarching nurture logic and remove "add to nurture" issues.
 
 ### Team Members
 {: #team}
@@ -146,7 +144,7 @@ In an effort to avoid manually adding the issues we are working on with Verticur
 1. **Verticurl**: Verticurl checks that email was sent, confirms in comments (tagging issue requester), adds `FMM-Verticurl::complete` and closes out the issue.
 1. Field Marketing will be working through post event reporting with the Verticurl team. Details on that process will be forthcoming.
 
-### eMail Send Times
+### EMail Send Times
 {: #email-send-times}
 
 When working with Verticurl, we must specify a specific time we would like the email to be sent. If the Field Marketer does not provide a specific time, then Verticurl will send at the following times:

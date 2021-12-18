@@ -16,9 +16,11 @@ twitter_creator: "@gitlab"
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-This page focuses on emails and nurture programs, owned and managed by Marketing Campaigns. The Campaigns Team is heavily focused on building a key element to driving top-funnel demand generation: an "always on", logic-based and persona-driven nurture engine.
+This page focuses on emails and nurture programs, owned and managed by Lifecycle Marketing, Marketing Campaigns, and Marketing Operations. The Campaigns Team is heavily focused on driving leads from Unknown > Inquiry > SAO, leveraging an "always on", logic-based and persona-driven nurture engine.
 
-**When our ideal state top-funnel demand gen nurture engine is in place, we will be able to provide the *right offer* to the *right person* at the *right time* - based on their placement in the buyer journey (lead funnel) and their areas of interest, and in some cases, their location.**
+*The [Intelligent Email Nurture](/handbook/marketing/demand-generation/campaigns/emails-nurture/#intelligent-email-nurture) (launched 2021-12-17) aims at progressing leads from INQ > SAO, and leverages segment/region data to provide the *right offer* to the *right person* at the *right time* - based on their segment, region, and placement in the buyer journey (lead funnel), with persona-focus as a second iteration.*
+
+**Related Handbook: [Email Management](/handbook/marketing/marketing-operations/email-management/)**
 
 **Key foundational elements to achieve this:**
 * A strategically segmented Marketo database
@@ -76,31 +78,46 @@ In the event of an severity::1 (critical) security vulnerability email communica
 #### Quick Links
 {: #intellient-email-nurture-quick-links}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-* [WIP Intelligent Marketo Email Nurture Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
+* [Overview Deck](https://docs.google.com/presentation/d/1N_VM8xHGiQ95PXt09xyuQAa9px0VGEGyJd0KtGdXjzg/edit#slide=id.g106e2c5ac6b_0_0)
+* [Intelligent Marketo Email Nurture Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
 * [MURAL (WIP) of Intelligent Marketo Email Nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1626128789338/8f1cc1f4ff18f63a308032dffdfcc73958541101?sender=jgragnola2053)
 * [Marketo Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF8561A1)
 * [Notes Doc](https://docs.google.com/document/d/19kB9ntQ8aMPVFdiLJH7jqbN4jI9ax-BsujMtnVhKTOA/edit#)
-
-#### Documentation of Past Nurture Setup
-{: #documentation-past}
-<!-- DO NOT CHANGE THIS ANCHOR -->
 * [MURAL of experienece prior to intelligent nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1625087469029/970807f67b4072c5d9f4cb22d813de3288a2e70a?sender=jgragnola2053)
-* [CTA & UTM documentation experienece prior to intelligent nurturee](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=0)
+* [CTA & UTM documentation experienece prior to intelligent nurture](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=0)
 
-#### Creating an Email Send Program for Intelligent Nurture
-**The following process is for Verticurl for the inital switch over, and will be updated once the initial recreation of emails is completed.** If you have quesitons, please ask `@jgragnola` in [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1541).
+#### Creating a nurture email program for the Intelligent Nurture
+{: #create-nurture-email}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+**The following process is the technical process for creating a new email send program that is then activated in the appropriate streams/channels of the Intelligent Nurture. The project management process is integrated into the epic/issue creation for our core tactics that would be dropped into the nurture (new content, webcasts, workshops, analyst reports).
 
-1. [Clone this template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8466A1) and name with the 
+1. In Marketo, [Clone this template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8466A1)
     - Clone into `A Campaign Folder`
-    - Name the program `Type-ShortContentName` (i.e. `ebook-scaledci`)
-    - Folder is `Master Email Programs (Intelligent Nurture)`
-    - Description link to [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1541)
-1. Edit Email in the program
-    - DO NOT UPDATE EMAIL CODE or you will break the email from the template.
-    - Copy is indicated in [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1541) with the link to the original in Marketo. 
-    - If the email in the original in Marketo is missing something (i.e. a CTA button because the template is different), please comment in the issue with a link to BOTH 1. the original Marketo email link 2. the new Marketo email program
-1. Add the link to the new email in [this spreadsheet](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=2096477155) in the column named `Link to New Marketo Program`
-1. Check the box in [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1541) for the email that was created, AND link to the new Marketo program
+    - Name the program with the following format: `Type-ShortContentName` (i.e. `ebook-scaledci` or `webcast-simlifycicd` or `wrkshp-security`)
+    - Choose the folder: `Master Email Programs (Intelligent Nurture)`
+1. Edit the email in the program
+    - DO NOT UPDATE THE EMAIL CODE or you will break the email from the template.
+    - Copy is indicated in the issue and should align to the email template.
+    - If the email copy is missing an element (i.e. the CTA button is missing, or the subheader is not supplied), please comment in the issue to remind the copywriter of the template to follow.
+1. Add the link to the new email in [this spreadsheet](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=2096477155) in the column named: `Link to New Marketo Program`
+    - If the content/webcast/offer is not listed, create a new row and fill out accordingly, making sure to note the UTM parameters (which are critical to proper reporting) and the Pathfactory URL.
+
+#### Adding a nurture email program to Intelligent Nurture programs/streams
+{: #add-nurture-email}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+After you have created the Email Program (see above: [Creating a nurture email program for the Intelligent Nurture](/handbook/marketing/demand-generation/campaigns/emails-nurture/#create-nurture-email)) and tested your email (including checking UTM parameters), your email is ready to be activated in the Intelligent Nurture.
+
+Work with the Campaigns Team to indicate the appropriate streams for the offer to be included (this is based on segment/region/funnel stage).
+
+1. Navigate to the appropiate nurture program (i.e. AMER Enterprise)
+1. In the appropriate stream (i.e. MQL > SAO), click the plus icon at the top.
+1. Inn the `Type` section, select `Program`
+1. In the `Program Name` section, begin to type in the name of the corresponding email program (i.e. ebook-10stepsciso) and select the program you created for this offer
+1. In the `Smart Campaign` section, select `01 Send Controller`
+1. Now, click the gear icon for your program in the stream and either:
+   - `Activate` if it is not an upcoming event
+   - `Edit Availability` if it is an upcoming event and set the "End Date" for the date of the event. This will automatically stop the email from sending when the event has taken place.
 
 
 #### Reading for those unfamiliar with Marketo
@@ -276,7 +293,7 @@ All of the HTML email files are in [Litmus](https://litmus.com/folders/14964).
 {: #newsletter .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-#### Process for bi-weekly newsletter
+#### Process for monthly newsletter
 {: #newsletter-process}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
