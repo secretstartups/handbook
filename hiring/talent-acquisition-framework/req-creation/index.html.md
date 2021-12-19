@@ -22,6 +22,8 @@ Prior to starting the req creation process, a Hiring Manager should follow the s
 
 * **For Evergreen Req Creation Process please visit the end of this page**
 
+For the Product and Engineering backfill or transfer process, see this [handbook page](https://about.gitlab.com/handbook/engineering/#rd-backfill--transfer-process). 
+
 ### Adding Vacancies to the Hiring Plan (DRI: Hiring Manager)
 
 The Hiring Manager carries the responsibility to ensure that vacancies in Greenhouse align to what’s included in GitLab Hiring Plan. Therefore, the Hiring Manager, Finance, and Talent Acquisition can stay aligned on what’s in plan, so that they can track towards their predetermined hiring targets. If you are looking to add or make changes to the GitLab Hiring Plan, please visit the [Finance section of the handbook](/handbook/finance/).
