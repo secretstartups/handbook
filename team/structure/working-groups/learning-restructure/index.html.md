@@ -47,6 +47,7 @@ canonical_path: "/company/team/structure/working-groups/learning-restructure/"
 |-----------------------|-----------------------|--------------------------------|
 | Executive Sponsor     | Sid Sijbandij | CEO |
 | Facilitator           | Stella Treas            | Chief of Staff to the CEO      |
+| Facilitator           | Omar Fernandez            | Director, Strategy and Operations    |
 | Functional Lead       | Kris Reynolds      | Manager, Field Enablement Programs  |
 | Functional Lead       | Josh Zimmerman          | Manager, Learning and Development   |
 | Functional Lead       | Tye Davis         | Manager, Technical Marketing   |
@@ -62,5 +63,5 @@ canonical_path: "/company/team/structure/working-groups/learning-restructure/"
 
 ## Meetings
 
-Meetings notes are available to all team members: https://docs.google.com/document/d/1P-TEi3yXtRum2pV8KDHON4EIn-mYoH72YpDMJGClFR4/edit#heading=h.3f77vfk6c3o1. 
+**[Meetings notes document](https://docs.google.com/document/d/1P-TEi3yXtRum2pV8KDHON4EIn-mYoH72YpDMJGClFR4/edit)** open to all team members.
 
