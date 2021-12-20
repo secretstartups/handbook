@@ -50,7 +50,61 @@ You have the freedom to choose what is best for the customer and GitLab. We valu
 On a weekly basis:
 
 1. [Review at least two tickets with your manager in 1:1 calls](/handbook/support/workflows/working-on-tickets.html#1-weekly-ticket-review). This helps maintain and improve quality (technical, communication and collaboration).
-1. [Meet the ticket baseline](/handbook/support/workflows/working-on-tickets.html#3-meet-the-ticket-baseline) for solved tickets, public replies, and internal notes for the type of tickets you are working on. This encourages the even distribution of ticket volume across the team.
+1. [Meet the ticket baseline](#ticket-baseline) for solved tickets, public replies, and internal notes for the type of tickets you are working on. This encourages the even distribution of ticket volume across the team.
+
+### Ticket baseline
+
+Once you've completed onboarding and have been helping out with tickets for two
+months or more, it's useful to gauge your contribution compared to the rest of
+the team.
+
+We produce separate reports for SM/SaaS/L&R in recognition that the volume of
+tickets for each focus area is different. [This dashboard](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/11700022)
+contains the current values.
+
+#### How the baseline is calculated
+{: .no_toc}
+
+We establish a **dynamic baseline** that is 0.85 of the mean average for each
+metric.
+
+Here's an example week for folks working on self-managed tickets:
+
+**Number of self-managed Support Engineers:** 42
+
+|                            | Solved | Public Comments | Internal Notes |
+|----------------------------|--------|-----------------|----------------|
+| **Totals for last week**   | 300    | 1050            | 500            |
+| **Average per agent**      | 6      | 25              | 10             |
+| **Baseline (0.85 of avg)** | 5.1    | 20              | 8.5            |
+
+#### Notes
+{: .no_toc}
+
+1. Support Engineers that have completed onboarding are expected to achieve the
+   baseline as a minimum. Don't worry in a given week if you don't meet the
+   numbers. The baseline is a guide to help balance team contributions -- it is
+   not a method to penalize anyone.
+1. There are good reasons why you might not achieve the baseline on a given week
+   (e.g. vacation, illness, working on other projects, carrying out interviews)
+   and you should keep your manager informed when you're not able to focus on
+   resolving user problems by contributing to support tickets.
+1. If you don't meet the baseline you should discuss the reasons with your
+   manager. If they're not satisfied that there are good reasons for not meeting
+   the baseline, they will ask you to focus more on solving user problems on
+   Support tickets so that you meet the baseline in future weeks. This helps
+   balance contributions across the global team.
+1. We believe in quality, not quantity - more is not automatically better.
+1. We recognize that the three metrics selected are not a complete indication of
+   'good work' on their own.
+1. We recognize that the metrics for 'public replies' and 'internal notes' can
+   be 'gamed' by making small updates. We trust the team to do the right thing
+   for the user and GitLab. This is why the ticket baseline is the last part of
+   'how to succeed' in this area. It is more important to make quality updates
+   on your assigned tickets and to help others to do the same on theirs.
+1. There is no automated process to report on people that don't meet the
+   baseline. The baseline is there to help you gauge your contribution and as a
+   conversation starter between you and your manager.
 
 ## 2. Help meet our Service Level Objectives for ticket reply times (Daily)
 
