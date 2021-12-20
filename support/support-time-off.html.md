@@ -173,9 +173,9 @@ truly make the most of your time off, and make it easier to return to work:
 Please consider adding an item in the Support Week in Review after you get back to let the rest of the
 team know what you've been up to!
 
-## Catching up after long time-off 
+## Catching up after a scheduled time off 
 
-It can be a bit overwhelming trying to catch-up after a long time-off (a week or more). 
+Trying to catch-up after a scheduled time off - especially if it's a week long, or more - can be a bit overwhelming.
 So here is a list of resources to check that should get you up to date with almost everything 
 that happened while you were away:
 
