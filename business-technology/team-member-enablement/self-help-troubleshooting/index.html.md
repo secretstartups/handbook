@@ -4,6 +4,23 @@ title: "Self help and troubleshooting"
 description: "Frequently asked questions for GitLab team members regarding 2FA, technical issues, and Mac troubleshooting tips."
 ---
 
+## IT SUPPORT HOLIDAY SCHEDULE
+
+The IT Support team will be taking off time over the holidays. There will be limited staff during days over the holday period, the schedule for days off over this period is below. If you have an urgent request, please reach out to us via slack in the #IT_Help channel
+
+North America : 
+- Limited staff between 24th December - 3rd January
+
+EMEA : 
+- 24th December OFF
+- 31st December OFF
+- 3rd January OFF
+
+APAC :
+- 27th December OFF
+- 28th December OFF
+- 3rd January OFF
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
