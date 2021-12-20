@@ -22,17 +22,12 @@ For a running list of partners and their CRM Ids, which is critical to the proce
 When a lead is passed to a partner, they will be suspended from GitLab marketing unless they opt-in specifically to GitLab marketing after being passed, or the partner returns the lead to GitLab. This in currently WIP. Go to the [email management page](/handbook/marketing/marketing-operations/email-management/#overview) for more email policies. 
 
 # Types of Partner Campaigns
+Each campaign has it's own ROE for lead routing and email practices. Follow the [Mural](https://app.mural.co/embed/b89f9208-e9f6-4df1-9c92-a886a5af0642) to find the type of event and the follow up that results from it. 
 
 ## Joint GitLab and Partner Events
-When GitLab and Partners participate in events together, they will share leads. [This mural shows the current rules of engagement](https://app.mural.co/embed/b89f9208-e9f6-4df1-9c92-a886a5af0642) and lead flow.
+When GitLab and Partners participate in events together, they will share leads. 
 
-Lead statuses that are considered `GitLab actively working` are below. Being marked as such does not mean they will not be passed to the partner - follow the mural above for those rules. This will be iterated on in the short future.
-
-|Status|
-|-----|
-|Accepted|
-|Qualifying|
-|Qualified|
+Lead statuses that are considered `GitLab actively working` are leads/contacts in `Accepted`, `Qualifying` and `Qualified` statues. Being marked as such does not mean they will not be passed to the partner - follow the mural above for those rules. 
 
 
 ## Trials from Partners
@@ -47,7 +42,6 @@ Partners can host our self-managed trial form. They will have a specific URL tha
 1. !!!`Lean Data: PLEASE ENTER DESCRIPTION OF WORK HERE @bpeterson` LeanData picks up the lead and assigns to the CAM
 1. !!!!Vartopia picks up lead and assigns to partner
 1. !!!Lead/Contact fields for Partner information are automatically populated by LeanData??
-1. `Sales Systems: (SFDC):PLEASE ENTER DESCRIPTION OF WORK HERE @sheelaviswanathan`
 1. `Vartopia Lead Management: @cfarris`
 
 
@@ -55,7 +49,7 @@ Partners can host our self-managed trial form. They will have a specific URL tha
 Some campaigns are run only by partners, without GitLab involvement. Process TBD.
 
 
-# Placeholder for Setup in Marketo
+# Setup in Marketo
 Placeholder - will create directions for this utilizing our documentation on the [campaigns and programs](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up) page.
 
 
