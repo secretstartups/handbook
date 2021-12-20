@@ -25,7 +25,7 @@ The program was awarded a Gold Excellence in Leadership Development by the [Bran
 
 ### Team Member Time Investment Level
 
-If you plan to participate in the Manager Challenge, please discuss with your manager. Let them know you are interested and will be dedicating the three weeks to actively participating. This is not like the [CEO Shadow program](/handbook/ceo/shadow/), but the Manager Challenge will **require a heavy time investment**. If you plan to participate, try to do everything you can to block one to two hours each day during the program. This is an intensive program with the goal of covering a lot of material in a short amount of time to increase knowledge retention! **There will be more synchronous activities, less async, this challenge due to feedback from past participants.**
+If you plan to participate in the Manager Challenge, please discuss with your manager. Let them know you are interested and will be dedicating the three weeks to actively participating. This is not like the [CEO Shadow program](/handbook/ceo/shadow/), but the Manager Challenge will **require a heavy time investment**. If you plan to participate, try to do everything you can to block one to two hours each day during the program. This is an intensive program with the goal of covering a lot of material in a short amount of time to increase knowledge retention. **There will be more synchronous activities, less async, this challenge due to feedback from past participants.**
 
 Make the program part of your [career development](/handbook/people-group/learning-and-development/career-development/), and include in your [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources-1).
 
@@ -82,6 +82,8 @@ See the video below for a quick overview of how we use GitLab to facilitate mana
 </figure>
 <!-- blank line -->
 
+## February Program Schedule
+
 ### Pre-Work
 
 Participants will complete the following: 
@@ -121,7 +123,6 @@ Week 2 will be focused on management fundamentals, coaching team relationships, 
 | 2022-02-17 | 1 hour | Session 4: Coaching team relationshops |
 | 2022-02-18 | 50 minutes | Optional Group coaching session on inspiring motivation and aligning values |
 
-
 ### Week 3 - Leading Teams to Achieve Results
 
 Week 3 will be focused on performance management, constructive conversations, tools for engaging a distributed team, and a panel discussion with senior leaders
@@ -153,7 +154,7 @@ Following the Manager Challenge, participants are encouraged to do the following
 | 2022-02-22 | 50 minutes | Post Program Office Hours: Discuss Lessons Learned |
 
 
-### Important Things To Remember: 
+## Important Things To Remember: 
 
 1. You will be receiving a lot of calendar invites if you sign-up. Please plan to attend either the AM or PM sessions. 
 2. All participants will be invited to a Slack Group for the Manager Challenge
@@ -166,34 +167,6 @@ Following the Manager Challenge, participants are encouraged to do the following
 Throughout the program, we ask that managers to create or refine their [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internal-resources-1). We encourage Managers to self-reflect on their professional development as a people leader and identify areas where they can advance their skills. 
 The document is intended to be a starting point for managers to document where they can improve as a people leader.
 
-### Buddy Program
-
-A buddy program will be encouraged for Managers during the program. Managers can select their buddies and complete the async activities together. It can also serve as an opportunity for Managers and team members participating to get to know one another. 
-
-### Post Manager Challenge
-
-L&D is continuing to iterate on continuing education opportunities to build management skills for leading remote teams at GitLab. For the January 2021 Challenge, we piloted [TrustMetryx](https://www.xmetryx.com/) to participants that were interested in trying out the tool. 
-
-Trust Metryx is a behavioral change software that accelerates the development of remote team leaders. It helps leaders build trust and create lasting change by reducing friction, lowering stress, and improving performance. Checkout the [three-minute video](https://vimeo.com/493930605) to learn more about TrustMetryx. 
-
-The tool accelerates your development as a manager/leader by: 
-- Helping you identify behaviors that get in the way of team performance wellbeing
-- Making it easy for leaders to excel at guiding your team to create the small behavioral nudges that drive continuous improvement
-- Enabling you to track your progress creating an inclusive team culture built on trust by providing a specific measurable outcome in terms of team relationship strength
-- Also includes **Brainware Academy** - a library of behavioral science-based micro-courses, nudges, and team relationship coaching tips. Brainware Academy helps you develop the skills to navigate relationship challenges and lead with Trust. 
-
-TrustMetryx compliments and builds on the basic principles of what it means to be a manager using the whole-person approach to leadership covered in the Manager Challenge. TrustMetryx gives you a data driven approach to ensuring that you’re embracing GitLab values and creating an inclusive team culture built on trust.
-
-**What do I need to do?**
-Learn more about Building Trust with Remote Teams from the co-founder of TrustMetryx by watching the recording of the [Learning Speaker Series](https://www.youtube.com/watch?v=hHMDY77upAE&feature=emb_title). Review [the onboarding plan](https://drive.google.com/file/d/1S1ynUb8bwpit-e03IP1e6uURYzOgI5KF/view?usp=sharing) for the use of TrustMetryx. 
-
-#### Interested in Using TrustMetryx
-
-If you are interested in using TrustMetryx, please contact the `#learninganddevelopment` team. Managers can use the [Growth & Development fund](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) to expense the price for their teams for the [under $1,000 benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits). 
-
-## Self-paced Learning
-
-Team members have access to [LinkedIn Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/) for access to self-paced learning content. The Learning & Development team has developed a learning path in GitLab Learn with curated self-paced content that can benefit [people leaders](https://gitlab.edcast.com/channel/leadership-development) to access anytime. 
 
 ## FAQs (Frequently Asked Questions) for the Manager Challenge program
 
