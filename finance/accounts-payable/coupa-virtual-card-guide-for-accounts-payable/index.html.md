@@ -39,6 +39,7 @@ This page contains guidelines regarding Accounts Payable (AP) related tasks for 
 ![apvcard-image-3](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard3.png)
 <br>
 - Step 6. After setting up the new SPA and editing the Supplier Name change, update **Comments** section of the requisition stating permanent Virtual Card has been created.
+
 <br>   
 
 **Scenario C**: follow steps 1 - 2 as above Scenario B.
@@ -57,7 +58,6 @@ This page contains guidelines regarding Accounts Payable (AP) related tasks for 
 </div>
 </div>
 <br>
-
 - Step 4. Click **Create**. The new SPA request will then be routed to **Internal SPA Approval Group** for approval.
 
 <br>
