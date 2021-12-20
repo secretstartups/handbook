@@ -322,7 +322,7 @@ While some GitLab team-members may not receive an increase due to already being 
 
 For any feedback about using Compaas during the FY22 Manager Review portion of Annual Compensation Review, please use the following [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/240).
 
-**Process for slate owners:**
+#### Process for slate owners
 
 1. Navigate to [Compaas](https://app.compa.as/login) and select the option to sign in with Google.
 * ![compaas login](/images/handbook/people-group/1_Compaas.png)
@@ -331,26 +331,41 @@ For any feedback about using Compaas during the FY22 Manager Review portion of A
 * ![incorrect email](/images/handbook/people-group/2_Compaas.png)
 1. If you have not used Compaas in the past, you will need to Select the Terms and Conditions box and click Submit. If a user has already visited Compaas Rewards they will automatically be taken to their slate view.
 * ![terms and conditions](/images/handbook/people-group/T&C.png)
-1. Once logged in you will be taken to your slate. The slate will list the team member's name, role, benchmark role, performance factor, last raise amount (USD), raise (USD) and raise percent, compensation before and after any adjustments, range with range penetration, and notes.
-* ![slate owner](/images/handbook/people-group/3_Compaas.png)
+1. After logging in, you will land on the Summary tab of your slate. This will have the status of your budget, along with a card for each of the team members you will be recommending a raise for. The card will list values such as the team member's name, role, level, [performance/growth factor](https://about.gitlab.com/handbook/people-group/talent-assessment/), compensation, discretionary raise, final compensation, RSU Grant, next 12 months TDC (Total Direct Compensation), and notes.
+* TODO Update Screenshot
 * The role is located under the team member's name. This is the team member's job title including level, for example, Senior or Associate.
 * Underneath the role is the [benchmark role](/handbook/total-rewards/compensation/compensation-calculator/#sf-benchmark). This is the job title that is used for determining the base compensation before other inputs such as level are evaluated. For example, the benchmark role for a Senior Backend Engineer is a Backend Engineer, Individual Contributor.
-* The performance factor is uploaded into Compaas and taken from the [Performance/Potential](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix) review completed in November.
+* The performance and growth factors are uploaded into Compaas and taken from the [Performance/Growth](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix) review completed in November.
 * The Last Raise field outlines in USD the total amount of the last pay increase to base salary.
-* The Raise (and Raise as %) is where the manager or indirect manager can enter in the proposed increase for the team member for FY22 Compensation. Please note this is all in USD and will be converted to local currency once the cycle has closed.
-* The team member's compensation before (light gray) and after (green) any adjustments is listed to the right of the percent increase.
+* The Raise (and Raise as %) is where the manager or indirect manager can enter in the proposed increase for the team member for FY23 Compensation. Please note this is all in USD and will be converted to local currency once the cycle has closed.
+* The team member's compensation before (light) and after (bold) any adjustments is listed to the right of the percent increase.
   * If there is an "OTE" next to the compensation values, this indicates that part of cash compensation is a bonus component. Total Rewards works in OTE during Annual Compensation Review and then allocates to base/variable based on the desired split per role.
-* The range penetration is the team member's compensation range for their role in their location. The bubble on the range will mark where they currently are and the arrow will show where they are being recommended to move to. This will prompt you if your raise brings the team member below or above the range for their role.
+* The Stock field will have a $ value for any equity being granted as part of this cycle.
+* Next 12 mo. TDC (Total Direct Compensation) will list the before and after of a team member's TDC which includes base compensation, variable/bonus compensation (if applicable), and equity vesting in FY23.
 * The talk bubble at the right of the team member's card can be clicked on to leave a note on the team member's record. This can be used to record reasons for decisions, details about specific compensation change, or open questions for approvers or the People Group. The option to delete a note is also available.
 * ![note](/images/handbook/people-group/6_Compaas.png)
 * ![delete note](/images/handbook/people-group/7_Compaas.png)
-1. Clicking the background of the person's card expands it to reveal their compensation timeline. The timeline shows any historical compensation data Compaas has available for each person. Clicking the card again closes the timeline.
+
+**Raise Tab**
+1. The raise tab is dedicated to allocating cash compensation to your team members. Each team member has a card with some of the some details from the summary tab such as name, role, level, [performance/growth factor](https://about.gitlab.com/handbook/people-group/talent-assessment/), compensation before/after, and discretionary raise. The card also includes the added details of the team member's range and where they are positioned in it before and after their raise allocation and their compa ratio before/after.
+* TODO Add screenshot
+1. Clicking the background of the person's card expands it to reveal their compensation timeline and custom notes. The timeline shows any historical compensation data Compaas has available for each person. Clicking the card again closes the timeline and notes.
 * Please note this data pulls from the Compensation and Job Information table in BambooHR. Any changes in the Job Information table automatically are entered as "Promotion" in Compaas in the timeline, but may have been a manager change or other title change not related to a promotion. Pay Rate changes will show in local currency as this is how it is entered in BambooHR in the Compensation Table.
 * ![timeline](/images/handbook/people-group/4_Compaas.png)
-* Total Rewards has added notes to each person in Compaas to help managers assess increases based on changes to the calculator and performance ratings. There is a performance recommended increase which aligns to the [company wide recommendations](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor-and-annual-compensation-review), Location Factor increase from the previous to current fiscal year, Benchmark increase from the previous to current fiscal year, and the Total Rewards Recommended Minimum Increase. This final range is the minimum Total Rewards would advise a manager to increase a team member to ensure alignment to the compensation calculator range as well as their performance. This is not a capped value and managers can add additional discretionary budget to team members as appropriate while ensuring alignment to budget. For more information on how to use this information see the [Determining the Total Increase in Compaas](/handbook/total-rewards/compensation/compensation-review-cycle/#determining-the-total-increase-in-compaas) handbook section.
-* ![Total Rewards Notes](/images/handbook/people-group/Recommended_Increase.png)
+* Total Rewards has added notes to each person in Compaas to help managers assess increases based on changes to the calculator and performance ratings. There is a Location Factor % increase from the previous to current fiscal year, Benchmark % increase from the previous to current fiscal year, [Market Adjustment Minimum](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#minimum-market-increase) which is the minimum % increase for a team member to be in their band, Minimum Recommended Increase and Maximum Recommended Increase which take into account the Market Adjustment Minimum and the performance recommended increase which aligns to the [company wide recommendations](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor). This final range is the minimum Total Rewards would advise a manager to increase a team member to ensure alignment to the compensation calculator range as well as their performance. This is not a capped value and managers can add additional discretionary budget to team members as appropriate while ensuring alignment to budget. For more information on how to use this information see the [Determining the Total Increase in Compaas](/handbook/total-rewards/compensation/compensation-review-cycle/#determining-the-total-increase-in-compaas) handbook section.
+* TODO Update screenshot
 1. Your slate can be filtered by what part of the pay range your reports currently fall into: Below, Bottom, Lower-middle, Upper-middle, Upper, Above.
 * ![filter range](/images/handbook/people-group/5_Compaas.png)
+1. If the team member is being recommended for a promotion during this cycle, you will be inputting their promotion amount in the raise tab instead. The range for their new role will be shown in the range penetration column. If you would like to recommend a team member for a promotion, please ensure you work with your People Business Partner on this prior to submitting your slate in Compaas.
+* TODO Add promo screenshot.
+
+**Stock Tab**
+1. The stock grant is where a slate owner can recommend a grant to the team members they are reviewing. This will be submitted as a dollar amount in USD to vest over 4 years. 
+1. Similar to the other tabs, each team member will have a card with information to help you allocate a grant. On this card, there will be the team member's performance/growth rating, when their last grant was allocated, their % vested, a box to allocate the recommended grant, a target range (this will be the same as the refresh range in the compensation calculator), and the talk bubble for leaving any notes.
+1. Clicking on the card will expand it to reveal information on the team member's current grants and custom notes. The custom notes for equity include the team member's Unvested Equity as of 2022-02-01	and Value Vesting from 2022-02-02 to 2023-01-31.
+* TODO Add screenshot
+
+**Saving & Submitting**
 1. The slate can be saved as a draft at any time. When you choose to "Save and Submit", you will see a screen summarizing your proposed raises. You may choose to cancel, leaving the slate in a draft state, or "Submit and Lock" which automatically submits your recommendations for approval to the next level manager.
 * ![slate owner submit](/images/handbook/people-group/Updated_Save&Submit.png)
 * **Note: Even slates for 0% increases need to be submitted via Compaas so the slate does not appear as "incomplete" while it moves through the process.**
@@ -358,16 +373,24 @@ For any feedback about using Compaas during the FY22 Manager Review portion of A
 * If any changes are made by a slate approver, these will be visible in your review screen.
 * ![slate owner locked](/images/handbook/people-group/Updated_Slate_Locked.png)
 
-**Process for approvers:**
+#### Process for approvers
 
 1. Approvers will log in using the same instructions as slate owners.
-1. Once you have logged in, you will see your dashboard and all available slates. Your slate will have a card for each of the team members you will be recommending a raise for.
+1. Once you have logged in, you will see your dashboard and all available slates. Your dashboard will link you to the slates you own, as well as link to your Approvals (slates you review and can approve). 
 * ![dashboard](/images/handbook/people-group/Dashboard.png)
 1. From the dashboard, approvers will be able to view their own slate in the "Slates" section and can follow the steps outlined above.
-1. From the dashboard, the approver can click on the green “View My Approvals” button to be directed to this page. All of the slates the approver has responsibility for, including their own, will be displayed here. The approver is able to click in to all of the Slates located within the Slates tab. When a Slate changes to “Ready” Status, a green circle will appear in the Status column. This means that the approver can review, adjust, and approve the slates that roll up to them for approval. This page also shows the status of your budget (if applicable, budget is held by the executive of each group).
-* ![approver review](/images/handbook/people-group/8_Compaas.png)
-1. Clicking the slate name or the > arrow will take you to a slate. If you need to override a slate approval, please reach out to the Total Rewards team as only admins can submit on behalf of another account. When you view a slate on your list, you will be able to edit the slate owner's recommendations and save them. Once you have saved, please refresh the page to see the changes applied to your budget, if applicable. For more information on the details located on each team member's card, please review the process for slate owners above.
-* ![approver review slate](/images/handbook/people-group/9_Compaas.png)
+1. Navigate to your approvals screen by clicking the green 'View my Approvals' button. Below is an example of what the ‘Slates’ tab on your approvals screen will look like.  This page also shows the status of your budget (if applicable, budget is held by the executive of each group).
+* TODO Update screenshot
+1. The approver is able to click in to all of the Slates located within the Slates tab by clicking the slate owner's name. Each row can be expanded by clicking the green ‘+’ icon to show the individuals within each slate, along with basic information about their status. 
+* TODO Add Screenshot 
+* When a Slate changes to “Ready” Status, a green circle will appear in the Status column. This means that the approver can review, adjust, and approve the slates that roll up to them for approval.
+* When a slate has a status of 'Not Ready', this means you can click into that slate to see where the slate owner is in their compensation recommendation but will not be able to provide any updates yourself.
+     * If you need to override a slate approval, please reach out to the Total Rewards team as only admins can submit on behalf of another account.
+* When a slate status is 'Approved', this means that you have approved the compensation recommendations. Once all of the slates in your list of approvals are marked as 'Approved', no further action is required on your end.
+* If you would like to create an export of the employee raise data for your slates, and the slates in your approval queue, click on the ‘Export Raises’ button at any time. This data will reflect current cycle data.
+* TODO Update screenshot
+1. When you click into a ready slate, you will access all of the tabs and information a slate owner (manager) sees when reviewing their slate. Please review the slate owner instructions above for more information on what can be found on each tab.
+* TODO Add screenshot
 1. Once you are finished making edits to a slate you are an approver for, you can choose to "Save & Submit". You will be taken to a screen summarizing the proposed raises. You may choose to cancel, leaving the slate unapproved, or "Submit and Lock" which automatically submits your recommendations for approval to anyone higher up in the approval chain. It is recommended that you keep all slates in draft form until you are ready to approve all slates in your group. Once you submit you will no longer be able to make any changes.
 * ![slate owner submit](/images/handbook/people-group/Updated_Save&Submit.png)
 1. Approvers who have multiple slates to submit may wish to utilize the "Approve All" button to finalize all of the slates that roll into them at once. This button will become available to click once all slates are ready for your approval and is located in the upper right corner of the Slates view.
