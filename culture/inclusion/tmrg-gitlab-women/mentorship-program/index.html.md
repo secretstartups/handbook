@@ -171,9 +171,9 @@ If you cannot commit to the 3 month program, please consider applying for a futu
 
 **I'm not eligible to be a mentor or a mentee in this program. What are my options for future participation?**
 
-The L&D team is working with the DIB team to create a mentor program framework that can be implemented for teams across GitLab. Please watch for updates on this iteration in FY22-Q3.
+The L&D team is implementing a  company-wide mentor program in FY23 Q1. Please watch for updates on this iteration.
 
-In addition, team members are always encouraged to build mentor/mentee relationships independently. You can find resources and a list of available mentors in the [Learning and Development handbook](/handbook/people-group/learning-and-development/mentor/)
+Team members are always encouraged to build mentor/mentee relationships independently. You can find resources and a list of available mentors in the [Learning and Development handbook](/handbook/people-group/learning-and-development/mentor/)
 
 
 ## Additional questions?
