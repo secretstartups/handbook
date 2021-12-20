@@ -169,7 +169,7 @@ For Field Marketing Dept Only - please refer to the [Field Marketing Handbook - 
    - All the cart details will be displayed and the requestor can review and/or edit the details as required. (This is the Purchase Request form that will be flipped into an Order when approved).
 
 
-If a supplier is exclusively paid by credit card, the requester must tag `@Accounts Payable Approval Group` and note the credit card payment method in a comment before submitting the requisition. This will alert the AP Team so they can remove it from CoupaPay.
+If a supplier is exclusively paid by credit card, please see [How to Request a Coupa Virtual Card](TBD) for instructions.
 {: .alert .alert-warning}
 
 **REQUISITION HEADER LEVEL**
@@ -496,14 +496,14 @@ The user can now proceed with the [creation of the purchase request](/handbook/b
 ## How to Use Coupa for Invoicing and Payments
 
 For further instructions on the invoicing and payment modules in Coupa, please visit the following links:
-- [Invoicing in Coupa](https://about.gitlab.com/handbook/finance/accounting/#invoicing-in-coupa).
-- [Payments in Coupa](https://about.gitlab.com/handbook/finance/accounting/#processing-payment-for-invoices-in-coupa).
+- [Invoicing in Coupa](https://about.gitlab.com/handbook/finance/accounting/#invoicing-in-coupa)
+- [Payments in Coupa](https://about.gitlab.com/handbook/finance/accounting/#processing-payment-for-invoices-in-coupa)
 
 ## How to Request a Coupa Virtual Card
 
 For futher instructions on how to request a virtual card in Coupa, please visit the below link or training video:
 - [Coupa Virtual Card Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
-- [Requesting a Virtual Card](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr1PNe_Ycz0x4G5aizUPDbM)
+- [Requesting a Virtual Card](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr1PNe_Ycz0x4G5aizUPDbM) video
 
 
 ## Coupa Training Videos
