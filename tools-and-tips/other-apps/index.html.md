@@ -224,6 +224,14 @@ Various [Chrome extensions](https://chrome.google.com/webstore/search/pomodoro "
 [Quitter (Free)](https://marco.org/apps) will switch off apps for you after some period of inactivity.
 Consider using this to hide Slack after a while to reduce your urge to check new messages all the time. Quitter is only available for the Mac.
 
+### Raycast
+
+[Raycast](https://www.raycast.com/) is a productivity tool similar to [Alfred](#alfred) and Spotlight on macOS. Download the app and select your preferred shortcut. You can also replace spotlight entirely by choosing `cmd + space` as shortcut. 
+
+The core app provides many workflows built-in, extensions from the [store](https://www.raycast.com/store) can be installed either directly from the web, or by using the built-in [extension search](https://developers.raycast.com/basics/install-an-extension).
+
+**Please do not use extensions for GitLab using a personal access tokens (PAT) for security reasons this time.**
+
 ### TripMode
 
 [TripMode ($7.99)](https://www.tripmode.ch/) lets you control which apps can use the internet.
