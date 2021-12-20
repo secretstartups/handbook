@@ -628,24 +628,28 @@ This markdown code generates a list of courses in from learn.yml filtering for o
 
 **List of certifications**
 
-This markdown code generates a list from learn.yml filtering for only those tagged as Certification.
+This markdown code generates a table from learn.yml with only those courses tagged as a certification and as available to the public. This code generates the table on our [Public GitLab Certifications](https://about.gitlab.com/learn/certifications/public/) page.
 
 ```markdown
-<% data.learn.learn.select{|course| course.assessment == "Certification"}.sort_by(&:name).each do |course| %>
-<%= "- [#{course.name}](#{course.url})" %>
+| Use Case | Certification | Level |
+| --- | --- | --- |
+<% data.learn.learn.select{|course| course.assessment == "Certification" && course.confidentiality == "Public" && course.live_date && Date.parse(course.live_date) <= Date.today}.each do |course| %>
+<%= "| #{course.use_case} | [#{course.name}](#{course.url}) | #{course.level} |" %>
 <% end %>
 ```
 
 **List of learning materials by use case in table form**
-You can see the source code on [this page](/learn/use-case/public/) for an example on how to build a page with headers based on the classification.yml file and then for each use case build a table with the relevant course data. 
+You can see the source code on [this page](/learn/use-case/public/) for an example on how to build a page with headers based on the classification.yml file and then for each header (use case in this case) build a table with the relevant course data. 
 
 ```markdown
 <% data.learn.classification["use-case"].categories.each do |use_case| %>
+<% course_list = data.learn.learn.select{|course| course.use_case == use_case.name && course.confidentiality == "Public" && course.live_date && Date.parse(course.live_date)} %>
+<% next if course_list.empty? %>
 <%= "## #{use_case.name}" %>
 
 | Course | Registration | Assessment |
 | ------ | --------------- | ---------- | 
-<% data.learn.learn.select{|course| course.use_case == use_case.name && course.confidentiality == "Public" && course.live_date && Date.parse(course.live_date) <= Date.today}.each do |course| %>
+<% course_list.each do |course| %>
 <%= "| [#{course.name}](#{course.url}) | #{course.registration} | #{course.assessment} |" %>
 <% end %>
 
