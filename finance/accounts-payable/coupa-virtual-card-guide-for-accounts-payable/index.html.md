@@ -31,7 +31,7 @@ This page contains guidelines regarding Accounts Payable (AP) related tasks for 
 ![apvcard-image-1](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard1.png)
 <br>
 - Step 2. You will be prompted to enter your 2FA. 
-- Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields. **NOTE - for #6 (the last two fields), leave blank for Company set defaults.**
+- Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields. **NOTE - for #6 (last two fields) leave blank for Company set defaults.**
 
 ![apvcard-image-4](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard4.png)
 
@@ -53,7 +53,7 @@ AP will be tagged on the requisition requesting the permanent Virtual Card SPA s
 <br>   
 
 **Scenario C**: follow steps 1 - 2 as above **Scenario B**.
-- Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields. **NOTE - for the last two fields, leave blank for Company set defaults.**
+- Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields. **NOTE - for #7 (last two fields) leave blank for Company set defaults.**
 
 ![apvcard-image-5](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard5.png)
 <br>
