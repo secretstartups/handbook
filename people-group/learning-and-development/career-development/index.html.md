@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Career Development
+title: Career Development and Mobility
 description: "It is the lifelong process of managing learning, work, leisure and transitions in order to move toward a personally determined and evolving preferred future."
 ---
 
@@ -61,15 +61,37 @@ Additional Questions to Think About
 - Does your feedback from others tell you anything about how feasible your aspirations are?
 - Do you currently have the skills and talents needed for the future business needs?  If not what can you do now to get ready?
 
-### The Relationship Between Learning and Development and Promotion
+### Career Development versus Career Mobility
+
+#### The Relationship between learning and [promotions](/handbook/people-group/promotions-transfers/)
 
 As is highlighted in our [Leadership](/handbook/leadership/1-1/#key-points) section, GitLab team members should not feel pressure to climb the proverbial ladder. We recognize that not everyone wants to advance or move to a new level, and that is supported. Developing one's skills and promotion at the company are not mutually exclusive.
-
-It is perfectly acceptable to seek out learning and development opportunities — to sharpen one's understanding of a coding language to better understand a function, etc. — yet not strive for promotion beyond your current role. Some team members are happier and more productive without managing a team, for example.
 
 As detailed in GitLab's [Definition of Diversity, Inclusion & Belonging ](/company/culture/inclusion/), we recognize that unique characteristics and experiences form how we as individuals approach challenges and solve problems. They also shape how we view success in our individual careers and lives. Not everyone views promotion as a measure of success, and team members will not be thought less of or penalized for holding this view.
 
 As part of GitLab's [Transparency](/handbook/values/#transparency) value, team members are encouraged to be open and honest with their manager. You are encouraged to learn and develop your skills without pressure to in turn seek promotion. If you feel you are not being supported in this way, please visit the [Need Help?](/handbook/people-group/#reach-peopleops) portion of the People Group Handbook.
+
+#### Career Development
+
+Career development involves the process of choosing a career and building a career path that will accelerate professional growth. It is perfectly acceptable to seek out learning and development opportunities — to sharpen one's understanding of a coding language to better understand a function, etc. — yet not strive for promotion beyond your current role. Some team members are happier and more productive without managing a team, for example.
+
+**Team member examples of career development:**
+
+1. An engineer takes a LinkedIn Learning course to improve their communication and leadership skills
+1. A project manager participates in a mentorship program practice their goal setting and planning skills
+1. A team member on any team takes a LinkedIn Learning course becuase the topic is of personal interest
+
+#### Career Mobility
+
+Career mobility involves both lateral (promotions) and horizontal (transfers) movement along a career path. This mobility most often involves applying actions taken and skills developed as leverage for a new role. Career mobility requires action and reflection after the learning is complete to demonstrate gained skills and transfer them to a new role or responsibility set. 
+
+We use the [career mobility issue template](/handbook/people-group/engineering/career-mobility/) to guide team members when they transfer or are promoted to a new role within the organization.
+
+**Team member examples of career mobility:**
+
+1. An engineer takes a leadership course and volunteers as a mentor working towards their goal of becoming an engineering manager
+1. A project manager earns a professional certificate as they work towards a senior-level promotion
+1. A sales team member completes an internship with marketing to explore new career opportunities in a different division
 
 ## Internal Resources
 
