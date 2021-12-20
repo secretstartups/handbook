@@ -62,7 +62,5 @@ This page contains guidelines regarding Accounts Payable (AP) related tasks for 
 </div>
 
 - Step 4. Click **Create**. The new SPA request will then be routed to **Internal SPA Approval Group** for approval.
-
 <br>
-
 After the new SPA is active, payments for the supplier will be issued by Virtual Card during the weekly payment run.
