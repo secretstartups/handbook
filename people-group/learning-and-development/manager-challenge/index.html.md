@@ -58,7 +58,7 @@ Below is a video L&D recorded with Sid on manager enablement:
 
 **What** 
 
-The Manager Challenge Program is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build foundational management skills. The program incorporates leadership assessments, interactive live learning sessions, and digital learning. 
+The Manager Challenge Program is a blended learning approach that incorporates self-paced learning and live learning sessions to build management skills to lead all-remote teams. The program incorporates leadership assessments, interactive live learning sessions, and digital learning. 
 
 **Why** 
 
@@ -82,50 +82,84 @@ See the video below for a quick overview of how we use GitLab to facilitate mana
 </figure>
 <!-- blank line -->
 
-### Week 1
+### Pre-Work
 
-The below curriculum will be updated for the October program: 
+Participants will complete the following: 
+- Leadership Style Questionnaire
+- Manager Challenge participant profiles 
+- Required reading 
 
-During week one we will discuss **The Art of Management** at GitLab. Information covered in week one can be found on the following handbook pages:  
-- [Leadership ](/handbook/leadership/)
-- [Building High Performing Teams](/handbook/leadership/build-high-performing-teams/)
-- [SOCIAL STYLES](/handbook/leadership/emotional-intelligence/social-styles/)
-- [All Remote Management](/company/culture/all-remote/management/)
-- [Building Trust](/handbook/leadership/building-trust/)
-- [Effective Delegation](/handbook/leadership/effective-delegation/)
+**Sessions:**
 
-| Day     | Challenge Topic | Length of Time   |  Format | Activity |
-|---------|-----------------|------------------|---------|---------|
-| Day 1    | Live Learning - Kickoff Call: What It Means to Be a Manager/Leader at GitLab | 50 minutes | Live Learning Session | <br> * Management at Gitlab 101 * Scenario exploration |
-| Day 2    | Getting to know yourself and team members | 1 hour | Self-paced Daily Challenge | <br> *Complete the learning pathway <br> *Define what it means to be a manager at GitLab |
-| Day 3    | Building high performing teams | 1 hour | Self-paced Daily Challenge | <br> *Explore & determine where your team is in the high performance model <br> *Complete the learning pathway |
-| Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 1hr 20 minutes | Live Learning | <br> *Group excercise to develop a high performing team <br> *Networking with other managers at Gitlab |
-| Day 5    | Manager action plan & weekly evaluation | 30 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
+| Date | Length  | Description |
+| ------ | ------ | ------ |
+| 2022-02-03 | 50 minute | Live Learning - Introduction to the Manager Challenge |
 
-### Week 2
+### Week 1 - Developing Your Leadership Style
 
-The below curriculum will be updated for the October program: 
+Week 1 will be focused on developing your leadership style as a manager, differences between an Individual Contributor and Manager, leading all-remote teams, and much more! 
 
-During week two, we will discuss **Effective Communications with Your Team**. Information covered in week two can be found on the following handbook pages and external sites: 
-- [Leadership ](/handbook/leadership/)
-- [1-1](/handbook/leadership/1-1/)
-- [Guidance on Feedback](/handbook/people-group/guidance-on-feedback/)
-- [GitLab Communication](/handbook/communication/)
-- [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
-- [Embracing Asynchronous Communication](/company/culture/all-remote/asynchronous/)
+**Sessions/Async Activities:**
 
-| Day     | Challenge Topic | Length of Time   |  Format | Activity | 
-|---------|-----------------|------------------|---------|---------|
-| Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 1 hour | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics <br> *Giving & Receiving Feedback <br> *Crucial Conversations |
-| Day 7   | Live Learning Session - Coaching and Feedback Scenarios. Hear from the CEO | 1 hour | Live Learning Session | <br> *Real Life Scenarios </br> * Hear from the Audience <br> * GitLab CEO will be joining one of the sessions to do a Q&A on leadership/management at GitLab |
-| Day 8   | Cross-Cultural Collaboration and the Building an Inclusive Team | 1 hour | Self-paced Daily Challenge | <br> * Cross-Cultural Collaboration <br> * Managing in a Global Team <br> * Building Trust |
-| Day 9   | Live Learning - Putting it All Together | 1 hr 20 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback, coaching, DBI  and 1-1's <br> * Networking |
-| Day 10  | Individual Growth Plan & weekly evaluation | 30 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> |
+| Date | Length  | Description |
+| ------ | ------ | ------ |
+| 2022-02-07 | 1 hr 20 minutes | Session 1: Developing Your Leadership Style |
+| 2022-02-08/09 | Asymc | Async - Session 2 pre-work |
+| 2022-02-10 | 1 hr 20 minutes | Session 2: Building High Performing Teams or Team Effectiveness Tools |
+| 2022-02-11 | 50 minutes | Optional Group Coaching and Peer-to-Peer Learning Session |
 
-### Week 3
+### Week 2 - Management Fundamentals
 
-The final week will be a catch-up week for anyone who missed some of the async activities. In addition, L&D will be hosting a retrospective with all participants so that L&D can better understand what went well, what could be improved, and actions for the future. 
+Week 2 will be focused on management fundamentals, coaching team relationships, building trust, and aligning values to inspire motivation
 
+**Sessions/Async Activities:**
+
+| Date | Length  | Description |
+| ------ | ------ | ------ |
+| 2022-02-14 | 1 hr 20 minutes | Session 3: Fundamental Behaviors of Managers |
+| 2022-02-15/16 | Async | Async - Reading and/or async collaboration |
+| 2022-02-17 | 1 hour | Session 4: Coaching team relationshops |
+| 2022-02-18 | 50 minutes | Optional Group coaching session on inspiring motivation and aligning values |
+
+
+### Week 3 - Leading Teams to Achieve Results
+
+Week 3 will be focused on performance management, constructive conversations, tools for engaging a distributed team, and a panel discussion with senior leaders
+
+**Sessions/Async Activities:**
+
+| Date | Length  | Description |
+| ------ | ------ | ------ |
+| 2022-02-22 | 1 hr 20 minutes | Session 5: Performance Management 101 and Constructive Conversations |
+| 2022-02-23/24 | Async | Async - Reading and/or async collaboration |
+| 2022-02-24 | 1 hour | Session 6: Panel Discussion with Senior Leaders. Action Planning and Next Steps |
+| 2022-02-25 | 50 minutes | Optional Group coaching session on inspiring motivation and aligning values. |
+
+Participants will also be asked to complete a program evaluation. 
+
+### Post Manager Challenge 
+
+Following the Manager Challenge, participants are encouraged to do the following: 
+- Join the `#manager-challenge-alumni` slack channel
+- Complete a Individual Growth Plan
+- Share learning's from the Manager Challenge on the [Manager Challenge alumni page](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/manager-challenge-alumni-page/)
+- Create a quarterly sync sessions to come together with cohort participants
+- Attend the post-program office hours on 2022-04-07
+
+**Sessions/Async Activites:**
+
+| Date | Length  | Description |
+| ------ | ------ | ------ |
+| 2022-02-22 | 50 minutes | Post Program Office Hours: Discuss Lessons Learned |
+
+
+### Important Things To Remember: 
+
+1. You will be receiving a lot of calendar invites if you sign-up. Please plan to attend either the AM or PM sessions. 
+2. All participants will be invited to a Slack Group for the Manager Challenge
+3. Friday coaching and peer-to-peer learning sessions are optional since they take place on Focus Friday's.
+4. Several of the sessions will include a guest speaker from inside or outside of the organization
+4. Some sessions are one-hour in length due to guest speaker avaliablity
 
 ### Individual Growth Plan
 
