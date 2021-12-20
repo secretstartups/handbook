@@ -127,16 +127,22 @@ expectations and help them meet or adjust project timescales.
 When you send a user an update, the normal action is to set the ticket status to
 `Pending`, which indicates that you are waiting for a reply from them.
 
-Even though at that point there will be no SLA clock running, you might consider
-setting an expectation with the customer that you'll check back with them after
-an appropriate amount of time to ensure continued progress.
+You might consider setting an expectation with the customer that you'll check
+back with them after an appropriate amount of time to ensure continued progress.
 
-Please aim to provide updates daily, and definitely no less than every four days,
-which is the [`On-Hold` period length](#using-the-on-hold-ticket-status).
+You may also set the ticket status to `On-Hold`, indicating that you are taking some
+action and will follow up with the user at a later time.
 
-Should you choose to do that, please consider using our [Due Date](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#due-date-picker)
+When putting a ticket `On-Hold`, you should:
+
+* Inform the user when to expect your follow-up message.
+* Invite them to inform you if your chosen schedule does not meet their needs
+  so that you can adjust your plans accordingly. See also [Understanding Impact](#understanding-impact).
+* Aim to provide updates daily, and no less than every four days, which is the [`On-Hold` period length](#behavior-of-on-hold-tickets).
+
+When setting a ticket to `Pending` or `On-Hold`, consider using our [Due Date](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#due-date-picker)
 and [Reminders](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-reminders-app)
-apps to help you to meet that commitment.
+apps to help you to meet commitments you make.
 
 ### Emotionally-charged tickets
 
@@ -159,7 +165,7 @@ that tells you what state it's currently in.
 | New      | The ticket has just been opened and has had no replies. |  |
 | Open     | The ticket has had one or more replies, and the user is waiting on GitLab Support to provide the next reply. | |
 | Pending  | Support has replied to the ticket and is waiting on the user to provide additional information. | If there are no responses after a total of 20 days, Zendesk will move the ticket to `Solved`. |
-| On-Hold  | GitLab support is working on the ticket and may be waiting for information from another team |  |
+| On-Hold  | GitLab support is working on the ticket and may be waiting for information from another team | See [Behavior of `On-Hold` tickets](#behavior-of-on-hold-tickets) |
 | Solved   | The ticket has been solved | When a user replies to a `Solved` ticket, Zendesk reopens it. A Solved ticket will transition to `Closed` after 7 days. |
 | Closed   | The ticket is archived | When a user replies to a `Closed` ticket, Zendesk opens a new ticket with a note that relates the new ticket to the closed ticket. |
 
@@ -189,30 +195,7 @@ prevent autosolve from happening again, the `autosolve` and `autosolve_message`
 tags will be present. These do NOT need to be removed  when adding the
 `skip_autosolve` tag.
 
-#### Using the On-Hold ticket status
-
-You should use the `On-hold` status when it is necessary to do some internal
-work, e.g. reproduce a complex bug, discuss something with developers or wait
-for a session scheduled with a user.
-
-It's the engineer's responsibility to ensure timely replies or to set the ticket
-back to `Open` if they are no longer working on it. Setting a ticket to `On-Hold`
-while working on it can be useful as it takes it out of the main view, thus
-saving other engineers from wasting time reading it.
-
-##### Set clear expectations
-
-In your reply you should also inform the customer when to expect your follow-up
-message, and invite them to inform you if your chosen schedule does not meet
-their needs. If it does not, please take steps to ensure you understand the
-impact to their business so that you can adjust your plans accordingly.
-
-To help yourself with meeting any schedule expectation you've set, consider
-using our [Due Date](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#due-date-picker)
-and [Reminders](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-reminders-app)
-apps.
-
-##### Behavior of On-Hold tickets
+#### Behavior of `On-Hold` tickets
 
 We have a number of automations around tickets in an `On-Hold` status:
 
@@ -233,7 +216,7 @@ other message, while also changing the status.
 #### A ticket is close to breaching; I need more time for my full reply
 
 1. Please send the user a short message to update them on the action plan and
-   [set clear expectations](#set-clear-expectations). Doing this will not only
+   [set clear expectations](#setting-expectations). Doing this will not only
    prevent an SLA breach, it will very likely be well-received by the user.
    Remember, you don't need to have a full answer in order for your message to
    be useful.
