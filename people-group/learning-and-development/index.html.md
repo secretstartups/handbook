@@ -118,7 +118,7 @@ GitLab has a growing [resource](/handbook/people-group/learning-and-development/
 
 **Learning programs to develop as a people leader:** 
 
-- [The Manager Challenge](/handbook/people-group/learning-and-development/)
+- [The Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/)
 - [Leadership Chats](/handbook/people-group/learning-and-development/manager-challenge/leadership-chats/)
 - [Transitioning to a manager role](/handbook/people-group/learning-and-development/manager-development/)
 - [Coaching](/handbook/leadership/coaching/)
