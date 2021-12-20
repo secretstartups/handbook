@@ -246,7 +246,7 @@ If the pipeline is broken it needs to be fixed, currently we are working on defi
 
 **If I work my normal hours on triage day i.e. till 11 AM of US timeline. What happens when the pipeline breaks post my normal hours and there is a delay in data availability?** <br>
 Yes, the benefit of our presence is that we have a wide overage of hours. If the person who is on Triage is ahead of US timelines, we have an advantage of solving issues timely. The downside is that we have not full coverage that day for US timelines. This is an attention point towards the future. 
-
+ 
 ## Triage common issues
 In this section we state down common issues and resolutions
 
