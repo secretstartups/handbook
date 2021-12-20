@@ -27,7 +27,7 @@ A future where GitLab is best in class organization for remote learning & develo
 
 _What we do_
 
-We equip & empower individual contributors and people leaders to access self-service learning that role models a culture of development. We do this by: 
+We equip and empower individual contributors and people leaders to access self-service learning that role models a culture of development. We do this by: 
 
 - Focusing on skill-based learning 
 - Enabling access to resources to improve career mobility 
