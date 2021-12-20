@@ -499,6 +499,12 @@ For further instructions on the invoicing and payment modules in Coupa, please v
 - [Invoicing in Coupa](https://about.gitlab.com/handbook/finance/accounting/#invoicing-in-coupa).
 - [Payments in Coupa](https://about.gitlab.com/handbook/finance/accounting/#processing-payment-for-invoices-in-coupa).
 
+## How to Request a Coupa Virtual Card
+
+For futher instructions on how to request a virtual card in Coupa, please visit the below link or training video:
+- [Coupa Virtual Card Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
+- [Requesting a Virtual Card](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr1PNe_Ycz0x4G5aizUPDbM)
+
 
 ## Coupa Training Videos
 
