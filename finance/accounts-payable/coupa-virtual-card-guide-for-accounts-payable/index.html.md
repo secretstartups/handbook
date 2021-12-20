@@ -15,9 +15,10 @@ description: "Virtual Card Guide for Accounts Payable"
 {:toc .hidden-md .hidden-lg}
 
 This page contains guidelines regarding Accounts Payable (AP) related tasks for Virtual Cards. There are three different scenarios for Virtual Cards:
-- **Scenario A**: Supplier paid by Virtual Card for one time purchase or emergency payment **(most common request)**.
-- **Scenario B**: Supplier permanently paid by Virtual Card on PO (card issued on the PO to Requestor). 
+- **Scenario A**: Supplier paid by Virtual Card for one time purchase or emergency payment (most common request).
+- **Scenario B**: Supplier permanently paid by Virtual Card on PO (card issued on the PO to Requester). 
 - **Scenario C**: Supplier permanently paid by Virtual Card on invoice (card issued to Supplier after invoices have been processed/approved for payment).
+
 <br>
 
 **Scenario A** - there are no tasks for AP.
@@ -40,6 +41,7 @@ This page contains guidelines regarding Accounts Payable (AP) related tasks for 
 ![apvcard-image-3](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard3.png)
 <br>
 - Step 6. After the new SPA is active and editing the Supplier Name change, update **Comments** section of the requisition stating permanent Virtual Card has been created.
+
 <br>   
 
 **Scenario C**: follow steps 1 - 2 as above **Scenario B**.
