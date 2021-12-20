@@ -33,10 +33,6 @@ L&D is making some significant changes to the program in the meantime, but expec
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRAwJfDTpSrjif5SxoE7Wsge3D501ENSyHucL4xmORypSSlsdCPIReeV3tKaiCinv_G7yHIKQh5ljA6/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
-
 ### Manager Challenge Learning Objectives
 
 You may be asking yourself what you will achieve by taking part in the Manager Challenge program! Our goal is that participants walk away with the following skills after completing the four-week challenge: 
@@ -54,33 +50,6 @@ Below is a video L&D recorded with Sid on manager enablement:
 </figure>
 <!-- blank line -->
 
-### Overview
-
-**What** 
-
-The Manager Challenge Program is a blended learning approach that incorporates self-paced learning and live learning sessions to build management skills to lead all-remote teams. The program incorporates leadership assessments, interactive live learning sessions, and digital learning. 
-
-**Why** 
-
-The program is intended to build a set of baseline skills that complement our values to enable Managers to lead teams at GitLab. 
-
-**How will it help**
-
-Learn the basic principles of what it means to be a manager using a whole-person approach to leadership. The curriculum was built using principles from the book High Output Management, interviews with senior leaders, and GitLab management practices. 
-
-**What do I need to do**
-
-Set aside time each day to participate in the challenge (1 hour) and live learning sessions (1 hour 20 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill your individual growth plan. If you are unable to prioritize the training for the 2 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. In addition, there will also be async learning options for participants that are unable to attend the live learning sessions. 
-
-### Challenge Issue explainer video 
-
-See the video below for a quick overview of how we use GitLab to facilitate manager enablement 
-
-<!-- blank line -->
-<figure class="video_container">
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/VTMQiCgvEDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-<!-- blank line -->
 
 ## February Program Schedule
 
@@ -89,7 +58,7 @@ See the video below for a quick overview of how we use GitLab to facilitate mana
 Participants will complete the following: 
 - Leadership Style Questionnaire
 - Manager Challenge participant profiles 
-- Required reading 
+- Required reading and any async work
 
 **Sessions:**
 
@@ -105,10 +74,10 @@ Week 1 will be focused on developing your leadership style as a manager, differe
 
 | Date | Length  | Description |
 | ------ | ------ | ------ |
-| 2022-02-07 | 1 hr 20 minutes | Session 1: Developing Your Leadership Style |
-| 2022-02-08/09 | Asymc | Async - Session 2 pre-work |
+| 2022-02-07 | 1 hr 20 minutes | Session 1: Developing Your Leadership Style. Adaptive DNA as a people leader. |
+| 2022-02-08/09 | Async | Session 2 pre-work |
 | 2022-02-10 | 1 hr 20 minutes | Session 2: Building High Performing Teams or Team Effectiveness Tools |
-| 2022-02-11 | 50 minutes | Optional Group Coaching and Peer-to-Peer Learning Session |
+| 2022-02-11 | 50 minutes | Optional group coaching and Peer-to-Peer Learning Session |
 
 ### Week 2 - Management Fundamentals
 
@@ -119,9 +88,9 @@ Week 2 will be focused on management fundamentals, coaching team relationships, 
 | Date | Length  | Description |
 | ------ | ------ | ------ |
 | 2022-02-14 | 1 hr 20 minutes | Session 3: Fundamental Behaviors of Managers |
-| 2022-02-15/16 | Async | Async - Reading and/or async collaboration |
-| 2022-02-17 | 1 hour | Session 4: Coaching team relationshops |
-| 2022-02-18 | 50 minutes | Optional Group coaching session on inspiring motivation and aligning values |
+| 2022-02-15/16 | Async | Pre-work for session 4 |
+| 2022-02-17 | 1 hour | Session 4: Coaching team relationships |
+| 2022-02-18 | 50 minutes | Optional group coaching session on inspiring motivation and aligning values |
 
 ### Week 3 - Leading Teams to Achieve Results
 
@@ -154,7 +123,7 @@ Following the Manager Challenge, participants are encouraged to do the following
 | 2022-02-22 | 50 minutes | Post Program Office Hours: Discuss Lessons Learned |
 
 
-## Important Things To Remember: 
+## Important Points To Remember: 
 
 1. You will be receiving a lot of calendar invites if you sign-up. Please plan to attend either the AM or PM sessions. 
 2. All participants will be invited to a Slack Group for the Manager Challenge
@@ -162,13 +131,42 @@ Following the Manager Challenge, participants are encouraged to do the following
 4. Several of the sessions will include a guest speaker from inside or outside of the organization
 4. Some sessions are one-hour in length due to guest speaker avaliablity
 
+### Overview
+
+**What** 
+
+The Manager Challenge Program is a blended learning approach that incorporates self-paced learning and live learning sessions to build management skills to lead all-remote teams. The program incorporates leadership assessments, interactive live learning sessions, and digital learning. 
+
+**Why** 
+
+The program is intended to build a set of baseline skills that complement our values to enable Managers to lead teams at GitLab. 
+
+**How will it help**
+
+Learn the basic principles of what it means to be a manager using a whole-person approach to leadership. The curriculum was built using principles from the book High Output Management, interviews with senior leaders, and GitLab management practices. 
+
+**What do I need to do**
+
+Set aside time each day to participate in the challenge (1 hour) and live learning sessions (1 hour 20 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill your individual growth plan. If you are unable to prioritize the training for the 2 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. In addition, there will also be async learning options for participants that are unable to attend the live learning sessions. 
+
+### Challenge Issue explainer video 
+
+See the video below for a quick overview of how we use GitLab to facilitate manager enablement 
+
+<!-- blank line -->
+<figure class="video_container">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/VTMQiCgvEDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+
 ### Individual Growth Plan
 
 Throughout the program, we ask that managers to create or refine their [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internal-resources-1). We encourage Managers to self-reflect on their professional development as a people leader and identify areas where they can advance their skills. 
 The document is intended to be a starting point for managers to document where they can improve as a people leader.
 
 
-## FAQs (Frequently Asked Questions) for the Manager Challenge program
+### FAQs (Frequently Asked Questions) for the Manager Challenge program
 
 1. **What is the Manager Challenge Program?**
      - The program is intended to build a set of baseline management skills through micro habits and daily practices over 2 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab remote management & leadership best practices. 
@@ -199,7 +197,7 @@ The document is intended to be a starting point for managers to document where t
 1. **Will I receive a certification?**
      - Yes! Once you complete all challenges, attend the live learning sessions, and complete the self-reflection activities, you will receive the "GitLab Managers Challenge" certificate.
 
-## Manager Challenge Certification
+### Manager Challenge Certification
 
 Following the completion of the GitLab Manager Challenge program, participants will be [awarded a certification](/handbook/people-group/learning-and-development/certifications/)! The certification will be sent to a team member who has completed at least 80% of the daily challenges. Once a team member receives a certification, they can post it on their LinkedIn Profile. 
 
