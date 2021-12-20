@@ -74,7 +74,7 @@ There are two different scenarios for Virtual Cards:
 {: .panel-heading}
 <div class="panel-body">
 
-**The Virtual Card Supporting Documentation must match the amount of the Requisition.** If the amounts differs, please see below **Virtual Cards FAQ - How do I attached a receipt or invoice after Purchase Order is issued?** for instructions.
+**The Virtual Card Supporting Documentation must match the amount of the Requisition.** If the amount charged to the Virtual Card differs from the PO amount, updated documentation must be provided. Please see below **Virtual Cards FAQ - How do I attached a receipt or invoice after Purchase Order is issued?** for instructions.
 
 </div>
 </div>
@@ -111,8 +111,7 @@ The Virtual Card information is provided on the Purchase Order under the **Payme
 The card number, expiration date, and CVV code will be available to the requester. At this point the requester can use the card details to complete the purchase.
 
 ![vcard-image-8](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard8.png)  
-
-
+<br>
 
 ## How to request a Virtual Card for Scenario B
 **(Supplier permanently paid by Virtual Card)**
@@ -149,7 +148,7 @@ You only need to request a permanent virtual card for the supplier once. After A
 
 </div>
 </div>
- <br>
+<br>
 
 ## How to request a Virtual Card submitted via Allocadia
 
@@ -172,7 +171,6 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
 
 - Click **Submit**.
 - After the requisition has been approved, the PO will be issued and the requester will receive the Virtual Card number for use.
-
 <br>
 ### Suppliers to be paid permanently by Virtual Card
 - Submit the requisition through Allocadia using the **actual Supplier name**.
@@ -181,7 +179,6 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
 - After the requisition has been approved, the PO will be issued and the requester will receive the Virtual Card for use.
 
 <br>
-
 
 ## Virtual Cards FAQ
 
