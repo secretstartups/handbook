@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Virtual Cards Guide for Accounts Payable"
-description: "Virtual Cards Guide for Accounts Payable"
+title: "Virtual Card Guide for Accounts Payable"
+description: "Virtual Card Guide for Accounts Payable"
 ---
 
 {::options parse_block_html="true" /}
@@ -15,12 +15,14 @@ description: "Virtual Cards Guide for Accounts Payable"
 {:toc .hidden-md .hidden-lg}
 
 This page contains guidelines regarding Accounts Payable (AP) related tasks for Virtual Cards. There are three different scenarios for Virtual Cards:
-- **Scenario A**: Supplier paid by Virtual Card for one time purchase or emergency payment **(most common request)**
-- **Scenario B**: Supplier permanently paid by Virtual Card on PO (card issued on the PO to Requestor) 
-- **Scenario C**: Supplier permanently paid by Virtual Card on invoice (card issued to Supplier after invoices have been processed/approved for payment)
+- **Scenario A**: Supplier paid by Virtual Card for one time purchase or emergency payment **(most common request)**.
+- **Scenario B**: Supplier permanently paid by Virtual Card on PO (card issued on the PO to Requestor). 
+- **Scenario C**: Supplier permanently paid by Virtual Card on invoice (card issued to Supplier after invoices have been processed/approved for payment).
+
 <br>
 
 **Scenario A** - there are no tasks for AP.
+
 <br>
 
 **Scenario B** - AP will need to create a new Supplier Payment Account (SPA) type for the Supplier. See below steps to create the SPA.
@@ -32,13 +34,14 @@ This page contains guidelines regarding Accounts Payable (AP) related tasks for 
 - Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields:
 
 ![apvcard-image-4](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard4.png)
+
 <br>
 - Step 4. Click **Create**. The new SPA request will then be routed to **Internal SPA Approval Group** for approval.
 - Step 5. After the new SPA status = **Active**, AP will edit the requisition to update the Supplier Name (in the **Cart Items** section) from **Virtual Card** to the **actual Supplier's Name**, which is listed in the Requested Virtual Card Supplier field.
 
 ![apvcard-image-3](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard3.png)
 <br>
-- Step 6. After setting up the new SPA and editing the Supplier Name change, update **Comments** section of the requisition stating permanent Virtual Card has been created.
+- Step 6. After the new SPA is active and editing the Supplier Name change, update **Comments** section of the requisition stating permanent Virtual Card has been created.
 
 <br>   
 
@@ -57,7 +60,9 @@ This page contains guidelines regarding Accounts Payable (AP) related tasks for 
 
 </div>
 </div>
-<br>
+
 - Step 4. Click **Create**. The new SPA request will then be routed to **Internal SPA Approval Group** for approval.
 
 <br>
+
+After the new SPA is active, payments for the supplier will be issued by Virtual Card during the weekly payment run.
