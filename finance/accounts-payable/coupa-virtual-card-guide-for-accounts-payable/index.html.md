@@ -18,11 +18,9 @@ This page contains guidelines regarding Accounts Payable (AP) related tasks for 
 - **Scenario A**: Supplier paid by Virtual Card for one time purchase or emergency payment **(most common request)**.
 - **Scenario B**: Supplier permanently paid by Virtual Card on PO (card issued on the PO to Requestor). 
 - **Scenario C**: Supplier permanently paid by Virtual Card on invoice (card issued to Supplier after invoices have been processed/approved for payment).
-
 <br>
 
 **Scenario A** - there are no tasks for AP.
-
 <br>
 
 **Scenario B** - AP will need to create a new Supplier Payment Account (SPA) type for the Supplier. See below steps to create the SPA.
@@ -42,10 +40,9 @@ This page contains guidelines regarding Accounts Payable (AP) related tasks for 
 ![apvcard-image-3](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard3.png)
 <br>
 - Step 6. After the new SPA is active and editing the Supplier Name change, update **Comments** section of the requisition stating permanent Virtual Card has been created.
-
 <br>   
 
-**Scenario C**: follow steps 1 - 2 as above Scenario B.
+**Scenario C**: follow steps 1 - 2 as above **Scenario B**.
 - Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields:
 
 ![apvcard-image-5](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard5.png)
@@ -62,5 +59,5 @@ This page contains guidelines regarding Accounts Payable (AP) related tasks for 
 </div>
 
 - Step 4. Click **Create**. The new SPA request will then be routed to **Internal SPA Approval Group** for approval.
-<br>
+
 After the new SPA is active, payments for the supplier will be issued by Virtual Card during the weekly payment run.
