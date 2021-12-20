@@ -201,6 +201,17 @@ Changes that require approval only from the relevant Product Director include:
 - Changes to section or group member lists
 - Changes to a category vision page
 
+### Changing category name
+
+When changing an existing category name, there are some considerations to the order of events:
+
+- First, create a MR to change the name in [`data/stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml) and `spec/homepage/category_spec.rb`.
+- Get sign off from all required stakeholders listed in the instructions above. Final signoff should be requested in the #ceo channel with a link to the MR once all other signoffs are complete.
+- Merge the name change MR.
+- Tag the category's technical writer so that they can update the documentation metadata
+- Re-name the category (direction page)[https://about.gitlab.com/direction/] with a new MR. Seach for the old category name on the category direction page to ensure the name has been updated in all places.
+- Use the `#it-help` Slack channel to request an update to Slack channel name for the re-named category
+
 ### Changing category maturity
 
 We primarily use the [Category Maturity Scorecard](/handbook/engineering/ux/category-maturity-scorecards) process to determine category maturity. 
