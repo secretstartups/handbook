@@ -102,20 +102,21 @@ If you are assigned to any PagerDuty shifts (such as on-call) during the time
 Groom your queue before going on PTO. As guidelines cannot cover every case, this section is meant to provide guidance for you to think critically about what is required for each ticket you're assigned to:
 
 1. Is a customer waiting on you? Check with the customer.
-
    As per the [working with tickets workflow](/handbook/support/workflows/working-on-tickets.html#keep-in-mind),
    aim to update a customer daily. If your PTO will prevent a timely update, ask the customer whether they
    would prefer to pause the ticket till your return or have someone else step
    in to work with them. If they want to pause, put the ticket on-hold.
    Otherwise, find a new assignee.
-1. For all tickets that won't be on hold, please write an internal note summarizing
-   the status. Include all applicable parts from this list:
-
+1. For all tickets that won't be on hold, please use the `OOO Ticket Handover` macro, and update the macro as outlined below.
+- For `Ticket Summary`, include:
    - A concise statement of the problem or request
    - A brief explanation of what's been done so far - what's been tried, what
      progress has been made
    - The current status - what remains to be done
+- For `Potential next steps`:
    - The plan - expected next steps and the reasons behind them
+- For `Extra Details`:
+   - Any links to issues or documents that might be helpful and are relevant to the issue
 
 #### If your absence will be three or more business days
 
@@ -134,6 +135,42 @@ Groom your queue before going on PTO. As guidelines cannot cover every case, thi
 
    - The status text should contain one of the following strings: 'OOO', 'PTO', 'Parental Leave', or 'Friends and Family'
    - And the emoji should be one of the following: `:palm_tree:`, `:beach:`, `:beach_umbrella:`, `:beach_with_umbrella:`, `:ferris_wheel:`, `:thermometer:`, `:face_with_thermometer:`, `:red_circle:`, `:bulb:`, `:sun_with_face:`.
+
+## Holiday time off ticket management
+
+Guidance around ticket handling over global holiday time off is slightly different because of the potential in increased impact to the Support team.
+
+For example, the following peak holidays have the greatest potential to impact coverage:
+- Australia Day (26-January)
+- Republic Day (26-January)
+- Anzac Day (25-April)
+- International Workers Day (1-May)
+- Independence Day (1-July to 4-July)
+- Immaculate Conception Day (8-Dec)
+- Christmas Day, St Stephens Day, Boxing Day, New Years Day and Day After New Years (Period between 24-Dec to 2-Jan)
+- Holidays that vary in dates each year that are celebrated in multiple countries:
+   - Easter Sunday (late March to early April)
+   - Easter Monday (late March to early April)
+   - Whit Monday (May or June)
+   - Ascension Day (May)
+   - Memorial Day (last Monday in May)
+   - Labour Day (first Monday in September)
+
+#### If you are planning to take time off during peak holidays
+1. Please do your best to resolve any assigned tickets you have in your queue.
+1. Communicate with your customers to let them know you’ll be away, and when they can expect you to return. 
+    - Many of our customers may likely be on the same holiday schedule and will be fine with resuming work on a ticket when you both return.
+    - Otherwise, add any tickets that will require continued work during the holiday to the `Needs Collaboration` view instead of the `Handover Needed` view, *unless you plan to be out for an extended period of time* (i.e. more than 3 days). 
+    - If you do not get a response from the customer before your holiday time off, add the ticket to `Needs Collaboration`.
+    - This keeps the ticket in your assignment, but gives the wider team visibility into any tickets that may need attention while you’re away. 
+1. If you anticipate that no action will be necessary over the holiday on any tickets, they do not need to be added to the `Needs Collaboration` view. 
+
+#### If you are working on a holiday
+1. Continue to prioritize FRT first, and then management of your own tickets.
+1. Please pay **extra** attention to the `Needs Collaboration` view. Help progress any tickets while the original assignee is away.
+1. Copy (cc) yourself on the ticket to provide continued help throughout the day.
+1. Summarize any progress or next steps for the original assignee so that they know where to pick things up from on their return.
+1. Continue to help as you can with the `Handover Needed` view.
 
 ## How Support Handles Family and Friends Days
 
