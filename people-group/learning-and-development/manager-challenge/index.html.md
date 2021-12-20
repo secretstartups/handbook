@@ -13,7 +13,7 @@ title: Manager Challenge
 
 Developing mangerial skills is no small task. While taking on a new or expanded role as a manager brings great rewards, it also introudces new challenges. To be successful as a manager it requires management training that develops your ability to lead a functioning team while implementing management skills and abilities such as adaptive leadership, building trust, psychological safety, and conflict resolution. 
 
-The Manager Challenge addresses your specific needs to understand the qualities of a good leader and to master practical leadership styles that empower you to become a confident mangager. Effective leadership is grounded in your understanding of powerful interpersonal skills that inspire performance, communication, team member retention, and motivation to achieve results. 
+The Manager Challenge addresses your specific needs to understand the qualities of a good leader and to master practical leadership styles that empower you to become a confident people leader. Effective leadership is grounded in your understanding of powerful interpersonal skills that inspire performance, communication, team member retention, and motivation to achieve results. 
 
 Join us for the next Manager Challenge will run from **2022-02-07 to 2022-02-25**. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/78). **Currently, the program is being offered to GitLab team members only.**
 
@@ -29,7 +29,7 @@ If you plan to participate in the Manager Challenge, please discuss with your ma
 
 Make the program part of your [career development](/handbook/people-group/learning-and-development/career-development/), and include in your [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources-1).
 
-L&D is making some significant changes to the program in the meantime, but expect to dedicate 1 hour (daily challenges) to and 1.5 hours (live learnings) each day during the program. Some participants, request additional time to complete the async activities so please plan accordingly. 
+L&D is making some significant changes to the program in the meantime, but expect to dedicate 1 hour (daily challenges) to and 1.5 hours (live learnings) each day during the program. Some participants, request additional time to complete the async activities so please plan accordingly. You must attend and/or complete at least 80% of the activities to be awarded a certification. 
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
