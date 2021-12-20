@@ -167,11 +167,13 @@ While some GitLab team-members may not receive an increase due to already being 
 
 ### Manager Review in Compaas
 
+Please note: The Total Rewards team is currently updating the information below for the FY23 Annual Compensation Review Cycle. As we finalize the documentation the "todos" will be removed. 
+
 [Compaas](https://www.compa.as/) is GitLab's compensation platform where managers can login, review, change, and submit their proposed increases during Annual Compensation Review.
 
 For any feedback about using Compaas during the FY22 Manager Review portion of Annual Compensation Review, please use the following [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/240).
 
-#### Process for slate owners
+#### Process for Slate Owners
 
 1. Navigate to [Compaas](https://app.compa.as/login) and select the option to sign in with Google.
 * ![compaas login](/images/handbook/people-group/1_Compaas.png)
@@ -180,7 +182,7 @@ For any feedback about using Compaas during the FY22 Manager Review portion of A
 * ![incorrect email](/images/handbook/people-group/2_Compaas.png)
 1. If you have not used Compaas in the past, you will need to Select the Terms and Conditions box and click Submit. If a user has already visited Compaas Rewards they will automatically be taken to their slate view.
 * ![terms and conditions](/images/handbook/people-group/T&C.png)
-1. After logging in, you will land on the Summary tab of your slate. This will have the status of your budget, along with a card for each of the team members you will be recommending a raise for. The card will list values such as the team member's name, role, level, [performance/growth factor](https://about.gitlab.com/handbook/people-group/talent-assessment/), compensation, discretionary raise, final compensation, RSU Grant, next 12 months TDC (Total Direct Compensation), and notes.
+1. After logging in, you will land on the Summary tab of your slate. This will have the status of your budget (if applicable), along with a card for each of the team members you will be recommending a raise for. The card will list values such as the team member's name, role, level, [performance/growth factor](https://about.gitlab.com/handbook/people-group/talent-assessment/), current compensation, discretionary raise, final compensation, RSU Grant, next 12 months TDC (Total Direct Compensation), and notes.
 * TODO Update Screenshot
 * The role is located under the team member's name. This is the team member's job title including level, for example, Senior or Associate.
 * Underneath the role is the [benchmark role](/handbook/total-rewards/compensation/compensation-calculator/#sf-benchmark). This is the job title that is used for determining the base compensation before other inputs such as level are evaluated. For example, the benchmark role for a Senior Backend Engineer is a Backend Engineer, Individual Contributor.
@@ -190,7 +192,7 @@ For any feedback about using Compaas during the FY22 Manager Review portion of A
 * The team member's compensation before (light) and after (bold) any adjustments is listed to the right of the percent increase.
   * If there is an "OTE" next to the compensation values, this indicates that part of cash compensation is a bonus component. Total Rewards works in OTE during Annual Compensation Review and then allocates to base/variable based on the desired split per role.
 * The Stock field will have a $ value for any equity being granted as part of this cycle.
-* Next 12 mo. TDC (Total Direct Compensation) will list the before and after of a team member's TDC which includes base compensation, variable/bonus compensation (if applicable), and equity vesting in FY23.
+* Next 12 mo. TDC (Total Direct Compensation) will list the before and after of a team member's TDC which includes base compensation, variable/bonus compensation (if applicable), and FY23 refresh grant vesting.
 * The talk bubble at the right of the team member's card can be clicked on to leave a note on the team member's record. This can be used to record reasons for decisions, details about specific compensation change, or open questions for approvers or the People Group. The option to delete a note is also available.
 * ![note](/images/handbook/people-group/6_Compaas.png)
 * ![delete note](/images/handbook/people-group/7_Compaas.png)
@@ -205,7 +207,7 @@ For any feedback about using Compaas during the FY22 Manager Review portion of A
 * TODO Update screenshot
 1. Your slate can be filtered by what part of the pay range your reports currently fall into: Below, Bottom, Lower-middle, Upper-middle, Upper, Above.
 * ![filter range](/images/handbook/people-group/5_Compaas.png)
-1. If the team member is being recommended for a promotion during this cycle, you will be inputting their promotion amount in the raise tab instead. The range for their new role will be shown in the range penetration column. If you would like to recommend a team member for a promotion, please ensure you work with your People Business Partner on this prior to submitting your slate in Compaas.
+1. If the team member is being recommended for a promotion during this cycle, you would enter the promotion amount in the raise tab instead. The range for their new role will be shown in the range penetration column. If you would like to recommend a team member for a promotion, please ensure you work with your People Business Partner on this prior to submitting your slate in Compaas.
 * TODO Add promo screenshot.
 
 **Stock Tab**
