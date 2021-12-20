@@ -25,33 +25,35 @@ This page contains guidelines regarding Accounts Payable (AP) related tasks for 
 
 <br>
 
-**Scenario B** - AP will need to create a new Supplier Payment Account (SPA) type for the Supplier. See below steps to create the SPA.
+**Scenario B** - AP will need to create a new Supplier Payment Account (SPA) type for the Supplier. See below steps to create the Virtual Card SPA.
 - Step 1. When the requisition arrives in the AP **To Do** queue, create a new Supplier Payment Account.
 
 ![apvcard-image-1](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard1.png)
 <br>
 - Step 2. You will be prompted to enter your 2FA. 
-- Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields. **NOTE - for the last two fields, leave blank to use Company set defaults.**
+- Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields. **NOTE - for #6 (the last two fields), leave blank for Company set defaults.**
 
 ![apvcard-image-4](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard4.png)
 
 <br>
 - Step 4. Click **Create**. The new SPA request will then be routed to **Internal SPA Approval Group** for approval.
-
-
-** Allocadia suppliers to be paid permanently by Virtual Card**
-AP will be tagged on the requisition requesting the Virtual Card SPA set up for the supplier.
-- Follow Step 1 - 4 for above **Scenario B**. 
 - Step 5. After the new SPA status = **Active**, AP will edit the requisition to update the Supplier Name (in the **Cart Items** section) from **Virtual Card** to the **actual Supplier's Name**, which is listed in the Requested Virtual Card Supplier field.
 
 ![apvcard-image-3](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard3.png)
 <br>
-- Step 6. After the new SPA is active and editing the Supplier Name in the requisition cart, update **Comments** section of the requisition stating permanent Virtual Card has been created.
+- Step 6. Approve the requisition.
+
+<br>
+
+**Allocadia suppliers to be paid permanently by Virtual Card**
+AP will be tagged on the requisition requesting the permanent Virtual Card SPA set up for the supplier. 
+- Follow Step 1 - 5 for above **Scenario B** to create the SPA.
+- Step 6. After the new SPA is active and the Supplier Name has been edited in the requisition cart, update **Comments** section of the requisition stating permanent Virtual Card has been created.
 
 <br>   
 
 **Scenario C**: follow steps 1 - 2 as above **Scenario B**.
-- Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields. **NOTE - for the last two fields, leave blank to use Company set defaults.**
+- Step 3. You will be directed to create the new Supplier Payment Account. See below regarding how to complete the necessary fields. **NOTE - for the last two fields, leave blank for Company set defaults.**
 
 ![apvcard-image-5](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard5.png)
 <br>
