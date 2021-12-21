@@ -23,9 +23,9 @@ We encourage all team members to [take time out to learn](/handbook/people-group
 
 ### Take Time out to Learn
 
-You can take time to learn about something that will help you in your current role. You can learn about things that can help you in a future role (maybe you are an aspiring manager). You can learn more to improve current skills or learn entirely new skills. You can also take time to learn about things that are fun or interesting for you like graphic design, drawing, or mindfulness. 
-
 Finding courses and skills to learn just got easier with access to LinkedIn Learning. We have a [take time out to learn campaign](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign) where we encourage our team members to take time out of their work week to learn. Focus Fridays create designated meeting-free space within our weeks and are a great opportunity to take time out to learn.
+
+You can take time to learn about something that will help you in your current role. You can learn about things that can help you in a future role (maybe you are an aspiring manager). You can learn more to improve current skills or learn entirely new skills. You can also take time to learn about things that are fun or interesting for you like graphic design, drawing, or mindfulness. 
 
 ### Walk and Learn
 
