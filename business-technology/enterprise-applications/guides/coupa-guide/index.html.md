@@ -169,7 +169,7 @@ For Field Marketing Dept Only - please refer to the [Field Marketing Handbook - 
    - All the cart details will be displayed and the requestor can review and/or edit the details as required. (This is the Purchase Request form that will be flipped into an Order when approved).
 
 
-If a supplier is exclusively paid by credit card, please see [How to Request a Coupa Virtual Card](TBD) for instructions.
+If a supplier is exclusively paid by credit card, please see [How to Request a Coupa Virtual Card](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/#how-to-request-a-virtual-card) for instructions.
 {: .alert .alert-warning}
 
 **REQUISITION HEADER LEVEL**
