@@ -15,7 +15,7 @@ In January 2021, GitLab implemented LinkedIn Learning to provide our team member
 
 ## Benefit of LinkedIn Learning
 
-Utilizing LinkedIn Learning will be beneficial to your professional development. With access to LinkedIn Learning, you will be able to access over 8,000 courses on many different topics. 
+Utilizing LinkedIn Learning will be beneficial to your personal and professional development. With access to LinkedIn Learning, you will be able to access over 8,000 courses on many different topics. 
 
 ### How to incorporate LinkedIn Learning into your day-to-day role 
 
@@ -23,22 +23,22 @@ We encourage all team members to [take time out to learn](/handbook/people-group
 
 ### Take Time out to Learn
 
-You can take time to learn about something that will help you in your current role. You can learn about things that can help you in a future role (maybe you are an aspiring manager). You can learn more to improve current skills or learn entirely new skills. You can also take time to learn about things that are fun for you like graphic design, drawing, or mindfulness. 
-
 Finding courses and skills to learn just got easier with access to LinkedIn Learning. We have a [take time out to learn campaign](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign) where we encourage our team members to take time out of their work week to learn. Focus Fridays create designated meeting-free space within our weeks and are a great opportunity to take time out to learn.
+
+You can take time to learn about something that will help you in your current role. You can learn about things that can help you in a future role (maybe you are an aspiring manager). You can learn more to improve current skills or learn entirely new skills. You can also take time to learn about things that are fun or interesting for you like graphic design, drawing, or mindfulness. 
 
 ### Walk and Learn
 
-With the LinkedIn Learning app, team members can download audio-only versions of courses and take learning on the go. We're piloting a new initiative during the month of April 2021 encouraging team members to take learning with them while they walk.
+With the LinkedIn Learning app, team members can download audio-only versions of courses and take learning on the go. We piloted a new initiative during the month of April 2021 encouraging team members to take learning with them while they walk. 
 
 #### Why should you try a Walk and Learn?
 
 1. Some team members might feel like their weeks are too busy to build in time for learning, or that professional development falls off their priority list. We hope this initiative helps team members think creatively about how they can make time for learning
-1. Auditory learners might feel that LinkedIn learning isn't a good fit for them, since courses are often created with video. The `audio-only` download option can help remove the added distraction of video and let learners focus just on listening
+1. Auditory learners might feel that LinkedIn Learning isn't a good fit for them, since courses are often created with video. The `audio-only` download option can help remove the added distraction of video and let learners focus just on listening
 
 #### Walk and Learn Goals
 
-1. 20 team members will complete 1 walk and talk session and post in the #walk-and-talk Slack channel during the month of April 2021
+1. 20 team members will complete 1 walk and learn session and post in the #walk-and-learn Slack channel during the month of April 2021
 1. Average time spent on LinkedIn Learning by team members in April will reach 1.4 hour target
 
 #### Here's how you can participate:
@@ -331,6 +331,6 @@ Our integration and configuration was set up in conjunction with our partners fr
 - I recieved an invite for LinkedIn Learning, but can no longer find it. What should I do? 
    - You can search your inbox for the subject `subject line`. If you still can't find the email, please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 
 - I can't find LinkedIn Learning courses in GitLab Learn. What should I do? 
-   - If you cannot access LinkedIn Learning content in GitLab Learn, it is likely because you have not activated a LinkedIn Learning license. First, comfirm that you have activated a LinkedIn Learning license. You can do that by going to [LinkedIn Learning]() to see if you have an account. If you do not have a license or an invite, please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 
+   - If you cannot access LinkedIn Learning content in GitLab Learn, it is likely because you have not activated a LinkedIn Learning license. First, comfirm that you have activated a LinkedIn Learning license. You can do that by going to [LinkedIn Learning](http://linkedinlearning.com/) to see if you have an account. If you do not have a license or an invite, please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 
 - How do I access content in LinkedIn Learning? 
    - To access LinkedIn Learning content we recommend that you go to our GitLab Learn platform and search for skills and topics you want to learn more about that way. You can filter content to only show LinkedIn Learning content. 
