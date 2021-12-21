@@ -620,6 +620,16 @@ This is all orchestrated in the Data Pump [Airflow DAG](https://airflow.gitlabda
 
 **Step 3:** Create an [integration issue in the integrations project](https://gitlab.com/gitlab-com/business-ops/enterprise-apps/integrations/integrations-work/-/issues/new) using the 'New Data Pump' issue template so that the Integration team can map and integrate the data into the target application.
 
+### Current Data Pumps
+
+| Model | Target system | RF | MNPI |
+| ----- | ------------- | -- | ---- |
+| pump_hash_marketing_contact | Marketo | 24h | No | 
+| pump_marketing_contact | Marketo | 24h | No |
+| pump_marketing_premium_to_ultimate | Marketo | 24h | No | 
+| pump_subscription_product_usage | Salesforce 24h | No |
+| pump_product_usage_free_user_metrics_monthly | Salesforce | 24h | No |
+
 ## <i class="fas fa-toggle-on" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Data Spigot
 
 A Data Spigot is a concept/methodology to give external systems, access to Snowflake data in a controlled manner.  To give external systems access to Snowflake, the following controls are in place:
@@ -632,9 +642,19 @@ The process for setting up a new Data Spigot is as follows:
 1. Comply to the controls that are in place, as described above.
 2. Add new Data Spigots to the table below:
 
-| Connected system | Data scope | Database views | 
-| ---------------- | ---------- | ------------- |
-| Grafana          | Snowplow loading times | `prod.legacy.snowplow_page_views_all_grafana_spigot` |
+### Current Data Spigots
+
+| Connected system | Data scope | Database table/view | MNPI |
+| ---------------- | ---------- | ------------------- | ---- |
+| Grafana          | Snowplow loading times | `prod.legacy.snowplow_page_views_all_grafana_spigot` | No |
+| Gainsight        |  | `prod.common_prep.prep_usage_ping_no_license_key` | No |
+| Gainsight        |  | `prod.common_mart_product.mart_product_usage_wave_1_3_metrics_latest` | No |
+| Gainsight        |  | `prod.common_mart_product.mart_product_usage_wave_1_3_metrics_monthly` | No |
+| Gainsight        |  | `prod.common_mart_product.mart_product_usage_wave_1_3_metrics_monthly_diff` | No |
+| Gainsight        |  | `prod.common_mart_product.mart_saas_product_usage_metrics_monthly` | No |
+| Gainsight        |  | `prod.common_mart_product.mart_product_usage_paid_user_metrics_monthly` | No |
+| Gainsight        |  | `prod.common_mart_product.mart_product_usage_free_user_metrics_monthly` | No |
+| Gainsight        |  | `prod.restricted_safe_common_mart_sales.mart_arr` | Yes | 
 
 ## <i class="fas fa-chart-bar fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Visualization
 
