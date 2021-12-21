@@ -122,10 +122,10 @@ During our Career Development workshops at Contribute, May 2019 we took team mem
 
 There are various internal opportunities to expand a team member's exposure to multiple parts of the organization.  These include:
 
-- Participation in a [Team Member Resource Group (TMRG)](https://about.gitlab.com/company/culture/inclusion/erg-guide/)
-- Work on a [Working Group (WG)](https://about.gitlab.com/company/team/structure/working-groups/)
-- Do an [apprenticeship](https://about.gitlab.com/handbook/engineering/career-development/#apprenticeship-for-learning) on another team
-- Apply to do the [CEO shadow program](https://about.gitlab.com/handbook/ceo/shadow/) for two weeks
+- Participation in a [Team Member Resource Group (TMRG)](h/company/culture/inclusion/erg-guide/)
+- Work on a [Working Group (WG)](/company/team/structure/working-groups/)
+- Do an [apprenticeship](/handbook/engineering/career-development/#internship-for-learning) on another team
+- Apply to do the [CEO shadow program](/handbook/ceo/shadow/) for two weeks
 - When appropriate and possible, attending some of the staff meetings of the team members manager's manager
 
 ### Internship for Learning
@@ -381,9 +381,9 @@ Starting FY'22 (exact date is TBD) team members will receive a notice via Bamboo
 
 ## E-Group Performance Enablement Review
 
-Effective FY21, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](/company/team/#sytses), at the beginning of the new fiscal year. These conversations will assess alignment to each of our [credit values](https://about.gitlab.com/handbook/values/#credit), performance and personal development.
+Effective FY21, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](/company/team/#sytses), at the beginning of the new fiscal year. These conversations will assess alignment to each of our [credit values](/handbook/values/#credit), performance and personal development.
  
-The E-Group will follow a similar process to our GitLab team member process with the additional requirement of a [self review](https://docs.google.com/document/d/1pi-nv6NtMejosVOXlr1O4rZGxmGUzuN01OMnXn5dxKU/edit#). 
+The E-Group will follow a similar process to our GitLab team member process with the additional requirement of a [self review](https://docs.google.com/document/d/1pi-nv6NtMejosVOXlr1O4rZGxmGUzuN01OMnXn5dxKU/edit#).
 
 **Performance Factors**
 
