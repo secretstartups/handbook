@@ -577,6 +577,30 @@ CURRENT PROCESS VIA COUPA:
 * Create a pdf version of the partner timesheet information.
 * Send an email to the partner A/R point of contact using the [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
 
+#### Making Engagement Epic and Issues Partner Accessible
+##### Background
+* [PS automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) creates engagement epics in [Professional-Services-Group](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics) and issues in [PS-Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues).
+* It's useful to move the epics of engagements that require partner access to [Professional-Servies-Group > Consulting Delivery](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/ww-consulting/-/epics)
+
+##### Notes
+* Epics can not currently be moved so instead we recreate the epic in the new location, move the subordinate issues to the new location and close the original epic as described in _Directions_ below.
+* The original and new epics are linked via their issue move audit entries.
+* The directions do not use a [bulk edit](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#bulk-edit-issues-from-a-project) due to [this epic search issue](https://gitlab.com/gitlab-org/gitlab/-/issues/233729).
+
+##### Directions
+* Open the to-be-recreated epic in a browser tab
+* Open the [destination epics list UI](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/ww-consulting/-/epics) in another browser tab
+  * _New Epic_
+    * Title - `Customer Name` Customer Project Epic
+    * Description - copy and paste description markdown from the original epic (current in the other browser tab)
+    * _Create epic_
+  * Put the url of the new epic in the copy paste buffer for use below
+* For each issue in the to-be-recreated epic:
+  * Browse to the issue
+    * Use the `/epic <url>` [slash command](https://docs.gitlab.com/ee/user/project/quick_actions.html) to move the issue to the new epic
+      * e.g. `/epic https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/ww-consulting/-/epics/2`
+      * To use a slash command, enter the text of the command in the comment interface and apply it with the _Comment_ button
+
 ### Mavenlink Processes
 Mavenlink is our current Professional Services Automation (PSA) system.  Follow the link below to view process steps.
 
