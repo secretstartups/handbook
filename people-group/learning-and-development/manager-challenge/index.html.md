@@ -15,7 +15,7 @@ Developing mangerial skills is no small task. While taking on a new or expanded 
 
 The Manager Challenge addresses your specific needs to understand the qualities of a good leader and to master practical leadership styles that empower you to become a confident people leader. Effective leadership is grounded in your understanding of powerful interpersonal skills that inspire performance, communication, team member retention, and motivation to achieve results. 
 
-Join us for the next Manager Challenge will run from **2022-02-07 to 2022-02-25**. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/78). **Currently, the program is being offered to GitLab team members only.**
+Join us for the next Manager Challenge that will run from **2022-02-07 to 2022-02-25**. If you are interested in participating in February, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/78). **Currently, the program is being offered to GitLab team members only.**
 
 ### Leadership Development Award   
 
