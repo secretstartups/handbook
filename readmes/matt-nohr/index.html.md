@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "Matt Nohr's README"
-job: "Engineering Manager (Code Review)"
+job: "Engineering Manager, Code Review"
 ---
 
 ### On this page
@@ -79,6 +79,5 @@ There is also a [good book list in our handbook](https://about.gitlab.com/handbo
 * In the winter you can often find me on the ice [curling](https://www.youtube.com/watch?v=IOk9SVzqHsk).
 
 ---
-<div align="center">
+
 [We all do better when we all do better](https://www.youtube.com/watch?v=v0CU83VrduU) - [Paul Wellstone](https://en.wikipedia.org/wiki/Paul_Wellstone)
-</div>
