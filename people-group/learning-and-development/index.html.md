@@ -37,7 +37,7 @@ We equip & empower individual contributors and people leaders to access self-ser
 
 _Performance indicators_ 
 
-1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](https://about.gitlab.com/handbook/people-group/offboarding/#exit-survey) related to career development
+1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](/handbook/people-group/offboarding/#exit-survey) related to career development
 2. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
 3. Increase in access to career mobility: internal transfers, [promotions](/handbook/people-group/promotions-transfers/), job shadows, intern for learning, and professional development
 4. Evidence of best in class remote learning & development (i.e. [Brandon Hall Awards](https://www.brandonhall.com/excellenceawards/index.html), Industry Speaking Events, Thought Leadership articles, etc.)
@@ -88,7 +88,7 @@ Please take 5 minutes for a survey to [tell us how do you prefer to learn](https
 
 ## FY22 Learning and Development Calendar 
 
-You can view the Learning & Development calendar, as well as other people group team calendars on the [People Group Page](https://about.gitlab.com/handbook/people-group/#team-calendars). 
+You can view the Learning & Development calendar, as well as other people group team calendars on the [People Group Page](/handbook/people-group/#team-calendars). 
 
 ### Handbook First Training Content
 
@@ -262,10 +262,10 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 | Bite-sized learning | A short course to learn a skill. Bite-sized can be a compentent of training or a separate learning element (i.e. a video, a PDF cheat-sheet, an infographic) | Max 15 minutes, 5 to 10 minute average |
 | Self-paced course | Learner has the control over the amount of material they want to consume and the duration of time needed to learn the new information. | Pre-defined by the designer (i.e. hours, days, etc.) |
 | Curriculum | A series of learning paths that comprise a course of study on a skill-based topic | Varies |
-| Certification | See definition on the [certification page](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/#certifications) | Varies |
+| Certification | See definition on the [certification page](/learn/certifications/public/#minimum-requirements-of-a-gitlab-certification) | Varies |
 | Learning Path | A chosen route taken by a learner through a range of learning activities to build knowledge progressivley | Varies |
 
-This terminology is distinct from our Learning Experience Platform, GitLab Learn, which has it's own [glossary of terms](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#understanding-content-in-gitlab-learn).
+This terminology is distinct from our Learning Experience Platform, GitLab Learn, which has it's own [glossary of terms](/handbook/people-group/learning-and-development/gitlab-learn/user/#understanding-content-in-gitlab-learn).
 
 
 ### Learning Delivery Methods - Definitions
