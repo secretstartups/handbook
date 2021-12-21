@@ -31,7 +31,7 @@ Once you get to that step in your onboarding, please do the following:
 
 Please review our [Anti-Harassment Policy](/handbook/anti-harassment/) which outlines guidelines, reporting, and disciplinary action. 
 
-We have four separate trainings, but you only need to complete one of them. For managers, leaders, and all team members in Connecticut (regardless of role), the course is 2 hours long. For all other GitLab Team Members, the course is 1 hour long. There are separate courses for U.S. and non-U.S. due to states in the U.S. requiring a "gated" course. You do not need to complete the course in one sitting as you can stop and come back to it. Just ensure it is completed within your first 30 days at GitLab. Click on the Harassment Prevention training that aligns with your role (Supervisor or Team Member) and location (U.S. or Non-U.S.): 
+We have four separate trainings, but you only need to complete **one** of them. For managers, leaders, and all team members in Connecticut (regardless of role), the course is 2 hours long. For all other GitLab Team Members, the course is 1 hour long. There are separate courses for U.S. and non-U.S. due to states in the U.S. requiring a "gated" course. You do not need to complete the course in one sitting as you can stop and come back to it. Just ensure it is completed within your first 30 days at GitLab. Click on the Harassment Prevention training that aligns with your role (Supervisor or Team Member) and location (U.S. or Non-U.S.): 
 
 | Your Role     | Your Location  | Course to Take  |
 |---------|-----------------|------------------| 
