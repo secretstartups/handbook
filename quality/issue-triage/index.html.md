@@ -55,7 +55,7 @@ The presence of bug category labels `~availability`, `~performance`, `~security`
 
 | Type of `~"type::bug"` | `~severity::1`: Blocker | `~severity::2`: Critical | `~severity::3`: Major  | `~severity::4`: Low | Triage DRI |
 |----------------|--------------------------|---------------------------|-------------------------|----------------------|------------|
-| General bugs   | Broken feature with no workaround. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. | |
+| General bugs   | Broken feature with no workaround or any data-loss. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. | |
 | `~performance` Response time <br> (API/Web/Git)[^1] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 200ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/quality/quality-engineering/sec-enablement-qe-team/) |
 | `~performance` Browser Rendering <br> ([LCP](https://web.dev/lcp/))[^2] | Above 9000ms to timing out | Between 4000ms and 9000ms | Between 3000ms and 4000ms | Between 3000ms and 2500ms | [Enablement Quality Engineering team](/handbook/engineering/quality/quality-engineering/sec-enablement-qe-team/) |
 | `~performance` Browser Rendering <br> ([TBT](https://web.dev/tbt/))[^2] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 300ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/quality/quality-engineering/sec-enablement-qe-team/) |
@@ -110,7 +110,7 @@ If, when selecting a severity for an availability issue, the availabilty impact 
 
 | Severity | Availability impact | Time to mitigate (TTM)(1) | Time to resolve (TTR)(2) | Minimum priority |
 |-|-|-|-|-|
-| `~severity::1` | Roadblock on GitLab.com and blocking customer's business goals and day to day workflow<br/><br/>Impacts 50% or more of users<br/><br/>Consistently reproducible<br /><br />**AND/OR**<br /><br />Any roadblock that puts the [guaranteed self-managed release date](/handbook/engineering/releases/#timelines) at risk | Within 8 hrs | Within 48 hrs | `~priority::1` |
+| `~severity::1` | Roadblock on GitLab.com and blocking customer's business goals and day to day workflow<br/><br/>Impacts 50% or more of users<br/><br/>Consistently reproducible<br /><br />**AND/OR**<br /><br />Any roadblock that puts the [guaranteed self-managed release date](/handbook/engineering/releases/#timelines) at risk<br /><br />**AND/OR**<br /><br />Any data loss directly impacting customers | Within 8 hrs | Within 48 hrs | `~priority::1` |
 | `~severity::2` | Significant impact on GitLab.com and customer's day-to-day workflow. Customers have an acceptable workaround in place.<br/><br/>Impacts between 25%-50% of users<br/><br/>Consistently reproducible<br/><br/>**AND/OR**<br/><br/>Deployment blocking incident anywhere in the deployment pipeline | Within 24 hrs | Within 7 days |  `~priority::1` |
 | `~severity::3` | Broad impact on GitLab.com and minor inconvenience to customer's day-to-day workflow. No workaround needed.<br/><br/>Impacts up to 25% of users<br/><br/>Inconsistently reproducible | Within 72 hrs | Within 30 days | `~priority::2` |
 | `~severity::4` | Minimal impact on GitLab.com, no known customers affected<br/><br/>Impacts less than 5% of users<br/><br/>Inconsistently reproducible | Within 7 days | Within 60 days | `~priority::3` |
