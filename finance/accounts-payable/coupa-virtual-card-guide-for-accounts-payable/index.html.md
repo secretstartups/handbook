@@ -14,15 +14,15 @@ description: "Virtual Card Guide for Accounts Payable"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This page contains guidelines regarding Accounts Payable (AP) related tasks for Coupa Virtual Cards. Please review the [Coupa Virtual Card Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/) to better understand the end user processes.
+This page contains guidelines regarding Accounts Payable (AP) related tasks for Coupa Virtual Cards. Please review the [Coupa Virtual Card Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/) to understand the end user process.
 
 There are several different scenarios for Virtual Cards:
 
-### Scenario A: Supplier paid by Virtual Card for one time purchase or emergency payment (most common request).
+## Scenario A: Supplier paid by Virtual Card for one time purchase or emergency payment (most common request).
 
-### Scenario B: Supplier permanently paid by Virtual Card on PO (card issued on the PO to Requester). 
+## Scenario B: Supplier permanently paid by Virtual Card on PO (card issued on the PO to Requester). 
 
-### Scenario C: Supplier permanently paid by Virtual Card on invoice (card issued to Supplier after invoices have been processed/approved for payment).
+## Scenario C: Supplier permanently paid by Virtual Card on invoice (card issued to Supplier after invoices have been processed/approved for payment).
 
 <br>
 
@@ -42,7 +42,7 @@ There are several different scenarios for Virtual Cards:
 
 <br>
 - Step 4. Click **Create**. The new SPA request will then be routed to **Internal SPA Approval Group** for approval.
-- Step 5. After the new SPA status = **Active**, AP will edit the requisition to update the Supplier Name (in the **Cart Items** section) from **Virtual Card** to the **actual Supplier's Name**, which is listed in the Requested Virtual Card Supplier field.
+- Step 5. After the new SPA status = Active, AP will edit the requisition to update the Supplier Name (in the **Cart Items** section) from **Virtual Card** to the **actual Supplier's Name**, which is listed in the Requested Virtual Card Supplier field.
 
 ![apvcard-image-3](/handbook/finance/coupa-virtual-card-guide-for-accounts-payable/apvcard3.png)
 <br>
@@ -50,11 +50,11 @@ There are several different scenarios for Virtual Cards:
 
 <br>
 
-### Allocadia suppliers to be paid permanently by Virtual Card
+## Allocadia suppliers to be paid permanently by Virtual Card
 
 AP will be tagged on the requisition requesting the permanent Virtual Card SPA set up for the supplier. 
 - Follow Step 1 - 5 for above **Scenario B** to create the SPA.
-- Step 6. After the new SPA is active and the Supplier Name has been edited in the requisition cart, update **Comments** section of the requisition stating permanent Virtual Card has been created.
+- Step 6. After the new SPA is active and the Supplier Name has been edited in the requisition cart, update **Comments** section of the requisition stating the permanent Virtual Card has been created.
 
 <br>   
 
@@ -76,11 +76,11 @@ AP will be tagged on the requisition requesting the permanent Virtual Card SPA s
 
 - Step 4. Click **Create**. The new SPA request will then be routed to **Internal SPA Approval Group** for approval.
 
-After the new SPA is active, payments for the supplier will be issued by Virtual Card during the weekly payment run.
+After the new SPA is active, payments to the supplier will be issued by Virtual Card during the weekly payment run.
 
 <br>
 
-### How to cancel Virtual Card issued on PO
+## How to cancel Virtual Card issued on PO
 
 There are two ways to cancel a Virtual Card issued on PO - canceling or hard closing the PO. Listed below are the instructions for them:
 
@@ -94,14 +94,14 @@ There are two ways to cancel a Virtual Card issued on PO - canceling or hard clo
 - Step 2. Soft close PO; then close PO.
 - Step 3. Confirm the PO is closed and the Virtual Card status is cancelled.
 
-### How to reissue Virtual Card issued on PO
+## How to reissue Virtual Card issued on PO
 
 - Step 1. Select approved PO with Virtual Card issued.
 - Step 2. Soft close PO.
 - Step 3. Confirm the Virtual Card status is cancelled.
 - Step 4. Re-open PO; provide reason for re-opening PO; then a new Virtual Card will be created.
 
-### How to reissue an expired Virtual Card issued on PO
+## How to reissue an expired Virtual Card issued on PO
 
 - Step 1. Select approved PO with Virtual Card issued.
 - Step 2. Under the **Payment** section, click on **(Re-Issue)** link. The original Virtual Card status will be expired and a new Virtual Card will be created.
