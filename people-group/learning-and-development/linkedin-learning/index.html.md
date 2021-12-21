@@ -15,7 +15,7 @@ In January 2021, GitLab implemented LinkedIn Learning to provide our team member
 
 ## Benefit of LinkedIn Learning
 
-Utilizing LinkedIn Learning will be beneficial to your professional development. With access to LinkedIn Learning, you will be able to access over 8,000 courses on many different topics. 
+Utilizing LinkedIn Learning will be beneficial to your personal and professional development. With access to LinkedIn Learning, you will be able to access over 8,000 courses on many different topics. 
 
 ### How to incorporate LinkedIn Learning into your day-to-day role 
 
