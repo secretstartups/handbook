@@ -54,7 +54,7 @@ A 25-minute discussion pannel with mentors, mentees, and company leadership. Att
 
 **1:1 Mentor Sessions**
 
-Mentors and mentees should meet every other week for 30-minutes for a total of 3 months (with the option to extend). Sessions are led by the mentee and should be focused on specific goals. Attendance is **required**.
+Mentors and mentees should meet every other week for 30-minutes for a total of 5 months (with the option to extend). Sessions are led by the mentee and should be focused on specific goals. Attendance is **required**.
 
 **Mentor/Mentee Workbook**
 
