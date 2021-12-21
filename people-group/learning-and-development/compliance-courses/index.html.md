@@ -15,7 +15,7 @@ Welcome to the Learning & Development (L&D) page at GitLab! L&D is an essential 
 
 ## Compliance Courses 
 
-GitLab has several compliance courses and resources. Explore the drop-downs below to learn more. 
+GitLab has several compliance courses and resources. Explore the chart below to learn more. 
 
 | Training     | Tool  | Frequency   |  Responsible Team   | 
 |---------|-----------------|------------------|------------------|  
