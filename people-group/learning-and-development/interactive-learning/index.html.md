@@ -138,7 +138,7 @@ When creating learning content, the Learning & Develpment team may work with oth
 
 Guidelines for recording a video for a course: 
 
-1. **Tool:** the recording will be done in Zoom. 
+1. **Tool:** The recording will be done in Zoom. 
    - Open your zoom app and click “new meeting” 
    - Once the zoom meeting starts, make sure your video is turned on and you are unmuted. 
    - Once you are ready, click the “Record” button, then click “Record on this Computer” - This will make the file save to your computer and then you should be able to drag and drop into the designated Google Drive folder 
@@ -147,7 +147,7 @@ Guidelines for recording a video for a course:
    - The file will take a moment to download. 
    - Once it has downloaded, please either send it to the L&D team member that is working on the course or upload it to the appropriate folder for recordings for the course you are assisting with. 
 1. **Appearance:** We want you to be your authentic self that your comfortable with anyone on the internet seeing. The video will be public on YouTube unfiltered. 
-1. **Slides:** slides can be used during your presentation if you wish. Please use the provided slides template for the course. 
+1. **Slides:** Slides can be used during your presentation if you wish. Please use the provided slides template for the course. 
 1. **Background:** You can use either a GitLab branded virtual background, no virtual background if you are comfortable with the area behind your workspace being on the internet, or use the blurred feature on zoom to blur your background. 
 1. **Completed Recording:** Once the recording is completed, please add it to the appropriate Google Drive Folder or send it to the L&D team member that you have been working with. L&D will add GitLab L&D branded content to the beginning and end (intros/outtros) of the video. 
 
