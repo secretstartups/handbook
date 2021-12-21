@@ -74,7 +74,7 @@ In any case, data is made available in the `PROD` database, throughout multiple 
 
 ### Explorational Database Implementation
 
-**Explorational Data Development** takes place in Snowflake in the `PROD` database. Dedicated schemas are made available per department. In the schemas users have read and write permissions in order to create tables, add columns and prototype data solutions. The schemas are prefixed with `EXPLORATIONAL_`.
+**Explorational Data Development** takes place in Snowflake in the `PROD` database. Dedicated schemas are made available per department. In the schemas users have read and write permissions in order to create tables, add columns and prototype data solutions. The schemas are prefixed with `EXPLORATIONAL_` or `RESTRICTED_SAFE_EXPLORATIONAL_` if it contains MNPI data.
  
 Functional ownership of the schemas resides with the departmental VP (or equivalent). This means that VP needs to provide approval in case of an _Access Request_ and carries the responsibility of proper usage of the data in the schema (i.e. in case of MNPI, PII and sensitive data).
 
