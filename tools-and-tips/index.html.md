@@ -738,6 +738,8 @@ This speaks to our value to be more efficient.
 
 ![Google Calendar - make calendar available setting](/images/handbook/tools-and-tips/google-calendar-share.png)
 
+When setting up your Google Calendar be sure to [set your working hours](https://support.google.com/calendar/answer/7638168?hl=en).
+
 If you'd like to share your calendar with e.g. your partner you can use the 'Share with specific people' feature and set the permissions to 'See only free/busy (hide details)':
 
 ![Share with specific people](/images/handbook/tools-and-tips/share-with-specific-people.png)
