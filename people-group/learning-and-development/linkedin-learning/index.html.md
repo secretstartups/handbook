@@ -34,7 +34,7 @@ With the LinkedIn Learning app, team members can download audio-only versions of
 #### Why should you try a Walk and Learn?
 
 1. Some team members might feel like their weeks are too busy to build in time for learning, or that professional development falls off their priority list. We hope this initiative helps team members think creatively about how they can make time for learning
-1. Auditory learners might feel that LinkedIn learning isn't a good fit for them, since courses are often created with video. The `audio-only` download option can help remove the added distraction of video and let learners focus just on listening
+1. Auditory learners might feel that LinkedIn Learning isn't a good fit for them, since courses are often created with video. The `audio-only` download option can help remove the added distraction of video and let learners focus just on listening
 
 #### Walk and Learn Goals
 
@@ -331,6 +331,6 @@ Our integration and configuration was set up in conjunction with our partners fr
 - I recieved an invite for LinkedIn Learning, but can no longer find it. What should I do? 
    - You can search your inbox for the subject `subject line`. If you still can't find the email, please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 
 - I can't find LinkedIn Learning courses in GitLab Learn. What should I do? 
-   - If you cannot access LinkedIn Learning content in GitLab Learn, it is likely because you have not activated a LinkedIn Learning license. First, comfirm that you have activated a LinkedIn Learning license. You can do that by going to [LinkedIn Learning]() to see if you have an account. If you do not have a license or an invite, please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 
+   - If you cannot access LinkedIn Learning content in GitLab Learn, it is likely because you have not activated a LinkedIn Learning license. First, comfirm that you have activated a LinkedIn Learning license. You can do that by going to [LinkedIn Learning](http://linkedinlearning.com/) to see if you have an account. If you do not have a license or an invite, please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 
 - How do I access content in LinkedIn Learning? 
    - To access LinkedIn Learning content we recommend that you go to our GitLab Learn platform and search for skills and topics you want to learn more about that way. You can filter content to only show LinkedIn Learning content. 
