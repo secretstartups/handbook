@@ -90,6 +90,12 @@ Please take 5 minutes for a survey to [tell us how do you prefer to learn](https
 
 You can view the Learning & Development calendar, as well as other people group team calendars on the [People Group Page](https://about.gitlab.com/handbook/people-group/#team-calendars). 
 
+### Learning & Development Team Meetings
+
+Overview of the type of meetings the Learning & Development does every quarter:
+
+
+
 ### Handbook First Training Content
 
 All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning). One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
