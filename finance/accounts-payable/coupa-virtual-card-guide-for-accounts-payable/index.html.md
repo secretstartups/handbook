@@ -18,11 +18,11 @@ This page contains guidelines regarding Accounts Payable (AP) related tasks for 
 
 There are several different scenarios for Virtual Cards:
 
-## Scenario A: Supplier paid by Virtual Card for one time purchase or emergency payment (most common request).
+### Scenario A: Supplier paid by Virtual Card for one time purchase or emergency payment (most common request).
 
-## Scenario B: Supplier permanently paid by Virtual Card on PO (card issued on the PO to Requester). 
+### Scenario B: Supplier permanently paid by Virtual Card on PO (card issued on the PO to Requester). 
 
-## Scenario C: Supplier permanently paid by Virtual Card on invoice (card issued to Supplier after invoices have been processed/approved for payment).
+### Scenario C: Supplier permanently paid by Virtual Card on invoice (card issued to Supplier after invoices have been processed/approved for payment).
 
 <br>
 
@@ -106,4 +106,9 @@ There are two ways to cancel a Virtual Card issued on PO - canceling or hard clo
 - Step 1. Select approved PO with Virtual Card issued.
 - Step 2. Under the **Payment** section, click on **(Re-Issue)** link. The original Virtual Card status will be expired and a new Virtual Card will be created.
 
+<br>
 
+If you have questions or need help, please reach out in the coupa_ap Slack channel.
+
+
+{::options parse_block_html="false" /}
