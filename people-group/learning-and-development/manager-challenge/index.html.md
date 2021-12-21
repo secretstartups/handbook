@@ -35,7 +35,7 @@ All details relating to the next iteration of the Manager Challenge program can 
 
 ### Manager Challenge Learning Objectives
 
-You may be asking yourself what you will achieve by taking part in the Manager Challenge program! Our goal is that participants walk away with the following skills after completing the four-week challenge: 
+You may be asking yourself what you will achieve by taking part in the Manager Challenge program! Our goal is that participants walk away with the following skills after completing the three-week challenge: 
 
 - Improve your team performance by strengthening management skills
 - Develop a management style that incorporates a whole-person approach to leading others
