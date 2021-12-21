@@ -14,6 +14,8 @@ description: "The Learning & Development team is rolling out learning programs t
 
 The Learning & Development team is rolling out learning programs to enable a [culture of curiosity and continual learning](/handbook/values/#growth-mindset). The learning initiatives are intended to provide a forum for team members to come together to learn about all of the activities taking place in the learning space, as well as hear from leaders internally and externally on various leadership topics.
 
+We record our [past initiatives](/handbook/people-group/learning-and-development/learning-initiatives/past-initiatives) so that we can share and revisit our programs over time.
+
 ## Learning Sessions
 
 ### Live Learning
@@ -167,7 +169,7 @@ This list of topics can be used as a starting point for brainstorming content an
 - Leading Teams
 - Managing Remote Teams
 - Managing Underperformance
-- Crucial Conversations
+- [Crucial Conversations](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations)
 - Coaching
 - Leadership Best Practices
 - Developing Emotional Intelligence
