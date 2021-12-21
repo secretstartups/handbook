@@ -104,7 +104,77 @@ The Senior Data Scientist meets all of the requirements of an Intermediate Data 
 * Extensive knowledge, application, and experience in creating and implementing recommendation systems, machine learning, NLP, statistics, and deep learning
 * Ability to quantify improvements from business efficiency or customer experience based on research outcomes 
 
-#### Performance Indicators
+#### Senior Data Scientist Performance Indicators
+
+* Number of Models Operationalized
+* Number of Strategic Insights Discovered ([Data Value Calculator](/handbook/business-ops/data-team/how-we-work/#data-team-value-calculator) score 3 or higher)
+* Business Partner Customer Satisfaction Score ([CSAT](https://en.wikipedia.org/wiki/Customer_satisfaction))
+* Merge Request Rate
+
+### Staff Data Scientist 
+
+#### Job Grade
+
+The Staff Data Scientist is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+The Senior Data Scientist has all of the responsibilities of an Intermediate Data Scientist, plus:
+
+*  Improve predictive models with data from multiple models 
+*  Automate feedback loops for algorithms/models in production  
+*  Create repeatable processes and scalable data products
+*  Influence functional teams and develop best practices across the organization
+*  Review, scale, and enhance operationalized statistical models and algorithms 
+
+#### Requirements
+
+The Staff Data Scientist meets all of the requirements of an Intermediate Data Scientist, plus:
+
+* 6+ years professional experience in an analytics role
+* 4+ years professional experience in a predictive analytics, data science, or similar role
+* Developed 4 or more automated machine learning models for production use
+* Developed and presented 6 or more predictive analytical projects
+* Developed communication skills with ability to explain statistic and mathematical concepts to non-experts
+* Extensive knowledge, application, and experience in creating and implementing recommendation systems, machine learning, NLP, statistics, and deep learning
+* Ability to quantify improvements from business efficiency or customer experience based on research outcomes 
+
+#### Staff Data Scientist Performance Indicators
+
+* Number of Models Operationalized
+* Number of Strategic Insights Discovered ([Data Value Calculator](/handbook/business-ops/data-team/how-we-work/#data-team-value-calculator) score 3 or higher)
+* Business Partner Customer Satisfaction Score ([CSAT](https://en.wikipedia.org/wiki/Customer_satisfaction))
+* Merge Request Rate
+
+### Principal Data Scientist 
+
+#### Job Grade
+
+The Principal Data Scientist is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+The Principal Data Scientist has all of the responsibilities of an Staff Data Scientist, plus:
+
+*  Improve predictive models with data from multiple models 
+*  Automate feedback loops for algorithms/models in production  
+*  Create repeatable processes and scalable data products
+*  Influence functional teams and develop best practices across the organization
+*  Review, scale, and enhance operationalized statistical models and algorithms 
+
+#### Requirements
+
+The Principal Data Scientist meets all of the requirements of an Staff Data Scientist, plus:
+
+* 6+ years professional experience in an analytics role
+* 4+ years professional experience in a predictive analytics, data science, or similar role
+* Developed 4 or more automated machine learning models for production use
+* Developed and presented 6 or more predictive analytical projects
+* Developed communication skills with ability to explain statistic and mathematical concepts to non-experts
+* Extensive knowledge, application, and experience in creating and implementing recommendation systems, machine learning, NLP, statistics, and deep learning
+* Ability to quantify improvements from business efficiency or customer experience based on research outcomes 
+
+#### Principal Data Scientist Performance Indicators
 
 * Number of Models Operationalized
 * Number of Strategic Insights Discovered ([Data Value Calculator](/handbook/business-ops/data-team/how-we-work/#data-team-value-calculator) score 3 or higher)
