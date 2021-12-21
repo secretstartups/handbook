@@ -230,7 +230,7 @@ Consider using this to hide Slack after a while to reduce your urge to check new
 
 The core app provides many workflows built-in, extensions from the [store](https://www.raycast.com/store) can be installed either directly from the web, or by using the built-in [extension search](https://developers.raycast.com/basics/install-an-extension).
 
-**Please do not use extensions for GitLab using a personal access tokens (PAT) for security reasons this time.**
+**Please do not use extensions for GitLab using a personal access token (PAT) for security reasons this time.**
 
 ### TripMode
 
