@@ -90,6 +90,17 @@ Please take 5 minutes for a survey to [tell us how do you prefer to learn](https
 
 You can view the Learning & Development calendar, as well as other people group team calendars on the [People Group Page](/handbook/people-group/#team-calendars). 
 
+### Learning & Development Team Meetings
+
+Overview of the type of meetings the Learning & Development participates in every quarter:
+
+| Meeting Type | Cadence/Time | Description |
+| ------ | ------ | ------ |
+| 1:1 | Weekly meeting/25 minutes | <br> - 1:1 meeting between direct report and manager of L&D team. <br> - Topics covered include: task management, career development, performance management, blockers, project updates, brainstorming, coaching, etc. <br> - During the meeting, if their is an item that requires broader team collaboration it will be added to the bi-weekly team meeting. |
+| L&D Strategic Team Meeting | Every two weeks/40 minutes | <br> - Strategic items that have been brought up during 1:1 meetings that impact the team as a whole. <br> - The meetings will cover items that are strategic in nature that require discussion, brainstorming, collaboration, and synthesis with the team |
+| L&D Quarterly Offsite | Quarterly/90 minutes to 2 hours | <br> - Review what was acheived in the quarter, what wasn't, and lessons learned <br> - Team members will present plans on what they are focused on for the next quarter <br> - Review team morale, team dynamics, learner satisfaction, long term impact, and alignment with Peope Group goals. |
+
+
 ### Handbook First Training Content
 
 All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning). One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
