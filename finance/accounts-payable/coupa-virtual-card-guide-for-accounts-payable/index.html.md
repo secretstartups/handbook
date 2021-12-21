@@ -14,7 +14,10 @@ description: "Virtual Card Guide for Accounts Payable"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This page contains guidelines regarding Accounts Payable (AP) related tasks for Virtual Cards. There are several different scenarios for Virtual Cards:
+This page contains guidelines regarding Accounts Payable (AP) related tasks for Coupa Virtual Cards. Please review the [Coupa Virtual Card Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/) to better understand the end user processes.
+
+There are several different scenarios for Virtual Cards:
+
 ### Scenario A: Supplier paid by Virtual Card for one time purchase or emergency payment (most common request).
 
 ### Scenario B: Supplier permanently paid by Virtual Card on PO (card issued on the PO to Requester). 
@@ -76,4 +79,31 @@ AP will be tagged on the requisition requesting the permanent Virtual Card SPA s
 After the new SPA is active, payments for the supplier will be issued by Virtual Card during the weekly payment run.
 
 <br>
+
+### How to cancel Virtual Card issued on PO
+
+There are two ways to cancel a Virtual Card issued on PO - canceling or hard closing the PO. Listed below are the instructions for them:
+
+**Canceling PO**
+- Step 1. Select approved PO with Virtual Card issued.
+- Step 2. Cancel PO and select the correct transmission method.
+- Step 3. Confirm the status of both PO and Virtual Card are cancelled.
+
+**Hard closing PO**
+- Step 1. Select approved PO with Virtual Card issued.
+- Step 2. Soft close PO; then close PO.
+- Step 3. Confirm the PO is closed and the Virtual Card status is cancelled.
+
+### How to reissue Virtual Card issued on PO
+
+- Step 1. Select approved PO with Virtual Card issued.
+- Step 2. Soft close PO.
+- Step 3. Confirm the Virtual Card status is cancelled.
+- Step 4. Re-open PO; provide reason for re-opening PO; then a new Virtual Card will be created.
+
+### How to reissue an expired Virtual Card issued on PO
+
+- Step 1. Select approved PO with Virtual Card issued.
+- Step 2. Under the **Payment** section, click on **(Re-Issue)** link. The original Virtual Card status will be expired and a new Virtual Card will be created.
+
 
