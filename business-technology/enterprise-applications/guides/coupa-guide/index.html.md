@@ -501,7 +501,7 @@ For further instructions on the invoicing and payment modules in Coupa, please v
 
 ## How to Request a Coupa Virtual Card
 
-For futher instructions on how to request a virtual card in Coupa, please visit the below link or training video:
+For futher instructions on how to request a virtual card in Coupa, please visit the below links to the guide or training video:
 - [Coupa Virtual Card Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
 - [Requesting a Virtual Card](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr1PNe_Ycz0x4G5aizUPDbM) video
 
