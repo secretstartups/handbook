@@ -145,7 +145,9 @@ For example, the following peak holidays have the greatest potential to impact c
 - Republic Day (26-January)
 - Anzac Day (25-April)
 - International Workers Day (1-May)
+- Memorial Day (last Monday in May)
 - Independence Day (1-July to 4-July)
+- US Thanksgiving Day (4th Thursday of November)
 - Immaculate Conception Day (8-Dec)
 - Christmas Day, St Stephens Day, Boxing Day, New Years Day and Day After New Years (Period between 24-Dec to 2-Jan)
 - Holidays that vary in dates each year that are celebrated in multiple countries:
@@ -153,9 +155,8 @@ For example, the following peak holidays have the greatest potential to impact c
    - Easter Monday (late March to early April)
    - Whit Monday (May or June)
    - Ascension Day (May)
-   - Memorial Day (last Monday in May)
    - Labour Day (first Monday in September)
-
+   
 #### If you are planning to take time off during peak holidays
 1. Please do your best to resolve any assigned tickets you have in your queue.
 1. Communicate with your customers to let them know you’ll be away, and when they can expect you to return. 
