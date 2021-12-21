@@ -110,10 +110,10 @@ Participants will also be asked to complete a program evaluation.
 ### Post Manager Challenge 
 
 Following the Manager Challenge, participants are encouraged to do the following: 
-- Join the `#manager-challenge-alumni` slack channel
-- Complete a Individual Growth Plan
-- Share learning's from the Manager Challenge on the [Manager Challenge alumni page](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/manager-challenge-alumni-page/)
-- Create a quarterly sync sessions to come together with cohort participants
+- Join the `#manager-challenge-alumni` [slack channel](https://app.slack.com/client/T02592416/C02PZ3E39C2)
+- Complete an [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#individual-growth-plan)
+- Share learnings from the Manager Challenge on the [Manager Challenge alumni page](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/manager-challenge-alumni-page/)
+- Create quarterly sync sessions to come together with cohort participants
 - Attend the post-program office hours on 2022-04-07
 
 **Sessions/Async Activites:**
