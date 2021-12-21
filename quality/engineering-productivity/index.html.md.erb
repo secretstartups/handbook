@@ -176,6 +176,7 @@ This is a list of Engineering Productivity experiments where we identify an oppo
 
 | Experiment | Status | Hypothesis | Feedback Issue or Findings |
 | --- | --- | --- | --- |
+| [Experiment with automatically skipping identified flaky tests](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1069) | Complete | Skipping flaky tests should reduce the number of false broken `master` and increase the `master` success rate. | We found that this doesn't seem to have a negative impact on `master` stability so the experiment was made opt-out. |
 | [Experiment with running previously failed tests early](https://gitlab.com/gitlab-org/gitlab/-/issues/333857) | In Progress | Can iteration or cycle time be improved if failed tests are run earlier in the `gitlab-org/gitlab` pipeline? | |
 | [Store/retrieve tests metadata in/from pages instead of artifacts](https://gitlab.com/gitlab-org/gitlab/-/issues/335675) | In Progress | We're only interested in the latest state of these files, so using Pages makes sense here. Also, this would simplify the logic to retrieve the reports and reduce the load on GitLab.com's infrastructure. | [There are some transient problems where a Cloudflare page is returned instead of the expected JSON file](https://gitlab.com/gitlab-org/gitlab/-/issues/337319). |
 | [Reduce pipeline cost by reducing number of rspec tests before MR approval](https://gitlab.com/gitlab-org/gitlab/-/issues/336063) | In Progress | Reduce the CI cost for GitLab pipelines by running the most applicable rspec tests for changes prior to approval | |
