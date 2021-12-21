@@ -15,7 +15,7 @@ Developing mangerial skills is no small task. While taking on a new or expanded 
 
 The Manager Challenge addresses your specific needs to understand the qualities of a good leader and to master practical leadership styles that empower you to become a confident people leader. Effective leadership is grounded in your understanding of powerful interpersonal skills that inspire performance, communication, team member retention, and motivation to achieve results. 
 
-Join us for the next Manager Challenge will run from **2022-02-07 to 2022-02-25**. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/78). **Currently, the program is being offered to GitLab team members only.**
+Join us for the next Manager Challenge that will run from **2022-02-07 to 2022-02-25**. If you are interested in participating in February, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/78). **Currently, the program is being offered to GitLab team members only.**
 
 ### Leadership Development Award   
 
@@ -35,7 +35,7 @@ All details relating to the next iteration of the Manager Challenge program can 
 
 ### Manager Challenge Learning Objectives
 
-You may be asking yourself what you will achieve by taking part in the Manager Challenge program! Our goal is that participants walk away with the following skills after completing the four-week challenge: 
+You may be asking yourself what you will achieve by taking part in the Manager Challenge program! Our goal is that participants walk away with the following skills after completing the three-week challenge: 
 
 - Improve your team performance by strengthening management skills
 - Develop a management style that incorporates a whole-person approach to leading others
@@ -110,10 +110,10 @@ Participants will also be asked to complete a program evaluation.
 ### Post Manager Challenge 
 
 Following the Manager Challenge, participants are encouraged to do the following: 
-- Join the `#manager-challenge-alumni` slack channel
-- Complete a Individual Growth Plan
-- Share learning's from the Manager Challenge on the [Manager Challenge alumni page](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/manager-challenge-alumni-page/)
-- Create a quarterly sync sessions to come together with cohort participants
+- Join the `#manager-challenge-alumni` [slack channel](https://app.slack.com/client/T02592416/C02PZ3E39C2)
+- Complete an [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#individual-growth-plan)
+- Share learnings from the Manager Challenge on the [Manager Challenge alumni page](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/manager-challenge-alumni-page/)
+- Create quarterly sync sessions to come together with cohort participants
 - Attend the post-program office hours on 2022-04-07
 
 **Sessions/Async Activites:**
