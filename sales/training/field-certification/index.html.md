@@ -16,9 +16,9 @@ To improve sales efficiency & predictability with a consistent and scalable cust
 
 The Certifications will align to the customer journey and the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute customer engagements.
 
-Note: This certification program is different from resources like other GitLab certifications that focus on how to _use GitLab_ or tied to GitLab competencies (though we encourage field team members to take these as well)! 
-- [GitLab Certifications](/handbook/people-group/learning-and-development/certifications/)
-- [GitLab Technical Certifications](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/)
+Note: This certification program is different from resources like other GitLab certifications that focus on how to _use GitLab_ or tied to GitLab competencies (though we encourage field team members to take these as well)!
+- [All GitLab Certifications](/learn/certifications/)
+- [Publicly available GitLab Certifications](/learn/certifications/public/)
 
 
 ### Purpose of the Field Certification Program
