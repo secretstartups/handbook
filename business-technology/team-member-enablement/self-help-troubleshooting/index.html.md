@@ -9,7 +9,7 @@ description: "Frequently asked questions for GitLab team members regarding 2FA, 
 The IT Support team will be taking off time over the holidays. There will be limited staff during days over the holday period, the schedule for days off over this period is below. If you have an urgent request, please reach out to us via slack in the #IT_Help channel
 
 North America : 
-- Limited staff between 24th December - 3rd January
+- Limited staff between 21th December - 3rd January
 
 EMEA : 
 - 24th December OFF
