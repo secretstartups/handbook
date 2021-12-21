@@ -217,7 +217,7 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
 <br>
 
 - **What if I have questions or issues?**
-   - Reach out in the #coupa_help Slack Channel.
+   - Reach out in the #coupa_help Slack Channel for assistance.
 
    
 {::options parse_block_html="false" /}
