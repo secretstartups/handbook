@@ -336,6 +336,35 @@ Once disputed, an invoice can be Withdrawn from Dispute by Accounts Payable or V
 
 The invoice rejection process in Coupa allows the Accounts Payable team to make adjustments on invoices before restarting approvals, continuing approvals or disputing the invoice back to the supplier. This is an internal status that suppliers cannot see indicating that an approver or approval group rejected the invoice. Comments are required when rejecting an invoice - please provide as much detail/information as possible.
 
+#### Manually Entering a Bill (invoice) in NetSuite
+
+Please note the below steps reference how to manually enter bills into NetSuite.  Effective 2019-11-01 all AP invoices should be getting processed through Tipalti and Effective 2021-06-01 we will begin to process in Coupa as well. These 2 systems will automatically record the transaction into NetSuite after the invoice has been approved by the corresponding business partner in the respective system.
+
+1. On the NetSuite home page, click the “+” icon near the global search bar at the top of the screen and select “Bill."
+1. Select the appropriate vendor record. 
+<div class="panel panel-success">
+**If adding a new vendor, follow the bullets below before proceeding, otherwise skip to step 3**
+{: .panel-heading}
+<div class="panel-body">   **.
+- Enter the company name, email address, applicable subsidiary, physical address, payment terms, primary currency, and Tax ID. (Note that the address field is located under the "Address" tab, while the Tax ID, primary currency, and payment terms fields are located under the "Financial" tab)
+- Enter the banking information in the "Comments" field then click “Save.”
+- Go to the "+" icon at the top of the vendor record and select "Bill" from the dropdown box.
+</div>
+</div>
+
+1. Enter Bill date. The due date should auto-fill based on payment terms entered during vendor setup. If not, select the correct due date and update the vendor record after the bill has been entered and saved.
+1. Enter Bill number.
+1. Go to the "Expense and Items" tab below to enter the expense details.
+1. Select appropriate GL-account under the "Account" dropdown box. (Be sure to check whether the invoice represents a prepaid expense, fixed asset, etc.)
+1. Enter Bill amount.
+1. Select tax code, if applicable.
+1. Enter department. (This must be entered if the account you selected in step 6 is an expense account)
+1. Add attachments: Go to the "Communication" tab and find the "Files" subtab.
+1. Click "New File.” A new window will appear, allowing you to select the file you wish to attach.
+1. In the new window, select the "Attachments Received" folder in the dropdown box, then click "Choose File" to attach both a copy of the vendor bill and email approval. (The supporting email approval must be attached along with a copy of the invoice)
+1. Click "Save.”
+1. In Google Drive, file invoice in the “Entered” folder for that entity.
+
 ###  Payment Process
 
 **Billable Expenses**
@@ -424,23 +453,41 @@ Please refer to GitLab's [Expense Policy](/handbook/finance/expenses/) for furth
 
 ### Team Member Reimbursements - Expensify
 
-**Processing Expensify Reports**
+#### Processing Expensify Reports
 
-1. Expensify will auto sync and record expense reports into NetSuite once the report is "final approved".  "Final approved" means it has been approved by the team member's manager and completed an audit review by a accounts payable analyst or our external contractor, Montgomery Pacific (Montpac).
+1. Expensify will auto sync and record expense reports into NetSuite once the report is "final approved".  "Final approved" means it has been approved by the team member's manager and completed an audit review by an Accounts Payable analyst or our external contractor, Montgomery Pacific (Montpac).
 1. Accounts payable will do a daily check to ensure all reports which are "final approved" are successfully synced.  If any errors arise, AP will work out the errors until the report syncs into NetSuite.
 
-**Paying Expensify Reports**
+#### Billable Expenses
 
-1. Team members in a US expense policy will be automatically reimbursed through Expensify after their report is "final approved" within 1-4 business days.  Once an team member is reimbursed, Expensify will auto sync the payment to the record to close the report as paid. This will feed into NetSuite to show paid as well. 
-1. All other team members who are not paid directly through Expensify, payroll and/or a 3rd party vendor will be paid directly through GitLab's Accounts Payable (AP) department with the normal weekly payment run as long as their report was "final approved" no later than EOD Tuesday of that same week.  Any report "final approved" on Wednesday to Friday of that week will be reimbursed the following week.  Once an employee is reimbursed, AP will create the payment in NetSuite against the record to close the report as paid. These reports will be paid through Tipalti (an AP payment processing tool).
+- If you have an expense report that can be billed back to a customer please make sure to check the "billable" flag in Expensify along with tagging the customer name under the "customer" field in Expensify.
 
-**Paying Expensify Reports in Tipalti**
+#### Paying Expensify Reports
 
-1. AP will send the team member an auto generated email from Tipalti with instructions on how to onboard.  Only after a team member onboards themselves in Tipalti will payments be issued. Any team memebers hired after 2019-11-01 will be sent onboarding requests upon hire and/or upon first submission of an expense report.
+1. Team members in a US expense policy will be automatically reimbursed through Expensify after their report is "final approved" within 1-4 business days.  
+    - The team member must set up their bank account in Expensify.
+    - Once an team member is reimbursed, Expensify will auto sync the payment to the expense record to mark the report as reimbursed. 
+    - This will feed into NetSuite to show the bill as fully paid as well. 
+1. Team memebers in a country paid through PEO will also receive expense reimbursement through their same payroll PEO payments each month.
+    - **Please Note:**  The timing of reimbursement can vary if you are being reimbursed directly from payroll, CXC, SafeGuard, Global PEO, Remote and/or iiPay.
+    - More information on the timing of payouts can be found [here](https://about.gitlab.com/handbook/finance/expenses/#reimbursement-process-and-timeline)
+1. All non-US GitLab entities will be reimbursed through their respective payroll provider or paid directly through GitLab's Accounts Payable (AP) department with the normal weekly payment run.
+    - Expense report must have been "final approved" no later than EOD Tuesday of that same week.  
+    - Any report "final approved" on Wednesday to Friday of that week will be reimbursed the following week.  
+    - Once an employee is reimbursed, AP will create the payment in NetSuite against the record to close the report as paid. 
+    - AP will manually mark the expense reports as "Reimbursed" in Expensify once they are confirmed to the payroll provider or batched to Tipalti.
 
-Please Note:  The timing of reimbursement can vary if you are being reimbursed directly from payroll, CXC, SafeGuard, Global PEO, Remote and/or iiPay
+##### Paying Expensify Reports in Tipalti
 
-**Accounts Payable Analyst Performance Indicators - Expenses**
+**Entites included: GmbH, BV, PTY LTD, Ireland, IT BV and GK.**
+
+1. AP will send the team member an auto generated email from Tipalti with instructions on how to onboard.  
+    - Only after a team member onboards themselves in Tipalti will payments be issued. Payee profile will show as "Payable".
+    - Any team memebers hired after 2019-11-01 will be sent onboarding requests upon hire and/or upon first submission of an expense report.
+
+**Further details on the Expense reimbursement process can be found [here](https://about.gitlab.com/handbook/finance/expenses/#-expense-reimbursement)**
+
+#### Accounts Payable Analyst Performance Indicators - Expenses
 
 1. Average days to action <= 3 business days
 
@@ -453,21 +500,22 @@ Please Note:  The timing of reimbursement can vary if you are being reimbursed d
 
 ### Travel and Expense Guidelines
 
-**Spend reduction**
+#### Spend reduction
 
 When reducing spend, we will not take the easy route of (temporarily) reducing discretionary spending.
 Discretionary spending includes expenses like travel, conferences, gifts, bonuses, merit pay increases and summits.
 By reducing in these areas we put ourselves at risk of [increasing voluntary turnover among the people we need most](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-–-soda’s-are-no-longer-free/).
+
 Discretionary spending is always subject to questioning, we are frugal and all spending needs to contribute to our goals.
 But, we should not make cuts in reaction to the need to reduce spend; that would create a mediocre company with mediocre team members.
 Instead, we should do the hard work of identifying positions and costs that are not contributing to our goals.
 Even if this causes a bit more disruption in the short term, it will help us ensure we stay a great place to work for the people who are here.
 
-**Non-Reimbursable Expenses**
+### Non-Reimbursable Expenses
 
 In order to purchase goods and services on behalf of the company, you should first [consult the Signature Authorization Matrix](/handbook/finance/authorization-matrix/) to determine the approval requirements. Note that this **does not** include travel expenses and other incidentals. These expenses should be self-funded then submitted for reimbursement within Expensify, or in the case of independent contractors, included in invoices to the company (per the guidelines above).
 
-If approval is not required, then proceed and send the invoice to Accounts Payable: *ap@gitlab.com*. If approval is required, create a confidential issue in the [Finance Issue Tracker](https://gitlab.com/gitlab-com/finance) and tag the required functional and financial approvers. Most importantly, the team member making the purchase request is ultimately responsible for final review and approval of the invoices. Final review and approval are critical process controls that help ensure we do not make erroneous payments to vendors. All original invoices and payment receipts must be sent to Accounts Payable.
+If further approval is not required, then proceed to the Procurement ["What are you buying" page](https://about.gitlab.com/handbook/finance/procurement/#-what-are-you-buying) for further instructions on the purchasing process at GitLab. Once those procedures are complete, have your vendor send their invoice to Accounts Payable: *ap@gitlab.com*.  Most importantly, the team member making the purchase request is ultimately responsible for final review and approval of the invoices. Final review and approval are critical process controls that help ensure we do not make erroneous payments to vendors. All original invoices and payment receipts must be sent to Accounts Payable.
 
 ### Creation of Expense Tags
 
@@ -483,7 +531,7 @@ If you would like to track spend for a particular campaign, project and/or event
 1. Under subsidiaries highlight GitLab Inc and check the box that states "Include in Children"
 1. Save
 
-Expensify will auto-sync any new "expense tags" on a daily basis, but if the Expensify admin wants to manually sync they can by following these steps:
+Expensify will auto-sync any new "expense tags" on a daily basis, but if the Expensify admin wants to manually sync they can do so by following these steps:
 
 **Import new Classes/Tags In Expensify:**
 1. Go to the Admin page and click on the *Policies* tab.
@@ -501,13 +549,19 @@ GitLab team-members carrying company cards in their name are required to submit 
 
 Card transactions are auto-imported into Expensify which then auto-generates the expense reports to match that of the American Express statements. Below you will find directions on how to sign up for an American Express account and submit these expenses in accordance with company policy.
 
-**Creating an American Express account**
+#### Creating an American Express account
 
 Once you receive your card, [register the card in the American Express portal.](http://www.americanexpress.com/confirmcard)
 
-**Submitting company credit card expenses**
+#### Submitting company credit card expenses
 
-On a daily basis, Expensify will auto-generate an expense report and leave the report open until it is submitted.  You can submit your report(s) on a regular basis but need to ensure that all are submitted no later than the 3rd business day following the statement end date.  Please help to ensure you are submitting all expenses which corresponds to the American Express statement period.  Accounting will send out a reminder email informing you of the statement period and due date of when the report(s) need to be submitted by.  Before submitting any expense report you must ensure the following:
+On a daily basis, Expensify will auto-generate an expense report and leave the report open until it is submitted.  You can submit your report(s) on a regular basis but need to ensure that all are submitted **no later than the 3rd business day following the statement end date**.  
+
+Please help to ensure you are submitting all expenses which corresponds to the American Express statement period.  
+
+Accounting will send out a reminder email informing you of the statement period and due date of when the report(s) need to be submitted by.  
+
+**Before submitting any expense report you must ensure the following:**
 
 **1. Coding expenses**
 - In some cases, Expensify reports will show payment processor names (i.e. Stripe, PayPal) rather than the actual payee merchant, making it difficult to identify charges. This can be resolved by downloading your Amex statement from the portal, which contains greater detail.
@@ -538,10 +592,11 @@ Please see the [GitLab entities listing in the Handbook] (https://gitlab.com/git
 
 ### Contribute Costs and other key expenses
 
-**Marketing Campaign Expenses**
+#### Marketing Campaign Expenses
+
 Please see the [campaign expense guidelines in the Marketing handbook](/handbook/marketing/marketing-sales-development/marketing-operations/#campaign-cost-tracking).
 
-**GitLab Contribute Cost Tracking**
+#### GitLab Contribute Cost Tracking
 (Previously GitLab Summit)
 Tracking expenses for company Contributes enables us to analyze our spend and find opportunities to iterate, and in turn, improve subsequent Contributes. To enable tracking we create an expense tag that will allow GitLab team-members to tag Contribute related expenses in Expensify. This should be done prior to the announcement of each Contribute.
 
@@ -554,7 +609,7 @@ Property, plant and equipment is the long-term asset or noncurrent asset section
 
 ### Acquisition and Capitalization
 
-**Capital Assets Policy**
+#### Capital Assets Policy
 
 **Purpose**
 This policy establishes the minimum cost (capitalization amount) used to determine the capital assets recorded in GitLab's financial statements.
