@@ -31,6 +31,8 @@ GitLab’s preferred method of payment for suppliers is electronic funds transfe
 
 ## How to request a Virtual Card
 
+Please either follow the below instructions or view the [Requesting a Virtual Card](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr1PNe_Ycz0x4G5aizUPDbM) video.
+
 There are two different scenarios for Virtual Cards:
   - **Scenario A:** Supplier paid by Virtual Card for one time purchase or emergency payment **(most common request)**
   - **Scenario B:** Supplier permanently paid by Virtual Card
@@ -212,5 +214,10 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
    - We may or may not be able to accommodate your urgent request based on the risk and bandwidth available.
    - If you have a critical request, **enter the request into Coupa 1-2 weeks prior to needing approval** to avoid needing escalation.
 
+<br>
 
+- **What if I have questions or issues?**
+   - Reach out in the #coupa_help Slack Channel for assistance.
+
+   
 {::options parse_block_html="false" /}
