@@ -11,13 +11,13 @@ title: Learning & Development Newsletter
 
 ## Overview
 
-This page covers the process our Learning and Development (L&D) team follows for creating the quarterly L&D Newsletter! 
+This page covers the process our Learning and Development (L&D) team used for creating the quarterly L&D Newsletter! 
 
-To see currently availble editions of our L&D Newsletter, see our [Learning Culture]() page. 
+To see past editions of our L&D Newsletter, see the [Past Newsletters](/handbook/people-group/learning-and-development/newsletter/#past-newsletters) section below. 
 
 ## Newsletter Process 
 
-The newsletter is live **on the first Wednesday of each Quarter.**  
+The L&D Team is no longer creating new newsletters. For five quarters starting FY21-Q4, the newsletter went live on the first Wednesday of each Quarter.  
 
 We build the newsletter in an issue in the [Learning & Development Newsletter project](https://gitlab.com/gitlab-com/people-group/learning-development/newsletter). The process for the issue includes: 
 - The issue for the upcoming newsletter is opened at least three weeks before the publish date. 
