@@ -38,7 +38,7 @@ With the LinkedIn Learning app, team members can download audio-only versions of
 
 #### Walk and Learn Goals
 
-1. 20 team members will complete 1 walk and talk session and post in the #walk-and-talk Slack channel during the month of April 2021
+1. 20 team members will complete 1 walk and learn session and post in the #walk-and-learn Slack channel during the month of April 2021
 1. Average time spent on LinkedIn Learning by team members in April will reach 1.4 hour target
 
 #### Here's how you can participate:
