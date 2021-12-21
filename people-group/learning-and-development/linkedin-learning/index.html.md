@@ -29,7 +29,7 @@ You can take time to learn about something that will help you in your current ro
 
 ### Walk and Learn
 
-With the LinkedIn Learning app, team members can download audio-only versions of courses and take learning on the go. We're piloting a new initiative during the month of April 2021 encouraging team members to take learning with them while they walk.
+With the LinkedIn Learning app, team members can download audio-only versions of courses and take learning on the go. We piloted a new initiative during the month of April 2021 encouraging team members to take learning with them while they walk. 
 
 #### Why should you try a Walk and Learn?
 
