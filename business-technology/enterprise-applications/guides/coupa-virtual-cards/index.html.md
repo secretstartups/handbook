@@ -214,5 +214,10 @@ If you are a Marketing team member that uses Allocadia to submit Coupa requisiti
    - We may or may not be able to accommodate your urgent request based on the risk and bandwidth available.
    - If you have a critical request, **enter the request into Coupa 1-2 weeks prior to needing approval** to avoid needing escalation.
 
+<br>
 
+- **What if I have questions or issues?**
+   - Reach out in the #coupa_help Slack Channel.
+
+   
 {::options parse_block_html="false" /}
