@@ -92,7 +92,7 @@ To create a new learning pathway and to add that pathway to GitLab Learn, start 
 | Implement changes on handbook based on L&D feedback | 3 weeks prior to launch |
 | Complete [Learning Evangelist training](https://gitlab.edcast.com/pathways/ECL-f9be1e50-ba17-46b3-af33-731d19b3ffcd) in GitLab Learn | 3 weeks prior to launch |
 | First iteration of conent upload to GitLab Learn | 2 weeks prior to launch |
-| [Peer review](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/admin/#peer-review-content-before-publishing) or L&D review of content in GitLab Learn | 1 week prior to launch |
+| [Peer review](/handbook/people-group/learning-and-development/gitlab-learn/admin/#peer-review-content-before-publishing) or L&D review of content in GitLab Learn | 1 week prior to launch |
 | Make final edits based on peer review | 1 week prior to launch |
 | Launch your course | approx. **5 weeks** after opening the `new_pathway` issue with the L&D team |
 
@@ -102,24 +102,5 @@ To create a new learning pathway and to add that pathway to GitLab Learn, start 
 Teams might be interested in integrating external training platforms and resources into GitLab Learn. Integrating these trainings into GitLab Learn can be a great way to keep learning resources for team members in one place and to track completions.
 
 To start looking into the potential of integrating an external learning source into GitLab Learn, start by opening an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `external_learning_content` template. All steps should be outlined on this template.  
-
-
-### Request content review
-
-The process for L&D content review is being built.
-
-**Timeline and expectations**
-
-Timeline and expectations for this type of request are currently a WIP.
-
-
-
-### Request new content creation or L&D support
-
-The process for requesting content from L&D is being built.
-
-**Timeline and expectations**
-
-Timeline and expectations for this type of request are currently a WIP.
 
 
