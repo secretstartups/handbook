@@ -108,7 +108,7 @@ There are two ways to cancel a Virtual Card issued on PO - canceling or hard clo
 
 <br>
 
-If you have questions or need help, please reach out in the coupa_ap Slack channel.
+If you have questions or need help, please reach out in the **coupa_ap** Slack channel.
 
 
 {::options parse_block_html="false" /}
