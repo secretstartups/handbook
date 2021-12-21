@@ -46,7 +46,7 @@ We have four separate trainings, but you only need to complete **one** of them. 
 1. Create a password
 1. You may be sent a link via email to verify your account
 1. Once you have logged in successfully, you will be taken to the course you selected. 
-   1. You can use the navigation bar at the top right-hand side of the screen for volume and screen settings. To the left and right of the center screen, you should see this symbol: > which you can click on to move forward and back through the training.
+   - You can use the navigation bar at the top right-hand side of the screen for volume and screen settings. To the left and right of the center screen, you should see this symbol: > which you can click on to move forward and back through the training.
 1. Once completed, please log into BambooHR and upload a copy of your certificate in the *Employee Uploads* folder (Under the "My Info" tab, navigate to the "Documents" tab and click the Upload button).
 1. You may also keep a record of the certificate for your own files. To create the certificate, click on *view* in the course title, scroll down to *users* then click on *completion certificates* to download the PDFs. 
 
