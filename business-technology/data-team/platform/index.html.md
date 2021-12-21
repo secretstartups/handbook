@@ -627,7 +627,7 @@ This is all orchestrated in the Data Pump [Airflow DAG](https://airflow.gitlabda
 | pump_hash_marketing_contact | Marketo | 24h | No | 
 | pump_marketing_contact | Marketo | 24h | No |
 | pump_marketing_premium_to_ultimate | Marketo | 24h | No | 
-| pump_subscription_product_usage | Salesforce 24h | No |
+| pump_subscription_product_usage | Salesforce | 24h | No |
 | pump_product_usage_free_user_metrics_monthly | Salesforce | 24h | No |
 
 ## <i class="fas fa-toggle-on" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Data Spigot
