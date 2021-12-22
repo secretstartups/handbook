@@ -138,8 +138,9 @@ GitLab has a growing [resource](/handbook/people-group/learning-and-development/
 **What's coming in FY23:**
 - New Manager Bootcamp
 - Coaching Pilot 
-- LifeLabs Learning Pilot
+- [LifeLabs Learning Pilot](/handbook/people-group/learning-and-development/learning-initiatives/#lifelabs-learning)
 - Managing at GitLab Course
+- Leadership Development Job Family
  
 ### Self-Paced Learning 
 
