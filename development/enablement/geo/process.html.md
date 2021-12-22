@@ -236,20 +236,24 @@ Expectations:
 
 #### Bug Triage Schedule
 
-| Month | Name |
-| ----- | ---- |
-| January 2021 | @mkozono |
-| December 2021 | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
-| November 2021 | @vsizov |
-| October 2021 | @ibaum |
-| September 2021 | @aakriti.gupta |
-| August 2021 | @vsizov |
-| July 2021 | @mkozono |
-| June 2021 | @dbalexandre |
-| May 2021 | @mkozono |
-| April 2021 | @dbalexandre |
-| March 2021 | @mkozono |
-| February 2021 | @alexives |
+| Month     | Name |
+| -------   | ---- |
+| April     | @ibaum |
+| March     | @cat |
+| February  | @dbalexandre |
+| January   | @mkozono |
+| **2021**  |      |
+| December  | @dbalexandre |
+| November  | @vsizov |
+| October   | @ibaum |
+| September | @aakriti.gupta |
+| August    | @vsizov |
+| July      | @mkozono |
+| June      | @dbalexandre |
+| May       | @mkozono |
+| April     | @dbalexandre |
+| March     | @mkozono |
+| February  | @alexives |
 
 ## Retrospectives
 
