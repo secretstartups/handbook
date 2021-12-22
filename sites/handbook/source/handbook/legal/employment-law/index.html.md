@@ -60,7 +60,7 @@ Below are some common employment topics where Legal is asked to provide input. T
 
 ### ABCs of Employment Law
 
-This is a non-exhaustive list of a few employment compliance matters that you should be aware of and keep in mind when communicating with candidates and team members as well as making hiring decisions. This is _not_ meant to serve as a complete guide, but as a reminder that there are an abundance of employment compliance matters that we must adhere to and to highlight the importance of careful communication. 
+This is a non-exhaustive list of a few employment compliance matters that you should be aware of and keep in mind when communicating with candidates and team members as well as making any sort of employment-related decisions. This is _not_ meant to serve as a complete guide, but as a reminder that there are an abundance of employment compliance matters that we must adhere to and to highlight the importance of careful communication. 
 
 <details>
   <summary markdown="span">Age</summary>
