@@ -57,3 +57,130 @@ Below are some common employment topics where Legal is asked to provide input. T
 **Policy development.** Legal should be asked to perform a final review when policies are updated or created.
 
 **Contract negotiations.** In the event that a customer or vendor has questions regarding terms that affect our team members (such as drug tests or more intensive background checks), the Contract team will reach out to the Employment team.
+
+### ABCs of Employment Law
+
+This is a non-exhaustive list of a few employment compliance matters that you should be aware of and keep in mind when communicating with candidates and team members as well as making hiring decisions. This is _not_ meant to serve as a complete guide, but as a reminder that there are an abundance of employment compliance matters that we must adhere to and to highlight the importance of careful communication. 
+
+<details>
+  <summary markdown="span">Age</summary>
+  Pretty universally across our jurisdictions we cannot make employment decisions (hiring, performance management, termination) because of a person’s age.
+</details>
+
+<details>
+  <summary markdown="span">Background Checks</summary>
+We run background checks on all candidates who have reached the background check phase of the interview process; however, the type of information we can request, or what we can do with the information we receive, depends on the rules of the country.
+</details>
+
+<details>
+  <summary markdown="span">Contracts</summary>
+For most people, the terms and conditions of employment depends on what’s in the employment contract.
+</details>
+
+<details>
+  <summary markdown="span">Discrimination</summary>
+Universally we do not discriminate based on protected characteristics such as age, race, color, religion, national origin, gender, or disability.
+</details>
+
+<details>
+  <summary markdown="span">Employer of Record</summary>
+GitLab has team members across the globe.  In some locations where we do not directly employ team members through a GitLab entity, we use Professional Employer Organizations such as Remote.com and Global Upside to serve as our Employer of Record.
+</details>
+
+<details>
+  <summary markdown="span">Family</summary>
+Generally, all jurisdictions have various leave laws that protect time you need to spend with family members, such as parental leave or sick leave to care for qualifying family members. Our [handbook](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) includes information on statutory entitlements for team members in our entity locations.
+</details>
+
+<details>
+  <summary markdown="span">GDPR (General Data Protection Regulation)</summary>
+Privacy laws also limit the amount of information we can collect on our team members, including sensitive personal information.
+</details>
+
+<details>
+  <summary markdown="span">Harassment</summary>
+Please review our [Anti-Harassment Policy](https://about.gitlab.com/handbook/anti-harassment/) to ensure that no team member should ever feel as if they are being harassed.
+</details>
+
+<details>
+  <summary markdown="span">Interactive Process</summary>
+This is the process that we must engage in to determine if someone needs an accommodation for a medical or religious reason. Please note it’s a two way street. Transparency is important to ensure that we come up with the best possible solution.
+</details>
+
+<details>
+  <summary markdown="span">"I was just joking!"</summary>
+This is never a defense to a claim of any sort of harassment.  
+</details>
+
+<details>
+  <summary markdown="span">Keeping Personnel Information Confidential</summary>
+We keep this information in BambooHR and only those with certain access rights based on their particular job functions have access to the information.
+</details>
+
+<details>
+  <summary markdown="span">Leave</summary>
+Please check our [handbook](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#introduction) for all the different types of paid and unpaid leave available based on your jurisdiction.  This requires transparency and letting our leave administrator know the reason for leaving so that we can track it appropriately.  As a company we have tracking obligations, and you may have entitlements you didn’t know you had available to you.
+</details>
+
+<details>
+  <summary markdown="span">Military</summary>
+There are certain leave protections for various forms of military service.  Check the handbook.
+</details>
+
+<details>
+  <summary markdown="span">National Origin</summary>
+This is another protected characteristic.  We don’t make decisions based on someone’s national origin.
+</details>
+
+<details>
+  <summary markdown="span">On Call</summary>
+Work rules vary for team members across our organization based on their location.  Some jurisdictions have limitations on the overall number of hours worked, some have limitations on the particular days worked, etc.
+</details>
+
+<details>
+  <summary markdown="span">PTO</summary>
+At GitLab, we have a Don’t Ask, Do Tell policy, but we ask that you do be transparent and intentional about the time that you take and that you monitor your team members to ensure (1) that they’re taking enough time, (2) that coverage still exists when they take the time, and (3) that if they are taking what seems to be excessive time, you find out why.  It could be that they have a reason that they actually need to take leave.
+</details>
+
+<details>
+  <summary markdown="span">Quid Pro Quo</summary>
+This is a special kind of harassment as defined by US law.  It basically means “you scratch my back and I’ll scratch yours.” This is not an arrangement that you should ever present to another team member, nor should it ever be presented to you.
+</details>
+
+<details>
+  <summary markdown="span">Retaliation</summary>
+We don’t retaliate against anyone who has engaged in protected activity.
+</details>
+
+<details>
+  <summary markdown="span">Sexual Harassment</summary>
+Harassment takes all forms based on any number of protected characteristics (age, gender, race, national origin, religion, etc.).  Sexual harassment is a particular form based on harassment due to someone’s gender.
+</details>
+
+<details>
+  <summary markdown="span">Team Member Relations</summary>
+Our team that investigates concerns about team member performance, conduct, etc.  It’s also the team that reviews accommodation requests. TMR works in conjunction with Legal and the PBP’s when employment decisions must be made.
+</details>
+
+<details>
+  <summary markdown="span">Unpaid Leave</summary>
+There may be times someone needs to go on unpaid leave.  This will be handled by our Absence Management team.
+</details>
+
+<details>
+  <summary markdown="span">Vaccine</summary>
+We have to watch all the rulings around the globe to come up with as simple and safe a policy and process as possible with regard to vaccine mandates.
+</details>
+
+<details>
+  <summary markdown="span">Whistleblower</summary>
+Our [EthicsPoint hotline](http://gitlab.ethicspoint.com/) is available should anyone have a complaint that they wish to raise anonymously.
+</details>
+
+<details>
+  <summary markdown="span">Generation X, Y, and Z </summary>
+Generation X, Y, and Z, and even some Boomers, are all in the workforce together.  We all give and take feedback differently, work differently, and have different expectations.  Managers have to be aware of these generational differences and manage accordingly. 
+</details>
+
+
+
