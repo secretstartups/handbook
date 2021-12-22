@@ -12,7 +12,6 @@ title: Transitioning to a manager role
 ### Transitioning to a manager role
 
 Your first few months as a manager at GitLab can be exhilarating. They can also be challenging, especially when you need to quickly identify what is important for your success.
-
 Some of the challenges you might face are:
 
 * Navigating changing relationships
@@ -51,13 +50,13 @@ There are many more challenges that you could face as a new manager. The goal of
 
 As a manager, you can lead your team to learn, grow and succeed. Following their progress and acknowledging their development can be the most rewarding aspect of your work. As issues arise, you can lean on a support network and receive guidance from experienced colleagues. This support consists of recurring Managers' coffee chats, dedicated slack channels, training modules, templates, leaders/mentors, and People Ops Business Partners all ready to answer questions and provide you with guidance.
 
-The **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)** is a launchpad, and it can connect you with crucial information about being a manager at GitLab. This issue is created automatically during the [career mobility process](https://about.gitlab.com/handbook/people-group/promotions-transfers/#career-mobility-issue-creation-process), however, you can also assign it to yourself (Please ensure you use your legal name in the title). It is designed to ensure you start your journey as a manager with all the resources training available.  This checklist will evolve as we iterate upon it and continue to build this program. Your contributions as a new manager are essential, please submit a merge request with ideas for improvement.
+The **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)** is a launchpad, and it can connect you with crucial information about being a manager at GitLab. This issue is created automatically during the [career mobility process](/handbook/people-group/promotions-transfers/#career-mobility-issue-creation-process), however, you can also assign it to yourself (Please ensure you use your legal name in the title). It is designed to ensure you start your journey as a manager with all the resources training available.  This checklist will evolve as we iterate upon it and continue to build this program. Your contributions as a new manager are essential, please submit a merge request with ideas for improvement.
 
 If you have questions as you work your way through this checklist please ask them in [#managers](https://gitlab.slack.com/messages/C5Z55R5J5/details/) Slack channel.
 
 ## Becoming a GitLab Manager Issue Retrospective
 
-An important task is to create a retrospective thread within the Becoming a GitLab Manager issue, so that the team member can log any questions, comments, proposals and more about their issue. Retrospectives are used in many ways at GitLab, such as which are used after GitLab product [releases](/handbook/communication/#release-retrospectives-and-kickoffs) and describing the Product [retrospective workflow](/handbook/engineering/workflow/#retrospective). For the Becoming a GitLab Manager issue, simply comment in the issue, starting a thread titled **Retro thread** or **Retrospective**. Feel free to please ask any questions in the [#managers](https://gitlab.slack.com/messages/C5Z55R5J5/details/) Slack channel.
+An important task is to create a retrospective thread within the Becoming a GitLab Manager issue, so that the team member can log any questions, comments, proposals and more about their issue. Retrospectives are used in many ways at GitLab, like after a GitLab product [release](/handbook/communication/#release-retrospectives-and-kickoffs) based on the Product [retrospective workflow](/handbook/engineering/workflow/#retrospective). For the Becoming a GitLab Manager issue, simply comment in the issue, starting a thread titled **Retro thread** or **Retrospective**. Feel free to please ask any questions in the [#managers](https://gitlab.slack.com/messages/C5Z55R5J5/details/) Slack channel.
 
 #### Coaching remote work practices
 
