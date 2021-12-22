@@ -124,7 +124,7 @@ as the reason for a longer expiration.
 
 When building and publishing Gems for GitLab, be sure to add [`gitlab-qa`](https://rubygems.org/profiles/gitlab-qa) to the
 [Gem Owners](https://guides.rubygems.org/managing-owners-using-ui), to ensure that the gem doesn't end up orphaned or
-unable to be published for any reason.
+unable to be published for any reason. In addition, be sure to follow the [gem development documents](https://docs.gitlab.com/ee/development/gemfile.html#gitlab-created-gems). 
 
 You can additionally add some, or all of the following as co-owners, and other
 relevant developers as well:
