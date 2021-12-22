@@ -11,11 +11,17 @@ title: "SRE Onboarding"
 
 ## Onboarding Template
 
-SRE onboarding is mostly handled by an
-[issue template](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/onboarding_template.md)
-that is assigned to the SRE when they start. This will guide them
-through different areas of the system, starting  off with some simple
+SRE onboarding is mostly handled by two issue templates:
+
+1. [Machine setup](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/onboarding_machine_setup.md)
+1. [Gather context](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/onboarding_gather_context.md)
+
+These are assigned to the SRE when they start. This will guide them
+through different areas of the system, starting off with some simple
 tasks and help both the SRE and the SRE manager through various access issues.
+
+There is a third issue template for [oncall onboarding](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/oncall_onboarding.md), 
+which should be completed after the first two and will probably take at least 3 months from the start date to complete.
 
 ## GitLab.com Infrastructure Management
 
