@@ -262,36 +262,36 @@ We do have a few fields within Allocadia which have a different name on the fron
 
 ## Integrations (behind the scenes)
 
-### GitLab Procurement issues
+### GitLab Field Marketing issues 
+An efficiency we are able to gain by using Allocaida is that we create a GitLab issue and can push information gathered in the details panel directly to that issue. This saves the marketer time in not having to reenter information which has already been entered. 
 
-You have the ability to create a GitLab procurement issue directly from Allocadia for a given line item. You will not be creating from category or subcategory lines as we need the expense to match the Vendor and the issue approvals.
+#### How to create a FMM issue from within Allocadia 
+All FMM issues are created at the `SUB CATEGORY` level. 
 
-[Here is a video walk through](https://youtu.be/6yDttqjRWoM) on how to create a procurement issue for vendor contracts.
-As we move to Coupa, we will be changing this to be a Create PO button instead.
+By creating the FMM issue at the sub category level, this still allows the marketer flexibility in terms of how they want to strucure their activity plan. 
 
-For Field Marketing, the reviewer/approver will click into the linked Allocadia line item and will review the impact modeller there, as well as have the ability to click into the Marketing issue from your line item, so you will not need to address the ROI question in the issue template. You will however, need to address the justification question on if you're requesting to spend more than $500 per MQL in the procurement issue.
+Another way to think about this is that everything under the sub category should align to the same campaign tag to be created. 
 
-More information on the [campaign tag creation](/handbook/marketing/field-marketing/#field-marketing-campaign-tags) can be found on the FMM handbook page.
+This functionality is in the process of being built out, so more details will be added as soon we have more information!  
 
-You may also create a procurement issue for software & that video will be forthcoming.
+#### FM issues that can be created from Allocadia
 
-#### Procurement issues that can be created from Allocadia
+1. TBD on if we add all templates here 
+1. 
+1. 
+1. 
 
-1. Vendor Contracts Marketing Events
-1. Software Vendor Contract Requests
-1. General Vendor Requests
+#### Making changes to the Field Marketing issues
 
-#### Making changes to the Procurement issues
+If you find yourself needing to update a procurement issue template for any of the issues above - please [submit an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) for the Marketing Operations team, as this must be done through our Allocadia CSM.
 
-If you find yourself needing to update a procurement issue template for any of the issues above - please [submit an issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for the Marketing Strategy & Performance team, as this must be done through our Allocadia CSM.
+#### Wrong issue template was pushed...what now?
 
-#### Wrong procurement issue template was pushed...what now?
-
-If you've hit the GitLab Procurement issue template button and the wrong issue template has been created, not to fear! Someone with owner or admin rights to your folder can assist you. To determine who has owner or admin rights to your folder from the home screen you would find your folder, click in the `Users` column that person icon with (number), from there, you see a list of people who have access + their rights. Search until you find `Owner` or `Administrator` and then slack that person in the #mktg-budget-holders slack room. [Video walk through](https://youtu.be/PwbWpt3pMX4) (must be logged into GitLab Unfiltered!).
+If you've hit the GitLab issue template button and the wrong issue template has been created, not to fear! Someone with owner or admin rights to your folder can assist you. To determine who has owner or admin rights to your folder from the home screen you would find your folder, click in the `Users` column that person icon with (number), from there, you see a list of people who have access + their rights. Search until you find `Owner` or `Administrator` and then slack that person in the #mktg-budget-holders slack room. [Video walk through](https://youtu.be/PwbWpt3pMX4) (must be logged into GitLab Unfiltered!).
 
 ### SalesForce.com (SFDC)
 
-As mentioned above, there is a listing of available FY22 SFDC campaigns to choose from in the detail panel. Once the initial connection has been made between Allocadia and SFDC on a given campaign, Allocadia will push over all the fields that have been completed in the details panel. In addition, we will be sending over forecast amounts into the SFDC Campaign Budget field as it gets updated. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget. Keep this in mind when considering which line to map to a SFDC campaign: it does not matter which one you decide to use (line, category or subcategory). It's up to the user to figure out their folder structure and determine the highest level ID that houses all the information.
+As mentioned above, there is a listing of available FY23 SFDC campaigns to choose from in the detail panel. Once the initial connection has been made between Allocadia and SFDC on a given campaign, Allocadia will push over all the fields that have been completed in the details panel. In addition, we will be sending over forecast amounts into the SFDC Campaign Budget field as it gets updated. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget. Keep this in mind when considering which line to map to a SFDC campaign: it does not matter which one you decide to use (line, category or subcategory). It's up to the user to figure out their folder structure and determine the highest level ID that houses all the information.
 
 When a category or sub-category ID is used, the SFDC Campaign will be auto-tagged to all the line items within that category or sub-category.
 
@@ -321,9 +321,9 @@ Via an integration of Allocadia and Coupa, Marketers are able to create a Coupa 
 
 #### Prerequisites and Notes
 
-* The vendor/supplier must be in Coupa in active status to submit a Coupa req through Allocadia. If you need to process a new supplier request, please follow instructions [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier).
+* The vendor/supplier must be in Coupa in active status to submit a Coupa req through Allocadia. If you need to process a new supplier request, please follow instructions [here](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier).
 * Coupa reqs are created on the line item level and cannot be created in a category or sub-category.
-* Make sure your line item panel details are completed and you have a cost associated with your line item.
+* Make sure your line item panel details are completed and you have a plad AND forecasted cost associated with your line item.
 * There should only be 1 Coupa req per supplier. If you are submitting a multi line item req, you cannot add lines from a different supplier. The line items you create in your req should ultimately match the line items in the invoice the supplier provides.
 
 #### Steps to Submitting a Coupa Req through Allocadia
