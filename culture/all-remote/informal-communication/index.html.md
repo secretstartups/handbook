@@ -237,9 +237,11 @@ If you have any questions please reach out to the [Staff EBA to the CEO](https:/
 
 ### The Donut Bot
 
-Team members can join the #donut_be_strangers Slack channel to be paired with a random team member for a coffee chat. The "Donut" bot will automatically send a message to two people in the channel every other Monday.
+Team members can join the `#donut_be_strangers` Slack channel to be paired with a random team member for a coffee chat. The ["Donut" bot](https://www.donut.com/) will automatically send a message to two people in the channel every other Monday.
 Please schedule a chat together, and Donut will follow up for feedback.
-Of course, you can also directly reach out to your fellow GitLab team members to schedule a coffee chat in the #donut_be_strangers Slack channel or via direct message.
+You can also directly reach out to your fellow GitLab team members to schedule a coffee chat in the `#donut_be_strangers` Slack channel or via direct message.
+
+_In the year 2020, Donut reported 537 people connected through 2042 coffee chats at GitLab, compared to 367 chats in similar-sized companies._
 
 ### GitLab Team Member Mixer Calls
 Similar to a coffee chat, a "[Gitlab Team Member](/handbook/communication/top-misused-terms/) Mixer" call aims to help team members meet more folks from other groups or functions that they might not otherwise get to spend a lot of time working or interfacing with.
