@@ -205,6 +205,11 @@ Additional planning and notes around the sprint board can be found in [this issu
 - Consider using the `new-initiative` issue template when planning a new learning initiative, engagement program, or program idea
 - Consider using the `content-scoping` issue template when proposing a new pathway, creating a new course, or building any new learning experience
 
+
+### L&D handbook merge requests
+
+If you want the wider L&D team to be aware of your MR, please apply the `ld-handbook-update` label to the MR. This will trigger a Zapier automation that posts the MR title and link to the #learning-team Slack channel.
+
 ## Developing Learning Content
 
 ### Top Five Training Content Development Principles
