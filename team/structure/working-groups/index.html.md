@@ -122,6 +122,7 @@ If you are interested in participating in an active working group, it is general
 * [Architecture Kickoff](/company/team/structure/working-groups/architecture-kickoff/)
 * [Category Leadership](/company/team/structure/working-groups/category-leadership/)
 * [China Service](/company/team/structure/working-groups/china-service/)
+* [Contribution Efficiency](/company/team/structure/working-groups/contribution-efficiency)
 * [Database Scalability](/company/team/structure/working-groups/database-scalability/)
 * [Event Stream](/company/team/structure/working-groups/event-stream/)
 * [Expense Management](/company/team/structure/working-groups/expense-management/)
