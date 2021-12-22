@@ -53,8 +53,19 @@ There are several different scenarios for Virtual Cards:
 ## Allocadia suppliers to be paid permanently by Virtual Card
 
 AP will be tagged on the requisition requesting the permanent Virtual Card SPA set up for the supplier. 
-- Follow Step 1 - 5 for above **Scenario B** to create the SPA.
-- Step 6. After the new SPA is active and the Supplier Name has been edited in the requisition cart, update **Comments** section of the requisition stating the permanent Virtual Card has been created.
+- Follow Step 1 - 4 for above **Scenario B** to create the SPA. Note that the requisition will already be submitted with the actual supplier, AP just needs to set up the VC SPA.
+- Step 5. After the new SPA is active update **Comments** section of the requisition stating the permanent Virtual Card has been created.
+
+
+<div class="panel panel-danger">
+**NOTE ON TIMING**
+{: .panel-heading}
+<div class="panel-body">
+
+**The Virtual Card SPA must be created BEFORE the requisition has been fully approved in order to generate the SPA to the requester.**
+
+</div>
+</div>
 
 <br>   
 
@@ -108,7 +119,7 @@ There are two ways to cancel a Virtual Card issued on PO - canceling or hard clo
 
 <br>
 
-If you have questions or need help, please reach out in the **coupa_ap** Slack channel.
+If you have questions or need help, please reach out in the **#coupa_help or #accounts_payable** Slack channel.
 
 Review Coupa [PO Payments](https://success.coupa.com/Support/Docs/Core_Apps/Coupa_Pay/Virtual_Card_for_POs/!PO_Payments) for additional information.
    
