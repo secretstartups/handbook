@@ -221,6 +221,10 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [OSH - Netherlands](https://www.arboineuropa.nl/en/arbo-in-the-netherlands/)
 * [Health and Safety at Work - Netherlands](https://business.gov.nl/regulation/health-safety-work/)
 
+### Finland
+* [Mehiläinen Occupational Health Service Provider](https://drive.google.com/file/d/19_K1NZHqXXrYrY0Nt5LDWxTKBT3iA7o7/view?usp=sharing)
+* [OmaMehiläinen mobile application and online service.](https://drive.google.com/file/d/1Uev0iTR-gDHpFYgYdBr6PH-UWvcCyJkh/view?usp=sharing)
+
 </details>
 
 <details>
