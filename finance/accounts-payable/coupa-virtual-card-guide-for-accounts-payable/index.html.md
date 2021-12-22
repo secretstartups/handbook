@@ -121,7 +121,7 @@ There are two ways to cancel a Virtual Card issued on PO - canceling or hard clo
 
 If you have questions or need help, please reach out in the **#coupa_help or #accounts_payable** Slack channel.
 
-Review Coupa [PO Payments](https://success.coupa.com/Support/Docs/Core_Apps/Coupa_Pay/Virtual_Card_for_POs/!PO_Payments) for additional information.
+For additional information, please review Coupa [PO Payments](https://success.coupa.com/Support/Docs/Core_Apps/Coupa_Pay/Virtual_Card_for_POs/!PO_Payments).
    
 
 
