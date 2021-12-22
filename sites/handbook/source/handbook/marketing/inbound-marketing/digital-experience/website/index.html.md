@@ -620,7 +620,7 @@ When creating new pages to list subsets of our learning resources, you should ma
 
 This markdown code generates a list of courses in from learn.yml filtering for only courses tagged with the use_case of "Continuous Integration". 
 
-```markdown
+```erb
 <% data.learn.learn.select{|course| course.use_case == "Continuous Integration"}.sort_by(&:name).each do |course| %>
 <%= "- [#{course.name}](#{course.url})" %>
 <% end %>
@@ -630,7 +630,7 @@ This markdown code generates a list of courses in from learn.yml filtering for o
 
 This markdown code generates a table from learn.yml with only those courses tagged as a certification and as available to the public. This code generates the table on our [Public GitLab Certifications](https://about.gitlab.com/learn/certifications/public/) page.
 
-```markdown
+```erb
 | Use Case | Certification | Level |
 | --- | --- | --- |
 <% data.learn.learn.select{|course| course.assessment == "Certification" && course.confidentiality == "Public" && course.live_date && Date.parse(course.live_date) <= Date.today}.each do |course| %>
@@ -641,7 +641,7 @@ This markdown code generates a table from learn.yml with only those courses tagg
 **List of learning materials by use case in table form**
 You can see the source code on [this page](/learn/use-case/public/) for an example on how to build a page with headers based on the classification.yml file and then for each header (use case in this case) build a table with the relevant course data. 
 
-```markdown
+```erb
 <% data.learn.classification["use-case"].categories.each do |use_case| %>
 <% course_list = data.learn.learn.select{|course| course.use_case == use_case.name && course.confidentiality == "Public" && course.live_date && Date.parse(course.live_date)} %>
 <% next if course_list.empty? %>
