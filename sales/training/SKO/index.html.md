@@ -19,6 +19,20 @@ This event sets the tone for the GitLab field organization for the new fiscal ye
 # Sales Kickoff 2022
 GitLab SKO 2022 will take place from February 7-11, 2022 in National Harbor, MD USA at the [Gaylord National Resort & Convention Center](https://www.marriott.com/en-us/hotels/wasgn-gaylord-national-resort-and-convention-center/overview/) (just under 10 miles south of Washington, DC).
 
+## Do you need a Visa Invitation Letter for SKO 2022?
+
+If you are **employed via a GitLab entity**, please follow the process below.
+   1. Fill out this [form](https://forms.gle/8r934fWiYATmCP8k9)
+   1. Within minutes, you should receive an email to your inbox with a PDF visa letter attached.
+
+If you are a **contractor**, please follow the process below.
+   1. Fill out this [form](https://forms.gle/uNViiMt1A6h6Q6SK8)
+   1. Within minutes, you should receive an email to your inbox with a PDF visa letter attached.
+
+If you are **employed via a PEO**, you will need to reach out to your PEO to receive this letter. All PEOs have been given a template for them to use for this purpose.
+
+If you have any further questions regarding a visa invitation letter, please reach out in `#people-connect`.
+
 This page will be updated as additional details are confirmed.
 
 ----
