@@ -185,8 +185,8 @@ Every SRE should register for a “Light Agent” account in ZenDesk. Often time
 ## PTO by Roots
 
 We use PTO by Roots to notify and delegate for planned timeoff. When setting up your integrations with Slack,
-be sure to run the `/pto-roots settings` command and add the team's shared Google Calendar
-(ID: `gitlab.com_oji6dki1frc8g8qq9feuu1jtd0@group.calendar.google.com`) as an "Additional Calendar".
+be sure to run the `/pto-roots help` command then click _Go to Home Tab_ then in the drop-down select _Calendar Sync_ then _Add Calendar_ to add the team's shared Google Calendar
+(ID: `gitlab.com_oji6dki1frc8g8qq9feuu1jtd0@group.calendar.google.com`) as an "Additional calendars to include?".
 
 ## Suggested Software Tools
 
