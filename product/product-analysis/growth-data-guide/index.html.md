@@ -219,7 +219,19 @@ _Group namespace-level invites. More details on invite data [below](/handbook/pr
 - Copy/paste `[growth_data_group_namespace_invites]` into your Sisense report.
 - Copy/paste [SQL code](https://gitlab.com/gitlab-data/periscope/-/blob/periscope/master/snippets/growth_data_group_namespace_invites/growth_data_group_namespace_invites.sql) to customize query within your Sisense report.
 
+**Dashboards:**
+
+The [Invite Acceptance Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/922565/Invite-Acceptance-Dashboard) 
+is a good jumping-off point for working with this data. It leverages the more granular snippet 
+detailed below, [growth_data_group_namespace_invites_w_metadata].
+- Note: this dashboard is in the SAFE space. Instructions on how to request access [here](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#accessing-a-safe-dashboard)
+
 **Granularity:** One record per invited user per namespace (one record per `member_id`)
+
+Since the grain is at the member level, there can be multiple records per user (one for each 
+namespace they have been invited to) and multiple records per namespace (one per invited user). 
+Please be careful of this when `JOIN`ing to other tables! You need to join on both the `user_id` 
+and the `namespace_id` to avoid potential errors or duplicate records.
 
 **Dependencies:** Snippet includes `[growth_data_namespaces]` snippet
 
@@ -235,7 +247,7 @@ _Group namespace-level invites. More details on invite data [below](/handbook/pr
 **Fields**
 
 - `namespace_id`
-- `namespace_created_at` (timestamp)
+- `namespace_created_at`: Timestamp of namespace creation
 - `namespace_visibility_level`
 - `user_id`
 - `member_id`: Identifier unique to the user and namespace
@@ -246,10 +258,13 @@ automatically granted)
 (unless explicitly set by inviter)
 - `invite_success_at`: Timestamp that user joined the namespace (either via invite acceptance 
 or access granted)
-- `user_created_at`
-- `invited_user_type`: `'NEW'` (user did not have GitLab account at time of invite) or `'EXISTING'` (user had GitLab account at time of invite)
-- `invite_status`: `'INVITE_ACCEPTED'`, `'ACCESS_GRANTED'`, '`INVITE_EXPIRED'`, `'INVITE_PENDING'`
-- `invite_was_successful`
+- `user_created_at`: Timestamp of user creation
+- `invited_user_type`: `'NEW'` (user did not have GitLab account at time of invite) or 
+`'EXISTING'` (user had GitLab account at time of invite)
+- `invite_status`: Current status of invite: `'INVITE_ACCEPTED'`, `'ACCESS_GRANTED'`, 
+'`INVITE_EXPIRED'`, `'INVITE_PENDING'`
+- `invite_was_successful`: Denotes whether user successfully joined namespace 
+(`'INVITE_ACCEPTED'` or `'ACCESS_GRANTED'`)
 
 **Automatic Filters**
 
@@ -275,16 +290,21 @@ LIMIT 5
 **Snippet with additional metadata**
 
 There is another version of this snippet, [`[growth_data_group_namespace_invites_w_metadata]`](https://gitlab.com/gitlab-data/periscope/-/blob/periscope/master/snippets/growth_data_group_namespace_invites_w_metadata/growth_data_group_namespace_invites_w_metadata.sql), 
-which includes the following additional fields
+which includes the following additional fields:
 
 - `invite_created_rnk`: Order of invites created
 - `invite_accepted_rnk`: Order of invites accepted (does not include access granted use case)
 - `invite_success_at`: Order of successful invites (either accepted or access granted)
-- `days_from_namespace_created_to_invite_created`
-- `days_from_namespace_created_to_invite_accepted`
-- `days_from_namespace_created_to_invite_success`
-- `days_from_invite_created_to_accepted`
-- `days_from_invite_created_to_success`
+- `days_from_namespace_created_to_invite_created`: Count of days between namespace creation and 
+invite creation
+- `days_from_namespace_created_to_invite_accepted`: Count of days between namespace creation and 
+invite acceptance (does not include access granted use case)
+- `days_from_namespace_created_to_invite_success`: Count of days between namespace creation and 
+invite success (either accepted or access granted)
+- `days_from_invite_created_to_accepted`: Count of days between invite creation and invite 
+acceptance (does not include access granted use case)
+- `days_from_invite_created_to_success`: Count of days between invite creation and invite 
+success (either accepted or access granted)
 
 **Additional details**
 
@@ -464,11 +484,11 @@ Notable columns:
 * `user_id`: Unique identifier of invited user
 * `source_id`: Unique identifier of namespace/group/project user is invited to (ex: `namespace_id`)
 * `member_source_type`: Type of entity user is invited to (`'Namespace'` or `'Project'`)
-* `invite_created_at` timestamp of invite created
+* `invite_created_at` Timestamp of invite creation
   * Populated for all invites, even if they fall into the "access granted" use case
 * `invite_accepted_at`: timestamp of invite acceptance
-  * Only populated when invited user needed to take action to accept. This column is `NULL` for 
-  the "access granted" use case
+  * Only populated when the invited user needed to take action to accept the invite. This column 
+  is `NULL` for the "access granted" use case
 
 **[legacy.gitlab_dotcom_memberships](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_memberships)**
 
