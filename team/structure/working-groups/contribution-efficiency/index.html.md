@@ -1,4 +1,4 @@
----
+r4ew43---
 layout: markdown_page
 title: "Contribution Efficiency"
 description: "Implement key business iterations that results in substantial and sustained increases to community contributors & contributions"
@@ -45,12 +45,13 @@ Implement key business iterations that results in substantial and sustained incr
 
 ### Roles and Responsibilities
 
-| Working Group Role    | Person                                               | Title                            |
-|-----------------------|------------------------------------------------------|----------------------------------|
-| Executive Sponsor     | [Mek Stittri](https://gitlab.com/meks)               | VP of Quality                    |
-| Facilitator           | [David Planella](https://gitlab.com/dplanella)       | Director of Community Relations  |
-| Functional Lead       | [Kyle Wiebers](https://gitlab.com/kwiebers)          | Engineering Manager, Engineering Productivity |
-| Functional Lead       | [Christos Bacharakis](https://gitlab.com/cbacharakis)| Senior Code Contributor Program Manager |
-| Functional Lead       | [Nuritzi Sanchez](https://gitlab.com/nuritzi)        | Senior Open Source Program Manager |
-| Member                | [Nailia Iskhakova](https://gitlab.com/niskhakova)    | Senior Software Engineer in Test, Enablement:Distribution |
-| Member                | [Tanya Pazitny](https://gitlab.com/tpazitny)         | Director of Quality Engineering |
+| Working Group Role    | Person                                               | Title                                                      |
+|-----------------------|------------------------------------------------------|------------------------------------------------------------|
+| Executive Sponsor     | [Mek Stittri](https://gitlab.com/meks)               | VP of Quality                                              |
+| Facilitator           | [David Planella](https://gitlab.com/dplanella)       | Director of Community Relations                            |
+| Functional Lead       | [Kyle Wiebers](https://gitlab.com/kwiebers)          | Engineering Manager, Engineering Productivity              |
+| Functional Lead       | [Christos Bacharakis](https://gitlab.com/cbacharakis)| Senior Code Contributor Program Manager                    |
+| Functional Lead       | [Nuritzi Sanchez](https://gitlab.com/nuritzi)        | Senior Open Source Program Manager                         |
+| Member                | [Nailia Iskhakova](https://gitlab.com/niskhakova)    | Senior Software Engineer in Test, Enablement:Distribution  |
+| Member                | [Tanya Pazitny](https://gitlab.com/tpazitny)         | Director of Quality Engineering                            |
+| Member                | [Matija Čupić](https://gitlab.com/matteeyah)         | Fullstack Engineer, Contributor Success                    |
