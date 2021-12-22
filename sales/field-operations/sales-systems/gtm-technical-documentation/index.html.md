@@ -159,15 +159,17 @@ Code Units:
  * This alias is used by our Compensation Team and should be used to reach out to them regarding, splits, compensation etc. as it pertains to specific opportunities.
 * `@Partner-Ops`
  * This alias is used by our Partner Operations team and should be used to reach out to them - Link to their business section coming soon
+* `MktgOps-Support`
+ * This alias is used by our Marketing Operations team and should be used to reach out to them - Link to their business section coming soon
  
 **Steps to add a Group:**
 * Do to limitations with Salesforce much of the minor updates must be implemented manually in production
-* Create a Chatter Group with the alias that you want the end users to be able to chatter in Salesforce (In Production)
-* Create a Queue that will own the Case until it is automatically switched into a user's name who will work the case. (Changeset)
-  * Review Queue member and email options with requester
-* Update the `ChatterFeedCommentClass` and the `ChatterFeedItemClass` to monitor for the use of the Chatter Group in chatters within Salesforce (Changeset)
-* Update the `CaseClass` to include the new groups Id so that it updates the case owner what ownd by this queue.
-* Add a picklist value to the `Origin` field on the case object (In Production)
+* (In Production:Pre Deployment) Create a Chatter Group with the alias that you want the end users to be able to chatter in Salesforce.
+* (In Production:Pre Deployment) Add a picklist value to the `Origin` field on the case object
+* (Changeset) Update the `ChatterFeedCommentClass` and the `ChatterFeedItemClass` to monitor for the use of the Chatter Group in chatters within Salesforce
+* (Changeset) Update the `CaseClass` to include the new groups Id so that it updates the case owner what ownd by this queue.
+* (Changeset) Create a Queue that will own the Case until it is automatically switched into a user's name who will work the case.
+* (In Production: Post Deployment) Review Queue member and email options with requester
  
 **Related Epic**
 * [@Sales-Ops Case Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/7)

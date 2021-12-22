@@ -110,6 +110,7 @@ The programs below are available to Sales Assisted **digital-only customers who 
 | Monthly Webinar Invitations     | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/37)   | Sent monthly dependent on event date                     |
 | Post Churn Survey (SMB Only)             | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/293)    | Opportunity marked Closed-Lost, Active Subscription = 0 |
 | CI Usage Trigger Program        | Enablement  | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/190) | <20% Utilization of CI and not in time-based CI campaign                                       |
+| Low License Utilization (SMB Only)    | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/114)    | License Utilization less than 75%, customer since 90-150 days |
 
 The programs below are available to Web Direct **digital-only** customers and sent to the `Latest Sold To` contact.
 
@@ -130,8 +131,8 @@ The programs below are available to **TAM-assigned accounts** only.
 
 | Program                               | Category   | Content  | Recipients                              |
 |---------------------------------------|------------|----------|-----------------------------------------|
-| Intro to GitLab CS    | Onboarding | [Copy doc](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) | When a customer is first assigned a TAM |
-| AE <> TAM Introduction (not yet live) | Onboarding | [Copy doc](https://docs.google.com/document/d/14k1h_f4d51GjwS9HzAJ6iOzebBu4aEgETfSQwUA-MME/edit?usp=sharing) | When a customer is first assigned a TAM |
+| Intro to GitLab CS + Onboarding   | Onboarding | [Copy doc](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) | When a customer is first assigned a TAM |
+| AE <> TAM Introduction  | Onboarding | [Copy doc](https://docs.google.com/document/d/14k1h_f4d51GjwS9HzAJ6iOzebBu4aEgETfSQwUA-MME/edit?usp=sharing) | When a customer is first assigned a TAM |
 | Monthly Newsletters*                  | Enablement | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)    | Sent monthly on Fridays                 |
 | NPS/CSAT Post-Onboarding Survey*      |            | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Customer since = 60 days                |
 | NPS/CSAT Pre-Renewal Survey*          |            | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Next renewal date = 120 days            |

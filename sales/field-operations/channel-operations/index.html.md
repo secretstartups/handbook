@@ -415,7 +415,7 @@ For more information on quoting or the Partner Program, please visit:
 ## Channel Approvals
 Channel Approvers for opportunities are based on the Opportunity Owner’s User Region. Whenever an approver changes, an [issue must be opened with Sales Systems](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new?issue%5Bmilestone_id%5D=) to replace the old approver with the new. Current channel approvers can be seen in our [channel approver matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.jxrpmpixprez). 
 
-If an approver will not be able to approve opportunities due to PTO or some other reason, they must assign a delegate in SFDC to approve opportunities on their behalf. 
+If an approver will not be able to approve opportunities due to PTO or some other reason, they must [assign a delegate](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#reassign-quote-approvals) in SFDC to approve opportunities on their behalf. 
 
 ## Partner Help Desk Support and Communication
  
