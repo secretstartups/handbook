@@ -29,7 +29,7 @@ If you plan to participate in the Manager Challenge, please discuss with your ma
 
 Make the program part of your [career development](/handbook/people-group/learning-and-development/career-development/), and include in your [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources-1).
 
-L&D is making some significant changes to the program in the meantime, but expect to dedicate 1 hour (daily challenges) to and 1.5 hours (live learnings) each day during the program. Some participants, request additional time to complete the async activities so please plan accordingly. You must attend and/or complete at least 80% of the activities to be awarded a certification. 
+L&D is making some significant changes to the program in the meantime, but expect to dedicate at least **five to seven hours per week**. Some participants, request additional time to complete the async activities so please plan accordingly. You must attend and/or complete at least 80% of the activities to be awarded a certification. 
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
@@ -50,6 +50,14 @@ Below is a video L&D recorded with Sid on manager enablement:
 </figure>
 <!-- blank line -->
 
+## Measuring success
+
+L&D measures the success of the Manager Challenge by the following: 
+1. Number of promotions and/or lateral transfers of participants in the Manager Challenge
+2. Manager satisfaction scores in the Engagement survey
+3. Growth & Development scores in the Engagement survey
+4. Learner satisfaction from program evaluation
+5. Percentage of participant goals achieved 
 
 ## February Program Schedule
 
