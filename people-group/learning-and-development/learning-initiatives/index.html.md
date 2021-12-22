@@ -252,8 +252,6 @@ Learning campaigns use a combination of GitLab issues and Slack announcements to
 
 ## LifeLabs Learning
 
-## LifeLabs Learning
-
 [LifeLabs Learning](https://lifelabslearning.com/) will be piloting their [Manager Core 1](https://drive.google.com/file/d/1MJmxjrMSSCq3lWOOks-vMnzdzPucI0jp/view) and [Manager Core 2](https://drive.google.com/file/d/1f0HhqBfGn1lnaYSMHcYYqauwyOkNHS0R/view) program to a group of ten managers. L&D plans on rolling out more management training courses with LifeLabs in 2023. If interested in partcipating reach out in the `#learninganddevelopment` channel and follow along in `#lifelabs-learnin-pilot` 
 
 ## CEO Handbook Learning Sessions
