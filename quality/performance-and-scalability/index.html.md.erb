@@ -28,7 +28,7 @@ discussions related to the Reference Architectures.
 | Users      | Status            | Link to more info                                                                                                                                                         |
 |------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1k         | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/1k_users.html)                                                                          |
-| 1k hybrid  | In Progress (Q4)  | [Issue link](https://gitlab.com/gitlab-org/quality/reference-architectures/-/issues/19)                                                                                   |
+| 1k hybrid  | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/1k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts)                                                                                   |
 | 2k         | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/2k_users.html)                                                                          |
 | 2k hyrbid  | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/2k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative)  |
 | 3k         | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/3k_users.html)                                                                          |
@@ -58,7 +58,7 @@ please take a look at the documentation in the
 More detailed information about the current test list that is run by GPT
 can be viewed at the [Test Details wiki page](https://gitlab.com/gitlab-org/quality/performance/wikis/current-test-details).
 
-### Testing Process
+### Test Process
 
 The GitLab Performance Tool is run against the existing reference architectures using
 the latest Nightly release of GitLab. This allows us to catch and triage degradations early in
@@ -72,23 +72,12 @@ High-level GPT pipeline overview:
 - Report job: publishes results to [GPT Wiki](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/Latest) and [`#qa-performance`](https://gitlab.slack.com/archives/CH8J9EG49) Slack channel
 - Stop job: [stops](https://cloud.google.com/compute/docs/instances/stop-start-instance) the target environment instances to save costs
 
-### Testing Results
+#### Test Results
 
-The latest results against our various testing environments are automatically posted to
-[a wiki page in the Performance project](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/Latest)
-and [`#qa-performance`](https://gitlab.slack.com/archives/CH8J9EG49) Slack channel.
+Information on the testing results can be found over on the
+[Reference Architecture documentation](https://docs.gitlab.com/ee/administration/reference_architectures/#testing-process-and-results).
 
-| Environment                                                                             | GCP project                                                                         | Load                                                                 | Schedule                                                                                | Latest results and server metrics                                                           |
-|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| [1k](https://docs.gitlab.com/ee/administration/reference_architectures/1k_users.html)   | [1k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-1k-0917a1)   | API: 20 RPS, Web: 2 RPS, Git (Pull): 2 RPS, Git (Push): 1 RPS        | [Every weekday](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules) | [1k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/1k)   |
-| [2k](https://docs.gitlab.com/ee/administration/reference_architectures/2k_users.html)   | [2k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-2k-ca9f9e)   | API: 40 RPS, Web: 4 RPS, Git (Pull): 4 RPS, Git (Push): 1 RPS        | [Every weekday](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules) | [2k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/2k)   |
-| [3k](https://docs.gitlab.com/ee/administration/reference_architectures/3k_users.html)   | [3k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-3k-d0c40c)   | API: 60 RPS, Web: 6 RPS, Git (Pull): 6 RPS, Git (Push): 1 RPS        | [On Mondays](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules)    | [3k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/3k)   |
-| [5k](https://docs.gitlab.com/ee/administration/reference_architectures/5k_users.html)   | [5k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-5k-0ee8fa)   | API: 100 RPS, Web: 10 RPS, Git (Pull): 10 RPS, Git (Push): 2 RPS     | [On Mondays](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules)    | [5k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/5k)   |
-| [10k](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html) | [10k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-10k-cd77c7) | API: 200 RPS, Web: 20 RPS, Git (Pull): 20 RPS, Git (Push): 4 RPS     | [Every weekday](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules) | [10k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/10k) |
-| [25k](https://docs.gitlab.com/ee/administration/reference_architectures/25k_users.html) | [25k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-25k-bc38fe) | API: 500 RPS, Web: 50 RPS, Git (Pull): 50 RPS, Git (Push): 10 RPS    | [On Mondays](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules)    | [25k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/25k) |
-| [50k](https://docs.gitlab.com/ee/administration/reference_architectures/50k_users.html) | [50k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-50k-193234) | API: 1000 RPS, Web: 100 RPS, Git (Pull): 100 RPS, Git (Push): 20 RPS | [On Mondays](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules)    | [50k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/50k) |
-
-### Performance results comparison of different GitLab versions
+#### Performance results comparison of different GitLab versions
 
 Every month on the 23rd a comparison [pipeline](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules/39211/edit)
 is triggered that provides peformance results comarison table of the last 5 GitLab versions.
