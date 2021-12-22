@@ -184,6 +184,10 @@ If a supplier is exclusively paid by credit card, please see [How to Request a C
 - d) Attachments _(required)_<br>
    - Add as many attachments as needed: Unsigned Contract, Previous Contracts and Security Documents.
    - After uploading the documentation, check the "supplier" box if any specific document needs to be shared with the supplier.
+
+If an invoice is attached, it will also need to be emailed to **ap@gitlab.com** for processing.
+{: .alert .alert-warning}
+
 - e) Vendor has access to red/orange data? _(required)_<br>
    - If the requestor is unsure about the type of data, tag the `@security` and `@procurement` groups in a comment before submitting the requisition for approval.
    - Requisitions can be saved for later.
