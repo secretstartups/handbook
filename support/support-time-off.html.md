@@ -187,4 +187,7 @@ that happened while you were away:
   - [#company-fyiprivate](https://gitlab.slack.com/archives/C02E7JGBU4E)
   - [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/C0259241C)
 
-Also, consider some tips for [returning from pto](https://about.gitlab.com/handbook/paid-time-off/#returning-from-pto).
+Consider setting up a few coffee chats with team-mates to simply reconnect with them. You can also ask your team-mates who haven't taken PTO while you were out, during coffee chats or pairing sessions, to mention a thing or two that you might have missed.
+
+For more tips, check [returning from pto](https://about.gitlab.com/handbook/paid-time-off/#returning-from-pto). 
+
