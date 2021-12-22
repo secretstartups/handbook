@@ -26,7 +26,7 @@ the following labels receive the appropriate attention from Support:
 * `License Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/license_troubleshooting.html)
 * `Plan Change Request` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#plan-change-requests)
 * `SaaS Subscription Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html)
-* `Self Managed Trial Extension and Temporary License Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials)
+* `Self Managed Trial Extension or Temporary License Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials)
 * `Trial CI Minutes Issue` - Workflow instructions on template
 
 When on this role, prioritize working on internal request issues over Zendesk tickets.

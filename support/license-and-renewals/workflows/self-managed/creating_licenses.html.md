@@ -26,6 +26,7 @@ To re-issue a license:
 1. Modify the values you need. Be careful not to change the `Customer` field.
 1. In the `Notes` field, describe why you're issuing this license and add a link
    to the Zendesk ticket or GitLab issue for the request if applicable.
+      - If working on a Gitlab issue, add the label `Manually Generate Trial License` (for trials) or `Manually Generate License`.
 1. Click **Save**
 
 The license should be emailed out immediately. Please note that a license should always be sent to the end user. Do not email the license to a gitlab team member or a reseller.
@@ -34,6 +35,19 @@ When an existing license isn't available to duplicate, instead select,
 `Add New Offline License` and fill in all of the above mentioned fields, along with the
 Zuora subscription ID and Zuora subscription name.
 
-### Trial license
+### Trial or Temporary license
 
-You can follow the same process as re-issuing a license. **NOTE** you need to ensure that you have checked the **trial** checkbox when creating the license. You also do not need to link a Zuora or Salesforce account if you do not have it.
+A few important points to note are:
+
+- Support tries as much as possible to refrain from issuing non-trial licenses.
+- All internal requests for a Temporary key or Trial Extension should issue a trial license.
+- For trial licenses that have the `Expiry Date` more than 30 calendar days from the Start date, a manager approval is required.
+Add the `Manager Approval::Required` label to the issue and ping the requester asking them to ask for approval from their manager.
+- It is fine to set the `Users in license` number to what is needed.
+- You can follow the same process as re-issuing a license. 
+- You need to ensure that you have checked the **trial** checkbox when creating the license. 
+- You also do not need to link a Zuora or Salesforce account if you do not have it.
+
+**NOTE** Starter trial licenses have been deprecated. 
+
+For Starter trial requests, let the requester know that we can issue either Premium or Ultimate trial licenses. You can tag a support manager to get approval to create a non-trial Starter license with the expiry date set to 14 days before the requested expiry. This ensures that the 14 day grace period is used up in the extension request.
