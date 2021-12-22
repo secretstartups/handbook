@@ -19,14 +19,15 @@ There is a internal requests hawk role which rotates on a weekly basis which
 serves as a temporary measure to make sure internal requests tagged with
 the following labels receive the appropriate attention from Support:
 
+* `Activate Trial Runners issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/ci_minutes.html)
 * `Associate Subscription Console Escalation::Customers` - Workflow to be documented
-* `Billable Members` - Workflow instructions on template
 * `Console Escalation::Customers` - Workflow to be documented
-* `EULA` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/troubleshooting_eulas.html)
+* `GitLab.com Trial Extension Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials)
 * `License Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/license_troubleshooting.html)
-* `Plan Change Request` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/plan_change_requests.html)
-* `SaaS Subscription Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/license_troubleshooting.html#transactions)
-* `Trial Extension License issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials.html#extending-trials)
+* `Plan Change Request` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#plan-change-requests)
+* `SaaS Subscription Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html)
+* `Self Managed Trial Extension and Temporary License Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials)
+* `Trial CI Minutes Issue` - Workflow instructions on template
 
 When on this role, prioritize working on internal request issues over Zendesk tickets.
 The general workflow guide and best practices are:
