@@ -873,7 +873,7 @@ If you are interested in requesting Field Marketing's support for a particular i
 
 It is our goal to have planning for each qtr completed four (4) weeks before the next quarter starts. At this time, we have the following time line set for regional plans:
 
-- Q1 plan is due Jan 6
+- Q1 plan is due Jan 14
 - Q2 plan is due April 1, and this is no [April Fools](https://www.history.com/topics/holidays/april-fools-day) joke! ;)
 - Q3 plan is due July 1
 - Q4 plan is due Oct 1
@@ -882,16 +882,15 @@ A standard deck will also be used to ensure consistency across the world in term
 
 The SSOT of the plan remains in GitLab on our [various issue boards](/handbook/marketing/field-marketing/#whats-currently-scheduled-in-my-region).
 
-- [FY22 Standard deck](https://docs.google.com/presentation/d/1KNrUFwa7t2KKBRijamfuZvwaI4h3qVkXutUeEhR3qsI/edit#slide=id.g29a70c6c35_0_68).
+- [FY23 Standard deck](https://docs.google.com/presentation/d/1Py5x9bRC84YXYnvNCVjWdAEQy3YkgLcIP657jOujC_M/edit#slide=id.g29a70c6c35_0_68).
     - Note: The deck is additive. You are only responsible for completing the slides that are due for the quarter we are in.
-    - As the slides are due one (1) month before the end of the quarter, if you have a campaign/tactic that you want to highlight on the recap slide that has not been completed, please share this with your manager and propose a date when you will have that slide completed.
+    - As the slides are due one (1) month before the end of the quarter.
     - The completed deck should be stored in your correct regions [shared folder](https://drive.google.com/drive/folders/1xtePKOl4RSINaPPr3InQNisYTQyOJ5JE). Anyone within GitLab has access to search and find this folder.
-    - Your regional budget document should also be updated and accurate this time to allow our finance colleagues the ability to load our quarterly plans into their forecasting tool so we can run the budget vs. actuals monthly meeting.
 
 ## Field Marketing QBRs
 Shortly following the day that the regional plans are due, each region will hold its own QBR. The regional Manager of Field Marketing will be responsible for setting up this meeting and inviting the necessary team members. The point of the QBR is for the Field Marketing Manager to share their qtrly long plans with their SDR Manager colleagues, Field Marketing colleagues, and Field Marketing Leadership. This time together is meant to be informative and also educational to all who are attending.
 
-For the EMEA region, the regional Field Marketing Managers are invited to the respective regional sales QBRs to present their quarterly plan and numbers. Following our efficiency value, the EMEA Field Marketing QBR will be set to the first week of the quarter start to allow to have a complete quarter to review and to avoid having to update the presentation again for the sales QBRs. This does not change the due dates for the quarterly plan as agreed in the [planning section](/handbook/marketing/field-marketing/#field-marketing-planning).
+This deck should also be used to present the regional plans to the sales teams. 
 
 ### FMM QBR attendees
 
@@ -927,7 +926,6 @@ Details on how Field Marketing shares quarterly plans with the Digital team can 
 
 ### Asks into Portfolio Marketing 
 By the 15th of the 3rd month of the quarter, all asks for the Portfolio Marketing team for the upcoming quarter should be opened up for their review. Following their process outlined here. It's the responsibility of each FMM to ensure their asks are in by this time. The ~Field Marketing label must be added to the request in order for the PM team to review. We will use[this list](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues?label_name%5B%5D=Field+Marketing&label_name%5B%5D=sm_request&scope=all&sort=due_date&state=opened&utf8=%E2%9C%93) to review. 
-
 
 # Field Marketing/Channel Marketing Engagement and GTM Strategy
 
