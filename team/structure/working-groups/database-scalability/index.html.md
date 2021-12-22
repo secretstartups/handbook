@@ -170,12 +170,14 @@ It is important we settle on specific nomenclature. Currently, there is a fair a
 | Executive Stakeholder                    | Eric Johnson                    | Chief Technology Officer |
 | Functional Lead                          | Kamil Trzciński                 | Distinguished Engineer, Ops and Enablement (Development) |
 | Functional Lead                          | Jose Finotto                    | Staff Database Reliability Engineer (Infrastructure) |
-| Facilitator/DRI                                   | Craig Gomes                     | Sr. Engineering Manager, Datastore |
+| Facilitator/DRI                          | Craig Gomes                     | Sr. Engineering Manager, Datastore |
+| DRI - Ops Section                        | Sam Goldstein                   | Director of Engineering, Ops |
+| DRI - Infrastructure                     | Steve Loyd                      | VP of Infrastructure |
 | Member                                   | Gerardo "Gerir" Lopez-Fernandez | Engineering Fellow, Infrastructure |
 | Member                                   | Stan Hu                         | Engineering Fellow |
 | Member                                   | Andreas Brandl                  | Staff Backend Engineer, Database |
 | Member/CICD Data Model DRI               | Grzegorz Bizon                  | Staff Backend Engineer (Time-decay data `ci_builds` ) |
-| Member                          | Christopher Lefelhocz           | Cleaner |
+| Member                                   | Christopher Lefelhocz           | Cleaner |
 | Member                                   | Chun Du                         | Director of Engineering, Enablement |
 | Member                                   | Adam Hegyi                      | Senior Backend Engineer, Manage |
 | Member                                   | Tanya Pazitny                   | Quality Engineering Manager, Enablement & Secure |
