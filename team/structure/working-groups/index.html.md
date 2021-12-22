@@ -127,7 +127,6 @@ If you are interested in participating in an active working group, it is general
 * [Expense Management](/company/team/structure/working-groups/expense-management/)
 * [FedRAMP Execution](/company/team/structure/working-groups/fedramp-execution/)
 * [Frontend Observability](/company/team/structure/working-groups/frontend-observability/)
-* [Purchasing Reliability](/company/team/structure/working-groups/purchasing-reliability/)
 * [GitLab.com Disaster Recovery](/company/team/structure/working-groups/disaster-recovery/)
 * [GTM Product Analytics](/company/team/structure/working-groups/product-analytics-gtm/)
 * [IACV - Delta ARR](/company/team/structure/working-groups/iacv-delta-arr/)
@@ -139,10 +138,11 @@ If you are interested in participating in an active working group, it is general
 * [Multi-Large](/company/team/structure/working-groups/multi-large/)
 * [Object Storage](/company/team/structure/working-groups/object-storage/)
 * [Pipeline Validation Service Operations](/company/team/structure/working-groups/pipeline-validation-service-operations/)
-* [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
-* [SOX PMO](/company/team/structure/working-groups/sox/)
-* [Webpack (Frontend build tooling)](/company/team/structure/working-groups/webpack/)
 * [Product Career Development Framework](/company/team/structure/working-groups/product-career-development-framework/)
+* [Purchasing Reliability](/company/team/structure/working-groups/purchasing-reliability/)
+* [SOX PMO](/company/team/structure/working-groups/sox/)
+* [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
+* [Webpack (Frontend build tooling)](/company/team/structure/working-groups/webpack)
 
 ## Past Working Groups (alphabetic order)
 
