@@ -219,8 +219,36 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 
 ### Data Analyst
 
-### Analytics Engineer
+### Analytics Engineering
 
-### Data Engineer
+### Data Engineering
 
-### Data Scientist
+
+### Data Science
+
+#### What will you do
+
+At GitLab we believe in a full ownership of the work you do. During your data science internship you will closely work with one of the senior data scientists, who will help you to navigate in daily tasks. Some of the tasks include:
+
+- Requirements gathering
+- Extraction of data from various sources to support project’s objective
+- Analysing and visualising data
+- Building predictive models to solve classification, regression and clustering problems
+- Collaboration with stakeholders (including explaining technical concepts with non-technical language)
+
+#### Requirements
+
+- BS or MS in data-related fields (statistics, computer science, engineering), but self-learners are also welcome to apply
+- Working knowledge of SQL
+- Working knowledge of Python (we use Jupyter notebooks to analyse and visualise data)
+- Basic knowledge of dashboard tools (we use Sisense)
+- Understanding of machine learning algorithms including decision trees, gradient and regression models
+- Ability to communicate in English, including concise writing that summarises your work
+- Ability to work asynchronously - as a fully-remote company we have team members all around a globe with differing working hours
+- At least 1 completed data science project (Non-commercial projects done in a spare time also count)
+- Being proactive in a work you do, but also not afraid to ask questions
+- Nice to have
+     - Understanding of CRISP-DM framework
+     - Understanding of software industry
+
+
