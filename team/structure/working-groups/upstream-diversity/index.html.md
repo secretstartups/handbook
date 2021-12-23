@@ -47,15 +47,15 @@ Matching efforts will continue [here](/handbook/engineering/volunteer-coaches-fo
 
 ## Roles and Responsibilities
 
-| Working Group Role    | Person                    | Title                                                 |
-|-----------------------|---------------------------|-------------------------------------------------------|
-| Facilitator           | Roos Takken               | Engineering People Business Partner                   |
-| Member                | Candace Byrdsong Williams | Diversity, Inclusion and Belonging Manager            |
-| Member                | Mo Khan                   | Senior Backend Engineer, Secure:Composition Analysis  |
-| Member                | Christian Couder          | Senior Backend Engineer Gitaly                        |
-| Member                | Greg Myers                | Support Engineer                                      |
-| Member                | Rebecca Spainhower        | Support Engineering Manager                           |
-| Member                | Edmond Chan               | Senior Solutions Architect                            |
-| Member                | Amy Phillips              | Engineering Manager, Delivery                         |
-| Member                | Melissa Ushakov           | Sr. Product Manager, Manage::Access                   |
-| Executive Stakeholder | Eric Johnson              | Chief Technology Officer                                    |
+| Working Group Role    | Person                    | Title                                                         |
+|-----------------------|---------------------------|-------------------------------------------------------------- |
+| Facilitator           | Roos Takken               | Engineering People Business Partner                           |
+| Member                | Candace Byrdsong Williams | Diversity, Inclusion and Belonging Manager                    |
+| Member                | Mo Khan                   | Senior Backend Engineer, Secure:Composition Analysis          |
+| Member                | Christian Couder          | Senior Backend Engineer Gitaly                                |
+| Member                | Greg Myers                | Support Engineer                                              |
+| Member                | Rebecca Spainhower        | Support Engineering Manager                                   |
+| Member                | Edmond Chan               | Senior Solutions Architect                                    |
+| Member                | Amy Phillips              | Engineering Manager, Delivery                                 |
+| Member                | Melissa Ushakov           | Sr. Product Manager, Manage::Authentication and Authorization |
+| Executive Stakeholder | Eric Johnson              | Chief Technology Officer                                      |
