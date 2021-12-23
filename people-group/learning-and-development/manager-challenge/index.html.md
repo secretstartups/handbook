@@ -296,6 +296,7 @@ Pilot Kickoff Video:
 
 ## Previous Manager Challenges
 
+- [2021 October Manager Challenge](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/58)
 - [2021 May Manager Challenge](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/38)
 - [2021 January Manager Challenge](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26)
 - [2020 September Manager Challenge Pilot](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1)
