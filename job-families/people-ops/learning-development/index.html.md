@@ -145,7 +145,7 @@ The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compen
 - Focus on the development and implementation of learning programs that enable team member career mobility & development
 - Designs, develops, and co-creates scalable, results-driven programs that expose team members to on the job training resources including mentorship, interning, shadowing, and other professional development opportunities
 - Create career development progression paths for team members that align with team member employment lifecycle
-- Educates team members of career mobility programs and measures the impact to include promotion rates, retention, and engagement survey scores
+- Educate team members of career mobility programs and measure the impact to include promotion rates, retention, and engagement survey scores
 - Partner with People Operations to evaluate, manage, and build tools to increase efficiency with talent mobility programs
 
 ### Onboarding
