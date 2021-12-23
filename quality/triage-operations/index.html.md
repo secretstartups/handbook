@@ -236,10 +236,10 @@ which will remove them from the future report.
 
 ### Group level feature flags that may need attention
 
-This report contains feature flags that have enabled in the codebase for 2 or more releases for 
+This report contains feature flags that have enabled in the codebase for 2 or more releases for
 groups within our [DevOps stages](/handbook/product/categories/#devops-stages).
 
-The DRI is responsible for reviewing these feature flags to determine if they are able to be removed 
+The DRI is responsible for reviewing these feature flags to determine if they are able to be removed
 entirely, or create separate issues to ensure the overdue feature flags are removed accordingly.
 
 * Triage owner: Engineering Manager(s) for that group.
@@ -271,7 +271,7 @@ The second part contains merge requests that weren't updated for 28 days or more
 
 ### Auto closure of triage reports
 
-Reports open for more than 2 weeks with the `~"triage report"` label will be closed automatically with the [close old triage reports](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/close-reports/close-old-triage-reports.yml) automation. 
+Reports open for more than 2 weeks with the `~"triage report"` label will be closed automatically with the [close old triage reports](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/close-reports/close-old-triage-reports.yml) automation.
 
 ## Triage automation
 
