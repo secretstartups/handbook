@@ -122,7 +122,19 @@ The following actions are perfored by Data Team Triager:
       - Impact will be determined in the issue.
       - Any MRs will be created to overcome loading issues, downstream dbt processing and Sisense usage.
       - According to the Merge of the GitLab.com MR, merge will be plannend.
+   - If the `MR` does not contains the label `group::product intelligence` and it concerns changes to `SQL` structure:
+      - Check if it will break the operation / data pipeline, following the Determination matrix below.
+
+
+   - If any `MR` will cause a break in the operation, the label will be changed to `Data Warehouse::Not Impacted`.
+   - If any `MR` will cause a break in the operation:
+      - The Label will be changed to `Data Warehouse::Impacted`
+      - A new issue is opened in the `GitLab Data Team project`, assigned to the correct DRI and linked to the original MR. 
+      - Impact will be determined in the issue.
+      - Any MRs will be created to overcome loading issues, downstream dbt processing and Sisense usage.
+      - According to the Merge of the GitLab.com MR, merge will be plannend.
       - All stakeholders will be informed.
+
 
 #### Graphical representation of the process
 
