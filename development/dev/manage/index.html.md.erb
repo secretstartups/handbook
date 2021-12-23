@@ -28,7 +28,7 @@ In GitLab issues, questions should start by @ mentioning the relevant Product Ma
 * Everyone can contribute; no silos.
   * The goal is to have product give engineering and design the opportunity to be involved with direction and issue definition from the very beginning.
 * We do an optional, asynchronous daily stand-up in our respective group stand-up channels:
-  * Manage:Access [#g_manage_access_daily](https://gitlab.slack.com/archives/C01311Z0LDD)
+  * Manage:Authentication and Authorization [#g_manage_access_daily](https://gitlab.slack.com/archives/C01311Z0LDD)
   * Manage:Optimize [#g_manage_optimize_daily](https://gitlab.slack.com/archives/C012SB84TFU)
   * Manage:Compliance [#g_manage_compliance_daily](https://gitlab.slack.com/archives/C013E163FD0)
   * Manage:Import [#g_manage_import_daily](https://gitlab.slack.com/archives/C01099NRZ7B)
@@ -36,11 +36,11 @@ In GitLab issues, questions should start by @ mentioning the relevant Product Ma
 
 #### Hiring
 
-We use an [issue board](https://gitlab.com/gl-talent-acquisition/req-intake/-/boards/3479556?scope=all&label_name[]=devops%3A%3Amanage) to track open Development positions within the Manage stage. 
+We use an [issue board](https://gitlab.com/gl-talent-acquisition/req-intake/-/boards/3479556?scope=all&label_name[]=devops%3A%3Amanage) to track open Development positions within the Manage stage.
 
-1. When a new position is identified and approved, the hiring manager ("HM") will create a kickoff issue within the [req-intake project](https://gitlab.com/gl-talent-acquisition/req-intake) and assign it to themselves. This may result in duplicated kickoff issues if there are multiple hires approved. Due dates will be updated for the target hiring date so it's transparent when we are behind, and by how much. 
-1. New positions require a Greenhouse ID ("GHID") from Finance. If your position is still waiting on a GHID, use the ~"HM::Awaiting Greenhouse ID" label. If you already have the GHID for your position, add it to the issue description. 
-1. Before a position can be opened in Greenhouse, your recruiter will need some initial information about this position which is gathered inside a kickoff issue. You can fill this information out at any time between creation and receiving the GHID. 
+1. When a new position is identified and approved, the hiring manager ("HM") will create a kickoff issue within the [req-intake project](https://gitlab.com/gl-talent-acquisition/req-intake) and assign it to themselves. This may result in duplicated kickoff issues if there are multiple hires approved. Due dates will be updated for the target hiring date so it's transparent when we are behind, and by how much.
+1. New positions require a Greenhouse ID ("GHID") from Finance. If your position is still waiting on a GHID, use the ~"HM::Awaiting Greenhouse ID" label. If you already have the GHID for your position, add it to the issue description.
+1. Before a position can be opened in Greenhouse, your recruiter will need some initial information about this position which is gathered inside a kickoff issue. You can fill this information out at any time between creation and receiving the GHID.
 1. Sometimes there is a delay between completing the kickoff issue and creating the position in Greenhouse, while you and your recruiter align on requirements. Use the ~"HM::Completed Kickoff Issue" label to signify that the position is ready to go live in Greenhouse, and reassign it to the recruiter DRI.
 1. When the position is accepting candidates in Greenhouse and the hiring process begins (sourcing candidates, reviewing resumes, scheduling interviews), update the label with ~"HM::Interviewing". More granular information, such as the number of screening calls or technical/behavioral interviews scheduled, can be reported weekly in 1-1's or using the issue. While many people are involved in this process, hiring managers are still the DRI for a successful hire.
 1. Once you have selected a candidate for the position, you can use the ~"HM::Pending Offer" label to indicate the Justification and Offer process has been started.
@@ -125,7 +125,7 @@ It can be hard to understand how you're doing in your role, because feedback can
 | **(coaching)** | I'm trying to help you improve a behavior you are already exhibiting or change a behavior that you currently have | "The reports that you give me are very helpful, and in the future we can schedule them for the first of the month to be more consistent."
 | **(evaluation)** | Tells you where you stand according to existing standards or expectations | "My expectation was that our decision would be transparent. Since it was not, our team has forgotten the decision, so we must be sure and meet that expectation next time." |
 
-### Group Access - additional considerations
+### Group Authentication and Authorization - additional considerations
 
 <!-- TODO: Would like to remove this and keep it on the group pages instead -->
 <%= partial("handbook/engineering/development/dev/manage/access_processes.erb") %>
@@ -186,7 +186,7 @@ The following people are permanent members of the Manage stage:
 
 <%= stable_counterparts(role_regexp: /[,&] Manage/, direct_manager_role: 'Backend Engineering Manager, Manage') %>
 
-## Dashboards 
+## Dashboards
 
 - Stage Metrics
   - [Stage Development Metrics](https://app.periscopedata.com/app/gitlab/855124/Manage:Development-Metrics)
@@ -195,7 +195,7 @@ The following people are permanent members of the Manage stage:
 - Import
   - [Backend overview](https://app.periscopedata.com/app/gitlab/698723/Manage::Import-Backend-Overview)
   - [North star metrics](https://app.periscopedata.com/app/gitlab/661967/Manage:Import-Dashboard)
-- Access
+- Authentication and Authorization
   - [SAML SSO Usage](https://app.periscopedata.com/app/gitlab/636494/Dev:-Manage:-Access-SAML-SSO-Usage)
   - [Backend overview](https://app.periscopedata.com/app/gitlab/695525/Manage::Access-Backend-Overview)
   - [Usage ping](https://app.periscopedata.com/app/gitlab/857665/Manage:Access---Usage-Ping)
@@ -210,7 +210,7 @@ The following people are permanent members of the Manage stage:
 
 As a globally distributed team who has not had an opportunity to interact face-to-face in quite some time due to the pandemic, we must find ways to be creative and come together as one unit!
 
-We will kick off the holiday season on November 22 by _optionally_ participating in a Secret Santa exchange - an exchange where a group of colleagues will exchange holiday presents anonymously with each member of the group being assigned to another member to provide a small gift. 
+We will kick off the holiday season on November 22 by _optionally_ participating in a Secret Santa exchange - an exchange where a group of colleagues will exchange holiday presents anonymously with each member of the group being assigned to another member to provide a small gift.
 1. The exchange amount will be $30 USD, including shipping and tax fees. This amount cannot be expensed and would need to be paid for out of pocket. Team members are not required to participate.
 1. A form will be provided on November 22 to sign up. This form will include ideal gift ideas for yourself, as well as your formatted mailing address, and local / online stores to choose your gift from.
 1. The form will close on December 8. At this time, your Secret Santa will be randomly selected and you will be given the name of a team member to buy a gift for, their ideal gift idea and local buying options if available.
@@ -222,7 +222,7 @@ We will kick off the holiday season on November 22 by _optionally_ participating
   * A number of our stage discussions and issues are located at [`gitlab-org/manage`](https://gitlab.com/gitlab-org/manage/)
 * Our Slack channels
   * Manage-wide [#s_manage](https://gitlab.slack.com/messages/CBFCUM0RX)
-  * Manage:Access [#g_manage_access](https://gitlab.slack.com/messages/CLM1D8QR0)
+  * Manage:Authentication and Authorization [#g_manage_access](https://gitlab.slack.com/messages/CLM1D8QR0)
   * Manage:Optimize [#g_manage_optimize](https://gitlab.slack.com/messages/CJZR6KPB4)
   * Manage:Compliance [#g_manage_compliance](https://gitlab.slack.com/messages/CN7C8029H)
   * Manage:Import [#g_manage_import](https://gitlab.slack.com/messages/CLX7WMSKW)
