@@ -152,7 +152,7 @@ The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compen
 
 - Focus on owning the end-to-end development of an efficient and innovative onboarding program for the organization to ensure new hires effectively understand and implement GitLab culture and ways of working
 - Re-designs current onboarding program to equip engineering and non-engineering team members with the right skills to be successful in their role 
-- Co-creates new onboarding programs for Managers to Executive Leadership 
+- Co-create new onboarding programs for Managers to Executive Leadership 
 - Serve as the main point of contact for Day 1, 30 days, 60 days, 90, 180 days, to ensure a successful onboarding process with new hires.
 - Partner with People Operations team to ensure administrative requirements of onboarding for all new hires are met 
 - Continuously work to ensure onboarding process is organized and efficient as possible while identifying and acting on opportunities to improve and update processes and policies
