@@ -19,7 +19,7 @@ On this page, team members working in the GitLab Learn platform will find docume
 | [Best practices for content creation and organization](/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization) | Outlines best practices for creating on-brand, handbook first learning content in GitLab learn. Please get familiar with this section before creating or organizing content in GitLab Learn. |
 | [Processes, management, and maintenance of content in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#processes-management-and-maintence-of-content-in-edcast) | Outlines processes in the frontend and backend of GitLab Learn that are used to create, edit, and maintain content |
 | [Reporting](/handbook/people-group/learning-and-development/gitlab-learn/admin/#reporting) | Includes key links and trainings in EdGraph |
-| [Moderation](/handbook/people-group/learning-and-development/gitlab-learn/admin/#moderation) | TBD |
+| [Moderation](/handbook/people-group/learning-and-development/gitlab-learn/admin/#moderation) | Information on how content is Moderated in Edcast |
 | [Support](/handbook/people-group/learning-and-development/gitlab-learn/admin/#support)| Includes support workflows for users and templates for contacting EdCast support |
 
 Questions? Please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
@@ -203,6 +203,7 @@ Images in the LXP enable us to:
 
 - maintain a look and feel that aligns with the GitLab brand
 - help users identify different kinds of content in the platform
+- banners are used for sharing messages and featuring content 
 
 The following outlines best practices for choosing images to use in the LXP. When content is created in the LXP in any form, an image or placeholder is automatically generated. Follow these best practices to update these placeholder images before publishing new content.
 
@@ -263,6 +264,14 @@ Groups will be identified with images that use a purple graphic overlay on the l
 [Example of images in Canva](https://www.canva.com/design/DAEQ-q4s2pY/soqq_hq3ND1oUNh7x6KPHA/view?utm_content=DAEQ-q4s2pY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 You can find pre-approved Group images in the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true)
+
+#### Banners
+
+Banners appear at the top of the Discover page and can be utilised to share messaging and feature channels within GitLab Learn. E.g. The banner for the `GitLab Learn Announcements` channel is generally updated on a weekly basis to hero new content on the platform.
+
+Designs should still follow GitLab Brand Guidelines, utilizing the brand elements in Canva, using a template sized 1000px x 320px. Some existing Banner templates can be found in the L&D folder in Canva.
+
+If you would like content to be featured on a banner in the platform, please message the L&D team using the `#learninganddevelopment` channel in Slack.
 
 #### Profile photos
 
@@ -415,6 +424,10 @@ The L&D team can also set up specific team profiles in Edcast that can be used f
 The credentials of the team profile can also be shared within teams to help in the monitoring of comments and engagement with the content.
 
 To request the creation of a team profile, please post in the #learninganddevelopment slack channel with details of what you would like the profile to be called and and an image to be used for the profile picture.
+
+#### Attributing your content to a team profile
+
+If you have created content and would like it to be attributed to a team profile instead, click the Edit symbol (`⋮`) on the card you'd like to change, click `Change Author`, search for the relevant user profile and click `Change Author`.
 
 ### Adding collaborators to your pathway
 
