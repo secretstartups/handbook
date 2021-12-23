@@ -39,15 +39,20 @@ Zuora subscription ID and Zuora subscription name.
 
 A few important points to note are:
 
-- Support tries as much as possible to refrain from issuing non-trial licenses.
+- Support tries as much as possible to refrain from issuing non-trial licenses because trial licenses:
+    - Have no grace period
+    - Don't affect historical data tracking
+    - Aren't tied to any subscriptions for revenue purposes
 - All internal requests for a Temporary key or Trial Extension should issue a trial license.
 - For trial licenses that have the `Expiry Date` more than 30 calendar days from the Start date, a manager approval is required.
-Add the `Manager Approval::Required` label to the issue and ping the requester asking them to ask for approval from their manager.
+Add the `Manager Approval::Required` label to the issue and ping the requester to ask for approval from their manager.
 - It is fine to set the `Users in license` number to what is needed.
+- Set `Starts at` to the current date.
+     - <i class="fab fas fa-exclamation-triangle fa-fw"></i> **_TODO_**: What if we know Expiry of current license (either from IR or ZD ticket)? Do we set it to the date after Expiry date?
 - You can follow the same process as re-issuing a license. 
 - You need to ensure that you have checked the **trial** checkbox when creating the license. 
 - You also do not need to link a Zuora or Salesforce account if you do not have it.
 
-**NOTE** Starter trial licenses have been deprecated. 
+**NOTE** Starter trial licenses have been deprecated. There is an [ongoing discussion](https://gitlab.com/gitlab-org/license-gitlab-com/-/issues/243) to re-enable Strarter trial license creation for Support.
 
 For Starter trial requests, let the requester know that we can issue either Premium or Ultimate trial licenses. You can tag a support manager to get approval to create a non-trial Starter license with the expiry date set to 14 days before the requested expiry. This ensures that the 14 day grace period is used up in the extension request.
