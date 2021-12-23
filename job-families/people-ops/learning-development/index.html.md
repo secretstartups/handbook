@@ -41,7 +41,6 @@ The Program Manager, Learning & Development (Intermedidate) is a [grade 6](/hand
 ### Intermediate Learning & Development Program Manager Responsibilities
 
 - Develop and lead the successful execution of training programs to ensure audiences are equipped with content, resources, tools, and training 
-- Design and develop learning programs for the organization
 - Lead the end-to-end project management of learning programs and successfully launch organizational learning programs 
 - Coordinate learning programs that enhance the capabilities of team members through continuing education and skills training
 - Evaluate the effectiveness of the learning programs to ensure they meet the needs of team members, strategic organization priorities, and stakeholders
