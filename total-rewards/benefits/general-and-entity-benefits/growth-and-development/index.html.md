@@ -138,7 +138,7 @@ The following programs have been contributed by leaders across the organization.
 
 ### Crucial Conversations training 
 
-The Learning and Development team is excited to deliver [Crucial Conversations](/handbook/leadership/crucial-conversations/) training internally to team members. Currently, 2 members of the GitLab L&D team are certified to deliver this training. The team will co-deliver the Crucial Conversations content in a hybrid format, including self-paced learning and live learning practice sessions. Read more program details in the [Learning and Development handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#crucial-conversations).
+The Learning and Development team is excited to deliver [Crucial Conversations](/handbook/leadership/crucial-conversations/) training internally to team members. Currently, 2 members of the GitLab L&D team are certified to deliver this training. The team will co-deliver the Crucial Conversations content in a hybrid format, including self-paced learning and live learning practice sessions. Read more program details in the [Learning and Development handbook](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations).
 
 Crucial Conversations charges per-learner to deliver this content. Each license costs $295 per license. The following section outlines how the team member G&D benefit can be used to participate in this training.
 
