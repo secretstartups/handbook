@@ -92,10 +92,13 @@ using the correct form. When doing this, review the original ticket to best
 determine which form to use (if you are unsure, reach out to a Support Manager
 or Support Ops Manager for assistance).
 
-**Note**: If the ticket needs to undergo the Needs-Org process, please do that
+**Notes**: 
+
+1. If the ticket needs to undergo the Needs-Org process, please do that
 in the original ticket first. We want the new ticket to be as ready to be
 worked as possible, and starting a new ticket we created for an end-user with
 the Needs-Org process is not a great customer experience.
+1. If you determine the ticket is from a free or community user, there is no need to create a new ticket. Instead, simply change the form to the appropriate support form and ensure the SaaS/Self-managed Subscription is set to 'Free User'. This will ensure the ticket will have no SLA and will be visible in the [Free user tickets](https://gitlab.zendesk.com/agent/filters/360038103100) view. 
 
 Once you determine the correct form, you should review what ticket fields that
 form uses and what information is missing. In the original ticket, leave an
