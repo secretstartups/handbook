@@ -454,7 +454,7 @@ There are two main invite use cases:
 
 1. An invite is sent to the user and they need to accept it in order to join the namespace. The 
 invited user needs to take action in order to accept the invite.
-    * This happens when the invited user does not yet a GitLab.com account that is visible 
+    * This happens when the invited user does not yet have a GitLab.com account that is visible 
     to the invitee. In most cases this is because the invited user does not yet have a GitLab.com 
     account
     * If invite is accepted, `invite_status = 'INVITE_ACCEPTED'`
