@@ -301,7 +301,7 @@ If they have been hired in Greenhouse and exported to BambooHR, Enablement will 
 
 When a team member applies for and receives a new position through Greenhouse, a Letter of Adjustment is prepared in lieu of a new contract using DocuSign. The Candidate Experience Specialist will prepare the letter. This document is signed by the Director, Total Rewards or the Sr. Director, Global People Operations or the Chief People Officer and the team member through DocuSign. Using the Offer through DocuSign - Letter of Adjustment template in Greenhouse the letter is cc'd to the Total Rewards team for processing.
 
-Effective dates for a letter of adjustment should be the first (1st) of the month or the sixteenth (16th).
+Effective dates for a letter of adjustment should be the first (1st) of the month or the sixteenth (16th). These effective dates do not need to be on a business day and should be adhered to payroll purposes. 
 Please note that LOAs cannot be used if a new hire is moving from any entity that is not Federal, LLC into the Federal, LLC. entity. In those cases, a new contract **must** be issued as there are tax implications to this entity.
 
 The Candidate Experience Specialist needs to merge any additional candidate profiles before marking as hired. If the profiles are not merged, it will create a duplicate and mess with the employment bot sync to BambooHR. The signed letter is uploaded into BambooHR under the Contracts and Changes folder on the Documents Tab by the Total Rewards Analyst. The Total Rewards team ensures the information in HRIS and Payroll systems is updated.
