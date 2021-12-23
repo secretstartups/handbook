@@ -965,6 +965,12 @@ Note: Completed courses is equal to total completions of Journeys and Pathways i
 1. Confirm `Non-GitLab` filter is applied to remove team members from total count
 1. Add total completions for Pathway and Journey for the desired month
 
+**Report 8: [Weekly Edcast Engagement Metrics by Region/ Department/ Divison](https://docs.google.com/spreadsheets/d/17frq3Q7yvzSmohksKBx9gqvk991P3G7fCsqgBarcRnc/edit?usp=sharing)
+
+1. Open [Activity Reports](https://edcast-536.domo.com/page/546629305) in EdGraph
+1. Filter each report to include data for the most recent week (Week numbers correspond to calendar year weeks. E.g. Week1 = First week of January)
+1. Add data to table.
+
 
 #### Other training
 
