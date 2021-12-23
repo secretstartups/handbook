@@ -290,12 +290,14 @@ There are a few cases that require special handling. If an emergency page falls 
 
 In the event that an emergency is raised about a compromised instance a call can quickly move well beyond the scope of support.
 
-Advise the customer to:
+Use the Zendesk macro `Incident::Compromised Instance` which expands on the approach below.
+
+The customer should to:
 1. Shut the instance down immediately.
 1. Create a new instance at the exact same version and restore their most recent backup into it.
-   - Avoid exposing the compromised instance to the Internet
+   - Avoid exposing the new instance to the Internet
    - If they have not captured their `gitlab-secrets.json`, or if the only backups available are stored in `/var/opt/gitlab/backups`, mount the volume of the compromised instance to retrieve it.
-1. Rotate secrets:
+1. Rotate secrets on the new instance:
    - All secrets contained within the `gitlab.rb` (such as LDAP/email passwords)
    - All secrets in CI jobs such as API keys or remote server credentials
    - GitLab Runner registration tokens and Runner environment variables 
