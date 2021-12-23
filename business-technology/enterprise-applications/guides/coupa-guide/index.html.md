@@ -342,7 +342,7 @@ There are several ways to approve transactions in Coupa:
 {: .panel-heading}
 <div class="panel-body">
 
-- If your requisition status is "Pending Buyer Action", it is in Procurement's To Do List and can be ignored. If there are any issues, Procurement will add comments to the requisition and you will receive notification via email, Slack or in your To Do List (depending on your notification setup in Coupa). 
+- If your requisition status is "Pending Buyer Action", it is in Procurement's To Do List and is being reviewed by the procurement team who will respond as soon as possible, no longer than 1-2 business days. If there are any issues, Procurement will add comments to the requisition and you will receive notification via email, Slack or in your To Do List (depending on your notification setup in Coupa). 
 - If you see "Onboarding" next to the Supplier's name on the line items of your requisition (see below screenshot), please reach out to your Supplier and request them to join Coupa's Supplier Portal to complete the onboarding process. Suppliers have to complete their onboarding in Coupa before the requisition can be finalized. 
 
 ![coupa-image-25](/handbook/business-technology/enterprise-applications/guides/coupa-guide/Coupa25.png)
