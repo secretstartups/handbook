@@ -151,7 +151,7 @@ flowchart TD
     end
     INFORM-->END((End))
     CLABEL-->END
-    OK_SQL--Yes-->END
+    OK_SQL--Yes-->CLABEL
     OK_SQL--No-->CHANGE_LABEL_I
     subgraph "group::product intelligence" 
         CHECK_ORIGINAL_ISSUE_PI -->SQL[(Find and execute SQL statement)]
