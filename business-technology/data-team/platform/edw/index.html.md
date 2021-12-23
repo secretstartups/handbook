@@ -110,6 +110,86 @@ classDiagram
     }
 ```
 
+## Enterprise Data Model Governance
+
+##### Modeling Development Process
+
+1. Extend the [dimension bus matrix](https://docs.google.com/spreadsheets/d/1j3lHKR29AT1dH_jWeqEwjeO81RAXUfXauIfbZbX_2ME/edit#gid=1372061550) as the blueprint for the EDM.
+1. Add the table to the appropriate LucidChart ERD.
+1. Deploy dimension tables. Each dimension also includes a common record entry of -1 key value to represent `unknown`
+1. Create fact tables. Populate facts with correct dimension keys, and use the -1 key value for unknowable keys.
+
+##### Naming Standards
+
+It is critical to be intentional when organizing a self-service data environment, starting with naming conventions. The goal is to make navigating the data warehouse easy for beginner, intermediate, and advanced users. We make this possible by following these best practices:
+
+1. FACT TABLES: `fct_<verb>` Facts represent events or real-world processes that occur. Facts can often be identified because they represent the action or 'verb'.  (e.g. session, transaction)
+1. DIMENSION TABLES: `dim_<noun>` = dimension table. Dimensions provide descriptive context to the fact records. Dimensions can often be identified because they are 'nouns' such as a person, place, or thing (e.g. customer, employee) The dimension attributes act as 'adjectives'. (e.g. customer type, employee division)
+1. Singular naming should be used, e.g. dim_customer, not dim_customers.
+1. Use prefixes in table and column names to group like data. Data will remain logically grouped when sorted alphabetically, e.g. dim_geo_location, dim_geo_region, dim_geo_sub_region.
+1. Use dimension table names in primary and foreign key naming. This makes it clear to the user what table will need to be joined to pull in additional attributes. For example, the primary key for dim_crm_account is dim_crm_account_id. If this field appears in fct_subscription, it will be named dim_crm_account_id to make it clear the user will need to join to dim_crm_account to get additional account details.
+
+##### Modeling Requirements
+
+- Typically, we will create the dimensions in the `common` schema first, and then the code that builds the fact tables references these common dimensions (LEFT JOIN) to ensure the common key is available. There are some situation where logically we are 100% confident every key that is in the fact table will be available in the dimension. This depends on the source of the dimension and any logic applied.
+- Both facts and dimensions should be tested using [Trusted Data Framework (TDF)](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) tests.
+    - For dimensions, we can test for the existence of the -1 (unknown) dimension_id, and total row counts.
+    - For facts, we can test to ensure the number of records/rows is not expanded due to incorrect granularity joins, and can add a golden data test to pull the dimension attribute from the dimension table for the related fact record and compare to the expected value on the golden data record.
+- fct_ and dim_ models should be materialized as tables to improve query performance,
+- All dimensions must have:
+    - An hashed surrogate key,
+    - A natural unique key. This key value can be composed from multiple columns to generate uniqueness.
+- Models are tested and documented in a schema.yml file in the same directory as the models,
+- All facts and dimensions have the following audit columns:
+    - revision_number - this is a manually incremented number representing a logical change in the model
+    - created_by - this is a GitLab user id
+    - updated_by - this is a GitLab user id
+    - model_created_at timestamp - this is a static value for when the model was created
+    - model_updated_at timestamp - this is the last time the model was updated by someone
+    - dbt_created_at timestamp - this is populated by dbt when the table is created
+    - dbt_updated_at timestamp - this is the date the data was last loaded. For most models, this will be the same as dbt_created_at with the exception of incremental models.
+- The Prep(prep_) and mapping/look-up(map_) tables to support dimension tables should be created in `common_mapping` schema.
+- Additional Bridge(bdg_) tables should reside in `common` schema. These tables act as intermediate tables to resolve many-to-many relationships between two tables.
+
+##### ERD Requirements
+
+- Generated in Lucidchart
+- Embedded into the dbt docs for all relevant models as an iframe
+- Cross-linking from the ERD to the dbt docs for the give model
+- Proper relationship connections
+- Primary and foreign keys listed
+- At least 3-5 other columns that demonstrate the nature of the table and are unlikely to change
+- Working SQL reference example
+
+##### Additional Guidelines
+
+The Dimensional Model is meant to be simple to use and designed for the user. Dimensional models are likely to be denormalized, as opposite to source models, making them easier to read and interpret, as well as allowing efficient querying by reducing the number of joins.
+
+- Very often a CTE duplicated across two models qualifies to be a separate fct_/dim_ table
+
+## Schemas
+
+#### Common Prep
+
+The Common Prep Schema has 6 primary use cases at this time. As we iterate on the EDM 2.0, we will evaluate each of these cases for efficacy and performance and determine if there is a more streamlined and efficient approach to perform the transformation being done in Common Marts. The use cases are as follows:
+
+1. Generate Surrogate Keys used in the Common Schema.
+1. Clean Source System data such as the conversion of datatypes and replacing NULL values.
+1. Generate calculated fields and perform transformations to be used in multiple downstream dimensions and facts in the Common Schema.
+1. Bring in Foreign Keys/Identifier fields from other models that are useful for joins in dimensions and facts in the Common Schema.
+1. Unioning data coming from multiple sources before loading into dimension tables.
+1. No specific case but built for consistency in design.
+
+#### Common Marts
+
+Mart models describe business entities and processes. They are often grouped by business unit: marketing, finance, product.
+
+When a model is in this directory it communicates to business stake holders that the data is cleanly modelled and is ready for querying.
+
+Following the naming convention for fact and dimension tables all marts should start with the prefix `mart_`.
+
+Marts should not be built on top of other marts. Marts should be built on top of FCT and DIM tables.
+
 ## Useful links and resources
 
 - [dbt Discourse about Kimball dimensional modelling](https://discourse.getdbt.com/t/is-kimball-dimensional-modeling-still-relevant-in-a-modern-data-warehouse/225/6) in modern data warehouses including some important ideas why we should still use Kimball
