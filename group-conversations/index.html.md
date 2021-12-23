@@ -266,7 +266,7 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | [UX](/handbook/engineering/ux/) | Christie Lenneville | Yes | Every other month |
 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month |
 | [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month |
-| [Portfolio Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No | Every other month |
+| [Portfolio Marketing](/handbook/marketing/strategic-marketing/) | Cindy Blake | No | Every other month |
 | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | Darren Murph | No | Every other month |
 | [Digital Experience](/handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No | Every other month |
 | [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month |
