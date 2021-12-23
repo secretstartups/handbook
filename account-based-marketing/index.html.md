@@ -209,3 +209,17 @@ To be added
 ## Budgeting
 
 Allocadia
+
+## Reporting
+
+### PMG Paid Digital Reporting
+
+The ABM team uses the [PMG Reporting Dashboard](https://datastudio.google.com/reporting/19WMqzyDxrl1fK3puZ3kI7Pzig3Oex_BL/page/p_32tuunsvlc?s=l-p946nzu0I) to track performance and metrics for all paid media campaigns run through the PMG and GitLab Digital team. This dashboard covers many field breakdowns that PMG has mapped based on specific UTM values and naming conventions. The dashboard breaks down performance from top to bottom by Channel, Budget, Segment, Geo, Content, Language and weekly & monthly comparisons. The top of the dashboard features several filters to customize your view.
+
+#### Viewing ABM Campaigns
+
+The default filter on the dashboard shows digital campaigns only. To show all paid campaigns, including ABM, select ALL fields under the **`Budget`** filter. Once the **`Budget`** filter is showing all values go to the **`Team`** filter. This dropdown will show multiple marketing departments. Select **`abm`** to see a summary of the ABM campaigns running or were previously ran depending on the date range.
+
+If you want to see the performance and metrics for a single campaign you can select a specific campaign code under the **`Campaign Code`** filter. **`Campaign Code`** is the utm_campaign value added to our landing page URLs. Be sure to check your date range when selecting specific campaigns.
+
+Note that refreshing your screen will reset the filters in the dashboard. You can also click **`Reset`** at the top right of the dashboard. If the data has trouble loading or is loading with erros, click **`Refresh Data`** in the menu bar at the top left of the dashboard. For more details on how to navigate the PMG reporting dashboard you can refer to this [issue](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/811#note_714815706).
