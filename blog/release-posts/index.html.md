@@ -358,7 +358,7 @@ Sample post to executive stakeholders for review:
 > 
 > Here’s the 13.6 release post MR: https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/66652
 > 
-> Cc @Farnoosh @TW Lead @PMM @???
+> Cc @Product Operations DRI @TW Lead @tech-advisor @PMM
 
 Other samples for posts include reminders and notices on any items that the Release post manager is taking: 
 
