@@ -44,6 +44,7 @@ We will look at scheduling future dates pending the global COVID-19 situation. B
 1. A fourteenth Family and Friends day was held on `2021-08-27`.
 1. A fifteenth Family and Friends day was held on `2021-09-24`.
 1. A sixteenth Family and Friends day was held on `2021-10-15`.
+1. A seventeenth Family and Friends day was held on `2021-11-29`.
 
 
 ## FAQ about Family and Friends Day
