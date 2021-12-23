@@ -12,13 +12,12 @@ title: "CEO Scheduling & Preferences"
 ## The CEO Support Team 
 1. **[Stella Treas](https://about.gitlab.com/company/team/#streas) - Chief of Staff to the CEO**
     1. Cross-functional and multi-functional projects
-1. **[Cheri Holmes](https://about.gitlab.com/company/team/#cheriholmes) - Staff Executive Business Administrator** 
+1. ** To Be Hired, Temp Support: Christina Keelan Cottrell - EBA** 
     1. Board Meetings 
     1. Board Member AMAs
     1. CEO e-mail management 
     1. Preparing agendas and content for CEO's meetings 
     1. Triage #ceo slack channel
-    1. Assists CoS to the CEO with company-wide OKRs as required
     1. Coordinates the quarterly E-Group offsite and other social/team bonding events for the Executive team 
     1. Schedules internal and external meetings with CEO
     1. Triage meeting requests in #eba-team 
@@ -26,11 +25,11 @@ title: "CEO Scheduling & Preferences"
     1. Total travel coordination for the CEO
     1. Live-streaming meetings on behalf of the CEO. For instance: CEO General Group Conversation, CEO 101, CEO AMA, Iteration Office Hours, Pick Your Brain live-streams
     1. Ad-hoc requests from the CEO  
-1. **[Jacqueline Hogue](https://about.gitlab.com/company/team/#jhogue) - Sr. Corporate Communications Manager, Executive Communications** 
+1. ** To Be Hired - Sr. Corporate Communications Manager, Executive Communications** 
    1. Vetting, preparing content, briefing and supporting the CEO for external speaking enagements 
 
 ### How to request a meeting with CEO? 
-Reach out to Cheri Holmes in #eba-team with the [required details](/handbook/eba/#meeting-request-requirements) to book a meeting with the CEO. 
+Reach out to the EBA to the CEO in #eba-team with the [required details](/handbook/eba/#meeting-request-requirements) to book a meeting with the CEO. 
 
 All meetings on Sid's calendar should be scheduled and vetted by the EBA to the CEO. Please do not directly schedule a meeting onto Sid's calendar without confirming with the EBA to the CEO in advance. The CEO requires meetings to originate from his calendar and on his Zoom account. 
 
@@ -141,7 +140,7 @@ If people want advice on open source, remote work, or other things related to Gi
 1. Our executive administrator will work with you to publish the post if we agree that it fits with our current marketing plan and would be a good fit for our audience. The EBA-team will follow up to make sure the draft post is submitted and coordinate with Content Marketing to cross-post on our blog.
 1. Read and watch [past Pick Your Brain interviews](/company/culture/all-remote/interviews/#pick-your-brain-interviews), including [one hosted by Slab co-founder Jason Chen](/blog/2016/07/14/building-an-open-source-company-interview-with-gitlabs-ceo/) that reached [the top spot on Hacker News](https://news.ycombinator.com/item?id=12615723).
 
-Reply to emails: Thanks for wanting to chat. I propose we meet in the format proposed in GitLab's [Handbook](#pick-your-brain-meetings) so that other people benefit from our conversation too. If you're up for that please work with Cheri (cc:) to schedule.
+Reply to emails: Thanks for wanting to chat. I propose we meet in the format proposed in GitLab's [Handbook](#pick-your-brain-meetings) so that other people benefit from our conversation too. If you're up for that please work with my EBA, XYZ (cc:) to schedule.
 
 Please note, requests for meeting about remote work, all-remote efforts, distributed workforces, etc should be scheduled with the Head of Remote versus Sid when possible.
 
