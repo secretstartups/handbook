@@ -111,15 +111,57 @@ A label `Data Warehouse::Impact Check` is added by the Danger Bot as call to act
 - On triage, the Triager will [check](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=opened&label_name[]=Data%20Warehouse%3A%3AImpact%20Check) for MRs with label `Data Warehouse::Impact Check`.
 
 The following actions are perfored by Data Team Triager:
-- Every MR will be judged
-   - If the changes to the SQL file are not causing a break in the operation, the label will be changed to `Data Warehouse::Not Impacted`.
-   - If the changes to the SQL file causing a break in the operation:
+- Every merge request (`MR`) will be judged
+   - If `MR` contains the label `group::product intelligence` along with `Data Warehouse::Impact Check`, there are a couple of checks that need to do:   
+      - Because a new metric is added or the existing one is altered, the `Data team` should ensure the change will not break the `Service ping` extraction process 
+      - Check new metric `SQL` statement from the original `MR` _(a typical example is [gitlab-org/gitlab/merge_requests/75504](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/75504/diffs#78300240169ab9f44b4dc25f6b6dcb56b3b629c7))_ and execute it on `Snowflake` - usually, it is just a `SELECT` `SQL` statement
+   - If the changes to the `SQL` file are not causing a break in the operation, the label will be changed to `Data Warehouse::Not Impacted`.
+   - If the changes to the `SQL` file causing a break in the operation:
       - The Label will be changed to `Data Warehouse::Impacted`
       - A new issue is opened in the `GitLab Data Team project`, assigned to the correct DRI and linked to the original MR. 
       - Impact will be determined in the issue.
       - Any MRs will be created to overcome loading issues, downstream dbt processing and Sisense usage.
       - According to the Merge of the GitLab.com MR, merge will be plannend.
       - All stakeholders will be informed.
+
+#### Graphical representation of the process
+
+<details><summary>Click to expand graphical representation of the process</summary>
+
+```mermaid
+flowchart TD
+    subgraph "Original MR"
+       CHECK_BOARD
+       ADDITIONAL_LABEL
+       CLABEL
+       CHANGE_LABEL_I
+       CHECK_DDL
+    end 
+    CHECK_BOARD(Check MRs on the board) --> ADDITIONAL_LABEL{Does MR has a label: `group::product intelligence`}
+    ADDITIONAL_LABEL --Yes--> CHECK_ORIGINAL_ISSUE_PI{{Check code in the original MR}}
+    ADDITIONAL_LABEL --No--> CHECK_DDL{Will DDL break in the operation}
+    CHECK_DDL --Yes--> CHANGE_LABEL_I(Change label to `Data Warehouse::Impacted`)
+    CHECK_DDL --No-->CLABEL(Changed label to `Data Warehouse::Not Impacted`)
+    CHANGE_LABEL_I-->OI(Open an new issue is opened in the `GitLab Data Team project`)
+    subgraph "Data team project" 
+       OI-->IM(Impact will be determined in the issue)
+       IM-->CHECK(Check downstream dbt processing and Sisense usage)
+       CHECK-->PL(Plan MR)
+       PL-->INFORM(Inform stakeholders)
+    end
+    INFORM-->END((End))
+    CLABEL-->END
+    OK_SQL--Yes-->END
+    OK_SQL--No-->CHANGE_LABEL_I
+    subgraph "group::product intelligence" 
+        CHECK_ORIGINAL_ISSUE_PI -->SQL[(Find and execute SQL statement)]
+        SQL--Execute-->OK_SQL{Is SQL executed properly}
+
+    end
+```
+
+</details>
+
 
 Determination matrix: **
 
