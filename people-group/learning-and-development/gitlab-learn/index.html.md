@@ -93,7 +93,7 @@ The GitLab LXP uses a [handbook first](https://about.gitlab.com/handbook/handboo
 
 ## Governance
 
-[Implementation of the EdCast LXP](/handbook/people-group/learning-and-development/gitlab-learn/implementation) at GitLab requires cross-functional collaboration across organizations to serve various audience needs. In the spirit of driving clarity, visibility, and accountability, we've identified DRIs for the roles and responsibilities outlined below.
+Implementation of the EdCast LXP at GitLab requires cross-functional collaboration across organizations to serve various audience needs. In the spirit of driving clarity, visibility, and accountability, we've identified DRIs for the roles and responsibilities outlined below.
 
 Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 
@@ -107,23 +107,17 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | David Somers | Channel/Partner Enablement | Michelle Hodges | 
 | Tye David | Marketing | Harsh Jawharkar | 
 
-### Audience Workstreams
-
-- GitLab Team Members
-- Partners
-- Customers
-- Community Members
 
 ### LXP Project DRIs
 
 | Gap | Description | DRI |
 | ------ | ------ | ------ |
 | Exec alignment | Need to be 100% aligned with LXP vision with Sid and e-group | David Somers |
-| Content QA - Handbook Alignment | Responsible for ensuring that all content on the LXP is handbook first, especially since content is regularly updated in the handbook and with the use of Articulate 360 (third party tool)  | Samantha Lee |
-| Content look and feel | Ensuring that all content has a similar look and feel, unified across Field Enablement, Partner Enablement, Community, Marketing, L&D, etc. | Samantha Lee |
+| Content QA - Handbook Alignment | Responsible for ensuring that all content on the LXP is handbook first, especially since content is regularly updated in the handbook and with the use of Articulate 360 (third party tool)  | Jamie Allen |
+| Content look and feel | Ensuring that all content has a similar look and feel, unified across Field Enablement, Partner Enablement, Community, Marketing, L&D, etc. | Jamie Allen |
 | Legal | Alignment with legal on EdCast features and capabilities for compliance of course content | Robert Nalen |
-| Branding | Need to have an EdCast designer that develops the look and feel  that is the same for partners, customers, and team members. Need logo, name, SEO, landing page, card styles, css style files, etc. | Samantha Lee, collaborating with Tye Davis |
-| Marketing | Coordination with marketing team on larger marketing strategy and tactics (i.e. do we have campaigns, where is the landing page, what is the SEO, how does this fit into pipeline, third party content providers (Coursera)) | Samantha Lee  |
+| Branding | Need to have an EdCast designer that develops the look and feel  that is the same for partners, customers, and team members. Need logo, name, SEO, landing page, card styles, css style files, etc. | Jamie Allen |
+| Marketing | Coordination with marketing team on larger marketing strategy and tactics (i.e. do we have campaigns, where is the landing page, what is the SEO, how does this fit into pipeline, third party content providers (Coursera)) | Jamie Allen |
 | Manager Functionality & Reporting | Need to determine how managers can monitor team member learning paths and dashboard of training completion | Learning and Development Team |
 | System Design | Should the owner of systems settings be organized at the highest level, not by department? | Learning and Development Team |
 | Content Strategy | Need to determine what the content categories are across the organization | TBD |
@@ -132,38 +126,6 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | Notifications | Determine how customers, partners, and team members will receive notifications and who owns the notification process to respective parties | Learning and Development team |
 | Support | Determine how technical issues and questions about the LXP will be managed | Learning and Development and Professional Services teams |
 | `www.about.gitlab.com/learn` Alignment | Determine how the LXP will be linked with the [GitLab Learn landing page](https://gitlab.com/groups/gitlab-com/marketing/-/epics/954#note_429575616) | Tye Davis |
-
-
-### Core Team Members and Roles
-
-| Name | Team at GitLab |
-| ----- | ----- |
-| Christopher Nelson | IT |
-| Josh Zimmerman | Learning and Development |
-| Jacie Bandur | Learning and Development |
-| Samantha Lee | Learning and Development |
-| David Somers | Field Enablement |
-| John Blevins | Field Enablement |
-| Kris Reynolds | Field Enablement |
-| Monica Jacobs | Field Enablement |
-| Tanuja Paruchuri | Field Enablement |
-| Kelley Shirazi | Field Enablement |
-| Pallavi Daliparthi | Field Enablement |
-| Thabo Bopape | Field Enablement |
-| Emelie Rodriguez | Field Enablement |
-| Christina Hupy | Marketing Enablement |
-| Christopher Wang | Marketing Enablement |
-| Christine Yoshida | Professional Services |
-| Kendra Marquart | Professional Services |
-| Wakae McLaurin | Professional Services |
-| Ed Cepulis | Channel Enablement |
-| Kim Jaeger | Channel Enablement |
-| Honora Duncan | Channel Enablement |
-| Evon Collett | Channel Enablement |
-| Boughty Canton | Channel Enablement |
-| Tye Davis | Technical Marketing |
-| Julia Lake | Security/Legal |
-| Lynsey Sayers | Security/Legal |
 
 
 ## Platform Roles and Permissions
@@ -228,7 +190,7 @@ The following permissions are available on the platform and can be set to the `o
 
 ## How to request elevated role permissions in EdCast
 
-Follow the steps outlined in the handbook to open an [individual access request for the desired elevated role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and assign the AR to `@slee24`.
+Follow the steps outlined in the handbook to open an [individual access request for the desired elevated role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and assign the AR to `@jallen16`.
 
 
 ### Platform Administrator
@@ -250,19 +212,19 @@ In addition, the Professional Services team uses the platform extensively for pa
 | Josh Zimmerman | Learning and Development |
 | Jacie Bandur | Learning and Development |
 | Samantha Lee | Learning and Development |
-| Christine Yoshida | Professional Services |
+| Jamie Allen | Learning and Development |
 | Kendra Marquart | Professional Services |
 | Wakae McLaurin | Professional Services
 
 #### Task examples
 
 | Platform Administrator Responsibility | DRI |
-| ----- | ----- |
-| LinkedIn Learning integration and licenses | Jacie Bandur |
-| Discover page organization. content promotion, and custom carousel creation | Samantha Lee |
-| Platform login permissions | Samantha Lee |
-| Notification settings | Samantha Lee |
-| Paid certifications | Christine Yoshida |
+
+- LinkedIn Learning integration and licenses
+- Discover page organization. content promotion, and custom carousel creation
+- Platform login permissions
+- Notification settings
+- Paid certifications
 
 #### Requesting support from Platform Administrators
 
@@ -758,11 +720,3 @@ The `Group_Admin` role is assigned to users who support the `Group_Admin` by con
 | Manage analytics | Off |
 | Manage channel analytics | Off |
 | Manage group analytics | Off |
-
-### Custom Role: Partner
-
-The `Custom Role: Partner` role is not yet defined and will be revisited upon phase 3 of the EdCast launch to include GitLab Partners.
-
-### Custom Role: Customer
-
-The `Custom Role: Customer` role is not yet defined and will be revisited upon phase 2 of the EdCast launch to include GitLab Customers.
