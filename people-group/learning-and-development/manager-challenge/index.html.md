@@ -66,7 +66,7 @@ L&D measures the success of the Manager Challenge by the following:
 Participants will complete the following: 
 - Leadership Style Questionnaire
 - Manager Challenge participant profiles 
-- Required reading and any async work
+- Required pre-reads and any async work
 
 **Sessions:**
 
@@ -111,7 +111,7 @@ Week 3 will be focused on performance management, constructive conversations, to
 | 2022-02-22 | 1 hr 20 minutes | Session 5: Performance Management 101 and Constructive Conversations |
 | 2022-02-23/24 | Async | Async - Reading and/or async collaboration |
 | 2022-02-24 | 1 hour | Session 6: Panel Discussion with Senior Leaders. Action Planning and Next Steps |
-| 2022-02-25 | 50 minutes | Optional Group coaching session on inspiring motivation and aligning values. |
+| 2022-02-25 | 50 minutes | Optional group coaching session on inspiring motivation and aligning values. |
 
 Participants will also be asked to complete a program evaluation. 
 
@@ -167,12 +167,10 @@ See the video below for a quick overview of how we use GitLab to facilitate mana
 </figure>
 <!-- blank line -->
 
-
 ### Individual Growth Plan
 
 Throughout the program, we ask that managers to create or refine their [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internal-resources-1). We encourage Managers to self-reflect on their professional development as a people leader and identify areas where they can advance their skills. 
 The document is intended to be a starting point for managers to document where they can improve as a people leader.
-
 
 ### FAQs (Frequently Asked Questions) for the Manager Challenge program
 
