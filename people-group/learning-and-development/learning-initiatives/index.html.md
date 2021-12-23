@@ -14,6 +14,8 @@ description: "The Learning & Development team is rolling out learning programs t
 
 The Learning & Development team is rolling out learning programs to enable a [culture of curiosity and continual learning](/handbook/values/#growth-mindset). The learning initiatives are intended to provide a forum for team members to come together to learn about all of the activities taking place in the learning space, as well as hear from leaders internally and externally on various leadership topics.
 
+We record our [past initiatives](/handbook/people-group/learning-and-development/learning-initiatives/past-initiatives) so that we can share and revisit our programs over time.
+
 ## Learning Sessions
 
 ### Live Learning
@@ -167,7 +169,7 @@ This list of topics can be used as a starting point for brainstorming content an
 - Leading Teams
 - Managing Remote Teams
 - Managing Underperformance
-- Crucial Conversations
+- [Crucial Conversations](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations)
 - Coaching
 - Leadership Best Practices
 - Developing Emotional Intelligence
@@ -367,61 +369,6 @@ Call Structure:
 1. How do you move past unpleasant thoughts, experiences, or discussions?
 1. What do you do that makes you feel most like yourself? Why?
 
-## Crucial Conversations
-
-Two members of the GitLab Learning & Development Team are certified to deliver Crucial Conversations Training. You can learn more about the importance of Crucial Converations at GitLab on our [Crucial Conversations](/handbook/leadership/crucial-conversations/) handbook page. 
-
-If you complete Crucial Conversations training with one of our in house certified trainers, you can utilize our [growth and development budget](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#crucial-conversations-training). 
-
-### What to Expect 
-
-The video below gives an overview of what the Crucial Conversations training looks like. 
-
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/UX-ArZJJJ1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-
-A detailed training outline is included below:
-
-**Total program length:** 4 Weeks
-**Time commitment per week:** Approx 2 hours self-paced and 1 hour live practice session
-
-| Week Number | Topic | Commitment |
-| ----- | ----- | ----- |
-| 1 | Get Unstuck, Master my Stories 1, and Master my Stories 2 | 3 hours |
-| 2 | Start with Heart, State my Path | 3 hours |
-| 3 | Make it Safe, Learn to Look, and Seek Mutual Purpose | 3 hours |
-| 4 | Explore Other's Paths, Move to Action | 3 hours |
-
-Training weeks will run Wednesday-Wednesday, with 1 live trainings hosted each week. Upon completion of the 4 week training, you will earn an official Crucical Conversations certification from Crucial Learning.
-
-### Upcoming Sessions 
-
-If you are a GitLab Team Member and interested in participating in the course, you can fill out our [Crucial Conversations interest form](https://docs.google.com/forms/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform).
-
-**FY22** 
-
-- 2021-12: Security department course
-- 2022-02: Begins January 26th, sign-ups closed
-- FY23-Q2: Dates to be confirmed
-
-### Setting up the Training 
-
-1. Use the Crucial Conversations [Course Manager Tool](https://training.vitalsmarts.com/learn/sign_out?client=gitlab) and [Course Manager Guide].
-1. Ensure we have a sign up link from crucial conversations. 
-1. Once we have the link, send the invite email to all team members interested in the program. 
-1. Add all cohort participants to the [#crucial-conversations](https://app.slack.com/client/T02592416/C0258087472) Slack channel
-1. Add all participants to the live event calendar invites 
-1. Create a subfolder in the [Crucial Conversations](https://drive.google.com/drive/u/1/folders/144sRv0ap4Gwp4IcM_mtkK83c4toVGJZJ?ths=true) Google Drive to organize cohort materials
-1. Use the [live session template](https://docs.google.com/presentation/d/1cXLjK_9_7ndngmgW_5z4yKcLx7iCxZSNgvEVZ7fNJEs/edit?usp=sharing) to organize GitLab-customized Crucial Conversation scenarios for each live session
-
-## Crucial Conversations Alumni
-
-After you've completed the Crucial Conversations course at GitLab, there are a few ways you can continute to practice your skills:
-
-1. Attend the **Crucial Conversations Alumni sync session**. This 25-minute call happens every other month starting in January 2022. Check the GitLab team member's calendar for the invitation
-1. Star and check the **#crucial-conversations** [Slack channel](https://app.slack.com/client/T02592416/C0258087472/user_profile/UBE4ZBF1N)for async discussion every other month, starting in February 2022
-1. Fork or copy [this GitLab project for practicing Crucial Conversations](https://gitlab.com/gitlab-com/people-group/learning-development/crucial-conversations). Use the issue templates in the project to create your own issues, set due dates, and pratice your skills after you complete the certification.
 
 ## New team member Slack training
 
@@ -431,42 +378,6 @@ This training is a 10 day, automated message training via Slack to introduce new
 
 Please note: Existing team members are welcome to sign up for the new team member Slack training, as long as they understand the content is directed to brand new Slack users.
 
-## Past Initiatives
 
 
-### Monthly Continuous Learning Call Overview
 
-The Learning and Development (L&D) team previously hosted a monthly Monthly Continuous Learning call. The series was intended to showcase all of the L&D initatives taking place at GitLab as well as provide a space for team members to ask questions. The series was replaced in FY22 with involvement in company-wide Group Conversations in an effor to increase participation and attendance in the calls.
-
-#### Goals
-
-1. Spur a culture of curiosity and continuous learning by highlighting all the initiatives we have taking place in learning & development.
-1. Increase engagement and improve team member satisfaction and productivity by advancing understanding of available L&D resources
-
-Additional background information on this initiaitve is available in the [Monthly Continuous Learning Call issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/96)
-
-#### Past Monthly Continuous Learning Call
-
-Check out recordings of previous Learning Speaker Series calls!
-
-- [2020-10-21 Monthly Continuous Learning Call](https://www.youtube.com/watch?v=nfF9OI566uo&list=PL05JrBw4t0Kqz6UXFu_2ELLubpKzg_pOe&index=32)
-- [2020-11-18 Monthly Continuous Learning Call](https://youtu.be/tWZ3iVyb-4E)
-- [2020-12-16 Monthly Continuous Learning Call](https://www.youtube.com/watch?v=DQdzXFu9Nbc)
-- [2021-01-20 Monthly Continuous Learning Call](https://www.youtube.com/watch?v=pnc4FqHk_a0)
-
-#### Hosting a Monthly Continuous Learning Call
-
-The following process outlines steps for the L&D team to take each month when planning and implementing monthly calls.
-
-**Planning Issue Template:** Open an Monthly Continuous Learning Call issue template in the L&D Project. Steps outlined below are also included in the issue template and are included here as reference.
-
-1. Post in the [#people-connect Slack channel](https://app.slack.com/client/T02592416/C02360SQQFR) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 times to best accommodate for multiple time zones.
-1. Create slide deck for presentation. Make a copy of a previous month's presention in the [Continuous Learning Campaign Google Folder](https://drive.google.com/drive/folders/1d4ksJXBMrATATxN0QyJ4FA6hzchMNdvb?usp=sharing)
-1. Coordinate slide deck with appropriate enablement audiences (i.e DIB, Field Enablement, Professional Services, Marketing Enablement, etc)
-1. Update slide deck for presentation with feedback from coordinated audiences
-1. Open a feedback issue for questions and comments to be shared asynchronously.
-1. Coordinate an announcement of the call in the #company-fyi Slack channel from Sid or another executive/manager who will be featured that month. The post should be shared 1 business day before the call. This post should include a link to the slide deck and coresponding issue. See notes below for a template that can be shared.
-
-##### Text for CEO share in #company-fyi channel
-
-`Join the Learning and Development team on [DATE] for the Monthly Continuous Learning Call. This month's call is all about [TOPIC]. You can review the slide deck for the call [HERE], and post questions you might have in the call adenga doc [HERE]. Looking forward to seeing you there!`
