@@ -37,14 +37,14 @@ Zuora subscription ID and Zuora subscription name.
 
 ### Trial or Temporary license
 
-A few important points to note are:
+Before creating the request please consider the following points:
 
 - Support tries as much as possible to refrain from issuing non-trial licenses because trial licenses:
     - Have no grace period
     - Don't affect historical data tracking
     - Aren't tied to any subscriptions for revenue purposes
 - All internal requests for a Temporary key or Trial Extension should issue a trial license.
-- For trial licenses that have the `Expiry Date` more than 30 calendar days from the Start date, a manager approval is required.
+- For trial licenses with the `Expiry Date` in more than 30 calendar days from the Start date, a manager approval is required.
 Add the `Manager Approval::Required` label to the issue and ping the requester to ask for approval from their manager.
 - It is fine to set the `Users in license` number to what is needed.
 - Set `Starts at` to the current date.
