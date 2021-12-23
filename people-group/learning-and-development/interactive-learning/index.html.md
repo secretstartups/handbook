@@ -132,6 +132,25 @@ In addition to making video learning content handbook first, consider these best
 1. Upload `.vtt` files with video content added to Rise courses using Articulate360 to include closed captions within the course.
 1. The L&D team collaborates with Marketing Ops to use the tool Smartling to hard code closed captions to video that is not uploaded to YouTube. Video files should be shared with the Markteting Ops team who can support collaboration with Smartling. Expect anywhere between 1 day to 1 week turnaround on the video transcription based on the video length.
 
+#### Creating a Learning Video 
+
+When creating learning content, the Learning & Develpment team may work with other teams on creating videos. 
+
+Guidelines for recording a video for a course: 
+
+1. **Tool:** The recording will be done in Zoom. 
+   - Open your zoom app and click `new meeting` 
+   - Once the zoom meeting starts, make sure your video is turned on and you are unmuted. 
+   - Once you are ready, click the `Record` button, then click `Record on this Computer` - This will make the file save to your computer and then you can drag and drop into the designated Google Drive folder 
+   - If you are sharing slides during your talk you can use the   `share screen` button as your normally would if sharing your screen in a meeting. Select the one browser that has your slides when selecting which screen to share - do not share your full Desktop as slack or other notifications could pop up in the Full Desktop mode (we don’t want to see any other applications or tabs you have open). Also, please ensure your slides are in `Present` mode and are taking up your full screen . 
+   - Once you are done recording, you can either hit `Pause` or `Stop` recording or just end the meeting. (Note: We can snip pieces of the video so if you start recording and then not start talking for 30+ seconds, we can snip that from the recording (same for any blank time at the end). 
+   - The file will take a moment to download. 
+   - Once it has downloaded, please either send it to the L&D team member that is working on the course or upload it to the appropriate folder for recordings for the course you are assisting with. 
+1. **Appearance:** We want you to be your authentic self that you're comfortable with anyone on the internet seeing. The video will be public on YouTube unfiltered. 
+1. **Slides:** Slides can be used during your presentation if you wish. Please use the provided slides template for the course. 
+1. **Background:** You can use either a GitLab branded virtual background, no virtual background if you are comfortable with the area behind your workspace being on the internet, or use the blurred feature on zoom to blur your background. 
+1. **Completed Recording:** Once the recording is completed, please add it to the appropriate Google Drive Folder or send it to the L&D team member that you have been working with. L&D will add GitLab L&D branded content to the beginning and end (intros/outtros) of the video. 
+
 ### Handbook first course example
 
 Below is an outlined example of how the field enablement team created a handbook first learning course for the EdCast LXP using Articulate 360.
