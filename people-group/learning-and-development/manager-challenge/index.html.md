@@ -128,7 +128,7 @@ Following the Manager Challenge, participants are encouraged to do the following
 
 | Date | Length  | Description |
 | ------ | ------ | ------ |
-| 2022-02-22 | 50 minutes | Post Program Office Hours: Discuss Lessons Learned |
+| 2022-04-07 | 50 minutes | Post Program Office Hours: Discuss Lessons Learned, Growth Plans, and Actions for Next Phase of manger enablement |
 
 
 ## Important Points To Remember: 
