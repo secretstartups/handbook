@@ -111,7 +111,7 @@ Week 3 will be focused on performance management, constructive conversations, to
 | 2022-02-22 | 1 hr 20 minutes | Session 5: Performance Management 101 and Constructive Conversations |
 | 2022-02-23/24 | Async | Async - Reading and/or async collaboration |
 | 2022-02-24 | 1 hour | Session 6: Panel Discussion with Senior Leaders. Action Planning and Next Steps |
-| 2022-02-25 | 50 minutes | Optional group coaching session on inspiring motivation and aligning values. |
+| 2022-02-25 | 50 minutes | Optional group coaching session and peer-to-peer learning |
 
 Participants will also be asked to complete a program evaluation. 
 
