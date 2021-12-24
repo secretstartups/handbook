@@ -6,9 +6,9 @@ description: Learn more about People Specialist and People Experience Teams disa
 
 ## Disaster Recovery Plan
 
-When a natural disaster or weather event occurs in a location that is near the home of a team member, the People Specialist and People Experience Teams (known as the People Operations Team) will send a notification email to all relevant team members, using the [template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/natural_disaster_notification.md) found in the People Group project.   
+When a disaster or weather event occurs in a location that is near the home of a team member, the People Specialist and People Experience Teams (known as the People Operations Team) will send a notification email to all relevant team members and their manager, using the [template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/natural_disaster_notification.md) found in the People Group project.   
 
-What is a natural disaster and when do these policies go into effect?  Generally speaking a natural disaster is an event which has the potential to pose a significant threat to human health and safety, property, critical infrastuctures and national security. These natural disasters may come without any warning or they could be driven by seasonal weather patterns.  Different countries around the world have various ways of declaring an "Natural Disaster".  For example the office of [Disaster Management in India](https://ndma.gov.in) is responsible for managing and declaring Natural Disasters.  In the United States of America the [Department of Homeland Security](https://www.dhs.gov/natural-disasters) is responsible for making these Disaster declarations and the federal response.
+What is a disaster and when do these policies go into effect? Generally speaking a disaster is an event which has the potential to pose a significant threat to human health and safety, property, critical infrastuctures and national security. These disasters may come without any warning and/or they could be driven by seasonal weather patterns. Different countries around the world have various ways of declaring a "Disaster". For example the office of [Disaster Management in India](https://ndma.gov.in) is responsible for managing and declaring Natural Disasters. In the United States of America the [Department of Homeland Security](https://www.dhs.gov/natural-disasters) is responsible for making these Disaster declarations and the federal response.
 
 ### Team member assistance
 
@@ -23,6 +23,14 @@ Team members should focus on the safety of their families and themselves first a
 We understand that these events can be extremely stressful for team members and their families. We encourage all team members to utilize our Modern Health services. Modern Health is a company-sponsored, confidential and free resource available to you and your dependants. Services include confidential counseling, financial information and resources, legal support and more. Please refer to our [Modern Health](/handbook/total-rewards/benefits/modern-health/) page in the handbook for more details.
 
 If you have any questions about team member benefits coverage, please contact our total rewards team at total-rewards@gitlab.com
+
+### What actions to take as a manager
+As a manager, when you receive a notification of a team member on your team that is possibly affected by a disaster or weather event, we recommend the following steps: 
+1. Talk to your team member(s) after receiving the email. Take the time to listen: What are their concerns and their needs?
+1. Make them aware of our flexible work policy and [PTO policy](/handbook/paid-time-off/#paid-time-off)
+1. Point them to our Employee Assistance Program, [Modern Health](/handbook/total-rewards/benefits/modern-health/).  
+1. If the team member wants to consider a permanent relocation as a result of being in an unsafe environment direct them to our process for [Dutch Work Permits](/handbook/people-group/visas/#dutch-work-permits). We have a [special consideration](/handbook/people-group/visas/#special-considerations-for-team-members-in-unsafe-environments) for team members in unsafe environments. 
+1. Reference this [Disaster Recorvery Page](/handbook/people-group/disaster-recovery-plan/#disaster-recovery-plan)
 
 ### People Operations Team procedures for Disaster Recovery Plan
 
