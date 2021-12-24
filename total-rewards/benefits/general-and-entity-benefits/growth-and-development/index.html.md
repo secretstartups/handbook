@@ -24,6 +24,7 @@ At GitLab, team members have access to the [Growth and Development benefit](/han
     * Not on any type of remedial, formal coaching as outlined in the [Underperformance page](/handbook/leadership/underperformance/)
 
 **Examples of requests that may be approved:**
+* A [LinkedIn Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/) license when there are none remaining in the Learning & Development Team's allocation.
 * A Backend Engineer who is not on a performance improvement plan seeking a bachelor's degree in Computer Science.
 * A People Operations Generalist seeking a master's in Human Resources with a concentration in International Employee Relations.
 * A Security Analyst seeking to take courses to gain a Cybersecurity certificate through an accredited college or university.
@@ -91,7 +92,7 @@ Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](mailto:peopl
 Reimbursements for over $1,000 USD will be processed by the following: 
 
 1. Team member opens a new Growth & Development issue and requests for approval from their Manager and Executive Leader (if the application is over $1000 USD).
-1. Total Rewards will log the application on their Growth & Development Benefit log and assign the label `GrowhDevelopment::Logged`.
+1. Total Rewards will log the application on their Growth & Development Benefit log and assign the label `GrowthDevelopment::Logged`.
 1. Total Rewards will update the label of the issue according to the approval progress of the application.
 1. Total Rewards will check the eligibility (hire date and tally) of the team member on the Growth & Development log.
 1. Once the team member completes the program or receives the invoice (for non academic study applications), the team member will send `growth-development@gitlab.com` a copy of the transcript/proof of completion/invoice.
@@ -113,7 +114,8 @@ Reimbursements for over $1,000 USD will be processed by the following:
 | Professional Development/Certifications/Licenses | Any certifications/licenses that you and your manager think will be relevant to your development. | Certifications and licenses related to your role. | - For reimbursements above $1,000 USD, a final grade report or satisfactory certificate of completion will be required to receive reimbursement. | Manager, E-Group Member |
 | Professional Dues/Membership | Any professional development membership or dues that will be relevant to your growth and development. | - Professional membership to an accredited organization that aligns with your role <br> - Professional dues needed in order to continue members in an accredited organization. | - An invoice for the dues/membership. | Manager, E-Group Member | 
 | Workshops and Conferences | Work-related conferences including registration, lodging, and meals. The training budget does not include the cost for traveling to and from an event. We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Marketing](https://about.gitlab.com/handbook/marketing/corporate-marketing/#speakers) page. We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment. | - Before scheduling any travel or time off to attend a conference, please discuss your request with your manager. <br> - The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After manager approval, the team member needs to submit a Growth & Development form for expenses either [over $1,000 or under $1,000](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits). Once all parties sign the document, they can schedule travel. Please review current [GitLab travel policy](https://about.gitlab.com/handbook/travel/) for the most up-to-date information about booking and planning conference travel and determine if travel is [business essential](/handbook/travel/#business-essential) during Covid-19. | - Reimbursement for the workshop or conference fee, and for related expenses will be processed once proof of attendance is provided. Attach a copy of the Growth & Development Benefit Form to your expenses. | Manager, E-Group Member | 
-| Self-Service Learning (LinkedIn Learning, Coursera, Others) | The company will pay for all courses related to learning how to code (for example Learning Rails on Codecademy), and you may also allocate work time to take courses that interest you. If you are new to development, we encourage you to learn Git through GitLab, and feel free to ask any questions in the #git-help Slack channel. | - The course must be related to your role. | - A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD. | Manager, E-Group Member | 
+| Self-Service Learning (Skillserve, Coursera, Others) | The company will pay for all courses related to learning how to code (for example Learning Rails on Codecademy), and you may also allocate work time to take courses that interest you. If you are new to development, we encourage you to learn Git through GitLab, and feel free to ask any questions in the #git-help Slack channel. | - The course must be related to your role. | - A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD. | Manager, E-Group Member |
+| [LinkedIn Learning](https://www.linkedin.com/learning/?u=2255073) | Before using your Growth & Development Benefit, check in the #learninganddevelopment Slack channel if there are any L&D allocated licenses available. If there are none available, you may want to utilise your G&D benefit to purchase one rather than waiting. | N/A | - Invoice/receipt when submitting through Expensify. | N/A as an annual license cost does not exceed $1,000 USD. |
 
 ### Example programs by department
 
@@ -152,6 +154,11 @@ The L&D and Total Rewards teams will collaborate to purchase the course license 
 
 You must complete the Crucial Conversations self-paced training and attend at least 4 live training sessions within 3 months of starting the training. If you do not complete the training in this timeframe, you will be required to pay for the cost of your license.
 
+### Using your Growth & Development Benefit for a LinkedIn Learning License
+
+All team members are encouraged to take advantage of LinkedIn Learning, as the Learning & Development team regularly feature courses on Edcast and utilise LiL materials for [Skill of the Month](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#skill-of-the-month). The Learning & Development team have an allocation of licenses that can be assigned to team members, but their may be periods of time when the license limit is reached, which may cause long wait times for one to become available for new team members.
+
+In these instances we encourage team members to utilise their Growth & Development benefit to purchase their own license, which will help facilitate participation in L&D initiatives.
 
 ### Administration of Your 4th Trimester 
 
