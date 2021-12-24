@@ -25,7 +25,7 @@ To create an issue for yourself with one of the module templates:
 
 ### Support hybrid model
 
-The hybrid model presents a structured training plan that will prepare the support engineer to work in different areas focusing the grow in the differences in how to approach problems in the new areas and get most our of the knowledge acquired up to that point.
+The hybrid model presents a structured training plan that will prepare the support engineer to work in different areas focusing their growth in the differences in how to approach problems in the new areas and get most our of the knowledge acquired up to that point.
 
 
 ```mermaid
@@ -93,39 +93,37 @@ It is recommended that you complete the modules in the order listed, unless an i
 | [Customer Service Skills](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Customer%20Service%20Skills) | 2 Days | Understand how we interact with customers, and how to utilize your customer service skills to ensure customer success |
 | [Zendesk Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Zendesk%20Basics) | 1 Day | Utilize ZenDesk to perform ticket management |
 | [Triaging Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Triaging%20Tickets) | 2 Weeks | Understand how to triage tickets including the Needs Org and Triage view in Zendesk |
-| [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Working%20On%20Tickets) | 2 Weeks | Help customers by pairing with Support Engineers and replying to tickets |
 | [Documentation](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Documentation) | 1 Day | Become proficient in making documentation and merge requests |
+| [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Working%20On%20Tickets) | 2 Weeks | Help customers by pairing with Support Engineers and replying to tickets |
 
 ## GitLab.com Administration access
 
-Whenever GitLab.com administration access is required to complete any of the modules listed on this page, the training will direct you to the  [GitLab-com Admin](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20Admin) module.
+Whenever GitLab.com administration access is required to complete any of the modules listed on this page, the training will direct you to the [GitLab-com Admin](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20Admin) module.
 
 ## Support Engineer Area of Focus Pathway
 
 When you have completed the basic modules, work with your manager to decide your initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
 
-1. For GitLab.com, move on to the [Gitlab.com SAAS Support Learning pathway](#gitlabcom-saas-support-learning-pathway).
-1. For Self-Managed, move on to the [Self Managed Support Learning pathway](#self-managed-support-learning-pathway).
+1. For GitLab, complete the [GitLab Support Learning pathway](#gitlab-support-learning-pathway).
 1. For License & Renewals, move on to the [License and Renewals Learning Pathway](#license-and-renewals-learning-pathway).
 
-#### GitLab.com SaaS Support Learning Pathway
+#### GitLab Support Learning Pathway
+
+The GitLab Support pathway covers all platforms that we offer.
+In completing these modules, Support Engineers are expected to answer tickets submitted to any of them.
+
+
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
 | [GitLab-com SaaS Basics](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20SaaS%20Basics) | 2 Weeks | Understand the basics to answer GitLab.com (SaaS) product related tickets |
-
-
-When this Area of Focus module is complete, let your manager know that you are ready to [proceed to the appropriate On-Call rotations](#on-call-rotations).
-
-#### Self-managed Support Learning Pathway
-
-| Module | Duration | Description |
-| ------ | ------ | ------ |
 | [GitLab Installation & Administration Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=GitLab%20Installation%20and%20Administration%20Basics) | 1 Week | Understand the different ways in which GitLab can be installed and managed |
 | [Self-Managed Support Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Self-Managed%20Basics) | 2 Weeks | Understand the basics to answer Self Managed product related tickets |
 
+When these modules are complete:
 
-When this Area of Focus module is complete, let your manager know that you are ready to [proceed to the appropriate On-Call rotations](#on-call-rotations).
+1. Let your manager know that you are ready to [proceed to the appropriate on-call rotation training](#on-call-rotations).
+1. Discuss [what percentage each focus should be listed at](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml), removing onboarding. As noted in the training, if you completed the SaaS admin stage, you should be working on SaaS Account tickets and admin-related internal requests, and listed at 50% or higher.
 
 
 #### License and Renewals Learning Pathway
