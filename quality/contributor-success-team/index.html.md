@@ -145,5 +145,9 @@ aims to streamline and improve contributor efficiency. It implements key
 business iterations that results in substantial and sustained increases to
 community contributors & contributions.
 
-- Handbook page - https://about.gitlab.com/company/team/structure/working-groups/contribution-efficiency/
-- Agenda - https://docs.google.com/document/d/1AOgqaslnq-WI1ICSZ1NzSnALf1Va4D5qAD191icAoSI/edit#
+- Handbook page - <https://about.gitlab.com/company/team/structure/working-groups/contribution-efficiency/>
+- Agenda - <https://docs.google.com/document/d/1AOgqaslnq-WI1ICSZ1NzSnALf1Va4D5qAD191icAoSI/edit#>
+
+## Code Contributor User Journey
+
+The code contributor user journey is documented in the handbook - [User Journey](./user-journey.html)
