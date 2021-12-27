@@ -17,7 +17,9 @@ description: "Contributor Success Team"
 
 ## Mission
 
-The goal of the team is to increase the technical improvements and efficiency of our contribution process to sustain our ambition of [1000+ contributors with merged MRs per month to GitLab](/company/strategy/#2-build-on-our-open-core-strength).
+The goal of the team is to increase the technical improvements and efficiency of
+our contribution process to sustain our ambition of
+[1000+ contributors with merged MRs per month to GitLab](/company/strategy/#2-build-on-our-open-core-strength).
 
 ## Strategy
 
@@ -46,7 +48,8 @@ The goal of the team is to increase the technical improvements and efficiency of
 
 ### Contribution Acceleration Timeline
 
-We aim to increase the focus on our community contributions. Below is a timeline on how we will measure and track this goal.
+We aim to increase the focus on our community contributions. Below is a timeline
+on how we will measure and track this goal.
 
 - **[Unique Community Contributors per Month](/handbook/engineering/quality/performance-indicators/#unique-community-contributors-per-month)**
     - Target to increase to be greater than 150 per month by EOFY22
@@ -113,7 +116,9 @@ This team has the following immediate work items planned.
 
 ## Team Structure
 
-This new team resides under the Quality Department operating as a team of Full-stack engineers, led by an Engineering Manager reporting to the Quality Department Leader.
+This new team resides under the Quality Department operating as a team of
+Full-stack engineers, led by an Engineering Manager reporting to the
+Quality Department Leader.
 
 ```mermaid
 graph TD
@@ -132,3 +137,13 @@ graph TD
     style BA fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
     style BB fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
 ```
+
+## Contributor Efficiency Working group
+
+There's a working group with members from Quality and Community Relations that
+aims to streamline and improve contributor efficiency. It implements key
+business iterations that results in substantial and sustained increases to
+community contributors & contributions.
+
+- Handbook page - https://about.gitlab.com/company/team/structure/working-groups/contribution-efficiency/
+- Agenda - https://docs.google.com/document/d/1AOgqaslnq-WI1ICSZ1NzSnALf1Va4D5qAD191icAoSI/edit#
