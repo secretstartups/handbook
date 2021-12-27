@@ -160,6 +160,12 @@ When the MR is ready, the reviewer is at-mentioned in the public E-group channel
 The reviewer communicates with the maker via that Slack thread.
 The goal is to merge it the same day, preferably within 15 minutes.
 
+## Communication guidelines
+
+We have communication guidelines to enable more efficient and productive conversations:
+1. Encourage participation from others. We should actively encourage folks who aren't speaking much to speak--especially if we are discussing a topic that should have their direct input. This includes directly asking other folks for their opinions and allowing space for folks to join the conversation.
+1. Proactively stop conversations only involving two people if they go on for more than a few minutes and do not require engagement from the broader group. These conversations can be taken offline. 
+
 ### Recurring discussion topics
 
 There are some topics discussed at every E-group offsite.
@@ -172,6 +178,7 @@ These include:
 
 
 ### Break guidelines 
+
 Break periods are scheduled into the agenda by the CoS to the CEO and should follow these guidelines:
 1. Breaks should be scheduled for 1/6 of the time (same as speedy meeting)
 1. Breaks should be a minimum of 5 minutes
