@@ -109,8 +109,8 @@ This section is typically done by the peer reviewer. If needed, the peer reviewe
 
 > **Note**: Do _not_ provide hints to answers, or let the user know which challenges they got right or wrong. That is how social engineering works!
 
-1. If the user is unable to pass the risk factor but we have not provided all the applicable challenges, you may offer further challenges.
-   - Most commonly, an `Owner in the top level namespace` (with a valid subscription) vouch is requested. Use the [`Support::SaaS::2FA::2FA ask owner vouch` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360052221199). See the [Verifying an Owner Vouch section](#authenticating-an-owner-vouch) for more information.
+1. If the user is unable to pass the risk factor but we have not provided all the applicable challenges, you may offer further challenges. This is true for all users, including owners.
+   - Most commonly, an `Owner in the top level namespace` (with a valid subscription) vouch is requested. Use the [`Support::SaaS::2FA::2FA ask owner vouch` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360052221199). See the [Verifying an Owner Vouch section](#authenticating-an-owner-vouch) for more information. The originating email of this request should match a verified email of the Owner's account. If the user is an Owner, vouch must be from a different Owner.
    - For large organizations, please check the Zendesk organization notes to see if they're using the [large customers](#large-customers) workflow before offering the owner vouch challenge.
    - When we receive a subsequent response, go back to [evaluating the challenges](#evaluating-challenge-answers) to see if they now pass.
 1. If the user is unable to pass the available challenges:
