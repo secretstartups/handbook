@@ -74,10 +74,10 @@ Notice we asked for what we needed, and we’ll be able to help. Let’s make it
 >
 > Once you send these over and help us understand how you are getting to the slow state we’ll be happy to help you dive in some more.” (This is us reassuring them we’ll help.)
 
-We’ve asked for what we need early. Hit them with it, so they can start thinking
+We’ve asked for what we need early. Emphasize the ask _early_, so they can start thinking
 on it and if they stop reading right there, they didn’t miss the ask. We’ve given
 a hypothesis which is something for them to chew on and understand our vantage.
-We don’t want to _serve_ our customers we want to _partner_ with them. This is
+We don’t want to _serve_ our customers, we want to _partner_ with them. This is
 one way for them to see us as a peer vs. “support minds as a service.”
 
 We then make sure to let them know _we are still here_ and will be when they come back.
@@ -112,7 +112,7 @@ We also can be transparent that we're in the hypothesis testing mode. When doing
 
 It is interesting to note that the hypothesis test feeds back into the characterization mode, as we're establishing new facts about the user's scenario with the test.
 
-You can come up with multiple theories and corresponding tests in a single response. In fact, doing so might help explicit the structure of the operation modes described above. The facts established in the characterization step would be common to all theories. The possibilities described in a single theory, however, might not apply to others, so it is important to keep them separate.
+You can come up with multiple theories and corresponding tests in a single response. In fact, doing so might help make explicit the structure of the operation modes described above. The facts established in the characterization step would be common to all theories. The possibilities described in a single theory, however, might not apply to others, so it is important to keep them separate.
 
 The idea for this was taken from [Jeff Anderson's talk](https://www.youtube.com/watch?v=DK1ew1HpmeY&t=127s).
 
@@ -171,7 +171,7 @@ If it's not in our docs, the first step before any customer uses it in productio
 
 #### Documentation
 
-By taking a [docs-first](https://docs.gitlab.com/ee/development/documentation/styleguide.html#docs-first-methodology) approach to answering, we can ensure that the documentation remains a highly useful [single source of truth](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot). By building up a corpus of documentation informed by real-world problems, we help GitLab customers find the answers or solutions they need before they come into the queues.
+By taking a [docs-first](https://docs.gitlab.com/ee/development/documentation/styleguide/#docs-first-methodology) approach to answering, we can ensure that the documentation remains a highly useful [single source of truth](https://docs.gitlab.com/ee/development/documentation/styleguide/#documentation-is-the-single-source-of-truth-ssot). By building up a corpus of documentation informed by real-world problems, we help GitLab customers find the answers or solutions they need before they come into the queues.
 
 **Always respond with a link to the docs. If docs content is missing, create it and link the customer to the MR. If you are working on a ticket that is about to breach, you can clear the breach with a response, and immediately follow up with the MR. Remember: go slow, to go fast.**
 
@@ -196,7 +196,7 @@ Currently we are curating the list of articles and redirects, so you need to rea
 ### Openly share your mistakes and learn from them
 
 We are all human and while we all strive to ensure our interactions with customers
-is 100% correct, the truth is that we are bound to make mistakes from time to
+are 100% correct, the truth is that we are bound to make mistakes from time to
 time. This can create a stressful or anxious situation if you provided a customer
 with the wrong advice, or you were unaware of a particular aspect of a ticket that
 was pointed out to you later on for example.

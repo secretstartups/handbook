@@ -46,7 +46,7 @@ If you have signed up to a pod, you can use the below prioritization guidelines.
 Yes. Since the intent for signing up to a pod can be different (learning vs helping), you might have a need to sign up to more than 1 pod at the same time.
 
 1. Prior to signing up, chat with your manager about it.
-1. Create an [issue with Support Ops](insert link) to provide you access to the pod view.
+1. Create an [issue with Support Ops] to provide you access to the pod view.
 1. We recommend signing up to a maximum of 2 pods at a time, 1 for helping and 1 for learning.
     1. This will ensure you do justice to both in terms of time.
     1. You can always sign out of a current pod and sign up to a new pod.

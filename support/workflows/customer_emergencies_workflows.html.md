@@ -46,6 +46,16 @@ If at any point you would like advice or help finding additional support, go ahe
 1. Open the Zendesk ticket.
     1. Most PagerDuty notification formats provide a direct link to the ticket.
     1. Alternatively, use Zendesk search with the term `priority: urgent` to find the ticket.
+1. Verify that the requester is a customer with emergency support entitlement:
+   1. If the customer's email address is not associated with an org in Zendesk,
+      plan to start the Zoom call by verifying support entitlement **and** to
+      end the call gracefully if they do not have sufficient entitlement. In
+      they are a free user, mark the ticket `solved`. Otherwise, lower the
+      priority.
+   1. If the customer is associated with an org in Zendesk, verify that their
+      subscription is Premium or above. If it is not, lower the priority of
+      the ticket and inform the customer kindly that their subscription does
+      not include emergency support.
 1. Create a Public Comment in the ticket acknowledging the emergency; offer a Zoom call to the customer if appropriate to the reported situation. A SaaS emergency related to a public incident published on the status page, for example, would not warrant a call.
    * Example of self-managed emergency ticket which was resolved without a call: https://gitlab.zendesk.com/agent/tickets/148028
 1. Only Resolve the PagerDuty alert _after_ you have contacted the customer. This means that you are actively handling the emergency now and will see it through.
@@ -177,8 +187,8 @@ If a customer is reporting that behaviour has recently changed, first check [Git
 
 #### Broken functionality due to a regression or feature flag
 
-1. Create a `~bug` issue and have the customer review it.
-1. Escalate the `~bug` issue
+1. Create a `~"type::bug"` issue and have the customer review it.
+1. Escalate the `~"type::bug"` issue
    - If it's a new bug, or a bug with [S1/S2 severity](/handbook/engineering/quality/issue-triage/#severity) escalate using the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/). In most cases we will generate a roll-back patch and apply it to Gitlab.com.
    - If it's a feature flag, work with the who turned it on to [disable it through ChatOps](https://docs.gitlab.com/ee/development/feature_flags/controls.html#disabling-feature-flags). In some cases, you may need to use the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) to raise a developer.
 1. If this is affecting multiple customers, [declare an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) to engage the incident response team who will update the status page.
@@ -271,3 +281,34 @@ You can bulk edit tickets by:
 US Federal on-call support is provided 7 days a week between the hours of 0500 and 1700 Pacific Time.
 
 The current on-call schedule can be viewed in [PagerDuty](https://gitlab.pagerduty.com/schedules#P89ZYHZ)(Internal Link), or in the [Support Team on-call page](https://gitlab-com.gitlab.io/support/team/oncall.html)(GitLab Employees only). The schedule is currently split into two, 6 hour shifts, an AM and a PM shift. The AM shift starts at 0500 Pacific Time and runs until 1100 Pacific Time. The PM shift starts at 1100 Pacific Time and runs until 1700 Pacific Time.
+
+## Special handling notes
+
+There are a few cases that require special handling. If an emergency page falls in one of these categories please follow these special handling instructions. If you think an emergency is special and not called out below, connect with the Support Manager On-call for help as how best to approach it.
+
+### Compromised instances
+
+In the event that an emergency is raised about a compromised instance a call can quickly move well beyond the scope of support.
+
+Use the Zendesk macro `Incident::Compromised Instance` which expands on the approach below.
+
+The customer should to:
+1. Shut the instance down immediately.
+1. Create a new instance at the exact same version and restore their most recent backup into it.
+   - Avoid exposing the new instance to the Internet
+   - If they have not captured their `gitlab-secrets.json`, or if the only backups available are stored in `/var/opt/gitlab/backups`, mount the volume of the compromised instance to retrieve it.
+1. Rotate secrets on the new instance:
+   - All secrets contained within the `gitlab.rb` (such as LDAP/email passwords)
+   - All secrets in CI jobs such as API keys or remote server credentials
+   - GitLab Runner registration tokens and Runner environment variables 
+1. If the exploit used to compromise this instance is known, then upgrade **the new instance** to a version that contains a fix for it or apply any known patches/workarounds. 
+   - In the case that public access is required by the organization, remove network access restrictions once the new instance is appropriately secured.
+1. Retain the compromised instance for forensics and additional data recovery.
+
+Do not offer or join a call without engaging the Support Manager on-call to align and set expectations with the customer through the ticket.
+
+### Single user, same day purchases
+
+There have been a few documented cases of folks purchasing a single user GitLab license specifically to raise an emergency. If you 
+encounter such a case, engage the Support manager on-call before offering a call.
+

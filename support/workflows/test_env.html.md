@@ -46,7 +46,7 @@ If you require a group of your own to have a paid tier, please submit an [access
 
 ## Testing Environment License
 
-For a test you will need to make an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) requesting one. You can select `GitLab Team Member License`
+For a test you will need to make an [internal issue](hhttps://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) requesting one. 
 
 Please keep in mind *you can't generate licenses for customers* only for testing
 purposes.
@@ -149,12 +149,14 @@ If you wish to test resources using a real domain name (instead of an IP address
 For a Digital Ocean droplets [follow this guide](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md).
 Once you've  created your resource you can follow the section named [Creating GitLab test instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) (though do keep in mind that we are moving away from this project).
 
+
 ## Persistent Local Environments
 
 ### Install Docker
 
 Install [Docker Desktop for Mac](https://www.docker.com/get-started) or the
-[Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux).
+[Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux).  
+It's all you need to get started using the officially supported [Docker installation methods](https://docs.gitlab.com/ee/install/docker.html). Note that on Macs with M1 / Apple Silicon, running GitLab in Docker is not working properly for now. Check out [UTM](#utm-free--opensource---compatible-with-apple-silicon) below as an alternative for a local setup on your M1 Mac.
 
 ### Install Docker Machine
 
@@ -169,7 +171,7 @@ $ curl -L https://github.com/docker/machine/releases/download/v0.16.2/docker-mac
 
 This guide involves configuring and setting up VMWare and Docker locally and assumes you're using macOS.
 
-#### Install VMWare
+#### Install VMWare (paid)
 
 1. Navigate to [VMWare store](https://store.vmware.com), and then purchase
    **VMware Fusion 10 (for macOS)** (or current version).
@@ -178,9 +180,19 @@ This guide involves configuring and setting up VMWare and Docker locally and ass
 1. Launch VMWare Fusion.
 1. When prompted, enter the license details.
 
-### VirtualBox Testing Environment (free & opensource alternative to installing VMWare Fusion)
+### UTM (free & opensource - compatible with Apple Silicon)
 
-This guide involves configuring and setting up VirtualBox and Docker locally and assumes you're using macOS.
+UTM is an open source QEMU-based virtualisation software for MacOS. It currently provides support for Apple silicon hardware, so may be useful for engineers on Apple M1 devices to deploy local virtual machines.
+
+#### Install UTM
+
+1. [Navigate to the UTM home page](https://mac.getutm.app/) and select 'Download'.
+1. Once installed, follow the [instructions for an ARM-based installation of Ubuntu](https://mac.getutm.app/gallery/ubuntu-20-04)
+1. Start the VM within the UTM interface.
+
+### VirtualBox Testing Environment (free & opensource - does not currently support Apple silicon)
+
+This guide involves configuring and setting up VirtualBox and Docker locally and assumes you're using macOS. *VirtualBox does not currently support Apple M1 CPUs.*
 
 #### Install VirtualBox
 
@@ -345,3 +357,12 @@ docker exec -it gitlab-ee gitlab-ctl reconfigure
 + [https://docs.gitlab.com/omnibus/docker/](https://docs.gitlab.com/omnibus/docker/)
 + [https://docs.docker.com/machine/get-started/](https://docs.docker.com/machine/get-started/)
 + [https://docs.docker.com/machine/reference/ip/](https://docs.docker.com/machine/reference/ip/)
+
+## Windows
+
+It may come to pass that you require a Windows environment to test a [Windows Runner](https://docs.gitlab.com/runner/install/windows.html) or
+even the [Kubernetes Executor in a Mixed Cluster](https://docs.gitlab.com/runner/executors/kubernetes.html#example-for-windowsamd64). 
+
+The options are the same as above:
+ - Cloud environements: GCP and AWS have Windows Server images you can spin up to connect to via RDP.
+ - A local environment: Microsoft provides [pre-packeged Windows VMs](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/) for your hypervisor of choice.

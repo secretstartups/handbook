@@ -15,9 +15,9 @@ description: "Support Engineering workflow detailing how to work on US Federal T
 
 US Federal Support generally follows the [working on tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow) flow for global with a few exceptions.
 
-US Federal Support has a number of engineers with [verified US Citizenship](#access-limited-to-us-citizens) that have between a 50-100% focus on addressing new and existing cases in the US Federal Support Portal. When a Support Engineer is working an on-call shift for the US Federal Zendesk Instance, that Engineer should monitor the instance during that shift. Those without a 50% or higher focus on US Federal but do have access to the instance are still encouraged to participate through pairing sessions, joining customer calls, and assisting with gaps in knowledge where possible.
+US Federal Support has a number of engineers with [verified US Citizenship](#access-limited-to-us-citizens) that have a 100% focus on addressing new and existing cases in the US Federal Support Portal. The agents focused on this instance should distribute effort and work new cases from the [Support view](https://gitlab-federal-support.zendesk.com/agent/filters/360196736831). When replying to a new case the agent making the public comment should also assign the case to themselves. Those without a 50% or higher focus on US Federal but do have access to the instance are still encouraged to participate through pairing sessions, joining customer calls, and assisting with gaps in knowledge where possible. Non-fully focused global engineers are not encouraged to assign new cases to themselves.
 
-After 7 days of a case being in the `pending` state an automation will run that puts the case back into an `open` state. This allows for the agent to either follow up with the user on the requested actions or move the case to a `solved` state if they believe the issue in the case is resolved.
+After 7 days of a case being in the `pending` state an automation will run that puts the case back into an `open` state. This allows for the agent to either [follow up with the user](#following-up) on the requested actions or move the case to a `solved` state if they believe the issue in the case is resolved.
 
 There are events where customers will request to re-assign a Zendesk case to a co-worker. We handle this using the `Change` option at the top of the ticket by the respondents email.
 The context for this flow is because [CCs are disabled](https://about.gitlab.com/support/#ccs-are-disabled).
@@ -37,6 +37,25 @@ Federal tickets can be linked publicly, such as in an issue or merge request as 
 
 When pairing over video chat, be sure you only pair with engineers that have access to the US Federal instance and avoid screensharing content from the US Federal Support Instance, logs, or other information that is required to be kept confidential.
 
+### Following up
+
+The US Federal Support instance does not use a mechanism that automatically solves a case after a set period of time. Instead, agents will follow up periodically with the end users to determine if the support case has reached a mutually satisfied state that allows resolution of the case. When following up with a user it may be important to consider addressing the following key points:
+
+- Let them know what action we're taking, whether solving it out or just following up
+- Summarize how long it's been since we've last heard from them
+- Reiterate to the user what information we were looking for in order to progress the case
+- Assure the user that if they do need further assistance:
+    - We're here waiting for their reply
+    - If solving: that their reply will reopen the case or create a follow-up
+
+##### Extending the follow up time
+
+There can be certain situations in which a task may take longer than 7 days for the customer to make changes and provide feedback. If there has been an agreed upon day in the future where the customer has agreed they will update us then an agent may opt to use the `Support::Block Automatic Reopen` macro. This macro will add the `blocked_by` tag and create an internal comment where the agent must fill in the details indicating why the case should remain in pending. The `blocked_by` tag must be manually removed by an agent when the agreed upon date has been reached to resume the standard pending to follow-up workflow. Some best practice suggestions for using the macro are below:
+
+- Set a [task reminder](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_us_federal_apps.html#due-date-picker) for the date that we should hear back from the user.
+- Regularly review pending cases to ensure we are receiving follow-up by the date promised
+- Put the relevant issue or case number in the blocked-by reason so that others may be aware and follow-up on your behalf
+
 ### How to reference customer information securely in chat?
 
 You may leverage links to records in controlled access systems such as Salesforce or Zendesk in order to securely provide information. Note that if you have Slack link expansion enabled for SFDC records you should immediately remove the expansion after making your comment.
@@ -46,13 +65,14 @@ Examples:
 - "This user https://gitlab-federal-support.zendesk.com/users/398443026291/ is struggling with Geo setup..."
 - "The person who submitted the case that got bounced back is a member of this organization: https://gitlab.my.salesforce.com/0014M00001hHHKF"
 
-The use of an acronym to discuss an organization is **not permitted** in either #support_us-federal-chat or #feed_zd-federal channels to prevent disclosure of sensitive information.
+The use of an acronym to discuss an organization is **not permitted** in either `#support_us-federal-chat` or `#feed_zd-federal` channels to prevent disclosure of sensitive information.
 
 ## Getting help with a ticket
 
-Getting help with a US Federal ticket can be tricky since some information must be kept confidential. However, there are many times when a non-US Federal engineer may be the subject matter expert needed to help efficiently resolve a US Federal Support case. It is encouraged to ask questions in `#support_self-managed` and other non-private slack channels provided the [Communication Guidelines](#communication-guidelines) are followed. You may also consider cross-posting the request for help back to the private `#support_us-federal-chat` channel to maximize the pool of engineers who may be able to assist. It should be kept in mind that although the `#support_us-federal-chat` slack channel is a private channel the communication guidelines still apply as workspace admins and other users invited to the channel may not have been vetted for US Citizenship.
+Getting help with a US Federal ticket can be tricky since some information must be kept confidential. However, there are many times when a non-US Federal engineer may be the subject matter expert needed to help efficiently resolve a US Federal Support case. It is encouraged to ask questions in `#support_self-managed` and other non-private Slack channels provided the [Communication Guidelines](#communication-guidelines) are followed. You may also consider cross-posting the request for help back to the private `#support_us-federal-chat` channel to maximize the pool of engineers who may be able to assist. It should be kept in mind that although the `#support_us-federal-chat` Slack channel is a private channel the communication guidelines still apply as workspace admins and other users invited to the channel may not have been vetted for US Citizenship.
 
 If you need a manager's help with a ticket, please keep in mind that only US Citizens have access to our US Federal Instance, which means that some of our managers cannot help you with tickets. If you are a US Citizen working in US Federal and your manager isn't, please feel free to reach out to a different manager if you are unable to address an issue without sharing confidential information.
+
 
 ## Checking for access
 

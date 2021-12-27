@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: Account Ownership Verification
 category: GitLab.com
 subcategory: Accounts
-description: "Workflow detailing how and when to disable 2FA for a customer and verifying account ownership"
+description: "Workflow detailing how and when to verify account ownership including disable 2FA"
 ---
 
 ## On this page
@@ -12,15 +12,17 @@ description: "Workflow detailing how and when to disable 2FA for a customer and 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## **Overview**
+## Overview
 
-This workflow focuses on disabling [Two-factor Authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html) on a GitLab.com account.
-
-It should also be used any time ownership of an account needs to be verified, such as for [account changes](/handbook/support/workflows/account_changes.html).
+This workflow covers how a user can provide account verification. While the workflow focuses on disabling [Two-factor Authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html) on a GitLab.com account, it should be used for any [account changes](/handbook/support/workflows/account_changes.html).
 
 2FA removal and other account actions can only be completed if the [workflow](#workflow) below is successful.
 
-## **Self Service 2FA Removal**
+## GitLab Team Members
+
+If the user is a GitLab employee, have them contact IT Ops.
+
+## Self Service 2FA Removal
 
 In most cases, users can disable 2FA themselves and regain access to their accounts, using one of the following methods:
 
@@ -30,40 +32,72 @@ In most cases, users can disable 2FA themselves and regain access to their accou
 
 > As of August 2020, [free users won't be able restore access to accounts](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/) if self-service methods do not work for them.
 
-## **Disable 2FA With Support Intervention**
+## Disable 2FA With Support Intervention
 
 If a user cannot make use of self-serve methods (lost their account recovery codes and has no SSH key registered), proving they own the account can be difficult. Support intervention for 2FA removal after the above steps have been attempted is only possible for users with an *existing paid plan* when the ticket was created.
 
 If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
 
+### Conditions for 2FA Reset Consideration
+
+In order for a SaaS user to be a candidate for the [workflow](#workflow), one of the following is true:
+
+1. The user on GitLab.com occupies a seat in a paid group on GitLab.com.
+1. The user is the primary billing contact on a current invoice for either Self-managed or SaaS purchases.
+1. GitLab Employees (account managers, TAMs or others) collaborate with the holder of this account in an account management project.
+
+More succinctly: they're paid, they use the account to pay, or we use the account to communicate with them.
+
 While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with [SSO enforcement](https://docs.gitlab.com/ee/user/group/saml_sso/#sso-enforcement) enabled. In these cases:
 
-1. [Owner vouch](#authenticating-an-owner) is required.
+1. [Owner vouch](#authenticating-an-owner-vouch) is required.
 1. Primary email of the account must match the company domain.
 1. User must still prove account ownership following the [workflow](#workflow).
-   - Include the paid namespace when determining the data classification level.  
+   - Include the paid namespace when determining the data classification level.
 
-### Workflow
+## Workflow
 
-As part of access recovery, if 2FA removal is not involved, then skip the following steps and move on to the next section.
+The workflow applies to all cases where account verification is required.
 
-1. If they have not answered the challenges, apply the [`Support::SaaS::2FA::2FA Challenges` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103721068).
-1. The macro marks the ticket as "Pending".
+### Sending Challenges
 
-#### Evaluating Challenge Answers
+If you need a basis for a response where you send the challenges, or in a 2FA ticket, if the user has not answered the challenges, use the [`Support::SaaS::2FA::2FA Challenges` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103721068).
+
+### Evaluating Challenge Answers
 
 > **Note**: In case the user sends back very minimal information and it's clear it's not sufficient or the answers are vague, reply asking for more information immediately after their response. You can provide some additional guidance, such as "please provide the exact date and time of the commit, not just an approximate one".
 
 1. Using the [2FA App in Zendesk](../support-ops/documentation/zendesk_global_apps.html#2fa-app), determine the appropriate data classification level and the risk factor you have determined from customer's answers to the challenges.
-   - For almost all cases, the originating email should be the same as the one listed on the account.
-   - An existing paid plan is required for 2FA resets.  However, challenge responses can be accepted from any group or project associated with the user.  This includes groups or projects that are not associated with a paid plan.
+   - [Specific conditions are required to be considered for 2FA resets](#conditions-for-2fa-reset-consideration).  However, challenge responses can be accepted from any (paid or unpaid) group or project associated with the user.
+   - If a group owner is answering on an [enterprise user's](gitlab-com_overview.html.md#enterprise-users) behalf, the owner can be considered to be "vouching" for the user (another owner vouching is not required).
    - Backup to app: [Risk Factor Worksheet](https://drive.google.com/drive/u/0/search?q=Risk%20factor%20worksheet%20parent:1nI4lCILooN-0U_RmPJP6_cNyIDgXJR99) (internal only) with the [`Support::SaaS::2FA::2FA Internal Note` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket with the table at the bottom of the sheet.
-1. Request that your decision be peer-reviewed by another member of the team via Slack `#support_gitlab-com` if the account verification passed. If the verification failed, a peer review is optional, and you may opt to [offer more challenges to the user](#user-fails-to-prove-account-ownership).
-1. For the peer reviewer: In case you disagree, leave an internal note on the ticket stating your thoughts on what the risk factor should be and reply to the Slack conversation for further discussion. If you agree, move to [the next section](#user-successfully-proves-account-ownership) on what to do if successful.
+1. **If verification passed:** Request that your decision be peer-reviewed by another member of the team via Slack `#support_gitlab-com`.
+1. **If the verification failed**: A peer review is optional, and you may opt to [offer more challenges to the user](#user-fails-to-prove-account-ownership).
+1. *Peer reviewer:* In case you disagree, leave an internal note on the ticket stating your thoughts on what the risk factor should be and reply to the Slack conversation for further discussion. If you agree, move to [the next section](#user-successfully-proves-account-ownership) on what to do if successful.
 
-#### User Successfully Proves Account Ownership
+### Authenticating an Owner Vouch
 
-This section will usually be done by the peer reviewer.
+In a paid namespace: If the user elects to have an Owner vouch for their request, apply the macro `Support::SaaS::2FA::2FA ask owner vouch`. This will direct the requestor to have an Owner create a private Snippet with a Support-provided string. Once they have replied verifying they have done so:
+
+1. Verify that the Owner's email address matches the primary address of an Owner in the namespace.
+1. Use your Admin or Auditor account to browse to the Snippet provided (e.g. `https://gitlab.com/-/snippets/2057341`)
+   - Verify the visibility is Private
+   - Verify the text of the Snippet matches the string you specified
+   - Verify that the author of the Snippet is an Owner in the paid namespace
+1. If the Owner passes, you may count this towards the account verification challenges.
+
+Note: Due to this [bug](https://gitlab.com/gitlab-org/gitlab/-/issues/337939) some group owners are not able to create snippets. In that case use a [backup method](#backup-methods-for-authenticating-an-owner) instead.
+
+### Backup methods for authenticating an owner
+
+If a group owner is unable to create a snippet, you may use another method to verify their identity. It must be an action that has been specifically instructed by Support and identifiably unique to the situation. Some examples include having the owner:
+ - create an issue in a project they have access to with a specific piece of text that you provide.
+ - create a new project at a path that you provide.
+ - update their GitLab Status to a specific string.
+
+### User Successfully Proves Account Ownership
+
+This section is typically done by the peer reviewer. If needed, the peer reviewer (or approving manager) may leave an approval note, in which case the original reviewer will perform the actions.
 
 1. For situations other than 2FA, please see [Account Changes workflow](account_changes.html).
 1. For disabling 2FA: If you agree with the decision, sign into your admin account and locate the username in the users table or by going to `https://gitlab.com/admin/users/usernamegoeshere`
@@ -71,32 +105,27 @@ This section will usually be done by the peer reviewer.
       1. On the account tab, click on `Disable 2FA`.
       1. Use the [`Support::SaaS::2FA::2FA Removal Verification - Successful` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103772548).
 
-#### User Fails to Prove Account Ownership
+### User Fails to Prove Account Ownership
 
-> **Note**: Do _not_ provide hints to answers. That is how social engineering works!
+> **Note**: Do _not_ provide hints to answers, or let the user know which challenges they got right or wrong. That is how social engineering works!
 
 1. If the user is unable to pass the risk factor but we have not provided all the applicable challenges, you may offer further challenges.
-   - Most commonly, an `Owner in the top level namespace` (with a valid subscription) vouch is requested. Use the [`Support::SaaS::2FA::2FA ask owner vouch` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360052221199). The originating email of this request should match a verified email of the Owner's account.
-      - If the user is the **sole group owner**, please offer further challenges in the [2FA App in Zendesk](../support-ops/documentation/zendesk_global_apps.html#2fa-app) or Risk Factor Worksheet](https://drive.google.com/drive/u/0/search?q=Risk%20factor%20worksheet%20parent:1nI4lCILooN-0U_RmPJP6_cNyIDgXJR99) (internal only).
+   - Most commonly, an `Owner in the top level namespace` (with a valid subscription) vouch is requested. Use the [`Support::SaaS::2FA::2FA ask owner vouch` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360052221199). See the [Verifying an Owner Vouch section](#authenticating-an-owner-vouch) for more information.
    - For large organizations, please check the Zendesk organization notes to see if they're using the [large customers](#large-customers) workflow before offering the owner vouch challenge.
    - When we receive a subsequent response, go back to [evaluating the challenges](#evaluating-challenge-answers) to see if they now pass.
 1. If the user is unable to pass the available challenges:
    1. Inform them that without verification we will not be able to take any action on the account. For 2FA, use the [`Support::SaaS::2FA::2FA Removal Verification - GitLab.com - Failed` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103790308).
    1. Mark the ticket as "Solved".
 
-### GitLab Team Members
-
-If the user is a GitLab employee, have them contact IT Ops.
-
-### Large Customers
+## Large Customers
 
 For customers who are large enough to have an account management project, a different workflow can be configured for them that will allow Support to more easily disable 2FA for any of their users that require it. Before this process can be used, a GitLab team member from either Customer Success or Sales must perform a few setup steps. If a customer requests this workflow, please refer them to either of those individuals.
 
-#### Setup (For CS & Sales)
+### Setup (For CS & Sales)
 
 The steps to follow depend on whether or not the customer has a shared Slack channel with us. Either the customer's Technical Account Manager (CS) or Account Manager (Sales) is responsible for performing this setup. Please proceed to [Shared Slack Channel](#shared-slack-channel) if they do or [No Shared Slack Channel](#no-shared-slack-channel) if they don't.
 
-##### Shared Slack Channel
+#### Shared Slack Channel
 
 1. Find out which users within the customer's organization are the ones that will be authorizing GitLab Support to disable 2FA on their users accounts. Obtain **both** the Slack handle and GitLab username of these users.
 1. Create a file called `2FA Verification.md` inside of the `.gitlab/issue_templates` directory of the customer's [Account Management](https://gitlab.com/gitlab-com/account-management) project. If that directory does not exist, create it as well.
@@ -132,7 +161,7 @@ The steps to follow depend on whether or not the customer has a shared Slack cha
    1. A link to the customer's account management project in the notes.
    1. The `skip_2fa_automation` tag so that users requesting this won't get the autoresponder.
 
-##### No Shared Slack Channel
+#### No Shared Slack Channel
 
 1. Find out which users within the customer's organization are the ones that will be authorizing GitLab Support to disable 2FA on their users accounts. Obtain the GitLab username of these users.
 1. Create a file called `2FA Verification.md` inside of the `.gitlab/issue_templates` directory of the customer's [Account Management](https://gitlab.com/gitlab-com/account-management) project. If that directory does not exist, create it as well.
@@ -160,24 +189,20 @@ The steps to follow depend on whether or not the customer has a shared Slack cha
        <p>/assign GITLAB_USERNAME GITLAB_USERNAME GITLAB_USERNAME
        <p>/label ~"2FA Reset" ~"Awaiting confirmation"
 
-1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) to request that two pieces of information be added to the notes section of the customer's Zendesk organization:
+1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/support-ops/zendesk-organizations/-/issues/new) to request that two pieces of information be added to the notes section of the customer's Zendesk organization:
    1. A link to the `2FA Verification.md` file you created in the previous step, such as `2FA owner vouch: /path/to/2FA Verification.md/`.
    1. A link to the customer's account management project.
 
-#### Usage (For GitLab Support)
+### Usage (For GitLab Support)
 
 If a 2FA ticket is opened by an organization that has had this workflow configured for them, perform the following steps to process the request depending on whether or not the customer has a shared Slack channel with us.
 
-##### Shared Slack Channel
-
-Perform the following steps if the customer has a shared Slack channel with us.
-
-##### 1. Create Issue
+#### 1. Create Issue
 {:.no_toc}
 
 1. Open a new issue in the issue tracker of the customer's account verification project using the `2FA Verification` template and follow all instructions within it. A link to this template should be in the notes for the organization in Zendesk.
 
-##### 2. Contact Through Slack
+#### 2. Contact Through Slack (skip if no shared Slack channel)
 {:.no_toc}
 
 1. Within the customer's shared Slack channel with us, use the template below to alert them to the fact that a new 2FA disable request exists in their account management issue tracker. Be sure to replace the following variables:
@@ -194,38 +219,15 @@ Perform the following steps if the customer has a shared Slack channel with us.
 
 >**Note:** If the customer has created an issue using the `2FA Verification` template themselves and sent us a Zendesk ticket with a link to it, skip this step.
 
-##### 3. Wait For Authorization
+#### 3. Wait For Authorization
 {:.no_toc}
 
 Wait for the customer to comment on the issue and approve the request to disable 2FA.
 
-##### 4. Disable 2FA
+#### 4. Disable 2FA
 {:.no_toc}
 
 Once the customer has approved the request, disable 2FA on the user's account, add an [Admin Note](admin_note.html) on the user's account, and then close both the support ticket and issue.
-
-##### No Shared Slack Channel
-
-Perform the following steps if the customer does not have a shared Slack channel with us.
-
-##### 1. Create Issue
-{:.no_toc}
-
-1. Open a new issue in the issue tracker of the customer's account verification project using the `2FA Verification` template and follow all instructions within it. A link to this template should be in the notes for the organization in Zendesk.
-
-##### 2. Wait For Authorization
-{:.no_toc}
-
-Wait for the customer to comment on the issue and approve the request to disable 2FA.
-
-##### 3. Disable 2FA
-{:.no_toc}
-
-Once the customer has approved the request, disable 2FA on the user's account, add an [Admin Note](admin_note.html) on the user's account, and then close both the support ticket and issue.
-
-## **Authentication For GLGL Reports**
-
-In the event that a customer requests a report of their group's users from [GLGL](https://gitlab.com/gitlab-com/support/toolbox/glgl), consult the [internal-requests wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Procedures/GLGL-Report-Authentication) for the process of authenticating the requestor.
 
 ## **Account Ownership Changes**
 
@@ -256,16 +258,4 @@ If no Self-service options are viable, follow the steps below:
 1. Once we received the necessary document, double check all the requested information is included. If not, let them know what's missing. If all required elements are present, follow the next step.
 1. Create a new issue in [the Legal tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/) requesting approval to add or upgrade the permissions of the requesting user. Note the issue in an internal comment on the ticket, then reply to the requestor using [`Legal::General` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in `#legal`.
 1. After receiving approval: add or elevate the requested user to Owner role.
-
-## **Authenticating an Owner**
-
-In a paid namespace: If the user elects to have an Owner vouch for their request, apply the macro `Support::SaaS::2FA::2FA ask owner vouch`. This will direct the requestor to have an Owner create a private Snippet with a Support-provided string. Once they have replied verifying they have done so:
-
-1. Verify that the Owner's email address matches the primary address of an Owner in the namespace.
-1. Use your Admin or Auditor account to browse to the Snippet provided (e.g. `https://gitlab.com/-/snippets/2057341`)
-   - Verify the visibility is Private
-   - Verify the text of the Snippet matches the string you specified
-   - Verify that the author of the Snippet is an Owner in the paid namespace
-1. If the Owner passes, you may count this towards the account verification challenges.
-
-Please note: Due to this [bug](https://gitlab.com/gitlab-org/gitlab/-/issues/337939) some group owners are not able to create snippets. In that case please verify the owner vouch and proceed with the request.
+1. [Add an admin note](admin_note.html.md) on the group admin page.

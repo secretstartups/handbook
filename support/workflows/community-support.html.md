@@ -18,16 +18,16 @@ Technical support solutions shared in the forum reach a wide audience as they ar
 
 Oftentimes, technical problems encountered and questions asked by our wider community have known solutions and answers that were provided to customers by GitLab Support team members in Support tickets. In this situation, having Support Engineers sharing these known tech support solutions in the community forum can be a highly effective form of ticket deflection.
 
-### Docs-first Community Support
+### Docs-first Community Assistance
 
 Similar to GitLab Support ZenDesk tickets, unsolved GitLab technical support threads in the forum are often an opportunity to:
 
 - link to the relevant documentation
 - improve docs based on user interaction/feedback
 
-As such, GitLab Support Engineers should default to using a **Docs-first approach to Community Support**.
+As such, GitLab Support Engineers should default to using a **Docs-first approach to Community Assistance**.
 
-The critical points of the Docs-first approach for Community Support are:
+The critical points of the Docs-first approach for Community Assistance are:
 
 - Always (try to) respond with a link to the docs.
 - If you find helpful content missing from our documentation, create a merge request or issue to add it. Then link the MR or issue in your reply.
@@ -37,7 +37,7 @@ The critical points of the Docs-first approach for Community Support are:
 
 There are several "special types" of content that are not well-suited for our documentation, such as Tutorials, "How-to" guides, and context-specific explanations.
 
-A docs-first approach to Community Support in the Forum can help fill these "special type" gaps by making relevant answers/solutions easily discoverable and readily available.
+A docs-first approach to Community Assistance in the Forum can help fill these "special type" gaps by making relevant answers/solutions easily discoverable and readily available.
 
 For example, these Community forum threads where answers and solutions are "special types" that don't "fit" into the docs:
 
@@ -45,7 +45,7 @@ For example, these Community forum threads where answers and solutions are "spec
 - Context-based Explanation - (eg. "I read the docs, but I don't understand how to do X.")
 - Problem-specific Troubleshooting steps (eg. "I upgraded GitLab from 12.9 to 13.1 and now it's not working, I get 404 error on every page - please help!")
 
-### Community Support Workflows
+### Community Assistance Workflows
 
 - **[First Responder](#first-responder)** - early detection of customer-facing problems, bugs, and regressions
 - **[Silo-breaker](#silo-breaker)** - publicly share solutions/answers relevant to free users

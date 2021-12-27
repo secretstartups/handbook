@@ -141,23 +141,62 @@ team. The current division of responsibilities is:
 | Access Requests     | Support Onboarding         | @jcolyer         | @nabeel.bilgrami |
 |                     | Internal Licenses          | @dnolan1         | @nabeel.bilgrami |
 
+## Code freeze
+
+During the month of December, Support Operations enters a code freeze. During
+this period, Support Operations will not deploy any major changes to the
+various systems we manage (Zendesk, Calendly, etc.).
+
+For reference, a "major" change would be anything impacting ticket routing
+or Support workflows. Some general examples would be:
+
+* Ticket field and form changes
+* Major view changes
+* Adding new avenues of ticket creation
+
+This is done to promote stability, especially during a time many of us take
+time off for the holidays. We also use this time to review our setup and look
+for any unnoticed problems/errors/etc.
+
+During this time, we will still do the following:
+
+* Create, edit, and delete macros as needed
+* Fix any issues/errors that occur
+* Discuss and test new changes (to be implemented January or later)
+* Make changes to access based on ARs for onboarding and offboarding
+* Maintain changes to the Support team page
+
+## Hiring Plan
+
+Currently, Support Operations is using a ratios for our hiring plan. The ratios
+used are:
+
+* 40 Support Engineers to every 1 Support Operations Specialist
+* 10 Support Operations Specialists to every 1 Support Operations Manager
+
+There are plans to utilize the information at the
+[Support Ops Metrics page](https://gitlab-com.gitlab.io/support/support-ops/support-ops-metrics/)
+in conjuction with the above ratios to refine this hiring plan in the future.
+The Support Ops Metrics page can be used to get a quick look at how we are
+currently doing and help determine future needs.
+
 ## Frequently Asked Questions (F.A.Q.)
 
-** If we receive any probelm in using Zendesk, can we contact Zendesk directly? **
+**If we receive any problem in using Zendesk, can we contact Zendesk directly?**
 
 Please contact Support-Ops team first. Discuss the problem by asking a question in channel and tagging @support-ops. It is a high probability that we can help you resolve the problem at hand. In cases where we cannot and we do need to contact Zendesk support directly, it is best to have Support-Ops handle that.
 
-** What will happen if Zendesk is down globally? **
+**What will happen if Zendesk is down globally?**
 
 Zendesk will only go down when the internet is globally effected because they use Pods for services. This ensures that if a region is facing downtime, Zendesk can quickly mitigate that while making sure services run smoothly. However, if you are still facing any problem accessing Zendesk, please contact the support-ops team. In the case that Zendesk is down globally, we have email support option available.
 
-** Is there any disaster recovery plan available? **
+**Is there any disaster recovery plan available?**
 
 Zendesk keeps the data in backup servers will all due diligence. This ensures that we can recover data when it is needed. These backups are utilized to restore Zendesk in the case it fails due to a problem on Zendesk's end.
 
 Also, the support-ops team ensures all triggers, automations, views, macros, forms, fields, conditions, etc are documented to save the hassle of writing up everything from scratch.
 
-** Why do we allow users to open support tickets without being required to login to Zendesk via some authentication? **
+**Why do we allow users to open support tickets without being required to login to Zendesk via some authentication?**
 
 According to Lee Matos:
 

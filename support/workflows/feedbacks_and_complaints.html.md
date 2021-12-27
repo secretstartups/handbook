@@ -50,6 +50,6 @@ When the feedback is specific to a feature or service, search for an existing is
 
 ### Responding to feedback
 
-If a customer rates a ticket, an email will be sent to the support engineer and the Zendesk manager.
+If a customer rates a ticket by submitting a survey then an email will be sent to the support engineer and the Zendesk SSAT manager. The on-call SSAT Manager will then follow [this workflow](/handbook/support/workflows/how-to-respond-to-feedback.html) to process the responses.
 
-The on-call SSAT Manager will follow [this workflow](/handbook/support/workflows/how-to-respond-to-feedback.html) to process the responses.
+If the customer gives feedback or raises concerns within a ticket, please bring it to your manager's attention. It's important that this feedback is reviewed and acted on. For example, there may be a need to get the Account Manager or TAM involved. Typical examples may include feedback on the product, the support process, the technical handling of a ticket or Support team responsiveness. 

@@ -66,7 +66,7 @@ It's likely you can skip this section if people are successfully balancing their
 
 **C. Meeting the ticket baseline (optional discussion)**
 
-Take a look at your team's Zendesk Explore dashboard and see if they are meeting the ticket baseline. [Details about this on the Working on Tickets page](/handbook/support/workflows/working-on-tickets.html#3-meet-the-ticket-baseline).
+Take a look at your team's Zendesk Explore dashboard and see if they are meeting the ticket baseline. [Details about this on the Support Engineer responsibilities page](/handbook/support/support-engineer-responsibilities.html#ticket-baseline).
 
 It's likely you can skip this section if you're happy with the contributions people are making.
 

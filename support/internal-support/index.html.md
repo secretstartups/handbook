@@ -117,6 +117,7 @@ Please consider the following:
 | GitLab.com Billable Members List | Until [#27074](https://gitlab.com/gitlab-org/gitlab/-/issues/27074) or [#35454](https://gitlab.com/gitlab-org/gitlab/-/issues/35454) is implemented, [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=billable%20members) using the `Billable Members` template. |
 | Request for a license as a GitLab Team Member | [Open an Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) using the `GitLab_Team_Member_License_request` template |
 | Request a license for a HackerOne reporter | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=HackerOne%20Reporter%20License%20Request) using the `HackerOne Reporter License Request` template |
+| Request for a license for a wider community contributor | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Wider%20Community%20Contributor%20License%20Request) using the `Wider Community Contributor License Request` template |
 
 #### GitLab.com Billable Members List
 
@@ -244,9 +245,8 @@ All the billable members are also currently displayed on the group billing page 
 Zendesk has the ability to store Organization and User notes. Using Zendesk
 triggers, we put these into each ticket submitted by that organization or
 user. If there is important information you wish to have included in tickets
-for an organization or user, please create an issue under the
-[support-ops-project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/)
-using the [Add Zendesk Organization Notes or Tags Request](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request)
+for an organization or user, please [create an issue under the
+zendesk-organizations project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-organizations/-/issues/new).
 template. Please be sure to indicate whether the information is only valid
 for a specific period of time so that we may include that fact in the notes.
 

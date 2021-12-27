@@ -306,11 +306,12 @@ This includes potentially extending the expiry date.
 | `:namespace` | *Yes* | The namespace to update using the path |
 | `:plan` | *Yes* | The plan to assign to the namespace (free, bronze, silver, gold) |
 | `:expire` | *No* | Optional parameter, if entered the existing subscription will be extended up to this date |
+| `:subscription` | *No* | Required to extend a subscription, but not for trials. |
 
 #### Sample
 
 ```ruby
-irb(main):001:0> update_gitlab_plan("example","bronze","2020-10-22")
+irb(main):001:0> update_gitlab_plan('example','bronze','2020-10-22','A-S00000000')
 {"plan"=>
   {"code"=>"bronze",
    "name"=>"Bronze",
@@ -396,7 +397,7 @@ Force a .com group to be associated with a given subscription. This is typically
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:subscription_name` | *Yes* | The subscription name to be re-associated|
-| `:group_name` | *Yes* | The Gitlab namespace _`name`_ (not to be confused with its `path`)|
+| `:namespace_path` | *Yes* | The [unique Gitlab namespace](https://docs.gitlab.com/ee/user/group/#namespaces) _`path`_|
 
 #### Sample
 
@@ -451,8 +452,6 @@ irb(main):021:0> unlink_customer(0000000)
 > *Note*: Feature request is [customers #2167](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/2167).
 
 When the subscription has multiple products listed, then the quantity (seats) is only pulled from the product plan line. Add-on seats are not automatically added. The function adds the seat count for all products listed for the subscription and copies it over to .com.
-
-**Warning**: Do *not* use this if there is true-up. True-up should not be included in the current year's seat count, but the function will add it.
 
 #### Parameters
 
