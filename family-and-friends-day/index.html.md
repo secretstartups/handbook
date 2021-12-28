@@ -20,8 +20,6 @@ Team members can share about their Family and Friends Day in the `#family-and-fr
 
 ## Upcoming Family and Friends Days
 
-1. 2021-11-29
-1. 2021-12-27
 1. 2022-01-03
 
 We will look at scheduling future dates pending the global COVID-19 situation. Because we are living in unprecedented times and are trying to give our Team Members some extra space in their lives outside of work. In line with our [Paid Time Off](/handbook/paid-time-off/){:data-ga-name="PTO"}{:data-ga-location="body"} policy, we encourage GitLab Team Members to continue to take additional days off, as needed. Family and Friends Day is a reminder to do this.
@@ -45,6 +43,7 @@ We will look at scheduling future dates pending the global COVID-19 situation. B
 1. A fifteenth Family and Friends day was held on `2021-09-24`.
 1. A sixteenth Family and Friends day was held on `2021-10-15`.
 1. A seventeenth Family and Friends day was held on `2021-11-29`.
+1. An eighteenth Family and Friends day was held on `2021-12-27`.
 
 
 ## FAQ about Family and Friends Day
