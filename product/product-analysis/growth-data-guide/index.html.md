@@ -179,11 +179,15 @@ _See namespace-level stage adoption metrics such as time to first adoption, stag
 **Fields**
 
 - `namespace_id`
-- `namespace_creation_date` (aggregated `namespace_creation_date`)
+- `namespace_creation_date` (date field)
+- `namespace_creation_[aggregation]` (truncated by selected date [aggregation])
 - `stage_name`
+- `initial_stage_adopted_at` (timestamp)
 - `days_till_first_adoption` (days from namespace creation to the namespace's initial stage adoption)
 - `stage_users` (unique namespace users that adopted at least one representative stage event within time window)
 - `stage_usage_days` (unique days that namespace users completed at least one representative stage event within the time window)
+- `stage_order_adopted`
+- `stages_adopted_by_namespace` (total number of unique stages adopted in the namespace's first [First_X_Days_Filter] days.)
 
 **Automatic Filters**
 
@@ -191,6 +195,7 @@ _See namespace-level stage adoption metrics such as time to first adoption, stag
 - Filters OUT stage events for `manage` and `monitor` since reporting is not currently available for SaaS
 - Filters FOR stage events that are _representative_ of the stage being adopted (indicating a SMAU)
 - Filters OUT `namespace_created_at` dates that are _immature_, meaning they were created less that `First_X_Days_Filter` days before today.
+- Filters OUT default stage events from the Learn GitLab project.
 
 **Filtering Options (if filters aren't enabled, will show all results)**
 
