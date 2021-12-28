@@ -552,7 +552,7 @@ This tap was created using [Meltano SDK](https://sdk.meltano.com/en/latest/) and
 
 ## EdCast
 
-The `EdCst` data source uses a singer tap we developed in [gitlab-data/tap-edcast](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-edcast) and is run in our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L121) schedule at `07:00:00 UTC`.
+The `EdCast` data source uses a singer tap we developed in [gitlab-data/tap-edcast](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-edcast) and is run in our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L121) schedule at `07:00:00 UTC`.
 
 The streams we currently loaded are:
 * [datasets](https://docs.edcast.com/docs/datasets-definition)
