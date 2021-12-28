@@ -13,7 +13,7 @@ title: "Core DevOps Solutions"
 
 A DevOps solution is:
 * A customer problem or initiative that needs a solution and attracts budget
-* Defined In customer terms
+* Defined in customer terms
 * Often aligned to industry analyst market coverage (i.e. Gartner, Forrester, etc. write reports on the topic)
 * Relatively stable over time.
 * These are discrete problems that we believe GitLab solves and are reasons customers choose GitLab (hence which we should seek out in prospects)
@@ -22,7 +22,7 @@ A DevOps solution is:
 More information on how GitLab uses solutions can be found on the [Solutions Go-to-market page](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/)
 
 
-## SCore DevOps Solutions go-to-market motions
+## Core DevOps Solutions go-to-market motions
 
 #### [1. Usecase: DevOps Platform](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
 **Want to achieve expected results of DevOps given siloed teams, lack of visibility and collaboration which inhibits my speed of delivery** - (**DevOps Platform**)
