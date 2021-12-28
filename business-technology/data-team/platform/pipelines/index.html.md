@@ -556,7 +556,7 @@ The `EdCst` data source uses a singer tap we developed in [gitlab-data/tap-edcas
 
 The streams we currently loaded are:
 * [datasets](https://docs.edcast.com/docs/datasets-definition)
-* [300121_Glue_ Groups [G][3] [Group Performance Data Explorer](https://docs.edcast.com/docs/datasets-definition#groups-g-group-performance-data-explorer)
+* [300121_Glue_ Groups [G][3] Group Performance Data Explorer](https://docs.edcast.com/docs/datasets-definition#groups-g-group-performance-data-explorer)
 
 [Environment variables](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L71) for the `tap-edcast` are:
 * $TAP_EDCAST_USERNAME
