@@ -72,47 +72,6 @@ Being the marketing experts for the region, GitLab Field Marketers are also resp
 ### ReachDesk
 Go to the [Reachdesk page](/handbook/marketing/marketing-operations/reachdesk) for instructions on campaign set up. (WIP)
 
-### SimplyDirect
-
-#### Overview
-SimplyDirect is a third party company that helps companies identify buyers and early adopters using the latest in big data tools and high-response surveys. The program from SimplyDirect includes surveying (through GatePoint Research), responder intelligence, and custom content creation in the shape of a Pulse Report highlighting the overall findings from survey responses.  These custom built surveys are developed via collaboration with GitLab sellers, Product Marketing, and Sales Development Reps, where the aim is to target accounts to create actionable sales intelligence which reveals an account’s needs, pain, plans and trends. In addition, GatePoint Research provides an incentive of a free gift upon completing the survey.
-
-Our strategy is to leverage the data from the survey responses as well as the Pulse Report provided to set meetings and create sales-accepted opportunities. The data gathered from the surveys will also help the Digital Marketing Team and Campaign Managers by providing insight into the respondents current state of DevOps use and strategy as well as pain points and challenges.
-
-#### Regions that Utilize Simply Direct
-At this time, SimplyDirect is only used by our AMER Field Marketing team.
-
-#### Successful Usage
-Strategic success is contingent upon close alignment and communication between Marketing and Sales. Marketing will work collaboratively with Sales, Product Marketing and Campaign Managers to develop the survey. Best practice for the survey is 10 questions max. SDR’s will create a follow-up Outreach sequence to leverage when reaching out to those who’ve completed the survey.
-
-Once the survey is complete, SDR’s will leverage the individual results and work with their SAL to:
-- Identify points of interest in the survey pertaining to each individual response (i.e. pain points, number of tools, etc)
-- Create a strategy based on matching those issues with GitLab offerings
-- Customize their outreach communications to initiate conversations towards setting a IQM
-
-#### Personas
-Our focus will be geared towards key-decision makers or fellow team members who can help push to key decision makers. This opens up our outreach to anyone in DevOps, DevSecOps, IT and other related fields with titles ranging from Developer Team Lead to Executives.
-
-Examples of personas/titles include: Director/VP of Engineering, Director / VP of Machine Learning (or AI), Director/VP of Enterprise Architecture, Director/VP of Product Development/Engineering, VP of Digital Transformation, Director of Applications, Director of Security (Information Security, IT Security, Application Security), VP of Operations.
-
-#### Phases for SimplyDirect
-- **Phase 1:** Sales and Marketing create the survey and share the target accounts and personas with SimplyDirect. Upon completion, SimplyDirect sends out the survey and shares survey results with the GitLab team via the SimplyDirect portal. The account list shared with SimplyDirect has an SDR assigned to each account so the tool will send the assigned SDR an email notifying them when a survey is completed. FMM will share the portal website, username, and password in the issue for SDRs or SALs to access survey results and analytics. FMM will also provide SDRs with training before launch on how to navigate the portal and share SimplyDirect's best practices. This phase is considered complete once the predetermined number of survey responses is achieved (number of responses will be identified in the SOW). Please note that a gift is sent to survey respondents by SimplyDirect as a thank you for completing the survey (Example: Columbia Jacket/Fleece). SimplyDirect also creates a detailed Pulse Report with survey results when the phase is completed and provides it to GitLab along with a list of high-intent targets who did not complete the survey (see Phase 3 details on how to utilize these additional targets). Access to the portal is not indefinite so a report should be pulled from the SimplyDirect portal in order to add survey responses to our own tracking sheet if needed.
-- **Phase 2:** Leads are uploaded to SFDC automatically through our SimplyDirect<>Marketo integration and SDRs can set up an Outreach sequence to follow-up with these leads by sharing the Pulse Report. There is also an option of a swag giveaway at this phase if a meeting is booked/attended.
-- **Phase 3:** SimplyDirect gathers a list of additional high-intent targets (also contracted in the SOW) that have not opted in to be contacted by GitLab directly. In order to try to capture these additional leads, we can create a Pathfactory track that requires visitors to enter in their contact information to view the track (which includes the Pulse Report and other assets). SimplyDirect includes this Pathfactory link in their follow-up email to the additional contacts. Anyone who enters their contact information in Pathfactory can be sent a follow-up by GitLab.
-
-#### Reporting and Dashboards
-SimplyDirect defines engagement by targets filling out the survey.  The SimplyDirect<>Marketo integration adds anyone who fills out the survey automatically into the salesforce campaign.
-
-#### ROI & Metrics
-- Total number of meetings
-- Total number of SAOs
-- Pipeline progression
-
-#### Helpful Links
-* [**Survey Details**](/handbook/marketing/field-marketing/#survey)  
-* [**Simply Direct Marketo & SFDC Instructions**](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-surveys-in-marketo-and-sfdc)  
-* [**Pathfactory Request**](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)  
-
 ### Printfection Direct Mail Giveaways
 
 The below steps can be followed to set up and run a giveaway campaign using Printfection for field marketing. If you come across any steps that you can’t follow in Printfection, post in the [#swag Slack channel](https://app.slack.com/client/T02592416/C66R8N98F) so a Community Advocate can update your permissions levels.
@@ -176,166 +135,6 @@ Find out more on the social media page[here](/handbook/marketing/corporate-marke
 
 ### Tracking success of digital tactics 
 Please ensure you are using our UTM tracker (look up `Google Analytics Campaign Tagging Tool - UTM generator for tracking` in the Gdrive to find doc). In order to identify which campaigns are from the Field Marketing team, you must add the letters fmm at the end of your campaign name in column E. All lowercase with no spaces or special characters. This allows us to pull ROI reporting, so please don't leave these letters out or else you will lose reporting from a dashboard standpoint. 
-
-## Account-Centric Micro-Campaign
-
-<details markdown="1">
-
-<summary>Expand below to see details regarding Account-Centric Micro-Campaigns</summary>
-
-
-The purpose of the regional integrated micro-campaign is to build and drive a specific strategy in a region (with a specific list of targeted accounts/look-a-like accounts). This could be based on intent data pulled from our ABM tool, DemandBase, or it could be based on accounts you’ve agreed to target with your SAL. A micro-campaign must include a minimum of 2 different account-centric tactics.
-
-**For example:**
-
-- If you are planning a virtual Lunch & Learn and want to utilize LinkedIn InMail as well, those 2 account-centric tactics together make up a micro-campaign. However, if you are planning a Lunch & Learn on its own without any additional tactics, that is just considered an [Individual Tactic](/handbook/marketing/field-marketing/#individual-tactics).
-
-### What does Account-Centric mean?
-
-At times, Field Marketing will run an account-centric approach to its in-region campaigns. Account-Centric is an approach where both sales and marketing are focusing their efforts on a very specific list of targeted accounts in order to increase engagement and ultimately pipeline creation within this list of accounts. The SAL/FMM/SDR are responsible for outlining which accounts are account-centric and accounts can easily pop in and out of being in the account-centric play based on the strategy that’s being executed.
-i.e. If a FMM is targeting to get 15 people into an interactive roundtable discussion, that will greatly impact the number of accounts that are targeted for that specific tactic vs if they were trying to 100+ people into that same discussion.
-
-### How to track the ROI of your Account-Centric approach
-
-In order to track engagement, you need to start with a baseline and over time, track the progress on how engaged that account is with us. Right now this is a manual process where this [SFDC report](https://gitlab.my.salesforce.com/00O4M000004e4Ll) should be modified by pulling in all the accounts that are in the account-centric GTM Strategy per rep and then you must take a snap shot in time (SFDC does not allow for historical data pulls) by exporting the data and saving to a gsheet. [Example of gsheet](https://docs.google.com/spreadsheets/d/1m7xxoKcXW3Lq8eXIPg5KIOMGXIItp7MEZeBXAFfszOI/edit#gid=206509375&range=A1). Depending on your campaign, you can export this data on a weekly or monthly cadence to monitor progress.
-
-In order to change the GTM Strategy field for accounts in SFDC from `Volume` to `Account-Centric`, you can employ two options: a) Change the GTM Strategy field for each account manually if you have <20 accounts in the campaign, or b) Create a MOps request to have all accounts changed from `Volume` to `Account-Centric` in bulk. To request the bulk adjustment, please utilize [this MOps template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=abm_bulk_update_request).
-
-Account-Centric is different from Account Based Marketing in the sense that ABM focuses on accounts as markets of one versus account-centric targeting a group of accounts. At GitLab we run a 3-Tiered approach to ABM focused around our ICP and target 100-150 accounts in our ABM strategy at any given time. For complete details on how GitLab runs its Account Based Marketing, please head to the [GitLab ABM page](/handbook/marketing/revenue-marketing/account-based-strategy/account-based-marketing/#what-is-account-based-marketing).
-
-At GitLab, we utilize Bizible for attribution tracking. In order to track the touchpoints of your campaign, modify [this linear IACV SFDC report](https://gitlab.my.salesforce.com/00O4M000004aDSN) . This report shows Opportunity: Incremental ACV and Linear iACV.
-
-- If your campaign has a SFDC campaign with leads associated to it, then you will pull in the SFDC Field `Salesforce Campaign` equals .
-- If your campaign does NOT have a SFDC Campaign with leads associated OR you also are wanting to track the opportunities from your digital spend, then you would add in the SFDC `Ad Campaign Name` equals . We use the same UTM per channel, so all channels (paid ads, LinkedIn Mail, DemandBase, etc.) will pull all influenced iacv. Stay tuned for more details on Bizible.
-
-### Account-Centric Micro-Campaign Team
-
-- Field Marketing Manager - overarching DRI responsible for opening [the micro-campaign issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Micro_Campaign_and_Individual_Tactics), reviewing the intent data from the ABM DRI, and building the strategy based on what the intent data is suggesting (i.e. are a lot of folks searching to Kubernetes? Is it digital transformation? What call to action do we have? Do you want a direct mail piece involved? Do you want to drive to an On-Demand or scheduled webcast?), owning, and driving the mico-campaign, including epic and issue creation and communicating timelines and actions needed of other team members with relevant SLAs from request to delivery.
-- Account Based Marketing (ABM) Manager - will work with FMM to produce target account list based on intent data and known targets & will also lead strategy session with Demandbase Campaign Manager, should the FMM decided its part of the strategy to deploy ads via Demandbase.
-- Sales Development Rep (SDR) - Will assist in building out the actual target people & build Outreach cadence to support agreed upon CTA.
-- Digital Marketing Programs - Can assist in deploying paid digital strategies (ex: display ads, paid search, paid social, and/or paid publisher placement) and geo focused ads via our digital agency. They can also help get our digital agency involved should the FMM want to engage with the agency.
-- Marketing Program Managers - Setup of Marketo and Salesforce campaigns with correct program type to support the tactic. Guidance on system tracking, and setup of Marketo email follow up. Facilitate new program types with MOps and other MPMs as necessary.
-
-### Steps for the Creation and Organization of Micro-Campaign Epics & Issues
-
-#### 1. FMM opens overarching issue
-
-<i>FMM opens a field marketing issue using the [Micro-Campaign and Individual Tactics Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Micro_Campaign_and_Individual_Tactics)</i>, listing the tactics to be used from the list below in step 2. At this point, the issue is in `PLAN` stage.
-
-**WHY? The purpose of opening the overarching micro-campaign issue is to discuss the plan with any teams that would require work and gain agreement on SLAs before opening epics and issues.** _Remember - as of today, epics cannot be made confidential, they cannot show up on issue boards, and there is no such thing as an epic template._
-
-**Here is what needs to be included before moving from `PLAN` to `WIP`:**
-
-- Agreement on SLAs and scope between other teams involved in selected tactics - [SLA workback doc](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280)
-- Formulation of a clear strategy and understanding of customer journey
-- Completion of all fields in the `Details` section of the micro-campaign template
-
-_For anything that’s listed in the `Tactics included` section of the template the FMM needs to be clear about their specific ask & what the desired outcome will be. If the FMM does not know, it's ok to set up a call to talk through ideas and strategies._
-
-#### 2. FMM opens specific tactic issues
-
-_FMM opens additional issues relevant to their micro-campaign, if required._
-
-**WHY? The purpose of opening the issue is so that each individual tactic shows up on the FMM boards.** _Remember - as of today, Epics cannot be made confidential, they cannot show up on issue boards, and there is no such thing as an epic template._
-
-**Issue Templates for Each Tactic:**
-Please see the Field Marketing Issue Templates and Epic Codes list [**HERE**](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status) for a comprehensive list of templates to be utilized for each tactic.
-
-#### 3. FMM creates tactic epics
-
-_FMM follows the instructions for epic creation based on the tactics decided._
-
-**WHY? The purpose of opening the epics and issues is to organize the campaign in GitLab with the epic being equivalent to the project/campaign and issues being equivalent to the tactical execution steps to complete the campaign.**
-
-**How to create the epic:**
-
-- Where to create the epic: [Marketing Epic Repo](https://gitlab.com/groups/gitlab-com/marketing/-/epics?sort=created_desc)
-- How to create the epic: Click "New Epic" at the top right of the screen
-- What to name the epic: The naming convention is listed in the epic code for each specific tactic.
-- What to choose as the due date: this should be the same as your micro-campaign issue due date. For example - If your micro-campaign involves 3 different tactics and the last tactic is set to close out on December 5, 2020, that should be your due date.
-- How to link the epic to the issue: In your epic click on Epics + Issues - Add - Add an existing issue - Link your issue
-
-**Micro-Campaign Epic Code**
-This epic will include the general details of your micro-campaign.
-
-```
-<--- Name this epic using the following format, then delete this line: [Micro-Campaign Tactic Name] - [3-letter Month] [Date], [Year] --->
-
-## [Micro-Campaign Issue >>]()
-
-## :notepad_spiral: Details
-(copy and pasted from your micro-campaign issue)
-
-/label ~"mktg-status::wip" ~"Field Marketing" ~"FMM-MicroCampaign" ~"FMM-Other Tactics"
-```
-**Epic Codes for Each Tactic:**
-Please see the Field Marketing Issue Templates and Epic Codes list [**HERE**](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status) for a comprehensive list of epic codes to be utilized for each tactic.
-
-#### 4. FMM creates relevant issues and assigns DRIs and due dates
-
-_At this point the FMM has the main issue (for agreement by teams), the tactic issue(s) (to show up on boards), and the tactic epics (to capture overarching tactic plan and organize issues). Now FMMs will create the issues to request the work and timeline of teams involved in each tactic._
-
-In each epic code (from step 3), there are issue template links included that indicate what issues need to be created (example - follow up email, facilitate tracking, etc.) - if they do not say "optional" then they are required. The FMM will create each issue and link to the epic so that all tactical issues are organized together clearly in GitLab.
-
-The FMM will designate DRI as indicated and set due dates based on [SLAs](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#timeline-guidelines) for each item that is being requested. [SLA workback sheet](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280) is available to help you.
-
-**Note: This is essentially creating the work-back execution plan using issues, DRIs, and due dates.**
-If the date of the tactic is changed, the FMM is responsible for updating the due dates of all issues accordingly. It is also important to remember that the DRIs on the issues are not notified when due dates are added. If you create an issue and then add due dates at a later time (or change due dates), please remember to ping the DRIs in the issue so they are aware dates have been added or changed.
-
-#### 5. Organizing Epics
-
-Your micro-campaign issue and epic is an overview of your micro-campaign strategy and each individual tactic supporting the micro-campaign requires its own issue and epic. When you add individual tactic epics to the micro-campaign epic, the micro-campaign epic automatically becomes the [Parent Epic](https://docs.gitlab.com/ee/user/group/epics/#relationships-between-epics-and-issues). Each individual tactic epic, when nested under the micro-campaign epic, automatically becomes the [Child Epic](https://docs.gitlab.com/ee/user/group/epics/#relationships-between-epics-and-issues). Whichever epic you nest the other epics under will automatically become the Parent Epic, so remember to always add your individual tactic epics to the micro-campaign epic and not the other way around.
-
-For example - You have created a micro-campaign that will include a self-service event with promotion, a survey, LinkedIn InMail, and DemandBase targeted ads.
-
-- You will create an epic for your micro-campaign per the [above instructions](/handbook/marketing/field-marketing/#3-fmm-creates-tactic-epics).
-- Your self-service event with promotion will require a separate issue with its own epic.
-- Your survey will also require a separate issue with its own epic.
-- Your LinkedIn InMail will require its own issue (the only DMP tactic that currently requires an epic is Content Syndication).
-- Your DemandBase ads will require its own issue (ABM tactics do not currently require epics).
-
-**To organize your various tactic epics under your micro-campaign epic:**
-
-- Click into your micro-campaign epic
-- Scroll down to Epics & Issues
-- Click Add an Epic
-- Paste the epics from your other tactics into this section and GitLab will automatically organize the tactic epics under your micro-campaign epic
-
-### Micro-Campaign Training Video
-
-[Video training on how to set up a Micro-Campaign](https://drive.google.com/drive/folders/1nTQOO5jszlwIivy_bCjqA0a6RXnKwQtt). This video walks you though how to set up a Self Service webcast with promotion and LinkedIn InMail. Two tactics = Micro Campaign.
-
-### Example Micro-Campaign for Training
-
-- [Micro-Campaign Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1072)
-    - [Micro-Campaign FM Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1396)
-        - [Self-Service Virtual Event with promotion Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1073)
-            - [Self-Service Virtual Event with Promotion FM Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1397)
-            - [Follow Up Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2959)
-            - [Invites and Reminders Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2958)
-            - [List Clean and Upload Issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/2712)
-            - [Facilitate Tracking Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2957)
-        - [Paid Survey Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1074) (No separate FM issue since information is in overall Micro-Campaign Issue)
-            - [Gated Content Request Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2965)
-            - [Follow Up Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2962)
-            - [Facilitate Tracking Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2961)
-        - [LinkedIn Inmail Issue](https://gitlab.com/gitlab-com/marketing/account-based-marketing/-/issues/136) (No epic required)
-        - [DemandBase Targeted Ads Issue](https://gitlab.com/gitlab-com/marketing/account-based-marketing/-/issues/136) (No epic required)
-
-### FAQ's - Micro Campaigns and Other Tactics
-
-1. If I am only running 1 tactic, do I need to create the micro campaign issue? Answer: No, you do not. A microcampaign includes at least [2 account centric tactics](/handbook/marketing/field-marketing/#account-centric-micro-campaign).
-1. If I want to run ads through our ABM vendor do I need to create a micro campaign issue? Answer: No, you do not. A microcampaign includes at least [2 account centric tactics](/handbook/marketing/field-marketing/#account-centric-micro-campaign). Ads with our ABM vendor is only 1 tactic.
-
-### Reminders - Micro Campaigns and Other Tactics
-
-1. **Labels** - be aware of your labels. Please be mindful that you're adding the correct labels.
-1. Epic label issue - There is a glitch right now which may keep the labels from auto-assigning. In order to have the labels added to your epic, you'll need to copy the /label line from the epic code into a comment to pull over all labels. [Quick video how-to](https://drive.google.com/open?id=1gK8G4CBaqcgWgB6b2A1BRSQCma5GfJyt). 2 mins
-1. If you create an epic & sub issues and DO NOT have a date, then when you go back and add dates then you MUST ping the assigners - could be FMC, MPM, OPS, etc.
-1. When you go from plan to WIP that's when everything starts - from the SLA workback as well.
-1. The details section is so important - what that tells the MPM/FMC how this program should flow. You can't move your issue to the WIP stage until the details are added - This is where if attention to detail isn’t your BFF, you need to make it your BFF. ;)
-
-</details>
 
 ## Individual Tactics
 
@@ -1027,20 +826,6 @@ For more details on what the Channel Programs team does, please head to their [p
 
 As incentive for attending an event, GitLab can promote and process a monetary donation per participant to a charitable organization. For example: GitLab promotes a $25 donation per attendee for attending an event, 100 attendees participate in the event and GitLab donates $2,500 to the selected charity. **Please Note**: Donations are not to be made in a participant's name or reference a participant's organization.
 
-## Public Sector Team Lead - Staff Field Marketing Manager
-
-Within our public sector team we have a team lead. Our PubSec Team Lead will:
-
-- Lead PubSec Field marketing strategy and direction
-- Responsible for the defense GTM strategy, tactics, execution
-- Supports channel - Alliance, SI’s DoD
-- Leads content collaboration efforts from Field Marketing with Strategic Marketing
-- Represents Field Marketing team on the public sector team call, speaking and documenting content to be discussed
-- Leads GitLab Connect or major event in the DC area when pulling in multiple public sector verticals
-- Leads the bi-weekly call with Director of Public Sector
-- Leads common work process issues as they arise - i.e. lead routing
-- Manages budget for overarching PubSec campaigns
-
 ## PubSec FMM Calendar share
 In alignment with the PubSec team's [process to lock down shared data](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues/150) that is accessible to teams outside of our US PubSec team - (will link to handbook page once its been created!) the Public Sector Field Marketing Managers, by default, will mark their calendar details as private. Google calendar [has a feature](https://support.google.com/calendar/answer/37082?hl=en#zippy=%2Cunderstand-permission-settings-for-shared-calendars%2Cstop-sharing-your-calendar-publicly-with-your-organization-or-with-specific-people) that allows you to share your calendar with individuals once its been marketed as private and at a minimum, the FMM team member should share their calendar with both their direct manager as well as their aligned Field Marketing Specialist, pending those people are US Citizens. 
 
@@ -1439,3 +1224,213 @@ The health and safety of our team members continue to be a top priority.  If you
 
 - FMM to notify MPM as soon as possible - this process takes considerable time to deconstruct existing setup and begin setting up as virtual
 - MPM to follow [this process](/handbook/marketing/events/#when-offline-field-events--conferences-turn-to-virtual)
+
+# Deprecated handbook content
+We feel like this info is too good to delete, and while we currently aren't using either the tool that is descirbed or the process, we just aren't ready to delete.....its like that sweater you just can't seem to get rid of in case you may need it one day... 
+
+## Account-Centric Micro-Campaign
+
+<details markdown="1">
+
+<summary>Expand below to see details regarding Account-Centric Micro-Campaigns</summary>
+
+
+The purpose of the regional integrated micro-campaign is to build and drive a specific strategy in a region (with a specific list of targeted accounts/look-a-like accounts). This could be based on intent data pulled from our ABM tool, DemandBase, or it could be based on accounts you’ve agreed to target with your SAL. A micro-campaign must include a minimum of 2 different account-centric tactics.
+
+**For example:**
+
+- If you are planning a virtual Lunch & Learn and want to utilize LinkedIn InMail as well, those 2 account-centric tactics together make up a micro-campaign. However, if you are planning a Lunch & Learn on its own without any additional tactics, that is just considered an [Individual Tactic](/handbook/marketing/field-marketing/#individual-tactics).
+
+### What does Account-Centric mean?
+
+At times, Field Marketing will run an account-centric approach to its in-region campaigns. Account-Centric is an approach where both sales and marketing are focusing their efforts on a very specific list of targeted accounts in order to increase engagement and ultimately pipeline creation within this list of accounts. The SAL/FMM/SDR are responsible for outlining which accounts are account-centric and accounts can easily pop in and out of being in the account-centric play based on the strategy that’s being executed.
+i.e. If a FMM is targeting to get 15 people into an interactive roundtable discussion, that will greatly impact the number of accounts that are targeted for that specific tactic vs if they were trying to 100+ people into that same discussion.
+
+### How to track the ROI of your Account-Centric approach
+
+In order to track engagement, you need to start with a baseline and over time, track the progress on how engaged that account is with us. Right now this is a manual process where this [SFDC report](https://gitlab.my.salesforce.com/00O4M000004e4Ll) should be modified by pulling in all the accounts that are in the account-centric GTM Strategy per rep and then you must take a snap shot in time (SFDC does not allow for historical data pulls) by exporting the data and saving to a gsheet. [Example of gsheet](https://docs.google.com/spreadsheets/d/1m7xxoKcXW3Lq8eXIPg5KIOMGXIItp7MEZeBXAFfszOI/edit#gid=206509375&range=A1). Depending on your campaign, you can export this data on a weekly or monthly cadence to monitor progress.
+
+In order to change the GTM Strategy field for accounts in SFDC from `Volume` to `Account-Centric`, you can employ two options: a) Change the GTM Strategy field for each account manually if you have <20 accounts in the campaign, or b) Create a MOps request to have all accounts changed from `Volume` to `Account-Centric` in bulk. To request the bulk adjustment, please utilize [this MOps template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=abm_bulk_update_request).
+
+Account-Centric is different from Account Based Marketing in the sense that ABM focuses on accounts as markets of one versus account-centric targeting a group of accounts. At GitLab we run a 3-Tiered approach to ABM focused around our ICP and target 100-150 accounts in our ABM strategy at any given time. For complete details on how GitLab runs its Account Based Marketing, please head to the [GitLab ABM page](/handbook/marketing/revenue-marketing/account-based-strategy/account-based-marketing/#what-is-account-based-marketing).
+
+At GitLab, we utilize Bizible for attribution tracking. In order to track the touchpoints of your campaign, modify [this linear IACV SFDC report](https://gitlab.my.salesforce.com/00O4M000004aDSN) . This report shows Opportunity: Incremental ACV and Linear iACV.
+
+- If your campaign has a SFDC campaign with leads associated to it, then you will pull in the SFDC Field `Salesforce Campaign` equals .
+- If your campaign does NOT have a SFDC Campaign with leads associated OR you also are wanting to track the opportunities from your digital spend, then you would add in the SFDC `Ad Campaign Name` equals . We use the same UTM per channel, so all channels (paid ads, LinkedIn Mail, DemandBase, etc.) will pull all influenced iacv. Stay tuned for more details on Bizible.
+
+### Account-Centric Micro-Campaign Team
+
+- Field Marketing Manager - overarching DRI responsible for opening [the micro-campaign issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Micro_Campaign_and_Individual_Tactics), reviewing the intent data from the ABM DRI, and building the strategy based on what the intent data is suggesting (i.e. are a lot of folks searching to Kubernetes? Is it digital transformation? What call to action do we have? Do you want a direct mail piece involved? Do you want to drive to an On-Demand or scheduled webcast?), owning, and driving the mico-campaign, including epic and issue creation and communicating timelines and actions needed of other team members with relevant SLAs from request to delivery.
+- Account Based Marketing (ABM) Manager - will work with FMM to produce target account list based on intent data and known targets & will also lead strategy session with Demandbase Campaign Manager, should the FMM decided its part of the strategy to deploy ads via Demandbase.
+- Sales Development Rep (SDR) - Will assist in building out the actual target people & build Outreach cadence to support agreed upon CTA.
+- Digital Marketing Programs - Can assist in deploying paid digital strategies (ex: display ads, paid search, paid social, and/or paid publisher placement) and geo focused ads via our digital agency. They can also help get our digital agency involved should the FMM want to engage with the agency.
+- Marketing Program Managers - Setup of Marketo and Salesforce campaigns with correct program type to support the tactic. Guidance on system tracking, and setup of Marketo email follow up. Facilitate new program types with MOps and other MPMs as necessary.
+
+### Steps for the Creation and Organization of Micro-Campaign Epics & Issues
+
+#### 1. FMM opens overarching issue
+
+<i>FMM opens a field marketing issue using the [Micro-Campaign and Individual Tactics Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Micro_Campaign_and_Individual_Tactics)</i>, listing the tactics to be used from the list below in step 2. At this point, the issue is in `PLAN` stage.
+
+**WHY? The purpose of opening the overarching micro-campaign issue is to discuss the plan with any teams that would require work and gain agreement on SLAs before opening epics and issues.** _Remember - as of today, epics cannot be made confidential, they cannot show up on issue boards, and there is no such thing as an epic template._
+
+**Here is what needs to be included before moving from `PLAN` to `WIP`:**
+
+- Agreement on SLAs and scope between other teams involved in selected tactics - [SLA workback doc](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280)
+- Formulation of a clear strategy and understanding of customer journey
+- Completion of all fields in the `Details` section of the micro-campaign template
+
+_For anything that’s listed in the `Tactics included` section of the template the FMM needs to be clear about their specific ask & what the desired outcome will be. If the FMM does not know, it's ok to set up a call to talk through ideas and strategies._
+
+#### 2. FMM opens specific tactic issues
+
+_FMM opens additional issues relevant to their micro-campaign, if required._
+
+**WHY? The purpose of opening the issue is so that each individual tactic shows up on the FMM boards.** _Remember - as of today, Epics cannot be made confidential, they cannot show up on issue boards, and there is no such thing as an epic template._
+
+**Issue Templates for Each Tactic:**
+Please see the Field Marketing Issue Templates and Epic Codes list [**HERE**](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status) for a comprehensive list of templates to be utilized for each tactic.
+
+#### 3. FMM creates tactic epics
+
+_FMM follows the instructions for epic creation based on the tactics decided._
+
+**WHY? The purpose of opening the epics and issues is to organize the campaign in GitLab with the epic being equivalent to the project/campaign and issues being equivalent to the tactical execution steps to complete the campaign.**
+
+**How to create the epic:**
+
+- Where to create the epic: [Marketing Epic Repo](https://gitlab.com/groups/gitlab-com/marketing/-/epics?sort=created_desc)
+- How to create the epic: Click "New Epic" at the top right of the screen
+- What to name the epic: The naming convention is listed in the epic code for each specific tactic.
+- What to choose as the due date: this should be the same as your micro-campaign issue due date. For example - If your micro-campaign involves 3 different tactics and the last tactic is set to close out on December 5, 2020, that should be your due date.
+- How to link the epic to the issue: In your epic click on Epics + Issues - Add - Add an existing issue - Link your issue
+
+**Micro-Campaign Epic Code**
+This epic will include the general details of your micro-campaign.
+
+```
+<--- Name this epic using the following format, then delete this line: [Micro-Campaign Tactic Name] - [3-letter Month] [Date], [Year] --->
+
+## [Micro-Campaign Issue >>]()
+
+## :notepad_spiral: Details
+(copy and pasted from your micro-campaign issue)
+
+/label ~"mktg-status::wip" ~"Field Marketing" ~"FMM-MicroCampaign" ~"FMM-Other Tactics"
+```
+**Epic Codes for Each Tactic:**
+Please see the Field Marketing Issue Templates and Epic Codes list [**HERE**](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status) for a comprehensive list of epic codes to be utilized for each tactic.
+
+#### 4. FMM creates relevant issues and assigns DRIs and due dates
+
+_At this point the FMM has the main issue (for agreement by teams), the tactic issue(s) (to show up on boards), and the tactic epics (to capture overarching tactic plan and organize issues). Now FMMs will create the issues to request the work and timeline of teams involved in each tactic._
+
+In each epic code (from step 3), there are issue template links included that indicate what issues need to be created (example - follow up email, facilitate tracking, etc.) - if they do not say "optional" then they are required. The FMM will create each issue and link to the epic so that all tactical issues are organized together clearly in GitLab.
+
+The FMM will designate DRI as indicated and set due dates based on [SLAs](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#timeline-guidelines) for each item that is being requested. [SLA workback sheet](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280) is available to help you.
+
+**Note: This is essentially creating the work-back execution plan using issues, DRIs, and due dates.**
+If the date of the tactic is changed, the FMM is responsible for updating the due dates of all issues accordingly. It is also important to remember that the DRIs on the issues are not notified when due dates are added. If you create an issue and then add due dates at a later time (or change due dates), please remember to ping the DRIs in the issue so they are aware dates have been added or changed.
+
+#### 5. Organizing Epics
+
+Your micro-campaign issue and epic is an overview of your micro-campaign strategy and each individual tactic supporting the micro-campaign requires its own issue and epic. When you add individual tactic epics to the micro-campaign epic, the micro-campaign epic automatically becomes the [Parent Epic](https://docs.gitlab.com/ee/user/group/epics/#relationships-between-epics-and-issues). Each individual tactic epic, when nested under the micro-campaign epic, automatically becomes the [Child Epic](https://docs.gitlab.com/ee/user/group/epics/#relationships-between-epics-and-issues). Whichever epic you nest the other epics under will automatically become the Parent Epic, so remember to always add your individual tactic epics to the micro-campaign epic and not the other way around.
+
+For example - You have created a micro-campaign that will include a self-service event with promotion, a survey, LinkedIn InMail, and DemandBase targeted ads.
+
+- You will create an epic for your micro-campaign per the [above instructions](/handbook/marketing/field-marketing/#3-fmm-creates-tactic-epics).
+- Your self-service event with promotion will require a separate issue with its own epic.
+- Your survey will also require a separate issue with its own epic.
+- Your LinkedIn InMail will require its own issue (the only DMP tactic that currently requires an epic is Content Syndication).
+- Your DemandBase ads will require its own issue (ABM tactics do not currently require epics).
+
+**To organize your various tactic epics under your micro-campaign epic:**
+
+- Click into your micro-campaign epic
+- Scroll down to Epics & Issues
+- Click Add an Epic
+- Paste the epics from your other tactics into this section and GitLab will automatically organize the tactic epics under your micro-campaign epic
+
+### Micro-Campaign Training Video
+
+[Video training on how to set up a Micro-Campaign](https://drive.google.com/drive/folders/1nTQOO5jszlwIivy_bCjqA0a6RXnKwQtt). This video walks you though how to set up a Self Service webcast with promotion and LinkedIn InMail. Two tactics = Micro Campaign.
+
+### Example Micro-Campaign for Training
+
+- [Micro-Campaign Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1072)
+    - [Micro-Campaign FM Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1396)
+        - [Self-Service Virtual Event with promotion Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1073)
+            - [Self-Service Virtual Event with Promotion FM Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1397)
+            - [Follow Up Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2959)
+            - [Invites and Reminders Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2958)
+            - [List Clean and Upload Issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/2712)
+            - [Facilitate Tracking Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2957)
+        - [Paid Survey Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1074) (No separate FM issue since information is in overall Micro-Campaign Issue)
+            - [Gated Content Request Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2965)
+            - [Follow Up Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2962)
+            - [Facilitate Tracking Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2961)
+        - [LinkedIn Inmail Issue](https://gitlab.com/gitlab-com/marketing/account-based-marketing/-/issues/136) (No epic required)
+        - [DemandBase Targeted Ads Issue](https://gitlab.com/gitlab-com/marketing/account-based-marketing/-/issues/136) (No epic required)
+
+### FAQ's - Micro Campaigns and Other Tactics
+
+1. If I am only running 1 tactic, do I need to create the micro campaign issue? Answer: No, you do not. A microcampaign includes at least [2 account centric tactics](/handbook/marketing/field-marketing/#account-centric-micro-campaign).
+1. If I want to run ads through our ABM vendor do I need to create a micro campaign issue? Answer: No, you do not. A microcampaign includes at least [2 account centric tactics](/handbook/marketing/field-marketing/#account-centric-micro-campaign). Ads with our ABM vendor is only 1 tactic.
+
+### Reminders - Micro Campaigns and Other Tactics
+
+1. **Labels** - be aware of your labels. Please be mindful that you're adding the correct labels.
+1. Epic label issue - There is a glitch right now which may keep the labels from auto-assigning. In order to have the labels added to your epic, you'll need to copy the /label line from the epic code into a comment to pull over all labels. [Quick video how-to](https://drive.google.com/open?id=1gK8G4CBaqcgWgB6b2A1BRSQCma5GfJyt). 2 mins
+1. If you create an epic & sub issues and DO NOT have a date, then when you go back and add dates then you MUST ping the assigners - could be FMC, MPM, OPS, etc.
+1. When you go from plan to WIP that's when everything starts - from the SLA workback as well.
+1. The details section is so important - what that tells the MPM/FMC how this program should flow. You can't move your issue to the WIP stage until the details are added - This is where if attention to detail isn’t your BFF, you need to make it your BFF. ;)
+
+</details>
+
+### SimplyDirect
+
+<details markdown="1">
+
+<summary>Expand below to see details regarding SimplyDirect</summary>
+
+#### Overview
+SimplyDirect is a third party company that helps companies identify buyers and early adopters using the latest in big data tools and high-response surveys. The program from SimplyDirect includes surveying (through GatePoint Research), responder intelligence, and custom content creation in the shape of a Pulse Report highlighting the overall findings from survey responses.  These custom built surveys are developed via collaboration with GitLab sellers, Product Marketing, and Sales Development Reps, where the aim is to target accounts to create actionable sales intelligence which reveals an account’s needs, pain, plans and trends. In addition, GatePoint Research provides an incentive of a free gift upon completing the survey.
+
+Our strategy is to leverage the data from the survey responses as well as the Pulse Report provided to set meetings and create sales-accepted opportunities. The data gathered from the surveys will also help the Digital Marketing Team and Campaign Managers by providing insight into the respondents current state of DevOps use and strategy as well as pain points and challenges.
+
+#### Regions that Utilize Simply Direct
+At this time, SimplyDirect is only used by our AMER Field Marketing team.
+
+#### Successful Usage
+Strategic success is contingent upon close alignment and communication between Marketing and Sales. Marketing will work collaboratively with Sales, Product Marketing and Campaign Managers to develop the survey. Best practice for the survey is 10 questions max. SDR’s will create a follow-up Outreach sequence to leverage when reaching out to those who’ve completed the survey.
+
+Once the survey is complete, SDR’s will leverage the individual results and work with their SAL to:
+- Identify points of interest in the survey pertaining to each individual response (i.e. pain points, number of tools, etc)
+- Create a strategy based on matching those issues with GitLab offerings
+- Customize their outreach communications to initiate conversations towards setting a IQM
+
+#### Personas
+Our focus will be geared towards key-decision makers or fellow team members who can help push to key decision makers. This opens up our outreach to anyone in DevOps, DevSecOps, IT and other related fields with titles ranging from Developer Team Lead to Executives.
+
+Examples of personas/titles include: Director/VP of Engineering, Director / VP of Machine Learning (or AI), Director/VP of Enterprise Architecture, Director/VP of Product Development/Engineering, VP of Digital Transformation, Director of Applications, Director of Security (Information Security, IT Security, Application Security), VP of Operations.
+
+#### Phases for SimplyDirect
+- **Phase 1:** Sales and Marketing create the survey and share the target accounts and personas with SimplyDirect. Upon completion, SimplyDirect sends out the survey and shares survey results with the GitLab team via the SimplyDirect portal. The account list shared with SimplyDirect has an SDR assigned to each account so the tool will send the assigned SDR an email notifying them when a survey is completed. FMM will share the portal website, username, and password in the issue for SDRs or SALs to access survey results and analytics. FMM will also provide SDRs with training before launch on how to navigate the portal and share SimplyDirect's best practices. This phase is considered complete once the predetermined number of survey responses is achieved (number of responses will be identified in the SOW). Please note that a gift is sent to survey respondents by SimplyDirect as a thank you for completing the survey (Example: Columbia Jacket/Fleece). SimplyDirect also creates a detailed Pulse Report with survey results when the phase is completed and provides it to GitLab along with a list of high-intent targets who did not complete the survey (see Phase 3 details on how to utilize these additional targets). Access to the portal is not indefinite so a report should be pulled from the SimplyDirect portal in order to add survey responses to our own tracking sheet if needed.
+- **Phase 2:** Leads are uploaded to SFDC automatically through our SimplyDirect<>Marketo integration and SDRs can set up an Outreach sequence to follow-up with these leads by sharing the Pulse Report. There is also an option of a swag giveaway at this phase if a meeting is booked/attended.
+- **Phase 3:** SimplyDirect gathers a list of additional high-intent targets (also contracted in the SOW) that have not opted in to be contacted by GitLab directly. In order to try to capture these additional leads, we can create a Pathfactory track that requires visitors to enter in their contact information to view the track (which includes the Pulse Report and other assets). SimplyDirect includes this Pathfactory link in their follow-up email to the additional contacts. Anyone who enters their contact information in Pathfactory can be sent a follow-up by GitLab.
+
+#### Reporting and Dashboards
+SimplyDirect defines engagement by targets filling out the survey.  The SimplyDirect<>Marketo integration adds anyone who fills out the survey automatically into the salesforce campaign.
+
+#### ROI & Metrics
+- Total number of meetings
+- Total number of SAOs
+- Pipeline progression
+
+#### Helpful Links
+* [**Survey Details**](/handbook/marketing/field-marketing/#survey)  
+* [**Simply Direct Marketo & SFDC Instructions**](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-surveys-in-marketo-and-sfdc)  
+* [**Pathfactory Request**](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
+
+</details>
