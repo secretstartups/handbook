@@ -227,7 +227,7 @@ Consider using this to hide Slack after a while to reduce your urge to check new
 ### TripMode
 
 [TripMode ($7.99)](https://www.tripmode.ch/) lets you control which apps can use the internet.
-This is especially useful when you're working on a cellular/metered connection. TripMode is only available for the Mac. Linux users can enable 
+This is especially useful when you're working on a cellular/metered connection. TripMode is only available for the Mac.
 
 ## Text editors
 
