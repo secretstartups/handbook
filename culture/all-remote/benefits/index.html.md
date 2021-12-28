@@ -189,6 +189,28 @@ There are [various stages of remote work](https://about.gitlab.com/company/cultu
 
 While there are a growing number of freelance gigs which can be completed remotely, this article is centered around [full-time remote careers](https://about.gitlab.com/company/culture/all-remote/jobs/).
 
+## GitLab remote work policy
+
+All-remote work promotes:
+
+1. Hiring and working from all over the world (instead of from a central location).
+2. Flexible working hours (over set working hours).
+3. Writing down and recording knowledge (over verbal explanations).
+4. Written processes (over on-the-job training).
+5. Public sharing of information (over need-to-know access).
+6. Opening up documents for editing by anyone (over top-down control of documents).
+7. Asynchronous communication (over synchronous communication).
+8. The results of work (over the hours put in).
+9. Formal communication channels (over informal communication channels).   
+
+> **"Remote is not a challenge to overcome. It's a clear business advantage."** -Victor, Product Manager, GitLab
+
+GitLab is one of the world's largest all-remote companies with over 1,500 [team members](https://about.gitlab.com/company/team/) located in more than 65 countries around the world.
+
+Our all-remote workforce implementation is featured in [The Journal of Organizational Design](https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8). It is also the centerpiece of case studies authored by [Harvard Business School](https://www.hbs.edu/faculty/Pages/item.aspx?num=57917) and [INSEAD](https://publishing.insead.edu/case/gitlab).
+
+Click around o learn more about what "all-remote" really means, [how it works at GitLab](https://about.gitlab.com/company/culture/all-remote/tips/#how-it-works-at-gitlab), some [tips and tricks](https://about.gitlab.com/company/culture/all-remote/tips/#tips-for-leaders-and-other-companies) for remote teams, and [resources](https://about.gitlab.com/company/culture/all-remote/resources/) to learn more.
+
 ## Contribute your lessons
 
 GitLab believes that all-remote is the [future of work](/company/culture/all-remote/vision/), and remote companies have a shared responsibility to show the way for other organizations who are embracing it. If you or your company has an experience that would benefit the greater world, consider creating a [merge request](https://docs.gitlab.com/ee/user/project/merge_requests/) and adding a contribution to this page.
