@@ -15,14 +15,17 @@ title: "Data Team Direction - Timeline"
 
 ### Fiscal Year 2023
 
-# Fi
-##scal Year 2022
+#### [FY23-Q1 Objectives and Planning Drumbeat](https://gitlab.com/gitlab-data/managers/-/issues/278) 
+
+- [FY23-Q1 Release Roundup]()
+
+### Fiscal Year 2022
 
 #### [FY22-Q4 Objectives and Planning Drumbeat](https://gitlab.com/gitlab-data/managers/-/issues/264) 
 
 - [FY22-Q4 Release Roundup](https://gitlab.com/gitlab-data/analytics/-/issues/10564)
 
-#### [FY22-Q3](https://gitlab.com/gitlab-data/managers/-/issues/260)
+#### [FY22-Q3 Objectives](https://gitlab.com/gitlab-data/managers/-/issues/260)
 
 - [FY22-Q3 Release Roundup](https://gitlab.com/gitlab-data/analytics/-/issues/10090)
 - [FY22-Q3 Report Card](https://gitlab.com/gitlab-data/managers/-/issues/274)
@@ -31,7 +34,7 @@ title: "Data Team Direction - Timeline"
 - [FY22-Q3 Release Roundup](https://gitlab.com/gitlab-data/analytics/-/issues/10090)
 
 
-#### [FY22-Q2](https://gitlab.com/gitlab-data/managers/-/issues/249)
+#### [FY22-Q2 Objectives](https://gitlab.com/gitlab-data/managers/-/issues/249)
 
 FY22-Q2 carried forward and completed several multi-quarter initiatives begun in FY22-Q1, including  adding SaaS Usage Data for Gainsight, shipping a new Company Metrics Dashboard, upgrading Data Access controls across the tech stack, and expanding the GTM Hub. The team continued to build-out GTM components of the Trusted Data Models and the investment in the area started to pay off, with increases in efficiency for Dashboard development and analysis as a result of using standard design patterns. A few additional improvements: rollout of the [Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning/), a [Handbook Jamboree](https://gitlab.com/gitlab-data/analytics/-/issues/9441), 3 [Data 3P Parties](https://docs.google.com/document/d/1cUtE75rbXzLCLpq3SDQS3TtsNTEmAAES6UJoZGoP0-Y/edit#heading=h.qq9lf68vhd66) (Pizza, Pet Peeves, and Predictions), and formalizing [Data Development](/handbook/business-technology/data-team/data-development/#data-development-at-gitlab) approaches.
 
