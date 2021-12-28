@@ -566,3 +566,7 @@ The streams we currently loaded are:
 * $TAP_EDCAST_URL_BASE
 
 and they are required to run this in Meltano. More details about `tap-edast` setup and tunning with detailed explanation are under [edcast-setup](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/README.md#edcast-setup) page.
+
+A graphical representation of data flow for `tap-edcast` looks like:
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/8e6593e1-9be4-41ae-8d28-22c460639ab7" id="1R4EMPLKFtbd"></iframe></div>
