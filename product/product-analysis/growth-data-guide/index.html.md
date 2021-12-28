@@ -1,7 +1,14 @@
 ---
-layout: markdown_page
+layout: handbook-page-toc
 title: Data Guide for Growth
 ---
+
+## On this page
+{:.no_toc}
+
+- TOC
+{:toc}
+
 
 ## Objectives for this Page ##
 
@@ -70,12 +77,14 @@ _Simplifed namespaces data set that includes enhanced filtering_
 
 **Fields**
 
-- `namespace_id`
-- `creator_id`
-- `namespace_created_at` (timestamp)
-- `namespace_creation_date` (date)
-- `company_setup_filter` (filter for `setup_for_company`)
-- `namespace_visibility_level` (filter for `namespace_visibility`)
+- `namespace_id`: Unique identifier of namespace
+- `creator_id`: Unique user identifier (`user_id`) of namespace creator
+- `namespace_created_at`: Timestamp of namespace creation
+- `namespace_creation_date`: Date of namespace creation
+- `company_setup_filter`: Transformed `setup_for_company`: `'True'`, `'False'`, `'None'`. Used for 
+`setup_for_company` filter
+- `namespace_visibility_level`: Visibility level of namespace: `'public'`, `'private'`, `'internal'`. 
+Used for `visibility_level` filter
 
 **Automatic Filters**
 
@@ -123,7 +132,7 @@ _See namespace stage adoption metrics such as stages adopted and active users wi
 
 DO NOT USE FOR: Individual stage insights (use stage adoption snippet for this)
 
-Granularity: One record per namespace
+**Granularity:** One record per namespace
 
 **Data Sets Used:**
 - `legacy.gitlab_dotcom_daily_usage_data_events`
@@ -135,24 +144,27 @@ Granularity: One record per namespace
 
 **Fields**
 
-- `namespace_id`
-- `namespace_creation_date` (aggregated `namespace_creation_date`)
-- `stage_count` (unique stages with representative stage adopted within time window)
-- `active_users` (unique namespace users that adopted at least one representative stage event within time window)
-- `active_days` (unique days that namespace users completed at least one representative stage event within the time window)
+- `namespace_id`: Unique identifier of namespace
+- `namespace_creation_date`: Date of namespace creation
+- `stage_count`: Count of unique stages with representative stage event adopted within time window
+- `active_users`: Count of unique namespace users that adopted at least one representative stage 
+event within time window
+- `active_days`: Count of unique days that at least one namespace user completed at least one 
+representative stage event within the time window
 
 **Automatic Filters**
 
 - _This snippet includes all automatic filters used in the [growth_data_namespaces] snippet_
 - Filters OUT stage events for `manage` and `monitor` since reporting is not currently available for SaaS
 - Filters FOR stage events that are _representative_ of the stage being adopted (indicating a SMAU)
-- Filters OUT `namespace_created_at` dates that are _immature_, meaning they were created less that `First_X_Days_Filter` days before today.
+- Filters OUT `namespace_created_at` dates that are _immature_, meaning they were created less 
+that `First_X_Days_Filter` days before today
 
 **Filtering Options (if filters aren't enabled, will show all results)**
 
 - _This snippet includes all filtering options used in the [growth_data_namespaces] snippet_
 - `event_plan_name`: Select plan name(s) you want to include in the reporting.
-- `First_X_Days_Filter`: Filters for the first 
+- `First_X_Days_Filter`: Filters for the first x days after namespace creation
 
 </details>
 
@@ -177,30 +189,34 @@ _See namespace-level stage adoption metrics such as time to first adoption, stag
 
 **Fields**
 
-- `namespace_id`
-- `namespace_creation_date` (date field)
-- `namespace_creation_[aggregation]` (truncated by selected date [aggregation])
+- `namespace_id`: Unique identifier of namespace
+- `namespace_creation_date`: Date of namespace creation
+- `namespace_creation_[aggregation]`: Date of namespace creation truncated by [aggregation]
 - `stage_name`
-- `initial_stage_adopted_at` (timestamp)
-- `days_till_first_adoption` (days from namespace creation to the namespace's initial stage adoption)
-- `stage_users` (unique namespace users that adopted at least one representative stage event within time window)
-- `stage_usage_days` (unique days that namespace users completed at least one representative stage event within the time window)
-- `stage_order_adopted`
-- `stages_adopted_by_namespace` (total number of unique stages adopted in the namespace's first [First_X_Days_Filter] days.)
+- `initial_stage_adopted_at`: Timestamp of first adoption of stage
+- `days_till_first_adoption`: Count of days from namespace creation to the namespace's initial 
+stage adoption
+- `stage_users`: Count of unique namespace users that adopted at least one representative stage 
+event within time window
+- `stage_usage_days`: Count of unique days that at least one namespace user completed at least 
+one representative stage event within the time window
+- `stage_order_adopted`: Order of stages adopted by namespace (integer)
+- `stages_adopted_by_namespace`: Total count of unique stages adopted in the namespace's first 
+[First_X_Days_Filter] days after creation
 
 **Automatic Filters**
 
 - _This snippet includes all automatic filters used in the [growth_data_namespaces] snippet_
 - Filters OUT stage events for `manage` and `monitor` since reporting is not currently available for SaaS
 - Filters FOR stage events that are _representative_ of the stage being adopted (indicating a SMAU)
-- Filters OUT `namespace_created_at` dates that are _immature_, meaning they were created less that `First_X_Days_Filter` days before today.
+- Filters OUT `namespace_created_at` dates that are _immature_, meaning they were created less than `First_X_Days_Filter` days before today.
 - Filters OUT default stage events from the Learn GitLab project.
 
 **Filtering Options (if filters aren't enabled, will show all results)**
 
 - _This snippet includes all filtering options used in the [growth_data_namespaces] snippet_
 - `event_plan_name`: Select plan name(s) you want to include in the reporting.
-- `First_X_Days_Filter`: Filters for the first 
+- `First_X_Days_Filter`: Filters for the first x days after namespace creation
 
 ```sql
 WITH stages AS [growth_data_stage_adoption]
@@ -251,10 +267,10 @@ and the `namespace_id` to avoid potential errors or duplicate records.
 
 **Fields**
 
-- `namespace_id`
+- `namespace_id`: Unique identifier of namespace
 - `namespace_created_at`: Timestamp of namespace creation
-- `namespace_visibility_level`
-- `user_id`
+- `namespace_visibility_level`: Visibility level of namespace: `'public'`, `'private'`, `'internal'`
+- `user_id`: Unique identifier of user
 - `member_id`: Identifier unique to the user and namespace
 - `invite_created_at`: Timestamp that user was invited to namespace
 - `invite_accepted_at`: Timestamp that user accepted the invitation (will be `NULL` if access was 
@@ -336,15 +352,15 @@ _Sisense snippet that can easily be adjusted any experiment using Snowplow event
 
 **Fields Included**
 
-- `event_id`
+- `event_id`: Unique identifier of Snowplow event
 - `experiment_name`
 - `experiment_variant`
 - `context_key`
-- `derived_tstamp` (timestamp with millisecond granularity)
+- `derived_tstamp`: Timestamp of event (with millisecond granularity)
 - `event_action`
 - `event_property`
 - `event_value`
-- `environment` (`'production'` or `'staging'`, based on `app_id`)
+- `environment`: `'production'` or `'staging'` (based on `app_id`)
 
 **Filtering Options (if filters aren't enabled, will show all results)**
 
@@ -437,9 +453,9 @@ _Provides helpful fields on every namespace such as the `namespace_id`, `namespa
 **Granularity:** 1 record per namespace
 
 **Key Filters:**
-- namespace_is_internal = FALSE (Excludes internal namespaces)
-- namespace_ultimate_parent_id = namespace_id (includes only top-level namespaces) 
-- namespace_type = 'Group' (Recommended since most Growth initiatives are built around Group namespaces)
+- `namespace_is_internal = FALSE`: Excludes internal namespaces
+- `namespace_ultimate_parent_id = namespace_id`: Includes only top-level namespaces
+- `namespace_type = 'Group'`: Recommended since most Growth initiatives are built around Group namespaces
 
 **Items of Note**
 - Plan-related and member count data points: Since there is only one record per namespace, that means plan changes are not captured in this data set. Especially from a Growth mindset, the plan at certain points in a namespace's lifecycle (namespace creation, 90 days after creation, etc) and the transition from one plan to the next (such as Free to Trial to Paid) are more helpful.
@@ -506,7 +522,7 @@ via invite acceptance or access automatically granted.
 Notable columns:
 * `user_id`: Unique identifier of namespace/group/project member
 * `membership_source_id`: Unique identifier of namespace/group/project
-* `is_billable`: Boolean denoting wheter a member should be counted toward the seat count 
+* `is_billable`: Boolean denoting whether a member should be counted toward the seat count 
 for a subscription
   * This also applies to namespaces without a subscription
 
