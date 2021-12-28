@@ -257,11 +257,12 @@ Where Can GitLab Team Members Travel: While some areas of the world have decreas
 
 Required of/by Team Members Prior to Traveling:
 
+### As of 2021-12-29, all business sponsored travel has been cancelled through the end of January, 2022 due to the continued spread of COVID.  The COVID Committee will reconvene in January to review this policy again to determine if the cancellations will continue for a longer period of time.  Please do not request or plan any business travel at this time regardless of the dates of travel.  If an exception is requested due to a customer hardship, please request the exception through your leadership team.  The approval by your functional E-Group member is required.    
+
 - At this time, all business travel requires pre-approval and only fully vaccinated team members may travel for business if their request is approved. Except where an exemption or accommodation may apply, non-vaccinated team members are currently not allowed to travel. Being fully vaccinated means that you are at least two weeks past your final vaccination date.
 - Business travel requests should be made for any mode of travel (including personal vehicles for local travel and local public transportation) where team members will be meeting co-workers, customers and/or partners in person.
-- To request business travel, please discuss your business travel plans with your direct manager to determine whether business travel is necessary.  Once approved by your manager, you are authorized to travel for business.
 - Traveling to meet with co-workers in person will require eGroup approval per the normal budget process and is considered business travel for the purpose of this policy.
-- By making a request to travel, you are confirming that you are authorized to travel based on your vaccination status. GitLab is not requiring vaccination confirmation at this time in order to travel.
+- By making a request to travel, you are confirming that you are authorized to travel based on your vaccination status. GitLab is not requiring vaccination confirmation at this time to travel.
 - Vaccinated team members must wear a mask that meets CDC or WHO guidelines during travel to their destination(s), and must continue to follow mask requirements meeting CDC/WHO guidelines or local, venue or client requirements, whichever is most strict.
 - All international travelers must follow each country's guidelines governing entry and re-entry. If COVID-19 testing is required to travel, GitLab will reimburse team members for required testing costs.
 
