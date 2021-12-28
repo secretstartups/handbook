@@ -183,7 +183,7 @@ Identified complexities reside around the following topics:
 5. Scalability: Write bottlenecks for tables replicated from a single point (for non-shardable data)
 6. Product: Many product features have been identified to potentially become very slow/expensive or break with this approach. We would need to align the product thinking such that features are fully contained in a namespace. Ideally, this includes confining users into a single namespace, too - which seems like a huge undertaking and also quite limiting for the user experience.
 
-We expect to only need sharding capabilities for GitLab.com and don't expect this to be necessary for self-hosted installations. This further complicates implementation because it's likely we would have to implement some actions specific to GitLab.com.
+We expect to only need sharding capabilities for GitLab.com and don't expect this to be necessary for self-managed installations. This further complicates implementation because it's likely we would have to implement some actions specific to GitLab.com.
 
 ### Summary
 

@@ -89,15 +89,21 @@ For those new to the team, these links may be helpful in learning more about the
 
 ## How We Work
 
+The [Pipeline Execution Workflow board](https://gitlab.com/groups/gitlab-org/-/boards/1372896?label_name[]=group%3A%3Apipeline%20execution) is the source of truth for current and upcoming work.
+
 ### Planning
 
-Issues are refined and weighted prior to scheduling them to an upcoming milestone. We use `Verify::PX` scoped labels to help with planning work in future iterations. The additional label allows us to filter on the issues we are planning, allowing Product, Engineering and UX to [start async issue refinement on the 4th](/handbook/engineering/workflow/#product-development-timeline).  Weighting also helps with capacity planning with respect to how issues are scheduled in future milestones. 
+Our planning timeline follows the [GitLab Product Development timeline](/handbook/engineering/workflow/#product-development-timeline).
 
-We create 2 issues as part of our Planning process:
- 1. Planning issue - Product is the DRI in prioritizing work, with input from Engineering, UX and Technical Writers. This issue is used to discuss scheduling and team capacity. We use an issue list filtered on the group and candidate labels.
- 1. Needs Weight issue - Engineering is the DRI in ensuring issues are refined asynchronously and weighted accordingly, given what is planned for the milestone. This helps Product understand how much can be scheduled in the future milestone(s), once the complexity and effort of the issues are better understood.  For example, issues may need to be broken down if they are too large for a milestone, or further research may be necessary, so subsequent issues or epics can be created.
-
-Both issues currently rely on the `Verify::PX` scoped label to determine what issues are to be investigated for the upcoming milestone(s).
+* By the **4th** of each month:
+  * The PM will move any issues they are considering for the next milestone into `workflow::planning breakdown`.
+  * The PM will assign or update `Verify::P*` labels for the refined issues.
+  * The EM will move any `technical debt` issues they are considering for the next milestone into `workflow::planning breakdown`.
+  * The EM will assign issues needing weight to engineers for refinement.
+* By the **13th** of each month:
+  * Engineers will refine the assigned issues and move them to `workflow::scheduling`.
+  * The EM and PM will update the milestone on issues in `workflow::scheduling` based on the team's capacity for the upcoming milestone and move issues into `workflow::ready for development`.
+  * The EM will assign the `Deliverable` label to as many `Verify::P1` issues in `workflow::ready for development` as the team has capacity for.
 
 #### How Engineering Refines Issues
 
@@ -123,10 +129,11 @@ Any one on the team can contribute to answering the questions in this checklist,
 
 Engineers will:
 1. Go through the checklist above for refining issues assigned to them
+1. Split a backend issue out from the main issue if backend work needs to be completed before frontend work can begin
 1. Add a [weight based on the definitions](#weighting-issues)
 1. Update the `~workflow::` label to the appropriate status, e.g. 
    * ~"workflow::design" if further design refinement is needed, and let the designer know
-   * ~"workflow::ready for development" when refinement is completed and a weight has been applied, signaling that it's ready for implementation and the issue can be scheduled accordingly
+   * ~"workflow::scheduling" when refinement is completed and a weight has been applied, signaling that it's ready for implementation and the issue can now be prioritized
    * ~"workflow::planning breakdown" if more investigation and research is needed, the status does not move, and the PM and EMs should be pinged
 1. Unassign themselves from the issue when they are done refining and weighting the issue
 
@@ -166,9 +173,11 @@ Development moves through workflow states in the following order:
  1. `Closed`
 
 `workflow::planning breakdown` is driven by Product, but is a collaborative effort between Product, UX and Engineering. The steps for **planning breakdown** typically consists of:
- - Product defining or clarifying the problem statement. Product and UX will collaborate on `problem validation` as needed
- - UX providing designs (as necessary)
+ - Product defining or clarifying the problem statement. Product and UX will collaborate on `problem validation` as needed.
+ - UX providing designs as needed.
+ - UX reviewing issues that have a workflow/user experience change by monitoring issues with the `~UX` label.
  - Engineering clarifying the issue description as stated, and refines and weights the issue once Product and UX have provided enough details to do so.
+ - Tech writing reviewing issues for documentation additions/edits and adding perspective on UI text by monitoring issues with the `~"Technical Writing"` label. (Experimental during FY22Q4)
 
 At any point, if an issue becomes blocked, it would be in the `workflow::blocked` status. If there is a blocking issue, it needs to be added to the issue description or linked to the issue with a 'blocked by' relationship.
 
@@ -199,7 +208,8 @@ Specifically, this means our work is prioritized in the following order:
  * Any verification on code that is in `workflow::verification` or `workflow::production`
  * Conducting code reviews on issues that are `workflow::in review`
  * Unblocking anyone in `workflow::blocked` or `workflow::in dev` if applicable
- * Then, lastly, picking from the top of the `workflow::ready for development` for development column
+ * Then, picking from the top of the `workflow::ready for development` column
+ * Lastly, if there are no issues left in `workflow::ready for development`, picking from the top of the `workflow::planning breakdown` column to get a headstart on refinement for the next milestone
 
 The goal of this process is to reduce the amount of work in progress (WIP) at any given time. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is **the author(s)**, to reflect the importance of teamwork without diluting the notion that having a [DRI is encouraged by our values](/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
 
