@@ -211,6 +211,7 @@ Meltano uses Airflow internally and we use Cloud SQL as the metadata database. T
 
 During the devlopment of `tap-edcast` found a couple of interesing places which worth consider as a possible points for discussion.
 
+If you want to re-use hands-on script used for `tap-edcast` development, testing and deployment, refer to [help_scripts/meltano.sh](https://gitlab.com/rbacovic/data_misc_scripts/-/blob/main/help_scripts/meltano.sh).
 #### Schema issue
 
 When you have value in the schema that can have more than one data type, it is difficult to make it work. Let's say, we have columns retrieved from API that can contain an empty string or number, for instance: ['',1,2,3,4].
