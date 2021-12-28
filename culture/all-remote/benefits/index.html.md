@@ -15,15 +15,16 @@ twitter_creator: "@gitlab"
 - TOC
 {:toc}
 
-## **A brief** [**history**](https://wrkfrce.com/a-brief-history-of-remote-work/) **of remote work**[ ](https://wrkfrce.com/a-brief-history-of-remote-work/)
+## A brief [history](https://wrkfrce.com/a-brief-history-of-remote-work/) of remote work
 
 1973--Jack Nilles creates the terms "telecommuting" and "teleworking"
 1979-- Frank Schiff, VP and chief economist of the Committee for Economic Development states that “If 10 percent of those who commute to work each weekday were to start working at home two days each week, this would reduce the volume of such travel by 4 percent” in the[ Washington Post.](https://www.washingtonpost.com/archive/opinions/1979/09/02/working-at-home-can-save-gasoline/ffa475c7-d1a8-476e-8411-8cb53f1f3470/)
 
-1983--IBM runs an experiment and allowed 5 employees to work from home. 4 years later nearly 2,000 of its employees were telecommuting.
-1987--1.5M Americans work remotely
-1991--Wi-Fi boosts the availability of remote work2015--GitLab launches with 9 all-remote FTE's
-2020--COVID-19 accelerates the validity of all-remote work
+* 1983--IBM runs an experiment and allowed 5 employees to work from home. 4 years later nearly 2,000 of its employees were telecommuting.
+* 1987--1.5M Americans work remotely
+* 1991--Wi-Fi boosts the availability of remote work
+* 2015--GitLab launches with 9 all-remote FTE's
+* 2020--COVID-19 accelerates the validity of all-remote work
 
 ## What is the difference between "remote" and "hybrid"
 
