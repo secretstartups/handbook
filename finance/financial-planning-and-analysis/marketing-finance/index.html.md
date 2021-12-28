@@ -63,6 +63,7 @@ The Marketing Variance Review meeting happens once a month to review the actual 
 * 2021-12-14: November Actuals loaded into Allocadia (estimated)
 * 2021-12-24: December Forecast Due 
 * 2022-01-14: December Actuals loaded into Allocadia (estimated) 
+* 2022-01-14: FY23 Targets added into Allocadia (estimated)
 * 2022-01-25: January Forecast Due 
 * 2022-02-14: January Actuals loaded into Allocadia (estimated)
 
