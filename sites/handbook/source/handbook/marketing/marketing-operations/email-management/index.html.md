@@ -67,3 +67,11 @@ Invitation and/or notification emails sent about future webcasts.
 
 **Live Events**
 Invitation emails to attend a live event, meet-up, or in-person training. These emails are sent to a geo-locational subset of the overall segment. This type of email is also used when we are attending a conference and want to make people aware of any booth or event we may be holding and/or sponsoring.
+
+
+### Partners and Email Communication
+While a partner is in contact with a lead or contact, GitLab should stop emailing the prospect so that the partner can follow up. Once the partner rejects or if GitLab recalls the lead, the lead can then be emailed again by GitLab (assuming we have consent). As of 2021-12-28 we have not yet set up a process for a lead to be returned to GitLab and become emailable.
+
+The workflows in Marketo are set up and are [reflected here](https://app.mural.co/t/gitlab2474/m/gitlab2474/1640709707638/31d08e88786abdbc2aa7cc9c19a4b61f3412da1e?sender=awaller1257).
+
+If a person opts-out of GitLab email, it does not opt them our from Partner communication, and vice versa. It is the responsibility of the partner to manage their email lists. 
