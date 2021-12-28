@@ -225,7 +225,7 @@ If you put schema description like:
 this will raise an error, if you got an empty string ('') as a return value from the `RESTful API`.
 
 **Solution:**
-use `anyOf` keyword when defining the schema structure. You should find more details under [swagger specification: oneof-anyof-allof-not](https://swagger.io/docs/specification/data-models/oneof-anyof-allof-not/). This is how your specification should look if you want to avoid errors:
+use `anyOf` keyword when defining the schema structure. You should find more details under [swagger specification: oneof-anyof-allof-not](https://swagger.io/docs/specification/data-models/oneof-anyof-allof-not/). This is how your specification should look, if you want to avoid errors:
 
 ```bash
 "Group ID": {
@@ -283,7 +283,7 @@ If you want to have a primary key load in your stream, it is fairly simple to se
     primary_keys = ["ECL ID", "Time", "Group Name"]
 ...
 ``` 
-where ["ECL ID", "Time", "Group Name"] are name of your columns in the stream. Primary key is a list and can contain one or more columns in the definition.
+where `["ECL ID", "Time", "Group Name"]` are name of your columns in the stream. Primary key is a list and can contain one or more columns in the definition.
 
 
 ## Add extractor, Config variable and schedule to meltano setup to be used by TAPs 
