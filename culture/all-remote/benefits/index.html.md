@@ -175,6 +175,20 @@ Employees are [more productive with fewer distractions](), so long as leadership
 
 Despite all of its [advantages](https://about.gitlab.com/company/culture/all-remote/benefits/), all-remote work isn't for everyone. It can have disadvantages for potential employees depending on their lifestyle and work preferences, as well as the organization. In the spirit of [transparency](https://about.gitlab.com/handbook/values/#transparency), we've outlined potential drawbacks and solutions to these challenges [here](https://about.gitlab.com/company/culture/all-remote/drawbacks/).
 
+## Which is right for your organization?
+
+We're nearing [a tipping point with all-remote](https://medium.com/@gcvp/going-distributed-choosing-the-right-remote-friendly-team-model-6a04f833267c). Instead of remote teams having to justify why they do it, it's going to be colocated companies having to justify why they *don't*.
+
+All-remote work wouldn't be possible without the constant evolution of technology, and the tools that enable this type of work are continuously being developed and improved.
+
+## Determining eligibility for hybrid or remote work
+
+While [job sites](https://about.gitlab.com/company/culture/all-remote/jobs/) and common conversation can lump each remote role into a single category, it's important to realize that not every remote role is created equal. Just as colocated roles need to be evaluated in totality, those seeking to transition into a remote role for the first time should ask certain questions during the interview or evaluation phase.
+
+There are [various stages of remote work](https://about.gitlab.com/company/culture/all-remote/stages/), which can be easily pictured as a sliding scale. From no remote to [hybrid-remote](https://about.gitlab.com/company/culture/all-remote/hybrid-remote/) to all-remote, and all points in between, a remote worker's experience in each setting will likely vary. Below, we're highlighting key topics to cover when seeking an understanding of how you'll be treated in a full-time remote role. Additional questions should be considered depending on your specific scenario and familiarity with the hiring company.
+
+While there are a growing number of freelance gigs which can be completed remotely, this article is centered around [full-time remote careers](https://about.gitlab.com/company/culture/all-remote/jobs/).
+
 ## Contribute your lessons
 
 GitLab believes that all-remote is the [future of work](/company/culture/all-remote/vision/), and remote companies have a shared responsibility to show the way for other organizations who are embracing it. If you or your company has an experience that would benefit the greater world, consider creating a [merge request](https://docs.gitlab.com/ee/user/project/merge_requests/) and adding a contribution to this page.
