@@ -101,7 +101,7 @@ Used for `visibility_level` filter
 - `Aggregation`: Aggregate how to group the `namespace_created_at` dates (daily, weekly, monthly, etc)
 - `namespace_visibility`
 
-How to Use and Sample Output (if copy/pasted into Sisense):
+**How to Use and Sample Output (if copy/pasted into Sisense)**
 
 These snippets are written as plug-and-play CTEs. You can apply your own name to these CTEs
 
@@ -185,13 +185,13 @@ _See namespace-level stage adoption metrics such as time to first adoption, stag
 
 **Do Not Use For:**
 - Sequential stage adoption: Since this data is at a day-level granularity, you are unable to see which stage is adopted first, if stages were adopted on the same day.
-- Calculating SpO: This snippet is meant to analyze the adoption of particular stages. Use the _[growth_data_spo]_ snippet for a more general SpO analysis.
+- Calculating SpO: This snippet is meant to analyze the adoption of particular stages. Use the `[growth_data_spo]` snippet for a more general SpO analysis.
 
 **Fields**
 
 - `namespace_id`: Unique identifier of namespace
 - `namespace_creation_date`: Date of namespace creation
-- `namespace_creation_[aggregation]`: Date of namespace creation truncated by [aggregation]
+- `namespace_creation_[aggregation]`: Date of namespace creation truncated by `[aggregation]`
 - `stage_name`
 - `initial_stage_adopted_at`: Timestamp of first adoption of stage
 - `days_till_first_adoption`: Count of days from namespace creation to the namespace's initial 
@@ -202,11 +202,11 @@ event within time window
 one representative stage event within the time window
 - `stage_order_adopted`: Order of stages adopted by namespace (integer)
 - `stages_adopted_by_namespace`: Total count of unique stages adopted in the namespace's first 
-[First_X_Days_Filter] days after creation
+`[First_X_Days_Filter]` days after creation
 
 **Automatic Filters**
 
-- _This snippet includes all automatic filters used in the [growth_data_namespaces] snippet_
+- _This snippet includes all automatic filters used in the `[growth_data_namespaces]` snippet_
 - Filters OUT stage events for `manage` and `monitor` since reporting is not currently available for SaaS
 - Filters FOR stage events that are _representative_ of the stage being adopted (indicating a SMAU)
 - Filters OUT `namespace_created_at` dates that are _immature_, meaning they were created less than `First_X_Days_Filter` days before today.
@@ -214,7 +214,7 @@ one representative stage event within the time window
 
 **Filtering Options (if filters aren't enabled, will show all results)**
 
-- _This snippet includes all filtering options used in the [growth_data_namespaces] snippet_
+- _This snippet includes all filtering options used in the `[growth_data_namespaces]` snippet_
 - `event_plan_name`: Select plan name(s) you want to include in the reporting.
 - `First_X_Days_Filter`: Filters for the first x days after namespace creation
 
@@ -295,7 +295,7 @@ or access granted)
 
 - _This snippet includes all filtering options used in the [growth_data_namespaces] snippet_
 
-How to Use and Sample Output (if copy/pasted into Sisense):
+**How to Use and Sample Output (if copy/pasted into Sisense)**
 
 These snippets are written as plug-and-play CTEs. You can apply your own name to these CTEs
 
@@ -350,7 +350,7 @@ _Sisense snippet that can easily be adjusted any experiment using Snowplow event
 - `legacy.snowplow_structured_events_all`
 - `legacy.snowplow_gitlab_events_experiment_contexts_all`
 
-**Fields Included**
+**Fields**
 
 - `event_id`: Unique identifier of Snowplow event
 - `experiment_name`
@@ -421,7 +421,6 @@ _At a glance, see if the experiment is reporting data, for which events, and wha
 <details markdown="1"><summary>Click to expand</summary>
 
 **[Visit Dashboard](https://app.periscopedata.com/app/gitlab/860363/Experiment-Data-Validation)**
-
 
 **How to Use:** 
 - Select your experiment in the `select_experiment` filter dropdown. Data for your experiment will load in approximately two to five minutes.
