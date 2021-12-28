@@ -55,6 +55,11 @@ Quick resolution requires focus and a clear hierarchy for delegation of
 tasks. Preventing overlaps and ensuring a proper order of operations is vital
 to mitigation.
 
+When joining the incident zoom, edit your zoom name to start with your role.
+During an incident, clarity of roles aids Time to Resolution, and doing this will allow anyone joining the call at any time to easily see who has which roles.
+To edit your name during a zoom call, click on the three dots by your name in your video tile and choose the "rename" option.
+Edits made during a zoom call only last for the length of the call, so it should automatically revert to your profile name/title with the next call.
+
 | **Role** | **Description** | **Who?** |
 | ---- | ----------- | ---- |
 | `EOC` - **Engineer On Call** | The EOC is the usually the first person alerted - expectations for the role are in the [Handbook for oncall](/handbook/on-call/#expectations-for-on-call). The checklist for the EOC is in our [runbooks](https://gitlab.com/gitlab-com/runbooks/blob/master/on-call/checklists/eoc.md). If another party has declared an incident, once the EOC is engaged the EOC owns the incident. The EOC can escalate a page in PagerDuty to engage the Incident Manager and CMOC. | The Reliability Team **Engineer On Call** is generally an SRE and can declare an incident. They are part of the "SRE 8 Hour" on call shift in PagerDuty. |
