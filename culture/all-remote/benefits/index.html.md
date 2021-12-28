@@ -39,7 +39,7 @@ Hybrid: when workers split their time between conventional in-office work and wo
 
 In this [video](https://www.youtube.com/watch?v=Xw-31PZkHOo), GitLab Director of Global People Operations [Carol Teskey](https://gitlab.com/cteskey) shares her view on the many benefits of all-remote, and the competitive advantages that come along with it.
 
-## All-Remote Benefits & Advantages
+## Benefits of remote work
 
 ![GitLab values illustration](/images/all-remote/gitlab-values-tanukis.jpg){: .medium.center}
 
@@ -144,6 +144,36 @@ Working remotely gives each person the autonomy to serve in a place that matters
 
 1. There's evidence that [remote work can reduce the effects of urban crowding](https://qz.com/work/1641664/remote-workers-are-the-solution-to-urban-crowding/) for many cities around the world. Some states and countries are even [offering incentives](http://fortune.com/2019/06/22/google-housing-plan-bay-area/) to encourage remote work. Here are [13 examples](https://www.bankrate.com/personal-finance/smart-money/places-that-will-pay-you-to-move/#slide=1) around the world.
 1. For global companies, bringing better-paying jobs to low-cost regions has positive economic impacts and works to reverse the [trends](http://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2016)586632) of [depopulation in rural regions](https://carsey.unh.edu/publication/rural-depopulation).
+
+## The competitive advantage for companies that embrace remote work
+
+Remote enables a more diverse and inclusive workforce, greater efficiency in workflows, and broader global coverage in servicing clients. It significantly de-risks a business, making it more resilient in the face of crises and able to maintain continuity regardless of whether an office is open or closed.
+
+Companies may need to create a [remote leadership team]() and invest in manager training. However, there is little debate on whether this is an option. Remote work will soon simply be "work," with global flexibility an expectation. Companies which have multiple offices already have teams which are remote to one another, and thus need a solid baseline of remote fluency to operate in optimal fashion.
+
+### Top tier talent, without location being a factor
+
+Limiting your company's recruiting pipeline to a certain geographic region, or sourcing employees who are able and willing to relocate, is a competitive *dis*advantage.
+
+Not only does this create a less [inclusive]() hiring process which reaches a less diverse set of candidates, it forces your organization to compete primarily on the basis of [salary](https://hired.com/page/state-of-salaries).
+
+You're able to hire great people no matter where they live. For example, GitLab has a truly global footprint, with team members in [65+ countries]().
+
+### Flexible working hours and availability
+
+With employees located all over the world [working asynchronously](), contributions can continue even when one time zone's working day is over.
+
+- GitLab has a people group KPI stating that the [percent of sent Slack messages that are not DMs be > 50%]().
+
+### Happy staff and better productivity
+
+Employees are [more productive with fewer distractions](), so long as leadership is supportive in equipping teams with the requisite tools, structure, and culture to thrive.
+
+- For example, GitLab has a KPI of [65 tickets closed per support staff per month]().
+
+## Challanges to consider before embracing remote work
+
+Despite all of its [advantages](https://about.gitlab.com/company/culture/all-remote/benefits/), all-remote work isn't for everyone. It can have disadvantages for potential employees depending on their lifestyle and work preferences, as well as the organization. In the spirit of [transparency](https://about.gitlab.com/handbook/values/#transparency), we've outlined potential drawbacks and solutions to these challenges [here](https://about.gitlab.com/company/culture/all-remote/drawbacks/).
 
 ## Contribute your lessons
 
