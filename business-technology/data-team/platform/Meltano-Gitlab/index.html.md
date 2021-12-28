@@ -252,6 +252,40 @@ AttributeError: 'SnowflakeDialect' object has no attribute 'driver'
 The [`target-snowflake`](https://gitlab.com/meltano/target-snowflake) we are using is obsolete as it uses the old version of `snowflake-sqlachemy`. We upgraded `snowflake-sqlalchemy` library in the project, fork it and make it work. `snowflake-sqlalchemy==1.1.2` was upgraded to `snowflake-sqlalchemy==1.3.3`
 It is located under our new repo for target-snowflake [edcast-target-snowflake](https://gitlab.com/gitlab-data/edcast-target-snowflake)
 
+#### Incremental load
+
+Singer tap (and Meltano as well) provides 2 ways of [replication method](https://github.com/singer-io/getting-started/blob/master/docs/SYNC_MODE.md#replication-method):
+* `INCREMENTAL` and
+* `FULL`
+
+In case you want to avoid overkill with `FULL` load all the time, stick with the incremental load.
+
+**Solution:** 
+If you want to have an incremental load in your stream, it is fairly simple to set up. Got to stream you defined in `streams.py` file in your project and you should have something like:
+```python
+...
+    replication_key = "Time"
+    replicaton_method = "INCREMENTAL"
+...
+```
+With this property, you tell your tap to bookmark and save the last value for the column `Time` and next load to start from that point and move forward. And again, after the load is done keep the latest value of the column `Time` and bookmark it.
+
+#### Primary key definition
+
+Sometimes in your stream(s), you want to avoid duplicate data. What can help you here is to define `PRIMARY KEY`. Under the hood, this is a base for tap (and target later on) to generate a `MERGE` statement _(in case you are using a well-known database from the market)_.
+
+**Note:** this primary key is not a showstopper for the tap if it finds a duplicate, it is more a direction forwarder to the target of how to treat your data during the load.
+
+**Solution:** 
+If you want to have a primary key load in your stream, it is fairly simple to set up. Got to stream you defined in `streams.py` file in your project and you should have something like:
+```python
+...
+    primary_keys = ["ECL ID", "Time", "Group Name"]
+...
+``` 
+where ["ECL ID", "Time", "Group Name"] are name of your columns in the stream. Primary key is a list and can contain one or more columns in the definition.
+
+
 ## Add extractor, Config variable and schedule to meltano setup to be used by TAPs 
 
 We have CI process in place for newly created taps or to update new variables config to existing Meltano taps. For this to work smoothly we need to create a branch from the [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano).
