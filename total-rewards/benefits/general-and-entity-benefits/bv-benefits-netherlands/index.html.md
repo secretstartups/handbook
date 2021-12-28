@@ -78,6 +78,11 @@ Cycle to work will have a maximum expenditure of 1200 EUR for a bike. The team m
 4. Once the contract is signed, HR Savvy will invoice GitLab and purchase the bike on behalf of GitLab.
 5. Total Rewards will notify payroll to reduce the team member's gross salary by the cost of the bike as per the addendum.
 
+If a team member would want to purchase a bike more expensive than the 1200 EUR maximum the process is as follows: 
+* HRSavvy will invoice the seller for the entirety of the bike. 
+* The difference between the cost of the bike and 1200 EUR will be deducted from the team member's net salary.
+* This means the team member will only have a tax benefit over the first 1200 euro. 
+
 ## GitLab B.V. Netherlands Leave Policy
 
 * Statutory Sick Leave
