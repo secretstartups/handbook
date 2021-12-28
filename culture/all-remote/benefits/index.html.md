@@ -15,7 +15,21 @@ twitter_creator: "@gitlab"
 - TOC
 {:toc}
 
-On this page, we're highlighting benefits of operating an all-remote company for employers, employees, and the world.
+## **A brief** [**history**](https://wrkfrce.com/a-brief-history-of-remote-work/) **of remote work**[ ](https://wrkfrce.com/a-brief-history-of-remote-work/)
+
+1973--Jack Nilles creates the terms "telecommuting" and "teleworking"
+1979-- Frank Schiff, VP and chief economist of the Committee for Economic Development states that “If 10 percent of those who commute to work each weekday were to start working at home two days each week, this would reduce the volume of such travel by 4 percent” in the[ Washington Post.](https://www.washingtonpost.com/archive/opinions/1979/09/02/working-at-home-can-save-gasoline/ffa475c7-d1a8-476e-8411-8cb53f1f3470/)
+
+1983--IBM runs an experiment and allowed 5 employees to work from home. 4 years later nearly 2,000 of its employees were telecommuting.
+1987--1.5M Americans work remotely
+1991--Wi-Fi boosts the availability of remote work2015--GitLab launches with 9 all-remote FTE's
+2020--COVID-19 accelerates the validity of all-remote work
+
+## What is the difference between "remote" and "hybrid"
+
+Remote: a work arrangement in which employees do not commute to a central place of work
+
+Hybrid: when workers split their time between conventional in-office work and working remotely
 
 <!-- blank line -->
 <figure class="video_container">
@@ -23,7 +37,7 @@ On this page, we're highlighting benefits of operating an all-remote company for
 </figure>
 <!-- blank line -->
 
-In the [video](https://www.youtube.com/watch?v=Xw-31PZkHOo) above, GitLab Director of Global People Operations [Carol Teskey](https://gitlab.com/cteskey) shares her view on the many benefits of all-remote, and the competitive advantages that come along with it.
+In this [video](https://www.youtube.com/watch?v=Xw-31PZkHOo), GitLab Director of Global People Operations [Carol Teskey](https://gitlab.com/cteskey) shares her view on the many benefits of all-remote, and the competitive advantages that come along with it.
 
 ## All-Remote Benefits & Advantages
 
