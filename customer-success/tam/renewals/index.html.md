@@ -13,6 +13,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 Link to [Commercial Renewal Process](/handbook/customer-success/comm-sales/renewals/)
 
+## Overview
 
 A key part of the customer relationship lifecycle is the renewal phase. TAMs must proactively track the renewal dates of their customers and align with their Strategic Account Manager (SAL) or Account Executive (AE) to ensure that a customer renewal takes place.
 
