@@ -328,10 +328,10 @@ An example of a folder setup in Marketo is:
 
 |Status|Definition|When does it update?|
 |------|--------|--------|
-|Planned| The campaign is expected and has been set up, but the start date hasn't happened yet (could also be where its pulled back to if an event is postponed).|prior to the Start date - upon Creation|
-|In Progress|The campaign has begun. This is expected to be at least 30 days prior, but could be more if the campaign requires it. |on Start date (generally 30 days prior to event)|
-|Aborted|Campaign has been suspended, cancelled, aborted. |Manually when campaign is aborted|
-|Completed|The campaign happened and has ended, generally 60 days after the event, but manually set by the campaign manager as appropriate. |After End date (generally 60 days after event)|
+|Planned|The campaign is expected and has been set up, but the start date hasn't happened yet (could also be where its pulled back to if an event is postponed).|Prior to the Campaign Start date - upon Creation|
+|In Progress|The campaign has begun. |On Start date|
+|Aborted|Campaign has been suspended, cancelled, aborted.|Manually when campaign is aborted|
+|Completed|The campaign took place and has ended.|After the Campaign End Date|
 
 
 
