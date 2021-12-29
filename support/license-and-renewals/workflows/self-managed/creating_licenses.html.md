@@ -36,10 +36,12 @@ When an existing license isn't available to duplicate, instead select,
 Zuora subscription ID and Zuora subscription name.
 
 ##### Resend, Forward the license: 
+
+Find the license by following steps 1,2 mentioned in the above section, and: 
 -  To resend the license to the end-user use the `Resend to customer via email` function. 
--  To forward the license to a different address use the `Forward license email` function. 
+-  To forward the license to a different address using the `Forward license email` function. 
     1. Navigate to the `Forward license email` tab. 
-    2. Enter the `Destination email address` and click **Forward** buton. 
+    2. Enter the `Destination email address` and click the **Forward** button.
 
 ### Trial or Temporary license
 
