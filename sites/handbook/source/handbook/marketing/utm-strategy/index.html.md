@@ -138,6 +138,9 @@ Values (available as picklist in the UTM builder googlesheet):
 * redhat = RedHat OpenShift
 * ibm = IBM
 
+#### utm_partnerid
+This is used for events where we are passing the lead to that specific partner. For a running list of partner Ids, [go here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids).
+
 ## UTMs in Practice
 {: #utms-in-practice .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
@@ -213,6 +216,11 @@ In order to retain historical campaign tracking data we will keep existing UTM s
   - [See utm_content](/handbook/marketing/utm-strategy/#utm-content) for accepted options.
   - Do not use `demandbase` for utm_content.
 * UTM GTM = `overarching GTM`
+
+### UTM structure for partner campaigns
+{: #utms-structure-for-partner-campaigns .gitlab-purple}
+* Most TBD
+* UTM PartnerID = the crm ID of the partner you wish to pass the lead to
 
 ## Marketo > Bizible integration
 {: #marketo-bizible .gitlab-purple}
