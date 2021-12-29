@@ -500,3 +500,100 @@ Into the unknowwwwwwwnnnnnnnnnnn<br>
 ## Cheers
 
 1. G to the T, L to the B Who's contributing remotely? That's ME!
+
+## [Push It!](#push-it)
+
+Sung to the tune of [Push It!](https://www.youtube.com/watch?v=vCadcBR95oU) by the hip hop group [Salt-N-Pepa](https://en.wikipedia.org/wiki/Salt-N-Pepa)<br>
+Arranged for the GitLab Songbook by Mike Lockhart<br>
+
+Ah, push it\
+GitLab, push it
+
+(Hit it)\
+Ooh, baby, baby, baby, baby\
+Ooh, baby, baby, ba-baby, baby\
+DevOps on this
+
+GitLab, push it\
+GitLab, push it\
+GitLab, push it\
+(Hey) DevOps on this\
+(GitLab, push it)\
+DevOps on this\
+(GitLab)
+
+Ow! Baby!
+
+Open Source is here\
+Op, Op-Op, Open Source's here\
+Op-Op-Op-Op-Op, Open Source's here\
+Open Source, Open Source, Open Source's here\
+Op, Op, Op, Open Source's here\
+Now, now, now, wait a minute y'all\
+This dance is for everybody\
+Open to all the people\
+Yo y'all inspire others, Git on out there enhance\
+Enhance, I said
+
+Open Source's here, and we're in effect\
+Want you to push it back\
+Coding by day, then at night, working up a sweat\
+C'mon girls, let's (code!) go show the guys that we know\
+How to include everyone in our hot DevOps show\
+Now push it\
+(GitLab, push it) push it good\
+(GitLab, push it) push it real good\
+(GitLab, push it) push it good\
+(GitLab, push it) p-push it real good
+
+Hey!\
+Ow!\
+Push it good
+
+Ooh, baby, baby, baby, baby\
+Ooh, baby, baby, ba-baby, baby\
+Push it good\
+Push it real good\
+(GitLab, push it)
+
+GitLab, push it
+
+Yo, yo, yo, yo, baby-pop\
+Yeah, you! Come here, gimme a diff\
+Better merge it fast or else it's gonna conflict\
+Yeah you got that pipeline workin' hard, like I knew you would\
+Now push it\
+Push it good\
+Push it real good\
+Push it good\
+P-push it real good\
+(GitLab, push it)
+
+DevOps on this\
+(Uh) DevOps on this\
+(Uh, uh, uh) DevOps on this\
+(Hey) DevOps on this\
+
+(Hit it)
+Deploy, you really got me going\
+You go me so\
+I know just what I'm doing\
+GitLab, push it\
+GitLab, push it\
+Deploy, you really got me going\
+You got me so\
+I know just what I'm doing\
+GitLab, push it\
+GitLab, push it
+
+GitLab
+
+GitLab, push it\
+Push-push-push-push it, push it\
+Push it\
+Push-push-push-push it, push it\
+Push it, push it\
+Push it, push it, push  it\
+Push it, push it\
+Push it, push it, push it
+
