@@ -64,18 +64,20 @@ _Simplifed namespaces data set that includes enhanced filtering_
 <details markdown="1"><summary>Click to expand</summary>
 
 **Options for accessing this snippet:**
+
 - Copy/paste `[growth_data_namespaces]` into your Sisense report.
 - Copy/paste [SQL code](https://gitlab.com/gitlab-data/periscope/-/blob/periscope/master/snippets/growth_data_namespaces/growth_data_namespaces.sql) to customize query within your Sisense report.
 
 **Granularity:** One record per namespace
 
 **Data Sets Used:** 
+
 - `legacy.gitlab_dotcom_namespaces_xf`
 - `legacy.gitlab_dotcom_users_blocked_xf`
 - `legacy.gitlab_dotcom_members`
 - `legacy.gitlab_dotcom_user_preferences`
 
-**Fields**
+**Fields:**
 
 - `namespace_id`: Unique identifier of namespace
 - `creator_id`: Unique user identifier (`user_id`) of namespace creator
@@ -86,7 +88,7 @@ _Simplifed namespaces data set that includes enhanced filtering_
 - `namespace_visibility_level`: Visibility level of namespace: `'public'`, `'private'`, `'internal'`. 
 Used for `visibility_level` filter
 
-**Automatic Filters**
+**Automatic Filters:**
 
 - Filters OUT namespaces created by blocked users
 - Filters OUT internal namespaces
@@ -94,14 +96,14 @@ Used for `visibility_level` filter
 - Filters FOR top-level namespaces
 - Filters FOR `Group` namespaces
 
-**Filtering Options (if filters aren't enabled, will show all results)**
+**Filtering Options (if filters aren't enabled, will show all results):**
 
 - `setup_for_company`
 - `DateRange`: Select what range of `namespace_created_at` dates you want included in the report
 - `Aggregation`: Aggregate how to group the `namespace_created_at` dates (daily, weekly, monthly, etc)
 - `namespace_visibility`
 
-**How to Use and Sample Output (if copy/pasted into Sisense)**
+**How to Use and Sample Output (if copy/pasted into Sisense):**
 
 These snippets are written as plug-and-play CTEs. You can apply your own name to these CTEs
 
@@ -135,6 +137,7 @@ DO NOT USE FOR: Individual stage insights (use stage adoption snippet for this)
 **Granularity:** One record per namespace
 
 **Data Sets Used:**
+
 - `legacy.gitlab_dotcom_daily_usage_data_events`
 - `legacy.gitlab_dotcom_xmau_metrics`
 - `legacy.gitlab_dotcom_namespaces_xf`
@@ -142,7 +145,7 @@ DO NOT USE FOR: Individual stage insights (use stage adoption snippet for this)
 - `legacy.gitlab_dotcom_members`
 - `legacy.gitlab_dotcom_user_preferences`
 
-**Fields**
+**Fields:**
 
 - `namespace_id`: Unique identifier of namespace
 - `namespace_creation_date`: Date of namespace creation
@@ -152,17 +155,17 @@ event within time window
 - `active_days`: Count of unique days that at least one namespace user completed at least one 
 representative stage event within the time window
 
-**Automatic Filters**
+**Automatic Filters:**
 
-- _This snippet includes all automatic filters used in the [growth_data_namespaces] snippet_
+- _This snippet includes all automatic filters used in the `[growth_data_namespaces]` snippet_
 - Filters OUT stage events for `manage` and `monitor` since reporting is not currently available for SaaS
 - Filters FOR stage events that are _representative_ of the stage being adopted (indicating a SMAU)
 - Filters OUT `namespace_created_at` dates that are _immature_, meaning they were created less 
 that `First_X_Days_Filter` days before today
 
-**Filtering Options (if filters aren't enabled, will show all results)**
+**Filtering Options (if filters aren't enabled, will show all results):**
 
-- _This snippet includes all filtering options used in the [growth_data_namespaces] snippet_
+- _This snippet includes all filtering options used in the `[growth_data_namespaces]` snippet_
 - `event_plan_name`: Select plan name(s) you want to include in the reporting.
 - `First_X_Days_Filter`: Filters for the first x days after namespace creation
 
@@ -184,10 +187,11 @@ _See namespace-level stage adoption metrics such as time to first adoption, stag
 **Granularity:** One record per namespace per stage.
 
 **Do Not Use For:**
+
 - Sequential stage adoption: Since this data is at a day-level granularity, you are unable to see which stage is adopted first, if stages were adopted on the same day.
 - Calculating SpO: This snippet is meant to analyze the adoption of particular stages. Use the `[growth_data_spo]` snippet for a more general SpO analysis.
 
-**Fields**
+**Fields:**
 
 - `namespace_id`: Unique identifier of namespace
 - `namespace_creation_date`: Date of namespace creation
@@ -204,7 +208,7 @@ one representative stage event within the time window
 - `stages_adopted_by_namespace`: Total count of unique stages adopted in the namespace's first 
 `[First_X_Days_Filter]` days after creation
 
-**Automatic Filters**
+**Automatic Filters:**
 
 - _This snippet includes all automatic filters used in the `[growth_data_namespaces]` snippet_
 - Filters OUT stage events for `manage` and `monitor` since reporting is not currently available for SaaS
@@ -212,7 +216,7 @@ one representative stage event within the time window
 - Filters OUT `namespace_created_at` dates that are _immature_, meaning they were created less than `First_X_Days_Filter` days before today.
 - Filters OUT default stage events from the Learn GitLab project.
 
-**Filtering Options (if filters aren't enabled, will show all results)**
+**Filtering Options (if filters aren't enabled, will show all results):**
 
 - _This snippet includes all filtering options used in the `[growth_data_namespaces]` snippet_
 - `event_plan_name`: Select plan name(s) you want to include in the reporting.
@@ -244,7 +248,7 @@ _Group namespace-level invites. More details on invite data [below](/handbook/pr
 
 The [Invite Acceptance Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/922565/Invite-Acceptance-Dashboard) 
 is a good jumping-off point for working with this data. It leverages the more granular snippet 
-detailed below, [growth_data_group_namespace_invites_w_metadata].
+detailed below, `[growth_data_group_namespace_invites_w_metadata]`.
 - Note: this dashboard is in the SAFE space. Instructions on how to request access [here](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#accessing-a-safe-dashboard)
 
 **Granularity:** One record per invited user per namespace (one record per `member_id`)
@@ -265,7 +269,7 @@ and the `namespace_id` to avoid potential errors or duplicate records.
 - `legacy.gitlab_dotcom_memberships`
 - `common.dim_user`
 
-**Fields**
+**Fields:**
 
 - `namespace_id`: Unique identifier of namespace
 - `namespace_created_at`: Timestamp of namespace creation
@@ -287,15 +291,15 @@ or access granted)
 - `invite_was_successful`: Denotes whether user successfully joined namespace 
 (`'INVITE_ACCEPTED'` or `'ACCESS_GRANTED'`)
 
-**Automatic Filters**
+**Automatic Filters:**
 
-- _This snippet includes all automatic filters used in the [growth_data_namespaces] snippet_
+- _This snippet includes all automatic filters used in the `[growth_data_namespaces]` snippet_
 
-**Filtering Options (if filters aren't enabled, will show all results)**
+**Filtering Options (if filters aren't enabled, will show all results):**
 
-- _This snippet includes all filtering options used in the [growth_data_namespaces] snippet_
+- _This snippet includes all filtering options used in the `[growth_data_namespaces]` snippet_
 
-**How to Use and Sample Output (if copy/pasted into Sisense)**
+**How to Use and Sample Output (if copy/pasted into Sisense):**
 
 These snippets are written as plug-and-play CTEs. You can apply your own name to these CTEs
 
@@ -308,7 +312,7 @@ LIMIT 5
 ;
 ```
 
-**Snippet with additional metadata**
+**Snippet with additional metadata:**
 
 There is another version of this snippet, [`[growth_data_group_namespace_invites_w_metadata]`](https://gitlab.com/gitlab-data/periscope/-/blob/periscope/master/snippets/growth_data_group_namespace_invites_w_metadata/growth_data_group_namespace_invites_w_metadata.sql), 
 which includes the following additional fields:
@@ -327,7 +331,7 @@ acceptance (does not include access granted use case)
 - `days_from_invite_created_to_success`: Count of days between invite creation and invite 
 success (either accepted or access granted)
 
-**Additional details**
+**Additional details:**
 
 Please see below for [additional details about invite data](/product/product-analysis/growth-data-guide/#invites).
 
@@ -347,10 +351,11 @@ _Sisense snippet that can easily be adjusted any experiment using Snowplow event
 **Granularity:** One record per `event_id`
 
 **Data Sets Used:**
+
 - `legacy.snowplow_structured_events_all`
 - `legacy.snowplow_gitlab_events_experiment_contexts_all`
 
-**Fields**
+**Fields:**
 
 - `event_id`: Unique identifier of Snowplow event
 - `experiment_name`
@@ -362,7 +367,7 @@ _Sisense snippet that can easily be adjusted any experiment using Snowplow event
 - `event_value`
 - `environment`: `'production'` or `'staging'` (based on `app_id`)
 
-**Filtering Options (if filters aren't enabled, will show all results)**
+**Filtering Options (if filters aren't enabled, will show all results):**
 
 - `select_experiment`: Applied to `experiment_name`
 - `DateRange`: Applied to `derived_tstamp`
@@ -373,6 +378,7 @@ at minimum, the `select_experiment` filter. Queries will be much more performant
 apply the `DateRange` filter._
 
 **Sample Output:**
+
 ``` sql
 WITH events AS ([experiment events])
 
@@ -401,7 +407,9 @@ _Template for calculating a funnel with multiple Snowplow events_
 - `legacy.snowplow_gitlab_events_experiment_contexts_all`
 
 **How to Use:** 
+
 _Note: Unlike the other snippets listed, this is meant to be used as a query template. The reason being is the user has to adjust this template to fit the specifications needed for the experiment such as number of events in the funnel, which fields are needed for filtering, and other requirements. There is documentation listed within the query template to help guide you to make the needed customizations._
+
 1. Copy and paste SQL code into a new Sisense report.
 2. Within the Sisense report, update relevant fields such as `event_action`, `event_label`, and `experiment_name` to fit the experiment you are analyzing.
 3. This template includes six unique events, if the funnel you are trying to track needs more or less, just remove or copy the "step_x" table format to fit your experiment's needs.
@@ -410,12 +418,14 @@ _Note: Unlike the other snippets listed, this is meant to be used as a query tem
 **Note on Results:** For a `context_key` to be counted in later steps, that same key must be present in all previous steps. For example, a `context_key` that is recorded as a step three conversion would also have to be present in steps one and two.
 
 **Sample Output:**
+
 _Date-level granularity can be removed._
 
 
 </details>
 
 ### Experiment Data Validation Dashboard
+
 _At a glance, see if the experiment is reporting data, for which events, and what the candidate/control distribution looks like._
 
 <details markdown="1"><summary>Click to expand</summary>
@@ -423,6 +433,7 @@ _At a glance, see if the experiment is reporting data, for which events, and wha
 **[Visit Dashboard](https://app.periscopedata.com/app/gitlab/860363/Experiment-Data-Validation)**
 
 **How to Use:** 
+
 - Select your experiment in the `select_experiment` filter dropdown. Data for your experiment will load in approximately two to five minutes.
 - Scan through reports to see if all intended events are reporting, and see when they first- and last-reported data.
 - View various bar and line charts to see if there were any data outages that might impact the results of the experiment.
@@ -452,11 +463,13 @@ _Provides helpful fields on every namespace such as the `namespace_id`, `namespa
 **Granularity:** 1 record per namespace
 
 **Key Filters:**
+
 - `namespace_is_internal = FALSE`: Excludes internal namespaces
 - `namespace_ultimate_parent_id = namespace_id`: Includes only top-level namespaces
 - `namespace_type = 'Group'`: Recommended since most Growth initiatives are built around Group namespaces
 
-**Items of Note**
+**Items of Note:**
+
 - Plan-related and member count data points: Since there is only one record per namespace, that means plan changes are not captured in this data set. Especially from a Growth mindset, the plan at certain points in a namespace's lifecycle (namespace creation, 90 days after creation, etc) and the transition from one plan to the next (such as Free to Trial to Paid) are more helpful.
 
 
@@ -468,6 +481,7 @@ _Two main tables used to calculate invites, [`legacy.gitlab_dotcom_members`](htt
 and [`legacy.gitlab_dotcom_memberships`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_memberships)._
 
 <details markdown="1"><summary>Click to expand</summary>
+
 **Two different types of "invites"**
 
 There are two main invite use cases:
@@ -500,6 +514,7 @@ whether an actual invite is sent or access is automatically granted) OR any time
 changes (ex: their [permissions change](https://docs.gitlab.com/ee/user/permissions.html#group-members-permissions))
 
 Notable columns:
+
 * `member_id`: Unique identifier specific to the `user_id` and `source_id` (namespace/group/project)
 * `user_id`: Unique identifier of invited user
 * `source_id`: Unique identifier of namespace/group/project user is invited to (ex: `namespace_id`)
@@ -519,6 +534,7 @@ group/namespace/project.
 via invite acceptance or access automatically granted.
 
 Notable columns:
+
 * `user_id`: Unique identifier of namespace/group/project member
 * `membership_source_id`: Unique identifier of namespace/group/project
 * `is_billable`: Boolean denoting whether a member should be counted toward the seat count 
@@ -528,6 +544,7 @@ for a subscription
 **Example of how and when different use cases appear in the two tables**
 
 Invite sent use case:
+
 1. User A invites user B to join namespace 1. User B does not have a GitLab.com account, so an 
 invite is sent to the specified email address
     * A record is added to `legacy.gitlab_dotcom_members`
