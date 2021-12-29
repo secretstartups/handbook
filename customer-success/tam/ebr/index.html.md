@@ -21,7 +21,11 @@ TAMs should hold EBRs with each of their customers **at least** once per year. L
 
 The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-meddpicc-questions-for-deeper-qualification) the value they are getting in their partnership with GitLab. It is interactive from both sides, discussing the customer's desired business outcomes and related metrics, progress against these metrics and desired outcomes, and aligning on strategic next steps.  The most crucial element in all EBRs is giving the buyer the time to speak about what matters to them, and creating a framework to enable them to do so.
 
-For more on the value of EBRs, with customer examples, please watch [this EBR enablement session](https://www.youtube.com/watch?v=1CL5YQeC8Fs).
+#### EBR Enablement
+
+- For more on the value of EBRs, with customer examples, please watch [this EBR enablement session](https://www.youtube.com/watch?v=1CL5YQeC8Fs).
+- Follow [this link](https://gitlab.edcast.com/pathways/tam-executive-business-reviews) to access the EBR certification on EdCast.
+- [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best TAM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices. 
 
 ## How to bring up an EBR with your customers
 
@@ -99,9 +103,6 @@ A [CTA in Gainsight](/handbook/customer-success/tam/gainsight/#ctas) that will a
 If no progress has been made on the CTA (no tasks have been completed) and there are less than 2 months before renewal, the CTA will be closed automatically. Alternatively, if you do not plan to hold the EBR within the next quarter, please close the CTA, chosing the appropriate close reason and including additional context in the CTA details.
 
 ## How to prepare an EBR
-
-### EBR Training Certification 
-Follow this link to access the EBR certification on EdCast: [Click here](https://gitlab.edcast.com/pathways/tam-executive-business-reviews)
 
 ### Content
 

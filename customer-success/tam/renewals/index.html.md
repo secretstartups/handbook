@@ -42,6 +42,7 @@ The agenda of a “Renewal Review” meeting should include at least the followi
 
  1. Review of the customer's business objectives as documented in the success plan, and progress/completion of these goals
  1. Review of the customer health score and any changes over the past few months - changes can be seen in the Timeline in Gainsight.
+ 1. Review usage data to identify low/high adoption of licenses and use cases to identify risks or expansion opportunities
  1. Review of support issues and the underlying reasons for any escalations.
  1. Review of high priority feature requests.
  1. Review of the customer's utilization of the product.

@@ -30,6 +30,10 @@ As a Technical Account Manager, it is essential to understand what resources are
 
 - [GitLab's Learning Experience Platform](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/), [GitLab Learn](https://gitlab.edcast.com/?fromLogin=true). We are building courses to upskill, reskill, and grow team member skills. If you have ideas about a course you'd like to develop, consider checking out the [Learning Evangelist Learning Path](https://gitlab.edcast.com/pathways/learning-evangelist-training).
 
+#### Chorus Playlist
+
+- [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best TAM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices. 
+
 #### LinkedIn Learning
 
 [Handbook details about LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/).
