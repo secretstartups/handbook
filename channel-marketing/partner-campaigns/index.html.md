@@ -14,12 +14,13 @@ title: "Channel Marketing"
 {::options parse_block_html="true" /}
 
 ## Purpose
-This page is to walkthrough the tehcnical setup of different partner campaign types from Marketo>SFDC>Vartopia.
-
-For a running list of partners and their CRM Ids, which is critical to the processes below, [click here](https://docs.google.com/spreadsheets/d/1VGWbbxyjclAopwO_e3JnYZtXysPQ1-UIUt8uBZRXLyE/edit?usp=sharing).
+This page is to walkthrough the tehcnical setup of different partner campaign types from Marketo>SFDC>Vartopia, including Marketo and SFDC campaign set up for Joint Gitlab and Partner Events, Partner Trials and MDF funded campaigns. The sections below describe them in detail.
 
 ## Email Management
-When a lead is passed to a partner, they will be suspended from GitLab marketing unless they opt-in specifically to GitLab marketing after being passed, or the partner returns the lead to GitLab. This in currently WIP. Go to the [email management page](/handbook/marketing/marketing-operations/email-management/#overview) for more email policies. 
+When a lead is passed to a partner, they will be suspended from GitLab marketing unless they opt-in specifically to GitLab marketing after being passed, or the partner returns the lead to GitLab. Read more on the [email management page](/handbook/marketing/marketing-operations/email-management/#partners-and-email-communication). 
+
+## Partner CRM Ids
+For a running list of partners and their CRM Ids, which is critical to the processes below, [click here](https://docs.google.com/spreadsheets/d/1VGWbbxyjclAopwO_e3JnYZtXysPQ1-UIUt8uBZRXLyE/edit?usp=sharing).
 
 # Types of Partner Campaigns
 Each campaign has it's own ROE for lead routing and email practices. Follow the [Mural](https://app.mural.co/embed/b89f9208-e9f6-4df1-9c92-a886a5af0642) to find the type of event and the follow up that results from it. 
@@ -38,7 +39,9 @@ Lead statuses that are considered `GitLab actively working` are leads/contacts i
 
 
 ## Trials from Partners
-Partners can host our self-managed trial form. They will have a specific URL that is captured that allows us to pass that lead directly to the partner. This explains the backend for the activity.
+Partners can host our self-managed trial form. They will have a specific UTM parameter that is captured upon form submit that allows us to pass that lead directly to the partner. Below explains the backend for the activity. Each page must have the UTM `utm_partnerid` in the URL populated, otherwise we cannot pass to the partner.  
+
+You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builder). For a list of the partner IDs to add, [go here](e/handbook/marketing/channel-marketing/partner-campaigns/index.html.md?from_merge_request_iid=95987#partner-crm-ids).
 
 1. Form is hosted on a GitLab or Partner landing page. Partners should always use the `FORM 2983: Partner Self-Hosted Enterprise Trial Form` Form. 
    - This form has a hidden field that captured `utm_partnerid`
@@ -57,7 +60,16 @@ Some campaigns are run only by partners, without GitLab involvement. Process TBD
 
 
 # Setup in Marketo
-Placeholder - will create directions for this utilizing our documentation on the [campaigns and programs](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up) page.
+Placeholder - will create directions for this utilizing our documentation on the [campaigns and programs](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up) page. 
+
+## Trial Campaign Set Up
+There is no marketo program or SFDC campaign setup necessary to track self-managed trials. Every partner trial campaign can utilize setup from `Partner - Trial - Self-managed` campaign, without making any changes. Follow [directions above](/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners) to understand what form to use and what processes to follow.
+
+## Joint Marketing Campaign Set Up
+WIP - Follow directions on [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)
+
+## MDF Funded Campaign Set up
+TBD
 
 
 
