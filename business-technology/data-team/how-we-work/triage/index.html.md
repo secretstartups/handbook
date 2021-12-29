@@ -16,6 +16,23 @@ description: "GitLab Data Triage Guide"
 
 ## <i class="fas fa-users fa-fw color-orange font-awesome" aria-hidden="true"></i>Data Triage
 
+#### Enterprise Data Program Triage 
+
+GitLab has a robust and vibrant Data Program which includes a Central Data Team and many Funcitional Analytics Teams. GitLab total team members are growing as well and we need to uplevel our triaging process to keep up with GitLab's growth. 
+
+Steps to uplevel triaging process:
+
+1. Incorporate Functional Analytics Teams into the triaging process.
+1. Create Slack Aliases so that GitLab Team members can ping a group of folks to get help with their questions in #data.
+1. Create a Triage Schedule for the Data Program to follow in GSheets for easy maitnenace and maintain on the Data Team Calendar. Ask for a commitment of one team member, per Business Team, per day to help triage.
+
+| Triage Group Name   | Triage Slack Alias  | Triage Group Members  |  
+| -------------- | ------------------- | -------------------- |
+| Go To Market Analytics Triage | `@GTMAnalyticsTriage` |  Sales Strategy & Analytics Team, Marketing Strategy and Performance Team, Business Insights and Analytics Team, GTM Data Fusion Team |
+| R&D Analytics Triage | `@R&DAnalyticsTriage` | Product Analysis Team, R&D Data Fusion Team |
+| People Analytics Triage | `@PeopleAnalyticsTriage` | G&A Data Fusion Team |
+| Data Platfrom Triage | `@DataPlatformTriage`   | Data Platform Team |
+
 ### Triager
 
 The Data team has implemented the following triage schedule to take advantage of native timezones:
