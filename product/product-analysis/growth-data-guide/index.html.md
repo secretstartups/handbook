@@ -9,20 +9,15 @@ title: Data Guide for Growth
 - TOC
 {:toc}
 
+## Objectives for this Page
 
-## Objectives for this Page ##
+1. Enable Growth team members of all SQL abilities to build their own queries and make simple customizations to fit their needs.
+2. Alert all team members on newly discovered caveats, query improvements, or data changes that may impact current or future reports.
+3. Educate all team members on best practices when writing queries for growth-focused data.
 
-1) Enable Growth team members of all SQL abilities to build their own queries and make simple customizations to fit their needs.
-
-2) Alert all team members on newly discovered caveats, query improvements, or data changes that may impact current or future reports.
-
-3) Educate all team members on best practices when writing queries for growth-focused data.
-
-
-## Differences in Growth Data Needs ##
+## Differences in Growth Data Needs
 
 Growth data insights are often driven by time-to metrics (time to adoption, time to conversion) which requires a much more granular approach to data insights on a namespace- or user-level. Growth data insights are often grouped by the date of creation (just as namespace creation, user creation, or trial started).
-
 
 ## Snippet & Query Templates (for Sisense)
 
@@ -56,7 +51,6 @@ As listed below in the documentation for each snippet, there will be a series of
 4. Click the cog icon on the right-side of the Filters menu.
 5. In the "Hidden" side of the "Manage Filters" pop-up, select any of the filters shown in the "Filtering Options" section of the snippet documentation so that they show up in the "Visible" section with a checkmark.
 6. Close-out of the "Manage Filters" section and choose the preferred filtering options for the newly-enabled filters.
-
 
 #### Namespaces with Additional Filtering
 _Simplifed namespaces data set that includes enhanced filtering_
@@ -118,7 +112,6 @@ LIMIT 5
 
 </details>
 
-
 #### SpO within the First X Days
 
 _See namespace stage adoption metrics such as stages adopted and active users within first X days since namespace creation._
@@ -128,7 +121,6 @@ _See namespace stage adoption metrics such as stages adopted and active users wi
 **Options for accessing this snippet:**
 - Copy/paste `[growth_data_spo]` into your Sisense report.
 - Copy/paste [SQL code](https://gitlab.com/gitlab-data/periscope/-/blob/periscope/master/snippets/growth_data_spo/growth_data_spo.sql) to customize query within your Sisense report.
-
 
 **Dependencies:** Snippet includes `[growth_data_namespaces]` snippet
 
@@ -161,16 +153,15 @@ representative stage event within the time window
 - Filters OUT stage events for `manage` and `monitor` since reporting is not currently available for SaaS
 - Filters FOR stage events that are _representative_ of the stage being adopted (indicating a SMAU)
 - Filters OUT `namespace_created_at` dates that are _immature_, meaning they were created less 
-that `First_X_Days_Filter` days before today
+than `First_X_Days_Filter` days before today
 
 **Filtering Options (if filters aren't enabled, will show all results):**
 
 - _This snippet includes all filtering options used in the `[growth_data_namespaces]` snippet_
-- `event_plan_name`: Select plan name(s) you want to include in the reporting.
+- `event_plan_name`: Namespace's plan level at the time of the stage event
 - `First_X_Days_Filter`: Filters for the first x days after namespace creation
 
 </details>
-
 
 #### Namespace Stage Adoption
 
@@ -219,7 +210,7 @@ one representative stage event within the time window
 **Filtering Options (if filters aren't enabled, will show all results):**
 
 - _This snippet includes all filtering options used in the `[growth_data_namespaces]` snippet_
-- `event_plan_name`: Select plan name(s) you want to include in the reporting.
+- `event_plan_name`: Namespace's plan level at the time of the stage event
 - `First_X_Days_Filter`: Filters for the first x days after namespace creation
 
 ```sql
@@ -232,7 +223,6 @@ LIMIT 5
 ```
 
 </details>
-
 
 #### Group Namespace Invites & Member Counts
 
@@ -249,7 +239,7 @@ _Group namespace-level invites. More details on invite data [below](/handbook/pr
 The [Invite Acceptance Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/922565/Invite-Acceptance-Dashboard) 
 is a good jumping-off point for working with this data. It leverages the more granular snippet 
 detailed below, `[growth_data_group_namespace_invites_w_metadata]`.
-- Note: this dashboard is in the SAFE space. Instructions on how to request access [here](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#accessing-a-safe-dashboard)
+- Note: This dashboard is in the SAFE space. Instructions on how to request access [here](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#accessing-a-safe-dashboard)
 
 **Granularity:** One record per invited user per namespace (one record per `member_id`)
 
@@ -337,7 +327,6 @@ Please see below for [additional details about invite data](/product/product-ana
 
 </details>
 
-
 ## Resources for Growth Experimentation
 
 _Collection of snippets, query templates, and dashboards designed to facilitate experimentation analysis._
@@ -391,7 +380,6 @@ LIMIT 10
 
 </details>
 
-
 ### Experimentation Funnel Sisense Query Template
 
 _Template for calculating a funnel with multiple Snowplow events_
@@ -421,7 +409,6 @@ _Note: Unlike the other snippets listed, this is meant to be used as a query tem
 
 _Date-level granularity can be removed._
 
-
 </details>
 
 ### Experiment Data Validation Dashboard
@@ -443,7 +430,6 @@ _At a glance, see if the experiment is reporting data, for which events, and wha
 
 </details>
 
-
 ## Key Data Source Guide
 
 _A brief guide clarifying the granularity, important fields, recommended filters, and any data constraints or quality issues that come with using these data sets._
@@ -454,9 +440,7 @@ _Provides helpful fields on every namespace such as the `namespace_id`, `namespa
 
 <details markdown="1"><summary>Click to expand</summary>
 
-
 `legacy.gitlab_dotcom_namespaces_xf` ([dbt](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_namespaces_xf))
-
 
 **Summary:** Provides helpful fields on every namespace such as the `namespace_id`, `namespace_created_at` date, and `namespace_type`. This can be joined with numerous event, subscription, and member tables. In addition, this table can usefully be joined to certain user-centric tables for enhanced filtering capabilities such as removing blocked users and filtering for namespaces that are set up for a company account.
 
@@ -471,7 +455,6 @@ _Provides helpful fields on every namespace such as the `namespace_id`, `namespa
 **Items of Note:**
 
 - Plan-related and member count data points: Since there is only one record per namespace, that means plan changes are not captured in this data set. Especially from a Growth mindset, the plan at certain points in a namespace's lifecycle (namespace creation, 90 days after creation, etc) and the transition from one plan to the next (such as Free to Trial to Paid) are more helpful.
-
 
 </details>
 
@@ -488,87 +471,97 @@ There are two main invite use cases:
 
 1. An invite is sent to the user and they need to accept it in order to join the namespace. The 
 invited user needs to take action in order to accept the invite.
-    * This happens when the invited user does not yet have a GitLab.com account that is visible 
+    - This happens when the invited user does not yet have a GitLab.com account that is visible 
     to the invitee. In most cases this is because the invited user does not yet have a GitLab.com 
     account
-    * If invite is accepted, `invite_status = 'INVITE_ACCEPTED'`
-    * If invite is not accepted, `invite_status = 'INVITE_PENDING'` or 
+    - If invite is accepted, `invite_status = 'INVITE_ACCEPTED'`
+    - If invite is not accepted, `invite_status = 'INVITE_PENDING'` or 
     `invite_status = 'INVITE_EXPIRED'`
 2. An actual invite is not sent, the user is added to the namespace automatically. The invited 
 user does _not_ need to take any action to accept the invite. The Product Analysis team refers 
 to this as the "access granted" use case.
-    * This happens when the invited user already has a GitLab.com account that is visible 
+    - This happens when the invited user already has a GitLab.com account that is visible 
     to the inviter (ex: public profile, within the same organization, etc). 
-    * `invite_status = 'ACCESS_GRANTED'`
+    - `invite_status = 'ACCESS_GRANTED'`
 
-**[legacy.gitlab_dotcom_members](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_members)**
+`legacy.gitlab_dotcom_members` ([dbt](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_members))
 
-Summary: `legacy.gitlab_dotcom_members` is a type 2 table with records for both successful and 
+**Summary:** `legacy.gitlab_dotcom_members` is a type 2 table with records for both successful and 
 unsuccessful invites.
 
-* This is a type 2 table with multiple records per primary key, `member_id` (unique to the 
+- This is a type 2 table with multiple records per primary key, `member_id` (unique to the 
 `user_id` and `source_id`)
-  * Type 2 documented in source table: [PREP.gitlab_dotcom.gitlab_dotcom_members_source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_members_source#description)
-* A record is added any time a user is invited to a namespace/group/project (regardless of 
+  - Type 2 documented in source table: [`PREP.gitlab_dotcom.gitlab_dotcom_members_source`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_members_source#description)
+  - There is only one record per primary key (`member_id`) where `is_currently_valid = TRUE`
+- A record is added any time a user is invited to a namespace/group/project (regardless of 
 whether an actual invite is sent or access is automatically granted) OR any time a user's status 
 changes (ex: their [permissions change](https://docs.gitlab.com/ee/user/permissions.html#group-members-permissions))
 
-Notable columns:
+**Notable columns:**
 
-* `member_id`: Unique identifier specific to the `user_id` and `source_id` (namespace/group/project)
-* `user_id`: Unique identifier of invited user
-* `source_id`: Unique identifier of namespace/group/project user is invited to (ex: `namespace_id`)
-* `member_source_type`: Type of entity user is invited to (`'Namespace'` or `'Project'`)
-* `invite_created_at` Timestamp of invite creation
-  * Populated for all invites, even if they fall into the "access granted" use case
-* `invite_accepted_at`: timestamp of invite acceptance
-  * Only populated when the invited user needed to take action to accept the invite. This column 
+- `member_id`: Unique identifier specific to the `user_id` and `source_id` (namespace/group/project)
+- `user_id`: Unique identifier of invited user
+- `source_id`: Unique identifier of namespace/group/project user is invited to (ex: `namespace_id`)
+- `member_source_type`: Type of entity user is invited to (`'Namespace'` or `'Project'`)
+- `invite_created_at` Timestamp of invite creation
+  - Populated for all invites, even if they fall into the "access granted" use case
+- `invite_accepted_at`: Timestamp of invite acceptance
+  - Only populated when the invited user needed to take action to accept the invite. This column 
   is `NULL` for the "access granted" use case
+- `access_level`: Numeric value that represents the member's [permissions](https://docs.gitlab.com/ee/development/permissions.html#members) 
+at a point in time
+  - Note: Since this is a type 2 table, this value can differ across records if a member's 
+  permissions change
 
-**[legacy.gitlab_dotcom_memberships](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_memberships)**
+`legacy.gitlab_dotcom_memberships` ([dbt](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_memberships))
 
-Summary: `legacy.gitlab_dotcom_memberships` only has records if a user successfully joins a 
-group/namespace/project.
+**Summary:** `legacy.gitlab_dotcom_memberships` has records if a user successfully joins a 
+group/namespace/project (the user has a "membership").
 
-* A record is added _after_ a user is successfully added to a namespace/group/project, either 
+- A record is added _after_ a user is successfully added to a namespace/group/project, either 
 via invite acceptance or access automatically granted.
 
-Notable columns:
+**Notable columns:**
 
-* `user_id`: Unique identifier of namespace/group/project member
-* `membership_source_id`: Unique identifier of namespace/group/project
-* `is_billable`: Boolean denoting whether a member should be counted toward the seat count 
-for a subscription
-  * This also applies to namespaces without a subscription
+- `user_id`: Unique identifier of namespace/group/project member
+- `membership_source_id`: Unique identifier of namespace/group/project
+- `is_billable`: Boolean denoting whether a member should be counted toward the seat count 
+for a subscription ([source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_dotcom_memberships#description))
+  - Note: This also applies to namespaces/groups/projects without a subscription
+- `access_level`: Numeric value that represents the member's current [permissions](https://docs.gitlab.com/ee/development/permissions.html#members)
+  - Note: This captures the member's _current_ `access_level`. Use `legacy.gitlab_dotcom_members` 
+  to view historic
 
-**Example of how and when different use cases appear in the two tables**
+**Example of how and when different use cases appear in the two tables:**
 
 Invite sent use case:
 
 1. User A invites user B to join namespace 1. User B does not have a GitLab.com account, so an 
 invite is sent to the specified email address
-    * A record is added to `legacy.gitlab_dotcom_members`
+    - A record is added to `legacy.gitlab_dotcom_members`
 1. User B accepts invitation to join namespace 1
-    * The record in `legacy.gitlab_dotcom_members` updated to reflect time of acceptance 
+    - The record in `legacy.gitlab_dotcom_members` updated to reflect time of acceptance 
     (`invite_accepted_at IS NOT NULL`)
-    * A record is added to `legacy.gitlab_dotcom_memberships`
+    - A record is added to `legacy.gitlab_dotcom_memberships`
 
 Access granted use case:
-1. User A invites user B to join namespace 1. User B has GitLab.com account, and they are 
+
+1. User A invites user B to join namespace 1. User B has a GitLab.com account, and is 
 automatically granted access to namespace 1.
-    * A record is added to `legacy.gitlab_dotcom_members` (where `invite_accepted_at IS NULL`)
-    * A record is added to `legacy.gitlab_dotcom_memberships`
+    - A record is added to `legacy.gitlab_dotcom_members` (where `invite_accepted_at IS NULL`)
+    - A record is added to `legacy.gitlab_dotcom_memberships`
 
 **Invite status**
 
 Product Analysis uses the following to define `invite_status`:
 
-* `INVITE_ACCEPTED`: Appears in memberships table, `invite_accepted_at IS NOT NULL`
-* `ACCESS_GRANTED`: Appears in memberships table, `invite_accepted_at IS NULL`
-* `INVITE_EXPIRED`: Does not appear in the memberships table, `invite_created_at` over 90 days ago 
+- `INVITE_ACCEPTED`: Appears in memberships table, `invite_accepted_at IS NOT NULL`
+- `ACCESS_GRANTED`: Appears in memberships table, `invite_accepted_at IS NULL`
+- `INVITE_EXPIRED`: Does not appear in the memberships table, `invite_created_at` over 90 days ago 
 OR past inviter-specified `invite_expires_at`
-  * Invites expire after 90 days per [GitLab docs](https://docs.gitlab.com/ee/user/project/members/#add-users-to-a-project)
-* `INVITE_PENDING`: Does not appear in the memberships table, `invite_created_at` in last 90 days
+  - Invites expire after 90 days per [GitLab docs](https://docs.gitlab.com/ee/user/project/members/#add-users-to-a-project)
+- `INVITE_PENDING`: Does not appear in the memberships table, `invite_created_at` in last 90 days OR 
+before inviter-specific `invite_expires_at`
 
 **Successful invites**
 
@@ -577,7 +570,7 @@ Invites with either the `INVITE_ACCEPTED` or `ACCESS_GRANTED` status are conside
 time a user successfully joined the namespace/group/project, the Product Analysis team uses the 
 following definition for `invite_success_at` (as of December 2021):
 
-* `IFF(memberships.user_id IS NOT NULL, IFNULL(members.invite_accepted_at, members.invite_created_at), NULL)`
+- `IFF(memberships.user_id IS NOT NULL, IFNULL(members.invite_accepted_at, members.invite_created_at), NULL)`
 
 We use `invite_success_at` to determine member counts at any point in time.
 
@@ -585,12 +578,39 @@ We use `invite_success_at` to determine member counts at any point in time.
 
 The methodology to calculate "invite acceptance rate" has changed over time:
 
-* Until mid-2021, invite acceptance rate included `ACCESS_GRANTED` invites in the denominator, 
+- Until mid-2021, invite acceptance rate included `ACCESS_GRANTED` invites in the denominator, 
 but not in the numerator. As such, the metric was under-reported.
-* Starting in mid-2021, invite acceptance rate only includes invites actually sent in the 
+- Starting in mid-2021, invite acceptance rate only includes invites actually sent in the 
 denominator (`ACCESS_GRANTED` invites are excluded).
-* Starting in mid-2021, Product Analysis started reporting "invite success rate", which includes 
+- Starting in mid-2021, Product Analysis started reporting "invite success rate", which includes 
 both use cases (invite sent and access granted) in the numerator and the denominator.
+
+**Member `access_level`/permissions**
+
+As noted above, `access_level` is present in both `legacy.gitlab_dotcom_members` and `legacy.gitlab_dotcom_memberships`
+
+- `legacy.gitlab_dotcom_members` will track changes to a member's `access_level` over time
+- `legacy.gitlab_dotcom_memberships` represents the member's current `access_level`
+
+Here is a `CASE` statement that can be used to map the [numeric values to permissions](https://docs.gitlab.com/ee/development/permissions.html#members)
+
+``` sql
+SELECT
+  access_level,
+  CASE access_level --https://docs.gitlab.com/ee/development/permissions.html#members
+    WHEN 50 THEN 'Owner'
+    WHEN 40 THEN 'Maintainer'
+    WHEN 30 THEN 'Developer'
+    WHEN 20 THEN 'Reporter'
+    WHEN 10 THEN 'Guest'
+    WHEN 5 THEN 'Minimal Access'
+  END AS member_permissions,
+  COUNT(*)
+FROM legacy.gitlab_dotcom_memberships
+GROUP BY 1
+ORDER BY 1
+;
+```
 
 </details>
 
