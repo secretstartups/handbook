@@ -29,8 +29,8 @@ Please note the Self-Service option does not allow for registration to be capped
 
 #### Guidelines of Self-Service Options
 
-- For Self-Service Virtual Events **without** Promotion, no Marketo LP or invite support is requested, only an add to nurture request after lead list upload has occurred. 
-- For Self-Service Virtual Events **with** Promotion, Verticurl will provide support for a Marketo landing page, 2 invitations, reminder and a follow-up email send, as well as an add to nurture request after lead list upload has occurred.
+- For Self-Service Virtual Events **without** Promotion, no Marketo LP or invite support is requested. 
+- For Self-Service Virtual Events **with** Promotion, Verticurl will provide support for a Marketo landing page, 2 invitations, reminder and a follow-up email send.
 
 ## Hosted on Field Marketing Zoom License
 
@@ -440,7 +440,6 @@ Please reach out to your Verticurl rep to shut down the landing page, or if you 
    * Navigate to the smart campaign folder within the webcast program
    * Under "Schedule" on the `01a Registration Flow (single timeslot)` or `01b Registration Flow (Multi-timeslot)` smart campaign, click `Deactivate` once the webcast has completed.
    * Under "Schedule" on the `04 Viewed On Demand` smart campaign, click `Activate`.
-1. **Optional**: (Only if applicable/requested to add webcast leads to nurture) Click the `Add to Engagement Program Nurture` smart campaign, select the appropriate Engagement Program/Stream in the flow step. Run once.
 
 ### Test your follow up emails and set to send
 **DRI: Verticurl**  
