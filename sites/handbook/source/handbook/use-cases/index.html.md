@@ -24,44 +24,37 @@ More information on how GitLab uses solutions can be found on the [Solutions Go-
 
 ## Core DevOps Solutions go-to-market motions
 
-#### [1. DevOps Platform](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
-**Want to achieve expected results of DevOps given siloed teams, lack of visibility and collaboration which inhibits my speed of delivery** - (**DevOps Platform**)
+### [1. DevOps Platform](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
+**Business objectives: We want to achieve expected results of DevOps by resolving siloed teams, lack of visibility and collaboration which inhibits my speed of delivery** - (**DevOps Platform**)
 I want to manage my entire DevOps lifecycle more efficiently with better outcomes. The number of tools and maintenance of integrations is overwhelming and costly and security is challenging to integrate. My processes may include planning to production or may be a segment of the SDLC. (GitLab examples: Epics, Issue Boards, Source Code Management, CI, CD, Security Scans and Monitoring from GitLab. Value Stream Management: (VSM) helps you visualize and manage the flow of new innovation from ideas to customers. In GitLab, cycle analytics is a key element of managing the value stream.)
 
-   **Analyst Coverage**: Platform report (link tbd)
+   **Analyst Coverage**: [Value Stream Delivery Platform report](https://about.gitlab.com/analysts/gartner-vsdp21/)
 
    **Value Drivers:**
-   1. *Increase Operational Efficiencies:* consistent and efficient dev experience with single source of truth and simplify tool chain
+   1. *Increase Operational Efficiencies:* consistent and efficient dev experience with single source of truth and simplified tool chain
    1. *Deliver Better Products Faster:* More collaboration, working in parallel
-   1. *Reduce Security and Compliance Risk:* Testing early, and enforcing common controls like single sign on, and shared view for collaboration, reporting and visibility.
+   1. *Reduce Security and Compliance Risk:* standardized pipelines for consistent testing, end-to-end common controls, and shared views for visibility across functions.
 
-#### **2. Software Delivery Automation** 
-This is a new term for us and is being better defined. It will include (CI/CD)](/handbook/marketing/strategic-marketing/usecase-gtm/ci/), and more.
-**Increase the quality of my code while decreasing time to delivery** - Continuous Integration (**CI**)
-I need to automate the build and testing processes to consistently integrate code and continuously test. I want to run the unit and integration tests, measure performance and automate manual QA processes. I may use GitLab SCM or another. (Examples in GitLab include Pipeline, CI Runner, Jobs, Scheduled Jobs, Testing, Security Scanning (SAST), and Code Quality).
+### **2. Software Delivery Automation** 
+This is a new term for us and is being better defined. It will include the basics of devops automation: [SCM](handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration), [CI](/handbook/marketing/strategic-marketing/usecase-gtm/ci/), [CD](/handbook/marketing/strategic-marketing/usecase-gtm/cd/).
 
-   **Analyst Coverage**: Forrester CI and Forrester Cloud CI
+**Business objectives: We want to increase the quality of my code while decreasing time to delivery** 
+We need to automate the build and testing processes to consistently integrate code and continuously test. We want to run the unit and integration tests, measure performance and automate manual QA processes. We may use GitLab SCM or another. (Example capabilities in GitLab include Pipeline, CI Runner, Jobs, Scheduled Jobs, Testing, Security Scanning (SAST), and Code Quality). We also want to speed up the build and release process and empower our developers to automatically deploy code. This requires that we automate the build, test and packaging, configuration and deployment of applications to a target environment. (Example capabilities in GitLab include: Container Repository, Deploy Boards, Canary Deploys, Partial Deploys, Manual Deploys, Environments.)  
 
-   **Value Drivers:**
-   1. *Increase Operational Efficiencies:* Single source of truth between SCM and CI; consistent and efficient dev experience.
-   1. *Deliver Better Products Faster:* Automation to speed the process.
-   1. *Reduce Security and Compliance Risk:* test my code automatically and early to reduce risks
 
-**[Continuous Delivery (CD)](/handbook/marketing/strategic-marketing/usecase-gtm/cd/)**
-**Want to speed up my build and release process and empower my developers to automatically deploy code** - (CI/**CD**)
-I want to automate the build, test and packaging, configuration and deployment of applications to a target environment. (Examples in GitLab include: Pipeline, CI Runner, Jobs, Scheduled Jobs, Testing, Security Scanning (SAST), and Code Quality. CI Runner, Container Repository, Deploy Boards, Canary Deploys, Partial Deploys, Manual Deploys, Environments.)  
-
-   **Analyst Coverage**: Gartner ARO, Forrester CDRA
+   **Analyst Coverage**: Forrester CI and Forrester Cloud CI, Gartner ARO, Forrester CDRA
 
    **Value Drivers:**
-   1. *Increase Operational Efficiencies:* Scalable, self-service, reusable deployment template. Deploy anywhere.
+   1. *Increase Operational Efficiencies:* Single source of truth between SCM and CI; consistent and efficient dev experience. Scalable, self-service, reusable deployment template. Deploy anywhere.
    1. *Deliver Better Products Faster:* Automatically deploy and test application with early feedback.
    1. *Reduce Security and Compliance Risk:* Enforce common controls and scan for vulnerabilities at the point of code change.
+   
 
-#### **3. Continuous Software Security Assurance**
-Aligns to what was DevSecOps (Shift Left Security)](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/)
-**Test for application security vulnerabilities early in my app dev lifecycle** 
-I need to identify vulnerabilities during development with actionable information to empower dev to remediate vulnerabilities earlier in the life cycle. (In GitLab, SAST, DAST, Dependency Scanning, and Container Scanning, etc.)
+### 3. [Continuous Software Security Assurance](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/)
+Aligns to what was [DevSecOps](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/) (aka Shift Left Security)
+
+**Business objectives: We want to test for application security vulnerabilities early in our app dev lifecycle.** 
+We need to identify vulnerabilities during development with actionable information to empower dev to remediate vulnerabilities earlier in the life cycle. (In GitLab, SAST, DAST, Dependency Scanning, and Container Scanning, etc.)
 
    **Analyst Coverage**: Forrester SCA Wave, Gartner Application Security MQ
 
@@ -70,9 +63,9 @@ I need to identify vulnerabilities during development with actionable informatio
    1. *Deliver Better Products Faster:* Ability to start testing early in dev process to eliminate vulnerabilities at the source
    1. *Reduce Security and Compliance Risk:* Fix vulnerabilities with actionable feedback to the developer at point of code change. Auto remediate when possible.
 
-#### [4. Continous Software Compliance](/handbook/marketing/strategic-marketing/usecase-gtm/compliance/)
-**Reduce risk by ensuring pipelines are compliant with common controls and popular industry regulations**
-I need to enforce standardized CI pipelines that include requesite testing and the ensure common compliance controls are followed (such as separation of duties).
+### [4. Continous Software Compliance](/handbook/marketing/strategic-marketing/usecase-gtm/compliance/)
+**Business objectives: We want to reduce risk by ensuring pipelines are compliant with common controls and popular industry regulations**
+We need to enforce standardized CI pipelines that include requesite testing and the ensure common compliance controls are followed (such as separation of duties).
 
 **Analyst coverage:** none yet
 
@@ -88,8 +81,8 @@ I need to enforce standardized CI pipelines that include requesite testing and t
 These are topics where sales and marketing conversations may start, but then we want to lead the prospect toward delivery automation. For instance, GitOps is hot topic and ranking well in SEO so it's worth talking about. But ultimately we want drive people to delivery automation (or platform). 
 
 #### [1. Source Code Management (aka Version Control and Collaboration, VC&C](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration)
-**Create, manage and protect my intellectual property (i.e. source code, design, images, etc)** - in simple terms [Version Control](https://about.gitlab.com/solutions/version-control/) and Collaboration (VC&C), but more inclusively, *product configuration management* or *product asset management*.
-I need a better way to manage changes to documents, software, images, large websites, and other collections of code, configuration, and metadata among disparate teams. (Examples in GitLab include Git, branches, merge requests, code review, InnerSourcing, WebIDE, and files.)  
+**We are looking for a way to create, manage and protect our intellectual property (i.e. source code, design, images, etc)** - in simple terms [Version Control](https://about.gitlab.com/solutions/version-control/) and Collaboration (VC&C), but more inclusively, *product configuration management* or *product asset management*.
+We need a better way to manage changes to documents, software, images, large websites, and other collections of code, configuration, and metadata among disparate teams. (Examples in GitLab include Git, branches, merge requests, code review, InnerSourcing, WebIDE, and files.)  
 
    **Analyst Coverage**: IDC, to some extent, forecasts this market. No spot on, recent reports, though Gartner may be considering a future report.
 
@@ -98,10 +91,10 @@ I need a better way to manage changes to documents, software, images, large webs
    1. *Deliver Better Products Faster:* Streamline reviews and collaboration around code changes.
    1. *Reduce Security and Compliance Risk:* Easier compliance through approvals of code changes.
 
-   *Note: SCM is sold via the web. There is no accompanying Value Play.*
+   *Note: SCM is sold via the web. There is no accompanying Value Play. This conversation should lead the prospect toward the Delivery Automation solution.*
 
-#### [6. GitOps](/handbook/marketing/strategic-marketing/usecase-gtm/gitops/)
-**Want to automatically provision, administer and maintain infrastructure as code** - (CI/CD Infrastructure-as-code or **GitOps**)
+#### [2. GitOps](/handbook/marketing/strategic-marketing/usecase-gtm/gitops/)
+**Looking for a way to automatically provision, administer and maintain infrastructure as code** - (CI/CD Infrastructure-as-code or **GitOps**)
 I manually stage and test environments for infrastructure making it hard to track and error-prone. I want to stage all components and test them to be sure it works to automate my release pipelines, provide consistency, reduce cost, and  eliminate errors. I may frequently leverage integration with Terraform, Kubernetes, Ansible, OpenStack and others.
 
    **Analyst Coverage**: TBD
@@ -111,9 +104,7 @@ I manually stage and test environments for infrastructure making it hard to trac
    1. *Deliver Better Products Faster:* developer self-service, reusable CI/CD templates.
    1. *Reduce Security and Compliance Risk:* Enforces common controls
 
-
-
-
+*This conversation should lead the prospect toward the Delivery Automation solution.*
 
 ## Popular Use Cases (not solutions)
 
