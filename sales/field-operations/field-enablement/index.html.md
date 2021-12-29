@@ -178,8 +178,8 @@ Knowledge x Practice = Capability
     - [Kris Reynolds](/company/team/#kreynolds1) (Manager, Customer Success Enablement)
 - **[Role-based Enablement Managers](/job-families/sales/program-manager-field-enablement/)**
     - Enterprise Sales Enablement: [Emelie Rodriguez](/company/team/#emelier)
-    - Commercial Sales Enablement: [Kelley Shirazi (*acting*)](/company/team/#kelley-shirazi)
-        - Commercial Sales Enablement, EMEA: [Cristian Enache](https://about.gitlab.com/company/team/#cenache)
+    - Commercial Sales Enablement (AMER): [Misty Martin-Zimmerman](/company/team/#mzimmers)
+    - Commercial Sales Enablement (EMEA & APAC): [Cristian Enache](https://about.gitlab.com/company/team/#cenache)
     - Partner Enablement: [Blair Fraser](/company/team/#bfraser)
     - Solution Architect and Technical Enablement: [Thabo Bopape](/company/team/#tbopape)
     - Technical Account Manager Enablement: [Pallavi Daliparthi](/company/team/#pdaliparthi)
