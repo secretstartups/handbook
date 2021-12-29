@@ -121,6 +121,7 @@ Solution Architects should participate in [technical discovery](#technical-disco
 
 - GitLab demos
 - GitLab technical deep dives
+- Gitlab hands-on workshops
 - Whiteboarding sessions
 - Prospect Q&A sessions
 - RFI/RFP completion
@@ -177,6 +178,27 @@ The Solutions Architect, in order to tailor conversations and demos to demonstra
 U.S. Enterprise SA's are aligned regionally with Strategic Account Leaders and aligned in their respective account activities. Each team collaborates according to their own Working Agreements.
 
 When workload exceeds the SA's capacity or when there is a request from other departments, please submit the request for assistance on either of the enterprise triage boards based on region: [US EAST Triage Board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/us-east-enterprise-triage/boards) or [US WEST Triage Board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/us-west-enterprise-triage/boards). The issue creation and triage processes are described in detail below.
+
+### U.S. Strategic New Logo Account Engagement Model
+
+Initial discovery with sales have led to assignment of 1 SA/new logo account team. The proposed model includes 2-3 SA touches/accounts. SA will play an active role in discovery due to early qualification needed in the account. The SAs reserve the right to decline the meeting if the below information is missing/not provided after being asked & if the correct personas are not engaged. We will review the exceptions on a case-by-case basis in case the below information is not provided and/or not qualified.
+
+- Please provide active SFDC opportunity ID
+- Any additional opportunity information (i.e. company overview and background, initiatives, pain points, personas, etc.)
+- The successful outcome of the meeting
+
+Sales Plays that SAs are expected to be involved in includes:
+- Discovery(more important here)
+- Demo
+- Workshops
+- Trials where the account team will be expected to utilize support for technical issues. Trials should involve max of 3 SA touch points
+Please note no hands-on POVs are permitted for opportunities less than 100k. 
+
+Please submit an exception request [here](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/us-west-enterprise-new-logo-exceptions/-/boards) if you need additional support from the SA team. Please include the below information in the new issue.
+- Title:account-name-exception
+- SFDC Opp
+- SAL & ASM name
+- Any additional running docs, chorus recordings that qualifies the opportunities. Exceptions will be granted on case by case basis.
 
 ### EMEA Account Engagement Model
 
