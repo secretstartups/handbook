@@ -24,7 +24,7 @@ More information on how GitLab uses solutions can be found on the [Solutions Go-
 
 ## Core DevOps Solutions go-to-market motions
 
-#### [1. Usecase: DevOps Platform](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
+#### [1. DevOps Platform](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
 **Want to achieve expected results of DevOps given siloed teams, lack of visibility and collaboration which inhibits my speed of delivery** - (**DevOps Platform**)
 I want to manage my entire DevOps lifecycle more efficiently with better outcomes. The number of tools and maintenance of integrations is overwhelming and costly and security is challenging to integrate. My processes may include planning to production or may be a segment of the SDLC. (GitLab examples: Epics, Issue Boards, Source Code Management, CI, CD, Security Scans and Monitoring from GitLab. Value Stream Management: (VSM) helps you visualize and manage the flow of new innovation from ideas to customers. In GitLab, cycle analytics is a key element of managing the value stream.)
 
