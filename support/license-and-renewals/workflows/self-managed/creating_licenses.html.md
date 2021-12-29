@@ -35,6 +35,12 @@ When an existing license isn't available to duplicate, instead select,
 `Add New Offline License` and fill in all of the above mentioned fields, along with the
 Zuora subscription ID and Zuora subscription name.
 
+##### Resend, Forward the license: 
+-  To resend the license to the end-user use the `Resend to customer via email` function. 
+-  To forward the license to a different address use the `Forward license email` function. 
+    1. Navigate to the `Forward license email` tab. 
+    2. Enter the `Destination email address` and click **Forward** buton. 
+
 ### Trial or Temporary license
 
 Before creating the request please consider the following points:
