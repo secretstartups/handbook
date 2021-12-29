@@ -297,22 +297,29 @@ However, there are many short-term administrative tasks you'll be asked to perfo
 
 1. Make [handbook](/handbook/) updates (use the [ceo-shadow](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=ceo-shadow) label).
 Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the CEO knows they have been completed. It is not required to create issues for these tasks. Go directly to a merge request if it is more [efficient](/handbook/values/#efficiency).
-1. Prepare for, take notes during, and follow up on meetings. See more details below about your [meeting responsibilities as a shadow.](#responsibilities)
+1. Draft a ["tweet storm"](#tweet-storm).
+1. Solve urgent issues. For example, help solve a complaint from a customer or coordinate the response to a technical issue.
 1. Go through open merge requests and work towards merging or closing any that have [not been merged](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=ceo-shadow).
 1. Go through open issues in the [CEO shadow project](https://gitlab.com/gitlab-com/ceo-shadow/tasks/-/issues) and work towards closing or creating a subsequent merge request to close out. Communicate updates on those tasks in the `#ceo-shadow` channel.
-1. Publicly advise when people are not following the [communication guidelines](/handbook/communication/) ([see more details below.](/handbook/ceo/shadow/#promote-communication-best-practices)). For example, remind team members to stop screen sharing to encourage communication.
 1. Iterate and complete small tasks as they come up. Clear them out immediately to allow for rapid iteration on more crucial tasks. Communicate updates on those tasks in the `#ceo-shadow` channel.
-1. Solve urgent issues. For example, help solve a complaint from a customer or coordinate the response to a technical issue.
-1. Share [thanks](/handbook/communication/#say-thanks) in the `#thanks` channel in Slack when it comes from a customer or wider community member in a meeting.
 1. Compile a report on a subject.
 1. Write an blog post on the public company blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Please see [information about pitching and publishing a blog post](/handbook/marketing/blog/#how-to-suggest-a-blog-post) for information about the publishing process, and be sure to read previous CEO shadows' blog posts before you start writing to ensure that your post has a new angle. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni) section. These do not need to be approved by the CEO but he will happily review them if you'd like. The posts should however follow the parameters outlined in the [additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit). In the event you have any questions about what is okay to share, please reach out to the GitLab Legal team in slack at `#legal` or the Corporate Communications team in `#corpcomms`.
+1. Provide training to the incoming CEO Shadow(s).
+
+For meetings:
+
+1. Prepare for, take notes during, and follow up on meetings. See more details below about your [meeting responsibilities as a shadow.](#responsibilities)
+1. Publicly advise when people are not following the [communication guidelines](/handbook/communication/) ([see more details below.](/handbook/ceo/shadow/#promote-communication-best-practices)). For example, remind team members to stop screen sharing to encourage communication.
+1. Share [thanks](/handbook/communication/#say-thanks) in the `#thanks` channel in Slack when it comes from a customer or wider community member in a meeting.
+1. Speak up when the [CEO displays flawed behavior](/handbook/ceo/#flaws).
+    - Share an overall Positivity Score in the `#ceo-shadow-private` Slack channel with the CEO immediately following meetings (excluding 1:1s). Scores can range from 1 (the least positive someone could respectfully be) to 10 (the most positive someone could authentically be), focused on the CEO's presence and reactions during the meeting.
+
+In-person only:
+
 1. Ensure visual aids and presentations are visible to guests during in-person meetings.
 1. Prepare for and receive guests at Mission Control.
 1. Offer GitLab swag to guests at Mission Control before they leave.
 1. Answer the phone and door at Mission control.
-1. Provide training to the incoming CEO Shadow(s).
-1. Speak up when the [CEO displays flawed behavior](/handbook/ceo/#flaws).
-    - Share an overall Positivity Score in the `#ceo-shadow-private` Slack channel with the CEO immediately following meetings (excluding 1:1s). Scores can range from 1 (the least positive someone could respectfully be) to 10 (the most positive someone could authentically be), focused on the CEO's presence and reactions during the meeting.
 
 #### Collecting and managing tasks
 {:.no_toc}
@@ -322,6 +329,24 @@ It is linked in the `#ceo-shadow` Slack channel description.
 Collect tasks using the first name of the shadow who captured it and
 the name of the person that will complete the task.
 Once an MR has been opened, post in the `#ceo-shadow` channel.
+
+#### Tweet storm
+
+A tweet storm is a series of Twitter posts usually made as replies in a single thread on a topic. CEO shadows may be asked to draft the tweets in relation to a public livestreamed video recording or some other media content.
+
+1. Create a Google Doc with a title using the format "202X-XX-XX Tweet storm for Topic".
+1. At the top of the document, include the full title of the media and a link to it.
+1. If more than one piece of content is covered, use headings to make it easy to jump to each one.
+1. Go through each pieces, noting interesting lines and quotes.
+1. Draft 2-5 tweets for a 30 minute video, and up to 10 tweets for a 1 hour video.
+    1. The first tweet should hook the audience, pose a question, or state how GitLab does something different.
+    1. Attribute any lines that are not spoken by the CEO.
+    1. Consider [looking at the CEO's social media accounts for tone and style](../#connecting-on-social-media).
+    1. Each tweet can contain 280 characters, URLs are counted differently. Make sure to test each tweet with the Twitter web form to tweet.
+    1. When you add URLs, use the [card validator](https://cards-dev.twitter.com/validator) to render a preview. This can help to refine the tweet text. 
+    1. More message tips can be found in the [Developer Evangelism on Social Media handbook](/handbook/marketing/community-relations/developer-evangelism/social-media/#message-tips).
+    1. [2021-12-15 example for Chief of Staff videos](https://docs.google.com/document/d/1BL2ZBtqF5fKdQox0p2lde_qv-75rXwYmQNHvKJnUR-8/edit) (internal).
+1. Once complete, change the document's Owner to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/).
 
 ### Meetings & Events
 
