@@ -58,7 +58,7 @@ time off, please:
 - consider a different time off schedule if your [regional capacity calendar](https://gitlab.com/gitlab-com/support/toolbox/support-calendar) shows that on any of the days you would be absent the regional team
   would be short by 20% or more of its people
 - schedule your time off as far in advance as you can, especially for days that
-  may be popular or that are particularly important to you
+  may be popular, are [holidays](#how-support-handles-holidays), or that are particularly important to you
 - don't lock yourself into nonrefundable travel itineraries before you've taken
   steps such as the above to be sure you can get the planned days off
 - if possible, plan your time off to avoid disruptions to the various rotations
