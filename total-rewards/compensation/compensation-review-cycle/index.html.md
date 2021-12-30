@@ -157,6 +157,29 @@ Cash and equity are two levers available to managers to determine an appropriate
 
 For team members designated as [key talent](https://about.gitlab.com/handbook/people-group/talent-assessment/#key-talent), we would encourage managers to review team members' total compensation (cash + equity) and recommend increases to ensure team members are incentivized through the next fiscal year in the total compensation package. 
 
+## Determining Compensation Increases
+
+When you review your team member's card in Compaas, you will see the recommended cash increases for performance as well as details on how the market rates changed. If applicable, there will be a minimum recommended market adjustment to ensure team members end up within their compensation band. Also, managers will be able to view the total unvested holdings and value vesting in the next 12 months. All the factors should be reviewed and used to develop a holistic increase for cash compensation and recommendation on the refresh grant. We recommend the following steps and best practices:
+
+1. Managers to take a holistic view of cash compensation and equity compensation. 
+  * The recommendation for cash compensation is not to add automatically adjust based on market changes, rather to use the new range an overall factor in determining what the increase should be.
+  * The recommendation for equity compensation is not to formulaicly tie the refresh grant to the growth factor, but instead to ensure the team member has a competitive total rewards package for the next fiscal year. 
+1. Managers should use the minimum market adjustment from Total Rewards to make sure the team member is within their band if they are performing at a commendable level. As a manager you can review the Compensation band in the [Compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/).
+1. Managers should take into account any changes in compensation during FY22 when analyzing the FY23 compensation. 
+1. Managers should review how team members fall within their band after the proposed increase to ensure pay equality amongst peers. (This is also audited by Total Rewards as part of the cycle).  
+
+**Understanding the Total Rewards Notes for Recommendations on Increases:** 
+1. Is the recommended minimum increase from Total Rewards within the recommended range of the Performance factor?
+  * Yes: The total recommended increase would be within the performance factor range.
+E.g. The minimum increase to stay in range is 6% and the performance range is 3-7%. The PBP/Total Rewards team would recommend a 6-7% total increase.
+  * No, it’s below: We would recommend a total increase within the Performance factor range.
+E.g. The minimum increase to stay in range is 0% and the performance range is 3-7%. The PBP/Total Rewards team would recommend a 3-7% total increase.
+  * No it’s above: We recommend a total increase which is aligned with the minimum recommended increase of Total Rewards.
+E.g. The minimum increase to stay in range is 15% and the performance range is 3-7%. The PBP/Total Rewards team would recommend a 15% total increase.
+1. Use placement within the compensation range and previous increases/start date to finalize the increase.
+1. **Important note:** Any increase above 10% or out of band exceptions due to contract factor updates must come with additional justification entered into the notes section for planning to be complete. These justifications will be reviewed and approved by the department leader, division leader and compensation group.
+1. Also: Anyone on a formal Performance plan (PEP, PIP) will be excluded from the review. This must be communicated to Total Rewards and PBP by December 15th.
+
 ## Manager Review
 
 As part of the new [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline), managers and indirect managers will review, approve, and enter proposed salary increases to ensure that we are paying each team member to market and prioritizing increases based on performance while staying aligned to budget. Please verify the compensation review inputs (performance, level, title) are accurate in Compaas.
@@ -171,9 +194,7 @@ Please note: The Total Rewards team is currently updating the information below 
 
 [Compaas](https://www.compa.as/) is GitLab's compensation platform where managers can login, review, change, and submit their proposed increases during Annual Compensation Review.
 
-For any feedback about using Compaas during the FY22 Manager Review portion of Annual Compensation Review, please use the following [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/240).
-
-#### Process for Slate Owners
+### Logging into Compaas 
 
 1. Navigate to [Compaas](https://app.compa.as/login) and select the option to sign in with Google.
 * ![compaas login](/images/handbook/people-group/1_Compaas.png)
@@ -182,7 +203,10 @@ For any feedback about using Compaas during the FY22 Manager Review portion of A
 * ![incorrect email](/images/handbook/people-group/2_Compaas.png)
 1. If you have not used Compaas in the past, you will need to Select the Terms and Conditions box and click Submit. If a user has already visited Compaas Rewards they will automatically be taken to their slate view.
 * ![terms and conditions](/images/handbook/people-group/T&C.png)
-1. After logging in, you will land on the Summary tab of your slate. This will have the status of your budget (if applicable), along with a card for each of the team members you will be recommending a raise for. The card will list values such as the team member's name, role, level, [performance/growth factor](https://about.gitlab.com/handbook/people-group/talent-assessment/), current compensation, discretionary raise, final compensation, RSU Grant, next 12 months TDC (Total Direct Compensation), and notes.
+
+### For Slate Owners
+
+1. After logging in, you will land on the Summary tab of your slate. This will have the status of your budget (if applicable), along with a card for each of the team members you will be recommending a raise for. The card will list values such as the team member's name, job information, [performance/growth factor](https://about.gitlab.com/handbook/people-group/talent-assessment/), current compensation, discretionary raise, final compensation, RSU Grant, next 12 months TDC (Total Direct Compensation), and notes.
 * TODO Update Screenshot
 * The role is located under the team member's name. This is the team member's job title including level, for example, Senior or Associate.
 * Underneath the role is the [benchmark role](/handbook/total-rewards/compensation/compensation-calculator/#sf-benchmark). This is the job title that is used for determining the base compensation before other inputs such as level are evaluated. For example, the benchmark role for a Senior Backend Engineer is a Backend Engineer, Individual Contributor.
@@ -224,9 +248,8 @@ For any feedback about using Compaas during the FY22 Manager Review portion of A
 * If any changes are made by a slate approver, these will be visible in your review screen.
 * ![slate owner locked](/images/handbook/people-group/Updated_Slate_Locked.png)
 
-#### Process for approvers
+#### For approvers
 
-1. Approvers will log in using the same instructions as slate owners.
 1. Once you have logged in, you will see your dashboard and all available slates. Your dashboard will link you to the slates you own, as well as link to your Approvals (slates you review and can approve). 
 * ![dashboard](/images/handbook/people-group/Dashboard.png)
 1. From the dashboard, approvers will be able to view their own slate in the "Slates" section and can follow the steps outlined above.
@@ -250,45 +273,6 @@ For any feedback about using Compaas during the FY22 Manager Review portion of A
 * ![confirm bulk approve](/images/handbook/people-group/Confirm_Approve_All.png)
 1. After you have approved a slate, it will no longer be editable on your list of slates. After approving, you will still be able to visit the slate and view a current summary of any proposed compensation adjustments including any adjustments made by an approver higher up in the approval chain.
 * ![slate owner locked](/images/handbook/people-group/Updated_Slate_Locked.png)
-
-### Determining the Total Increase in Compaas
-
-When you review your team member's card in Compaas, you will see the recommended % increase for [performance factor](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor), the % increase in [benchmark](/handbook/total-rewards/compensation/compensation-calculator/#sf-benchmark) (if applicable), and the % increase in [location factor](/handbook/total-rewards/compensation/compensation-calculator/#location-factor) (if applicable). Also, if applicable, there will be a minimum recommended increase to ensure team members end up within their compensation band (Minimum increase by Total Rewards). All the factors should be reviewed and used to develop a holistic increase. We recommend the following steps and best practices:
-
-1. Managers to take a holistic view: The recommendation is not to add the percentage compensation factors together to determine the increase, rather to use them as an overall factor in developing what the increase should be.
-1. Managers should use the minimum increase of Total Rewards to make sure the team member is within their band. As a manager you can review the Compensation band in the [Compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/).
-1. Hereafter managers should review the Performance factor ranges recommendations:
-Developing in role = 0-3% increase
-Performing in role = 3-7% increase
-Exceeding in role = 6-10% increase
-1. Is the recommended minimum increase from Total Rewards within the recommended range of the Performance factor?
-  * Yes: The total recommended increase would be within the performance factor range.
-E.g. The minimum increase to stay in range is 6% and the performance range is 3-7%. The PBP/Total Rewards team would recommend a 6-7% total increase.
-  * No, it’s below: We would recommend a total increase within the Performance factor range.
-E.g. The minimum increase to stay in range is 0% and the performance range is 3-7%. The PBP/Total Rewards team would recommend a 3-7% total increase.
-  * No it’s above: We recommend a total increase which is aligned with the minimum recommended increase of Total Rewards.
-E.g. The minimum increase to stay in range is 15% and the performance range is 3-7%. The PBP/Total Rewards team would recommend a 15% total increase.
-1. Use placement within the compensation range and previous increases/start date to finalize the increase.
-1. **Important note:** Any increase above 10% or out of band exceptions due to contract factor updates must come with additional justification entered into the notes section for planning to be complete. These justifications will be reviewed and approved by the department leader, division leader and compensation group.
-1. Also: Anyone on a formal Performance plan (PEP, PIP) will be excluded from the review. This must be communicated to Total Rewards and PBP by December 15th.
-
-##### Examples
-
-Person A has the following characteristics:
-* Has been at GitLab for 6 months.
-* Rated "Performing" during Performance Factor Review: 3-7%
-* Location Factor: 5% increase
-* Benchmark: 0% increase
-
-As Person A's manager, since they haven't been here for very long, I may have been considering giving them a 3-4% increase based on their performance factor. Taking their location factor increase into account, I may increase this to 4-5%.
-
-Person B has the following characteristics:
-* Has been at GitLab over 2 years.
-* Rated "Exceeding" during Performance Factor Review: 6-10%
-* Location Factor: 5%
-* Benchmark: 5%
-
-As Person B's manager, Person B is one of my top performers and I want to compensate them adequately for this. Based on the increases for their location factor and benchmark and their high performance, I may recommend a 12% increase and include a justification for indirect managers to review and approve my recommendation for an increase above 10%.
 
 ### Iterations to Compaas
 
