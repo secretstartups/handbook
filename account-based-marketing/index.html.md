@@ -178,17 +178,14 @@ Is our single source of truth (SSoT) for processes and relevant links
 {: #slas}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-⏱ **The SLA (Service Level Agreement) begins when all details (including 100% final copy) is provided in the request issue.**
+⏱ **The SLA (Service Level Agreement) is dependent on the type of request (noted in the issue) and begins when all details (including 100% final copy) is provided in the request issue.**
 - Tip: Submit issues with full "Submitter Details" complete
-- Tip: Bookmark a view of your issues in Blocked status ([example](https://gitlab.com/groups/gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Ablocked&assignee_username[]=jgragnola))
-
-**Copy must be 100% final in order to be triaged.** This includes final edits for copy, grammar, sentence structure and readability, as well as review by relevant stakeholders (such as managers, product mktg, content mktg, sales, etc).
-
-The issue requester is responsible for ensuring that appropriate `mktg-status` labels are applied to the issue (issue templates have the tags built in to assist).
+- **Copy must be 100% final in order to be triaged.** This includes final edits for copy, grammar, sentence structure and readability, as well as review by relevant stakeholders (such as managers, product mktg, content mktg, sales, etc).
+- The issue requester is responsible for ensuring that appropriate `mktg-status` labels are applied to the issue (issue templates have the tags built in to assist).
 
 **The due date applied when the issue is submitted is not final.** The [workback calculator](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029) is a guideline to assist your project planning, however if details are not provided in the issue 5 business days prior by requestor, the issue timeline will be at risk and likely to be pushed out.
   - If an issue due date is prior to the SLA (based on date "submitter details" were complete), the due date will be changed to meet the SLA timeline (5 BD from date of final details submitted)
-  - For example, if the issue is submitted 0ct 1, with a due date of Oct 15, BUT details are not submitted until Oct 14, THEN the issue due date will be moved to Oct 21 by the triage manager.
+  - For example, if the issue is submitted Januarry 1, with a due date of Januaruy 15, BUT details are not submitted until Oct 14, THEN the issue due date will be moved to January 21 by the triage manager.
   - The manager of ABM team and assignee are the ONLY individuals allowed to adjust due dates upon triage.
   - 🙏 Please **do not** ask ABM team members to complete work in a shorter timeline as this is disruptive to their milestone, and their priority is to plan, implement, and optimize ABM campaigns and tactics. They will manage their milestones appropriately and pull in work as bandwidth allows, and based on the SLA.
 
@@ -200,23 +197,55 @@ We ask that teams request work using the following issue templates in the ABM pr
 
 Note on timelines: Requests will be committed to as bandwidth permits. Please see section on [turnaround time & SLAs](/handbook/marketing/account-based-marketing/#slas).
 
-#### Request Issue Templates
-{: #request-issue-templates}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-To be added
+* [Milestone Planning](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_milestoneplan) - opened by ABM manager and due prior to start of new milestone
+* [WIP Issue](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_wip) - opened throughout a milestone for issues being committed to current milestone
+* [Demandbase Campaign](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Demandbase_Campaign) - opened by ABM team when new Demandbase campaign being defined (new audience and scope)
+* [Reporting](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Reporting) - opened by ABM team to complete specific reporting and analysis
+* [Sigstr Campaign](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Sigstr_Campaign) - opened by AMB team to create ABM Sigstr campaign
+* [1:1 ABM Account Campaign](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Account_Campaign_Tracking_Issue) - opened by ABM team when 1:1 ABM strategy confirmed for an account
+* [Patfhactory Track](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Campaign_Pathfactory_Track) - opened by ABM team when new Pathfactory track is needed; when possible, use existing PF tracks
+* [Patfhactory ExploreHub Page](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Pathfactory_ExploreHub_Page) - opened by ABM team when new Pathfactory ExploreHub Page is needed
+* [Direct Mail](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_Direct_Mail_Template) - opened by ABM team for Direct Mail campaigns
 
 ## Budgeting
+{: #budgeting .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
-Allocadia
+## Integrations
+{: #integrations .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+The following diagram is a Work In Progress to outline the integrations between Demandbase and other systems in our Marketing tech stack. The will continue to be updated as more information is made available.
+
+<iframe src='https://app.mural.co/embed/b6439b59-6cda-480a-8e90-2094782486e9'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
+
+### Current Demandbase Integrations
+{: #demandase-integrations}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+1. Maketo
+1. Salesforce
+1. LinkedIn
+1. Sisense (datatable through DataStream)
 
 ## Reporting
+{: #reporting .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### PMG Paid Digital Reporting
+{: #reporting-pmg}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 The ABM team uses the [PMG Reporting Dashboard](https://datastudio.google.com/reporting/19WMqzyDxrl1fK3puZ3kI7Pzig3Oex_BL/page/p_32tuunsvlc?s=l-p946nzu0I) to track performance and metrics for all paid media campaigns run through the PMG and GitLab Digital team. This dashboard covers many field breakdowns that PMG has mapped based on specific UTM values and naming conventions. The dashboard breaks down performance from top to bottom by Channel, Budget, Segment, Geo, Content, Language and weekly & monthly comparisons. The top of the dashboard features several filters to customize your view.
 
 #### Viewing ABM Campaigns
+{: #reporting-pmg-abm}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 The default filter on the dashboard shows digital campaigns only. To show all paid campaigns, including ABM, select ALL fields under the **`Budget`** filter. Once the **`Budget`** filter is showing all values go to the **`Team`** filter. This dropdown will show multiple marketing departments. Select **`abm`** to see a summary of the ABM campaigns running or were previously ran depending on the date range.
 
