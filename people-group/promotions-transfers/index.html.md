@@ -16,12 +16,6 @@ At GitLab, we encourage team members to take control of their own career advance
 
 As a manager, please follow the following processes, discuss any proposed changes with either the People Business Partner or Chief People Officer, and do not make promises to the team member before the approvals are completed.
 
-We recorded a training on this subject:
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/TNPLiYePJZ8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 ## Definitions
 
 - Promotions occur when a team member increases in level within the same job family. For example, a Backend Engineer is promoted to a Senior Backend Engineer. Similarly, a Senior Backend Engineer would receive a promotion by moving to a Staff Backend Engineer or Manager, Engineering.
