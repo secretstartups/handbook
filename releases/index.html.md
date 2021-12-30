@@ -14,22 +14,16 @@ title: "Releases"
 | Description        | Location            |
 |--------------------|---------------------|
 | Release orchestration | [Link](https://gitlab.com/gitlab-org/release-tools/) |
-| Manual release management | [Link](https://gitlab.com/gitlab-com/chatops) |
-| Deployment tool | [Link](https://gitlab.com/gitlab-com/gl-infra/deployer) |
-| Patcher tool (Private) | [Link](https://ops.gitlab.net/gitlab-com/gl-infra/patcher) |
 | Release documentation | [Link](https://gitlab.com/gitlab-org/release/docs) |
 | Release related tasks issue tracker | [Link](https://gitlab.com/gitlab-org/release/tasks/) |
 | Delivery team issue tracker | [Link](https://gitlab.com/gitlab-com/gl-infra/delivery/issues) |
-| Creating patch release for self-managed release| [Youtube Video][creating patch release] |
-| GitLab.com auto-deploy run through | [Youtube Video][auto-deploy] |
+| Release manager schedule | [Link](https://about.gitlab.com/community/release-managers/) | 
+| Maintenance Policy | [Link](https://docs.gitlab.com/ee/policy/maintenance.html) |
 
 ## Overview and terminology
 
 * **Monthly self-managed release**: GitLab version (XX.YY.0) [published every month on the 22nd][process-monthly-release]. From this monthly release, [patch][process-patch-release], [non-critical][process-security-release-non-critical], and [critical][process-security-release-critical] security releases are created as needed
 * **GitLab.com releases**: [Auto-deploy releases][process-auto-deploy-release] that are deployed from [auto-deploy branches created from master][auto-deploy], on regular intervals
-
-The `self-managed release` is a collection of many successfully deployed `auto-deploy`
-releases on GitLab.com.
 
 **The main priority** of both types of releases **[is GitLab availability & security](/handbook/engineering/#prioritizing-technical-decisions)**
 as an application running on both GitLab.com and for customers running GitLab
@@ -39,21 +33,48 @@ With these two types of releases, GitLab Inc. has to balance _at the same time_
 the workflows normally found in SaaS companies with the ones found in companies
 that publish packaged software.
 
-## GitLab.com releases
+## GitLab.com deployments
 
-GitLab.com receives regular updates according to our [auto-deploy schedule](#gitlabcom-releases-1).
-This means that GitLab.com **lives in the now** and [semver] versioning used by self-managed
-installations does not apply to it.
+### GitLab.com deployments overview
 
-For example, developers might be working in the `12.3` milestone on items that
-will be a part of `12.3.0` release but GitLab.com will only "know" of the commit
-SHA that the developer created.
+We follow a Continuus Deployment appraoch with the goal of deploying as frequently as possible to keep batch sizes small. This means that GitLab.com **lives in the now** with changes tracked using commit SHAs rather than [semver] versioning as used by self-managed installations.
 
-Users on GitLab.com therefore receive features and bug fixes earlier than
+The `self-managed release` is a collection of many successfully deployed `auto-deploy`
+releases on GitLab.com. Users on GitLab.com therefore receive features and bug fixes earlier than
 users of self-managed installations.
+
+### GitLab.com deployments process
+
+GitLab.com receives updates multiple times a day with new deployment branches currently created at 03:00, 06:00, 09:00, 13:00, 18:00 and 20:00 UTC. 
+
+Once a new branch is created, only commits that pass the CI tests are eligible for deployments ("green build"). This means that if specs are failing in
+[gitlab-org/gitlab], the deployments cannot progress further.
+
+Automated tasks in the [release-tools] project are setup to drive the next steps:
+
+- Twice every hour, a task runs to cherry-pick merge requests labeled with `~"Pick into auto-deploy"` (See [Labels of importance]).
+- Twice every hour, a task searches for the latest "green build" in the auto-deploy branch.
+  - If it finds a commit that has not been previously deployed, it will start the process of creating a new package.
+  - If the commit has already been deployed, the task will not take any actions.
+
+When a new package is built, it is automatically deployed to `staging.gitlab.com` and a set of automated QA integration tests are run.
+
+When the automated QA tests pass, the deployment automatically progresses to the
+[canary](https://about.gitlab.com/handbook/engineering/#canary-testing) stage where it is exposed to a sub-set of Production traffic.
+
+After 1 hour in the [canary] stage, and provided no new exceptions or alerts are
+reported, the release is considered to be ready for deployment to GitLab.com.
+
+The promotion to the full Production GitLab.com fleet is triggered manually by the release
+managers and this can happen at any point in time but will usually not happen if there are [Deployment blockers].
+
+Each deployment will trigger a notification in the Slack channel [#announcements](https://gitlab.slack.com/archives/C8PKBH3M5).
+After each successful deployment, a QA issue is created in [release/tasks] issue tracker to inform the people who are involved in the process that their change is going through environments. This allows them to
+execute any manual testing or other tasks related to the release of their fix/feature.
 
 ## Self-managed releases
 
+### Self-managed releases overview 
 The `self-managed release` is a [semver] versioned package of features that
 are already released on GitLab.com through `auto-deploys`.
 This means that the official published version of GitLab is a **historical
@@ -61,15 +82,23 @@ snapshot** of items that are released to users on GitLab.com. As such,
 the `self-managed release` is created from a _backport_ branch named by the
 targeted semver version with a stable suffix, eg. `12-3-stable`.
 
-Self-managed users receive features and bug fixes only after a new [semver]
-version is created and published.
-
 Our [maintenance policy] describes in detail the cadence of our major, minor and patch releases for self-managed users. The major release yearly cadence was defined [after an all stakeholder discussion](https://gitlab.com/gitlab-com/Product/issues/50).
+
+### Self-managed releases process
+
+The `self-managed release` timelines are concentrated around the 22nd. One week
+before the release date, the [release managers](https://about.gitlab.com/community/release-managers/) will start preparing for the release by ensuring that the GitLab.com releases are in a consistent state. This means
+that a `self-managed release` will only contain code that is successfully running
+on GitLab.com at the time the release manager decides to finalise the release.
+
+In the days leading up to the 22nd, the release manager will post announcements in
+[#releases], [#development](https://gitlab.slack.com/archives/C02PF508L),
+[#backend](https://gitlab.slack.com/archives/C8HG8D9MY), and [#frontend](https://gitlab.slack.com/archives/C0GQHHPGW) update on candidate and guaranteed commits for the release.
+
+Merge Requests that have been included in the monthly release will recieve [a label indicating inclusion](https://about.gitlab.com/handbook/engineering/releases/#labels-indicating-inclusion-in-upcoming-self-managed-release).
 
 ## Security
 The security of the software we ship must be everyones responsibiltiy as is the quality.  It can be a daunting task to deliver quality software securely.  GitLab has processes in place to help with application and code security reviews through the Secruity Departments' [Application Security (AppSec) team](/handbook/engineering/security/#application-security).  If you're unsure about the security implications of an addition to a code-base, the AppSec team can be included (`@gitlab-com/gl-security/appsec`) in the review to help.
-
-During the code review process, should evidence be found of a security flaw that needs further investigation, the [Security Incident Response Team (SIRT) can be engaged](/handbook/engineering/security/security-operations/sirt/sec-incident-response.html) to help.  If you need to [immediately stop a release](/handbook/engineering/releases/#deployment-blockers) for further investigation, any GitLab team member can [report an incident to the Infrastructure team](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).  GitLab also has an [incident communication plan in place](/handbook/marketing/corporate-marketing/incident-communications-plan/) depending on the circumstances surrounding an incident.
 
 
 ## Timelines
@@ -89,41 +118,6 @@ ready for a specific version, merge the feature early in the development cycle.
 Merges closer to the release date are absolutely not guaranteed to be included
 in that specific monthly `self-managed release`.
 For GitLab.com releases, timelines are different and described below.
-
-### GitLab.com releases
-
-In June 2019, GitLab.com transitioned to more frequent deploys through `auto-deploys`
-as a first step towards continuous deployments. The [auto deploy transition] document
-was created to serve as a transition overview document as we progress further
-towards even more frequent deployments. The current general process is
-described below.
-
-New auto-deploy branches are created at 03:00, 06:00, 09:00, 13:00, 18:00 and 20:00 UTC.
-
-Once a new branch is created, only commits that pass the CI tests are eligible for deployments ("green build"). This means that if specs are failing in
-[gitlab-org/gitlab], the deployments cannot progress further.
-
-Automated tasks in the [release-tools] project are setup to drive the next steps:
-
-- Twice every hour, a task runs to cherry-pick merge requests labeled with `~"Pick into auto-deploy"` (See [Labels of importance]).
-- Twice every hour, a task searches for the latest "green build" in the auto-deploy branch.
-  - If it finds a commit that has not been previously deployed, it will start the process of creating a new package.
-  - If the commit has already been deployed, the task will not take any actions.
-
-When a new package is built, it is automatically deployed to `staging.gitlab.com` and a set of automated QA integration tests are run.
-
-When the automated QA tests pass, the deployment automatically progresses to the
-[canary](https://about.gitlab.com/handbook/engineering/#canary-testing) stage where it is exposed to a sub-set of Production traffic.
-
-After some time in the [canary] stage, and provided no new exceptions or alerts are
-reported, the release is considered to be ready for deployment to GitLab.com.
-
-The promotion to the full Production GitLab.com fleet is triggered manually by the release
-managers and this can happen at any point in time but will usually not happen if there are [Deployment blockers].
-
-Each deployment will trigger a notification in the Slack channel [#announcements](https://gitlab.slack.com/archives/C8PKBH3M5).
-After each successful deployment, a QA issue is created in [release/tasks] issue tracker to inform the people who are involved in the process that their change is going through environments. This allows them to
-execute any manual testing or other tasks related to the release of their fix/feature.
 
 ### Deployment blockers
 
@@ -149,36 +143,6 @@ Deployments to production will be blocked by the following events:
 
 Release Managers may decide, with input from the [EOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) to override a block and continue with the deployment. 
 
-### Self-managed releases
-
-The `self-managed release` timelines are concentrated around the 22nd. One week
-before the release date, the release managers will start preparing for the release
-by ensuring that the GitLab.com releases are in a consistent state. This means
-that what gets into the `self-managed release` fully depends on **the state of
-GitLab.com releases**.
-
-The `self-managed release` will only contain code that is successfully running
-on GitLab.com at the time the release manager decides to finalise the release.
-
-This can be as early as 5 work days or as late as 1 day before the 22nd.
-This fluctuation comes from a possibility of 22nd being at or right after the weekend
-or instability on GitLab.com in the run-up to the 22nd.
-The release manager preparing the final release will post an announcement in
-[#releases], [#development](https://gitlab.slack.com/archives/C02PF508L),
-[#backend](https://gitlab.slack.com/archives/C8HG8D9MY), and [#frontend](https://gitlab.slack.com/archives/C0GQHHPGW)
-with a link to the final branch.
-
-As mentioned earlier, if it is absolutely necessary to include a certain feature/fix
-in that months `self-managed` release, merge it early in the development cycle or
-no later than a couple of weeks before.
-The same applies for items that need to go to the next
-release; if it is absolutely necessary to include it in the next months release, merge
-it after the `self-managed release` has been prepared.
-
-Just because a merge request has a milestone of the current release `XX.YY` set,
-does not mean that it will end up in the same release. Milestone describes
-the target release, but only guarantee that it will be included in the same
-release is if it is running on GitLab.com around the time release preparation starts.
 
 ## Labels of importance
 
@@ -382,10 +346,6 @@ Release. Make sure to use the [security issue template] and follow the steps the
 Besides the merge request targeting `master`, three backports will be needed targeting the last two monthly releases and the current release. 
 For more information, see [security release backports].
 
-### How can I Hot patch an issue?
-
-See the [Hot patch] documentation for details on how to Hot patch. Note that hot patches may help with the resolution of severe incidents on GitLab.com but can only exist for a temporary period of time and block further deployments until fully fixed. See the [Hot patch] documentation for details about what can be patched. 
-
 ### How can I get a high severity bug fix released?
 
 Any high severity issue should start with an issue labelled with the appropriate bug and severity labels. 
@@ -395,9 +355,6 @@ Depending on the bug details, follow one of the following processes:
 - For [high severity bugs affecting self-managed users][process-patch-release]. If the bug has been found close to the 22nd of the month please also alert the Release Managers in [#releases]. 
 - For [high severity bugs affecting GitLab.com](https://about.gitlab.com/handbook/engineering/releases/#gitlabcom-releases-1)
 
-### What should I do if a stable branch is broken?
-
-See the [How to fix a broken stable branch] guide for details about this process.
 
 ___________
 
