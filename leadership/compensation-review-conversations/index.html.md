@@ -17,8 +17,7 @@ Please make sure to review and understand the following content with regards to 
 * [GitLab’s Guide to Total Rewards](/handbook/total-rewards/)
 * [Compensation Calculator](https://comp-calculator.gitlab.net/users/sign_in)
 * [“How to Think about Your Equity”](https://www.youtube.com/watch?v=ooWIfdsK5ho&ab_channel=GitLabUnfiltered) video embedded in the Compensation Calculator linked above
-* [Annual Compensation Review Cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#determining-the-total-increase-in-compaas)
-* [Targeted Mid-Year Increase Review](/handbook/total-rewards/compensation/compensation-review-cycle/#targeted-mid-year-increase-review)
+* [Annual Compensation Review Cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#determining-compensation-increases)
 * [Equity Refresh Program/Stock Option page](/handbook/stock-options)
 * [Talent Assessment at GitLab](/handbook/people-group/talent-assessment/)
  
