@@ -112,6 +112,78 @@ LIMIT 5
 
 </details>
 
+#### Namespaces with Trials and Subscriptions
+_Simplifed namespaces data set that includes trials and subscriptions_
+
+<details markdown="1"><summary>Click to expand</summary>
+
+**Options for accessing this snippet:**
+
+- Copy/paste `[growth_data_namespaces_name]` into your Sisense report.
+- Copy/paste [SQL code](https://gitlab.com/gitlab-data/periscope/-/blob/periscope/master/snippets/growth_data_namespaces/growth_data_namespaces.sql) to customize query within your Sisense report.
+
+**Granularity:** One record per namespace
+
+**Data Sets Used:** 
+
+- `legacy.gitlab_dotcom_namespaces_xf`
+- `legacy.gitlab_dotcom_users_blocked_xf`
+- `legacy.gitlab_dotcom_members`
+- `legacy.gitlab_dotcom_user_preferences`
+- `legacy.customers_db_trial_histories`
+- `restricted_safe_legacy.customers_db_charges_xf`
+
+**Fields:**
+
+- `namespace_id`: Unique identifier of namespace
+- `creator_id`: Unique user identifier (`user_id`) of namespace creator
+- `namespace_created_at`: Timestamp of namespace creation
+- `namespace_creation_date`: Date of namespace creation
+- `company_setup_filter`: Transformed `setup_for_company`: `'True'`, `'False'`, `'None'`
+- `namespace_visibility_level`: Visibility level of namespace: `'public'`, `'private'`, `'internal'`
+- `did_start_trial`: Boolean denoting whether namespace started a free trial
+- `trial_start_date`: Start date of trial
+- `did_start_subscription`: Boolean denoting whether namespace started a paid subscription
+- `min_subscription_start_date`: Start date of namespace's first subscription
+- `first_paid_plan_name`: Plan name of namespace's first subscription: `Premium`, `Ultimate`, 
+`Bronze`
+- `is_purchased_through_subscription_portal`: Boolean denoting whether namespace's first 
+subscription was purchased through a purchase order or directly from the web portal
+  - Documentation in [dbt](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.customers_db_charges_xf)
+
+**Automatic Filters:**
+
+- _This snippet includes all automatic filters used in the `[growth_data_namespaces]` snippet_
+- Filters OUT Storage and Self-Managed plans
+- Filters FOR a namespace's first subscription
+
+**Filtering Options (if filters aren't enabled, will show all results):**
+
+- _This snippet includes all filtering options used in the `[growth_data_namespaces]` snippet_
+
+**Filtering Options (if filters aren't enabled, will show all results):**
+
+- `setup_for_company`
+- `DateRange`: Select what range of `namespace_created_at` dates you want included in the report
+- `Aggregation`: Aggregate how to group the `namespace_created_at` dates (daily, weekly, monthly, etc)
+- `namespace_visibility`
+
+**How to Use and Sample Output (if copy/pasted into Sisense):**
+
+These snippets are written as plug-and-play CTEs. You can apply your own name to these CTEs
+
+``` sql
+WITH namespaces_w_trials_subs AS [growth_data_namespaces_name]
+
+SELECT * 
+FROM namespaces_w_trials_subs 
+LIMIT 5
+;
+```
+
+</details>
+
+
 #### SpO within the First X Days
 
 _See namespace stage adoption metrics such as stages adopted and active users within first X days since namespace creation._
