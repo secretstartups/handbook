@@ -14,13 +14,13 @@ description: "A set of conventions and guidelines for writing SQL at GitLab"
 
 ## SQL Style Guide
 
-This style guide is generally intended for the Data Team and thous developing within dbt.  If you are not on the Data Team or developing SQL outside of dbt know that the linting tools may be more difficult to apply but you are welcome to follow the guidance given within this guide.
+This style guide is generally intended for the Data Team and those developing within dbt.  If you are not on the Data Team or you are developing SQL outside of dbt, keep in mind that the linting tools may be more difficult to apply, but you are welcome to follow the guidance given within this guide.
 
-We use SQLFluff to lint the SQL we write.  Wile it will provide guidelines on the structure and general format of the SQL there are additional conventions that we rely on each other to enforce.
+We use SQLFluff to lint the SQL we write.  While it will provide guidelines on the structure and general format of the SQL, there are additional conventions that we need to enforce.
 
 ### SLQFluff
 
-SQLFLuff is an SQL linter that works with templateing tools like dbt.  We use it to define the basic structure and style of the SQL that we write and move the review of that structure and style in to the hands of the authors.  SQLFluff is included within the dbt development environment as it uses the dbt templateing engine durning the linting process and can be used with the following command:
+SQLFLuff is a SQL linter that works with templating tools like dbt.  We use it to define the basic structure and style of the SQL that we write and move the review of that structure and style into the hands of the authors.  SQLFluff is included within the dbt development environment and it uses the dbt templating engine during the linting process.  It can be used with the following command:
 
 ```console
 $ sqlfluff lint models/path/to/file/file-to-lint.sql
@@ -33,7 +33,7 @@ $ pip install sqlfluff
 $ sqlfluff lint path/to/file/file-to-lint.sql
 ```
 
-SQLFluff includes a `fix` command that will apply fixes to rule violations when possible.  As not all rule violations are automatically fixable you are encouraged run the the `lint` command after using the `fix` command to ensure that all rule violations have been resolved.
+SQLFluff includes a `fix` command that will apply fixes to rule violations when possible.  Not all rule violations are automatically fixable; therefore, you are encouraged to run the `lint` command after using the `fix` command to ensure that all rule violations have been resolved.
 
 - [SQLFluff Documentation](https://docs.sqlfluff.com/en/latest/index.html)
 - [SQLFluff Default configuration](https://docs.sqlfluff.com/en/latest/configuration.html#default-configuration)
@@ -47,7 +47,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
 - Be consistent.  Even if you are not sure of the best way to do something do it the same way throughout your code, it will be easier to read and make changes if they are needed.
 
-- Be explicit.  Defining something explicitly will ensure that it works they way you expect and It is easier for the next person, which may be you, when you are explicit in SQL.
+- Be explicit.  Defining something explicitly will ensure that it works the way you expect and it is easier for the next person, which may be you, when you are explicit in SQL.
 
 
 ### Best Practices
@@ -59,7 +59,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 - Do not use the `USING` command in joins because it produces inaccurate results in Snowflake. Create an account to view the [forum discussion on this topic.](https://community.snowflake.com/s/question/0D50Z00008WRZBBSA5/bug-with-join-using-)
 
 
-- Understand the difference between between the following related statements as use appropriately:
+- Understand the difference between the following related statements and use appropriately:
   - `UNION ALL` and `UNION`
   - `LIKE` and `ILIKE`
   - `NOT` and `!` and `<>`
@@ -71,7 +71,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
 - Prefer `!=` to `<>`. This is because `!=` is more common in other programming languages and reads like "not equal" which is how we're more likely to speak.
 
-- Prefer `LOWER(column) LIKE '%match%'` to `column ILIKE '%Match%'`. This lowers the chance of stray capital letters leading to an unexpected result
+- Prefer `LOWER(column) LIKE '%match%'` to `column ILIKE '%Match%'`. This lowers the chance of stray capital letters leading to an unexpected result.
 
 - Prefer `WHERE` to `HAVING` when either would suffice.
 
@@ -81,8 +81,8 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 - When making single line comments in a model use the `--` syntax
 - When making multi-line comments in a model use the `/*  */` syntax
 - Respect the character line limit when making comments. Move to a new line or to the model documentation if the comment is too long
-- Utilize the dbt model documentation for when it is available.
-- Calculations made in SQL should have a brief description of what's going on and if available a link to the handbook defining the metric (and how it's calculated)
+- Utilize the dbt model documentation when it is available
+- Calculations made in SQL should have a brief description of what's going on and if available, a link to the handbook defining the metric (and how it's calculated)
 - Instead of leaving `TODO` comments, create new issues for improvement
 
 ### Naming Conventions
