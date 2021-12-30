@@ -147,7 +147,7 @@ The ticket should be assigned to someone, and there should be nothing to fix.
 
 When a customer responds to a ticket from an email address that is not included in CC or is not the original requester, the customer's response is recorded as internal.
 There is a [trigger](https://gitlab.zendesk.com/agent/admin/triggers/360019008340/revisions/3)
-which sends an internal note to remind people to do it, see [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/1581) for more details.
+which sends an internal note to remind people to add the user to CC and reply, see [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/1581) for more details.
 
 If the email is obviously the original requester, you can [merge the users](https://support.zendesk.com/hc/en-us/articles/203690896-Merging-a-user-s-duplicate-account).
 
