@@ -47,5 +47,5 @@ In cases where the emergency change is required as a means to rectify a security
 [change management process]: /handbook/engineering/infrastructure/change-management/
 [post deployment patching]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/post-deployment-patches.md
 [patcher]: https://ops.gitlab.net/gitlab-com/gl-infra/patcher
-[auto-deploy label]: /handbook/engineering/releases/#gitlabcom-releases-2
+[auto-deploy label]: /handbook/engineering/releases/#gitlabcom-releases
 [security release process]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/process.md

@@ -62,7 +62,7 @@ starting-point for new SREs:
 
 ### Releases
 
-Releases candidates are deployed to GitLab.com through auto-deployments that occur weekly. For information about how releases at GitLab.com read about [the releases process](/handbook/engineering/releases/#gitlabcom-releases-1) visit the
+Releases candidates are deployed to GitLab.com through auto-deployments that occur weekly. For information about how releases at GitLab.com read about [the releases process](/handbook/engineering/releases/#gitlabcom-releases) visit the
 [release project documentation](https://gitlab.com/gitlab-org/release/docs/blob/master/README.md).
 documentation.
 
