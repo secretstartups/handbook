@@ -246,10 +246,12 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
     ```sql
     WITH important_list AS (
+
         SELECT DISTINCT
             specific_column
         FROM other_table
         WHERE specific_column != 'foo'
+        
     )
 
     SELECT
