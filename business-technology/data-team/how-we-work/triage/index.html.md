@@ -18,7 +18,7 @@ description: "GitLab Data Triage Guide"
 
 #### Enterprise Data Program Triage 
 
-GitLab has a robust and vibrant Data Program which includes a Central Data Team and many Funcitional Analytics Teams. GitLab total team members are growing as well and we need to uplevel our triaging process to keep up with GitLab's growth. 
+GitLab has a robust and vibrant Data Program which includes a Central Data Team and many Functional Analytics Teams. GitLab total team members are growing as well and we need to uplevel our triaging process to keep up with GitLab's growth. 
 
 Steps to uplevel triaging process:
 
