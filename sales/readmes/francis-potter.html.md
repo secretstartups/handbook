@@ -3,7 +3,7 @@ layout: markdown_page
 title: "Francis Potter's README"
 ---
 
-# Francis Potter - Solution Architect
+# Francis Potter - Solutions Architect
 
 ## A little background
 
