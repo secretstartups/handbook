@@ -301,7 +301,7 @@ We currently create an auto-deployment branch at a [specific
 timeline](/handbook/engineering/releases/index.html#gitlabcom-releases-1). The current Mean Time To Production time and target can be seen on https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp
 
 For a merge request with [a specific
-label](/handbook/engineering/releases/index.html#gitlabcom-releases-2), the
+label](/handbook/engineering/releases/index.html#gitlabcom-releases), the
 process is different.
 
 ### How can I determine what environment my merge request is currently in?
@@ -353,7 +353,7 @@ Any high severity issue should start with an issue labelled with the appropriate
 Depending on the bug details, follow one of the following processes: 
 - For [high severity security bugs][process-security-release-critical] 
 - For [high severity bugs affecting self-managed users][process-patch-release]. If the bug has been found close to the 22nd of the month please also alert the Release Managers in [#releases]. 
-- For [high severity bugs affecting GitLab.com](https://about.gitlab.com/handbook/engineering/releases/#gitlabcom-releases-1)
+- For [high severity bugs affecting GitLab.com](https://about.gitlab.com/handbook/engineering/releases/#gitlabcom-releases)
 
 
 ___________
