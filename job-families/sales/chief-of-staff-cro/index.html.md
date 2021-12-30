@@ -78,8 +78,8 @@ The Chief of Staff to the CRO is a [grade 9](/handbook/total-rewards/compensatio
 ## Performance Indicators
 
 * Meetings shifted from CRO - hours spent in meetings decreases over time by Chief of Staff prioritizing and maximizing the CRO’s time allocation
-LSAT Survey - leadership satisfaction survey 
-* On a semi-annual basis, the CRO and their leadership team (direct reports to the CRO) will receive a survey with a series of questions and a rating scale of 1-5, 5 being excellent to help determine the performance and impact of the Chief of Staff, CRO. 
+* LSAT Survey - leadership satisfaction survey 
+    * On a semi-annual basis, the CRO and their leadership team (direct reports to the CRO) will receive a survey with a series of questions and a rating scale of 1-5, 5 being excellent to help determine the performance and impact of the Chief of Staff, CRO. 
     * Sample questions:
         * Tasks and projects assigned to the CoS to the CRO are completed within agreed timeframes, to accurately meet requirements and consistent with GitLab’s values, policies and procedures.
         * CoS to the CRO  interacts and communicates clearly with key stakeholders both internally and externally through completion of tasks with little direction
