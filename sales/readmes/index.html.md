@@ -5,6 +5,7 @@ title: "GitLab Sales Team READMEs"
 
 ## Sales Team READMEs
 
+- [Vladimir Dzalbo's README (Solutions Architect)](https://gitlab.com/dzalbo/dzalbo/-/blob/main/README.md)
 - [Noria Aidam's README (Sales Developement Representative Enterprise)](/handbook/sales/readmes/noria_aidam.html)
 - [Chris Cowell's README (Senior Professional Services Technical Instructor)](/handbook/sales/readmes/chris-cowell/)
 - [Nick Lotz's README (Professional Services Technical Instructor)](/handbook/sales/readmes/nick-lotz/)
