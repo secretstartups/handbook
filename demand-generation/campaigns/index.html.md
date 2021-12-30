@@ -105,14 +105,62 @@ FY22-Q1
 
 The Campaigns Team is aligned to sales segments with a geo breakout. Our number one focus is driving MQLs (Marketing Qualified Leads) and SAOs (Sales Accepted Opportunities) in collaboration with marketing, SDRs, and Sales.
 
-- **ENTERPRISE**
-    - North America: Agnes Oetama
-    - South America, APAC, Public Sector: Jenny Tiemann
-    - EMEA: Eirini Pan
-- **COMMERCIAL (Mid-Market and SMB)**
-    - Americas: To be hired
-    - EMEA/APAC: Indre Kryzeviciene
-- **Lifecycle Marketing**: Luis Diego Dambrosio
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">Segment</th>
+    <th class="tg-fymr">Region</th>
+    <th class="tg-fymr">Campaign Manager</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Enterprise</td>
+    <td class="tg-0pky">N. America</td>
+    <td class="tg-0pky">Agnes Oetama `@aoetama`</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Enterprise</td>
+    <td class="tg-0pky">EMEA</td>
+    <td class="tg-0pky">Eirini Pan `@eirinipan`</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Enterprise</td>
+    <td class="tg-0lax">APAC / S. America</td>
+    <td class="tg-0lax">Jenny Tiemann `@jennyt`</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Commercial</td>
+    <td class="tg-0lax">Americas</td>
+    <td class="tg-0lax">Shari Rances `@tbd`</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Commercial</td>
+    <td class="tg-0lax">EMEA/APAC</td>
+    <td class="tg-0lax">Indre Kryzeviciene `@ikryzeviciene`</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">PubSec</td>
+    <td class="tg-0lax">Global</td>
+    <td class="tg-0lax">TBH</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Lifecycle Marketing</td>
+    <td class="tg-0lax">Global</td>
+    <td class="tg-0lax">Luis D'Ambrosio `@dambrold`</td>
+  </tr>
+</tbody>
+</table>
 
 ### Meet the Team
 {: #meet-the-team}
@@ -127,46 +175,64 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
 
 **Agnes Oetama** _Sr. Marketing Campaign Manager_
 
-- **Top-funnel campaigns for Large Segment, *North America***
-  - Plan, organize, implement, and optimize top-funnel campaigns for large segment in North America
+- **Campaign strategy for Enterprise Segment, *North America***
+  - Plan, organize, implement, and optimize campaign strategy for large segment in North America
   - Analyze and share results/findings of full-funnel attribution reporting for North America Large segment
   - Organize execution schedule, timeline, and DRIs for tactics aligned to top-funnel Large North America campaign plans, including email nurture, virtual events, digital ads, etc. aimed primarily at driving Inquiries + MQLs (with consideration of SAO attribution)
-- Sisense demand generation attribution reporting (working closely with Marketing Ops)
+- Support email marketing initiatives with Lifecycle Marketing focused on email marketing
 - Support North America field marketing requests (focused on mid- and bottom-funnel tactics), primarily related to Marketo, SFDC, and Pathfactory
+- Campaigns DRI for Sisense attribution reporting (working closely with Marketing Ops)
 
 **Jenny Tiemann** _Sr. Marketing Campaign Manager_
 
-- **Top-funnel campaigns for Large Segment, *PubSec, APAC, and LATAM***
-  - Plan, organize, implement, and optimize top-funnel campaigns for large segment in PubSec, APAC, and LATAM 
+- **Campaign strategy for Large Segment, *PubSec, APAC, and LATAM***
+  - Plan, organize, implement, and optimize campaign strategy for large segment in PubSec, APAC, and LATAM 
   - Analyze and share results/findings of full-funnel attribution reporting for PubSec, APAC, and LATAM Large segment
   - Organize execution schedule, timeline, and DRIs for tactics aligned to top-funnel Large PubSec, APAC, and LATAM campaign plans, including email nurture, virtual events, digital ads, etc. aimed primarily at driving Inquiries + MQLs (with consideration of SAO attribution)
+- Support email marketing initiatives with Lifecycle Marketing focused on email marketing
 - Support PubSec, APAC, and LATAM field marketing requests (focused on mid- and bottom-funnel tactics), primarily related to Marketo, SFDC, and Pathfactory
-
-**Zac Badgley** _Sr. Marketing Campaign Manager_
-
-- **Top-funnel campaigns for Commercial (Mid-Market and SMB) Segment, *Americas***
-  - Plan, organize, implement, and optimize top-funnel campaigns for commercial segment
-  - Analyze and share results/findings of full-funnel attribution reporting for commercial segment
-  - Organize execution schedule, timeline, and DRIs for tactics aligned to top-funnel commercial campaign plans, including email nurture, virtual events, digital ads, etc. aimed primarily at driving Inquiries + MQLs (with consideration of SAO attribution)
-- Support email marketing initiatives with the Campaign Manager focused on email marketing
+- Campaigns DRI for localization (translation of assets with Smartling)
 
 **Eirini Panagiotopoulou** _Sr. Marketing Campaign Manager_
 
-- **Top-funnel campaigns for Large Segment, *EMEA***
-  - Plan, organize, implement, and optimize top-funnel campaigns for large segment in EMEA
+- **Campaign strategy for Large Segment, *EMEA***
+  - Plan, organize, implement, and optimize campaign strategy for large segment in EMEA
   - Analyze and share results/findings of full-funnel attribution reporting for EMEA Large segment
   - Organize execution schedule, timeline, and DRIs for tactics aligned to top-funnel Large EMEA campaign plans, including email nurture, virtual events, digital ads, etc. aimed primarily at driving Inquiries + MQLs (with consideration of SAO attribution)
+- Support email marketing initiatives with Lifecycle Marketing focused on email marketing
 - Support EMEA field marketing requests (focused on mid- and bottom-funnel tactics), primarily related to Marketo, SFDC, and Pathfactory
+- Campaigns DRI for leveraging Pathfactory and new MVCs
 
 **Indre Kryzeviciene** _Sr. Marketing Campaign Manager_
 
-- **Top-funnel campaigns for Commercial (Mid-Market and SMB) Segment, *EMEA and APAC***
-  - Plan, organize, implement, and optimize top-funnel campaigns for commercial segment
+- **Campaign strategy for Commercial (Mid-Market and SMB) Segment, *EMEA and APAC***
+  - Plan, organize, implement, and optimize campaign strategy for commercial segment
   - Analyze and share results/findings of full-funnel attribution reporting for commercial segment
   - Organize execution schedule, timeline, and DRIs for tactics aligned to top-funnel commercial campaign plans, including email nurture, virtual events, digital ads, etc. aimed primarily at driving Inquiries + MQLs (with consideration of SAO attribution)
-- Support email marketing initiatives with the Campaign Manager focused on email marketing
+- Support email marketing initiatives with Lifecycle Marketing focused on email marketing
+- Campaigns DRI for UTM strategy
+- Campaigns DRI for weekly tech demo series
+
+**Shari Rances** _Sr. Marketing Campaign Manager_
+
+- **Campaign strategy for Commercial (Mid-Market and SMB) Segment, *Americas***
+  - Plan, organize, implement, and optimize campaign strategy for commercial segment
+  - Analyze and share results/findings of full-funnel attribution reporting for commercial segment
+  - Organize execution schedule, timeline, and DRIs for tactics aligned to top-funnel commercial campaign plans, including email nurture, virtual events, digital ads, etc. aimed primarily at driving Inquiries + MQLs (with consideration of SAO attribution)
+- Support email marketing initiatives with Lifecycle Marketing focused on email marketing
+
+**Luis D'Ambrosio** _Sr. Lifecycle Marketing Manager_
+
+- **Lifecycle marketing strategy to convert free users to paid users, including free > trial > paid flow***
+- **Act as GitLab's email marketing expert and DRI for all email marketing strategies and database strategy**
+  - Plan, organize, implement, and optimize email marketing strategy
+  - Analyze and share results, analysis, and recommmendations for email marketing channel
+  - Organize execution schedule, timeline, and DRIs for tactics aligned to email marketing plans, aimed primarily at progressing leads to MQL, and further to SAO
+- Support/Advise with regards to email marketing requests across the business
 
 _Each team member contributes to making day-to-day processes more efficient and effective, and will work with marketing operations as well as other relevant teams (including field marketing, content marketing, and product marketing) prior to modification of processes._
+
+
 
 ## Communication
 {: #communication .gitlab-purple}
@@ -259,27 +325,6 @@ Is our single source of truth (SSoT) for processes and relevant links
 - `mktg-status::plan`: this is used for work that is in an earlier stage of planning and a specific request has not been made
     - This will likely be used mainly by campaign managers on issues that are not high priority but there is a desire to capture the idea/notes.
 
-
-### Turnaround Time and SLAs
-{: #slas}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-**NOTE: this section will be retired (and communicated). Prioritization of activities aligned to demand generation goals, and consideration against current and planned milestones and projects, will take precedence over a time-based requirement to complete work. The [Marketing Campaign Manager role](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/) requires focus on top-funnel lead generation, and new issues will be reviewed against workload and prioritized accordingly.**
-
-⏱ **The SLA (Service Level Agreement) - 15 business days - begins when all details (including 100% final copy) is provided in the issue.**
-- Tip: Submit issues with full "Submitter Details" complete
-- Tip: Bookmark a view of your issues in Blocked status ([example](https://gitlab.com/groups/gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Ablocked&assignee_username[]=jgragnola))
-
-**Copy must be 100% final in order to be triaged.** This includes final edits for copy, grammar, sentence structure and readability, as well as review by relevant stakeholders (such as managers, product mktg, content mktg, sales, etc.
-
-The issue requester is responsible for ensuring that appropriate `mktg-status` labels are applied to the issue (issue templates have the tags built in to assist).
-
-**The due date applied when the issue is submitted is not final.** The [workback calculator](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029) is a guideline to assist your project planning, however if details are not provided in the issue 5 business days prior by requestor, the issue timeline will be at risk and likely to be pushed out.
-  - If an issue due date is prior to the SLA (based on date "submitter details" were complete), the due date will be changed to meet the SLA timeline (5 BD from date of final details submitted)
-  - For example, if the issue is submitted 0ct 1, with a due date of Oct 15, BUT details are not submitted until Oct 14, THEN the issue due date will be moved to Oct 21 by the triage manager.
-  - The triage manager and assignee are the ONLY individuals allowed to adjust due dates upon triage.
-  - 🙏 Please **do not** ask Campaign Managers to complete work in a shorter timeline as this is disruptive to their milestone, and their priority is to plan, implement, and optimize top-funnel campaigns and tactics. They will manage their milestones appropriately and pull in work as bandwidth allows, and based on the SLA.
-
 ### Issue Templates
 {: #issue-templates}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -292,7 +337,6 @@ Note on timelines: The campaigns team is focused on top-funnel campaign strategy
 {: #request-issue-templates}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- [request-add-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture) - these will triage to Verticurl, noting that revamp of Marketo nurture programs in FY22 Q2/Q3 will aim to simplify this approach.
 - [request-confirm-target-list](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-confirm-target-list) - *for customer target lists, please work with Marketing Ops and Data Team.*
 - [request-email-followup](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-followup) - these will triage to Verticurl
 - [request-email-invitation](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-invitation) - these will triage to Verticurl
@@ -380,17 +424,25 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 - Note: Use of milestones was introduced to the campaigns team as of 2020-07-21.
 - If issues in a milestone are not closed out by end of milestone, they are pulled to the next milestone. We will document **total issues** and **total weight** moved, to understand relative commitment levels and avoid overcommitment as we begin using milestones.
 
-**FY22 Marketing Milestones:**
+#### FY22 Marketing Milestones
 
-- [Mktg: 2021-10-10](https://gitlab.com/groups/gitlab-com/-/milestones/521)
-- [Mktg: 2021-10-24](https://gitlab.com/groups/gitlab-com/-/milestones/522)
-- [Mktg: 2021-11-07](https://gitlab.com/groups/gitlab-com/-/milestones/595)
-- [Mktg: 2021-11-21](https://gitlab.com/groups/gitlab-com/-/milestones/596)
-- [Mktg: 2021-12-05](https://gitlab.com/groups/gitlab-com/-/milestones/597)
-- [Mktg: 2021-12-19](https://gitlab.com/groups/gitlab-com/-/milestones/598)
 - [Mktg: 2022-01-02](https://gitlab.com/groups/gitlab-com/-/milestones/599)
 - [Mktg: 2022-01-16](https://gitlab.com/groups/gitlab-com/-/milestones/574)
 - [Mktg: 2022-01-30](https://gitlab.com/groups/gitlab-com/-/milestones/575)
+- [Mktg: 2022-02-13](https://gitlab.com/groups/gitlab-com/-/milestones/628)
+- [Mktg: 2022-02-27](https://gitlab.com/groups/gitlab-com/-/milestones/629)
+- [Mktg: 2022-03-13](https://gitlab.com/groups/gitlab-com/-/milestones/630)
+- [Mktg: 2022-03-27](https://gitlab.com/groups/gitlab-com/-/milestones/631)
+- [Mktg: 2022-04-10](https://gitlab.com/groups/gitlab-com/-/milestones/632)
+- [Mktg: 2022-04-24](https://gitlab.com/groups/gitlab-com/-/milestones/633)
+- [Mktg: 2022-05-08](https://gitlab.com/groups/gitlab-com/-/milestones/634)
+- [Mktg: 2022-05-22](https://gitlab.com/groups/gitlab-com/-/milestones/635)
+- [Mktg: 2022-06-05](https://gitlab.com/groups/gitlab-com/-/milestones/636)
+- [Mktg: 2022-06-19](https://gitlab.com/groups/gitlab-com/-/milestones/637)
+- [Mktg: 2022-07-03](https://gitlab.com/groups/gitlab-com/-/milestones/638)
+- [Mktg: 2022-07-17](https://gitlab.com/groups/gitlab-com/-/milestones/639)
+- [Mktg: 2022-07-31](https://gitlab.com/groups/gitlab-com/-/milestones/640)
+- [Mktg: 2022-08-14](https://gitlab.com/groups/gitlab-com/-/milestones/641)
 
 **Campaigns Team Backlog Milestones:**
 
@@ -412,28 +464,42 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 
 <b>[All Milestones Board](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&amp;utf8=%E2%9C%93&amp;state=opened&amp;label_name%5B%5D=Marketing%20Programs)</b> - this board provides high level of all milestones in consecutive order
 
-**All Milestones by Team Member**
+##### Board View Priorities Current Milestone
+- [All Team Members Priorities Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791)
+- [Agnes Oetama Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=aoetama)
+- [Jenny Tiemann Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=jennyt)
+- [Eirini Pan Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=eirinipan)
+- [Indre Kryzeviciene Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=ikryzeviciene)
+- [Luis Deigo D'Ambrosio Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=dambrold)
+- [Jackie Gragnola Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=jgragnola)
 
-- [Agnes Oetama](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=aoetama)
-- [Eirini Pan](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=eirinipan)
-- [Indre Kryzeviciene](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=ikryzeviciene)
-- [Jackie Gragnola](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=jgragnola)
-- [Jenny Tiemann](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=jennyt)
-- [Luis Deigo Dambrosio](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=dambrold)
+##### Board View by Milestone
+- [All Team Members Priorities Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?milestone_title=%23started)
+- [Agnes Oetama by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=aoetama)
+- [Jenny Tiemann by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=jennyt)
+- [Eirini Pan by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=eirinipan)
+- [Indre Kryzeviciene by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=ikryzeviciene)
+- [Luis Deigo D'Ambrosio by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=dambrold)
+- [Jackie Gragnola by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=jgragnola)
 
-**All Team Members by Milestone (Current Quarter)**
-
-- [Mktg: 2021-11-07](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202021-11-07)
-- [Mktg: 2021-11-21](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202021-11-21)
-- [Mktg: 2021-12-05](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202021-11-07)
-- [Mktg: 2021-12-19](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202021-11-21)
+##### Board View Current Mile by Team Members
+- [Current Milestone by Team Members](https://gitlab.com/groups/gitlab-com/-/boards/1948068?milestone_title=%23started&label_name[]=dg-campaigns)
+- [Upcoming MIlestone by Team Members](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&label_name[]=dg-campaigns&milestone_title=%23upcoming)
 
 #### Lists
 {: #lists}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**In campaigns project (transition of new requests to new project):**
+##### Issue List Current Mile by Team Member
+- [All Team Members Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started)
+- [Agnes Oetama Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=aoetama)
+- [Jenny Tiemann Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=jennyt)
+- [Eirini Pan Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=eirinipan)
+- [Indre Kryzeviciene Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=ikryzeviciene)
+- [Luis Deigo D'Ambrosio Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=dambrold)
+- [Jackie Gragnola Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=jgragnola)
 
+##### Issues by Status
 - [Issues in triage status (campaigns)](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=mktg-status%3A%3Atriage)
 - [Issues in blocked status (campaigns)](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=mktg-status%3A%3Ablocked)
 - [Issues in ready-to-build status (campaigns)](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=mktg-status%3A%3Aready-to-build)
