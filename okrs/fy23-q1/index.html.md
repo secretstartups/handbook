@@ -29,10 +29,19 @@ The by-the-book schedule for the OKR timeline would be
 
 ## OKRs
 
-### 1. CEO
+### 1. CEO: Increase ARR
+   1. **CEO KR:** Achieve first order large SAOs on yearly plan
+   1. **CEO KR:** Achieve X% of ARR on cloud licensing
+   1. **CEO KR:** Rollout Project Matterhorn
 
-### 2. CEO
+### 2. CEO: Improve user engagement
+   1. **CEO KR:** Start to implement strategy between marketing and engineering to grow to 1000 code contributors per month. X active contributors per month in the quarter
+   1. **CEO KR:** Have X badges earned
+   1. **CEO KR:** Define technical content strategy for users. 6 technical articles that trend on Hacker News in the quarter for each of Dev, Sec, and Ops (18 total)
 
-### 3. CEO
+### 3. CEO: Management development
+   1. **CEO KR:** Update key meetings and processes. Includes, Key Reviews (with 11 cross-functional initiatives),Group Conversations, and OKRs (in a new platform)
+   1. **CEO KR:** Launch Directs Group with 4.5/5 feedback score for meetings
+   1. **CEO KR:** Have X people complete a management course
 
 

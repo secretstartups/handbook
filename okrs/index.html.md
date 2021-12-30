@@ -18,6 +18,7 @@ canonical_path: "/company/okrs/"
 All our OKRs are public and listed on the pages below.
 - [FY22-Q4 Active](/company/okrs/fy22-q4/){:data-ga-name="fy22-q4"}{:data-ga-location="body"}
 - [FY23-Q1 Future](/company/okrs/fy23-q1/){:data-ga-name="fy23-q1"}{:data-ga-location="body"}
+- [FY23-Q2 Future](/company/okrs/fy23-q2/){:data-ga-name="fy23-q2"}{:data-ga-location="body"}
 - [Previous OKRs](#okr-archive){:data-ga-name="okr archive"}{:data-ga-location="body"}
 
 ## What are OKRs?
