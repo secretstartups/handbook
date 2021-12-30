@@ -298,7 +298,7 @@ For more detailed answer, see [self-managed release timelines](/handbook/enginee
 ### When will my merge request be deployed?
 
 We currently create an auto-deployment branch at a [specific
-timeline](/handbook/engineering/releases/index.html#gitlabcom-releases-1). The current Mean Time To Production time and target can be seen on https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp
+timeline](/handbook/engineering/releases/index.html#gitlabcom-releases). The current Mean Time To Production time and target can be seen on https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp
 
 For a merge request with [a specific
 label](/handbook/engineering/releases/index.html#gitlabcom-releases), the
