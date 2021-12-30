@@ -40,7 +40,7 @@ The by-the-book schedule for the OKR timeline would be
    1. **CEO KR:** Define technical content strategy for users. 6 technical articles that trend on Hacker News in the quarter for each of Dev, Sec, and Ops (18 total)
 
 ### 3. CEO: Management development
-   1. **CEO KR:** Update key meetings and processes. Includes, Key Reviews (with 11 cross-functional initiatives),Group Conversations, and OKRs (in a new platform)
+   1. **CEO KR:** [Update Key Reviews](/handbook/key-review/ (with [11 cross-functional initiatives](https://about.gitlab.com/company/team/structure/working-groups/#11-cross-functional-initiatives), [Group Conversations](/handbook/group-conversations/, and [OKRs](/company/okrs/) (in a new platform)
    1. **CEO KR:** Launch Directs Group with 4.5/5 feedback score for meetings
    1. **CEO KR:** Have X people complete a management course
 
