@@ -134,7 +134,7 @@ See our technical documentation for our [instance of Gainsight's Adoption Explor
 
 ### User and Project Adoption Metrics
 
-Below is a list of user- and project-based adoption metrics to assist with understanding the usage of key features for the overall customer. Examples include the number of users running ci_pipelines divided by the total licensed user count.
+Below is a list of user- and project-based adoption metrics to assist with understanding the usage of key features for the overall customer. Examples include the number of users running ci_pipelines divided by the total licensed user count. Note: L28D means "Last 28 Days"
 
 | Metric | Calculation | Description |
 | ------ | ----------- | ----------- |

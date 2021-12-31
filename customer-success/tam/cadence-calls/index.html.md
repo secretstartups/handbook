@@ -102,7 +102,19 @@ Before you end the call, take a few minutes to summarize the highlights of what 
 
 ### After the call
 
-**If there are no action items or follow-ups that come from a cadence call, the call was not effective.** At minimum, the TAM should send a follow-up email to the participants covering the same summary information that was discussed at the end of the call, and make sure everyone knows what the action items from the call are.
+**If there are no action items or follow-ups that come from a cadence call, the call was not effective.** At minimum, the TAM should send a follow-up email or create a follow-up issue for the participants covering the summary information that was discussed at the end of the call, answer any questions that were posed during the call, and make sure everyone knows what the action items from the call were.
+
+When crafting your emails to customers, follow the below recommended guidelines to ensure a positive experience.
+
+1. Strive to send your follow up email as soon as possible, or within one business day of your call. If it will take longer than that, set expectations with your customers upfront.
+1. Address every action item, and if you don't have an update yet, let them know that you're working on it and an estimated turnaround time.
+1. Keep your email as succinct as possible, as customers probably don't want to read lengthy emails.
+1. Share links whenever possible, however:
+  1. Try to include the full link and not hyperlink on words, so that the customer knows what they're about to click on.
+  1. Include a short summary of what the link contains so they understand why it's valuable to them before they click on it.
+1. Often, we ask questions posed in customer calls to other GitLab team members. Don't copy & paste exactly your conversation; edit it to make sure it flows and makes sense to the customer and only contains the information they need.
+1. Proofread! Before clicking send, always re-read your emails (aloud if that helps!) to ensure it makes sense and doesn't have any errors. Remember customers don't always have as much context as we do, so read it from their perspective.
+1. Make sure you [BCC Salesforce](https://about.gitlab.com/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce) on your emails. For important emails, you can also [BCC Gainsight](https://about.gitlab.com/handbook/customer-success/tam/gainsight/timeline/#bccing-emails), but this is not recommended for all emails as it can make the Timeline noisy.
 
 After every cadence call, the TAM (and the rest of the [account team](/handbook/customer-success/account-team/) as applicable) should review and update:
 

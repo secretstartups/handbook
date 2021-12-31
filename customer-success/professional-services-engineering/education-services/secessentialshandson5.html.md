@@ -23,6 +23,7 @@ build:
     - docker:dind
   variables:
     IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
+    DOCKER_TLS_CERTDIR: ""
   script:
     - apk add npm
     - npm i npm@latest -g
@@ -31,9 +32,31 @@ build:
     - docker 
 
 include:
-  
 ```
+
+### Add the DOCKERFILE to the repo
+1. On the Project Information page, click the (+) sign and click on **New File**
+2. In the File Name field, type `Dockerfile` and press tab until your cursor is in the first line of the file body.
+3. Copy the following contents into the body of the file 
+
+```docker
+FROM ubuntu:18.04
+
+RUN apt-get update && apt-get install -y apache2 && apt-get clean && rm -rf /var/lib/apt/lists/*
+
+ENV APACHE_RUN_USER www-data
+ENV APACHE_RUN_GROUP www-data
+ENV APACHE_LOG_DIR /var/log/apache2
+
+EXPOSE 80
+
+CMD ["/usr/sbin/apache2", "-D", "FOREGROUND"]
+```
+
+4. Click the **Commit Changes** button.
+
 ### Authenticate with Docker commands
+
 Pushing to the Container Registry with Docker commands requires authentication.
 1. Authentication with the Container Registry is required.    
    - Authenticate with either:

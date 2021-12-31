@@ -383,9 +383,9 @@ Our agreed schedule with finance is [Montly/ Quarterly/ Year End Time Lines](htt
      * Time would include hours for that day along with an estimate of hours for the final 2 business days of the month
      * If corrections need to be made for the final 3 days of the month, that would be included in the following weeks time sheet
    * By 2PM ET, Time Sheets will need to be approved by the Project Managers and Coordinators on -3 working day from the last business day of the month
-   * By 6 PM ET, the Operastions Manager will have gone through the review process and submit reporting to Finance on -3 working day from the last business day of the month
+   * By 6 PM ET, the Operations Manager will have gone through the review process and submit reporting to Finance on -3 working day from the last business day of the month
 
-Here is a link of an overview of the [process](https://www.loom.com/share/6966f309567d404eacc0ed60fa67b7b1)
+Here is a link of an overview of the [December Process](https://www.loom.com/share/28eea56141164bca8865112f255d48fa?sharedAppSource=personal_library)
 
 
 Time sheets would be submitted by the team and then approved by the project lead on the cutoff date.  Then an additional project line would be added to finish out the remainder of the week, and follow the normal end of the week process.
@@ -561,8 +561,8 @@ TO DO
       * Link Fully Executed SOW  
 
 #### Invoice Processing and Tracking
-CURRENT PROCESS VIA TIPALTI:
-* Project Coordinator receives email notification from Tipalti to review the partner submitted invoice.
+CURRENT PROCESS VIA COUPA:
+* Project Coordinator receives notification from Coupa to review the partner submitted invoice.
    * Note - Approval queue is Consulting Project Coordinator first and Training Project Coordinator second.
 * Project Coordinator reviews the invoice and Mavenlink timesheets to ensure accuracy of hours approved and rate.
 * If the invoice and timesheets align, then the invoice is approved.
@@ -576,6 +576,30 @@ CURRENT PROCESS VIA TIPALTI:
 * Copy and paste the information into the applicable partner timesheet Google sheet.  [Template](https://docs.google.com/spreadsheets/d/1kKXkZC90KdlzxXicBkye9RWGJ-Y9ooTik5rOtlJwl3k/edit?usp=sharing) is provided in case you need to create a new sheet.
 * Create a pdf version of the partner timesheet information.
 * Send an email to the partner A/R point of contact using the [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
+
+#### Making Engagement Epic and Issues Partner Accessible
+##### Background
+* [PS automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) creates engagement epics in [Professional-Services-Group](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics) and issues in [PS-Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues).
+* It's useful to move the epics of engagements that require partner access to [Professional-Servies-Group > Consulting Delivery](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/ww-consulting/-/epics)
+
+##### Notes
+* Epics can not currently be moved so instead we recreate the epic in the new location, move the subordinate issues to the new location and close the original epic as described in _Directions_ below.
+* The original and new epics are linked via their issue move audit entries.
+* The directions do not use a [bulk edit](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#bulk-edit-issues-from-a-project) due to [this epic search issue](https://gitlab.com/gitlab-org/gitlab/-/issues/233729).
+
+##### Directions
+* Open the to-be-recreated epic in a browser tab
+* Open the [destination epics list UI](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/ww-consulting/-/epics) in another browser tab
+  * _New Epic_
+    * Title - `Customer Name` Customer Project Epic
+    * Description - copy and paste description markdown from the original epic (current in the other browser tab)
+    * _Create epic_
+  * Put the url of the new epic in the copy paste buffer for use below
+* For each issue in the to-be-recreated epic:
+  * Browse to the issue
+    * Use the `/epic <url>` [slash command](https://docs.gitlab.com/ee/user/project/quick_actions.html) to move the issue to the new epic
+      * e.g. `/epic https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/ww-consulting/-/epics/2`
+      * To use a slash command, enter the text of the command in the comment interface and apply it with the _Comment_ button
 
 ### Mavenlink Processes
 Mavenlink is our current Professional Services Automation (PSA) system.  Follow the link below to view process steps.

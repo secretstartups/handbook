@@ -28,7 +28,7 @@ Adoption timeline: 1 months after license purchase
 
 |                       | **Red** | **Yellow** | **Green** |
 | --------------------- | ------- | ---------- | --------  |
-| Merge Requests / Licenses Sold | <20%    | 20-25%     | \>=25%    |
+| Merge Requests / Licenses Sold | <20%    | 20-40%     | \>=40%    |
 
 This looks to all users who ran merge requests in the last 28 days / Licenses Sold.
 

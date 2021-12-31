@@ -214,7 +214,7 @@ The Channel SA's are aligned globally with the Channel program team as well as r
 
 - **Customer Information**: Customer name, SFDC opportunitylink
 - **Preferred Date Options**: When would the customer want to have the call (including time zone information)
-- **Target Hosting Environment**: Self-hosted, cloud or GitLab.com?
+- **Target Hosting Environment**: Self-Managed, cloud or GitLab.com?
 - **Challenges/Pain Points**: What is the customer pain/problems?
 - **Required Capabilities**: What does the customer need?
 - **Current Tools/Competitors**: What is the current tool set? Are any of those tools non-negotiable?

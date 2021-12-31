@@ -36,13 +36,14 @@ The most common way to run a pipeline is commit to a branch of your project’s 
      p GitLab welcomes you to #{title}
    ```
    
-5. In the **Commit message** field, type `Update welcome message in index.pug`
-6. Leave the **Target branch** field set to `new-feature`. 
-7. Click **Commit changes**.
-8. Click **Create merge request**.
-9. Assign the merge request to yourself.
+5. Click **Commit...**
+6. In the **Commit message** field, type `Update welcome message in index.pug`
+7. Leave the **Target branch** field set to `new-feature`. 
+8. Make sure the box for **Start a new merge request** is checked.
+9. Click **Commit**.
 10. Add `Draft:` to the beginning of the text in the **Title** field to show that the merge request isn’t ready to be merged yet.
-11. Leave all other fields at their default values and click **Create merge request** at the bottom of the page. 
+11. Assign the merge request to yourself.
+12. Leave all other fields at their default values and click **Create merge request** at the bottom of the page. 
    
      You now have an active merge request for merging the `new-feature` branch into the `master` branch. The page you are on shows the details of that merge request, including the status of the last pipeline that was run on the `new-feature` branch (you might have to refresh the page to see the pipeline status). GitLab will run a new pipeline every time you commit to the `new-feature` branch.
 12. The **Review** stage of the Auto DevOps pipeline deploys your NodeJS Express application into a review environment dedicated to this branch. You can see the status of each pipeline stage by hovering over the circular icons in the pipeline status. Once the pipeline has completed the **Review** stage, view the deployed application by clicking **View latest app** in the middle of the merge request. You should see the text that you modified.
