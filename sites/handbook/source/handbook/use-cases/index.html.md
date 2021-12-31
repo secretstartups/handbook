@@ -80,20 +80,8 @@ We need to enforce standardized CI pipelines that include requesite testing and 
 
 These are topics where sales and marketing conversations may start, but then we want to lead the prospect toward delivery automation. For instance, GitOps is hot topic and ranking well in SEO so it's worth talking about. But ultimately we want drive people to delivery automation (or platform). 
 
-#### [1. Source Code Management (aka Version Control and Collaboration, VC&C](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration)
-**We are looking for a way to create, manage and protect our intellectual property (i.e. source code, design, images, etc)** - in simple terms [Version Control](https://about.gitlab.com/solutions/version-control/) and Collaboration (VC&C), but more inclusively, *product configuration management* or *product asset management*.
-We need a better way to manage changes to documents, software, images, large websites, and other collections of code, configuration, and metadata among disparate teams. (Examples in GitLab include Git, branches, merge requests, code review, InnerSourcing, WebIDE, and files.)  
 
-   **Analyst Coverage**: IDC, to some extent, forecasts this market. No spot on, recent reports, though Gartner may be considering a future report.
-
-   **Value Drivers:**
-   1. *Increase Operational Efficiencies:* Share and reuse code, prevent rework, and make reviews more efficient.
-   1. *Deliver Better Products Faster:* Streamline reviews and collaboration around code changes.
-   1. *Reduce Security and Compliance Risk:* Easier compliance through approvals of code changes.
-
-   *Note: SCM is sold via the web. There is no accompanying Value Play. This conversation should lead the prospect toward the Delivery Automation solution.*
-
-#### [2. GitOps](/handbook/marketing/strategic-marketing/usecase-gtm/gitops/)
+#### [1. GitOps](/handbook/marketing/strategic-marketing/usecase-gtm/gitops/)
 **Looking for a way to automatically provision, administer and maintain infrastructure as code** - (CI/CD Infrastructure-as-code or **GitOps**)
 I manually stage and test environments for infrastructure making it hard to track and error-prone. I want to stage all components and test them to be sure it works to automate my release pipelines, provide consistency, reduce cost, and  eliminate errors. I may frequently leverage integration with Terraform, Kubernetes, Ansible, OpenStack and others.
 
@@ -106,18 +94,16 @@ I manually stage and test environments for infrastructure making it hard to trac
 
 *This conversation should lead the prospect toward the Delivery Automation solution.*
 
-## Popular Use Cases (not solutions)
+#### [2. Source Code Management (aka Version Control and Collaboration, VC&C](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration)
+**We are looking for a way to create, manage and protect our intellectual property (i.e. source code, design, images, etc)** - in simple terms [Version Control](https://about.gitlab.com/solutions/version-control/) and Collaboration (VC&C), but more inclusively, *product configuration management* or *product asset management*.
+We need a better way to manage changes to documents, software, images, large websites, and other collections of code, configuration, and metadata among disparate teams. (Examples in GitLab include Git, branches, merge requests, code review, InnerSourcing, WebIDE, and files.)  
 
-See [use case vs solution definition](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/#devops-solutions-vs-use-cases)
+   **Analyst Coverage**: IDC, to some extent, forecasts this market. No spot on, recent reports, though Gartner may be considering a future report.
 
-#### Integration - Planning
-Integrations with Project Planning tools like: VersionOne, Rally, Jira, Trello, Monday, Workfront, and Basecamp.  Or integrations with Portfolio Planning tools like Clarity, MicroFocus PPM, or others.
+   **Value Drivers:**
+   1. *Increase Operational Efficiencies:* Share and reuse code, prevent rework, and make reviews more efficient.
+   1. *Deliver Better Products Faster:* Streamline reviews and collaboration around code changes.
+   1. *Reduce Security and Compliance Risk:* Easier compliance through approvals of code changes.
 
-#### Integration - SCM(GitHub)
-The most common SCM integration is with GitHub
+   *Note: SCM is sold via the web. There is no accompanying Value Play. This conversation should lead the prospect toward the Delivery Automation solution.*
 
-#### Integration - CI
-Integrations with Jenkins, CircleCI, Bamboo or other CI servers.
-
-#### Integration - CD
-Integrations with common CD tools such as Puppet, Chef, Ansible, Jenkins and others.
