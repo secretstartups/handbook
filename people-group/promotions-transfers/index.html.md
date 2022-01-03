@@ -178,6 +178,7 @@ To promote or change compensation for one of your direct reports, do the followi
 
 1. [Verify whether this promotion should be approved in BambooHR or Greenhouse](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process). If BambooHR, continue. If Greenhouse, please reach out to the recruiter on the role.
 1. [Create a Promotion or Compensation Change Document](/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document)
+1. If the team member you are recommeding a promotion for is director or above, please refer to the [promotions to director and above](https://about.gitlab.com/handbook/people-group/promotions-transfers/#promotions-to-director-and-above)
 1. [Recommend a Compensation Increase](/handbook/people-group/promotions-transfers/#recommend-a-compensation-increase)
 1. [Submit a request in BambooHR](/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr)
 
