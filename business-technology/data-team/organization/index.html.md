@@ -85,17 +85,6 @@ We encourage our stakeholders to follow along with our issue boards to understan
 3. G&A: [People](https://gitlab.com/groups/gitlab-data/-/boards/1435002?&label_name[]=People), Engineering Analytics `coming soon`
 4. [Platform](https://gitlab.com/gitlab-data/analytics/-/issues?label_name%5B%5D=Team%3A%3AData+Platform)
 
-# Data & Analytics Programs
-
-## Show-n-Tell and Demos
-
-Data & Analytics Demos are a great way for everyone involved in the Data Program to share progress, innovation, collaborate, and just have fun. Data & Analytics Demos are [held every Thursday](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTA5MTZUMTUwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL) and recordings are posted to the [GitLab Unfildered Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). 
-
-## Data Science AMAs
-
-The Data Science Team regularly holds AMAs to help spread awareness of Data Science and initiatives. Check out the [AMA with GitLab Data Scientists Agenda](https://docs.google.com/document/d/1C5odZ14Fbnbb5uqNnrJsDnYQR_ZrvfPQCQ43xUEZsJY/edit) to learn more.
-
-
 # Data Program Recruiting
 
 Recruiting great people is critical to our success and we've invested much effort into making the process efficient. Here are some reference materials we use:
@@ -105,7 +94,13 @@ Recruiting great people is critical to our success and we've invested much effor
 
 # Data Roles and Career Development
 
-## [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer)
+## Data Internships
+
+See [Data Team Internships](/handbook/business-technology/data-team/organization/internships/).
+
+## Data Engineering
+
+* [Data Engineering Job Family](https://about.gitlab.com/job-families/finance/data-engineer)
 
 ```mermaid
   graph LR;
@@ -127,7 +122,9 @@ Recruiting great people is critical to our success and we've invested much effor
 Create a MR to contribute to handbook or templates | Investigate incidents and issues | Work on [OKR assignments](/handbook/business-technology/data-team/direction/#quarterly-objectives) | Propose new ideas and come up with Data Platform improvement initiatives |
 | Understand the current setup of the data platform | Make small/corrective changes to the platform infrastructure or data pipelines | Contribute on work breakdown |
 
-## [Data Analysis](https://about.gitlab.com/job-families/finance/data-analyst)
+## Data Analyst
+
+* [Data Analyst Job Family](https://about.gitlab.com/job-families/finance/data-analyst)
 
 ```mermaid
   graph LR;
@@ -153,8 +150,9 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 | Start attending [Data Fusion Team](/handbook/business-technology/data-team/#data-fusion-teams) and Business Team synchronous meetings | Perform [triage](/handbook/business-technology/data-team/how-we-work/triage/) activities | | |
 | Complete First Issue: S to M T-Shirt Size  |  |  |
 
+## Data Science
 
-## [Data Science](https://about.gitlab.com/job-families/finance/data-science)
+* [Data Science Job Family](https://about.gitlab.com/job-families/finance/data-science)
 
 ```mermaid
   graph LR;
@@ -166,7 +164,9 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
   click supe:sds "https://about.gitlab.com/job-families/finance/data-science/#senior-data-scientist";
 ```
 
-## [Analytics Engineering](https://about.gitlab.com/job-families/finance/analytics-engineer)
+## Analytics Engineering
+
+### [Analytics Engineering Job Family](https://about.gitlab.com/job-families/finance/analytics-engineer)
 
 ```mermaid
   graph LR;
@@ -190,7 +190,9 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 | Start attending Data Fusion Team and Business Team synchronous meetings | Perform [triage](/handbook/business-technology/data-team/how-we-work/triage/) activities | | |
 | Complete First Issue: S to M T-Shirt Size  |  |  |
 
-## [Data Management](https://about.gitlab.com/job-families/finance/manager-data)
+## Data Management
+
+* [Data Management Job Family](https://about.gitlab.com/job-families/finance/manager-data)
 
 ```mermaid
   graph LR;
@@ -213,42 +215,3 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 | Complete People, Data, and Manager Onboarding | Meet everyone on the team and business data champions | Complete a Team Assessment | Draft a people development Roadmap | 
 | Understand the current setup of the data platform | Work on [OKR assignments](/handbook/business-technology/data-team/direction/#quarterly-objectives) and map them to the data platform | Lead discussions with Users/Stakeholders on initiatives and OKRs | Draft a program development Roadmap (Process Improvements /Future State) | 
 | Add a new page to the handbook | Make regular contributions to the handbook spanning your area of management | Become DRI for major portions of the Data Handbook | System/Application Change Control Management of one or more modules |
-
-
-## Data Internships
-
-### Data Analyst
-
-### Analytics Engineering
-
-### Data Engineering
-
-
-### Data Science
-
-#### What will you do
-
-At GitLab we believe in a full ownership of the work you do. During your data science internship you will closely work with one of the senior data scientists, who will help you to navigate in daily tasks. Some of the tasks include:
-
-- Requirements gathering
-- Extraction of data from various sources to support project’s objective
-- Analysing and visualising data
-- Building predictive models to solve classification, regression and clustering problems
-- Collaboration with stakeholders (including explaining technical concepts with non-technical language)
-
-#### Requirements
-
-- BS or MS in data-related fields (statistics, computer science, engineering), but self-learners are also welcome to apply
-- Working knowledge of SQL
-- Working knowledge of Python (we use Jupyter notebooks to analyse and visualise data)
-- Basic knowledge of dashboard tools (we use Sisense)
-- Understanding of machine learning algorithms including decision trees, gradient and regression models
-- Ability to communicate in English, including concise writing that summarises your work
-- Ability to work asynchronously - as a fully-remote company we have team members all around a globe with differing working hours
-- At least 1 completed data science project (Non-commercial projects done in a spare time also count)
-- Being proactive in a work you do, but also not afraid to ask questions
-- Nice to have
-     - Understanding of CRISP-DM framework
-     - Understanding of software industry
-
-
