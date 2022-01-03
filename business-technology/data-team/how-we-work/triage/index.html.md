@@ -24,7 +24,7 @@ Steps to uplevel triaging process:
 
 1. Incorporate Functional Analytics Teams into the triaging process.
 1. Create Slack Aliases so that GitLab Team members can ping a group of folks to get help with their questions in #data.
-1. Create a Triage Schedule for the Data Program to follow in GSheets for easy maitnenace and maintain on the Data Team Calendar. Ask for a commitment of one team member, per Business Team, per day to help triage.
+1. Create a Triage Schedule for the Data Program to follow in GSheets for easy maintenace and maintain on the Data Team Calendar. Ask for a commitment of one team member, per Business Team, per day to help triage.
 
 | Triage Group Name   | Triage Slack Alias  | Triage Group Members  |  
 | -------------- | ------------------- | -------------------- |
