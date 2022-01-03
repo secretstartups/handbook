@@ -11,22 +11,76 @@ to create value for our shareholders and we want our employees to benefit from t
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## About Your Ownership in GitLab
+
+At GitLab we strongly believe in employee ownership in our Company. We are in business to create value for our shareholders and we want our employees to benefit from that shared success.
+
+This guide is meant to help you understand the piece of GitLab that you’re going to own! Its goal is to be more straightforward than the full Equity Incentive Plan Documents and your stock option agreement which you are advised to read, which both go into the full legal details.  Please note, however, that while we hope that this guide is helpful to understanding the equity and/or issued to you under the Equity Plan, the governing terms and conditions are contained in the EquityPlan and the related stock option agreement. You should consult an employment attorney and/or a tax advisor if you have any questions about navigating your equity and before you make important decisions.
+
 ## Restricted Stock Units
 
-As of 2021-09-04, the next iteration to our Total Rewards program is the transition from Stock Options to Restricted Stock Units (RSUs) for all future equity grants for both existing and new team members. Any equity grants awarded before 2021-09-03 will stay exactly the same.
-
-GitLab will be iterating on the content on this handbook page to reflect the update from Stock Options to RSUs.
-
-### What’s changing?
-
-* For your new equity grants, you will receive RSUs instead of Stock Options. There is no change to our equity strategy or the dollar grant value you will receive. We will continue to grant the same dollar grant value as seen in the [GitLab Compensation Calculator](https://comp-calculator.gitlab.net/).
-* Vesting will change: Since we’re changing equity vehicles which have different tax requirements, our vesting will change as well. Grants begin vesting on the date of approval by the board of directors and will be granted quarterly.
+As of 2021-09-04, offers Restricted Stock Units (RSUs) for all future equity grants for both existing and new team members. 
 
 ### Why the change to RSUs?
 
 * With RSUs, there is no cost to you when you vest (aside from taxes), while exercising stock options could become a significant financial burden for team members.
 * RSUs as an equity vehicle offer greater stability and protection against volatility than stock options. Regardless of market fluctuations, an RSU always has value.
 * RSUs are the industry standard for broad-based grants in firms past the startup stage. Stock options become less effective as a company gets larger, and the transition to RSUs is a normal step in the growth path in order to optimize our equity plans for our team members.
+
+### RSU Vesting & Grant Cadence 
+
+Per our [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) framework, we do not add specific dates to the handbook regarding equity. For more information on grant cadence & vesting, please see the following [slide deck](https://docs.google.com/presentation/d/1x65JGyptF3_eRQHcrESxWkBMEvbn5JVs/edit#slide=id.gf031717001_1_447). 
+
+* RSUs begin vesting on the corresponding grant date.   
+* RSUs are reviewed for approval quarterly. 
+* New Hire: 12.5% vest after ~6 months (depending upon grant date - some new hires may wait a bit longer); remaining RSUs vest quarterly thereafter for 3.5 years (four-year total vest). 
+* Promotion and Refresh Grants do not require a cliff, begin vesting quarterly for four-year vest. 
+
+## FY22 Stock Option Grant Plan Design
+
+Equity may be available to a GitLab team member as part of their overall [Total Rewards package](/handbook/total-rewards/).
+The equity ranges by role are calculated as follows:
+* Minimum Equity Dollar Grant:
+   * Minimum of Compensation Range x Equity Percent 
+* Median Equity Dollar Grant:
+   * Median of Compensation Range x Equity Percent 
+* Maximum Equity Dollar Grant:
+   * Maximum of Compensation Range x Equity Percent 
+
+**Definitions:**
+* [Compensation Range](/handbook/total-rewards/compensation/compensation-calculator/#the-compensation-calculator-formula) is the cash compensation range as seen in the GitLab [Compensation Calculator](https://comp-calculator.gitlab.net/users/sign_in).
+* [Equity Percent](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/main/data/equity_calculator.yml) is a globally consistent percentage of compensation range based on the team member’s job grade.
+   * The Equity Percent by grade will be updated annually in the Compensation Calculator and linked once merged.
+
+
+Note: All equity grants are subject to approval by the Board of Directors and no grants are final until such approval has been obtained. The company reserves the right in its sole discretion to make any adjustments to equity grants including the decision not to make a grant at all.
+
+## New Hire Grants
+
+New hire grants use the formula above multiplied by a New Hire Multiplier.
+The New Hire Multiplier is typically 2, but may vary.
+
+New Hire Grants are [approved](/handbook/stock-options/#administration) by the Board of Directors or its Delegates. 
+
+If you have any questions on what grant should be offered to a new hire, please reach out to the Total Rewards team by email at `total-rewards@gitlab.com`.
+
+### Refresh Grants
+
+As part of the updated [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) process, eligible GitLab team members will be reviewed for a refresh grant once per year. Refresh grants use the formula above to determine the range of equity dollar value a team member may be eligible for in that cycle based on their current role/grade. Refresh grants will [vest](/handbook/stock-options/#vesting) in accordance with the equity plan agreement between GitLab and the team members.
+
+Note: All equity grants are subject to approval by the Board of Directors and no grants are final until such approval has been obtained. The company reserves the right in its sole discretion to make any adjustments to equity grants including the decision not to make a grant at all.
+
+#### Annual Refresh Grant Program Eligibility
+
+Team members may be eligible to participate in the annual refresh grant cycle review if they have completed six months of service with the company. However, participation will be based upon individual team member talent assessments (including if a team member is currently in good standing) and [key talent criteria](https://about.gitlab.com/handbook/people-group/talent-assessment/#key-talent-criteria). Therefore, not all team members will receive a refresh grant in the annual review cycle. Leaders will have discretion on the size of the refresh grant based on talent assessments and equity budget as allocated to each E-group member’s division. All proposed grants will be reviewed by the People team for pay equality. All proposed equity grants are subject to review and approval by the GitLab Board of Directors.
+
+### Promotions
+
+Promotion grants are based on the differential between the new hire equity dollar value at the new grade minus the new hire equity dollar value at the current grade using the median of the compensation range. The vesting schedule for the new equity grant will align to the terms and consitions of the equity plan for [RSUs](#restricted-stock-units). 
+
+Formula for number of Promotion Equity Grant: `(New Hire Equity Grant Dollar Value Median at Promoted Level - New Hire Equity Grant Dollar Value Median at Previous Level)`
+
+For example, if my current role is Backend Engineer and the median new hire equity grant dollar value grant for my role, level, and location is 20,000 USD, and I am promoted to Senior Backend Engineer and the median new hire equity grant dollar value for that role, level, and location is 40,000 USD, the calcuation would be: 40,000 USD - 20,000 USD = 20,000 USD.
 
 ### FAQs
 
@@ -58,152 +112,24 @@ GitLab will be iterating on the content on this handbook page to reflect the upd
 * How will RSUs be withheld for tax purposes?
   * Where available, GitLab would withhold shares to pay the tax, and the team member would receive the net shares.
 
-## About Your Ownership in GitLab
-
-At GitLab we strongly believe in employee ownership in our Company. We are in business
-to create value for our shareholders and we want our employees to benefit from that shared success.
-
-*In the [compensation calculator](https://comp-calculator.gitlab.net/) (only accessible to GitLab team-members and candidates), you can find some more details on the most recent valuations as well as potential valuations.*
-
-This guide is meant to help you understand the piece of GitLab that you’re going to own!
-Its goal is to be more straightforward than the full GitLab 2015 Equity Incentive Plan
-(the “2015 Equity Plan”) and your stock option agreement which you are advised to read,
-which both go into the full legal details.  Please note, however, that while we hope that
-this guide is helpful to understanding the stock options and/or stock issued to you under
-the 2015 Equity Plan, the governing terms and conditions are contained in the 2015 Equity
-Plan and the related stock option agreement. You should consult an employment attorney
-and/or a tax advisor if you have any questions about navigating your stock options and
-before you make important decisions.
-
-Three things must happen for your stock options to be meaningful:
-
-1. You must vest the stock (we have a 1 year cliff and 3 years of vesting after that).
-2. You must stay until we have a liquidation event (or the lock-up period passes in the event we go public), or you have the cash to [exercise your stock after termination](#exercise-window-after-termination).
-3. We must make the company worth more than the liquidation preference.
-
 ## Stock Options
 
-At GitLab, we give equity grants in the form of Incentive Stock Options (ISOs) and
-Non-Qualified Stock Options (NSOs). The difference in these two types of grants are,
-generally, as follows: ISOs are issued to US employees and carry a special form of
-tax treatment recognized by the US Internal Revenue Service (IRS). NSOs are granted
-to contractors and non-US employees. It’s called an option because you have the option
-to buy GitLab stock later, subject to vesting terms, at the exercise price provided at
-the time of grant. Solely for the purposes of example, if you are granted stock options
-with an exercise price of $1 per share of common stock today, and if GitLab grows later
-so its common stock is worth $20 per share, you will still be able to buy the common
-stock upon exercise of your option for $1 per share.
+Equity granted before 2021-09, was delivered in the form of stock options. This section is specific to those at GitLab with stock options.
 
-The reason we give stock options instead of straight stock is that you do not need to
-spend any money to purchase the stock at the date of grant and can decide to purchase
-the stock later as your options vest. In addition, we do not provide straight stock grants
-since this may subject you to immediate tax liabilities. For example, if we granted you
-$10,000 worth of GitLab stock today, you would have to pay taxes on the value of the stock
-(potentially thousands of dollars) for this tax year. If we give you options for $10,000
-worth of stock, you generally don’t have to pay any taxes until you exercise them (more
-on exercising later). Please read the Stock Option section of the [Tax Team](/handbook/tax/#tax-procedure-for-reporting-taxable-gains-on-option-exercises).
+At GitLab, we previously granted equity grants in the form of Incentive Stock Options (ISOs) and Non-Qualified Stock Options (NSOs). The difference in these two types of grants are, generally, as follows: ISOs were issued to US employees and carry a special form of tax treatment recognized by the US Internal Revenue Service (IRS). NSOs were granted to contractors and non-US employees. It’s called an option because you have the option to buy GitLab stock later, subject to vesting terms, at the exercise price provided at the time of grant. Solely for the purposes of example, if you are granted stock options with an exercise price of $1 per share of common stock today, and if GitLab grows later so its common stock is worth $20 per share, you will still be able to buy the common stock upon exercise of your option for $1 per share.
 
-## FY22 Stock Option Grant Plan Design
+### Stock Option Vesting
 
-Stock options may be available to a GitLab team member as part of their overall [Total Rewards package](/handbook/total-rewards/).
-The stock option ranges by role are calculated as follows:
-* Minimum Number of Stock Options:
-   * Minimum of Compensation Range x Equity Percent x Stock Grant Assumption
-* Median Number of Stock Options:
-   * Median of Compensation Range x Equity Percent x Stock Grant Assumption
-* Maximum Number of Stock Options:
-   * Maximum of Compensation Range x Equity Percent x Stock Grant Assumption
-
-**Definitions:**
-* [Compensation Range](/handbook/total-rewards/compensation/compensation-calculator/#the-compensation-calculator-formula) is the cash compensation range as seen in the GitLab [Compensation Calculator](https://comp-calculator.gitlab.net/users/sign_in).
-* [Equity Percent](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/main/data/equity_calculator.yml) is a globally consistent percentage of compensation range based on the team member’s job grade.
-   * The Equity Percent by grade will be updated annually in the Compensation Calculator and linked once merged.
-* [Stock Grant Assumption](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/main/data/equity_calculator.yml), which will be calculated quarterly by GitLab, is typically the spread between the price of the Company’s preferred stock and its most recent 409a valuation.
-   * The Stock Grant Assumption will be updated quarterly in the Compensation Calculator and linked once merged.
-
-Note: All stock option grants are subject to approval by the Board of Directors and no grants are final until such approval has been obtained. The company reserves the right in its sole discretion to make any adjustments to stock option grants including the decision not to make a grant at all.
-
-## New Hire Grants
-
-New hire grants use the formula above multiplied by a New Hire Multiplier.
-The New Hire Multiplier is typically 2, but may vary.
-
-New Hire Grants are [approved](/handbook/stock-options/#administration) during the quarterly [board meeting](https://about.gitlab.com/handbook/board-meetings/#board-meeting-schedule).
-
-If you have any questions on what grant should be offered to a new hire, please reach out to the Total Rewards team by email at `total-rewards@gitlab.com`.
-
-### Refresh Grants
-
-As part of the updated [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) process, eligible GitLab team members will be reviewed for a refresh grant once per year. Refresh grants use the formula above to determine the range of stock options a team member may be eligible for in that cycle based on their current role/grade. Refresh grants will [vest](/handbook/stock-options/#vesting) in accordance with the equity plan agreement between GitLab and the team members.
-
-Note: All stock option grants are subject to approval by the Board of Directors and no grants are final until such approval has been obtained. The company reserves the right in its sole discretion to make any adjustments to stock option grants including the decision not to make a grant at all.
-
-#### Annual Refresh Grant Program Eligibility
-
-Team members may be eligible to participate in the annual refresh grant cycle review if they have completed six months of service with the company. However, participation will be based upon individual team member performance (including if a team member is currently in good standing) and [key talent criteria](https://about.gitlab.com/handbook/people-group/talent-assessment/#key-talent-criteria). Therefore, not all team members will receive a refresh grant in the annual review cycle. Similar to our current annual cash compensation review process, leaders will have discretion on the size of the refresh grant based on performance and equity budget allowance as allocated to each E-group member’s division. All proposed grants will be reviewed by the People team for pay equality. All proposed stock option grants are subject to review and approval by the GitLab Board of Directors.
-
-### Promotions
-
-Promotion grants are based on the differential between the new hire stock options at the new grade minus the new hire stock options at the current grade using the median of the compensation range. The vesting schedule for your new stock option grant will align the date of your promotion.
-
-Formula for number of Promotion Stock Options: `(New Hire Stock Options Median at Promoted Level - New Hire Stock Options Median at Previous Level)`
-
-For example, if my current role is Backend Engineer and the median new hire stock option grant for my role, level, and location is 2,000, and I am promoted to Senior Backend Engineer and the median new hire stock option grant for that role, level, and location is 4,000, the calcuation would be: 4,000 options - 2,000 options = 2,000 options.
-
-### Potential Value Scenarios
-
-The value of the stock options granted depends on potential value scenarios which can be seen using the Equity section of the Compensation Calculator.
-
-## Vesting
-
-Vesting means that you have to remain employed by, or are otherwise a service provider
-to, GitLab for a certain period of time before you can fully own the stock purchased
-under your stock option. Instead of giving you the right to purchase and own all of
-the common stock under your stock option on day one, you get to own the stock under
-your stock option in increments over time. This process is called vesting and different
-companies offer vesting schedules of different lengths. At GitLab, our standard practice
-is to issue options with a four year vesting schedule so you would own a quarter of your
-stock after 12 months, half of your stock after two years, and all of it after 4 years.
-Vesting happens on a monthly basis (so you vest 1/48 of your options each month), but
-many vesting schedules include a cliff. A cliff is a period at the beginning of the
-vesting period where your equity does not vest monthly, but instead vests at the end of
-the cliff period. At most companies, including GitLab, this cliff period is generally
-one year. This means that if you leave your job either voluntarily or involuntarily
-before you’ve worked for a whole year, none of your options will be vested. At the end
-of that year, you’ll vest the entire year’s worth (12 months) of equity all at once.
-This helps keep the ownership of GitLab stock to folks who have worked at the company
+Vesting means that you have to remain employed by, or are otherwise a service provider to, GitLab for a certain period of time before you can fully own the stock purchased under your stock option. Instead of giving you the right to purchase and own all of the common stock under your stock option on day one, you get to own the stock under your stock option in increments over time. This process is called vesting and different companies offer vesting schedules of different lengths. At GitLab, our standard practice is to issue options with a four year vesting schedule so you would own a quarter of your stock after 12 months, half of your stock after two years, and all of it after 4 years. Vesting happens on a monthly basis (so you vest 1/48 of your options each month), but many vesting schedules include a cliff. A cliff is a period at the beginning of the vesting period where your equity does not vest monthly, but instead vests at the end of the cliff period. At most companies, including GitLab, this cliff period is generally one year. This means that if you leave your job either voluntarily or involuntarily before you’ve worked for a whole year, none of your options will be vested. At the end of that year, you’ll vest the entire year’s worth (12 months) of equity all at once. This helps keep the ownership of GitLab stock to folks who have worked at the company
 for a meaningful amount of time.
 
-## Dilution
-
-This section deals with dilution which happens to all companies over time. In general
-companies issue stock from time to time in the future. For example, if company XYZ needs
-to raise money from outside investors, it may need to create new stock to sell to those
-investors. The effect of additional stock issuances by company XYZ is that while you
-will own the same number of shares as you did before such issuance, there will be more
-total shares of outstanding and, as a result, you will own a smaller percent of the
-company -- this is called dilution.
-
-Dilution does not necessarily mean reduced value. When a company raises
-money the value of stock will stay the same because the company’s new valuation will be equal
-to the old value of the company + the new capital raised. For example, if company XYZ
-is worth $100m and it raises $25m, company XYZ is now worth $125m. If you owned 5%
-of $100m before, you now own 4% of $125m (20% of the company was sold, or, said differently,
-your 5% stake was diluted by 20%). The 5% stake was worth $5m before the fundraising, but the 4% stake is still worth $5m after.
-
-Funding rounds can have both primary components and secondary components.
-Primary components result in dilution as described here, but secondary rounds
-are a bit different. Rather than new shares being issued, participants in a
-secondary exchange their funding for existing shares. You can read more in
-[this Quora article](https://www.quora.com/What-is-a-secondary-component-to-a-VC-round/answer/Elad-Gil).
-
-## Stock Splits
+### Stock Splits
 
 Companies from time to time undertake stock splits. A stock split has no economic impact on the stockholder. The split simply increases the number of shares by a certain amount and reduces the price by an equal, offsetting amount. For example, if a stockholder had 1,000 shares at $10.00 per share (total value $10,000), and the Company executed a 2 for 1 stock split, the shareholder would then have 2,000 shares at $5.00 (total value still $10,000). Nothing has changed. Public companies have historically split their stock to lower the stock price so that a broader set of investors could hold shares in the company. The theory being a lower price would make it easier for an individual investor to buy shares. Private companies perform stock splits to make themselves more comparable to other private companies. Companies that undertake IPOs typically go public in accepted trading ranges and then start trading from that point. So private companies will adjust their shares to be able to trade in those ranges at IPO. For further information, read [this article](https://smartasset.com/investing/what-is-a-stock-split).
 
 Effective February 28, 2019 the GitLab Board of Directors approved a 4:1 stock split. All common stock, preferred stock and options were treated exactly the same in the split. The stock split will be reflected in Carta by the end of April. Why 4:1? We chose that ratio so that our shares will be comparable to other companies in our peer group, so that candidates considering coming to work at GitLab can make an informed choice on an “apples to apples” basis. We also took care to not split at too high of a ratio which could result in a [reverse stock split](https://www.bizjournals.com/sanjose/stories/2001/01/15/focus3.html) prior to IPO and that is something we would like to avoid (but can't guarantee in any scenario).
 
-## Exercising Your Options
+### Exercising Your Options
 
 "Exercising your options" means buying the stock guaranteed by your options. You pay
 the exercise price that was set when the options were first granted and you get stock
@@ -221,11 +147,11 @@ termination of services, the company is not obligated to do so. Accordingly you 
 lose some or all of the investment you made. Because we are a young company there are
 lots of risks, so be aware and informed of the risks. Please read this [quora thread about most startups failing](https://www.quora.com/What-is-the-truth-behind-9-out-of-10-startups-fail) and this story of [people paying more in tax for their stock than they get back](http://www.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html).
 
-### Trading Restrictions During 409a Valuations
+#### Trading Restrictions During 409a Valuations
 
 GitLab team members can access the options exercise restriction periods schedule by visiting [this link](https://drive.google.com/file/d/10ECV9zA56zLARuLqhXj6QTNqKOUx-RwC/view?usp=sharing).
 
-### Option Expiration
+#### Option Expiration
 
 If you leave the company, you will generally have [90 days to exercise your option](#exercise-window-after-termination)
 for any shares that are vested (as of the last day of service).
@@ -233,7 +159,7 @@ for any shares that are vested (as of the last day of service).
 In addition, if not otherwise expired (through termination of your employment), your stock
 options expire 10 years after they were issued.
 
-### Exercise Window After Termination
+#### Exercise Window After Termination
 
 Please note that until the [post IPO lockup period](http://www.investopedia.com/ask/answer/12/ipo-lockup-period.asp) has expired (or we are bought) company stock is not liquid. If your employment ends
 for whatever reason, you have a 90 day window to exercise your vested options, or lose them. During this window you would have to pay
@@ -253,15 +179,7 @@ If you leave GitLab after less than a year, your Carta account will stay active 
 
 You can reach a Carta support rep by calling (650) 669-8381 but you will have to enter a support PIN that is associated with you. You can find this PIN by logging into your Carta account, clicking Help, then Contact Us and the PIN will be there.
 
-## Administration
-
-Option grants are approved by the Board of Directors at regularly scheduled quarterly board meetings. After your grant has been approved by the Board you will receive a grant notice by email from [Carta](https://carta.com/) containing information relevant to the grant including the number of shares, exercise price, vesting period and other key terms. We use Carta to administer our stock option program.
-
-You will receive the grant notice to your GitLab email address. Clicking through that email will enable you to set up a user account at Carta. You can find all of the terms and conditions of the stock program as well as your specific grant within the Carta system. You are safe to go ahead and click "Accept" for your grant, no payment or taxes will be incurred to you since you are not [Exercising Your Options](#exercising-your-options), you are simply confirming to GitLab that you accept the grant that was allocated to you.
-
-As a helpful hint we suggest that you add a second, personal email address to your profile. This can be added by clicking on Profile and Security in the bottom left hand corner of the home screen after logging in to Carta.
-
-### How to Exercise Your Stock Options
+#### How to Exercise Your Stock Options
 
 There are two methods to exercise your shares:
 
@@ -300,7 +218,7 @@ Yours Truly,
 //signature
 ```
 
-## Exercise Prices and 409A Valuations
+### Exercise Prices and 409A Valuations
 
 Generally, the exercise price for options granted under the 2015 Equity Plan will be
 at the fair market value of such common stock at the date of grant. In short, “fair
@@ -313,6 +231,10 @@ the better for employees as there is more opportunity for gain. Additionally, a 
 exercise price reduces the cash required to exercise the shares and establish a holding
 period which can have tax advantages in some countries. We describe those in this document
 but as always check with your financial or tax advisor before taking any action.
+
+## Administration
+
+GitLab is currently migrating to a new Administration Tool. The Stock Admin team will update this information as available. 
 
 ## Taxes
 
@@ -419,40 +341,6 @@ their equity because there are complex legal and tax requirements that may apply
 ### References
 
 Our team member Drew Blessing [wrote about what he learned about stock options](http://blessing.io/startups/stock-options/2016/02/15/navigating-your-stock-options.html) after starting to research them because he received them when joining us. His article is greatly appreciated, but any advice is his own, and it is not officially endorsed by GitLab Inc.
-
-## Stock Options Board Meeting Reporting
-
-Each quarter before the board meeting, the Total Rewards Analyst will run a report for the CFO outlining the options pending approval. The process should be:
-
-1. Run the Stock Options Report from BambooHR.
-1. In the Stock Options Folder, create a new Google sheet titled "Stock Options as of YYYY-MM-DD".
-1. Paste the BambooHR Report into a new tab in the sheet for historical reference.
-1. Add new tabs for options that have already been approved (they will be denoted by Yes, No, or N/A).
-1. Any blank "Approved by the Board" options should be added to a new sheet.
-    * Audit options that have been approved by the board, but fall into the current board approval date range. For example, if the cut off for the last board meeting was November 20 and this board meeting is March 5, any grants that indicate approved with an effective date during this time span should be reviewed to ensure they were on a previous approval.
-1. Use the pending options to population the "Option Grant" google doc by creating a new tab with the date of the board meeting.
-1. Update the Fully Diluted Shares as shown in Carta and ensure all formulas are functioning properly.
-1. Copy and paste the information from the pending approval tab to the proper column.
-1. Enter ISO or International as the option type (ISO is for US employees).
-1. Enter country for each participant.
-1. Enter Department for each participant.
-1. For low/high this should reflect the highest and lowest number of options someone in that level was contracted. Leave this blank for promotion.
-1. Run a report on [refresh grants](/handbook/stock-options/#refresh-grants) and add these to the sheet. Note reporting on refresh grants is only applicable for the board meeting directly following an equity refresh review cycle.
-1. Ping the CFO that the report is ready for review.
-1. Verify all options were approved (or not) with the CFO after the board meeting and change the approval in BambooHR to avoid duplications on the next report.
-
-### Audits
-
-**Job Grade (Promotion) Audit**
-1. Pull a historical report of job grades in BambooHR.
-1. Identify any changes in job grade between the last board meeting cut off date and the current cut off date.
-1. Reconcile that each team member who had an increase in grade during this time period has been granted stock options and included on the board meeting report.
-    * If anyone who received an increase in grade, but isn't in the board meeting report: review the original promotion request in BambooHR or Greenhouse for a grant. If not in either of these systems, check whether the grant was missed in the promotion process. If here, process in BambooHR and the report accordingly.
-
-**Previous Board Meeting Audit**
-1. Pull a list of all grants in BambooHR with effective dates within the cutoff dates of the last board meeting.
-1. Compare against the previous board meeting's list of grants that were reviewed and approved.
-1. Ensure all grants that were not included/approved in the previous board meeting have not been marked approved by the board in BambooHR and are included in the current summary for review and approval.
 
 ## Procedures for Issuing Options to Team Members
 
