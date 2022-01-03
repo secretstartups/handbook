@@ -71,6 +71,7 @@ _NOTE: The Insider Trading Policy, Mergers and Acquisitions Committee Charter an
 * [Terms](https://about.gitlab.com/terms/) - legal terms governing the use of GitLab's website, products, and services
 * [Acceptable Licenses](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/licensing.md) - list of acceptable licenses covering third party components used in development
 * [Trademarks training materials](https://about.gitlab.com/handbook/legal/trademarks-training-materials), covering _An Introduction to Trademarks_, _Using Third-party Trademarks_, and _Using the GitLab Trademark_.
+* [Legal Tech Stack](https://docs.google.com/spreadsheets/d/1nLtWVx6mebR7_y2Qv_CcScbVW-ryLVzvcFVgGk2yeRs/edit#gid=686289913)- overview of tools used throughout the GitLab Legal Team. _NOTE: This document is only available to GitLab Legal Team Members_
 
 ## Processes
 * [Uploading Third Party Contracts to ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
