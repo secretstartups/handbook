@@ -152,31 +152,31 @@ Working remotely gives each person the autonomy to serve in a place that matters
 
 Remote enables a more diverse and inclusive workforce, greater efficiency in workflows, and broader global coverage in servicing clients. It significantly de-risks a business, making it more resilient in the face of crises and able to maintain continuity regardless of whether an office is open or closed.
 
-Companies may need to create a [remote leadership team]() and invest in manager training. However, there is little debate on whether this is an option. Remote work will soon simply be "work," with global flexibility an expectation. Companies which have multiple offices already have teams which are remote to one another, and thus need a solid baseline of remote fluency to operate in optimal fashion.
+Companies may need to create a [remote leadership team](/company/culture/all-remote/transition/#make-the-executive-team-remote) and invest in manager training. However, there is little debate on whether this is an option. Remote work will soon simply be "work," with global flexibility an expectation. Companies which have multiple offices already have teams which are remote to one another, and thus need a solid baseline of remote fluency to operate in optimal fashion.
 
 ### Top tier talent, without location being a factor
 
 Limiting your company's recruiting pipeline to a certain geographic region, or sourcing employees who are able and willing to relocate, is a competitive **dis**advantage.
 
-Not only does this create a less [inclusive]() hiring process which reaches a less diverse set of candidates, it forces your organization to compete primarily on the basis of [salary](https://hired.com/page/state-of-salaries).
+Not only does this create a less [inclusive](/company/culture/inclusion/) hiring process which reaches a less diverse set of candidates, it forces your organization to compete primarily on the basis of [salary](https://hired.com/page/state-of-salaries).
 
-Remote organizations are able to hire great people no matter where they live. For example, GitLab has a truly global footprint, with team members in [65+ countries]().
+Remote organizations are able to hire great people no matter where they live. For example, GitLab has a truly global footprint, with team members in [65+ countries](/company/team/).
 
 ### Flexible working hours and availability
 
-With employees located all over the world [working asynchronously](), contributions can continue even when one time zone's working day is over.
+With employees located all over the world [working asynchronously](/company/culture/all-remote/asynchronous/), contributions can continue even when one time zone's working day is over.
 
-- GitLab has a people group KPI stating that the [percent of sent Slack messages that are not DMs be > 50%]().
+- GitLab has a people group KPI stating that the percent of sent Slack messages that are not DMs be > 50%.
 
 ### Happy staff and better productivity
 
-Employees are [more productive with fewer distractions](), so long as leadership is supportive in equipping teams with the requisite tools, structure, and culture to thrive.
+Employees are [more productive with fewer distractions](/blog/2018/03/15/working-at-gitlab-affects-my-life/), so long as leadership is supportive in equipping teams with the requisite tools, structure, and culture to thrive.
 
-- For example, GitLab has a KPI of [65 tickets closed per support staff per month]().
+- For example, GitLab has a KPI of [65 tickets closed per support staff per month](/company/kpis/).
 
 ## Challenges to consider before embracing remote work
 
-Despite all of its [advantages](https://about.gitlab.com/company/culture/all-remote/benefits/), all-remote work isn't for everyone. It can have disadvantages for potential employees depending on their lifestyle and work preferences, as well as the organization. In the spirit of [transparency](https://about.gitlab.com/handbook/values/#transparency), we've outlined potential drawbacks and solutions to these challenges [here](https://about.gitlab.com/company/culture/all-remote/drawbacks/).
+Despite [all-remote having many advantages](/company/culture/all-remote/benefits/), all-remote work isn't for everyone. It can have disadvantages for employees depending on their lifestyle and work preferences, as well as the organization. In the spirit of [transparency](/handbook/values/#transparency), we've outlined [potential drawbacks and solutions to these challenges here](/company/culture/all-remote/drawbacks/).
 
 ## Which is right for your organization?
 
@@ -186,11 +186,11 @@ All-remote work wouldn't be possible without the constant evolution of technolog
 
 ## Determining eligibility for hybrid or remote work
 
-While [job sites](https://about.gitlab.com/company/culture/all-remote/jobs/) and common conversation can lump each remote role into a single category, it's important to realize that not every remote role is created equal. Just as colocated roles need to be evaluated in totality, those seeking to transition into a remote role for the first time should ask certain questions during the interview or evaluation phase.
+While [job sites](/company/culture/all-remote/jobs/) and common conversation can lump each remote role into a single category, it's important to realize that not every remote role is created equal. Just as colocated roles need to be evaluated in totality, those seeking to transition into a remote role for the first time should ask certain questions during the interview or evaluation phase.
 
-There are [various stages of remote work](https://about.gitlab.com/company/culture/all-remote/stages/), which can be easily pictured as a sliding scale. From no-remote to [hybrid-remote](https://about.gitlab.com/company/culture/all-remote/hybrid-remote/) to all-remote, and all points in between, a remote worker's experience in each setting will likely vary. Below, we're highlighting key topics to cover when seeking an understanding of how you'll be treated in a full-time remote role. Additional questions should be considered depending on your specific scenario and familiarity with the hiring company.
+There are [various stages of remote work](/company/culture/all-remote/stages/), which can be easily pictured as a sliding scale. From no-remote to [hybrid-remote](/company/culture/all-remote/hybrid-remote/) to all-remote, and all points in between, a remote worker's experience in each setting will likely vary. Below, we're highlighting key topics to cover when seeking an understanding of how you'll be treated in a full-time remote role. Additional questions should be considered depending on your specific scenario and familiarity with the hiring company.
 
-While there are a growing number of freelance gigs which can be completed remotely, this article is centered around [full-time remote careers](https://about.gitlab.com/company/culture/all-remote/jobs/).
+While there are a growing number of freelance gigs which can be completed remotely, this article is centered around [full-time remote careers](/company/culture/all-remote/jobs/).
 
 ## GitLab remote work policy
 
@@ -208,11 +208,11 @@ All-remote work promotes:
 
 > **"Remote is not a challenge to overcome. It's a clear business advantage."** -Victor, Product Manager, GitLab
 
-GitLab is one of the world's largest all-remote companies with [team members](https://about.gitlab.com/company/team/) located in more than 65 countries around the world.
+GitLab is one of the world's largest all-remote companies with [team members](/company/team/) located in more than 65 countries around the world.
 
 Our all-remote workforce implementation is featured in [The Journal of Organizational Design](https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8). It is also the centerpiece of case studies authored by [Harvard Business School](https://www.hbs.edu/faculty/Pages/item.aspx?num=57917) and [INSEAD](https://publishing.insead.edu/case/gitlab).
 
-Click around to learn more about what "all-remote" really means, [how it works at GitLab](https://about.gitlab.com/company/culture/all-remote/tips/#how-it-works-at-gitlab), some [tips and tricks](https://about.gitlab.com/company/culture/all-remote/tips/#tips-for-leaders-and-other-companies) for remote teams, and [resources](https://about.gitlab.com/company/culture/all-remote/resources/) to learn more.
+Click around to learn more about what "all-remote" really means, [how it works at GitLab](/company/culture/all-remote/tips/#how-it-works-at-gitlab), some [tips and tricks](/company/culture/all-remote/tips/#tips-for-leaders-and-other-companies) for remote teams, and [resources](/company/culture/all-remote/resources/) to learn more.
 
 ## Contribute your lessons
 
