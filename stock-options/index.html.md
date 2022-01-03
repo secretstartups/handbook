@@ -66,7 +66,7 @@ If you have any questions on what grant should be offered to a new hire, please 
 
 ### Refresh Grants
 
-As part of the updated [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) process, eligible GitLab team members will be reviewed for a refresh grant once per year. Refresh grants use the formula above to determine the range of equity dollar value a team member may be eligible for in that cycle based on their current role/grade. Refresh grants will [vest](/handbook/stock-options/#vesting) in accordance with the equity plan agreement between GitLab and the team members.
+As part of the updated [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) process, eligible GitLab team members will be reviewed for a refresh grant once per year. Refresh grants use the formula above to determine the range of equity dollar value a team member may be eligible for in that cycle based on their current role/grade. Refresh grants will vest in accordance with the equity plan agreement between GitLab and the team members.
 
 Note: All equity grants are subject to approval by the Board of Directors and no grants are final until such approval has been obtained. The company reserves the right in its sole discretion to make any adjustments to equity grants including the decision not to make a grant at all.
 
