@@ -26,11 +26,13 @@ twitter_creator: "@gitlab"
 * 2015--GitLab launches with 9 all-remote FTE's
 * 2020--COVID-19 accelerates the validity of all-remote work
 
-## What is the difference between "remote" and "hybrid"
+## What is the difference between "remote" and "hybrid"?
 
 Remote: a work arrangement in which employees do not commute to a central place of work
 
 Hybrid: when workers split their time between conventional in-office work and working remotely
+
+* [Read more about the ten models of remote and hybrid teams](/company/culture/all-remote/stages/) *
 
 <!-- blank line -->
 <figure class="video_container">
@@ -154,11 +156,11 @@ Companies may need to create a [remote leadership team]() and invest in manager 
 
 ### Top tier talent, without location being a factor
 
-Limiting your company's recruiting pipeline to a certain geographic region, or sourcing employees who are able and willing to relocate, is a competitive *dis*advantage.
+Limiting your company's recruiting pipeline to a certain geographic region, or sourcing employees who are able and willing to relocate, is a competitive **dis**advantage.
 
 Not only does this create a less [inclusive]() hiring process which reaches a less diverse set of candidates, it forces your organization to compete primarily on the basis of [salary](https://hired.com/page/state-of-salaries).
 
-You're able to hire great people no matter where they live. For example, GitLab has a truly global footprint, with team members in [65+ countries]().
+Remote organizations are able to hire great people no matter where they live. For example, GitLab has a truly global footprint, with team members in [65+ countries]().
 
 ### Flexible working hours and availability
 
@@ -172,7 +174,7 @@ Employees are [more productive with fewer distractions](), so long as leadership
 
 - For example, GitLab has a KPI of [65 tickets closed per support staff per month]().
 
-## Challanges to consider before embracing remote work
+## Challenges to consider before embracing remote work
 
 Despite all of its [advantages](https://about.gitlab.com/company/culture/all-remote/benefits/), all-remote work isn't for everyone. It can have disadvantages for potential employees depending on their lifestyle and work preferences, as well as the organization. In the spirit of [transparency](https://about.gitlab.com/handbook/values/#transparency), we've outlined potential drawbacks and solutions to these challenges [here](https://about.gitlab.com/company/culture/all-remote/drawbacks/).
 
@@ -186,7 +188,7 @@ All-remote work wouldn't be possible without the constant evolution of technolog
 
 While [job sites](https://about.gitlab.com/company/culture/all-remote/jobs/) and common conversation can lump each remote role into a single category, it's important to realize that not every remote role is created equal. Just as colocated roles need to be evaluated in totality, those seeking to transition into a remote role for the first time should ask certain questions during the interview or evaluation phase.
 
-There are [various stages of remote work](https://about.gitlab.com/company/culture/all-remote/stages/), which can be easily pictured as a sliding scale. From no remote to [hybrid-remote](https://about.gitlab.com/company/culture/all-remote/hybrid-remote/) to all-remote, and all points in between, a remote worker's experience in each setting will likely vary. Below, we're highlighting key topics to cover when seeking an understanding of how you'll be treated in a full-time remote role. Additional questions should be considered depending on your specific scenario and familiarity with the hiring company.
+There are [various stages of remote work](https://about.gitlab.com/company/culture/all-remote/stages/), which can be easily pictured as a sliding scale. From no-remote to [hybrid-remote](https://about.gitlab.com/company/culture/all-remote/hybrid-remote/) to all-remote, and all points in between, a remote worker's experience in each setting will likely vary. Below, we're highlighting key topics to cover when seeking an understanding of how you'll be treated in a full-time remote role. Additional questions should be considered depending on your specific scenario and familiarity with the hiring company.
 
 While there are a growing number of freelance gigs which can be completed remotely, this article is centered around [full-time remote careers](https://about.gitlab.com/company/culture/all-remote/jobs/).
 
@@ -206,11 +208,11 @@ All-remote work promotes:
 
 > **"Remote is not a challenge to overcome. It's a clear business advantage."** -Victor, Product Manager, GitLab
 
-GitLab is one of the world's largest all-remote companies with over 1,500 [team members](https://about.gitlab.com/company/team/) located in more than 65 countries around the world.
+GitLab is one of the world's largest all-remote companies with [team members](https://about.gitlab.com/company/team/) located in more than 65 countries around the world.
 
 Our all-remote workforce implementation is featured in [The Journal of Organizational Design](https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8). It is also the centerpiece of case studies authored by [Harvard Business School](https://www.hbs.edu/faculty/Pages/item.aspx?num=57917) and [INSEAD](https://publishing.insead.edu/case/gitlab).
 
-Click around o learn more about what "all-remote" really means, [how it works at GitLab](https://about.gitlab.com/company/culture/all-remote/tips/#how-it-works-at-gitlab), some [tips and tricks](https://about.gitlab.com/company/culture/all-remote/tips/#tips-for-leaders-and-other-companies) for remote teams, and [resources](https://about.gitlab.com/company/culture/all-remote/resources/) to learn more.
+Click around to learn more about what "all-remote" really means, [how it works at GitLab](https://about.gitlab.com/company/culture/all-remote/tips/#how-it-works-at-gitlab), some [tips and tricks](https://about.gitlab.com/company/culture/all-remote/tips/#tips-for-leaders-and-other-companies) for remote teams, and [resources](https://about.gitlab.com/company/culture/all-remote/resources/) to learn more.
 
 ## Contribute your lessons
 
