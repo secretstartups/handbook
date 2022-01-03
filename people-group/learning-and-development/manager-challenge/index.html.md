@@ -66,13 +66,7 @@ L&D measures the success of the Manager Challenge by the following:
 Participants will complete the following: 
 - Leadership Style Questionnaire
 - Manager Challenge participant profiles 
-- Required pre-reads and any async work
-
-**Sessions:**
-
-| Date | Length  | Description |
-| ------ | ------ | ------ |
-| 2022-02-03 | 50 minute | Live Learning - Introduction to the Manager Challenge |
+- Required pre-reads and async work
 
 ### Week 1 - Developing Your Leadership Style
 
@@ -82,7 +76,7 @@ Week 1 will be focused on developing your leadership style as a manager, differe
 
 | Date | Length  | Description |
 | ------ | ------ | ------ |
-| 2022-02-07 | 1 hr 20 minutes | Session 1: Developing Your Leadership Style. Adaptive DNA as a people leader. |
+| 2022-02-07 | 1 hr 20 minutes | Session 1 - Program Kickoff: Developing Your Leadership Style. Adaptive DNA as a people leader. Introduction to the Manager Challenge |
 | 2022-02-08/09 | Async | Session 2 pre-work |
 | 2022-02-10 | 1 hr 20 minutes | Session 2: Building High Performing Teams or Team Effectiveness Tools |
 | 2022-02-11 | 50 minutes | Optional group coaching and Peer-to-Peer Learning Session |
