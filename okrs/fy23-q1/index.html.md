@@ -30,16 +30,19 @@ The by-the-book schedule for the OKR timeline would be
 ## OKRs
 
 ### 1. CEO: Increase ARR
+[Epic 1696](https://gitlab.com/groups/gitlab-com/-/epics/1696)
    1. **CEO KR:** Achieve first order large SAOs on yearly plan
    1. **CEO KR:** Achieve X% of ARR on cloud licensing
    1. **CEO KR:** Rollout Project Matterhorn
 
-### 2. CEO: Improve user engagement
+### 2. CEO: Improve User Engagement
+[Epic 1697](https://gitlab.com/groups/gitlab-com/-/epics/1697)
    1. **CEO KR:** Start to implement strategy between marketing and engineering to grow to 1000 code contributors per month. X active contributors per month in the quarter
    1. **CEO KR:** Have X badges earned
    1. **CEO KR:** Define technical content strategy for users. 6 technical articles that trend on Hacker News in the quarter for each of Dev, Sec, and Ops (18 total)
 
-### 3. CEO: Management development
+### 3. CEO: Management Development
+[Epic 1698](https://gitlab.com/groups/gitlab-com/-/epics/1698)
    1. **CEO KR:** [Update Key Reviews](/handbook/key-review/ (with [11 cross-functional initiatives](https://about.gitlab.com/company/team/structure/working-groups/#11-cross-functional-initiatives), [Group Conversations](/handbook/group-conversations/, and [OKRs](/company/okrs/) (in a new platform)
    1. **CEO KR:** Launch Directs Group with 4.5/5 feedback score for meetings
    1. **CEO KR:** Have X people complete a management course
