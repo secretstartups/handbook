@@ -16,23 +16,27 @@ description: "GitLab Data Team Internships"
 
 ## <i id="biz-tech-icons" class="far fa-paper-plane"></i>Introduction
 
-Welcome to the **Data Team Internship Program** page. The Program is launching in 2022 and we are seeking to help all team members experience life in the fast-paced, results-oriented, and rapidly-evolving world of Data!
+Welcome to the **Data Team Internship Program** page. The Program is launching in 2022 and we are excited to help interested GitLab team members experience life in the fast-paced, results-oriented, and rapidly-evolving world of Data!
 
 - **Slack Channel**: `#data`
+- **[Internship for Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internship-for-learning)**
+- **[Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md)**
 
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> The 2022 Data Team Internship Program
 
-The 2022 Program will follow the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning), focused on supporting existing GitLab Team Members. Later in the calendar year we will evaluate extending the program to support non-GitLab Team Members and traditional internships for undergraduates and individuals interested in a new career.
+The initial focus of the 2022 Program will be **Data Internship for Learning**, following to the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) and focused on supporting career development of existing GitLab Team Members. Later in 2022 we will evaluate extending the program to support non-GitLab Team Members and traditional internships.
+- `AT LAUNCH`: Data Internship for Learning and current GitLab Team Members
+- `POTENTIALLY LATER`: Data Internship for non GitLab Team Members
 
-At launch in January 2022, the Data Team Internship Program will be structured as follows:
-- Follow the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning)
+### How Does The Data Team Internship Work?
+
+A GitLab Team Member Data Team Internship follows [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) guidelines. In addition, given the rapid growth of the Data Team, we are seeking to partner every Intern with a current Data Team member who is interested in exploring their own career development towards a [Leadership](/handbook/people-group/learning-and-development/new-to-leadership/#new-to-leadership-and-management) role, such as a Team Lead specialization or [Data Management](https://about.gitlab.com/job-families/finance/manager-data/) role. In this model an Intern is paired with a current Data Team Mentor/Manager and this partnership and shared commitment to both team member's development is critical to the program's success. 
+
+At launch in January 2022, **Data Internship for Learning** will be structured as follows:
+- Follows the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning)
 - Open to only current GitLab Team Members
 - Intern time allocation should range from 25%-50%, with a 3-month commitment
-- Data Team Mentor/Manager time allocation should range from 15-25%, with a 3-month committment
-
-### How Does A Data Team Internship Work?
-
-A GitLab Team Member Data Team Internship follows [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) guidelines. Given the rapid growth of the Data Team, we are seeking to partner every Intern with a Data Team member who is interested in their own career development towards a Team Lead specialization or [Data Management](https://about.gitlab.com/job-families/finance/manager-data/) role. With this model, each Intern is assigned a Data Team Mentor/Manager and this partnership and shared commitment to both team member's development is critical to the program's success. 
+- Data Team Mentor/Manager time allocation should range from 15-25%, with a 3-month commitment
 
 ```mermaid
 graph LR
@@ -50,17 +54,19 @@ Requests to create a Data Team Intern position will be evaluated on the followin
      * How established is the team the intern will be joining? Is this an established team with processes, roles, a roadmap, and backlog?
      * Will the team be able to take on an intern without risking a decrease in velocity?
      * Would the team benefit from an intern to support a more senior member's career development, to introduce new perspectives, or to accelerate the roadmap in one or more areas.
-1. Mentorship Commitment
-     * Does the team have a manager and 1-2 individual contributors committed to serve as mentors for the duration of the program?
-     * Do the mentors have previous experience mentoring interns or junior engineers? Previous experience is a nice-to-have, but not a must-have.
-1. Workload
      * Does the team have a roadmap containing low weight issues with few dependencies suitable for an intern?
-1. Time Commitment
-     * Can the intern AND mentor commit to a 3-month program, including regular meetings and progress reviews? 
+1. Mentor/Manager Commitment
+     * Do the mentors/managers have previous experience mentoring interns or junior engineers? Previous experience is a nice-to-have, but not a must-have.
+     * Are the mentors/managers interested in Leadership development?
+     * Can the mentor commit to a 3-month engagement, including regular meetings and progress reviews? Are there potentially extended out-of-office periods that would affect the internship experience?
+1. Intern Commitment
+     * Can the intnern commit to a 3-month engagement, including regular meetings and progress reviews? Are there potentially extended out-of-office periods that would affect the internship experience?
 
-If the answer to these questions is **YES**, there is a good chance the internship is a fit.
+If the answer to these questions is **YES**, there is a great chance the internship is a fit for all team members.
 
 #### Data Team Internship KPIs
+
+KPIs we will use to measure success of an individual internship are as follows:
 
 1. Successfull Data Team Onboarding within 30 Calendar Days
 1. Monthly Progress Report and Feedback issue
