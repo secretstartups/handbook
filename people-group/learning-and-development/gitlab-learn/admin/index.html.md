@@ -344,6 +344,12 @@ If a course is required by specific users to complete, it's best pracitce to ass
      1. Is it absolutely required by the learner? If not, use the `Share` method instead of making an assignment
      1. Assign content during the work week, during a time where as many team members as possible will see the assignment email and/or Slack announcements about the newly assigned contnet
 
+#### Admin hierarchies for assigning content
+
+Who a user can assign content to is dependent on their `Role` in the platform. The following table explains the hierarchy of who can assign content to different audiences in Edcast.
+
+![hierarchy-table](/handbook/people-group/learning-and-development/gitlab-learn/admin/assign-functionality-table.png)
+
 
 #### Using groups
 
