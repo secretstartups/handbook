@@ -3,16 +3,49 @@ layout: markdown_page
 title: "Production Readiness Process"
 ---
 
-The Production Readiness process defines requirements for a service, or a group of services, to be running in a production environment and receiving customer facing traffic.
+The Production Readiness process defines requirements for a service, or a group
+of services, to be running in a production environment and receiving customer
+facing traffic. This document will serve as a snapshot of what is being
+deployed and is not meant to be constantly updated.
+
+This facilitates collaboration between service owners and SREs to share
+and help bridge any gaps about a new service.
+
+By creating a [merge request](#starting-a-proposal), the questions and answers
+are raised at specific points in the documentation. Information in issues can
+easily get lost given that the document is point of discussion. See an [example
+of final review merge request].
+
+Our process losely follows the [production readiness
+review](https://sre.google/sre-book/evolving-sre-engagement-model/) from the
+SRE book. The goal of the readiness review is to make sure we have enough
+documentation, observability and reliability. Each significant production
+change requires a new readiness document to iterate us to a more reliable
+and well architected system.
+
+## When to start readiness process
+
+The readiness review is the last step before the services starts serving
+production traffic. However this doesn't mean you shouldn't take readiness
+review in consideration when you are developing and designing the service.
+
+You should start the [proposal issue](#starting-a-proposal) when you start
+designing the service and take them into consideration, so when it comes to
+writing the actual production readiness review you already addressed most of them.
+
+If it's not clear on what is needed to make a service scale for GitLab.com,
+engage with SRE on the design phase to receive guidance on the direction.
 
 ## Starting a proposal
 
 The Production Readiness process is authored by the DRI of the work that is being delivered.
 
-The author [creates an issue](https://gitlab.com/gitlab-com/gl-infra/readiness/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) using the [issue template] in the [readiness project].
-
-Once the issue is created, the author creates a merge request in the [readiness project] based on the
-structure defined in the project readme, and the content of the issue.
+1. The author [creates an
+   issue](https://gitlab.com/gitlab-com/gl-infra/readiness/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=)
+   using the [issue template] in the [readiness project].
+1. Once the issue is created, the author creates a merge request in the
+   [readiness project] based on the structure defined in the project readme,
+   and the content of the issue.
 
 As a reference, see the [example merge request].
 
@@ -29,10 +62,6 @@ propose candidates for final review. In principle, further reviewers should have
 
 When final reviewers have been selected, author creates a merge request for each group of
 candidates conducting the final readiness review.
-
-By creating a merge request, the questions and answers are raised at specific points in the
-documentation. Information in issues can easily get lost given that the document
-is point of discussion. See an [example of final review merge request].
 
 Final review merge request can be created using the following guideliness:
 
@@ -66,10 +95,14 @@ line by line. Leave questions inline as you would with regular code review.
 Once sufficiently happy with the changes addressing raised remarks, unassign yourself
 from the issue to indicate that your part of review is completed.
 
+## Merging the readiness review
+
 Once all comments have been addressed or due date of the merge request has been reached,
 changes will be merged and the author of the proposal will continue with enabling the service in
 production.
 
+The document itself has served its purpose and is there to hold as a snapshot
+of the time we deployed the service and discussions that went around it.
 
 [readiness project]: https://gitlab.com/gitlab-com/gl-infra/readiness
 [example merge request]: https://gitlab.com/gitlab-com/gl-infra/readiness/merge_requests/1
