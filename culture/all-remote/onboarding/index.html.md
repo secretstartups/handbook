@@ -147,6 +147,41 @@ At GitLab, we value documentation in a manner that creates a [single source of t
 
 To help alleviate [anxiety from starting a new job](http://www.classycareergirl.com/2017/02/new-job-anxiety-conquer/), GitLab assigns onboarding buddies for new GitLab team members. To help new GitLab team-members who may not be used to our [all-remote](/company/culture/all-remote/) culture, the onboarding buddy is ready, willing, and excited to help a new team member acclimate, answer questions, or troubleshoot any challenges or problems along the way.
 
+## Remote onboarding tips
+
+### How is onboarding a remote employee different from an office employee?
+Because remote onboarding is mostly self-guided, the real-time face-to-face ability for them to ask questions does not exist. Knowing this, we've created some important reminders for onboarding remote employees such as:
+
+1. **Check how far the new GitLab team-member has gotten in their onboarding / career mobility issue.** The onboarding / career mobility issue that all new/transitioning GitLab team-members are assigned can be overwhelming at first glance, particularly on the first day of work. Proactively check in to offer some direction or advice on areas the team member may be having trouble with.
+1. **Suggest helpful handbook pages.** Chances are that you've discovered some particularly helpful pages in the handbook during your time at GitLab. Point them out to the new GitLab team-member, and help them get used to navigating the handbook. Some examples might include:
+    - [GitLab's guide for starting a remote role](/company/culture/all-remote/getting-started/)
+    - [The tools page](/handbook/tools-and-tips)
+    - [The internal-only org chart](https://comp-calculator.gitlab.net/org_chart)
+    - [The positioning FAQ](/handbook/positioning-faq)
+1. **Remind them about introducing themselves.** Remind the new team member to introduce themselves in the Slack channel `#new_team_members` or relevant team channel. Encourage them to write a little personal note, and if they're comfortable, include a photo or two!
+1. **Encourage them to organize a group call with other new hires.** New GitLab team-members who are used to (or prefer) a more conventional new hire orientation — frequently hosted in group settings in colocated organizations — [may feel a lack of early bonding](/company/culture/all-remote/learning-and-development/). Encourage them to organize a group call with other new hires in order to walk through onboarding together, while learning about new personalities and [departments of the company](/company/team/structure/).
+1. **Introduce them to Slack.** Slack may seem like it's ubiquitous, but that doesn't necessarily mean the new GitLab team-member will have had experience using it before. Since it's a central part of how we communicate at GitLab, consider showing them around, and give them some pointers about [how we use it](/handbook/communication/#chat).
+    - Be sure to suggest [location channels](/handbook/communication/chat/#location-channels-loc_) and [Social Slack Groups](/handbook/communication/chat/#social-groups) where they can immediately plug in with other team members who appreciate similar things.
+1. **Ask where they need help and connect them with the experts**. Connect new GitLab team-members with subject matter experts if your assigned team member requests additional help in a given area. Examples are below.
+    - For new GitLab team-members who have not worked in a [remote organization](/company/culture/all-remote/) before, they may need assistance in thinking through an ideal [workspace](/company/culture/all-remote/workspace/) and embracing [informal communication](/company/culture/all-remote/informal-communication/). Consider asking seasoned remote colleagues in the `#remote` Slack channel to reach out and answer questions.
+    - If they're new to [Git](/learn/), consider asking experts in the `#git-help` Slack channel to reach out and offer a tutorial.
+    - If they're new to [Markdown](/blog/2018/08/17/gitlab-markdown-tutorial/), consider asking experts in the `#content` Slack channel to reach out and offer support.
+1. **Help with the team page.** For less technical new hires, adding themselves to the [team page](/company/team/) might feel like the most daunting task on the onboarding issue. Offer to help with the process. This doesn't necessarily have to happen on day one, but you should let them know that you're available to help if and when they need it. Consider scheduling a second meeting later in the week to walk them through [the process](/handbook/git-page-update/#11-add-yourself-to-the-team-page)
+    - In particular, help them to create their SSH key as this tends to be a sticking point for many new hires. You can also show them [Lyle's walkthrough](https://youtu.be/_FIOhk03VtM).
+1. **Check in regularly.** Checking in regularly will help them feel welcome and supported. 
+1. **Provide backup if needed**. If you plan to be out (e.g. [vacation](/handbook/paid-time-off/), [company business](/handbook/travel/), [events](/events/), etc.) during a new GitLab team-member's first few weeks, please ensure that a backup person is available to offer support.
+
+### What are some tips to plan an effective employee onboarding training?
+Best practices for effective onboarding include clear **communication**. A few tips reminding new hires that GitLab:
+
+* Encourages people to write down all information
+* Allows everyone in the company to view and edit every document
+* Considers every document a draft, don't wait to share until it's done
+* Use screenshots in an issue tracker instead of a whiteboard, ensuring that everyone at any time can follow the thought process
+* Encourages non-work related communication for relationship building
+* Encourages group video calls for bonding
+* Encourages one-on-one video calls between people (as part of onboarding)
+
 ## High-touch and low-touch flexibility
 
 The beauty of an all-remote setting is that onboarding can be as high-touch or low-touch as a new hire wishes. Those who prefer visual learning can engage in a series of video calls and screenshare sessions to walk through each element of their onboarding issue. Those who prefer more self-learning can benefit from thorough documentation and readily-available resources for self-guided learning.
