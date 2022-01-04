@@ -3,7 +3,7 @@ layout: job_family_page
 title: Data Science
 ---
 
-The Data Science program at GitLab focuses on developing model-based insights to help us understand our business, customers, and product better. Data Scientists work across the entire development lifecycle, from inception to final delivery. As a result of helping GitLab understand major trends across our business, Data Scientists make significant strategic contributions to new and existing business initiatives.
+The [Data Science program](/handbook/business-technology/data-team/organization/data-science/) at GitLab focuses on supporting internal teams and developing model-based insights to help us understand our business, customers, and product better. Data Scientists work across the entire development lifecycle, from inception to final delivery. As a result of helping GitLab understand major trends across our business, Data Scientists make significant strategic contributions to new and existing business initiatives.
 
 Data Scientists work with peers on the Data Team and functional teams to:
   * perform ad-hoc exploratory analysis
@@ -119,7 +119,7 @@ The Staff Data Scientist is a [grade 8](/handbook/total-rewards/compensation/com
 
 #### Responsibilities
 
-The Senior Data Scientist has all of the responsibilities of an Intermediate Data Scientist, plus:
+The Staff Data Scientist has all of the responsibilities of a Senior Data Scientist, plus:
 
 *  Improve predictive models with data from multiple models 
 *  Automate feedback loops for algorithms/models in production  
@@ -129,7 +129,7 @@ The Senior Data Scientist has all of the responsibilities of an Intermediate Dat
 
 #### Requirements
 
-The Staff Data Scientist meets all of the requirements of an Intermediate Data Scientist, plus:
+The Staff Data Scientist meets all of the requirements of a Senior Data Scientist, plus:
 
 * 6+ years professional experience in an analytics role
 * 4+ years professional experience in a predictive analytics, data science, or similar role
@@ -150,7 +150,7 @@ The Staff Data Scientist meets all of the requirements of an Intermediate Data S
 
 #### Job Grade
 
-The Principal Data Scientist is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Data Scientist is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
