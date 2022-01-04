@@ -16,11 +16,16 @@ description: "GitLab Data Team Internships"
 
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> Data Team Internships
 
-In Calendar 2022 the Data Team is launching a pilot Internship program and seeks to experiment with the program over the course of 2022 to determine its long-term viability. The Calendar 2022 Data Team Internship program is modeled after the [Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) and is only open to current GitLab Team Members. The Program is not applicable to non-GitLab Team Members and there are no requisitions created as a part of the current program.
+The **Data Team Internship Program** is launching in 2022 and we are seeking to help all team members experience life in the fast-paced, results-oriented, and rapidly-evolving world of Data! The initial focus of the 2022 Program will follow the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) which is focused on supporting existing GitLab Team Members and later in the calendar year we will evaluate extending the program to support non-GitLab Team Members. Over the course of 2022 we will evaluate results, towards considering the program for long-term viability and structure.
+
+At launch in January 2022, the Data Team Internship Program will be structured as follows:
+- Follow the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning)
+- Open to only current GitLab Team Members
+- Time allocation should range from 25%-50%, with a 3-month commitment
 
 ### How Does A Data Team Internship Work?
 
-Refer to [Career Development]/handbook/people-group/learning-and-development/career-development/#how-does-this-work) for general guidelines. The specific criteria of Data Team Internship are covered in the next section.
+A GitLab Team Member Data Team Internship follows [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) guidelines.
 
 #### Criteria For All Data Team Internships
 
@@ -42,7 +47,7 @@ If the answer to these questions is **YES**, there is a good chance the internsh
 
 #### What Does A Data Team Intern Do?
 
-The internship program will give you insight into the [Data Team role](/handbook/business-technology/data-team/organization/#data-roles-and-career-development) by providing you opportunities to contribute through it. You will be fully integrated into the team through Data Onboarding and be assigned **real** projects that contribute to Quarterly Objectives and the [Data Team Roadmap](/handbook/business-technology/data-team/direction/). In the GitLab Data Team we believe in full end-to-end ownership of the work we do, ranging from requirements gathering all the way to production deployment and operations. During your internship you will be assigned a Senior team member as a mentor-manager, who will help you to navigate in daily tasks.  Examples of your tasks will include:
+An internship gives you insight into a [Data Team role](/handbook/business-technology/data-team/organization/#data-roles-and-career-development) by providing you opportunities to contribute through it. You will be fully integrated into the team through Data Onboarding and be assigned **real** projects that contribute to Quarterly Objectives and the [Data Team Roadmap](/handbook/business-technology/data-team/direction/). In the GitLab Data Team we believe in full end-to-end ownership of the work we do, ranging from requirements gathering all the way to production deployment and operations. During your internship you will be assigned a Senior team member as a mentor-manager, who will help you to navigate in daily tasks.  Examples of your tasks will include:
 
 - Requirements gathering
 - Extraction of data from various sources to support project’s objective
