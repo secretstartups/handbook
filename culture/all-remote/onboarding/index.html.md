@@ -119,6 +119,22 @@ Onboarding is an investment in the long term success of new hires and in the com
 
 When [hiring in an all-remote organization](/company/culture/all-remote/hiring/), a cohesive onboarding process is especially important because not only do you have to give new hires the information they need to do their jobs, you have to empower them to think remotely as well. Remote onboarding relies heavily on [documentation](/company/culture/all-remote/management/#scaling-by-documenting), anticipating the needs of new team members, and a dedication to continuously improving the process based on feedback.
 
+## Remote onboarding best practices
+
+* Outline work logistics and expectations
+At GitLab, we believe the best way to operate is by [documenting](/company/culture/all-remote/management/#scaling-by-documenting) processes, guides, solutions, how-tos, and policies. Be sure to empower remote workers to  adopt [remote-first communication and workflow practices](/company/culture/all-remote/how-to-work-remote-first/).
+
+* Identify employee concerns and answer questions
+GitLab is committed to [transparency](/handbook/values/#results). This value gives team members access to a great deal of visibility to what is going on throughout the organization. However, it does not negate the need to invite employees to ask questions.
+
+* Add some excitement
+In addition to the [increcible benefits of all-remote work](/company/culture/all-remote/benefits/), getting to network and interact with their team, whether remote or [in-person](/company/culture/all-remote/in-person/) is part of what makes work fun and exciting, especially in an all-remote [culture](/company/culture/). 
+
+Here's our list of more than 20 ways to participate in a happy, healthy [informal work culture](/company/culture/all-remote/informal-communication/). 
+
+* Schedule check-ins with new employees
+It's a good idea to schedule weekly [1-1 meetings](/handbook/leadership/1-1/) to field questions, ask about any challenges, or focus on areas to grow and build trust. Managers can supplement formal meetings with [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats) where no work is discussed, the goal is to simply listen, share, and have open conversations and nurture the social component of remote working. 
+
 ## High-touch and low-touch flexibility
 
 The beauty of an all-remote setting is that onboarding can be as high-touch or low-touch as a new hire wishes. Those who prefer visual learning can engage in a series of video calls and screenshare sessions to walk through each element of their onboarding issue. Those who prefer more self-learning can benefit from thorough documentation and readily-available resources for self-guided learning.
