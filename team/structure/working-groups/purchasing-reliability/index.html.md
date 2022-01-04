@@ -118,6 +118,11 @@ defining a clear vision and team/service boundaries going forward.
 | Member                | Bryan Wise            | VP of IT                                        |
 | Member                | Robert Rea            | Senior Director, IT Ops                         |
 | Member                | Chase Southard        | Engineering Manager, Fulfillment:Utilization    |
+| Member                | James Lopez           | Engineering Manager, Fulfillment:License        |
+| Member                | Ragnar Hardarson      | Engineering Manager, Fulfillment:Purchase       |
+| Member                | Etienne Baqué         | Senior Backend Engineer, Fulfillment:Utilization    |
+| Member                | Tyler Amos            | Staff Backend Engineer, Fulfillment:License        |
+| Member                | Qingyu Zhao           | Senior Backend Engineer, Fulfillment:Purchase       |
 | Member                | Daniel Parker         | Senior Integrations Engineer, Business Technology |
 | Member                | Mark Quitevis         | Senior Business Systems Analyst, Business Technology |
 | Member                | Courtney Meddaugh     | Senior Business Systems Analyst, Business Technology |
