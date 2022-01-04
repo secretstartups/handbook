@@ -249,6 +249,8 @@ Clicking the background of a person's card expands it to reveal additional infor
 1. Clicking on the card will expand it to reveal information on the team member's current grants and custom notes. The custom notes that are important for review on the tab is the team member's Total Unvested Equity and Value Vesting.
 * ![Stock Tab](/images/handbook/people-group/stock-compaas.png)
 
+Note: The equity values for Spain and Denmark are 1/4th of the refresh range. This is due to local compliance regulations around equity vesting. All grants in Denmark & Spain will be annual refresh grants vesting quarterly over 1 year. 
+
 **Saving & Submitting**
 1. The slate can be saved as a draft at any time. When you choose to "Save and Submit", you will see a screen summarizing your proposed raises. You may choose to cancel, leaving the slate in a draft state, or "Submit and Lock" which automatically submits your recommendations for approval to the next level manager.
 * ![slate owner submit](/images/handbook/people-group/slate-save.png)
