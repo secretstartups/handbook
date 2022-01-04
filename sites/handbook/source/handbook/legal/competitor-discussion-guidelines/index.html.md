@@ -29,4 +29,4 @@ Do:
 Do not:
 * Publicly share screenshots of competitor products without commentary or critical analysis.
 * Initiate, or engage in, discussions proposing plans or suggesting that there are plans to directly copy competitor product features verbatim, whether or not such discussions include screenshots of competitor products. For example, discussion of a proposal to copy verbatim collaborate.ly's implementation of merge commit messages is not permissible. 
-* Publicly share screenshots of competitor products taken directly from products via a free trial, or a free or paid account.
+* Publicly share screenshots of competitor products taken directly from products via a free trial, or a free or paid account when initiating or engaging in discussions about competitor product features.
