@@ -202,8 +202,6 @@ While some GitLab team-members may not receive an increase due to already being 
   <iframe src="https://drive.google.com/file/d/10U64VYWCNjqjw6MxarAx6ko5inDayc8_/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Please note: The Total Rewards team is currently updating the information below for the FY23 Annual Compensation Review Cycle. As we finalize the documentation the "todos" will be removed. 
-
 [Compaas](https://www.compa.as/) is GitLab's compensation platform where managers can login, review, change, and submit their proposed increases during Annual Compensation Review.
 
 ### Logging into Compaas 
