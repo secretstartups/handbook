@@ -85,19 +85,27 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 
 #### Work Exception
 
-If a project is going to go over the alloted time/budget, open a work exception to get approvals from PS leadership by [creating a Work Exception type issue in PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-exception)
+A Work Exception is used by a PM when seeking approval for a project to go over the alloted time/budget. Use the [Work Exception issue template](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-exception) to gain approvals from PS leadership. 
 
 
 #### Change Order
 
-Change orders are common elements of Professional Services engagements.  Apply the following steps to create a change order issue, which describes the change order process.
-* Note the engagement Epic number
+Change orders are common elements of Professional Services engagements that can modify the scope, duration, or cost of an ongoing project.  A change order is typically created by the PM, with assistance of the EM when there is a change in scope.  Common scenarios for change orders are:
+- the start and end dates of a project are different than what's reflected in the SOW - a $0 change order reflects the new project estimated start and end dates
+- part of the scope of the project changes - the scope change might be handled within the original SOW duration and budget, in which case a $0 change order is created, or it might increase the original scope, and the customer will pay for the additional work.  The change order in the latter case would be associated with a new PS opportunity for the amount of the increase in scope.  A new Mavenlink project will then be created to work through the additional scope.
+- an existing project will be extended, with similar project activities and deliverables as the original scope, and the customer agrees to use the original SOW as the contract vehicle for the added work.  In this case, a change order is created and associated to a new PS opportunity that refects the amount of the PS extension.  Note: if the extension of work is for a different project, i.e. has different activities and deliverables, is not contiguously delivered with the original project, and/or will be staffed with different people, then in most cases, a new SOW should be used rather than creating a change order against the original SOW.  The new SOW will have its own scoping issue, be linked to the appropriate PS opportunity, and will create a new project in Mavenlink for staffing and tracking the engagement process.
+
+Apply the following steps to create a change order issue for tracking and approval purposes
+* Note the engagement Epic number and the scoping issue number
 * [Create a Change Order type issue in PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=change-order&issue%5Btitle%5D=Change%20Order)
-* Replace `<!-- ADD CUSTOMER EPIC NUMBER HERE, e.g. &65-->` at the bottom of the description with the epic number e.g. `&65` 
+* Replace `<!-- ADD CUSTOMER EPIC NUMBER HERE, e.g. &65-->` at the bottom of the description under **Quick Actions** with the epic number e.g. `&65` 
+* Replace `<!-- ADD SCOPING ISSUE NUMBER HERE, e.g. #1234-->` at the bottom of the description under **Quick Actions** with the scoping issue number e.g. `#1234` 
 
 #### Work At Risk
 
-When work at risk is sought, apply the following steps to create a work at risk issue, which describes the work at risk process.
-* Note the engagement Epic number
+Work at Risk (WAR) is used when seeking approval from PS leadership to staff or start work on a project proior to paperwork being fully executed. Work at risk approvals should be sought in all cases where we need to commit to project start dates for a project (consulting or training) before we have a fully closed opportunity, whether or not the project work actually starts before the opportunity closes.  The WAR should be created by an EM, Regional Manager, or Project Coordinator at the appropriate time in the pre-sales process to effectively manage the staffing of the project.  When work at risk is sought, apply the following steps to create a work at risk issue, which describes the work at risk process.
+* Note the engagement Epic number and the scoping issue number (for new SOW not yet closed) or change order number (for scope change/addition)
 * [Create a Work at Risk type issue in PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-at-risk&issue%5Btitle%5D=Work%20at%20Risk)
-* Replace `<!-- ADD CUSTOMER EPIC NUMBER HERE, e.g. &65-->` at the bottom of the description with the epic number e.g. `&65` 
+* Replace `<!-- ADD CUSTOMER EPIC NUMBER HERE, e.g. &65-->` at the bottom of the description under **Quick Actions** with the epic number e.g. `&65` 
+* Replace `<!-- ADD ISSUE NUMBER OF SCOPING OR CO ISSUE HERE, e.g. #1234-->` at the bottom of the description under **Quick Actions** with the scoping/change order issue number e.g. `#1234` 
+
