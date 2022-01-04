@@ -48,6 +48,10 @@ graph LR
     step_manager_final-->stop
 ```
 
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1cd9WHdBGJRayT1TnnW6wPJA6ZQ6qON28/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Eligibility
 
 Eligible team members for Annual Compensation Review have a hire date on or before: 
@@ -105,6 +109,10 @@ For internal transfers, Total Rewards will need a list of active applicants from
 Any compensation changes that result from Annual Compensation Review will have an effective date of 2022-02-01. If a manager anticipates that a promotion is more suitable to process for a team member, the manager has the option to remove the team member out of the Annual Compensation Review process and process a promotion through Compaas (more details to come). If this is the case, please send an email to Total Rewards no later than 2021-12-08.
 
 ## Talent Assessment and Annual Compensation Review 
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1qn1vOhpuMWPXxcE9VLjg6ymJLzmL6T68/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 Performance and Growth Factors are assessed as part of the [Talent Assessments](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix).  The factors (developing - performing - exceeding) will be used as an input to calibrate on compensation increases, reinforcing GitLab’s pay for performance Compensation Philosophy.
 
@@ -189,6 +197,10 @@ It is very important that GitLab team-members understand their performance and h
 While some GitLab team-members may not receive an increase due to already being at the right [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) for their Level, Role, and Location, there are other circumstances where an increase should be avoided. If there are any reasons as to why the team member should not receive the proposed increase to be aligned with market rates in our calculator, please email total-rewards@ domain with the reasoning and cc your People Business Partner. This could be due to a current performance issue, pending termination, etc. If you would like to delay the increase, please outline a proposed plan of action and deadline. Team members who are currently struggling to perform at their current level should have that communicated clearly and the manager should consider delaying the increase until performance reaches a commendable level.
 
 ### Manager Review in Compaas
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/10U64VYWCNjqjw6MxarAx6ko5inDayc8_/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 Please note: The Total Rewards team is currently updating the information below for the FY23 Annual Compensation Review Cycle. As we finalize the documentation the "todos" will be removed. 
 
