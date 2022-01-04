@@ -182,6 +182,28 @@ Best practices for effective onboarding include clear **communication**. A few t
 * Encourages group video calls for bonding
 * Encourages one-on-one video calls between people (as part of onboarding)
 
+## Common remote onboarding challenges 
+
+## Remote first company culture
+For many, building a [remote first culture](company/culture/all-remote/how-to-work-remote-first/) is challenging, but worthwhile. **Culture is the barometer of how well an organization is communicating and reinforcing its values**. 
+
+Culture is created when a company's values are prescriptively articulated and visibly [reinforced](/handbook/values/#how-do-we-reinforce-our-values) through elements such as [discretionary bonuses](/handbook/incentives/#discretionary-bonuses) and linking promotions to values. 
+
+## Remote first company values
+GitLab's six core values are
+[**🤝 Collaboration**](#collaboration),
+[**📈 Results** ](#results),
+[**⏱️ Efficiency**](#efficiency),
+[**🌐 Diversity, Inclusion & Belonging**](#diversity-inclusion),
+[**👣 Iteration**](#iteration), and
+[**👁️ Transparency**](#transparency),
+and together they spell the **CREDIT** we give each other by assuming
+good intent.
+
+## How to evaluate your existing onboarding process
+In the spirit of [transparency](/handbook/values/#transparency), GitLab's People Experience team will evaluate the onboarding process by having new employees fill out an [Onboarding Survey](https://docs.google.com/forms/d/1sigbOqWKuEtGyLROghvivgWErRnfbUI1_-57XhAwu_8/edit).
+
+
 ## High-touch and low-touch flexibility
 
 The beauty of an all-remote setting is that onboarding can be as high-touch or low-touch as a new hire wishes. Those who prefer visual learning can engage in a series of video calls and screenshare sessions to walk through each element of their onboarding issue. Those who prefer more self-learning can benefit from thorough documentation and readily-available resources for self-guided learning.
