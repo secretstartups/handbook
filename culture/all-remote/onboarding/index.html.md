@@ -135,6 +135,15 @@ Here's our list of more than 20 ways to participate in a happy, healthy [informa
 * Schedule check-ins with new employees
 It's a good idea to schedule weekly [1-1 meetings](/handbook/leadership/1-1/) to field questions, ask about any challenges, or focus on areas to grow and build trust. Managers can supplement formal meetings with [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats) where no work is discussed, the goal is to simply listen, share, and have open conversations and nurture the social component of remote working. 
 
+## What are onboarding activities?
+At GitLab, 
+
+## What do new hires want from an onboarding program?
+Onboarding is the first impression a new hire gets of your organization. It's critical to invest the time to do it well so that your new team members get to know you, understand what is expected of them, introduces them to co-workers and teammates, and sets them up to succeed. 
+
+At GitLab, we value documentation in a manner that creates a [single source of truth](/handbook/values/#single-source-of-truth). It operates [handbook-first](/handbook/handbook-usage/#why-handbook-first), and in valuing [transparency](/handbook/values/#transparency), makes its handbook [publicly accessible to all](/handbook/). 
+
+
 ## High-touch and low-touch flexibility
 
 The beauty of an all-remote setting is that onboarding can be as high-touch or low-touch as a new hire wishes. Those who prefer visual learning can engage in a series of video calls and screenshare sessions to walk through each element of their onboarding issue. Those who prefer more self-learning can benefit from thorough documentation and readily-available resources for self-guided learning.
