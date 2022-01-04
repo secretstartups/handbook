@@ -338,7 +338,7 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 
 ### Enterprise
 
-* Experience leading high-touch customer success management teams for Enterprise customers
+* Experience leading a high-touch motion with customers, including strategic account planning, lifecycle management, deep focus on maturity of adoption and leadership in expansion initiatives. 
 
 ### Customer Programs 
 - Engage and assist customers as part of a campaign or program led by Customer Programs team in partnership with Commercial TAM and Sales team
@@ -347,6 +347,20 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 - Curate frequently asked questions (FAQ) and related solution guides based on direct customer engagement, and analysis of customer requests and usage patterns
 - Partner with Customer Programs team to enhance and improve digital adoption journey to preserve or increase net retention for digital customers
 - Partner with our customers to understand industry-wide technical challenges along the customer journey with GitLab
+
+### Scale
+- Develop and deliver scale programs to drive product adoption, expansion, and customer engagement through webinars, digital content, and cohort engagement approaches (e.g., workshops, office hours, etc.)
+- Collaborate across a number of other teams to drive effective customer programs (digital editor, TAM team, digital campaign manager, marketing, growth)
+- Understand the nuances of digital relationships and automated engagements and architects positive customer experiences to ensure the customer feels valued while obtaining value from the GitLab platform
+- Utilize automation and digital engagements, isolating some customers for reach-outs based on product usage data insights coupled with the customer's point in their lifecycle
+- Create blanket contact campaigns of monthly or quarterly e-newsletters, data triggered email campaigns, on-demand training and guidance
+- Drive feature adoption through targeted on-going training of customers via webinars and campaigns
+- Leverage engagement and digital metrics to create and improve enablement content in alignment with customer journey
+- Analyze product usage data to determine prioritization of customer reach-outs and activities 
+- Create fun and engaging training resources that scale
+- Build engagement playbooks and reach out to customers with a relentless focus on quick solutions and positive outcomes
+- Work with CS and sales leadership on creating and executing upon scalable save plays for at-risk customers
+- Organize product-centric office hours where customers can troubleshoot with a technical representative
 
 ###  Public Sector Technical Account Manager
 ####  Public Sector Technical Account Manager Responsibilities
