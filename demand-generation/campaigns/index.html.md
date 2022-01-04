@@ -223,7 +223,7 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
 
 **Luis D'Ambrosio** _Sr. Lifecycle Marketing Manager_
 
-- **Lifecycle marketing strategy to convert free users to paid users, including free > trial > paid flow***
+- **Lifecycle marketing strategy to convert free users to paid users, including free > trial > paid flow**
 - **Act as GitLab's email marketing expert and DRI for all email marketing strategies and database strategy**
   - Plan, organize, implement, and optimize email marketing strategy
   - Analyze and share results, analysis, and recommmendations for email marketing channel
