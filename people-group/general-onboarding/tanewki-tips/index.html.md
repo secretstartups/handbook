@@ -65,7 +65,7 @@ After you sign your offer and complete your background check and references, you
 
 If you're nearing your start date and still haven't received your laptop, please reach out to people-exp@gitlab.com for us to check in with the IT department and see where your laptop is in transit. 
 
-New user to Mac, don't worry, many of us were also first time users. When you get your laptop, feel free to explore and get used to using your Macbook (just remembering not to set up an Apple ID). There is this really great [Handbook page](https://about.gitlab.com/handbook/tools-and-tips/mac/) that share different helpful tips and many helpful [YouTube video's](https://www.youtube.com/watch?v=PlruI5ryP8Q). 
+**New user to Mac?** Don't worry, many of us were also first time users! When you get your laptop, feel free to explore and get used to using your Macbook (just remembering not to set up an Apple ID). There is this really great [Handbook page](https://about.gitlab.com/handbook/tools-and-tips/mac/) that share different helpful tips and many helpful [YouTube video's](https://www.youtube.com/watch?v=PlruI5ryP8Q). If you are switching from Windows to macOS, these [keyboard tips](https://support.apple.com/en-us/HT204216) may be useful.
 
 GitLab utitilizes Expensify as our team member [expense](https://about.gitlab.com/handbook/finance/expenses/) reimbursement tool. All team members will have access to Expensify within 2 days from their hire date. If you didn't receive an email from Expensify for your access, please contact `ap@gitlab.com`. 
 
