@@ -1153,7 +1153,7 @@ Field Marketing follows the legal team's process [HERE](/handbook/legal/marketin
 
 ## Async Status Updates
 
-Since we are a [remote](/company/culture/all-remote/) company, we utilize a Slack plugin called [Geekbot](https://geekbot.io/) to coordinate status updates. Field Marketing world wide currently conducts 1 weekly standup. Geekbot shares this update in the public #fieldmarketing slack room.
+Since we are a [remote](/company/culture/all-remote/) company, we utilize a Slack plugin called [Geekbot](https://geekbot.io/) to coordinate status updates. Field Marketing world wide currently conducts 1 weekly standup. Geekbot shares this update in the public #im-hangout slack room.
 
 ## Weekly Status Update
 
