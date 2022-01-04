@@ -31,7 +31,7 @@ Steps to uplevel triaging process:
 | Go To Market Analytics Triage | `@GTMAnalyticsTriage` |  Sales Strategy & Analytics Team, Marketing Strategy and Performance Team, Business Insights and Analytics Team, GTM Data Fusion Team |
 | R&D Analytics Triage | `@R&DAnalyticsTriage` | Product Analysis Team, R&D Data Fusion Team |
 | People Analytics Triage | `@PeopleAnalyticsTriage` | People Group Analytics Team, G&A Data Fusion Team |
-| Engineering Analytics Triage | `@EngineeringAnalyticsTriage` | Engineering and Infrastructure Analytics Team, G&A Data Fusion Team |
+| Engineering Analytics Triage | `@EngineeringAnalyticsTriage` | Engineering Analytics Team, G&A Data Fusion Team |
 | Data Platfrom Triage | `@DataPlatformTriage`   | Data Platform Team |
 
 ### Triager
