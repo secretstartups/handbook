@@ -20,6 +20,23 @@ twitter_creator: "@gitlab"
 
 On this page, we're detailing how to successfully onboard new hires in a remote environment.
 
+## What is remote onboarding?
+Onboarding is the official process of integrating new team members into an organization. Remote onboarding is done via technology without any face-to-face interactions.
+
+## How long should remote onboarding take?
+GitLab believes the onboarding process is [incredibly important](/company/culture/all-remote/onboarding/). We don't expect you to hit the ground running from day one.
+
+We anticipate the remote onboarding process to take at least two full weeks. In week three you will begin team specific onboarding and training. We encourage you to participate in your team's work in the first two weeks, but don't feel pressure to contribute heavily.
+
+## What is an onboarding session?
+All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md). The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning)and as [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) as possible to aid acclimation into the remote life at GitLab.
+
+At GitLab we like to do what we call ["dogfooding"](https://about.gitlab.com/handbook/values/#dogfooding) our own product. Hence onboarding tasks are completed in a [GitLab issue](https://docs.gitlab.com/ee/user/project/issues/).
+
+The People Experience Associate assigned to a new team member's specific onboarding will [open](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#onboarding-issue-creation) the onboarding issue at least 4 days prior to the hire date.
+
+Through onboarding issues, you should gain access to our team member [baseline entitlements](/handbook/engineering/security/#baseline-role-based-entitlements-access-runbooks--issue-templates). On Day 2 of onboarding an [Access Request](/handbook/people-group/engineering/#access-request-issue-creation) will be generated, if a template has been created for the role. Access requests are owned by the IT team. If you have any access requests related questions, please reach out to #it-help in Slack.
+
 ## How to onboard new hires remotely
 
 Onboarding remotely should focus on [three key dimensions](https://hbr.org/2018/12/to-retain-new-hires-spend-more-time-onboarding-them): the organizational, the technical, and the social. By using this integrated approach, top companies enable their team members to stay and thrive in their roles. We'll show how you can focus on these three key dimensions of onboarding through an all-remote onboarding process.
