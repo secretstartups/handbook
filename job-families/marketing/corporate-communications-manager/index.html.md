@@ -54,6 +54,7 @@ The Senior Corporate Communications Manager is a [grade 7](/handbook/total-rewar
 * 8+ years experience in public relations and/or marketing communications
 * Experience with crisis communications, executive visibility and investor relations.
 * Experience managing agencies and driving results.
+* A natural storyteller with excellent writing skills.
 * Highly organized, detail-oriented and able to drive cross-functional deadlines consistently.
 
 ### Manager, Corporate Communications
@@ -74,6 +75,8 @@ Manager, Corporate Communications is a [grade 8](/handbook/total-rewards/compens
 * 9+ years experience in public relations and/or marketing communications.
 * Experience developing and executing cross-functional communications programs.
 * Experience managing agencies, freelancers and a team of direct reports to drive results.
+* A natural storyteller with excellent writing skills.
+* Outstanding verbal communications skills.
 * Highly organized, detail-oriented and able to drive cross-functional deadlines consistently.
 
 ### Staff Corporate Communications Manager
@@ -94,6 +97,8 @@ Staff Corporate Communications Manager is a [grade 8](/handbook/total-rewards/co
 * 9+ years experience in public relations and/or marketing communications
 * Experience developing and executing communications programs.
 * Experience driving results.
+* A natural storyteller with excellent writing skills.
+* Outstanding verbal communications skills.
 * Highly organized, detail-oriented and able to drive cross-functional deadlines consistently.
 
 ### Senior Manager, Corporate Communications
@@ -109,6 +114,8 @@ Senior Manager, Corporate Communications is a [grade 9](/handbook/total-rewards/
 #### Requirements
 * 10+ years experience in public relations and/or marketing communications.
 * Experience managing budgets aligning with communications objectives and goals.
+* A natural storyteller with excellent writing skills.
+* Outstanding verbal communications skills.
 * Experience managing a team whose results drove the overall communications strategy.
 
 ### Principal Corporate Communications Manager
@@ -127,6 +134,7 @@ The Principal Corporate Communications Manager is a [grade 9](/handbook/total-re
 #### Requirements
 * 10+ years experience in public relations and/or marketing communications.
 * Experience running public relations/communications efforts at an enterprise technology company.
+* A natural storyteller with excellent writing skills.
 * Experience leading public company communications cadence (earnings reports, media outreach, etc.)
 * Experience hiring and managing a team of public relations professionals.
 
@@ -140,6 +148,8 @@ The Director of Corporate Communications is a [grade 10](/handbook/total-rewards
 * 12+ years experience managing public relations and communications teams
 * Experience developing overall strategy for corporate communications, public relations and social media teams.
 * Experience managing budgets aligning with communications objectives and goals.
+* A natural storyteller with excellent writing skills.
+* Outstanding verbal communications skills.
 * Experience working with leadership to drive external awareness activities.
 
 ## Specialties
