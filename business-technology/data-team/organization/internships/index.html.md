@@ -24,25 +24,23 @@ Welcome to the **Data Team Internship Program** page. The Program is launching i
 
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> The 2022 Data Team Internship Program
 
-The initial focus of the 2022 Program will be **Data Internship for Learning**, following to the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) and focused on supporting career development of existing GitLab Team Members. Later in 2022 we will evaluate extending the program to support non-GitLab Team Members and traditional internships.
-- `AT LAUNCH`: Data Internship for Learning and current GitLab Team Members
-- `POTENTIALLY LATER`: Data Internship for non GitLab Team Members
+The initial focus of the 2022 Program will be **Data Internship for Learning**, following the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) and focused on supporting career development for existing GitLab Team Members. Later in 2022 we will evaluate extending the program to support non-GitLab Team Members and traditional internships.
 
-### How Does The Data Team Internship Work?
+### How Does Data Internship For Learning Work?
 
-A GitLab Team Member Data Team Internship follows [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) guidelines. In addition, given the rapid growth of the Data Team, we are seeking to partner every Intern with a current Data Team member who is interested in exploring their own career development towards a [Leadership](/handbook/people-group/learning-and-development/new-to-leadership/#new-to-leadership-and-management) role, such as a Team Lead specialization or [Data Management](https://about.gitlab.com/job-families/finance/manager-data/) role. In this model an Intern is paired with a current Data Team Mentor/Manager and this partnership and shared commitment to both team member's development is critical to the program's success. 
+The Data Internship for Learning follows [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) guidelines. In addition, given the rapid growth of the Data Team, we seek to partner every Intern with a current [individual contributor](/handbook/engineering/development/dev/training/ic-to-manager/) Data Team member who is interested in exploring their own career development towards a [Leadership](/handbook/people-group/learning-and-development/new-to-leadership/#new-to-leadership-and-management) role, such as a Team Lead specialization or [Data Management](https://about.gitlab.com/job-families/finance/manager-data/) role. In this model, both team members share a commitment to support each other's success. 
 
 At launch in January 2022, **Data Internship for Learning** will be structured as follows:
 - Follows the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning)
 - Open to only current GitLab Team Members
 - Intern time allocation should range from 25%-50%, with a 3-month commitment
-- Data Team Mentor/Manager time allocation should range from 15-25%, with a 3-month commitment
+- Data Team Mentor time allocation should range from 15-25%, with a 3-month commitment
 
 ```mermaid
 graph LR
-subgraph "Shared Responsibility and Accountability"
+subgraph "Shared Responsibility and Commitment"
     A[Intern] --> B
-    B[Mentor/Manager] --> A
+    B[Mentor] --> A
    end
 ```
 
@@ -55,9 +53,9 @@ Requests to create a Data Team Intern position will be evaluated on the followin
      * Will the team be able to take on an intern without risking a decrease in velocity?
      * Would the team benefit from an intern to support a more senior member's career development, to introduce new perspectives, or to accelerate the roadmap in one or more areas.
      * Does the team have a roadmap containing low weight issues with few dependencies suitable for an intern?
-1. Mentor/Manager Commitment
-     * Do the mentors/managers have previous experience mentoring interns or junior engineers? Previous experience is a nice-to-have, but not a must-have.
-     * Are the mentors/managers interested in Leadership development?
+1. Mentor Commitment
+     * Do the mentors have previous experience mentoring interns or junior engineers? Previous experience is a nice-to-have, but not a must-have.
+     * Are the mentors interested in Leadership development?
      * Can the mentor commit to a 3-month engagement, including regular meetings and progress reviews? Are there potentially extended out-of-office periods that would affect the internship experience?
 1. Intern Commitment
      * Can the intnern commit to a 3-month engagement, including regular meetings and progress reviews? Are there potentially extended out-of-office periods that would affect the internship experience?
