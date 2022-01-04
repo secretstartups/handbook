@@ -12,19 +12,22 @@ description: "Data Programs."
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-##  Welcome to the Data Programs Page
+## <i id="biz-tech-icons" class="far fa-paper-plane"></i>Introduction
 
-The Data Programs page contains information about the various programs we support, ranging from onboarding to day-to-day operations.
+Welcome to the **Data Team - Data Program ** page. This page contains information about the various programs we support, ranging from onboarding to day-to-day operations.
 
-## Show-n-Tell and Demos
+- **Primary Data Slack Channel**: `#data`
+- **Data Lounge Channel**: `#data-lounge`
+
+## <i class="far fa-newspaper" id="biz-tech-icons"></i> Show-n-Tell and Demos
 
 Data & Analytics Demos are a great way for everyone involved in the Data Program to share progress, innovation, collaborate, and just have fun. Data & Analytics Demos are [held every Thursday](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTA5MTZUMTUwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL) and recordings are posted to the [GitLab Unfildered Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). 
 
-## Data Science AMAs
+## <i class="far fa-newspaper" id="biz-tech-icons"></i> Data Science AMAs
 
 The Data Science Team regularly holds AMAs to help spread awareness of Data Science and initiatives. Check out the [AMA with GitLab Data Scientists Agenda](https://docs.google.com/document/d/1C5odZ14Fbnbb5uqNnrJsDnYQR_ZrvfPQCQ43xUEZsJY/edit) to learn more.
 
-## Data Onboarding
+## <i class="far fa-newspaper" id="biz-tech-icons"></i> Data Onboarding
 
 If you are onboarding to GitLab and will be working in the Data Program as an Engineer, Analyst, or Developer, follow these steps:
 
@@ -32,7 +35,7 @@ If you are onboarding to GitLab and will be working in the Data Program as an En
 1. Give the issue a descriptive name: `Your Name - Data Onboarding`
 1. Assign the issue to your Manager to add/remove relevant content
 
-## Data Guides and Related Resources
+## <i class="far fa-newspaper" id="biz-tech-icons"></i> Data Guides and Related Resources
 
 | Program Name | Type | Purpose | 
 | :--- | :--- |
