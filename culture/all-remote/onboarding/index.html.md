@@ -143,6 +143,9 @@ Onboarding is the first impression a new hire gets of your organization. It's cr
 
 At GitLab, we value documentation in a manner that creates a [single source of truth](/handbook/values/#single-source-of-truth). It operates [handbook-first](/handbook/handbook-usage/#why-handbook-first), and in valuing [transparency](/handbook/values/#transparency), makes its handbook [publicly accessible to all](/handbook/). 
 
+## The benefits of an onboarding buddy
+
+To help alleviate [anxiety from starting a new job](http://www.classycareergirl.com/2017/02/new-job-anxiety-conquer/), GitLab assigns onboarding buddies for new GitLab team members. To help new GitLab team-members who may not be used to our [all-remote](/company/culture/all-remote/) culture, the onboarding buddy is ready, willing, and excited to help a new team member acclimate, answer questions, or troubleshoot any challenges or problems along the way.
 
 ## High-touch and low-touch flexibility
 
