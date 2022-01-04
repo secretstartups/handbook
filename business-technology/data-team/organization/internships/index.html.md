@@ -73,8 +73,8 @@ KPIs we will use to measure success of an individual internship are as follows:
 1. Successfull Data Team Onboarding within 30 Calendar Days
 1. Monthly Progress Report and Feedback issue
 1. Final CSAT Score of 4 or higher on a 5 point scale
-1. # of Data Project MRs successfully Merged > 5
-1. # of Data Team Handbook MRs sucessfully Merged > 5
+1. Number of Data Project MRs successfully Merged > 5
+1. Number of Data Team Handbook MRs sucessfully Merged > 5
 
 #### What Does A Data Team Intern Do?
 
