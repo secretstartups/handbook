@@ -41,9 +41,9 @@ Find the license by following steps 1,2 mentioned in the above section, and:
 -  To resend the license to the end-user use the `Resend to customer via email` function. 
 -  To forward the license to a different address using the `Forward license email` function. 
     1. Navigate to the `Forward license email` tab. 
-    2. Enter the `Destination email address` and click the **Forward** button.
+    2. Enter the `Destination email address` and click the **Forward** button. **NOTE** It is currently not possible to copy (cc) or send to multiple contacts at once.
 
-### Trial or Temporary license
+### Trial License or Temporary Key
 
 Before creating the request please consider the following points:
 
@@ -52,12 +52,11 @@ Before creating the request please consider the following points:
     - Don't affect historical data tracking
     - Aren't tied to any subscriptions for revenue purposes
 - All internal requests for a Temporary key or Trial Extension should issue a trial license.
-- For trial licenses with the `Expiry Date` in more than 30 calendar days from the Start date, a manager approval is required. When asking for approval, please also consider the time between waiting for approval and the license period.
+- For trial licenses where the `Expiry Date` is more than 30 calendar days from the Start date, a Sales Manager approval is required. When asking for approval, please also consider the time between waiting for approval and the license period.
    - For example, if the requested trial license is for 33 days, and the wait time for approval could be up to 5 days. By the time the approval is given, perhaps the request doesn't need an Approval in the first place.
 Add the `Manager Approval::Required` label to the issue and ping the requester to ask for approval from their manager.
 - It is fine to set the `Users in license` number to what is needed.
 - Set `Starts at` to the current date.
-     - <i class="fab fas fa-exclamation-triangle fa-fw"></i> **_TODO_**: What if we know Expiry of current license (either from IR or ZD ticket)? Do we set it to the date after Expiry date?
 - You can follow the same process as re-issuing a license. 
 - You need to ensure that you have checked the **trial** checkbox when creating the license. 
 - You also do not need to link a Zuora or Salesforce account if you do not have it.
