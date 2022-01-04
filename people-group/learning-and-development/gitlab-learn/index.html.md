@@ -382,6 +382,69 @@ The `Learning Evangelist` role is reserved for team members who have successfull
 - A GitLab team member contributes an interesting article they read about remote leadership
 - A manager uploads a learning pathway to train their team on a new skill or tool
 
+### Learning Evangelist Lite
+
+#### Permissions
+
+| Permission | Status |
+| ----- | ----- |
+| Create comment | Off |
+| Like content | Off |
+| Bookmark content | Off |
+| Mark as complete | Off |
+| Assign content | Off |
+| Dismiss content | Off |
+| Dismiss assignment | Off |
+| Add to pathway | Off |
+| Create group | Off |
+| Create group admin | Off |
+| Create channel | Off |
+| Disable user follow | Off |
+| Can rate | Off |
+| Share | Off |
+| Show user manager | Off |
+| Show content manager | Off |
+| Assign roles | Off |
+| Create content | On |
+| Create text card | On |
+| Promote a card | Off |
+| Create a journey | Off |
+| Create podcast | On |
+| Curate content | Off |
+| Create role | Off |
+| Create leap | Off |
+| Update leap | Off |
+| Delete leap | Off |
+| Pin content | Off |
+| View card analytics | Off |
+| Get leaderboard information | Off |
+| User opt out of leaderboard | Off |
+| Create Livestream/AMA | Off |
+| Upload | On |
+| Upload content cover images | On |
+| Enable edgraph | Off |
+| Custom labels | Off |
+| Publish links | On |
+| Change author | On |
+| Bypass curation | On |
+| Developer | Off |
+| Upload scorm content | Off |
+| Use dynamic selection | On |
+| Perfect your pitch | Off |
+| Copy content | Off |
+| Mark as private | On |
+| Manage content | Off |
+| Manage group content | Off |
+| Manage channels | Off |
+| Manage users | Off |
+| Manage group users | Off |
+| Manage analytics | Off |
+| Manage channel analytics | Off |
+| Manage group analytics | Off |
+
+#### Learning Evangelist Lite User Group
+
+The `Learning Evangelist Lite` role is reserved for users who have completed the [Learning Evangelist Lite](https://gitlab.edcast.com/pathways/ECL-c00f637a-4339-4032-bd4a-d415af24ae9b) training in GitLab Learn. This role is for team members who are using EdCast to store internal-only videos or PDFs. The training gives a quick guide of how to upload to the platform without needing to involve Learning and Development team members, or go through the more in-depth Learning Evangelist training.
 
 ### Curator
 
