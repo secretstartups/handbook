@@ -766,10 +766,10 @@ Bugs included in the description:
 
 - The title of the bug, for syntax and clarity.
 - The link to the bug report.
-- Whether the bug has been closed:
-  - If the bug is closed, was it closed on or before the current milestone?
+- Whether the bug has been closed or merged:
+  - If the bug is closed or merged, was it on or before the current milestone?
   - If the bug is still open, make sure that the responsible EM, PM, or bug author is aware of the situation.
-  - If the bug will not be closed by the 16th of the month, remove the entry from the Bugs MR.
+  - If the bug will not be closed or merged by the 16th of the month, remove the entry from the Bugs MR.
 
 YAML data:
 
@@ -786,9 +786,9 @@ Performance improvements added to the description:
 
 - The title of the performance improvement issue, for syntax and clarity.
 - The link to the performance issue.
-- Whether the issue has been closed.
-  - If the issue is still open, make sure that the responsible EM, PM, or performance improvement author is aware of the situation.
-  - If the issue will not be closed by the 16th of the month, remove the entry from the Performance Improvements MR.
+- Whether the issue/MR has been closed.
+  - If the issue/MR is still open, make sure that the responsible EM, PM, or performance improvement author is aware of the situation.
+  - If the issue/MR will not be closed by the 16th of the month, remove the entry from the Performance Improvements MR.
 
 YAML data:
 
@@ -814,7 +814,7 @@ YAML data:
 
 - Syntax: `[]()` for links, URLs wrapped in single quotes, text wrapped in double quotes, code wrapped in code blocks or inline code blocks.
 - `- name: "Usability improvements"`
-- `usability_improvement_url: 'https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&milestone_title=XX.Y&label_name[]=usability` - replace XX.Y with the current milestone. For example, for GitLab 13.8, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&milestone_title=13.8&label_name[]=usability'` - this links to closed issues for the 13.8 milestone with the `~usability` label.
+- `ux_improvements_url: 'https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&milestone_title=XX.Y&label_name[]=usability` - replace XX.Y with the current milestone. For example, for GitLab 13.8, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&milestone_title=13.8&label_name[]=usability'` - this links to closed issues for the 13.8 milestone with the `~usability` label.
 
 #### MVP entry
 
