@@ -37,17 +37,20 @@ The People Experience Associate assigned to a new team member's specific onboard
 
 Through onboarding issues, you should gain access to our team member [baseline entitlements](/handbook/engineering/security/#baseline-role-based-entitlements-access-runbooks--issue-templates). On Day 2 of onboarding an [Access Request](/handbook/people-group/engineering/#access-request-issue-creation) will be generated, if a template has been created for the role. Access requests are owned by the IT team. If you have any access requests related questions, please reach out to #it-help in Slack.
 
-## How to onboard new hires remotely
+## How to manage onboarding new hires remotely
 
 Onboarding remotely should focus on [three key dimensions](https://hbr.org/2018/12/to-retain-new-hires-spend-more-time-onboarding-them): the organizational, the technical, and the social. By using this integrated approach, top companies enable their team members to stay and thrive in their roles. We'll show how you can focus on these three key dimensions of onboarding through an all-remote onboarding process.
+
+### How to prepare for remote onboarding
+One way to begin creating social connections for new remote team members is to have them [added to a Slack channel](https://about.gitlab.com/handbook/people-group/people-experience-team/#onboarding-cohort-creation). This will be linked to the Donut Watercooler App, which prompts different questions for team members to answer on Tuesdays and Thursdays every week. These questions also help serve as an onboarding check-in. 
 
 ### Organizational onboarding 
 
 A large part of onboarding is providing answers to logistical questions:
 
-1.  How do I sign up for benefits?
+1. How do I sign up for benefits?
 1. What tools should I use?
-1.  Where do I go to find answers?
+1. Where do I go to find answers?
 1. Who can help me with ____?
 
 Traditional in-person companies usually rely on trainers or more hands-on approaches to help new hires navigate their surroundings. All-remote companies have to be more efficient and make information easily accessible, so documentation will be essential for a smooth onboarding process. At GitLab, we provide a detailed [handbook](/handbook/) that is always evolving. 
@@ -72,6 +75,10 @@ At GitLab, we practice [dogfooding](/handbook/values/#dogfooding). Our entire co
 
 For technical onboarding, give new hires access to the tools they'll be using in their roles and, most importantly, encourage them to use the tools as early as possible. Using tools, even for very small tasks, builds confidence and helps new employees to feel productive and empowered.
 
+* Common issues
+
+* Technical issues
+
 **Additional resources:**
 
 1. [All-remote management](/company/culture/all-remote/management/)
@@ -88,6 +95,8 @@ In an all-remote company, it's important to encourage [informal communication](h
 1. **Assign an onboarding buddy.** This individual can be a friendly point of contact for a new team member and also introduce them to others. Onboarding buddies often set the expectation for how to build relationships with other team members, so new hires and onboarding buddies should communicate in a variety of ways, such as video calls, check-ins on Slack, and coffee chats. At GitLab, we take this kind of role seriously and have an entire handbook page dedicated to [onboarding buddies](/handbook/people-group/general-onboarding/onboarding-buddies/). 
 
 1. **Formally design informal communication.** In an all-remote environment, informal communication should be formally addressed. Leaders should organize informal communication and provide structured opportunities for new hires to get to know their coworkers. We incorporate socializing tasks into our onboarding template such as [scheduling coffee chats](/company/culture/all-remote/informal-communication/#scheduling-a-coffee-chat), introducing yourself in the `#new_team_members` slack channel, or participating in a video call.
+
+1. **Creating personal connections.** We are social creatures, and [research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2443551) shows the value of personal connections. While there are tremendous [advantages](/company/culture/all-remote/benefits/) to operating a 100% remote company, be open to [participating with in-person elements](https://www.fastcompany.com/3051518/the-science-of-when-you-need-in-person-communication), even if they're optional. 
 
 **Additional resources:**
 
