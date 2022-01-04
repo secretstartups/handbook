@@ -88,3 +88,7 @@ Labels to use when creating new issues or MRs for CS Ops:
 - CSOps::Backlog - Not currently being evaluated or worked on.
 - CSOps::bug - A bug issue to be addressed by CS Ops.
 - CS Ops Technical Writing - Assigned to the CS Ops technical writers for review or creation of copy.
+- CSOps - TAM - Request originating from, or to benefit the TAM team.
+- CSOps - PS - Request originating from, or to benefit the PS team.
+- CSOps - SA - Request originating from, or to benefit the SA team.
+- CSOps - Ops - Request to benefit the CSOps team.
