@@ -44,6 +44,10 @@ subgraph "Shared Responsibility and Commitment"
    end
 ```
 
+### How Do I Get Started?
+
+Follow the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) instructions.
+
 #### Criteria For Creating A Data Team Internships
 
 Requests to create a Data Team Intern position will be evaluated on the following criteria:
