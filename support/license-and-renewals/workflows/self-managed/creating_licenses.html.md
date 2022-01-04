@@ -52,7 +52,8 @@ Before creating the request please consider the following points:
     - Don't affect historical data tracking
     - Aren't tied to any subscriptions for revenue purposes
 - All internal requests for a Temporary key or Trial Extension should issue a trial license.
-- For trial licenses with the `Expiry Date` in more than 30 calendar days from the Start date, a manager approval is required.
+- For trial licenses with the `Expiry Date` in more than 30 calendar days from the Start date, a manager approval is required. When asking for approval, please also consider the time between waiting for approval and the license period.
+   - For example, if the requested trial license is for 33 days, and the wait time for approval could be up to 5 days. By the time the approval is given, perhaps the request doesn't need an Approval in the first place.
 Add the `Manager Approval::Required` label to the issue and ping the requester to ask for approval from their manager.
 - It is fine to set the `Users in license` number to what is needed.
 - Set `Starts at` to the current date.
