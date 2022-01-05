@@ -184,7 +184,7 @@ The Common Prep Schema has 6 primary use cases at this time. As we iterate on th
 
 #### Common Mart
 
-Mart models describe business entities and processes. They are often grouped by business units such as marketing, finance, product, and sales. When a model is in this directory, it communicates to business stakeholders that the data is cleanly modelled and is ready for querying.
+Marts are a combination of dimensions and facts that are joined together and used by business entities for insights and analytics. They are often grouped by business units such as marketing, finance, product, and sales. When a model is in this directory, it communicates to business stakeholders that the data is cleanly modelled and is ready for querying.
 
 Below are some guidlines to follow when building marts:
 
