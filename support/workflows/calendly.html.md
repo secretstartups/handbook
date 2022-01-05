@@ -195,14 +195,14 @@ https -b  api.calendly.com/scheduling_links \
   | jq -r '.resource.booking_url'
 ```
 
-## Auto block Pagerduty shifts in Calendly
+## Auto block PagerDuty shifts in Calendly
 
-It is possible to automate the blocking of your Pagerduty shifts in Calendly, so you are not booked for a customer call while you are on duty. This works by subscribing to your Pagerduty on-call schedule in Google Calendar, and then having Calendly use this when checking for conflicts. To set this up:
+It is possible to automate the blocking of your PagerDuty shifts in Calendly, so you are not booked for a customer call while you are on duty. This works by subscribing to your PagerDuty on-call schedule in Google Calendar, and then having Calendly use this when checking for conflicts. To set this up:
 
-1. In Pagerduty, navigate to **Your profile > On-Call Shifts > Export > WebCal feed**. Right-click and copy the URL.
-1. Add the Pagerduty calendar to your Google Calendar **Other calendars > + > From URL** and paste the WebCal URL from step 1.
+1. In PagerDuty, navigate to **Your profile > On-Call Shifts > Export > WebCal feed**. Right-click and copy the URL.
+1. Add the PagerDuty calendar to your Google Calendar **Other calendars > + > From URL** and paste the WebCal URL from step 1.
 1. In Calendly, navigate to **Account > Calendar Connections > Configuration > Check for conflicts** and click the **Edit** button.
-1. Ensure that the Pagerduty calendar added in step 2 is selected here (it will be listed as "On Call Schedule for _Your Name_", not the name you gave it in Google), and then click the **Update** button. If your calendar does not appear in the list, you can disconnect and reconnect your Google Calendar account from Calendly to refresh the calendar list.
+1. Ensure that the PagerDuty calendar added in step 2 is selected here (it will be listed as "On Call Schedule for _Your Name_", not the name you gave it in Google), and then click the **Update** button. If your calendar does not appear in the list, you can disconnect and reconnect your Google Calendar account from Calendly to refresh the calendar list.
 
 ## Suggestions
 
