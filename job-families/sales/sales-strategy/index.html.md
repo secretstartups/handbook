@@ -122,6 +122,27 @@ The Senior Director, Sales Strategy is a [grade 11](/handbook/total-rewards/comp
 * Extends that of the Director, Sales Strategy requirements
 * Demonstrated progressive experience in an analytical role within a technology business.  Preference for Strategy Consulting, Corporate Strategy, Venture Capital/Private Equity, and/or Investment Banking backgrounds
 
+### Vice President, Sales Strategy
+
+The Vice President, Sales Strategy reports to the [VP, Field Operations](/job-families/sales/vp-of-field-operations/).
+
+#### Vice President, Sales Strategy Job Grade 
+
+The Vice President, Sales Strategy is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Vice President, Sales Strategy Responsibilities
+
+* Extends that of the Senior Director, Sales Strategy responsibilities
+* Drive recruiting of a world-class team at all levels
+* Help team members from senior leaders, management and and analysts grow their skills and experience
+* Ensure the handbook is used and relevant references are maintained in a transparent way
+* Collaborate with senior leaders of Finance to drive planning cycles and ensure actual vs. plan throughout the year is within guidelines 
+* Partner with senior leaders of GTM Teams and Field Enablement to leverage performance analytics and influence cross-functional revenue programs 
+* Partner with cross-functional teams to drive analytical insights across the GTM Motion and escalate relevant discussion topics
+* Support CRO strategic initiatives and partner with relevant GTM teams   
+* Partner with CRO CoS to evolve the framework and structure for critical sales leadership meetings and OKRs 
+* Partner with CEO CoS on strategic initiatives and ensure prioritization alignment across all GTM Teams 
+
 ## Specialties
 
 ### Channel
