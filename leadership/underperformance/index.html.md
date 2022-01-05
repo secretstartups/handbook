@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: Underperformance
+description: >-
+  We want team members to be successful and should offer every opportunity for
+  them to work effectively.
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -91,9 +99,9 @@ It isn't required to give details if you prefer not to.
 Tell your manager when it started, to what extent it hinders your work, and what your forecast is for your circumstances to improve.
 When you delay this conversation until your manager identifies underperformance you've lost trust that would be helpful during this period.
 
-### Loop in the Team Member Relations Specialist
+### Loop in the Team Member Relations Partner
 
-Looping in the [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/) early is essential. The TMR specialist can offer support, guidance, coaching, and partner with Legal to ensure compliance. Please be sure to align with your TMR specialist prior to delivering any formal action plan to team members. Formal action includes a Written Performance Letter, Verbal Warning, Written Warning, and a Performance Improvement Plan. Managers will partner with the team member relations group in the creation and delivery of any formal action.
+Looping in the [Team Member Relations](https://about.gitlab.com/handbook/people-group/) Partner early is essential. The TMR Partner can offer support, guidance, coaching, and partner with Legal to ensure compliance. Please be sure to align with your TMR Partner prior to delivering any formal action plan to team members. Formal action includes a Written Performance Letter, Verbal Warning, Written Warning, and a Performance Improvement Plan. Managers will partner with the team member relations group in the creation and delivery of any formal action.
 
 **Important**: While timelines vary case-by-case and in accordance with local labor law in the location of each individual, if someone is underperforming without sustained improvement with informal manager lead coaching in place for 1 month or more, the TMR team should be looped in. Looping in the TMR team is a critical piece of the underperformance management process, and not doing so within a reasonable timeframe ultimately impacts the manager's performance. Connecting with the TMR team ensures that feedback is being delivered in accordance with our [guidance for giving feedback](/handbook/people-group/guidance-on-feedback/) and next steps are followed in a timely manner. See the `underperformance management related to manager performance` section below for more detail.
 
@@ -334,6 +342,6 @@ Please refer to the [Offboarding](https://about.gitlab.com/handbook/people-group
 
 Regardless of level in the organization, the expectation is that all team members are provided with both coaching and feedback prior to a decision to exit the team member. Feedback is critical to development at GitLab at all levels and should be done in real time as much as possible.
 
-However, for VP and higher roles we are unlikely to offer a formal performance remediation plan or place a VP on a formal PIP. If after documented coaching and feedback sessions the performance has not improved GitLab would move to a separation with the team member.
+However, for Director and higher roles we are unlikely to offer a formal performance remediation plan or place a Director on a formal PIP.  If after documented coaching and feedback sessions the performance has not improved GitLab would move to a separation with the team member.
 
-We do this because the impact of their continued underperformance is greater on the rest of the organization.
+We do this because the their continued underperformance has a greater impact on the team and the rest of the organization.
