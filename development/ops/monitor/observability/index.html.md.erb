@@ -5,13 +5,28 @@ description: "The Observability group is responsible for the Observability of th
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
 ## Monitor:Observability
-The **Monitor:Observability** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain. We aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
+
+The **Monitor:Observability** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain.
+Based on the [recent Opstrace acquisition](https://about.gitlab.com/press/releases/2021-12-14-gitlab-acquires-opstrace-to-expand-its-devops-platform-with-open-source-observability-solution.html), we aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
+
+## Code
+
+Opstrace code (and issues/branches) has been migrated to GitLab with several projects under the following sub-project:
+
+- https://gitlab.com/gitlab-org/opstrace/
+
+We also have some legacy private repos at GitHub (that will be decommissioned eventually):
+
+- https://github.com/opstrace/next-website/ (our current website)
+- https://github.com/opstrace/opstrace-prelaunch/ (pre-open source code and issues)
+- https://github.com/opstrace/private/ (customer-related issues)
 
 ## Integration milestones
 
@@ -27,6 +42,38 @@ After the integration milestones are complete, we will work together to decide h
 ## Communication
 
 - Slack channel: [#g_observability](https://gitlab.slack.com/archives/C02Q93U8J07)
+
+## Planning
+
+For the first 6-9 months, our goals are entirely driven by the [bi-monthly acquisition milestones](https://gitlab.com/groups/gitlab-org/-/epics/6976).
+
+To accomplish these, we align our work loosely with the [GitLab product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
+In particular, we define our Milestones to ship on the 22nd of the month.
+
+We use [GitLab milestones](https://gitlab.com/gitlab-org/opstrace/opstrace/-/milestones
+) to track our work.
+All work being done for one of the integraiton milestones should have this milestone set.
+
+We also adopt the "code freeze" by the 17th:
+
+- On `M, 19th`, or `M, 20th`, or `M, 21st`:
+  - [Milestone Cleanup](#milestone-cleanup) runs on the schedule at [Milestone cleanup schedule](#milestone-cleanup-schedule)
+- On month `M, 22nd`: **Release Day** 🚀
+  - Release deployed to production.
+  - Release published—including docs and blog.
+
+We also perform group retrospectives, though do not roll them up:
+
+- On or around `M, 19th`:
+  - [Group Retrospectives](/handbook/engineering/management/team-retrospectives/) should happen so they can inform the [public retrospective summary and discussion](#retrospective)
+
+## Tracking work in issues
+
+In addition to adding the aforementioned milestone to our issues, we also adopt [workflow labels](https://about.gitlab.com/handbook/engineering/workflow/#updating-issues-throughout-development):
+
+- `workflow::in dev`: A developer indicates they are developing an issue by applying the in dev label.
+- `workflow::in review`: A developer indicates the issue is in code review by removing the in dev label, and applying the in review label.
+- `workflow::verification`: A developer indicates that all the development work for the issue has been done and is waiting to be deployed.
 
 ## Team members
 
