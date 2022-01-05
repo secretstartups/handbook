@@ -50,6 +50,8 @@ Process to be added below.
 
 ### Projects
 
+JiHu team projects are under the [gitlab-jh](https://gitlab.com/gitlab-jh/) group. To request access please reach out to [Kenny]((https://about.gitlab.com/company/team/#kencjohnston)) or [Mek](https://about.gitlab.com/company/team/#meks) to provision. 
+
 | GitLab Inc Project                                      | JiHu Project                                               |
 |---------------------------------------------------------|------------------------------------------------------------|
 | https://gitlab.com/gitlab-org/gitlab                    | https://gitlab.com/gitlab-jh/gitlab                        |
