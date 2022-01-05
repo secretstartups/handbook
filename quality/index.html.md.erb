@@ -482,6 +482,28 @@ The GitLab test automation framework is distributed across two projects:
 - Install and run [GitLab QA] to kick off test execution.
     - The spec files (test cases) can be found in the [GitLab codebase](https://gitlab.com/gitlab-org/gitlab/tree/master/qa)
 
+#### Test results tracking
+
+- Within a test spec, each test example is associated with 1 [Gitlab testcase](https://gitlab.com/gitlab-org/gitlab/-/quality/test_cases).
+
+```ruby
+RSpec.describe 'Stage' do
+  describe 'General description of the feature under test' do
+    it 'test name', testcase: 'https://gitlab.com/gitlab-org/gitlab/-/quality/test_cases/:test_case_id' do
+      ...
+    end
+
+    it 'another test', testcase: 'https://gitlab.com/gitlab-org/gitlab/-/quality/test_cases/:another_test_case_id' do
+      ...
+    end
+  end
+end
+```
+
+- Each [Gitlab testcase](https://gitlab.com/gitlab-org/gitlab/-/quality/test_cases) would contain information regarding the test example: file path, example name, example description, and historical records of the associated [testcase issue](https://gitlab.com/gitlab-org/quality/testcases/-/issues).
+- A [testcase issue](https://gitlab.com/gitlab-org/quality/testcases/-/issues) is an issue that lives within [quality/testcase](https://gitlab.com/gitlab-org/quality/testcases) project. This issue can either be created by the author of the test or by Gitlab QA Bot, and should have very similar description content with the testcase it's associated with. This is where we keep track of test results from all environments that the test is executed in.
+- When the [testcase issue](https://gitlab.com/gitlab-org/quality/testcases/-/issues) reaches its number of comments limit, a new [testcase issue](https://gitlab.com/gitlab-org/quality/testcases/-/issues) will be automatically created in the next test execution with the same content and added to the testcase historical records. The old test case issue is closed.
+
 #### Documentation and videos
 
 - [GitLab QA Documentation](https://gitlab.com/gitlab-org/gitlab-qa/blob/master/docs)
