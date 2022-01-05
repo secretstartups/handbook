@@ -192,8 +192,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-01-24 | 2022-01-28 | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager |
 | 2022-01-31 | 2022-02-04 | [Kurt Dusek](https://gitlab.com/kdusek) - Sr. Solution Architect | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer |
 | 2022-02-07 | 2022-02-11 | UNAVAILABLE - SKO | UNAVAILABLE - SKO |
-| 2022-02-14 | 2022-02-18 | [Viktor Nagy](https://gitlab.com/nagyv-gitlab) - Sr. Product Manager | [Kurt Dusek](https://gitlab.com/kdusek) - Sr. Solution Architect|
-| 2022-02-22 | 2022-02-25 | AVAILABLE - REMOTE (short week due to holiday) | [Viktor Nagy](https://gitlab.com/nagyv-gitlab)  - Sr. Product Manager |
+| 2022-02-14 | 2022-02-18 | AVAILABLE - REMOTE | [Kurt Dusek](https://gitlab.com/kdusek) - Sr. Solution Architect|
+| 2022-02-22 | 2022-02-25 | AVAILABLE - REMOTE (short week due to holiday) | AVAILABLE - REMOTE (short week due to holiday) |
 | 2022-02-28 | 2022-03-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-03-07 | 2022-03-11 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-03-14 | 2022-03-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
