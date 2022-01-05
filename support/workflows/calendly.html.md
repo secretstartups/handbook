@@ -204,6 +204,22 @@ It is possible to automate the blocking of your PagerDuty shifts in Calendly, so
 1. In Calendly, navigate to **Account > Calendar Connections > Configuration > Check for conflicts** and click the **Edit** button.
 1. Ensure that the PagerDuty calendar added in step 2 is selected here (it will be listed as "On Call Schedule for _Your Name_", not the name you gave it in Google), and then click the **Update** button. If your calendar does not appear in the list, you can disconnect and reconnect your Google Calendar account from Calendly to refresh the calendar list.
 
+## Send customers the combined availability suggestions of multiple colleagues
+
+Using a similar principle as for blocking your PagerDuty shifts,
+it is also possible to make Calendly present only those time slots
+which are available for multiple GitLab colleagues.
+This is useful when other Support Engineers, developers or managers
+need to attend a customer call
+
+1. In Google Calendar **Other calendars > + > Subscribe to calendar**,
+   start typing the name of your colleague and
+   click on their auto-completed name to subscribe.
+1. In Calendly, navigate to **Account > Calendar Connections > Configuration > Check for conflicts**
+   and click the **Edit** button.
+1. Select your colleague's calendar via their `…@gitlab.com` entry.
+1. After the call has been scheduled, remove that entry again.
+
 ## Suggestions
 
 Ben Prescott
