@@ -407,17 +407,18 @@ The current Root Cause labels are listed below. In order to support trend awaren
 
 | Root Cause | Description |
 | ---------- | ----------- |
-| `~RootCause::Software-Change` | feature or other code change |
-| `~RootCause::Feature-Flag` | a feature flag toggled in some way (off or on or a new percentage or target was chosen for the feature flag) |
 | `~RootCause::Config-Change` | configuration change, other than a feature flag being toggled |
-| `~RootCause::SPoF` | the failure of a service or component which is an architectural SPoF (Single Point of Failure) |
-| `~RootCause::Malicious-Traffic` | deliberate malicious activity targeted at GitLab or customers of GitLab (e.g. DDoS) |
-| `~RootCause::Saturation` | failure resulting from a service or component which failed to scale in response to increasing demand (whether or not it was expected) |
+| `~RootCause::DB-Migration` | resulting from a database migration or a post-deploy migration |
 | `~RootCause::External-Dependency` | resulting from the failure of a dependency external to GitLab, including various service providers. Use of other causes (such as `~RootCause::SPoF` or `~RootCause::Saturation`) should be strongly considered for most incidents. |
-| `~RootCause::Release-Compatibility` | forward- or backwards-compatibility issues between subsequent releases of the software running concurrently, and sharing state, in a single environment (e.g. Canary and Main stage releases). They can be caused by incompatible database DDL changes, canary browser clients accessing non-canary APIs, or by incompatibilities between Redis values read by different versions of the application. |
-| `~RootCause::Security` | an incident where the [SIRT team](/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations) was engaged, generally via a request originating from the SIRT team or in a situation where Reliability has paged SIRT to assist in the mitigation of an incident not caused by `~RootCause::Malicious-Traffic` |
+| `~RootCause::Feature-Flag` | a feature flag toggled in some way (off or on or a new percentage or target was chosen for the feature flag) |
 | `~RootCause::Flaky-Test` | an incident, usually a deployment pipeline failure found to have been caused by a flaky QA test |
 | `~RootCause::Indeterminate` | when an incident has been investigated, but the root cause continues to be unknown and an agreement has been formed to not pursue any further investigation. |
+| `~RootCause::Malicious-Traffic` | deliberate malicious activity targeted at GitLab or customers of GitLab (e.g. DDoS) |
+| `~RootCause::Release-Compatibility` | forward- or backwards-compatibility issues between subsequent releases of the software running concurrently, and sharing state, in a single environment (e.g. Canary and Main stage releases). They can be caused by incompatible database DDL changes, canary browser clients accessing non-canary APIs, or by incompatibilities between Redis values read by different versions of the application. |
+| `~RootCause::Software-Change` | feature or other code change |
+| `~RootCause::SPoF` | the failure of a service or component which is an architectural SPoF (Single Point of Failure) |
+| `~RootCause::Saturation` | failure resulting from a service or component which failed to scale in response to increasing demand (whether or not it was expected) |
+| `~RootCause::Security` | an incident where the [SIRT team](/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations) was engaged, generally via a request originating from the SIRT team or in a situation where Reliability has paged SIRT to assist in the mitigation of an incident not caused by `~RootCause::Malicious-Traffic` |
 
 #### Customer Communications Labeling
 
