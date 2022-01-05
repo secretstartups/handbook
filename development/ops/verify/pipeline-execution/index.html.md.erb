@@ -101,8 +101,8 @@ Our planning timeline follows the [GitLab Product Development timeline](/handboo
   * The EM will move any `technical debt` issues they are considering for the next milestone into `workflow::planning breakdown`.
   * The EM will assign issues needing weight to engineers for refinement.
 * By the **13th** of each month:
-  * Engineers will refine the assigned issues and move them to `workflow::scheduling`.
-  * The EM and PM will update the milestone on issues in `workflow::scheduling` based on the team's capacity for the upcoming milestone and move issues into `workflow::ready for development`.
+  * Engineers will refine the assigned issues and move them to `workflow::ready for development`.
+  * The EM and PM will update the milestone on issues in `workflow::ready for development` based on the team's capacity for the upcoming milestone and move issues into their respective milestones.
   * The EM will assign the `Deliverable` label to as many `Verify::P1` issues in `workflow::ready for development` as the team has capacity for.
 
 #### How Engineering Refines Issues
@@ -133,7 +133,7 @@ Engineers will:
 1. Add a [weight based on the definitions](#weighting-issues)
 1. Update the `~workflow::` label to the appropriate status, e.g. 
    * ~"workflow::design" if further design refinement is needed, and let the designer know
-   * ~"workflow::scheduling" when refinement is completed and a weight has been applied, signaling that it's ready for implementation and the issue can now be prioritized
+   * ~"workflow::ready for development" when refinement is completed and a weight has been applied, signaling that it's ready for implementation and the issue can now be prioritized
    * ~"workflow::planning breakdown" if more investigation and research is needed, the status does not move, and the PM and EMs should be pinged
 1. Unassign themselves from the issue when they are done refining and weighting the issue
 
