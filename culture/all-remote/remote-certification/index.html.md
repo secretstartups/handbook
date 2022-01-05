@@ -44,7 +44,7 @@ This certification is ideal for aspiring or new managers, individual contributor
 
 In order to attain the **Remote Work Foundation** certification from GitLab, an individual must pass all ten knowledge assessments in the [GitLab Learn Remote Foundations Pathway](https://gitlab.edcast.com/pathways/copy-of-remote-foundations-badge) with a score of 80% or higher.
 
-Once you have completed the certification in GitLab Learn, you will recieve the Remote Foundations Badge that you can share on your GitLab Learn and LinkedIn profile.
+Once you have completed the certification in GitLab Learn, you will receive the Remote Foundations Badge that you can share on your GitLab Learn and LinkedIn profile.
 
 ## More GitLab certifications
 
