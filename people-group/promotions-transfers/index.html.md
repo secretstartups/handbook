@@ -357,8 +357,8 @@ To demote one of your direct reports, a manager should follow the following step
 - Demotions should also include a review of [compensation](/handbook/total-rewards/compensation/) and [stock options](/handbook/stock-options/#stock-options) in the google doc. Managers should consult with Total Rewards team on these topics; and of course always adhere to the Global Compensation Calculator.
 - Once agreement is reached on the demotion and changes (if any) in compensation, the total rewards team will act as the point of escalation to have any demotion reviewed and approved by the Compensation Group once the relevant google doc is complete.
 - Once approved, the manager informs the individual. Please cc people-exp@ gitlab.com  once the individual has been informed, to processes the changes in the relevant administrative systems, and stage a [Letter of Adjustment](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/editm).
-- Changes in title are announced on the `#team-member-updates` Slack channel.
-- The manager will initiate any necessary onboarding or offboarding.
+- Communication should be on a need-to-know basis only and should not be made public out of respect for the individual. 
+- The manager will initiate any necessary access requests or access change requests. 
 
 ## Job Information Change in BambooHR
 
