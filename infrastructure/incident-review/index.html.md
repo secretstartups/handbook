@@ -73,7 +73,7 @@ Incident reviews second step is engaging with the customer, through the point of
        1. The **CMOC**.
        1. **Product Managers**, for example, if the incident could have been avoided by the prioritization of specific ~Infradev/technical debt work.
        1. **Technical Account Managers**, if the incident directly impacted one of more major accounts
-   1. A designated director from the Development Department will go over incidents labeled `~Incident:Review In Progress` on the [Production Incidents Board](https://gitlab.com/gitlab-com/gl-infra/production/-/boards/1717012?label_name[]=incident) to:
+   1. A designated director from the Development Department will go over incidents labeled [`~review-requested` without `~Incident::Review-Completed`](https://gitlab.com/gitlab-com/gl-infra/production/-/issues?scope=all&state=all&label_name[]=review-requested&not[label_name][]=Incident%3A%3AReview-Completed):
        1. Identify any Development Department groups relevant to the incident.
        1. Apply any relevant group labels to the incident.
        1. Invite the relevant Development Department managers to the Synchronous Review Meeting Session.
