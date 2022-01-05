@@ -48,6 +48,14 @@ graph LR
     step_manager_final-->stop
 ```
 
+
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1cd9WHdBGJRayT1TnnW6wPJA6ZQ6qON28/preview" width="640" height="480" allow="autoplay"></iframe>
+</figure>
+
+
+
 ### Eligibility
 
 Eligible team members for Annual Compensation Review have a hire date on or before: 
@@ -105,6 +113,10 @@ For internal transfers, Total Rewards will need a list of active applicants from
 Any compensation changes that result from Annual Compensation Review will have an effective date of 2022-02-01. If a manager anticipates that a promotion is more suitable to process for a team member, the manager has the option to remove the team member out of the Annual Compensation Review process and process a promotion through Compaas (more details to come). If this is the case, please send an email to Total Rewards no later than 2021-12-08.
 
 ## Talent Assessment and Annual Compensation Review 
+
+<figure class="video_container">
+<iframe src="https://drive.google.com/file/d/1qn1vOhpuMWPXxcE9VLjg6ymJLzmL6T68/preview" width="640" height="480" allow="autoplay"></iframe>
+</figure>
 
 Performance and Growth Factors are assessed as part of the [Talent Assessments](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix).  The factors (developing - performing - exceeding) will be used as an input to calibrate on compensation increases, reinforcing GitLab’s pay for performance Compensation Philosophy.
 
@@ -190,7 +202,11 @@ While some GitLab team-members may not receive an increase due to already being 
 
 ### Manager Review in Compaas
 
-Please note: The Total Rewards team is currently updating the information below for the FY23 Annual Compensation Review Cycle. As we finalize the documentation the "todos" will be removed. 
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/10U64VYWCNjqjw6MxarAx6ko5inDayc8_/preview" width="640" height="480" allow="autoplay"></iframe>
+</figure>
+
+
 
 [Compaas](https://www.compa.as/) is GitLab's compensation platform where managers can login, review, change, and submit their proposed increases during Annual Compensation Review.
 
