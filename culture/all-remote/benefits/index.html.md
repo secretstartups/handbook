@@ -32,7 +32,7 @@ Remote: a work arrangement in which employees do not commute to a central place 
 
 Hybrid: when workers split their time between conventional in-office work and working remotely
 
-* [Read more about the ten models of remote and hybrid teams](/company/culture/all-remote/stages/) *
+[Read more about the ten models of remote and hybrid teams](/company/culture/all-remote/stages/)
 
 <!-- blank line -->
 <figure class="video_container">
@@ -166,17 +166,13 @@ Remote organizations are able to hire great people no matter where they live. Fo
 
 With employees located all over the world [working asynchronously](/company/culture/all-remote/asynchronous/), contributions can continue even when one time zone's working day is over.
 
-- GitLab has a people group KPI stating that the percent of sent Slack messages that are not DMs be > 50%.
-
 ### Happy staff and better productivity
 
 Employees are [more productive with fewer distractions](/blog/2018/03/15/working-at-gitlab-affects-my-life/), so long as leadership is supportive in equipping teams with the requisite tools, structure, and culture to thrive.
 
-- For example, GitLab has a KPI of [65 tickets closed per support staff per month](/company/kpis/).
-
 ## Challenges to consider before embracing remote work
 
-Despite [all-remote having many advantages](/company/culture/all-remote/benefits/), all-remote work isn't for everyone. It can have disadvantages for employees depending on their lifestyle and work preferences, as well as the organization. In the spirit of [transparency](/handbook/values/#transparency), we've outlined [potential drawbacks and solutions to these challenges here](/company/culture/all-remote/drawbacks/).
+Despite [all-remote having many advantages](/company/culture/all-remote/benefits/), remote work isn't for everyone. It can have disadvantages for employees depending on their lifestyle and work preferences, as well as the organization. In the spirit of [transparency](/handbook/values/#transparency), we've outlined [potential drawbacks and solutions to these challenges here](/company/culture/all-remote/drawbacks/).
 
 ## Which is right for your organization?
 
