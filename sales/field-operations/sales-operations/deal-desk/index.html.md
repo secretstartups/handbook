@@ -179,7 +179,7 @@ C.  Provide Quote, Account, and Subscription Term Details and click “Next.”
 | Toggle Field                   | Output                                                                                   |
 |--------------------------------|------------------------------------------------------------------------------------------|
 | Annual Payments                | Annual Payment Language will populate in Payment Details on the Order Form PDF           |
-| Customer Reference Langauge    | Customer Reference Langauge will populate in Notes Section of the order form             |
+| Customer Reference Language    | Customer Reference Langauge will populate in Notes Section of the order form             |
 | Add Quarterly True Up Langauge | Standard Quarterly True Up langauge will populate in the Notes section of the Order Form |
 | Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
 
