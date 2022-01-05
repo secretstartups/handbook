@@ -116,7 +116,7 @@ classDiagram
 
 1. Extend the [dimension bus matrix](https://docs.google.com/spreadsheets/d/1j3lHKR29AT1dH_jWeqEwjeO81RAXUfXauIfbZbX_2ME/edit#gid=1372061550) as the blueprint for the EDM.
 1. Add the table to the appropriate LucidChart ERD.
-1. Prep each system in the `PREP` database using source specific schemas.
+1. Model each source in the `PREP` database using source specific schema names.
 1. Create `PREP` tables in the `COMMON_PREP` schema in the `PROD` database. (The use cases of the `COMMON_PREP` schema are being evaluated for efficacy and necessity at this time.)
 1. Deploy dimension tables. Each dimension also includes a common record entry of -1 key value to represent `unknown`
 1. Create fact tables. Populate facts with correct dimension keys, and use the -1 key value for unknowable keys.
