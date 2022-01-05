@@ -184,7 +184,7 @@ that happened while you were away:
 - [Support Team Meeting](https://docs.google.com/document/d/1jwj5g0BIq3kTepw2-ZD9VSETs7Isf6YDHGzmYxmTt50/)
 - Slack channels:
   - [#company-fyi](https://gitlab.slack.com/archives/C010XFJFTHN)
-  - [#company-fyiprivate](https://gitlab.slack.com/archives/C02E7JGBU4E)
+  - [#company-fyi-private](https://gitlab.slack.com/archives/C02E7JGBU4E)
   - [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/C0259241C)
 
 Consider setting up a few coffee chats with team-mates to simply reconnect with them. You can also ask your team-mates who haven't taken PTO while you were out, during coffee chats or pairing sessions, to mention a thing or two that you might have missed.
