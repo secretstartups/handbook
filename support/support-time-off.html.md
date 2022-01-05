@@ -192,3 +192,22 @@ truly make the most of your time off, and make it easier to return to work:
 
 Please consider adding an item in the Support Week in Review after you get back to let the rest of the
 team know what you've been up to!
+
+## Catching up after a scheduled time off 
+
+Trying to catch-up after a scheduled time off - especially if it's a week long, or more - can be a bit overwhelming.
+So here is a list of resources to check that should get you up to date with almost everything 
+that happened while you were away:
+
+- [SWIR](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/)
+
+- [Support Team Meeting](https://docs.google.com/document/d/1jwj5g0BIq3kTepw2-ZD9VSETs7Isf6YDHGzmYxmTt50/)
+- Slack channels:
+  - [#company-fyi](https://gitlab.slack.com/archives/C010XFJFTHN)
+  - [#company-fyi-private](https://gitlab.slack.com/archives/C02E7JGBU4E)
+  - [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/C0259241C)
+
+Consider setting up a few coffee chats with team-mates to simply reconnect with them. You can also ask your team-mates who haven't taken PTO while you were out, during coffee chats or pairing sessions, to mention a thing or two that you might have missed.
+
+For more tips, check [returning from pto](https://about.gitlab.com/handbook/paid-time-off/#returning-from-pto). 
+
