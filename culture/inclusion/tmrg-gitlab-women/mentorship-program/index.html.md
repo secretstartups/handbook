@@ -165,6 +165,10 @@ Yes, this is a possibility. It's important that team members talk with their man
 
 It's possible that we will have a shortage of mentors and be unable to complete all mentor/mentee pairs. If there is a shortage of mentors and you've applied as both a mentor and a mentee, you will be assigned **only** as a mentor in this program. 
 
+**I participated in a past mentorship program at GitLab. Can I still participate in the current iteration?**
+
+Yes! Past participants in any mentor program and as either mentees, mentors, or both, are encouraged to apply to participate again.
+
 **I'd like to participate but I can't commit the entire length of the program. Can I still apply?**
 
 If you cannot commit to the 3 month program, please consider applying for a future mentorship program at GitLab. It's important that both mentors and mentees are available for the full 3 month program to achieve the best results.
