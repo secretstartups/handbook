@@ -112,7 +112,7 @@ On the first attempt, if our email system could not get through (usually server 
 
 This is useful to check if emails have been delivered successfully from our end, which could mean that the error is with the users' email provider.
 
-1. Log in to [Mailgun](https://app.mailgun.com/app/dashboard) using the `supporteam` credentials in the Support Team vault in 1Password.
+1. Utilize the MailGun SSO app on your Okta dashboard to Log in to [Mailgun](https://app.mailgun.com/app/dashboard).
 1. Click on `Sending` along the left-hand side navigation bar.
 1. Click on `Logs`.
 1. Ensure that `mg.gitlab.com` is set as the domain above the activity graph.
