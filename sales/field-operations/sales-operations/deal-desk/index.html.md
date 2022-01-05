@@ -174,13 +174,13 @@ C.  Provide Quote, Account, and Subscription Term Details and click “Next.”
 
 *   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
 
-*   Add any preapproved legal language selections to the order form. Checking the box next ot the langauge selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
+*   Add any preapproved legal language selections to the order form. Checking the box next ot the language selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
 
 | Toggle Field                   | Output                                                                                   |
 |--------------------------------|------------------------------------------------------------------------------------------|
 | Annual Payments                | Annual Payment Language will populate in Payment Details on the Order Form PDF           |
-| Customer Reference Language    | Customer Reference Langauge will populate in Notes Section of the order form             |
-| Add Quarterly True Up Langauge | Standard Quarterly True Up langauge will populate in the Notes section of the Order Form |
+| Customer Reference Language    | Customer Reference Language will populate in Notes Section of the order form             |
+| Add Quarterly True Up Language | Standard Quarterly True Up language will populate in the Notes section of the Order Form |
 | Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
 
 *   **Select “Sold To” and “Bill To” contacts.** Note that the “Sold To” contact will receive the EULA or License file via email. Note: Each contact record must have a complete address, if the address is not fully populated, you will need to update this before you can proceed with the quote. 
@@ -239,11 +239,11 @@ Amendments to subscriptions must be processed entirely before any changes can be
 
 *   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
 
-*   Add preapproved legal language selections to the order form. Checking the box next ot the langauge selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
+*   Add preapproved legal language selections to the order form. Checking the box next ot the language selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
 
 | Toggle Field                   | Output                                                                                   |
 |--------------------------------|------------------------------------------------------------------------------------------|
-| Customer Reference Langauge    | Customer Reference Langauge will populate in Notes Section of the order form             |
+| Customer Reference Language    | Customer Reference Language will populate in Notes Section of the order form             |
 | Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
     
 *   The **Start Date** cannot be set before the subscription start date.
@@ -313,13 +313,13 @@ Important: Gaps are not allowed between opps linked to the same subscription ie.
 
 *   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
 
-*   Add any preapproved legal language selections to the order form. Checking the box next ot the langauge selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
+*   Add any preapproved legal language selections to the order form. Checking the box next ot the language selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
 
 | Toggle Field                   | Output                                                                                   |
 |--------------------------------|------------------------------------------------------------------------------------------|
 | Annual Payments                | Annual Payment Language will populate in Payment Details on the Order Form PDF           |
-| Customer Reference Langauge    | Customer Reference Langauge will populate in Notes Section of the order form             |
-| Add Quarterly True Up Langauge | Standard Quarterly True Up langauge will populate in the Notes section of the Order Form |
+| Customer Reference Language    | Customer Reference Language will populate in Notes Section of the order form             |
+| Add Quarterly True Up Language | Standard Quarterly True Up language will populate in the Notes section of the Order Form |
 | Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
 
 *   The **Start Date** cannot be edited. This will be the true renewal date.
@@ -362,13 +362,13 @@ If the customer needs to change the Quote Start Date (typically for Billing purp
 
 *   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
 
-*   Add any preapproved legal language selections to the order form. Checking the box next ot the langauge selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
+*   Add any preapproved legal language selections to the order form. Checking the box next ot the language selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
 
 | Toggle Field                   | Output                                                                                   |
 |--------------------------------|------------------------------------------------------------------------------------------|
 | Annual Payments                | Annual Payment Language will populate in Payment Details on the Order Form PDF           |
-| Customer Reference Langauge    | Customer Reference Langauge will populate in Notes Section of the order form             |
-| Add Quarterly True Up Langauge | Standard Quarterly True Up langauge will populate in the Notes section of the Order Form |
+| Customer Reference Language    | Customer Reference Language will populate in Notes Section of the order form             |
+| Add Quarterly True Up Language | Standard Quarterly True Up language will populate in the Notes section of the Order Form |
 | Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
 
 *   Click Next and update the products and fees per the steps above.
