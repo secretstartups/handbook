@@ -47,10 +47,6 @@ graph LR
     step_exec_review_2-->step_manager_final
     step_manager_final-->stop
 ```
-<!---
-  <iframe src="https://drive.google.com/file/d/1cd9WHdBGJRayT1TnnW6wPJA6ZQ6qON28/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
-
--->
 
 
 
@@ -117,14 +113,6 @@ For internal transfers, Total Rewards will need a list of active applicants from
 Any compensation changes that result from Annual Compensation Review will have an effective date of 2022-02-01. If a manager anticipates that a promotion is more suitable to process for a team member, the manager has the option to remove the team member out of the Annual Compensation Review process and process a promotion through Compaas (more details to come). If this is the case, please send an email to Total Rewards no later than 2021-12-08.
 
 ## Talent Assessment and Annual Compensation Review 
-
-<!---
-
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1qn1vOhpuMWPXxcE9VLjg6ymJLzmL6T68/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
--->
 
 <figure class="video_container">
 <iframe src="https://drive.google.com/file/d/1qn1vOhpuMWPXxcE9VLjg6ymJLzmL6T68/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -215,8 +203,6 @@ While some GitLab team-members may not receive an increase due to already being 
 ### Manager Review in Compaas
 
 <figure class="video_container">
-<!--- <iframe src="https://drive.google.com/file/d/10U64VYWCNjqjw6MxarAx6ko5inDayc8_/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe> 
--->
   <iframe src="https://drive.google.com/file/d/10U64VYWCNjqjw6MxarAx6ko5inDayc8_/preview" width="640" height="480" allow="autoplay"></iframe>
 </figure>
 
