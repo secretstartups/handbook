@@ -18,6 +18,48 @@ Aligning passionate TAMs with customers to ensure their success by...
 - Identifying and enabling the customer in their current and future GitLab use cases
 - Expanding ROI with GitLab  
 
+## FY23 Goals (Big Rocks)
+**Objective:**  Define the 3 ‘big rocks’ to take on in FY23 with the overall goal of moving our team forwards.  These rocks need to move us forwards as a team and as individuals, enabling us to scale, be impactful, and be inspired/fulfilled in our roles. 
+
+**What are 'big rocks`?**  
+As outlined in [this article](https://www.forbes.com/sites/hillennevins/2020/01/21/what-are-your-big-rocks/?sh=191f218fae34), they are our priorities... our mission-critical objectives that we need to solve for in the coming year. We arrived at this list through TAM leadership discussions and final input from individual contributors.
+
+### Big Rock 1: (Re)Define the TAM Role
+
+The goal of the TAM is to drive growth. However, the role of the TAM has become increasingly broad over the past few years, deterring from the growth conversation with customers.  As we have added more to the role (migration & infrastructure guidance, cross-functional escalation ownership, consultative support), the ability to focus as a TAM on growth has become increasingly challenging. 
+
+To continue to build a scalable TAM team focused on excellent customer experience and driving customer growth, we need to refine the role of the TAM.  This initiative will include what a TAM is and what a TAM is not.  
+
+Key areas of exploration:
+1. Definition by TAM segment: High-touch, Mid-touch, Scale
+1. Reducing overlap: Looping in of support/timing
+1. Infrastructure conversations and ownership
+1. Escalation improvements; streamlining
+
+### Big Rock 2: Expertise in driving CI and DevSecOps adoption & expansion
+
+In FY22 we put considerable focus into use case expansion.  The team have developed a well-rounded understanding of the use cases, but have not been given the space needed to become experts in driving any one use case.  In FY23 we will seek to become experts in driving CI and DevSecOps expansion and maturity, knowing these use cases are the key drivers for customer stickiness and growth. 
+
+Key areas of exploration:
+1. Iteration on playbooks
+1. Supporting materials
+1. Webinars
+1. Digital enablement/expansion strategies
+1. Reporting & visualization
+1. Maturity scoring (customer)
+
+### Big Rock 3: Deepen our customer engagement
+
+The TAM relationship with the customer has been architected primarily on engagement with GitLab admins, who are not responsible for platform adoption or business case value.  Due to the TAM being pigeon-holed into these admin conversations, we are often not engaging with the right people in order to ensure excellent customer experience, use case adoption and growth.  In FY23 we will seek to engage the development team leads and key users of the GitLab platform early and often, to ensure consistent growth strategies with our customers. 
+
+Key areas of exploration: 
+1. Expectation setting: from presales
+1. Defining engagement strategies for target personas
+1. Supporting content creation and digital programs
+1. Exec sponsor program
+1. User groups/customer forums
+
+
 ## Handbook Directory
 
 ### TAM Segments & Metrics
