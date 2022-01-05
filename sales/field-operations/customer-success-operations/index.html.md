@@ -77,7 +77,14 @@ Create issues in the [CS Operations project](https://gitlab.com/gitlab-com/sales
 
 Labels to use when creating new issues or MRs for CS Ops:
 
+**Team Labels**
 - **CSOps** - Use to track and manage all CS Operations-related issues and MRs.
+- **CS Programs** - For the Digital Programs team to track and manage content requests, improvements, and other means of digital customer marketing.
+- **CS product usage data** - Issues related to Customer Success product usage data.
+- **RenewalOps** - Label to designate issues for the Renewal Ops team to improve our customer renewal process and experience.
+- **CS Ops Technical Writing** - Assigned to the CS Ops technical writers for review or creation of copy.
+
+**Scoped Labels** - used for tracking SDLC progress
 - **CSOps::Need_More_Info** - Requires additional information from the requester, or lacks information to complete the request.
 - **CSOps::Ready_for_Assignment** - Ready to be assigned and prioritized by CS Ops.
 - **CSOps::In_Process** - Actively being worked on in the current week or milestone.
@@ -87,7 +94,8 @@ Labels to use when creating new issues or MRs for CS Ops:
 - **CSOps::Transferred** - Transferred to another team for review and/or completion.
 - **CSOps::Backlog** - Not currently being evaluated or worked on.
 - **CSOps::bug** - A bug issue to be addressed by CS Ops.
-- **CS Ops Technical Writing** - Assigned to the CS Ops technical writers for review or creation of copy.
+
+**Team Requestor Labels** - for tracking where the request(s) came from
 - **CSOps - TAM** - Request originating from, or to benefit the TAM team.
 - **CSOps - PS** - Request originating from, or to benefit the PS team.
 - **CSOps - SA** - Request originating from, or to benefit the SA team.
