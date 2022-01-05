@@ -27,7 +27,9 @@ Please **note** the accesses are configurable as per team and use case basis.
 Once the AR is approved and closed, you'll see the Workato app in your Okta home page. _Please refresh the Okta home page, in case you cannot find the app_. There're 3 Workato apps in Okta for each of the environment, based on your request, you'll see those ones in Okta.
 
 On clicking the app, you'll land up in the Workato home page. Click on anyone of the project plate, and you're good to start creating or editing recipes.
-![image-1.png](./image-1.png)
+![workato landing page](./workato%20landing%20page.png/)
+
+![left panel](./left%20panel%20details.png/)
 
 
 
