@@ -181,6 +181,8 @@ Publisher sponsorships are when we engage a specific publisher in order to purch
      * **Best type of content to use**: Live webcasts and recorded webcasts work the best. Ebooks and guides sometimes work, depending on the placement. 
      * **Worst type of content to use**: Events and thought leadership reports/whitepapers like Gartner and Forrester reports. With leadership reports/whitepapers, we historically have not seen good engagement and sign-ups for these types of assets on Paid Social, unless the report is more of a how-to guide. 
 
+[Steps to set up Content Syndication in Marketo & SFDC](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc). Please note, you must open the following [issue]() in order for the sponsorship to be included in the DG Dashboard
+
 
 ### Digital Campaign Ad Specs
 {: #specs}
