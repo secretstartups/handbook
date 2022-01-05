@@ -2,7 +2,7 @@
 layout: markdown_page
 title: "Learning Experience Working Group"
 description: "Like all groups at GitLab, a working group is an arrangement of people from different functions. Learn more!"
-canonical_path: "/company/team/structure/working-groups/"
+canonical_path: "/company/team/structure/working-groups/learning-experience"
 ---
 
 ## On this page
