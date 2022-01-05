@@ -52,8 +52,7 @@ canonical_path: "/company/team/structure/working-groups/learning-experience/"
 
 | Working Group Role    | Person                | Title                          |
 |-----------------------|-----------------------|--------------------------------|
-| Executive Sponsor     | Bryan Wise | VP, Information Technology |
-| Facilitator           | TBD            | TBD      |
+| Executive Sponsor & Facilitator     | Bryan Wise | VP, Information Technology |
 | Functional Lead       | Michael Lutz      | Senior Director, Professional Services  |
 | Functional Lead       | David Somers          | Senior Director, Field Enablement   |
 | Functional Lead       | Josh Zimmerman         | Manager, Learning & Development   |
