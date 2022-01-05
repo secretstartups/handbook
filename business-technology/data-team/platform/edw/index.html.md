@@ -116,6 +116,8 @@ classDiagram
 
 1. Extend the [dimension bus matrix](https://docs.google.com/spreadsheets/d/1j3lHKR29AT1dH_jWeqEwjeO81RAXUfXauIfbZbX_2ME/edit#gid=1372061550) as the blueprint for the EDM.
 1. Add the table to the appropriate LucidChart ERD.
+1. Prep each system in the `PREP` database using source specific schemas.
+1. Create `PREP` tables in the `COMMON_PREP` schema in the `PROD` database. (The use cases of the `COMMON_PREP` schema are being evaluated for efficacy and necessity at this time.)
 1. Deploy dimension tables. Each dimension also includes a common record entry of -1 key value to represent `unknown`
 1. Create fact tables. Populate facts with correct dimension keys, and use the -1 key value for unknowable keys.
 
@@ -180,15 +182,14 @@ The Common Prep Schema has 6 primary use cases at this time. As we iterate on th
 1. Unioning data coming from multiple sources before loading into dimension tables.
 1. No specific case but built for consistency in design.
 
-#### Common Marts
+#### Common Mart
 
-Mart models describe business entities and processes. They are often grouped by business unit: marketing, finance, product.
+Mart models describe business entities and processes. They are often grouped by business units such as marketing, finance, product, and sales. When a model is in this directory, it communicates to business stakeholders that the data is cleanly modelled and is ready for querying.
 
-When a model is in this directory it communicates to business stake holders that the data is cleanly modelled and is ready for querying.
+Below are some guidlines to follow when building marts:
 
-Following the naming convention for fact and dimension tables all marts should start with the prefix `mart_`.
-
-Marts should not be built on top of other marts. Marts should be built on top of FCT and DIM tables.
+1. Following the naming convention for fact and dimension tables, all marts should start with the prefix `mart_`.
+1. Marts should not be built on top of other marts. Marts should be built on top of FCT and DIM tables. However, there are cases where we have mart level code snippets that join DIM and FCT tables together that needs to be resused across multiple different marts. In these use cases, we can create an ephemeral mart model to make the code snippet available for use by multiple marts without materializing the table in the data warehouse. This keeps the code DRY and allows for maintaining mart logic in one place. The ephemeral mart model should follow the name convention `mart_model_name_ephemeral`. We can also use macros to accomplish the same objective if the use case allows for that.
 
 ## Useful links and resources
 
