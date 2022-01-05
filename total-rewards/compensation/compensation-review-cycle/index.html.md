@@ -47,10 +47,18 @@ graph LR
     step_exec_review_2-->step_manager_final
     step_manager_final-->stop
 ```
+<!---
+  <iframe src="https://drive.google.com/file/d/1cd9WHdBGJRayT1TnnW6wPJA6ZQ6qON28/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+
+-->
+
+
 
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1cd9WHdBGJRayT1TnnW6wPJA6ZQ6qON28/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/file/d/1cd9WHdBGJRayT1TnnW6wPJA6ZQ6qON28/preview" width="640" height="480" allow="autoplay"></iframe>
 </figure>
+
+
 
 ### Eligibility
 
@@ -110,8 +118,16 @@ Any compensation changes that result from Annual Compensation Review will have a
 
 ## Talent Assessment and Annual Compensation Review 
 
+<!---
+
 <figure class="video_container">
   <iframe src="https://drive.google.com/file/d/1qn1vOhpuMWPXxcE9VLjg6ymJLzmL6T68/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+-->
+
+<figure class="video_container">
+<iframe src="https://drive.google.com/file/d/1qn1vOhpuMWPXxcE9VLjg6ymJLzmL6T68/preview" width="640" height="480" allow="autoplay"></iframe>
 </figure>
 
 Performance and Growth Factors are assessed as part of the [Talent Assessments](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix).  The factors (developing - performing - exceeding) will be used as an input to calibrate on compensation increases, reinforcing GitLab’s pay for performance Compensation Philosophy.
@@ -199,8 +215,12 @@ While some GitLab team-members may not receive an increase due to already being 
 ### Manager Review in Compaas
 
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/10U64VYWCNjqjw6MxarAx6ko5inDayc8_/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+<!--- <iframe src="https://drive.google.com/file/d/10U64VYWCNjqjw6MxarAx6ko5inDayc8_/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe> 
+-->
+  <iframe src="https://drive.google.com/file/d/10U64VYWCNjqjw6MxarAx6ko5inDayc8_/preview" width="640" height="480" allow="autoplay"></iframe>
 </figure>
+
+
 
 [Compaas](https://www.compa.as/) is GitLab's compensation platform where managers can login, review, change, and submit their proposed increases during Annual Compensation Review.
 
