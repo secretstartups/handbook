@@ -77,18 +77,18 @@ Create issues in the [CS Operations project](https://gitlab.com/gitlab-com/sales
 
 Labels to use when creating new issues or MRs for CS Ops:
 
-- CSOps - Use to track and manage all CS Operations-related issues and MRs.
-- CSOps::Need_More_Info - Requires additional information from the requester, or lacks information to complete the request.
-- CSOps::Ready_for_Assignment - Ready to be assigned and prioritized by CS Ops.
-- CSOps::In_Process - Actively being worked on in the current week or milestone.
-- CSOps::Blocked - Currently blocked by an internal or external prerequisite.
-- CSOps::Ready_to_Deploy - The issue is ready for deployment.
-- CSOps::Completed - The CS Ops team has completed their work.
-- CSOps::Transferred - Transferred to another team for review and/or completion.
-- CSOps::Backlog - Not currently being evaluated or worked on.
-- CSOps::bug - A bug issue to be addressed by CS Ops.
-- CS Ops Technical Writing - Assigned to the CS Ops technical writers for review or creation of copy.
-- CSOps - TAM - Request originating from, or to benefit the TAM team.
-- CSOps - PS - Request originating from, or to benefit the PS team.
-- CSOps - SA - Request originating from, or to benefit the SA team.
-- CSOps - Ops - Request to benefit the CSOps team.
+- **CSOps** - Use to track and manage all CS Operations-related issues and MRs.
+- **CSOps::Need_More_Info** - Requires additional information from the requester, or lacks information to complete the request.
+- **CSOps::Ready_for_Assignment** - Ready to be assigned and prioritized by CS Ops.
+- **CSOps::In_Process** - Actively being worked on in the current week or milestone.
+- **CSOps::Blocked** - Currently blocked by an internal or external prerequisite.
+- **CSOps::Ready_to_Deploy** - The issue is ready for deployment.
+- **CSOps::Completed** - The CS Ops team has completed their work.
+- **CSOps::Transferred** - Transferred to another team for review and/or completion.
+- **CSOps::Backlog** - Not currently being evaluated or worked on.
+- **CSOps::bug** - A bug issue to be addressed by CS Ops.
+- **CS Ops Technical Writing** - Assigned to the CS Ops technical writers for review or creation of copy.
+- **CSOps - TAM** - Request originating from, or to benefit the TAM team.
+- **CSOps - PS** - Request originating from, or to benefit the PS team.
+- **CSOps - SA** - Request originating from, or to benefit the SA team.
+- **CSOps - Ops** - Request to benefit the CSOps team.
