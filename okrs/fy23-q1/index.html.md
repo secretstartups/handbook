@@ -43,7 +43,7 @@ The by-the-book schedule for the OKR timeline would be
 
 ### 3. CEO: Management Development
 [Epic 1698](https://gitlab.com/groups/gitlab-com/-/epics/1698)
-   1. **CEO KR:** [Update Key Reviews](/handbook/key-review/ (with [11 cross-functional initiatives](https://about.gitlab.com/company/team/structure/working-groups/#11-cross-functional-initiatives), [Group Conversations](/handbook/group-conversations/), and [OKRs](/company/okrs/) (in a new platform). [Issue 12850](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12850)
+   1. **CEO KR:** [Update Key Reviews](/handbook/key-review/) (with [11 cross-functional initiatives](https://about.gitlab.com/company/team/structure/working-groups/#11-cross-functional-initiatives), [Group Conversations](/handbook/group-conversations/), and [OKRs](/company/okrs/) (in a new platform). [Issue 12850](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12850)
    1. **CEO KR:** Launch Directs Group with 4.5/5 feedback score for meetings. [Issue 12851](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12851)
    1. **CEO KR:** Have X people complete a management course. [Issue 12852](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12852)
 
