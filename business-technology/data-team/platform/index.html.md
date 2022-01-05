@@ -618,7 +618,7 @@ This is all orchestrated in the Data Pump [Airflow DAG](https://airflow.gitlabda
 * sensitive - `True` if this model contains sensitive data and is in the pumps_sensitive directory and schema
 * owner - your (or the business DRI's) gitlab handle
 
-**Step 3:** Create an [change issue in the platypus project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus/-/issues/new) using the 'change' issue template so that the Integration team can map and integrate the data into the target application.
+**Step 3:** Create an [issue in the platypus project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus/-/issues/new) using the 'change' issue template so that the Integration team can map and integrate the data into the target application.
 
 ### Current Data Pumps
 
