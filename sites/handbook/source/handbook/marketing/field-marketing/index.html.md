@@ -431,6 +431,11 @@ The FMC will track all open Marketo LPs and will be responsible for requesting t
 
 Thank you for your interest in this [insert event type]. This event has concluded and registration is now closed, but GitLab has a number of hands-on events and educational programs scheduled at any given time. Please visit our [events page](https://about.gitlab.com/events/) for more information on upcoming events and dates.  
 
+## Standard verbiage for closing a Marketo LP if an event is at capacity
+*The below verbiage can be utilized/sent to Verticurl when closing a Marketo LP form if an event is at capacity.*  
+
+Thank you for your interest in this [insert event type]. The event has reached capacity and registration is now closed, but GitLab has a number of hands-on events and educational programs scheduled at any given time. Please visit our [events page](https://about.gitlab.com/events/) for more information on upcoming events and dates.
+
 ## Closing a Marketo LP 
 *These instructions are standard across all campaign types and will close down the entire LP and re-routes visitors to our about.gitlab.com page.*
 
