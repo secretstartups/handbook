@@ -180,6 +180,7 @@ The Common Prep Schema has 6 primary use cases at this time. As we iterate on th
 1. Generate calculated fields and perform transformations to be used in multiple downstream dimensions and facts in the Common Schema.
 1. Bring in Foreign Keys/Identifier fields from other models that are useful for joins in dimensions and facts in the Common Schema.
 1. Unioning data coming from multiple sources before loading into dimension tables.
+1. Flatten data in JSON files and prepare them for use in the Common Schema.
 1. No specific case but built for consistency in design.
 
 #### Common Mart
