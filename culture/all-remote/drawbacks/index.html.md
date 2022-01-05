@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "All-Remote Drawbacks"
+title: "The definitive guide to all-remote work and its drawbacks"
 canonical_path: "/company/culture/all-remote/drawbacks/"
 description: Downsides to remote work
 twitter_image: "/images/opengraph/all-remote.jpg"
