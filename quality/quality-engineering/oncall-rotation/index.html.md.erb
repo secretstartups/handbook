@@ -42,13 +42,6 @@ and for [specific instructions on how to do an appropriate level of investigatio
 
 - There is a weekly reminder in the #quality-weeklystandup channel to check if a new Chrome version was released and update pipelines if necessary. One of the current DRIs should take this on.
   - Merge request example: https://gitlab.com/gitlab-org/gitlab/-/merge_requests/52008
-- There is a monthly reminder in the #quality-weeklystandup channel to check the Knapsack report and update it if necessary. One of the current DRIs should take this on.
-  - Merge request example: https://gitlab.com/gitlab-org/gitlab/-/merge_requests/61181
-  - The goal of this change is to ensure that tests will be parallelized optimally via [Knapsack](https://knapsackpro.com/). Process automation for this update is being tracked at https://gitlab.com/gitlab-org/gitlab/-/issues/13042, until then this should be done manually:
-    - Navigate to `ee:instance` jobs from the latest [GitLab QA `master` pipeline](https://gitlab.slack.com/archives/CNV2N29DM).
-    - Copy JSON reports that are printed after `Knapsack report was generated. Preview:` in the job logs.
-    - Copy reports to [`qa/knapsack/master_report.json`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/qa/knapsack/master_report.json) file.
-    - Remove the old JSON values for the tests and make sure there is no duplication of tests in the JSON file.
 
 ### Schedule
 
