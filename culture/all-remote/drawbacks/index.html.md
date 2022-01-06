@@ -27,6 +27,13 @@ Despite all of its [advantages](/company/culture/all-remote/benefits/), all-remo
 
 In the [video](https://youtu.be/CwOLAKSdlfs) above, GitLab Director of Technical Evangelism [Priyanka Sharma](https://gitlab.com/pritianka) discusses pros and cons of remote working with a panel of experts from [TFiR](https://www.tfir.io/), [Arm](https://www.arm.com/) and [ISG Research](https://isg-one.com/research).
 
+## Is working remotely effective?
+
+An all-remote job will best suit [self-motivated people](/blog/2019/03/28/what-its-like-to-interview-at-gitlab/). Some of the top optimizers of remote work are:
+* Reduced [interruption stress](/blog/2018/05/17/eliminating-distractions-and-getting-things-done/) and increased [productivity](https://www.inc.com/brian-de-haaff/3-ways-remote-workers-outperform-office-workers.html). 
+* Remote makes it [easier to communicate](/company/culture/all-remote/informal-communication/) with difficult colleagues remotely, [reducing distractions](/blog/2018/03/15/working-at-gitlab-affects-my-life/) from interpersonal drama or office politics. 
+* Flexibility to [choose your working hours](/company/culture/all-remote/people/#worklife-harmony) based on when you're [most productive](/company/culture/all-remote/asynchronous/).
+
 ## For employees
 
 1. [Onboarding](/company/culture/all-remote/learning-and-development/#how-do-you-onboard-new-team-members) can be difficult when you're remote, because it involves [more self-learning](/company/culture/all-remote/learning-and-development/) and you're not physically with your new coworkers and fellow new hires.
