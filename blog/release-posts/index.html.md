@@ -1385,7 +1385,7 @@ The release post contains a link to the [Deprecations documentation page](https:
 To add a new deprecation notice to that page:
 
 1. Create a new branch in the [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab) project.
-1. Create a `.yml` file in the [`data/deprecations`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations) folder. Use [`data/deprecations/templates/example.yml`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/deprecations/templates/example.yml) as the template:
+1. Create a `.yml` file in the [`data/deprecations`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations) folder. Use [`data/deprecations/templates/example.yml`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/deprecations/templates/example.yml) as the template. Name the file `XX-YY-feature-name.yml`, where `XX-YY` is the milestone of the initial deprecation announcement. For example, `14-7-pseudonymizer.yml`. The file should contain these elements:
 
    - `name`: the name the feature to be deprecated.
    - `announcement_milestone`: the milestone when the feature was first deprecated (for example, "14.3").
