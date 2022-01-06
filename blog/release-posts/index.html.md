@@ -723,7 +723,11 @@ In its [frontmatter](#frontmatter):
 
 - Look for each entry as shown on the code block below.
 - Remove any remaining HTML comments and unused blocks to clean up the file.
-- Make sure that `title` is no longer than 62 characters, to ensure it presents well against the blog post's title graphic.
+- Make sure that `title` is no longer than 62 characters, to ensure it presents well against the blog post's title graphic. The title should be short for the following reasons:
+
+    - Translation to other languages makes it longer
+    - Long titles break and look bad on smaller devices
+    - Content writing best practices-- short, concise title are better to deliver and easy to understand message for users
 
 ```yaml
 ---
