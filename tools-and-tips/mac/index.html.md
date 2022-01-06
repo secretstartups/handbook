@@ -13,7 +13,7 @@ This page lists various tips and tools for macOS.
 
 ## macOS tips
 
-Here are some useful [tips](https://support.apple.com/explore/new-to-mac) if you are new to macOS.
+Here are some useful [tips]() if you are new to macOS.
 Even if you are not new, these [keyboard shortcuts](https://support.apple.com/en-us/HT201236) may come in handy.
 
 If you are switching from Windows to macOS, these [tips](https://support.apple.com/en-us/HT204216) may be useful.
