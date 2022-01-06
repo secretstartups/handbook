@@ -78,7 +78,8 @@ Learn more about how GitLab [onboards its all-remote team members](/company/cult
   - All-remote companies tend to attract those who place a [high degree of value on autonomy](/blog/2018/03/15/working-at-gitlab-affects-my-life/). To some degree, companies who are hiring can expect applicants to opt-in to [this way of working](/blog/2019/07/09/tips-for-working-from-home-remote-work/).
   - [Screening employees](/blog/2019/03/28/what-its-like-to-interview-at-gitlab/) for these attributes is fairly easy [during the interview process](/blog/2017/01/03/how-to-prepare-for-a-virtual-interview/). Even if a prospective team member has yet to work in a remote setting, asking for examples of their mindset and performance while working from home, an event, or while traveling can provide valuable insight.
   - While each team member is different, you can get a glimpse of what it's like to operate in an all-remote setting through this [GitLab blog post](/blog/2019/06/18/day-in-the-life-remote-worker/), entitled *[A day in the life of the "average" remote worker](/blog/2019/06/18/day-in-the-life-remote-worker/)*.
-## For your organization
+
+## Remote work challenges and solutions for your organization
 
   <!-- blank line -->
 <figure class="video_container">
@@ -87,17 +88,21 @@ Learn more about how GitLab [onboards its all-remote team members](/company/cult
 <!-- blank line -->
 
 In the [video](https://youtu.be/ha4aMKl3MRA) above, GitLab co-founder and CEO Sid Sijbrandij discusses some of the organizational challenges involved in building and sustaining an all-remote company.
-
+### Challenge
 1. Because it's non-traditional, all-remote work sometimes [concerns](/blog/2018/10/18/the-case-for-all-remote-companies/) investors, partners, and customers.
+### Solutions
     - All-remote companies are welcome to glean from [GitLab's template for keeping investors in the loop](/blog/2018/10/17/how-we-keep-investors-in-the-loop/).
     -  For those in the early stages of fundraising for an all-remote company, here are [30 tips from GitLab co-founder and CEO Sid Sijbrandij](/blog/2016/10/14/fundraising-tips-ceo/).
     -  For even more on this topic, [listen](/blog/2019/08/16/all-remote-fundraising/) to Sid unpack why venture firms struggle to fund all-remote startups with [Maren Kate](https://www.linkedin.com/in/marenkate), host of the [Remote AF podcast](https://podcasts.apple.com/us/podcast/gitlab-raised-$100m-got-valued-at-over-billion-by-starting/id1467214647?i=1000444691471).
 
 > "In the beginning they assess your team, then they assess your product, and then they assess your financials. When it comes to the team, [investors are] super skeptical they will be able to create something with all-remote. Then when it’s about the product they say, ‘Yes, maybe, but what about scaling?’ And then when it’s about the financials you can let the numbers speak for themselves so it’s less of a concern. — *GitLab co-founder and CEO Sid Sijbrandij*
-
+### Challenge
 2. Differences in currency as well as tax, immigration, and labor laws around the world can create [compliance challenges](https://www.forbes.com/sites/forbeshumanresourcescouncil/2019/07/12/remote-work-is-here-to-stay-heres-how-to-avoid-three-common-compliance-issues/) for the organization.
+### Solution
     - While each organization is unique, we welcome other all-remote companies to learn from GitLab's [ever-evolving approach to hiring and remaining compliant across the globe](/company/culture/all-remote/hiring/).
+### Challenge
 3. You have to be more intentional about [cultivating](/blog/2019/06/04/contribute-wrap-up/), [sustaining](/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings), and [documenting](/company/culture/all-remote/learning-and-development/#the-importance-of-documenting-everything) your company culture.
+### Solutions
     - While this is an obstacle for all-remote companies, colocated organizations should be deliberate about documenting their culture as well.
     - All-remote organizations should document everything, including [values](/handbook/values/), and ensure that they are easily accessible to all.
     - GitLab demonstrates this with its [Handbook](/handbook/), a living document that is [continually iterated on](/handbook/about/#count-handbook-pages) by team members. We encourage all-remote organizations to glean from this and develop their own handbook.
