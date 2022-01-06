@@ -57,4 +57,4 @@ If you do not believe you need to request reasonable accomodations and you are j
 
 ### Not sure about disclosure? The DiversABILITY TMRG is here to listen and guide (if you want)
 
-Determining whether or not disclosing your disability at work is a deeply personal choice. If you would like to chat with someone about it discreetly, please feel free to DM Wil Spillane on Slack and he can either chat with you directly or point you to someone else who might be a better fit for the discussion.
+Determining whether or not disclosing your disability at work is a deeply personal choice. If you would like to chat with someone about it discreetly, please feel free to DM Wil Spillane or Kaitlyn Chappell on Slack and they can either chat with you directly or point you to someone else who might be a better fit for the discussion.
