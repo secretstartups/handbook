@@ -421,10 +421,12 @@ Please see process [here](/handbook/marketing/revenue-marketing/digital-marketin
 
 # Process to Close Marketo Landing Pages and Landing Page Forms
 
-The FMC will track all open Marketo LPs and will be responsible for requesting the LP be closed once the event occurs. 
-- The FMC will re-open the Marketo LP issue and request Verticurl follow one of the below processes (depending on campaign type, as Marketo program templates vary across different tactics). 
-- The FMC will specify if the page should be shut down completely or if the request is to close the LP form (to no longer allow registrations) and to update the verbiage at the top of the page (i.e. to specify if the event has occurred, is at capacity, etc.). 
-- The FMC will update the due date of the issue and move the triage label back to `FMM-Verticurl::WIP`.
+The FMC will track all open Marketo LPs and will be responsible for requesting the LP be closed once the event occurs. The FMC will also be responsible for closing LPs if an event reaches capacity. If Verticurl is unavailable and the request is urgent, the FMC can follow the below steps as well.
+
+- The FMC will re-open the Marketo LP issue and request Verticurl follow one of the below processes (depending on campaign type, as Marketo program templates vary across different tactics). In the LP issue, the FMC will specify if the page should be shut down completely or if the request is to close the LP form (to no longer allow registrations) and to update the verbiage at the top of the page (i.e. to specify if the event has occurred, is at capacity, etc.). Please see standard verbiage options below. The FMC will update the due date of the issue and move the triage label back to `FMM-Verticurl::WIP`.
+- If there are remaining invite issues open once registration is closed, the FMC will note this in the issue(s) and close them. If an invite is already scheduled to be sent, the FMC will ask Verticurl to unschedule the send before closing the issue. The FMC will update the due date of the issue and move the triage label back to `FMM-Verticurl::WIP`.
+- The FMC will also re-open the sales nominated issue and request Verticurl shut down the sales-nominated daily sends. The FMC will update the due date of the issue and move the triage label back to `FMM-Verticurl::WIP`.
+- There is no need to remove the event listing from the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) if an event has reached capacity. Having a sold out event listed could create more excitement over the event and encourage future attendees to register for events sooner.
 
 ## Standard verbiage for closing a Marketo LP after the event has occurred
 *The below verbiage can be utilized/sent to Verticurl when closing a Marketo LP form after an event has occurred.*  
