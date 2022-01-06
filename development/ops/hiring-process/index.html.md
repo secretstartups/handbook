@@ -32,7 +32,14 @@ The process for Ops is a mix of the current [hiring manager (HM) tasks](/handboo
 ### Step 3. Setup job in Greenhouse
 1. Work with TA to [open the vacancy in Greenhouse](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse-dri-recruiter)
 1. [Setup scoreboard](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-3hm-setup-scorecard-and-prepare-interview-team)
-1. Publish job ad
+1. Publish job ad both **internally** and **externally**
+    1. [Optional] Add additional questions to the application, such as number of years of Rails experience, or qualities relevant to your role 
+1. Add your own manager as a hiring manager in the req
+    1. **Job Setup** (tab) > **Hiring Team** (left nav)
+    1. Click `Edit` under Hiring Managers and add your manager
+         1. If your manager's name doesn't show up, it's likely that they don't have any permissions to view this role currently.
+         1. Scroll down to the section **Who can see this job?** and grant your manager **Job Admin: Hiring Manager** permissions
+         1. Return to the previous step, and now you can **edit the list of Hiring Managers** and add them
 
 ### Step 4. Sourcing 
 
