@@ -187,7 +187,7 @@ There are [various stages of remote work](/company/culture/all-remote/stages/), 
 
 While there are a growing number of freelance gigs which can be completed remotely, this article is centered around [full-time remote careers](/company/culture/all-remote/jobs/).
 
-## GitLab remote work policy
+## GitLab remote work manifesto
 
 All-remote work promotes:
 
