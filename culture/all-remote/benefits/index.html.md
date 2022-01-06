@@ -15,7 +15,23 @@ twitter_creator: "@gitlab"
 - TOC
 {:toc}
 
-On this page, we're highlighting benefits of operating an all-remote company for employers, employees, and the world.
+## A brief [history](https://wrkfrce.com/a-brief-history-of-remote-work/) of remote work
+
+* 1973: Jack Nilles creates the terms "telecommuting" and "teleworking"
+* 1979 Frank Schiff, VP and chief economist of the Committee for Economic Development states that "If 10 percent of those who commute to work each weekday were to start working at home two days each week, this would reduce the volume of such travel by 4 percent" in the [Washington Post.](https://www.washingtonpost.com/archive/opinions/1979/09/02/working-at-home-can-save-gasoline/ffa475c7-d1a8-476e-8411-8cb53f1f3470/)
+* 1983: IBM runs an experiment and allows 5 employees to work from home. 4 years later nearly 2,000 of its employees were telecommuting.
+* 1987: 1.5 million Americans work remotely
+* 1991: Wi-Fi boosts the availability of remote work
+* 2015: GitLab, Inc. launches with 9 all-remote FTE's
+* 2020: COVID-19 accelerates the validity of all-remote work
+
+## What is the difference between "remote" and "hybrid"?
+
+Remote: a work arrangement in which employees do not commute to a central place of work
+
+Hybrid: when workers split their time between conventional in-office work and working remotely
+
+[Read more about the ten models of remote and hybrid teams](/company/culture/all-remote/stages/).
 
 <!-- blank line -->
 <figure class="video_container">
@@ -23,9 +39,9 @@ On this page, we're highlighting benefits of operating an all-remote company for
 </figure>
 <!-- blank line -->
 
-In the [video](https://www.youtube.com/watch?v=Xw-31PZkHOo) above, GitLab Director of Global People Operations [Carol Teskey](https://gitlab.com/cteskey) shares her view on the many benefits of all-remote, and the competitive advantages that come along with it.
+In this [video](https://www.youtube.com/watch?v=Xw-31PZkHOo), GitLab Director of Global People Operations [Carol Teskey](https://gitlab.com/cteskey) shares her view on the many benefits of all-remote, and the competitive advantages that come along with it.
 
-## All-Remote Benefits & Advantages
+## Benefits of remote work
 
 ![GitLab values illustration](/images/all-remote/gitlab-values-tanukis.jpg){: .medium.center}
 
@@ -130,6 +146,68 @@ Working remotely gives each person the autonomy to serve in a place that matters
 
 1. There's evidence that [remote work can reduce the effects of urban crowding](https://qz.com/work/1641664/remote-workers-are-the-solution-to-urban-crowding/) for many cities around the world. Some states and countries are even [offering incentives](http://fortune.com/2019/06/22/google-housing-plan-bay-area/) to encourage remote work. Here are [13 examples](https://www.bankrate.com/personal-finance/smart-money/places-that-will-pay-you-to-move/#slide=1) around the world.
 1. For global companies, bringing better-paying jobs to low-cost regions has positive economic impacts and works to reverse the [trends](http://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2016)586632) of [depopulation in rural regions](https://carsey.unh.edu/publication/rural-depopulation).
+
+## The competitive advantage for companies that embrace remote work
+
+Remote enables a more diverse and inclusive workforce, greater efficiency in workflows, and broader global coverage in servicing clients. It significantly de-risks a business, making it more resilient in the face of crises and able to maintain continuity regardless of whether an office is open or closed.
+
+Companies may need to create a [remote leadership team](/company/culture/all-remote/transition/#make-the-executive-team-remote) and invest in manager training. However, there is little debate on whether this is an option. Remote work will soon simply be "work," with global flexibility an expectation. Companies which have multiple offices already have teams which are remote to one another, and thus need a solid baseline of remote fluency to operate in optimal fashion.
+
+### Top tier talent, without location being a factor
+
+Limiting your company's recruiting pipeline to a certain geographic region, or sourcing employees who are able and willing to relocate, is a competitive **dis**advantage.
+
+Not only does this create a less [inclusive](/company/culture/inclusion/) hiring process which reaches a less diverse set of candidates, it forces your organization to compete primarily on the basis of [salary](https://hired.com/page/state-of-salaries).
+
+Remote organizations are able to hire great people no matter where they live. For example, GitLab has a truly global footprint, with team members in [65+ countries](/company/team/).
+
+### Flexible working hours and availability
+
+With employees located all over the world [working asynchronously](/company/culture/all-remote/asynchronous/), contributions can continue even when one time zone's working day is over.
+
+### Happy staff and better productivity
+
+Employees are [more productive with fewer distractions](/blog/2018/03/15/working-at-gitlab-affects-my-life/), so long as leadership is supportive in equipping teams with the requisite tools, structure, and culture to thrive.
+
+## Challenges to consider before embracing remote work
+
+Despite [all-remote having many advantages](/company/culture/all-remote/benefits/), remote work isn't for everyone. It can have disadvantages for employees depending on their lifestyle and work preferences, as well as the organization. In the spirit of [transparency](/handbook/values/#transparency), we've outlined [potential drawbacks and solutions to these challenges here](/company/culture/all-remote/drawbacks/).
+
+## Which is right for your organization?
+
+We're nearing [a tipping point with all-remote](https://medium.com/@gcvp/going-distributed-choosing-the-right-remote-friendly-team-model-6a04f833267c). Instead of remote teams having to justify why they do it, it's going to be colocated companies having to justify why they *don't*.
+
+All-remote work wouldn't be possible without the constant evolution of technology, and the tools that enable this type of work are continuously being developed and improved.
+
+## Determining eligibility for hybrid or remote work
+
+While [job sites](/company/culture/all-remote/jobs/) and common conversation can lump each remote role into a single category, it's important to realize that not every remote role is created equal. Just as colocated roles need to be evaluated in totality, those seeking to transition into a remote role for the first time should ask certain questions during the interview or evaluation phase.
+
+There are [various stages of remote work](/company/culture/all-remote/stages/), which can be easily pictured as a sliding scale. From no-remote to [hybrid-remote](/company/culture/all-remote/hybrid-remote/) to all-remote, and all points in between, a remote worker's experience in each setting will likely vary. Below, we're highlighting key topics to cover when seeking an understanding of how you'll be treated in a full-time remote role. Additional questions should be considered depending on your specific scenario and familiarity with the hiring company.
+
+While there are a growing number of freelance gigs which can be completed remotely, this article is centered around [full-time remote careers](/company/culture/all-remote/jobs/).
+
+## GitLab remote work manifesto
+
+All-remote work promotes:
+
+1. Hiring and working from all over the world (instead of from a central location).
+2. Flexible working hours (over set working hours).
+3. Writing down and recording knowledge (over verbal explanations).
+4. Written processes (over on-the-job training).
+5. Public sharing of information (over need-to-know access).
+6. Opening up documents for editing by anyone (over top-down control of documents).
+7. Asynchronous communication (over synchronous communication).
+8. The results of work (over the hours put in).
+9. Formal communication channels (over informal communication channels).   
+
+> **"Remote is not a challenge to overcome. It's a clear business advantage."** -Victor, Product Manager, GitLab
+
+GitLab is one of the world's largest all-remote companies with [team members](/company/team/) located in more than 65 countries around the world.
+
+Our all-remote workforce implementation is featured in [The Journal of Organizational Design](https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8). It is also the centerpiece of case studies authored by [Harvard Business School](https://www.hbs.edu/faculty/Pages/item.aspx?num=57917) and [INSEAD](https://publishing.insead.edu/case/gitlab).
+
+Click around to learn more about what "all-remote" really means, [how it works at GitLab](/company/culture/all-remote/tips/#how-it-works-at-gitlab), some [tips and tricks](/company/culture/all-remote/tips/#tips-for-leaders-and-other-companies) for remote teams, and [resources](/company/culture/all-remote/resources/) to learn more.
 
 ## Contribute your lessons
 
