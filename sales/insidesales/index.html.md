@@ -59,7 +59,30 @@ Once you have been assigned a territory:
 
 ## ISR Account and Opportunity Management
 
-### ISR Prioritization & Opportunity Tiering
+### The ISR Required 5
+
+It's Monday morning. You have just opened your laptop. You've got 2 renewal health check calls, an Ultimate Upgrade call, 10 customer touchpoints to execute, and 2 quotes to do. You know this because your tasks and next steps are clear and up to date.
+
+Your first call is a Renewal Health Check. You have already up a deck together and you double-check your next steps and opportunity history to make sure you haven't missed anything. Turns out the customer mentioned other business units could benefit from using GitLab on a previous call and promised you that they would track down the best people to get in touch with. You were reminded of this because it was in your next steps. You remind the customer and get names and contact information and a new add-on opportunity to qualify. 
+
+Next up, you need to send out those two quotes. You create the quotes, send them to the customer, and update your next steps to remind you to follow-up with the customers in 2 days' time.
+
+Next up is the Ultimate Upgrade. You get on the call. You recap the last conversation and take the customer through the reasons why Ultimate is ideal for them. You know security is important because they’ve mentioned it to you a few times on calls now as per your call notes. They like what they see, but the price seems a bit high. But you’ve already thought about that and go through the ROI of using Ultimate. You end the call agreeing to send over a quote and confirm that you will have a check-in in a week’s time. You update your task and next steps in line with the check-in call date, you update the opportunity history and paste your raw notes from the call into your activity log.
+
+Now it's time to work through the remaining tasks in your task list. You navigate to the Salesforce.com homepage and realize that you need to prepare and build a deck for an add-on call with a new customer business unit tomorrow. You create the deck in the customers branding. You add in info that you gathered previously. It's 100 potential Premium users, so you add in the questions you'll ask in your command plan. You update the task and next step to remind yourself to update the opportunity once the call is finished.
+
+Finally, you have time to clear your inbox and catch up on Slack messages!
+
+
+| Required Component | Detail                 | Why                   | 
+| ------------------ | ---------------------- | --------------------- |
+| **Tier all of your opportunities** | [Requirements - ISR Prioritization & Opportunity Tiering](https://about.gitlab.com/handbook/sales/insidesales/#isr-prioritization--opportunity-tiering) | Helps to identify opportunity ownership and streamline account team collaboration |
+| **Create & maintain an opportunity task for all opportunities** | [Requirements - Opportunity Task Management](https://about.gitlab.com/handbook/sales/insidesales/#opportunity-task-management) | Creates efficiencies in customer outreach and helps you ensure that you are ahead of all opportunities | 
+| **Keep your next steps up to date** | The `Next Step` and `Next Steps Owner` fields must be up to date at all times | Understanding the next step and who owns it is critical to delivering a good customer experience and closing deals |
+| **Keep a log of your customer-facing activities** | Keep a running log of all customer-facing activities using the `Next Steps History` field. | As an ISR, you have a high volume of activites and opportunities to keep track of. Maintaining a log of activities will help you work through opportunities and context-switching more effectively. |
+
+
+### ISR Opportunity Tiering
 This process helps to better organize, track, and report on the different types of opportunities that are being managed by the Enterprise Inside Sales team. Enterprise Inside Sales Reps are required to select the appropriate `ISR Priority` tier for each opportunity that they are working in Salesforce. The `ISR Priority` tier is a data point that can be found in the Opportunity object in Salesforce and should be maintained until the opportunity is closed out.
 
 #### Tier 1 = Actively managed by ISR
