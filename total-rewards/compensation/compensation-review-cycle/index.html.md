@@ -104,14 +104,6 @@ Team members hired after October 31st will be reviewed to ensure their salary do
 1. February 1st - Februrary 4th: Total Rewards Analysts will update [BambooHR](https://www.bamboohr.com/d/), and notify all payroll providers to be effective February 1st. Total Rewards will be generating a "Total Rewards Statement" inclusive of Cash Compensation changes and current equity value for managers to use in communicating compensation changes in FY22. Total Rewards will also be iterating to include Total Benefits & incentives awarded throughout FY22. 
 1. Once the People Group gives the ok: Managers will inform the team members of the increase and adjustments to compensation compared to their performance. Team members will need to be notified no later than February 11th.
 
-### Compensation Change Freeze
-
-To ensure a smooth process, the Total Rewards team will freeze any compensation changes relating to promotions as part of the Annual Compensation Review process leading into the [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) portion of the program. Any compensation or promotion change requests need to be [submitted in BambooHR](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change) by 2021-12-01 with last available effective date of 2021-12-01. If an exception needs to be made and a compensation change needs to be processed during this time, such as relocations or other reasons, please send an email to Total Rewards.
-
-For internal transfers, Total Rewards will need a list of active applicants from Talent Acquisition on roles as of 2021-12-08. If a team member takes an internal transfer, they will be removed from the Annual Compensation Review process as their compensation will be reviewed per the hiring process.
-
-Any compensation changes that result from Annual Compensation Review will have an effective date of 2022-02-01. If a manager anticipates that a promotion is more suitable to process for a team member, the manager has the option to remove the team member out of the Annual Compensation Review process and process a promotion through Compaas (more details to come). If this is the case, please send an email to Total Rewards no later than 2021-12-08.
-
 ## Talent Assessment and Annual Compensation Review 
 
 <figure class="video_container">
@@ -191,6 +183,9 @@ E.g. The minimum increase to stay in range is 15% and the performance range is 3
 1. Use placement within the compensation range and previous increases/start date to finalize the increase.
 1. **Important note:** Any increase above 10% or out of band exceptions due to contract factor updates must come with additional justification entered into the notes section for planning to be complete. These justifications will be reviewed and approved by the department leader, division leader and compensation group.
 1. Also: Anyone on a formal Performance plan (PEP, PIP) will be excluded from the review. This must be communicated to Total Rewards and PBP by December 15th.
+
+**For Promotions:** 
+When determining compensation increases for promotions the same general guidelines apply. We want to take a look holistically at the compensation change. It is important to not formulaicly allocate an annual compensation review increase then the promotion increase. Instead, we would ask managers to look a the new range (which will be seen in compaas once the promotion is applied) and then make a recommendation based on the holistic view of all information. For more information on how to assess equity refresh grants for promotions in Compaas please view the [stock tab details](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#for-slate-owners). 
 
 ## Manager Review
 
