@@ -40,6 +40,10 @@ An all-remote job will best suit [self-motivated people](/blog/2019/03/28/what-i
 
 **Remote-first** typically means there is a physical workplace of some kind available to employees who need or prefer a traditional office space outside of the home. However, these spaces are not always company-owned, they could be a shared workspace, coffee shop, or public library.
 
+Remote-first organizations optimize their company for remote by creating documentation, policies, and [workflows](/company/culture/all-remote/how-to-work-remote-first/) that assume 100% of the organization is remote.
+
+These companies work to ensure that offices are simply [venues to work remotely from](/company/culture/all-remote/how-to-work-remote-first/#offices-are-simply-venues-to-work-remotely-from), and are not the epicenter of power or culture. 
+
 ## Remote work challenges and solutions for employees
 
 ### Challenge
@@ -79,7 +83,7 @@ Learn more about how GitLab [onboards its all-remote team members](/company/cult
   - [Screening employees](/blog/2019/03/28/what-its-like-to-interview-at-gitlab/) for these attributes is fairly easy [during the interview process](/blog/2017/01/03/how-to-prepare-for-a-virtual-interview/). Even if a prospective team member has yet to work in a remote setting, asking for examples of their mindset and performance while working from home, an event, or while traveling can provide valuable insight.
   - While each team member is different, you can get a glimpse of what it's like to operate in an all-remote setting through this [GitLab blog post](/blog/2019/06/18/day-in-the-life-remote-worker/), entitled *[A day in the life of the "average" remote worker](/blog/2019/06/18/day-in-the-life-remote-worker/)*.
 
-## Remote work challenges and solutions for your organization
+## Remote work challenges and solutions for organizations
 
   <!-- blank line -->
 <figure class="video_container">
@@ -106,6 +110,12 @@ In the [video](https://youtu.be/ha4aMKl3MRA) above, GitLab co-founder and CEO Si
     - While this is an obstacle for all-remote companies, colocated organizations should be deliberate about documenting their culture as well.
     - All-remote organizations should document everything, including [values](/handbook/values/), and ensure that they are easily accessible to all.
     - GitLab demonstrates this with its [Handbook](/handbook/), a living document that is [continually iterated on](/handbook/about/#count-handbook-pages) by team members. We encourage all-remote organizations to glean from this and develop their own handbook.
+
+## Remote work challenges and solutions for teams
+
+### Challenges
+
+### Solutions
 
 ----
 
