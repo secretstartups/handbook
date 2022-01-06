@@ -106,17 +106,15 @@ The Director, Product Management is a [grade 10](/handbook/total-rewards/compens
 #### Director of Product Management - Responsibilities
 **Team responsibility**
 * Perform all non-IC responsibilities of a [Group Manager of Product](#group-manager-product-gmp---responsibilities)
-* Provide impactful strategic contributions to how the  [Product Leadership Team](/handbook/product/product-leadership/#product-leadership-team-structure) operates and help shape the priorities of the Product function
 * Help the team to avoid shipping our org chart. 
   * Within the area of ownership, ensure that team creates product experiences that solve the job-to-be-done. 
   * Across your peer group - work to identify areas to partner with peers to create single app experiences that solve the job-to-be-done. 
 * Ensure adequate Career Coaching is available to all Product Managers in your organization
-* Contribute to the [job family](/handbook/hiring/job-families/), [CDF](/handbook/product/product-manager-role/product-CDF-competencies/) and [hiring content](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master/Product) for the Product function
 * Maintain a comprehensive understanding of GitLab's overall, and Section specific Product Direction to spot, propose and complete appropriate [global optimizations](/handbook/values/#global-optimization) of our R&D investment
 * Analyze GTM metrics and propose and complete improvements to our R&D and GTM interactions including [pricing](/company/pricing/), product positioning and process
 * Maintain priorities for and champion [acquisitions](/handbook/acquisitions/) that impact our [product maturity](/direction/maturity/)
-* Perform [product walk-throughs](/handbook/product/product-processes/#walk-through) regularly to highlight opportunities for improved workflows that span groups, stages and section.
 * Exemplify, coach others on, and contribute to [GitLab values](/handbook/values/)
+* Drive cross-functional, high impact business workstreams outside of direct area of ownership 
 
 #### Director of Product Management - Requirements
 Requirements for the role are outlined as part of the [Product Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/).
