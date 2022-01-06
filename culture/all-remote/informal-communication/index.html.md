@@ -24,9 +24,14 @@ On this page, we're detailing how informal communication occurs at GitLab, how i
 Informal communication in the workplace is made up of interactions between co-workers that is unofficial in nature and focuses on building social relationships outside of the normal hierarchy of a typical business structure.
 
 ## What is the difference between formal and informal communication in the workplace?
+
 Since GitLab is an all-remote organization that [works asynchronously](/company/culture/all-remote/asynchronous/), nearly all work communication is [documented](/handbook/documentation/), making all work-related communications "formal" communications. This helps support our value of [transparency](handbook/values/#transparency).
 
 We are big on relationship-buiding and highly value intentionally creating time to build relationships via informal communications. 
+
+## What are some examples of informal communication?
+
+Ways to get to know your team via informal communication might include things like talking about non-work topics such as the weather, pets, favorite foods or holidays, sending a birthday greeting or encouraging message. 
 
 ## Formally design informal communications
 
