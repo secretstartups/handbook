@@ -23,9 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Dec 23 | **No Session due to Holiday**      | N/A  |
-| Dec 30 |  **No Session due to Holiday**      | N/A  |
-| Jan 6 |  GitLab on IBM Power - Modernization     | Sara C. Erik O.    |
 | Jan 13 | Q4 FY22 Professional Services Update    | Bryan M.  |
 | Jan 20 | *No session during the last two weeks of the quarter* | N/A |
 | Jan 27 | *No session during the last two weeks of the quarter* | N/A |
@@ -38,6 +35,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-01-06 |  **[GitLab on IBM Power - Modernization](https://youtu.be/0c0CE3JWz0Q)**     | Private    |
 | 2021-12-16 |  **[GitLab Acquires Opstrace](https://youtu.be/l1HWrdUJdjs)**      | Private  |
 | 2021-12-09 |  **[Operational Efficiencies & Flexible Hosting Options with Gitaly Cluster](https://youtu.be/zI1t0IyHayM)**     | Private |
 | 2021-11-18 | **[Trust Building In Consultative Engagements](https://youtu.be/UswJSp3eeNA)**    | Private |
