@@ -37,6 +37,10 @@ Also, we act as a support group. Whether it's async in Slack or live during a me
 
 ## Additional Resources
 
+### Neurodivergence is considered a disability? Yes.
+
+When we are talking about a disability, we are referring to both physical _and cognitive disabilities_, which include ADHD, Dyslexia, Autism, and other cognitive disablities. We often refer to people with cognitive disabilities as being neurodivergent or having a neurodivergence ([many people prefer "people first langauge use" and you can learn more about it here](https://odr.dc.gov/page/people-first-language)).
+
 ### Disclosing your disability to your team and GitLab
 
 Disclosing your disability is an entirely personal choice. Disclosure is not required. However, we aim to live our Transparency value and to ensure that all team members have an equitable opportunity to succeed in their role, and disclosure could aid in this.
