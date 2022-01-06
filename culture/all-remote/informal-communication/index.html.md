@@ -19,13 +19,19 @@ twitter_creator: "@gitlab"
 
 On this page, we're detailing how informal communication occurs at GitLab, how it complements [in-person interactions](/company/culture/all-remote/in-person/), and why it matters in an all-remote [culture](/company/culture/#culture-at-gitlab). There are over 20 different ways to foster informal communication below, and we are constantly discovering and adding new methods.
 
-## What is informal communication?
+## What do we mean by **informal communication**?
 
 Informal communication in the workplace is made up of interactions between co-workers that is unofficial in nature and focuses on building social relationships outside of the normal hierarchy of a typical business structure.
+
+## What is the difference between formal and informal communication in the workplace?
+Since GitLab is an all-remote organization that [works asynchronously](/company/culture/all-remote/asynchronous/), nearly all work communication is [documented](/handbook/documentation/), making all work-related communications "formal" communications. This helps support our value of [transparency](handbook/values/#transparency).
+
+We are big on relationship-buiding and highly value intentionally creating time to build relationships via informal communications. 
 
 ## Formally design informal communications
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">When working remote it is important to formalize informal communication. Explicitly plan time to create, build, and maintain social connections and trust. In our handbook we list 15 methods <a href="https://t.co/OAYB1uKX3r">https://t.co/OAYB1uKX3r</a> which I&#39;ll summarize in this thread.</p>&mdash; Sid Sijbrandij (@sytses) <a href="https://twitter.com/sytses/status/1250946875143815168?ref_src=twsrc%5Etfw">April 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Organize informal communication
 
 Informal team member communications, such as a chat about life outside of work, are necessary for building trust. Trust is essential for great business results and is a [foundational element of culture](/company/culture/#culture-at-gitlab). Many businesses invest heavily in offices and facilities, because they believe offices are necessary for informal communication.
