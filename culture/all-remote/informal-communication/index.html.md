@@ -135,6 +135,11 @@ Below are a number of intentional facets of [GitLab's culture](/company/culture/
 
 >  **"I’ve been given a tour of team members’ new houses, admired their Christmas decorations, squealed when their pets and kids make an appearance and watched them preparing dinner – glimpses into the personal lives of my colleagues that I’ve never had in any office job."** - [Rebecca](https://about.gitlab.com/company/team/#rebecca), Managing Editor, GitLab
 
+
+## How can informal communication be improved?
+
+In addition to all the ideas above, we've curated best practices for how to improve informal communication both as an individual and as a team below. 
+
 ## Creating room for human connection on calls
 
 ![Mixing it up with hats and backgrounds](/images/all-remote/gitlab-marketing-social-hour.jpg){: .shadow.medium.center}
