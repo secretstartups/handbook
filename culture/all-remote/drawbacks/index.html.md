@@ -113,9 +113,25 @@ In the [video](https://youtu.be/ha4aMKl3MRA) above, GitLab co-founder and CEO Si
 
 ## Remote work challenges and solutions for teams
 
-### Challenges
+Despite its many [advantages](/company/culture/all-remote/benefits/), all-remote work can be challenging for teams.
 
+### Challenge
+1. A remote role can feel [lonely](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/), especially if you're [transitioning from a traditional office setting](/blog/2018/03/15/working-at-gitlab-affects-my-life/).
 ### Solutions
+  - Build an [intentional structure to informal communications](/company/culture/all-remote/informal-communication/) to help combat loneliness.
+  - Schedule regular [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats), [social calls](/company/culture/all-remote/informal-communication/#social-calls), and [incentivize in-person visits](/handbook/incentives/#visiting-grant) between team members to encourage teambuilding and prevent isolation.
+### Challenge
+1. If teams aren't intentional about creating ways for their people to stay connected, remote settings can cause communication breakdowns. 
+### Solutions
+- Asynchronous communication invites everyone to be a part of important discussions.
+- We welcome all-remote companies to glean from [GitLab's approach to meetings](/company/culture/all-remote/meetings/), as well as our [scheduled AMAs, group conversations, and Key Reviews](/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings) that are open to all.
+### Challenge
+1. It's not easy to separate work and personal life when working remote. It's important to model and encourage boundaries.
+### Solutions
+- [Preventing a culture of burnout starts at the top](/blog/2018/03/08/preventing-burnout/). In all-remote companies, it's important to reinforce this from the [interview process](/blog/2019/03/28/what-its-like-to-interview-at-gitlab/), to [onboarding](/company/culture/all-remote/learning-and-development/#how-do-you-onboard-new-team-members), to regular [1:1s](/handbook/leadership/1-1/).
+- Focus on [results (as opposed to hours worked)](/handbook/values/#measure-results-not-hours). 
+- At GitLab, we encourage team members to [communicate with their manager when they recognize burnout](/handbook/paid-time-off/#recognizing-burnout), and to be mindful of the last time a team member [took time off from work](/handbook/paid-time-off/#paid-time-off).
+- Remote work requires you to [manage your own time](/handbook/values/#managers-of-one) and be self-motivated, disciplined, and [organized](/blog/2019/06/18/day-in-the-life-remote-worker/).
 
 ----
 
