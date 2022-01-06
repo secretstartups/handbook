@@ -33,6 +33,10 @@ We are big on relationship-buiding and highly value intentionally creating time 
 
 Ways to get to know your team via informal communication might include things like talking about non-work topics such as the weather, pets, favorite foods or holidays, sending a birthday greeting or encouraging message. 
 
+## Why is informal communication so important in a remote work setting?
+
+All-remote workers who are all-work all the time risk [loneliness](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/) or [burnout](/company/culture/all-remote/mental-health/). One of the best ways to combat loneliness and burnout are through relationship-building by prioritizing regular social interactions via informal communication throughout the workday, week, and month. 
+
 ## Formally design informal communications
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">When working remote it is important to formalize informal communication. Explicitly plan time to create, build, and maintain social connections and trust. In our handbook we list 15 methods <a href="https://t.co/OAYB1uKX3r">https://t.co/OAYB1uKX3r</a> which I&#39;ll summarize in this thread.</p>&mdash; Sid Sijbrandij (@sytses) <a href="https://twitter.com/sytses/status/1250946875143815168?ref_src=twsrc%5Etfw">April 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
