@@ -26,7 +26,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Development | Mark Deubel and Riley Smith | Zsuzsanna Kovacs and Susan Hill | Michelle Jubrey (temporary) |
 | Quality | Rupert Douglas   | Zsuzsanna Kovacs | Davie Soomalelagi (temporary) |
 | UX  | Rupert Douglas   | Zsuzsanna Kovacs  | Davie Soomalelagi (temporary) |
-| Support | Joanna Michniewicz  |  Joanna Michniewicz | Ale Ayala (temporary) |
+| Support | Joanna Michniewicz  |  Joanna Michniewicz | Michelle Jubrey |
 | Security | Nicky Kunstman |  Zsuzsanna Kovacs | Michelle Jubrey |
 | Incubation | Rupert Douglas  |  Zsuzsanna Kovacs | Davie Soomalelagi (temporary) |
 | Infrastructure   | Josh Barker  | Susan Hill | Michelle Jubrey |
