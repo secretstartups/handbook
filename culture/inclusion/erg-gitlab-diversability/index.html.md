@@ -36,3 +36,21 @@ Also, we act as a support group. Whether it's async in Slack or live during a me
 - Join the #neurodiverse-coffee-chat Slack channel to randomly connect one-to-one in a "donut" coffee chat
 
 ## Additional Resources
+
+### Disclosing your neurodivergence to your team and GitLab
+
+Disclosing your neurodivergence is an entirely personal choice. Disclosure is not required. However, we aim to live our Transparency value and to ensure that all team members have an equitable opportunity to succeed in their role, and disclosure could aid in this.
+
+You don’t have to be specific about your diagnosis. An employer may ask for verification from a doctor but it can just say you have a disability and need some accommodation. **You are not required to share health details if you don’t want to**.
+
+#### Formal disclosure of your neurodivergence
+
+If you believe you need to request reasonable accomodations to succeed at GitLab, please notify the [Team Member Relations team](https://about.gitlab.com/handbook/people-group/team-member-relations) at `teammemberrelations@gitlab.com`. The Company will work with each individual to define their job-related or application-related needs and to try to accommodate those needs according to [the GitLab Individuals with Disabilities Policy](https://about.gitlab.com/handbook/people-policies/inc-usa/#individuals-with-disabilities-policy).
+
+#### Informal disclosure of your neurodivergence, or simply notifying your team or manager
+
+If you do not believe you need to request reasonable accomodations and you are just looking to update your manager or your team, you can do so freely when you feel is right. So a 1:1 with your manager would be a good place to start, so that if and when you choose to share with other team members, your manager has already been briefed.
+
+### Not sure about disclosure? The DiversABILITY TMRG is listening.
+
+Determining whether or not disclosing your neurodivergence at work is a deeply personal choice. If you would like to chat with someone about it discreetly, please feel free to DM Wil Spillane on Slack and he can either chat with you directly or point you to someone else who might be a better fit for the discussion.
