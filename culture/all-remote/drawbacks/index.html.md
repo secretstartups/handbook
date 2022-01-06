@@ -34,6 +34,12 @@ An all-remote job will best suit [self-motivated people](/blog/2019/03/28/what-i
 * Remote makes it [easier to communicate](/company/culture/all-remote/informal-communication/) with difficult colleagues remotely, [reducing distractions](/blog/2018/03/15/working-at-gitlab-affects-my-life/) from interpersonal drama or office politics. 
 * Flexibility to [choose your working hours](/company/culture/all-remote/people/#worklife-harmony) based on when you're [most productive](/company/culture/all-remote/asynchronous/).
 
+## The difference between all-remote and remote-first
+
+**All-remote** is a work arrangement in which employees do not commute to a central place of work because there are no company-owned offices.
+
+**Remote-first** typically means there is a physical workplace of some kind available to employees who need or prefer a traditional office space outside of the home. However, these spaces are not always company-owned, they could be a shared workspace, coffee shop, or public library.
+
 ## For employees
 
 1. [Onboarding](/company/culture/all-remote/learning-and-development/#how-do-you-onboard-new-team-members) can be difficult when you're remote, because it involves [more self-learning](/company/culture/all-remote/learning-and-development/) and you're not physically with your new coworkers and fellow new hires.
