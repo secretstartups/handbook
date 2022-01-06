@@ -148,7 +148,7 @@ _Simplifed namespaces data set that includes trials and subscriptions_
 - `first_paid_plan_name`: Plan name of namespace's first subscription: `Premium`, `Ultimate`, 
 `Bronze`
 - `is_purchased_through_subscription_portal`: Boolean denoting whether namespace's first 
-subscription was purchased through a purchase order or directly from the web portal
+subscription was purchased through a purchase order or directly from the web portal (will be `NULL` if namespace did not start a subscription)
   - Documentation in [dbt](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.customers_db_charges_xf)
 
 **Automatic Filters:**
