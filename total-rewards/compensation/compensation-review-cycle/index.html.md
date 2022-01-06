@@ -256,7 +256,10 @@ Clicking the background of a person's card expands it to reveal additional infor
 * ![Raise Tab](/images/handbook/people-group/raise-compaas.png)
 1. Your slate can be filtered by what part of the pay range your reports currently fall into: Below, Bottom, Lower-middle, Upper-middle, Upper, Above.
 * ![filter range](/images/handbook/people-group/5_Compaas.png)
-1. If the team member is being recommended for a promotion during this cycle, you would enter the promotion amount in the raise tab instead. The range for their new role will be shown in the range penetration column. If you would like to recommend a team member for a promotion, please ensure you work with your People Business Partner on this prior to submitting your slate in Compaas. 
+1. If the team member is being recommended for a promotion during this cycle, you would enter the promotion amount in the raise tab instead. The range for their new role will be shown in the range penetration column. If you would like to recommend a team member for a promotion, please ensure you work with your People Business Partner on this prior to submitting your slate in Compaas. Total Rewards will update the team member to reflect the pending promotion once notified by your People Business Partner.
+* ![promotion pending](/images/handbook/people-group/promotion_pending.png) 
+* Ensure you only enter an increase in the promo field so the promotion increase is processed correctly.
+* ![promotion increase](/images/handbook/people-group/promotion_increase.png) 
 
 **Stock Tab**
 1. The stock grant is where a slate owner can recommend a grant to the team members they are reviewing. This will be submitted as a dollar amount in USD to vest over 4 years. 
@@ -264,6 +267,8 @@ Clicking the background of a person's card expands it to reveal additional infor
 1. On this card, there will be the team member's performance/growth rating, when their last grant was approved, a box to allocate the recommended grant, and a target range. The target range is the same as the refresh range in the compensation calculator. 
 1. Clicking on the card will expand it to reveal information on the team member's current grants and custom notes. The custom notes that are important for review on the tab is the team member's Total Unvested Equity and Value Vesting.
 * ![Stock Tab](/images/handbook/people-group/stock-compaas.png)
+1. If the team member is being recommended for a promotion, they will still be eligible for a refresh grant based on their current (pre-promotion) range. The Total Rewards team will add in the pending promotion grant value to the custom notes that appear when clicking on the card for additional context. **Slate owners do not need to recommend extra in the grant to account for the promotion as this is being done automatically by Total Rewards.**
+* ![Promotion Grant Note](/images/handbook/people-group/promotion_grant_note.png)
 
 Note: The equity values for Spain and Denmark are 1/4th of the refresh range. This is due to local compliance regulations around equity vesting. All grants in Denmark & Spain will be annual refresh grants vesting quarterly over 1 year. 
 
@@ -297,6 +302,18 @@ Note: The equity values for Spain and Denmark are 1/4th of the refresh range. Th
 * After the "Approve All" button is selected, a window will pop up asking you to confirm whether you would like to approve all slates. Clicking "Confirm" will submit and lock each of your slates and send them for further approval, if applicable.
 * ![confirm bulk approve](/images/handbook/people-group/Confirm_Approve_All.png)
 1. After you have approved a slate, it will no longer be editable on your list of slates. After approving, you will still be able to visit the slate and view a current summary of any proposed compensation adjustments including any adjustments made by an approver higher up in the approval chain.
+
+### Budget In Compaas
+
+Raise budget is held by the executive of each group who has the discretion to cascade their budget down their reporting line. The raise budget is inclusive of both annual raises and promotional raises. Stock budget is held at the VP level and will not be cascaded down any further.
+
+**Slate Owners** 
+1. If budget for raises has been cascaded down, this will be visible on your Summary and Raise tab. Regardless of whether budget has been cascaded down, slate owners are able to track their spend including a breakdown of what has been allocated for annual raises and what has been allocated for promotional raises on the Raise tab.
+1. Slate Owners can track equity grant spend on the Stock tab, but will not have a budget.
+
+**Approvers**
+1. As an approver, if budget has been cascaded down, you will see the budget for raise and stock for your direct and indirect reports on the Summary screen. On this screen, you will also see the total allocated among all of the slates you are an approver for including your own.
+1. If you are an approver with a slate of direct reports, your slate view will only show budget (if applicable) and allocation information for this slate and not your broader population.
 
 ### Iterations to Compaas
 
