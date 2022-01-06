@@ -37,6 +37,12 @@ Ways to get to know your team via informal communication might include things li
 
 All-remote workers who are all-work all the time risk [loneliness](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/) or [burnout](/company/culture/all-remote/mental-health/). One of the best ways to combat loneliness and burnout are through relationship-building by prioritizing regular social interactions via informal communication throughout the workday, week, and month. 
 
+## Informal communication advantages and disadvantages
+
+While some people thrive on spending time to get to know others, others are annoyed by non-work-related texts and messages. Informal ommunications among diverse team members requires a high level of [empathy](/company/culture/all-remote/being-a-great-remote-manager/#empathy). 
+
+It's helpful to be transparent about your communication preferences so managers and teammates can know and respect your boundaries.
+
 ## Formally design informal communications
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">When working remote it is important to formalize informal communication. Explicitly plan time to create, build, and maintain social connections and trust. In our handbook we list 15 methods <a href="https://t.co/OAYB1uKX3r">https://t.co/OAYB1uKX3r</a> which I&#39;ll summarize in this thread.</p>&mdash; Sid Sijbrandij (@sytses) <a href="https://twitter.com/sytses/status/1250946875143815168?ref_src=twsrc%5Etfw">April 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
