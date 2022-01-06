@@ -177,7 +177,7 @@ The Common Prep Schema has 6 primary use cases at this time. As we iterate on th
 
 1. Generate Surrogate Keys used in the Common Schema.
 1. Clean Source System data such as the conversion of datatypes and replacing NULL values.
-1. Apply business process logic that is needed before combining with other data in the Common Schema..
+1. Apply business process logic that is needed before combining with other data in the Common Schema.
 1. Bring in Foreign Keys/Identifier fields from other models that are useful for joins in dimensions and facts in the Common Schema.
 1. Unioning data coming from multiple sources before loading into tables in the Common Schema.
 1. No specific case but built for consistency in design.
