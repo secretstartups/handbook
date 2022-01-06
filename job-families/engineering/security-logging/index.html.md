@@ -35,31 +35,31 @@ They work very closely with the Security Incident Response Team [[SIRT](https://
 
 ## Levels
 
-### Security Logging Engineer (Intermediate)
+### Infrastructure Security Engineer (Intermediate)
 
 This position reports to the [Manager, Infrastructure Security](#manager-infrastructure-security).
 
-#### Security Logging Engineer (Intermediate) Job Grade
+#### Infrastructure Security Engineer (Intermediate) Job Grade
 
-The Security Logging Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Infrastructure Security Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Security Logging Engineer (Intermediate) Responsibilities
+#### Infrastructure Security Engineer (Intermediate) Responsibilities
 
 * Includes responsibilities listed [here](#responsibilities)
 
-#### Security Logging Engineer (Intermediate) Requirements
+#### Infrastructure Security Engineer (Intermediate) Requirements
 
 * Includes responsibilities listed [here](#requirements)
 
-### Senior Security Logging Engineer
+### Senior Infrastructure Security Engineer
 
 This position reports to the [Manager, Infrastructure Security](#manager-infrastructure-security).
 
-#### Senior Security Logging Engineer Job Grade
+#### Senior Infrastructure Security Engineer Job Grade
 
-The Senior Security Logging Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Infrastructure Security Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Security Logging Engineer Responsibilities
+#### Senior Infrastructure Security Engineer Responsibilities
 
 * Includes responsibilities listed [here](#requirements)
 * Create and provide oversight for rule creation to generate actionable security alerts
@@ -71,7 +71,7 @@ The Senior Security Logging Engineer is a [grade 7](/handbook/total-rewards/comp
 * Mentor other members of the Security Team
 * Ownership and delivery on complex projects
 
-#### Senior Security Logging Engineer Requirements
+#### Senior Infrastructure Security Engineer Requirements
 
 * Includes responsibilities listed [here](#requirements)
 * Experience working with incident response
@@ -82,13 +82,13 @@ The Senior Security Logging Engineer is a [grade 7](/handbook/total-rewards/comp
 * Working experience with Kubernetes and Docker
 * Capability to build working relationships with key stakeholders
 
-### Staff Security Logging Engineer
+### Staff Infrastructure Security Engineer
 This position reports to the [Manager, Infrastructure Security](#manager-infrastructure-security).
 
-#### Staff Security Logging Engineer Job Grade
-The Staff Security Logging Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+#### Staff Infrastructure Security Engineer Job Grade
+The Staff Infrastructure Security Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Staff Security Logging Engineer Responsibilities
+#### Staff Infrastructure Security Engineer Responsibilities
 
 * Includes senior responsibilities listed [here](#senior-security-logging-engineer-responsibilities)
 * Lead the design, evaluation, implementation and deployment of new security technologies
@@ -98,7 +98,7 @@ The Staff Security Logging Engineer is a [grade 8](/handbook/total-rewards/compe
 * Develop, evangelize, and monitor the adoption of sound security practices
 * Develop new, and review/update existing security-related configurations of GitLab’s infrastructure
 
-#### Staff Security Logging Engineer Requirements
+#### Staff Infrastructure Security Engineer Requirements
 
 * Includes senior responsibilities listed [here](#senior-security-logging-engineer-requirements)
 * Solid experience using and administrating analysis platforms such as Splunk, ELK, BigQuery, etc...
@@ -115,12 +115,12 @@ The Staff Security Logging Engineer is a [grade 8](/handbook/total-rewards/compe
 
 ```mermaid
   graph LR;
-  sec:se(Security Logging Engineer)-->sec:sse(Senior Security Logging Engineer);
-  sec:sse(Senior Security Logging Engineer)-->sec:stse(Staff Security Logging Engineer);
-  sec:stse(Staff Security Logging Engineer)-->sec:dse(Principal Security Logging Engineer);
-  sec:sse(Senior Security Logging Engineer)-->sec:sem(Security Logging Manager);
-  sec:sem(Security Logging Manager)-->sec:sesm(Security Logging Senior Manager);
-  sec:sesm(Security Logging Senior Manager)-->sec:ds(Director of Security Operations);
+  sec:se(Infrastructure Security Engineer)-->sec:sse(Senior Infrastructure Security Engineer);
+  sec:sse(Senior Infrastructure Security Engineer)-->sec:stse(Staff Infrastructure Security Engineer);
+  sec:stse(Staff Infrastructure Security Engineer)-->sec:dse(Principal Infrastructure Security Engineer);
+  sec:sse(Senior Infrastructure Security Engineer)-->sec:sem(Infrastructure Security Manager);
+  sec:sem(Infrastructure Security Manager)-->sec:sesm(Infrastructure Security Senior Manager);
+  sec:sesm(Infrastructure Security Senior Manager)-->sec:ds(Director of Security Engineering and Research);
 ```
 
 ## Hiring Process
