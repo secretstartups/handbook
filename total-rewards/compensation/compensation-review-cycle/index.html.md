@@ -185,7 +185,7 @@ E.g. The minimum increase to stay in range is 15% and the performance range is 3
 1. Also: Anyone on a formal Performance plan (PEP, PIP) will be excluded from the review. This must be communicated to Total Rewards and PBP by December 15th.
 
 **For Promotions:** 
-When determining compensation increases for promotions the same general guidelines apply. We want to take a look holistically at the compensation change. It is important to not formulaicly allocate an annual compensation review increase then the promotion increase. Instead, we would ask managers to look a the new range (which will be seen in compaas once the promotion is applied) and then make a recommendation based on the holistic view of all information. For more information on how to assess equity refresh grants for promotions in Compaas please view the [stock tab details](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#for-slate-owners). 
+When determining compensation increases for promotions the same general guidelines apply. We want to take a look holistically at the compensation change. It is important to not formulaicly allocate an annual compensation review increase then the promotion increase. Instead, we would ask managers to look a the new range (which will be seen in Compaas once the promotion is applied) and then make a recommendation based on the holistic view of all information. For more information on how to assess equity refresh grants for promotions in Compaas please view the [stock tab details](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#for-slate-owners). 
 
 ## Manager Review
 
