@@ -34,6 +34,7 @@ Steps to uplevel triaging process:
 | Engineering Analytics Triage | `@EngineeringAnalyticsTriage` | Engineering Analytics Team, G&A Data Fusion Team |
 | Data Platfrom Triage | `@DataPlatformTriage`   | Data Platform Team |
 
+GitLab Team members can ping one of the groups above for any questions or help. When not clear, ping a group based on best guess. If a different group was needed, the request or question can always be re-routed. 
 ### Triager
 
 The Data team has implemented the following triage schedule to take advantage of native timezones:
