@@ -36,7 +36,7 @@ The purpose of  Instance and Namespace Details report section is to show:
 3. The last reporting data (e.g., they sent us data and then stopped on 2021-07-01). 
 
 ##### A metric is missing from my Self-Managed customer. Why?
-If a metric was implemented in a later release, it will not appear. Check the Data Mart Table definitions to identify the release for the metric in question. You can check the instance and namespace details to confirm which release version the customer is on. 
+If a metric was implemented in a later release, it will not appear. Check the Data Mart Table definitions to identify the release for the metric in question. You can check the instance and namespace details to confirm which release version the customer is on. Example: `Billable Users` was instrumented in 14.0, and if a customer is on 13.9 or earlier, then this field will appear as NULL.
 
 ##### How can we confirm that they have opted into Service Ping?
 The only way to confirm if they have opted into Service Ping is if we have data for them. [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/). 
@@ -45,7 +45,7 @@ The only way to confirm if they have opted into Service Ping is if we have data 
 Yes.
 
 ##### Can my customer opt out of Cloud Licensing?
-No.
+No, unless they do a contractual exemption (limited to certain PubSec orgs).
 
 ##### What data comes from Cloud Licensing?
 Operational Metrics
@@ -73,7 +73,7 @@ UUID = GitLab-assigned ID of a server. There can be more than one server for one
 ### Multiple Hostnames and Subscriptions
 
 ##### Reports that aren’t effective for accounts with multiple hostnames and subscriptions: 
-1. Product Usage Scorecard Calcs- Scorecard Product Usage Metrics
+1. Product Usage Scorecard Calcs - Scorecard Product Usage Metrics
 
 
 
