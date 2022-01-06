@@ -27,7 +27,7 @@ The Product Design Manager is a [grade 8](/handbook/total-rewards/compensation/c
 * **UX process**: Set up and manage collaborative processes within your team to ensure Product Designers, Technical Writers, and Researchers are actively working together. Make sure everyone has exposure to the work that is happening within the broader team. Collaborate with your peers to make improvements to how we work across the design organization.
 * **Hiring:** Interview and conduct portfolio reviews of Product Design candidates to hire a world-class team. Review and provide feedback on interview scorecards to maintain a high-quality interview process. 
 * **Public presence:** Help promote GitLab publicly through activities like writing blog articles, giving talks, publishing videos to GitLab Unfiltered, and engaging in social media efforts, where appropriate.
-* **Vision and direction:** Have an awareness of [Opportunity Canvas](/handbook/product/product-processes/#opportunity-canvas) reviews, strategy, and vision of the stages or areas you're assigned.
+* **Vision and direction:** Stay informed of Direction pages and have an awareness of the strategy and vision of the stages or areas you're assigned. 
 * **Career Development:** Hold weekly [1:1s](/handbook/leadership/1-1/) with every member of your team and create Individual Growth Plans with monthly Career Development check-ins.
 
 ### Specialties
@@ -82,7 +82,7 @@ The Senior Product Design Manager is a [grade 9](/handbook/total-rewards/compens
 * **UX evangelism:** Ensure UX is prioritized by working with product leadership to identify opportunities for validation and better cross-functional collaboration.
 * **People management:** Coach Product Design Managers on how to conduct 1:1s and growth conversations with their direct reports.
 * **Skip levels:** Conduct quarterly skip levels with your reports' direct reports.
-* **Vision and direction**: Have an awareness of Opportunity Canvas reviews, strategy, and vision of the stages you're assigned.
+* **Vision and direction**: Stay informed of Direction pages and have an awareness of the strategy and vision of the stages you're assigned.
 * **Hiring:** Hire and retain a world-class team of Product Designers and Product Design Managers.
 
 ### Requirements
@@ -127,7 +127,7 @@ The Director of Product Design is a [grade 10](/handbook/total-rewards/compensat
 * **Design strategy:** Communicate significant product design strategy decisions to leadership and the wider company.
 * **People management:** Coach Product Design Managers on how to conduct 1:1s and growth conversations with their direct reports.
 * **Skip levels:** Conduct quarterly skip levels with your reports' direct reports.
-* **Vision and direction**: Have an awareness of [Opportunity Canvas](/handbook/product/product-processes/#opportunity-canvas) reviews, strategy, and visions across the product. 
+* **Vision and direction**: Stay informed of Direction pages and have an awareness of the strategy and vision across the product. 
 * **Hiring:** Hire and retain a world-class team of Product Designers and Product Design Managers.
 
 ### Requirements
