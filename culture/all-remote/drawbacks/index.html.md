@@ -47,7 +47,8 @@ These companies work to ensure that offices are simply [venues to work remotely 
 ## Remote work challenges and solutions for employees
 
 **Challenge: Onboarding**
-1. [Onboarding](/company/culture/all-remote/learning-and-development/#how-do-you-onboard-new-team-members) can be difficult when you're remote, because it involves [more self-learning](/company/culture/all-remote/learning-and-development/) and you're not physically with your new coworkers and fellow new hires.
+
+[Onboarding](/company/culture/all-remote/learning-and-development/#how-do-you-onboard-new-team-members) can be difficult when you're remote, because it involves [more self-learning](/company/culture/all-remote/learning-and-development/) and you're not physically with your new coworkers and fellow new hires.
 
 **Solution**
 
@@ -55,7 +56,7 @@ Learn more about how GitLab [onboards its all-remote team members](/company/cult
 
 **Challenge: Loneliness**
 
-1. The first month in a remote role can feel [lonely](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/), especially if you're [transitioning from a traditional office setting](/blog/2018/03/15/working-at-gitlab-affects-my-life/).
+The first month in a remote role can feel [lonely](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/), especially if you're [transitioning from a traditional office setting](/blog/2018/03/15/working-at-gitlab-affects-my-life/).
 
 **Solutions**
 
@@ -64,7 +65,7 @@ Learn more about how GitLab [onboards its all-remote team members](/company/cult
 
 **Challenge: Communication breakdown**
 
-1. Remote settings can cause a breakdown in communication skills if organizations aren't deliberate about creating ways for their people to stay connected.
+Remote settings can cause a breakdown in communication skills if organizations aren't deliberate about creating ways for their people to stay connected.
 
 **Solutions**
 
@@ -73,7 +74,7 @@ Learn more about how GitLab [onboards its all-remote team members](/company/cult
 
 **Challenge: Work/life balance**
 
-1. Some may find it difficult to work in the same setting as they live and sleep, because a dedicated workspace helps to switch the context from their home life to work.
+Some may find it difficult to work in the same setting as they live and sleep, because a dedicated workspace helps to switch the context from their home life to work.
 
 **Solutions**
 
@@ -82,7 +83,7 @@ Learn more about how GitLab [onboards its all-remote team members](/company/cult
 
 **Challenge: Different time zones**
 
-1. Team members in different time zones may have to compromise on meeting times.
+Team members in different time zones may have to compromise on meeting times.
 
 **Solutions**
 
@@ -91,7 +92,7 @@ Learn more about how GitLab [onboards its all-remote team members](/company/cult
 
 **Challenge: Separating work from personal life**
 
-1. It can be hard to separate your personal and work life. It's important to encourage boundaries and make sure you don't continue to work during your family time.
+It can be hard to separate your personal and work life. It's important to encourage boundaries and make sure you don't continue to work during your family time.
 
 **Solutions**
 
@@ -101,7 +102,7 @@ Learn more about how GitLab [onboards its all-remote team members](/company/cult
 
 **Challenge: Time management**
 
-1. Remote work requires you to [manage your own time](/handbook/values/#managers-of-one) and be self-motivated, disciplined, and [organized](/blog/2019/06/18/day-in-the-life-remote-worker/).
+Remote work requires you to [manage your own time](/handbook/values/#managers-of-one) and be self-motivated, disciplined, and [organized](/blog/2019/06/18/day-in-the-life-remote-worker/).
 
 **Solutions**
 
@@ -121,7 +122,7 @@ In the [video](https://youtu.be/ha4aMKl3MRA) above, GitLab co-founder and CEO Si
 
 **Challenge: Non-traditional setup**
 
-1. Because it's non-traditional, all-remote work sometimes [concerns](/blog/2018/10/18/the-case-for-all-remote-companies/) investors, partners, and customers.
+Because it's non-traditional, all-remote work sometimes [concerns](/blog/2018/10/18/the-case-for-all-remote-companies/) investors, partners, and customers.
 
 **Solutions**
 
@@ -133,15 +134,15 @@ In the [video](https://youtu.be/ha4aMKl3MRA) above, GitLab co-founder and CEO Si
 
 **Challenge: Compliance**
 
-2. Differences in currency as well as tax, immigration, and labor laws around the world can create [compliance challenges](https://www.forbes.com/sites/forbeshumanresourcescouncil/2019/07/12/remote-work-is-here-to-stay-heres-how-to-avoid-three-common-compliance-issues/) for the organization.
+Differences in currency as well as tax, immigration, and labor laws around the world can create [compliance challenges](https://www.forbes.com/sites/forbeshumanresourcescouncil/2019/07/12/remote-work-is-here-to-stay-heres-how-to-avoid-three-common-compliance-issues/) for the organization.
 
 **Solutions**
 
-    - While each organization is unique, we welcome other all-remote companies to learn from GitLab's [ever-evolving approach to hiring and remaining compliant across the globe](/company/culture/all-remote/hiring/).
+- While each organization is unique, we welcome other all-remote companies to learn from GitLab's [ever-evolving approach to hiring and remaining compliant across the globe](/company/culture/all-remote/hiring/).
 
 **Challenge: Company culture**
 
-3. You have to be more intentional about [cultivating](/blog/2019/06/04/contribute-wrap-up/), [sustaining](/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings), and [documenting](/company/culture/all-remote/learning-and-development/#the-importance-of-documenting-everything) your company culture.
+You have to be more intentional about [cultivating](/blog/2019/06/04/contribute-wrap-up/), [sustaining](/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings), and [documenting](/company/culture/all-remote/learning-and-development/#the-importance-of-documenting-everything) your company culture.
 
 **Solutions**
 
@@ -155,7 +156,7 @@ Despite its many [advantages](/company/culture/all-remote/benefits/), all-remote
 
 **Challenge: Isolation**
 
-1. A remote role can feel [lonely](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/), especially if you're [transitioning from a traditional office setting](/blog/2018/03/15/working-at-gitlab-affects-my-life/).
+A remote role can feel [lonely](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/), especially if you're [transitioning from a traditional office setting](/blog/2018/03/15/working-at-gitlab-affects-my-life/).
 
 **Solutions**
 
@@ -164,14 +165,14 @@ Despite its many [advantages](/company/culture/all-remote/benefits/), all-remote
 
 **Challenge: Communication**
 
-1. If teams aren't intentional about creating ways for their people to stay connected, remote settings can cause communication breakdowns. 
+If teams aren't intentional about creating ways for their people to stay connected, remote settings can cause communication breakdowns. 
 **Solutions**
 - Asynchronous communication invites everyone to be a part of important discussions.
 - We welcome all-remote companies to glean from [GitLab's approach to meetings](/company/culture/all-remote/meetings/), as well as our [scheduled AMAs, group conversations, and Key Reviews](/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings) that are open to all.
 
 **Challenge: Boundaries**
 
-1. It's not easy to separate work and personal life when working remote. It's important to model and encourage boundaries.
+It's not easy to separate work and personal life when working remote. It's important to model and encourage boundaries.
 
 **Solutions**
 
