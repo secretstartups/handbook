@@ -1,11 +1,3 @@
----
-layout: handbook-page-toc
-title: Making Changes and Taking Actions on an Account
-category: GitLab.com
-subcategory: Accounts
-description: "Workflow for when and how to make account changes on behalf of a customer"
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -82,10 +74,11 @@ The Support team will not view any private information unless required to resolv
 A Support team member may look at information on pages not explicitly mentioned in the request, but will limit the scope of the review to the minimum access required to solve any issues.
 
 The Support team will only take action from the requester if they:
+
 - Are a member of the namespace.
 - Have a problem that requires Support to investigate.
 - Provide a link to the namespace.
-  - This link can come from the initial form submission or a response in the ticket.
+    - This link can come from the initial form submission or a response in the ticket.
 
 We expect users to provide specific links in order to focus on the related views and logs while investigating an issue. For example, a request to look into a CI/CD error should include links to the relevant job logs, pipelines, and/or CI YAML file.
 
@@ -108,9 +101,9 @@ or
 Some examples:
 
 > Could you please provide permission for Support to re-run one or more pipelines in project `xyz` to investigate the issue you've described? Replying in this ticket stating you provide permission will be sufficient.
->
+> 
 > Could you please provide permission for our Support Engineers to look at the CI/CD variables in the project so that we confirm they are correct? Replying in this ticket stating you provide permission will be sufficient.
->
+> 
 > Could you please confirm that you would like us to add `example@email.address` to your account and make it the _primary_ email address? Replying in this ticket stating you provide permission will be sufficient.
 
 ### Impersonating
