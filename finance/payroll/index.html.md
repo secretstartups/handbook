@@ -351,23 +351,23 @@ Payroll changes will be sent to Remote every 10th of the month. Payroll changes 
 All payroll changes (demographic information, job, bonus/commission payout requests, etc..) must submit to Payroll by the payroll changes deadline date to be included in the current month.  Any new hires start after the payroll changes date will get pay on the following check date.
 
 - GitLab Inc and GitLab Federal LLC [Payroll calendar](https://docs.google.com/spreadsheets/d/12NmHxC8UI5CKK-j7MXO91o3PtcR4Z-lC-elnPkPFhjY/edit#gid=994803634)
-- GitLab Canada Corp [Payroll calendar](https://docs.google.com/spreadsheets/d/1ECkI_Z8R82j1eipJEEybXjO-EDtzw4TuhJPOnHypDho/edit#gid=0)
-- GitLab LTD [Payroll Calendar](https://docs.google.com/spreadsheets/d/12Ch7jkpGLD3eQbzOx3zf7FBqsuMRrevj3hALajfj9aY/edit#gid=1241976897)
-- GitLab BV (Netherlands) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1c9bOUTLVsadWtM0gy6tqTHa6DDar0YGT1N4mT02xvOc/edit#gid=887208509)
-- GitLab BV (Belgium) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1eMPUirNk-AtBMTF4tE49G1xCHWES_r2VfDph5KiIHP0/edit#gid=1680317269)
-- GitLab GMBH [Payroll Calendar](https://docs.google.com/spreadsheets/d/19lNDx_aiAQDoSKBRRWF779jT2qB5lG84PrBOYQYd5sI/edit#gid=1165608204)
-- GitLab PTY LTD Australia [Payroll Calendar](https://docs.google.com/spreadsheets/d/1CO7H27ofFcFL7ztVi8Eg8_hI3W8mUwAwUtePsPJkdGw/edit#gid=724771463)
-- GitLab GK Japan [Payroll Calendar](https://docs.google.com/spreadsheets/d/188IryrptR6ZRwAY3siS0gvN9DUXuBDuAfMGsCQT9ZsQ/edit#gid=1040119899)
-- GitLab Ireland Ltd [Payroll Calendar](https://docs.google.com/spreadsheets/d/10iNM9VBmVWgE-DS-I3QFZq-htHi0pw3-NBkjauIXtOk/edit#gid=412520624)
-- GitLab PTY LTD New Zealand [Payroll Calendar](https://docs.google.com/spreadsheets/d/19S-PMIDLCCn0goo407lXKutbuMlFynoO63BBu8V5hO0/edit#gid=0)
-- GitLab France S.A.S. [Payroll Calendar](https://docs.google.com/d/12Uod9dg2sqBt9Zi8DxPyQKCN8jG5PXfTp2oJ3No-EBc/edit#gid=0)
-- GitLab Korea Limited [Payroll Calendar](https://docs.google.com/spreadsheets/d/1aa_WLBdDoPyBO9aaFmpAdymHjhULQgGJH0UiiLB6TnE/edit#gid=0)
-- GitLab Singapore PTE. LTD. [Payroll Calendar](https://docs.google.com/spreadsheets/d/1ehVE2FbztGNWz1zN8vSUb0d4o6VKXW8zbMP-_0eIXDI/edit#gid=0)
+- GitLab Canada Corp [Payroll calendar](https://docs.google.com/spreadsheets/d/1-vVN6clWo0_E5L6TFXPLuMYQq2LsbU1MK7_aO4D78yY/edit#gid=888530536)
+- GitLab LTD [Payroll Calendar](https://docs.google.com/spreadsheets/d/1s7x3DtsQyx8vSdZMkKdaAmPAILkDkj5P3f1c28l52RE/edit#gid=727433444)
+- GitLab BV (Netherlands) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1B1AU2bOIQy7iN4HdVqzkfOMGMB-EM40CafPU7e-RGCY/edit#gid=1611696861)
+- GitLab BV (Belgium) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1CrvD-_P2vIQFtIUbqxeYc5erroiij87biNRJqB77n20/edit#gid=250040130)
+- GitLab GMBH [Payroll Calendar](https://docs.google.com/spreadsheets/d/1HCKIZTVBYjQOTOp4syfHssDMceujRmEfF75ZGM85d1g/edit#gid=1657503088)
+- GitLab PTY LTD Australia [Payroll Calendar](https://docs.google.com/spreadsheets/d/1O_YFh783JMGj0MC_tCb56Mqk762XaAZQSQfZAnm5aWE/edit#gid=648164152)
+- GitLab GK Japan [Payroll Calendar](https://docs.google.com/spreadsheets/d/1vPrnx_odH6SDlTSwtj9TST-KC0qve1Rg057lrE4vZLE/edit#gid=1739975255)
+- GitLab Ireland Ltd [Payroll Calendar](https://docs.google.com/spreadsheets/d/11pFDLl3s1nzg21XxUdGHhDvQ-zJb5faD7wdtstJ4fPk/edit#gid=1716255638)
+- GitLab PTY LTD New Zealand [Payroll Calendar](https://docs.google.com/spreadsheets/d/1Q9tqLtgeW9MhmnqxlABCTYfJ55_uK2mmZT1DKTUqV0w/edit#gid=865660280)
+- GitLab France S.A.S. [Payroll Calendar](https://docs.google.com/spreadsheets/d/1q04pzwN-xXfL1e6T-knVP4AJN2Q8g9vVI4UJ3NNqC9I/edit#gid=938113562)
+- GitLab Korea Limited [Payroll Calendar](https://docs.google.com/spreadsheets/d/1mAdGocwcWvgGPGq-Eh_pdNzXuf_Zn5ZNJ3bxrI--9_k/edit#gid=0)
+- GitLab Singapore PTE. LTD. [Payroll Calendar](https://docs.google.com/spreadsheets/d/14KbKndyJlLozRmrsYaD2Fppb5oAK5q7LBHBFfO_Vw2w/edit#gid=1419993369)
 - For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
-    - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece, Czech Republic, Slovenia, Serbia) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=268925776)
-    -  SafeGuard ([Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
-    -  Remote.com (South Africa,Mexico,Austria, Hungary) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1ygZYhysV1eAhL5-WD_F5iiOmeXM7wreINEuKpcBSiAM/edit#gid=2111318292)
-    - Global Upside ([India](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=0), [Philippines](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=150092461), [Costa Rica](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=897287889), [Denmark](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=1890543679), [Kenya](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=401149860), [Chile](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=1322253138), [Latvia](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=1213208098) ) Payroll Calendar
+    - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece, Czech Republic, Slovenia, Serbia) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1jMNufDqXDjfWM2khvg3xNQvipBsb8Eyy6I6JNaJl6mE/edit#gid=794676582)
+    -  SafeGuard ([Italy](https://docs.google.com/spreadsheets/d/1ahBB2aXRwo3V6woKQ-WRzuDFVCu2jkja3zS4zPwSG3I/edit#gid=2113229619), [Spain](https://docs.google.com/spreadsheets/d/1ahBB2aXRwo3V6woKQ-WRzuDFVCu2jkja3zS4zPwSG3I/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1ahBB2aXRwo3V6woKQ-WRzuDFVCu2jkja3zS4zPwSG3I/edit#gid=1979351390), [Brazil](https://docs.google.com/spreadsheets/d/1ahBB2aXRwo3V6woKQ-WRzuDFVCu2jkja3zS4zPwSG3I/edit#gid=1366369546)) Payroll Calendar
+    -  Remote.com (South Africa,Mexico,Austria, Hungary) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1Wf7CX82i1JS0DzWbHUbuw-y_qs9x6-rR5BsZEV-k1a8/edit#gid=1631376385)
+    - Global Upside ([India](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=0), [Philippines](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=150092461), [Costa Rica](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=897287889), [Denmark](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1890543679), [Kenya](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=401149860), [Chile](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1322253138), [Latvia](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1213208098) ) Payroll Calendar
 
 ## Performance Indicators
 
