@@ -174,6 +174,7 @@ The Security Logging Team is a specialty extension of the Infrastructure Securit
 * Ensure compliance with internal policies, standards, and regulatory requirements
 * Contribute to creation of runbooks
 
+More information can be found here [Security Logging Team Job Family](job-families/engineering/security-logging/)
 
 ## Performance Indicators
 * Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](/handbook/engineering/security/performance-indicators/#sirt-former-security-operations-page-volume).
