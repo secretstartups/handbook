@@ -200,6 +200,8 @@ It is very important that GitLab team-members understand their performance and h
 
 While some GitLab team-members may not receive an increase due to already being at the right [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) for their Level, Role, and Location, there are other circumstances where an increase should be avoided. If there are any reasons as to why the team member should not receive the proposed increase to be aligned with market rates in our calculator, please email total-rewards@ domain with the reasoning and cc your People Business Partner. This could be due to a current performance issue, pending termination, etc. If you would like to delay the increase, please outline a proposed plan of action and deadline. Team members who are currently struggling to perform at their current level should have that communicated clearly and the manager should consider delaying the increase until performance reaches a commendable level.
 
+For any feedback around the manager review portion of Compensation Review or the cycle via compaas, please add it to the following [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/396). 
+
 ### Manager Review in Compaas
 
 <figure class="video_container">
