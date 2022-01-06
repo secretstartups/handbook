@@ -55,6 +55,7 @@ For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.c
 <a href="/handbook/customer-success/product-usage-data/use-case-adoption/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Use Case Adoption Guide</a>
 <a href="/handbook/customer-success/product-usage-data/license-utilization/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">License Utilization in Gainsight</a>
 <a href="/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Gainsight Scorecard Attributes<br>and Calculations</a>
+<a href="/handbook/customer-success/product-usage-data/product-usage-data-FAQs" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data FAQs</a>
 </div>
 
 <br>
