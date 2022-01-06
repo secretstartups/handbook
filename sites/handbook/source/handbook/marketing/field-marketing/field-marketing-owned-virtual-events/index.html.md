@@ -645,10 +645,7 @@ The GitLab demo environment can currently support up to 200 users at one time, h
 FMCs are the DRIs for checking the registration numbers regularly via the Marketo program (linked in the epic code - registration numbers are listed on the main Marketo program page) or SFDC campaign (by pulling a report and sorting by the Registered field). Note that due to potential delays with the sync between Marketo and SFDC, it is recommended to check the Registration number in Marketo. 
 
 ##### Closing Registration
-- Once capacity is reached, the FMC will close registration in Marketo by following the below instructions. 
-- If there are remaining invite issues open once registration is closed, the FMC will note this in the issue(s) and close them. If an invite is already scheduled to be sent, the FMC will also ask Verticurl to unschedule the send before closing the issue
-- The FMC will also re-open the sales nominated issue and request Verticurl shut down the sales-nominated daily sends.
-- There is no need to remove the event listing from the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents). Having a sold out event listed could create more excitement over the event and encourage future attendees to register for events sooner.
+- Once capacity is reached, the FMC will follow [these instructions](/handbook/marketing/field-marketing/#process-to-close-marketo-landing-pages-and-landing-page-forms). If Verticurl is unavailable and closing the LP is urgent, please follow the steps to closing a workshop LP [below](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#instructions-for-closing-registration-for-a-workshop).
 
 ##### Instructions for Closing Registration for a Workshop
 *Note: Instructions for closing registration landing pages varies, depending on the campaign type/Marketo template. Please only utilize the below instructions to close a workshop LP.*
