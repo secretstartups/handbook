@@ -353,3 +353,26 @@ The Total Rewards Analyst will collect the invoice and provide a department brea
      * Add "Invoice Amount (GBP)" to the "Values" section of the pivot table builder and set this to summarize by "Sum". 
 1. Once completed, send an email to Accounts Payable notifying that the invoice and department summary are ready to view.
 
+## Bike to Work/Tax Saver Commuter Scheme
+GitLab uses TravelHub to assist with the administration of the bike to work/tax saver commuter scheme. The GitLab specific online portal can be found at [GitLab Travel Hub](https://gitlab.biketowork.co.uk/). Team members will need to register and account to enter the GitLab specific online portal. Here is a link to TravelHub's [FAQs](https://support.hubex.ie/hc/en-ie/articles/360044040031) about these programs.
+
+From 2021, Cycle to work will have a maximum expenditure of 1250 EUR or 1500 EUR for an electric bike. The scheme may now be availed of once in 4 consecutive tax years, previously this was once every 5 years.
+
+Bike Applications:
+
+Once your account is created, select a Bike to Work UK partner shop.
+Pick the new bike and accessories if required.
+Upload the quote received from the bike ship to the TravelHub portal to have the order approved.
+The Total Rewards team will receive an email with the request to login, review, and approve the application (credentials can be found in 1password). Please note that all payments should be made to TravelHub directly and not to the supplier chosen by staff. TravelHub will pay the supplier once the employee has received their Bike or Ticket.
+Total Rewards will notify payroll to reduce the team member's gross salary by the cost of the bike using a Salary Sacrifice Agreement.
+Ticket Applications:
+
+Once your account is created, select a Travel Operator.
+Select either a monthly or yearly ticket.
+Submit the travel ticket to the TravelHub portal to have the order approved.
+The Total Rewards team will receive an email with the request to login, review, and approve the application (credentials can be found in 1password).
+Total Rewards will notify payroll to reduce the team member's gross salary by the cost of the ticket using a Salary Sacrifice Agreement.
+Note: There is a 4% (plus VAT) booking fee for annual tickets and a 10 EUR (VAT inclusive) booking fee for monthly tickets paid for by the team member by being added to the price of the ticket.
+Once the total rewards team has approved the bike or ticket application, an invoice is generated. Once payment as been received, TravelHub emails the team member a voucher to use in the bike shop or tickets are dispatched in to the team member.
+
+
