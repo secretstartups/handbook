@@ -36,9 +36,9 @@ Future iterations of the announcement will include:
 1. Open and populate an issue using the `monthly-announcement` template. Collaborate with L&D team to include all important events in this issue body.
 1. Post video, link to slides, and link to AMA issue in Slack on the first Tuesday of the month in the #whats-happening-at-gitlab Slack channel
 1. Share the post from the #whats-happening-at-gitlab channel to 
-     - the #ceo channel and tag Sid
      - the #managers channel and ask managers to share with their teams
      - the PBPs and ask to amplify with division leadership
+1. Add a link to the issue and video to the onboarding issue template
 
 ### Schedule
 
