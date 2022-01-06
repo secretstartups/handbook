@@ -29,6 +29,7 @@ description: "GitLab Data Team Platform"
 - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
 - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
 - [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/)
+- [R/RStudio](/handbook/business-technology/data-team/platform/rstudio/)
 
 ## <i class="fas fa-cubes fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Our Data Stack
 
