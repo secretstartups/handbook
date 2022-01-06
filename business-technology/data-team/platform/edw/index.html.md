@@ -177,10 +177,9 @@ The Common Prep Schema has 6 primary use cases at this time. As we iterate on th
 
 1. Generate Surrogate Keys used in the Common Schema.
 1. Clean Source System data such as the conversion of datatypes and replacing NULL values.
-1. Generate calculated fields and perform transformations to be used in multiple downstream dimensions and facts in the Common Schema.
+1. Apply business process logic that is needed before combining with other data in the Common Schema..
 1. Bring in Foreign Keys/Identifier fields from other models that are useful for joins in dimensions and facts in the Common Schema.
-1. Unioning data coming from multiple sources before loading into dimension tables.
-1. Flatten data in JSON files and prepare them for use in the Common Schema.
+1. Unioning data coming from multiple sources before loading into tables in the Common Schema.
 1. No specific case but built for consistency in design.
 
 #### Common Mart
@@ -190,7 +189,7 @@ Marts are a combination of dimensions and facts that are joined together and use
 Below are some guidlines to follow when building marts:
 
 1. Following the naming convention for fact and dimension tables, all marts should start with the prefix `mart_`.
-1. Marts should not be built on top of other marts. Marts should be built on top of FCT and DIM tables. However, there are cases where we have mart level code snippets that join DIM and FCT tables together that needs to be resused across multiple different marts. In these use cases, we can create an ephemeral mart model to make the code snippet available for use by multiple marts without materializing the table in the data warehouse. This keeps the code DRY and allows for maintaining mart logic in one place. The ephemeral mart model should follow the name convention `mart_model_name_ephemeral`. We can also use macros to accomplish the same objective if the use case allows for that.
+1. Marts should not be built on top of other marts and should be built using FCT and DIM tables. 
 
 ## Useful links and resources
 
