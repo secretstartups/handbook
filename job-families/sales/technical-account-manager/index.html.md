@@ -336,17 +336,21 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 
 ## Specialties
 
-### Enterprise
+### High-Touch
 
 * Experience leading a high-touch motion with customers, including strategic account planning, lifecycle management, deep focus on maturity of adoption and leadership in expansion initiatives. 
 
-### Customer Programs 
-- Engage and assist customers as part of a campaign or program led by Customer Programs team in partnership with Commercial TAM and Sales team
-- Capture customer insights (e.g., common reasons for stalled adoption, contraction and churn) in the SMB segment through data analysis and customer engagement
-- Create solution guides and videos to deliver technical enablement to a large audience across the SMB and Mid-Market segments primarily
-- Curate frequently asked questions (FAQ) and related solution guides based on direct customer engagement, and analysis of customer requests and usage patterns
-- Partner with Customer Programs team to enhance and improve digital adoption journey to preserve or increase net retention for digital customers
-- Partner with our customers to understand industry-wide technical challenges along the customer journey with GitLab
+### Mid-Touch
+* Possess a deep understanding for creating customer value to deliver scaleable customer engagements that help customers derive ongoing value from their investment with GitLab
+* Manage and provide input into iteration upon the customer journey, including onboarding, adoption, retention, and expansion with an emphasis on defining and demonstrating value programatically to ultimately grow net revenue retention 
+* Take a data-driven approach to driving value across the customer segment, ensuring time and attention is prioritized to ensure the greatest positive impact
+* Proactively identify and prioritize accounts to focus efforts within a defined territory as based on point in lifecycle (e.g. onboarding) perceived risk, potential growth, strategic value, and renewal timeframe
+* Work cross-functionally with multiple teams (CS ops, content, programs, marketing, product) to develop thoughtful and innovative approaches to driving success with customers at scale
+* Identify key areas of enablement need across the customer segment and partner closely with the high-touch and scale TAMs to create content and webinars to address these needs
+* Analyze industry best practices, trends and performance metrics to shape customer engagement strategies and accelerate results
+
+
+
 
 ### Scale
 - Develop and deliver scale programs to drive product adoption, expansion, and customer engagement through webinars, digital content, and cohort engagement approaches (e.g., workshops, office hours, etc.)
@@ -361,6 +365,14 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 - Build engagement playbooks and reach out to customers with a relentless focus on quick solutions and positive outcomes
 - Work with CS and sales leadership on creating and executing upon scalable save plays for at-risk customers
 - Organize product-centric office hours where customers can troubleshoot with a technical representative
+
+### Customer Programs 
+- Engage and assist customers as part of a campaign or program led by Customer Programs team in partnership with Commercial TAM and Sales team
+- Capture customer insights (e.g., common reasons for stalled adoption, contraction and churn) in the SMB segment through data analysis and customer engagement
+- Create solution guides and videos to deliver technical enablement to a large audience across the SMB and Mid-Market segments primarily
+- Curate frequently asked questions (FAQ) and related solution guides based on direct customer engagement, and analysis of customer requests and usage patterns
+- Partner with Customer Programs team to enhance and improve digital adoption journey to preserve or increase net retention for digital customers
+- Partner with our customers to understand industry-wide technical challenges along the customer journey with GitLab
 
 ###  Public Sector Technical Account Manager
 ####  Public Sector Technical Account Manager Responsibilities
