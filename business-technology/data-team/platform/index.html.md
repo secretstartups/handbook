@@ -94,7 +94,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | PMG | x | `pmg` | `pmg` | x | x / x | No | Tier 3 |
 | [PTO by Roots](https://www.tryroots.io/pto) | [Snowpipe](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `pto` | `gitlab_pto` | Engineering Productivity / People | 7 days / x | No | Tier 3 |
 | [Qualtrics](https://www.qualtrics.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `qualitrics` | `qualtrics` | Marketing | 12h / 48h | No | Tier 2 |
-| [SaaS Usage Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) | [Airflow](https://airflow.gitlabdata.com/home) | `saas_usage_ping` | `saas_usage_ping` | Product | 1 week / x |  No | Tier 1 |
+| [SaaS Service Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) | [Airflow](https://airflow.gitlabdata.com/home) | `saas_usage_ping` | `saas_usage_ping` | Product | 1 week / x |  No | Tier 1 |
 | [Salesforce](https://www.salesforce.com/) | [Stitch](https://www.stitchdata.com/) | `salesforce_stitch` | `sfdc`| Sales | 6h / 24h |  Yes | Tier 1 |
 | [SheetLoad](/handbook/business-technology/data-team/platform/pipelines/#sheetload) | [SheetLoad](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) | `sheetload` | `sheetload` | Multiple | 24h / 48h |  Yes | Tier 1 |
 | [Snowplow](https://snowplowanalytics.com/) | [Snowpipe](/handbook/business-technology/data-team/platform/snowplow/index.html#snowpipe) | `snowplow` | `snowplow` | Product | 15m / 24h |  No | Tier 1 |
