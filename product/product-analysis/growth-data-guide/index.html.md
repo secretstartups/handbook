@@ -119,8 +119,8 @@ _Simplifed namespaces data set that includes trials and subscriptions_
 
 **Options for accessing this snippet:**
 
-- Copy/paste `[growth_data_namespaces_name]` into your Sisense report.
-- Copy/paste [SQL code](https://gitlab.com/gitlab-data/periscope/-/blob/periscope/master/snippets/growth_data_namespaces/growth_data_namespaces.sql) to customize query within your Sisense report.
+- Copy/paste `[growth_data_namespace_with_trials_subscriptions]` into your Sisense report.
+- Copy/paste [SQL code](https://gitlab.com/gitlab-data/periscope/-/blob/periscope/master/snippets/growth_data_namespaces/growth_data_namespace_with_trials_subscriptions.sql) to customize query within your Sisense report.
 
 **Granularity:** One record per namespace
 
@@ -173,7 +173,7 @@ subscription was purchased through a purchase order or directly from the web por
 These snippets are written as plug-and-play CTEs. You can apply your own name to these CTEs
 
 ``` sql
-WITH namespaces_w_trials_subs AS [growth_data_namespaces_name]
+WITH namespaces_w_trials_subs AS [growth_data_namespace_with_trials_subscriptions]
 
 SELECT * 
 FROM namespaces_w_trials_subs 
