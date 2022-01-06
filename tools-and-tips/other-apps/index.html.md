@@ -162,7 +162,7 @@ Make sure to use with headphones, and give it 10-15 minutes for your brain to ge
 [Calendly](https://calendly.com/) connects to your Google Calendar so people outside GitLab can easily book a time with you.
 If you are scheduling a meeting with a GitLab team-member, please use Google Calendar and follow handbook guidance when [scheduling a meeting](/handbook/communication/#scheduling-meetings).
 
-1. Set up a [Calendly](https://calendly.com/) account.
+1. Set up a [Calendly](https://calendly.com/). First sign up with your GitLab email address, then accept the terms and conditions and then authentificate with your Google SSO. 
 1. Link it to your GitLab Google Calendar to make it possible for people to schedule a call with you.
 1. Get your personal meeting room URL by going to [Zoom meeting settings](https://gitlab.zoom.us/meeting), selecting the *Personal Meeting Room* tab, and copying the value of *Join URL* (do not use *Copy the invitation*).
 1. Set up the 45 minute time slot with the following event description text (replacing text in `{}` with your information):
