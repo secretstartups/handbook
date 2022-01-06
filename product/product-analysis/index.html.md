@@ -346,6 +346,7 @@ office hours.
 1. [#g_product_analysis_daily](https://gitlab.slack.com/messages/g_product_analysis_daily/) - For 
 the Product Analysis team's asynchronous daily stand-up, powered by [Geekbot](https://geekbot.com/)
 1. [#data](https://gitlab.slack.com/messages/data/) - For general data questions
+1. `@product-analysts` - Notifies the entire Product Analysis team
 
 ### GitLab Groups
 
