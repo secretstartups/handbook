@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: Making Changes and Taking Actions on an Account
+category: GitLab.com
+subcategory: Accounts
+description: Workflow for when and how to make account changes on behalf of a customer
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -36,7 +44,7 @@ You can continue working with the original requester once an owner/maintainer pr
 
 In cases where a user has lost access to their account, all other options (such as SSH recovery codes, password reset) should be exhausted first.
 
-For unconfirmed accounts, the only account action support will typically take is an [email typo fix](confirmation_emails.html.md#typo-fix).
+For unconfirmed accounts, the only account action support will typically take is an [email typo fix](confirmation_emails.html#typo-fix).
 
 Before taking any action on confirmed accounts, ensure that you have verified the account owner using the [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow.
 
