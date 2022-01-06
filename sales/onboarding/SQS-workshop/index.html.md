@@ -37,7 +37,6 @@ This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjd
 |January 14, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
 |January 17, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
 |January 18, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
-|January 17, 2022  | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
 |January 19, 2022 | 12:00p ET | 12:50p ET | Discovery Call 3 | Mock Customers |
 |January 20, 2022 | 11:00a ET | 11:50a ET | Discovery Call 4 | Mock Customers |
 |January 18, 2022 | 12:00p ET | 12:30p ET | Field Security |  Field Security Team   |
@@ -45,6 +44,7 @@ This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjd
 |January 20, 2022 | 10:00a ET | 10:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
 |January 21, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services | Professional Services Team    |
 |January 21, 2022 | 12:00p ET | 12:50p ET | Channels |  Channel Team   |
+|January 24, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
 
 ### SQS 21 - February 2022
 
