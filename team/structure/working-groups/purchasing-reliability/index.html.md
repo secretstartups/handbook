@@ -113,7 +113,7 @@ defining a clear vision and team/service boundaries going forward.
 |-----------------------|-----------------------|-------------------------------------------------|
 | Executive Sponsor     | Sid Sijbrandij        | CEO                                             |
 | Facilitator           | Marshall Cottrell     | Principal Strategy and Operations (Technical)   |
-| Functional Lead       | Jerome Z Ng           | Senior Engineering Manager, Fulfillment         |
+| Functional Lead       | Jerome Z Ng           | Senior Engineering Manager and Acting Group Product Manager, Fulfillment |
 | Member                | Steve Loyd            | VP Infrastructure                               |
 | Member                | Bryan Wise            | VP of IT                                        |
 | Member                | Robert Rea            | Senior Director, IT Ops                         |
@@ -123,6 +123,7 @@ defining a clear vision and team/service boundaries going forward.
 | Member                | Etienne Baqué         | Senior Backend Engineer, Fulfillment:Utilization    |
 | Member                | Tyler Amos            | Staff Backend Engineer, Fulfillment:License        |
 | Member                | Qingyu Zhao           | Senior Backend Engineer, Fulfillment:Purchase       |
+| Member                | Tatyana Golubeva      | Principal Product Manager, Fulfillment:Purchase        |
 | Member                | Daniel Parker         | Senior Integrations Engineer, Business Technology |
 | Member                | Mark Quitevis         | Senior Business Systems Analyst, Business Technology |
 | Member                | Courtney Meddaugh     | Senior Business Systems Analyst, Business Technology |
