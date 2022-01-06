@@ -19,6 +19,10 @@ twitter_creator: "@gitlab"
 
 On this page, we're detailing how informal communication occurs at GitLab, how it complements [in-person interactions](/company/culture/all-remote/in-person/), and why it matters in an all-remote [culture](/company/culture/#culture-at-gitlab). There are over 20 different ways to foster informal communication below, and we are constantly discovering and adding new methods.
 
+## What is informal communication?
+
+Informal communication in the workplace is made up of interactions between co-workers that is unofficial in nature and focuses on building social relationships outside of the normal hierarchy of a typical business structure.
+
 ## Formally design informal communications
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">When working remote it is important to formalize informal communication. Explicitly plan time to create, build, and maintain social connections and trust. In our handbook we list 15 methods <a href="https://t.co/OAYB1uKX3r">https://t.co/OAYB1uKX3r</a> which I&#39;ll summarize in this thread.</p>&mdash; Sid Sijbrandij (@sytses) <a href="https://twitter.com/sytses/status/1250946875143815168?ref_src=twsrc%5Etfw">April 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
