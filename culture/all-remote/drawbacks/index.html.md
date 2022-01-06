@@ -133,6 +133,12 @@ Despite its many [advantages](/company/culture/all-remote/benefits/), all-remote
 - At GitLab, we encourage team members to [communicate with their manager when they recognize burnout](/handbook/paid-time-off/#recognizing-burnout), and to be mindful of the last time a team member [took time off from work](/handbook/paid-time-off/#paid-time-off).
 - Remote work requires you to [manage your own time](/handbook/values/#managers-of-one) and be self-motivated, disciplined, and [organized](/blog/2019/06/18/day-in-the-life-remote-worker/).
 
-----
+## Tips for independent remote working
+Whether you're new to working remotely or have done it before, you can explore the detailed version of our [5 tips to successful remote working](/company/culture/all-remote/remote-work-starter-guide/).
+1. Create a dedicated workspace (focus)
+1. Separate work from life (avoid burnout)
+1. Keep engaging with people (avoid loneliness)
+1. Respect routine, but experiment with change (balance)
+1. Be flexible and roll with the changes (iteration)
 
 Return to the main [all-remote page](/company/culture/all-remote/).
