@@ -141,4 +141,17 @@ Whether you're new to working remotely or have done it before, you can explore t
 1. Respect routine, but experiment with change (balance)
 1. Be flexible and roll with the changes (iteration)
 
+## When a remote team will save your business
+From the cost savings on office space to more flexibility in employees' daily lives, all-remote work offers a number of advantages to organizations and their people.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/GKMUs7WXm-E" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+>  **"Remote is not a challenge to overcome. It's a clear business advantage."** -Victor, Product Manager, GitLab
+
+You can view our [complete guide to the benefits of all-remote here](/company/culture/all-remote/benefits/).
+
 Return to the main [all-remote page](/company/culture/all-remote/).
