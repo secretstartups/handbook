@@ -22,9 +22,9 @@ GitLab has a robust and vibrant Data Program which includes a Central Data Team 
 
 Steps to uplevel triaging process:
 
-1. Incorporate Functional Analytics Teams into the triaging process.
+1. Incorporate Functional Analytics Teams into the #data channel triaging process.
 1. Create Slack Aliases so that GitLab Team members can ping a group of folks to get help with their questions in #data.
-1. Create a Triage Schedule for the Data Program to follow in GSheets for easy maintenace and maintain on the Data Team Calendar. Ask for a commitment of one team member, per Business Team, per day to help triage.
+1. Create a Triage Schedule for the Data Program to follow on the Data Program Calendar. Ask for a commitment of one team member, per Business Team, per day to help triage.
 
 | Triage Group Name   | Triage Slack Alias  | Triage Group Members  |  
 | -------------- | ------------------- | -------------------- |
@@ -34,8 +34,14 @@ Steps to uplevel triaging process:
 | Engineering Analytics Triage | `@EngineeringAnalyticsTriage` | Engineering Analytics Team, G&A Data Fusion Team |
 | Data Platfrom Triage | `@DataPlatformTriage`   | Data Platform Team |
 
-GitLab Team members can ping one of the groups above for any questions or help. When not clear, ping a group based on best guess. If a different group was needed, the request or question can always be re-routed. 
-### Triager
+ ### Enterprise Data Program Triage Instructions 
+
+1. GitLab Team members can ping one of the groups above for any questions or help. When not clear, ping a group based on best guess. If a different group was needed, the request or question can always be re-routed.
+1. Triager should review each slack message request in the **#data** that has the triager's assigned Slack alias pinged.
+1. Triager should reply to slack threads by pointing GitLab team member to the appropriate handbook page, visualization, or to other GitLab team members who may know more about the topic. 
+1. Triager should direct GitLab team member to the channel description, which has links to the various Data Program Projects, if the request requires more than 5 minutes of investigative effort from a Data Program team member.
+
+### Data Team Triager
 
 The Data team has implemented the following triage schedule to take advantage of native timezones:
 
