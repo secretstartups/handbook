@@ -58,7 +58,7 @@ Below are some common employment topics where Legal is asked to provide input. T
 
 **Contract negotiations.** In the event that a customer or vendor has questions regarding terms that affect our team members (such as drug tests or more intensive background checks), the Contract team will reach out to the Employment team.
 
-### ABCs of Employment Law
+## ABCs of Employment Law
 
 This is a non-exhaustive list of a few employment compliance matters that you should be aware of and keep in mind when communicating with candidates and team members as well as making any sort of employment-related decisions. This is _not_ meant to serve as a complete guide, but as a reminder that there are an abundance of employment compliance matters that we must adhere to and to highlight the importance of careful communication. 
 
@@ -182,5 +182,93 @@ Our [EthicsPoint hotline](http://gitlab.ethicspoint.com/) is available should an
 Generation X, Y, and Z, and even some Boomers, are all in the workforce together.  We all give and take feedback differently, work differently, and have different expectations.  Managers have to be aware of these generational differences and manage accordingly. 
 </details>
 
+## Basic Employment Laws
 
+Many countries have an extensive list of laws that govern the employee-employer relationship. Though these laws vary by location, there are a few main laws that set out the employees' fundamental rights and explain the employers' obligations. The following is a non-exhaustive list of some basic employment laws in GitLab's entity locations. 
+
+**United States**
+- [Title VII of the Civil Rights Act of 1964](https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964)
+- [Americans with Disabilities Act](https://www.ada.gov/ada_intro.htm)
+- [Age Discrimination in Employment Act](https://www.eeoc.gov/age-discrimination)
+- [Equal Pay Act](https://www.eeoc.gov/statutes/equal-pay-act-1963)
+- [Fair Labor Standards Act](https://www.dol.gov/agencies/whd/flsa)
+- [Family and Medical Leave Act](https://www.dol.gov/agencies/whd/fmla)
+- [Immigration Reform and Control Act](https://www.uscis.gov/i-9-central/form-i-9-resources/statutes-and-regulations)
+- [National Labor Relations Act](https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act)
+- [Occupational Safety and Health Act](https://www.osha.gov/laws-regs/oshact/completeoshact)
+- [Pregnancy Discrimination Act](https://www.eeoc.gov/pregnancy-discrimination)
+- [Uniformed Services Employment and Reemployment Rights Act](https://www.dol.gov/agencies/vets/programs/userra)
+
+**Belgium**
+- Employment Contracts Act of 3 July 1978
+- [Well-being Act](https://employment.belgium.be/en/themes/well-being-workers)
+- [Act of 10 May 2007 - General Act](https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/non)
+- [Act of 10 May 2007 - Gender Act](https://employment.belgium.be/en/themes/international/posting/working-conditions-be-respected-case-posting-belgium/non)
+- [Act of 30 July 1981 - Racism Act](https://www.unia.be/en/law-recommendations/legislation/act-of-30-july-1981-racism-xenophobia)
+
+**Netherlands**
+- [The Dutch Civil Code](http://www.dutchcivillaw.com/civilcodebook077.htm)
+- [The Act on Equal Treatment](https://www.rijksoverheid.nl/onderwerpen/gelijke-behandeling-op-het-werk/regels-gelijke-behandeling-op-het-werk)
+- [Working Conditions Act](https://www.arboineuropa.nl/en/legislation/)
+- [Whistleblowers Protection Act](https://www.wetbeschermingklokkenluiders.nl/voor-werkgevers)
+
+**Germany**
+- [Minimum Wage Act](https://www.gesetze-im-internet.de/englisch_milog/englisch_milog.html)
+- [German Civil Code (Bürgerliches Gesetzbuch)](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2556)
+- [German health and safety law (Arbeitsschutzgesetz)](https://www.gesetze-im-internet.de/arbschg/)
+- [General Equal Treatment Act (AGG)](https://www.antidiskriminierungsstelle.de/EN/about-discrimination/order-and-law/general-equal-treatment-act/general-equal-treatment-act-node)
+- [Working Hours Act (Arbeitszeitgesetz)](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html)
+
+**Australia**
+- [National Employment Standards](https://www.fairwork.gov.au/employment-conditions/national-employment-standards)
+- [Fair Work Act 2009](https://www.alrc.gov.au/publication/grey-areas-age-barriers-to-work-in-commonwealth-laws-dp-78/2-recruitment-and-employment-law/the-fair-work-act-2009-cth/)
+- [Racial Discrimination Act 1975 (Cth)](https://www.legislation.gov.au/Details/C2016C00089)
+- [Age Discrimination Act 2004 (Cth)](https://www.legislation.gov.au/Details/C2020C00283)
+- [Disability Discrimination Act 1992 (Cth)](https://www.legislation.gov.au/Details/C2018C00125)
+- [Sex Discrimination Act 1984 (Cth)](https://www.legislation.gov.au/Details/C2018C00499)
+- [Australian Human Rights Commission Act 1986 (Cth)](https://www.legislation.gov.au/Details/C2019C00030)
+
+**New Zealand**
+- [Employment Relations Act 2000](​​https://www.legislation.govt.nz/act/public/2000/0024/latest/DLM58317.html)
+- [Holidays Act 2003](https://www.legislation.govt.nz/act/public/2003/0129/latest/DLM236387.html)
+- [Minimum Wage Act 1983](http://www.legislation.govt.nz/act/public/1983/0115/latest/DLM74093.html)
+- [Parental Leave and Employment Protection Act 1987](http://www.legislation.govt.nz/act/public/1987/0129/latest/DLM120104.html)
+- [Equal Pay Act 1972](http://www.legislation.govt.nz/act/public/1972/0118/latest/DLM407770.html)
+- [Health and Safety at Work Act](http://www.legislation.govt.nz/act/public/2015/0070/latest/DLM5976660.html)
+- [Human Rights Act 1993](http://www.legislation.govt.nz/act/public/1993/0082/latest/DLM304212.html)
+
+**United Kingdom**
+- [Equality Act 2010](https://www.gov.uk/guidance/equality-act-2010-guidance)
+- [Employment Rights Act 1996](https://www.legislation.gov.uk/ukpga/1996/18/contents)
+- [Health and Safety at Work Act 1974](https://www.hse.gov.uk/legislation/hswa.htm)
+- [Working Time Regulations (1998) and The Working Time (Amendment) Regulations 2007](https://www.hse.gov.uk/contact/faqs/workingtimedirective.htm)
+
+**France**
+- [French Labour Code](https://code.travail.gouv.fr/)
+
+**Japan**
+- [Labor Standards Act](http://www.japaneselawtranslation.go.jp/law/detail_main?id=5&vm=2&re)
+- [Labor Union Act](http://www.japaneselawtranslation.go.jp/law/detail/?id=3805&vm=02&re=)
+- [Labor Relations Adjustment Act](http://www.japaneselawtranslation.go.jp/law/detail_main?re=&vm=02&id=3810)
+- [Industrial Safety and Health Act](http://www.japaneselawtranslation.go.jp/law/detail/?printID=&id=1926&vm=02&re=02)
+
+**Ireland**
+- [Employment Equality Acts 1998 to 2015](https://www.citizensinformation.ie/en/employment/equality_in_work/equality_in_the_workplace.html)
+- [Terms of Employment (Information) Acts 1994 to 2012](https://www.workplacerelations.ie/en/what_you_should_know/employer-obligations/terms-of-employment/)
+- [National Minimum Wage Acts 2000 to 2015](https://revisedacts.lawreform.ie/eli/2000/act/5/revised/en/html)
+- [Organisation of Working Time Act 1997](https://www.irishstatutebook.ie/eli/1997/act/20/enacted/en/html)
+- [Maternity Protection Acts 1994 and 2004](https://www.lawreform.ie/_fileupload/RevisedActs/WithAnnotations/HTML/EN_ACT_1994_0034.htm)
+- [Paternity Leave and Benefit Act 2016](https://www.irishstatutebook.ie/eli/2016/act/11/enacted/en/html)
+- [Safety, Health & Welfare at Work Acts 2005 to 2014](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/health_and_safety/health_safety_work.html)
+
+**Singapore**
+- [Employment Act](https://www.mom.gov.sg/employment-practices/employment-act)
+- [Child Development Co-Savings Act](https://sso.agc.gov.sg/Act/CDCSA2001?ValidDate=20200730&ViewType=Within)
+
+**South Korea**
+- [Labor Standards Act](https://elaw.klri.re.kr/eng_service/lawView.do?hseq=25437&lang=ENG)
+- [Minimum Wage Act](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/27216/98318/F614415284/KOR27216%20Eng%202012.pdf)
+- [The Act on Equal Opportunity and Work-Family Balance Assistance Act](https://www.law.go.kr/LSW/lsInfoP.do?chrClsCd=010203&lsiSeq=180140&viewCls=engLsInfoR&urlMode=engLsInfoR#0000)
+- [The Act on the Prohibition, Etc. of Age Discrimnation in Employment and Elderly Employment Promotion](https://elaw.klri.re.kr/eng_service/lawView.do?hseq=37583&lang=ENG#:~:text=The%20purposes%20of%20this%20Act,to%20ensure%20they%20have%20occupations)
+- [The Act on the Employment Promotion and Vocational REhabilitation of Persons with Disabilities](https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=45669&type=part&key=40)
 
