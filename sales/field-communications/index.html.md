@@ -150,15 +150,14 @@ Examples: Outside (non-field) requests for feedback/input, team member changes, 
 
 ### Requesting Field Announcements
 Once you've reviewed the playbook above and would like to request Field Communications support for a field-related announcement, please follow this process: 
-- Submit an issue using [this issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=field-announcement-request)
-   - Please provide as much context about your announcement as possible, specifically around the urgency and relevance to the field. Provide a recommended update tier and target communication channel(s) using the guidance in the playbook above. 
-   - A placeholder tag `Field Announcement::Triage` will be applied to the issue. 
-- Field Communications will triage the request as quickly as possible. Upon examining the request, they will assign it to a communication tier using one of three tags:
+- Submit an issue using [this issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=field-announcement-request) as soon as possible. Having advance notice will allow the Field Communications team to better plan upcoming communication to the Field.
+   - Please provide as much context about your announcement as possible, specifically around the urgency and relevance to the field. Provide a recommended update tier and target communication channel(s) using the guidance in the playbook above. You are not required to include complete copy in your request (bullet points are fine). The Field Communications team will work with you to refine your message as appropriate.
+- Field Communications will triage the request and apply a placeholder tag `Field Announcement::Triage` to the issue as quickly as possible. Upon examining the request, they will assign it to a communication tier using one of three tags:
    1. `Field Announcement::Tier 1` 
    1. `Field Announcement::Tier 2` 
    1. `Field Announcement::Tier 3` 
    - Note: If the announcement request includes a request to survey some or all field team members, the `Field Survey` tag will be applied to the issue and Field Communications will work with the requestor to determine if request fits within the survey limits set each month or if plans should be adjusted. (See the "Considerations" sections for Tier 2 and 3 playbooks above.) 
-- Field Communications will collaborate with the requester on the announcement details directly in the issue to finalize the roll-out plan. 
+- Field Communications will collaborate with the requester on the announcement details and copy directly in the issue to finalize the roll-out plan. 
 
 #### Recurring Announcements
 Some teams, including Strategic Marketing and Competitive Intelligence, are consistently creating new content and resources for the Field team. In the spirit of efficiency, Field Comms creates a container issue for each of these teams each month that serves as an aggregator of new/updated content as well as a collaboration space to allow for these teams to achieve a steady drumbeat cadence of updates to the Field. For example, 1-2 Slack notifications throughout the month sharing new/updated content and a list of all or most-impactful content in the Field Flash newsletter at the end of the month. 
