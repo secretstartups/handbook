@@ -25,7 +25,7 @@ canonical_path: "/company/team/structure/working-groups/issue-prioritization-fra
 
 ## Problem To Solve
 
-- We currently do not distinguish between "nice to have", "blocker", and "this will likely cause a downgrade/churn/prevent upsell." One customer may view Feature ABC as nice to have, whereas another customer desperately needs it.unt of time necessary to collect this information, transfer it, and then disseminate it on the other side is likely to be inefficient and error prone. It also does not solve the problem of a standardized model for determining relative priority across all stages based on quantifiable data such as impact to IACV 
+- We currently do not distinguish between "nice to have", "blocker", and "this will likely cause a downgrade/churn/prevent upsell." One customer may view Feature ABC as nice to have, whereas another customer desperately needs it. The time necessary to collect this information, transfer it, and then disseminate it among departments is likely to be inefficient and error prone. It also does not solve the problem of a standardized model for determining relative priority across all stages based on quantifiable data such as impact to retained ARR or net new ARR. 
 - We are [currently proposing](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues/23) that we establish a highly manual process where individuals will act as bridges to transfer information across departments.
 - We are not leveraging our existing data to the fullest extent. Let's understand why and solve for this. 
 
@@ -33,7 +33,7 @@ canonical_path: "/company/team/structure/working-groups/issue-prioritization-fra
 
 - Create a standardized prioritization framework based on quantifiable data that enables us to determine urgency/value per issue/epic at scale and speed so that Product, Sales, and Customer Success can use a common language and model when discussing prioritization trade-offs.
 - Product DRIs have more accurate inputs to help them globally optimize their delivery backlogs resulting in increased customer retention and acquisition.
-- Positively impact IACV growth and improve retention of existing ARR.
+- Positively impact Net ARR growth and improve retention of existing ARR.
 - Improve the accuracy of the prioritization feedback among departments.
 - Further operationalize the process of creating effective bridges between Customer Success, Sales, and Product.
 
@@ -41,23 +41,23 @@ canonical_path: "/company/team/structure/working-groups/issue-prioritization-fra
 
  (✅ Done, ✏️ In-progress)
 
-##### Step 1: [Determine a viable model](https://gitlab.com/gitlab-com/Product/-/issues/1457) `=> 75%`
+##### Step 1: [Determine a viable model](https://gitlab.com/gitlab-com/Product/-/issues/1457) `=> 90%`
 
 - ✅  `Cost of Delay / Duration` will serve as the primary model to run a pilot against.
 - ✅  We've determined how to assign monetary value for issues with links to SFDC.
 - ✏️ [Determine model inputs for issues that do not have SFDC links](https://gitlab.com/gitlab-com/Product/-/issues/1639).
-- ✏️ [Define TAM inputs](https://gitlab.com/gitlab-com/Product/-/issues/1635).
+- ✅ [Define TAM inputs](https://gitlab.com/gitlab-com/Product/-/issues/1635).
 
-##### Step 2: [Implement & validate model](https://gitlab.com/gitlab-com/Product/-/issues/1563) `=> 10%`
+##### Step 2: [Implement & validate model](https://gitlab.com/gitlab-com/Product/-/issues/1563) `=> 100%`
 
-- ✅  Design initial pilot and break down into tasks and DRIs.
-- ✅  Identify a DRI that can complete the data related tasks.
-- ✏️ [Implement pilot](https://gitlab.com/gitlab-com/Product/-/issues/1563).
-- Assess results and outcomes. If pass, move to Step 3. If fail, exit WG or cycle back to Step 1.
+- ✅ Design initial pilot and break down into tasks and DRIs.
+- ✅ Identify a DRI that can complete the data related tasks.
+- ✅ [Implement pilot](https://gitlab.com/gitlab-com/Product/-/issues/1563).
+- ✅ Assess results and outcomes. If pass, move to Step 3. If fail, exit WG or cycle back to Step 1.
 
-##### Step 3: [Verify at scale and measure outcomes (TBD)]() `=> 0%`
+##### Step 3: [Verify at scale and measure outcomes](https://gitlab.com/gitlab-com/Product/-/issues/3546) `=> 15%`
 
-- TL;DR: Once validated, we drive adoption across Product/CS/Sales and collect measurements to confirm that this model is producing the desired business outcomes. If not, decide to go back to Step 1 or Exit.
+- ✏️ TL;DR: Once validated, we drive adoption across Product/CS/Sales and collect measurements to confirm that this model is producing the desired business outcomes. If not, decide to go back to Step 1 or Exit.
 - This will be populated with specific tasks once we are further along with step 2. 
 
 ## Roles and Responsibilities

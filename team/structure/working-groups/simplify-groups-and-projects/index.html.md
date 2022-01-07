@@ -28,7 +28,7 @@ canonical_path: "/company/team/structure/working-groups/simplify-groups-and-proj
 - Groups, sub-groups, and projects as they are organized today are confusing to our users and are negatively impacting adoption, onboarding, and retention for Plan and numerous other stages.
 - We currently have a lot of requests to "implement [insert existing project feature here] at the Group level" as a way to try and solve some of this. We are duplicating capabilities that already exist at the Project level but not within the Group.
 - When we do this, we end up not cleanly recreating the same experience at the Group level, resulting in defects, missing capabilities, and poor UX that leads to incomplete and painful critical paths for our customers.
-- **External:** GitLab is inflexible to how companies organize their teams and workflows. **Internal:** We are/will be spending millions of dollars on implementing (or paying down technical debt related to) project level features within Groups (or vice versa).  
+- **External:** GitLab is inflexible to how companies organize their teams and workflows. **Internal:** We are/will be spending millions of dollars on implementing (or paying down technical debt related to) project level features within Groups (or vice versa).
 - See ["Pain"](https://docs.google.com/document/d/1a2xuEMAsWzPK-cb_wnS9DWh9YHXZLs34Lp7jdetODR4/edit#bookmark=id.ncteuke1gqrp) and corresponding customer perspective from Opportunity Canvas.
 
 ## Business Goal
@@ -52,17 +52,17 @@ Opportunity Canvas: https://docs.google.com/document/d/1a2xuEMAsWzPK-cb_wnS9DWh9
 
 ## Roles and Responsibilities
 
-Because of the wide sweeping implications of solving this problem -- and that it spans the entire product -- we would like at least one Member per section and ideally one Member per stage. 
+Because of the wide sweeping implications of solving this problem -- and that it spans the entire product -- we would like at least one Member per section and ideally one Member per stage.
 
 | Working Group Role    | Person                | Title                          |
 |-----------------------|-----------------------|--------------------------------|
 | Executive Sponsor     | Anoop Dawar           | VP Product Management          |
 | Facilitator           | Justin Farris         | Group Product Manager, Plan    |
-| Functional Lead       | Liam McAndrew         | Engineering Manager, Manage:Access |
+| Functional Lead       | Liam McAndrew         | Engineering Manager, Manage:Authentication and Authorization |
 | Functional Lead       | Gabe Weaver           | Senior Product Manager, Plan   |
 | Functional Lead       | UX Mike Long              | Product Design Manager, Dev:Plan & Dev:Manage |
-| Member                | Melissa Ushakov (Manage)  | Senior Product Manager, Access     |
-| Member                | Alex Pooley (Manage)      | Senior Backend Engineer, Access    |
+| Member                | Melissa Ushakov (Manage)  | Senior Product Manager, Authentication and Authorization     |
+| Member                | Alex Pooley (Manage)      | Senior Backend Engineer, Authentication and Authorization    |
 | Member                | Christen Dybenko (Create) | Senior Product Manager, Knowledge  |
 | Member                | Natalia Tepluhina (Create) | Staff Frontend Engineer, Knowledge  |
 | Member                | Markus Koller (Create) | Backend Engineer, Knowledge  |
