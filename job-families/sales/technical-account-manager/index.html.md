@@ -341,13 +341,13 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 * Experience leading a high-touch motion with customers, including strategic account planning, lifecycle management, deep focus on maturity of adoption and leadership in expansion initiatives. 
 
 ### Mid-Touch
-* Possess a deep understanding for creating customer value to deliver scaleable customer engagements that help customers derive ongoing value from their investment with GitLab
-* Manage and provide input into iteration upon the customer journey, including onboarding, adoption, retention, and expansion with an emphasis on defining and demonstrating value programatically to ultimately grow net revenue retention 
-* Take a data-driven approach to driving value across the customer segment, ensuring time and attention is prioritized to ensure the greatest positive impact
-* Proactively identify and prioritize accounts to focus efforts within a defined territory as based on point in lifecycle (e.g. onboarding) perceived risk, potential growth, strategic value, and renewal timeframe
+* Possess a deep understanding of creating customer value to deliver scalable customer engagements that help customers derive ongoing value from their investment with GitLab
+* Manage and provide input into iteration upon the customer journey, including onboarding, adoption, retention, and expansion, with an emphasis on defining and demonstrating value programmatically to grow net revenue retention ultimately 
+* Take a data-driven approach to driving value across the customer segment, ensuring time and attention is prioritized to ensure the most significant positive impact
+* Proactively identify and prioritize accounts to focus efforts within a defined territory as based on point in lifecycle (e.g., onboarding) perceived risk, potential growth, strategic value, and renewal timeframe
 * Work cross-functionally with multiple teams (CS ops, content, programs, marketing, product) to develop thoughtful and innovative approaches to driving success with customers at scale
 * Identify key areas of enablement need across the customer segment and partner closely with the high-touch and scale TAMs to create content and webinars to address these needs
-* Analyze industry best practices, trends and performance metrics to shape customer engagement strategies and accelerate results
+* Analyze industry best practices, trends, and performance metrics to shape customer engagement strategies and accelerate results
 
 
 
