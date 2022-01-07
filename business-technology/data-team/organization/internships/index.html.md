@@ -87,9 +87,9 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 - Working in GitLab to manage projects (via epics and issues)
 - Writing new source code and merging the code through a Merge Request
 
-## Data Team Internship Positions
+## Data Team Internship for Learning Positions
 
-### Analytics Engineering Internship
+### Analytics Engineering Internship for Learning
 
 #### Requirements
 
@@ -107,7 +107,7 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
      - Experience designing and managing projects
      - Working knowledge of Python (we use Jupyter notebooks to analyse and visualise data)
 
-### Data Science Internship
+### Data Science Internship for Learning
 
 #### Requirements
 
