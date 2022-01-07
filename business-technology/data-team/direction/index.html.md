@@ -15,7 +15,7 @@ title: "Data Team Direction"
 
 ## Data Development Timeline
 
-**How did we get here?** The [Data Development Timeline]((/handbook/business-technology/data-team/direction/timeline) page provides coverage of the Data Team's accomplishments and the path we have taken to create today's team, technology platform, and programs.
+**How did we get here?** The [Data Development Timeline](/handbook/business-technology/data-team/direction/timeline) page provides coverage of the Data Team's accomplishments and the path we have taken to create today's team, technology platform, and programs.
 
 ## FY23 Data Strategy
 
