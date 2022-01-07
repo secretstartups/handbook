@@ -68,7 +68,7 @@ If the answer to these questions is **YES**, there is a great chance the interns
 
 ### Data Team Internship KPIs
 
-KPIs we will use to measure success of an individual internship are as follows:
+The following KPIs are guidelines we plan to use for the internship. These may be adjusted by the mentor/intern prior to the start of the internship with approval from the team manager.
 
 1. Successfull Data Team Onboarding within 30 Calendar Days
 1. Monthly Progress Report and Feedback issue
@@ -99,13 +99,13 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 - Comfort working in a highly agile, intensely iterative environment
 - Self-motivated and self-managing, with task organizational skills
 - Working knowledge of SQL
-- Working knowledge of Python (we use Jupyter notebooks to analyse and visualise data)
 - Basic knowledge of dashboard tools (we use Sisense)
 - At least 1 completed demoable data project (Non-commercial projects done in a spare time also count)
 - Nice to have
      - Understanding of software industry
      - Prior experience in a Data Role
      - Experience designing and managing projects
+     - Working knowledge of Python (we use Jupyter notebooks to analyse and visualise data)
 
 ### Data Science Internship
 
