@@ -18,7 +18,7 @@ There are 3 groups within marketing who handle external events. Each group has a
 
 - [Community Relations](/handbook/marketing/community-relations/evangelist-program/)
 - [Corporate Events](/handbook/marketing/corporate-marketing/#corporate-events)
-- [Field Marketing](/handbook/marketing/revenue-marketing/field-marketing/)
+- [Field Marketing](/handbook/marketing/field-marketing/)
 
 [Marketing Programs](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/) supports Corporate and Field Marketing in relation to all events with communication timeline, technical tracking, reporting, email deployment, landing page creation, and more as required by the event.
 
@@ -30,7 +30,7 @@ GitLab’s top priority is the health and safety of our attendees and team membe
 
 Travel guidance on COVID-19 can be [found here](/handbook/travel/#travel-guidance-covid-19).
 
-### Legal verbiage that should be included in all event contracts thoughout FY21
+### Legal verbiage that should be included in all event contracts thoughout FY22
 
 - This language is what we should be adding to supplier agreements (when agreeing on their template):
   - "Termination for Convenience. GitLab may terminate this Agreement, any SOW or Order, or all at any time, for no reason or for any reason, upon notice to Vendor. Upon receipt of notice of such termination, Vendor shall inform GitLab of the extent to which it has completed performance as of the date of the notice, and Vendor will collect and deliver to GitLab whatever Work Product then exists, if applicable. GitLab will pay Vendor for all Work acceptably performed through the date of notice of termination, provided that GitLab will not be obligated to pay any more than the payment that would have become due had Vendor completed and GitLab had accepted the Work. GitLab will have no further payment obligation in connection with any termination. Upon termination or expiration of this Agreement, Vendor shall return or destroy any GitLab Confidential Information and provide certification thereof."
@@ -117,7 +117,7 @@ The purpose of creating a new issue for each ancillary event is to better facili
 1. **Marketing Program Manager will add the related necessary execution issues** as indicated by the YES/NO section in the issue. **This section must be complete before the issue moves to `status:wip`.**
    - Ex: Landing Page - Dinner + Date - Event name as shown on original issue)
 1. **Marketing Program Manager will add as a new line item for each ancillary event in the [Events googledoc](https://docs.google.com/spreadsheets/d/1mw16Ft0Wo379dT6OYingQ5A4xXTT1EjdpD6k-lgQync/edit#gid=0)**
-1. If the event is approved to move forward to contracting, is on the budget sheet, and the campaign tag has been created (Corporate Marketing) or auto-created by formula (Field Marketing), the DRI will start finance issue for contract review and signature following the [Procure to Pay Process](/handbook/finance/procurement/purchase-request-process/). The event DRI/FMC (for Field Marketing) is in charge of the finance issue creation and ushering it along. The finance issue will include:
+1. If the event is approved to move forward to contracting, is on the budget sheet, and the campaign tag has been created (Corporate Marketing) or auto-created by formula (Field Marketing), the DRI will start finance issue for contract review and signature following the [Procure to Pay Process](/handbook/finance/procurement/). The event DRI/FMC (for Field Marketing) is in charge of the finance issue creation and ushering it along. The finance issue will include:
    - ROI calculation for event in the final cost section.
    - Add the finance issue as a `Related issue` to the original issue for reference.
    - Add in any discounts or contract negotiations you have already completed.
@@ -254,7 +254,7 @@ cc @jburton to create list upload issue and DMA request as required
    1. Open issue in the `Corporate Marketing` project for booth design. Assign to Design team and provide booth spec and due date. Provide as much notice as possible.
    1. For any content or major layout changes, tag Strategic Marketing and Design in the related booth design issue created in the `Corporate Marketing` project.
 1. Digital
-   - Coordinate all digital marketing requests with your regional MPM. See [Requesting Digital Marketing Promotions](/handbook/marketing/revenue-marketing/digital-marketing-programs/digital-marketing-management/#requesting-digital-marketing-promotions) for more info.
+   - Coordinate all digital marketing requests with your regional MPM. See [Requesting Digital Marketing Promotions](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#requests) for more info.
 1. For Corporate events - Meeting Setting
    1. All leads gathered through meeting setting must be tracked in their own campaign which will be set up by the MPM and associated to the main event campaign.
    1. We generally provide a small give (under \$50 USD or country equivalent) for anyone who takes a meeting with us.
@@ -527,7 +527,7 @@ The above planning list is not exhaustive - see planning issue template in field
 - The event DRI determines how many staffers we need at the event and is responsible for ensuring the staffers are all set to attend the event.
 - If the event is more enterprise-focused we try to send more marketing/sales. Regional Sales Managers in partnership with FM select team members based on who has the most potential contacts in the area or going to an event.
 - If the event is more user-focused we will lean towards sending more technical people to staff and fewer sales.
-- Suggestion for staffing: Field Marketing will evalute GitLabbers who live in the area that might be a good fit for the audience.
+- Suggestion for staffing: Field Marketing will evalute GitLab team members who live in the area that might be a good fit for the audience.
 - We lean towards those who might be thought leaders, specialists, or more social for a specific show - i.e. if we are sponsoring an AWS show, we would like for a GitLab + AWS expert to staff the event.
 - We aim to bring minimal team members to keep costs and disruption to normal workflow low. We take into account what value everyone will provide as well as coverage balance. Please check with the event DRI if you would like to or would like to suggest someone participate in an event.
 - Once you have agreed to attend an event, you are not able to back out unless there is a customer facing obligation you need to tend to. We have this in place to avoid unnecessary rework on the event DRI’s behalf.
@@ -723,10 +723,10 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
 
 Common lead questions:
 
-- Record ownership will be assigned using the [Global Ownership](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) rules
+- Record ownership will be assigned using the [Global Ownership](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/) rules
 - All followup needs to be tracked in SFDC
 - List upload needs to be done **before** follow up is done so we can ensure proper order of operations & attribution is given correctly
-- Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/#lead--contact-statuses) on the record as follow up is done.
+- Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/) on the record as follow up is done.
 - Campaign type & meaning of [Campaign Member status](/handbook/marketing/marketing-operations/#campaign-type--progression-status) can be found in the Marketing Ops handbook
 
 #### Onsite registration form & landing page
@@ -818,11 +818,11 @@ GitLab's Community Relations team reviews and manages our community events (typi
 
 ### Field Marketing Campaign Tags
 
-For Field Marketing campaign tag details, please visit the Field Marketing page [here](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-tags).
+For Field Marketing campaign tag details, please visit the Field Marketing page [here](/handbook/marketing/field-marketing/#field-marketing-campaign-tags).
 
 ### Field Marketing Swag and Event Assets
 
-For all details regarding Field Marketing Swag and Event Assets, please visit the Field Marketing page [here](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-swag).
+For all details regarding Field Marketing Swag and Event Assets, please visit the Field Marketing page [here](/handbook/marketing/field-marketing/#field-marketing-swag).
 
 ### AMER Field Marketing QR Codes for Events
 
@@ -939,12 +939,12 @@ Save event images and headers here: Save images for featured events [here](https
 
 - **Topic** - Name of the event you would like to add
 - **Type** - Please choose one of the following: `Diversity`, `Conference`,
-  `MeetUp`, `Speaking Engagement`, `Webinar`, `Community Event` or `GitLab Connect`. **Events cannot have more than one type.** If more than one apply, choose the best. If you feel your event doesn’t fit in the below category, do not just manually add a type. Please reach out to events@gitlab.com to suggest a new type of event.
+  `MeetUp`, `Speaking Engagement`, `Webcast`, `Community Event` or `GitLab Connect`. **Events cannot have more than one type.** If more than one apply, choose the best. If you feel your event doesn’t fit in the below category, do not just manually add a type. Please reach out to events@gitlab.com to suggest a new type of event.
 - **Date starts** - Day event starts
 - **Date ends** - Day event ends (For a single day event, please put the date in both the `Date starts` and `Date ends` section)
 - **Description** - Brief overview about event (can be taken from event homepage).
-- **Location** - city, state,provinces, districts, counties (etc depending on country), country where event will take place
-- **Region** - `AMER`, `LATAM`, `EMEA`, `APAC`, or `Online`
+- **Location** - city, state, provinces, districts, counties (etc depending on country), country where event will take place
+- **Region** - `AMER`, `LATAM`, `EMEA`, `APAC`, `PubSec`, or `Global`
 - **Social tags** - hashtag for event shared by event host
 - **Event URL** - homepage for event
 
