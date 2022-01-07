@@ -48,6 +48,7 @@ Includes RFP Templates, scorecards and Vendor Guidelines for doing business with
   <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin-left:30px;margin-right:30px;display:grid;align-items:center;height:100%;">Vendor selection process</a>  
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Vendor guidelines</a>
    <a href="/handbook/legal/NDA/#" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Non-Disclosure Agreement (NDA)</a>
+      <a href="/handbook/finance/procurement/charitable-contributions/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Charitable Contributions</a>
 </div>
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> How do I contact Procurement?
