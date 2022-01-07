@@ -88,6 +88,8 @@ FY22-Q1 was a very important quarter for the Data Team because the team complete
 
 ###  FY21 Direction
 
+_Define Data Strategy and Initiate Development of Enterprise Data Programs to move from Level 1 to Level 2_
+
 Measured in Quarters, our FY21 short-term direction was to help GitLab be a [public company](/handbook/being-a-public-company/) by reaching [Level 2 of the Data Capability Model](/handbook/business-technology/data-team/direction/#data-capability-model) with support for GitLab's [KPIs](/company/kpis/) and Self-Serve Data coverage of GitLab's two most important business processes: the _lead-to-cash_ cycle and the _product-release-to-adoption_ cycle.
 
 In priority order, the elements of the EDP we sought to build included:
@@ -95,36 +97,10 @@ In priority order, the elements of the EDP we sought to build included:
 1. An [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw/) to serve as single-source-of-truth for reporting and analysis, including all of our Sisense dashboards and SQL analysis in Snowflake
 1. A [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) to help ensure all of our Data Solutions are thoroughly tested, with automated ongoing validations
 1. [Data Visualizations](/handbook/business-technology/data-team/platform/periscope/) to support performance analysis, including [KPIs](/company/kpis/).
-1. A [Self-Service Data Program](/handbook/business-technology/data-team/direction/self-service/) to allow all GitLab teams to reliably access trusted data without requiring central Data Team involvement. Our three Self-Serve Data options are:
-    1. **Dashboard Viewer** - GitLab team members login to the Sisense portal and access pre-built dashboards
-       1. **Dashboard Developer** - GitLab team members certified in Sisense login to the Sisense portal and build their own Dashboards sourced from trusted data available in the Enterprise Dimensional Model
-       1. **SQL Developer** - any GitLab team member certified in SQL Analysis writes their own SQL to query trusted data from the Enterprise Dimensional Model hosted in Snowflake
+1. A [Self-Service Data Program](/handbook/business-technology/data-team/direction/self-service/) to allow all GitLab teams to reliably access trusted data without requiring central Data Team involvement. 
 
-```mermaid
-graph LR
-	E9 --> W1
-	DV1 --> W3
+### FY21-Q2
 
-    subgraph Extraction
-        E1[Stitch] --> E9[DW Endpoint]
-		E2[Fivetran] --> E9
-		E3[Postgres] --> E9
-		E4[Sheetload] --> E9
-		E5[Custom] --> E9
-    end
-
-    subgraph Snowflake Data Warehouse
-        W1[RAW Data] --> W2{dbt}
-		W2 --> W3[Dimensional Model]
-    end
-
-	subgraph Data Visualization
-        DV1[Sisense Dashboards]
-    end
-
-	subgraph Self-Service Data
-		SS3[SQL Analyst] --> W3
-		SS1[Dashboard Viewer] --> DV1
-		SS2[Dashboard Developer] --> DV1
-    end
-```
+- [FY21-Q2 Objective 1: Finance ARR Data Mart, Dashboards, and Self-Service Training](https://gitlab.com/groups/gitlab-com/business-ops/-/epics/79) 
+- [FY21-Q2 Objective 2: Ship automated data pipelines for key available product data sources](https://gitlab.com/groups/gitlab-com/business-ops/-/epics/80) 
+- [FY21-Q2 Objective 3: Establish predictable KPI Governance Model and Development Schedule](https://gitlab.com/groups/gitlab-com/business-ops/-/epics/81)

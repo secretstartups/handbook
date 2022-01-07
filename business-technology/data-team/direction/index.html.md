@@ -13,6 +13,10 @@ title: "Data Team Direction"
 
 `This page contains forward-looking content and may not accurately reflect current-state or planned feature sets or capabilities.`
 
+## Data Development Timeline
+
+**How did we get here?** The [Data Development Timeline](/handbook/business-technology/data-team/direction/timeline) page provides coverage of the Data Team's accomplishments and the path we have taken to create today's team, technology platform, and programs.
+
 ## FY23 Data Strategy
 
 In November-2021 we held several cross-team sessions to help align on the GitLab data strategy for FY23. Parcipants included Growth, Finance, Marketing, Sales Stragy, and Customer Success.
