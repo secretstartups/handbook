@@ -112,10 +112,10 @@ Key areas of exploration:
 - [Workshops and/or Lunch-and-Learns](/handbook/customer-success/tam/workshops/) 
 
 
-##### Digital Journey:
+##### Digital Customer Programs:
 
-- [Digital Journey](/handbook/customer-success/tam/digital-journey/)
-  * [Nominating Contacts for the Digital Journey](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts)
+- [Digital Customer Programs Handbook Page](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
+  * [TAM Assigned Customer Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#tam-assigned-account-programs)
 
 
 ### TAM Managers
