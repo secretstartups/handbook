@@ -536,10 +536,11 @@ Each FMM and FMC is to keep a GitLab tablecloth, popup banner and table runner w
 It is the FMM’s responsibility to not only ship assets to events, but to also ensure the onsite event DRI ships the items back within **3 days** of the end of the event. When shipping items via the Nadel portal, there is an option to include return shipping labels during the ordering process so items can be sent back to Nadel directly. The return shipping labels will be included on the outside of the box in a sleeve marked `Return Documents Enclosed`. The FMM is to make sure the onsite event DRI is aware of the location of the return shipping labels. If a return shipping label is not included for any reason during the Nadel ordering process, the FMM is to provide the Field Marketing Fedex account number (available in the 1Password Marketing Vault) and the return shipping address listed below to the onsite event DRI. The onsite event DRI will then need to drop off the items to a Fedex location.
 
 #### Nadel Warehouse Address for Returns
-DG Receiving Dept - GIT476 (FM)  
-2270 E 220th Street  
-Deliveries To: Dock Door 21  
-Carson, CA 90810  
+*Please note that this is the new warehouse address as of 1/11/22* 
+
+DG Receiving Dept - #GIT476 (FM)    
+24100 Broad Street   
+Carson, CA 90745  
 
 ### AMER Sales Welcome Swag Kits
 
