@@ -159,6 +159,13 @@ Examples of when someone may request a meal train (this list isn't exhaustive):
 
 If you have any questions, please reach out to parental-leave@gitlab.com.
 
+## Fertility & Family Planning
+
+Team Members can refer to their [entity-specific](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) medical plans to understand the fertility and family planning benefits available to them, as applicable. Please contact [total-rewards@gitlab.com](mailto:Total-Rewards@gitlab.com) should you have any questions.
+
+GitLab plans to continue to iterate on fertility benefits as we evaluate and enhance our overall benefit plans. In a future state, GitLab aims to expand fertility and family planning services (including adoption support) in order to help our team members grow their families.  
+
+
 ## Parental Leave
 
 GitLab's paid Parental Leave is for any team member (regardless of gender) who becomes a parent through child birth or adoption. **If you've been at GitLab for six months** and completed a [probationary period](/handbook/contracts/#probation-period) (if applicable), you can take up to **16 weeks of paid Parental Leave** during the first year of parenthood. This includes anyone who becomes a parent through childbirth or adoption. The 16-week balance is per birth or adoption event. If you live in a country where a statutory Parental Leave benefit is available, you will be required to claim statutory Parental Leave pay (if you are eligible) and GitLab will supplement any gaps. 
