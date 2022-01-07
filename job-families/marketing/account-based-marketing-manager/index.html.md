@@ -3,11 +3,11 @@ layout: job_family_page
 title: "Account Based Marketing Manager"
 ---
 
-The Account Based Marketing Manager is responsible for the strategy and implementation of effective Account Based Marketing programs that meet the growth objectives of the business, with a strong emphasis on driving pipeline generation exclusively from a top target account list, and accelerating existing opportunities. The role will also support strong partnership with key stakeholders within the Marketing organization.
+The Account Based Marketing Manager is responsible for the strategy and implementation of Account Based Marketing campaigns and tactics that drive pipeline from an ABM account list of top target accounts. This role will approach ABM strategy with a data-driven approach, continually testing and evaluating success of campaigns. The ABM Manager collaborates closely across marketing, sales, and SDR teams for a fully integrated approach. 
 
 ## Responsibilities
-*   Define Account Based Marketing strategy and execution planning, encompassing our multiple ABM tools.
-*   Own and manage our Account Based Marketing platform, DemandBase.
+*   Define Account Based Marketing strategy and execution planning
+*   Own and manage our Account Based Marketing platform, DemandBase
 *   Partner with the regional Field Marketing Managers to develop regional, account focused playbooks including, but not limited to, outbound prospecting, inbound lead follow up, nurture, channel activities, live/online events, meeting setting with the goal of building pipeline and accelerating bookings.
 *   Collaborate and partner with core marketing functions on campaign concept, custom content requirements, digital marketing support/message testing and creative development to ensure effectiveness for regional named accounts.
 *   Identify the most effective marketing messages, value proposition, materials, channels, and calls to action for personas and key accounts in the regions.
@@ -29,21 +29,25 @@ The Account Based Marketing Manager is responsible for the strategy and implemen
 *   Ability to use GitLab.
 
 ## Levels
-### Account Based Marketing Manager
+### Account Based Marketing Manager (Intermediate)
+
+The Account Based Marketing Manager (Intermediate) reports to Manager, Marketing Campaigns.
 
 #### Job Grade
-The Account Based Marketing Manager is a [6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Account Based Marketing Manager (Intermediate) is a [6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
-- Support abm campaign logistics and campaign tactics
-- Help facilitate reporting and metrics on the account based marketing campaigns and tactics
-- Assist with account research and campaign planning, development and execution
-- Partner closely with SDR and sales teams to ensure strong marketing and sales alignment.
+- Strategize, execute, and optimize a data-driven ABM strategy to achieve sales goals
+- Develop and deploy multi-channel ABM campaigns, including crafting strategy, aligning internal teams, and project managing execution
+- Apply an experimentation mindset to ABM campaigns to drive, test, learn, and optimize
+- Iterate and optimize campaigns based on results of campaigns and testing
+- Collaborate with ABM leadership team (sales and marketing interlock) to select key accounts
+- Deliver account analysis and research to drive ABM strategies
+- Provide ongoing reporting, campaign insights and pacing toward goal to stakeholders
+- Work closely with marketing ops and business ops to support high-performance ABM marketing tools and integrations
+- Partner closely with SDR and sales teams to ensure strong marketing and sales alignment
 - Document processes and best practices in our handbook for marketing and sales teams to reference
-- Work closely with Marketing and Sales Operations to support high-performance ABM marketing technology.
-- Align and collaborate with sales and sales enablement teams to ensure SLAs for lead and campaign follow up are achieved
-
 
 #### Requirements
 - 2+ years of experience in account based marketing or similar field, with the desire to learn more about account based marketing
@@ -51,13 +55,12 @@ The Account Based Marketing Manager is a [6](/handbook/total-rewards/compensatio
 - Able to clearly communicate new ideas, products, and campaigns to both internal and external stakeholders
 - Team player that is able to work both collaboratively and autonomously
 - Strong project management, planning, and organizational skills
-- Demonstrated ability to achieve results working cross-functionally with sales, marketing, and product teams.
-- Demonstrated ability to manage multiple projects simultaneously
+- Experience manage multiple projects simultaneously
+- Demonstrated ability to achieve results working cross-functionally with sales, marketing, and product teams
 - CRM/marketing automation background, preferably Salesforce and Marketo
-- Experience working both independently and within close teams in a fast-paced remote work environment, managing multiple projects simultaneously
-- Ability to use GitLab.
+- Experience with ABM tools (Demandbase) preferred
+- Ability to use GitLab for project management
 * Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
-
 
 #### Performance Indicators
 
@@ -66,6 +69,13 @@ The Account Based Marketing Manager is a [6](/handbook/total-rewards/compensatio
 - Account penetration: number of touchpoints to close
 - Increased number of opportunities per company within the ABM strategy
 - Percentage of MQL's that flip to SAO's
+
+### Senior Account Based Marketing Manager
+
+#### Job Grade
+The Account Based Marketing Manager is a [7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
 
 
 ### Manager, Account Based Marketing
