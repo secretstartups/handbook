@@ -14,8 +14,9 @@ description: "Data Programs."
 
 ## <i id="biz-tech-icons" class="far fa-paper-plane"></i>Introduction
 
-Welcome to the **Data Team - Data Program ** page. This page contains information about the various programs we support, ranging from onboarding to day-to-day operations.
+Welcome to the **Data Programs** page. Here you'll find information about the various Data Programs around GitLab and those the Data Team supports, ranging from onboarding to day-to-day operations.
 
+- **[Data Slack Channels](/handbook/business-technology/data-team/#data-slack-channels)**
 - **Primary Data Slack Channel**: `#data`
 - **Data Lounge Channel**: `#data-lounge`
 
@@ -39,6 +40,7 @@ If you are onboarding to GitLab and will be working in the Data Program as an En
 
 | Program Name | Purpose | 
 | :--- | :--- |
+| [Data Catalog](/handbook/business-technology/data-team/data-catalog/) | Catalog of dashboards, data sets, and analytics projects | 
 | [Data for Finance](/handbook/business-technology/data-team/programs/data-for-finance/) | Information to help Financial Analysts |
 | [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/) | Information to help Product Managers |
 | [Data for Product Analysis](/handbook/product/product-analysis/) | Information to help Product Analysts |
