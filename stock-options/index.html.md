@@ -101,7 +101,7 @@ For example, if my current role is Backend Engineer and the median new hire equi
 * What will the effective date of an RSU be?
   * The effective date of an RSU (or grant date) will be the date the board approves the RSU. This is the date in which the RSU will start vesting.
 * How will the vesting change with RSUs since they are taxable upon vest?
-  * RSUs will begin vesting when the board approves the grant. Vesting will occur quarterly after a one year cliff.
+  * RSUs will begin vesting when the board approves the grant. Vesting will occur quarterly after a six month cliff.
 * Can I convert my existing options to RSUs?
   * No, all current stock options grants approved by the board will remain the same.
 * I am a hiring manager, and have a new hire starting after this change. What happens to the stock options we outlined in their offer letter?
