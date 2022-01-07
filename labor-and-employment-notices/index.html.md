@@ -218,7 +218,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 
 ### Netherlands
 * [European Agency for Safety and Health at Work - Netherlands](https://osha.europa.eu/en/about-eu-osha/national-focal-points/netherlands)
-* [OSH - Netherlands](https://www.arboineuropa.nl/en/arbo-in-the-netherlands/)
+* [OSH - Netherlands](https://www.arboineuropa.nl/en/osh-in-the-netherlands/)
 * [Health and Safety at Work - Netherlands](https://business.gov.nl/regulation/health-safety-work/)
 
 ### Finland
