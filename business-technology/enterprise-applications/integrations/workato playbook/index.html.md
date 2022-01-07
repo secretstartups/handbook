@@ -73,6 +73,20 @@ Course helps you to understand:
 
 
 ### Best Practices in Workato
+While using Workato for building recipes, here are some best practices that would help you manage and track your work items easily. These are some of the basic points to keep in mind, espically if you're new to Workato. For more detailed information please visit the [Workato page](https://support.workato.com/en/support/solutions/folders/1000210065)
 
+1. #### Which org to use?: 
+Always create your folders, connections and recipes in dev org first. Once tested move your code to higher orgs - test and prod using Workato's Recipe lifecycle management tool.
+
+2. #### Folder creation:
+It's best to create a playground folder in the project followed by a folder of your name if you're just playing around or learning to work in Workato. If you are creating recipes for actual project work, best to create a folder with project name. Say, if you integrating leads between Salesforce and Marketo, the folder name could be Lead integration.
+
+3. #### Naming and managing your recipes:
+   1. Its best to use app names in recipes like [SFDC+QBO] New account in Salesforce. It helps to quick spot and sort them.
+   2. Another handy way to manage recipes is to use the `New recipe` prefix while building the recipe, and when you have a successful recipe, change that to the intended name and delete the trial ones. You can easily track and delete the trial ones because of the 'New recipe' pre-fix.
+   3. Clones: If you clone a recipe from some other user, your recipe gets the same name as the original. Keep in mind that when the original changes you don't get notified or updated.
+
+4. #### Adding desciptions and comments:
+Use in-step comments to add one-liner desciption to your steps to the recipe reaable and understandable. Please refer the video on how to set the comments 
 
 
