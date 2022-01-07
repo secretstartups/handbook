@@ -212,8 +212,8 @@ so will our ability to support additional asks and analyses.
 ### Office Hours
 
 In order to start supporting more PMs across GitLab, the Product Analysis team is launching an 
-office hours pilot. Office hours will be held every other Wednesday, alternating between 8 am PT 
-and 1 pm PT. While the pilot is intended to enable us to support PMs across the organization, 
+office hours pilot. Office hours will be held every other Wednesday, alternating between 4 pm UTC (11 am ET / 8 am PT) 
+and 9 pm UTC (4 pm ET / 1 pm PT). While the pilot is intended to enable us to support PMs across the organization, 
 all GitLab team members are welcome to join.
 
 The intent of office hours is to give PMs faster access to the team and get support for smaller 
