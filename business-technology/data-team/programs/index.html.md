@@ -12,23 +12,23 @@ description: "Data Programs."
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-##  Welcome to the Data Programs Page
+## <i id="biz-tech-icons" class="far fa-paper-plane"></i>Introduction
 
-The Data Programs page contains information about the various programs we support, ranging from onboarding to day-to-day operations.
+Welcome to the **Data Programs** page. Here you'll find information about the various Data Programs around GitLab and those the Data Team supports, ranging from onboarding to day-to-day operations.
 
-### Data Programs
+- **[Data Slack Channels](/handbook/business-technology/data-team/#data-slack-channels)**
+- **Primary Data Slack Channel**: `#data`
+- **Data Lounge Channel**: `#data-lounge`
 
-| Program Name | Type | Purpose | 
-| :--- | :--- |
-| [Data for Finance](/handbook/business-technology/data-team/programs/data-for-finance/) | Operational | Information to help Financial Analysts |
-| [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/) | Operational | Information to help Product Managers |
-| Data for Marketing Analysts | Information to help Marketing Analysts |
-| [Data for Sales Analysts](/handbook/sales/field-operations/sales-strategy/) | Information to help Sales Analysts |
-| Data Onboarding | 1-Time/Ad-Hoc | Training, provisioning, and enablement of Data Engineers, Analysts, or Developers, both inside of and outside of the central Data Team. |
-| Data Slack Channel | Operational | Monitoring of the [#data](https://gitlab.slack.com/messages/data/) channel to address questions for team members across the company. | 
-| [Data Triage](/handbook/business-technology/data-team/how-we-work/triage/) | Operational | Daily process to ensure the data platform remains available for analytics. |
+## <i class="far fa-newspaper" id="biz-tech-icons"></i> Show-n-Tell and Demos
 
-#### Data Onboarding
+Data & Analytics Demos are a great way for everyone involved in the Data Program to share progress, innovation, collaborate, and just have fun. Data & Analytics Demos are [held every Thursday](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTA5MTZUMTUwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL) and recordings are posted to the [GitLab Unfildered Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). 
+
+## <i class="far fa-newspaper" id="biz-tech-icons"></i> Data Science AMAs
+
+The Data Science Team regularly holds AMAs to help spread awareness of Data Science and initiatives. Check out the [AMA with GitLab Data Scientists Agenda](https://docs.google.com/document/d/1C5odZ14Fbnbb5uqNnrJsDnYQR_ZrvfPQCQ43xUEZsJY/edit) to learn more.
+
+## <i class="far fa-newspaper" id="biz-tech-icons"></i> Data Onboarding
 
 If you are onboarding to GitLab and will be working in the Data Program as an Engineer, Analyst, or Developer, follow these steps:
 
@@ -36,4 +36,15 @@ If you are onboarding to GitLab and will be working in the Data Program as an En
 1. Give the issue a descriptive name: `Your Name - Data Onboarding`
 1. Assign the issue to your Manager to add/remove relevant content
 
+## <i class="far fa-newspaper" id="biz-tech-icons"></i> Data Guides and Related Resources
 
+| Program Name | Purpose | 
+| :--- | :--- |
+| [Data Catalog](/handbook/business-technology/data-team/data-catalog/) | Catalog of dashboards, data sets, and analytics projects | 
+| [Data for Finance](/handbook/business-technology/data-team/programs/data-for-finance/) | Information to help Financial Analysts |
+| [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/) | Information to help Product Managers |
+| [Data for Product Analysis](/handbook/product/product-analysis/) | Information to help Product Analysts |
+| [Product Intelligence Group](/handbook/engineering/development/growth/product-intelligence/) | Information covering the Product Intelligence team |
+| [Data for Marketing Analysts](/handbook/marketing/inbound-marketing/search-marketing/analytics/) | Information to help Marketing Analysts |
+| [Data for Sales Analysts](/handbook/sales/field-operations/sales-strategy/) | Information to help Sales Analysts |
+| [Data Triage](/handbook/business-technology/data-team/how-we-work/triage/) | Daily process to ensure the data platform remains available for analytics. |
