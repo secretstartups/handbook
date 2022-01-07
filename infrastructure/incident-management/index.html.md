@@ -424,6 +424,7 @@ The current Root Cause labels are listed below. In order to support trend awaren
 | `~RootCause::GCP-Networking` | GCP networking event |
 | `~RootCause::Known-Software-Issue` | known/existing technical debt in the product that has yet to be addressed |
 | `RootCause::Naive-Traffic` | levated external traffic exhibiting anti-pattern behavior for interface usage |
+| `~RootCause::FalseAlarm` | an incident was created by a page that isn't actionable and should result into adjusting the alert or [deleting it](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/deleting-alerts.md) |
 
 #### Customer Communications Labeling
 
