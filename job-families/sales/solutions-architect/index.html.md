@@ -62,8 +62,9 @@ The Solutions Architect is a [grade 6](/handbook/total-rewards/compensation/comp
 * Experience with cloud computing and related technologies and practices
 * Willingness to travel
 * B.Sc. in Computer Science or equivalent experience
-* Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks)
+* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 * Ability to use GitLab
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
 
 ### Senior Solutions Architect
 
@@ -427,7 +428,7 @@ Candidates can expect the hiring process to follow the order below. Please keep 
 - Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with the SA team Manager.
 - Candidates may be invited to schedule an interview with a Solutions Architect peer or other SA team Manager.
-- Then, candidates will be required to deliver a demo of GitLab to a panel of Customer Success attendees using the [Demo Guide](https://docs.google.com/document/d/12Dw4p25R5FaLnLpwFGtEr0kxxoWklWJL9FyP-NTITKY/edit?ts=5c48c337).
+- Then, candidates will be required to deliver a demo of GitLab to a panel of Customer Success attendees using the [Demo Guide](https://sa-demo-group.gitlab.io/sa-candidate-experience/panel_instructions/).
 - Candidates may be invited to additional interviews.
 - Successful candidates will be made an offer after references are verified.
 

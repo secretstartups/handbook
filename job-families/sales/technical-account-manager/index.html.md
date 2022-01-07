@@ -29,6 +29,7 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 - Project management experience & skills
 - Strong technical, analytic, and problem-solving skills
 - Share our [values](/handbook/values/), and work in accordance with those values
+- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
 
 ### Levels
 
@@ -335,9 +336,35 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 
 ## Specialties
 
-### Enterprise
+### High-Touch
 
-* Experience leading high-touch customer success management teams for Enterprise customers
+* Experience leading a high-touch motion with customers, including strategic account planning, lifecycle management, deep focus on maturity of adoption and leadership in expansion initiatives. 
+
+### Mid-Touch
+* Possess a deep understanding of creating customer value to deliver scalable customer engagements that help customers derive ongoing value from their investment with GitLab
+* Manage and provide input into iteration upon the customer journey, including onboarding, adoption, retention, and expansion, with an emphasis on defining and demonstrating value programmatically to grow net revenue retention ultimately 
+* Take a data-driven approach to driving value across the customer segment, ensuring time and attention is prioritized to ensure the most significant positive impact
+* Proactively identify and prioritize accounts to focus efforts within a defined territory as based on point in lifecycle (e.g., onboarding) perceived risk, potential growth, strategic value, and renewal timeframe
+* Work cross-functionally with multiple teams (CS ops, content, programs, marketing, product) to develop thoughtful and innovative approaches to driving success with customers at scale
+* Identify key areas of enablement need across the customer segment and partner closely with the high-touch and scale TAMs to create content and webinars to address these needs
+* Analyze industry best practices, trends, and performance metrics to shape customer engagement strategies and accelerate results
+
+
+
+
+### Scale
+- Develop and deliver scale programs to drive product adoption, expansion, and customer engagement through webinars, digital content, and cohort engagement approaches (e.g., workshops, office hours, etc.)
+- Collaborate across a number of other teams to drive effective customer programs (digital editor, TAM team, digital campaign manager, marketing, growth)
+- Understand the nuances of digital relationships and automated engagements and architects positive customer experiences to ensure the customer feels valued while obtaining value from the GitLab platform
+- Utilize automation and digital engagements, isolating some customers for reach-outs based on product usage data insights coupled with the customer's point in their lifecycle
+- Create blanket contact campaigns of monthly or quarterly e-newsletters, data triggered email campaigns, on-demand training and guidance
+- Drive feature adoption through targeted on-going training of customers via webinars and campaigns
+- Leverage engagement and digital metrics to create and improve enablement content in alignment with customer journey
+- Analyze product usage data to determine prioritization of customer reach-outs and activities 
+- Create fun and engaging training resources that scale
+- Build engagement playbooks and reach out to customers with a relentless focus on quick solutions and positive outcomes
+- Work with CS and sales leadership on creating and executing upon scalable save plays for at-risk customers
+- Organize product-centric office hours where customers can troubleshoot with a technical representative
 
 ### Customer Programs 
 - Engage and assist customers as part of a campaign or program led by Customer Programs team in partnership with Commercial TAM and Sales team
@@ -358,6 +385,8 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 - In addition to the corresponding Technical Account Manager level requirements:
 - TS/SCI Security Clearance if applicable
 - Knowledge of and demonstrated progressive experience with Public Sector customers
+- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies. 
+
 
 
 

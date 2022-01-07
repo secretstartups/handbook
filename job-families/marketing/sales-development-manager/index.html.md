@@ -73,6 +73,20 @@ The Manager, Sales Development (Efficiency and Strategy) reports to the Global D
 * Experience building out new SDR team segments, including processes and strategies  
 * Proven track record of implementing and executing efficiency measures in a high volume lead flow model.
 
+#### Manager, Sales Development (Public Sector)
+
+The Manager, Sales Development (Efficiency and Strategy) reports to the Global Director of Sales Development.
+
+#### Manager, Sales Development (Public Sector) Responsibilities
+
+* Extends that of the Manager, Sales Development responsibilities
+* Focus on Public Sector customers
+
+#### Manager, Sales Development (Public Sector) Requirements
+
+* Extends that of the Manager, Sales Development requirements
+* Previous experience working with Public Sector based customers or teams
+
 ## Performance Indicators
 
 * Sales Accepted Opportunity Attainment vs Goal

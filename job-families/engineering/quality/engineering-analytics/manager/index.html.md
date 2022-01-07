@@ -37,7 +37,7 @@ Engineering Analytics Manager manages a team of Engineering Analysts that work o
 * Able to use GitLab.
 * BS degree in Computer Science, Finance, Accounting or Economics (MS Prefered)
 * Confidentiality in handling sensitive organizational information.
-* Successful completion of our [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks)
+* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 
 
 ### Nice to haves
@@ -78,14 +78,10 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Selected candidates will be invited to fill out a short questionnaire.
 * Next, candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters.
-* Next, candidates will be invited to schedule a first interview with the hiring manager.
-* Next, candidates will be invited to schedule a second technical interview with an Engineering Analyst.
-* Next, candidates will be invited to schedule a third interview with an additional member of the Engineering Analytics Team.
-* Next, candidates will be invited to schedule a forth interview with a peer Engineering Manager in the Quality Department.
-* Finally, candidates may be asked to interview with the VP of Quality.
+* Next, candidates will be invited to schedule a first interview with the hiring manager, currently the VP of Quality
+* Next, candidates will be invited to schedule a second interview with a peer Engineering Manager in the Quality Department.
+* Next, candidates will be invited to schedule a third technical interview with an Engineering Analyst.
+* Next, candidates will be invited to schedule a forth interview with a member of the GitLab Data team.
+* Finally, candidates will be asked to interview with the CTO.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
-
-## Career Ladder
-
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.

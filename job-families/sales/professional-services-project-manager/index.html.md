@@ -39,6 +39,7 @@ The Senior Professional Services Project Manager is a [grade 7](/handbook/total-
 - Willingness to be present on customer sites and to travel up to 20%
 - Demonstrated ability to think strategically about business, products, and technical challenges
 - Ability to use GitLab
+- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ## Performance Indicators
 

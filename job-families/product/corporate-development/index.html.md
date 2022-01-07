@@ -134,6 +134,7 @@ The Senior Director of Corporate Development is a [grade 11](/handbook/total-rew
 #### Responsibilities
 
 * Grow and manage the corporate development team
+* Determine corporate development's scope and priority categories/areas, quarterly and annually
 * Own end-to-end deal management
   * Create a target list of potential acquisitions
   * Validate fit for terms, product roadmap, and other criteria
@@ -141,9 +142,12 @@ The Senior Director of Corporate Development is a [grade 11](/handbook/total-rew
   * Negotiate terms of the deal
   * Prepare all acquisition related documents such as Non-Disclosure Agreements, Letters of Intent, and Purchase Agreements with our legal team and legal counsel
   * Integrate the acquisition into the company
-* Provide project management leadership over the pre-LOI validation and due diligence stages of the acquisition process with cross-functional teams, including communication of diligence findings
-* Establish collaborative, effective, and trusting relationships with key internal functions including Product, Engineering, Legal, Finance, and Marketing to ensure the execution of an efficient acquisition process
+* Provide project management leadership over the pre-term sheet validation and due diligence stages of the acquisition process with cross-functional teams, including communication of diligence findings
+* Collaborate with cross-functional leadership to build collaborative, effective, and trusting relationships
+* Iterate on the acquisition process and empower department-level functions across Product, Engineering, Legal, People, Finance-Accounting and Marketing to create specific acquisition sub-processes
+* Lead engagement and communication with GitLab board's M&A committee
 * Ensure a proper level of strategic, operational, and organizational alignment.
+* Lead out-of-scope engagement and initiatives 
 
 #### Requirements
 

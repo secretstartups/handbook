@@ -5,10 +5,6 @@ title: "IT Helpdesk"
 
 ## IT Helpdesk Analyst
 
-### Job Grade
-
-The IT Helpdesk Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
 ### Responsibilities
 
 * Triage all IT related questions as they arise
@@ -33,6 +29,54 @@ The IT Helpdesk Analyst is a [grade 6](/handbook/total-rewards/compensation/comp
 * Experience working with Git
 * Ability to use GitLab
 
+## Levels
+
+### IT Helpdesk Analyst (Intermediate)
+
+#### IT Helpdesk Analyst (Intermediate) Job Grade
+
+The IT Helpdesk Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### IT Helpdesk Analyst (Intermediate)
+
+The IT Helpdesk Analyst (Intermediate) share the same responsibilities outlined above.
+
+#### IT Helpdesk Analyst (Intermediate)
+
+The IT Helpdesk Analyst (Intermediate) share the same requirements outlined above.
+
+### Senior IT Helpdesk Analyst
+
+#### Senior IT Helpdesk Analyst Job Grade
+
+The Senior IT Helpdesk Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior IT Helpdesk Analyst Responsibilities
+
+* Extends that of the IT Helpdesk Analyst (Intermediate) responsibilities
+- Mentoring and developing a team of IT Helpdesk Support Analysts
+- VIP Support and Escalations
+- Own and coordinate Endpoint and Peripheral orders Globally
+- Act as escalation point for IT Analyst team
+- Collaborate closely with Security and Engineering teams.
+- Have strong capability in setting priorities, meeting deadlines and make time sensitive decisions with limited information.
+- Excellent practical understanding of Incident Management, Change &  Problem Resolution
+- Be an integral team player, stand in when needed and cover any role in times of need.
+- Ability to analyse problems and present solutions to technical support issues.
+
+
+#### Senior IT Helpdesk Analyst Requirements
+
+* Extends that of the IT Helpdesk Analyst (Intermediate) requirements
+- Experience of writing procedural and/or support documentation
+- An active / empathic listener
+- Demonstrable ability to think around issues and look at the wider picture in order to provide solutions through a variety of problem-solving techniques
+- Knowledge and understanding of best practice framework (such as ITIL, ISO20k) for the delivery of IT services
+- Ability to clearly and accurately communicate processes and procedures 
+- Experience of working accurately and confidently with service desk tools and technology, such as ITSM, remote access, knowledge resources
+- Experience of developing professional and effective working relationships with customers and key stakeholders
+- Experience of delivering a high level of customer service
+
 ## Performance Indicators (PI)
 
 *  [Cycle Time for IT Support Issue Resolution](/handbook/business-ops/metrics/#cycle-time-for-it-support-issue-resolution)
@@ -53,6 +97,4 @@ Candidates for this position can expect the hiring process to follow the order b
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-## Career Ladder
 
-The next step in the IT Helpdesk job family is to move to the [TODO]() job family.

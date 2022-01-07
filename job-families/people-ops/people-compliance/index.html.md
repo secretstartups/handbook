@@ -70,6 +70,9 @@ The Senior Compliance Specialist is a [grade 7](/handbook/total-rewards/compensa
 - Monitor and understand legislation in countries and states/provinces where we have entities e.g. benefits / time off / offer letters / contracts. 
 - Proactively identify people compliance inefficiencies and inconsistencies and collaborate towards improved and more productive practices that improve GitLab’s compliance.
 - Support queries relating to compliance, audit and due diligence specific projects in issues, slack and MR's.
+- Support People Tools & Technology team with all HRIS-related needs, including reporting, data analyses, and personnel information compliance
+- Support new HRIS implementation by providing historical functional and technical expertise including system configurations, managing settings, business process enhancements, troubleshooting issues, and ensuring overall data quality and integrity
+- Maintain People data security and compliance by regularly analyzing and auditing data in the HRIS
 - Point of contact for Legal, Security Compliance and all internal audit-related queries.
 - DRI for all People Group-related compliance projects. Coordinate, collaborate, administer, and support the enablement of various compliance efforts and projects.  
 - Spearhead complete review and redress of all US and non-US People processes and policies. 

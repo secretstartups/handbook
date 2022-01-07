@@ -238,7 +238,7 @@ The Manager, People Analytics is a [grade 8](https://about.gitlab.com/handbook/t
 
 ### Senior Manager, People Analytics
 
-The Senior Manager, People Analytics reports into the Director, People Tools and Technology.
+The Senior Manager, People Analytics reports to the VP, People Operations, Technology and Analytics.  
 
 #### Job Grade
 
@@ -267,7 +267,7 @@ The Senior Manager, People Analytics is a [grade 9](https://about.gitlab.com/han
 
 ### People Analytics Career Ladder
 
-The next step in the job family is People Analytics Leadership.
+The next step in the job family is People Technology or Operations Leadership.
 
 ### People Analytics Hiring Process
 

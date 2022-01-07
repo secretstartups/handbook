@@ -63,6 +63,7 @@ Collaborate with Senior leadership to ensure financial and operational goals are
 * Experience with performance management, coaching, and mentoring team members. 
 - You share our [values](/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
+- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ## Performance Indicators
 

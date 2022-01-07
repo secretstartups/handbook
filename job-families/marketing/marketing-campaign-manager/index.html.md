@@ -121,6 +121,8 @@ The Senior Manager, Marketing Campaigns is a [grade 9](/handbook/total-rewards/c
 #### Senior Manager, Marketing Campaigns Requirements
 
 * Extends that of the Manager, Marketing Campaigns requirements
+* Ability to travel if needed and comply with the company’s travel policy. 
+* If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ## Performance Indicators - Marketing Campaigns
 
