@@ -159,12 +159,12 @@ If a team member does choose to start the conversation about [reasonable accommo
 Emergencies, by definition are unexpected.  They can range from natural disasters, terrorist events, accidents, family deaths, hospitalization and any other unexpected situation.  During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible.  If an unexpected emergency occurs please contact your manager via Slack or email as soon as possible if you will be unavailable or unable to work.  This will allow your manager to confirm your safety and reassign any critical work during your absence.  If you do not have an emergency contact in BambooHR please go ahead and complete that section.  We will only contact that person if we are unable to reach you via Slack, email or phone.
 
 ### Unpaid Leave of Absence
-Team members may request an unpaid leave of absence by working with their manager to obtain approval. A manager has the discretion to not approve a leave based on performance issues or critical deadlines.  All requests must be approved by the function Vice President and comply with all local laws. Please follow the process for initiating an unpaid leave request to Peopleops.
+Team members may request an unpaid leave of absence by working with their manager to obtain approval. A manager has the discretion to not approve a leave based on performance issues or critical deadlines, subject to statutory leave requirements.  All requests must be approved by the function Vice President and comply with all local laws (for more information about the unpaid leaves of absence available in your location, please visit the [entity-specific benefits page](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits)). Please follow the process for initiating an unpaid leave request to Peopleops.
 * Once an unpaid leave request has been approved by the team members manager and functional Vice President the manager should send an email to Peopleops that will include the team members name, location, start and end date of approved unpaid leave.  Please copy your functional PBP on the unpaid leave request email.
 * Once Peopleops receives the unpaid leave email request they will confirm the manager and VP approval with the functional PBP.
 * Once Peopleops confirms with the PBP, Peopleops will inform payroll via email of the approved request.  The email will contain the team member name, location, start and end date of unpaid leave.
 * Peopleops will confirm with the team member via email that the request has been approved including the start date and end date of the unpaid leave.
-* The team member should contact their manager 2 weeks prior to the unpaid leave of absence ending to confirm the return to work date.  The team member may ask for additional unpaid time off, however the manager has the discretion to deny any additional time off requests.
+* The team member should contact their manager 2 weeks prior to the unpaid leave of absence ending to confirm the return to work date.  The team member may ask for additional unpaid time off, however the manager has the discretion to deny any additional time off requests, subject to statutory leave requirements.
 * At anytime during the unpaid leave the team member receives a payroll payment, they are to immediately notify their manager and Peopleops via email.  Any funds paid in error are subject to repayment.
 * Once the team member has a confirmed return to work date, they should communicate that date in advance to their manager and to the team member relations team to reinstate pay.
 
@@ -455,17 +455,31 @@ The following is a list of all statutory annual vacation entitlements by entity 
     * The U.S. [Fair Labor Standards Act (FLSA)](https://www.dol.gov/general/topic/workhours/vacation_leave) does not require payment for time not worked, such as vacations, sick leave or federal or other holidays.
 1. GitLab Canada Corp (Canada)
     * GitLab's [PTO policy](/handbook/paid-time-off/) overrides over GitLab Canada Corp in the sense that the policies listed here are stating the statutory minimum that each GitLab Canada Corp team member must take to be compliant with relevant provincial laws.
-    * GitLab Canada Corp observes provincial laws regarding holidays and vacation pay. The Canada Labour Code, specifically [Division IV of Part III](https://www.canada.ca/en/employment-social-development/services/labour-standards/reports/annual-vacation.html) provides for the overarching general annual vacation policy. For more information, the [Ontario Employment Standards Act](https://www.ontario.ca/document/your-guide-employment-standards-act/vacation) lists Ontario's laws and policies and the [Commission des normes, de l'équité, de la santé et de la sécurité du travail](https://www.cnt.gouv.qc.ca/en/leaves-and-absences/vacation/index.html#c59) list information relating to Quebec's Vacation policies.
-    * In every province in Canada, team members are entitled to ***Vacation time*** after they have worked for 12 consecutive months.
-    * ***Vacation pay*** is calculated as a percentage of the gross wages an employee earns during a "year of employment". Vacation pay is earned the moment employment begins (except in Newfoundland and Labrador and British Columbia which starts accruing on the 5th calendar day when Day 1 is the first date of employment). “Gross wages” include: base salary, hourly wages (if applicable), and commission or other incentive-based pay. It does not include bonuses.
-    * Any earned but unused vacation must be paid out on termination.
-    * GitLab Canada Corp should ensure that all statutory mandatory minimum vacation time is taken within 12 months of it being earned. There is no rollover of unused vacation at every anniversary date.
+    * GitLab Canada Corp observes provincial laws regarding vacation time and vacation pay. For more information, refer to the applicable employment standards legislation of the Province in which you reside:
+        - [Alberta Employment Standards](https://www.alberta.ca/employment-standards.aspx)
+        - [British Columbia Employment Standards](https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards)
+        - [Manitoba Employment Standards](https://www.gov.mb.ca/labour/standards/doc,quick_guide,factsheet.html)
+        - [New Brunswick Employment Standards](https://laws.gnb.ca/en/showfulldoc/cs/E-7.2//20220106)
+        - [Newfoundland and Labrador Labor Standards](https://www.gov.nl.ca/ecc/labour/lsaissues/)
+        - [Northwest Territories Employment Standards](https://www.ece.gov.nt.ca/en/services/employment-standards)
+        - [Nova Scotia Labor Standards](https://novascotia.ca/lae/employmentrights/docs/LabourStandardsCodeGuide.pdf)
+        - [Nunavut Labor Standards](http://www.nu-nlsb.ca/)
+        - [Ontario Employment Standards](https://www.labour.gov.on.ca/english/es/)
+        - [Prince Edward Island Employment Standards](https://www.princeedwardisland.ca/en/information/economic-growth-tourism-and-culture/employment-standards-in-pei)
+        - [Quebec Labor Standards](https://www.cnesst.gouv.qc.ca/sites/default/files/documents/labour-standards-quebec.pdf)
+        - [Saskatchewan Employment Standards](https://www.saskatchewan.ca/business/employment-standards)
+        - [Yukon Employment Standards](https://yukon.ca/en/employment/employment-standards)
+    * In most provinces in Canada, team members are entitled to ***Vacation time*** after they have worked for 12 consecutive months.
+    * ***Vacation pay*** is calculated as a percentage of the gross wages an employee earns during a "year of employment". Vacation pay is earned the moment employment begins (except in Newfoundland and Labrador and British Columbia which starts accruing after 5 calendar days). “Gross wages” include: base salary, hourly wages (if applicable), and commission or other incentive-based pay. It does not include discretionary bonuses that are not related to hours, production or efficiency.
+    * Vacation pay in respect of any earned but unused vacation time must be paid out on termination.
+    * GitLab Canada Corp should ensure that all statutory mandatory minimum vacation time is taken within 12 months of it being earned.
 
 | Policy Locations             | Statutory Minimum Vacation Time               | Statutory Minimum Vacation Pay             |
 |------------------------------|-----------------------------------------------|--------------------------------------------|
-| All of Canada (except SK, QC)| 2 weeks after 1 year / 3 weeks after 5 years  | 4% for the first 5 years, 6% after 5 years |
-| Quebec Only                  | 3 weeks after 1 year and going forward        | 6% for the first 9 years, 8% after 9 years |
-| Saskatchewan Only            | 3 weeks after 1 year / 4 weeks after 10 years | 6% for the first 9 years, 8% after 9 years |
+| All of Canada (except SK, QC, ON)| 2 weeks after 1 year / 3 weeks after 5 years  | 4% for the first 5 years, 6% after 5 years |
+| Quebec Only                  | Less than 1 year - 1 day per full month of uninterrupted service, not to exceed 2 weeks; 1 year to less than 3 years - 2 consecutive weeks; 3 years or more - 3 consecutive weeks | 4% for first 3 years; 6% after 3 years |
+| Saskatchewan Only            | 3 weeks after 1 year / 4 weeks after 10 years | 6% for the first 9 years, 8% after 9 years | 
+| Ontario | 2 weeks after 1 year / 3 weeks after 4 years  | 4% for the first 4 years, 6% after 4 years |
 
 ## Processing Vacation Requirements (People Ops Instructions)
 
