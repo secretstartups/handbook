@@ -24,7 +24,7 @@ Welcome to the **Data Team Internship Program** page. The Program is launching i
 
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> The 2022 Data Team Internship Program
 
-The initial focus of the 2022 Program will be **Data Internship for Learning**, following the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) and focused on supporting career development for existing GitLab Team Members. Later in 2022 we will evaluate extending the program to support non-GitLab Team Members and traditional internships.
+The initial focus of the 2022 Program will be **Data Internship for Learning**, following the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) and focused on supporting career development for existing GitLab Team Members. Later in 2022 we will evaluate extending the program to support non-GitLab Team Members and traditional undergraduate internships.
 
 ### How Does Data Internship For Learning Work?
 
