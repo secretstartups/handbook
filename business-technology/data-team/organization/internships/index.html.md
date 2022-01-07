@@ -55,7 +55,7 @@ Requests to create a Data Team Intern position will be evaluated on the followin
 1. Team Size, Maturity, and Need
      * How established is the team the intern will be joining? Is this an established team with processes, roles, a roadmap, and backlog?
      * Will the team be able to take on an intern without risking a decrease in velocity?
-     * Would the team benefit from an intern to support a more senior member's career development, to introduce new perspectives, or to accelerate the roadmap in one or more areas.
+     * Would the team benefit from an intern to support a more senior member's career development, to introduce new perspectives, or to accelerate the roadmap in one or more areas?
      * Does the team have a roadmap containing low weight issues with few dependencies suitable for an intern?
 1. Mentor Commitment
      * Do the mentors have previous experience mentoring interns or junior engineers? Previous experience is a nice-to-have, but not a must-have.
