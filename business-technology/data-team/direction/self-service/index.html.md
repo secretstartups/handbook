@@ -30,6 +30,35 @@ The GitLab Self-Service Data program helps GitLab move faster with trusted data 
 - **[Dashboard Developer](/handbook/business-technology/data-team/direction/self-service/#self-service-dashboard-developer)** - for GitLab team members who want to build their own data visualization charts or dashboards
 - **[SQL Developer](/handbook/business-technology/data-team/direction/self-service/#self-service-sql-developer)** - for GitLab team members who are familiar with SQL and want to conduct their own SQL-based analysis
 
+```mermaid
+graph LR
+	E9 --> W1
+	DV1 --> W3
+
+    subgraph Extraction
+        E1[Stitch] --> E9[DW Endpoint]
+		E2[Fivetran] --> E9
+		E3[Postgres] --> E9
+		E4[Sheetload] --> E9
+		E5[Custom] --> E9
+    end
+
+    subgraph Snowflake Data Warehouse
+        W1[RAW Data] --> W2{dbt}
+		W2 --> W3[Dimensional Model]
+    end
+
+	subgraph Data Visualization
+        DV1[Sisense Dashboards]
+    end
+
+	subgraph Self-Service Data
+		SS3[SQL Analyst] --> W3
+		SS1[Dashboard Viewer] --> DV1
+		SS2[Dashboard Developer] --> DV1
+    end
+```
+
 #### Summary of Self-Service Capabilities
 
 |                                                                                          | [Dashboard Viewer](/handbook/business-technology/data-team/direction/self-service/#self-service-dashboard-viewer) | [Dashboard Developer](/handbook/business-technology/data-team/direction/self-service/#self-service-dashboard-developer) | [SQL Developer](/handbook/business-technology/data-team/direction/self-service/#self-service-sql-developer) |
