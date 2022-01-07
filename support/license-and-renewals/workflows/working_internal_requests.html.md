@@ -5,7 +5,8 @@ category: Working L&R requests
 description: Describes how to service internal requests for licensing & renewals.
 ---
 
-{:.no_toc}
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ----
 
@@ -22,8 +23,10 @@ the following labels receive the appropriate attention from Support:
 * `Activate Trial Runners issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/ci_minutes.html)
 * `Associate Subscription Console Escalation::Customers` - Workflow to be documented
 * `Console Escalation::Customers` - Workflow to be documented
+* `Resend/Forward License Request` - [Workflow](/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html#resend-forward-the-license)
 * `GitLab.com Trial Extension Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials)
 * `License Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/license_troubleshooting.html)
+* `NFR License Request` - [Workflow](/handbook/support/license-and-renewals/workflows/nfr_requests.html)
 * `Plan Change Request` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#plan-change-requests)
 * `SaaS Subscription Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html)
 * `Self Managed Trial Extension or Temporary License Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials)
