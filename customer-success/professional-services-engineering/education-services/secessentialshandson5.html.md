@@ -34,6 +34,13 @@ A Dockerfile is a "recipe" that tells Docker how to assemble your application in
    ADD HelloWorld.py .
     ```
 
+1. Your completed `Dockerfile` should look like this. Make any corrections necessary.
+
+    ```dockerfile
+   FROM ubuntu:18.04
+   ADD HelloWorld.py .
+    ```
+
 1. Add a commit message and click **Commit changes**. 
 
 
@@ -41,7 +48,7 @@ A Dockerfile is a "recipe" that tells Docker how to assemble your application in
 
 In this section you will define a job that builds a Docker image. 
 
-To build a Docker image with a CI/CD job, you must use a GitLab Runner that's configured to use a Docker executor. Fortunately the shared GitLab Runners in the training environment satisfy this requirement.
+To build a Docker image with a CI/CD pipeline job, you must use a GitLab Runner that's configured to use a Docker executor. Fortunately the shared GitLab Runners in the training environment satisfy this requirement.
 
 1. Define a `build` stage to assign your job. Paste this just beneath the `stages:` keyword, making sure it has the same indentation as the existing `- test` entry beneath it:
 
