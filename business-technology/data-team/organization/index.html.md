@@ -85,17 +85,6 @@ We encourage our stakeholders to follow along with our issue boards to understan
 3. G&A: [People](https://gitlab.com/groups/gitlab-data/-/boards/1435002?&label_name[]=People), Engineering Analytics `coming soon`
 4. [Platform](https://gitlab.com/gitlab-data/analytics/-/issues?label_name%5B%5D=Team%3A%3AData+Platform)
 
-# Data & Analytics Programs
-
-## Show-n-Tell and Demos
-
-Data & Analytics Demos are a great way for everyone involved in the Data Program to share progress, innovation, collaborate, and just have fun. Data & Analytics Demos are [held every Thursday](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTA5MTZUMTUwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL) and recordings are posted to the [GitLab Unfildered Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). 
-
-## Data Science AMAs
-
-The Data Science Team regularly holds AMAs to help spread awareness of Data Science and initiatives. Check out the [AMA with GitLab Data Scientists Agenda](https://docs.google.com/document/d/1C5odZ14Fbnbb5uqNnrJsDnYQR_ZrvfPQCQ43xUEZsJY/edit) to learn more.
-
-
 # Data Program Recruiting
 
 Recruiting great people is critical to our success and we've invested much effort into making the process efficient. Here are some reference materials we use:
@@ -105,7 +94,13 @@ Recruiting great people is critical to our success and we've invested much effor
 
 # Data Roles and Career Development
 
-## [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer)
+## Data Internships
+
+See [Data Team Internships](/handbook/business-technology/data-team/organization/internships/).
+
+## Data Engineering
+
+* [Data Engineering Job Family](https://about.gitlab.com/job-families/finance/data-engineer)
 
 ```mermaid
   graph LR;
@@ -127,7 +122,9 @@ Recruiting great people is critical to our success and we've invested much effor
 Create a MR to contribute to handbook or templates | Investigate incidents and issues | Work on [OKR assignments](/handbook/business-technology/data-team/direction/#quarterly-objectives) | Propose new ideas and come up with Data Platform improvement initiatives |
 | Understand the current setup of the data platform | Make small/corrective changes to the platform infrastructure or data pipelines | Contribute on work breakdown |
 
-## [Data Analysis](https://about.gitlab.com/job-families/finance/data-analyst)
+## Data Analyst
+
+* [Data Analyst Job Family](https://about.gitlab.com/job-families/finance/data-analyst)
 
 ```mermaid
   graph LR;
@@ -153,8 +150,9 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 | Start attending [Data Fusion Team](/handbook/business-technology/data-team/#data-fusion-teams) and Business Team synchronous meetings | Perform [triage](/handbook/business-technology/data-team/how-we-work/triage/) activities | | |
 | Complete First Issue: S to M T-Shirt Size  |  |  |
 
+## Data Science
 
-## [Data Science](https://about.gitlab.com/job-families/finance/data-science)
+* [Data Science Job Family](https://about.gitlab.com/job-families/finance/data-science)
 
 ```mermaid
   graph LR;
@@ -166,7 +164,9 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
   click supe:sds "https://about.gitlab.com/job-families/finance/data-science/#senior-data-scientist";
 ```
 
-## [Analytics Engineering](https://about.gitlab.com/job-families/finance/analytics-engineer)
+## Analytics Engineering
+
+### [Analytics Engineering Job Family](https://about.gitlab.com/job-families/finance/analytics-engineer)
 
 ```mermaid
   graph LR;
@@ -190,7 +190,9 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 | Start attending Data Fusion Team and Business Team synchronous meetings | Perform [triage](/handbook/business-technology/data-team/how-we-work/triage/) activities | | |
 | Complete First Issue: S to M T-Shirt Size  |  |  |
 
-## [Data Management](https://about.gitlab.com/job-families/finance/manager-data)
+## Data Management
+
+* [Data Management Job Family](https://about.gitlab.com/job-families/finance/manager-data)
 
 ```mermaid
   graph LR;
