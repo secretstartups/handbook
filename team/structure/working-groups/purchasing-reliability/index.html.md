@@ -130,5 +130,6 @@ defining a clear vision and team/service boundaries going forward.
 | Member                | Jack Brennan          | Senior Director, Sales Systems                  |
 | Member                | Vincy Wilson          | Manager, Quality                                |
 | Member                | Chloe Liu             | Senior Software Engineer in Test, Quality       |
+| Member                | Justin Farris         | Sr Director, Product Monetization                 |
 
 
