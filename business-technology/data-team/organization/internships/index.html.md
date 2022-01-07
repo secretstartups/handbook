@@ -100,7 +100,7 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 - Self-motivated and self-managing, with task organizational skills
 - Working knowledge of SQL
 - Basic knowledge of dashboard tools (we use Sisense)
-- At least 1 completed demoable data project (Non-commercial projects done in a spare time also count)
+- At least 1 completed demoable data project (Non-commercial projects done in a spare time also count, as do school projects)
 - Nice to have
      - Understanding of software industry
      - Prior experience in a Data Role
@@ -119,7 +119,7 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 - Understanding of machine learning algorithms including decision trees, gradient and regression models
 - Ability to communicate in English, including concise writing that summarises your work
 - Ability to work asynchronously - as a fully-remote company we have team members all around a globe with differing working hours
-- At least 1 completed data science project (Non-commercial projects done in a spare time also count)
+- At least 1 completed data science project (Non-commercial projects done in a spare time also count, as do school projects)
 - Being proactive in a work you do, but also not afraid to ask questions
 - Nice to have
      - Understanding of CRISP-DM framework
