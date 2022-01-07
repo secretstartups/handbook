@@ -37,11 +37,12 @@ If you are onboarding to GitLab and will be working in the Data Program as an En
 
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> Data Guides and Related Resources
 
-| Program Name | Type | Purpose | 
+| Program Name | Purpose | 
 | :--- | :--- |
-| [Data for Finance](/handbook/business-technology/data-team/programs/data-for-finance/) | Operational | Information to help Financial Analysts |
-| [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/) | Operational | Information to help Product Managers |
-| Data for Marketing Analysts | Information to help Marketing Analysts |
+| [Data for Finance](/handbook/business-technology/data-team/programs/data-for-finance/) | Information to help Financial Analysts |
+| [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/) | Information to help Product Managers |
+| [Data for Product Analysis](/handbook/product/product-analysis/) | Information to help Product Analysts |
+| [Product Intelligence Group](/handbook/engineering/development/growth/product-intelligence/) | Information covering the Product Intelligence team |
+| [Data for Marketing Analysts](/handbook/marketing/inbound-marketing/search-marketing/analytics/) | Information to help Marketing Analysts |
 | [Data for Sales Analysts](/handbook/sales/field-operations/sales-strategy/) | Information to help Sales Analysts |
-| Data Slack Channel | Operational | Monitoring of the [#data](https://gitlab.slack.com/messages/data/) channel to address questions for team members across the company. | 
-| [Data Triage](/handbook/business-technology/data-team/how-we-work/triage/) | Operational | Daily process to ensure the data platform remains available for analytics. |
+| [Data Triage](/handbook/business-technology/data-team/how-we-work/triage/) | Daily process to ensure the data platform remains available for analytics. |
