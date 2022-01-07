@@ -55,18 +55,18 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Transgender Rights in the Workplace](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2019/08/DFEH_TransgenderRightsWorkplace_ENG.pdf)
 * [Your Rights and Obligations as a Pregnant Employee](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/12/Your-Rights-and-Obligations-as-a-Pregnant-Employee_ENG.pdf)
 * [Family Care & Medical Leave & Pregnancy Disability Leave](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/12/CFRA-and-Pregnancy-Leave_ENG.pdf) 
-* [Industrial Welfare Commission Wage Order](https://www.dir.ca.gov/IWC/IWCArticle17.pdf)
-* [California Minimum Wage](https://www.dir.ca.gov/iwc/MW-2019.pdf)
+* [Industrial Welfare Commission Wage Order](https://www.dir.ca.gov/IWC/IWCArticle04.pdf)
+* [California Minimum Wage](https://www.dir.ca.gov/iwc/MW-2021.pdf)
 * [Paid Sick Leave](https://www.dir.ca.gov/DLSE/Publications/Paid_Sick_Days_Poster_Template_(11_2014).pdf)
 * [Safety and Health Protection on the Job](https://www.dir.ca.gov/dosh/dosh_publications/shpstreng012000.pdf)
 * [Notice to Employees - Injuries Caused by Work](https://www.dir.ca.gov/dwc/NoticePoster.pdf)
 * [Whistleblower Protections](https://www.dir.ca.gov/dlse/WhistleblowersNotice.pdf)
 * [Notice to Employees - unemployment, disability, and paid family leave insurance](https://www.edd.ca.gov/pdf_pub_ctr/de1857a.pdf)
+* [Notice to Employees - Unemployment Insurance Benefits](https://www.edd.ca.gov/pdf_pub_ctr/de1857d.pdf)
 * [Sexual Harassment Fact Sheet](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/03/SexualHarassmentFactSheet_ENG.pdf)
 * [Supplemental Paid Sick Leave - COVID-19](https://www.dir.ca.gov/dlse/2021-COVID-19-Supplemental-Paid-Sick-Leave.pdf)
 * [Payday Notice](https://drive.google.com/file/d/1eIhDxbf42Jfvy9DjuYiLyuLQFHqMcx9I/view?usp=sharing)
 * [Right to Vote Notice](https://elections.cdn.sos.ca.gov/pdfs/tov-english.pdf)
-* [Workers' Compensation Notice](https://www.dir.ca.gov/DWC/NoticePoster.pdf)
 * **City of Berkeley** 
   - [Minimum Wage Poster](https://www.cityofberkeley.info/MWO/)
 * **City of Los Angeles**
@@ -119,10 +119,11 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Information on Employees Unemployment Insurance Coverage](https://www.mass.gov/doc/information-on-employees-unemployment-insurance-coverage-form-2553a/download)
 
 ### New York
-* [New York Correction Law, Article 23-A](https://labor.ny.gov/formsdocs/wp/correction-law-article-23a.pdf)
+* [New York Correction Law, Article 23-A](https://dol.ny.gov/system/files/documents/2021/02/correction-law-article-23a.pdf)
 * [New York State Human Rights Law](https://dhr.ny.gov/sites/default/files/doc/poster.pdf)
-* [Equal Pay Provision](https://labor.ny.gov/formsdocs/wp/LS603.pdf)
-* [Minimum Wage](https://labor.ny.gov/formsdocs/wp/LS207.pdf)
+* [Equal Pay Provision](https://dol.ny.gov/system/files/documents/2021/02/ls603_equal_pay_provision.pdf)
+* [Minimum Wage](https://dol.ny.gov/system/files/documents/2021/12/ls207.pdf)
+* [Rights of Nursing Mothers to Express Breast Milk in the Work Place](https://dol.ny.gov/system/files/documents/2021/02/ls702_guidelines_regarding_the_rights_of_nursing_mothers_to_express_breast_milk_in_the_work_place.pdf)
 
 ### Pennsylvania
 * [Minimum Wage Law](https://www.dli.pa.gov/Documents/Mandatory%20Postings/llc-1.pdf)
