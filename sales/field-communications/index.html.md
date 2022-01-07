@@ -57,7 +57,7 @@ If you answered no to any of these questions, consider the playbook for Tier 2 u
     * [People Operations](/handbook/people-group/) - Consultation on topics that impact team members 
 * The update should leverage these communication channels: 
     * [#field-fyi Slack channel](/handbook/sales/sales-google-groups/field-fyi-channel/) - For real-time, asynchronous communication that gives context around the announcement, shares enablement resources, and clearly defines a CTA. 
-    * #sales-managers Slack channel - To garner manager-level awareness and solict manager help cascading updates and time-sensitive CTAs to their teams.  
+    * #field-managers Slack channel - To garner manager-level awareness and solict manager help cascading updates and time-sensitive CTAs to their teams.  
     * [WW Field Sales Call](/handbook/sales/sales-meetings) - For synchronous communication that amplifies the announcement and allows the DRI and leadership to field any questions/concerns.
     * Segment Updates for Field Leaders - To arm managers with the necessary information to discuss the update with their teams and reiterate any CTAs. (Note: This channel is coming soon.)
     * [Field Flash newsletter](/handbook/sales/field-communications/field-flash-newsletter/) - To reiterate/recap the news and link to enablement resources. 
@@ -70,7 +70,7 @@ If you answered no to any of these questions, consider the playbook for Tier 2 u
 ### Practical Application
 There is an upcoming major pricing update that will impact all customers and prospects. The field must be enabled to field conversations with customers regarding the changes. The business DRI will engage Field Leadership, Ops, Enablement and Communications as well as People Ops to discuss overall impact, plan and create enablement materials, facilitate the appropriate changes to sales systems and collaborate on internal messaging to field members. 
 
-When the announcement goes live, the CRO or other relevant e-group member will notify the field via field-fyi as well as the closest applicable WW Sales Call, sharing enablement resources, updated/new handbook documentation, and a clearly-defined CTA. Managers will be reminded to cascade information about the update to their teams via the sales-manager Slack channel. Field Comms will reiterate the update and recirculate enablement resources via segment updates to field leaders as well as in Field Flash newsletter. Enablement will coordinate a webinar to deep-dive into the update, and field comms will circulate the recording as another reiteration point. 
+When the announcement goes live, the CRO or other relevant e-group member will notify the field via field-fyi as well as the closest applicable WW Sales Call, sharing enablement resources, updated/new handbook documentation, and a clearly-defined CTA. Managers will be reminded to cascade information about the update to their teams via the field-manager Slack channel. Field Comms will reiterate the update and recirculate enablement resources via segment updates to field leaders as well as in Field Flash newsletter. Enablement will coordinate a webinar to deep-dive into the update, and field comms will circulate the recording as another reiteration point. 
 
 ## Tier 2 Update
 This update is moderately to minimally urgent and selling-related. It likely includes an important update or change that does not involve a major knowledge and/or skill gap, but still has a sizable impact on the field’s ability to sell. 
@@ -144,7 +144,7 @@ Examples: Outside (non-field) requests for feedback/input, team member changes, 
 [(Source file)](https://docs.google.com/drawings/d/121HaP5Zd76JIDze15y5FCVgABR2Bb43TLTyXl38Nxes/edit?usp=sharing)
 
 #### Field Communications Channel Map
-![field-communications-channel-map](/handbook/sales/field-communications/field-communications-channel-map-fy22.png)
+![field-communications-channel-map](/handbook/sales/field-communications/field-communications-channel-map-fy23.png)
 
 [(Source file)](https://docs.google.com/presentation/d/1XVMrt9btLWbWsmhi6q2r0OICe23hFQSfJD7LVI7mrlg/edit?usp=sharing)
 
