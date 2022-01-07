@@ -323,7 +323,7 @@ Chances are that if you work at GitLab, you have great friends and peers who wou
 We encourage and support [diversity](/handbook/values/) and [frugality](/handbook/values/) on our team and in our hiring practices, so we will offer the following referral bonuses once the new team member has been with the company for 3 months. We will award the highest cumulative dollar amount as outlined below:
 * [$500](/handbook/total-rewards/compensation/#exchange-rates) base referral bonus for a new hire.
 * [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a [Location factor](/handbook/total-rewards/compensation/compensation-calculator/calculator/) less than 0.65.
-* In case of a new hire in Enterprise, Commercial, or Channel Sales, [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus is applicable only if the [Sales Regional Factor](/handbook/total-rewards/compensation/#sales-compensation) is less than 0.65.
+* In case of a new hire in ENTR, PubSec, SMB, MM, eCommerce, Channel-Indirect or Channel-Program, [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus is applicable only if the [Sales Regional Factor](/handbook/total-rewards/compensation/#sales-compensation) is less than 0.65.
 * [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a ["select underrepresented group"](/culture/inclusion/#examples-of-select-underrepresented-groups).
 
 The following is an *example* of a cumulative Referral Bonus:
