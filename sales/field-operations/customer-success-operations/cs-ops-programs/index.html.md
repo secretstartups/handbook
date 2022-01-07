@@ -131,11 +131,14 @@ The programs below are available to **TAM-assigned accounts** only.
 
 | Program                               | Category   | Content  | Recipients                              |
 |---------------------------------------|------------|----------|-----------------------------------------|
-| Intro to GitLab CS + Onboarding   | Onboarding | [Copy doc](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) | When a customer is first assigned a TAM |
-| AE <> TAM Introduction  | Onboarding | [Copy doc](https://docs.google.com/document/d/14k1h_f4d51GjwS9HzAJ6iOzebBu4aEgETfSQwUA-MME/edit?usp=sharing) | When a customer is first assigned a TAM |
-| Monthly Newsletters*                  | Enablement | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)    | Sent monthly on Fridays                 |
-| NPS/CSAT Post-Onboarding Survey*      |            | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Customer since = 60 days                |
-| NPS/CSAT Pre-Renewal Survey*          |            | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Next renewal date = 120 days            |
+| Intro to GitLab CS + Onboarding   | Onboarding | [Copy doc](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) | When a customer is first assigned a TAM (GitLab Admin OR Sold to Contact) |
+| AE <> TAM Introduction  | Onboarding | [Copy doc](https://docs.google.com/document/d/14k1h_f4d51GjwS9HzAJ6iOzebBu4aEgETfSQwUA-MME/edit?usp=sharing) | When a customer is first assigned a TAM (Sold to Contact) |
+| Monthly Newsletters*                  | Enablement | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)    | Sent monthly on Fridays to GitLab Admin contacts                 |
+| NPS/CSAT Post-Onboarding Survey*      |  Onboarding          | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Customer since = 60 days & GitLab Admin             |
+| NPS/CSAT Pre-Renewal Survey*          |   Retention         | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Next renewal date = 120 days & GitLab Admin          |
+| TAM Enrolled CI Enablement Campaigns          |   Enablement         | [Copy doc](https://docs.google.com/document/d/1GpYLFAGJoV_K1baiDrnOaXbGQGDs02hrUUdH_ymGIMs/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | TAM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight           |
+| TAM Enrolled CD Enablement Campaigns          |     Enablement       | [Copy doc](https://docs.google.com/document/d/1klfKz4ixhOO8YkDzPL9yYKc38C_SjF5Yqums1hWw5sk/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | TAM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight           |
+| TAM Enrolled DevSecOps Enablement Campaigns          |    Enablement        | [Copy doc](https://docs.google.com/document/d/1olvOJaO5ElhWDMhcMOH-y83yxmNUYVJtLCIZJqc90E8/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | TAM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight           |
 
 _* Monthly newsletters and NPS/CSAT surveys require a GitLab Admin contact_<br>
 
