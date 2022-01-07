@@ -1,104 +1,142 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Security Essentials Hands On Guide- Lab 5"
-description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab Security Essentials course."
+
+title: "GitLab Security Essentials Hands-On Guide: Lab 5"
+description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
-# GitLab Security Essentials Hands On Guide- Lab 5
+# GitLab Security Essentials Hands-On Guide: Lab 5
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+## LAB 5: Build and push a Docker image, and run Container Scanning
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+### Setup
 
-## LAB 5 - Build and Push an Image and Run Container Scanning
-### The starting `gitlab-ci.yml`
-This is the state of the `gitlab-ci.yml` at the beginning of the lab:
-```yml
-build:
-  image: docker:stable
-  stage: build
-  services:
-    - docker:dind
-  variables:
-    IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
-  script:
-    - apk add npm
-    - npm i npm@latest -g
-    - docker 
-    - docker 
-    - docker 
+1. Return to the **Security Labs** project you used in the other labs.
+1. **OPTIONAL:** Follow the instructions at the start of [Lab 2](secessentialshandson2.html) for speeding up your pipeline by disabling scanners that you enabled in previous labs.
 
-include:
 
-```
-### Add the DOCKERFILE to the repo
-1. On the Project Information page, click the (+) sign and click on **New File**
-2. In the **File Name** field, type `Dockerfile` and press <kbd>TAB</kbd> until your cursor is in the first line of the file body.
-3. Copy the following contents into the body of the file:
+### Add a `Dockerfile`
 
+A Dockerfile is a "recipe" that tells Docker how to assemble your application into a Docker image. You'll write a `Dockerfile` that installs your single-file Python application onto an Ubuntu 18.04 Docker image, and then packages that whole stack into a new Docker image.
+
+1. In the left navigation pane, click **Repository > Files**.
+1. Above the repository file list, click **(+) > New file**.
+1. In the **File name** field, type `Dockerfile`
+1. The Dockerfile must specify which Linux image to install your application on. For this lab you'll use an old version of Ubuntu that has security vulnerabilities for the Container Scanner to find. Paste this into `Dockerfile`:
+   
+    ```dockerfile
+   FROM ubuntu:18.04
     ```
-    FROM ubuntu:12.04
-    
-    RUN apt-get update && apt-get install -y apache2 && apt-get clean && rm -rf /var/lib/apt/lists/*
-    
-    ENV APACHE_RUN_USER www-data
-    ENV APACHE_RUN_GROUP www-data
-    ENV APACHE_LOG_DIR /var/log/apache2
-    
-    EXPOSE 80
-    
-    CMD ["/usr/sbin/apache2", "-D", "FOREGROUND"]
+   
+1. The Dockerfile "recipe" must add your application to the Linux image specified above. Paste this at the bottom of `Dockerfile`:
+
+    ```dockerfile
+   ADD HelloWorld.py .
     ```
 
-4. Click the **Commit Changes** button.
+1. Add a commit message and click **Commit changes**. 
 
-### Authenticate with Docker commands
 
-Pushing to the Container Registry with Docker commands requires authentication.
-1. Authentication with the Container Registry is required.    
-   - Authenticate with either:
-       - A personal access token.
-       - A deploy token.      
-   - Create a personal access token:
-       - You can create as many personal access tokens as you like.
-       - In the top-right corner, select your avatar.
-       - Select **Edit profile**.
-       - In the left sidebar, select Access Tokens.
-       - Enter a name and optional expiry date for the token.
-       - Select `read_registry` scope so you can pull Docker images from the registry
-       - Select `write_registry` scope so you can add Docker images to the registry
-       - Select **Create personal access token**.
-        **Save the personal access token somewhere safe. After you leave the page, you no longer have access to the token.**
-    - Authenticate by running the Docker command as a script in the `gitlab-ci.yml`.   
-```yml
-# Add the following commands under the "script" keyword in `.gitlab-ci.yml`
-- docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
-```
-### Build and push image to Container Registry
-Build and push to the Container Registry:
+### Build the Docker image
 
-2. Authenticate with the Container Registry.    
-    - Run the following command to build:
-```yml
-# This command builds a Docker image and tags it with the value of the variable $IMAGE
-- docker build -t $IMAGE .
-```
-... and push to the Container Registry:
-```yml
-# This command pushes the built containerized app
-- docker push $IMAGE
-```
-3. View the container in **Packages & Registries > Container Registry**.
-### Add the Container Scanning Template to `gitlab-ci.yml`
-Include the Container Scanning template on `gitlab-ci.yml`.
-```yml
-include:
-  - template: Security/Container-Scanning.gitlab-ci.yml
-```
-1. Run the pipeline and look at the Vulnerability Report for any Container Scanning vulnerabilities. 
+In this section you will define a job that builds a Docker image. 
 
-### SUGGESTIONS?
+To build a Docker image with a CI/CD job, you must use a GitLab Runner that's configured to use a Docker executor. Fortunately the shared GitLab Runners in the training environment satisfy this requirement.
 
-If you wish to make a change to our Hands on Guide for GitLab Security Essentials- please submit your changes via Merge Request!
+1. Define a `build` stage to assign your job. Paste this just beneath the `stages:` keyword, making sure it has the same indentation as the existing `- test` entry beneath it:
+
+    ```yml 
+     - build
+    ```
+
+1. Name your new job and assign it to a stage. Paste this at the end of `.gitlab-ci.yml`:
+
+    ```yml
+   build-and-push-docker-image:
+     stage: build
+    ```
+  
+1. Your job must run on a Docker image that contains Docker tools (this approach is sometimes called "Docker in Docker", or "dind"). Because of technical limitations of the training environment, you need to specify an older version (_i.e._, version 18) of the image that contains Docker tools. Paste this into your job definition:
+
+    ```yml
+     image: docker:18
+    ```
+
+1. Your job also needs a second Docker image that enables the Docker in Docker workflow. You specify this with the `services` keyword. Paste this into your job definition:
+  
+    ```yml
+     services:
+       - docker:18-dind
+    ```
+   
+1. It's helpful to define a variable to hold the full name and version of the Docker image you're creating, because you'll need to refer to that information more than once. You can assemble the name and version out of predefined variables that GitLab provides (remember that predefined variables generally start with "CI"). Paste this into your job definition:
+
+    ```yml
+      variables:
+        IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
+    ```
+   
+1. Instruct Docker to build a Docker image using the recipe in `Dockerfile`. Paste this into your job definition:
+   
+    ```yml
+     script:
+       - docker build --tag $IMAGE .
+    ```
+   
+
+### Push the Docker image to your project's container registry
+
+1. Your job needs to log in to the project's container registry so it can push your image to it. Add this line to the bottom of the `script` section of the `build-and-push-docker-image` job:
+
+    ```yml
+       - docker login --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD $CI_REGISTRY
+    ```
+   
+1. Your job can push the image with a single Docker command. Add this to the bottom of the `script` section of the job definition:
+    ```yml
+       - docker push $IMAGE
+    ```
+   
+1. Your completed job definition should look like this. Make any corrections necessary to the job definition in your `.gitlab-ci.yml`.
+
+    ```yml
+   build-and-push-docker-image:
+     stage: build
+     image: docker:18
+     services:
+       - docker:18-dind
+     variables:
+       IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
+     script:
+       - docker build --tag $IMAGE .
+       - docker login --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD $CI_REGISTRY
+       - docker push $IMAGE
+    ```
+
+1. Commit the changes to `.gitlab-ci.yml` with an appropriate commit message.
+ 
+1. When the pipeline finishes running, verify that your job created a new Docker image and pushed it into the project's container registry: in the left navigation pane, click **Packages & Registries > Container Registry**.
+
+
+### Enable Container Scanning
+
+Now that your Docker image is being built and pushed, you can enable Container Scanning.
+
+1. Add the Container Scanning template to the existing `include:` section of `.gitlab-ci.yml`:
+   
+    ```yml
+       - template: Security/Container-Scanning.gitlab-ci.yml
+    ```
+   
+1. Commit the changes with an appropriate commit message.
+1. Wait for the pipeline to finish running.
+
+
+### View the results
+
+1. See if the Container Scanner found any problems with the old Ubuntu base image by looking at either the **Vulnerability Report** or the **Security** tab in the pipeline details page.
+
+
+## Suggestions?
+
+If you'd like to suggest changes to the *GitLab Security Essentials Hands-On Guide*, please submit them via merge request.
