@@ -136,10 +136,10 @@ If any of the following are true, it would be best to engage an Incident Manager
     1. VP of Infrastructure - Steve Loyd
 1. After the incident is resolved, the Incident Manager is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review/).
     1. If an incident is either an S1 or public S2(including security) then the Incident Manager should add the incident to the [Gitlab.com standup agenda (internal only)](https://docs.google.com/document/d/1vww0BfRzHtrGhMppTEw5Q27KSzD1e72dmJ3XoppxC-A/edit#).
-    1. If the meeting is not active (no planned agenda or active calendar event) then the Incident Manager should call for activation of the meeting for the following business day by noting the need in slack #vp-development and #vp-infrastructure.  
+    1. If the meeting is not active (no planned agenda or active calendar event) then the Incident Manager should call for activation of the meeting for the following business day by noting the need in slack #vp-development and #vp-infrastructure.
 1. For high severity bugs that affect customers, the Incident Manager is responsible for making sure Incident Reviews are coordinated with other departments in Engineering and go through the complete Incident Review process.
-1. When engaged in an active incident near the end of an Incident Manager shift, the current Incident Manager owns the decision as to whether to continue in their role or to transition the active incident to the incoming Incident Manager. In most cases, this transition should be the expected default behavior. 
-1. During a shift where no Incident Manager engaged incidents have occurred, no transition ("handover") is required. 
+1. When engaged in an active incident near the end of an Incident Manager shift, the current Incident Manager owns the decision as to whether to continue in their role or to transition the active incident to the incoming Incident Manager. In most cases, this transition should be the expected default behavior.
+1. During a shift where no Incident Manager engaged incidents have occurred, no transition ("handover") is required.
 
 To engage the Incident Manager: either run `/pd trigger` in Slack, then select the "GitLab
 Production - IMOC" service, or create an incident in [the Pagerduty page for the](https://gitlab.pagerduty.com/service-directory/PE8A5MX)
@@ -419,6 +419,11 @@ The current Root Cause labels are listed below. In order to support trend awaren
 | `~RootCause::SPoF` | the failure of a service or component which is an architectural SPoF (Single Point of Failure) |
 | `~RootCause::Saturation` | failure resulting from a service or component which failed to scale in response to increasing demand (whether or not it was expected) |
 | `~RootCause::Security` | an incident where the [SIRT team](/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations) was engaged, generally via a request originating from the SIRT team or in a situation where Reliability has paged SIRT to assist in the mitigation of an incident not caused by `~RootCause::Malicious-Traffic` |
+| `~RootCause::Database-Failover` | database failover event |
+| `~RootCause::ExternalAgentMaliciousBehavior` | ostensibly malicious behavior by an external agent |
+| `~RootCause::GCP-Networking` | GCP networking event |
+| `~RootCause::Known-Software-Issue` | known/existing technical debt in the product that has yet to be addressed |
+| `RootCause::Naive-Traffic` | levated external traffic exhibiting anti-pattern behavior for interface usage |
 
 #### Customer Communications Labeling
 
