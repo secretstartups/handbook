@@ -1,7 +1,10 @@
 ---
 layout: handbook-page-toc
-title: "Facilitator Guide for GitLab with Git Basics"
-description: "This Facilitator Guide is intended to walk you through all important links, preparation items, and after class items for our GitLab with Git Basics course."
+title: Facilitator Guide for GitLab with Git Basics
+description: >-
+  This Facilitator Guide is intended to walk you through all important links,
+  preparation items, and after class items for our GitLab with Git Basics
+  course.
 ---
 # GitLab with Git Basics Facilitator Guide for Instructors
 {:.no_toc}
@@ -14,7 +17,7 @@ description: "This Facilitator Guide is intended to walk you through all importa
 
 ## Important Links
 
-1. [Hands On Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/%20gitbasicshandson.html)
+1. [Hands On Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandson.html)
 2. [GitLab Template Projects for VMs](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-with-git-basics)
 3. [Remote Sessions Tips and Tricks](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/)
 
@@ -22,14 +25,14 @@ description: "This Facilitator Guide is intended to walk you through all importa
 ## Things to do Ahead
 
 1. Lab setup and preparation
-   1. Set up the GitLab with Git Basics hands on project with your organizations GitLab training lab environment (if not already done) by following the instructions in the ReadMe file within the [GitLab Demo Flow project](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-with-git-basics/gitlab-flow-demo)
-   2. Provision learners
+    1. Set up the GitLab with Git Basics hands on project with your organizations GitLab training lab environment (if not already done) by following the instructions in the ReadMe file within the [GitLab Demo Flow project](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-with-git-basics/gitlab-flow-demo)
+    2. Provision learners
 2. Hands-on walkthrough
     1. Practice each demo in the lab environment
     2. Test each hands-on activity in the lab environment
 3. Websites to have up prior to class
     1. [Related GitLab Docs pages](https://docs.gitlab.com/ee/gitlab-basics/)
-    2. [Hands on Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/%20gitbasicshandson.html)
+    2. [Hands on Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitbasicshandson.html)
     3. Lab environment
     4. Example demo projects
 4. Slides
