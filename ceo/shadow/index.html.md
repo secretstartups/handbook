@@ -186,7 +186,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2022-01-03 | 2022-01-07 | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager | [Cynthia Ng](https://gitlab.com/cynthia) - Sr. Support Engineer |
 | 2022-01-10 | 2022-01-14 | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager |
 | 2022-01-18 | 2022-01-21 | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical)  |
 | 2022-01-24 | 2022-01-28 | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager |
@@ -1106,3 +1105,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-11-15 | 2021-12-03 | [Sincheol (David) Kim](https://gitlab.com/dskim_gitlab) | Sr. Backend Engineer | |
 | 2021-11-30 | 2021-12-10 | [Amy Qualls](https://gitlab.com/aqualls) | Sr. Technical Writer | |
 | 2021-12-06 | 2021-12-17 | [James Heimbuck](https://gitlab.com/jheimbuck_gl) | Sr. Product Manager | |
+| 2021-12-13<br>2022-01-03 | 2021-12-17<br>2022-01-07 | [Cynthia Ng](https://gitlab.com/cynthia) | Sr. Support Engineer | [CEO Shadow Reflection](https://wp.me/pHQ83-1Id) |
