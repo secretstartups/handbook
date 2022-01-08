@@ -56,7 +56,7 @@ canonical_path: "/company/team/structure/working-groups/learning-restructure/"
 | Functional Lead       | Christina Hupy         | Manager, Education Program   |
 | Member                | Samantha Lee           | Learning and Development Generalist        |
 | Member                | Thabo Bopape            | Senior Technical Enablement Program Manager      |
-| Member                | Kendra Marquat     | Sr. Technical Instructional Designer, Customer Education |
+| Member                | Kendra Marquart     | Sr. Technical Instructional Designer, Customer Education |
 | Member                | Christopher Wang      | Senior Sales Development Solutions Architect        |
 | Member                | Marshall Cottrell      | Strategy and Operations Principal        |
 
