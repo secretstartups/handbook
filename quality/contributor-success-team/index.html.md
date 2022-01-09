@@ -48,7 +48,7 @@ The goal of the team is to increase the technical improvements and efficiency of
 
 We aim to increase the focus on our community contributions. Below is a timeline on how we will measure and track this goal.
 
-- **[Unique Community Contributors per Month](/handbook/engineering/quality/performance-indicators/#unique-community-contributors-per-month)**
+- **[Unique Wider Community Contributors per Month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)**
     - Target to increase to be greater than 150 per month by EOFY22
     - Activities:
         - Partnership with Community Relations and Technical Marketing team.
