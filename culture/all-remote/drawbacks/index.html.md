@@ -27,18 +27,11 @@ Despite all of its [advantages](/company/culture/all-remote/benefits/), all-remo
 
 In the [video](https://youtu.be/CwOLAKSdlfs) above, GitLab Director of Technical Evangelism [Priyanka Sharma](https://gitlab.com/pritianka) discusses pros and cons of remote working with a panel of experts from [TFiR](https://www.tfir.io/), [Arm](https://www.arm.com/) and [ISG Research](https://isg-one.com/research).
 
-## Is working remotely effective?
-
-An all-remote job will best suit [self-motivated people](/blog/2019/03/28/what-its-like-to-interview-at-gitlab/). Some of the top optimizers of remote work are:
-* Reduced [interruption stress](/blog/2018/05/17/eliminating-distractions-and-getting-things-done/) and increased [productivity](https://www.inc.com/brian-de-haaff/3-ways-remote-workers-outperform-office-workers.html). 
-* Remote makes it [easier to communicate](/company/culture/all-remote/informal-communication/) with difficult colleagues remotely, [reducing distractions](/blog/2018/03/15/working-at-gitlab-affects-my-life/) from interpersonal drama or office politics. 
-* Flexibility to [choose your working hours](/company/culture/all-remote/people/#worklife-harmony) based on when you're [most productive](/company/culture/all-remote/asynchronous/).
-
 ## The difference between all-remote and remote-first
 
-**All-remote** is a work arrangement in which employees do not commute to a central place of work because there are no company-owned offices.
+[All-remote](/company/culture/all-remote/stages/#9-all-remote) is a work arrangement in which employees do not commute to a central place of work because there are no company-owned offices.
 
-**Remote-first** typically means there is a physical workplace of some kind available to employees who need or prefer a traditional office space outside of the home. However, these spaces are not always company-owned, they could be a shared workspace, coffee shop, or public library.
+[Remote-first](/company/culture/all-remote/stages/#7-remote-first) typically means there is a physical workplace of some kind available to employees who need or prefer a traditional office space outside of the home. However, these spaces are not always company-owned, they could be a shared workspace, coffee shop, or public library.
 
 Remote-first organizations optimize their company for remote by creating documentation, policies, and [workflows](/company/culture/all-remote/how-to-work-remote-first/) that assume 100% of the organization is remote.
 
@@ -152,7 +145,7 @@ You have to be more intentional about [cultivating](/blog/2019/06/04/contribute-
 
 ## Remote work challenges and solutions for teams
 
-Despite its many [advantages](/company/culture/all-remote/benefits/), all-remote work can be challenging for teams.
+Despite its many [advantages](/company/culture/all-remote/benefits/), all-remote work can present new challenges for teams.
 
 **Challenge: Isolation**
 
@@ -160,13 +153,15 @@ A remote role can feel [lonely](/blog/2018/04/27/remote-future-how-remote-compan
 
 **Solutions**
 
-  - Build an [intentional structure to informal communications](/company/culture/all-remote/informal-communication/) to help combat loneliness.
+  - Build an [intentional structure for informal communication](/company/culture/all-remote/informal-communication/) to help combat loneliness.
   - Schedule regular [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats), [social calls](/company/culture/all-remote/informal-communication/#social-calls), and [incentivize in-person visits](/handbook/incentives/#visiting-grant) between team members to encourage teambuilding and prevent isolation.
 
 **Challenge: Communication**
 
 If teams aren't intentional about creating ways for their people to stay connected, remote settings can cause communication breakdowns. 
+
 **Solutions**
+
 - Asynchronous communication invites everyone to be a part of important discussions.
 - We welcome all-remote companies to glean from [GitLab's approach to meetings](/company/culture/all-remote/meetings/), as well as our [scheduled AMAs, group conversations, and Key Reviews](/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings) that are open to all.
 
@@ -181,8 +176,15 @@ It's not easy to separate work and personal life when working remote. It's impor
 - At GitLab, we encourage team members to [communicate with their manager when they recognize burnout](/handbook/paid-time-off/#recognizing-burnout), and to be mindful of the last time a team member [took time off from work](/handbook/paid-time-off/#paid-time-off).
 - Remote work requires you to [manage your own time](/handbook/values/#managers-of-one) and be self-motivated, disciplined, and [organized](/blog/2019/06/18/day-in-the-life-remote-worker/).
 
+## Is working remotely effective?
+
+An all-remote job will best suit [self-motivated people](/blog/2019/03/28/what-its-like-to-interview-at-gitlab/). Some of the top optimizers of remote work are:
+* Reduced [interruption stress](/blog/2018/05/17/eliminating-distractions-and-getting-things-done/) and increased [productivity](https://www.inc.com/brian-de-haaff/3-ways-remote-workers-outperform-office-workers.html). 
+* Remote makes it [easier to communicate](/company/culture/all-remote/informal-communication/) with difficult colleagues remotely, [reducing distractions](/blog/2018/03/15/working-at-gitlab-affects-my-life/) from interpersonal drama or office politics. 
+* Flexibility to [choose your working hours](/company/culture/all-remote/people/#worklife-harmony) based on when you're [most productive](/company/culture/all-remote/asynchronous/).
+
 ## Tips for independent remote working
-Whether you're new to working remotely or have done it before, you can explore the detailed version of our [5 tips to successful remote working](/company/culture/all-remote/remote-work-starter-guide/).
+Whether you're new to working remotely or have done it before, you can explore the detailed version of our [5 tips for successful remote working](/company/culture/all-remote/remote-work-starter-guide/):
 1. Create a dedicated workspace (focus)
 1. Separate work from life (avoid burnout)
 1. Keep engaging with people (avoid loneliness)
