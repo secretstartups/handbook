@@ -23,15 +23,19 @@ On this page, we're detailing how informal communication occurs at GitLab, how i
 
 Informal communication in the workplace is made up of interactions between co-workers that is unofficial in nature and focuses on building social relationships outside of the normal hierarchy of a typical business structure.
 
+In other words, it's what happens when we get to know each other and talk about anything *other* than work.
+
+Talking about the weather; sharing photos of pets, favorite foods or holidays; sending a birthday greeting or encouraging message; banter, chit-chat, and having a laugh - it's all part of [bringing our full selves to work](/company/culture/inclusion/).
+
 ## What is the difference between formal and informal communication in the workplace?
 
 Since GitLab is an all-remote organization that [works asynchronously](/company/culture/all-remote/asynchronous/), nearly all work communication is [documented](/handbook/documentation/), making all work-related communications "formal" communications. This helps support our value of [transparency](handbook/values/#transparency).
 
-We are big on relationship-buiding and highly value intentionally creating time to build relationships via informal communications. 
+We are big on relationship-buiding. We highly value intentionally creating time to build relationships via informal communications. 
 
 ## What are some examples of informal communication?
 
-Ways to get to know your team via informal communication might include things like talking about non-work topics such as the weather, pets, favorite foods or holidays, sending a birthday greeting or encouraging message. 
+
 
 ## Why is informal communication so important in a remote work setting?
 
@@ -39,7 +43,7 @@ All-remote workers who are all-work all the time risk [loneliness](/blog/2018/04
 
 ## Informal communication advantages and disadvantages
 
-While some people thrive on spending time to get to know others, others are annoyed by non-work-related texts and messages. Informal ommunications among diverse team members requires a high level of [empathy](/company/culture/all-remote/being-a-great-remote-manager/#empathy). 
+While some people thrive on spending time to get to know others, others are annoyed by non-work-related texts and messages. Informal communication among diverse team members requires a high level of [empathy](/company/culture/all-remote/being-a-great-remote-manager/#empathy). 
 
 It's helpful to be transparent about your communication preferences so managers and teammates can know and respect your boundaries.
 
@@ -138,7 +142,7 @@ Below are a number of intentional facets of [GitLab's culture](/company/culture/
 
 ## How can informal communication be improved?
 
-In addition to all the ideas above, we've curated best practices for how to improve informal communication both as an individual and as a team below. 
+In addition to all the ideas above, we've curated best practices for how to improve informal communication both as an individual and as a team. 
 
 ## Creating room for human connection on calls
 
