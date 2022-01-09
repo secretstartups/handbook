@@ -69,7 +69,7 @@ The Contributor Success Engineering Manager  is a [grade 8](/handbook/total-rewa
 * [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr)
 * [Open Community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age-ocma)
 * [Community MR Coaches per Month](/handbook/engineering/quality/performance-indicators/#community-mr-coaches-per-month)
-* [Unique Community Contributors per Month](/handbook/engineering/quality/performance-indicators/#unique-community-contributors-per-month)
+* [Unique Wider Community Contributors per Month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)
 
 
 ## Hiring Process
