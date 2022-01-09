@@ -33,10 +33,6 @@ Since GitLab is an all-remote organization that [works asynchronously](/company/
 
 We are big on relationship-buiding. We highly value intentionally creating time to build relationships via informal communications. 
 
-## What are some examples of informal communication?
-
-
-
 ## Why is informal communication so important in a remote work setting?
 
 All-remote workers who are all-work all the time risk [loneliness](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/) or [burnout](/company/culture/all-remote/mental-health/). One of the best ways to combat loneliness and burnout are through relationship-building by prioritizing regular social interactions via informal communication throughout the workday, week, and month. 
