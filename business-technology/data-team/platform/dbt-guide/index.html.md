@@ -925,18 +925,18 @@ Steps to follow in order to run the tests you implemented in the data-tests proj
 
   
 1. Push your changes to the remote branch you are working on on the data-tests project
-2. Go to your analytics project locally, create a new branch with the same name as the one at data-tests, modify the `Makefile` to edit the `DATA_TEST_BRANCH` to macth your branch name on the data-test project
-3. From the analytics project run `make run-dbt`
+2. Go to your `analytics` project locally, create a new branch with the same name as the one at `data-tests` & modify the `Makefile` to edit the `DATA_TEST_BRANCH` to macth your branch name on the `data-test` project
+3. From the `analytics` project run `make run-dbt`
 4. You should see some logs, which also show the revision data-tests was installed from, where you should see your branch
-5. From where you currently are (which should be the `snowflake-dbt` directory) run the command for testing your own model
+5. From where you currently are (which should be the `snowflake-dbt` directory) run the corresponding command for testing your own model
 
 #### Example:
 
 To run the `zuora_revenue_revenue_contract_line_source` rowcount tests, we can use the following command, which should work without any issues:
 
-`dbt --partial-parse test --models zuora_revenue_revenue_contract_line_source`.   
+`dbt --partial-parse test --models zuora_revenue_revenue_contract_line_source`   
 
-> :warning: Please note, whenever you make changes to the underlying tests in the data-tests project, you need to push those changes to the remote and re-run steps 3-5,  to start a dbt container with the latest changes from your branch.   
+> :warning:  Please note, whenever you make changes to the underlying tests in the data-tests project, you need to push those changes to the remote and re-run steps 3-5,  to start a dbt container with the latest changes from your branch.   
 
 
 #### Trusted Data Dashboard
