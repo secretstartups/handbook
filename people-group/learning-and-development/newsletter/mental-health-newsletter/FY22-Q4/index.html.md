@@ -31,15 +31,17 @@ Raise your hand if you attended #wellbeing-week in December, 2021? This was the 
 We're featuring material from Wellbeing Week throughout January in GitLab Learn - you can catch all the replays in our [Skill of the Month: Wellbeing](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) channel in GitLab Learn!
 
 
-## Manager resources
+## Yerbo Slack App Updates
 
-UPDATE with new manager resources - keep image and link format below
+In December 2021, ~35 team members particiapted in a trial of Yerbo, a Slack app that helps teams and individuals measure their burnout risk and take action to improve engagement at work.
 
-| Post Topic | Video Links |
-| ----- | ----- |
-| ![post 1 image](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/mental-health-1.png) | [three mindful breaths](https://www.linkedin.com/learning/mindful-meditations-for-work-and-life/three-breaths-practice?u=2255073), 2 minutes, and [preparing yourself for mental agility](https://www.linkedin.com/learning/cultivating-mental-agility/physically-preparing-yourself-for-mental-agility-2?u=2255073), 4 minutes |
-| ![post 3 image](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/mental-health-3.png) | [Simple shifts for sleep success](https://www.linkedin.com/learning/sleep-is-your-superpower/simple-shifts-for-sleep-success), 4 min and [Relax your brain](https://www.linkedin.com/learning/creativity-tips-for-all-weekly/relax-your-brain), 5 min |
-| ![post 4 image](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/mental-health-4.png) | [desk hip stretches](https://www.linkedin.com/learning/chair-work-yoga-fitness-and-stretching-at-your-desk/hip-stretches), 5 min and [seated mountain pose](https://www.linkedin.com/learning/chair-work-yoga-fitness-and-stretching-at-your-desk/seated-mountain), 3 min  |
+You can read about the results and testimonials about the trial [here](https://gitlab.com/gitlab-com/people-group/learning-development/mental-health/-/issues/6#note_802078710)
+
+If you want to start using Yerbo for yourself, check out the guidelines below!
+
+1. Reivew the [app documentation](ADD LINK)
+1. Watch [this video](ADD LINK)
+1. Share with a college and ask them to join you in using the app
 
 
 ## Discussion 
