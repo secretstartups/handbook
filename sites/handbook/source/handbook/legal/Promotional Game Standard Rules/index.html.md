@@ -1,8 +1,10 @@
 ---
 layout: handbook-page-toc
-title: "GITLAB PROMOTIONAL GAMES -  OFFICIAL RULES"
+title: "UX Research Team Promotional Rules"
 description: "Standard Official Rules"
 ---
+
+# GITLAB PROMOTIONAL GAMES - OFFICIAL RULES
 
 1. NO PURCHASE OR PAYMENT IS NECESSARY TO ENTER OR WIN. Void where prohibited or restricted by law. 
 
