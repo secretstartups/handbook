@@ -110,6 +110,12 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Office of the Healthcare Advocate](https://portal.ct.gov/-/media/OHA/OHAPstr8p5x11AsnEngMchpdf.pdf)
 * [Pregnancy Discrimination and Accommodation in the Workplace](https://www.ctdol.state.ct.us/gendocs/SS46a%20Pregnancy%20Disability%20Poster.pdf)
 
+### District of Columbia
+* [Paid Family Leave Employee Notice](https://does.dc.gov/node/1470351)
+
+### Hawaii
+* [Labor Law Poster](https://labor.hawaii.gov/wp-content/uploads/2020/09/20200921Labor-Laws-3.pdf)
+
 ### Massachusetts
 * [Paid Family and Medical Leave](https://www.mass.gov/doc/2022-paid-family-and-medical-leave-mandatory-workplace-poster/download)
 * [Earned Sick Time](https://www.mass.gov/doc/earned-sick-time-notice-of-employee-rights/download)
@@ -118,11 +124,27 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Parental Leave Act](https://www.mass.gov/service-details/parental-leave-in-massachusetts)
 * [Information on Employees Unemployment Insurance Coverage](https://www.mass.gov/doc/information-on-employees-unemployment-insurance-coverage-form-2553a/download)
 
+### New Jersey
+* [New Jersey Earned Sick Leave](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/mw565sickleaveposter.pdf)
+* [Wage and Hour Law Abstract](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/MW-220_1-21.pdf)
+* [Child Labor Law](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/mw-129-1.pdf)
+* [Employer Obligation to Maintain and Report Records](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/MW-400_11x17.pdf)
+* [Payment of Wages](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/MW-400_11x17.pdf)
+* [Family Leave Insurance](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/fli_poster.pdf)
+* [Unemployment & Temporary Disability Insurance](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/pr-1_6-19_uitdiemployerposter.pdf)
+* [CEPA Whistleblower Act](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/CEPA270.1.pdf)
+* [New Jersey Safe Act](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/AD-289_9-13.pdf)
+* [Gender Equity Notice](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/genderequityposterenglish.pdf)
+[Public Employees Occuptional Safety and Health](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/wps35.pdf)
+* [New Jersey Misclassifiation Notice](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/mw-899b_%20520_missclassification%208x11.pdf)
+
 ### New York
 * [New York Correction Law, Article 23-A](https://dol.ny.gov/system/files/documents/2021/02/correction-law-article-23a.pdf)
 * [New York State Human Rights Law](https://dhr.ny.gov/sites/default/files/doc/poster.pdf)
-* [Equal Pay Provision](https://dol.ny.gov/system/files/documents/2021/02/ls603_equal_pay_provision.pdf)
-* [Minimum Wage](https://dol.ny.gov/system/files/documents/2021/12/ls207.pdf)
+* [Equal Pay Provision](https://labor.ny.gov/formsdocs/wp/LS603.pdf)
+* [Minimum Wage](https://labor.ny.gov/formsdocs/wp/LS207.pdf)
+* [Paid Family Leave Statement of Rights](http://docs.paidfamilyleave.ny.gov/content/main/forms/PFLDocs/PFL271S_2021.pdf)
+* [New York State Disability Statement of Rights (DB217S)](http://www.wcb.ny.gov/content/main/forms/AllForms.jsp)
 * [Rights of Nursing Mothers to Express Breast Milk in the Work Place](https://dol.ny.gov/system/files/documents/2021/02/ls702_guidelines_regarding_the_rights_of_nursing_mothers_to_express_breast_milk_in_the_work_place.pdf)
 
 ### Pennsylvania
@@ -136,8 +158,20 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 #### City of Pittsburgh
 * [Paid Sick Days Act](https://apps.pittsburghpa.gov/redtail/images/9692_Notice-Paid-Sick-Days-Act_06-2020.pdf)
 
+### Puerto Rico
+* [Non-Occuptional Disability Insurance "SINOT"](https://www.trabajo.pr.gov/docs/Afiches/Afiche%20SINOT_B.pdf)
+
+### Rhode Island
+* [Notice to All Employees on Unemployment Insurance and Total Disability Insurance](https://dlt.ri.gov/sites/g/files/xkgbur571/files/documents/requiredposters/uitdiposter.pdf)
+* [Rhode Island Department of Labor and Training](https://dlt.ri.gov/sites/g/files/xkgbur571/files/documents/requiredposters/combopost2.pdf)
+* [Discrimination is Illegal](https://dlt.ri.gov/sites/g/files/xkgbur571/files/documents/requiredposters/DiscriminationPoster.pdf)
+* [Notice of Rigth to be Free From Discrimination Because of Pregnancy, Childbirth and Related Conditions](https://dlt.ri.gov/sites/g/files/xkgbur571/files/documents/requiredposters/PregDiscrimNoticeJuly2015.pdf)
+* [Sexual Harassment](https://dlt.ri.gov/sites/g/files/xkgbur571/files/documents/requiredposters/sexharassment.pdf)
+* [It Is Illegal to Smoke](https://dlt.ri.gov/sites/g/files/xkgbur571/files/documents/requiredposters/ItIsIllegalToSmokeInThisEstablishment.pdf)
+
 ### Washington
-* [Paid Family and Medical Leave Act](https://paidleave.wa.gov/app/uploads/2019/12/Employer-poster.pdf)
+* [Paid Family and Medical Leave](https://paidleave.wa.gov/app/uploads/2019/12/Employer-poster.pdf)
+* [Washington Family Medical Leave Act](https://paidleave.wa.gov/app/uploads/2019/12/Employer-to-employee-notice-2019.pdf)
 * [Job Safety and Health Law](https://www.lni.wa.gov/forms-publications/f416-081-909.pdf)
 * [Your Rights as a Worker](https://www.lni.wa.gov/forms-publications/F700-074-000.pdf)
 
