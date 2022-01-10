@@ -919,6 +919,26 @@ graph TD
 
 In the case where you have a merge request in `data-tests` and one in `analytics`, the `analytics` [MR should be set as a dependency](https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_dependencies.html) of the `data-tests` MR. This means that the `analytics` MR must be merged prior the `data-tests` MR being merged.
 
+####  Running the newly introduced dbt tests in the data-tests project
+
+Steps to follow in order to run the tests you implemented in the data-tests project from your machine, while developing them:
+
+  
+1. Push your changes to the remote branch you are working on on the data-tests project
+2. Go to your analytics project locally, create a new branch with the same name as the one at data-tests, modify the `Makefile` to edit the `DATA_TEST_BRANCH` to macth your branch name on the data-test project
+3. From the analytics project run `make run-dbt`
+4. You should see some logs, which also show the revision data-tests was installed from, where you should see your branch
+5. From where you currently are (which should be the `snowflake-dbt` directory) run the command for testing your own model
+
+#### Example:
+
+To run the `zuora_revenue_revenue_contract_line_source` rowcount tests, we can use the following command, which should work without any issues:
+
+`dbt --partial-parse test --models zuora_revenue_revenue_contract_line_source`.   
+
+> :warning: Please note, whenever you make changes to the underlying tests in the data-tests project, you need to push those changes to the remote and re-run steps 3-5,  to start a dbt container with the latest changes from your branch.   
+
+
 #### Trusted Data Dashboard
 
 The Trusted Data Dashboard is used to quickly evaluate the health of the Data Warehouse. The most important data is presented in a simple business-friendly way with clear color-coded content for test PASS or FAIL status.
