@@ -12,7 +12,7 @@ job: "Engineering Director"
 
 ### Wayne Haber README
 
-I’m the director of engineering for the [growth](https://about.gitlab.com/handbook/engineering/development/growth/) sub-department, [sec]](https://about.gitlab.com/handbook/engineering/development/secure/) sub-department and the [applied ML group / modelops](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/) group.  I am also a SME for security at the company.
+I’m the director of engineering for the [growth sub-department](https://about.gitlab.com/handbook/engineering/development/growth/), [sec sub-department](https://about.gitlab.com/handbook/engineering/development/secure/)  and the [ModelOps group](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/).  I am also a SME for security at the company.
 
 Links about Wayne:
 * [GitLab](https://gitlab.com/whaber)
