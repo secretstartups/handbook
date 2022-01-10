@@ -994,42 +994,26 @@ The temporary support process across the Professional Services and Learning and 
 ```mermaid
 graph TD
     A[User Question] --> B[Determine user audience]
-    B -->|Team Member or Partner| D[Support via Slack from L&D]
+    B -->|Team Member| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
-    B -->|Community Member| F[Support via ticket from Professional Services and Forum support from L&D]
+    B -->|Community Member| F[Support via ticket from Professional Services/ L&D]
+    B -->|Partner| G[Support viaticket from Professional Services/ L&D]
 
 ```
 
-#### SLAs for temporary support workflow
+#### SLAs for GitLab Learn Support Model
 
 GitLab team members should work towards responding to internal and external requests for support based on the following SLAs:
 
 | Audience | Support Method | SLA |
 | ----- | ----- | ----- |
 | Team Members | Slack support from L&D team | 2 business days |
-| Partners | Slack support from L&D team | 2 business days |
+| Partners | Zendesk support from PS or L&D team | 2 business days |
 | Customers | Zendesk support from PS team | TBD by PS Team |
 | Community Members | Zendesk support from PS or L&D teams | 1 week |
-| Community Members | Fourm support from L&D team | 1 week |
+| Community Members | Forum support from L&D team | 1 week |
 
 Workflows, email templates, and outlines below will remain the same for this temporary support model.
-
-### End-goal Support Model
-
-This section outlines workflows and processes that the GitLab team uses to provide support to GitLab Learn users.
-
-Due to the diversity in audience on the GitLab Learn platform, support is managed and supported by multiple teams at GitLab.
-
-This workflow will be implemented when the LXP implementation team has adequate staffing for platform administration.
-
-```mermaid
-graph TD
-    A[User Question] --> B[Determine user audience]
-    B -->|Team Member or Partner| D[Support via Slack from L&D]
-    B -->|Customer| E[Support via ticket from PS team]
-    B -->|Community Member| F[Support via ticket or Community Forum answer from LXP admin]
-
-```
 
 ### Pathways for user support
 
