@@ -996,8 +996,8 @@ graph TD
     A[User Question] --> B[Determine user audience]
     B -->|Team Member| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
-    B -->|Community Member| F[Support via ticket from Professional Services/ L&D]
-    B -->|Partner| G[Support viaticket from Professional Services/ L&D]
+    B -->|Community Member| F[Support via ticket from Professional Services / L&D]
+    B -->|Partner| G[Support via ticket from Professional Services / L&D]
 
 ```
 
