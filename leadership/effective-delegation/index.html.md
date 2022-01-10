@@ -17,7 +17,13 @@ The purpose of this section is to give you the following:
 * Help you adopt an appropriate strategy to delegate the right tasks to the right people at the right time and in the right way.
 * Help you develop a systematic step-by-step approach to brief team members on what you want to delegate to others.
 
-So what is delegation?  Delegation is the assignment of responsibilities to another person for the purpose of carrying out specific job related activities.  Delegation is a shift of decision making authority from one team member to another.
+### What is delegation?  
+
+Delegation is the assignment of responsibilities to another person for the purpose of carrying out specific job related activities.  Delegation is a shift of decision making authority from one team member to another.
+
+### Considerations when delegating
+
+Before further diving into delegation, it's important for you as a leader to consider whether delegation is the right thing to do. In this [Situational Leadership Strategy](/blog/2021/11/19/situational-leadership-strategy/) article, GitLab's co-founder and CEO Sid Sijbrandij gives an overview of 4 leadership styles discussed in Situational Leadership Theory and the factors he considers when determining whether to delegate. 
 
 ### Benefits of Delegation
 
