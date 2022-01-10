@@ -39,11 +39,11 @@ These companies work to ensure that offices are simply [venues to work remotely 
 
 ## Remote work challenges and solutions for employees
 
-**Challenge: Onboarding**
+###**Challenge: Onboarding**
 
 [Onboarding](/company/culture/all-remote/learning-and-development/#how-do-you-onboard-new-team-members) can be difficult when you're remote, because it involves [more self-learning](/company/culture/all-remote/learning-and-development/) and you're not physically with your new coworkers and fellow new hires.
 
-**Solution**
+### **Solution**
 
 Learn more about how GitLab [onboards its all-remote team members](/company/culture/all-remote/learning-and-development/#how-do-you-onboard-new-team-members).
 
