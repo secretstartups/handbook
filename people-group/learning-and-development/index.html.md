@@ -109,23 +109,54 @@ All material in the handbook is considered training. The Learning & Development 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-## Learning Opportunities 
+## Learning and Development Opportunities for Team Members
 
-### Learning Initiatives 
+<div class="flex-row" markdown="0">
+  <div>
+    <h3>Learning Initiatives</h3>
+    <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+  </div>
+  <div>
+    <h3>Growth and Development Benefit</h3>
+    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+  </div>
+   <div>
+    <h3>Career Development and Mobility</h3>
+    <a href="/handbook/people-group/learning-and-development/career-development/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+  </div>
+</div>
 
-The L&D team hosts and organizes [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) to engage the GitLab team in opportunities to learn. The team is consistently iterating on and adding to these resources!
+<div class="flex-row" markdown="0">
+  <div>
+    <h3>Coaching</h3>
+    <a href="/handbook/leadership/coaching/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+  </div>
+  <div>
+    <h3>Manager Development Programs</h3>
+    <a href="/handbook/people-group/learning-and-development/manager-development/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+  </div>
+   <div>
+    <h3>Self-Paced Learning on LinkedIn</h3>
+    <a href="/handbook/people-group/learning-and-development/linkedin-learning/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+  </div>
+</div>
 
-### Growth & Development
+<div class="flex-row" markdown="0">
+  <div>
+    <h3>GitLab Learn</h3>
+    <a href="/handbook/people-group/learning-and-development/gitlab-learn/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+  </div>
+  <div>
+    <h3>Mentorship</h3>
+    <a href="/handbook/people-group/learning-and-development/mentor/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+  </div>
+   <div>
+    <h3>Compliance Courses</h3>
+    <a href="/handbook/people-group/learning-and-development/compliance-courses" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+  </div>
+</div>
 
-Team members can take advantage of up to $10,000 USD per calendar year for [Growth & Development opportunities](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/). This amount can be used for professional development, certifications, workshops, coaching, language courses, and much more!
-
-### Career Development
-
-Everyone's career development is different, but we have [outlined](/handbook/people-group/learning-and-development/career-development/) what it can look like at GitLab. Career development also includes our [GitLab coaching framework](/handbook/leadership/coaching/) to support managers in holding coaching discussions with their team. 
-
-### Leadership Development Programs
-
-GitLab has a growing [resource](/handbook/people-group/learning-and-development/manager-development/) to enable all team members transitioning to a manager role. It contains a link to a checklist, readings, and a form to help learning and development customize your development as a manager.
+### Additional Leadership Development Programs
 
 **Learning programs to develop as a people leader:** 
 
@@ -142,21 +173,6 @@ GitLab has a growing [resource](/handbook/people-group/learning-and-development/
 - Managing at GitLab Course
 - Leadership Development Job Family
  
-### Self-Paced Learning 
-
-Take advantage of [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/), an online educational platform that team members have access too to help develop skills through expert-led course videos. 
-
-### [GitLab Learn](https://gitlab.edcast.com/): EdCast Learning Experience Platform (LXP) 
-
-GitLab Learn, our [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-learn/) launched internally for GitLab team members on 2021-01-11. This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
-
-### Mentoring at GitLab
-
-[Mentor relationships](/handbook/people-group/learning-and-development/mentor/) are an opportunity for individuals to learn from someone's personal experience, background, and perpsective. 
-
-### Compliance Courses 
-
-GitLab has several compliance courses and resources. Explore the [Compliance Courses](/handbook/people-group/learning-and-development/compliance-courses) page to learn more.
 
 ## New Learning Content at GitLab
 
