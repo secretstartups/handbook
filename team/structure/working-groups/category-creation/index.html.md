@@ -2,7 +2,7 @@
 layout: markdown_page
 title: "Category Leadership Working Group"
 description: "The business goal of GitLab category leadership initiative is to solidify GitLab's 'The DevOps Platform’ messaging"
-canonical_path: "/company/team/structure/working-groups/category-leadership/"
+canonical_path: "/company/team/structure/working-groups/category-creation/"
 ---
 
 ## On this page
