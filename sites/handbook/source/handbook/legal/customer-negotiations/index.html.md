@@ -33,7 +33,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | [**What's needed to close a deal?**](#whats-needed-to-close-a-deal)    | [**GitLab Subscription Agreement 101**](#gitlab-subscription-agreement-101) |
 | [**Requests for GitLab Financial Information, Tax and Insurance Certificates**](#completing-vendor-request-forms) | [**Why GitLab does not sign BAAs (Business Associate Agreement)**](#why-gitlab-does-not-sign-baas) |
 | [**How to get a Data Processing Agreement (DPA) Signed**](#how-to-get-a-data-processing-addendum-dpa-signed) | [**Intro to GitLab Privacy Compliance and Data Processing Agreement (DPA)**](#intro-to-data-privacy-and-the-gitlab-data-processing-addendum) |
-| [**Escalation Process**](TBD--update when link is ready) | [**Intro to GitLab Privacy Compliance and Data Processing Agreement (DPA)**](#intro-to-data-privacy-and-the-gitlab-data-processing-addendum) |
+| [**Escalation Process**](#escalation-process | [**Intro to GitLab Privacy Compliance and Data Processing Agreement (DPA)**](#intro-to-data-privacy-and-the-gitlab-data-processing-addendum) |
 
 ## OPERATIONAL
 
