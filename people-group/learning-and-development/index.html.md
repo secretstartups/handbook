@@ -111,41 +111,28 @@ All material in the handbook is considered training. The Learning & Development 
 
 ## Learning and Development Opportunities for Team Members
 
+
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:170px;margin:5px;">Learning Initiatives </a>
-    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/" class="btn btn-purple" style="width:170px;margin:5px;">Growth & Development Benefit</a>
-    <a href="/handbook/people-group/learning-and-development/career-development/" class="btn btn-purple" style="width:170px;margin:5px;">Career Development & Mobility</a>
+    <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:200px;margin:5px;">Learning Initiatives </a>
+    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/" class="btn btn-purple" style="width:200px;margin:5px;">Growth & Development Benefit</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/" class="btn btn-purple" style="width:200px;margin:5px;">Career Development & Mobility</a>
   </div>
 </div>
 
 <div class="flex-row" markdown="0">
   <div>
-    <h3>Coaching</h3>
-    <a href="/handbook/leadership/coaching/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
-  </div>
-  <div>
-    <h3>Manager Development Programs</h3>
-    <a href="/handbook/people-group/learning-and-development/manager-development/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
-  </div>
-   <div>
-    <h3>Self-Paced Learning on LinkedIn</h3>
-    <a href="/handbook/people-group/learning-and-development/linkedin-learning/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+    <a href="/handbook/leadership/coaching/" class="btn btn-purple" style="width:200px;margin:5px;">Coaching</a>
+    <a href="/handbook/people-group/learning-and-development/manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Manager Training</a>
+    <a href="/handbook/people-group/learning-and-development/linkedin-learning/" class="btn btn-purple" style="width:200px;margin:5px;">LinkedIn Learning</a>
   </div>
 </div>
 
 <div class="flex-row" markdown="0">
   <div>
-    <h3>GitLab Learn</h3>
-    <a href="/handbook/people-group/learning-and-development/gitlab-learn/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
-  </div>
-  <div>
-    <h3>Mentorship</h3>
-    <a href="/handbook/people-group/learning-and-development/mentor/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
-  </div>
-   <div>
-    <h3>Compliance Courses</h3>
-    <a href="/handbook/people-group/learning-and-development/compliance-courses" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+    <a href="/handbook/people-group/learning-and-development/gitlab-learn/" class="btn btn-purple" style="width:200px;margin:5px;">GitLab Learn</a>
+    <a href="/handbook/people-group/learning-and-development/mentor/" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
+    <a href="/handbook/people-group/learning-and-development/compliance-courses" class="btn btn-purple" style="width:200px;margin:5px;">Compliance Courses</a>
   </div>
 </div>
 
