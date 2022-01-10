@@ -100,15 +100,20 @@ Currently available courses include the following:
 
 #### Continuous Integration (CI)
 
-- Access the [Continuous Integration Customer Use Case learning path](https://gitlab.edcast.com/insights/ECL-ac43cbf8-722b-4b0f-9b9c-e5132aa6d7b0)  
+- Access the [Continuous Integration Customer Use Case learning path](https://gitlab.edcast.com/pathways/continuous-integration-customer-use-case)  
 
 #### DevSecOps
 
-- Access the [DevSecOps Customer Use Case learning path](https://gitlab.edcast.com/pathways/ECL-ec3486b7-6b30-4a00-b638-4d482fb236c8)
+- Access the [DevSecOps Customer Use Case learning path](https://gitlab.edcast.com/pathways/devsecops-customer-use-case)
 
 #### DevOps Platform 
 
-- Access the [DevOps Platform Use Case learning path](https://gitlab.edcast.com/insights/ECL-b6672a5d-a33e-4c0e-850e-e72c5f8be001)
+- Access the [DevOps Platform Use Case learning path](https://gitlab.edcast.com/pathways/devops-platform-customer-use-case)
+
+#### Agile Management 
+
+- Access the [Agile Management Use Case learning path](https://gitlab.edcast.com/insights/agile-management)
+
 
 
 ## Feedback 
