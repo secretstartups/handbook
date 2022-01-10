@@ -74,11 +74,11 @@ Review the [PlanSource Login & Enrollment](https://drive.google.com/file/d/1py7C
 
 ### Group Medical Coverage
  
-GitLab offers plans from Cigna for all states within the US as well as additional Kaiser options for residents of California, Hawaii, and Colorado. Deductibles for a plan year of 2021-01-01 to 2021-12-31.
+GitLab offers plans from Cigna for all states within the US as well as additional Kaiser options for residents of California, Hawaii, and Colorado. Deductibles for a plan year of 2022-01-01 to 2022-12-31.
  
-_If you already have current group medical coverage, you may choose to waive or opt out of group health benefits. If you choose to waive health coverage, you will receive a $300.00 monthly benefit allowance and will still be able to enroll in dental, vision, optional plans, and flexible spending accounts._
+If you already have current group medical coverage, you may choose to waive or opt out of group health benefits. If you choose to waive health coverage, you will receive a $300.00 monthly benefit allowance and will still be able to enroll in dental, vision, optional plans, and flexible spending accounts. In order to receive the monthly benefit allowance you must log on to PlanSource and actively waive medical cover. 
  
-If you do not enroll in a plan within your benefits election period, you will automatically receive the medical waiver allowance.
+If you do not enroll in a plan within your benefits election period, you will automatically be enrolled in the High Deductible Health Plan (HDHP).
  
 GitLab has confirmed that our medical plans are CREDITABLE. Please see the attached [2021 notice](https://drive.google.com/file/d/1_w2svtOAP09lVKLWXsKzyLhZdlmB2ElZ/view?usp=sharing) and pg 7 of the [2022 Annual Notice](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing). If you or your dependents are Medicare eligible or are approaching Medicare eligibility, you will need this notice to confirm your status when enrolling for Medicare Part D. For more information about Medicare prescription drug coverage:
 - Visit www.medicare.gov
