@@ -93,6 +93,24 @@ that details the FMM process where CAMs can read more about how to complete [the
 - Once a POP is completed, the Channel Marketing Manager will create an issue [`channel_mdf_pop`](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/new#channel_mdf_pop) and complete Step 1 
 - Once Step 1 is completed, Channel Marketing will notify Finance for their review and reimbursement payment to the partner
 
+## Requesting Swag for Channel events and awards
+CAMs can now order swag for approved co-marketing events or other approved awards through Channel Marketing’s partner swag portal.  Please allow 10-15 business days for the approval and processing of your request plus additional shipping time. 
+
+**To view the portal and see types of Swag available:**
+1. Go to the portal: https://www2.nationsprint.com/clients/gitlab/
+1. Create your own login using your gitlab email address
+1. Once logged in, you can view Swag items currently available
+
+If you are ordering Swag for one person (vs an entire event), you can place your own order using the portal as long as you have the recipient’s shipping address.  Make sure you have received approval from your manager to place the order.
+Postcard notes are available to customize your shipment.  Just select the postcard from the ordering portal and add your own customized text to be printed on the notecard.
+
+**To request Swag for a virtual event:**
+1. Send an email to partner-marketing@gitlab.com.  Include the following details in your request: event DRI, partner name, name, date and type of event, expected number of attendees that would be eligible for swag, desired dollar amount of swag items and links to MDF request, event Issue, and any other pertinent information.  If you’d like a custom post card note included in your order, please provide the text so we can create the card as part of your order.
+1. Once your request is approved, we will create a unique swag bundle with unique ordering url and provide you with the url you can share with the attendees post event.  This way each attendee can enter their own shipping information and process their own order request directly into the portal.
+
+**To request Swag for an in-person event:**
+1. Send an email to partner-marketing@gitlab.com.  Include the following details in your request: event DRI, partner name, name, date and type of event, event shipping address including attn info any required shipping info, number and type of items being requested, first and last date items can arrive and whether you need a return label for non-used items.  Please allow 15 business days for the approval and processing of your request.  
+
 ## Partner-Initiated FREE Trials
 
 Partners now have the ability to place a FREE trial button on their website as a critical call to action to their demand generation plans. Free trials allow users to have 30 day access to the full set of features in the Self-Managed version of GitLab. Once a visitor requests a free trial from a GitLab partner, the record is sent to GitLab for the license key to be assigned and assigned to a partner in SFDC. In addition, the lead is then routed automatically via Vartopia to the partner for tracking and follow up. This is the same process that is followed whether the record is considered a lead or a contact within GitLab's instance of SFDC.
