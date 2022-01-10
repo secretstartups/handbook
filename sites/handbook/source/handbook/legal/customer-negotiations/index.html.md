@@ -131,7 +131,7 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 GitLab includes a signed version of the DPA on the [Terms of Service](https://about.gitlab.com/terms/), as stated within the [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) this DPA is applicable to all Enterprise Customer's and does not need to be counter-signed. In addition, as stated within the header of the DPA, a Customer’s acceptance of the Subscription Agreement shall be treated as its execution of the DPA.  
 
 ## Escalation Process
-In situations where a Customer has requested material non-standard terms that are not generally accepted, please follow the [Escalation Process Overview](https://drive.google.com/drive/folders/19ZHBpaRmmFJNG2BTp-Q5zI20yzt_X0Yr). Included in the Overview are steps required to receive approval and complete applicable Escalation Form(s) _Note This document is only available for GitLab Team Members._ 
+In instances where a Customer or a Partner has requested material non-standard terms that are not generally accepted, and where the transaction may merit additional consideration, please follow the [Escalation Process Overview](https://drive.google.com/drive/folders/19ZHBpaRmmFJNG2BTp-Q5zI20yzt_X0Yr). Included in the Overview are the steps required to meet threshold requirements, ensure the matter receives the appropriate level of review, and provide guidance to complete the applicable Escalation Form(s) _Note This document is only available for GitLab Team Members._ 
 
 
 
