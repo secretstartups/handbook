@@ -109,13 +109,15 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 #### Logistics
 
 1. You can invite someone within your team to give the update. It doesn't need to be the team lead, but the team lead is responsible for making sure that it is given.
-1. The host of the GC needs to make sure to add the link of the presentation to the Group Conversation Agenda Document invite at least 24 hours _before_ the call takes place. This allows team members to see the presentation, to click links, have [random access](https://twitter.com/paulg/status/838301787086008320) during the presentation, and to quickly scan the presentation if they missed it. Please also add who the speaker will be to the presentation and the invite. The EBA Team will ping the appropriate team member at the 24-hour mark if the event hasn't been updated yet.
-1. Post links to the Key Review video (if applicable), Key Review Notes (if applicable), Group Conversation Agenda Document and the slides or video in the #whats-happening-at-gitlab channel 24 hours before the call.
-1. Consider blocking off the 30 minutes before your scheduled to lead a Group Conversation
+1. The host of the GC needs to make sure to add the link of the presentation and the Group Conversation presentation video to the Group Conversation Agenda Document invite at least 72 hours _before_ the call takes place. This allows team members to see the presentation, to click links, have [random access](https://twitter.com/paulg/status/838301787086008320) during the presentation, and to quickly scan the presentation if they missed it. Please also add who the speaker will be to the presentation and the invite. The EBA Team will ping the appropriate team member at the 72-hour mark if the event hasn't been updated yet.
+1. Post links to the Key Review video (if applicable), Key Review Notes (if applicable), Group Conversation Agenda Document, the slides, and the Group Conversation presentation video in the #whats-happening-at-gitlab channel 72 hours before the call.
+1. Consider blocking off the 30 minutes before you are scheduled to lead a Group Conversation.
 
 #### Presentation
 
-Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. Functions with Key Reviews should not create a new deck for a Group Conversation but should use their [Key Review deck](/handbook/key-review/#group-conversations-and-key-review-metrics) for the Group Conversation.
+Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You should also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) to walk through the 1-3 topics or highlights that are most relevant cross-functionally. 
+
+Functions with Key Reviews should not create a new deck for a Group Conversation but should use their [Key Review deck](/handbook/key-review/#group-conversations-and-key-review-metrics) for the Group Conversation.
 
 **Please remember that you should NOT present during a Group Conversation.** Synchronous calls are for conversation and discussion. It is the responsibility of the attendees to prepare questions before the call to maximize value of time spent synchronously. If someone does start to present the slides in the group conversation everyone is encouraged to say: 'At GitLab we use meetings for conversation and not presentation, but please do consider recording a video for next time.' Expect to be interrupted if presenting more than a 15 second welcome statement.
 
@@ -128,9 +130,9 @@ There are three layers of content in a presentation:
 Best practices for presentations: 
 1. Save time and ensure asynchronous communication by writing information on the slides. Many people will not be able to participate in Group Conversations, either live or recorded, but can read through the slides.
 1. Slides with a lot of text that can be read on their own with lots of links are appreciated.
-1. If you want to present, please consider [posting a recording to YouTube](/handbook/marketing/marketing-operations/youtube/) at least a day before the meeting. Link it to the Google Doc (including specifying whether the video is private or public), and mention it in the relevant slack channels.
+1. Please [post a recording of your presentation to YouTube](/handbook/marketing/marketing-operations/youtube/) at least 72 hours before the meeting. Link it to the Google Doc (including specifying whether the video is private or public), and mention it in the relevant slack channels.
 1. Once a quarter, add a slide covering items being actioned from the engagement survey.
-1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as template to your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab so [everyone can contribute](/company/strategy/#why).
+1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as the template for your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab so that [everyone can contribute](/company/strategy/#why).
 1. We encourage you to share metrics and key results during your Group Conversation. Please do not use cumulative metrics in your Group Conversations since those will usually show an upward trend and make it difficult to assess current performance. It is more appropriate to share cumulative metrics externally. See [#8 of the general presentation suggestions](/handbook/communication/#presentations) for more information about cumulative metrics.
 
 For more general presentation best practices, please see our communication handbook's [Presentation section](/handbook/communication/#presentations). 
@@ -150,10 +152,10 @@ These should be called Fill-In AMAs so it's clear to team members that the AMA w
 
 [Groups](/handbook/key-review/#invitees) that also have [Key Reviews](/handbook/key-review/) should repurpose material created for their last Key Review in the Group Conversation immediately following the Key Review. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. Groups with [Key Reviews](/handbook/key-review/) will have a monthly GC.
 
-### 24 Hours Before the Call
+### 72 Hours Before the Call
 
-1. Ensure the slide deck, any handbook or document links, and the optional video are visible to all of GitLab
-1. Post in #whats-happening-at-gitlab on Slack if there is a video for the group conversation that you'd like people to watch beforehand. Please @ mention `Christina Keelan Cottrell` when posting so she may schedule time for the CEO to watch the video ahead of the group conversation
+1. Ensure the slide deck, any handbook or document links, and the video are visible to all of GitLab.
+1. Post in #whats-happening-at-gitlab on Slack the video for the group conversation for people to watch beforehand. Please @ mention `Christina Keelan Cottrell` when posting so she may schedule time for the CEO to watch the video ahead of the group conversation.
 
 ### 30 Minutes Before the Call
 
@@ -196,7 +198,7 @@ Additional links which may be useful when preparing to moderate a call include:
 
 ### Prior to the Call
 
-1. Ping the [DRI](/handbook/group-conversations/#schedule--dri) of the Group Conversation you will be moderating in the `#group-conversations` Slack channel at least 24 hours prior to confirm whether they will be hosting or have nominated another team member to do so.
+1. Ping the [DRI](/handbook/group-conversations/#schedule--dri) of the Group Conversation you will be moderating in the `#group-conversations` Slack channel at least 72 hours prior to confirm whether they will be hosting or have nominated another team member to do so.
 1. If the host for the particular Group Conversation you are moderating has not hosted a call of this nature before, be sure to assign a [Group Conversation Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md) to them to support their preparation for the call.
 1. Be sure to confirm ahead of time whether this will be a [Public or Private Stream](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#never-call-it-a-livestream-or-just-a-recording) as you will need to mention this at the beginning of the call.
 1. Review the `Group Conversation Agenda` to ensure there are 15 numbered lines below the Date; Topic; Host Name; and Slide Deck Link - this is where team members will be able to insert any questions they may have for the host.
