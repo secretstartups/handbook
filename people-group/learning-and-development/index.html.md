@@ -113,16 +113,9 @@ All material in the handbook is considered training. The Learning & Development 
 
 <div class="flex-row" markdown="0">
   <div>
-    <h3>Learning Initiatives</h3>
-    <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
-  </div>
-  <div>
-    <h3>Growth and Development Benefit</h3>
-    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
-  </div>
-   <div>
-    <h3>Career Development and Mobility</h3>
-    <a href="/handbook/people-group/learning-and-development/career-development/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+    <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:170px;margin:5px;">Learning Initiatives </a>
+    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/" class="btn btn-purple" style="width:170px;margin:5px;">Growth & Development Benefit</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/" class="btn btn-purple" style="width:170px;margin:5px;">Career Development & Mobility</a>
   </div>
 </div>
 
