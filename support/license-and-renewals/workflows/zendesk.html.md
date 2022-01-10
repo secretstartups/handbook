@@ -17,7 +17,7 @@ This page outlines workflows relevant to folks using the `L&R` form in Zendesk.
 
 ### Assignment and hot queue model
 
-We accept that tickets in the L&R queue may require a different approach than tickets in other queues. Acknowledging and drawing inspiration from the [existing Working on Tickets workflow](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html), we have opted to adopt a "hybrid model". The hybrid model has an emphasis on assignment of tickets, while also allowing a "hot queue" (i.e taking the next-to-breach ticket from the top of the queue) methodology.
+We accept that tickets in the L&R queue may require a different approach than tickets in other queues. Acknowledging and drawing inspiration from the [existing Working on Tickets workflow](/handbook/support/workflows/working-on-tickets.html), we have opted to adopt a "hybrid model". The hybrid model has an emphasis on assignment of tickets, while also allowing a "hot queue" (i.e taking the next-to-breach ticket from the top of the queue) methodology.
 
 ### The workflow
 
@@ -49,8 +49,8 @@ Please also see the table below as a guideline on what `Transaction issue type` 
 | Transaction issue type | Sub-type | Scenario
 | ---- | ----- | ----- |
 | Billing & Payment (refunds, cancellations, payment questions) |  | Requests for refunds or cancellations + questions about payment and billing |
-| EDU/OSS/Startups | EDU account inquiries | Requests/inquiries for the Education team. Follow [workflow](https://about.gitlab.com/handbook/support/workflows/special-programs.html) |
-| EDU/OSS/Startups | OSS account inquiries | Requests/inquiries for the OSS team. Follow [workflow](https://about.gitlab.com/handbook/support/workflows/special-programs.html) |
+| EDU/OSS/Startups | EDU account inquiries | Requests/inquiries for the Education team. Follow [workflow](/handbook/support/workflows/special-programs.html) |
+| EDU/OSS/Startups | OSS account inquiries | Requests/inquiries for the OSS team. Follow [workflow](/handbook/support/workflows/special-programs.html) |
 | Sales-assistance required | Alternate payment method (Wire Transfer) | Customer wants to pay via wire transfer |
 | Sales-assistance required | Order form / PO | Customer wants to pay via Order form or purchase order | 
 | Sales-assistance required | Reseller | Request is from a reseller or reseller customer |
@@ -70,7 +70,7 @@ Please also see the table below as a guideline on what `Transaction issue type` 
 | License troubleshooting (SM only) | Multi-year license| Self-managed license is a multi-year license |
 | License troubleshooting (SM only) | Not received | Self-managed license was not received by the requestor |
 | License troubleshooting (SM only) | Other | Self-managed license issue is caused by another reason not listed |
-| Associate namespace (Gitlab.com only) | | Use when we have to help with [provisioning of gitlab.com subscription](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/subscription_provisioning.html) | 
+| Associate namespace (Gitlab.com only) | | Use when we have to help with [provisioning of gitlab.com subscription](/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html) | 
 | Account management (reset password, update details) |  | Account-related requests or questions like how to get into an account or update the payment method |
 | Contact management |  | Requests or questions about changing the contact for an account or namespace |
 | End of Availability (EOA) | | Any questions or requests relating to the end of the Bronze/Starter tier and the offers for the [new subscription model](https://about.gitlab.com/pricing/faq-new-product-subscription-tiers/) |

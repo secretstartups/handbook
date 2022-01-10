@@ -34,6 +34,6 @@ When a bug is resolved or a feature has been implemented, you can:
 
 The [Support Priority label](https://gitlab.com/gitlab-org/gitlab/-/labels?utf8=%E2%9C%93&subscribed=&search=support+priority) is available to use in the [GitLab project](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name[]=Support%20Priority). Issues with this label indicate the to the Product Manager, that the issue is important for the Support team. Good candidates for the label are issues that will reduce ticket volume when implemented or issues that will greatly improve efficiency for the Support team.
 
-Before applying the label to an issue, consider the [severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) the issue might have (useful if issue is a bug) or how many customers will benefit from the feature.
+Before applying the label to an issue, consider the [severity](/handbook/engineering/quality/issue-triage/#severity) the issue might have (useful if issue is a bug) or how many customers will benefit from the feature.
 
 Product Managers should be actively looking at and prioritising issues with the Support Priority label. If you're unsure about adding the label, please check in with your fellow team members before applying the label.

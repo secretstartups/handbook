@@ -11,7 +11,7 @@ description: How to manage plan/license escalations
 
 ### How to manage plan/license related escalations
 
-Any escalation during your [manager on-call shift](https://about.gitlab.com/handbook/support/workflows/support_manager-on-call.html) can be evaluated using the following diagram.
+Any escalation during your [manager on-call shift](/handbook/support/workflows/support_manager-on-call.html) can be evaluated using the following diagram.
 
 ### Edge cases
 

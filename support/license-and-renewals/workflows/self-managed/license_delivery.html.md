@@ -13,7 +13,7 @@ category: GitLab Self-Managed licenses
 
 The support team is responsible for generating licenses when the automated systems are unable to do so or an error is made. This is done via [CustomerDot](https://customers.gitlab.com/admin) and the `Licenses` section.
 
-Generating a license may originate from an [internal request](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_internal_requests.html) or may be a required action to help move a support ticket forward.
+Generating a license may originate from an [internal request](/handbook/support/license-and-renewals/workflows/working_internal_requests.html) or may be a required action to help move a support ticket forward.
 
 
 In both cases the license will be emailed to the customer directly after creation. Unless the circumstances require, we should not send the licenses to any GitLab employee. Exceptions may include air-gapped installs or other situations where the customer cannot receive the license via the email. 
@@ -26,7 +26,7 @@ There is often confusion about the email address that the license will be delive
 
 The license will send to the sold-to contact (in Zuora) with the initial sale. All subsequent licenses will go to the contact in the CustomersDot customer record associated with the subscription. So if the customer changed the email in CustomerDot, subsequent licenses will go to that email address.
 
-In the event of two CustomerDot accounts associated with the same subscription, the system will try to find the customer record in CustomerDot based on two fields from the Zuora Account: sold to contact email and zuora account id. For the person who's CustomerDot email address matches the Sold to contact email address, the license will be sent to them. A [Zuora Sold to contact change](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#zuora-contact-change), together with updating the CustomersDot email address to match, will ensure a new contact gets future licenses delivered to them.
+In the event of two CustomerDot accounts associated with the same subscription, the system will try to find the customer record in CustomerDot based on two fields from the Zuora Account: sold to contact email and zuora account id. For the person who's CustomerDot email address matches the Sold to contact email address, the license will be sent to them. A [Zuora Sold to contact change](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#zuora-contact-change), together with updating the CustomersDot email address to match, will ensure a new contact gets future licenses delivered to them.
 
 If neither CustomerDot email addresses match the Sold to contact email address, the account ID is used in the lookup. It’s important to note that when querying by Zuora Account ID we aren't specifying an order to the SQL query, hence we don’t have any guarantee about the order in which the record will be returned (i.e the license could be sent to either email address).
 

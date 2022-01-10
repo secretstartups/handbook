@@ -35,7 +35,7 @@ To transfer CI minutes from a user's personal namespace to a group namespace, us
 **If the Mechanizer does not work**, you will need to request a refund for the customer.  In this case:
 - Confirm that the CI minutes *are* associated with the user's personal namespace.
 - Verify that the CI minutes associated with the personal namespace have not been consumed. You can check this under Usage Quotas in the users personal profile.  Note: If CI minutes are assigned to a personal namespace with no project or pipeline, this page will show `0/Not supported minutes has been consumed.`
-    - **If they have not been consumed**, inform the customer that they've selected their personal namespace instead of their group when they purchased the CI minutes and pass the ticket to the [billing team](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#refunds) to process the refund. The customer can then repurchase the CI minutes for their group.
+    - **If they have not been consumed**, inform the customer that they've selected their personal namespace instead of their group when they purchased the CI minutes and pass the ticket to the [billing team](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#refunds) to process the refund. The customer can then repurchase the CI minutes for their group.
     - **If they have been consumed**, the customer is not eligible for a refund - inform the customer that they are already using the purchased CI minutes, and redirect the customer to purchase a new CI minutes pack corresponding to their group.
 
 ## GitLab.com group is not visible during the purchase

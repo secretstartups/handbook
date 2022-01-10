@@ -12,7 +12,7 @@ description: Describes how to service NFR license/trial request
 
 ## Overview
 
-[NFR (Not For Resale)](https://about.gitlab.com/handbook/resellers/#nfr-programpolicy) license requests are common in [internal reqeust issue tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues). Currently, an official way to deal with the NFR request hasn't been established yet. Please follow the following discussion for latest update:
+[NFR (Not For Resale)](/handbook/resellers/#nfr-programpolicy) license requests are common in [internal reqeust issue tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues). Currently, an official way to deal with the NFR request hasn't been established yet. Please follow the following discussion for latest update:
 
 - [[L&R] Generating NFR licenses](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3336)
 - [Help Setting Up Criteria for GitLab.com 1 year NFR trial requests for Channel Partners](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3769)
