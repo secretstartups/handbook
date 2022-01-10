@@ -53,7 +53,7 @@ If you believe you need to request reasonable accomodations to succeed at GitLab
 
 #### Informal disclosure of your disability, or simply notifying your team or manager
 
-If you do not believe you need to request reasonable accomodations and you are just looking to update your manager or your team, you can do so freely when you feel is right. So a 1:1 with your manager would be a good place to start, so that if and when you choose to share with other team members, your manager has already been briefed.
+If you do not believe you need to request reasonable accommodations and you are just looking to update your manager or your team, you can do so freely when you feel is right. A 1:1 with your manager would be a good place to start so that if and when you choose to share with other team members, your manager has already been briefed.
 
 ### Not sure about disclosure? The DiversABILITY TMRG is here to listen and guide (if you want)
 
