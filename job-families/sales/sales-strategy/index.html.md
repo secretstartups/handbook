@@ -143,6 +143,21 @@ The Vice President, Sales Strategy is a [grade 12](/handbook/total-rewards/compe
 * Partner with CRO CoS to evolve the framework and structure for critical sales leadership meetings and OKRs 
 * Partner with CEO CoS on strategic initiatives and ensure prioritization alignment across all GTM Teams 
 
+#### Vice President, Sales Strategy Requirements
+
+* Extends that of the Senior Director, Sales Strategy requirements
+* Expert hiring manager skills and experience
+* Experience managing managers, senior managers, or directors
+* Demonstrated progressive experience in a global SAAS sales or strategy environment
+* Demonstrated passion for information and business intelligence; thorough understanding of sales strategies and analytics
+* Strong ability to interact and influence effectively with all C-level executives and team members
+* Be able to represent organizational initiatives in place of the CRO
+* Exceptional written/verbal communication and presentation skills
+* Ability to work independently with a high degree of accountability, while also able to collaborate cross-functionally with exceptional intrapersonal skills
+Proven ability to thrive in a fluid, fast-paced, unpredictable environment.
+* Unquestionable ethics, integrity and business judgment; you share our values, and work in accordance with those values.
+
+
 ## Specialties
 
 ### Channel
