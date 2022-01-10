@@ -191,6 +191,54 @@ Below are some guidlines to follow when building marts:
 1. Following the naming convention for fact and dimension tables, all marts should start with the prefix `mart_`.
 1. Marts should not be built on top of other marts and should be built using FCT and DIM tables. 
 
+## Slowly Changing Dimensions & Snapshots
+
+In broad, generalized terms, there are two perspectives used when analysing data: the current view and the historical view.  When using the current view, an analyst uses the most up-to-date values for dimensions to slice facts, regardless of what these values may have been in the past. However, sometimes it is necessary to look at the world the way it was in a prior period, when the values in a dimension were different. For example, you may want to look at sales numbers using a prior product catalog or calculate the number of customers in a given country over time, allowing customers who change addresses periodically. 
+
+We use three types of dimensions to cover both the current and historical view of the data. For a current view, a Type 1 dimension will have the up-to-date values for each attribute. For this historical analysis, a Type 2 slowly changing dimension (SCD) can track infrequent changes to a dimension's attributes and capture the period when these values were valid. A third type of dimension can be used to provide an alterative view. This could be used when a product in the catalog could fall into two categories, and the analyst would like to see the data from both perspectives separately. We do not currently employ this Type 3 dimension in the Enterprise Dimensional Model.
+
+For more information about the three types of dimensions:
+1. [Type 1](https://www.kimballgroup.com/2008/08/slowly-changing-dimensions/): Dimension values are overwritten when they are updated. This provides a current-state view of the data with no historical context.
+1. [Type 2](https://www.kimballgroup.com/2008/09/slowly-changing-dimensions-part-2/): Dimension values are added as they are updated. Dates (`valid_from` and `valid_to`) are associated with each record in the dimension to indicate when the value was actively used in the source data. Using these dates, we can look back to how the universe looked at a previous state in time. This is what we call a slowly changing dimension.
+1. [Type 3](https://www.kimballgroup.com/2008/09/slowly-changing-dimensions-part-2/): Dimension values are overwritten as in Type 1 slowly changing dimensions, but there is an additional field for an `Alternate Category` which can allow users to slice the data by an alternative version of a dimension. This type of dimension in not currently used in the Enterprise Dimensional Model.
+
+Slowly changing dimensions are useful when coupled with snapshot tables. A snapshot table shows the history of an object, providing analysts with a timeline of the modifications made to the object from its creation to the present day. As an example, an analyst might want to track an opportunity from the day it was created, through each of its states, and see what state it is in today. In another handbook page, we have described how to [create snapshots in dbt](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#snapshots). The end result of this process is a model which has a format similar to the below example:
+
+| id | attribute | valid_from_date | valid_to_date|
+| --- | --- | --- | --- |
+| 1 | 'open' | 2022-01-01 | 2021-01-02 |
+| 1 | 'validating' | 2022-01-02 | 2022-01-02 |
+| 1 | 'approved' | 2022-01-02 | 2022-01-03 |
+| 1 | 'closed' | 2022-01-03 | 2022-01-05 |
+| 1 | 'approved' | 2022-01-05 |  |
+| 2 | 'open' | 2022-01-01 | 2022-01-05 |
+| 2 | 'approved' | 2022-01-05 |  |
+
+**Tip**: It can be helpful to add a column with logic to indicate the most recent record in a slowly changing dimension.
+
+For performance reasons, it is helpful to keep the slowly changing dimension at this grain for as long as possible. That being said, it is often easier for users to understand a slowly changing dimension when it is [blown up to a daily snapshot view](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#building-models-on-top-of-snapshots). The example above is transformed into the table below:
+
+| id | attribute | date|
+| --- | --- | --- |
+| 1 | 'open' | 2022-01-01 |
+| 1 | 'validating' | 2022-01-02 | 
+| 1 | 'approved' | 2022-01-02 | 
+| 1 | 'approved' | 2022-01-03 |
+| 1 | 'closed' | 2022-01-03 |
+| 1 | 'closed' | 2022-01-04 |
+| 1 | 'closed' | 2022-01-05 |
+| 1 | 'approved' | 2022-01-05 |
+| 1 | 'approved' | repeat until today's date|
+| 2 | 'open' | 2022-01-01 |
+| 2 | 'open' | 2022-01-02 |
+| 2 | 'open' | 2022-01-03 |
+| 2 | 'open' | 2022-01-04 |
+| 2 | 'open' | 2022-01-05 |
+| 2 | 'approved' | 2022-01-05 |
+| 2 | 'approved' | repeat until today's date |
+
+In the Enterprise Dimensional Model, we introduce the daily grain in the `COMMON` schema so the snapshot models are available in our reporting tool. Snapshot models should end with the suffic `_snapshot`.
+
 ## Useful links and resources
 
 - [dbt Discourse about Kimball dimensional modelling](https://discourse.getdbt.com/t/is-kimball-dimensional-modeling-still-relevant-in-a-modern-data-warehouse/225/6) in modern data warehouses including some important ideas why we should still use Kimball
