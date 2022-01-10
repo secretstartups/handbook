@@ -50,16 +50,18 @@ Form documentation can be found [here](https://docs.google.com/spreadsheets/d/1c
 If you require a new language or need a new form, please gather the [translations](/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). Due to resource constraints, we are only creating new forms for [P0 countries](https://about.gitlab.com/handbook/marketing/localization/#priority-countries).
 
 All forms should follow these guidelines:  
+- Do not use lightboxes
 - Field labels are always ALL CAPS
 - Label width = 150 / Field width = 300
 - Fields should be stacked in a vertical line
+- `Country` field label should be `Country/Region`
 - `State/Province` only visible when `Country` = `United States` or `Canada`; the visibility rule dynamically displays `Province` when `Canada` is selected or `State` when `United States` is selected 
 - Generally `City` is only visible when `Country` = `Ukraine`
 - Forms should all contain a checkbox to obtain consent to `opting in` to communications via email
 - When `Country` = `Ukraine` there is an additional checkbox for the submitter to confirm they do not belong to the Crimean region of the Ukraine
-- Country should not include [embargoed countries ](/handbook/business-ops/trade-compliance/) 
+- Country should not include [embargoed countries](/handbook/business-ops/trade-compliance/) 
 - All forms should have hidden fields for Demandbase, gclid and google analytics tracking
-- Do not use lightboxes
+
 
 If you are collecting home addresses for direct mail campaigns, you must include the following language on the landing page or form. Additionally, you must set up a deletion campaign in Marketo to remove their address information once you have sent the item. Please also ensure the vendor we are using to ship the items also deletes this from their records. `By giving us your home address, you are giving us permission to mail items to your home. We will not use this data for any other purposes.`
 
