@@ -121,7 +121,9 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 
 #### Presentation
 
-Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) to walk through the 1-3 topics or highlights that are most relevant cross-functionally (optional, but recommended). 
+Use presentations to document everything people should know about your group. We suggest that the slides start with the top 1-3 highlights or top of mind updates that are relevant across functions, followed by additional information. These presentations are for attendees to review and generate questions from for the call, and attendees will often have [low context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication) around your function or team. 
+
+ou can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. 
 
 Functions with Key Reviews should not create a new deck for a Group Conversation but should use their [Key Review deck](/handbook/key-review/#group-conversations-and-key-review-metrics) for the Group Conversation.
 
@@ -135,6 +137,7 @@ There are three layers of content in a presentation:
 
 Best practices for presentations: 
 1. Save time and ensure asynchronous communication by writing information on the slides. Many people will not be able to participate in Group Conversations, either live or recorded, but can read through the slides.
+1. To better engage team members outside of your team or function, presentations should ideally assume [low context](/company/culture/all-remote/effective-communication/#understanding-low-context-communication).
 1. Slides with a lot of text that can be read on their own with lots of links are appreciated.
 1. If you want to present, please consider [posting a recording to YouTube](/handbook/marketing/marketing-operations/youtube/) at least 72 hours before the meeting. Link it to the Google Doc (including specifying whether the video is private or public), and mention it in the relevant slack channels.
 1. Once a quarter, add a slide covering items being actioned from the engagement survey.
