@@ -17,7 +17,7 @@ GitLab believes that [everyone can contribute](/company/mission/){:data-ga-name=
 
 ## Purpose
 
-GitLab **empowers** everyone through knowledge access, job access, and the DevOps platform.
+GitLab increases lifetime earning potential through knowledge access, job access, and the DevOps platform.
 
 ## Identifying GitLab's Purpose
 
@@ -114,7 +114,7 @@ The DevOps Platform brings together developers, operations and security professi
 1. Make GitLab easier to use, higher [System Usability Scale (SUS)](/handbook/engineering/ux/performance-indicators/system-usability-scale/) score
 1. Visibility into DevOps success
 
-## Puropose Resources 
+## Purpose Resources 
 
 Additional Purposes resources: 
 1. [Creating a Meaningful Corporate Purpose](https://docs.google.com/document/d/1mXYu-Wf5lzcRC7yknSKCKpdgXx3DEO-E/edit)
