@@ -75,7 +75,7 @@ At GitLab, we practice [dogfooding](/handbook/values/#dogfooding). Our entire co
 
 For technical onboarding, give new hires access to the tools they'll be using in their roles and, most importantly, encourage them to use the tools as early as possible. Using tools, even for very small tasks, builds confidence and helps new employees to feel productive and empowered.
 
-* Common issues
+### Common issues
 
 All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md) which is owned by the [People Experience Team](/job-families/people-ops/people-experience-associate/). The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning) and created to be an [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) experience to aid settling into the remote life at GitLab.
 
