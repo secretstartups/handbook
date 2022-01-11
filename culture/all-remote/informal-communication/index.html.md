@@ -19,9 +19,34 @@ twitter_creator: "@gitlab"
 
 On this page, we're detailing how informal communication occurs at GitLab, how it complements [in-person interactions](/company/culture/all-remote/in-person/), and why it matters in an all-remote [culture](/company/culture/#culture-at-gitlab). There are over 20 different ways to foster informal communication below, and we are constantly discovering and adding new methods.
 
+## What do we mean by **informal communication**?
+
+Informal communication in the workplace is made up of interactions between co-workers that is unofficial in nature and focuses on building social relationships outside of the normal hierarchy of a typical business structure.
+
+In other words, it's what happens when we get to know each other and talk about anything *other* than work.
+
+Talking about the weather; sharing photos of pets, favorite foods or holidays; sending a birthday greeting or encouraging message; banter, chit-chat, and having a laugh - it's all part of [bringing our full selves to work](/company/culture/inclusion/).
+
+## What is the difference between formal and informal communication in the workplace?
+
+Since GitLab is an all-remote organization that [works asynchronously](/company/culture/all-remote/asynchronous/), nearly all work communication is [documented](/handbook/documentation/), making all work-related communications "formal" communications. This helps support our value of [transparency](handbook/values/#transparency).
+
+We are big on relationship-buiding. We highly value intentionally creating time to build relationships via informal communications. 
+
+## Why is informal communication so important in a remote work setting?
+
+All-remote workers who are all-work all the time risk [loneliness](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/) or [burnout](/company/culture/all-remote/mental-health/). One of the best ways to combat loneliness and burnout are through relationship-building by prioritizing regular social interactions via informal communication throughout the workday, week, and month. 
+
+## Informal communication advantages and disadvantages
+
+While some people thrive on spending time to get to know others, others are annoyed by non-work-related texts and messages. Informal communication among diverse team members requires a high level of [empathy](/company/culture/all-remote/being-a-great-remote-manager/#empathy). 
+
+It's helpful to be transparent about your communication preferences so managers and teammates can know and respect your boundaries.
+
 ## Formally design informal communications
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">When working remote it is important to formalize informal communication. Explicitly plan time to create, build, and maintain social connections and trust. In our handbook we list 15 methods <a href="https://t.co/OAYB1uKX3r">https://t.co/OAYB1uKX3r</a> which I&#39;ll summarize in this thread.</p>&mdash; Sid Sijbrandij (@sytses) <a href="https://twitter.com/sytses/status/1250946875143815168?ref_src=twsrc%5Etfw">April 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Organize informal communication
 
 Informal team member communications, such as a chat about life outside of work, are necessary for building trust. Trust is essential for great business results and is a [foundational element of culture](/company/culture/#culture-at-gitlab). Many businesses invest heavily in offices and facilities, because they believe offices are necessary for informal communication.
@@ -109,6 +134,11 @@ Below are a number of intentional facets of [GitLab's culture](/company/culture/
 1. Music making: GitLab's `#music_making` Slack channel is a place where artists can come together and collaborate synchronously or asynchronously to make music together. Several GitLab team members came together to create [All I Want This Quarter Is You (GitLab)](https://youtu.be/9kTwqsW8I68), a musical masterpiece on the GitLab Unfiltered YouTube channel.
 
 >  **"I’ve been given a tour of team members’ new houses, admired their Christmas decorations, squealed when their pets and kids make an appearance and watched them preparing dinner – glimpses into the personal lives of my colleagues that I’ve never had in any office job."** - [Rebecca](https://about.gitlab.com/company/team/#rebecca), Managing Editor, GitLab
+
+
+## How can informal communication be improved?
+
+In addition to all the ideas above, we've curated best practices for how to improve informal communication both as an individual and as a team. 
 
 ## Creating room for human connection on calls
 
