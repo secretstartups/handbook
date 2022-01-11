@@ -30,17 +30,25 @@ Please remember to mention the environment, if its for dev, test or prod.
 ### Getting Started with Workato
 Once the AR is approved and closed, you'll see the Workato app in your Okta home page. _Please refresh the Okta home page, in case you cannot find the app_. There're 3 Workato apps in Okta for each of the environment, based on your request, you'll see those ones in Okta.
 
+<details><summary>Click to view the screenshots</summary>
+
 On clicking the app, you'll land up in the Workato home page. Click on anyone of the project plate, and you're good to start creating or editing recipes.
 
 ![workato landing page](./workato%20landing%20page.png/)
 
 ![left panel](./left%20panel%20details.png/)
 
+</details>
+
+
+
 
 ### Workato Ramp-up programs
 There are number of trainings available in Workato Automation Institution and various levels - Beginner, Intermediate and Advanced.  Based on your requirements you can opt for any of them. Please note, sll the courses are available in self learning and instructor-led mode and require you to have login in Workato to avail for them.
 
 Here're are some of the course we recommend to get started with Workato:
+
+<details><summary>Click to expand</summary>
 
 _Beginner level_: [Automation Pro I On Demand training](https://academy.workato.com/automation-pro-i-on-demand)
 
@@ -71,9 +79,16 @@ Course helps you to understand:
 - CI/CD Automation
 - Hands on exercises.
 
+</details>
+
+
 
 ### Best Practices in Workato
-While using Workato for building recipes, here are some best practices that would help you manage and track your work items easily. These are some of the basic points to keep in mind, espically if you're new to Workato. For more detailed information please visit the [Workato page](https://support.workato.com/en/support/solutions/folders/1000210065)
+
+While using Workato for building recipes, here are some basic best practices that would help you manage and track your work items easily. These are some of the basic points to keep in mind, espically if you're new to Workato. For more detailed information please visit the [Workato page](https://support.workato.com/en/support/solutions/folders/1000210065)
+
+<details><summary>Click to expand</summary>
+
 
 1. #### Which org to use?: 
 Always create your folders, connections and recipes in dev org first. Once tested move your code to higher orgs - test and prod using Workato's Recipe lifecycle management tool.
@@ -88,5 +103,15 @@ It's best to create a playground folder in the project followed by a folder of y
 
 4. #### Adding desciptions and comments:
 Use in-step comments to add one-liner desciption to your steps to the recipe reaable and understandable. Please refer the video on how to set the comments 
+
+5. #### Setting up and managing App Connections:
+   1. Naming the connection: Use meaningful names for connectors. Like instead of using Google Connection 1, Google Connection 2 use <your name> Google Proc Account and <your name> Google Test Account.
+   2. Where to create the connectors? If you create the connection in `Projects > Home asstes` anyone in the org can use them in their recipes. If you want your connection to be accessible only to you and your team, create them in your `Projects > Folder`.
+   3. Avoid creating multiple connections with the same credentials. This too can be confusing, and when you are creating a recipe and linking it to a connection you are not sure if it is the right one you are connected to.
+
+</details>
+
+
+### Workato Champion Program
 
 
