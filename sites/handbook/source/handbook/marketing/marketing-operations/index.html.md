@@ -76,7 +76,17 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 
 **Salesforce**
 
-We are working on a Salesforce chatter handle to support Marketing team requests. More info to come.
+The Marketing Operations team has created the '@mktgops-support' Chatter in Salesforce to help you make changes or manage Lead objects in Salesforce. Use the '@mktgops-support' Chatter for support with:
+
+Assigning/re-assigning leads to a new owner
+
+Merging duplicate leads
+
+Investigating routing logic
+
+Requesting additional lead support from the Marketing Operations team
+
+Please refrain from mention individual Marketing Ops team members when using this Chatter. Thank you!
 
 **Emergency Comms and Pager Duty**
 
