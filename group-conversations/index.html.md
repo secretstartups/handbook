@@ -109,8 +109,14 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 #### Logistics
 
 1. You can invite someone within your team to give the update. It doesn't need to be the team lead, but the team lead is responsible for making sure that it is given.
-1. The host of the GC or the EBA to the host needs to make sure to add the link of the presentation and the Group Conversation presentation video to the Group Conversation Agenda Document invite at least 72 hours _before_ the call takes place. This allows team members to see the presentation, to click links, have [random access](https://twitter.com/paulg/status/838301787086008320) during the presentation, and to quickly scan the presentation if they missed it. Please also add who the speaker will be to the presentation and the invite. The EBA Team will ping the appropriate team member at the 72-hour mark if the event hasn't been updated yet.
-1. Post links to the Key Review video (if applicable), Key Review Notes (if applicable), Group Conversation Agenda Document, the slides, and the Group Conversation presentation video in the #whats-happening-at-gitlab channel 72 hours before the call. We ask that this is done at least 72 hours ahead of the Group Conversation to ensure that team members around the world have an opportunity to review async and add their questions. 
+1. The host of the GC or the EBA to the host should update the [Group Conversation Agenda Document](https://docs.google.com/document/d/1zELoftrommhRdnEOAocE6jea6w7KngUDjTUQBlMCNAU/edit) with: 
+   1. Link of the Google Slides presentation (with edit or comment access to everyone at GitLab). 
+   1. Link to the video of their presentation on GitLab Unfiltered. 
+   1. The host's name
+   1. The streaming DRI
+   1. Link to the Key Review Agenda (if applicable) 
+1. The EBA team is responsible for pinging the appropriate team member 72 hours in advance if the document has not been updated by 8am US Pacific Time. 
+1. Post links to the Key Review video (if applicable), Key Review Notes (if applicable), Group Conversation Agenda Document, the presentation slides, and the Group Conversation presentation video in the #whats-happening-at-gitlab channel 72 hours before the call. We ask that this is done at least 72 hours ahead of the Group Conversation to ensure that team members around the world have an opportunity to review async and add their questions. 
 1. Consider blocking off the 30 minutes before you are scheduled to lead a Group Conversation to make sure you can join on time and test that everything is working appropriately to host and stream the Group Conversation. 
 
 #### Presentation
