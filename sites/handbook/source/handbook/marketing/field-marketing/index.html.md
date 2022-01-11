@@ -389,9 +389,18 @@ This section will continue to be fleshed out as we rollout to the global Field M
 
 The following is the process for when a Field Marketing issue moves from `mktg-status::plan` to `mktg-status::wip`.
 
-- FMM pings the FMC in the main Field Marketing issue and requests the FMC move the issue to WIP and keeps issue label `mktg-status::plan`. **Reminder:** Event Details and FMC Checklist must be filled out in full and line item complete in Allocadia to request moving an issue to WIP.
-- FMC reviews the Allocadia details panel for the tactic (category/sub-category/line item, depending on which will be utilized for creating the SFDC campaign) and makes any changes necessary
-- FMC confirms the campaign tag or Allocadia ID has been created
+## Items required by FMM to request moving an issue from Plan to WIP
+
+- Contract is fully executed (if applicable)
+- Event Details and FMC Checklist sections in the issue are updated and complete
+- Allocadia sub-category and line item detail panels are updated and complete
+
+## Moving from Plan to WIP
+
+- FMM pings the FMC in the main Field Marketing issue and requests the FMC move the issue to WIP (FMM keeps issue label `mktg-status::plan`)
+- FMC reviews the Allocadia sub-category and line item panel details for the tactic and makes any changes necessary
+- FMC requests the Allocadia line item ID for the tactic be added to Netsuite in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit#gid=518252060) (if not already completed during the contract process)
+- FMC adds the Allocadia line item ID and the campaign name to the event details section of the issue, where indicated, as well as checks off the box that the Allocadia ID has been created in Netsuite
 - FMC creates the epic and sub-issues utilizing [this list of epics](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)
 - FMC adds the event to the appropriate events calendar. All events should be added to the internal calendar.
 - FMC adds the event to the [GitLab Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents), if applicable (specified by the FMM in the FMC Checklist section of the issue) 
