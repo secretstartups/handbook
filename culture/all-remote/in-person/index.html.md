@@ -49,6 +49,17 @@ Remote meetings can be recorded, especially when key individuals aren't able to 
 
 If a live meeting is recorded and made available to others, many of the same benefits of remote meetings apply to in-person meetings as well. However, it's hard for technology to capture the non-verbals and cameraderie that inevitably happens in an in-person meeting that sometimes falls flat online. 
 
+## How to prepare for an in-person meeting
+
+In-person meeting prep is similar to getting ready for a [video call](/handbook/communication/#video-calls). In these situations, you should plan to:
+1. Start and end on time 
+1. Build in social interactions and plan to get to know the people in your group
+1. Have the meeting space prepared to support visual thinking and collaboration
+1. Plan to document the complex discussions that will happen as often an in-person meeting is required because of its need for immediate back and forth conversation
+1. Take notes to help retain and recall any important details
+1. Document by writing down notes and next steps into the proper directory (Google Drive, Salesforce, etc.)
+
+
 ## Meetups
 
 <!-- blank line -->
