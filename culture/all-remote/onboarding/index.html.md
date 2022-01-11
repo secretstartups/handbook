@@ -24,25 +24,23 @@ On this page, we're detailing how to successfully onboard new hires in a remote 
 Onboarding is the official process of integrating new team members into an organization. Remote onboarding is done via technology without any face-to-face interactions.
 
 ## How long should remote onboarding take?
-GitLab believes the onboarding process is [incredibly important](/company/culture/all-remote/onboarding/). We don't expect you to hit the ground running from day one.
+GitLab believes the onboarding process is incredibly important. We don't expect anyone to hit the ground running from day one.
 
-We anticipate the remote onboarding process to take at least two full weeks. In week three you will begin team specific onboarding and training. We encourage you to participate in your team's work in the first two weeks, but don't feel pressure to contribute heavily.
+We anticipate the remote onboarding process to take at least two full weeks, with the third week designated for team-specific onboarding and training. We encourage new team members to participate in their teams' work in the first two weeks, but without pressure to contribute heavily.
 
 ## What is an onboarding session?
-All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md). The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning)and as [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) as possible to aid acclimation into the remote life at GitLab.
+At GitLab, we like to do what we call ["dogfooding"](https://about.gitlab.com/handbook/values/#dogfooding) our own product. Hence onboarding tasks are completed in a [GitLab issue](https://docs.gitlab.com/ee/user/project/issues/).
 
-At GitLab we like to do what we call ["dogfooding"](https://about.gitlab.com/handbook/values/#dogfooding) our own product. Hence onboarding tasks are completed in a [GitLab issue](https://docs.gitlab.com/ee/user/project/issues/).
+All onboarding steps are found in an [onboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md), which contains a standardized set of tasks and steps that each new team member will complete. The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning)and as [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) as possible. This is intentional, in order to aid acclimation into the remote life at GitLab.
 
-The People Experience Associate assigned to a new team member's specific onboarding will [open](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#onboarding-issue-creation) the onboarding issue at least 4 days prior to the hire date.
-
-Through onboarding issues, you should gain access to our team member [baseline entitlements](/handbook/engineering/security/#baseline-role-based-entitlements-access-runbooks--issue-templates). On Day 2 of onboarding an [Access Request](/handbook/people-group/engineering/#access-request-issue-creation) will be generated, if a template has been created for the role. Access requests are owned by the IT team. If you have any access requests related questions, please reach out to #it-help in Slack.
+Read more about GitLab's all-remote [onboarding process](https://about.gitlab.com/handbook/people-group/general-onboarding/) in our handbook.
 
 ## How to manage onboarding new hires remotely
 
 Onboarding remotely should focus on [three key dimensions](https://hbr.org/2018/12/to-retain-new-hires-spend-more-time-onboarding-them): the organizational, the technical, and the social. By using this integrated approach, top companies enable their team members to stay and thrive in their roles. We'll show how you can focus on these three key dimensions of onboarding through an all-remote onboarding process.
 
 ### How to prepare for remote onboarding
-One way to begin creating social connections for new remote team members is to have them [added to a Slack channel](https://about.gitlab.com/handbook/people-group/people-experience-team/#onboarding-cohort-creation). This will be linked to the Donut Watercooler App, which prompts different questions for team members to answer on Tuesdays and Thursdays every week. These questions also help serve as an onboarding check-in. 
+One way to begin creating social connections for new remote team members is to have them [added to a chat channel](https://about.gitlab.com/handbook/people-group/people-experience-team/#onboarding-cohort-creation). GitLab's `#new_team_members` Slack channel is a place for people to introduce themselves with photos and information about themselves and their interests. 
 
 ### Organizational onboarding 
 
@@ -77,7 +75,11 @@ For technical onboarding, give new hires access to the tools they'll be using in
 
 ### Common issues
 
-All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md) which is owned by the [People Experience Team](/job-families/people-ops/people-experience-associate/). The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning) and created to be an [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) experience to aid settling into the remote life at GitLab.
+One of the biggest challenges that new team members may encounter when onboarding remotely is not knowing who to ask for help with technical issues or "newbie questions." Assigning an [onboarding buddy](/culture/all-remote/onboarding/#social-requirements-for-all-remote-onboarding) is an essential step so that team members always have a friendly face they can talk to.
+
+Onboarding remotely can also bring technical issues: everything from delayed equipment delivery, to trouble with account creation, to the need to rapidly acquire new technical skills. It's very important to ensure that your IT team has adequate resources to be able to support new team members during their first days and weeks on the job.
+
+Crucially, when there are issues with onboarding, new team members may not feel comfortable raising them. Close the loop by asking for regular feedback on the onboarding experience, and be sure to act on that feedback. Here's some of GitLab's recent [onboarding feedback](/handbook/people-group/general-onboarding/onboarding-feedback/).
 
 **Additional resources:**
 
@@ -121,46 +123,42 @@ When [hiring in an all-remote organization](/company/culture/all-remote/hiring/)
 
 ## Remote onboarding best practices
 
-* Outline work logistics and expectations
+* **Outline work logistics and expectations.**
 At GitLab, we believe the best way to operate is by [documenting](/company/culture/all-remote/management/#scaling-by-documenting) processes, guides, solutions, how-tos, and policies. Be sure to empower remote workers to  adopt [remote-first communication and workflow practices](/company/culture/all-remote/how-to-work-remote-first/).
 
-* Identify employee concerns and answer questions
+* **Identify employee concerns and answer questions.**
 GitLab is committed to [transparency](/handbook/values/#results). This value gives team members access to a great deal of visibility to what is going on throughout the organization. However, it does not negate the need to invite employees to ask questions.
 
-* Add some excitement
-In addition to the [increcible benefits of all-remote work](/company/culture/all-remote/benefits/), getting to network and interact with their team, whether remote or [in-person](/company/culture/all-remote/in-person/) is part of what makes work fun and exciting, especially in an all-remote [culture](/company/culture/). 
+* **Add some excitement.**
+In addition to the [incredible benefits of all-remote work](/company/culture/all-remote/benefits/), getting to network and interact with their team, whether remote or [in-person](/company/culture/all-remote/in-person/) is part of what makes work fun and exciting - especially in an all-remote [culture](/company/culture/). 
 
 Here's our list of more than 20 ways to participate in a happy, healthy [informal work culture](/company/culture/all-remote/informal-communication/). 
 
-* Schedule check-ins with new employees
-It's a good idea to schedule weekly [1-1 meetings](/handbook/leadership/1-1/) to field questions, ask about any challenges, or focus on areas to grow and build trust. Managers can supplement formal meetings with [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats) where no work is discussed, the goal is to simply listen, share, and have open conversations and nurture the social component of remote working. 
+* **Schedule check-ins with new employees.**
+It's a good idea to schedule weekly [1-1 meetings](/handbook/leadership/1-1/) to field questions, ask about any challenges, or focus on areas to grow and build trust. Managers can supplement formal meetings with [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats) where no work is discussed: the goal is to simply listen, share, and have open conversations and nurture the social component of remote working. 
 
 ## What are onboarding activities?
-At GitLab, [the first thirty days](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#the-first-thirty-days) consist of a series of tasks to be completed sequentially. A sample onboarding sequence might look like:
+At GitLab, [the first thirty days](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#the-first-thirty-days) consist of a series of tasks to be completed sequentially. A sample GitLab onboarding sequence might look like:
 
 * Day 1: [Getting Started: Accounts and Paperwork](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-1-getting-started-accounts-and-paperwork)
-* Day 2: [Morning: Remote Working and our Values](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-2-remote-working-and-our-values)
-* Day 3: [Morning: Security & Compliance](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-3-security-compliance)
-* Day 4: [Morning: Social & Benefits](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-4-social-benefits)
-* Day 5: [Morning: Git](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-5-git)
+* Day 2: [Remote Working and our Values](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-2-remote-working-and-our-values)
+* Day 3: [Security & Compliance](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-3-security-compliance)
+* Day 4: [Social & Benefits](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-4-social-benefits)
+* Day 5: [Git](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-5-git)
 * [Weeks 2 - 4: Explore](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#weeks-2-4-explore)
-* [Job Specific Tasks](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#job-specific-tasks)
+* [Week 3: Job Specific Tasks](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#job-specific-tasks)
 
 ## What do new hires want from an onboarding program?
 Onboarding is the first impression a new hire gets of your organization. It's critical to invest the time to do it well so that your new team members get to know you, understand what is expected of them, introduces them to co-workers and teammates, and sets them up to succeed. 
 
 At GitLab, we value documentation in a manner that creates a [single source of truth](/handbook/values/#single-source-of-truth). It operates [handbook-first](/handbook/handbook-usage/#why-handbook-first), and in valuing [transparency](/handbook/values/#transparency), makes its handbook [publicly accessible to all](/handbook/). 
 
-## The benefits of an onboarding buddy
-
-To help alleviate [anxiety from starting a new job](http://www.classycareergirl.com/2017/02/new-job-anxiety-conquer/), GitLab assigns onboarding buddies for new GitLab team members. To help new GitLab team-members who may not be used to our [all-remote](/company/culture/all-remote/) culture, the onboarding buddy is ready, willing, and excited to help a new team member acclimate, answer questions, or troubleshoot any challenges or problems along the way.
-
 ## Remote onboarding tips
 
 ### How is onboarding a remote employee different from an office employee?
 Because remote onboarding is mostly self-guided, the real-time face-to-face ability for them to ask questions does not exist. Knowing this, we've created some important reminders for onboarding remote employees such as:
 
-1. **Check how far the new GitLab team-member has gotten in their onboarding / career mobility issue.** The onboarding / career mobility issue that all new/transitioning GitLab team-members are assigned can be overwhelming at first glance, particularly on the first day of work. Proactively check in to offer some direction or advice on areas the team member may be having trouble with.
+1. **Check how far the new GitLab team member has gotten in their onboarding / career mobility issue.** The onboarding / career mobility issue that all new/transitioning GitLab team members are assigned can be overwhelming at first glance, particularly on the first day of work. Proactively check in to offer some direction or advice on areas the team member may be having trouble with.
 1. **Suggest helpful handbook pages.** Chances are that you've discovered some particularly helpful pages in the handbook during your time at GitLab. Point them out to the new GitLab team-member, and help them get used to navigating the handbook. Some examples might include:
     - [GitLab's guide for starting a remote role](/company/culture/all-remote/getting-started/)
     - [The tools page](/handbook/tools-and-tips)
