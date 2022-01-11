@@ -108,7 +108,7 @@ Everyone at GitLab can follow these key practices to create and continue the cul
 
 These are specific practices and actions for leaders and future leaders. While nurturing and cultivating psychological safety is everyone's job, leaders are in a unique position and have a disproportionate effect on this.
 
-- **Foster a pro diversity mindset and build diverse teams:** Try not to build teams where all members look and act the same. Leverage your power to hire and promote from URGs, regions, and skills while still ensuring this is based on merit.
+- **Foster a pro diversity mindset and build diverse teams:** Try not to build teams where all members look and act the same. Leverage your power to hire and promote from underrepresented groups (URGs), regions, and skills while still ensuring this is based on merit.
 
 - **Highlight competencies of team members:** Much like collaborative learning, ensure you are letting team members know who within the team are subject matter experts. People can learn from them, but it also help elevate their voices on certain issues. Get to know your team members.
 
