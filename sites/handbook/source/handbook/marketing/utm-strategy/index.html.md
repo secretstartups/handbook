@@ -24,7 +24,7 @@ Everyone can contribute - See something you'd like to discuss or iterate on? Sta
 <!-- DO NOT CHANGE ANCHOR -->
 UTM parameters are specific text strings appended to the URLs, used to facilitate performance tracking in Sisense dashboards through Bizible Touchpoints.
 
-[Bizible Touchpoints] (https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-touchpoints) are series of interactions a prospect has with the online or offline marketing efforts. They capture a multitude of information about the interaction, including utm parameters, date/time of the interaction, and type of interaction (web visit, form submission, campaign response, etc.).
+[Bizible Touchpoints](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-touchpoints) are series of interactions a prospect has with the online or offline marketing efforts. They capture a multitude of information about the interaction, including utm parameters, date/time of the interaction, and type of interaction (web visit, form submission, campaign response, etc.).
 
 Bizible Touchpoint is created, based on the `utm_campaign`, `utm_source`, `utm_medium` and mapped to Sisense dashboard view through a defined logic.
 
@@ -36,17 +36,17 @@ Here is Bizible's breakdown of how [Touchpoints are generated and mapped](https:
 | Offline; Online, not on your site(s) | CRM Campaign membership sync | Through the Offline Channels page in Bizible, by referencing Campaign Type                                           |
 | Sales activity                       | CRM Activity sync            | Through the Online Channels page in Bizible, by referencing the Campaign Name assigned on the Activities page        |
 
-**[Demand Gen Dashboard in Sisense](https://app.periscopedata.com/app/gitlab:safe-dashboard/919221/Demand-Gen-Dashboard):** provides an overview of demand gen campaigns performance, measured by the key performance indicators (KPIs): Inquiries, MQLs, and SDR Accepted. These metrics are based on Bizible touchpoints data, while Opportunities, Total IACV$, SAO, Pipeline IACV$, Won Deals count, and Won IACV$ metrics are pulled using the [Linear Bizible Attribution Touchpoints model] (https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#linear-attribution).
+**[Demand Gen Dashboard in Sisense](https://app.periscopedata.com/app/gitlab:safe-dashboard/919221/Demand-Gen-Dashboard):** provides an overview of demand gen campaigns performance, measured by the key performance indicators (KPIs): Inquiries, MQLs, and SDR Accepted. These metrics are based on Bizible touchpoints data, while Opportunities, Total IACV$, SAO, Pipeline IACV$, Won Deals count, and Won IACV$ metrics are pulled using the [Linear Bizible Attribution Touchpoints model](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#linear-attribution).
 
 ## UTM link builder process
 {: #utm-builder .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
 **[UTM builder googlesheet with formulas](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=1052439774)** should be used to setup a tracking URL for your campaign. The process involves the following steps:
-1. Open the [Tracking URL Builder] (https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=1052439774)
+1. Open the [Tracking URL Builder](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=1052439774)
 2. Add in your page URL in the first column
 3. Fill in each attribute of your UTM parameter, including `utm_source`, `utm_medium`, `utm_campaign`, `utm_content`, `utm_budget`. If some of these UTM parameters are irrelevant to your campaign, keep them blank or remove from the final URL.
-4. Destination URL will be generated automatically in column N, ready for you to use in your campaign. If you need to shorten your URL, use a tool like [bit.ly] (https://bitly.com/). 
+4. Destination URL will be generated automatically in column N, ready for you to use in your campaign. If you need to shorten your URL, use a tool like [bit.ly](https://bitly.com/). 
 5. Measure success in Sisense. You can track your UTM parameters in your Sisense dashboard under "Integrated Campaign Breakdown" or "Attribution Data" sections. 
 
 ### UTM Values
@@ -83,12 +83,13 @@ These are the UTMs (**utm_campaign**) to align to the anchor campaigns (both GTM
 
 Using proper `utm_campaign` values below will minimize number of manual updates required for the DG Dashboard.
 
-* singleappci = CI/CD Campaign
+* singleappci = CI Campaign
 * devsecopsusecase = DevSecOps Campaign
 * iacgitops = GitOps Campaign
 * devopsgtm = DevOps Platform Campaign
 * vccusecase = VC&C Campaigns (retired)
 * competegh = OctoCat Competitive
+* cdusecase = CD Campaign
 
 RULE: all utm_campaign must start with one of the overarching campaigns (devopsgtm, singleappci, iacgitops, etc.)
 
@@ -162,7 +163,7 @@ The UTM parameters are everything that comes after the question mark:
 * utm_budget=dmp
 * utm_allptnr=aws
 
-More examples and different scenarios are covered in [FAQ doc] (https://docs.google.com/document/d/1VaAwSg39sNY4dfth4bTuBDN5UT8UiKijWt6RdzVV4dY/edit?usp=sharing).
+More examples and different scenarios are covered in [FAQ doc](https://docs.google.com/document/d/1VaAwSg39sNY4dfth4bTuBDN5UT8UiKijWt6RdzVV4dY/edit?usp=sharing).
 
 ### UTM structure for nurture emails
 {: #utms-nurture-emails .gitlab-purple}
@@ -219,7 +220,7 @@ In order to retain historical campaign tracking data we will keep existing UTM s
 
 ### UTM structure for partner campaigns
 {: #utms-structure-for-partner-campaigns .gitlab-purple}
-* Most TBD
+* [Most TBD](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1986)
 * UTM PartnerID = the crm ID of the partner you wish to pass the lead to
 
 ## Marketo > Bizible integration
@@ -230,4 +231,4 @@ Through Bizible’s integration with Marketo, we create touchpoints for attribut
 
 <!-- DO NOT CHANGE ANCHOR -->
 
-Add notes here
+
