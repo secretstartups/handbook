@@ -542,10 +542,4 @@ The ZenGRC data source uses a singer tap we developed in [gitlab-data/tap-zengrc
 
 Currently this tap only extracts a small number of objects from ZenGRC as a pilot for the data source. These are listed in the [stream types in `tap_zengrc/tap.py`](https://gitlab.com/gitlab-data/tap-zengrc/-/blob/main/tap_zengrc/tap.py#L10). 
 
-They are:
-- `Audits`
-- `Assessments`
-- `Objectives`
-- `Controls`
-
 This tap was created using [Meltano SDK](https://sdk.meltano.com/en/latest/) and the [ZenGRC API](https://gitlab.api.zengrc.com/#/). [Environment variables for username and password](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L29) `$ZENGRC_USERNAME` and `$ZENGRC_PASSWORD`are required to run this in Meltano.
