@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Channel Marketing"
+title: "Global Channel and Alliances Marketing"
 ---
 
 ## On this page
@@ -11,16 +11,16 @@ title: "Channel Marketing"
 
 ## This page is intended for the following audiences
 
-GitLab global and regional channel sales teams, global and local field sales teams, regional [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) teams, channel account managers, the global alliances team and product marketing team.
+GitLab global and regional channel and alliances sales teams, global and local field sales teams, regional [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) teams, channel account managers, the global alliances team and product marketing team.
 
 ## Our Team
-Global Channel Marketing is a team of seasoned professionals supporting global channel sales objectives and providing support to the GitLab channel partner community.  This small but mighty team is responsible for the development of channel marketing campaigns that leverage GitLab’s FY22 Go to Market Campaigns and sales plays.  We work with partners to help them understand what the campaigns are, how to use them to help drive partner sourced opportunities, how to leverage upcoming GitLab webinars/webcasts to drive conversion and how to generate trials for GitLab that they can nurture with prospects.  Channel partners are ultimately responsible for the execution of these campaigns.  
+Global Channel and Alliances Marketing is a team of seasoned professionals supporting global channel and alliances sales objectives and providing support to the GitLab channel partner community and customers.  This small but mighty team is responsible for the development of channel and alliances marketing campaigns that leverage GitLab’s Go to Market Campaigns and value plays.  We work with partners to help them understand what the campaigns are, how to use them to help drive partner sourced opportunities, how to leverage upcoming GitLab webinars/webcasts to drive conversion and how to generate trials for GitLab that they can nurture with prospects.  Channel partners are ultimately responsible for the execution of these campaigns.  
 
-The Channel marketing team provides support to partners by creating different campaign assets into leverageable go-to-market programs called Campaigns-in-a-box that partners can easily pick up and run with their customer or prospect lists.  GitLab channel marketing is also responsible for the development, rollout and management of trial enablement programs by which partners can generate trials of GitLab directly from their website, and passing or providing trial leads generated from GitLab’s own website to be worked and converted by partners.  
+The Global Channel marketing team provides support to partners by creating different campaign assets into leverageable go-to-market programs called Instant Campaigns that partners can easily pick up and run with their customer or prospect lists.  GitLab channel marketing is also responsible for the development, rollout and management of trial enablement programs by which partners can generate trials of GitLab directly from their website, and passing or providing trial leads generated from GitLab’s own website to be worked and converted by partners.  
 
 Channel marketing also enables channel go to market efforts through MDF funding and management, by identifying upcoming field marketing events and activities that channel partners can participate in, and by identifying opportunities for channel partners to participate with Alliances partners and GitLab on joint go to market activities.
 
-We partner with regional Channel Account Managers and Field Marketing teams to work closely with channel partners and GitLab Alliances for inclusion in their field marketing plans.  
+We partner with regional Channel Account Managers and Field Marketing regional teams to work closely with channel partners and GitLab Alliances for inclusion in their regional marketing plans.  
 
 As a service bureau to a wide variety of teams, we have support functions that are both in and out of scope at this time.  We have ideated on a list of potential future service capabilities that, as this team is able to add resources and our business plan requires it, we will add to our list of service offerings.  To recommend that we add a service offering to this growing list of potential offerings, please create an issue.
 
@@ -87,6 +87,14 @@ that details the FMM process where CAMs can read more about how to complete [the
           + If declined, the Channel Marketing DRI will reach out to the partner and let them know. We will copy the CAM on the notificiation
           + If approved, the FMM will be the DRI for reaching out to the partner contact in the proposal to review dates of execution and provide any other guidance
 
+##Demand Generation activities eligible for MDF
+    +  Customer case study - Development of a print or digital case study that details an end-user customer’s positive experience with GitLab. Must highlight how a GitLab product or service solved a customer’s business problem, benefit received by customer, and customer’s endorsement of GitLab.
+    +  Telesales/appointment setting - Outbound lead generation telemarketing campaigns that target end-user prospects /customers that promote GitLab or GitLab Alliance joint products or solutions.
+    +  Digital & Print marketing - Creation of broad reach promotional and brand marketing content for GitLab products or solutions in digital or print targeted at end-user customers or prospects. Must contain a customer call to action.
+    +  Paid search Events/webinars (includes workshops, roundtables)- End-user customer or partner event executed by a Partner to generate net new business and / or build pipeline. Must be focused on GitLab and / or joint solutions with Alliance Partners.
+    +  Tradeshows/conference sponsorships-Partner on-site sponsorship of a Third-party event organized by an industry set, or other GitLab Partner, where a sponsorship contract / package is purchased by Partner and GitLab products, solutions, & brand are promoted.
+
+
 ### Submitting Proof of Performance (POP) for MDF 
 
 - Once the MDF campaign is completed, the partner has 30 days to submit their [Proof of Performance (POP)](https://docs.google.com/forms/d/e/1FAIpQLSeb_r6c7xo4KdxXWbwelmAJiDyVAF5UxMxeppypH2C0oQ8vhQ/viewform) for reimbursement.
@@ -102,7 +110,6 @@ For step by step instructions, [view this brief, 3 minute video.](https://youtu.
 For GitLab technical setup, follow the directions found on [this page](/handbook/marketing/channel-marketing/partner-campaigns/)
 
 Partners can access and manage their GitLab leads in the same interface as their [deal registration](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview). When leads are shared with partners, partners will now see an additional tab in the Vartopia GitLab Deal Registration portal called Prospects. Partners can also easily convert their prospects to deal registrations and submit them to GitLab for approval. [Reference the User Guide](https://docs.google.com/document/d/1zo8QE5-0pAZgvNlxgrqz6lN6OxV0cyja/edit) and [how-to video](https://youtu.be/e3qXq6TGbMY) for full details. 
-
 
 ## Future/Potential Service Offerings
 
@@ -138,10 +145,14 @@ When requesting support from our team, we commit to responding to your [issue](h
 
 *   **David Duncan**: (aka Dunk) VP of Demand Generation & Partner Marketing
 *   **Coleen Greco**: (aka Greco) Director, Global Channel and Alliances Marketing
-*   **Lisa Rom**: Senior Partner Channel Manager.  Lisa will be focusing on global alliances and channel marketing initiatives and major channel programs
-*   **Karen Pourshadi**: Senior Channel Marketing Manager.  Karen will be focusing on partner content: enabling our partner marketing resources with major GitLab GTM initiatives and developing turnkey, integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/campaigns/#what-is-a-partner-instant-marketing-campaign) for GitLab channel partners. 
-*   **Sara Valko**: DMR Channel Marketing Manager.  Sara will be focusing on our DMR channel partners including but not limited to: CDW, SHI and Insight.  She will be partnering with them to develop integrated demand generation campaigns that drive net new logos for GitLab. 
-*   **Samara Souza**: Senior Partner Program Manager.  Samara will be focusing on creating new service offerings for our partners to leverage in their demand generation motions including but not limited to: Free trial syndication; case study development, MDF process, and much much more! 
+        **Channel Marketing Team**
+         * **Karen Pourshadi**: Senior Channel Marketing Manager.  Karen will be focusing on partner content: enabling our partner marketing resources with major GitLab GTM initiatives and developing turnkey, integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/campaigns/#what-is-a-partner-instant-marketing-campaign) for GitLab channel partners. 
+         * **Sara Valko**: DMR Channel Marketing Manager.  Sara will be focusing on our DMR channel partners including but not limited to: CDW, SHI and Insight.  She will be partnering with them to develop integrated demand generation campaigns that drive net new logos for GitLab. 
+         * **Samara Souza**: Senior Partner Program Manager.  Samara will be focusing on creating new service offerings for our partners to leverage in their demand generation motions including but not limited to: Free trial syndication; case study development, MDF process, and much much more! 
+        **Alliances Marketing Team**
+         * **Lisa Rom**: Senior Alliances Marketing Manager.  Lisa will be focusing on supporting our alliances marketing initiatives
+         * **Lindsey Lopez**:  Alliances Marketing Manager.  Lindsey will be focusing on supporting our alliances marketing initiatives 
+
 
 
 ## The best way to contact our team is through our Slack channels
