@@ -313,9 +313,6 @@ It also offers a free reliable mobile video conference app.
 [Loom (Free)](https://www.useloom.com/) is a handy Chrome plugin tool for video walkthroughs. 
 Nice tool for demo recordings and internal/external documentation. For a license please follow the instructions on the [tech stack page](/handbook/business-technology/tech-stack/). 
 
-### Teampaper Snap
-
-[Teampaper Snap (Free / Mac only)](http://teampaper.me/snap/) is the ultimate screen capture tool for Mac to voice your thoughts on anything you can see on a screen.
 
 ## Translation Tools
 
