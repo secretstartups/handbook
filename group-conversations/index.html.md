@@ -111,17 +111,17 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 1. You can invite someone within your team to give the update. It doesn't need to be the team lead, but the team lead is responsible for making sure that it is given.
 1. The host of the GC or the EBA to the host should update the [Group Conversation Agenda Document](https://docs.google.com/document/d/1zELoftrommhRdnEOAocE6jea6w7KngUDjTUQBlMCNAU/edit) with: 
    1. Link of the Google Slides presentation (with edit or comment access to everyone at GitLab). 
-   1. Link to the video of their presentation on GitLab Unfiltered. 
-   1. The host's name
-   1. The streaming DRI
-   1. Link to the Key Review Agenda (if applicable) 
+   1. Link to the video of their Group Conversation presentation on GitLab Unfiltered. (recommended, but optional)
+   1. The host's name.
+   1. The streaming DRI.
+   1. Link to the Key Review Agenda (if applicable).
 1. The EBA team is responsible for pinging the appropriate team member 72 hours in advance if the document has not been updated by 8am US Pacific Time. 
-1. Post links to the Key Review video (if applicable), Key Review Notes (if applicable), Group Conversation Agenda Document, the presentation slides, and the Group Conversation presentation video in the #whats-happening-at-gitlab channel 72 hours before the call. We ask that this is done at least 72 hours ahead of the Group Conversation to ensure that team members around the world have an opportunity to review async and add their questions. 
+1. Post links to the Key Review video (if applicable), Key Review Notes (if applicable), Group Conversation Agenda Document, the presentation slides, and the Group Conversation presentation video (optional) in the #whats-happening-at-gitlab channel 72 hours before the call. We ask that this is done at least 72 hours ahead of the Group Conversation to ensure that team members around the world have an opportunity to review async and add their questions. 
 1. Consider blocking off the 30 minutes before you are scheduled to lead a Group Conversation to make sure you can join on time and test that everything is working appropriately to host and stream the Group Conversation. 
 
 #### Presentation
 
-Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You should also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) to walk through the 1-3 topics or highlights that are most relevant cross-functionally. 
+Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) to walk through the 1-3 topics or highlights that are most relevant cross-functionally (optional, but recommended). 
 
 Functions with Key Reviews should not create a new deck for a Group Conversation but should use their [Key Review deck](/handbook/key-review/#group-conversations-and-key-review-metrics) for the Group Conversation.
 
@@ -136,7 +136,7 @@ There are three layers of content in a presentation:
 Best practices for presentations: 
 1. Save time and ensure asynchronous communication by writing information on the slides. Many people will not be able to participate in Group Conversations, either live or recorded, but can read through the slides.
 1. Slides with a lot of text that can be read on their own with lots of links are appreciated.
-1. Please [post a recording of your presentation to YouTube](/handbook/marketing/marketing-operations/youtube/) at least 72 hours before the meeting. Link it to the Google Doc (including specifying whether the video is private or public), and mention it in the relevant slack channels.
+1. If you want to present, please consider [posting a recording to YouTube](/handbook/marketing/marketing-operations/youtube/) at least 72 hours before the meeting. Link it to the Google Doc (including specifying whether the video is private or public), and mention it in the relevant slack channels.
 1. Once a quarter, add a slide covering items being actioned from the engagement survey.
 1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as the template for your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab so that [everyone can contribute](/company/strategy/#why).
 1. We encourage you to share metrics and key results during your Group Conversation. Please do not use cumulative metrics in your Group Conversations since those will usually show an upward trend and make it difficult to assess current performance. It is more appropriate to share cumulative metrics externally. See [#8 of the general presentation suggestions](/handbook/communication/#presentations) for more information about cumulative metrics.
@@ -160,8 +160,8 @@ These should be called Fill-In AMAs so it's clear to team members that the AMA w
 
 ### 72 Hours Before the Call
 
-1. Ensure the slide deck, any handbook or document links, and the video are visible to all of GitLab.
-1. Post in #whats-happening-at-gitlab on Slack the video for the group conversation for people to watch beforehand. Please @ mention `Christina Keelan Cottrell` when posting so she may schedule time for the CEO to watch the video ahead of the group conversation.
+1. Ensure the slide deck, any handbook or document links, and the optional video are visible to all of GitLab.
+1. Post in #whats-happening-at-gitlab on Slack if there is a video for the group conversation that you'd like people to watch beforehand. Please @ mention `Christina Keelan Cottrell` when posting so she may schedule time for the CEO to watch the video ahead of the group conversation.
 
 ### 30 Minutes Before the Call
 
