@@ -91,6 +91,13 @@ The personal link is used by talent acquisition to schedule interviews so it is 
 Since Zoom doesn't display the job title field during meetings, it is recommended that you add your job title as part of the display name field.
 For example, if your name is Art VanDelay and your role is Engineer, you can write display name: `Art VanDelay - Engineer`.
 
+### Join meetings with muted microphone
+
+Joining an ongoing meeting with your microphone not muted can cause disruptions. As we sometimes forget to quickly mute ourselves, Zoom provides an [option to join calls muted](https://support.zoom.us/hc/en-us/articles/203024649-Muting-your-microphone-when-joining-a-meeting):
+
+1. Navigate to `Zoom > Preferences > Audio`.
+1. Scroll down and select the box `Mute my mic when joining a meeting`.
+
 ### Set up a shortcut for muting in Zoom
 
 Sometimes you need a hot key to mute/unmute, even when Zoom is not the selected window.
