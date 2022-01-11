@@ -30,7 +30,9 @@ Each campaign has it's own ROE for lead routing and email practices. Follow the 
 <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1637023136930/1fd8a497f2500ef8d7f12920d71595d0c412fa91?sender=awaller1257" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> 
 </div>
 </div>
-</div>
+
+## Partner Only Campaigns - MDF funded
+These campaigns are GitLab funded via MDF, but all leads are passed to the partner. We upload these lists into our systems to be able to track pipeline from resulting Deal Registrations in Vartopia.
 
 ## Joint GitLab and Partner Events
 When GitLab and Partners participate in events together, they will share leads. 
@@ -55,21 +57,61 @@ You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builde
 1. `Vartopia Lead Management: @cfarris`
 
 
-## Partner Only Campaigns - MDF funded
-Some campaigns are run only by partners, without GitLab involvement. Process TBD.
-
-
 # Setup in Marketo
-Placeholder - will create directions for this utilizing our documentation on the [campaigns and programs](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up) page. 
 
 ## Trial Campaign Set Up
 There is no marketo program or SFDC campaign setup necessary to track self-managed trials. Every partner trial campaign can utilize setup from `Partner - Trial - Self-managed` campaign, without making any changes. Follow [directions above](/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners) to understand what form to use and what processes to follow.
 
 ## Joint Marketing Campaign Set Up
-WIP - Follow directions on [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)
+Follow directions on [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The main difference is updating the correc tokens for partner tracking.
 
-## MDF Funded Campaign Set up
-TBD
+## MDF funded Campaigns
+These campaigns follow their own processes not found on the campaigns-and-programs page. 
+
+### Step 1: Clone Marketo program (TBC)
+Marketo program template to be created...
+- Update description with the link to the SFDC MDF request and Coupa ID and Allocadia ID (if you have it)
+
+### Step 2: Sync Program to SFDC
+- At the program main screen in Marketo, where it says Salesforce Sync with "not set", click on "not set"
+- Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
+- The description should copy over from the step above.
+- Click "Save"
+
+### Step 3: Update Tokens in Marketo
+- Update `{{my.Partner CRM ID}}` with the 15-digit CRM ID of the partner that will be following up with these leads.
+
+### Step 4: Update SFDC Campaign
+Go to SFDC and search for the name of your program. 
+- Change the `Campaign Owner` to your name
+- Update `Large Bucket` based on [criteria](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
+- Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
+- Update `Start Date` to the date of launch
+- Update `End Date`
+- Update `Budgeted Cost` - If cost is $0 list 1 in the Budgeted Cost field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by 0 you will always get 0 as the pipe2spend calculation.
+- Update `Region` and `Sub-region` if you have the data available
+- Update `Status` to `In Progress` or the approriate selection
+- Click Save
+- Add the Marketo program link and SFDC campaign link to the epic.
+
+If you DID NOT include the Allocadia ID, you will need to fill in these additional fields. 
+- `Budget Holder`
+- `Is this an in person event?`
+- `Is a Channel Partner Involved?`
+- `Channel Partner Name`
+- `Is an Alliance Partner Involved?`
+- `Alliance Partner Name`
+
+
+### Step 5: Create List Upload Request Issue
+- Create List upload request issue to have these leads imported in.
+    - Issue template: **TBC**
+    - Please follow the [list import criteria and guidelines](/handbook/marketing/marketing-operations/list-import/#import-methods-and-their-sla)
+- NOTE: Leads should not be marked as `opt-in` unless they specifically opted in to **GitLab** emails.
+
+### Step 6: Load List and Activate Smart Campaign
+- Once list is loaded, loader should go to the `01 - Processing` campaign and `Run Once`
+    - Campaign will assign leads to CAM and assign to the partner you specified in step 3
 
 
 
