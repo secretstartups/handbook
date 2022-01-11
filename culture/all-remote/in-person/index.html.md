@@ -59,6 +59,15 @@ In-person meeting prep is similar to getting ready for a [video call](/handbook/
 1. Take notes to help retain and recall any important details
 1. Document by writing down notes and next steps into the proper directory (Google Drive, Salesforce, etc.)
 
+## The importance of social interaction
+
+We believe that [in-person interactions](/company/culture/all-remote/in-person/) are extremely important, especially in an all-remote [culture](/company/culture/#culture-at-gitlab). Remote workers have increased risk of experiencing [loneliness](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/) or [burnout](/company/culture/all-remote/mental-health/). 
+
+One way to prevent loneliness and burnout are through relationship-building by prioritizing regular social interactions via informal communication throughout the workday, week, and month. 
+
+Informal communication enables friendships to form at work related to matters *other* than work. Those who feel they have genuine friends at work are [more likely to enjoy their job](https://onlinelibrary.wiley.com/doi/full/10.1111/peps.12109), perform at a high level, feel invested in the company, and serve others within the organization.
+
+Here, we value informal communication as a complement to [in-person interactions](/company/culture/all-remote/in-person/) and regularly offer [more than 20 different ways for team members to participate in social interactions](/company/culture/all-remote/informal-communication/)!
 
 ## Meetups
 
