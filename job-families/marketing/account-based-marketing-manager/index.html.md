@@ -81,7 +81,7 @@ The Senior Account Based Marketing  Manager is a [grade 7](/handbook/total-rewar
 The Manager, Account Based Marketing reports to Senior Manager, Marketing Campaigns.
 
 #### Job Grade
-The Account Based Marketing Manager is a [8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Account Based Marketing is a [8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 * Develop and execute high-impact, integrated ABM programs to achieve revenue and pipeline goals for key accounts
