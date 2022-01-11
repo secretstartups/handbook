@@ -20,6 +20,8 @@ To answer questions frequently asked by Sales and Customer Success teams about P
 
 # FAQs
 
+_Last updated 2022-01-10._
+
 ## Data Availability
 
 #### Why does my customer not have any product usage data?
