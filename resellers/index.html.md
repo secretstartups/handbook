@@ -16,12 +16,16 @@ GitLab Channel Partners are the primary audience for this Handbook page.
 The GitLab Partner Program is a new kind of program.  It’s open to everyone and like our overall company culture, everyone can contribute.  Although we welcome all partners, our program is structured to provide additional rewards for partners that make a commitment and investments in a deeper GitLab relationship.
 
 
-The GitLab Partner Program enables partners and potential partners — including systems integrators, cloud platform partners, independent software vendors, managed service providers, resellers, distributors and ecosystem partners — to maximize customer value through the GitLab platform and their value-added GitLab and DevOps services.  
+The GitLab Partner Program enables partners and potential partners — including systems integrators, managed service providers, resellers, and distributors — to maximize customer value through the GitLab platform and their value-added GitLab and DevOps services.  
 
 This page provides an overview of the program, requirements, benefits and instructions.  Additional information about our services program and certifications can be found on the following pages:
 *  [ Services Program Page](/handbook/resellers/services/)
 *  [ Services Catalog Page](/handbook/resellers/services/services-catalog/)
 *  [ Training and Certifications Page](/handbook/resellers/training/)
+
+
+   For information about our Alliance Partner program, please visit the[ Alliances Handbook Page.](/handbook/alliances/)
+
 
 
 ### GitLab Value for Partners
@@ -78,11 +82,11 @@ The GitLab Partner Program makes it  easier for partners  to maximize the value 
 
 ### Partner Program Tracks
 
-The GitLab Partner Program consists of three tracks to support the different ways our partners go to market:
+The GitLab Partner Program consists of two tracks to support the different ways our partners go to market:
 
 *   **Open** - Resellers, integrators and other sales and services partners join the program in the Open track.  Open is for all Partners in DevOps space, or ItaaS and other adjacent spaces that are committed to investing in their DevOps practice buildout. Also the Open track is for Partners seeking to develop customers or just want to learn about GitLab and participate in the GitLab partner community.  GitLab Open Partners may or may not be transacting partners, and can earn products discounts or referral fees.
 *   **Select** partners are by invitation only and are reserved for partners that make a greater investment in GitLab expertise, develop services practices around GitLab and are expected to drive greater GitLab product recurring revenues.  In return, Select partners have a dedicated Channel Sales Manager and greater investment.
-*   **Technology** partners that drive GitLab solutions through product integrations and marketplaces. Technology Partners are key to completing our customer solutions through integrations with Cloud platforms, legacy DevOps solutions and other solutions needed to meet customer requirements.
+
 
 ### Getting Started with GitLab
 
@@ -92,45 +96,45 @@ Once a partner contract is executed , you will have access to the GitLab Partner
 
 #### Program Requirements and Benefits
 
-|    |**GitLab Open** | **GitLab Select (Invitation only)** | **GitLab Technology** |
-|-------------------|:---------------------------------:|:-------------------:|:---:|
-| **Overall Program Requirements** |  |  |  |
-| GitLab Partner Agreement | X | X | X |
-| # of Sales Certified resources | 2 | 5 |  |
-| # of Technical Certified resources | 1 | 3 |  |
-| Exec Sponsored Joint Business Plan |  | X |  |
-| Program Rev Targets Min - BusPlan Committed |  | $300K |  |
-|  |  |  |  |
-| **Sales Benefits** |  |  |  |
-| Deal Registration Discounts | X | X |  |
-| Referral Fee | X | X | X |
-| Renewals Discounts | X | X |  |
-|  |  |  |  |
-| **Support Benefits** |  |  |  |
-| Partner Helpdesk | X | X |  |
-| Level 2 Support Hotline |  | X |  |
-| Dedicated Channel Manager |  | X |  |
-| Free Limited Instance of GitLab Ultimate - 5 users/6mo |  | X |  |
-|  |  |  |  |
-| **Marketing** |  |  |  |
-| Partner Portal | X | X | X |
-| Proposal Based MDF | X | X |  |
-| Sales & Pre-Sales Technical Enablement | X | X | X |
-| Program Logo | X | X | X |
-| Program & Certification Badges | X | X |  |
-| GitLab.com Listing | X | X (featured) | X |
-| Demand Generation Resources | X | X | X |
-| Leads |  | X |  |
-|  |  |  |  |
-| **Services** |  |  |  |
-| Packaged Professional Services Discounts | X | X |  |
-| Product Services Certification | X | X |  |
-| Operational Services Certification | X | X |  |
-| Customer Success Certifications |  | X |  |
-|  |  |  |  |
-| **Managed Services** |  |  |  |
-| Managed Services certification | X | X |  |
-| Managed Services Support Discount |  | X |  |
+|    |**GitLab Open** | **GitLab Select (Invitation only)** |
+|-------------------|:---------------------------------:|:---:|
+| **Overall Program Requirements** |  |  |
+| GitLab Partner Agreement | X | X |
+| # of Sales Certified resources | 2 | 5 |
+| # of Technical Certified resources | 1 | 3 |
+| Exec Sponsored Joint Business Plan |  | X |
+| Program Rev Targets Min - BusPlan Committed |  | $300K |
+|  |  |  |
+| **Sales Benefits** |  |  |
+| Deal Registration Discounts | X | X |
+| Referral Fee | X | X |
+| Renewals Discounts | X | X |
+|  |  |  |
+| **Support Benefits** |  |  |
+| Partner Helpdesk | X | X |
+| Level 2 Support Hotline |  | X |
+| Dedicated Channel Manager |  | X |
+| Free Limited Instance of GitLab Ultimate - 5 users/6mo |  | X |
+|  |  |  |
+| **Marketing** |  |  |
+| Partner Portal | X | X |
+| Proposal Based MDF | X | X |
+| Sales & Pre-Sales Technical Enablement | X | X |
+| Program Logo | X | X |
+| Program & Certification Badges | X | X |
+| GitLab.com Listing | X | X (featured) |
+| Demand Generation Resources | X | X |
+| Leads |  | X |
+|  |  |  |
+| **Services** |  |  |
+| Packaged Professional Services Discounts | X | X |
+| Product Services Certification | X | X |
+| Operational Services Certification | X | X |
+| Customer Success Certifications |  | X |
+|  |  |  |
+| **Managed Services** |  |  |
+| Managed Services certification | X | X |
+| Managed Services Support Discount |  | X |
 
 
 ## B. Partner Program Guide
@@ -161,7 +165,7 @@ In this section, we cover:
 
 ###  Partner Program Tracks
 
-The GitLab Partner Program consists of three tracks that support the different ways our partners go to market:
+The GitLab Partner Program consists of two tracks that support the different ways our partners go to market:
 
 1. **Open** - Resellers, integrators and other sales and services partners join the program in the Open track.  Open is for all Partners in DevOps space, or ItaaS and other adjacent spaces that are committed to investing in their DevOps practice buildout. Also the Open track is for Partners seeking to develop customers or just want to learn about GitLab and participate in the GitLab partner community.  GitLab Open Partners may or may not be transacting partners, and can earn products discounts or referral fees. We provide:
   *   Broad Sales and Services Enablement
@@ -192,53 +196,53 @@ Since participation in the Select Track is by invitation only, partners are not 
   *   $300k minimum program revenue, defined as Net Annual Recurring Revenue (NetARR). This includes all the incremental licenses sold to new and existing customers.
   *   Dedicated DevOps sales and/or services practice
   *   Minimum one GitLab demand generation activity per quarter
-3. **Technology** partners drive GitLab solutions through product integrations and marketplaces as part of our Technology Alliances program. They are key to completing our customer solutions through integrations with cloud platforms, legacy DevOps solutions and other solutions needed to meet customer requirements.
 
-    For additional information about our Technology Alliances program, please visit the[ Alliances Handbook Page.](/handbook/alliances/)
+
+ 
 
 
 
 ### Program Requirements and Benefits
 
-|   |**GitLab Open** | **GitLab Select** <br> **(Invitation only)** | **GitLab Technology** |
-|------------------|:---------------------------:|:-------------------:|:---:|
-| **Overall Program Requirements** |  |  |  |
-| GitLab Partner Agreement | X | X | X |
-| # of Sales Certified resources | 2 | 5 |  |
-| # of Technical Certified resources | 1 | 3 |  |
-| Exec Sponsored Joint Business Plan |  | X |  |
-| Program Rev Targets Min - BusPlan Committed |  | $300K |  |
-|  |  |  |  |
-| **Sales Benefits** |  |  |  |
-| Deal Registration Discounts | X | X |  |
-| Referral Fee | X | X | X |
-| Renewals Discounts | X | X |  |
-|  |  |  |  |
-| **Support Benefits** |  |  |  |
-| Partner Helpdesk | X | X |  |
-| Level 2 Support Hotline |  | X |  |
-| Dedicated Channel Manager |  | X |  |
-| Free Limited Instance of GitLab Ultimate/Gold - 5 users/6mo |  | X |  |
-|  |  |  |  |
-| **Marketing** |  |  |  |
-| Partner Portal | X | X | X |
-| Proposal Based MDF | X | X |  |
-| Sales & Pre-Sales Technical Enablement | X | X | X |
-| Program Logo | X | X | X |
-| Program & Certification Badges | X | X |  |
-| GitLab.com Listing | X | X (featured) | X |
-| Demand Generation Resources | X | X | X |
-| Leads |  | X |  |
-|  |  |  |  |
-| **Services** |  |  |  |
-| Packaged Professional Services Discounts | X | X |  |
-| Product Services Certification | X | X |  |
-| Operational Services Certification | X | X |  |
-| Customer Success Certifications |  | X |  |
-|  |  |  |  |
-| **Managed Services** |  |  |  |
-| Managed Services certification | X | X |  |
-| Managed Services Support Discount |  | X |  |
+|   |**GitLab Open** | **GitLab Select** <br> **(Invitation only)** |
+|------------------|:---------------------------:|:---:|
+| **Overall Program Requirements** |  |  |
+| GitLab Partner Agreement | X | X |
+| # of Sales Certified resources | 2 | 5 |
+| # of Technical Certified resources | 1 | 3 |
+| Exec Sponsored Joint Business Plan |  | X |
+| Program Rev Targets Min - BusPlan Committed |  | $300K |
+|  |  |  |
+| **Sales Benefits** |  |  |
+| Deal Registration Discounts | X | X |
+| Referral Fee | X | X |
+| Renewals Discounts | X | X |
+|  |  |  |
+| **Support Benefits** |  |  |
+| Partner Helpdesk | X | X |
+| Level 2 Support Hotline |  | X |
+| Dedicated Channel Manager |  | X |
+| Free Limited Instance of GitLab Ultimate/Gold - 5 users/6mo |  | X |
+|  |  |  |
+| **Marketing** |  |  |
+| Partner Portal | X | X |
+| Proposal Based MDF | X | X |
+| Sales & Pre-Sales Technical Enablement | X | X |
+| Program Logo | X | X |
+| Program & Certification Badges | X | X |
+| GitLab.com Listing | X | X (featured) |
+| Demand Generation Resources | X | X |
+| Leads |  | X |
+|  |  |  |
+| **Services** |  |  |
+| Packaged Professional Services Discounts | X | X |
+| Product Services Certification | X | X |
+| Operational Services Certification | X | X |
+| Customer Success Certifications |  | X |
+|  |  |  |
+| **Managed Services** |  |  |
+| Managed Services certification | X | X |
+| Managed Services Support Discount |  | X |
 
 ### Training and Certification Program and Requirements
 
@@ -290,7 +294,7 @@ Most customers grow their GitLab deployment over time.  As such, renewals create
 
      *   Upsell and expansion opportunities
      *   New integration, operational and other professional services opportunities
-     *   The sale and integration of GitLab technology partner solutions
+     *   The sale and integration of GitLab Alliance partner solutions
      *   Add-on sales of other non-GitLab products
      *   Subscription renewal discounts on future renewals
 
@@ -666,7 +670,7 @@ MDF may not be used for capital expenses or the normal cost of business.
 *   If GitLab subsequently denies an MDF claim for good cause after reimbursement, you must immediately return such funding to GitLab.
 *   The terms of these MDF guidelines are in addition to the applicable channel partner agreement in place with GitLab, and are valid only when specifically referenced from the applicable channel partner agreement, program guide, or otherwise made available to a channel party by GitLab in writing. All terms not otherwise defined herein have the meaning set forth in the applicable channel partner agreement.
 
-#####  Entering an MDF Request and Proof of Performance
+#####  Entering a MDF Request and Proof of Performance
 
 
 Partners can access the MDF Request Form from the GitLab Partner Portal home page, navigate to Marketing and select “MDF Request.”  Upon selecting MDF Request, complete the first part of the firm to create a fund request. Once completed, submit it and it will be routed to a GitLab Representative for approval within 14 business days. 
