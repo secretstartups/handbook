@@ -19,7 +19,7 @@ twitter_creator: "@gitlab"
 
 ![GitLab all-remote transport](/images/all-remote/gitlab-transport.jpg){: .shadow.medium.center}
 
-On this page, we're detailing considerations for in-person interactions within a remote company. Humans are social creatures, and [research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2443551) has shown that there is value in in-person interactions. While there are tremendous [advantages](/company/culture/all-remote/benefits/) to operating a 100% remote company, leaders should consider being intentional about [planning in-person elements](https://www.fastcompany.com/3051518/the-science-of-when-you-need-in-person-communication), even if they're optional for team members. 
+Humans are social creatures, and [research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2443551) has shown that there is value in in-person interactions. While there are tremendous [advantages](/company/culture/all-remote/benefits/) to operating a 100% remote company, leaders should consider being intentional about [planning in-person elements](https://www.fastcompany.com/3051518/the-science-of-when-you-need-in-person-communication), even if they're optional for team members. 
 
 GitLab Head of Remote Darren Murph shares on GitLab's intentional approach to in-person interactions (and business travel's purpose in a remote company) in a TripActions [blog](https://tripactions.com/blog/q-and-a-darren-murph-head-of-remote-at-gitlab) and [podcast](https://tripactions.com/blog/podcast-how-remote-companies-think-about-business-travel). 
 
