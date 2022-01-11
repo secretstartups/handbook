@@ -237,7 +237,7 @@ For performance reasons, it is helpful to keep the slowly changing dimension at 
 | 2 | 'approved' | 2022-01-05 |
 | 2 | 'approved' | repeat until today's date |
 
-In the Enterprise Dimensional Model, we introduce the daily grain in the `COMMON` schema so the snapshot models are available in our reporting tool. Snapshot models should end with the suffic `_snapshot`.
+In the Enterprise Dimensional Model, we introduce the daily grain in the `COMMON` schema so the snapshot models are available in our reporting tool. Snapshot models should end with the suffix `_snapshot`.
 
 ## Useful links and resources
 
