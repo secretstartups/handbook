@@ -23,7 +23,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Marketing, SDR Global | Tony Tsiras | Tony Tsiras| Davie Soomalelagi |
 | G&A, Finance, People, CEO | Maria Gore | Alina Moise | Davie Soomalelagi |
 | G&A, Accounting, Legal | Rachelle Druffel | Alina Moise | Davie Soomalelagi |
-| Development | Mark Deubel and Riley Smith | Zsuzsanna Kovacs and Susan Hill | Michelle Jubrey (temporary) |
+| Development | Mark Deubel, Riley Smith, Sara Currie | Zsuzsanna Kovacs and Susan Hill | Michelle Jubrey (temporary) |
 | Quality | Rupert Douglas   | Zsuzsanna Kovacs | Davie Soomalelagi (temporary) |
 | UX  | Rupert Douglas   | Zsuzsanna Kovacs  | Davie Soomalelagi (temporary) |
 | Support | Joanna Michniewicz  |  Joanna Michniewicz | Michelle Jubrey |
