@@ -367,6 +367,13 @@ Be advised that some templates are being used for both `in-person` and `virutal 
 - Self-Service Virtual Event with Promotion (with or without Marketo Landing Page): [YYYYMMDD_SelfServiceTopic_Region (with Promotion)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8760A1)
 - Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
 
+**Partner Campaign Setup**
+- Partner MDF Funded campaigns go [this page](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
+- Joint GitLab/Partner campaigns, follow the directions for each campaign type above/below. There are additional steps [here-TBD]() you'll need to complete as well.
+- Partner Trials setup, go to [this page](/handbook/marketing/channel-marketing/partner-campaigns/#trial-campaign-set-up)
+
+
+
 ##### Step 2: Sync to Salesforce
 
 - At the program main screen in Marketo, where it says `Salesforce Sync` "not set", click on "not set"
@@ -387,6 +394,7 @@ If you are a user of Allocadia, in this step you will also add the Allocadia ID 
         - ((my.email header image url}} - This is optional. You will need this if you had custom images created.
         - {{my.ondemandurl}} - This will be entered AFTER the event date. It is the link to the recorded webcast. You will need to come back after the event and update this token.
 - Update the utm_campaign field using the following format: Campaign Tag, with no spaces, capitalization, underscores, or special characters.
+- **Partner Campaigns** will need to also to update the `{{my.partner name}}` and `{{my.partner crm id}}` for proper routing 
 
 ##### Step 4: Activate Marketo smart campaign(s)
 * If this is a `Vendor Arranged Meeting` or `Executive Roundtable`, skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded. 
@@ -662,6 +670,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 
 ##### Step 5: Update this Handbook page
 - Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a `yes` and a link to the parameter and campaign you have set up.
+
 
 ## Removing Registrations from Marketo Programs
 
