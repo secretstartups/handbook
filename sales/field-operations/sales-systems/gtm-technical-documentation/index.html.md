@@ -67,9 +67,11 @@ Code Units:
 **Outputs:** Contact Owner
  
  
-## Salesforce Record Sharing And Visibility Settings
+## Salesforce SAFE: Record Sharing And Visibility Settings
  
 Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#heading=h.7meftl8rz0pi) for details.
+
+For manual sharing of opportunity record, please refer Field Operations handbook [here](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#how-to-share-an-opportunity)
  
 ## Quote Approval System
  
