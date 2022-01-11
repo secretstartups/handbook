@@ -21,18 +21,23 @@ Where applicable, GitLab account teams should assist prospects and customers by 
 
 1. [Qualify the Opportunity for a value stream assessment](#qualify)
 1. [Educate potential participants and obtain commitment to the exercise](#education-and-commitment)
-1. [Facilitate a discovery session and/or conduct interviews](#discovery)
+1. [Prepare for the Value Stream Workshop](#prepare)
+1. [Plan the Value Stream Workshop](#planning-meeting-with-customer)
+1. [Facilitate the Value Stream Workshop](#value-stream-workshop)
 1. [Summarize the findings](#summarize-the-findings)
-1. [Stakeholder readout](#stakeholder-readout)
 1. [Contribute back to this framework](#how-to-contribute)
 
 ### Qualify
 
-Value stream assessments require an investment of time by both the GitLab field teams and our prospects and customers. To ensure the appropriate return on this investment of time, the opportunities should meet the following criteria:
+Value stream assessments(VSA) require a non-trivial investment of time by both the GitLab field teams and our prospects and customers. To ensure the appropriate return on this investment of time, the opportunities should meet the following criteria:
 
+- We have a strong relationship with an executive sponsor
+- The opportunity has a Net ARR value of over $500k
 - The account has a total addressable market of at least 1000 GitLab users
 - The prospect or customer is focused on improving their software delivery performance
-- We have a relationship with stakeholders that have the authority to make a decision on the purchase of GitLab
+- We have a relationship with the [economic buyer](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer)
+- We have identified and established a relationship with the [champion](https://about.gitlab.com/handbook/sales/meddppicc/#champion)
+- We suggest pitching VSA prior to POVs to understand bottlenecks, key metrics important to stakeholder. This also gives us an opportunity to agree to the success criterias before starting the POV as value drivers for deal closure.
 
 Key indicators that the opportunity is well-suited include:
 
@@ -43,16 +48,18 @@ Key indicators that the opportunity is well-suited include:
     - Modernize their DevOps capabilities
 - The customer is currently using some features of GitLab and is interested in how leveraging more of the platform will drive software delivery outcomes
 
+The scope of a value stream assessment should always be clearly defined. A clearly defined scope ensures that the correct people are being included in the team and reduces the risk of time lost agreeing what should be focussed on. For this reason, the scope of a GitLab facilitated assessment must always be within the DevSecOps space.
+
 ### Education and Commitment
 
-A successful Value Stream Assessment requires a commitment to the exercise by the software delivery stakeholders and the personnel experienced with the various processes that constitute their value stream. Without understanding the assessment process and its value to their organization, key participants will lack the commitment to ensure a successful VSA. Educate the prospect or customer on the benefits, process details, and the required commitment. Leverage the [Value Stream Assessment Pitch Deck](https://docs.google.com/presentation/d/1R8RMrXDIaP9Mz3P0_xcevjDQROtvVpSwtEBJgxdsNbw/edit?usp=sharing) by customizing it for the prospect or customer to assist with this step
+A successful Value Stream Assessment requires a commitment to the exercise by the software delivery stakeholders and the personnel experienced with the various processes that constitute their value stream. Without understanding the assessment process and its value to their organization, key participants will lack the commitment to ensure a successful VSA. Educate the prospect or customer on the benefits, process details, and the required commitment. Leverage the [Value Stream Assessment Pitch Deck](https://docs.google.com/presentation/d/1R8RMrXDIaP9Mz3P0_xcevjDQROtvVpSwtEBJgxdsNbw/edit?usp=sharing) by customizing it for the prospect or customer to assist with this step.
 
 _While a Value Stream Assessment is an advanced discovery exercise, it's expected that initial [opportunity discovery](/handbook/sales/playbook/discovery/) and [technical discovery](/handbook/customer-success/solutions-architects/processes/technical-discovery/) have been conducted._
 
 #### Key Benefits
 
 - Discovery and documentation of the software delivery value stream or "path to production" currently in place
-    - Establish a baseline from which to measure the progress of software delivery performance
+    - Establish an agreed upon baseline from which to measure the progress of software delivery performance
     - Identify manual configuration touchpoints and handoffs and other value stream bottlenecks
     - Create a process improvement roadmap
     - Understand the return on investment of a value delivery platform
@@ -62,30 +69,98 @@ After the prospect or customer understands the process and its benefits, confirm
 
 #### What is The Required Time Commitment?
 
-Focusing on the goals and benefits listed above, the time required to complete a minimally viable value stream assessment will vary from organization to organization. It is an anti-goal for the exercise to require exhaustive discussion and research. Depending on the availability and commitment of the various value stream participants and stakeholders, the practice could take as little as 4 hours to complete or up to 15 hours spread out through multiple sessions over multiple days. The sessions typically involve different personas per session.
+Focusing on the goals and benefits listed above, the time required to complete a minimally viable value stream assessment will vary from organization to organization. It is an anti-goal for the exercise to require exhaustive discussion and research. Depending on the availability and commitment of the various value stream participants and stakeholders, the practice could take as little as 4 hours to complete or up to 15 hours spread out through multiple sessions over multiple days.
 
-### Discovery
+### Prepare
 
-- Facilitation
+It is extremely important to have an internal preparation meeting(can be async) prior to pitching VSA to the customer. The goal of the meeting is to be able to discuss:
+- The opportunity (should include SFDC link)
+- The key players & their roles
+- What metrics are these key players measured by
+- Any OKRs for these key players that the account team is aware of
+- What will be the succesful outcome from VSM
+- Pick key slides to deliver to customer
+- Pick key discovery questions to be asked during pitch & customer planning session
+
+Please ask the account team to share as much info as possible regarding the above questions so the facilitator can dive deeper into identifying key slides, questions to be asked during customer pitch
+
+### Planning meeting with customer
+
+Planning a Value Stream Workshop can generally be done within an hour, given the right expectation, focus and people involved.
+
+It is recommended that when planning a Value Stream Workshop, a [Value Stream Transformation Charter](https://docs.google.com/spreadsheets/d/1_vUl2TaBME_X4qIRct0B9Fo-vngq8sjX/edit?usp=sharing&ouid=117829138838517768280&rtpof=true&sd=true) should be used.
+
+#### Define Value Stream
+
+- What is the value stream that is to be mapped?
+- Where does the mapping process start and end?
+- What context or conditions are being considered?
+- What triggering event initiates the work flowing through the value stream?
+- What is the demand rate? (The volume of incoming work per day, week, month, etc. relating to this value stream)
+- (Optionally) Which team, project, feature, etc. is being mapped?
+- Define boundaries and limitations
+    - When looking at desired future state, it is very likely there will be certain limitations that the team needs to operate within (financial, systems, customer, organisational, physical, etc)
+    - This is critical to avoid creating an unrealistic desired future state, or one that's simply not achievable in the defined time frame
+- Define the time frame (How quickly do they need to realise the future state?)
+
+Without the answers to these questions we risk spending significant time and energy trying to understand each possible variation and often will end up with metrics that are hard to define (the "it depends" trap). As such, it's critically important that these definitions are confirmed and agreed upon prior to the workshop (generally as part of the planning meeting).
+
+### Value Stream Workshop
+
+- People
+- Process
 - Tools
 - Workflows
 - Questions
 
-#### Facilitation
+#### People
 
-TODO
+In order to help facilitate a Value Stream Assessment, a number of GitLab team members will be required to take part. The roles of these members generally fall into the following:
+
+- **Facilitator** - A team member fully versed in the Value Stream Mapping process who is responsible for leading the session; ensuring that discussion is staying on-topic, at the right level and at the required pace.
+- **Account Leader** - The account leader's responsibility is to ensure that the long term strategic vision for the customer/prospect is considered when discussing desired future state and they can also provide additional context to the current state.
+- **Scribe** - A team member who's primary purpose is to document the session, capture key metrics as they emerge which will later be used to create a Value Stream Map.
+
+#### Process
+
+The process which we will go through, at a high level, is as follows:
+
+1. Why we are here? (Exec sponsor led)
+1. Re-iterate expectations set in the planning meeting
+    1. Start and end points for the value stream
+1. Current state
+    1. Initial process "walk-through"
+        1. Capture people, processes and technology
+    1. 2nd process "walk-through"
+        1. Metrics gathering (Lead Time, Process Time, Percent Complete and Accurate)
+    1. Anylse metrics and identify bottlenecks and improvement areas
+1. Design future state
+    1. Review the expectations again, to align the team on the target they are aiming to create
+    1. Determine "right work" (which processes and steps are required for the value stream to be optimal)
+        1. Remove processes and process steps when they are truely unnecessary
+        1. Add processes and process steps when they can increase **overall** process time and lead time
+    1. Making work flow
+        1. Aim to reduce the lead time (LT), process time (PT) and achieve a higer percent complete and accurate (%C&A) for every process block where prossible
+        1. Use Lean countermeasures and improvement tools
+    1. Managing the work
+        1. How will we measure if the value stream is performing as we intended? (KPIs)
+        1. Who will monitor and manage the value stream performance?
+1. Develop transformation plan (likely completed async)
+    1. For the transformation plan as a whole, we capture accountable parties and progress review dates
+    1. For each process block transformation, capture the measurable target, proposed countermeasures, execution method, owner and timeline (later, status as well)       
 
 #### Tools
 
 - Remote:
-    - Mural or Lucid charts for real-time collaboration
+    - [Google Sheets - Lite Value Stream Mapping Template](https://docs.google.com/spreadsheets/d/1ioMIf_wV95mGUwjHezjT3zOTkEeG_gEnKanVS4hJB0k/edit?usp=sharing)
     - Zoom, MS Teams, or Google Meet
+    - LucidChart for Value Stream Map visulization
 - Onsite:
     - Stickies
     - Pens
     - Large whiteboard
 
-#### Workflows
+#### Example Workflows
 
 1. Idea to Production
 1. Response to Production Incident
@@ -103,20 +178,16 @@ TODO
 
 ![Toolchain Upgrading and Maintenance](workflow-03.png)
 
-#### Questions
-
-Discovery Questions for each worflow:
-
-1. Workflow 01: Idea to Production
-    - TODO: Adrian & Michael
-1. Workflow 02: Response to Production Incident
-    - TODO: Gronk & Sri
-1. Workflow 03: Toolchain Upgrading and Maintenance
-    - TODO: Simon & Robbie
-
 ### Summarize the Findings
 
-### Stakeholder Readout
+The final meeting as part of the Value Stream Assessment process is the findings and next steps presentation (though it's called a presentation, it's expected to be a two-way discussion). The high level topics of this meeting are:
+
+1. Summary of planning outcomes; what process was to be mapped and what target goals were created
+1. Summary of the the current state mapping (with VSM diagram)
+1. Summary of the proposed future state mapping (with VSM diagram)
+1. Highlight the key differences, expected process and business benefits
+1. Walkthrough and gain agreement for the transformation plan
+1. Define next steps and suggest a review date
 
 ## How to Contribute
 
