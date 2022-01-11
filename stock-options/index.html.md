@@ -13,9 +13,9 @@ to create value for our shareholders and we want our employees to benefit from t
 
 ## About Your Ownership in GitLab
 
-At GitLab we strongly believe in employee ownership in our Company. We are in business to create value for our shareholders and we want our employees to benefit from that shared success.
+At GitLab we strongly believe in team member ownership in our Company. We are in business to create value for our shareholders and we want our team members to benefit from that shared success.
 
-This guide is meant to help you understand the piece of GitLab that you’re going to own! Its goal is to be more straightforward than the full Equity Incentive Plan Documents and your stock option agreement which you are advised to read, which both go into the full legal details.  Please note, however, that while we hope that this guide is helpful to understanding the equity and/or issued to you under the Equity Plan, the governing terms and conditions are contained in the EquityPlan and the related stock option agreement. You should consult an employment attorney and/or a tax advisor if you have any questions about navigating your equity and before you make important decisions.
+This guide is meant to help you understand the piece of GitLab that you’re going to own! Its goal is to be more straightforward than the full Equity Incentive Plan Documents and your equity agreement which you are advised to read, which both go into the full legal details.  Please note, however, that while we hope that this guide is helpful to understanding the equity issued to you under the Equity Plan, the governing terms and conditions are contained in the Equity Plan documents. You should consult an employment attorney and/or a tax advisor if you have any questions about navigating your equity and before you make important decisions.
 
 ## Restricted Stock Units
 
