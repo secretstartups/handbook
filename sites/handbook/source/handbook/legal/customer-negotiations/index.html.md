@@ -33,6 +33,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | [**What's needed to close a deal?**](#whats-needed-to-close-a-deal)    | [**GitLab Subscription Agreement 101**](#gitlab-subscription-agreement-101) |
 | [**Requests for GitLab Financial Information, Tax and Insurance Certificates**](#completing-vendor-request-forms) | [**Why GitLab does not sign BAAs (Business Associate Agreement)**](#why-gitlab-does-not-sign-baas) |
 | [**How to get a Data Processing Agreement (DPA) Signed**](#how-to-get-a-data-processing-addendum-dpa-signed) | [**Intro to GitLab Privacy Compliance and Data Processing Agreement (DPA)**](#intro-to-data-privacy-and-the-gitlab-data-processing-addendum) |
+| [**Escalation Process**](#escalation-process) |  |
 
 ## OPERATIONAL
 
@@ -128,6 +129,10 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 
 ## How to get a Data Processing Addendum (DPA) signed
 GitLab includes a signed version of the DPA on the [Terms of Service](https://about.gitlab.com/terms/), as stated within the [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) this DPA is applicable to all Enterprise Customer's and does not need to be counter-signed. In addition, as stated within the header of the DPA, a Customer’s acceptance of the Subscription Agreement shall be treated as its execution of the DPA.  
+
+## Escalation Process
+In instances where a Customer or a Partner has requested material non-standard terms that are not generally accepted, and where the transaction may merit additional consideration, please follow the [Escalation Process Overview](https://drive.google.com/drive/folders/19ZHBpaRmmFJNG2BTp-Q5zI20yzt_X0Yr). Included in the Overview are the steps required to meet threshold requirements, ensure the matter receives the appropriate level of review, and provide guidance to complete the applicable Escalation Form(s) _Note This document is only available for GitLab Team Members._ 
+
 
 
 ## EDUCATIONAL
