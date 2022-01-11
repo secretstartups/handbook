@@ -21,7 +21,7 @@ This page details processes and general guidelines specific to the Executive Bus
 * Stefanie Haynes (Sr. EBA) supporting Craig Mestel (CMO) and Melissa Smolensky (VP of Corporate Marketing)
 * Alison Allende (Sr. EBA) supporting Brian Robins (CFO) 
 * Kat Allen (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) 
-* Kristie Thomas (Sr. EBA) supporting Scott Williamson (CProdO), Eric Johnson (CTO) and Anoop Dawar (VP of Product Management)
+* Kristie Thomas (Sr. EBA) supporting Scott Williamson (CProdO), Eric Johnson (CTO) and Anoop Dawar (VP of Product Management), David DeSanto (VP of Product)
 * Sharlene Seemungal (Sr. EBA) supporting Robin Schulman (CLO)
 
 
