@@ -27,7 +27,6 @@ Read more about [levels](/handbook/hiring/vacancies/#definitions) at GitLab here
 
 ### Data Scientist (Intermediate)
 
-Data Scientists (Intermediate) share the same requirements and responsibilities outlined above.
 
 #### Data Scientist (Intermediate) Job Grade
 
@@ -86,7 +85,7 @@ The Senior Data Scientist is a [grade 7](/handbook/total-rewards/compensation/co
 
 The Senior Data Scientist has all of the responsibilities of an Intermediate Data Scientist, plus:
 
-*  Improve predictive models with data from multiple models 
+*  Improve predictive models with data from multiple sources 
 *  Automate feedback loops for algorithms/models in production  
 *  Create repeatable processes and scalable data products
 *  Influence functional teams and develop best practices across the organization
@@ -121,23 +120,19 @@ The Staff Data Scientist is a [grade 8](/handbook/total-rewards/compensation/com
 
 The Staff Data Scientist has all of the responsibilities of a Senior Data Scientist, plus:
 
-*  Improve predictive models with data from multiple models 
-*  Automate feedback loops for algorithms/models in production  
-*  Create repeatable processes and scalable data products
-*  Influence functional teams and develop best practices across the organization
+*  Develop a technical data science team vision and strategy
 *  Review, scale, and enhance operationalized statistical models and algorithms 
+*  Mentoring data scientists and data analysts 
 
 #### Requirements
 
 The Staff Data Scientist meets all of the requirements of a Senior Data Scientist, plus:
 
-* 6+ years professional experience in an analytics role
-* 4+ years professional experience in a predictive analytics, data science, or similar role
-* Developed 4 or more automated machine learning models for production use
-* Developed and presented 6 or more predictive analytical projects
-* Developed communication skills with ability to explain statistic and mathematical concepts to non-experts
-* Extensive knowledge, application, and experience in creating and implementing recommendation systems, machine learning, NLP, statistics, and deep learning
-* Ability to quantify improvements from business efficiency or customer experience based on research outcomes 
+* 5+ years professional experience in a predictive analytics, data science, or similar role
+* Knowledge and experience automating machine learning models at scale
+* Expertise solving complex and highly impactful quantitative business problems
+* Strong proficiency with python (pandas, numpy, etc.), SQL, and cloud environments
+* Expert understanding of statistics and the math behind data science algorithms  
 
 #### Staff Data Scientist Performance Indicators
 
@@ -156,11 +151,8 @@ The Principal Data Scientist is a [grade 9](/handbook/total-rewards/compensation
 
 The Principal Data Scientist has all of the responsibilities of an Staff Data Scientist, plus:
 
-*  Improve predictive models with data from multiple models 
-*  Automate feedback loops for algorithms/models in production  
-*  Create repeatable processes and scalable data products
-*  Influence functional teams and develop best practices across the organization
-*  Review, scale, and enhance operationalized statistical models and algorithms 
+*  Assist management with project forecasting, roadmapping, and resourcing
+*  Spearhead for new data science initiatives, projects, and collaborations
 
 #### Requirements
 
