@@ -151,42 +151,31 @@ At GitLab, [the first thirty days](/gitlab-com/people-group/people-operations/em
 ## What do new hires want from an onboarding program?
 Onboarding is the first impression a new hire gets of your organization. It's critical to invest the time to do it well so that your new team members get to know you, understand what is expected of them, introduces them to co-workers and teammates, and sets them up to succeed. 
 
-At GitLab, we value documentation in a manner that creates a [single source of truth](/handbook/values/#single-source-of-truth). It operates [handbook-first](/handbook/handbook-usage/#why-handbook-first), and in valuing [transparency](/handbook/values/#transparency), makes its handbook [publicly accessible to all](/handbook/). 
+At GitLab, we document to create a [single source of truth](/handbook/values/#single-source-of-truth) so we can operate [handbook-first](/handbook/handbook-usage/#why-handbook-first) and value [transparency](/handbook/values/#transparency) by making the handbook [publicly accessible to all](/handbook/). 
 
 ## Remote onboarding tips
 
 ### How is onboarding a remote employee different from an office employee?
-Because remote onboarding is mostly self-guided, the real-time face-to-face ability for them to ask questions does not exist. Knowing this, we've created some important reminders for onboarding remote employees such as:
+Because remote onboarding is mostly self-guided, the real-time face-to-face ability for new employees to ask questions does not exist. Knowing this, we've created some important reminders for onboarding remote employees such as:
 
-1. **Check how far the new GitLab team member has gotten in their onboarding / career mobility issue.** The onboarding / career mobility issue that all new/transitioning GitLab team members are assigned can be overwhelming at first glance, particularly on the first day of work. Proactively check in to offer some direction or advice on areas the team member may be having trouble with.
-1. **Suggest helpful handbook pages.** Chances are that you've discovered some particularly helpful pages in the handbook during your time at GitLab. Point them out to the new GitLab team-member, and help them get used to navigating the handbook. Some examples might include:
-    - [GitLab's guide for starting a remote role](/company/culture/all-remote/getting-started/)
-    - [The tools page](/handbook/tools-and-tips)
-    - [The internal-only org chart](https://comp-calculator.gitlab.net/org_chart)
-    - [The positioning FAQ](/handbook/positioning-faq)
-1. **Remind them about introducing themselves.** Remind the new team member to introduce themselves in the Slack channel `#new_team_members` or relevant team channel. Encourage them to write a little personal note, and if they're comfortable, include a photo or two!
-1. **Encourage them to organize a group call with other new hires.** New GitLab team-members who are used to (or prefer) a more conventional new hire orientation — frequently hosted in group settings in colocated organizations — [may feel a lack of early bonding](/company/culture/all-remote/learning-and-development/). Encourage them to organize a group call with other new hires in order to walk through onboarding together, while learning about new personalities and [departments of the company](/company/team/structure/).
-1. **Introduce them to Slack.** Slack may seem like it's ubiquitous, but that doesn't necessarily mean the new GitLab team-member will have had experience using it before. Since it's a central part of how we communicate at GitLab, consider showing them around, and give them some pointers about [how we use it](/handbook/communication/#chat).
-    - Be sure to suggest [location channels](/handbook/communication/chat/#location-channels-loc_) and [Social Slack Groups](/handbook/communication/chat/#social-groups) where they can immediately plug in with other team members who appreciate similar things.
-1. **Ask where they need help and connect them with the experts**. Connect new GitLab team-members with subject matter experts if your assigned team member requests additional help in a given area. Examples are below.
-    - For new GitLab team-members who have not worked in a [remote organization](/company/culture/all-remote/) before, they may need assistance in thinking through an ideal [workspace](/company/culture/all-remote/workspace/) and embracing [informal communication](/company/culture/all-remote/informal-communication/). Consider asking seasoned remote colleagues in the `#remote` Slack channel to reach out and answer questions.
-    - If they're new to [Git](/learn/), consider asking experts in the `#git-help` Slack channel to reach out and offer a tutorial.
-    - If they're new to [Markdown](/blog/2018/08/17/gitlab-markdown-tutorial/), consider asking experts in the `#content` Slack channel to reach out and offer support.
-1. **Help with the team page.** For less technical new hires, adding themselves to the [team page](/company/team/) might feel like the most daunting task on the onboarding issue. Offer to help with the process. This doesn't necessarily have to happen on day one, but you should let them know that you're available to help if and when they need it. Consider scheduling a second meeting later in the week to walk them through [the process](/handbook/git-page-update/#11-add-yourself-to-the-team-page)
-    - In particular, help them to create their SSH key as this tends to be a sticking point for many new hires. You can also show them [Lyle's walkthrough](https://youtu.be/_FIOhk03VtM).
-1. **Check in regularly.** Checking in regularly will help them feel welcome and supported. 
+1. **Check in immediately.** Receiving and retaining a wealth of new information can be overwhelming, particularly on the first day of work. 
+1. **Suggest helpful hints.** Chances are that you've discovered some tips, tricks, and hacks--share them!
+1. **Remind them to introduce themselves.** Remind the new team member to introduce themselves in the Slack channel `#new_team_members` or relevant team channel. Encourage them to share some personal info and include a photo or two!
+1. **Encourage them to socialize with other new hires.** Encourage new employees to organize a group call with other new hires in order to walk through onboarding together, while learning about new personalities and [departments of the company](/company/team/structure/).
+1. **Introduce them to Slack.** Slack may seem ubiquitous, but not everyone has used it before. 
+1. **Ask where they need help and connect them with the experts**. Connect new team-members with subject matter experts if your assigned team member requests additional help in a given area. 
+1. **Keep checking in regularly.** Checking in regularly will help them feel welcome and supported. 
 1. **Provide backup if needed**. If you plan to be out (e.g. [vacation](/handbook/paid-time-off/), [company business](/handbook/travel/), [events](/events/), etc.) during a new GitLab team-member's first few weeks, please ensure that a backup person is available to offer support.
 
 ### What are some tips to plan an effective employee onboarding training?
-Best practices for effective onboarding include clear **communication**. A few tips reminding new hires that GitLab:
+Best practices for effective onboarding include clear **communication**. A few ways to do this are:
 
-* Encourages people to write down all information
-* Allows everyone in the company to view and edit every document
-* Considers every document a draft, don't wait to share until it's done
-* Use screenshots in an issue tracker instead of a whiteboard, ensuring that everyone at any time can follow the thought process
-* Encourages non-work related communication for relationship building
-* Encourages group video calls for bonding
-* Encourages one-on-one video calls between people (as part of onboarding)
+* Encourage people to write everything down
+* Allow open access to view all important documents
+* Use screenshots so everyone at any time can follow the thought process
+* Encourage non-work related communication for relationship building
+* Encourage group video calls for bonding
+* Encourage one-on-one video calls between people (as part of onboarding)
 
 ## Common remote onboarding challenges 
 
