@@ -319,9 +319,9 @@ The following segmentations that are approved and live.
 [Funnel Stage](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1021A1)
 </summary>
 
-- Top - `Status = NULL, Inquiry or Raw` OR (`Status = Nurture` AND `Person Score < 75`)
-- Middle - `Status = MQL, Accepted or Qualifying` OR (`Status = Nurture` AND `Person Score > 74`)
-- Bottom - `Status = Qualified` OR `1 Open Opportunity` OR `Has an Open Opportunity`
+- Raw > INQ - `Status = NULL, Inquiry or Raw` OR (`Status = Nurture` AND `Person Score < 75`)
+- INQ > MQL - `Status = MQL, Accepted or Qualifying` OR (`Status = Nurture` AND `Person Score > 74`)
+- MQL > SAO - `Status = Qualified` OR `1 Open Opportunity` OR `Has an Open Opportunity`
 - Customer - `Current Customer = TRUE` OR `Status = Web Portal Purchase`
 - Unqualified - Status is `Unqualified or Bad Data`
 
