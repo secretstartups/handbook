@@ -195,7 +195,7 @@ Below are some guidlines to follow when building marts:
 
 In broad, generalized terms, there are two perspectives used when analysing data: the current view and the historical view.  When using the current view, an analyst uses the most up-to-date values for dimensions to slice facts, regardless of what these values may have been in the past. However, sometimes it is necessary to look at the world the way it was in a prior period, when the values in a dimension were different. For example, you may want to look at sales numbers using a prior product catalog or calculate the number of customers in a given country over time, to provide insights on customers who change addresses periodically. 
 
-We use three types of dimensions to cover both the current and historical view of the data. For a current view, a Type 1 dimension will have the up-to-date values for each attribute. For this historical analysis, a Type 2 slowly changing dimension (SCD) can track infrequent changes to a dimension's attributes and capture the period when these values were valid. A third type of dimension can be used to provide an alterative view. This could be used when a product in the catalog could fall into two categories, and the analyst would like to see the data from both perspectives separately. We do not currently employ this Type 3 dimension in the Enterprise Dimensional Model.
+We use three types of dimensions to cover both the current and historical view of the data. For a current view, a Type 1 dimension will have the up-to-date values for each attribute. For this historical analysis, a Type 2 slowly changing dimension (SCD) can track infrequent changes to a dimension's attributes and capture the period when these values were valid. This differs from an event/activity table because the attribute values are not expected to change, but are allowed to change. In an activity table, we track the changes made to objects which have lifecycles (ex. opportunities). A third type of dimension can be used to provide an alterative view. This could be used when a product in the catalog could fall into two categories, and the analyst would like to see the data from both perspectives separately. We do not currently employ this Type 3 dimension in the Enterprise Dimensional Model.
 
 For more information about the three types of dimensions:
 1. [Type 1](https://www.kimballgroup.com/2008/08/slowly-changing-dimensions/): Dimension values are overwritten when they are updated. This provides a current-state view of the data with no historical context.
@@ -210,13 +210,13 @@ Slowly changing dimensions are useful when coupled with snapshot tables. A snaps
 | 1 | 'validating' | 2022-01-02 | 2022-01-02 |
 | 1 | 'approved' | 2022-01-02 | 2022-01-03 |
 | 1 | 'closed' | 2022-01-03 | 2022-01-05 |
-| 1 | 'approved' | 2022-01-05 |  |
+| 1 | 'approved' | 2022-01-05 | [today's date] |
 | 2 | 'open' | 2022-01-01 | 2022-01-05 |
-| 2 | 'approved' | 2022-01-05 |  |
+| 2 | 'approved' | 2022-01-05 | [today's date] |
 
 **Tip**: It can be helpful to add a column with logic to indicate the most recent record in a slowly changing dimension.
 
-For performance reasons, it is helpful to keep the slowly changing dimension at this grain for as long as possible. That being said, it is often easier for users to understand a slowly changing dimension when it is [blown up to a daily snapshot view](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#building-models-on-top-of-snapshots). The example above is transformed into the table below:
+For performance reasons, it is helpful to keep the slowly changing dimension at the grain in the example above for as long as possible. That being said, it is often easier for users to understand a slowly changing dimension when it is [expanded to a daily snapshot view](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#building-models-on-top-of-snapshots). The example above is transformed into the table below:
 
 | id | attribute | date|
 | --- | --- | --- |
@@ -228,7 +228,7 @@ For performance reasons, it is helpful to keep the slowly changing dimension at 
 | 1 | 'closed' | 2022-01-04 |
 | 1 | 'closed' | 2022-01-05 |
 | 1 | 'approved' | 2022-01-05 |
-| 1 | 'approved' | repeat until today's date|
+| 1 | 'approved' | repeat until today's date |
 | 2 | 'open' | 2022-01-01 |
 | 2 | 'open' | 2022-01-02 |
 | 2 | 'open' | 2022-01-03 |
@@ -237,7 +237,9 @@ For performance reasons, it is helpful to keep the slowly changing dimension at 
 | 2 | 'approved' | 2022-01-05 |
 | 2 | 'approved' | repeat until today's date |
 
-In the Enterprise Dimensional Model, we introduce the daily grain in the `COMMON` schema so the snapshot models are available in our reporting tool. Snapshot models should end with the suffix `_snapshot`.
+In the Enterprise Dimensional Model, we introduce the daily grain in the `COMMON` schema so the snapshot models are available in our reporting tool. Snapshot models should end with the suffix `_daily_snapshot`. 
+
+Due to the performance concerns, we need to confirm the necessity of such a resource intensive model with business justification. Only build a daily snapshotted table in the `COMMON` schema when the use case requires being able to query fact data on a daily basis to answer questions. An example of such a question is: what was ARR on a specific calendar date? Additionally, any daily snapshot models added to the `COMMON` schema must meet a minimum performance threshold or they will need to be modified to a different level of aggregation or limited to a recent set of data (ex. last two years, previous 13 months, etc.). If the model does not build in the allotted time for it to run in the daily ci jobs, then an archiving or aggregation technique will be applied to bring the model into compliance with our performance standards.
 
 ## Useful links and resources
 
