@@ -33,6 +33,22 @@ For example, at GitLab, we hosted our 2020 [Contribute](/events/gitlab-contribut
 
 Between these larger gatherings, informal communication is another important element to maintain. We've curated a list of ways to approach this in our [informal communication guide](/company/culture/all-remote/informal-communication/).  
 
+## Benefits of remote meetings
+
+### Attendance is optional
+GitLab has a meeting policy called "[No agenda, no attenda](/handbook/communication/#external-communication)." Every work-related meeting has purpose, which is outlined a live doc agenda affixed to the calendar invite: here's a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) you can copy and use in your organization. As an all-remote company, we [do not look to a meeting by default](/company/culture/all-remote/asynchronous/#question-every-meeting); when they are necessary, we strive to make in-person attendance optional by enabling asynchronous contribution.
+
+### Inclusive
+Remote meetings that are asynchronous encourage incrased attendance because they remove time zone bias. Emplooyees can view the meeting invite, agenda, info, and contribute asynchronously as they are able. 
+
+### Meetings are recorded
+
+Remote meetings can be recorded, especially when key individuals aren't able to join live. This allows team members to catch up on what transpired, adding context to notes that were taken during the meeting. Learn more about recording in Zoom in the [Tips and Tricks section of GitLab's Handbook](/handbook/tools-and-tips/#recording-in-zoom).
+
+## Benefits of in-person meetings
+
+If a live meeting is recorded and made available to others, many of the same benefits of remote meetings apply to in-person meetings as well. However, it's hard for technology to capture the non-verbals and cameraderie that inevitably happens in an in-person meeting that sometimes falls flat online. 
+
 ## Meetups
 
 <!-- blank line -->
