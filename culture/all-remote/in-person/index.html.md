@@ -21,8 +21,6 @@ twitter_creator: "@gitlab"
 
 Humans are social creatures, and [research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2443551) has shown that there is value in in-person interactions. While there are tremendous [advantages](/company/culture/all-remote/benefits/) to operating a 100% remote company, leaders should consider being intentional about [planning in-person elements](https://www.fastcompany.com/3051518/the-science-of-when-you-need-in-person-communication), even if they're optional for team members. 
 
-GitLab Head of Remote Darren Murph shares on GitLab's intentional approach to in-person interactions (and business travel's purpose in a remote company) in a TripActions [blog](https://tripactions.com/blog/q-and-a-darren-murph-head-of-remote-at-gitlab) and [podcast](https://tripactions.com/blog/podcast-how-remote-companies-think-about-business-travel). 
-
 ## Bridging the gap during the pandemic
 
 While the Covid-19 pandemic has impacted many teams' ability to gather in person, the guidance on this page can be used as a blueprint for your organization's future in-person interactions. 
@@ -36,18 +34,24 @@ Between these larger gatherings, informal communication is another important ele
 ## Benefits of remote meetings
 
 ### Attendance is optional
-GitLab has a meeting policy called "[No agenda, no attenda](/handbook/communication/#external-communication)." Every work-related meeting has purpose, which is outlined a live doc agenda affixed to the calendar invite: here's a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) you can copy and use in your organization. As an all-remote company, we [do not look to a meeting by default](/company/culture/all-remote/asynchronous/#question-every-meeting); when they are necessary, we strive to make in-person attendance optional by enabling asynchronous contribution.
-
-### Inclusive
-Remote meetings that are asynchronous encourage incrased attendance because they remove time zone bias. Emplooyees can view the meeting invite, agenda, info, and contribute asynchronously as they are able. 
+GitLab has a meeting policy we like to call "[No agenda, no attenda](/handbook/communication/#external-communication)." Every work-related meeting has purpose, which is outlined a live doc agenda affixed to the calendar invite: here's a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) you can copy and use in your organization. As an all-remote company, we [do not look to a meeting by default](/company/culture/all-remote/asynchronous/#question-every-meeting); when they are necessary, we strive to make in-person attendance optional by enabling asynchronous contribution.
 
 ### Meetings are recorded
 
 Remote meetings can be recorded, especially when key individuals aren't able to join live. This allows team members to catch up on what transpired, adding context to notes that were taken during the meeting. Learn more about recording in Zoom in the [Tips and Tricks section of GitLab's Handbook](/handbook/tools-and-tips/#recording-in-zoom).
 
+### Inclusive
+Remote meetings that are accessible asynchronously encourage increased attendance because they remove time zone bias. Employees can view the meeting invite, agenda, and recording, and can contribute asynchronously as they are able. 
+
 ## Benefits of in-person meetings
 
-If a live meeting is recorded and made available to others, many of the same benefits of remote meetings apply to in-person meetings as well. However, it's hard for technology to capture the non-verbals and cameraderie that inevitably happens in an in-person meeting that sometimes falls flat online. 
+If a live meeting is recorded and made available to others, many of the same benefits of remote meetings apply to in-person meetings as well. However, it's hard for technology to capture the non-verbals and cameraderie that inevitably happens in an in-person meeting, which sometimes falls flat online.
+
+### Synchronicity
+Just as asynchronous participation is a benefit of remote meetings, there is a certain collaborative magic that can happen during an in-person meeting or retreat that is more difficult (though not impossible) to reproduce virtually. Often, the greatest value of being in a shared space is the ability to spin off ideas and smaller conversations and keep them going as new ideas arise.
+
+### Networking
+On a virtual call, you're limited to viewing a certain number of faces at a time. In person, you potentially have an opportunity to connect with everyone in the room.
 
 ## How to prepare for an in-person meeting
 
