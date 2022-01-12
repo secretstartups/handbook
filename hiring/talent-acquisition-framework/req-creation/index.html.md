@@ -268,23 +268,45 @@ Thanks, xxx
 
 Once a job has been setup in Greenhouse and posted to the GitLab public job board it will be automatically posted to the [Careers Page](/jobs/careers/).
 
+### Choosing the correct location for your published job
+
+The location field in Greenhouse will dictate where a particular job ends up being listed geographically. 
+
+There are set locations options in Greenhouse to make this possible. Recruiters can choose from one of the following locations and that will ensure the job shows up on LinkedIn in the countries highlighted below
+
+| Location selection in Greenhouse | Countries where the associated job will post on LinkedIn |
+| -------------------------------- | -------------------------------------------------------- |
+| Remote | United States, Canada, United Kingdom, Netherlands, India, Australia |
+| Remote, Global | United States, Canada, United Kingdom, Netherlands, India, Australia |
+| Remote, Americas | United States, Canada, Mexico, Chile, Costa Rica |
+| Remote, EMEA | United Kingdom, Netherlands, Germany, France, Ireland, South Africa |
+| Remote, APAC | Australia, New Zealand, South Korea, Singapore, Japan, India |
+| Remote, US | United States |
+| Remote, North America | United States, Canada |
+| Remote, France | France |
+| Remote, Japan | Japan |
+| Remote, Germany | Germany |
+| Remote, United Kingdom | United Kingdom |
+
+If you have a job that needs to show up in a different subset of countries, you can choose the most appropriate location tag and manually adjust the countries where that job shows up by following the instructions under the "Publishing jobs to LinkedIn" section.
+
+
 ### Publishing jobs to LinkedIn
 
 All jobs created in Greenhouse are setup to be automatically posted to LinkedIn using their job wrapping feature.
 
-If the job should only be advertised in a specific country (e.g. Japan, Germany), the LinkedIn Job Wrapping codes are not necessary. Simply list the job as location = "Remote" and add the country to the Job Name. 
+As mentioned in the "Choosing the correct location for your published job" section, the location field in Greenhouse dictates where a particular job ends up being published.
 
-- Do not select the option to `Publish to Free Job Boards` within Greenhouse as this information will override the location information. 
+Common issues that may need to be addressed for a job to correctly publish on LinkedIn:
 
-If the job is regional (e.g. APAC, EMEA, LATAM), recruiters can make sure it is added to LinkedIn by following the steps below:
+- If the option to `Publish to Free Job Boards` within Greenhouse is selected, this information will override the location information. You should unselect the option `Publish to Free Job Boards`.
+
+Prior to 2022 we used a more complex system to post jobs to various locations. If your job is showing up in places it should not, you may need to remove existing code from the source code in Greenhouse. To do this, follow these steps:
 
 - Click on the < > on the menu bar in the description text box to open the source code
 - Scroll to the bottom of the pop-up
-- Paste the following HTML `<div><span style="font-size: xx-small;"><span style="color: white">Remote-XXX</span></span></div>` at the bottom and change the letters in Remote-XXX to the appropriate code for the current available LinkedIn Job Wrapping location(s)
-- Please copy directly from the sheet because spaces matter
-- The default tag should be Remote-Global if no other locations were given by the recruiter
-- GitLab team members can review [job wrapping tags here](https://docs.google.com/spreadsheets/d/1CrrPGk3imxrap7Na3AQTQ0lmw2ENyZ51/edit?usp=sharing&ouid=100237668635376025864&rtpof=true&sd=true)
-- Click Ok
+- Remove the following HTML if it is present in the source code `<div><span style="font-size: xx-small;"><span style="color: white">Remote-XXX</span></span></div>` anywhere in the job ad
+- Click "Ok", then "Save"
 
 ### Taking ownership of your LinkedIn job posts as a GitLab recruiter
 
