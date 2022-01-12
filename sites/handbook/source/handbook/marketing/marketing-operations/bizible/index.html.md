@@ -136,7 +136,7 @@ Currently, the custom machine learning model has the following weights for each 
 - **First Touch** - 29.7%
 - **Lead Creation** - 28.7%
 - **Opportunity Creation** - 12.2%
-- **SAO** - 8,9%
+- **SAO** - 8.9%
 - **Closed (Lost, Won)** - 10.4%	
 - **Middle Touches** - 10.1%
 
