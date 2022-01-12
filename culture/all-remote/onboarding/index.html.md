@@ -73,7 +73,7 @@ At GitLab, we practice [dogfooding](/handbook/values/#dogfooding). Our entire co
 
 For technical onboarding, give new hires access to the tools they'll be using in their roles and, most importantly, encourage them to use the tools as early as possible. Using tools, even for very small tasks, builds confidence and helps new employees to feel productive and empowered.
 
-### Common issues
+## Common remote onboarding challenges 
 
 One of the biggest challenges that new team members may encounter when onboarding remotely is not knowing who to ask for help with technical issues or "newbie questions." Assigning an [onboarding buddy](/culture/all-remote/onboarding/#social-requirements-for-all-remote-onboarding) is an essential step so that team members always have a friendly face they can talk to.
 
@@ -159,13 +159,13 @@ At GitLab, we document to create a [single source of truth](/handbook/values/#si
 Because remote onboarding is mostly self-guided, the real-time face-to-face ability for new employees to ask questions does not exist. Knowing this, we've created some important reminders for onboarding remote employees such as:
 
 1. **Check in immediately.** Receiving and retaining a wealth of new information can be overwhelming, particularly on the first day of work. 
-1. **Suggest helpful hints.** Chances are that you've discovered some tips, tricks, and hacks--share them!
+1. **Suggest helpful hints.** Chances are that you've discovered some tips, tricks, and hacks--share them proactively!
 1. **Remind them to introduce themselves.** Remind the new team member to introduce themselves in the Slack channel `#new_team_members` or relevant team channel. Encourage them to share some personal info and include a photo or two!
-1. **Encourage them to socialize with other new hires.** Encourage new employees to organize a group call with other new hires in order to walk through onboarding together, while learning about new personalities and [departments of the company](/company/team/structure/).
-1. **Introduce them to Slack.** Slack may seem ubiquitous, but not everyone has used it before. 
-1. **Ask where they need help and connect them with the experts**. Connect new team-members with subject matter experts if your assigned team member requests additional help in a given area. 
+1. **Encourage them to socialize with other new hires.** For example, new employees might organize a group call with other new hires in order to walk through onboarding together, while learning about new personalities and [departments of the company](/company/team/structure/).
+1. **Introduce them to any tools for connecting with colleagues.** Chat tools such as Slack may seem ubiquitous, but not everyone has used them before - and even if they have, they may not know how your network is organized. 
+1. **Ask where they need help and connect them with the experts**. Connect new team members with subject matter experts if your assigned team member requests additional help in a given area. 
 1. **Keep checking in regularly.** Checking in regularly will help them feel welcome and supported. 
-1. **Provide backup if needed**. If you plan to be out (e.g. [vacation](/handbook/paid-time-off/), [company business](/handbook/travel/), [events](/events/), etc.) during a new GitLab team-member's first few weeks, please ensure that a backup person is available to offer support.
+1. **Provide backup if needed**. If you plan to be out (e.g. [vacation](/handbook/paid-time-off/), [company business](/handbook/travel/), [events](/events/), etc.) during a new team member's first few weeks, make sure that a backup person is available to offer support.
 
 ### What are some tips to plan an effective employee onboarding training?
 Best practices for effective onboarding include clear **communication**. A few ways to do this are:
@@ -177,12 +177,12 @@ Best practices for effective onboarding include clear **communication**. A few w
 * Encourage group video calls for bonding
 * Encourage one-on-one video calls between people (as part of onboarding)
 
-## Common remote onboarding challenges 
-
-## Remote first company culture
+### Remote first company culture
 For many, building a [remote first culture](company/culture/all-remote/how-to-work-remote-first/) is challenging, but worthwhile. **Culture is the barometer of how well an organization is communicating and reinforcing its values**. 
 
 Culture is created when a company's values are prescriptively articulated and visibly [reinforced](/handbook/values/#how-do-we-reinforce-our-values) through elements such as [discretionary bonuses](/handbook/incentives/#discretionary-bonuses) and linking promotions to values. 
+
+For new team members, this is even more crucial: if your culture is not self-reinforcing in a remote environment, it may not translate during the onboarding period.
 
 ## Remote first company values
 GitLab's six core values are
@@ -192,8 +192,9 @@ GitLab's six core values are
 [**🌐 Diversity, Inclusion & Belonging**](#diversity-inclusion),
 [**👣 Iteration**](#iteration), and
 [**👁️ Transparency**](#transparency),
-and together they spell the **CREDIT** we give each other by assuming
-good intent.
+and together they spell the **CREDIT** we give each other by assuming good intent.
+
+Feel free to adopt or remix our values for your remote-first team.
 
 ## How to evaluate your existing onboarding process
 In the spirit of [transparency](/handbook/values/#transparency), GitLab's People Experience team will evaluate the onboarding process by having new employees fill out an [Onboarding Survey](https://docs.google.com/forms/d/1sigbOqWKuEtGyLROghvivgWErRnfbUI1_-57XhAwu_8/edit).
