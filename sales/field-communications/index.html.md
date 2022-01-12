@@ -78,7 +78,7 @@ This update is moderately to minimally urgent and selling-related. It likely inc
 Examples: Process changes, CRO/CEO/e-group announcements, sales/company performance, enablement resources, competitive intelligence, customer stories, channel & alliance partner updates
 
 ### Qualifying Questions 
-* Does this update directly impact at least one major segment (ENT, COMM, CS) of the field organization?
+* Does this update directly impact at least one major segment (ENT, COMM, CS, Channel, Alliances) of the field organization?
 * Does this update help the field do their jobs more effectively?  
 * Does this update need to be communicated in the next week? 
 
@@ -129,14 +129,14 @@ Examples: Outside (non-field) requests for feedback/input, team member changes, 
 * DRIs should engage these teams for input:
     * [Field Communications](/handbook/sales/field-communications/) - Heads-up on an update and/or request for help amplifying 
 * The update should leverage only these communication channels so as to not create unnecessary noise:  
-    * #sales general Slack channel - For asynchronous communication that gives context around the update or question. 
+    * Team-specific Slack channels - For asynchronous communication that gives context around the update or question. 
+       * This includes #sales, #customer-success, #channel-fyi, #alliances
     * Handbook - To maintain a single-source of truth, evergreen reference guide. 
 * Considerations: 
     * Blackout restrictions applied for end-of-quarter or noisy days. Tier 3 announcements not permitted in last two weeks of quarter or on days when 1-2 other higher-impact updates (Tier 1 and/or Tier 2) have gone out.
     * The primary spokespeople for this update should be the relevant DRI. 
     * Note that, in order to reduce burden, there are special limitations around surveys sent to the Field team – only one survey per month.  Surveys that fall in the Tier 2 category will be prioritized. 
        * If the survey limit has already been reached in a month, Field Communications will work with the requestor to find the best next-available time.  
-
 
 #### Field Communications Playbook Flowchart
 ![field-communications-playbook-flowchart](/handbook/sales/field-communications/field-communications_playbook-flowchart-fy22.png)
@@ -158,6 +158,11 @@ Once you've reviewed the playbook above and would like to request Field Communic
    1. `Field Announcement::Tier 3` 
    - Note: If the announcement request includes a request to survey some or all field team members, the `Field Survey` tag will be applied to the issue and Field Communications will work with the requestor to determine if request fits within the survey limits set each month or if plans should be adjusted. (See the "Considerations" sections for Tier 2 and 3 playbooks above.) 
 - Field Communications will collaborate with the requester on the announcement details and copy directly in the issue to finalize the roll-out plan. 
+
+#### Announcements to External Channel/Alliances Partners 
+If you have an internal announcement that is also relevant to GitLab's external Channel/Alliances Partner audience, please use the Field Announcement Request process outlined above and select the `GitLab Partners (external)` audience in addition to the relevant internal audiences. By selecting this audience, the Field Communications team will engage the appropriate team members in the Channel org to disseminate the announcement to partners. 
+
+If you have an announcement that is relevant *only* for the external partner audience, please follow the process outlined in the [Channel Handbook page] ().
 
 #### Recurring Announcements
 Some teams, including Strategic Marketing and Competitive Intelligence, are consistently creating new content and resources for the Field team. In the spirit of efficiency, Field Comms creates a container issue for each of these teams each month that serves as an aggregator of new/updated content as well as a collaboration space to allow for these teams to achieve a steady drumbeat cadence of updates to the Field. For example, 1-2 Slack notifications throughout the month sharing new/updated content and a list of all or most-impactful content in the Field Flash newsletter at the end of the month. 
