@@ -22,7 +22,7 @@ Did you attend #wellbeing-week in December, 2021? This was the second iteration 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H5Sg3Gw8E0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-We're featuring material from Wellbeing Week throughout January in GitLab Learn - you can catch all the replays in our [Skill of the Month: Wellbeing channel.](https://gitlab.edcast.com/channel/skill-of-the-month-fy22).
+We're featuring material from Wellbeing Week throughout January in GitLab Learn - you can catch all the replays in our [Skill of the Month: Wellbeing channel](https://gitlab.edcast.com/channel/skill-of-the-month-fy22).
 
 ## Mental Health in the New Year
 
