@@ -136,9 +136,9 @@ For Field Marketing Dept Only - please refer to the [Field Marketing Handbook - 
 
 #### Free-Form Requisition
 
-![coupa-image-4](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa4.png)
+![coupa-image-20](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa20.png)
 
-- Click on the "Write a request" button on the homepage.
+- Click on the "Pen" icon on the homepage (upper left corner).
 - Complete the form with the following information:
 
 ![coupa-image-5](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa5.png)
@@ -476,7 +476,7 @@ A supplier must exist in Coupa prior to submitting a requisition for that suppli
 
 ### How to Search for a Supplier
 
-- On the Coupa Homepage, click the "Write a request" button.
+- On the Coupa Homepage, click the "Pen" icon (upper left corner).
 - Type the supplier’s name on the Supplier field.
    - If the Supplier is active, the system will display the Supplier.
    - If a "No results match" message popped below the supplier box, then the Supplier is inactive or not yet existing in Coupa.
