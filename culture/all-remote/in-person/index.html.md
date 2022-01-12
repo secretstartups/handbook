@@ -19,9 +19,7 @@ twitter_creator: "@gitlab"
 
 ![GitLab all-remote transport](/images/all-remote/gitlab-transport.jpg){: .shadow.medium.center}
 
-On this page, we're detailing considerations for in-person interactions within a remote company. Humans are social creatures, and [research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2443551) has shown that there is value in in-person interactions. While there are tremendous [advantages](/company/culture/all-remote/benefits/) to operating a 100% remote company, leaders should consider being intentional about [planning in-person elements](https://www.fastcompany.com/3051518/the-science-of-when-you-need-in-person-communication), even if they're optional for team members. 
-
-GitLab Head of Remote Darren Murph shares on GitLab's intentional approach to in-person interactions (and business travel's purpose in a remote company) in a TripActions [blog](https://tripactions.com/blog/q-and-a-darren-murph-head-of-remote-at-gitlab) and [podcast](https://tripactions.com/blog/podcast-how-remote-companies-think-about-business-travel). 
+Humans are social creatures, and [research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2443551) has shown that there is value in in-person interactions. While there are tremendous [advantages](/company/culture/all-remote/benefits/) to operating a 100% remote company, leaders should consider being intentional about [planning in-person elements](https://www.fastcompany.com/3051518/the-science-of-when-you-need-in-person-communication), even if they're optional for team members. 
 
 ## Bridging the gap during the pandemic
 
@@ -32,6 +30,48 @@ Small teams located in the same city or region may be able to still gather in pe
 For example, at GitLab, we hosted our 2020 [Contribute](/events/gitlab-contribute/) virtually. We used this time to take a break from our daily projects, celebrate the achievements of the team, and get to know one another better. By focusing this time on bonding rather than active work, we were able to boost engagement and invest in strengthening the relationships across the organization. 
 
 Between these larger gatherings, informal communication is another important element to maintain. We've curated a list of ways to approach this in our [informal communication guide](/company/culture/all-remote/informal-communication/).  
+
+## Benefits of remote meetings
+
+### Attendance is optional
+GitLab has a meeting policy we like to call "[No agenda, no attenda](/handbook/communication/#external-communication)." Every work-related meeting has purpose, which is outlined a live doc agenda affixed to the calendar invite: here's a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) you can copy and use in your organization. As an all-remote company, we [do not look to a meeting by default](/company/culture/all-remote/asynchronous/#question-every-meeting); when they are necessary, we strive to make in-person attendance optional by enabling asynchronous contribution.
+
+### Meetings are recorded
+
+Remote meetings can be recorded, especially when key individuals aren't able to join live. This allows team members to catch up on what transpired, adding context to notes that were taken during the meeting. Learn more about recording in Zoom in the [Tips and Tricks section of GitLab's Handbook](/handbook/tools-and-tips/#recording-in-zoom).
+
+### Inclusive
+Remote meetings that are accessible asynchronously encourage increased attendance because they remove time zone bias. Employees can view the meeting invite, agenda, and recording, and can contribute asynchronously as they are able. 
+
+## Benefits of in-person meetings
+
+If a live meeting is recorded and made available to others, many of the same benefits of remote meetings apply to in-person meetings as well. However, it's hard for technology to capture the non-verbals and cameraderie that inevitably happens in an in-person meeting, which sometimes falls flat online.
+
+### Synchronicity
+Just as asynchronous participation is a benefit of remote meetings, there is a certain collaborative magic that can happen during an in-person meeting or retreat that is more difficult (though not impossible) to reproduce virtually. Often, the greatest value of being in a shared space is the ability to spin off ideas and smaller conversations and keep them going as new ideas arise.
+
+### Networking
+On a virtual call, you're limited to viewing a certain number of faces at a time. In person, you potentially have an opportunity to connect with everyone in the room.
+
+## How to prepare for an in-person meeting
+
+In-person meeting prep is similar to getting ready for a [video call](/handbook/communication/#video-calls). In these situations, you should plan to:
+1. Start and end on time 
+1. Build in social interactions and plan to get to know the people in your group
+1. Have the meeting space prepared to support visual thinking and collaboration
+1. Plan to document the complex discussions that will happen as often an in-person meeting is required because of its need for immediate back and forth conversation
+1. Take notes to help retain and recall any important details
+1. Document by writing down notes and next steps into the proper directory (Google Drive, Salesforce, etc.)
+
+## The importance of social interaction
+
+We believe that [in-person interactions](/company/culture/all-remote/in-person/) are extremely important, especially in an all-remote [culture](/company/culture/#culture-at-gitlab). Remote workers have increased risk of experiencing [loneliness](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/) or [burnout](/company/culture/all-remote/mental-health/). 
+
+One way to prevent loneliness and burnout are through relationship-building by prioritizing regular social interactions via informal communication throughout the workday, week, and month. 
+
+Informal communication enables friendships to form at work related to matters *other* than work. Those who feel they have genuine friends at work are [more likely to enjoy their job](https://onlinelibrary.wiley.com/doi/full/10.1111/peps.12109), perform at a high level, feel invested in the company, and serve others within the organization.
+
+Here, we value informal communication as a complement to [in-person interactions](/company/culture/all-remote/in-person/) and regularly offer [more than 20 different ways for team members to participate in social interactions](/company/culture/all-remote/informal-communication/)!
 
 ## Meetups
 
