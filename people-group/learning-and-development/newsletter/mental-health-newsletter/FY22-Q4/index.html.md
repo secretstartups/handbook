@@ -31,7 +31,7 @@ Starting a new year might bring on any range of emotions for yourself and member
 | Resource | Description |
 | ----- | ---------- |
 | [Active Minds: Mental Health Resources for remote work](https://www.activeminds.org/about-mental-health/be-there/coronavirus/at-work-resources/) | Active Minds is "...the premier organization impacting young adults and mental health... directly reach[ing] close to 600,000 students each year through campus awareness campaigns, events, advocacy, outreach, and more." This resouce includes excellent conversation starters for checking in with people and validating their difficult experience in a remote setting |
-| [World Health Organization: Menta Health and Covid-19](https://www.who.int/teams/mental-health-and-substance-use/mental-health-and-covid-19) | WHO's mental health resources specific to living during the Covid-19 pandemic, including resources, stories, and research from around the world |
+| [World Health Organization: Mental Health and Covid-19](https://www.who.int/teams/mental-health-and-substance-use/mental-health-and-covid-19) | WHO's mental health resources specific to living during the Covid-19 pandemic, including resources, stories, and research from around the world |
 | [Workplace Mental Health Article](https://www.understood.org/articles/en/workplace-mental-health-5-ways-to-support-employee-wellness) | A short summary article that cites important reserach, outlines strategies, and explains benefits of supporting teams during challenging times |
 | [Gallup Wellbeing Reports](https://www.gallup.com/topic/category_wellbeing.aspx) | Dive into the research from Gallup to undersatnd wellbeing trends and findings from communities around the globe |
 
