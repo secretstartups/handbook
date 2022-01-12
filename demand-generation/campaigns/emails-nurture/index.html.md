@@ -218,8 +218,8 @@ These future state nurture programs will be aligned to GTM Motions, with three s
 
 With Intelligent Email Nurture launched, all net-new leads will be automatically added to their appropriate nurture program. We are still migrating existing leads into the programs, so in the meantime, for programs that were set up before 2021-12-15, there still be an `add to nurture` smart campaign. That should be updated as follows:
 
-**Update the smartlist and run:**
-* Smart List (filter):
+**Update the smartlist and run:** Remove all other smartlist steps except the two noted below
+* Smart List (filter): (Must meet both criteria (ALL/AND))
     - Member of Program: (current program, success status) - `NOTE: These are pre-built in the templates, no need to edit!`
     - Subscription Filters: `Member of smartlist` IN `Nurture Emailable - DO NOT EDIT`
 * Flow
