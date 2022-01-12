@@ -9,6 +9,54 @@ title: Learning & Development
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Team Member Resources
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:200px;margin:5px;">Learning Initiatives </a>
+    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/" class="btn btn-purple" style="width:200px;margin:5px;">Growth & Development Benefit</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/" class="btn btn-purple" style="width:200px;margin:5px;">Career Development & Mobility</a>
+  </div>
+</div>
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/leadership/coaching/" class="btn btn-purple" style="width:200px;margin:5px;">Coaching</a>
+    <a href="/handbook/people-group/learning-and-development/manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Manager Training</a>
+    <a href="/handbook/people-group/learning-and-development/linkedin-learning/" class="btn btn-purple" style="width:200px;margin:5px;">LinkedIn Learning</a>
+  </div>
+</div>
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/people-group/learning-and-development/gitlab-learn/" class="btn btn-purple" style="width:200px;margin:5px;">GitLab Learn</a>
+    <a href="/handbook/people-group/learning-and-development/mentor/" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
+    <a href="/handbook/people-group/learning-and-development/compliance-courses" class="btn btn-purple" style="width:200px;margin:5px;">Compliance Courses</a>
+  </div>
+</div>
+
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/people-group/learning-and-development/manager-challenge/" class="btn btn-purple" style="width:200px;margin:5px;">Manager Challenge</a>
+    <a href="/handbook/people-group/learning-and-development/manager-challenge/leadership-chats/" class="btn btn-purple" style="width:200px;margin:5px;">Leadership Chats</a>
+    <a href="/handbook/people-group/learning-and-development/manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">New Manager Resources</a>
+  </div>
+</div>
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/sales/field-manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Field Manager Development</a>
+  </div>
+</div>
+
+**What's coming in FY23:**
+- New Manager Bootcamp
+- Coaching Pilot 
+- [LifeLabs Learning Pilot](/handbook/people-group/learning-and-development/learning-initiatives/#lifelabs-learning)
+- Managing at GitLab Course
+- Leadership Development Job Family
+
 ## Overview
 
 ### Purpose
@@ -108,50 +156,6 @@ All material in the handbook is considered training. The Learning & Development 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-
-## Learning and Development Opportunities for Team Members
-
-
-<div class="flex-row" markdown="0">
-  <div>
-    <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:200px;margin:5px;">Learning Initiatives </a>
-    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/" class="btn btn-purple" style="width:200px;margin:5px;">Growth & Development Benefit</a>
-    <a href="/handbook/people-group/learning-and-development/career-development/" class="btn btn-purple" style="width:200px;margin:5px;">Career Development & Mobility</a>
-  </div>
-</div>
-
-<div class="flex-row" markdown="0">
-  <div>
-    <a href="/handbook/leadership/coaching/" class="btn btn-purple" style="width:200px;margin:5px;">Coaching</a>
-    <a href="/handbook/people-group/learning-and-development/manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Manager Training</a>
-    <a href="/handbook/people-group/learning-and-development/linkedin-learning/" class="btn btn-purple" style="width:200px;margin:5px;">LinkedIn Learning</a>
-  </div>
-</div>
-
-<div class="flex-row" markdown="0">
-  <div>
-    <a href="/handbook/people-group/learning-and-development/gitlab-learn/" class="btn btn-purple" style="width:200px;margin:5px;">GitLab Learn</a>
-    <a href="/handbook/people-group/learning-and-development/mentor/" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
-    <a href="/handbook/people-group/learning-and-development/compliance-courses" class="btn btn-purple" style="width:200px;margin:5px;">Compliance Courses</a>
-  </div>
-</div>
-
-### Additional Leadership Development Programs
-
-**Learning programs to develop as a people leader:** 
-
-- [The Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/)
-- [Leadership Chats](/handbook/people-group/learning-and-development/manager-challenge/leadership-chats/)
-- [Transitioning to a manager role](/handbook/people-group/learning-and-development/manager-development/)
-- [Coaching](/handbook/leadership/coaching/)
-- [Field Manager Development Program](/handbook/sales/field-manager-development/)
-
-**What's coming in FY23:**
-- New Manager Bootcamp
-- Coaching Pilot 
-- [LifeLabs Learning Pilot](/handbook/people-group/learning-and-development/learning-initiatives/#lifelabs-learning)
-- Managing at GitLab Course
-- Leadership Development Job Family
  
 
 ## New Learning Content at GitLab
