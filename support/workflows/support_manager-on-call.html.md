@@ -130,3 +130,31 @@ Login to [gitlab.pagerduty.com](https://gitlab.pagerduty.com) and select **+ New
 No other fields need to be filled out, therefore you may then click **Create Incident**
 
 ![Manually triggering an emergency](/images/support/manually-trigger-emergency.png){: .shadow}
+
+## Special Handling Notes
+
+[Special handling notes](/handbook/support/workflows/customer_emergencies_workflows.html#special-handling-notes) are documented on the [customer emergencies on-call workflow](/handbook/support/workflows/customer_emergencies_workflows.html). As a Support Manager, you are empowered to handle these (and other) unique situations
+according to your judgment. If you need help or advice, don't hesitate to [escalate to unblock](/handbook/values/#escalate-to-unblock).
+
+### Compromised instances
+
+We advise Support Engineers to contact a Support Manager before offering a call in the case of a [compromised instance](/handbook/support/workflows/customer_emergencies_workflows.html#compromised-instances). 
+
+Support's role in these cases is to help the customer get to a good, known working state as quickly as possible. The fastest route will be to restore to a previously known good state (most often by restoring from a backup). Customers with an instance in this state will have other concerns though, and likely be in a heightened emotional state:
+- How did this happen? (Which we may or may not easily be able to answer, and they should do this forensic analysis _after_ they have restored.)
+- How can we recover from this without restoring? (They can't "safely". We advise a restore to have 100% confidence in their environment.)
+- What data was accessed? (This is always a challenging question, and if the compromise was lead by a human, tracks could be covered. We may never have full knowledge. They should start restoring ASAP, and do forensics after.)
+
+If moving towards a call is the right thing to do, consider joining the call _before_ (or in lieu of) the engineer to communicate the scope of what can be accomplished. 
+For example:
+
+> Hi `customer`. Based on the ticket it sounds likely that your instance is compromised. In cases like these we've prepared a set of best practices to help you get back up and running as quickly as possible. We're here to support and advise where GitLab is concerned. Unfortunately, there is no one-size-fits-all solution or comprehensive checklist one can use to completely secure a server that has been compromised. GitLab recommends following your organization’s established incident response plan whenever possible.
+
+> The first step is going to be to shut down the instance, create a new one at the same version and restore your most recent backup. This will ensure that you're operating on a "clean" environment where you have confidence that all the software installed is unmodified. I'm going to leave you to get that started and we'll be monitoring the ticket with HIGH priority. If you have any problems getting set up or restoring, please let us know immediately. 
+
+> Once you're set up, you'll want to make sure you're upgraded to a more recent version of GitLab before you expose this server to the public Internet. If you have any trouble with the upgrade process, let us know in the ticket immediately.
+
+> Finally, you will want to do an audit of the integrity of GitLab itself: checking for any users, code, webhooks, runners or other settings that you didn't enable
+yourselves. This is covered in the guide that we sent, but if you have any questions please let us know in the ticket.
+
+> I'm going to drop off now, but rest assured that we're on standby and ready to help as you work through this.
