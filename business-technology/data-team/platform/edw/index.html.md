@@ -210,9 +210,9 @@ Slowly changing dimensions are useful when coupled with snapshot tables. A snaps
 | 1 | 'validating' | 2022-01-02 | 2022-01-02 |
 | 1 | 'approved' | 2022-01-02 | 2022-01-03 |
 | 1 | 'closed' | 2022-01-03 | 2022-01-05 |
-| 1 | 'approved' | 2022-01-05 | [today's date] |
+| 1 | 'approved' | 2022-01-05 | NULL |
 | 2 | 'open' | 2022-01-01 | 2022-01-05 |
-| 2 | 'approved' | 2022-01-05 | [today's date] |
+| 2 | 'approved' | 2022-01-05 | NULL |
 
 **Tip**: It can be helpful to add a column with logic to indicate the most recent record in a slowly changing dimension.
 
@@ -228,16 +228,18 @@ For performance reasons, it is helpful to keep the slowly changing dimension at 
 | 1 | 'closed' | 2022-01-04 |
 | 1 | 'closed' | 2022-01-05 |
 | 1 | 'approved' | 2022-01-05 |
-| 1 | 'approved' | repeat until today's date |
+| 1 | 'approved' | repeat until chosen date |
 | 2 | 'open' | 2022-01-01 |
 | 2 | 'open' | 2022-01-02 |
 | 2 | 'open' | 2022-01-03 |
 | 2 | 'open' | 2022-01-04 |
 | 2 | 'open' | 2022-01-05 |
 | 2 | 'approved' | 2022-01-05 |
-| 2 | 'approved' | repeat until today's date |
+| 2 | 'approved' | repeat until chosen date |
 
-In the Enterprise Dimensional Model, we introduce the daily grain in the `COMMON` schema so the snapshot models are available in our reporting tool. Snapshot models should end with the suffix `_daily_snapshot`. If a slowly changing dimension requires additional business logic beyond what comes out of the source system and is stored in a `_source` model, the best practice is to create a staging model in the `COMMON_PREP` schema with the transformations and then [build the slowly changing dimension](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#create-snapshot-tables-with-dbt-snapshot) and daily snapshot model from the `COMMON_PREP` model.
+In the Enterprise Dimensional Model, we introduce the daily grain in the `COMMON` schema so the snapshot models are available in our reporting tool. These daily snapshot models should end with the suffix `_daily_snapshot`. If a slowly changing dimension requires additional business logic beyond what comes out of the source system and is stored in a `_source` model, the best practice is to create a staging model in the `COMMON_PREP` schema with the transformations and then [build the slowly changing dimension](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#create-snapshot-tables-with-dbt-snapshot) and daily snapshot model from the `COMMON_PREP` model. 
+
+The dbt solution for building snapshot tables will set the `valid_to` field as NULL for the current version of a record, as shown in the first example above. This is how the data will be presented in the `_source` models. When this is transformed into a daily snapshot in the `COMMON` schema, there is flexibility for the analyst to decide how to [set the end date](https://discourse.getdbt.com/t/building-models-on-top-of-snapshots/517) (today's date, a future date, into the infinite future) depending on the business use case.
 
 Due to the performance concerns, we need to confirm the necessity of such a resource intensive model with business justification. Only build a daily snapshotted table in the `COMMON` schema when the use case requires being able to query fact data on a daily basis to answer questions. An example of such a question is: what was ARR on a specific calendar date? Additionally, any daily snapshot models added to the `COMMON` schema must meet a minimum performance threshold or they will need to be modified to a different level of aggregation or limited to a recent set of data (ex. last two years, previous 13 months, etc.). If the model does not build in the allotted time for it to run in the daily ci jobs, then an archiving or aggregation technique will be applied to bring the model into compliance with our performance standards.
 
