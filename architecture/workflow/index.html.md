@@ -209,3 +209,7 @@ The concept of a Working Groups can be an extension of the Architecture Evolutio
 After the iterations described in the blueprint are done, the work can be extended to the next three iterations and the blueprint needs to be updated.
 
 Alternatively the work can be concluded and the blueprint needs to be updated with results / outcomes.
+
+### Finally
+
+When the work is completed, blueprints no longer represent a forward-looking architectural vision. As such, they should be removed from *docs* and should be archived in https://gitlab.com/gitlab-org/architecture/archive. Additionally, they can be formatted for the blog, in which case they should also include lessons learned from our experience in implementing them.
