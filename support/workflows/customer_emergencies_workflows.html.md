@@ -292,7 +292,7 @@ In the event that an emergency is raised about a compromised instance a call can
 
 Use the Zendesk macro `Incident::Compromised Instance` which expands on the approach below.
 
-The customer should to:
+The customer should:
 1. Shut the instance down immediately.
 1. Create a new instance at the exact same version and restore their most recent backup into it.
    - Avoid exposing the new instance to the Internet
