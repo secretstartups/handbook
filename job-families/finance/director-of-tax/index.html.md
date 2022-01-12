@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: "Director, Tax"
+title: "Director, International Tax"
 ---
 
 This position is responsible for GitLab’s overall tax strategy including all components
@@ -11,7 +11,7 @@ of the Board to update the members on the Company’s tax strategy, practices an
 
 ## Job Grade 
 
-The Director, Tax is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, International Tax is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
