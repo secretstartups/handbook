@@ -9,7 +9,7 @@ title: FY22-Q4 L&D Mental Health Newsletter
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This is the 5th edition of the Mental Health newsletter from the GitLab L&D team! This will be the final edition of the newsletter in it's current format. In FY23, the L&D team will explore new ways to share mental health and team memebr wellbeing resources.
+This is the 5th edition of the Mental Health newsletter from the GitLab L&D team! This will be the final edition of the newsletter in it's current format. In FY23, the L&D team will explore new ways to share mental health and team member wellbeing resources.
 
 ## GitLab Resource Feature
 
