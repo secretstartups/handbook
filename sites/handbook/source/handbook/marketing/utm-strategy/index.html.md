@@ -73,7 +73,9 @@ You can choose a campaign medium from a provided picklist of values in the URL B
 {: #utm-source .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-**Campaign Source** The source-based URL parameter can tell you which website is sending the traffic. The source is a further "slicing" of overall channels. It answers the question of "how did they come to us?" but with more granular details than utm_medium. Examples include `ebook`, `twitter`, or `qrcode`.
+**Campaign Source** The source-based URL parameter can tell you which website is sending the traffic. The source is a further "slicing" of overall channels. It answers the question of "how did they come to us?" but with more granular details than utm_medium. Examples include `demandbase`, `twitter`, or `marketo`.
+
+Values for `utm_source` are available as an open picklist in the UTM builder googlesheet. Please be consistent when adding new values to the [list](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=3), keeping the best practice of no characters and all lower case.
 
 #### utm_campaign
 {: #utm-campaign .gitlab-purple}
@@ -125,7 +127,7 @@ Values (available as picklist in the UTM builder googlesheet):
 {: #utm-allptnr .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-**Alliance Partner** (`utm_allptnr`) indicates which partner is part for the campaign. 
+**Alliance Partner** (`utm_allptnr`) indicates which partner is part of the campaign. 
 
 Values (available as picklist in the UTM builder googlesheet):
 * aws = AWS
@@ -138,6 +140,14 @@ Values (available as picklist in the UTM builder googlesheet):
 * vmware = VMware Tanzu	
 * redhat = RedHat OpenShift
 * ibm = IBM
+
+#### utm_chnlptnr
+{: #utm-chnlptnr .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+**Channel Partner** (`utm_chnlptnr`) indicates which partner is part of the campaign. 
+
+Values available as an open picklist in the UTM builder googlesheet.
 
 #### utm_partnerid
 This is used for events where we are passing the lead to that specific partner. For a running list of partner Ids, [go here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids).
