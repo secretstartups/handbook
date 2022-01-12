@@ -55,7 +55,7 @@ GitLab team members directly affected by COVID-19 who need to take leave for one
 
 You do not have to physically see your physician for this confirmation. If telehealth services are available, we highly encourage you to utilize those in line with your community’s regulations around physical distancing, quarantine and self isolation.
 
-The ability to request COVID-19 Leave will run through December 31, 2021. That means, any requests for COVID-19 Leave must be made prior to December 31, 2021, however the leave itself may exceed that timeframe. By way of an example, if a team member requests COVID-19 Leave on December 31, 2021 for 4 weeks, the end date for their COVID-19 Leave would be in January, 2022.
+The ability to request COVID-19 Leave will run through April 30, 2022. That means, any requests for COVID-19 Leave must be made prior to April 30, 2022, however the leave itself may exceed that timeframe. By way of an example, if a team member requests COVID-19 Leave on April 30, 2022 for 4 weeks, the end date for their COVID-19 Leave would be in May 28, 2022.
 
 As the situation around COVID-19 continues to evolve, GitLab will continue to revisit this policy before the 25th of the month and may adjust it accordingly.
 
@@ -66,17 +66,17 @@ We encourage team members to only take the time they need to recover in accordan
 For some, our [Paid Time Off Policy](/handbook/paid-time-off/) of 25 consecutive calendar days will be suitable. Please keep your manager informed of any upcoming Paid Time Off. You are in no way obligated to release a personal medical diagnosis of COVID-19 to your manager.
 
 If you meet the criteria set forth above and find that you need additional sick leave time past the 25 consecutive calendar days allowed under our Paid Time Off Policy, please follow these steps to apply for COVID-19 Leave:
-* On or before day 20 of your Paid Time Off,  please email total-rewards@gitlab.com with the following to request COVID-19 Leave:
+* On or before day 20 of your Paid Time Off,  please email leaves@gitlab.com with the following to request COVID-19 Leave:
   * Start date of your Paid Time Off
   * Start date of your COVID-19 Leave (this will be the 26th day after your Paid Time Off began)
   * Anticipated end date of your COVID-19 Leave
-  * A note from a licensed healthcare professional confirming the leave for yourself or a dependent family member which you will be caring for and the start and end dates of your COVID-19 Leave (which should be consistent with the anticipated dates you are providing within your request). The Total Rewards team will not ask for test results.
-* The Total Rewards team will review the documents provided and communicate directly with the team member regarding any additional information needed (if necessary) and the result.
-* If approved, the Total Rewards team will notify the PBP of the group and manager of the start and end dates of the COVID-19 Leave. The Total Rewards team will not specify to your PBP or manager the reason for the leave.
-* The Total Rewards team will notify payroll of the leave dates.
+  * A note from a licensed healthcare professional confirming the leave for yourself or a dependent family member which you will be caring for and the start and end dates of your COVID-19 Leave (which should be consistent with the anticipated dates you are providing within your request). The Sr. Absence Management Partner will not ask for test results.
+* The Sr. Absence Management Partner will review the documents provided and communicate directly with the team member regarding any additional information needed (if necessary) and the result.
+* If approved, the Sr. Absence Management Partner will notify the PBP of the group and manager of the start and end dates of the COVID-19 Leave. They will not specify to your PBP or manager the reason for the leave.
+* The Sr. Absence Management Partner will notify payroll of the leave dates.
 * Stock Vesting, bonus payments, and benefits will not be affected by this leave during the 12 week time period.
-* The Total Rewards team will follow up with the team member on a weekly basis to see how the team member is doing. If needed and in accordance with applicable law, the Total Rewards team will request additional documentation around inability to work due to COVID-19.
-* The Total Rewards team will confidentially file all ongoing documentation of inability to work through the weekly check ins.
+* The Sr. Absence Management Partner will follow up with the team member on a weekly basis to see how the team member is doing. If needed and in accordance with applicable law, they will request additional documentation around inability to work due to COVID-19.
+* The Sr. Absence Management Partner will confidentially file all ongoing documentation of inability to work through the weekly check ins.
 
 ### FAQ for COVID-19 Medical Leave Policy
 
@@ -91,9 +91,9 @@ If you meet the criteria set forth above and find that you need additional sick 
 * How does this policy work in conjunction with my 25 days of unlimited PTO?
   * This policy grants up to twelve weeks additional leave after you have used your initial 25 days PTO.  For many people, you will not need to use all of the 12 weeks to recover.
 * What if I can’t get tested for COVID-19?
-  * The Total Rewards team needs a note from your health care provider certifying that you cannot work because you or a dependent family member you care for has been diagnosed (either via test or presumptively) with COVID-19.  The Total Rewards team does not require you to provide testing results. You do not have to physically see your physician for this confirmation. If telehealth services are available, we highly encourage you to utilize those in line with your community’s regulations around physical distancing and self isolation.
+  * The Sr. Absence Management Partner needs a note from your health care provider certifying that you cannot work because you or a dependent family member you care for has been diagnosed (either via test or presumptively) with COVID-19.  They do not require you to provide testing results. You do not have to physically see your physician for this confirmation. If telehealth services are available, we highly encourage you to utilize those in line with your community’s regulations around physical distancing and self isolation.
 * Will anyone at GitLab know that I am sick? How will my privacy be respected?
-  * The Total Rewards team will maintain your privacy and keep any documentation private (it will not be shared with your manager or anyone on your team) and only shared within the Total Rewards team as needed to process your leave. Your manager and your team will have to be informed that you are on leave as you will not be available for work as normal, but will not provide the reason for the leave.
+  * Your privacy and any documentation will be kept private (it will not be shared with your manager or anyone on your team) and only shared with the Sr. Absence Management Partner as needed to process your leave. Your manager and your team will have to be informed that you are on leave as you will not be available for work as normal, but will not provide the reason for the leave.
 * What is a “dependent family member?”
   * A dependent family member is someone who you are directly responsible for as a caregiver. Examples can be: a spouse or significant other, dependent child; parent, sibling, etc
 * What if I am on a commission plan?
