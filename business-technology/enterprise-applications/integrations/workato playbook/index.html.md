@@ -9,19 +9,19 @@ title: "Enterprise Applications Integrations"
 
 ## Integrations - Workato Playbook
 
-### How to get the access?
-To get started with Workato, please create an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and assign it to @dparker or @karuna16. In the the AR, please mention the follwoing details:
+### How request the access?
+To get started with Workato, please create an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and assign it to @dparker or @karuna16. In the the AR, please include the following details:
 
 - [ ] your orgnisational team
 - [ ] workato environment - dev, test or prod.
-- [ ] why do you need the access?
+- [ ] why you require access (for production only)
 
 #### Types of Roles/Accesses available in Workato:
 Currently, we have two classifactions of roles per team in Workato:
 1. **Team Admin**: To Create, Edit, Deploy, Run/Stop recipes. Like Marketing Admin.
 2. **Team Ops**: To view, run/stop recipes. Like Marketing Ops.
 
-Please **note** the accesses are configurable as per team and use case basis.
+Please **note** that access is configurable per team and on a use case basis.
 
 #### Access Change Process:
 To change your access privileges in Workato all environments, please open an [access change request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and assign it to @dparker or @karuna16. 
@@ -30,9 +30,12 @@ Please remember to mention the environment, if its for dev, test or prod.
 ### Getting Started with Workato
 Once the AR is approved and closed, you'll see the Workato app in your Okta home page. _Please refresh the Okta home page, in case you cannot find the app_. There're 3 Workato apps in Okta for each of the environment, based on your request, you'll see those ones in Okta.
 
-<details><summary>Click to view the screenshots</summary>
+<details>
+<summary>Click to view the screenshots</summary>
 
-On clicking the app, you'll land up in the Workato home page. Click on anyone of the project plate, and you're good to start creating or editing recipes.
+Upon clicking the app, you'll be linked to the Workato home page. 
+
+If it's your first time logging into Workato, you may be prompted to set a password. Set a strong password and save it in your 1Password private vault. In the future you will not be prompted for this password so long as you use Okta to login to Workato. Once you're logged in, search for your team's project and click on it to see your team's recipes and to create new recipes.
 
 ![workato landing page](./workato%20landing%20page.png/)
 
@@ -44,11 +47,12 @@ On clicking the app, you'll land up in the Workato home page. Click on anyone of
 
 
 ### Workato Ramp-up programs
-There are number of trainings available in Workato Automation Institution and various levels - Beginner, Intermediate and Advanced.  Based on your requirements you can opt for any of them. Please note, sll the courses are available in self learning and instructor-led mode and require you to have login in Workato to avail for them.
+There are number of short courses available on the Workato Automation Institution website for all levels of Workato experience - Beginner, Intermediate and Advanced. Select the course that best fits your level of experience with Workato and helps you learn what you need for your project. If you are unsure about which course to pick, contact the integrations team in `#bt-integrations` on Slack.
 
 Here're are some of the course we recommend to get started with Workato:
 
-<details><summary>Click to expand</summary>
+<details>
+<summary>Click to expand</summary>
 
 _Beginner level_: [Automation Pro I On Demand training](https://academy.workato.com/automation-pro-i-on-demand)
 
@@ -85,13 +89,14 @@ Course helps you to understand:
 
 ### Best Practices in Workato
 
-While using Workato for building recipes, here are some basic best practices that would help you manage and track your work items easily. These are some of the basic points to keep in mind, espically if you're new to Workato. For more detailed information please visit the [Workato page](https://support.workato.com/en/support/solutions/folders/1000210065)
+While using Workato for building recipes, here are some basic best practices that would help you manage and track your work items easily. These are some of the basic points to keep in mind, especially if you're new to Workato. For more detailed information please visit the [Workato page](https://support.workato.com/en/support/solutions/folders/1000210065)
 
-<details><summary>Click to expand</summary>
+<details>
+<summary>Click to expand</summary>
 
 
-1. #### Which org to use?: 
-Always create your folders, connections and recipes in dev org first. Once tested move your code to higher orgs - test and prod using Workato's Recipe lifecycle management tool.
+1. #### Which workspace/environment to use?:
+Always create your folders, connections and recipes in dev workspace first. Once tested move your code to higher workspaces - test and prod using Workato's Recipe lifecycle management tool.
 
 2. #### Folder creation:
 It's best to create a playground folder in the project followed by a folder of your name if you're just playing around or learning to work in Workato. If you are creating recipes for actual project work, best to create a folder with project name. Say, if you integrating leads between Salesforce and Marketo, the folder name could be Lead integration.
@@ -102,11 +107,11 @@ It's best to create a playground folder in the project followed by a folder of y
    3. Clones: If you clone a recipe from some other user, your recipe gets the same name as the original. Keep in mind that when the original changes you don't get notified or updated.
 
 4. #### Adding desciptions and comments:
-Use in-step comments to add one-liner desciption to your steps to the recipe reaable and understandable. Please refer the video on how to set the comments 
+Use in-step comments to add one-liner description to your steps to the recipe readable and understandable. Please refer the video on how to set the comments. 
 
 5. #### Setting up and managing App Connections:
    1. Naming the connection: Use meaningful names for connectors. Like instead of using Google Connection 1, Google Connection 2 use <your name> Google Proc Account and <your name> Google Test Account.
-   2. Where to create the connectors? If you create the connection in `Projects > Home asstes` anyone in the org can use them in their recipes. If you want your connection to be accessible only to you and your team, create them in your `Projects > Folder`.
+   2. Where to create the connectors? If you create the connection in `Projects > Home assets` anyone in the workspace can use them in their recipes. If you want your connection to be accessible only to you and your team, create them in your `Projects > Folder`. There is also a `Shared Connections` project that you can use to house shared connections.
    3. Avoid creating multiple connections with the same credentials. This too can be confusing, and when you are creating a recipe and linking it to a connection you are not sure if it is the right one you are connected to.
 
 </details>
