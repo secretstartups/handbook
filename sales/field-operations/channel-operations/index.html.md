@@ -496,6 +496,10 @@ Within the Price List Folder, there are other folders. For the current active pr
  
 If there are any questions, please reach out to the **#channel-programs-ops** Slack channel.
  
+ ## SFDC Channel Manager Activity Tracker
+
+The Channel Managers use a [tracking system](https://docs.google.com/presentation/d/1fPJutBp85WPNqf3ErQEk7Xp2042UPupTjmSLUMOmXnE/edit?usp=sharing) in Salesforce to record their sales and marketing activities. This tracker allows them to extract data for sales analysis and goal setting (QBRs, OKRs, Business Plans, 1:1s). In addition, it enables the creation of [activity frameworks](https://docs.google.com/presentation/d/15rCXjsOj6r6BFYqWMgST5WB6R_XWJiIqYq2eppUoeDw/edit?usp=sharing) to set engagement standards and further develop relationships with GitLab’s partners. This activity tracker is available to all Channel Managers. 
+
  
 ## Alliances and OEMs
 Please visit the [Alliances Handbook](https://about.gitlab.com/handbook/alliances/) for an overview of the GitLab Alliance Team. If you are a GitLab employee, the [Private Alliance Handbook](https://gitlab-com.gitlab.io/alliances/alliances-internal/) is another available resource. The [Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp) is also available.
