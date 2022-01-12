@@ -30,15 +30,15 @@ and [Continuous onboarding](https://gitlab.com/groups/gitlab-org/-/epics/4817).
 
 The following people are permanent members of the Growth:Conversion team:
 
-<%= direct_team(manager_role: 'Interim Senior Engineering Manager, Growth', role_regexp: /(Growth:Conversion)/) %>
+<%= direct_team(manager_role: 'Fullstack Engineering Manager, Growth:Conversion', role_regexp: /(Growth:Conversion)/) %>
 
 ### Group members
 
 We work directly with the following team members in the Growth:Conversion group:
 
 <%=
-other_manager_roles = ['Director of Engineering for Growth, Sec, and ModelOps']
-direct_managers_role = 'Interim Senior Engineering Manager, Growth'
+other_manager_roles = ['Director of Engineering for Growth, Sec, and ModelOps','Interim Senior Engineering Manager, Growth']
+direct_managers_role = 'Fullstack Engineering Manager, Growth:Conversion'
 roles_regexp = /Conversion/
 
 stable_counterparts(role_regexp: roles_regexp, direct_manager_role: direct_managers_role, other_manager_roles: other_manager_roles)
