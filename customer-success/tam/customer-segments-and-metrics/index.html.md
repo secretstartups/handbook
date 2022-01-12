@@ -5,7 +5,10 @@ title: "Customer Segments & Associated Metrics"
 
 ## Overview
 
-The following outlines the customer segments supported by the Technical Account Management organization and the metrics for success for each segment in addition to our top-level metrics of net revenue retention (NRR) growth and gross retention:
+The following outlines the customer segments supported by the Technical Account Management organization and the metrics for success for each segment in addition to our top-level metrics of net revenue retention (NRR) growth and gross retention.
+
+The segments shown are currently in development, and are not yet implemented. For our current account alignment model, please see our [Account Engagement](https://about.gitlab.com/handbook/customer-success/tam/engagement/) information.
+{: .alert .alert-info}
 
 ## High-Touch: Enterprise
 
