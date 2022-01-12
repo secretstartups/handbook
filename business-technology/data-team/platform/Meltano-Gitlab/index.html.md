@@ -212,7 +212,7 @@ Meltano uses Airflow internally and we use Cloud SQL as the metadata database. T
 
 We have CI process in place for newly created taps or to update new variables config to existing Meltano taps. For this to work smoothly we need to create a branch from the [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano).
 
-Step 1:  Decide the unique variable name and add those variable values to the Kubernetes secret named `tap-secrets` in the [cluster](`https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/data-ops-meltano/details?project=gitlab-analysis`).  
+Step 1:  Decide the unique variable name and add those variable values to the Kubernetes secret named `tap-secrets` in the [cluster](https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/data-ops-meltano/details?project=gitlab-analysis).  
 The command to edit the secret file is `kubectl edit secret tap-secrets  -o yaml --namespace=meltano`  
 It is standard base64 encoded values. Also ensure to update the document in the 1password `meltano_secret_tap_secrets` with the new key value which is being added as this will be required in case of environment provisioning. 
 
