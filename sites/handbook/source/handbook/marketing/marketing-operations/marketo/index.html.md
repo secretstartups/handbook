@@ -322,7 +322,7 @@ The following segmentations that are approved and live.
 - Raw > INQ - `Status = NULL, Inquiry or Raw` OR (`Status = Nurture` AND `Person Score < 75`)
 - INQ > MQL - `Status = MQL, Accepted or Qualifying` OR (`Status = Nurture` AND `Person Score > 74`)
 - MQL > SAO - `Status = Qualified` OR `1 Open Opportunity` OR `Has an Open Opportunity`
-- Customer - `Current Customer = TRUE` OR `Status = Web Portal Purchase`
+- Customer - `Current Customer = TRUE` OR `Status = Web Portal Purchase` OR `Is Paid User = True`
 - Unqualified - Status is `Unqualified or Bad Data`
 
 </details>
