@@ -160,9 +160,9 @@ Once you've reviewed the playbook above and would like to request Field Communic
 - Field Communications will collaborate with the requester on the announcement details and copy directly in the issue to finalize the roll-out plan. 
 
 #### Announcements to External Channel/Alliances Partners 
-If you have an internal announcement that is also relevant to GitLab's external Channel/Alliances Partner audience, please use the Field Announcement Request process outlined above and select the `GitLab Partners (external)` audience in addition to the relevant internal audiences. By selecting this audience, the Field Communications team will engage the appropriate team members in the Channel org to disseminate the announcement to partners. 
+If you have an internal announcement that is also relevant to GitLab's external Channel/Alliances Partner audience, please use the Field Announcement Request process outlined above and select the `GitLab Partners (external)` audience in addition to the relevant internal audiences. By selecting this audience, the Field Communications team will engage the appropriate team members in Partner Communications to disseminate the announcement to partners. 
 
-If you have an announcement that is relevant *only* for the external partner audience, please follow the process outlined in the [Channel Handbook page] ().
+If you have an announcement that is relevant *only* for the external partner audience, please open a [Channel Partner Communication Request issue](https://gitlab.com/gitlab-com/channel/channels/-/issues/new?issue%5Bmilestone_id%5D=) so that the [Partner Communication team](/handbook/sales/channel/channel-programs-ops/#partner-communications) can assist you. 
 
 #### Recurring Announcements
 Some teams, including Strategic Marketing and Competitive Intelligence, are consistently creating new content and resources for the Field team. In the spirit of efficiency, Field Comms creates a container issue for each of these teams each month that serves as an aggregator of new/updated content as well as a collaboration space to allow for these teams to achieve a steady drumbeat cadence of updates to the Field. For example, 1-2 Slack notifications throughout the month sharing new/updated content and a list of all or most-impactful content in the Field Flash newsletter at the end of the month. 
