@@ -19,12 +19,9 @@ graph LR
   Bid1([Is Supplier<br> in Coupa?]):::classB --> Eid1([NO<br> Complete New Supplier Request form]):::classC
   Eid1([NO<br> Complete New Supplier Request form]):::classC --> Fid1([Vendor Onboarding Process<br> requires Procurement approval<br> and Supplier completion of Coupa registration]):::classE
  
-
-
 click Aid1 "/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition/"
 click Did1 "/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition/"
 click Eid1 "/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier/"
-
 
 classDef classA fill:#dcf3f5, stroke:#20757d
 classDef classB fill:#f7dcf1, stroke:#521144
