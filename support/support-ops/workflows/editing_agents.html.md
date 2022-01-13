@@ -36,7 +36,8 @@ for this should be forwarded to a Support Operations manager.
 **NOTE**: Just because you can change something on an agent's profile doesn't
 mean you should. Please ensure an
 [Access Request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new)
-exists for any changes you are making to an agent's profile.
+exists for any changes you are making to an agent's profile (not managed via
+CI/CD).
 
 ## Changing the role
 
@@ -62,6 +63,22 @@ Once the role is changed, update the corresponding
 ![Changing an Agent's role](../images/zendesk_changing_agent_role.gif "Changing an Agent's role")
 
 ## Changing groups
+
+Changes to agent groups depends on the circumstances. There are basically two
+different scenarios you can encounter:
+
+* Change requests for support agents on the Global Zendesk instance
+* All other change requests
+
+### Change requests for support agents on the Global Zendesk instance
+
+This is handled via CI/CD that is run once per day (midnight UTC) using the
+[zendesk-agents](https://gitlab.com/gitlab-com/support/support-ops/zendesk-agents)
+project. As such, all changes for groups should be done by updating the
+support-team.yaml file in the
+[support/team](https://gitlab.com/gitlab-com/support/team) project.
+
+## All other change requests
 
 To change an agent's groups, an
 [Access Request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new)
