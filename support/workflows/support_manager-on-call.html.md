@@ -143,18 +143,18 @@ We advise Support Engineers to contact a Support Manager before offering a call 
 Support's role in these cases is to help the customer get to a good, known working state as quickly as possible. The fastest route will be to restore to a previously known good state (most often by restoring from a backup). Customers with an instance in this state will have other concerns though, and likely be in a heightened emotional state:
 - How did this happen? (Which we may or may not easily be able to answer, and they should do this forensic analysis _after_ they have restored.)
 - How can we recover from this without restoring? (They can't "safely". We advise a restore to have 100% confidence in their environment.)
-- What data was accessed? (This is always a challenging question, and if the compromise was lead by a human, tracks could be covered. We may never have full knowledge. They should start restoring ASAP, and do forensics after.)
+- What data was accessed? (This is always a challenging question, and if the compromise was led by a human, they may have covered their tracks. We may never have full knowledge. They should start restoring ASAP, and do forensics after.)
 
-If moving towards a call is the right thing to do, consider joining the call _before_ (or in lieu of) the engineer to communicate the scope of what can be accomplished. 
-For example:
+If moving towards a call is the right thing to do, consider joining the call _before_ (or instead of) the engineer to communicate the scope of what can be accomplished. 
 
-> Hi `customer`. Based on the ticket it sounds likely that your instance is compromised. In cases like these we've prepared a set of best practices to help you get back up and running as quickly as possible. We're here to support and advise where GitLab is concerned. Unfortunately, there is no one-size-fits-all solution or comprehensive checklist one can use to completely secure a server that has been compromised. GitLab recommends following your organization’s established incident response plan whenever possible.
+Example framework for a call we establish (or a bridge call the customer is leading):
 
-> The first step is going to be to shut down the instance, create a new one at the same version and restore your most recent backup. This will ensure that you're operating on a "clean" environment where you have confidence that all the software installed is unmodified. I'm going to leave you to get that started and we'll be monitoring the ticket with HIGH priority. If you have any problems getting set up or restoring, please let us know immediately. 
+> Hi `customer`. Based on the ticket it sounds likely that your instance is compromised. In cases like these we've prepared a set of best practices ([GitLab internal link](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Incident/Compromised%20Instance.yaml)) to help you get back up and running as quickly as possible. We're here to support and advise where GitLab is concerned. Unfortunately, GitLab cannot provide a one-size-fits-all solution or comprehensive checklist to completely secure a server that has been compromised. GitLab recommends following your organization's established incident response plan whenever possible.
 
-> Once you're set up, you'll want to make sure you're upgraded to a more recent version of GitLab before you expose this server to the public Internet. If you have any trouble with the upgrade process, let us know in the ticket immediately.
+> The first step is to shut down the instance, create a new one at the same version, and restore your most recent backup. This ensures you are operating on a "clean" environment, where you have confidence that all the software installed is unmodified. Please get that process started;  we are monitoring this ticket with HIGH priority. If you have any problems getting set up or restoring, please let us know in the ticket immediately. 
 
-> Finally, you will want to do an audit of the integrity of GitLab itself: checking for any users, code, webhooks, runners or other settings that you didn't enable
-yourselves. This is covered in the guide that we sent, but if you have any questions please let us know in the ticket.
+> After your new instance is set up, you need to upgrade to a more recent version of GitLab before you expose this server to the public Internet. If you have any trouble with the upgrade process, let us know in the ticket immediately.
 
-> I'm going to drop off now, but rest assured that we're on standby and ready to help as you work through this.
+> Finally, as described in the recovery guide previously sent (should have been shared in the ticket via the [Compromised Instance Zendesk macro](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Incident/Compromised%20Instance.yaml), you should do an audit of the integrity of GitLab itself: checking for any users, code, webhooks, runners or other settings that you did not enable yourselves. If you have any questions, please let us know in the ticket.
+
+> I'm going to leave the call now, but rest assured that we're on standby and ready to help as you work through this.
