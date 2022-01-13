@@ -241,8 +241,6 @@ In the Enterprise Dimensional Model, we introduce the daily grain in the `COMMON
 
 The dbt solution for building snapshot tables will set the `valid_to` field as NULL for the current version of a record, as shown in the first example above. This is how the data will be presented in the `_source` models. When this is transformed into a daily snapshot in the `COMMON` schema, there is flexibility for the analyst to decide how to [set the end date](https://discourse.getdbt.com/t/building-models-on-top-of-snapshots/517) (today's date, a future date, into the infinite future) depending on the business use case.
 
-Due to the performance concerns, we need to confirm the necessity of such a resource intensive model with business justification. Only build a daily snapshotted table in the `COMMON` schema when the use case requires being able to query fact data on a daily basis to answer questions. An example of such a question is: what was ARR on a specific calendar date? Additionally, any daily snapshot models added to the `COMMON` schema must meet a minimum performance threshold or they will need to be modified to a different level of aggregation or limited to a recent set of data (ex. last two years, previous 13 months, etc.). If the model does not build in the allotted time for it to run in the daily ci jobs, then an archiving or aggregation technique will be applied to bring the model into compliance with our performance standards.
-
 ## Useful links and resources
 
 - [dbt Discourse about Kimball dimensional modelling](https://discourse.getdbt.com/t/is-kimball-dimensional-modeling-still-relevant-in-a-modern-data-warehouse/225/6) in modern data warehouses including some important ideas why we should still use Kimball
