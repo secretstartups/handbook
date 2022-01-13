@@ -28,10 +28,10 @@ The Timeline view in Gainsight gives us a chronological overview of our activiti
 The following activities can be logged in Gainsight:
 
 - **Update**: General update on the customer, could be from an internal conversation.
-- **Call**: Conversation with the customer via Zoom or other synchronous channel.
-- **Meeting**: On-site or otherwise in-person meeting with the customer.
+- **Customer Call**: Conversation with the customer via Zoom or other synchronous channel.
+- **In-Person Meeting**: On-site or otherwise in-person meeting with the customer.
 - **Email**: Message sent to the customer, or message thread between the TAM and the customer.
-- **Milestone**: This tracks when the customer achieves a major milestone such as Onboarding, time to value, TAM transition, etc.
+- **At-Risk Update**: An update (similar to above) and used exclusively with red customers for providing updates specific to a risk. See [At-Risk CTA](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#at-risk-cta) for details.
 - **Workshop**: A customer workshop, which can include GitLab Days, Workshops, Lunch and & Learns, and more.
 
 ### Last Activity Date
