@@ -98,8 +98,8 @@ Team members hired after October 31st will be reviewed to ensure their salary do
 1. January 13th: People Business Partner check on the progress/Budget impact.
 1. January 18th: Aim to have all Managers/Senior Managers/Directors reviewed their slates. Justifications must be included in the notes section for all increases exceptions (for example: any above 10%, out of band exceptions due to contract factor updates, etc.) for slates to be complete. These justifications will be reviewed and approved by Department and Division leaders.
 1. January 18th - January 20th: Department Heads/People Business Partners review budget impact and deficiencies, before moving to E-Group.
-1. January 21st - January 25th: For E-Group to review and approve final compensation changes.
-1. January 26th - January 31st: Total Rewards will present all compensation changes to the Compensation Group for final approval.
+1. January 21st - January 24th: For E-Group to review and approve final compensation changes.
+1. January 25th - January 31st: Total Rewards will present all compensation changes to the Compensation Group for final approval.
 
 ##### February:
 1. February 1st - Februrary 4th: Total Rewards Analysts will update [BambooHR](https://www.bamboohr.com/d/), and notify all payroll providers to be effective February 1st. Total Rewards will be generating a "Total Rewards Statement" inclusive of Cash Compensation changes and current equity value for managers to use in communicating compensation changes in FY22. Total Rewards will also be iterating to include Total Benefits & incentives awarded throughout FY22. 
