@@ -164,6 +164,29 @@ The  Senior Director, Development is a [grade 11](/handbook/total-rewards/compen
 
 * Extends that of the [Director, Development](#director-development) requirements
 
+### Senior Distinguished Engineer
+
+*The Senior Distinguished Engineer reports to the [Senior Director, Development](https://about.gitlab.com/job-families/engineering/engineering-management/#senior-director-development).
+
+#### Senior Distinguished Engineer Job Grade
+
+The Senior Distinguished Engineer is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Distinguished Engineer Responsibilities
+
+* The Senior Distinguished Engineer role acts as the individual equivalent of a Senior Director, Engineering
+* Extends that of the [Distinguished Engineer](#distinguished-engineer) responsibilities
+* At this level the person's contribution plays to their strength and role on the department
+* _Generate_ technical and process improvements
+* Drive innovation within Engineering
+* Identify the balance between the immediate and long term impact of technical direction
+* Be a technical mentor for other backend engineers
+* Author architecture documents for epics
+
+#### Senior Distinguished Engineer Requirements
+
+* Extends that of the [Distinguished Engineer](#distinguished-engineer) requirements
+
 ### Engineering Fellow
 
 *The Engineering Fellow reports to the [VP of Development](#vp-of-development).
@@ -175,7 +198,7 @@ The Engineering Fellow is a [grade 12](/handbook/total-rewards/compensation/comp
 #### Engineering Fellow Responsibilities
 
 * The Engineering Fellow acts as the individual contributor equivalent of a VP of Engineering.
-* Extends that of the [Distinguished Engineer](#distinguished-engineer) responsibilities
+* Extends that of the [Senior Distinguished Engineer](#senior-distinguished-engineer) responsibilities
 * Advocate for improvements to product quality, security, and performance that impact all of Engineering at GitLab.
 * Solve technical problems of the highest scope and complexity for the entire
   organization.
