@@ -12,114 +12,86 @@ description: "The key aspects of how Technical Account Managers use Gainsight to
 
 *For an overview of Gainsight, and information about how to login, please refer to the [Gainsight Overview Page](/handbook/sales/gainsight/).*
 
+## Gainsight for Technical Account Managers
 
-## Gainsight workflow
-
-Gainsight holds a lot of information and is great for reporting, but there can be a learning curve for TAMs to getting a good workflow where they feel productive. Below is a recommended workflow for using Gainsight.
-
-Several TAMs find success by reviewing Gainsight at the beginning and/or end of their day, to see what action items (or [CTAs](/handbook/customer-success/tam/gainsight/ctas/)) are due soon, [log their customer calls](/handbook/customer-success/tam/gainsight/timeline/) from the day, and check on the status of their [success plans](/handbook/customer-success/tam/success-plans/).
+TAMs use Gainsight for a multitude of purposes.  It could be to log their customer calls, update their action plans (or CTAs), review the success plans, or gain insights on their customer’s Product Usage Data.
 
 One of our TAMs created an [8 minute video](https://youtu.be/yk95b6u26So) of her workflow and how she integrates Gainsight into her day to day tasks to reduce the lift and ensure her accounts stay up to date.
 
-### Gainsight dashboard
+The table below represents the steps a TAM would typically take in Gainsight. Please reference each handbook page for further information. 
 
-When logging in, TAMs will begin on their dashboard. Gainsight's homepage will show a "TAM Portfolio" Dashboard which is a full list and overview of each TAM's customers. This dashboard defaults to show the book of business for the current user but can be filtered and configured in a variety of ways to view the information for specific TAMs, teams, etc.
+#### Overview 
+- [Using Gainsight at GitLab](/handbook/sales/gainsight/)
+- [Gainsight Dashboards](/handbook/customer-success/tam/gainsight/dashboards-overview)
+- [Customer Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
+- [Sally the Slackbot](/handbook/customer-success/tam/gainsight/#sally-the-slack-bot)
+- [Email Assist](/handbook/customer-success/tam/gainsight/#emails)
 
-This dashboard is likely to be a TAM's most-frequented page, as it shows a summary of their entire book of business, including last activity dates, health scores, at-risk customers, [upcoming renewals](/handbook/customer-success/tam/renewals/), stage adoption statistics, success plan progress, and more.
+#### C360
+- [C360 overview](/handbook/customer-success/tam/gainsight/c360-overview)
+- [Account Engagement - Customer Prioritization](/handbook/customer-success/tam/engagement/#customer-prioritization)
+- [NPS/CSAT](/handbook/customer-success/tam/gainsight/c360-overview/nps-csat-scores)
 
-There are also other dashboards available to TAMs to look at, including the CS Leadership Dashboard which reviews aspects of all TAM-supported accounts, the Customer Onboarding Dashboard which shows the status of onboarding across all accounts, and the Stage Adoption Dashboard which goes into detail regarding which stages have been adopted and the success of adoption plays.
+#### Timeline
+- [Using Timeline](/handbook/customer-success/tam/gainsight/timeline/)
+- [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
+- [Customer Renewal Tracking - At-Risk Process](/handbook/customer-success/tam/renewals/#at-risk-process)
 
-If there is an asterisk (*) in the title of a report, widget, or field, that means it takes up to 24 hours for that data to update if you change it. For example, in the TAM Burndown Dashboard, there's a widget called `*PR1 Cadence >30 Days`, which shows how many Priority 1 accounts have not had a cadence call recorded in more than 30 days. If you then record a call in Timeline, it will take up to 24 hours for that widget to reflect the updated information.  
+#### Calls to Action
+- [Calls to Action (CTAs)](/handbook/customer-success/tam/gainsight/ctas/)
+- [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/#ebrs-in-gainsight)
+- [Account Handoff TAM-to-TAM Checklist](/handbook/customer-success/tam/account-handoff/#account-handoff-cta)
+- [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/#timeframe)
+- [Customer Renewal Tracking - At-Risk Process](/handbook/customer-success/tam/renewals/#at-risk-process)
 
-When hovering on the far left of the screen, a sidebar will pop up that has a few options:
+#### Renewals
+- [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/#timeframe)
+- [Customer Renewal Tracking - At-Risk Process](/handbook/customer-success/tam/renewals/#at-risk-process)
 
-- Home - you're here!
-- Timeline - this [Timeline](/handbook/customer-success/tam/gainsight/timeline/#timeline-view) view shows all customers, rather than an individual customer which can be found on a [Customer 360](#customer-360).
-- Cockpit - the Cockpit is where [CTAs](/handbook/customer-success/tam/gainsight/ctas/) live; this Cockpit view shows all CTAs for all of your customers, including success plan objectives.
+#### Success Plans
+- [Success Plans](/handbook/customer-success/tam/success-plans/)
+- [Account Engagement - E-Group Customer Calls](/handbook/customer-success/tam/engagement/#e-group-customer-calls) 
 
-#### Further detail on specific dashboards
-1. [TAM Proactive Dashboard](https://about.gitlab.com/handbook/customer-success/tam/gainsight/dashboards/#tam-proactive-dashboard)
-1. [TAM Key Metrics Dashboard](https://about.gitlab.com/handbook/customer-success/tam/gainsight/dashboards/#tam-key-metrics-dashboard)
+#### Health Score
+- [Use Case Adoption (definitions)](/handbook/customer-success/product-usage-data/use-case-adoption/)
+- [Customer Health Scoring](/handbook/customer-success/customer-health-scoring/)
+- [Customer Health Assessment and Management](/handbook/customer-success/tam/health-score-triage/)
+- [License Utilization](/handbook/customer-success/product-usage-data/license-utilization/)
 
-### Customer 360
+#### Product Usage Data
+- [Operational Data Vision Page](/handbook/customer-success/product-usage-data/#customer)
+- [Using Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight)
+- [Product Usage Data FAQs](/handbook/customer-success/product-usage-data/product-usage-data-FAQs)
+- [Use Case Adoption (definitions)](/handbook/customer-success/product-usage-data/use-case-adoption/)
+- [Customer Health Scoring](/handbook/customer-success/customer-health-scoring/)
+- [Product Usage Data - Data Team](/handbook/business-technology/data-team/data-catalog/product-usage-data/)
+- [License Utilization](/handbook/customer-success/product-usage-data/license-utilization/)
 
-The Customer 360 (or C360) is the full overview for each individual account.
+#### Programs
+- [Customer Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
+- [NPS/CSAT](/handbook/customer-success/tam/gainsight/c360-overview/nps-csat-scores)
 
-The left side panel of the 360 contains the following sections:
+#### Technical Documentation
+- [Gainsight Technical Documentation](/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)
+- [Gainsight Administration](/handbook/sales/field-operations/customer-success-operations/gainsight/)
+- [SalesForce and Zendesk Sync](/handbook/customer-success/tam/gainsight/#salesforce-and-zendesk-syncing)
 
-- Summary - high-level overview of the account
-- Attributes - account-related details and links; for lifecycle stage definitions, see our [vision handbook page](/handbook/customer-success/vision/#lifecycle-stages), and for deployment types see our [definitions](/handbook/customer-success/tam/gainsight/deployment-types/)
-- Scorecard - [health score](/handbook/customer-success/tam/health-score-triage/)
-- Success Plan - [success plans](/handbook/customer-success/tam/success-plans/)
-- Account Hierarchy - provides a tree of parent and child account hierarchy if applicable
-- Sponsor Tracking - ability to add your key customer contacts and be notified if they leave the company
-- Cockpit - holds all of your tasks and [CTAs](/handbook/customer-success/tam/gainsight/ctas/) for the account
-- Contacts - all contacts for the account ([synced from Salesforce](#salesforce-and-zendesk-syncing))
-- Zendesk Tickets - recent Zendesk tickets ([synced from Zendesk](#salesforce-and-zendesk-syncing))
-- Subscriptions - GitLab subscription details ([synced from Salesforce](#salesforce-and-zendesk-syncing))
-- Opportunities - open opportunities ([synced from Salesforce](#salesforce-and-zendesk-syncing))
-- Salesforce Activities - "Activity History" section [from Salesforce](#salesforce-and-zendesk-syncing)
-- License Utilization - [license utilization](https://about.gitlab.com/handbook/customer-success/product-usage-data/license-utilization/)
-- Product Usage Trends - [product usage trends](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#gainsight-reports-and-dashboards)
-- Product Usage Scorecard Calcs - shows [calculations](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/) of product usage health score
-- Instance and Namespace Details - [instance and namespace details](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#gainsight-reports-and-dashboards)
-- Whitespace (Use Case) - [use case technology tracking](https://about.gitlab.com/handbook/sales/understand-customer-gitlab-use/#use-case-technology-tracking)
-- Whitespace (Use Case Visual) - visualization of inputs from above report
-- Whitespace (Stages until transition) - tracks whitespace information based on stage
-- Survey - holds all survey response data from Journey Orchestrator customer programs
-- Program Logs - automatically logs Journey Orchestrator customer program emails to the account history for visibility
-
-If you'd like, you can toggle the "Scrolling" button at the top of any 360 page to enable scrolling through all of the sections, rather than having to click into them.
-
-Note at the top of the 360 page, there is a button for [Timeline](/handbook/customer-success/tam/gainsight/timeline/), which shows all logged activities for that specific customer. Gainsight has a number of options for logging a TAM's interactions with a customer. These are useful to build a historical record of what the customer has done with us, and the initiatives we've worked on.
-
-#### Following accounts
-
-On each account's 360, there is a "Follow" button next to the account name. If you are assigned as a TAM to an account, there is no need to follow the account, as you will automatically receive all notifications for that account. If you are not the TAM assigned to an account, you can follow the account to receive the same notifications the TAM assigned does.
-
-#### Referenceable customers
-
-The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/strategic-marketing/customer-reference-program/). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer]().
-
-#### Customer NPS/CSAT surveys
-
-The purpose of these surveys are to measure customer loyalty, satisfaction, and enthusiasm with GitLab. The onboarding NPS/CSAT serves as an early warning system for the customer beyond what TAM sentiment or product usage data can tell us. It is another attribute that can point to risk early in an account, enabling faster time to resolution. The renewal NPS/CSAT serves as an additional attribute into our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
-
-In order for our customers to receive the surveys,  a [`GitLab admin` role needs to be assigned](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) in Gainsight to the appropriate contacts.  It is the TAM’s role to complete the role assignment, and this process has been added as a task in the customer onboarding playbook, and again in the customer renewal playbook. 
-
-##### What is NPS?
-- Net Promoter Score - From 1-10
-- It is always one question - "How likely are you to recommend (company) to a friend or colleague?"
-- A Promoter responds with a score of 9 or 10 and can signify a loyal and enthusiastic customer.
-- A Passive responds with 7 or 8. They are satisfied, but not happy enough to be a promoter. It is a great target area for improving and learning from these customers.
-- A Detractor responds anywhere from 0 to 6, are unlikely to buy again, and may also discourage others from buying
-- It is an attribute that can give another view into how a portion of the customer lifecycle has gone, or may go, such as onboarding (early enablement) and preparation to renew. 
-- The rolled up score can give insight into trends - such as onboarding/enablement being bumpy. 
-- In companies that have more complex/longer onboarding processes, the NPS typically starts lower and rises as the customer begins to feel more return on investment later in the lifecycle.  
-
-##### What is NPS not?
-- A determination of the health of a customer.  It is simply another attribute.
-
-##### What is CSAT?
-- There are customer satisfaction questions, that often accompany the NPS question to get a deeper understanding of the customer sentiment at that point in the lifecycle.
-
-##### What CSAT / NPS questions are we asking?
-- Post-Onboarding - 
-   - Considering your experience with us so far, how likely are you to recommend GitLab to a friend or colleague?
-   - Overall, how satisfied are you with your onboarding experience?
-   - How can we improve your readiness to adopt the product?
-- Pre-Renewal - 
-   - How likely are you to recommend GitLab to a friend or colleague?
-   - How satisfied are you with GitLab? 
-
-##### What will we do with the scores?
-- In addition to writing the score to a scorecard in the customer 360, we will also trigger CTA’s to action based on the feedback.
-- Negative NPS Scores (0-6 OR Very Dissatisfied, Dissatisfied, Neutral) will create a CTA for the TAM Manager to follow-up with the contact.
-- Positive NPS Scores (7-10 OR Satisfied, Very Satisfied) will create a CTA for the TAM to follow-up with the contact.
-- All scores will be posted to #cs_programs_nps_results channel in Slack!
-
-##### Who will receive the survey and when?
-- We will send the NPS/CSAT survey at the 60 day mark for new customers (not those longer-standing that recently got a TAM) and again at 120 days before renewal.
+#### Video enablement
+The videos listed here are internal to GitLab only. You will need to be logged in to the "GitLab Unfiltered" YouTube channel to access them.
+- [Gainsight Overview and Demo](https://youtu.be/6NuyNSNipgc)
+- [Gainsight Foundations](https://education.gainsight.com/gainsight-foundations-nxt-fka-101)
+- [Gainsight Enablement 1](https://youtu.be/PL9shBdCMmo): health score, call logging, and creating a success plan
+- [Gainsight CTAs](https://www.youtube.com/watch?v=qkjmTh3Qad4&feature=youtu.be)
+- [Gainsight TAM Dashboard and Customer 360](https://www.youtube.com/watch?v=01IhQpSN2us&feature=youtu.be)
+- [Gainsight Assist Gmail Plugin](https://www.youtube.com/watch?v=7_gPQv-CHHA&feature=youtu.be)
+- [Gainsight Account Triage](https://drive.google.com/file/d/1-jM7j-tpY3kC6kZR4xjXS8iUPrkoBrn9/view)
+- [Executive Business Reviews with Gainsight](https://www.youtube.com/watch?v=LE1aNw4OiHw&feature=youtu.be)
+- [Sally Slackbot](https://education.gainsight.com/series/end-user-training/gainsight-sally)
+- [How a Gainsight CSM Uses Gainsight](https://education.gainsight.com/series/end-user-training-for-nxt/how-a-gainsight-csm-uses-gainsight)
+- [Using Gainsight in Account Team Meetings](https://youtu.be/gT_pz9PoHHg)
+- [License Usage in Gainsight](https://youtu.be/ZqpmxoUy6EE)
+- [Product Usage Data - Overview](https://youtu.be/5_J9Kfbu5JA)
+- [At Risk Customer Video](https://www.youtube.com/watch?v=MQqfL3WT1zo)
 
 
 ### Sally the Slack bot
@@ -171,24 +143,4 @@ To add customer contacts to an account, you can add them in either Salesforce or
 1. When we send emails to contacts (monthly release, marketing, etc.), the contact needs to be loaded into Gainsight.
 1. To share a Success Plan, they need to be a contact in Gainsight.
 1. Sponsor Tracking component requires the contact to be in Gainsight.
-
-## Video enablement
-
-The videos listed here are internal to GitLab only. You will need to be logged in to the "GitLab Unfiltered" YouTube channel to access them.
-
-- [Gainsight Overview and Demo](https://youtu.be/6NuyNSNipgc)
-- [Gainsight Foundations](https://education.gainsight.com/gainsight-foundations-nxt-fka-101)
-- [Gainsight Enablement 1](https://youtu.be/PL9shBdCMmo): health score, call logging, and creating a success plan
-- [Gainsight CTAs](https://www.youtube.com/watch?v=qkjmTh3Qad4&feature=youtu.be)
-- [Gainsight TAM Dashboard and Customer 360](https://www.youtube.com/watch?v=01IhQpSN2us&feature=youtu.be)
-- [Gainsight Assist Gmail Plugin](https://www.youtube.com/watch?v=7_gPQv-CHHA&feature=youtu.be)
-- [Gainsight Account Triage](https://drive.google.com/file/d/1-jM7j-tpY3kC6kZR4xjXS8iUPrkoBrn9/view)
-- [Executive Business Reviews with Gainsight](https://www.youtube.com/watch?v=LE1aNw4OiHw&feature=youtu.be)
-- [Sally Slackbot](https://education.gainsight.com/series/end-user-training/gainsight-sally)
-- [How a Gainsight CSM Uses Gainsight](https://education.gainsight.com/series/end-user-training-for-nxt/how-a-gainsight-csm-uses-gainsight)
-- [Using Gainsight in Account Team Meetings](https://youtu.be/gT_pz9PoHHg)
-- [License Usage in Gainsight](https://youtu.be/ZqpmxoUy6EE)
-- [Product Usage Data - Overview](https://youtu.be/5_J9Kfbu5JA)
-- [At Risk Customer Video](https://www.youtube.com/watch?v=MQqfL3WT1zo).
-
 
