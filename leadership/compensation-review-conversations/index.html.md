@@ -72,7 +72,7 @@ Cash compensation is discussed during our [Annual Compensation Review](/handbook
 2. **Not receiving an increase:**   A team member is not receiving an adjustment:
    * Sample Script:
    * "As you know, GitLab just went through our Annual Compensation Review. I wanted to inform you that you are not getting a compensation adjustment at this time. This is due to (examples below)...
-       * A team member is new to the team and at the market range for your aligned role.  "Your performance is good (if applicable), however, we hire new team members at market rate for compensation so we feel that you are compensated accurately for your role at this time. You may be eligible to participate in the the [Targeted Mid-year Increase Review process](/handbook/total-rewards/compensation/compensation-review-cycle/#targeted-mid-year-increase-review)."
+       * A team member is new to the team and at the market range for your aligned role.  "Your performance is good (if applicable), however, we hire new team members at market rate for compensation so we feel that you are compensated accurately for your role at this time."
        * A team member is not receiving because they are above range for their role.   "Your compensation is above the market pay range for your role and therefore you are not receiving an additional increase as a part of the Annual Compensation Review. Your performance is good (if applicable), so let's discuss what you want to work on in the future and create a [development plan](/handbook/people-group/learning-and-development/career-development/) together."
        * A team member needs to improve performance. For questions on specific situations, please work with your People Business Partner.
  
