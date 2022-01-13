@@ -95,7 +95,7 @@ that details the FMM process where CAMs can read more about how to complete [the
  - **Tradeshows/Conference Sponsorships** - Partner on-site sponsorship of a Third-party event organized by an industry set, or other GitLab Partner, where a sponsorship contract / package is purchased by Partner and GitLab products, solutions, & brand are promoted.
 
 
-These activities are captured on the campaign level in Salesforce.com as `Campaign Type Details` for `Partner - MDF` Campaign Types only.
+These activities are captured as `Campaign Type Details` on the campaign level in Salesforce.com for `Partner - MDF` [Campaign Type](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) only.
 
 ### Submitting Proof of Performance (POP) for MDF 
 
