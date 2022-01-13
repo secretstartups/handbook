@@ -179,27 +179,31 @@ If you are interested in participating in an active working group, it is general
 * [Transient Bugs](/company/team/structure/working-groups/transient-bugs/)
 * [Upstream Diversity](/company/team/structure/working-groups/upstream-diversity/)
 
-## 11 Cross-Functional Initiatives   
+## 12 Cross-Functional Initiatives
+
 In FY22-Q4, we identified 11 cross-functional initiatives that are key to GitLab's success in FY23 and beyond. While there are other important business initiatives and priorities that exist within functions or require engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring. 
 
 | Initiative | DRI |
 | ------ | ------ |
-| Data usage | @justinfarris  |
-| Cloud licensing | @justinfarris   |
+| Usage Data | @justinfarris  |
+| Cloud Licensing | @justinfarris   |
 | FedRAMP | @JohnathanHunt |
 | Project Horse | @marin  |
 | Reliability | @sloyd  |
-| Free user efficiency | @kencjohnston  |
+| SaaS Free User Efficiency | @kencjohnston  |
+| User Engagement | @dplanella  |
 | Project Matterhorn | @keithchung  |
-| First order | @christinelee  |
-| Category leadership | @melsmo  |
-| Partnerships | @nbadiey  |
-| User engagement | @dplanella  |
+| First Order | @christinelee  |
+| Category Leadership | @melsmo  |
+| AWS/GCP Partnerships | @nbadiey  |
+| Recruiting Motion | @ronell |
 
-### 11 Cross-Functional Initiative DRIs
+### Cross-Functional Initiative DRIs
+
 Each of our top cross-functional initiatives has an executive sponsor and a [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/). DRIs are the folks ultimately held accountable for the success (or failure) of the project. They are the linchpins as these initiatives require deep cross-functional alignment and coordination. DRIs are also responsible for performance tracking and reporting. This includes:
 1. Providing updates in advance of relevant [Key Reviews](https://about.gitlab.com/handbook/key-review). Updates should map to the Executive Sponsor who is aligned with the initiative. For example, category leadership maps to Marketing as the Exec Sponsor is the CMO. The DRI should plan to update the project tracking sheet and designated overview slides in advance of the meeting.
 1. Providing updates in Top Initiative Check In Meetings. No slides are needed, but the project tracking sheet should be updated in advance. DRIs should come prepared to speak to status of the initiatives and any notable risks and/or dependencies. 
 
 ### Information Access
+
 We are tracking in epics and issues in a separate namespace to comply with [SAFE guidelines](/handbook/legal/safe-framework/). If team members want access to a specific initiative, they should reach out to the appropriate DRI. 
