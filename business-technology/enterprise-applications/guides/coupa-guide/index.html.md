@@ -135,9 +135,9 @@ For Field Marketing Dept Only - please refer to the [Field Marketing Handbook - 
 {: .alert .alert-info}
 
 #### Free-Form Requisition
-
+<br>
 ![coupa-image-20](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa20.png)
-
+<br>
 - Click on the "Pen" icon on the homepage (upper left corner).
 - Complete the form with the following information:
 
