@@ -95,7 +95,7 @@ The Program Manager, Enablement Responsibilities fall into four distinct buckets
 
 ### Manager, Global Enablement
 
-The Manager, Global Enablement reports to the Director of Talent Brand & Talent Acquisition Enablement. 
+The Manager, Global Enablement reports to the Senior Director of Talent Brand & Talent Acquisition Enablement. 
 
 #### Manager, Global Enablement Job Grade
 
@@ -104,15 +104,15 @@ The Manager, Recruiting Operations is a [grade 8](/handbook/total-rewards/compen
 #### Manager, Global Enablement Responsibilities
 
 * Design and drive rigour in processes and policies for our Global Talent Acquisition team
-* Partner with our tools team to optimize our systems, tools and processes to create consistent, efficient and equitable hiring outcomes 
+* Partner with our tools team to optimize our systems, tools and processes to create consistent, efficient and equitable hiring outcomes
 * Partner with finance and our PBP team to ensure that the necessary process flows are built for scale
 * Partner with our Data and Analytics team to build a solid reporting suite for the Head of TA, their leadership team and the hiring manager community
 * Provide coaching to improve performance of team members and drive accountability
-* Onboard, mentor, and grow the careers of all team members
-* Develop, own and run the GItlab hiring planning process in collaboration with the various operations teams, finance and the PBP’s
+* Develop, own and run the Gitlab hiring planning process in collaboration with the various operations teams, finance and the PBP’s
 * Build trusted partnerships within GitLab and externally to collaborate, drive alignment and stay on top of trends
 * Leverage our candidate facing teams to advocate for our employer brand and deliver a world-class experience
-* Help define and leverage data focused metrics in order to develop and deliver on the goals
+* Help define and leverage data-focused metrics in order to develop and deliver on the goals
+
 
 #### Manager, Global Enablement Requirements
 
@@ -124,7 +124,51 @@ The Manager, Recruiting Operations is a [grade 8](/handbook/total-rewards/compen
 * A team player with excellent client management skills
 * Ability to use GitLab
 
+
 #### Manager, Global Enablement Performance Indicators
+
+* [Average candidate ISAT](/handbook/hiring/metrics/#interviewee-satisfaction-isat)
+* [Hires vs. Plan](/handbook/hiring/metrics/#hires-vs-plan)
+
+### Senior Manager, Global Enablement
+
+The Senior Manager, Global Enablement reports to the Senior Director of Talent Brand & Talent Acquisition Enablement. 
+
+#### Senior Manager, Global Enablement Job Grade
+
+The Senior Manager, Recruiting Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Manager, Global Enablement Responsibilities
+
+* Develop TA enablement strategy and roadmap and drive cross-functional partners to deliver on plans 
+* Support Candidate Experience Manager in defining vision and metrics for the Candidate Experience team 
+* Design and drive rigour in processes and policies for our Global Talent Acquisition team
+* Run change management cycles as new processes and policies are put in place
+* Partner with our tools team to optimize our systems, tools and processes to create consistent, efficient and equitable hiring outcomes
+* Partner with Finance and our PBP team to ensure that the necessary process flows are built for scale
+* Partner with our Data and Analytics team to build a solid reporting suite for the Head of TA, their leadership team, and the hiring manager community
+* Partner with our Legal team to ensure our practices and processes are in line with employment laws in locations where we operate
+* Provide coaching to improve performance of team members and drive accountability
+* Onboard, mentor, and grow the careers of all team members in the TA Enablement and Candidate Experience teams
+* Develop, own and run the Gitlab hiring planning process in collaboration with the various operations teams, finance and the PBP’s
+* Build trusted partnerships within GitLab and externally to collaborate, drive alignment and stay on top of trends
+* Leverage our candidate facing teams to advocate for our employer brand and deliver a world-class experience
+* Help define and leverage data-focused metrics in order to develop and deliver on the goals
+
+
+#### Senior Manager, Global Enablement Requirements
+
+* Ability to develop TA enablement strategy and roadmap and drive cross-functional partners to deliver on plans 
+* Exceptional cross-functional communication and organization skills, and demonstrated experience in time-management and ability to influence
+* A creative mindset to get things done effectively and efficiently
+* Familiarity with an ATS and other tools
+* History of people management and ability to influence a team
+* Robust time management, communication and organizational skills
+* A team player with excellent client management skills
+* Ability to use GitLab
+
+
+#### Senior Manager, Global Enablement Performance Indicators
 
 * [Average candidate ISAT](/handbook/hiring/metrics/#interviewee-satisfaction-isat)
 * [Hires vs. Plan](/handbook/hiring/metrics/#hires-vs-plan)
