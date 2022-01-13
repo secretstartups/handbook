@@ -55,6 +55,8 @@ For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.c
 <a href="/handbook/customer-success/product-usage-data/use-case-adoption/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Use Case Adoption Guide</a>
 <a href="/handbook/customer-success/product-usage-data/license-utilization/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">License Utilization in Gainsight</a>
 <a href="/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Gainsight Scorecard Attributes<br>and Calculations</a>
+<br>
+<a href="/handbook/customer-success/product-usage-data/product-usage-data-FAQs" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data FAQs</a>
 </div>
 
 <br>
@@ -134,29 +136,7 @@ See our technical documentation for our [instance of Gainsight's Adoption Explor
 
 ### User and Project Adoption Metrics
 
-Below is a list of user- and project-based adoption metrics to assist with understanding the usage of key features for the overall customer. Examples include the number of users running ci_pipelines divided by the total licensed user count. Note: L28D means "Last 28 Days"
-
-| Metric | Calculation | Description |
-| ------ | ----------- | ----------- |
-| UMAU User % | UMAU/billable_user_count | How many deployed licenses are actively used on a monthly basis? |
-| License Utilization | Billable_user_count / Licenses Sold | What percentage of licenses have been activated? Are they consuming their purchased licenses? |
-| UMAU Utilization | UMAU/Licenses Sold | What percentage of purchased licenses are in use? Is there a risk of seat reduction? |
-| Create User % | SMAU Create/ billable_user_count | What percentage of billable licenses are active on the Create stage? Has this customer sufficiently on this Product stage? |
-| Protect User % | SMAU Protect/ billable_user_count | What percentage of billable users are running Container scans? |
-| Secure User % | SMAU Secure/ billable_user_count | What percentage of billable users are actively running Secure scans? What is their methodology to scans, do they have few or many people running scans? |
-| Verify User % | SMAU Verify/ billable_user_count | What percentage of billable users are actively running ci_pipelines? Do we have light or deep user-level penetration into CI? |
-| Merge Request User % | Merge Requests / billable_user_count | What percentage of billable users run merge requests? This can reveal SCM usage, as well as providing insight for expanding into CI and other use cases. |
-| CI Builds User % | CI Builds / billable_user_count | What percentage of billable users are creating CI builds? Consider contrasting this with total CI builds. |
-| Auto Devops Projects % | counts.auto_devops_enabled / counts.projects | What percentage of total projects with auto devops set up. For certain customers, this can help illuminate the depth and month-over-month auto devops expansion via projects. |
-| Package Registry Projects % | counts.projects_with_packages / counts.projects | What percentage of total projects with package registry enabled? |
-| Competitor CI Projects % | (counts.projects_jenkins_active + projects_bamboo_active_all_time_event + projects_drone_ci_active_all_time_event) / counts.projects | What percentage of total projects have active competitor integrations? Helpful to monitor increases/decreases over time. |
-| SMAU Verify Utilization | SMAU Verify / Licenses Sold | What percentage of total subscription licenses have users running ci_pipelines in the last 28 days? Useful to track CI growth over time. |
-| Merge Requests Utilization | Merge Requests - User L28D / Licenses Sold | What percentage of total subscription licenses have users running merge requests? This can help us understand the depth of SCM/VC&C usage. |
-| CI Pipeline Config Utilization | CI Pipeline Config - User L28D / Licenses Sold | What percentage of total subscription licenses have users running ci_pipelines from templates in the repo in the last 28 days? Useful to track pipeline config outcomes. |
-| SMAU Secure Utilization | All Secure Scanners - User L28D / Licenses Sold | What percentage of total subscription licenses have users running any type of DevSecOps scan in the last 28 days? Useful as a top-level usage DevSecOps indicator. |
-| Releases Utilization | Deployments - User L28D / Licenses Sold | What percentage of total subscription licenses have users running deployments in the last 28 days? Useful for Release and CD analysis. |
-| Issues Created Utilization | Issues Created - User L28D / Licenses Sold | What percentage of total subscription licenses have created issues in the last 28 days? Useful for evaluating broad usage of Plan |
-| Package Utilization | Packages - User L28D / Licenses Sold | What percentage of total subscription licenses have published a package to the registry in the last 28 days? Useful for a high level adoption of Package |
+See User & Project Adoption Metrics tab on [Product Usage Data for Gainsight Definitions(https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=650262484) for calculated metrics.
 
 
 ## Data
