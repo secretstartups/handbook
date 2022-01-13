@@ -155,6 +155,6 @@ Example framework for a call we establish (or a bridge call the customer is lead
 
 > After your new instance is set up, you need to upgrade to a more recent version of GitLab before you expose this server to the public Internet. If you have any trouble with the upgrade process, let us know in the ticket immediately.
 
-> Finally, as described in the recovery guide previously sent, you should do an audit of the integrity of GitLab itself: checking for any users, code, webhooks, runners or other settings that you did not enable yourselves. If you have any questions, please let us know in the ticket.
+> Finally, as described in the recovery guide previously sent (should have been shared in the ticket via the [Compromised Instance Zendesk macro](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Incident/Compromised%20Instance.yaml), you should do an audit of the integrity of GitLab itself: checking for any users, code, webhooks, runners or other settings that you did not enable yourselves. If you have any questions, please let us know in the ticket.
 
 > I'm going to leave the call now, but rest assured that we're on standby and ready to help as you work through this.
