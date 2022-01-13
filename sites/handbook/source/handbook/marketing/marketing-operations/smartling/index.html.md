@@ -71,7 +71,7 @@ See more details on [Smartling's help article](https://help.smartling.com/hc/en-
 
 ## Translation Costs and SLAs
 
-Any assets being translated into the supported language pairs will be supported by the [localization budget](https://about.gitlab.com/handbook/marketing/localization/). Any assets outside of this support will need to be allocated from the requester team's budget and include the Allocadia ID in the `Reference Number` as well as links to any associated epics or issues in the `Description`. 
+Any assets being translated into the supported language pairs will need to be allocated from the requester team's budget. At the end of each month, Marketing Ops will split the invoice by team and finance will charge the relevant team by that amount.
 
 Finance requires us to tally the cost and professional services hours at the end of each month for the month so they can approriately allocate each cost to the respective budget. 
 
@@ -198,9 +198,7 @@ In the Marketo connector within Smartling, `Translation Progress` will show you 
 
 ## Jobs
 
-Each job should only be translating to one language pair. For instance, if you have a whitepaper that you would like to translate to French and German, you would create two separate jobs: one for the German version and one for the French version.
-
-Each jobs is parsed differently in Smartling depending on the file type. So if a similar string exists both in a web page (HTML) and a document (PDF), Smartling may not match those strings in the same way.
+Each jobs is parsed differently in Smartling depending on the file type. So if a similar string exists both in a web page (HTML) and a document (PDF), Smartling may not match those strings in the same way. As a result, we recommend opening a job per file type- you can have as many languages on one job as needed.
 
 You can request a translation job either from the main `Jobs` tab in the top navigation or from the project level the job will be conducted in based on the file type (Marketo, GDN, Documents).
 
@@ -219,7 +217,7 @@ File directives are used to define the location of specific data in a file. **CS
 We have a workflow in Smartling that will format your file to support the new translation. Desktop Publishing in Smartling will take the new translations and apply them to your design files and return back a formatted file ready to use. Design files can be requested in the `#marketing-design` slack channel. Below is the process to follow if you wish for DTP to format your file:
 
 1. Open the job in Smartling and select the workflow called DTP. This workflow will translate your content, allow it go to review with our internal reviewers and then go onto the graphic designer who will format it.
-2. After you upload the file for translation, You will need to upload the file to our Smartling Dropbox Folder. If you need access to the Dropbox folder, please ask for access in the `#mktgops` slack channel. For indesign files, job submitters will need to upload an indesign package with the following files:
+2. When creating the job for translation, you will see an option to upload files. For indesign files, job submitters will need to upload an indesign package with the following files:
     * All fonts
     * All linked Images
     * Source INDD File
