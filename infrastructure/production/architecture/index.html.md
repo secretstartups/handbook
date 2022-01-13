@@ -77,7 +77,6 @@ For more information on why we chose to split traffic into multiple zonal cluste
 A single regional cluster is also used for services like Sidekiq and Kas that do not have a high bandwidth requirement and services that are a better fit for a regional deployment.
 
 In keeping with GitLab's value of transparency, all of the Kubernetes cluster configuration for GitLab.com is public, including infrastructure and configuration.
-GitLab.com maintains 4 Kubernetes cluster for production with similarly configured clusters for staging.
 
 The following projects are used to manage the installation:
 * [k8s-workloads/gitlab-com](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com): Contains the GitLab.com configuration for the [GitLab helm chart](https://gitlab.com/gitlab-org/charts/gitlab).
