@@ -69,7 +69,7 @@ If you need a basis for a response where you send the challenges, or in a 2FA ti
 
 1. Using the [2FA App in Zendesk](../support-ops/documentation/zendesk_global_apps.html#2fa-app), determine the appropriate data classification level and the risk factor you have determined from customer's answers to the challenges.
    - [Specific conditions are required to be considered for 2FA resets](#conditions-for-2fa-reset-consideration).  However, challenge responses can be accepted from any (paid or unpaid) group or project associated with the user.
-   - If a group owner is answering on an [enterprise user's](gitlab-com_overview.html.md#enterprise-users) behalf, the owner can be considered to be "vouching" for the user (another owner vouching is not required).
+   - If a group owner is answering on an [enterprise user's](gitlab-com_overview.html#enterprise-users) behalf, the owner can be considered to be "vouching" for the user (another owner vouching is not required).
    - Backup to app: [Risk Factor Worksheet](https://drive.google.com/drive/u/0/search?q=Risk%20factor%20worksheet%20parent:1nI4lCILooN-0U_RmPJP6_cNyIDgXJR99) (internal only) with the [`Support::SaaS::2FA::2FA Internal Note` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket with the table at the bottom of the sheet.
 1. **If verification passed:** Request that your decision be peer-reviewed by another member of the team via Slack `#support_gitlab-com`.
 1. **If the verification failed**: A peer review is optional, and you may opt to [offer more challenges to the user](#user-fails-to-prove-account-ownership).
@@ -258,4 +258,4 @@ If no Self-service options are viable, follow the steps below:
 1. Once we received the necessary document, double check all the requested information is included. If not, let them know what's missing. If all required elements are present, follow the next step.
 1. Create a new issue in [the Legal tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/) requesting approval to add or upgrade the permissions of the requesting user. Note the issue in an internal comment on the ticket, then reply to the requestor using [`Legal::General` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in `#legal`.
 1. After receiving approval: add or elevate the requested user to Owner role.
-1. [Add an admin note](admin_note.html.md) on the group admin page.
+1. [Add an admin note](admin_note.html) on the group admin page.
