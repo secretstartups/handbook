@@ -13,6 +13,9 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ---
 
+We are currently developing new account segmentation which will be implemented in the future. Please see the [Customer Segments](/handbook/customer-success/tam/customer-segments-and-metrics/) page for details.
+{: .alert .alert-info}
+
 There are three models currently offered for Technical Account Manager engagement. These are broken into tiers that currently use Annual Recurring Revenue as a metric for determining a manageable volume for a single Technical Account Manager and the depth of involvement during the engagement.
 
 ## Managing the Customer Engagement
