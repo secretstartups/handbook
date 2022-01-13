@@ -87,12 +87,12 @@ that details the FMM process where CAMs can read more about how to complete [the
           + If declined, the Channel Marketing DRI will reach out to the partner and let them know. We will copy the CAM on the notificiation
           + If approved, the FMM will be the DRI for reaching out to the partner contact in the proposal to review dates of execution and provide any other guidance
 
-##Demand Generation activities eligible for MDF
-    +  Customer Case Study - Development of a print or digital case study that details an end-user customer’s positive experience with GitLab. Must highlight how a GitLab product or service solved a customer’s business problem, benefit received by customer, and customer’s endorsement of GitLab.
-    +  Telesales/Appointment Setting - Outbound lead generation telemarketing campaigns that target end-user prospects /customers that promote GitLab or GitLab Alliance joint products or solutions.
-    +  Digital & Print Marketing - Creation of broad reach promotional and brand marketing content for GitLab products or solutions in digital or print targeted at end-user customers or prospects. Must contain a customer call to action.
-    +  Paid Search Events/Webinars (includes workshops, roundtables) - End-user customer or partner event executed by a Partner to generate net new business and / or build pipeline. Must be focused on GitLab and / or joint solutions with Alliance Partners.
-    +  Tradeshows/Conference Sponsorships - Partner on-site sponsorship of a Third-party event organized by an industry set, or other GitLab Partner, where a sponsorship contract / package is purchased by Partner and GitLab products, solutions, & brand are promoted.
+## Demand Generation activities eligible for MDF
+- Customer Case Study - Development of a print or digital case study that details an end-user customer’s positive experience with GitLab. Must highlight how a GitLab product or service solved a customer’s business problem, benefit received by customer, and customer’s endorsement of GitLab.
+- Telesales/Appointment Setting - Outbound lead generation telemarketing campaigns that target end-user prospects /customers that promote GitLab or GitLab Alliance joint products or solutions.
+- Digital & Print Marketing - Creation of broad reach promotional and brand marketing content for GitLab products or solutions in digital or print targeted at end-user customers or prospects. Must contain a customer call to action.
+- Paid Search Events/Webinars (includes workshops, roundtables) - End-user customer or partner event executed by a Partner to generate net new business and / or build pipeline. Must be focused on GitLab and / or joint solutions with Alliance Partners.
+- Tradeshows/Conference Sponsorships - Partner on-site sponsorship of a Third-party event organized by an industry set, or other GitLab Partner, where a sponsorship contract / package is purchased by Partner and GitLab products, solutions, & brand are promoted.
 
 
 ### Submitting Proof of Performance (POP) for MDF 
@@ -119,15 +119,14 @@ Postcard notes are available to customize your shipment.  Just select the postca
 **To request Swag for an in-person event:**
 1. Send an email to partner-marketing@gitlab.com.  Include the following details in your request: event DRI, partner name, name, date and type of event, event shipping address including attn info any required shipping info, number and type of items being requested, first and last date items can arrive and whether you need a return label for non-used items.  Please allow 15 business days for the approval and processing of your request.  
 
-## Partner-Initiated FREE Trials
+## Partner-Initiated GitLab Free Trial Lead Gen Program
 
 Partners now have the ability to place a FREE trial button on their website as a critical call to action to their demand generation plans. Free trials allow users to have 30 day access to the full set of features in the Self-Managed version of GitLab. Once a visitor requests a free trial from a GitLab partner, the record is sent to GitLab for the license key to be assigned and assigned to a partner in SFDC. In addition, the lead is then routed automatically via Vartopia to the partner for tracking and follow up. This is the same process that is followed whether the record is considered a lead or a contact within GitLab's instance of SFDC.
 
-For step by step instructions, [view this brief, 3 minute video.](https://youtu.be/e3qXq6TGbMY)
+Partners can access and manage their GitLab leads in the same interface as their [deal registration](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview). When leads are shared with partners, partners will now see an additional tab in the Vartopia GitLab Deal Registration portal called Prospects. Partners can also easily convert their prospects to deal registrations and submit them to GitLab for approval. 
 
-For GitLab technical setup, follow the directions found on [this page](/handbook/marketing/channel-marketing/partner-campaigns/)
-
-Partners can access and manage their GitLab leads in the same interface as their [deal registration](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview). When leads are shared with partners, partners will now see an additional tab in the Vartopia GitLab Deal Registration portal called Prospects. Partners can also easily convert their prospects to deal registrations and submit them to GitLab for approval. [Reference the User Guide](https://docs.google.com/document/d/1zo8QE5-0pAZgvNlxgrqz6lN6OxV0cyja/edit) and [how-to video](https://youtu.be/e3qXq6TGbMY) for full details. 
+*   [Reference the User Guide](https://docs.google.com/document/d/1zo8QE5-0pAZgvNlxgrqz6lN6OxV0cyja/edit) and [how-to video](https://youtu.be/e3qXq6TGbMY) for full details. 
+*   For GitLab technical setup, follow the directions found on [this page.](/handbook/marketing/channel-marketing/partner-campaigns/)
 
 ## Future/Potential Service Offerings
 
