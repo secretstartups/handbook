@@ -516,7 +516,7 @@ As we ask team members to [spend company money like its your own](/handbook/valu
 
 1. Costume for the party at the end of Contribute
 1. Boarding expense for animals while traveling
-1. A $1700 office chair from a celebrity furniture designer
+1. A $1700 office chair
 1. A llama rental for a team event
 1. Meals during the Contribute when team members opt out of the company provided meal option
 1. Cellphones and accessories
