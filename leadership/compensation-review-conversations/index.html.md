@@ -33,6 +33,7 @@ Starting FY22 Total Rewards will be providing [Total Rewards Statements](/handbo
     * Current compensation (including base salary, variable pay (where applicable), equity etc.)
     * Date of last compensation adjustment
     * Performance Factor
+    * Growth Factor
     * Key Talent 
     * Location factor changes
     * Benchmark changes
@@ -41,7 +42,7 @@ Starting FY22 Total Rewards will be providing [Total Rewards Statements](/handbo
 
 * Communicate the change at the beginning of the meeting. You want to give the team member time to ask questions and discuss their compensation change. Avoid trying to rush to communicate at the end of a [1:1 meeting](/handbook/leadership/1-1/).
  
-* Try to clearly explain the reasoning behind the compensation change. As Compensation differentials are related to performance, the preparation done for the [Performance factor conversation](/handbook/people-group/performance-assessments-and-succession-planning/#best-practices-for-communicating-performance-factors) could also be useful in explaining the "why". It is also recommended to review the Annual Compensation review page for [all considerations that go into compensation reviews.](/handbook/total-rewards/compensation/compensation-review-cycle/) 
+* Try to clearly explain the reasoning behind the compensation change. As Compensation differentials are related to performance, the preparation done for the [Talent Assessment conversation](/handbook/people-group/performance-assessments-and-succession-planning/#best-practices-for-communicating-performance-factors) could also be useful in explaining the "why". It is also recommended to review the Annual Compensation review page for [all considerations that go into compensation reviews.](/handbook/total-rewards/compensation/compensation-review-cycle/) 
  
 * Protect the confidentiality of other team members by avoiding saying things like “everyone else received less than you” or “you were the only team member to get a discretionary increase.”
  
@@ -49,9 +50,9 @@ Starting FY22 Total Rewards will be providing [Total Rewards Statements](/handbo
  
 * Avoid making future promises (For example: “In the next review, I will get you a large adjustment.”)
  
-* The FY22 Total Rewards Statement includes a section on unvested equity shares. You and your direct report can use the [compensation calculator](https://comp-calculator.gitlab.net/) to review the total potential value of these shares. This is an important piece of the overall Total Rewards package at GitLab and we want to make sure team members have visibility into the potential value. [This video](https://youtu.be/ooWIfdsK5ho) is great to share with your team members when discussing the potential value of equity; it is also embedded into the compensation calculator linked above. It is important to note that all team members may perceive equity value differently based on their local tax implications, country of residence, or other factors.
+* The FY23 Total Rewards Statement includes a section on unvested equity shares. You and your direct report can use the [compensation calculator](https://comp-calculator.gitlab.net/) to review the total potential value of these shares. This is an important piece of the overall Total Rewards package at GitLab and we want to make sure team members have visibility into the potential value. [This video](https://youtu.be/ooWIfdsK5ho) is great to share with your team members when discussing the potential value of equity; it is also embedded into the compensation calculator linked above. It is important to note that all team members may perceive equity value differently based on their local tax implications, country of residence, or other factors.
  
-* The FY22 Total Rewards Statement also includes a section on Benefits where team members can use the Compensation Calculator to review the value of Remote Benefits, General Benefits, and Entity-Specific benefits.
+* The FY23 Total Rewards Statement also includes a section on Benefits where team members can use the Compensation Calculator to review the value of Remote Benefits, General Benefits, and Entity-Specific benefits.
  
 ## Compensation Conversations Scenarios
 
@@ -82,16 +83,14 @@ Cash compensation is discussed during our [Annual Compensation Review](/handbook
 
 ### Equity Refresh Program
 
-Eligible GitLab team members will be reviewed for a refresh equity grant once per year at the same time of the Annual Compensation Review, aligned with the process on [this page](/handbook/stock-options/#fy22-stock-option-grant-plan-design). Refresh grants use a formula to determine the range of stock options a team member may be eligible for in that cycle based on their current role/grade. The equity ranges per role can be viewed in [the compensation calculator](https://comp-calculator.gitlab.net/). Below we have outlined guidance for managers on having the conversations regarding the equity review as part of the Annual Compensation Review Cycle. 
+Eligible GitLab team members will be reviewed for a refresh equity grant once per year at the same time of the Annual Compensation Review, aligned with the process on [this page](/handbook/stock-options/#fy22-stock-option-grant-plan-design). Refresh grants use a formula to determine the economic value a team member may be eligible for in that cycle based on their equity refresh range. The equity ranges per role can be viewed in [the compensation calculator](https://comp-calculator.gitlab.net/). Below we have outlined guidance for managers on having the conversations regarding the equity review as part of the Annual Compensation Review Cycle. 
  
 *This program is subject to change over time and updates to any program elements will be reflected in the handbook.* 
  
-Managers should leverage the Total Rewards Statement for communication which outlines the number of stock options that were approved by the board for the FY22 Equity Refresh. 
+Managers should leverage the Total Rewards Statement for communication which outlines the number of stock options that were approved by the board for the FY23 Equity Refresh. 
 Definitions on the Total Rewards Statement explained: 
    * **Previous Total Unvested Stock Options:** Number of shares the team member has left to vest on their current holdings
-   * **FY22 Proposed Grant:** Proposed Grant based on their equity range 
-   * **One Time FY22 Transition Multiplier:** Between 1-2x depending on time since last new hire or refresh grant 
-   * **FY22 Refresh Grant (Effective 2021-03-18):** Total Grant proposed by the board for FY22 taking into consideration the one time FY22 transition multiplier. 
+   * **FY23 Proposed Grant:** Proposed economic value based on their equity range 
    * **New Total Unvested Stock Options:** Number of Unvested Stock Options + FY22 Refresh Grant
  
 #### Scenarios
@@ -101,7 +100,7 @@ Definitions on the Total Rewards Statement explained:
    * "I am so pleased to inform you that you will be getting a refresh grant in this year’s equity refresh program. This decision has been made based on your performance and role within GitLab. 
     * **Recommended: If identified as [Key Talent](/handbook/people-group/talent-assessment/#key-talent)**: "Based on the impact you have on the business/ARR/Product/essential processes and your performance within that responsibility, I (or Senior Leadership) have identified you as Key Talent. This means we feel you fulfill a key role within GitLab and we value your skills and what you deliver to the company." 
     * "I would love for us to continue conversations to discuss what motivates you and what your career aspirations are." 
-    * "Your equity refresh grant is [NUMBER]. (If applicable) This included X Multiplier factor to help transition from a three and a half year refresh to an annual refresh cycle." 
+    * "Your equity refresh is [NUMBER].
     * "Thank you for your hard work and I look forward to continuing to work with you! Do you have any questions?"
 
 1. **Is not receiving a refresh grant, but was eligible**  A team member is not receiving any additional stock options in this equity refresh review.
