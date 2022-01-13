@@ -481,7 +481,7 @@ Health Reports provide a weekly snap shot status to PS Management on the overall
 
 ### Partner Staffing
 
-Refer to the [Coupa handbook page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/) for instructions on using Coupa, GitLab's vendor invoicing system.  
+TO DO 
 
 #### Partner SOW
 
@@ -493,52 +493,44 @@ TO DO
 * [How to Request a New Supplier Instructions](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier)
 
 #### New Professional Services Request Form
+* Refer to the [Coupa handbook page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/) for instructions on using Coupa, GitLab's vendor invoicing sys
 * This initiates the New Purchase Request form
+* [How to Create a Requisition](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition)
 * [How to complete the Professional Services Request Form](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form)
 * Notes:
+   * What is the individual being hires to do
+      * GitLab Customer Name- Partner Name- PSE/ PM Name 
    * Are any GitLab employees already performing this service?
-     For the most part, answer “no”
-   * After submitting the Professional Services Request Form, it will apply to your Cart.
-   * Go into the Review Cart section and enter the information on the purchase request with the Professional Services Request Form questions already populated and added to the purchase request.
-
-#### Purchase Request Form
-* [How to Create a Requisition](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition)
-* Notes:
-   * For Consulting, do not specify anyone for the “on behalf of” field. PS Project Coordinator will initiate the new purchase request.
-   * For Training, PS Education Services Manager will initiate a new purchase request and specify the PS Project Coordinator for the “on behalf of” field.
-* General Info section:
-   * Add Agreements in the Attachments  
-      * MSA  
-      * Partner SOW  
-      * DPA (if applicable)  
-   * Vendor has access to red/orange data? field:   
-      * Will always have access to red data (select yes)  
-      * This will loop in Security as an approver.  
-   * Vendor’s Security Contact Email:  
-      * This is an optional field.  (To be determined)  
-* Cart Items section:
-   * Department:  
-      * Defaults to your user account setting.  Make sure that the department is correct for the invoice.  
-      * Consulting Delivery  
-      * Education Delivery  
-   * Commodity = COGS consulting fees or Consulting fees   
-   * Add Supplier
-   * Item:  
-      * Naming convention:  
-        * Consulting: partner name / customer name / Mavenlink workspace ID   
-        * Training:  partner name / year month day   
-     * Unit Price: Entire the full amount on the Statement of Work  
-     * Need By: Specify a date prior to the consulting or training start date  
-     * Manufacturer Name / Manufacturer Part Number:  Leave blank (not applicable)  
-     * Service Start Date:  
-        * Consulting: Estimate the customer project dates  
-        * Training: Estimate of when we will start using the training funds  
-     * Service End Date:  
-        * Consulting: Estimate the customer project dates  
-        * Training: Estimate of when we will cap the training funds from being used  
-     * If work is ongoing past the Service End Date and invoices are processed on a monthly basis, the PO will remain open.  If for any reason the PO is systematically closed, a request via Accounts Payable Slack Channel #accountspayable will need to be sent to A/P to have the PO re-opened.  
-     * Payment Structure:   
-        * Data entry convention - Consulting: Hourly rate/ or Fixed Price  
+      * For the most part, answer “no”
+   * Will GitLab provide the individual with the required hardware/ device to complete the work?
+      * For the most part, answer “no”
+   * Is this a PS Partners service request?
+      * For the most part, answer “no”
+   * Is this an extension?
+      * For the most part, answer “no”
+   * Is the intended engagement meant to be over 6 months?
+      * For the most part, answer “no”
+   * Would you like Procurement to negotiate?
+      * For the most part, answer “no”
+   * What is the estimated spend?
+      * For the most part, answer “no”
+   * Requisition Information
+      * Add Parnter Name
+      * Description/ Item 
+         * GitLab Customer Name- Partner Name- PSE/ PM Name
+         * Training- Training:  partner name / year month day
+      * Price of the Partner SOW
+      * Currency is always USD
+      * Commodity would be COGS consulting fees
+      * Service Start Date:
+         * Consulting: Estimate the customer project dates  
+         * Training: Estimate of when we will start using the training funds
+      * Service End Date:
+         * Consulting: Estimate the customer project dates  
+         * Training: Estimate of when we will start using the training funds 
+      * Need by- set this for 1 week out from date of your submission
+      * Payment Structure: 
+         * Data entry convention - Consulting: Hourly rate/ or Fixed Price  
            * Example: $###/hour  
            * Example: $### Fixed Price  
         * Data entry convention - Training:  
@@ -548,7 +540,18 @@ TO DO
          * Example (standard course): $### per course  
          * Example (pre-config or custom): $###/hour   
      * Submit the purchase request for approval.  
-     * Follow up with internal approvers as needed.  
+     * Follow up with internal approvers as needed.           
+* After submitting the Professional Services Request Form, it will apply to your Cart.
+* Go into the Review Cart section and enter the information on the purchase request with the Professional Services Request Form questions already populated and added to the purchase request.          
+
+* Notes:
+   * For Consulting, do not specify anyone for the “on behalf of” field. PS Project Coordinator will initiate the new purchase request.
+   * For Training, PS Education Services Manager will initiate a new purchase request and specify the PS Project Coordinator for the “on behalf of” field.
+* General Info section:
+   * Description of Purchase- PS Partner Sub Contractor Agreement
+   * Add Agreements in the Attachments 
+      * Partner SOW    
+* If work is ongoing past the Service End Date and invoices are processed on a monthly basis, the PO will remain open.  If for any reason the PO is systematically closed, a request via Accounts Payable Slack Channel #accountspayable will need to be sent to A/P to have the PO re-opened.       
 
 #### Purchase Order Process
 * After all approvers approve the purchase request, an associated Coupa PO will be created.
