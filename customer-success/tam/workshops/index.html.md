@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Workshops and/or Lunch-and-Learns
+title: Workshops and Enablement Sessions
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -24,9 +24,9 @@ Sessions should be [captured in Gainsight](/handbook/customer-success/tam/gainsi
 
 ## Type of sessions
 
-There are two main types of sessions that can be offered.  Workshops are generally 2-3 hours and include presentation, demo, and Q&A, as well as some hands-on activities for the participants. These require more preparation and planning and are usually organized and offered regionally.
+There are two main types of sessions that can be offered.  Workshops are generally 1.5-2 hours and include the presentation, demo, and Q&A. These require more preparation and planning and are usually organized by the TAM in collaboration with other TAMs and SAs.
 
-Lunch-and-Learns are generally 1 hour and involve presentation, demo, and Q&A and are usually given by the TAM themselves.
+Enablement sessions are generally 1 hour and involve presentation, demo, and Q&A and are usually given by the TAM themselves.
 
 ### Currently available sessions
 
