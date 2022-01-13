@@ -133,7 +133,6 @@ When determining an increase, managers should account for increases in the curre
 due to factors such as:
 * Promotion.
 * Transfer.
-* Targeted mid-year increase review.
 * Recent hire who is already aligned to market/performance rates.
 * Anything else that has already increased salary during the current fiscal year.
 
@@ -385,6 +384,3 @@ The promotion and annual compensation review budget is separate and calculated b
   * Per Division take the total OTE (TTC) of the group as of October 31st x 88%. Review removing any overspend or allocate additional budget per division from the promotion budget.
   * Verify totals with the Manager, FP&A.
 
-## Targeted Mid-year Increase Review
-
-Additional information to be added on the Targeted Mid-Year Increase Review
