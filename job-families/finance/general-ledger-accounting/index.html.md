@@ -94,7 +94,7 @@ Ensure proper accounting policies and principles are followed in accordance with
 
 * Extends the Associate General Ledger Accountant requirements
 * 3-5 years public accounting experience
-* Have or actively persuing CPA
+* Have or actively pursuing CPA
 
 ### Senior General Ledger Accountant
 
@@ -126,7 +126,7 @@ The Senior Accountant is a [grade 7](/handbook/total-rewards/compensation/compen
 
 * Extends the Associate General Ledger Accountant requirements
 * 5-7 years public accounting experience 
-* Have or actively persuing CPA
+* Have or actively pursuing CPA
 
 ### Manager, Accounting 
 
@@ -159,7 +159,7 @@ The Manager, Accounting is a [grade 8](/handbook/total-rewards/compensation/comp
 #### Manager, Accounting Requirements
 
 * 8-9 years experience with 2-3 years in public accounting 
-* Have or actively persuing CPA
+* Have or actively pursuing CPA
 
 ### Director, General Ledger Accounting
 
