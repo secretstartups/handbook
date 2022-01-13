@@ -125,7 +125,7 @@ Partners now have the ability to place a FREE trial button on their website as a
 
 Partners can access and manage their GitLab leads in the same interface as their [deal registration](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview). When leads are shared with partners, partners will now see an additional tab in the Vartopia GitLab Deal Registration portal called Prospects. Partners can also easily convert their prospects to deal registrations and submit them to GitLab for approval. 
 
-*   [Reference the User Guide](https://docs.google.com/document/d/1zo8QE5-0pAZgvNlxgrqz6lN6OxV0cyja/edit) and [how-to video](https://youtu.be/e3qXq6TGbMY) for full details. 
+*   [Reference the User Guide](https://drive.google.com/file/d/1IYOPfvwIWgUIknF4JZdTM4BIO-lmm0U2/view?usp=sharing) and [how-to video](https://youtu.be/e3qXq6TGbMY) for full details. 
 *   For GitLab technical setup, follow the directions found on [this page.](/handbook/marketing/channel-marketing/partner-campaigns/)
 
 ## Future/Potential Service Offerings
