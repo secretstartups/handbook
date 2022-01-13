@@ -218,6 +218,8 @@ Track folders are set up by team as different teams within marketing use and dis
 
 ### Forms
 
+Forms should not be served based on the amount of time spent in a track, but rather after a visitor consumes 2-3 pieces of content. When a visitor progresses to the next piece of content (after the initial 2-3), they'll be asked to complete a form. 
+
 When naming forms, please follow the naming convention:
 
 1. WIP forms: `[WIP] Language - Purpose - Marketo Form ID` (example: `[WIP] Korean - Contact Us - 2963`)
