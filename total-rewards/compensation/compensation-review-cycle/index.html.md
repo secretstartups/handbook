@@ -140,7 +140,6 @@ When determining an increase, managers should account for increases in the curre
 due to factors such as:
 * Promotion.
 * Transfer.
-* Targeted mid-year increase review.
 * Recent hire who is already aligned to market/performance rates.
 * Anything else that has already increased salary during the current fiscal year.
 
