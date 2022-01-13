@@ -21,6 +21,7 @@ Domain names are key assets in GitLab's intellectual property portfolio. Central
    
 ## Registration of new GitLab-related Domain Names
 - All GitLab-related Domain Names must be registered using the process outlined in the [dns-domain-purchase-request issue template](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues/new?issuable_template=dns_domain_purchase_request) maintained by IT Operations.
+- Once you have registered the domain name, complete the [GitLab-related domain name registration form](https://docs.google.com/forms/d/12r7O2z6vxipX4uI4hYJbIMDj8mPhra6_U-O-aXQxSis/edit). This form captures details of the newly-registered domain name and adds them to a [centrally-maintained tracker](https://docs.google.com/spreadsheets/d/187C_xXgaR_L55PeaFVqd9C0E28qrCvmDZnGgQT_4eNI/edit#gid=0).
 - From `2022-02-01`, expense reports submitted by team members for expenses incurred in registering new GitLab-related Domain Names will be rejected.
 
 ## Transfer of existing GitLab-related Domain Names
