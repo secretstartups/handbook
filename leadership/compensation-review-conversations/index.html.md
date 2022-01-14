@@ -18,7 +18,7 @@ Please make sure to review and understand the following content with regards to 
 * [Compensation Calculator](https://comp-calculator.gitlab.net/users/sign_in)
 * [“How to Think about Your Equity”](https://www.youtube.com/watch?v=ooWIfdsK5ho&ab_channel=GitLabUnfiltered) video embedded in the Compensation Calculator linked above
 * [Annual Compensation Review Cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#determining-compensation-increases)
-* [Equity Refresh Program/Stock Option page](/handbook/stock-options)
+* [Equity Refresh Program](/handbook/stock-options)
 * [Talent Assessment at GitLab](/handbook/people-group/talent-assessment/)
  
 ## Total Rewards Statements
@@ -57,71 +57,39 @@ Starting FY22 Total Rewards will be providing [Total Rewards Statements](/handbo
 ## Compensation Conversations Scenarios
 
 This section provides and overview of potential compensation conversation scenarios with recommendations on how to approach and navigate these conversations. Scenarios are broken out by compensation topic: cash compensation, and equity refresh program. 
- 
-### Cash Compensation 
 
-Cash compensation is discussed during our [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) cycle. 
+### Total Compensation 
 
-#### Scenarios
- 
-1. **Receiving an increase:**  A team member is receiving an adjustment based on Performance Factor AND/OR location factor/Geo Region AND/OR benchmark changes AND/OR Discretionary:
-   * Sample Script:
-   * "I am so pleased to inform you that you will be getting an adjustment in this year’s comp review. Your increase is based on one or more the following factors (Performance, Location Factor/Geo Region, Benchmark change and/or Discretionary). 
+1. **Receiving a cash increase & equity refresh grant**:
+   * Sample Script: 
+   * "I am so pleased to inform you that you will be getting a cash adjustment and equity refresh grant as a result of this year’s comp review. Your compensation increase is based on one or more the following factors (Talent Assessment, Location Factor/Geo Region, Benchmark change and/or Discretionary). 
    * Your salary will be increased to (insert $ amount in local currency) which is a (insert %) adjustment effective, February 1st.
-   * Thank you for your hard work and I look forward to continuing to work with you! Do you have any questions?"
- 
-2. **Not receiving an increase:**   A team member is not receiving an adjustment:
+   * Your equity refresh proposed grant is (insert USD) and will be reviewed for approval at the next applicable quarterly approval. 
+   * Based on this increase and your current equity holdings, your potential total compensation for this fiscal year is (insert x USD) assuming a trading price of (insert USD).  
+   * Thank you for your hard work and I look forward to continuing to work with you! Do you have any questions?" 
+    * **Recommended: If identified as [Key Talent](/handbook/people-group/talent-assessment/#key-talent)**: "Based on the impact you have on the business/ARR/Product/essential processes and your performance within that responsibility, I (or Senior Leadership) have identified you as Key Talent. This means we feel you fulfill a key role within GitLab and we value your skills and what you deliver to the company." 
+
+2. **Not receiving an increase or refresh grant:**   A team member is not receiving an adjustment:
    * Sample Script:
    * "As you know, GitLab just went through our Annual Compensation Review. I wanted to inform you that you are not getting a compensation adjustment at this time. This is due to (examples below)...
-       * A team member is new to the team and at the market range for your aligned role.  "Your performance is good (if applicable), however, we hire new team members at market rate for compensation so we feel that you are compensated accurately for your role at this time. You may be eligible to participate in the the [Targeted Mid-year Increase Review process](/handbook/total-rewards/compensation/compensation-review-cycle/#targeted-mid-year-increase-review)."
+       * A team member is new to the team and at the market range for your aligned role.  "Your performance is good (if applicable), however, we hire new team members at market rate for compensation so we feel that you are compensated accurately for your role at this time. 
        * A team member is not receiving because they are above range for their role.   "Your compensation is above the market pay range for your role and therefore you are not receiving an additional increase as a part of the Annual Compensation Review. Your performance is good (if applicable), so let's discuss what you want to work on in the future and create a [development plan](/handbook/people-group/learning-and-development/career-development/) together."
        * A team member needs to improve performance. For questions on specific situations, please work with your People Business Partner.
- 
-   * Although informing a team member that they are not getting a compensation adjustment is a tough message to deliver, managers should have this direct conversation. This is directly aligned with our transparency value. We want everyone to know why they may not have received an adjustment and give them the space to ask questions.
- 
-3. **Other scenarios:** If you have a scenario different from the above, and/or you need help with messaging, please work with your manager or [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). 
-
-### Equity Refresh Program
-
-Eligible GitLab team members will be reviewed for a refresh equity grant once per year at the same time of the Annual Compensation Review, aligned with the process on [this page](/handbook/stock-options/#fy22-stock-option-grant-plan-design). Refresh grants use a formula to determine the economic value a team member may be eligible for in that cycle based on their equity refresh range. The equity ranges per role can be viewed in [the compensation calculator](https://comp-calculator.gitlab.net/). Below we have outlined guidance for managers on having the conversations regarding the equity review as part of the Annual Compensation Review Cycle. 
- 
-*This program is subject to change over time and updates to any program elements will be reflected in the handbook.* 
- 
-Managers should leverage the Total Rewards Statement for communication which outlines the number of stock options that were approved by the board for the FY23 Equity Refresh. 
-Definitions on the Total Rewards Statement explained: 
-   * **Previous Total Unvested Stock Options:** Number of shares the team member has left to vest on their current holdings
-   * **FY23 Proposed Grant:** Proposed economic value based on their equity range 
-   * **New Total Unvested Stock Options:** Number of Unvested Stock Options + FY22 Refresh Grant
- 
-#### Scenarios
- 
-1. **Receiving a refresh grant:**  A team member is receiving a refresh grant:
-   * Sample Script:
-   * "I am so pleased to inform you that you will be getting a refresh grant in this year’s equity refresh program. This decision has been made based on your performance and role within GitLab. 
-    * **Recommended: If identified as [Key Talent](/handbook/people-group/talent-assessment/#key-talent)**: "Based on the impact you have on the business/ARR/Product/essential processes and your performance within that responsibility, I (or Senior Leadership) have identified you as Key Talent. This means we feel you fulfill a key role within GitLab and we value your skills and what you deliver to the company." 
-    * "I would love for us to continue conversations to discuss what motivates you and what your career aspirations are." 
-    * "Your equity refresh is [NUMBER].
-    * "Thank you for your hard work and I look forward to continuing to work with you! Do you have any questions?"
-
-1. **Is not receiving a refresh grant, but was eligible**  A team member is not receiving any additional stock options in this equity refresh review.
-    * Sample Script:
-    * "As you know, GitLab just went through the Equity Refresh review cycle. I wanted to inform you that you are not getting a stock option grant at this time. This is due to (pick one of the examples below)...
-    * **_A team member is currently not performing up to expectation:_** "We review equity refresh grants on a yearly basis and I want to work with you on points for improvement in order for you to meet the expectations of the role."
-    * **_A team member has received an above range amount of equity at hire/as part of a former process and/or their equity levels are aligned with market:_** "With this equity review process we heavily rely on benchmarking data and our equity ranges to ensure our compensation (cash + equity + benefits) is aligned with market. At this time due to [EXAMPLE] you will not receive any additional equity. We review our equity as part of our Annual Compensation Review process and your compensation will be reviewed again at the next review cycle."
-
-    * **A team member was eligible, _and was performing at expectations_, but is not receiving refresh grant**
+    * Equity Refresh Sample Scripts: 
+       * **A team member was eligible, _and was performing at expectations_, but is not receiving refresh grant**
  Not all team members were able to receive refresh grants, despite eligibility, as it is in the program setup/market alignment that we allocate only to a certain portion of our population. Aligned with our [expected distribution](/handbook/people-group/talent-assessment/#expected-distribution-company-wide/), typically organizations have ~25% of team members “exceeding”, 60-65% “performing”, and 10-15% “developing”. Core performers make up the most significant population in organizations, meaning that difficult decisions needed to be made in this group in terms of who was granted a refresh and who was not. 
  These were the factors considered that contributed to the decision to not allocate an additional refresh for you this year:
-        * **_Recent promotion:_** "With your promotion on [DATE] you have been granted additional stock options. This time therefore you will not receive an additional option grant. However this is an annual process and we will review on our next cycle. In the meantime I would love for us to continue the conversation on how you can further progress in your new role."
-        * **_Not enough improvement on identified performance/growth areas:_** "Aligned with our performance discussion in FY21 we have identified improvement areas, such as [EXAMPLES]. Between that review and this equity review, there was not sufficient improvement in the areas identified. Therefore the decision has been made to not grant you additional equity at this time. I would love for us to further discuss those improvement areas and see how I can support you in meeting all expectations going forward. We review equity grants on an annual basis, and I hope we can work together to reassess your eligibility for next cycle."
+        * **_Not enough improvement on identified performance/growth areas:_** "Aligned with our performance discussion in FY22 we have identified improvement areas, such as [EXAMPLES]. Between that review and this equity review, there was not sufficient improvement in the areas identified. Therefore the decision has been made to not grant you additional equity at this time. I would love for us to further discuss those improvement areas and see how I can support you in meeting all expectations going forward. We review equity grants on an annual basis, and I hope we can work together to reassess your eligibility for next cycle."
         * **_Role or skill based decision:_** "Participation in this program was based on performance and criticality of role. Therefore, not all team members will receive a refresh grant in the annual review cycle. However this is an annual process. You will be eligible to participate in next year’s program."
         * **_Not in good standing with the company:_** There could be factors that have contributed to the fact that currently the team member is not in good standing with the company. Examples here could be: Code of conduct violations or significant behavioral issues. As a communicating manager please discuss these with your People Business Partner. 
         * **_Has been with the company for a shorter period of time:_** Though only team members with less than 6 months of tenure were truly ineligible, when determining who will receive a refresh amongst a group of team members with similar performance, potential, etc., tenure may have been considered. Aligned with the equity refresh program setup and market alignment, we are only able to allocate to a certain portion of our population. Due to allocation restrictions, other factors (such as tenure) might be considered as well. 
 
-1. **Was not eligible to be reviewed (less than 6 months of tenure)** 
-	* **_Team member was hired after the cut-off date:_** "At GitLab we review compensation (cash + equity + benefits) on a yearly basis. Due to your hire date you were not eligible to receive additional compensation at this time. You will be eligible for the next Annual Compensation Review where we will review both your cash and equity compensation."
+   * Although informing a team member that they are not getting a compensation adjustment is a tough message to deliver, managers should have this direct conversation. This is directly aligned with our transparency value. We want everyone to know why they may not have received an adjustment and give them the space to ask questions.
+
+3. **_Team member was hired after the cut-off date:_** "At GitLab we review compensation (cash + equity + benefits) on a yearly basis. Due to your hire date you were not eligible to receive additional compensation at this time. You will be eligible for the next Annual Compensation Review where we will review both your cash and equity compensation."
+
  
-Although informing a team member that they are not receiving additional equity is a tough message to deliver, managers should have this direct conversation. This is directly aligned with our transparency value. We want everyone to know why they may not have received an adjustment and give them the space to ask questions.
+4. **Other scenarios:** If you have a scenario different from the above, and/or you need help with messaging, please work with your manager or [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). 
 
 #### Possible Reactions
 
