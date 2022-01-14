@@ -50,25 +50,17 @@ For a remote interview, being able to easily navigate a [video call](/handbook/c
 
 Wearing headphones can create [a more positive video experience for all](/blog/2019/06/28/five-things-you-hear-from-gitlab-ceo/). If you're using a dedicated microphone, you may prefer comfortable studio-style headphones without an in-line mic. If you want to reduce the amount of hardware you're using, headphones with an in-line mic will be more appropriate. 
 
-GitLab recommends trying out various headphone styles in advance if possible. Open-ear vs. closed-ear, for example, provides a very different listening experience. Noise-cancelling headphones are great for crowded coworking spaces, but may blot out too much sound for [stay-at-home parents](/company/culture/all-remote/people/#parents) who need to be aware of what's happening inside the home. 
-
 Some prefer in-ear headphones rather than over-the-head headphones, and it's important to consider long-term comfortability for those who may find themselves in [video calls](/blog/2019/08/05/tips-for-mastering-video-calls/) for multiple hours per day. 
 
-Bluetooth headphones can be problematic for roles requiring a significant amount of calls due to limitations of microphone quality, latency, and battery life. If you opt for Bluetooth headphones, it is recommended that you use a separate wired microphone. Too, be mindful of Bluetooth headphones being paired with multiple devices (e.g. one pair of headphones with a pairing history involving a laptop as well as a phone). Bluetooth headsets can easily jump between devices, thus it is recommended to only pair one set per device to avoid unexpected disconnects during video calls. 
-
-What constitutes "good headphones" varies significantly depending on preference. We recommend digging into [Wirecutter's various headphone guides](https://thewirecutter.com/electronics/headphones/){:target="_blank"} for researched suggestions.
+Bluetooth headphones can be problematic due to limitations of microphone quality, latency, and battery life. If you opt for Bluetooth headphones, it is recommended that you use a separate wired microphone. Bluetooth headsets can easily jump between devices, thus it is recommended to only pair one set per device to avoid unexpected disconnects during video calls. 
 
 ### Microphones
 
-"_When audio quality is high (vs low), people judge the content as better and more important. They also judge the speaker as more intelligent, competent, and likable. Messages that are difficult to process are less compelling._" This [research](https://tips.ariyh.com/p/good-sound-quality-smarter), conducted by Norbert Schwarz at the University of Southern California, reinforces the importance of investing in equipment and atmosphere to generate the highest-fidelity audio in a remote work setting.
+"_When audio quality is high (vs low), people judge the content as better and more important. They also judge the speaker as more intelligent, competent, and likable. Messages that are difficult to process are less compelling._" This [research](https://tips.ariyh.com/p/good-sound-quality-smarter), conducted by Norbert Schwarz at the University of Southern California, reinforces the importance of investing in equipment and atmosphere to generate the highest-fidelity audio in a remote setting.
 
-Whenever possible, avoid using the inbuilt microphone of a laptop, phone, or desktop monitor when communicating. These microphones tend to be of low quality, and do little to stop background noise. 
+When possible, avoid using the inbuilt microphone of a laptop, phone, or desktop monitor when communicating. These microphones tend to be of low quality, and do little to stop background noise. 
 
 At the very least, utilize a pair of Bluetooth or wired earbuds with an in-line microphone. These are commonly included with most smartphones. 
-
-For those who spend significant time on video calls, consider a [dedicated USB microphone](https://thewirecutter.com/reviews/the-best-usb-microphone/){:target="_blank"} (and, if desired, a desk mount for added ergonomic positioning). For example, [Blue Microphones](https://www.bluedesigns.com/){:target="_blank"} offers a variety of options that are crafted with creators, streamers, and podcasters in mind, and all provide exceptional clarity and noise reduction on [video calls](/handbook/communication/#video-calls). 
-
-Several GitLab team members have positive experiences with the [M-Audio UberMic](https://www.amazon.com/M-Audio-Uber-Mic-Professional-Microphone/dp/B0767N58ZY){:target="_blank"}. 
 
 ### Reliable internet
 
