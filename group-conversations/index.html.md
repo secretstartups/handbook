@@ -123,7 +123,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 
 Use presentations to document everything people should know about your group. We suggest that the slides start with the top 1-3 highlights or top of mind updates that are relevant across functions, followed by additional information. These presentations are for attendees to review and generate questions from for the call, and attendees will often have [low context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication) around your function or team. 
 
-ou can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. 
+You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. 
 
 Functions with Key Reviews should not create a new deck for a Group Conversation but should use their [Key Review deck](/handbook/key-review/#group-conversations-and-key-review-metrics) for the Group Conversation.
 
