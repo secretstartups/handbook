@@ -110,10 +110,12 @@ The Virtual Card information is provided on the Purchase Order under the **Payme
 ![vcard-image-7](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard7.png)  
 <br>
 
-The card number, expiration date, and CVV code will be available to the requester. At this point the requester can use the card details to complete the purchase.
+The card number, expiration date, and CVV code will be available to the requester. At this point the requester can use the card details to complete the purchase. Please use **GitLab Inc; 268 Bush Street #350; San Francisco, CA 94104** for the Billing Address when using the Virtual Card.
+<br>
 
 ![vcard-image-8](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/vcard8.png)  
 <br>
+
 
 ## How to request a Virtual Card for Scenario B
 **(Supplier permanently paid by Virtual Card)**
