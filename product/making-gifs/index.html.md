@@ -135,7 +135,7 @@ Worthy of mentioning:
 
 ### Converting screenshots to Gif
 
-When you have a series of screenshots as png files, you can use [ImageMagic](https://imagemagick.org/) to convert them to a Gif file. ImageMagick also allows to [resize images](/handbook/tools-and-tips/#resizing-images).
+When you have a series of screenshots as png files, you can use [ImageMagick](https://imagemagick.org/) to convert them to a Gif file. ImageMagick also allows to [resize images](/handbook/tools-and-tips/#resizing-images).
 
 ```
 $ convert -delay 50 -loop 0 *.png output.gif
