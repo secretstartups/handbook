@@ -25,6 +25,41 @@ On this page, we're addressing a popular question: "How do you interview remotel
 
 Whether you're wanting to learn how to hire remotely, or just wanting to know how to get hired for a remote position, it helps to know how you should prepare for a remote interview. You only get one chance to make a first impression, so keep these tips in mind.
 
+## How do you prepare for a remote interview?
+
+Remote interviews are similar to in-person interviews in many ways: You're still trying to make a good impression and communicate your strengths, you're just not doing it from the same room. One of the ways that remote interviews can go wrong is if you don't take into account your environment and let yourself become distracted. Preparation is just as important in a remote interview as an in-person interview.
+
+1. **Read instructions from your interviewer carefully (and ask questions if something is unclear).** Make sure that you understand the requirements for the interview and make sure to download any programs and test ahead of time.
+1. **Have a distraction-free area for the interview, if possible.** Background noise or clutter can take attention away from you, which is not what you want.
+1. **Make eye contact.** Look into the camera as much as possible, not the screen. 
+1. **Have a practice meeting.** Try to download any software for a video call far enough in advance to test your audio and video settings.
+1. **Don't casually browser the internet on your computer during an interview.** If you wear glasses, the other person may be able to see what is on your screen and that can be a little embarrassing. Only have what you need for the interview and don't get distracted.
+1. **Use headphones with a microphone.** Not only will this make you sound better, it will reduce listening fatigue for the other person as well so that you can have a better conversation. One of the more common phrases you'll hear from GitLab CEO Sid Sijbrandij is, "[Can you put your headphones on?](/blog/2019/06/28/five-things-you-hear-from-gitlab-ceo/)"
+
+## What technology do you need to participate in and manage a remote interview?
+
+## How do you conduct a remote interview?
+
+## What are the benefits of conducting a remote interview?
+
+## What are the challenges of conducting a remote interview?
+
+## How can you make a remote interview feel more personal?
+
+## What are some tips for succeeding in a remote interview?
+
+### Showcase your remote expertise
+
+With many companies embracing remote work and hiring remotely, it's important to highlight your remote skills just like you would your other qualifications for the role. You can certainly incorporate this into the interview process, but you also may want to consider updating your resume. 
+
+The team at [We Work Remotely](https://weworkremotely.com/blog) addressed the question, "Should your resume change after the pandemic?" in [an Instagram post](https://www.instagram.com/p/CSFPMpaDJBr/?utm_medium=copy_link) with these five tips:
+
+1. **Showcase remote work skills:** Don't only focus on tools, explain how you've been able to collaborate online, and how comfortable you are with asynchronous communication. If you transitioned to remote work, explain how you did it successfully!
+1. **Focus on the results you've brought to your past jobs:** When your boss and coworkers can't see you, the only thing they can know about your work is the results you produce. Add what you've been able to accomplish in the past, numbers and processes are important to mention.
+1. **Don't be afraid to explain more if you have work gaps:** The pandemic resulted in many jobs lost. If you lost your job or had to quit for personal reasons, it's important to explain it (as long as you're comfortable). Take this as an opportunity to explain if you learned something during this time, if you leveled up a skill, or if you worked on side projects.
+1. **Show that you're more than just a worker:** Things have changed and companies are interested in knowing that you have a life outside of work. Add your interests or hobbies to your resume. Bonus points if you can explain how those help you be a better worker.
+1. **Keep your location general, or tweak it depending on the job you're applying to:** Your complete address is irrelevant, get rid of it! If the job you're applying to requires a specific location or time zone, be sure to add it to your resume. 
+
 ### How do I assess culture fit remotely?
 
 For hiring teams, a common challenge is this: "How do I assess culture fit remotely?"
@@ -52,28 +87,9 @@ Conducting a remote interview is all about preparation, and most importantly, se
 
 When you're searching for a remote career opportunity, it can be daunting to know where to start. We've curated a [list of companies and job boards](/company/culture/all-remote/jobs/) to help narrow your search, as well as a [list of qualities to look for](/company/culture/all-remote/evaluate/) as you're evaluating a potential employer.
 
-#### How to showcase your remote expertise
 
-With many companies embracing remote work and hiring remotely, it's important to highlight your remote skills just like you would your other qualifications for the role. You can certainly incorporate this into the interview process, but you also may want to consider updating your resume. 
 
-The team at [We Work Remotely](https://weworkremotely.com/blog) addressed the question, "Should your resume change after the pandemic?" in [an Instagram post](https://www.instagram.com/p/CSFPMpaDJBr/?utm_medium=copy_link) with these five tips:
 
-1. **Showcase remote work skills:** Don't only focus on tools, explain how you've been able to collaborate online, and how comfortable you are with asynchronous communication. If you transitioned to remote work, explain how you did it successfully!
-1. **Focus on the results you've brought to your past jobs:** When your boss and coworkers can't see you, the only thing they can know about your work is the results you produce. Add what you've been able to accomplish in the past, numbers and processes are important to mention.
-1. **Don't be afraid to explain more if you have work gaps:** The pandemic resulted in many jobs lost. If you lost your job or had to quit for personal reasons, it's important to explain it (as long as you're comfortable). Take this as an opportunity to explain if you learned something during this time, if you leveled up a skill, or if you worked on side projects.
-1. **Show that you're more than just a worker:** Things have changed and companies are interested in knowing that you have a life outside of work. Add your interests or hobbies to your resume. Bonus points if you can explain how those help you be a better worker.
-1. **Keep your location general, or tweak it depending on the job you're applying to:** Your complete address is irrelevant, get rid of it! If the job you're applying to requires a specific location or time zone, be sure to add it to your resume. 
-
-## How do you prepare for a remote interview?
-
-Remote interviews are similar to in-person interviews in many ways: You're still trying to make a good impression and communicate your strengths, you're just not doing it from the same room. One of the ways that remote interviews can go wrong is if you don't take into account your environment and let yourself become distracted. Preparation is just as important in a remote interview as an in-person interview.
-
-1. **Read instructions from your interviewer carefully (and ask questions if something is unclear).** Make sure that you understand the requirements for the interview and make sure to download any programs and test ahead of time.
-1. **Have a distraction-free area for the interview, if possible.** Background noise or clutter can take attention away from you, which is not what you want.
-1. **Make eye contact.** Look into the camera as much as possible, not the screen. 
-1. **Have a practice meeting.** Try to download any software for a video call far enough in advance to test your audio and video settings.
-1. **Don't casually browser the internet on your computer during an interview.** If you wear glasses, the other person may be able to see what is on your screen and that can be a little embarrassing. Only have what you need for the interview and don't get distracted.
-1. **Use headphones with a microphone.** Not only will this make you sound better, it will reduce listening fatigue for the other person as well so that you can have a better conversation. One of the more common phrases you'll hear from GitLab CEO Sid Sijbrandij is, "[Can you put your headphones on?](/blog/2019/06/28/five-things-you-hear-from-gitlab-ceo/)"
 
 ## Interview questions to assess for success in a remote environment
 
