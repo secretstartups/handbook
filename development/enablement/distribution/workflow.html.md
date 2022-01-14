@@ -82,7 +82,7 @@ follow ups from review to improve some part of the code and similar.
 and they require some work before they are resolved. Items with this label are triaged and will be
 picked up by EM and PM for scheduling in the regular process.
 * `Blocked` - Items with this label are blocked by other work. When adding this label, always include a comment referencing blocking issues or MRs.
-* `spike` - Issues which primarily involve research to understand options and the breakdown of future deliverables. Spikes are often the first issue in a new Epic where the output defines additional issues and order of serial/parallel work.
+* `spike` - Issues which primarily involve research to understand options and the breakdown of future deliverables. [Spikes](/handbook/product/product-processes/#spikes) are often the first issue in a new Epic where the output defines additional issues and order of serial/parallel work.
 * `workflow::In dev` - When an engineer is ready to start on active development, this label should be added. This allows EM and PM to understand which issues are being worked and not just assigned.
 
 Any unassigned issue is available for anyone to work on. You can show your interest in working on a specific task by leaving a comment in the issue.
