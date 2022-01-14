@@ -46,26 +46,38 @@ title: "Marketing Finance"
 The Marketing Variance Review meeting happens once a month to review the actual expenses for the previous month. For example, in the 3rd week of June we will review May's expenses.  
 
 ## Important Dates
-* 2021-06-24: June Forecast Due
-* 2021-07-14: June Actuals loaded into Allocadia (estimated) 
-* 2021-07-23: July Forecast Due 
-* 2021-07-30: Q3 Plan Due 
-* 2021-08-13: July Actuals loaded into Allocadia (estimated) 
-* 2021-08-25: August Forecast Due 
-* 2021-09-14: August Actuals loaded into Allocadia (estimated) 
-* 2021-09-24: September Forecast Due 
-* 2021-10-14: September  Actuals loaded into Allocadia (estimated) 
-* 2021-10-22: October Forecast Due 
-* 2021-11-12: October Actuals loaded into Allocadia (estimated) 
-* 2021-10-29: Q4 Plan Due 
-* 2021-11-19: FY23 Bottom's Up Plan due in Allocadia
-* 2021-11-24: November Forecast Due 
-* 2021-12-14: November Actuals loaded into Allocadia (estimated)
-* 2021-12-24: December Forecast Due 
 * 2022-01-14: December Actuals loaded into Allocadia (estimated) 
 * 2022-01-14: FY23 Targets added into Allocadia (estimated)
 * 2022-01-25: January Forecast Due 
 * 2022-02-14: January Actuals loaded into Allocadia (estimated)
+* 2022-02-22: February Forecast Due
+* 2022-03-14: February Actuals loaded into Allocadia (estimated) 
+* 2022-03-24: March Forecast Due
+* 2022-04-14: March Actuals loaded into Allocadia (estimated) 
+* 2022-04-22: April Forecast Due
+* 2022-04-29: Q2 Plan Due 
+* 2022-05-13: April Actuals loaded into Allocadia (estimated) 
+* 2022-05-24: May Forecast Due
+* 2022-06-14: May Actuals loaded into Allocadia (estimated) 
+* 2022-06-23: June Forecast Due
+* 2022-07-14: June Actuals loaded into Allocadia (estimated) 
+* 2022-07-22: July Forecast Due 
+* 2022-07-29: Q3 Plan Due 
+* 2022-08-15: July Actuals loaded into Allocadia (estimated) 
+* 2022-08-24: August Forecast Due 
+* 2022-09-14: August Actuals loaded into Allocadia (estimated) 
+* 2022-09-23: September Forecast Due 
+* 2022-10-14: September  Actuals loaded into Allocadia (estimated) 
+* 2022-10-24: October Forecast Due 
+* 2022-11-14: October Actuals loaded into Allocadia (estimated) 
+* 2022-10-31: Q4 Plan Due 
+* 2022-11-18: FY24 Bottom's Up Plan due in Allocadia (estimated)
+* 2022-11-22: November Forecast Due 
+* 2022-12-14: November Actuals loaded into Allocadia (estimated)
+* 2022-12-22: December Forecast Due 
+* 2023-01-14: December Actuals loaded into Allocadia (estimated) 
+* 2023-01-14: FY24 Targets added into Allocadia (estimated)
+* 2023-01-24: January Forecast Due 
 
 ## Finance Terminology
 
