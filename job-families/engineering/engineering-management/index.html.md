@@ -166,7 +166,7 @@ The  Senior Director, Development is a [grade 11](/handbook/total-rewards/compen
 
 ### Senior Distinguished Engineer
 
-*The Senior Distinguished Engineer reports to the [Senior Director, Development](https://about.gitlab.com/job-families/engineering/engineering-management/#senior-director-development).
+The Senior Distinguished Engineer reports to the [Senior Director, Development](https://about.gitlab.com/job-families/engineering/engineering-management/#senior-director-development) or [Director, Development](https://about.gitlab.com/job-families/engineering/engineering-management/#director-development) of their sub-department.
 
 #### Senior Distinguished Engineer Job Grade
 
