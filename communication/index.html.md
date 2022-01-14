@@ -650,8 +650,12 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 1. When scheduling a call with multiple people, invite them using a Google Calendar that is your own, or one specific to the people joining, so the calendar item doesn't unnecessarily appear on other people's calendars.
 1. If you want to move a meeting just move the calendar appointment instead of reaching out via other channels. Note the change at the top of the description.
 1. Please click 'Guests can modify event' so people can update the time in the calendar instead of having to reach out via other channels. You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings).)
-1. When scheduling a meeting we value people's time and prefer the "speedy meetings" [setting in our Google Calendar](https://calendar.google.com/calendar/r/settings).
-   This gives us meetings of, for example, 25 or 50 minutes leaving some time to: 1. Write notes and reflect 1. Respond to urgent messages 1. Take a [bio break](https://www.merriam-webster.com/words-at-play/bio-break-meaning-and-origin) 1. Stretch your legs 1. Grab a snack
+1. When scheduling a meeting we value people's time and prefer the "speedy meetings" [setting in our Google Calendar](https://calendar.google.com/calendar/r/settings). This gives us meetings of, for example, 25 or 50 minutes leaving some time to:
+   1. Write notes and reflect
+   1. Respond to urgent messages
+   1. Take a [bio break](https://www.merriam-webster.com/words-at-play/bio-break-meaning-and-origin)
+   1. Stretch your legs
+   1. Grab a snack
 1. When scheduling a meeting, please try to have it start at :00 (hour) or :30 (mid-hour) to leave common start times available for other meetings on your attendees' calendars. Meetings should be for the time needed, so if you need 15 minutes just book that.
 1. When creating a calendar event that will be used company wide, [please place it on the GitLab Team Meetings Calendar](https://about.gitlab.com/handbook/tools-and-tips/#gitlab-team-meetings-calendar). That way the event is easily located by all individuals.
 1. When you need to cancel a meeting, make sure to delete/decline the meeting and choose the option **Delete & update guests** to make sure everyone knows you can't attend and don't wait for you.
