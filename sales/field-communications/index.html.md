@@ -130,10 +130,11 @@ Examples: Outside (non-field) requests for feedback/input, team member changes, 
     * [Field Communications](/handbook/sales/field-communications/) - Heads-up on an update and/or request for help amplifying 
 * The update should leverage only these communication channels so as to not create unnecessary noise:  
     * Team-specific Slack channels - For asynchronous communication that gives context around the update or question. 
-       * This includes #sales, #customer-success, #channel-fyi, #alliances
+       * This includes #sales or #field-fyi, #customer-success, #channel-fyi, #alliances
     * Handbook - To maintain a single-source of truth, evergreen reference guide. 
 * Considerations: 
     * Blackout restrictions applied for end-of-quarter or noisy days. Tier 3 announcements not permitted in last two weeks of quarter or on days when 1-2 other higher-impact updates (Tier 1 and/or Tier 2) have gone out.
+    * The decision to leverage #sales or #field-fyi will be made by the Field Communications team based on current communication volume in both channels as to not overwhelm the Field team.
     * The primary spokespeople for this update should be the relevant DRI. 
     * Note that, in order to reduce burden, there are special limitations around surveys sent to the Field team – only one survey per month.  Surveys that fall in the Tier 2 category will be prioritized. 
        * If the survey limit has already been reached in a month, Field Communications will work with the requestor to find the best next-available time.  
