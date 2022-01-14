@@ -84,10 +84,6 @@ Conducting a remote interview is all about preparation, and most importantly, se
 1. **Have questions prepared and in front of you ahead of time.** Owl Labs has prepared [this list of remote questions](https://www.owllabs.com/blog/remote-job-interview-questions) if you need some inspiration.
 1. **Share the process and documentation with others.** Make templates and processes available to other interviewers so that everyone communicates effectively.
 
-## What are the benefits of conducting a remote interview?
-
-## What are the challenges of conducting a remote interview?
-
 ## How can you make a remote interview feel more personal?
 
 ### Posture
@@ -117,9 +113,17 @@ The team at [We Work Remotely](https://weworkremotely.com/blog) addressed the qu
 1. **Show that you're more than just a worker:** Things have changed and companies are interested in knowing that you have a life outside of work. Add your interests or hobbies to your resume. Bonus points if you can explain how those help you be a better worker.
 1. **Keep your location general, or tweak it depending on the job you're applying to:** Your complete address is irrelevant, get rid of it! If the job you're applying to requires a specific location or time zone, be sure to add it to your resume. 
 
-### How do I assess culture fit remotely?
+## What are the benefits of conducting a remote interview?
 
-For hiring teams, a common challenge is this: "How do I assess culture fit remotely?"
+Remote interviews expand the possibilities for recruiting a more diverse and [inclusive](/company/culture/inclusion/) workforce. Remote gives your company a competitive advantage by opening the recruiting pipeline to unlimited geographic regions and sourcing employees from any location.
+
+Not only does this create a more competitive hiring process by reaching a more diverse set of candidates, but it also allows your organization to hire great people not limited by the basis of [salary](https://hired.com/page/state-of-salaries).
+
+## What are the challenges of conducting a remote interview?
+
+For hiring teams, one of the most common challenges associated with remote interviews is this: "How do I assess culture fit remotely?"
+
+### How do I assess culture fit remotely?
 
 To answer this question, you first need to unlearn a bit, and change your frame of mind. A hiring manager should *not* aspire to assess culture fit. Rather, you should aspire to assess *values fit*. 
 
