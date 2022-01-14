@@ -56,7 +56,7 @@ The Director, Stock Adminstrator is a [grade 10](/handbook/total-rewards/compens
 
 #### Director, Stock Adminstrator Responsibilites
 
-* Lead the stock administration function and manage GitLab’s global equity programs, including process improvement, implementing automated solutions, and evaluating service providers.
+* Lead the stock administration function and manage GitLab’s global equity programs, including process improvement, implementing automated solutions, and evaluating service providers with a focus on scale and team member experience..
 * Oversee the management and administration of GitLab’s stock plans globally (stock options, RSUs and ESPP), including eligibility, enrollment, approvals, processing equity awards, handling vestings, exercises and settlements, tax withholdings, lock up restrictions, expirations, cancellations, repurchases, terminations and other plan-related actions
 * Partner with other functional leads (including in Legal, People Team (HR), Payroll, Accounting and Finance) to develop processes which ensure the accuracy of all equity data, including all aspects of record-keeping, withholding, reporting, reconciliation and auditing as well as ensure that appropriate internal controls are in place and procedures are followed to satisfy periodic review of compliance with SOX
 * Ensure database integrity, and accuracy of record keeping of employee data and equity data in the stock administration system
@@ -73,6 +73,7 @@ The Director, Stock Adminstrator is a [grade 10](/handbook/total-rewards/compens
 * Maintain share pool balances
 * Participate in the preparation of the annual proxy filing, including providing and reviewing equity data included in the document
 * Review 10Q and 10K Equity Note
+* Effectively build and lead team in an all-remote environment in alignment with GitLab’s CREDIT values
 
 #### Director, Stock Adminstrator Requirements
 
