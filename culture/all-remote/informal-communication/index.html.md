@@ -71,7 +71,7 @@ In an all-remote environment, informal communication should be formally addresse
 
 ## Community impact outings
 
-Community impact outings are a meaningful alternative to Zoom happy hours. Instead of allocating a shared hour to chat in a video call with teammates, consider a formal outing where each team member redirects that hour to their local community. This approach is not only more inclusive of time zones and family committments (as the hour can be spent at any point in a given week versus a set time on a calendar), but it celebrates the core of what makes us all unique: our chosen homes and surroundings.
+Community impact outings are a meaningful alternative to Zoom happy hours. Instead of allocating a shared hour to chat in a video call with teammates, consider a formal outing where each team member redirects that hour to their local community. This approach is not only more inclusive of time zones and family commitments (as the hour can be spent at any point in a given week versus a set time on a calendar), but it celebrates the core of what makes us all unique: our chosen homes and surroundings.
 
 Here's how to construct a Community Impact Outing.
 1. Ask your team to block a given amount of time (e.g. one hour) on their calendar during a specific week. Entitle it `[TEAM] Community Impact Outing`. Empower team members to devote time to something meaningful to them, such as volunteering at a library or assisting the elderly.
