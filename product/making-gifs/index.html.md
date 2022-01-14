@@ -111,7 +111,7 @@ Worthy of mentioning:
 
 [FFCast](https://github.com/lolilolicon/FFcast) is a command line tool that wraps around ffmpeg to capture screen regions in order to record it or capture it. Optionally this could be piped into gifify.
 
-### Converting to Gif
+### Converting video to Gif
 
 #### Gifify (CLI)
 
@@ -132,6 +132,16 @@ Worthy of mentioning:
 - [EZGif](http://ezgif.com/video-to-gif) (Pretty good results and provides some settings)
 - [Giphy Gifmaker](https://giphy.com/create/gifmaker) (You can keep your GIFs private if you have an account. Otherwise: "all of your GIF are belong to GIPHY")
 - [imgur Video to GIF](https://imgur.com/vidgif) (Create a GIF from hundreds of popular video sites. Use Download to get a GIF or link for .gifv format)
+
+### Converting screenshots to Gif
+
+When you have a series of screenshots as png files, you can use [ImageMagic](https://imagemagick.org/) to convert them to a Gif file. ImageMagick also allows to [resize images](/handbook/tools-and-tips/#resizing-images).
+
+```
+$ convert -delay 50 -loop 0 *.png output.gif
+```
+
+When you upload the Gif file to social media, ensure that the source image resolution is smaller than 2048x2048. 
 
 ## Relevant links
 
