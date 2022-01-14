@@ -73,10 +73,10 @@ The newsletter will...
 - Each newsletter will include a spotlight on a sales or CS team member so the wider team has a chance to get to know them better and learn something from them.
 
 ## Format 
-Based on the requirements above, this is the first iteration of the newsletter format: 
+Based on the requirements above, this is the current iteration of the newsletter format: 
 
-1. Featured
-   - The announcement we think is most impactful to the field. We will try to communicate this in an image with 1-2 lines of text + 1-2 links to references.
+1. Featured 
+   - The announcement we think is most impactful to the field. We will try to communicate this in an image with 1-2 lines of text + 1-2 links to references. Note that not all issues will have a featured article.
 1. Deal of the month
    - Video of sales/CS team member(s) overviewing the opportunity and/or customer and explaining how they won the deal + links to any customer-facing collateral they used (that can be publicly shared).
 1. New and noteworthy resources
@@ -84,22 +84,14 @@ Based on the requirements above, this is the first iteration of the newsletter f
 1. Did you know? 
    - Updates from sales ops and other stakeholders related to changes in the way we work or interact with other teams. 
 1. What's new in GitLab
-   - The top 3 takeaways from the latest GitLab release, mapped to one of the three value drivers and framed in the context of the customer value. 
+   - The top takeaways from the latest GitLab release, mapped to one of the three value drivers and framed in the context of the customer value. 
 1. Upcoming events
    - Where GitLab will be over the next two months, divided by region. What webinars and other virtual events we will participate in. 
-1. Team member spotlight
-   - Short, written Q&A highlighting a member of the Sales/CS/SDR teams or supporting teams (can be new or tenured). They answer these questions:
-      - Where did you grow up, and where are you based now?
-      - What is your favorite thing about your job? 
-      - Which of our [GitLab Values](/handbook/values/) resonates most with you? 
-      - Do you have a helpful tip for working at GitLab and/or in the Field org to share?
-      - What is a hobby or skill you have that the team might not know about?
-      - Icebreaker question of the month (i.e. What are your favorite songs from your teenage years that you still rock out to when nobody else is listening?)
 1. Enablement corner
    - Updates from field enablement regarding new or updated trainings + opportunities to reinforce SKO learning objectives. (i.e. Did you know...?/Did you remember that...?)
 
 ## Process 
-The newsletter is sent out **on the first Monday of each month at 9 am PT.** Based on feedback from the field, we will iterate on timing. 
+The newsletter is sent out **on the first Monday of each month at 9 am PT or to align with the Bi-Weekly WW Field Sales Call.** Based on feedback from the field, we will iterate on timing. 
 
 We build the newsletter in an issue in the [Enablement project](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement). The process for the issue includes: 
 - The issue for the upcoming newsletter is opened at least three weeks before first Monday of the next month. 
@@ -110,7 +102,7 @@ We build the newsletter in an issue in the [Enablement project](https://gitlab.c
 - Reviewers provide feedback no later than 3 pm CT on the business day before the planned send date to allow time for revisions and scheduling.
 - Field Communications schedules the newsletter to send at 9 am PT on the planned send date. 
 - Once the newsletter goes live, Field Communications sends a reminder to the field in the #sales, #customer-success and #sdr_global Slack channels 
-- On the Friday following the newsletter send, Field Communications captures the newsletter performance data in the issue and then closes it. 
+- On the Monday following the newsletter send, Field Communications captures the newsletter performance data in the issue and then closes it. 
 
 To be added to the newsletter distribution list, [use this signup form.](http://eepurl.com/gXvm8r) **Note:** You can only sign up for this newsletter with a GitLab email domain. 
 
@@ -130,21 +122,13 @@ While submissions often come from Sales leadership, nominations can and should b
 - Team member and/or account team exhibited [GitLab's values](/handbook/values/) in this process.
 - Team member and/or account team received positive feedback from the customer/prospect or from another GitLab team member as a part of this deal. (Please share if possible.)
 
-## Team Member Spotlight Selection Process
 
-The Team Member Spotlight features a member of the Field organization or supporting team (i.e. legal or product) and is an opportunity for the Field team to get to know them better. The team member featured in the monthly spotlight is chosen by a Field Enablement team member on a rotating basis in coordination with the team they support. For example, the Field Enablement Program Manager supporting Enterprise has an opportunity to nominate someone in the Enterprise segment, followed by the Field Enablement Program Manager supporting Commercial the following month, and so on.
-
-**Team Member Spotlight Criteria**
-- This person goes above and beyond in their role.
-- This person is a high-performer and makes an impact across the field organization – both excelling at their role and successfully and meaningfully collaborating with other teams.
-- The Field has something to learn from this person – from their role, to their work ethic, to their attitude, etc.
-- This person lives the [GitLab values](/handbook/values/).
 
 ## Measurement
 Quantitative Success Metrics
-- Email open rate - Average open rate of 55% in first 6 months. 
-- Click rate - Average click rate of 10% in first 6 months.
-- Increased sentiment around information flow - 20% increase in "agree/strongly agree" responses to this survey question: "As a sales/CS team member, I feel informed on all critical information related to my role."
+- Email open rate - Average open rate of 75% in 2022. 
+- Click rate - Average click rate of 35% in 2022.
+- Increased sentiment around information flow - 20% increase in "agree/strongly agree" responses to this survey question: "As a sales/CS team member, I feel informed on all critical information related to my role." in 2022.
 
 Qualitative Success Metrics
 - Increased engagement from field team members/leaders and stakeholders in regards to the newsletter – feedback, requests, suggestions, etc. 
@@ -152,6 +136,7 @@ Qualitative Success Metrics
 - Improve the Sales section of the Handbook as a result of work on the newsletter. 
 
 ## Past Newsletters
+All past editions of the Field Flash are accedssible through Highspot, our go-to-market (GTM) content portal / asset management systemour go-to-market (GTM) content portal / asset management system. Highspot will be launched to the Field team in mid-February. 
 
 | **Edition** | **Subj Line** | **Highlights** |
 | ------ | ------ | ------ |
