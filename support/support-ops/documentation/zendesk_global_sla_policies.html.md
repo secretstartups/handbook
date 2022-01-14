@@ -150,22 +150,6 @@ This requires an exact process, which is detailed via the
 | Next reply time | 24hrs | 24hrs | 24hrs | 24hrs |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
-### [Security](https://gitlab.zendesk.com/api/v2/slas/policies/360000099179.json)
-
-* Description: For Security tickets
-* Conditions
-  * All
-    * Form is Security
-    * Ticket Stage is not Needs Org
-    * Ticket Stage is not Needs Triage
-  * Any
-
-| Target | Urgent | High | Normal | Low |
-|--------|:------:|:----:|:------:|:---:|
-| First reply time | 24hrs | 24hrs | 24hrs | 24hrs |
-| Next reply time | 24hrs | 24hrs | 24hrs | 24hrs |
-| Hours of operation | Business hours | Business hours | Business hours | Business hours |
-
 ### [Billing](https://gitlab.zendesk.com/api/v2/slas/policies/360000062674.json)
 
 * Description: For Billing tickets

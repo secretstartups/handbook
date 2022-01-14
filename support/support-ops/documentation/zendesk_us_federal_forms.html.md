@@ -36,7 +36,6 @@ managing Zendesk via the various GitLab projects, please review
 | Name | ID | Type | Category | What is it for |
 |---|:-:|---|---|---|
 | [Support](https://ops.gitlab.net/search?utf8=%E2%9C%93&group_id=723&project_id=444&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360000446511) | 360000446511 | Public | Support | For tickets relating to Support matters |
-| [Security](https://ops.gitlab.net/search?utf8=%E2%9C%93&group_id=723&project_id=444&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360000546132) | 360000546132 | Public | Non-support | For tickets relating to security matters |
 | [Triage](https://ops.gitlab.net/search?utf8=%E2%9C%93&group_id=723&project_id=444&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360001421032) | 360001421032 | Internal | Support | For tickets needing to be triaged |
 | [Live Upgrade Assistance](https://ops.gitlab.net/search?utf8=%E2%9C%93&group_id=723&project_id=444&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360001434131) | 360001434131 | Public | Support | For tickets relating to Live Upgrade Assistance |
 | [Shared Organization Request](https://ops.gitlab.net/search?utf8=%E2%9C%93&group_id=723&project_id=444&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360001421052) | 360001421052 | Public | Support | For tickets relating to Shared Organization Requests |

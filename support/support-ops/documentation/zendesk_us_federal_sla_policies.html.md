@@ -67,19 +67,6 @@ This requires an exact process, which is detailed via the
 | Next reply time | 4h | 4h | 4h | 4h |
 | Hours of operation | Calendar hours | Calendar hours | Calendar hours | Calendar hours |
 
-### Security
-
-* Conditions
-  * Matches ALL of:
-    * Form is Security
-* Targets:
-
-| Target | Urgent | High | Normal | Low |
-|--------|:------:|:----:|:------:|:---:|
-| First reply time | 24h | 24h | 24h| 24h |
-| Next reply time | 24h | 24h | 24h | 24h |
-| Hours of operation | Business hours | Business hours | Business hours | Business hours |
-
 ### L&R
 
 * Conditions

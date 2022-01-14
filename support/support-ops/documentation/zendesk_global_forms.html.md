@@ -29,7 +29,9 @@ This allows us to have version-controlled forms. For more information on
 managing Zendesk via the various GitLab projects, please review
 [Using the sync repos](sync_repos.html).
 
-### Current forms
+### Current active forms
+
+**Note**: The order represents the Zendesk order. Skipped numbers is normally due to inactive forms.
 
 | Order | Name | ID | Visibility | Category |
 |:-----:|------|:--:|------------|----------|
