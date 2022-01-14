@@ -64,7 +64,7 @@ The team at [We Work Remotely](https://weworkremotely.com/blog) addressed the qu
 1. **Show that you're more than just a worker:** Things have changed and companies are interested in knowing that you have a life outside of work. Add your interests or hobbies to your resume. Bonus points if you can explain how those help you be a better worker.
 1. **Keep your location general, or tweak it depending on the job you're applying to:** Your complete address is irrelevant, get rid of it! If the job you're applying to requires a specific location or time zone, be sure to add it to your resume. 
 
-#### How to prepare for a remote job interview
+## How do you prepare for a remote interview?
 
 Remote interviews are similar to in-person interviews in many ways: You're still trying to make a good impression and communicate your strengths, you're just not doing it from the same room. One of the ways that remote interviews can go wrong is if you don't take into account your environment and let yourself become distracted. Preparation is just as important in a remote interview as an in-person interview.
 
