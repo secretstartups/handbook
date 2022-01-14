@@ -399,7 +399,7 @@ While we iterate with small changes, we strive for large, ambitious results. We 
       1. Having and reporting against [KPIs](/company/kpis/#what-are-kpis) with guiding targets
    1. Having other people adopt our way of working
       1. [Handbook](/handbook/)
-      1. [Certifications](/handbook/people-group/learning-and-development/certifications/)
+      1. [Certifications](https://about.gitlab.com/learn/certifications/public/)
       1. Promotion of processes
          1. [Blog posts](https://about.gitlab.com/blog/)
          1. [Webcasts](https://about.gitlab.com/webcast/)
@@ -412,7 +412,7 @@ While we iterate with small changes, we strive for large, ambitious results. We 
      1. [Have users compare us to the alternative](https://about.gitlab.com/devops-tools/)
   1. Increasing engagement with GitLab
      1. [Pageviews](/handbook/marketing/inbound-marketing/#measuring-progress)
-     1. [Certifications](/handbook/people-group/learning-and-development/certifications/)
+     1. [Certifications](https://about.gitlab.com/learn/certifications/public/)
      1. [Surveys](https://about.gitlab.com/developer-survey/)
   1. [Not tolerating low performance](/handbook/leadership/underperformance/#introduction)
   1. Preventing [risk aversion](/handbook/values/#low-level-of-shame)
