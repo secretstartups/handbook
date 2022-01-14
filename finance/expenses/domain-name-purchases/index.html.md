@@ -25,5 +25,5 @@ Domain names are key assets in GitLab's intellectual property portfolio. Central
 - From `2022-02-01`, expense reports submitted by team members for expenses incurred in registering new GitLab-related Domain Names will be rejected.
 
 ## Transfer of existing GitLab-related Domain Names
-- All GitLab-related Domain Names currently registered in the name of team members, or registered with unapproved registrars,  should be transferred to GitLab using the process outlined in the [to be confirmed] issue template as soon as possible.
+- All GitLab-related Domain Names currently registered in the name of team members, or registered with unapproved registrars,  should be transferred to GitLab using the process outlined in the [dns-domain-transfer-request issue template](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues/new?issuable_template=dns_domain_transfer_request) as soon as possible.
 - From `2022-07-31`, expense reports submitted by team members for expenses incurred in maintaining registrations of GitLab-related Domain Names in the name of team members, or with unapproved registrars, will be rejected.
