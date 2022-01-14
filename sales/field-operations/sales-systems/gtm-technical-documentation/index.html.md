@@ -403,6 +403,25 @@ Note: Because this process uses a checkbox field, it is also possible to trigger
 Code Unit:
      * CreateRefundOpp
   * Create Refund Opportunity Button
+
+## Link Credit Opportunities and Contract Reset Opportunities 
+
+**Business Process this supports:** This supports the Deal Desk process of processing Credit Opportunities and Contract Reset Opportunities. See the Sales Order Processing [Handbook Page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#what-quotes-can-deal-desk-assist-me-with)
+ 
+**Relevant fields**
+ -  Opportunity.Contract_Reset_Opportunity__c
+ -  Opportunity.Total_Net_ARR_Credit__c
+
+**Overview:**  
+- When an Opportunity meets our entry criteria and it is looking up to another opportunity through the `Contract_Reset_Opportunity__c` field the `Total_Net_ARR_Credit__c` on the related Contract Reset Opportunuty is updated to be the Sum of the Net ARR of any Credit Opportunity that meets our criteria. Some of the changes that may cause this code to run would be:
+  - A Credit Opportunity moving from a valid stage to(from) a invalid sage (ex: Closed won to Duplicate)
+  - The Net ARR on the credit Opportunity changes (and it is in a valid stage)
+  - The lookup field to the Contract Reset Opportunity is inserted, deleted or changed
+  - The credit opportunity with a Contract Reset Opportunity populated is inserted, deleted or undeleted
+ 
+**Logic Locations:**
+  * OpportunityClass.LinkCreditOppsToContractResetOpps
+  * OpportunityClassTests.LinkCreditOppsToContractResetOpps
  
  
 ## SQS [ Sales Qualified Source] Override
