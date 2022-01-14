@@ -493,6 +493,11 @@ Review the `Needs Collaboration` ZenDesk view and look for recent requests for h
    across the board: watch Slack channels for requests from other SEs on their
    tickets, and check the `Needs Org / FRT`, `Handover Needed`, `SaaS Account` and `Free user tickets`
    views for tickets you can work on.
+1. Contribute to tickets that you are CCed on. To find those in ZenDesk, either
+   [search for `cc:me`](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=cc%3Ame) or:
+    1. Click your avatar in ZenDesk's top right corner.
+    1. Select `View profile`.
+    1. Switch the `Assigned tickets` dropdown menu to `CCs`.
 
 ### What if someone is working on a ticket that I’d like to work on?
 
