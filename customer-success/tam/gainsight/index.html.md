@@ -14,9 +14,9 @@ description: "The key aspects of how Technical Account Managers use Gainsight to
 
 ## Gainsight for Technical Account Managers
 
-TAMs use Gainsight for a multitude of purposes.  It could be to log their customer calls, update their action plans (or CTAs), review the success plans, or gain insights on their customer’s Product Usage Data.
+TAMs use Gainsight for a multitude of purposes, including logging their customer calls, updating their call-to-actions (CTAs), updating success plans, and gaining insights on their customer’s product usage data.
 
-One of our TAMs created an [8 minute video](https://youtu.be/yk95b6u26So) of her workflow and how she integrates Gainsight into her day to day tasks to reduce the lift and ensure her accounts stay up to date.
+One of our TAMs created an [8 minute video](https://youtu.be/yk95b6u26So) (internal-only) of her workflow and how she integrates Gainsight into her day to day tasks to reduce the lift and ensure her accounts stay up to date.
 
 The table below represents the steps a TAM would typically take in Gainsight. Please reference each handbook page for further information. 
 
@@ -31,6 +31,7 @@ The table below represents the steps a TAM would typically take in Gainsight. Pl
 - [C360 overview](/handbook/customer-success/tam/gainsight/c360-overview)
 - [Account Engagement - Customer Prioritization](/handbook/customer-success/tam/engagement/#customer-prioritization)
 - [NPS/CSAT](/handbook/customer-success/tam/gainsight/c360-overview/nps-csat-scores)
+- [Customer contacts](/handbook/customer-success/tam/gainsight/#customer-contacts)
 
 #### Timeline
 - [Using Timeline](/handbook/customer-success/tam/gainsight/timeline/)
@@ -135,6 +136,8 @@ For information on how we manage the backend data for Gainsight, please see our 
 The `Technical Account Manager` field on an account is a bi-directional sync with Salesforce. You can update the TAM on an account either in Salesforce or Gainsight but since the sync occurs nightly it will take at least 1 day for the values in Gainsight and Salesforce to match after one of the systems is updated.
 
 `Account Owner`, `Solutions Architect`, `Renewal Date`, `ARR`, subscription and opportunity info, etc. are all updated in Salesforce and synced to Gainsight.
+
+### Customer contacts
 
 To add customer contacts to an account, you can add them in either Salesforce or Gainsight, as we utilize a bi-directional sync. It is good practice is to check that any customer contacts we engage with are in Gainsight for the following reasons:
 
