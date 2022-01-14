@@ -38,3 +38,14 @@ This working group will organize all the domain experts needed, surface critical
 | Member                         | Chris Maurer    | Public Sector Manager, Customer Success    |
 | Member                         | Vincy Wilson    | Quality Engineering Manager, Fulfillment, Growth, Sec, Enablement |
 | Member                         | Joanna Shih     | Quality Engineering Manager, Ops           |
+
+## Direction
+
+We intend to pursue FedRAMP Moderate certification. This is because:
+
+* Majority of demand we have seen is for Moderate, and the strong preference of some due to additional customer requirements of High.
+* Consequently starting at low will not unlock much revenue, and would delay our Moderate attainment.
+* Starting at High is a significantly heavier lift, and would delay initial FedRAMP certification.
+* From a comparison standpoint, 80% of SaaS services are Moderate.
+
+Once we have attained Moderate, we can evaluate demand for FedRAMP High.
