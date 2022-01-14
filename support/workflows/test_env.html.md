@@ -46,7 +46,7 @@ If you require a group of your own to have a paid tier, please submit an [access
 
 ## Testing Environment License
 
-For a test you will need to make an [internal issue](hhttps://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) requesting one. 
+For a test you will need to make an [internal issue](hhttps://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) requesting one.
 
 Please keep in mind *you can't generate licenses for customers* only for testing
 purposes.
@@ -136,20 +136,12 @@ For testing LDAP integrations with a self-managed GitLab instance, you may consi
 
 If you wish to test resources using a real domain name (instead of an IP address, e.g. for testing TLS certificates), you can use a subdomain of `gitlab.support`. You can configure this in GCP in the [gitlab-support project here](https://console.cloud.google.com/net-services/dns/zones/gitlabsupport/details?project=support-testing-168620).
 
-### Digital Ocean and Docker Testing Environment
-
-**Warning:** Digital Ocean (DO) and dev-resources is deprecated in favor of [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md)
-
-For a Digital Ocean droplets [follow this guide](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md).
-Once you've  created your resource you can follow the section named [Creating GitLab test instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) (though do keep in mind that we are moving away from this project).
-
-
 ## Persistent Local Environments
 
 ### Install Docker
 
 Install [Docker Desktop for Mac](https://www.docker.com/get-started) or the
-[Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux).  
+[Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux).
 It's all you need to get started using the officially supported [Docker installation methods](https://docs.gitlab.com/ee/install/docker.html). Note that on Macs with M1 / Apple Silicon, running GitLab in Docker is not working properly for now. Check out [UTM](#utm-free--opensource---compatible-with-apple-silicon) below as an alternative for a local setup on your M1 Mac.
 
 ### Install Docker Machine
@@ -355,7 +347,7 @@ docker exec -it gitlab-ee gitlab-ctl reconfigure
 ## Windows
 
 It may come to pass that you require a Windows environment to test a [Windows Runner](https://docs.gitlab.com/runner/install/windows.html) or
-even the [Kubernetes Executor in a Mixed Cluster](https://docs.gitlab.com/runner/executors/kubernetes.html#example-for-windowsamd64). 
+even the [Kubernetes Executor in a Mixed Cluster](https://docs.gitlab.com/runner/executors/kubernetes.html#example-for-windowsamd64).
 
 The options are the same as above:
  - Cloud environements: GCP and AWS have Windows Server images you can spin up to connect to via RDP.

@@ -31,7 +31,7 @@ During your time as onboarding buddy, you'll be working alongside the new Suppor
 | ----------- | ----------- |
 | [Weeks 1-2](#first-1-2-weeks) | Call to meet the new Support Engineer, help them get acclimated, answer any general questions they may have, discuss schedules, and share anything else they may find useful as they get started.       |
 |   | Open the lines of communication in Slack. Throughout this process, check in with them periodically to see how their onboarding module is progressing and ask if they need help.        |
-| |Call to help them update the team page, support-resources, dev-resources, the GDK, or anything else they may have questions about or trouble with. |
+| |Call to help them update the team page, support-resources, the GDK, or anything else they may have questions about or trouble with. |
 | [Weeks 3+](#pairings)| Pair at least twice, but more often if you can. Ideally, aim for once a week. |
 | | Invite them to shadow you on any customer calls. |
 | | Identify tickets that help push the engineer out of their comfort zone, and encourage the engineer to [self-assign](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html) these tickets. |
@@ -53,7 +53,7 @@ Note that everyone's needs are different, so consider the following as a list of
   - Show them the GitLab architecture diagrams
   - Show them some product or [support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta) issues and clarify that they can contribute to anything
   - Remind them they can get reimbursed for any books or training, and show them the [Spending Company Money](https://about.gitlab.com/handbook/spending-company-money/) page. If it's expensive, talk to their manager first.
-  - Show them how to use [dev-resources](https://gitlab.com/gitlab-com/dev-resources) and [support-resources](https://gitlab.com/gitlab-com/support/support-resources)
+  - Show them how to use [support-resources](https://gitlab.com/gitlab-com/support/support-resources)
   - Help them update the [GitLab team page](https://about.gitlab.com/company/team/) with their info (one of their Onboarding Issue checklist items)
 
 ### Pairings
