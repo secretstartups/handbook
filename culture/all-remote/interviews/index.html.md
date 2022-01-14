@@ -75,12 +75,33 @@ Several GitLab team members have positive experiences with the [M-Audio UberMic]
 You can have great technology, but if you fail to connect or stay connected during your interview you risk giving a poor first impression. Be sure to reset, check, and test your internet connection especially prior to an interview. 
 
 ## How do you conduct a remote interview?
+Conducting a remote interview is all about preparation, and most importantly, setting expectations for the person being interviewed. You also have technical considerations to make since the person joining the video/conference call is using a different setup than you, or they may not have interviewed remotely before. Be clear about how to join the interview and the technical requirements. Make sure the process and/or email templates are documented internally so that others can communicate this process to future interviewees.
+
+1. **Specify if it is a phone or video interview.** Nothing can derail the interview faster than being caught offguard. Communicate this ahead of time.
+1. **Give instructions for how to connect to the video call.** Include download instructions for the software you're using or a step-by-step guide if connecting from the web.
+1. **Give the candidate an outline.** The team at [FlexJobs](https://www.flexjobs.com/employer-blog/best-practices-conducting-remote-interviews/) recommends an outline with an interview start time, the name of the interviewer and anyone else they will be meeting, and the general order of events so they know when to speak.
+1. **Have a practice meeting.** Use this opportunity to make sure your audio and video is coming through clearly.
+1. **Have questions prepared and in front of you ahead of time.** Owl Labs has prepared [this list of remote questions](https://www.owllabs.com/blog/remote-job-interview-questions) if you need some inspiration.
+1. **Share the process and documentation with others.** Make templates and processes available to other interviewers so that everyone communicates effectively.
 
 ## What are the benefits of conducting a remote interview?
 
 ## What are the challenges of conducting a remote interview?
 
 ## How can you make a remote interview feel more personal?
+
+### Posture
+
+Before a remote interview, check your front-facing camera or webcam to ensure you are well lit and can be seen. Maintain eye contact with your screen/camera and allow yourself to smile and react naturally--the same way you would for an in-person interview.
+
+### Place
+
+Pick a neutral location that is quiet and comfortable. That way, neither you nor the interviewer will be distracted by your environment. We encourage you to display your [quirkiness](/handbook/values/#diversity-inclusion) and personality, but for an interview, it's best to avoid chaos. 
+
+### Practice
+
+To help make a great first impression, prepare by researching the company and reviewing their [handbook and values](/handbook/). Practice answering some [sample interview questions](handbook/hiring/interviewing/#what-to-expect-during-an-interview-with-a-recruiter) live with a peer or by recording yourself or practicing in a mirror.
+
 
 ## What are some tips for succeeding in a remote interview?
 
@@ -107,17 +128,6 @@ For many, it is assumed that culture is simply the aura, energy, or vibe one get
 A company culture is a company's list of values. Culture is an assurance that each employee respects, admires, and feels invested in a company's values, and that leadership works to ensure values are not violated. As GitLab, a sub-value within our Diversity, Inclusion & Belonging  value is "[culture fit is a bad excuse](https://about.gitlab.com/handbook/values/#culture-fit-is-a-bad-excuse)."
 
 Remote interviewers should link a company's values during the interview and have a conversation to assess a candidate's alignment and understanding of those values. Particularly in a remote setting, [values](/handbook/values/) serve as the north star, guiding every business decision by people you cannot physically see and shaping how colleagues treat one another. 
-
-### Hiring managers/recruiters/interviewers/etc.
-
-Conducting a remote interview is all about preparation, and most importantly, setting expectations for the person being interviewed. You also have technical considerations to make since the person joining the video/conference call is using a different setup than you, or they may not have interviewed remotely before. Be clear about how to join the interview and the technical requirements. Make sure the process and/or email templates are documented internally so that others can communicate this process to future interviewees.
-
-1. **Specify if it is a phone or video interview.** Nothing can derail the interview faster than being caught offguard. Communicate this ahead of time.
-1. **Give instructions for how to connect to the video call.** Include download instructions for the software you're using or a step-by-step guide if connecting from the web.
-1. **Give the candidate an outline.** The team at [FlexJobs](https://www.flexjobs.com/employer-blog/best-practices-conducting-remote-interviews/) recommends an outline with an interview start time, the name of the interviewer and anyone else they will be meeting, and the general order of events so they know when to speak.
-1. **Have a practice meeting.** Use this opportunity to make sure your audio and video is coming through clearly.
-1. **Have questions prepared and in front of you ahead of time.** Owl Labs has prepared [this list of remote questions](https://www.owllabs.com/blog/remote-job-interview-questions) if you need some inspiration.
-1. **Share the process and documentation with others.** Make templates and processes available to other interviewers so that everyone communicates effectively.
 
 ### Remote job seekers and candidates
 
