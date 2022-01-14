@@ -34,7 +34,7 @@ The overall ambition is to **structure** why, when and what we are doing.
 This top-down approach is leading, but not fully limited to the way we work. 
 
 
-### OKR Planning
+### Start of Quarter OKR Planning
 
 The Data Team OKRs aspire to align with Business Technology OKRs, Finance Division OKRs, and CEO OKRs, thereby aligning with the OKRs of the Divisions we support. Due to the nature of the the technical and data infrastructure work required to develop and operate an Enterprise Data Warehouse this will not always be the case.
 
@@ -43,12 +43,24 @@ By the end of a FQ, the Data Team will outline all actions that are required to 
 These OKRs drive ~60% of the work that the central data team does in a given quarter.
 The remaining time is divided between urgent issues that come up and ad hoc/exploratory analyses.
 
-Examples of OKR alignment _in-action_ includes:
+Examples of OKR alignment _in-action_ include:
 
 1. [FY21-Q2 CEO](https://about.gitlab.com/company/okrs/fy21-q2/) Objective 2, aligns to [Data Team Objective 2](https://gitlab.com/groups/gitlab-com/business-ops/-/epics/80) for delivering automated data pipelines in support of Growth initiatives.
 1. [FY21-Q2 CEO](https://about.gitlab.com/company/okrs/fy21-q2/) Objective 3, KR4 and KR5 align to [Data Team Objective 1](https://gitlab.com/groups/gitlab-com/business-ops/-/epics/79) to deliver a Finance ARR Data Mart.
 
-### OKR Review
+### OKR Structure and Setup
+
+Data Team OKRS originate in the [GitLab-Data Group Project](https://gitlab.com/groups/gitlab-data/). Once these OKRs have been reviewed by the Data Team and signed-off by Business Partner stakeholders, the top 3 Objectives and top 3 KRs for each are published into the [Business Technology Group Project](https://gitlab.com/groups/gitlab-com/business-technology/) for sharing with the broader Business Technology Team, Finance Team, and others.
+
+#### How To Setup Data Team OKRs
+
+1. Create a new Epic in the [GitLab-Data Group Project](https://gitlab.com/groups/gitlab-data/) with the title `DRAFT: FYxx-Qx Data Team Objectives and Planning Drumbeat`
+      - Reference this [FY23-Q1 Data Team Objectives and Planning Drumbeat](https://gitlab.com/groups/gitlab-data/-/epics/443) as an example
+2. Create 1 linked Issue per Objective in the [GitLab-Data Managers Group](https://gitlab.com/gitlab-data/managers)
+3. Add detail to this Issue, including Direction, Teams Supported, Business Partners, and the Key Results each with their own Description.
+4. Share the Epic to relevant business partners and stakeholders through the #data channel and @ mentions of the business partners to solicit review and feedback. All feedback should be added as comments into the top-level GitLab-Data Group Project Epic.
+
+### End of Quarter OKR Review
 
 During the OKR Review, the Data Leadership Team reviews the current status of the current FQ KRs. The results of the OKRs are evaluated and propagated to next FQ OKRs where applicable.
 
