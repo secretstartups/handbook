@@ -60,7 +60,7 @@ The Director, Stock Adminstrator is a [grade 10](/handbook/total-rewards/compens
 * Oversee the management and administration of GitLab’s stock plans globally (stock options, RSUs and ESPP), including eligibility, enrollment, approvals, processing equity awards, handling vestings, exercises and settlements, tax withholdings, lock up restrictions, expirations, cancellations, repurchases, terminations and other plan-related actions
 * Partner with other functional leads (including in Legal, People Team (HR), Payroll, Accounting and Finance) to develop processes which ensure the accuracy of all equity data, including all aspects of record-keeping, withholding, reporting, reconciliation and auditing as well as ensure that appropriate internal controls are in place and procedures are followed to satisfy periodic review of compliance with SOX
 * Ensure database integrity, and accuracy of record keeping of employee data and equity data in the stock administration system
-* Provide the information for filing of section16 filings (e.g., Form 4s) for section 16 officers and directors
+* Provide the information for filing of section 16 filings (e.g., Form 4s) for section 16 officers and directors
 * Oversee and manage relationships with external equity trading platform (E*TRADE) and transfer agent (Computershare)
 * Collaborate and partner with internal teams on all equity-related matters to ensure accurate dataflow, provide support for reporting needs, and respond to ad hoc requests
 * Work with our E*TRADE platform as instructed from the Legal team on the list of employees affected by trading blackout periods, pre-clearance, and enforce insider trading policy restrictions, including coordination with brokers on Rule 10b5-1 trading plans, 
