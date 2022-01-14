@@ -88,12 +88,14 @@ that details the FMM process where CAMs can read more about how to complete [the
           + If approved, the FMM will be the DRI for reaching out to the partner contact in the proposal to review dates of execution and provide any other guidance
 
 ## Demand Generation activities eligible for MDF
-- Customer Case Study - Development of a print or digital case study that details an end-user customer’s positive experience with GitLab. Must highlight how a GitLab product or service solved a customer’s business problem, benefit received by customer, and customer’s endorsement of GitLab.
-- Telesales/Appointment Setting - Outbound lead generation telemarketing campaigns that target end-user prospects /customers that promote GitLab or GitLab Alliance joint products or solutions.
-- Digital & Print Marketing - Creation of broad reach promotional and brand marketing content for GitLab products or solutions in digital or print targeted at end-user customers or prospects. Must contain a customer call to action.
-- Paid Search Events/Webinars (includes workshops, roundtables) - End-user customer or partner event executed by a Partner to generate net new business and / or build pipeline. Must be focused on GitLab and / or joint solutions with Alliance Partners.
-- Tradeshows/Conference Sponsorships - Partner on-site sponsorship of a Third-party event organized by an industry set, or other GitLab Partner, where a sponsorship contract / package is purchased by Partner and GitLab products, solutions, & brand are promoted.
+-  **Customer Case Study** - Development of a print or digital case study that details an end-user customer’s positive experience with GitLab. Must highlight how a GitLab product or service solved a customer’s business problem, benefit received by customer, and customer’s endorsement of GitLab.
+-  **Telesales/Appointment Setting** - Outbound lead generation telemarketing campaigns that target end-user prospects /customers that promote GitLab or GitLab Alliance joint products or solutions.
+-  **Digital & Print Marketing** - Creation of broad reach promotional and brand marketing content for GitLab products or solutions in digital or print targeted at end-user customers or prospects. Must contain a customer call to action.
+-  **Paid Search Events/Webinars** (includes workshops, roundtables) - End-user customer or partner event executed by a Partner to generate net new business and / or build pipeline. Must be focused on GitLab and / or joint solutions with Alliance Partners.
+ - **Tradeshows/Conference Sponsorships** - Partner on-site sponsorship of a Third-party event organized by an industry set, or other GitLab Partner, where a sponsorship contract / package is purchased by Partner and GitLab products, solutions, & brand are promoted.
 
+
+These activities are captured as `Campaign Type Details` on the campaign level in Salesforce.com for `Partner - MDF` [Campaign Type](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) only.
 
 ### Submitting Proof of Performance (POP) for MDF 
 
