@@ -27,28 +27,29 @@ Whether you're wanting to learn how to hire remotely, or just wanting to know ho
 
 ## How do you prepare for a remote interview?
 
-Remote interviews are similar to in-person interviews in many ways: You're still trying to make a good impression and communicate your strengths, you're just not doing it from the same room. One of the ways that remote interviews can go wrong is if you don't take into account your environment and let yourself become distracted. Preparation is just as important in a remote interview as an in-person interview.
+Remote interviews are similar to in-person interviews in many ways: You're still trying to make a good impression and communicate your strengths, you're just not doing it from the same room. One thing is certain: preparation is just as important in a remote interview as an in-person interview.
 
-1. **Read instructions from your interviewer carefully (and ask questions if something is unclear).** Make sure that you understand the requirements for the interview and make sure to download any programs and test ahead of time.
+1. **Read instructions from your interviewer carefully (and ask questions if something is unclear).** Make sure that you understand the requirements for the interview and follow them carefully. The best way to make a good first impression is simply to be well-prepared!
+1. **Prepare yourself with notes.** An advantage of having a remote interview is that you can make a "cheat sheet" for anything you want to mention, questions you'd like to ask, or other information that will help you get the most from the conversation.
 1. **Have a distraction-free area for the interview, if possible.** Background noise or clutter can take attention away from you, which is not what you want.
 1. **Make eye contact.** Look into the camera as much as possible, not the screen. 
-1. **Have a practice meeting.** Try to download any software for a video call far enough in advance to test your audio and video settings.
-1. **Don't casually browser the internet on your computer during an interview.** If you wear glasses, the other person may be able to see what is on your screen and that can be a little embarrassing. Only have what you need for the interview and don't get distracted.
+1. **Have a practice meeting.** If it will help you feel more comfortable, try to download any software for a video call far enough in advance to test your audio and video settings.
+1. **Don't browse on your computer or phone during an interview.** Only have what you need for the interview, and don't get distracted.
 1. **Use headphones with a microphone.** Not only will this make you sound better, it will reduce listening fatigue for the other person as well so that you can have a better conversation. One of the more common phrases you'll hear from GitLab CEO Sid Sijbrandij is, "[Can you put your headphones on?](/blog/2019/06/28/five-things-you-hear-from-gitlab-ceo/)"
 
 ## What technology do you need to participate in and manage a remote interview?
 
-### Webcams and mirrorless cameras 
+### Camera 
 
 For a remote interview, being able to easily navigate a [video call](/handbook/communication/#video-calls) is vital. First, consider how you want to present yourself visually by choosing a camera quality:
 
-1. Mirrorless camera or DSLR with dedicated lens (high-end)
-1. Dedicated USB webcam (mid-tier)
 1. Inbuilt webcam on a phone, laptop, or external display (baseline)
+1. Dedicated USB webcam (mid-tier)
+1. Mirrorless camera or DSLR with dedicated lens (high-end)
 
 ### Headphones
 
-Wearing headphones can create [a more positive video experience for all](/blog/2019/06/28/five-things-you-hear-from-gitlab-ceo/). If you're using a dedicated microphone, you may prefer comfortable studio-style headphones without an in-line mic. If you want to reduce the amount of hardware you're using, headphones with an in-line mic will be more appropriate. 
+Wearing headphones can create a more positive video experience for all. If you're using a dedicated microphone, you may prefer comfortable studio-style headphones without an in-line mic. If you want to reduce the amount of hardware you're using, headphones with an in-line mic will be more appropriate. 
 
 Some prefer in-ear headphones rather than over-the-head headphones, and it's important to consider long-term comfortability for those who may find themselves in [video calls](/blog/2019/08/05/tips-for-mastering-video-calls/) for multiple hours per day. 
 
@@ -58,13 +59,13 @@ Bluetooth headphones can be problematic due to limitations of microphone quality
 
 "_When audio quality is high (vs low), people judge the content as better and more important. They also judge the speaker as more intelligent, competent, and likable. Messages that are difficult to process are less compelling._" This [research](https://tips.ariyh.com/p/good-sound-quality-smarter), conducted by Norbert Schwarz at the University of Southern California, reinforces the importance of investing in equipment and atmosphere to generate the highest-fidelity audio in a remote setting.
 
-When possible, avoid using the inbuilt microphone of a laptop, phone, or desktop monitor when communicating. These microphones tend to be of low quality, and do little to stop background noise. 
-
-At the very least, utilize a pair of Bluetooth or wired earbuds with an in-line microphone. These are commonly included with most smartphones. 
+When possible, avoid doing a job interview in a room with other people or in a place with heavy background noise. If you have a pair of Bluetooth or wired earbuds with an in-line microphone (like the ones commonly included with most smartphones), use those instead of the built-in microphone of a laptop, phone, or desktop monitorg. These microphones tend to be of low quality, and do little to stop background noise. 
 
 ### Reliable internet
 
-You can have great technology, but if you fail to connect or stay connected during your interview you risk giving a poor first impression. Be sure to reset, check, and test your internet connection especially prior to an interview. 
+You can have great technology, but if you fail to connect or stay connected during your interview, it can make it difficult to have a productive conversation. Be sure to reset, check, and test your internet connection especially prior to an interview.
+
+If you have challenges with connectivity in your home office, consider asking your interviewer or recruiter whether the company offers [interview accommodations](https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process) such as reimbursing the cost to rent a private office or call booth for the interview.
 
 ## How do you conduct a remote interview?
 Conducting a remote interview is all about preparation, and most importantly, setting expectations for the person being interviewed. You also have technical considerations to make since the person joining the video/conference call is using a different setup than you, or they may not have interviewed remotely before. Be clear about how to join the interview and the technical requirements. Make sure the process and/or email templates are documented internally so that others can communicate this process to future interviewees.
@@ -113,7 +114,7 @@ Not only does this create a more competitive hiring process by reaching a more d
 
 ## What are the challenges of conducting a remote interview?
 
-For hiring teams, one of the most common challenges associated with remote interviews is this: "How do I assess culture fit remotely?"
+For hiring teams, one of the most common challenges associated with remote interviews is gaining insight into the candidate's personality.
 
 ### How do I assess culture fit remotely?
 
