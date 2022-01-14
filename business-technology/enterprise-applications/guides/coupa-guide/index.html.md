@@ -140,6 +140,7 @@ For Field Marketing Dept Only - please refer to the [Field Marketing Handbook - 
 
 <br>
 ![coupa-image-20](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa20.png)
+
 <br>
 
 - Complete the form with the following information:
@@ -483,6 +484,7 @@ A supplier must exist in Coupa prior to submitting a requisition for that suppli
 
 <br>
 ![coupa-image-20](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa20.png)
+
 <br>
 
 - Type the supplier’s name on the Supplier field.
