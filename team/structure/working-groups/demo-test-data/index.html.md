@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
-title: "Demo & Test data Efficiency working group"
+title: "Demo & Test data working group"
 description: "TBD"
-canonical_path: "/company/team/structure/working-groups/demo-test-data-efficiency/"
+canonical_path: "/company/team/structure/working-groups/demo-test-data/"
 ---
 
 ## On this page
@@ -15,11 +15,11 @@ canonical_path: "/company/team/structure/working-groups/demo-test-data-efficienc
 
 | Property        | Value           |
 |-----------------|-----------------|
-| Date Created    | Dec 22nd 2021 |
-| Target End Date | Feb 22nd 2022  |
+| Date Created    | Jan 19 2021 |
+| Target End Date | March 24 2022  |
 | Slack           | [#wg_demo-test-data](https://gitlab.slack.com/archives/C02M7GX1SBE) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1XmTGP1pNBDaC6LduW8rygYBdd8BrS5el2zjGvI7Dtyc/edit#heading=h.epyavtxljcb2) |
-| Task Board      | TBD |
+| Task Board      | [Board](https://gitlab.com/gitlab-org/gitlab/-/boards/3766722) |
 
 ## Business Goal
 
