@@ -186,9 +186,27 @@ We encourage performance improvements to be broken down. Improve where we can an
 
 [^2]: Our current Browser Rendering targets for [Largest Contentful Paint (LCP)](https://web.dev/lcp/) and [Total Blocking Time (TBT)](https://web.dev/tbt/) are based on results of [SiteSpeed](https://gitlab.com/gitlab-org/quality/performance-sitespeed) being run against a [10k-user reference environment](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html) under lab like conditions. This run happens nightly and results are outputted to the [wiki on the GPT project](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/SiteSpeed/10k).
 
-### UX debt
+### UX
 
-Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~"type::bug"` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~severity::3`, because [MVCs](/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
+#### SUS-impacting
+Some UX-related issues have been identified as impacting our [System Usability Scale (SUS) score](/handbook/engineering/ux/performance-indicators/system-usability-scale/), which is a focus in our [three-year strategy](https://about.gitlab.com/company/strategy/#three-year-strategy). These issues have a severity label applied *without* an accompanying `~"type::bug"` label. We identify them with at least one of the following labels:
+
+- `~Actionable Insight`
+- `~Low SUS Score`
+- `~UX scorecard-rec`
+- `~cm-scorecard-rec`
+- `~UX debt`
+- `~UI polish`
+- `~accessibility`
+- `~VP-UX Dogfooding`
+- `~learnability`
+- `~UI text`
+
+Additionally, we include UX bugs (identified with *both* the `~UX` `~"type::bug"` labels) in our list of SUS-Impacting issues.
+
+#### UX debt
+
+As noted above, issues labeled as `~UX Debt` also have a severity (and additionally priority) label applied *without* an accompanying `~"type::bug"` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~severity::3`, because [MVCs](/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems. If you find yourself creating a UX debt issue that is higher than `~severity::3`, please talk to your stage group team about reincorporating that issue into the MVC.
 
 ### Transient bugs
 
