@@ -174,7 +174,7 @@ This is an event that we have created, own registration and arrange speaker/venu
 
 #### Partner - MDF (WIP)
 
-This is for an activity that our partner is executing utilizing MDF Funds. We track membership, but the partner, not GitLab follows up with these leads. Exact process is WIP, see more details [here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-only-campaigns---mdf-funded).
+This is for an activity that our partner is executing utilizing MDF Funds. We track membership, but the partner, not GitLab follows up with these leads. Exact process is WIP, see more details [here](/handbook/marketing/channel-marketing/partner-campaigns/).
 
 **Bizible:** This is tracked as an _offline_ channel 
 
