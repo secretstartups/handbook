@@ -83,6 +83,7 @@ Marketo program template to be created...
 
 ### Step 4: Update SFDC Campaign
 Go to SFDC and search for the name of your program. 
+- Update `Campaign Type Details` to reflect the [type of MDF campaign](/handbook/marketing/channel-marketing/#demand-generation-activities-eligible-for-mdf) it is.  
 - Change the `Campaign Owner` to your name
 - Update `Large Bucket` based on [criteria](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
 - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
