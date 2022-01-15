@@ -50,10 +50,10 @@ You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builde
 1. Once submitted, Marketo then appends that value to the `CRM Partner ID (lookup)` and `Vartopia Partner Account ID` fields
 1. Marketo processes the lead and sends the trial activation key via email to the prospect
 1. Marketo [suspends emails](/handbook/marketing/channel-marketing/partner-campaigns/#email-management) being sent from GitLab to prospect
-1. Marketo sends email alert to partner team and syncs lead to SFDC (Salesforce.com)
+1. Marketo sends email alert to partner team and syncs lead to SFDC
 1. !!!`Lean Data: PLEASE ENTER DESCRIPTION OF WORK HERE @bpeterson` LeanData picks up the lead and assigns to the CAM
-1. !!!!Vartopia picks up lead and assigns to partner
-1. !!!Lead/Contact fields for Partner information are automatically populated by LeanData??
+1. Vartopia picks up lead and assigns to partner based on ID
+1. Lead/Contact fields for Partner information are automatically populated
 1. `Vartopia Lead Management: @cfarris`
 
 
@@ -63,7 +63,7 @@ You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builde
 There is no marketo program or SFDC campaign setup necessary to track self-managed trials. Every partner trial campaign can utilize setup from `Partner - Trial - Self-managed` campaign, without making any changes. Follow [directions above](/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners) to understand what form to use and what processes to follow.
 
 ## Joint Marketing Campaign Set Up
-Follow directions on [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The main difference is updating the correc tokens for partner tracking.
+Follow directions on [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The main difference is updating the correct tokens for partner tracking.
 
 ## MDF funded Campaigns
 These campaigns follow their own processes not found on the campaigns-and-programs page. 
