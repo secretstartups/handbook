@@ -121,7 +121,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 
 #### Presentation
 
-Use presentations to document everything people should know about your group. We suggest that the slides start with the top 1-3 highlights or top of mind updates that are relevant across functions, followed by additional information. These presentations are for attendees to review and generate questions from for the call, and attendees will often have [low context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication) around your function or team. 
+Use presentations to document everything people should know about your group. We suggest that the slides start with the top 3-5 highlights or top of mind updates that are relevant across functions, followed by additional information. These presentations are for attendees to review and generate questions from for the call, and attendees will often have [low context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication) around your function or team. 
 
 You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. 
 
