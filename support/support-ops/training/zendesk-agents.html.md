@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: 'Zendesk Agent Signatures Training'
+title: 'Zendesk Agent Training'
 category: Zendesk
-description: 'Training documentation concerning Zendesk Agent Signatures'
+description: 'Training documentation concerning Zendesk Agents'
 ---
 
 ## On this page
@@ -15,17 +15,50 @@ description: 'Training documentation concerning Zendesk Agent Signatures'
 
 This training material will cover the following topics:
 
-* A broad overview of what Zendesk agent signatures are.
+* A broad overview of what the zendesk-agents project is.
+* Managing Zendesk Global support agents via the sync repo.
 * Managing Zendesk agent signatures via the UI.
-* Managing Zendesk agent signatures via the sync repo.
-* GitLab Support Ops change management process for Zendesk agent signatures.
+* Managing Zendesk US Federal agent signatures via the sync repo.
+* GitLab Support Ops change management process for zendesk-agents.
 
-## What are agent signatures
+## What is zendesk-agents
 
-Signatures are text added to outgoing email messages or tickets. In the realm of
-Zendesk and GitLab, we manage all agent signatures to ensure consistency between
-agents. This is accomplished via the agent-signatures repos (see
-[Useful links](#useful-links) down below).
+[zendesk-agents](https://gitlab.com/gitlab-com/support/support-ops/zendesk-agents)
+is a project that runs a daily CI/CD schedule (at midnight UTC) to update
+support agents within Zendesk. This manages the following:
+
+* Agent name
+* Agent default group
+* Agent groups
+* Agent tags
+* Agent signature
+* Agent gitlab.com user ID (Zendesk custom user field)
+* Agent gitlab.com username (Zendesk custom user field)
+
+## Managing Zendesk Global support agent signatures via the sync repo
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/hk4mX6yYAiE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+The preferred method for managing Zendesk support agents is via the sync repos
+(see [Useful links](#useful-links) down below).
+
+See the above video for how this repo works.
+
+## Managing Zendesk US Federal agent signatures via the sync repo
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/TSnEJK5Zvmw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+The preferred method for managing Zendesk agent signatures is via the sync
+repos (see [Useful links](#useful-links) down below). This would mean managing
+the messaging or context with agent signatures is going to be done via merge
+requests to the repo itself, normally the agent_signatures.rb file.
+
+See the above video for how this repo works and how to make changes to the agent
+signature formatting itself.
 
 ## Managing Zendesk agent signatures via the UI
 
@@ -40,21 +73,6 @@ will save these changes.
 
 **Note**: This should not be done without very good reason. We maintain agent
 signatures via sycn repos for good reason.
-
-## Managing Zendesk agent signatures via the sync repo
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/uTXrF9Y_Cxw" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-The preferred method for managing Zendesk agent signatures is via the sync repos
-(see [Useful links](#useful-links) down below). This would mean managing the
-messaging or context with agent signatures is going to be done via merge
-requests to the repo itself, normally the
-[agent_signatures.rb file](https://gitlab.com/gitlab-com/support/support-ops/agent-signatures/-/blob/master/lib/agent_signatures.rb).
-
-See the above video for how this repo works and how to make changes to the
-agent signature formatting itself.
 
 ## Change management
 
@@ -205,5 +223,5 @@ After adding it in the Support Week in Review, you then want to cross-link
 
 ## Useful links
 
-* [Zendesk Global agent-signatures repo](https://gitlab.com/gitlab-com/support/support-ops/agent-signatures)
+* [zendesk-agents repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-agents)
 * [Zendesk US Federal agent-signatures repo](https://ops.gitlab.net/gitlab-com/support/zendesk-us-federal/agent-signatures)
