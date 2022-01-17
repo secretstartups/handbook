@@ -67,6 +67,7 @@ Before creating the request please consider the following points:
 - For trial licenses where the `Expiry Date` is more than 30 calendar days from the Start date, a Sales Manager approval is required. When asking for approval, please also consider the time between waiting for approval and the license period.
    - For example, if the requested trial license is for 33 days, and the wait time for approval could be up to 5 days. By the time the approval is given, perhaps the request doesn't need an Approval in the first place.
 Add the `Manager Approval::Required` label to the issue and ping the requester to ask for approval from their manager.
+> If you notice several recent requests for temporary keys, consult with a support manager on how to proceed.
 - It is fine to set the `Users in license` number to what is needed.
 - Set `Starts at` to the current date.
 - You can follow the same process as re-issuing a license. 
