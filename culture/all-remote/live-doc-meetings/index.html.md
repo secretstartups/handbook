@@ -20,9 +20,7 @@ twitter_creator: "@gitlab"
 
 ![GitLab collaboration](/images/all-remote/gitlab-collaboration.jpg){: .medium.center}
 
-On this page, we're detailing how to create efficient, transparent, documentation-based meetings. These meetings are not exclusive to remote teams. They increase cohesion, discipline, and transparency in all meetings regardless of the work environment. 
-
-For a deeper dive on how GitLab thinks about and implements all facets of meetings in a remote work environment, visit our [all-remote meetings guide](/company/culture/all-remote/meetings/). 
+On this page, we're detailing how to create efficient, transparent, documentation-based meetings. These meetings increase cohesion, discipline, and transparency in all meetings regardless of the work environment. 
 
 ## What is a live doc meeting?
 
@@ -99,6 +97,7 @@ Here is a [sample template for a live doc meeting](https://docs.google.com/docum
 ## How can I view a live doc meeting recording?
 
 
+For a deeper dive on how GitLab thinks about and implements all facets of meetings in a remote work environment, visit our [all-remote meetings guide](/company/culture/all-remote/meetings/). 
 
 - - -
 
