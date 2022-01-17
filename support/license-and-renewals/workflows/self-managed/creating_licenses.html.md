@@ -39,11 +39,11 @@ Zuora subscription ID and Zuora subscription name.
 
 We frequently receive requests to forward a license to a contact who is not associated with a subscription in Customers Portal.
 We can proceed with the request without question when the request is made:
-- Through an [internal request](/handbook/source/handbook/support/license-and-renewals/workflows/working_internal_requests.html)
+- Through an [internal request](/handbook/support/license-and-renewals/workflows/working_internal_requests.html)
 - By a contact who is linked to the subscription
 
 In other cases, including requests from a reseller, we first need to verify this request by asking for 
-[proof that they are associated to the subscription](/handbook/source/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html). 
+[proof that they are associated to the subscription](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html). 
 Note that for **reseller requests**, the proof needs to be sent from the *email address of the license recipient* in the request.
 
 Once we have received the requested proof, we can proceed to forward or resend the license.
