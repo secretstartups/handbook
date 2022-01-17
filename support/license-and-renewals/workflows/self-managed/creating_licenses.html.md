@@ -35,13 +35,25 @@ When an existing license isn't available to duplicate, instead select,
 `Add New Offline License` and fill in all of the above mentioned fields, along with the
 Zuora subscription ID and Zuora subscription name.
 
-##### Resend, Forward the license: 
+### Resend or Forward a license
 
-Find the license by following steps 1,2 mentioned in the above section, and: 
--  To resend the license to the end-user use the `Resend to customer via email` function. 
--  To forward the license to a different address using the `Forward license email` function. 
+We frequently receive requests to forward a license to a contact who is not associated with a subscription in Customers Portal.
+We can proceed with the request without question when the request is made:
+- Through an [internal request](/handbook/source/handbook/support/license-and-renewals/workflows/working_internal_requests.html)
+- By a contact who is linked to the subscription
+
+In other cases, including requests from a reseller, we first need to verify this request by asking for 
+[proof that they are associated to the subscription](/handbook/source/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html). 
+Note that for **reseller requests**, the proof needs to be sent from the *email address of the license recipient* in the request.
+
+Once we have received the requested proof, we can proceed to forward or resend the license.
+
+- Find the license by following steps 1 and 2 mentioned in the [above section](#overview). 
+- To resend the license to the same user, click the `Resend to customer via email` button on the right. (Looks like an envelope icon)
+- To forward the license to a different address using the `Forward license email` function. 
     1. Navigate to the `Forward license email` tab. 
-    2. Enter the `Destination email address` and click the **Forward** button. **NOTE** It is currently not possible to copy (cc) or send to multiple contacts at once.
+    1. Enter the `Destination email address`. **NOTE** It is currently not possible to copy (cc) or send to multiple contacts at once.
+    1. Click the **Forward** button.
 
 ### Trial License or Temporary Key
 
