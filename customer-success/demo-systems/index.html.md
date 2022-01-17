@@ -116,9 +116,9 @@ These instructions are for training class organizers, instructors, and workshop 
 
 ### Invitation Code Redemption
 
-> **Warning for GitLab team members:** This process generates new credentials that are used for accessing the GitLab Demo Portal and/or GitLab Omnibus instance that you may already be authenticated to using your administrative user account. These instructions should be performed in an incognito browser window to avoid user authentication session conflicts.
+> **Warning for GitLab team members:** This process generates new credentials that are used for accessing the GitLab Demo Portal and/or GitLab Omnibus instance that you may already be authenticated to using your administrative user account.
 
-1. Visit [https://gitlabdemo.com](https://gitlabdemo.com) and click the **Redeem Invitation Code** button.
+1. In an incognito browser window, visit [https://gitlabdemo.com](https://gitlabdemo.com) and click the **Redeem Invitation Code** button.
 1. Type in the 8-character invitation code that was provided by your instructor or in your course materials.
 1. Press **Redeem and Create Account**.
 1. You will see new credentials that have been generated. Click the red **Download Credentials** button or copy your credentials into your password manager or a temporary text file on your desktop.
