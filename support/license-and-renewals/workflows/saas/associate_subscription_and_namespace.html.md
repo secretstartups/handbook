@@ -53,7 +53,7 @@ To fix this, we should **completely unlink the GitLab.com account with the custo
 
 ## Force Associate SaaS Subscription  
 
-<i class="fab fas fa-exclamation-triangle fa-fw"></i> **NOTE**: Soon to be [deprecated](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#mechanizer-notice)
+<i class="fas fa-exclamation-triangle color-orange"></i> **NOTE**: Soon to be [deprecated](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#mechanizer-notice)
 
 While handing the subscription provisioning requests, we'll face some cases where it's not possible to associate the subscription by following the normal procedure(the workflow mentioned above) using the customer portal admin 
 
