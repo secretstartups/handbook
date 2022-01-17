@@ -97,10 +97,16 @@ We also have a `support-openshift` project created for the purpose of creating O
 
 Please use the `support-resources` GCP project or your [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) GCP project to create a GCP Kubernetes (GKE) cluster. If you are using the `support-resources` GCP project you can create a GKE cluster manually from the console or you can use the [Support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master) automation project to streamline your [GKE cluster creation](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master#how-do-i-spin-up-a-gke-cluster) and there's even an option to [create a GKE cluster that already has GitLab installed through helm chart](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master#how-do-i-spin-up-a-gke-cluster-with-gitlab-installed-through-helm-chart).
 
+**Note:** If you are using GKE to test GitLab Runeners, it is recomended to use [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started). GitLab Runners required the use of [RBAC roles in GCP](https://cloud.google.com/kubernetes-engine/docs/how-to/role-based-access-control).  The `support-resources` GCP project  does not allow the user enough permision to create the required roles.
+
 <details>
-<summary>Open me for instructions on how to do so</summary>
+<summary>Open me for instructions on how manually create GKE on your own project.</summary>
 <div markdown="1">
-Select Kubernetes Engine from the dashboard, and then Create Cluster. Enter a name, select a zone, and choose the default static master version unless you have a specific reason to use an alternative version.  It's important to use a server version that will [match your kubectl client version](https://kubernetes.io/docs/tasks/tools/install-kubectl/#before-you-begin).
+
+1. Ensure you have selected your own project at the top of [GCC](ttps://console.cloud.google.com).
+1. Open the navigation menu at the top of [GCP](ttps://console.cloud.google.com)
+1. Select **Kubernetes Engine > Create Cluster** from the dashboard. 
+1. Enter a name, select a zone, and choose the default static master version unless you have a specific reason to use an alternative version.  It's important to use a server version that will [match your kubectl client version](https://kubernetes.io/docs/tasks/tools/install-kubectl/#before-you-begin).
 
 All of the remaining options can be left as their default settings unless you have a need to add customization to your cluster.  Of note, the Maximum Pods per Node option [directly correlates with the CIDR assignment](https://cloud.google.com/kubernetes-engine/docs/how-to/flexible-pod-cidr?_ga=2.246280516.-1734733517.1581009580) of your node(s).
 
