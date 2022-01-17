@@ -24,6 +24,10 @@ On this page, we're detailing how to create efficient, transparent, documentatio
 
 For a deeper dive on how GitLab thinks about and implements all facets of meetings in a remote work environment, visit our [all-remote meetings guide](/company/culture/all-remote/meetings/). 
 
+## What is a live doc meeting?
+
+A live doc meeting is just what it sounds like...it's a work-related meeting where you document everything live (yes, everything)! Start documenting before the meetings begins by attaching a live doc agenda to the calendar invite.
+
 ## Live doc meetings
 
 ![GitLab all-remote mentor](/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg)
