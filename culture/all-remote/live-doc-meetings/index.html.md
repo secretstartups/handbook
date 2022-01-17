@@ -28,6 +28,10 @@ For a deeper dive on how GitLab thinks about and implements all facets of meetin
 
 A live doc meeting is just what it sounds like...it's a work-related meeting where you document everything live (yes, everything)! Start documenting before the meetings begins by attaching a live doc agenda to the calendar invite.
 
+## What is meant by 'live document'?
+
+A live document is a document that is continually being edited and updated. Examples could include a shared Google doc, whiteboard being used by a team for collaboration, or [GitLab's handbook](/handbook/).
+
 ## Live doc meetings
 
 ![GitLab all-remote mentor](/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg)
