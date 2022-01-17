@@ -189,14 +189,13 @@ Too, consider reading GitLab's [guide to evaluating a remote job](/company/cultu
 All-remote forces you to do things that you [should do anyway](/company/culture/all-remote/management/), but more quickly and more intentionally. That's a great backdrop for remote interns, who stand to gain not only work experience, but experience working in an environment where you're in control of your [space](/company/culture/all-remote/workspace/), your [time](/company/culture/all-remote/people/#those-who-value-flexibility-and-autonomy), and your [approach](/handbook/values/#give-agency).
 
 ## What are the best ways to stay connected with remote interns?
-
 If you don't hire your remote intern/s at the end of their internship experience, be sure to sweeten their transition out by ending well.
 
 1. [Say Thanks](handbook/communication/#say-thanks) for the work they contributed during their internship. At GitLab, we even have a `#thanks` Slack channel! 
 1. Acknowledge intern contributions in team meetings, issues, company calls, 1-1 meetings.
 1. To thank someone who is not a team member at GitLab, you can [nominate them for community swag](/handbook/marketing/community-relations/code-contributor-program/community-appreciation/).
 
-Don't forget to gather information they are willing to share such as their email address, LinkedIn profile, or handles for other social channels so you can stay in touch. Who knows...maybe a position will come available that you can hire them for!
+Don't forget to gather information they are willing to share such as their email address, LinkedIn profile, or handles for other social channels so you can stay in touch. Who knows...maybe a [position at GitLab](/jobs/) will come available that you can hire them for!
 
 ## Contribute your lessons
 
