@@ -79,6 +79,12 @@ Managing a remote internship is similar to managing in-person. We've created an 
 
 ## What are the best tools for managing a remote internship?
 
+Remote internships are fertile ground for communication breakdowns. Intentionally prioritizing strong communication lines, creating a psychologically safe space for interns to learn, and hiring the right interns will ensure a positive and successful experience.
+
+### Creating good communication
+
+There is much to glean from [GitLab's approach to meetings](/company/culture/all-remote/meetings/), and a well-organized internships will also incorpirate communication strategies such as [scheduled AMAs, group conversations, and Key Reviews](/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings).
+
 ### Creating psychological safety
 
 In colocated settings, interns can be physically sat beside a mentor, ready and able to answer a stream of questions throughout the internship period. The physical proximity typically creates psychological safety for the intern, enabling them to ask questions as they arise without an overarching fear that they are imposing.
