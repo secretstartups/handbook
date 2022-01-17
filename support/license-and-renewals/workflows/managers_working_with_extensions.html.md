@@ -28,7 +28,7 @@ graph TD
     C-->T[Is this request for a trial?]
     T-->|No|G[Is the customer in the grace period?]
     T-->|Yes|SA[Is this a sales asisted trial]
-    SA-->|Yes|G
+    SA-->|Yes|Exp
     SA-->|No|No
     G-->|Yes|H[Is the grace period expiring in more than 24h?]
     G-->|No| Exp[Is the plan/lic expiring in more than 24h?]
