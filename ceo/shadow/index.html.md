@@ -1106,3 +1106,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-11-30 | 2021-12-10 | [Amy Qualls](https://gitlab.com/aqualls) | Sr. Technical Writer | |
 | 2021-12-06 | 2021-12-17 | [James Heimbuck](https://gitlab.com/jheimbuck_gl) | Sr. Product Manager | |
 | 2021-12-13<br>2022-01-03 | 2021-12-17<br>2022-01-07 | [Cynthia Ng](https://gitlab.com/cynthia) | Sr. Support Engineer | [CEO Shadow Reflection](https://wp.me/pHQ83-1Id) |
+| 2022-01-04 | 2022-01-14 | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) | Learning & Development Manager | |
