@@ -8,7 +8,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 
 ## LAB 7- CREATE A NEW BOARD
 
-1. Navigate to Groups -> Click on the groups** 
+1. Navigate to Groups -> Click on the groups
 2. Navigate to your test group > Select your sub-group 
 3. In the left hand pane hover over the Issues section and select **Boards** from the dropdown menu.  
 4. In the fitler menu at the top of the board section, select the **Development** drop down menu and click on **Create new board**  
