@@ -55,6 +55,10 @@ Remote internships  are unique in one primary way: there is no physical office i
 
 This is of particular importance given that interns are usually inexperienced in the workplace. Internships have historically been used to introduce people to the working world. Foundational communication skills are learned in internships, as are conventions, norms, and expectations. They serve as an opportunity for an intern to ask a multitude of questions, given that practically everything about the experience is new.
 
+## What are the drawbacks of remote internships?
+
+Like any remote-working situation, remote internships have multiple [advantages](/company/culture/all-remote/benefits/), but remote work doesn't suit everyone. Depending on their lifestyle, work preferences, and drive, [a remote internship can have disadvantages](/company/culture/all-remote/drawbacks/#remote-work-challenges-and-solutions-for-employees) as well. We have outlined potential challenges and solutions for remote internships in our [all remote guide here](company/culture/all-remote/drawbacks/#remote-work-challenges-and-solutions-for-employees).
+
 ## Employer considerations
 
 ![GitLab values illustration](/images/all-remote/gitlab-values-tanukis.jpg){: .medium.center}
