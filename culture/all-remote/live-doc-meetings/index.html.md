@@ -80,6 +80,26 @@ Improving your meeting hygiene can start by shifting to live doc meetings. It is
 
 Not all meetings are inherently bad. We encourage managers to establish regular 1:1 meetings with their team, for example. Many meetings can be avoided by understanding how to [work well asynchronously](/company/culture/all-remote/asynchronous/). GitLab has a [documented approach to efficient, productive 1:1s](/handbook/leadership/1-1/) that we welcome other companies to implement, and contribute to if they have suggestions for improvement.
 
+## How can I participate in a live doc meeting?
+
+There are two ways to participate in a live doc meeting: either synchronously, like when [joining a live Zoom call](/handbook/communication/#video-calls), or [asynchronously](/company/culture/all-remote/asynchronous/). 
+
+## When are live doc meetings held?
+
+Live doc meetings are usually held in the host's time zone. However, leaders should [rotate meetings to accommodate a more diverse array of time zones](/company/culture/all-remote/asynchronous/#remove-time-zone-bias) as well as record them so that others can watch at a later time.
+
+## Where are live doc meetings held?
+
+Live doc meetings can happen fully in-person, fully- online, or a on hybrid call--which is a blend of both. It's best to have everyone on a level playing field for communication and discussion, so [hybrid calls should be avoided](/company/culture/all-remote/meetings/#avoid-hybrid-calls). If a hybrid call is necessary, have participants use their own equipment (camera, headset, screen) to avoid audio problems from delays and feedback. 
+
+## What is the agenda for a live doc meeting?
+
+Here is a [sample template for a live doc meeting](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit). Be sure to attach a link to your live doc to every calendar invite. Include the agenda for the meeting, permissions so everyone can contribute, and instructions for engagement expected from team members so they understand how to contribute whether they attend synchronously or asynchronously.  
+
+## How can I view a live doc meeting recording?
+
+
+
 - - -
 
 Return to the main [all-remote page](/company/culture/all-remote/).
