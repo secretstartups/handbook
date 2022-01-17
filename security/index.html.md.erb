@@ -303,6 +303,14 @@ You can then choose to use this new service account via the option under **Advan
 [0-day attack]: https://en.wikipedia.org/wiki/Zero-day_(computing)
 [email to wire cash]: http://blog.centrify.com/ceo-fraud-business-email-compromise/
 
+### Personal Access Tokens
+
+1. When creating a [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html), be sure to choose the appropriate [scopes](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html) that only have the permissions that are absolutely necessary.
+1. Oftentimes a [Project Access Token](https://docs.gitlab.com/ee/user/project/settings/project_access_tokens.html) might be sufficient instead of a Personal Access Token. Project Access Tokens have a much more limited scope and should be preferred over Personal Access Tokens whenever possible. 
+1. Consider [setting an expiration date for your personal access tokens](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html#when-personal-access-tokens-expire), if appropriate for the use case.
+1. Be mindful to keep these personal access tokens secret. Be particularly careful not to accidentally commit them in configuration files.
+1. If you believe a personal access token has been leaked, revoke it immediately (if possible) and [contact the security team](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html).
+
 ## GitLab Password Policy Guidelines
 
 Passwords are one of the primary mechanisms that protect GitLab information systems and other resources from unauthorized use. Constructing secure passwords and ensuring proper password management is essential. GitLab's password guidelines are based, in part, on the recommendations by [NIST 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html). To learn what makes a password truly secure, read this [article](https://medium.com/peerio/how-to-build-a-billion-dollar-password-3d92568d9277) or watch this [conference presentation](https://www.youtube.com/watch?v=vudZnjp5Uq0&t=19183) on password strength.
