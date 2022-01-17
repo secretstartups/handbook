@@ -17,8 +17,6 @@ description: How to use the mechanizer for L&R requests.
 
 This workflow details how to use the various automated forms that utilize the [Mechanizer](https://gitlab.com/gitlab-com/support/toolbox/mechanizer) for GitLab.com account related tasks.  The forms may be found in [hosted on Gitlab Pages here](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/) and team members should have access.
 
-<i class="fas fa-exclamation-triangle color-orange"></i> **NOTE**: Soon to be [deprecated](#mechanizer-notice)
-
 <div class="panel panel-gitlab-orange">
 **Mechanizer Deprecation Notice**
 {: .panel-heading #mechanizer-notice}

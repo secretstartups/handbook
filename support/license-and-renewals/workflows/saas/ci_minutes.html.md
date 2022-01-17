@@ -55,6 +55,8 @@ The following process will remove the restrictions for using CI minutes for grou
 
 ### Using Mechanizer
 
+> <i class="fas fa-exclamation-triangle color-orange"></i> **NOTE**: Soon to be [deprecated](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#mechanizer-notice)
+
 Use the form named [enable Ci Minutes](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/enable_ci_minutes.html). 
 Choose if the group is a consumption group and enter the namespace information.
 
