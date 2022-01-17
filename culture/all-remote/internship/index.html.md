@@ -26,9 +26,9 @@ There are many reasons why remote internships are a value-add to any organizatio
 
 ### Competitive hiring advantage
 
-We believe that all-remote is the [future of work](/company/culture/all-remote/vision/), and the ability to work from wherever one is most fulfilled will soon become the norm. [Companies](/company/culture/all-remote/jobs/) which are built to support remote work (e.g. firms which create digital products), yet refuse to offer such flexibility, will be in low demand by top talent. This includes the most promising interns.
+All-remote is the [future of work](/company/culture/all-remote/vision/). The ability to learn and work from wherever one is most fulfilled will soon become the norm. [Companies](/company/culture/all-remote/jobs/) which are built to support remote work (e.g. firms which create digital products), yet refuse to offer such flexibility, will be in low demand by top talent. This includes the most promising interns.
 
-Said another way, offering remote internships today provides a competitive advantage to attracting ambitious and capable interns, but it will soon [diminish](/company/culture/all-remote/vision/#diminishing-competitive-advantage) into a practical requirement.
+Offering remote internships provides a competitive advantage to attracting ambitious and capable interns, but it will soon [diminish](/company/culture/all-remote/vision/#diminishing-competitive-advantage) into a practical requirement.
 
 ### Diversity
 
@@ -66,6 +66,18 @@ Like any remote-working situation, remote internships have multiple [advantages]
 It is unlikely that an intern will be equipped to be a [manager of one](/handbook/values/#managers-of-one), and companies should expect interns to require a great deal of hand-holding.
 
 Learn more about the importance of clear [communication](/handbook/communication/), intentional [onboarding](/company/culture/all-remote/learning-and-development/#how-do-you-onboard-new-team-members), and utilizing [asynchronous workflows](/company/culture/all-remote/asynchronous/) in a Harvard Business School article entitled "[Best practices for creating a successful virtual internship](https://www.hbs.edu/recruiting/blog/post/best-practices-for-creating-a-successful-virtual-internship)."
+
+## What are the best practices for managing a remote internship?
+
+Managing a remote internship is similar to managing in-person. We've created an [in-depth guide to being a great remote manager](/company/culture/all-remote/being-a-great-remote-manager/#traits-of-a-great-remote-manager) which includes focusing on:
+
+* [Self-awareness](/company/culture/all-remote/being-a-great-remote-manager/#self-awareness) for relationship building 
+* Employing [empathy and kindness](/company/culture/all-remote/being-a-great-remote-manager/#empathy)
+* Overcoming ego to be a [servant-leader](/company/culture/all-remote/being-a-great-remote-manager/#servant-leader)
+* Communicating in great [detail](/company/culture/all-remote/being-a-great-remote-manager/#detailed)
+* Modeling [trustworthiness](/company/culture/all-remote/being-a-great-remote-manager/#detailed)
+
+## What are the best tools for managing a remote internship?
 
 ### Creating psychological safety
 
