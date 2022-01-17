@@ -124,6 +124,14 @@ While not necessarily required, organizations should consider a week-one in-pers
 
 A final week of in-person interaction may be useful for retrospectives and potential next steps.
 
+## What are the challenges of managing a remote internship?
+
+Because remote internships are learning-based and fast-paced, there are some [red flags to watch out for](/company/culture/all-remote/being-a-great-remote-manager/#red-flags-to-watch-out-for):
+
+* [Loneliness and isolation](/company/culture/all-remote/being-a-great-remote-manager/#loneliness-and-isolation)--be sure to set up a regular communication schedule with your intern/s.
+* [Feeling left out](/company/culture/all-remote/being-a-great-remote-manager/#feeling-left-out)--be sure to create ways for your intern/s to connect with both you and the team.
+* [Overworking](/company/culture/all-remote/being-a-great-remote-manager/#overworking)--be sure to model and encourage work/life boundaries.
+
 ### Managing expectations
 
 It's important for organizations to remember that remote interns are essentially learning **two** fundamental things: the job itself, and how to work well [with no office](/company/culture/all-remote/getting-started/). In turn, it's important to calibrate expectations and what is measured.
