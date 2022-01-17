@@ -77,6 +77,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | Clearbit | x | x | x | x / x | | No | Tier 3 |
 | [CustomersDot](https://customers.gitlab.com/) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `customers` | Product | 24h / x |  No | Tier 1 |
 | [Demandbase](https://www.demandbase.com/) | [Snowflake task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `demandbase` | `demandbase` | Marketing | 24h / x |  No | Tier 2 |
+| [EdCast](https://www.edcast.com//) | [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/) | `tap_edcast` | `edcast` | People | 24h / x |  No | Tier 3 |
 | [Gitter](https://gitter.im/) | x | `gitter` | x | x | x |  No | Tier 3 |
 | [GitLab.com](/handbook/business-technology/data-team/platform/pipelines/#gitlab-postgres-database) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_dotcom` | Product, Engineering | 6h / x |  No | Tier 1 |
 | GitLab Ops DB | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_ops` | Engineering | 6h / x |  No | Tier 1 |

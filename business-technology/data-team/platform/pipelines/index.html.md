@@ -543,3 +543,24 @@ The ZenGRC data source uses a singer tap we developed in [gitlab-data/tap-zengrc
 Currently this tap extracts a select number of objects from ZenGRC. These are listed in the [stream types in `tap_zengrc/tap.py`](https://gitlab.com/gitlab-data/tap-zengrc/-/blob/main/tap_zengrc/tap.py#L20-26). 
 
 This tap was created using [Meltano SDK](https://sdk.meltano.com/en/latest/) and the [ZenGRC API](https://gitlab.api.zengrc.com/#/). [Environment variables for username and password](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L29) `$ZENGRC_USERNAME` and `$ZENGRC_PASSWORD`are required to run this in Meltano.
+
+## EdCast
+
+The `EdCast` data source uses a singer tap we developed in [gitlab-data/tap-edcast](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-edcast) and is run in our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L121) schedule at `07:00:00 UTC`.
+
+The streams we currently loaded are:
+* [datasets](https://docs.edcast.com/docs/datasets-definition)
+* [300121_Glue_ Groups [G][3] Group Performance Data Explorer](https://docs.edcast.com/docs/datasets-definition#groups-g-group-performance-data-explorer)
+
+[Environment variables](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L71) for the `tap-edcast` are:
+* $TAP_EDCAST_USERNAME
+* $TAP_EDCAST_PASSWORD
+* $TAP_EDCAST_START_DATE
+* $TAP_EDCAST_END_DATE
+* $TAP_EDCAST_URL_BASE
+
+and they are required to run this in Meltano. More details about `tap-edast` setup and tunning with detailed explanation are under [edcast-setup](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/README.md#edcast-setup) page.
+
+A graphical representation of data flow for `tap-edcast` looks like:
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/8e6593e1-9be4-41ae-8d28-22c460639ab7" id="1R4EMPLKFtbd"></iframe></div>

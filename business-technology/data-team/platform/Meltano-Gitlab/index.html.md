@@ -25,7 +25,7 @@ Currently 3 project repository is in place for Meltano.
 | SNo.  | Repository | Description | 
 | - | ---------- | ----------- |
 | 1 | [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano) | Contains infrastructure related code i.e. it hold kubernetes pods creation information in `gitlab-app.yaml` and configuration in `meltano.yml`. | 
-| 2 | [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps) |  This is primary repository which holds the TAP source code. It has at the moment source code for `TAP-XACTLY` and `TAP-ADAPTIVE ` | 
+| 2 | [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps) |  This is primary repository which holds the TAP source code. It has at the moment source code for `TAP-XACTLY`,`TAP-ADAPTIVE` and `TAP-EDCAST` | 
 | 3 | [tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc) | This project which hold tap-zengrc source code.  | 
 
 
@@ -202,10 +202,89 @@ At this stage whole of production environment is up and running of meltano in GK
 
 ## Development Guidelines for creation of branch and adding taps. 
 
-For new developed taps, we will create a new repository per tap, like the tap-zengrc or under different folder [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps).
+For new developed taps, we will create a new repository per tap, like the `tap-zengrc` or under different folder [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps).
 Once the development is done create a branch from the [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano), to update what extractors are being used, update the `meltano.yml` file. Add a git tag after the change is merged and update the gitlab-app.yml kubernetes manifest to point to the new image.
 
 Meltano uses Airflow internally and we use Cloud SQL as the metadata database. The [`meltano` database](https://console.cloud.google.com/sql/instances/meltano/overview?project=gitlab-analysis).
+
+### Development guidelines and troubleshooting
+
+During the devlopment of `tap-edcast` found a couple of interesing places which worth consider as a possible points for discussion.
+
+If you want to re-use hands-on script used for `tap-edcast` development, testing and deployment, refer to [help_scripts/meltano.sh](https://gitlab.com/rbacovic/data_misc_scripts/-/blob/main/help_scripts/meltano.sh).
+#### Schema issue
+
+When you have value in the schema that can have more than one data type, it is difficult to make it work. Let's say, we have columns retrieved from API that can contain an empty string or number, for instance: ['',1,2,3,4].
+If you put schema description like:
+```bash
+"Group ID": {
+     "type": [
+         "number",
+         "null"
+     ]}
+ ```
+this will raise an error, if you got an empty string ('') as a return value from the `RESTful API`.
+
+**Solution:**
+use `anyOf` keyword when defining the schema structure. You should find more details under [swagger specification: oneof-anyof-allof-not](https://swagger.io/docs/specification/data-models/oneof-anyof-allof-not/). This is how your specification should look, if you want to avoid errors:
+
+```bash
+"Group ID": {
+ "anyOf": [
+     {
+         "type": "number"
+     },
+     {
+         "type": "string",
+         "maxLength": 0
+     }
+  ]
+}
+```
+
+#### Target-snowflake issue
+
+When we run our recently developed `tap-edcast` in Meltano and use `target-snowflake`, got the very strange error:
+```bash
+AttributeError: 'SnowflakeDialect' object has no attribute 'driver'
+```
+
+**Solution:** 
+The [`target-snowflake`](https://gitlab.com/meltano/target-snowflake) we are using is obsolete as it uses the old version of `snowflake-sqlachemy`. We upgraded `snowflake-sqlalchemy` library in the project, fork it and make it work. `snowflake-sqlalchemy==1.1.2` was upgraded to `snowflake-sqlalchemy==1.3.3`
+It is located under our new repo for target-snowflake [edcast-target-snowflake](https://gitlab.com/gitlab-data/edcast-target-snowflake)
+
+#### Incremental load
+
+Singer tap (and Meltano as well) provides 2 ways of [replication method](https://github.com/singer-io/getting-started/blob/master/docs/SYNC_MODE.md#replication-method):
+* `INCREMENTAL` and
+* `FULL`
+
+In case you want to avoid overkill with `FULL` load all the time, stick with the incremental load.
+
+**Solution:** 
+If you want to have an incremental load in your stream, it is fairly simple to set up. Got to stream you defined in `streams.py` file in your project and you should have something like:
+```python
+...
+    replication_key = "Time"
+    replicaton_method = "INCREMENTAL"
+...
+```
+With this property, you tell your tap to bookmark and save the last value for the column `Time` and next load to start from that point and move forward. And again, after the load is done keep the latest value of the column `Time` and bookmark it.
+
+#### Primary key definition
+
+Sometimes in your stream(s), you want to avoid duplicate data. What can help you here is to define `PRIMARY KEY`. Under the hood, this is a base for tap (and target later on) to generate a `MERGE` statement _(in case you are using a well-known database from the market)_.
+
+**Note:** this primary key is not a showstopper for the tap if it finds a duplicate, it is more a direction forwarder to the target of how to treat your data during the load.
+
+**Solution:** 
+If you want to have a primary key load in your stream, it is fairly simple to set up. Got to stream you defined in `streams.py` file in your project and you should have something like:
+```python
+...
+    primary_keys = ["ECL ID", "Time", "Group Name"]
+...
+``` 
+where `["ECL ID", "Time", "Group Name"]` are name of your columns in the stream. Primary key is a list and can contain one or more columns in the definition.
 
 
 ## Add extractor, Config variable and schedule to meltano setup to be used by TAPs 
@@ -311,3 +390,4 @@ Follow below steps to copy the meltano.yml to the running container to test the 
 - [tap-xactly](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-xactly) 
 - [tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc)
 - [tap-adaptive](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-adaptive)
+- [tap-edcast](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-edcast)
