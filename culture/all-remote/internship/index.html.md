@@ -18,6 +18,28 @@ twitter_creator: "@gitlab"
 
 On this page, we're detailing considerations for both employee and employer as it relates to [remote internships](/handbook/engineering/internships/) (also referred to as apprenticeships and co-ops).
 
+## What are the benefits of remote internships?
+
+![GitLab collaboration illustration](/images/all-remote/gitlab-collaboration-illustration.jpg){: .medium.center}
+
+There are many reasons why remote internships are a value-add to any organization.
+
+### Competitive hiring advantage
+
+We believe that all-remote is the [future of work](/company/culture/all-remote/vision/), and the ability to work from wherever one is most fulfilled will soon become the norm. [Companies](/company/culture/all-remote/jobs/) which are built to support remote work (e.g. firms which create digital products), yet refuse to offer such flexibility, will be in low demand by top talent. This includes the most promising interns.
+
+Said another way, offering remote internships today provides a competitive advantage to attracting ambitious and capable interns, but it will soon [diminish](/company/culture/all-remote/vision/#diminishing-competitive-advantage) into a practical requirement.
+
+### Diversity
+
+By hiring remote interns, organizations are able to broaden their usual scope and recruit talent from underserved areas of the globe. Cultural and geographic [diversity](/company/culture/inclusion/#fully-distributed-and-completely-connected) is important to long-term success and vibrancy in a company.
+
+### Fresh perspective
+
+Interns are capable of offering valuable perspective. Given that many are only working for a few months, they're able to evaluate an organization with fresh eyes, and they have little to lose by offering [transparent](/handbook/values/#transparency) feedback along the way.
+
+Particularly for interns who are in university, or recently graduated, they may also bring new tools and methodologies to the table.
+
 ## Finding a remote internship
 
 Remote internships are more common than ever, though finding them can be challenging. Below, we're highlighting destinations that feature remote internships, where employers can post and job seekers can apply.
@@ -124,28 +146,6 @@ If possible, avoid time critical work. Great intern projects tend to be items wh
 At GitLab, we make our [strategy](/company/strategy/) and [OKRs](/company/okrs/) (objectives and key results) public, and offer copious context on the question of "[What's it like to work at GitLab?](/jobs/faq/#whats-it-like-to-work-at-gitlab)" This shows respect for job seekers, and it ensures that those who apply resonate with our [values](/handbook/values/).
 
 Hiring remote interns is hard. An organization shouldn't make it harder by concealing their vision and values until *after* an intern is hired. Given the remarkably short duration of the internship experience, it's vital to act [transparently](/handbook/values/#transparency) in order to create as much pre-start alignment as possible.
-
-## Why offer remote internships?
-
-![GitLab collaboration illustration](/images/all-remote/gitlab-collaboration-illustration.jpg){: .medium.center}
-
-Given the above considerations, leaders may wonder why remote internships should be offered.
-
-### Competitive hiring advantage
-
-We believe that all-remote is the [future of work](/company/culture/all-remote/vision/), and the ability to work from wherever one is most fulfilled will soon become the norm. [Companies](/company/culture/all-remote/jobs/) which are built to support remote work (e.g. firms which create digital products), yet refuse to offer such flexibility, will be in low demand by top talent. This includes the most promising interns.
-
-Said another way, offering remote internships today provides a competitive advantage to attracting ambitious and capable interns, but it will soon [diminish](/company/culture/all-remote/vision/#diminishing-competitive-advantage) into a practical requirement.
-
-### Diversity
-
-By hiring remote interns, organizations are able to broaden their usual scope and recruit talent from underserved areas of the globe. Cultural and geographic [diversity](/company/culture/inclusion/#fully-distributed-and-completely-connected) is important to long-term success and vibrancy in a company.
-
-### Fresh perspective
-
-Interns are capable of offering valuable perspective. Given that many are only working for a few months, they're able to evaluate an organization with fresh eyes, and they have little to lose by offering [transparent](/handbook/values/#transparency) feedback along the way.
-
-Particularly for interns who are in university, or recently graduated, they may also bring new tools and methodologies to the table.
 
 ## Employee (intern) considerations
 
