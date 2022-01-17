@@ -177,11 +177,10 @@ At GitLab, we make our [strategy](/company/strategy/) and [OKRs](/company/okrs/)
 
 Hiring remote interns is hard. An organization shouldn't make it harder by concealing their vision and values until *after* an intern is hired. Given the remarkably short duration of the internship experience, it's vital to act [transparently](/handbook/values/#transparency) in order to create as much pre-start alignment as possible.
 
-## Employee (intern) considerations
+## How can interns make the most of a remote internship?
 
-Interns who are considering applying for a remote internship over a colocated internship should ingest the above in order to get a better understanding of the employer perspective.
 
-It's important to recognize that expectations will likely be higher in a remote internship, while resources *may* be fewer if a company lacks a mature internship infrastructure.
+Interns must recognize that expectations will likely be higher in a remote internship, while resources *may* be fewer if a company lacks a mature internship infrastructure.
 
 It's important to ask questions during the interview phase to understand the work environment. You'll want to make sure you have a remote mentor or [onboarding buddy](/handbook/people-group/general-onboarding/onboarding-buddies/) who will be available to answer questions related to working remotely.
 
