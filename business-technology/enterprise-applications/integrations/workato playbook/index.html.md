@@ -117,6 +117,23 @@ Use in-step comments to add one-liner description to your steps to the recipe re
 </details>
 
 
-### Workato Champion Program
+### How to deploy recipes work in Workato?
+Currently, we're using Workato `Recipe Lifecycle Management` tool to promote things from one worksapce to another. This is how you would promote what is built in `dev` to `prod` without needing to recreate it.
+
+Aside from that, we are actually going to be migrating to Workato Environments soon which further streamlines RBAC and the deployment process so that it's even easier than the `Recipe Lifecycle Management` that we have today. You can read more about it [here](https://www.workato.com/product-hub/democratize-change-management-with-environments/).
+
+#### How to deploy recipes?
+Check out the [video](https://www.youtube.com/watch?v=WfehKT5nnGo&t=2s) to learn step-by-step process of using `Recipe Lifecycle Management` for recipes deployment and the roles and permissions required for it.
+
+### Coming soon...
+Watch out this space for new happenings in Workato space:
+
+#### :rocket: Soon to launch:
+- Workato Champion Program
+- Workato CI/CD automation
+
+
+
+
 
 
