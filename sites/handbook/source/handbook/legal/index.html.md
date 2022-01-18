@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "The GitLab Legal Team"
-description: "Meet the GitLab Legal Team and learn how to engage with us for internal needs"
+title: "Legal & Corporate Affairs"
+description: "Information regarding the Legal & Corporate Affairs Team"
 ---
 
 ## On this page
@@ -10,9 +10,10 @@ description: "Meet the GitLab Legal Team and learn how to engage with us for int
 - TOC
 {:toc .hidden-md .hidden-lg}
  
-# Welcome to GitLab Legal!
+# Welcome to the Legal & Corporate Affairs Handbook
 
-We are glad you are here! Learn more about GitLab's [Legal Team](https://about.gitlab.com/company/team/?department=legal). 
+- This handbook focuses on information related to how to engage the team, as well as information regarding GitLab policies and compliance. 
+- We are led by Chief Legal Officer and Corporate Secretary [Robin Schulman](https://ir.gitlab.com/management/robin-schulman)
 
 # Trading Window Status
 GitLab Team Members can view the current trading window status via the [Trading Window Status Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12780) 
@@ -23,7 +24,7 @@ GitLab Team Members can view the current trading window status via the [Trading 
 We take employee concerns very seriously and encourage all GitLab Team Members to report any ethics and/or compliance violations by using Lighthouse. Futher details are found on the [People Ops Handbook page](https://about.gitlab.com/handbook/people-group/#how-to-report-violations).
 
 #### Quick Questions
-For quick questions that **_do not_** require legal advice, deliverables, or any discussion of confidential information, you can reach out to the GitLab Legal Team at *[`#legal`](https://gitlab.slack.com/archives/legal)*. We find this channel best for questions regarding process, who handles what or how to find certain things if the Handbook has not yielded the right result for you after searching. *[`#legal`](https://gitlab.slack.com/archives/legal)* is not a private channel, so your inquiry will be visible to the entire company. One of our Team Members will do their best to answer your question in a timely fashion. **If your request is sales or procurement related, involves legal advice, deliverables, or any discussion of confidential information, please follow the process set forth in the table below.** 
+For quick questions that **_do not_** require legal advice, deliverables, or any discussion of confidential information, you can reach out to the GitLab Legal & Corporate Affairs Team at *[`#legal`](https://gitlab.slack.com/archives/legal)*. We find this channel best for questions regarding process, who handles what or how to find certain things if the Handbook has not yielded the right result for you after searching. *[`#legal`](https://gitlab.slack.com/archives/legal)* is not a private channel, so your inquiry will be visible to the entire company. One of our Team Members will do their best to answer your question in a timely fashion. **If your request is sales or procurement related, involves legal advice, deliverables, or any discussion of confidential information, please follow the process set forth in the table below.** 
 
 
 | Type of Request | Process / Information |
