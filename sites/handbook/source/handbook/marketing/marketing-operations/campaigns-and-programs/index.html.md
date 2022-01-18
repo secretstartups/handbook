@@ -172,6 +172,17 @@ This is an event that we have created, own registration and arrange speaker/venu
 | Follow Up Requested | Requested additional details about GitLab to be sent post event | Yes |
 
 
+#### Partner - MDF (WIP)
+
+This is for an activity that our partner is executing utilizing MDF Funds. We track membership, but the partner, not GitLab follows up with these leads. Exact process is WIP, see more details [here](/handbook/marketing/channel-marketing/partner-campaigns/).
+
+**Bizible:** This is tracked as an _offline_ channel 
+
+| Member Status | Definition | Success |
+| ------------- | ---------- | ------- |
+| Sent | default starting position for all records |  |
+| Responded | Member of program|Yes|
+
 #### Self-Service Virtual Event
 
 This is a light weight virtual event that can be hosted on GitLabber's personal zoom.
@@ -324,7 +335,7 @@ An example of a folder setup in Marketo is:
 **Important Notes**:
 1. The `Active` checkbox must be checked on the SFDC campaign for Marketo to be able to "see" the campaign. This will happen automatically if you follow the process below, but if there is a time you cannot find a SFDC campaign in Marketo, check to make sure that box is checked in SFDC. Additionally, if this box is unchecked, Marketo cannot send leads or update campaign member status for that SFDC campaign.
 1. We have a trigger in SFDC that stamps the start date, end date, reporting date, and fiscal quarter by taking the first 8 characters of the name of the campaign (if they are numbers) and converting that into a date (example: 20210505 == 5/5/2021, so YYYYMMDD). So, campaigns starting with a number must contain a valid date, otherwise you will receive an error.
-1. There are 4 Campaign Statuses which we would like to be automated by SFDC - Default opens at `Planned`, moves to `In Progress` when date = start date, moves to `Completed` when date = end date
+1. Campaign statuses other than `Aborted` are automatically set by SFDC workflow based on Start and End Dates.
 
 |Status|Definition|When does it update?|
 |------|--------|--------|
@@ -367,6 +378,13 @@ Be advised that some templates are being used for both `in-person` and `virutal 
 - Self-Service Virtual Event with Promotion (with or without Marketo Landing Page): [YYYYMMDD_SelfServiceTopic_Region (with Promotion)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8760A1)
 - Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
 
+**Partner Campaign Setup**
+- Partner MDF Funded campaigns go [this page](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
+- Joint GitLab/Partner campaigns, follow the directions for each campaign type above/below. There are additional steps [here-TBD]() you'll need to complete as well.
+- Partner Trials setup, go to [this page](/handbook/marketing/channel-marketing/partner-campaigns/#trial-campaign-set-up)
+
+
+
 ##### Step 2: Sync to Salesforce
 
 - At the program main screen in Marketo, where it says `Salesforce Sync` "not set", click on "not set"
@@ -387,6 +405,7 @@ If you are a user of Allocadia, in this step you will also add the Allocadia ID 
         - ((my.email header image url}} - This is optional. You will need this if you had custom images created.
         - {{my.ondemandurl}} - This will be entered AFTER the event date. It is the link to the recorded webcast. You will need to come back after the event and update this token.
 - Update the utm_campaign field using the following format: Campaign Tag, with no spaces, capitalization, underscores, or special characters.
+- **Partner Campaigns** will need to also to update the `{{my.partner name}}` and `{{my.partner crm id}}` for proper routing 
 
 ##### Step 4: Activate Marketo smart campaign(s)
 * If this is a `Vendor Arranged Meeting` or `Executive Roundtable`, skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded. 
@@ -662,6 +681,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 
 ##### Step 5: Update this Handbook page
 - Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a `yes` and a link to the parameter and campaign you have set up.
+
 
 ## Removing Registrations from Marketo Programs
 

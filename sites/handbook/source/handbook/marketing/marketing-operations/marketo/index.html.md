@@ -319,10 +319,10 @@ The following segmentations that are approved and live.
 [Funnel Stage](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1021A1)
 </summary>
 
-- Top - `Status = NULL, Inquiry or Raw` OR (`Status = Nurture` AND `Person Score < 75`)
-- Middle - `Status = MQL, Accepted or Qualifying` OR (`Status = Nurture` AND `Person Score > 74`)
-- Bottom - `Status = Qualified` OR `1 Open Opportunity` OR `Has an Open Opportunity`
-- Customer - `Current Customer = TRUE` OR `Status = Web Portal Purchase`
+- Raw > INQ - `Status = NULL, Inquiry or Raw` OR (`Status = Nurture` AND `Person Score < 75`)
+- INQ > MQL - `Status = MQL, Accepted or Qualifying` OR (`Status = Nurture` AND `Person Score > 74`)
+- MQL > SAO - `Status = Qualified` OR `1 Open Opportunity` OR `Has an Open Opportunity`
+- Customer - `Current Customer = TRUE` OR `Status = Web Portal Purchase` OR `Is Paid Tier = True`
 - Unqualified - Status is `Unqualified or Bad Data`
 
 </details>
@@ -399,3 +399,34 @@ The Field Marketing and Marketing Campaigns teams use targeted email lists as a 
 If you need a list export, please fill out an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request). If sharing externally, please follow [guidance](/handbook/engineering/security/security-assurance/security-risk/third-party-minimum-security-standards.html#guidance-to-sharing-data-externally) to help inform your request.
 
 If you need a list export, please fill out an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request). If sharing externally, please follow [guidance](handbook/engineering/security/security-assurance/field-security/third-party-minimum-security-standards.html#guidance-to-sharing-data-externally) to help inform your request.
+
+
+## Marketo Sales Insight
+Marketo Sales Insight (MSI) is used to help give SFDC users visibility into the different actions Marketo is taking, and user actions through Marketo. Users can use this intelligence to have more meaningful conversations with prospects and also priority their leads based on score. You can read more on [Marketo's docs page](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.html?lang=en).
+
+The MSI tab can be placed on Leads, Contacts and Accounts page layouts. If you do not see it, or want access to it, create a [sales systems issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new). 
+
+You can also find MSI in a tab in your SFDC instance - click the `+` icon on your main SFDC banner and find `Marketo`. On that tab you will see an aggregate view of MSI.
+
+There are a few main components to MSI: 
+
+#### Insights
+This tab shows a timeline of the most recent activity of a person. It shows `ALL` upcoming email campaigns and events (NOTE: This contains ALL upcoming emails/events, not just the ones sent to that prospect). In the timeline you can see web activity, email opens/clicks, and intersting moments. You can click into the lead timeline to see the specifics of each action. You will also see their overall score and a graph of the changes in the last 30 days. See screenshot below:
+
+![Marketo Sales Insight](/handbook/marketing/marketing-operations/marketo/MSI.png)
+
+
+#### Interesting Moments
+Interesting moments are captured when a milestone is reached, usually when a person attends an event, program status changes or they fill out a form. SDRs use the `Last Interesting Moments` field in their lead views to quickly see what the last action the prospect took before becoming an Inquiry or MQL. If you would like an intersting moment added for a certain activity, reach out to Mops to have them build it for you.
+
+#### Web Activity 
+This tab shows all of the web activity of a cookied user in this view and includes the referring page. For lead/contacts it shows the activity for that particular person, for Accounts it shows activity for all contacts related to that account.
+
+#### Score
+Use this tab to see what the most recent score changes are. This is helpful to see all the different activities the person took to achieve the score they have. The campaign that caused the scoring can be cross referenced to the [scoring rubric](/handbook/marketing/marketing-operations/marketo/#scoring-model) above.
+
+#### Email
+This tab shows all the emails sent to that specific person, the date and check boxes for if they opened or clicked.
+
+#### Quick Actions and Watch List
+You can add people to your watch list to keep a closer eye on them. You can access that watchlist by clicking the glasses next to `email`. Quick actions currently are not configured, but in the future may be used to add prospects to campaigns or to send an email via marketo.
