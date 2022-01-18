@@ -1303,7 +1303,7 @@ To get in touch with the [e-group](/company/team/?department=executive) on Slack
 | CTO    | `#cto`       |
 | CRO    | `#cro`       |
 | CMO    | `#marketing` |
-| CPO    | `#people-connect` |
+| CPO    | `#cpo` |
 | CLO    | `#legal`     |
 
 ### Key Slack channels
