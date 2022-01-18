@@ -31,7 +31,7 @@ Particularly for those who are [seeking a new role with an all-remote or remote-
 
 ## What is a remote work conference?
 
-
+A conference is a company or industry-specific meeting where people gather to discuss topics related to their field. A remote work conference that happens online is usually somewhat formal, with speakers chosen ahead of time to deliver presentations or participate in panel discussions, such as the REMOTE by Gitlab conference.
 
 ### REMOTE by GitLab 
 
