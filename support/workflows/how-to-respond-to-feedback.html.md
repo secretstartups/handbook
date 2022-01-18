@@ -129,7 +129,7 @@ that best describes the situation:
 | `~feedback::docs-new-issue` | Encountered Documentation problem; new Issue and/or MR filed |
 | `~feedback::docs-not-helpful` | Documentation unhelpful to customer and/or Support Engineer |
 | `~feedback::known-issue` | Known issue with Issue already created |
-| `~feedback::product-new-issue` | Encountered Product problem; new Issue and/or MR filed |
+| `~feedback::new-product-issue` | Encountered Product problem; new Issue and/or MR filed |
 | `~feedback::missing-info-from-customer` | Customer did not supply enough information for investigation |
 | `~feedback::missing-info-by-engineer` | Support Engineer did not provide adequate information to customer |
 | `~feedback::outside-support` | Problem internal to GitLab but not directly by Support |
