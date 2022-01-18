@@ -83,50 +83,57 @@ GitLab's Code of Business Conduct and Ethics summarizes the ethical standards fo
 
 # General Legal FAQs
 
-## 1. The U.S. Attorney-Client Relationship 
-This discussion is limited to the practice of law in the U.S. As we continue to grow globally we will update this and expand how privilege applies in other jurisdictions.
+## The U.S. Attorney-Client Relationship
+This discussion is limited to the practice of law in the U.S. As we continue to grow globally, we will update this and expand how privilege applies in other jurisdictions.
 
-### What is Attorney-Client Privilege?
-Attorney-Client Privilege is a principle that provides protections for certain communications between clients and their attorneys that meet specific criteria. 
+<details>
+ <summary markdown="span">What is Attorney-Client Privilege?</summary>
+Attorney-Client Privilege is a principle that provides protections for certain communications between clients and their attorneys that meet specific criteria. First of all, the communications must be for the purpose of seeking legal guidance and advice. For this reason, the underlying facts may not be protected if they are available from another source. Opinions and analysis of the facts, and discussions thereof, with the attorney are protected. Secondly, communications must be confidential. Information is also not protected if it is available from another source meaning that simply telling your attorney or copying your attorney on a communication does not protect the information.
+</details>
 
-First of all, the communications must be for the purpose of seeking legal guidance and advice. For this reason, the underlying facts may not be protected if they are available from another source. Opinions and analysis of the facts, and discussions thereof, with the attorney are protected. 
-
-Secondly, communications must be confidential. Information is also not protected if it is available from another source meaning that simply telling your attorney or copying your attorney on a communication does not protect the information. 
-
-### What is Work Product Privilege?
+<details>
+ <summary markdown="span">What is Work Product Privilege?</summary>
 Work Product is a U.S. doctrine in which an attorney’s notes, observations, thoughts, and research prepared by, or at the direction of, an attorney in anticipation of litigation are protected from being discoverable during the litigation process.
+</details>
 
-### What is the purpose of these Privileges?
+<details>
+ <summary markdown="span">What is the purpose of these Privileges?</summary>
 Attorney-Client and Work Product privileges allow clients to speak freely with their attorneys and encourage full disclosure so they can receive accurate and competent legal advice without the fear of having their attorney compelled to testify against them and disclose the information shared by the client.
+</details>
 
-### Who do these Privileges Apply to at GitLab?
+<details>
+ <summary markdown="span">Who do these Privileges apply to at GitLab?</summary>
 There is not one uniform answer that covers all jurisdictions in the U.S. However, most jurisdictions will use at least one of the following tests to see if the individuals involved have privileged communication.
+<br>- The Control Group Test is quite restrictive and only allows for the protection of corporate communications to the corporation's controlling executives and managers. This test cannot be used in federal courts, but is still used in some states.</br>
+<br>- Instead of looking solely at the roles of the employees involved, the Subject Matter Test looks at the subject matter of the employees’ communications. If an employee has been directed by a supervisor to discuss a subject matter that relates to the employees job with an attorney, this may be covered by subject matter privilege.</br>
+<br>- The Upjohn Test is a modified version of the Subject Matter Test requires additional criteria to be met. In addition to the subject matter being relevant to the employee’s duties, the employee must also have awareness and intent concerning the legal advice being sought and/or given.</br>
+<br>- A company’s attorney does not represent an employee individually, but instead represents the interests of the company. A company can waive its privilege at any time, meaning the company could choose to disclose information the attorney received from a covered employee in confidence for use as evidence in a legal proceeding in order to protect the company from liability.</br>
+</details>
 
-- The **Control Group Test**. This test is quite restrictive and only allows for the protection of corporate communications to the corporation's controlling executives and managers. This test cannot be used in federal courts, but is still used in some states.
-- The **Subject Matter Test**. Instead of looking solely at the roles of the employees involved, this test looks at the subject matter of the employees’ communications. If an employee has been directed by a supervisor to discuss a subject matter that relates to the employees job with an attorney, this may be covered by subject matter privilege.
-- The **Upjohn Test**. This modified version of the Subject Matter Test requires additional criteria to be met. In addition to the subject matter being relevant to the employee’s duties, the employee must also have awareness and intent concerning the legal advice being sought and/or given.
-- The **Upjohn Warning**. A company’s attorney does not represent an employee individually, but instead represents the interests of the company. A company can waive its privilege at any time, meaning the company could choose to disclose information the attorney received from a covered employee in confidence for use as evidence in a legal proceeding in order to protect the company from liability.
- 
-### How do you Protect the Privileges that Apply to You When Seeking Legal Advice?
-- Direct the communication to a practicing licensed attorney. Privilege does not apply to other non-attorney members of the legal team.
-- It is best practice to have privileged conversations with the attorney via Zoom.
-- If other individuals will need to participate in the discussion, consult with the attorney, and only include the minimum necessary individuals in the conversation, in other words, keep the circle of trust small.
-- If it is necessary to communicate by email, in the “Subject” line, and at the top of the body of the communication, include the phrase “AC PRIV”.
-- Do not overuse the claim of privilege. Limit its use to when actually seeking legal guidance and advice and not on any and every correspondence with the attorney.
-- You must keep the information discussed confidential, and not share it with anyone outside the circle of trust without first consulting with the attorney.
-- Do not forward protected emails to anyone outside the circle of trust.
-- Do not copy anyone outside the circle of trust on emails with the attorney.
+<details>
+ <summary markdown="span">How do you protect the Privileges that apply to you when seeking Legal advice?</summary>
+Direct the communication to a practicing licensed attorney. Privilege does not apply to other non-attorney members of the Legal Team.
+It is best practice to have privileged conversations with the attorney via Zoom.
+If other individuals will need to participate in the discussion, consult with the attorney, and only include the minimum necessary individuals in the conversation, in other words, keep the circle of trust small.
+If it is necessary to communicate by email, in the “Subject” line, and at the top of the body of the communication, include the phrase “AC PRIV”.
+Do not overuse the claim of privilege. Limit its use to when actually seeking legal guidance and advice and not on any and every correspondence with the attorney.
+You must keep the information discussed confidential, and not share it with anyone outside the circle of trust without first consulting with the attorney.
+Do not forward protected emails to anyone outside the circle of trust.
+Do not copy anyone outside the circle of trust on emails with the attorney.
+</details>
 
 For more questions and answers about Attorney-Client Privilege in the corporate setting, search “AC Priv tests” in Drive.
 
-## 2. Litigation Holds
+## Litigation Holds
 
-A litigation hold is the process a company uses to preserve all forms of relevant evidence, whether it be emails, instant messages, physical documents, handwritten or typed notes, voicemails, raw data, backup tapes, and any other type of information that could be relevant to pending or imminent litigation or when litigation is reasonably anticipated.  Litigation holds are imperative in preventing spoliation (destruction, deletion, or alteration) of evidence which can have a severely negative impact on the company's case, including leading to sanctions.
+<details>
+ <summary markdown="span">What is a litigation hold?</summary>
+A litigation hold is the process a company uses to preserve all forms of relevant evidence, whether it be emails, instant messages, physical documents, handwritten or typed notes, voicemails, raw data, backup tapes, and any other type of information that could be relevant to pending or imminent litigation or when litigation is reasonably anticipated. Litigation holds are imperative in preventing spoliation (destruction, deletion, or alteration) of evidence which can have a severely negative impact on the company's case, including leading to sanctions. Once the company becomes aware of potential litigation, the company's attorney will provide notice to the impacted employees, instructing them not to delete or destroy any information relating to the subject matter of the litigation. The litigation hold applies to paper and electronic documents. During a litigation hold, all retention policies must be overridden.
+</details>
 
-Once the company becomes aware of potential litigation, the company's attorney will provide notice to the impacted employees, instructing them not to delete or destroy any information relating to the subject matter of the litigation.  The litigation hold applies to paper and electronic documents. During a litigation hold, all retention policies must be overridden.
+## Foreign Corrupt Practices Act
 
-## 3. Foreign Corrupt Practices Act
-
-The Foreign Corrupt Practices Act is a United States federal law that prohibits U.S. citizens and entities from bribing foreign government officials to benefit their business interests. It is not only an invaluable tool to help fight corruption but one to which we must be compliant. As GitLab Inc. is a U.S. incorporated entity, we need to make sure our operations worldwide are compliant with the provisions of the Foreign Corrupt Practices Act. To that end, GitLab requires Team Members to complete an annual online course relating to anti-bribery and corruption at GitLab. In the training, learners will explore improper payments, including facilitation payments and personal safety payments, as well as policies on commercial bribery. 
-
-The goal of the course is to ensure our Team Members understand what it takes to avoid corruption, especially in high-risk countries, and to ensure GitLab is compliant with legal and regulatory obligations. 
+<details>
+ <summary markdown="span">What is the Foreign Corrupt Practices Act?</summary>
+The Foreign Corrupt Practices Act (“FCPA”) is a United States federal law that prohibits U.S. citizens and entities from bribing foreign government officials to benefit their business interests. It is not only an invaluable tool to help fight corruption but one to which we must be compliant. As GitLab Inc. is a U.S. incorporated entity, we need to make sure our operations worldwide are compliant with the provisions of the Foreign Corrupt Practices Act. To that end, GitLab requires Team Members to complete an annual online course relating to anti-bribery and corruption at GitLab. In the training, learners will explore improper payments, including facilitation payments and personal safety payments, as well as policies on commercial bribery. The goal of the course is to ensure our Team Members understand what it takes to avoid corruption, especially in high-risk countries, and to ensure GitLab is compliant with legal and regulatory obligations.
+</details>
