@@ -29,18 +29,6 @@ Following the process described here will ensure that customer interest in featu
 
 On top of these processes, we've also documented guidelines for when [a customer expressed interest in a feature](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature).
 
-## TAMs managing their customer feedback from the Product CAB
-Find TAM [process](https://docs.google.com/presentation/d/1LPJazgskhQJnqjBYzRlu5dGDVmUbnvfpzfYrPXqXkRY/edit#slide=id.gf25b6c3b0c_2_0) for managing customer feedback from the Product CAB. 
-
-**Process**
-1. The Customer Reference Manager (CRM) creates the “CAB TAM Follow up” [issue template](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/customer-advisory-board/-/issues/new?issue%5Bmilestone_id%5D=) in the CAB project and uploads links to the recordings etc
-2. The CRM tags the TAMs and TAM managers in the issue to review the CAB recordings/ notes and transcripts when their customer has attended the CAB
-3. The TAM create new issues in the Product repo as per [agreed process](https://about.gitlab.com/handbook/customer-success/tam/product/) based upon their customer feedback (links to the customer SFDC account as per standard process for reporting)
-4. If the issue already exists please add the CAB label provided and add the customer SFDC record 
-5. The TAM tags the issue with the general CAB label (CAB Takeaway) PLUS the specific dated CAB label (CAB Takeaway+FQ+FY) so we can track CAB input into product)
-6. The CRM schedules an annual meeting with CS/TAM/Product teams to review the CAB Takeaway label board in the Product Repo
-
-
 ### GitLab Issues
 
 If your customer has a feature request that doesn't already exist, refer to the [example of how to express the customer's interest](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) in an issue. Open an issue in the [gitlab-org issue tracker](https://gitlab.com/gitlab-org/gitlab/-/issues) and choose the **[Feature Proposal](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Feature%20Proposal%20-%20lean)** template, following the instructions and providing as much information as possible. Once you've created the issue,  make sure to add the appropriate labels for the [product stage and/or group](https://about.gitlab.com/handbook/product/categories/) (e.g `~"devops::plan"`) if known and add a comment tagging the appropriate Product Manager asking for review with the customer's Salesforce account link included.
@@ -109,3 +97,16 @@ Follow the same [steps as for logging and tracking bugs as with feature requests
 ### Escalating Product Issues 
 
 If you have followed the [process of commenting on issues](#gitlab-issues) and have not gotten traction, confirm that [all of the necessary information is included in the issue](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature), including the Salesforce link, use case, etc. Follow up with the Product Manager again in the issue and in the product stage Slack channel (linking to the issue) to get additional attention and team member involvement.
+
+### Product CAB Feedback
+
+The Product [Customer Advisory Board](/handbook/marketing/strategic-marketing/customer-reference-program/CAB/) is an important part in making sure our Product team regularly receives feedback from customers, as well as an opportunity for customers to interact with each other. If a TAM has a customer on the CAB, it's worthwhile to stay up to date on what's being discussed in CAB meetings, and the Product team has asked the TAMs to review recordings and/or notes and document any feedback customers may have provided during these meetings. The process is as follows:
+
+1. The Customer Reference Manager (CRM) creates a “CAB TAM Follow up” [issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/customer-advisory-board/-/issues/new?issue%5Bmilestone_id%5D=) in the CAB project and shares relevant links 
+1. The CRM tags the TAMs of any customer who has attended in the issue to review the CAB recordings, notes, and transcripts, which are linked in the issue
+1. The TAM reviews their customer's feedback and either creates a new issue or comments on an existing issue for the feature request, following [normal feature request procedure](#gitlab-issues)
+1. For all feature requests that a customer expresses interest in during the CAB, the TAM adds two labels: `~CAB Takeaway` and `~CAB Takeaway Qx FY20xx`
+1. The TAM returns to the issue the CRM created and checks off their name for completion
+1. The CRM schedules an annual meeting with the TAM and Product teams to review the `~CAB Takeaway` label board 
+
+For more information, join the `cab-shared` and `cab-shared-internal` Slack channels, and review the [proposal slide deck](https://docs.google.com/presentation/d/1LPJazgskhQJnqjBYzRlu5dGDVmUbnvfpzfYrPXqXkRY/edit#slide=id.gf25b6c3b0c_2_0) for managing customer feedback from the Product CAB. To nominate a customer to be a CAB member, please view [the CAB handbook page](https://about.gitlab.com/handbook/marketing/strategic-marketing/customer-reference-program/CAB/#cab-nomination-process).
