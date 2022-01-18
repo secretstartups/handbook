@@ -206,7 +206,9 @@ Please reach out to the [Total Rewards team and WTW](/handbook/total-rewards/ben
 1. Select "Find Care & Costs" at the top of the page.
 1. Here you can select to search by Doctor Type, Name, Reason for Visit, Facility, or you can price a medication at local pharmacies.
 1. When you scroll down, there are quick links for your nearest urgent care and telehealth.
- 
+
+Potential joiners who do not have a myCigna account yet can search for providers on the [Cigna Website](https://hcpdirectory.cigna.com/web/public/consumer/directory/plan-selection). When selecting a plan everyone at GitLab (PPO, EPO, and HDHP members) will use the OPEN ACCESS PLUS selection, except for Utah members, who will use the PPO option. 
+
 IMPORTANT NOTE:
  
 As an additional measure to confirm “Contracted Providers” (i.e. In-Network), it’s always a good idea to follow up with Providers directly (phone, email or otherwise) to additionally confirm if a Provider is contracted with Cigna or not.
