@@ -65,7 +65,7 @@ Some steps of escalation management are handled by bots and auto-responders. The
    1. **BOT**: Slack announcement is posted to `#support_escalations`, with an `@mention` of the current on-call Support Manager's name.
    1. In many cases **BOT** adds an internal note to the Zendesk ticket and escalation issue, documenting the escalation.
 1. Add the `:eyes:` emoji to acknowledge you are looking at the escalation.
-1. In the Zendesk ticket, **if** there is no automated note, add an internal note by copy-pasting the text from the Slack announcement.
+1. In the Zendesk ticket, use the `Support::Managers::Escalated Ticket` macro to crosslink the escalation issue, discussion thread and tag the ticket as escalated.
 1. Assess the ticket, and the business case behind the escalation (triage).
    - Questions to the escalation initiator can be put in Slack (synchronous) or in the escalation Issue (asynchronous).
 1. If you need input or help from engineers, initiate a new thread in `#support_gitlab-com`, `#support_self-managed` or `#support_licensing-subscription`. Then return to the thread in `#support_escalations` and comment that all **technical** ticket-related discussion is happening in the ticket (or in the new thread). This helps ensure all technical discussion stays in one channel/thread.
