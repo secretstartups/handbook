@@ -20,6 +20,7 @@ _**Frequency:**_ Quarterly
 _**Attendees:**_ Business Technology plus other departments depending on topic
 
 - [Unfiltered Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ)
+    - ***Up Next*** - **Tristan Handy, CEO of dbt** - 2022-01-25. **Topic:** Data Thought Leadership and the dbt Journey.
     - **Ella Dillon, VP of Customer Success, Outreach** - [2021-09-29. **Topic:**  Sharing what Customer Success means - tying it to Business Technology/IT and the impact to overall journey / customer value realization.](https://www.youtube.com/watch?v=dmOhn7q6738&list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ&index=6)
     - **Shobhana (Shobz) Ahluwalia, CIO, Peloton Interactive** - [2021-05-5. **Topic:** Diversity and Inclusion](https://www.youtube.com/watch?v=frHW0fNbm5c&list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ&index=6)
     - **Mark Settle, 7xCIO, Author** - [2020-10-14. **Topic:** Discuss Truth from the Valley: A practical Primer on IT Management for the Next Decade](https://www.youtube.com/watch?v=MLAboHCE434&list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ&index=3)
