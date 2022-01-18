@@ -17,7 +17,7 @@ canonical_path: "/company/team/structure/working-groups/object-storage/"
 | Property        | Value                                                                                                                                                                                     |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Date Created    | November 3, 2021                                                                                                                                                                          |
-| Target End Date | January 31, 2022                                                                                                                                                                          |
+| Target End Date | March 31, 2022                                                                                                                                                                          |
 | Slack           | [#wg_object-storage](https://gitlab.slack.com/messages/wg_object-storage/) (only accessible from within the company)                                                                      |
 | Google Doc      | [Object Storage Working Group Meeting Agenda](https://docs.google.com/document/d/1K4zb9taDyj74NlAdKDOGPmuBzkTQFCbae-oJMMUQuQk/edit?usp=sharing) (only accessible from within the company) |
 
@@ -100,20 +100,17 @@ fixes) to installation:
 
 ### Definitions
 
-<dl>
+#### CarrierWave
 
-<dt>CarrierWave</dt>
-<dd>A gem that provides a simple and extremely flexible way to upload files from Ruby applications. This was the boring solution when first implemented. However this is no longer our use-case, as we upload files from Workhorse, and we had to [patch CarrierWave's internals](https://gitlab.com/gitlab-org/gitlab/-/issues/285597#note_452696638) to support Direct Upload.
-</dd>
+A gem that provides a simple and extremely flexible way to upload files from Ruby applications. This was the boring solution when first implemented. However this is no longer our use-case, as we upload files from Workhorse, and we had to [patch CarrierWave's internals](https://gitlab.com/gitlab-org/gitlab/-/issues/285597#note_452696638) to support Direct Upload.
 
-<dt>Direct upload</dt>
-<dd>A technology we developed to intercept file
+#### Direct upload
+
+A technology we developed to intercept file
 uploads with Workhorse and handle the expensive upload operation in
 Workhorse, where it's cheaper. See our [uploads development
 documentation](https://docs.gitlab.com/ee/development/uploads.html#)
-for more details.</dd>
-
-</dl>
+for more details.
 
 ### Kickoff video
 
@@ -123,12 +120,22 @@ for more details.</dd>
 
 ## Exit criteria
 
-- Design a new simplified architecture for Object Storage.
-- Create the necessary issues and plan out when the implementation of the newly designed architecture will be completed.
-- Oversee the implementation of the new architecture.
-- Ensure there is clear documentation written using and contributing to newly designed Object Storage.
-- Ensure each type of upload will be intercepted by Workhorse and processed according to the new design.
+The overarching goal should be to define improvements that can be made with the Object Storage implementation
+, and make informed implementation proposals through the work of this group. As such we intend to:
+
+- Document the status quo of Object Storage and classify its use by feature vertical and integration patterns,
+  since we know there to be drift between features.
+- Outline a path forward by designing a new simplified architecture for Object Storage.
+- Identify high-level steps we need to take for that architecture to be realized.
+- Prototype individual aspects of it by exploring both new technology such as ActiveStorage, or by reworking
+  existing code.
 - Identify features and configuration that should be deprecated to reduce the maintenance complexity.
+
+## Out of scope
+
+- Make final decisions on proposed solutions.
+- Implement all proposed solutions.
+- Be a permanent custodian for or oversee Object Storage development in the future.
 
 ## Roles and responsibilities
 
