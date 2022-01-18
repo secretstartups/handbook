@@ -22,11 +22,11 @@ twitter_creator: "@gitlab"
 
 On this page, we're detailing how to create efficient, transparent, documentation-based meetings. These meetings increase cohesion, discipline, and transparency in all meetings regardless of the work environment. 
 
-## What is a live doc meeting?
+## Q: What is a live doc meeting?
 
 A live doc meeting is just what it sounds like...it's a work-related meeting where you document everything live (yes, everything)! Start documenting before the meetings begins by attaching a live doc agenda to the calendar invite.
 
-## What is meant by 'live document'?
+## Q: What is meant by 'live document'?
 
 A live document is a document that is continually being edited and updated. Examples could include a shared Google doc, whiteboard being used by a team for collaboration, or [GitLab's handbook](/handbook/).
 
@@ -70,23 +70,23 @@ Improving your meeting hygiene can start by shifting to live doc meetings. It is
 
 Not all meetings are inherently bad. We encourage managers to establish regular 1:1 meetings with their team, for example. Many meetings can be avoided by understanding how to [work well asynchronously](/company/culture/all-remote/asynchronous/). GitLab has a [documented approach to efficient, productive 1:1s](/handbook/leadership/1-1/) that we welcome other companies to implement, and contribute to if they have suggestions for improvement.
 
-## How can I participate in a live doc meeting?
+## Q: How can I participate in a live doc meeting?
 
 There are two ways to participate in a live doc meeting: either synchronously, like when [joining a live Zoom call](/handbook/communication/#video-calls), or [asynchronously](/company/culture/all-remote/asynchronous/). 
 
-## When are live doc meetings held?
+## Q: When are live doc meetings held?
 
 Live doc meetings are usually held in the host's time zone. However, leaders should [rotate meetings to accommodate a more diverse array of time zones](/company/culture/all-remote/asynchronous/#remove-time-zone-bias) as well as record them so that others can watch at a later time.
 
-## Where are live doc meetings held?
+## Q: Where are live doc meetings held?
 
 Live doc meetings can happen fully in-person, fully- online, or a on hybrid call--which is a blend of both. It's best to have everyone on a level playing field for communication and discussion, so [hybrid calls should be avoided](/company/culture/all-remote/meetings/#avoid-hybrid-calls). If a hybrid call is necessary, have participants use their own equipment (camera, headset, screen) to avoid audio problems from delays and feedback. 
 
-## What is the agenda for a live doc meeting?
+## Q: What is the agenda for a live doc meeting?
 
 Here is a [sample template for a live doc meeting](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit). Be sure to attach a link to your live doc to every calendar invite. Include the agenda for the meeting, permissions so everyone can contribute, and instructions for engagement expected from team members so they understand how to contribute whether they attend synchronously or asynchronously.  
 
-## How can I view a live doc meeting recording?
+## Q: How can I view a live doc meeting recording?
 
 You can access GitLab's most recent recorded meetings via [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) --they are filed under the Uploads header.
 
@@ -96,9 +96,9 @@ You can access GitLab's most recent recorded meetings via [GitLab Unfiltered](ht
 </figure>
 <!-- blank line -->
 
-In this [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) video, Darren M shares an overview of how Live Doc Meetings are used. 
+In this [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) video, Darren M. shares an overview of how Live Doc Meetings. 
 
-For a deeper dive on how GitLab thinks about and implements all facets of meetings in a remote work environment, visit our [all-remote meetings guide](/company/culture/all-remote/meetings/). 
+For a deeper dive on how GitLab implements meetings in a remote work environment, visit our [all-remote meetings guide](/company/culture/all-remote/meetings/). 
 
 - - -
 
