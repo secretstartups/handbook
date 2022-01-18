@@ -28,7 +28,7 @@ title: Professional Services
 1. Select your supplier
     - If this is a **new supplier**, go to the "Forms and Quick Links" section on Home screen, click on "Request a New Supplier" button and complete the required fields. 
       * Click "Review".
-      * Scroll down and check if no duplocates are found (field "Duplicates exist).
+      * Scroll down and check if no duplicates were found (field "Duplicates exist).
       * If No Duplicates found click "Submit for Approval"
         - Allow 1-2 business days for processing new supplier.
     - If this is an **existing supplier** (or once your new supplier is active in Coupa), go to the "Forms and Quick Links" section on Home screen, click on "Professional Services request" button 
