@@ -1386,7 +1386,7 @@ To add a new deprecation notice to that page:
 1. Create a new branch in the [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab) project.
 1. Create a `.yml` file in the [`data/deprecations`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations) folder. Use [`data/deprecations/templates/example.yml`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/deprecations/templates/example.yml) as the template. Name the file `XX-YY-feature-name.yml`, where `XX-YY` is the milestone of the initial deprecation announcement. For example, `14-7-pseudonymizer.yml`. The file should contain these elements:
 
-   - `name`: the name the feature to be deprecated.
+   - `name`: the name of the feature to be deprecated. Avoid the words `deprecation`, `deprecate`, `removal`, and `remove` in this field because these are implied.
    - `announcement_milestone`: the milestone when the feature was first deprecated (for example, "14.3").
    - `announcement_date`: the date of the release when this feature was first announced as deprecated (for example, "2021-09-22").
    - The `removal_milestone`: the milestone when the feature is planned to be removed from the product (for example, "15.0").
@@ -1542,7 +1542,7 @@ When approved, include the Ready label in the MR before merging.
 
 Major releases happen once a year and start a new versioning cycle: 14.0 - 14.10 --> 15.0 and so on.  Contribution to and management of content for major releases follows all the same protocols as [monthly releases](#monthly-releases). But for major releases, the release post manager can expect some extra coordination and communication from the Social, PR, and Marketing teams, due to extra activities and needs for a major release. Additionally, during a major release, the release post manager may need to support Product Operations or PM volunteers managing communication of removals that are breaking changes.
 
-### Communicating breaking changes 
+### Communicating breaking changes
 
 Product Operations will lead the communication of breaking changes for major releases as part of the release post. It is important the breaking changes be flagged for SaaS users prior to the rollout of the updates in the major version, so they are prepared and their workflow is not unexpectedly disrupted. Beginning 4 milestone ahead of the major release, Product operations will start communictions/coordination for announcements and a [breaking changes blog](https://about.gitlab.com/blog/2021/06/04/gitlab-moving-to-14-breaking-changes/). Starting as early as 3 milestones ahead of the major relaese, Product Operations we will use the [broadcast message feature](https://docs.gitlab.com/ee/user/admin_area/broadcast_messages.html) to communicate upcoming breaking changes with SaaS users. 
 
