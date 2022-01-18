@@ -1269,9 +1269,9 @@ Make sure to add the category `name` exactly as typed on the data file.
 
 - `issue_url`: link to the issue on GitLab.com where the feature is discussed
 and developed. Using this link the reviewer can check the status of the specific
-feature for consistency and additional references.
-It is a required field, but can be replaced with `mr_url`, `issueboard_url`, or `epic_url`.
-Always wrap links in single quotes (`'https://example.com'`).
+feature for consistency and additional references. Try to avoid linking to a confidential issue so the wider community can get context about the change.
+It is a required field, but can be replaced with `mr_url`, `issueboard_url`, or `epic_url`. 
+Always wrap links in single quotes (`'https://example.com'`). 
 - `issueboard_url`: link to the issue board related to the feature. Not required, but available.
 - `mr_url`: link to the MR that introduced the feature. Not required, but available.
 - `epic_url`: link to the epic related to the feature. Not required, but available.
@@ -1772,6 +1772,7 @@ The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/b
 To ensure the generator script runs correctly follow the process below:
 
 1. Make sure the issue is open.
+1. Make sure the issue is not confidential. If you need to link to a confidential issue you will need to manually create the Release Post Item Merge Request as the [release post item generator](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) does not currently create MRs from confidential issues.
 1. Update your issue or epic with content in `### Release notes` (including a docs link and image, although those can always be added/updated in the MR later) specifically having it contain both a `Description:` then a `Documentation:`.
 1. Make sure `devops::`, `group::`, `category:` and tier (e.g. `GitLab Core`) labels are applied
 1. Apply one of the `release post item::` scoped labels. This will make the generator script pick up your issue next time it runs (once per hour)
