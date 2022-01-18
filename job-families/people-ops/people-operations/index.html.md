@@ -266,3 +266,58 @@ Additional details about our process can be found on our [hiring page](/handbook
 ## Career Ladder
 
 The next step in the People Operations job family is to move to the [People Leadership Job Family](/job-families/people-ops/people-leadership/).
+
+## Senior Director, Global People Operations
+
+The Senior Director of Global People Operations reports to the VP, People Operations, Technology and Analytics
+
+#### Job Grade
+
+The Director, Global People Operations is a [Grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+- Lead and manage a growing People Operations team responsible for managing the employee experience throughout the employee lifecycle.
+- Assess, identify, shape and execute a global People Operations strategy that aligns and moves the business towards continued growth, innovation and improvement.
+- Provide HR support and consultation to the business; answering employee and manager questions about HR programs, policies, and other HR-related items with the team member satisfaction top of mind and top priority.
+- Provide leadership, direction, and expertise to ensure standardized practices and documented processes that drive unparalleled team member experiences.  Includes onboarding, offboarding, relocations, and other team member events.
+- Oversee the coordination and execution of People program implementations.   
+- Utilizing a system design thinking approach (crafting processes from the outside-in), create and execute an infrastructure roadmap to focus on efficiency and experiences.  Create and manage streamlined processes and ensure alignment with key stakeholders inside and outside the People Team (Talent Acquisition Enablement, Payroll, Stock Administration, Finance)
+- Build and cultivate collaborative relationships across the organization.  
+- Drive a progressive, proactive, positive culture, and increase levels of engagement, enablement, and retention.
+- Owner of HR data accuracy and data privacy applying global rules where appropriate.  
+- Provide leadership and oversight of People Compliance function, ensuring compliant processes and alignment with local and international employee laws and regulations.  Oversee successful completion of compliance roadmaps and execution plans
+- Provide leadership and oversight of business expansion solutions, ensuring scalability, forward focused, ensuring solutions meet team member satisfaction requirements.  
+- Maintain in-depth knowledge of local, global, and federal employment laws; maintain and store records judiciously and securely.
+- Create and deliver infrastructure QBR to stakeholder groups as needed.  
+
+#### Requirements
+
+- 10+ years of progressive experience in HR roles with a demonstrable track record of building and optimizing processes, systems, and structures.
+- Expert knowledge of regulatory and legal requirements related to employment and People Compliance.
+- Working knowledge of business employment solutions and the options available such as utilizing a PEO or hiring contractors.  
+- 5-7 years of experience leading people and cross-functional organizations.
+- Demonstrable ability to own, execute and deliver on short- and long-term projects using roadmaps and aligning with key stakeholders.  
+- Strategic and innovative thinker; able to prioritize and use sound judgment and decision-making.
+- Executive presence with excellent written and oral communication skills.
+- Business insight and high EQ to successfully collaborate with executives and business partners at all levels.
+- Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
+- You share our [values](/handbook/values/), and work in accordance with those values.
+- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- Ability to use GitLab
+
+### Hiring Process
+
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+* Next, candidates will be invited to schedule a 45 minute interview with our Director, Technology
+* After that, candidates will be invited to schedule a 30 minute interview with members of the Operations Team such as the Compliance Partner and/or Employment Solutions Partner
+* After that, candidates will be invited to interview with the VP, People Operations, Technology and Analytics
+* Finally, our CPO may choose to conduct a final interview
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+
+## Career Ladder
+
+The next step in the People Operations job family is to move to the [People Leadership Job Family](/job-families/people-ops/people-leadership/).
+
