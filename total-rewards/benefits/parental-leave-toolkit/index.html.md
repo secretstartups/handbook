@@ -67,7 +67,7 @@ Visit the [GitLab Team page](/company/team/) and search for 'Parental Leave Reen
 
 ### Volunteer to Become a Parental Leave Reentry Buddy
 
-1. Contact leaves@gitlab.com if you're interested in becoming a Parental Leave Reentry buddy or would like more information.
+1. Contact `leaves@gitlab.com` or post in the `#people-connect` Slack channel if you're interested in becoming a Parental Leave Reentry buddy or would like more information.
 
 ### Adding Parental Leave Reentry Buddy to your GitLab Profile
 
