@@ -190,7 +190,7 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |Visits Mult Webpages|7 pages in 1 day	|+5	|{{my.Visits Mult. Webpages}}	|Trigger	|1/ 3 days|
 |Web: No activity in 30 days|No web activity, not created in last 30|	-10	|{{my.No Web Activity}}|	Trigger|	1/month|
 |Web: Visits Low Value|`/jobs`|	-10	|{{my.Visits Low Value Webpage}}|	Trigger	|1/day|
-|Email: Unsubscribed|Unsubscribed from Email|	-10	|{{my.Unsubscribed}}|	Trigger	|1/month
+|Email: Unsubscribed|Unsubscribed from Email|	=0	|{{my.Unsubscribed}}|	Trigger	|1/month
 |Email:  Bounce	|Email Hard Bounces|	-20|	{{my.Bounce}}|	Trigger|1/month|
 
 
