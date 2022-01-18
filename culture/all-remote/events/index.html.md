@@ -21,6 +21,8 @@ twitter_creator: "@gitlab"
 
 On this page, we're spotlighting conferences, summits, and events that focus on remote work. This page provides an overview of how to engage and extract maximum value from a virtual event, which may not be immediately intuitive to those who have not yet attended one.
 
+## What is a remote work conference?
+
 ## GitLab remote events
 
 Looking for remote-focused events that GitLab is hosting or participating in? For a running schedule, please bookmark the main [GitLab Events](/events/) page.
