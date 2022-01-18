@@ -197,7 +197,7 @@ In FY22-Q4, we identified 11 cross-functional initiatives that are key to GitLab
 | First Order | @christinelee  |
 | Category Leadership | @melsmo  |
 | AWS/GCP Partnerships | @nbadiey  |
-| Recruiting Motion | @ronell |
+| E-Commerce | @ronell |
 
 ### Cross-Functional Initiative DRIs
 
