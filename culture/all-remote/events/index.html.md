@@ -21,8 +21,6 @@ twitter_creator: "@gitlab"
 
 On this page, we're spotlighting conferences, summits, and events that focus on remote work. This page provides an overview of how to engage and extract maximum value from a virtual event, which may not be immediately intuitive to those who have not yet attended one.
 
-## What is a remote work conference?
-
 ## GitLab remote events
 
 Looking for remote-focused events that GitLab is hosting or participating in? For a running schedule, please bookmark the main [GitLab Events](/events/) page.
@@ -31,6 +29,10 @@ Looking for remote-focused events that GitLab is hosting or participating in? Fo
 
 Particularly for those who are [seeking a new role with an all-remote or remote-first company](/company/culture/all-remote/jobs/), events can be a great place to meet others who have experience and connections in the space. Below are several growing events that you may consider attending. 
 
+## What is a remote work conference?
+
+
+
 ### REMOTE by GitLab 
 
 ![REMOTE by GitLab banner](/images/all-remote/remote-hopin-banner-dark.png){: .medium.center}
@@ -38,6 +40,10 @@ Particularly for those who are [seeking a new role with an all-remote or remote-
 > [REMOTE by GitLab](https://hopin.com/events/remote-by-gitlab?ref=878eab263d97) is a premier event exploring the future of workplace design, strategy, and culture. During this half-day symposium on **June 29, 2021**, attendees learned how to create and sustain scalable remote practices within their teams and organizations. **REMOTE by GitLab** featured sessions from top remote leaders, detailing how remote work is transforming lives, companies, and communities. As one of the largest all-remote companies, GitLab brought together the workplace design community to inspire the future of business and culture in the post-office world. 
 > 
 > **Couldn't join us live? [Watch the recordings](https://www.youtube.com/c/Gitlab/playlists?view=50&sort=dd&shelf_id=1) on demand.** 
+
+## What is a remote work summit?
+
+A summit is typically a formal, standalone event with a narrowly defined focus. Remote summits may be by invitation only and encourage idea-sharing, discussion, or invite a specialized group of people to focus on solving a specific problem, such as GitLab's Remote Future Summit.
 
 ### The Remote Future Summit
 
