@@ -91,6 +91,10 @@ A summit is typically a formal, standalone event with a narrowly defined focus. 
 
 > [RemoteCon](https://www.remotecon.org/index.html) is a remote conference on remote work. It took place April 7, 2020 on Zoom. RemoteCon is organized by [Marcel Salathé](https://twitter.com/marcelsalathe) and a group of volunteers at EPFL who believe that remote is not only changing how we work, but also how society organizes itself. Getting remote work right is thus one of the biggest challenges of the 21st century. It’s time to talk about it.
 
+## What is the difference between a remote work conference and a remote work summit?
+
+Conferences are typically open to a broad audience, whereas summits are sometimes invitation-only for a specifically targeted group. Conferences are more about sharing information, whereas summits solve problems. Both are excellent places to gather cutting-edge information about the remote-working space and network with others in the industry. 
+
 ## The power of networking
 
 Networking takes additional consideration in the all-remote space, given that people congregate in the same physical space less often. This creates opportunity for conferences and summits to bring remote workers from all over the globe together, serving as a catalyst for collaboration, [communication](/company/culture/all-remote/informal-communication/), and inspiration. 
@@ -108,7 +112,7 @@ As remote work becomes more popular, a number of conferences and summits are eme
 1. Provide a platform for experts to share knowledge with the [broader remote work community](/company/culture/all-remote/jobs/).
 1. Create a tighter, more unified network of all-remote and remote-first advocates to evangelize for the creation of [more remote roles](/company/culture/all-remote/hiring/).
 
-## Experiencing a remote work conference
+## Experiencing a remote work conference, summit, or event  
 
 ![GitLab collaboration illustration](/images/all-remote/gitlab-collaboration.jpg){: .medium.center}
 
