@@ -9,26 +9,34 @@ title: "Enterprise Applications Integrations"
 
 ## Integrations - Workato Playbook
 
-### How request the access?
+### Support & Help Channel
+Please join [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) on Slack to;
+* Ask Questions
+* Get help & advice with your integrations
+* Hear about new Workato features
+* Get tips and tricks from the integrations team and other Workato users at GitLab
+* Hear about upcoming integrations programs
+
+### How request access?
 To get started with Workato, please create an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and assign it to @dparker or @karuna16. In the the AR, please include the following details:
 
-- [ ] your orgnisational team
-- [ ] workato environment - dev, test or prod.
+- [ ] your orgnizational team
+- [ ] Workato environment - dev, test or prod.
 - [ ] why you require access (for production only)
 
-#### Types of Roles/Accesses available in Workato:
-Currently, we have two classifactions of roles per team in Workato:
+#### Types of Roles/Access available in Workato:
+Currently, we have two types of roles per team in Workato:
 1. **Team Admin**: To Create, Edit, Deploy, Run/Stop recipes. Like Marketing Admin.
 2. **Team Ops**: To view, run/stop recipes. Like Marketing Ops.
 
-Please **note** that access is configurable per team and on a use case basis.
+Please **note** that access is configurable per team and on a case by case basis.
 
 #### Access Change Process:
 To change your access privileges in Workato all environments, please open an [access change request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and assign it to @dparker or @karuna16. 
 Please remember to mention the environment, if its for dev, test or prod.
 
 ### Getting Started with Workato
-Once the AR is approved and closed, you'll see the Workato app in your Okta home page. _Please refresh the Okta home page, in case you cannot find the app_. There're 3 Workato apps in Okta for each of the environment, based on your request, you'll see those ones in Okta.
+Once the AR is approved and closed, you'll see the Workato app on your Okta home page. _Please refresh the Okta home page, in case you cannot find the app_. There're 3 Workato apps in Okta for each of the environment, based on your request, you'll see those ones in Okta.
 
 <details>
 <summary>Click to view the screenshots</summary>
@@ -47,7 +55,7 @@ If it's your first time logging into Workato, you may be prompted to set a passw
 
 
 ### Workato Ramp-up programs
-There are number of short courses available on the Workato Automation Institution website for all levels of Workato experience - Beginner, Intermediate and Advanced. Select the course that best fits your level of experience with Workato and helps you learn what you need for your project. If you are unsure about which course to pick, contact the integrations team in `#bt-integrations` on Slack.
+There are a number of short courses available on the Workato Automation Institution website for all levels of Workato experience - Beginner, Intermediate and Advanced. Select the course that best fits your level of experience with Workato and helps you learn what you need for your project. If you are unsure about which course to pick, contact the integrations team in `#bt-integrations` on Slack.
 
 Here're are some of the course we recommend to get started with Workato:
 
@@ -126,7 +134,7 @@ Aside from that, we are actually going to be migrating to Workato Environments s
 Check out the [video](https://youtu.be/WfehKT5nnGo?t=365) to learn step-by-step how to use `Recipe Lifecycle Management` to promote your recipes and other assets to Production.
 
 ### Coming soon...
-Watch out this space for new happenings in Workato space:
+Join the [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) Slack channel to hear more information about upcoming programs
 
 #### :rocket: Soon to launch:
 - Workato Champion Program
