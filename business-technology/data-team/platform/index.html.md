@@ -686,9 +686,20 @@ For other tools, add users via the UI and in the appropriate [Google Group](http
 
 ## Google Data Studio
 
-Much like Google Drive all GitLab team members have access to Google's [Data Studio](https://datastudio.google.com/) which can be used to build dashboards with data from Google Sheets or other Google data sources. This is especially popular with Marketing with their use of Google Analytics. Though this resides outside of the platform described above, any data managed within Google's Data Studio must adhere to the same [Data Categorization and Management Policies](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html) as we do in the rest of our platform. 
+Much like Google Drive all GitLab team members have access to Google's [Data Studio](https://datastudio.google.com/) which can be used to build dashboards with data from Google Sheets or other Google data sources. Hence there is no access request needed to get access provisioned to Google Data Studio.
+Google Data Studio is especially popular with Marketing with their use of Google Analytics. Though this resides outside of the platform described above, any data managed within Google's Data Studio must adhere to the same [Data Categorization and Management Policies](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html) as we do in the rest of our platform.
+ 
+There are 3 types of objects available in Google Data Studio:
+- Data Sources
+  - This is a connection to data sources. **Currently there is no connection available/supported towards our Snowflake data warehouse.**
+- Reports
+  - This is for creating reports based on any connected data set.
+- Explorer
+  - This is a tool to quickly explore data sets and find detailed insights.
+ 
+The sharing and access process in Data Studio is comparable to sharing in Google Drive / Google Docs. Google Studio Objects can be shared with individuals in our GitLab organization account or with the Organization as a whole. There are no group or role level permissions available. Given the decentralized quality of managing dashboards and data sources in Data studio it is advised that business critical data and reporting be eventually migrated to Snowflake and Sisense. This is made easy with the use of [sheetload](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#sheetload) or FiveTran, which has a BigQuery connector.
+ 
+A GitLab Team Member that creates any artifacts in Google Studio owns the owner permissions of that particular object. With the ownership the GitLab Team Member holds responsibility to keep data SAFE within GitLab and outside the organization. Google Data Studio currently doesn't provide an admin interface that can take over the ownership. Upon off-boarding any ownership of existing objects should be carried over to ensure business continuity by the respective object owner.
 
-The sharing and access process in Data Studio is limited to sharing access with individuals in out GitLab organization account or with the Organization as a whole. There are no group or role level permissions available. 
-Given the decentralized quality of managing dashboards and data sources in Data studio it is advised that business critical data and reporting be eventually migrated to Snowflake and Sisense. This is made easy with the use of [sheetload](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#sheetload) or FiveTran, which has a BigQuery connector.
 
 
