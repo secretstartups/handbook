@@ -19,15 +19,11 @@ twitter_creator: "@gitlab"
 
 ![GitLab transport illustration](/images/all-remote/gitlab-transport.jpg){: .medium.center}
 
-On this page, we're spotlighting conferences, summits, and events that focus on remote work. This page provides an overview of how to engage and extract maximum value from a virtual event, which may not be immediately intuitive to those who have not yet attended one.
-
-## GitLab remote events
-
-Looking for remote-focused events that GitLab is hosting or participating in? For a running schedule, please bookmark the main [GitLab Events](/events/) page.
+On this page, we're spotlighting virtual events that focus on remote work. This page provides an overview of how to engage and extract maximum value from a virtual event, which may not be immediately intuitive to those who have not yet attended one.
 
 ## Remote work conferences and summits
 
-Particularly for those who are [seeking a new role with an all-remote or remote-first company](/company/culture/all-remote/jobs/), events can be a great place to meet others who have experience and connections in the space. Below are several growing events that you may consider attending. 
+Particularly for those who are [seeking a new role with an all-remote or remote-first company](/company/culture/all-remote/jobs/), remote-work events can be a great place to meet others who have experience and connections in the space. Below are several growing events that you may consider attending. 
 
 ## What is a remote work conference?
 
@@ -91,6 +87,10 @@ A summit is typically a formal, standalone event with a narrowly defined focus. 
 
 > [RemoteCon](https://www.remotecon.org/index.html) is a remote conference on remote work. It took place April 7, 2020 on Zoom. RemoteCon is organized by [Marcel Salathé](https://twitter.com/marcelsalathe) and a group of volunteers at EPFL who believe that remote is not only changing how we work, but also how society organizes itself. Getting remote work right is thus one of the biggest challenges of the 21st century. It’s time to talk about it.
 
+## GitLab remote events
+
+To find remote-focused events that GitLab is hosting or participating in,  please check the main [GitLab Events](/events/) page.
+
 ## What is the difference between a remote work conference and a remote work summit?
 
 Conferences are typically open to a broad audience, whereas summits are sometimes invitation-only for a specifically targeted group. Conferences are more about sharing information, whereas summits solve problems. Both are excellent places to gather cutting-edge information about the remote-working space and network with others in the industry. 
@@ -112,7 +112,7 @@ As remote work becomes more popular, a number of conferences and summits are eme
 1. Provide a platform for experts to share knowledge with the [broader remote work community](/company/culture/all-remote/jobs/).
 1. Create a tighter, more unified network of all-remote and remote-first advocates to evangelize for the creation of [more remote roles](/company/culture/all-remote/hiring/).
 
-## Experiencing a remote work conference, summit, or event  
+## Experiencing a remote work event  
 
 ![GitLab collaboration illustration](/images/all-remote/gitlab-collaboration.jpg){: .medium.center}
 
@@ -120,9 +120,9 @@ Prior to the Covid-19 pandemic, most conventional conferences and summits requir
 
 As events and conferences pivoted to virtual platforms in 2020, organizers were forced to become experts at connecting and engaging with attendees in creative ways that had not been explored before. While many conferences will certainly reincorporate some in-person element in the future, the tools and expertise gained through more than a year of exclusively virtual events will enable all conferences to be more inclusive and accessible going forward. Given that remote work summits are engineered to be open to anyone, anywhere in the world, virtual access is a vital part of ensuring that a global community can engage with content, speakers, panelists, and keynotes.  
 
-### Who will benefit from a remote work conference?
+### Who will benefit from a remote work event?
 
-Remote work summits welcome anyone interested in the future of workplace design, and do not shun or look down on those who work in colocated or hybrid organizations. The beauty of remote work events is that everyone is welcome, even those who may still be skeptical of remote work or have negative experiences. 
+Remote work events welcome anyone interested in the future of workplace design, and do not shun or look down on those who work in colocated or hybrid organizations. The beauty of remote work events is that everyone is welcome, even those who may still be skeptical of remote work or have negative experiences. 
 
 All-remote and remote-first workflows change rapidly. Technology, tools, mobile network infrastructure, internet ubiquity, and a cultural understanding of virtual communication all contribute to making remote work [increasingly feasible](/company/culture/all-remote/benefits/). Those who have a [negative](/company/culture/all-remote/drawbacks/) view of remote work, but are curious to see how the space is [evolving](/company/culture/all-remote/part-remote/), stand to gain much from attending remote work conferences and summits. 
 
