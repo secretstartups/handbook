@@ -30,7 +30,7 @@ This working group will organize all the domain experts needed, surface critical
 | Working Group Role             | Team Member     | Functional Title                           |
 |--------------------------------|-----------------|--------------------------------------------|
 | Facilitator                    | Johnathan Hunt  | VP of Security                             |
-| Functional Lead: PM            | Josh Lambert    | Director of Product Management, Enablement |
+| Functional Lead: PM            | Connor Gilbert  | Sr. Product Manager, Secure:Static Analysis |
 | Functional Lead: Pub Sec       | Bob Stevens     | Area Vice President, Public Sector Sales   |
 | Functional Lead: Compliance    | Julia Lake      | Director, Security Assurance               |
 | Executive Stakeholder          | Eric Johnson    | Chief Technology Officer                   |
