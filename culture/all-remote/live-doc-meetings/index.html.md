@@ -43,25 +43,17 @@ If you determine that a meeting is needed to move a project forward, address a b
 1. Ensure that the appropriate sharing settings are in place to prevent a chorus of "I can't access the agenda" comments; agendas should be editable by all participants
 1. Link the agenda in the meeting invite
 1. Establish the agenda as far in advance of the meeting as possible
-1. Agendas should be simple: numbered, bulleted lists that are concise and direct — a [boring solution](/handbook/values/#boring-solutions).
+1. Agendas should be simple: numbered, bulleted lists that are concise and direct — a [boring solution](/handbook/values/#boring-solutions)
 1. Questions should be [written](/handbook/values/#write-things-down) and listed upfront; this tends to increase the quality of questions
 1. Link any relevant piece of text to associated resources to prevent people from spending time searching or asking
 1. Take notes inline with the agenda rather than using a seperate "notes" section, with real-time notetaking by multiple participants encouraged 
-1. If you're not talking in the meeting, at any given time, help take notes. If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. Consider asking other people to write down the answers in real-time to allow the person who asked the question to focus on the answer. The person asking the question can touch up the answer when the conversation has moved on to something less relevant to them.
+1. If you're not talking in the meeting, at any given time, help take notes. If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. Consider asking other people to write down the answers in real-time to allow the person who asked the question to focus on the answer. The person asking the question can touch up the answer when the conversation has moved on to something less relevant to them
 1. Notes should be properly indented and structured to follow the conversation's flow
 1. Preface questions and answers with the participant's name, giving context to the origin
 1. Follow the order of the questions instead of jumping around in the agenda; this prevents the proverbial loudest voice in the room from dominating a conversation 
 1. Always ask if the name preceding the question would like to verbalize; if they wish not to, or are otherwise unavailable, the meeting host should verbalize on their behalf
 1. Reenact questions in the list by verbalizing them even if they were already asked and answered in the shared document. Hearing the question and answer allows everyone to think about it and respond to it. It might also happen that when verbalizing the question or answer more context is given since most people can talk faster and with less effort than they can type. Another advantage if you're recording the meeting is that the recording contains everything.
-1. Unless the meeting contains [Not Public](/handbook/communication/#not-public) information, record the meeting to share with those who cannot attend live and consider livestreaming for maximum transparency and feedback potential 
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/YnSNyJue0L8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-The [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) video embedded above shares an overview of how Live Doc Meetings are used. 
+1. Unless the meeting contains [Not Public](/handbook/communication/#not-public) information, record the meeting to share with those who cannot attend live and consider livestreaming for maximum transparency and feedback potential
 
 ## Benefits of live doc meetings
 
@@ -96,6 +88,15 @@ Here is a [sample template for a live doc meeting](https://docs.google.com/docum
 
 ## How can I view a live doc meeting recording?
 
+You can access GitLab's most recent recorded meetings via [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) --they are filed under the Uploads header.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/YnSNyJue0L8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+In this [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) video, Darren M shares an overview of how Live Doc Meetings are used. 
 
 For a deeper dive on how GitLab thinks about and implements all facets of meetings in a remote work environment, visit our [all-remote meetings guide](/company/culture/all-remote/meetings/). 
 
