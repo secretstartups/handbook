@@ -60,7 +60,7 @@ Within the view drop down you have the option to look at your targets by quarter
 
 - **FM Forecasting Monthly** - will ONLY show line items with forecasted spend - Only available on the FMM activity plans
 - **FM Planning Monthly** - will only show line items that were present at the time the plan was locked - Only available on the FMM activity plans
-- **My Forecast FY22** - Where you see what's planned to ensure you've added forecasted amounts against the plan
+- **My Forecast FYXX** - Where you see what's planned to ensure you've added forecasted amounts against the plan
 - **Q1 team Tracking** - shows both plan AND forecasted line items with a start and end date in Q1
 - **Q2 team Tracking** - shows both plan AND forecasted line items with a start and end date in Q2
 - **Q3 team Tracking** - shows both plan AND forecasted line items with a start and end date in Q3
@@ -102,7 +102,7 @@ This button can be used to request funds from another department. Specific appro
 ##### Within the grid
 
 - Hierarchy - this is where categories, subcategories and the line items are organized.
-- Vendor - this needs to be the name of the Vendor for the expense so that it will match with our eventual PO system coming in FY22. We have also added this to the Details Panel (and may remove from the main grid based on input)
+- Vendor - this needs to be the name of the Vendor for the expense so that it will match with our eventual PO system, Coupa. We have also added this to the Details Panel (and may remove from the main grid based on input)
 For common vendors, it's important to note that you must use the same upper and lower case terminology, as well as spacing to conform to a standard naming convention if you're trying to have the line items pull under the same vendor in any vendor report. A best practice is to visit the vendor's website and use their exact naming convention. Examples of common vendors we use and how they should be written out for reporting:
 
 1. Demandbase
@@ -143,7 +143,7 @@ Any line items within a category or subcategory default inherit the details from
 - (FM only) Geo - allows the field marketer to choose more detailed location
 - (FM only) Country - allows the field marketer to choose more detailed location; is also tracked for Priority Country analysis
 - Campaign Type - should match the type used in Marketo and SFDC; limited based on input in Spend Type above
-- Existing SFDC campaign - this is a dropdown that includes all FY22 campaigns that have been set up in SFDC; if it does not relate to an actual SFDC event/campaign, this can be left blank.
+- Existing SFDC campaign - this is a dropdown that includes all campaigns that align wit the hierarchy that have been set up in SFDC; if it does not relate to an actual SFDC event/campaign, this can be left blank.
     - Note: If the SFDC campaign has not been created at the time of the entry you will not need to manually go back and add the campaign in the details panel. Once the SFDC campaign has been created the Allocadia<>SFDC synch will match the Allocadia line item to the SFDC campaign and your campaign will then show up in your details panel.
     - We likely will be revising the naming to enable the SFDC campaign name (aka Campaign Tag) concatenated with the 7 digit Allocadia (line item) ID to fit within the required 31 characters allowed for this field in Netsuite and Expensify.
 - Campaign Tag to be Created - add the historic campaign tag name here
@@ -233,7 +233,7 @@ The reports are broken out in folder format and once you click into the folders,
 1. `Insights>Dashboards>1.Investment Tracking Summary`To understand how much you're [on track to invest](https://support.allocadia.com/hc/en-us/articles/115003253034-Investment-Tracking-Summary-Report) - Watch [this video](https://youtu.be/MIYFnA5xKnU) walk through
 1. `Insights>Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Campaign Type` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller -
     - [Video walk through](https://youtu.be/bauTMmEnaXc)
-1. `Insights>Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Motion` - This report allows you to see how your plans are aligned to the FY22 Marketing GTM motions. Please be sure you are filtering by Activity plan, NOT by Region.
+1. `Insights>Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Motion` - This report allows you to see how your plans are aligned to the Marketing GTM motions. Please be sure you are filtering by Activity plan, NOT by Region.
     - [Video walk through](https://youtu.be/XfgckiT9_1s) -
 1. Monthly forecasting report - at the home screen, click into the `view roll-up` button. [Video walk through](https://youtu.be/TnY8T9s3o-E) & select which view you're looking for - i.e. Q1, Q2 etc.
 1. Monthly/Qtrly Actuals review - To understand how much you planned for, forecasted for, and then actually spent. At the home screen, click into the `view roll-up` button. [Video walk through](https://youtu.be/apiJxzrDZe4) & select which view you're looking for - i.e. Q1, Q2 etc.
@@ -291,7 +291,9 @@ If you've hit the GitLab issue template button and the wrong issue template has 
 
 ### SalesForce.com (SFDC)
 
-As mentioned above, there is a listing of available FY23 SFDC campaigns to choose from in the detail panel. Once the initial connection has been made between Allocadia and SFDC on a given campaign, Allocadia will push over all the fields that have been completed in the details panel. In addition, we will be sending over forecast amounts into the SFDC Campaign Budget field as it gets updated. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget. Keep this in mind when considering which line to map to a SFDC campaign: it does not matter which one you decide to use (line, category or subcategory). It's up to the user to figure out their folder structure and determine the highest level ID that houses all the information.
+As mentioned above, there is a listing of available FY23 SFDC campaigns to choose from in the detail panel. Once the initial connection has been made between Allocadia and SFDC on a given campaign (which is done by either manually connecting them via choosing a campaign from the drop down or by using your Allocadia ID to create your Marketo program, instructions in [pt.2 & 5 here](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)), Allocadia will push over all the fields that have been completed in the details panel. 
+
+In addition, we will be sending over planned amounts into the SFDC Campaign Budget field and actuals will synch nightly. This ONLY happens if the connection is there by having a campaign selected in the `Existing SFDC Campaign` field. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget. Keep this in mind when considering which line to map to a SFDC campaign: it does not matter which one you decide to use (line, category or subcategory). It's up to the user to figure out their folder structure and determine the highest level ID that houses all the information.
 
 When a category or sub-category ID is used, the SFDC Campaign will be auto-tagged to all the line items within that category or sub-category.
 
