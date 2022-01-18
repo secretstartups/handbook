@@ -110,7 +110,7 @@ These definitions imply several on-call rotations for the different roles.
     1. If the EOC believes the alert is incorrect, comment on the thread in `#production`. If the alert is flappy, create an issue and post a link in the thread. This issue might end up being a part of RCA or end up requiring a change in the alert rule.
 1. _Be inquisitive_. _Be vigilant_. If you notice that something doesn't seem right, investigate further.
 1. After the incident is resolved, the EOC should review the comments and ensure that the [corrective actions](#corrective-actions) are added to the issue description, regardless of the incident severity. If it has a `~review-requested` label, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review/), in some cases this may be be a synchronous review meeting or an async review depending on what is requested by those involved with the incident. 
-1. The EOC should not consider immediate work on an incident completed until the top description section in in the Incident Issue (above the "Incident Review" section) is filled out with useful information to describe all the key aspects of the Incident. 
+1. The EOC should not consider immediate work on an incident completed until the top description section in the Incident Issue (above the "Incident Review" section) is filled out with useful information to describe all the key aspects of the Incident. 
 
 ##### When to Engage an Incident Manager
 
@@ -136,7 +136,7 @@ If any of the following are true, it would be best to engage an Incident Manager
     1. Director of Infrastructure Platform - Marin Jankovski
     1. VP of Infrastructure - Steve Loyd
 1. After the incident is resolved, the Incident Manager is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review/).
-    1. The IM should not consider immediate work on an incident completed until the top description section in in the Incident Issue (above the "Incident Review" section) is filled out with useful information to describe all the key aspects of the Incident. 
+    1. The IM should not consider immediate work on an incident completed until the top description section in the Incident Issue (above the "Incident Review" section) is filled out with useful information to describe all the key aspects of the Incident. 
     1. If an incident is either an S1 or public S2(including security) then the Incident Manager should add the incident to the [Gitlab.com standup agenda (internal only)](https://docs.google.com/document/d/1vww0BfRzHtrGhMppTEw5Q27KSzD1e72dmJ3XoppxC-A/edit#).
     1. If the meeting is not active (no planned agenda or active calendar event) then the Incident Manager should call for activation of the meeting for the following business day by noting the need in slack #vp-development and #vp-infrastructure.
 1. For high severity bugs that affect customers, the Incident Manager is responsible for making sure Incident Reviews are coordinated with other departments in Engineering and go through the complete Incident Review process.
