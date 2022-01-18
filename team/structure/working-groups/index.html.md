@@ -182,7 +182,7 @@ If you are interested in participating in an active working group, it is general
 
 ## 12 Cross-Functional Initiatives
 
-In FY22-Q4, we identified 11 cross-functional initiatives that are key to GitLab's success in FY23 and beyond. While there are other important business initiatives and priorities that exist within functions or require engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring. 
+In FY22-Q4, we identified 12 top cross-functional initiatives that are key to GitLab's success in FY23 and beyond. While there are other important business initiatives and priorities that exist within functions or require engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring. 
 
 | Initiative | DRI |
 | ------ | ------ |
