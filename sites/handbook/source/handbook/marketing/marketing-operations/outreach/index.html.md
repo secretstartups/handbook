@@ -161,19 +161,27 @@ In EMEA, we have purchased a number of phone numbers for the SDRs to use while o
 
 If you need a phone number, please open an issue and we can purchase one if approved. Keep in mind that we can mostly only buy phone numbers in countries where we have an entity.  
 
-### Outreach Engagement Panel
-Custom fields from Outreach that sync into SFDC for understanding engagement status in Outreach.
+### Outreach Engagement Panel & Sequence Attribtution
+Custom fields from Outreach that sync into SFDC for understanding engagement status in Outreach. 
 
-|Field Name|Description|
+|Field Name|Description|SFDC Object|
 |----|----|
-| Actively Being Sequenced| Checkbox for if a prospect is active in a sequence |
-| Name of Active Sequence | Name of the most recent active sequence. If they are in multiple sequences it will note the sequence they have been in the longest.|
-| Sequence Status | The state of the sequence: Active, Pending, Failed.|
-| Number of Active Sequences | How many sequences a lead is active in. |
-| Sequence User | Is the User ID of who sequenced the lead. |
-| Sequence Task Due Date | identifies the date the upcoming task is due. |
-| Sequence Step Number | Identifies the step of the sequence a lead is in.|
-| Sequence Step Type | Identifies if the step is Phone Call or Automated E-mail, ect. |
+| Actively Being Sequenced| Checkbox for if a prospect is active in a sequence | Lead & Contact |
+| Name of Active Sequence | Name of the most recent active sequence. If they are in multiple sequences it will note the sequence they have been in the longest.|  Lead & Contact |
+| Sequence Status | The state of the sequence: Active, Pending, Failed.| Lead & Contact |
+| Number of Active Sequences | How many sequences a lead is active in. | Lead & Contact |
+| Sequence User | Is the User ID of who sequenced the lead. | Lead & Contact |
+| Sequence Task Due Date | identifies the date the upcoming task is due. | Lead & Contact |
+| Sequence Step Number | Identifies the step of the sequence a lead is in.| Lead & Contact |
+| Sequence Step Type | Identifies if the step is Phone Call or Automated E-mail, ect. | Lead & Contact |
+| Date Added to Sequence | Date of when prospect was added to current sequence. | Lead & Contact |
+| Finished Sequences | Lists all sequences the prospect has finished. | Lead & Contact |
+| Initial Sequence Name | Name of the first sequence prospect entered | Lead & Contact |
+| Initial Sequence ID | ID of the first sequence prospect entered | Lead & Contact |
+| Initial Sequence Date | Date of the first sequence prospect entered | Lead & Contact |
+| Attributed Finished Sequences | Lists all sequences prospects finished before the opportunity was opened | Opportunity |
+| Last Touch Contact | Last user to contact the prospect before opportunity was opened | Opportunity |
+| Last Touch Sequence | Last sequence prospect was in before opportunity was opened | Opportunity |
 
 ### Sending Email Using Outreach   
 
