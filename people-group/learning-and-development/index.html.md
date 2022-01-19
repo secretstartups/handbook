@@ -11,7 +11,7 @@ title: Learning & Development
 
 ## Team Member Resources
 
-Explore the resources from the Learning & Development team
+The Learning & Development team has a number of resources to help team members learn new skills. 
 
 <div class="flex-row" markdown="0">
   <div>
