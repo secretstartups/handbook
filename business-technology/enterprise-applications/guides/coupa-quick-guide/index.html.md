@@ -20,29 +20,24 @@ description: "Coupa End Users Quick Guide"
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Need more details/information on the requisition process?
 
-Click on the below buttons for more details/information of the steps:
-<div class="flex-row" markdown="0" style="height:110px;justify-content:center">
-  <a href="/handbook/finance/procurement/new-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">New Software</a>
-  <a href="/handbook/finance/procurement/software-renewal/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Software Renewal or add-on</a>
-  <a href="/handbook/finance/procurement/professional-services/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Professional Services / Contractors / Agencies</a>
-  <a href="/handbook/finance/procurement/field-marketing-events" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Field Marketing and Events</a>
-  <a href="/handbook/finance/procurement/office-equipment-supplies/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Home office equipment and supplies</a>
-  <a href="/handbook/finance/procurement/personal-use-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Individual Use Software</a>
-</div> 
-
+Click on the below links for more details/information of the steps:
+* [Requestor completes request form in Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition)
+* [Is Supplier in Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier)
+* [Requestor completes New Supplier Request form](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier)
+* [Vendor onboarded in Coupa](https://about.gitlab.com/handbook/finance/accounting/#new-vendor-onboarding---coupa)
+* [Complete request form and submit](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition)
+* [Request routed for approval](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#approvals)
+* [After Requestion fully approved; PO issued](https://about.gitlab.com/handbook/finance/procurement/coupa-faq/#how-will-suppliers-be-notified-when-a-po-has-been-raised-for-them)
 
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Need more details/information on the invoicing process?
-Click on the below buttons for more details/information of the steps:
-<div class="flex-row" markdown="0" style="height:110px;justify-content:center">
-  <a href="/handbook/finance/procurement/new-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">New Software</a>
-  <a href="/handbook/finance/procurement/software-renewal/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Software Renewal or add-on</a>
-  <a href="/handbook/finance/procurement/professional-services/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Professional Services / Contractors / Agencies</a>
-  <a href="/handbook/finance/procurement/field-marketing-events" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Field Marketing and Events</a>
-  <a href="/handbook/finance/procurement/office-equipment-supplies/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Home office equipment and supplies</a>
-  <a href="/handbook/finance/procurement/personal-use-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Individual Use Software</a>
+Click on the below links for more details/information of the steps:
+* [Invoice issued by Supplier](https://about.gitlab.com/handbook/finance/accounts-payable/#coupa)
+* [Invoice submitted via Coupa Supplier Portal](https://about.gitlab.com/handbook/finance/accounting/#invoicing-in-coupa)
+* [Invoice processed/routed for approval](https://about.gitlab.com/handbook/finance/accounting/#approving-an-invoice-in-coupa)
+* [Requestor approves invoice or receives PO](https://about.gitlab.com/handbook/finance/accounting/#approving-an-invoice-in-coupa)
+* [Invoice paid based upon terms on contract](https://about.gitlab.com/handbook/finance/accounts-payable/#tanuki-orange)
 </div> 
 
   {::options parse_block_html="false" /}
-
 
