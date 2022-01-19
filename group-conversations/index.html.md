@@ -110,22 +110,22 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 
 1. You can invite someone within your team to give the update. It doesn't need to be the team lead, but the team lead is responsible for making sure that it is given.
 1. The host of the GC or the EBA to the host should update the [Group Conversation Agenda Document](https://docs.google.com/document/d/1zELoftrommhRdnEOAocE6jea6w7KngUDjTUQBlMCNAU/edit) with: 
-   1. Link of the Google Slides presentation (with edit or comment access to everyone at GitLab). 
+   1. Link of the Google Slides presentation (with edit or comment access to everyone at GitLab). This should be the same slides used for a Key Review, if applicable. 
    1. Link to the video of their Group Conversation presentation on GitLab Unfiltered. (recommended, but optional)
    1. The host's name.
    1. The streaming DRI.
    1. Link to the Key Review Agenda (if applicable).
 1. The EBA team is responsible for pinging the appropriate team member 72 hours in advance if the document has not been updated by 8am US Pacific Time. 
-1. Post links to the Key Review video (if applicable), Key Review Notes (if applicable), Group Conversation Agenda Document, the presentation slides, and the Group Conversation presentation video (optional) in the #whats-happening-at-gitlab channel 72 hours before the call. We ask that this is done at least 72 hours ahead of the Group Conversation to ensure that team members around the world have an opportunity to review async and add their questions. 
+1. Post links to the Key Review video (if applicable), Key Review Notes (if applicable), Group Conversation Agenda Document, the presentation  (same as the Key Review slides, if applicable), and the Group Conversation presentation video (optional) in the #whats-happening-at-gitlab channel 72 hours before the call. We ask that this is done at least 72 hours ahead of the Group Conversation to ensure that team members around the world have an opportunity to review async and add their questions. 
 1. Consider blocking off the 30 minutes before you are scheduled to lead a Group Conversation to make sure you can join on time and test that everything is working appropriately to host and stream the Group Conversation. 
 
 #### Presentation
 
-Use presentations to document everything people should know about your group. We suggest that the slides start with the top 3-5 highlights or top of mind updates that are relevant across functions, followed by additional information. These presentations are for attendees to review and generate questions from for the call, and attendees will often have [low context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication) around your function or team. 
-
-You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. 
+Use presentations to document everything people should know about your group. If the GC is for a group that didn't have a Key Review, and are preparing new slides, the slides should start with the top 3-5 highlights or top of mind updates that are relevant across functions, followed by additional information. These presentations are for attendees to review and generate questions from for the call, and attendees will often have [low context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication) around your function or team. 
 
 Functions with Key Reviews should not create a new deck for a Group Conversation but should use their [Key Review deck](/handbook/key-review/#group-conversations-and-key-review-metrics) for the Group Conversation.
+
+You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. 
 
 **Please remember that you should NOT present during a Group Conversation.** Synchronous calls are for conversation and discussion. It is the responsibility of the attendees to prepare questions before the call to maximize value of time spent synchronously. If someone does start to present the slides in the group conversation everyone is encouraged to say: 'At GitLab we use meetings for conversation and not presentation, but please do consider recording a video for next time.' Expect to be interrupted if presenting more than a 15 second welcome statement.
 
@@ -262,7 +262,7 @@ Additional links which may be useful when preparing to moderate a call include:
 There is a [rotating schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing) with each Department having a conversation on a regular interval.
 We usually do not have Group Conversations or Company calls during the last two weeks of December. We also tend to cancel these during [Contribute](https://about.gitlab.com/events/gitlab-contribute/).
 
-On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [functions with Key Reviews](/handbook/key-review/#invitees) will have monthly Group Conversations within 10 days following their Key Review. They are expected to largely leverage their Key Review material. Other groups will have one meeting in the eight week cycle. Please note: the freqency of Group Conversations does not recur on a specific cadence, but rather an estimated time (ex: the Strategic Marketing GC happens every other month, but does not happen specifically on the 4th Wednesday every other month). Groups Conversations without Key Reviews can only be swapped with other Groups without Key Reviews, or scheduled during an open day that is available as noted on the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing).
+On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [functions with Key Reviews](/handbook/key-review/#invitees) will have Group Conversations within 10 days following their Key Review. They are expected to largely leverage their Key Review material. **Group Conversations for groups without a Key Review are optional.** Please note: the frequency of Group Conversations does not recur on a specific cadence, but rather an estimated time (ex: the Strategic Marketing GC happens every other month, but does not happen specifically on the 4th Wednesday every other month). Groups Conversations without Key Reviews can only be swapped with other Groups without Key Reviews, or scheduled during an open day that is available as noted on the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing).
 
 | Group Conversation | DRI | Key Review? | GC Frequency |
 | ------------------ | --- | ----------- | ------------ |
