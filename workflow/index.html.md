@@ -430,6 +430,8 @@ We have the following deadlines:
 - Between `M, 24th` to `M+1, 3rd`: Participants complete the [Retrospective planning and execution issue](#retrospective), add their notes to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#), and suggest and vote on discussion topics.
 - On or around `M, 26th`:
   - [Product plans](/handbook/product/product-processes/#managing-your-product-direction) are to update to reflecting previous and current releases, including category epics and direction pages.
+- On or around `M, 28th`:
+  - Non-critical security patches are  [released](../security/index.html#security-releases).
 - On `M+1, 4th`: Moderator records the [Retrospective Summary](#retrospective-summary) video and announces the video and discussion topics.
 - On `M+1, 6th:` [Retrospective Discussion](#retrospective) is held.
 
