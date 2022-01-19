@@ -180,7 +180,7 @@ _2022 Rates_: The following costs are monthly rates which would be deducted from
 | Team Member + Child(ren) | $0  | $188 | $184 |             
 | Family                   | $0  | $426 | $416 |
 
-Note: For the **team member only HSA**, GitLab will contribute $100 per month. For residents of California, Alabama, and New Jersey this additional contribution is taxable on the state level. Effective January 1, 2022, GitLab will expand the $100 per month HSA employer contribution to all Tiers. 
+Note: For the **HSA**, GitLab will contribute $100 per month. For residents of California, Alabama, and New Jersey this additional contribution is taxable on the state level.  
 
 ##### Cigna Infertility Services
  
@@ -551,7 +551,7 @@ If you are enrolled in a Health Savings Account (HSA), Flexible Spending Account
 
 #### Health Savings Account (HSA)
 
-GitLab contributes $100 per month for those enrolled in the **team member only** tier of coverage. There is no contribution for other tiers of coverage.
+GitLab contributes $100 per month for those enrolled in the HSA.
 
 If you would like to transfer your HSA from a previous account, please contact WEX (Discovery) and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to WEX (Discovery), and they will get in contact with your old HSA provider and process the transfer of funds. You can reach WEX (Discovery) at 866.451.3399 or `customerservice@discoverybenefits.com`. 
 
