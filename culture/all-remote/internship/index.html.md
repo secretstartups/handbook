@@ -26,7 +26,7 @@ There are many reasons why remote internships are a value-add to any organizatio
 
 ### Competitive hiring advantage
 
-All-remote is the [future of work](/company/culture/all-remote/vision/). The ability to learn and work from wherever one is most fulfilled will soon become the norm. [Companies](/company/culture/all-remote/jobs/) which are built to support remote work (e.g. firms which create digital products), yet refuse to offer such flexibility, will be in low demand by top talent. This includes the most promising interns.
+Remote is the [future of work](/company/culture/all-remote/vision/). The ability to learn and work from wherever one is most fulfilled will soon become the norm. Companies which are built to support remote work (e.g. firms which create digital products), yet refuse to offer such flexibility, will be in low demand by top talent. This includes the most promising interns.
 
 Offering remote internships provides a competitive advantage to attracting ambitious and capable interns, but it will soon [diminish](/company/culture/all-remote/vision/#diminishing-competitive-advantage) into a practical requirement.
 
@@ -69,7 +69,7 @@ Learn more about the importance of clear [communication](/handbook/communication
 
 ## What are the best practices for managing a remote internship?
 
-Managing a remote internship is similar to managing in-person. We've created an [in-depth guide to being a great remote manager](/company/culture/all-remote/being-a-great-remote-manager/#traits-of-a-great-remote-manager) which includes focusing on:
+Managing a remote internship is similar to managing one in-person. We've created an [in-depth guide to being a great remote manager](/company/culture/all-remote/being-a-great-remote-manager/#traits-of-a-great-remote-manager) which includes focusing on:
 
 * [Self-awareness](/company/culture/all-remote/being-a-great-remote-manager/#self-awareness) for relationship building 
 * Employing [empathy and kindness](/company/culture/all-remote/being-a-great-remote-manager/#empathy)
@@ -83,7 +83,7 @@ Remote internships are fertile ground for communication breakdowns. Intentionall
 
 ### Creating good communication
 
-There is much to glean from [GitLab's approach to meetings](/company/culture/all-remote/meetings/), and a well-organized internships will also incorpirate communication strategies such as [scheduled AMAs, group conversations, and Key Reviews](/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings).
+There is much to glean from [GitLab's approach to meetings](/company/culture/all-remote/meetings/), and a well-organized internships will also incorporate communication strategies such as [scheduled AMAs, group conversations, and Key Reviews](/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings).
 
 ### Creating psychological safety
 
@@ -180,7 +180,7 @@ Hiring remote interns is hard. An organization shouldn't make it harder by conce
 ## How can interns make the most of a remote internship?
 
 
-Interns must recognize that expectations will likely be higher in a remote internship, while resources *may* be fewer if a company lacks a mature internship infrastructure.
+Interns must recognize that expectations for self-managing your time will likely be higher in a remote internship, while resources *may* be fewer if a company lacks a mature internship infrastructure.
 
 It's important to ask questions during the interview phase to understand the work environment. You'll want to make sure you have a remote mentor or [onboarding buddy](/handbook/people-group/general-onboarding/onboarding-buddies/) who will be available to answer questions related to working remotely.
 
@@ -193,7 +193,7 @@ If you don't hire your remote intern/s at the end of their internship experience
 
 1. [Say Thanks](handbook/communication/#say-thanks) for the work they contributed during their internship. At GitLab, we even have a `#thanks` Slack channel! 
 1. Acknowledge intern contributions in team meetings, issues, company calls, 1-1 meetings.
-1. To thank someone who is not a team member at GitLab, you can [nominate them for community swag](/handbook/marketing/community-relations/code-contributor-program/community-appreciation/).
+1. Send a gift or a swag bag to commemorate their contributions.
 
 Don't forget to gather information they are willing to share such as their email address, LinkedIn profile, or handles for other social channels so you can stay in touch. Who knows...maybe a [position at GitLab](/jobs/) will come available that you can hire them for!
 
