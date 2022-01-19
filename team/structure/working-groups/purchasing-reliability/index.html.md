@@ -131,5 +131,5 @@ defining a clear vision and team/service boundaries going forward.
 | Member                | Vincy Wilson          | Manager, Quality                                |
 | Member                | Chloe Liu             | Senior Software Engineer in Test, Quality       |
 | Member                | Justin Farris         | Sr Director, Product Monetization                 |
-
+| Member                | Christopher Nelson    | Sr Director, Enterprise Applications              |
 
