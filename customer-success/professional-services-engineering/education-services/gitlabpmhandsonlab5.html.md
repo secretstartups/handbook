@@ -19,7 +19,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 1. On the left hand pane, click on Issues and then click on your open issue.  
 2. Once you have your issue open, click on the **edit** icon next to Milestone and add the **Sprint 1** milestone to the issue.  
 3. Navigate back to your sub-group and click on the **Project 1x Marketing Work** epic.  
-4. In the upper right corner, click the Add dropdown and select **Add a New Issue** from the drop down.**   
+4. In the upper right corner, click the Add dropdown and select **Add a New Issue** from the drop down.   
 5. In the Title field, type “*Marketing Material Drafts*” and in the drop down menu select your project and click **Create Issue**.  
 6. Repeat the steps to create another issue titled, “*Marketing Material Approvals*”.  
 7. Click on each issue and add a **weight of 30**, **workflow::todo label**, and **Sprint 1 Milestone** to both.  
