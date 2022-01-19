@@ -24,27 +24,10 @@ Here are a few key things you can do to become a **talent ambassador for GitLab.
 ## How to get started
 
 
-### 1. Request a LinkedIn Recruiter account
-
-If you're a hiring manager or part of a hiring team, you should upgrade your LinkedIn account to a "LinkedIn Recruiter" seat.
-
-*LinkedIn's analytics on GitLab show that our hiring managers have a 43% higher inMail acceptance rate than recruiters or sourcers.*
-
-**With a LinkedIn Recruiter seat, you'll be able to:**
-- Collaboratively source candidates with other team members via Projects
-- Send unlimited InMails (InMail metrics is one of our KPIs)
-
-**Ready to upgrade your account?**
-
-Learn more about LinkedIn Recruiter and how to [upgrade your account.](/handbook/hiring/sourcing/#upgrading-your-linkedin-account)
-
-**Already upgraded your account?** Awesome! [Check out Step 5](/handbook/hiring/gitlab-ambassadors/#start-sourcing), it's time to start sourcing.
-
-______
-
-### 2. Optimize your profiles
+### 1. Optimize your social media profiles (especially LinkedIn)
 
 Whether they're just interested in GitLab or have already been sourced or interviewed for a role, most candidates have done their homework on their prospective manager and team.
+
 If you're a hiring manager or part of the hiring team, you'll want your LinkedIn profile (and any other sites you use for work, like Twitter) to represent you and GitLab in the best way.
 
 Here are some steps you can take to get started optimizing your profile.
@@ -55,7 +38,7 @@ Here are some steps you can take to get started optimizing your profile.
 - Write a headline that creatively explains your role or passion.
 
 **2. Use a banner image**
-- Your banner image is a great way to visually spread the word about GitLab. Consider using an image from the [marketing repository](https://gitlab.com/gitlab-com/marketing/general/tree/master/design/social-media/profile-assets/png/assets/general).
+- Your banner image is a great way to visually associate yourself with GitLab or a subject matter area you're passionate about. You can find several GitLab-branded banners in the [corporate marketing repository](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/social-media/profile-assets/png/assets/_general/gitlab-linkedin-banner-general-2200x748.png).
 
 **3. Write a summary**
 - Your summary should mirror your personal elevator pitch. It should tell people who you are and what you're passionate about.
@@ -84,28 +67,37 @@ LinkedIn's "Rock Your Profile" session for GitLab (held 2020-02-28):
 
 ______
 
-### 3. Share life at GitLab with the World
+### 2. Share what life is like as part of the GitLab team
 
 Candidates will do their research in places far beyond our jobs site to find out more about whether GitLab is the right fit for them.
+
 We want to be sure we're telling an authentic story about life at GitLab, and one of the best ways to do that is through our team members.
-You can help amplify that story by tapping into your networks on social media and sharing what it's like to be part of our team.
 
-Once you've checked out the [team member social media policy](/handbook/marketing/team-member-social-media-policy/), here are some ideas for types of content you can share to help candidates learn more about GitLab and your team in particular:
-- Blog posts from the [Culture section](/blog/categories/culture/) of the GitLab blog
-- Videos about life at GitLab from our YouTube channel ([here's an example](https://youtu.be/V2Z1h_2gLNU))
-- A blog post [you've written](/handbook/marketing/blog/unfiltered/) about what it's like to work here/on your team
-- [Videos about your team or job family](/handbook/hiring/vacancies/#add-a-video) or what it's like to work on your team ([example](https://youtu.be/KH0knfmwgvc)).
-- Photos of meetups or coworking days with GitLab team members
-- Articles about GitLab in the news - follow the #newswire channel in Slack for a great source of daily updates
-- Your [README file](/handbook/leadership/#your-individual-readme)
-- Consider hosting a public AMA (Ask Me Anything) on [social media](/handbook/marketing/team-member-social-media-policy/) or YouTube about working or life at GitLab, using the `#LifeAtGitLab` hashtag. Or, record a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) with a team member about life at GitLab and upload it to the `Working at GitLab` playlist on [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KqNM5pnenLqkA9pIoFO5edr).
+Once you've reviewed the [team member social media policy](/handbook/marketing/team-member-social-media-policy/), you'll find a library of suggested posts to share using our social media advocacy platform, [Bambu by Sprout](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/team-member-social-advocacy/#suggesting-content-for-team-members-to-share-on-bambu).
 
-Here are some [talent brand resources](/handbook/people-group/employment-branding/#talent-brand-resources) you can reference for our latest team headcount, awards, blogs, and more facts about working at GitLab.
+## Being an advocate for our talent brand on social media
+
+There are several important things to keep in mind when sharing your opinions about working at GitLab on social media. Please keep these things in mind as you create public-facing posts:
+
+**1. Be as specific as possible when sharing examples about your experience.
+- With more and more team members joining GitLab there's likely to be more variation in the team member experience. Making statements like, "At GitLab, we all..." or, "At GitLab, everyone..." may create unrealistic expectations if the detail being shared only applies to particular teams or functions within the company.
+- As GitLab grows, there will be more variation in the experience of working here. If you're sharing a specific practice or ritual that happens on your team it would be more appropriate to say something like "On GitLab's Marketing team, we..." versus "At GitLab, we...". It's often the case that teams within GitLab will develop their own unique practices and being as specific as possible will better set expectations with candidates.
+
+**2. Speak to your personal experience.
+- The more you're able to add color to a social post by adding details from your personal experience the more effective it will be in illustrating the experience of working here. A good example of this would be to talk about how you took advantage of a particular benefit rather than simply highlighting a particulat benefit that GitLab offers.
+
+**3. Highlight how key themes that make GitLab a unique place to work come to life for you.
+- The more we can highlight the [Advantages](https://about.gitlab.com/company/culture/#advantages) of working at GitLab to future candidates, the more we'll be able to attract talented people to join GitLab.
+
+**4. Actively invite people to help us on our journey.
+- Future candidates will be more interested in hearing about what we're building toward rather than where we have already arrived. Think about ways in which your messaging can invite others to "help us build a special company" rather than "joining a special company".  
+
+**5. If you're unsure how to communicate something, you can always reach out to the #talent-brand channel on slack.
+
 
 #### On LinkedIn
 
-- Don't be afraid to share more than just articles on LinkedIn. Post when you're attending an event with GitLab, share a photo of where you're working today, or consider writing a blog post about working at GitLab.
-- As you're sharing this content on LinkedIn, use the hashtags `#LifeAtGitLab` and `#AllRemote` as you deem suitable. This will connect your post to a curated feed of content from our team members on [GitLab's "life" tab](https://www.linkedin.com/company/gitlab-com/life) on LinkedIn, and promote our 100% remote culture.
+- As you're sharing content on LinkedIn, use the hashtags `#LifeAtGitLab` and `#AllRemote` as you deem suitable. This will connect your post to a curated feed of content from our team members on [GitLab's "life" tab](https://www.linkedin.com/company/gitlab-com/life) on LinkedIn, and promote our remote culture.
 
 #### On Twitter
 
@@ -133,7 +125,7 @@ Know of another site where GitLab should have a talent acquisition or talent bra
 
 -----
 
-### 4. Refer great people to GitLab
+### 3. Refer great people to GitLab
 
 One of the best ways to help GitLab grow is by referring talented people in your network.
 
@@ -143,6 +135,23 @@ We want to hire the best candidate for the role and make sure that person will b
 Here's a [fact sheet](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/blob/master/Hiring_fact_sheet_-_2020-03.pdf) that can be used as a reference guide as you're having conversations with potential candidates.
 
 **Ready to make your first referral?** Check out [this guide.](/handbook/hiring/referral-process/)
+
+
+### 4. Request a LinkedIn Recruiter account
+
+If you're a hiring manager or part of a hiring team, you should upgrade your LinkedIn account to a "LinkedIn Recruiter" seat.
+
+*LinkedIn's analytics on GitLab show that our hiring managers have a 43% higher inMail acceptance rate than recruiters or sourcers.*
+
+**With a LinkedIn Recruiter seat, you'll be able to:**
+- Collaboratively source candidates with other team members via Projects
+- Send unlimited InMails (InMail metrics is one of our KPIs)
+
+**Ready to upgrade your account?**
+
+Learn more about LinkedIn Recruiter and how to [upgrade your account.](/handbook/hiring/sourcing/#upgrading-your-linkedin-account)
+
+**Already upgraded your account?** Awesome! [Check out Step 5](/handbook/hiring/gitlab-ambassadors/#start-sourcing), it's time to start sourcing.
 
 -----
 
