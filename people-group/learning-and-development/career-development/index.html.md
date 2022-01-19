@@ -48,7 +48,8 @@ Check out some of the key programs offered for team members to grow their career
 </div>
 
 
-### Career Development Handbook Learning Session
+
+###Career Development Handbook Learning Session
 
 On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team had a handbook learning session with Eric Johnson, CTO, about career development. 
 
