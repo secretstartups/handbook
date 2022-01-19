@@ -211,7 +211,7 @@ _Please Note: The purpose of this content is to understand where to find GitLab'
 2. Even though this resource provides individual contact information, please follow the steps and open a [Legal Request](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal) if you have a need related to a Customer.
 
 ### Best Practices for a Legal Call
-1. Please review the GitLab [Legal Best Practices Resource](https://docs.google.com/document/d/1jo90-IWcUebRN5OQzqluxrqAtcpnv55U24FqB1RWuxs/edit) which outlines best practices when contemplating a call between GitLab Legal and Customer & Partner counsel. _NOTE: THis is available to GitLab Team Members only_
+Please review the GitLab [Legal Best Practices Resource](https://docs.google.com/document/d/1jo90-IWcUebRN5OQzqluxrqAtcpnv55U24FqB1RWuxs/edit) which outlines best practices when contemplating a call between GitLab Legal and Customer & Partner counsel. _NOTE: This is available to GitLab Team Members only_
 
 ## Additional Resources
 [Field Operations Negotiation Overview](/handbook/sales/field-operations/order-processing/#using-customer-form-agreements-and-negotiating-gitlabs-standard-agreement)
