@@ -16,7 +16,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 5. In the Group Description field, you can type any optional description for the sub-group, and then click the **Create Group** button.
 
 ### Create a Project
-1. Navigate to the **New Project** button** and click it, and then click on **Create Blank Project**.
+1. Navigate to the **New Project** button and click it, and then click on **Create Blank Project**.
 2. In the Project name dialog box, enter “***[name]PM Hands On***”.  Optionally you may include a few notes in the Project Description Dialog Box. 
 3. Under Visibility Level, click the radio button for **Private**.  
 4 . Click **Initialize repository with a README** checkbox and then click the green **Create project** button.  
