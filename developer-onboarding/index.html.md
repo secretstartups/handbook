@@ -109,7 +109,7 @@ volunteer contributors.
 
 [changelog-entry]: https://docs.gitlab.com/ee/development/changelog.html
 
-### Working on GitLab EE
+### Working on GitLab EE (developer licenses)
 
 GitLab EE requires a license key to be used.
 
