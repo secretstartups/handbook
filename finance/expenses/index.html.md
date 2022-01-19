@@ -110,6 +110,26 @@ There is no set limit for co-working space fees per month. We ask that you do yo
 
 GitLab team members are allotted [$10,000 USD](https://www1.oanda.com/currency/converter/) per calendar year to spend on one or multiple training courses. Follow the process for submitting a [Growth and Development Reimbursement](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit). Expenses related to reimbursement of tuition will be capped at $1,000 USD within Expensify. Anything over $1,000 USD must go through payroll for reimbursement. Team members must attach a screenshot of the G&D issue when submitting a expense report for tuition, while choosing the "Training" category option. Please note any sort of conference attendance should be categorized to "Conference Attendance", and follow the same G&D steps as outlined above with reimbursement in Expensify capped at $1,000 USD.
 
+### Domain Name Registration and Maintenance Policy
+
+#### Scope and Purpose
+This policy applies to all GitLab team members registering, or maintaining a registration for, GitLab-related Domain Names, including GitLab-related Domain Names registered or used for sandbox or testing purposes.
+
+Domain names are key assets in GitLab's intellectual property portfolio. Centralising the registration and maintainence of domain names under the Infrastructure Shared Services group using GitLab's approved domain name registrar helps us track and protect these valuable assets.
+
+"**GitLab-related Domain Names**" when used in this policy means any domain name:
+   - registered or used for any purpose related to a team member's role at GitLab;
+   - containing the GitLab trademark (GITLAB) or one of its derivatives (like, amongst other things, git, glab, gtlb, gl); and/or
+   - containing any GitLab key messaging term (like, amongst other things, devops, devops platform, all remote).
+   
+#### Registration of new GitLab-related Domain Names
+- All GitLab-related Domain Names must be registered using the process outlined in the [dns-domain-purchase-request issue template](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues/new?issuable_template=dns_domain_purchase_request) maintained by IT Operations.
+- From `2022-02-01`, expense reports submitted by team members for expenses incurred in registering new GitLab-related Domain Names will be rejected.
+
+#### Transfer of existing GitLab-related Domain Names
+- All GitLab-related Domain Names currently registered in the name of team members, or registered with unapproved registrars, should be transferred to GitLab using the process outlined in the [dns-domain-transfer-request issue template](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues/new?issuable_template=dns_domain_transfer_request) as soon as possible.
+- From `2022-07-31`, expense reports submitted by team members for expenses incurred in maintaining registrations of GitLab-related Domain Names in the name of team members, or with unapproved registrars, will be rejected.
+
 ## Expense Reimbursement
 
 ### Reimbursement process:
