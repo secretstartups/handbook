@@ -69,7 +69,7 @@ When proposing or requesting a blog post on a topic that concerns one of GitLab'
 
 **1. Connect with Alliances**
 
-When brainstorming what topic to discuss and write about, loop in a partner manager from Alliances for feedback and buy-in during the 'ideation phase'.  To check who the relevant partner manager is, share your blog post issue and ask in the #Alliances Slack channel or check out our [partner dashboard](https://docs.google.com/spreadsheets/d/1-EE7vChGkDeyJxoM-LjVmUdwYwboxBmq8_42hjHGw_w/edit?usp=drive_web&ouid=100210745148351533200).
+When brainstorming what topic to discuss and write about, loop in a partner manager from Alliances for feedback and buy-in during the 'ideation phase'.  To check who the relevant partner manager is, share your blog post issue and ask in the #Alliances Slack channel.
 
 At this stage you and Alliances can decide whether or not the blog post topic justifies seeking feedback from the partner in question. If so, please submit your draft blog post MR to the Editorial team for review a **_minimum_ of 5 working days before you plan to publish** to ensure enough time for all parties to review.
 
