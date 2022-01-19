@@ -17,7 +17,9 @@ description: "GitLab Data Team OKR and Milestone planning process"
 
 ## Data Team Planning Drumbeat
 
-The Data Team Planning Drumbeat is a pre-set sequence that happens every quarter. The Planning Drumbeat follows GitLab's financial year/quarter structure. The Data Team Planning looks as follows:
+Watch our [Planning Drumbeat Walkthrough Video](https://www.youtube.com/watch?v=esyP9AodVtk) on GitLab Unfiltered.
+
+The Data Team Planning Drumbeat is a pre-set sequence that happens every quarter. The Planning Drumbeat follows GitLab's financial year/quarter structure. The Data Team Planning calendar is as follows:
 
 ![Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning/Planning_Drumbeat.png) <br>
 [link to orginal](https://docs.google.com/spreadsheets/d/1hdJqCfDPR-LqTTRBy4JEQ-MbrL-RyNHzXaMzvsGWkSQ/edit#gid=0)
