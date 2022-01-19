@@ -38,6 +38,16 @@ Click on the below links for more details/information of the steps:
 * [Requestor approves invoice or receives PO](https://about.gitlab.com/handbook/finance/accounting/#approving-an-invoice-in-coupa)
 * [Invoice paid based upon terms on contract](https://about.gitlab.com/handbook/finance/accounts-payable/#tanuki-orange)
 
+<br>
+
+See below for links to additional Coupa information:
+* [Coupa End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/)
+* [Coupa FAQ](https://about.gitlab.com/handbook/finance/procurement/coupa-faq/)
+* [The GitLab Procurement Team](https://about.gitlab.com/handbook/finance/procurement/)
+* [Accounts Payable](https://about.gitlab.com/handbook/finance/accounts-payable/)
+
+<br>
+
 ---
 
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
@@ -46,6 +56,7 @@ Click on the below links for more details/information of the steps:
   <a href="/handbook/finance/accounting/#approving-an-invoice-in-coupa/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Requestor approves invoice or receives PO</a>
   <a href="/handbook/finance/accounts-payable/#tanuki-orange/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Invoice paid based upon terms on contract</a>
 </div>
+
 
 
 
