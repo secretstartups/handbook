@@ -179,7 +179,7 @@ The Senior Distinguished Engineer is a [grade 11](/handbook/total-rewards/compen
 * At this level the person's contribution plays to their strength and role on the department
 * _Generate_ technical and process improvements
 * Drive innovation within Engineering
-* Identify the balance between the immediate and long term impact of technical direction
+* Identifies the balance between the immediate and long term impact of technical direction and guides the organisation to execution in this balance.
 * Be a technical, architectural, and career development mentor for other backend engineers
 * Author architecture documents for epics, coordinate the interaction between architectural directions across the engineering organization
 
