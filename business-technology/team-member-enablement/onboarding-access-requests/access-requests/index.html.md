@@ -17,12 +17,10 @@ If you have any access requests related questions, please reach out to #it_help 
 
 ## Access requests related pages
 
-<div class="flex-row" markdown="0">
-  <div>
-    <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/frequently-asked-questions/" class="btn btn-purple" style="width:170px;margin:5px;">Frequently asked questions</a>
-    <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/" class="btn btn-purple" style="width:170px;margin:5px;">Baseline Entitlements</a>
-    <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/temporary-service-providers/" class="btn btn-purple" style="width:170px;margin:5px;">Temporary service providers access requests and onboarding</a>
-  </div>
+<div class="flex-row" markdown="0" style="height:110px;justify-content:center">
+  <a href="/handbook/finance/procurement/new-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Frequently asked questions</a>
+  <a href="/handbook/finance/procurement/new-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Baseline Entitlements</a>
+  <a href="/handbook/finance/procurement/new-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Temporary service providers access requests and onboarding</a>
 </div>
 
 ## Need help?
