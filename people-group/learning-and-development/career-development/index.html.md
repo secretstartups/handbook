@@ -28,7 +28,7 @@ Check out some of the key programs offered for team members to grow their career
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit" class="btn btn-purple" style="width:200px;margin:5px;"> Growth and Development Benefit </a>
+    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit" class="btn btn-purple" style="width:250px;margin:5px;"> Growth and Development Benefit </a>
     <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Skill of the Month</a>
     <a href="/handbook/people-group/learning-and-development/career-development/#tracking-your-career-development" class="btn btn-purple" style="width:200px;margin:5px;">Goal Tracking Resources</a>
   </div>
@@ -36,7 +36,7 @@ Check out some of the key programs offered for team members to grow their career
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations" class="btn btn-purple" style="width:200px;margin:5px;"> Career Development Conversations </a>
+    <a href="/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations" class="btn btn-purple" style="width:250px;margin:5px;"> Career Development Conversations </a>
     <a href="/handbook/people-group/learning-and-development/career-development/#internship-for-learning" class="btn btn-purple" style="width:200px;margin:5px;">Internship for Learning</a>
     <a href="/handbook/people-group/learning-and-development/career-development/#recorded-workshops" class="btn btn-purple" style="width:200px;margin:5px;">Recorded Workshops</a>
   </div>
