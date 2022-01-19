@@ -14,7 +14,7 @@ QBRs are held during the **first two weeks of every quarter.** The sessions span
 
 ### QBR Schedules
 QBRs are held in the following months and *typically* are a mix of in-person and virtual formats. This is subject to change based on any outside conditions that make it unsafe for the team to travel (i.e. COVID-19). 
-1. Feb: In person* (co-located with Sales Kick Off)
+1. Feb: Virtual
 1. May: Virtual
 1. Aug: In-person*
 1. Nov: Virtual
@@ -222,7 +222,6 @@ A: Most QBR hosts will record their sessions and provide a link to the recording
 ### QBR Asks - Best Practices
 1. Be very specific in your ask; general asks are not actionable. Asks should be geared towards helping customers & prospects; improving internal processes & productivity. 
    1. General topics of asks are: Product enhancement, Process, Pricing, Tooling, Etc. 
-1. Asks should be cross-functional (i.e. not just relevant to one team). 
 1. Business Impact: Explain how the “Ask” will impact the business. Will improve the customer engagement? Will it make the sales team more productive? Will it foster better collaboration amongst internal teams?
 1. Owner (DRI): Assign the Directly Responsible Individual (DRI) for this ask. The DRI cannot be a Sales Mgr/Leader or Rep. 
 1. Requested Due Date: Provide a due date for the request. This will assist with prioritization for the DRIs and internal teams working on the ask.
@@ -240,34 +239,17 @@ A: Most QBR hosts will record their sessions and provide a link to the recording
       1. ASM collects asks from teams, prioritizes and includes a slide of the top 3 asks in their QBR presentation
       1. RDs will present their region's top asks in the COMM Leadership QBR.
       1. ASMs, RDs and COMM Sales VP will review full list of COMM asks and will deliver a final list of prioritized COMM asks no later than the Monday following the COMM Leadership QBR.
-1. Sales Ops provides representative coverage at each QBR, and captures a list of prioritized Field Asks/Requests (google sheet/notes) with Links to individual QBR presentations.
-1. Following each QBR session, prioritized Sales asks are converted to Issues using the [Field-Ops-QBR-Request](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=FieldOpsQBR) Template.
-	- Issues opened through above template, will automatically apply the (global) `QBR` label to ensure they’re categorized appropriately for review.
+
+
 1. Field Operations will share a list of consolidated QBR asks and next steps for each no later than three weeks following the last QBR. 
+1. The DRI for each ask is responsible for creating a new issue related to the QBRR ask OR identifying and updating an existing issue.  
    1. Leaders/Managers  are encouraged to discuss any asks that were not included in the final list with the requestor in their 1:1 to determine how/if any action should be taken.
    1. NOTE: Reps can/should make asks of Field Ops at any time outside of QBRs using [this template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/new?issuable_template=FieldOpsQBR).
 
 ### Execution and Tracking
 
-All new QBR request to the Sales Operations team are tracked and managed as issues within the Sales Operations Project. The [Field Ops QBR Requests board](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1433489?&label_name[]=QBR) tracks the status of these Issues.
+All new QBR asks are tracked and managed as issues within the DRI's team Project and will include a global `QBR` label and year/quarter specific `FYxx-Qx QBR` label to ensure the asks are categorized appropriately for review.  
 
-If you need more immediate attention please send a message with a link to the issue you created in the `#sales-support` Slack channel.
-
-![Field Ops QBR Request Flow](/handbook/sales/images/SalesOps_QBR_Request_Flow.jpg)
-
-1. **New requests** start with the project label  `SalesOps::New_Request`, which should be auto-assigned if the template was used. Note these should still be **unassigned**.
-1. Issues are then moved to `SalesOps::Triage` where they are **triaged** to the correct Sales Ops team (Sales Ops, CS, Deal Desk, Sales Systems), who will determine if there is adequate detail to plan and prioritize the work.
-	  - Is the problem statement clear?
-	  - Is the impact/value understood?
-1. Issues will then be moved to one of the following:
-	- `SalesOps::Backlog` - For future scheduling, sequencing, or implementation.
-	- `SalesOps::Transferred` - Issues related to teams other than Sales Ops.
-	- `SalesOps::Assigned` - for **urgent** requests or quick-wins.
-	- `SalesOps::Declined` - in some cases Sales Ops may directly decline the request.
-1. From the backlog issues will be moved to:
-	- `SalesOps::Assigned` - Issue is assigned to a team member and being executed.
-	- `SalesOps::Declined` - If the backlog issue can no longer be accommodated, no longer makes sense to do, etc. it should be moved to declined, and then **closed**.
-1. Once **completed**, issues should be moved to `SalesOps::Completed`, and then **closed**.
 
 ## Sample QBR Roll-Out
 Below is a sample roll-out of the QBR planning and execution process that is followed each quarter. This process is subject to change based on sales leadership feedback and priorities. If you have questions, please reach out in #field-enablement-team.
