@@ -14,7 +14,7 @@ description: "Coupa End Users Quick Guide"
 
 <br>
 
-![coupa-image-1](/handbook/business-technology/enterprise-applications/guides/coupa-quick-guide/coupa1.png)
+![coupa-image-2](/handbook/business-technology/enterprise-applications/guides/coupa-quick-guide/coupa2.png)
 
 <br>
 
@@ -33,7 +33,6 @@ Click on the below buttons for more details/information of the steps:
 </div> 
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Need more details/information on the invoicing process?
-
 Click on the below buttons for more details/information of the steps:
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
   <a href="/handbook/finance/accounting/#invoicing-in-coupa/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Invoice issued by Supplier</a>
@@ -41,5 +40,7 @@ Click on the below buttons for more details/information of the steps:
   <a href="/handbook/finance/accounting/#approving-an-invoice-in-coupa/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Invoice processed/routed for approval</a>
   <a href="/handbook/finance/accounting/#approving-an-invoice-in-coupa/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Requestor approves invoice or receives PO</a>
   <a href="/handbook/finance/accounts-payable/#tanuki-orange/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Invoice paid based upon terms on contract</a>
+
+  {::options parse_block_html="false" /}
 
 
