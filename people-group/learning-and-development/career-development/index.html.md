@@ -22,6 +22,32 @@ Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://
 </figure>
 <!-- blank line -->
 
+## Key Career Resources for Team Members
+
+Check out some of the key programs offered for team members to grow their career at GitLab.
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit" class="btn btn-purple" style="width:200px;margin:5px;"> Growth and Development Benefit </a>
+    <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Skill of the Month</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/#tracking-your-career-development" class="btn btn-purple" style="width:200px;margin:5px;">Goal Tracking Resources</a>
+  </div>
+</div>
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations" class="btn btn-purple" style="width:200px;margin:5px;"> Career Development Conversations </a>
+    <a href="/handbook/people-group/learning-and-development/career-development/#internship-for-learning" class="btn btn-purple" style="width:200px;margin:5px;">Internship for Learning</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/#recorded-workshops" class="btn btn-purple" style="width:200px;margin:5px;">Recorded Workshops</a>
+  </div>
+</div>
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="handbook/people-group/learning-and-development/mentor/" class="btn btn-purple" style="width:200px;margin:5px;"> Mentorship </a>
+</div>
+
+
 ### Career Development Handbook Learning Session
 
 On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team had a handbook learning session with Eric Johnson, CTO, about career development. 
