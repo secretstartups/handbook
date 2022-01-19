@@ -24,7 +24,7 @@ On this page, we're detailing how to create efficient, transparent, documentatio
 
 ## Q: What is a live doc meeting?
 
-A live doc meeting is just what it sounds like...it's a work-related meeting where you document everything live (yes, everything)! Start documenting before the meetings begins by attaching a live doc agenda to the calendar invite.
+A live doc meeting is just what it sounds like...it's a work-related meeting where you document everything live (yes, everything)! Start documenting before the meetings begins by attaching a shared, editable agenda document to the calendar invite.
 
 ## Q: What is meant by 'live document'?
 
@@ -47,13 +47,13 @@ If you determine that a meeting is needed to move a project forward, address a b
 1. Questions should be [written](/handbook/values/#write-things-down) and listed upfront; this tends to increase the quality of questions
 1. Link any relevant piece of text to associated resources to prevent people from spending time searching or asking
 1. Take notes inline with the agenda rather than using a seperate "notes" section, with real-time notetaking by multiple participants encouraged 
-1. If you're not talking in the meeting, at any given time, help take notes. If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. Consider asking other people to write down the answers in real-time to allow the person who asked the question to focus on the answer. The person asking the question can touch up the answer when the conversation has moved on to something less relevant to them
+1. If you're not talking in the meeting, at any given time, help take notes. If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. Consider asking other people to write down the answers in real-time to allow the person who asked the question to focus on the answer. The person asking the question can touch up the answer when the conversation has moved on to something less relevant to them.
 1. Notes should be properly indented and structured to follow the conversation's flow
 1. Preface questions and answers with the participant's name, giving context to the origin
 1. Follow the order of the questions instead of jumping around in the agenda; this prevents the proverbial loudest voice in the room from dominating a conversation 
 1. Always ask if the name preceding the question would like to verbalize; if they wish not to, or are otherwise unavailable, the meeting host should verbalize on their behalf
 1. Reenact questions in the list by verbalizing them even if they were already asked and answered in the shared document. Hearing the question and answer allows everyone to think about it and respond to it. It might also happen that when verbalizing the question or answer more context is given since most people can talk faster and with less effort than they can type. Another advantage if you're recording the meeting is that the recording contains everything.
-1. Unless the meeting contains [Not Public](/handbook/communication/#not-public) information, record the meeting to share with those who cannot attend live and consider livestreaming for maximum transparency and feedback potential
+1. Unless the meeting contains [Not Public](/handbook/communication/#not-public) information, record the meeting to share with those who cannot attend live and consider livestreaming for maximum transparency and feedback potential.
 
 ## Benefits of live doc meetings
 
@@ -72,7 +72,7 @@ Not all meetings are inherently bad. We encourage managers to establish regular 
 
 ## Q: How can I participate in a live doc meeting?
 
-There are two ways to participate in a live doc meeting: either synchronously, like when [joining a live Zoom call](/handbook/communication/#video-calls), or [asynchronously](/company/culture/all-remote/asynchronous/). 
+There are two ways to participate in a live doc meeting: either synchronously, like when [joining a live Zoom call](/handbook/communication/#video-calls), or [asynchronously](/company/culture/all-remote/asynchronous/), by reviewing the documented discussion along with any recorded video after the meeting is over. 
 
 ## Q: When are live doc meetings held?
 
@@ -80,15 +80,15 @@ Live doc meetings are usually held in the host's time zone. However, leaders sho
 
 ## Q: Where are live doc meetings held?
 
-Live doc meetings can happen fully in-person, fully- online, or a on hybrid call--which is a blend of both. It's best to have everyone on a level playing field for communication and discussion, so [hybrid calls should be avoided](/company/culture/all-remote/meetings/#avoid-hybrid-calls). If a hybrid call is necessary, have participants use their own equipment (camera, headset, screen) to avoid audio problems from delays and feedback. 
+Live doc meetings can happen fully in-person, fully online, or a on hybrid call--which is a blend of both. It's best to have everyone on a level playing field for communication and discussion, so [hybrid calls should be avoided](/company/culture/all-remote/meetings/#avoid-hybrid-calls). If a hybrid call is necessary, have participants use their own equipment (camera, headset, screen) to avoid audio problems from delays and feedback. 
 
 ## Q: What is the agenda for a live doc meeting?
 
-Here is a [sample template for a live doc meeting](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit). Be sure to attach a link to your live doc to every calendar invite. Include the agenda for the meeting, permissions so everyone can contribute, and instructions for engagement expected from team members so they understand how to contribute whether they attend synchronously or asynchronously.  
+Here is a [sample template for a live doc meeting](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit). Be sure to attach a link to your live doc with every calendar invite. Include the agenda for the meeting, permissions so everyone can contribute, and instructions for engagement expected from team members so they understand how to contribute whether they attend synchronously or asynchronously.  
 
 ## Q: How can I view a live doc meeting recording?
 
-You can access GitLab's most recent recorded meetings via [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) --they are filed under the Uploads header.
+You can access GitLab's most recent recorded meetings via [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A).
 
 <!-- blank line -->
 <figure class="video_container">
@@ -96,7 +96,7 @@ You can access GitLab's most recent recorded meetings via [GitLab Unfiltered](ht
 </figure>
 <!-- blank line -->
 
-In this [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) video, Darren M. shares an overview of how Live Doc Meetings. 
+In this [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) video, Darren M. shares an overview of how Live Doc Meetings work. 
 
 For a deeper dive on how GitLab implements meetings in a remote work environment, visit our [all-remote meetings guide](/company/culture/all-remote/meetings/). 
 
