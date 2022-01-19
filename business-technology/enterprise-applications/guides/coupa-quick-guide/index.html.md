@@ -38,8 +38,7 @@ Click on the below links for more details/information of the steps:
 * [Requestor approves invoice or receives PO](https://about.gitlab.com/handbook/finance/accounting/#approving-an-invoice-in-coupa)
 * [Invoice paid based upon terms on contract](https://about.gitlab.com/handbook/finance/accounts-payable/#tanuki-orange)
 
-
-  {::options parse_block_html="false" /}
+---
 
   <div class="flex-row" markdown="0" style="height:110px;">
   <a href="/handbook/finance/accounts-payable/#coupa/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span>Invoice issued by Supplier</span></a>
@@ -49,3 +48,5 @@ Click on the below links for more details/information of the steps:
 </div>
 
 
+
+  {::options parse_block_html="false" /}
