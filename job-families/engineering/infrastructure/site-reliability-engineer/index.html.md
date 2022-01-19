@@ -218,7 +218,10 @@ SRE's with Environment Automation specialization primarily focus on provisioning
 
 ## Career Ladder
 
-The next step for both individual contributors and managers of people is to move to the [Engineering Management - Infrastructure](/job-families/engineering/infrastructure/engineering-management/) job family.
+Further career progression is available as a Principle Engineer, [Distinguished Engineer](https://about.gitlab.com/job-families/engineering/distinguished-engineer/#infrastructure) and then an [Engineering Fellow](https://about.gitlab.com/job-families/engineering/infrastructure/engineering-fellow/).
+
+Individual Contributors in SRE roles can also move to roles in the [Engineering Management - Infrastructure](/job-families/engineering/infrastructure/engineering-management/) job family.
+  
 
 ## Performance Indicators
 
