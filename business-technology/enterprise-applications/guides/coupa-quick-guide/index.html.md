@@ -43,7 +43,7 @@ Click on the below links for more details/information of the steps:
   <div class="flex-row" markdown="0" style="height:110px;">
   <a href="/handbook/finance/accounts-payable/#coupa/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span>Invoice issued by Supplier</span></a>
   <a href="/handbook/finance/accounting/#invoicing-in-coupa/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span>Invoice submitted via Coupa Supplier Portal</span></a>
-  <a href="/handbook/finance/accounting/#approving-an-invoice-in-coupa/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Requestor approves invoice or receives PO</span></a>
+  <a href="/handbook/finance/accounting/#approving-an-invoice-in-coupa/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span>Requestor approves invoice or receives PO</span></a>
   <a href="/handbook/finance/accounts-payable/#tanuki-orange/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Invoice paid based upon terms on contract</span></a>
 </div>
 
