@@ -30,7 +30,6 @@ The People Operations Specialist (Intermediate) is a [Grade 6](/handbook/total-r
 - Provide functional and technical support surrounding the employee experience platform i.e. general configuration, trouble-shooting issues, managing settings and recommending process improvements.
 - Collaborate with the Employment Solutions Partner to support relocation requests, fostering a close relationship with co-employers to ensure quality delivery of mobility services.
 
-
 #### Requirements
 
 - Bachelor's Degree with related majors e.g. Human Resources (HR), Industrial Psychology or Business Management **or** three years of experience in a generalist role ideally within a growth-stage tech company with exposure to either an all-remote or hybrid environment (minimum).
@@ -130,24 +129,6 @@ The Manager, People Operations is a [Grade 8](/handbook/total-rewards/compensati
 - High sense of urgency and accuracy
 - Experience at a growth-stage tech company
 
-### Performance Indicators
-
-- 12 month team member retention
-- 12 month voluntary team member turnover
-- Onboarding Satisfaction Survey > 4.5[](/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat)
-- Onboarding task completion < X (TBD)
-
-### Hiring Process
-
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-- Next, candidates will be invited to schedule a 45 minute interview with our People Operations Manager
-- After that, candidates will be invited to schedule a 30 minute interview with members of the People Operations and People Partner teams
-- After that, candidates will be invited to interview with the Director of People Operations
-- Finally, our CPO may choose to conduct a final interview
-
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
-
 ## Senior Manager, People Operations
 
 The Senior Manager, People Operations reports to Director, Global People Operations. 
@@ -195,24 +176,6 @@ The Senior Manager, People Operations is a [Grade 9](/handbook/total-rewards/com
 - High sense of urgency and accuracy
 - Experience at a growth-stage tech company
 
-### Performance Indicators
-
-- [12 month team member retention](/handbook/people-group/people-success-performance-indicators/#team-member-retention-rolling-12-months)
-- [12 month voluntary team member turnover](/handbook/people-group/people-success-performance-indicators/#team-member-voluntary-retention-rolling-12-months)
-- Onboarding Satisfaction Survey > 4.5[](/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat)
-- Onboarding task completion < X (TBD)
-
-### Hiring Process
-
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
-* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a 45 minute interview with our People Operations Manager
-* After that, candidates will be invited to schedule a 30 minute interview with members of the People Operations and People Partner teams
-* After that, candidates will be invited to interview with the Director of People Operations
-* Finally, our CPO may choose to conduct a final interview
-
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
-
 ## Director, Global People Operations
 
 The Director of Global People Operations reports to the VP, People Operations, Technology and Analytics
@@ -251,21 +214,6 @@ The Director, Global People Operations is a [Grade 10](/handbook/total-rewards/c
 - You share our [values](/handbook/values/), and work in accordance with those values.
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 - Ability to use GitLab
-
-### Hiring Process
-
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
-* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a 45 minute interview with our Director, Technology
-* After that, candidates will be invited to schedule a 30 minute interview with members of the Operations Team such as the Compliance Partner and/or Employment Solutions Partner
-* After that, candidates will be invited to interview with the VP, People Operations, Technology and Analytics
-* Finally, our CPO may choose to conduct a final interview
-
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
-
-## Career Ladder
-
-The next step in the People Operations job family is to move to the [People Leadership Job Family](/job-families/people-ops/people-leadership/).
 
 ## Senior Director, Global People Operations
 
@@ -317,7 +265,14 @@ Candidates for this position can expect the hiring process to follow the order b
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
+### Performance Indicators
+
+- [12 month team member retention](/handbook/people-group/people-success-performance-indicators/#team-member-retention-rolling-12-months)
+- [12 month voluntary team member turnover](/handbook/people-group/people-success-performance-indicators/#team-member-voluntary-retention-rolling-12-months)
+- [Onboarding Satisfaction Survey > 4.5](/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat)
+- Onboarding task completion < X (TBD)
+
 ## Career Ladder
 
-The next step in the People Operations job family is to move to the [People Leadership Job Family](/job-families/people-ops/people-leadership/).
+The next step in the People Operations job family is to move to the [People Operations Leadership Job Family](https://about.gitlab.com/job-families/people-ops/leadership-people-operations-tech-analytics/).
 
