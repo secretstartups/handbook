@@ -16,9 +16,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 The goal of GitLab integrated campaigns is to strategically land a cohesive message to a target audience across a variety of channels and offers dependent on the goals of the campaign. Content types include a combination of blog posts, webinars, whitepapers, reports, videos, case studies, and more. Channels include digital ads, social, paid social, SEO, PR, email, and more.
 
-**Campaign Managers** are responsible for the strategizing of global integrated campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns. Campaign Managers are also aligned to specific segments and geos to define strategy for new first order logo MQLs and SAOs, aligned to pipeline goals.
-
-In an effort to continually improve our ability to derive success of campaigns, reporting is a focus using Bizible data in Sisense. [Issue here for more information on progress](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/982)
+**[Campaign Managers](/handbook/marketing/demand-generation/campaigns)** are responsible for the strategizing of global integrated campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns. Campaign Managers are also aligned to specific segments and geos to define strategy for new first order logo MQLs and SAOs, aligned to pipeline goals. [Learn more in our handbook page](/handbook/marketing/demand-generation/campaigns).
 
 **Questions? Please feel free to ask in the [#marketing-campaigns slack channel](https://gitlab.slack.com/archives/CCWUCP4MS).**
 
@@ -38,47 +36,84 @@ Anchor campaigns are developed and then activated across each segment (Enterpris
 {: #upcoming-integrated-campaigns .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated Camapigns >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/749)**. 
+* FY23 Integrated Campaigns are currently in development.
+* **[View FY22 Integrated Campaigns and GTM Motions here >>](https://about.gitlab.com/handbook/marketing/plan-fy22/)**
+* **[See FY21 Integrated Camapigns here >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/749)**
 
 ## Active Integrated Campaigns
 {: #active-integrated-campaigns .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-### 🚀 Competitive campaign 3.0
-{: #competitive-campaign-3}
+The below global integrated campaigns are continally optimized by the Marketing Campaigns team, in collaboration wit Digtial Marketing, Technical Marketing, Product Marketing, and beyond. These campaign bundles are leveraged by all teams in Marketing to apply cohesive and consistent messaging and approach across all marketing channels and tactics.
+
+### 🚀 CI
+{: #ci-use-case}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Campaign Manager: Agnes Oetama**
+**Campaign Manager DRI: Agnes Oetama**
 
-**Launched (Original): 2020-11-16**
+**Launched: 2020-04-27 and continually optimized**
 
-* [Parent epic with tactical issues](https://gitlab.com/groups/gitlab-com/-/epics/1029)
-* [Live landing page - Manager Persona](https://about.gitlab.com/blog/2019/11/26/migrating-from-jenkins/)
-* [Live landing page - Practitioner Persona](https://page.gitlab.com/gitlabci-vs-jenkins-demo.html)
-* [SFDC Campaign - Manager >>](https://gitlab.my.salesforce.com/7014M000001ll99?srPos=0&srKp=701)
-* [SFDC Campaign - Practitioner >>](https://gitlab.my.salesforce.com/7014M000001dlvz?srPos=0&srKp=701)
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741)
+* [Solution Resource](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/)
+* [Campaign Review 2021-09-09](https://docs.google.com/presentation/d/1TG7SAHUub3BqclJg4nawDARecOOaQ4NpMaxDnXWWtF8/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/873)
+* [Live landing page](https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/)
+* [Slack](https://gitlab.slack.com/archives/CVDQL20BA)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df8y)
 
-### 🚀 GitOps Use Case
+### 🚀 DevOp Platform
+{: #devops-platform}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+**Campaign Manager DRI: Indre Kryzeviciene**
+
+**Launched: 2020-04-28 and continually optimized**
+
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1822)
+* [Solution Resource](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
+* [Campaign Review 2021-10-28](https://docs.google.com/presentation/d/1yGif0bLL2xiC_fFUVzM4eSRcU9g-aOkqpPVAElby1KY/edit#slide=id.gaf9c1b1f24_0_0) - GitLab Team Members Only
+* [Slack](https://gitlab.slack.com/archives/C01NLEXE34L)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df8y)
+
+### 🚀 DevSecOps
+{: #devsecops-use-case}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+**Campaign Manager DRI: Agnes Oetama**
+
+**Launched: 2020-04-29 and continually optimized**
+
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/743)
+* [Solution Resource](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/)
+* [Campaign Review 2021-07-26](https://docs.google.com/presentation/d/1gPMLjIRPNOCt8DqHUWYdwxW2tNH528qg_YbmZaDYzl8/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/874)
+* [Live landing page](https://about.gitlab.com/solutions/dev-sec-ops/)
+* [Slack](https://gitlab.slack.com/archives/CV8GZ63GR)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df4w?srPos=0&srKp=701)
+
+### 🚀 GitOps
 {: #gitops-use-case}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Campaign Manager: Eirini Pan**
+**Campaign Manager DRI: Eirini Pan**
 
-**Launched: 2020-06-22**
+**Launched: 2020-06-22 and continually optimized**
 
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/745)
+* [Campaign Review 2021-9-26](https://docs.google.com/presentation/d/1eYF_H95XzrGmgrqbbRy6rYKsqZkpPvCt7sNxyuEsZuk/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/891)
 * [Live landing page](https://about.gitlab.com/why/gitops-infrastructure-automation/)
 * [Slack](https://gitlab.slack.com/archives/C0119FNPA84)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dgJ9)
 
-### 🚀 Version Control & Collaboration (VC&C) Use Case
+### 🚀 Version Control & Collaboration (VC&C)
 {: #vcc-use-case}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Campaign Manager: Jenny Tiemann**
+**Campaign Manager DRI: Jenny Tiemann**
 
-**Launched: 2020-06-09**
+**Launched: 2020-06-09 and continually optimized**
 
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/742)
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/927)
@@ -86,11 +121,25 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 * [Slack](https://gitlab.slack.com/archives/CVB3AKJNA)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dfsw)
 
+### 🚀 Competitive campaign 3.0
+{: #competitive-campaign-3}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+**Campaign Manager DRI: Agnes Oetama**
+
+**Launched (Original): 2020-11-16 and continually optimized**
+
+* [Parent epic with tactical issues](https://gitlab.com/groups/gitlab-com/-/epics/1029)
+* [Live landing page - Manager Persona](https://about.gitlab.com/blog/2019/11/26/migrating-from-jenkins/)
+* [Live landing page - Practitioner Persona](https://page.gitlab.com/gitlabci-vs-jenkins-demo.html)
+* [SFDC Campaign - Manager >>](https://gitlab.my.salesforce.com/7014M000001ll99?srPos=0&srKp=701)
+* [SFDC Campaign - Practitioner >>](https://gitlab.my.salesforce.com/7014M000001dlvz?srPos=0&srKp=701)
+
 ### 🚀 France CI Localized
 {: #ci-france-localized}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Campaign Manager: Eirini Pan**
+**Campaign Manager DRI: Eirini Pan**
 
 **Launched: 2020-05-15**
 
@@ -104,7 +153,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 {: #ci-germany-localized}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Campaign Manager: Indre Kryzeviciene**
+**Campaign Manager DRI: Indre Kryzeviciene**
 
 **Launched: 2020-04-29**
 
@@ -114,68 +163,11 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 * [Slack](https://gitlab.slack.com/archives/C012QLG1NJD)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dfqW)
 
-### 🚀 DevSecOps Use Case
-{: #devsecops-use-case}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-**Campaign Manager: Megan Mitchell**
-
-**Launched: 2020-04-29**
-
-* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/743)
-* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/874)
-* [Live landing page](https://about.gitlab.com/solutions/dev-sec-ops/)
-* [Slack](https://gitlab.slack.com/archives/CV8GZ63GR)
-* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df4w?srPos=0&srKp=701)
-
-### 🚀 CI Use Case
-{: #ci-use-case}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-**Campaign Manager: Agnes Oetama**
-
-**Launched: 2020-04-27**
-
-* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741)
-* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/873)
-* [Live landing page](https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/)
-* [Slack](https://gitlab.slack.com/archives/CVDQL20BA)
-* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df8y)
-
-### 🚀 AWS Partner
-{: #aws-partner}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-**Campaign Manager: Nout Boctor-Smith**
-
-**Launched: 2019-09-22**
-
-* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/624)
-* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/638)
-* [Live landing page](https://about.gitlab.com/webcast/aws-gitlab-serverless/)
-* [Slack](https://gitlab.slack.com/archives/CRTE89C66)
-* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001loj0)
-
-
 ## Past Integrated Campaigns
 {: #past-integrated-campaigns .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-### 🌄 Operation OctoCat
-{: #operation-octocat}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-**Campaign Manager: Jackie Gragnola**
-
-**Launched: 2019-10-31**
-
-* *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the CI use case campaign nurture.*
-* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/439)
-* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/445)
-* [MURAL of campaign user journey](https://app.mural.co/t/gitlab5736/m/gitlab5736/1584992460277/f66e45f8067dded0ae81d711aeb897c1547e2a80)
-* [Live landing page](/compare/github-actions-alternative/)
-* [Campaign brief](https://docs.google.com/document/d/1Mcy_0cwMsTPIxWUXPgoqw9ejsRJxaZBHi4NikYTabDY/edit#heading=h.kf9lglu57c0t)
-* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001lmdK)
+The below were campaigns run historically, and aligned to overall GTM. They have since been retired in order to run new global campaigns aigned to updated GTM strategies between Sales and Marketing.
 
 ### 🌄 Increase operational efficiencies
 {: #increase-operational-efficiencies}
@@ -218,6 +210,36 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 * [Live landing page](/solutions/dev-sec-ops/)
 * [Campaign brief](https://docs.google.com/document/d/1NzFcUg-8c1eoZ1maHHQu9-ABFfQC65ptihx0Mlyd-64/edit)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000CyeJ)
+
+### 🚀 AWS Partner
+{: #aws-partner}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+**Campaign Manager: Nout Boctor-Smith**
+
+**Launched: 2019-09-22**
+
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/624)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/638)
+* [Live landing page](https://about.gitlab.com/webcast/aws-gitlab-serverless/)
+* [Slack](https://gitlab.slack.com/archives/CRTE89C66)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001loj0)
+
+### 🌄 Operation OctoCat
+{: #operation-octocat}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+**Campaign Manager: Jackie Gragnola**
+
+**Launched: 2019-10-31**
+
+* *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the CI use case campaign nurture.*
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/439)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/445)
+* [MURAL of campaign user journey](https://app.mural.co/t/gitlab5736/m/gitlab5736/1584992460277/f66e45f8067dded0ae81d711aeb897c1547e2a80)
+* [Live landing page](/compare/github-actions-alternative/)
+* [Campaign brief](https://docs.google.com/document/d/1Mcy_0cwMsTPIxWUXPgoqw9ejsRJxaZBHi4NikYTabDY/edit#heading=h.kf9lglu57c0t)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001lmdK)
 
 ### 🌄 CI Build & Test Auto
 {: #ci-build-test-auto}
