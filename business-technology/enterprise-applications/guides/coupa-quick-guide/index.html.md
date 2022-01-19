@@ -41,10 +41,10 @@ Click on the below links for more details/information of the steps:
 ---
 
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
-  <a href="/handbook/finance/accounts-payable/#coupa/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span>Invoice issued by Supplier</span></a>
-  <a href="/handbook/finance/accounting/#invoicing-in-coupa/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span>Invoice submitted via Coupa Supplier Portal</span></a>
-  <a href="/handbook/finance/accounting/#approving-an-invoice-in-coupa/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span>Requestor approves invoice or receives PO</span></a>
-  <a href="/handbook/finance/accounts-payable/#tanuki-orange/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Invoice paid based upon terms on contract</span></a>
+  <a href="/handbook/finance/accounts-payable/#coupa/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Invoice issued by Supplier</a>
+  <a href="/handbook/finance/accounting/#invoicing-in-coupa/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Invoice submitted via Coupa Supplier Portal</a>
+  <a href="/handbook/finance/accounting/#approving-an-invoice-in-coupa/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Requestor approves invoice or receives PO</a>
+  <a href="/handbook/finance/accounts-payable/#tanuki-orange/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Invoice paid based upon terms on contract</a>
 </div>
 
 
