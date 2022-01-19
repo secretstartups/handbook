@@ -57,3 +57,4 @@ We will benefit from tooling efficiency together and broaden visiblity of demo d
 | Member                | Dan Davison            | Senior Software Engineer in Test  |
 | Member                | Nailia Iskhakova       | Senior Software Engineer in Test  |
 | Member                | Erick Banks            | Senior Software Engineer in Test  |
+| Member                | Will Meek              | Senior Software Engineer in Test  |
