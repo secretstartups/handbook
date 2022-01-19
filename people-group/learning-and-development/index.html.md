@@ -11,6 +11,8 @@ title: Learning & Development
 
 ## Team Member Resources
 
+Explore the resources from the Learning & Development team
+
 <div class="flex-row" markdown="0">
   <div>
     <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:200px;margin:5px;">Learning Initiatives </a>
@@ -52,10 +54,10 @@ title: Learning & Development
 
 **What's coming in FY23:**
 - New Manager Bootcamp
-- Coaching Pilot 
-- [LifeLabs Learning Pilot](/handbook/people-group/learning-and-development/learning-initiatives/#lifelabs-learning)
+- [Coaching Pilot](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/342) 
+- [LifeLabs Learning](/handbook/people-group/learning-and-development/learning-initiatives/#lifelabs-learning)
 - Managing at GitLab Course
-- Leadership Development Job Family
+- [Learning & Leadership Development Job Family](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/95894)
 
 ## Overview
 
