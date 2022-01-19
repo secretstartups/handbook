@@ -20,6 +20,8 @@ The Command Plan consists of the below 3 sections. The Opportunity Overview sect
 1. [**MEDDPPICC**](/handbook/sales/command-of-the-message/command-plan/#meddppicc)
 1. [**Close Plan Details**](/handbook/sales/command-of-the-message/command-plan/#close-plan-details)
 
+At the enterprise account level, the Command Plan is owned by the [Strategic Account Leader](/job-families/sales/strategic-account-leader/), who creates the plan and updates the contents accordingly. It is used as a living pre-sales document, and its objectives are converted into [Gainsight Success Plan objectives](/handbook/customer-success/tam/success-plans/#objectives) at the time of [account onboarding](/handbook/customer-success/tam/onboarding/).
+
 You can find the Command Plan button in the `Opportunity Detail` section of the Salesforce opportunity object (see image below) or in Clari. Please note that Command Plans are capped at 5000 characters in Salesforce to encourage sales team members to be crisp and succinct. To do so, the Command Plan should focus on future-looking plans and remove details that are no longer relevant to the current close plan. For information you'd like to remove from the Command Plan but keep for historical purposes, please add that information as a new activity record on the opportunity.
 
 ![Where to find the Command Plan](/handbook/sales/command-plan.png)
