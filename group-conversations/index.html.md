@@ -163,7 +163,7 @@ These should be called Fill-In AMAs so it's clear to team members that the AMA w
 
 ### 72 Hours Before the Call
 
-1. Ensure the slide deck, any handbook or document links, and the optional video are visible to all of GitLab.
+1. Aim to have the slide deck, any handbook or document links, and the optional video visible to all of GitLab 72 hours ahead of the all. At a minimum, this should be posted 24 hours in advance.
 1. Post in #whats-happening-at-gitlab on Slack if there is a video for the group conversation that you'd like people to watch beforehand. Please @ mention `Christina Keelan Cottrell` when posting so she may schedule time for the CEO to watch the video ahead of the group conversation.
 
 ### 30 Minutes Before the Call
@@ -262,30 +262,31 @@ Additional links which may be useful when preparing to moderate a call include:
 There is a [rotating schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing) with each Department having a conversation on a regular interval.
 We usually do not have Group Conversations or Company calls during the last two weeks of December. We also tend to cancel these during [Contribute](https://about.gitlab.com/events/gitlab-contribute/).
 
-On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [functions with Key Reviews](/handbook/key-review/#invitees) will have Group Conversations within 10 days following their Key Review. They are expected to largely leverage their Key Review material. **Group Conversations for groups without a Key Review are optional.** Please note: the frequency of Group Conversations does not recur on a specific cadence, but rather an estimated time (ex: the Strategic Marketing GC happens every other month, but does not happen specifically on the 4th Wednesday every other month). Groups Conversations without Key Reviews can only be swapped with other Groups without Key Reviews, or scheduled during an open day that is available as noted on the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing).
+On 2022-02, we'll move our Group Conversations to make **Group Conversations for groups without a Key Review optional**. [Functions with Key Reviews](/handbook/key-review/#invitees) will continue to have Group Conversations within 10 days following their Key Review.  
+
+Please note: the frequency of Group Conversations does not recur on a specific cadence, but rather an estimated time (ex: the Strategic Marketing GC happens every other month, but does not happen specifically on the 4th Wednesday every other month). Groups Conversations without Key Reviews are optional, and these can be swapped with other groups without Key Reviews, or scheduled during an open day that is available as noted on the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing).
 
 | Group Conversation | DRI | Key Review? | GC Frequency |
 | ------------------ | --- | ----------- | ------------ |
-| [CRO](/handbook/sales/) | Michael McBride | Yes | Monthly |
-| [Finance](/handbook/finance/) | Brian Robins | Yes | Monthly |
-| [Marketing](/handbook/marketing/) |  Craig Mestel | Yes | Monthly |
-| [People](/handbook/people-group/) | Wendy Barnes | Yes | Monthly |
-| [Product](/handbook/product/) | Scott Williamson | Yes | Monthly |
-| [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Monthly |
-| [Support](/handbook/support/) | Tom Cooney | Yes | Monthly |
-| [Security](/handbook/engineering/security/) | Johnathan Hunt | Yes | Every other month |
-| [UX](/handbook/engineering/ux/) | Christie Lenneville | Yes | Every other month |
-| [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month |
-| [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month |
-| [Portfolio Marketing](/handbook/marketing/strategic-marketing/) | Cindy Blake | No | Every other month |
-| [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | Darren Murph | No | Every other month |
-| [Digital Experience](/handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No | Every other month |
+| [Sales & Marketing](/handbook/sales/) | Michael McBride and Craig Mestel | Yes | Twice per quarter |
+| [Finance](/handbook/finance/) | Brian Robins | Yes | Twice per quarter |
+| [People](/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter |
+| [Product](/handbook/product/) | Scott Williamson | Yes | Twice per quarter |
+| [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Twice per quarter |
+| [Support](/handbook/support/) | Tom Cooney | Yes | Twice per quarter |
+| [Security](/handbook/engineering/security/) | Johnathan Hunt | Yes | Twice per quarter |
+| [UX](/handbook/engineering/ux/) | Christie Lenneville | Yes | Twice per quarter |
+| [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Twice per quarter |
+| [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Twice per quarter |
 | [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month |
-| [Brand Activation](/handbook/marketing/corporate-marketing/brand-activation/) | Becky Reich | No | Every other month |
-| [UX Research](/handbook/engineering/ux/ux-research/) | Adam Smolinski | No | Every other month |
-| [Community Relations](/handbook/marketing/community-relations/) | David Planella | No | Every other month |
-| [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Jean-Baptiste Larramendy | No | Every other month |
-| [Alliances](/handbook/alliances/) | Nima Badiey | No | Every other month |
+| [Portfolio Marketing](/handbook/marketing/strategic-marketing/) | Cindy Blake | No | Optional |
+| [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | Darren Murph | No | Optional |
+| [Digital Experience](/handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No | Optional |
+| [Brand Activation](/handbook/marketing/corporate-marketing/brand-activation/) | Becky Reich | No | Optional |
+| [UX Research](/handbook/engineering/ux/ux-research/) | Adam Smolinski | No | Optional |
+| [Community Relations](/handbook/marketing/community-relations/) | David Planella | No | Optional |
+| [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Jean-Baptiste Larramendy | No | Optional |
+| [Alliances](/handbook/alliances/) | Nima Badiey | No | Optional |
 
 
 ## Examples of Past Group Conversations
