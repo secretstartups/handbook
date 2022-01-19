@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Monitor Group"
-description: "The Monitor group is responsible for the Monitor Stage of the DevOps lifecycle."
+title: "Respond Group"
+description: "The Respond Group a part of the Monitor Stage of the DevOps lifecycle."
 ---
 
 ## On this page
@@ -10,18 +10,18 @@ description: "The Monitor group is responsible for the Monitor Stage of the DevO
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Monitor
-The **Monitor** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain. We aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
+## Respond
+The **Respond** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain. We aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
 
 ## Exciting things and accomplishments
-This section details the happenings within the Monitor group. At any given time this section will have the top exiciting things and/or accomplishments of the team.
+This section details the happenings within the Respond group. At any given time this section will have the top exiciting things and/or accomplishments of the team.
 1. **On-Call Schedules and Escalation Policies are available!**
 1. **The Infrastructure team is Dogfooding the _incident_ issue type!**
 
 ## Peformance Indicators
-The Monitor Group’s mission is to decrease the frequency and severity of incidents. By helping our users respond to alerts and incidents with a streamlined workflow, and capturing useful artifacts for feedback and improvement, we can accomplish our mission. To get started, we need to establish an initial user base that we can learn from to improve and further grow the Monitor stage. We have prioritized the Incident Management category to obtain this usage. 
+The Respond Group’s mission is to decrease the frequency and severity of incidents. By helping our users respond to alerts and incidents with a streamlined workflow, and capturing useful artifacts for feedback and improvement, we can accomplish our mission. To get started, we need to establish an initial user base that we can learn from to improve and further grow the Monitor stage. We have prioritized the Incident Management category to obtain this usage. 
 
-With that in mind, our primary performance indicator, the Monitor SMAU, is the [count of unique users that interact with alerts and incidents](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#monitormonitor---smau-gmau---unique-users-that-interact-with-alerts-and-incidents). This PI will inform us if we are on the right path to provide meaningful incident response tools.
+With that in mind, our primary performance indicator, the Monitor:Respond SMAU, is the [count of unique users that interact with alerts and incidents](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=10039330). This PI will inform us if we are on the right path to provide meaningful incident response tools.
 
 We expect to track the journey of users through the following funnel:
 
@@ -45,43 +45,40 @@ classDiagram
 ```
 ### PI Dashboards
 
-- [Monitor error budget dashboard](https://dashboards.gitlab.net/d/stage-groups-monitor/stage-groups-group-dashboard-monitor-monitor?orgId=1): The Monitor Group has work in progress to separate our dashboard into two, active and inactive projects.  This will allow the team to identify trends in our newly released features separately from inactive projects.  We're looking for different trends in active vs inactive projects.  Active projects are constantly changing and the chances of introducing problems that impact our Error Budget are more likely.  With inactive projects, we're looking for impact from changes in dependencies which may adversely affect the Error Budget.  The team will review both of the dashboards monthly as part of our async retrospective process and track the needed improvements as technical debt issues.
+- [Monitor:Respond error budget dashboard](https://dashboards.gitlab.net/d/stage-groups-respond/stage-groups-group-dashboard-monitor-respond?orgId=1): The Respond Group has work in progress to separate our dashboard into two, active and inactive projects.  This will allow the team to identify trends in our newly released features separately from inactive projects.  We're looking for different trends in active vs inactive projects.  Active projects are constantly changing and the chances of introducing problems that impact our Error Budget are more likely.  With inactive projects, we're looking for impact from changes in dependencies which may adversely affect the Error Budget.  The team will review both of the dashboards monthly as part of our async retrospective process and track the needed improvements as technical debt issues.
 
 
 ## Snowplow Events
-Please view this [sisense chart](https://app.periscopedata.com/app/gitlab/737489/Monitor-Group-Dashboard?widget=9813568&udv=0) for a list of events we have instrumented for Monitor categories.
+Please view this [sisense chart](https://app.periscopedata.com/app/gitlab/737489/Monitor-Group-Dashboard?widget=9813568&udv=0) for a list of events we have instrumented for Monitor:Respond Events.
 <embed width="100%" height="100%" style="min-height:300px;" src= "<%= signed_periscope_url(chart: 9813568, dashboard: 737489, embed: 'v2') %>">
 
 ## Communication
 
-- Slack channel: [#s_monitor](https://gitlab.slack.com/archives/C1ZCCRWBC)
-- Slack alias: [@monitor-group](https://app.slack.com/client/T02592416/C0259241C/user_groups/SLFUX86HF)
+- Slack channel: [#g_respond](https://gitlab.slack.com/archives/C02SHPPGZS5)
+- Slack alias: [@monitor-respond-group](https://app.slack.com/client/T02592416/C02SHPPGZS5/user_groups/SLFUX86HF)
 - All of our team meetings are on our [Monitor Stage team calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xbGMyZHFpbjFoMXQ2MHFoNnJmcjJjZTE5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - Our Google groups are organized like this:
-  - [Monitor Group](mailto:monitor-group@gitlab.com) (whole team)
-    - [monitor-be](mailto:monitor-be@gitlab.com) (backend team)
-    - [monitor-fe](mailto:monitor-fe@gitlab.com) (frontend team)
+  - [Monitor Respond Group](mailto:monitor-respond-group@gitlab.com) (whole team)
+    - [monitor-respond_be](mailto:monitor-respond-be@gitlab.com) (backend team)
+    - [monitor-respond-fe](mailto:monitor-respond-fe@gitlab.com) (frontend team)
 
 ## Team members
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Monitor:Monitor') %>
+<%= direct_team(manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
 
 ## Stable counterparts
 
-<%= stable_counterparts(role_regexp: /Monitor/, direct_manager_role: 'Fullstack Engineering Manager, Monitor:Monitor') %>
+<%= stable_counterparts(role_regexp: /Monitor/, direct_manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
 
 ## Responsibilities
 {: #monitoring}
 
-This team maps to the [Monitor Group](/handbook/product/categories/#monitor-group) category and focuses on:
+This team maps to the [Respond Group](/handbook/product/categories/#respond-group) category and focuses on:
 
 * [Incident Management](https://about.gitlab.com/direction/monitor/debugging_and_health/incident_management/)
 * [Error Tracking](https://about.gitlab.com/direction/monitor/debugging_and_health/error_tracking/)
 * [Synthetic monitoring](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8338)
 * [Self-monitoring](https://about.gitlab.com/direction/monitor/self-monitoring/)
-* [Metrics](https://about.gitlab.com/direction/monitor/apm/metrics/)
-* [Logging](https://about.gitlab.com/direction/monitor/apm/logging/)
-* [Tracing](https://about.gitlab.com/direction/monitor/apm/tracing/)
 * [Product Intelligence](https://gitlab.com/gitlab-org/product-intelligence/-/issues/383)
 
 ## Working Agreements
@@ -304,24 +301,21 @@ For more information on how to use Zoom see theirs [guides](https://marketplace.
 While we try to keep our process pretty light on meetings, we do hold a [Monitor:Monitor Backlog Refinement](https://docs.google.com/document/d/1YWpzwlLVvciuHlpT1ALfixMHRYcWt7oqD4HftkVE5w8/edit#) meeting weekly to triage and prioritize new issues, discuss our upcoming issues, and uncover any unknowns.
 
 ## Labels
-The Monitor team uses labels for issue tracking and to organize issue boards.  Many of the labels we use also drive reporting for Product Management and Engineering Leadership to track delivery metrics.  It's important that labels be applied correctly to each issue so that information is easily discoverable.
+The Respond team uses labels for issue tracking and to organize issue boards.  Many of the labels we use also drive reporting for Product Management and Engineering Leadership to track delivery metrics.  It's important that labels be applied correctly to each issue so that information is easily discoverable.
 
 ### Issue Labels
 
 |                | Label                             | Required            | Description                                               |
 |----------------|-----------------------------------|---------------------|-----------------------------------------------------------|
 | **Stage**      | `~devops::monitor`                | Yes                 | Identifies which stage of GitLab an issue is assigned to. |
-| **Group**      | `~group::monitor`                 | Yes                 | Identifies which team this issue belongs to. This triggers new issues to appear in the weekly triage report for the team's Product and Engineering managers. |
+| **Group**      | `~group::respond`                 | Yes                 | Identifies which team this issue belongs to. This triggers new issues to appear in the weekly triage report for the team's Product and Engineering managers. |
 | **Team**       |                                   | Yes                 | Identifies which team (or both) will develop a solution. |
 |                | `~frontend`                       |                     |                                                            |
 |                | `~backend`                        |                     |                                                            |
 | **Category**   |                                   | No                 | Identifies the correct [Monitor category](https://about.gitlab.com/direction/monitor/#categories) the issue falls under. |
 |                | `~Category:Runbooks`              |                     |                                                            |
-|                | `~Category:Metrics`               |                     |                                                            |
 |                | `~Category:Incident Management`   |                     |                                                            |
 |                | `~Category:On-call Schedule Management`|                     |                                                            |
-|                | `~Category:Logging`               |                     |                                                            |
-|                | `~Category:Tracing`               |                     |                                                            |
 |                | `~Category:GitLab Self Monitoring`|                     |                                                            |
 |                | `~Category:Error Tracking`        |                     |                                                            |
 |                | `~Category:Synthetic Monitoring`  |                     |                                                            |
@@ -345,14 +339,16 @@ The Monitor team uses labels for issue tracking and to organize issue boards.  M
 ### Deliverable Labels
 In our group, the (frontend + backend) engineering managers are responsible for adding the `~deliverable` label to any issues that the team is publicly stating that to the best of their ability, they expect that issue to be completed in that milestone. We are not perfect but our goal is that 100% of the issues with that label do ship in the release that they are scheduled in. This allows engineering to share what issues they commit to and helps set expectations for the product manager and for the community.
 
-## Monitor Stage PTO
-Just like the rest of the company, we use [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) to track when team members are traveling, attending conferences, and taking time off. The easiest way to see who has upcoming PTO is to run the `/pto-roots whosout` command in the `#g_monitor_standup` slack channel. This will show you the upcoming PTO for everyone in that channel.
+## Respond PTO
+Just like the rest of the company, we use [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) to track when team members are traveling, attending conferences, and taking time off. The easiest way to see who has upcoming PTO is to run the `/pto-roots whosout` command in the `#g_respond_standup` slack channel. This will show you the upcoming PTO for everyone in that channel.
 
 ## Reading list
 
-A list of interesting content related to the areas of the Monitor stage product.
+A list of interesting content related to the areas of the Respond group:
 
-- **Observability**
-  - [#everyonecancontribute cafe: Observability with Opstrace](https://www.youtube.com/watch?v=InEyG9Aaer4) 📺
-- **Prometheus**
-  - [Prometheus Deep Dive - Ben Kochie, GitLab](https://www.youtube.com/watch?v=Me-kZi4xkEs) 📺
+- **On-Call**
+  - [Google's SRE Workbook, Chapter 8 - On-Call](https://sre.google/workbook/on-call/) 
+- **Incident Response**
+  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/incident-response/) 
+- **Postmoretm Culture: Learning from Failure**
+  - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/postmortem-culture/)  
