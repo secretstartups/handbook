@@ -75,7 +75,7 @@ Be sure you review the issue template and provide all necessary information that
 
 #### All Events - New issue Creation
 
-1. **Corporate Marketing Event Owner** creates issue using the [Corporate Event Request Template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#) in the Corporate Marketing project. **Field Marketing Event Owner** creates issue using the appropriate [Field Marketing Event Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/tree/master/.gitlab/issue_templates) in the Field Marketing project.
+1. **Corporate Marketing Event Owner** creates issue using the [Corporate Event Request Template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Event_Request) in the Corporate Marketing project. **Field Marketing Event Owner** creates issue using the appropriate [Field Marketing Event Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/tree/master/.gitlab/issue_templates) in the Field Marketing project.
 1. Add as much information about the event as possible. For the event to move into contracting, we will specifically need to know the cost and ROI.
 
 ### Step 2- Campaign Tag Creation
