@@ -18,7 +18,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2022-01-24 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/86))
 
-
+**Customer Programs: [TAM-Assigned Customer Enablement Enrollment](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)
 
 ### 2021-12-06 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/76))
 
