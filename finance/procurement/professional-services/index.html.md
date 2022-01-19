@@ -25,22 +25,26 @@ title: Professional Services
 ## How Do I Submit a Request for Professional Services/Contractor?
 - Once you've chosen your vendor and have followed the Bid Requirements per above, follow these instructions:
 1. [Login to Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
-1. Select your supplier
-    - If this is a **new supplier**, go to the "Forms and Quick Links" section on Home screen, click on "Request a New Supplier" button and complete the required fields. 
-      * Click "Review".
-      * Scroll down and check if no duplicates were found (field "Duplicates exist).
-      * If No Duplicates found click "Submit for Approval"
-        - Allow 1-2 business days for processing new supplier.
-    - If this is an **existing supplier** (or once your new supplier is active in Coupa), go to the "Forms and Quick Links" section on Home screen, click on "Professional Services request" button 
-1. Enter the required Fields and "Add to Cart"
-1. Click on your Cart in the upper right, complete remaining fields. Be prepared to include the following:
+- If this is an **existing supplier** (or once your new supplier is active in Coupa):
+<br> follow the video instruction [here](https://www.loom.com/share/390c6232f0944337a3d017c4fc8e7e8a) or:
+2. Go to the "Forms and Quick Links" section on the bottom of Home screen, 
+3. Click on "Professional Services request" button 
+4. Enter the required Fields and Submit
+5. Click on your Cart in the upper right, complete remaining fields. Be prepared to include the following:
     - Whether or not the vendor will have access to [red and/or orange data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-levels) 
     - All data and systems the vendor will have access to 
-        - Failure to complete this field will significantly delay the review and approval of your request.
+    - Failure to complete this field will significantly delay the review and approval of your request.
     - Vendor’s Security Contact Email (oftentimes this is different from the main contact. Providing the head of security contact info from the vendor’s company will expedite the security review and avoid delays)
     - Upload any contracts you've received.
     - Click "Submit for Approval"
-1. If the answer to any of the questions requires additional review from the GitLab Legal Team, Procurement will add Labor Law Attorney to the approval flow.
+**IMPORTANT** If the answer to any of the questions requires additional review from the GitLab Legal Team, Procurement will add Labor Law Attorney to the approval flow.
+- If this is a **new supplier**: 
+1. Go to the "Forms and Quick Links" section on Home screen, 
+2. Click on "Request a New Supplier" button and complete the required fields. 
+3.  Click "Review".
+4.  Scroll down and check if no duplicates were found (field "Duplicates exist).
+5.  If No Duplicates found click "Submit for Approval"
+        - Allow 1-2 business days for processing new supplier.
 
 ## What Happens after I submit my Request?
 - The Coupa Req will appear as "Pending Buyer Action", this means it is under review from the Procurement Team. 
