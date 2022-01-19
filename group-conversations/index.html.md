@@ -111,7 +111,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 1. You can invite someone within your team to give the update. It doesn't need to be the team lead, but the team lead is responsible for making sure that it is given.
 1. The host of the GC or the EBA to the host should update the [Group Conversation Agenda Document](https://docs.google.com/document/d/1zELoftrommhRdnEOAocE6jea6w7KngUDjTUQBlMCNAU/edit) with: 
    1. Link of the Google Slides presentation (with edit or comment access to everyone at GitLab). This should be the same slides used for a Key Review, if applicable. 
-   1. Link to the video of their Group Conversation presentation on GitLab Unfiltered. (recommended, but optional)
+   1. Link to the video of their Group Conversation presentation on GitLab Unfiltered (recommended, but optional).
    1. The host's name.
    1. The streaming DRI.
    1. Link to the Key Review Agenda (if applicable).
