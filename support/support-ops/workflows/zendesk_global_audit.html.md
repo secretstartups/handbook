@@ -21,7 +21,7 @@ Zendesk Global audits are to be completed every 6 months:
 ## Process
 
 To get started, you will first want to make an issue using the
-[Zendesk issue template](https://gitlab.com/gitlab-com/support/support-ops/audits/-/issues/new?issuable_template=Zendesk)
+[Zendesk issue template](https://gitlab.com/gitlab-com/support/support-ops/audits/-/issues/new?issuable_template=Zendesk Global)
 in the
 [audits project](https://gitlab.com/gitlab-com/support/support-ops/audits).
 
@@ -33,7 +33,7 @@ take a considerable amount of time, but the script reduces a large portion of
 the manual work required for the process. Once the script completes, it will
 output a large amount of information. This should be copied and pasted into the
 `## Notes` section of the issue you created via the
-[Zendesk issue template](https://gitlab.com/gitlab-com/support/support-ops/audits/-/issues/new?issuable_template=Zendesk).
+[Zendesk issue template](https://gitlab.com/gitlab-com/support/support-ops/audits/-/issues/new?issuable_template=Zendesk Global).
 
 From there, you need to go through the items reported and ping the person in
 the issue to ask for the item to be fixed (or clarify if this is intentional).
