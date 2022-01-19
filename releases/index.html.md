@@ -193,7 +193,7 @@ and the merge request fixes a critical regression.
 The label should not be applied to merge requests:
 
 - Introducing new features
-- Resolving a security vulnerability because process for security releases differs
+- Resolving a security vulnerability because process for [security releases](../security/index.html#security-releases) differs
 from the regular release
 
 #### Labels indicating inclusion in upcoming Self-managed release
@@ -233,7 +233,7 @@ guarantees on creation timing. This will depend on factors such as:
 
 * Any incidents on GitLab.com that are or have been going on in the run-up to
   the release.
-* Any (critical) security releases that require the attention of release
+* Any (critical) [security releases](../security/index.html#security-releases) that require the attention of release
   managers.
 * Any issues with our auto-deployment pipelines.
 * Other release related work that may delay or prevent the creation of a release
