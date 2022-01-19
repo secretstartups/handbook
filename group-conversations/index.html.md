@@ -116,7 +116,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
    1. The streaming DRI.
    1. Link to the Key Review Agenda (if applicable).
 1. The EBA team is responsible for pinging the appropriate team member 72 hours in advance if the document has not been updated by 8am US Pacific Time. 
-1. Post links to the Key Review video (if applicable), Key Review Notes (if applicable), Group Conversation Agenda Document, the presentation  (same as the Key Review slides, if applicable), and the Group Conversation presentation video (optional) in the #whats-happening-at-gitlab channel 72 hours before the call. We ask that this is done at least 72 hours ahead of the Group Conversation to ensure that team members around the world have an opportunity to review async and add their questions. 
+1. Try to post links to the Key Review video (if applicable), Key Review Notes (if applicable), Group Conversation Agenda Document, the presentation  (same as the Key Review slides, if applicable), and the Group Conversation presentation video (optional) in the #whats-happening-at-gitlab channel 72 hours before the call. We ask that this is done 72 hours ahead of the Group Conversation to ensure that team members around the world have an opportunity to review async and add their questions. All material should be added a minimum of 24 hours in advance
 1. Consider blocking off the 30 minutes before you are scheduled to lead a Group Conversation to make sure you can join on time and test that everything is working appropriately to host and stream the Group Conversation. 
 
 #### Presentation
