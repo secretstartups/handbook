@@ -41,28 +41,35 @@ If you have a team member going out on parental leave, a common question might b
 
 ## Parental Leave Reentry Buddies
 
-Fellow GitLab team members, regardless of whether they are a parent, are encouraged to volunteer as a Parental Leave Reentry Buddy.
+We want our team members to feel supported throughout the entire life-cycle of their leave.  Returning from any leave is hard, and navigating work and parenthood can be challenging. Parental Leave Reentry Buddies are an important part in supporting our team members returning from leave, and we ask GitLab team members to volunteer (being a parent yourself is not required).
 
-At a high level, a Parental Leave Reentry Buddy volunteers to help team members coming back online after [parental leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). It is recommended that this buddy work within the same department as the team member reentering work, but this is not a requirement. If you are asked to be a buddy, work with your manager to delegate or temporarily pause certain duties to assist a team member as they ramp back up to 100%.
+A Parental Leave Reentry Buddy helps team members reconnect with GitLab and ease back into working after [parental leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). A Parental Leave Reentry Buddy is an advocate for a successful return to work, and is able to empathize with concerns about reentering the workplace.  
 
-As a guide, Parental Leave Reentry Buddies should set aside around 10% to 20% of their time to assist with reentry for two to four weeks.
+Responsibilities may include but are not limited to:
 
-Responsibilities include:
+1. Facilitate weekly [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats) to catch up on non-work topics, and listen to any concerns they have or issues they've encountered since returning to work.  
+    - Make it fun!  Returning to work can be stressful, so coffee chats are a great time to step away from work and talk about something else.
+1. Be available to help your team member navigate through any company or departmental changes that occurred while on leave.  
 
-1. Facilitate [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats) to catch up with team members on non-work topics.
-1. Answer questions about top concerns, projects, and milestones that occur during parental leave.
-1. Surface relevant handbook pages that are created during parental leave.
-1. Advise of relevant new hires onboarded during parental leave.
+*Future iterations are still being considered, and will be added to this section as the program evolves. If you have any feedback regarding this program, please contact `leaves@gitlab.com` or share in the `#people-connect` Slack channel.*
 
-*Specifics on responsibilities and expectations are still being considered, and will be added to this section in future iterations.*
+### What Makes a Successful Reentry Buddy
+1. While it is recommended that this buddy work within the same department as the team member reentering work, it is not a requirement. We just ask that you dedicate your attention and resources to supporting your team member.  
+    - If you are asked to be a buddy, work with your manager to delegate or temporarily pause certain duties to assist a team member as they ramp back up to 100%.
+1. You are passionate about GitLab and its team members.
+1. You are able to commit 10-20% of your time for two to four weeks to team members returning from leave.
+1. You feel comfortable sharing feedback regarding what is working well, and suggestions for future iterations of this program.
+1. (*Recommended but not required*) You are comfortable with Git and GitLab and can answer team member questions.
 
 ### Find a Parental Leave Reentry Buddy
 
 Visit the [GitLab Team page](/company/team/) and search for 'Parental Leave Reentry Buddy', or ask on Slack in `#intheparenthood`.
 
-### Become a Parental Leave Reentry Buddy
+### Volunteer to Become a Parental Leave Reentry Buddy
 
-If you're comfortable using Git and GitLab and want to help team members troubleshoot problems and accelerate their learning, please follow these steps to indicate your availability as a `Parental Leave Reentry buddy`:
+1. Contact `leaves@gitlab.com` or post in the `#people-connect` Slack channel if you're interested in becoming a Parental Leave Reentry buddy or would like more information.
+
+### Adding Parental Leave Reentry Buddy to your GitLab Profile
 
 1. Find your entry in the [team.yml](/handbook/git-page-update/#11-add-yourself-to-the-team-page) file.
 1. Add `Parental Leave Reentry buddy` to the `departments` section in your entry (keeping your existing departments):
