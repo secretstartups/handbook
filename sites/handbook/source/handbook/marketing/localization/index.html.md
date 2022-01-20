@@ -50,7 +50,7 @@ Internal reviewers **are expected** to review content for accuracy and quality a
 | Language | Reviewers |
 | -------- | --------- |
 | French | @k33g |
-| German | @amimmo |
+| German | @skraft |
 
 #### Process for requesting a review via Smartling
 
