@@ -21,6 +21,9 @@ title: Travel
 1. If you incur any work-travel related expenses (on your personal card or a GitLab company card), please make sure to save the original receipt.
 1. When your trip is complete, please file an expense report via Expensify or include the receipts on your next monthly invoice.
 
+### Supporting nursing mothers
+1. The company will cover expenses for nursing mothers to properly store and ship breastmilk through a service of their choice, including services like [MilkStork](https://www.milkstork.com/) or Fedex.  
+
 ## Self Stay Incentive Policy <a name="self-stay"></a>
 
 If you decide to stay with friends or family instead of a hotel / Airbnb for a business trip, the company will pay you 50% of what would have been
