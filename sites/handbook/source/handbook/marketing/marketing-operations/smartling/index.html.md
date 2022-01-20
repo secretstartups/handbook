@@ -111,18 +111,18 @@ You can [reply to issues via email](https://help.smartling.com/hc/en-us/articles
 
 Projects are organized by the integration type:
 
-1. [Documents](#documents) (.docx)
+1. [Documents](#documents) (.docx, .csv, .idml, .srt)
 1. [Marketo](#marketo) (snippets, forms, landing pages, emails, programs)
 1. Repo (GitLab repository files, design assets) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11423)
 1. GDN (CDN connection for webiste translation) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11630)
 
 ### Documents
 
-**Please note:** If you are translating a design-heavy `.pdf`, please convert the `.pdf` to a `.docx` before uploading to Smartling for translation.
+**Please note:** It is recommended that if you are translating a design-heavy `.pdf` you submit the `.idml` file to Smartling instead of the PDF. After the translation, the PDF won't typically render properly and it is very challenging to fix. Smartling offers DTP services and will design the translated file for you for an additional fee and they will return translated design files and PDF. If you are using DTP, you must submit an `.idml` file.  If you are using `DTP`, follow the submission instructions under [Design Files](https://about.gitlab.com/handbook/marketing/marketing-operations/smartling/#design-files). If you would prefer our internal design team complete the design or do not require design, submit only the content in a `.docx`,`.csv`, or `.srt` file, using the instructions in this section. 
 
 <details>
 <summary markdown='span'>
-Request a job in the Documents project
+Request a job in the Documents project - For non-DTP workflows only
 </summary>
 
 1. Click `Jobs`. This takes you to all translation jobs regardless of what project they reside in.
@@ -130,11 +130,13 @@ Request a job in the Documents project
 1. Enter a name for the job. Use the following naming convention: `Language Abbreviation - Title of asset or campaign name - FYFQ - Team/individual DRI` - Example: KO - Benefits of Single Application CICD eBook - FY22Q2 - Campaigns/JT
 1. Ensure the job is located in the correct project according to the integration type (Marketo, GDN, Documents). Each project operates and includes a different workflow depending on the intergration.
 1. Upload the file to be translated.
-1. In the `Description`, paste the link of the epic or issue related to the translation job. **If you are using DTP** (desktop publishing services) and would like a PDF returned after design, please also enter "Please return designed PDF" in addition to the epic or issue.
+1. In the `Description`, paste the link of the epic or issue related to the translation job. 
 1. In the `Reference number` field, enter the Allocadia ID for your team's translation budget. The Content team does not have an ID and can leave this blank.
 1. Select the target language for the source file (what language want your document to be translated to).
 1. Click `Save Job and Continue`.
-1. On the next screen, select the workflow you would like. If you do not require design services (additional fee required), select the default workflow for the language. If you do require DTP, select it as your workflow and follow the instructions under [Design Files](https://about.gitlab.com/handbook/marketing/marketing-operations/smartling/#design-files).
+1. Your job now appears in the Job List. Select `Authorize`.
+1. Select the workflow you would like to use. Default workflow is the most common. See [Using Smartling](https://about.gitlab.com/handbook/marketing/marketing-operations/smartling/#using-smartling) for details about each workflow. If you do require DTP, select `DTP` as your workflow and follow the instructions under [Design Files](https://about.gitlab.com/handbook/marketing/marketing-operations/smartling/#design-files).
+1. Click `Confirm`.
 
 
 </details>
@@ -214,16 +216,30 @@ File directives are used to define the location of specific data in a file. **CS
 
 ## Design Files
 
-We have a workflow in Smartling that will format your file to support the new translation. Desktop Publishing in Smartling will take the new translations and apply them to your design files and return back a formatted file ready to use. Design files can be requested in the `#marketing-design` slack channel. Below is the process to follow if you wish for DTP to format your file:
+The `DTP` workflow in Smartling will format your file to support the new translation. Desktop Publishing in Smartling will take the new translations and apply them to your design files and return back a formatted file ready to use. Design files can be requested in the `#marketing-design` slack channel. Below is the process to follow if you wish for DTP to format your file:
 
-1. Open the job in Smartling and select the workflow called DTP. This workflow will translate your content, allow it go to review with our internal reviewers and then go onto the graphic designer who will format it.
-2. When creating the job for translation, you will see an option to upload files. For indesign files, job submitters will need to upload an indesign package with the following files:
+1. Click `Jobs`. This takes you to all translation jobs regardless of what project they reside in.
+1. Click the `Request Translation` button in the top-right.
+1. Enter a name for the job. Use the following naming convention: `Language Abbreviation - Title of asset or campaign name - FYFQ - Team/individual DRI` - Example: KO - Benefits of Single Application CICD eBook - FY22Q2 - Campaigns/JT
+1. Ensure the job is located in the Documents project. 
+1. Upload the `.idml` file to be translated. Do not submit a PDF, this workflow requires the design files.
+1. In the `Description`, paste the link of the epic or issue related to the translation job. Enter "Please return designed PDF" in addition to the epic or issue.
+1. In the `Reference number` field, enter the Allocadia ID for your team's translation budget. The Content team does not have an ID and can leave this blank.
+1. Select the target language for the source file (what language want your document to be translated to).
+1. Click `Save Job and Continue`.
+1. Your job now appears in the Job List. Select `Authorize`.
+1. On the next screen, select the `DTP` workflow. This workflow will translate your content, allow it go to review with our internal reviewers and then go onto the graphic designer who will format it.
+1. Click `Confirm`.
+1. Click on the job you just authorized. On the left sidebar, select "Add Attachments" under the `Job Attachments` section.
+1. Click `Upload Attachments`
+1. Select the .zip file containing all of the design files. For indesign files, job submitters will need to upload an indesign package with the following files:
     * All fonts
     * All linked Images
     * Source INDD File
     * Source IDML File
     * Source PDF.
-3. If you wish to receive a pdf file back, please ask for this in the job notes.
+1. In the "Attachment Description" field, enter the name of the asset and indicate that it is the artwork files. Click `Upload`.
+
 
 ## Attachments
 
