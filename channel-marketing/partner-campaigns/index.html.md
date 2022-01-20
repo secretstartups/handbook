@@ -83,29 +83,33 @@ These campaigns follow their own processes not found on the campaigns-and-progra
 
 ### Step 3: Update Tokens in Marketo
 - Update `{{my.Partner CRM ID}}` with the [15-digit CRM ID](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids) of the partner that will be following up with these leads.
-- Update `{{my. Partner Name}}` with the name of the partner who will be following up.
+- Update `{{my.Partner Name}}` with the name of the partner who will be following up.
 
 ### Step 4: Update SFDC Campaign
-Go to SFDC and search for the name of your program. 
+If you included the Allocadia ID, follow these steps. Otherwise, you'll need to update additional fields below.
+- Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
+- `Budgeted Cost` in SFDC pulls from your plan number, not your forecast number from Allocadia. If you do not have a plan cost in Allocadia then `Budgeted Cost` in SFDC will remain blank. If this is the case, you will want to add in your `Budgeted Cost` manually into your SFDC campaign.
+
+For more information on sync times, go [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign---using-allocadia)
+
+#### Step 4b: Update without Allocadia
+If you did not include the Allocadia ID in the description, you'll need to update the steps below:
 - Update `Campaign Type Details` to reflect the [type of MDF campaign](/handbook/marketing/channel-marketing/) it is.  
 - Change the `Campaign Owner` to your name
 - Update `Large Bucket` based on [criteria](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
-- Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
 - Update `Start Date` to the date of launch
 - Update `End Date` to when the campaign concludes
 - Update `Budgeted Cost` - If cost is $0 list 1 in the Budgeted Cost field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by 0 you will always get 0 as the pipe2spend calculation.
 - Update `Region` and `Sub-region` if you have the data available
-- Update `Status` to `In Progress` or the approriate selection
+- Update `Budget Holder`
+- Update `Is this an in person event?`
+- Update `Is a Channel Partner Involved?`
+- Update `Channel Partner Name`
+- Update `Is an Alliance Partner Involved?`
+- Update `Alliance Partner Name`
 - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 
-If you DID NOT include the Allocadia ID, you will need to fill in these additional fields. 
-- `Budget Holder`
-- `Is this an in person event?`
-- `Is a Channel Partner Involved?`
-- `Channel Partner Name`
-- `Is an Alliance Partner Involved?`
-- `Alliance Partner Name`
 
 
 ### Step 5: Create List Upload Request Issue
