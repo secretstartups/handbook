@@ -339,10 +339,10 @@ An example of a folder setup in Marketo is:
 
 |Status|Definition|When does it update?|
 |------|--------|--------|
-|Planned|The campaign is expected and has been set up, but the start date hasn't happened yet (could also be where its pulled back to if an event is postponed).|Prior to the Campaign Start date - upon Creation|
-|In Progress|The campaign has begun. |On Start date|
-|Aborted|Campaign has been suspended, cancelled, aborted.|Manually when campaign is aborted|
-|Completed|The campaign took place and has ended.|After the Campaign End Date|
+|Planned|The campaign is expected and has been set up, but the start date hasn't happened yet (could also be where its pulled back to if an event is postponed)|Prior to the Campaign Start date - upon Creation|
+|In Progress|The campaign has begun |On Start date|
+|Aborted|Campaign has been suspended, cancelled, aborted|Manually when campaign is aborted|
+|Completed|The campaign took place and has ended|After the Campaign End Date|
 
 
 
@@ -449,7 +449,6 @@ If you are a user of Allocadia, in this step you will also add the Allocadia ID 
     - Update the event epic
     - Update the description (if any)
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
-    - Update `Status` to `In Progress` or the approriate selection
     - Update `Region` and `Sub-region`, if these are local or targeted to a specific region
     - Update `Budget Holder` -  Do keep in mind that the `Budget Holder` field should be updated **only if**:
         -  the campaign results in offline Bizible touchpoints based on campaign type (i.e. content syndication, sponsored webcast, etc.) - **NOTE:** an offline Bizible touchpoint happens when we gather a lead offline and in order for the system to have this name you must go through a [list upload process](/handbook/marketing/marketing-operations/list-import/);     
@@ -510,7 +509,6 @@ The campaign meta data is a one time synch, where as the `Actual Cost in Campaig
     - Update `End Date`
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Subregion` if you have the data available
-    - Update `Status` to `In Progress` or the approriate selection
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 - If the program is being ran by Digital Marketing, add the SFDC campaign under the parent campaign `Demand Gen Pulishers/Sponsorships`
@@ -560,7 +558,6 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
     - Update `End Date`
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Subregion` if you have the data available
-    - Update `Status` to `In Progress` or the approriate selection
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 
@@ -587,7 +584,6 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Update the description
 - Update `Start Date` to the date of launch
 - Update `End Date`
-- Update `Status` to `In Progress` or the approriate selection
 - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
 - Update `Region` and `Subregion` if you have the data available
 - Click Save
@@ -666,7 +662,6 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
     - Update `End Date`
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Subregion` if you have the data available
-    - Update `Status` to `In Progress` or the approriate selection
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 
