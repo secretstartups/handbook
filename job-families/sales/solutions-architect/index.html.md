@@ -107,7 +107,7 @@ The Staff Solutions Architect is a [grade 9](/handbook/total-rewards/compensatio
 
 * Extends the Senior Solutions Architect responsibilities
 * Build and deliver high-value and reusable enablement content that measurably improves the team's effectiveness and execution.
-* Sustain mentorship for specific members of the Solutions Architecture team to improve our technical win rate and increase iACV.
+* Sustain mentorship for specific members of the Solutions Architecture team to improve our technical win rate and increase net ARR.
 * Guide Solution Architect team members through complex customer opportunities and activity.
 * Deliver product roadmap discussions.
 * Architect innovative solutions leveraging 3rd party and GitLab technologies that lead to new use cases and revenue opportunities.
@@ -129,11 +129,11 @@ The Principal Solutions Architect is a [grade 9](/handbook/total-rewards/compens
 #### Principal Solutions Architect Responsibilities
 
 * Extends the Staff Solutions Architect responsibilities
-* Create and maintain relationships with customer executives that contribute to large iACV deals and customer success.
+* Create and maintain relationships with customer executives that contribute to large net ARR deals and customer success.
 * Collaborate with product marketing, engineering, and management on a market strategy that results in an improved win rate.
 * Exert influence on the overall objectives, key results, and other long-range measurable goals of the team.
 * Translate 3rd party integrations into reference architectures and effectively communicates the design and it's value to customer and GitLab team members.
-* Sustain assistance requests by GitLab team members as a pre-sales and technical solutions authority for the top 10% of our iACV opportunities.
+* Sustain assistance requests by GitLab team members as a pre-sales and technical solutions authority for the top 10% of our net ARR opportunities.
 
 #### Principal Solutions Architect Requirements
 
@@ -409,10 +409,9 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 
 ## Performance Indicators
 
-As with all roles in the Sales Department, the Solutions Archtiect job family participates in a subset the [Sales KPIs](/handbook/ceo/kpis/#sales-kpis).
+As with all roles in the Sales Department, the Solutions Archtiect job family participates in a subset the [Sales KPIs]([/handbook/ceo/kpis/#sales-kpis](https://internal-handbook.gitlab.io/KPIs/#sales-kpis)).
 
-* [IACV versus Plan](https://about.gitlab.com/handbook/sales/performance-indicators/#iacv-vs-plan)
-* [Win Rate](https://about.gitlab.com/handbook/sales/performance-indicators/#win-rate)
+* [Net ARR versus Plan](https://internal-handbook.gitlab.io/sales/performance-indicators/#net-arr-vs-plan)
 
 ## Career Ladder
 
