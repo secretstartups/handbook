@@ -47,12 +47,14 @@ You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builde
 
 1. Form is hosted on a GitLab or Partner landing page. Partners should always use the `FORM 2983: Partner Self-Hosted Enterprise Trial Form` Form. 
    - This form has a hidden field that captured `utm_partnerid`
-1. Once submitted, Marketo then appends that value to the `CRM Partner ID (lookup)` and `Vartopia Partner Account ID` fields
+1. Once submitted, Marketo then appends that value to the `CRM Partner ID (lookup)` (lead only) and `Vartopia Partner Account ID` fields
 1. Marketo processes the lead and sends the trial activation key via email to the prospect
 1. Marketo [suspends emails](/handbook/marketing/channel-marketing/partner-campaigns/#email-management) being sent from GitLab to prospect
 1. Marketo sends email alert to partner team and syncs lead to SFDC
-1. !!!`Lean Data: PLEASE ENTER DESCRIPTION OF WORK HERE @bpeterson` LeanData picks up the lead and assigns to the CAM
-1. Vartopia picks up lead and assigns to partner based on ID
+1. LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner` if `Partner Account` is not `NULL`. 
+1. Salesforce.com updates ???? `Sheela to update`
+1. Salesforce.com sends alert email to Partner
+1. Vartopia picks up lead and assigns to partner in Vartopia based on ID
 1. Lead/Contact fields for Partner information are automatically populated
 1. `Vartopia Lead Management: @cfarris`
 
