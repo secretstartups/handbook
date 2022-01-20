@@ -150,6 +150,8 @@ Kibana can be used to find out if and when SSO Enforcement was enabled or disabl
 
 #### Searching Kibana for 500 level errors
 
+As of [14.7, a Correlation ID is provided](https://gitlab.com/gitlab-org/gitlab/-/issues/34113) on the 500 error page when using the interface. You can ask the customer to supply this and use Kibana to filter by `json.correlation_id`.
+
 Kibana is not typically used to locate `5XX` errors, but there are times where they can't be easily found in Sentry and searching Kibana first is beneficial. To perform a general search in Kibana:
 
 1. Obtain the full URL the user was visiting when the error occurred.
