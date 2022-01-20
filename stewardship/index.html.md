@@ -33,6 +33,13 @@ We promise that:
 1. We will always allow you to [benchmark the performance](https://news.ycombinator.com/item?id=18103162) of GitLab.
 1. We will make our Free tier easily discoverable.
 
+
+## Software as a Service
+
+Our stewardship promise applies only to the GitLab open source codebase, not to GitLab, Inc services such as GitLab Software as a Service (SaaS). 
+For ​GitLab SaaS, we may add limits around usage (e.g., storage, compute, traffic) or proxies for usage (e.g., number of users in a group) as we seek to optimize costs and revenues. 
+Our stewardship promise allows other companies and organizations to provide a SaaS offering based on the GitLab open source codebase. 
+
 ## What Features Are Paid-Only
 
 To determine what is open source and what not we ask ourselves: **[Who cares the most about the feature](/company/pricing/#buyer-based-open-core){:data-ga-name="buyer based open core"}{:data-ga-location="body"}**.  
