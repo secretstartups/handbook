@@ -107,7 +107,7 @@ The Staff Solutions Architect is a [grade 9](/handbook/total-rewards/compensatio
 
 * Extends the Senior Solutions Architect responsibilities
 * Build and deliver high-value and reusable enablement content that measurably improves the team's effectiveness and execution.
-* Sustain mentorship for specific members of the Solutions Architecture team to improve our technical win rate and increase net ARR.
+* Sustain mentorship for specific members of the Solutions Architecture team to improve our technical win rate and increase Net ARR.
 * Guide Solution Architect team members through complex customer opportunities and activity.
 * Deliver product roadmap discussions.
 * Architect innovative solutions leveraging 3rd party and GitLab technologies that lead to new use cases and revenue opportunities.
@@ -129,11 +129,11 @@ The Principal Solutions Architect is a [grade 9](/handbook/total-rewards/compens
 #### Principal Solutions Architect Responsibilities
 
 * Extends the Staff Solutions Architect responsibilities
-* Create and maintain relationships with customer executives that contribute to large net ARR deals and customer success.
+* Create and maintain relationships with customer executives that contribute to large Net ARR deals and customer success.
 * Collaborate with product marketing, engineering, and management on a market strategy that results in an improved win rate.
 * Exert influence on the overall objectives, key results, and other long-range measurable goals of the team.
 * Translate 3rd party integrations into reference architectures and effectively communicates the design and it's value to customer and GitLab team members.
-* Sustain assistance requests by GitLab team members as a pre-sales and technical solutions authority for the top 10% of our net ARR opportunities.
+* Sustain assistance requests by GitLab team members as a pre-sales and technical solutions authority for the top 10% of our Net ARR opportunities.
 
 #### Principal Solutions Architect Requirements
 
