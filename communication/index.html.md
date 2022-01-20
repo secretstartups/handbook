@@ -473,6 +473,25 @@ In informal acknowledgement scenarios, such as on Slack or on issue comments, it
 1. Do not use cumulative graphs internally. For example total ARR, total user, total contributors, or total Merge Requests. Instead use IACV per dollar spend, users added per month, contributions per month, or [MR rate](/handbook/engineering/development/performance-indicators/#development-department-member-mr-rate). Cumulative graphs can [hide trends](https://heap.io/blog/data-stories/how-to-lie-with-data-visualization) and are [far more likely to be misinterpreted](https://measuringu.com/cumulative-graphs/). The only acceptable use of cumulative graphs is for external presentations where they are expected by the audience and commonly used.
 1. When your presentation includes graphs or other data, make sure your graphs have clear titles and dimensions. Make sure your data has significant figures and labels. For example, use 'January: 1.95M projects' instead of 'January: 1.95M'. Keep in mind that your audience may not have the full context, especially if they are reading the presentation asynchronously.
 
+### Video and presentation tips with Lorraine Lee
+
+On 2022-01-20, the L&D team hosted [Lorraine Lee](linkedin.com/in/lorraineklee) for a live speaker series on video and presentation techniques in an all-remote workspace. 
+
+Key points addressed in the training include:
+
+1. **Increase your confidence on video** using lighting, visuals, and curating your environment
+1. **Keep your audience engaged** with movement, power words, and the think/do/feel matrix
+1. **Stay connected with your audience** by smiling, making eye contact, and framing yourself in video
+1. **Insert energy** by standing up, projecting, and using hand gestures
+
+Watch the replay below:
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/A5KtmrgVqr8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+
 ## Say Thanks
 
 As we continue to build on [inclusion](https://about.gitlab.com/handbook/values/#diversity-inclusion), recognition is a key and transformative tactic. Thanking team members provides an opportunity for them to be recognized for their contributions, influences engagement behavior, and acknowledges to team members their work is seen. By saying thanks, you are contributing to and supporting the value of [DIB](https://about.gitlab.com/handbook/values/#diversity-inclusion).
