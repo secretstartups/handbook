@@ -212,6 +212,21 @@ In addition to the above requirements for Global Support Managers, you will need
 
 - Valid proof of US Citizenship
 
+### Director of Support Readiness
+
+Director, Support Readiness is a global role responsible for leading a Support Readiness function within the GitLab Customer Support organization.  This role will lead a team of Support Operations managers and individual contributors working closely with Product, Engineering, & Sales teams to ensure that the Customer Support organization is ready to support product releases. This role will manage all aspects of planning and enablement in ensuring that the appropriate Support delivery team is ready to support all existing and new releases across the entire GitLab solution.
+
+This includes overall supportability of the product and Support’s readiness of new releases, which entails development of training plans, assist in building tools as needed as well as preparing and delivering regular Key Reviews.  Working with teams globally, this role will be responsible for enabling the global Support team towards continuous improvement in key Support metrics – Service Levels, SSAT, TTR, staffing model input, etc. 
+
+This role also closely interacts with counterparts in Product, Development, QA, UX, Customer Success and Sales, to clearly understand the upcoming release features and enabling the global delivery teams to ensure customer support has the appropriate knowledge and troubleshooting procedures to minimize time to resolution.
+
+###### Additional Responsibilities for Director of Support Readiness
+{:.no_toc}
+
+- Manage multiple teams and projects affecting consistent global execution
+- Own the support readiness and operations across all products
+
+
 ## [What it’s like to work here](https://about.gitlab.com/jobs/faq/#whats-it-like-to-work-at-gitlab) at GitLab
 
 The [culture](https://about.gitlab.com/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLabbers are currently located in over 51 different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe. Some of the [benefits](/handbook/total-rewards/benefits/) you’ll be entitled to vary by the region or country you’re in. However, all GitLabbers are fully remote and receive a "no ask, must tell" paid-time-off policy, where we don’t count the number of days you take off annually. You can work incredibly flexible hours, enabled by our [asynchronous approach](https://about.gitlab.com/handbook/communication/) to communication. We’ll also help you set up your [home office environment](https://about.gitlab.com/handbook/spending-company-money/), pay for your membership to a co-working space, and contribute to the [travel costs](https://about.gitlab.com/handbook/incentives/#visiting-grant) associated with meeting other GitLab employees across the world.
