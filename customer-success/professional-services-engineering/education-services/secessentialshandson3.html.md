@@ -43,11 +43,11 @@ The training environment blocks License Compliance for all projects by default. 
 In real life you would approve or deny each of the licenses for your project's dependencies, but in this lab you'll manage just 2 of them.
 
 1. Click **Manage licenses**. 
-2. Click **Add a license**.
+2. Click **Add license policy**.
 3. In the **License name** dropdown, select `MIT License`. There are several licenses with similar names, so be sure to pick the right one.
 4. Select the **Allow** radio button.
 5. Click **Submit**.
-6. Click **Add a license**.
+6. Click **Add license policy**.
 7. In the **License name** dropdown, select `Apache License 2.0`. Make sure not to accidentally select a different license with a similar name.
 8. Select the **Deny** radio button.
 9. Click **Submit**.
