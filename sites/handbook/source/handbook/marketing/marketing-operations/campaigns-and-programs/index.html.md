@@ -172,16 +172,16 @@ This is an event that we have created, own registration and arrange speaker/venu
 | Follow Up Requested | Requested additional details about GitLab to be sent post event | Yes |
 
 
-#### Partner - MDF (WIP)
+#### Partner - MDF
 
-This is for an activity that our partner is executing utilizing MDF Funds. We track membership, but the partner, not GitLab follows up with these leads. Exact process is WIP, see more details [here](/handbook/marketing/channel-marketing/partner-campaigns/).
+This is for an activity that our partner is executing utilizing MDF Funds. We track membership, but the partner, not GitLab follows up with these leads. Exact process is WIP, see more details [here](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
 
 **Bizible:** This is tracked as an _offline_ channel 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
-| Sent | default starting position for all records |  |
-| Responded | Member of program|Yes|
+| Member | default starting position for all records |  |
+| Responded | Attended event or campaign |Yes|
 
 #### Self-Service Virtual Event
 
