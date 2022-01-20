@@ -25,7 +25,6 @@ Target buyer personas include CIO, CTO, VP of Application Development, Product O
 
 ### Objectives
 *  With an understanding of your long-term goals, what are your key objectives for the next 6-12 months?
-Challenges
 *  What challenges are you experiencing with modernizing your application development practices?
 *  If you could address or improve one or a just a few things in your current DevOps stack implementation and execution, what would that be and why?
 *  What has prevented the move to <x> so far?
