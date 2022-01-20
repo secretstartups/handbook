@@ -12,7 +12,7 @@ description: Information on the support GitLab is offering in relation to COVID-
 
 ## Team Member and Manager Support During COVID
 
-With the continued uncertainty of COVID 19 and the lack of visibility on how things will progress throughout the remainder of 2020 and into 2021 we wanted to offer additional guidance for how we continue to support our team members, managers and the GitLab business. Knowing that there is not a one size solution that fits all team members we are looking at what can we do collectively to ensure that communication, collaboration, engagement, performance and overall team member well-being is being addressed as we navigate these ever changing and challenging times.  We are a family and friends first company however we do also have a business to run so this section is to offer recommendations, suggestions, guidelines and best practices for all team members and managers.
+With the continued uncertainty of COVID 19 and the lack of visibility on how things will progress throughout the remainder 2022 we wanted to offer additional guidance for how we continue to support our team members, managers and the GitLab business. Knowing that there is not a one size solution that fits all team members we are looking at what can we do collectively to ensure that communication, collaboration, engagement, performance and overall team member well-being is being addressed as we navigate these ever changing and challenging times.  We are a family and friends first company however we do also have a business to run so this section is to offer recommendations, suggestions, guidelines and best practices for all team members and managers.
 
 ### Manager Guidelines/Best Practices
 
@@ -99,7 +99,7 @@ If you meet the criteria set forth above and find that you need additional sick 
 * What if I am on a commission plan?
   * If applicable, commissions are paid according to your applicable commission plan while on COVID-19 related leave based on the prior six months of performance with a cap at 100% of plan. On the day you return from leave and going forward, your commissions will be based on current performance only.
 * What is the last day to apply for COVID-19 Leave?
-  * The ability to request COVID-19 Leave will run through December 31, 2021. That means, any requests for COVID-19 Leave must be made prior to October 31, 2021, however the leave itself may exceed that timeframe. By way of an example, if a team member requests COVID-19 Leave on December 31, 2021 for 4 weeks, the end date for their COVID-19 Leave would be January 31, 2022. As the situation around COVID-19 continues to evolve, GitLab will continue to revisit this policy before the 25th of the month and may adjust it accordingly.
+  * The ability to request COVID-19 Leave will run through April 30, 2022. That means, any requests for COVID-19 Leave must be made prior to April 30, 2022, however the leave itself may exceed that timeframe. By way of an example, if a team member requests COVID-19 Leave on April 29, 2022 for 4 weeks, the end date for their COVID-19 Leave would be May 27, 2022. As the situation around COVID-19 continues to evolve, GitLab will continue to revisit this policy before the 25th of the month and may adjust it accordingly.
 
 ## Expensing the COVID-19 Vaccine 
 
