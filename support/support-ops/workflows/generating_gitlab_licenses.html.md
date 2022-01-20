@@ -108,7 +108,14 @@ Support Operations Manager.
 > 
 > Should you encounter any issues using this license, please contact us via
 > #support_operations in Slack!
+> 
+> Note that this is a manually generated license and does *not* have a cloud activation key. Instructions for applying it are in the [documentation for activating GitLab EE with a license file](https://docs.gitlab.com/ee/user/admin_area/license.html#activate-gitlab-ee-with-a-license-file).
 >
 > Have a good one!
 > 
 > GitLab Support operations
+
+### Applying the license
+
+For info on applying licenses, please see
+[https://docs.gitlab.com/ee/user/admin_area/license.html#activate-gitlab-ee-with-a-license-file](https://docs.gitlab.com/ee/user/admin_area/license.html#activate-gitlab-ee-with-a-license-file)
