@@ -41,7 +41,7 @@ Staging Ref is a sandbox environment used for pre-production testing of the late
 
 Staging Ref deployment runs parallel to Staging Canary deployment. [Deployer](https://ops.gitlab.net/gitlab-com/gl-infra/deployer) triggers a job in [Staging-Ref GET Config](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit-configs/staging-ref) to update the environment. Notifications about new deployments are sent to the [`#announcements`](https://gitlab.slack.com/archives/C8PKBH3M5) Slack channel.
 
-Staging Ref pipelines do not block the deployment. If there are any failures with deployment to `gstg-ref`, please reach out to `@release-managers`. After successful deployment, Sanity and Full QA pipelines are triggered. Results are posted to `#qa-staging-ref` and analysed by Quality on-call DRIs. Please refer to the [Quality Department pipeline triage rotation schedule](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#schedule) to identify the current DRI. 
+Staging Ref pipelines do not block the deployment. If there are any failures with deployment to `gstg-ref`, please reach out to `@release-managers`. After successful deployment, Sanity and Full QA pipelines are triggered. Results are posted to `#qa-staging-ref` and analysed by Quality on-call DRIs. Please refer to the [Quality Department pipeline triage rotation schedule](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#schedule) to identify the current DRI.
 
 ```plantuml
 @startuml staging-ref
@@ -121,10 +121,11 @@ Staging Ref environment has some known limitations that will be worked on:
 - Configure CustomersDot portal for Staging Ref ([issue#342150](https://gitlab.com/gitlab-org/gitlab/-/issues/342150))
 - Incoming email setup ([issue#348970](https://gitlab.com/gitlab-org/gitlab/-/issues/348970))
 - Monitoring ([epic#594](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/594))
-- More advanced configurations like Geo will be explored in a second iteration (issue TBD)
+- More advanced configurations like Geo ([issue#350741](https://gitlab.com/gitlab-org/gitlab/-/issues/350741))
 - Load testing ([issue#344223](https://gitlab.com/gitlab-org/gitlab/-/issues/344223), [issue#344224](https://gitlab.com/gitlab-org/gitlab/-/issues/344224))
 - QA test session reports are not linked to Release tasks ([issue#2168](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2168))
+- Increase Staging Ref adoption and gather feedback - ([issue#350744](https://gitlab.com/gitlab-org/gitlab/-/issues/350744))
 
 ### Feedback
 
-If you need some additional custom configuration for Staging Ref to be explored or you have other feedback and ideas for improvements, please reach out to [`#eng-allocation-new-staging`](https://gitlab.slack.com/archives/C02BA0YKRUH) Slack channel or raise an issue in [Staging-Ref GET Config](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit-configs/staging-ref).
+If you need some additional custom configuration for Staging Ref to be explored or you have other feedback and ideas for improvements, please reach out to [`#eng-allocation-new-staging`](https://gitlab.slack.com/archives/C02BA0YKRUH) Slack channel or add a comment to the feedback [issue#350744](https://gitlab.com/gitlab-org/gitlab/-/issues/350744).
