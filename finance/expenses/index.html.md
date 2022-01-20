@@ -35,7 +35,7 @@ Team members are reimbursed on different schedules depending on their location. 
 ## Expense Policy Summary
 
     1. Max Expense Amount - [$5,000 USD](https://www1.oanda.com/currency/converter/) - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
-    1. Itemized receipts are required for all expenses.
+    1. Itemized receipts are required for all business related expenses that are greater than $75 USD or equivalent to local currency.
     1. Expenses should be submitted within 30 days of purchase, spend, or invoice due date. This helps the company to better manage our budget and ensures accurate month-end reporting.
         - If your purchase requires that you pre-pay for services, such as quarterly or yearly payments, you must split the cost monthly and only submit 1 month (or 1 payment) at a time for reimbursement.
         - If you are required to pay 250 every 3 months, divide the total cost by the # of months and that is what you submit each month.
