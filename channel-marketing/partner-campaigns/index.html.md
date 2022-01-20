@@ -32,7 +32,7 @@ Each campaign has it's own ROE for lead routing and email practices. Follow the 
 </div>
 
 ## Partner Only Campaigns - MDF funded
-These campaigns are GitLab funded via MDF, but all leads are passed to the partner. We upload these lists into our systems to be able to track pipeline from resulting Deal Registrations in Vartopia.
+These campaigns are GitLab funded via MDF, but all leads are passed to the partner. We upload these lists into our systems to be able to track pipeline from resulting Deal Registrations in Vartopia. You can find Marketo and SFDC Campaign set up [here](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
 
 ## Joint GitLab and Partner Events
 When GitLab and Partners participate in events together, they will share leads. 
@@ -63,13 +63,14 @@ You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builde
 There is no marketo program or SFDC campaign setup necessary to track self-managed trials. Every partner trial campaign can utilize setup from `Partner - Trial - Self-managed` campaign, without making any changes. Follow [directions above](/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners) to understand what form to use and what processes to follow.
 
 ## Joint Marketing Campaign Set Up
-Follow directions on [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The main difference is updating the correct tokens for partner tracking.
+Follow directions on [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The main difference is updating the correct tokens for partner tracking - this is a WIP
 
 ## MDF funded Campaigns
 These campaigns follow their own processes not found on the campaigns-and-programs page. 
 
 ### Step 1: Clone Marketo program (TBC)
-Marketo program template to be created...
+- Clone [Marketo Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG9881D4)
+- Update the name to match the naming convention YYYYMMMDD__MDF Partner Name_Event Name
 - Update description with the link to the SFDC MDF request and Coupa ID and Allocadia ID (if you have it)
 
 ### Step 2: Sync Program to SFDC
@@ -79,7 +80,8 @@ Marketo program template to be created...
 - Click "Save"
 
 ### Step 3: Update Tokens in Marketo
-- Update `{{my.Partner CRM ID}}` with the 15-digit CRM ID of the partner that will be following up with these leads.
+- Update `{{my.Partner CRM ID}}` with the [15-digit CRM ID](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids) of the partner that will be following up with these leads.
+- Update `{{my. Partner Name}}` with the name of the partner who will be following up.
 
 ### Step 4: Update SFDC Campaign
 Go to SFDC and search for the name of your program. 
@@ -88,7 +90,7 @@ Go to SFDC and search for the name of your program.
 - Update `Large Bucket` based on [criteria](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
 - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
 - Update `Start Date` to the date of launch
-- Update `End Date`
+- Update `End Date` to when the campaign concludes
 - Update `Budgeted Cost` - If cost is $0 list 1 in the Budgeted Cost field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by 0 you will always get 0 as the pipe2spend calculation.
 - Update `Region` and `Sub-region` if you have the data available
 - Update `Status` to `In Progress` or the approriate selection
@@ -108,7 +110,7 @@ If you DID NOT include the Allocadia ID, you will need to fill in these addition
 - Create List upload request issue to have these leads imported in.
     - Issue template: **TBC**
     - Please follow the [list import criteria and guidelines](/handbook/marketing/marketing-operations/list-import/#import-methods-and-their-sla)
-- NOTE: Leads should not be marked as `opt-in` unless they specifically opted in to **GitLab** emails.
+- NOTE: Leads should **NOT** be marked as `opt-in` unless they specifically opted in to **GitLab** emails.
 
 ### Step 6: Load List and Activate Smart Campaign
 - Once list is loaded, loader should go to the `01 - Processing` campaign and `Run Once`
