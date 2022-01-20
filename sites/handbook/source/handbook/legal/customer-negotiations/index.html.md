@@ -34,7 +34,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | [**Requests for GitLab Financial Information, Tax and Insurance Certificates**](#completing-vendor-request-forms) | [**Why GitLab does not sign BAAs (Business Associate Agreement)**](#why-gitlab-does-not-sign-baas) |
 | [**How to get a Data Processing Agreement (DPA) Signed**](#how-to-get-a-data-processing-addendum-dpa-signed) | [**Intro to GitLab Privacy Compliance and Data Processing Agreement (DPA)**](#intro-to-data-privacy-and-the-gitlab-data-processing-addendum) |
 | [**Escalation Process**](#escalation-process) | 
-| [**GitLab Legal Commercial Coverage Model & Best Practices for a Legal Call**](#gitLab-legal-commercial-coverage-model-&-best-practices-for-a-legal-call) |
+| [**GitLab Legal Commercial Coverage Model & Best Practices for a Legal Call**](#gitlab-legal-commercial-coverage-model-and-best-practices-for-a-legal-call) |
 
 ## OPERATIONAL
 
@@ -205,7 +205,7 @@ _Please Note: The purpose of this content is to understand where to find GitLab'
     - GitLab's [Customer Assurance Package](https://about.gitlab.com/handbook/engineering/security/security-assurance/field-security/customer-assurance-package.html) provides details of GitLab's current Security and Compliance posture.
     - GitLab documentation explaining how to [_Secure your application_](https://docs.gitlab.com/ee/user/application_security/), [_Secure your installation_](https://docs.gitlab.com/ee/security/README.html) and the [_GitLab permissions guide_](https://docs.gitlab.com/ee/development/permissions.html) are useful for helping customers understand steps they can take to secure the personal data processed in GitLab. 
 
-## GitLab Legal Commercial Coverage Model & Best Practices for a Legal Call
+## GitLab Legal Commercial Coverage Model and Best Practices for a Legal Call
 
 ### GitLab Legal Commercial Coverage Model
 1. Please review the [GitLab Legal Coverage Model](https://docs.google.com/presentation/d/13A1g9AIGQ8GYBgZ0LEYvSuLV7u4j-zffLUbvbzaheWM/edit?usp=sharing) which provides an overview of the GitLab Legal Commercial coverage model by region & segment. _NOTE: This is available to GitLab Team Members only_
