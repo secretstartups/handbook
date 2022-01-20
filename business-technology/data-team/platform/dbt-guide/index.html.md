@@ -126,6 +126,7 @@ Recommended workflow for anyone running a Mac system.
 - Ensure your SSH configuration is setup according to the [GitLab directions](https://gitlab.com/help/ssh/README). Your keys should be in `~/.ssh/` and the keys should have been generated with no password.
     - You will also need access to [this project](https://gitlab.com/gitlab-data/data-tests) to run `dbt deps` for our main project.
 - **NB**: Ensure your default browser is set to chrome. The built-in SSO login only works with chrome
+- **NB**: Ensure you are in the folder where your `/analytics` repo is located. If you installed everything properly `jump analytics` will land you where it is needed in order to run `dbt` commands successfully.
 - **NB**: Before running dbt for the first time run `make prepare-dbt`. This will ensure you have venv installed.
 - To start a `dbt` container and run commands from a shell inside of it, use `make run-dbt`
 - This will automatically import everything `dbt` needs to run, including your local `profiles.yml` and repo files
