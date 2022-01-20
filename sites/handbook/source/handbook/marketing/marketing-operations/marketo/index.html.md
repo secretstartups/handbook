@@ -123,7 +123,7 @@ A Lead/Contact will be allowed to re-MQL if they are in a `Nurture` status and r
 
 The number of times they `MQL` will be counted with the `MQL Counter` field.  The `Initial MQL DateTime` contains the very first time a prospect reached the [MQL threshold](/handbook/marketing/marketing-operations#mql-scoring-model).  `MQL Date` will be overwritten to be the most recent date that a lead has reached the MQL threshold.
 
-When a lead is set to `Nurture`, their `Behavior Score` is reset to 0. Their `Person Score` is reset to the value of the `Demographic Score`. Additionally, a person who has reached `MQL` in the past, is given an additional score of `+20` when they are reset to `Nurture`. If a lead was `Accepted` before it reached the MQL threshold, and is then set to `Nurture` within 30 days, the lead's `Behavior Score` will reset to the value it was while in `Inquiry`, the `Demographic Score` will be re-run and their overall `Person Score` will be the sum of those two values.
+When a lead is set to `Nurture`, their `Behavior Score` is reset to 0. Their `Person Score` is reset to the value of the `Demographic Score`. Additionally, a person who has reached `MQL` in the past, is given an additional score of `+20` when they are reset to `Nurture` and take an action to increase their behaviour score. If a lead was `Accepted` before it reached the MQL threshold, and is then set to `Nurture` within 30 days, the lead's `Behavior Score` will reset to the value it was while in `Inquiry` when they take an action, the `Demographic Score` will be re-run and their overall `Person Score` will be the sum of those two values.
 
 When a lead `Re-MQLs` from `Nurture` to `MQL`, their `Nurture Reason` field is set to `Null`, but that `Nurture Reason` value is preserved in the field `Previous Nurture Value` on the lead or contact. That field is set by Marketo only. The `Nurture DateTime` only updates the first time. When a lead re-reaches an `MQL` status, they are not re-routed by LeanData for round-robin, they stay in their original owners name.
 
@@ -190,7 +190,7 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |Visits Mult Webpages|7 pages in 1 day	|+5	|{{my.Visits Mult. Webpages}}	|Trigger	|1/ 3 days|
 |Web: No activity in 30 days|No web activity, not created in last 30|	-10	|{{my.No Web Activity}}|	Trigger|	1/month|
 |Web: Visits Low Value|`/jobs`|	-10	|{{my.Visits Low Value Webpage}}|	Trigger	|1/day|
-|Email: Unsubscribed|Unsubscribed from Email|	=0	|{{my.Unsubscribed}}|	Trigger	|1/month
+|Email: Unsubscribed|Unsubscribed from Email|	Score Reset	|{{my.Unsubscribed}}|	Trigger	|1/month
 |Email:  Bounce	|Email Hard Bounces|	-20|	{{my.Bounce}}|	Trigger|1/month|
 
 
@@ -207,7 +207,7 @@ These are boosters to scores that occur when a special action takes place above 
 |BrightTalk Engagement Booster 2|Total Minutes Viewed > 4 minutes|+15|{{my.Content Boost 2}}|Trigger|1/day|
 |PF Fast Moving Buyer|Becomes fast moving buyer|+10|{{my.FMB Booster}}|Trigger|1/month|
 |LinkedIn Form Fill Booster| Fills out Linkedin Lead Gen Form | +30| {{my.Linkedin Booster}}|Trigger|Everytime|
-|Re-MQL Score|	Status changes to Nurture,<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
+|Re-MQL Score|	Status is Nurture,user takes an activity that increases behaviour score<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
 |Trial + Action|Success in program within 40 days of starting a trial |+20|{{my.Trial plus Action Booster}}|Trigger|1/month|
 
 
@@ -219,7 +219,6 @@ For Job role/function and seniority descriptions can be found [here](https://doc
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
 |Setup for Company/Team Use|Self-Identified as using for company or team in the product|	+40	|{{my.Setup for Company}}|	Trigger|Once|
 |Business Email Domain|Has a valid business email address|	+20	|{{my.Business Domain}}|	Trigger|Once|
-|Focus Account|	[Account Based/Centric](/handbook/marketing/revenue-marketing/account-based-strategy/#gl4300--mm4000)|	+20	|{{my.Focus Account}}|	Trigger|Once|
 |Technology - High (Not Live)|[See tech here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)	|+20|	{{my.Tech - High}}|	Batch / Nightly|	Once|
 |Technology - Low (Not Live)|[See tech here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)	|+10|{{my.Tech - Low}}	|	Batch / Nightly|	Once|
 |Seniority - High|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	+20	|{{my.Seniority - High}}|	Trigger on creation or Update to Title|	Once|
