@@ -226,7 +226,7 @@ An issue may have an `infradev` label attached to it, which means it subscribes 
 
 ### Limit Related Bugs
 
-GitLab, like most large applications, enforces limits within certain features to maintain a minimum quality of performance. The absences of limits can impact security, performance, and availability. For this reason issues related to limits are considered as another category of `~"type::bug"`.
+GitLab, like most large applications, enforces limits within certain features. The absences of limits can impact security, performance, and availability. For this reason issues related to limits are considered as another category of `~"type::bug"`.
 
 In order to define an issue as related to limits add the label `~"availability::limit:`.
 
