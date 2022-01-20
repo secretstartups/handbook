@@ -33,7 +33,8 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | [**What's needed to close a deal?**](#whats-needed-to-close-a-deal)    | [**GitLab Subscription Agreement 101**](#gitlab-subscription-agreement-101) |
 | [**Requests for GitLab Financial Information, Tax and Insurance Certificates**](#completing-vendor-request-forms) | [**Why GitLab does not sign BAAs (Business Associate Agreement)**](#why-gitlab-does-not-sign-baas) |
 | [**How to get a Data Processing Agreement (DPA) Signed**](#how-to-get-a-data-processing-addendum-dpa-signed) | [**Intro to GitLab Privacy Compliance and Data Processing Agreement (DPA)**](#intro-to-data-privacy-and-the-gitlab-data-processing-addendum) |
-| [**Escalation Process**](#escalation-process) | [**GitLab Legal Commercial Coverage Model & Best Practices for a Legal Call](#gitLab-legal-commercial-coverage-model-&-best-practices-for-a-legal-call) |
+| [**Escalation Process**](#escalation-process) | 
+| [**GitLab Legal Commercial Coverage Model & Best Practices for a Legal Call**](#gitLab-legal-commercial-coverage-model-&-best-practices-for-a-legal-call) |
 
 ## OPERATIONAL
 
@@ -207,7 +208,7 @@ _Please Note: The purpose of this content is to understand where to find GitLab'
 ## GitLab Legal Commercial Coverage Model & Best Practices for a Legal Call
 
 ### GitLab Legal Commercial Coverage Model
-1. Please review the [GitLab Legal Coverage Model](https://docs.google.com/presentation/d/13A1g9AIGQ8GYBgZ0LEYvSuLV7u4j-zffLUbvbzaheWM/edit#slide=id.g2823c3f9ca_0_30) which provides an overview of the GitLab Legal Commercial coverage model by region & segment. _NOTE: This is available to GitLab Team Members only_
+1. Please review the [GitLab Legal Coverage Model](https://docs.google.com/presentation/d/13A1g9AIGQ8GYBgZ0LEYvSuLV7u4j-zffLUbvbzaheWM/edit?usp=sharing) which provides an overview of the GitLab Legal Commercial coverage model by region & segment. _NOTE: This is available to GitLab Team Members only_
 2. Even though this resource provides individual contact information, please follow the steps and open a **Legal Request** if you have a need related to a Customer.
 
 ### Best Practices for a Legal Call
