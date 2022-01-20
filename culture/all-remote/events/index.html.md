@@ -33,23 +33,13 @@ A conference is a company or industry-specific meeting where people gather to di
 
 ![REMOTE by GitLab banner](/images/all-remote/remote-hopin-banner-dark.png){: .medium.center}
 
-> [REMOTE by GitLab](https://hopin.com/events/remote-by-gitlab?ref=878eab263d97) is a premier event exploring the future of workplace design, strategy, and culture. During this half-day symposium on **June 29, 2021**, attendees learned how to create and sustain scalable remote practices within their teams and organizations. **REMOTE by GitLab** featured sessions from top remote leaders, detailing how remote work is transforming lives, companies, and communities. As one of the largest all-remote companies, GitLab brought together the workplace design community to inspire the future of business and culture in the post-office world. 
+> [REMOTE by GitLab](https://remotebygitlab.com/) is a premier event exploring the future of workplace design, strategy, and culture. During this half-day symposium on **June 29, 2021**, attendees learned how to create and sustain scalable remote practices within their teams and organizations. **REMOTE by GitLab** featured sessions from top remote leaders, detailing how remote work is transforming lives, companies, and communities. As one of the largest all-remote companies, GitLab brought together the workplace design community to inspire the future of business and culture in the post-office world. 
 > 
 > **Couldn't join us live? [Watch the recordings](https://www.youtube.com/c/Gitlab/playlists?view=50&sort=dd&shelf_id=1) on demand.** 
 
 ## What is a remote work summit?
 
-A summit is typically a formal, standalone event with a narrowly defined focus. Remote summits may be by invitation only and encourage idea-sharing, discussion, or invite a specialized group of people to focus on solving a specific problem, such as the Remote Future Summit.
-
-### The Remote Future Summit
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/CcszuJxyTqY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-> The [Remote Future Summit](https://remote-future.com/) is an annual virtual conference focused on remote work. You can join it from anywhere, as it is a 100% online experience. The third and most-recent edition of the Remote Future Summit took place in September 2020, covering topics like becoming a remote-friendly organization and designing processes for distributed teams. You can still access all the contents and recordings from the event.
+A summit is typically a formal, standalone event with a narrowly defined focus. Remote summits may be by invitation only and encourage idea-sharing, discussion, or invite a specialized group of people to focus on solving a specific problem.
 
 ### Running Remote
 
