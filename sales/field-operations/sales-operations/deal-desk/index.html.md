@@ -50,7 +50,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
 
 ### **Sales Support**
 
-#### Deal Desk SLA 
+#### Deal Desk SLAs 
 
 The Deal Desk team will do their best to respond to each request to '@sales-support' within 6 business hours. Revenue generating or current quarter requests will take priority, especially during Month & Quarter End. If a task is not resolved within 24 hours it will be escalated (if necessary). 
 
@@ -76,7 +76,13 @@ A Deal Desk team member will respond to your chatter request with an estimate on
 
 #### Deal Desk - A Global Presence
 
-The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 6:00pm for the local time of the team member.
+The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 5:00pm for the local time of the team member. If a complex case or non standard deal request is submitted after 4PM (Local Time) the case will be prioritized the following business day. 
+
+| Region | Standard Working Hours |
+|----- | ----- | ------| 
+| APAC  | xx | 
+| EMEA | xx | 
+| AMER | 7AM - 5PM (PT) |
 
 #### Salesforce Chatter Communication
 
