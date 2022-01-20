@@ -279,11 +279,6 @@ The CEO will pay for all transport expenses (flight, uber, etc.) personally.
 By default flying business class.
 On short flight with other team members fly economy if we can sit together, in this case still pay personally.
 
-## House
-
-If you are a GitLab team-member, you can stay at our home in the Netherlands for free with up to 5 guests. You can check availability and reserve the home by emailing my personal assistant, Anette at anette@sijbrandij.com. If you want more information on the home, please search in Drive for "Sid/Karen: Description of the NL House". If you cannot locate the document, please ask Anette or [my EBA](/handbook/eba/#executive-business-administrator-team) to send it to you.
-We hope you enjoy your stay!
-
 ## Three levels of performance
 
 There are three levels of performance:
