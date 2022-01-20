@@ -91,6 +91,15 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 
 ### Analytics Engineering Internship for Learning
 
+#### Openings
+
+| Quarter | Openings | Filled | Remaining Openings |
+| :---: | :---:  | :---: | :---: |
+| FY23Q1 | 1 | 1 | 0 |
+| FY23Q2 | TBD | TBD | TBD |
+| FY23Q3 | TBD | TBD | TBD |
+| FY23Q4 | TBD | TBD | TBD |
+
 #### Requirements
 
 - Familiarity with and Interest in the [Analytics Engineering](https://about.gitlab.com/job-families/finance/analytics-engineer/) job family 
@@ -109,6 +118,16 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 
 ### Data Science Internship for Learning
 
+#### Openings
+
+| Quarter | Openings | Filled | Remaining Openings |
+| :---: | :---:  | :---: | :---: |
+| FY23Q1 | 2 | 1 | 1 |
+| FY23Q2 | TBD | TBD | TBD |
+| FY23Q3 | TBD | TBD | TBD |
+| FY23Q4 | TBD | TBD | TBD |
+
+
 #### Requirements
 
 - Familiarity with and Interest in the [Data Science](https://about.gitlab.com/job-families/finance/data-science/) job family 
@@ -124,3 +143,10 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 - Nice to have
      - Understanding of CRISP-DM framework
      - Understanding of software industry
+
+### Data Analyst Internship for Learning
+
+#### Openings
+
+No openings at this time.
+
