@@ -48,7 +48,7 @@ The Data team has implemented the following triage schedule to take advantage of
 | UTC Day   | Data Analyst / Analytics Engineer      | Data Engineer     |
 | --------- | ----------------- | ----------------- |
 | Sunday    | `@ken_aguilar`  |  no assignment | 
-| Monday    | See below for R&D assignee | `@vedprakash2021` |
+| Monday    | See below for R&D assignee | `@vedprakash2021` (odd week-nrs) / `@rigerta` (even week-nrs) |
 | Tuesday   | See below for R&D assignee | `@paul_armstrong` |
 | Wednesday | `@michellecooper` | `@rbacovic` |
 | Thursday  | `@ken_aguilar`    | `@laddula` |
