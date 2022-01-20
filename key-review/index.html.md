@@ -26,10 +26,10 @@ For each [executive](/company/team/structure/#executives) — and some departmen
 1. [OKRs](/company/okrs/) for that function.
 
 ## Timing
-Meetings are scheduled monthly starting on the 15th day after month end.  
+Meetings are scheduled as: Sales & Marketing, G&A, Product (twice per quarter); Engineering (6 x per year).
 
 ## Scheduling
-The Sr. EBA to the CFO is the scheduling DRI for the Monthly Key Reviews and will schedule no more than 2 Key Reviews on a given day. The only exception is the Sales Key Review, for which the Staff EBA to the CRO is the scheduling DRI. The Key Review meeting invitations will utilize that review's functional DRI's Zoom account, always be set to record, and set the Sr. EBA to the CFO and the functional DRI's corresponding EBA as co-hosts.  
+The Sr. EBA to the CFO is the scheduling DRI for the Monthly Key Reviews and will schedule no more than 2 Key Reviews on a given day. The Key Review meeting invitations will utilize that review's functional DRI's Zoom account, always be set to record, and set the Sr. EBA to the CFO and the functional DRI's corresponding EBA as co-hosts.  
 
 A Key Review should not be cancelled; permission to cancel or make changes to the Key Review schedule must be requested in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel, tagging the CFO for approcal and the Sr. EBA to the CFO for awareness. If the CFO is not available, the CEO will make the decision. All changes to the Key Review schedule and/or invites have to be posted in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 
@@ -38,52 +38,27 @@ Each month's Key Review schedule will be posted in the [#key-review](https://git
 ## Invitees
 
 Required invites are the CEO, the CFO, and the function head.
-Optional attendees are all other members of [the e-group](/company/team/structure/#e-group).
+Optional attendees are all other members of [the e-group](/company/team/structure/#e-group), Directs Group, and Chief of Staff to the CEO Group. Cross-Functional Initiatives DRIs are also invited to all meetings.
 The meetings are open to all team members who are interested.
-The meetings are also to be livestreamed to GitLab Unfiltered.
+The meetings are also to be livestreamed to GitLab Unfiltered, with the distinction of being streamed as Private or Public, depending on the department.
 
 Functions that have these meetings are:
 
-*  Development (Christopher Lefelhocz - Function DRI) scheduled every other month
-*  Quality (Mek Stittri - Function DRI) scheduled every other month
-*  UX (Christie Lenneville - Function DRI) scheduled every other month
-*  Security (Johnathan Hunt - Function DRI) scheduled every other month
-*  Finance (Brian Robins - function DRI) scheduled monthly
-*  Infrastructure (Steve Loyd - function DRI) scheduled monthly
-*  Legal (Robin Schulman - function DRI) scheduled monthly
-*  Marketing (Craig Mestel - function DRI) scheduled monthly
-*  People Group (Wendy Barnes - function DRI) scheduled monthly
-*  Product (Scott Williamson - function DRI) scheduled monthly
-*  Sales (Michael McBride - function DRI) scheduled monthly
-*  Support (Tom Cooney - function DRI) scheduled monthly
+* Sales & Marketing (Michael McBride & Craig Mestel- function DRIs) scheduled twice per quarter  
+*  Finance (Brian Robins - function DRI) scheduled twice per quarter  
+*  Legal (Robin Schulman - function DRI) scheduled twice per quarter  
+*  People Group (Wendy Barnes - function DRI) scheduled twice per quarter  
+*  Product (David DeSanto - function DRI) scheduled twice per quarter
+*  Infrastructure (Steve Loyd - function DRI) scheduled twice per quarter
+*  Support (Tom Cooney - function DRI) scheduled twice per quarter
+*  Development (Christopher Lefelhocz - function DRI) scheduled 6 times per year
+*  Quality (Mek Stittri - function DRI) scheduled 6 times per year
+*  UX (Christie Lenneville - function DRI) scheduled 6 times per year
+*  Security (Johnathan Hunt - function DRI) scheduled 6 times per year
+
 
 If you would like to be added to a function's Key Review post in [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) on Slack.
 
-### Key Rotation
-
-We expect that All-Directs have a general understanding of the business beyond their function. They are GitLab leaders who often have to work cross-functionally and need business context to guide their teams. Key Reviews are a forum for understanding what is happening in other functions. The Key Rotation is designed to encourage All-Directs to make time to learn about what is happening in other functions. 
-
-Each month, one All-Direct will join the Key Rotation. While no meeting is mandatory, the person should plan to attend all Key Reviews in that month. The team member is encouraged to contribute questions and comments to the agenda in each of these meetings. The team member is also encouraged to bring takeaways back to the team member's E-Group manager and teams.
-
-A rotation includes 10 meetings--each 25 minutes long. The meetings tend to be spread over two weeks. A participant may want to spend some time in advance prepping for these meetings. If a participant has to skip a couple of meetings due to last minute conflicts, the participant can opt to attend the missed sessions in the following month.
-
-Participants can sign up in the Key Rotation Schedule by making an MR to this page and assigning to the [EBA of the CFO](/handbook/eba/#executive-business-administrator-team) in the #key-review Slack channel. The EBA to the CFO will add participants to meetings.
-
-#### Key Rotation Schedule
-
-| Month | All-Direct |
-| ------ | ------ |
-| 2021-02 | [Christie Lenneville - VP UX](https://gitlab.com/clenneville) |
-| 2021-03 | [Michelle Hodges - VP WW Channels](https://about.gitlab.com/company/team/#mwhodges) |
-| 2021-04 | [Steve Loyd - VP Infrastructure](https://gitlab.com/sloyd) |
-| 2021-05 | [Danielle Morrill - Sr. Director Inbound Marketing](https://about.gitlab.com/company/team/#dmor) |
-| 2021-06 | [Mek Stittri - Director of Quality](https://gitlab.com/meks) |
-| 2021-07 | [David Sakamoto - VP Customer Success](https://about.gitlab.com/company/team/#dsakamoto)  |
-| 2021-08 | [Hila Qu - Director of Product Growth](https://about.gitlab.com/company/team/#hilaqu) |
-| 2021-09 | AVAILABLE |
-| 2021-10 | AVAILABLE |
-| 2021-11 | AVAILABLE |
-| 2021-12 | AVAILABLE |
 
 ## Meeting Format
 
