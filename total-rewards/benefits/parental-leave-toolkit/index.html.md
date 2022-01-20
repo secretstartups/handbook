@@ -57,7 +57,7 @@ Responsibilities may include but are not limited to:
 1. While it is recommended that this buddy work within the same department as the team member reentering work, it is not a requirement. We just ask that you dedicate your attention and resources to supporting your team member.  
     - If you are asked to be a buddy, work with your manager to delegate or temporarily pause certain duties to assist a team member as they ramp back up to 100%.
 1. You are passionate about GitLab and its team members.
-1. You are able to commit 10-20% of your time each week to team members returning from leave.
+1. You are able to commit 10-20% of your time for two to four weeks to team members returning from leave.
 1. You feel comfortable sharing feedback regarding what is working well, and suggestions for future iterations of this program.
 1. (*Recommended but not required*) You are comfortable with Git and GitLab and can answer team member questions.
 
