@@ -23,8 +23,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Jan 05     |   [Click-Through Demos]            |  Itzik Gan Baruch             |
-| Jan 19     |   [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/117)           |  Grant Young             |
+| Jan 19     |   [GitLab Environment Toolkit (GET)](https://youtu.be/qzWxOFNpgsE)           |  Grant Young             |
 
 
 ## Past Sessions
@@ -33,6 +32,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| Jan 19     | **[GitLab Environment Toolkit (GET)](https://youtu.be/qzWxOFNpgsE)**           |  Public            |
 | 2021-12-15 | **[GitLab and RedHat OpenShift](https://youtu.be/gI8alsuQCyw)**           |  Public            |
 | 2021-12-01 | **[GitLab for AI/ML applications](https://youtu.be/bDng9nwwLKU)** |  Public              |
 | 2021-11-17 | **[A Journey into the Customer Portal](https://www.youtube.com/watch?v=JsJyCA7Z6m0)** |  Private              |
