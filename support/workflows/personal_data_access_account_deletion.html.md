@@ -171,7 +171,14 @@ If a user fails to respond to our verification challenge questions after 14 days
 
 >**NOTE**: Please be aware of the *type of deletion request* submitted by the user. Some users may **only** want their CustomersDot account or their GitLab.Com account deleted, versus a full deletion (right to be forgotten). It's important to make that clear when working through the confidential issue to process the users request.
 
-1. In the `gdpr-request` issue tracker, create a new confidential issue using the [delete_meta_issue template](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=deletion_meta_issue) for **account deletions**, or the [personal_data_request template](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new?issuable_template=personal_data_access_request) for **data access requests**. Populate the title with the email address of the original requestor.
+1. In the `gdpr-request` issue tracker, create a new confidential issue using the one of the following templates:
+    * [`Deletion Meta Issue - Full` template](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=Deletion%20Meta%20Issue%20-%20Full) for **full deletion**
+    * [`Deletion Meta Issue - GitLab-com` template](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=Deletion%20Meta%20Issue%20-%20GitLab-com) for only **.Com account deletion**
+    * [`Deletion Meta Issue - Customers Portal` template](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new?issuable_template=Deletion%20Meta%20Issue%20-%20Customers%20Portal) for only **CustomersDot account deletion**
+    * [`personal_data_request` template](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new?issuable_template=personal_data_access_request) for **data access requests** 
+    
+    Populate the title with the email address of the original requestor.
+    
 1. Link the original issue in the **Related issue** field.
 
 1. Follow the instructions in the top of the template, then complete each step in the issue template that begins with `Support Engineer:` in order.
