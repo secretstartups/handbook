@@ -74,6 +74,3 @@ Add the `Manager Approval::Required` label to the issue and ping the requester t
 - Ensure that you have checked the **trial** checkbox when creating the license. 
 - Ensure that the `Zuora subscription ID` and `Zuora subscription name` fields are empty.
 
-**NOTE** Starter trial licenses have been deprecated. There is an [ongoing discussion](https://gitlab.com/gitlab-org/license-gitlab-com/-/issues/243) to re-enable Strarter trial license creation for Support.
-
-For Starter trial requests, let the requester know that we can issue either Premium or Ultimate trial licenses.
