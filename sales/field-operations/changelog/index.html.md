@@ -22,6 +22,8 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **Sales Ops:[FY22-Q4 Cannonball Run](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2636)**
 
+**Marketing Ops:[New Outreach Sequence Fields in SFDC](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2387**
+
 ### 2021-12-06 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/76))
 
 **Channel Ops: [Partner Operations Case Alias](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues/290)**
