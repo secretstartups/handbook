@@ -76,4 +76,4 @@ Add the `Manager Approval::Required` label to the issue and ping the requester t
 
 **NOTE** Starter trial licenses have been deprecated. There is an [ongoing discussion](https://gitlab.com/gitlab-org/license-gitlab-com/-/issues/243) to re-enable Strarter trial license creation for Support.
 
-For Starter trial requests, let the requester know that we can issue either Premium or Ultimate trial licenses. You can tag a support manager to get approval to create a non-trial Starter license with the expiry date set to 14 days before the requested expiry. This ensures that the 14 day grace period is used up in the extension request.
+For Starter trial requests, let the requester know that we can issue either Premium or Ultimate trial licenses.
