@@ -106,6 +106,7 @@ The Director, Product Management is a [grade 10](/handbook/total-rewards/compens
 #### Director of Product Management - Responsibilities
 **Team responsibility**
 * Perform all non-IC responsibilities of a [Group Manager of Product](#group-manager-product-gmp---responsibilities)
+* Contribute to the [job family](/handbook/hiring/job-families/), [CDF](/handbook/product/product-manager-role/product-CDF-competencies/) and [hiring content](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master/Product) for the Product function
 * Help the team to avoid shipping our org chart. 
   * Within the area of ownership, ensure that team creates product experiences that solve the job-to-be-done. 
   * Across your peer group - work to identify areas to partner with peers to create single app experiences that solve the job-to-be-done. 
