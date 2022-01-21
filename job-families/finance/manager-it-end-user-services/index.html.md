@@ -59,7 +59,7 @@ The next step in the Manager, IT End User Services is to move to the [Director, 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-*Next, candidates will be invited to schedule a first interview with our Director of IT Operations
+* Next, candidates will be invited to schedule a first interview with our Director of IT Operations
 * Next, candidates will be invited to schedule a second interview with our Manager of IT Operations
 * Next, candidates will be invited to schedule one or more interviews with members of the Business Technology team
 * Finally, candidates may be asked to interview with our Vice President of Information Technology
