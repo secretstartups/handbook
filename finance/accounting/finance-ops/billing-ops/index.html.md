@@ -30,7 +30,6 @@ Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/fi
 
 - [Sarah McCauley](https://about.gitlab.com/company/team/#s_mccauley) - Director, Billing & Accounts Receivable
 - [Anna Piaseczna](https://about.gitlab.com/company/team/#annapiaseczna) - Manager, Billing
-- [Akeela Logan](https://about.gitlab.com/company/team/#AkeelaLogan) - Billing Operations Specialist
 - [Karen McKinney](https://about.gitlab.com/company/team/#k.mckinney) - Billing Operations Specialist
 - [Kinga Polgardi](https://about.gitlab.com/company/team/#KingaPolgardi) - Billing Operations Specialist
 - [Ausha Saptouw](https://about.gitlab.com/company/team/#aushas) - Billing Operations Specialist
@@ -208,7 +207,7 @@ Currently all web-direct (portal) purchases are billed from our GitLab, Inc. (US
 Can we update invoices manually?
 </summary>
 
-Manual (pro-forma) invoice modifications have to be approved through the Legal Team. Please ensure that you have proper approvals prior to requesting invoice modifications from the billing team. 
+Manual (pro-forma) invoice modifications are only done in exceptional circumstances and have to be approved through the Billing Leadership Team. Please ensure that you have proper approvals prior to requesting invoice modifications. 
 
 </details>
 
@@ -257,7 +256,6 @@ Yes, Customers can view invoices in the GitLab Customers Portal! The customer ac
 
 </details>
 
-Internal FAQ Resource: [Frequently Asked Questions - pulled from Chatter, Slack, Cases, and Tickets](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/FAQ_Internal_Billing_Team)
 
 ## GitLab Billing Entities
 
