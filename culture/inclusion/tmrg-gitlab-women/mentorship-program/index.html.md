@@ -79,9 +79,9 @@ Review the progam timeline below for the next iteration of this program which wi
 | 2021-12-08 | Call for Mentors | [Application Link](https://docs.google.com/forms/d/e/1FAIpQLSez17b-APUA3MEpYETHtDPrAt85tLD8Je64gpP50xpHEPuT6A/viewform?usp=sf_link) |
 | 2021-12-08| Call for Mentees | [Application Link](https://docs.google.com/forms/d/e/1FAIpQLSfkDQZwdYw2CFguB_-O2gLC9Wznz88ec-JPnaLxF-VG-zAeCA/viewform?usp=sf_link) |
 | 2022-01-12 | Applications Close | |
-| 2022-01-19  | Pairing of mentor relationships complete and communicated to applicants | |
-| Week of 2022-01-24 | Mentor/Mentee pre-program coffee chats | |
-| 2022-02-2 and 2022-02-3 | [Initial program Kickoff meeting](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#program-structure) | |
+| 2022-01-21  | Pairing of mentor relationships complete and communicated to applicants | |
+| 2022-01-24 to 2022-02-04 | Mentor/Mentee pre-program coffee chats | |
+| 2022-02-2 and 2022-02-3 | [Initial program Kickoff meeting](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#program-structure) | [Meeting Agenda](https://docs.google.com/document/d/1a6G7wqcfZTtEbMzsN0sdf-s7-GKIE6H2s0J_-XdFduM/edit) |
 | 2022-06 | End of program celebration | Exact date TBD |
 
 
@@ -109,9 +109,9 @@ As a mentor, you benefit from:
 
 ### Apply
 
-Mentor applications open 2021-12-08. [Apply here to be a mentor.](https://docs.google.com/forms/d/e/1FAIpQLSez17b-APUA3MEpYETHtDPrAt85tLD8Je64gpP50xpHEPuT6A/viewform?usp=sf_link).
+Applications are currently closed as the 3rd program iteration is in progress through June 2022. Please complete [this interest form](https://docs.google.com/forms/d/e/1FAIpQLSc49xN1n3VNzX-yQNbRcG6CJiksQy41aAMw0QnF1F6vyhwgkA/viewform?usp=sf_link) to be notified of the next program iteration. Discover other mentorship programs for team members in the [mentorship handbook](/handbook/people-group/learning-and-development/mentor/#organized-mentorship-programs).
 
-_Applying for a mentor does not guarantee you a spot in the program and eligibility will be evaluated based on criteria above._
+_Applying as a mentor does not guarantee you a spot in the program and eligibility will be evaluated based on criteria above._
 
 If you've participated in a previous GitLab mentor program, you are welcome to apply again!
 
@@ -139,10 +139,11 @@ Applications will be prioritized on many points including:
 
 ### Apply
 
-Mentee application opened 2021-12-08 and are due on 2022-01-12. [Apply here to be a mentee.](https://docs.google.com/forms/d/e/1FAIpQLSfkDQZwdYw2CFguB_-O2gLC9Wznz88ec-JPnaLxF-VG-zAeCA/viewform?usp=sf_link)
+Applications are currently closed as the 3rd program iteration is in progress through June 2022. Please complete [this interest form](https://docs.google.com/forms/d/e/1FAIpQLSc49xN1n3VNzX-yQNbRcG6CJiksQy41aAMw0QnF1F6vyhwgkA/viewform?usp=sf_link) to be notified of the next program iteration. Discover other mentorship programs for team members in the [mentorship handbook](/handbook/people-group/learning-and-development/mentor/#organized-mentorship-programs).
 
-_Applying for a mentee does not guarentee you a spot in the program, and eligibility will be evaluated based on criteria above._
+_Applying as a mentee does not guarentee you a spot in the program, and eligibility will be evaluated based on criteria above._
 
+If you've participated in a previous GitLab mentor program, you are welcome to apply again!
 
 ## Metrics and Outcomes
 
