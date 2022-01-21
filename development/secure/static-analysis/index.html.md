@@ -276,6 +276,20 @@ withhold updates to the dependency until the problems have been patched.
 
 At times we will need to update our analyzers because of security updates to golang itself. In this situation, we follow the [established release process](https://about.gitlab.com/handbook/engineering/development/secure/release_process.html#security-fixes-of-go).
 
+#### Testing and validation
+
+Our users expect us to provide them with a quality experience, no matter which open source or proprietary components we include in our analyzers.
+They also expect our documentation to clearly outline the configurations we support so that they can make informed decisions about whether to adopt our tools for their needs.
+
+Before we document that we support a configuration, we **do validate** that it works.
+For example, before we list a certain type of file or build configuration as a supported feature, we must have checked it at least once, however minimally.
+
+However, we **do not** independently reproduce all end-to-end **tests** for components we rely on.
+Maintaining these tests independently would require unnecessary effort and would duplicate work that would be better contributed upstream if it's lacking.
+Instead, we aim to build tests that cover basic configurations for smoke-testing and demonstration purposes.
+
+We may choose to document supported configurations once they're validated, even if the test coverage is not yet complete.
+
 ### Unplanned work
 
 In general, the Static Analysis group has two sources of unplanned work: community contributions and ~severity::1 bugs. We will reserve capacity each
