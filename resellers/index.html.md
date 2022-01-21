@@ -42,7 +42,7 @@ GitLab is experiencing tremendous growth, which creates incredible opportunities
 
 ### Why Become a GitLab Partner?
 
-Companies need skilled, qualified experts to help them implement the latest DevOps best practices and technologies to improve the quality and speed of their software development. GitLab is the only vendor offering an end to end software development lifecycle solution.  This means that you can offer your customers the most complete solution on the market and help them develop efficient, integrated end to end DevSecOps processes.  The result?  Simplified development toolchains, faster delivery of quality software, and improved security and compliance.
+Companies need skilled, qualified experts to help them implement the latest DevOps technologies and best practices to improve the quality and speed of their software development. GitLab is the only vendor offering an end to end software development lifecycle solution.  This means that you can offer your customers the most complete solution on the market and help them develop efficient, integrated end to end DevSecOps processes.  The result?  Simplified development toolchains, faster delivery of quality software, and improved security and compliance.
 
 And it’s not just the completeness of the solution that creates opportunities for you.  By joining the GitLab Partner Program, you will be partnering with a company that is rapidly growing annual recurring revenue and global customer base.  As our customer base grows, your business opportunities grow.  Additionally, you can help the thousands of users of the open source GitLab Free Edition that could benefit from an upgrade to the expanded features and functionality of the GitLab Premium or Ultimate tiers.  
 
@@ -72,7 +72,7 @@ The GitLab Partner Program makes it  easier for partners  to maximize the value 
 *   Training, Enablement and Certifications
     *   Sales training and enablement, ensuring that our partners are as well-trained and equipped as our own sales teams
     *   Technical services, training and enablement designed to help you drive customer usage and adoption
-    *   GitLab Badging, Accreditation & Certification to help you and your company differentiate through expertise
+    *   GitLab Badging, Accreditation & Certification to help you and your company differentiate through expertise.  To learn more, visit the [ Training and Certifications Page](/handbook/resellers/training/)
 *   Global expansion of our channel team to support the growth of your GitLab success
 *   Ease of doing business, via a partner portal and learning management system with online resources and tools
 *   Marketing resources and marketing development funds for lead creation
@@ -86,7 +86,6 @@ The GitLab Partner Program consists of two tracks to support the different ways 
 
 *   **Open** - Resellers, integrators and other sales and services partners join the program in the Open track.  Open is for all Partners in DevOps space, or ItaaS and other adjacent spaces that are committed to investing in their DevOps practice buildout. Also the Open track is for Partners seeking to develop customers or just want to learn about GitLab and participate in the GitLab partner community.  GitLab Open Partners may or may not be transacting partners, and can earn products discounts or referral fees.
 *   **Select** partners are by invitation only and are reserved for partners that make a greater investment in GitLab expertise, develop services practices around GitLab and are expected to drive greater GitLab product recurring revenues.  In return, Select partners have a dedicated Channel Sales Manager and greater investment.
-
 
 ### Getting Started with GitLab
 
