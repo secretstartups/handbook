@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: "Considerations for remote internships"
+title: "The definitive guide to remote internships"
 canonical_path: "/company/culture/all-remote/internship/"
-description: "Here GitLab details considerations for both employee and employer as it relates to remote internships "
+description: "How to have a successful internship remotely: key tips for employers and interns."
 twitter_image: "/images/opengraph/all-remote.jpg"
 twitter_image_alt: "GitLab remote team graphic"
 twitter_site: "@gitlab"
