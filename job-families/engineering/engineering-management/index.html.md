@@ -177,7 +177,7 @@ The Senior Distinguished Engineer is a [grade 11](/handbook/total-rewards/compen
 * The Senior Distinguished Engineer role acts as the individual equivalent of a Senior Director, Engineering
 * Extends that of the [Distinguished Engineer](#distinguished-engineer) responsibilities
 * At this level the Senior Distinguished Engineer's minimal sphere of influence is across multiple stages if not across their entire department
-* _Generatex_ technical and process improvements
+* _Generate_ technical and process improvements
 * Drive innovation within Engineering
 * Identifies the balance between the immediate and long term impact of technical direction and guides the organisation to execution in this balance
 * Be a technical, architectural, and career development mentor for other backend engineers
