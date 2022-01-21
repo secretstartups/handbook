@@ -230,7 +230,7 @@ GitLab, like most large applications, enforces limits within certain features. T
 
 In order to define an issue as related to limits add the label `~"availability::limit:`.
 
-Priority should be assessed using the following table:
+Severity should be assessed using the following table:
 
 | Severity | Availability impact |
 |-|-|
