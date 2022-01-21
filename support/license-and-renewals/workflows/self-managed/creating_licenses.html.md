@@ -71,8 +71,8 @@ Add the `Manager Approval::Required` label to the issue and ping the requester t
 - It is fine to set the `Users in license` number to what is needed.
 - Set `Starts at` to the current date.
 - You can follow the same process as re-issuing a license. 
-- You need to ensure that you have checked the **trial** checkbox when creating the license. 
-- You also do not need to link a Zuora or Salesforce account if you do not have it.
+- Ensure that you have checked the **trial** checkbox when creating the license. 
+- Ensure that the `Zuora subscription ID` and `Zuora subscription name` fields are empty.
 
 **NOTE** Starter trial licenses have been deprecated. There is an [ongoing discussion](https://gitlab.com/gitlab-org/license-gitlab-com/-/issues/243) to re-enable Strarter trial license creation for Support.
 
