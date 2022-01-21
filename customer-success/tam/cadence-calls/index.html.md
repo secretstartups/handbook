@@ -38,6 +38,9 @@ Leading up to a cadence call, the TAM should prepare a meeting agenda. This is t
 The following items are to be covered/completed in your initial cadence call with a customer:
 
 - [ ] Identify 60-day problem areas, best practices, or training needs
+- [ ] Agree enablement sessions
+    - [ ] New Customers: Discuss the [Intro to GitLab and the Intro to CI/CD enablement sessions](https://about.gitlab.com/handbook/customer-success/tam/workshops/) in your first cadence call
+    - [ ] Existing Customers: Discuss other [enablement sessions](https://about.gitlab.com/handbook/customer-success/tam/workshops/) in-line with their desired use cases and potential expansion opportunities (it can be helpful to start discussing future sessions/topics right after one is delivered and it's fresh in their mind)
 - [ ] Review customer infrastructure diagram and upload to collaboration project
 - [ ] Confirm resources/infrastructure will support future growth, and are following the reference architecture for their current (or projected) user count.
   - [ ] For customers who are already deployed, confirm resource requirements aligned to future growth plans
