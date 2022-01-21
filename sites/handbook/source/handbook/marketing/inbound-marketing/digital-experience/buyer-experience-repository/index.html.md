@@ -58,23 +58,6 @@ All content is stored as `yml` with in the [/content](https://gitlab.com/gitlab-
 
 Edit `yml` content directly in the browser using [GitLab Web Editor](https://docs.gitlab.com/ee/user/project/repository/web_editor.html). Editing this content using GitLab editor tools will open a merge request for you! 
 
-Here are the steps: 
-1. Open your `yml` file in the browser from the [/content](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tree/main/content) directory
-2. Click the arrow next to the "Edit in Web IDE" button and choose "edit this file only" for the GitLab Web Editor. 
-3. Make changes to the `yml`
-4. Complete the commit message field at the bottom with a description of what changed and why. Link to any relative issues or merge requests.
-5. Push that commit changes button! 
-6. What for GitLab to create a merge request for you with your changes
-7. Assign the merge request to yourself so it's shows up in your merge requests tab
-8. Wait for the pipeline to finsh, check the review app URL to make your changes render as expected. Its the same URL as production.. except with your branch name prepended  to about.gitlab.com. For example: 
-  1. Editing the /terms page
-  2. Review app URL: `some-super-long-branch-name.about.gitlab-review.app/terms`
-9. Fill your merge request description out with what changed, why, and link to any related issues or merge requests.
-10. Assign a reviewer. 
-
-
-
-
 # Developer Experience 
 
 ### Where Developer Documentation Exists
