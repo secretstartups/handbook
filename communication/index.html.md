@@ -1306,8 +1306,6 @@ Building dedicated time into your day can help minimize the distractions that Sl
    1. Copy and paste the relevant parts of the thread into the issue using blockquote formatting.
    1. Link to the Slack thread and include `(internal)` after the link. For example: https://gitlab.slack.com/archives/C0AR2KW4B/p1555347101079800 (internal)
    1. Post a link to the issue note in the Slack thread to let others know that discussion has moved to the issue.
-1. When sharing Slack messages _within_ Slack, prefer using the 'Share' function rather than copying the link and pasting that into another channel. With 'Share', the original message will be displayed in the destination allowing recipients to read it directly, as compared to a link which they must at least hover-over to get a brief snippet, and click on to read the entire message (taking them to the other channel).
-   1. To 'Share message', hover over the message and in the tooltip box that appears on the right of the window, click on the right-facing arrow icon.
 1. When selecting your Slack display name, please do not have your name in all capital letters as this is often [associated as shouting](https://en.wikipedia.org/wiki/All_caps#Association_with_shouting) in written communications.
 
 ### Getting in touch with the e-group
