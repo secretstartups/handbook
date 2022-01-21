@@ -853,7 +853,7 @@ of their group for review (required). The process for TW reviews is described in
 
 #### Update the deprecations and removals docs
 
-The [deprecations](https://docs.gitlab.com/ee/update/deprecations.html) and [removals](https://docs.gitlab.com/ee/update/removals.html) docs are generated with .yml files the data directory of the `gitlab` project.
+The [deprecations](https://docs.gitlab.com/ee/update/deprecations.html) and [removals](https://docs.gitlab.com/ee/update/removals.html) docs are generated with .yml files in [`gitlab/data/deprecations`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data).
 
 The html pages are not generated automatically. The TW assigned as the reviewer of the deprecation or removal item must run a Rake task to compile the documents. They can also run a separate task to check that the docs are up to date.
 
@@ -1373,19 +1373,17 @@ This video walkthrough will help you understand the difference between deprecati
 
 _To be added by Product Managers or Engineering Managers and merged by Technical Writers._
 
-All deprecations will be published by milestone in [GitLab Docs](https://docs.gitlab.com/ee/update/deprecations.html) via the workflow outlined below. Deprecations will not be listed on the release post page. 
+All deprecations will be published by milestone in [GitLab Docs](https://docs.gitlab.com/ee/update/deprecations.html) via the workflow outlined below. Deprecations are not listed individually on the release post page.
 
 Starting with 14.5, specific deprecations are only published to the [Deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations), which is the single source of truth.
 
 Deprecation notices should be [added to the documentation per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
 
-A deprecation must have an initial announcement in the docs, notifying the community **at least two releases in advance** of planned removal. We recommend to announce deprecations, especially if it's a breaking change, as soon as the planned milestone is known.
+A deprecation must have an initial announcement in the docs, notifying the community **at least two releases in advance** of the planned removal. We recommend to announce deprecations, especially if it's a breaking change, as soon as the planned milestone is known.
 
-Create [deprecation entry MRs](#creating-a-deprecation-entry) as soon as you can and by the 10th of the month.
-They must be merged by the 17th of the month (just like all other content block MRs).
-Don't wait until the 10th to create the MR, or wait until the 17th to merge the MR, if it can be done earlier.
+Create [deprecation MRs](#creating-a-deprecation-entry) as soon as possible and no later than the 10th of the month. 
 
-Make sure to review and understand the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
+Like all other content block MRs, they must be merged by the 17th of the month to be included in the release post.
 
 ##### Creating a deprecation entry
 
@@ -1420,11 +1418,9 @@ _To be added by Product Managers or Engineering Managers and merged by Technical
 
 Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backward-compatible and breaking changes are recommended for a major release, whereas backward-compatible changes can be introduced in a minor release.
 
-All removals and/or breaking changes will be published by milestone in [GitLab Docs](https://docs.gitlab.com/ee/update/removals.html) via the workflow outlined below. A removal will also be listed on the release post page for the milestone in which it happens, regardless of whether it is a breaking change or not. There is no need to create removals content blocks for the release post page. The removals listings on the release post page will be auto-generated via the removals Docs page. 
+All removals will be published by milestone in [GitLab Docs](https://docs.gitlab.com/ee/update/removals.html) via the workflow outlined below. A removal will also be listed on the release post page for the milestone in which it happens.
 
 ##### Creating a removal entry
-
-The release post contains a link to the [Removals](https://docs.gitlab.com/ee/update/removals) page in docs.
 
 To add a new notice:
 
