@@ -1387,7 +1387,8 @@ Examples of instances where GitLab may need to use this feature may include, but
 
 #### Are my direct messages and private channel conversations completely private?
 
-Slack is the business-provided internal communications tool to use for collaboration and connecting with team members.
+No. The Slack Workspace Owner has the ability to export data from all direct messages and private channel conversations for the maximum retention period set by GitLab, which is currently set for 90-days. All messages that are older than 90-days cannot be exported by the Workspace Owner or any other Team Member at GitLab. While messages are not actively monitored, GitLab reserves the right to monitor its software for the reasons stated in its [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/), including, but not limited to, the safety and protection of our Team Members, the protection of our intellectual property, and the exercise or defense of legal claims.  
+
 Please keep [GitLab values](/handbook/values/) in mind when communicating directly with other team members.
 If you have a confidential personal issue that you do not feel comfortable discussing via a business-provided internal communications tool, it is recommended to use a personal form of communication such as a text message or phone call.
 For additional questions, please address in the [issue](https://gitlab.com/gitlab-com/business-ops/change-management/issues/3).
