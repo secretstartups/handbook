@@ -1,10 +1,53 @@
 ---
 layout: job_family_page
-title: Digital Experience Management
+title: "Digital Experience"
 ---
-The Digital Experience Mangement Job Family sees the team as their product. While they are credible as digital product leaders and know the details of what Product Designers and Engineers work on, their time is spent hiring a world-class team and putting them in the best position to succeed. They own the delivery of digital marketing commitments and are always looking to improve productivity. They must also coordinate cross-functionally to accomplish collaborative goals.
 
 ## Levels
+
+### Digital Experience Analyst
+
+The Digital Experience Analyst Reports to [Senior Manager, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#senior-manager-digital-experience)
+
+#### Digital Experience Analyst Job Grade
+
+The Digital Experience Analyst  (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+
+#### Digital Experience Analyst Responsibilities
+ 
+* Ensure that GitLab is correctly instrumented to be able to deliver meaningful insights about traffic, conversion, and growth opportunities on our digital properties
+* Own the successful tagging and analytics measurement strategy for GitLab’s digital properties
+* Maintain and improve analytics tag implementations and data layer for all relevant technologies (Google Analytics, Google Tag Manager)
+* Knowledge of FE web technologies - HTML, CSS and JS to enable confident debugging and use of custom JS in Google Tag Manager
+* Deliver data-driven recommendations around how to increase traffic, conversion, and user experience on `about.gitlab.com`
+* Ensure successful measurement and reporting aligned with online media, marketing landing pages, and other initiatives. Share insights on how these initiatives are performing.
+* Collaborate with key stakeholders in Marketing (e.g. Demand Gen, Content) as well as other functions (e.g. Sales, Product) to capture data needed to drive business decisions
+* Contribute to A/B testing strategy using platforms such as LaunchDarkly, Google Optimize
+* Partner closely with the [Marketing Strategy and Performance Team](/handbook/marketing/strategy-performance/) and other data teams at GitLab to follow and contribute to internal standards
+* Member of the [Digital Experience Team](/handbook/marketing/inbound-marketing/digital-experience/)
+ 
+#### Digital Experience Analyst Requirements
+ 
+* Relevant digital analytics experience, working with developers and marketing teams
+* Must have Google Analytics 360, Google Tag Manager 360,and Google BigQuery expertise
+* Extensive experience working with tag management platforms and data layers
+* Strong grasp of website and ecommerce metrics and optimization.
+* Google Analytics Certification and Tag management certifications preferred
+* Experience with A/B testing platforms such as LaunchDarkly and Google Optimize preferred
+* Ability to use GitLab
+* Ability to thrive in a fully remote organization
+* Share and work in accordance with our values
+* Positive and solution-oriented mindset
+* Clearly and concisely communicate complex business logic, technical requirements, and design recommendations through iterative solutions
+* Fluent in SQL within analytical data warehouses (we use Snowflake SQL) and in business intelligence tools (we use Periscope)
+* Able to write complex SQL including multi-table joins, grouping and aggregation, common table expressions, and conditional filters
+* Passionate about data, analytics and automation. Experience cleaning and modeling large quantities of raw, disorganized data (we use dbt)
+* Experience working with a variety of complex data sources. Our data includes Salesforce, Zuora, Zendesk, Marketo, NetSuite, Snowplow and many others (see the [data team page](/handbook/business-ops/data-team/#-extract-and-load))
+* Effective communication and [collaboration](/handbook/values/#collaboration) skills, including clear status updates
+* Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) environment
+* [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills
+* Prior experience in an analytics role, or equivalent education
 
 ## Manager, Digital Experience
 
@@ -29,7 +72,7 @@ The Manager, Digital Experience is a [grade 8](/handbook/total-rewards/compensat
 
 #### Manager, Digital Experience Requirements
 
-* A minimum of 3 years experience managing a group of designers and engineers.
+* Relevant experience managing a group of designers and engineers.
 * Ability to write code (HTML, CSS, JS)
 * Proficiency with pre-visualization software (e.g. Figma, Sketch, Adobe Photoshop, Illustrator).
 * Experience defining the high-level strategy and defining monthly OKRs based on research.
@@ -61,7 +104,7 @@ The Senior Manager, Digital Experience is a [grade 9](/handbook/total-rewards/co
 #### Senior Manager, Digital Experience Requirements
 
 * Extends the Manager, Digital Experience requirements.
-* A minimum of 6 years experience managing a group of designers and engineers.
+* Relevant experience managing a group of designers and engineers.
 * Advanced level of HTML, CSS, and JS.
 * Experience as agile project manager a plus.
   
@@ -90,7 +133,7 @@ The Director of Digital Experience is a [grade 10](/handbook/total-rewards/compe
 #### Director of Digital Experience Requirements
 
 * Extends the Senior Manager, Digital Experience requirements.
-* A minimum of 10 years experience managing engineers, designers, researchers, data scientists, product managers, and product owners and leading digital experience for a SaaS company.
+* Relevant experience managing engineers, designers, researchers, data scientists, product managers, and product owners and leading digital experience for a SaaS company.
 * Solid visual awareness with understanding of basic design principles like typography, layout, composition, and color theory.
 * Solid technical understanding of code (HTML, CSS, JS) and frameworks (JAMstack) as well as design systems (Storybook).
 * Proficiency with pre-visualization software (e.g. Figma, Sketch, Adobe Photoshop, Illustrator).
@@ -113,13 +156,11 @@ The Digital Experience Management job family career ladder is yet to be defined.
 
 ## Hiring Process
  
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](/company/team).
+* Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.
  
-* Select candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a 30 minute interview with the Senior Director, Inbound Marketing.
-* Next, candidates will be invited to schedule a 30 minute interview with a Fullstack Engineer from the Digital Experience team.
-* Next, candidates will be invited to schedule a 30 minute interview with our Senior Manager, Digital Experience.
-* Next, candidates will be invited to schedule a 30 minute interview with our CMO.
-* Finally, candidates will be invited to schedule a 30 minute follow up interview with the Senior Director, Inbound Marketing.
+* Selected candidates will be invited to fill out a short questionnaire.
+* Next, candidates will be invited to schedule a screening call with our Global Recruiters
+* Next, qualified candidates will be invited to schedule a first interview with the Hiring Manager
+* Next, qualified candidates will be invited to interview with 2 - 4 team members
  
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
