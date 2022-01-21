@@ -17,9 +17,9 @@ title: Home Office Equipment and Supplies
 
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Home Office Items
 
-Prior to your start date, you will receive a Laptop Procurement Google Form to your personal email. For US team members, along with being able to order your laptop through GitLab, you will also have the option to order several other pieces of office hardware through this Google Form, such as monitor, keyboard, mouse, charger, webcam, laptop stand, adapter, and ergonomic desk & chair. You are not required to procure these items through GitLab, but, if these items fit your needs, we suggest choosing from our preselected catalogue in the Form as this is an easy option and will be billed directly to GitLab.
+Prior to your start date, you will [work with GitLab IT to acquire a laptop](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptops). For US team members, along with being able to order your laptop through GitLab, you will also have the option to order several other pieces of office hardware at the same time, such as monitor, keyboard, mouse, charger, webcam, laptop stand, adapter, and ergonomic desk & chair. You are not required to procure these items through GitLab, but, if these items fit your needs, we suggest choosing from our preselected catalogue because this is an easy option and will be billed directly to GitLab.
 
-If you prefer to choose your own office equipment, are not located in the US, and/or cannot find some items that you may need in the Google Form, please referece the following list of common items for your home office at GitLab. It is uncommon that you'll need all of the items listed below. Read [GitLab's guide to a productive home office or remote workspace](/company/culture/all-remote/workspace/), and use your best judgement and buy them as you need them.
+If you prefer to choose your own office equipment, are not located in the US, and/or cannot find some items that you may need in the catalogue, please referece the following list of common items for your home office at GitLab. It is uncommon to need all of the items listed below. Read [GitLab's guide to a productive home office or remote workspace](/company/culture/all-remote/workspace/), and use your best judgement and buy them as you need them.
 
 #### Expensing hardware and supplies outside of the US
 
@@ -56,6 +56,6 @@ If you prefer to choose your own office equipment, are not located in the US, an
 #### Something else?
   * No problem! Consider adding it to this list if others can benefit from it.
 
-Also see the [hardware expense table](/handbook/finance/expenses/#hardware) for a list of items and reference prices before purchasing.
-Please reach out on the `#expense-reporting-inquires` channel if you are unsure what you would like to purchase is reimbursable.
+See also the [Laptop Configuration page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations) before purchasing.
+Please message the `#expense-reporting-inquires` channel if you are unsure what you would like to purchase is reimbursable.
 
