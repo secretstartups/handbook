@@ -42,11 +42,27 @@ We drive continual improvement to GitLab’s marketing website.
 ### Strategy
 
 1. **Nuxt.js:** A vue.js static site generated
-    - 
 2. **Slippers Design System Integration:** SSoT for vue.js components:
-    - 
 3. **Focus Resources:** Devoted to two repositories
     - Digital Experience focused resources on the [Buyer Experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) and [Slippers repositories](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui). 
+
+### Scope
+1. Move 80 marketing webpage to the Buyer Experience repository.
+    1. Pricing
+    1. Homepage
+    1. Free Trial
+    1. Sales
+    1. Demo
+    1. Install
+    1. Features (Landing and single)
+    1. Topics (Landing and single)
+    1. Solutions (Landing and single)
+    1. Enterprise
+    1. SMB
+    1. Partners (Landing and single)
+    1. Comparison Pages
+
+See the [Marketing Site Information Architecture Refresh epic](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/82) for single source of truth of pages being migrated to this repository. 
 
 # Content Editing Experience 
 
@@ -56,7 +72,7 @@ All content is stored as `yml` with in the [/content](https://gitlab.com/gitlab-
 
 ### How to Edit Content
 
-Edit `yml` content directly in the browser using [GitLab Web Editor](https://docs.gitlab.com/ee/user/project/repository/web_editor.html). Editing this content using GitLab editor tools will open a merge request for you! 
+Edit `yml` content directly in the browser using [GitLab Web Editor](https://docs.gitlab.com/ee/user/project/repository/web_editor.html).
 
 # Developer Experience 
 

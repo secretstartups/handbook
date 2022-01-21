@@ -346,6 +346,7 @@ We love collaborating on work that drives our North Star and supporting metrics.
       <li><a href="/handbook/marketing/inbound-marketing/digital-experience/website/">Website</a></li>
       <li><a href="/handbook/marketing/inbound-marketing/digital-experience/figma/">Figma Process</a></li>
       <li><a href="/handbook/marketing/inbound-marketing/digital-experience/onetrust-cookie-consent/">OneTrust Implementation</a></li>
+      <li><a href="/handbook/marketing/inbound-marketing/digital-experience/buyer-experience-repository/">Buyer Experience Repository</a></li>
     </ul>
 </details>
 <details>

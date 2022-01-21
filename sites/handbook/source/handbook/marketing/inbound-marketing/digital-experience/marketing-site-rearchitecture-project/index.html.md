@@ -92,6 +92,7 @@ We will require GCP Deployment Keys from Infrastructure. We would also like a ne
 1. Static site generator builds and deploys these 10 - 25 pages to the existing about.gitlab.com domain
 1. Digital Experience team reduces maintainance of the www-gitlab-com repository
 1. Iteratively migrate parts of marketing site to new repo over FY23
+1. <a href="/handbook/marketing/inbound-marketing/digital-experience/buyer-experience-repository/">Buyer Experience Repository</a>
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vQLPxxhS_duhyznvWPP4YcrW_cihzViiKeyDOP9tJWzFpOb2g_cbaNXR7Oy1nYcjpojEzorNUzMj1k-/pub?w=1440&amp;h=1080">
 
