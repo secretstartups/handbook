@@ -59,7 +59,7 @@ At a high level, the process is:
 | by the 16th | **TWs** (with optional PMMs, Product Designers, and PM Leader) finish review of all release post item MRs (inclusive of deprecations, removals and upgrades)<br><br>**TW Lead** reviews usability, bugs and performance improvement MRs |
 | by the 17th | **EMs** merge feature release post item MRs if the underlying code was merged _before_ the 17th or manually verified to be in the release (check the release stable branch). [Be aware](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline): "Merging [code] by the 17th does not guarantee that the feature will be in the [milestone] release."<br><br>**Release Post Manager** merges recurring MRs for usability, performance improvements and bug fixes.<br><br>TW Reviewers merge deprecation MRs. <br><br> Any MRs added after the 17th should be submitted against the Release Post branch, not Master.
 | on the 18th | At <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time>, the **Release Post Manager** aggregates all the content blocks by updating the release post branch from the `master` branch, and moving all the "unreleased" items into the release post branch for **final content assembly**.<br><br>The **Release Post Manager** adds the MVP for the release and selects a cover image.<br><br>The **Release post manager** works with VP of Product Management to pick features highlighted and finalizes the introduction content. |
-| 18th - 20th | The **Release Post Manager and Technical Writer** perform final reviews/revisions to ensure everything is ready to publish.<br><br>Any changes after <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time> on the 18th will be done via the `release-X-Y` branch, not `master` branch, and is subject to approval by the **Release Post Manager**.<br><br>The TW Lead checks that the [deprecations doc](#update-the-deprecations-doc) is correctly linked from the release post.
+| 18th - 20th | The **Release Post Manager and Technical Writer** perform final reviews/revisions to ensure everything is ready to publish.<br><br>Any changes after <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time> on the 18th will be done via the `release-X-Y` branch, not `master` branch, and is subject to approval by the **Release Post Manager**.<br><br>The TW Lead verifies the deprecations and removals links in the release post are correct.
 
 The 18th - 20th can also fall on vacations or holidays. It is important for Product Managers to designate, ahead of time, who to respond to time-sensitive inquiries should they be unreachable. Release Post Managers are also empowered to make decisions and take actions after not hearing back from the product manager before the EOD on the 20th.
 |
@@ -550,7 +550,7 @@ To edit a content block:
 
 1. For review and approval, assign the Release Post DRI, Product Operations: `@fseifoddini` as a Reviewer. You can also assign the current cycle's [Release Post Manager](/handbook/marketing/blog/release-posts/managers/).
 
-To edit a deprecation, follow [Editing a deprecation entry](#editing-a-deprecation-entry).
+To edit a deprecation, follow [Editing a deprecation entry](#editing-a-deprecation-or-removal-entry).
 
 #### Accountability
 
@@ -665,7 +665,7 @@ The TW Lead is responsible for a final review of:
 - [Performance improvements](#performance-improvements-mr)
 - [Usablity improvements](#usability-improvements-mr)
 - [MVP check](#mvp-entry)
-- Verifying the [deprecations doc](#update-the-deprecations-doc) is up to date.
+- Verifying the deprecations and removals sections in the release post link to GitLab the corresponding pages in GitLab Docs.
 - [Releasing the next version of the documentation](#versioned-documentation-release)
 
 While individual TW reviewers and product managers have ultimate responsibility for the style and language of their release post items, including [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades), TW leads still have an overall responsibility to notify the release post manager, the product managers and TW reviewers if style and language don't seem reasonably consistent (things are obviously out of sync with known guidelines). But it is not the responsibility of the TW leads to _fix_ style and language inconsistencies. However, TW leads _do_ have the responsibility and ownership to make sure that all links in the release post point to relevant content and be fixed, if issues are found.
@@ -689,7 +689,7 @@ merge requests, the purpose of the structural check is:
 - Check all content for syntax errors, typos and grammar mistakes, remove extra whitespace.
 - Verify that the images look harmonic when scrolling through the page (for example, suppose that most of the images were screenshots taken of a large portion of the screen and one of them is super zoomed. This one should be ideally replaced with another that looks more like the rest of the images).
 - This should happen in the release post item review, but if there's time, double-check documentation links and product tiers.
-- Make sure the current release's deprecations also show up in the [deprecations doc](https://docs.gitlab.com/ee/update/deprecations.html).
+- Make sure the current release's deprecations and removals also show up in the [deprecations doc](https://docs.gitlab.com/ee/update/deprecations.html) and [removals doc](https://docs.gitlab.com/ee/update/removals.html).
 
 Pay special attention to the release post Markdown file, which adds the introduction.
 Review the introduction briefly, but do not change the writing style nor the messaging;
@@ -851,23 +851,29 @@ of their group for review (required). The process for TW reviews is described in
 - [Release post item template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
 - [**Deprecation** MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md)
 
-#### Update the deprecations doc
+#### Update the deprecations and removals docs
 
-The [deprecations doc](https://docs.gitlab.com/ee/update/deprecations.html) ([source file](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/update/deprecations.md)) is generated from the [deprecations entries](#creating-a-deprecation-entry) in [`data/deprecations` in the `gitlab` project](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations).
+The [deprecations](https://docs.gitlab.com/ee/update/deprecations.html) and [removals](https://docs.gitlab.com/ee/update/removals.html) docs are generated with .yml files the data directory of the `gitlab` project.
 
-This is not an automatic process, so the TW assigned as the reviewer of the deprecation item must locally run a Rake task that updates the doc to include the latest deprecation entries. While the author of the deprecations MR is responsible for creating the content, they are not responsible for updating the doc.
+The html pages are not generated automatically. The TW assigned as the reviewer of the deprecation or removal item must run a Rake task to compile the documents. They can also run a separate task to check that the docs are up to date.
 
-When the deprecation entry is ready to be merged by the TW, they must:
+While the author of the deprecations or removal MR is responsible for creating the content, they are not responsible for updating the doc.
 
-1. Check out the MR's branch in the [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab) project.
-1. From the command line (in the branch), run `bin/rake gitlab:docs:compile_deprecations`. If you want to double check that it worked, you can run `bin/rake gitlab:docs:check_deprecations` to verify that the doc is up to date.
-1. Commit the updated doc and push the changes.
+Updating the docs:
+
+1. From the command line, navigate to your local clone of the [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab) project, and check out the MR's branch.
+1. Compile the deprecation or removals doc with the appropriate command:
+  - `bin/rake gitlab:docs:compile_deprecations`
+  - `bin/rake gitlab:docs:compile_removals`
+1. If needed, you can verify the docs are up to date with:
+  - `bin/rake gitlab:docs:check_deprecations`
+  - `bin/rake gitlab:docs:check_removals`
+1. Commit the updated docs and push the changes.
 1. Set the MR to merge when the pipeline succeeds (or merge if the pipeline is already complete).
 
-The deprecation MRs must be merged by the 17th.
-If merged later, they might miss the code cutoff and won't be included in the self-managed release's docs.
+Deprecation and removal MRs must be merged by the 17th. If merged later, they might miss the code cutoff and won't be included in the self-managed release's docs.
 
-If a deprecation entry needs to be updated, you can use the same process. The PM [updates the deprecation file](#editing-a-deprecation-entry), and the TW reviewer runs the Rake task to update the doc before merge.
+If an entry needs to be edited, [the update process](#editing-a-deprecation-or-removal-entry) is similar.
 
 If you run into problems running the Rake task, check [the troubleshooting steps](#deprecation-rake-task-troubleshooting).
 
@@ -1001,6 +1007,7 @@ Should you prefer to continue to contribute to an issue under active development
 - [Omnibus improvements](#omnibus-improvements) (added as a secondary feature)
 - [Important notes on upgrading](#important-notes-on-upgrading) (optional)
 - [Deprecations](#deprecations)
+- [Removals](#removals)
 
 ### MVP
 
@@ -1366,6 +1373,8 @@ This video walkthrough will help you understand the difference between deprecati
 
 _To be added by Product Managers or Engineering Managers and merged by Technical Writers._
 
+All deprecations will be published by milestone in [GitLab Docs](https://docs.gitlab.com/ee/update/deprecations.html) via the workflow outlined below. Deprecations will not be listed on the release post page. 
+
 Starting with 14.5, specific deprecations are only published to the [Deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations), which is the single source of truth.
 
 Deprecation notices should be [added to the documentation per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
@@ -1380,25 +1389,17 @@ Make sure to review and understand the differences between [deprecations and rem
 
 ##### Creating a deprecation entry
 
-The release post contains a link to the [Deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations).
-To add a new deprecation notice to that page:
+The release post contains a link to the [Deprecations page](https://docs.gitlab.com/ee/update/deprecations) in the docs.
+
+To add a new notice:
 
 1. Create a new branch in the [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab) project.
-1. Create a `.yml` file in the [`data/deprecations`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations) folder. Use [`data/deprecations/templates/example.yml`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/deprecations/templates/example.yml) as the template. Name the file `XX-YY-feature-name.yml`, where `XX-YY` is the milestone of the initial deprecation announcement. For example, `14-7-pseudonymizer.yml`. The file should contain these elements:
-
-   - `name`: the name of the feature to be deprecated. Avoid the words `deprecation`, `deprecate`, `removal`, and `remove` in this field because these are implied.
-   - `announcement_milestone`: the milestone when the feature was first deprecated (for example, "14.3").
-   - `announcement_date`: the date of the release when this feature was first announced as deprecated (for example, "2021-09-22").
-   - The `removal_milestone`: the milestone when the feature is planned to be removed from the product (for example, "15.0").
-   - `body`: a brief description of the feature or functionality being removed. We recommend that you link to the feature's documentation.
-     The description should state what actions the user should take to prepare for the removal.
-   - All other fields are optional and might be used for future automation.
-
+1. Create a `.yml` file in the [`data/deprecations`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations) folder. Use [`data/deprecations/templates/example.yml`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/deprecations/templates/example.yml) as the template. Name the file `XX-YY-feature-name.yml`, where `XX-YY` is the milestone of the initial deprecation announcement. For example, `14-7-pseudonymizer.yml`.
 1. Create a merge request for the change, and use the [Deprecations](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md) MR template for the description.
 1. Assign reviewers as recommended in the template.
-1. If appropriate, add the `breaking change` label. It's used to highlight breaking changes as part of the major release in GitLab docs and other documentation.
+1. If this deprecation will result in a breaking change upon removal, change the `breaking_change` value from `false` to `true`.
 1. When the MR is ready (no later than the 15th), assign the MR to the technical writer [assigned to the stage](/handbook/engineering/ux/technical-writing/#designated-technical-writers).
-1. The TW Reviewer reviews the content, updates the deprecations doc, and merges the MR by the 17th.
+1. The TW Reviewer reviews the content, adds a commit that [updates the deprecations doc](#update-the-deprecations-and-removals-docs), and merges the MR by the 17th.
    The new deprecation will be visible on the [Deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations) within four hours after merging.
 
 If you have multiple deprecation notices for your category, create a separate `.yml` file and MR for each.
@@ -1413,104 +1414,55 @@ Watch the video below to better understand how to create deprecation entries:
     <iframe src="https://www.youtube.com/embed/0TKmIIdGZIE" title="How to add GitLab deprecations to release posts and documentation" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-##### Editing a deprecation entry
-
-This process is very similar to creating a deprecation entry, with the difference that the YAML file already exists.
-
-To edit an existing deprecation entry:
-
-- Announced in 14.4 or later:
-
-  1. Create a new branch in the [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab) project.
-  1. Find and edit the `.yml` file in the [`data/deprecations`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations) folder.
-  1. Create a merge request for the change, and use the [Deprecations](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md) MR template for the description.
-  1. Assign reviewers as recommended in the template.
-  1. If appropriate, add the `breaking change` label. It's used to highlight breaking changes as part of the major release in GitLab docs and other documentation.
-  1. When the MR is ready (no later than the 15th), assign the MR to the technical writer [assigned to the stage](/handbook/engineering/ux/technical-writing/#designated-technical-writers).
-  1. The TW Reviewer reviews the content, updates the deprecations doc, and merges the MR by the 17th.
-     The changes to the deprecation entry will be visible on the [Deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations) within four hours after merging.
-
-- Announced before 14.4:
-
-  1. Create a new branch in the [`gitlab-com/www-gitlab-com`](https://gitlab.com/gitlab-com/www-gitlab-com) project.
-  1. Edit the deprecation file in each sub-directory (release) of `data/release_posts` where it appeared.
-     For example, if a deprecation announcement appeared in 13.10 and was removed in 14.0, you would need to edit 13.10, 13.11, and possibly the removal announcement in 14.0 release post pages.
-  1. Create a merge request and assign the Release Post DRI, Product Operations: `@fseifoddini` as a Reviewer. You can also assign the current cycle's [Release Post Manager](/handbook/marketing/blog/release-posts/managers/).
-
 #### Removals
 
-_To be added by Product Managers or Engineering Managers and merged by either._
-
-To add a removal to the release post, follow these steps:
-
-1. Create an MR with the `data/release_posts/unreleased/samples/removals.yml` template in the [`gitlab-com/www-gitlab-com`](https://gitlab.com/gitlab-com/www-gitlab-com) project
-1. If appropriate, add the label `breaking change`. It's used to highlight breaking changes as part of the major release in GitLab docs and other documentation.
-1. Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
-
-Read on for more details.
-
-**Please watch this helpful [video](https://www.youtube.com/watch?v=9gy7tg94j7s) as well as reading the info below to help clarify this process for you.**
-
-A removal is an announcement in the release post notifying the community that a feature has officially been removed. Do not use the removal template until the feature is actually getting removed. Removals are announced in the release post as a deprecation at least 2 releases prior to the actual release when feature is removed. Note the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
-
-When creating your removal please review the deprecation announcement to be sure that it is still accurate and the date is reflective of the most current planned removal date.
-
-Removal items go in the same directory as regular release post items. See the [removal template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/removals.yml) to create a removal notice. Create one .yml file in the `/data/release_posts/unreleased/` folder, using the following content block for each notice: 
-
-
-
-```yaml
-removals:
-  - feature_name: XYZ feature or function has been removed
-    date_of_removal: May 22nd, 2017 # day the removal was released
-    reporter: bikebilly # GitLab username of the person reporting the removal
-    description: |  # example (supports markdown)
-      Describe the feature that was removed. Use past tense ("feature X was removed") because the removal has already happened.
-
-      [Add another link](#link) if needed.
-
-      Don't forget to edit /data/features.yml.
-```
-
-If you need to set up multiple removals, notify the [Release Post Manager](#release-post-manager) and make use of multiple feature removal blocks in a single file:
-
-```yaml
-removals:
-  - feature_name: XYZ feature or function has been removed
-    date_of_removal: May 22nd, 2017 # day the removal was released
-    reporter: bikebilly # GitLab username of the person reporting the removal
-    description: |  # example (supports markdown)
-      Describe the feature that was removed. Use past tense ("feature X was removed") because the removal has already happened.
-
-      [Add another link](#link) if needed.
-
-      Don't forget to edit /data/features.yml.
-  - feature_name: ABC feature or function has been removed
-    date_of_removal: May 22nd, 2017. # day the removal was released
-    reporter: bikebilly # GitLab username of the person reporting the removal
-    description: |  # example (supports markdown)
-      Describe the feature that was removed. Use past tense ("feature X was removed") because the removal has already happened.
-
-      [Add another link](#link) if needed.
-
-      Don't forget to edit /data/features.yml.
-```
-
-- `feature_name` should follow the structure of "XYZ feature or function has been removed."
-- `date_of_removal` should be the day the removal was released, e.g. May 22nd, 2021.
-- `reporter` should be the GitLab username of the person reporting the removal.
-- `description` should contain a brief description of the feature or functionality being removed.
-
-The `/data/features.yml` file should also be edited with the removed features deleted from the file.
+_To be added by Product Managers or Engineering Managers and merged by Technical Writers._
 
 Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backward-compatible and breaking changes are recommended for a major release, whereas backward-compatible changes can be introduced in a minor release.
 
-Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
+All removals and/or breaking changes will be published by milestone in [GitLab Docs](https://docs.gitlab.com/ee/update/removals.html) via the workflow outlined below. A removal will also be listed on the release post page for the milestone in which it happens, regardless of whether it is a breaking change or not. There is no need to create removals content blocks for the release post page. The removals listings on the release post page will be auto-generated via the removals Docs page. 
 
-If the removal is a [breaking change](https://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-change), apply label `breaking change`to the MR.
+##### Creating a removal entry
+
+The release post contains a link to the [Removals](https://docs.gitlab.com/ee/update/removals) page in docs.
+
+To add a new notice:
+
+1. Create a new branch in the [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab) project.
+1. Create a `.yml` file in the [`data/removals/XX_YY`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/removals) directory where `XX_YY` is the milestone in which the removal will take place. Create the directory if it does not yet exist.
+1. Use [`data/removals/templates/example.yml`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/removals/templates/example.yml) as the template. Name the file `XX-YY-feature-name.yml`, where `XX-YY` is the milestone of the removal. For example, `15-0-unicorn.yml`.
+1. Create a merge request for the change, and use the [removals MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Removals.md) for the description.
+1. Assign reviewers as recommended in the template.
+1. If this removal will result in a breaking change upon removal, set the `breaking_change` value as `true`.
+1. When the MR is ready (no later than the 15th), assign the MR to the technical writer [assigned to the stage](/handbook/engineering/ux/technical-writing/#designated-technical-writers).
+1. The TW Reviewer reviews the content, adds a commit that [updates the removals doc](#update-the-deprecations-and-removals-docs), and merges the MR by the 17th.
+   The new removal will be visible on the [Removals documentation page](https://docs.gitlab.com/ee/update/removals) within four hours after merging.
+
+If you have multiple removal notices for your category, create a separate `.yml` file and MR for each.
+
+##### Update features.yml
+
+The `/data/features.yml` file should be updated soon after the feature is removed.
+
+##### Labeling the Removal MR
+
+If the removal is a [breaking change](https://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-change), add the `breaking change` label to the MR.
 
 When approved, include the "Ready" label in the MR before merging.
 
+##### Editing a deprecation or removal entry
+
+This process is very similar to creating an entry, with the difference being that the YAML file already exists.
+
+To edit an existing entry:
+
+1. Create a new branch in the [`gitlab-org/gitlab`](https://gitlab.com/gitlab-org/gitlab) project.
+1. Find and edit the `.yml` file in the [`data/deprecations` or `data/removals`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/) directory.
+1. Create a merge request for the change, and use the appropriate [Deprecations](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md) or [Removals](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md) MR template for your change.
+1. Assign reviewers as recommended in the template.
+1. Assign the MR to the technical writer [assigned to the stage](/handbook/engineering/ux/technical-writing/#designated-technical-writers). (By the 15th if revising an entry for the upcoming release)
+1. The TW Reviewer reviews the content, adds a commit that [updates the docs](#update-the-deprecations-and-removals-docs), and merges the MR. (By the 17th)
+   
 ---
 
 #### Upgrades
