@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: "Considerations for remote internships"
+title: "The definitive guide to remote internships"
 canonical_path: "/company/culture/all-remote/internship/"
-description: "Here GitLab details considerations for both employee and employer as it relates to remote internships "
+description: "How to have a successful internship remotely: key tips for employers and interns."
 twitter_image: "/images/opengraph/all-remote.jpg"
 twitter_image_alt: "GitLab remote team graphic"
 twitter_site: "@gitlab"
@@ -17,6 +17,28 @@ twitter_creator: "@gitlab"
 ## Introduction
 
 On this page, we're detailing considerations for both employee and employer as it relates to [remote internships](/handbook/engineering/internships/) (also referred to as apprenticeships and co-ops).
+
+## What are the benefits of remote internships?
+
+![GitLab collaboration illustration](/images/all-remote/gitlab-collaboration-illustration.jpg){: .medium.center}
+
+There are many reasons why remote internships are a value-add to any organization.
+
+### Competitive hiring advantage
+
+Remote is the [future of work](/company/culture/all-remote/vision/). The ability to learn and work from wherever one is most fulfilled will soon become the norm. Companies which are built to support remote work (e.g. firms which create digital products), yet refuse to offer such flexibility, will be in low demand by top talent. This includes the most promising interns.
+
+Offering remote internships provides a competitive advantage to attracting ambitious and capable interns, but it will soon [diminish](/company/culture/all-remote/vision/#diminishing-competitive-advantage) into a practical requirement.
+
+### Diversity
+
+By hiring remote interns, organizations are able to broaden their usual scope and recruit talent from underserved areas of the globe. Cultural and geographic [diversity](/company/culture/inclusion/#fully-distributed-and-completely-connected) is important to long-term success and vibrancy in a company.
+
+### Fresh perspective
+
+Interns are capable of offering valuable perspective. Given that many are only working for a few months, they're able to evaluate an organization with fresh eyes, and they have little to lose by offering [transparent](/handbook/values/#transparency) feedback along the way.
+
+Particularly for interns who are in university, or recently graduated, they may also bring new tools and methodologies to the table.
 
 ## Finding a remote internship
 
@@ -33,6 +55,10 @@ Remote internships  are unique in one primary way: there is no physical office i
 
 This is of particular importance given that interns are usually inexperienced in the workplace. Internships have historically been used to introduce people to the working world. Foundational communication skills are learned in internships, as are conventions, norms, and expectations. They serve as an opportunity for an intern to ask a multitude of questions, given that practically everything about the experience is new.
 
+## What are the drawbacks of remote internships?
+
+Like any remote-working situation, remote internships have multiple [advantages](/company/culture/all-remote/benefits/), but remote work doesn't suit everyone. Depending on their lifestyle, work preferences, and drive, [a remote internship can have disadvantages](/company/culture/all-remote/drawbacks/#remote-work-challenges-and-solutions-for-employees) as well. We have outlined potential challenges and solutions for remote internships in our [all remote guide here](company/culture/all-remote/drawbacks/#remote-work-challenges-and-solutions-for-employees).
+
 ## Employer considerations
 
 ![GitLab values illustration](/images/all-remote/gitlab-values-tanukis.jpg){: .medium.center}
@@ -40,6 +66,24 @@ This is of particular importance given that interns are usually inexperienced in
 It is unlikely that an intern will be equipped to be a [manager of one](/handbook/values/#managers-of-one), and companies should expect interns to require a great deal of hand-holding.
 
 Learn more about the importance of clear [communication](/handbook/communication/), intentional [onboarding](/company/culture/all-remote/learning-and-development/#how-do-you-onboard-new-team-members), and utilizing [asynchronous workflows](/company/culture/all-remote/asynchronous/) in a Harvard Business School article entitled "[Best practices for creating a successful virtual internship](https://www.hbs.edu/recruiting/blog/post/best-practices-for-creating-a-successful-virtual-internship)."
+
+## What are the best practices for managing a remote internship?
+
+Managing a remote internship is similar to managing one in-person. We've created an [in-depth guide to being a great remote manager](/company/culture/all-remote/being-a-great-remote-manager/#traits-of-a-great-remote-manager) which includes focusing on:
+
+* [Self-awareness](/company/culture/all-remote/being-a-great-remote-manager/#self-awareness) for relationship building 
+* Employing [empathy and kindness](/company/culture/all-remote/being-a-great-remote-manager/#empathy)
+* Overcoming ego to be a [servant-leader](/company/culture/all-remote/being-a-great-remote-manager/#servant-leader)
+* Communicating in great [detail](/company/culture/all-remote/being-a-great-remote-manager/#detailed)
+* Modeling [trustworthiness](/company/culture/all-remote/being-a-great-remote-manager/#detailed)
+
+## What are the best tools for managing a remote internship?
+
+Remote internships are fertile ground for communication breakdowns. Intentionally prioritizing strong communication lines, creating a psychologically safe space for interns to learn, and hiring the right interns will ensure a positive and successful experience.
+
+### Creating good communication
+
+There is much to glean from [GitLab's approach to meetings](/company/culture/all-remote/meetings/), and a well-organized internships will also incorporate communication strategies such as [scheduled AMAs, group conversations, and Key Reviews](/company/culture/all-remote/learning-and-development/#ask-me-anything-ama-group-conversations-and-key-meetings).
 
 ### Creating psychological safety
 
@@ -79,6 +123,14 @@ While 3-month internships are common in colocated settings, consider offering 4-
 While not necessarily required, organizations should consider a week-one in-person onboarding session — particularly if hiring several interns as part of a cohort.
 
 A final week of in-person interaction may be useful for retrospectives and potential next steps.
+
+## What are the challenges of managing a remote internship?
+
+Because remote internships are learning-based and fast-paced, there are some [red flags to watch out for](/company/culture/all-remote/being-a-great-remote-manager/#red-flags-to-watch-out-for):
+
+* [Loneliness and isolation](/company/culture/all-remote/being-a-great-remote-manager/#loneliness-and-isolation)--be sure to set up a regular communication schedule with your intern/s.
+* [Feeling left out](/company/culture/all-remote/being-a-great-remote-manager/#feeling-left-out)--be sure to create ways for your intern/s to connect with both you and the team.
+* [Overworking](/company/culture/all-remote/being-a-great-remote-manager/#overworking)--be sure to model and encourage work/life boundaries.
 
 ### Managing expectations
 
@@ -125,39 +177,25 @@ At GitLab, we make our [strategy](/company/strategy/) and [OKRs](/company/okrs/)
 
 Hiring remote interns is hard. An organization shouldn't make it harder by concealing their vision and values until *after* an intern is hired. Given the remarkably short duration of the internship experience, it's vital to act [transparently](/handbook/values/#transparency) in order to create as much pre-start alignment as possible.
 
-## Why offer remote internships?
+## How can interns make the most of a remote internship?
 
-![GitLab collaboration illustration](/images/all-remote/gitlab-collaboration-illustration.jpg){: .medium.center}
 
-Given the above considerations, leaders may wonder why remote internships should be offered.
-
-### Competitive hiring advantage
-
-We believe that all-remote is the [future of work](/company/culture/all-remote/vision/), and the ability to work from wherever one is most fulfilled will soon become the norm. [Companies](/company/culture/all-remote/jobs/) which are built to support remote work (e.g. firms which create digital products), yet refuse to offer such flexibility, will be in low demand by top talent. This includes the most promising interns.
-
-Said another way, offering remote internships today provides a competitive advantage to attracting ambitious and capable interns, but it will soon [diminish](/company/culture/all-remote/vision/#diminishing-competitive-advantage) into a practical requirement.
-
-### Diversity
-
-By hiring remote interns, organizations are able to broaden their usual scope and recruit talent from underserved areas of the globe. Cultural and geographic [diversity](/company/culture/inclusion/#fully-distributed-and-completely-connected) is important to long-term success and vibrancy in a company.
-
-### Fresh perspective
-
-Interns are capable of offering valuable perspective. Given that many are only working for a few months, they're able to evaluate an organization with fresh eyes, and they have little to lose by offering [transparent](/handbook/values/#transparency) feedback along the way.
-
-Particularly for interns who are in university, or recently graduated, they may also bring new tools and methodologies to the table.
-
-## Employee (intern) considerations
-
-Interns who are considering applying for a remote internship over a colocated internship should ingest the above in order to get a better understanding of the employer perspective.
-
-It's important to recognize that expectations will likely be higher in a remote internship, while resources *may* be fewer if a company lacks a mature internship infrastructure.
+Interns must recognize that expectations for self-managing your time will likely be higher in a remote internship, while resources *may* be fewer if a company lacks a mature internship infrastructure.
 
 It's important to ask questions during the interview phase to understand the work environment. You'll want to make sure you have a remote mentor or [onboarding buddy](/handbook/people-group/general-onboarding/onboarding-buddies/) who will be available to answer questions related to working remotely.
 
 Too, consider reading GitLab's [guide to evaluating a remote job](/company/culture/all-remote/evaluate/) and ask relevant questions as you interview.
 
 All-remote forces you to do things that you [should do anyway](/company/culture/all-remote/management/), but more quickly and more intentionally. That's a great backdrop for remote interns, who stand to gain not only work experience, but experience working in an environment where you're in control of your [space](/company/culture/all-remote/workspace/), your [time](/company/culture/all-remote/people/#those-who-value-flexibility-and-autonomy), and your [approach](/handbook/values/#give-agency).
+
+## What are the best ways to stay connected with remote interns?
+If you don't hire your remote intern/s at the end of their internship experience, be sure to sweeten their transition out by ending well.
+
+1. [Say Thanks](handbook/communication/#say-thanks) for the work they contributed during their internship. At GitLab, we even have a `#thanks` Slack channel! 
+1. Acknowledge intern contributions in team meetings, issues, company calls, 1-1 meetings.
+1. Send a gift or a swag bag to commemorate their contributions.
+
+Don't forget to gather information they are willing to share such as their email address, LinkedIn profile, or handles for other social channels so you can stay in touch. Who knows...maybe a [position at GitLab](/jobs/) will come available that you can hire them for!
 
 ## Contribute your lessons
 
