@@ -19,7 +19,7 @@ This guide is meant to help you understand the piece of GitLab that you’re goi
 
 ## Restricted Stock Units
 
-As of 2021-09-04, offers Restricted Stock Units (RSUs) for all future equity grants for both existing and new team members. 
+As of 2021-09-04, GitLab offers Restricted Stock Units (RSUs) for all future equity grants for both existing and new team members. 
 
 ### Why the change to RSUs?
 
