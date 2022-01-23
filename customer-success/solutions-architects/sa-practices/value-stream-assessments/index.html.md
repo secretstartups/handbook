@@ -22,6 +22,7 @@ Where applicable, GitLab account teams should assist prospects and customers by 
 1. [Qualify the Opportunity for a value stream assessment](#qualify)
 1. [Educate potential participants and obtain commitment to the exercise](#education-and-commitment)
 1. [Prepare for the Value Stream Workshop](#prepare)
+1. [Initial customer pitch](#pitch)
 1. [Plan the Value Stream Workshop](#planning-meeting-with-customer)
 1. [Facilitate the Value Stream Workshop](#value-stream-workshop)
 1. [Summarize the findings](#summarize-the-findings)
@@ -83,6 +84,21 @@ It is extremely important to have an internal preparation meeting(can be async) 
 - Pick key discovery questions to be asked during pitch & customer planning session
 
 Please ask the account team to share as much info as possible regarding the above questions so the facilitator can dive deeper into identifying key slides, questions to be asked during customer pitch
+
+### Pitch
+
+The initial customer pitch allows us to pitch value stream assesment to our key stakeholders & get their buy in. The customer pitch should include:
+- What is VSA?
+- What does a VSA exercise entail?
+- Who are the key participants of the VSA exercise.
+- What are some of the expected outcomes of VSA for them?
+
+It is important to identify a project or few projects as next step for the planning meeting with customer.
+
+Here are some resources that can be used as starting point for the pitch:
+[Customer pitch deck](https://docs.google.com/presentation/d/1R8RMrXDIaP9Mz3P0_xcevjDQROtvVpSwtEBJgxdsNbw/edit#slide=id.gef34d4c13c_1_636)
+[Internal pitch deck](https://docs.google.com/presentation/d/1kWqXBbBC2BZ1w9dWEUe4hVJdcXMcO6tXNK9dFY-5XF0/edit#slide=id.gef34d4c13c_1_636)
+
 
 ### Planning meeting with customer
 
