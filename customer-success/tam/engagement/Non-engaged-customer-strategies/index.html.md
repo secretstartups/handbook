@@ -40,6 +40,39 @@ The playbook contains the following steps:
 - If large enough, ask exec group and board for networking/introductions
 - Perform a news search for any major events such as acquisitions, layoffs, product launches
 
+
+### Executive Reachout
+
+#### Email Templates 
+
+##### Sample Email 1
+Hi [XXX],
+
+I hope this finds you well. As an introduction, my name is [YYY], and I lead the global technical account management (TAM) team here at GitLab.
+
+I wanted to get in touch to see how your experience with GitLab has been over the past year, and to connect on how we can partner to further enable your teams on GitLab. You have available to you a number of workshops and enablement sessions on DevOps best practices that your TAM can facilitate - we are finding our customers are reaching maturity and finding value faster as a result of engaging their broader teams in these sessions. 
+
+How would a 30-minute call over the next couple of weeks work to connect on progress to date and look at how we can support you and your team moving forward?
+
+Best,
+
+[YYY]
+
+##### Sample Email 2
+Hello [XXX],
+
+My name is [YYY], and I am the director of global technical account management (TAM) team at GitLab.
+
+I wanted to touch base to see how your usage of GitLab is going and what your experience has been over the past [ZZZ] months. I understand your primary business driver is {a} which will help you achieve {b}. Your TAM can help enable your teams to drive this successfully across your organization.
+
+We would love to have a call with you to work together to plan your continued success, and discuss any questions or concerns you may have.
+
+Thank you, and we look forward to building our partnership with you!
+
+Best,
+
+[YYY]
+
 ### Additional Items
 
 - Reach out at different times of day and days of the week
