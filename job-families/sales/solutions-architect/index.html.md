@@ -64,7 +64,7 @@ The Solutions Architect is a [grade 6](/handbook/total-rewards/compensation/comp
 * B.Sc. in Computer Science or equivalent experience
 * Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 * Ability to use GitLab
-* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ### Senior Solutions Architect
 
@@ -343,13 +343,13 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 
 ### Field CTO
 
-#### Field CTO Responsibilties 
+#### Field CTO Responsibilties
 
 - Extends the responsibilities of Principal Solutions Architect
-- Provide executive-level, thought leadership on strategic opportunities (i.e., new logo and growth) 
+- Provide executive-level, thought leadership on strategic opportunities (i.e., new logo and growth)
 - Curate and manage field feedback, while collaborating with the product team on roadmap and issue prioritization
 - Scale and grow regional-level expertise within the field (SAL/AE,SA,TAM) through contributions to enablement and content
-- Act as a prospect / customer advocate on DevSecOps transformation initiatives 
+- Act as a prospect / customer advocate on DevSecOps transformation initiatives
 
 
 #### Field CTO Requirements
@@ -362,15 +362,15 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 - Strong verbal and written skills with a strong ability to articulate and communicate strategies to all levels in an organization (i.e., executive to staff engineer)
 - Ability to use GitLab, including learning GitLab as part of the role
 
-### Field Security Officer 
+### Field Security Officer
 
 #### Field Security Officer Responsibilities
 
 - Extends the responsibilities of Principal Solutions Architect
-- Provide executive-level, security-related thought leadership on strategic opportunities (i.e., new logo and growth) 
+- Provide executive-level, security-related thought leadership on strategic opportunities (i.e., new logo and growth)
 - Own CISO, CSO, and/or chief security architect relationships in key accounts while providing credible, leading-edge security guidance to help orchestrate their desired outcomes
 - Assist account teams with GitLab product security and compliance expertise in order to drive ARR for GitLab while also providing direction on opportunity and account strategies related to selling and expanding with security (e.g., up-tier)
-- Act as a prospect / customer advocate on security related matters 
+- Act as a prospect / customer advocate on security related matters
 - Curate and manage security related field feedback, while collaborating with the product team on issue prioritization
 - Contribute to security sales strategy and playbooks in while collaborating with marketing and product teams
 - Scale and grow regional-level expertise within the field (SAL/AE,SA,TAM) through contributions to enablement and content
