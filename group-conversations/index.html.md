@@ -164,7 +164,7 @@ These should be called Fill-In AMAs so it's clear to team members that the AMA w
 ### 72 Hours Before the Call
 
 1. Aim to have the slide deck, any handbook or document links, and the optional video visible to all of GitLab 72 hours ahead of the all. At a minimum, this should be posted 24 hours in advance.
-1. Post in #whats-happening-at-gitlab on Slack if there is a video for the group conversation that you'd like people to watch beforehand. Please @ mention `Christina Keelan Cottrell` when posting so she may schedule time for the CEO to watch the video ahead of the group conversation.
+1. Post in #whats-happening-at-gitlab on Slack if there is a video for the group conversation that you'd like people to watch beforehand. Please @ mention `Kristie Thomas` when posting so she may schedule time for the CEO to watch the video ahead of the group conversation.
 
 ### 30 Minutes Before the Call
 
@@ -264,7 +264,7 @@ We usually do not have Group Conversations or Company calls during the last two 
 
 On 2022-02, we'll move our Group Conversations to make **Group Conversations for groups without a Key Review optional**. [Functions with Key Reviews](/handbook/key-review/#invitees) will continue to have Group Conversations within 10 days following their Key Review.  
 
-Please note: the frequency of Group Conversations does not recur on a specific cadence, but rather an estimated time (ex: the Strategic Marketing GC happens every other month, but does not happen specifically on the 4th Wednesday every other month). Groups Conversations without Key Reviews are optional, and these can be swapped with other groups without Key Reviews, or scheduled during an open day that is available as noted on the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing).
+Please note: the frequency of Group Conversations does not recur on a specific cadence, but rather an estimated time (ex: the Portfolio Marketing GC could happen every other month, but does not happen specifically on the 4th Wednesday every other month). Groups Conversations without Key Reviews are optional, and these can be swapped with other groups without Key Reviews, or scheduled during an open day that is available as noted on the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing).
 
 | Group Conversation | DRI | Key Review? | GC Frequency |
 | ------------------ | --- | ----------- | ------------ |
