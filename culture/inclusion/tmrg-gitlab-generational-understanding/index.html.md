@@ -84,6 +84,7 @@ Links to interesting handbook pages, articles, books, and training
 
 * [LinkedIn:Thriving across our differences](https://www.linkedin.com/learning/confronting-bias-thriving-across-our-differences/outro-with-arianna-huffington)
 * [Age Implicit Association Test](https://implicit.harvard.edu/implicit/takeatest.html) - a great resource for testing for conscious and unconscious bias (on age and other factors)
+* [LinkedIn: Teaching Gen Z to Collaborate - Managing Generation Z](https://www.linkedin.com/learning/managing-generation-z/teaching-gen-z-to-collaborate) - a presentation on differences between the generations, some context as to why the differences exist, and how to incorporate these differences when managing people from different generations
 
 ### Books
 
