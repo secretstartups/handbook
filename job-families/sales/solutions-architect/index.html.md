@@ -252,6 +252,7 @@ Specialty responsibilities and requirements may extend or overlay [Level roles](
 
 * Since this role deals primarily with partner relationships, any responsibilities in an individual's [Role Level](#levels) that reference customers can also be fulfilled by Partners. If responsibilities appear duplicated, the version in this description has priority due to being more specific to your role.
 * Engage in a technical consultancy role for channel and system integrator partners, providing technical assistance and guidance specific to the selling and service delivery readiness of Gitlab Channel partners.
+* Create and maintain relationships with partner and customer contacts that contribute to large Net ARR deals and customer success.
 * In partnership with the channel sales team, formulate and execute a sales, solution and practice strategy to exceed revenue targets through the delivery of solutions & services that drive the adoption of GitLab.
 * Work with Customer Success teams (SA, TAM, Sales) to ensure the partner is acting in good faith and effectively when delivering GitLab services to a customer.
 * Educate channel partners of all sizes on the value proposition of GitLab, and participate in all levels of discussions throughout the organization to ensure our solution is set up for successful deployment.
@@ -274,6 +275,7 @@ Specialty responsibilities and requirements may extend or overlay [Level roles](
 
 * Since this role deals primarily with partner relationships, any responsibilities in an individual's [Role Level](#levels) that reference customers can also be fulfilled by Partners. If responsibilities appear duplicated, the version in this description has priority due to being more specific to your role.
 * Engage in a technical consultancy role for Technology Alliance partners and joint customer opportunities with these partners.
+* Create and maintain relationships with partner and customer contacts that contribute to large Net ARR deals and customer success.
 * Build and deliver solutions, reference implementationss and demos highlighting the Alliance partners' technologies as they work with GitLab.
 * Be a subject matter expert within an area of focus, with exceptional soft / public speaking skills and “hands on the keyboard depth”.
 * Proactively identify market demand with solutioning. Engage as a lead SME in customer engagements including pitches, solution envisioning, proposal development and estimate preparation as related to alliance partner technologies.
