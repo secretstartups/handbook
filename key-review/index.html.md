@@ -67,6 +67,14 @@ The preferred meeting format leverages the [KPI Slides project](https://gitlab.c
 Other teams leverage Google Slides for their meetings.
 Some teams leverage Sisense's existing automation functionality to prepare Google Slides with automated charts. 
 
+Content to cover in each Key Review:
+1. Review of 3-5 Business Drivers (65% of review time)
+  A.) Review action items in prior month: results, learnings; 
+  B.) Review actions being taken now, expected impact, measurement plan
+1. Cross-functional Intiatives Update (15% of review time)
+1. OKR Stats (15% of review time)
+1. Key Metrics Update (5% of review time)
+
 Important notes:
 1. Before every Key Review, the OKRs should be updated by the functional DRI by updating the Health Status of their KR issues as detailed in [Maintaining the status of OKRs](https://about.gitlab.com/company/okrs/#maintaining-the-status-of-okrs)
 1. A document will be linked from the calendar invite for participants to log questions or comments for discussion and to any additional track decisions & action items.
