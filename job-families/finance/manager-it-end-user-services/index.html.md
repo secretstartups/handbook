@@ -9,32 +9,31 @@ The Manager, IT End User Services leads a team of highly-collaborative and resul
 The Manager, IT End User Services is a level [8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
-* Build, scale and manage our Service Desk team to support our needs as distributed company
-* Work with PeopleOps to enable smooth onboarding/offboarding of all team members, ensuring that
-* All hardware is available day one
-* IT Onboarding/101 are regularly conducted, and enable team members to get comfortable working in their new tools
-* A clear channel of feedback to improve the efficacy of the above
-* Offboarding process is followed without exception and all compliance requirements are met.
+* Build, scale and manage our Service Desk team to support our needs as a distributed company
+* Work with PeopleOps to enable smooth onboarding/offboarding of all team members, ensuring that all hardware and IT services are available day one
+* IT Onboarding/101 sessions are regularly conducted, and enable team members to get comfortable working in their new tools
+* A clear channel of feedback to improve the efficacy of onboarding and to measure team member satisfaction
+* Offboarding process is followed without exception and all compliance requirements are met
 * IT Asset and configuration management. Track, log and correct information to protect assets and components
-* Customer service management. Translate ‘lessons learnt’ from complaint cycles into continual service improvement
+* Customer service management. Translate ‘lessons learnt’ into continual service improvement
 * Produce proactive reports, trending analysis, service level reporting, SLA compliance, process consultation and application of ITIL best practice
-* Problem management. Initiate and monitor actions to investigate patterns and trends to resolve problems, including consulting specialists where required.
+* Problem management. Initiate and monitor actions to investigate patterns and trends to resolve problems including 
 * Hold regular 1:1’s with all members of the IT Teams
 * Triage and manage priorities of IT HelpDesk and Operations
 * Embed an asynchronous, distributed philosophy in everything you do
 
 ## Requirements
 * ITIL Service Management Framework certification 
-* The ability to build a cohesive Service Desk team and to manage people effectively. This includes the ability to coach and develop the team.
-* Experience working with and implementing Conversational AI technology to augment the capabilities of the Service Desk.
-* Experience with ITSM platforms such as ServiceNow
-* A thorough understanding of the strategic vision for the service desk and the ability to set the long-term direction of the team.
-* An ability to balance and plan the short-term actions of the team.
-* Knowledge and understanding of best practices for service management.
-* Effectively managing, developing, and training the service desk team.
-* Ensuring that all processes used by the service desk are thoroughly documented, consistently audited, and regularly improved.
-* Conducting and sharing results from service and operation performance reviews.
-* Coordinating and managing all relevant stakeholders, including the support desk team, customers, and other teams that are involved in service desk operations.
+* The ability to build a cohesive Service Desk team and to manage people effectively. This includes the ability to coach and develop the team
+* Experience working with and implementing Conversational AI technology to augment the capabilities of the Service Desk
+* Experience with ITSM platforms 
+* A thorough understanding of the strategic vision for the service desk and the ability to set the long-term direction of the team
+* An ability to balance and plan the short-term actions of the team
+* Knowledge and understanding of best practices for service management
+* Effectively managing, developing, and training the service desk team
+* Ensuring that all processes used by the service desk are thoroughly documented, consistently audited, and regularly improved
+* Conducting and sharing results from service and operation performance reviews
+* Coordinating and managing all relevant stakeholders, including the support desk team, customers, and other teams that are involved in service desk operations
 * Experience growing a team in a fast-paced, high-growth environment
 * Strong written and verbal communication skills
 * Share and work in accordance with our values
