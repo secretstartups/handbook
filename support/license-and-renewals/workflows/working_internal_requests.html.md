@@ -26,7 +26,6 @@ the following labels receive the appropriate attention from Support:
 * `Resend/Forward License Request` - [Workflow](/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html#resend-forward-the-license)
 * `GitLab.com Trial Extension Issue` - [Workflow](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials)
 * `License Issue` - [Workflow](/handbook/support/license-and-renewals/workflows/license_troubleshooting.html)
-* `NFR License Request` - [Workflow](/handbook/support/license-and-renewals/workflows/nfr_requests.html)
 * `Plan Change Request` - [Workflow](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#plan-change-requests)
 * `SaaS Subscription Issue` - [Workflow](/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html)
 * `Self Managed Trial Extension or Temporary License Issue` - [Workflow](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials)
