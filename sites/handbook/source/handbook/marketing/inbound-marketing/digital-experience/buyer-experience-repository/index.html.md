@@ -68,7 +68,7 @@ See the [Marketing Site Information Architecture Refresh epic](https://gitlab.co
 
 ### Where Content Exists
 
-All content is stored as `yml` with in the [/content](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tree/main/content) directory.
+All content is stored in the [/content](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tree/main/content) directory and can be accessed via the [Nuxt content module](https://content.nuxtjs.org/)
 
 ### How to Edit Content
 
