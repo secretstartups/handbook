@@ -274,10 +274,10 @@ Please note: the frequency of Group Conversations does not recur on a specific c
 | [Product](/handbook/product/) | Scott Williamson | Yes | Twice per quarter |
 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Twice per quarter |
 | [Support](/handbook/support/) | Tom Cooney | Yes | Twice per quarter |
-| [Security](/handbook/engineering/security/) | Johnathan Hunt | Yes | Twice per quarter |
-| [UX](/handbook/engineering/ux/) | Christie Lenneville | Yes | Twice per quarter |
-| [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Twice per quarter |
-| [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Twice per quarter |
+| [Security](/handbook/engineering/security/) | Johnathan Hunt | Yes | Every other month |
+| [UX](/handbook/engineering/ux/) | Christie Lenneville | Yes | Every other month |
+| [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month |
+| [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month |
 | [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month |
 | [Portfolio Marketing](/handbook/marketing/strategic-marketing/) | Cindy Blake | No | Optional |
 | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | Darren Murph | No | Optional |
