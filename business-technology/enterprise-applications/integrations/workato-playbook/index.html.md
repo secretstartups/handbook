@@ -17,7 +17,7 @@ Please join [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) 
 * Get tips and tricks from the integrations team and other Workato users at GitLab
 * Hear about upcoming integrations programs
 
-### How request access?
+### How to request access?
 To get started with Workato, please create an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and assign it to @dparker or @karuna16. In the the AR, please include the following details:
 
 - [ ] your orgnizational team
@@ -48,8 +48,23 @@ Once the AR is approved and closed, you'll see the Workato app on your Okta home
   ![workato landing page](workato-landing-page.png)
 
   ![left panel](left-panel-details.png)
+
 </details>
 
+##### Facing issue in Workato Okta App?
+There's a common issue the users face while using the Okta SSO app for logging in any Workato workspace for the first time. On clicking the app, you're often redirected to password input page (as shown in screenshot below)
+
+![workato login](workato-login.png)
+
+Here's a 3-Step process to self troubleshoot the issue, if you dont remember your password or have not set earlier ever:
+
+1. Go to Workato users [signing page](https://app.workato.com/users/sign_in) and click forgot password.
+2. You'll receive password reset e-mail. Click the link to create/change your password.
+3. Use this one to login via Okta workspace app.
+
+_Pro tip_ :zap:  Save this password in 1Password for future reference.
+
+For any other login issue related queries, please use the slack channel [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS)
 
 ### Workato Ramp-up programs
 There are a number of short courses available on the Workato Automation Institution website for all levels of Workato experience - Beginner, Intermediate and Advanced. Select the course that best fits your level of experience with Workato and helps you learn what you need for your project. If you are unsure about which course to pick, contact the integrations team in `#bt-integrations` on Slack.
@@ -122,6 +137,11 @@ While using Workato for building recipes, here are some basic best practices tha
 ### How do I promote my recipes to production?
 Currently, we're using Workato's `Recipe Lifecycle Management` tool to promote assets from one worksapce to another. This is how you would promote what is built in `dev` to `prod` without needing to recreate it.
 
+Also, we're in process of locking down prod for any dev activities. Soon you won't be able to create or edit recipes in prod. It could only used for propogating tested code from `dev` to `prod`. Here's the step-by-step guide how the prod deployments works:
+
+
+
+
 Aside from that, we are actually going to be migrating to Workato Environments soon which further streamlines RBAC and the deployment process so that it's even easier than the `Recipe Lifecycle Management` that we have today. You can read more about it [here](https://www.workato.com/product-hub/democratize-change-management-with-environments/).
 
 #### How to deploy recipes?
@@ -133,3 +153,4 @@ Join the [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) Sla
 #### 🚀 Soon to launch:
 - Workato Champion Program
 - Workato CI/CD automation
+
