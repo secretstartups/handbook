@@ -112,7 +112,7 @@ The following sections describe the Data Platform FY23 initiatives.
  
 #### Data Observability
  
-Data is landed from different source systems in the `raw` data layer and processed/transformed in the `prep` and `prod` before it becomes available to business users via Sisense, data pumps,queryable in Snowflake and other ways. All transformations are performed by dbt. All the data that is in `raw` changes over time, because data is changed in the source systems and therefore also needs to be processed downstream towards the `prep` and `prod` layer.
+Data is landed from different source systems in the `raw` data layer and processed/transformed in the `prep` and `prod` before it becomes available to business users via Sisense, data pumps, queryable in Snowflake and other ways. All transformations are performed by dbt. All the data that is in `raw` changes over time, because data is changed in the source systems and therefore also needs to be processed downstream towards the `prep` and `prod` layer.
  
 ```mermaid
 graph LR
@@ -129,7 +129,7 @@ graph LR
    PREP-->PROD
 ```
  
-Currently there are about 30 [source](/handbook/business-technology/data-team/platform/#data-sources) extracted:
+Currently there are about 30 [source systems](/handbook/business-technology/data-team/platform/#data-sources) extracted:
 - Data is landed in 1900 different tables
 - There are over 1700 dbt models 
 - Multiple different end points (including i.e. Sisense, Data Pump, Data Spigot, Qualtrics, Snowflake GUI)
