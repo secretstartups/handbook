@@ -4,9 +4,10 @@ title: Sign-off
 category: Project Execution
 ---
 
-After the SOW has been successfully delivered and completed, the customer will need to sign a Project sign off document. This should be sent by the PM or Project Coordinator. To send a Project Sign off document:
+After the SOW, or a specific Milestone has been successfully delivered and completed, the customer will need to sign a Project sign off document. This should be sent by the PM or Project Coordinator. To send a Project Sign off document:
 
-1. Create an email using the message below and upload the Project sign off document (Project sign off template https://docs.google.com/document/d/1RiS5TY5484nQuDTW8YMiB-CibVfoni7NJ8IUG2osUD0/edit)
+1. Create a Project sign-off document for the Project or Milestone, based upon the [Project Sign off template](https://docs.google.com/document/d/1RiS5TY5484nQuDTW8YMiB-CibVfoni7NJ8IUG2osUD0/edit)
+1. Create an email using the message below and attach the new Project sign off document
 1. Add the recipient who will be signing the document to the email and Cc yourself
 1. Update subject line to “[customer name]- project sign off
 1. Send the email
@@ -15,13 +16,13 @@ After the SOW has been successfully delivered and completed, the customer will n
  
 
 ```
-Dear [signer],
+Dear [Signer],
 
 Attached you will find the project sign off documentation for your GitLab Professional Services Statement of Work. 
 
-Please sign the document and return at your earliest convenience.  You may reply all with the word “accepted” and that will be accepted approval as well.
+Please sign the document and return at your earliest convenience.  Alternatively, you may reply all with the word “accepted” and that will be accepted as sufficient approval as well.
 
-If you have any questions, please feel free to reach out to me know.
+If you have any questions, please feel free to reach out to let me know.
 
 Thank you,
 [your signature]
