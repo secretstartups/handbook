@@ -153,6 +153,34 @@ PMs are able to refine their plans and strategy throughout the year, but since t
 major updates to the content that happen ad-hoc should also be communicated widely - for example,
 using the Product FGC meetings or other communication channels.
 
+#### Navigating cross-stage or cross-section direction pages 
+
+In some cases there may be direction pages that span multiple stages or sections. A direction page that summarizes the collective vision as well as all the contributors of that direction is critical to maintain transparency and adequate assignment of ownership. 
+
+There are several examples of these types of direction pages today: 
+
+1. [Monorepo Product Direction](/direction/monorepos/)
+1. [Versioned Dependencies Direction](direction/versioned-dependencies/)
+1. [AutoDevops Direction](/direction/configure/auto_devops/)
+1. [Deployment Direction](/direction/deployment/)
+
+The steps for creating and managing a cross-section or stage direction are: 
+
+1. Create a direction page merge request adding the direction page to the [GitLab direction directory](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/direction)
+1. Select the category change template in the merge request 
+1. Follow the process for [category changes](/handbook/product/categories/#changes) 
+1. Add [CODEOWNERS](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS) by adding an entry with the direction page link and the page DRI GitLab Handle. 
+1. Once approved, `@` all relevant product managers on the addition 
+
+Once the direction page has been added, there needs to be an assigned DRI for maintaining monthly updates for the page. The process for keeping the page updated are:
+
+1. Create a slack channel for the direction (e.g. #make_monorepos_lovable)
+1. Add all interested and contributing members to the channel 
+1. Each month open an MR to the direction page and update issue queries contributing to the vision 
+1. Assign the contributing PMs to the MR for review and contribution 
+1. Once all parties have contributed, merge the MR
+1. Share changes to the direction page in relevant slack channels. If material changes are made, consider recording a 5-minute overview of the direction page and share the MR as well as overview in #product, the relevant direction channel, or other slack channels as needed
+
 #### What makes a Product Direction issue?
 
 It's important to note here that your plan _is not_ simply a list of new features and innovation. Those are included for sure, but so are issues related to all of your [sensing mechanisms](/handbook/product/product-processes/#sensing-mechanisms).
