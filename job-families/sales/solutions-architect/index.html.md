@@ -13,7 +13,7 @@ To learn more, see the [Solutions Architect handbook](/handbook/customer-success
 
 ## Levels
 
-
+Level role responsibilities and requirements may be extended or overlayed by [Specialty SA Roles](#specialties) when they also apply to a team member.
 
 ### Performance Indicators
 
@@ -54,7 +54,6 @@ The Solutions Architect is a [grade 6](/handbook/total-rewards/compensation/comp
 
 #### Solutions Architect Requirements
 
-* Is extended and overlayed by [Specialty SA Roles](#specialties) when they also apply to a team member.
 * Technical presentation and communication skills
 * Experience with technical pre-sales or as a professional in the field of information technology
 * Knowledge of the end-to-end software development lifecycle
@@ -77,7 +76,7 @@ The Senior Solutions Architect is a [grade 7](/handbook/total-rewards/compensati
 
 #### Senior Solutions Architect Responsibilities
 
-* Extends the Associate Solutions Architect responsibilities and is extended and overlayed by [Specialty SA Roles](#specialties) when they also apply to a team member.
+* Extends the Associate Solutions Architect responsibilities.
 * Solve technical customer issues of broad scope and high complexity.
 * Provide mentorship for Solution Architecture team members and remain a current contributor to team-learning initiatives and activities.
 * Work cross-departmentally to find solutions to complex scenarios and integration issues.
@@ -106,7 +105,7 @@ The Staff Solutions Architect is a [grade 9](/handbook/total-rewards/compensatio
 
 #### Staff Solutions Architect Responsibilities
 
-* Extends the Senior Solutions Architect responsibilities and is extended and overlayed by [Specialty SA Roles](#specialties) when they also apply to a team member.
+* Extends the Senior Solutions Architect responsibilities.
 * Build and deliver high-value and reusable enablement content that measurably improves the team's effectiveness and execution.
 * Sustain mentorship for specific members of the Solutions Architecture team to improve our technical win rate and increase Net ARR.
 * Guide Solution Architect team members through complex customer opportunities and activity.
@@ -129,7 +128,7 @@ The Principal Solutions Architect is a [grade 9](/handbook/total-rewards/compens
 
 #### Principal Solutions Architect Responsibilities
 
-* Extends the Staff Solutions Architect responsibilities and is extended and overlayed by [Specialty SA Roles](#specialties) when they also apply to a team member.
+* Extends the Staff Solutions Architect responsibilities.
 * Create and maintain relationships with customer executives that contribute to large Net ARR deals and customer success.
 * Facilitate strategy formulation that takes into account the customer or partner's market, business processes, technology portfolio, culture and appetite for change.
 * Identify and surface business generation motions within areas of personal subject matter expertise that intersect with GitLab targeted technology sectors.
@@ -138,7 +137,7 @@ The Principal Solutions Architect is a [grade 9](/handbook/total-rewards/compens
 * Collaborate with product marketing, engineering, and management on market strategy that results in an improved win rate.
 * Exert influence on the overall objectives, key results, and other long-range measurable goals of the team.
 * Create reference implementations for 3rd party integrations into and effectively communicate the design and it's value to customers, partners and GitLab team members.
-* Service assistance requests by GitLab team members as a pre-sales and technical solutions authority for the top 25% of Net ARR opportunities.
+* Service assistance requests by GitLab team members and/or Partners as a pre-sales and technical solutions authority for the top ARR clients and top Net ARR opportunities.
 
 #### Principal Solutions Architect Requirements
 
@@ -246,6 +245,7 @@ The Senior Director, Solutions Architects is a [grade 11](/handbook/total-reward
 ---
 ## Specialties
 
+Specialty responsibilities and requirements may extend or overlay [Level roles](#levels) for a team member who has a specialty role.
 ### Channel Solution Architect
 
 #### Channel Solution Architect Responsibilities
@@ -272,7 +272,7 @@ The Senior Director, Solutions Architects is a [grade 11](/handbook/total-reward
 
 #### Alliances Solution Architect Responsibilities
 
-* ==Since this role deals primarily with partner relationships, any responsibilities in an individual's [Role Level](#levels) that reference customers can also be fulfilled by Partners. If responsibilities appear duplicated, the version in this description has priority due to being more specific to your role.==
+* Since this role deals primarily with partner relationships, any responsibilities in an individual's [Role Level](#levels) that reference customers can also be fulfilled by Partners. If responsibilities appear duplicated, the version in this description has priority due to being more specific to your role.
 * Engage in a technical consultancy role for Technology Alliance partners and joint customer opportunities with these partners.
 * Build and deliver solutions, reference implementationss and demos highlighting the Alliance partners' technologies as they work with GitLab.
 * Be a subject matter expert within an area of focus, with exceptional soft / public speaking skills and “hands on the keyboard depth”.
