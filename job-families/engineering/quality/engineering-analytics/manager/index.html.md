@@ -67,6 +67,44 @@ The Engineering Analytics Manager  is a [grade 8](/handbook/total-rewards/compen
 * Collaborate with GitLab’s Data team on data dependencies for Engineering.
 * Partner with GitLab’s Data team on training activities for Engineering Analysts.
 
+### Senior Manager, Engineering Analytics 
+
+#### Senior Manager, Engineering Analytics Job Grade 
+
+The Engineering Analytics Manager  is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Manager, Engineering Analytics Responsibilities 
+
+* Extends Manager, Engineering Analytics responsibilities 
+* Manage a team of people managers
+
+#### Senior Manager, Engineering Analytics Requirements
+* Extends Manager, Engineering Analytics requirements
+* Demonstrated experience managing people managers
+
+### Director, Engineering Analytics 
+
+#### Director, Engineering Analytics Job Grade 
+
+The Director, Engineering Analytics  is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Director, Engineering Analytics Responsibilities 
+
+* Extends Senior Manager, Engineering Analytics
+* Align the day-to-day execution of the Engineering Analytics team to the top objectives of the company. Consistently ensure top objectives are well communicated to the entire Engineering Analytics team.
+* Collaborate closely with director peers across the Engineering Division. 
+* Foster healthy conflict amongst the team to resolve issues quickly
+* Escalate issues only when all options are exhausted.
+* Define roles, grow, and hire your teams for what is needed from the business in the next 3-4 years.
+* Coach the Engineering Analytics team to work within our communication guidelines and lead by example.
+
+#### Director, Engineering Analytics Requirements
+
+* Extends Senior Manager, Engineering Analytics
+* Ability to effectively communicate and collaborate at the VP and E-group levels. 
+* Present at conferences and meet-ups in the Engineering Analytics domain.
+* Lead a team who provided analytic insight that informs the direction of the Engineering Division. 
+
 ## Performance Indicators 
 
 * Engineering PI Content MR Rate 
