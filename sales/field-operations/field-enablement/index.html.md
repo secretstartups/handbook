@@ -48,7 +48,7 @@ description: "The Field Enablement team's mission is to design and deliver effec
 1. Certification
      - [Field Certification Program](/handbook/sales/training/field-certification)
      - [Channel Partner Training, Certifications and Enablement](/handbook/resellers/training/)
-1. Revenue & Pipeline Acceleration Programs (coming soon)
+1. [Revenue & Pipeline Acceleration Programs](/handbook/sales/revenue-programs/)
 1. [Field Manager Development Program](/handbook/sales/field-manager-development/)
      - [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
 1. [Field Communications](/handbook/sales/field-communications/)
