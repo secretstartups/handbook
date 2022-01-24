@@ -18,11 +18,11 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2022-01-24 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/86))
 
+**Sales Ops: [FY22-Q4 Cannonball Run](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2636) Completed**
+
 **Customer Programs: [TAM-Assigned Customer Enablement Enrollment](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)**
 
-**Sales Ops:[FY22-Q4 Cannonball Run](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2636)**
-
-**Marketing Ops:[New Outreach Sequence Fields in SFDC](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2387**
+**Marketing Ops: [New Outreach Sequence Fields in SFDC](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2387)**
 
 ### 2021-12-06 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/76))
 
