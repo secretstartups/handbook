@@ -236,14 +236,17 @@ The COVID-19 Travel Working Group is comprised of the Covid Response Committee t
 
 Meeting Schedule:
 
-1. 2021-03-11
-1. 2021-04-13
-1. 2021-05-13
-1. 2021-06-10
-1. 2021-07-15 (rescheduled due to PTO conflicts)
-1. 2021-08-12
-1. 2021-09-09
-1. 2021-10-14
+1. 2022-02-17
+1. 2022-03-17
+1. 2022-04-21
+1. 2022-05-19
+1. 2022-06-16
+1. 2022-07-21
+1. 2022-08-18
+1. 2022-09-15
+1. 2022-10-20
+1. 2022-11-17
+1. 2022-12-15
 
 These meetings are subject to change and we will continue to evaluate the frequency of them. The Principal Internal Communications manager is responsible for drafting any shareable updates as a result of the meeting, which include MRs and messaging around changes to the travel guidance on this page.
 
@@ -257,9 +260,9 @@ Where Can GitLab Team Members Travel: While some areas of the world have decreas
 
 Required of/by Team Members Prior to Traveling:
 
-### As of 2021-12-29, all business sponsored travel has been paused through the end of January 2022 due to the continued spread of COVID-19. The COVID-19 Travel Working Group will reconvene in January 2022 to review the travel policy to determine if the pause will continue for a longer period of time.  Please do not request or plan any business travel at this time regardless of travel dates. 
+As of 2021-12-29, all business sponsored travel has been paused through the end of February 2022 due to the continued spread of COVID-19. The COVID-19 Travel Working Group will reconvene in February 2022 to review the travel policy to determine if the pause will continue for a longer period of time.  Please do not request or plan any business travel at this time regardless of travel dates. 
 
-### If a travel exception is requested due to a customer hardship, please complete the [Travel Exception Form](https://docs.google.com/forms/d/e/1FAIpQLSe_FDsWXyOr0gFlKw_jTJwlElBHaS0b7bSTKQsch6sgyYUvOA/viewform?vc=0&c=0&w=1&flr=0).  Each request must be routed to a Senior Leader (Sr. Director/VP) within your function who, upon approval, must forward the request to the e-Group member.  The e-Group member will present the request to the COVID-19 Working Group for final approval.   
+If a travel exception is requested due to a customer hardship, please complete the [Travel Exception Form](https://docs.google.com/forms/d/e/1FAIpQLSe_FDsWXyOr0gFlKw_jTJwlElBHaS0b7bSTKQsch6sgyYUvOA/viewform?vc=0&c=0&w=1&flr=0).  Each request must be routed to a Senior Leader (Sr. Director/VP) within your function who, upon approval, must forward the request to the e-Group member.  The e-Group member will present the request to the COVID-19 Working Group for final approval.   
 
 - At this time, all business travel requires pre-approval and only fully vaccinated team members may travel for business if their request is approved. Except where an exemption or accommodation may apply, non-vaccinated team members are currently not allowed to travel. Being fully vaccinated means that you are at least two weeks past your final vaccination date. The COVID-19 Travel Working Group also strongly recommends that team members eligible for booster shots to get their booster shots consistent with recommendations from the CDC (https://www.cdc.gov/coronavirus/2019-ncov/vaccines/booster-shot.html?s_cid=11706:cdc%20covid%20booster%20shot%20guidelines:sem.ga:p:RG:GM:gen:PTN:FY22) and WHO (https://www.who.int/news/item/04-10-2021-interim-statement-on-booster-doses-for-covid-19-vaccination).
 - Business travel requests should be made for any mode of travel (including personal vehicles for local travel and local public transportation) where team members will be meeting co-workers, customers and/or partners in person.
