@@ -107,45 +107,45 @@ The following table represents capabilities of a mature Enterprise Data Platform
 | [Data Taxonomy](https://www.nielsen.com/us/en/insights/resource/2019/why-you-need-a-data-taxonomy/)                           | [Data Catalog](https://www.alation.com/blog/what-is-a-data-catalog/)                               | [Data Portal](https://dataportals.org/)                                                             |
 
 ### Data Platform FY23 initiatives
-
-The following sections describe the Data Platform FY23 initatives
-
+ 
+The following sections describe the Data Platform FY23 initiatives.
+ 
 #### Data Observability
-
-Data is landed from different source systems in the `raw` data layer and processed/transformed in the `prep` and `prod` before it becomes available to business users via Sisense, data pumps,queryable in Snowflake and other ways. All transformations are performed by dbt. All the data that is in `raw` changes over time, because data is changed in the source systems and therefore also needs to processed downstream towards the `prep` and `prod` layer.
-
+ 
+Data is landed from different source systems in the `raw` data layer and processed/transformed in the `prep` and `prod` before it becomes available to business users via Sisense, data pumps,queryable in Snowflake and other ways. All transformations are performed by dbt. All the data that is in `raw` changes over time, because data is changed in the source systems and therefore also needs to be processed downstream towards the `prep` and `prod` layer.
+ 
 ```mermaid
 graph LR
-    A[Source A] 
-    B[Source B]
-    C[Source C]
-    RAW[Raw]
-    PREP[Prep]
-    PROD[Prod]
-    A-->RAW
-    B-->RAW
-    C-->RAW
-    RAW-->PREP
-    PREP-->PROD
+   A[Source A]
+   B[Source B]
+   C[Source C]
+   RAW[Raw]
+   PREP[Prep]
+   PROD[Prod]
+   A-->RAW
+   B-->RAW
+   C-->RAW
+   RAW-->PREP
+   PREP-->PROD
 ```
-
-Currently there are about 30 [source](/handbook/business-technology/data-team/platform/#data-sources) extracted: 
-- Data is landed in 1900 different tables 
-- There are over 1700 dbt models  
+ 
+Currently there are about 30 [source](/handbook/business-technology/data-team/platform/#data-sources) extracted:
+- Data is landed in 1900 different tables
+- There are over 1700 dbt models 
 - Multiple different end points (including i.e. Sisense, Data Pump, Data Spigot, Qualtrics, Snowflake GUI)
-
-Currently there is monitoring available to check failures in the process, from extracting until making it available for the different end points. This is done via our [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) with defined tests in [dbt](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) and our monitored in our [triage](/handbook/business-technology/data-team/how-we-work/triage/) process.  
-
-Data observability is a methodology to actively monitor data sets inside a data platform for the existing health status. When the data is healthy, data is trusted and can be used in decision making process, without facing the risk of making a decision on the wrong information. 
-
-Currently the Data Team is looking beyond our current technologies, to see if there is tooling available that can help us in this process. 
-
+ 
+Currently there is monitoring available to check failures in the process, from extracting until making it available for the different end points. This is done via our [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) with defined tests in [dbt](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) and monitored in our [triage](/handbook/business-technology/data-team/how-we-work/triage/) process. 
+ 
+Data observability is a methodology to actively monitor data sets inside a data platform for the existing health status. When the data is healthy, data is trusted and can be used in the decision making process, without facing the risk of making a decision on the wrong information.
+ 
+Currently the Data Team is looking beyond our current technologies, to see if there is tooling available that can help us in this process.
+ 
 - It helps us to find anomalies that we are not actively searching for (find the unknown).
 - It reduces costs of implementing new tests.
 - It reduces false positives and false negatives.
 - It gives a clear overview which we can communicate with business stakeholders -> impact for them.
-
-In FY23, it will continue to take next steps by exploring new technologies to support the data team in observing the data and finding any anomalies in the data for business users does.
+ 
+In FY23, the Data Team will continue to take next steps by exploring new technologies to support the data team in observing the data and finding any anomalies in the data for business users.
 
 ## Data Value Pyramid
 
