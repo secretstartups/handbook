@@ -32,7 +32,7 @@ graph LR
     ftm[/Fulltime Team Member/];
 
     click int "/handbook/engineering/internships/"
-    click ftm "/jobs/careers/"
+    click ftm "/jobs/"
 ```
 
 ## Partners
