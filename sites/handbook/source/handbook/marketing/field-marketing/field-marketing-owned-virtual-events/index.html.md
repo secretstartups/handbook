@@ -1043,7 +1043,7 @@ Base Lab Project (example below):
 
 For details on this process, please reference [this section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#rescheduling-a-webcast).
 
-# Self-Service with or without Promotion
+# [Self-Service with or without Promotion](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#self-service-with-or-without-promotion)
 
 ## Ownership of Self-Service Tasks
 
