@@ -425,7 +425,7 @@ Don’t take the entire experience too seriously or you’ll bleed the presentat
 
 Therefore it is good to allow your natural personality to shine through.
 This will refresh the presentation with an air of genuine spirit, much needed when your audience is remote and cannot interact with you in person.
-Remember, if you sound like you’re enjoying hosting the meeting, the audience is more likely to enjoy listening to it.
+Remember, if you sound like you’re enjoying hosting the meeting, the audience is more likely to enjoy listening to it. Find other tips for increasing user engagemnet from our [live speaker series with Lorraine Lee on all-remote video and presentation tips](/handbook/communication/#video-and-presentation-tips-with-lorraine-lee)
 
 ### Provide links rather than sharing while you present or edit
 
