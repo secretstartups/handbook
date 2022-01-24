@@ -23,7 +23,7 @@ For the impatient let's have the maybe shortest possible threat modeling guide:
   * Where are zones of different trust levels and where are the trust boundaries between those?
 * Take an attackers perspective and assume worst cases to define the threats.
   * Try to order by most likely and impactful threats first.
-* Document the threats and map them back to your feature. Where are they considered / mitigated?
+* Document the threats and map them back to your feature. Create follow-up issues with directly responsible individuals and due dates.
 
 ### What is Threat Modeling
 
@@ -113,24 +113,36 @@ Hence the name `STRIDE`. While we do not use the formal STRIDE framework, we can
 
 So spoofing in the Kubernetes Agent example might manifest in one `agentk` being able to impersonate another. The example from above "The communication between `agentk` and `kas` might be unencrypted" would for instance fit in the information disclosure threat class. It's not a matter of thinking about every possible single thing which might go wrong here. One could easily come up with an overwhelming amount of potential and rather obscure threats, but that might be very distracting and we would miss the point of the threat model. We primarily want to aim for those threats which seem likely to occur and those which are really impactful when they occur.
 
-#### What's next?
+#### Consider both .com and self-managed
+
+Make sure to think a bit out of the box: a certain feature might work well on `GitLab.com` but cause trouble and outages in some self-managed environment which is set up quite differently than our SaaS platform. This can be a threat as well and it's caused due to some environmental change for our feature. This in conclusion means that we should always consider the environment our feature is being used in. That environment might change over time or in different deployment scenarios, and it might not always be friendly and trusted in the first place.
+
+### What's next?
 
 Once the initial steps have been done and we have a first set of well thought out threats we can now use this list during development of our feature to mitigate what we've deemed to be the threats and worst case scenarios. 
 
-Here again it's really fruitful to think a bit out of the box: a certain feature might work well on `GitLab.com` but cause trouble and outages in some self-managed environment which is set up quite differently than our SaaS platform. This can be a threat as well and it's caused due to some environmental change for our feature. This in conclusion means that we should always consider the environment our feature is being used in. That environment might change over time or in different deployment scenarios, and it might not always be friendly and trusted in the first place.
+#### Documenting the Threat Model
 
-#### Documenting the process
+The [Stable Counterpart](/handbook/engineering/security/security-engineering-and-research/application-security/stable-counterparts.html) should document the threat model and the results. The threat model will be added to [the AppSec Threat Models repository](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models)(internal link). This also includes templates for threat modeling that anyone can use in issues or epics.
 
-To document our threat model and the results we can keep it simple as well. What's really convenient is an overview table like so:
+#### Ensure Ownership of Threats
 
-| Threat                                                       | Comments                                                     | Test                                                         |
+Consider creating an issue with a living description which summarises the threat model each time its updated, and links off to issues for each threat, like so:
+
+| Threat                                                       | Comments                                                     | Test / Issue                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Unencrypted communication between `agentk` and `kas`         |                                                              | ✅ grpc communication is done over TLS encrypted Websockets |
-| `agentk` might be able to impersonate another cluster's `agentk` |                                                              | TBD - review authorization                                   |
-| Attacks on `gitaly` level                                    | `agentk` has indirect access to `gitaly` via `kas`, this might be abused for injections or [IDOR](https://en.wikipedia.org/wiki/Insecure_direct_object_reference) attacks | TBD - check data flows from `agentk` towards `gitaly`        |
+| Unencrypted communication between `agentk` and `kas`         |                                                              | ✅ grpc communication is done over TLS encrypted Websockets (see #123) |
+| `agentk` might be able to impersonate another cluster's `agentk` |                                                              | Issue #124 to review authorization                                   |
+| Attacks on `gitaly` level                                    | `agentk` has indirect access to `gitaly` via `kas`, this might be abused for injections or [IDOR](https://en.wikipedia.org/wiki/Insecure_direct_object_reference) attacks | Issue #125 - check data flows from `agentk` towards `gitaly`        |
 
-But really anything is fine as long as you write down the identified threats and potential mitigations as well as the needed next steps. This will help your fellow team members[^1] to gain a better understanding of the feature in general, in terms of risks it might expose, how to use it and how to **NOT** use it.
+Each threat should have an Issue created where a proposal to avoid, prevent, detect, or recover from the threat is discussed by the team. These issues should have an Assignee and a Milestone or Due Date. Initially the Assignee should be the Project Manager, who will prioritise and re-assign the issue as appropriate. The Stable Counterpart's role is to help create that proposal, to help the team understand and address the issue, and to review how the threat is mitigated pre-merge.
 
-There's also a [repository](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models) with templates for threat modeling you can use in issues or epics. 
+Also remember to consider making these issues public if they are not describing a currently implemented risk; issues that discuss how to improve upon the security posture of an implementation can be made [public by default](https://about.gitlab.com/handbook/communication/#internal).
 
-[^1]: All the team members, not only those in the security department which torture you with threat modeling
+#### Iterating 
+
+A threat model is never really done. The team should be familiar with the threat model and request another App Sec Review or an update to the threat model when new features or changes arise. The Stable Counterpart should work closely with the team to also identify when a new threat model is needed.
+
+#### Do It Yourself
+
+Much of the language in this guide describes how Application Security Stable Counterparts should threat model with teams, but that doesn't have to be the case! Security is everyone's responsibility and __you__ can threat model too! Reach out to `#sec-appsec` on Slack if you need help.
