@@ -72,7 +72,8 @@ All content is stored in the [/content](https://gitlab.com/gitlab-com/marketing/
 
 ### How to Edit Content
 
-Edit `yml` content directly in the browser using [GitLab Web Editor](https://docs.gitlab.com/ee/user/project/repository/web_editor.html).
+1. Edit content directly in the browser using [GitLab Web Editor](https://docs.gitlab.com/ee/user/project/repository/web_editor.html).
+1. Alternatively, set up a local development environment and use the [Nuxt content editing tools](https://content.nuxtjs.org/) on your machine. Then commit your changes and make a merge request in GitLab.
 
 # Developer Experience 
 
