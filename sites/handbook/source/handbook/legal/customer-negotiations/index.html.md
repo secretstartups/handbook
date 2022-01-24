@@ -101,7 +101,9 @@ For any other channel partner legal request, please follow the [standard legal r
 - W9 is located on the Finance [Forms page](https://about.gitlab.com/handbook/finance/#forms)
 - Request Insurance Certificate on [Legal Team Page](https://about.gitlab.com/handbook/legal/#4-requests-for-insurance-certificate)
 
-2.  If there are questions / elements that are not found in the Company Information Page, the Sales Rep should engage Deal Desk to organize requests of finance and tax. Information regarding contacting Deal Desk and overall process can be found at the [Sales Order Process Page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
+1.  If there are questions / elements that are not found in the Company Information Page, the Sales Rep should engage Deal Desk to organize requests of finance and tax. Information regarding contacting Deal Desk and overall process can be found at the [Sales Order Process Page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms).
+
+2.  If there are Security related questions / elements that are not found at the [GitLab Trust Center Page](https://about.gitlab.com/security/) or the [GitLab Customer Assurance Package Page](https://about.gitlab.com/security/cap/), the Sales Rep should engage the Field Security Team per their process, which can be found at [GitLab's Customer Assurance Activities Page](https://about.gitlab.com/handbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html).
 
 3. **ONLY OPEN A LEGAL REQUEST IF:** There is a specific legal question / element being requested within the Vendor Form.
 
