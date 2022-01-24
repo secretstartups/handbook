@@ -198,7 +198,7 @@ to change that.
 
 There are two ways to create the initial monthly release post in the [about.GitLab.com repository](https://gitlab.com/gitlab-com/www-gitlab-com): a) using a script and b) manually. The script does exactly what you would manually, but automates the process.
 
-##### First way: using a script
+##### First way: using a script (**preferred** approach)
 
 1. Make sure you have [set everything up to contribute to the about.GitLab.com repository](/handbook/git-page-update/).
 1. In a terminal (locally), run the task:
@@ -216,7 +216,7 @@ There are two ways to create the initial monthly release post in the [about.GitL
 
 You can find this by going to the www-gitlab.com project and selecting Merge requests. You will be prompted to create the merge request.
 
-##### Second way: manually
+##### Second way: manually (backup approach if the script above isn't working)
 
 The manual way can be done either locally or using the GitLab Web IDE:
 
