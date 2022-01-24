@@ -18,7 +18,7 @@ This workflow covers the steps to request an automation for any L&R related task
 
 ## Why ?
 
-As per our [efficiency](https://about.gitlab.com/handbook/values/#efficiency) value:
+As per our [efficiency](/handbook/values/#efficiency) value:
 > We care about working on the right things, not doing more than needed, and not duplicating work. This enables us to achieve more progress, which makes our work more fulfilling
 
 ## Scope

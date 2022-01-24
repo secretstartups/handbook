@@ -22,6 +22,8 @@ Before we add subscription management contact, we need **one** of the following,
 1. Recent invoice (last 12 months)
 1. Copy of last loaded license (Self-Managed only)
 
+**NOTE:** We do not accept vouches from Account Owners as proof of a customer's association to a subscription.
+
 Please consider using the [Change Customers Portal Contact](https://gitlab.zendesk.com/agent/admin/macros/360028045239) macro to ask for this information. Be sure to copy the existing CustomersDot contact on the reply.
 
 Once we have received one of the above, we can proceed to change/add a subscription management contact:

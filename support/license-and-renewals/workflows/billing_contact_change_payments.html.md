@@ -101,7 +101,7 @@ GitLab provides subscriptions on an annual basis which are not eligible for term
 1. Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to advise and process if relevant. They will reply to the customer once done.
 
 Note: we cannot do partial refunds, so when a refund is requested, the whole
-subscription will have to be cancelled and refunded. See [Renewal reversal](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#renewal-reversal) for accidental renewal scenarios.
+subscription will have to be cancelled and refunded. See [Renewal reversal](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#renewal-reversal) for accidental renewal scenarios.
 
 ## Invoice
 

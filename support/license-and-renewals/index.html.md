@@ -30,7 +30,7 @@ are:
    or [trial](https://gitlab.com/gitlab-com/internal-audit/internal-audit/-/issues/212)
    licenses for SOX compliance purposes.
 1. [Business-critical priorities](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/96#note_384808050)
-   mean that the [Fulfillment product section](https://about.gitlab.com/handbook/product/categories/#fulfillment-section)
+   mean that the [Fulfillment product section](/handbook/product/categories/#fulfillment-section)
    will not have sufficient capacity to address and resolve major pain points
    within the next 12 months.
 1. The effort to stand up an entirely new team would be considerable; Support
@@ -48,7 +48,7 @@ are:
 
 ### Support Stable Counterparts
 
-We have [three Support Stable Counterparts who work with the Fulfillment section](https://about.gitlab.com/handbook/product/categories/#fulfillment-section).
+We have [three Support Stable Counterparts who work with the Fulfillment section](/handbook/product/categories/#fulfillment-section).
 
 ### Direction
 
@@ -128,7 +128,7 @@ When creating an individual/bulk access request, use the following information:
 {:.no_toc}
 
 Zuora is considered the [single source of truth](/handbook/handbook-usage/#single-source-of-truth)
-or [system of record](https://about.gitlab.com/handbook/handbook-usage/#system-of-record)
+or [system of record](/handbook/handbook-usage/#system-of-record)
 for many subscription and renewal-related items, such as product SKUs, subscriptions and invoices
 (see the [Transition to Zuora as the SSOT issue](https://gitlab.com/groups/gitlab-org/-/epics/4664)
 for more information).
@@ -186,10 +186,10 @@ stage, we can see that the team owns responsibilities that align with some of
 the types of requests we generally see in the queue, in particular the
 `Conversion` group.
 
-- Activation Group: [New Group Namespace Verify Stage Adoption Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate)
-- Adoption Group: [New Group Namespace Create Stage Adoption Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
-- Expansion Group: [New Group Namespace with at least two users added](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-with-at-least-two-users-added)
-- Conversion Group:[New Group Namespace Trial to Paid Conversion Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-trial-to-paid-conversion-rate)
+- Activation Group: [New Group Namespace Verify Stage Adoption Rate](/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate)
+- Adoption Group: [New Group Namespace Create Stage Adoption Rate](/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
+- Expansion Group: [New Group Namespace with at least two users added](/handbook/product/performance-indicators/#new-group-namespace-with-at-least-two-users-added)
+- Conversion Group:[New Group Namespace Trial to Paid Conversion Rate](/handbook/product/performance-indicators/#new-group-namespace-trial-to-paid-conversion-rate)
 
 ## What is **not in the scope** of L&R work in Support?
 

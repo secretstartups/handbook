@@ -5,6 +5,8 @@ category: CustomersDot
 description: How to use the mechanizer for L&R requests. 
 ---
 
+{::options parse_block_html="true" /}
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -14,6 +16,17 @@ description: How to use the mechanizer for L&R requests.
 ## Overview
 
 This workflow details how to use the various automated forms that utilize the [Mechanizer](https://gitlab.com/gitlab-com/support/toolbox/mechanizer) for GitLab.com account related tasks.  The forms may be found in [hosted on Gitlab Pages here](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/) and team members should have access.
+
+<div class="panel panel-gitlab-orange">
+**Mechanizer Deprecation Notice**
+{: .panel-heading #mechanizer-notice}
+<div class="panel-body">
+
+The Mechanizer tool is soon to be deprecated with the tool's features being migrated to CustomersDot.
+You can follow the progress of this migration in [this epic](https://gitlab.com/groups/gitlab-org/-/epics/6828)
+
+</div>
+</div>
 
 ## Existing Automations
 

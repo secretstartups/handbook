@@ -49,9 +49,11 @@ While handling the subscription provisioning requests, we might encounter a 502 
 
 - We can verify that by [retrieving the token information](https://docs.gitlab.com/ee/api/oauth2.html#retrieving-the-token-information)(grab the `access_token` from the customer portal and call the API endpoint to retrieve the `resource_owner_id` attribute, which should be the same as the  GitLab.com `userID`).
 
-To fix this, we should **completely unlink the GitLab.com account with the customer portal** account using the [unlink_customer console function](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html#unlink_customer)
+To fix this, we should **completely unlink the GitLab.com account with the customer portal** account using the [unlink_customer console function](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html#unlink_customer)
 
 ## Force Associate SaaS Subscription  
+
+> <i class="fas fa-exclamation-triangle color-orange"></i> **NOTE**: Soon to be [deprecated](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#mechanizer-notice)
 
 While handing the subscription provisioning requests, we'll face some cases where it's not possible to associate the subscription by following the normal procedure(the workflow mentioned above) using the customer portal admin 
 
@@ -69,6 +71,8 @@ Use the [force Associate subscription form](https://gitlab-com.gitlab.io/support
 Please note: when using the force associate tool, ensure that a gitlab.com user (with owner role in the relevant namespace) has been linked to the customersdot account that the subscription is associated with. If an association is made, but no gitlab.com user is linked, then any subsequent changes to the subscription will either not reflect on the namespace in gitlab.com or it will downgrade the namespace to Free.
 
 ## Clear Subscription
+
+> <i class="fas fa-exclamation-triangle color-orange"></i> **NOTE**: Soon to be [deprecated](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#mechanizer-notice)
 
 While associating the subscription with a namespace if there are any errors(example: errors like: `unable to associate the subscription as the destination namespace is already associated with a subscription`), we can unlink the subscription associated with that namespace.
 
