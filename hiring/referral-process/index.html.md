@@ -82,7 +82,7 @@ All GitLab Team Members can submit a referral by either submitting them directly
 1. Ensure that the created issue is a [confidential issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html).
     * If you **don't** have the ability to mark the Issue as `Confidential`, please post in the `#talent-acquisition-team` Slack channel and we'll follow-up in a DM.
 
-To see what positions are available to submit an external candidate for please visit the [Careers at GitLab](https://about.gitlab.com/jobs/careers/) page.
+To see what positions are available to submit an external candidate for please visit the [Careers at GitLab](https://about.gitlab.com/jobs/) page.
 
 **Things to note:**
 
