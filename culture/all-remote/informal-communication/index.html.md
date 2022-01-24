@@ -273,6 +273,8 @@ You can also directly reach out to your fellow GitLab team members to schedule a
 
 _In the year 2020, Donut reported 537 people connected through 2042 coffee chats at GitLab, compared to 367 chats in similar-sized companies._
 
+_In the year 2021, Donut reported 846 people connected through 3210 coffee chats at Gitlab, compared to 372 chats in similar-sized companies._
+
 ### GitLab Team Member Mixer Calls
 Similar to a coffee chat, a "[Gitlab Team Member](/handbook/communication/top-misused-terms/) Mixer" call aims to help team members meet more folks from other groups or functions that they might not otherwise get to spend a lot of time working or interfacing with.
 
