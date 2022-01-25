@@ -300,7 +300,7 @@ Steps:
 
 #### Tracking informal feedback
 
-It also can be very helpful to capture informal feedback from team members. For example, you might want to preserve feedback from slack since these messages are only [retained for 90 days](/handbook/communication/#slack). The easiest way to do this is to save screenshots to a separate directory on your drive.
+It also can be very helpful to capture feedback from team members. For example, you might want to preserve feedback from slack since these messages are only [retained for 90 days](/handbook/communication/#slack). The easiest way to do this is to save screenshots to a separate directory on your Google drive.
 
 ### Health Tracker: Growth Plan
 
