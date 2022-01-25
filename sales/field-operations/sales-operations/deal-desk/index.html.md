@@ -87,7 +87,7 @@ The SLAs below are applicable (especially for contract resets and ramp deals) if
 
 [Cases / Average First Response](https://gitlab.my.salesforce.com/00O4M000004edoT)
 
-### SLA for EoA Ramp Deal Requests
+##### SLA for EoA Ramp Deal Requests
 
 The Deal Desk team will respond to E0A Ramp requests as quickly as possible. However, due to the complexity involved in building ramp deals, the SLA for an EoA Ramp Deal Order Form creation is as follows:
 
