@@ -32,6 +32,7 @@ The Contributor Success Engineering Manager manages a team of full-stack enginee
 * Computer science education or equivalent experience
 * Proficiency in the English language, with excellent written and oral communication skills
 * Experience leading a team following an iterative, agile development process. 
+
 ### Nice to haves
 * Experience in a peak performance organization
 * BS or MS degree in Computer Science
@@ -63,6 +64,44 @@ The Contributor Success Engineering Manager  is a [grade 8](/handbook/total-rewa
 * Be a permanent member of GitLab MR Coaches
 * Own Project Management of Contributor Success team stand-up and agile processes
 * Represent GitLab in Contributor Success events and processes
+
+### Senior Manager, Contributor Success 
+
+#### Senior Manager, Contributor Success Job Grade 
+
+The Senior Manager, Contributor Success  is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Manager, Contributor Successs Responsibilities 
+
+* Extends Manager, Contributor Success responsibilities 
+* Manage a team of people managers
+
+#### Senior Manager, Contributor Success Requirements
+* Extends Manager, Contributor Success requirements
+* Demonstrated experience managing people managers
+
+### Director, Contributor Success 
+
+#### Director, Contributor Success Job Grade 
+
+The Director, Contributor Success  is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Director, Contributor Success Responsibilities 
+
+* Extends Senior Manager, Contributor Success
+* Align the day-to-day execution of the Contributor Success team to the top objectives of the company. Consistently ensure top objectives are well communicated to the entire Contributor Success team.
+* Collaborate closely with director peers across the Engineering Division and wider GitLab team. 
+* Foster healthy conflict amongst the team to resolve issues quickly.
+* Escalate issues only when all options are exhausted.
+* Define roles, grow, and hire your teams for what is needed from the business in the next 3-4 years.
+* Coach the Contributor Success team to work within our communication guidelines and lead by example.
+
+#### Director, Contributor Success Requirements
+
+* Extends Senior Manager, Contributor Success
+* Ability to effectively communicate and collaborate at the VP and E-group levels. 
+* Present at conferences and meet-ups in the Contributor Success domain.
+* Lead a team who have built a world-class contribution success program. 
 
 
 ### Performance Indicators
