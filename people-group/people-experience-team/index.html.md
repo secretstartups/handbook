@@ -24,8 +24,7 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 | Date    | Reason |
 |------------------- | --------------|
-| 2021-12-27 | Family and Friends Day
-| 2022-01-03 | Family and Friends Day
+| 2022-02-25 | Family and Friends Day
 | 2022-04-18 | Easter Holiday
 
 
