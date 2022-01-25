@@ -114,13 +114,13 @@ If you did not include the Allocadia ID in the description, you'll need to updat
 
 ### Step 5: Create List Upload Request Issue
 - Create List upload request issue to have these leads imported in.
-    - Issue template: **TBC**
+    - [Create issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=mdf-list-upload))
     - Please follow the [list import criteria and guidelines](/handbook/marketing/marketing-operations/list-import/#import-methods-and-their-sla)
 - NOTE: Leads should **NOT** be marked as `opt-in` unless they specifically opted in to **GitLab** emails.
 
 ### Step 6: Load List and Activate Smart Campaign
 - Once list is loaded, loader should go to the `01 - Processing` campaign and `Run Once`
-    - Campaign will assign leads to CAM and assign to the partner you specified in step 3
+    - Campaign will assign leads to the partner you specified in step 3 in Vartopia
 
 
 
