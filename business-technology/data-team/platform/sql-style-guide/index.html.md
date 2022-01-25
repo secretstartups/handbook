@@ -14,9 +14,9 @@ description: "A set of conventions and guidelines for writing SQL at GitLab"
 
 ## SQL Style Guide
 
-This style guide is generally intended for the Data Team and those developing within dbt.  If you are not on the Data Team or you are developing SQL outside of dbt, keep in mind that the linting tools may be more difficult to apply, but you are welcome to follow the guidance given within this guide.
+This guide establishes our standards for SQL and are enforced by the SQLFluff linter and by code review. The target code changes that this stile guide apply to are those made using dbt. 
 
-We use SQLFluff to lint the SQL we write.  While it will provide guidelines on the structure and general format of the SQL, there are additional conventions that we need to enforce.
+If you are not on the Data Team or you are developing SQL outside of dbt, keep in mind that the linting tools may be more difficult to apply, but you are welcome to follow the guidance given within this guide.
 
 ### SLQFluff
 
@@ -24,6 +24,12 @@ SQLFLuff is a SQL linter that works with templating tools like dbt.  We use it t
 
 ```console
 $ sqlfluff lint models/path/to/file/file-to-lint.sql
+```
+
+A dbt command can also be used to get a list of files to lint:
+
+```console
+$ sqlfluff lint $(dbt list --model model_name --output path)
 ```
 
 If you are writing SQL that is not templated using dbt then you can install and use SQLFluff directly as it is a stand alone python package.
@@ -37,6 +43,14 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
 - [SQLFluff Documentation](https://docs.sqlfluff.com/en/latest/index.html)
 - [SQLFluff Default configuration](https://docs.sqlfluff.com/en/latest/configuration.html#default-configuration)
+
+#### Changes from the default configuration
+
+- selecting the dialect to snowflake
+- selecting the templater to be dbt
+- selecting the tab size to be 2 spaces
+- selecting the max line length to be 100
+- selecting Key words and Functions to always be upper case
 
 
 ### General Guidance
@@ -54,7 +68,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
 - No tabs should be used - only spaces. Your editor should be setup to convert tabs to spaces - see our [onboarding template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md) for more details.
 
-- Wrap long lines of code, more than ~80 charters, to a new line.
+- Wrap long lines of code, between 80 and 100, to a new line.
 
 - Do not use the `USING` command in joins because it produces inaccurate results in Snowflake. Create an account to view the [forum discussion on this topic.](https://community.snowflake.com/s/question/0D50Z00008WRZBBSA5/bug-with-join-using-)
 
@@ -91,7 +105,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 - An ambiguous filed name such as `id`, `name`, or `type` should always be prefixed by what it is identifying or naming:
 
     ```sql
-
+    -- Preferred
     SELECT
         id    AS account_id,
         name  AS account_name,
@@ -100,6 +114,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
     -- vs
 
+    -- Not Preferred
     SELECT
         id,
         name,
@@ -111,12 +126,14 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 - All field names should be [snake-cased](https://en.wikipedia.org/wiki/Snake_case):
 
     ```sql
+    -- Preferred
     SELECT
         dvcecreatedtstamp AS device_created_timestamp
         ...
 
     -- vs
 
+    -- Not Preferred
     SELECT
         dvcecreatedtstamp AS DeviceCreatedTimestamp
         ...
@@ -125,6 +142,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 - Boolean field names should start with `has_`, `is_`, or `does_`:
 
     ```sql
+    -- Preferred
     SELECT
         deleted AS is_deleted,
         sla     AS has_sla
@@ -133,6 +151,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
     -- vs
 
+    -- Not Preferred
     SELECT
         deleted,
         sla,
@@ -159,10 +178,10 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
 ### Reference Conventions
 
-- Avoid table aliasing to improve the readability of the query:
+- When joining tables and referencing columns from both, prefer to reference the full table name instead of an alias. When the table name is long (~20), try to rename the CTE if possible, and lastly consider aliasing to something descriptive:
 
     ```sql
-    
+    -- Preferred
     SELECT
         budget_forecast_cogs_opex.account_id,
         date_details.fiscal_year,
@@ -179,6 +198,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
  
     -- vs 
 
+    -- Not Preferred
     SELECT
         a.account_id,
         b.fiscal_year,
@@ -197,12 +217,14 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
 
     ```sql
+        -- Preferred
         SELECT 
             "First_Name_&_" AS first_name,
             ...
 
         -- vs
 
+        -- Not Preferred
         SELECT 
             FIRST_NAME AS first_name,
             ...
@@ -212,12 +234,14 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 - Prefer accessing JSON using the [bracket syntax](https://docs.snowflake.com/en/user-guide/querying-semistructured.html#bracket-notation).
 
     ```sql
+        -- Preferred
         SELECT
             data_by_row['id']::bigint as id_value
             ...
         
         -- vs
 
+        -- Not Preferred
         SELECT
             data_by_row:"id"::bigint as id_value
             ...
@@ -226,6 +250,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 - Prefer explicit join statements.
 
     ```sql
+        -- Preferred
         SELECT *
         FROM first_table
         INNER JOIN second_table
@@ -233,6 +258,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
         -- vs
 
+        -- Not Preferred
         SELECT *
         FROM first_table,
             second_table
@@ -242,9 +268,10 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
 ### Common Table Expressions (CTEs)
 
-- Prefer CTSs over sub-queries as [CTEs make SQL more readable and are more performant](https://www.alisa-in.tech/post/2019-10-02-ctes/):
+- Prefer CTEs over sub-queries as [CTEs make SQL more readable and are more performant](https://www.alisa-in.tech/post/2019-10-02-ctes/):
 
     ```sql
+    -- Preferred
     WITH important_list AS (
 
         SELECT DISTINCT
@@ -263,6 +290,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
     -- vs   
 
+    -- Not Preferred
     SELECT
         primary_table.column_1,
         primary_table.column_2
@@ -299,12 +327,14 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 - Prefer `IFF` to a single line `CASE` statement:
 
     ```sql
+    -- Preferred
     SELECT 
         IFF(column_1 = 'foo', column_2,column_3) AS logic_switch,
         ...
 
     -- vs 
 
+    -- Not Preferred
     SELECT
         CASE
             WHEN column_1 = 'foo' THEN column_2
@@ -315,10 +345,13 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 - Prefer `IFF` to selecting a boolean statement:
 
     ```sql
+    -- Preferred
     SELECT 
         IFF(amount < 10,TRUE,FALSE) AS is_less_than_ten,
         ...
     -- vs
+
+    -- Not Preferred
     SELECT 
         (amount < 10) AS is_less_than_ten,
         ...
@@ -327,6 +360,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 - Prefer simplifying repetitive `CASE` statements where possible:
 
     ```sql
+    -- Preferred
     SELECT
         CASE field_id
             WHEN 1 THEN 'date'
@@ -340,6 +374,7 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 
     -- vs 
 
+    -- Not Preferred
     SELECT 
         CASE
             WHEN field_id = 1 THEN 'date'
@@ -361,6 +396,8 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 - Be mindful of date part interval when using the [`DATEDIFF`](https://docs.snowflake.net/manuals/sql-reference/functions/datediff.html) function as the function will only return whole interval results.
 
 ### Example Code
+
+This example code has been processed though SQLFluff linter and had the style guide applied.
 
 ```sql
 
@@ -391,10 +428,10 @@ some_cte AS (
 
 ),
 /*
-This a very long comment: Lorem ipsum dolor sit amet, consectetur adipiscing
-elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-ut aliquip ex ea commodo consequat.
+This is a very long comment: It is good practice to leave comments in code to 
+explain complex logic in CTEs or business logic which may not be intuitive to someone
+who does not have intimate knowledge of the data source. This can help new users familiarize
+themselves with the code quickly.
 */
 
 final AS (
