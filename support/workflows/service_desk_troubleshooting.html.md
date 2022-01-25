@@ -24,7 +24,8 @@ Users can experience various issues while utilizing [Service Desk](https://docs.
     1. A link to the GitLab.com project which the email was attempting to send to
     1. Did the sender received a reply (failure)? If yes,
         1. Request a screenshot of the failure message.
-        1. Search [Kibana](https://log.gprd.gitlab.net/app/kibana#/) by sender's IP address (if known)
+        1. Search [Kibana](https://log.gprd.gitlab.net/app/kibana#/) by sender's IP address (if known).
+        1. You may also search Kibana using [this query](https://log.gprd.gitlab.net/app/discover#/?_g=h@d382f30&_a=h@c35a7c3) and filtering on the `json.meta.project` attribute.
         1. Search the `mg.gitlab.com` mail logs in [Mailgun](https://app.mailgun.com/app/sending/domains/mg.gitlab.com/) for suppressions
         1. Create an issue in [EE issue tracker](https://gitlab.com/gitlab-org/gitlab-ee/issues) providing all information found
     1. Did the sender received a reply (failure)? If no,
