@@ -79,7 +79,7 @@ It is extremely important to have an internal preparation meeting(can be async) 
 - The key players & their roles
 - What metrics are these key players measured by
 - Any OKRs for these key players that the account team is aware of
-- What will be the succesful outcome from VSM
+- What will be the succesful outcome from VSA
 - Pick key slides to deliver to customer
 - Pick key discovery questions to be asked during pitch & customer planning session
 
@@ -95,9 +95,9 @@ The initial customer pitch allows us to pitch value stream assesment to our key 
 
 It is important to identify a project or few projects as next step for the planning meeting with customer.
 
-Here are some resources that can be used as starting point for the pitch:
-[Customer pitch deck](https://docs.google.com/presentation/d/1R8RMrXDIaP9Mz3P0_xcevjDQROtvVpSwtEBJgxdsNbw/edit#slide=id.gef34d4c13c_1_636)
-[Internal pitch deck](https://docs.google.com/presentation/d/1kWqXBbBC2BZ1w9dWEUe4hVJdcXMcO6tXNK9dFY-5XF0/edit#slide=id.gef34d4c13c_1_636)
+Here are some resources that can be used as starting point for the pitch:  
+[Customer pitch deck](https://docs.google.com/presentation/d/1R8RMrXDIaP9Mz3P0_xcevjDQROtvVpSwtEBJgxdsNbw/edit#slide=id.gef34d4c13c_1_636)  
+[Internal pitch deck](https://docs.google.com/presentation/d/1kWqXBbBC2BZ1w9dWEUe4hVJdcXMcO6tXNK9dFY-5XF0/edit#slide=id.gef34d4c13c_1_636)  
 
 
 ### Planning meeting with customer
