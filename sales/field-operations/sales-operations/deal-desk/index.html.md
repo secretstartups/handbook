@@ -83,7 +83,7 @@ The SLAs below are applicable (especially for contract resets and ramp deals) if
 | Contract Reset / Co-Term | 6 Hours | 24 Hours | 
 | RFP/Vendor Forms | 6 Hours | Dependent on AM |
 
-#### 3. Reports To Track Deal Desk SLA 
+#### Reports To Track Deal Desk SLA 
 
 [Cases / Average First Response](https://gitlab.my.salesforce.com/00O4M000004edoT)
 
