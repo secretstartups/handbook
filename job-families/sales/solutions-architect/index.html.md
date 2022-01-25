@@ -136,7 +136,7 @@ The Principal Solutions Architect is a [grade 9](/handbook/total-rewards/compens
 * Keep up to date on GitLab-relevant emerging methodologies and technologies and leverage that knowledge to drive solution strategy and influence product strategy.
 * Collaborate with product marketing, engineering, and management on market strategy that results in an improved win rate.
 * Use technical and market knowledge to create solutions and influence product to expand GitLabs revenue base - especially Total Addressable Market (TAM) and Launch Addressable Market (LAM).
-* Exert influence on the overall objectives, key results, and other long-range measurable goals of the team.
+* Exert influence on the overall objectives, key results, and other long-range measurable goals and strategies of the team.
 * Create reference implementations for 3rd party integrations and effectively communicate the design and it's value to customers, partners and GitLab team members.
 * Service assistance requests by GitLab team members and/or Partners as a pre-sales and technical solutions authority for the top ARR clients and top Net ARR opportunities.
 
@@ -277,7 +277,7 @@ Specialty responsibilities and requirements may extend or overlay [Level roles](
 
 * Since this role deals primarily with partner relationships, any responsibilities in an individual's [Role Level](#levels) that reference customers can also be fulfilled by Partners. If responsibilities appear duplicated, the version in this description has priority due to being more specific to your role.
 * Engage in a technical consultancy role for Technology Alliance partners and joint customer opportunities with these partners.
-* Create and maintain relationships with external partner leaders that contribute to large Net ARR deals and customer success.
+* Create and maintain relationships with external partner senior leaders that contribute to large Net ARR deals and customer success.
 * Build and deliver solutions, reference implementations and demos highlighting the Alliance partners' technologies as they work with GitLab.
 * Be a subject matter expert within an area of focus, with exceptional soft / public speaking skills and “hands on the keyboard depth”.
 * Proactively identify market demand with solutioning. Engage as a lead SME in customer engagements including pitches, solution envisioning, proposal development and estimate preparation as related to alliance partner technologies.
