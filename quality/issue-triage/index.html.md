@@ -189,18 +189,7 @@ We encourage performance improvements to be broken down. Improve where we can an
 ### UX
 
 #### SUS-impacting
-Some UX-related issues have been identified as impacting our [System Usability Scale (SUS) score](/handbook/engineering/ux/performance-indicators/system-usability-scale/), which is a focus in our [three-year strategy](/company/strategy/#three-year-strategy). These issues have a [severity](/handbook/engineering/quality/issue-triage/#severity) label applied *without* an accompanying `~"type::bug"` label. We identify them with at least one of the following labels:
-
-- `~Actionable Insight`
-- `~Low SUS Score`
-- `~UX scorecard-rec`
-- `~cm-scorecard-rec`
-- `~UX debt`
-- `~UI polish`
-- `~accessibility`
-- `~VP-UX Dogfooding`
-- `~learnability`
-- `~UI text`
+Some UX-related issues have been identified as impacting our [System Usability Scale (SUS) score](/handbook/engineering/ux/performance-indicators/system-usability-scale/), which is a focus in our [three-year strategy](/company/strategy/#three-year-strategy). These issues have a [severity](/handbook/engineering/quality/issue-triage/#severity) label applied *without* an accompanying `~"type::bug"` label. We identify them with at least one of the labels listed in the [Total open SUS-impacting issues by severity](https://about.gitlab.com/handbook/engineering/ux/performance-indicators/#total-open-sus-impacting-issues-by-severity) UX KPI.
 
 Additionally, we include UX bugs (identified with *both* the `~UX` `~"type::bug"` labels) in our list of SUS-Impacting issues.
 
