@@ -130,11 +130,12 @@ The Principal Solutions Architect is a [grade 9](/handbook/total-rewards/compens
 
 * Extends the Staff Solutions Architect responsibilities.
 * Create and maintain relationships with customer executives that contribute to large Net ARR deals and customer success.
-* Facilitate strategy formulation that takes into account the customer or partner's market, business processes, technology portfolio, culture and appetite for change.
+* Facilitate customer and partner strategy formulation that takes into account the customer or partner's market, business processes, technology portfolio, culture and appetite for change.
 * Identify and surface business generation motions within areas of personal subject matter expertise that intersect with GitLab targeted technology sectors.
 * Build and maintain select subject matter expertise related to GitLab targeted technology sectors through industry monitoring and participation in external working groups, committees and development projects.
-* Leverage Technology Market knowledge, technical solutions architecture and discovery of customer business processes, technology processes and tooling to architect technical solutions that 
+* Keep up to date on GitLab-relevant emerging methodologies and technologies and leverage that knowledge to drive solution strategy and influence product strategy.
 * Collaborate with product marketing, engineering, and management on market strategy that results in an improved win rate.
+* Use technical and market knowledge to create solutions and product input that enables expansion of GitLabs revenue base - especially Total Addressable Market (TAM) and Launch Addressable Market (LAM).
 * Exert influence on the overall objectives, key results, and other long-range measurable goals of the team.
 * Create reference implementations for 3rd party integrations and effectively communicate the design and it's value to customers, partners and GitLab team members.
 * Service assistance requests by GitLab team members and/or Partners as a pre-sales and technical solutions authority for the top ARR clients and top Net ARR opportunities.
