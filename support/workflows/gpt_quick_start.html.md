@@ -92,7 +92,7 @@ docker run -it -e ACCESS_TOKEN=<TOKEN> -v $(pwd)/k6/config:/config -v  $(pwd)/k6
 * 25k - `60s_500rps.json`
 * 50k - `60s_1000rps.json`
 
-## Viwewing Test Output and Results
+## Viewing Test Output and Results
 
 After starting the tool you will see it running each test in order. Once all tests have completed you will be presented with a results summary. As an example, here is a [test summary](https://gitlab.com/gitlab-org/quality/performance/-/blob/main/docs/k6.md#test-output-and-results) you can view.
 
