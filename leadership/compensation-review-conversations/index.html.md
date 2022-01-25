@@ -22,7 +22,7 @@ Please make sure to review and understand the following content with regards to 
 * [Talent Assessment at GitLab](/handbook/people-group/talent-assessment/)
  
 ## Total Rewards Statements
-Starting FY22 Total Rewards will be providing [Total Rewards Statements](/handbook/total-rewards/compensation/compensation-review-cycle/#total-rewards-statement) outlining the Compensation package: cash, equity, and benefits. We recommend reviewing this letter before the conversation and use the letter as preparation to communicate exact approved figures. 
+Starting FY22 Total Rewards will be providing [Total Rewards Statements](/handbook/total-rewards/compensation/compensation-review-cycle/#total-rewards-statement) outlining the Compensation package: cash, equity, and benefits. We recommend reviewing this letter before the conversation and use the letter as preparation to communicate exact approved figures. It is also recommended that you send the letter to the team member after your conversation with them so they can view the details. 
  
 ### Compensation Communication Recommendations 
  
@@ -81,15 +81,16 @@ This section provides and overview of potential compensation conversation scenar
  These were the factors considered that contributed to the decision to not allocate an additional refresh for you this year:
         * **_Not enough improvement on identified performance/growth areas:_** "Aligned with our performance discussion in FY22 we have identified improvement areas, such as [EXAMPLES]. Between that review and this equity review, there was not sufficient improvement in the areas identified. Therefore the decision has been made to not grant you additional equity at this time. I would love for us to further discuss those improvement areas and see how I can support you in meeting all expectations going forward. We review equity grants on an annual basis, and I hope we can work together to reassess your eligibility for next cycle."
         * **_Role or skill based decision:_** "Participation in this program was based on performance and criticality of role. Therefore, not all team members will receive a refresh grant in the annual review cycle. However this is an annual process. You will be eligible to participate in next year’s program."
-        * **_Not in good standing with the company:_** There could be factors that have contributed to the fact that currently the team member is not in good standing with the company. Examples here could be: Code of conduct violations or significant behavioral issues. As a communicating manager please discuss these with [Team Member Relations](/handbook/people-group/team-member-relations/) and your People Business Partner. 
-        * **_Has been with the company for a shorter period of time:_** Though only team members with less than 6 months of tenure were truly ineligible, when determining who will receive a refresh amongst a group of team members with similar performance, potential, etc., tenure may have been considered. Aligned with the equity refresh program setup and market alignment, we are only able to allocate to a certain portion of our population. Due to allocation restrictions, other factors (such as tenure) might be considered as well. 
 
-   * Although informing a team member that they are not getting a compensation adjustment is a tough message to deliver, managers should have this direct conversation. This is directly aligned with our transparency value. We want everyone to know why they may not have received an adjustment and give them the space to ask questions.
+        * **_Not in good standing with the company:_** There could be factors that have contributed to the fact that currently the team member is not in good standing with the company. Examples here could be: Code of conduct violations or significant behavioral issues. As a communicating manager please discuss these with [Team Member Relations](/handbook/people-group/team-member-relations/) and your People Business Partner. 
+
+        * **_Has been with the company for a shorter period of time:_** Though only team members with less than 6 months of tenure were truly ineligible, when determining who will receive a refresh amongst a group of team members with similar performance, potential, etc., tenure may have been considered. Aligned with the equity refresh program setup and market alignment, we are only able to allocate to a certain portion of our population. Due to allocation restrictions, other factors (such as tenure) might be considered as well. 
 
 1. **_Team member was hired after the cut-off date:_** "At GitLab we review compensation (cash + equity + benefits) on a yearly basis. Due to your hire date you were not eligible to receive additional compensation at this time. You will be eligible for the next Annual Compensation Review where we will review both your cash and equity compensation."
 
- 
 1. **Other scenarios:** If you have a scenario different from the above, and/or you need help with messaging, please work with your manager or [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). 
+
+   * Although informing a team member that they are not getting a compensation adjustment and/or equity grant is a tough message to deliver, managers should have this direct conversation. This is directly aligned with our transparency value. We want everyone to know why they may not have received an adjustment and give them the space to ask questions.
 
 #### Possible Reactions
 
