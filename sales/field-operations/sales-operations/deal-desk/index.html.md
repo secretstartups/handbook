@@ -54,7 +54,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
 The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 5:00pm for the local time of the team member. If a complex case or non standard deal request is submitted after 4:00PM (Local Time) the case will be prioritized the following business day.  
 
 | Region | Standard Support Hours |
-|----- | ----- | ------| 
+|----- | ----- | 
 | APAC  | 8:00AM - 5:00PM (IST) | 
 | EMEA | 8:00AM - 5:00PM (GMT)  | 
 | AMER | 7:00AM - 5:00PM (PT) |
