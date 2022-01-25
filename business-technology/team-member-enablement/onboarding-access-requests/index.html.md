@@ -107,7 +107,7 @@ We strongly encourage Macs, but we do allow Linux if you are capable of self-sup
 
 \*\*NOTE: Max price: **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model minimum 14 days, based on your locality, prior to your desired date to receive.
 
-For Linux laptops, our **standard laptop provider is Dell** which generally comes pre-loaded with Ubuntu Linux,(to save money by not purchasing a Windows license). Dell in Australia and New Zealand are unable to currrently pre load with Ubuntu Linux, so staff will need to install Linux onto the devices once they've been received.
+For Linux laptops, our **only approved laptop provider at this time is Dell** which generally comes pre-loaded with Ubuntu Linux,(to save money by not purchasing a Windows license). Dell in Australia and New Zealand are unable to currrently pre load with Ubuntu Linux, so staff will need to install Linux onto the devices once they've been received.
 
 The reasons for using Dell for a Linux laptop are as follows:
 
@@ -160,7 +160,7 @@ However, if a vendor has had potential supply chain issues involving firmware or
 
 To meet compliance needs for the various certifications, programs, and industry regulations, we have to meet criteria including the ability to restrict access to sensitive data to company-issued laptops running company-monitored software.
 In many cases we need to be able to prove this via auditing, including outside auditors.
-Using one vendor for macOS (Apple by default) and one for Linux.
+Using one vendor for macOS (Apple by default) and one for Linux (Dell by default).
 A part of this process will include ensuring systems are patched, and in the Linux case we want to ensure firmware patches are applied.
 Very few hardware vendors not only supply Linux as an operating system but also provide a way to apply patches - including security patches - to firmware via the normal Linux patch process.
 
