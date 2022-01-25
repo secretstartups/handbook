@@ -89,7 +89,7 @@ If you need to report a bug or incident to us, please do so using the bug report
 
 For maintenance and enhancement of existing integrations please submit an issue using the correct [template below](#create-an-issue).
 
-To learn about our processes please visit the [sdlc](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/tree/Karuna16-master-patch-86069/-/sites/handbook/source/handbook/business-technology/enterprise-applications/integrations/how-we-work/sdlc) page
+To learn about our processes please visit the [sdlc](/handbook/business-technology/enterprise-applications/integrations/sdlc/) page
 
 ### How to engage us
 
