@@ -271,7 +271,7 @@ Outage and Degraded Performance incidents occur when:
 
 ![degraded and outage](/images/handbook/engineering/infrastructure/incident-management/SLI-degraded-outage.png)
 
-In both cases of Degraded or Outage, once an event has elapsed the 5 minutes, the Engineer on Call and the Incident Manager should engage the CMOC to help with external communciations.  If a "blip" incident occurs, where we come back up in a short period of time, we still need to evaluate the duration.  If an outage duration is found to be more than 5 minutes and we are still within 2 hours of the time when the event happened, the team should work with the CMOC to do an incident post and public communication.  
+In both cases of Degraded or Outage, once an event has elapsed the 5 minutes, the Engineer on Call and the Incident Manager should engage the CMOC to help with external communications.  All incidents with a total duration of more than 5 minutes should be publicly communicated as quickly as possible (including "blip" incidents), and within 1 hour of the incident occurring.  
 
 SLOs are documented in the [runbooks/rules](https://gitlab.com/gitlab-com/runbooks/blob/master/rules/service_apdex_slo.yml)
 
