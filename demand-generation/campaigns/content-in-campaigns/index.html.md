@@ -372,17 +372,20 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * Software Development
 * Toolchain
 
+## How to extend analyst asseets
+{: #extend-analyst-assets .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+At times, we will extend the rights to an asset if it is heavily used by sales or performing in campaigns. In that case the decision is indicated in the [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst).
+
+Follow the steps outlined [in the Pathfactory Content Library Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#replacing-or-updating-the-verson-of-an-asset-after-initial-upload). 
+
 ## How to retire analyst assets when they expire
 {: #retire-analyst-assets .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-
-*Note from @jgragnola: this process needs a lot of work and should be minimal time spent by campaigns team. Create section for ungated journeys, and section (hidden) for former gated pages, and pass to Verticurl.*
-
-* An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) will be open for each analyst asset, and related to the overarching Epic upon gating (with due date for when the asset is set to expire)
-* At times, we will extend the rights to an asset if it is heavily used by sales or performing well in later stage nurture. In that case the decisio nis indicated in the Expiration Issue, and the team is updated.
+An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) will be opened by the Analyst Relations DRi for each analyst asset, and related to the overarching Epic (with due date for when the asset is set to expire). When the decision is made to expire the asset, the teams involved will check off their respective action items in the issue.
 
 ### Retire Marketo landing page
-{: #retire-marketo-page .gitlab-purple}
+{: #retire-marketo-page}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 **First you will remove the form from the page and add a "no longer available" message**
 * In the Marketo program, click "edit" on the Registration Page
@@ -396,6 +399,16 @@ As a guide in developing timeline, please view the workback timeline calculator 
 <h1>This resource is no longer available.</h1>
 <p>Thank you for your interest in this resource, but it is no longer available for download. <a href="https://about.gitlab.com/analysts/" target="_blank" id="">Click here to visit our industry analysts page to view other reports and best practices!</a></p>
 ```
+
+### Remove from Intelligent Nurture
+{: #remove-intelligent-nurture}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Please follow the process outlined in the [Emails/Nurture Handbook](/handbook/marketing/demand-generation/campaigns/emails-nurture).
+
+### Remove from Pathfactory
+{: #remove-intelligent-nurture}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Please follow the process outlined in the [Pathfactory Handbook](/handbook/marketing/marketing-operations/pathfactory/content-library/#removing-an-asset-from-the-library).
 
 ### Marketo automation and setup for gated landing page
 {: #steps-gated-landing-pages}
