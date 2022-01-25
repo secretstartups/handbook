@@ -467,13 +467,32 @@ PathFactory’s custom query string manager allows you to manage and append quer
 
 **Note:** Do not delete or edit the default query string for Marketo as that query string is an important way to integrate with PathFactory.
 
+## Microsites
+
+PathFactory’s [Microsite Builder](https://nook.pathfactory.com/s/article/microsite-builder) enables marketers to display multiple types of Content Tracks within a custom-designed landing page or multi-page microsite with navigation. Microsites should be used when you want to educate users about a specific topic or topics. Microsites are NOT a catchall nor a replacement for other types of landing pages. If you are unsure whether a Microsite is right for your campaign, please free to reach out in the #mktgops slack channel.
+
+### Use Cases
+
+- Resource center
+- Event or webcast follow-up
+- Personalized/co-branded resource hub
+
+### Explore Pages vs. Microsites:
+
+Microsite builder expands on how Explore Pages are used and improves on Explore Pages with a more robust and advanced feature set.
+
+With Microsite builder you can:
+- Include more than one Content Track on a page.
+- Tie multiple pages together with navigation
+- Use your own custom code to add page sections and elements
+
+You can request a new microsite, or an update to an existing microsite via [this issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_microsite_request). 
+
 ## Explore Pages
 
 [Explore pages](https://nook.pathfactory.com/nook/s/article/getting-started-explore) allow your visitors to quickly view all content assets in a content track. Each explore page you create is built on top of an existing target or recommend content track.
 
 ### Use Cases
-
-Explore pages can act as replacements for traditional landing pages or simple microsites.
 
 - Resource center
 - Event or webcast follow-up
