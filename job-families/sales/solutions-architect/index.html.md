@@ -135,7 +135,7 @@ The Principal Solutions Architect is a [grade 9](/handbook/total-rewards/compens
 * Build and maintain select subject matter expertise related to GitLab targeted technology sectors through industry monitoring and participation in external working groups, committees and development projects.
 * Keep up to date on GitLab-relevant emerging methodologies and technologies and leverage that knowledge to drive solution strategy and influence product strategy.
 * Collaborate with product marketing, engineering, and management on market strategy that results in an improved win rate.
-* Use technical and market knowledge to create solutions and product input that enables expansion of GitLabs revenue base - especially Total Addressable Market (TAM) and Launch Addressable Market (LAM).
+* Use technical and market knowledge to create solutions and influence product to expand GitLabs revenue base - especially Total Addressable Market (TAM) and Launch Addressable Market (LAM).
 * Exert influence on the overall objectives, key results, and other long-range measurable goals of the team.
 * Create reference implementations for 3rd party integrations and effectively communicate the design and it's value to customers, partners and GitLab team members.
 * Service assistance requests by GitLab team members and/or Partners as a pre-sales and technical solutions authority for the top ARR clients and top Net ARR opportunities.
