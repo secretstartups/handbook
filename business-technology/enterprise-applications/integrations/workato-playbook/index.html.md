@@ -135,17 +135,33 @@ While using Workato for building recipes, here are some basic best practices tha
 
 
 ### How do I promote my recipes to production?
-Currently, we're using Workato's `Recipe Lifecycle Management` tool to promote assets from one worksapce to another. This is how you would promote what is built in `dev` to `prod` without needing to recreate it.
+Currently, we're using Workato's `Recipe Lifecycle Management` tool to promote assets from one workspace to another. This is how you can promote what is built in `dev` to `prod` without needing to recreate it.
 
-Also, we're in process of locking down prod for any dev activities. Soon you won't be able to create or edit recipes in prod. It could only used for propogating tested code from `dev` to `prod`. Here's the step-by-step guide how the prod deployments works:
-
-
-
+Also, we're in the process of locking down prod for any dev activities. Soon you won't be able to create or edit recipes in prod. In case, you need to move your recipes, please follow this step-by-step [guide](https://docs.google.com/document/d/1lo0ySrYwBmY0X_AwzJTDxXU5Bv5NWB8lYxoa_bAP-6s/edit?usp=sharing) on how you can create an issue request for prod deployments and assign it to the integration team.
 
 Aside from that, we are actually going to be migrating to Workato Environments soon which further streamlines RBAC and the deployment process so that it's even easier than the `Recipe Lifecycle Management` that we have today. You can read more about it [here](https://www.workato.com/product-hub/democratize-change-management-with-environments/).
 
-#### How to deploy recipes?
-Check out the [video](https://youtu.be/WfehKT5nnGo?t=365) to learn step-by-step how to use `Recipe Lifecycle Management` to promote your recipes and other assets to Production.
+#### How to import and export deployment manifests?
+Check out the [video](https://youtu.be/WfehKT5nnGo?t=365) to learn how to use `Recipe Lifecycle Management` to promote your recipes and other assets to Production.
+
+#### Need help in designing recipes in workato?
+Please reach out to us on [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) Slack channel with your business case and we can help you on design your recipe workflow and what all in Workato are available as an out-of-the-box solution and for what you require custom coding. 
+
+
+<details>
+  <summary markdown="span">Click to understand through a sample use case</summary>
+  Problem statement: Generate monthly invoice email and send it to a group of recipients. The pdf is generated from a template with billing details fetched from google sheets. Also, send slack notification in the channel of invoice circulation. (members of slack channel are same as email recipients group)
+  Solution Proposed: The recipe flow will look something like this:
+
+  ```mermaid
+graph TD
+    A[Scheduled Trigger] -->|1st of every month| B(Source - Google drive connector)
+    B --> |Read data from google sheets| C(Fill in data in Message Template)
+    C --> |message template used in as email template| D(Use gmail connector to send bulk emails)
+    D --> E(Slack connector to send message notification in channel)
+```
+
+</details>
 
 ### Coming soon...
 Join the [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) Slack channel to hear more information about upcoming programs
@@ -153,4 +169,5 @@ Join the [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) Sla
 #### 🚀 Soon to launch:
 - Workato Champion Program
 - Workato CI/CD automation
+- Sample projects or plug-and-play solutions involving common GitLab applications.
 
