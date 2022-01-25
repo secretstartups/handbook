@@ -48,9 +48,28 @@ The Deal Desk team's mission is to streamline the opportunity management process
     *   [Billing FAQs and Useful Tips](https://gitlab.com/gitlab-com/finance/-/wikis/Billing-Team-FAQs-&-Useful-Tips)
     *   Sample Order Form 
 
-### **Sales Support**
 
-#### Deal Desk SLAs 
+#### Deal Desk - A Global Presence
+
+The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 5:00pm for the local time of the team member. If a complex case or non standard deal request is submitted after 4:00PM (Local Time) the case will be prioritized the following business day.  
+
+| Region | Standard Support Hours |
+|----- | ----- | ------| 
+| APAC  | xx | 
+| EMEA | xx | 
+| AMER | 7:00AM - 5:00PM (PT) |
+
+### Deal Desk Performance Indicators
+
+#### Deal Desk KPIs
+
+#### 1. Regional Support Satisfaction 
+
+All regions will recieve a Quarterly Customer Satisfaction survey at the beginning of each new quarter. Our team aims for a 92% satisfaction rating for their supported region. This survey is a valuable tool to provide feedback on areas of improvement related to the Quote to Cash lifecyle. 
+
+Results from the survey will be used to evaluate team member performance and to idenitify areas for improvement. 
+
+#### 2. Deal Desk  Case SLAs 
 
 The Deal Desk team will do their best to respond to each request to '@sales-support' within 6 business hours. Revenue generating or current quarter requests will take priority, especially during Month & Quarter End. If a task is not resolved within 24 hours it will be escalated (if necessary). 
 
@@ -74,15 +93,13 @@ The Deal Desk team will respond to E0A Ramp requests as quickly as possible. How
 
 A Deal Desk team member will respond to your chatter request with an estimate on when the Order Form will be complete. Please let us know if your customer requires the quote in advance due to lengthy procurement cycles or budget planning reasons - exceptions will be considered in cases of urgency, or to meet a customer's needs.
 
-#### Deal Desk - A Global Presence
+#### 3. Case Reduction through Proactive Support - Training, Documentation, and System Improvements 
 
-The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 5:00pm for the local time of the team member. If a complex case or non standard deal request is submitted after 4PM (Local Time) the case will be prioritized the following business day. 
+The Deal Desk team will be responsible for taking action on feedback recieved in our Quarterly CSAT survey by improving process related to common quoting errors, opportuntiy bugs, or gaps in process documentation. The goal is to decrease the number of cases and enable the field to complete the standard duties related to quoting without Deal Desk intervention. Deal Desk will always assist in complex or non-standard deals. 
 
-| Region | Standard Working Hours |
-|----- | ----- | ------| 
-| APAC  | xx | 
-| EMEA | xx | 
-| AMER | 7AM - 5PM (PT) |
+In addition, the following reports are used to ensure an evenly balanced workload between team members. Data will be used to identify process gaps, inefficiencies, and trends or common errors in the Quote to Cash lifecycle with the mission to improve these areas.
+
+(LIST REPORTS USED TO TRACK GENERAL VOLUME AND WORKLOAD)
 
 #### Salesforce Chatter Communication
 
