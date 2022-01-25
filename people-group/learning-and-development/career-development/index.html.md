@@ -298,6 +298,10 @@ Steps:
 </figure>
 <!-- blank line -->
 
+#### Tracking informal feedback
+
+It also can be very helpful to capture feedback from team members. For example, you might want to preserve feedback from slack since these messages are only [retained for 90 days](/handbook/communication/#slack). The easiest way to do this is to save screenshots to a separate directory on your Google drive.
+
 ### Health Tracker: Growth Plan
 
 Consider making a copy of this [Google sheet template](https://docs.google.com/spreadsheets/d/1Pr_yl8TRAXucSr4qYml6TdsO86PgiaKB/edit#gid=2104005676) to track the current status and long term goals you've set for both your personal and professional growth.
