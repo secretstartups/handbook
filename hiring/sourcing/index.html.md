@@ -21,7 +21,7 @@ Sourcing has proved itself to be a great channel for attracting the best talent.
 
 **Sourced** - a person who is found during sourcing (searching) efforts by the TA team with or without the help of the hiring team (Source-a-thon).
 This person is of interest, but has not interacted with the TA team or Hiring Manger yet.
-**Prospect** this person is IQA (Interested, Qualifed, Available) after the TA or Hiring team approached them during a sourcing effort, but has not yet decided if they want to formally apply. There is basic information available (LinkedIn, Blogs, Conference Talks, etc.). Or a person that has has joined our [Talent Community](https://about.gitlab.com/jobs/careers/).
+**Prospect** this person is IQA (Interested, Qualifed, Available) after the TA or Hiring team approached them during a sourcing effort, but has not yet decided if they want to formally apply. There is basic information available (LinkedIn, Blogs, Conference Talks, etc.). Or a person that has has joined our [Talent Community](https://about.gitlab.com/jobs/).
 **Candidate** - A person that has been sourced and approached by the Talent Acquisition team or the Hiring team that has actively indicated they want to interview for the position offered. They change from the Prospect status to Candidate status.
 Or a person that applied directly via the Careers page or via 3rd parties liek LinkedIn.
 

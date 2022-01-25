@@ -266,7 +266,7 @@ Thanks, xxx
 
 ### Publish the Job to the Careers Page & Review Greenhouse Configuration
 
-Once a job has been setup in Greenhouse and posted to the GitLab public job board it will be automatically posted to the [Careers Page](/jobs/careers/).
+Once a job has been setup in Greenhouse and posted to the GitLab public job board it will be automatically posted to the [Careers Page](/jobs/).
 
 ### Choosing the correct location for your published job
 
