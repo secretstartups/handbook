@@ -55,8 +55,8 @@ The Deal Desk team is located around the world and will be available during stan
 
 | Region | Standard Support Hours |
 |----- | ----- | ------| 
-| APAC  | xx | 
-| EMEA | xx | 
+| APAC  | 8:00AM - 5:00PM (IST) | 
+| EMEA | 8:00AM - 5:00PM (GMT)  | 
 | AMER | 7:00AM - 5:00PM (PT) |
 
 ### Deal Desk Performance Indicators
@@ -72,6 +72,7 @@ Results from the survey will be used to evaluate team member performance and to 
 #### 2. Deal Desk  Case SLAs 
 
 The Deal Desk team will do their best to respond to each request to '@sales-support' within 6 business hours. Revenue generating or current quarter requests will take priority, especially during Month & Quarter End. If a task is not resolved within 24 hours it will be escalated (if necessary). 
+The SLAs below are applicable (especially for contract resets and ramp deals) if all the necessary information is provided in the request.
 
 | Type of Request | First Response | Resolution |
 |----- | ----- | ------| 
@@ -81,6 +82,10 @@ The Deal Desk team will do their best to respond to each request to '@sales-supp
 | IACV/ARR Review | 6 Hours | 24 Hours |
 | Contract Reset / Co-Term | 6 Hours | 24 Hours | 
 | RFP/Vendor Forms | 6 Hours | Dependent on AM |
+
+#### 3. Reports To Track Deal Desk SLA 
+
+[Cases / Average First Response](https://gitlab.my.salesforce.com/00O4M000004edoT)
 
 ### SLA for EoA Ramp Deal Requests
 
