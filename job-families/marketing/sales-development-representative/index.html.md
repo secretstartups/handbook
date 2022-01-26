@@ -62,7 +62,7 @@ The Associate SDR is a [grade 5](/handbook/total-rewards/compensation/compensati
  
 #### Sales Development Representative Requirements
  
-* Extends the Associate SDR requirements
+
 * Positive and energetic phone skills, excellent listening skills, strong writing skills
 * A self-starter with a track record of successful, credible achievements
 * You share our values, and work in accordance with those values
@@ -99,7 +99,7 @@ The Business Development Representative reports to the BDR Manager.
  
 #### Business Development Representative Grade Level
  
-The Senior SDR is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The BDR is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
  
 #### Business Development Representative Responsibilities
  
@@ -213,8 +213,8 @@ BDR (Expand) focuses on existing customers and their subsidiaries.
 #### BDR (Expand) Responsibilities
 
 * Extends that of the BDR responsibilities
-* creating qualified meetings and sales accepted opportunities with net new customers in the Large - Enterprise Segment
-* focus on account-centric, persona-based outreach, strategic outbound prospecting, social selling and creative outreach to educate and create internal champions that align with the GitLab value drivers and use cases.
+* Creating qualified meetings and sales accepted opportunities with net new customers in the Large - Enterprise Segment
+* Focus on account-centric, persona-based outreach, strategic outbound prospecting, social selling and creative outreach to educate and create internal champions that align with the GitLab value drivers and use cases.
  
 #### BDR (Expand) Requirements
 
@@ -234,7 +234,12 @@ BDR (Expand) focuses on existing customers and their subsidiaries.
  
 ## Career Ladder
  
-Subject to business need, GitLab team members from the Sales Development Representative job family typically interview for roles such as: [Manager, Sales Development](https://about.gitlab.com/job-families/marketing/sales-development-manager/), [Inside Sales Representative](https://about.gitlab.com/job-families/sales/public-sector-inside-account-representative/), and [Account Executive, SMB](https://about.gitlab.com/handbook/sales/commercial/smb/). All of these roles require a formal application and interview process, and are not considered a given promotion.
+SDRs and BDRs become eligible for promotion after 12 months in role and based on performance attainment. 
+Promotions are also subject to business need and require a formal application and interview process, and are not considered a given promotion.
+Within the Sales development organization, the career path is the following: Business Development Associate to Sales Development Representative to Business Development Representative. 
+Typically after BDR, our team members interview for roles such as : Manager, Sales Development, Inside Sales Representative, and Account Executive, SMB. 
+GitLab is one of the fastest growing companies and there are a lot of less conventional career paths. While we strongly encourage our team members to pursue the job opportunities that are right for them, it is important to understand that those paths may take longer to materialize.
+
  
 ## Hiring Process
  
