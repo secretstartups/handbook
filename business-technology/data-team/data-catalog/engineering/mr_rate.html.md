@@ -64,7 +64,7 @@ The current list of projects are identified in the gitlab-data/analytics project
 |ops.gitlab.net	    |[projects_part_of_product_ops.csv](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/projects_part_of_product_ops.csv) |
 
 
-Looking to update the projects list, follow the directions [here](https://about.gitlab.com/handbook/engineering/merge-request-rate/#updating-the-list-of-projects)
+Looking to update the projects list, follow the directions [here](/handbook/engineering/metrics/#updating-the-list-of-projects)
 
 <style> #headerformat {
 background-color: #6666c4; color: black; padding: 5px; text-align: center;}
