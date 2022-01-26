@@ -81,10 +81,19 @@ If the host is not present, no one can enable live transcription. If you've crea
 
 ### Making a customized Personal link
 
-Please make sure that you customize your Personal link under **Profile > Personal Link**.
-The default is `gitlab.firstnamelastname`.
-Enable the Waiting Room so unauthorized attendees cannot join your zoom room.
-The personal link is used by talent acquisition to schedule interviews so it is important the default naming convention is used and there is no password set.
+The personal link is used by talent acquisition to schedule interviews, so it is important the default naming convention is used and there is no password set.
+
+1. Navigate to the [profile page](https://gitlab.zoom.us/profile).
+1. In the Meeting section, you can see your "Personal Link". Select "Customize".
+1. Customize it to `gitlab.firstnamelastname`.
+1. Select "Save Changes".
+1. Navigate to the [meetings page](https://gitlab.zoom.us/meeting).
+1. Select the top tab "Personal Room".
+1. Towards the bottom of the page, select "Edit" and uncheck the "Passcode" box.
+1. Select "Save".
+
+Don't forget to [enable the Waiting Room](#enabling-the-waiting-room-for-your-personal-meeting-room)
+so unauthorized attendees cannot join your zoom room.
 
 ### Adding your title to your name
 
@@ -112,16 +121,12 @@ Follow these steps to set it up:
 It's recommended you enable the [Waiting Room](https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room) feature for your personal meeting room to prevent others from joining (in the event of back-to-back meetings, for example).
 There are a few steps to get this enabled for personal meetings:
 
-1. Open up "Zoom Settings" in the app, then click the "General" page in the top left navigation on the Settings dialog.
-1. Then click the link "View More Settings" at the bottom left of the page, which will open in the browser.
-1. Find the option "Waiting room" under "In Meeting (Advanced)" and enable it for all participants.
-   Note: This will enable the waiting room but _NOT_ for the personal meeting
-
-**For Personal Meetings**
-
-1. Scroll up to the top of the web browser settings in the left navigation area sidebar click the "Meetings" link and select the top tab "Personal Meeting Room".
-1. Towards the bottom of the page click "Edit this meeting" and check the "Enable waiting room" box.
-1. Click "Save"
+1. Navigate to the [settings page](https://gitlab.zoom.us/profile/setting) in your browser.
+1. In the "Meeting" tab under "Security", find the option "Waiting room" and enable it for all participants.
+1. Navigate to the [meetings page](https://gitlab.zoom.us/meeting).
+1. Select the top tab "Personal Room".
+1. Towards the bottom of the page, select "Edit" and check the "Waiting Room" box.
+1. Select "Save".
 
 Now all meetings that use your Personal Meeting ID (PMI) will require you to "admit" anyone who joins the meeting.
 
