@@ -14,6 +14,12 @@ The Field Operations Changelog keeps a running log of Field Ops changes related 
 
 To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/).
 
+## Q1-FY23
+
+### 2022-02-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/88))
+
+
+
 ## Q4-FY22
 
 ### 2022-01-24 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/86))
