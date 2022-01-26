@@ -24,6 +24,24 @@ A remote meeting, also known as a virtual meeting, occurs when people use video 
 
 Scheduling a virtual meeting allows you to set the meeting length and invite a limited number of people. You can participate in a remote meeting from [almost anywhere in the world](/jobs/faq/#country-hiring-guidelines)! If you are working in your garage or basement, be sure to use a green screen behind you and put up a professional background image to present well on screen. 
 
+## What are the challenges of a remote meeting?
+
+You are not expected to be available all the time, however there may be times you will need to flex your schedule to schedule or attend a meeting with someone from another timze zone outside of your typical working hours. Most remote-meeting challenges fall under two categories:
+
+1. trouble with technology
+1. communication complications
+
+Both can be overcome by [checking your internet connection](/company/culture/all-remote/getting-started/#bolster-your-internet-connection-and-consider-redundancy) regularly and growing aware of the [communication preferences](/company/culture/all-remote/getting-started/#get-accustomed-to-the-communication-preferences-of-your-co-workers) of others. 
+
+For additional remote-meeting tips, [Lorraine Lee](linkedin.com/in/lorraineklee) has created this [training on how to better your video and presentation skills](https://youtu.be/A5KtmrgVqr8) for an all-remote workspace. 
+
+Key points include:
+
+1. How to effectively use lighting, visuals, and curate your environment
+1. Using movement, power words, and the think/do/feel matrix to keep your audience engaged
+1. Smiling, making eye contact, and framing yourself in video
+1. Elevate energy by standing up, projecting, and using hand gestures
+
 ## How do you do all-remote meetings right?
 
 ![GitLab marketing team Show & Tell social call](/images/all-remote/gitlab-zoom-meeting-hat-filter.jpg)
