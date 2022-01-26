@@ -18,7 +18,7 @@ twitter_creator: "@gitlab"
 
 ## What is a remote meeting?
 
-
+A remote meeting, also known as a virtual meeting, occurs when people use video and audio to connect online. Typically individuals in remote meetings are spread across different locations. However, we recommend doing everything possible to [avoid hybrid calls](/handbook/communication/#hybrid-calls-are-annoying). Individuals in the same place are encouraged to spread out and join a remote meeting using individual video and audio connections to increase the equality and experience for all in a remote meeting. 
 
 ## How do you do all-remote meetings right?
 
