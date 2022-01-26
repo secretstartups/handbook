@@ -192,7 +192,7 @@ Exceptional community members may be able to participate, as well.
 | 2022-01-31 | 2022-02-04 | AVAILABLE - REMOTE | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer |
 | 2022-02-07 | 2022-02-11 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-02-14 | 2022-02-17 | [Mark Scheuber](https://gitlab.com/mscheuber)  - Sr. Strategic Account Leader | AVAILABLE - REMOTE |
-| 2022-02-22 | 2022-02-25 | AVAILABLE - REMOTE (short week due to holiday) | AVAILABLE - REMOTE (short week due to holiday) |
+| 2022-02-22 | 2022-02-25 | AVAILABLE - REMOTE (short week due to holiday) | [Mark Scheuber](https://gitlab.com/mscheuber) (short week due to holiday) |
 | 2022-02-28 | 2022-03-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-03-07 | 2022-03-11 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-03-14 | 2022-03-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
