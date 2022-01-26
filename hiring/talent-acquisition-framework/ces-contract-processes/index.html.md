@@ -34,7 +34,7 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | GitLab GmbH | Kelly Murdock (POA), Igor Groenewegen-Mackintosh | 
 | GitLab PTY Ltd, Australia | Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab PTY Ltd, New Zealand | Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab Ireland LTD | Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab Ireland LTD | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab UK Ltd | Dale Brown, Igor Groenewegen-Mackintosh | 
 | GitLab Canada Corp | Craig Mestel, Dale Brown | 
 | GitLab GK, Japan | Dale Brown, Craig Mestel | 
