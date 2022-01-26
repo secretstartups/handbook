@@ -22,7 +22,15 @@ title: Travel
 1. When your trip is complete, please file an expense report via Expensify or include the receipts on your next monthly invoice.
 
 ### Supporting nursing mothers
-1. The company will cover expenses for nursing mothers to properly store and ship breastmilk through a service of their choice, including services like [MilkStork](https://www.milkstork.com/) or Fedex.  
+
+If you are nursing while traveling on GitLab approved business, you can reimburse costs in order to travel with breast milk or ship your breast milk back home. You can expense:
+
+- Fees associated with a milk shipment service, such as [MilkStork](https://www.milkstork.com/)
+- Coolers or containers to store breast milk while traveling
+- Shipment costs and materials, including dry ice, packaging, styrofoam coolers, and labels. 
+
+Check with your health plan to see if you are eligible for reimbursement for the cost of a breast pump or any other supplies. 
+
 
 ## Self Stay Incentive Policy <a name="self-stay"></a>
 
