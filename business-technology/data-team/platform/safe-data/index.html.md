@@ -95,8 +95,13 @@ To gain access to SAFE Data:
 
 ## Data Development
 
+SAFE Data in Snowflake is stored in separate schemas. Schemas with SAFE Data are prefixed with: `RESTRICTED_SAFE_*`. All models that contain MNPI data must be stored in these schemas. There is a [CI-Pipeline](handbook/business-technology/data-team/platform/ci-jobs/#safe_model_script) (`safe_model_script`) available that secures this process. Every model that is created or changed, will be checked by the CI-Pipeline. As a developer, the following governance needs to be taken into account:
+ 
+- `mnpi` tag to be applied when reading out of a table/model that holds MNPI data and MNPI is used in the model. Subsequently the data must be stored in a `RESTRICTED_SAFE_*` schema.
+- `mnpi_exception` tag to be applied when reading out of a table/model that holds MNPI data and MNPI is **not** used in the model. I.e. only a NON-MNPI field is used from a MNPI model. 
+- It's up to the engineer to determine if and which tag needs to be applied. Check the data that is exposed in your model against the GitLab SAFE [Framework](https://about.gitlab.com/handbook/legal/safe-framework/). If there is doubt, reach out in the. `#SAFE` channel in Slack.
+- The CI pipeline is there to help and check fact based (upstream model tags versus current model tags).
 
+The following diagram describes the process in detail when handling or referencing SAFE Data.
 
-### CI-Pipeline
-
-
+![MR Process](mnpi_dbt_models.png)
