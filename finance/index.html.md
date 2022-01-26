@@ -62,7 +62,7 @@ Form CA-590 - please request by email to tax@gitlab.com
 {: #finance-handbooks}
 
 - [Accounting](/handbook/finance/accounting/)
-- [Business Operations](/handbook/business-ops/)
+- [Business Technology](/handbook/business-technology/)
 - [Financial Planning & Analysis](/handbook/finance/financial-planning-and-analysis/)
 - [Investor Relations](/handbook/finance/investor-relations/)
 - [Tax](/handbook/tax/)
