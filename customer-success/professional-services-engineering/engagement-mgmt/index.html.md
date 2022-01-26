@@ -30,9 +30,7 @@ The [Professional Services (PS) Engagement Manager](https://about.gitlab.com/job
 
 ## Meet the Team
 
-- **Russell Knight**, Senior Professional Services Engagement Manager, EMEA
-- **Julie Byrne**, Senior Professional Services Engagement Manager, US
-- **Evan Golden**, Professional Services Engagement Manager, US
+Check out our team of Engagement Managers on our [team page](https://about.gitlab.com/company/team/?department=practice-management)
 
 ## How to contact or collaborate with us
 
