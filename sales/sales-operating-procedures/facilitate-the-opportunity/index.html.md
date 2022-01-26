@@ -84,7 +84,7 @@ The goal of developing and presenting a good pitch is to obtain a **verbal commi
 
 For Enterprise Strategic Account Leaders, you can also use this [GitLab ENT SAL Proposal Template](https://docs.google.com/presentation/d/1HHDMXLZHm6VWduLB4qr5POOehfPCK6ssea7d99Qf3H0/edit#slide=id.gefbf6346ee_0_6) to give you a headstart on a custom proposal for your customer. 
 
-It is also recommended that the presentation be for visual rather than text heavy. A GitLab customer deck should contain the following components:
+It is also recommended that the presentation be more visual rather than text heavy. A GitLab customer deck should contain the following components:
 
 1. Value Drivers
 1. How GitLab can Help
