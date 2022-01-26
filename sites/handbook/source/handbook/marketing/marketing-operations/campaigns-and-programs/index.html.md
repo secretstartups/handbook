@@ -149,6 +149,20 @@ Any type of inbound request that requires follow up.
 | No Action | default starting position for all records |  |
 | Requested Contact | Filled out Contact, Professional Services, Demo or Pricing Request | Yes |
 
+#### Operational
+
+This is used for non-traditional list uploads in which we are looking to a) avoid scoring the uploaded leads b) avoid tradition nurture emails c) fulfill some other various operational related task. e.g., educational conference list uploads.
+
+**Bizible:** This is tracked as an _online_ channel because we participated in an event, where applicable.
+
+| Member Status | Definition | Success |
+| ------------- | ---------- | ------- |
+| Member | default starting position for all records |  |
+| Registered | Registered (presumably did not attend) |  |
+| Attended | Attended live event |  Yes |
+| Attended Virtually | Attended an event virtually. Attendance can be live or post-event | Yes |
+
+
 
 #### Owned Event
 
