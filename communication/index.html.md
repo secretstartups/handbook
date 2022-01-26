@@ -1474,18 +1474,7 @@ Reference Google's [documentation](https://support.google.com/drive/answer/24948
 ### Good Practices & Helpful Tips
 
 1.  If you have content in a Google Doc that is later moved to the website or handbook, [deprecate the Google Doc](#how-to-deprecate-a-google-doc).
-1.  When referring to a Google Doc or folder on the Google Drive in the
-    handbook, refrain from directly linking it. Instead, indicate the name of
-    the doc. If you link the URL people from outside the organization can
-    request access, creating workload and the potential for mistakes. (In the
-    past, linking a Google Doc has led to inadvertently opening the sharing
-    settings beyond what was intended.) This also helps prevent spam from people
-    outside GitLab requesting access to a doc when clicking its link. To save
-    people time you can also [link to the search results
-    page](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22)
-    which allows people to quickly get to the doc without anyone being able to
-
-        request access. If there are multiple documents showing up in the search, you may filter your [search link by adding the owner.](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22%20owner:email%40gitlab.com)
+1.  When referring to a Google Doc or folder on the Google Drive in the handbook, refrain from directly linking it. Instead, indicate the name of the doc. If you link the URL people from outside the organization can request access, creating workload and the potential for mistakes. (In the past, linking a Google Doc has led to inadvertently opening the sharing settings beyond what was intended.) This also helps prevent spam from people outside GitLab requesting access to a doc when clicking its link. To save people time you can also [link to the search results page](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22) which allows people to quickly get to the doc without anyone being able to request access. If there are multiple documents showing up in the search, you may filter your [search link by adding the owner.](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22%20owner:email%40gitlab.com)
 
 1.  If you are having trouble finding a shared Google Doc, make sure you [Search &lt;your domain&gt;](https://support.google.com/a/answer/3187967?hl=en) in Google Drive.
 1.  In our handbook, if you find yourself wondering whether it is better to provide a public link to a Google Doc vs. writing out the content on the website, use the following guideline: Is this document frequently adapted / customized? If yes, then provide a link, making sure that the document can be _commented on_ by _anyone_ with the link. For instance, this is how we share our employment [contracts](/handbook/contracts/). If the document is rarely customized, then provide the content directly on the site and deprecate the Google Doc.
