@@ -16,9 +16,9 @@ twitter_creator: "@gitlab"
 - TOC
 {:toc}
 
-## Introduction
+## What is a remote meeting?
 
-On this page, we're detailing how to optimize meetings in an all-remote environment.
+
 
 ## How do you do all-remote meetings right?
 
