@@ -31,8 +31,11 @@ Each campaign has it's own ROE for lead routing and email practices. Follow the 
 </div>
 </div>
 
+
+
 ## Partner Only Campaigns - MDF funded
 These campaigns are GitLab funded via MDF, but all leads are passed to the partner. We upload these lists into our systems to be able to track pipeline from resulting Deal Registrations in Vartopia. You can find Marketo and SFDC Campaign set up [here](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
+
 
 ## Joint GitLab and Partner Events
 When GitLab and Partners participate in events together, they will share leads. 
