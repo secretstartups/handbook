@@ -235,7 +235,7 @@ Severity should be assessed using the following table:
 | Severity | Availability impact |
 |-|-|
 | `~severity::1` | Absense of this limit enables a single user to negatively impact availablity of GitLab |
-| `~severity::2` | Absense of this limit poses a risk to GitLab availability |
+| `~severity::2` | Absense of this limit poses a risk to reduced availability of GitLab |
 | `~severity::3` | Absense of this limit has a negative impact on ability to manage cost, performance, or availability |
 | `~severity::4` | A limit could be applied, but it's absences does not pose availability risk |
 
