@@ -20,6 +20,10 @@ twitter_creator: "@gitlab"
 
 A remote meeting, also known as a virtual meeting, occurs when people use video and audio to connect online. Typically individuals in remote meetings are spread across different locations. However, we recommend doing everything possible to [avoid hybrid calls](/handbook/communication/#hybrid-calls-are-annoying). Individuals in the same place are encouraged to spread out and join a remote meeting using individual video and audio connections to increase the equality and experience for all in a remote meeting. 
 
+## What are the benefits of a remote meeting?
+
+Scheduling a virtual meeting allows you to set the meeting length and invite a limited number of people. You can participate in a remote meeting from [almost anywhere in the world](/jobs/faq/#country-hiring-guidelines)! If you are working in your garage or basement, be sure to use a green screen behind you and put up a professional background image to present well on screen. 
+
 ## How do you do all-remote meetings right?
 
 ![GitLab marketing team Show & Tell social call](/images/all-remote/gitlab-zoom-meeting-hat-filter.jpg)
