@@ -98,7 +98,7 @@ The account team is comprised of the Strategic Account Leader/Account Executive,
 
 SA owns 1) pre-sales technical evaluation and relationships prior to the initial sale and 2) tier upgrades and new business units (i.e., connected new) within an existing customer. TAM owns 1) post-sales customer relationship and 2) license upgrades within an existing customer.
 
-[More information on the transition between Pre-Sales and Post-Sales](/handbook/customer-success/pre-sales-post-sales-transition/)
+[More information on the transition and ownership between Pre-Sales and Post-Sales](/handbook/customer-success/pre-sales-post-sales-transition/)
 
 ## Other Resources
 
