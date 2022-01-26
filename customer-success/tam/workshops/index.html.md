@@ -44,6 +44,7 @@ The following are already developed, have been given to multiple customers and a
 * **Innersourcing with GitLab** _(for teams interested in starting code-sharing initiatives internally)_ - Goes over what is innersourcing, why it is useful, and what are the key things needed for success, followed by how to get started in GitLab
 * **GitOps with GitLab** _(for teams looking to use GitLab for Infrastructure as Code)_ - Goes over what is GitOps, how it is more than just Infrastructure as Code, what are the benefits, and how to get started with GitLab
 * **GitLab Administration** _(for GitLab Admins of self-managed instances)_ - Goes over GitLab components and architecture, installs, upgrades, admin area of the UI, common CLI commands, and back-ups
+* **Permissions & Access with GitLab** _(for GitLab Admins of self-managed instances)_ - Goes over permission access at the Group, Subgroup, Project, and Member levels.  Discusses how to effectively tie access in with supported authentication protocols for on and offboarding.
 
 ### Offering the session
 
