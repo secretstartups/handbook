@@ -72,6 +72,8 @@ Invitation emails to attend a live event, meet-up, or in-person training. These 
 ### Partners and Email Communication
 While a partner is in contact with a lead or contact, GitLab should stop emailing the prospect so that the partner can follow up. Once the partner rejects or if GitLab recalls the lead, the lead can then be emailed again by GitLab (assuming we have consent). As of 2021-12-28 we have not yet set up a process for a lead to be returned to GitLab and become emailable.
 
-The workflows in Marketo are set up and are [reflected here](https://app.mural.co/t/gitlab2474/m/gitlab2474/1640709707638/31d08e88786abdbc2aa7cc9c19a4b61f3412da1e?sender=awaller1257). When a lead comes in and should be passed to a Partner, they are marked as `Marketing Suspended` in Marketo with a reason of `Partner Lead`, and will be un-emailable until that suspension flag is lifted.
+The workflows in Marketo are set up and are [reflected here](https://app.mural.co/t/gitlab2474/m/gitlab2474/1640709707638/31d08e88786abdbc2aa7cc9c19a4b61f3412da1e?sender=awaller1257). If a lead or contact has a `Prospect Share Status` of Sending to `Partner`, `Accepted`, or `Pending`, Marketo will suppress them from all GitLab marketing sends (operational emails will still send). 
+
+If a lead comes in via Partners from MDF or Trial campaigns, they are marked as `Marketing Suspended` in Marketo with a reason of `Partner Lead`, and will be un-emailable until that suspension flag is lifted.
 
 If a person opts-out of GitLab email, it does not opt them our from Partner communication, and vice versa. It is the responsibility of the partner to manage their email lists. 

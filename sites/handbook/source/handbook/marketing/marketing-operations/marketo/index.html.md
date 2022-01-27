@@ -150,6 +150,7 @@ Some leads are exluded from scoring if they:
 * Are a competitor
 * Status = `Unqualified` or `Bad Data`
 * Company name of `student`, `personal`, `test` and similar 
+* Actively worked by a partner (`Prospect Share Status = `Sending to Partner`, `Accepted`, or `Pending`)
 
 #### Auto-MQL
 Based on certain criteria, a lead may auto-MQL. The scenarios are listed below:
