@@ -93,6 +93,10 @@ To gain access to SAFE Intermediate Dashboards:
 
 ## Data By Subject Area
 
+### Sisense Usage
+
+* [Sisense Usage Overview](https://app.periscopedata.com/app/gitlab/410320/Periscope-Usage!-%F0%9F%93%88?)
+
 ### Marketing
 
 #### Dashboards
@@ -148,6 +152,7 @@ To gain access to SAFE Intermediate Dashboards:
 
 * [XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
 * [Growth Dashboards](/direction/growth/#dashboards)
+* [Junkmail Domain Analysis](https://app.periscopedata.com/app/gitlab:safe-dashboard/939155/Growth:Conversion-SaaS-PII-Trial-Analysis)
 
 #### Analytics Projects
 
