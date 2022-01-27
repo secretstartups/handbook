@@ -1258,6 +1258,7 @@ graph LR;
     B --> |Order Mgmt<br>Rejected|D(Sales Resolves<br>Missing Opp<br>Requirements);
     D --> |Submit Opp<br>For Approval|B
     C --> F[Opportunity<br>Closed-Won!<br>Congrats! ];
+    F --> G[License Fulfillment<br>Order Mgmt Ensures License Delivery<br> ];
 
 ```
 
