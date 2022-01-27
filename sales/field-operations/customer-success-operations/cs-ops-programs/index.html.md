@@ -163,7 +163,7 @@ You may request new programs, such as an email series, contribute to existing pr
 
 1. Fill out as much of the template as possible. Missing information may cause delays.
 
-CS Programs will assign the request. For urgent issues, or questions about the request, make an `@mention` to a Gainsight administrator.
+CS Programs will assign the request. For urgent issues, or questions about the request, make an `@mention` to a Gainsight administrator or ask in the `#cs_ops_and_programs` Slack channel.
 
 ## Request customer program research with the Research Template
 
@@ -171,10 +171,8 @@ TAMs can use the Customer Programs Research Template to research new program opp
 
 **To create a Program Research issue**:
 
-1. Navigate to the [CS Ops Issue board](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues).
-1. Create a new issue.
-1. Select the `TAM Program Research Template` from the dropdown menu.
-1. Use the questions in the template to gather as much information as possible for the stage or use case.
+1. Create a new issue using the [TAM Program Research Template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/new?issuable_template=TAM%20Program%20Research%20Template).
+1. 1. Use the questions in the template to gather as much information as possible for the stage or use case.
 1. Assign the template to a TAM or TAM manager for peer review. This will be a multi-step process, as you'll need to ask questions of your customers as well as internal sources.
 1. Once TAM peer review is complete, create a new issue [using the appropriate template](#create-or-update-a-program), and relate this issue.
 
