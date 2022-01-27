@@ -54,7 +54,8 @@ If you answered no to any of these questions, consider the playbook for Tier 2 u
     * [Field Enablement](/handbook/sales/field-operations/field-enablement/) - Creation of enablement materials 
     * [Field Operations](/handbook/sales/field-operations/) - Facilitation of relevant process changes
     * [Field Communications](/handbook/sales/field-communications/) - Consultation on communication plan
-    * [People Operations](/handbook/people-group/) - Consultation on topics that impact team members 
+    * [People Operations](/handbook/people-group/) - Consultation on topics that impact team members
+    * [Partner Programs](/handbook/sales/channel/channel-programs-ops/#partner-flash-newsletter) - Consultation on topics that impact partners 
 * The update should leverage these communication channels: 
     * [#field-fyi Slack channel](/handbook/sales/sales-google-groups/field-fyi-channel/) - For real-time, asynchronous communication that gives context around the announcement, shares enablement resources, and clearly defines a CTA. 
     * #sales-managers Slack channel - To garner manager-level awareness and solict manager help cascading updates and time-sensitive CTAs to their teams.  
@@ -78,7 +79,7 @@ This update is moderately to minimally urgent and selling-related. It likely inc
 Examples: Process changes, CRO/CEO/e-group announcements, sales/company performance, enablement resources, competitive intelligence, customer stories, channel & alliance partner updates
 
 ### Qualifying Questions 
-* Does this update directly impact at least one major segment (ENT, COMM, CS) of the field organization?
+* Does this update directly impact at least one major segment (ENT, COMM, CS, Partners) of the field organization?
 * Does this update help the field do their jobs more effectively?  
 * Does this update need to be communicated in the next week? 
 
