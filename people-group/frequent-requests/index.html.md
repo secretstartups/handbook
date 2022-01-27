@@ -38,7 +38,7 @@ If you are a GitLab GmbH employee, please fill out this [form](https://docs.goog
 
 If you are a GitLab Ltd - UK employee, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdbWZGR1qtcSx5O9zhi7DmKokC8ww-pOyrqJjpBR69c_jQ_5Q/viewform). The People Experience team will verify the details, and then forward to the team member. 
 
-If you are a PEO employee kindly reach out to the PEO for a letter of employment. If you require internal assistance on this matter please reach out to the People Experience team. 
+If you are a PEO employee kindly reach out to the PEO for a letter of employment. If you require internal assistance on this matter please reach out to the People Experience team. If the People Experience team is creating the letter in exceptional cases this [Template - Letter of Employment - PEO](https://docs.google.com/document/d/1Ipd4P42gjFYn7u10rSugLs1pgitvM20n_3PLwyLHkF8/edit) can get used.
 
 In addition, if the request comes from a third party, the People Experience team will always verify that the information is appropriate to share and check with you if you have given authorization to share any personal information.
 
