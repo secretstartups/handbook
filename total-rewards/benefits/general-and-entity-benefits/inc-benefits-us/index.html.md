@@ -620,7 +620,117 @@ To access LifeMart through ADP:
  
 ## GitLab Inc. United States Leave Policy
  
-Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencies/whd/fmla), US team members are "eligible to take job-protected leave for specified family and medical reasons with continuation of group health insurance coverage under the same terms and conditions as if the team member had not taken leave." For more information on what defines an eligible team member and medical reason please see [Employee Rights Under the Family and Medical Leave Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf).
+### Family Medical Leave Act
+The Family Medical Leave Act [FMLA](https://www.dol.gov/agencies/whd/fmla) provides eligible U.S team members up to 12-weeks, or up to 26- workweeks (in one 12 month period to care for an injured service member), unpaid time away from work for their own serious health condition, to care for a family member with a serious health condition, or to bond with a newborn or newly adopted child.  FMLA eligible leave time can be taken in continuous segments or intermittently as certified by a physician.  If FMLA is used to bond with a child, or newly adopted child, all eligible time must be used prior to the child’s first birthday or date of adoption. For more information  please see [Employee Rights Under the Family Medical Leave Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf).
+
+Team members must have 12 months of continuous service and 1250 hours worked in the year immediately before the start of their leave to be eligible for FMLA leave.  Working hours are calculated as actual hours worked and does not include PTO or vacation time.  GitLab calculates FMLA eligibility as a “rolling” 12-month period measured backward from the date of any FMLA leave usage. (Each time a team member takes FMLA leave, the remaining leave is the balance of the 12 weeks not used during the 12 months immediately before the FMLA leave is to start.)  
+
+All FMLA entitled leave will run concurrently with any State specific leave or pay program (if applicable), GitLab's PTO and sick leave policies (including COVID leave), and/or Short-Term disability benefits.  GitLab’s extended 25-day “don’t ask, must tell” PTO policy can not be used to delay, extend, or in lieu of FMLA.
+
+### How to Apply:
+Any medical related absence (for yourself or a family member) requiring you to be away from work for 5 or more calendar days (either continuously or non-continuous but related to the same condition) must be reported to leaves@gitlab.com. You will be contacted within 24-48 business hours (whenever possible) and provided with information regarding your request.  If approved, please submit your time away via PTO by Roots request utilizing the `Out Sick` option.
+
+### Payroll Processing During FMLA
+GitLab's extended 25-day PTO policy, and/or sick leave pay (including COVID leave) will run concurrently with FMLA.  If a team member's own leave extends beyond 25 days, and they are not eligible for other sick pay benefits, the team member must email a completed [Short-Term Disability application](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view) to leaves@gitlab.com no later than the 18th day of leave.  After the team member exhausts their 25 days of PTO, Cigna will pay 66.67% of the team member's weekly wages, and GitLab will provide the remaining 33.33% following our normal payroll calendar.
+
+### Admin Steps
+**Initial Leave Request:**
+1. Team Member (TM): Emails leaves@gitlab.com to notify them of their need for a medical related leave
+2. Absence Partner (AP): Review BambooHR to verify TM meets FMLA eligibility requirements (1yr of service AND 1250hrs worked in the year immediately prior to the leave)
+   - If Eligible:  Complete Entire Form
+   - If Ineligible:  Complete only Section 1
+        - Add Denial form to TM's "Leaves and Attestations" folder in BambooHR
+3. AP: Review any [state entitlements](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#state-specific-allowed-leaves) that the TM is eligible for
+4. AP: Email TM any State Leave program attachments required for employers (California-CFRA and Washington)
+5. AP: Email TM notifying them of receipt of their request for leave, provide them with resources the TM can review, and [FMLA Notice of Eligibility & Rights and Responsibilities](https://drive.google.com/file/d/1dOIT5jVwU_9dP3ziH_Ns_uicQP51ov3J/view?usp=sharing) within 5 days of the initial request for a leave of absence
+    - Include [Certification form](https://drive.google.com/file/d/1g0f7k07wpGbaufYTUmfBQzjMOozp7kRt/view?usp=sharing)
+       - TM has 15 days to return certification form
+    - Provide TM with [Short Term Disability paperwork](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view) (if time away if for the employee’s own condition)
+6. TM: Print off or email the Certification form for your provider to complete
+    - TMs may request reimbursement for the cost of printing forms if needed
+7. AP: Add FMLA Notice of Eligibility & Rights and Responsibilities notice to TM’s “Leaves and Attestations” folder in BambooHR
+8. AP: Add TM leave to the leave tracker
+9. AP: Add leave information in BambooHR (if leave is beginning immediately)
+
+**FMLA Certification Received:**
+1. TM:  Return certification form to AP within 15 days of beginning of the leave
+2. AP:  Reviews the form and either provides the [Designation Notice](https://drive.google.com/file/d/1gZLopSzgAw8bvdhovcKs8oZn4Qb7jeFh/view?usp=sharing) within 5 days of receiving the certification noting the approval/denial OR provide TM with an additional 7 days to provide more information or get a 2nd/3rd opinion (GitLab pays for these opinions)
+    - Include any State Entitlements the employee is approved for
+
+**If Approved:**  
+1. AP: adjust “status” column to approved in the Leave tracker
+2. AP: Edit leave status information into BambooHR
+    - Add approval letter to “Leaves and Attestations” folder in BambooHR
+    - Email both the TM and the Manager include: 
+      - Approval status
+      - Dates of approved leave
+      - Next steps for STD benefits and/or State paid benefits (if applicable)
+      - Company Sponsored Benefit information
+      - TM will remain on company sponsored benefits (medical, dental, etc) until they have exhausted all eligible job-protected leave and then will be made COBRA eligible 
+3.  TM: tracks time away as `Out Sick` in PTO by Roots.
+
+**If Denied:**  
+1. AP: Adjust “status” column to denied in the Leave tracker 
+2. AP: Add denial form to TM's “Leaves and Attestations” folder in BambooHR
+3. AP: Notify both the TM and the Manager of the denial and requirements for returning to work
+
+**FMLA Certification NOT Received:**
+1. AP: Send the [Designation Notice](https://drive.google.com/file/d/1gZLopSzgAw8bvdhovcKs8oZn4Qb7jeFh/view?usp=sharing) with Section 2 completed and provided TM 5 more days to return the completed certification
+2. AP: Add Designation Notice form to TM's “Leaves and Attestations” folder in BambooHR
+3. AP: Add the new form deadline to tracker
+    - If not received after 5 day extension:  Send the  Designation Notice with Section 1 completed
+    - Add form “Leaves and Attestations” folder in BambooHR
+    - Change “status” field in tracker to Denied
+
+## Parental Leave
+### Apply For Parental Leave in the US
+ 
+1. Notify the Total Rewards team of intention to take parental leave at least 30 days in advance, or as soon as reasonable by entering the dates in PTO Roots via Slack.
+2. For a birthing parent (maternity leave), the team member will fill out the [Leave Request Form](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) and [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) and email the completed forms to `leaves@gitlab.com`.
+     - The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will disperse those funds to the team member. The intention of this form is to keep payroll consistent for the team member via GitLab payroll vs needing to offset disability payments from Cigna. GitLab may need to offset any state related payments if applicable.
+     - Please see the Short-Term Disability claims process for more information on how the claim will be [processed with Cigna](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance) as well as specifics on how to fill out the Leave Request Form.
+1. The Absence team will send the team member an email with how payments will be processed and advise any differences in pay.
+1. The Absence team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Payroll team via the Payroll Changes google sheet.
+1. The team member will notify leaves@gitlab.com on their first day back to work.
+1. The Absence team will get a notification once the claim is closed.
+1. TODO Outline process to return the team member to work
+ 
+### Payroll Processing During Parental Leave
+ 
+**Non-Birthing Person Leave**
+Non-Birthing Person leave is not covered under Short-Term Disability, so if the team member is eligible for 100% of pay, payroll would enter 100% of the pay period hours under "Leave with Pay." Non-Birthing person leave is also offset for any state eligible payments.
+ 
+**Birthing Person Leave**
+For Birthing Person leave, GitLab will verify 100% of the wages are paid for eligible team members through payroll, Short-term Disability (STD), and state leave pay (where applicable).
+ 
+Parental leave is inclusive of public holidays that occur during within the start and end date of parental leave. GitLab will recieve the Short-Term Disability funds directly from Cigna and keep the GitLab team member paid at 100% of wages via payroll. Total Rewards will notify payroll of the "leave with pay" status using the start and end date of parental leave. Total Rewards will also notify payroll of any state related payments which may need to be offset.
+ 
+## State-Specific Allowed Leaves
+ 
+Each US state varies when it comes to types of leave employers are required to allow employees to take. GitLab's [Paid Time Off policy](/handbook/paid-time-off/) policy of "no ask, must tell" takes precendence but we still want our US team members to be aware of their specific types of leave in their state.
+ 
+| Leave Type                              | State or City/Region |
+|-----------------------------------------|-------|
+| Bereavement Leave                       | IL, OR, WA (Tacoma)  |
+| Blood/Bone Marrow/Organ Donation Leave  | AR, CA, CT, HI, IL, LA, ME, MD, MN, NE, NJ, NY, OR, SC, WI |
+| Court Attendance/Witness Leave          | CA, CT, DC, FL, GA, HI, IL, IN, IA, KY, MD, MA, MN, MO, NV, ND, OH, OR, PA, RI, TX, UT, VT, VI, WI, WY |
+| Crime Victims' Leave                    | AL, AK, AZ, AR, CA, CO, CT, DE, MD, MA, MI, MN, MS, MO, MT, NH, NY, OH, OR, PA, RI, SC, VT, VA, WY |
+| Domestic/Sexual Violence Victims' Leave | AZ, AR, CA, CO, CT, DC, FL, HI, IL, IA, KS, ME, MD, MA, MI, MN, NV, NJ, NM, NY, NC, OR, PA, RI, TX, VT, VA, WA |
+| Drinking and Driving Class Leave        | IA      |
+| Drug/alcohol Rehabilitation Leave       | CA      |
+| Election Officials' Leave               | AL, CA, DE, IL, KY, MN, NE, NC, OH, VA, WI  |
+| Emancipation Day Leave                  | DC      |
+| Emergency Evacuation Leave              | TX      |
+| Legislative/Political Leave             | CT, IA, ME, MN, MT, NV, OK, OR, SD, TX, VT, WV      |
+| Literacy Leave                          | CA      |
+| Mobile Support Unit Leave               | IN      |
+| Paid Family Leave                       | CA, CO, CT, DC, MA, NJ, NY, OR, RI, WA       |
+| Pregnancy Disability Leave              | CA, CT, HI, IA, LA, MN, MT, NH, OR, WA      |
+| Public Health Emergency (Quarantine/Isolation) Leave | AZ, CA (San Diego), CO, DE, IL (Cook Co), MA, MD (Montgomery Co), MI, MN, NJ, NY (Westchester Co & NYC), OR, PA (Pittsburgh), RI, SC, VT, WA  |
+| School Activities/Visitation Leave      | CA, DC, IL, LA, MA, MN, NV, NJ, NC, OR, RI, TN, VT   |
+| Student Leave                           | DC      |
+| Volunteer Emergency Responder Leave     | AL, CA, CO, CT, DE, IL, IN, IA, KS, KY, LA, ME, MD, MA, MO, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OR, PA, RI, SC, TN, UT, WA, WV, WI |
+| Voting Leave                            | AL, AK, AZ, AR, CA, CO, DC, GA, IL, IA, KS, KY, MD, MA, MN, MO, NE, NV, NM, NY, ND, OH, OK, SD, TN, TX, UT, VT, WV, WI, WY   |
  
 ## COBRA
  
