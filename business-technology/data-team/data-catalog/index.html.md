@@ -107,6 +107,7 @@ To gain access to SAFE Intermediate Dashboards:
 #### Analytics Projects
 
 * [2021-10-01 SAO Analysis](https://docs.google.com/presentation/d/1kmkmSRoAC7-CyNRzLc3vmH8NE-Abn6A-X6Z2JstCk1I/edit?usp=sharing)
+* [2022-01-10 Free Account conversion to First-Order Closed Won](https://docs.google.com/presentation/d/1_kNZww2gEBlMINa67PXpkhllHsU16mVzo_dM0Qx8d14/edit#slide=id.gedf1d4ec40_0_0)
 
 ### Sales
 
