@@ -223,3 +223,7 @@ If no error is found and the import is partial, most likely it is a timeout issu
   - See [this comment](https://gitlab.com/gitlab-org/gitlab/-/issues/27742#note_215721494) for an explanation as to why. As artifacts are part of repository size, whether they are present can make a big difference.
 - **Repository shows 0 commits**.
   - See [15348](https://gitlab.com/gitlab-org/gitlab/issues/15348).
+
+#### Correlation Dashboard
+
+If you found a Correlation ID that is relevant for your troubleshooting, you can utilize the correlation dashboard to quickly view all related components across indices without having to search each individual index. You can get to the correlation dashboard by navigating to `Analytics > Dashboard` in Kibana and typing in `correlation dashboard`. Once you view the dashboard, simply click on the `json.correlation_id` filter and enter in your found correlation ID. It will then search across web, workhorse, sidekiq, and gitaly indices.
