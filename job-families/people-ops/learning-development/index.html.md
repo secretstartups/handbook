@@ -150,6 +150,7 @@ The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compen
 - Extends the Manager, Learning & Development responsibilities
 - Lead the Learning and Development team of individual contributors and managers while creating quality learning lessons and programs
 - Develop the long term strategy of GitLab's Learning Development programs & learning paths for individual contributors, managers, aspiring managers, and executive leadership
+- Assess current and future business needs to develop a compelling and prioritized roadmap of L&D deliverables that accelerate team members' results
 - Introduce new learning vehicles that reinforce a personalized learning infrastructure that includes curated content, customized content, and eLearning modules
 - Apply adult learning theory best practices and the latest learning trends into GitLab that are handbook first
 
