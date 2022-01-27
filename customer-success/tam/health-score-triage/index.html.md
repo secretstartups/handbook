@@ -44,6 +44,16 @@ Calculation: ((Score * Weight) + (Score * Weight)... / (Max Potential Score * We
 To view the score, hover over the colored circle.
 The weight is shown in the upper right corner of the metric. 
 
+### Reporting and Viewing Health
+
+Use the `Customer Health` (TAM Portfolio Dashboard) report to view the health of every measure for your customers in one single view.
+
+To view Timeline entires where the TAM Sentiment was updated:
+
+1. Go to Global Timeline
+1. Filter by Sentiment = Green, Yellow, or Red
+1. Apply any other specific filters (TAM Name, Timeline date, etc)
+
 
 ### Green
 
