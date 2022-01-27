@@ -7,7 +7,7 @@ title: "Internal Communications"
 
 ### Internal Communications Associate
 
-The Internal Communications Associate reports to the Director, Internal Communications.
+The Internal Communications Associate reports to the Senior Manager, Internal Communications.
 
 #### Internal Communications Associate Job Grade
 
@@ -34,7 +34,7 @@ The Internal Communications Associate is a [grade 5](/handbook/total-rewards/com
 
 ### Internal Communications Program Manager
 
-The Internal Communications Program Manager reports to the Director, Internal Communications.
+The Internal Communications Program Manager reports to the Senior Manager, Internal Communications.
 
 #### Internal Communications Program Manager Job Grade
 
@@ -63,7 +63,7 @@ The Internal Communications Program Manager is a [grade 6](/handbook/total-rewar
 
 ### Senior Internal Communications Manager
 
-The Senior Internal Communications Manager reports to the Director, Internal Communications.
+The Senior Internal Communications Manager reports to the Senior Manager, Internal Communications.
 
 #### Senior Internal Communications Manager Job Grade
 
@@ -94,7 +94,7 @@ The Senior Internal Communications Manager is a [grade 7](/handbook/total-reward
 
 ### Staff Internal Communications Manager
 
-The Staff Internal Communications Manager reports to the Director, Internal Communications.
+The Staff Internal Communications Manager reports to the Senior Manager, Internal Communications.
 
 #### Staff Internal Communications Manager Job Grade
 
@@ -103,6 +103,9 @@ The Staff Internal Communications Manager is a [grade 8](/handbook/total-rewards
 #### Staff Internal Communications Manager Responsibilities
 
 * Extends that of the Senior Internal Communications Manager responsibilities
+* Partner with the Internal Communications leader in providing ‘internal PR’ support, including crisis communications
+* Once internal communications team grows, partner and provide dedicated communications support to certain E-Group members and leaders of their functions (think HR Business partner type model)
+
 
 #### Staff Internal Communications Manager Requirements
 
@@ -110,16 +113,18 @@ The Staff Internal Communications Manager is a [grade 8](/handbook/total-rewards
 * Out-of-the-box thinker who is both creative and strategic
 * Intellectual curiosity and want to learn anything and everything
 
-### Principal Internal Communications Manager 
+### Senior Manager, Internal Communications 
 
-The Principal Internal Communications Manager reports to the Director, Internal Communications.
+The Senior Manager, Internal Communications reports to the [Senior Director, Talent Brand and Enablement](job-families/people-ops/talent-brand-and-talent-acquisition-enablement/#senior-director-of-talent-brand--talent-acquisition-enablement).
 
-#### Principal Internal Communications Manager Job Grade
+#### Senior Manager, Internal Communications Job Grade
 
-The Principal Internal Communications Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Internal Communications is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Principal Internal Communications Manager Responsibilities
+#### Senior Manager, Internal Communications Responsibilities
 
+* Drive a three-year internal communications roadmap
+* Lead, hire, and coach the growing  internal communications team
 * Influence and collaborate with E-Group and members of the Marketing and People teams to plan and improve company-wide team member communications including Slack, issue comments, and other asynchronous communication, Handbook education, company calls, breakout calls, group conversations, AMAs, etc.
 * Help drive CEO internal communications through supporting Group Conversations, Contribute and priority initiatives through crafting messaging and creating materials
 * Help moderate internal communications to ensure GitLab values are upheld as well as compliance with our code of conduct
@@ -130,7 +135,7 @@ The Principal Internal Communications Manager is a [grade 9](/handbook/total-rew
 * Collaborate with key stakeholders to develop specific communication plans (e.g., work with People Business Partners and People Operations on Engagement Survey communication)
 * Plan, communicate, and coordinate celebratory occasions, company communication initiatives, volunteer activities, and other team member engagement opportunities
 
-#### Principal Internal Communications Manager Requirements
+#### Senior Manager, Internal Communications Requirements
 
 * Relevant communications experience
 * Demonstrate the capability to drive initiatives, develop thoughtful communication strategies, and deliver results at a senior level.
