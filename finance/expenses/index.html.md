@@ -220,11 +220,11 @@ When expensing Team member gifts please use the tag FY22_EmployeeGiftsFlowers.
 
 ### Team Building Budget
 
-In FY22, each eGroup member has been allocated $50 per team member per quarter for FY22-Q1 to FY22-Q3 for team building events. There is an additional budget for $100 per team member in FY22-Q4. More to come in the section below as we get closer to FY22-Q4.
+In FY23, each eGroup member has been allocated $50 per team member per quarter for FY23-Q1 to FY23-Q3 for team building events. For FY23-Q3 each eGroup member may determine if they wish to use their team building allocation at Contribute or for a different team building event. There is not additional team building budget for Contribute above the $50 per team member. In FY23-Q4 there is an additional budget of $100 per team member. More to come in the section below as we get closer to FY23-Q4.
 
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Year-end Holiday Party Budget
 
-GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. Due to continued travel restrictions, each eGroup member will be responsible for setting the holiday event guidelines for their teams.  The budget per team member is $100 USD.  if you have any questions, please reach out to your eGroup member.
+GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. More guidance to come as we get closer to FY23-Q4.
 
 ### Virtual Meal with GitLab Team member(s)
 
