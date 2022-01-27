@@ -34,10 +34,27 @@ Having the ability to secure the low LAM customers on longer contracts with upfr
 
 
 ## Exit Criteria 
+- Long term (3yr time horiozon) architecture plan for Self Service purchasing and subscription management. 
+- Completed wish list from core ecommerce stakeholders on features and capabilities for self services purchasing and subscription management
+- Analysis on build vs buy options including a recommendation on which path to take aligned with our long term architecture plan (note: not a commitment, just a POV)
+- Formalized proposal to review with egroup. 
+
+## Estimated Timeline
+- Full delivery of all exit criteria ready for review by 2022-02-14
+
 
 ## Roles and Responsibilities
 
 | Working Group Role    | Person                | Title                                           |
 |-----------------------|-----------------------|-------------------------------------------------|
-
+| Executive Sponsor | Ryan O'Nell | VP, Commercial |
+| Facilitator | Kazem Kutob | Director, Online Sales & Self Service |
+| Member | Justin Farris | Sr, Director Product Monetization | 
+| Member | Alex Martin | Sr Manager, Online Sales |
+| Member | Bryan Wise | VP, IT |
+| Member | Cheri Holmes | Chief of Staff to CRO |
+| Member | Christopher Nelson | Sr Director, Enterprise Applications |
+| Member | Jake Bielecki | Sr Director, Sales Strategy and Ops |
+| Member | Jerome Z Ng | Sr Engineering Manager, Fulfillment |
+| Member | Omar Fernandez | Interim Director of Product, Fulfillment | 
 
