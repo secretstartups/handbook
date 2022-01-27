@@ -16,12 +16,21 @@ description: "The Deal Desk team's mission is to streamline the opportunity mana
 
 The Deal Desk team's mission is to streamline the opportunity management process while acting as a trusted business partner for field sales. We are the first point of contact for sales support. 
 
-### Key Focus Areas
+### What We Do
     
-*  Sales Support
-*  Quote Configuration
-*  Complex/Non-standard Deal structure
+*  Sales Support 
+*  Troubleshooting Quote Configuration
+*  Complex/Non-standard Deal Structure
+*  Deal Structure Approval Guidance
 *  Month End / Quarter End Reconciliation 
+
+### Out of Scope
+
+* Standard Quote Creation
+* Opportunity Creation
+* Forecast Management 
+* RFP/Vendor Form Responses
+* Customer / Partner facing communication 
 
 ### Helpful Links
 
@@ -49,7 +58,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
     *   Sample Order Form 
 
 
-#### Deal Desk - A Global Presence
+### Deal Desk - A Global Presence
 
 The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 5:00pm for the local time of the team member. If a complex case or non standard deal request is submitted after 4:00PM (Local Time) the case will be prioritized the following business day.  
 
@@ -83,10 +92,6 @@ The SLAs below are applicable (especially for contract resets and ramp deals) if
 | Contract Reset / Co-Term | 6 Hours | 24 Hours | 
 | RFP/Vendor Forms | 6 Hours | Dependent on AM |
 
-#### Reports To Track Deal Desk SLA 
-
-[Cases / Average First Response](https://gitlab.my.salesforce.com/00O4M000004edoT)
-
 ##### SLA for EoA Ramp Deal Requests
 
 The Deal Desk team will respond to E0A Ramp requests as quickly as possible. However, due to the complexity involved in building ramp deals, the SLA for an EoA Ramp Deal Order Form creation is as follows:
@@ -97,6 +102,16 @@ The Deal Desk team will respond to E0A Ramp requests as quickly as possible. How
 | > 30 days in the future| 4 Hours | 3 Business Days |
 
 A Deal Desk team member will respond to your chatter request with an estimate on when the Order Form will be complete. Please let us know if your customer requires the quote in advance due to lengthy procurement cycles or budget planning reasons - exceptions will be considered in cases of urgency, or to meet a customer's needs.
+
+#### Escalation Path for Case Review
+
+Cases that are urgent, customer impacting, or critical to buisness may be prioritized upon request. If the case has been submitted after Standard Support hours, you may escalated the case for a different regional team to review in the #sales-support Slack channel. You may also tag regional Deal Desk Managers for review and assitance in delegating the case. 
+
+Cases in this queue must be urgent and business critical. Cases that are routinely escalated out of indiviudal convienience instead of legitimate urgency will be addressed with Sales Management. 
+
+#### Reports To Track Deal Desk SLA 
+
+[Cases / Average First Response](https://gitlab.my.salesforce.com/00O4M000004edoT)
 
 #### 3. Case Reduction through Proactive Support - Training, Documentation, and System Improvements 
 
