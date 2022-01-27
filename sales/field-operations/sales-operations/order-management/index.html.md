@@ -32,7 +32,37 @@ The team owns the following processes & documentation sources:
 - Opportunity Reconciliation 
 - Sales Order Processing Handbook 
 
+### Out of Scope
+
+Order Management is focused on Opportunity Approvals, License Fulfillment and Subscription Mangement. The following tasks are outside the role and responsiblity of our team. Please reach out to Deal Desk for assistance with the following:
+
+- Quote Creation
+- RFPs / Vendor Forms 
+- Discount / Payment Term Approval Guidance
+- Quote Approval Guidance
+- Opportunities below Stage-5 
+
 Please review our [Job Family](https://about.gitlab.com/job-families/sales/order-management/) for more information regarding the scope of this team. 
+
+### Opportunity Approval Process
+
+Order Management reviews every Sales Assisted opportunity prior to booking. All opportunities must meet our standard opportunity bookign requirements. An opportunity will be rejected if it is missing components necessary to booking. 
+
+#### Opportunity Prioritization 
+
+All opportunities in the approval queue are prioritized based on the following: 
+
+1. Start Date 
+1. Revenue Generation
+1. Order of Submission 
+
+The Order Management team will make every effort to ensure all opportunities submitted at Month End and Quarter End are reviewed and approved in the same month. Please do not tag for urgent review during End of Month or End of Quarter. 
+
+#### Escalation Path for Opportunity Review
+
+Approvals that are urgent, customer impacting, or critical to buisness may be prioritized upon request. If the opportunity has been submitted after Standard Support hours, you may escalated the opp for a different regional team to review in the #sales-support Slack channel. You may also tag regional Deal Desk Managers for review and assist in delegating the case. 
+
+Opportunities raised for urgent review must be business critical. Opportunities that are routinely escalated out of indiviudal convienience instead of legitimate urgency will be addressed with Sales Management. 
 
 #### Opportunity Approval Workflow
 
@@ -48,15 +78,7 @@ graph LR;
 
 ```
 
-### Out of Scope
 
-Order Management is focused on Opportunity Approvals, License Fulfillment and Subscription Mangement. The following tasks are outside the role and responsiblity of our team. Please reach out to Deal Desk for assistance with the following:
-
-- Quote Creation
-- RFPs / Vendor Forms 
-- Discount / Payment Term Approval Guidance
-- Quote Approval Guidance
-- Opportunities below Stage-5 
 
 ### Meet the Team 
 
