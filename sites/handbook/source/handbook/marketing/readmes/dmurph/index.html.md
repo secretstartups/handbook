@@ -50,6 +50,7 @@ For more on this topic, I've shared [17 questions that this role answers](https:
 
 * CNBC — [Embracing Remote Work: Meet the Oracles](https://www.cnbc.com/video/2020/11/13/embracing-remote-work-meet-the-oracles.html)
 * Protocol - [Do you need to hire a 'head of remote?'](https://www.protocol.com/workplace/head-of-remote-darren-murph)
+* Forbes — [The Next In-Demand Job Title: Head Of The Future Of Work](https://www.forbes.com/sites/jenamcgregor/2022/01/18/the-next-in-demand-job-title-head-of-the-future-of-work/?sh=776b6d5160b8)
 * NPR Marketplace — [Why more companies are hiring heads of remote work](https://www.marketplace.org/2021/10/26/why-more-companies-are-hiring-heads-of-remote-work/)
 * Digiday — [‘Change without story is a mandate, change with story is purpose’: Why marketing and comms execs are being tapped for chief-of-remote roles](https://digiday.com/marketing/change-without-story-is-a-mandate-change-with-story-is-purpose-why-marketing-and-comms-execs-are-being-tapped-for-chief-of-remote-roles/)
 * Ladders — [The dawn of the age of Chief Remote Work Officers](https://www.theladders.com/career-advice/the-dawn-of-the-age-of-chief-remote-work-officers)
@@ -188,7 +189,9 @@ While each of GitLab's [values](/handbook/values/) are extremely important to me
 
 When you primarily work from home, investing in your [workspace](/company/culture/all-remote/workspace/) is important. Below is a list of the current equipment I use. 
 
-![GitLab Sony A6400 webcam setup](/images/all-remote/sony-a6400-webcam-setup-gitlab.jpg){: .shadow.medium.center}
+![2022 standing desk home office space](/images/all-remote/DM_Home_Workspace_2022_01.jpg){: .shadow.medium.center}
+2022 home office arrangement, pre-standing desk
+{: .note.text-center}
 
 * [Sony Alpha A6400 mirrorless camera](https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6400) (used as a webcam)
 * 16-50mm OSS f3.5-5.6 kit lens (would prefer a prime lens at f1.8; Job at Remote [uses one](https://remote.com/blog/maximum-productivity-home-office))
@@ -199,14 +202,20 @@ When you primarily work from home, investing in your [workspace](/company/cultur
 * mini-HDMI to HDMI cable (you'll need this to go from your mirrorless camera into the Elgato HD 60 S+)
 * USB-C cable (included with Elgato HD 60 S+)
 * Micro-USB power cable (included with camera)
+* [Autonomous SmartDesk Corner adjustable L-shaped desk](https://www.autonomous.ai/standing-desks/l-shaped-smartdesk?option2=7&option1=1909&option16=36&option17=1910)
 * [Steelcase Gesture chair](https://www.steelcase.com/products/office-chairs/gesture/) (can be found secondhand for far less than retail)
-* [Apple Thunderbolt Display](https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display) (x2); *this model is no longer produced*
+* [Dell UltraSharp 43-inch 4K USB-C Monitor: U4320Q](https://www.dell.com/en-us/work/shop/dell-ultrasharp-43-4k-usb-c-monitor-u4320q/apd/210-avke/monitors-monitor-accessories)
+* [Apple Thunderbolt Display](https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display) (2); *this model is no longer produced*
 * [Klipsch ProMedia 2.1 speakers](https://www.klipsch.com/products/klipsch-promedia-2-1-thx-certified-computer-speaker)
 * [13-inch Apple MacBook Pro](https://www.apple.com/macbook-pro/)
 * [Twelve South HiRise for MacBook laptop stand](https://www.twelvesouth.com/products/hirise-for-macbook)
 * [Apple Magic Mouse](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver)
 * [Apple Keyboard with numeric keypad](https://www.apple.com/shop/product/MQ052LL/A/magic-keyboard-with-numeric-keypad-us-english-silver) (wired version no longer produced)
 * [Grovemade mouse pad](https://grovemade.com/product/leather-and-walnut-mouse-pad/?initial=66)
+
+![GitLab Sony A6400 webcam setup](/images/all-remote/sony-a6400-webcam-setup-gitlab.jpg){: .shadow.medium.center}
+2020 home office arrangement, pre-standing desk
+{: .note.text-center}
 
 This is the result of that as viewed through Zoom. Note that while the video output of this arrangement is 1080p, Zoom and most other video call tools cap resolution at 720p. 
 
