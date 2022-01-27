@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: "Contributor Success Engineering Manager"
+title: "Engineering Management - Contributor Success"
 ---
 
 The Contributor Success Engineering Manager manages a team of full-stack engineers driving efficiency and improvements of our contribution process. 
@@ -74,7 +74,7 @@ This is a future level where we will outline the requirements and responsibiliti
 The Senior Manager, Contributor Success  is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Contributor Success Responsibilities 
-The Senior Manager, Contributor Success role extends the [Manager, Contributor Success](#senior-manager-contributor-success) role.
+The Senior Manager, Contributor Success role extends the [Manager, Contributor Success](#manager-contributor-success) role.
 
 * We are not currently hiring for this role & will add more detail responsibilites when the bussiness need arises.
 
@@ -101,19 +101,18 @@ The Director, Contributor Success role extends the [Senior Manager, Contributor 
 * Align the day-to-day execution of the Contributor Success to the top objectives of the company. Consistently ensure top objectives are well communicated.
 * Collaborate closely with director peers across the Engineering Division and wider GitLab team. 
 * Foster healthy conflict amongst the teams to resolve issues quickly.
-* Define roles, grow, and hire your teams for what is needed from the business in the next 3-4 years.
-* Coach the Contributor Success team to work within our communication guidelines and lead by example.
+* Define roles, grow, and hire Contributor Success for what is needed from the business in the next 3-4 years.
 * Interface with GitLab Core team & the wider community to capture feedback and opportinities. .
 * Occasionally contributes to the company blog.
 * Occasionally represent the company publicly at conferences.
 
 #### Director, Contributor Success Requirements
 
-* Extensive experience managing and working with the community at large.
+* Track record leading & working with the open source community at large.
 * Track record of influencing bussiness stakeholders from multiple domains to attain company objective.
 * Excellent written and verbal communication skills. Able to convey bottom-line messages to executives at C & VP level.
-* Present at conferences and meet-ups in the Contributor Success domain.
-* Lead a team who have built a world-class contribution success program. 
+* Experience presenting at conferences and meet-ups in the Open Source community.
+* Experience building a world-class open source contribution program. 
 * Share our [values](/handbook/values/), and work in accordance with those values.
 
 
