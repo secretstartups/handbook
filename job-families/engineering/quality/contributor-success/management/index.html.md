@@ -97,14 +97,14 @@ The Director, Contributor Success role extends the [Senior Manager, Contributor 
 * Drive improvements to KPIs and PIs that is in Contributor Success's line-of-work and job-family.
 * Drive quarterly OKR retrospectives and improvements that impacts Contributor Success.
 * Publish and socialize the progress of the Contributor Success broadly throughout the company and the community.
-* Hire world class Contributor Success engineers.
 * Align the day-to-day execution of the Contributor Success to the top objectives of the company. Consistently ensure top objectives are well communicated.
 * Collaborate closely with director peers across the Engineering Division and wider GitLab team. 
 * Foster healthy conflict amongst the teams to resolve issues quickly.
+* Hire world class Contributor Success Engineers & Managers.
 * Define roles, grow, and hire Contributor Success for what is needed from the business in the next 3-4 years.
-* Interface with GitLab Core team & the wider community to capture feedback and opportinities. .
-* Occasionally contributes to the company blog.
-* Occasionally represent the company publicly at conferences.
+* Interface with GitLab Core team & the wider community to capture feedback and opportunities.
+* Occasionally contribute to the company blog.
+* Represent the company at outreach events.
 
 #### Director, Contributor Success Requirements
 
