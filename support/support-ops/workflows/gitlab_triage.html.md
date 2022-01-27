@@ -16,7 +16,7 @@ description: 'Details on the workflow for issue/MR triaging'
 To help maintain a sense of data integrity within the issues we work, we have a
 triage process implemented into GitLab.com. This runs from the
 [support-ops-project repo](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/)
-utilizing the [GitLab Triage Gem](https://gitlab.com/gitlab-org/gitlab-triage)
+utilizing the [GitLab Triage Gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage)
 and our custom written 
 [triage policies](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/blob/master/.triage-policies.yml).
 
@@ -35,7 +35,7 @@ to have a good grasp of what they all mean.
 
 Via a
 [.gitlab-ci.yml](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/blob/master/.gitlab-ci.yml)
-file, the [GitLab Triage Gem](https://gitlab.com/gitlab-org/gitlab-triage) runs
+file, the [GitLab Triage Gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage) runs
 once a day at 1200 UTC. 
 
 ### Current triage policies
