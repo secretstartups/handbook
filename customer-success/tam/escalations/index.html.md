@@ -33,65 +33,86 @@ This addresses critical and high escalations for Enterprise customers. This can 
 - Cadence refers to the cadence of internal and external meetings and communications to the customer.
 - Level of involvement defines scope of internal communication and awareness. Others can be included based on the type of issues involved.
 
-## Responsibilities
-
 ### Escalation DRI
 
-Based on the level of the escalation, the DRI for the escalation will either be someone in Support for low and medium level or the TAM for high and critical escalations. Key general responsibilities include:
+Based on the level of the escalation, the DRI for the escalation will be:
 
-- Coordination of internal GitLab and customer resources to drive troubleshooting and resolution of the issue
-- Management of customer and internal communications
+1. Support for low or medium-level escalations
+2. The TAM for high and critical escalations that are **outside of a professional services project**, 
+3. The Professional Services Project Manager for any escalation during/as a part of a professional services project. 
+
+At the beginning of the escalation, the DRI must be determined - the DRI owns the following responsibilities and key steps:
+
 - Overall articulation of the approach to resolution, including ensuring the plan and approach is understood
-- Assist overall collaboration (i.e., setting up meetings)
+- Coordination of internal GitLab and customer resources to drive troubleshooting and resolution of the issue
+- Management of customer and internal communications, both async and synchronous 
+- Ownership of next steps, ensuring these are determined, communicated clearly with appropriate timelines to meet the level of urgency
 
 ### Critical and High-Level Escalations
 
-- TAMs are responsible for managing the account engagement (not ticket), including:
-    - Management of internal team and customer meetings for follow-up activities. Note: To ensure the TAM does not slow the resolution of issues, the TAM doesn't need to be in all meetings (e.g., technical troubleshooting with customer and support/development).
-    - Driving and coordinating TAM escalation process internally and with the customer, including associated communications, and executive-level meetings.
-    - Developing and maintaining the escalation document and supporting account documents.
-    - Acting as an escalation point for customer-related issues (e.g., delayed response, open actions, non-compliance installation or use of the product, etc.)
-    - Developing the business case justification and escalation to Product for escalations related to enhancement requests
+- The DRI is responsible for managing the account engagement (not the ticket), including:
+
+- Management of internal team and customer meetings for follow-up activities. 
+
+- - Note: To ensure the DRI does not slow the resolution of issues, the DRI doesn't need to be in all meetings (e.g., technical troubleshooting with the customer and support/development).
+  - Driving and coordinating the escalation process internally and with the customer, including associated communications and executive-level meetings.
+  - Developing and maintaining the escalation document and supporting account documents.
+  - Acting as an escalation point for customer-related issues (e.g., delayed response, open actions, non-compliance installation or product use, etc.)
+  - Developing the business case justification and escalation to Product for escalations related to enhancement requests
+  - Posting a daily update to the dedicated escalated customer Slack channel to ensure all parties are kept updated
+
 - Support Engineering is responsible for:
-    - Collaborating with technical resources (e.g., Development, Quality Assurance, SREs and Support Engineering staff) to drive resolution of the technical issues
-    - Managing the 24x7 incident resolution and escalation process (i.e., Support Engineering, SRE, Development)
-    - Supporting executive and customer calls (as needed)
+
+- - Collaborating with technical resources (e.g., Development, Quality Assurance, SREs, and Support Engineering staff) to drive resolution of the technical issues
+  - Managing the 24x7 incident resolution and escalation process (i.e., Support Engineering, SRE, Development)
+  - Supporting executive and customer calls (as needed)
 
 ### Medium and Low-Level Escalations
 
 - Support Engineering is responsible for managing Low and Medium level escalations, leveraging other teams (e.g., Technical Account Managers (TAMs), Engineering) as needed.
-- If a TAM is assigned, Support Engineering should inform the TAM of the escalation.
-- The TAM is responsible for managing any account-related issues (e.g., delayed response, open actions, non-compliance installation or use of the product, etc.).
+- Support Engineering should inform the TAM of the escalation if a TAM is assigned.
+- The TAM is responsible for managing any account-related issues (e.g., delayed response, open actions, non-compliance installation or product use, etc.).
 
-## Initiating and Closing an Escalation
+## Initiating, Managing, and Closing an Escalation
 
-Depending on the level of customer impact, either Technical Support or TAM organization may initiate the escalation. The following steps should be taken:
+The following steps are to be taken by the escalation DRI:
 
-- For medium, high and critical-level escalations, create an escalation document using the [Escalation Tracker Template](https://docs.google.com/document/d/1DFW9WDigDZTRQlArqvyaLl_GcYi5lwsxKKKtcjB49s0/edit#) (internal GitLab access only). 
-    - Save the document for each individual customer and replace (CUSTOMER) with the customer name.
-- Create a temporary slack channel to facilitate communication internally at GitLab. This will remain open until the escalation is closed and should be documented in the escalation document. 
-- When a customer escalation is defined, the escalation document and the name of the temporary slack channel should be posted into the `#escalated_customers` channel by the escalation owner (i.e., Support for Low/Medium severity, TAM for high/critical severity escalations). The posting to this channel should occur:
-    - when the escalation is identified and created
-    - posting daily updates
-    - when the escalation is closed or risk reduced to standard business process to manage (i.e., issue resolved and monitoring the solution)
-    - The `#escalated_customers` channel is for awareness only and is not intended to replace the dedicated slack channel created as above, the account or support channels. Leverage the specific escalation channel created for working communications, collaborations and executive updates.
-- Maintain the escalations document
-    - Account Summary: Basic customer information (ARR, Renewal date, customer contact list, etc.), but also defines who the DRI is for the escalation and keeping the escalation doc updated
-        - DRI: Always include the TAM, but also useful to include DRI's from Support, Professional Services, Product or Engineering
-    - Executive Summary: This section does not need to be updated daily but should be updated when there are changes to the status of the overall engagement (e.g., top-level issue status, milestones, etc.)
-    - *Optional*: Milestones should include key customer and GitLab milestones
-    - Timeline: For an ongoing escalation or emergency call, a running timeline of what's going on, what's been tried, what's failed, etc. is helpful for anyone coming into an ongoing call.
-    - Meeting notes: Capture notes from both customer and internal meetings
-    - Document updates at a cadence defined by the level of the escalation 
-    - Copy any key updates or next steps from other channels like Slack
+### Opening the Escalation
+
+For Critical and High-Level escalations, create an escalation document using the [Escalation Tracker Template](https://docs.google.com/document/d/1DFW9WDigDZTRQlArqvyaLl_GcYi5lwsxKKKtcjB49s0/edit#) (internal GitLab access only). 
+
+1. Copy and save the document for the individual customer and replace (CUSTOMER) with the customer name, complete the required fields
+2. Create a temporary slack channel to facilitate communication internally at GitLab. This channel will remain open until the escalation is closed and should be listed in the escalation document. Name the channel #a_customername_escalation and ensure it is a public channel so that relevant parties can be easily added/find the channel. 
+3. Post the escalation document and the name of the temporary slack channel into the #escalated_customers. The posting to this channel should occur:
+
+- - when the escalation is identified and created
+  - when the escalation is closed or risk reduced to standard business process to manage (i.e., issue resolved and monitoring the solution)
+
+- The #escalated_customers channel is for awareness only and is not intended to replace the dedicated slack channel created as above, the account or support channels. Leverage the specific escalation channel created for working communications, collaborations and executive updates.
+
+- If requested, The VP of Product is responsible for designating Product Leaders who will be the R&D response DRIs for the escalation. That process is expected to happen in the #a_customername_escalation channel with a ping to the VP of Product stating - @david - This is a newly escalated customer, and we are looking for you to assign a Product Leader to be the R&D DRI for the response.
+
+### Managing the Escalation:
+
+- DRI owns the functions as outlined here
+- Escalation document kept updated with minimum daily updates
+- Daily Slack updates are posted to the designated customer escalation channel (see escalation doc for format)
+
+### Closing the Escalation
+
+- To close an escalation, a clear alignment between GitLab stakeholders and the customer (including documentation in an issue or email) is required. Both parties need to agree the situation is resolved. 
+
+- If the customer requests an RCA and the escalation was platform-related, GitLab engineering will lead the RCA and will provide it in writing to the corresponding GitLab DRI, who is managing & closing the escalation.
+
 - When the issue(s) related to the escalation are resolved or move into a non-escalated state:
-    - An update should be posted to `#escalated_customers `at with the status and reason for closure
-    - Escalation document updated with reason for closure
-    - The temporary Slack channel can be archived
+
+- - An update should be posted to #escalated_customers with the status and resolution
+  - Escalation document updated with resolution
+  - The temporary Slack channel can be archived
 
 ## Support Engineering's role in Escalations
 
-See the Support Engineering Guide to Escalations for more specific information on how support manages customers in an escalated state.
+See the [Support Engineering Guide to Escalations](https://about.gitlab.com/handbook/support/internal-support/support-escalations.html) for more specific information on how support manages customers in an escalated state.
 
 ## Related Links
 
