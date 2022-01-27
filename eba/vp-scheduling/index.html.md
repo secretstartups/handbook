@@ -18,8 +18,8 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
 * Keep meetings to 25 or 50 minutes unless otherwise specified
 * Direct Report 1:1's occur weekly
 * Skip level 1:1's occur every other month
-* 1:1 meetings are dark dark green, external meetings are orange, coffee chats are light blue, reminders are in yellow, interviews are in dark blue, anything where attendance is essential and Pattie plays a crucial part in the meeting should be noted in red.
-* Do not schedule over DNB: Work Time blocks without consulting the EBA of the People Group.
+* Calendar color coding: Confirmed meetings- Dark green, Manager meetings- light green, Important meetings NOT to be moved are in red, Personal meetings- Flamingo (Pink)
+* Do not schedule over DNB: Focus Time blocks without consulting the EBA of the People Group.
 * Scheduling should ideally be kept between 9:00 am and 5:00 pm PT
 
 ## Scheduling for Rob Allen, VP, Talent Acquisition
@@ -28,18 +28,9 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
 * Keep meetings to 25 or 50 minutes unless otherwise specified
 * Direct Report 1:1's occur weekly
 * Skip level 1:1's occur every other month
-* 1:1 meetings are dark dark green, external meetings are orange, coffee chats are light blue, reminders are in yellow, interviews are in dark blue, anything where attendance is essential and Pattie plays a crucial part in the meeting should be noted in red.
-* Do not schedule over DNB: Work Time blocks without consulting the EBA of the People Group.
-* Scheduling should ideally be kept between 8:00 am and 5:00 pm PT
-
-## Scheduling for Carol Teskey, Sr. Director, People Success
-
-* Please schedule all meetings through the People Function's EBA, Katrina Allen
-* Keep meetings to 25 or 50 minutes unless otherwise specified
-* Direct Report 1:1's occur weekly
-* 1:1 meetings are dark dark green, internal meetings are purple, external meetings are orange, coffee chats are light blue, reminders are in yellow, interviews are in dark blue, anything where attendance is essential and Carol plays a huge part in the meeting should be noted in red.
-* Do not schedule over DNB: Work Time blocks without consulting the EBA of the People Group.
-* Scheduling should ideally be kept between 9:00 am and 6:00 pm Irish Standard Time
+* Calendar color coding: Confirmed meetings- Dark green, Manager meetings- light green, Important meetings NOT to be moved are in red, Personal meetings- Flamingo (Pink)
+* Do not schedule over DNB: Focus Time blocks without consulting the EBA of the People Group.
+* Scheduling should ideally be kept between 8:00 am and 4:00 pm PT
 
 ## Scheduling for Sales VPs
 
