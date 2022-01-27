@@ -17,7 +17,16 @@ Taking time off is not a selfish behavior. Not only is time away from work align
 
 It is so important to take time off to recharge batteries and refresh the mind so you can come back to GitLab with renewed energy and be prepared to do your best work ever!
 
-This page is written with a focus on vacation. If taking time off for medical needs, whether physical or mental, you should follow the appropriate process in your location. In the United States, if you are missing more than 25 calendar days of work due to medical requirements, you should move onto [Short-Term Disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance), or the equivalent in your location. Please be aware that certain states in the US need you to notify of your need to use short-term disability prior to these 25 calendar days, so please follow the directions in the [Group Long-Term and Short-Term Disability Insurance](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance) handbook section. The below recommendations on communicating your time off apply to time off for all reasons where possible and avoid concerns of health, safety, or job abandonment.
+This page is written with a focus on vacation.  The below recommendations on communicating your time off apply to time off for all reasons where possible and avoid concerns of health, safety, or job abandonment.
+If taking time off for medical needs or sick time, whether physical or mental, please follow our [Sick Time Policy](/handbook/paid-time-off/#sick-time-procedures---all-team-members). 
+
+In the United States, if you are missing more than 5 calendar days of work due to a serious medical or to care for a family member with a serious medical condition, your time away will be administered under the Family Medical Leave Act (FMLA).  Your pay will be administered under our PTO policy for the first 25 days, and then you should move onto [Short-Term Disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance), or the equivalent State pay benefits. 
+    
+* Please be aware that certain states in the US require you to notify your employer of the need for a medical leave prior to your first day of leave whenever possible. To ensure timely reporting and prevent any delays in your pay, please follow the instructions listed in the [Family Medical Leave Act](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#family-medical-leave-act) handbook section to report your time away. 
+    
+If you are taking Parental Leave, please see our [Parental Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+
+## A GitLab team member's Guide to Time Off
 
 A support engineer remarked that “In the 3 months I've been at GitLab, I've taken more time off than the last 2 years at my previous job.”
 
@@ -26,8 +35,6 @@ Another great example of taking time off is a GitLab team member taking a day to
 If you are taking Parental Leave, please see our [Parental Leave Policy](/handbook/people-policies/leave-of-absence/#parental-leave).
 
 Paid time off is in addition to any [official public holidays](#a-gitlab-team-members-guide-to-time-off) that apply to the country where you live. When accounting for such holidays in [PTO by Roots](#pto-by-roots), do specify a "Public Holidays" event. This helps us to ensure that all of our Team Members are meeting at least the [Statutory Vacation Requirements](#statutory-vacation-requirements).
-
-## A GitLab team member's Guide to Time Off
 
 As we all work remotely it can sometimes be difficult to know when and how to plan time off. Here is some advice and guidance on how this can be done in an easy and collaborative way. **Please note that for audit and compliance purposes, all team members are required to use [PTO by Roots](#pto-by-roots) as the single source of truth to accurately track and communicate all time off.**
 
@@ -120,15 +127,17 @@ In keeping with our values of [CREDIT](/handbook/values/), we have crafted the f
 
 If you or a loved one is ill, we want you to take care of yourself or your loved one(s). To facilitate this, you should take sick time when you need it. Sick time is meant to be used when you are ill, or to care for family members including your parent(s), child(ren), spouse, registered domestic partner, grandparent(s), grandchild(ren), or sibling(s). 
 
-Sick time refers to the time a team member takes to address either their health, or the health of a close family member, and also for preventative reasons like a doctor’s appointment. 
+Sick time refers to the time away a team member needs to recover from illness, or care for a close family member recovering from illness. Sick time may be used for preventative reasons like a doctor’s appointment, or for reoccuring appointments needed when recovering from an illness (i.e chemotherapy, chiropratic visits, or pre-natal care).
 
 You still need to report when you take sick time, by entering the dates as an `Out Sick` type of OOO event in [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) via Slack. Once entered in PTO by Roots, your sick time will be automatically updated in BambooHR and payroll can note and update any other systems as needed.
 
-If you need sick leave for more than 8 consecutive calendar days, please follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-time-off/#communicating-illness-related-leave) section.
+If you need sick leave for more than 5 consecutive calendar days, or 5 non-continuous days related to the same illness, please follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-time-off/#communicating-illness-related-leave) section.
 
 #### Sick Time Procedures - USA
 
-Employees of GitLab Inc. can take off sick time in line with our paid time off policy. Sick time does not get paid out in case of termination, nor does it reduce your final paycheck in case of a negative balance. Related to the topic of short-term or extended leave requests, see information about [short-term disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance)) through Cigna / your state.
+Employees of GitLab Inc. are eligible for our paid time off policy; which will run concurrently with any State or FMLA leave entitlement, but must report any absence of 5 calendar days or more. Team Members are under no obligation to reveal details to their manager directly, but they are required to report any absence of 5 days or more to the Sr. Absence Managment Partner [leaves@gitlab.com]. 
+
+Sick time does not get paid out in case of termination, nor does it reduce your final paycheck in case of a negative balance. 
 
 #### Sick Time Procedures - Netherlands
 
@@ -149,7 +158,7 @@ Please be aware that certain countries require a doctor's note or similar type o
 
 ## Communicating Illness-Related Leave
 
-In the unfortunate event that a team member is dealing with a medical situation, they are under no obligation to reveal details to their manager directly. Instead, you can reach out to the [Team Member Relations team](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The Team Member Relations team will inform the People Business Partner and Manager on a need-to-know basis. The manager should under no circumstances reveal any illness-related leave to other team members to ensure we respect the privacy of the team member affected.
+In the unfortunate event that a team member is dealing with a medical situation, they are under no obligation to reveal details to their manager directly. Instead, you can reach out to the Sr. Absence Management Partner; leaves@gitlab.com The Sr. Absence Management Partner will inform the People Business Partner and Manager on a need-to-know basis, and if needed will only provide details related to leave dates; not illness. If the manager does become aware of the team members illness, the manager should under no circumstances reveal any illness-related leave to other team members to ensure we respect the privacy of the team member affected.
 
 ## Accommodations
 
