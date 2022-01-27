@@ -213,6 +213,25 @@ In order to define an issue as a "transient bug," use the `~"bug::transient"` la
 
 An issue may have an `infradev` label attached to it, which means it subscribes to a dedicated process to related to SaaS availability and reliability, as detailed in the [Infradev Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/#infradev). These issues follow the established [severity SLOs for bugs](/handbook/engineering/quality/issue-triage/#severity-slos).
 
+### Limit Related Bugs
+
+GitLab, like most large applications, enforces limits within certain features. The absences of limits can impact security, performance, and availability. For this reason issues related to limits are considered as another category of `~"type::bug"`.
+
+In order to define an issue as related to limits add the label `~"availability::limit:`.
+
+Severity should be assessed using the following table:
+
+| Severity | Availability impact |
+|-|-|
+| `~severity::1` | Absense of this limit enables a single user to negatively impact availablity of GitLab |
+| `~severity::2` | Absense of this limit poses a risk to reduced availability of GitLab |
+| `~severity::3` | Absense of this limit has a negative impact on ability to manage cost, performance, or availability |
+| `~severity::4` | A limit could be applied, but it's absences does not pose availability risk |
+
+These issues follow the established [severity SLOs for bugs](/handbook/engineering/quality/issue-triage/#severity-slos).
+
+
+  
 ## Triaging Issues
 
 Initial triage involves (at a minimum) labelling an issue appropriately, so un-triaged issues can be discovered by searching for issues without any labels.
