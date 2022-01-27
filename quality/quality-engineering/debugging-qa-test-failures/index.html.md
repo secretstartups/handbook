@@ -168,7 +168,7 @@ and use the sha256 hash just above that line.
 To run GitLab in a container on your local, the docker command similar to the one shown in the logs can be used. E.g.:
 
 ``` plaintext
-docker run --publish 80:80 --name gitlab --net test --hostname localhost gitlab/gitlab-ce:nightly@sha256:<hash>
+docker run --publish 80:80 --env GITLAB_OMNIBUS_CONFIG='gitlab_rails["initial_root_password"] = "CHOSEN_PASSWORD"' --name gitlab --hostname localhost gitlab/gitlab-ce:nightly@sha256:<hash>
 ```
 
 You can now run the test against this Docker instance. E.g.:
