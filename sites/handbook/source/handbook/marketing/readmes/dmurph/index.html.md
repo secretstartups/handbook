@@ -205,7 +205,7 @@ When you primarily work from home, investing in your [workspace](/company/cultur
 * [Autonomous SmartDesk Corner adjustable L-shaped desk](https://www.autonomous.ai/standing-desks/l-shaped-smartdesk?option2=7&option1=1909&option16=36&option17=1910)
 * [Steelcase Gesture chair](https://www.steelcase.com/products/office-chairs/gesture/) (can be found secondhand for far less than retail)
 * [Dell UltraSharp 43-inch 4K USB-C Monitor: U4320Q](https://www.dell.com/en-us/work/shop/dell-ultrasharp-43-4k-usb-c-monitor-u4320q/apd/210-avke/monitors-monitor-accessories)
-* [Apple Thunderbolt Display](https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display) (2); *this model is no longer produced*
+* [Apple Thunderbolt Display](https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display); *this model is no longer produced*
 * [Klipsch ProMedia 2.1 speakers](https://www.klipsch.com/products/klipsch-promedia-2-1-thx-certified-computer-speaker)
 * [13-inch Apple MacBook Pro](https://www.apple.com/macbook-pro/)
 * [Twelve South HiRise for MacBook laptop stand](https://www.twelvesouth.com/products/hirise-for-macbook)
