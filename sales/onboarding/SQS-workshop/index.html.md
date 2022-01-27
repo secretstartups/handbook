@@ -64,6 +64,6 @@ This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjd
 |February 22, 2022 | 12:00p ET | 12:30p ET | Field Security | Field Security Team    |
 |February 23, 2022 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence  |
 |February 24, 2022 | 10:00a ET | 10:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
-|February 25, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services |  Professional Services Team    |
-|February 25, 2022 | 12:00p ET | 12:50p ET | Channels | Channel Team  |
+|February 28, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services |  Professional Services Team    |
+|February 28, 2022 | 12:00p ET | 12:50p ET | Channels | Channel Team  |
 
