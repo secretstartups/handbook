@@ -15,7 +15,7 @@ The Internal Communications Associate is a [grade 5](/handbook/total-rewards/com
 
 #### Internal Communications Associate Responsibilities
 
-*Develop and execute proactive and strategic communication initiatives, programs, and events in collaboration with global teams across GitLab
+* Develop and execute proactive and strategic communication initiatives, programs, and events in collaboration with global teams across GitLab
 * Own the internal editorial calendar, through vehicles such as our company newsletter, manager communication, executive videos and/or other communications channels
 * Partner closely with internal stakeholders and E-Group to develop change management communications with clarity and empathy
 * Have an eye and ear to the ground across GitLab team members and teams with the goal of maximizing the team member experience and to ensure GitLab remains a place where all team members belong and are included
@@ -76,7 +76,7 @@ The Senior Internal Communications Manager is a [grade 7](/handbook/total-reward
 * Partner closely with internal stakeholders and E-Group to develop change management communications with clarity and empathy
 * Have an eye and ear to the ground across GitLab team members and teams with the goal of maximizing the team member experience and to ensure GitLab remains a place where all team members belong and are included
 * Be a shining example for GitLab’s culture, infusing GitLab’s mission, culture, and values into everything we do
-* Once internal communications team grows, partner and provide dedicated communications support to certain E-Group members and leaders of their functions (think HR Business partner type model)
+* Once internal communications team grows, partner and provide dedicated communications support to certain E-Group members and leaders of their functions (think People Business Partner type model)
 
 #### Senior Internal Communications Manager Requirements
 
