@@ -194,8 +194,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-02-14 | 2022-02-17 | [Mark Scheuber](https://gitlab.com/mscheuber)  - Sr. Strategic Account Leader | AVAILABLE - REMOTE |
 | 2022-02-22 | 2022-02-25 | AVAILABLE - REMOTE (short week due to holiday) | [Mark Scheuber](https://gitlab.com/mscheuber) (short week due to holiday) |
 | 2022-02-28 | 2022-03-04 | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager | AVAILABLE - REMOTE |
-| 2022-03-07 | 2022-03-11 | AVAILABLE - REMOTE | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager|
-| 2022-03-14 | 2022-03-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-03-07 | 2022-03-11 | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager|
+| 2022-03-14 | 2022-03-18 | AVAILABLE - REMOTE | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer |
 | 2022-03-21 | 2022-03-25 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-03-21 | 2022-03-25 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-03-28 | 2022-04-01 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
@@ -342,7 +342,7 @@ A tweet storm is a series of Twitter posts usually made as replies in a single t
     1. Attribute any lines that are not spoken by the CEO.
     1. Consider [looking at the CEO's social media accounts for tone and style](../#connecting-on-social-media).
     1. Each tweet can contain 280 characters, URLs are counted differently. Make sure to test each tweet with the Twitter web form to tweet.
-    1. When you add URLs, use the [card validator](https://cards-dev.twitter.com/validator) to render a preview. This can help to refine the tweet text. 
+    1. When you add URLs, use the [card validator](https://cards-dev.twitter.com/validator) to render a preview. This can help to refine the tweet text.
     1. More message tips can be found in the [Developer Evangelism on Social Media handbook](/handbook/marketing/community-relations/developer-evangelism/social-media/#message-tips).
     1. [2021-12-15 example for Chief of Staff videos](https://docs.google.com/document/d/1BL2ZBtqF5fKdQox0p2lde_qv-75rXwYmQNHvKJnUR-8/edit) (internal).
 1. Once complete, change the document's Owner to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/).
