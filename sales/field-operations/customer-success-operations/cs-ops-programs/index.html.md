@@ -197,3 +197,10 @@ See the [Customer Success Playbooks page](https://about.gitlab.com/handbook/cust
 We apply [A/B testing](https://hbr.org/2017/06/a-refresher-on-ab-testing) to every digital-only program. The Customer Success Operations team created a rule that puts each customer into either A or B.
 
 See more about how we set up A/B testing on the [issue page](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/230).
+
+## Program udpate tracker
+
+Customer email programs are updated when new content is added, existing content changes, or existing content needs to be removed.
+
+The [program update tracker](https://docs.google.com/spreadsheets/d/1NyxIjucb8vQ-1Lch2vgzb801NNGLn7cd2iq8LuTtFlQ/edit?usp=sharing) allows us to see what the general contents of each program contains so we can quickly determine which programs need to be updated.
+
