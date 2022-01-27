@@ -26,8 +26,9 @@ New partner program changes are effective on August 15, 2021. Please visit the [
 - Colleen Farris - Director, Channel Operations
 - Emily Murphy - Manager, Alliance Operations
 - Kim Stagg - Manager, Channel Operations
-- Niles Jamshaid - Manager, Channel Operations
-- Dennis Zeissner - Associate Partner Operations Analyst
+- Niles Jamshaid - Manager, Partner Operations
+- Dennis Zeissner - Partner Operations Analyst
+- Aura Villalobos - Partner Operations Analyst
 - Bhano Pippala - Channel Operations Specialist
 
 ### How to Contact Us
