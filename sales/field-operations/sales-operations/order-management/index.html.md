@@ -19,6 +19,45 @@ The Order Management page outlines the goals, tasks, and standard operating guid
 
 For an in depth overview of Opportunity Approval Booking Requirements, please review the [Sales Order Processing page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/).
 
+### What We Do
+
+Our Order Managment team owns the Opportunity Approval and Booking Process, Intial License Fulfillment, and Monthly Reconcilations. The team is the go to for all questions related to Opportunity Booking requirements, questions regarding our booking policy, and processes related to fulfilling an order. 
+
+The team owns the following processes & documentation sources:
+
+- FY23 Booking Policy
+- Opportunity Approval Booking Requirments
+- Initial License Fulfillment & Delivery
+- Subscription Management
+- Opportunity Reconciliation 
+- Sales Order Processing Handbook 
+
+Please review our [Job Family](https://about.gitlab.com/job-families/sales/order-management/) for more information regarding the scope of this team. 
+
+#### Opportunity Approval Workflow
+
+```mermaid
+
+graph LR;
+    A[Signed Order Form/PO<br>attached to Opp] --> |Submit for Approval|B[Order Mgmt Reviews<br>Opportunity<br>Requirements];
+    B --> |Order Mgmt<br>Approved|C[Finance Review];
+    B --> |Order Mgmt<br>Rejected|D(Sales Resolves<br>Missing Opportunity<br>Requirements);
+    D --> |Submit Opp<br>For Approval|B
+    C --> F[Opportunity<br>Closed-Won!<br>Congrats! ];
+    F --> G[License Fulfillment <br>Order Mgmt Ensures License Delivery<br> ] ;
+
+```
+
+### Out of Scope
+
+Order Management is focused on Opportunity Approvals, License Fulfillment and Subscription Mangement. The following tasks are outside the role and responsiblity of our team. Please reach out to Deal Desk for assistance with the following:
+
+- Quote Creation
+- RFPs / Vendor Forms 
+- Discount / Payment Term Approval Guidance
+- Quote Approval Guidance
+- Opportunities below Stage-5 
+
 ### Meet the Team 
 
 The Order Management team is located around the world and will be available during standard business hours within most regions. We operate under a Regional Support Model, meaning, each region (EMEA/APAC/AMER) will recieve support from a dedicated regional team of Order Management Specialists. 
