@@ -29,8 +29,8 @@ This chart reflects the available signatories for each of GitLab's entities. The
 |-------- | -----|
 | GitLab Inc | Kelly Murdock, Rob Allen, Pattie Egan, Wendy Nice Barnes, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document.   | 
 | GitLab Federal LLC    |       Bob Stevens     |  
-| GitLab BV Belgium, Dutch & English | Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab BV, Netherlands | Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab BV Belgium, Dutch & English | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab BV, Netherlands | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab GmbH | Kelly Murdock (POA), Igor Groenewegen-Mackintosh | 
 | GitLab PTY Ltd, Australia | Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab PTY Ltd, New Zealand | Craig Mestel, Igor Groenewegen-Mackintosh | 
@@ -38,7 +38,7 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | GitLab UK Ltd | Dale Brown, Igor Groenewegen-Mackintosh | 
 | GitLab Canada Corp | Craig Mestel, Dale Brown | 
 | GitLab GK, Japan | Dale Brown, Craig Mestel | 
-| GitLab IT BV | Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab IT BV | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab South Korea | Dale Brown, Craig Mestel | 
 | GitLab France S.A.S. | Craig Mestel, Igor Groenewegen-Mackintosh |
 | GitLab Singapore PTE. LTD. | Dale Brown, Igor Groenewegen-Mackintosh |
