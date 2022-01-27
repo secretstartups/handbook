@@ -37,7 +37,7 @@ These numbers are based on our current ticket volume, number of SEs and average 
 'New' tickets you can take ownership of can be found in two views:
 
 1. `Needs Org / FRT` (tickets needing a first reply)
-1. `Handover Needed` (tickets needing an owner or someone to continue working on a high priority 'All Regions' issues)
+1. `Handover Needed` (tickets needing an owner or someone to continue working on a high priority 'All Regions' issue)
 
 The priority is to prevent tickets breaching SLA in the `Needs Org / FRT` view.
 
@@ -48,7 +48,7 @@ The `Handover Needed` view has two types of tickets.
 ### Taking action in the `Needs Org / FRT` view
 
 1. Choose a ticket at or near the top of the `Needs Org / FRT` view
-1. Determine the ticket priority and preffered region of support. If the ticket priority is 'High' and preferred region of support is 'All Regions' then follow the [HPAR tickets workflow](/workflows/high-priority-all-regions-tickets-workflow.html) otherwise move onto the next step.
+1. Determine the ticket priority and preferred region of support. If the ticket priority is 'High' and preferred region of support is 'All Regions' then follow the [HPAR tickets workflow](/workflows/high-priority-all-regions-tickets-workflow.html) otherwise go to the next step.
 1. Assign it to yourself (this takes it out of the view - see [Why assign first?](#why-assign-first))
 1. Write your reply to the customer
 1. Take next steps depending on the region and the work you completed:
