@@ -119,6 +119,7 @@ If you are interested in participating in an active working group, it is general
 
 ## Active Working Groups (alphabetic order)
 
+* [API Vision](/company/team/structure/working-groups/api-vision/)
 * [Architecture Kickoff](/company/team/structure/working-groups/architecture-kickoff/)
 * [Category Leadership](/company/team/structure/working-groups/category-leadership/)
 * [China Service](/company/team/structure/working-groups/china-service/)
