@@ -41,13 +41,13 @@ The Contributor Success Engineering Manager manages a team of full-stack enginee
 * Developer platform/tool industry experience
 
 ## Levels 
-### Contributor Success Engineering Manager 
+### Manager, Contributor Success 
 
-#### Contributor Success Engineering Manager Job Grade
+#### Manager, Contributor Success Job Grade
 
 The Contributor Success Engineering Manager  is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Contributor Success Engineering Manager Responsibilities
+#### Manager, Contributor Success Responsibilities
 
 * Manage a team of Community Outreach Engineers
 * Author team quarterly OKRs and drive them to completion
@@ -67,18 +67,19 @@ The Contributor Success Engineering Manager  is a [grade 8](/handbook/total-rewa
 
 ### Senior Manager, Contributor Success 
 
+This is a future level where we will outline the requirements and responsibilities at the time of the business need for the role.
+
 #### Senior Manager, Contributor Success Job Grade 
 
 The Senior Manager, Contributor Success  is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Manager, Contributor Successs Responsibilities 
+#### Senior Manager, Contributor Success Responsibilities 
+The Senior Manager, Contributor Success role extends the [Manager, Contributor Success](#senior-manager-contributor-success) role.
 
-* Extends Manager, Contributor Success responsibilities 
-* Manage a team of people managers
+* We are not currently hiring for this role & will add more detail responsibilites when the bussiness need arises.
 
 #### Senior Manager, Contributor Success Requirements
-* Extends Manager, Contributor Success requirements
-* Demonstrated experience managing people managers
+* We are not currently hiring for this role & will add more detail requirements when the bussiness need arises.
 
 ### Director, Contributor Success 
 
@@ -88,20 +89,32 @@ The Director, Contributor Success  is a [grade 10](/handbook/total-rewards/compe
 
 #### Director, Contributor Success Responsibilities 
 
-* Extends Senior Manager, Contributor Success
-* Align the day-to-day execution of the Contributor Success team to the top objectives of the company. Consistently ensure top objectives are well communicated to the entire Contributor Success team.
+The Director, Contributor Success role extends the [Senior Manager, Contributor Success](#senior-manager-contributor-success) role.
+
+* Define and own all of GitLab's Contributor Success efforts.
+* Define the Contributor Success fiscal year Direction (in handbook).
+* Define plans and quarterly OKRs to execute against key objectives and roadmap. Align efforts strategically across R&D
+* Drive improvements to KPIs and PIs that is in Contributor Success's line-of-work and job-family.
+* Drive quarterly OKR retrospectives and improvements that impacts Contributor Success.
+* Publish and socialize the progress of the Contributor Success broadly throughout the company and the community.
+* Hire world class Contributor Success engineers.
+* Align the day-to-day execution of the Contributor Success to the top objectives of the company. Consistently ensure top objectives are well communicated.
 * Collaborate closely with director peers across the Engineering Division and wider GitLab team. 
-* Foster healthy conflict amongst the team to resolve issues quickly.
-* Escalate issues only when all options are exhausted.
+* Foster healthy conflict amongst the teams to resolve issues quickly.
 * Define roles, grow, and hire your teams for what is needed from the business in the next 3-4 years.
 * Coach the Contributor Success team to work within our communication guidelines and lead by example.
+* Interface with GitLab Core team & the wider community to capture feedback and opportinities. .
+* Occasionally contributes to the company blog.
+* Occasionally represent the company publicly at conferences.
 
 #### Director, Contributor Success Requirements
 
-* Extends Senior Manager, Contributor Success
-* Ability to effectively communicate and collaborate at the VP and E-group levels. 
+* Extensive experience managing and working with the community at large.
+* Track record of influencing bussiness stakeholders from multiple domains to attain company objective.
+* Excellent written and verbal communication skills. Able to convey bottom-line messages to executives at C & VP level.
 * Present at conferences and meet-ups in the Contributor Success domain.
 * Lead a team who have built a world-class contribution success program. 
+* Share our [values](/handbook/values/), and work in accordance with those values.
 
 
 ### Performance Indicators
