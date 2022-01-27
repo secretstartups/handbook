@@ -156,12 +156,13 @@ To gain access to SAFE Intermediate Dashboards:
 
 #### Analytics Projects
 
+* [FY22-Q1 Growth Team KPI Review](https://docs.google.com/presentation/d/1VX85L9UTD7PQbb_aPJolqhRkq2KE7r8up2dSOzWNTeo/edit#slide=id.gdd1aebac8e_0_0)
 * [2021-08 Customer Centric Product Insights](https://docs.google.com/presentation/d/10soQFzNH6dguVMIuzsd8b8ODmyDyycxU1dyefUTODqk/edit#slide=id.gcf1e8c1d1f_7_180)
 * [2021-08 Experimentation Workshop](https://docs.google.com/presentation/d/1nmStWChWkYad9K-dced9wS4jS7XLIrHB-WKafc7jrMU/edit#slide=id.gca4c496ea4_0_0)
 * [2021-08 Stage:Secure Adoption and Conversion Analysis](https://docs.google.com/presentation/d/1bbvfsNzKoZw4kCYB9coexiXzPiLZ5E3XPe6hOsbZlag/edit#slide=id.g29a70c6c35_0_68)
 * [2021-08 Namespace Conversion Analysis](https://docs.google.com/presentation/d/10soQFzNH6dguVMIuzsd8b8ODmyDyycxU1dyefUTODqk/edit#slide=id.gcf1e8c1d1f_7_180)
-* [FY22-Q1 Growth Team KPI Review](https://docs.google.com/presentation/d/1VX85L9UTD7PQbb_aPJolqhRkq2KE7r8up2dSOzWNTeo/edit#slide=id.gdd1aebac8e_0_0)
 * [2021-08 SSO Login Deep Dive Analysis](https://docs.google.com/presentation/d/1j66MejLh8uKhUDUkSVIhPLI79M1LtbgCSxuvJKzRRaI/edit#slide=id.p)
+* [2021-10 SpO Retention Analysis](https://docs.google.com/presentation/d/1RR5qwaE2E2OUtfSgU53GMs8FHjexNx2CFJcUbtiNS-0/edit#slide=id.g29a70c6c35_0_68)
 * [Growth Insights](/direction/growth/#insights)
 * [Concluded Growth Experiments](/direction/growth/#growth-experiments-knowledge-base---concluded-experiments)
 * [FY22-Q3 xMAU Estimation Exploration](https://docs.google.com/presentation/d/1ifKhhGw2rWF33g22n42bdD6Yqq6m3o_djqxo6qvJVoo/edit#slide=id.gf7594bb92d_0_190)
