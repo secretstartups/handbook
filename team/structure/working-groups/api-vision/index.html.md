@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "API Vision"
-description: "The GitLab API Vision Working Group aim is to improve the current APIs and define their future evolution."
+description: "The GitLab API Vision Working Group aims to improve the current APIs and define their future evolution."
 canonical_path: "/company/team/structure/working-groups/api-vision/"
 ---
 
@@ -23,17 +23,17 @@ canonical_path: "/company/team/structure/working-groups/api-vision/"
 
 ## Goal
 
-The GitLab API Vision Working Group aim is to improve the current APIs and define their future evolution.
+The GitLab API Vision Working Group aims to improve the current APIs and define their future evolution.
 
 ### Overview
 
-Currently we don't have a cohesive view between the REST and GraphQL APIs. We specify that the GraphQL API is the primary means of interacting programmatically with GitLab, but we often don't follow this criteria.
+We don't have a cohesive view between the REST and GraphQL APIs. We specify that the GraphQL API is the primary means of interacting programmatically with GitLab, but we often don't follow this criteria.
 
 ### Goals
 
 This is a list of topics that we want to discuss:
 
-- Responsibilities, Directly Responsible Individual, and technical experts. At the moment the Ecosystem:Integrations group is the DRI of the APIs but there is also the @graphql-experts group
+- Responsibilities, Directly Responsible Individual, and technical experts. At the moment, the `Ecosystem:Integrations` group is the DRI of the APIs but there is also the `@graphql-experts` group.
 - General vision of the GitLab API:
   - REST / GraphQL API consistency.
   - REST first vs. GraphQL first vs. another approach.
@@ -55,9 +55,9 @@ This is a list of topics that we want to discuss:
 - Documentation:
   - Improve current documentation.
   - Review the first-time API user experience.
-  - Automatization of the documentation.
+  - Automation of the documentation.
 - Learning and contributions:
-  - Review contributors documentation.
+  - Review contributors' documentation.
   - Create learning paths for team members, especially about GraphQL.
 
 ### Exit Criteria
