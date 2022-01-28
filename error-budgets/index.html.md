@@ -199,8 +199,10 @@ Include the summarised form of the above details in the table above.
 
 Assign the MR for approval to:
 
-1. Director of Product and up (For the affected stage group, as they are responsible for ensuring that the business need is met)
-1. Director of Infrastructure and up (As they are responsible for ensuring that GitLab.com will not be negatively impacted)
+1. Director of Product and up (Of the affected stage group)
+    * They are responsible for ensuring that the business need is met, and will need to communicate the change up and down the chain of reporting.
+1. Director of Infrastructure and up (
+    * They are responsible for ensuring that GitLab.com will not be negatively impacted, and will need to communicate the exception up and down the chain of reporting.
 
 ### Error Budget DRIs
 
