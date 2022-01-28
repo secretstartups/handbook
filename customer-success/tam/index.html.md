@@ -92,6 +92,7 @@ Key areas of exploration:
 
 ##### TAM-Assigned:
 
+- [Transitioning a Customer from Pre-Sales to Post-Sales](https://about.gitlab.com/handbook/customer-success/pre-sales-post-sales-transition/)
 - [Account Engagement and Prioritization](/handbook/customer-success/tam/engagement/)
    - [Non-Engaged Customer Strategies](/handbook/customer-success/tam/engagement/Non-engaged-customer-strategies/)
 - [Account Onboarding](/handbook/customer-success/tam/onboarding/)
