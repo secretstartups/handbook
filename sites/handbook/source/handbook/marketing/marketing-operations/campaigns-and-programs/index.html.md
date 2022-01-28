@@ -364,6 +364,8 @@ An example of a folder setup in Marketo is:
 
 Be advised that some templates are being used for both `in-person` and `virutal events`. These templates have been marked as `Hybrid template`. For these templates, the naming convention is slightly different in that additional campaign information appears in the name. When naming the program, `EventType` is replaced with either `Virtual`, `In-Person`, or `Hybrid` (if an event will be both in-person and virtual).  
 
+If this is to set up a program that involves a channel partner, you must also follow the directions on that [setup page](/handbook/marketing/channel-marketing/partner-campaigns/#joint-marketing-campaign-set-up). You will still clone the program from the list below to get started.
+
 - Conference - `Hybrid template`: [YYYYMMDD_Conference_EventType_Template](https://app-ab13.marketo.com/#ME5100A1)
 - Conference Speaking Session - `Hybrid template`: [YYYYMMDD_SpeakingSession_EventType_No Registration_Template](https://app-ab13.marketo.com/#ME5092A1)
 - Content Syndicaton: [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc)
@@ -472,7 +474,7 @@ If you are a user of Allocadia, in this step you will also add the Allocadia ID 
     - Click "Save"
 - Add the Marketo program link and SFDC campaign link to the epic.
 
-##### Step 5: Update the Salesforce campaign - Using Allocadia 
+##### Step 5b: Update the Salesforce campaign - Using Allocadia 
 Using an integration from Allocadia>Marketo, Marketo>SFDC, the information you've given to Allocadia will push to your SFDC campaign. Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign), the only thing you will need to manually update in SFDC is the following: 
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Budgeted Cost in SFDC pulls from your `plan` number, not your `forecast` number from Allocadia. If you do not have a `plan` cost in Allocadia then Budgeted Cost in SFDC will remain blank. If this is the case, you will want to add in your Budgeted Cost manually into your SFDC campaign.  

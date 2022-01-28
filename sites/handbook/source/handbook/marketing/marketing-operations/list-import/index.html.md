@@ -116,6 +116,11 @@ Video of how this works tbd.
           - GitLab's segmentation standard for `Employees Bucket` includes the following groups: `1-99`, `100-499`, `500-1,999`, `2,000-9,999` and `10,000+`.
           - You can also enter an integer in for `Num Employees` and this will automatically update the `Employees Bucket` field if blank.
 
+#### Partner Lead Imports
+If this import is a part of a joint event with partners, you must include the CRM Partner ID as a column in your list upload. You can find a list of these IDs [here](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids)
+
+If the lead is not meant to be passed to the partner, leave that field blank. 
+
 
 ### Campaign Templates - Info for Post-MktgOps Hand-off
 
@@ -124,7 +129,6 @@ At time of upload, a campaign should already exist in `Marketo` under the naming
      - [Conference Speaking Session](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5092A1)
 - Direct Mail
      - [Direct Mail](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG5392A1)
-     - [Prinfection](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG5386A1)
 - [Field Event](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5083A1)
 - [Content Marketing](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG5111A1)
 - [Content Syndication](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG5149A1)
