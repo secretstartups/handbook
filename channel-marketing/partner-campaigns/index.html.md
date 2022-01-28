@@ -34,6 +34,12 @@ Each campaign has it's own ROE for lead routing and email practices. Follow the 
 </div>
 </div>
 
+## Passing to Vartopia and Partner Visibility
+In order for the Partner to be able to see and action the lead in Vartopia, the SFDC record must have the following fields updated. Vartopia calls SFDC every hour looking for updates to the SFDC record.
+1. `Partner Account ID` not equal to `NULL` (set my Marketo)
+1. `Prospect Share Status` = `Sending to Partner` (set by LeanData)
+1. `Partner Prospect Status` = `Qualifying` (set by LeanData)
+
 
 
 ## Partner Only Campaigns - MDF funded
