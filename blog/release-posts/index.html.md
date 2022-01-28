@@ -5,13 +5,13 @@ description: "Guidelines to create and update release posts"
 ---
 
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Release posts
+## Introduction
+{:.no_toc}
 
 Release posts are [blog posts](/releases/categories/releases/) that announce changes to the GitLab application. This includes our regular cadence of monthly releases which happen on the 22nd of each month, and patch/security releases whenever necessary.
 
@@ -19,37 +19,30 @@ Release posts follow a process outlined here, and the templates that are used to
 
 **Note:** We're evolving our release post process! You can view and share feedback on the latest direction by viewing [Scaling the release post](https://docs.google.com/presentation/d/1_Osx3FrDxT4aqjl-Kc9QXgp30z0Pl1k4tBCv0DlZYkk/edit).
 
-### Quick Links
+## Quick Links
 
-- For release post schedule of assignments see [Release Post Scheduling page](managers/).
-- For a list of release posts (both security and monthly), check the
-  [blog category for releases](/releases/categories/releases/).
-- For a list of features per release, check the [releases page](/releases/).
-- For all named changes, check the changelog for [GitLab CE and GitLab EE](https://gitlab.com/gitlab-org/gitlab/-/blob/master/CHANGELOG.md).
-- See also [release managers](/community/release-managers/).
-- Release Post Managers will need [Maintainer](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) access to project https://gitlab.com/gitlab-com/www-gitlab-com/. If you need access, model your request after [this confidential issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/10031).
+- [Release Post volunteer schedule](managers/)
+- [Security and monthly releases](/releases/categories/releases/)
+- [Features per release](/releases/)
+- [GitLab CE and GitLab EE changelog](https://gitlab.com/gitlab-org/gitlab/-/blob/master/CHANGELOG.md)
+- [Release managers](/community/release-managers/)
 
-#### Templates
+### Templates
 
-_The sections below also link to these templates, but they're provided here for quick reference._
-
-- [Monthly **release post** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md)
-- [Monthly **release post item** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
-- [**Deprecation** MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md)
-- [Monthly **release post bug, usability and performance improvements** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md)
-- [Monthly release **content block** YML templates](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased/samples)
+- [Release post](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md)
+- [Release post item](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
+- [Deprecation](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md)
+- [Removal](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Removals.md)
+- [Release post bug, usability and performance improvements](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md)
+- [YML Content block](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased/samples)
 - [Patch release template](https://gitlab.com/gitlab-org/release-tools/-/blob/master/templates/patch_release_blog_template.html.md.erb)
 - [Security release template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/security_release_blog_template.html.md)
 
 ---
 
-## Monthly releases
+## Schedule
 
-Monthly releases are blog posts with an exclusive layout aiming to apprise the reader of the changes, new features, and other considerations for the new release that comes out on the 22nd of every month. They follow a process that involves collaboration across many different roles, and each persona's responsibilities are outlined on this page.
-
-Note: Unless specifically noted otherwise, for all due dates below the exact cutoff time is the end of the day at 11:59 PM in Pacific Time.
-
-At a high level, the process is:
+At a high level, the Release post schedule is:
 
 | Date | Step |
 | ------ | ------ |
@@ -87,6 +80,8 @@ Each month, a Product Manager, Technical Writer, and an Engineering Department T
 - **[Layout Haml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/handbook/marketing/blog/release-posts/managers/index.html.haml)**: simple handbook layout that pulls the data from the YAML file above.
 
 It's highly recommended that all volunteers shadow the release post prior to the one they run. Volunteers can update the previously mentioned data YAML file to indicate both when they shadow and when they help run the release post.
+
+Release Post Managers will need [Maintainer](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) access to project https://gitlab.com/gitlab-com/www-gitlab-com/. If you need access, model your request after [this confidential issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/10031).
 
 #### Release Post Manager
 
@@ -1488,7 +1483,7 @@ When approved, include the Ready label in the MR before merging.
 
 ## Major releases
 
-Major releases happen once a year and start a new versioning cycle: 14.0 - 14.10 --> 15.0 and so on.  Contribution to and management of content for major releases follows all the same protocols as [monthly releases](#monthly-releases). But for major releases, the release post manager can expect some extra coordination and communication from the Social, PR, and Marketing teams, due to extra activities and needs for a major release. Additionally, during a major release, the release post manager may need to support Product Operations or PM volunteers managing communication of removals that are breaking changes.
+Major releases happen once a year and start a new versioning cycle: 14.0 - 14.10 --> 15.0 and so on.  Contribution to and management of content for major releases follows all the same protocols as [monthly releases](#schedule). But for major releases, the release post manager can expect some extra coordination and communication from the Social, PR, and Marketing teams, due to extra activities and needs for a major release. Additionally, during a major release, the release post manager may need to support Product Operations or PM volunteers managing communication of removals that are breaking changes.
 
 ### Communicating breaking changes
 
