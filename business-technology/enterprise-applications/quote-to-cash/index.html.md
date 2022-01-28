@@ -47,6 +47,108 @@ The quote-to-cash (QTC) process encompasses customer account management, order f
 * NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team. 
 * The platform allows enhanced dimensional reporting as well as multi-currency and multi-entity reporting. This is where the General Ledger resides and all financial activity is ultimately recorded, which is critical to reporting the financial health of the company.
 
+## Enterprise Systems Architecture
+
+<div class="mermaid">
+flowchart TD
+    subgraph A[ZUORA]
+        subgraph B[ZUORA-CPQ]
+            I[Product Catalog Management]
+            J[Customer Selling Entity Management]
+            K[OTC Contact Management]
+            L[Quoting Rules]
+        end
+        subgraph C[ZUORA-Billing]
+            M[Product Catalog Management]
+            subgraph N[Account Management]
+                AC[Customer Selling Entity Management]
+                AD[OTC Contact Management]
+            end
+            O[Subscription Management]
+            Q[Payment]
+            P[Invoicing]
+         end
+        subgraph D[ZUORA-Revenue]
+            subgraph R[Revenue Recognition]
+                AE[Standalone Selling Price]
+                AF[Allocation by Obligations/Revenue Streams]
+            end
+        end
+    end
+    subgraph E[NETSUITE]
+        subgraph S[General Ledger]
+            AG[Revenue Recognition]
+            AH[Expense Recognition]
+            AI[Equity Management]
+        end
+        T[Treasury Management]
+        U[Financial Reporting]
+    end
+    subgraph F[TESORIO]
+        V[Customer Dunning Campaigns]
+        W[Accounts Receivable Reporting]
+    end
+    subgraph G[STRIPE]
+        X[Credit Card Verification]
+        Y[Credit Card Payment Processing]
+        Z[Fraud Management]
+    end
+    subgraph H[AVALARA]
+        AA[Tax Rate/Calculations]
+        AB[Tax Remittance]
+    end
+    AJ[Salesforce]
+    AK[CDot]
+    B <--Zuora360--> C
+    C --- D
+    D ---Platypus--> E
+    C ---Platypus--> E
+    C <---> G
+    C <---> H
+    C ----> F
+    AJ ---> B
+    AK ----> C
+A:::gray
+B:::gray
+C:::gray
+D:::gray
+E:::gray
+F:::gray
+G:::gray
+H:::gray
+I:::yellow
+J:::red
+K:::red
+L:::green
+M:::yellow
+N:::gray
+O:::yellow
+P:::yellow
+Q:::yellow
+R:::gray
+S:::gray
+T:::yellow
+U:::yellow
+V:::green
+W:::green
+X:::green
+Y:::green
+Z:::yellow
+AA:::yellow
+AB:::yellow
+AC:::red
+AD:::red
+AE:::yellow
+AF:::yellow
+AG:::yellow
+AH:::yellow
+AI:::yellow
+classDef green fill:#DCFFE5;
+classDef yellow fill:#FFFFDC;
+classDef red fill:#FFDCDC;
+classDef gray fill:#FFFFFF;
+<div>
+
 ## Lead to Cash Flow
 
 <div class="limit-width">
