@@ -4,6 +4,7 @@ title: "Quote to Cash Documentation"
 description: "Enterprise Appliactions Quote to Cash Documentation"
 ---
 
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
@@ -11,6 +12,8 @@ description: "Enterprise Appliactions Quote to Cash Documentation"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
 
 ## Quote to Cash Introduction
 The quote-to-cash (QTC) process encompasses customer account management, order fulfillment, billing, and accounts receivables functions. The coordination of this process is owned by the Enterprise Applications team and this handbook page is intended to be used as a table of contents for key documentation of this process. Some of the major applications that make up this process are listed below.
@@ -47,7 +50,12 @@ The quote-to-cash (QTC) process encompasses customer account management, order f
 * NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team. 
 * The platform allows enhanced dimensional reporting as well as multi-currency and multi-entity reporting. This is where the General Ledger resides and all financial activity is ultimately recorded, which is critical to reporting the financial health of the company.
 
+{::options parse_block_html="true" /}
+
 ## Enterprise Systems Architecture
+
+<div class="x-scrollable">
+<div style="width: 1800px;">
 
 ```mermaid
 flowchart TD
@@ -148,6 +156,10 @@ classDef yellow fill:#FFFFDC;
 classDef red fill:#FFDCDC;
 classDef gray fill:#FFFFFF;
 ```
+</div>
+</div>
+
+{::options parse_block_html="false" /}
 
 
 
