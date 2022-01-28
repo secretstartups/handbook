@@ -24,11 +24,17 @@ Procurement is the process of selecting vendors, strategic vetting, selection, n
 
 **Exceptions to the PO Policy are:**
 1. Purchases under $5K
-1. Last minute un-planned onsite event needs such as food and rental transactions needed for event.
-1. One-time field marketing and event purchases less than $10K such as booth rentals, AV equipment, catering, etc.
-1. Confidential Legal Fees
+1. Charitable Contributions (Donations)
+1. Computer/Hardware Advances (if unable to be paid through Payroll Dept)
+1. Interview Candidate Reimbursement
+1. Legal Fees
 1. Audit and Tax Fees
-1. Benefits & Payroll
+1. Benefits, PEO Providers and Payroll
+1. AR/Customer Refunds
+1. Board of Director Payments
+1. Financing, Banking and Investing (incl interest, debt, FX, fees)
+1. Corporate Credit Card
+1. Urgent Payments not included on list above (approval required from VP, Corporate Controller and/or PAO)
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> What are you buying?
 
