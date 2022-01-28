@@ -12,7 +12,7 @@ title: Secure Technical Documentation
 ## Architecture
 
 - [Overview](./overview/)
-- [Severity Levels](./severity-levels/)
+- [Severity Levels](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/severities.html)
 - [Feedback](./feedback/)(Dismiss, create an issue or a Merge Request)
 
 ## Researches
