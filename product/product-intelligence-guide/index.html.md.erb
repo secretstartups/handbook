@@ -229,7 +229,24 @@ The Metrics Dictionary is a single source of truth for the metrics and events we
 
 The [Metrics Dictionary](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html) should be updated any time a new metric is implemented, updated, or removed.
 
-We're currently focusing our Metrics Dictionary on [Service Ping](https://docs.gitlab.com/ee/development/service_ping.html). In the future, we will also include [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html). We currently have an initiative across the entire product organization to complete the [Metrics Dictionary for Service Ping](https://gitlab.com/groups/gitlab-org/-/epics/5425).
+The Metrics Dictionary can be viewed for [Service Ping](https://docs.gitlab.com/ee/development/service_ping.html) and [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html) data, however Snowplow metrics have not been fully converted to this method yet.  
+
+### Metrics Dictionary features
+
+![metric_dictionary_handbook](/uploads/f076b87723f5bc1d5975b58f935b4dbe/metric_dictionary_handbook.png)
+
+1. **Filter data**. In the search bar, enter a value you want to filter the results set by.
+1. **Customize viewable columns**. Select the options button to expand the "table fields" control. From here, you can select the columns you want to display in your view. Note, this doesn't not filter data by the selection, this only displays or not displays the data regardless of the values.
+1. **Sisense query for GitLab.com**. Copy this query for use in Sisense. A common use case for this feature is to identify if data is available for SaaS Service Ping. Watch [this quick video](https://www.youtube.com/watch?v=n4o65ivta48) to learn more.
+1. **Performance indicator type**. Metrics which are utiilized in business critical [xMAU](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/) calculations are indicated with a Performance indicator type value.
+1. **Export**. You can now download the entire metrics dictionary as a .csv file.
+1. **Metric Version**. Starting with miletone 13.9, we've begun to attribute the version associated with the metric. Unfortunately we couldn't populate the historical values for existing metrics so all prior metrics are labeled as `<13.9`. 
+1. **Metric Product Section/Stage/Group**. You can display and/or filter by Section, Stage and Group as needed.
+1. **Service Usage Data Category**. View and/or filter by [Service Usage Data](https://about.gitlab.com/handbook/legal/privacy/services-usage-data/) category (Optional, Operational, Subscription).
+
+#### What’s next?
+
+Take a look at our [current thinking about future iterations](https://gitlab.com/groups/gitlab-org/-/epics/6522#iteration-opportunities) and please let us know how we can improve this tool for you and your team!
 
 ## Implementing Product Performance Indicators
 
