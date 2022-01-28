@@ -474,7 +474,7 @@ If you are a user of Allocadia, in this step you will also add the Allocadia ID 
     - Click "Save"
 - Add the Marketo program link and SFDC campaign link to the epic.
 
-##### Step 5b: Update the Salesforce campaign - Using Allocadia 
+##### Step 5: Update the Salesforce campaign - Using Allocadia 
 Using an integration from Allocadia>Marketo, Marketo>SFDC, the information you've given to Allocadia will push to your SFDC campaign. Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign), the only thing you will need to manually update in SFDC is the following: 
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Budgeted Cost in SFDC pulls from your `plan` number, not your `forecast` number from Allocadia. If you do not have a `plan` cost in Allocadia then Budgeted Cost in SFDC will remain blank. If this is the case, you will want to add in your Budgeted Cost manually into your SFDC campaign.  
