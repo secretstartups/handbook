@@ -88,3 +88,4 @@ This is a list of topics that we want to discuss:
 | Member                | Laura Montemayor     | Backend Engineer, Verify:Pipeline Authoring                   |
 | Member                | Markus Koller        | Backend Engineer, Ecosystem:Integrations                      |
 | Member                | Natalia Tepluhina    | Staff Frontend Engineer, Plan:Project Management              |
+| Member                | Grzegorz Bizon       | Principal Engineer, Verify                                    |
