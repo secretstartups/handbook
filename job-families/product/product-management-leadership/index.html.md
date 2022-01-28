@@ -4,7 +4,7 @@ title: "Product Management - Leadership"
 description: "This job family represents all Managers in the Product Management department."
 ---
 
-This job family represents all Managers in the Product Management department. They are responsible for managing, directly or indirectly GitLab team members performing in the role of [Product Manager](/job-families/product/product-manager/). Outside of the [VP of Product Management](#vp-of-product-management), these roles are responsible for managing and building teams which focus on [specific specialties](#specialties) as part of GitLab's [product hierarchy](/handbook/product/categories/#hierarchy) ([sometimes encompassing entire stages or a section](/handbook/product/product-leadership/#product-organizational-structure)). 
+This job family represents all Managers in the Product Management department. They are responsible for managing, directly or indirectly GitLab team members performing in the role of [Product Manager](/job-families/product/product-manager/). Outside of the [VP of Product](#vp-of-product), these roles are responsible for managing and building teams which focus on [specific specialties](#specialties) as part of GitLab's [product hierarchy](/handbook/product/categories/#hierarchy) ([sometimes encompassing entire stages or a section](/handbook/product/product-leadership/#product-organizational-structure)). 
 
 ## References
 * [Product Handbook](/handbook/product/)
@@ -36,7 +36,7 @@ This job family represents all Managers in the Product Management department. Th
 ## Levels
 
 ### Group Manager, Product (GMP)
-This role typically manages 2-4 Product Managers, and reports either to a [Director of Product](#director-of-product-management), a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product Management](#vp-of-product-management).
+This role typically manages 2-4 Product Managers, and reports either to a [Director of Product](#director-of-product-management), a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product](#vp-of-product).
 
 #### Group Manager, Product (GMP) - Job Grade 
 The Group Manager, Product is a [grade 9.5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -98,7 +98,7 @@ Candidates for this position can generally expect the hiring process to follow t
 * Next, candidates will be invited to schedule a 45 minute fifth interview with a VP of Product or above
 
 ### Director of Product Management
-This role typically manages 4-6 direct reports, including Product Managers and Group Managers of Product Management, and reports to either a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product Management](#vp-of-product-management).
+This role typically manages 4-6 direct reports, including Product Managers and Group Managers of Product Management, and reports to either a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product](#vp-of-product).
 
 #### Director of Product Management - Job Grade
 The Director, Product Management is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -141,28 +141,34 @@ Requirements for the role are outlined as part of the [Product Career Developmen
     - Excellent at caring personally for team members and providing candid real-time feedback.
 * Ten to twelve years of experience
 * Four years of people management experience
+    - Prior experience managing product management managers (e.g., [Group Manager, Product roles](#group-manager-product-gmp)) preferred however not required.
 
 #### Director of Product Management - Career Ladder
 The next step for a Director of Product Management is to move to [Senior Director of Product Management](#senior-director-of-product-management).
 
 #### Director of Product Management - Specialties
 
-##### Secure & Protect
-The Director of Product Management, Secure & Protect is the PM DRI for the 
-[Secure](/handbook/product/categories/#secure-stage) & 
+##### Dev
+The Director of Product Management, Dev is the PM DRI for the Dev parts of the
+[DevOps lifecycle](/handbook/product/categories/#dev-section)
+(e.g [Manage](https://about.gitlab.com/direction/manage/), [Plan](https://about.gitlab.com/direction/plan/), [Create](https://about.gitlab.com/direction/create/), and [Ecosystem](https://about.gitlab.com/direction/ecosystem/) Stages) and reports to the VP of Product.
+
+##### Sec
+The Director of Product Management, Sec is the PM DRI for the 
+[Secure](/handbook/product/categories/#secure-stage) and 
 [Protect](/handbook/product/categories/#protect-stage) parts of the
 [DevOps lifecycle](/handbook/product/categories/#devops-stages)
-and reports to the Senior Director of Product Management, Sec.
+and reports to the VP of Product.
 
 ##### Growth
 The Director of Product, Growth is the PM DRI for the Growth parts of the
 [DevOps lifecycle](/handbook/product/categories/#growth-section)
-and reports to the Chief Product Officer.
+and reports to the Senior Director of Product Monetization.
 
 ##### Enablement
 The Director of Product Management, Enablement is the PM DRI for the Enablement parts of the
 [DevOps lifecycle](/handbook/product/categories/#enablement-section)
-and reports to the VP of Product Management.
+and reports to the VP of Product.
 
 
 #### Director of Product Management - Hiring Process
@@ -178,7 +184,7 @@ Candidates for this position can generally expect the hiring process to follow t
 * Finally, candidates may be asked to schedule a 50 minute final interview with our CEO
 
 ### Senior Director of Product Management
-This role typically manages 4-6 direct reports, including Product Managers, Group Managers of Product Management, and Directors of Product Management, and reports to the [VP of Product Management](#vp-of-product-management).
+This role typically manages 4-6 direct reports, including Product Managers, Group Managers of Product Management, and Directors of Product Management, and reports to the [VP of Product](#vp-of-product).
 
 #### Senior Director of Product Management - Job Grade
 The  Senior Director, Product Management is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -199,20 +205,10 @@ The next step in the Product Management Leadership job family is to move to the 
 
 #### Senior Director of Product Management - Specialties
 
-##### Dev
-The Senior Director of Product Management, Dev is the PM DRI for the Dev parts of the
-[DevOps lifecycle](/handbook/product/categories/#dev-section)
-(e.g Manage, Plan, and Create) and reports to the VP of Product Management.
-
-##### Sec
-The Senior Director of Product Management, Sec is the PM DRI for the Sec parts of the
-[DevOps lifecycle](/handbook/product/categories/#sec-section)
-(e.g Secure and Protect) and reports to the VP of Product Management.
-
 ##### Ops
 The Senior Director of Product Management, Ops is the PM DRI for the Ops parts of the
 [DevOps lifecycle](/handbook/product/categories/#ops-section)
-(e.g. Monitor, Configure, Verify, Package, and Release) and reports to the VP of Product Management.
+(e.g. Monitor, Configure, Verify, Package, and Release) and reports to the VP of Product.
 
 #### Senior Director of Product Management - Hiring Process
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. 
@@ -226,15 +222,15 @@ Candidates for this position can generally expect the hiring process to follow t
 * Next, candidates will be invited to schedule a 45 minute Deep Dive interview with a Product Director
 * Finally, candidates may be asked to schedule a 50 minute final interview with our CEO
 
-### VP of Product Management
+### VP of Product
 
 This role typically manages 4-6 direct reports, including Group Managers of Product Management, Directors of Product Management and Senior Directors of Product Management, and reports to the [Chief Product Officer](/job-families/product/chief-product-officer/).
 
-#### VP of Product Management - Job Grade
+#### VP of Product - Job Grade
 
 The VP of Product is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### VP of Product Management - Responsibilities
+#### VP of Product - Responsibilities
 * Play a key role in helping the GitLab Product Management team scale rapidly and realize our product vision to be a complete DevOps platform.
 * Hire, lead, and coach a rapidly growing team of 30+ Product Managers
 * Manage a team of 4-6 Product Directors
@@ -245,14 +241,14 @@ The VP of Product is a [grade 12](/handbook/total-rewards/compensation/compensat
 * Help refine and implement the GitLab [product development flow](/handbook/product-development-flow/), ensuring team members receive training and coaching required to work effectively within the system
 * Serve as a spokesperson for the end-to-end GitLab product internally and externally
 
-#### VP of Product Management - Requirements
+#### VP of Product - Requirements
 * 18 years+ of relevant experience, with 10+ years of people management experience, including management of Directors+
 * Demonstrated understanding of DevOps markets, competition, and underlying technologies
 * Track record of leading products to successful commercial outcomes
 * Excellent at boardroom and big stage presentations, and able to inspire and motivate customers and employees through written and verbal communications
 * Demonstrated ability to teach and coach the product management skills as outlined [here](/handbook/product/product-manager-role/product-CDF-competencies/)
 
-#### VP of Product Management - Hiring Process
+#### VP of Product - Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Apply on the GitLab Jobs [page](/jobs/)
@@ -291,57 +287,6 @@ The Senior Director of Product Monetization is a [grade 11](/handbook/total-rewa
 * Demonstrated ability to teach and coach the product management skills as outlined [here](/handbook/product/product-manager-role/product-CDF-competencies/)
 
 #### Senior Director of Product Monetization - Hiring Process
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
-
-* Apply on the GitLab Jobs [page](/jobs/)
-* 30 minute screening call with Recruiter
-* 50 minute interview with Chief Product Officer
-* 50 minute panel interview with the Director of Growth, Sr. Director of Pricing, Group Manager of Fulfillment, and Engineering Director of fulfillment and growth.
-* 50 minute interview with CMO
-* 50 minute interview with CRO
-* 50 minute interview with CEO
-
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
- 
-## Performance Indicators
-Product Leadership is responsible for building the capacity and capability of their team and the groups they support to achieve:
-1. Their [relevant Product Performance Indicators](/handbook/product/performance-indicators/#structure)
-1. Our global [Product KPIs](/company/kpis/#product-kpis)
-1. Job satisfaction of the team members who report to them (as measured by annual employee engagement survey)
-1. Hiring versus plan and [new hire location factor](/handbook/product/performance-indicators/#new-hire-location-factor)
-1. IACV attained by assigned [use case](/handbook/use-cases/#specific-use-cases) as designated in `Why GitLab` of opportunity [Command Plans](/handbook/sales/command-of-the-message/command-plan/) ([Dashboard](https://app.periscopedata.com/app/gitlab/705822/Product-Management-+-Sales-Opportunity-Feedback)).
-
-In addition, some roles have role-specific activities and performance indicators.
-
-### VP of Product Monetization
-The VP of Product Monetization reports to the [Chief Product Officer](/job-families/product/evp-of-product/).
-
-#### VP of Product Monetization - Job Grade
-
-The VP of Product Monetization is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### VP of Product Monetization - Responsibilities
-* Define and execute product led growth strategies and tactics to maximize monetization of the GitLab product. Work cross-functionally across GitLab to ensure shared and clear priorities, and excellent execution against priorities. Specific areas of ownership include:    
-
-1. [Growth Product Management](https://about.gitlab.com/direction/growth/).  Leverage experimentation tactics to improve free-to-paid conversion rates and net retention rates.
-1. [Fulfillment Product Management](https://about.gitlab.com/direction/fulfillment/).  Ensure a world class purchasing experience for GitLab customers, and drive towards 100% of sales transactions flowing through automated fulfillment systems.
-1. [Pricing](https://about.gitlab.com/company/pricing/).  Drive pricing and packaging improvements to increase Average Selling Price and Average Revenue Per User.
-
-* Align with Sales & Marketing leadership on the ideal customer acquisition paths for our various sales segments, and then build out a world class user experience to support those acquisition paths
-* Ensure unified priorities across Growth, Pricing, and Fulfillment
-* Leverage data analytics and generate insights to uncover the highest monetization priorities
-* Partner with the Product Intelligence and Data teams to ensure the product usage data set is sufficient to drive high priority monetization projects
-* Partner with Growth engineering to increase our ability to run experiments to one experiment per week per engineer
-
-#### VP of Product Monetization - Requirements
-* 18 years+ of relevant experience, with 10+ years of people management experience, including management of Directors+
-* Track record of leading products to successful commercial outcomes while operating at the executive level
-* Demonstrated mastery of product led growth, pricing, and self-service purchasing experience best practices
-* Proven ability to set and communicate winning product led growth strategies
-* Excellent at boardroom and big stage presentations, and able to inspire and motivate customers and employees through written and verbal communications
-* Demonstrated ability to teach and coach the product management skills as outlined [here](/handbook/product/product-manager-role/product-CDF-competencies/)
-
-#### VP of Product Monetization - Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Apply on the GitLab Jobs [page](/jobs/)
