@@ -50,8 +50,23 @@ As a service bureau to a wide variety of teams, we have support functions that a
 
 As GitLab evolves, the growth of the channel becomes a critical component to our overall strategy of growth and new logo capture.  With established teams in place, it's time to take our engagement up a level and as such, review how we partner together for proactive, and efficient engagement that results in high quality demand generation plans and delivering actionable leads for our sales teams.
 In order for our collective plans to work, it's first important to verbalize the roles, responsibilities and focus areas for each functional team.
+
+13 weeks prior to the start of the following quarter, planning for that quarter will commence.  FMM's and CAM's are expected to partner together and setup regular, consistent planning calls, preferrably bi-weekly. The focus of each cadence call will change as the plan formulates.  Specifically: 
+*   ### Weeks 1-2 (11-13 weeks prior to the future quarter start):
+Develop partner campaign objectives and set goals (specifically NFO SAO goals).  Set up recurring biweekly cadence with the individual partner, CAM and FMM to keep planning and campaign action items on track.
+*   ### Weeks 3 and 4 (9-11 weeks prior to future quarter start): 
+Based on campaign goals, identify the regions where pipeline needs are the greatest.  Architect campaigns to support that/those regions.  What are the campaign elements/tactics needed to create interest?
+*   ### Week 5 and 6 (7-9 weeks prior to future quarter start): 
+Agree to campaign tactics and persona targets, develop budget request and expected outcomes in the form of MQL's and SAO's.
+*   ### Week 7 and 8 (5-7 weeks prior to future quarter start): 
+Formalize/finalize the tactics, define action items and workback plan.  Identify any speaker needs.  Final agreement on MQL and SAO targets.  Complete FY23 Partner Planning Template and submit back to FMM and CAM.
+*   ### Week 9 (4 weeks prior to future quarter start): 
+FMM and CAM submit holistic budget request to Channel Marketing for MDF approval.
+
+## Team Roles and Responsibilities
 *   ## Channel Account Managers 
-Own the strategy, relationship and ongoing, consistent engagement with the Select partners in their territory.  The channel account manager is responsible for sharing a gap analysis of their business to the respective marketing teams to develop a plan for support.  This should occur no less than 6 weeks prior to the start of Q3.
+Own the strategy, relationship and ongoing, consistent engagement with the Select partners in their territory.  The channel account manager is responsible for the holistic success and health of the partner relationship. 
+
 *   ## GEO Channel Director
  Sets the strategy for the region, manages the Channel Account Managers and approves the criteria for Select and Open partner selection in the region.
 *   ## Field Marketing Managers
