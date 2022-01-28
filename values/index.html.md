@@ -490,6 +490,10 @@ We demonstrate results when we do what we promised to each other, customers, use
 
 Working efficiently on the right things enables us to make fast progress, which makes our work more fulfilling.
 
+##### Only Healthy Constraints
+{:.no_toc}
+Most companies regress to the mean and slow down over time. While some changes are required as a company grows and matures, not all change is inevitable or should be allowed to passively happen. As GitLab grows, we are conscious of how we operate and how it enables our ability to continue to operate with the agility of a [startup](/company/still-a-startup/). We try to limit ourselves to [healhty constraints](/company/only-healty-constraints/). 
+
 ##### Write things down
 {:.no_toc}
 We document everything: in the handbook, in meeting notes, in issues.
