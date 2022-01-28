@@ -75,7 +75,7 @@ You can learn more at GitLab's [remote team solutions page](/solutions/gitlab-fo
 ![GitLab all-remote mentor](/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg)
 {: .shadow.medium.center}
 
-"[No agenda, no attenda](/handbook/communication/#external-communication)." Every work-related meeting should have a live doc agenda affixed to the calendar invite. To better understand how GitLab utilizes agenda docs, here's a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) you can copy and use in your organization. [Coffee chats](/culture/all-remote/informal-communication/#coffee-chats) are excluded from this given their function in informal communication. 
+"[No agenda, no attenda](/handbook/communication/#external-communication)."Every work-related meeting should have a live doc agenda affixed to the calendar invite. To better understand how GitLab utilizes agenda docs, here's a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) you can copy and use in your organization. [Coffee chats](/culture/all-remote/informal-communication/#coffee-chats) are excluded from this given their function in informal communication. 
 
 **If you determine that a meeting is needed to move a project forward, address a blocker, or resolve a miscommunication, visit our detailed guide on conducting a [live doc meeting](/company/culture/all-remote/live-doc-meetings/).**
 
@@ -149,6 +149,13 @@ Learn more in the [Communication section of GitLab's Handbook](/handbook/communi
 At GitLab, we have a dedicated Slack channel [devoted to saying thanks](/handbook/communication/#say-thanks). Kindness is embedded in our [Collaboration](/handbook/values/#collaboration) value, and gratitude is an essential part of our culture. This reinforces what connects us as a [geographically diverse](/company/culture/inclusion/#fully-distributed-and-completely-connected) team.
 
 A great example of several GitLab's [values](/handbook/values/) being used to generate a creative outcome from a regularly scheduled meeting is detailed on the company blog: ["How we turned a dull weekly all-hands into a podcast"](/blog/2019/06/03/how-we-turned-40-person-meeting-into-a-podcast/)
+
+## How can I prepare for a remote meeting?
+
+Be sure to carefully read the live doc agenda attached to the calendar invite prior to the meeting. Here's an [example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) of what one might look like. 
+
+Check tech & environment
+Don’t be afraid to ask questions
 
 ## All-remote Virtual "Offsites"
 
