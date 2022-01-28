@@ -12,9 +12,66 @@ description: >-
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## TAM Proactive Dashboard
+## Specific detail on various Gainsight dashboards
 
-### Upcoming this Month
+Below are select dashboards, with descriptions of what each widget on the dashboards means, in order to help Gainsight users understand what the information is telling them and what action, if any, is required.
+
+### TAM Burn-Down Dashboard
+
+#### Onboarding
+
+1. **1st Engage >14**
+    1. Count of customers who have not had a Timeline entry logged more than 14 days since their onboarding CTA start date
+1. **1st Value >30 Days**
+    1. Count of customers who have not achieved `Known License Utilization` of =>10%, or the TAM has manually logged a First Value Date if usage data is unavailable, by more than 30 days since their original contract date
+1. **Total Onboard > 45 Days**
+    1. Count of customers who have open onboarding CTAs that have been open for more than 45 days
+
+#### Engagement
+
+1. **PR1 Cadence >30 Days**
+    1. Count of P1 customers who have not had a logged Timeline activity within the past 30 days
+1. **PR2 Cadence >60 Days**
+    1. Count of P2 customers who have not had a logged Timeline activity within the past 60 days
+1. **TAM Sentiment >90 Days**
+    1. Count of customers who have not had the TAM Sentiment healthscore updated within the past 90 days
+1. **Non-Green Success Plans (PR1/PR2)**
+    1. Count of customers who do not have a green success plan, categorized into P1 and P2 buckets
+1. **PR1 Success Plans: No Activity >60 days**
+    1. Count of P1 customers who have not had activity/updates in their success plans within the past 60 days
+1. **PR1 - No EBR in 12 Months**
+    1. Count of P1 customers who have not had an EBR logged in Timeline within the past 12 months
+1. **Green PR1 Success Plans: 0 Objectives**
+    1. Count of P1 success plans that are otherwise green but do not have any open objectives
+
+#### Enablement & Expansion
+
+1. **Stage Adoption: No Activity >60 Days**
+    1. Count of customers who have open stage adoption CTAs that have not had activity/updates within the past 60 days
+1. **Stage Adoption >175 Days Total Age**
+    1. Count of customers who have open stage adoption CTAs that are over 175 days old
+1. **Pr1 No GitLab Admin Assigned**
+    1. Count of P1 customers who do not have a [GitLab Admin](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) persona assigned in the contact list
+1. **Pr2 No GitLab Admin Assigned**
+    1. Count of P2 customers who do not have a [GitLab Admin](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) persona assigned in the contact list
+
+#### Risk
+
+1. **N/A Risk Impact**
+    1. Customers who are at risk but do not have the `Risk Impact` field defined in the CTA details
+1. **N/A Risk Reason**
+    1. Customers who are at risk but do not have the `Risk Reason` field defined in the CTA details
+1. **No Risk Update >35 Days**
+    1. Customers who are at risk but do have not had a Risk update on the Timeline within the past 35 days
+
+#### Product Usage Data
+
+1. **Unknown Instances - TAM Owned**
+    1. Count of self-managed customers who have instances populated but are not [labeled](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#updating-self-managed-instance-type)
+
+### TAM Proactive Dashboard
+
+#### Upcoming this Month
 
 1. **Cadence Calls Due:**
     1. Count of P1 customers that haven’t had a Timeline Entry with Meeting type: Cadence Call in the past 30 days and P2 Customers in the past 60 days
@@ -25,7 +82,7 @@ description: >-
 1. **Upcoming EBRs for Scheduling:**
     1. Count of active EBRs that are due in the next 30 days. Does not look at overdue CTAs
 
-### Upcoming This Quarter
+#### Upcoming This Quarter
 
 1. **Upcoming Success Plan Objectives:**
     1. Open/WIP Objectives due this fiscal year, not including any that are past their due date.
@@ -38,7 +95,7 @@ description: >-
 1. **Upcoming Upsell Due to Close**
     1. Count of “add-on business” opportunities that aren’t closed but have a close date in the current quarter
 
-### Health and Utilization
+#### Health and Utilization
 
 1. **High License Utilization**
     1. Count of customers whose License Utilization exceeds 90%
@@ -49,7 +106,7 @@ description: >-
     1. Bar chart comparing CI Adoption Health across selected filters.
     1. Details on how CI Adoption is measured here: [Customer Use Case Adoption](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/)
 
-## TAM Key Metrics Dashboard
+### TAM Key Metrics Dashboard
 
 This dashboard is a means for the TAMs to easily answer: 'how I am doing towards our team/individual metric goals?' This dashboard also gives insight on performance against metrics for FY22 president's club.  For FY22 the president club metrics for TAMs are: 
 
@@ -59,7 +116,7 @@ This dashboard is a means for the TAMs to easily answer: 'how I am doing towards
 1. Contribution to ARR growth (not shown in this dashboard)
 
 ---
-### 1st Section Reports: 
+#### 1st Section Reports: 
 
 1. **Account Breakdown by TAM and Priority**
     1. Count of P1, P2 and P3 customers per TAM
@@ -76,7 +133,7 @@ This dashboard is a means for the TAMs to easily answer: 'how I am doing towards
 7. **Percentage Open Expansion CTAs**
     1. For all accounts by TAM, the percentage of open stage expansion CTAs
 
-### P1 Accounts - 2nd Section
+#### P1 Accounts - 2nd Section
 
 1. **Percentage of Accounts with Green SPs PR1**
     1. For all P1 accounts by TAM, the percentage of green success plans
