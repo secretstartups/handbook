@@ -332,7 +332,7 @@ The list of Global Upside & Remote countries can be found [here](https://about.g
 * All Individual contractors or C2C, with exception of Nigeria will be reimbursed by iiPay by the 22nd of each month.  All expense reports must be approved by the manager and the Accounts Payable team by the 8th of each month to be included in the current month payment.  For contractor with C2C status, be sure to contact Payroll team via email at `nonuspayroll@gitlab.com` and `expenses@gitlab.com` if you need to set up a separate bank for your expense reimbursement.
 
 #### Legal entities:
-* Expense reports for GitLab Ltd (UK) must be approved by the manager and the Accounts Payable team on or before the 14th of each month in order for the reimbursement to be include in the current month payroll.
+* Expense reports for GitLab Ltd (UK) must be approved by the manager and the Accounts Payable team on or before the 13th of each month in order for the reimbursement to be include in the current month payroll.
 * Expense reports for GitLab Canada Corp must be approved by the manager and the Accounts Payable team before the 1st day of each payroll period.  Please see [Payroll Calendar](https://docs.google.com/spreadsheets/d/1ECkI_Z8R82j1eipJEEybXjO-EDtzw4TuhJPOnHypDho/edit#gid=0) for the payroll cut off date.
 * Expense reports for GitLab France S.A.S must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current months Payroll.
 * Expenses reports for GitLab Korea Limited must be approved by the Manager and the Accounts Payable team on or before the 08th of each month in order for the reimbursement to be included in the current months Payroll.
