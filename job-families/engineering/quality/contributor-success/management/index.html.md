@@ -108,13 +108,21 @@ The Director, Contributor Success role extends the [Senior Manager, Contributor 
 
 #### Director, Contributor Success Requirements
 
+* Extends Manager & Senior Manager, Contributor Success requirements.
+* Outstanding leadership skills and someone who takes initiative, makes hard decisions, and is accountable.
+* Demonstrated capability to drive initiatives, develop thoughtful strategies, and deliver results at a senior level.
 * Track record leading & working with the open source community at large.
 * Track record of influencing bussiness stakeholders from multiple domains to attain company objective.
-* Excellent written and verbal communication skills. Able to convey bottom-line messages to executives at C & VP level.
+* Track record of hiring engineers and managers.
+* Excellent written and verbal communication skills. Able to convey bottom-line message to executives at C & VP level.
+* Bias for action with an ability to work in a fast-paced environment with shifting priorities.
+* Ability to work collaboratively and efficiently with stakeholders throughout the organization.
 * Experience presenting at conferences and meet-ups in the Open Source community.
 * Experience building a world-class open source contribution program. 
-* Share our [values](/handbook/values/), and work in accordance with those values.
-
+* Demonstrate longevity at at least one recent job.
+* Understanding of how to be successfully manage at a remote-only company.
+* Ability to use GitLab.
+* Humble, servant leader.
 
 ### Performance Indicators
 * [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr)
