@@ -279,6 +279,8 @@ The [product development workflow labels](https://about.gitlab.com/handbook/prod
 
 Issues going through the validation track should have the appropriate workflow label and a milestone assigned so they show up in the `workflow::design` column of the Pipeline Authoring issue board.
 
+As an issue is labeled `workflow::design`, we change the title to `Design: [Issue title]` to make the issues in `workflow::design` easier to differentiate from Frontend and Backend implementation issues which are titled `Frontend: [Issue title]` or `Backend: [Issue title]` respectively.
+
 Once the team has created a shared understanding about the problem and the solution, and there's no obvious outstanding questions about the next steps, the Product Manager moves the issue into `workflow::planning breakdown`. We should avoid moving issues into implementation prematurely to ensure that the design discussions happen during `workflow::design` and not during the implementation as much as possible.
 
 #### Splitting issues
@@ -300,6 +302,10 @@ When moving an issue through `workflow::design` to `workflow::planning breakdown
 | Yes       | Yes      | Original issue is renamed to a `Frontend` implementation issue and a separate `Backend` implementation issue is created. |
 | No        | Yes      | Original issue is renamed to a `Backend` implementation issue. |
 | Yes       | No       | Original issue is renamed to a `Frontend` implementation issue. |
+
+If an issue in `workflow::design` is too large in scope to be effectively implemented in one issue, or in case the issue is old and too cluttered with discussions, the issue can be broken down into smaller issues. The Product Designer will work together with the Engineers and the Product Manager during `workflow::design` to understand the possible iteration plan and break down the large design proposal into smaller parts whenever possible. 
+
+When new implementation issues are created, they should always be linked to the initial issue that contains the proposal and relevant discussions.
 
 #### Discussion issues
 
