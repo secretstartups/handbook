@@ -156,6 +156,12 @@ A great example of several GitLab's [values](/handbook/values/) being used to ge
 1. Check and [make sure your technology, Internet](/company/culture/all-remote/getting-started/#bolster-your-internet-connection-and-consider-redundancy), and environment are good. 
 1. Don’t be afraid to [ask questions](/company/culture/all-remote/getting-started/#dont-be-afraid-to-ask-for-help).
 
+## What should I do after a remote meeting?
+
+1. Write everything down so you can retain and recall important details. 
+1. Schedule action items, next steps, or a future meeting. Input into the proper directory (Google Drive, Salesforce, etc.) to help ensure there are no balls dropped.
+1. If you missed something, rewatch the video [recorded on our YouTube Unfiltered channel](/handbook/marketing/marketing-operations/youtube/).
+
 ## All-remote Virtual "Offsites"
 
 ![GitLab values illustration](/images/all-remote/gitlab-values-tanukis.jpg)
