@@ -227,12 +227,24 @@ For context, Sid joined the Zoom call from San Francisco, while the researchers 
 
 1. Have your video on at all times because it's much more engaging for participants.
 1. Use team members' names to make everyone feel welcome and recognized.
-1. Advise participants to mute their mics to minimize background noise and ensure the speaker is able to be heard by all attendees.
-1. Don't be discouraged by interruptions, sometimes there is the lag in a remote call.
+1. Advise participants to mute their mics to minimize background noise and ensure all attendees hear the speaker.
+1. Don't be discouraged by interruptions. Sometimes, there is a lag on a remote call.
 1. Speak up as soon as you notice something is not working.
 1. Start and end your calls on time. 
 
 For more tips, visit the [GitLab video call communication guide](/handbook/communication/#video-calls).
+
+## What are the best alternatives to Zoom for remote meetings?
+
+While GitLab uses Zoom as the primary video platform for communications,  others may prefer different tools. Some popular Zoom alternatives are:
+
+* WebEx
+* MS Teams
+* Skype
+
+To request access to those tools, create an access request and provide a justification for access.
+
+
 
 ## GitLab Knowledge Assessment: All-Remote Meetings
 
