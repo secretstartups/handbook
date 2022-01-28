@@ -55,13 +55,13 @@ This works because of our values, which leads GitLab to hire individuals who enj
 
 You should aim to record all meetings, particularly when key individuals aren't able to join live. This allows team members to catch up on what transpired, adding context to notes that were taken during the meeting. Learn more about recording in Zoom in the [Tips and Tricks section of GitLab's Handbook](/handbook/tools-and-tips/#recording-in-zoom).
 
-### Using GitLab to replace meetings
+### Use GitLab to replace meetings
 
 A major enabler for reducing the quantity of meetings necessary at GitLab is our own product. GitLab is a collaboration tool designed to help people work better together whether they are in the same location or spread across multiple time zones. Originally, GitLab let software developers collaborate on writing code and packaging it up into software applications. Today, GitLab has a wide range of capabilities used by people around the globe in all kinds of companies and roles.
 
 You can learn more at GitLab's [remote team solutions page](/solutions/gitlab-for-remote/).
 
-### Live doc meetings
+### Do live doc meetings
 
 ![GitLab all-remote mentor](/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg)
 {: .shadow.medium.center}
