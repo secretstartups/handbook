@@ -189,9 +189,9 @@ Exceptional community members may be able to participate, as well.
 | 2022-01-10 | 2022-01-14 | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager |
 | 2022-01-18 | 2022-01-21 | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical)  |
 | 2022-01-24 | 2022-01-28 | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager |
-| 2022-01-31 | 2022-02-04 | AVAILABLE - REMOTE | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer |
-| 2022-02-07 | 2022-02-11 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-02-14 | 2022-02-17 | [Mark Scheuber](https://gitlab.com/mscheuber)  - Sr. Strategic Account Leader | AVAILABLE - REMOTE |
+| 2022-01-31 | 2022-02-04 | NO SHADOWS | NO SHADOWS |
+| 2022-02-07 | 2022-02-11 | [Kristie Thomas](https://gitlab.com/kristie.thomas) - Sr. Executive Business Administrator, Product and Engineering & CEO (interim) | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer|
+| 2022-02-14 | 2022-02-17 | [Mark Scheuber](https://gitlab.com/mscheuber)  - Sr. Strategic Account Leader | [Kristie Thomas](https://gitlab.com/kristie.thomas) - Sr. Executive Business Administrator, Product and Engineering & CEO (interim) |
 | 2022-02-22 | 2022-02-25 | AVAILABLE - REMOTE (short week due to holiday) | [Mark Scheuber](https://gitlab.com/mscheuber) (short week due to holiday) |
 | 2022-02-28 | 2022-03-04 | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager | AVAILABLE - REMOTE |
 | 2022-03-07 | 2022-03-11 |[Byron Boots](https://gitlab.com/byronboots) - Senior Security Compliance Engineer | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager|
