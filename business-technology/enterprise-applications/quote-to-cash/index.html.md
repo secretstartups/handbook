@@ -49,7 +49,7 @@ The quote-to-cash (QTC) process encompasses customer account management, order f
 
 ## Enterprise Systems Architecture
 
-<div class="mermaid">
+```mermaid
 flowchart TD
     subgraph A[ZUORA]
         subgraph B[ZUORA-CPQ]
@@ -147,7 +147,9 @@ classDef green fill:#DCFFE5;
 classDef yellow fill:#FFFFDC;
 classDef red fill:#FFDCDC;
 classDef gray fill:#FFFFFF;
-<div>
+```
+
+
 
 ## Lead to Cash Flow
 
