@@ -82,6 +82,8 @@ The Deal Desk team is located around the world and will be available during stan
 
 Deal Desk's primary communication channel is Salesforce Chatter. When you chatter `@Sales-Support`, it will automatically create a case in the Deal Desk queue. **Please do not tag Deal Desk team members directly in chatter or make a request through Slack direct message. Always uses `@Sales-Support` for SFDC requests or post `#sales-support` in Slack for general questions.** This ensures our team is working as efficiently as possible and that you are covered in case the DD team member who replied first is unavailable. If someone is working on a case, they will continue to support until the case is closed.  If an issue has been resolved, please chatter @Sales-Support to reopen a case.
 
+**NOTE:** If you tag @Sales-Support on an existing Chatter post/comment by editing it, that action won`t generate a request to Deal Desk and we will not receive a notification. Please make sure tag Sales Support on an original post or on a new comment to the original post.
+
 Deal Desk team members monitor the queue throughout the day. For all cases directly related to opportunites, quoting/deal structure or booking a deal, Deal Desk will respond to a case within 6 hours, Monday-Friday, with the exception of National/Regional holidays. Resolution or escalation for these cases will occur within 24 hours. 
 
 For cases related to Account Segmentation (ROE, Territory), account data, or account merges, Deal desk will reassign these cases to our Sales Operations team to review and resolve. 

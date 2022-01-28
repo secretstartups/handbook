@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Jan 13 | Q4 FY22 Professional Services Update    | Bryan M.  |
 | Jan 20 | *No session during the last two weeks of the quarter* | N/A |
 | Jan 27 | *No session during the last two weeks of the quarter* | N/A |
                                                                                                                               

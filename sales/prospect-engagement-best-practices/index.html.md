@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Prospect Engagement Best Practices"
-description: "Tips, tricks and best-practices for successfully engaging with prospects"
+title: "Associating emails to Salesforce"
+description: "A quick guide on associating emails to Salesforce"
 ---
 
 ## On this page
@@ -10,7 +10,7 @@ description: "Tips, tricks and best-practices for successfully engaging with pro
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This page contains tips, tricks and best-practices for successfully engaging with prospects.
+This page contains tipson how to associate emails to Salesforce.
 
 ## Associating Emails to Opportunities
 

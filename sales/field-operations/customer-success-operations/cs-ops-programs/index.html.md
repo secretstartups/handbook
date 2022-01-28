@@ -104,9 +104,11 @@ The programs below are available to Sales Assisted **digital-only customers who 
 | Customer Use Case: CI           | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) | Customer ~45 days                                       |
 | Customer Use Case: DevSecOps    | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | Customer ~70 days                                       |
 | Customer Use Case: CD           | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | Customer ~100 days                                       |
+| Customer Use Case: Agile Management          | Enablement  | [Copy doc](https://docs.google.com/document/d/1V7HaAvY4Oi60Sda636vOes3wUlsmkvtTKlsXlhqJhKc/edit?usp=sharing) | Customer ~130 days                                       |
 | Monthly Newsletters             | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)     | Sent Monthly on Fridays                                 |
 | NPS/CSAT Post-Onboarding Survey | Onboarding  | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Customer since = 60 days                                |
-| NPS/CSAT Pre-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Next renewal date = 120 days                            |
+| NPS/CSAT Pre-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | ~ 120 days before Next renewal date                        |
+| NPS/CSAT Post-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/308)    | 60 days after Next renewal date                           |
 | Monthly Webinar Invitations     | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/37)   | Sent monthly dependent on event date                     |
 | Post Churn Survey (SMB Only)             | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/293)    | Opportunity marked Closed-Lost, Active Subscription = 0 |
 | CI Usage Trigger Program        | Enablement  | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/190) | <20% Utilization of CI and not in time-based CI campaign                                       |
@@ -121,7 +123,9 @@ The programs below are available to Web Direct **digital-only** customers and se
 | Customer Use Case: CI           | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) | Customer ~45 days                                       |
 | Customer Use Case: DevSecOps    | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | Customer ~70 days                                       |
 | Customer Use Case: CD           | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | Customer ~100 days                                       |
-| Monthly Newsletters             | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)     | Sent Monthly on Fridays                                 |
+| Customer Use Case: Agile Management           | Enablement  | [Copy doc](https://docs.google.com/document/d/1V7HaAvY4Oi60Sda636vOes3wUlsmkvtTKlsXlhqJhKc/edit?usp=sharing) | Customer ~130 days                                       |
+| Monthly Newsletters             | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)     | Sent 
+Monthly on Fridays                                 |
 
 <br>
 
@@ -131,11 +135,16 @@ The programs below are available to **TAM-assigned accounts** only.
 
 | Program                               | Category   | Content  | Recipients                              |
 |---------------------------------------|------------|----------|-----------------------------------------|
-| Intro to GitLab CS + Onboarding   | Onboarding | [Copy doc](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) | When a customer is first assigned a TAM |
-| AE <> TAM Introduction  | Onboarding | [Copy doc](https://docs.google.com/document/d/14k1h_f4d51GjwS9HzAJ6iOzebBu4aEgETfSQwUA-MME/edit?usp=sharing) | When a customer is first assigned a TAM |
-| Monthly Newsletters*                  | Enablement | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)    | Sent monthly on Fridays                 |
-| NPS/CSAT Post-Onboarding Survey*      |            | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Customer since = 60 days                |
-| NPS/CSAT Pre-Renewal Survey*          |            | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Next renewal date = 120 days            |
+| Intro to GitLab CS + Onboarding   | Onboarding | [Copy doc](https://docs.google.com/document/d/1YEVaiIxKrHUZC_FN1-E-jU7ISTKMqOSS7LztMbTbUiM/edit?usp=sharing) | When a customer is first assigned a TAM (GitLab Admin OR Sold to Contact) |
+| AE <> TAM Introduction  | Onboarding | [Copy doc](https://docs.google.com/document/d/14k1h_f4d51GjwS9HzAJ6iOzebBu4aEgETfSQwUA-MME/edit?usp=sharing) | When a customer is first assigned a TAM (Sold to Contact) |
+| Monthly Newsletters*                  | Enablement | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)    | Sent monthly on Fridays to GitLab Admin contacts                 |
+| NPS/CSAT Post-Onboarding Survey*      |  Onboarding          | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Customer since = 60 days & GitLab Admin             |
+| NPS/CSAT Pre-Renewal Survey*          |   Retention         | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | ~ 120 days before Next renewal date         |
+| NPS/CSAT Post-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/308)    | 60 days after Next renewal date                           |
+| TAM Enrolled CI Enablement Campaigns          |   Enablement         | [Copy doc](https://docs.google.com/document/d/1GpYLFAGJoV_K1baiDrnOaXbGQGDs02hrUUdH_ymGIMs/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | TAM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions              |
+| TAM Enrolled CD Enablement Campaigns          |     Enablement       | [Copy doc](https://docs.google.com/document/d/1klfKz4ixhOO8YkDzPL9yYKc38C_SjF5Yqums1hWw5sk/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | TAM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions              |
+| TAM Enrolled DevSecOps Enablement Campaigns          |    Enablement        | [Copy doc](https://docs.google.com/document/d/1olvOJaO5ElhWDMhcMOH-y83yxmNUYVJtLCIZJqc90E8/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | TAM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions              |
+| TAM Enrolled Agile Enablement Campaigns          |    Enablement        | [Copy doc](https://docs.google.com/document/d/1D7v4BJi3VJefNRjBBr0A3qdff7pXmacg5Nqm93Cfyxs/edit?usp=sharing) [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/694)    | TAM enrolled contact through multi-picklist Enablement Enrollment on the contact in Gainsight - see issue for instructions          |
 
 _* Monthly newsletters and NPS/CSAT surveys require a GitLab Admin contact_<br>
 
@@ -154,7 +163,7 @@ You may request new programs, such as an email series, contribute to existing pr
 
 1. Fill out as much of the template as possible. Missing information may cause delays.
 
-CS Programs will assign the request. For urgent issues, or questions about the request, make an `@mention` to a Gainsight administrator.
+CS Programs will assign the request. For urgent issues, or questions about the request, make an `@mention` to a Gainsight administrator or ask in the `#cs_ops_and_programs` Slack channel.
 
 ## Request customer program research with the Research Template
 
@@ -162,10 +171,8 @@ TAMs can use the Customer Programs Research Template to research new program opp
 
 **To create a Program Research issue**:
 
-1. Navigate to the [CS Ops Issue board](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues).
-1. Create a new issue.
-1. Select the `TAM Program Research Template` from the dropdown menu.
-1. Use the questions in the template to gather as much information as possible for the stage or use case.
+1. Create a new issue using the [TAM Program Research Template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/new?issuable_template=TAM%20Program%20Research%20Template).
+1. 1. Use the questions in the template to gather as much information as possible for the stage or use case.
 1. Assign the template to a TAM or TAM manager for peer review. This will be a multi-step process, as you'll need to ask questions of your customers as well as internal sources.
 1. Once TAM peer review is complete, create a new issue [using the appropriate template](#create-or-update-a-program), and relate this issue.
 
@@ -191,3 +198,10 @@ See the [Customer Success Playbooks page](https://about.gitlab.com/handbook/cust
 We apply [A/B testing](https://hbr.org/2017/06/a-refresher-on-ab-testing) to every digital-only program. The Customer Success Operations team created a rule that puts each customer into either A or B.
 
 See more about how we set up A/B testing on the [issue page](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/230).
+
+## Program udpate tracker
+
+Customer email programs are updated when new content is added, existing content changes, or existing content needs to be removed.
+
+The [program update tracker](https://docs.google.com/spreadsheets/d/1NyxIjucb8vQ-1Lch2vgzb801NNGLn7cd2iq8LuTtFlQ/edit?usp=sharing) allows us to see what the general contents of each program contains so we can quickly determine which programs need to be updated.
+

@@ -15,10 +15,10 @@ description: "The Field Enablement team's mission is to design and deliver effec
 ## Overview
 
 ### Field Enablement Vision
-**Motivate and inspire the field organization and partners to achieve high levels of success through the acquisition and application of knowledge, skills and behaviors that improve productivity and accelerate growth.**
+Motivate and inspire the field organization and partners to achieve high levels of success through the acquisition and application of knowledge, skills and behaviors that improve productivity and accelerate growth
 
 ### Field Enablement Mission
-**Design and deliver effective enablement solutions that grow field team members' and partners' expertise and confidence to drive efficient, predictable, and scalable growth for GitLab** 
+Design and deliver effective enablement solutions that grow field team members' and partners' expertise and confidence to drive efficient, predictable, and scalable growth for GitLab
 
 ### Objectives
 1. Improve field efficiency (direct and indirect routes to market) with effective training solutions to address prioritized knowledge and skill gaps and build a culture of learning
@@ -36,33 +36,34 @@ description: "The Field Enablement team's mission is to design and deliver effec
 - Have a Field Enablement request? Please use our **[quick request process](/handbook/sales/field-operations/field-enablement/#making-a-field-enablement-request)** below.
 
 ## Key Programs
-1. [Sales & Customer Success Onboarding](/handbook/sales/onboarding/)
-1. Sales Methodologies
-    - [Command of the Message (value-based sales messaging methodology)](/handbook/sales/command-of-the-message)
-    - [MEDDPPICC (strategic opportunity qualification)](/handbook/sales/meddppicc/)
-1. Continuous Learning
-     - [Customer Success Skills Exchange](/handbook/sales/training/customer-success-skills-exchange)
-     - [Sales Enablement Level Up Webcast Series](/handbook/sales/training/sales-enablement-sessions/)
-     - [Sales Training Resources](/handbook/sales/training/)
-     - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
-1. Certification
-     - [Field Certification Program](/handbook/sales/training/field-certification)
-     - [Channel Partner Training, Certifications and Enablement](/handbook/resellers/training/)
-1. Revenue & Pipeline Acceleration Programs (coming soon)
 1. [Field Manager Development Program](/handbook/sales/field-manager-development/)
      - [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
+1. Selling Excellence
+    - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)
+    - [Command of the Message](/handbook/sales/command-of-the-message) (value-based sales messaging methodology) and [MEDDPPICC](/handbook/sales/meddppicc/) (strategic opportunity qualification)
+    - [Effective Discovery](/handbook/sales/playbook/discovery/)
+    - Continuous Learning
+        - [Customer Success Skills Exchange](/handbook/sales/training/customer-success-skills-exchange)
+        - [Sales Enablement Level Up Webcast Series](/handbook/sales/training/sales-enablement-sessions/)
+        - [Sales Training Resources](/handbook/sales/training/)
+        - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
+1. Partner Enablement
+     - [Channel Partner Training, Certifications and Enablement](/handbook/resellers/training/)
+1. Field Onboarding & Ramp
+    - [Sales & Customer Success Onboarding](/handbook/sales/onboarding/)
+1. [Revenue & Pipeline Acceleration Programs](/handbook/sales/revenue-programs/)
 1. [Field Communications](/handbook/sales/field-communications/)
      - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
      - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
      - [Field Team Recognition Programs](/handbook/sales/field-operations/field-enablement/field-team-recognition)
-1. Sales Events
-     - [Sales Kickoff](/handbook/sales/training/SKO)
-     - [Sales QBRs](/handbook/sales/sales-meetings)
-     - [GitLab President's Club](/handbook/sales/club/)
 
 ## Additional Resources
 - [GitLab Learn: Field Enablement Channel](https://gitlab.edcast.com/channel/field-sales-team-content-channel)
-- [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)
+- [Field Certification Program](/handbook/sales/training/field-certification)
+- Sales Events
+     - [Sales Kickoff](/handbook/sales/training/SKO)
+     - [Sales QBRs](/handbook/sales/sales-meetings)
+     - [GitLab President's Club](/handbook/sales/club/)
 - [Sales Playbook](/handbook/sales/playbook/)
 - [Customer Success Enablement](/handbook/customer-success/education-enablement/)
 
@@ -71,7 +72,7 @@ description: "The Field Enablement team's mission is to design and deliver effec
 <!-- blank line -->
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQ7ldY5rPmQQhpicQJsUZhEgEVK8_3l7YmUf4oq9Y4_KRPXIbCtd4gp1stJMRNesmm4POHyBSqQ9Wx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOfuEQwPFf4BgCRIK-b685RPc_dj_6zZsLONMBAXFQxgxcusdNfnOJWvEOowYrO_FO_BAuCVrtkYV9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 <!-- blank line -->

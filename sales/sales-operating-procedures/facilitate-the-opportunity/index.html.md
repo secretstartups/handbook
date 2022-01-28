@@ -80,7 +80,11 @@ The goal of developing and presenting a good pitch is to obtain a **verbal commi
 
 **Always avoid making a pitch more about us than the customer.** At GitLab the approach is more consultative. This is the reason that insight into the customer based on individual research and discovery calls is so important. It gives you an intimate understanding of what the customer’s problems are and their long term goals. Your responsibility in developing and presenting a GitLab sales pitch is to align the customer’s problem to a particular GitLab product based solution. You have worked with the customer to this point to do the heavy lifting and understand what they need. Now as a consultant you are presenting a solid solution to meet their immediate needs but also providing a solution roadmap of their long term goals and needs.
 
-**As a rule, a GitLab Sales Pitch deck should be no more than 10-15 slides**. You can use the [GitLab Customer Template](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit#slide=id.g6bb3f57e89_0_50) and reduce it to the recommended number of slides. It is also recommended that the presentation be for visual rather than text heavy. A GitLab customer deck should contain the following components:
+**As a rule, a GitLab Sales Pitch deck should be no more than 10-15 slides**. You can use the [GitLab Customer Template](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit#slide=id.g6bb3f57e89_0_50) and reduce it to the recommended number of slides. 
+
+For Enterprise Strategic Account Leaders, you can also use this [GitLab ENT SAL Proposal Template](https://docs.google.com/presentation/d/1HHDMXLZHm6VWduLB4qr5POOehfPCK6ssea7d99Qf3H0/edit#slide=id.gefbf6346ee_0_6) to give you a headstart on a custom proposal for your customer. 
+
+It is also recommended that the presentation be more visual rather than text heavy. A GitLab customer deck should contain the following components:
 
 1. Value Drivers
 1. How GitLab can Help

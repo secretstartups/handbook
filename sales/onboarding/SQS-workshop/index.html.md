@@ -35,10 +35,10 @@ This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjd
 |January 13, 2022 | 11:30a ET | 12:50p ET | Differentiator Exercise | Field Enablement  |
 |January 14, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
 |January 14, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
-|January 17, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
-|January 18, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
-|January 19, 2022 | 12:00p ET | 12:50p ET | Discovery Call 3 | Mock Customers |
-|January 20, 2022 | 11:00a ET | 11:50a ET | Discovery Call 4 | Mock Customers |
+|January 18, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
+|January 19, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
+|January 20, 2022 | 12:00p ET | 12:50p ET | Discovery Call 3 | Mock Customers |
+|January 24, 2022 | 11:00a ET | 11:50a ET | Discovery Call 4 | Mock Customers |
 |January 18, 2022 | 12:00p ET | 12:30p ET | Field Security |  Field Security Team   |
 |January 19, 2022 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence  |
 |January 20, 2022 | 10:00a ET | 10:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
@@ -64,6 +64,6 @@ This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjd
 |February 22, 2022 | 12:00p ET | 12:30p ET | Field Security | Field Security Team    |
 |February 23, 2022 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence  |
 |February 24, 2022 | 10:00a ET | 10:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
-|February 25, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services |  Professional Services Team    |
-|February 25, 2022 | 12:00p ET | 12:50p ET | Channels | Channel Team  |
+|February 28, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services |  Professional Services Team    |
+|February 28, 2022 | 12:00p ET | 12:50p ET | Channels | Channel Team  |
 
