@@ -80,7 +80,7 @@ You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builde
 There is no marketo program or SFDC campaign setup necessary to track self-managed trials. Every partner trial campaign can utilize setup from `Partner - Trial - Self-managed` campaign, without creating a new Marketo or SFDC campaign. Follow [directions above](/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners) to understand what form to use and what processes to follow.
 
 ## Joint Marketing Campaign Set Up
-General set up is found on [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). However, the steps below are necessary if we are passing leads to partners. 
+First, use the general set up is found [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The partner steps are nested in the typical Marketo program templates to clone. Once the campaign is cloned, follow the steps below in addition to the other setup steps found on the campaigns and programs page. 
 
 All Marketo templates will have a token added to them that the campaign owner should update, {{my.partner name}}.
 - Partner Name: Does not need to be official, it will be used on the form consent language and interesting moments, so needs to be customer facing. Example:  `By registering for this GitLab and {{my.partner name}} event....`
@@ -89,8 +89,14 @@ All Marketo templates will have a token added to them that the campaign owner sh
 ### Online Events: (Lead capture via forms) BEFORE Launch
 1. Update token on Marketo program {{my.Partner Name}}
 1. Update registration landing page to have `FORM 3146: Partners w/ consent+token` 
-   - Forms has a hidden field that captured `utm_partnerid` and captures consent to be passed to a partner.
-   - The partner MUST HAVE this utm otherwise they will not be routed leads
+   - To update the page:
+       - Edit the landing page draft
+       - Double click on the form
+       - Update form `FORM 3146: Partners w/ consent+token` and click `swap`
+       - Approve and close landing page
+   - Forms has a hidden field that captures `utm_partnerid` to associate to the partner and captures contact consent for the partner.
+   - The partner MUST HAVE this utm on their link to the landing page otherwise they will not be routed leads
+1. Update `01 Processing` smart campaign's smart list to reference `FORM 3146: Partners w/ consent+token` instead of the form that is in there by default.
 1. (no setup needed) Marketo has a [smart campaign](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC25176B2ZN19) running that will listen for this form fill to `check` the `partner consent` field.
 1. Make sure typical processing smart campaigns are on and configured
      - (no setup needed) If a `partnerid` was captured in the UTMs, then Marketo will [request a campaign](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC25176B2ZN19) to append that value to the `CRM Partner ID (lookup)` and `Vartopia Partner Account ID` fields
