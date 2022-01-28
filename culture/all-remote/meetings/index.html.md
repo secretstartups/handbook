@@ -223,6 +223,17 @@ For context, Sid joined the Zoom call from San Francisco, while the researchers 
 > 
 > The biggest thing is [taking the initiative to interrupt each other](/blog/2019/08/05/tips-for-mastering-video-calls/), as that's harder in a remote setting. At GitLab, we solve that by making sure that questions are in a Google Doc in advance so it's clear who has a question and who to hand the conversation off to. — _GitLab co-founder and CEO Sid Sijbrandij_
 
+## How do you engage remote meeting participants?
+
+1. Have your video on at all times because it's much more engaging for participants.
+1. Use team members' names to make everyone feel welcome and recognized.
+1. Advise participants to mute their mics to minimize background noise and ensure the speaker is able to be heard by all attendees.
+1. Don't be discouraged by interruptions, sometimes there is the lag in a remote call.
+1. Speak up as soon as you notice something is not working.
+1. Start and end your calls on time. 
+
+For more tips, visit the [GitLab video call communication guide](/handbook/communication/#video-calls).
+
 ## GitLab Knowledge Assessment: All-Remote Meetings
 
 Complete all knowledge assessments in the [Remote Work Foundation certification](/company/culture/all-remote/remote-certification/) to receive the [Remote Foundations Badge in GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-remote-foundations-badge). If you have questions, please reach out to our [Learning & Development team](/handbook/people-group/learning-and-development/) at `learning@gitlab.com`.
