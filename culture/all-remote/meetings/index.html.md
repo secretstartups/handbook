@@ -16,9 +16,22 @@ twitter_creator: "@gitlab"
 - TOC
 {:toc}
 
-## Introduction
+## What is a remote meeting?
 
-On this page, we're detailing how to optimize meetings in an all-remote environment.
+A remote meeting, also known as a virtual meeting, occurs when people use video and audio to connect online. Typically individuals in remote meetings are spread across different locations. However, we recommend doing everything possible to [avoid hybrid calls](/handbook/communication/#hybrid-calls-are-annoying). Individuals in the same place are encouraged to spread out and join a remote meeting using individual video and audio connections to increase the equality and experience for all in a remote meeting. 
+
+## What are the benefits of a remote meeting?
+
+Scheduling a virtual meeting allows you to set the meeting length and invite a limited number of people. You can participate in a remote meeting from [almost anywhere in the world](/jobs/faq/#country-hiring-guidelines)! If you are working in your garage or basement, be sure to use a green screen behind you and put up a professional background image to present well on screen. 
+
+## What are the challenges of a remote meeting?
+
+You are not expected to be available all the time, however there may be times you will need to flex your schedule to schedule or attend a meeting with someone from another timze zone outside of your typical working hours. Most remote-meeting challenges fall under two categories:
+
+1. trouble with technology
+1. communication complications
+
+Both can be overcome by [checking your internet connection](/company/culture/all-remote/getting-started/#bolster-your-internet-connection-and-consider-redundancy) regularly and growing aware of the [communication preferences](/company/culture/all-remote/getting-started/#get-accustomed-to-the-communication-preferences-of-your-co-workers) of others. 
 
 ## How do you do all-remote meetings right?
 
@@ -42,18 +55,18 @@ This works because of our values, which leads GitLab to hire individuals who enj
 
 You should aim to record all meetings, particularly when key individuals aren't able to join live. This allows team members to catch up on what transpired, adding context to notes that were taken during the meeting. Learn more about recording in Zoom in the [Tips and Tricks section of GitLab's Handbook](/handbook/tools-and-tips/#recording-in-zoom).
 
-### Using GitLab to replace meetings
+### Use GitLab to replace meetings
 
 A major enabler for reducing the quantity of meetings necessary at GitLab is our own product. GitLab is a collaboration tool designed to help people work better together whether they are in the same location or spread across multiple time zones. Originally, GitLab let software developers collaborate on writing code and packaging it up into software applications. Today, GitLab has a wide range of capabilities used by people around the globe in all kinds of companies and roles.
 
 You can learn more at GitLab's [remote team solutions page](/solutions/gitlab-for-remote/).
 
-### Live doc meetings
+### Do live doc meetings
 
 ![GitLab all-remote mentor](/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg)
 {: .shadow.medium.center}
 
-"[No agenda, no attenda](/handbook/communication/#external-communication)." Every work-related meeting should have a live doc agenda affixed to the calendar invite. To better understand how GitLab utilizes agenda docs, here's a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) you can copy and use in your organization. [Coffee chats](/culture/all-remote/informal-communication/#coffee-chats) are excluded from this given their function in informal communication. 
+"[No agenda, no attenda](/handbook/communication/#external-communication)."Every work-related meeting should have a live doc agenda affixed to the calendar invite. To better understand how GitLab utilizes agenda docs, here's a [templated example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) you can copy and use in your organization. [Coffee chats](/culture/all-remote/informal-communication/#coffee-chats) are excluded from this given their function in informal communication. 
 
 **If you determine that a meeting is needed to move a project forward, address a blocker, or resolve a miscommunication, visit our detailed guide on conducting a [live doc meeting](/company/culture/all-remote/live-doc-meetings/).**
 
@@ -128,6 +141,29 @@ At GitLab, we have a dedicated Slack channel [devoted to saying thanks](/handboo
 
 A great example of several GitLab's [values](/handbook/values/) being used to generate a creative outcome from a regularly scheduled meeting is detailed on the company blog: ["How we turned a dull weekly all-hands into a podcast"](/blog/2019/06/03/how-we-turned-40-person-meeting-into-a-podcast/)
 
+## How can I prepare for a remote meeting?
+
+1. Prepare for your meeting by carefully reading the live doc agenda attached to the calendar invite **before** the meeting. Here's an [example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) of what one might look like. 
+1. Check and [make sure your technology, Internet](/company/culture/all-remote/getting-started/#bolster-your-internet-connection-and-consider-redundancy), and environment are good. 
+1. Don’t be afraid to [ask questions](/company/culture/all-remote/getting-started/#dont-be-afraid-to-ask-for-help).
+
+## What should I do after a remote meeting?
+
+1. Write everything down so you can retain and recall important details. 
+1. Schedule action items, next steps, or a future meeting. Input into the proper directory (Google Drive, Salesforce, etc.) to help ensure there are no balls dropped.
+1. If you missed something, rewatch the video [recorded on our YouTube Unfiltered channel](/handbook/marketing/marketing-operations/youtube/).
+
+## How can I improve my remote meeting skills?
+
+[Lorraine Lee](linkedin.com/in/lorraineklee) has created [training on how to better your video and presentation skills](https://youtu.be/A5KtmrgVqr8) for an all-remote workspace. 
+
+Key points include:
+
+1. How to effectively use lighting, visuals, and curate your environment
+1. Using movement, power words, and the think/do/feel matrix to keep your audience engaged
+1. Smiling, making eye contact, and framing yourself in video
+1. Elevate energy by standing up, projecting, and using hand gestures
+
 ## All-remote Virtual "Offsites"
 
 ![GitLab values illustration](/images/all-remote/gitlab-values-tanukis.jpg)
@@ -186,6 +222,29 @@ For context, Sid joined the Zoom call from San Francisco, while the researchers 
 > There are benefits, but they aren't as big as people make them out to be.
 > 
 > The biggest thing is [taking the initiative to interrupt each other](/blog/2019/08/05/tips-for-mastering-video-calls/), as that's harder in a remote setting. At GitLab, we solve that by making sure that questions are in a Google Doc in advance so it's clear who has a question and who to hand the conversation off to. — _GitLab co-founder and CEO Sid Sijbrandij_
+
+## How do you engage remote meeting participants?
+
+1. Have your video on at all times because it's much more engaging for participants.
+1. Use team members' names to make everyone feel welcome and recognized.
+1. Advise participants to mute their mics to minimize background noise and ensure all attendees hear the speaker.
+1. Don't be discouraged by interruptions. Sometimes, there is a lag on a remote call.
+1. Speak up as soon as you notice something is not working.
+1. Start and end your calls on time. 
+
+For more tips, visit the [GitLab video call communication guide](/handbook/communication/#video-calls).
+
+## What are the best alternatives to Zoom for remote meetings?
+
+While GitLab uses Zoom as the primary video platform for communications,  others may prefer different tools. Some popular Zoom alternatives are:
+
+* WebEx
+* MS Teams
+* Skype
+
+To request access to those tools, create an access request and provide a justification for access.
+
+
 
 ## GitLab Knowledge Assessment: All-Remote Meetings
 
