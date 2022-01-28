@@ -9,6 +9,11 @@ title: "Investor Relations"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## GitLab's Investor Relations
+
+We have an externally facing [investor relation website](https://ir.gitlab.com/).
+The page you are on now the handbook that describes internal processes around investor relations.
+
 ## Quarterly Earnings Process:
 
 As a public company we share financial results publicly after the close of each fiscal quarter or fiscal year. For Q3-FY22, this happened six weeks after the close of the quarter, on December 6, 2021 at 1:30pm Pacific. The key deliverables for each earnings cycle are:
