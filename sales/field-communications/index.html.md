@@ -140,7 +140,7 @@ Examples: Outside (non-field) requests for feedback/input, team member changes, 
        * If the survey limit has already been reached in a month, Field Communications will work with the requestor to find the best next-available time.  
 
 #### Field Communications Playbook Flowchart
-![field-communications-playbook-flowchart](/handbook/sales/field-communications/field-communications_playbook-flowchart-fy22.png)
+![field-communications-playbook-flowchart](/handbook/sales/field-communications/field-communications_playbook-flowchart-fy23.png)
 
 [(Source file)](https://docs.google.com/drawings/d/121HaP5Zd76JIDze15y5FCVgABR2Bb43TLTyXl38Nxes/edit?usp=sharing)
 
