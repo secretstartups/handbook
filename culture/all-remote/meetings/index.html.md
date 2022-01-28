@@ -152,10 +152,9 @@ A great example of several GitLab's [values](/handbook/values/) being used to ge
 
 ## How can I prepare for a remote meeting?
 
-Be sure to carefully read the live doc agenda attached to the calendar invite prior to the meeting. Here's an [example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) of what one might look like. 
-
-Check tech & environment
-Don’t be afraid to ask questions
+1. Prepare for your meeting by carefully reading the live doc agenda attached to the calendar invite **before** the meeting. Here's an [example](https://docs.google.com/document/d/1WQe-0oiMCzB3MPBNdKluCEIfgTRpaIi-SJ8FmUJ2xHo/edit?usp=sharing) of what one might look like. 
+1. Check and [make sure your technology, Internet](/company/culture/all-remote/getting-started/#bolster-your-internet-connection-and-consider-redundancy), and environment are good. 
+1. Don’t be afraid to [ask questions](/company/culture/all-remote/getting-started/#dont-be-afraid-to-ask-for-help).
 
 ## All-remote Virtual "Offsites"
 
