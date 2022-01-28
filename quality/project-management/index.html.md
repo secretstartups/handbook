@@ -28,7 +28,7 @@ The Quality team currently works cross-functionally and our task ownership spans
     - [Canary test pipeline](https://gitlab.com/gitlab-org/quality/canary)
     - [Production test pipeline](https://gitlab.com/gitlab-org/quality/production)
     - [Known QA failures](https://gitlab.com/groups/gitlab-org/quality/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=type::bug)
-    - [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit)
+    - [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
     - [GitLab Performance Tool (GPT)](https://gitlab.com/gitlab-org/quality/performance)
 
 ### Reviewers and maintainers
@@ -55,7 +55,7 @@ Upon joining the Quality department, team members are granted either developer, 
   - In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
     - Authored and reviewed 5 MRs related to improvements to the framework.
     - Authored and reviewed 10 MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
-- [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit)
+- [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
   - Select Quality Enablement team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please reach out to the Quality Enablement team to help review.
   - In general, team members looking to become maintainers of this project are recommended to have a good working knowledge of [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/) and the GitLab application itself first before applying. We expect that team members will generally feel comfortable and will be granted maintainer access once they have:
     - Authored and reviewed 10 MRs related to improvements to the toolkit.
