@@ -408,10 +408,6 @@ I have responsibility for ensuring the application I own is accessible and perfo
 
 I want to make sure that deployments to production happen automatically, and I have detailed and real-time insight into what is happening with my deployed applications.
 
-##### Note
-
-This persona is part of an [ongoing UX Research project](https://gitlab.com/gitlab-org/ux-research/issues/654).
-
 #### Priyanka (Platform Engineer)
 
 ##### My Role
@@ -423,10 +419,6 @@ I have responsibility for providing, maintaining and operating a shared modern c
 - Increase the velocity and effectiveness for the application development teams.
 - Empower developers with self-service capabilities/tools so they can easily provision, configure, monitor, and decommission tiered environments as needed without requiring a third party to get involved.
 - Architect, maintain and migrate towards the best infrastructure solution for cost optimisation, availability and the needs of the organisation.
-
-##### Note
-
-This persona is part of an [ongoing UX Research project](https://gitlab.com/gitlab-org/ux-research/-/issues/773).
 
 #### Dakota (Application Development Director)
 
