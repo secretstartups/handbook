@@ -116,7 +116,8 @@ The Director, Product Management is a [grade 10](/handbook/total-rewards/compens
 * Maintain priorities for and champion [acquisitions](/handbook/acquisitions/) that impact our [product maturity](/direction/maturity/)
 * Perform [product walk-throughs](/handbook/product/product-processes/#walk-through) regularly to highlight opportunities for improved workflows that span groups, stages and section.
 * Exemplify, coach others on, and contribute to [GitLab values](/handbook/values/)
-* Drive cross-functional, high impact business workstreams outside of direct area of ownership 
+* Drive cross-functional, high impact business workstreams outside of the direct area of ownership 
+* Contribute strategic improvements to how the [Product Leadership Team](/handbook/product/product-leadership/#product-leadership-team-structure) operates and shape the priorities of the Product Management function
 
 #### Director of Product Management - Requirements
 Requirements for the role are outlined as part of the [Product Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/).
