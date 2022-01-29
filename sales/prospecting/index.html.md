@@ -15,13 +15,13 @@ description: "Prospecting is the process of initiating and developing new busine
 ## What is prospecting at GitLab?
 **Prospecting has come a long way from cold calling:** It should be strategic, thoughtful, helpful, and almost always a warm connection. 
 
-*What is warm?* Warm is when you know there’s a good reason why you need to reach out to your prospect, it's for their benefit that you're getting in touch, and you know why they’re likely to need your solution now. 
+_What is warm?_ Warm is when you know there’s a good reason why you need to reach out to your prospect, it's for their benefit that you're getting in touch, and you know why they’re likely to need your solution now. 
 
 **You own your pipeline.** For strategic account leaders (SALs), prospecting should be a part of your regular sales activities. This means blocking dedicated time on your calendar to plan, strategize with your team, and reach out to your top prospects every single week. After all, if you don’t have a pipeline, you don’t have a business. And as the CEO of your territory or area, you need to dedicate time to your future business as much as your current business to reach your target.
 
 **It takes a team effort to achieve results.** The SAL owns the customer relationship, but all team members can and should participate in strategy, planning, and execution. SALs should work closely with their sales development reps (SDRs), channel account manager, and also sync with their Field Marketing team member. 
 
-**Team is external too.** Think about the technology partners that can help you scale your approach. Engage with these partners, identify the right entry point, and present GitLab jointly with the partner to your customer. Exercise the muscle of engaging early and working with partners to identify new customers.
+**Team is external, too.** Think about the technology partners that can help you scale your approach. Engage with these partners, identify the right entry point, and present GitLab jointly with the partner to your customer. Exercise the muscle of engaging early and working with partners to identify new customers.
 
 **Here are a few things to keep in mind about Prospecting at GitLab:**
 
@@ -35,13 +35,13 @@ description: "Prospecting is the process of initiating and developing new busine
 ## Build your strategy
 **Start from your territory plan.** This exercise should be your source of information on where you’re prioritizing your time and what activities you and your team think will be most effective. It's also where you've set your **pipeline generation target.** 
 
-*How to determine your target?* A general rule of thumb is to plan to create 3.5x your target in pipeline and then work backwards to determine what value you need to deliver every quarter and every month. As you measure your success, you’ll learn whether that’s too high or too low based on how you implement your strategy and the results you deliver.
+_How to determine your target?_ A general rule of thumb is to plan to create 3.5x your target in pipeline and then work backwards to determine what value you need to deliver every quarter and every month. As you measure your success, you’ll learn whether that’s too high or too low based on how you implement your strategy and the results you deliver.
 
 Working backwards from your target, you'll be able to calculate how many accounts and opportunities you need to be successful. When looking at your target list, make sure you have a mix of those who are likely to buy now and those who may take a year or longer. Strategic partnerships take time so you need to diversify both your list and your outreach.
 
 Work with your [Sales Development Representative (SDR)](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#working-with-sales) to: 
 - Get input on your territory plan and how that maps to their activities.
-- Review activity and engagement in [DemandBase](https://about.gitlab.com/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/)
+- Review activity and engagement in [DemandBase](https://about.gitlab.com/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/).
 - Develop your approach and identify the right messaging.
 
 **Use data to support your assumptions:**
@@ -62,15 +62,16 @@ Work with your SDR to:
 **Work with Field Marketing:** Learn what [events are currently scheduled in your region](https://about.gitlab.com/handbook/marketing/field-marketing/#whats-currently-scheduled-in-my-region) and view the name of your aligned field marketer.
 
 
+
 ## Put your strategy into action
-**Use the :star: [Pipeline Generation Toolkit for Enterprise SALs](https://docs.google.com/presentation/d/1Uo1_Ly_nRhgRwoesja3vHM0K9e-dwdRSZdTyCbVYAhI/edit?usp=sharing) :star: to get started on prospecting.** 
+**Use the [Pipeline Generation Toolkit for Enterprise SALs](https://docs.google.com/presentation/d/1Uo1_Ly_nRhgRwoesja3vHM0K9e-dwdRSZdTyCbVYAhI/edit?usp=sharing) to get started on prospecting.** 
 
 Remember to triple-check your messages before you send them to prospects and customers. Getting details about them and their company wrong is cited in the [State of Sales 2021 report](https://business.linkedin.com/sales-solutions/b2b-sales-strategy-guides/the-state-of-sales-2021-report) as one of the top deal-breakers in the eyes of buyers.
 
 
 
 ## Keep your pipeline healthy
-Generally, surprises - whether in the form of sudden, major deals or sudden, major losses - are a bad thing. We have to strive to create predictable results. At first, this seems like trying to predict the vast unknown. But if you have a strong strategy in place for your pipeline, you’ll be able to see exactly how your year will turn out well before it happens. This means better, more reliable forecasts and less stress for you on whether you’ll meet that target
+Generally, surprises - whether in the form of sudden, major deals or sudden, major losses - are a bad thing. We have to strive to create predictable results. At first, this seems like trying to predict the vast unknown. But if you have a strong strategy in place for your pipeline, you’ll be able to see exactly how your year will turn out well before it happens. This means better, more reliable forecasts and less stress for you on whether you’ll meet that target.
 
 **Validate, validate, validate.** Effective qualification is just the first step. As you invest in a prospect, it’s important to continuously validate the opportunity throughout the sales cycle and make sure it can deliver results for you and that we are the effective solution for the prospect. 
 
@@ -86,19 +87,21 @@ Meet with your team and get their help and feedback on validating what’s in yo
 Holding hurts our prospective customers because while they’re sitting there, they aren’t getting any real value from us (and likely to get more value from a competitor). It’s for their benefit that we push deals along or move them to close.
 
 
+----
+
 ## Resources
 
 - [Sales discovery and qualifying questions handbook page](https://about.gitlab.com/handbook/sales/qualification-questions/)
 - [Effective discovery handbook page](https://about.gitlab.com/handbook/sales/playbook/discovery/)
 - [Most common customer use cases handbook page](https://about.gitlab.com/handbook/use-cases/)
 
-##### Training
-- [Keys to Successful Sale Pipeline Generation course](https://gitlab.edcast.com/insights/ECL-58b1b175-7c10-485e-a47c-fe29636943d2) (GitLab Learn - EdCast, 30 minutes)
+#### Training
+- [Keys to Successful Sales Pipeline Generation course](https://gitlab.edcast.com/insights/ECL-58b1b175-7c10-485e-a47c-fe29636943d2) (GitLab Learn - EdCast, 30 minutes)
 - [Effective discovery course](https://gitlab.edcast.com/insights/ECL-c0a6e34d-a997-4200-b0d9-65e3305e3761) (GitLab Learn - EdCast, 40 minutes)
 - [Demystifying the metrics conversation](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/#embrace-your-role-as-the-trusted-advisor) (Nico Ochoa video, 10 minutes)
 - [Pipeline Generation - Leading with Insights](https://www.youtube.com/watch?v=fNiGq5uOxgo) (GitLab Unfiltered, Nov 2019, 10 minutes)
 
-##### Support
+#### Support
 - [Field Marketing events and support](https://about.gitlab.com/handbook/marketing/field-marketing/#types-of-programs-field-marketing-runs)
 - [Compete support](https://about.gitlab.com/handbook/marketing/strategic-marketing/competitive/#account-specific-support) and [Competition Slack channel](https://gitlab.slack.com/archives/C1BBL1V3K)
 - [Executive sponsorship program](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#executive-sponsorship-program)
@@ -109,12 +112,12 @@ Holding hurts our prospective customers because while they’re sitting there, t
 - Register a deal [with our technology partners](https://about.gitlab.com/handbook/resellers/#deal-registration-instructions) 
 
 
-##### Tools 
+#### Tools 
 The toolkit above will be your main resource and contains things like a sequencing template for you to copy and modify for your own pipeline generation activities. It also includes the resources below which we’ve described here for easier access. To explore additional tools available, check out [our tech stack page.](https://about.gitlab.com/handbook/business-technology/tech-stack) 
 
-**[Outreach.io](https://university.outreach.io/page/prospector-learning-track)** is a tool used to automate emails in the form of sequences. Users can track open rates, click through rates, response rates for various templates and update sequences based on these metrics. Outreach.io also helps to track sales activities such as calls. All emails/calls/tasks that are made through Outreach.io are automatically logged in Salesforce with a corresponding disposition. See below for a list of current call dispositions, what they mean and scenarios on when to use each of them. All SALs can request access to Outreach.io. 
+**[Outreach.io](https://university.outreach.io/page/prospector-learning-track)** is a tool used to automate emails in the form of sequences. Users can track open rates, click through rates, response rates for various templates and update sequences based on these metrics. Outreach.io also helps to track sales activities such as calls. All emails/calls/tasks that are made through Outreach.io are automatically logged in Salesforce with a corresponding disposition. See below for a list of current call dispositions, what they mean and scenarios on when to use each of them. All SALs can request access to Outreach.io by submitting an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) (if you do not already have access). 
 
-**[LinkedIn Sales Navigator](https://www.linkedin.com/business/sales/blog/sales-navigator/what-is-linkedin-sales-navigator)** is one of the main prospecting tools we use at GitLab. It features a powerful set of search capabilities, improved visibility into extended networks, and personalized algorithms to help you reach the right decision maker. All SALs have access to LSN. [Click to go to the EdCast training.](https://gitlab.edcast.com/insights/learning-linkedin-sales) And view additional videos and tutorials on [the handbook page.](https://about.gitlab.com/handbook/sales/training/social-selling/)
+**[LinkedIn Sales Navigator](https://www.linkedin.com/business/sales/blog/sales-navigator/what-is-linkedin-sales-navigator)** is one of the main prospecting tools we use at GitLab. It features a powerful set of search capabilities, improved visibility into extended networks, and personalized algorithms to help you reach the right decision maker. All SALs have access to LSN. [Click to go to the EdCast training.](https://gitlab.edcast.com/insights/learning-linkedin-sales) And view additional videos and tutorials on [the handbook page](https://about.gitlab.com/handbook/sales/training/social-selling/).
 
 **[DemandBase](https://about.gitlab.com/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/)** is used by SDRs who can show you relevant data related to your target prospects. It has a wealth of intent and propensity to buy data that is married with account engagement indicators to create a holistic intent mapping for each account. 
 
