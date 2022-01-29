@@ -37,6 +37,20 @@ See the [marketing handbook](/handbook/marketing/) for details.
 
 ## Responsibilities
 
+* Develop a high performing team (network, hire, assess, grow, and offboard talent). 
+* Contribute to all functions and make the rest of the [E-Group](/company/team/structure/#e-group) better.
+* Set a great creative strategy, recruit, retain, inspire, and direct creatives.
+* Create a dynamic outbound channel mix allocation (double down and back off based on data).
+* Lead and encourage experimentation (try and deprecate or elevate quickly).
+* Encourage simplification and prioritization (80% of budget on a few core plays).
+* Proactively test new messaging with potential users and buyers to validate our approach.
+* Manage processes and talent to ensure data quality, availability, and interpretation. 
+* Lead data driven decision making. Demonstrate the ability to set the right dimensions for goals.
+* Successfully drive demand generation (GitLab SDRs are in marketing).
+* Focus on sales representatives success (% sales reps with adequate leads instead of number of sales leads).
+* Increase channel sales through hyper clouds and other partnerships.
+* Contribute to improve sales ramp time (territory warmup, golden sales deck).
+* Have ability to build a strong case for and convince other functions to make go-to-market and roadmap changes.
 * Care deeply about GitLab’s teammates, contributors, and users with the ability to translate your leadership into increased revenue, brand halo, and developer relations.
 * Build lasting relationships with your teammates and partners as the executive overseeing the leadership for all marketing deliverables.
 * Proactively identify and develop longer-term marketing and communications strategies and initiatives that will result in increased visibility and profitable growth.
@@ -53,11 +67,18 @@ See the [marketing handbook](/handbook/marketing/) for details.
 ## Preferred Requirements
 
 * 15+ years of enterprise software experience.
+* Played a key role in a hypergrowth company.
+* Concise in communications.
 * Knowledge on how to guide a brand's reputation and expand demand generation.
 * Experience in building, executing and measuring data-driven marketing programs across online and traditional channels.
 * Experience in the use of analytics tools and ROI metrics.
 * Deep experience in leadership within a global technology sector with a proven track record in growing market share.
+* Leadership in multi-segment marketing (enterprise, mid-market, SMB).
+* Understanding of engineer sensitivities.
+* Category leadership experience. 
+* DevOps software experience.
+* Experience with wider community engagement.
 * BA or BS degree in Marketing, Business or related field.
 * Excellent strategic and analytical skills combined with the creativity to produce innovative breakthrough value propositions and businesses for the company.
-* [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#e-group)
-* Ability to use GitLab
+* Ability to excel in [leadership at GitLab](https://about.gitlab.com/company/team/structure/#e-group).
+* Ability to use GitLab.
