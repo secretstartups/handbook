@@ -17,17 +17,30 @@ description: "Code Contributor User Journey"
 
 ## Journey Map
 
-### Current
+### Legend
 
 ```mermaid
-graph LR
-    subgraph Legend
+graph TD
     LA[Marketing]
     LB[Handbook / Docs]
     LC[GitLab]
     LD[Repository Issues]
-    end
-    subgraph Journey
+    classDef yellow fill:#ff0,stroke:#333,stroke-width:4px;
+    classDef green fill:#0f0,stroke:#333,stroke-width:4px;
+    classDef orange fill:#fa0,stroke:#333,stroke-width:4px;
+    classDef red fill:#f00,stroke:#333,stroke-width:4px;
+    class LA yellow;
+    class LB green;
+    class LC orange;
+    class LD red;
+```
+
+### Current
+
+<div style="overflow-x: scroll;">
+```mermaid
+%%{init: {"flowchart": { "useMaxWidth": false } }}%%
+graph TD
     subgraph Discovery
     AA[Contributing page]
     AB[Hackathon page]
@@ -89,28 +102,21 @@ graph LR
     CD --> DA
     DA --> DB
     DB --> DA
-    end
     classDef yellow fill:#ff0,stroke:#333,stroke-width:4px;
     classDef green fill:#0f0,stroke:#333,stroke-width:4px;
     classDef orange fill:#fa0,stroke:#333,stroke-width:4px;
     classDef red fill:#f00,stroke:#333,stroke-width:4px;
-    class LA,AA,AB,AC yellow;
-    class LB,BA,BB,BC,BD,BE,BF,BG,BH,BJ,CC green;
-    class LC,BL,CB,CA,DA,DB orange;
-    class LD,BI,BK,CD red;
+    class AA,AB,AC yellow;
+    class BA,BB,BC,BD,BE,BF,BG,BH,BJ,CC green;
+    class BL,CB,CA,DA,DB orange;
+    class BI,BK,CD red;
 ```
+</div>
 
 ### Goal
 
 ```mermaid
-graph LR
-    subgraph Legend
-    LA[Marketing]
-    LB[Handbook / Docs]
-    LC[GitLab]
-    LD[Repository Issues]
-    end
-    subgraph Journey
+graph TD
     subgraph Discovery
     AA[Contributing page]
     AB[Hackathon page]
@@ -142,15 +148,14 @@ graph LR
     CB --> DA
     DA --> DB
     DB --> DA
-    end
     classDef yellow fill:#ff0,stroke:#333,stroke-width:4px;
     classDef green fill:#0f0,stroke:#333,stroke-width:4px;
     classDef orange fill:#fa0,stroke:#333,stroke-width:4px;
     classDef red fill:#f00,stroke:#333,stroke-width:4px;
-    class LA,AA,AB,AC yellow;
-    class LB,BA,BC,CA green;
-    class LC,BB,DA,DB orange;
-    class LD,CB red;
+    class AA,AB,AC yellow;
+    class BA,BC,CA green;
+    class BB,DA,DB orange;
+    class CB red;
 ```
 
 ## Top Findings
