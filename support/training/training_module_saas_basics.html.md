@@ -12,6 +12,8 @@ description: Training Module for GitLab.com (SaaS) Basic
 
 # GitLab SaaS Basic - Training Module
 
+> Note: This page is meant to go with the [GitLab Learn version](). The original version is [in the support-training repository](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-com%20SaaS%20Basics.md).
+
 ## Introduction
 
 This training module provides Support Engineers with the basics of answering GitLab.com (SaaS) product related tickets,
@@ -100,7 +102,7 @@ One of the main differences of working with GitLab.com is that we receive many r
 
 1. Take a look at the [list of GitLab.com workflows](https://about.gitlab.com/handbook/support/workflows/#GitLab.com) or read the admin only section (Stage 4) and make note what other common cases we take care of, but require admin access.
 
-Remember: When triaging tickets and you're unsure if a user is asking about a Self-managed instance or GitLab.com, use chatops to check if the user exists. The API searches for primary email _and_ secondary emails starting 13.7 as described [in this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/26110). 
+Remember: When triaging tickets and you're unsure if a user is asking about a Self-managed instance or GitLab.com, use chatops to check if the user exists. The API searches for primary email _and_ secondary emails starting 13.7 as described [in this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/26110).
 
 ## Stage 3: GitLab.com Architecture and Troubleshooting
 
@@ -175,9 +177,9 @@ Keeping up to date and asking questions:
 If you are doing this module as part of onboarding, feel free to remove the pairing section.
 
 1. Have 5 pairing sessions specifically geared towards answering GitLab.com tickets or issues.
-  
+
 1. If you are doing Stage 5 (admin access), do 2 more focusing on tickets or issues that require admin access.
-  
+
 ## Stage 5: GitLab.com admin access (with manager approval)
 
 - **Done with Stage 5**
@@ -192,14 +194,14 @@ If you are doing this module as part of onboarding, feel free to remove the pair
         - [DEWR](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?label_name%5B%5D=DEWR) (Dotcom Escalation Weekly Report)
 1. You will also see [Personal Account and Deletions](https://gitlab.com/gitlab-com/gdpr-request) requests, which are auto-assigned to [team members with 50%+ SaaS focus](https://gitlab-com.gitlab.io/support/team/areas-of-focus.html). For training purposes, you can ask a teammate to give one to you. Follow the appropriate workflow below to fulfill the request and link the issue that you've done.
     1. [Data (GDPR Article 15) Requests](https://about.gitlab.com/handbook/support/workflows/personal-data-access-requests.html)
-        1. (Optional as these are very rare) Link to issue: 
+        1. (Optional as these are very rare) Link to issue:
     1. [Account Deletion Requests](https://about.gitlab.com/handbook/support/workflows/account_deletion.html)
         1. Link to issue:
     1. Discuss with your manager if you should to be added to the auto-assigned rotation. To be added into the rotation, make sure your [SaaS focus](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml) is 50%+.
 1. For [internal requests](https://gitlab.com/gitlab-com/support/internal-requests), you only need to work on the requests that relate specifically to GitLab.com. Many of the other issues as labelled are specific to other areas (such as Console or Licensing).
     1. Check out the list of [templates](https://gitlab.com/gitlab-com/support/internal-requests/-/tree/master/.gitlab/issue_templates).
     1. Read the [Servicing Internal Requests workflow](https://about.gitlab.com/handbook/support/workflows/internal_requests.html) which covers most internal issues.
-        1. (Optional as these are rare) Link to issue: 
+        1. (Optional as these are rare) Link to issue:
 
 ### User Accounts
 
@@ -207,7 +209,7 @@ Aside from the ones covered in Stage 2, the most common user requests have to do
 
 1. When making any changes to a user account, make sure to [use an admin note](https://about.gitlab.com/handbook/support/workflows/admin_note.html).
 1. For all 2FA disabling requests, use the [Account Ownership Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html). This workflow may be used for some other cases as well where we want to verify the ownership.
-    - Link to an account ticket requiring verification: 
+    - Link to an account ticket requiring verification:
 1. [Name Squatting Requests](https://about.gitlab.com/handbook/support/workflows/namesquatting_policy.html) apply to groups and users. Included here since it is often for users.
 1. Except in the cases above, or wherever else there is a clear ask of the action (including impersonating the user), always [ask for permission to take action](https://about.gitlab.com/handbook/support/workflows/account_changes.html#asking-permission).
 

@@ -84,21 +84,16 @@ A new support engineer will be considered onboarded when they are able to perfor
 
 Your primary Support Engineer Onboarding Issue is created from the [New Support Team Member Start Here template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New%20Support%20Team%20Member%20Start%20Here.md). This issue keeps track of your completion of the onboarding modules shown in the table below.
 
-It is recommended that you complete the modules in the order listed, unless an issue mentions that you can start something else simultaneously. Typically, for a new team member in Support, completion of the below onboarding modules (including those in the Area of Focus Pathway) should take **~ 3 weeks**.
+It is recommended that you complete the modules in the order listed, but it depends on your learning style. If you would like to complete them in a different order, discuss it with your manager. Typically, for a new team member in Support, completion of the below onboarding modules (including those in the Area of Focus Pathway) should take **approximately 3 weeks**.
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
 | [Git & GitLab Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Git%20and%20GitLab%20Basics) | 2 days | Understand our products and services |
-| [GitLab Support Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=GitLab%20Support%20Basics) | 1 Day | Understand how GitLab Support operates and the most common workflows |
 | [Customer Service Skills](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Customer%20Service%20Skills) | 2 Days | Understand how we interact with customers, and how to utilize your customer service skills to ensure customer success |
+| [GitLab Support Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=GitLab%20Support%20Basics) | 1 Day | Understand how GitLab Support operates and the most common workflows |
 | [Zendesk Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Zendesk%20Basics) | 1 Day | Utilize ZenDesk to perform ticket management |
 | [Triaging Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Triaging%20Tickets) | 2 Weeks | Understand how to triage tickets including the Needs Org and Triage view in Zendesk |
 | [Documentation](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Documentation) | 1 Day | Become proficient in making documentation and merge requests |
-| [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Working%20On%20Tickets) | 2 Weeks | Help customers by pairing with Support Engineers and replying to tickets |
-
-## GitLab.com Administration access
-
-Whenever GitLab.com administration access is required to complete any of the modules listed on this page, the training will direct you to the [GitLab-com Admin](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20Admin) module.
 
 ## Support Engineer Area of Focus Pathway
 
@@ -107,12 +102,20 @@ When you have completed the basic modules, work with your manager to decide your
 1. For GitLab, complete the [GitLab Support Learning pathway](#gitlab-support-learning-pathway).
 1. For License & Renewals, move on to the [License and Renewals Learning Pathway](#license-and-renewals-learning-pathway).
 
-#### GitLab Support Learning Pathway
+The following module should be started after and worked on in parallel with the modules in the chosen parthway.
+
+| Module | Duration | Description |
+| ------ | ------ | ------ |
+| [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Working%20On%20Tickets) | 2 Weeks | Help customers by pairing with Support Engineers and replying to tickets |
+
+### GitLab.com Administration access
+
+Whenever GitLab.com administration access is required to complete any of the modules listed on this page, the training will direct you to the [GitLab-com Admin](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20Admin) module.
+
+### GitLab Support Learning Pathway
 
 The GitLab Support pathway covers all platforms that we offer.
 In completing these modules, Support Engineers are expected to answer tickets submitted to any of them.
-
-
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
@@ -123,10 +126,9 @@ In completing these modules, Support Engineers are expected to answer tickets su
 When these modules are complete:
 
 1. Let your manager know that you are ready to [proceed to the appropriate on-call rotation training](#on-call-rotations).
-1. Discuss [what percentage each focus should be listed at](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml), removing onboarding. As noted in the training, if you completed the SaaS admin stage, you should be working on SaaS Account tickets and admin-related internal requests, and listed at 50% or higher.
+1. Discuss [what percentage each focus should be listed at](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml), removing onboarding. As noted in the training, if you completed the SaaS Accounts section, you should be working on SaaS Account tickets and admin-related internal requests, and listed at 50% or higher.
 
-
-#### License and Renewals Learning Pathway
+### License and Renewals Learning Pathway
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
