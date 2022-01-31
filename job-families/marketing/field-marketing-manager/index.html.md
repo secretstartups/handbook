@@ -174,7 +174,7 @@ The Manager, Field Marketing is a [grade 8](/handbook/total-rewards/compensation
 ### Key Performance Indicators 
 This role includes all of the performance indicators of the previous level plus:
 * [10X spend contribution to sales pipeline](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution) for geo (AMER, EMEA,APAC) responsible for.
-* Contribution to the outlined FMM ORKs, in alignment with the [Marketing ORKs](https://about.gitlab.com/company/okrs/#most-recent-okrs).
+* Contribution to the outlined FMM OKRs, in alignment with the [Marketing OKRs](https://about.gitlab.com/company/okrs/#most-recent-okrs).
 * Spending of the regional [Field Marketing budget](/handbook/marketing/field-marketing/#the-field-marketing-budget) within 5% variance, for geo (AMER, EMEA,APAC) responsible for. 
 
 ### Hiring Process
