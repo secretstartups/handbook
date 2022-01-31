@@ -22,6 +22,9 @@ When a lead is passed to a partner, they will be suspended from GitLab marketing
 ## Partner CRM Ids
 For a running list of partners and their CRM Ids, which is critical to the processes below, [click here](https://docs.google.com/spreadsheets/d/1VGWbbxyjclAopwO_e3JnYZtXysPQ1-UIUt8uBZRXLyE/edit?usp=sharing).
 
+### Scoring
+Leads that are actively being worked by the partner will be excluded from scoring. Once they are no longer being worked by the partner, they will be scored again. More details on the [scoring page](/handbook/marketing/marketing-operations/marketo/#scoring-model). 
+
 # Types of Partner Campaigns
 Each campaign has it's own ROE for lead routing and email practices. Follow the [Mural](https://app.mural.co/embed/b89f9208-e9f6-4df1-9c92-a886a5af0642) to find the type of event and the follow up that results from it. 
 
@@ -31,13 +34,31 @@ Each campaign has it's own ROE for lead routing and email practices. Follow the 
 </div>
 </div>
 
+## Passing to Vartopia and Partner Visibility
+In order for the Partner to be able to see and action the lead in Vartopia, the SFDC record must have the following fields updated. Vartopia calls SFDC every hour looking for updates to the SFDC record.
+1. `Partner Account ID` not equal to `NULL` (set my Marketo)
+1. `Prospect Share Status` = `Sending to Partner` (set by LeanData)
+1. `Partner Prospect Status` = `Qualifying` (set by LeanData)
+
+
+
 ## Partner Only Campaigns - MDF funded
 These campaigns are GitLab funded via MDF, but all leads are passed to the partner. We upload these lists into our systems to be able to track pipeline from resulting Deal Registrations in Vartopia. You can find Marketo and SFDC Campaign set up [here](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
 
-## Joint GitLab and Partner Events
-When GitLab and Partners participate in events together, they will share leads. 
+When a lead/contact is associated to a campaign the following steps occur:
 
-Lead statuses that are considered `GitLab actively working` are leads/contacts in `Accepted`, `Qualifying` and `Qualified` statues. Being marked as such does not mean they will not be passed to the partner - follow the mural above for those rules. 
+1. Marketo processes the lead, marks as `Marketing Suspended` and syncs to SFDC
+1. LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`
+
+## Joint GitLab and Partner Events
+When GitLab and Partners participate in events together, they will share leads. The mural above has a visual workflow of these steps. [Go here](/handbook/marketing/channel-marketing/partner-campaigns/#joint-marketing-campaign-set-up) for Marketo/SFDC campaign set up.
+
+When a lead/contact is associated to a campaign the following occurs:
+1. Marketo processes the lead and syncs to SFDC
+1. Lean Data Processes the following (waterfall):
+    1. If partner sourced (new or existing,) LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`
+    1. If lead/contact has a status of `Accepted`, `Qualifying` or `Qualified`, LeanData will assign to appropriate SDR
+    1. If lead/contact DOES NOT have a status of `Accepted`, `Qualifying` or `Qualified`, LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`
 
 
 ## Trials from Partners
@@ -62,10 +83,46 @@ You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builde
 # Setup in Marketo
 
 ## Trial Campaign Set Up
-There is no marketo program or SFDC campaign setup necessary to track self-managed trials. Every partner trial campaign can utilize setup from `Partner - Trial - Self-managed` campaign, without making any changes. Follow [directions above](/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners) to understand what form to use and what processes to follow.
+There is no marketo program or SFDC campaign setup necessary to track self-managed trials. Every partner trial campaign can utilize setup from `Partner - Trial - Self-managed` campaign, without creating a new Marketo or SFDC campaign. Follow [directions above](/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners) to understand what form to use and what processes to follow.
 
 ## Joint Marketing Campaign Set Up
-Follow directions on [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The main difference is updating the correct tokens for partner tracking - this is a WIP
+First, use the general set up is found [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The partner steps are nested in the typical Marketo program templates to clone. Once the campaign is cloned, follow the steps below in addition to the other setup steps found on the campaigns and programs page. 
+
+All Marketo templates will have a token added to them that the campaign owner should update, {{my.partner name}}.
+- Partner Name: Does not need to be official, it will be used on the form consent language and interesting moments, so needs to be customer facing. Example:  `By registering for this GitLab and {{my.partner name}} event....`
+
+
+### Online Events: (Lead capture via forms) BEFORE Launch
+1. Update token on Marketo program {{my.Partner Name}}
+1. Update registration landing page to have `FORM 3146: Partners w/ consent+token` 
+   - To update the page:
+       - Edit the landing page draft
+       - Double click on the form
+       - Update form `FORM 3146: Partners w/ consent+token` and click `swap`
+       - Approve and close landing page
+   - Forms has a hidden field that captures `utm_partnerid` to associate to the partner and captures contact consent for the partner.
+   - The partner MUST HAVE this utm on their link to the landing page otherwise they will not be routed leads
+1. Update `01 Processing` smart campaign's smart list to reference `FORM 3146: Partners w/ consent+token` instead of the form that is in there by default.
+1. (no setup needed) Marketo has a [smart campaign](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC25176B2ZN19) running that will listen for this form fill to `check` the `partner consent` field.
+1. Make sure typical processing smart campaigns are on and configured
+     - (no setup needed) If a `partnerid` was captured in the UTMs, then Marketo will [request a campaign](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC25176B2ZN19) to append that value to the `CRM Partner ID (lookup)` and `Vartopia Partner Account ID` fields
+   - If no partner ID is captured, Marketo assumes it is GitLab sourced.
+1. (no setup needed) Interesting moments will dynamically change if there is a partner involved to reflect that.
+1. (no setup needed) LeanData picks up from there, and the lead is routed accordingly to either GitLab or the Partner in Vartopia.
+
+The process above will work for an event with multiple partners driving to it. Make sure they have their utms correct when sending traffic to the registration page.
+
+### Offline Events: (Lead capture via list uploads)
+If a form isn't available to capture registration, follow these steps:
+
+1. In List upload issue, add a column for CRM Partner ID and add the value. If the partner did not source the lead (AKA GitLab did), then leave that column blank.
+1. Mark in the list upload issue that this is a joint event and the partner will be following up with leads
+1. (no setup needed) If a `partnerid` was captured on the list, then Marketo will [request a campaign](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC25176B2ZN19) to append that value to the `CRM Partner ID (lookup)` and `Vartopia Partner Account ID` fields. If no ID was captured, the list will route to GitLab SDRs.
+1. (no setup needed) Interesting moments will dynamically change if there is a partner involved to reflect that.
+
+The process above will work for an event with multiple partners driving to it. Make sure they have the partner ID properly appended to each person on the list.
+
+
 
 ## MDF funded Campaigns
 These campaigns follow their own processes not found on the campaigns-and-programs page. 

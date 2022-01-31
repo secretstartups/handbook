@@ -101,8 +101,9 @@ that details the FMM process where CAMs can read more about how to complete [the
     +  Once the MDF request has been either approved or declined the partner will be notified: 
           + If declined, the Channel Marketing DRI will reach out to the partner and let them know. We will copy the CAM on the notificiation
           + If approved, the FMM will be the DRI for reaching out to the partner contact in the proposal to review dates of execution and provide any other guidance
+          + If approved, channel marketing manager will [open an epic](/handbook/marketing/channel-marketing/channel-marketing-epics/) and correlating sub-issues defined therein. 
 
-## Demand Generation activities eligible for MDF
+### Demand Generation activities eligible for MDF
 -  **Customer Case Study** - Development of a print or digital case study that details an end-user customer’s positive experience with GitLab. Must highlight how a GitLab product or service solved a customer’s business problem, benefit received by customer, and customer’s endorsement of GitLab.
 -  **Telesales/Appointment Setting** - Outbound lead generation telemarketing campaigns that target end-user prospects /customers that promote GitLab or GitLab Alliance joint products or solutions.
 -  **Digital & Print Marketing** - Creation of broad reach promotional and brand marketing content for GitLab products or solutions in digital or print targeted at end-user customers or prospects. Must contain a customer call to action.
