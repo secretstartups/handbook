@@ -18,7 +18,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2022-02-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/88))
 
-
+**Sales Ops/Sales Systems: [SFDC Win Alerts - Migrate Troops -> Flow/Code](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2032)** 
 
 ## Q4-FY22
 
