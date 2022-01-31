@@ -80,7 +80,7 @@ This is a list of topics that we want to discuss:
 | Functional Lead       | Andy Soiron          | Senior Backend Engineer, Ecosystem:Integrations               |
 | Functional Lead       | Luke Duncalfe        | Senior Backend Engineer, Ecosystem:Integrations               |
 | Member                | Alex Kalderimis      | Senior Backend Engineer, Ecosystem:Integrations               |
-| Member                | Avielle Wolfe        | Acting Backend Engineering Manager, Verify:Pipeline Execution |
+| Member                | Avielle Wolfe        | Backend Engineer, Verify:Pipeline Authoring |
 | Member                | Doug Stull           | Staff Fullstack Engineer, Growth:Expansion                    |
 | Member                | Fabio Pitino         | Staff Backend Engineer, Verify:Pipeline Execution             |
 | Member                | Frédéric Caplette    | Senior Frontend Engineer, Verify:Pipeline Authoring           |
