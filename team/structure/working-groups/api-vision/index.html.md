@@ -71,23 +71,23 @@ This is a list of topics that we want to discuss:
 
 ## Roles and Responsibilities
 
-| Working Group Role    | Person               | Title                                                         |
-|:----------------------|:---------------------|:--------------------------------------------------------------|
-| Executive Stakeholder | Tim Zallmann         | Senior Director of Engineering, Dev                           |
-| Facilitator           | Arturo Herrero       | Engineering Manager, Ecosystem:Integrations                   |
-| Facilitator           | Grant Hickman        | Senior Product Manager, Ecosystem:Integrations                |
-| Functional Lead       | Achilleas Pipinellis | Senior Technical Writer, Enablement                           |
-| Functional Lead       | Andy Soiron          | Senior Backend Engineer, Ecosystem:Integrations               |
-| Functional Lead       | Luke Duncalfe        | Senior Backend Engineer, Ecosystem:Integrations               |
-| Member                | Alex Kalderimis      | Senior Backend Engineer, Ecosystem:Integrations               |
-| Member                | Avielle Wolfe        | Backend Engineer, Verify:Pipeline Authoring |
-| Member                | Doug Stull           | Staff Fullstack Engineer, Growth:Expansion                    |
-| Member                | Fabio Pitino         | Staff Backend Engineer, Verify:Pipeline Execution             |
-| Member                | Frédéric Caplette    | Senior Frontend Engineer, Verify:Pipeline Authoring           |
-| Member                | Grzegorz Bizon       | Principal Engineer, Verify                                    |
-| Member                | Kati Paizee          | Senior Technical Writer, Growth and Ecosystem                 |
-| Member                | Kerri Miller         | Senior Backend Engineer, Create:Code Review                   |
-| Member                | Laura Montemayor     | Backend Engineer, Verify:Pipeline Authoring                   |
-| Member                | Markus Koller        | Backend Engineer, Ecosystem:Integrations                      |
-| Member                | Natalia Tepluhina    | Staff Frontend Engineer, Plan:Project Management              |
-| Member                | Viktor Nagy          | Senior Product Manager, Configure                             |
+| Working Group Role      | Username        | Person                                                                   | Title                                                           |
+| :---------------------- | :-------------- | ------------------------------------------------------------------------ | :-------------------------------------------------------------- |
+| Executive Stakeholder   | @timzallmann    | [Tim Zallmann](https://about.gitlab.com/company/team/#timzallmann)       | Senior Director of Engineering, Dev                             |
+| Facilitator             | @arturoherrero  | [Arturo Herrero](https://about.gitlab.com/company/team/#arturoherrero)   | Engineering Manager, Ecosystem:Integrations                     |
+| Facilitator             | @g.hickman      | [Grant Hickman](https://about.gitlab.com/company/team/#g.hickman)        | Senior Product Manager, Ecosystem:Integrations                  |
+| Functional Lead         | @axil           | [Achilleas Pipinellis](https://about.gitlab.com/company/team/#axil)      | Senior Technical Writer, Enablement                             |
+| Functional Lead         | @Andysoiron     | [Andy Soiron](https://about.gitlab.com/company/team/#Andysoiron)         | Senior Backend Engineer, Ecosystem:Integrations                 |
+| Functional Lead         | @.luke          | [Luke Duncalfe](https://about.gitlab.com/company/team/#.luke)            | Senior Backend Engineer, Ecosystem:Integrations                 |
+| Member                  | @alexkalderimis | [Alex Kalderimis](https://about.gitlab.com/company/team/#alexkalderimis) | Senior Backend Engineer, Ecosystem:Integrations                 |
+| Member                  | @avielle        | [Avielle Wolfe](https://about.gitlab.com/company/team/#avielle)          | Backend Engineer, Verify:Pipeline Authoring                     |
+| Member                  | @dstull         | [Doug Stull](https://about.gitlab.com/company/team/#dstull)              | Staff Fullstack Engineer, Growth:Expansion                      |
+| Member                  | @fabiopitino    | [Fabio Pitino](https://about.gitlab.com/company/team/#fabiopitino)       | Staff Backend Engineer, Verify:Pipeline Execution               |
+| Member                  | @f_caplette     | [Frédéric Caplette](https://about.gitlab.com/company/team/#f_caplette)   | Senior Frontend Engineer, Verify:Pipeline Authoring             |
+| Member                  | @grzesiek       | [Grzegorz Bizon](https://about.gitlab.com/company/team/#grzesiek)        | Principal Engineer, Verify                                      |
+| Member                  | @kpaizee        | [Kati Paizee](https://about.gitlab.com/company/team/#kpaizee)            | Senior Technical Writer, Growth and Ecosystem                   |
+| Member                  | @kerrizor       | [Kerri Miller](https://about.gitlab.com/company/team/#kerrizor)          | Senior Backend Engineer, Create:Code Review                     |
+| Member                  | @lauraX         | [Laura Montemayor](https://about.gitlab.com/company/team/#lauraX)        | Backend Engineer, Verify:Pipeline Authoring                     |
+| Member                  | @toupeira       | [Markus Koller](https://about.gitlab.com/company/team/#toupeira)         | Backend Engineer, Ecosystem:Integrations                        |
+| Member                  | @ntepluhina     | [Natalia Tepluhina](https://about.gitlab.com/company/team/#ntepluhina)   | Staff Frontend Engineer, Plan:Project Management                |
+| Member                  | @nagyv-gitlab   | [Viktor Nagy](https://about.gitlab.com/company/team/#nagyv-gitlab)       | Senior Product Manager, Configure                               |
