@@ -93,38 +93,38 @@ The Director, Engineering Analytics role extends the [Senior Manager, Engineerin
 
 #### Director, Engineering Analytics Job Grade 
 
-The Director, Engineering Analytics  is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Engineering Analytics is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Engineering Analytics Responsibilities 
 
-* Extends Manager & Senior Manager, Engineering Analytics
+* Extends Manager & Senior Manager, Engineering Analytics.
 * Define and own all of GitLab's Engineering Analytics efforts.
 * Define Engineering Analytics fiscal year Direction (in handbook).
 * Define Engineering Analytics quarterly OKRs and align efforts strategically across Engineering and Product.
-* Define roadmap & execution plans to deliver business resules measured by key objectives & performance indicators.
+* Define roadmap & execution plans to deliver business results measured by key objectives & performance indicators.
 * Drive quarterly OKR retrospectives and identify improvements that impact the business bottom-line.
-* Drive improvements to KPIs and PIs that is in Engineering Analytics's line-of-work and job-family.
-* Publish and socialize the progress of Engineering Analytics broadly throughout the company.
-* Align the day-to-day execution of the Engineering Analytics to the top objectives of the company & communicated them broadly.
+* Drive results of KPIs and PIs that is in Engineering Analytics's line-of-work and job-family.
+* Publish and socialize the achievements of Engineering Analytics broadly throughout the company.
+* Align day-to-day execution of Engineering Analytics to the top objectives of the company & communicated them broadly.
 * Collaborate closely with senior leadership in Engineering, Product & GitLab's central data team. 
 * Foster healthy conflict amongst the teams to resolve issues quickly.
 * Hire world class Data Analysts & Managers for the Engineering Division.
-* Define & grow Engineering Analytics roles for what is needed from the business in the next 3-4 years.
+* Define & grow GitLab's Engineering Analytics roles for what is needed from the business in the next 3-4 years.
 
 #### Director, Engineering Analytics Requirements
 
-* Extends Manager & Senior Manager, Engineering Analytics
+* Extends Manager & Senior Manager, Engineering Analytics.
 * Outstanding leadership skills and someone who takes initiative, makes hard decisions, & is accountable.
 * Demonstrated capability to drive initiatives, develop thoughtful strategies, & deliver results at a senior level.
 * Track record of delivering analytics capabilities that improves the business bottom-line.
 * Track record of influencing bussiness stakeholders from multiple domains to deliver results.
-* Track record of hiring analysts & managers.
-* Excellent written and verbal communication skills, able to deliver bottom-line messaging to executives at C-suite & VP level.
-* Bias for action with an ability to work in a fast-paced environment with shifting priorities.
+* Track record of hiring data analysts within the Engineering domain.
+* Excellent written & verbal communication skills, able to deliver bottom-line messaging to executives at C-suite & VP level.
+* Bias for action & and able to work in a fast-paced environment with shifting priorities.
 * Ability to work collaboratively and efficiently with stakeholders throughout the organization.
-* Experience building a world-class data analytics function. 
-* Demonstrate longevity at at least one recent job.
-* Understanding of how to be successfully manage at a remote-only company.
+* Experience building a world-class data analytics function.
+* Demonstrate longevity in management in at least one recent job.
+* Understands how to be successfully in management at a remote-only company.
 * Ability to use GitLab.
 * Humble, servant leader.
 
