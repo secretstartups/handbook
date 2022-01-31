@@ -114,19 +114,19 @@ The Director, Engineering Analytics is a [grade 10](/handbook/total-rewards/comp
 #### Director, Engineering Analytics Requirements
 
 * Extends Manager & Senior Manager, Engineering Analytics.
-* Outstanding leadership skills and someone who takes initiative, makes hard decisions, & is accountable.
-* Demonstrated capability to drive initiatives, develop thoughtful strategies, & deliver results at a senior level.
+* Outstanding leadership skills, takes initiative, makes hard decisions & be accountable.
+* Demonstrate capability to drive initiatives, develop thoughtful strategies, & deliver results at a senior level.
 * Track record of delivering analytics capabilities that improves the business bottom-line.
 * Track record of influencing bussiness stakeholders from multiple domains to deliver results.
 * Track record of hiring data analysts within the Engineering domain.
 * Excellent written & verbal communication skills, able to deliver bottom-line messaging to executives at C-suite & VP level.
-* Bias for action & and able to work in a fast-paced environment with shifting priorities.
-* Ability to work collaboratively and efficiently with stakeholders throughout the organization.
-* Experience building a world-class data analytics function.
+* Bias for action & adaptability to work in a fast-paced environment with shifting priorities.
+* Able to work collaboratively & efficiently with stakeholders throughout the organization.
+* Demonstrate experience building a world-class data analytics function.
 * Demonstrate longevity in management in at least one recent job.
-* Understands how to be successfully in management at a remote-only company.
-* Ability to use GitLab.
-* Humble, servant leader.
+* Demonstrate open humility & servant leadership traits.
+* Understands how to be successful in management at a remote-only company.
+* Has ability to use GitLab.
 
 ## Performance Indicators 
 
