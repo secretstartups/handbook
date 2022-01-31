@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: "Engineering Analytics Manager"
+title: "Engineering Management - Engineering Analytics"
 ---
 
 Engineering Analytics Manager manages a team of Engineering Analysts that work on data capabilities for the Engineering Division. 
@@ -46,13 +46,13 @@ Engineering Analytics Manager manages a team of Engineering Analysts that work o
 * Developer platform/tool industry experience.
 
 ## Levels 
-### Engineering Analytics Manager 
+### Manager, Engineering Analytics 
 
-#### Engineering Analytics Manager Job Grade
+#### Manager, Engineering Analytics Job Grade
 
-The Engineering Analytics Manager  is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Engineering Analytics is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Engineering Analytics Manager Responsibilities
+#### Manager, Engineering Analytics Responsibilities
 
 * Author team quarterly OKRs and drive them to completion.
 * Align Engineering Analytics team OKRs with Engineering Division's needs.
@@ -71,16 +71,18 @@ The Engineering Analytics Manager  is a [grade 8](/handbook/total-rewards/compen
 
 #### Senior Manager, Engineering Analytics Job Grade 
 
-The Engineering Analytics Manager  is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Engineering Analytics is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+The Senior Manager, Engineering Analytics role extends the [Manager, Engineering Analytics](#manager-engineering-analytics) role.
 
 #### Senior Manager, Engineering Analytics Responsibilities 
 
 * Extends Manager, Engineering Analytics responsibilities 
-* Manage a team of people managers
+* We are not currently hiring for this role & will add more detail requirements when the bussiness need arises.
 
 #### Senior Manager, Engineering Analytics Requirements
 * Extends Manager, Engineering Analytics requirements
-* Demonstrated experience managing people managers
+* We are not currently hiring for this role & will add more detail requirements when the bussiness need arises.
 
 ### Director, Engineering Analytics 
 
@@ -88,9 +90,11 @@ The Engineering Analytics Manager  is a [grade 9](/handbook/total-rewards/compen
 
 The Director, Engineering Analytics  is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+The Director, Engineering Analytics role extends the [Manager, Engineering Analytics](#manager-engineering-analytics) role.
+
 #### Director, Engineering Analytics Responsibilities 
 
-* Extends Senior Manager, Engineering Analytics
+* Extends Manager & Senior Manager, Engineering Analytics
 * Align the day-to-day execution of the Engineering Analytics team to the top objectives of the company. Consistently ensure top objectives are well communicated to the entire Engineering Analytics team.
 * Collaborate closely with director peers across the Engineering Division. 
 * Foster healthy conflict amongst the team to resolve issues quickly
@@ -101,9 +105,20 @@ The Director, Engineering Analytics  is a [grade 10](/handbook/total-rewards/com
 #### Director, Engineering Analytics Requirements
 
 * Extends Senior Manager, Engineering Analytics
-* Ability to effectively communicate and collaborate at the VP and E-group levels. 
-* Present at conferences and meet-ups in the Engineering Analytics domain.
-* Lead a team who provided analytic insight that informs the direction of the Engineering Division. 
+* Outstanding leadership skills and someone who takes initiative, makes hard decisions, and is accountable.
+* Demonstrated capability to drive initiatives, develop thoughtful strategies, and deliver results at a senior level.
+* Track record leading & working with the open source community at large.
+* Track record of influencing bussiness stakeholders from multiple domains to attain company objective.
+* Track record of hiring engineers and managers.
+* Excellent written and verbal communication skills. Able to convey bottom-line message to executives at C & VP level.
+* Bias for action with an ability to work in a fast-paced environment with shifting priorities.
+* Ability to work collaboratively and efficiently with stakeholders throughout the organization.
+* Experience presenting at conferences and meet-ups in the Open Source community.
+* Experience building a world-class open source contribution program. 
+* Demonstrate longevity at at least one recent job.
+* Understanding of how to be successfully manage at a remote-only company.
+* Ability to use GitLab.
+* Humble, servant leader.
 
 ## Performance Indicators 
 
