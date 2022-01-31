@@ -111,7 +111,7 @@ _Performance indicators_
 ### GitLab Learning Strategy & Roadmap
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdSkXvFLoLfpF4egf-4h8-Y-_FOx_BBfC9PVxVNMUlZ2Xi7oH7oHi8nCrCm7bD2Cir2znJ-9tBOlp2/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfTwBDgrL07yg9Zpk08CQ1U52ZpvaYN5qB9YsSphS55-AbRYAmJBeCb0ClN-Cb4-SKKObk8pnTXLhD/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 **Learn more about our [FY22 Roadmap and tracking sheet](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375)**.
