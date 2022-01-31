@@ -31,7 +31,7 @@ When provisioning new users or altering current users' credentials for role chan
     - Select `Add`, type in the Salesforce and Outreach names to complete the new mapping. Be sure to double check you selected the correct `SFDC ID` before hitting save
 
 ### Learning Pathways
-Outreach provides educational courses via their [Outreach University Pathways](https://university.outreach.io/) programs that are updated frequently with new content. While GitLab does not require the SDR team to pursue completion of Outreach University Pathways, it's recommended for longterm users to pursue mastery of any marketing tools we use.
+Outreach provides educational courses via their [Outreach University Pathways](https://university.outreach.io/) programs that are updated frequently with new content. While GitLab does not require the XDR team to pursue completion of Outreach University Pathways, it's recommended for longterm users to pursue mastery of any marketing tools we use.
 
 ### Sequences  
 Sequences are one of the main features of Outreach. Users can create a series of touchpoints in order to communicate and automate their workflows.
@@ -66,7 +66,7 @@ If you need to request special sequence settings please reach out to Marketing O
 
 ### Collections
 Collections are an easy way to group sequences, snippets, and templates that get assigned to user groups for easier access. 
-Examples associated to our SDR groups include our `SDR Inbound 2020` and `2020 Events` collections. 
+Examples associated to our XDR groups include our `FY23 Inbound High Touch Collection` and `FY23 Tanuki Assist` collections. 
 You may request new collections by opening an issue in the Marketing Operations Project.
 
 ### Rulesets
@@ -82,19 +82,19 @@ You may request new collections by opening an issue in the Marketing Operations 
 - `Variables` allow Outreach to auto-populate prospect data and sender data, increasing productivity via automation. Pay close attention to what `variables` are available when composing emails and what information the `variables` will populate. If a prospect in Salesforce says "No Company" in the `Company` field, the Outreach `variable` for `company` will populate "No Company" in the sent email. 
 - If the name within the `company` field of Salesforce and Outreach does not flow naturally in conversation, check to see if a `Company Natural Name` can be added. For example, "Mr Bob's Company Incorporated" sounds less natural in conversation than "Mr Bob's". When using a natural name, use the `variable` {{company_natural}} in the email template instead of {{company}}.
 - `Variables` can also be used for setting `manual tasks` within an email template. However, these `manual tasks` function differently than a normal `variable`. After the brackets at the beginning of the `variable`, a "!" needs to be added or Outreach will attempt to populate the phrase inside the brackets. For example, a `manual task` should read {{! Edit this email before sending}}. If the "!" is not added, the sequence will fail with a "Template Syntax Error" message. 
-- The `Accounts` tab is a useful way of browsing Outreach `prospects` + `accounts` where the SDR's name appears in the SFDC Account field `SDR Assigned`. This won't filter for **every** prospect under your ownership (limitations with leads or unassigned accounts may apply), but it will show many relevant prospects. This view won't be available at your first login to Outreach, so you'll need to create it. To create the view, 
+- The `Accounts` tab is a useful way of browsing Outreach `prospects` + `accounts` where the BDR's name appears in the SFDC Account field `BDR Assigned`. This won't filter for **every** prospect under your ownership (limitations with leads or unassigned accounts may apply), but it will show many relevant prospects. This view won't be available at your first login to Outreach, so you'll need to create it. To create the view, 
     - Select the `Accounts` section of Outreach 
     - Next to the search box there is a purple label that reads `Owner is you`. Remove this filter for now
-    - Select `Add filter` and type `SDR Assigned`. Type in your name and hit enter. Change the `Sorted by` option, if you wish 
+    - Select `Add filter` and type `BDR Assigned`. Type in your name and hit enter. Change the `Sorted by` option, if you wish 
     - From there, select `Save view`. From this window, you can edit the view name and privacy settings
     - It's best to set this view as your `default view`. Without this filter in place, the `Accounts` section's usefulness is primarily steered away from `SDRs` and moreso to Sales team members. 
 
 ### Outreach Meetings
-The current meeting templates will sync to an SFDC event. Please be aware that Outreach will only create SFDC events for meetings `Booked from Outreach`. Per Outreach's [support documentation](https://support.outreach.io/hc/en-us/articles/360001407934-How-To-Configure-a-Meeting-Booked-Trigger-in-Outreach-), `Booked from Outreach` is defined as "The meeting was booked using the Outreach Public Calendar Link, insert availability, or by sending an invite through Outreach." This is important for SDRs to keep in mind to ensure any [Initial Qualified Meetings (IQMs)](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#qualified-meeting) are tracked appropriately.
+The current meeting templates will sync to an SFDC event. Please be aware that Outreach will only create SFDC events for meetings `Booked from Outreach`. Per Outreach's [support documentation](https://support.outreach.io/hc/en-us/articles/360001407934-How-To-Configure-a-Meeting-Booked-Trigger-in-Outreach-), `Booked from Outreach` is defined as "The meeting was booked using the Outreach Public Calendar Link, insert availability, or by sending an invite through Outreach." This is important for xDRs to keep in mind to ensure any [Initial Qualified Meetings (IQMs)](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#qualified-meeting) are tracked appropriately.
 
 |Meeting Type|Use Case|Notes|
 |----|----|----|
-|IQM (30)|For qualified prospects being sent from the SDR team to Sales to determine next steps with GitLab.| If no template is selected in the drop down this is the default meeting type used.|
+|IQM (30)|For qualified prospects being sent from the XDR team to Sales to determine next steps with GitLab.| If no template is selected in the drop down this is the default meeting type used.|
 |Discovery Call (30)|To be used as an intro call for potential clients and qualify their needs.|
 |Evaluation Orchestration Call (25)|A deeper dive into a potential clients needs.| 25 minute evaluation.|
 |Evaluation Orchestration Call (45)|A deeper dive into a potential clients needs.|This is a longer duration at 45 minutes rather than 25.|
@@ -120,7 +120,7 @@ Outreach is able to sync some custom information about these meetings into event
 
 #### Outreach Call Disposition
 
-SDRs need to choose a call disposition after calling a prospect to note the outcome of the call. This outcome will be synced over to SFDC. "CC" is an abreviation for Correct Contact.
+XDRs need to choose a call disposition after calling a prospect to note the outcome of the call. This outcome will be synced over to SFDC. "CC" is an abreviation for Correct Contact.
 
 | Outreach.io Call Disposition | Notes|
 |---|---|
@@ -149,15 +149,15 @@ If you are having issues with your Outreach calls, please use the following guid
 
 If the issue persists after , please contact [Outreach Support](https://support.outreach.io/hc/en-us/).
 
-#### Outreach Meetings for SDR Team
+#### Outreach Meetings for XDR Team
 
-SDR teams will use the functionality for scheduling to save time and effort, providing the best customer experience.
+XDR teams will use the functionality for scheduling to save time and effort, providing the best customer experience.
 
-If a meeting to be scheduled, the SDR will respond with [times-lots by following the instructions here.](https://support.outreach.io/hc/en-us/articles/115003359774-Insert-Availability-in-Gmail#:~:text=Open%20a%20new%20compose%20window,will%20appear%2C%20revealing%20your%20calendar.)
+If a meeting to be scheduled, the XDR will respond with [times-lots by following the instructions here.](https://support.outreach.io/hc/en-us/articles/115003359774-Insert-Availability-in-Gmail#:~:text=Open%20a%20new%20compose%20window,will%20appear%2C%20revealing%20your%20calendar.)
 
-#### Outreach Phone Numbers for SDR Team
+#### Outreach Phone Numbers for XDR Team
 
-In EMEA, we have purchased a number of phone numbers for the SDRs to use while outbound calling. These numbers allow the prospect to call back and it will go directly to the SDR who owns that phone number. These phone numbers belong to the team and not the SDR, so if the SDR moves team, then we will be taking that number and saving it for the SDR team replacement.
+In EMEA, we have purchased a number of phone numbers for the XDRs to use while outbound calling. These numbers allow the prospect to call back and it will go directly to the XDR who owns that phone number. These phone numbers belong to the team and not the XDR, so if the XDR moves team, then we will be taking that number and saving it for the XDR team replacement.
 
 If you need a phone number, please open an issue and we can purchase one if approved. Keep in mind that we can mostly only buy phone numbers in countries where we have an entity.  
 
@@ -310,7 +310,7 @@ On these reports please look for the following information to ensure your teams 
 
 ### Activity:
 
-This is a great report to monitor your team's KPIs- currently SDRs need 45 touchpoints a day (this report will only show emails, calls, tasks, it will not give a full picture of the [different touchpoints](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#activity--results-metrics) that count towards this KPI. ) You want to see a steady trickle of prospects added weekly. Overdue tasks are a sign that they are not completely their tasks and are possibly overwhelmed if there are over 100. You can filter all the following tabs by individual users or team. Below are the questions that you can answer using these reports:
+This is a great report to monitor your team's KPIs- currently XDRs need 45 touchpoints a day (this report will only show emails, calls, tasks, it will not give a full picture of the [different touchpoints](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#activity--results-metrics) that count towards this KPI. ) You want to see a steady trickle of prospects added weekly. Overdue tasks are a sign that they are not completely their tasks and are possibly overwhelmed if there are over 100. You can filter all the following tabs by individual users or team. Below are the questions that you can answer using these reports:
 
 Email Tab Questions:
 - How effective are my teams emails/templates?

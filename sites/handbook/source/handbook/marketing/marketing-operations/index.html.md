@@ -497,22 +497,22 @@ The enrichment part of the process is done using the data appending/enrichment t
 This cleaning & enrichment process has 4 main priorities:  
 
 1. **Increase Email Deliverability** by implementing email Validation & verification at point of capture (POC) - Implemented with [NeverBounce](https://neverbounce.com/?fbclid=IwAR1bdezYBpqMH58zm24yg_RFGdeF4VCgBHVQCJKYtTyf-Iegd9gZ1_GhTII). 
-2. **Enrich net new leads with Form Complete**  - Live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms. 
-3. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads are currently enriched via a Marketo Webhook and Marketo Zoominfo integration. 
+2. **Enrich net new leads with Marketo Webhook  - Live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms. 
+3. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads are currently enriched via the Marketo Webhook.  
 4. **Assure Data Cleanliness & Accuracy** - The Marketing Operations team is following the recommended deduplication order of operations as detailed below:
     * Lead to Lead Deduplication  (Completed - Runs weekly on Fridays and Saturdays)
     * Account Deduplication (This part is currently performed by Sales Operations)
     * Converting Leads to New Contacts (This step is skipped in our case since it would impact sales workflow considerably. We will re-evaluate if the sales team is not as heavily focused on leads as we are now.)
-    * Contact to Contact Deduplication (WIP)
-    * Lead to Contact Deduplication (WIP)
+    * Contact to Contact Deduplication (Started but currently on hold to allow for a Sales Systems fix)
+    * Lead to Contact Deduplication (This part of the process will start once Contact Deduplication is completed)
     * Deduplication of Custom Objects (Bizible Person IDs - On hold until Contact Deduplication and Lead to Contact Deduplication are completed)
 
 For more information regarding our data deduplication process visit the [Ringlead Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/ringlead/).
 
-**Cleaning & Enrichment Frequency:** While the email verification & enrichment jobs for net new leads, from our forms, work on a continuous bases, when it comes to enrichment of our existing leads & contacts in SFDC, this is done via scheduled enrichment jobs as follows: 
+**Cleaning & Enrichment Frequency:** While the enrichment jobs for net new leads, from our forms, work on a continuous bases, when it comes to enrichment of our existing leads & contacts in SFDC, this is done via scheduled enrichment jobs as follows: 
 
-1. Leads that are not in Raw, Bad Data, Unqualified, Web Portal Purchase statuses are enriched on a weekly basis.   
-2. All leads created in the last 7 Days are enriched daily to make sure no new leads from list uploads miss enrichment.
-3. All contacts in our SFDC get enriched weekly. 
+1. All leads are enriched on a weekly basis, on every Saturday.   
+2. All leads created in the last 7 Days are enriched daily to make sure no new leads from list uploads miss enrichment and also to make sure our sales teams have the most up to date information when working them.
+3. All contacts in our SFDC instance get enriched weekly, every Saturday. 
 
 You can find more details on the enrichment process in our [Zoominfo Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/). 
