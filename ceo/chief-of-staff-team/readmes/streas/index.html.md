@@ -23,7 +23,7 @@ Please feel free to contribute to this page by opening a merge request.
 ## About me
 
 * I'm from Southern California, but I left home when I was 18. I've since lived in New Hampshire, Barcelona, New York, Boston, Washington, D.C., London, Rwanda, and San Francisco.
-* Before having children, my passion was travel. I've been to over 70 countries and agressively checked off most of the items that had been on a bucket list that I created when I was 18 (swam with dolphins, lived abroad, jumped from a plane, visited mountain gorillas, went on a tiger safari, etc.).
+* Before having children, my passion was travel. I've been to over 70 countries and aggressively checked off most of the items that had been on a bucket list that I created when I was 18 (swam with dolphins, lived abroad, jumped from a plane, visited mountain gorillas, went on a tiger safari, etc.).
 * I'm passionate about a number of social causes. Before getting into technology, I worked for a number of nonprofits in various roles. 
 * My husband and I met on a trip to climb [Half Dome](https://www.nps.gov/yose/planyourvisit/halfdome.htm) in Yosemite. 
 * I have 2 young children who are the center of my world outside of work. While I look forward to the day when I can get an uninterupted night of sleep, they are pretty awesome. 
