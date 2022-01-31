@@ -158,7 +158,7 @@ The dashboards for stage groups are at a very early stage. All contributions are
 
 #### Blackbox Monitoring
 
-* [GitLab Web Status](https://dashboards.gitlab.net/dashboard/db/gitlab-web-status): front end perspective of GitLab. Useful to understand how GitLab.com looks from the user perspective. Use this graph to quickly troubleshoot what part of GitLab is slow.
+* [GitLab Web Status](https://dashboards.gitlab.net/d/pb3fvC7mk/gitlab-web-status): front end perspective of GitLab. Useful to understand how GitLab.com looks from the user perspective. Use this graph to quickly troubleshoot what part of GitLab is slow.
 * [GitLab Git Status](https://dashboards.gitlab.net/dashboard/db/gitlab-git-status): front end perspective of GitLab ssh access.
 
 #### Public Whitebox Monitoring
