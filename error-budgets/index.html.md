@@ -181,15 +181,15 @@ Our current contract is 99.95% availability and a 20 minute monthly error budget
 Feature categories with monthly spend above the allocated budget for three consecutive months may have additional feature development restrictions put in place.    
 _This is subject to change as Error Budget spend across feature categories decreases._
 
-Exceptions are granted as a means to allow different stakeholders to fulfill current business needs, if it is estimated that the granted exception is not creating additional risk to GitLab.com reliability.
+Exceptions are granted as a means to allow different stakeholders to fulfill higher priority business needs, if it is estimated that the granted exception is not creating additional risk to GitLab.com reliability.
 
 Valid reasons for an exception are:
 
-1. Work for improving a feature is scoped out and fully planned, and funded. Completing the work will take more than a single release month, and while the work is being completed it is expected that the Error Budget will be regularly spent.
-1. Work for improving a feature is scoped out and fully planned, but the work is not currently funded. The stakeholders are in the process of securing the funding, and the Error Budget will be regularly spent until the additional funds are secured.
-1. Highest level priority is set to achieve a significant business goal, and the reliability of GitLab.com is not directly affected. The group is likely to regularly spend the Error Budget while they are focused on this other priority.
+1. Work for improving the error budget is scoped out and fully planned, and funded. Completing the work will take more than a single release month, and while the work is being completed it is expected that the Error Budget will be regularly spent.
+1. Work for improving the error budget is scoped out and fully planned, but the work is not currently funded. The stakeholders are in the process of securing the funding, and the Error Budget will be regularly spent until the additional funds are secured.
+1. Highest priority is to achieve a significant business goal, and the reliability of GitLab.com is not directly affected. The group is likely to regularly spend the Error Budget while they are focused on this other priority.
 
-In the description of a MR requesting an exception, supply the following details:
+Open an MR and add the stage group to the table above. In the description requesting an exception, supply the following details:
 
 1. Clear description of the problem that is the cause of the budget spend
 1. Relevant resources showing that the work is scoped out
@@ -199,9 +199,9 @@ Include the summarised form of the above details in the table above.
 
 Assign the MR for approval to:
 
-1. Director of Product and up (Of the affected stage group)
+1. Director of Product or above (of the affected stage group)
     * They are responsible for ensuring that the business need is met, and will need to communicate the change up and down the chain of reporting.
-1. Director of Infrastructure and up (
+1. Director of Infrastructure or up
     * They are responsible for ensuring that GitLab.com will not be negatively impacted, and will need to communicate the exception up and down the chain of reporting.
 
 ### Error Budget DRIs
