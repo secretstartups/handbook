@@ -151,9 +151,17 @@ The Product Manager will label relevant issues from the milestone planning issue
 
 We use the [Pipeline Authoring Workflow issue board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?&milestone_title=%23started) to track what we work on in the current iteration for the target milestone.
 
-Development moves through workflow states as outlined in the [product development flow](https://about.gitlab.com/handbook/product-development-flow/):
+We follow the [product development flow](https://about.gitlab.com/handbook/product-development-flow/) to ensure that the problems we're solving are well understood and the solutions are well defined and validated before the implementation. 
 
- 1. `workflow::design` (if applicable)
+We aim to achieve key outcomes in each phase in order to de-risk subsequent phases. However, the product development flow doesn't dictate the order we go through the phases, or the time spent in each. We might skip certain phases if we think that the necessary outcomes for that phase have already been achieved.
+
+Development moves through [workflow states](https://about.gitlab.com/handbook/product-development-flow/#workflow-summary) as follows:
+
+ 1. `workflow::validation backlog`
+ 1. `workflow::problem validation`
+ 1. `workflow::ready for design` 
+ 1. `workflow::design` 
+ 1. `workflow::solution validation`
  1. `workflow::planning breakdown` 
  1. `workflow::ready for development`
  1. `workflow::in dev`
@@ -163,6 +171,9 @@ Development moves through workflow states as outlined in the [product developmen
  1. `workflow::production`
  1. `Closed`
 
+We use workflow labels to efficiently communicate an issue's state. Using these labels enables collaboration across teams and communicates an issue's current state. The DRIs throughout each phase of the workflow are responsible for keeping the workflow labels up-to-date.
+
+Issue descriptions shall always be maintained as the single source of truth. Issue description accuracy should be maintained by the DRIs throughout each phase. However all collaborators can and should contribute when they see discrepancies or needed updates.
 
 #### "What do I work on next?"
 
@@ -175,26 +186,6 @@ Specifically, this means our work is prioritized in the following order:
  * Then, lastly, picking from the top of the `workflow::ready for development` for development column
 
 The goal of this process is to reduce the amount of work in progress (WIP) at any given time. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is **the author(s)**, to reflect the importance of teamwork without diluting the notion that having a [DRI is encouraged by our values](/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
-
-#### Splitting issues
-
-If an issue has several components (e.g. ~frontend, ~backend, or ~documentation) we should split it up into separate implementation issues. When these issues are created, the issues should be titled `Frontend: [Issue title]` or `Backend: [Issue title]`, and marked as `blocked by` in case one is blocking the other. The original issue should hold all the discussion around the feature, with the implementation issues being used to track the work done. By splitting issues, there are several benefits:
-
-1. There's only one DRI per issue.
-1. Workflow labels and health statuses are more relevant.
-1. We can weight issues with more accuracy.
-1. We can mark one implementation as a blocker for another.
-1. It's easier to see what work can be picked up by each functional group.
-1. We can schedule feature work across multiple iterations.
-1. When team members are selecting work from the [ready for development board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?label_name[]=group::pipeline+authoring&label_name[]=workflow::ready+for+development), it simplifies what issue relates to which component.
-
-When moving an issue through `workflow::design` to `workflow::planning breakdown` and implementation, use one of these processes:
-
-| Frontend? | Backend? | Action |
-| --------- | -------- | ------ |
-| Yes       | Yes      | Original issue is renamed to a `Frontend` implementation issue and a separate `Backend` implementation issue is created. |
-| No        | Yes      | Original issue is renamed to a `Backend` implementation issue. |
-| Yes       | No       | Original issue is renamed to a `Frontend` implementation issue. |
 
 #### Weekly Issue Progress Updates
 
@@ -275,15 +266,6 @@ The Health Status of these issues should be updated to:
 
 EMs are responsible for manually updating the Health Status of [any inactive issues in the iteration for the milestone](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline%20authoring&milestone_title=%23upcoming&not%5Blabel_name%5D%5B%5D=workflow%3A%3Acanary&not%5Blabel_name%5D%5B%5D=workflow%3A%3Ain+dev&not%5Blabel_name%5D%5B%5D=workflow%3A%3Ain+review&not%5Blabel_name%5D%5B%5D=workflow%3A%3Aproduction&not%5Blabel_name%5D%5B%5D=workflow%3A%3Astaging&not%5Blabel_name%5D%5B%5D=workflow%3A%3Averification&page=2&scope=all&state=opened) accordingly.
 
-#### Engineering and design implementation issues
-
-Our preferred way is to split up design and engineering implementation into separate issues.
-This makes it easier to know the status of an active issue at a glance.
-Design issues go through the first few stages of our workflow. 
-Once it's ready for dev, the product manager creates a new issue for the engineering implementation.
-This will be in the `planning breakdown` phase of the workflow until an implementation plan has been added and weighted.
-For customer issues, we will not split the design. This way, our customers would have a single issue as the source of truth.
-
 The health status should be enough to know the general status of an issue.
 If you need more information on what tasks remain, you can check the implementation plan.
 Every engineering implementation issue needs an implementation plan in the description.
@@ -291,27 +273,51 @@ It is a list or a table that outlines all the steps required to complete the fea
 The engineer assigned to the issue is responsible for creating this plan and keeping it up to date.
 Here is [an example of one an **implementation plan** in an issue](https://gitlab.com/gitlab-org/gitlab/-/issues/296547#implementation-breakdown).
 
+#### Issues in `workflow::design`
+
+The [product development workflow labels](https://about.gitlab.com/handbook/product-development-flow/#workflow-summary) are the SSOT for the status of the issue as it relates to the product development workflow.
+
+Issues going through the validation track should have the appropriate workflow label and a milestone assigned so they show up in the `workflow::design` column of the Pipeline Authoring issue board.
+
+As an issue is labeled `workflow::design`, we change the title to `Design: [Issue title]` to make the issues in `workflow::design` easier to differentiate from Frontend and Backend implementation issues which are titled `Frontend: [Issue title]` or `Backend: [Issue title]` respectively.
+
+Once the team has created a shared understanding about the problem and the solution, and there's no obvious outstanding questions about the next steps, the Product Manager moves the issue into `workflow::planning breakdown`. We should avoid moving issues into implementation prematurely to ensure that the design discussions happen during `workflow::design` and not during the implementation as much as possible.
+
+#### Splitting issues
+
+If an issue has several components (e.g. ~frontend, ~backend, or ~documentation) we should split it up into separate implementation issues. When these issues are created, the issues should be titled `Frontend: [Issue title]` or `Backend: [Issue title]`, and marked as `blocked by` in case one is blocking the other. The original issue should hold all the discussion around the feature, with the implementation issues being used to track the work done. By splitting issues, there are several benefits:
+
+1. There's only one DRI per issue.
+1. Workflow labels and health statuses are more relevant.
+1. We can weight issues with more accuracy.
+1. We can mark one implementation as a blocker for another.
+1. It's easier to see what work can be picked up by each functional group.
+1. We can schedule feature work across multiple iterations.
+1. When team members are selecting work from the [ready for development board](https://gitlab.com/groups/gitlab-org/-/boards/2019514?label_name[]=group::pipeline+authoring&label_name[]=workflow::ready+for+development), it simplifies what issue relates to which component.
+
+When moving an issue through `workflow::design` to `workflow::planning breakdown` and implementation, use one of these processes:
+
+| Frontend? | Backend? | Action |
+| --------- | -------- | ------ |
+| Yes       | Yes      | Original issue is renamed to a `Frontend` implementation issue and a separate `Backend` implementation issue is created. |
+| No        | Yes      | Original issue is renamed to a `Backend` implementation issue. |
+| Yes       | No       | Original issue is renamed to a `Frontend` implementation issue. |
+
+If an issue in `workflow::design` is too large in scope to be effectively implemented in one issue, or in case the issue is old and too cluttered with discussions, the issue can be broken down into smaller issues. The Product Designer will work together with the Engineers and the Product Manager during `workflow::design` to understand the possible iteration plan and break down the large design proposal into smaller parts whenever possible. 
+
+When new implementation issues are created, they should always be linked to the initial issue that contains the proposal and relevant discussions.
+
 #### Discussion issues
 
-Sometimes it is useful to discuss a new product opportunity as a team to get additional input from the engineers and the team counterparts, before creating a design issue. These discussions should happen in issues titled `Discussion: [Issue title]`. Their main purpose is to engage the team in the discussions around the product vision or new feature ideas early in the opportunity validation and design process. After this discussion, we might:
+Sometimes it is useful to discuss a new product opportunity or a technical approach as a team to get additional input from the engineers and the team counterparts. Such discussions aren't always actionable and may or may not result in an actionable issue. These discussions should happen in issues titled `Discussion: [Issue title]`. Their main purpose is to engage the team in the discussions around a topic. After this discussion, we might:
 
-- Create a design issue.
+- Create a new issue or issues labeled appropriately with a product development workflow label.
 - Promote the discussion to an epic.
-- Create applicable implementation issues.
 - Just close the discussion if it didn't produce actionable steps.
 
+The discussion issue should be linked to any related issues that were created as its outcome.
+
 Having these discussions in issues can help us maintain a source of truth for the problems we're solving as a team and make the discussions more inclusive.
-
-#### Proposal issues
-
-Sometimes a proposal for a new feature is in discussion before the creation of a design issue. These proposals should happen in issues titled `Proposal: [Issue title]`. Their main purpose is to identify that a proposal is being recommended to the team which requires further analysis around the product vision early in the opportunity validation and design process. After this proposal has been received, we might:
-
-- Create a design issue.
-- Promote the proposal to an epic.
-- Create applicable implementation issues.
-- Just close the proposal if it didn't produce any further actionable steps.
-
-By having these proposals in issues, it can help us maintain a source of truth for the problems that are being recommended to the team and make the conversations more inclusive.
 
 ### Spikes
 
@@ -336,12 +342,13 @@ The Pipeline Authoring group supports the product marketing categories described
 | ----------------------| -------| ----|------------| ---|
 | `Category:Pipeline Authoring` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3APipeline%20Authoring) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3APipeline%20Authoring) | [Direction](https://about.gitlab.com/direction/verify/pipeline_authoring/) | [Documentation](https://docs.gitlab.com/ee/ci/) |
 | `Category:Jenkins Importer` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AJenkins%20Importer) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AJenkins%20Importer) | [Direction](https://about.gitlab.com/direction/verify/jenkins_importer/) | |
+| `Category:Secrets Management` | [Issues](https://gitlab.com/groups/gitlab-org/-/issues?sort=created_date&state=opened&label_name[]=Category:Secrets+Management) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=opened&label_name[]=Category%3ASecrets%20Management) |  | [Documentation](https://docs.gitlab.com/ee/ci/secrets/index.html) |
 
 #### Feature Labels
 
 | Label                 | |  | Description |
 | ----------------------| -------| ----|------------|
-| `CI integrations` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=CI%20ntegrations) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI%20integrations) | Issues related to supporting different CI targets directly (for example, Java or Mobile). | Pipeline Authoring |
+| `CI integrations` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=CI%20integrations) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI%20integrations) | Issues related to supporting different CI targets directly (for example, Java or Mobile). | Pipeline Authoring |
 | `CI persistence` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=CI%20persistence) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI%20persistence) | Issues related to Persistence (workspaces, caching). Does not include artifacts, which is its own label |
 | `CI rules` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=CI%20rules) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI%20rules) | Issues related to CI rules or linting |
 | `CI variables` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=CI+variables&label_name[]=group%3A%3Acontinuous%20integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI+variables&label_name[]=group%3A%3Acontinuous%20integration) | Relates to functionality surrounding pre-defined and user-defined variables available in the Build environment. Formerly `~ci variables` |
