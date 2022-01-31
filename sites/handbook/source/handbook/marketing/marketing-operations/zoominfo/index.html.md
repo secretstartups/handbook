@@ -87,34 +87,26 @@ Custom fields start with [ZI] and will be visible in the Zoominfo section in SFD
 - The Salesforce Native App is available on any lead, contact, or account directly within SFDC. 
 - The Salesforce Native App only allows users to export 25 at a time. Where as logging in directly and using the standard Salesforce web connector allows you to push up to 2,000 at a time - for any bulk pushes it is recommended you use the normal ZoomInfo website.
 
-
 ## SFDC Account Enrichment
-All of Salesforce current accounts in the database have been enriched with Zoominfo. Accounts are scheduled to be refreshed with Zoominfo weekly on Saturdays. Instant Enrich will enrich any new accounts that are created.
+All of Salesforce current accounts in the database have been enriched with Zoominfo. Accounts are scheduled to be refreshed with Zoominfo data daily. Instant Enrich will enrich any new accounts that are created.
 
 ## SFDC Lead Enrichment
-The lead enrichment jobs currently running in Zoominfo prioritize the following leads: 
+All leads in our SFDC database have been enriched with Zoominfo. Leads are scheduled to be refreshed with Zoominfo data weekly, on Saturdays.  
 
-1. Leads that are not in Raw, Bad Data, Web Portal Purchase and Unqualified. - This is a weekly job which runs on Saturdays.
-
-2. Leads which were created in the last 7 Days; - This jobs runs daily to make sure no newly created leads miss enrichemnt. 
-
-All jobs are scheduled to be enriched over the weekend (on Saturdays). 
+Net new leads coming in our SFDC instance are enriched daily to make sure the sales teams have the most up to date information while working them. 
 
 ## SFDC Contact Enrichment
 
-Weekly enrichment in SFDC has been extended to all contacts as of 25th September 2021. 
+As of 25th September 2021, all contacts in our SFDC instance are enriched weekly, on every Saturday. 
 
 ## Campaign Member Enrichment (Leads & Contacts) 
 
-Zoominfo Campaign Member Enrichment can be done in two ways: 
-
-1. Via Scheduled Enrich with List Views and Enrichment Jobs for both Leads & Contacts (Recommended).
+Zoominfo Campaign Member Enrichment can achieved via Scheduled Enrich with List Views and Enrichment Jobs for both Leads & Contacts 
 
 To do this, follow the steps below:
 - Mark the leads & contacts with the use of an operational field like **MktgOPS_C**
 - Create Lead List Views & Contact List Views and filter using the operational field;
 - Create & Schedule Zoominfo enrichment jobs for both leads & contacts and select enrichment via the list views created at the previous step. 
-2. Via Instant Enrich via SOQL (Currently buggy)
 
 ### Outreach Integration
 The ZoomInfo Outreach integration is now live and you may export contacts directly to Outreach. Any contacts you do export, will also be exported in SFDC. They will be initially missing some ZI information in SFDC but there will be an append job that will run automatically to update any missing information.
@@ -130,9 +122,9 @@ Any prospects created without email address will be found and deleted in the Out
 ### Marketo Integration
 There is a Marketo integration utilizing ZoomInfo's **Enrich** product. This is done on an automated basis utilizing a webhook.
 
-Marketo/ZoomInfo if the person record meets the following criteria (on an ongoing/future basis):
-1. SaaS Trials
-1. Self-managed Trials
-1. Filled out Contact Us form 
+Marketo/ZoomInfo webhook is triggered if the person record meets the following criteria (on an ongoing/future basis):
+1. Filled out a SaaS Trial form;
+1. Filled out a Self-managed Trials form;
+1. Filled out Contact Us form. 
 
 Enrich is set to update the ZoomInfo fields, `Employees Bucket` and a few Marketo standard fields (First, Last, Title) only if they are blank or unknown. ZoomInfo fields will overwrite with the most up to date information.
