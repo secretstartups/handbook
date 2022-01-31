@@ -84,8 +84,10 @@ This is a list of topics that we want to discuss:
 | Member                | Doug Stull           | Staff Fullstack Engineer, Growth:Expansion                    |
 | Member                | Fabio Pitino         | Staff Backend Engineer, Verify:Pipeline Execution             |
 | Member                | Frédéric Caplette    | Senior Frontend Engineer, Verify:Pipeline Authoring           |
+| Member                | Grzegorz Bizon       | Principal Engineer, Verify                                    |
 | Member                | Kati Paizee          | Senior Technical Writer, Growth and Ecosystem                 |
+| Member                | Kerri Miller         | Senior Backend Engineer, Create:Code Review                   |
 | Member                | Laura Montemayor     | Backend Engineer, Verify:Pipeline Authoring                   |
 | Member                | Markus Koller        | Backend Engineer, Ecosystem:Integrations                      |
 | Member                | Natalia Tepluhina    | Staff Frontend Engineer, Plan:Project Management              |
-| Member                | Grzegorz Bizon       | Principal Engineer, Verify                                    |
+| Member                | Viktor Nagy          | Senior Product Manager, Configure                             |
