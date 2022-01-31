@@ -48,10 +48,10 @@ This is a list of topics that we want to discuss:
   - Coverage.
   - Automated testing.
   - Tools (eg. Postman collections).
-- API deprecations life cycle and strategy:
+- API deprecations lifecycle and strategy:
   - REST v5 API or further iterations.
   - GraphQL deprecation process.
-- API Standards, including OpenAPI specification.
+- API standards, including OpenAPI specification.
 - Documentation:
   - Improve current documentation.
   - Review the first-time API user experience.
@@ -65,7 +65,7 @@ This is a list of topics that we want to discuss:
 - Define the vision of the GitLab API for the future years.
 - Set the foundation of a cohesive development strategy going forward.
 - Improve the API or capture the work needed to have a world-class API.
-- Clarify the life cycle of the API.
+- Clarify the lifecycle of the API.
 - Improve the documentation of the API.
 - Create learning paths and content to contribute to the API.
 
