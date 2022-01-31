@@ -69,6 +69,8 @@ The Manager, Engineering Analytics is a [grade 8](/handbook/total-rewards/compen
 
 ### Senior Manager, Engineering Analytics 
 
+This is a future level where we will outline the requirements and responsibilities at the time of the business need for the role.
+
 The Senior Manager, Engineering Analytics role extends the [Manager, Engineering Analytics](#manager-engineering-analytics) role.
 
 #### Senior Manager, Engineering Analytics Job Grade 
@@ -87,7 +89,7 @@ The Senior Manager, Engineering Analytics is a [grade 9](/handbook/total-rewards
 
 ### Director, Engineering Analytics 
 
-The Director, Engineering Analytics role extends the [Manager, Engineering Analytics](#manager-engineering-analytics) role.
+The Director, Engineering Analytics role extends the [Senior Manager, Engineering Analytics](#senior-manager-engineering-analytics) role.
 
 #### Director, Engineering Analytics Job Grade 
 
@@ -97,26 +99,27 @@ The Director, Engineering Analytics  is a [grade 10](/handbook/total-rewards/com
 
 * Extends Manager & Senior Manager, Engineering Analytics
 * Define and own all of GitLab's Engineering Analytics efforts.
-* Define the Engineering Analytics fiscal year Direction (in handbook).
-* Define plans and quarterly OKRs to execute against key objectives and roadmap. Align efforts strategically across R&D.
-* Drive quarterly OKR retrospectives and improvements that impacts Engineering Analytics.
+* Define Engineering Analytics fiscal year Direction (in handbook).
+* Define Engineering Analytics quarterly OKRs and align efforts strategically across Engineering and Product.
+* Define roadmap & execution plans to deliver business resules measured by key objectives & performance indicators.
+* Drive quarterly OKR retrospectives and identify improvements that impact the business bottom-line.
 * Drive improvements to KPIs and PIs that is in Engineering Analytics's line-of-work and job-family.
 * Publish and socialize the progress of Engineering Analytics broadly throughout the company.
-* Align the day-to-day execution of the Engineering Analytics team to the top objectives of the company. Consistently ensure top objectives are well communicated.
-* Collaborate closely with senior leadership in Engineering Division & GitLab's central data team. 
-* Foster healthy conflict amongst the team to resolve issues quickly.
-* Hire world class Data Analysts for the Engineering Division.
-* Define roles & grow Engineering Analytics for what is needed from the business in the next 3-4 years.
+* Align the day-to-day execution of the Engineering Analytics to the top objectives of the company & communicated them broadly.
+* Collaborate closely with senior leadership in Engineering, Product & GitLab's central data team. 
+* Foster healthy conflict amongst the teams to resolve issues quickly.
+* Hire world class Data Analysts & Managers for the Engineering Division.
+* Define & grow Engineering Analytics roles for what is needed from the business in the next 3-4 years.
 
 #### Director, Engineering Analytics Requirements
 
-* Extends Senior Manager, Engineering Analytics
-* Outstanding leadership skills and someone who takes initiative, makes hard decisions, and is accountable.
-* Demonstrated capability to drive initiatives, develop thoughtful strategies, and deliver results at a senior level.
-* Track record leading & working with the open source community at large.
-* Track record of influencing bussiness stakeholders from multiple domains to attain company objective.
-* Track record of hiring engineers and managers.
-* Excellent written and verbal communication skills. Able to convey bottom-line message to executives at C & VP level.
+* Extends Manager & Senior Manager, Engineering Analytics
+* Outstanding leadership skills and someone who takes initiative, makes hard decisions, & is accountable.
+* Demonstrated capability to drive initiatives, develop thoughtful strategies, & deliver results at a senior level.
+* Track record of delivering analytics capabilities that improves the business bottom-line.
+* Track record of influencing bussiness stakeholders from multiple domains to deliver results.
+* Track record of hiring analysts & managers.
+* Excellent written and verbal communication skills, able to deliver bottom-line messaging to executives at C-suite & VP level.
 * Bias for action with an ability to work in a fast-paced environment with shifting priorities.
 * Ability to work collaboratively and efficiently with stakeholders throughout the organization.
 * Experience building a world-class data analytics function. 
