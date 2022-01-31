@@ -69,11 +69,11 @@ The Manager, Engineering Analytics is a [grade 8](/handbook/total-rewards/compen
 
 ### Senior Manager, Engineering Analytics 
 
+The Senior Manager, Engineering Analytics role extends the [Manager, Engineering Analytics](#manager-engineering-analytics) role.
+
 #### Senior Manager, Engineering Analytics Job Grade 
 
 The Senior Manager, Engineering Analytics is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-The Senior Manager, Engineering Analytics role extends the [Manager, Engineering Analytics](#manager-engineering-analytics) role.
 
 #### Senior Manager, Engineering Analytics Responsibilities 
 
@@ -81,26 +81,32 @@ The Senior Manager, Engineering Analytics role extends the [Manager, Engineering
 * We are not currently hiring for this role & will add more detail requirements when the bussiness need arises.
 
 #### Senior Manager, Engineering Analytics Requirements
+
 * Extends Manager, Engineering Analytics requirements
 * We are not currently hiring for this role & will add more detail requirements when the bussiness need arises.
 
 ### Director, Engineering Analytics 
 
+The Director, Engineering Analytics role extends the [Manager, Engineering Analytics](#manager-engineering-analytics) role.
+
 #### Director, Engineering Analytics Job Grade 
 
 The Director, Engineering Analytics  is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-The Director, Engineering Analytics role extends the [Manager, Engineering Analytics](#manager-engineering-analytics) role.
-
 #### Director, Engineering Analytics Responsibilities 
 
 * Extends Manager & Senior Manager, Engineering Analytics
-* Align the day-to-day execution of the Engineering Analytics team to the top objectives of the company. Consistently ensure top objectives are well communicated to the entire Engineering Analytics team.
-* Collaborate closely with director peers across the Engineering Division. 
-* Foster healthy conflict amongst the team to resolve issues quickly
-* Escalate issues only when all options are exhausted.
-* Define roles, grow, and hire your teams for what is needed from the business in the next 3-4 years.
-* Coach the Engineering Analytics team to work within our communication guidelines and lead by example.
+* Define and own all of GitLab's Engineering Analytics efforts.
+* Define the Engineering Analytics fiscal year Direction (in handbook).
+* Define plans and quarterly OKRs to execute against key objectives and roadmap. Align efforts strategically across R&D.
+* Drive quarterly OKR retrospectives and improvements that impacts Engineering Analytics.
+* Drive improvements to KPIs and PIs that is in Engineering Analytics's line-of-work and job-family.
+* Publish and socialize the progress of Engineering Analytics broadly throughout the company.
+* Align the day-to-day execution of the Engineering Analytics team to the top objectives of the company. Consistently ensure top objectives are well communicated.
+* Collaborate closely with senior leadership in Engineering Division & GitLab's central data team. 
+* Foster healthy conflict amongst the team to resolve issues quickly.
+* Hire world class Data Analysts for the Engineering Division.
+* Define roles & grow Engineering Analytics for what is needed from the business in the next 3-4 years.
 
 #### Director, Engineering Analytics Requirements
 
@@ -113,8 +119,7 @@ The Director, Engineering Analytics role extends the [Manager, Engineering Analy
 * Excellent written and verbal communication skills. Able to convey bottom-line message to executives at C & VP level.
 * Bias for action with an ability to work in a fast-paced environment with shifting priorities.
 * Ability to work collaboratively and efficiently with stakeholders throughout the organization.
-* Experience presenting at conferences and meet-ups in the Open Source community.
-* Experience building a world-class open source contribution program. 
+* Experience building a world-class data analytics function. 
 * Demonstrate longevity at at least one recent job.
 * Understanding of how to be successfully manage at a remote-only company.
 * Ability to use GitLab.
