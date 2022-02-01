@@ -27,7 +27,7 @@ The GitLab API Vision Working Group aims to improve the current APIs and define 
 
 ### Overview
 
-We don't have a cohesive view between the REST and GraphQL APIs. We specify that the GraphQL API is the primary means of interacting programmatically with GitLab, but we often don't follow this criteria.
+We don't have a cohesive view between the REST and GraphQL APIs. We specify that the GraphQL API is the primary means of interacting programmatically with GitLab, but we often don't follow this criteria. Both APIs cover a different set of features, but none is feature-complete.
 
 ### Goals
 
