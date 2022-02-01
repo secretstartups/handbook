@@ -55,7 +55,7 @@ Any test failures or flakiness (either false positive or false negative) causes 
 If a change causes new test failures, the fix to the test should be made in the same Merge Request.
 If the change causes new QA test failures, in addition to fixing the QA tests, the `package-and-qa` or `review-qa-all` job must be run to validate the fix before the Merge Request can be merged.
 
-The cost to fix test failures increases exponentially as time passes due to [pipelines with merged results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/) used. Auto-deploys, as well as monthly releases and security releases, depend on `gitlab-org/gitlab` master being green for tagging and [merging of backports](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/release-manager.md#regular-security-releases).
+The cost to fix test failures increases exponentially as time passes due to [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html) used. Auto-deploys, as well as monthly releases and security releases, depend on `gitlab-org/gitlab` master being green for tagging and [merging of backports](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/release-manager.md#regular-security-releases).
 
 Our aim should be to keep `master` free from failures, not to fix `master` only after it breaks.
 
@@ -145,10 +145,10 @@ The merge request author of the change that broke master is the resolution DRI. 
 
 Once the resolution DRI announces that `master` is fixed:
 
-* Maintainers should start a new Pipeline for Merged Results (for canonical MRs)
+* Maintainers should start a new merged results pipeline (for canonical MRs)
   and enable "Merge When Pipeline Succeeds" (MWPS).
 * (For forks only) Authors should rebase their open merge requests (since
-  [Pipeline for Merged Results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/#pipelines-for-merged-results)
+  [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html)
   isn't supported in these cases).
 
 ### Merging during broken master
@@ -174,7 +174,7 @@ Merging while `master` is broken can only be done for:
 
 First, ensure the latest pipeline has completed less than 2 hours ago (although it is likely to have have failed due to
   `gitlab-org/gitlab` using
-  [pipelines for merged results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/)).
+  [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html)).
 
 Next, make a request on Slack:
 
@@ -203,7 +203,7 @@ Next, ensure that all the following conditions are met:
 
 1. The latest pipeline has completed less than 2 hours ago (although it is likely to have failed due to
   `gitlab-org/gitlab` using
-  [pipelines for merged results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/)).
+  [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html)).
 1. All of the latest pipeline failures also happen on `master`.
 1. There is [an issue labelled `~"master:broken"`][broken-master-issues] for every failure,
 see the "Triage DRI Responsibilities" steps above for more details.
