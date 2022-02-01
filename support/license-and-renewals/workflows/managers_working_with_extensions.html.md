@@ -9,18 +9,12 @@ description: How to manage plan/license escalations
 
 ----
 
-### How to manage plan/license related escalations
+## How to manage subscription or license related escalations
 
-Any escalation during your [manager on-call shift](/handbook/support/workflows/support_manager-on-call.html) can be evaluated using the following diagram.
+Subscription- and license-related escalations during your [manager on-call shift](/handbook/support/workflows/support_manager-on-call.html) can be evaluated using the following flow chart diagram.
 
-### Edge cases
+For general escalation handling, see our [Support Escalations handbook page](/handbook/support/internal-support/support-escalations.html).
 
-An edge case is any situation in which the process has been followed and the
-system does not produce the expected results. Examples:
-
-  - A customer is trying to [link their purchase to their account](https://docs.gitlab.com/ee/subscriptions/), but after following the process, the system produces an error.
-  - The web page or system needed to complete the process is down.
-  - The owner is not available.
 
 ```mermaid
 graph TD
@@ -44,3 +38,11 @@ graph TD
     WP-->|After sales intervention|Pass
 ```
 
+## Edge cases
+
+An edge case is any situation in which the process has been followed and the
+system does not produce the expected results. Examples:
+
+  - A customer is trying to [link their purchase to their account](https://docs.gitlab.com/ee/subscriptions/), but after following the process, the system produces an error.
+  - The web page or system needed to complete the process is down.
+  - The owner is not available.
