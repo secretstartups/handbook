@@ -38,7 +38,14 @@ Fuzz testing is the only type of GitLab scanning that requires you to write code
 
 Think of the fuzz target as a "translator" between the fuzz engine and the code-under-test. The data flows like this:
 
-<p style="text-align: center; font-family: monospace; font-style: normal">CI/CD Job <===> Fuzz Engine <===> <b>Fuzz Target</b> <===> Code-Under-Test</p>
+```mermaid
+graph TD
+    A[CI/CD job] -->|Runs| B(Fuzz engine)
+    B --> |Generate and send data| C{Fuzz Target}
+    C -->|Sends data| D[Go]
+    C -->|Sends data| E[iOs]
+    C -->|Sends data| F[Python]
+```
 
 The CI/CD job runs the fuzz engine. The fuzz engine generates random data and sends it to the fuzz target. The fuzz target sends that random data to the code-under-test. 
 
