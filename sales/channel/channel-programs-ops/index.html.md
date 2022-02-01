@@ -649,6 +649,30 @@ Partner Logos may be accessed in GitLab Partner Portal in the Asset Library unde
 
 
 ## **Partner Communications**
+ 
+The Channel Programs and Enablement team is responsible for “To Partner” Communications. 
+
+Partners are a huge part of the GitLab go-to-market strategy.  Teams managing our product, pricing, or process changes should always consider our Partners as it puts them in the best position to be successful with GitLab customers.   
+ 
+GitLab is contractually obligated to provide Partners with **30 days notification** of any pricing, product, or program changes. Product changes to tiering, terms, or EOA must accommodate the 30-day notice before announcing to GitLab customers, so Partners are prepared for changes and to help address customer questions/concerns. The 30 day notification period allows Partners to make required changes to pricelists, company websites, and collateral.   As you create GTM and communication plans, please add extra time for the request to the Channel Program team and account for the required 30-day notification.  
+ 
+ If you have something to be communicated to our Partners, kindly submit a **Channel Partner Announcement request** using [this template](https://gitlab.com/gitlab-com/channel/channels/-/issues/new?issue%5Bmilestone_id%5D=). 
+
+The Channel Program team has a standard communication cadence and vehicles to deliver notifications to Partners. Please take into account the communication cadence and delivery dates below, we appreciate and encourage as much notification as possible to allow the team to prepare and schedule requests properly.   
+ 
+**Partner communication resources and standard delivery dates.** 
+
+* **[Partner Flash](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#partner-flash-newsletter) Newsletter** - delivered to Partner users the 1st Thursday of the month (occasional exceptions due to holidays or other considerations.)  [Partner Flash example.](https://us19.admin.mailchimp.com/campaigns/show?id=6377336) 
+
+* **Partner Webcast series** - 1st Thursday of the month. To better support global time zones, we host Regional sessions sponsored by the Channel Program team and hosted by Channel leadership. The Program team will host a Program centric webcast once a quarter.   
+
+* **Partner Portal Notifications** - these alerts can go to all users or a subset of users. We do not find this a practical stand-alone communication vehicle. Using this notification to augment one of the above resources is more effective.   
+
+* **Special Notifications** - we can create a one-off notification if there is an urgent need to communicate out of cycle announcements or send surveys, Partner SKO/Summit notifications.  
+
+**How to get a hold of us:**
+
+**If you have any questions regarding if/how something should be communicated, please reach out to us via the #channel-programs-ops slack channel.**
 
 
 ## **Partner Flash Newsletter**
@@ -661,14 +685,14 @@ Partner Flash is a monthly newsletter that recaps important Partner-related info
 
 ## Target Audience
 
-The newsletter is sent to authorized users in our Partner community, the list is gathered and updated from the Partner Portal, new users are added or you can self serve by going to [this link.](https://gitlab.us19.list-manage.com/subscribe?u=5a5f55e4e0f03037d96416766&id=2321e18463)
+The newsletter is sent to authorized users in our Partner community, the list is gathered and updated from the Partner Portal, new users are added or you can self serve by going to [this link.](https://gitlab.us19.list-manage.com/subscribe?u=5a5f55e4e0f03037d96416766&id=f3c28dda97)
 
 
 ## Opportunities/Requirements
 
 The newsletter will…
 
-**Uphold our ****[values](https://about.gitlab.com/handbook/values/) of transparency**
+**Uphold our **[values](https://about.gitlab.com/handbook/values/) of transparency**
 
 
 
@@ -724,7 +748,7 @@ The newsletter will…
 *   **Be built out in the open**
 *   The newsletter content will be compiled in an issue each month within the [Partner Communication project.](https://gitlab.com/groups/gitlab-com/channel/-/epics/5) Any team member is welcome to contribute or make requests. See more information in the Process section below.
 
-**Uphold our value of "everyone can contribute" – we will measure success and gather Partner feedback often. **
+**Uphold our value of "everyone can contribute" – we will measure success and gather Partner feedback often.**
 
 
 
