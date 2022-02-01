@@ -119,7 +119,7 @@ To align our education and enablement with our product, each of the topics below
 - [Browser Performance Testing Feature Docs](https://docs.gitlab.com/ee/user/project/merge_requests/browser_performance_testing.html)
 - [Usability Testing Feature Docs](https://docs.gitlab.com/ee/ci/review_apps/#visual-reviews-starter)
 - [Accessibility Testing Feature Docs](https://docs.gitlab.com/ee/user/project/merge_requests/accessibility_testing.html)
-- [Merge Trains Feature Docs](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/)
+- [Merge Trains Feature Docs](https://docs.gitlab.com/ee/ci/pipelines/merge_trains.html)
 
 ### Package Stage
 ***
