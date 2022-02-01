@@ -245,7 +245,8 @@ Now that you have created the release post MR, refer to the checklist in the MR 
 
 Create dedicated MRs from the sample templates for these content blocks (usability improvements, bugs, performance improvements). This separation from the main Release Post MR simplifies the contribution and discussion process.
 
-_**Note:** The MRs for usability improvements, bugs, and performance improvements provide a place for others to add their content. While the Release Post Manager isn't responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MRs, on schedule._
+**Note for people adding content:** The MRs for usability improvements, bugs, and performance improvements provide a place for others to add their content. While the Release Post Manager isn't responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MRs, on schedule. Make sure to immediately apply any suggestion you make to avoid race conditions where your suggestion is considered as applied if someone else has directly pushed a commit ([example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/96728#note_806133408)). The TW lead will review the changes anyway, so no need to ask for a pre-review.
+{:.alert .alert-info}
 
 1. In the `gitlab.com/gitlab-com/www-gitlab-com` project, create 3 [new
    branches](https://gitlab.com/gitlab-com/www-gitlab-com/-/branches/new) from master: one for bugs, one for usability improvements, and one for performance improvements.
