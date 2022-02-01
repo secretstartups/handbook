@@ -16,8 +16,8 @@ twitter_creator: "@gitlab"
 
 [Jessica Reeder](https://gitlab.com/jessicareeder) 
 * [Sr. Campaign Manager, All-Remote](https://about.gitlab.com/job-families/marketing/all-remote-marketing/#senior-campaign-manager-all-remote) 
-* [LinkedIn](https://www.linkedin.com/in/lauracduggan/)
-* [Twitter](https://twitter.com/atlauraduggan?lang=en)
+* [LinkedIn](https://www.linkedin.com/in/jessicareeder/)
+* [Twitter](https://twitter.com/jessicareeder)
 * Watch me work! You can see my (non-confidential) activity  [here](https://gitlab.com/users/jessicareeder/activity).
 
 ## About Moi
