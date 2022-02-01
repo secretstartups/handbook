@@ -54,23 +54,3 @@ Once we have received the requested proof, we can proceed to forward or resend t
     1. Navigate to the `Forward license email` tab. 
     1. Enter the `Destination email address`. **NOTE** It is currently not possible to copy (cc) or send to multiple contacts at once.
     1. Click the **Forward** button.
-
-### Trial License or Temporary Key
-
-Before creating the request please consider the following points:
-
-- Support tries as much as possible to refrain from issuing non-trial licenses because trial licenses:
-    - Have no grace period
-    - Don't affect historical data tracking
-    - Aren't tied to any subscriptions for revenue purposes
-- All internal requests for a Temporary key or Trial Extension should issue a trial license.
-- For trial licenses where the `Expiry Date` is more than 30 calendar days from the Start date, a Sales Manager approval is required. When asking for approval, please also consider the time between waiting for approval and the license period.
-   - For example, if the requested trial license is for 33 days, and the wait time for approval could be up to 5 days. By the time the approval is given, perhaps the request doesn't need an Approval in the first place.
-Add the `Manager Approval::Required` label to the issue and ping the requester to ask for approval from their manager.
-> If you notice several recent requests for temporary keys, consult with a support manager on how to proceed.
-- It is fine to set the `Users in license` number to what is needed.
-- Set `Starts at` to the current date.
-- You can follow the same process as re-issuing a license. 
-- Ensure that you have checked the **trial** checkbox when creating the license. 
-- Ensure that the `Zuora subscription ID` and `Zuora subscription name` fields are empty.
-
