@@ -26,8 +26,7 @@ Please see the dedicated [Gainsight Technical Documentation Page](/handbook/sale
 ## Xactly
  
 More information to come. If you need a new field brought into Xactly please leverage the `AddFieldToXactlySales` [issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new?issue%5Bmilestone_id%5D=#) in the Sales Systems Project
- 
- 
+
 ## Territory Success Planning
  
 **Business Process this supports:** [Territory Success Planning](/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp)
@@ -35,6 +34,7 @@ More information to come. If you need a new field brought into Xactly please lev
 **Overview:** The goal of TSP is to keep a set of staging fields consistently up to date from a variety of data sources, then at given intervals copy these values to the "Actual" set of fields for general use. This allows for us to constantly receive changes but only apply those changes in a controlled fashion. This also allows us to easily track exceptions. Note: This project was originally referred to as ATAM, which is why the API names of the fields reference that instead of TSP.
  
 **Logic Locations:** [AccountJob.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/blob/master/force-app/main/default/classes/AccountJob.cls)
+
 Code Units:
 * highestEmpsAndTSPAddress
 * ownerTransfer
@@ -50,6 +50,75 @@ Code Units:
 | Owner Team    | Account_Owner_Team__c                      | ATAM_Next_Owner_Team__c     |
 | Sales Segment | Ultimate_Parent_Sales_Segment_Employees__c | JB_Test_Sales_Segment__c    |
 | Territory     | Account_Territory__c                       | ATAM_Territory__c           |
+
+
+## Landed Addressable Market (LAM)
+ 
+**Business Process this supports:** [Landed Addressable Market (LAM)](https://internal-handbook.gitlab.io/sales/LAM/)
+ 
+**Overview:** LAM is a measure of how much more expansion or growth we can achieve with the customers we already have. This value is calculated in Salesforce daily based on several inputs.
+
+**Logic Locations:** [AccountJob.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/blob/master/force-app/main/default/classes/AccountJob.cls), [AccountJob_SetParentLAMFields.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/blob/master/force-app/main/default/classes/AccountJob_SetParentLAMFields.cls)
+
+Code Units:
+* AccountJob.zuoraSubInfo
+* AccountJob_SetParentLAMFields (all methods)
+ 
+**Inputs:** Zuora, Zoominfo,LinkedIn, Manually Entered Employee Data, Account Parenting Hierarchy, 
+
+**Outputs:** Here are the various fields used in the solution, along with how they are set.
+
+| **Data Name**       | **Actual - Field API Name**                  | **Data Type** | **Set By** |       
+|----------------|----------------|----------------|----------------|
+| LAM                                 | LAM__c|Currency| [FLOW: Set LAM on Account](https://gitlab.my.salesforce.com/3004M000000g2d)|
+| LAM Tier (Industry)                 | LAM_Tier_Industry__c| Formula | SFDC |
+| LAM Tier (Dev Count)                | LAM_Tier__c | Formula | SFDC |
+| LAM Seat (Industry)                 | LAM_Seat_Industry__c | Formula | SFDC |
+| LAM Seat (Dev Count)                | LAM_Seat__c | Formula | SFDC |
+| LAM Price (Industry)                | LAM_Price_Industry__c| Formula | SFDC |
+| LAM Price (Dev Count)               | LAM_Price__c | Formula | SFDC |
+| LAM Max (Industry)                  | LAM_Max_Industry__c| Formula | SFDC |
+| LAM Max (Dev Count)                 | LAM_Max__c | Formula | SFDC |
+| LAM Dev Count | LAM_Dev_Count__c | Formula | SFDC |
+| LAM: Ultimate Annualized Seat Price | LAM_Ultimate_Annualized_Seat_Price__c | Formula | SFDC |
+| LAM:Ult. Avg Seat Price, this Account    | LAM_Ult_Avg_Seat_Price_this_Account__c | Formula | SFDC |
+| LAM:Starter Avg Seat Price, this Account | LAM_Starter_Avg_Seat_Price_this_Account__c	| Formula | SFDC |
+| LAM: Starter Annualized Seat Price  | LAM_Starter_Annualized_Seat_Price__c | Formula | SFDC |
+| LAM: Prevalent Tier Avg Price, this Acct | LAM_Prevalent_Tier_Avg_Price_this_Acct__c | Formula | SFDC |
+| LAM: Prevalent Tier Avg Price, Acct Fam |LAM_Prevalent_Tier_Avg_Price_Acct_Fam__c | Formula | SFDC |
+| LAM:Premium Avg Seat Price, this Account |LAM_Premium_Avg_Seat_Price_this_Account__c | Formula | SFDC |
+| LAM: Premium Annualized Seat Price  | LAM_Premium_Annualized_Seat_Price__c | Formula | SFDC |
+| LAM: Est Dev Percent by Industry    | LAM_Est_Dev_Percent_by_Industry__c | Formula | SFDC |
+| LAM: Count of Ultimate Subscriptions| LAM_Count_of_Ultimate_Subscriptions__c | Currency | AccountJob |
+| LAM: Count of Ultimate Subs, Acct Family| LAM_Count_of_Ultimate_Subs_Acct_Family__c	 | Currency | AccountJob_SetParentLAMFields |
+| LAM: Count of Starter Subscriptions | LAM_Count_of_Starter_Subscriptions__c	 | Currency | AccountJob |
+| LAM: Count of Starter Subs, Acct Family | LAM_Count_of_Starter_Subs_Acct_Family__c | Currency | AccountJob_SetParentLAMFields |
+| LAM: Count of Premium Subscriptions | LAM_Count_of_Premium_Subscriptions__c | Currency | AccountJob |
+| LAM: Count of Premium Subs, Acct Family  | LAM_Count_of_Premium_Subs_Acct_Family__c | Currency | AccountJob_SetParentLAMFields |
+| LAM:Aggregate Annual Ultimate Seat Price | LAM_Aggregate_Annual_Ultimate_Seat_Price__c | Currency | AccountJob_SetParentLAMFields |
+| LAM: Aggregate Annual Starter Seat Price | LAM_Aggregate_Annual_Starter_Seat_Price__c | Currency | AccountJob_SetParentLAMFields |
+| LAM: Aggregate Annual Premium Seat Price | LAM_Aggregate_Annual_Premium_Seat_Price__c | Currency | AccountJob_SetParentLAMFields |
+| LAM: Acct Below Cut Line            | LAM_Acct_Below_Cut_Line_Form__c | Formula | SFDC |
+| CARR (Acct Family)                  | CARR_Acct_Family__c | Formula | SFDC |
+| CMRR (Acct Family)                  | CMRR_All_Child_Accounts__c | Currency | AccountJob_SetParentLAMFields |
+| Ultimate license count              | Ultimate_License_Count__c | Number | AccountJob |
+| Starter license count               | Starter_License_Count__c | Number | AccountJob |
+| Prevalent Tier (Account)            | Prevalent_Tier__c | Formula | SFDC |
+| Prevalent Tier (Hierarchy)          | Prevalent_Tier_Hierarchy__c | Formula | SFDC |
+| Premium license count               | Premium_License_Count__c | Number | AccountJob |
+| Parent LAM: Aggregate Developer Count | Aggregate_Developer_Count__c | Formula | SFDC |
+| Estimated Developer Count | Estimated_Developer_Count__c | Formula | SFDC |
+| Parent LAM: Sum Ultimate Seat Price | Parent_LAM_Sum_Ultimate_Seat_Price__c | Currency | AccountJob_SetParentLAMFields |
+| Parent LAM: Sum Starter Seat Price  | Parent_LAM_Sum_Starter_Seat_Price__c | Currency | AccountJob_SetParentLAMFields |
+| Parent LAM: Sum Premium Seat Price  | Parent_LAM_Sum_Premium_Seat_Price__c | Currency | AccountJob_SetParentLAMFields |
+| Parent LAM: Sum of Num of Licenses  | Parent_LAM_Sum_of_Num_of_Licenses__c | Number | AccountJob_SetParentLAMFields |
+| Parent LAM: Max ZI Number of Developers | Parent_LAM_Max_ZI_Number_of_Developers__c | Number | AccountJob_SetParentLAMFields |
+| Parent LAM: Max Potential Users     | Parent_LAM_Max_Potential_Users__c | Number | AccountJob_SetParentLAMFields |
+| Parent LAM: LinkedIn Developer Count| Parent_LAM_Max_Decision_Makers_LinkedIn__c | Number | AccountJob_SetParentLAMFields |
+| Parent LAM: Industry (Acct Heirarchy) | Parent_LAM_Industry_Acct_Heirarchy__c | Picklist | AccountJob_SetParentLAMFields |
+| Parent LAM: Count of Ultimate Subs  | Parent_LAM_Count_of_Ultimate_Subs__c | Number | AccountJob_SetParentLAMFields |
+| Parent LAM: Count of Starter Subs   | Parent_LAM_Count_of_Starter_Subs__c | Number | AccountJob_SetParentLAMFields |
+| Parent LAM: Count of Premium Subs   | Parent_LAM_Count_of_Premium_Subs__c  | Number | AccountJob_SetParentLAMFields |
  
  
 ## Contact Ownership
