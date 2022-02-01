@@ -1077,6 +1077,7 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 - `FMC AMER East-Central/West`: Issues that the FMC East-Central/West is actively working
 - `FMC AMER East-Central/West - Contracts`: FMC East-Central/West task for tracking contract requests
 - `FMC AMER East-Central/West - WS/WC`: FMC East-Central/West task tracking for workshops and webcasts
+- `FMC AMER East-Central/West - Tracking`: FMC East-Central/West issue tracking
 - `FMC EMEA`: Apply this label for the attention of the Field Marketing Coordinator-EMEA
 - `FMC EMEA - Event Tracking`: Event/deadline tracking related to FMC EMEA
 - `SDR-GO Live`: Label FMMs add to the SDR Request issue that notifies the SDR team that the issue has been completed and is ready to be worked by the SDRs. [SDR-GO Live Summary board.](https://gitlab.com/groups/gitlab-com/marketing/-/boards/2124068?&label_name[]=SDR-GO%20Live)
