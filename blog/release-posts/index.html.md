@@ -45,22 +45,76 @@ Release posts follow a process outlined here, and the templates that are used to
 ## Schedule
 
 At a high level, the Release post schedule is:
+### By the 7th
 
-| Date | Step |
-| ------ | ------ |
-| By the 7th | The **Release Post Manager** creates a branch on `www-gitlab-com` and MR in that project that will collect all the release post items in to a single blog entry.<br><br> Note for Technical Writers: To avoid potential merge conflicts later during content assembly, please **do not** merge updates from `main` to the release post branch even if you notice it falling behind. The **Release Post Manager** has sole responsibility of the release post branch and will take care of merging from `master` as part of the content assembly process on the 18th. |
-| 1st - 10th | **PMs** contribute individual MRs for all of their content blocks (top/primary/secondary features, [Removals](#removals), and [Upgrades](#upgrades)) as release post items and add [Deprecations](#deprecations) to the docs. For primary items, PMs will also add the item to `features.yml`.<br><br>**EMs** can also contribute individual MRs for [Removals](#removals) and [Upgrades](#upgrades) as release post items and add [Deprecations](#deprecations) to the docs.<br><br>**PMs** add recurring content blocks for Omnibus improvements, deprecation warnings, and more. |
-| by the 15th | **EMs, PMs, and PDs** contribute to MRs for Usability, Performance Improvements, and Bug Fixes.<br><br>**Note:** For items that are feature flagged, it is recommended they are `enabled by default` by this date to ensure inclusion into self-managed release.<br><br>Deprecations MRs are assigned to TWs for final review/merge. |
-| by the 16th | **TWs** (with optional PMMs, Product Designers, and PM Leader) finish review of all release post item MRs (inclusive of deprecations, removals and upgrades)<br><br>**TW Lead** reviews usability, bugs and performance improvement MRs |
-| by the 17th | **EMs** merge feature release post item MRs if the underlying code was merged _before_ the 17th or manually verified to be in the release (check the release stable branch). [Be aware](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline): "Merging [code] by the 17th does not guarantee that the feature will be in the [milestone] release."<br><br>**Release Post Manager** merges recurring MRs for usability, performance improvements and bug fixes.<br><br>TW Reviewers merge deprecation MRs. <br><br> Any MRs added after the 17th should be submitted against the Release Post branch, not Master.
-| on the 18th | At <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time>, the **Release Post Manager** aggregates all the content blocks by updating the release post branch from the `master` branch, and moving all the "unreleased" items into the release post branch for **final content assembly**.<br><br>The **Release Post Manager** adds the MVP for the release and selects a cover image.<br><br>The **Release post manager** works with VP of Product Management to pick features highlighted and finalizes the introduction content. |
-| 18th - 20th | The **Release Post Manager and Technical Writer** perform final reviews/revisions to ensure everything is ready to publish.<br><br>Any changes after <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time> on the 18th will be done via the `release-X-Y` branch, not `master` branch, and is subject to approval by the **Release Post Manager**.<br><br>The TW Lead verifies the deprecations and removals links in the release post are correct.
+- Release post manager creates a branch on `www-gitlab-com` with related MR
+- This MR will collect the release post item contributions
 
-The 18th - 20th can also fall on vacations or holidays. It is important for Product Managers to designate, ahead of time, who to respond to time-sensitive inquiries should they be unreachable. Release Post Managers are also empowered to make decisions and take actions after not hearing back from the product manager before the EOD on the 20th.
-|
-| 22nd of Month | The **Release Post Manager** publishes the blog post to master on the morning of the 22nd, immediately following the package itself being published by the **Release team**. The [GitLab.org Releases page](https://gitlab.com/gitlab-org/gitlab/-/releases) will also populate the changelog via the process outlined in [`gitlab!44837`](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/44837)|
+### 1st to 10th
 
-_**Note:** The specific steps that should be followed, when they are due, and the order they should be followed in are described in the [Monthly release **post** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md) and the [Monthly release **post item** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)._
+- **PMs** contribute MRs for their content blocks:
+  - [Features (top, primary, secondary) and Upgrades](#instructions) are contributed as release post item MRs targeting the release post branch
+  - Primary items are added to `features.yml`
+  - Recurring content blocks for Omnibus, GitLab Runner, and Mattermost are added by the area owner
+  - Uncategorized items can be included as [extras](#extras)
+
+- **EMs and PMs** announce deprecations and removals:
+  - [Deprecations and Removals](#deprecations-removals-and-breaking-changes) are added to the GitLab Docs
+
+### By the 15th
+
+- **EMs, PMs, and PDs** contribute MRs for [Usability, Performance Improvements, and Bug Fixes](#usability-improvements-performance-improvements-and-bug-fixes)
+
+For items that are feature flagged, it is recommended they are `enabled by default` by this date to ensure inclusion into self-managed release. Deprecation and removal MRs are assigned to TWs for final review and merge.
+{: .note}
+
+### By the 16th
+
+- **TWs** finish review of Features, Deprecations, Removals, Upgrades, and Extras
+- **TW Lead** reviews usability, bugs and performance improvement MRs
+
+Optional: PMMs, Product Designers, and PM Leader contribute to reviews
+{: .note}
+
+### By the 17th
+
+- **EMs**:
+  - Merge feature release post item MRs if the underlying code was merged _before_ the 17th
+  - Or if manually verified to be in the release (check the release stable branch)
+
+Note: "Merging code by the 17th [does not guarantee](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) that the feature will be in the milestone release."
+{: .note}
+
+- **Release Post Manager** merges recurring MRs for usability, performance improvements and bug fixes
+
+- **TW Reviewers** merge deprecation MRs
+  
+Note: MRs added after the 17th should target the `release-x-y` branch, not `master`
+{: .note}
+
+### On the 18th
+
+- <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time>: **Release Post Manager** [aggregates the content blocks](#content-assembly-merging-release-post-items-content-blocks-to-your-branch) with `bin/release-post-assemble`
+- **Release Post Manager** adds the MVP for the release and selects a cover image
+- **Release Post Manager** picks features to highlight and creates the introduction content
+
+### 18th - 20th
+
+- **Release Post Manager and Technical Writer** perform final reviews
+  - Changes after <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time> on the 18th will be done via the `release-X-Y` branch and are subject to approval by the Release Post Manager.<br><br>
+  - The TW Lead verifies the deprecations and removals links in the release post
+
+Note: The 18th - 20th can fall on vacations, weekends, or holidays. PMs should designate who to respond to time-sensitive inquiries should they be unreachable. Release Post Managers are empowered to make decisions and [display bias for action](https://about.gitlab.com/handbook/values/#bias-for-action) if they haven't received a response by EOD on the 20th.
+{: .note}
+
+### On the 22nd of Month
+
+- **Release team** publishes the latest package
+- After the package is released, the **Release Post Manager** publishes the release post to master
+- The [GitLab.org Releases page](https://gitlab.com/gitlab-org/gitlab/-/releases) will also populate the changelog via the process outlined in [`gitlab!44837`](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/44837)|
+
+**Note:** Details for all of these steps are described in the [Monthly release **post** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md) and the [Monthly release **post item** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md).
+{: .note}
 
 ## Participants
 
@@ -1330,7 +1384,7 @@ This section should contain any relevant updates for packaged software, new feat
 
 _To be added by Product Managers and merged by Engineering Managers._
 
-If you need an extra block to convey important info, and it doesn't fit the other blog post sections, you can use the `extras` block, right before `deprecations` (in the release post YAML datafile):
+If you need an extra block to convey important info, and it doesn't fit the other blog post sections, you can use an `extras` content block:
 
 ```yaml
 extras:
@@ -1341,7 +1395,7 @@ extras:
       Accelerate modern DevOps. Producat velocitatem quacum fiducia, sine securitate sacrificium, et visibilis DevOps in victoria!
 ```
 
-For more multiple blocks, use:
+Multiple blocks:
 
 ```yaml
 extras:
@@ -1484,7 +1538,7 @@ When approved, include the Ready label in the MR before merging.
 
 ## Major releases
 
-Major releases happen once a year and start a new versioning cycle: 14.0 - 14.10 --> 15.0 and so on.  Contribution to and management of content for major releases follows all the same protocols as [monthly releases](#schedule). But for major releases, the release post manager can expect some extra coordination and communication from the Social, PR, and Marketing teams, due to extra activities and needs for a major release. Additionally, during a major release, the release post manager may need to support Product Operations or PM volunteers managing communication of removals that are breaking changes.
+Major releases happen once a year and start a new versioning cycle: 14.0 - 14.10 --> 15.0 and so on.  Contribution to and management of content for major releases follows the same schedule as [monthly releases](#schedule). But for major releases, the release post manager can expect some extra coordination and communication from the Social, PR, and Marketing teams, due to extra activities and needs for a major release. Additionally, during a major release, the release post manager may need to support Product Operations or PM volunteers managing communication of removals that are breaking changes.
 
 ### Communicating breaking changes
 
