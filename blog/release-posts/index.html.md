@@ -482,6 +482,9 @@ In parallel with feature development, a merge request should be prepared by the 
 
 The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item) automates the creation of release post items using issues and epics. Draft your release post content under the **Release notes** section of the [feature issue template](/handbook/product/product-processes/#feature-templates) and then follow the [release post item generator](#release-post-item-generator) instructions.
 
+Note: The generator will not create an MR for a confidential issue. To add a release post item for work relating to a confidential issue, follow the steps below to create an MR manually and remove any confidential information or links.
+{:.note}
+
 #### Option 2: manual MR creation
 
 - Create a new branch from `master` for each feature (primary, secondary, removal). [Deprecations are handled differently](#deprecations)
