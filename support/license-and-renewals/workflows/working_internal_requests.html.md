@@ -16,6 +16,8 @@ Follow the same [General Workflow](/handbook/support/workflows/internal_requests
 
 ### L&R Internal Requests Hawk
 
+> **NOTE** L&R Internal Requests are gradually moving to the L&R View in Zendesk. You can track the progress in [this epic](https://gitlab.com/groups/gitlab-com/support/-/epics/176)
+
 There is a internal requests hawk role which rotates on a weekly basis which
 serves as a temporary measure to make sure internal requests tagged with
 the following labels receive the appropriate attention from Support:
@@ -28,7 +30,7 @@ the following labels receive the appropriate attention from Support:
 * `License Issue` - [Workflow](/handbook/support/license-and-renewals/workflows/license_troubleshooting.html)
 * `Plan Change Request` - [Workflow](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#plan-change-requests)
 * `SaaS Subscription Issue` - [Workflow](/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html)
-* `Self Managed Trial Extension or Temporary License Issue` - [Workflow](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials)
+* `Self Managed Trial Extension or Temporary License Issue` - [Workflow](/handbook/support/license-and-renewals/workflows/self-managed/trials.html)
 * `Trial CI Minutes Issue` - Workflow instructions on template
 
 When on this role, prioritize working on internal request issues over Zendesk tickets.
