@@ -121,7 +121,7 @@ But if the random data ever causes an error or crash in the code-under-test, tha
    *NOTE: fuzz testing jobs might look a little different from other GitLab scanners. If a fuzz testing job finds bugs, that job will have **failed** status, but the pipeline will continue running. Other scanners have **passed** status as long as they complete, regardless of whether they find any problems.*
 1. When the pipeline completes, look at the `Security` tab on the pipeline details page to see if fuzz testing found the index-out-of-bounds bug in the code-under-test.
 1. Click on the entry under the **Vulnerability** column to learn more about the bug and see where it happened in the call stack.
-1. In the left navigation pane, click **Security & Compliance > Vulnerability Report** to see another view of the fuzz test results. It might help to set the **Scanner** filter to **Coverage Fuzzing**.
+1. In the left navigation pane, click **Security & Compliance > Vulnerability Report** to see another view of the fuzz test results. It might help to set the **Tool** filter to **Coverage Fuzzing**.
 
 
 ## Suggestions?
