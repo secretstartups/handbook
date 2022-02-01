@@ -139,12 +139,13 @@ Postcard notes are available to customize your shipment.  Just select the postca
 
 ## Partner-Initiated GitLab Free Trial Lead Gen Program
 
-Partners now have the ability to place a FREE trial button on their website as a critical call to action to their demand generation plans. Free trials allow users to have 30 day access to the full set of features in the Self-Managed version of GitLab. Once a visitor requests a free trial from a GitLab partner, the record is sent to GitLab for the license key to be assigned and assigned to a partner in SFDC. In addition, the lead is then routed automatically via Vartopia to the partner for tracking and follow up. This is the same process that is followed whether the record is considered a lead or a contact within GitLab's instance of SFDC.
+Partners now have the ability to place a FREE trial button on their website as a critical call to action to their demand generation plans. Free trials allow users to have 30 day access to the full set of features in the Self-Managed version of GitLab. Once a visitor requests a free trial from a GitLab partner, the record is sent to GitLab for the license key to be generated and assigned to a partner in SFDC. In addition, the lead is then routed automatically via Vartopia to the partner for tracking and follow up. This is the same process that is followed whether the record is considered a lead or a contact within GitLab's instance of SFDC.
 
-Partners can access and manage their GitLab leads in the same interface as their [deal registration](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview). When leads are shared with partners, partners will now see an additional tab in the Vartopia GitLab Deal Registration portal called Prospects. Partners can also easily convert their prospects to deal registrations and submit them to GitLab for approval. 
+Partners can access and manage their GitLab leads in the same interface as their [deal registration](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview). When leads are shared with partners, partners will now see an additional tab in the Vartopia GitLab Deal Registration portal called Prospects. Partners can also easily convert their prospects to deal registrations and submit them to GitLab for approval. Please refer to the following assets to walk you through how to access these leads, step by step: 
 
-*   [Reference the User Guide](https://drive.google.com/file/d/1IYOPfvwIWgUIknF4JZdTM4BIO-lmm0U2/view?usp=sharing) and [how-to video](https://youtu.be/e3qXq6TGbMY) for full details. 
-*   For GitLab technical setup, follow the directions found on [this page.](/handbook/marketing/channel-marketing/partner-campaigns/)
+*   [Reference the User Guide](https://drive.google.com/file/d/1IYOPfvwIWgUIknF4JZdTM4BIO-lmm0U2/view?usp=sharing) 
+*   [How-to video](https://youtu.be/e3qXq6TGbMY) 
+*   [GitLab technical setup](/handbook/marketing/channel-marketing/partner-campaigns/)
 
 ## Future/Potential Service Offerings
 
