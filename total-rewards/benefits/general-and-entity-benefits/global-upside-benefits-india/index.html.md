@@ -348,7 +348,7 @@ For a family which has adopted a child up to 18 years of age, one of the adopter
 **Parental Leave**
 All team members are entitled to up to 1 ½ years of parental leave for the birth or adoption of a child until the child reaches eight years old. 
 * This leave may be taken in a single period or in parts. If taken in parts, the total leave must not exceed  1 ½ years. 
-* Team members must notify Total Rewards one month in advance of beginning parental leave, and at least two weeks in advance if returning from leave early. 
+* Team members must notify the Absence Management team at `leaves@gitlab.com` one month in advance of beginning parental leave, and at least two weeks in advance if returning from leave early. 
 
 
 #### Maternity Leave Payment

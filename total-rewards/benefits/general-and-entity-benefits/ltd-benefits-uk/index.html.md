@@ -242,7 +242,7 @@ Management charges vary by fund and are not on the fact sheets: use the charges 
  
 Team members are entitled to Statutory Sick Pay (“SSP”)for up to 28 weeks, to be paid by GitLab. SSP is paid when a team member is sick for at least 4 days in a row (including non-working days); however, team members are not entitled to SSP for the first three "waiting" days. 
 * A team member who is out sick for at least four days, but no more than 7 days will need to complete a [Company Self-Certification Form](https://docs.google.com/document/d/1Cy-xUgWwNKroUEEJ0ut80HGVA0d3RJV5mQO-amLjoCs/edit?usp=sharing) and return it to total-rewards@gitlab.com. 
-* Team members who will be out sick for more than 7 days must provide a [fit note](https://www.gov.uk/taking-sick-leave) and notify Total Rewards (total-rewards@gitlab.com) as soon as possible.  
+* Team members who will be out sick for more than 7 days must provide a [fit note](https://www.gov.uk/taking-sick-leave) and notify the Absence Management team at `leaves@gitlab.com` as soon as possible.  
 * Team members who have received SSP in the last 8 weeks who need additional sick pay will be paid for waiting days, including the initial 3-day period of the second leave.
 * Sick Leave runs concurrently with GitLab PTO. Team members must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked.  GitLab PTO is inclusive of any entitlement in respect of statutory sick pay.
  
@@ -273,7 +273,7 @@ Team members are entitled to at least 28 vacation days which consist of 20 days 
    * when the child arrives in the UK or within 28 days of this date (for overseas adoptions)
    * the day the child is born or the day after (for parents in surrogacy arrangements).
 * Only one person in a couple can take adoption leave.  The other parent may be entitled to take paternity leave.
-* Team members must notify Total Rewards within 28 days if the date of placement (or UK arrival date for overseas adoptions) changes.
+* Team members must notify the Absence Management team at `leaves@gitlab.com` within 28 days if the date of placement (or UK arrival date for overseas adoptions) changes.
 * Team members should give at least 8 weeks’ notice if they would like to change their return to work date.
  
 #### Maternity Leave Payment
@@ -287,9 +287,9 @@ If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#pare
 
 To apply for Maternity Leave:
 * Submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts.
-* Send Total Rewards a completed [MATB1 Certificate](https://www.gov.uk/government/publications/maternity-certificate-mat-b1-guidance-for-health-professionals/maternity-certificate-form-mat-b1-guidance-on-completion) no later than 21 days before your leave start date.
-* Total Rewards will then complete a [Risk Assessment Form](https://docs.google.com/document/d/1qHdbaeFSnqdwkQDTEurHD5QMbLPLuZGBQO_CBnRkpiE/edit) within 1-3 days of receiving notification of your leave. The purpose of the assessment is to make the team member aware of any hazards or “risks” to her in the workplace/home office to reduce potential injury to her or her baby.
-* Total Rewards will notify payroll and email Vistra a copy of the MATB1, start date of leave, and outline what pay the team member is eligible for (statutory, supplemental, etc). Payroll will then automatically calculate the SMP due each pay period based on this information. The recovery of 90% will be outlined on the monthly payroll spreadsheet so that the finance team has indication of the amounts being offset each month.   
+* Send the Absence Management team at `leaves@gitlab.com` a completed [MATB1 Certificate](https://www.gov.uk/government/publications/maternity-certificate-mat-b1-guidance-for-health-professionals/maternity-certificate-form-mat-b1-guidance-on-completion) no later than 21 days before your leave start date.
+* The Absence Management team will then complete a [Risk Assessment Form](https://docs.google.com/document/d/1qHdbaeFSnqdwkQDTEurHD5QMbLPLuZGBQO_CBnRkpiE/edit) within 1-3 days of receiving notification of your leave. The purpose of the assessment is to make the team member aware of any hazards or “risks” to her in the workplace/home office to reduce potential injury to her or her baby.
+* The Absence Management team will notify payroll and email Vistra a copy of the MATB1, start date of leave, and outline what pay the team member is eligible for (statutory, supplemental, etc). Payroll will then automatically calculate the SMP due each pay period based on this information. The recovery of 90% will be outlined on the monthly payroll spreadsheet so that the finance team has indication of the amounts being offset each month.   
 * Payroll will continue to be the same while on parental leave but Vistra will file for reimbursement of any statutory funds once the proper paperwork has been sent.
  
 If you do not qualify for Statutory Maternity Pay, you may qualify for [Maternity Allowance](https://www.gov.uk/maternity-allowance).
@@ -305,8 +305,8 @@ If you do not qualify for Statutory Maternity Pay, you may qualify for [Maternit
  
 * To apply for Paternity Leave
    * Submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts.
-   * Send Total Rewards a completed [SPP Form](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/PersonalTax_iForms/1.0/SC3&template=SC3.xdp) if applying for Statutory Paternity Pay or one of the [SPL Forms](https://www.acas.org.uk/shared-parental-leave-forms) if applying for Shared Parental Leave pay.
-   * Total Rewards will notify payroll and email Vistra a copy of the form, dates of leave and outline what pay the team member is eligible for (statutory, supplemental, etc).
+   * Send the Absence Management team at `leaves@gitlab.com` a completed [SPP Form](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/PersonalTax_iForms/1.0/SC3&template=SC3.xdp) if applying for Statutory Paternity Pay or one of the [SPL Forms](https://www.acas.org.uk/shared-parental-leave-forms) if applying for Shared Parental Leave pay.
+   * The Absence Management team will notify payroll and email Vistra a copy of the form, dates of leave and outline what pay the team member is eligible for (statutory, supplemental, etc).
   
 #### Adoption Leave Payment
 * Team members can receive statutory adoption pay for up to 39 weeks:
@@ -321,7 +321,7 @@ If you do not qualify for Statutory Maternity Pay, you may qualify for [Maternit
    * Each parent can take up to 4 weeks each year per child, unless otherwise agreed with their employer.
  
 ### Other Job-Protected Leave
-The following leave types run concurrently with GitLab PTO. Team members should initiate leave by selecting the appropriate option in `PTO by Roots`. If none applies, the team members should notify their manager and Total Rewards `total-rewards@gitlab.com` to initiate leave.
+The following leave types run concurrently with GitLab PTO. Team members should initiate leave by selecting the appropriate option in `PTO by Roots`. If none applies, the team members should notify their manager and the Absence Management team `leaves@gitlab.com` to initiate leave.
  
 **Magistrate Duty:** Any team member who is a magistrate is entitled to leave to carry out their duties. Magistrates will need to be in court for at least 13 days or 26 half-days per year.
  

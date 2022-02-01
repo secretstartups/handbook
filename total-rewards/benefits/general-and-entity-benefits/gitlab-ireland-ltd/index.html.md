@@ -113,9 +113,9 @@ Once the total rewards team has approved the bike or ticket application, an invo
  
 #### Statutory Leave Entitlement
  
-**Maternity Leave:** Team members can take up to 26 weeks of ordinary Maternity Leave. The leave must start at least 2 weeks before the baby's due date and be taken for at least 4 weeks after the baby is born. Team members can take additional unpaid Maternity Leave for up to 16 more weeks, beginning immediately after the end of 26 weeks of ordinary Maternity Leave. If you wish to take additional unpaid Maternity Leave, please notify Total Rewards at least 4 weeks before the ordinary Maternity Leave is due to end.
+**Maternity Leave:** Team members can take up to 26 weeks of ordinary Maternity Leave. The leave must start at least 2 weeks before the baby's due date and be taken for at least 4 weeks after the baby is born. Team members can take additional unpaid Maternity Leave for up to 16 more weeks, beginning immediately after the end of 26 weeks of ordinary Maternity Leave. If you wish to take additional unpaid Maternity Leave, please notify the Absence Management team at `leaves@gitlab.com` at least 4 weeks before the ordinary Maternity Leave is due to end.
  
-**Adoptive Leave:** All team members who qualify as [“qualifying adopters”](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/adoptive_leave.html) are entitled to a minimum of 24 consecutive weeks of ordinary Adoptive Leave beginning on the first day of the placement of the child, and up to 16 weeks of additional unpaid Adoptive Leave, beginning immediately after the end of the 24 weeks of ordinary Adoptive Leave. If you wish to take additional unpaid Adoptive Leave, please notify Total Rewards at least 4 weeks before the ordinary Adoptive Leave is due to end. 
+**Adoptive Leave:** All team members who qualify as [“qualifying adopters”](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/adoptive_leave.html) are entitled to a minimum of 24 consecutive weeks of ordinary Adoptive Leave beginning on the first day of the placement of the child, and up to 16 weeks of additional unpaid Adoptive Leave, beginning immediately after the end of the 24 weeks of ordinary Adoptive Leave. If you wish to take additional unpaid Adoptive Leave, please notify the Absence Management team at `leaves@gitlab.com` at least 4 weeks before the ordinary Adoptive Leave is due to end. 
  
 **Paternity Leave:** All team members who qualify as [“relevant parents”](https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/paternity_leave.html) can take up to 2 consecutive weeks of Paternity Leave, taken within the first 6 months following the birth/adoption. 
  
@@ -129,23 +129,23 @@ Once the total rewards team has approved the bike or ticket application, an invo
  
 #### State Maternity Leave Payment
 * You may be eligible to receive State [Maternity Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/maternity_benefit.html) at 245 EUR per week for up to 26 weeks subject to your PRSI contributions.
-* To apply for State Maternity Benefit, please notify Total Rewards of the start and end date of your leave.
- * Total Rewards will then send you a completed [MB2 form]( https://assets.gov.ie/10309/8753cb545c3a4e4890dda6f3ff69e310.pdf).
+* To apply for State Maternity Benefit, please notify leaves@gitlab.com of the start and end date of your leave.
+ * The Absence Management team will then send you a completed [MB2 form]( https://assets.gov.ie/10309/8753cb545c3a4e4890dda6f3ff69e310.pdf).
  * Submit your application via the [Maternity Benefit gov.ie website](https://www.gov.ie/en/service/apply-for-maternity-benefit/) at least 6 weeks before you intend to start your leave.
  
 #### State Adoptive Leave Payment
 * You may be eligible to receive State [Adoptive Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/adoptive_benefit.html) at 245 EUR per week for up to 24 weeks subject to your PRSI contributions. 
-* To apply for State Adoptive Benefit, please notify Total Rewards of the start and end date of your leave.
+* To apply for State Adoptive Benefit, please notify leaves@gitlab.com of the start and end date of your leave.
 * Submit your application via the [Adoptive Benefit gov.ie website](https://www.gov.ie/en/service/295b84-adoptive-benefit/) at least 6 weeks before you intend to start your leave.
  
 #### State Paternity Leave Payment
 * You may be eligible to receive State [Paternity Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/paternity_benefit.html#:~:text=Paternity%20Benefit%20is%20a%20payment,or%20after%201%20September%202016) at 245 EUR per week for up to 2 weeks subject to your PRSI contributions. 
-* To apply for State Paternity Benefit, please notify Total Rewards of your child's due date.
- * Total Rewards will then send you a completed [PB2 form](https://assets.gov.ie/10312/a293b948613c41edaeb84ae4396725e3.pdf).
+* To apply for State Paternity Benefit, please notify leaves@gitlab.com of your child's due date.
+ * The Absence Management team will then send you a completed [PB2 form](https://assets.gov.ie/10312/a293b948613c41edaeb84ae4396725e3.pdf).
  * Submit your application via the [Paternity Benefit gov.ie website](https://www.gov.ie/en/service/apply-for-paternity-benefit/) at least 4 weeks before you intend to start your leave.
  
 #### State Parent’s Leave Payment
-* Team members must give written notice to Total Rewards (total-rewards@gitlab.com) of their intention to take parent’s leave at least six weeks before the intended start date.
+* Team members must give written notice to the Absence Management team at `leaves@gitlab.com` of their intention to take parent’s leave at least six weeks before the intended start date.
 * Team members who take Parent’s Leave may also qualify for [Parent’s Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/parents_benefit.en.html) if they have enough social insurance (PRSI) contributions.
 * To apply for Parent's Benefit, submit your application via the [Parent's Benefit gov.ie website](https://www.gov.ie/en/service/b321b1-parents-benefit/).
 * Parent’s Leave runs concurrently with [GitLab Parental Leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
@@ -155,7 +155,7 @@ Once the total rewards team has approved the bike or ticket application, an invo
 * This leave may be taken in one continuous period or in two separate periods (with at least 10 weeks between each period), or broken into days/hours if agreed upon with your manager.
 * Team members with more than one child may only take a maximum of 26 weeks parental leave in a 12 month period, except in the case of multiple births (e.g. twins). 
 * Periods of parental leave taken during any previous employment will be taken into account in calculating the entitlement to parental leave. 
-* Team members must give written notice to Total Rewards (total-rewards@gitlab.com) at least six weeks before taking leave.
+* Team members must give written notice to the Absence Management team at `leaves@gitlab.com` at least six weeks before taking leave.
 * Team members must sign a [confirmation document](https://docs.google.com/document/d/1AuD4itCJb2TsUw6bkKZJWUIfL4UM1Q0MMuY_bNlpJsM/edit?usp=sharing) at least four weeks before leave is set to begin.
 
 #### Midwife Support Service 
@@ -173,7 +173,7 @@ To initiate your leave, submit your time off by selecting the `Parental Leave` c
  * The decision as to whether the relevant person is in need of full-time care and attention will be made by a Deciding Officer or Appeals Officer of the Dept. of Employment Affairs and Social Protection based on information provided by the person's general medical practitioner and assessment by the Department's medical advisor.
 * Leave may be taken in one continuous period of 104 weeks, or in several periods that amount to no more than 104 weeks.
 * The minimum period of Carer’s Leave you can take is 13 weeks. If Carer’s Leave is taken in more than one period, there must be at least 6 weeks in between each period.
-* You must submit written notice to Total Rewards (total-rewards@gitlab.com) of your intention to take Carer's Leave at least 6 weeks before the leave begins. Written notice must include the following details:
+* You must submit written notice to the Absence Management team at `leaves@gitlab.com` of your intention to take Carer's Leave at least 6 weeks before the leave begins. Written notice must include the following details:
     1. The date on which you intend to commence the leave
     1. The duration of the leave
     1. The manner in which you propose to take the leave

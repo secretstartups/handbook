@@ -116,7 +116,7 @@ Time in lieu should be requested via [PTO by Roots](/handbook/paid-time-off/#pto
 #### Personal/Carer’s Leave
 * Team members will be entitled to personal/carer’s leave in accordance with the Fair Work Act 2009 (Cth) as varied from time to time.  Currently that entitlement is 10 days of paid personal/carer’s leave for each year of continuous service for full-time team members and pro rata for part-time team members based on ordinary hours of work.
 * Personal/carer’s leave is cumulative and accrues progressively.
-* This leave runs concurrently with GitLab PTO.  Team members should select `Out Sick` in PTO by Roots to ensure that leave entitlements are properly tracked.  If you wish to take Carer's Leave but don't want to change your Slack status to Out Sick, send your Carer's Leave request to total-rewards@gitlab.com and the Total Rewards team will manually add your leave to BambooHR and notify payroll.
+* This leave runs concurrently with GitLab PTO.  Team members should select `Out Sick` in PTO by Roots to ensure that leave entitlements are properly tracked.  If you wish to take Carer's Leave but don't want to change your Slack status to Out Sick, send your Carer's Leave request to leaves@gitlab.com and the Absence Management team will manually add your leave to BambooHR and notify payroll.
 
 #### Long Service Leave
 * Team members may be eligible for long service leave in accordance with state/territory based legislation as varied from time to time.
@@ -128,7 +128,7 @@ Time in lieu should be requested via [PTO by Roots](/handbook/paid-time-off/#pto
 
 <summary>Family and Domestic Violence Leave</summary>
 
-* All team members are entitled to 5 days of unpaid family and domestic violence leave each year. This leave will run concurrently with GitLab PTO. Team members should notify Total Rewards (total-rewards@gitlab.com) if they need to make use of this leave.
+* All team members are entitled to 5 days of unpaid family and domestic violence leave each year. This leave will run concurrently with GitLab PTO. Team members should notify the Absence Management team (leaves@gitlab.com) if they need to make use of this leave.
 * For more information on Family and Domestic Violence Leave, please visit the Fair Work Ombudsman Website.
 * Resources: 
   * [1800RESPECT](https://www.1800respect.org.au/)
@@ -255,7 +255,7 @@ _Note: To stay in compliance with local laws we would follow [the New Zealand go
 * Unused sick leave will not be paid out to the team member upon termination of employment.
 
 **Injured Leave**
-* When the team member is taking leave for the first week of a non-work accident, they can use sick leave and/or annual leave if they have any. This leave runs concurrently with GitLab PTO. Team members must designate time off for injury as `Out Sick` or `Vacation` in PTO by Roots if they wish to use sick leave or annual leave for the first week of an injury. Team members must notify Total rewards (total-rewards@gitlab.com) as soon as possible when they will need to go out on injured leave.
+* When the team member is taking leave for the first week of a non-work accident, they can use sick leave and/or annual leave if they have any. This leave runs concurrently with GitLab PTO. Team members must designate time off for injury as `Out Sick` or `Vacation` in PTO by Roots if they wish to use sick leave or annual leave for the first week of an injury. Team members must notify the Absence Management team (leaves@gitlab.com) as soon as possible when they will need to go out on injured leave.
 
 * If the leave will last longer than five days and is [covered by the Accident Compensation Corporation (ACC) scheme](https://www.acc.co.nz/im-injured/what-we-cover/), GitLab will top up the ACC payment from 80 to 100% for the first 25 days.
 
@@ -286,7 +286,7 @@ Partner Leave
 
 #### Applying for Parental Leave in New Zealand
 * To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
-* To apply for government-funded Parental Leave pay, please submit your application via [IRD](https://www.ird.govt.nz/paid-parental-leave/apply). Total Rewards will have to fill out the "Employer Declaration" part of the [form](https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir800---ir899/ir880/ir880-2020.pdf).
+* To apply for government-funded Parental Leave pay, please submit your application via [IRD](https://www.ird.govt.nz/paid-parental-leave/apply). The Absence Management team will have to fill out the "Employer Declaration" part of the [form](https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir800---ir899/ir880/ir880-2020.pdf).
 * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the government-funded payment to ensure that you receive 100% pay for up to 16 weeks of your Parental Leave.
 
 #### Other Types of Leave
@@ -307,7 +307,7 @@ For more information related to this policy, please reivew the [Employment New Z
 <summary>Leave for Defence Force Volunteers</summary>
 
 * Under the Volunteers Employment Protection Act 1973, all team members who are members of the Armed Forces are entitled to unpaid job-protected leave during military training and/or service. 
-* This leave runs concurrently with GitLab PTO. Team members must email the Absence team (parental-leave@gitlab.com) as soon as possible to notify them of the first date of leave and, if possible, the end date of their leave.
+* This leave runs concurrently with GitLab PTO. Team members must email the Absence Management team (leaves@gitlab.com) as soon as possible to notify them of the first date of leave and, if possible, the end date of their leave.
 * Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
 
 For more information related to this policy, please reivew the [Employment New Zealand website](https://www.employment.govt.nz/leave-and-holidays/other-types-of-leave/defence-force-volunteers/)
@@ -356,7 +356,7 @@ For more information related to this policy, please reivew the [Employment New Z
 * This leave may also be taken to support a child who has experienced domestic violence as long as they live with the team member for some of the time. 
 * A person is affected by family violence if they are a person against whom any other person is inflicting, or has inflicted family violence, and/or a person with whom there ordinarily or periodically resides a child against whom any other person is inflicting or has inflicted, family violence.
 * Team members may also request [short-term flexible working arrangements](https://www.employment.govt.nz/leave-and-holidays/domestic-violence-leave/short-term-flexible-working/) for up to 2 months.  
-* This leave runs concurrently with GitLab PTO. Team members should notify the Absence team (parental-leave@gitlab.com) if they need to make use of this leave.
+* This leave runs concurrently with GitLab PTO. Team members should notify the Absence Management team (leaves@gitlab.com) if they need to make use of this leave.
 * Team members must designate this time off as `Out Sick` in PTO by Roots to ensure that statutory entitlements are properly tracked.
 
 For more information regarding this policy, please reivew the [Employment New Zealand website](https://www.employment.govt.nz/leave-and-holidays/family-violence-leave/).
@@ -380,14 +380,14 @@ For more information pleave review the [Employment New Zealand website](https://
 
   A GitLab team member may use Garden Leave when they have provided their resignation and a Garden Leave is mutually agreed upon by both the team member and GitLab.  Team members can not be forced to take a Garden Leave, but both the team member and GitLab may find it useful in the following situations:  
 
-* the team member has access to commercially sensitive information and is going to be working for a competitor at the end of their notice period. Any limit of trade provision would take effect after the employee’s employment ends.
+* The team member has access to commercially sensitive information and is going to be working for a competitor at the end of their notice period. Any limit of trade provision would take effect after the employee’s employment ends.
 However, employers should be aware that if an employee’s employment agreement contains both a garden leave provision and a restraint of trade provision, the period the employee is on garden leave may be taken into consideration in working out whether or not the restraint of trade provision is reasonable (and therefore enforceable). The restraint of trade provision takes effect after the end of the garden leave period.
 
-* is distracting other team members while they're in their notice period
+* Is distracting other team members while they're in their notice period
 
-* is being made redundant and the employer is not requiring them to report to work during their notice period so they can look for other job opportunities while they can still say they’re currently employed
+* Is being made redundant and the employer is not requiring them to report to work during their notice period so they can look for other job opportunities while they can still say they’re currently employed
 
-* has been dismissed on notice and their presence is creating an uncomfortable atmosphere for everyone.
+* Has been dismissed on notice and their presence is creating an uncomfortable atmosphere for everyone.
 
 * Team members must designate this time off as `Vacation` in PTO by Roots to ensure that statutory entitlements are properly tracked.
 

@@ -32,7 +32,7 @@ GitLab does not plan to offer different Life Insurance Benefits because team mem
 
 ### GitLab GmbH Germany Parental Leave
 
-To initiate your Parental Leave, submit the dates in PTO by Roots under the Parental Leave category. This will prompt Total Rewards to process your leave. You can find out more information about our Parental Leave policy [here](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your Parental Leave, submit the dates in PTO by Roots under the Parental Leave category. This will prompt the Absence Management team to process your leave. You can find out more information about our Parental Leave policy [here](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 #### Statutory Leave Entitlement
 
@@ -40,7 +40,7 @@ To initiate your Parental Leave, submit the dates in PTO by Roots under the Pare
 
 **Maternity Leave**: Regardless of the length of service, under the Maternity Protection Act, pregnant team members are entitled to 6 weeks of leave before their estimated due date. If a woman does not give birth on the expected day, the period of protection before childbirth is shortened or extended accordingly. Team members may choose to opt-out of the six-week maternity protection period before their due date. This declaration can be revoked at any time with effect for the future.
 
-The Maternity Protection period after the delivery is 8 weeks following the birth (or 12 weeks in case of multiple or premature birth and if the child is medically diagnosed with a disability within the meaning of sec. 2 para. 1 sentence 1 of Book 9 of the Social Code (Neuntes Buch Sozialgesetzbuch) before the end of eight weeks after delivery). Team members may not opt-out of the maternity protection period following childbirth. In case of premature delivery, the period of protection after delivery is extended by the period of reduction of the period of protection before delivery; if the child has been diagnosed with a disability in the sense described above, the period of protection after delivery is extended only if the woman applies for it. The team member will receive full payment during this period. GitLab may receive reimbursement of these payments from the team member's health insurance carrier. Please notify Total Rewards your health insurance carrier name and your insurance number.
+The Maternity Protection period after the delivery is 8 weeks following the birth (or 12 weeks in case of multiple or premature birth and if the child is medically diagnosed with a disability within the meaning of sec. 2 para. 1 sentence 1 of Book 9 of the Social Code (Neuntes Buch Sozialgesetzbuch) before the end of eight weeks after delivery). Team members may not opt-out of the maternity protection period following childbirth. In case of premature delivery, the period of protection after delivery is extended by the period of reduction of the period of protection before delivery; if the child has been diagnosed with a disability in the sense described above, the period of protection after delivery is extended only if the woman applies for it. The team member will receive full payment during this period. GitLab may receive reimbursement of these payments from the team member's health insurance carrier. Please notify the Absence Management team at `leaves@gitlab.com` of your health insurance carrier name and your insurance number.
 
 Under the Maternity Protection Act, a breastfeeding woman may request time off during the first 12 months after delivery for the time necessary for breastfeeding, but at least twice a day for half an hour or once a day for one hour; the woman retains the wage claim against the employer during the period of breastfeeding.
 
@@ -57,8 +57,8 @@ In case a woman takes parental leave subsequently to the child’s birth, the pe
 - If you are a member of the statutory health insurance, you are entitled to a maximum maternity allowance of 13 euros per day during the Maternity Protection Period. GitLab will supplement your pay so that you receive 100% of your salary for the duration of the Maternity Protection Period.
 - If you are privately insured and receive a daily sickness allowance during the Maternity Protection Period, GitLab will supplement your pay so that you receive 100% of your salary for the duration of the Maternity Protection Period.
 - If you are privately insured and will not receive a daily sickness allowance, you may qualify for a one-time payment of up to 210 euros from the [Federal Social Security Office](https://www.bundesamtsozialesicherung.de/de/mutterschaftsgeld/ueberblick/). GitLab will supplement your pay so that you receive 100% of your salary for the duration of the Maternity Protection Period.
-    - GitLab may receive reimbursement of these payments from the team member's health insurance carrier. Please provide Total Rewards with the name of your insurance provider and Versichertennummer (insurance number).
-    - Total Rewards will then send payroll the team member's insurance details.
+    - GitLab may receive reimbursement of these payments from the team member's health insurance carrier. Please provide the Absence Management team at `leaves@gitlab.com` with the name of your insurance provider and Versichertennummer (insurance number).
+    - The Absence Management team will then send payroll the team member's insurance details.
 - If [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), paid Parental Leave at GitLab will start from the beginning of the Maternity Protection Period and run concurrently with any statutory allowances, if applicable.
 - If you wish to take Parental Leave directly after your Maternity Protection Period ends, you may do so. If eligible, GitLab will pay up to 16 weeks of your total leave (including Maternity Protection), the rest will be unpaid.
 
@@ -66,8 +66,8 @@ In case a woman takes parental leave subsequently to the child’s birth, the pe
 
 - Eligible team members may receive government-funded Parental Leave Pay (Basiselterngeld, EltengeldPlus or Partnerschaftsbonus. Parents are generally entitled to a monthly parental allowance paid by the German state for the maximum of in total 14 months. The allowance is granted for the time between the child’s birth and completion of the 14th month of life. The total amount of parental allowance months can be split up between the parents or taken by only one parent. The allowance’s amount is 67% of the income from employment before childbirth, but at least EUR 300 and a maximum of EUR 1,800. There is no entitlement to parental allowance in the case of foster children. Team members can find further information on parental leave benefits via the [Federal Ministry for Family Affairs, Senior Citizens, Women and Youth](https://www.elterngeld-digital.de/ams/Elterngeld).
 - If [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement your pay to ensure you receive 100% pay for up to 16 weeks of your leave.
-- Please notify Total Rewards what state benefit you will be applying for and how much you will be receiving.
-    - Total Rewards will then notify payroll to process the difference.
+- Please notify leaves@gitlab.com what state benefit you will be applying for and how much you will be receiving.
+    - The Absence Management team will then notify payroll to process the difference.
 
 **Applying for Parental Leave in Germany**
 
@@ -80,7 +80,7 @@ In case a woman takes parental leave subsequently to the child’s birth, the pe
 
 During the parental leave, employees are statutorily entitled to part-time work (15 to 30 hours per week) provided that the employer usually employs more than 15 employees, the employment relationship exists for at least six months, the reduction is not opposed by urgent operational reasons and the employee has submitted the request in writing (wet signature, see above) seven weeks for the period up to the child’s third birthday and 13 weeks for the period between the child’s third birthday and the completion of his or her eighth year of life before the start of the part-time work. The request must include the start and scope of the reduced working hours.
 
-For expecting fathers, team members will need to apply for a state benefit (Basiselterngeld, ElterngeldPlus or Partnerschaftsbonus). If a team member is [eligible for Parental Leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement Parental Leave pay for up to 16 weeks of Parental Leave. Please notify Total Rewards which state benefit you are applying for and how much you will be receiving so that payroll can process the appropriate supplementary amount. Team members can find further information on parental leave benefits via the [Federal Ministry for Family Affairs, Senior Citizens, Women and Youth](https://www.elterngeld-digital.de/ams/Elterngeld).
+For expecting fathers, team members will need to apply for a state benefit (Basiselterngeld, ElterngeldPlus or Partnerschaftsbonus). If a team member is [eligible for Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement Parental Leave pay for up to 16 weeks of Parental Leave. Please notify the Absence Management team at `leaves@gitlab.com` which state benefit you are applying for and how much you will be receiving so that payroll can process the appropriate supplementary amount. Team members can find further information on parental leave benefits via the [Federal Ministry for Family Affairs, Senior Citizens, Women and Youth](https://www.elterngeld-digital.de/ams/Elterngeld).
 
 https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave
 
@@ -102,13 +102,13 @@ Per the [Family Care Leave Act and the Care Leave Act](https://www.bundesgesundh
 - Team members who care for a close relative in need of care in a home environment are entitled to family care leave, i.e. to a partial leave of absence for one continuous period of up to 24 months with a minimum of 15 working hours per week;
 - If the relative is underage, there is an entitlement to leave even if care takes place outside the home environment. 
 
-This leave runs concurrently with GitLab PTO. When partial paid leave is claimed, GitLab will supplement the team member's benefit so that they receive 100% of their pay for the first 25 days of leave. Please communicate with [Total Rewards](mailto:total-rewards@gitlab.com) to ensure your eligibility and awareness of your proposed leave. 
+This leave runs concurrently with GitLab PTO. When partial paid leave is claimed, GitLab will supplement the team member's benefit so that they receive 100% of their pay for the first 25 days of leave. Please communicate with the Absence Management team at `leaves@gitlab.com` to ensure your eligibility and awareness of your proposed leave. 
 
 ## Sick Leave
 
 #### Statutory Sick Leave
 
-- Team members are entitled to 100% of their salary to be paid by GitLab for the first six weeks if they are unable to work due to an illness. This runs concurrently with GitLab PTO. Team members should select `Out Sick` in PTO by Roots to initiate leave. Team members must also upload a medical certificate by the third day of absence to BambooHR > Documents > Employee Uploads folder. Alternatively, please email the medical certificate to the Team Member Relations Specialist team via `teammemberrelations @gitlab.com` and will file this to BambooHR accordingly.
+- Team members are entitled to 100% of their salary to be paid by GitLab for the first six weeks if they are unable to work due to an illness. This runs concurrently with GitLab PTO. Team members should select `Out Sick` in PTO by Roots to initiate leave. Team members must also upload a medical certificate by the third day of absence to BambooHR > Documents > Employee Uploads folder. Alternatively, please email the medical certificate to the Absence Management team via `leaves@gitlab.com` and will file this to BambooHR accordingly.
 - If the team member is sick for more than six weeks, they can apply for "Krankengeld" from their health insurer. The benefit amount will be less than the team member's salary.
 
 #### During COVID-19

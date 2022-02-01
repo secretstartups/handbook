@@ -11,11 +11,10 @@ description: "GitLab Inc (US) benefits specific to US based team members."
 {:toc .hidden-md .hidden-lg}
 
 ----
-
-If you are not in the United States, please see the following [Entity Specific handbook section](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) to review available benefits in your country. 
-
 Related Pages: 
 * [Total Rewards Processes & Audits for US Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/total-rewards-processes/)
+
+* [People Policies - Leave of Absence](https://about.gitlab.com/handbook/people-policies/leave-of-absence/)
 
 ## Specific to US based team members
  
@@ -42,7 +41,6 @@ Please see additional information on the 2022 US Benefit Plans:
 * For support with the PlanSource system: `total-rewards@ gitlab`
 * For questions regarding internal policies, 401k, approval of Qualifying Life Events: `total-rewards@ gitlab`
 
- 
 ## ID Cards
  
 Physical carrier ID cards for medical and vision are normally received within 3 weeks of submitting your benefit elections. If you or your medical providers are in need of immediate confirmation of your coverage, please contact the carrier directly. Please note there are no physical ID cards for dental coverage.
@@ -124,7 +122,6 @@ If your Qualifying Life Event requires documentation the steps below will follow
 1. Once submitted the Total Rewards Team will review your request and documentation for approval. 
 
 
- 
 #### Cigna Medical Plans (2021)
  
 Effective January 1, 2021, GitLab will be transitioning from UHC to Cigna as the primary national carrier.
@@ -274,7 +271,6 @@ _2022 Rates_: The following costs are monthly rates which would be deducted from
 | Family                   | $378         | $378         | $566   | $356   |
 
 
- 
 ##### Kaiser Telehealth
  
 Virtual visits for Kaiser members can be accessed by logging into Kaiser's [online portal](https://healthy.kaiserpermanente.org/). Please consult the online portal and your plan details for your copay amount.
@@ -307,10 +303,9 @@ Kaiser California and Colorado Members are covered for infertility services at 5
 
 Kaiser Hawaii Plan members are covered for an infertility consultation and certain In Vitro Fertilization (IVF) procedures. More information on the Infertility services for Hawaii Kaiser members can be found on the [2021 Hawaii Health Plan](https://drive.google.com/file/d/1jQhVbbd0xpNDLB093nfptlUv972ALlDF/view?usp=sharing). 
 
-
 #### Pregnancy & Maternity Care
  
-With medical plans, GitLab offers pregnancy and maternity care. Depending on the plan you selected, your coverages may differ for in-network vs out-of-network, visits, and inpatient care. Please contact the [Total Rewards team or WTW](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#who-to-contact) with any questions about your plan. Once your child has arrived, please follow the steps outlined above in regard to this [Qualifying Life Event](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#qualifying-life-events).
+With medical plans, GitLab offers pregnancy and maternity care. Depending on the plan you selected, your coverages may differ for in-network vs out-of-network, visits, and inpatient care. Please contact the [Total Rewards team or WTW](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#who-to-contact) with any questions about your plan. To learn more about Parental Leave, please refer to our [Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). Once your child has arrived, please follow the steps outlined above in regard to this [Qualifying Life Event](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#qualifying-life-events).
 
 You may need a [reasonable accommodation](/handbook/people-policies/inc-usa/#reasonable-accommodation) during your pregnancy. For more information regarding GitLab's [Pregnancy Accommodation](/handbook/people-policies/inc-usa/#pregnancy-accommodation) policy, please also refer to our [Individuals with Disabilities](/handbook/people-policies/inc-usa/#individuals-with-disabilities-policy) policy. 
  
@@ -415,7 +410,6 @@ The following costs are monthly rates which would be deducted from your paycheck
 | Family                   | $4.80  |
 
 
-
 ##### Cigna Vision Period to Submit Claims
  
 For in-network services: 365 days from Date of Service.
@@ -433,24 +427,24 @@ GitLab provides, at no cost to our Inc and Federal team members, a policy throug
 **GitLab Process for Disability Claim**
  
 1. If a team member will be unable to work due to disability as defined by the applicable short term disability plan for less than 25 calendar days, no action is needed and the absence will be categorized under [paid time off](/handbook/paid-time-off/).
-1. Since the short-term disability insurance has a 7-day waiting period, the team member should decide on day 18 whether they will be able to return to work after 25 calendar days. If they will not be able to return, they should inform the Total Rewards team of their intent to go on short-term disability and apply for short-term disability at this time by sending the Total Rewards team a completed [Leave Request Form](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing). While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefit coverage will also continue for the time the team member is on short-term disability.
+1. Since the short-term disability insurance has a 7-day waiting period, the team member should decide on day 18 whether they will be able to return to work after 25 calendar days. If they will not be able to return, they should inform the Absence Management team of their intent to go on short-term disability and apply for short-term disability at this time by sending the Absence Management team a completed [Leave Request Form](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing). While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefit coverage will also continue for the time the team member is on short-term disability.
 1. At the end of the maximum benefit period for short-term disability of 12 weeks, the team member will determine whether they are able to return back to work.
-   * If the team member intends to return on or before the end of the 12 weeks, they should provide the Total Rewards team a Return to Work authorization from their doctor stating that they are able to return to work and listing any accomodations needed, if applicable, before their return date. The Total Rewards team should request this a week before the team member's anticipated return to work date if not already provided by the team member.
+   * If the team member intends to return on or before the end of the 12 weeks, they should email leaves@gitlab.com a Return to Work authorization from their doctor stating that they are able to return to work and listing any accomodations needed, if applicable, before their return date. The Absence Management team should request this a week before the team member's anticipated return to work date if not already provided by the team member.
    * If the team member is unable to return, the team member will be moved to unpaid leave and will have the option to continue their benefits by electing [COBRA coverage](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf). The team member will be eligible to apply for long-term disability at this time.
  
 **Short-Term Disability Claim Process via Cigna**
  
-1. Team member will submit the [Short-Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) form by email to the Total Rewards team at `total-rewards@gitlab.com`. 
+1. Team member will submit the [Short-Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) form by email to the Absence Management team at `leaves@gitlab.com`. 
      - Page 3 includes the Employee portion of the form as well as the Doctor Certification. This page can be sent directly to Cigna (using the mail or fax number at the top of the form) or this page can be returned to GitLab and we can send to Cigna all at once. This is completely at the preference of the team member or the requirement from the Doctor.
-2. The Total Rewards team will complete the employer portion of the Short-Term Disability form and send to Cigna via email: `dallasfco.intake2@cigna.com`
-3. The Total Rewards team will notify the team member of submission of claim and provided next steps.
+2. The Absence Management team will complete the employer portion of the Short-Term Disability form and send to Cigna via email: `dallasfco.intake2@cigna.com`
+3. The Absence Management team will notify the team member of submission of claim and provided next steps.
 4. Cigna Claims Process:  
      - Within 3 business days of Cigna receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed. 
-     - The claims team will also contact the Total Rewards team to confirm eligibility and verify job responsibilities, if needed. 
+     - The claims team will also contact the Absence Management team to confirm eligibility and verify job responsibilities, if needed. 
      - Cigna claims team will immediately begin reviewing the information available to make a decision. Cigna may also contact the team members attending physician, if needed, once Cigna has the team members authorization to do so. 
-     - If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Total Rewards team will also receive a notification of the denial.
-     - If approved, communication is sent to the Total Rewards team and claim status reports with approval date and estimated return-to-work date is provided to the Total Rewards team.  
-5. The Total Rewards team will process the approval or denial and file all related paperwork in BambooHR. 
+     - If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Absence Managment team will also receive a notification of the denial.
+     - If approved, communication is sent to the Absence Management team and claim status reports with approval date and estimated return-to-work date is provided.  
+5. The Absence Management team will process the approval or denial and file all related paperwork in BambooHR. 
  
 ## Employee Assistance Program
  
@@ -685,8 +679,8 @@ GitLab's extended 25-day PTO policy, and/or sick leave pay (including COVID leav
 ## Parental Leave
 ### Apply For Parental Leave in the US
  
-1. Notify the Total Rewards team of intention to take parental leave at least 30 days in advance, or as soon as reasonable by entering the dates in PTO Roots via Slack.
-2. For a birthing parent (maternity leave), the team member will fill out the [Leave Request Form](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) and [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) and email the completed forms to `leaves@gitlab.com`.
+1. Notify the Absence Management team at `leaves@gitlab.com` of intention to take parental leave at least 30 days in advance, or as soon as reasonable by entering the dates in PTO Roots via Slack.
+2. For a birthing parent (maternity leave), fill out the [Leave Request Form](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) and [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) and email the completed forms to `leaves@gitlab.com`.
      - The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will disperse those funds to the team member. The intention of this form is to keep payroll consistent for the team member via GitLab payroll vs needing to offset disability payments from Cigna. GitLab may need to offset any state related payments if applicable.
      - Please see the Short-Term Disability claims process for more information on how the claim will be [processed with Cigna](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance) as well as specifics on how to fill out the Leave Request Form.
 1. The Absence team will send the team member an email with how payments will be processed and advise any differences in pay.
@@ -703,34 +697,11 @@ Non-Birthing Person leave is not covered under Short-Term Disability, so if the 
 **Birthing Person Leave**
 For Birthing Person leave, GitLab will verify 100% of the wages are paid for eligible team members through payroll, Short-term Disability (STD), and state leave pay (where applicable).
  
-Parental leave is inclusive of public holidays that occur during within the start and end date of parental leave. GitLab will recieve the Short-Term Disability funds directly from Cigna and keep the GitLab team member paid at 100% of wages via payroll. Total Rewards will notify payroll of the "leave with pay" status using the start and end date of parental leave. Total Rewards will also notify payroll of any state related payments which may need to be offset.
+Parental leave is inclusive of public holidays that occur during within the start and end date of parental leave. GitLab will recieve the Short-Term Disability funds directly from Cigna and keep the GitLab team member paid at 100% of wages via payroll. The Absence Management team will notify payroll of the "leave with pay" status using the start and end date of parental leave. The Absence Management team will also notify payroll of any state related payments which may need to be offset.
  
 ## State-Specific Allowed Leaves
  
-Each US state varies when it comes to types of leave employers are required to allow employees to take. GitLab's [Paid Time Off policy](/handbook/paid-time-off/) policy of "no ask, must tell" takes precendence but we still want our US team members to be aware of their specific types of leave in their state.
- 
-| Leave Type                              | State or City/Region |
-|-----------------------------------------|-------|
-| Bereavement Leave                       | IL, OR, WA (Tacoma)  |
-| Blood/Bone Marrow/Organ Donation Leave  | AR, CA, CT, HI, IL, LA, ME, MD, MN, NE, NJ, NY, OR, SC, WI |
-| Court Attendance/Witness Leave          | CA, CT, DC, FL, GA, HI, IL, IN, IA, KY, MD, MA, MN, MO, NV, ND, OH, OR, PA, RI, TX, UT, VT, VI, WI, WY |
-| Crime Victims' Leave                    | AL, AK, AZ, AR, CA, CO, CT, DE, MD, MA, MI, MN, MS, MO, MT, NH, NY, OH, OR, PA, RI, SC, VT, VA, WY |
-| Domestic/Sexual Violence Victims' Leave | AZ, AR, CA, CO, CT, DC, FL, HI, IL, IA, KS, ME, MD, MA, MI, MN, NV, NJ, NM, NY, NC, OR, PA, RI, TX, VT, VA, WA |
-| Drinking and Driving Class Leave        | IA      |
-| Drug/alcohol Rehabilitation Leave       | CA      |
-| Election Officials' Leave               | AL, CA, DE, IL, KY, MN, NE, NC, OH, VA, WI  |
-| Emancipation Day Leave                  | DC      |
-| Emergency Evacuation Leave              | TX      |
-| Legislative/Political Leave             | CT, IA, ME, MN, MT, NV, OK, OR, SD, TX, VT, WV      |
-| Literacy Leave                          | CA      |
-| Mobile Support Unit Leave               | IN      |
-| Paid Family Leave                       | CA, CO, CT, DC, MA, NJ, NY, OR, RI, WA       |
-| Pregnancy Disability Leave              | CA, CT, HI, IA, LA, MN, MT, NH, OR, WA      |
-| Public Health Emergency (Quarantine/Isolation) Leave | AZ, CA (San Diego), CO, DE, IL (Cook Co), MA, MD (Montgomery Co), MI, MN, NJ, NY (Westchester Co & NYC), OR, PA (Pittsburgh), RI, SC, VT, WA  |
-| School Activities/Visitation Leave      | CA, DC, IL, LA, MA, MN, NV, NJ, NC, OR, RI, TN, VT   |
-| Student Leave                           | DC      |
-| Volunteer Emergency Responder Leave     | AL, CA, CO, CT, DE, IL, IN, IA, KS, KY, LA, ME, MD, MA, MO, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OR, PA, RI, SC, TN, UT, WA, WV, WI |
-| Voting Leave                            | AL, AK, AZ, AR, CA, CO, DC, GA, IL, IA, KS, KY, MD, MA, MN, MO, NE, NV, NM, NY, ND, OH, OK, SD, TN, TX, UT, VT, WV, WI, WY   |
+To learn more about State-specific leave laws, please visit the [US Leaves of Absence page](/handbook/people-policies/leave-of-absence/us/)/
  
 ## COBRA
  

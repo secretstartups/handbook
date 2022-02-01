@@ -60,7 +60,7 @@ Team members who have been continuously employed by GitLab for at least 3 months
 - For [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) team members, this leave runs concurrently with GitLab Parental Leave. Team members must initiate their leave by selecting the `Parental Leave` option in PTO by Roots at least 30 days before leave starts.
 
 **Applying for government paid maternity leave**
-- Team members must submit a [GPML Declaration](https://www.profamilyleave.gov.sg/Documents/PDF/GPML1.pdf) to [Total Rewards](total-rewards@gitlab.com) as soon as possible. 
+- Team members must submit a [GPML Declaration](https://www.profamilyleave.gov.sg/Documents/PDF/GPML1.pdf) to [the Absence Management team](leaves@gitlab.com) as soon as possible. 
 - GitLab will continue to pay the team member's salary during their leave and [submit a claim for reimbursement](https://www.profamilyleave.gov.sg/Pages/GPML.aspx#What%20should%20I%20do%20as%20an%20employer?).
 - For 1st and 2nd births, GitLab will apply for reimbursement for the 9th - 16th weeks of leave. For 3rd and subsequent births, GitLab will apply for reimbursement for the full 16 weeks.
 
@@ -78,7 +78,7 @@ Team members who have been continuously employed by GitLab for at least 3 months
 
 **Applying for Government-Paid Paternity Leave**
 - Team members must submit their leave request through PTO by Roots by choosing the `Parental Leave` option.
-- Team members must submit a [GPPL Declaration](https://www.profamilyleave.gov.sg/Documents/PDF/GPPL1.pdf) to [Total Rewards](total-rewards@gitlab.com) as soon as possible. 
+- Team members must submit a [GPPL Declaration](https://www.profamilyleave.gov.sg/Documents/PDF/GPPL1.pdf) to [the Absence Management team](leaves@gitlab.com) as soon as possible. 
 - GitLab will continue to pay the team member's salary during their leave and [submit a claim for reimbursement](https://www.profamilyleave.gov.sg/Pages/GPML.aspx#What%20should%20I%20do%20as%20an%20employer?).
 
 #### **Annual Leave** 

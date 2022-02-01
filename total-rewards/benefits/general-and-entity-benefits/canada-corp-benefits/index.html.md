@@ -260,8 +260,8 @@ _Manitoba_
 
 ### Applying for Parental Leave in Canada
 
-* To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 6 weeks before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). 
-* Pregnant team members must provide a certificate from a health care practitioner certifying their pregnancy to Total Rewards (total-rewards@gitlab.com).
+* To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 6 weeks before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). 
+* Pregnant team members must provide a certificate from a health care practitioner certifying their pregnancy to the Absence Management team at `leaves@gitlab.com`.
 
 ### GitLab Parental Leave Payments and Employment Insurance
 
@@ -279,7 +279,7 @@ Per the statutory requirements in Canada, a team member is ineligible to receive
 
 <summary>Ontario</summary>
 
-The following statutory leave types run concurrently with GitLab PTO. Each leave is separate, and the right to each leave is independent of any right a team member may have to other leave(s). A team member may be entitled to more than one leave for the same event. A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation. Additional information can be found on the [Government of Ontario website](https://www.ontario.ca/document/your-guide-employment-standards-act-0). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and Total Rewards as soon as possible to ascertain the type of leave applicable in the situation. 
+The following statutory leave types run concurrently with GitLab PTO. Each leave is separate, and the right to each leave is independent of any right a team member may have to other leave(s). A team member may be entitled to more than one leave for the same event. A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation. Additional information can be found on the [Government of Ontario website](https://www.ontario.ca/document/your-guide-employment-standards-act-0). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and the Absence Management team at `leaves@gitlab.com` as soon as possible to ascertain the type of leave applicable in the situation. 
 
 **Bereavement Leave** _Team members who have been employed by GitLab for at least 2 consecutive weeks_ 
 * 2 unpaid days each calendar year for the death of a family member. 
@@ -323,7 +323,7 @@ The following statutory leave types run concurrently with GitLab PTO. Each leave
   
 <summary>Québec</summary>
 
-The following leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and Total Rewards as soon as possible. More information on these leave entitlements can be found on the [Commission des Normes, de l’Equité website](https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/lies-famille).
+The following leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and the Absence Management team at `leaves@gitlab.com` as soon as possible. More information on these leave entitlements can be found on the [Commission des Normes, de l’Equité website](https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/lies-famille).
 
 **Reservist Leave** 
 * A reservist of the Canadian Armed Forces may be absent from civilian work, without pay, to conduct operations in Canada or abroad:
@@ -385,7 +385,7 @@ The following leave types **do not** run concurrently with GitLab PTO:
   
 <summary>British Columbia</summary>
 
-* The following leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and Total Rewards as soon as possible. More information on these leave entitlements can be found on the [Government of British Columbia’s website](https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/time-off/leaves-of-absence).
+* The following leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and the Absence Management team at `leaves@gitlab.com` as soon as possible. More information on these leave entitlements can be found on the [Government of British Columbia’s website](https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/time-off/leaves-of-absence).
 
 **Leave respecting domestic or sexual violence**
 * 5 days of paid leave, 5 days of unpaid leave, and 15 weeks of additional unpaid leave, if necessary. This leave also applies to parents of a child or dependent impacted by this kind of violence.
@@ -400,11 +400,11 @@ The following leave types **do not** run concurrently with GitLab PTO:
 **Critical Illness or Injury Leave**
 * Up to 36 weeks within a 52-week period to care for a child under the age of 19.
 * Up to 16 weeks within a 52-week period to care for a family member who is 19 years of age or older.
-* Team members must provide Total Rewards with a medical certificate certifying that the life of the family member is at risk, the care/support can be provided by someone who is not a medical professional, and specifying the period of time for which the family member will need care/support.
+* Team members must provide the Absence Management team at `leaves@gitlab.com` with a medical certificate certifying that the life of the family member is at risk, the care/support can be provided by someone who is not a medical professional, and specifying the period of time for which the family member will need care/support.
 
 **Compassionate Care Leave**
 * Up to 27 weeks within a 52-week period to care for a family member who is gravely ill.
-* Team members are required to provide Total Rewards with a medical certificate stating that the family member has a serious medical condition and is at significant risk of death within 26 weeks. 
+* Team members are required to provide the Absence Management team at `leaves@gitlab.com` with a medical certificate stating that the family member has a serious medical condition and is at significant risk of death within 26 weeks. 
 
 **Bereavement Leave**
 * Up to 3 days of unpaid leave.
@@ -430,7 +430,7 @@ The following leave types **do not** run concurrently with GitLab PTO:
   
 <summary>Alberta</summary>
 
-The following leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and Total Rewards as soon as possible. More information about these leave types can be found on the [Government of Alberta website](https://www.alberta.ca/job-protected-leaves.aspx).
+The following leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and the Absence Management team at `leaves@gitlab.com` as soon as possible. More information about these leave types can be found on the [Government of Alberta website](https://www.alberta.ca/job-protected-leaves.aspx).
 
 **Bereavement Leave** _Team members who have been employed with Gitlab for at least 90 days_
 * 3 days of unpaid leave per year for the death of a [family member](https://www.alberta.ca/bereavement-leave.aspx)
@@ -440,7 +440,7 @@ The following leave types run concurrently with GitLab PTO. Statutory leave for 
 
 **Compassionate Care Leave** _Team members who have been employed with Gitlab for at least 90 days_
 * Up to 27 weeks of unpaid leave to give care or support to a gravely ill [family member](https://www.alberta.ca/compassionate-care-leave.aspx#jumplinks-2) with a significant risk of dying within 26 weeks. 
-* Team members must submit a medical certificate to Total Rewards (total-rewards@gitlab.com)
+* Team members must submit a medical certificate to the Absence Management team at `leaves@gitlab.com`
 * Team members may also be eligible for [Employment Insurance](https://www.canada.ca/en/services/benefits/ei/caregiving.html)
 
 **COVID-19 Leave**
@@ -475,7 +475,7 @@ The following leave types run concurrently with GitLab PTO. Statutory leave for 
 
 <summary>Manitoba</summary>
 
-The following statutory leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days.  A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and Total Rewards as soon as possible to ascertain the type of leave applicable in the situation. More information can be found on the [Government of Manitoba website](https://www.gov.mb.ca/labour/standards/doc,unpaid-leave,factsheet.html).
+The following statutory leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days.  A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and the Absence Management team at `leaves@gitlab.com` as soon as possible to ascertain the type of leave applicable in the situation. More information can be found on the [Government of Manitoba website](https://www.gov.mb.ca/labour/standards/doc,unpaid-leave,factsheet.html).
 
 **Family Leave** _Team members who have been employed with Gitlab for at least 30 days_
 * 3 days of unpaid leave for a team member to deal with family responsibilities or personal illness.
