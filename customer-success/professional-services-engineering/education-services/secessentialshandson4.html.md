@@ -8,10 +8,21 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 
 ## LAB 4: Enable, configure, and run Coverage-Guided Fuzz Testing
+Coverage-guided fuzzing sends random inputs to an **instrumented** version of an application in an effort to cause unexpected behaviors, behaviors which are indicative of bugs that may need to be addressed. GitLab allows the addition of coverage-guided fuzz testing to CI/CD pipelines. This helps uncover bugs and potential security issues other QA processes may miss.
 
 This lab demonstrates coverage-guided fuzz testing, which tests a single function in your code. Web API fuzz testing works similarly, but is not covered here.
 
 You must define a separate CI/CD pipeline job for each function you want to fuzz test. That said, if the function in your code-under-test calls other functions, the fuzz test will catch problems that occur anywhere in the call stack. In this lab you'll fuzz test just 1 function.
+
+#### The fuzz testing process:
+1. Compiles the target application.
+1. Runs the instrumented application, using the gitlab-cov-fuzz tool.
+1. Parses and analyzes the exception information output by the fuzzer.
+1. Downloads the corpus and crash events from previous pipelines.
+1. Outputs the parsed crash events and data to the gl-coverage-fuzzing-report.json file.
+
+**The results of the coverage-guided fuzz testing are available in the CI/CD pipeline.**
+
 
 
 ### Write the code-under-test
