@@ -156,6 +156,18 @@ To engage the Incident Manager: either run `/pd trigger` in Slack, then select t
 Production - IMOC" service, or create an incident in [the Pagerduty page for the](https://gitlab.pagerduty.com/service-directory/PE8A5MX)
 service.
 
+#### IM Severity 1 Checklist
+
+During a high sev Incident there is a lot going on. Here is a checklist of the most important things to keep track of:
+
+1. Ensure the description is updated to include the Overall summary and incident duration.
+1. Ensure that the root cause is clearly articulated and the appropriate `RootCause::` label is used OR that a clear path of investigation to determine root cause is continuing.
+1. Review that the mitigation steps were reasonable, effective, and don't leave us in a state vulnerable for other problems.
+1. Review that the necessary external communications have been completed (Engage CMOC for this).
+1. Add a summary & link to the [Reliability Standup agenda](https://docs.google.com/document/d/1vww0BfRzHtrGhMppTEw5Q27KSzD1e72dmJ3XoppxC-A/edit#) (internal only)
+1. Ensure that any Sev1/P1 Corrective Actions have clear ownership and engagement. 
+1. Ensure that any ongoing effort or oversight by future IM and EOC shifts is supported with handoff notes and sync handoff (if needed).
+
 ### Communications Manager on Call (CMOC) Responsibilities
 
 For serious incidents that require coordinated communications across multiple channels, the Incident Manager will rely on the CMOC for the duration of the incident.
