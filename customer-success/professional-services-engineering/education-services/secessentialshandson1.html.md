@@ -136,9 +136,9 @@ Configure Secret Detection to ignore test files by pasting this job definition a
 
 The Vulnerability Report shows all vulnerabilities in *the latest commit to the default branch.* Think of this as the “baseline” set of vulnerabilities that you’ll compare to vulnerabilities on other branches later on.
 
-1. In the left navigation pane, click **Security & Compliance > Vulnerability Report**. Looking at the **Scanner** column, you’ll see 1 problem found by SAST, 1 problem found by Secret Detection, and several problems found by DAST.
+1. In the left navigation pane, click **Security & Compliance > Vulnerability Report**. Looking at the **Tool** column, you’ll see 1 problem found by SAST, 1 problem found by Secret Detection, and several problems found by DAST.
 1. Click some vulnerabilities to learn more about them, and to see where they occur in the code.
-1. Experiment with the **Status**, **Severity**, and **Scanner** filters.
+1. Experiment with the **Status**, **Severity**, and **Tool** filters.
 
 
 ### Take action
