@@ -22,21 +22,23 @@ title: "Marketing Finance"
 | Roll Up | Department | Name |
 | -------- | ---- | -------- |
 | Corporate Marketing | Awareness | @cmcclure1 |
-| Corporate Marketing | Brand Activation | @cmcclure1 | 
+| Corporate Marketing | Brand Design | @cmcclure1 | 
+| Corporate Marketing | Corporate Events | @cmcclure1 |
+| Corporate Marketing | Brand Campaigns | @cmcclure1 |
 | Corporate Marketing | Communication | @cmcclure1 |
 | Corporate Marketing | Community Relations | @cmcclure1 |
 | Corporate Marketing | Content | @cmcclure1 |
 | Corporate Marketing | Search Marketing | @cmcclure1 |
 | Product Marketing | Product Marketing | @cmcclure1 |
 | Revenue Marketing | Sales Development| @cmcclure1 |
-| Growth Marketing | Digital Design | @rcallam |
-| Growth Marketing | Marketing Ops | @rcallam |
+| Marketing Strategy and Ops | Digital Experience | @rcallam |
+| Marketing Strategy and Ops | Marketing Ops | @rcallam |
 | CMO Executive | CMO Executive | @rcallam |
 | Integrated Marketing | Digital Marketing | @rcallam |
 | Integrated Marketing | Partner Marketing | @rcallam |
 | Integrated Marketing | Campaigns | @rcallam |
 | Integrated Marketing | Field Marketing | @rcallam |
-| Integrated Marketing | ABM | @rcallam |
+| Integrated Marketing | Account Based Marketing | @rcallam |
 
 
 
