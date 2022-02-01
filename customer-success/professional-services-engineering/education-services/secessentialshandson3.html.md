@@ -10,7 +10,9 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 ### Unblock License Compliance for your project
 
-The training environment blocks License Compliance for all projects by default. You need to unblock it for your project before you can enable it in `.gitlab-ci.yml`. Outside the training environment, you'll probably never need to do this step.
+**Important**: if you are taking a self-paced class, skip this section and continue with the **View your dependencies** section below. This section is only for students taking an instructor-led class.
+
+The training environment for instructor-led classes blocks License Compliance for all projects by default. You need to unblock it for your project before you can enable it in `.gitlab-ci.yml`. Outside the training environment, you'll probably never need to do this step.
 
 1. Return to the **Security Labs** project you used for the previous labs.
 1. In the left navigation pane, click **Settings > CI/CD**. In the **Variables** section, click **Expand**.
@@ -19,7 +21,6 @@ The training environment blocks License Compliance for all projects by default. 
 1. In the **Value** field, enter a single space.
 1. Uncheck **Protect variable**.
 1. Click **Add variable**.
-
 
 ### View your dependencies
 
