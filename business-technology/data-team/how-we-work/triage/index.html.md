@@ -34,7 +34,7 @@ Steps to uplevel triaging process:
 | Engineering Analytics Triage | `@EngineeringAnalyticsTriage` | Engineering Analytics Team, G&A Data Fusion Team |
 | Data Platfrom Triage | `@DataPlatformTriage`   | Data Platform Team |
 
- ### Enterprise Data Program Triage Instructions 
+### Enterprise Data Program Triage Instructions 
 
 1. GitLab Team members can ping one of the groups above for any questions or help. When not clear, ping a group based on best guess. If a different group was needed, the request or question can always be re-routed.
 1. Triager should review each slack message request in the **#data** that has the triager's assigned Slack alias pinged.
@@ -108,6 +108,41 @@ The Data Analyst triager
 Create [an issue in the Data Team project](https://gitlab.com/gitlab-data/analytics/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=&issuable_template=Data%20Triage). Task and duties are stated in the issue template. 
 
 [Read](/handbook/business-technology/data-team/how-we-work/triage/) the FAQ and common issues.
+
+### Incident
+
+The Data Team follows the [incident definition](/handbook/engineering/infrastructure/incident-managemen) from Engineering: Incidents are anomalous conditions that result in—or may lead to—service degradation or outages. These events require human intervention to avert disruptions or restore service to operational status. 
+ 
+Service degradation or outages in data can be seen as:
+- Data is not available
+- Data is not correct
+- Data is outdated
+- Data leakage
+ 
+This means the the following events (not extensive), likely are incidents:
+- DBT model failed (and downstream models are skipped)
+- DBT test failure
+- DBT source freshness failure
+- Infrastructural incident (Snowflake not accessible, Sisense not accessible)
+- Data source not available
+- Data pipeline not running
+ 
+#### Severity
+ 
+Depending on the nature and impact of the [incident](/handbook/business-technology/data-team/how-we-work/#incidents) a severity needs to be determined. Currently we don't have a decision matrix in place. To determine the severity, take the following aspects into consideration:
+- In case of a data source or data pipeline incident, check the [Data Source Tier](/handbook/business-technology/data-team/platform/#data-sources).
+- Number of users impacted
+- Impacting Trusted Data models
+ 
+#### Follow up
+ 
+- Incidents are always given immediate attention.
+- Every incident has a DRI assigned. This is not necessarily the triager/creator of the incident. Due to the nature of a-syncronisc working at GitLab, the triager/creator is the DRI until another GitLab Team Member is actively contacted/involved.
+   - The [codeownerfile](https://gitlab.com/gitlab-data/analytics/-/blob/master/CODEOWNERS) is the right future* source to find the right DRI for assigning the incident. * Currently the code ownership is not well defined. As part of FY23-Q1 we are planning to have a more strict ownership.
+- Every raised incident will be communicated in the `#data` Slack channel, followed by a short description, ETA and link to the incident. The right GitLab Team Members are tagged.
+  - A regular (depending on the severity) update is posted in Slack. Sometimes there isn't a new status, don't hesitate to communicate this as well. 
+  - When the incident is solved, an update is posted in Slack
+
 
 ### Triage Bot
 
