@@ -88,7 +88,7 @@ This section provides and overview of potential compensation conversation scenar
 
 1. **_Team member was hired after the cut-off date:_** "At GitLab we review compensation (cash + equity + benefits) on a yearly basis. Due to your hire date you were not eligible to receive additional compensation at this time. You will be eligible for the next Annual Compensation Review where we will review both your cash and equity compensation."
 
-1. **_Team member is recieving either just a compensation adjustment or just an equity grant_** Please refer to the guidance above to explain to a team member why they may be recieving either just a compensation adjustment or just an equity grant.  
+1. **_Team member is receiving either just a compensation adjustment or just an equity grant_** Please refer to the guidance above to explain to a team member why they may be receiving either just a compensation adjustment or just an equity grant.   
 
 1. **Other scenarios:** If you have a scenario different from the above, and/or you need help with messaging, please work with your manager or [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). 
 
