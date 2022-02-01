@@ -867,7 +867,7 @@ Go ahead and hit `Start merge train` or `Add to merge train`. If the blog post d
 ![Merge train options](/images/handbook/marketing/merge-train.png)
 {: .shadow.medium.center}
 
-You can find [more information about merge trains here](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/#immediately-merge-a-merge-request-with-a-merge-train).
+You can find [more information about merge trains here](https://docs.gitlab.com/ee/ci/pipelines/merge_trains.html).
 
 Once you've started or joined a merge train, go to the [Pipelines page](https://gitlab.com/gitlab-com/www-gitlab-com/pipelines), which you can find in the menu on the left under CI/CD.
 
