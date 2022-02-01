@@ -87,10 +87,10 @@ Key features of this channel include:
 
 #### Best Practices for Managers+ 
 When using this channel, Field managers+ should keep these best practices in mind: 
-1. **Take the lead.** When your team member has a big win, let them know that you will be the one to post a congratulatory message because you also want to recognize *them*. Asking for their help to gather all names and details is okay, but remember to proactively take the lead on giving your team member recognition, in addition to all of the team members who helped them.  
+1. **Take the lead.** When your team member has a big win or something else is gleaned from a deal, let them know that you will be the one to post a congratulatory message because you also want to recognize *them*. Asking for their help to gather all names and details is okay, but remember to proactively take the lead on giving your team member recognition, in addition to all of the team members who helped them.  
 1. **Be inclusive.** It takes a team to succeed – tag all team members who played an important role in the win/behavior that you are recognizing.  
-1. **Give recognition often.** Don't wait until the end of the quarter to recognize your team members – provide recognition as the activity happens, and provide it often. 
-1. **Share best practices.** Use this opportunity to show the Field team "what good looks like." Share all the detail and context (resources, etc.) that you can to allow other team members to learn from and repeat successful, recognition-worthy behavior.  
+1. **Give recognition often.** Don't wait until the end of the quarter to recognize your team members – provide recognition as the activity happens, and provide it often. That way the details will be fresh in your team member’s mind. A good way to make this a habit is to make it part of your regular conversations with your team members in team meetings, 1:1s, etc. 
+1. **Share best practices.** Use this opportunity to show the Field team "what good looks like." Share all the detail and context (resources, etc.) that you can to allow other team members to learn from and repeat successful, recognition-worthy behavior.  You can use the guidance below to help you draft a post. 
 
 #### What is the difference between #deal-gratitude and #thanks? 
 The #thanks is a channel for any team member to thank anyone for contributions in any aspect of their job or personal development. #deal-gratitude is a channel specifically dedicated to recognizing team members for outstanding efforts specifically related to sales deals, customer support/expansion and channel & alliances momentum. While this might include some "thanks," it is not limited to it. Posts in this channel should also share best practices and lessons learned so that the outstanding behaviors recognized are repeatable by peers.
@@ -108,6 +108,35 @@ The #thanks is a channel for any team member to thank anyone for contributions i
 
 1. Giving thanks exclusively to team members outside of Sales (i.e. team member wants to thank Product for releasing a meaningful feature that is crucial in a deal).
 1. General thanks around coffee chats, meetings, answered questions, assisting fellow team members, troubleshooting, manager appreciation, etc.
+
+#### Components of a Successful #deal-gratitude Post
+Use the below guidance to help you build an insightful recognition post. Feel free to adapt any of the components depending on the situation.
+
+1. **Who?** Who are you recognizing? Be sure to include all team members who were involved in the deal.
+1. **What?** What were the key aspects of the deal? Seat count, expand opportunity, new logo, etc.
+1. **Why?** What makes this particular deal unique and/or special?
+   - Did the account team go above and beyond to close a deal?
+   - Did the account team overcome any specific challenges or obstacles to close a deal?
+   - Did a customer share positive feedback about members of an account team?
+   - Did the account team save the customer from churn?
+   - Did the account team face competition?
+1. **How?** What were the “needle movers” of the deal?
+   - Did the account team successfully attached professional services?
+   - Did the account team leverage Channels?
+   - Did the account team share a pitch deck or similar resource that helped close a deal or drive a meeting?
+1. **Insights and Lessons Learned.** What can the field organization learn from this deal?
+   - What hard and soft skills were fundamental to closing this deal?
+   - If the deal was won, what behaviors and actions should be repeated in future deals?
+   - If the deal was lost, what could have been done differently?
+1. **What GitLab values were exhibited?**
+
+**A few things to consider when drafting your recognition:**
+
+1. **Use emojis when possible.** Emojis can make your post more visually interesting and help break up large blocks of text.
+1. **Bold important text.** If your post is longer, consider highlighting who you’re recognizing, key aspects of the deal and any best practices you’ve shared.
+1. **Tell a story.** People are drawn to stories with a natural beginning, middle and end. The provided guidance will help you craft this story but feel free to adapt based on your own style, experience or the situation. 
+
+
 
 ### Additional Resources for Recognition
 
