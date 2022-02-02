@@ -659,21 +659,21 @@ In Field Marketing, the FMCs manage all [Procurement Issues](https://gitlab.com/
 
 # What's currently scheduled in my region?
 
-| Region | FM DRI | GitLab User ID |
-| ------ | ------ | -------------- |
+| Region | FM DRI | GitLab User ID | Slack Channel |
+| ------ | ------ | -------------- | -------------- |
 | [AMER East NE & SE](https://gitlab.com/groups/gitlab-com/marketing/-/boards/915674?&label_name%5B%5D=East) | Ginny Reib | `@GReib` |
 | [AMER East-Central](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1105137?&label_name[]=East%20-%20Central) | Rachel Hill | `@rachel_hill` |
 | [AMER West-PacNorWest](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | TBH | `TBH` |
 | [AMER West - NorCal/SoCal/Rockies](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Rachel Hill | `@rachel_hill` |
 | [AMER Public Sector](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Helen Ortel & Kira Aubrey | `@Hortel` & `@KiraAubrey` |
 | [APAC](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933488?&label_name[]=APAC) | Pete Huynh | `@Phuynh` |
-| [EMEA Southern Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1426531?&label_name[]=Southern%20Europe) | Juliette Francon | `@juliette.frcn` |
- [EMEA MEA](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1426540?&label_name[]=MEA) | Juliette Francon | `@juliette.frcn` |
-| [EMEA Northern Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1438252?scope=all&utf8=%E2%9C%93&label_name[]=Northern%20Europe&label_name[]=EMEA) | Elena Sheveleva | `@Lena333` |
-| [EMEA UK/I](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1438265?&label_name[]=UK%2FI) | Elena Sheveleva | `@Lena333` |
-| [EMEA Central Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1438243?label_name[]=Central%20Europe&label_name[]=EMEA) | Sarina Kraft | `@sarinakraft` |
-| [EMEA CEE](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3206565?scope=all&label_name[]=Europe%20CEE) | Sarina Kraft | `@sarinakraft` |
-| [EMEA Russia](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1484015?&label_name[]=Russia) | Elena Sheveleva | `@Lena333` |
+| [EMEA Southern Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1426531?&label_name[]=Southern%20Europe) | Juliette Francon | `@juliette.frcn` | [#emea_southern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQ6FG8ETY) |
+ [EMEA MEA](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1426540?&label_name[]=MEA) | Juliette Francon | `@juliette.frcn` | [#emea_southern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQ6FG8ETY) |
+| [EMEA Northern Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1438252?scope=all&utf8=%E2%9C%93&label_name[]=Northern%20Europe&label_name[]=EMEA) | Elena Sheveleva | `@Lena333` |[#emea_northern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQGV58A90) |
+| [EMEA UK/I](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1438265?&label_name[]=UK%2FI) | Elena Sheveleva | `@Lena333` | [#emea_northern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQGV58A90) |
+| [EMEA Central Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1438243?label_name[]=Central%20Europe&label_name[]=EMEA) | Sarina Kraft | `@sarinakraft` | [#emea_central_europe_fieldmarketing](https://gitlab.slack.com/archives/CQJ90VD8B)|
+| [EMEA CEE](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3206565?scope=all&label_name[]=Europe%20CEE) | Sarina Kraft | `@sarinakraft` | [emea_central_europe_fieldmarketing](https://gitlab.slack.com/archives/CQJ90VD8B)|
+| [EMEA Russia](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1484015?&label_name[]=Russia) | Elena Sheveleva | `@Lena333` | [#rus-marketing](https://gitlab.slack.com/archives/C01AHK5M6LX)|
 
 **NOTE:** to see the full list of events, you need to be logged into your GitLab account. There are times we make issues private.
 
