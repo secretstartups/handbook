@@ -117,7 +117,7 @@ Hear what our CEO has to say about the CEO shadow program.
 
 ### Eligibility
 
-You are eligible to apply for the program if you have been with GitLab for at least 1 month (recommended more than 3 months) and you are a:
+You are eligible to apply for the program if you are a:
 
 1. [Manager or up](/company/team/structure/#layers), Staff engineer ([backend](/job-families/engineering/backend-engineer/) or [frontend](/job-families/engineering/frontend-engineer/)), [SAL](/job-families/sales/strategic-account-leader/), [PMM](/job-families/marketing/product-marketing-manager/), or [Product Manager or up](/job-families/product/product-manager/)
 1. [Individual Contributor](/company/team/structure/#layers), if there is 1 consideration. This includes TAM and SA roles.
@@ -189,15 +189,14 @@ Exceptional community members may be able to participate, as well.
 | 2022-01-10 | 2022-01-14 | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical) | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager |
 | 2022-01-18 | 2022-01-21 | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical)  |
 | 2022-01-24 | 2022-01-28 | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager |
-| 2022-01-31 | 2022-02-04 | AVAILABLE - REMOTE | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer |
-| 2022-02-07 | 2022-02-11 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-02-14 | 2022-02-17 | [Mark Scheuber](https://gitlab.com/mscheuber)  - Sr. Strategic Account Leader | AVAILABLE - REMOTE |
+| 2022-01-31 | 2022-02-04 | NO SHADOWS | NO SHADOWS |
+| 2022-02-07 | 2022-02-11 | [Kristie Thomas](https://gitlab.com/kristie.thomas) - Sr. Executive Business Administrator, Product and Engineering & CEO (interim) | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer|
+| 2022-02-14 | 2022-02-17 | [Mark Scheuber](https://gitlab.com/mscheuber)  - Sr. Strategic Account Leader | [Kristie Thomas](https://gitlab.com/kristie.thomas) - Sr. Executive Business Administrator, Product and Engineering & CEO (interim) |
 | 2022-02-22 | 2022-02-25 | AVAILABLE - REMOTE (short week due to holiday) | [Mark Scheuber](https://gitlab.com/mscheuber) (short week due to holiday) |
 | 2022-02-28 | 2022-03-04 | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager | AVAILABLE - REMOTE |
-| 2022-03-07 | 2022-03-11 | AVAILABLE - REMOTE | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager|
-| 2022-03-14 | 2022-03-18 | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer | [AVAILABLE - REMOTE |
-| 2022-03-21 | 2022-03-25 | AVAILABLE - REMOTE | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer |
-| 2022-03-21 | 2022-03-25 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-03-07 | 2022-03-11 | [Hannah Sutor](https://gitlab.com/hsutor) - Senior Product Manager| [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager|
+| 2022-03-14 | 2022-03-18 | AVAILABLE - REMOTE | [Hannah Sutor](https://gitlab.com/hsutor) - Senior Product Manager |
+| 2022-03-21 | 2022-03-25 | AVAILABLE - REMOTE  | AVAILABLE - REMOTE |
 | 2022-03-28 | 2022-04-01 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 
@@ -698,6 +697,11 @@ For insights on maximizing a remote CEO Shadow rotation, view takeaway recap vid
 1. Consider switching locations in your home or workspace during the CEO's 1:1 meetings. Since you [won't be taking active notes](#responsibilities) in these calls, this is a good opportunity to change position or scenery intermittently throughout the day.
 1. Particularly in a remote CEO Shadow rotation, life is more available to sidetrack you. It is OK if you need to drop from a meeting to handle tasks at home, from childcare to answering the door, or anything in between. GitLab puts [family and friends first, work second](/handbook/values/#family-and-friends-first-work-second). If feasible, communicate these instances in the `#ceo-shadow` Slack channel so your co-shadow can assist with ongoing note-taking/tasks.
 1. Consider taking one or two days off after your rotation. Being a CEO shadow can be intense. Be aware of [symptoms of burnout](/handbook/paid-time-off/#recognizing-burnout).
+
+
+### The Scoop 🍨
+
+Suppose you are interested in the CEO Shadow program but want an authentic, honest, and unfiltered understanding of the program. You can visit the #ceo-shadow-alumni channel or visit the [alumni section](/handbook/ceo/shadow/#alumni) of the handbook to find Shadows who have recently completed a rotation. Send them a DM or a coffee chat invite, and they will give you an entire run down. You can ask them anything you want about the program without worrying about them judging you. They want to help you understand if it's a good fit for you and are happy to share their experiences with you!
 
 ## Mission Control Guide
 
