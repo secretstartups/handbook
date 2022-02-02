@@ -37,8 +37,8 @@ biggest ones for us are:
 ## How to perform an audit
 
 Performing an audit starts with creating an issue within the
-[Audits repo](https://gitlab.com/gitlab-com/support/support-ops/audits). There
-are templates for each of the systems we normally audit.
+[Audits repo](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits).
+There are templates for each of the systems we normally audit.
 
 After creating the issue, you need to populate the details of the audit. To
 make this process easier, we have scripts available in the repo you can use to
@@ -92,7 +92,7 @@ links:
 
 ## Useful links
 
-* [Audits repo](https://gitlab.com/gitlab-com/support/support-ops/audits)
+* [Audits repo](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits)
 * [Zendesk Global audit workflow](../workflows/zendesk_global_audit.html)
 * [Zendesk US Federal audit workflow](../workflows/zendesk_us_federal_audit.html)
 * [Calendly audit workflow](../workflows/calendly_audit.html)

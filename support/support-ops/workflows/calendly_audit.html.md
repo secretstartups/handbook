@@ -21,17 +21,17 @@ Calendly audits are to be completed every 6 months:
 ## Process
 
 To get started, you will first want to make an issue using the
-[Calendly issue template](https://gitlab.com/gitlab-com/support/support-ops/audits/-/issues/new?issuable_template=Calendly)
+[Calendly issue template](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits/-/issues/new?issuable_template=Calendly)
 in the
-[audits project](https://gitlab.com/gitlab-com/support/support-ops/audits).
+[audits project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits).
 
 As the API is not yet able to handle this, this process will be a bit more of a
 manual process. To start, you will want to run the
-[calendly audit script](https://gitlab.com/gitlab-com/support/support-ops/audits/-/blob/master/bin/calendly_audit)
+[calendly audit script](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits/-/blob/master/bin/calendly_audit)
 (see [below](#running-the-script) for help with running the script). Once the
 script completes, it will output a large amount of information. This should be
 copied and pasted into the `## Notes` section of the issue you created via the
-[Calendly issue template](https://gitlab.com/gitlab-com/support/support-ops/audits/-/issues/new?issuable_template=Calendly).
+[Calendly issue template](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits/-/issues/new?issuable_template=Calendly).
 
 From there, you need to go through the items reported and ping the person in
 the issue to ask for the item to be fixed (or clarify if this is intentional).

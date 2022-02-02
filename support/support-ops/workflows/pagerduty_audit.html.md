@@ -25,16 +25,16 @@ schedules. As this doesn't require much human interaction, it is largely
 scripted.
 
 To get started, you will first want to make an issue using the
-[Pagerduty issue template](https://gitlab.com/gitlab-com/support/support-ops/audits/-/issues/new?issuable_template=Pagerduty)
+[Pagerduty issue template](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits/-/issues/new?issuable_template=Pagerduty)
 in the
-[audits project](https://gitlab.com/gitlab-com/support/support-ops/audits).
+[audits project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits).
 
 To start, you will want to run the
-[pagerduty audit script](https://gitlab.com/gitlab-com/support/support-ops/audits/-/blob/master/bin/pagerduty_audit)
+[pagerduty audit script](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits/-/blob/master/bin/pagerduty_audit)
 (see [below](#running-the-script) for help with running the script). Once the
 script completes, it will output a large amount of information. This should be
 copied and pasted into the `## Notes` section of the issue you created via the
-[Pagerduty issue template](https://gitlab.com/gitlab-com/support/support-ops/audits/-/issues/new?issuable_template=Pagerduty).
+[Pagerduty issue template](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits/-/issues/new?issuable_template=Pagerduty).
 
 From there, you need to go through the items reported and ping the person in
 the issue to ask for the item to be fixed (or clarify if this is intentional).
