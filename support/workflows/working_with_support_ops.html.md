@@ -45,7 +45,7 @@ settings, only those used in team events.
 When you need modifications made to your Calendly (such as being added to an
 event, having the schedule used in an event changed, etc.), you will want to
 create an issue in the
-[calendly issue tracker](https://gitlab.com/gitlab-com/support/support-ops/calendly/-/issues/new).
+[calendly issue tracker](https://gitlab.com/gitlab-com/support/support-ops/other-software/calendly/-/issues/new).
 
 From there, your manager will review the request and approve it. Once approved,
 they will ping Support Operations.
@@ -176,7 +176,7 @@ graph TD;
   Start{"What do you wish to do?"};
   Slack["Ask in the support_operations slack channel"];
   SlackResponds["Support Ops responds in Slack and assists"];
-  Calendly["Create an issue in the support-ops/calendly project"];
+  Calendly["Create an issue in the support-ops/other-software/calendly project"];
   CalendlyFillOutIssue["Fill out the issue based on the templae"];
   CalendlyPingManager["Ping your manager in the issue for next steps"];
   CalendlyManagerFillOutIssue["Manager does their part of the issue"];
@@ -206,7 +206,7 @@ graph TD;
 * [Support Ops workflows](../support-ops/workflows)
 * [Support Ops training](../support-ops/training)
 * [support_operations Slack channel](https://gitlab.slack.com/archives/C018ZGZAMPD)
-* [calendly issue tracker](https://gitlab.com/gitlab-com/support/support-ops/calendly/-/issues/new)
+* [calendly issue tracker](https://gitlab.com/gitlab-com/support/support-ops/other-software/calendly/-/issues/new)
 * [support-team-meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new)
 * [zendesk-macros issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/issues/new)
 * [zendesk-us-federal issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new)

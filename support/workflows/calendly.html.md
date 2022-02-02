@@ -52,7 +52,7 @@ In order to participate in the [round-robin support call](#round-robin) for cust
 
 To get added to the group account:
 
-1. Open a [Schedule update request](https://gitlab.com/gitlab-com/support/support-ops/calendly/-/issues/new?issuable_template=Schedule%20update%20request) issue
+1. Open a [Schedule update request](https://gitlab.com/gitlab-com/support/support-ops/other-software/calendly/-/issues/new?issuable_template=Schedule%20update%20request) issue
 1. Assign to your manager, and they'll approve and assign it over to team member that provisions Calendly.
 
 This access is also included as part of [support onboarding](/handbook/support/#onboarding) for GitLab Solutions Focus Support Engineers that will be handling tickets for self-managed customers.
