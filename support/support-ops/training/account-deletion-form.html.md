@@ -38,7 +38,7 @@ There are two parts to how this works:
 ### Form
 
 The form we work on is located in the
-[Account Deletion Form repo](https://gitlab.com/gitlab-com/support/support-ops/account-deletion)
+[Account Deletion Form repo](https://gitlab.com/gitlab-com/support/support-ops/forms/account-deletion)
 and it mirrored to the
 [account-deletion repo](https://gitlab.com/support/account-deletion). We do this
 so the URL is clear and concise.
@@ -68,7 +68,7 @@ address. The exact contents of the issue depend on the checks performed.
 
 ## Useful links
 
-* [Account Deletion Form repo](https://gitlab.com/gitlab-com/support/support-ops/account-deletion)
+* [Account Deletion Form repo](https://gitlab.com/gitlab-com/support/support-ops/forms/account-deletion)
 * [account-deletion repo](https://gitlab.com/support/account-deletion)
 * [Account Deletion Process Zap](https://zapier.com/app/zap/117251854)
 * [Account Deletion issues](https://gitlab.com/gitlab-com/gdpr-request/-/issues)
