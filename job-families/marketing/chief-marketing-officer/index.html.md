@@ -37,7 +37,7 @@ See the [marketing handbook](/handbook/marketing/) for details.
 
 ## Responsibilities
 
-* Develop a high performing team (network, hire, assess, grow, and offboard talent). 
+* Develop a high performing team (network, hire, assess, mentor, grow, and offboard talent). 
 * Contribute to all functions and make the rest of the [E-Group](/company/team/structure/#e-group) better.
 * Set a great creative strategy, recruit, retain, inspire, and direct creatives.
 * Create a dynamic outbound channel mix allocation (double down and back off based on data).
@@ -51,14 +51,11 @@ See the [marketing handbook](/handbook/marketing/) for details.
 * Increase channel sales through hyper clouds and other partnerships.
 * Contribute to improve sales ramp time (territory warmup, golden sales deck).
 * Have ability to build a strong case for and convince other functions to make go-to-market and roadmap changes.
-* Care deeply about GitLab’s teammates, contributors, and users with the ability to translate your leadership into increased revenue, brand halo, and developer relations.
-* Build lasting relationships with your teammates and partners as the executive overseeing the leadership for all marketing deliverables.
+* Can translate your leadership into increased revenue, brand halo, and developer relations.
 * Proactively identify and develop longer-term marketing and communications strategies and initiatives that will result in increased visibility and profitable growth.
-* Build, execute and maintain a scalable demand generation model to drive sales growth.
 * Articulate compelling value propositions and drive adoption for GitLab offerings in various market segments and geographical areas.
-* Drive strategy and execution for demand generation and brand awareness campaigns across all digital and offline channels.
+* Drive strategy and execution for brand awareness campaigns across all digital and offline channels.
 * Design and implement high-impact programs that are optimized to deliver results across the marketing and sales funnel, while hitting target metrics, Objectives and Key Results (OKR’s) and marketing ROI.
-* Develop, mentor, and grow our in-house Marketing teams globally, keeping GitLab’s values at the forefront for the team.
 * Manage our marketing budget and forecast.
 * Manage content development and position GitLab as the single application for entire DevOps lifecycle through thought leadership, white papers, infographics, blog posts, social media, webinars and by being an evangelist for our software and company.
 * Contribute to the creation of a comprehensive global marketing plan, digital marketing (web, SEO/SEM), social media-focused marketing, analyst relations, demand generation, events, and branding.
