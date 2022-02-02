@@ -31,6 +31,7 @@ Enablement sessions are generally 1 hour and involve presentation, demo, and Q&A
 ### Currently available sessions
 
 The following are already developed, have been given to multiple customers and are [available](https://drive.google.com/drive/folders/1NnDsqoc-KRdy7hF1jbo6H_59FwzpiKUc):
+
 * **Intro to GitLab** _(for teams just starting with GitLab)_ - General intro session that gives a high-level overview of GitLab
 * **Developer Journey - Idea to Production** _(for developers, operations, security)_ - Covers a typical workflow for a developer from getting assigned an issue to work on through creating the merge request, making changes and reviewing the pipeline results, and participating in code reviews
 * **WebIDE and Markdown** _(for anyone looking to make changes to code or Pages)_ - Covers what you can do with the built-in GitLab WebIDE to make changes to code, files, Pages directly from the GitLab web UI, as well as tips & tricks you can do with GitLab markdown in issues, merge requests, epics, Pages, etc.
@@ -44,7 +45,14 @@ The following are already developed, have been given to multiple customers and a
 * **Innersourcing with GitLab** _(for teams interested in starting code-sharing initiatives internally)_ - Goes over what is innersourcing, why it is useful, and what are the key things needed for success, followed by how to get started in GitLab
 * **GitOps with GitLab** _(for teams looking to use GitLab for Infrastructure as Code)_ - Goes over what is GitOps, how it is more than just Infrastructure as Code, what are the benefits, and how to get started with GitLab
 * **GitLab Administration** _(for GitLab Admins of self-managed instances)_ - Goes over GitLab components and architecture, installs, upgrades, admin area of the UI, common CLI commands, and back-ups
-* **Permissions & Access with GitLab** _(for GitLab Admins of self-managed instances)_ - Goes over permission access at the Group, Subgroup, Project, and Member levels.  Discusses how to effectively tie access in with supported authentication protocols for on and offboarding.
+* **Permissions & Access with GitLab** _(for GitLab Admins of self-managed instances)_ - Goes over permission access at the Group, Subgroup, Project, and Member levels, and discusses how to effectively tie access in with supported authentication protocols for on and offboarding
+
+If you have additional sessions you want to contribute, please follow these instructions:
+- Save the template deck to the [Lunch and Learns Google Drive folder](https://drive.google.com/drive/folders/1NnDsqoc-KRdy7hF1jbo6H_59FwzpiKUc) (eventually these will move to Highspot as our single source of truth)
+- Update this handbook page to include the name of the session, intended audience, and a summary of the content/goals
+- Update the [collaboration project template issue](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/issues/44) to include the same
+
+If you are interested in a session that doesn't exist yet, but you're not able or comfortable creating it, please post a message in [#tim-tams](https://gitlab.slack.com/archives/G8F1W2AGM) about what you would like to see!
 
 ### Offering the session
 
