@@ -56,6 +56,7 @@ This is a list of topics that we want to discuss:
   - Improve current documentation.
   - Review the first-time API user experience.
   - Automation of the documentation.
+  - Full catalog of all public and internal APIs.
 - Learning and contributions:
   - Review contributors' documentation.
   - Create learning paths for team members, especially about GraphQL.
