@@ -61,8 +61,8 @@ After the 19th, we conduct [an asynchronous retrospective](https://about.gitlab.
 
 #### Iteration retrospective
 
-First Wednesday of the milestone, we conduct an iteration retrospective where we review our [Iteration](https://about.gitlab.com/handbook/values/#iteration) skill.
-3 days before the retrospective, [a retrospective host](https://gitlab.com/brytannia) creates [a new iteration retrospective issue](https://gitlab.com/gl-retrospectives/secure-sub-dept/composition-analysis).
+Once per quater, first Wednesday of the new milestone, we conduct an iteration retrospective where we review our [Iteration](https://about.gitlab.com/handbook/values/#iteration) skill.
+1 week before the retrospective, [a retrospective host](https://gitlab.com/brytannia) creates [a new iteration retrospective issue](https://gitlab.com/gl-retrospectives/secure-sub-dept/composition-analysis).
 In this issue team members suggests candidate issues or epics to review.
 The host picks up one item to discuss synchronously.
 Results are documented in the retrospective issue.
