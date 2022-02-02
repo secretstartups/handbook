@@ -329,7 +329,7 @@ handy for API calls is always useful!
 ## Support Ops Toolbox
 
 This is optional, but we highly recommend you clone the
-[Support Ops Toolbox](https://gitlab.com/gitlab-com/support/support-ops/support-ops-toolbox)
+[Support Ops Toolbox](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/toolbox)
 onto your work station. The scripts within are often helpful in doing various
 tasks you may have to do.
 
@@ -337,7 +337,7 @@ The recommended commands to use are:
 
 ```bash
 mkdir -p ~/bin
-git clone https://github.com/nodenv/nodenv.git ~/bin/support-ops-toolbox
+git clone git@gitlab.com:gitlab-com/support/support-ops/support-ops-tools/toolbox.git ~/bin/support-ops-toolbox
 echo 'export PATH="$PATH:$HOME/bin/support-ops-toolbox"' >> ~/.bashrc
 source ~/.bashrc
 ```
@@ -411,6 +411,6 @@ sudo apt-get install -f
 * [1Password browser plugin for Firefox](https://addons.mozilla.org/en-US/firefox/addon/1password-x-password-manager)
 * [Okta browser plugin for Chrome](https://chrome.google.com/webstore/detail/okta-browser-plugin/glnpjglilkicbckjpbgcfkogebgllemb?hl=en)
 * [Okta browser plugin for Firefox](https://addons.mozilla.org/en-US/firefox/addon/okta-browser-plugin/)
-* [Support Ops Toolbox](https://gitlab.com/gitlab-com/support/support-ops/support-ops-toolbox)
+* [Support Ops Toolbox](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/toolbox)
 * [Slack download page](https://slack.com/downloads/linux)
 * [Zoom download center](https://zoom.us/download?os=linux)
