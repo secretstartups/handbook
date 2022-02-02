@@ -16,7 +16,7 @@ description: "SAFE Data Guide"
 
 ## What is SAFE Data?
 
-The Data Team follows the GitLab SAFE [Framework](https://about.gitlab.com/handbook/legal/safe-framework/) when it comes to SAFE Data. Sometimes also `MNPI` and `RESTRICTED_SAFE` is used in relation to SAFE Data and the SAFE Framework. 
+The Data Team follows the GitLab SAFE [Framework](/handbook/legal/safe-framework/) when it comes to SAFE Data. Sometimes also `MNPI` and `RESTRICTED_SAFE` is used in relation to SAFE Data and the SAFE Framework. 
 
 ## Access to SAFE Data
 
