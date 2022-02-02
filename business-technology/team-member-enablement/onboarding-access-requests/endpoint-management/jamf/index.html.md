@@ -218,7 +218,7 @@ We do not have any additional controls in place beyond the existing requirements
 
 ### What will be the change, review, and socialization process for configuration changes to Jamf?
 
-It will be no different than our current process for change management which is outlined here: [/handbook/business-technology/business-technology-change-management/](https://about.gitlab.com/handbook/business-technology/business-technology-change-management/).
+It will be no different than our current process for change management which is outlined here: [/handbook/business-technology/change-management/](https://about.gitlab.com/handbook/business-technology/change-management/).
 
 ### What options does a team member have to protect their home network privacy?
 
