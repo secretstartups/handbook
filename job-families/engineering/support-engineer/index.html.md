@@ -41,7 +41,7 @@ When you’re not tackling difficult customer challenges, you’ll have a lot of
 * scripted a [solution to capture the state of a customer’s server](https://gitlab.com/gitlab-com/support/toolbox/gitlabsos) for easier troubleshooting
 * added functionality to [ChatOps](https://docs.gitlab.com/ee/ci/chatops/) to make it easier to identify user accounts on GitLab.com
 * written a [Chrome Extension to route downloads from Zendesk tickets into organized folders](https://gitlab.com/gitlab-com/support/toolbox/zd-dl-router)
-* … done even more!
+* … [done even more](https://gitlab.com/gitlab-com/support/toolbox?sort=latest_activity_desc)!
 
 ## Requirements
 ### You should apply if:
