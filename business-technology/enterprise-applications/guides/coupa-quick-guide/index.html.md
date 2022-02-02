@@ -27,8 +27,8 @@ This page provides a general overview of the Coupa procurement process. See belo
 
 <br>
 
-## <i class="fas fa-stream" id="biz-tech-icons"></i> Need more details/information on the requisition process?
-Click on the below boxes for more details/information of the steps:
+## <i class="fas fa-stream" id="biz-tech-icons"></i> Need more details on the Requisition process?
+Click on the below boxes for more details of the steps:
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
   <a href="/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Requestor completes request form in Coupa</a>
   <a href="/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Is Supplier in Coupa</a>
@@ -40,8 +40,8 @@ Click on the below boxes for more details/information of the steps:
 </div> 
 
 
-## <i class="fas fa-stream" id="biz-tech-icons"></i> Need more details/information on the invoicing process?
-Click on the below boxes for more details/information of the steps:
+## <i class="fas fa-stream" id="biz-tech-icons"></i> Need more details on the Invoice process?
+Click on the below boxes for more details of the steps:
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
   <a href="/handbook/finance/accounts-payable/#coupa/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Invoice issued by Supplier</a>
   <a href="/handbook/finance/accounting/#invoicing-in-coupa/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Invoice submitted via Coupa Supplier Portal</a>
