@@ -50,7 +50,7 @@ Once you have completed the certification in GitLab Learn, you will receive the 
 
 ![GitLab values illustration](/images/all-remote/gitlab-values-tanukis.jpg){: .medium.center}
 
-GitLab is actively building new certifications. Learn more about [current and upcoming certifications](/handbook/people-group/learning-and-development/certifications/) within the Learning & Development handbook. 
+GitLab is actively building new certifications. Learn more about [our certifications](https://about.gitlab.com/learn/) on GitLab Learn webpage.
 
 ## Questions
 

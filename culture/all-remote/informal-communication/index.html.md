@@ -71,7 +71,7 @@ In an all-remote environment, informal communication should be formally addresse
 
 ## Community impact outings
 
-Community impact outings are a meaningful alternative to Zoom happy hours. Instead of allocating a shared hour to chat in a video call with teammates, consider a formal outing where each team member redirects that hour to their local community. This approach is not only more inclusive of time zones and family committments (as the hour can be spent at any point in a given week versus a set time on a calendar), but it celebrates the core of what makes us all unique: our chosen homes and surroundings.
+Community impact outings are a meaningful alternative to Zoom happy hours. Instead of allocating a shared hour to chat in a video call with teammates, consider a formal outing where each team member redirects that hour to their local community. This approach is not only more inclusive of time zones and family commitments (as the hour can be spent at any point in a given week versus a set time on a calendar), but it celebrates the core of what makes us all unique: our chosen homes and surroundings.
 
 Here's how to construct a Community Impact Outing.
 1. Ask your team to block a given amount of time (e.g. one hour) on their calendar during a specific week. Entitle it `[TEAM] Community Impact Outing`. Empower team members to devote time to something meaningful to them, such as volunteering at a library or assisting the elderly.
@@ -272,6 +272,8 @@ Please schedule a chat together, and Donut will follow up for feedback.
 You can also directly reach out to your fellow GitLab team members to schedule a coffee chat in the `#donut_be_strangers` Slack channel or via direct message.
 
 _In the year 2020, Donut reported 537 people connected through 2042 coffee chats at GitLab, compared to 367 chats in similar-sized companies._
+
+_In the year 2021, Donut reported 846 people connected through 3210 coffee chats at Gitlab, compared to 372 chats in similar-sized companies._
 
 ### GitLab Team Member Mixer Calls
 Similar to a coffee chat, a "[Gitlab Team Member](/handbook/communication/top-misused-terms/) Mixer" call aims to help team members meet more folks from other groups or functions that they might not otherwise get to spend a lot of time working or interfacing with.
