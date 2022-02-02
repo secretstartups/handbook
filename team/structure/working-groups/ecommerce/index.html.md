@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/ecommerce/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | 2022-01-24 |
-| Target End Date | 2022-04-30 |
+| Target End Date | 2022-03-18 |
 | Slack           | [#wg-ecommerce-motion](https://gitlab.slack.com/archives/C03012Y7UHH) (only accessible from within the company) |
 | Google Doc      | [Ecommerce Motion Working Group Agenda](https://docs.google.com/document/d/1FoUek4p2ELwuQT4IY-nQof4ft2udG2Ks_jFQiIrn7is/edit#heading=h.hhbpi9bc829) (only accessible from within the company) |
 
@@ -29,49 +29,68 @@ As the demands of the business grow in complexity and the areas that self-servic
 The goal of this group is to ultimately define the most effective way to deliver on self-service and bridge the gap between where we are today and our long-term vision and objectives.
 
 
-## Exit Criteria 
+## Exit Criteria & Timeline
+
+### Path 1 (2022-02-02 > 2022-02-18) - 2 weeks
 1. Defined long-term / future-state of the self-service business needs across all teams and departments in a JTBD framework
-1. Document the current state of self-service capabilities
+    1. Kazem Kutob
+    1. Omar Fernandez
+1. Define current state of self-service capabilities
+    1. Omar Fernandez 
+    1. Alex Martin 
+
+### Path 2 (2022-02-18 > 2022-03-04) - 2 weeks
 1. Document gaps between current self-service capabilities and ideal future state
-1. Document risks or blockers to delivering ideal future-state based on our existing architecture
-1. Recommendation on how to deliver long-term objectives, including an assessment of build vs. buy.
+    1. Kazem Kutob
+    1. Omar Fernandez
+    1. Jerome Ng
+1. Document risks or blockers to delivering ideal future-state basedon our existing architecture
+    1. Jerome Ng
+1. Vendor asessment - how would it plug into our systems
+    1. Bryan Wise
+
+### Path 3 (2022-03-07 > 2022-03-18)
+1. Recommendation on how to deliver long-term objectives, including assessment on build vs buy. 
+    1. Justin Farris
+
+
 
 ## Out of Scope
 1. We will not be performing a deep RFP and vendor assessment and selection as part of this exercise
 1. Aligning on cross-functional values and operating principles to deliver on e-commerce is out of scope in this WG, but such work may follow in a different format in the next phase
 
 
-## Estimated Timeline
-| Item | Time |
-| ----- | ----- |
-| Working Group kick-off | 2022-02-03 |
-| Future-state definition workshops | 2022-02-10 > 2022-02-24 |
-| Current state assessment | 2022-03-02 > 2022-03-17 |
-| Future state assessment | 2022-03-24 > 2022-04-21 |
-| Recommendation | 2022-04-21 > 2022-04-28 |
-
 
 
 ## Roles and Responsibilities
 
+**Contributors**
+
+DRIs held accountable to deliver on the exit criteria. Required to attend syncronous discussions and collaborate with reviewers to collect input and feedback. Similar to Responsible and Accountable in a RACI framework. 
+
+**Reviewers**
+
+Stakeholders with business requirements or domain expertise who will provide input to contributors. No need for regular or syncronus attendance, will engage async with contributors as appropriate. Similar to Consulted and Informed in a RACI framework.
+
+
 | Working Group Role    | Person                | Title                                           |
 |-----------------------|-----------------------|-------------------------------------------------|
-| Executive Sponsor | Justin Farris | Sr Director, Product Monetization |
+| Executive Sponsor | Ryan O'Nell | VP Commercial |
 | Facilitator | Kazem Kutob | Director, Online Sales & Self Service |
-| Member | Alex Martin | Sr Manager, Online Sales |
-| Member | Bryan Wise | VP, IT |
-| Member | Christopher Nelson, Sr Director Enterprise Apps |
-| Member | Cheri Holmes | Chief of Staff to CRO |
-| Member | Christopher Nelson | Sr Director, Enterprise Applications |
-| Member | Jake Bielecki | Sr Director, Sales Strategy and Ops |
-| Member | Jerome Z Ng | Sr Engineering Manager, Fulfillment |
-| Member | Omar Fernandez | Interim Director of Product, Fulfillment | 
-| Member | Tatyana Golubeva | Principal PM, Purchase |
-| Member | Jerome Ng | Sr Engineering Manager, Fulfillment |
-| Member | Emily Sybrant | Product Designer, Purchase |
-| Member | Hila Qu | Director of Product, Growth |
-| Member | Sarah McCauley | Finance |
-| Member | Michelle Hodges | VP, Channel Sales |
-| Member | Jack Brennan | Sr Director, Sales Systems |
-| Marketing | David Duncan | VP Marketing |
-
+| Contributor | Justin Farris | Sr Director, Product Monetization |
+| Contributor | Alex Martin | Sr Manager, Online Sales |
+| Contributor | Bryan Wise | VP, IT |
+| Contributor | Jerome Z Ng | Sr Engineering Manager, Fulfillment |
+| Contributor | Omar Fernandez | Interim Director of Product, Fulfillment | 
+| Contributor | Jerome Ng | Sr Engineering Manager, Fulfillment |
+| Reviewer | Tatyana Golubeva | Principal PM, Purchase |
+| Reviewer | Emily Sybrant | Product Designer, Purchase |
+| Reviewer | Hila Qu | Director of Product, Growth |
+| Reviewer | Sarah McCauley | Finance |
+| Reviewer | Michelle Hodges | VP, Channel Sales |
+| Reviewer | Jack Brennan | Sr Director, Sales Systems |
+| Reviewer | David Duncan | VP Marketing |
+| Reviewer | Christopher Nelson, Sr Director Enterprise Apps |
+| Reviewer | Cheri Holmes | Chief of Staff to CRO |
+| Reviewer | Christopher Nelson | Sr Director, Enterprise Applications |
+| Reviewer | Jake Bielecki | Sr Director, Sales Strategy and Ops |
