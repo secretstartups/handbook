@@ -175,7 +175,7 @@ used are:
 * 10 Support Operations Specialists to every 1 Support Operations Manager
 
 There are plans to utilize the information at the
-[Support Ops Metrics page](https://gitlab-com.gitlab.io/support/support-ops/support-ops-metrics/)
+[Support Ops Metrics page](https://gitlab-com.gitlab.io/support/support-ops/support-ops-tools/metrics/)
 in conjuction with the above ratios to refine this hiring plan in the future.
 The Support Ops Metrics page can be used to get a quick look at how we are
 currently doing and help determine future needs.
