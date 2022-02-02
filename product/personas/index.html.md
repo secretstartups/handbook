@@ -60,12 +60,13 @@ We describe the following personas in terms of the jobs they do, their motivatio
   1. [Presley, Product Designer](/handbook/product/personas/#presley-product-designer)
   1. [Sasha, Software Developer](/handbook/product/personas/#sasha-software-developer)
   1. [Devon, DevOps Engineer](/handbook/product/personas/#devon-devops-engineer)
-  1. [Ingrid, Infrastructure Operator](/handbook/product/personas/#ingrid-infrastructure-operator)
+  1. [Sidney, Systems Administrator](/handbook/product/personas/#sidney-systems-administrator)
   1. [Sam, Security Analyst](/handbook/product/personas/#sam-security-analyst)
   1. [Rachel, Release Manager](/handbook/product/personas/#rachel-release-manager)
   1. [Alex, Security Operations Engineer](/handbook/product/personas/#alex-security-operations-engineer)
   1. [Simone, Software Engineer in Test](/handbook/product/personas/#simone-software-engineer-in-test)
   1. [Allison, Application Ops](/handbook/product/personas/#allison-application-ops)
+  1. [Priyanka, Platform Engineer](/handbook/product/personas/#priyanka-platform-engineer)
   1. [Dakota, Application Development Director](/handbook/product/personas/#dakota-application-development-director)
 
 
@@ -186,7 +187,7 @@ I spend the majority of my time focused on completing planned development tasks,
 
 ##### Job Summary
 
-I provide support for our infrastructure, environments, and integrations. A part of my job is to provide the pipeline definitions and CI templates for other teams to work with so the software delivery process is streamlined across organization. I split my time between coding to implement features and bug fixes, and helping developers deploy, build, and release as efficiently as possible. My team is increasingly being asked to [manage our cloud platform like a product - internal](https://drive.google.com/file/d/1nKwj_zNwP-kjgrQni0mwFI2X1nqJCg4C/view).
+I provide support for our infrastructure, environments, and integrations. A part of my job is to provide the pipeline definitions and CI templates for other teams to work with so the software delivery process is streamlined across organization. I split my time between coding to implement features and bug fixes, and helping developers deploy, build, and release as efficiently as possible.
 
 ##### Motivations
 
@@ -203,21 +204,17 @@ I provide support for our infrastructure, environments, and integrations. A part
 - I dislike frequent context-switching and being responsible for some tasks that I feel I am not good at, because of the many hats my job requires me to wear.
 - I'm frustrated by the politics of convincing people to adopt my recommendations.
 
-#### Ingrid (Infrastructure Operator)
+#### Sidney (Systems Administrator)
 
-- **Alternative Job Titles:** Systems Engineer, Database Administrator, Infrastructure Engineer, Site Availability Engineer, Site Reliability Engineer, System Administrator
+- **Alternative Job Titles:** Systems Engineer, Database Administrator, Infrastructure Engineer, Site Availability Engineer, Site Reliability Engineer
 
-##### My Role
+##### Job Summary
 
-I have responsibility for providing, maintaining and operating the shared infrastructure which my application development teams utilize to develop, test, ship and operate software more quickly.
+I maintain and scale our infrastructure and configurations, and my priority is to automate as much as possible. When needed, I also build servers and help developers deploy to them.
 
-##### Jobs to be done
+##### Motivations
 
-- When I set up new infrastructure, I want to do it in a programmable way, so others can review my changes and we can repeat the steps if needed.
-- When I own an infrastructure resource, I want to keep it up to date with security patches, so I can sleep well at night.
-- When I own an infrastructure resource, I want to assure that it serves its purpose well, so I fulfill my SLAs.
-- When I own an infrastructure resource, I want to be mindful about its costs, so that I can run it within budget.
-- When I support developers, I want to automate the integration points, so I will not become a bottleneck in their processes.
+- When I get asked for help multiple times on the same task, I want to automate that task, to save time and avoid mistakes in the future.
 - When I’m on-call, I want to receive tiered notifications, so that the true emergencies don’t get lost in the noise.
 - When I’m releasing an improvement, I want no one to notice, so I know that it has gone smoothly.
 
@@ -410,6 +407,18 @@ I have responsibility for ensuring the application I own is accessible and perfo
 ##### Jobs to be done
 
 I want to make sure that deployments to production happen automatically, and I have detailed and real-time insight into what is happening with my deployed applications.
+
+#### Priyanka (Platform Engineer)
+
+##### My Role
+
+I have responsibility for providing, maintaining and operating a shared modern cloud platform which my application development teams utilize to develop, test, ship and operate software more quickly. My team is increasingly being asked to [manage our cloud platform like a product - internal](https://drive.google.com/file/d/1nKwj_zNwP-kjgrQni0mwFI2X1nqJCg4C/view).
+
+##### Jobs to be done
+
+- Increase the velocity and effectiveness for the application development teams.
+- Empower developers with self-service capabilities/tools so they can easily provision, configure, monitor, and decommission tiered environments as needed without requiring a third party to get involved.
+- Architect, maintain and migrate towards the best infrastructure solution for cost optimisation, availability and the needs of the organisation.
 
 #### Dakota (Application Development Director)
 
