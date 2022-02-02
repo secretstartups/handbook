@@ -268,7 +268,7 @@ The L&D team outlines a skill of the month for team members to learn more about 
 
 ### FY22 Topic Outline
 
-This is the list of topics that will be the focus in FY22. Each skill of the month can be found in the [Skill of the Month (FY22)](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) channel on [GitLab Learn](https://gitlab.edcast.com/). 
+This is the list of topics that were covered in FY22. Each skill of the month can be found in the [Skill of the Month (FY22)](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) channel on [GitLab Learn](https://gitlab.edcast.com/). 
 
 - April: Managing Stress
 - May: Effective Communication
@@ -280,6 +280,12 @@ This is the list of topics that will be the focus in FY22. Each skill of the mon
 - November: Gratitude and Recognition
 - December: Resilience and Reflection
 - January: Team Member Wellbeing
+
+### FY23 Topic Outline
+
+This is the list of topics that will be focused on in FY23. Each Skill of the Month can be found in the [Skill of the Month (FY23)](https://gitlab.edcast.com/channel/skill-of-the-month-fy23) channel on [GitLab Learn](https://gitlab.edcast.com/).
+
+- February: Setting and Achieving Goals
 
 ### Organizing a Skill of the Month 
 
