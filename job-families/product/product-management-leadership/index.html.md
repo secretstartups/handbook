@@ -55,14 +55,13 @@ The Group Manager, Product is a [grade 9.5](/handbook/total-rewards/compensation
 * Understand deeply and synthesize the market, competition, and upcoming solutions in the space their team is responsible for.
 * Review [release post announcements]() to ensure they focus on user problems and [jobs-to-be-done](/handbook/engineering/ux/jobs-to-be-done/) 
 * Own driving connections between the groups their PMs drive to ensure a single-application user experience.
+* Demonstrate leadership as [expected of Managers across GitLab](/company/team/structure/#management-group).
 * Find opportunities where teams need to collaborate with each other and help them make those decisions that are optimal for the company even if they maybe sub-optimal in the short term for particular groups.
 
 _Please note: If the Group Manager has less than 4 direct reports or is a first-time manager, some individual contributor responsibilities may be expected to be maintained._
 
 #### Group Manager, Product (GMP) - Requirements
-* 1-3 years experience managing others
-* 4-6 years of experience in product management
-* Additional requirements are outlined in the [Product Management Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/)
+Requirements are outlined in the [Product Management Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/#cdf-for-product-leadership)
 
 #### Group Manager, Product (GMP) - Career Ladder
 The next step in the Group Manager, Product is to move to [Director of Product](#director-of-product-management). 
@@ -110,32 +109,12 @@ The Director, Product Management is a [grade 10](/handbook/total-rewards/compens
 * Perform [product walk-throughs](/handbook/product/product-processes/#walk-through) regularly to highlight opportunities for improved workflows that span groups, stages and section.
 * Exemplify, coach others on, and contribute to [GitLab values](/handbook/values/)
 * Drive cross-functional, high impact business workstreams outside of the direct area of ownership 
+* Demonstrate leadership as [expected of Directors across GitLab](/company/team/structure/#director-group)
 * Contribute strategic improvements to how the [Product Leadership Team](/handbook/product/product-leadership/#product-leadership-team-structure) operates and shape the priorities of the Product Management function
 
 #### Director of Product Management - Requirements
-Requirements for the role are outlined as part of the [Product Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/).
-* [Validation Track](/handbook/product-development-flow/#validation-track) Skills
-    - Ensures consistent execution of discovery track skills across a large team
-* [Build Track](/handbook/product-development-flow/#build-track) Skills
-    - Ensures consistent execution of build track skills across a large team.
-    - Responsible for health of working relationships with Engineering Directors.
-* Business Skills
-    - Works cross [product hierarchy](/handbook/product/categories/#hierarchy) and cross-functionally to ensure an excellent end-to-end customer experience.
-    - Excellent at understanding and managing business impact across a wide range of product domains.
-    - Capable of making key pricing and packaging recommendations.
-* Communication Skills
-    - Visible leader across teams.
-    - Establishes compelling team purpose that is aligned to overall organizational vision.
-    - Inspires broader team to achieve results.
-    - Identifies disconnects to vision and takes appropriate action.
-* [People Management](/company/team/structure/#director-group) Skills
-    - Aligns team with larger [Section](/handbook/product/categories/#devops-stages) vision and goals.
-    - Provides appropriate level of guidance and latitude to managers and team members.
-    - Experienced at hiring and at managing out underperformance.
-    - Excellent at caring personally for team members and providing candid real-time feedback.
-* Ten to twelve years of experience
-* Four years of people management experience
-    - Prior experience managing product management managers (e.g., [Group Manager, Product roles](#group-manager-product-gmp)) preferred however not required.
+Requirements for the role are outlined as part of the [Product Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/#cdf-for-product-leadership).
+* Prior experience managing product management managers (e.g., [Group Manager, Product roles](#group-manager-product-gmp)) preferred however not required.
 
 #### Director of Product Management - Career Ladder
 The next step for a Director of Product Management is to move to [Senior Director of Product Management](#senior-director-of-product-management).
