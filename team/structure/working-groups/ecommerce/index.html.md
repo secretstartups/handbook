@@ -68,7 +68,7 @@ The goal of this group is to ultimately define the most effective way to deliver
 
 DRIs held accountable to deliver on the exit criteria. Required to attend syncronous discussions and collaborate with reviewers to collect input and feedback. Similar to Responsible and Accountable in a RACI framework. 
 
-**Reviewers**
+**Collaborators**
 
 Stakeholders with business requirements or domain expertise who will provide input to contributors. No need for regular or syncronus attendance, will engage async with contributors as appropriate. Similar to Consulted and Informed in a RACI framework.
 
@@ -83,14 +83,20 @@ Stakeholders with business requirements or domain expertise who will provide inp
 | Contributor | Jerome Z Ng | Sr Engineering Manager, Fulfillment |
 | Contributor | Omar Fernandez | Interim Director of Product, Fulfillment | 
 | Contributor | Jerome Ng | Sr Engineering Manager, Fulfillment |
-| Reviewer | Tatyana Golubeva | Principal PM, Purchase |
-| Reviewer | Emily Sybrant | Product Designer, Purchase |
-| Reviewer | Hila Qu | Director of Product, Growth |
-| Reviewer | Sarah McCauley | Finance |
-| Reviewer | Michelle Hodges | VP, Channel Sales |
-| Reviewer | Jack Brennan | Sr Director, Sales Systems |
-| Reviewer | David Duncan | VP Marketing |
-| Reviewer | Christopher Nelson, Sr Director Enterprise Apps |
-| Reviewer | Cheri Holmes | Chief of Staff to CRO |
-| Reviewer | Christopher Nelson | Sr Director, Enterprise Applications |
-| Reviewer | Jake Bielecki | Sr Director, Sales Strategy and Ops |
+| Collaborator | Tatyana Golubeva | Principal PM, Purchase |
+| Collaborator | Emily Sybrant | Product Designer, Purchase |
+| Collaborator | James Lopez | Backend Engineering Manager, Fulfillment:License |
+| Collaborator | Tyler Amos | Staff Backend Engineer, Fulfillment:License |
+| Collaborator | Hila Qu | Director of Product, Growth |
+| Collaborator | Christopher Nelson | Sr Director, Enterprise Applications |
+| Collaborator | Mark Quitevis | Sr Business Systems Analyst |
+| Collaborator | Jessica Salcido | Finance Systems Administrator |
+| Collaborator | Daniel Parker | Senior Integrations Engineer, Business Technology |
+| Collaborator | Sarah McCauley | Finance |
+| Collaborator | Michelle Hodges | VP, Channel Sales |
+| Collaborator | Jack Brennan | Sr Director, Sales Systems |
+| Collaborator | David Duncan | VP Marketing |
+| Collaborator | Michael Preuss | Senior Manager, Digital Experience |
+| Collaborator | Sindhu Tatimatla | Director, Analytics & Insights |
+| Collaborator | Cheri Holmes | Chief of Staff to CRO |
+| Collaborator | Jake Bielecki | Sr Director, Sales Strategy and Ops |
