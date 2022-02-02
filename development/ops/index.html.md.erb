@@ -32,7 +32,8 @@ The following teams comprise the sub-department:
 - Configure stage
     - Configure - [handbook](/handbook/engineering/development/ops/configure/), jtbd
 - Monitor stage - [handbook](/handbook/engineering/development/ops/monitor/)
-    - Monitor - [handbook](/handbook/engineering/development/ops/monitor/monitor/), [jtbd](/handbook/engineering/development/ops/monitor/monitor/jtbd/)
+    - Monitor:Respond - [handbook](/handbook/engineering/development/ops/monitor/respond/), [jtbd](/handbook/engineering/development/ops/monitor/monitor/jtbd/)
+    - Monitor:Observability - [handbook](/handbook/engineering/development/ops/monitor/observability/), jtbd
 
 ## Product Direction
 
@@ -40,42 +41,18 @@ Product direction can be found on the [Ops Section Product Direction](/direction
 
 ## Performance Indicators
 
-Peformance Indicator dashboards relevant to the Sub-department.
-
 - [Ops Sub-department Performance Indicators](/handbook/engineering/metrics/ops/)
-- [Development Department and Sub-department MR Metrics](https://app.periscopedata.com/app/gitlab/533956/Development-Department-and-Sub-department-MR-Metrics)
+- [Error Budgets](/handbook/engineering/error-budgets/) as Performance Indicators for stage groups
 
-### Error Budgets
 
-In FY22-Q2 we are adopting [Error Budgets](/handbook/engineering/error-budgets/) as Performance Indicators for stage groups.
-
-- GitLab OKR url: [https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11694](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11694)
-- Ally OKR url: [https://app.ally.io/objectives/1335502?tab=undefined&time_period_id=135090](https://app.ally.io/objectives/1335502?tab=undefined&time_period_id=135090)
-
-#### Error Budget dashboards for stage groups
-
-- Verify stage
-    - [Pipeline Execution](https://dashboards.gitlab.net/d/stage-groups-continuous_integration/stage-groups-group-dashboard-verify-continuous-integration?orgId=1)
-    - [Pipeline Authoring](https://dashboards.gitlab.net/d/stage-groups-pipeline_authoring/stage-groups-group-dashboard-verify-pipeline-authoring?orgId=1)
-    - [Testing](https://dashboards.gitlab.net/d/stage-groups-testing/stage-groups-group-dashboard-verify-testing?orgId=1)
-    - [Runner](https://dashboards.gitlab.net/d/stage-groups-runner/stage-groups-group-dashboard-verify-runner?orgId=1)
-- Package stage
-    - [Package](https://dashboards.gitlab.net/d/stage-groups-package/stage-groups-group-dashboard-package-package?orgId=1) | [Logs](https://log.gprd.gitlab.net/goto/c41e9f0228c80bd4d3f3104d4a8895ee)
-- Release stage
-    - [Release](https://dashboards.gitlab.net/d/stage-groups-release/stage-groups-group-dashboard-release-release?orgId=1)
-- Configure stage
-    - [Configure](https://dashboards.gitlab.net/d/stage-groups-configure/stage-groups-group-dashboard-configure-configure?orgId=1)
-- Monitor stage
-    - [Monitor](https://dashboards.gitlab.net/d/stage-groups-monitor/stage-groups-group-dashboard-monitor-monitor?orgId=1)
-
-## Communications
-
-### Slack channels
+## Slack channels
 
 - [#ops-section](https://gitlab.slack.com/archives/CKW6KLB8F) - Ops Section discussions spanning the Verify, Package, Release, Configure, and Monitor Stages
+- [#ops_staff_plus](https://gitlab.slack.com/archives/C0305PJB9JR) - Foster collaboration and technical leadership within Ops section
 - [#doe-ops](https://gitlab.slack.com/archives/CT9CM1VDJ) - Channel for GitLab's Director of Engineering, Ops
+- [🔒ops-staff-confidential](#private) - Channel for reviewing Ops promotion docs or sharing other confidential information.  Please use #doe-ops or #ops-section for topics that don’t require confidentiality.
 
-### Meetings
+## Meetings
 
 Ops Sub-department regular meetings
 
@@ -88,8 +65,9 @@ Ops Sub-department regular meetings
 | Ops Engineering Showcase (formerly demos) | All engineering team members | Mark Nuzzo | Engineering-focused showcase of code and achievements | monthly (50 mins) | Jaime Martinez (APAC) and Mark Nuzzo (AMEA) coordinate the region [showcases](https://gitlab.com/groups/gitlab-com/-/epics/1157) for each month |
 | Ops promotion reviews | Director, Sr. Managers, Managers | Sam Goldstein | Discussion and calibration on promotion documents for the quarter | Quarterly | We'll discuss an decide if we want to do this monthly and whether we want a post calibration meeting as well. |
 | Observability Weekly Sync | Product, Development, and Community leads for Observability integration and launch | Sam Goldstein | Efficiently communicate weekly activities across functions (e.g. Product, Development, Community Relations).  Create clear understanding of what we intend to accomplish this week. | Weekly (25 min) | [Agenda](https://docs.google.com/document/d/17fYO-rIpD3B3n9YaNMEorcxkgMjskLIEdBfvtTMpZbY/edit#) |
+| Ops Hiring Manager Sync | Hiring managers | Sam Goldstein | Support hiring manager efforts.  Updates and tracking of hiring activity.  Tricks and tips for effective hiring. | Weekly (25 min) | [Agenda](https://docs.google.com/document/d/1jl407WpUkPx9wc_ZQHGn77CywMURL9NS7ONWoLpGGds/edit) |
 
-#### Async Ops Sub-department Staff Meeting
+### Async Ops Sub-department Staff Meeting
 
 The weekly Ops Staff meeting follows this async format:
 
@@ -99,59 +77,6 @@ The weekly Ops Staff meeting follows this async format:
 1. _each Tuesday_ - Reminder is posted in #doe-ops slack channel:
     1. Review agenda doc
     1. Add additional items, questions, and content
-
-### Planning Processes
-
-Planning processes followed by teams in the Sub-department:
-
-- [General Ops Sub-department Planning Process](/handbook/engineering/development/ops/general-planning.html)
-
-### Root Cause Analysis (RCA) Process
-
-In FY22-Q2 we are establishing a process for Ops stage groups to complete RCAs for their incidents. ([Ally OKR](https://app.ally.io/objectives/1335501?time_period_id=135090))
-
-DRIs for completing these RCAs is [tracked in this table](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11695#progress).
-
-If you are assigned as a DRI to complete an RCA kindly follow complete these steps:
-
-1. Review and update Timeline on the Incident issue
-    1. Check if the _duration of customer impact_ can be determined from the timeline. If not update the timeline with this information at minimum:
-    1. When the incident first began to impact customers (or best estimate)
-    1. When the customer impact was fully mitigated (or best estimate)
-    1. If this information isn't in the timeline you may find it in issue comments or the incident slack channel.
-1. Review and update Current Status
-    1. Check if _customer impact_ is summarized in the Current Status. If it is not update it with a brief description of the impact this incident had on customers.
-1. Review Root Cause Analysis
-    1. Review and complete the Root Cause Analysis section with members of the your group. This can be done in the standing weekly [Incident Review Synchronous Meeting Sessions](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/#synchronous-review-meeting-sessions), in a team specific sync meeting, or asynchronously in the issue. Solicit input from the appropriate stable counterparts (e.g. PM, Quality, UX) in addition to Development engineers.
-1. Review Corrective Actions
-    1. Ensure that Corrective Actions identified through the RCA process are identified and linked to the incident issue. Look for opportunities to catch problems pre-production in development, testing, staging based on the learnings.
-1. Mark the issue as reviewed and completed in the table below. We will use this information when scoring this OKR.
-
-### Ops Promotion Process
-
-#### Promotion Document Reviews
-
-1. Team Member and Manager work together to create promotion document.
-1. Promotion document is shared with Ops Sub-Department managers in #ops-staff-confidential channel (private to Ops Managers, Senior Managers, Director) to receive feedback on the document content and how it calibrates with others in the Sub-Department.  This can be done early and often.
-1. Manager requests another Manager in the Sub-Department review and approve the document.
-1. Manager requests Senior Manager in the Sub-Department review and approve the document.
-1. Manager requests Director add Team Member to list of Sub-Department planned promotions.  If the team member cannot be added Director will provide feedback to Manager as to why.
-1. Director presents promotion doc at Development Department quarterly promotion review meeting.  If the promotion is not approved Director will provide feedback to Manager as to why.
-
-#### Quarterly Promotion Review Meeting
-
-Ops Managers, Sr. Managers, and Directors meet in the last month of each quarter to:
-
-1. Review promotion projections for each group.  Managers add a list of their direct reports who they anticipate will be ready for promotion in the next 3 quarters to the meeting agenda.  *Note these lists may change and are not a guarantee a team member will be promoted in a specific quarter.  The lists are used for planning purposes, to help us anticipate the number of team members approaching promotion, budget impact, and to support calibration across the group.*
-These lists should include:
-    1. Team Member name
-    1. Targeted promotion quarter
-    1. Link to promotion doc 
-    1. Whether the doc has received any Ops Manager or Ops Senior Manager approvals. 
-1. Review Ops team member promotion docs planned to be presented at Development Department quarterly promotion review meeting.
-
-
-
 
 ### Ops Engineering Showcase
 
@@ -173,18 +98,37 @@ Each month there are two showcase sessions organized for both APAC and AMER/EMEA
 | 2020 | September | [Video](https://www.youtube.com/watch?v=hjHg_aG7Wr0) | [Video](https://www.youtube.com/watch?v=LUIdfAQf1B0) | |
 | 2020 | August | [Video](https://www.youtube.com/watch?v=H47juOWB2F8) | [Video](https://www.youtube.com/watch?v=RABnrVmios0) | |
 
-## Celebrations
 
-We make an effort to celebrate our accomplishments as noted in FY22 of sub-department OKR that [All Ops teams celebrate an accomplishment](https://app.ally.io/objectives/1335504?time_period_id=135090).
+## Planning Processes
 
-### FY23 Celebrations
+Planning processes followed by teams in the Sub-department:
 
-- There is a $50/team member/quarter budget for team members which EMs can use for team celebrations and team building activities.
+- [General Ops Sub-department Planning Process](/handbook/engineering/development/ops/general-planning.html)
 
-### Previous FY Celebrations
+## Ops Promotion Process
 
-- [Archive of FY21 Celebrations](/handbook/engineering/development/ops/fy21-celebrations.html)
+### Promotion Document Reviews
+
+1. Team Member and Manager work together to create promotion document.
+1. Promotion document is shared with Ops Sub-Department managers in #ops-staff-confidential channel (private to Ops Managers, Senior Managers, Director) to receive feedback on the document content and how it calibrates with others in the Sub-Department.  This can be done early and often.
+1. Manager requests another Manager in the Sub-Department review and approve the document.
+1. Manager requests Senior Manager in the Sub-Department review and approve the document.
+1. Manager requests Director add Team Member to list of Sub-Department planned promotions.  If the team member cannot be added Director will provide feedback to Manager as to why.
+1. Director presents promotion doc at Development Department quarterly promotion review meeting.  If the promotion is not approved Director will provide feedback to Manager as to why.
+
+### Quarterly Promotion Review Meeting
+
+Ops Managers, Sr. Managers, and Directors meet in the last month of each quarter to:
+
+1. Review promotion projections for each group.  Managers add a list of their direct reports who they anticipate will be ready for promotion in the next 3 quarters to the meeting agenda.  *Note these lists may change and are not a guarantee a team member will be promoted in a specific quarter.  The lists are used for planning purposes, to help us anticipate the number of team members approaching promotion, budget impact, and to support calibration across the group.*
+These lists should include:
+    1. Team Member name
+    1. Targeted promotion quarter
+    1. Link to promotion doc 
+    1. Whether the doc has received any Ops Manager or Ops Senior Manager approvals. 
+1. Review Ops team member promotion docs planned to be presented at Development Department quarterly promotion review meeting.
 
 ## Ops Hiring process
 
-We have limited capacity in the recruiting team so hiring managers are experimenting with the [Ops Hiring process](/handbook/engineering/development/ops/hiring-process/)
+We have limited capacity in the recruiting team so hiring managers are experimenting with the [Ops Hiring process](/handbook/engineering/development/ops/hiring-process/).  We also hold a weekly hiring manager sync meeting (see Meetings section).
+
