@@ -17,6 +17,7 @@ The Manager Challenge addresses your specific needs to understand the qualities 
 
 Join us for the next Manager Challenge that will run from **2022-02-07 to 2022-02-25**. If you are interested in participating in February, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/78). **Currently, the program is being offered to GitLab team members only.**
 
+
 ### Leadership Development Award   
 
 The program was awarded a Gold Excellence in Leadership Development by the [Brandon Hall Group for the Best Unique and Innovative Leadership Development Program](http://www.brandonhall.com/excellenceawards/excellence-leadership.php?year=2021#BestUniqueorInnovativeLeadershipProgram). Brandon Hall operates the largest and longest running awards in Human Capital Management. The GitLab program was evaluated by a panel of learning and development veterans, senior industry experts, analysts, and executives. L&D is thrilled to have been recognized for this achievement! 
@@ -42,6 +43,13 @@ You may be asking yourself what you will achieve by taking part in the Manager C
 - Apply and learn GitLab Leadership best practices into your management role
 - Evaluate difficult management situations with greater certainty in your decisions
 - Build an inclusive environment for your people that is built on trust
+
+In addtion, the program ties into GitLab's strategic priorties through the following: 
+1. Mitigating Biggest Risks associated with: 
+     1. [Lack of Performance Management](/handbook/leadership/biggest-risks/#underperformance)
+     2. [Ineffective Management](/handbook/leadership/biggest-risks/#ineffective-management)
+2. Achieving GitLab Strategy of: 
+     1. [Inclusive Growth & Development for Team Members](/company/strategy/#4-inclusive-growth--development-for-team-members)
 
 Below is a video L&D recorded with Sid on manager enablement: 
 <!-- blank line -->
