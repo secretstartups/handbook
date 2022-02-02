@@ -54,4 +54,4 @@ Due to the restricted access of the Ops instance, please file all issues
 pertaining to Zendesk US Federal macros via the
 [Macros template](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new?issuable_template=Macros)
 in the
-[zendesk-us-federal project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal).
+[zendesk-us-federal project](https://ops.gitlab.net/gitlab-com/support/zendesk-us-federal/zendesk-macros).
