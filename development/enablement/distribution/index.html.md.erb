@@ -11,17 +11,45 @@ description: "The primary user persona for Distribution is the system administra
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
+
 The primary user persona for Distribution is the system administrator responsible for managing a GitLab instance. The team goals are to make it as easy as possible to deploy, scale, upgrade, and fine tune a GitLab instance on a range of on-prem and cloud platforms.
 
 Target deployments are anything from a single node deployment for evaluating GitLab all the way through to the 50K user reference architecture and beyond. The ultimate goal is to ensure the end user has a high-speed experience when using GitLab with no downtime or disruptions.
 
-The Omnibus package and Helm Chart are the primary deployment methods that Distribution focuses on. In FY21, the team will:
-* Automate the deployment of large-scale architectures that include High Availability and/or Geo
-* Move the cloud-native install from Viable to Lovable maturity level
-* Enhance the install, upgrade and next steps experience
-* Update major components such as PostgreSQL and other HA-related tooling
+The Omnibus package and Helm Chart are the primary deployment methods that Distribution focuses on.
 
 The Distribution team is comprised of two groups, Distribution:Build and Distribution:Deploy.
+
+### Distribution Build
+
+[Team](#distribution-build-team)    |
+[Charter](#distributionbuild-charter)
+
+Responsibilities:
+
+- Research for the support of new clouds, platforms, architecture, and components
+- Access controls, permissions, and CVE patches
+- Dependency updates
+- License management
+- Submissions to Partners for validations/certifications
+- The [install](/install/), [update](/update/), and [upgrade](/upgrade/) pages
+- Build and own the infrastructure used for creating the various installation methods
+- [Maintaining infrastructure](#infrastructure-and-maintenance) used in Distribution
+
+### Distribution Deploy
+
+[Team](#distribution-deploy-team)    |
+[Charter](#distributiondeploy-charter)
+
+Responsibilities:
+
+- Initial installation and composability for self-managed installations and GitLab.com
+- Upgrades / Downgrades
+- Scaling deployments
+- Migration between platforms or providers
+- Data lifecycle management
+- Secure configuration & communication
+- Research of clouds and platforms for integration to existing tools
 
 ## Vision
 
@@ -75,9 +103,13 @@ Reduce average days behind latest version
 
 ## Team members
 
+### Distribution Build Team
+
 The following people are members of the Distribution:Build Team:
 
-<%= direct_team(manager_role: 'Backend Engineering Manager (interim), Distribution:Build') %>
+<%= direct_team(manager_role: 'Backend Engineering Manager, Distribution:Build') %>
+
+### Distribution Deploy Team
 
 The following people are members of the Distribution:Deploy Team:
 
@@ -96,17 +128,12 @@ The following members of other functional teams are our [stable counterparts](/c
 
 ## Team responsibility
 
-Distribution team is responsible for:
+In addition to the [separate responsibilities](#overview) for Build and Deploy. The Distribution team as a whole is responsible for:
 
-1. The [install](/install/), [update](/update/), and [upgrade](/upgrade/) pages.
 1. The omnibus-gitlab installation package.
-  * Installation using package is simple, quick, secure and protects the data integrity.
+   - Installation using package is simple, quick, secure and protects the data integrity.
 1. A cloud native installation method.
-  * Installation using the Helm charts is able to scale easily with the increased demand.
-1. Build and own the infrastructure used for creating the various installation methods.
-  * Provision and maintain GitLab CI runners used for making above mentioned installation methods.
-1. Ensure that GitLab can be installed for self-managed installations and GitLab.com.
-1. [Maintaining infrastructure](#infrastructure-and-maintenance) used for work.
+   - Installation using the Helm charts is able to scale easily with the increased demand.
 1. [Triaging issues](triage.html) and [Reviewing Merge Requests](merge_requests.html) in all owned [projects](#all-projects).
 1. Creating [training sessions](training.html).
 1. Providing regular [demonstrations](demo.html) of recent solutions or works in progress
@@ -115,48 +142,17 @@ Distribution team is responsible for:
 
 Based on team responsibilities, the following objectives apply:
 
-* Installation pages need to be complete, correct, easy, helpful, and attractive.
-  Even if team's primary skill is not design and UX, team can maintain the pages
-  with the help of teams that have this skill as their primary.
-* The omnibus-gitlab installation package and the cloud native installation method
-  should allow a beginner to install GitLab quickly, correctly and completely.
-  Required configuration should be minimal, and it is
-  Distribution team's responsibility to automate as much of this configuration as possible for the user.
-* The omnibus-gitlab installation package and the cloud native installation method
-  should be sufficiently configurable to allow an advanced user a way of setting up a more complex
-  GitLab architecture.
-* The above two goals might sound opposing, however they are not. A compromise can be made
-  between these two goals without increasing the project maintenance cost for the Distribution team.
-  We optimize for the best initial installation experience and then expand to further complexity.
-* Distribution team has to verify each change that is introduced in each user facing project.
-  This is done by creating feature and end-to-end integration tests. When a feature/fix cannot be tested easily
-  with automated tests, confirm the change **manually**. If the person introducing the change
-  is a Distribution team member, they are responsible and are required to sign off the change.
-  Otherwise, it is the reviewers task to verify and sign off on the change.
-* Distribution team welcomes any contribution to any of the projects. Ultimately, it is up to the team
-  to decide if the contribution should be accepted. We need to weigh in on how the change affects
-  the whole picture, not only what is shown in the diff. This is especially the case when a contribution is changing behaviour.
-  If the change is a change in behaviour in one of the upstream components, we need to include team responsible for that component to submit their opinion.
-  If we are responsible for certain functionality, we need to consider how the change impacts functionality in all use cases. Then, if the maintenance
-  burden increases more than the change is worth or if it changes exiting functionality, we can consider rejecting the contribution.
-* Nightly builds are installed on dev.gitlab.org using one of the official artifacts of Distribution team. Purpose of this exercise is to have a
-  production level instance using the installation method that most of the rest of the community will be using.
-* Triaging issue tracker is a task that allows us to keep on the pulse of the changes we make. By being in contact with users and customers,
-  we can maintain visibility into most frequently reported bugs or requested features. Not everything reported will be resolved, however
-  _all_ of the reports should be triaged. This also applies to mentions in GitLab CE/EE repositories on issues with `Distribution` and `group::distribution` label.
-* Every Distribution team member is responsible for creating a training session for the rest of the team.
-  See the page on [team training](training.html) for details.
-* GitLab.com is last on this list, but is first in importance. When team that manages GitLab.com creates an issue, the item should
-  be raised up directly to the team Engineering Manager and Product Manager. While these issues are important, we don't necessarily need
-  to provide a complete solution right away, but we need to work with the other team on providing a path forward with their request.
-
-## Team IC Gearing
-
-**Exception Ratio**: 2 Staff Eng:Team
-
-**Justification**: The Distribution team is tasked with maintaining the Omnibus package and Helm Chart deployment methods. Expertise is required in both traditional software packaging and cloud native technologies. Having two Staff engineers allows the team to move both deployment models forward while minimizng drift between them. One Staff engineer has a more broad focus on commmunity contributions, reviews, maintenance and some feature work (tech lead) while the other is tightly aligned to cloud native projects inlcuding OpenShift, product maturity and large deployments (architect).
-
-**Future Growth or Anticipated Change**: It is expected that no significant changes during FY22-FY23 will influence the gearing ratio.
+- Distribution:Build
+  - Installation pages need to be complete, correct, easy, helpful, and attractive. Even if team's primary skill is not design and UX, team can maintain the pages with the help of teams that have this skill as their primary.
+  - Nightly builds are installed on dev.gitlab.org using one of the official artifacts of the Distribution Build team. Purpose of this exercise is to have a production level instance using one of the installation methods that the community will be using.
+- Distribution:Deploy
+  - The omnibus-gitlab installation package and the cloud native installation method should allow a beginner to install GitLab quickly, correctly and completely. Required configuration should be minimal, and it is the Distribution Deploy team's responsibility to automate as much of this configuration as possible for the user.
+  - The omnibus-gitlab installation package and the cloud native installation method should be sufficiently configurable to allow an advanced user a way of setting up a more complex GitLab architecture.
+  - The above two goals might sound opposing, however they are not. A compromise can be made between these two goals without increasing the project maintenance cost for the Distribution team. We optimize for the best initial installation experience and then expand to further complexity.
+- Distribution Common Objectives
+  - Triaging issue tracker is a task that allows us to keep on the pulse of the changes we make. By being in contact with users and customers, we can maintain visibility into most frequently reported bugs or requested features. Not everything reported will be resolved, however _all_ of the reports should be triaged. This also applies to mentions in GitLab CE/EE repositories on issues with `Distribution` and `group::distribution` label.
+  - Every Distribution team member is responsible for creating a training session for the rest of the team. See the page on [team training](training.html) for details.
+  - When the team that manages GitLab.com creates an issue, the item should be raised up directly to the team Engineering Manager and Product Manager. While these issues are important, we don't necessarily need to provide a complete solution right away, but we need to work with the other team on providing a path forward with their request.
 
 ## Primary Projects
 
@@ -383,15 +379,16 @@ inevitable and can happen, we should strive to avoid them.
 We expect every team to reach out to the Distribution team before scheduling a feature
 in an upcoming release in the following cases:
 
-* The change requires a new or an update on a gem with native extensions.
-* The change requires a new or updated external software dependency.
-  * Also when the external dependency has its own external dependencies.
-* The change adds, modifies, or removes files that should be managed by
-omnibus-gitlab. For example:
-  * The change introduces new directories in the package.
-  * The change introduces new files in previously not defined locations
-* The change requires a new configuration file.
-* The change requires a change in a previously established configuration.
+- Reach out to Distribution Build when:
+  - The change requires a new or an update on a gem with native extensions.
+  - The change requires a new or updated external software dependency.
+    - Also when the external dependency has its own external dependencies.
+- Reach out to Distribution Deploy when:
+  - The change adds, modifies, or removes files that should be managed by omnibus-gitlab. For example:
+    - The change introduces new directories in the package.
+    - The change introduces new files in previously not defined locations
+  - The change requires a new configuration file.
+  - The change requires a change in a previously established configuration.
 
 To sum up the above list:
 
@@ -437,4 +434,4 @@ days before action is needed to ensure the team has time to prepare.
 
 ## Trivia
 
-How did Distribution get its name? We iterated, as always. "Distribution" was chosen as better than "Install" when renaming the "Build" team, [live on an AMA](https://www.youtube.com/watch?v=gSyAFN6LPHU) with our CEO Sid.
+How did Distribution get its name? We iterated, as always. "Distribution" was chosen as better than "Install" when renaming the original "Build" team, [live on an AMA](https://www.youtube.com/watch?v=gSyAFN6LPHU) with our CEO Sid. Since then we have [iterated further](https://gitlab.com/gitlab-org/distribution/team-tasks/-/issues/936) in order to grow the team, and now have sug-groups for "Build" and "Deploy".

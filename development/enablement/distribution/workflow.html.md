@@ -30,10 +30,11 @@ The distribution team is comprised of two groups, Distribution:Build and Distrib
 
 ### Distribution Build tasks
 
-- Maintain all team pipelines for all projects
+- Maintain all team pipelines for all Distribution projects
 - Research for the support of new clouds, platforms, architecture, and components
 - Access controls, permissions, and CVE patches
 - Team infrastructure/resource management
+- Dependency updates
 - License management
 - Submissions to Partners for validations/certifications
 
@@ -88,7 +89,7 @@ picked up by EM and PM for scheduling in the regular process.
 Any unassigned issue is available for anyone to work on. You can show your interest in working on a specific task by leaving a comment in the issue.
 To do so, comment must contain the *date* on which you will commence the work. If the comment does not contain the date, or the date has passed, the item is free to be picked up by anyone again.
 
-All issues and merge requests created or worked on by the team must include the `group::distribution` label. This includes issues created in [distribution/team-tasks](https://gitlab.com/gitlab-org/distribution/team-tasks). 
+All issues and merge requests created or worked on by the team must include the `group::distribution` label. This includes issues created in [distribution/team-tasks](https://gitlab.com/gitlab-org/distribution/team-tasks).
 
 ### omnibus-gitlab project
 
@@ -126,7 +127,7 @@ will be assigned directly and deadlines set by the EM.
 
 ## Iteration
 
-Use iteration to better control scope and deliver measurable value in each release. A timebox measurement process would ensure that if expected progress isn’t achieved, there’s a procedure to follow. 
+Use iteration to better control scope and deliver measurable value in each release. A timebox measurement process would ensure that if expected progress isn’t achieved, there’s a procedure to follow.
 
 * If a project goes more than 2 milestones without delivering on the success criteria within the defined MVC/issue, a detailed evaluation/retrospective should be performed.
 * If the project goes 3 milestones without meeting success criteria, then a larger evaluation should be performed with the section leaders.
