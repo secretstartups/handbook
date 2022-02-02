@@ -3,12 +3,20 @@ layout: job_family_page
 title: Manager, IT Security Operations
 ---
  
-The Manager, IT Security Operations leads a team of highly-collaborative and results-oriented IT Security and IT Compliance team members tasked with assessing, identifying gaps, and developing and maturing Security and Compliance processes and policies. The Manager, IT Security Operations is in charge of scaling, increasing performance, providing team leadership and guidance to help evolve the security programs in accordance with strategic objectives, identify and engineer technology initiatives, and develop and enhance defensive measures.
+The Manager, IT Security Operations job family leads a team of highly-collaborative and results-oriented IT Security and IT Compliance team members tasked with assessing, identifying gaps, and developing and maturing Security and Compliance processes and policies. The Manager, IT Security Operations is in charge of scaling, increasing performance, providing team leadership and guidance to help evolve the security programs in accordance with strategic objectives, identify and engineer technology initiatives, and develop and enhance defensive measures.
+
+## Levels
+
+### Manager, IT Security Operations
+
+The Manager, IT Security Operations reports to the [Sr Director, IT Operations](https://about.gitlab.com/job-families/finance/director-it-operations/).
+
+#### Manager, IT Security Operations Job Grade
+
+The Manager, IT Security Operations is a [level 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
  
-#### {add Level} Job Grade
-The Manager, IT Security Operations is a level [8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
- 
-## Responsibilities
+#### Manager, IT Security Operations Responsibilities
+
 * Lead a team of highly capable Security engineering staff who maintain security for system environments (Mac OS X, Windows, LINUX, AWS, GCP VDI etc.)­­
 * Ability to mentor and have the capability influencing the group.
 * Create and drive proactive monitoring and reporting for endpoint and system health including, patching, compliance, and other performance metrics.
@@ -28,7 +36,8 @@ The Manager, IT Security Operations is a level [8](/handbook/total-rewards/compe
 * Work proficiently with minimal daily guidance and bring mature seasoned skills when working
 * Evaluate and communicate security risk to a wide and varying audience
  
-## Requirements
+#### Manager, IT Security Operations Requirements
+
 * 5+ years leadership experience, with an IT Security focused role
 * Experience executing in a cloud first technology organization
 * Proficiency to communicate over a text-based medium (Slack, GitLab Issues, Email) and can succinctly document technical details
@@ -47,20 +56,20 @@ The Manager, IT Security Operations is a level [8](/handbook/total-rewards/compe
 * [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 * Ability to use GitLab
  
-## Levels
-### Manager, IT Security Operations
-The Manager, IT Security Operations reports to the [Sr Director, IT Operations](https://about.gitlab.com/job-families/finance/director-it-operations/).
- 
-#### Performance Indicators
+## Performance Indicators
+
 * Security tools compliance >95%
 * Patch compliance >95%
 * Vulnerability Score
  
 ## Career Ladder
+
 The next step in the Manager, IT Security Operations is to move to the [Director, IT Operations](https://about.gitlab.com/job-families/finance/director-it-operations/) job family.
  
 ## Hiring Process
+
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 * Next, candidates will be invited to schedule a first interview with our Director of IT Operations
 * Next, candidates will be invited to schedule a second interview with our Manager of IT Operations
