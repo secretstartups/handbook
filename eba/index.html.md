@@ -16,7 +16,6 @@ This page details processes and general guidelines specific to the Executive Bus
 ## Executive Business Administrator Team
 
 ### E-Group Member EBA's
-* Christina Keelan Cottrell (Temp EBA) supporting Sid Sijbrandij (Co-Founder & CEO) and Stella Treas (Chief of Staff to the CEO)
 * Cheri Holmes (Chief of Staff) supporting Michael McBride (CRO) on an interim basis
 * Stefanie Haynes (Sr. EBA) supporting Craig Mestel (CMO) and Melissa Smolensky (VP of Corporate Marketing)
 * Alison Allende (Sr. EBA) supporting Brian Robins (CFO) 
