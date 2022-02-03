@@ -186,8 +186,8 @@ The CI/CD Engineering Manager also does weekly stand-up with a team and product 
 * In-depth experience with Ruby on Rails, Go, and/or Git.
 * Experience with provisioning tools is beneficial but not essential.
 
-### Growth:Experimentation
-Growth: Experimentation Engineers build, maintain, and integrate with GitLab the tools necessary for experimentation, to enable product teams at GitLab to develop and report on product-led experiments. 
+### Growth: Analytics and Experimentation
+Growth: Analytics and Experimentation Engineers build, maintain, and integrate with GitLab the tools necessary for experimentation and gathering analytics in a privacy-focused manner to enable product teams at GitLab to develop and report on product-led experiments and features.
 
 #### Requirements
 * Strong self-direction (this team is being bootstrapped).
