@@ -73,9 +73,9 @@ Please note that at this time, the only option for authentication to GitLab Lear
 
 ### Getting familiar with the platform
 
-Watch this [video tour](https://youtu.be/hlChYGZcaNc) of the GitLab Learn platform to get familiar with what you'll see upon logging in.
+Watch this [video tour](https://youtu.be/TGXmr3LvXk4) of the GitLab Learn platform to get familiar with what you'll see upon logging in.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hlChYGZcaNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TGXmr3LvXk4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Navigating the discover page
 
@@ -111,7 +111,7 @@ This navgation bar links to the following support resources:
 
 #### Search bar
 
-Use the search bar to find new content and other learner profiles in the LXP. [Additional search strategies](/handbook/people-group/learning-and-development/gitlab-learn/user/#finding-new-learning-content) are outlined below.
+Use the search bar to find new content and other learner profiles in GitLab Learn. [Additional search strategies](/handbook/people-group/learning-and-development/gitlab-learn/user/#finding-new-learning-content) are outlined below.
 
 #### Notifications
 
@@ -126,9 +126,7 @@ Access your [GitLab Learn profile page](/handbook/people-group/learning-and-deve
 
 You can edit and customize your profile page from within the platform using the following steps.
 
-If you'd rather watch a video of how to update your GitLab Learn profile, click [here](https://www.youtube.com/watch?v=WkO-5_QfyPE&feature=youtu.be) or watch the video below.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WkO-5_QfyPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+If you'd rather watch a video of how to update your GitLab Learn profile, click [here](https://www.youtube.com/watch?v=WkO-5_QfyPE&feature=youtu.be).
 
 1. In the top navigation bar, locate your name and profile image. This will link to your profile page
 1. On your profile, you can review your dashboard, content, learning plan, and more
@@ -222,9 +220,9 @@ Please review the following about user privacy when it comes to learning content
 
 ### Understanding content in GitLab Learn
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pJzj4l3tG-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qVhzOhTpQj4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Learning material is built and organized in the GitLab Learn LXP to help you follow a clear path. This is created using Smartcards, Pathways, and Journeys. More information on this content can be found on the [GitLab Learn contribution page](/handbook/people-group/learning-and-development/gitlab-learn/contribute) and in [this video training](https://youtu.be/pJzj4l3tG-4)
+Learning material is built and organized in the GitLab Learn LXP to help you follow a clear path. This is created using Smartcards, Pathways, and Journeys. More information on this content can be found on the [GitLab Learn contribution page](/handbook/people-group/learning-and-development/gitlab-learn/contribute).
 
 Please note this terminology is relating specifically to GitLab Learn and is distinct from the [Learning Components and Learning Delivery Methods definitions](https://about.gitlab.com/handbook/people-group/learning-and-development/#learning-delivery-methods---definitions) used by the Learning & Development team.
 
@@ -250,13 +248,13 @@ There are many ways to search GitLab Learn for new learning content.
 
 1. **Use the search bar.** This search feature will allow you to search by key word, username, or topic. This search bar is helpful if you're looking for material on a certain topic, or you're interested in seeing what your team members are learning.
 
-1. **Follow Channels** Channels organize content based on topic. Find Channels you're interested in by searchin for a specific topic or expertise. You can follow these channels and be notified when new contnet is shared.
+1. **Follow Channels** Channels organize content based on topic. Find Channels you're interested in by searchin for a specific topic or expertise. You can follow these channels and be notified when new contnet is shared. If your deparment has it's own **Learning Hub**, we'd recommed following that for content relevant to you and your work.
 
 1. **Use the `More` option in the top navigation bar.** This waffle icon will allow you to sort through content based on users, groups, and more. If you'd like to learn more about the types of content in the LXP, reivew the [LXP contribution process](/handbook/people-group/learning-and-development/gitlab-learn/contribute)
 
-Watch [this training](https://youtu.be/vGhtuY_gIEw) to review strategies for finding new learning content in GitLab Learn:
+Watch [this training](https://youtu.be/tthnVFxRHcA) to review strategies for finding new learning content in GitLab Learn:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vGhtuY_gIEw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tthnVFxRHcA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Sharing your GitLab Learn Badges
 
@@ -290,10 +288,6 @@ Learners in the platform might come across errors like spelling mistakes, broken
 
 ## Frequently asked questions
 
-
-### When will content in GitLab Learn be available for the entire GitLab team, customers, and community members?
-
-The LXP implementation team is planning a phased rollout of the platform to multiple GitLab audiences. Please watch this page for future updates.
 
 ### Where is the content in the LXP stored?
 
