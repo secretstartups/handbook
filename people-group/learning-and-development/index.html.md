@@ -52,12 +52,6 @@ The Learning & Development team has a number of resources to help team members l
   </div>
 </div>
 
-**What's coming in FY23:**
-- [Coaching Pilot](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/342) 
-- [LifeLabs Learning](/handbook/people-group/learning-and-development/learning-initiatives/#lifelabs-learning)
-- Managing at GitLab Course
-- [Learning & Leadership Development Job Family](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/95894)
-- Manager Challenge
 
 ## Overview
 
@@ -115,6 +109,14 @@ _Performance indicators_
 </figure>
 
 **Learn more about our [FY22 Roadmap and tracking sheet](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375)**.
+
+### FY23 Learning & Development Calendar
+
+<figure class="video_container">
+<iframe src="https://calendar.google.com/calendar/embed?src=c_glhi0qhc8hs9fp4h9id2hc7lfg%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</figure>
+
+**Note: Learning & Development activities are subject to change**
 
 ### L&D Organization
 
