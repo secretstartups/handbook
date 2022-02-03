@@ -28,9 +28,10 @@ The following members of other functional teams are our stable counterparts:
 
 <%= stable_counterparts(role_regexp: /[,&] (Create(?!:)|Create:Source Code)/, direct_manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability') %>
 
-## KPIs
+## OKRs
 
-<%= partial("handbook/engineering/development/dev/create-source-code-fe/metrics.erb") %>
+
+<iframe src="https://app.ally.io/public/nGplNhrWsk4xWAD" class="dashboard-embed" height="1500" width="100%" style="border:none;"> </iframe>
 
 ## Iteration
 
@@ -59,10 +60,6 @@ For more urgent items, feel free to use [#g_create_source_code] or [[#g_create_s
 [GitLab]: https://gitlab.com/gitlab-org/gitlab
 [#g_create_source_code]: https://gitlab.slack.com/archives/g_create_source-code
 [#g_create_source_code_fe]: https://gitlab.slack.com/archives/g_create_source-code-review-fe
-
-## Working with product
-
-Weekly calls between the product manager and engineering managers (frontend and backend) are listed in the "Source Code Group" calendar. Everyone is welcome to join and these calls are used to discuss any roadblocks, concerns, status updates, deliverables, or other thoughts that impact the group. Every 2 weeks (in the middle of a release), a mid-milestone check-in occurs, to report on the current status of ~"Deliverable"s. Monthly calls occurs under the same calendar where the entire group is encouraged to join, in order to highlight accomplishments/improvements, discuss future iterations, review retrospective concerns and action items, and any other general items that impact the group.
 
 ### Issue refinement
 
@@ -107,12 +104,6 @@ As stated in our direction, we must place special emphasis on our [convention ov
 
 <%= partial("handbook/engineering/development/dev/create/async_standup.erb") %>
 
-## Kickoff
-
-On the first week of every milestone, we have a sync-call with every IC in which they take turns at presenting their plan for their Deliverables for the new milestone.
-
-This usually happens at the first Thursday of the milestone (at least 5 days into it) at 3PM UTC.
-
 ## Retrospectives
 
 We have 1 regularly scheduled "Per Milestone" retrospective, and can have ad-hoc "Per Feature" retrospectives more focused at analyzing a specific case, usually looking into the Iteration approach.
@@ -120,3 +111,11 @@ We have 1 regularly scheduled "Per Milestone" retrospective, and can have ad-hoc
 #### Per Milestone
 
 <%= partial("handbook/engineering/development/dev/create/retrospectives.erb", locals: { group: "Source Code", group_slug: "source-code" }) %>
+
+## Milestone Kickoff & Retrospective review
+
+At the start of each milestone we have a synchronous **Kickoff** session where every IC take turns at presenting their plan for their Deliverables for the new milestone.
+
+This happens at least 2 working days after all Deliverables are assigned, which happens on the first day of the milestone, on the 18th.
+
+During this call, we also do a quick **Retrospective review** going through the highlights of the discussions in the asynchronous issue mentioned above.
