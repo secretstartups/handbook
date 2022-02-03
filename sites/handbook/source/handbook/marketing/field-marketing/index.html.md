@@ -410,9 +410,9 @@ The following is the process for when a Field Marketing issue moves from `mktg-s
 
 # Rescheduling or Cancelling Events
 
-## [Marketing Calendar](/handbook/marketing/field-marketing/#marketing-calendar)
+## [Marketing Calendar](/handbook/marketing/#marketing-calendar)
 
-When an event is rescheduled or cancelled, the FMC is responsible for updating the [Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493).
+When an event is rescheduled or cancelled, the FMC is responsible for updating the [Marketing Calendar](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493).
 - For a reschedued event, the FMC will update the start and end dates in columns A & B.
 - For a cancelled event, the FMC will select the event line item and add a strikethrough to indicate the event has been cancelled.
 
