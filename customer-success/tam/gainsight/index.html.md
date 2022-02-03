@@ -133,9 +133,9 @@ For information on how we manage the backend data for Gainsight, please see our 
 
 ### Updating fields
 
-The `Technical Account Manager` field on an account is a bi-directional sync with Salesforce. You can update the TAM on an account either in Salesforce or Gainsight but since the sync occurs nightly it will take at least 1 day for the values in Gainsight and Salesforce to match after one of the systems is updated.
+The `TAM Name` field in Gainsight indicates which TAM owns a specific account, and determines which accounts will appear for a TAM on dashboards, etc. This field syncs to the `Technical Account Manager` field in Salesforce. It can only be edited in Gainsight, and any changes to the field in Gainsight will sync over to Salesforce within one minute. If you see any discrepancies between these two fields in the two systems, please report to the CS Ops team.
 
-`Account Owner`, `Solutions Architect`, `Renewal Date`, `ARR`, subscription and opportunity info, etc. are all updated in Salesforce and synced to Gainsight.
+`Account Owner`, `Solutions Architect`, `Renewal Date`, `ARR`, subscription and opportunity info, etc. are all updated in Salesforce and synced to Gainsight on a daily basis.
 
 ### Customer contacts
 
