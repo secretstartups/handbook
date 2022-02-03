@@ -49,4 +49,10 @@ When the account is not confirmed, the customer cannot log in. To view whether a
 1. Click on the `i` icon on the customer account or `Show` if you're already viewing the account
 1. The confirmation is shown in `Confirmed at` field
 
-If the customer has not confirmed their email. We can resend the confirmation email from https://customers.gitlab.com/customers/confirmation/new and get back to the customer.
+#### 4. The customer is trying to sign in using another email address
+
+Situations may arise where a customer has used a different email address for their [customers portal](https://customers.gitlab.com/customers/sign_in) account and their gitlab.com account. It may also be possible that a customer has signed up more than once using different email addresses (e.g. `firstname_lastname@organization.com` and `firstname.lastname@organization.com`). In scenarios such as these, please explain the differences to the customer, and clarify which email address they have have used for their GitLab subscription.
+
+#### 5. The customer hasn't confirmed their email address
+
+If the customer has not confirmed their email, we can resend the confirmation email using [this form](https://customers.gitlab.com/customers/confirmation/new) and get back to the customer.
