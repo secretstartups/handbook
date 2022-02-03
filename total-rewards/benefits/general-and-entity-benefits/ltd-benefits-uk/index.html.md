@@ -24,7 +24,7 @@ For any queries related to UK benefits, please email `total-rewards@gitlab.com` 
 
 For UK-based team members, GitLab provides 100% paid membership of medical insurance with AXA PPP. This private medical insurance level is named Business Health Select with core cover. Family members can be added to the insurance and GitLab will pay 66% of the cost to include them. Further information can also be found in the [AXA PPP Brochure](https://drive.google.com/file/d/1iaxamYvMcn4G6tWdmnhiiCR_HAtGKVcN/view?usp=sharing).
 
-Please let the Total Rewards team know if you would like to join the scheme via email to `total-rewards@gitlab.com`. Include the full names and date of birth of all dependants you would like added to the scheme. The Total Rewards team will forward your request to our UK HR partners by email. Please note that it can take 7 - 10 working days to receive a reply and confirmation from AXA PPP. 
+Please let the Total Rewards team know if you would like to join the scheme via email to `total-rewards@gitlab.com`. Include the full names and date of birth of all dependants you would like added to the scheme. The Total Rewards team will forward your request to our UK Broker, Willis Tower Watson (WTW), by email. Please note that it can take 7 - 10 working days to receive a reply and confirmation from AXA PPP. 
 
 FYI Total Rewards team: The UK HR partner's contact information can be found in the Entity and Co-Employer HR Contacts note in the PeopleOps vault in 1Password.
 
@@ -45,7 +45,7 @@ Please also note that this is a taxable benefit. The underwriting is on a Morato
 
 ### Obtaining a Medical Insurance Quote
 
-During Vistra's initial onboarding email to enroll in the scheme, they will provide a quote for a team member to add coverage and an estimate for adding dependents. The cost of dependendent cover can be estimated as follows:
+During Willis Tower Watson's initial onboarding email to enroll in the scheme, they will provide a quote for a team member to add coverage and an estimate for adding dependents. The cost of dependendent cover can be estimated as follows:
 
 | Tier | Multiplier |
 |------|------------|
