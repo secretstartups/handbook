@@ -25,7 +25,7 @@ Note: This GitLab product training and certification program is different from r
 1. Field team members are first trained on the [DevOps Technology Landscape](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/DevOps+Technology+Landscape+-+Storyline+output/story.html) during [Sales & Customer Success Onboarding](/handbook/sales/onboarding/)
 1. New field team members are then trained on [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) and [GitLab’s value-based messaging framework](/handbook/sales/command-of-the-message/) (also during onboarding)
 1. After onboarding, field team members will be encouraged to complete lightweight role-based product training learning paths (see below)
-1. Field team members will then be encouraged to complete [customer use case courses](/handbook/sales/training/field-certification/#customer-use-case-training) that focus on how to sell GitLab
+1. Field team members will then be encouraged to complete [customer use case courses](/handbook/sales/training/field-certification/#gitlab-use-cases-overview) that focus on how to sell GitLab
 
 ```mermaid
 graph TD;
