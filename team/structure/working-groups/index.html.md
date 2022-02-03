@@ -192,7 +192,7 @@ In FY22-Q4, we identified 12 top cross-functional initiatives that are key to Gi
 | Project Horse | @marin / @edjdev  | [Internally confidential](https://about.gitlab.com/handbook/communication/#internal) |  |
 | Reliability | @sloyd / @edjdev  | Achieve enterprise grade security and reliability for our SaaS. |  |
 | SaaS Free User Efficiency | @kencjohnston / @sytses | Adjust free program offerings to increase conversion rate and reduce sales and marketing cost while still giving back to students, startups, educational institutions, open source projects, GitLab contributors, and nonprofits. |  |
-| User Engagement | @dplanella / @cmestel | Create a developer brand through generating awareness among various communities that become advocates of GitLab and influence purchase decisions. |  |
+| User Engagement | @johncoghlan  / @cmestel | Create a developer brand through generating awareness among various communities that become advocates of GitLab and influence purchase decisions. |  |
 | Project Matterhorn | @keithchung / @sytses   | [Limited access](https://about.gitlab.com/handbook/communication/#limited-access) |  |
 | First Order | @christinelee / @cmestel  | Grow our new logo and SAO counts across all segments to meet the business plan and set ourselves up for long-term growth. |  |
 | Category Leadership | @melsmo / @cmestel  | Become the overall leader of The DevOps Platform through defining and owning the category. |  |
