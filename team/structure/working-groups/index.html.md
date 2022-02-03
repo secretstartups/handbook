@@ -182,22 +182,24 @@ If you are interested in participating in an active working group, it is general
 
 ## 12 Cross-Functional Initiatives
 
-In FY22-Q4, we identified 12 top cross-functional initiatives that are key to GitLab's success in FY23 and beyond. While there are other important business initiatives and priorities that exist within functions or require engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring. These projects are the most important _cross-functional_ ones, not necessarily the most important projects and initiatives.
+In FY22-Q4, we identified 12 top cross-functional initiatives that are key to GitLab's success in FY23 and beyond. While there are other important business initiatives and priorities that exist within functions or require engagement across the business, we elevated these initiatives to address cross-functional dependencies, align on goals, and ensure ongoing reporting and monitoring. These projects are the most important _cross-functional_ ones, not necessarily the most important projects and initiatives. 
+
+Please note that a limited set of team members currently have access to the linked Epics. We are exploring ways to make more information available to all team members and the wider-community while keeping sensitive information contained to a smaller group.
 
 | Initiative | DRI / Sponsor | Description | Links |
 | ------ | ------ |------ | ------ |
-| Usage Data | @justinfarris / @sytses   | Ensure customer product usage and utilization metrics are surfaced to the right teams at the right time to drive improvements in customer adoption and flag high potential user growth/tier-upgrade opportunities. |  |
-| Cloud Licensing | @justinfarris / @sytses  | Provide automated licensing functionality to customers to improve their experience while reducing the chances of sales and support escalations. |  |
-| FedRAMP | @JohnathanHunt / @edjdev | Achieve FedRAMP Moderate Certification. |  |
-| Project Horse | @marin / @edjdev  | [Internally confidential](https://about.gitlab.com/handbook/communication/#internal) |  |
-| Reliability | @sloyd / @edjdev  | Achieve enterprise grade security and reliability for our SaaS. |  |
-| SaaS Free User Efficiency | @kencjohnston / @sytses | Adjust free program offerings to increase conversion rate and reduce sales and marketing cost while still giving back to students, startups, educational institutions, open source projects, GitLab contributors, and nonprofits. |  |
-| User Engagement | @johncoghlan  / @cmestel | Create a developer brand through generating awareness among various communities that become advocates of GitLab and influence purchase decisions. |  |
-| Project Matterhorn | @keithchung / @sytses   | [Limited access](https://about.gitlab.com/handbook/communication/#limited-access) |  |
-| First Order | @christinelee / @cmestel  | Grow our new logo and SAO counts across all segments to meet the business plan and set ourselves up for long-term growth. |  |
-| Category Leadership | @melsmo / @cmestel  | Become the overall leader of The DevOps Platform through defining and owning the category. |  |
-| AWS/GCP Partnerships | @nbadiey @mmcb   | Expand GitLab's access to AWS/GCP LAM via cloud-first sales plays, new products, and lower friction buying. |  |
-| E-Commerce | @ronell / @mmcb | Create world-class buyer experience and significant self-serve customer base / ARR. |  |
+| Usage Data | @justinfarris / @sytses   | Ensure customer product usage and utilization metrics are surfaced to the right teams at the right time to drive improvements in customer adoption and flag high potential user growth/tier-upgrade opportunities. | [Operational Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/1) |
+| Cloud Licensing | @justinfarris / @sytses  | Provide automated licensing functionality to customers to improve their experience while reducing the chances of sales and support escalations. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/2) |
+| FedRAMP | @JohnathanHunt / @edjdev | Achieve FedRAMP Moderate Certification. | [working group page](/company/team/structure/working-groups/fedramp-execution/), [epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/3) |
+| Project Horse | @marin / @edjdev  | [Internally confidential](https://about.gitlab.com/handbook/communication/#internal) | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/4)  |
+| Reliability | @sloyd / @edjdev  | Achieve enterprise grade security and reliability for our SaaS. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/5) |
+| SaaS Free User Efficiency | @kencjohnston / @sytses | Adjust free program offerings to increase conversion rate and reduce sales and marketing cost while still giving back to students, startups, educational institutions, open source projects, GitLab contributors, and nonprofits. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/free-saas-user-efficiency/-/epics/1) |
+| User Engagement | @johncoghlan  / @cmestel | Create a developer brand through generating awareness among various communities that become advocates of GitLab and influence purchase decisions. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/8) |
+| Project Matterhorn | @keithchung / @sytses   | [Limited access](https://about.gitlab.com/handbook/communication/#limited-access) | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/7) |
+| First Order | @christinelee / @cmestel  | Grow our new logo and SAO counts across all segments to meet the business plan and set ourselves up for long-term growth. |[Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/9)  |
+| Category Leadership | @melsmo / @cmestel  | Become the overall leader of The DevOps Platform through defining and owning the category. | [working group page](/company/team/structure/working-groups/category-leadership/),  |
+| AWS/GCP Partnerships | @nbadiey @mmcb   | Expand GitLab's access to AWS/GCP LAM via cloud-first sales plays, new products, and lower friction buying. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/11)  |
+| E-Commerce | @ronell / @mmcb | Create world-class buyer experience and significant self-serve customer base / ARR. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/12)  |
 
 ### Cross-Functional Initiative DRIs
 
