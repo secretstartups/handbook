@@ -125,6 +125,7 @@ If you are interested in participating in an active working group, it is general
 * [Contribution Efficiency](/company/team/structure/working-groups/contribution-efficiency)
 * [Database Scalability](/company/team/structure/working-groups/database-scalability/)
 * [Demo & Test Data](/company/team/structure/working-groups/demo-test-data/)
+* [Ecommerce Motion](/company/team/structure/working-groups/ecommerce)
 * [Event Stream](/company/team/structure/working-groups/event-stream/)
 * [Expense Management](/company/team/structure/working-groups/expense-management/)
 * [FedRAMP Execution](/company/team/structure/working-groups/fedramp-execution/)
@@ -144,6 +145,7 @@ If you are interested in participating in an active working group, it is general
 * [SOX PMO](/company/team/structure/working-groups/sox/)
 * [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
 * [Webpack (Frontend build tooling)](/company/team/structure/working-groups/webpack)
+
 
 ## Past Working Groups (alphabetic order)
 
