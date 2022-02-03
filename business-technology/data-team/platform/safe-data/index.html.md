@@ -24,7 +24,7 @@ The Data Team follows the GitLab SAFE [Framework](/handbook/legal/safe-framework
 
 Access to Sisense dashboards is based on job role and goverened by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Sisense, dashboards are classified into the following spaces:
 - the **GitLab** space is a General Access area which houses dashboards which do not require SAFE handling. General Access Dashboards are accessible by all GitLab Team Members.
-- the **SAFE Intermediate Dashboard** space houses dashboards which do not require SAFE handling, but are based on data models that contain SAFE Data.  SAFE Intermediate Dashboards are available to GitLab Team Members based on job role or demonstrated need.
+- the **SAFE Intermediate Dashboard** space houses dashboards which do not require SAFE handling, but reference data models that contain SAFE Data.  SAFE Intermediate Dashboards are available to GitLab Team Members based on job role or demonstrated need.
 - the **SAFE Dashboard** space houses all dashboards that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart). SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need.
 
 A complete list of Dashboards, including SAFE Dashboards, is available in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index).
