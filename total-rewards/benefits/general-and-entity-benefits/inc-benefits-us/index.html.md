@@ -20,19 +20,17 @@ Related Pages:
  
 US based benefits are arranged through Willis Towers Watson and managed on the PlanSource platform. The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available. 
  
-## 2021 Open Enrollment for the 2022 Plan Year
-
-**The 2021 Open Enrollment for the 2022 plan year will take place November 8th through November 19th. This year will be a passive enrollment, meaning if you like the plans you are in now, you do not need to take any action to keep them for 2022 with the exception of Flexible Spending Accounts (FSAs), which you must actively (re)enroll in every year. You will not have an FSA or DCFSA in 2022 if you do not elect into them during Open Enrollment.** 
+## 2022 Plan Year
 
 Please see additional information on the 2022 US Benefit Plans: 
- 
-* For a summary of 2022 plan year enhancements and changes, please review the [2022 Plan Year US Benefits Open Enrollment Memo](https://drive.google.com/file/d/1wwakNs1d336V3D7b2q5x_l7TFqRIF_KM/view?usp=sharing)
 
-* Review the [2022 US Benefits Guide](https://drive.google.com/file/d/1vZD_4CqeQHsxUbrjsdWb0GRgieeOxi0K/view) for full plan details and updated plan rates. Please note, 2022 medical and dental dependent rates have increased in line with standard medical inflation and team members will see an increase in their contributions for dependent cover.  GitLab will continue to cover 100% of team member premiums and 66% of dependent premiums for medical, dental, and vision coverage.
+* Review the [2022 US Benefits Guide](https://drive.google.com/file/d/1vZD_4CqeQHsxUbrjsdWb0GRgieeOxi0K/view) for full plan details and updated plan rates. 
 
 * Watch the [2022 US Benefits Open Enrollment Video](https://www.brainshark.com/1/player/willis?pi=zHWzlwS5CzaInCz0&r3f1=&fb=0) for a full review of the Benefit Plans. 
 
 * Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits. Please review the [2022 Annual Rights and Notices](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing).
+
+* Team Members can find information on the 2021 Calendar Year benefit plans, details, and open enrollment [archived here.](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/fd1efce5ea06c2a26dddeec9dea3f3c217adeeab/sites/handbook/source/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/index.html.md) 
  
 ## Who To Contact
 
@@ -121,20 +119,18 @@ If your Qualifying Life Event requires documentation the steps below will follow
 1. Upload the documentation in to PlanSource. 
 1. Once submitted the Total Rewards Team will review your request and documentation for approval. 
 
+ 
+#### Cigna Medical Plans
 
-#### Cigna Medical Plans (2021)
- 
-Effective January 1, 2021, GitLab will be transitioning from UHC to Cigna as the primary national carrier.
- 
-##### Cigna 2021 & 2022 Calendar Year Plans
+##### Cigna 2022 Calendar Year Plans
  
 **Coverages:**
  
- The Cigna 2022 plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: inclusion of acupuncture, chiropractic care, and hearing aid benefits.
+ The Cigna 2022 plan details include the following enhancements: inclusion of acupuncture, chiropractic care, and hearing aid benefits.
  
 In Network:
  
-| Plan Details               | [2021 Cigna HDHP- HSA ](https://drive.google.com/file/d/1snzJv2JsItipBS12ueibzedjZMgLjs_e/view?usp=sharing) <BR> [2022 Cigna HDHP- HSA](https://drive.google.com/file/d/13TITeW4_KkSM8aQcWL4ya42OtkYY9wRD/view?usp=sharing) | [2021 Cigna EPO (PPO $0)](https://drive.google.com/file/d/147z46SlhXLGUhoXVjQTxI7Qs5ROL6ZLr/view?usp=sharing)\*\* <BR> [2022 Cigna EPO (PPO $0)](https://drive.google.com/file/d/1HgXi45ik3YwzghWvJZhDatOyAtCiUa-_/view?usp=sharing)\*\*  | [2021 Cigna PPO 500](https://drive.google.com/file/d/1utEEBXzbvIY4guFt0asM86waDWVMdLHQ/view?usp=sharing)\*\*\*  <BR> [2022 Cigna PPO 500](https://drive.google.com/file/d/1uLa9P6kSkLQ8decI7NMfSf1fzNIXsU7N/view?usp=sharing)\*\*\*    |
+| Plan Details               | [2022 Cigna HDHP- HSA](https://drive.google.com/file/d/13TITeW4_KkSM8aQcWL4ya42OtkYY9wRD/view?usp=sharing) |  [2022 Cigna EPO (PPO $0)](https://drive.google.com/file/d/1HgXi45ik3YwzghWvJZhDatOyAtCiUa-_/view?usp=sharing)\*\*  | [2022 Cigna PPO 500](https://drive.google.com/file/d/1uLa9P6kSkLQ8decI7NMfSf1fzNIXsU7N/view?usp=sharing)\*\*\*    |
 |:---------------------------|:----------------------:|:------------------:|:-----------------:|
 | Deductible (Single/Family) | $2,000 / $2,800        | $0 / $0            | $500 / $1,000     |
 | Out of Pocket Max (Single/Family)    | $4,000 / $8,000        | $2,500 / $5,000    | $3,000 / $6,000   |
@@ -159,14 +155,6 @@ Accredo is Cigna's specialty pharmacy. For more information on managing your spe
  
 **Team Member Costs:**
  
-_2021 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
- 
-| Tier                     | HDHP-HSA | EPO  | PPO  |
-|--------------------------|:---:|:----:|:----:|
-| Team Member Only         | $0  | $0   | $0   |
-| Team Member + Spouse     | $0  | $234 | $222 |
-| Team Member + Child(ren) | $0  | $180 | $168 |             
-| Family                   | $0  | $402 | $378 |
 
 _2022 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
  
@@ -222,15 +210,15 @@ Benefits for services and supplies received outside the Service Area are covered
 
 #### Kaiser Medical Plans
  
-##### Kaiser 2021 & 2022 Calendar Year Plans
+##### Kaiser 2022 Calendar Year Plans
  
 In addition to the Cigna plans offered above, the following plans are also an option for team members in the United States located in California, Colorado, and Hawaii.
  
 **Coverages:**
 
- The Kaiser 2022 plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: inclusion of acupuncture, chiropractic care, and hearing aid benefits. Review the [Kaiser Permanente Chiropractic and Acupuncture Benefits flyer](https://drive.google.com/file/d/1UtDITIjSk43hPDYml-bNubmju4qIx_Ac/view?usp=sharing) for more information on these plans. 
+ The Kaiser 2022 plan details will include the following enhancements: inclusion of acupuncture, chiropractic care, and hearing aid benefits. Review the [Kaiser Permanente Chiropractic and Acupuncture Benefits flyer](https://drive.google.com/file/d/1UtDITIjSk43hPDYml-bNubmju4qIx_Ac/view?usp=sharing) for more information on these plans. 
  
-| Plan Details               | [2021 HMO 20 NorCal](https://drive.google.com/file/d/1kgJGxaVfAwdN5E2fD0gbzKFWW1eCyU56/view?usp=sharing) <br> [2022 HMO NorCal](https://drive.google.com/file/d/1br0BSmgAaiHF08in77Bjezk0vQvDzg3k/view?usp=sharing)     | [2021 HMO 20 SoCal](https://drive.google.com/file/d/1UtnmvtKmn4PKETOphAQ7e54lYu32NGb_/view?usp=sharing)  <br> [2022 HMO 20 SoCal](https://drive.google.com/file/d/1VF3sWuFdIhpR6ScnBuqUl6R_OGvH7d1e/view?usp=sharing) | [2021 HMO 20 CO](https://drive.google.com/file/d/1MuG9MQumOq3OjAMtwjil33RKkWdNrAa7/view?usp=sharing) <BR>  [2022 HMO 20 CO](https://drive.google.com/file/d/1BosRYdWVsrdpLpaGP--ci79zmTbFPOto/view?usp=sharing)    | [2021 HMO 20 HI](https://drive.google.com/file/d/1oLiQJkVcb2YLuvB-adEJPwf4knM1R9J3/view?usp=sharing)   <BR>  2022 HMO 20 HI (TBD)   |
+| Plan Details               | [2022 HMO NorCal](https://drive.google.com/file/d/1br0BSmgAaiHF08in77Bjezk0vQvDzg3k/view?usp=sharing)     | [2022 HMO 20 SoCal](https://drive.google.com/file/d/1VF3sWuFdIhpR6ScnBuqUl6R_OGvH7d1e/view?usp=sharing) |  [2022 HMO 20 CO](https://drive.google.com/file/d/1BosRYdWVsrdpLpaGP--ci79zmTbFPOto/view?usp=sharing)    | 2022 HMO 20 HI (TBD)   |
 |----------------------------|:--------------------:|:---------------:|:---------------:|:---------------:|
 | Deductible (Single/Family) | $0 / $0              | $0 / $0         | $0 / $0         | $0 / $0         |
 | Out Of Pocket Max (Single/Family)    | $1,500 / $3,000      | $1,500 / $3,000 | $2,000 / $4,000 | $2,500 / $7,500 |
@@ -250,16 +238,6 @@ Please see the [2022 Kaiser Colorado Enrollment Guide](https://drive.google.com/
 **Team Member Costs:**
  
 The following costs are monthly rates which would be deducted from your paycheck.
-
-_2021 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
- 
-| Tier                     | HMO CA North | HMO CA South | HMO CO | HMO HI |
-|--------------------------|:------------:|:------------:|:------:|:------:|
-| Team Member Only         | $0           | $0           | $0     | $0     |
-| Team Member + Spouse     | $240         | $240         | $276   | $174   |
-| Team Member + Child(ren) | $192         | $192         | $228   | $138   |         
-| Family                   | $366         | $366         | $456   | $342   |
-
 
 _2022 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
  
@@ -317,14 +295,12 @@ Dental does not come with individualized insurance cards from Cigna, although yo
  
 When submitting a claim, you can mail it to Cigna Dental PO Box 188037 Chattanooga, TN, 37422 or fax it to 859-550-2662.
  
-#### Dental 2021 & 2022 Calendar Year Plan
+#### Dental 2022 Calendar Year Plan
  
 **Coverages:**
 
- The 2022 Dental plan details will remain the same as the 2021 plan details listed below.
-
  
-| Plan Details                         | [DPPO 2021](https://drive.google.com/file/d/1s8x3BJ36hJ5gU-vn29dQSOFVkhvm1rH4/view?usp=sharing) <br> [DDPO 2022](https://drive.google.com/file/d/10lDPQ-EfmHpE_danm3cwMEb7KA9njlts/view?usp=sharing)  | 
+| Plan Details                         | [DDPO 2022](https://drive.google.com/file/d/10lDPQ-EfmHpE_danm3cwMEb7KA9njlts/view?usp=sharing)  | 
 |--------------------------------------|:----------:|
 | Deductible (Single/Family)                          | $50 / $150 |
 | Maximum Benefit                      | $2,000     |
@@ -339,15 +315,6 @@ When submitting a claim, you can mail it to Cigna Dental PO Box 188037 Chattanoo
 **Team Member Costs:**
  
 The following costs are monthly rates which would be deducted from your paycheck.
-
- _2021 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
-
-| Tier                     | DPPO |
-|--------------------------|:----:|
-| Team Member Only         | $0   |
-| Team Member + Spouse     | $12  |
-| Team Member + Child(ren) | $18  |
-| Family                   | $36  |
 
  _2022 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
 
@@ -376,14 +343,14 @@ When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingha
 1. Expand the "Customer Reimbursement Form" section.
 1. Click "Continue" to be taken to the online claim form. Make sure you attach an itemized receipt when prompted.
  
-#### Vision 2021 & 2022 Calendar Year Plan
+#### Vision 2022 Calendar Year Plan
  
 **Coverages:**
 
- The 2022 Vision plan details will remain the same as the 2021 plan details listed below, but will include the following enhancements: increase frame allowance to up to $150. 
+ The 2022 Vision plan details will include the following enhancements: increase frame allowance to up to $150. 
 
  
-| Plan Details                      | [Vision 2021](https://drive.google.com/file/d/1iqeSHND7WzTouvP-Rzc6kw8THxz2DlDL/view?usp=sharing) <br> [Vision 2022](https://drive.google.com/file/d/1VmjN9hLqVk7AqaHdWVUqK155U7yO-mBV/view?usp=sharing)     | 
+| Plan Details                      | [Vision 2022](https://drive.google.com/file/d/1VmjN9hLqVk7AqaHdWVUqK155U7yO-mBV/view?usp=sharing)     | 
 |-----------------------------------|:------------:|
 | Frequency of Services             | 12 months   |
 | Copay Exam                        | $20          | 
@@ -400,7 +367,7 @@ When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingha
  
 The following costs are monthly rates which would be deducted from your paycheck.
 
- _2021 & 2022 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
+2022 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
  
 | Tier                     | Vision |
 |--------------------------|:------:|
@@ -418,7 +385,7 @@ For out-of-network services: 365 days from Date of Service.
  
 ### Basic Life Insurance and AD&D
  
-GitLab offers company paid basic life and accidental death and dismemberment (AD&D) plans through Cigna. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $250,000, which includes an equal amount of AD&D coverage. For more information please see the [summary of benefits](https://drive.google.com/file/d/1rkA8n3zgZvnoiqzu3ZJuLwZ_9zMaNbZW/view?usp=sharing).
+GitLab offers company paid basic life and accidental death and dismemberment (AD&D) plans through Cigna. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $250,000, which includes an equal amount of AD&D coverage. Please find addtional details, limitations, and exclusions on the [summary of benefits](https://drive.google.com/file/d/1rkA8n3zgZvnoiqzu3ZJuLwZ_9zMaNbZW/view?usp=sharing).
  
 ### Group Long-Term and Short-Term Disability Insurance
  
@@ -720,16 +687,6 @@ If you are currently employed and have any general COBRA questions, feel free to
 ### Costs per Month
  
 **Medical**
-
-2021
-
-| Tier                           | Cigna EPO   | Cigna HDHP HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
-|--------------------------------|:---------:|:-------------:|:----------:|:-----------------:|:----------------:|:--------------:|:------------:|
-| Team Member Only               | $562.21   |   $423.75     | $549.39   |     $532.72       |     $532.72      |    $734.04     |   $495.41    |
-| Team Member + Domestic Partner | $1,225.69   |   $917.57   | $1,197.64  |     $1,230.19     |     $1,230.19    |    $1,614.88   |   $990.83    |
-| Team Member + Spouse           | $1,225.69   |   $917.57   | $1,197.64  |     $1,230.19     |     $1,230.19   |    $1,614.88   |   $990.83    |           
-| Team Member + Child(ren)       | $1,063.98   |   $797.22     | $1,039.70    |     $1,086.73     |     $1,086.73   |    $1,468.08   |   $891.75    |
-| Family                         | $1,699.62 |   $1,270.30   | $1,660.70  |     $1,613.74     |     $1,613.74    |    $2,202.12   |   $1,486.24  |
  
  2022
 
@@ -743,16 +700,6 @@ If you are currently employed and have any general COBRA questions, feel free to
 
 
 **Dental**
- 
- 2021
-
-| Tier                           | Cigna DPPO |
-|--------------------------------|:----------:|
-| Team Member Only               |   $39.77   |
-| Team Member + Domestic Partner |   $79.03   |
-| Team Member + Spouse           |   $79.03   |
-| Team Member + Child(ren)       |   $91.41   |
-| Family                         |   $140.24  |
 
 2022
 
