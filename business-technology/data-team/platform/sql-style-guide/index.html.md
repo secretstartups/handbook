@@ -52,6 +52,8 @@ SQLFluff includes a `fix` command that will apply fixes to rule violations when 
 - selecting the max line length to be 100
 - selecting Key words and Functions to always be upper case
 
+The configuration file that the Data Team uses can be found in the [GitLab Data Team repository](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/.sqlfluff).
+
 
 ### General Guidance
 
