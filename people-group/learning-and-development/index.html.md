@@ -53,11 +53,11 @@ The Learning & Development team has a number of resources to help team members l
 </div>
 
 **What's coming in FY23:**
-- New Manager Bootcamp
 - [Coaching Pilot](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/342) 
 - [LifeLabs Learning](/handbook/people-group/learning-and-development/learning-initiatives/#lifelabs-learning)
 - Managing at GitLab Course
 - [Learning & Leadership Development Job Family](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/95894)
+- Manager Challenge
 
 ## Overview
 
@@ -121,8 +121,8 @@ _Performance indicators_
 We are a small team, but we've got a big role to play at GitLab! 
 
 * [Learning and Development Manager](/job-families/people-ops/learning-development/#learning--development-manager): [Josh Zimmerman](/company/team/#Josh_Zimmerman)
-* [Learning and Development Generalist](/job-families/people-ops/learning-development-specialist/#learning--development-generalist): [Jacie Bandur](/company/team/#jbandur)
-* [Learning and Development Associate](/job-families/people-ops/learning-development-specialist/#learning--development-associate): [Samantha Lee](/company/team/#slee24)
+* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Jacie Bandur](/company/team/#jbandur)
+* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Samantha Lee](/company/team/#slee24)
 * [Instructional Designer](/job-families/people-ops/instructional-designer/): [Irina Grosu](https://about.gitlab.com/company/team/#irinagrosu)
 * [Learning System Administrator](/job-families/people-ops/learning-system-administrator/): [Jamie Allen](https://about.gitlab.com/company/team/#jallen16)
 
