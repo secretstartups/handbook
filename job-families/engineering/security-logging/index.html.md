@@ -109,7 +109,7 @@ The Staff Infrastructure Security Engineer is a [grade 8](/handbook/total-reward
 
 ## Performance Indicators
 
-* TBD
+* Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](/handbook/engineering/security/performance-indicators/#sirt-former-security-operations-page-volume).
 
 ### Career Ladder
 
