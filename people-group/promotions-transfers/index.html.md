@@ -25,43 +25,58 @@ Besides promotions, this page captures information about transfers, realignments
 - Promotions occur when a team member increases in level within the same job family. For example, a Backend Engineer is promoted to a Senior Backend Engineer.  
 - Transfers occur when someone changes job families. A Backend Engineer would transfer to a Site Reliability Engineer. Generally these happen based on an open req and application process via Greenhouse. 
 - Manager promotions occur when someone is promoted to a people manager level. These promotions typically start with an open req and are processed through Greenhouse. 
-- Promotions that are exceptions to the quarterly promotions cycle: 
-  - Team members who apply through an open req in Greenhouse and where the new role is at a higher level
-  - Interim/acting roles that start and finish with a Greenhouse req. The reason here is that we don't want to have someone in an interim role who's demonstrated readiness for ~5-6 months in some cases
 - Change in specialty has no impact to job family. Therefore, this is not a promotion or a transfer.
 
-## Promotions process & Timeline
-At GitLab we're following a quarterly promotion cadence. This means that there's 1 effective date per quarter where team members can be promoted. There are three stages of this calibration: Planning, Calibration and Processing. The purpose of Planning is to make sure all proposed promotions are known between managers/leaders. Calibrations then happen to make sure these are peer reviewed and promotions happening are consistent across the group. Ultimately the Processing stage is to process the promotion via the correct system.  
-Below you can find the timeline for FY23: 
+## Promotion Process & Timeline
+
+At GitLab, we promote on a quarterly cadence. This means that there is **one effective date per quarter when team members can be promoted**. There are three core stages to the promotion process: Planning, Calibration, and Processing. 
+
+| Stage | Purpose |
+| ---------- | ----- |
+| [Planning](/handbook/people-group/promotions-transfers/#planning) | Managers and leaders to review their respective teams to determine promotion readiness, business need, and timeline for the upcoming quarters and project promotions |
+| [Calibration](/handbook/people-group/promotions-transfers/#calibration) | The calibration exercise is an opportunity for leaders (sync or async) to review projected promotions on a quarterly basis. This is an opportunity to create visbility and ensure consistency in who we are promoting and why. |
+| [Processing](/handbook/people-group/promotions-transfers/#process-hris-greenhouse-or-compaas) | The final stage once promotions are defined, is to determine where to process the promotion to finalize (this will take place via BambooHR, Compaas, or Greenhouse). 
+
+Below is the timeline for FY23: 
+
 - FY23-Q1:
   - Planning: December 15 to January 5
   - Calibrations: January 5 to January 15 
   - Processing: January 15 to February 1 
      - Promotions must be added to Compaas by January 20. 
      - Effective date for promotions: 2022-02-01. 
+     - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicated 1:1 with individuals, updates can be posted publicly in [#team-member-updates](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process).
 - FY23-Q2: 
   - Planning: March 15 to April 1
   - Calibrations: April 1 to April 8 
   - Processing: April 11 to May 1 
      - Promotions must be added to HRIS by April 20. 
      - Effective date for promotions: 2022-05-01. 
+     - Communication: After fully approved in either Greenhouse or HRIS
 - FY23-Q3: 
   - Planning: June 15 to July 1 
   - Calibrations: July 1 to July 8
   - Processing: July 11 to August 1
      - Promotions must be added to HRIS by July 20. 
      - Effective date for promotions: 2022-08-01. 
+     - Communication: After fully approved in either Greenhouse or HRIS
 - FY23-Q4:
   - Planning: September 15 to September 30
   - Calibrations: October 3 to October 10 
   - Processing: October 10 to November 1 
      - Promotions must be added to HRIS by October 20. 
      - Effective date for promotions: 2022-11-01. 
+     - Communication: After fully approved in either Greenhouse or HRIS
 
+### Quarterly Promotion Cadence Exceptions
+
+While we are aligned to a quarterly promotion cadence across the organization, there are rare exceptions that will be considered. 
+1. Anyone who applies through an open role in Greenhouse
+2. Promotions stemming from individuals in [interim/acting roles](/handbook/people-group/promotions-transfers/#interim-and-acting-roles)
 
 ## Planning
 
-Throughout the year we work with Promotion planning spreadsheets which will include team members that might be ready for a promotion in the coming fiscal year. These spreadsheets are available to the Leaders of each department and are set up by the People Business Partners in collaboration with the Total Rewards team. Prior to the planning phase in the above timeline People Business Partners will make sure the spreadsheets are up to date before going into the Calibration phase. For promotions there are two considerations: [Promotion budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget)and the rolling 12% promotion target. 
+Promotion Planning is generally done with via spreadsheets to maintain confidentiality and enable collaboration across department leaders. These spreadsheets are available to the Leaders of each department and are set up by the People Business Partners in collaboration with the Total Rewards team. Prior to the Planning phase in the timeline above, People Business Partners will make sure the spreadsheets are up to date before going into the Calibration phase. For promotions there are two considerations: [Promotion budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget)and the rolling 12% promotion target. 
 
 ### Rolling 12-Month Promotion Business Justification Process
 
@@ -77,10 +92,17 @@ If a department is over the 12% promotion rolling rate, the following process sh
 1. Once finalized with the department head, the PBP should share the sheet with the e-group leader for visbility/feedback.
 1. The PBP adds the sheet as a comment to the promotion in BambooHR for visibility and ensure it is accessible by Total Rewards, CFO, and CEO.
 
-## Calibration
-Each quarter Department Leadership and the People Business Partners plan a calibration session on the promotions that have made it through the planning stage. The goal of these calibration sessions are to set a fair and consistent standard in the Department for promotions, peer review promotions and an opportunity to ask questions. These sessions can be async or sync. 
+### Promotion Budget
 
-## Process: HRIS, Greenhouse or Compaas
+Please review the [Compensation Program Budget](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) to understand how quarterly promotion budget is allocated and the process to review potential tradeoffs if divisions/departments are over/under budget for any given quarter. 
+
+## Calibration
+
+Each quarter Department Leadership and the aligned People Business Partner plan a calibration session to review projected promotions. The goal of these calibration sessions is to set a fair and consistent standard in the Department for promotions, peer review promotions, and provide an opportunity for leaders to ask questions. These sessions can be async or sync. 
+
+## Processing
+
+There are three options for processing promotions: HRIS, Greenhouse or Compaas. Criteria to determine which option is most appropriate is outlined below.
 
 ### Greenhouse
 
@@ -109,11 +131,18 @@ For any transfer being submitted through Greenhouse [hiring process](/handbook/h
     - Apply and approval through the Greenhouse [hiring process](/handbook/hiring/) for any change in territory, segment, or specialty that requires a change in job family or level, change in compensation or stock adjustment or requires a backfill request.
 
 ### Compaas
-When the promotion cycle is at the same time as our Annual Compensation review (FYXX-Q4) we will use Compaas for processing that promotion over our HRIS for cimplicity. The steps are as follows: 
-- Work with your People Business Partner after the planning and calibrations to make sure the planned promotion is known by Total Rewards. 
-- Total Rewards will update the "slate" for the team member in Compaas to reflect the new compensation range. 
-- Hereafter the manager can make [their compensation increase recommendations via Compaas](/handbook/total-rewards/compensation/compensation-review-cycle/#determining-compensation-increases). 
-  - Note: Equity as part of the promotion will be processed by Total Rewards. The manager does have to review equity refresh recommendations for that cycle. 
+
+When the promotion cycle is running concurrently with our Annual Compensation review (FYXX-Q4) we will use Compaas for processing promotions to eliminate the need for two tools. The steps are as follows: 
+
+- Work with your People Business Partner after the [Planning](/handbook/people-group/promotions-transfers/#planning) and [Calibration](/handbook/people-group/promotions-transfers/#calibration) to ensure Total Rewards has visbility into who is up for promotion. 
+- Total Rewards will update the "slate" for the team member in Compaas to reflect the new compensation range aligned to the promoted level.
+
+Compensation Recommendations:
+1. Cash compensation
+- Managers can make [their cash compensation increase recommendations via Compaas](/handbook/total-rewards/compensation/compensation-review-cycle/#determining-compensation-increases) aligned to the newly promoted level.
+
+2. Equity compensation
+- Total Rewards will input equity promotion grants into Compaas, managers do not need to do this. Managers **should not** consider the new promotion when making equity refresh recommendations for team members.
 
 ## Process for Managers: Requesting a Promotion or Compensation Change
 
