@@ -58,8 +58,10 @@ The steps below show you how to set up a keyword search for searching the GitLab
 | 2. In the new search engines page, click the `Add` button | ![Add search engine](/images/handbook/tools-and-tips/searching/2_add_search_engine.png) |
 | 3. In the new `Add search engine` dialog, enter the following then click `Add`: <br> a. `GitLab handbook` in *Search Engine* <br> b. `hb` in *Keyword* <br> c. `https://about.gitlab.com/handbook/#stq=%s` in *URL* | ![Enter search engine details](/images/handbook/tools-and-tips/searching/3_enter_search_engine_details.png) |
 
+**Alternative:** The above adds the GitLab Handbook site search function to Chrome.  If you would prefer to continue to use Google search engine to site search the Handbook, in step 3.c. above you can add `google.com/search?q=site:about.gitlab.com/handbook %s` in *URL* 
+
 To test this, open a new tab and in the address bar type: `hb` <kbd>Tab</kbd> `iteration` and press enter.
-The GitLab handbook page should load with the search results for `iteration` showing.
+The GitLab handbook page should load with the search results for `iteration` showing.  If you use the alternative approach with the search site: method, the Google search results page should load with results exclusively from the Handbook.
 
 ### Setting up keyword searches in Firefox
 
