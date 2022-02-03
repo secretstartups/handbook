@@ -368,10 +368,10 @@ We have a team email address cs-ops@gitlab.com that we use for rule failure emai
 
 ### TAM assignment push to SFDC
 
-Gainsight is the single source of truth (SSoT) on this field.
+Gainsight is the single source of truth (SSoT) on this field (`CSM` often labeled as `TAM Name` in GS and `Technical Account Manager` in SFDC).
 
-- The `Technical Account Manager` field is updated in Gainsight and synced one-way to Salesforce.
-- The rule `Admin: Load TAM to SFDC` pushes the `Technical Account Manager` field from the Gainsight Company object to the `Account` object in SFDC. This rule runs every two hours.
+- This field is updated in Gainsight and synced one-way to Salesforce. It is locked in Salesforce so users are unable to update there.
+- The update is done with a real-time rule called `Push TAM change to SFDC`. This is triggered any time the field changes, and any change should load to Salesforce within seconds. The rule uses the SFDC User ID found in the `CSM` field in Gainsight to push to the `Technical Account Manager` field in Salesforce.
 
 ### TAM History Tracking object
 
@@ -382,8 +382,6 @@ The `CSM Change Date Stamp` rule runs every time the `CSM` field changes in Gain
 - The old CSM name
 - The new CSM name
 - The timestamp when the `CSM` field was changed
-
-The bionic rule then uses the `TAM History Tracking` object fields to identify accounts where the CSM has changed in the last day, then updates the `Technical Account Manager` field in Salesforce.
 
 A field on the `Company` object called `TAM First Assigned Date` was created based on the MIN date of the CSM Change Date Stamp per Account.
 
