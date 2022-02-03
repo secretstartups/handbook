@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| 2022-02-02  |   [F.I.R.E. Collaborations - Igniting Inner Sourcing](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/153)           |  Darwin Sanoy             |
 | 2022-02-16  |   [IniTech]     |     Fernando Diaz  |
 
 
@@ -33,6 +32,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2022-02-02 | **[F.I.R.E. Collaborations - Igniting Inner Sourcing](https://youtu.be/khYtYQ_pCtM)**           |  Public            |
 | 2022-01-19 | **[GitLab Environment Toolkit (GET)](https://youtu.be/qzWxOFNpgsE)**           |  Public            |
 | 2021-12-15 | **[GitLab and RedHat OpenShift](https://youtu.be/gI8alsuQCyw)**           |  Public            |
 | 2021-12-01 | **[GitLab for AI/ML applications](https://youtu.be/bDng9nwwLKU)** |  Public              |
