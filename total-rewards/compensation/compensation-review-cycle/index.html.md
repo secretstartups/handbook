@@ -342,20 +342,24 @@ If your direct report has any questions on the calculation of their increase ple
 
 #### Total Rewards Statement
 
-Each team member who receives an increase during the Annual Compensation Review cycle will receive a Total Rewards Statement detailing their Total Rewards package (cash, equity, benefits). This letter will be available for managers to review in BambooHR no later than Feb 4th. Team members who are Contractors will be able to review their letter on Feb 6th and team members who are Employees will be able to review their letter on Feb 13th. Managers should share the letter in BambooHR once they have reviewed this with the team member. Please reach out to Total Rewards if the letter hasn't been shared by Feb 6th (Contractors) or Feb 13th (Employees) and we'll share this with you. Instructions for downloading and reviewing the letter are as follows:
+Each team member who receives an update during the Annual Compensation Review cycle will receive a Total Rewards Statement detailing their Total Rewards package (cash, equity, benefits). This letter will be available for managers to review in BambooHR no later than Feb 4th. Managers should share the letter in BambooHR once they have reviewed this with the team member. Please reach out to Total Rewards if the letter hasn't been shared by Feb 5th (Contractors) or Feb 11th (Employees) and we'll share this with you. Instructions for downloading and reviewing the letter are as follows:
 1. Log into [BambooHR](https://gitlab.bamboohr.com/).
 1. If you are a manager, navigate to the profile of one of your direct reports first. Select the Documents tab and expand the `Annual Compensation Review Total Rewards Statements` folder. You can either select the linked document name to open a quick view of the Total Rewards Statement in BambooHR or select the download button that appears to the right of the letter. If you are a manager and are unable to see the Documents tab for your team member, please reach out to `total-rewards@ gitlab` and we will review your access level.
    * ![download change letter](/images/handbook/people-group/BHR_ACRLetter_Folder.png)
-1. There are two different letter formats depending on whether you/your team member is paid a base salary only or receives a commission/bonus:
-   * Base + Bonus Letter Example (New Template to be added)
-   * Base Only Letter Example (New Template to be added)
-1. Each letter will have a Cash Compensation Section outlining the current (FY22) compensation and new (FY23) compensation in the team member's local currency.
-   * The Base Only letter will list the current and new Base Salary as well as the percent increase (Total Target Cash Compensation % Change).
-   * The Base + Bonus letter will list the current and new Base Salary, the current and new Target Bonus (Variable), the current and new Total Target Cash Compensation (Base + Bonus), and the Total Target Cash Compensation % Change.
-1. Both letters will also have a section for Equity Compensation. (Additional details to be added). 
-1. Both letters will also have a section for Benefits linking to the [Compensation Calculator](https://comp-calculator.gitlab.net/) for the team member to review the value of their benefits package. The compensation calculator outlines the following benefits: Remote Benefits, General Benefits, and Entity-Specific benefits.
+1. There are a few different letter formats depending on the contract type of your team member. Please see the following examples below: 
+* [Entity Total Rewards Statement](https://docs.google.com/document/d/1EqEdyiZJcyDimxX9DVQb_vYwWXm_sV0ZfB4-IyRFYZM/edit?usp=sharing)
+* [PEO Total Rewards Statement](https://docs.google.com/document/d/1UusXHTJHybPzCqs9P89hn0g11z-jOQuemSLmkqQnI0o/edit?usp=sharing)
+* [Contractor Total Rewards Statement](https://docs.google.com/document/d/1YXc7ezgpeiZv_qxnIcTsEguhe0WivzLV_kA6LLQZf9c/edit?usp=sharing)
 1. To share the letter directly with the team member once their increase has been communicated, select the gear button to the right of the letter, select "Share with Employee", and, in the pop up prompt, select "Share" again.
    *  ![share letter](/images/handbook/people-group/Share_Letter.png)
+
+##### Total Rewards Statement Details  
+1. Total Direct Compensation: The total direct compensation is the sum of your annualized salary, bonus, and equity value vesting in FY23. Value vesting in FY23 is different than the total value of the grant, please review the equity table for additional details. 
+2. Cash Compensation: Outlining the compenents of cash compensation, the subsequent increase, and why the increase took place. 
+3. Equity Compensation in USD: The equity compensation table outlines the equity holdings team members have already been granted along with the total value of the new grants in FY23. Please note that we use a specific conversion price in the letter that is subject to change based on market fluctuations. 
+4. General Benefits: details on benefits available or used in CY21 for team members. 
+5. Entity-Specific Benefits: This is the cost of benefits paid by GitLab in CY21 for team members employed via an entity. This box would not appear on the PEO or contractor statements. 
+6. Remote Benefits: outlining the benefits available to team members specific to remote work. 
 
 ## Compensation Program Budget
 
