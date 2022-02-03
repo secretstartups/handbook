@@ -42,11 +42,7 @@ and screen-sharing communication.
 
 ## Ownership
 
-There is only ever **one** owner of an incident—and only the owner of
-the incident can declare an incident resolved. At anytime the incident owner
-can engage the next role in the hierarchy for support. With the exception of
-when GitLab.com is not functioning correctly, the incident issue should
-be assigned to the current owner.
+By default, the EOC is the owner of the incident.  At anytime the incident owner can delegate ownership to another engineer or escalate ownership to the IM.  There is only ever **one** owner of an incident—and only the owner of the incident can declare an incident resolved. At anytime the incident owner can engage the next role in the hierarchy for support. With the exception of when GitLab.com is not functioning correctly, the incident issue should be assigned to the current owner.
 
 ## Roles and Responsibilities
 
@@ -63,9 +59,10 @@ Edits made during a zoom call only last for the length of the call, so it should
 | **Role** | **Description** | **Who?** |
 | ---- | ----------- | ---- |
 | `EOC` - **Engineer On Call** | The EOC is the usually the first person alerted - expectations for the role are in the [Handbook for oncall](/handbook/on-call/#expectations-for-on-call). The checklist for the EOC is in our [runbooks](https://gitlab.com/gitlab-com/runbooks/blob/master/on-call/checklists/eoc.md). If another party has declared an incident, once the EOC is engaged the EOC owns the incident. The EOC can escalate a page in PagerDuty to engage the Incident Manager and CMOC. | The Reliability Team **Engineer On Call** is generally an SRE and can declare an incident. They are part of the "SRE 8 Hour" on call shift in PagerDuty. |
-
-| `IM` - **Incident Manager** [Information about IM onboarding](https://about.gitlab.com/handbook/engineering/infrastructure/incident-manager-onboarding/#)| The Incident Manager is engaged when incident resolution requires coordination from multiple parties. The Incident Manager is the tactical leader of the incident response team—not a person performing technical work. The IM checklist is in our [runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/incidents/general_incidents.md#imoc-checklist). The Incident Manager assembles the incident team by engaging individuals with the skills and information required to resolve the incident. | The Incident Manager On Call rotation is in [PagerDuty](https://gitlab.pagerduty.com/schedules#?query=incident%20manager) |
+| `DRI` - **Directly Responsible Individual** | The DRI is the owner of the incident and is responsible for closing the incident. | The `EOC` is the incident owner by default but they can and should transfer ownership in cases where it makes sense to do so. |
+| `IM` - **Incident Manager** [Information about IM onboarding](https://about.gitlab.com/handbook/engineering/infrastructure/incident-manager-onboarding/#) | The Incident Manager is engaged when incident resolution requires coordination from multiple parties. The Incident Manager is the tactical leader of the incident response team—not a person performing technical work. The IM checklist is in our [runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/incidents/general_incidents.md#imoc-checklist). The Incident Manager assembles the incident team by engaging individuals with the skills and information required to resolve the incident. | The Incident Manager On Call rotation is in [PagerDuty](https://gitlab.pagerduty.com/schedules#?query=incident%20manager) |
 | `CMOC` - **Communications Manager On Call** | The CMOC disseminates information internally to stakeholders and externally to customers across multiple media (e.g. GitLab issues, Twitter, status.gitlab.com, etc.). | The **Communications Manager** is generally member of the support team at GitLab. Notifications to the `Incident Management - CMOC` service in PagerDuty will go to the rotations setup for CMOC. |
+
 
 These definitions imply several on-call rotations for the different roles.
 
