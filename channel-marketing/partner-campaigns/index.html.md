@@ -40,7 +40,7 @@ In order for the Partner to be able to see and action the lead in Vartopia, the 
 1. `Prospect Share Status` = `Sending to Partner` (set by LeanData)
 1. `Partner Prospect Status` = `Qualifying` (set by LeanData)
 
-
+Watch [this video](https://youtu.be/BmmiH_ctALk) for step by step instructions where partners can view, accept, reject, re-assign and convert leads to deal registration.
 
 ## Partner Only Campaigns - MDF funded
 These campaigns are GitLab funded via MDF, but all leads are passed to the partner. We upload these lists into our systems to be able to track pipeline from resulting Deal Registrations in Vartopia. You can find Marketo and SFDC Campaign set up [here](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
