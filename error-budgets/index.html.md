@@ -187,7 +187,7 @@ Valid reasons for an exception are:
 
 1. Work for improving the error budget is scoped out and fully planned, and funded. Completing the work will take more than a single release month, and while the work is being completed it is expected that the Error Budget will be regularly spent.
 1. Work for improving the error budget is scoped out and fully planned, but the work is not currently funded. The stakeholders are in the process of securing the funding, and the Error Budget will be regularly spent until the additional funds are secured.
-1. Highest priority is to achieve a significant business goal, and the reliability of GitLab.com is not directly affected. The group is likely to regularly spend the Error Budget while they are focused on this other priority.
+1. Temporarily, the highest priority is to achieve a significant business goal, and the reliability of GitLab.com is not directly affected. The group is likely to regularly spend the Error Budget while they are focused on this other priority.
 
 Open an MR and add the stage group to the table above. In the description requesting an exception, supply the following details:
 
