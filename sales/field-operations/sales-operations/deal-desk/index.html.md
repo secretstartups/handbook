@@ -149,16 +149,20 @@ In case of a specific opportunity or quote related question please use SF Chatte
 
 ##### Slack Announcements
 
-Desk Desk process updates and announcements will be communicated via `**#sales**` and `**#sales-support**` Slack channels. 
+Desk Desk process updates and announcements will be communicated via #field-fyi, #sales and #sales-support Slack channels.  
 
 ##### Deal Desk Office Hours
 
-Weekly Deal Desk Office Hours are scheduled each Wednesday at 12 PM EST. During Month End, Office Hours will take place on Monday, Wednesday, and Friday, scheduled in both AMER and EMEA time zones. Calendar invites will be sent to Sales-All Distribution group. Priority will be given to opportunities closing within the quarter. 
+Weekly Deal Desk Office Hours are scheduled as follows:
+- EMEA Office Hours: Thursday at 10:30 GMT,
+- US Office Hours: Wednesday at 12:00 PM EST. 
+
+During Month End, Office Hours will take place on Monday, Wednesday, and Friday, scheduled in both AMER and EMEA time zones. Calendar invites will be sent to Sales-All Distribution group. Priority will be given to opportunities closing within the quarter. 
 
 Supported topics include:
 * Create or modifying a quote
 * Quote approval acceleration
-* IACV/ARR calculation
+* Net ARR calculation
 * Submitting an opportunity for close
 * Validation/segmentation of closed opportunities
 * And anything else to help drive opportunities closing within the quarter! 
