@@ -10,16 +10,30 @@ title: "Territory Planning"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview 
-The goal of reviewing your territory and tiering your accounts (customers AND prospects) is to enable you to prioritize your time and proactively work on the right customers with the right amount of effort. When your accounts are ranked effectively, you can work on a cadence that helps you grow your opportunity pipeline by spending the right amount of time depending on the potential and current value of the customer/prospect.
+Every Strategic Account Leader in Enterprise Sales should have a plan for how they're approaching their patch. A sales territory plan is a workable plan for targeting the right customers and implementing goals for income and consistent sales growth over time. 
 
-## Analyze Your Territory 
-To get started, you'll need to understand how the territory looks. 
+It’s usually done annually and updated throughout the year. It can be used for plotting a specific geographical location, or for different industries, customer types and other segments. 
 
-*Remember, keep it simple and iterate!* 
+*When do you need one?* Some SALs might be starting up a whole new territory and need a detailed, comprehensive plan, whereas others may be one of several SALs operating in their territory and may benefit from a narrower plan. The key is that you have a plan documented to reach your goals.
 
-**Steps**
-1. Start with the goal in mind (for example, build 2.5-3x quota pipeline)
-1. Determine how your territory buys software / technology, how many developers they have
-1. Understand the routes to market: Direct, Channel, and taking advantage of customer initiatives/ Programs 
-1. Use [Demandbase](/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/), GitLab's targeting and personalization platform, to review intent data and ideal customer profiles  
+## Why it matters
+Benjamin Franklin once said, "If you fail to plan, you are planning to fail." 
+
+A clear plan reflects clear thinking and a clear road to success. Your territory plan is a living document that you’ll go back to again and again to update. Use it in your strategy meetings to communicate your goals and approach with your team, and to bring them along on your vision so they can contribute effectively. Use it to help you keep track of how you’re doing against your goals over time. 
+
+Keeping your plan up-to-date will also save you time during reporting, forecasting, and quarterly business reviews as a lot of the content can be reused. As well as during performance reviews when you can easily look back on your progress as a reference point.
+
+Crafting a plan like this involves more work and effort upfront, but gets easier over time. Be sure to dedicate time to doing it right. After all, delivering a plan like this one is a core element of what it means to be a strategic account leader.
+
+**During the planning process you will:**
+
+- Analyze territory, pipeline, and account data. 
+- Identify internal and external factors that can affect your plan.
+- Identify strengths, weaknesses, opportunities, and threats operating in your territory.
+- Set goals and create targets.
+- Analyze and prioritize your accounts.
+- Develop strategies and action plans to reach your goals and targets.
+- Review and track your results.
+
+View the [internal handbook](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.el5yzzrllfsq) to access the **Territory Planning Toolkit** and to get started on your plan.
 
