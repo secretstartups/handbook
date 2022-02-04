@@ -320,10 +320,25 @@ An in-person or virtual workshop where the attendees are guided through an agend
 | Attended | Attended workshop event | Yes |
 | Follow Up Requested | Requested additional details about GitLab to be sent post event | Yes |
 
+## Allocadia Information
 
-## Marketo Program and Salesforce Campaign set-up
+If you are a user of Allocadia, you will need to  add the Allocadia ID to the `Description` field. It does not matter if you use the Category, subcategory, or line item ID. To determine which one you should use, you should be thinking "What is the highest level ID that houses all the information I want pushed from Allocadia>Marketo>SFDC."
 
-### Steps to Setup Marketo programs and Salesforce Campaigns
+You must NOT edit the campaign until the Allocadia connector has time to work. This is normally done near-real time, but if the data does not push immediately, be aware it can take minutes to hours to do so. You'll know the Allocadia connect has completed its work when you see the SFDC campaign owner change from Marketo Integration to the name of the actual person who is running the camapign as well as well as when all details are populated from Allocadia to SFDC. If you edit the campaign before the connector pushes the data over, it will break the build and you will manually have to edit all of the fields listed.
+
+The initial Plan Cost in the campaign needs 1 night to synch.
+
+The campaign meta data is a one time synch, where as the Actual Cost in Campaign (which is run off of the Campaign Tag to be Created field in Allocadia), synchs every nightly.
+
+Video explainers:
+* [Instructional Video](https://youtu.be/1681EBw5344)
+* [Sync Results Video](https://youtu.be/PocOPnJY4w0)
+
+
+# Marketo Program and Salesforce Campaign set-up
+
+
+## Steps to Setup Marketo programs and Salesforce Campaigns
 
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
 
@@ -360,7 +375,7 @@ An example of a folder setup in Marketo is:
 
 
 
-##### Step 1: Clone the Marketo program indicated below
+#### Step 1: Clone the Marketo program indicated below
 
 Be advised that some templates are being used for both `in-person` and `virutal events`. These templates have been marked as `Hybrid template`. For these templates, the naming convention is slightly different in that additional campaign information appears in the name. When naming the program, `EventType` is replaced with either `Virtual`, `In-Person`, or `Hybrid` (if an event will be both in-person and virtual).  
 
@@ -401,18 +416,14 @@ If this is to set up a program that involves a channel partner, you must also fo
 
 
 
-##### Step 2: Sync to Salesforce
+#### Step 2: Sync to Salesforce
 
 - At the program main screen in Marketo, where it says `Salesforce Sync` "not set", click on "not set"
     - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
     - Click "Save"
 
-If you are a user of Allocadia, in this step you will also add the Allocadia ID to the `Description` field. It does not matter if you use the Category, subcategory, or line item ID. To determine which one you should use, you should be thinking "What is the highest level ID that houses all the information I want pushed from Allocadia>Marketo>SFDC."
 
-[Instructional Video](https://youtu.be/1681EBw5344)
-[Sync Results Video](https://youtu.be/PocOPnJY4w0)
-
-##### Step 3: Update Marketo tokens
+#### Step 3: Update Marketo tokens
 
 - Complete the information for each token. Instructions for what to enter for each token are included in the template.
     - Note that it is important that all tokens are completed as the "Interesting Moments" Smart Campaigns pushes information to Salesforce based on the tokens. Depending on the campaign, some auto-responders and emails rely on tokens as well.
@@ -423,7 +434,7 @@ If you are a user of Allocadia, in this step you will also add the Allocadia ID 
 - Update the utm_campaign field using the following format: Campaign Tag, with no spaces, capitalization, underscores, or special characters.
 - **Partner Campaigns** will need to also to update the `{{my.partner name}}` and `{{my.partner crm id}}` for proper routing 
 
-##### Step 4: Activate Marketo smart campaign(s)
+#### Step 4: Activate Marketo smart campaign(s)
 * If this is a `Vendor Arranged Meeting` or `Executive Roundtable`, skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded. 
 * If this is `Self-Service with Promotion` or `Speaking Session` follow the below activation instructions:
      * Click the `Smart Campaigns` folder
@@ -453,7 +464,7 @@ If you are a user of Allocadia, in this step you will also add the Allocadia ID 
 - If you do not see an `Interesting Moments` campaign, check to see if that step is in `01 Processing` or `Viewed on Demand` campaigns.
 - For `Speaking Sessions` with pre-registration, find the `Pre-Registration` folder, and activate the `01 - Form Fill` step after populating the smart list with the correct form and landing page.
 
-##### Step 5: Update the Salesforce campaign
+#### Step 5: Update the Salesforce campaign
 *If you are utilizing the Allocadia, please see below instructions.*  
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
@@ -474,38 +485,34 @@ If you are a user of Allocadia, in this step you will also add the Allocadia ID 
     - Click "Save"
 - Add the Marketo program link and SFDC campaign link to the epic.
 
-##### Step 5: Update the Salesforce campaign - Using Allocadia 
+#### Step 5: Update the Salesforce campaign - Using Allocadia 
 Using an integration from Allocadia>Marketo, Marketo>SFDC, the information you've given to Allocadia will push to your SFDC campaign. Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign), the only thing you will need to manually update in SFDC is the following: 
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Budgeted Cost in SFDC pulls from your `plan` number, not your `forecast` number from Allocadia. If you do not have a `plan` cost in Allocadia then Budgeted Cost in SFDC will remain blank. If this is the case, you will want to add in your Budgeted Cost manually into your SFDC campaign.  
 
-You must NOT edit the campaign until the Allocadia connector has time to work. This is normally done near-real time, but if the data does not push immediately, be aware it can take minutes to hours to do so. You'll know the Allocadia connect has completed its work when you see the SFDC campaign owner change from `Marketo Integration` to the name of the actual person who is running the camapign as well as well as when all details are populated from Allocadia to SFDC. If you edit the campaign before the connector pushes the data over, it will break the build and you will manually have to edit all of the fields listed in [Step 5. above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign). 
+You must NOT edit the campaign until the Allocadia connector has time to work. For additional Allocadia details [go here](/handbook/marketing/marketing-operations/campaigns-and-programs/#allocadia-information)
 
-The initial `Plan` Cost in the campaign needs 1 night to synch.  
+### Steps to Setup Content Syndication in Marketo and SFDC
 
-The campaign meta data is a one time synch, where as the `Actual Cost in Campaign` (which is run off of the `Campaign Tag to be Created` field in Allocadia), synchs every nightly.   
-
-#### Steps to Setup Content Syndication in Marketo and SFDC
-
-##### Step 1: [Clone this program](https://app-ab13.marketo.com/#PG5149A1)
+#### Step 1: [Clone this program](https://app-ab13.marketo.com/#PG5149A1)
 
 - Use format `YYYY_Vendor_NameofAsset`
 - If the content syndication is part of a package with an external vendor, promoting several assets or webcasts, keep all of the Marketo programs together in a folder for easy access as part of a single vendor program.
 
-##### Step 2: Sync to Salesforce
+#### Step 2: Sync to Salesforce
 
 - At the program main screen in Marketo, where it says `Salesforce Sync` with "not set", click on "not set"
     - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
     - Click "Save"
 
-##### Step 3: Update Marketo tokens
+#### Step 3: Update Marketo tokens
 
 - Change the `Content Title` to be the title as it appears in the Content Syndication program
 - Change the `Content Type` to be the type of content
     - The only available options are `Whitepaper`, `eBook`, `Report`, `Video`, or `General`
     - If you add a Content Type value other than the above, the record will hit an error when syncing to Salesforce because these are the only currently available picklist items for `Initial Source`
 
-##### Step 4: Activate Marketo smart campaign
+#### Step 4: Activate Marketo smart campaign
 
 - In the `01 Downloaded` smart campaign, the "Smart List" should be listening for `Added to List > Vendor List`. This list is under the Asset folder in the program. It will contain all of the members that were uploaded who downloaded the content.
     - The correct program should automatically apply when cloned, so _you don't need to do anything here._
@@ -513,7 +520,7 @@ The campaign meta data is a one time synch, where as the `Actual Cost in Campaig
 - Click to the "Schedule" tab and click `Activate`. It should be set that a person can only run through the flow once.
     - When the leads are loaded to the campaign by Marketing Ops, the leads will immediately have an interesting moment, +15 score, and initial source, person source and person status update as needed.
 
-##### Step 5: Update the Salesforce campaign
+#### Step 5: Update the Salesforce campaign
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
@@ -529,7 +536,7 @@ The campaign meta data is a one time synch, where as the `Actual Cost in Campaig
 - Add the Marketo program link and SFDC campaign link to the epic.
 - If the program is being ran by Digital Marketing, add the SFDC campaign under the parent campaign `Demand Gen Pulishers/Sponsorships`
 
-#### Steps to Setup Surveys in Marketo and SFDC
+### Steps to Setup Surveys in Marketo and SFDC
 There are two templates to consider when setting up surveys in Marketo, one being specific to Simply Direct and the other a more general survey template. For this section and where instructions diverge, Simply Direct instructions will be labeled with `a` and the more general set up with `b`. 
 
 Simply Direct will provide you with an unique `Survey Name` that they will pass over into Marketo via the API populating the `Person Source` and the `SurveyName` fields. This name is unique to each survey that is ran. `Person Source` will not update if the lead already exists in Marketo.
@@ -537,18 +544,18 @@ Simply Direct will provide you with an unique `Survey Name` that they will pass 
 SimplyDirect is also passing over the survey Q&A through the `Comment Capture` field. This will populate via a URL on the Interesting Moment and the `Web Form` field, so that the SDR following up will have full access to all of the survey questions and answers.
 
 
-##### Step 1: Clone program template
+#### Step 1: Clone program template
 - a. [Simply Direct template](https://app-ab13.marketo.com/#PG6164A1)
 - b. [General survey template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6402A1)
 - Use format `YYYY_MM_SurveyName`
 
-##### Step 2: Sync to Salesforce
+#### Step 2: Sync to Salesforce
 
 - At the program main screen in Marketo, where it says `Salesforce Sync` with "not set", click on "not set"
     - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
     - Click "Save"
 
-##### Step 3a: Update SurveyName across Smart Lists, Flows and Tokens
+#### Step 3a: Update SurveyName across Smart Lists, Flows and Tokens
 - Contact SimplyDirect and ask for the SurveyName they will pass to Marketo
 - Click into `01 Processing`
      - In Smart List, change every `SurveyName` to the name you were given. There are 3 fields on the smartlist you must change. Tokens will not work, you must update in the smart list. Do not include any extra spaces!
@@ -557,12 +564,12 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - BEFORE launch of the survey, have SimplyDirect send an existing lead, and a new lead through to make sure both are being captured.
 - Fill in necessary program tokens.
 
-##### Step 3b: Create issue for lead upload (if not Simply Direct)
+#### Step 3b: Create issue for lead upload (if not Simply Direct)
 - If the survey requires a manual upload via a list upload, focus attention on updating the `01 Processing` batch smart campaign. For manual list uploads, the batch will be activated manually by MktgOps during the upload process. 
 - If the survey requires a Zapier automation, consult MktgOps [via issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/zapier_connection_request.md) on building out the automation, MktgOps will also be the ones to activate the `01 processing` campaign
 
 
-##### Step 4: Update the Salesforce campaign
+#### Step 4: Update the Salesforce campaign
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
@@ -577,20 +584,20 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 
-##### Step 5: Troubleshooting:
+#### Step 5: Troubleshooting:
 1. Look at the `Results` tab of the smart campaign, if there are errors, you will clearly see them there.
 1. If the lead is not pushing to SFDC? Make sure that the `Person Source` is not `SurveyName`
 1. If existing leads are not being pulled into the program, it is likely the `SurveyName` field is capturing the wrong name.
 1. If net-new leads are not being pulled into the program, it is likely the `Person Source` SurveyName was not updated correctly.
 
-#### Steps to Setup Direct Mail Campaigns
+### Steps to Setup Direct Mail Campaigns
 
-##### Step 1: Create the Salesforce campaign
+#### Step 1: Create the Salesforce campaign
 - Clone the [#TEMPLATE - Direct Mail](https://gitlab.my.salesforce.com/7014M000001dlh9)
 - Update Campaign name to `whatever your campaign tag is`
 - NOTE: You do NOT need a corresponding Marketo campaign. All information and tracking is done via this campaign.
 
-##### Step 2: Update the Salesforce campaign
+#### Step 2: Update the Salesforce campaign
 - Click on `Advanced Setup` to make sure statuses correspond to those listed in the [Direct Mail progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail). Do not edit these, if you need them updated, please reach out to MktgOps.
 - Change the `Campaign Owner` to your name
 - Confirm the `type` is `Direct Mail`
@@ -604,7 +611,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Update `Region` and `Subregion` if you have the data available
 - Click Save
 
-#### Steps to Use HopIn Connector
+### Steps to Use HopIn Connector
 Follow all of the set up steps [above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-marketo-programs-and-salesforce-campaigns). You will also need to do go into the `Hopin Integration` folder in the Owned Event Template and you will see several smart campaigns and a form.
 
 **YOU MUST CONNECT HOPIN TO MARKETO BEFORE YOU TURN ON REGISTRATION IN HOPIN (STEP 1 BELOW)**
@@ -633,7 +640,7 @@ Follow all of the set up steps [above](/handbook/marketing/marketing-operations/
     - On left side nav, look for `Magic Link` and click the `Manage Invitations` tab. There you'll see who has registered (confirmed clicked) and those who haven't. You can send emails to these people who are not registered to ensure they are confirmed before the event starts.
 
 
-#### Steps to Setup Linkedin Lead Gen Form *Gated Content Only
+### Steps to Setup Linkedin Lead Gen Form *Gated Content Only
 We have listeners set up in Marketo listening certain parameters. Please check the `Marketo Listener` column below to see if a program is already set up in Marketo. If it is, you do not need to create a new listener. Otherwise, please follow the process outlined below to ensure leads are being captured.
 
 | Campaign                                 | Campaign Parameter for Tracking |Marketo Listener?|
@@ -654,7 +661,7 @@ We have listeners set up in Marketo listening certain parameters. Please check t
 | DevOps GTM                               | devopsgtm                       |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8342A1)|
 
 
-##### Step 1: [Clone this Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6911A1)
+#### Step 1: [Clone this Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6911A1)
 - Use format `YYYY_Social_Name_Campaign Parameter_Linkedin Lead Gen`
 
 _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
@@ -665,7 +672,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
     - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
     - Click "Save"
 
-##### Step 3: Update the Salesforce campaign
+#### Step 3: Update the Salesforce campaign
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
@@ -681,7 +688,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 
-##### Step 4: Go back into Marketo Template
+#### Step 4: Go back into Marketo Template
 - Update local program tokens 
 - Update the campaign smart list filter with `contains` and the prefix
    - `Fills out Linkedin Lead Gen Form`, `Lead Gen Form Name contains [parameter]` 
@@ -690,7 +697,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 - Turn on / Activate the triggered campaign in the `schedule` tab of the smart campaign
 - All linkedin programs with your form prefix will now flow through this campaign
 
-##### Step 5: Update this Handbook page
+#### Step 5: Update this Handbook page
 - Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a `yes` and a link to the parameter and campaign you have set up.
 
 
@@ -708,7 +715,7 @@ Once a landing page has been set up for a campaign, it is good practice to have 
 ## Canceling an Email send
 There are cases where an email is set to send, but you need to cancel it. There are a few ways to do this based on the type of program.
 
-#### Smart Campaign - Scheduled Send
+### Smart Campaign - Scheduled Send
 1. You can cancel specific runs by going into the smart campaign > schedule and clicking the red `x` next to the date and time of send.
 1. To cancel the entire run, go into the smart campaign > schedule > campaign actions > `Abort Campaign` .
    - You can still reschedule the send after you abort it
@@ -717,7 +724,7 @@ Marketo documentation:
 - [Stopping campaign runs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.html?lang=en)
 - [Aborting campaign](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.html?lang=en)
 
-#### Smart Campaign - Triggered Send
+### Smart Campaign - Triggered Send
 1. If the campaign is running on a triggered basis, you should go into the smart campaign > schedule and click the `deactivate` button. This will stop any lead from qualifying from the campaign again.
 1. If the campaign is running through multiple flow steps, in order to halt the leads from continuing in the flow, you must go into the smart campaign > schedule > campaign actions > `Abort Campaign`. This will stop leads from continuing in the flow, and stop any further emails from being sent out.
 
@@ -725,7 +732,7 @@ Marketo Documentation:
 - [Deactivating a smart campaign](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.html?lang=en)
 - [Aborting a smart campaign](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.html?lang=en)
 
-#### Email Batch Campaign
+### Email Batch Campaign
 This program type has a mailbox icon.
 1. If a campaign is scheduled, but hasn't sent yet. Click into the main program (mailbox) and view the control panel. You'll see 4 boxes. In the bottom right box, click `unapprove` and the email will not go out. When you are ready to reschedule, update date and time, and click `approve` in the bottom right box. All boxes will have a green checkmark signaling it is ready for send.
 1. If a campaign is actively sending and you want to stop it, click into the main program (mailbox) and in the bottom right box click `Abort Program`. This will stop the sending of emails, but will not recall any email that was already sent. You will see how many you send in the `dashboard` view. Once an email program is aborted, you cannot reschedule it again. 
@@ -752,7 +759,7 @@ Notes:
     - For *territory* - i.e. Bay Area - no more than 2,500k
 
 
-#### Instructions: (some lists and campaigns may already exist, we are in the process of updating templates to speed up this process)
+### Instructions: (some lists and campaigns may already exist, we are in the process of updating templates to speed up this process)
 [Refer to this video](https://www.youtube.com/watch?v=pjL1nNheheA&list=PL05JrBw4t0KrFeuJ4JbrDZKlp6gWX0uFf&index=6) for a walkthrough of the below steps.
 
 1. Ensure your list fits the criteria above.
@@ -780,7 +787,7 @@ Notes:
 
 Once your list is pushed from DB1 to Marketo, you will need to reference the static list that you created under the Marketo `List` folder (DB1 List Push - East Event) in your email programs or target lists (will be adding this to templates). **If you are working with Verticurl:** You will want to reference the static list you created under the Marketo `List` folder (DB1 List Push - East Event) in your invite issues so they know which list to pull for your email sends. Verticurl will also make sure all the correct compliancy filters have been applied in Marketo before scheduling your send. **You still need to have the proper email compliance filters on any of your email programs.
 
-#### Instructions: How to update Conferences with more than 1,000 attendees
+### Instructions: How to update Conferences with more than 1,000 attendees
 For list loads for conferences with more than 1,000 attendees, we should not score them or mark them as success. These are the steps to avoid that from happening. **This can only be done by a member of the MktgOps team!**
 1. Open Marketo, Navigate to Admin>Tags>Channel>Conference
 1. Uncheck `Success` box for `Attended` and save

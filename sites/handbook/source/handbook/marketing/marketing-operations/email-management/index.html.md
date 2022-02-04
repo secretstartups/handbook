@@ -41,6 +41,12 @@ We have a Marketo enforced limit on how many emails a single address can recieve
 
 The email limits are not set in campaign templates, however, if your email is set to send to more than 20,000 people, you must include a filter for `Not Sent Email in last 2 Days`.
 
+## How to Unsubscribe
+If a person asks a team member to remove them from email marketing from GitLab, the team member can take a few different steps stated below. If a person unsubscribes, they may still receive [operational emails](/handbook/marketing/marketing-operations/email-management/#operational--bypass-unsubscribe) related to their account.
+1. Send the person to the [Email Subscription Center](https://about.gitlab.com/company/preference-center/index.html) to update their preferences
+1. Send the person to the unsubscribe page (https://page.gitlab.com/UnsubscribePage.html) to unsubscribe from ALL communication
+1. On the person's SFDC record, check the `email opt out` box, which will then update the unsubscribe checkbox in Marketo and Outreach.
+1. If they are not in SFDC or refuse to go to unsubscribe page, the Marketing Operations team can manually unsubscribe them in Marketo. Create a confidential issue and alert the team in #mktgops.
 
 ### Operational / Bypass Unsubscribe
 Certain emails can bypass unsubscribe and invalid emails by being marked as `operational`. Examples include critical system alerts, account updates (policy updates, etc.), event reminders with necessary link to attend event, and auto-responders for post event recording and slides emails. Please follow this [decision tree](https://app.mural.co/t/gitlab2474/m/gitlab2474/1609875791482/41f0f728c4353fce6b50338f7ca7cc032acf1f11) for auto-responder emails to help determine whether or not your email fits the operational standards. If they do not, you must include the proper email compliance filters in order to send the email, and also uncheck the operational check box on the email. 
@@ -51,7 +57,7 @@ Emails that contain mostly marketing or promotional content like newsletters, ev
 
 ### Types of Email
 
-**Breaking Change Emails**
+**Breaking Change/Operational**
 These are transactional emails, almost always to our user base, that provide very selective needed information. This is an `operational` email that overrides the unsubscribe and would not need to comply with marketing email opt-out. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients.
 
 It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned or notified, so we are communicating to a very specific focused list. The email platform the send will come from will be determined by a few different factors, but mainly list size. If you need to request an email like this, use this the `incident_communications` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) and reference [this section](/handbook/marketing/marketing-operations/#pagerduty-and-emergency-comms).
