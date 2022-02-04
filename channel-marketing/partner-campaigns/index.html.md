@@ -130,13 +130,13 @@ These campaigns follow their own processes not found on the campaigns-and-progra
 ### Step 1: Clone Marketo program (TBC)
 - Clone [Marketo Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG9881D4)
 - Update the name to match the naming convention YYYYMMMDD__MDF Partner Name_Event Name
-- Update description with the link to the SFDC MDF request and Coupa ID and Allocadia ID (if you have it)
 
 ### Step 2: Sync Program to SFDC
 - At the program main screen in Marketo, where it says Salesforce Sync with "not set", click on "not set"
 - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
-- The description should copy over from the step above.
+- Update description with the link to the SFDC MDF request and Coupa ID and Allocadia ID (if you have it)
 - Click "Save"
+
 
 ### Step 3: Update Tokens in Marketo
 - Update `{{my.Partner CRM ID}}` with the [15-digit CRM ID](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids) of the partner that will be following up with these leads.
@@ -147,7 +147,7 @@ If you included the Allocadia ID, follow these steps. Otherwise, you'll need to 
 - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
 - `Budgeted Cost` in SFDC pulls from your plan number, not your forecast number from Allocadia. If you do not have a plan cost in Allocadia then `Budgeted Cost` in SFDC will remain blank. If this is the case, you will want to add in your `Budgeted Cost` manually into your SFDC campaign.
 
-For more information on sync times, go [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign---using-allocadia)
+For more information on Allocadia, go [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#allocadia-information)
 
 #### Step 4b: Update without Allocadia
 If you did not include the Allocadia ID in the description, you'll need to update the steps below:
