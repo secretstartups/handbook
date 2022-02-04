@@ -285,7 +285,7 @@ Please note: the frequency of Group Conversations does not recur on a specific c
 | [Brand Activation](/handbook/marketing/corporate-marketing/brand-activation/) | Adam Mittner | No | Optional |
 | [UX Research](/handbook/engineering/ux/ux-research/) | Adam Smolinski | No | Optional |
 | [Community Relations](/handbook/marketing/community-relations/) | David Planella | No | Optional |
-| [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Jean-Baptiste Larramendy | No | Optional |
+| [Sales Development](/handbook/marketing/revenue-marketing/) | Jean-Baptiste Larramendy | No | Optional |
 | [Alliances](/handbook/alliances/) | Nima Badiey | No | Optional |
 
 
