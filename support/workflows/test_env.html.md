@@ -18,7 +18,7 @@ Support Engineers need testing environments to learn how to support GitLab and a
 This page explains the main choices available to you. Some guidelines:
 
 1. You should choose a way to spin up a specific version of GitLab quickly so that you can replicate customer issues. The current recommended way to do this is to use [Support Resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md)
-1. Testing locally is also recommended - configuring a Docker / VM based system (details below) to your taste will let you quickly spin up a specific GitLab version.
+1. Testing locally is also recommended - configuring Docker Engine / VM based system (details below) to your taste will let you quickly spin up a specific GitLab version.
 1. You will need licenses for all self-managed tiers so you can match the features available with your customer's features - see the next section.
 1. For most testing, a single box Omnibus installation will be fine.
 1. If you need a more complex environment (e.g. with a runner configured), the following tools can help:
@@ -146,9 +146,14 @@ If you wish to test resources using a real domain name (instead of an IP address
 
 ### Install Docker
 
-Install [Docker Desktop for Mac](https://www.docker.com/get-started) or the
-[Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux).
-It's all you need to get started using the officially supported [Docker installation methods](https://docs.gitlab.com/ee/install/docker.html). Note that on Macs with M1 / Apple Silicon, running GitLab in Docker is not working properly for now. Check out [UTM](#utm-free--opensource---compatible-with-apple-silicon) below as an alternative for a local setup on your M1 Mac.
+
+If you'd like to use [Docker Desktop for Mac](https://www.docker.com/get-started) a subscription is required for business use. We're discussing how to handle this in [an internal issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/1787), including [some alternatives](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/1787#alternatives). 
+
+In the mean time, consider using a Cloud or local VM with [Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux) for testing
+Docker environments.
+
+Note that on Macs with M1 / Apple Silicon, running GitLab in Docker is not working properly for now. Check out [UTM](#utm-free--opensource---compatible-with-apple-silicon) below as an alternative for a local setup on your M1 Mac.
+
 
 ### Install Docker Machine
 
