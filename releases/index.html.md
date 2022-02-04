@@ -58,7 +58,9 @@ Automated tasks in the [release-tools] project are setup to drive the next steps
   - If it finds a commit that has not been previously deployed, it will start the process of creating a new package.
   - If the commit has already been deployed, the task will not take any actions.
 
-When a new package is built, it is automatically deployed to `staging.gitlab.com` and a set of automated QA integration tests are run.
+When a new package is built, it is automatically deployed to `canary.staging.gitlab.com` and a set of automated QA end-to-end/integration tests are run. Note that two sets of blocking QA tests are executed, one targeting Staging-Canary and the other targeting Staging. This is designed to assist with exposing issues arising in mixed deployment environments, where multiple versions of GitLab components are deployed that share services such as the database.
+
+After passing, it is automatically deployed to `staging.gitlab.com` and another set of automated QA end-to-end/integration tests are run. 
 
 When the automated QA tests pass, the deployment automatically progresses to the
 [canary](https://about.gitlab.com/handbook/engineering/#canary-testing) stage where it is exposed to a sub-set of Production traffic.
