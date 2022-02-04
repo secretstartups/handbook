@@ -282,7 +282,7 @@ Making decisions on bad data will cause inefficiency, re-work and ultimately bad
 
 We can mitigate this risk by:
 * Being honest and transparent about the quality of the data we are looking at (the Trusted Data framework is a great start)
-* Resisting making decisions on incomplete or not-trusted data. Being intellectually honest that tha decision is ultimately a judgement call, as the data is not complete
+* Resisting making decisions on incomplete or not-trusted data. Being intellectually honest that the decision is ultimately a judgement call, as the data is not complete
 * Tracking down data inconsistencies, and restating old data - BUT not going back in time to post-judge previous business decisions made when data was insufficient
 
 ## 16. Confusion about the expected output
