@@ -190,14 +190,16 @@ Exceptional community members may be able to participate, as well.
 | 2022-01-18 | 2022-01-21 | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager | [Marshall Cottrell](https://gitlab.com/marshall007) - Strategy and Operations (Technical)  |
 | 2022-01-24 | 2022-01-28 | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer | [Cesar Saavedra](https://gitlab.com/csaavedra1) - Sr. Technical Marketing Manager |
 | 2022-01-31 | 2022-02-04 | NO SHADOWS | NO SHADOWS |
-| 2022-02-07 | 2022-02-11 | [Kristie Thomas](https://gitlab.com/kristie.thomas) - Sr. Executive Business Administrator, Product and Engineering & CEO (interim) | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer|
-| 2022-02-14 | 2022-02-17 | [Mark Scheuber](https://gitlab.com/mscheuber)  - Sr. Strategic Account Leader | [Kristie Thomas](https://gitlab.com/kristie.thomas) - Sr. Executive Business Administrator, Product and Engineering & CEO (interim) |
+| 2022-02-07 | 2022-02-11 | NO SHADOWS | NO SHADOWS |
+| 2022-02-14 | 2022-02-17 | [Mark Scheuber](https://gitlab.com/mscheuber)  - Sr. Strategic Account Leader | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer |
 | 2022-02-22 | 2022-02-25 | AVAILABLE - REMOTE (short week due to holiday) | [Mark Scheuber](https://gitlab.com/mscheuber) (short week due to holiday) |
 | 2022-02-28 | 2022-03-04 | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager | AVAILABLE - REMOTE |
 | 2022-03-07 | 2022-03-11 | [Hannah Sutor](https://gitlab.com/hsutor) - Senior Product Manager| [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager|
 | 2022-03-14 | 2022-03-18 | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer | [Hannah Sutor](https://gitlab.com/hsutor) - Senior Product Manager |
 | 2022-03-21 | 2022-03-25 | AVAILABLE - REMOTE  | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer |
 | 2022-03-28 | 2022-04-01 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-04-04 | 2022-04-08 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-04-11 | 2022-04-15 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 
 If you have questions regarding the planned rotation schedule, please ping the [Staff Executive Business Admin to the CEO](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/). The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
