@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Feb 3 | GitLab Value Stream Assessment | Reshmi K. & Simon M. |
 | Feb 10 | GitLab Runner Sales Playbook | Darren E. |
 | Feb 17 | Q1 FY23 Channel Update | Ed C.  |
 | Feb 24 | Q1 FY23 Alliances Update | Mayank T. & Pete G.  |
@@ -45,6 +44,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-02-03 | **[GitLab Value Stream Assessment](https://youtu.be/jfM3AG6dBFY)** | Private |
 | 2022-01-06 |  **[GitLab on IBM Power - Modernization](https://youtu.be/0c0CE3JWz0Q)**     | Private    |
 | 2021-12-16 |  **[GitLab Acquires Opstrace](https://youtu.be/l1HWrdUJdjs)**      | Private  |
 | 2021-12-09 |  **[Operational Efficiencies & Flexible Hosting Options with Gitaly Cluster](https://youtu.be/zI1t0IyHayM)**     | Private |
