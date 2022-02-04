@@ -97,11 +97,29 @@ It consists of two stages:
 | Staging | [staging.gitlab.com](https://staging.gitlab.com/users/sign_in) | Pre-production testing | Frequently | [Pseudonymization of prod](https://en.wikipedia.org/wiki/Pseudonymization) | all engineers |
 
 Staging has the same topology as Production and includes the same components, since they share the same [terraform configuration](https://gitlab.com/gitlab-com/gitlab-com-infrastructure/-/tree/master/environments/gstg).
-It has a canary environment similar to production, and new releases are deployed and validated in that environment first before going any further.
+
+It has a canary environment similar to production, and new releases are deployed and validated in that environment first before going any further. The `Staging-Canary` environment has some additional features to take note of when it comes to deployment and usage that are detailed in its own environment entry.
 
 Staging deployments precede production deployments as described in [releases](/handbook/engineering/releases), but Staging is deployed a lot more frequently (at least every few hours, given the build is green). This would be a static environment with an pseudonymized production database. The DB is a snapshot of the production DB (updated only often enough to keep migration times to a minimum).
 
 If you need an account to test QA issues assigned to you on Staging, you may already have an account as Production accounts are brought across to Staging. Otherwise, if you require an account to be created, create an issue in [the access-request project](https://gitlab.com/gitlab-com/team-member-epics/access-requests#pick-a-template) and assign to your manager for review. Requests for access to database and server environments require the approval of your manager as well as that of one of the Infrastructure managers. The same [access-request tracker](https://gitlab.com/gitlab-com/team-member-epics/access-requests#pick-a-template) should be used to request this type of access.
+
+### Staging-Canary
+
+| **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
+| ---- | --- | ------- | ------ | -------- | --------------- |
+| Staging-Canary | [canary.staging.gitlab.com](https://canary.staging.gitlab.com/users/sign_in) | Pre-production testing | Frequently | [Pseudonymization of prod](https://en.wikipedia.org/wiki/Pseudonymization) | all engineers |
+
+Staging-Canary is a subset of infrastructure of Staging, sharing many of its components. This additional environment subset is designed to assist us with capturing issues arising due to mixed deployments, where we have multiple versions of one or more components of GitLab that share services such as the database.
+
+Staging-Canary deployments precede Staging deployments as described in [releases](/handbook/engineering/releases), with deployments occuring with the same frequency of Staging. It is important to note that there are two sets of blocking `smoke` and `reliable` QA tests that are executed on deployment. One set of tests targets Staging-Canary specifically. The other set targets Staging. **Both sets of tests must pass** for the Staging-Canary deployment to succeed. This is designed specifically to help flush out issues that occur from mixed version deployment environments. You can determine which environment tests are failing in by examining the Downstream QA pipelines.
+
+Accessing Staging-Canary can be accomplished in two ways:
+
+- Using the subdomain [canary.staging.gitlab.com](https://canary.staging.gitlab.com/users/sign_in)
+- Using the subdomain [staging.gitlab.com](https://staging.gitlab.com/users/sign_in) _**with the addition**_ of setting a `gitlab_canary=true` cookie. When the cookie exists, traffic will be routed to canary.staging.gitlab.com. This is the same cookie set by [next.gitlab.com](https://next.gitlab.com), however, it must be set by the user manually or programmatically.
+
+If you have access to Staging, you should have access to Staging-Canary. Follow the same process for requesting access as listed in [Staging](/handbook/engineering/infrastructure/environments/index.html#staging)
 
 ### Staging Ref
 
