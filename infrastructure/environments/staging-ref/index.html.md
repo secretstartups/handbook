@@ -113,6 +113,10 @@ Note that GitLab configuration changes will be overwritten by a new deployment t
 
 Sanity or Full QA pipeline may be triggered on demand in [staging-ref](https://ops.gitlab.net/gitlab-org/quality/staging-ref/-/pipeline_schedules) project. Please reach out to [Quality on-call DRIs](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#schedule) if there are any questions.
 
+#### Monitoring
+
+Monitoring implementation was done in ([epic#594](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/594)). Documentation can be found in the [runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/staging-ref/get-monitoring.md). 
+
 ### Future iterations and known limitations
 
 Staging Ref environment has some known limitations that will be worked on:
@@ -120,7 +124,6 @@ Staging Ref environment has some known limitations that will be worked on:
 - Test data configuration will be explored ([epic#7020](https://gitlab.com/groups/gitlab-org/-/epics/7020))
 - Configure CustomersDot portal for Staging Ref ([issue#342150](https://gitlab.com/gitlab-org/gitlab/-/issues/342150))
 - Incoming email setup ([issue#348970](https://gitlab.com/gitlab-org/gitlab/-/issues/348970))
-- Monitoring ([epic#594](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/594))
 - More advanced configurations like Geo ([issue#350741](https://gitlab.com/gitlab-org/gitlab/-/issues/350741))
 - Load testing ([issue#344223](https://gitlab.com/gitlab-org/gitlab/-/issues/344223), [issue#344224](https://gitlab.com/gitlab-org/gitlab/-/issues/344224))
 - QA test session reports are not linked to Release tasks ([issue#2168](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2168))
