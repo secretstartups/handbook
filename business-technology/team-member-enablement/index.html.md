@@ -92,9 +92,10 @@ New to Gitlab and looking for some IT tips and tricks? This is the spot for you,
 
 - Senior Director, IT Operations - [Robert Rea](https://about.gitlab.com/company/team/#rrea1), rrea@gitlab.com, @rrea1
 - Manager of IT - [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis), pkaldis@gitlab.com, @pkaldis
-- Lead, IT Analyst Americas - [Marc Di Sabatino](https://about.gitlab.com/company/team/#marc_disabatino), mdisabatino@gitlab.com, @marc_disabatino
+- Senior, IT Analyst Americas - [Marc Di Sabatino](https://about.gitlab.com/company/team/#marc_disabatino), mdisabatino@gitlab.com, @marc_disabatino
 - IT Analyst Americas - [Jenny Wong](https://about.gitlab.com/company/team/#jwong6), jwong@gitlab.com, @jwong6
 - IT Analyst EMEA - [Paulius Laurinavicius](https://about.gitlab.com/company/team/#plaurinavicius), plaurinavicius@gitlab.com, @plaurinavicius
+- IT Analyst EMEA - [Ian Forde](https://about.gitlab.com/company/team/#iforde), iforde@gitlab.com, @iforde
 - IT Analyst APAC -  [Steve Ladgrove](https://about.gitlab.com/company/team/#sladgrove), sladgrove@gitlab.com, @sladgrove
 - System Administrator - [Mohammed Al Kobaisy](https://about.gitlab.com/company/team/#malkobaisy), malkobaisy@gitlab.com, @malkobaisy
 - IT Systems Engineer -  [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), dwheeler@gitlab.com, @dillonwheeler
