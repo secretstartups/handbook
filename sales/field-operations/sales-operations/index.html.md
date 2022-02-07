@@ -35,6 +35,7 @@ Sales Operations main focus is on the Sales organization and supports this group
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/sales/field-operations/sales-operations/deal-desk/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Deal Desk</a>
+    <a href="/handbook/sales/field-operations/sales-operations/order-management/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Order Management</a>
     <a href="/handbook/resellers/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Channel Partner</a>
     <a href="/handbook/sales/field-operations/field-enablement/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Field Enablement</a>
     <a href="/handbook/sales/field-operations/sales-strategy/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Strategy</a>
