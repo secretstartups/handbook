@@ -54,7 +54,7 @@ IBM and GitLab are helping customers accelerate their DevOps adoption. In this v
 Learn about how the power of GitLab Auto DevOps can help increase productivity and speed up releases. [Read More -->](https://about.gitlab.com/blog/2021/01/22/cd-automated-integrated/)
 
 ### Did You Know? 🔢
-Finance and Sales Operations have collaborated to introduce a **new bookings policy that will determine the correct period to close a sales-assisted deal**. This policy is effective 2021-02-01, and can be [reviewed in full here](/handbook/sales/field-operations/order-processing/#fy22-bookings-policy). 
+Finance and Sales Operations have collaborated to introduce a **new bookings policy that will determine the correct period to close a sales-assisted deal**. This policy is effective 2021-02-01, and can be [reviewed in full here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking). 
 
 *Policy Summary*
 
