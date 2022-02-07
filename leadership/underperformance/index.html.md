@@ -148,7 +148,6 @@ Remediation options will vary based on if the team members underperformance is s
 
 - [Coaching](/handbook/leadership/underperformance/#coaching)
 - [Written Performance Letter](https://about.gitlab.com/handbook/leadership/underperformance/#written-performance-letter)
-- [Written Warning](/handbook/leadership/underperformance/#written-warning)
 - [Performance Improvement Plan (PIP)](/handbook/leadership/underperformance/#performance-improvement-plan-pip)
 - [Letting Someone Go](/handbook/leadership/underperformance/#letting-someone-go)
 
@@ -231,7 +230,7 @@ While the coaching period is taking place, ideally the direct Manager provides w
 Many companies use a PIP for most involuntary offboarding, as documented support for releasing a team member.
 At GitLab we think that giving someone a plan while you intend to let them go is a bad experience for the team member, their manager, and the rest of the team.
 
-A PIP at GitLab is not used to "check the box;" a PIP is a genuine last chance to resolve underperformance.
+A PIP at GitLab is not used to "check the box;" a PIP is a genuine opportunity to help clarify underperformance and areas of focus.  
 You should only offer a PIP if you are confident that the team member can successfully complete it. The team member should also be committed to successfully completing the PIP and maintaining the level of performance arrived at through the PIP. A PIP will not be successful unless both the team member and the manager believes the team member can succeed.
 
 For team members who truly lack the **skill** for the role or for those team members who lack the **will** to be successful, a PIP should not be offered. PIPs, as mentioned above, are for team members who with additional guidance, coaching, resources or tools have the ability to improve and sustain long-term performance.
