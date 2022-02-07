@@ -208,7 +208,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Qualified candidates will be invited to schedule a 30 minute screening call with one of our recruiters
 * Next, qualified candidates will meet with the hiring manager
+* Next, qualified candidates will be asked to supply a writing sample and complete a short writing assignment (e.g. up to 500 words, which will be detailed by the hiring manager)
 * Next, qualified candidates will meet with 2 - 4 team members.
-* Candidates may be asked to supply some writing samples
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
