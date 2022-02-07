@@ -435,4 +435,4 @@ After adding it in the Support Week in Review, you then want to cross-link
 * [Zendesk Global support portal](https://support.gitlab.com)
 * [Zendesk US Federal support portal](https://federal-support.gitlab.com)
 * [zendesk-theme Global repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-theme)
-* [zendesk-theme US Federal repo](https://ops.gitlab.net/gitlab-com/support/zendesk-us-federal/zendesk-theme)
+* [zendesk-theme US Federal repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zendesk-theme)
