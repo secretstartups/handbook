@@ -83,7 +83,7 @@ Those interested in these roles must:
 
 Process for selection:
 
-- Upcoming Interim and Acting manager roles will be discussed over the Engineering and Development Staff meetings.
+- Upcoming Interim and Acting manager roles will be discussed over the Staff/Department meetings and/or via Department Slack channels.
 - Leadership can gather interest from their team members for the upcoming roles.
 - Based on the above criteria the assessment will take place and most suitable team member will be selected for the role.
 
@@ -110,19 +110,21 @@ When a team member is pursuing a people manager role (Level Manager+) long term 
 
 _Note that `previous management experience` can be management experience in a previous organization, or management experience at GitLab. ["Acting"](/handbook/people-group/promotions-transfers/#acting) role management experience at GitLab can also count towards the 6 month threshold._
 
-###### Exceptions
+##### Exceptions
 
 For Director+ positions no interim is required.
 
 Exceptions can also be reviewed on a case-by-case basis depending on readiness for team members who have served in acting roles, and who have passed the interview process for a permanent role.
 
-###### Ending Interim Period
+#### Timeline for interim roles
 
-For details on logistics please refer to the [promotions and transfers page](/handbook/people-group/promotions-transfers/#interim-and-acting-roles).
+The set timeline is for interim roles to be 3 months. There might be situations where an interim role does not need to be 3 months but a shorter period. This can happen when either the below success criteria are met before the 3 months pass or the team member has had experience with the new role prior to starting the interim period (for example via an acting role). If this is the case please reach out to your Department Head and People Business Partner to review. Above all we recommend an interim role to not last any longer than 3 months. For acting roles there is no set timeline.
 
-Interim Manager positions are for individuals who are pursuing the role long term: the requirement is that, before moving into the role full time, they will make at least one successful hire. The official promotion will not occur before 30 days after that person's hire, so that we can assess whether the hire was truly successful. If the new hire's success is indeterminate at the 30-day mark, then we will continue to review until a firm decision is made. If the new hire is not successful, that does not mean that the Interim Manager cannot eventually move into the full-time role.
+##### Success criteria for Interim Roles
 
-In some cases, or for Director level interim roles, it may not be practical or headcount planning might not allow for the Interim Manager to make a new hire. In this case the Interim Manager and the interim manager's manager should agree on success criteria based on the requirements of the role. Examples of other success criteria are (multiselect):
+The main success criteria for interim managers at GitLab is to make one successful hire. The official promotion will not occur before 30 days after that person's hire, so that we can assess whether the hire was truly successful. If the new hire's success is indeterminate at the 30-day mark, then we will continue to review until a firm decision is made. If the new hire is not successful, that does not mean that the Interim Manager cannot eventually move into the full-time role.
+
+In some cases, it may not be practical, fitting with the interim timeline or headcount planning might not allow for the Interim Manager to make a new hire. In this case the Interim Manager and the interim manager's manager should agree on success criteria based on the requirements of the role. Examples of other success criteria are (multiselect):
 
 - Successfully pass an interview(s) with the Leader(s) of the department(s) around team management competencies/scorecard for Manager;
 - Successfully pass team member relations case role play with the [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division);
@@ -130,7 +132,9 @@ In some cases, or for Director level interim roles, it may not be practical or h
 - Perform a [Talent Assessment](/handbook/people-group/performance-assessments-and-succession-planning/#talent-assessment-options) with the manager's manager to determine readiness for the role;
 - Gather 360 feedback via Culture Amp for the manager.
 
-Once the Interim Manager's first new hire has been at GitLab for 30 days, or other agreed success criteria has been met, the Interim Manager can submit a [promotion document](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change) to their manager. The goal of this process is to have a determination made by the interim manager's manager about the promotion to a permanent manager role after the agreed success criteria has been satisfied. Generally we aim to have the interim period not to exceed 4 months before turning into a fulltime role.
+Once the Interim Manager's first new hire has been at GitLab for 30 days, or other agreed success criteria has been met, the Interim Manager can submit a [promotion document](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change) to their manager.
+
+For more details on logistics of ending an interim or acting period please refer to the [promotions and transfers page](/handbook/people-group/promotions-transfers/#interim-and-acting-roles).
 
 ## Roles
 
