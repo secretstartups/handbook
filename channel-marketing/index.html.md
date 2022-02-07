@@ -88,16 +88,13 @@ that details the FMM process where CAMs can read more about how to complete [the
 
 ## Requesting MDF funds
 
-- Approved Select Partners will submit [MDF proposals through the partner portal](https://docs.google.com/forms/d/1DTpKzLHiQmai7clipbHCv0pHX9Qz9EymnMHGPMMz3To/viewform?edit_requested=true), and GitLab approvers will be notified of the request via email generated from the Google form.
+- Approved Select Partners will submit [MDF proposals through the Partner Portal](https://partners.gitlab.com/English/Partner/SFDC/MDF2/Request/Create), and GitLab approvers will be notified of the request via email.
     + The Channel Marketing DRI will create a confidential new issue [`new_channel_mdf_request`](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/new#new_channel_mdf_proposal) for the review and approval process for the MDF proposal - This kicks off the official process
        +  All documentation, analysis, thoughts and approvals will be captured within that issue
        +  Each issue will be associated to the appropriate `Quarterly MDF Epic`
     +  The MDF proposal will go through 3 levels of approvals 
        + Level 1 approval - Channel Account Manager (CAM)
-       + Level 2 approval - Channel Marketing
-       + Level 3 approval - Field Marketing
-          + For efficiency purposes, Channel Marketing will assign the Level 3 approver for FMM to the appropriate FMM Manager for the region and PubSec
-          + The FMM Manager will then allocate to the appropriate FMM manager in the region of the MDF request. (see issue template for more details) 
+       + Level 2 approval - Samara Souza, Sr Partner Program Manager
     +  Once the MDF request has been either approved or declined the partner will be notified: 
           + If declined, the Channel Marketing DRI will reach out to the partner and let them know. We will copy the CAM on the notificiation
           + If approved, the FMM will be the DRI for reaching out to the partner contact in the proposal to review dates of execution and provide any other guidance
@@ -113,11 +110,13 @@ that details the FMM process where CAMs can read more about how to complete [the
 
 These activities are captured as `Campaign Type Details` on the campaign level in Salesforce.com for `Partner - MDF` [Campaign Type](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) only.
 
-### Submitting Proof of Performance (POP) for MDF 
+### Submitting Proof of Performance (POP) and Invoice for MDF 
 
-- Once the MDF campaign is completed, the partner has 30 days to submit their [Proof of Performance (POP)](https://docs.google.com/forms/d/e/1FAIpQLSeb_r6c7xo4KdxXWbwelmAJiDyVAF5UxMxeppypH2C0oQ8vhQ/viewform) for reimbursement.
-- Once a POP is completed, the Channel Marketing Manager will create an issue [`channel_mdf_pop`](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/new#channel_mdf_pop) and complete Step 1 
-- Once Step 1 is completed, Channel Marketing will notify Finance for their review and reimbursement payment to the partner
+- Once the MDF campaign is completed, the partner has 30 days to submit their [Proof of Performance (POP)](https://partners.gitlab.com/English/Partner/SFDC/MDF2/Manage) and Invoice for reimbursement.
+    + Click on the MDF activity listed
+    + Go to attachements and upload POP and Invoice
+- Once a POP is completed, the Partner Program Manager will create an issue [`channel_mdf_pop`](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/new#channel_mdf_pop) and complete Step 1 
+- Once Step 1 is completed, Samara Souza will send Finance the invoice for their review and reimbursement payment to the partner
 
 ## Requesting Swag for Channel events and awards
 CAMs can now order swag for approved co-marketing events or other approved awards through Channel Marketing’s partner swag portal.  Please allow 10-15 business days for the approval and processing of your request plus additional shipping time. 
