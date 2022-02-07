@@ -16,12 +16,21 @@ description: "The Deal Desk team's mission is to streamline the opportunity mana
 
 The Deal Desk team's mission is to streamline the opportunity management process while acting as a trusted business partner for field sales. We are the first point of contact for sales support. 
 
-### Key Focus Areas
+### What We Do
     
-*  Sales Support
-*  Quote Configuration
-*  Complex/Non-standard Deal structure
+*  Sales Support 
+*  Troubleshooting Quote Configuration
+*  Complex/Non-standard Deal Structure
+*  Deal Structure Approval Guidance
 *  Month End / Quarter End Reconciliation 
+
+### Out of Scope
+
+* Standard Quote Creation
+* Opportunity Creation
+* Forecast Management 
+* RFP/Vendor Form Responses
+* Customer / Partner facing communication 
 
 ### Helpful Links
 
@@ -48,11 +57,31 @@ The Deal Desk team's mission is to streamline the opportunity management process
     *   [Billing FAQs and Useful Tips](https://gitlab.com/gitlab-com/finance/-/wikis/Billing-Team-FAQs-&-Useful-Tips)
     *   Sample Order Form 
 
-### **Sales Support**
 
-#### Deal Desk SLA 
+### Deal Desk - A Global Presence
+
+The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 5:00pm for the local time of the team member. If a complex case or non standard deal request is submitted after 4:00PM (Local Time) the case will be prioritized the following business day.  
+
+| Region | Standard Support Hours |
+|----- | ----- | 
+| APAC  | 8:00AM - 5:00PM (IST) | 
+| EMEA | 8:00AM - 5:00PM (GMT)  | 
+| AMER | 7:00AM - 5:00PM (PT) |
+
+### Deal Desk Performance Indicators
+
+#### Deal Desk KPIs
+
+#### 1. Regional Support Satisfaction 
+
+All regions will recieve a Quarterly Customer Satisfaction survey at the beginning of each new quarter. Our team aims for a 92% satisfaction rating for their supported region. This survey is a valuable tool to provide feedback on areas of improvement related to the Quote to Cash lifecyle. 
+
+Results from the survey will be used to evaluate team member performance and to idenitify areas for improvement. 
+
+#### 2. Deal Desk  Case SLAs 
 
 The Deal Desk team will do their best to respond to each request to '@sales-support' within 6 business hours. Revenue generating or current quarter requests will take priority, especially during Month & Quarter End. If a task is not resolved within 24 hours it will be escalated (if necessary). 
+The SLAs below are applicable (especially for contract resets and ramp deals) if all the necessary information is provided in the request.
 
 | Type of Request | First Response | Resolution |
 |----- | ----- | ------| 
@@ -63,7 +92,7 @@ The Deal Desk team will do their best to respond to each request to '@sales-supp
 | Contract Reset / Co-Term | 6 Hours | 24 Hours | 
 | RFP/Vendor Forms | 6 Hours | Dependent on AM |
 
-### SLA for EoA Ramp Deal Requests
+##### SLA for EoA Ramp Deal Requests
 
 The Deal Desk team will respond to E0A Ramp requests as quickly as possible. However, due to the complexity involved in building ramp deals, the SLA for an EoA Ramp Deal Order Form creation is as follows:
 
@@ -74,9 +103,23 @@ The Deal Desk team will respond to E0A Ramp requests as quickly as possible. How
 
 A Deal Desk team member will respond to your chatter request with an estimate on when the Order Form will be complete. Please let us know if your customer requires the quote in advance due to lengthy procurement cycles or budget planning reasons - exceptions will be considered in cases of urgency, or to meet a customer's needs.
 
-#### Deal Desk - A Global Presence
+#### Escalation Path for Case Review
 
-The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 6:00pm for the local time of the team member.
+Cases that are urgent, customer impacting, or critical to buisness may be prioritized upon request. If the case has been submitted after Standard Support hours, you may escalated the case for a different regional team to review in the #sales-support Slack channel. You may also tag regional Deal Desk Managers for review and assitance in delegating the case. 
+
+Cases in this queue must be urgent and business critical. Cases that are routinely escalated out of indiviudal convienience instead of legitimate urgency will be addressed with Sales Management. 
+
+#### Reports To Track Deal Desk SLA 
+
+[Cases / Average First Response](https://gitlab.my.salesforce.com/00O4M000004edoT)
+
+#### 3. Case Reduction through Proactive Support - Training, Documentation, and System Improvements 
+
+The Deal Desk team will be responsible for taking action on feedback recieved in our Quarterly CSAT survey by improving process related to common quoting errors, opportuntiy bugs, or gaps in process documentation. The goal is to decrease the number of cases and enable the field to complete the standard duties related to quoting without Deal Desk intervention. Deal Desk will always assist in complex or non-standard deals. 
+
+In addition, the following reports are used to ensure an evenly balanced workload between team members. Data will be used to identify process gaps, inefficiencies, and trends or common errors in the Quote to Cash lifecycle with the mission to improve these areas.
+
+(LIST REPORTS USED TO TRACK GENERAL VOLUME AND WORKLOAD)
 
 #### Salesforce Chatter Communication
 
@@ -106,16 +149,20 @@ In case of a specific opportunity or quote related question please use SF Chatte
 
 ##### Slack Announcements
 
-Desk Desk process updates and announcements will be communicated via `**#sales**` and `**#sales-support**` Slack channels. 
+Desk Desk process updates and announcements will be communicated via #field-fyi, #sales and #sales-support Slack channels.  
 
 ##### Deal Desk Office Hours
 
-Weekly Deal Desk Office Hours are scheduled each Wednesday at 12 PM EST. During Month End, Office Hours will take place on Monday, Wednesday, and Friday, scheduled in both AMER and EMEA time zones. Calendar invites will be sent to Sales-All Distribution group. Priority will be given to opportunities closing within the quarter. 
+Weekly Deal Desk Office Hours are scheduled as follows:
+- EMEA Office Hours: Thursday at 10:30 GMT,
+- US Office Hours: Wednesday at 12:00 PM EST. 
+
+During Month End, Office Hours will take place on Monday, Wednesday, and Friday, scheduled in both AMER and EMEA time zones. Calendar invites will be sent to Sales-All Distribution group. Priority will be given to opportunities closing within the quarter. 
 
 Supported topics include:
 * Create or modifying a quote
 * Quote approval acceleration
-* IACV/ARR calculation
+* Net ARR calculation
 * Submitting an opportunity for close
 * Validation/segmentation of closed opportunities
 * And anything else to help drive opportunities closing within the quarter! 
