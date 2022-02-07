@@ -10,21 +10,34 @@ description: "Quality Engineering team for the Ops Section"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Engineers in this team are embedded in the [Ops section].
+## Team Handles
 
-## Areas of Responsibility
-
-All stages under [Ops section].
-* **[Verify stage]**: CI tools, Merge Trains
-  * Third-party CI: Jenkins, Bamboo, etc.
-* **[Release stage]**: Continuous Delivery, Review Apps, Release Automation, Feature Flags, Pages
-* **[Package stage]**: Registry Integration for containers, binaries
-* **[Configure stage]**: Application, Infrastructure, Auto DevOps
-* **[Monitor stage]**: APM, Logging, Tracking
+| **GitLab Team Handle** | [`@gl-quality/ops-qe`](https://gitlab.com/gl-quality/ops-qe) |
+| **Slack Channel** | [#g_qe_ops](https://gitlab.slack.com/archives/CUGNRS97V) |
+| **Slack Handle** | `@ops-qe-team` |
+| **Team Boards** | [Team Board](https://gitlab.com/groups/gitlab-org/-/boards/978348) |
+| **Issue Tracker** | [quality/team-tasks](https://gitlab.com/gitlab-org/quality/team-tasks/issues/) |
 
 ## Team members
 
-<%= direct_team(manager_role: 'Quality Engineering Manager, Ops') %>
+<%= direct_team(manager_role: 'Quality Engineering Manager, Ops') %>Engineers in this team are embedded in the [Ops section].
+
+## OKRs
+
+Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/okrs/). The below shows current and previous quarter OKRs; it updates automatically as the quarter progresses.
+
+### Current quarter
+
+<iframe src="https://app.ally.io/public/IsmLqFlzpThYLyY" class="dashboard-embed" height="1000" width="100%" style="border:none;"> </iframe>
+
+### Previous quarter
+
+<iframe src="https://app.ally.io/public/j7YLj7zBxR45BjC" class="dashboard-embed" height="1000" width="100%" style="border:none;"> </iframe>
+
+## Quality Performance Indicators for the Ops Section
+
+(<a href="https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+<embed width="100%" height="550" src="<%= signed_periscope_url({ dashboard: 736012, embed: 'v2', filters: [{name: 'Development_Section' , value: 'ops' }]}) %>">
 
 [Ops section]: /handbook/product/categories/#ops-section
 [Configure stage]: /handbook/product/categories/#configure-stage
