@@ -55,7 +55,10 @@ response, analysis, documentation, ongoing management and reporting of incidents
 * [Engaging Security Engineer On-Call](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html)
 * [GitLab SIRT On-Call Guide](https://about.gitlab.com/handbook/engineering/security/secops-oncall.html)
 1. [On-call](https://about.gitlab.com/handbook/on-call/) 
-*  
+1. Reliability
+* [Incident Managemnt](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/)
+1. Support
+* [tbd]
 
 
 
@@ -71,9 +74,9 @@ response, analysis, documentation, ongoing management and reporting of incidents
 
 | Working Group Role  | Person           | Title                                  |
 |---------------------|------------------|----------------------------------------|
-| Facilitator         | Anna Liisa Moter, Bistra Lutz    | Manager Reliability, Manager SIRT |
-| Exec Sponsor        | Steve Lloyd      | VP Infrastructure         |
-| Member              | Aaron Blanco          | SIRT member                     |
+| Facilitator         | [Anna Liisa Moter](@amoter), [Bistra Lutz](@blutz1)    | Manager Reliability, Manager SIRT |
+| Exec Sponsor        | [Steve Lloyd](@sloyd)      | VP Infrastructure         |
+| Member              | [Aaron Blanco](@ablanco3), [Anthony Fappiano](@afappiano)          | SIRT member, Manager Reliability                   |
 
 
 
@@ -85,11 +88,13 @@ response, analysis, documentation, ongoing management and reporting of incidents
 * SIRT Engineers 
 * Development Team
 * Quality Team
+* Support Team
 
 
 ### General
 * As a GitLab employee who can raise an incident, I know how incident can be initiated 
-* As a GitLab employee who can raise an incident, I have a general understanding  about incident severity levels.
+* As a GitLab employee who can raise an incident, I have a general understanding  about incident severity levels
+* As a GitLab employee who can raise an incident, I understand the high level process of Incident Management and its importance to the business
 * As a GitLab employee who can raise an incident, I can contact the right team via dedicated slack channel.
 * As a GitLab employee who can raise an incident, I can easily find a page in the handbook that documents the Incident Response Procedures
 
@@ -105,11 +110,13 @@ response, analysis, documentation, ongoing management and reporting of incidents
 
 
 #### Reliability Engineers 
-* 
+* As a Reliability Engineer, I know how to level an incident in a manner that is consistent across the org
+* As a Reliability Engineer, I know how to engage the other roles during an incident
+* As a Reliability Engineer, I know when to transition from Incident identification, to mitigation to resolution and post-incident activities
 
 
 #### Development Team
 
-*
+* As a leader in Development who is part of the Incident Manager rotation, I am clear on the role's responsibilities and how the role supports the Incident Management process.
 
 #### Quality Teams 
