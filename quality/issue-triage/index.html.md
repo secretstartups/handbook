@@ -223,15 +223,15 @@ Severity should be assessed using the following table:
 
 | Severity | Availability impact |
 |-|-|
-| `~severity::1` | Absense of this limit enables a single user to negatively impact availablity of GitLab |
-| `~severity::2` | Absense of this limit poses a risk to reduced availability of GitLab |
-| `~severity::3` | Absense of this limit has a negative impact on ability to manage cost, performance, or availability |
+| `~severity::1` | Absence of this limit enables a single user to negatively impact availablity of GitLab |
+| `~severity::2` | Absence of this limit poses a risk to reduced availability of GitLab |
+| `~severity::3` | Absence of this limit has a negative impact on ability to manage cost, performance, or availability |
 | `~severity::4` | A limit could be applied, but it's absences does not pose availability risk |
 
 These issues follow the established [severity SLOs for bugs](/handbook/engineering/quality/issue-triage/#severity-slos).
 
 
-  
+
 ## Triaging Issues
 
 Initial triage involves (at a minimum) labelling an issue appropriately, so un-triaged issues can be discovered by searching for issues without any labels.
