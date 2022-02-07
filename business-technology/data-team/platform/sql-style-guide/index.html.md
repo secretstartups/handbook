@@ -20,7 +20,7 @@ If you are not on the Data Team or you are developing SQL outside of dbt, keep i
 
 ### SLQFluff
 
-SQLFLuff is a SQL linter that works with templating tools like dbt.  We use it to define the basic structure and style of the SQL that we write and move the review of that structure and style into the hands of the authors.  SQLFluff is included within the dbt development environment and it uses the dbt templating engine during the linting process.  It can be used with the following command:
+SQLFLuff is a SQL linter that works with templating tools like dbt. We use it to define the basic structure and style of the SQL that we write and move the review of that structure and style into the hands of the authors. SQLFluff is included within the dbt development environment and it uses the dbt templating engine during the linting process. It can be used with the following command:
 
 ```console
 $ sqlfluff lint models/path/to/file/file-to-lint.sql
@@ -39,7 +39,7 @@ $ pip install sqlfluff
 $ sqlfluff lint path/to/file/file-to-lint.sql
 ```
 
-SQLFluff includes a `fix` command that will apply fixes to rule violations when possible.  Not all rule violations are automatically fixable; therefore, you are encouraged to run the `lint` command after using the `fix` command to ensure that all rule violations have been resolved.
+SQLFluff includes a `fix` command that will apply fixes to rule violations when possible. Not all rule violations are automatically fixable; therefore, you are encouraged to run the `lint` command after using the `fix` command to ensure that all rule violations have been resolved.
 
 - [SQLFluff Documentation](https://docs.sqlfluff.com/en/latest/index.html)
 - [SQLFluff Default configuration](https://docs.sqlfluff.com/en/latest/configuration.html#default-configuration)
@@ -61,9 +61,9 @@ The configuration file that the Data Team uses can be found in the [GitLab Data 
 
 - Familiarize yourself with [the DRY Principal](https://docs.getdbt.com/docs/design-patterns). Leverage CTEs, jinja and macros in dbt, and snippets in Sisense. If you type the same line twice, it needs to be maintained in two places.
 
-- Be consistent.  Even if you are not sure of the best way to do something do it the same way throughout your code, it will be easier to read and make changes if they are needed.
+- Be consistent. Even if you are not sure of the best way to do something do it the same way throughout your code, it will be easier to read and make changes if they are needed.
 
-- Be explicit.  Defining something explicitly will ensure that it works the way you expect and it is easier for the next person, which may be you, when you are explicit in SQL.
+- Be explicit. Defining something explicitly will ensure that it works the way you expect and it is easier for the next person, which may be you, when you are explicit in SQL.
 
 
 ### Best Practices
@@ -83,7 +83,7 @@ The configuration file that the Data Team uses can be found in the [GitLab Data 
 
 - Use the `AS` operator when aliasing a column or table.
 
-- Prefer `DATEDIFF` to inline additions `date_column + interval_column`.  The function is more explicit and will work for a wider variety of date parts.
+- Prefer `DATEDIFF` to inline additions `date_column + interval_column`. The function is more explicit and will work for a wider variety of date parts.
 
 - Prefer `!=` to `<>`. This is because `!=` is more common in other programming languages and reads like "not equal" which is how we're more likely to speak.
 
@@ -104,7 +104,7 @@ The configuration file that the Data Team uses can be found in the [GitLab Data 
 ### Naming Conventions
 
 
-- An ambiguous filed name such as `id`, `name`, or `type` should always be prefixed by what it is identifying or naming:
+- An ambiguous field name such as `id`, `name`, or `type` should always be prefixed by what it is identifying or naming:
 
     ```sql
     -- Preferred
