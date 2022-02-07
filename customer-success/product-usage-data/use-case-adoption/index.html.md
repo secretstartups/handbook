@@ -63,4 +63,10 @@ Adoption timeline: 1 months after license purchase
 | ------------------ | ------- | ---------- | --------  |
 | SMAU Release / Licenses Sold | <5%    | 5-10%     | \>=10%    |
 
-This looks to all users who ran deployments in the last 28 days / Licenses Sold.
+## Use Case Adoption Count
+
+In Gainsight, we use scorecards to track customer adoption of Gitlab use cases. 
+
+A green score signifies that a customer is adopting that specific use case. On the Customer Health Dashboard, in the Use Case Adoption Count chart, we count the number of green scores for each customer to visualize the count of customers adopting null, 1,2, 3 and 4 use cases.
+
+You can use this chart to understand how many use cases each of your customers have adopted.
