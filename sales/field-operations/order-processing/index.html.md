@@ -29,8 +29,8 @@ This page outlines the Quote to Cash process. Topics include account and opportu
 
     *   [Sales Order Processing](/handbook/business-ops/order-processing/)
     *   [How to Work with Legal](/handbook/legal/customer-negotiations/)
-    *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
-    *   [Bookings Policy](INSERT LINK) 
+    *   [Deal Desk Opportunity Approval Process](/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking)
+    *   [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy) 
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
     *   [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
     *   [ARR Calculation Guide](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)
@@ -977,7 +977,7 @@ Requirements to Close Deal:
 
 Closing the Deal:
 
-1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity as per the Bookings Policy applicable to new subscriptions. **Deal Desk will also update your price to reflect the margin taken by AWS. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
+1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity as per the [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy) applicable to new subscriptions. **Deal Desk will also update your price to reflect the margin taken by AWS. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the AWS account is permanently set to silent, and no invoices created will go to AWS.
 1. If the customer purchases Self-Managed, the license key file will automatically be sent to the 'Sold To' contact from the quote. If the customer purchases SaaS, the subscription will automatically be sent/updated for use at time of booking. Note: SaaS subscriptions purchased through AWS (or any reseller) will typically require support intervention because end-users do not have access to the customer portal. GitLab support includes a message in the purchase email that instructs users to contact support via a ticket for assistance. 
 ACTION: Opportunity Owner: Confirm the customer receives the license within 2 days of oppty closed-won. If the customer has not received license details, open an issue: [Customer Support Issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=License%20Issue) and use the template for License Key or SaaS Subscription.
@@ -1107,7 +1107,6 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 </details>
 
 #### Bookings Policy
-
 
 This policy dictates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
 
@@ -1246,7 +1245,7 @@ When you have reviewed [all opportunity requirements](/handbook/business-ops/ord
     *  The opportunity page will then display “edit” mode. Click Save.
 1. At this time, no further action is required from the Account Team. You will be notified by the Order Management team if further information is needed or if the opp is missing required information.
 
-**NOTE** - Orders will be processed as long as the Quote Start Date is within 15 calendar days from date of submission. If the Quote Start Date is more than 15 days out, Order Management will approve and update the close date to the earliest date that the opportunity can be booked. Only on or after that date will the Billing team review the opportunity for final booking. For more information, review the [Bookings Policy](INSERT LINK).
+**NOTE** - Orders will be processed as long as the Quote Start Date is within 15 calendar days from date of submission. If the Quote Start Date is more than 15 days out, Order Management will approve and update the close date to the earliest date that the opportunity can be booked. Only on or after that date will the Billing team review the opportunity for final booking. For more information, review the [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy).
 
 #### What happens when you Submit an Opportunity for approval?
 
