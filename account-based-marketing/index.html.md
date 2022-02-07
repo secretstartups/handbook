@@ -41,29 +41,16 @@ The goals for new first-order MQLs and SAOs are derived from workbacks of sales 
 
 **OKRs = Objective + Key Result**
 
-<details>
-<summary markdown='span'>
-FY22-Q4
-</summary>
+#### FY22-Q4 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2602))
 
-- [FY23 Q1 ABM OKR Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2602)
 - [Update Ideal Customer Profile & Focus Account List with Sales](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2604)
-- TBD
-- TBD
 
-</details>
 
-<details>
-<summary markdown='span'>
-FY22-Q4
-</summary>
+#### FY22-Q4 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2602))
 
-- [FY22 Q4 ABM OKR Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2602)
 - [Harvest Leads from "Engaged with People" Accounts](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2491)
 - [Define approach (sales and marketing) for Ideal Customer Profile & Focus Account List](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2475)
 - [Build stronger integrations of data and automation for Demandbase and tech stack](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2495)
-
-</details>
 
 ## Team Structure
 {: #team-structure .gitlab-purple}
