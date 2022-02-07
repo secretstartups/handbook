@@ -14,28 +14,34 @@ The segments shown are currently in development, and are not yet implemented. Fo
 
 Definition: Named TAM on the account, enabling long-term strategic goals and 1:1 TAM to customer enablement/expansion strategies. 
 
+Iteration 0 - High-Touch TAM Customer Lifecycle Journey
+
+<img src="/images/handbook/customer-success/ht-tam-customer-journey.png">
+
+[Source](https://lucid.app/lucidchart/4fcdb329-8367-44e0-a1c4-d1c0fd1c2362/edit?invitationId=inv_ab8b15ca-1360-4f53-ab72-1da8e092b620&page=0_0#)
+
+[Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/80)
+
 #### Align
 
 [Success Plans](handbook/customer-success/tam/success-plans/): The success plan ensures that we strategically engage around customer platform value and not features & functions. This focus ensures that we are spending time on ensuring customer success and growth while defending customer retention.
 
-[EBRs](/handbook/customer-success/tam/ebr/):  These strategic touchpoints ensure that progress against desired business outcomes is being made and communicated back to the team that we work with and key influencers/decision-makers. It also creates a vehicle for introducing senior leadership into the customer account, enabling more strategic touchpoints.
+[Onboarding](handbook/customer-success/tam/onboarding/): Get the customer to first value as soon as possible through primary use-case enablement. Set expectations for the TAM-customer relationship and establish regular check-in calls.
 
 Metrics:
-
-1. Management-qualified Success Plans in all high-touch accounts
-1. EBRs completed within the last twelve months in 75% of all accounts
-
-
-#### Enable
-
-The primary objective in enabling our customers is to get a customer to value quickly, ensure any roadblocks to adoption are removed and get the customer to a state of maturity in their desired use cases to provide platform value early on.
-
-Metrics:
-
 1. [Time to first engage](/handbook/customer-success/tam/onboarding/#time-to-engage) (14 days): Requires a smooth transition from pre to post-sales, ensuring that the TAM is set up to quickly move the customer from pre-sales POV state to post-sales full instance established
 1. [Time to 1st Value](/handbook/customer-success/tam/onboarding/#time-to-first-value) (30 days) Indicates challenges in the account if not met in the initial roll-out; speaks to the success of the TAM in ensuring initial adoption roadblocks are removed
 1. [Time to Onboard](/handbook/customer-success/tam/onboarding/#time-to-onboard) (45 days) Indicates when a customer is enablement-ready and prepared to move to a more consistent cadence of check-ins as the customer continues to roll out their build.  This metric also speaks to the efficacy of the TAM engagement in the early weeks
+1. Management-qualified Success Plans in all high-touch accounts
+
+#### Enable
+
+The primary objective in enabling our customers is to get a customer to value quickly, ensure any roadblocks to adoption are removed and get the customer to a state of maturity in their desired use cases to provide platform value early on. Continue to drive adoption on primary use cases beyond first value through workshops and webinars. Explore opportunities to increase maturity in primary use cases through more advanced workshops.
+
+Metrics:
+
 1. Stage Enablement Playbooks Completed (QoQ)
+1. [EBRs](/handbook/customer-success/tam/ebr/):  These strategic touchpoints ensure that progress against desired business outcomes is being made and communicated back to the team that we work with and key influencers/decision-makers. It also creates a vehicle for introducing senior leadership into the customer account, enabling more strategic touchpoints. EBRs completed within the last twelve months in 75% of all accounts.
 1. FY23 Metric: Use Case/Stage Adoption Maturity Score: As we begin to have product analytics, we can score the platform adoption per use cases against our best practice benchmarks for mature product adoption, and proactively address areas for improvement.  In FY23 we will prioritize the maturity scores for CI and for DevSecOps, in-line with our Big Rock of ['Expertise in driving CI and DevSecOps adoption & expansion'](https://about.gitlab.com/handbook/customer-success/tam/#big-rock-2-expertise-in-driving-ci-and-devsecops-adoption--expansion) This today is done through cadence calls and qualitative conversations in the absence of maturity analytics.
 
 #### Expand & Renew
