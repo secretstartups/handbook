@@ -417,5 +417,5 @@ After adding it in the Support Week in Review, you then want to cross-link
 * [Zendesk Global Automation documentation](../documentation/zendesk_global_automations.html)
 * [Zendesk US Federal Automation documentation](../documentation/zendesk_us_federal_automations.html)
 * [Zendesk Global Automation repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-automations)
-* [Zendesk US Federal Automation repo](https://ops.gitlab.net/gitlab-com/support/zendesk-us-federal/zendesk-automations)
+* [Zendesk US Federal Automation repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/automations)
 * [Zendesk official documentation](https://support.zendesk.com/hc/en-us/articles/203662236-About-automations-and-how-they-work)

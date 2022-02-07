@@ -29,7 +29,7 @@ instantly. They are time based than event based.
 
 Instead of managing Zendesk automations via Zendesk itself, we instead use
 GitLab itself via the
-[zendesk-automations project](https://ops.gitlab.net/gitlab-com/support/zendesk-us-federal/zendesk-automations).
+[zendesk-automations project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/automations).
 This allows us to have version-controlled automations. For more information on
 managing Zendesk via the various GitLab projects, please review
 [Using the sync repos](sync_repos.html).
@@ -38,7 +38,7 @@ managing Zendesk via the various GitLab projects, please review
 
 As we have many automations, and they change quite frequently, the best resource
 to see all the current triggers would be the
-[zendesk-automations project](https://ops.gitlab.net/gitlab-com/support/zendesk-us-federal/zendesk-automations).
+[zendesk-automations project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/automations).
 
 
 ## Filing issues
