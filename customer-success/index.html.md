@@ -132,7 +132,7 @@ Outside of Engineering the Customer Success team has the largest concentration o
 
 ### Customer Success AWS Test Account
 
-In an effort to keep AWS spend down initiatives are being taken automatically clean up our AWS account. This account is primarily used as a proof of concept for IaC and creating demos for GitLab customers. An automated cleanup script is currently being tested that will tag, shutdown and delete old resources as they are no longer needed. The automation will:
+In an effort to keep AWS spend down, initiatives are being taken to automatically clean up our AWS account. This account is primarily used as a proof of concept for IaC and creating demos for GitLab customers. An automated cleanup script is currently being tested that will tag, shutdown and delete old resources as they are no longer needed. The automation will:
 
 - Turn off and Tag Un-named resources. When resources are created a "Name" tag should be created with a value that's meaningful and indicates who deployed the resource. Example: {initials}-GitLabRunner
 - New Resources will be automatically tagged with a Discovered and Expiration tag.
