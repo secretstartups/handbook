@@ -16,22 +16,6 @@ description: "The Deal Desk team's mission is to streamline the opportunity mana
 
 The Deal Desk team's mission is to streamline the opportunity management process while acting as a trusted business partner for field sales. We are the first point of contact for sales support. 
 
-### What We Do
-    
-*  Sales Support 
-*  Troubleshooting Quote Configuration
-*  Complex/Non-standard Deal Structure
-*  Deal Structure Approval Guidance
-*  Month End / Quarter End Reconciliation 
-
-### Out of Scope
-
-* Standard Quote Creation
-* Opportunity Creation
-* Forecast Management 
-* RFP/Vendor Form Responses
-* Customer / Partner facing communication 
-
 ### Helpful Links
 
 *   **Salesforce Reports and Dashboards**
@@ -57,28 +41,111 @@ The Deal Desk team's mission is to streamline the opportunity management process
     *   [Billing FAQs and Useful Tips](https://gitlab.com/gitlab-com/finance/-/wikis/Billing-Team-FAQs-&-Useful-Tips)
     *   Sample Order Form 
 
+### Deal Desk: What We Do
+    
+*  Sales Support 
+*  Troubleshooting Quote Configuration
+*  Complex/Non-standard Deal Structure
+*  Deal Structure Approval Guidance
+*  Month End / Quarter End Reconciliation 
 
-### Deal Desk - A Global Presence
+#### Out of Scope
 
-The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 5:00pm for the local time of the team member. If a complex case or non standard deal request is submitted after 4:00PM (Local Time) the case will be prioritized the following business day.  
+* Standard Quote Creation
+* Opportunity Creation
+* Forecast Management 
+* RFP/Vendor Form Responses
+* Customer / Partner facing communication 
 
-| Region | Standard Support Hours |
-|----- | ----- | 
-| APAC  | 8:00AM - 5:00PM (IST) | 
-| EMEA | 8:00AM - 5:00PM (GMT)  | 
-| AMER | 7:00AM - 5:00PM (PT) |
+### Deal Desk: Who and Where We Are
 
-### Deal Desk Performance Indicators
+#### Regional Support
 
-#### Deal Desk KPIs
+The Deal Desk team is located around the world and will be available during standard business hours within most regions. We operate under a Regional Support Model, meaning, each region (EMEA/APAC/AMER) will receive support from a dedicated regional team of Deal Desk Specialists and Analysts.
 
-#### 1. Regional Support Satisfaction 
+During holidays, or when team members are on PTO, individuals located in a different regional may step in to support and ensure appropriate coverage. This is reserved for End of Month/End of Quarter, or other times when the team is short-staffed.
 
-All regions will recieve a Quarterly Customer Satisfaction survey at the beginning of each new quarter. Our team aims for a 92% satisfaction rating for their supported region. This survey is a valuable tool to provide feedback on areas of improvement related to the Quote to Cash lifecyle. 
+Support will be provided based on the following business hours in the respective region. If a complex case or non standard deal request is submitted after 4:00PM (Local Time) the case will be prioritized the following business day.  
 
-Results from the survey will be used to evaluate team member performance and to idenitify areas for improvement. 
+|     Region    | Standard Support Hours |
+|:-------------:|------------------------|
+| APAC          | 8:00AM to 5:00PM (IST)   |
+| EMEA          | 8:00AM to 5:00PM (GMT)   |
+| AMER / LATAM  | 7:00AM to 5:00PM (PT)    |
 
-#### 2. Deal Desk  Case SLAs 
+Our regional teams do not operate on a 24/7 support model. If your request is submitted after 4:30PM local time, or outside of standard support hours, it may not be reviewed until the following business day. The only exceptions for this are End of Month/End of Quarter. Support hours and availability will be shared in advance of high volume periods through #field-fyi. 
+
+#### Regional Structure
+
+As of 2022-02-01, the Deal Desk team is structured as follows:
+
+**AMER Team:**
+- Manager, Deal Desk (AMER)
+  - Deal Desk Specialist (AMER)
+  - Deal Desk Specialist (AMER)
+  - OPEN REQ: Deal Desk Specialist (AMER)
+
+**EMEA/APAC TEAM:**
+- Manager, Deal Desk (EMEA/APAC)
+  - Deal Desk Analyst (APAC)
+  - Deal Desk Analyst (EMEA)
+  - Deal Desk Specialist (EMEA)
+  - Deal Desk Specialist (EMEA)
+
+### Deal Desk: Communicating with the Team
+
+#### Salesforce Chatter Communication
+
+Deal Desk's primary communication channel is Salesforce Chatter. When you chatter `@Sales-Support`, it will automatically create a case in the Deal Desk/Order Management queue. 
+- Always use `@Sales-Support` for SFDC requests or post `#sales-support` in Slack for general questions.
+  - Please do not tag Deal Desk team members directly in chatter or make a request through Slack direct message. This ensures our team is working as efficiently as possible and that you are covered in case the DD team member who replied first is unavailable. 
+- If someone is working on a case, they will continue to support until the case is closed.  If an issue has been resolved, please chatter @Sales-Support to reopen a case.
+- If you tag @Sales-Support on an existing Chatter post/comment by editing it, that action won`t generate a request to Deal Desk and we will not receive a notification. Please make sure tag Sales Support on an original post or on a new comment to the original post.
+
+For cases related to Account Segmentation (ROE, Territory), account data, or account merges, Deal desk will reassign these cases to our Sales Operations team to review and resolve. 
+
+#### Slack Communication
+
+##### Primary Slack Channel
+
+Use our Slack channel in case of general, non-record related requests and/or urgent questions: 
+**#sales-support** [If the request is related to a quote, opportunity, or account - please chatter on the page in Salesforce instead of the Slack channel.] 
+
+##### Slack Best Practices
+
+**Please avoid contacting the DD team members directly via Slack.** Utlizing the `#sales-support` channel is best to ensure timely coverage, helps others who may have similar questions, and aligns with our **Transparency** value. 
+
+In case of a specific opportunity or quote related question please use SF Chatter (see section [Salesforce Chatter Communication](#salesforce-chatter-communication))
+
+##### Slack Announcements
+
+Desk Desk process updates and announcements will be communicated via #field-fyi, #sales and #sales-support Slack channels.  
+
+#### Deal Desk Office Hours
+
+Weekly Deal Desk Office Hours are scheduled as follows:
+- EMEA Office Hours: Thursday at 10:30 GMT,
+- US Office Hours: Wednesday at 12:00 PM EST. 
+
+During Month End, Office Hours will take place on Monday, Wednesday, and Friday, scheduled in both AMER and EMEA time zones. Calendar invites will be sent to Sales-All Distribution group. Priority will be given to opportunities closing within the quarter. 
+
+Supported topics include:
+* Create or modifying a quote
+* Quote approval acceleration
+* Net ARR calculation
+* Submitting an opportunity for close
+* Validation/segmentation of closed opportunities
+* And anything else to help drive opportunities closing within the quarter! 
+
+#### Deal Desk AMA
+
+Deal Desk AMA's are an opportunity to invite someone from Deal Desk to your local team call. We can help address any questions regarding quote processes, best practices, or unique deal structures. Think of this as an opportunity for your team to learn together on general topics for quoting or opportunity management. For specific questions related to in-flight opportunities, it is best to join [Deal Desk Office Hours](/handbook/sales/field-operations/sales-operations/deal-desk/#deal-desk-office-hours). 
+
+Chatter or Slack #sales-support if you are interested in having Deal Desk join your team call! 
+
+### Deal Desk: Key Performance Indicators
+
+#### 1. Deal Desk  Case SLAs 
 
 The Deal Desk team will do their best to respond to each request to '@sales-support' within 6 business hours. Revenue generating or current quarter requests will take priority, especially during Month & Quarter End. If a task is not resolved within 24 hours it will be escalated (if necessary). 
 The SLAs below are applicable (especially for contract resets and ramp deals) if all the necessary information is provided in the request.
@@ -103,15 +170,21 @@ The Deal Desk team will respond to E0A Ramp requests as quickly as possible. How
 
 A Deal Desk team member will respond to your chatter request with an estimate on when the Order Form will be complete. Please let us know if your customer requires the quote in advance due to lengthy procurement cycles or budget planning reasons - exceptions will be considered in cases of urgency, or to meet a customer's needs.
 
-#### Escalation Path for Case Review
+##### Escalation Path for Case Review
 
 Cases that are urgent, customer impacting, or critical to buisness may be prioritized upon request. If the case has been submitted after Standard Support hours, you may escalated the case for a different regional team to review in the #sales-support Slack channel. You may also tag regional Deal Desk Managers for review and assitance in delegating the case. 
 
 Cases in this queue must be urgent and business critical. Cases that are routinely escalated out of indiviudal convienience instead of legitimate urgency will be addressed with Sales Management. 
 
-#### Reports To Track Deal Desk SLA 
+##### Reports To Track Deal Desk SLA 
 
 [Cases / Average First Response](https://gitlab.my.salesforce.com/00O4M000004edoT)
+
+#### 2. Regional Support Satisfaction 
+
+All regions will recieve a Quarterly Customer Satisfaction survey at the beginning of each new quarter. Our team aims for a 92% satisfaction rating for their supported region. This survey is a valuable tool to provide feedback on areas of improvement related to the Quote to Cash lifecyle. 
+
+Results from the survey will be used to evaluate team member performance and to idenitify areas for improvement. 
 
 #### 3. Case Reduction through Proactive Support - Training, Documentation, and System Improvements 
 
@@ -120,58 +193,6 @@ The Deal Desk team will be responsible for taking action on feedback recieved in
 In addition, the following reports are used to ensure an evenly balanced workload between team members. Data will be used to identify process gaps, inefficiencies, and trends or common errors in the Quote to Cash lifecycle with the mission to improve these areas.
 
 (LIST REPORTS USED TO TRACK GENERAL VOLUME AND WORKLOAD)
-
-#### Salesforce Chatter Communication
-
-Deal Desk's primary communication channel is Salesforce Chatter. When you chatter `@Sales-Support`, it will automatically create a case in the Deal Desk queue. **Please do not tag Deal Desk team members directly in chatter or make a request through Slack direct message. Always uses `@Sales-Support` for SFDC requests or post `#sales-support` in Slack for general questions.** This ensures our team is working as efficiently as possible and that you are covered in case the DD team member who replied first is unavailable. If someone is working on a case, they will continue to support until the case is closed.  If an issue has been resolved, please chatter @Sales-Support to reopen a case.
-
-**NOTE:** If you tag @Sales-Support on an existing Chatter post/comment by editing it, that action won`t generate a request to Deal Desk and we will not receive a notification. Please make sure tag Sales Support on an original post or on a new comment to the original post.
-
-Deal Desk team members monitor the queue throughout the day. For all cases directly related to opportunites, quoting/deal structure or booking a deal, Deal Desk will respond to a case within 6 hours, Monday-Friday, with the exception of National/Regional holidays. Resolution or escalation for these cases will occur within 24 hours. 
-
-For cases related to Account Segmentation (ROE, Territory), account data, or account merges, Deal desk will reassign these cases to our Sales Operations team to review and resolve. 
-
-To Chatter the DD team, tag `@Sales-Support`in Chatter on the related opportunity or account page and a short sentence on your request. If the Deal Desk team needs more information, we will follow up directly via Chatter. 
-
-
-#### Slack Communication
-
-##### Primary Slack Channel
-
-Use our Slack channel in case of general, non-record related requests and/or urgent questions: 
-**#sales-support** [If the request is related to a quote, opportunity, or account - please chatter on the page in Salesforce instead of the Slack channel.] 
-
-##### Slack Best Practices
-
-**Please avoid contacting the DD team members directly via Slack.** Utlizing the `#sales-support` channel is best to ensure timely coverage, helps others who may have similar questions, and aligns with our **Transparency** value. 
-
-In case of a specific opportunity or quote related question please use SF Chatter (see section [Salesforce Chatter Communication](#salesforce-chatter-communication))
-
-##### Slack Announcements
-
-Desk Desk process updates and announcements will be communicated via #field-fyi, #sales and #sales-support Slack channels.  
-
-##### Deal Desk Office Hours
-
-Weekly Deal Desk Office Hours are scheduled as follows:
-- EMEA Office Hours: Thursday at 10:30 GMT,
-- US Office Hours: Wednesday at 12:00 PM EST. 
-
-During Month End, Office Hours will take place on Monday, Wednesday, and Friday, scheduled in both AMER and EMEA time zones. Calendar invites will be sent to Sales-All Distribution group. Priority will be given to opportunities closing within the quarter. 
-
-Supported topics include:
-* Create or modifying a quote
-* Quote approval acceleration
-* Net ARR calculation
-* Submitting an opportunity for close
-* Validation/segmentation of closed opportunities
-* And anything else to help drive opportunities closing within the quarter! 
-
-#### Deal Desk AMA
-
-Deal Desk AMA's are an opportunity to invite someone from Deal Desk to your local team call. We can help address any questions regarding quote processes, best practices, or unique deal structures. Think of this as an opportunity for your team to learn together on general topics for quoting or opportunity management. For specific questions related to in-flight opportunities, it is best to join [Deal Desk Office Hours](/handbook/sales/field-operations/sales-operations/deal-desk/#deal-desk-office-hours). 
-
-Chatter or Slack #sales-support if you are interested in having Deal Desk join your team call! 
 
 #### Proactive Opportunity Review
 
