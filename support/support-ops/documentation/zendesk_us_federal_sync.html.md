@@ -26,7 +26,7 @@ internally to achieve organization sync.
 ### Standard organization sync
 
 We sync the standard organizations using the
-[zd-sfdc-sync-us-federal project](https://ops.gitlab.net/gitlab-com/support/zd-sfdc-sync-us-federal),
+[zd-sfdc-sync-us-federal project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zd-sfdc-sync-us-federal),
 located in the GitLab Ops instance. The scripts within pair with GitLab CI/CD
 jobs to gather data from both SFDC and Zendesk US Federal, compare it, and sync
 the needed changes. Unlike Zendesk Global, this sync setup also syncs contacts
