@@ -398,5 +398,5 @@ After adding it in the Support Week in Review, you then want to cross-link
 * [Zendesk Global Trigger documentation](../documentation/zendesk_global_triggers.html)
 * [Zendesk US Federal Trigger documentation](../documentation/zendesk_us_federal_triggers.html)
 * [Zendesk Global Trigger repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-triggers)
-* [Zendesk US Federal Trigger repo](https://ops.gitlab.net/gitlab-com/support/zendesk-us-federal/zendesk-triggers)
+* [Zendesk US Federal Trigger repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/triggers)
 * [Zendesk official documentation](https://support.zendesk.com/hc/en-us/articles/203662246-About-triggers-and-how-they-work)
