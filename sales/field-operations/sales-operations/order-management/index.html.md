@@ -21,7 +21,7 @@ For an in depth overview of Opportunity Approval Booking Requirements, please re
 
 ### What We Do
 
-Our Order Managment team owns the Opportunity Approval and Booking Process, Intial License Fulfillment, and Monthly Reconcilations. The team is the go to for all questions related to Opportunity Booking requirements, questions regarding our booking policy, and processes related to fulfilling an order. 
+The GitLab Order Managment team owns the Opportunity Approval and Booking Process, oversees Intial License Delivery, and handles order and subscription reconciliations. Thus team is the DR for all questions related to Opportunity Booking requirements, questions regarding our bookings policies, and processes related to fulfilling an order. 
 
 The team owns the following processes & documentation sources:
 
@@ -46,15 +46,15 @@ Please review our [Job Family](https://about.gitlab.com/job-families/sales/order
 
 ### Opportunity Approval Process
 
-Order Management reviews every Sales Assisted opportunity prior to booking. All opportunities must meet our standard opportunity bookign requirements. An opportunity will be rejected if it is missing components necessary to booking. 
+Order Management reviews every Sales Assisted opportunity prior to booking. All opportunities must meet our standard opportunity booking requirements. An opportunity will be rejected if it is missing components necessary to booking. 
 
 #### Opportunity Prioritization 
 
 All opportunities in the approval queue are prioritized based on the following: 
 
 1. Start Date 
-1. Revenue Generation
-1. Order of Submission 
+2. Revenue Generation
+3. Order of Submission 
 
 The Order Management team will make every effort to ensure all opportunities submitted at Month End and Quarter End are reviewed and approved in the same month. Please do not tag for urgent review during End of Month or End of Quarter. 
 
@@ -90,9 +90,9 @@ You can expect support based on the following business hours in your region. How
 
 |     Region    | Standard Support Hours |
 |:-------------:|------------------------|
-| APAC          | 8:00AM to 5:00PM       |
-| EMEA          | 8:00AM to 5:00PM       |
-| AMER / LATAM  | 7:00AM to 5:00PM PT    |
+| APAC          | 8:00AM to 5:00PM (IST)   |
+| EMEA          | 8:00AM to 5:00PM (GMT)   |
+| AMER / LATAM  | 7:00AM to 5:00PM (PT)    |
 
 Our regional teams do not operate on a 24/7 support model. If your opportunity or case is submitted after 4:30PM local time, or outside of standard support hours, it will be reviewed the following business day. The only exceptions for this are EoM / EoQ / EoY. Support hours and availability will be shared in advance of high volume periods through #field-fyi. 
 
@@ -100,7 +100,7 @@ Our regional teams do not operate on a 24/7 support model. If your opportunity o
 
 #### Standard Approval SLA 
 
-Opportunities will be reviewed for all booking requirements within 12 business hours of being Submitted for Approval (Stage 7 - Closing). Your opportunity will be Approved or Rejected by Order Management within 12 business hours of submission. Please note, ultimate closure of a deal depends is facilitated by the Billing team. Please review their standard SLA (LINK HANDBOOK PAGE)
+Opportunities will be reviewed for all booking requirements within 12 business hours of being Submitted for Approval (Stage 7 - Closing). Your opportunity will be Approved or Rejected by Order Management within 12 business hours of submission. Please note, ultimate closure of a deal depends is facilitated by the Billing team. 
 
 If there are missing booking requirements, or further confirmation is required from the Sales team, the Order Management specialist will tag you directly in Chatter to resolve any outstanding issues.
 
