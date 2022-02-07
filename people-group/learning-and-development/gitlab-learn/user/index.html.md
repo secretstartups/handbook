@@ -248,7 +248,13 @@ There are many ways to search GitLab Learn for new learning content.
 
 1. **Use the search bar.** This search feature will allow you to search by key word, username, or topic. This search bar is helpful if you're looking for material on a certain topic, or you're interested in seeing what your team members are learning.
 
-1. **Follow Channels** Channels organize content based on topic. Find Channels you're interested in by searchin for a specific topic or expertise. You can follow these channels and be notified when new contnet is shared. If your deparment has it's own **Learning Hub**, we'd recommed following that for content relevant to you and your work.
+1. **Follow Channels** Channels organize content based on topic. Find Channels you're interested in by searchin for a specific topic or expertise. You can follow these channels and be notified when new contnet is shared. If your deparment has it's own **Learning Hub**, we'd recommed following that or adding it to your favourites for content relevant to you and your work. Here's a list of existing Learning Hubs:
+- [People Group Learning Hub](https://gitlab.edcast.com/channel/people-group-learning-hub)
+- [Finance Learning Hub](https://gitlab.edcast.com/channel/gitlab-finance-learning-hub)
+- [Development Learning Hub](https://gitlab.edcast.com/channel/gitlab-development-learning-hub)
+- [Marketing Learning Hub](https://gitlab.edcast.com/channel/gitlab-marketing-learning-hub)
+- [Customer Support Learning Hub](https://gitlab.edcast.com/channel/gitlab-support-team-professional-development)
+- [Product Management Learning Hub](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub)
 
 1. **Use the `More` option in the top navigation bar.** This waffle icon will allow you to sort through content based on users, groups, and more. If you'd like to learn more about the types of content in the LXP, reivew the [LXP contribution process](/handbook/people-group/learning-and-development/gitlab-learn/contribute)
 
