@@ -5,7 +5,9 @@ title: Manager, IT End User Services
 
 The Manager, IT End User Services leads a team of highly-collaborative and results-oriented IT Analyst team members tasked with delivering global IT services across the company. The Manager, IT End User Services is in charge of scaling, increasing performance, and providing great team member experience in order to help drive forward business success based on world class infrastructure & operations.
 
-#### {add Level} Job Grade
+The Manager, IT End User Services reports to the [Sr Director, IT Operations](https://about.gitlab.com/job-families/finance/director-it-operations/).
+
+#### Job Grade
 The Manager, IT End User Services is a level [8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
@@ -42,9 +44,7 @@ The Manager, IT End User Services is a level [8](/handbook/total-rewards/compens
 * [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 * Ability to use GitLab
 
-## Levels
-### Manager, IT End User Services
-The Manager, IT End User Services reports to the [Sr Director, IT Operations](https://about.gitlab.com/job-families/finance/director-it-operations/).
+
 
 #### Performance Indicators
 * [New Hire Location Factor < 0.69](https://about.gitlab.com/handbook/business-ops/metrics/#new-hire-location-factor--069)
