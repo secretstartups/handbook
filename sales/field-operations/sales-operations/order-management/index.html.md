@@ -17,7 +17,7 @@ description: "The Order Management team's mission is to streamline the opportuni
 
 The Order Management page outlines the goals, tasks, and standard operating guidelines for each regional team. Here you will find more information about our KPIs, SLAs, and best practices for working with our team. 
 
-For an in depth overview of Opportunity Approval Booking Requirements, please review the [Sales Order Processing page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/).
+For an in depth overview of Opportunity Approval Booking Requirements, please review the [Sales Order Processing page](/handbook/sales/field-operations/order-processing/).
 
 ### Order Management: What We Do
 
@@ -46,12 +46,11 @@ The GitLab Order Managment team owns the Opportunity Approval and Booking Proces
 - Partner with cross-functional teams to implement new routes to market
 
 **Key Processes & Documentation**
-- Bookings Policy
-- [Opportunity Approval Booking Requirments](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking)
-- Initial License Fulfillment & Delivery
-- Subscription Management
-- Opportunity Reconciliation 
-- [Sales Order Processing Handbook](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
+- [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy)
+- [Opportunity Approval/Booking Requirements](/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking)
+- [Initial License Fulfillment & Delivery](/handbook/sales/field-operations/sales-operations/order-management/#order-management-license-delivery-review-process)
+- [Subscription Management](/handbook/sales/field-operations/sales-operations/order-management/#order-management-subscriptionrenewal-management-process)
+- [Sales Order Processing Handbook](/handbook/sales/field-operations/order-processing/)
 
 **Key Reports:**
 - [DD + OM Cases / Average First Response](https://gitlab.my.salesforce.com/00O4M000004edoT)
@@ -186,7 +185,7 @@ The License Delivery Review Process is a new process created to ensure that all 
   - license re-send requests
   - additional license send requests
 
-For assistance with Out of Scope license requests, please [open an Issue](please open an issue: https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions) with the Support Engineering Team.
+For assistance with Out of Scope license requests, please [open an Issue](/handbook/support/internal-support/#regarding-licensing-and-subscriptions) with the Support Engineering Team.
 
 #### Process Workflow:
 1. Order Management team member approves opportunity
