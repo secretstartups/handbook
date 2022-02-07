@@ -30,7 +30,7 @@ This page outlines the Quote to Cash process. Topics include account and opportu
     *   [Sales Order Processing](/handbook/business-ops/order-processing/)
     *   [How to Work with Legal](/handbook/legal/customer-negotiations/)
     *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
-    *   [FY22 Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#fy22-bookings-policy)
+    *   [Bookings Policy](INSERT LINK) 
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
     *   [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
     *   [ARR Calculation Guide](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)
@@ -1106,7 +1106,7 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 </details>
 
-#### FY22 Bookings Policy
+#### Bookings Policy
 
 
 This policy dictates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
@@ -1158,19 +1158,19 @@ Deal Desk will review the start date on all opportunities at time of booking. Th
 Customer procurement cycles can take time. A start date on a quote may be in the past if the procurement cycle took longer than expected. 
 
 1. If the Start Date is in the past, Deal Desk will update the Start Date on the quote object to the date of processing. This *will not* require a newly signed order form. 
-2. The opportunity must meet all booking requirements and is still subject to the FY22 Bookings Policy. 
+2. The opportunity must meet all booking requirements and is still subject to the Bookings Policy. 
 
 **Add-On Opportunity** 
 1. If the Start Date on an Add-On is < 2 weeks in the past, the order will be booked as is. 
 2. Add on opportunities with a Start Date > 2 weeks in the past will require a chatter confirmation from the sales team confirming that the customer has had support/access to these users since the Start Date. Deal Desk will tag the opportunity owner directly to confirm the Start Date prior to booking. 
-3. The opportunity must meet all booking requirements and is still subject to the FY22 Bookings Policy.  
+3. The opportunity must meet all booking requirements and is still subject to the Bookings Policy.  
 4. Add On Opportunities must be processed in order based on Start Date. The add on opp needs to be "Closed-Won" prior to submitting any future amendments or renewal opportunities for approval. 
 
 **Renewal Opportunity**
 
 1. Renewal opportunties where the Start Date < 2 weeks in the past will be booked as is, without additional confirmation or intervention from the sales team. 
 2. Renewal opportuntiies where the Start Date is > 2 weeks in the past will require a chatter confirmation from the sales team confirming that the customer has had support/access to these users since the Start Date. Deal Desk will tag the opportunity owner directly to confirm the Start Date prior to booking. 
-3. The opportunity must meet all booking requirements and is still subject to the FY22 Bookings Policy.  
+3. The opportunity must meet all booking requirements and is still subject to the Bookings Policy.  
 
 
 #### Locked Bookings
@@ -1246,7 +1246,7 @@ When you have reviewed [all opportunity requirements](/handbook/business-ops/ord
     *  The opportunity page will then display “edit” mode. Click Save.
 1. At this time, no further action is required from the Account Team. You will be notified by the Order Management team if further information is needed or if the opp is missing required information.
 
-**NOTE** - Orders will be processed as long as the Quote Start Date is within 15 calendar days from date of submission. If the Quote Start Date is more than 15 days out, Order Management will approve and update the close date to the earliest date that the opportunity can be booked. Only on or after that date will the Billing team review the opportunity for final booking. For more information, review the [FY22 Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#fy22-bookings-policy).
+**NOTE** - Orders will be processed as long as the Quote Start Date is within 15 calendar days from date of submission. If the Quote Start Date is more than 15 days out, Order Management will approve and update the close date to the earliest date that the opportunity can be booked. Only on or after that date will the Billing team review the opportunity for final booking. For more information, review the [Bookings Policy](INSERT LINK).
 
 #### What happens when you Submit an Opportunity for approval?
 
