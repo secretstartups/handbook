@@ -691,8 +691,6 @@ For pre-sales technical issues, please contact your local GitLab sales team
 
 GitLab has introduced a new partner portal that serves as the primary source of information and transactions for our partners.  In the initial release, the GitLab Partner Portal will have the following capabilities:
 
-
-
 *   Partner registration and account management
 *   Deal registration and opportunity management
 *   Training accreditation and other learning
@@ -700,6 +698,9 @@ GitLab has introduced a new partner portal that serves as the primary source of 
 *   GitLab news
 
 Visit the portal at partners.gitlab.com.
+
+##### How to Partner Portal Video 
+This video can be found live in the partner portal for our partners. For our GitLab team members who do not have access to the partner portal, please [see the training video here](https://drive.google.com/file/d/1cAGBOWrvRRL71zPPrUkwLm0L4BP_MzF_/view?usp=sharing).
 
 
 #### The GitLab Handbook
