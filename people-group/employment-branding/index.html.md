@@ -18,7 +18,7 @@ This page outlines our approach to talent brand at GitLab.
 
 ## Defining our talent brand vision
 
-![Talent brand vision statement](source/images/talent_brand/Talent_Brand_Vision.png)
+![Talent brand vision statement](/images/talent_brand/Talent_Brand_Vision.png)
 
 There are two parts to this vision: 
 
