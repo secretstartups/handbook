@@ -25,7 +25,7 @@ we have customized it to specifications from both the UI/UX team and the Support
 team.
 
 You can locate our current theme via the
-[zendesk-theme project](https://ops.gitlab.net/gitlab-com/support/zendesk-us-federal/zendesk-theme).
+[zendesk-theme project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zendesk-theme).
 
 **NOTE**: Currently, all changes made in the above project have to be manually
 applied in the Zendesk instance itself.
