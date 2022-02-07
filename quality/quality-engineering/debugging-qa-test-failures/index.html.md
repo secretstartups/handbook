@@ -145,6 +145,18 @@ When investigating on your own, we suggest spending at most 20-30 minutes active
 
 **Note:** Please avoid logging in via `gitlab-qa` and all the other bot accounts on Canary/Production. They are monitored by [SIRT](/handbook/engineering/security/security-operations/sirt/) and will raise an alert if someone uses them to log in. If it is really needed to log in with these accounts, please give a quick heads-up in [#security-department](https://gitlab.slack.com/archives/CM74JMLTU) that someone is logging into the bot and tag `@sirt-members` for awareness.
 
+Below is the list of the common root causes in descending order of likelihood:
+
+1. Code changes: Check if the new code was deployed to the environment.
+   - Find the diff between current and previous GitLab versions using this example `https://gitlab.com/gitlab-org/security/gitlab/-/compare/start_commit_sha...end_commit_sha` to see if there was a change that could have affected the test.
+2. Feature Flag: Check if a new feature flag is enabled in the environment.
+   - When a feature flag is enabled, it's being reported to specific QA pipeline Slack channel. This also triggers a Full QA job and it may help to identify which specific feature flag caused the failure.
+3. Environment configuration: If there were no code or feature flag changes and the environment has flaky errors, analyze [Sentry errors and Kibana logs](#review-the-failure-logs) to further investigate the issue. Consider reaching out to the Infrastructure team at `#infrastructure-lounge` and ask if something was changed recently on the environment in question.
+4. Test Data: Check that test data is valid. Live environments like Staging and Production rely on pre-existing data (QA users, access tokens).
+5. New GitLab QA version: Check if a new [GitLab QA version](https://gitlab.com/gitlab-org/gitlab-qa/-/tags?sort=updated_desc) was released.
+
+Failure examples can be seen in [Training Videos](#training-videos).
+
 #### Run the test against your GDK
 
 You can run the test (or perform the test steps manually) against your local GitLab instance to see if the failure is reproducible. For example:
@@ -479,12 +491,14 @@ If you decide the test is still valuable but don't want to leave it quarantined,
 
 ## Training Videos
 
-Two videos walking through the triage process were recorded and uploaded to the [GitLab Unfilitered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
+These videos walking through the triage process were recorded and uploaded to the [GitLab Unfilitered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
 
 - [Quality Team: Failure Triage Training - Part 1](https://www.youtube.com/watch?v=Fx1DeWoTG4M)
   - Covers the basics of investigating pipeline failures locally.
 - [Quality Team: Failure Triage Training - Part 2](https://www.youtube.com/watch?v=WeQb8GEw6PM)
   - Continued discussion with a focus on using Docker containers that were used in the pipeline that failed.
+- [Quality Engineering On-call Rotation and Debugging QA failures](https://youtu.be/zdIEbl_DPHA) ([private video](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) on GitLab Unfiltered)
+  - Overview of QE on-call rotation process, GitLab deployment process and how to debug failed E2E specs with examples.
 
 [quarantining tests]: #quarantining-tests
 [`:flaky`]: #flaky-test
