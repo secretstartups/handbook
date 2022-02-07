@@ -106,8 +106,7 @@ See the examples from FY21' for the [Product](https://gitlab.com/gitlab-com/Prod
 - [Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2513)
 - [Finance](https://gitlab.com/groups/gitlab-com/Finance-Division/-/epics/7)
 - [People](https://gitlab.com/groups/gitlab-com/people-group/-/epics/89)
-- Legal
-- CEO
+- Legal (https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/717)
 
 #### Resources for Managers
 
