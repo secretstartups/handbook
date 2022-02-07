@@ -27,7 +27,7 @@ Welcome to Accounts Payable, commonly referred to as AP. You should be able to f
 
 <div class="flex-row" markdown="0" style="height:110px;">
   <a href="/handbook/finance/accounting/#procure-to-pay/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span>Invoicing and Payment</span></a>
-  <a href="/handbook/finance/accounting/#credit-card-use-policy/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span>Corporate Credit Card</span></a>
+  <a href="/handbook/finance/accounts-payable/corp-credit-cards/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span>Corporate Credit Card</span></a>
   <a href="/handbook/finance/procurement/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Procurement</span></a>
 </div>
 
