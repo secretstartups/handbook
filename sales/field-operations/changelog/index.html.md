@@ -14,6 +14,16 @@ The Field Operations Changelog keeps a running log of Field Ops changes related 
 
 To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/).
 
+## Q1-FY23
+
+### 2022-02-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/88))
+
+**Sales Ops/Sales Systems: [SFDC Win Alerts - Migrate Troops to Internal Flow/Code](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2032)** 
+
+**Sales Ops: [Salesforce Inbox Implementation](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2639)**
+
+**Alliance Ops: [License Distribution Process Update for Deals through AWS & GCP Marketplace](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues/358#note_822659474)**
+
 ## Q4-FY22
 
 ### 2022-01-24 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/86))
