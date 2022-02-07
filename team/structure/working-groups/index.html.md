@@ -192,7 +192,7 @@ Please note that a limited set of team members currently have access to the link
 | Initiative | DRI / Sponsor | Description | Links |
 | ------ | ------ |------ | ------ |
 | Usage Data | @justinfarris / @sytses   | Ensure customer product usage and utilization metrics are surfaced to the right teams at the right time to drive improvements in customer adoption and flag high potential user growth/tier-upgrade opportunities. | [Operational Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/1) |
-| Cloud Licensing | @justinfarris / @sytses  | Provide automated licensing functionality to customers to improve their experience while reducing the chances of sales and support escalations. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/2) |
+| Cloud Licensing | @ofernandez2 / @sytses  | Provide automated licensing functionality to customers to improve their experience while reducing the chances of sales and support escalations. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/2) |
 | FedRAMP | @JohnathanHunt / @edjdev | Achieve FedRAMP Moderate Certification. | [Working group page](/company/team/structure/working-groups/fedramp-execution/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/3) |
 | Project Horse | @marin / @edjdev  | [Internally confidential](https://about.gitlab.com/handbook/communication/#internal) | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/4)  |
 | Reliability | @sloyd / @edjdev  | Achieve enterprise grade security and reliability for our SaaS. | [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/5) |
