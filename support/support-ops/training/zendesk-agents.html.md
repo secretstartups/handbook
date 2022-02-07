@@ -224,4 +224,4 @@ After adding it in the Support Week in Review, you then want to cross-link
 ## Useful links
 
 * [zendesk-agents repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-agents)
-* [Zendesk US Federal agent-signatures repo](https://ops.gitlab.net/gitlab-com/support/zendesk-us-federal/agent-signatures)
+* [Zendesk US Federal agent-signatures repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/agents)
