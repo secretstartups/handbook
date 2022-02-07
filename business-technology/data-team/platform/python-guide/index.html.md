@@ -20,6 +20,10 @@ description: "It is our collective responsibility to enforce this Python Style G
 
 **Campsite rule** - As these guidelines are themselves a WIP, if you work with any code which does not currently adhere to the style guide update it when you see it.
 
+### Technology Standardisation 
+
+**Starting in Jan 2022** all new custom python extracts should adhere to the [Singer standard](https://www.singer.io/). 
+
 #### Linting
 
 We use [Black](https://github.com/ambv/black) as our linter. We use the default configuration.
