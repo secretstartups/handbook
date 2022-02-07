@@ -41,7 +41,7 @@ Currently, Zendesk views have some limitations:
 
 Instead of managing Zendesk views via Zendesk itself, we instead use GitLab
 itself via the
-[zendesk-views project](https://ops.gitlab.net/gitlab-com/support/zendesk-us-federal/zendesk-views).
+[zendesk-views project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/views).
 This allows us to have version-controlled views. For more information on
 managing Zendesk via the various GitLab projects, please review
 [Using the sync repos](sync_repos.html).
