@@ -12,11 +12,11 @@ Executive Business Administrator's at GitLab toggle seamlessly between various s
 
 ### Executive Business Administrator (Associate) 
 
-Executive Business Administrators (Associate) report to the [Staff Executive Business Administrator to the CEO](/job-families/people-ops/executive-business-administrator/#staff-executive-business-administrator-to-the-ceo) or a [Sr. Executive Business Adminstrator, Lead]. 
+Executive Business Administrators (Associate) typically report to a Sr. Executive Business Adminstrator in their Division. 
 
 #### Executive Business Administrator (Associate) Job Grade
 
-The Executive Business Administrator is a [grade TBD](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Executive Business Administrator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Executive Business Administrator (Associate) Responsibilities
 
@@ -60,7 +60,7 @@ The Executive Business Administrator is a [grade TBD](/handbook/total-rewards/co
 
 ### Executive Business Administrator (Intermediate)
 
-Executive Business Administrators (Intermediate) report to the [Staff Executive Business Administrator to the CEO](/job-families/executive-business-administration/staff-executive-business-administrator-to-the-ceo) or the [Sr. Executive Business Adminstrator, Lead]. Others report directly to their leaders.
+Executive Business Administrators (Intermediate) typically report to the Sr. Executive Business Adminstrator in their Division. Some may report directly to their leaders.
 
 #### Executive Business Administrator (Intermediate) Job Grade
 
@@ -110,7 +110,7 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 
 ### Senior Executive Business Administrator
 
-Senior Executive Business Administrators report to the [Staff Executive Business Administrator to the CEO](/job-families/executive-business-administration/staff-executive-business-administrator-to-the-ceo) or the [Sr. Executive Business Adminstrator, Lead] in their department. Those who support an E-Group member report directly to their leader.
+Senior Executive Business Administrators who support an E-Group member report directly to their leader.
 
 #### Senior Executive Business Administrator Job Grade
 
@@ -151,15 +151,11 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 * A passion for GitLab
 * A sincere willingness to help out
 
-### Executive Business Administrator, Manager 
+### Manager, Executive Business Administrator
 
-Senior Executive Business Administrators report to the E-Group leader they support or the Chief of Staff of their function (i.e. Chief of Staff, CEO or Chief of Staff, CRO). 
+The Manager, Executive Business Administrator is a job [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Executive Business Administrator, Manager Job Grade
-
-The Executive Business Administrator, Lead is a [TBD]
-
-#### Executive Business Administrator, Manager Responsibilities
+#### Manager, Executive Business Administrator
 
 * Support a member of our Executive Group [E-Group](https://about.gitlab.com/company/team/structure/#e-group) in various time-zones
 * Hire, develop and retain the function's EBA team by setting the strategy and prioritizing GitLab’s Objectives and Key Results (OKRs)
@@ -178,7 +174,7 @@ The Executive Business Administrator, Lead is a [TBD]
 * Must be able to work flexible hours to support international business meetings and some travel is required in most roles
 * Other duties as assigned in support of the business (ad hoc tasks)
 
-#### Executive Business Administrator, Manager Requirements
+#### Manager, Executive Business Administrator Requirements
 
 * Previous 7+ years of administrative experience supporting a C-Staff Executive at a quickly-scaling or large company
 * Bachelor's’ Degree preferred. High school diploma or general education degree (GED) required
@@ -196,15 +192,15 @@ The Executive Business Administrator, Lead is a [TBD]
 * A passion for GitLab
 * A sincere willingness to help out
 
-### Sr. Executive Business Administrator to the CEO
+### Staff Executive Business Administrator to the CEO
 
-The Senior Executive Business Administrator to the CEO reports to the [Chief of Staff to the CEO](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/)
+The Staff Executive Business Administrator to the CEO reports to the [Chief of Staff to the CEO](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/)
 
-#### Sr. Executive Business Administrator to the CEO Job Grade
+#### Staff Executive Business Administrator to the CEO Job Grade
 
-The Senior Executive Business Administrator to the CEO is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Executive Business Administrator to the CEO is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Sr. Executive Business Administrator to the CEO Responsibilities
+#### Staff Executive Business Administrator to the CEO Responsibilities
 
 * Strategically and methodically support our Chief Executive Officer in the Pacific time zone - serving as a partner in handling correspondence, including confidential and sensitive materials
 * Proactively and without supervision, anticipate needs and follow through diligently, often using knowledge of the executive, their direct reports, external parties, and company values to make decisions that lead to more effective executive attention and communication
@@ -223,7 +219,7 @@ The Senior Executive Business Administrator to the CEO is a [grade 7](/handbook/
 * Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
 * Other duties (and ad hoc tasks) as assigned in support of your executive and business
 
-#### Senior Executive Business Administrator to the CEO Requirements
+#### Staff Executive Business Administrator to the CEO Requirements
 
 * Experience supporting a C-Level Executive(s) as an EA or executive business partner at a quickly-scaling company, effectively representing the personal brand of the executive as well as the company’s culture and value
 * High integrity and track record of maintaining confidentiality of all work product and sensitive information
