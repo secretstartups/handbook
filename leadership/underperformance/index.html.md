@@ -146,17 +146,15 @@ Remediation options will vary based on if the team members underperformance is s
 
 ### Skill-based performance remediation
 
-- [Coaching](/handbook/leadership/underperformance/#coaching)
-- [Written Performance Letter](https://about.gitlab.com/handbook/leadership/underperformance/#written-performance-letter)
-- [Performance Improvement Plan (PIP)](/handbook/leadership/underperformance/#performance-improvement-plan-pip)
+- [Coaching](/handbook/leadership/underperformance/#coaching) during 1:1 meetings
+- [Written Performance Letter](https://about.gitlab.com/handbook/leadership/underperformance/#written-performance-letter) or Performance Improvement Plan (PIP)](/handbook/leadership/underperformance/#performance-improvement-plan-pip)
 - [Letting Someone Go](/handbook/leadership/underperformance/#letting-someone-go)
 
 **Important**: [As noted in the PIP section below](/handbook/leadership/underperformance/#not-the-first-step-to-letting-someone-go), we only implement PIPs if we believe team members have the ability to be successful on the PIP. For team members who truly lack the **skill** for the role even after a period of coaching and support, we would not implement a PIP.
 
 ### Will-based performance remediation
 
-- [Coaching](/handbook/leadership/underperformance/#coaching)
-- [Verbal Warning](/handbook/leadership/underperformance/#verbal-warning)
+- [Coaching](/handbook/leadership/underperformance/#coaching) during 1:1 meetings
 - [Written Warning](/handbook/leadership/underperformance/#written-warning)
 - [Letting Someone Go](/handbook/leadership/underperformance/#letting-someone-go)
 
@@ -282,9 +280,8 @@ It is important to remember that the root cause of issues can be a variety of th
 
 #### PIP Process
 
-The intention of a PIP is to support the team member in any way required to make their time at GitLab a positive experience but also to make clear that immediate and sustained improvement
-is required. The Society for Human Resources Management (SHRM) has a [helpful guide](https://www.shrm.org/templatestools/howtoguides/pages/performanceimprovementplan.aspx) to review when
-you this step is needed to push past the current performance issues.
+The intention of a PIP is to support the team member while working to improve performance and to make clear that immediate and sustained improvement
+is required. The Society for Human Resources Management (SHRM) has a [helpful guide](https://www.shrm.org/templatestools/howtoguides/pages/performanceimprovementplan.aspx) to review when a PIP may be necessary to rectify current performance issues.  
 
 A performance improvement plan includes the following:
 
