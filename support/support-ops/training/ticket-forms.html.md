@@ -172,7 +172,7 @@ automations specifically. While it focuses there, the process is essentially
 the same.
 
 When it comes to making changes to Zendeks ticket forms, we utilize the
-zendesk-ticket-forms-and-fields repos instead of doing this via the Zendesk UI.
+ticket-forms-and-fields repos instead of doing this via the Zendesk UI.
 This allows us to easily revert a change and ensure what is running in our
 production instances is what we have approved. To ensure each runs smoothly, we
 do our changes in set stages.
@@ -256,7 +256,7 @@ reviewed the results.
 ### Repo stage
 
 To prepare for the implementation, you will need to create a merge request to
-the corresponding zendesk-ticket-forms-and-fields repo (see
+the corresponding ticket-forms-and-fields repo (see
 [Useful links](#useful-links) down below).
 
 For an existing ticket forms, this is a simpler approach, since the ticket form
@@ -275,7 +275,7 @@ From here, have one of your fellow Support Ops team members or a Support Ops
 Manager review the merge request and add their approval (or comments). Once
 approval has been added, an implementation date can be determined.
 
-**Note**: All merge requests in the zendesk-ticket-forms-and-fields repo should
+**Note**: All merge requests in the ticket-forms-and-fields repo should
 contain the following labels (the same as with issues):
 
 * "Support-Ops-Category::Forms"
@@ -362,5 +362,5 @@ After adding it in the Support Week in Review, you then want to cross-link
 
 ## Useful links
 
-* [zendesk-ticket-forms-and-fields repo for Zendesk Global](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields)
-* [zendesk-ticket-forms-and-fields repo for Zendesk US Federal](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-forms-and-fields)
+* [ticket-forms-and-fields repo for Zendesk Global](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/ticket-forms-and-fields)
+* [ticket-forms-and-fields repo for Zendesk US Federal](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-forms-and-fields)
