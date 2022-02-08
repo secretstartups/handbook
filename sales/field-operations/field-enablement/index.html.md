@@ -245,6 +245,7 @@ If you have a Field Communications request (process change, announcement, etc.),
         - `lxp` - label for GitLab Learning Experience Platform    
         - `sales onboarding` - label for issues related to sales/field onboarding
         - `QBR` - requests from Sales QBRs
+        - `FE: Revenue Programs` - label for issues related to Field Enablement-led pipeline growth & acceleration programs
         - `sales enablement sessions` - label for weekly virtual sales enablement series
         - `sko` - label for issues related to Sales Kickoff
         - `status:plan` - used in conjunction with sales enablement sessions to indicate when a session topic has been prioritized but not yet scheduled
