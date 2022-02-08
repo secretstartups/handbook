@@ -375,7 +375,7 @@ Product Managers are responsible for scheduling all issues in their respective [
 
 Direction issues are the big, prioritized new features for each release. They are limited to a small number per release so that we have plenty of capacity to work on other important issues, bug fixes, etc.
 
-If you want to schedule an `Accepting merge requests` issue, please remove the label first.
+If you want to schedule an issue with the `Seeking community contributions` label, please remove the label first.
 
 Any scheduled issue should have a team label assigned, and at least one type label.
 
