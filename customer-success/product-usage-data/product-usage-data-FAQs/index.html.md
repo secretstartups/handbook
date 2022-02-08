@@ -52,6 +52,9 @@ _Last updated 2022-01-10._
 #### What data comes from Cloud Licensing?
 - Operational Metrics
 
+#### How often is the data updated in Gainsight?
+- SaaS - Usage Ping is manually pulled weekly on a schedule for the entire instance, for all customers/namespaces at once, typically on Mondays. It's loaded and passed through Snowflake into Gainsight, and those processes can take a day or two to complete.
+- Self-Managed - Each Self-Managed instance Usage Ping is updated weekly, and the schedule of the weekly ping varies from instance to instance. It's loaded and passed through Snowflake into Gainsight, and those processes can take a day or two to complete.
 ---
 
 ## Data Definitions
