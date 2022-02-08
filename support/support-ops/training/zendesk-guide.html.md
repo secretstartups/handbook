@@ -227,7 +227,7 @@ following:
 
 ```bash
 rm -fr ~/zendesk-theme-temp
-git clone git@gitlab.com:gitlab-com/support/support-ops/zendesk-theme.git ~/zendesk-theme-temp
+git clone git@gitlab.com:gitlab-com/support/support-ops/zendesk-global/zendesk-theme.git ~/zendesk-theme-temp
 cd ~/zendesk-theme-temp
 zip -r zendesk-theme * -x .git .gitignore
 mv zendesk-theme.zip ~/Downloads/
@@ -237,8 +237,7 @@ mv zendesk-theme.zip ~/Downloads/
 
 ```bash
 rm -fr ~/zendesk-theme-temp
-git clone git@ops.gitlab.net:gitlab-com/support/zendesk-us-federal/zendesk-theme.git
-zendesk-theme-temp
+git clone git@ops.gitlab.net:gitlab-com/support/zendesk-us-federal/zendesk-theme.git ~/zendesk-theme-temp
 cd ~/zendesk-theme-temp
 zip -r zendesk-theme * -x .git .gitignore
 mv zendesk-theme.zip ~/Downloads/
@@ -434,5 +433,5 @@ After adding it in the Support Week in Review, you then want to cross-link
 * [Zendesk Guide resources](https://support.zendesk.com/hc/en-us/articles/204231676-Guide-resources)
 * [Zendesk Global support portal](https://support.gitlab.com)
 * [Zendesk US Federal support portal](https://federal-support.gitlab.com)
-* [zendesk-theme Global repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-theme)
+* [zendesk-theme Global repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-theme)
 * [zendesk-theme US Federal repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zendesk-theme)
