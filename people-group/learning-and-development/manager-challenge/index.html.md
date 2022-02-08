@@ -87,7 +87,7 @@ Week 1 will be focused on developing your leadership style as a manager, differe
 | 2022-02-07 | 1 hr 20 minutes | Session 1 - Program Kickoff: Developing Your Leadership Style. Adaptive DNA as a people leader. Introduction to the Manager Challenge |
 | 2022-02-08/09 | Async | Session 2 pre-work |
 | 2022-02-10 | 1 hr 20 minutes | Session 2: Building High Performing Teams or Team Effectiveness Tools |
-| 2022-02-11 | 50 minutes | Optional group coaching and Peer-to-Peer Learning Session |
+
 
 ### Week 2 - Management Fundamentals
 
