@@ -577,18 +577,18 @@ To learn more about the SuperSonics Billing and Subscription Management experien
 
 ##### Creating a Professional Services Quote for Scoped/Custom Services
 
-*   Scoped/Custom Services are those that require consultation with the Professional Services team, and require a custom SOW to be drafted and signed by the customer. This includes any Professional Services that are not fully prepaid.
+*   Scoped/Custom Services are those that require consultation with the Professional Services team, and require a custom SOW to be drafted and signed by the customer. This includes any Professional Services that are not fully prepaid and any cases where a combination of standard sku offerings and custom-scoped services are being sold together in a single opportunity.
 *   Scoped/Custom Services must always be quoted on a standalone opportunity, separately from any subscription products SKUs. (i.e. You may NOT sell a 12 month SaaS Ultimate SKU on the same quote/opp as Scoped/Custom Services).
 *   Create a New Business Opportunity and select “Professional Services Only” under “Opportunity Record Type.”
-*   Create a new subscription quote under the Professional Services opportunity by following the steps above under “new Subscription Quote.” Select the **GitLab Service Package** SKU. Update the price to reflect the total price on the SOW.
+*   Create a new subscription quote under the Professional Services opportunity by following the steps above under “new Subscription Quote.” Select the **GitLab Service Package** SKU. Update the price to reflect the total price on the SOW.  You should use this sku to reflect the total amount of the SOW, even if the SOW includes some standard training classes or other offerings that could be purchased via sku.  **Note:** You do not need to submit the quote for Custom services for approval. Approvals will be handled by the Engagement Manager via the scoping issue, and any discounts in rate should be handled separately via Chatter, as per the [Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.dccvx02huo2y).  The SOW will be sent to the customer for signature, not the quote/order form.
 *   To gain support from the Professional Services team with a Custom SOW, initiate a scoping issue using the [Services Calculator](https://services-calculator.gitlab.io/) and work with a Professional Services [Engagement Manager](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/).
 
 ##### Before submitting a Scoped/Custom Professional Services Opportunity for Closure:
 
-*   Please note that the following items must be attached to the opportunity before it can be Closed Won:
+* Ensure that a supporting Quote object has been created with the amount matching the SOW amount
+* Please note that the following items must be attached to the opportunity before it can be Closed Won:
     *   SOW signed by **both the customer and GitLab's PAO or CFO.****
-    *   Cost Estimate spreadsheet (Link provided by the PS team)
-    *   For opportunities with both - standard professional services skus AND a custom service package - then both a fully executed SOW and Cost Estimate is required 
+    *   Cost Estimate (COGS) spreadsheet (Link provided by the PS team)
 
 #### How to Clone an Existing Quote
 
