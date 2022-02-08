@@ -25,7 +25,7 @@ As per
 
 Instead of managing Zendesk triggers via Zendesk itself, we instead use GitLab
 itself via the
-[zendesk-triggers project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-triggers).
+[triggers project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/triggers).
 This allows us to have version-controlled triggers. For more information on
 managing Zendesk via the various GitLab projects, please review
 [Using the sync repos](sync_repos.html).
@@ -34,7 +34,7 @@ managing Zendesk via the various GitLab projects, please review
 
 As we have many triggers, and they change quite frequently, the best resource to
 see all the current triggers would be the
-[zendesk-triggers project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-triggers).
+[triggers project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/triggers).
 
 | Trigger Name | Category | Position |
 |--------------|----------|:--------:|

@@ -216,7 +216,7 @@ reviewed the results.
 ### Repo stage
 
 To prepare for the implementation, you may need to create a merge request to
-the corresponding zendesk-triggers repo. For more info on that, see the
+the corresponding triggers repo. For more info on that, see the
 [Zendesk Triggers training doc](#triggers.html#repo-stage).
 
 After creating the merge request, make sure it is linked in the original
@@ -226,7 +226,7 @@ From here, have one of your fellow Support Ops team members or a Support Ops
 Manager review the merge request and add their approval (or comments). Once
 approval has been added, an implementation date can be determined.
 
-**Note**: All merge requests in the zendesk-triggers repo should contain the
+**Note**: All merge requests in the triggers repo should contain the
 following labels (the same as with issues):
 
 * "Support-Ops-Category::Triggers"

@@ -33,6 +33,6 @@ The automation creates issues with [label_name\[\]=documentation&label_name\[\]=
 
 **Note:** Make sure to use the template so that your internal note is correctly parsed by the trigger.
 
-This workflow is implemented using a [zendesk trigger](https://gitlab.com/gitlab-com/support/support-ops/zendesk-triggers/-/blob/master/triggers/active/Lifespan%20Stage/Create%20documentation%20issue.yaml) that parses the internal note and sends it to [Zendesk's HTTP target](https://support.zendesk.com/hc/en-us/articles/204890268) that creates a documentation issue.
+This workflow is implemented using a [zendesk trigger](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/triggers/-/blob/master/triggers/active/Lifespan%20Stage/Create%20documentation%20issue.yaml) that parses the internal note and sends it to [Zendesk's HTTP target](https://support.zendesk.com/hc/en-us/articles/204890268) that creates a documentation issue.
 
 When working on creating new docs, please follow the [documentation styleguide](https://docs.gitlab.com/ee/development/documentation/styleguide/#location-and-naming-of-documents).

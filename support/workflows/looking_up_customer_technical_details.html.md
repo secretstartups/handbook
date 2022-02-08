@@ -24,7 +24,7 @@ There are a few places where you can find this information.
 
 When a new ticket comes in and there is an organization attach to this ticket,
 there will be a Zendesk automation trigger
-([Ticket::Internal Comment::Organization Info](https://gitlab.com/gitlab-com/support/support-ops/zendesk-triggers/-/blob/master/triggers/active/Ticket/Internal%20Comment/Organization%20Info.yaml))
+([Ticket::Internal Comment::Organization Info](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/triggers/-/blob/master/triggers/active/Automation%20Stage/Post%20internal%20note%20about%20Organization%20info.yaml))
 that puts an internal comment to the ticket. This internal comment will include
 [organization notes](../support-ops/documentation/zendesk_global_organizations.html#organization-notes)
 if it exists. These organization notes are saved within Zendesk, visible to
