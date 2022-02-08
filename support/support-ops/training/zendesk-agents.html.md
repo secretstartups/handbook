@@ -15,15 +15,15 @@ description: 'Training documentation concerning Zendesk Agents'
 
 This training material will cover the following topics:
 
-* A broad overview of what the zendesk-agents project is.
+* A broad overview of what the agents project is.
 * Managing Zendesk Global support agents via the sync repo.
 * Managing Zendesk agent signatures via the UI.
 * Managing Zendesk US Federal agent signatures via the sync repo.
-* GitLab Support Ops change management process for zendesk-agents.
+* GitLab Support Ops change management process for agents.
 
-## What is zendesk-agents
+## What is agents
 
-[zendesk-agents](https://gitlab.com/gitlab-com/support/support-ops/zendesk-agents)
+[agents](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/agents)
 is a project that runs a daily CI/CD schedule (at midnight UTC) to update
 support agents within Zendesk. This manages the following:
 
@@ -223,5 +223,5 @@ After adding it in the Support Week in Review, you then want to cross-link
 
 ## Useful links
 
-* [zendesk-agents repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-agents)
+* [agents repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/agents)
 * [Zendesk US Federal agent-signatures repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/agents)

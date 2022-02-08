@@ -73,7 +73,7 @@ different scenarios you can encounter:
 ### Change requests for support agents on the Global Zendesk instance
 
 This is handled via CI/CD that is run once per day (midnight UTC) using the
-[zendesk-agents](https://gitlab.com/gitlab-com/support/support-ops/zendesk-agents)
+[agents](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/agents)
 project. As such, all changes for groups should be done by updating the
 support-team.yaml file in the
 [support/team](https://gitlab.com/gitlab-com/support/team) project.
