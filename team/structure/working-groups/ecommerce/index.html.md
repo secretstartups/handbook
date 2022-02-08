@@ -28,6 +28,7 @@ As the demands of the business grow in complexity and the areas that self-servic
 
 The goal of this group is to ultimately define the most effective way to deliver on self-service and bridge the gap between where we are today and our long-term vision and objectives.
 
+_note: [Zuora SSOT](https://gitlab.com/groups/gitlab-org/-/epics/4664) is a prerequisite of any system changes coming out of this working group. Following through on this work enables us to scale and iterate more efficiently, even if we were to recommend leveraging a COTS solution._
 
 ## Exit Criteria & Timeline
 
