@@ -124,7 +124,7 @@ The set timeline is for interim roles to be 3 months. There might be situations 
 
 The main success criteria for interim managers at GitLab is to make one successful hire. The official promotion will not occur before 30 days after that person's hire, so that we can assess whether the hire was truly successful. If the new hire's success is indeterminate at the 30-day mark, then we will continue to review until a firm decision is made. If the new hire is not successful, that does not mean that the Interim Manager cannot eventually move into the full-time role.
 
-In some cases, it may not be practical, fitting with the interim timeline or headcount planning might not allow for the Interim Manager to make a new hire. In this case the Interim Manager and the interim manager's manager should agree on success criteria based on the requirements of the role. Examples of other success criteria are (multiselect):
+In some cases, it may not be practical, fitting with the interim timeline or headcount planning might not allow for the Interim Manager to make a new hire. In this case the Interim Manager and the interim manager's manager should agree on success criteria based on the requirements of the role. The interim period not exceeding three months should take precedence over not being able to make a hire (so long as other success criteria are in place). Examples of other success criteria are (multiselect):
 
 - Successfully pass an interview(s) with the Leader(s) of the department(s) around team management competencies/scorecard for Manager;
 - Successfully pass team member relations case role play with the [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division);
