@@ -264,9 +264,9 @@ At the highest level, Field Marketing is responsible for helping to create [Sale
 Field Marketing Goals for FY22 can be found by searching for the `FY22 Revenue Marketing Goals` shared document in GDrive.
 
 ## The Field Marketing Dashboard 
-Our FMM Dashboard lives in the SAFE space within the platform and provides an overview on the performance of the Field Marketing programs. 
+Our FMM Dashboard lives in the SAFE Intermediate space within the platform and provides an overview on the performance of the Field Marketing programs. 
 
-- [Field Marketing Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/919247) 
+- [Field Marketing Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965060/Field-Marketing-Metrics-(V2---WIP)) 
 
 ## Useful Links
 This section provides links to relevant reports that may live outside of the Field Marketing Dashboard. 
@@ -282,8 +282,7 @@ This section provides links to relevant reports that may live outside of the Fie
     * Volume 1. New First Order = New/Volume
     * Volume 2. New - Connected = New/Volume
     * Volume 3. Growth = Growth
-- [Sales Funnel Target vs. Actuals](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual)
-- [Linear Attribution Dashboard](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution)
+- [Linear Attribution Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965070/WIP:-TD-Attribution)
 - [FMM Weighted ARR Contribution](https://gitlab.my.salesforce.com/01Z4M000000oYas) - which will be deprecated once ARR has been updated to both the Linear Attribution & the FMM Dashbord. 
 - [Digital spend Dashboard via PMG Agency country detail](https://datastudio.google.com/u/0/reporting/1NL1FxHvoXRul4vlQJCVfWWfwsu8Jz1XZ/page/kmnGB)
 - [Field Marketing Specific digital spend Dashboard via PMG agency](https://datastudio.google.com/reporting/17t7s-cbcFUghpBHD1xlU8hBe8P7IHZGK/page/mPgDB)
@@ -321,7 +320,7 @@ While we can see our ROI in 3 different reports, our charge for FY22, is to help
 
 ### Contribution to sales pipeline
 
-This can be calculated by heading to the [Marketing Linear Attribution Dashboard](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution). NOTE: Ensure you’ve got your filters properly dialed in.
+This can be calculated by heading to the [Marketing Linear Attribution Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965070/WIP:-TD-Attribution). NOTE: Ensure you’ve got your filters properly dialed in.
 * Default to setting the opportunity created date to the current fiscal year - to pull the data you'd like to report out on
 * It takes about 15 days for MQLs<>SAO, therefore pull the campaigns report
 
@@ -350,7 +349,7 @@ You’ll then want to sort by `Ad Campaign Name (FT)`, which answers the questio
 
 If you did not have a specific SFDC Campaign you were driving to, and you wanted to see the success of your campaign, then you would still refer to the [WW SFDC Field Marketing Digital Report](https://gitlab.my.salesforce.com/00O4M000004aA0V), add in your campaigns UTM there, using the filter `Ad Campaign Name` [contains] and add your UTM.
 
-Please note that whilst you can track leads via SFDC campaigns or UTM reports, pipeline generated should be viewed on [Sisense](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution) only, as SFDCs last touch model is different from our multi touch attribution model.
+Please note that whilst you can track leads via SFDC campaigns or UTM reports, pipeline generated should be viewed on [Sisense](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965070/WIP:-TD-Attribution) only, as SFDCs last touch model is different from our multi touch attribution model.
 
 #### How to trouble shoot your ROI questions
 If you have a quick 1 off question on reporting, then please feel free to ask the question in the #fieldmarketing slack channel.
