@@ -146,15 +146,15 @@ Remediation options will vary based on if the team members underperformance is s
 
 ### Skill-based performance remediation
 
-- [Coaching](/handbook/leadership/underperformance/#coaching) during 1:1 meetings
-- [Written Performance Letter](https://about.gitlab.com/handbook/leadership/underperformance/#written-performance-letter) or Performance Improvement Plan (PIP)](/handbook/leadership/underperformance/#performance-improvement-plan-pip)
+- [Coaching](/handbook/leadership/underperformance/#coaching) 
+- [Written Performance Letter](https://about.gitlab.com/handbook/leadership/underperformance/#written-performance-letter) or [Performance Improvement Plan (PIP)](/handbook/leadership/underperformance/#performance-improvement-plan-pip)
 - [Letting Someone Go](/handbook/leadership/underperformance/#letting-someone-go)
 
 **Important**: [As noted in the PIP section below](/handbook/leadership/underperformance/#not-the-first-step-to-letting-someone-go), we only implement PIPs if we believe team members have the ability to be successful on the PIP. For team members who truly lack the **skill** for the role even after a period of coaching and support, we would not implement a PIP.
 
 ### Will-based performance remediation
 
-- [Coaching](/handbook/leadership/underperformance/#coaching) during 1:1 meetings
+- [Coaching](/handbook/leadership/underperformance/#coaching) 
 - [Written Warning](/handbook/leadership/underperformance/#written-warning)
 - [Letting Someone Go](/handbook/leadership/underperformance/#letting-someone-go)
 
