@@ -214,7 +214,8 @@ GitLab Team Members can easily schedule a Coffee Chat in Google Calendar and lin
 Watch this [short video](https://youtu.be/zbbEn_PznK0) to see how it's done.
 
 1. Search for the person in Google Calendar
-1. Click the time and name the meeting **Name / Name coffee-chat**
+1. Choose the time and duration (25 minutes is common for a coffee chat).
+1. Name the meeting **Name / Name coffee-chat**
 1. Click on *Make it a Zoom meeting*
 
 Google Calendar will warn you if the time is outside the other person's working hours, and you can select from a list of suggested times.
