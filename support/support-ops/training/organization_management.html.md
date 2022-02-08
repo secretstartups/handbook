@@ -127,7 +127,7 @@ fellow Support Ops team members for assistance.
 
 Much like many other aspects of Zendesk, we try to manage some aspects of
 organizations via sync repos. For Zendesk Global, this would be done via the
-[zendesk-organizations repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-organizations).
+[organizations repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations).
 Here, you will see files containing the organization's editable information
 (the filenames are the Zendesk ID of the organization). Currently, the only
 editable information is:
@@ -137,5 +137,5 @@ editable information is:
 
 ## Useful links
 
-* [zendesk-organizations repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-organizations)
+* [organizations repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations)
 * [Shared Organizations workflow](../workflows/shared_organizations.html)

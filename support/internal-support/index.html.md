@@ -246,7 +246,7 @@ Zendesk has the ability to store Organization and User notes. Using Zendesk
 triggers, we put these into each ticket submitted by that organization or
 user. If there is important information you wish to have included in tickets
 for an organization or user, please [create an issue under the
-zendesk-organizations project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-organizations/-/issues/new).
+organizations project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations/-/issues/new).
 template. Please be sure to indicate whether the information is only valid
 for a specific period of time so that we may include that fact in the notes.
 
