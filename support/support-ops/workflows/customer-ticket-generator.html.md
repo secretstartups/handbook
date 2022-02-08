@@ -23,7 +23,7 @@ The steps in completing these are:
 ## Review the request
 
 The first stage is to review the request in the
-[issue tracker](https://gitlab.com/gitlab-com/support/support-ops/customer-ticket-generator/-/issues).
+[issue tracker](https://gitlab.com/gitlab-com/support/support-ops/forms/customer-ticket-generator/-/issues).
 Make sure it contains all the needed information and has a person you can
 contact for updates on the request itself.
 
