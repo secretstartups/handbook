@@ -387,5 +387,5 @@ After adding it in the Support Week in Review, you then want to cross-link
 * [Zendesk Global view documentation](../documentation/zendesk_global_views.html)
 * [Zendesk US Federal view documentation](../documentation/zendesk_us_federal_views.html)
 * [Zendesk View documentaiton](https://support.zendesk.com/hc/en-us/articles/203690806-Creating-views-to-manage-ticket-workflow)
-* [Zendesk Global views repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-views)
+* [Zendesk Global views repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/views)
 * [Zendesk US Federal views repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/views)
