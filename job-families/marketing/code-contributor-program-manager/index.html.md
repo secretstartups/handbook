@@ -17,7 +17,7 @@ The Code Contributor Program Manager is a [grade 6](/handbook/total-rewards/comp
 * Ensure there are metrics around contributors, merges, backlog, and geographic and organizational diversity.
 * Run a complete funnel around contributors, similar to a marketing and sales funnel, including stage criteria, conversion rates, and time per stage per cohort.
 * Ensure all the steps in the contribution lifecycle are defined and have actions, for example when the first contribution gets merged we recognize their contribution and offer to pair them with an experienced mentor.
-* Make it easy to contribute, for example make it easier to find [issues marked 'accepting merge requests'](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#label-for-community-contributors-accepting-merge-requests)
+* Make it easy to contribute, for example make it easier to find issues labeled "Seeking community contributions".
 * Manage community contributions including triaging, monitoring, and escalating merge requests.
 * Organize contributor-focused events such as hackathons, contributor summit, and industry conferences.
 * Recognize people in the community, for example with badges, swag, spotlights, and awards.
