@@ -199,7 +199,7 @@ We apply [A/B testing](https://hbr.org/2017/06/a-refresher-on-ab-testing) to eve
 
 See more about how we set up A/B testing on the [issue page](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/230).
 
-## Program udpate tracker
+## Program update tracker
 
 Customer email programs are updated when new content is added, existing content changes, or existing content needs to be removed.
 
