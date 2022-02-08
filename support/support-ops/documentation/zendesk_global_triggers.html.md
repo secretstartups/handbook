@@ -106,6 +106,7 @@ see all the current triggers would be the
 | [Auto-work no confirmation email tickets](https://gitlab.zendesk.com/agent/admin/triggers/1900006117194) | Automation Stage | 10 |
 | [Auto-work forgot password tickets](https://gitlab.zendesk.com/agent/admin/triggers/360085019860) | Automation Stage | 11 |
 | [Auto-work account blocked tickets](https://gitlab.zendesk.com/agent/admin/triggers/360085341899) | Automation Stage | 12 |
+| [Auto-reply to non-priority prospects](https://gitlab.zendesk.com/agent/admin/triggers/360088993719) | Automation Stage | 13 |
 | [Docs link in description](https://gitlab.zendesk.com/agent/admin/triggers/360016330060) | Lifespan Stage | 1 |
 | [MR link in description](https://gitlab.zendesk.com/agent/admin/triggers/360016435479) | Lifespan Stage | 2 |
 | [Issue link in description](https://gitlab.zendesk.com/agent/admin/triggers/360016434919) | Lifespan Stage | 3 |
