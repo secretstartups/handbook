@@ -1184,8 +1184,6 @@ If there is a PO document and customer wants GitLab to add the PO nr to the invo
 
 Customer POs should be remitted to PO@gitlab.com (Direct Deals Only)
 
-Partner or Distributor POs should be remitted to partnersupport@gitlab.com (Channel Deals Only)
-
 **How can I determine whether a customer requires POs?**
 
 **For new customers:**
