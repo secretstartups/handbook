@@ -41,7 +41,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
     *   [Billing FAQs and Useful Tips](https://gitlab.com/gitlab-com/finance/-/wikis/Billing-Team-FAQs-&-Useful-Tips)
     *   Sample Order Form 
 
-### Deal Desk: What We Do
+### What We Do
     
 *  Sales Support 
 *  Troubleshooting Quote Configuration
@@ -57,7 +57,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
 * RFP/Vendor Form Responses
 * Customer / Partner facing communication 
 
-### Deal Desk: Who and Where We Are
+### Who and Where We Are
 
 #### Regional Support
 
@@ -92,7 +92,7 @@ As of 2022-02-01, the Deal Desk team is structured as follows:
   - Deal Desk Specialist (EMEA)
   - Deal Desk Specialist (EMEA)
 
-### Deal Desk: Communicating with the Team
+### Communicating with the Deal Desk Team
 
 #### Salesforce Chatter Communication
 
@@ -143,7 +143,7 @@ Deal Desk AMA's are an opportunity to invite someone from Deal Desk to your loca
 
 Chatter or Slack #sales-support if you are interested in having Deal Desk join your team call! 
 
-### Deal Desk: Key Performance Indicators
+### Key Performance Indicators
 
 #### 1. Deal Desk  Case SLAs 
 
