@@ -29,7 +29,7 @@ instantly. They are time based than event based.
 
 Instead of managing Zendesk automations via Zendesk itself, we instead use
 GitLab itself via the
-[zendesk-automations project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-automations).
+[automations project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/automations).
 This allows us to have version-controlled automations. For more information on
 managing Zendesk via the various GitLab projects, please review
 [Using the sync repos](sync_repos.html).

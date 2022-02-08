@@ -222,7 +222,7 @@ team!
 </figure>
 
 When it comes to making changes to Zendeks automations, we utilize the
-zendesk-automations repos instead of doing this via the Zendesk UI. This allows
+automations repos instead of doing this via the Zendesk UI. This allows
 us to easily revert a change and ensure what is running in our production
 instances is what we have approved. To ensure each runs smoothly, we do our
 changes in set stages.
@@ -308,7 +308,7 @@ reviewed the results.
 ### Repo stage
 
 To prepare for the implementation, you will need to create a merge request to
-the corresponding zendesk-automations repo (see [Useful links](#useful-links)
+the corresponding automations repo (see [Useful links](#useful-links)
 down below).
 
 For an existing automation, this is a simpler approach, since the automation
@@ -327,7 +327,7 @@ From here, have one of your fellow Support Ops team members or a Support Ops
 Manager review the merge request and add their approval (or comments). Once
 approval has been added, an implementation date can be determined.
 
-**Note**: All merge requests in the zendesk-automations repo should contain the
+**Note**: All merge requests in the automations repo should contain the
 following labels (the same as with issues):
 
 * "Support-Ops-Category::Automations"
@@ -416,6 +416,6 @@ After adding it in the Support Week in Review, you then want to cross-link
 
 * [Zendesk Global Automation documentation](../documentation/zendesk_global_automations.html)
 * [Zendesk US Federal Automation documentation](../documentation/zendesk_us_federal_automations.html)
-* [Zendesk Global Automation repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-automations)
+* [Zendesk Global Automation repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/automations)
 * [Zendesk US Federal Automation repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/automations)
 * [Zendesk official documentation](https://support.zendesk.com/hc/en-us/articles/203662236-About-automations-and-how-they-work)

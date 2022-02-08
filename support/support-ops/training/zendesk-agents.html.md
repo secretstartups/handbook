@@ -133,7 +133,7 @@ Ask if they would like to review them. If they decline, you may move on. If
 they wish to do so, await their update after they have reviewed the results.
 an implementation date can be determined.
 
-**Note**: All merge requests in the zendesk-automations repo should contain the
+**Note**: All merge requests in the agents repo should contain the
 following labels (the same as with issues):
 
 * "Support-Ops-Category::Agent Signatures"

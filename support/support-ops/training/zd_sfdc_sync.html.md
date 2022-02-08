@@ -287,7 +287,7 @@ From here, have one of your fellow Support Ops team members or a Support Ops
 Manager review the merge request and add their approval (or comments). Once
 approval has been added, an implementation date can be determined.
 
-**Note**: All merge requests in the zendesk-automations repo should contain the
+**Note**: All merge requests in the zd-sfdc-sync-main repo should contain the
 following labels (the same as with issues):
 
 * "Support-Ops-Category::Other"

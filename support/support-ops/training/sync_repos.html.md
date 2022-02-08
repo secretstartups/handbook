@@ -105,7 +105,7 @@ deactivated in the sync repo and will therefore sync properly to Zendesk.
 ## Useful links
 
 * Zendesk Global sync repos
-  * [zendesk-automations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-automations)
+  * [automations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/automations)
   * [zendesk-macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros)
   * [zendesk-organizations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-organizations)
   * [zendesk-ticket-forms-and-fields](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields)
