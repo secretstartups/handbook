@@ -74,7 +74,11 @@ The following is an example for a TAM sending the email if not broached on a cal
 
 *The following are some suggested dates and times - typically these reviews take 60-90 minutes. I'm looking forward to review future strategy with you and the team!*
 
+##### eMail templates by region - Can be used as a starting point to send an EBR proposal to customers:
 
+For ease of use / fast updating, available in Google Doc format:
+
+1. [DACH/Germany](https://docs.google.com/document/d/1b_c_UYrZBFyegDZN_fmYcMraQ9NHdrsIndSkPMp0X_Y/edit) (GitLab internal)
 
 #### Initiated by GitLab leadership
 
