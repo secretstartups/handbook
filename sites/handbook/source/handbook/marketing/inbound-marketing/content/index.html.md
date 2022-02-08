@@ -98,6 +98,17 @@ We accomplish this through:
 1. **Make it easy.** Relevant content is easy to find regardless of format. Our content finds our audiences where they are.
 1. **Media company mindset.** Our global content team operates with the mindset that our audience is our customers, content is our product, and subscribers are our currency.
 
+## Content Distribution
+
+All content should have a distribution strategy. It's generally better to have fewer pieces of content with solid distribution plans, rather than more content with lackluster distribution plans. Before a piece of content moves into production, consider the below.
+
+1. When, how, and where will this content be distributed beyond its initial home? Build a plan for each piece of content for where it will be distributed. Distribution inspiration can be found from [this Twitter thread](https://twitter.com/TheCoolestCool/status/1228010347690385410) from Ross Simmonds of Foundation. 
+   * This can include Twitter threads, LinkedIn shares, Instagram stories, and [team member social media advocacy/enablement](/handbook/marketing/corporate-marketing/social-marketing/team-member-social-advocacy/).
+   * Document forums and communities where this content will be shared, and from whom.
+   * Document newsletters and events where this content may be submitted for syndication and resharing. 
+   
+1. Can this content be pitched to media outlets? GitLab's [Corporate Communications team](/handbook/marketing/corporate-marketing/corporate-communications/) (via `external-comms` Slack channel) can provide guidance on if a piece of content is suitable for pitching, or inclusion as part of a broader pitch campaign.
+
 ## FY21-22 Direction
 
 Our FY21-22 direction focuses on building inbound organic search traffic and getting traffic into a funnel. We need to improve our search rankings for key search terms related to our use cases and optimize those pages for conversion. We will do this by:
