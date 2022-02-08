@@ -45,7 +45,7 @@ Below is a list of all of our installed packages in SFDC:
 | Xactly Express                                                   | Xactly Corp                             | [@james_harrison](https://gitlab.com/james_harrison)  | Sales Ops | 5/28/2020
 | Chorus CTI                                                       | AffectLayer Inc                         | [@james_harrison](https://gitlab.com/james_harrison)                 | Sales Ops   | 5/28/2020
 | DataFox Orchestrate                                              | DataFox                                 | [@james_harrison](https://gitlab.com/james_harrison_)                 | Sales Ops                  | 5/28/2020
-| Visual Compliance RPS Screening                                  | VisualCompliance                        | [@rnalen](https://gitlab.com/rnalen)           | Leagal              | 5/28/2020
+| Visual Compliance RPS Screening                                  | VisualCompliance                        | [@rnalen](https://gitlab.com/rnalen)           | Legal              | 5/28/2020
 | LeanData                                                         | LeanData                                | [@bethpeterson](https://gitlab.com/bethpeterson)                 | Marketing                  | 5/28/2020
 | Xactly Express Dashboards and Reports                            | Xactly Corporation                      | [@james_harrison](https://gitlab.com/james_harrison)  | Sales Ops | 5/28/2020
 | Salesforce.com CRM Dashboards                                    | Salesforce.com                          | [@jbrennan1](https://gitlab.com/jbrennan1)                               | Sales Systems                           | 5/28/2020
