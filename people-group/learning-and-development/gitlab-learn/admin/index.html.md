@@ -1129,7 +1129,7 @@ The `gitlablearn@gmail.com` will trigger a new professional services Zendesk tic
 
 #### Zendesk macro for free users
 
-The contents of the `General::Self-managed or GitLab.com Free User Request` macro can be located [here](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Self-managed%20or%20GitLab.com%20Free%20User%20Request.yaml).
+The contents of the `General::Self-managed or GitLab.com Free User Request` macro can be located [here](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/Self-managed%20or%20GitLab.com%20Free%20User%20Request.yaml).
 
 ### Admin Support
 
