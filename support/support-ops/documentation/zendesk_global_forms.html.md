@@ -24,7 +24,7 @@ These fall into one of two types:
 
 Instead of managing Zendesk forms via Zendesk itself, we instead use GitLab
 itself via the
-[zendesk-ticket-forms-and-fields project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields).
+[ticket-forms-and-fields project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/ticket-forms-and-fields).
 This allows us to have version-controlled forms. For more information on
 managing Zendesk via the various GitLab projects, please review
 [Using the sync repos](sync_repos.html).

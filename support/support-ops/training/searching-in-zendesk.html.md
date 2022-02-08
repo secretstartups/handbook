@@ -228,5 +228,5 @@ Task:
 ## Useful links
 
 * [Zendesk search reference](https://support.zendesk.com/hc/en-us/articles/203663226-Zendesk-Support-search-reference)
-* [zendesk-ticket-forms-and-fields repo for Zendesk Global](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields)
-* [zendesk-ticket-forms-and-fields repo for Zendesk US Federal](https://ops.gitlab.new/gitlab-com/support/zendesk-us-federal/zendesk-ticket-forms-and-fields)
+* [ticket-forms-and-fields repo for Zendesk Global](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/ticket-forms-and-fields)
+* [ticket-forms-and-fields repo for Zendesk US Federal](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-forms-and-fields)
