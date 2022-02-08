@@ -23,10 +23,10 @@ The team members who participate in this competition will be awarded as follows:
 
 | |Winners|Award|
 | :---:  | :---:  | :---:  |
-|<img src="Gold.png"  width="120">|First place| Apple watch |
-|<img src="Silver.png"  width="120">|Second place| Allbirds|
+|<img src="Gold.png"  width="120">|First place| Apple watch (series 7) |
+|<img src="Silver.png"  width="120">|Second place| Allbirds shoes|
 |<img src="Bronze.png"  width="120">|Third place| Back Massager|
-|<img src="Finance.png"  width="120">|Participation (Movement of at least 40 mins) | TBD |
+|<img src="Finance.png"  width="120">|Participation (Movement of at least 40 mins per week) | TBD |
 
 Consistency and sustained motivation are important in order to achieve the goals you set for yourself. Team members will earn awards on the time they dedicate to move. It can be a 1 hour walk or a 1 hour rock climbing. 
 
@@ -34,9 +34,9 @@ Consistency and sustained motivation are important in order to achieve the goals
 
 Please add the times you have exercised to [this document](https://docs.google.com/spreadsheets/d/1IQ_hIUnbCXezd_vgui_PqnjGT-UKcJxXmSK-1YhUdts/edit#gid=0). There is a tab for each month of FY23 Q1. Find your name and add your time. For example, if on Monday 2022-02-07 you exercised 25 minutes, add `25` to the table. 
 
-## Advice
+### Advice
 
-### Keeping motivation high
+#### Keeping motivation high
 
 Make it fun. Find sports or activities that you enjoy, then vary the routine to keep it interesting. You can challenge yourself to increase the intensity or length of your exercise every week to keep yourself engaged.
 
@@ -46,7 +46,7 @@ In this approach you create room for success based on what you have already achi
 
 To keep yourself and others motivated, consider joining the [#finance-movement-challenge](https://gitlab.slack.com/archives/C031ZDJR58T) slack channel and share photos/videos of your daily movement achievements
 
-### Start Small
+#### Start Small
 
 When we say small, we mean it. You can take 15 mins walk laps around the house during a 1:1, walk around the neighborhood, or practice 15 minutes of yoga to start with. All your movement adds up!
 
