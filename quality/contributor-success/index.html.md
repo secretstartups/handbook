@@ -104,6 +104,19 @@ on how we will measure and track this goal.
 * Participate in GitLab's overall open source outreach events and processes.
 * Collaborate closely with our Marketing counterparts and Core team.
 
+## OKRs
+
+Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/okrs/). The below shows current and previous quarter OKRs, it updates automatically as the quarter progresses.
+
+### Current quarter
+
+<iframe src="https://app.ally.io/public/TQRmKHpOC7NoZb7" class="dashboard-embed" height="1600" width="100%" style="border:none;"> </iframe>
+
+### Previous quarter
+<!-- uncomment after FY23Q2 starts
+<iframe src="https://app.ally.io/public/e0izWt13OqmGHuO" class="dashboard-embed" height="1600" width="100%" style="border:none;"> </iframe>
+--> 
+
 ## Project Management
 
 This team has the following immediate work items planned.
