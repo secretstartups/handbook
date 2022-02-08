@@ -62,7 +62,7 @@ App information:
 
 * Located in the ticket sidebar
 * This application was developed in-house and can be found
-  [Due Date Picker project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-apps/due-date-picker).
+  [Due Date Picker project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/due-date-picker).
 
 ### Support Uploader
 
@@ -249,7 +249,7 @@ App information:
   * Support Staff
   * Support Staff - Explore
 * This application was developed in-house and can be found
-  [SaaS Account Ticket Helper project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-apps/saas-account-ticket-helper).
+  [SaaS Account Ticket Helper project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/saas-account-ticket-helper).
 
 ### 2FA App
 
@@ -269,7 +269,7 @@ App information:
   * Support Managers
   * Support Ops
 * This application was developed in-house and can be found
-  [2FA App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-apps/2fa-app).
+  [2FA App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/2fa-app).
 
 ### GitLab Reminders App
 
@@ -290,7 +290,7 @@ App information:
 
 * Located in the navbar
 * This application was developed in-house and can be found
-  [GitLab Reminders App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-apps/gitlab-reminders-app).
+  [GitLab Reminders App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-reminders-app).
 
 ### Show Related Tickets
 
@@ -340,7 +340,7 @@ App information:
 
 * Located in the ticket sidebar
 * This application was developed in-house and can be found
-  [GitLab User Lookup](https://gitlab.com/gitlab-com/support/support-ops/zendesk-apps/gitlab-user-lookup).
+  [GitLab User Lookup](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-user-lookup).
 
 ### Architecture Diagrams
 
@@ -355,7 +355,7 @@ App information:
 
 * Located in the ticket sidebar
 * This application was developed in-house and can be found
-  [GitLab Architecture project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-apps/gitlab-architecture).
+  [GitLab Architecture project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-architecture).
 
 ### Gainsight
 
@@ -381,4 +381,4 @@ App information:
 
 * Located in the ticket sidebar
 * This application was developed in-house and can be found
-  [SFDC Tool project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-apps/sfdc_tool).
+  [SFDC Tool project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/sfdc_tool).
