@@ -318,8 +318,6 @@ Team members from the above countries will get paid through CXC Global on or aro
 #### SafeGuard
 
 - Brazil
-- Italy
-- Spain
 - Switzerland
 
 The internal deadline for changes is the 8th of each month, Payroll will send by the 10th of each month.  Payroll will submit commission, bonus, salary adjust, expense reimbursement to SafeGuard via a password encrypted template.  SafeGuard will issue an invoice for each country no later than the 16th of each month.  Payroll Specialist will review and submit the invoice for payment with AP.
@@ -331,7 +329,6 @@ The internal deadline for changes is the 8th of each month, Payroll will send by
 - Latvia 
 - Costa Rica
 - Chile
-- Denmark
 - Kenya 
 
 Payroll changes will be sent by the 10th of the month.  Global Upside will send an estimated invoice by the 5th of the previous month. For any additional adjustment, they will invoice the adjustment on the following months invoice.  Note: Philippines have two check dates (15th and 30th), any changes sent to Global Upside will be included on the salary of the last day of the month (with the exception of Latvia (the 25th of each month) and the Philippines as quoted above). For all payroll and team member concerns, please email **gitlabpayroll@globalpeoservices.com**. For HR concerns, send email to **gitlabHR@globalpeoservices.com**. 
@@ -343,8 +340,12 @@ Payroll changes will be sent by the 10th of the month.  Global Upside will send 
 - Austria
 - Mexico
 - South Africa
+- Denmark
+- Spain
+- Italy
+- Switzerland
 
-Payroll changes will be sent to Remote every 10th of the month. Payroll changes includes changes on member's information, bonus, commission, expense etc. Remote will provide the  payroll report along with the invoices. Once reviewed and approved, Payroll will forward the invoices to the Accounts Payable team. 
+Payroll changes will be sent to Remote every 10th of the month. Payroll changes includes changes on member's information, bonus, commission, expense etc. Remote will provide the  payroll report along with the invoices. Once reviewed and approved, Payroll will forward the invoices to the Accounts Payable team. Paydate is the 25th of each month (unless any unforeseen banking issue then please allow 1 or 2 days before the last day of the month).
 
 ## Payroll cut off dates
 
