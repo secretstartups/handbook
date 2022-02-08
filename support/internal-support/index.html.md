@@ -186,7 +186,7 @@ GitLab SaaS. Some examples might be:
 | Request | What to do |
 |---------|------------|
 | I need to reach out to a single user | Use the information at [Contacting a User](../workflows/cmoc_workflows.html#contacting-a-user). This will guide you on how to make the request. |
-| I need to reach out to many users | Fill out the [customer ticket generator form](https://gitlab-com.gitlab.io/support/support-ops/customer-ticket-generator/). This will create a structured issue that Support Ops will use to bulk create the requested tickets.  |
+| I need to reach out to many users | Fill out the [customer ticket generator form](https://gitlab-com.gitlab.io/support/support-ops/forms/customer-ticket-generator/). This will create a structured issue that Support Ops will use to bulk create the requested tickets.  |
 
 **Please note**: This is not for marketing or sales related contact. This channel is only for communication with users regarding important items that might affect their usage of GitLab SaaS.
 

@@ -32,11 +32,11 @@ for requests to contact gitlab.com customers via tickets.
 
 There are 3 main components to the Customer Ticket Generator:
 
-* [Customer Ticket Generator project](https://gitlab.com/gitlab-com/support/support-ops/customer-ticket-generator)
+* [Customer Ticket Generator project](https://gitlab.com/gitlab-com/support/support-ops/forms/customer-ticket-generator)
   which generates the
-  [Customer Ticket Generator form](https://gitlab-com.gitlab.io/support/support-ops/customer-ticket-generator/)
+  [Customer Ticket Generator form](https://gitlab-com.gitlab.io/support/support-ops/forms/customer-ticket-generator/)
 * [Customer Ticket Generator zap](https://zapier.com/app/zap/131130311)
-* [Customer Ticket Generator issues](https://gitlab.com/gitlab-com/support/support-ops/customer-ticket-generator/-/issues)
+* [Customer Ticket Generator issues](https://gitlab.com/gitlab-com/support/support-ops/forms/customer-ticket-generator/-/issues)
 
 ### Form
 
@@ -48,7 +48,7 @@ started on the request.
 
 This is where the form is sent for processing. The data is processed via Zapier
 and then generates an issue in the
-[Customer Ticket Generator project](https://gitlab.com/gitlab-com/support/support-ops/customer-ticket-generator).
+[Customer Ticket Generator project](https://gitlab.com/gitlab-com/support/support-ops/forms/customer-ticket-generator).
 
 ### Issues
 
@@ -59,8 +59,8 @@ For more information, see the
 
 ## Useful links
 
-* [Customer Ticket Generator project](https://gitlab.com/gitlab-com/support/support-ops/customer-ticket-generator)
-* [Customer Ticket Generator form](https://gitlab-com.gitlab.io/support/support-ops/customer-ticket-generator/)
+* [Customer Ticket Generator project](https://gitlab.com/gitlab-com/support/support-ops/forms/customer-ticket-generator)
+* [Customer Ticket Generator form](https://gitlab-com.gitlab.io/support/support-ops/forms/customer-ticket-generator/)
 * [Customer Ticket Generator zap](https://zapier.com/app/zap/131130311)
-* [Customer Ticket Generator issues](https://gitlab.com/gitlab-com/support/support-ops/customer-ticket-generator/-/issues)
+* [Customer Ticket Generator issues](https://gitlab.com/gitlab-com/support/support-ops/forms/customer-ticket-generator/-/issues)
 * [Customer Ticket Generator workflow](../workflows/customer-ticket-generator.html)
