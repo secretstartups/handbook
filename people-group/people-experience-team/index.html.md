@@ -77,7 +77,7 @@ The following factors are considered when allocating in the issue:
 
 There are certain tasks that need to be completed by all the different departments and team members and we as the People Experience Team need to ensure to remain compliant in line with these tasks. Herewith a breakdown of the important compliance and team tasks:  
 
-- Onboarding
+##### Onboarding Audit
 This will be the responsibility of the People Experience Associate that is assigned to the specific team members onboarding. 
 
     - Ensure that the new team member has shared a screenshot of their FileVault disk encryption and computer serial number in the onboarding issue. 
@@ -86,8 +86,7 @@ This will be the responsibility of the People Experience Associate that is assig
     - Ensure that an onboarding buddy has been assigned to assist the new team member. 
     - Ping the relevant team members to call for a task to be completed in the onboarding issue.
 
-- Offboarding
-
+##### Offboarding Audit
 This will be the responsibility of the People Experience Associate that is assigned to the specific team members offboarding. 
 
     - Ensure that all the different departments complete their tasks within the 5 day due date. 
@@ -95,13 +94,36 @@ This will be the responsibility of the People Experience Associate that is assig
     - Ping the relevant team members to call for a task to be completed in the offboarding issue.
     - Confirm that a departure announcement has been made in #team-member-updates on Slack.
 
-- Career Mobility 
-
+##### Career Mobility Audit
 This will be the responsibility of the People Experience Associate that is assigned to the specific team members career mobility issue. 
 
     - Check to see whether the team member that has migrated needs any guidance.
     - Ensure that the previous manager and current manager completes their respective tasks. 
     - The issue should be closed within 2 weeks of creation, ping the relevant team members to call for a task to be completed in the issue.
+
+#### Referral Bonus Audit
+Cadence: Weekly
+
+The People Experience team will be pinged in the `#peopleops-alerts` Slack channel to complete an audit of whether referral bonuses have been added to the referring team members profile in BambooHR (for referring new hires for the last 3 months). This is part of an [existing automation](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#referral-bonus-reminders). 
+
+The People Experience Associate will open the Greenhouse entry to confirm whether a referral was made for the new team member. If yes, proceed to the BambooHR profile of the referring team member and verify that a bonus has been added correctly as per the [referral requirements](https://about.gitlab.com/handbook/incentives/#referral-bonuses). 
+
+**Over and above these audits, the Compliance Specialist will perform their own audits to ensure that certain tasks have been completed.**
+
+#### Payroll Changes Report Audit
+Cadence: Weekly
+
+BambooHR creates a standard Payroll Change report to capture any changes processed on a team member's profile.
+
+Process for auditing:
+
+* At the end of each week, the BambooHR Provisioner downloads a csv of the payroll changes report through that day from BambooHR and imports it into the 'Payroll Changes Report Audit' spreadsheet in a new tab labelled with the corresponding date.
+* Add a column for checkboxes and filter out any "Time off Taken" change types.
+* Review each change captured in the report to ensure the change was intentional, inputted correctly, and proper processing was followed for the change. Once the change has been reviewed, it can be checked off on the report.
+
+#### Emergency Contact Audit
+
+A Sisense notification will be sent to the People Experience team everytime there is a missing BambooHR Emergency Contact. The People Experience Associate in the respective rotation will send an email using the [template](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/missing-emergency-contact.md) available to notify team members to add their Emergency Contacts.
 
 ### Onboarding Audit
 
@@ -214,49 +236,22 @@ Wait for People Experience Team to tag you on the team member’s onboarding iss
 * Ready to Add to ADP
    * Comment on the onboarding issue, tagging US payroll Specialist to add to ADP.
 
-#### Referral Bonus Audit
-Cadence: Weekly
-
-The People Experience team will be pinged in the `#peopleops-alerts` Slack channel to complete an audit of whether referral bonuses have been added to the referring team members profile in BambooHR (for referring new hires for the last 3 months). This is part of an [existing automation](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#referral-bonus-reminders). 
-
-The People Experience Associate will open the Greenhouse entry to confirm whether a referral was made for the new team member. If yes, proceed to the BambooHR profile of the referring team member and verify that a bonus has been added correctly as per the [referral requirements](https://about.gitlab.com/handbook/incentives/#referral-bonuses). 
-
-**Over and above these audits, the Compliance Specialist will perform their own audits to ensure that certain tasks have been completed.**
-
-#### Payroll Changes Report Audit
-Cadence: Weekly
-
-BambooHR creates a standard Payroll Change report to capture any changes processed on a team member's profile.
-
-Process for auditing:
-
-* At the end of each week, the BambooHR Provisioner downloads a csv of the payroll changes report through that day from BambooHR and imports it into the 'Payroll Changes Report Audit' spreadsheet in a new tab labelled with the corresponding date.
-* Add a column for checkboxes and filter out any "Time off Taken" change types.
-* Review each change captured in the report to ensure the change was intentional, inputted correctly, and proper processing was followed for the change. Once the change has been reviewed, it can be checked off on the report.
-
-#### Emergency Contact Audit
-
-A Sisense notification will be sent to the People Experience team everytime there is a missing BambooHR Emergency Contact. The People Experience Associate in the respective rotation will send an email using the [template](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/missing-emergency-contact.md) available to notify team members to add their Emergency Contacts.
-
-
-#### Quarterly Audits
+### Quarterly Template Audits
 
 These are audits that the People Experience Team will complete on a quarterly basis. The Sr. People Experience Associate will open the issue each quarter for these audits.
 
-- Onboarding Issue Audit
+#### Onboarding Issue Template Audit
 
-The first quarter of the year (February 1 to April 30)
-PEA team will need to perfom an audit on the tasks in this issue.
+The first quarter of the year (February 1 to April 30) PEA team will need to perfom an audit on the tasks in this issue.
 
     - ensure compliance pieces are up-to-date
     - add any additional tasks based on OSAT feedback
     - remove any tasks that are unnecessary 
     - go through open issues to close/reach out
 
-- Offboarding Issue Audit
+#### Offboarding Issue Template Audit
 
-The second quarter of the year (May 1- July 31)
-PEA team will need to perform an audit on the tasks in this issue.
+The second quarter of the year (May 1- July 31) PEA team will need to perform an audit on the tasks in this issue.
 
   - ensure de-provisioners are correctly listed
   - ensure systems are up-to-date
@@ -264,25 +259,26 @@ PEA team will need to perform an audit on the tasks in this issue.
   - remove any tasks that are unnecessary
   - go through open issues to close/reach out
 
-- Career Mobility Audit
+#### Career Mobility Template Audit
 
-The third quarter of the year (August 1- October 31)
-PEA team will need to perform an audit on the tasks in this issue
+The third quarter of the year (August 1- October 31) PEA team will need to perform an audit on the tasks in this issue
 
       - ensure compliance pieces are up-to-date
       - review and if applicable, apply, feedback from the career mobility survey
       - remove any tasks that are unnecessary
       - go through open issue to close/reach out
 
-- Code of Conduct & Acknowledgement of Relocation Audit
+#### Code of Conduct & Acknowledgement of Relocation Audit
 
 The People Experience Team will complete a quarterly audit of which team members have not yet signed the Code of Conduct and Acknowledgement of Relocation in BambooHR. 
 
-    - A quarterly report will be pulled from BambooHR for `Code of Conduct 2021` and `Acknowledgement of Relocation 2021` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
-    - If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly.  **Reminder to not send reminders to team members on unpaid or parental leave**
-    - If there are any issues, please escalate to the People Experience Team Lead for further guidance. 
+- A quarterly report will be pulled from BambooHR for `Code of Conduct 2021` and `Acknowledgement of Relocation 2021` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
+   - You can view these by going into BambooHR selecting `Reports`, and then `Signed Documents` on the left panel
+   - Create a new google sheet in the `Audits` folder in the shared People Experience drive named the fiscal year and quarter you are completing the audit
+- If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. **Reminder to not send reminders to team members on unpaid or parental leave**
+- If there are any issues, please escalate to the People Experience Team Lead for further guidance. 
 
-- Anniversary Gift Stock Audit
+#### Anniversary Gift Stock Audit
 
 The People Experience Team will complete a quarterly stock audit of the anniversary gift items in Printfection. To check to see what the current stock levels are, follow this process:
 
@@ -300,7 +296,7 @@ If the stock is low/depleted, we will proceed with placing an order for new stoc
 - Click on `Green Replenish Inventory` button
 - Complete the normal online ordering process (will be further updated when we need to order replenished stock)
 
-- Access Level Audit
+#### Access Level Audit
 
 Cadence: Every Quarter / As per requirement of Security Audit Team
 
@@ -337,8 +333,6 @@ Process:
 * For rest of the team members fill the Access Level with “Employee self-service”
 
 Note: A terminated team member on Garden Leave will still have the access level to prevent reporting issues. To prevent the access, IT Ops turns off the access via Okta manually as BambooHR is still active for team members.
-
-
 
 ### Weekly Reporting
 
