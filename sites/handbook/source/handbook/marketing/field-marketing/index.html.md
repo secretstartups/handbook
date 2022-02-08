@@ -937,7 +937,96 @@ We are committed to providing opportunities for discussion, education and commun
 1. Once page is established alert your team that it is live and encourage page engagement
 1. Once an event has been established it should be announced on the [GitLab Government User Group meetup.com page](https://www.meetup.com/gitlab-government-user-group/). Please reach out to @pmejia and/or @KiraAubrey to have the event published.  
    - **Please Note**: Meetup.com will be leveraged for announcements and save the date messaging. Actual registration will take place on external registration sites via GitLab or the involved partner.  
-   - **Best Practice**: Create a Save the Date event for your upcoming event on meetup.com!
+   - **Best Practice**: Create a Save the Date event for your upcoming event on meetup.com!  
+
+### Best Practices - Sample Timeline for a User Group Run Through Carahsoft  
+
+- GitLab Team Member nominates a Speaker and Proposed Topic/ Speaker submission form is received  
+- Intro call with GitLab and Speaker  
+   - **Agenda**    
+     - Confirm topic  
+     - Confirm availability for the event  
+        - Confirm ability to reference agency in promo materials  
+        - What approvals do they need  
+        - What details do they need from GitLab to secure approvals  
+   - **Discuss Desired Format**   
+        - Presentation   
+        - Interview
+        - Panel Interview  
+   - **Review Logistics**  
+        - Carahsoft hosts via Fed Zoom  
+        - Meetup.com page will be leveraged (ask speaker to join our user group on meetup!)  
+   - **Outline Next Steps**  
+        - GitLab to provide speaker with any information needed for approvals  
+        - Speaker to secure approvals  
+        - GitLab to introduce Carahsoft to schedule the dry run  
+        - GitLab and speaker walk through the agenda prior to Dry Run  
+        - Speakers will need to provide a headshot and bio  
+        - Carahsoft will host Dry Run  
+   - **Event Completed**  
+        - Follow up between GitLab and Speaker on approvals until they are secured  
+        - Team effort between marketing channel and nominator  
+        - Follow up between GitLab and Carahsoft once approvals are in flight  
+   - **Invite email copy**  
+        - Confirmation email copy and resources  
+        - Assets  
+        - Coffee order form if applicable  
+   - **Request Graphics from Carahsoft**  
+        - Email banner  
+        - Social media  
+   - **Update Meetup.com with a Save the Date or Event Placeholder**   
+        - Once Approvals are secured Introduce Speakers to Carahsoft  
+        - Carahsoft to work on scheduling dry run  
+        - Carahsoft to share invite for speakers to leverage  
+        - Carahsoft/GitLab to prompt speakers for headshots and bio  
+   - **GitLab and Carahsoft to Collaborate on Event Assets**  
+        - Slide Deck  
+        - Script  
+        - Polling Questions  
+        - Best practice: separate doc for polling questions  
+   - **GitLab and Speaker Sync to Review Content for the Event**   
+        - Dry Run for GitLab, Carahsoft and Speaker  
+        - Review Zoom logistics  
+        - Early login for all participants  
+        - Polling question logistics  
+        - Review Script and flow for the day of the event  
+        - Ensure speakers are comfortable  
+        - Reminder to join user group on Meetup.com  
+        - Reminder to order coffee if applicable  
+   - **Carahsoft and GitLab to leverage cadence call prior to event for moderator prep**  
+        - Review script and define responsibilities around hosting, muting, poll questions etc.  
+        - Review slides  
+   - **Finalize copy for Thank you email and confirm CTA’s and resources**  
+   - **Carahsoft to Load Poll questions into Zoom meeting**
+   - **Day Before Event**   
+        - Carahsoft sends reminder email  
+        - GitLab sends reminder email via meetup.com prompting RSVP’s to register if they haven’t already  
+        - Carahsoft confirms all poll questions are loaded  
+   - **Day of Event**   
+        - GitLab checks meetup.com for any questions and updates invite with zoom link (in case folks want to attend but don’t want to register via Carahsoft)  
+        - Carahsoft and moderators to join 30 minutes early  
+        - Speakers to join 15 minutes early  
+        - Carahsoft to kick off event a couple minutes past the start time  
+   - **Follow Up**    
+        - Carahsoft to send thank you email with resources and prompt to join the next event  
+
+**User Group Event Checklist**  
+
+        - Invite Copy  
+        - Confirmation email copy  
+        - Resources for confirmation email  
+        - Coffee order link (if applicable)  
+        - Graphics  
+        - Email banner  
+        - Social  
+        - Slide template  
+        - Zoom background  
+        - Script  
+        - Poll questions  
+        - Thank you email  
+        - Resources  
+        - Invite for next event (or meetup.com save the date link)  
+
 
 # GitLab Company Information (Including Tax ID)
 
