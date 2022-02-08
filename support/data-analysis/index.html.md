@@ -35,7 +35,7 @@ content on this page.
 
 ### How is this related to the Engineering Analytics Team?
 
-The [Engineering Analytics Team](/handbook/engineering/quality/engineering-analytics-team/)
+The [Engineering Analytics Team](/handbook/engineering/quality/engineering-analytics/)
 formally works on data analysis for the Engineering Division, including Customer
 Support.
 
