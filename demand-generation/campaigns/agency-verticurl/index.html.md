@@ -117,7 +117,7 @@ In an effort to avoid manually adding the issues we are working on with Verticur
 - **FMM-Verticurl::triage** - label FMM adds when they are ready for the regional FMM Manager to review issue
 - **FMM-Verticurl::wip** -label the regional FMM Manager adds when the issue is 100% cleaned up and they are ready to send the work to Verticurl to complete
 - **FMM-Verticurl::review** - label Verticurl adds when they are ready for us to review the work they have completed
-- **FMM-Verticurl::complete** - Work has been completed.
+- **FMM-Verticurl::scheduled** - label Verticurl adds when email sends have been scheduled
 
 ### Triage Steps
 {: #triage-steps-fmm}
@@ -140,8 +140,9 @@ In an effort to avoid manually adding the issues we are working on with Verticur
     - This chrome extension is recommended by `@nbsmith` for screenshots: [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en)
 1. **GitLab**: Issue requester must review and approve email (or provide corrections) via comment in the issue
     - SLA: 24 hours from when the test email is sent and comment added to issue). Feedback and approval in a timeley manner is critical on the GitLab side.
-1. **Verticurl**: Verticurl DRI makes any necessary corrections. If no corrections needed and approval provided by reviewer, Verticurl DRI sets the email to send (time for send to be determined in issue comments).
-1. **Verticurl**: Verticurl checks that email was sent, confirms in comments (tagging issue requester), adds `FMM-Verticurl::complete` and closes out the issue.
+1. **Verticurl**: Verticurl DRI makes any necessary corrections. If no corrections needed and approval provided by reviewer, Verticurl DRI sets the email to send (time for send to be determined in issue comments) and adds the `FMM-Verticurl::scheduled` label.
+1. **Verticurl**: Verticurl checks that email was sent, confirms in comments (tagging issue requester).
+1. **GitLab**: Once email is confirmed sent by Verticurl in step above, FMC closes issue.
 1. Field Marketing will be working through post event reporting with the Verticurl team. Details on that process will be forthcoming.
 
 ### EMail Send Times
