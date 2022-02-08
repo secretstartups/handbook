@@ -110,7 +110,7 @@ deactivated in the sync repo and will therefore sync properly to Zendesk.
   * [zendesk-organizations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-organizations)
   * [zendesk-ticket-forms-and-fields](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields)
   * [zendesk-triggers](https://gitlab.com/gitlab-com/support/support-ops/zendesk-triggers)
-  * [zendesk-views](https://gitlab.com/gitlab-com/support/support-ops/zendesk-views)
+  * [zendesk-views](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/views)
 * Zendesk US Federal sync repos
   * [zendesk-automations](https://ops.gitlab.net/gitlab-com/support/zendesk-automations)
   * [zendesk-macros](https://ops.gitlab.net/gitlab-com/support/zendesk-macros)

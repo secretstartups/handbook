@@ -42,7 +42,7 @@ i.e. Closed tickets after 120 days.
 
 Instead of managing Shared Zendesk views via Zendesk itself, we instead use GitLab
 itself via the
-[zendesk-views project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-views).
+[zendesk-views project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/views).
 This allows us to have version-controlled views. Personal views can be managed by Zendesk itself.
 For more information on managing Zendesk via the various GitLab projects, please review
 [Using the sync repos](sync_repos.html).
