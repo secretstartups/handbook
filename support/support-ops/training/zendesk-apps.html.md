@@ -495,7 +495,7 @@ process applies for Zendesk Triggers. The sole difference in the tags used on
 the requests and merge requests.
 
 When it comes to making changes to Zendeks triggers, we utilize the
-zendesk-triggers repos instead of doing this via the Zendesk UI. This allows us
+triggers repos instead of doing this via the Zendesk UI. This allows us
 to easily revert a change and ensure what is running in our production
 instances is what we have approved. To ensure each runs smoothly, we do our
 changes in set stages.
@@ -581,7 +581,7 @@ reviewed the results.
 ### Repo stage
 
 To prepare for the implementation, you will need to create a merge request to
-the corresponding zendesk-triggers repo (see [Useful links](#useful-links)
+the corresponding triggers repo (see [Useful links](#useful-links)
 down below).
 
 For an existing trigger, this is a simpler approach, since the automation
@@ -600,7 +600,7 @@ From here, have one of your fellow Support Ops team members or a Support Ops
 Manager review the merge request and add their approval (or comments). Once
 approval has been added, an implementation date can be determined.
 
-**Note**: All merge requests in the zendesk-triggers repo should contain the
+**Note**: All merge requests in the triggers repo should contain the
 following labels (the same as with issues):
 
 * "Support-Ops-Category::Apps"
