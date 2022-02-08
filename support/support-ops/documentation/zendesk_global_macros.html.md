@@ -37,7 +37,7 @@ Macros can do a wide range of these things, but the most common actions are:
 
 Instead of managing Zendesk macros via Zendesk itself, we instead use GitLab
 itself via the
-[zendesk-macros project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros).
+[macros project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros).
 This allows us to have version-controlled macros. For more information on
 managing Zendesk via the various GitLab projects, please review
 [Using the sync repos](sync_repos.html).
@@ -46,11 +46,11 @@ managing Zendesk via the various GitLab projects, please review
 
 As we have many macros, and they change quite frequently, the best resource to
 see all the current macros would be the
-[zendesk-macros project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros).
+[macros project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros).
 
 ## How to link to macros
 
 Because macro names sometimes change, linking to them directly is not recommended.
 Instead, use the URL of a search for the macro's `id` number, like so:
 
-    https://gitlab.com/search?group_id=2573624&project_id=17008590&scope=blob&snippets=false&search=id%3A+<id>
+> https://gitlab.com/search?group_id=2573624&project_id=17008590&scope=blob&snippets=false&search=id%3A+<id>

@@ -7,7 +7,7 @@ category: Handling tickets
 
 Whenever possible, include a link to the applicable documentation as part of your response to a ticket. If the documentation does not exist yet, then _make_ the documentation and send the link to the Draft MR in the response. For those situations in which making documentation is a more time-consuming exercise, we have set up a process to automatically create an issue in [the GitLab issue tracker](https://gitlab.com/gitlab-org/gitlab/-/issues) to track documentation tasks that needs to be completed:
 
-- Apply [a macro `General::Document This`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Document%20This.yaml) to the ticket. This macro will apply the `create_doc_issue` tag and prefill the template for you to fill out.
+- Apply [a macro `General::Document This`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/Document%20This.yaml) to the ticket. This macro will apply the `create_doc_issue` tag and prefill the template for you to fill out.
 - Fill out the template changing the title and the description. Example of the filled out template:
 
 ```

@@ -22,7 +22,7 @@ but not everything GitLab-related removed.
 To be sure the end-user is wanting only their support portal account removed,
 we should first ask if that is the case or if they are wanting a full deletion.
 This can be done using the
-[`Support::Support-ops::Confirm Deletion`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/Support-Ops/Confirm%20Deletion.yaml)
+[`Support::Support-ops::Confirm Deletion`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/Support-Ops/Confirm%20Deletion.yaml)
 macro.
 
 If the user wants full account deletion, you would instead want to use the 
@@ -37,7 +37,7 @@ After doing so, note the issue in the original ticket.
 From there, Support-ops will do the following:
 
 * Reply to the ticket using macro
-  [`Support::Support-Ops::Deletion Forthcoming`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/Support-Ops/Deletion%20Forthcoming.yaml)
+  [`Support::Support-Ops::Deletion Forthcoming`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/Support-Ops/Deletion%20Forthcoming.yaml)
 * Delete the support account of the end-user
 * Update and close the previously made issue
 

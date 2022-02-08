@@ -14,7 +14,7 @@ description: Documenting the various types of Security related tickets and the e
 
 ## Overview
 
-Previously, GitLab utilized the email address security@gitlab.com to report and inquire about security concerns. However, as GitLab and our Security Department has grown and expanded, we were unable to provide the high level of service our customers deserve utilizing that singular queue. Users who reach out to `security@gitlab.com` will now receive an auto-reply providing them with specific instructions for reporting the various types of security concerns. If the auto-responder does not answer their questions or a security-related ticket is submitted to Support you can utilize the macro [`Security::All Security Questions`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Security/All%20Security%20Questions.yaml) to provide the user with detailed instructions.   
+Previously, GitLab utilized the email address security@gitlab.com to report and inquire about security concerns. However, as GitLab and our Security Department has grown and expanded, we were unable to provide the high level of service our customers deserve utilizing that singular queue. Users who reach out to `security@gitlab.com` will now receive an auto-reply providing them with specific instructions for reporting the various types of security concerns. If the auto-responder does not answer their questions or a security-related ticket is submitted to Support you can utilize the macro [`Security::All Security Questions`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Security/All%20Security%20Questions.yaml) to provide the user with detailed instructions.   
 
 ## Workflows
 
@@ -25,7 +25,7 @@ Please _do not_ transfer to security and refer to the relevant workflow for the 
 * [Log Requests](/handbook/support/workflows/log_requests.html)
 * [Reporting a New Security Incident](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html)
 
-You can also utilize the [`Security::All Security Questions`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Security/All%20Security%20Questions.yaml) macro for more details on the language. If the workflows above and the Macro do not resolve the customer's concern, please post a link to the ticket in the [#sec-fieldsecurity](https://gitlab.slack.com/archives/CV5A53V70) Slack Channel. 
+You can also utilize the [`Security::All Security Questions`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Security/All%20Security%20Questions.yaml) macro for more details on the language. If the workflows above and the Macro do not resolve the customer's concern, please post a link to the ticket in the [#sec-fieldsecurity](https://gitlab.slack.com/archives/CV5A53V70) Slack Channel. 
 
 ### Triage Workflow
 

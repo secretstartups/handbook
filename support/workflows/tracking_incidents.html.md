@@ -28,7 +28,7 @@ These do not include production issues or general security tickets. See the appr
 Whether it's because a number of tickets are coming in, or we anticipate tickets,
 a macro should be created to track the tickets that are related to a specific incident.
 
-1. Submit [a merge request to create a macro](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros).
+1. Submit [a merge request to create a macro](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros).
 1. When creating the macro, ensure to include the following:
   - Tag: see below for more information.
   - Description: include a link to the relevant issue.

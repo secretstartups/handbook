@@ -106,14 +106,14 @@ deactivated in the sync repo and will therefore sync properly to Zendesk.
 
 * Zendesk Global sync repos
   * [automations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/automations)
-  * [zendesk-macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros)
-  * [zendesk-organizations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-organizations)
+  * [macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros) 
+  * [organizations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations)
   * [ticket-forms-and-fields](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/ticket-forms-and-fields)
-  * [zendesk-triggers](https://gitlab.com/gitlab-com/support/support-ops/zendesk-triggers)
-  * [zendesk-views](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/views)
+  * [triggers](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/triggers)
+  * [views](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/views)
 * Zendesk US Federal sync repos
-  * [zendesk-automations](https://ops.gitlab.net/gitlab-com/support/zendesk-automations)
-  * [zendesk-macros](https://ops.gitlab.net/gitlab-com/support/zendesk-macros)
+  * [automations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/automations)
+  * [macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/macros)
   * [ticket-forms-and-fields](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-forms-and-fields)
-  * [zendesk-triggers](https://ops.gitlab.net/gitlab-com/support/zendesk-triggers)
-  * [zendesk-views](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/views)
+  * [triggers](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/triggers)
+  * [views](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/views)

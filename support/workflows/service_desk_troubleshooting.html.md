@@ -18,7 +18,7 @@ Users can experience various issues while utilizing [Service Desk](https://docs.
 
 ### Troubleshooting Steps
 
-1. When an issue related to Service Desk is received, reply with the [`Support::SaaS::Service Desk Issues First Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Service%20Desk%20Issues%20First%20Response.yaml) Zendesk macro to rule out any known issues.
+1. When an issue related to Service Desk is received, reply with the [`Support::SaaS::Service Desk Issues First Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Service%20Desk%20Issues%20First%20Response.yaml) Zendesk macro to rule out any known issues.
 1. If known issues cited in the macro are not the cause, request the following from the user:
     1. The source email (including headers) for an example email sent to the Service Desk which did not create an issue
     1. A link to the GitLab.com project which the email was attempting to send to

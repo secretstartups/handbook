@@ -105,7 +105,7 @@ A form change results in an auto-reply for tickets that don't have an org associ
 
 ### Tips for sending first replies
 
-1. If the **ticket priority** does not match our [Definitions of Support Impact](/support/#definitions-of-support-impact) let the customer know and agree on the new priority. Use the macro [General::Changed priority](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Changed%20priority.yaml).
+1. If the **ticket priority** does not match our [Definitions of Support Impact](/support/#definitions-of-support-impact) let the customer know and agree on the new priority. Use the macro [General::Changed priority](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/Changed%20priority.yaml).
 1. If the ticket has the potential to become an emergency, ping the engineer on-call for a heads-up.
 1. If a ticket is close to breaching and you need more time to provide a comprehensive response then send an initial quick reply to prevent the breach and follow up with the customer later.
     1. Ask any clarifying questions and let them know when you plan to work on it and when they can expect a reply.
