@@ -19,7 +19,7 @@ The Order Management page outlines the goals, tasks, and standard operating guid
 
 For an in depth overview of Opportunity Approval Booking Requirements, please review the [Sales Order Processing page](/handbook/sales/field-operations/order-processing/).
 
-### Order Management: What We Do
+### What We Do
 
 The GitLab Order Managment team owns the Opportunity Approval and Booking Process, oversees Intial License Delivery, and handles order and subscription reconciliations. Thus team is the DR for all questions related to Opportunity Booking requirements, questions regarding our bookings policies, and processes related to fulfilling an order. 
 
@@ -48,8 +48,8 @@ The GitLab Order Managment team owns the Opportunity Approval and Booking Proces
 **Key Processes & Documentation**
 - [Bookings Policy](/handbook/sales/field-operations/order-processing/#bookings-policy)
 - [Opportunity Approval/Booking Requirements](/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking)
-- [Initial License Fulfillment & Delivery](/handbook/sales/field-operations/sales-operations/order-management/#order-management-license-delivery-review-process)
-- [Subscription Management](/handbook/sales/field-operations/sales-operations/order-management/#order-management-subscriptionrenewal-management-process)
+- [Initial License Fulfillment & Delivery](/handbook/sales/field-operations/sales-operations/order-management/#license-delivery-review-process)
+- [Subscription Management](/handbook/sales/field-operations/sales-operations/order-management/#subscriptionrenewal-management-process)
 - [Sales Order Processing Handbook](/handbook/sales/field-operations/order-processing/)
 
 **Key Reports:**
@@ -70,7 +70,7 @@ Order Management is focused on Opportunity Approvals, License Fulfillment and Su
 
 Please review our [Job Family](https://about.gitlab.com/job-families/sales/order-management/) for more information regarding the scope of this team. 
 
-### Order Management: Who and Where We Are
+### Who and Where We Are
 
 #### Regional Support
 
@@ -102,7 +102,7 @@ As of 2022-02-01, the Order Management team is structured as follows:
   - Order Management Specialist (APAC)
   - Order Management Specialist (EMEA)
 
-### Order Management: Communicating with the Team
+### Communicating with the Order Management Team
 
 The Order Management team's primary communication is Salesforce chatter. When you chatter `@Sales-Support`, it will automatically create a case in the Deal Desk/Order Management queue. 
 - Always use `@Sales-Support` for SFDC requests or post `#sales-support` in Slack for general questions.** This ensures our team is working as efficiently as possible and that you are covered in case the Order Management team member who replied first is unavailable. 
@@ -111,7 +111,7 @@ The Order Management team's primary communication is Salesforce chatter. When yo
 - If you tag @Sales-Support on an existing Chatter post/comment by editing it, that action won`t generate a request to Order Management and we will not receive a notification. Please make sure tag Sales Support on an original post or on a new comment to the original post.
 - Order Management team members monitor the case queue throughout the day. 
 
-### Order Management: Key Performance Indicators
+### Key Performance Indicators
 
 #### 1. Standard Opportunity Approval SLA 
 
@@ -133,7 +133,7 @@ Our team aims for an Approval Accuracy of 95% or greater. Meaning, of all opport
 
 Order Management Specialists will be responsible for taking action on feedback received in Quarterly CSAT surveys, as well as improving process related to common opportuntiy rejections, whether it be through documentation, training, or system improvements. The goal is to reduce time to approval, improve efficiency and maintain a high level of accuracy for all approvals. 
 
-### Order Management: Opportunity Approval Process
+### Opportunity Approval Process
 
 Order Management reviews every Sales Assisted opportunity prior to booking. All opportunities must meet our standard opportunity booking requirements. An opportunity will be rejected if it is missing components necessary to booking. 
 
@@ -167,7 +167,7 @@ graph LR;
 
 ```
 
-### Order Management: License Delivery Review Process
+### License Delivery Review Process
 
 Beginning in FY23, the Order Management team will confirm license delivery on all newly Closed Won self-managed deals. 
 
@@ -196,7 +196,7 @@ For assistance with Out of Scope license requests, please [open an Issue](/handb
 
 (For full process documentation, visit the internal [License Delivery Review Wiki](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/wikis/Ongoing-Reconciliations/License-Delivery-Review))
 
-### Order Management: Subscription/Renewal Management Process
+### Subscription/Renewal Management Process
 
 Begining in FY23, the Order Management team will proactively review and correct bad renewal data. 
 
