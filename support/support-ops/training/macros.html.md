@@ -145,7 +145,7 @@ doubt, reach out to your fellow Support Ops team members.
 </figure>
 
 When it comes to making changes to Zendesk macros, we utilize the
-zendesk-macros repos instead of doing this via the Zendesk UI. This allows us
+macros repos instead of doing this via the Zendesk UI. This allows us
 to easily revert a change and ensure what is running in our production
 instances is what we have approved. To ensure each runs smoothly, we do our
 changes in set stages.
@@ -220,7 +220,7 @@ reviewed the results.
 
 To prepare for the implementation, you will need to create a merge request (if
 the request was not made via a merge request) to the corresponding
-zendesk-macros repo (see [Useful links](#useful-links) down below).
+macros repo (see [Useful links](#useful-links) down below).
 
 For an existing macro, this is a simpler approach, since the macro already has
 an ID in Zendesk. Make the edits to the file in the repo and submit the merge
@@ -233,7 +233,7 @@ cloned copy. You can then use this new macros's ID value in the merge request.
 After creating the merge request, make sure it is linked in the original
 request and you have added any additional time spent to the requester issue.
 
-**Note**: All merge requests in the zendesk-macros repo should contain the
+**Note**: All merge requests in the macros repo should contain the
 following labels (the same as with issues):
 
 * "Support-Ops-Category::Macros"
@@ -266,13 +266,13 @@ Any announcements needing to be made should be by the requester themselves.
 
 We utilize
 [Code Owners](https://docs.gitlab.com/ee/user/project/code_owners.html) in the
-zendesk-macros repos for approvers who are not Support Ops team members. Should
+macros repos for approvers who are not Support Ops team members. Should
 any changes need to be made to this, you would submit a merge request that
 makes the changes in the `.gitlab/CODEOWNERS` file.
 
 ## Useful links
 * [Zendesk Global Macro documentation](../documentation/zendesk_global_macros.html)
 * [Zendesk US Federal Macro documentation](../documentation/zendesk_us_federal_macros.html)
-* [Zendesk Global Macro repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros)
-* [Zendesk US Federal Macro repo](https://ops.gitlab.net/gitlab-com/support/zendesk-us-federal/zendesk-macros)
+* [Zendesk Global Macro repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros)
+* [Zendesk US Federal Macro repo](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/macros)
 * [Zendesk official documentation](https://support.zendesk.com/hc/en-us/articles/115001236988-Creating-macros-for-tickets)

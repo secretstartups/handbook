@@ -105,7 +105,7 @@ timely in nature, make sure you are available to work with Support Operations.
 
 If you need changed made to a macro in Zendesk Global, you can file an issue in
 the
-[zendesk-macros issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/issues/new).
+[macros issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/issues/new).
 Keep in mind that macro changes normally need a manager to review them. This
 might occur in the issue itself or the merge request that is created later.
 
@@ -194,7 +194,7 @@ graph TD;
   SupportTeamMetaOpsCreatesIssue["Support Ops creates issue in correct tracker"];
   SupportOpsProject["Create an issue in the support-ops-project"];
   OpsWorksIssue["Support Ops works issue from there, making new ones as needed"];
-  ZendeskMacros["Create an issue in the zendesk-macros project"];
+  ZendeskMacros["Create an issue in the macros project"];
   ZendeskUsFederal["Create an issue in the zendesk-us-federal project"];
   SupportTeam["Create an issue in the support/team project"];
 ```
@@ -208,7 +208,7 @@ graph TD;
 * [support_operations Slack channel](https://gitlab.slack.com/archives/C018ZGZAMPD)
 * [calendly issue tracker](https://gitlab.com/gitlab-com/support/support-ops/other-software/calendly/-/issues/new)
 * [support-team-meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new)
-* [zendesk-macros issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/issues/new)
+* [macros issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/issues/new)
 * [zendesk-us-federal issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new)
 * [zendesk-us-federal macros issue template](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new?issuable_template=Macros)
 * [support/team issue tracker](https://gitlab.com/gitlab-com/support/team/-/issues/new)

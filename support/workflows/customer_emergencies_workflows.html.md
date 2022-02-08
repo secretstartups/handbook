@@ -200,7 +200,7 @@ If a customer is reporting that behaviour has recently changed, first check [Git
 
 #### Broken functionality due to an incident
 
-If there is a known incident, it's acceptable to link to the public status page and related incident issue. Consider using [`Support::SaaS::Incident First Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Incident%20First%20Response.yaml).
+If there is a known incident, it's acceptable to link to the public status page and related incident issue. Consider using [`Support::SaaS::Incident First Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Incident%20First%20Response.yaml).
 
 #### Example tickets:
 {:.no_toc}

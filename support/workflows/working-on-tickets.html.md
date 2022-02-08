@@ -471,7 +471,7 @@ to the solution as well as providing your colleagues with a quick and easy way
 to see what solved the customer's problem.
 
 To make it easier for yourself to create a summary, please consider using the
-[General::Closing Summary](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Closing%20Summary.yaml) macro, which adds a template as an internal note
+[General::Closing Summary](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/Closing%20Summary.yaml) macro, which adds a template as an internal note
 populated with some information. You will then need only to fill in the
 remaining items with relevant information before copying the completed message
 to a public comment for the customer.

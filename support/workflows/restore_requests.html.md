@@ -25,11 +25,11 @@ Use this workflow when a customer requests that we restore data from GitLab SaaS
 
 **If the criteria for restoration is not met:**
 
-1. Reply to the ticket with the [`Support::SaaS::Restore requests::Does not meet restore criteria`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Restore%20requests/Does%20not%20meet%20criteria.yaml) macro.
+1. Reply to the ticket with the [`Support::SaaS::Restore requests::Does not meet restore criteria`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Restore%20requests/Does%20not%20meet%20criteria.yaml) macro.
 
 **If the criteria for restoration is met:**
 
-1. Reply to the ticket with the [`Support::SaaS::Restore requests::Meets restore criteria`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Restore%20requests/Meets%20criteria.yaml) macro, which informs the customer of the limitations of restoration and asks them to confirm that they want us to proceed.
+1. Reply to the ticket with the [`Support::SaaS::Restore requests::Meets restore criteria`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Restore%20requests/Meets%20criteria.yaml) macro, which informs the customer of the limitations of restoration and asks them to confirm that they want us to proceed.
 1. Wait for the customer to reply and confirm.
 1. Once you've received confirmation open an [Infrastructure Issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/new?issuable_template=request-gitlab-com) using the `request-gitlab-com` template. Along with any information requested in the template be sure to include:
 

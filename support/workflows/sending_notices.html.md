@@ -21,7 +21,7 @@ We may also occasionally need to inform certain users of a feature they use that
 
 ### Blocked Accounts
 
-**Macro:** [`Support::SaaS::Notices::Account Blocked`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Notices/Account%20Blocked.yaml)
+**Macro:** [`Support::SaaS::Notices::Account Blocked`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Notices/Account%20Blocked.yaml)
 
 We may be asked by infrastructure either through an issue or Slack to notify a user or customer that their account has been temporarily blocked for some reason. In these cases, do the following:
 
