@@ -24,6 +24,8 @@ Besides this page, there are a few bookmarks you’ll want to set that will be y
 - [The SAL learning hub](https://gitlab.edcast.com/channel/strategic-account-leaders): You’ll receive access to EdCast during your first week. Follow the Enterprise SAL learning channel in EdCast to see all training relevant to your role in one place. This includes training and refresher courses on our sales methodology, tools, and sales skills. 
 
 ## The SAL playbook
+[The SAL playbook](https://docs.google.com/presentation/d/1S-8Jvr-NcMAEjqB5j0i53WZg4aEtTGTicCpWbZ9JaNk/edit#slide=id.g10c6ab6d93e_0_318) is how a typical, high-performing SAL runs their business on an annual, quarterly, monthly, and weekly basis. Use it as a guide to understand the basics of what key activities and collaboration points are required for things to run smoothly in your territory.
+
 The below table shows major strategic resources that can help you be successful during each milestone of a deal - from prospecting to transitioning to a the post-sales team. For operational resources, head to the general sales page up top. For commonly used sales assets like marketing plays and pitch decks, head to the [marketing resources handbook page](https://about.gitlab.com/handbook/marketing/strategic-marketing/sales-resources/).
 
 
