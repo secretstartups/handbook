@@ -13,7 +13,7 @@ title: Field Marketing and Events
 - TOC
 {:toc}
 
-## Field Marketing and Events
+# Field Marketing and Events
 
 ## Important to Know
 - If you are looking to work with a new service provider, review the policy for selecting new suppliers on the [Vendor Selection Process](https://about.gitlab.com/handbook/finance/procurement/vendor-selection-process/) page.
@@ -62,4 +62,10 @@ title: Field Marketing and Events
 - Urgent requests will be evaluated. Please note these are disruptive to our workflow and our ability to meet SLA's for requests opened on time.
 - We may or may not be able to accommodate your urgent request based on the risk and bandwidth available.
 - If you have a critical request, **enter the request into Coupa 1-2 weeks prior to needing approval** to avoid needing escalation.
+
+## Process for Sales Events That Cannot be Made Public
+- The Events and Field team members may engage in detailed discussions related to specific upcoming sales events.
+- For these discussions, stakeholders will use a private namespace called [Sales Event Planning Private](https://gitlab.com/sales-events-planning). For each event type (e.g., Sales Kick-off, QBR...etc.) a "Project" will be created.
+- An issue will then be created (for each individual Event) within the applicable Project that will include: (i) applicable Agreements, (ii) description of event, (iii) important dates / times of events, (iv) any applicable changes that are being requested, and (v) any other information that is helpful for the Field, Events and Legal team to review. 
+- **NOTE:** All Event / Field Team Members must still create a Coupa request (in line with steps here) for any and all events. This is the case as such information is required in Coupa in order to ensure, (i) on-time / accurate billing, (ii) storage of Agreements, and (iii) review from other stakeholders (e.g., Finance)
 
