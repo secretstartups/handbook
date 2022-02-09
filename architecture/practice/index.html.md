@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: "Practicey"
+title: "Practices"
 ---
 
-## Practice
+## Practices
 
 * [*Scalability*](scalability/)
