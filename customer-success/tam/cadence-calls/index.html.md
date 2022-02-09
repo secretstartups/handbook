@@ -48,6 +48,9 @@ The following items are to be covered/completed in your initial cadence call wit
 - [ ] Disaster Recovery plan in place
 - [ ] Discuss & document monthly release & upgrade plan
 
+Items for SaaS Customers Only
+- [ ] Share [Status](https://status.gitlab.com/) and [Communications Preferences](https://about.gitlab.com/company/preference-center/) pages with customer
+- [ ] Subscribe the GitLab Admin to Status page updates
 
 
 
