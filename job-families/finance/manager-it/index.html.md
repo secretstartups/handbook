@@ -11,24 +11,35 @@ The Manager, IT reports to the [Sr Director, IT Operations](https://about.gitlab
 
 The Manager, IT is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+#### Responsibilities
+
+* Hold regular 1:1’s with all members of the IT Teams
+* Embed an asynchronous, distributed philosophy in everything you do
+* Regularly give IT group conversations
+* Embed an asynchronous, distributed philosophy in everything you do
+
+
+#### Requirements
+
+* Experience growing a team in a fast-paced, high-growth environment
+* Strong written and verbal communication skills
+* Share and work in accordance with our values
+* Must be able to work in alignment with Americas timezones
+* Successful completion of a background check – see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
+* [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+* Ability to use GitLab
+
 ## Specialties
 
 ### Manager, IT Engineering
 
 ####  Responsibilities
 
-* Build, scale and manage our IT Operations and Helpdesk teams to support our needs as distributed company
-* Work with PeopleOps to enable smooth onboarding/offboarding of all team members, ensuring that
-    * All hardware is available day one
-    * Governance and deployment of software and SAAS is automated and aligned with GitLab policies
-    * IT Onboarding/101 are regularly conducted, and enable team members to get comfortable working in their new tools
-    * A clear channel of feedback to improve the efficacy of the above
+* Build, scale and manage our IT Engineering team to support our needs as distributed company
 * Be the IT Expert at GitLab - Come with Solutions, not a Practice of No
 * Hold regular 1:1’s with all members of the IT Teams
 * Represent the IT team in different company functions - be an advocate for modern, efficient, SIMPLE solutions
 * Create and execute a plan to develop and mature our IT capabilities
-* Regularly give IT group conversations
-* Embed an asynchronous, distributed philosophy in everything you do
 * Collaborate with all functions of the company to ensure IT needs are addressed
 
 #### Requirements
@@ -37,7 +48,6 @@ The Manager, IT is a [grade 8](/handbook/total-rewards/compensation/compensation
 * 2+ years managing a team of 2 or more IT Administrators
 * Experience working with leadership to execute on strategic IT investments, and creatively meeting the non-homogeneous needs of a technically savvy, specialized userbase in our R&D, go-to-market and G&A teams
 * Contribute to and enable GitLab's operational strategy -- enabling distributed and asynchronous operations, and empowering our end users to take direct action
-* Experience growing a team in a fast-paced, high-growth environment
 * Demonstrably deep understanding of IT Operations and Service/Support needs in a high-growth technology company
 * Ability to reason holistically about end-to-end Enterprise ecosystems: from online sales portals to marketing tools to GCP
 * Hands on experience working with Python
@@ -45,12 +55,8 @@ The Manager, IT is a [grade 8](/handbook/total-rewards/compensation/compensation
 * Experience building corporate IT knowledge bases and writing policies/processes
 * Experience with open source tools
 * Be passionate about DevOps, or its principles, especially in applying software engineering principles to IT Operations and Services
-* Strong written and verbal communication skills
-* Share and work in accordance with our values
-* Must be able to work in alignment with Americas timezones
-* Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
-* [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
-* Ability to use GitLab
+
+
 
 ### Manager, IT End User Services
 
@@ -66,7 +72,7 @@ The Manager, IT End User Services leads a team of highly-collaborative and resul
 * IT Asset and configuration management. Track, log and correct information to protect assets and components
 * Customer service management. Translate ‘lessons learnt’ into continual service improvement
 * Produce proactive reports, trending analysis, service level reporting, SLA compliance, process consultation and application of ITIL best practice
-* Problem management. Initiate and monitor actions to investigate patterns and trends to resolve problems including 
+* Problem management. Initiate and monitor actions to investigate patterns and trends to resolve problems  
 * Hold regular 1:1’s with all members of the IT Teams
 * Triage and manage priorities of IT HelpDesk and Operations
 * Embed an asynchronous, distributed philosophy in everything you do
@@ -84,13 +90,8 @@ The Manager, IT End User Services leads a team of highly-collaborative and resul
 * Ensuring that all processes used by the service desk are thoroughly documented, consistently audited, and regularly improved
 * Conducting and sharing results from service and operation performance reviews
 * Coordinating and managing all relevant stakeholders, including the support desk team, customers, and other teams that are involved in service desk operations
-* Experience growing a team in a fast-paced, high-growth environment
-* Strong written and verbal communication skills
-* Share and work in accordance with our values
-* Must be able to work in alignment with Americas timezones
-* Successful completion of a background check – see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
-* [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
-* Ability to use GitLab
+
+
 
 
 ## Performance Indicators (PI)
