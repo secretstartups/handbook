@@ -179,12 +179,6 @@ Below outlines use case examples when using `private` Groups, Channels, and cont
 1. If you share `private` content with a `private` Channel, only followers of that Channel can see the content. This is a great way to organize and curate content for specific audiences. For example, before launching our entire course catalog, the L&D team will restrict our external content offerings on GitLab Learn to 3 courses. However, we still want all our material to be available to GitLab team members. To do this, we can create a `private` Channel and share that Channel with the `GitLab Internal Team Members` Group. This will ensure that the content on the `private` Channel can only be seen by members of the `private` Group. Later, we can make this Channel `public` and share with all users.
 1. If you share `private` content with a `public` Channel, only followers of that Channel can see the content, **but anyone can follow the Channel**. This is a similar use case as sharing `private` content with a `public` group. If you'd like to organize users with similar interests by inviting them to follow a `public` Channel, this use case might work.
 
-### Adding URLs to the Allowlist for Sharing in Smartcards
-
-If your smartcard contains a URL to an external website, or features an iFrame which shares content from an external website, the URL first needs to be added to the `Approved Sites` or `Approved iFrame Sources` list.
-
-This list can be found in the Admin panel area of Edcast under **Content > Embargo Sites**. Only the first part of the URL is required, e.g. to approve all handbook pages, https://about.gitlab.com/ only needs to be added to the Approved list once, you don't need to add each handbook page individually. 
-
 ### Badges
 
 Badges are available with the creation of both pathways and journeys and are awarded to the learner on the EdCast platform upon completing a set Pathway or Journey. Badges can also be [shared by the learner](/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges) on their LinkedIn profiles.
