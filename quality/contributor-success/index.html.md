@@ -93,7 +93,7 @@ on how we will measure and track this goal.
 * Carry out Engineering open source outreach efforts.
 * Improve GitLab's Contribution Efficiency and Merge Request Coaching process.
 * Engineering representative that can ride along with the evangelist and program manager.
-* Organize community contributors into Cohorts and ensure their success.
+* Organize community contributors into [community teams](team-structure/community-teams) and ensure their success.
 * Provide guidance to community contributors on technical and non-technical aspects.
 * Track [contribution](/community/contribute/) delivery of the Community Contributors and Cohorts.
 * Improve community recognition system and awards in collaboration with Community Relations team.
