@@ -14,6 +14,18 @@ title: "Other apps"
 
 This page lists various apps that may be useful for your workflow at GitLab.
 
+### General security tip
+
+Some tools and extensions integrate into your various work accounts and will
+request certain permissions for them. Please always be cautious of the
+permissions requested by the application. For example a GitLab integration that
+only requests to be able to read your user profile can be appropriate, however
+an integration shouldn't be able to have read or write access the API. Similarly,
+it isn't recommended to input a GitLab [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html)
+linked to your work account in a third-party tool.
+
+When in doubt, you can always ask in the `#security` Slack channel.
+
 ## Internet browsers
 
 ### Ad privacy
