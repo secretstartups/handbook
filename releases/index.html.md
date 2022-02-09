@@ -37,7 +37,7 @@ that publish packaged software.
 
 ### GitLab.com deployments overview
 
-We follow a Continuus Deployment appraoch with the goal of deploying as frequently as possible to keep batch sizes small. This means that GitLab.com **lives in the now** with changes tracked using commit SHAs rather than [semver] versioning as used by self-managed installations.
+We follow a Continuous Deployment approach with the goal of deploying as frequently as possible to keep batch sizes small. This means that GitLab.com **lives in the now** with changes tracked using commit SHAs rather than [semver] versioning as used by self-managed installations.
 
 The `self-managed release` is a collection of many successfully deployed `auto-deploy`
 releases on GitLab.com. Users on GitLab.com therefore receive features and bug fixes earlier than
@@ -98,10 +98,10 @@ In the days leading up to the 22nd, the release manager will post announcements 
 [#releases], [#development](https://gitlab.slack.com/archives/C02PF508L),
 [#backend](https://gitlab.slack.com/archives/C8HG8D9MY), and [#frontend](https://gitlab.slack.com/archives/C0GQHHPGW) update on candidate and guaranteed commits for the release.
 
-Merge Requests that have been included in the monthly release will recieve [a label indicating inclusion](https://about.gitlab.com/handbook/engineering/releases/#labels-indicating-inclusion-in-upcoming-self-managed-release).
+Merge Requests that have been included in the monthly release will receive [a label indicating inclusion](https://about.gitlab.com/handbook/engineering/releases/#labels-indicating-inclusion-in-upcoming-self-managed-release).
 
 ## Security
-The security of the software we ship must be everyones responsibiltiy as is the quality.  It can be a daunting task to deliver quality software securely.  GitLab has processes in place to help with application and code security reviews through the Secruity Departments' [Application Security (AppSec) team](/handbook/engineering/security/#application-security).  If you're unsure about the security implications of an addition to a code-base, the AppSec team can be included (`@gitlab-com/gl-security/appsec`) in the review to help.
+The security of the software we ship must be everyone's responsibility as is the quality.  It can be a daunting task to deliver quality software securely.  GitLab has processes in place to help with application and code security reviews through the Security Departments' [Application Security (AppSec) team](/handbook/engineering/security/#application-security).  If you're unsure about the security implications of an addition to a code-base, the AppSec team can be included (`@gitlab-com/gl-security/appsec`) in the review to help.
 
 
 ## Timelines
@@ -284,7 +284,7 @@ https://gitlab.com/gitlab-org/gitlab/-/commits/13-1-stable-ee
 
 ### When do I need to have my MR merged in order for it to be included into the monthly release?
 
-The earlier in the monthly cycle your MR is merged, the higher the chances are for it to be included in that months release.
+The earlier in the monthly cycle your MR is merged, the higher the chances are for it to be included in that month's release.
 
 There is no guaranteed "cut-off", "freeze" or any other date defined under which the MR will be included.
 
@@ -314,7 +314,7 @@ guide for more information.
 
 ### I found a regression in the QA issue, what do I do next?
 
-If you've found a regression with a potentially a high [severity], immediately follow the steps in [Deployment blockers] to halt the deployment.
+If you've found a regression with a potentially high [severity], immediately follow the steps in [Deployment blockers] to halt the deployment.
 
 If a regression is found in a new feature, and only that feature is affected, follow the directions in the QA issue created in the [release/tasks] project for a regular regression.
 
