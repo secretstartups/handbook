@@ -5,9 +5,9 @@ title: "Architecture"
 
 ## Complexity at Scale
 
-As GitLab grows, through the introduction of new features and improvements on existing ones, so does its **complexity**. This effect is compounded by the care and feeding of a single codebase that supports the wide variety of environments in which it runs, from small self-managed instances to large installations such as GitLab.com. The company itself adds to this complexity from an organizational perspective: over 1600 employees world-wide contribute in one way or another to both the product and the company, using GitLab.com on a daily basis to do their job. Teams members in Engineering are directly responsible for the codebase and its operation, for the infrastructure powering GitLab.com, and for the support of customers running self-managed instances. Likewise, team members in the Product organization chart the future of the product.
+As GitLab grows, through the introduction of new features and improvements on existing ones, so does its **complexity**. This effect is compounded by the care and feeding of a single codebase that supports the wide variety of environments in which it runs, from small self-managed instances to large installations such as GitLab.com. The company itself adds to this complexity from an organizational perspective: over 1600 employees worldwide contribute in one way or another to both the product and the company, using GitLab.com on a daily basis to do their job. Teams members in Engineering are directly responsible for the codebase and its operation, for the infrastructure powering GitLab.com, and for the support of customers running self-managed instances. Likewise, team members in the Product organization chart the future of the product.
 
-[Our values](/handbook/values/), coupled with strong know-how and unparalleled dedication, provide critical guidance to manage these complexities. At the same time, we have known for some time we are crossing a threshold in which **complexity at scale**, both technical and organizational, is playing a significant role. We know we need to fine-tune our both our technical discipline (so we can integrate it across the organization) and our organizational amplification (so we can span and leverage the entire organization) to ensure we can continue to deliver on our values. In this context, we have been exploring the adoption of *Architecture* or *Engineering Practice* to help us in this regard.
+[Our values](/handbook/values/), coupled with strong know-how and unparalleled dedication, provide critical guidance to manage these complexities. At the same time, we have known for some time we are crossing a threshold in which **complexity at scale**, both technical and organizational, is playing a significant role. We know we need to fine-tune both our technical discipline (so we can integrate it across the organization) and our organizational amplification (so we can span and leverage the entire organization) to ensure we can continue to deliver on our values. In this context, we have been exploring the adoption of *Architecture* or *Engineering Practice* to help us in this regard.
 
 ## Architecture
 
@@ -21,7 +21,7 @@ We have intuitively known that, at GitLab, Architecture is not a role proper (i.
 
 At GitLab, **Architecture** is:
 
-* A [collection of **practices**](practice/) that provide technical frameworks to **guide** (rather than dictate) our thinking, design and discussions so we can *iterate* quickly and deliver *results*. These include the [Scalability Practice](practice/scalability/). Others are on the works (such as the Availability Practice).
+* A [collection of **practices**](practice/) that provide technical frameworks to **guide** (rather than dictate) our thinking, design, and discussions so we can *iterate* quickly and deliver *results*. These include the [Scalability Practice](practice/scalability/). Others are in the works (such as the Availability Practice).
 * A [*collaborative* **workflow**](workflow/) that provides the necessary organizational amplification to foster *inclusion*, and drive ideas and priorities from all corners of the company.
 * A collection of 12-month **roadmaps** and 3-month **blueprints** which are artifacts resulting from the [Architecture Evolution Workflow](workflow/).
 
@@ -31,9 +31,9 @@ Such definition implies a solid reliance on **influence** rather than authority 
 
 We strive for **results** and concrete outcomes, which in this case entail **roadmaps** and **blueprints**.
 
-**Roadmaps** plot a long-term technical path of initiatives to work on over the following 12 months and how we can weave them together to meet our business needs. Their content is focused on technical topics but they are themselves not technical. Roadamps are kept in the [handbook](https://about.gitlab.com/handbook/engineering/architecture/roadmap/) because of their 12-month outlook and less technical focus.
+**Roadmaps** plot a long-term technical path of initiatives to work on over the following 12 months and how we can weave them together to meet our business needs. Their content is focused on technical topics but they are themselves not technical. Roadmaps are kept in the [handbook](https://about.gitlab.com/handbook/engineering/architecture/roadmap/) because of their 12-month outlook and less technical focus.
 
-**Blueprints** in their various forms are more technical than roadmaps at a high-level (logical architecture, etc, without dictating implementation), distilling roadmap items and presenting forward-looking "next steps" for the approprite time-span. Furthermore, they must include one or more examples of how the solve specific use-cases. 
+**Blueprints** in their various forms are more technical than roadmaps at a high-level (logical architecture, etc, without dictating implementation), distilling roadmap items and presenting forward-looking "next steps" for the appropriate time span. Furthermore, they must include one or more examples of how they solve specific use-cases. 
 
 * Blueprints are generated according to the Architecture Workflow
 * Blueprints are hosted in [**docs**](https://docs.gitlab.com/ee/architecture/) while they're forward-looking, i.e., until implementation is completed.
@@ -72,8 +72,8 @@ aligned with our OKRs cadence.
 1. This is a collaborative workflow that fosters collaboration between
    Engineering, Product and technical Domain Experts,
 1. An `Architecture Evolution Coach` is an advisor and a bridge between
-   Individual Contributors, Engineering Leaders and Product Managers
-1. Successfully executed workflow usually results in creation of 3/6/12-month
+   Individual Contributors, Engineering Leaders, and Product Managers
+1. Successfully executed workflow usually results in the creation of 3/6/12-month
    technical strategy with [Directly Responsible Individuals
    (DRIs)](/handbook/people-group/directly-responsible-individuals/) assigned
 1. 12-month blueprints captured in epics require one of the DRIs assigned to
