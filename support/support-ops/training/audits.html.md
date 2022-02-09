@@ -90,6 +90,28 @@ links:
 
 * [Pagerduty audit workflow](../workflows/pagerduty_audit.html)
 
+### Gitlab.com
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/WlqU4FlPppo" frameborder="0" allowfullscreen="true"></iframe>
+</figure>
+
+The best resources for learning this are the above video and the following
+links:
+
+* [Gitlab.com audit workflow](../workflows/gitlab-com_audit.html)
+
+### 1Password
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/FauYP1QH6nU" frameborder="0" allowfullscreen="true"></iframe>
+</figure>
+
+The best resources for learning this are the above video and the following
+links:
+
+* [1Password audit workflow](../workflows/1password_audit.html)
+
 ## Useful links
 
 * [Audits repo](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/audits)

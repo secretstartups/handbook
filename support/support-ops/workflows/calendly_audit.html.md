@@ -87,7 +87,7 @@ graph TD;
 
 The requirements to run the script are:
 
-* Ruby (version 2.6 or 2.7 recommended)
+* Ruby (version 3.0.1)
 * A GitLab.com personal access token
 
 To run the script, you will want to do the following commands:
