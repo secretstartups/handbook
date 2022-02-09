@@ -123,7 +123,7 @@ To use the flashcards, click on the link above. You can review the flashcards in
 
 ### Quiz - Lesson 1: Technical Terminology
 
-Please complete the Lesson 2 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification)
+Please complete the Lesson 1 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification)
 
 ## Lesson 2: GitLab Issues
 
