@@ -17,12 +17,12 @@ Use this content library as a resource whenever you're acting as a talent ambass
 
 ## Quick facts
 
-| Fact | To date 2021-03 |
+| Fact | To date 2022-01 |
 | ------ | ------ |
-| Headcount | 1,400+ |
-| Countries | 65+ |
+| Headcount | 1,600+ |
+| Countries | 67 |
 | Remote team members | 100% |
-| Pets | 300+ |
+| Pets | 330+ |
 
 Source: [GitLab team page](/company/team/)
 
