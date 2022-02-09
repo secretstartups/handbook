@@ -80,7 +80,7 @@ Promotion grants are based on the differential between the new hire equity dolla
 
 Formula for number of Promotion Equity Grant: `(New Hire Equity Grant Dollar Value Median at Promoted Level - New Hire Equity Grant Dollar Value Median at Previous Level)`
 
-For example, if my current role is Backend Engineer and the median new hire equity grant dollar value grant for my role, level, and location is 20,000 USD, and I am promoted to Senior Backend Engineer and the median new hire equity grant dollar value for that role, level, and location is 40,000 USD, the calcuation would be: 40,000 USD - 20,000 USD = 20,000 USD.
+For example, if my current role is Backend Engineer and the median new hire equity grant dollar value grant for my role, level, and location is 20,000 USD, and I am promoted to Senior Backend Engineer and the median new hire equity grant dollar value for that role, level, and location is 40,000 USD, the calculation would be: 40,000 USD - 20,000 USD = 20,000 USD.
 
 ### FAQs
 
