@@ -926,7 +926,7 @@ Steps to follow in order to run the tests you implemented in the data-tests proj
 
   
 1. Push your changes to the remote branch you are working on on the data-tests project
-2. Go to your `analytics` project locally, create a new branch with the same name as the one at `data-tests` & modify the `Makefile` to edit the `DATA_TEST_BRANCH` to macth your branch name on the `data-test` project
+2. Go to your `analytics` project locally, create a new branch (`git checkout -b <branch_name>`) with the same name as the one at `data-tests` & modify the `Makefile` to edit the `DATA_TEST_BRANCH` to match your branch name on the `data-test` project
 3. From the `analytics` project run `make run-dbt`
 4. You should see some logs, which also show the revision data-tests was installed from, where you should see your branch
 5. From where you currently are (which should be the `snowflake-dbt` directory) run the corresponding command for testing your own model
