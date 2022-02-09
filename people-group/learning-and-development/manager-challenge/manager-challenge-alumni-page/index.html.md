@@ -37,7 +37,7 @@ GitLab offers the following benefits for team members to receive coaching:
 
 ### LifeLabs Learning
 
-Starting in January 2022, the L&D team will be piloting LifeLabs Learning to a grow of ten people leaders across the organization. LifeLabs Learning is the go-to team member resource for over 1000 organizations. They offer leadership and people-skills training that blends science, playfulness, and practical tools. 
+Starting in January 2022, the L&D team will be piloting [LifeLabs Learning](https://about.gitlab.com/handbook/leadership/life-labs-learning/) to a grow of ten people leaders across the organization. LifeLabs Learning is the go-to team member resource for over 1000 organizations. They offer leadership and people-skills training that blends science, playfulness, and practical tools. 
 
 The pilot audience will be participating in the [Manager Core 1](https://drive.google.com/file/d/1MJmxjrMSSCq3lWOOks-vMnzdzPucI0jp/view) and [Manager Core 2](https://drive.google.com/file/d/1f0HhqBfGn1lnaYSMHcYYqauwyOkNHS0R/view) training curriculum. 
 
@@ -47,6 +47,12 @@ You can follow along in the #lifelabs-learning-pilot channel
 
 Join the [Leadership Chats](/handbook/people-group/learning-and-development/manager-challenge/leadership-chats/) which are monthly calls for people leaders at GitLab. These forums are a great way for managers to continue the discussion following the Manager Challenge program. 
 
+### Recommended Books 
+
+Check out some of the recommended books on the [leadership section](/handbook/leadership/#books) of the handbook. 
+
+#### Feedback 
+
 ## Aspiring Managers Resources
 
 Check out the #aspiring-managers Slack channel to learn more about the activities aspiring managers are doing on their path towards leadership. 
@@ -55,5 +61,6 @@ Check out the #aspiring-managers Slack channel to learn more about the activitie
 
 If you are interested in participating in the [Manager Challenge program](/handbook/people-group/learning-and-development/manager-challenge/), feel free to schedule a coffee chat with any of the Manager Challenge alumni. You can review the list of alumni below. The chats are helpful to gain a better understanding of the program, what to expect, and how to participate. 
 
-## List of past Manager Challenge Participants
+
+
 
