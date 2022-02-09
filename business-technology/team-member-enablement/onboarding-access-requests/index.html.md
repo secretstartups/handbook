@@ -86,8 +86,8 @@ NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased
 
 ##### Apple Hardware
 
-- Macbook Pro - 14" M1 Max 16-Core CPU /24-core GPU / 32GB / 512GB - **Performance model**
-- Macbook Pro - 16" M1 Max 16-Core CPU /24-core GPU / 32GB / 512GB or 1TB/ - **Performance model**
+- Macbook Pro - 14" M1 Max 10-Core CPU /24-core GPU / 32GB / 512GB - **Performance model**
+- Macbook Pro - 16" M1 Max 10-Core CPU /24-core GPU / 32GB / 512GB or 1TB/ - **Performance model**
 - MacBook Pro - 16”  / 512 SSD / 32 RAM / i9 or i7 Intel CPU - **Legacy performance model** - Limited supply, we may offer this model depending on availability the new M1 Max model. 
 - Macbook Pro - 13" / M1 / 16Gb / 512GB - **Standard model**
 
