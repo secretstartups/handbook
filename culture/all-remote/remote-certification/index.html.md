@@ -38,6 +38,10 @@ Participants will gain a point of view on all-remote through [self-paced learnin
 
 This certification is ideal for aspiring or new managers, individual contributors, or anyone who is looking to rapidly increase their remote foundational skills and strategic perspective. The certification is also ideal for individuals who prefer to complete training at their own pace through reading comprehension and viewing video. 
 
+## How to acccess the certification
+
+The All-Remote Certification is free to complete. To access it, you first need to creat an account by signing up to our Learning Platform, [GitLab Learn](https://gitlab.edcast.com). Once you've signed up and logged in to the platform, [click here or search for Remote Foundations Badge](https://gitlab.edcast.com/pathways/ECL-4d9840ae-0c56-4645-ad7b-452029b1e5bc) to find the pathway. You can then begin working through the course.
+
 ## Remote Work Foundation certification criteria
 
 ![GitLab all-remote team illustration](/images/all-remote/gitlab-com-all-remote-1280x270.png){: .shadow.medium.center}
