@@ -33,15 +33,15 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 
 ### Levels
 
-## Junior TAM
+## Associate TAM
 
-The Junior TAM reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers)
+The Associate TAM reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers)
 
-### Junior TAM Job Grade
+### Associate TAM Job Grade
 
-The Junior TAM is a job grade [level 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate TAM is a job grade [level 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Junior TAM Responsibilities
+### Associate TAM Responsibilities
 
 * Provide immediate onboarding activities such as installation and training 
 * Work with assigned customers to build Customer Success Plans, establishing critical goals, or other key performance indicators and aid the customer in achieving their goals
@@ -50,7 +50,7 @@ The Junior TAM is a job grade [level 5](/handbook/total-rewards/compensation/com
 * Provide insights with respect to the availability and applicability of new features in GitLab as relevant
 * Support GitLab Services in identifying and recommending training opportunities
 
-### Junior TAM Requirements
+### Associate TAM Requirements
 
 * Demonstrated progressive experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
 
@@ -100,7 +100,7 @@ The Senior TAM is a job grade [level 7](/handbook/total-rewards/compensation/com
 
 * Extends the TAM (Intermediate) responsibilities
 * Strategize on the overall objectives and long-range goals of the team
-* Provide mentorship for Junior and Intermediate TAMs to help them grow in their technical knowledge and provide premium customer experience
+* Provide mentorship forAssociate and Intermediate TAMs to help them grow in their technical knowledge and provide premium customer experience
 * Work cross-departmentally to find solutions to complex scenarios and integration issues
 * Demonstrate leadership in new feature and technology adoption and teaching by providing regular enablement and solution overview sessions and documentation for customers and other GitLab team-members
 * Help drive team expertise and technical thought leadership
