@@ -73,7 +73,7 @@ The Manager, Inside Sales is a [grade 9](https://about.gitlab.com/handbook/total
 * Responsible for all renewals of all contracts and upgrades
 * Work with Federal Channel Manager on collaboration on call campaigns, Quotes on RFQ through distribution, Interacting with sales reps on specific/important accounts to ensure progress and appropriate messaging.
 
-#### Manager, Insides Sales Requirements
+#### Manager, Inside Sales Requirements
  
 * Extends that of the Senior Inside Sales Representative Requirements
 * A true desire to see customers benefit from the investment they make with you
