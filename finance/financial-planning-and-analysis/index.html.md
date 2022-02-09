@@ -489,6 +489,45 @@ When a job is opened in Greenhouse it is routed for approvals. The second requir
 
 Finance is also a required approval on all job offers. This allows Finance to see the financial details of the job offer before any offer is sent, so that they are enabled to have conversations with their leaders about implications to their Plan if needed.
 
+### Finance Business Partners / Talent Acquisition Managers Forecast Interlock
+
+### _Purpose_
+
+The FP&A team and Talent Acquisition Managers collaborate to ensure understanding and implementation of the most up-to-date view of forecasted headcount-related expenses. This interlock enables GitLab to respond quickly and make live decisions through a weekly  P&L forecastin Month 2 and Month 3 of each quarter. This process also ensures alignment and accuracy of headcount forecast when FP&A locks its annual plan and monthly rolling forecasts. This process also tracks company metrics against Wall Street expectations related to non-GAAP operating income and non-GAAP earnings per share.
+
+### _Cadence_
+
+The interlock process occurs during the following weeks:
+
+1. **In Month 1 of the quarter:** once in week 2 (the week before FP&A's Month 1 forecast version lock)
+1. **In Month 2 of the quarter:** weekly starting week 2 (the week before FP&A's Month 2 forecast version lock)
+1. **In Month 3 of the quarter:** weekly
+
+Unless otherwise noted in the HC Forecast calendar or communicated via Slack (see Communication below), the interlock takes place on a Thursday through Monday interval.
+
+### _Process_
+
+1. **By end of day (PST) Thursday**, the Finance Business Partners update Adaptive with their best estimates of the start dates and salaries of all planned personnel (including backfills) for the forecast period. This reflects a 50/50 “most-realistic” view of headcount expenses/timing. **The Finance Business Partners indicate the completion of their updates in Adaptive by signing off in the headcount forecast template with their initial and time stamp**.  
+
+1. **At end of day (PST) Thursday**, the Corp FP&A team downloads the planned personnel data from Adaptive and prepares the headcount forecast template to share with Talent Acquisition. The planned personnel data is divided into two headcount forecast templates: “Mgr-” which includes all Individual Contributor, Manager, and Senior Manager roles and “Dir+” which includes all Director, Senior Director, Vice President, and E-Group roles. 
+
+1. **On Friday prior to noon (PST)**, the Talent Acquisition Managers review their respective roles line by line and make adjustments and comments related to expected start dates and salaries provided by the Finance Business Partners. If no indication is made for a specific role in the headcount forecast template, the Talent Acquisition Manager signals that the current indication is reasonable and indicative of a 50/50 “most-realistic” forecast. The Talent Acquisition Managers also pay close attention to any recruiting capacity restraints within any given quarter. In order to maximize transparency and understanding of any changes, the Talent Acquisition Managers provide comments (e.g., rejection of an offer, adjustment to salary due to location factor, etc.) for specific roles. After reviewing all roles for which they are responsible, the **Talent Acquisition Managers sign off in the headcount forecast template with their initials and time stamp**. Note: the recruiter responsible for director and above hires performs the same procedure in the “Dir+” template.
+
+1. **By end of day (PST) Friday**, the Finance Business Partners review any adjustments or comments made by Talent Acquisition, follow up with any questions, and load the updated headcount information into Adaptive to prepare for the P&L snapshot. Often a meeting with each respective area may be required to better understand recruiting dynamics and ensure the forecast reflects a 50/50 “most-realistic” view.
+
+1. **The following Monday**, the Corp FP&A team downloads the updated information from Adaptive and provides a P&L snapshot to the CFO detailing any material week-over-week changes as well as tracking vs. guidance and consensus metrics.
+Prior to any forecast lock, the Finance Business Partners review headcount assumptions with the E-Group members with whom they partner and receive sign off from each E-Group member.
+
+### _Communication_
+
+Communication related to the interlock takes place in the #fpa-ta_headcount_forecast Slack channel. All parties involved in the interlock are also granted access to the HC Forecast Google Calendar.
+
+### _Deliverables_
+
+The Finance Business Partners and Talent Acquisition Managers collaborate to provide the most current and 50/50 “most-realistic” view of headcount-related expenses. This is done through the interlock process in the headcount forecast template and is ultimately uploaded into the Planned Personnel sheet in Adaptive.
+
+The inputs loaded into Adaptive are then used to provide the CFO a weekly P&L snapshot in order to facilitate in-quarter spending decisions and ensure the company tracks vs.  guidance and consensus expectations.
+
 ---
 
 ## Expense Controls and Improving Efficiency
