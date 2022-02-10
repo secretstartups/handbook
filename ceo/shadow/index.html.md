@@ -117,19 +117,7 @@ Hear what our CEO has to say about the CEO shadow program.
 
 ### Eligibility
 
-You are eligible to apply for the program if you are a:
-
-1. [Manager or up](/company/team/structure/#layers), Staff engineer ([backend](/job-families/engineering/backend-engineer/) or [frontend](/job-families/engineering/frontend-engineer/)), [SAL](/job-families/sales/strategic-account-leader/), [PMM](/job-families/marketing/product-marketing-manager/), or [Product Manager or up](/job-families/product/product-manager/)
-1. [Individual Contributor](/company/team/structure/#layers), if there is 1 consideration. This includes TAM and SA roles.
-
-Considerations are cumulative and can be:
-
-1. You belong to a select under-represented group as defined in our [referral bonus program](/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups). Multiple under-represented groups are cumulative
-1. You are a recipient of GitLab’s Value Award of Transparency, Collaboration, Iteration, Efficiency, Results, or Diversity at previous GitLab Contribute events
-1. There is last minute availability. Last minute means the first day of a rotation is less than a month out. This applies to all GitLab team members, _including_ CEO Shadow Alumni who wish to participate again
-1. You are based in APAC
-1. You belong to a GitLab Team Member Resource Group ([TMRG](/company/culture/inclusion/erg-guide/))
-
+All GitLab team members are eligibile to apply for the CEO Shadow Program. 
 
 Exceptions to eligibility:
 
@@ -142,17 +130,11 @@ Other time zones will be considered on a case-by-case basis.
 
 Learn more about what to expect from a [remote shadow rotation](#remote-shadow-rotations).
 
-Shadows with scheduled rotations always have the option to delay to later in the year if they'd prefer to do their rotation in person.
-Shadows who have chosen to delay their rotations until another time include:
-
-- Jarka Kosanova
-- Liam McNally
-- Bartek Marnane
 
 ### How to apply
 
-1. Create a merge request to add yourself to the [rotation schedule](#rotation-schedule). Ensure the merge request description highlights how you meet the eligibility criteria (merge request examples: [Anastasia Pshegodskaya](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/43159), [Jackie Meshell](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/42958), [Philippe Lafoucrière](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/51265)).
-1. Assign your manager and ask them to approve (**but not to merge**) the merge request. Managers, please ensure the candidate meets the eligibility criteria.
+1. Create a merge request to add yourself to the [rotation schedule](#rotation-schedule).
+1. Assign your manager and ask them to approve (**but not to merge**) the merge request. 
 1. Once your manager approves the merge request, assign the merge request to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/), link to the merge request in the `#ceo-shadow` channel, and `@mention` the Executive Business Admin supporting the CEO in the message.
 
 Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises.
