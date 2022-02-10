@@ -25,27 +25,6 @@ This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjd
 
 ## SQS Remote Agenda:
 
-### SQS 20 - January 2022
-
-| DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
-| ------ | ------ | ------ | ------ | ------ |
-|January 12, 2022 | 10:00a ET | 11:20a ET | Essential Questions Exercise | Field Enablement  |
-|January 12, 2022 | 11:30a ET | 12:50p ET | Value Card Exercise | Field Enablement |
-|January 13, 2022 | 10:00a ET | 11:20a ET | Discovery Question Exercise | Field Enablement  |
-|January 13, 2022 | 11:30a ET | 12:50p ET | Differentiator Exercise | Field Enablement  |
-|January 14, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
-|January 14, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
-|January 18, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
-|January 19, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
-|January 20, 2022 | 12:00p ET | 12:50p ET | Discovery Call 3 | Mock Customers |
-|January 24, 2022 | 11:00a ET | 11:50a ET | Discovery Call 4 | Mock Customers |
-|January 18, 2022 | 12:00p ET | 12:30p ET | Field Security |  Field Security Team   |
-|January 19, 2022 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence  |
-|January 20, 2022 | 10:00a ET | 10:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
-|January 21, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services | Professional Services Team    |
-|January 21, 2022 | 12:00p ET | 12:50p ET | Channels |  Channel Team   |
-|January 24, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
-
 ### SQS 21 - February 2022
 
 | DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
@@ -56,14 +35,36 @@ This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjd
 |February 17, 2022 | 11:30a ET | 12:50p ET | Differentiator Exercise | Field Enablement  |
 |February 18, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep |  Field Enablement |
 |February 18, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
-|February 21, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 |  Mock Customers  |
-|February 22, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 |  Mock Customers |
-|February 21, 2022  | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
-|February 23, 2022 | 12:00p ET | 12:50p ET | Discovery Call 3 |  Mock Customers |
+|February 22, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 |  Mock Customers  |
+|February 23, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 |  Mock Customers |
+|February 22, 2022  | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
+|February 24, 2022 | 12:00p ET | 12:50p ET | Discovery Call 3 |  Mock Customers |
 |February 24, 2022 | 11:00a ET | 11:50a ET | Discovery Call 4 |  Mock Customers |
-|February 22, 2022 | 12:00p ET | 12:30p ET | Field Security | Field Security Team    |
+|February 22, 2022 | 10:30a ET | 10:55a ET | Field Security | Field Security Team    |
 |February 23, 2022 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence  |
 |February 24, 2022 | 10:00a ET | 10:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
 |February 28, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services |  Professional Services Team    |
 |February 28, 2022 | 12:00p ET | 12:50p ET | Channels | Channel Team  |
+
+
+### SQS 22 - March 2022
+
+| DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
+| ------ | ------ | ------ | ------ | ------ |
+|March 9, 2022 | 10:00a ET | 11:20a ET | Essential Questions Exercise | Field Enablement  |
+|March 9, 2022 | 11:30a ET | 12:50p ET | Value Card Exercise | Field Enablement |
+|March 10, 2022 | 10:00a ET | 11:20a ET | Discovery Question Exercise | Field Enablement  |
+|March 10, 2022 | 11:30a ET | 12:50p ET | Differentiator Exercise | Field Enablement  |
+|March 11, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
+|March 11, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
+|March 15, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
+|March 16, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
+|March 17, 2022 | 12:00p ET | 12:50p ET | Discovery Call 3 | Mock Customers |
+|March 18, 2022 | 11:00a ET | 11:50a ET | Discovery Call 4 | Mock Customers |
+|March 18, 2022 | 12:00p ET | 12:30p ET | Field Security |  Field Security Team   |
+|March 14, 2022 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence  |
+|March 15, 2022 | 10:00a ET | 10:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
+|March 17, 2022 | 11:00a ET | 11:50a ET | Discussion: Professional Services | Professional Services Team    |
+|March 14, 2022 | 12:00p ET | 12:50p ET | Channels |  Channel Team   |
+|March 16, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
 
