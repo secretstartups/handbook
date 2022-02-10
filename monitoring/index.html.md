@@ -206,12 +206,6 @@ To learn how to create Kibana dashboards use the following resources:
 
 ## GitLab Profiling
 
-### Web requests
-
-[GitLab profiler data](https://redash.gitlab.com/dashboard/gitlab-profiler-statistics), accessible using your GitLab Google credentials, is a dashboard with links to [request profiles](https://docs.gitlab.com/ee/administration/monitoring/performance/request_profiling.html) and SQL queries run when loading pages on GitLab.com.
-
-To add a page to this dashboard, create a merge request to the [gitlab-com/gitlab-profiler](https://gitlab.com/gitlab-com/gitlab-profiler) project.
-
 ### Go services
 
 [Stackdriver Continuous Go Profiling](https://cloud.google.com/profiler) can be used to have a better
