@@ -34,7 +34,7 @@ As a buddy, part of your responsibility is to guide the new team member around t
 ### GitLab Trainings
 
 #### Business Technology onboarding training
-Much of the training BSAs should consider is already part of our onboarding. As time progresses, we may add additional things, so a periodic review of [Business Technology department](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_business_operations.md) onboarding activities for new actions is valuable.
+Much of the training BSAs should consider is already part of our onboarding. As time progresses, we may add additional things, so a periodic review of [Business Technology department](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_business_operations.md) onboarding activities for new actions is valuable.
 
 #### Diversity, Inclusion, and Belonging Training
 [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion) is one of GitLab's 6 values. It's what we believe distinguishes us from other companies. Business Systems Analysts should take [DIB Training](https://gitlab.com/gitlab-com/diversity-and-inclusion/-/issues/new?issuable_template=diversity-inclusion-belonging-training-template) which reviews key sections of our handbook and a learning path. We all need to work on making sure we are inclusive as we work together to build some really great things.
