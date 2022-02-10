@@ -358,8 +358,6 @@ GitLab.com is a very large instance of GitLab Enterprise Edition. It runs releas
 
 There is extensive [monitoring](https://dashboards.gitlab.com/) publicly available for GitLab.com. For more on this and related tools, see the [monitoring handbook](/handbook/engineering/monitoring/).
 
-More details on [GitLab Profiler](http://redash.gitlab.com/dashboard/gitlab-profiler-statistics) are also found in the [monitoring performance handbook](/handbook/engineering/monitoring/).
-
 ### Error Reporting
 
 - [Sentry](https://sentry.gitlab.net/) is our error reporting tool
