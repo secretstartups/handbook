@@ -4,6 +4,12 @@ title: Support Leadership Sync
 description: "Weekly Support Leadership Sync meetings"
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ### Purpose
 
 Support leadership (Managers, Senior Managers and Director) participate in cross-regional meetings weekly.
@@ -75,3 +81,64 @@ The purpose of these meetings is **not** to:
 #### As an asynchronous meeting participant
 1. Set aside time at the end of the week to review the agenda document and/or meeting recording from that week.
 1. Make note of the things under `Inform` and `Discuss`, and contribute via respective issues.
+
+### Setting up the meetings
+
+Due to some weirdness between the Zoom app and web UI, you have to do this in two parts:
+
+#### Part 1 - Zoom app
+
+Because the web UI does not allow for adding it to Google calendar, you need to start via the app.
+
+In your Zoom app, click the `Schedule` button. This will bring up a window to add a scheduled meeting.
+
+On this window:
+
+1. Put the name of the meeting in the Topic box
+1. Check the box for `Recurring meeting`
+1. Under the `Meeting ID` section, check the bubble to `Generate Automatically`
+1. Under the `Security` section, make sure to use the `Passcode` option
+1. Under the `Video` section, have both `On` bubbles selected
+1. Under the `Audio` section, have the `Telephone and Computer Audio` bubble selected
+1. Under the `Calendar` section, have the `Google Calendar` bubble selected
+1. Click the down arrow by `Advanced Options` and
+   1. check the box for `Allow participants to join anytime`
+   1. check the box for `Automatically record meeting`
+   1. select the bubble for `In the cloud`
+
+With all that done, click `Save`. This will then open a browser window to authenticate via Google to add the event to the calendar.
+
+When adding the event to the calendar, ensure:
+
+1. The date, start time, end time, and timezone are correct (see [Time Settings](#time-settings-for-the-meetings) down below)
+1. The recurring settings are correct (see [Time Settings](#time-settings-for-the-meetings) down below). This is found to the right of the `All day` box
+1. You attach the [Support Leadership Google doc](https://drive.google.com/drive/u/0/search?q=parent:1eBkN9gosfqNVSoRR9LkS2MHzVGjM5-t5%20title:%22support%20leadership%20calls%20agenda%20and%20notes%22%20owner:tatkins%40gitlab.com)
+1. You put it on the GitLab Support calendar (option is right below the `Add notification` option)
+1. You set the availability to `Free` (option is right below which calendar to put it on). This is **vital** to ensure it does not block customer calls.
+1. Invite the correct list of people
+   * jmichniewicz@gitlab.com
+   * rtakken@gitlab.com
+   * support-managers@gitlab.com
+1. Under `Guest permissions`, have the following boxes checked:
+   * Invite others
+   * See guest list
+
+With that, click the Save button at the top-right.
+
+#### Part 2 - Zoom web UI
+
+Next we add the co-hosts for the meeting. To do this, go to [My Meetings](https://zoom.us/meeting#/upcoming) in the Zoom Web UI. Then locate the meeting in question , hover over it, and click the `Edit` button.
+
+On the edit page, click the `Options` item (towards the bottom of the section) and then click in the box under `Alternative Hosts`.
+
+You will now need to manually add each manager to the `Alternative Hosts` box. For a complete list, see the [support-managers Google group member list](https://groups.google.com/a/gitlab.com/g/support-managers/members).
+
+Once you have added all of them in, click the blue `Save` button.
+
+#### Time Settings for the meetings
+
+| Meeting | Start Time | End Time | Timezone | Recurruing Schedule|
+|---------|:----------:|:--------:|:--------:|--------------------|
+| [REC] Support Leadership Sync - APAC<>EMEA   | 0900 | 0950 | +00:00 UTC | Every 3 weeks on Wednesday |
+| [REC] Support Leadership Sync - AMER<>APAC-E | 2200 | 2250 | +00:00 UTC | Every 3 weeks on Wednesday |
+| [REC] Support Leadership Sync - EMEA<>AMER   | 1600 | 1650 | +00:00 UTC | Every 3 weeks on Thursday |
