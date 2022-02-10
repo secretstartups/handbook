@@ -166,7 +166,7 @@ This is used for non-traditional list uploads in which we are looking to a) avoi
 
 #### Owned Event
 
-This is an event that we have created, own registration and arrange speaker/venue (example: GitLab Commit or Meetups).
+This is an event that we have created, own registration and arrange speaker/venue (example: GitLab Commit or Meetups). Also considered in this grouping would be 3rd party auxiliary events that are added on to a conference sponsorship (i.e a happy hour or VIP dinner at a conference).  
 
 **Bizible:** This is tracked as an _online_ channel because we manage the registration through our website.
 
