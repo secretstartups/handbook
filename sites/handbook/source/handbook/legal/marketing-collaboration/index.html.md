@@ -68,41 +68,41 @@ Any use of third-party trademarks should be covered by a Trademark Use Agreement
 - [Partner Marketing](https://about.gitlab.com/handbook/marketing/strategic-marketing/partner-marketing/#how-to-engage-partner-marketing) 
 - [Customer Reference Marketing](https://about.gitlab.com/handbook/marketing/strategic-marketing/customer-reference-program)
 
-## Contests and Sweepstakes
+## Promotional Games
 
 ### Engaging legal for approval
 
-From time to time, GitLab runs contests and sweepstakes. While these seem simple enough and may be an effective marketing tactic, there are quite a few factors for Legal to consider when planning such an event. Because of this, requests for Terms and Conditions should be submitted at least 2 weeks prior to the date you need a decision. 
+From time to time, GitLab sponsors promotional games. While these seem simple enough and may be an effective marketing tactic, there are quite a few factors for Legal to consider when planning such an event. Because of this, requests for Official Rules should be submitted at least 2 weeks prior to the date you need a decision. 
 
-If you are planning such an event, you will need legal approval for the proposed event. Please use the [Sweepstakes Legal Template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=sweepstakes_legal_template) housed in the Marketing Ops repo. 
+If you are planning a promotional game, you will need legal approval for the proposed promotional game. Please use the [Sweepstakes Legal Template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=sweepstakes_legal_template) housed in the Marketing Ops repo. 
 
 The following explanations will help you fill out the form completely. This is essential, as all of the questions were developed based on legal requirements. Issues that do not answer all the questions will not be approved.
 
-- **Type of Event.** Please check the type of event you are hosting or add an additional type if the options do not fit your event. This is an important step as the type of event is often the starting point for knowing what laws to review.
-  - Survey: A survey is based on preference or individual opinion, such as a questionnaire in which there are no wrong answers.
-  - Quiz: A quiz is based on knowledge and there are right and wrong answers.
-  - Contest: A contest is based on skill and involves exhibiting this skill in a measurable way.
+- **Type of Promotional Game.** Please check the type of event you are hosting or add an additional type if the options do not fit your promotional game. This is an important step as the type of promotional game is often the starting point for knowing what laws to review.
+  - Giveaway: This is where every participant that completes the prescribed action gets the prize. Official rules may not be required for givewaways, provided the giveaway description includes clear conditions of participation (what you must do) and any restritions (such as max of 100 prizes, first come first serve).
+  - Game of Chance: This is a Prize Draw - where there is an element of chance in the determination of a winner. These promtional games may include objective qualifying requirements but the winner(s) are selected at random from a pool of qualified entries.
+  - Game of Skill: This is a contest or competition - where the winner is selected as the result of the best entry and would include objective standards/criteria upon which the entry is judged.
 
-- **Hosting Country.** Because [laws vary based on locale](https://www.dlapiperintelligence.com/prizepromotions/insight/index.html?t=), it is necessary for Legal to know as much as possible about where the event will take place. (In the case of remote events, please tell us the intended audience. For example, it may be targeted to EMEA users/prospects. Legal will then review our internal guidelines to determine which country we will designate as the host country.)
+- **Hosting Country.** Because [laws vary based on locale](https://www.dlapiperintelligence.com/prizepromotions/insight/index.html?t=), it is necessary for Legal to know as much as possible about where the promotional game will take place. (In the case of remote events, please tell us the intended audience. For example, it may be targeted to EMEA users/prospects. Legal will then review our internal guidelines to determine which country we will designate as the host country.)
 
-- **Event Description.** Various countries have certain requirements regarding what information must be communicated in the event descriptions. While you may make small edits to your description throughout the process of developing your event, it is important for Legal to know what communication to entrants will look like so we can ensure that it complies with local law.
+- **Promotional Game Description.** Various countries have certain requirements regarding what information must be communicated in the promotional game descriptions. While you may make small edits to your description throughout the process of developing your promotional game, it is important for Legal to know what communication to entrants will look like so we can ensure that it complies with local law.
 
-- **Use of Information.** You must articulate what you will do with information you obtain through the event so Legal can help you ensure that communication and/or consent is handled properly.
+- **Use of Personal Data.** You must articulate what you will do with personal data you collect through the promotional game so Legal can help you ensure that communication and/or consent is handled properly.
 
-- **Questions.** The questions you intend to use for a survey or quiz must be submitted for review. This is mainly for informational purposes so that Legal can understand more about the event and what rules may apply. It is unlikely that we will "disallow" the questions, but we may have input for wording. The questions will also help us know what language to include in customized rules.
+- **Questions.** The questions you intend to use for a survey or quiz as part of a promotional game must be submitted for review. This is mainly for informational purposes so that Legal can understand more about the promotional game and what rules may apply. It is unlikely that we will "disallow" the questions, but we may have input for wording. The questions will also help us know what language to include in customized rules.
 
 - **Prize Values.** Local law often hinges on the value of the prizes, so it is necessary to know what prizes and how many prizes will be awarded prior to creating rules. Legal may request a change in prizes if the value amount is over a certain threshhold and adds significant Legal requirements to event. This will vary from country to country and sometimes from state to state.
 
 - **Awarding Prizes.** The method and criteria for winning a prize must be detailed, as this will affect what the rules will include.
 
-- **Winner List.** You must provide a url for posting a winner list, as this is a requirement in nearly every jurisdiction. We take privacy seriously, so we will post first initials and last names where allowed by law. 
+- **Winner List.** You must provide a url for posting a winner list, as this is a requirement in nearly every jurisdiction. We take privacy seriously, so we will post first initials and last names where allowed by law.
 
-Once your issue description is completely filled out, Legal will review all the details in light of the applicable laws and make recommendations to tailor the event. Legal will also provide rules. **Depending on the locale, you may be required to obtain a translation of the rules to local languages.** Legal does not provide this, so you will need to ensure that you have the ability to procure this through Marketing vendors. Some rules can be translated through automated services, but others may require human translation depending on the prize amounts and jurisdiction.
+Once your issue description is completely filled out, Legal will review all the details in light of the applicable laws and make recommendations to tailor the promotional game. Legal will also provide the Official Rules. **Depending on the locale, you may be required to obtain a translation of the rules to local languages.** Legal does not provide this, so you will need to ensure that you have the ability to procure this through Marketing vendors. Some rules can be translated through automated services, but others may require human translation depending on the prize amounts and jurisdiction.
 
-### Hosting the Sweepstakes Rules
-Any sweepstakes run by GitLab must be accompanied by sweepstakes rules. Once legal has drafted and provided these to you, you will need to [create a new page](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-new-pages) under the [GitLab Sweepstakes](https://about.gitlab.com/community/sweepstakes/) page and add a link to the [list of Current sweepstakes](https://about.gitlab.com/community/sweepstakes/#current). Once you have added the rules for your sweepstakes, link to these from the landing page of your event or promotion.   
+### Hosting the Promotional Game Rules
+Any promotional game sponsored by GitLab must be accompanied by Official Rules. Once legal has drafted and provided these to you, you will need to [create a new page](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-new-pages) under the [GitLab Sweepstakes](https://about.gitlab.com/community/sweepstakes/) page and add a link to the [list of Current sweepstakes](https://about.gitlab.com/community/sweepstakes/#current). Once you have added the rules for your promotional game, link to these from the landing page of your entry form or promotion.   
 
-**Note:** Remember to move your page from the `Current` to the `Past` lists once your sweepstakes is complete.
+**Note:** Remember to move your page from the `Current` to the `Past` lists once your promotional game is complete.
 
 ## Marketing Rules and Consent Language
 
