@@ -141,7 +141,7 @@ Do you want to procure a new application/system? Visit the [Procurement handbook
 
 The offboarding templates need to be updated when a new system is added to the tech stack in order for GitLab to be compliant and remove team members from systems once they leave GitLab. There is two different ways to update the offboarding process:
 
-1. Update the [main offboarding template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md): The main template is divided in two sections, the main `Offboarding Tasks` section which is applicable to all team members and it is done by the Manager, People, Finance and Business Technology teams. The `Tech Stack System Deprovisioning / Offboarding - Tasks that need to be completed within 5 days` section is where we want to add new systems that are added to the teck stack. 
+1. Update the [main offboarding template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md): The main template is divided in two sections, the main `Offboarding Tasks` section which is applicable to all team members and it is done by the Manager, People, Finance and Business Technology teams. The `Tech Stack System Deprovisioning / Offboarding - Tasks that need to be completed within 5 days` section is where we want to add new systems that are added to the teck stack. 
 
 The format to follow is:
 
@@ -166,7 +166,7 @@ The format to follow is:
 ```
 
 
-1. Update the [offboarding templates per department](https://gitlab.com/gitlab-com/people-group/employment-templates/-/tree/master/.gitlab/issue_templates/offboarding_tasks): If only a limited number of users will be added to the system, it is better to deprovision at the division/department level. In that case, please find the offboarding tasks per department and add the new system to the template for that department. Example: If only security will have access to a system, then you can go to the [Security folder](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding_tasks/department_security.md) and add the system name to that template following this format:
+1. Update the [offboarding templates per department](https://gitlab.com/gitlab-com/people-group/employment-templates/-/tree/master/.gitlab/issue_templates/offboarding_tasks): If only a limited number of users will be added to the system, it is better to deprovision at the division/department level. In that case, please find the offboarding tasks per department and add the new system to the template for that department. Example: If only security will have access to a system, then you can go to the [Security folder](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding_tasks/department_security.md) and add the system name to that template following this format:
 
 `- [ ]  @usernameofdeprovisioner @usernameofdeprovisioner2: Remove the team member from System Name`
 
