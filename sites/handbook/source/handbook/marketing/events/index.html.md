@@ -933,6 +933,9 @@ In an effort to publicly share where people can find GitLab at events in person 
 If you need more information about our exact involment in an specific event please visit the marketing project in gitlab.com and search the name of the event for any realted issues. The "Meta" issue should include the most thorough and high level details about each event we are participating in. Place your event in the order in which it is happening. The list runs from soonest to furthest in the future.
 Save event images and headers here: Save images for featured events [here](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/events)
 
+
+If you don't have merge permissions, or if you're having trouble with the pipeline, you can assign an [Engineer on the Digital Experience team](/handbook/marketing/inbound-marketing/digital-experience/#team) (commonly, `@lduggan`) to be a **Reviewer** on the MR, or post in #digital-experience-team on slack. 
+
 ### Details to be included (all of which are mandatory in order for your MR to pass the build):
 
 {:.no_toc}
