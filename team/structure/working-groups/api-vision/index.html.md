@@ -38,7 +38,6 @@ This is a list of topics that we want to discuss:
   - REST / GraphQL API consistency.
   - REST first vs. GraphQL first vs. another approach.
   - Define user personas and consumers: frontend, CLI tooling, etc.
-  - Real-time data synchronization, as we are progressively moving towards more of a "SPA" frontend architecture.
 - Review APIs:
   - General architecture.
   - Permissions and scopes.
