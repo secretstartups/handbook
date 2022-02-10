@@ -31,7 +31,7 @@ We anticipate the remote onboarding process to take at least two full weeks, wit
 ## What is an onboarding session?
 At GitLab, we like to do what we call ["dogfooding"](https://about.gitlab.com/handbook/values/#dogfooding) our own product. Hence onboarding tasks are completed in a [GitLab issue](https://docs.gitlab.com/ee/user/project/issues/).
 
-All onboarding steps are found in an [onboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md), which contains a standardized set of tasks and steps that each new team member will complete. The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning)and as [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) as possible. This is intentional, in order to aid acclimation into the remote life at GitLab.
+All onboarding steps are found in an [onboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md), which contains a standardized set of tasks and steps that each new team member will complete. The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning)and as [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) as possible. This is intentional, in order to aid acclimation into the remote life at GitLab.
 
 Read more about GitLab's all-remote [onboarding process](https://about.gitlab.com/handbook/people-group/general-onboarding/) in our handbook.
 
@@ -69,7 +69,7 @@ In an all-remote setting where team members are possibly working from a variety 
 
 While tools are an important part of any role, new hires need to feel empowered to use them. Organizations can help build technical confidence by setting up early wins with action items the new hire can complete as they move through their training. Organizational onboarding provides the access to information through handbooks/documentation, and technical onboarding is about using that knowledge to work through the tools.
 
-At GitLab, we practice [dogfooding](/handbook/values/#dogfooding). Our entire company uses GitLab to collaborate on the handbook and we also create issues and merge requests in our product. For all new GitLab hires, we have created an [onboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/-/blob/master/.gitlab/issue_templates/onboarding.md) that has tasks to complete each day. We believe in using the tools we create. This allows new hires to become familiar with GitLab in a way that feels meaningful (e.g. in learning GitLab, they are also accomplishing necessary onboarding tasks). This also provides a continual set of new users to test GitLab with fresh eyes. These individuals are ideally positioned to point out missing features or areas for improvement as we iterate on the product.
+At GitLab, we practice [dogfooding](/handbook/values/#dogfooding). Our entire company uses GitLab to collaborate on the handbook and we also create issues and merge requests in our product. For all new GitLab hires, we have created an [onboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) that has tasks to complete each day. We believe in using the tools we create. This allows new hires to become familiar with GitLab in a way that feels meaningful (e.g. in learning GitLab, they are also accomplishing necessary onboarding tasks). This also provides a continual set of new users to test GitLab with fresh eyes. These individuals are ideally positioned to point out missing features or areas for improvement as we iterate on the product.
 
 For technical onboarding, give new hires access to the tools they'll be using in their roles and, most importantly, encourage them to use the tools as early as possible. Using tools, even for very small tasks, builds confidence and helps new employees to feel productive and empowered.
 
@@ -138,15 +138,15 @@ Here's our list of more than 20 ways to participate in a happy, healthy [informa
 It's a good idea to schedule weekly [1-1 meetings](/handbook/leadership/1-1/) to field questions, ask about any challenges, or focus on areas to grow and build trust. Managers can supplement formal meetings with [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats) where no work is discussed: the goal is to simply listen, share, and have open conversations and nurture the social component of remote working. 
 
 ## What are onboarding activities?
-At GitLab, [the first thirty days](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#the-first-thirty-days) consist of a series of tasks to be completed sequentially. A sample GitLab onboarding sequence might look like:
+At GitLab, [the first thirty days](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#the-first-thirty-days) consist of a series of tasks to be completed sequentially. A sample GitLab onboarding sequence might look like:
 
-* Day 1: [Getting Started: Accounts and Paperwork](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-1-getting-started-accounts-and-paperwork)
-* Day 2: [Remote Working and our Values](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-2-remote-working-and-our-values)
-* Day 3: [Security & Compliance](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-3-security-compliance)
-* Day 4: [Social & Benefits](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-4-social-benefits)
-* Day 5: [Git](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#day-5-git)
-* [Weeks 2 - 4: Explore](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#weeks-2-4-explore)
-* [Week 3: Job Specific Tasks](/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#job-specific-tasks)
+* Day 1: [Getting Started: Accounts and Paperwork](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-1-getting-started-accounts-and-paperwork)
+* Day 2: [Remote Working and our Values](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-2-remote-working-and-our-values)
+* Day 3: [Security & Compliance](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-3-security-compliance)
+* Day 4: [Social & Benefits](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-4-social-benefits)
+* Day 5: [Git](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#day-5-git)
+* [Weeks 2 - 4: Explore](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#weeks-2-4-explore)
+* [Week 3: Job Specific Tasks](/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#job-specific-tasks)
 
 ## What do new hires want from an onboarding program?
 Onboarding is the first impression a new hire gets of your organization. It's critical to invest the time to do it well so that your new team members get to know you, understand what is expected of them, introduces them to co-workers and teammates, and sets them up to succeed. 

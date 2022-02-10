@@ -43,7 +43,7 @@ Each department and team's quarterly goals, or ["objectives and key results" (OK
 
 Our approach to [documentation](/handbook/documentation/) also helps with [onboarding new team members](/company/culture/all-remote/learning-and-development/), because everything they need to know is in one place.
 
-We also have an extensive [onboarding template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md) and we host a [GitLab 101](/company/culture/gitlab-101/) for new hires to ask questions.
+We also have an extensive [onboarding template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) and we host a [GitLab 101](/company/culture/gitlab-101/) for new hires to ask questions.
 
 #### Docs instead of whiteboards
 
