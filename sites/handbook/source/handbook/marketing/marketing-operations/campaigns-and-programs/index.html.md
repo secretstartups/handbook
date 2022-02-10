@@ -320,21 +320,6 @@ An in-person or virtual workshop where the attendees are guided through an agend
 | Attended | Attended workshop event | Yes |
 | Follow Up Requested | Requested additional details about GitLab to be sent post event | Yes |
 
-## Allocadia Information
-
-If you are a user of Allocadia, you will need to  add the Allocadia ID to the `Description` field. It does not matter if you use the Category, subcategory, or line item ID. To determine which one you should use, you should be thinking "What is the highest level ID that houses all the information I want pushed from Allocadia>Marketo>SFDC."
-
-You must NOT edit the campaign until the Allocadia connector has time to work. This is normally done near-real time, but if the data does not push immediately, be aware it can take minutes to hours to do so. You'll know the Allocadia connect has completed its work when you see the SFDC campaign owner change from Marketo Integration to the name of the actual person who is running the camapign as well as well as when all details are populated from Allocadia to SFDC. If you edit the campaign before the connector pushes the data over, it will break the build and you will manually have to edit all of the fields listed.
-
-The initial Plan Cost in the campaign needs 1 night to synch.
-
-The campaign meta data is a one time synch, where as the Actual Cost in Campaign (which is run off of the Campaign Tag to be Created field in Allocadia), synchs every nightly.
-
-Video explainers:
-* [Instructional Video](https://youtu.be/1681EBw5344)
-* [Sync Results Video](https://youtu.be/PocOPnJY4w0)
-
-
 # Marketo Program and Salesforce Campaign set-up
 
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
@@ -427,9 +412,8 @@ If this is to set up a program that involves a channel partner, you must also fo
 
 - At the program main screen in Marketo, where it says `Salesforce Sync` "not set", click on "not set"
     - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
+    - If you are a user of Allocadia, you will need to add the Allocadia ID sub-category ID to the `Description` field. 
     - Click "Save"
-
-If you are a user of Allocadia, you will need to add the Allocadia ID sub-category ID to the `Description` field. 
 
 ### Step 3: Update Marketo tokens
 
@@ -494,19 +478,18 @@ If you are a user of Allocadia, you will need to add the Allocadia ID sub-catego
 - Add the Marketo program link and SFDC campaign link to the epic.
 
 ### Step 5: Update the Salesforce campaign - Using Allocadia 
-Using an integration from Allocadia > Marketo, Marketo > SFDC, the information you've provided in Allocadia will push to your SFDC campaign. Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign), the only thing you will need to manually update in SFDC is the following: 
+Using an integration from Allocadia > Marketo, Marketo > SFDC, the information you've provided in Allocadia will push to your SFDC campaign.  
+
+**Please Note:** You must NOT edit the campaign until the Allocadia connector has time to work. This is normally done near-real time, but if the data does not push immediately, be aware it can take minutes to hours to do so. You'll know the Allocadia connect has completed its work when you see the SFDC campaign owner change from Marketo Integration to the name of the actual person who is running the camapign as well as well as when all details are populated from Allocadia to SFDC. If you edit the campaign before the connector pushes the data over, it will break the build and you will manually have to edit all of the fields listed. For additional Allocadia details [go here](/handbook/marketing/marketing-operations/campaigns-and-programs/#allocadia-information).    
+
+#### Training Videos for Setting up SFDC Campaign - Using Allocadia
+
+* [Instructional Video](https://youtu.be/1681EBw5344)
+* [Sync Results Video](https://youtu.be/PocOPnJY4w0)
+
+Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign), the only thing you will need to manually update in SFDC is the following: 
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
-    - Budgeted Cost in SFDC pulls from your `plan` number, not your `forecast` number from Allocadia. If you do not have a `plan` cost in Allocadia then Budgeted Cost in SFDC will remain blank. If this is the case, you will want to add in your Budgeted Cost manually into your SFDC campaign.  
-
-If you are a user of Allocadia, you will need to  add the Allocadia ID to the `Description` field. It does not matter if you use the Category, subcategory, or line item ID. To determine which one you should use, you should be thinking "What is the highest level ID that houses all the information I want pushed from Allocadia>Marketo>SFDC."
-
-You must NOT edit the campaign until the Allocadia connector has time to work. This is normally done near-real time, but if the data does not push immediately, be aware it can take minutes to hours to do so. You'll know the Allocadia connect has completed its work when you see the SFDC campaign owner change from Marketo Integration to the name of the actual person who is running the camapign as well as well as when all details are populated from Allocadia to SFDC. If you edit the campaign before the connector pushes the data over, it will break the build and you will manually have to edit all of the fields listed.
-
-The initial Plan Cost in the campaign needs 1 night to synch.
-
-The campaign meta data is a one time synch, where as the Actual Cost in Campaign (which is run off of the Campaign Tag to be Created field in Allocadia), synchs every nightly.
-
-You must NOT edit the campaign until the Allocadia connector has time to work. For additional Allocadia details [go here](/handbook/marketing/marketing-operations/campaigns-and-programs/#allocadia-information)
+    - Budgeted Cost in SFDC pulls from your `plan` number, not your `forecast` number from Allocadia. If you do not have a `plan` cost in Allocadia then Budgeted Cost in SFDC will remain blank. If this is the case, you will want to add in your Budgeted Cost manually into your SFDC campaign. The initial Plan Cost in the campaign needs 1 night to synch. The campaign meta data is a one time synch, where as the Actual Cost in Campaign (which is run off of the Campaign Tag to be Created field in Allocadia), synchs every nightly.
 
 ## Steps to Setup Content Syndication in Marketo and SFDC
 
