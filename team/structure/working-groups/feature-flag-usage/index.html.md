@@ -62,7 +62,7 @@ The stakeholder departments in the table are the ones identified in the [archite
 | Facilitator                            | Ricky Wiens | Engineering Manager | Backend Engineering Manager, Verify:Testing        |
 | Functional Lead                        | Kamil Trzciński | Engineer | Distinguished Engineer, Ops and Enablement     |
 | Functional Lead                        | Kenny Johnston | Product Manager | Senior Director of Product Management, Ops |
-| Functional Lead                        | James Heimbuck | Product Manager | Senior Product Manager, Verify:Testing          |
+| Functional Lead                        | James Heimbuck | Product Manager | Senior Product Manager, Verify:Pipeline Execution          |
 | Member                                 | Grzegorz Bizon | Engineer | Staff Backend Engineer, Verify                  |
 | Member                                 | Craig Gomes | Engineering Manager | Backend Engineering Manager, Memory and Database   |
 | Member                                 | Michelle Gill | Engineering Manager | Engineering Manager, Create:Source Code          |

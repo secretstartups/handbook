@@ -71,7 +71,7 @@ Ideally, the functional lead is someone who is an IC working in the affected gro
 | Functional Lead    | Tim Noah                 | UX                        | Senior Product Designer                       |
 | Functional Lead    | Phil Hughes              | Create:Code Review        | Staff Frontend Engineer                       |
 | Functional Lead    | José Iván Vargas López   | Verify:Pipeline Execution | Senior Frontend Engineer                      |
-| Functional Lead    | Scott Hampton            | Verify:Testing            | Acting Engineering Manager                    |
+| Functional Lead    | Scott Hampton            | Verify:Pipeline Insights  | Engineering Manager                           |
 | Functional Lead    | Savas Vedova             | Secure:Threat Insights    | Senior Frontend Engineer                      |
 | Functional Lead    | Mark Florian             | Foundations               | Senior Frontend Engineer                      |
 | Functional Lead    | Jannik Lehmann           | Secure                    | Frontend Engineer                             |
@@ -82,4 +82,4 @@ Ideally, the functional lead is someone who is an IC working in the affected gro
 | Member             | Payton Burdette          | Verify:Pipeline Execution | Senior Frontend Engineer                      |
 | Member             | Pedro Moreira da Silva   | UX                        | Staff Product Designer, Create:Code Review    |
 | Member             | Tomislav Nikić           | Quality                   | Software Engineer in Test, Create:Code Review |
-| Member             | Gina Doyle               | UX                        | Product Designer, Verify:Testing & Runner     |
+| Member             | Gina Doyle               | UX                        | Product Designer, Pipeline Insights & Runner  |
