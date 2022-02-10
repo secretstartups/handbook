@@ -169,7 +169,7 @@ work is involved.  Weights should be considered an artifact of the refinement pr
 purpose of the refinement process.
 
 It is perfectly acceptable if items take longer than the initial weight. We do not want to inflate
-weights, as [velocity is more important than predictability](/handbook/engineering/#velocity-over-predictability)
+weights, as [velocity is more important than predictability](/handbook/engineering/principles/#velocity-over-predictability)
 and weight inflation over-emphasizes predictability.
 
 We do not add weights to bugs as this would be double-counting points. When our delivery contains

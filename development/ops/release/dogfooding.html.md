@@ -12,7 +12,7 @@ title: "Dogfooding GitLab Releases"
 ### Dogfooding GitLab Releases
 
 One way we live out our [dogfooding
-value](https://about.gitlab.com/handbook/engineering/#dogfooding) is by using
+value](https://about.gitlab.com/handbook/engineering/principles/#dogfooding) is by using
 our own [releases](https://docs.gitlab.com/ee/user/project/releases/) feature to
 publish GitLab's monthly releases. These releases can be seen in the
 [`gitlab`](https://gitlab.com/gitlab-org/gitlab/-/releases) and

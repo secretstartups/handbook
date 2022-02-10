@@ -138,7 +138,7 @@ to keep examples as current as possible.
 ##### Possible Values
 
 It is perfectly acceptable if items take longer than the initial weight. We do not want to inflate weights,
-as [velocity is more important than predictability](/handbook/engineering/#velocity-over-predictability) and weight inflation over-emphasizes predictability.
+as [velocity is more important than predictability](/handbook/engineering/principles/#velocity-over-predictability) and weight inflation over-emphasizes predictability.
 
 | Weight | Description | Reference issues |
 | ------ | ----------- | ---------------- |
