@@ -418,7 +418,7 @@ Each one of the problems above has a specific solution:
 This is especially a problem if there are acquisitions of new technologies.
 We address this for acquired technology by having [acquired organizations](/handbook/acquisitions/) remake their functionality inside our [single application](/handbook/product/single-application/).
 
-Otherwise, we have a [clear and consistent prioritization framework across engineering](/handbook/engineering/#prioritizing-technical-decisions) and [product](/handbook/product/product-processes/#how-we-prioritize-work) that helps ensure we are continuously making progress on the most important issues.
+Otherwise, we have a [clear and consistent prioritization framework across engineering](/handbook/engineering/principles/#prioritizing-technical-decisions) and [product](/handbook/product/product-processes/#how-we-prioritize-work) that helps ensure we are continuously making progress on the most important issues.
 
 
 ## 25. Enterprise product management
