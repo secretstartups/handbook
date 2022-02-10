@@ -16,7 +16,7 @@ Onboarding is [incredibly important](/company/culture/all-remote/onboarding/) at
 
 We highly recommend taking at least two full weeks for onboarding and only in week three starting with team specific onboarding and training. Please feel free to participate in your team's work in your first two weeks, but don't feel like you have to contribute heavily.
 
-All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md) which is owned by the People Experience Team. The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning), whilst also remaining as [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) as possible settling into the remote life at GitLab.
+All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md) which is owned by the People Experience Team. The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning), whilst also remaining as [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) as possible settling into the remote life at GitLab.
 
 At GitLab we take great pride in [dogfooding](https://about.gitlab.com/handbook/values/#dogfooding) our own product, that is why all onboarding tasks are completed in a GitLab issue. First of all, what is an issue? You can learn more about what an issue is [here](https://docs.gitlab.com/ee/user/project/issues/).
 
@@ -112,58 +112,58 @@ To ensure a successful completion of the onboarding issue, it is important that 
 
 These templates are used by the People Experience team to onboard new team members.
 
-- [All GitLab team-members](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md)
-- [Intern](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_intern_engineering.md)
+- [All GitLab team-members](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md)
+- [Intern](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_intern_engineering.md)
 
 #### <i class="fas fa-suitcase fa-fw color-orange font-awesome"></i>Role Specific Templates
 
 These are added to the "All Team Member" Template
 
-- [People Managers](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/people_manager.md)
-- [Engineering, such as Developers, Build, Infrastructure, etc.](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#for-engineering-such-as-developers-build-infrastructure-etc-only)
-- [Development](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_development.md)
-- [Production and Database Engineering](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#production-and-database-engineering)
-- [Database Engineering](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#database-engineering)
-- [Support](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_customer_support.md)
-- [Product Design](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_ux/role_product_designer.md)
-- [Product Design Managers](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_ux/role_manager_product_design.md)
-- [Frontend Engineering](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#frontend-engineers)
-- [Product Management](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_product_management.md)
-- [UX Research](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_ux/role_ux_researcher.md)
-- [Marketing Design](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#marketing-design)
-- [Security](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_security.md)
-- [Finance](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_finance.md)
-- [Legal](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_legal.md)
-- [People Success](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_people_success.md)
-- [Talent Acquisition](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_talent-acquisition.md)
-- [Core Team members](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/core_team_onboarding.md)
-- [Technical Writers](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_ux/role_technical_writer.md)
-- [Marketing non-SDR](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#marketing-department-non-sdr-roles)
-- [Sales Development Representatives](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md#for-outbound-sdrs-only)
-- [Commercial Sales](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_commercial_sales.md)
-- [Enterprise Sales](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_enterprise_sales.md)
-- [Customer success](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_customer_success.md)
-- [Channel](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_channel.md)
-- [Alliances](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_alliances.md)
-- [Business Operations](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_business_operations.md)
-- [Demand Generation](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_demand_generation.md)
-- [Technical Account Manager](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_customer_success/role_technical_account_manager.md)
+- [People Managers](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/people_manager.md)
+- [Engineering, such as Developers, Build, Infrastructure, etc.](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#for-engineering-such-as-developers-build-infrastructure-etc-only)
+- [Development](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_development.md)
+- [Production and Database Engineering](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#production-and-database-engineering)
+- [Database Engineering](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#database-engineering)
+- [Support](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_customer_support.md)
+- [Product Design](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_ux/role_product_designer.md)
+- [Product Design Managers](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_ux/role_manager_product_design.md)
+- [Frontend Engineering](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#frontend-engineers)
+- [Product Management](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_product_management.md)
+- [UX Research](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_ux/role_ux_researcher.md)
+- [Marketing Design](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#marketing-design)
+- [Security](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_security.md)
+- [Finance](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_finance.md)
+- [Legal](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_legal.md)
+- [People Success](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_people_success.md)
+- [Talent Acquisition](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_talent-acquisition.md)
+- [Core Team members](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/core_team_onboarding.md)
+- [Technical Writers](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_ux/role_technical_writer.md)
+- [Marketing non-SDR](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#marketing-department-non-sdr-roles)
+- [Sales Development Representatives](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md#for-outbound-sdrs-only)
+- [Commercial Sales](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_commercial_sales.md)
+- [Enterprise Sales](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_enterprise_sales.md)
+- [Customer success](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_customer_success.md)
+- [Channel](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_channel.md)
+- [Alliances](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_alliances.md)
+- [Business Operations](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_business_operations.md)
+- [Demand Generation](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_demand_generation.md)
+- [Technical Account Manager](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_customer_success/role_technical_account_manager.md)
 
 #### Country Specific Templates
-- [Australia](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_australia.md)
-- [Belgium](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_belgium.md)
-- [Canada](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_canada.md)
-- [Germany](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_germany.md)
-- [Hungary](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_hungary.md)
-- [India](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_india.md)
-- [Ireland](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_ireland.md)
-- [Japan](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/before_starting_japan.md)
-- [Netherlands](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_netherlands.md)
-- [New Zealand](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_new_zealand.md)
-- [Nigeria](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_nigeria.md)
-- [South Africa](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_south_africa.md)
-- [United Kingdom](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_united_kingdom.md)
-- [United States](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_united_states.md)
+- [Australia](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_australia.md)
+- [Belgium](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_belgium.md)
+- [Canada](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_canada.md)
+- [Germany](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_germany.md)
+- [Hungary](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_hungary.md)
+- [India](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_india.md)
+- [Ireland](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_ireland.md)
+- [Japan](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/before_starting_japan.md)
+- [Netherlands](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_netherlands.md)
+- [New Zealand](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_new_zealand.md)
+- [Nigeria](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_nigeria.md)
+- [South Africa](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_south_africa.md)
+- [United Kingdom](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_united_kingdom.md)
+- [United States](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/country_united_states.md)
 
 ### Supplemental onboarding issue templates
 
