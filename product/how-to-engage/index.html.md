@@ -174,4 +174,6 @@ You can copy/paste this to make sure you don't miss anything:
 - PM to mention:
 ```
 
+The `link to request` can be a SFDC Account Link (if the account is at risk of churning), a SFDC Opportunity Link (if there's an increased chance of purchasing), or a Zendesk Ticket.
+
 The `~customer priority::*` labels are inputs for the prioritization model powering the [user requested issues dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/919358/User-Requested-Issues), and represent the relative importance of a given issue to the specific customer. 1 is the lowest priority and 10 is the highest. These can be updated at any point in time and will be reflected in the model within 24 hours. 
