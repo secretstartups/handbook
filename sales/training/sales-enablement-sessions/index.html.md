@@ -23,11 +23,10 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Feb 10 | GitLab Runner Sales Playbook | Darren E. |
 | Feb 17 | Q1 FY23 Channel Update | Ed C.  |
 | Feb 24 | Q1 FY23 Alliances Update | Mayank T. & Pete G.  |
-| Mar 2 | TBD |  |
-| Mar 10 | TBD |  |
+| Mar 3 | Solution Selling | TBD  |
+| Mar 10 | Q1 FY23 Professional Services Update | TBD |
 | Mar 17 | TBD |  |
 | Mar 24 | Customer References Update | Customer References Team |
 | Mar 31 | TBD |  |
@@ -44,6 +43,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-02-10 | **[GitLab Runner Sales Playbook](https://youtu.be/dzu7SojmPYo)** | Private |
 | 2022-02-03 | **[GitLab Value Stream Assessment](https://youtu.be/jfM3AG6dBFY)** | Private |
 | 2022-01-06 |  **[GitLab on IBM Power - Modernization](https://youtu.be/0c0CE3JWz0Q)**     | Private    |
 | 2021-12-16 |  **[GitLab Acquires Opstrace](https://youtu.be/l1HWrdUJdjs)**      | Private  |
