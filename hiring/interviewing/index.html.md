@@ -125,7 +125,7 @@ These steps may vary role-to-role, so please review the hiring process on the jo
 1. The talent acquisition team will, if applicable, add language to the contract that states that employment or engagement is contingent on a valid work permit or visa. A start date should factor in that the approval of a new work permit may take several weeks.
     - Note that, when scheduling a start date, People Ops Specialists require at least 4 days notice from the receipt of an executed offer until the GitLab team-member's proposed first day.
 1. The manager follows up to ensure that the offer is accepted and that the contract is signed.
-1. CES [starts the onboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md).
+1. CES [starts the onboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md).
 1. The hiring manager considers [closing the vacancy](/handbook/hiring/vacancies/#closing-a-requisition).
 
 </details>
