@@ -11,7 +11,7 @@ title: "Sales & Customer Success Onboarding Process"
 
 ## Sales Onboarding Process
 1.  The GitLab Candidate Experience team initiates a general GitLab onboarding issue for every new GitLab team member
-    - See the [People Ops onboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md)
+    - See the [People Ops onboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md)
 1.  In the "Day 2" section of the general GitLab onboarding issue, a role-based entitlement access request (AR) will be created automatically for new team members if a [pre-approved template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/tree/master/.gitlab/issue_templates/role_baseline_access_request_tasks) exists. The new team member will be tagged in the AR automatically, and the AR will also be automatically added to the new team member epic together with their onboarding issue. Pre-approved role-based entitlement access request templates for field roles are available here:
     - [department_business_development](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/tree/master/.gitlab/issue_templates/role_baseline_access_request_tasks/department_business_development)
     - [department_channel](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/tree/master/.gitlab/issue_templates/role_baseline_access_request_tasks/department_channel)
@@ -26,5 +26,3 @@ title: "Sales & Customer Success Onboarding Process"
     - See what's included in the virtual, self-paced [Sales Quick Start learning path.](/handbook/sales/onboarding/sales-learning-path/)
     - Non-Sales team members can choose to add themselves to the [SQS Learning Path](https://gitlab.edcast.com/pathways/sales-quick-start) regardless of role if interested in understanding what new Sales Team Members are expected to complete prior to attending an SQS Workshop.
 1. Field team members will matriculate into an appropriate role-based learner journey after successful completion of Sales Quick Start to support onboarded / ramping team member's continued learning journey to greater success.
-
-
