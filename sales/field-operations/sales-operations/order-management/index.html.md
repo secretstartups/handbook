@@ -21,18 +21,18 @@ For an in depth overview of Opportunity Approval Booking Requirements, please re
 
 ### What We Do
 
-The GitLab Order Managment team owns the Opportunity Approval and Booking Process, oversees Intial License Delivery, and handles order and subscription reconciliations. Thus team is the DR for all questions related to Opportunity Booking requirements, questions regarding our bookings policies, and processes related to fulfilling an order. 
+The GitLab Order Management team owns the Opportunity Approval and Booking Process, oversees Initial License Delivery, and handles order and subscription reconciliations. This team is the DR for all questions related to Opportunity Booking requirements, questions regarding our bookings policy, and processes related to fulfilling an order. 
 
 **Daily Tasks:**
 - Approve in-region opportunities for booking (7-Closing stage)
-- Resolve order issues to ensure deals are booked correctly and acurately
+- Resolve order issues to ensure deals are booked correctly and accurately
 - Monitor license delivery status for newly closed opportunities
-  - Where automation failes, work directly with Support Engineering to send licenses to customers
-  - Catalogue and detail systemic failures - work with Product to advocate for long-term resolution
+  - Where automation fails, work directly with Support Engineering to send licenses to customers
+  - Catalog and detail systemic failures - work with Product to advocate for long-term resolution
 
 **Weekly Tasks:**
 - Review Renewal/Subscription Discrepancies
-  - Reconcile duplicate renewal oportunities
+  - Reconcile duplicate renewal opportunities
   - Create missing renewal opportunities
   - Ensure ARR Basis is correct on renewal opportunities
 
@@ -60,7 +60,7 @@ The GitLab Order Managment team owns the Opportunity Approval and Booking Proces
 
 #### Out of Scope
 
-Order Management is focused on Opportunity Approvals, License Fulfillment and Subscription Mangement. The following tasks are outside the role and responsiblity of our team. Please reach out to Deal Desk for assistance with the following:
+Order Management is focused on Opportunity Approvals, License Fulfillment and Subscription Management. The following tasks are outside the role and responsibility of our team. Please reach out to Deal Desk for assistance with the following:
 
 - Quote Creation
 - RFPs / Vendor Forms 
@@ -108,14 +108,14 @@ The Order Management team's primary communication is Salesforce chatter. When yo
 - Always use `@Sales-Support` for SFDC requests or post `#sales-support` in Slack for general questions.** This ensures our team is working as efficiently as possible and that you are covered in case the Order Management team member who replied first is unavailable. 
   - Please do not tag Order Management team members directly in chatter or make a request through Slack direct message. This ensures our team is working as efficiently as possible and that you are covered in case the DD team member who replied first is unavailable.
 - If someone is working on a case, they will continue to support until the case is closed.  If an issue has been resolved, please chatter @Sales-Support to reopen a case.
-- If you tag @Sales-Support on an existing Chatter post/comment by editing it, that action won`t generate a request to Order Management and we will not receive a notification. Please make sure tag Sales Support on an original post or on a new comment to the original post.
+- If you tag @Sales-Support on an existing Chatter post/comment by editing it, that action won`t generate a request to Order Management and we will not receive a notification. Please make sure to tag Sales Support on an original post or on a new comment to the original post.
 - Order Management team members monitor the case queue throughout the day. 
 
 ### Key Performance Indicators
 
 #### 1. Standard Opportunity Approval SLA 
 
-Opportunities will be reviewed for all booking requirements within 12 business hours of being Submitted for Approval (Stage 7 - Closing). Your opportunity will be Approved or Rejected by Order Management within 12 business hours of submission. Please note, ultimate closure of a deal depends is facilitated by the Billing team. 
+Opportunities will be reviewed for all booking requirements within 12 business hours of being Submitted for Approval (Stage 7 - Closing). Your opportunity will be Approved or Rejected by Order Management within 12 business hours of submission. Please note, ultimate closure of a deal is facilitated by the Billing team. 
 
 If there are missing booking requirements, or further confirmation is required from the Sales team, the Order Management specialist will tag you directly in Chatter to resolve any outstanding issues.
 
@@ -125,17 +125,17 @@ Please review our Sales Order Processing page for Opportunity Booking Requiremen
 
 All regions will receive a Quarterly Customer Satisfaction survey at the beginning of each new quarter. Our team aims for a 92% satisfaction rating for their supported region. This survey is a value tool to provide feedback on areas of improvement related to the Opportunity Approval Process. 
 
-Results from the survey will be used to evaluate team member performance and to idenitify areas for improvement. 
+Results from the survey will be used to evaluate team member performance and to identify areas for improvement. 
 
 #### 3. Opportunity Approval Accuracy and Efficiency 
 
-Our team aims for an Approval Accuracy of 95% or greater. Meaning, of all opportunites that we submit to Billing for final review / approval, 5% or less will be rejected for missing booking requirements. 
+Our team aims for an Approval Accuracy of 95% or greater. Meaning, of all opportunities that we submit to Billing for final review / approval, 5% or less will be rejected for missing booking requirements. 
 
-Order Management Specialists will be responsible for taking action on feedback received in Quarterly CSAT surveys, as well as improving process related to common opportuntiy rejections, whether it be through documentation, training, or system improvements. The goal is to reduce time to approval, improve efficiency and maintain a high level of accuracy for all approvals. 
+Order Management Specialists will be responsible for taking action on feedback received in Quarterly CSAT surveys, as well as improving processes related to common opportunity rejections, whether it be through documentation, training, or system improvements. The goal is to reduce time to approval, improve efficiency and maintain a high level of accuracy for all approvals. 
 
 ### Opportunity Approval Process
 
-Order Management reviews every Sales Assisted opportunity prior to booking. All opportunities must meet our standard opportunity booking requirements. An opportunity will be rejected if it is missing components necessary to booking. 
+Order Management reviews every Sales Assisted opportunity prior to booking. All opportunities must meet our standard opportunity booking requirements. An opportunity will be rejected if it is missing components necessary for booking. 
 
 #### Opportunity Prioritization 
 
@@ -151,7 +151,7 @@ The Order Management team will make every effort to ensure all opportunities sub
 
 Approvals that are urgent, customer impacting, or critical to buisness may be prioritized upon request. If the opportunity has been submitted after Standard Support hours, you may escalated the opp for a different regional team to review in the #sales-support Slack channel. You may also tag regional Deal Desk Managers for review and assist in delegating the case. 
 
-Opportunities raised for urgent review must be business critical. Opportunities that are routinely escalated out of indiviudal convienience instead of legitimate urgency will be addressed with Sales Management. 
+Opportunities raised for urgent review must be business critical. Opportunities that are routinely escalated out of individual convenience instead of legitimate urgency will be addressed with Sales Management. 
 
 #### Opportunity Approval Workflow
 
@@ -182,7 +182,7 @@ The License Delivery Review Process is a new process created to ensure that all 
   - licenses that fail
   - licenses that were delivered, but are not accepted by the GitLab instance
   - license split requests
-  - license re-send requests
+  - license resend requests
   - additional license send requests
 
 For assistance with Out of Scope license requests, please [open an Issue](/handbook/support/internal-support/#regarding-licensing-and-subscriptions) with the Support Engineering Team.
@@ -198,11 +198,11 @@ For assistance with Out of Scope license requests, please [open an Issue](/handb
 
 ### Subscription/Renewal Management Process
 
-Begining in FY23, the Order Management team will proactively review and correct bad renewal data. 
+Beginning in FY23, the Order Management team will proactively review and correct bad renewal data. 
 
 #### Background:
 
-It is important to have clean, correct renewal data - both for forecasting purposes, ATR (Available to Renew) analysis, and general data cleanliness.
+It is important to have clean, correct renewal data - both for forecasting purposes, ATR (Available to Renew, aka ARR Basis) analysis, and general data cleanliness.
 
 Our goal is to maintain 1:1 ratio of Renewal Opportunity to Customer Subscription:
 - Every Customer Subscription should link to one open or closed Renewal Opportunity
