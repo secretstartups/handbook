@@ -13,7 +13,7 @@ To learn more, see the [Solutions Architect handbook](/handbook/customer-success
 
 ## Levels
 
-
+Level role responsibilities and requirements may be extended or overlayed by [Specialty SA Roles](#specialties) when they also apply to a team member.
 
 ### Performance Indicators
 
@@ -64,7 +64,7 @@ The Solutions Architect is a [grade 6](/handbook/total-rewards/compensation/comp
 * B.Sc. in Computer Science or equivalent experience
 * Successful completion of a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 * Ability to use GitLab
-* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ### Senior Solutions Architect
 
@@ -76,7 +76,7 @@ The Senior Solutions Architect is a [grade 7](/handbook/total-rewards/compensati
 
 #### Senior Solutions Architect Responsibilities
 
-* Extends the Associate Solutions Architect responsibilities
+* Extends the Associate Solutions Architect responsibilities.
 * Solve technical customer issues of broad scope and high complexity.
 * Provide mentorship for Solution Architecture team members and remain a current contributor to team-learning initiatives and activities.
 * Work cross-departmentally to find solutions to complex scenarios and integration issues.
@@ -105,9 +105,9 @@ The Staff Solutions Architect is a [grade 9](/handbook/total-rewards/compensatio
 
 #### Staff Solutions Architect Responsibilities
 
-* Extends the Senior Solutions Architect responsibilities
+* Extends the Senior Solutions Architect responsibilities.
 * Build and deliver high-value and reusable enablement content that measurably improves the team's effectiveness and execution.
-* Sustain mentorship for specific members of the Solutions Architecture team to improve our technical win rate and increase iACV.
+* Sustain mentorship for specific members of the Solutions Architecture team to improve our technical win rate and increase Net ARR.
 * Guide Solution Architect team members through complex customer opportunities and activity.
 * Deliver product roadmap discussions.
 * Architect innovative solutions leveraging 3rd party and GitLab technologies that lead to new use cases and revenue opportunities.
@@ -128,12 +128,17 @@ The Principal Solutions Architect is a [grade 9](/handbook/total-rewards/compens
 
 #### Principal Solutions Architect Responsibilities
 
-* Extends the Staff Solutions Architect responsibilities
-* Create and maintain relationships with customer executives that contribute to large iACV deals and customer success.
-* Collaborate with product marketing, engineering, and management on a market strategy that results in an improved win rate.
-* Exert influence on the overall objectives, key results, and other long-range measurable goals of the team.
-* Translate 3rd party integrations into reference architectures and effectively communicates the design and it's value to customer and GitLab team members.
-* Sustain assistance requests by GitLab team members as a pre-sales and technical solutions authority for the top 10% of our iACV opportunities.
+* Extends the Staff Solutions Architect responsibilities.
+* Create and maintain relationships with customer executives that contribute to large Net ARR deals and customer success.
+* Facilitate customer and partner strategy formulation that takes into account the customer or partner's market, business processes, technology portfolio, culture and appetite for change.
+* Identify and surface business generation motions within areas of personal subject matter expertise that intersect with GitLab targeted technology sectors.
+* Build and maintain select subject matter expertise related to GitLab targeted technology sectors through industry monitoring and participation in external working groups, committees and development projects.
+* Keep up to date on GitLab-relevant emerging methodologies and technologies and leverage that knowledge to drive solution strategy and influence product strategy.
+* Collaborate with product marketing, engineering, and management on market strategy that results in an improved win rate.
+* Use technical and market knowledge to create solutions and influence product to expand GitLabs revenue base - especially Total Addressable Market (TAM) and Launch Addressable Market (LAM).
+* Exert influence on the overall objectives, key results, and other long-range measurable goals and strategies of the team.
+* Create reference implementations for 3rd party integrations and effectively communicate the design and it's value to customers, partners and GitLab team members.
+* Service assistance requests by GitLab team members and/or Partners as a pre-sales and technical solutions authority for the top ARR clients and top Net ARR opportunities.
 
 #### Principal Solutions Architect Requirements
 
@@ -241,19 +246,22 @@ The Senior Director, Solutions Architects is a [grade 11](/handbook/total-reward
 ---
 ## Specialties
 
+Specialty responsibilities and requirements may extend or overlay [Level roles](#levels) for a team member who has a specialty role.
 ### Channel Solution Architect
 
 #### Channel Solution Architect Responsibilities
 
+* Since this role deals primarily with partner relationships, any responsibilities in an individual's [Role Level](#levels) that reference customers can also be fulfilled by Partners. If responsibilities appear duplicated, the version in this description has priority due to being more specific to your role.
 * Engage in a technical consultancy role for channel and system integrator partners, providing technical assistance and guidance specific to the selling and service delivery readiness of Gitlab Channel partners.
+* Create and maintain relationships with external partner leaders that contribute to large Net ARR deals and customer success.
 * In partnership with the channel sales team, formulate and execute a sales, solution and practice strategy to exceed revenue targets through the delivery of solutions & services that drive the adoption of GitLab.
 * Work with Customer Success teams (SA, TAM, Sales) to ensure the partner is acting in good faith and effectively when delivering GitLab services to a customer.
 * Educate channel partners of all sizes on the value proposition of GitLab, and participate in all levels of discussions throughout the organization to ensure our solution is set up for successful deployment.
 * Work on site with strategic channel partners, delivering solutions architecture consulting, technical guidance, knowledge transfer, and earn “trusted advisor status.”
 * Enable the partners to provide technical evaluations via POC/POV ownership, RFP/audit support, and workshop design.
 * Capture and share best-practice knowledge amongst the GitLab community and other channel solution architects.
-* Author or otherwise contribute to GitLab customer-facing publications such as whitepapers, blogs, diagrams, or the GitLab Handbook.
-* Build deep relationships with senior technical people within channel environments to enable them to be GitLab advocates.
+* Author or otherwise contribute to GitLab customer-facing publications such as whitepapers, blogs, diagrams, reference architectures, or the GitLab Handbook.
+* Build deep relationships with senior technical people within partnerships to enable them to be GitLab advocates.
 * Serve as the partner advocate to other GitLab teams, including Product Development, Sales, and Marketing.
 * Present GitLab platform strategy, concepts, and roadmap to technical leaders within channel partner organizations.
 
@@ -267,14 +275,16 @@ The Senior Director, Solutions Architects is a [grade 11](/handbook/total-reward
 
 #### Alliances Solution Architect Responsibilities
 
+* Since this role deals primarily with partner relationships, any responsibilities in an individual's [Role Level](#levels) that reference customers can also be fulfilled by Partners. If responsibilities appear duplicated, the version in this description has priority due to being more specific to your role.
 * Engage in a technical consultancy role for Technology Alliance partners and joint customer opportunities with these partners.
-* Build and deliver solutions, reference architectures and demos highlighting the Alliance partners' technologies as they work with GitLab.
-* Be a subject matter expert within an area of focus, with exceptional soft / public speaking skills and “hands on the keyboard depth” 
+* Create and maintain relationships with external partner senior leaders that contribute to large Net ARR deals and customer success.
+* Build and deliver solutions, reference implementations and demos highlighting the Alliance partners' technologies as they work with GitLab.
+* Be a subject matter expert within an area of focus, with exceptional soft / public speaking skills and “hands on the keyboard depth”.
 * Proactively identify market demand with solutioning. Engage as a lead SME in customer engagements including pitches, solution envisioning, proposal development and estimate preparation as related to alliance partner technologies.
 * Enable Alliance partner's Go-To-Market team (e.g., SA's, AEs, and Product Marketing) on GitLab's solution and value.
 * As part of internal and external evangelism, communicate, grow and evolve awareness of applicable partner technology, services, success stories, market trends and best practices.
 * Build deep relationships with senior technical people within partnerships to enable them to be GitLab advocates.
-* Author or otherwise contribute to GitLab customer-facing publications such as whitepapers, blogs, diagrams, or the GitLab Handbook.
+* Author or otherwise contribute to GitLab customer-facing publications such as whitepapers, blogs, diagrams, reference architectures, or the GitLab Handbook.
 * Tighten feedback loops from the Field to R&D, Marketing and Customer Success. Proactively break down silos to envision and co-create products with cross-team, cross-company communication and collaboration.
 
 #### Alliances Solution Architect Requirements
@@ -338,13 +348,13 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 
 ### Field CTO
 
-#### Field CTO Responsibilties 
+#### Field CTO Responsibilties
 
 - Extends the responsibilities of Principal Solutions Architect
-- Provide executive-level, thought leadership on strategic opportunities (i.e., new logo and growth) 
+- Provide executive-level, thought leadership on strategic opportunities (i.e., new logo and growth)
 - Curate and manage field feedback, while collaborating with the product team on roadmap and issue prioritization
 - Scale and grow regional-level expertise within the field (SAL/AE,SA,TAM) through contributions to enablement and content
-- Act as a prospect / customer advocate on DevSecOps transformation initiatives 
+- Act as a prospect / customer advocate on DevSecOps transformation initiatives
 
 
 #### Field CTO Requirements
@@ -357,15 +367,15 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 - Strong verbal and written skills with a strong ability to articulate and communicate strategies to all levels in an organization (i.e., executive to staff engineer)
 - Ability to use GitLab, including learning GitLab as part of the role
 
-### Field Security Officer 
+### Field Security Officer
 
 #### Field Security Officer Responsibilities
 
 - Extends the responsibilities of Principal Solutions Architect
-- Provide executive-level, security-related thought leadership on strategic opportunities (i.e., new logo and growth) 
+- Provide executive-level, security-related thought leadership on strategic opportunities (i.e., new logo and growth)
 - Own CISO, CSO, and/or chief security architect relationships in key accounts while providing credible, leading-edge security guidance to help orchestrate their desired outcomes
 - Assist account teams with GitLab product security and compliance expertise in order to drive ARR for GitLab while also providing direction on opportunity and account strategies related to selling and expanding with security (e.g., up-tier)
-- Act as a prospect / customer advocate on security related matters 
+- Act as a prospect / customer advocate on security related matters
 - Curate and manage security related field feedback, while collaborating with the product team on issue prioritization
 - Contribute to security sales strategy and playbooks in while collaborating with marketing and product teams
 - Scale and grow regional-level expertise within the field (SAL/AE,SA,TAM) through contributions to enablement and content
@@ -409,10 +419,9 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 
 ## Performance Indicators
 
-As with all roles in the Sales Department, the Solutions Archtiect job family participates in a subset the [Sales KPIs](/handbook/ceo/kpis/#sales-kpis).
+As with all roles in the Sales Department, the Solutions Archtiect job family participates in a subset the [Sales KPIs]([/handbook/ceo/kpis/#sales-kpis](https://internal-handbook.gitlab.io/KPIs/#sales-kpis)).
 
-* [IACV versus Plan](https://about.gitlab.com/handbook/sales/performance-indicators/#iacv-vs-plan)
-* [Win Rate](https://about.gitlab.com/handbook/sales/performance-indicators/#win-rate)
+* [Net ARR versus Plan](https://internal-handbook.gitlab.io/sales/performance-indicators/#net-arr-vs-plan)
 
 ## Career Ladder
 
