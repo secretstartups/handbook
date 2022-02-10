@@ -176,6 +176,13 @@ These include:
 1. [Content Discussion](/company/offsite/#content-choice){:data-ga-name="content discussion"}{:data-ga-location="body"} (30 minutes - 1 hour)
 1. Spend prioritization discussion (50 minutes)
 
+### Team norms
+
+We agreed to E-Group team norms at our 2022-01 offsite. In our discussions, we'll consider the following:
+
+1. Is this topic worth debating?
+1. What should we do to evaluate the priority of this idea?
+1. The why behind the what. How will we communicate the rationale behind change/priority/direction via multi-modal communication and repetition?
 
 ### Break guidelines 
 
