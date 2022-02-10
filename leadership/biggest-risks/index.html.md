@@ -211,7 +211,7 @@ As we say,
 If we work handbook second, we risk losing these benefits.
 
 To ensure we avoid this risk, we:
-1. Ensure all new hires read and understand the [communication guidelines](/handbook/communication/), as part of their [onboarding](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md)
+1. Ensure all new hires read and understand the [communication guidelines](/handbook/communication/), as part of their [onboarding](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md)
 1. Make the ability to coach team members to work handbook first a requirement for promotion to [Director or above](/company/team/structure/#director-group)
 1. Explicitly ask CEO Shadows to [promote working handbook first](/handbook/ceo/shadow/#promote-communication-best-practices)
 1. Empower all team members to help promote our [communication guidelines](/handbook/communication/)
