@@ -1226,7 +1226,7 @@ It should be a rare occasion (and not a result of poor planning), that a contrac
 
 ## Sweepstakes
 
-Field Marketing follows the legal team's process [HERE](/handbook/legal/marketing-collaboration/#contests-and-sweepstakes) for contests and sweepstakes. 
+Field Marketing follows the legal team's process [HERE](/handbook/legal/marketing-collaboration/#promotional-games) for contests and sweepstakes. 
 
 # Field Marketing Communications
 
