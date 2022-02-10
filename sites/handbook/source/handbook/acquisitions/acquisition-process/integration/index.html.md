@@ -76,3 +76,9 @@ Once the above is completed, the team proceeds to enablement development and exe
 1. **Overview webcast** - A webcast for our field teams will be scheduled 1-2 months from announcement providing a more in-depth overview of the acquisition and its impact for our product, customers and prospects.
 1. **Technical webcast** - Scheduled around the delivery of the MVC of the integration efforts, a technical webcast for our field teams will be scheduled to provide a demo of the new functionality and new product workflows.
 1. **Field Communication Plan** - Field Communications will work with the Product DRI to create a communications plan using the [Field Communication Playbook](/handbook/sales/field-communications/#field-communications-playbook) that disseminates key resources and information to field team members.
+
+### Document Management Process
+
+- Pre-closing documents will be stored on Google Drive and made accessible to those involved with the prospective acquisition process. 
+- Upon closing, a member of the Legal & Corporate Affairs team will be responsible for organizing and obtaining the closing binder related to the acquisition. 
+- Once received, the Legal Operations team will upload the binder as well as the rest of the documents in the original Google Drive folder into a new folder in ContractWorks.
