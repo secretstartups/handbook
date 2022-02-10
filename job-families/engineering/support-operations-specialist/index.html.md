@@ -58,7 +58,7 @@ coworkers, easier. Current and past Support Operations have:
 * Developed
   [tooling to generate weekly account deletion reports](https://about.gitlab.com/handbook/support/support-ops/documentation/adwr.html).
 * Leaned into
-  [dogfooding](https://about.gitlab.com/handbook/engineering/#dogfooding) by
+  [dogfooding](https://about.gitlab.com/handbook/engineering/principles/#dogfooding) by
   having various aspects of Zendesk
   [version controlled via GitLab.com](https://about.gitlab.com/handbook/support/support-ops/documentation/sync_repos.html).
 * ...and even more!
