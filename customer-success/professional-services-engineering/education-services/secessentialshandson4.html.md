@@ -23,18 +23,15 @@ You must define a separate CI/CD pipeline job for each function you want to fuzz
 
 **The results of the coverage-guided fuzz testing are available in the CI/CD pipeline.**
 
-
-
 ### Write the code-under-test
 
 1. Return to the **Security Labs** project you used for the previous labs.
-1. This is the code that the fuzz tester will scan for bugs. Paste this Python function into a new file called `IsThirdDigitZero.py` in the root of your project.
+1. This is the code that the fuzz tester will scan for bugs. Paste this Python function into a new file called `IsThirdIntegerZero.py` in the root of your project.
 
     ```python
-   def isThirdDigitZero(my_ints):
-       """Return True if and only if the third value passed in is 0."""
-       return my_ints[2] == 0  # Because you start counting from 0, 
-                               # the "2" here refers to the 3rd digit passed in.
+   def isThirdIntegerZero(my_ints):
+       """Return True if and only if the third integer passed in is 0."""
+       return my_ints[2] == 0  # start counting from 0, so "2" refers to the 3rd integer passed in
     ```
 
    This code-under-test defines a function that expects to be passed a list of integers. If the third integer in that list is 0, the code returns the value `True`.
@@ -64,21 +61,27 @@ The code-under-test might process that random data successfully, without throwin
 
 But if the random data ever causes an error or crash in the code-under-test, that problem will be sent back to the fuzz target, which will pass it to the fuzz engine, which will report to the CI/CD pipeline that it found a bug in the code-under-test.
 
+1. Define a new stage called `fuzz` by pasting this line at the end of the existing `stages:` section of `.gitlab-ci.yml`. Be sure to indent it correctly.
+   
+    ```yml
+       - fuzz
+    ```
+   
 1. Paste this Python fuzz target code into a new file called `FuzzTarget.py` in the root of your project. The comments explain each line of the fuzz target code.
 
     ```python
-   from IsThirdDigitZero import isThirdDigitZero  # import the code-under-test
-   from pythonfuzz.main import PythonFuzz         # import fuzz test infrastructure
+   from IsThirdIntegerZero import isThirdIntegerZero  # import the code-under-test
+   from pythonfuzz.main import PythonFuzz             # import fuzz test infrastructure
  
    # The fuzz engine calls a function called `fuzz` in the fuzz target and
-   # passes it random data, so we need to define a function with that name, that
-   # accepts 1 parameter.
+   # passes it random data, so we need to define a function with that name,
+   # and that function must accept 1 parameter.
 
-   @PythonFuzz                        # Python decorator required by fuzz test infrastructure
-   def fuzz(random_data):             # accept random data...
-       isThirdDigitZero(random_data)  # ...and pass it on to the code-under-test
+   @PythonFuzz                          # Python decorator required by fuzz test infrastructure
+   def fuzz(random_data):               # Accept random data...
+       isThirdIntegerZero(random_data)  # ...and pass it on to the code-under-test.
     
-   if __name__ == '__main__':         # required by fuzz test infrastructure
+   if __name__ == '__main__':           # required by fuzz test infrastructure
        fuzz()
     ```
 
@@ -86,28 +89,27 @@ But if the random data ever causes an error or crash in the code-under-test, tha
 
 1. Commit the new `FuzzTarget.py` with an appropriate commit message.
 
-
 ### Enable and configure coverage-guided fuzz testing
 
-1. Enable fuzz testing by pasting this template in the existing `includes:` section of `.gitlab-ci.yml`:
+1. Enable fuzz testing by pasting this template into the existing `include:` section of `.gitlab-ci.yml`. Be sure to indent it correctly.
 
     ```yml
-   - template: Coverage-Fuzzing.gitlab-ci.yml
+       - template: Coverage-Fuzzing.gitlab-ci.yml
     ```
 
 1. Configure fuzz testing by defining a new job in `.gitlab-ci.yml`.
 
     ```yml
-   fuzz-test-isThirdDigitZero:
-       stage: test
-       extends: .fuzz_base  # this anchor is defined in the template included above
-       image: python:3.8    # lets the fuzz engine run the Python code-under-test
+   fuzz-test-isThirdIntegerZero:
+       extends: .fuzz_base  # This anchor is defined in the template included above.
+       image: python:3.6    # This image must be able to run the code-under-test.
        script:
-           # install the fuzz engine from a GitLab-hosted PyPi repo
-           - pip install --extra-index-url https://gitlab.com/api/v4/projects/19904939/packages/pypi/simple pythonfuzz
-           # start the fuzz test by running a language-agnostic executable,
-           #     and specifying the type of fuzz engine and the fuzz target name
-           - ./gitlab-cov-fuzz run --engine pythonfuzz -- FuzzTarget.py
+           # Install the fuzz engine from a GitLab-hosted PyPi repo.
+           - pip install --extra-index-url https://gitlab.com/api/v4/projects/19904939/packages/pypi/simple pythonfuzz==1.0.8
+   
+           # Run a language-agnostic binary, specifying the type of fuzz engine, 
+           # the root of the project, and the fuzz target.
+           - ./gitlab-cov-fuzz run --engine pythonfuzz --project-path ./ -- FuzzTarget.py
     ```
 
    Fuzz test job definitions, like fuzz targets, look a little different depending on what language they're testing. See the [GitLab documentation](https://docs.gitlab.com/ee/user/application_security/coverage_fuzzing/#configuration) for instructions on writing fuzz test job definitions for other languages.
