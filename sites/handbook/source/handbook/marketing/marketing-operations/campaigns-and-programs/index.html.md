@@ -408,7 +408,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 
 #### Partner Campaign Setup
 - Partner MDF Funded campaigns go [this page](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
-- Joint GitLab/Partner campaigns, follow the directions for each campaign type above/below. There are additional steps [here-TBD]() you'll need to complete as well.
+- Joint GitLab/Partner campaigns, follow the directions for each campaign type above/below. There are additional steps [here](/handbook/marketing/channel-marketing/partner-campaigns/#joint-marketing-campaign-set-up) you'll need to complete as well.
 - Partner Trials setup, go to [this page](/handbook/marketing/channel-marketing/partner-campaigns/#trial-campaign-set-up)
 
 ### Step 2: Sync to Salesforce
