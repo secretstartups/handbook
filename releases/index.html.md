@@ -25,7 +25,7 @@ title: "Releases"
 * **Monthly self-managed release**: GitLab version (XX.YY.0) [published every month on the 22nd][process-monthly-release]. From this monthly release, [patch][process-patch-release], [non-critical][process-security-release-non-critical], and [critical][process-security-release-critical] security releases are created as needed
 * **GitLab.com releases**: [Auto-deploy releases][process-auto-deploy-release] that are deployed from [auto-deploy branches created from master][auto-deploy], on regular intervals
 
-**The main priority** of both types of releases **[is GitLab availability & security](/handbook/engineering/#prioritizing-technical-decisions)**
+**The main priority** of both types of releases **[is GitLab availability & security](/handbook/engineering/principles/#prioritizing-technical-decisions)**
 as an application running on both GitLab.com and for customers running GitLab
 in their own infrastructure.
 
