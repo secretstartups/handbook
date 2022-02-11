@@ -67,6 +67,23 @@ Examples:
 
 The use of an acronym to discuss an organization is **not permitted** in either `#support_us-federal-chat` or `#feed_zd-federal` channels to prevent disclosure of sensitive information.
 
+## Ticket assignment via round-robin
+
+Tickets are assigned as they come in based on [a round-robin tool built by Support Ops](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/ticket-round-robin). This tool creates a list of available support engineers by taking the total US Federal dedicated support engineer list and then removing from that list anyone who has their [gitlab.com status](https://docs.gitlab.com/ee/user/profile/#set-your-current-status) set to one of the below options:
+
+**For out of office:** `OOO`, `PTO`, `Parental Leave`, `Friends and Family`
+
+**For in office, but occupied:** `Training`, `Overburdened`, `Project Deliverable`, `IT Problems`
+
+**Emojis also work** palm_tree, beach, beach_umbrella, beach_with_umbrella, ferris_wheel, thermometer, face_with_thermometer, red_circle, bulb, sun_with_face
+
+### Setting gitlab.com status to avoid ticket assignment when needed
+
+When you are out of the "office" or otherwise unable to handle more tickets, it is important to set your gitlab.com status to one of the above options. Please use the "Clear status after" option to ensure your status does not accidently remain in an unavailable state.
+
+- You can set your status manually from the user interface: https://docs.gitlab.com/ee/user/profile/#set-your-current-status.
+- Or you can set it through a script using the API: https://docs.gitlab.com/ee/api/users.html#set-user-status.
+
 ## Getting help with a ticket
 
 Getting help with a US Federal ticket can be tricky since some information must be kept confidential. However, there are many times when a non-US Federal engineer may be the subject matter expert needed to help efficiently resolve a US Federal Support case. It is encouraged to ask questions in `#support_self-managed` and other non-private Slack channels provided the [Communication Guidelines](#communication-guidelines) are followed. You may also consider cross-posting the request for help back to the private `#support_us-federal-chat` channel to maximize the pool of engineers who may be able to assist. It should be kept in mind that although the `#support_us-federal-chat` Slack channel is a private channel the communication guidelines still apply as workspace admins and other users invited to the channel may not have been vetted for US Citizenship.
