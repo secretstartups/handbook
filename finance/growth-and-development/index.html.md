@@ -46,6 +46,12 @@ With the success of several mentorship programs at GitLab, we will create a [sim
 
 We will create opportunities to shadow finance leaders for team members to gain perspective and business acumen.
 
+**CFO Shadow Program**
+
+In FY23Q1, we are implementing a CFO Shadow Program which will initially by available to Finance Division team members. The CFO Shadow Program will be modeled off of the [CEO Shadow Program] (https://about.gitlab.com/handbook/ceo/shadow/#eligibility) which has proven to be a differentiatead and impactful development opportunity for GitLab team members. The goal of the CFO Shadow Program is to extend that opportunity to team members with an interest and background in Business and/or Finance who are interested in learning more about what it means to be a CFO at a publicly traded company. The exposure from this experience is intended to support both the long and short term career development of the shadow.
+
+The CFO Shadow Program is a rotation that runs over the course of 2 weeks, with the shadow attending meetings with the CFO for 3 days per week (Tuesday - Thursday) during each week (aligned with EST). More information about the program logistics can be found here (LINK)
+
 **Training Aligned to GitLab L&D**
 
 Together with GitLab L&D, we created the [Finance Learning Hub](https://gitlab.edcast.com/channel/5370), a curated learning channel in GitLab Learn.
