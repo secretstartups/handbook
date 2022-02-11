@@ -131,9 +131,11 @@ To extend a trial SaaS extension.
 1. The support engineer requires [console access](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html) to GitLab Rails to update the namespace.
 1. Within the rails console you should execute the command: ``` view_namespace '<group name space>' ```
 1. This will return the partners namespace information and order information, you will need to note the order 'id' (i.e. 123456).
+
 ![Namespace and order id](/images/support/NFR_Console.png)
 1. Next execute the command to interact with the order id: ```o = Order.find 123456```
-1. Next review, modify, and execute the following command to update the order
+1. Next review, modify, and execute the following command to update the order:
+
 ```o.update!(product_rate_plan_id: Plan::ULTIMATE_SAAS_1_YEAR_PLAN, quantity: 25, end_date: Date.parse('2022-11-09'), trial: false)```
    - View the important info below for what values to substitute as needed
 1. Finally execute the command to synchronise the update: ```Gitlab::Namespaces::UpdatePlanInfoService.new(o, force_sync: true).execute```
