@@ -58,7 +58,7 @@ Steps:
 
  1. Close the original merge request and say that you will finish it.
  1. Check out the branch locally.
- 1. Make sure a changelog entry crediting the author exists.
+ 1. Make sure a changelog git trailer crediting the author exists.
  1. Add your own commits to improve and finish the original work.
  1. Push to a new branch and open a new merge request.
 
