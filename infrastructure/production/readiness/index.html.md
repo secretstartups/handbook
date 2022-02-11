@@ -6,7 +6,7 @@ title: "Production Readiness Process"
 The Production Readiness process defines requirements for a service, or a group
 of services, to be running in a production environment and receiving customer
 facing traffic. This document will serve as a snapshot of what is being
-deployed and is not meant to be constantly updated.
+deployed and is not intended to be constantly updated.
 
 This facilitates collaboration between service owners and SREs to share
 and help bridge any gaps about a new service.
@@ -16,7 +16,7 @@ are raised at specific points in the documentation. Information in issues can
 easily get lost given that the document is point of discussion. See an [example
 of final review merge request].
 
-Our process losely follows the [production readiness
+Our process loosely follows the [production readiness
 review](https://sre.google/sre-book/evolving-sre-engagement-model/) from the
 SRE book. The goal of the readiness review is to make sure we have enough
 documentation, observability and reliability. Each significant production
@@ -33,7 +33,7 @@ You should start the [proposal issue](#starting-a-proposal) when you start
 designing the service and take them into consideration, so when it comes to
 writing the actual production readiness review you already addressed most of them.
 
-If it's not clear on what is needed to make a service scale for GitLab.com,
+If it's not clear on what is needed to make a service scale for GitLab SaaS,
 engage with SRE on the design phase to receive guidance on the direction.
 
 ## Starting a proposal
