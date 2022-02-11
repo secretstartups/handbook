@@ -42,7 +42,7 @@ At GitLab, there can be many instances where a crucial conversation is needed. W
 5. **Make It Safe:** Nothing kills dialogue faster than fear. When you make it safe, you can talk about almost anything and people will listen. If you spot safety risks as they happen, you can step out of the conversation, build safety, and then find a way to dialogue about almost anything.
 6. **Master Your Stories:** Learn to exert influence over your feelings by slowing down the storytelling process, take a step back, and retrace your path to action one element at a time.
 
-These are just a few strategies outlined in the Crucial Conversation book. We [highly recommend reading it](https://about.gitlab.com/handbook/leadership/#books) for leading teams at GitLab. 
+These are just a few strategies outlined in the Crucial Conversation book. We [highly recommend reading it](https://about.gitlab.com/handbook/leadership/#books) for leading teams at GitLab. Team members can also sign up to take our in-house [Crucial Conversations training](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations/).
 
 ## How Crucial Conversations align with GitLab Values
 
@@ -130,7 +130,7 @@ Having crucial conversations via a Zoom call might be more difficult than having
 
 ## What GitLab Managers Say about Crucial Conversations
 
-During the Manager Challenge Program, we asked GitLab Managers what they had to say about holding crucial conversations"
+During the Manager Challenge Program, we asked GitLab Managers what they had to say about holding crucial conversations
 
 1. "As noted in Crucial Conversations finding that shared goal and relying on the trust in the conversation ensures the dialogue will be non-threatening."
 2. "The hardest conversations are with those who are not performing and helping them understand what they need to work on or improve upon.  The joy is when they do respond and approve, which happens more than not.  The other conversations is mentoring and seeing the growth from it. The joy is to see them prosperous and I've had many work for me again.  Those to me are both sides of the equation."
@@ -146,6 +146,7 @@ During the Manager Challenge Program, we asked GitLab Managers what they had to 
 
 Below are additional resources on influencing and leadership for you to review.
 
+* [Team Members: Take the Crucial Conversations Training at GitLab](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations/)
 * [What Great Leaders Know about Influence](https://www.forbes.com/sites/rebeccanewton/2016/07/27/six-steps-to-increase-your-influence/#5609705a1edd)
 * [Influencing Skills: A Key to Leadership Success!](https://www.linkedin.com/pulse/influencing-skills-key-leadership-success-marcia-zidle-ms-bcc/)
 * [Influencing Others: A Key Leadership Skill](https://www.ginaabudi.com/influencing-others-a-key-leadership-skill/)
