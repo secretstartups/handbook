@@ -16,6 +16,19 @@ As the [Communications Manager on Call (CMOC)](/handbook/engineering/infrastruct
 
 The basics of how to create, update, and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. This document covers how GitLab specifically uses Status.io to perform those tasks.
 
+## First 10 minutes quick check
+
+For reference, here are the things that you typically need to do in the first 10 minutes of being paged.
+
+1. Acknowledge PagerDuty, join incident Slack/zoom, resolve PagerDuty. See [Stage 1: Incident Creation](#stage-1-incident-creation).
+1. [Determine what action is required](#when-cmoc-is-asked-to-take-action) and do it:
+    - [Create status.io incident](#2-create-the-incident)
+    - [Contact request](#contacting-a-user)
+1. Generally any S1 and when status.io incident is created, [notify stakeholders](#3-notify-stakeholders).
+1. Check for related tickets in ZenDesk. If there are multiple tickets, [create a tag](#tagging-tickets) and post in `#support_gitlab-com` to notify the team.
+
+Everything else you need to do including [how often to update the status page](#frequency-of-updates) is detailed in the workflow.
+
 ## Things To Know
 
 Before getting started, take note of the following sections.
