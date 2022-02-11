@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Talent brand
-description: "Talent Brand is sharing what it's like to work at GitLab, because we wouldn't be successful without our people and our culture."
+description: "Our ambitions as an employer, the steps we take to achieve and communicate those ambitions, and the measures in place to ensure we live up to them."
 twitter_image: /images/tweets/gitlab-first-look-twitter-card.png
 ---
 
