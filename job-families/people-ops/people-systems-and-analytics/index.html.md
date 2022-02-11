@@ -178,7 +178,7 @@ As always, the interviews and screening call will be conducted via a [video call
 
 ### Senior Analyst, People Analytics
 
-The Senior Analyst, People Analytics reports into the Director, People Tools and Technology.
+The Senior Analyst, People Analytics reports into the Senior Manager, People Analytics.
 
 #### Job Grade
 
@@ -195,7 +195,7 @@ The Senior Analyst, People Analytics is a [grade 7](https://about.gitlab.com/han
 
 #### Requirements
 
-* 4+ years of experience in People or Recruiting Analytics function
+* 4+ years of experience in an analytics role (People or Recruiting Analytics function preferred).
 * Strong business acumen, analytical skills including written communication and presentation development.
 * Advanced SQL skills and experience modeling within large-scale relational databases
 * Experience developing reporting and dashboards with BI tools such as Tableau, Power BI, Looker, or similar tools
@@ -205,7 +205,7 @@ The Senior Analyst, People Analytics is a [grade 7](https://about.gitlab.com/han
 
 ### Manager, People Analytics
 
-The Manager, People Analytics reports into the Director, People Tools and Technology.
+The Manager, People Analytics reports into the Senior Manager, People Analytics.
 
 #### Job Grade
 
