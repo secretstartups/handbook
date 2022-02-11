@@ -365,6 +365,24 @@ Check on duplicate ids due to 2 different extractors, to ensure the data is gett
 | More information of the setup [here](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#sheetload).  |
 | Possible steps, resolution and actions: <br> - In general you should just need to open the Google sheet which is failing and confirm the data has been re-populated. <br> - If you do not have access to the sheet contact @gitlab-data/engineers and confirm if anyone else does. |
 
+
+### Model version_usage_data_unpacked stale
+
+When got an error for model `version_usage_data_unpacked` and error looks like:
+```
+[2022-01-26 11:56:32,233] INFO - b'\x1b[33mDatabase Error in model version_usage_data_unpacked (models/legacy/version/xf/version_usage_data_unpacked.sql)\x1b[0m\n'
+[2022-01-26 11:56:32,233] INFO - b' 000904 (42000): SQL compilation error: error line 241 at position 12\n'
+[2022-01-26 11:56:32,233] INFO - b" invalid identifier '{metrics_name}'\n"
+[2022-01-26 11:56:32,233] INFO - b' compiled SQL at target/compiled/gitlab_snowflake/models/legacy/version/xf/version_usage_data_unpacked.sql\n'
+[2022-01-26 11:56:32,234] INFO - b'\n'
+```
+
+The root cause of this issue is when new metrics are introduced in an upstream model - and this model (along with model `version_usage_data_unpacked_intermediate`) try to pivot values to columns. Without full refresh, this will not happen under the pipeline. 
+
+Full refresh required as per instructions from [dbt models full refresh](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#dbt-models-full-refresh).
+
+An example for this failure is the issue: **[#11524](https://gitlab.com/gitlab-data/analytics/-/issues/11524)**
+
 ## Triage FAQ
 **Is Data Triage 24/7 support or shift where we need to support it for 24 hours?** <br>
 We need to work in our normal working hour perform the list of task mentioned for the triage day in the [Triage Template](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=Data%20Triage&issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=)
