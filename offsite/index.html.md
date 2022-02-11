@@ -15,7 +15,7 @@ The E-group offsite happens every quarter for four days after the [Board of Dire
 ## Goal
 
 The goal is to have 25 or 50 minute discussions around topics that benefit from in-person dialogue, require more context and where the E-Group is likely to disagree.
-The agenda should includehsmith-watson-update-handbook-ceo-1 discussions that are:
+The agenda should include discussions that are:
 
 1. Top of mind
 1. Actionable
