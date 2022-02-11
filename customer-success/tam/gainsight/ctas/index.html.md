@@ -85,3 +85,30 @@ Available on Objective CTAs only (Success Plans):
 * Closed Lost: Didn't See Value - Customer did not see the value to justify the investment, assuming the ability to drive adoption was within their scope of control.
 * Closed Lost: Deferred To Later Date - The customer has shown material interest (i.e., committed, high-level of interest) in expanding but prefers to pursue at a different date. TAM in these instances creates a reminder CTA to bring the conversation back up.
 * Closed Lost: Lack of Budget - Customer would need to up-tier to use the new stage in full and does not have the budget available.
+
+### Snoozing CTAs
+
+In Gainsight, you are able to snooze a CTA in order to keep it open but remove it from your main Cockpit until a later date (it will still show up in the C360 Cockpit).
+
+Reasons to snooze a CTA instead of closing it:
+
+1. The CTA isn't applicable at this point in time, but will be applicable in the foreseeable future. For example, if an account is newly TAM-qualifying and you receive a CTA to hold an EBR, use the snooze CTA functionality to push out the date within the next 3-6 months.
+1. Ensure a similar/related CTA isn't fired. For example, if a CTA fires when you haven't updated TAM Sentiment, but you have a cadence call scheduled for next week, you can snooze the CTA for a week from now and avoid getting another CTA before you can meet with the customer.
+
+To snooze a CTA, follow these instructions:
+
+1. Open the CTA
+1. Click the three vertical dotes
+1. Click `Snooze`
+1. Select a date for the CTA snooze to end, and select a reason for snoozing
+1. Click `Snooze`
+
+To update either `Snooze Date` or `Snooze Reason`, or to manually un-snooze the CTA, go to the CTA and click the three vertical dots again and change the details as required.
+
+When a CTA is snoozed, it will not appear in the main Cockpit until the snooze ends or they are un-snoozed, but you can view snoozed CTAs by going to the C360 Cockpit which will show all CTAs. You can also update your main Cockpit filter to show snoozed CTAs by selecting the filter icon in the upper right corner and marking the `Is Snoozed` filter as `true`.
+
+To request additional Snooze options, please open an issue in the [Gainsight issue tracker](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
+
+For more information and illustrations, review [Gainsight's documentation](https://support.gainsight.com/Gainsight_NXT/04Cockpit_and_Playbooks/Cockpit_Version_-_Old/User_Guides/Using_Call_to_Action_(CTA)_and_Task_Detail_Views#How_to_Use_the_Snooze_Option).
+
+
