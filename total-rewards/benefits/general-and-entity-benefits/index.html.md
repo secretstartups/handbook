@@ -68,7 +68,7 @@ GitLab has a "no ask, must tell" [time off policy](/handbook/paid-time-off) per 
 
 ## Growth and Development Benefit
 
-GitLab supports team members who wish to continue their education and growth within their professional career. GitLab team-members are eligible for a reimbursement of up to $10,000 USD per calendar year (January 1st - December 31st) depending on tenure, performance, company need for the learned skill, and available budget. A course/program is considered to be included in the calendar year in which the course/program is paid/reimbursed (which should also be the same calendar year in which it ends). 
+GitLab supports team members who wish to continue their education and growth within their professional career. GitLab team-members are eligible for a reimbursement of up to $10,000 USD per calendar year (January 1st - December 31st) depending on tenure, performance, company need for the learned skill, and available budget. A course/program is considered to be included in the calendar year in which the course/program is paid/reimbursed (which should also be the same calendar year in which it ends). If a course/program ends in December, team members have a grace period until the end of January to claim for Growth & Development reimbursements from the previous calendar year. 
 
 Budget estimations for the Growth & Development benefit are based on utilization rates from past years, adjusted for the size of the company. The budget is managed on a company-wide scale, not division-specific. For example, approving reimbursement for a team member in Engineering does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package.
 
