@@ -71,32 +71,27 @@ The following factors are considered when allocating in the issue:
 
 - We always try and split evenly and fairly. 
 
-### Audits and Quarterly Rotations
+### Audits for Compliance
 
-#### Issue Audits for Compliance
+#### Issue Audits
 
 There are certain tasks that need to be completed by all the different departments and team members and we as the People Experience Team need to ensure to remain compliant in line with these tasks. Herewith a breakdown of the important compliance and team tasks:  
 
-##### Onboarding Audit
-This will be the responsibility of the People Experience Associate that is assigned to the specific team members onboarding. 
-
+##### Onboarding
+This will be the responsibility of the People Experience Associate that is assigned to the specific team members onboarding and should be completed prior to closing the issue. 
     - Ensure that the new team member has shared a screenshot of their FileVault disk encryption and computer serial number in the onboarding issue. 
     - Ensure that the new team member has acknowledged the 'Handbook' compliance task in the onboarding issue. 
-    - Ensure that the manager tasks are completed prior to and after the new team member has started. 
-    - Ensure that an onboarding buddy has been assigned to assist the new team member. 
-    - Ping the relevant team members to call for a task to be completed in the onboarding issue.
+    - Ensure that all the red dot compliance items have been completed.
 
-##### Offboarding Audit
-This will be the responsibility of the People Experience Associate that is assigned to the specific team members offboarding. 
-
+##### Offboarding
+This will be the responsibility of the People Experience Associate that is assigned to the specific team members offboarding and should be completed prior to closing the issue. 
     - Ensure that all the different departments complete their tasks within the 5 day due date. 
-    - Immediate action is required from the People Experience Team and the IT Ops Team once the issue has been created. 
+    - Ensure that the laptop has been wiped by the IT Ops team 
     - Ping the relevant team members to call for a task to be completed in the offboarding issue.
     - Confirm that a departure announcement has been made in #team-member-updates on Slack.
 
-##### Career Mobility Audit
-This will be the responsibility of the People Experience Associate that is assigned to the specific team members career mobility issue. 
-
+##### Career Mobility
+This will be the responsibility of the People Experience Associate that is assigned to the specific team members career mobility issue and should be completed prior to closing the issue. 
     - Check to see whether the team member that has migrated needs any guidance.
     - Ensure that the previous manager and current manager completes their respective tasks. 
     - The issue should be closed within 2 weeks of creation, ping the relevant team members to call for a task to be completed in the issue.
