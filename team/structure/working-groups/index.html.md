@@ -206,10 +206,11 @@ Please note that a limited set of team members currently have access to the link
 
 ### Cross-Functional Initiative DRIs
 
-Each of our top cross-functional initiatives has an executive sponsor and a [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/). DRIs are the folks ultimately held accountable for the success (or failure) of the project. They are the linchpins as these initiatives require deep cross-functional alignment and coordination. DRIs are also responsible for performance tracking and reporting. This includes:
-1. Providing updates in advance of relevant [Key Reviews](https://about.gitlab.com/handbook/key-review). Updates should map to the Executive Sponsor who is aligned with the initiative. For example, category leadership maps to Marketing as the Exec Sponsor is the CMO. The DRI should plan to update the project tracking sheet and designated overview slides in advance of the meeting.
-1. Providing updates in Top Initiative Check In Meetings. No slides are needed, but the project tracking sheet should be updated in advance. DRIs should come prepared to speak to status of the initiatives and any notable risks and/or dependencies. 
+Each of our top cross-functional initiatives has an Executive Sponsor and a [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/). DRIs are the folks ultimately held accountable for the success (or failure) of the project. They are the linchpins as these initiatives require deep cross-functional alignment and coordination. DRIs are also responsible for performance tracking and reporting. This includes providing updates in advance of relevant [Key Reviews](https://about.gitlab.com/handbook/key-review). Updates should map to the Executive Sponsor who is aligned with the initiative. For example, category leadership maps to Sales and Marketing as the Exec Sponsor is the CMO. The DRI are responsible for the following deliverables in advance of Key Reviews:
+   1. The iniaitive overview epic
+   1. Milestone issue status 
+   1. Two initiative slides using the [Key Review meeting template](https://docs.google.com/presentation/d/1cdo138YJcFl_x9-vaybRJgcO_eSiLnOGw9b-JZidX3A/edit?usp=sharing) 
 
 ### Information Access
 
-We are tracking in epics and issues in a separate namespace to comply with [SAFE guidelines](/handbook/legal/safe-framework/). If team members want access to a specific initiative, they should reach out to the appropriate DRI. 
+We are tracking in epics and issues in a separate namespace to comply with [SAFE guidelines](/handbook/legal/safe-framework/). If team members want access to a specific initiative, they should reach out to the appropriate DRI. Links to each initiative and other details are captured in the [chart above](/company/team/structure/working-groups/#12-cross-functional-initiatives). 
