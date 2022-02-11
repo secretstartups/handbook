@@ -60,4 +60,4 @@ The higher the Opportunity Consult Coverage, the greater confidence sales leader
 
 ## Additional Resources
 
-Click on the "Sales Manager Materials" drop down in the [Command of the Message Additional Resources](/handbook/sales/command-of-the-message/#additional-resources) section.
+Familiarize yourself with the Command of the Message and MEDDPPICC [Sales Manager Materials](https://internal-handbook.gitlab.io/sales/command-of-the-message/sales-manager-materials/) (internal only).

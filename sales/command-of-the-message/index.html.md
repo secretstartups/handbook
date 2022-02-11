@@ -14,7 +14,7 @@ description: "GitLab has adopted Force Management's Command of the Message custo
 
 ## Overview
 
-GitLab has adopted and operationalized Force Management's Command of the Message value-based sales messaging methodology. Due to IP constraints, we have migrated content from this page to a private [Command of the Message Resource Guide](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit?usp=sharing) (**GitLab internal only**). 
+GitLab has adopted and operationalized Force Management's Command of the Message value-based sales messaging methodology. Due to IP constraints, we have migrated content from this page to GitLab's internal Handbook. GitLab team members may access additional content and resources on the [Command of the Message Internal GitLab Handbook page](https://internal-handbook.gitlab.io/sales/command-of-the-message/).
 
 ## Customer Value Drivers
 
@@ -23,17 +23,6 @@ Value drivers describe what organizations are likely proactively looking for or 
 1.  **Deliver Better Products Faster** - _accelerate the software delivery process to meet business objectives_
 1.  **Reduce Security and Compliance Risk** - _simplify processes to comply with internal processes, controls and industry regulations without compromising speed_
 
-## Resources: Core Content
-
-Please see [Resources: Core Content](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.ubdqhzd73q97) (**GitLab internal only**) listed in the Command of the Message Resource Guide.
-
 ## GitLab Differentiators
 
-Please see [GitLab Differentiators](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.6zwr35r6eyfw) (**GitLab internal only**) described in the Command of the Message Resource Guide.
-
-## Additional Resources
-
-1. [The Mantra](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.xnjmdw9bzvgf) (**GitLab internal only**)
-1. [Job Aids](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.toeaw0vfw4e9) (**GitLab internal only**)
-1. [Sharing Feedback](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.2ztomklbgx8p) (**GitLab internal only**)
-1. [GitLab Value Framework Iteration](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.coq5jpyfc2aa) (**GitLab internal only**)
+For now, this content is available on the [Command of the Message Internal GitLab Handbook page](https://internal-handbook.gitlab.io/sales/command-of-the-message/) but will be moved back to the external Handbook soon.

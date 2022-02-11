@@ -17,7 +17,7 @@ Happy Q2! In this month's [Field Flash](/handbook/sales/field-communications/fie
 
 ### New Resources to Take on GitHub
 On April 14, 2020, GitHub [announced](https://github.blog/2020-04-14-github-is-now-free-for-teams/?_lrsc=30bee600-df35-4e13-b625-d50725bd0880) pricing changes, including private repositories with unlimited collaborators. **Looking for more information and in-depth competitive resources?** Check out:
-1. [Updated GitHub vs. GitLab Comparison Page](https://about.gitlab.com/devops-tools/github-vs-gitlab.html) - Including a comparison infographic and a complete list of GitHub’s gaps and associated impacts.
+1. [Updated GitHub vs. GitLab Comparison Page](https://about.gitlab.com/devops-tools/github-vs-gitlab.html) - Includes a comparison infographic and a complete list of GitHub’s gaps and associated impacts.
 1. [GitHub License Competitive Update](https://docs.google.com/presentation/d/1xVwIBrsrEIKjfdev9E4T7YaSQT_LVtH_kuex7wqAA_U/edit#slide=id.g29a70c6c35_0_68) - A deep-dive into GitHub license changes as a result of their announcement.
 1. [New GitHub-GitLab Comparison Summary](https://docs.google.com/presentation/d/1WAim4zkwaurifcaJn3bZp31CIzzf8AhnGTcbIdXpug8/edit#slide=id.g6fc8bb1d32_0_190) - GitLab capabilities missing in GitHub.
 1. [GitHub CI/CD Analysis](https://docs.google.com/presentation/d/1fDzXpgmvKyLpT0QTsGFnisFUeceNPsaL66vRVJ-sdpg/edit#slide=id.g730aeab9dc_0_262) - Comparison of how GitLab and GitHub deliver certain CI/CD capabilities.
@@ -108,7 +108,7 @@ Note that all in-person regional events are still tentative due to risks surroun
 
 ### Enablement Corner 🧠
 The GitLab Value Framework v1.1 is now available! This includes updates based on your feedback of [Command of the Message](/handbook/sales/command-of-the-message/). Have feedback you'd like to share for future iterations? Follow these steps.
-- [Check out a summary of what's changed -->](/handbook/sales/command-of-the-message/#additional-resources)
+- [Check out a summary of what's changed -->](https://internal-handbook.gitlab.io/sales/command-of-the-message/value-framework-iteration/#version-11-may-2020) (internal only)
 - [Download the latest version -->](https://docs.google.com/document/d/1LKYY7kJPKUhzfYnBWNdrigpYpEtxFKxbvyAEUF1nwqY/edit?usp=sharing)
 
 Learn the top 10 reasons organizations should not start with GitLab Starter in this 10-minute video from Haydn Mackay and Saumya Upadhyaya. [Watch the video -->](https://www.youtube.com/watch?v=Np8MyDorw5U&feature=youtu.be)

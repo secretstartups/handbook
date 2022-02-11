@@ -120,7 +120,7 @@ Link your **technical buyers** to the metrics and their role in driving the posi
 | **Reduce Security and Compliance Risk** | - Decrease % of critical security vulnerabilities that escaped development<br> - increase the % of code scanned<br> - improve audit pass rate<br> - Reduce time spent on audits and/or compliance adherence efforts<br> - Reduce mean time to resolve security vulnerabilities |
 
 ## Know Your Proof Points
-* Reference and leverage the proof points listed in the GitLab Value Framework and in slides 22 and 23 of the Customer Deck (see the [Command of the Message Core Content](/handbook/sales/command-of-the-message/#resources-core-content))
+* Reference and leverage the proof points listed in the GitLab Value Framework and in slides 22 and 23 of the Customer Deck (see the [Command of the Message Core Content](https://internal-handbook.gitlab.io/sales/command-of-the-message/#resources-core-content)) (internal only)
 * Familiarize yourself with GitLab's [Proof Points](/handbook/sales/command-of-the-message/proof-points/) to the point where you can talk about various success stories in a conversational manner
 * Check out the short videos in the [Customer Success Stories playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRRGEIdtGsiCtgLy8dJhlk) on GitLab Unfiltered (GitLab internal-only)
 * [Listen to the Maximize the Effectiveness of Proof Points](https://podcasts.apple.com/us/podcast/26-maximize-the-effectiveness-of-proof-points-w-john-kaplan/id991362894?i=1000488439478) podcast (12.5 minutes)
