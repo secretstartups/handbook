@@ -120,3 +120,31 @@ If you get an error, use admin following the instructions in the next section.
    - Don't use `Ultimate Trial` or `Premium Trial` in these cases -- these plans are intended for use by automated systems only, and may [cause an error](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3698) on the namespace when set incorrectly.
 1. Add [an admin note](../../../workflows/admin_note.html).
 1. Click `Save`.
+
+
+### How to extend an NFR (Not for resale) SaaS trial using the rails console.
+
+To extend a trial SaaS extension.
+
+1. The NFR partner needs to either signup for a trial at: https://about.gitlab.com/free-trial/ or start a trial from within their current GitLab namespace.
+1. Once they have a valid namespace for their trial they need to provide this to support.
+1. The support engineer requires [console access](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html) to GitLab Rails to update the namespace.
+1. Within the rails console you should execute the command: ``` view_namespace '<group name space>' ```
+1. This will return the partners namespace information and order information, you will need to note the order 'id' (i.e. 123456).
+![Namespace and order id](/images/support/NFR_Console.png)
+1. Next execute the command to interact with the order id: ```o = Order.find 123456```
+1. Next review, modify, and execute the following command to update the order
+```o.update!(product_rate_plan_id: Plan::ULTIMATE_SAAS_1_YEAR_PLAN, quantity: 25, end_date: Date.parse('2022-11-09'), trial: false)```
+   - View the important info below for what values to substitute as needed
+1. Finally execute the command to synchronise the update: ```Gitlab::Namespaces::UpdatePlanInfoService.new(o, force_sync: true).execute```
+1. Edit the admin notes for the group to document the partner has an NFR subscription and link the issue
+1. Set the shared CI quota to 400
+
+Some important information to consider:
+
+- Product_rate_plan_id == the requested NFR plan, it should be `Plan::ULTIMATE_SAAS_1_YEAR_PLAN` or `Plan::PREMIUM_SAAS_1_YEAR_PLAN` (no quotes)
+- Quantity ==  the ticket submitter will specify this in the issue, it is typically 10 or 25 users
+- Trial == must be false otherwise they will be unable to use GitLab shared runners.
+- Start date == is the specified in the issue or the date today.
+- End date == is one year from specified date or from today's date.
+
