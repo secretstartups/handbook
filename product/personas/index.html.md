@@ -59,7 +59,7 @@ We describe the following personas in terms of the jobs they do, their motivatio
   1. [Delaney, Development Team Lead](/handbook/product/personas/#parker-product-manager)
   1. [Presley, Product Designer](/handbook/product/personas/#presley-product-designer)
   1. [Sasha, Software Developer](/handbook/product/personas/#sasha-software-developer)
-  1. [Devon, DevOps Engineer](/handbook/product/personas/#devon-devops-engineer)
+  1. [Priyanka, Platform Engineer](/handbook/product/personas/#priyanka-platform-engineer)
   1. [Sidney, Systems Administrator](/handbook/product/personas/#sidney-systems-administrator)
   1. [Sam, Security Analyst](/handbook/product/personas/#sam-security-analyst)
   1. [Rachel, Release Manager](/handbook/product/personas/#rachel-release-manager)
@@ -181,13 +181,15 @@ I spend the majority of my time focused on completing planned development tasks,
 - I’m frustrated when I come across brittle code and something that should be an easy fix requires a lot of rework.
 - I’m concerned that by taking longer than expected on a task I may be judged or seen as blocking others’ work.
 
-#### Devon (DevOps Engineer)
+#### Priyanka (Platform Engineer)
 
-- **Alternative Job Titles:** Application Developer, Operations Engineer, Systems Engineer, IT Consultant
+- **Alternative Job Titles:** DevOps Engineer, Operations Engineer, Systems Engineer, IT Consultant
 
 ##### Job Summary
 
-I provide support for our infrastructure, environments, and integrations. A part of my job is to provide the pipeline definitions and CI templates for other teams to work with so the software delivery process is streamlined across organization. I split my time between coding to implement features and bug fixes, and helping developers deploy, build, and release as efficiently as possible.
+My job is to enable the developers to focus on the business code only. To achieve my goal, I write pipeline definitions, deployment templates, CLI tooling to be used by development teams, so the software delivery process is streamlined across organization. Beside building out these features and fixing potential bugs, I educate and support the development teams around topics related to our pipelines or target infrastructures, so they can build, deploy, and release as efficiently as possible.
+
+Depending on the organization and/or need of the development teams, I am part of a central platform team or a member of an application development team.
 
 ##### Motivations
 
