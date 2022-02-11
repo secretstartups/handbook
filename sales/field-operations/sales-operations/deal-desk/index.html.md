@@ -318,7 +318,7 @@ Amendments to subscriptions must be processed entirely before any changes can be
     
 *   The **Start Date** cannot be set before the subscription start date.
     *   The **End Date** will automatically be set to co-terminate with the existing subscription.
-    *   The **Initial Term** should match the initial term of the New Business or Renewal subscription that precedes this quote. (i.e. if you’re amending the quote halfway through a 12 month term, the Initial Term should be 12, not 6.
+    *   The **Initial Term** is automatically updated to reflect the initial term of the original New Business or Renewal subscription which is being amended by this quote.**Please do not override the automatically populated Initial Term on Amend Subscription quote objects**  (i.e. if you’re amending the quote halfway through a 12 month term, the Initial Term should be 12, not 6.)
     *   The **GitLab Entity** must be the same as it was on the initial deal you’re amending.
     *   For **Reseller deals,** populate the “Invoice Owner” and “Invoice Owner Contact” fields.
         *   Ensure that the Invoice Owner Contact is connected to the correct reseller account - i.e. if the reseller is in Germany, the Invoice Owner Contact should also be based in Germany.
