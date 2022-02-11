@@ -53,7 +53,7 @@ The DRI for the integration stage is the Sr. Dir. Corporate Development. This wi
 The GitLab Field and Marketing organizations have aligned on a go-to-market approach based on a standard and consistent customer value-based messaging framework. As such, the Acquisition Integration team should partner with Product Marketing and document the following:
 
 1. What [**customer value driver(s)**](/handbook/sales/command-of-the-message/#customer-value-drivers) does this acquisition augment and how?
-1. How does this acquisition augment our existing **differentiators** (see under the [Additional Resources](/handbook/sales/command-of-the-message/#additional-resources) section) and/or introduce new ones?
+1. How does this acquisition augment [**GitLab's differentiators**](/handbook/sales/command-of-the-message/#gitlab-differentiators) and/or introduce new ones?
 1. How does this acquisition augment our existing [**customer use cases**](/handbook/use-cases/)?
 
 #### Role-based learning objectives
