@@ -30,6 +30,15 @@ The goal of this group is to ultimately define the most effective way to deliver
 
 _note: [Zuora SSOT](https://gitlab.com/groups/gitlab-org/-/epics/4664) is a prerequisite of any system changes coming out of this working group. Following through on this work enables us to scale and iterate more efficiently, even if we were to recommend leveraging a COTS solution._
 
+## Prerequisites
+_we've identified some prerequisites that must be complete before pursuing a recommendation from this working group. These items have prevented significant progress thus far and will only make matters worse if not addressed prior to additional investment (either build or buy)_
+
+| Prerequisite | Rationale |
+| -------------| ----------|
+| [Zuora SSOT](https://gitlab.com/groups/gitlab-org/-/epics/4664) | Zuora needs to be the SSOT for our Product Catalog, and what a customer has bought (subs, invoices, payments, etc) |
+| [Customer as a First Class Citizen](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1874) | As of 2022-02 we map a user to a subscription, but a Zuora account maps to a customer. We need to resolve this before scaling to a new or improved system | 
+| [SSO](gitlab-org/customers-gitlab-com#1868) | As of 2022-02 a customer can have two logins, their GitLab.com account AND an account on customers.gitlab.com, we need to merge these and maintain a single SSO system (gitlab.com account) |
+
 ## Exit Criteria & Timeline
 
 ### Path 1 (2022-02-02 > 2022-02-18) - 2 weeks
