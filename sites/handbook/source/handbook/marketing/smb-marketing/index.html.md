@@ -16,9 +16,9 @@ SMB Marketing addresses the [SMB Segment](/handbook/sales/field-operations/gtm-r
 
 | PMM | Campaigns | Digital | Content | TMM | PMO |
 | ---- | --- | --- | --- | --- | --- |
-| [Brian Glanz](https://gitlab.com/brianglanz) | [Indre Kryzeviciene](https://gitlab.com/ikryzeviciene) | [Zac Badgley](https://gitlab.com/zbadgley) | TBD | [William Arias](https://gitlab.com/warias) | [Kimberly Bolton](https://gitlab.com/kbolton1) |
+| [Brian Glanz](https://gitlab.com/brianglanz) | [Indre Kryzeviciene](https://gitlab.com/ikryzeviciene),<br>[Shari Rances](https://gitlab.com/srances) | [Zac Badgley](https://gitlab.com/zbadgley) | [Sharon Gaudin](https://gitlab.com/sgaudin) | [William Arias](https://gitlab.com/warias) | [Kimberly Bolton](https://gitlab.com/kbolton1) |
 
-Our project DRI is [Brian Glanz](https://gitlab.com/brianglanz).
+Our DRI is [Brian Glanz](https://gitlab.com/brianglanz).
 
 Team members are DRIs for their own tasks and report into their home teams, per GitLab's [DRI culture](/handbook/people-group/directly-responsible-individuals/) and [functional reporting lines](/handbook/leadership/no-matrix-organization/).
 
