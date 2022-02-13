@@ -110,3 +110,4 @@ Stakeholders with business requirements or domain expertise who will provide inp
 | Collaborator | Sindhu Tatimatla | Director, Analytics & Insights |
 | Collaborator | Cheri Holmes | Chief of Staff to CRO |
 | Collaborator | Jake Bielecki | Sr Director, Sales Strategy and Ops |
+| Collaborator | Shaun McCann | Director, Support Engineering | 
