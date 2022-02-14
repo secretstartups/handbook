@@ -47,6 +47,7 @@ We gladly organize and pay for local legal assistance, especially if you are at 
 - Think of the answers you will give during your visa interview; it can influence your visa approval/denial.
 - Once the dates for a conference or summit are set start asap with your application if you have needed a
 special visa in previous situations, just to give yourself enough time and room for errors if they arise.
+- If required, you can request a Visa Invitation Letter following [this](/handbook/people-group/frequent-requests/#do-you-need-a-visa-invitation-letter) process
 
 ##### Timeline guide for visa applications
 
