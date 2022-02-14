@@ -41,6 +41,19 @@ flowchart LR
  ```
 
 
+### Improve Contribution Velocity
+
+Provide an outstanding and efficient contributor experience, from onboarding materials to final merge. The goal is to create and use efficient long-term reusable tools/patterns/resources for increasing code contributions in a healthy and sustainable way. 
+
+#### Reduce Open Community MR Age
+
+Improve the speed of contribution to production by reducing [Open community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age) & review time. We have identified product groups with the highest open contribution MR age. On-going analysis and improvements are needed to address product groups with the biggest opportunity.   
+
+Epic: https://gitlab.com/groups/gitlab-com/quality/-/epics/1 
+
+#### Simplify & improve contribution guides 
+
+
 
 - **Outstanding contributor experience** Smooth, effective and scalable contributor experience.
   - Improve Community Contributor Productivity
@@ -65,7 +78,7 @@ flowchart LR
   - Work alongside Contributor Program Manager in outreach efforts
   - Cross coach Community Contribution teams on the technical aspects 
 
-### Contribution Acceleration Goals
+## Contribution Acceleration Goals
 
 We aim to increase the focus on our community contributions. Below is a timeline
 on how we will measure and track this goal.
