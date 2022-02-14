@@ -161,10 +161,6 @@ Anyone or any team can host a Learning Speaker Series for the organization! If i
 
 The L&D team also hosts and develops a [quarterly newsletter](/handbook/people-group/learning-and-development/newsletter/) for the community.
 
-## Mental Health Quarterly Newsletter
-
-The L&D team publishes a [quarterly mental health newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter) for team members and the wider community.
-
 ## Take Time Out To Learn Campaign
 
 [Focus Friday's](/handbook/communication/#focus-fridays) are a great benefit at GitLab. We try to schedule minimal meetings on Fridays to catch up on work and grow our skills professionally. Use Focus Fridays to take time out to learn. Team members can work with their manager through a [career development conversation](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1) to determine what skills that want to grow in the future. Aspirations can be documented in an [individual growth plan](/handbook/people-group/learning-and-development/career-development/#internal-resources). 
