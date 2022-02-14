@@ -145,8 +145,7 @@ Any line items within a category or subcategory default inherit the details from
 - Campaign Type - should match the type used in Marketo and SFDC; limited based on input in Spend Type above
 - Existing SFDC campaign - this is a dropdown that includes all campaigns that align wit the hierarchy that have been set up in SFDC; if it does not relate to an actual SFDC event/campaign, this can be left blank.
     - Note: If the SFDC campaign has not been created at the time of the entry you will not need to manually go back and add the campaign in the details panel. Once the SFDC campaign has been created the Allocadia<>SFDC synch will match the Allocadia line item to the SFDC campaign and your campaign will then show up in your details panel.
-    - We likely will be revising the naming to enable the SFDC campaign name (aka Campaign Tag) concatenated with the 7 digit Allocadia (line item) ID to fit within the required 31 characters allowed for this field in Netsuite and Expensify.
-- Campaign Tag to be Created - add the historic campaign tag name here
+- Campaign Name to be Created - add the campaign name here that will be used to create the Marketo program and SFDC campaign utilizing the `ISO date_event name` structure (example - 20220520_TheBestEventEver)
 - Payment method - select the type of invoice or Expensify expense. Other will be rarely used.
 - Segment - if the spend is for a specific segment or segments, choose it/allocate percentage to them here. If its for all, simply select all and save.
 - Start Date - the date the expense begins. This will be used for accruals and can be pulled into reports to show timing of software renewals, etc.
@@ -276,7 +275,7 @@ All FMM issues are created at the `SUB CATEGORY` level.
 
 By creating the FMM issue at the sub category level, this still allows the marketer flexibility in terms of how they want to strucure their activity plan. 
 
-Another way to think about this is that everything under the sub category should align to the same campaign tag to be created. 
+Another way to think about this is that everything under the sub category should align to the same campaign name to be created. 
 
 This functionality is in the process of being built out, so more details will be added as soon we have more information!  
 
@@ -297,13 +296,11 @@ If you've hit the GitLab issue template button and the wrong issue template has 
 
 ### SalesForce.com (SFDC)
 
-As mentioned above, there is a listing of available FY23 SFDC campaigns to choose from in the detail panel. Once the initial connection has been made between Allocadia and SFDC on a given campaign (which is done by either manually connecting them via choosing a campaign from the drop down or by using your Allocadia ID to create your Marketo program, instructions in [pt.2 & 5 here](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)), Allocadia will push over all the fields that have been completed in the details panel. 
+As mentioned above, there is a listing of available FY23 SFDC campaigns to choose from in the detail panel. Once the initial connection has been made between Allocadia and SFDC on a given campaign (which is done by either manually connecting them via choosing a campaign from the drop down or by using your Allocadia sub-category ID to create your SFDC campaign, instructions in [pt.2 & 5 here](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)), Allocadia will push over all the fields that have been completed in the details panel. 
 
-In addition, we will be sending over planned amounts into the SFDC Campaign Budget field and actuals will synch nightly. This ONLY happens if the connection is there by having a campaign selected in the `Existing SFDC Campaign` field. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget. Keep this in mind when considering which line to map to a SFDC campaign: it does not matter which one you decide to use (line, category or subcategory). It's up to the user to figure out their folder structure and determine the highest level ID that houses all the information.
+In addition, we will be sending over planned amounts into the SFDC Campaign Budget field and actuals will synch nightly. This ONLY happens if the connection is there by having a campaign selected in the `Existing SFDC Campaign` field. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget, since we use the Allocadia sub-category ID to sync Allocadia to the SFDC campaign. 
 
-When a category or sub-category ID is used, the SFDC Campaign will be auto-tagged to all the line items within that category or sub-category.
-
-Detailed instructions on how to set this synch up, which does have to be done campaign by campaign, can be [found here](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
+Full detailed instructions on how to set this synch up, which does have to be done campaign by campaign, can be [found here](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
 
 #### Drop down in details panel 
 If you need to add a new value to the drop down selector options, in order for the new options to properly pulled through to SFDC correctly, you need to be sure the new drop down value has been added to Allocadia and SFDC. Once that's been done, test the systems and you should be good to go! 
@@ -385,7 +382,7 @@ Allocadia has set up the following (hardcoded!) mapping for our instance:
 1. Map to a Line Item by ID, using the 7 digits found in Class: Name
 
 If Class: Name is not “- No Class -“, map to a Line Item by a match on the Existing Salesforce Campaign field
-If Class: Name is not “- No Class -“, map to a Line Item by a match on the Campaign Tag to be Created field
+If Class: Name is not “- No Class -“, map to a Line Item by a match on the Campaign Name to be Created field
 If Class: Name is not “- No Class -“, map to a Line Item by a match on the Comments field. 
 
 2. If Department: Name field = [name], map to the activity plan with a matching Department: Name rollup panel field value
