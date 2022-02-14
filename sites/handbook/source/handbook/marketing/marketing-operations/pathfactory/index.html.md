@@ -486,7 +486,16 @@ With Microsite builder you can:
 - Tie multiple pages together with navigation
 - Use your own custom code to add page sections and elements
 
+### Creating a Microsite
+
 You can request a new microsite, or an update to an existing microsite via [this issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_microsite_request). 
+
+Microsite templates:
+| Use Case | Template Name in PathFactory |
+| ------ | ------ |
+| Resource center | TBA |
+| Event or webcast follow-up | TBA |
+| Personalized/co-branded content hub | `[Template] Partner Custom Microsite` |
 
 ## Explore Pages
 
