@@ -78,24 +78,9 @@ Be sure you review the issue template and provide all necessary information that
 1. **Corporate Marketing Event Owner** creates issue using the [Corporate Event Request Template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Event_Request) in the Corporate Marketing project. **Field Marketing Event Owner** creates issue using the appropriate [Field Marketing Event Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/tree/master/.gitlab/issue_templates) in the Field Marketing project.
 1. Add as much information about the event as possible. For the event to move into contracting, we will specifically need to know the cost and ROI.
 
-### Step 2- Campaign Tag Creation
+### Step 2- Allocadia ID or Campaign Tag Creation
 
-#### All events - Setting up the `Campaign Tag`
-
-**NOTE**: Event owners are DRI to create/setup campaign names & tags!
-
-1. When **Event Owner** begins campaign process and creates their line item in Allocadia, they will create the campaign tag in the details panel in the field `Campaign Tag to be Created`. 
-    1. `Campaign Tag` = `ISO date` (**first** day of event if multiday) underscore `tactic name` - Example: AWS reInvent Dec 2-5, 2019 - `Campaign Tag` = `20191202_AWSreInvent`. **Note:** Your `tactic name` in the tag should not be more than **14 characters long** and should **not contain any special characters**. 
-    1. We do not want to set this up too soon as it affects many systems - see [date change](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#changes-to-offline-events-dates) but it does need to be done when we go into contracting or before any money is spent toward said event.
-
-### Step 3 - Netsuite campaign tag creation for events UNDER the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** no contract or security review required
-
-1. **Event Owner** copy/paste the `Allocadia ID` (this can be found in the details panel of your Allocadia line item) AND `Campaign Tag` (under the `Campaign Tag to be Created` field also in your details panel that was created during [this process](/handbook/marketing/events/#all-events---setting-up-the-campaign-tag)) into the event details section of the main event issue. This concatenated campaign tag formula = `Allocadia ID` dash `ISO date` (**first** day of event if multiday) underscore `tactic name` (example: 1114023-20211005_TheBestEvent). Full campaign tag should not include any special characters and stay within the **31 character limit**, including the Allocadia ID. **Helpful Note:** Your `tactic name` in the tag should not be more than **14 characters long** as the combination of the `Allocadia ID` and `ISO date` (including dash and underscore) is 17 characters. 
-1. **Event Owner** to ping the GL Accountant (@GGGONZALEZ) in the main event issue to request the above combination tag be created in Netsuite. Please note that since this tag is what is entered into Netsuite, this will also be the tag utilized in Expensify for all expense reporting.
-1. When event budget is approved by Finance, **Event Owner** verifies that the tag on the event and finance issue are accurate and match.
-1. When creating the Marketo Program and SFDC Campaign, DRI (for Field Marketing, the FMCs) will still utilize just the `Campaign Tag` as the name of the campaign and not the combination tag mentioned above.
-
-##### **NOTE:** All events under the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** No contract or security review required can skip step 4- contracting process.
+Please see [this handbook page](/handbook/marketing/#how-marketing-tracks-campaign-expenses) for details on how Marketing sets up Allocadia IDs and Campaign Tags.
 
 ### Ancillary Events
 
@@ -124,7 +109,7 @@ The purpose of creating a new issue for each ancillary event is to better facili
    - **Link to main event issue.**
 1. DRI to complete all relevant steps in the contract issue and close it out.
 
-### Step 5- Contract Completed - FMM
+### Step 3- Contract Completed - FMM
 
 1. When contract has been signed the DRI will update issue label from `status:plan` to `status:wip`.
    - At this point, all relevant details (loation, venue, time, date, etc.) and the MPM Checklist in the Field Marketing issue must be completed.
@@ -132,8 +117,9 @@ The purpose of creating a new issue for each ancillary event is to better facili
    - The designated MPM will begin the backend execution.
    - The MPM will create the event Epic, adding the checklist of related issues that need to be opened by respective team and high level information.
    - The MPM will also associate any issues opened for the event to the Epic.
+1. For Field Marketing, please reference the Plan to WIP process [here](/handbook/marketing/field-marketing/#process-for-issues-moving-from-plan-to-wip).
 
-### Step 5- Contract Completed- Corporate Event DRI
+### Step 3- Contract Completed- Corporate Event DRI
 
 1. For **Corporate Event DRI**,When contract has been signed the DRI will being event **epic creation process**.
    - Below is the tactical process DRIs take to organize actions and timelines for field and corporate events. This process was created by MPM's to keep projects organized and on track.
@@ -217,7 +203,7 @@ cc @jburton to create list upload issue and DMA request as required
 
 ☝️ _Tip: DRIs use [this document](https://docs.google.com/spreadsheets/d/1mw16Ft0Wo379dT6OYingQ5A4xXTT1EjdpD6k-lgQync/edit#gid=0) to auto-populate timelines / SLAs for events. They will add the event as a new row when it is created with a status of Plan, add the start and end date, and look at the resulting due dates for each action item._
 
-### Step 6- DRI Event Admin Tasks
+### Step 4- DRI Event Admin Tasks
 
 1. Add the event to Events Cal and [Events Page](/events/).
    - How to [add an event to the events page](#how-to-add-events-to-aboutgitlabcomevents).
@@ -815,10 +801,6 @@ GitLab's Community Relations team reviews and manages our community events (typi
 
 - For events where a field marketing representative cannot be present, the FM DRI will assign an onsite lead. The DRI will be responsible for coordinating with this person and providing them with any info they will need to help run the event in their absence. This person will be the venue point of contact as well as responsible for set up and tear down.
 - FOR EMEA: We must ensure we are gathering GDPR compliant leads - Lead devices scanning follow up needs to be in event T&C. If GDPR is not in the T&C, we are not allowed to follow up on the leads. Scanning a lead is not automatically GDPR compliant if visitors have not agreed to it.
-
-### Field Marketing Campaign Tags
-
-For Field Marketing campaign tag details, please visit the Field Marketing page [here](/handbook/marketing/field-marketing/#field-marketing-campaign-tags).
 
 ### Field Marketing Swag and Event Assets
 
