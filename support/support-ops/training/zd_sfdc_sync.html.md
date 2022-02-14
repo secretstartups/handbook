@@ -287,7 +287,7 @@ From here, have one of your fellow Support Ops team members or a Support Ops
 Manager review the merge request and add their approval (or comments). Once
 approval has been added, an implementation date can be determined.
 
-**Note**: All merge requests in the zd-sfdc-sync-main repo should contain the
+**Note**: All merge requests in the zd-sfdc-sync-global repo should contain the
 following labels (the same as with issues):
 
 * "Support-Ops-Category::Other"
@@ -396,9 +396,9 @@ After adding it in the Support Week in Review, you then want to cross-link
 
 ## Useful links
 
-* [ZD<>SFDC Sync Global](https://ops.gitlab.net/gitlab-com/support/zd-sfdc-sync-main)
+* [ZD<>SFDC Sync Global](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zd-sfdc-sync-global)
 * [ZD<>SFDC Sync US Federal](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zd-sfdc-sync-us-federal)
-* [ZD<>SFDC Sync Partners](https://ops.gitlab.net/gitlab-com/support/zd-sfdc-sync-partners)
+* [ZD<>SFDC Sync Partners](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zd-sfdc-sync-partners)
 * [ZD Main<>SFDC Sync Video](https://youtu.be/kzZbHHUCotI)
 * [ZD Partner<>SFDC Sync Video](https://youtu.be/9WRauzbjBkg)
 * [ZD US Federal<>SFDC Sync Videp](https://youtu.be/Lv5MlHTekBc)

@@ -26,7 +26,7 @@ internally to achieve organization sync.
 ### Standard organization sync
 
 We sync the standard organizations using the
-[zd-sfdc-sync-main project](https://ops.gitlab.net/gitlab-com/support/zd-sfdc-sync-main),
+[zd-sfdc-sync-global project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zd-sfdc-sync-global),
 located in the GitLab Ops instance. The scripts within pair with GitLab CI/CD
 jobs to gather data from both SFDC and Zendesk Global, compare it, and sync the
 needed changes.
@@ -79,7 +79,7 @@ WHERE
 ### Partner organization sync
 
 As partners have different sync requirements, we us the 
-[zd-sfdc-sync-partners project](https://ops.gitlab.net/gitlab-com/support/zd-sfdc-sync-partners)
+[zd-sfdc-sync-partners project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zd-sfdc-sync-partners)
 located in the GitLab Ops instance. The scripts within pair with GitLab CI/CD
 jobs to gather data from both SFDC and Zendesk Global, compare it, and sync the
 needed changes.
