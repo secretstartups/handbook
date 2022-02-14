@@ -851,12 +851,31 @@ Please see the PubSec website page [here](https://about.gitlab.com/solutions/pub
 
 ### How to Edit the PubSec Website
 
-We utilize [Netlify CMS](/handbook/marketing/netlifycms/) to edit the PubSec website. Please follow instructions for editing a page [here](/handbook/marketing/netlifycms/#creating-a-new-or-editing-an-existing-page-with-netlify-cms).
-- You must be logged into GitLab to access Netlify CMS.
-- Event listings do not drop off the page automatically after event has occurred, FMC will manually update the page with new event listings as needed.
-- The PubSec page is listed under the [Solutions](https://about.gitlab.com/admin/) section as `GitLab for the Public Sector`.
-- Note: Netlify sometimes shifts things around in formatting so when you look at the diffs in your MR, it may look like you have changed more than you actually have. The maintainer you assign the MR to will be able to differentiate what you changed versus what Netlify shifted.
-- If you have an open MR and need to make additional changes to the page, go back to the Netlify PubSec application, make your changes and click save. This will submit an additional commit to your open MR.  
+The content for the PubSec page lives in the `Buyer Experience` repository, in the [public-sector.yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/solutions/public-sector.yml#L140) file (starting around line 140). To edit this file, please keep the same structure as the current content to avoid any errors. Feel free to use the Web IDE or single file editor to update the information. 
+
+The event cards section of the file will look something like this: 
+```
+  - header: AFCEA Health IT Summit
+    date: February 1-17, 2022
+    event_type: CONFERENCE
+    link_text: Event Details
+    href: https://bethesda.afceachapters.org/save-the-date/
+    icon: /nuxt-images/icons/slp-calendar.svg
+    aos_animation: zoom-in
+    aos_duration: 500
+    aos_offset: -200
+```
+
+- **header:** Can be any free text. If any colons or apostrophies are used, feel free to wrap in double quotes such as `header: "Space: The Final Frontier"`.
+- **date:** Can be any free text, but similar format is preferred for visual consistency.
+- **event_type:** Ideally this is written in all caps, for visual consistency. Can be any value. 
+- **link_text:** Ideally this stays as "Event Details" for consistency. 
+- **href:** Full link to the event.
+- **icon:** Can be either `/nuxt-images/icons/slp-webcast.svg` or `/nuxt-images/icons/slp-calendar.svg`.
+- **aos_{value}**: These are used for the card animations - please don't edit.
+
+After making your edits, please tag an Engineer on the [Digital Experience Team](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/#team) as a `Reviewer`. For further assistance, feel free to post a question in the #digital-experience-team slack channel. 
+
 
 ## GitLab Government User Group Program  
 
