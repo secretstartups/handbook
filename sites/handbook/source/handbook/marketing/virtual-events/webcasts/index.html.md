@@ -978,15 +978,16 @@ In the event you need to cancel your webcast, please follow the steps outlined b
 *IMPORTANT: You can only use the WebEx account that is not tied to the SSO to schedule webinars. The account to be used is `wbxmeet7@gitlab.com`, you can find the credentials in the 1Password vault `GitLab Webex Marketing Vault`*
 *Note: Registration Confirmation and reminder emails will not be sent automatically from WebEx. Those will have to be sent by Marketo. The registration email is integrated in the `01 Registration Flow` smart campaign. Reminder emails will have to be scheduled and the tokens edited depending on the timeframe desired to send reminders.* 
 1. **LOGIN**: log into WebEx,  go to the bottom left side and click on `WebEx Events(classic)`. In the left navbar, click on `Schedule an Event`. *It is imperative to use the WebEx classic interface otherwise the integration will not be sucessfull*
-3. **Event Name**: add the topic as follows “Webcast title - Month DD, YYYY - HH:MM am/pm PT/HH:MM am/pm UTC” (for example: `Debunking Serverless security myths - October 21, 2019 - 8:30 am PT/3:30 pm UTC`).
-4. **DESCRIPTION**: add a sentence to describe what the webcast is about at a high-level.
-5. **WHEN**: add the webcast date and time.
-6. **DURATION**: add how long the webcast will be PLUS 45 minutes. You must include an additional 45 minutes for the prep call before the event plus padding for running over, otherwise the Launchpoint integration will fail. Keep the start time as the actual time attendees should join, but increase the duration. For example, if your webcast is from 9:00am-10:00am PT, enter start time of 9:00am, but a duration of 1 hour and 45 minutes.
-7. **TIMEZONE**: select the correct timezone for your webcast.
-8. **DO NOT** change all the other settings that are prepopulated by the template.
-9. **ALTERNATIVE HOSTS**: add webcast DRI, internal speaker(s), and Q&A resource as alternative hosts.
-10. **PANELISTS**: add external GitLab speakers as panelists by following the video instructions below. 
-11. **EMAILS**: uncheck email confirmation emails and reminder emails because we will send those from Marketo.
+   * **Note**: Marketo does not support events created from the new UI (Webex Events (new)). Make sure you are creating in classic.  
+1. **Event Name**: add the topic as follows “Webcast title - Month DD, YYYY - HH:MM am/pm PT/HH:MM am/pm UTC” (for example: `Debunking Serverless security myths - October 21, 2019 - 8:30 am PT/3:30 pm UTC`).
+1. **DESCRIPTION**: add a sentence to describe what the webcast is about at a high-level.
+1. **WHEN**: add the webcast date and time.
+1. **DURATION**: add how long the webcast will be PLUS 45 minutes. You must include an additional 45 minutes for the prep call before the event plus padding for running over, otherwise the Launchpoint integration will fail. Keep the start time as the actual time attendees should join, but increase the duration. For example, if your webcast is from 9:00am-10:00am PT, enter start time of 9:00am, but a duration of 1 hour and 45 minutes.
+1. **TIMEZONE**: select the correct timezone for your webcast.
+1. **DO NOT** change all the other settings that are prepopulated by the template.
+1. **ALTERNATIVE HOSTS**: add webcast DRI, internal speaker(s), and Q&A resource as alternative hosts.
+1. **PANELISTS**: add external GitLab speakers as panelists by following the video instructions below. 
+1. **EMAILS**: uncheck email confirmation emails and reminder emails because we will send those from Marketo.
 
 
 
