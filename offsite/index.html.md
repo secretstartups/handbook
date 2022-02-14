@@ -166,6 +166,14 @@ We have communication guidelines to enable more efficient and productive convers
 1. Encourage participation from others. We should actively encourage folks who aren't speaking much to speak--especially if we are discussing a topic that should have their direct input. This includes directly asking other folks for their opinions and allowing space for folks to join the conversation.
 1. Proactively stop conversations only involving two people if they go on for more than a few minutes and do not require engagement from the broader group. These conversations can be taken offline. 
 
+## Topic owner responsibilities
+
+If you are the person who owns a topic, you are responsible for:
+1. Ensuring that any pre-work is shared at least 5 days before the offsite.
+1. The conversation is being managed toward your desired outcome.
+1. Encouraging folks to stick to the agenda rather than speaking out of order. 
+1. The conversation includes all folks who want to contribute. This may mean actively encouraging folks to participate if they have not spoken and may have an item to add.
+
 ### Recurring discussion topics
 
 There are some topics discussed at every E-group offsite.
