@@ -28,7 +28,7 @@ Campaign Types and Large Buckets will not always be 1:1, as certain programs cou
 
 ### Campaign Cost Tracking
 
-For information on how Marketing tracks campaign costs, please visit [this page](https://about.gitlab.com/handbook/marketing/#how-marketing-tracks-campaign-expenses).
+For information on how Marketing tracks campaign costs, please visit [this page](/handbook/marketing/#how-marketing-tracks-campaign-expenses).
 
 ### Campaign Type & Progression Status
 
