@@ -18,9 +18,10 @@ Promotions will be reviewed and approved once per quarter to ensure calibration 
 
 ## Definitions
 
-- Promotions occur when a team member increases in level within the same job family. For example, a Backend Engineer is promoted to a Senior Backend Engineer. Similarly, a Senior Backend Engineer would receive a promotion by moving to a Staff Backend Engineer or Manager, Engineering.
-- Transfers occur when someone changes job families. A Backend Engineer would transfer to a Site Reliability Engineer.
-- Change in specialty has no impact to job family. Therefore, this is not a promotion or a transfer.
+- **Promotions** occur when a team member increases in level within the same job family. For example, a Backend Engineer is promoted to a Senior Backend Engineer. Similarly, a Senior Backend Engineer would receive a promotion by moving to a Staff Backend Engineer or Manager, Engineering.  
+- **Transfers** occur when someone changes job families. A Backend Engineer would transfer to a Site Reliability Engineer. Generally these happen based on an open req and application process via Greenhouse. 
+- **Manager Promotions** occur when someone is promoted to a people manager level. These promotions typically start with an open req and are processed through Greenhouse. 
+- **Change in specialty** has no impact to job family. Therefore, this is not a promotion or a transfer.
 
 ## Career Mobility Issue
 
@@ -42,12 +43,6 @@ As a manager, please follow the following processes, discuss any proposed change
 
 Besides promotions, this page captures information about transfers, realignments and career mobility. 
 
-## Definitions
-
-- Promotions occur when a team member increases in level within the same job family. For example, a Backend Engineer is promoted to a Senior Backend Engineer.  
-- Transfers occur when someone changes job families. A Backend Engineer would transfer to a Site Reliability Engineer. Generally these happen based on an open req and application process via Greenhouse. 
-- Manager promotions occur when someone is promoted to a people manager level. These promotions typically start with an open req and are processed through Greenhouse. 
-- Change in specialty has no impact to job family. Therefore, this is not a promotion or a transfer.
 
 ## Promotion Process & Timeline
 
