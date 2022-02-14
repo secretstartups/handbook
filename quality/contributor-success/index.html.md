@@ -38,7 +38,6 @@ flowchart LR
   end
   style moreContributions fill:,stroke-dasharray: 5 5
 
-
  ```
 
 
