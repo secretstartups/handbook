@@ -18,10 +18,29 @@ description: "Contributor Success Team"
 ## Mission
 
 The goal of the team is to increase the technical improvements and efficiency of
-our contribution process to sustain our ambition of
-[1000+ contributors with merged MRs per month to GitLab](/company/strategy/#2-build-on-our-open-core-strength).
+our contribution process to sustain our ambition of[1000+ contributors with merged MRs per month to GitLab](/company/strategy/#2-build-on-our-open-core-strength).
 
 ## Strategy
+
+We will be executing in 4 key areas in support of the company's broader [dual-flywheels](/company/strategy/#dual-flywheels) strategy to attain more contributions. The 4 key areas together are the pillars of our contribution increase strategy. 
+
+```mermaid
+
+flowchart LR
+  subgraph MoreContributions["More Contributions"]
+    ImproveVelocity["Improve Contribution Velocity"]
+    IncreaseValue["Increase Contribution Value"]
+    ExpandOutreach["Expand Outreach"]
+    ScaleCommunity["Scale the Community"]
+    ImproveVelocity<-->IncreaseValue
+    IncreaseValue<-->ExpandOutreach
+    ExpandOutreach<-->ScaleCommunity
+  end
+  style MoreContributions fill:,stroke-dasharray: 5 5
+
+ ```
+
+
 
 - **Outstanding contributor experience** Smooth, effective and scalable contributor experience.
   - Improve Community Contributor Productivity
@@ -46,7 +65,7 @@ our contribution process to sustain our ambition of
   - Work alongside Contributor Program Manager in outreach efforts
   - Cross coach Community Contribution teams on the technical aspects 
 
-### Contribution Acceleration Timeline
+### Contribution Acceleration Goals
 
 We aim to increase the focus on our community contributions. Below is a timeline
 on how we will measure and track this goal.
