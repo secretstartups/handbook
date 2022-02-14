@@ -101,7 +101,7 @@ using the Direct Mail campaign status progressions. (for example, when a person'
 
 - Cost of the items you are using in the giveaway
 - Fulfillment and shipping fees for each order placed once the giveaway is running (there is a Cost Estimate under campaign settings but please note actuals have ended up higher than their estimate so far) These will be on a Printfection invoice, more details to come on the invoice process.
-- $25/month per item stocked in Printfection. This will not hit your field marketing campaign tag, but is an overall cost to GitLab to consider and be mindful of (noted in Step 12 [here](/handbook/marketing/corporate-marketing/merchandise-handling/#creating-the-send-order)
+- $25/month per item stocked in Printfection. This will not hit your field marketing Allocadia ID, but is an overall cost to GitLab to consider and be mindful of (noted in Step 12 [here](/handbook/marketing/corporate-marketing/merchandise-handling/#creating-the-send-order)
 
 ### Linkedin events Feature - FMM team access
 
@@ -526,7 +526,7 @@ The AMER Field Marketing team utilizes our swag vendor, [Nadel](https://www.nade
 Nadel Portal Demo - [View Here](https://drive.google.com/open?id=1JGGjmWioXmwKI8t1zowqyfl22GKeaOk3)  
 Nadel Admin Portal Demo - [View Here](https://drive.google.com/open?id=1YNNjr-A8OJVLuod27vWfTCbEO1y21d9T)  
 
-- **[Campaign Tags](/handbook/marketing/field-marketing/#field-marketing-campaign-tags):** You are required to provide a campaign tag for all Nadel orders. All charges related to swag and shipping will be associated to your specific campaign.
+- You are required to provide an Allocadia ID for all Nadel orders. All charges related to swag and shipping will be associated to your specific campaign. Please see [this page](/handbook/marketing/#how-marketing-tracks-campaign-expenses) for more Allocadia ID information.
 - **Budgeting for Swag:** Please note that we pay a $6.50 per order fee for any orders placed through the Nadel warehouse (DG Fulfillment). Remember to add this cost to your overall campaign swag budget.
 - **Shipping:** DG Fulfillment utilizes our [Field Marketing Fedex Account](/handbook/marketing/field-marketing/#field-marketing-fedex-account) for all shipping costs. These costs will also need to be accounted for in your overall campaign swag budget. For shipping estimates, you can utilize the Fedex website if you have the weight of the item, or reach out to the DG Warehouse for estimates at `gitlab@dg-fulfillment.com`. Please make sure to specify all shipping requirements and deadlines when ordering your items. DG Fulfillment will provide return shipping labels with each order for easy return shipping to the warehouse after your event.
 - **Existing Items:** Item quantities are listed in the portal. Please select from the current items in stock for your event. If you need a larger quantity of an item over what is available, please reach out to `@krogel` for reordering.
@@ -562,7 +562,7 @@ Please utilize the [Printfection Sales Swag](https://get.printfection.com/dcdzm/
 
 The EMEA Field Marketing team utilises [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/#project-management) to source, fulfill, ship and store (European adn Uk warehouses) swag branded swag items.  We also utilise vendor [Ten&One](https://www.tenandone.com) who can source swag items and who also currently store all EMEA event material. The FMC is responsible for ensuring adequate stock levels and coordinating field event swag logistics.
 
-**Invoicing:** All invoices for Field Marketing are required to include the Campaign Tag `swag_field` to allow for proper finance coding.
+**Invoicing:** All invoices for Field Marketing are required to include the campaign's Allocadia ID to allow for proper finance coding.
 
 - **Existing Items:** Item descriptions and quantities are listed on the Reachdesk portal, please reach out to `@helenadixon` for current inventory levels.
 - **New Items and Designs:** Requests for new swag items not already available require management approval. Any new swag designs must be approved by the brand team for brand consistency. You can suggest new designs in the swag slack channel or more formally in an issue in the [Swag Project](https://gitlab.com/gitlab-com/swag_suggestions).
@@ -1104,34 +1104,10 @@ Funneling similar requests from a global team and addressing shared pain points 
 
 This issue should not be used as a shortcut to get questions answered but for request where FM leadership can help to improve a process which does contribute to our success as a team.
 
-# Field Marketing Campaign Tags
+# How Field Marketing Tracks Campaign Expenses
 
-## Creating Campaign Tags
-Field Marketing follows [these instructions](/handbook/marketing/events/#step-2--campaign-tag-creation) for creating campaign tags.
+For information on how Field Marketing tracks campaign expenses, please visit the Marketing handbook page section [here](/handbook/marketing/#how-marketing-tracks-campaign-expenses).
 
-You may use this [Campaign Tag creator](https://docs.google.com/spreadsheets/d/1sHLtArCYoQtfVFyh3ECPfhxgkbSYwpDf9Q7Gsjj5N64/edit#gid=0) if you would like assistance in creating your code.  
-
-The Field Marketing team will always associate a charge with a [campaign tag](https://docs.google.com/spreadsheets/d/19Le1PrWE1JbqN6Wz3D6tGfy7Ee5PmoetfyLPdwinFV0/edit#gid=627577696) when applicable. If a charge is not associated with a specific event, we will then utilize the below regional tags.
-
-There might be campaigns we manage where we ask someone to attend or we get an invitation to speak at an event where we do not expect to receive any leads, therefore we do not need to setup additional tracking issues, SFDC campaigns, or campaign tags.
-
-We may be given a sponsorship or have someone speak where we DO receive the leads and in that case, we create a line item in the QTR budget file with a $0 USD amount and use that tag.
-
-## Regional Campaign Tags
-**Swag Tags** - These tags are utilized for swag purchases not associated with a specific event (example - a bulk order of pens) as well as overall swag management costs (warehouse storage fees, order entry fees, inventory management, etc.).
-- `swag_AMER_marketingfield`
-- `swag_APAC_marketingfield`
-- `swag_EMEA_marketingfield`
-
-**General Tags** - These tags are utilized for any general purchase not related to swag or associated with a specific event (example - banner stands, table throws, popup displays, etc.).
-- `general_AMER_marketingfield`
-- `general_APAC_marketingfield`
-- `general_EMEA_marketingfield`
-
-**Shipping Tags** - These tags are utilized for shipping charges. Example - Shipping charges through our [Field Marketing Fedex Account](/handbook/marketing/field-marketing/#field-marketing-fedex-account).
-- `shipping_AMER_marketingfield`
-- `shipping_APAC_marketingfield`
-- `shipping_EMEA_marketingfield`
 
 # Field Marketing Labels in GitLab
 
@@ -1207,8 +1183,8 @@ Field Marketing manages its budget in [Allocadia](/handbook/marketing/strategy-p
 1. If the event is just 1 day, then the start and end date would be the same.
 1. Any expense that is less than $5,000 USD will be expensed against your budget in the month it is paid. This is in alignment with our [GitLab Prepaid Expense Policy](/handbook/finance/accounting/#prepaid-expense-policy). It is essential that you have this expense in the correct month within Allocadia. 
 1. For expenses more than $5,000 USD (also in alignment with our Accounting rules), we recognize the expense in the month when the work happens, NOT when we the cash leaves our doors. 
-   * As such, when you are running paid digital ads to support campaign work, you must account for the spend in a separate line item (this is aligned with our practice of [creating separate line items for each individual invoice/spend](/handbook/marketing/strategy-performance/allocadia/#buttons). You will keep the same campaign tag for the digital spend, but you will need to account for the different vendor and different time frame in the additional line item. 
-1. If you are running a campaign that has more than one tactic, and there are specific dates for the tactics, then each tactic will need its own line item in the budget and its own campaign tag.
+   * As such, when you are running paid digital ads to support campaign work, you must account for the spend in a separate line item (this is aligned with our practice of [creating separate line items for each individual invoice/spend](/handbook/marketing/strategy-performance/allocadia/#buttons). You will keep the same campaign name for the digital spend, but you will need to account for the different vendor and different time frame in the additional line item. 
+1. If you are running a campaign that has more than one tactic, and there are specific dates for the tactics, then each tactic will need its own line item in Allocadia.
     - As an example: If you are running a country specific campaign on CI/CD and there are 2 webinars and a workshop included in that campaign with a different specific date, then each webinar and the workshop will need its own tag, in addition to its own line item in the budget.
 1. Each folder in Allocadia is protected based on the managers/DRI's for each region. Only those with permissions will be able to edit each folder. Please reach out in the #allocadia_mktg-budget-holders slack channel if you need permissions updated. 
 1. At times, expenses are shared across an entire region. These expenses are housed in the ALL region folders. Any activity plans should transfer money to the ALL folder when looking to share the cost of expense. The same expense should NOT live in multiple activity plans if its an expense that is shared amongst more than 1 activity plan. 
@@ -1220,7 +1196,7 @@ Field Marketing manages its budget in [Allocadia](/handbook/marketing/strategy-p
    * NorCal/SoCal and PNW want share an event, the cost should be divided in half and entered into each activity plan equally. Each category and additional line items must have the same exact information in both activity plans.
    * The FMMs will agree on who the FMM owner will be and list that person's name in all panel details.
    * The FMMs will split out the MQLs accordingly between both activity plans.
-   * The FMC will select one of the category IDs and utilize that ID as the SFDC campaign. Since we have actuals pulling through at the campaign tag level in Sisense, we aren't so worried about budget in SFDC. Going off of actuals versus budget.
+   * The FMC will select the Allocadia sub-category ID and utilize that ID to create the SFDC campaign. More details on that process are located [here](/handbook/marketing/strategy-performance/allocadia/#salesforcecom-sfdc). Since we have actuals pulling through at the campaign name level in Sisense, we aren't so worried about budget in SFDC. Going off of actuals versus budget.
    * FMC will have 1 Allocadia ID created per activity plan to account for that plan's portion of the tactic and those two Allocadia IDs will be listed in the event details in the main issue. For any charges moving forward (that don't require a Coupa req - swag, shipping, etc.) both IDs will be utilized for finance reporting. For example - If a contract is provided for a shared sponsorship, the FMC will create a multi-line item Coupa req utilizing both line items in each activity plan. If the FMM later charges swag gift cards to their corporate card, the FMM will have to break out their charge in Expensify and allocate the correct percentage to each of the Allocadia IDs.
    * For travel expenses, the FMC will select one of the Allocadia IDs (doesn't matter which one) and highlight that ID to use for all travel expenses. Travel isn't pulled from program cost so this will not impact our actuals.
    * When splitting a tactic between territories, when at all possible, make sure your contract (if one is required) is per event and do not combine multiple events for different dates on one contract. Keeps things much simpler in Coupa/Allocadia than trying to split multiple events under one contract between multiple regions.    
