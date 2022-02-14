@@ -204,9 +204,9 @@ Please submit an exception request [here](https://gitlab.com/gitlab-com/customer
 
 EMEA Enterprise SA's are aligned regionally with Strategic Account Leaders and aligned in their respective account activities. Each team collaborates according to standard [Working Agreements](#working-agreements), but they can be adjusted by teams individually.
 
-Default alignment is maintained in the [EMEA Triage README](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/emea-triage/-/blob/master/README.md). Exceptions will happen, especially in the case where SAL's work with named accounts.
+Default alignment is maintained in the [EMEA SAL-SA Alignment page](https://gitlab.com/groups/gitlab-com/customer-success/solutions-architecture/-/wikis/EMEA-SAL-SA-Alignment). Exceptions will happen, especially in the case where SAL's work with named accounts.
 
-When workload exceeds the SA's capacity or when there is a request from other departments, please submit the request for assistance on the [EMEA Triage Board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/emea-triage/boards). The issue creation and triage processes are described in detail below.
+When workload exceeds the SA's capacity or when there is a request from other departments, please reach out via **#emea-sa-tam** Slack channel for assistance.
 
 ### Commercial Engagement Model
 
