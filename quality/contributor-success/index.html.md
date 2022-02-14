@@ -37,13 +37,17 @@ flowchart LR
     expandOutreach<-->scaleCommunity
   end
   style moreContributions fill:,stroke-dasharray: 5 5
+  click improveVelocity "#improve-contribution-velocity"
+  click increaseValue "#increase-contribution-value"
+  click expandOutreach "#expand-outreach"
+  click scaleCommunity "#scale-the-community"
 
  ```
 
 
 ### Improve Contribution Velocity
 
-Provide an outstanding and efficient contributor experience, from onboarding materials to final merge. The goal is to create and use efficient long-term reusable tools/patterns/resources for increasing code contributions in a healthy and sustainable way. 
+Provide an outstanding and efficient contributor experience, from onboarding materials to final merge.
 
 #### Reduce Open Community MR Age
 
@@ -53,6 +57,7 @@ Epic: https://gitlab.com/groups/gitlab-com/quality/-/epics/1
 
 #### Simplify & improve contribution guides 
 
+#### Improve contribution tooling
 
 
 - **Outstanding contributor experience** Smooth, effective and scalable contributor experience.
