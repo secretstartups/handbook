@@ -27,16 +27,17 @@ We will be executing in 4 key areas in support of the company's broader [dual-fl
 ```mermaid
 
 flowchart LR
-  subgraph MoreContributions["More Contributions"]
-    ImproveVelocity["Improve Contribution Velocity"]
-    IncreaseValue["Increase Contribution Value"]
-    ExpandOutreach["Expand Outreach"]
-    ScaleCommunity["Scale the Community"]
-    ImproveVelocity<-->IncreaseValue
-    IncreaseValue<-->ExpandOutreach
-    ExpandOutreach<-->ScaleCommunity
+  subgraph moreContributions["More Contributions"]
+    improveVelocity["Improve Contribution Velocity"]
+    increaseValue["Increase Contribution Value"]
+    expandOutreach["Expand Outreach"]
+    scaleCommunity["Scale the Community"]
+    improveVelocity<-->increaseValue
+    increaseValue<-->expandOutreach
+    expandOutreach<-->scaleCommunity
   end
-  style MoreContributions fill:,stroke-dasharray: 5 5
+  style moreContributions fill:,stroke-dasharray: 5 5
+
 
  ```
 
