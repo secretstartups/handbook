@@ -597,7 +597,7 @@ Copy and paste this template:
 
 ### Updating content on GitLab Learn
 
-The underlying data shown on the [GitLab Learn](/learn) page is available in [https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/learn](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/learn)
+The underlying data shown on the [GitLab Learn](/learn/) page is available in [https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/learn](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/learn)
 
 To update the course content data:
 1. Open an MR to the [learn.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/learn/learn.yml) file. Follow the existing syntax in the file. For ease of adding a new course, we recommend copying an existing entry and updating the values based on the new course being added, populating every field.
