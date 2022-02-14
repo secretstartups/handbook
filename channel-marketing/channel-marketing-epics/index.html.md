@@ -17,8 +17,11 @@ description: "A comprehensive list of all of Channel, Partner and Alliances's ep
 
 ## MDF Requests
 
+Create epic here: https://gitlab.com/groups/gitlab-com/marketing/-/epics/new
+
+
 ```
-<!-- Name this epic: Name of Event - Date of Event -->
+<!-- Name this Epic:  MDF - PartnerName - Activity -->
 
 <!-- This epic is to be created AFTER approval is given for MDF REquest   -->
 
@@ -36,7 +39,7 @@ description: "A comprehensive list of all of Channel, Partner and Alliances's ep
 * [ ] [**Marketo Program**]()
 
 ## Sub-Issue Creation
-* [ ] [Program Creation + Tracking](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=program-tracking) - Partner Team creates, assigns to Verticurl
+* [ ] [Program Creation + Tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-program-tracking) - Partner Team creates, assigns to Verticurl
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=mdf-list-upload) - Partner Team creates, assigns to MOps
 * [ ] [Create Proof of Performance Issue](https://gitlab.com/gitlab-com/marketing/partner-marketing//-/issues/new?issuable_template=channel_mdf_pop) - Partner Team creates
 

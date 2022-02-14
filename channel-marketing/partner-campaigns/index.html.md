@@ -169,9 +169,9 @@ If you did not include the Allocadia ID in the description, you'll need to updat
 
 
 
-### Step 5: Create List Upload Request Issue
-- Create List upload request issue to have these leads imported in.
-    - [Create issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=mdf-list-upload))
+### Step 5: Update List Upload Request Issue
+- Update the List upload request issue to have these leads imported in. This should already have been created and linked to the epic.
+    - [Create issue (if not already done)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=mdf-list-upload))
     - Please follow the [list import criteria and guidelines](/handbook/marketing/marketing-operations/list-import/#import-methods-and-their-sla)
 - NOTE: Leads should **NOT** be marked as `opt-in` unless they specifically opted in to **GitLab** emails.
 

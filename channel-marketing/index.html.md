@@ -99,6 +99,13 @@ that details the FMM process where CAMs can read more about how to complete [the
           + If declined, the Channel Marketing DRI will reach out to the partner and let them know. We will copy the CAM on the notificiation
           + If approved, the FMM will be the DRI for reaching out to the partner contact in the proposal to review dates of execution and provide any other guidance
           + If approved, channel marketing manager will [open an epic](/handbook/marketing/channel-marketing/channel-marketing-epics/) and correlating sub-issues defined therein. 
+    + Once Epic has been created, channel marketing manager will create the sub-issues listed in the epic. Includes (links are to templates):
+              + Campaign Creation (Assign to Verticurl and add in ~verticurl label)
+              + List Upload
+              + MDF PoP
+         + Make sure to add issues to the epic!
+    + Once all sub-issues are completed, close out the epic.
+        
 
 ### Demand Generation activities eligible for MDF
 -  **Customer Case Study** - Development of a print or digital case study that details an end-user customer’s positive experience with GitLab. Must highlight how a GitLab product or service solved a customer’s business problem, benefit received by customer, and customer’s endorsement of GitLab.
