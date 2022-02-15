@@ -84,7 +84,7 @@ Configure Secret Detection to ignore test files by pasting this job definition a
      - dast
     ```
    
-1. Enable DAST by pasting this line at the end of the existing `include:` section in `.gitlab-ciyml`, below the template for Secret Detection. Remember to use correct indentation.
+1. Enable DAST by pasting this line at the end of the existing `include:` section in `.gitlab-ci.yml`, below the template for Secret Detection. Remember to use correct indentation.
 
     ```yml
      - template: DAST.gitlab-ci.yml
@@ -122,7 +122,7 @@ Configure Secret Detection to ignore test files by pasting this job definition a
    
    secret_detection:
      variables:
-       SECRET_DETECTION_EXCLUDED_PATHS: "docs/"
+       SECRET_DETECTION_EXCLUDED_PATHS: "tests/"
     ```
 
 ### Commit your changes
