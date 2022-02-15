@@ -45,12 +45,11 @@ Below is a list of all of our installed packages in SFDC:
 | Xactly Express                                                   | Xactly Corp                             | [@james_harrison](https://gitlab.com/james_harrison)  | Sales Ops | 5/28/2020
 | Chorus CTI                                                       | AffectLayer Inc                         | [@james_harrison](https://gitlab.com/james_harrison)                 | Sales Ops   | 5/28/2020
 | DataFox Orchestrate                                              | DataFox                                 | [@james_harrison](https://gitlab.com/james_harrison_)                 | Sales Ops                  | 5/28/2020
-| Visual Compliance RPS Screening                                  | VisualCompliance                        | [@rnalen](https://gitlab.com/rnalen)           | Legal              | 5/28/2020
+| Visual Compliance RPS Screening                                  | VisualCompliance                        | [@rachelpack](https://gitlab.com/rachelpack)           | Legal              | 5/28/2020
 | LeanData                                                         | LeanData                                | [@bethpeterson](https://gitlab.com/bethpeterson)                 | Marketing                  | 5/28/2020
 | Xactly Express Dashboards and Reports                            | Xactly Corporation                      | [@james_harrison](https://gitlab.com/james_harrison)  | Sales Ops | 5/28/2020
 | Salesforce.com CRM Dashboards                                    | Salesforce.com                          | [@jbrennan1](https://gitlab.com/jbrennan1)                               | Sales Systems                           | 5/28/2020
 | Salesforce and Chatter Apps                                      | Salesforce.com                          | [@jbrennan1](https://gitlab.com/jbrennan1)                             | Sales Systems                           | 5/28/2020
-| DiscoverOrg for Salesforce                                       | DiscoverOrg                             | [@james_harrison](https://gitlab.com/james_harrison)                      | Sales Ops                  | 5/28/2020
 | Mass Update And Edit                                             | SFDC                                    | [@james_harrison](https://gitlab.com/james_harrison)                 | Sales Ops                | 5/28/2020
 | Zuora for Salesforce 360                                         | Zuora, Inc.                             | [@andrew_murray](https://gitlab.com/andrew_murray)                  | Finance                    | 5/28/2020
 | Zuora Quotes                                                     | Zuora                                   | [@andrew_murray](https://gitlab.com/andrew_murray)                   | Finance                    | 5/28/2020
@@ -61,7 +60,7 @@ Below is a list of all of our installed packages in SFDC:
 
 
 ### SFDC Certificates And Updateing Expiring Certificates 
-#### Salesfeorce Certificates 
+#### Salesforce Certificates 
 Learn more about Salesforce Certificates and Keys [here](https://help.salesforce.com/articleView?id=security_keys_about.htm&type=5)
 
 #### Updating Expiring Certificates 
