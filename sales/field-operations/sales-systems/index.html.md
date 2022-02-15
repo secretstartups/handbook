@@ -275,7 +275,7 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
 
 |Sandbox name|Sandbox type|Used for|Refresh cadence|Last refresh date|Next refresh issue|
 |-----|-----|-----|-----|-----|-----|
-|[STAGING](https://gitlab--staging.my.salesforce.com)|Full|Pre-production org.  Used for UAT of Systems issues prior to release to production.  Also used for troubleshooting.|As needed, up to once per month, minimum once per quarter| 3/11/2021 10:06 AM |To be provided|
+|[STAGING](https://gitlab--staging.my.salesforce.com)|Full|Pre-production org.  Used for UAT of Systems issues prior to release to production.  Also used for troubleshooting.|As needed, up to once per month, minimum once per quarter| 2/13/2022 2:26 PM |To be provided|
 |[SANDBOX](https://gitlab--staging.my.salesforce.com)|Partial|Developer integration and testing org. |As needed, up to once per month, minimum once per quarter|6/18/2021 3:14 PM|To be provided|
 
 ### Data, Data Uploads & Permissions
