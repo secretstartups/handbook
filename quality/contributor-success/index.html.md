@@ -55,17 +55,31 @@ flowchart LR
 
 Provide an outstanding and efficient contributor experience, from onboarding materials to final merge. Improve Contributor Journey, making it easier and efficient to contribute. Gather feedback from Wider community contributors and product teams on contribution friction.
 
-#### Reduce Open Community MR Age
+##### Reduce Open Community MR Age
 
 Improve the speed of contribution to production by reducing [Open community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age) & review time. We have identified product groups with the highest open contribution MR age. Analysis and improvements are needed to address product groups with the biggest opportunity. In addtition to improving MR review and gathering feedback.  
 
-Epic: [https://gitlab.com/groups/gitlab-com/quality/-/epics/1]( https://gitlab.com/groups/gitlab-com/quality/-/epics/1)
+  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/1]( https://gitlab.com/groups/gitlab-com/quality/-/epics/1)
+  * **DRI:** Contributor Success team (Engineering)
 
-#### Simplify & improve contribution guides 
+##### Simplify & improve contribution guides 
 
-Make contribution guides easy to navigate.
+Make contribution guides easy to navigate. Our current contribution guides are fragmented and can be hard for new contributors to navigate and understand. 
 
-#### Improve contribution tooling
+  * **DRI:** Community Relations team (Marketing)
+
+##### Improve contribution tooling
+Provide fast and efficient contributor experience via our tooling. Our contributor tooling needs to be optimized for contributor productivity
+
+  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/2]( https://gitlab.com/groups/gitlab-com/quality/-/epics/2)
+  * **DRI:** Engineering Productivity team (Engineering)
+
+##### Product groups focus
+
+Contribution submissions, backlog, and technology stack vary amongst all [product groups](/company/team/structure/#product-groups). Providing a healthy community backlog alignment & establishing a common best practice outreach for all product groups.
+
+  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/3]( https://gitlab.com/groups/gitlab-com/quality/-/epics/3)
+  * **DRI:** Product Ops, Community Relations & Contributor Success 
 
 ### Increase Contribution Value
 
@@ -99,7 +113,7 @@ Leverage the full-time customer contributor model and create wider community tea
   - Work alongside Contributor Program Manager in outreach efforts
   - Cross coach Community Contribution teams on the technical aspects 
 
-## Communitu Performance Indicator Goals
+## Community Performance Indicator Goals
 
 We aim to increase the focus on our community contributions. Below is a timeline
 on how we will measure and track this goal.
