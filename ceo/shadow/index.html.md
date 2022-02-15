@@ -180,8 +180,20 @@ Exceptional community members may be able to participate, as well.
 | 2022-03-14 | 2022-03-18 | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer | [Hannah Sutor](https://gitlab.com/hsutor) - Senior Product Manager |
 | 2022-03-21 | 2022-03-25 | [Adam Vesey](https://gitlab.com/avesey) - Sr. Legal Counsel  | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer |
 | 2022-03-28 | 2022-04-01 | AVAILABLE - REMOTE | [Adam Vesey](https://gitlab.com/avesey) - Sr. Legal Counsel |
-| 2022-04-04 | 2022-04-08 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-04-04 | 2022-04-08 | E-GROUP OFFSITE - HOLD | E-GROUP OFFSITE - HOLD|
 | 2022-04-11 | 2022-04-15 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-04-18 | 2022-04-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-04-25 | 2022-04-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-05-02 | 2022-05-06 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-05-09 | 2022-05-13 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-05-16 | 2022-05-20 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-05-23 | 2022-05-27 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-05-30 | 2022-06-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-06-06 | 2022-06-10 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-06-13 | 2022-06-17 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-06-20 | 2022-06-24 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-06-27 | 2022-07-01 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+
 
 
 If you have questions regarding the planned rotation schedule, please ping the [Staff Executive Business Admin to the CEO](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/). The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
