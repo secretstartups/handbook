@@ -148,6 +148,17 @@ Kibana can be used to find out if and when SSO Enforcement was enabled or disabl
 1. Add a positive filter on `json.path` for the path of the group, `gitlab-silver` in this example case.
 1. If there are any results, observe the `json.params` field. If `\"enforced_sso\"=>\"0\"` is present, that entry was logged when SSO Enforcement was disabled by the user in the `json.username` field.
 
+#### Searching for Deleted Container Registry tags
+
+Kibana can be used to determine whether a container registry tag was deleted, when, and who triggered it, if the deletion happened in the last 7 days.
+
+To find the log entry in `pubsub-rails-inf-gprd-*`:
+
+1. Get the link for the container registry in question. (For exmaple: https://gitlab.example.com/group/project/container_registry/<ContainerRepository>)
+1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
+1. Add a positive filter on `json.graphql.variables` for `*ContainerRepository/1842896.*`.
+1. Add a positive filter on `json.graphql.operation_name` for `destroyContainerRepositoryTags`.
+
 #### Searching Kibana for 500 level errors
 
 As of [14.7, a Correlation ID is provided](https://gitlab.com/gitlab-org/gitlab/-/issues/34113) on the 500 error page when using the interface. You can ask the customer to supply this and use Kibana to filter by `json.correlation_id`.
