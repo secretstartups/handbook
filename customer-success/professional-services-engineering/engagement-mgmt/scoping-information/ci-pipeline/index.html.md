@@ -11,6 +11,18 @@ description: "Describes the process for scoping pipeline migrations from other C
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+# General discovery questions to determine customer maturity level
+
+Its helpful to understand the level of maturity that the customer is on as it relates to CI/CD, Containers and repository hygiene. The following questions should be considered if a customer is interested in **GitLab Ultimate** or the **DevOps Platform Concent**. Also, consider these questions if conversations on **SCM Migration** are expanding to migration of additional data elements from the later stages of the DevOps lifecycle. 
+
+| Question | Answer | Sample Answer | Rationale for asking|
+| ----- | ----- | ----- | ----- |
+| How do you use containers in your software development lifecycle today? | | We deploy our software applications into containers OR We use general purpose containers to run CI/CD jobs OR We use purpose-built containers with a tightly managed bill of materials to run CI/CD jobs. | This question is meant to purposfully differentiate deploying software as containers vs. using containers to run CI/CD jobs.  |
+| How do you control/manage the software that is installed and runs on your CI/CD compute environment? | | We allow each application team to install software on their VMs/Containers so they can build/test/scan/deploy their apps. OR  We centrally manage the base VMs/Containers that are allowed to peform build/test/scan/deploy jobs. App teams can add software to those VMs/Containers. | We are hoping to understand how the customer manages their [SDLC Supply chain](https://about.gitlab.com/direction/supply-chain/#overview) and the risks associated with losing control of the software running in their CI/CD ecoysystem. |
+| How long does it take you to pull in containers into your environment? | | We pull containers from the internet monthly and scan and publish internally. If we need a new container, you can expect this to take about a week for the request to approved, and processed. OR We dont have a scanning approach today; App teams can use whatever container they want. | We want to understand the security practices in place today to ensure we scope services properly. |
+| How do you structure your repositories, structured (single tech stack focused on a single solution) vs. unstructured (many tech stacks that host many software solutions) | | Most of the git repositories are focused on a single software solution. We may have a few unstructured repositories, but these are outliers. | We ask this because using strutured repositories will help make use of GitLab CI/CD (and specifically Pipeline COE) out of the box. | 
+| How do you currently import packages such as Debian or Red Hat packages into your environment today? | | We utilize Red Hat Satellite to handle this. We currently allow developers to import packages themselves. We have an internal Apt/Yum Repository that we import packages into | We want to understand the level of control/standardization the customer currently has and what level of control/standarization they want to achieve in their future state. |
+
 # General approaches for CI/CD "Migration"
 
 1. **Flash Cut** - Migrate all data from legacy CI platform to GitLab including job definitions, job outputs and artifacts. _Note: This is typically harder to do as you will need to recreate history on the new system. Most customers are not intersted in the additional cost (development time to script/test, longer migration). Wherever possible, we should recommend **Net New**_. 
