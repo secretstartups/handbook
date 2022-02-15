@@ -11,7 +11,8 @@ The People Group Junior Fullstack Engineer reports to Director, People Tools & T
 
 #### People Group Junior Fullstack Engineer Job Grade
 
-The People Group Junior Fullstack Engineer is [Job Grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Group Junior Fullstack Engineer is [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
 #### People Group Junior Fullstack Engineer Responsibilities
 
 - Collaborate with all team members in the People Group, as well as other cross functional departments such as Engineering and Product to work on automation between various systems and creating smaller improvements inside of GitLab.
@@ -59,24 +60,14 @@ The People Group Junior Fullstack Engineer is [Job Grade 5](https://about.gitlab
 - Experience working with a remote team.
 - Passionate about/experienced with open source and developer tools and how we use it in non-engineering teams.
 
-
-#### People Group Junior Fullstack Engineer Hiring Process
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.
-
-- Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
-- Next, candidates will be invited to schedule a 45 minute interview with our Director, People Tools & Technology.
-- Candidates will then take part in a technical interview with a peer from the team.
-- Finally, candidates will be invited to a 30 minute interview with the VP, People Operations, Technology & Analytics.
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-
-
 ### People Group Fullstack Engineer
 
 The People Group Fullstack Engineer reports to Director, People Tools & Technology.
 
 #### People Group Fullstack Engineer Job Grade
 
-The People Group Fullstack Engineer is [Job Grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Group Fullstack Engineer is [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
 #### People Group Fullstack Engineer Responsibilities
 
 - Extends that of a People Group Junior Fullstack Engineer.
@@ -88,7 +79,6 @@ The People Group Fullstack Engineer is [Job Grade 6](https://about.gitlab.com/ha
 - Help to define and improve our internal standards for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.
 - Represent GitLab and its values in public communication around broader initiatives, specific projects, and community contributions.
 - Confidently ship moderately sized features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-
 
 #### People Group Fullstack Engineer Requirements
 
@@ -104,24 +94,13 @@ The People Group Fullstack Engineer is [Job Grade 6](https://about.gitlab.com/ha
 - Enterprise software company experience.
 - Experience working with a global or otherwise multicultural team.
 
-
-#### People Group Fullstack Engineer Hiring Process
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.
-
-- Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
-- Next, candidates will be invited to schedule a 45 minute interview with our Director, People Tools & Technology.
-- Candidates will then take part in a technical interview with a peer from the team.
-- Candidates will then have two 30 minute meetings with members from the People Group.
-- Finally, candidates will be invited to a 30 minute interview with the VP, People Operations, Technology & Analytics.
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-
 ### Senior People Group Fullstack Engineer
 
 The Senior People Group Fullstack Engineer reports to Director, People Tools & Technology.
 
 #### Senior People Group Fullstack Engineer Job Grade
 
-The Senior People Group Fullstack Engineer is [Job Grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). 
+The Senior People Group Fullstack Engineer is [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). 
 
 #### Senior People Group Fullstack Engineer Responsibilities
 
