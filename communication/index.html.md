@@ -19,25 +19,25 @@ When we go **back and forth three times,** we jump on a [synchronous video call]
 
 We communicate respectfully and professionally at all times.
 
-## Effective & Responsible Communication Guidelines
+## Effective & responsible communication guidelines
 
 1. **Assume [Positive Intent](/handbook/values/#collaboration).** Always begin with a position of positivity and grace.
-1. **Kindness Matters.** You are looking at a screen, but you are really talking to a person. If you wouldn't say it to a person's face, don't send it to them in a text message.
+1. **Kindness Matters.** You are looking at a screen, but you are really talking to a person. If you wouldn't say it to a person's face, do not send it to them in a text message.
 1. **Express Your Thoughts.** We live in different locations and often have very different perspectives. We want to know your thoughts, opinions, and feelings on things.
 1. **Own It.** If you say it or type it, own it. If it hurts the company or an individual, even unintentionally, we encourage you to look at things from other points of view and apologize easily.
 1. **Be a Role Model of our [Values](/handbook/values/).**
 1. **Feedback is Essential.** It is difficult to know what is appropriate in every one of our team members 60+ countries. We encourage team members to give feedback and receive feedback in a considerate way.
-1. **Don't Underestimate a 1:1.** Asynchronous communication (e.g., via text) is helpful and necessary. In some cases (e.g., to clarify misunderstandings) it can be much more effective to jump on a Zoom video call.
+1. **Do not underestimate a 1:1.** Asynchronous communication (e.g., via text) is helpful and necessary. In some cases (e.g., to clarify misunderstandings) it can be much more effective to jump on a Zoom video call.
 1. **Always Adhere to our [Anti-Harassment Policy](/handbook/anti-harassment/) and [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).** Everyone should be comfortable in their work environment.
 1. **Focus on what we can directly influence.** There are many factors we can't directly influence and we should avoid spending time discussing those things. For example, we don't talk about our [market capitalization](/handbook/being-a-public-company/#market-capitalization) because aspects of this are out of our control. Instead, we should focus on our KPIs and growing [annual recurring revenue](/handbook/sales/sales-term-glossary/arr-in-practice/).
 
 Embracing asynchronous communication and learning to use it effectively requires a mental shift. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and communiques are the norm. Learn more about [mastering the use of the written word in an all-remote setting](/company/culture/all-remote/effective-communication/).
 
-## Everyone is a Moderator
+## Everyone is a moderator
 
 If you see something that concerns you in Slack, Issues, Merge Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager or People Business Partner to discuss.
 
-## External Communication
+## External communication
 
 Key practices to consider during any meeting are listed below.
 
@@ -51,7 +51,7 @@ Key practices to consider during any meeting are listed below.
 1. Post Meeting Action - Immediately write down notes and next steps and input into the proper directory (Google Drive, Salesforce, etc.).
 1. Two Block Rule - For in person meetings with external parties you should wait until you're more than two blocks from the meeting before discussing the results of the meeting. Nobody wants to hear themselves being discussed in the bathroom.
 
-### Communicating with Media and Industry Analysts
+### Communicating with media and industry analysts
 
 GitLab employees and contractors are not authorized to speak with the media or analysts on behalf of our company unless authorized by our Marketing department. Unless authorized, do not give the impression that you are speaking on behalf of GitLab in any communication that may become public. This includes posts to online forums, social media sites, blogs, chat rooms, and bulletin boards. This policy also applies to comments to journalists about specific matters that relate to our businesses, as well as letters to the editor and endorsements of products or services.
 
@@ -61,11 +61,11 @@ For more, please visit the [Corporate Communications handbook section](/handbook
 
 GitLab as the leader in all remote work creates opportunities for our team members to receive requests from external 3rd parties to participate on panels, blogs or news publication or articles. Recently our team members have been approached by external 3rd parties looking to pay or compensate GitLab team members for their time to discuss GitLab remote practice to help them guide a client. Other third parties may contact GitLab team members to provide subject matter expertise that they may have by virtue of their role at GitLab. As in any request we ask that team members verify who they are speaking with to make sure the source is indeed a valid and legitimate request. Always remember that you represent GitLab and if any question makes you uncomfortable or gives you a pause on whether you should answer then we recommend that you do not answer. A third party's questions regarding GitLab financials, sales, compliance, executives or specifically where the company is heading should be treated with the most caution. We want and encourage all team members to be remote evangelists and this can be done without giving very specific information about GitLab. If you have any concern about a request please reach out on slack to [#external-comms](https://gitlab.slack.com/archives/CB274TZRR)
 
-### Social Media
+### Social media
 
 Please see our [team member social media policy](/handbook/marketing/team-member-social-media-policy/).
 
-## Everything Starts with a Merge Request
+## Everything starts with a Merge Request
 
 It's best practice to start a discussion where possible with a [Merge Request (MR)](https://docs.gitlab.com/ee/user/project/merge_requests/) instead of an issue. An MR is associated with a specific change that is proposed and transparent for everyone to review and openly discuss. The nature of MRs facilitate discussions around a proposed solution to a problem that is actionable. An MR is actionable, while an issue will take longer to take action on.
 
@@ -75,7 +75,7 @@ It's best practice to start a discussion where possible with a [Merge Request (M
 1. Merge Requests, by default, are **non-confidential**. However, for [things that are not public by default](/handbook/communication/#not-public) please open a confidential issue with suggestions to specific changes that you are proposing. The ability to create [Confidential Merge Requests](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#merge-requests-for-confidential-issues) is also available. When possible, consider not including sensitive information so the wider community can contribute.
 1. Not every solution will solve the problem at hand. Keep discussions focused by **defining the problem first** and **explaining your rationale** behind the [Minimal Viable Change (MVC)](/handbook/values/#minimal-viable-change-mvc) proposed in the MR.
 1. Be proactive and consistent with communication on discussions that have external stakeholders such as customers. It's important to keep communication flowing to keep everyone up to date. MRs can appear stale if there aren't recent discussions and no clear definition on when another update will be provided, based on feedback. This leaves those subscribed in the dark, causing unnecessary surprise if something ends up delayed and suddenly jumps to the next milestone. It is important that MRs are closed in a timely manner through approving or rejecting the open requests.
-1. Have a **bias for action** and [don't aim for consensus](/handbook/leadership/#making-decisions). Every MR is a [proposal](/handbook/values/#make-a-proposal), if an MRs author isn't responsive take ownership of it and complete it. Some improvement is better than none.
+1. Have a **bias for action** and [do not aim for consensus](/handbook/leadership/#making-decisions). Every MR is a [proposal](/handbook/values/#make-a-proposal), if an MRs author isn't responsive take ownership of it and complete it. Some improvement is better than none.
 1. **Cross link** issues or other MRs with related conversations. E.g. if there’s a Zendesk ticket that caused you to create a GitLab.com MR, make sure to document the MR link in the Zendesk ticket and vice versa. And when approving or rejecting the MR, include reason or response from Zendesk. Put the link at the top of each MR's description with a short mention of the relationship (Report, Dependency, etc.) and use one as the central one and ideally close the alternate if duplicate.
    1. When providing links to specific lines of code relevant to the MR, **always use a permalink** (a link to a specific commit for the file). This ensures that the reference is still valid if the file changes. For more information, see [Link to specific lines of code](https://docs.gitlab.com/ee/development/documentation/styleguide/index.html#link-to-specific-lines-of-code).
 1. If submitting a change for a feature, **update the description with the final conclusions** (Why an MR was rejected or why it was approved). This makes it much easier to see the current state of an issue for everyone involved in the implementation and prevents confusion and discussion later on.
@@ -91,7 +91,7 @@ It's best practice to start a discussion where possible with a [Merge Request (M
 1. For GitLab, the product merge request guidelines are in the [Contribution
    guide](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#merge-request-guidelines) and code review guidelines for reviewers and maintainers are described in our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
 1. Even when something is not done, share it internally so people can comment early and prevent rework.
-1. Create a <b>[Work In Progress (WIP)](/blog/2016/01/08/feature-highlight-wip/)</b> merge request to prevent an accidental early merge. Only use WIP when merging it would **make things worse**, which should rarely be the case when contributing to the handbook. Most merge requests that are in progress don't make things worse. In this case, don't use WIP; if someone merges it earlier than you expected just create a new merge request for additional items. Never ask someone to do a final review or merge something that still has WIP status. At that point you should be convinced it is good enough to go out.
+1. Create a <b>[Work In Progress (WIP)](/blog/2016/01/08/feature-highlight-wip/)</b> merge request to prevent an accidental early merge. Only use WIP when merging it would **make things worse**, which should rarely be the case when contributing to the handbook. Most merge requests that are in progress don't make things worse. In this case, do not use WIP; if someone merges it earlier than you expected just create a new merge request for additional items. Never ask someone to do a final review or merge something that still has WIP status. At that point you should be convinced it is good enough to go out.
 1. If any follow-up actions are required on the issue after the merge request is merged (like reporting back to any customers or writing documentation), avoid auto-closing the issue.
 1. If a project requires multiple approvals to accept your MR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
 1. If the MR involved gets a lot of comments, you can turn it into a [Manager Mention MR](/handbook/communication/index.html#scaling-merge-requests-through-manager-mention-mrs-formerly-consolidated-mrs).
@@ -154,7 +154,7 @@ Issues are useful when there isn't a specific code change that is being proposed
 1. If the content within a public issue transitions to become what is deemed confidential [non-public information](/handbook/communication/#not-public), the issue may be made confidential.
 1. If the content of a public issue draws comments that are deemed in violation of our [code of conduct](/community/contribute/code-of-conduct/) the issue may be locked and may [undergo moderation](/handbook/marketing/community-relations/community-operations/workflows/code-of-conduct-enforcement/#overview).
 
-## Internal Communication
+## Internal communication
 
 Internal communication is any work related communication at a company.
 Internal Communication includes conversations between team members, wider team discussions, or internal announcements.
@@ -169,7 +169,7 @@ In an [all-remote setting](/company/culture/all-remote/terminology/), where team
 
 To learn more on when to use asynchronous and synchronous communication, examples of async workflows in practice at GitLab, core async behaviors, and to take an async knowledge assessment, visit [GitLab's guide to embracing asynchronous communication](/company/culture/all-remote/asynchronous/).
 
-## Top Tips and Best Practices
+## Top tips and best practices
 
 1. All written communication happens in English, even when sent one on one, because sometimes you need to forward an email or chat.
 1. Use **asynchronous communication** when possible: merge requests (preferred) or issues. Announcements happen on the appropriate Slack channels and [people should be able to do their work without getting interrupted by chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.21t7089jk).
@@ -181,7 +181,7 @@ To learn more on when to use asynchronous and synchronous communication, example
 1. If someone sends you a handbook link they are proud that we have the answer documented, they don't mean that you should have found that yourself or that this is the complete answer, feel free to ask for clarification.
 1. If the answer to a question isn't documented, please immediately make a merge request to add it to the handbook in a place you have looked for it. It is great for the person who answered the question to see you leading by example to ensure that question only needs to be answered once. A merge request is the best way to say thanks for help.
 1. If you mention something (a merge request, issue, commit, webpage, comment, etc.) please include a link to it.
-1. All company data should be **shareable** by default. Don't use a local text file, but rather leave comments on an issue.
+1. All company data should be **shareable** by default. Do not use a local text file, but rather leave comments on an issue.
 1. When someone asks something, give back a deadline or that you did it. Answers like: 'will do', 'OK', 'it is on my todo list' are not helpful. If it is small it's better to spend 2 minutes and do the tasks so the other person can mentally forget about it. If it is large you need to figure out when you'll do it, by returning that information the other person might decide to solve it in another way if it takes too long.
 1. It is OK to bring an issue to someone's attention with a CC ("cc @user"), but CCs alone are not enough if specific action is needed from someone. The mentioned user may read the issue and take no further action. If you need something, please explicitly communicate your need along with @ mentioning who you need it from.
 1. Avoid creating private groups for internal discussions:
@@ -195,7 +195,7 @@ To learn more on when to use asynchronous and synchronous communication, example
 1. When discussing concepts, be careful not to lean too much into hypotheticals. There is a tipping point in which it decreases value and no longer becomes constructive at helping everyone come into a unified decision.
 1. Consult our [tips for better writing](/company/culture/all-remote/effective-communication/#tips-for-better-writing).
 
-### How to make a Company wide Announcement
+### How to make a company wide announcement
 
 1. Consider the subject and the audience.
    Questions you might want to ask yourself: Is this relevant to all team members globally?
@@ -207,7 +207,7 @@ To learn more on when to use asynchronous and synchronous communication, example
 1. Optional AMA.
    If desired and appropriate, offer a company wide Zoom call to host an AMA (Ask Me Anything). Oftentimes, questions can be managed within the Discussion tab of a GitLab Issue or Merge Request. For broad announcements, such as registration opening for GitLab Contribute, an AMA may be better suited for a large volume of inquiries. To schedule a company wide call, please make a request in the #people-connect Slack channel, and include a Google Doc in the invite for questions.
 
-### Ask Me Anything Meetings
+### Ask Me Anything meetings
 
 [Ask Me Anything meetings](/handbook/communication/ask-me-anything/) can be a useful opportunity for team members to meet a new leader, learn more about an existing team member, or gain clarity on a recent change.
 
@@ -229,7 +229,7 @@ to post in #company-fyi"]
   channel-topic>"Post in the most topical channel"]
 
   repost(["Repost in the 1-2 most appropriate channel(s) based on your topic/audience"])
-  no-repost(["Don't repost"])
+  no-repost(["Do not repost"])
 
   classDef question fill: #ECECFF
   class everybody,important,permission,urgent,reconsider question;
@@ -268,12 +268,13 @@ It is an **announcement only** channel, meaning that communications need to be a
 
 In order to post or have a message posted in `#company-fyi`, please reach out to [the internal communications team](/handbook/communication/internal-communications/) or your function's executive who can approve the message and post it.
 
-1. Examples of what **should not** go in **#company-fyi** (as per new group guidelines):
-   1. Competition prize winner announcements.
-   1. Org change or new team member announcements (unless they are E-group).
-   1. Promotion of an optional non-companywide internal event.
-   1. Announcement that directly impacts less than 75% of team members
-   1. Actions required from team members is not critical or timely
+Examples of what **should not** go in **#company-fyi** (as per new group guidelines):
+
+- Competition prize winner announcements
+- Org change or new team member announcements (unless they are E-group)
+- Promotion of an optional non-companywide internal event
+- Announcement that directly impacts less than 75% of team members
+- Actions required from team members is not critical or timely
 
 **The above should all go in the new #whats-happening-at-GitLab channel** (formerly the `#company-announcement` channel).
 
@@ -281,8 +282,8 @@ In order to post or have a message posted in `#company-fyi`, please reach out to
 
 Due to the volume of posts in the Slack channel, we recommend that you do not use #whats-happening-at-gitlab as a sole location for important announcements as information might get lost or muted. Examples of important items include but are not limited to:
 
-1. Anything involving GitLab team member policy, such as changes in benefits, laws, review cycles, etc.
-1. Urgent matters that can't wait for #company-fyi but still need to be communicated to everyone such as service outages or last minute event changes.
+- Anything involving GitLab team member policy, such as changes in benefits, laws, review cycles, etc.
+- Urgent matters that can't wait for #company-fyi but still need to be communicated to everyone such as service outages or last minute event changes
 
 ### Top misused terms
 
@@ -290,17 +291,20 @@ Please see our [Top misused terms page](/handbook/communication/top-misused-term
 
 ### Asking "is this known"
 
-1. If something is behaving strangely on [https://gitlab.com](https://gitlab.com), it might be a bug.
-   It could also mean that something was changed intentionally.
-1. Please search if the issue has already [been reported][issue-list].
-   1. If it has not been reported, please [file an issue](#issues).
-1. If you are unsure whether the behavior you experience is a bug, you may ask in the Slack channel [#is-this-known][is-this-known-slack].
-   1. Make sure that no-one has experienced this issue before, by checking the channel for previous messages
-   1. If you know which stage of the DevOps lifecycle is affected, it is also okay to ask in #s\_{stage}, for example [#s_manage][s_manage-slack].
-   1. Describe the behavior you are experiencing, this makes it searchable and easier to understand.
-      Different people might look for different things in the same screenshots.
-   1. Asking in a single channel helps discoverability, duplicated efforts and reduces noise in other channels.
-      Please refrain from asking in general purpose channels like [#frontend][fe-slack], [#backend][be-slack], [#development][dev-slack] or [#questions][q-slack].
+If something is behaving strangely on [https://gitlab.com](https://gitlab.com), it might be a bug. It could also mean that something was changed intentionally.
+
+Please search if the issue has already [been reported][issue-list]. If it has not been reported, and you are sure it is a bug, please [file an issue](#issues).
+
+If you are unsure whether the behavior you experience is a bug, you may ask in the Slack channel [#is-this-known][is-this-known-slack].
+If you know which stage of the DevOps lifecycle is affected, it is also okay to ask in #s\_{stage}, for example [#s_manage][s_manage-slack].
+
+When you ask:
+
+- Make sure that no-one has experienced this issue before, by checking the channel for previous messages.
+- Describe the behavior you are experiencing, this makes it searchable and easier to understand.
+  Different people might look for different things in the same screenshots.
+- Asking in a single channel helps discoverability, duplicated efforts and reduces noise in other channels.
+  Please refrain from asking in general purpose channels like [#frontend][fe-slack], [#backend][be-slack], [#development][dev-slack] or [#questions][q-slack].
 
 [issue-list]: https://gitlab.com/groups/gitlab-org/-/issues
 [is-this-known-slack]: https://gitlab.slack.com/messages/CETG54GQ0/
@@ -316,9 +320,9 @@ Employ multimodal communication to broadcast important decisions. To reach our d
 
 When doing this, create and link to a [single source of truth](/company/culture/all-remote/handbook-first-documentation/): ideally the [handbook](/handbook/handbook-usage/#why-handbook-first), otherwise an epic, issue, or Google Doc. The email or Slack message should not be the source of truth.
 
-When referring to email that recipients should have received, reference the sender and subject of the email so its easy to find. For example, "You should have received an email from Jane Smith with the subject 'Training Seminar Details'"
+When referring to email that recipients should have received, reference the sender and subject of the email so it's easy to find. For example, "You should have received an email from Jane Smith with the subject 'Training Seminar Details'".
 
-## Not Public
+## Not public
 
 We make things public by default because [transparency is one of our values](/handbook/values/#transparency).
 Some things can't be made public and are either [internal](#internal) to the company or have [limited access](#limited-access) even within the company.
@@ -329,43 +333,29 @@ If something isn't listed in the sections below we should make it available exte
 Some things are **internal**, available internally but not externally. The following items are internal:
 
 1. Security and [abuse](/handbook/engineering/security/security-operations/trustandsafety/#what-is-abuse) vulnerabilities are not public since they would allow attackers to compromise GitLab installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security and abuse implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
+1. Financial information, including revenue and costs for the company, is confidential because we are a public company and, as such, need to limit both the timing and content of financial information as investors will use and rely on it as they trade in GitLab stock. As the guideline, if it is a first step to constructing a profit, we need to keep it confidential. Examples include:
+   - The specific [IACV](/handbook/sales/sales-term-glossary/arr-in-practice/) of an opportunity
+   - Total monthly cash inflow/outflow for GitLab.com
+   - Spend of more than 10%
+   - A department's cost
+   - Team member retention (analysts may make business assumptions based on this)
+   - The Sales pipeline (but the Marketing pipeline can be public)
+   - Net and gross retention KPIs. Only the actual numbers can't be public. Everything else--the goal, their calculation, etc.--can be.
+1. Please do not share outside of GitLab, any information related to the company's plans related to being a public company, its anticipated public offering, including sharing of the Form S-1 by linking to the document or otherwise, or the company's possible forward looking plans. All external communications should be in line with the company's [SAFE Guidelines](https://about.gitlab.com/handbook/legal/safe-framework/) and [Social Media Policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/). If you have any questions please reach out via the [#Safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
+1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/accounting/#procure-to-pay).
+1. Content that would compromise a GitLab team member, customer, or user's personal data as defined by [GDPR](https://gdpr.eu/article-4-definitions/), unless explicit consent has been provided by the data owner. Examples of compromising content include a name, an identification number, location data, an online identifier, or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+1. Legal discussions are not public due to the purpose of Attorney-Client Privilege.
+1. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive.
+1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
+1. Customer information is not public since customers are not comfortable with that, and it would make it easier for competitors to approach our customers. If an issue needs to contain _any_ specific information about a customer, including but not limited to company name, employee names, number of users, the issue should be made confidential. Try to avoid putting customer information in an issue by describing them instead of naming them and linking to their SalesForce account. When we discuss a customer by name that is not public unless we're sure the customer is OK with that. When we discuss a competitor (for example in a sales call) this can be public as our competitive advantages are public.
+1. Competitive sales and marketing campaign planning is confidential since we want to minimize the time the competition has to respond to it.
+1. Discussions that involve decisions related to country of residence are not public as countries are a core part of people's identity and any communication should have complete context. The output of such decisions, such as [country hiring guidelines](/jobs/faq/#country-hiring-guidelines), will be public.
+1. If public information compromises the physical safety of one or more team members, it will be made not public because creating a safe, inclusive environment for team members is important to how we work. Information that might compromise the physical safety of a team member includes doxxing or threats made against a team member.
+1. Information related to a press embargo, or related to an upcoming publication where the response will be managed by our external communications team
+1. Information that relies on someone else's copyrighted IP. Our [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/), for example, relies on private sources of information and can't be made completely public.
+1. Information related to early exploratory initiatives in which premature sharing of information could slow down purchases.
 
-2. Financial information, including revenue and costs for the company, is confidential because we are a public company and, as such, need to limit both the timing and content of financial information as investors will use and rely on it as they trade in GitLab stock. As the guideline, if it is a first step to constructing a profit, we need to keep it confidential. Examples include:
-   - the specific [IACV](/handbook/sales/sales-term-glossary/arr-in-practice/) of an opportunity;
-   - total monthly cash inflow/outflow for GitLab.com;
-   - spend of more than 10%;
-   - a department's cost;
-   - team member retention (analysts may make business assumptions based on this);
-   - the Sales pipeline (but the Marketing pipeline can be public); and
-   - net and gross retention KPIs (only the actual numbers can't be public. Everything else- the goal, their calculation, etc- can be.).
-
-3. Please do not share outside of GitLab, any information related to the company's plans related to being a public company, its anticipated public offering, including sharing of the Form S-1 by linking to the document or otherwise, or the company's possible forward looking plans. All external communications should be in line with the company's [SAFE Guidelines](https://about.gitlab.com/handbook/legal/safe-framework/) and [Social Media Policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/). If you have any questions please reach out via the [#Safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
-
-4. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/accounting/#procure-to-pay).
-
-5. Content that would compromise a GitLab team member, customer, or user's personal data as defined by [GDPR](https://gdpr.eu/article-4-definitions/), unless explicit consent provided by the data owner, such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person
-
-6. Legal discussions are not public due to the purpose of Attorney-Client Privilege
-
-7. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive.
-
-8. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
-
-9. Customer information is not public since customers are not comfortable with that, and it would make it easier for competitors to approach our customers. If an issue needs to contain _any_ specific information about a customer, including but not limited to company name, employee names, number of users, the issue should be made confidential. Try to avoid putting customer information in an issue by describing them instead of naming them and linking to their SalesForce account. When we discuss a customer by name that is not public unless we're sure the customer is OK with that. When we discuss a competitor (for example in a sales call) this can be public as our competitive advantages are public.
-
-10. Competitive sales and marketing campaign planning is confidential since we want to minimize the time the competition has to respond to it.
-
-11. Discussions that involve decisions related to country of residence are not public as countries are a core part of people's identity and any communication should have complete context. The output of such decisions, such as [country hiring guidelines](/jobs/faq/#country-hiring-guidelines) will be public.
-
-12. If public information compromises the physical safety of one or more team members, it will be made not public because creating a safe, inclusive environment for team members is important to how we work. Information that might compromise the physical safety of a team member includes doxxing or threats made against a team member.
-
-13. Information related to a press embargo, or related to an upcoming publication where the response will be managed by our external communications team
-
-14. Information that relies on someone else's copyrighted IP. Our [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/), for example, relies on private sources of information and can't be made completely public.
-
-15. Information related to early exploratory initiatives in which premature sharing of information could slow down purchases.
-
-### Limited Access
+### Limited access
 
 The items below are not shared with all team members. Limited access is a more severe restriction than [internal](#internal).
 
@@ -377,12 +367,12 @@ The items below are not shared with all team members. Limited access is a more s
 1. Legal discussions are restricted to the purpose of Attorney-Client Privilege.
 1. Some information is kept confidential by the People Group to protect the privacy, safety, and security of team members and applicants, including: job applications, background check reports, reference checks, compensation, terminations details, demographic information (age and date of birth, family or marital status, national identification such as passport details or tax ID, required accommodations), home address. Whistleblower identity is likewise confidential. Performance improvement plans, disciplinary actions, as well as individual feedback are restricted as they may contain negative feedback and [negative feedback is 1-1](/handbook/values/#collaboration) between you and your manager. However, People Group policies and processes are public (for example, [Job families](/handbook/hiring/job-families/) and our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/)), along with information that team members choose to share on the [Team](/company/team/) page.
 1. Performance improvement plans, disciplinary actions, as well as individual feedback, are confidential as they contain private negative feedback and [negative feedback is 1-1](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#all-feedback) between team members and managers
-1. GitLab's Risk Register, is maintained by the [Risk & Field Security Team](handbook/engineering/security/security-assurance/field-security/). Access to GitLab’s Risk Register is limited to the Security Compliance Team, VP of Security, Executive Leadership and individually identified employees on a need to know basis. This document is not publicly or internally available as there may be risks on the risk register that explicitly call out the mechanisms available for external actors or internal GitLab team members to access content that would violate confidentiality for a GitLab team-member, customer, or user, and may include Personally Identifiable Information (PII).
+1. GitLab's Risk Register is maintained by the [Risk & Field Security Team](handbook/engineering/security/security-assurance/field-security/). Access to GitLab’s Risk Register is limited to the Security Compliance Team, VP of Security, Executive Leadership and individually identified employees on a need to know basis. This document is not publicly or internally available as there may be risks on the risk register that explicitly call out the mechanisms available for external actors or internal GitLab team members to access content that would violate confidentiality for a GitLab team-member, customer, or user, and may include Personally Identifiable Information (PII).
 1. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive
 1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
 1. Compensation Changes: GitLab will communicate and train team members on the output of iterations to the Total Rewards offerings (Compensation, Equity, Benefits), but team members will not have visibility into the inputs and decision making of compensation changes.
 
-#### Project Names
+#### Project names
 
 Some projects require limited access internally due to the confidential or sensitive nature of the project, including but not limited to projects related to the items listed above. Often, in order to maintain the necessary confidentiality of these types of initiatives, we assign a code name for the project. For consistency and to make it easier to identify the genesis of these projects and their organizational affiliations, we've established the following naming conventions.
 
@@ -398,11 +388,15 @@ Some projects require limited access internally due to the confidential or sensi
 | Product               | [Famous Mountain Peaks](https://en.wikipedia.org/wiki/List_of_mountain_peaks_by_prominence)    |
 | Sales                 | Car model names                                                                                |
 
-## Effective Communication Competency
+## Effective communication competency
 
 [Competencies](/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
 
-In an all-remote organization effective communication is key to exchanging knowledge, ideas, and information. Effective communication at GitLab is: Using [asynchronous](/company/culture/all-remote/asynchronous/) communication as the starting point and staying as open and transparent as we can by [communicating via text](/handbook/communication/#writing-style-guidelines) through public issues, merge requests, and Slack channels (over DMs). Placing an emphasis on ensuring that conclusions of offline conversations are written down ensuring a [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot) and [producing Video](/handbook/marketing/marketing-operations/youtube/) when necessary.
+In an all-remote organization effective communication is key to exchanging knowledge, ideas, and information. Effective communication at GitLab:
+
+- Uses [asynchronous](/company/culture/all-remote/asynchronous/) communication as the starting point and stays as open and transparent as we can by [communicating via text](/handbook/communication/#writing-style-guidelines) through public issues, merge requests, and Slack channels (over DMs).
+- Places an emphasis on ensuring that conclusions of offline conversations are written down ensuring a [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot).
+- [Produces video](/handbook/marketing/marketing-operations/youtube/) when necessary.
 
 If you would like to improve your skills or expand your knowledge on topics relating to Communication at GitLab, check out our resources:
 
@@ -428,23 +422,27 @@ If you would like to improve your skills or expand your knowledge on topics rela
 - Guides team members on when producing video is appropriate. Implements interactive communication tools across their team, department or the company depending on level.
 - Drives and funnels conversations to the right channels across teams, divisions and the company.
 
-## Numbering is for Reference, not as a Signal
+## Numbering is for reference, not as a signal
 
 When taking notes in an agenda, in the handbook, or on our [OKRs](/company/okrs/), keep items numbered so we can refer to Item 3 or 4a.
 The number is not a signal of the importance or rank of the subject unless explicitly stated to be such.
 It is just for ease of reference.
 
-## Cross-Link
+## Cross link
 
 Linking should not be in one direction. We should go beyond deep-linking to create a richer web of links that can surface content and ensure people consider all pages when making updates. When linking one page to another, try to link back as well. Instead of only linking from Page A to Page B, both link Page A to Page B and link Page B back to Page A. For example, the [Live Doc Meeting](/company/culture/all-remote/meetings/#live-doc-meetings) section of the All Remote Guide links to the [Live Docs Meetings page](/company/culture/all-remote/live-doc-meetings/). The [Live Docs Meetings page](/company/culture/all-remote/live-doc-meetings/) links back to the [Live Doc Meeting](/company/culture/all-remote/meetings/#live-doc-meetings) section of the All Remote Guide.
 
 ## Acknowledgement Receipts (ACK)
 
-In order to effectively communicate an important change to hundreds of distributed employees, we occasionally use an ACK process:
+In order to effectively communicate an important change to hundreds of distributed employees, we occasionally use an ACK process.
 
-1. To prevent overuse, this should only be used by a member of the exec team (but anyone may ask an exec to sponsor one).
-1. As a guideline, we'd expect no more than one per quarter to be sent out (too many ACKs lose power).
-1. Clone the form from this [template](https://docs.google.com/forms/d/1BPllKiwhOpvgdRbV_SYTCWevJLWMCAQJyegbVvJ1L6Q/edit) and fill it out.
+To prevent overuse, this should only be used by a member of the exec team. Anyone may ask an exec to sponsor one.
+
+As a guideline, we'd expect no more than one per quarter to be sent out. Too many ACKs lose power.
+
+To initiate an ACK process:
+
+1. Clone the form from the [ACK template](https://docs.google.com/forms/d/1BPllKiwhOpvgdRbV_SYTCWevJLWMCAQJyegbVvJ1L6Q/edit) and fill it out.
    1. Link to MRs and Handbook pages instead of duplicating your content in the form. [Why handbook first?](/handbook/handbook-usage/#why-handbook-first)
 1. Ask PeopleOps to pull a spreadsheet of email addresses from BambooHR with the column headers First Name, Last Name, Job Title, Department, Manager, and Work Email. Double check it and turn the emails into a comma-delimited string with an excel formula like this: `=TEXTJOIN(", ", true, Sheet1!E2:E432)`
 1. Send the form and expect to get 50% of the responses in the first 24 hours. To get the rest:
@@ -455,11 +453,11 @@ In order to effectively communicate an important change to hundreds of distribut
 
 In informal acknowledgement scenarios, such as on Slack or on issue comments, it is common practice to use the following:
 
-1. Eyes 👀 => I’ll check this out or seen and will do
-1. Thumbs up 👍 => good idea
-1. White checkmark ✅ => task is complete or done
-1. Heart ❤ ️= expression of gratitude or appreciation
-1. cc @mentions => if someone needs to see a message
+- Eyes 👀 => I’ll check this out or seen and will do
+- Thumbs up 👍 => good idea
+- White checkmark ✅ => task is complete or done
+- Heart ❤ ️= expression of gratitude or appreciation
+- cc @mentions => if someone needs to see a message
 
 ## Presentations
 
@@ -467,8 +465,8 @@ In informal acknowledgement scenarios, such as on Slack or on issue comments, it
 1. Please allow anyone at GitLab to edit the presentation (preferred) or at least comment on the presentation.
 1. If the content can be public use File > Publish to the web > Publish to get a URL and paste that in the speaker notes of the first slide (commonly the title slide).
 1. The title of every slide should be the message you want the audience to take away, not the subject matter. So use 'Our revenue more than doubled' instead of 'Revenue growth'.
-1. If there are introductions being performed please make sure that nobody is presenting. We remember people better and have more empathy when we clearly see peoples faces and expressions.
-1. At the end of the presentation when you go to Q&A stop presenting in Zoom. This way the other people can see the person who is speaking much better.
+1. During introductions, make sure that nobody is presenting. We remember people better and have more empathy when we clearly see peoples faces and expressions.
+1. At the end of the presentation, when you go to Q&A, stop presenting in Zoom. This way the other people can see the person who is speaking much better.
 1. All presentations at GitLab should be based on screenshots of the handbook, issues, merge requests, review apps, and data from GitLab Insights and Sisense charts. In most cases it shouldn't be needed to make content uniquely for the presentation. If you need something that doesn't exist yet add it to the place it belongs and then copy it into the presentation. This way we can have a [Single Source of Truth](/company/culture/all-remote/handbook-first-documentation/#creating-a-home-for-a-single-source-of-truth-ssot) for everything we do. By using screenshots you indicate to people you did the right thing and they can find the canonical source in the appropriate place. Having to find information by digging through old presentations doesn't scale. Consider linking the screenshot to the original source.
 1. Do not use cumulative graphs internally. For example total ARR, total user, total contributors, or total Merge Requests. Instead use IACV per dollar spend, users added per month, contributions per month, or [MR rate](/handbook/engineering/development/performance-indicators/#development-department-member-mr-rate). Cumulative graphs can [hide trends](https://heap.io/blog/data-stories/how-to-lie-with-data-visualization) and are [far more likely to be misinterpreted](https://measuringu.com/cumulative-graphs/). The only acceptable use of cumulative graphs is for external presentations where they are expected by the audience and commonly used.
 1. When your presentation includes graphs or other data, make sure your graphs have clear titles and dimensions. Make sure your data has significant figures and labels. For example, use 'January: 1.95M projects' instead of 'January: 1.95M'. Keep in mind that your audience may not have the full context, especially if they are reading the presentation asynchronously.
@@ -479,10 +477,10 @@ On 2022-01-20, the L&D team hosted [Lorraine Lee](linkedin.com/in/lorraineklee) 
 
 Key points addressed in the training include:
 
-1. **Increase your confidence on video** using lighting, visuals, and curating your environment
-1. **Keep your audience engaged** with movement, power words, and the think/do/feel matrix
-1. **Stay connected with your audience** by smiling, making eye contact, and framing yourself in video
-1. **Insert energy** by standing up, projecting, and using hand gestures
+- **Increase your confidence on video** using lighting, visuals, and curating your environment
+- **Keep your audience engaged** with movement, power words, and the think/do/feel matrix
+- **Stay connected with your audience** by smiling, making eye contact, and framing yourself in video
+- **Insert energy** by standing up, projecting, and using hand gestures
 
 Watch the replay below:
 <!-- blank line -->
@@ -492,7 +490,7 @@ Watch the replay below:
 <!-- blank line -->
 
 
-## Say Thanks
+## Say thanks
 
 As we continue to build on [inclusion](https://about.gitlab.com/handbook/values/#diversity-inclusion), recognition is a key and transformative tactic. Thanking team members provides an opportunity for them to be recognized for their contributions, influences engagement behavior, and acknowledges to team members their work is seen. By saying thanks, you are contributing to and supporting the value of [DIB](https://about.gitlab.com/handbook/values/#diversity-inclusion).
 
@@ -504,7 +502,7 @@ As we continue to build on [inclusion](https://about.gitlab.com/handbook/values/
 1. If possible please include a link with your thanks that points to the subject matter that you are giving thanks for, for example a link to a merge request.
 1. Please do not mention working outside of working hours, we want to minimize the pressure to do so.
 1. Please do not celebrate GitLab contribution graphs that include working for uninterrupted weeklong cycles, as this does not foster healthy [work/life harmony](/company/culture/all-remote/people/#worklife-harmony) for all team members. While GitLab team members are free to time-shift and work weekends in place of weekdays, we discourage celebrating the absence of time away from work.
-1. Don't thank the CEO or other executives for something that the company paid for, thank GitLab instead.
+1. Do not thank the CEO or other executives for something that the company paid for, thank GitLab instead.
 1. To thank someone who is not a team member, you can [nominate them for community swag](/handbook/marketing/community-relations/code-contributor-program/community-appreciation/).
 1. Understand that everyone doesn't need or want recognition. Once this is advised, please respect when they don't.
 
@@ -584,7 +582,7 @@ If there is something that you want to discuss, but you do not feel that it is
 a reasonable option to discuss with either your manager or CEO, then you can reach
 out to any of the other [C-level GitLab team members](https://comp-calculator.gitlab.net/org_chart) or our board member Bruce Armstrong.
 
-## Social Call
+## Social call
 
 At GitLab, social calls are considered an important way to foster culture while organically creating connections between team members with similar interests or hobbies.
 
@@ -596,7 +594,7 @@ The use of a document also serves to ensure that everyone gets a chance to contr
 
 Social call attendance is not mandatory however the sessions do serve as a great way to get to know fellow team members, take a break or (depending on your region) start the day on a fun note.
 
-#### Monthly Call Cycle
+#### Monthly call cycle
 
 | Social Call   | Day(s)               | Time       |
 | ------------- | -------------------- | ---------- |
@@ -614,22 +612,22 @@ _Using call attendance data along with feedback and suggestions provided by team
 
 ## Mindfulness Call
 
-1. The Mindfulness Call is a new call at GitLab. To start it will be led three times a week:,
-   - Mindfulness Call 1: EMEA/ APAC: Tuesdays 1:00AM PT for 15 minutes
+- The Mindfulness Call is a new call at GitLab. To start it will be led three times a week:,
+   - Mindfulness Call - EMEA/ APAC: Tuesdays 1:00AM PT for 15 minutes
    - Mindfulness Call 2: AMER/ EMEA: Wednesdays 9:30AM PT for 15 minutes
    - Mindfulness Call 3: AMER/ EMEA: Thursdays 7:30AM PT for 15 minutes
-1. The call is a short time for GitLab team members to spend time together in a guided meditation of centering and refocusing. There is [evidence that meditating together has additional benefits over meditating alone](https://www.mindful.org/benefit-meditating-alone-together/).
-1. The call will be led by either @mlebeau, @haileyrae or @scull to start, but we are looking for other volunteers, especially in other time zones, so that this can be offered multiple times in a week for all GitLab team members to benefit.
-1. The call will start promptly. The call will not be recorded. There is no intent to have discussion or Q&A around the call.
-1. No previous experience is necessary, nothing extra is needed other than a comfortable seat and 15 minutes.
+- The call is a short time for GitLab team members to spend time together in a guided meditation of centering and refocusing. There is [evidence that meditating together has additional benefits over meditating alone](https://www.mindful.org/benefit-meditating-alone-together/).
+- The call will be led by either @mlebeau, @haileyrae or @scull to start, but we are looking for other volunteers, especially in other time zones, so that this can be offered multiple times in a week for all GitLab team members to benefit.
+- The call will start promptly. The call will not be recorded. There is no intent to have discussion or Q&A around the call.
+- No previous experience is necessary, nothing extra is needed other than a comfortable seat and 15 minutes.
 
-## Walk and Talk Calls
+## Walk and Talk calls
 
 A Walk and Talk call is when team members step away from their computers and get outside for a meeting. The difference between a [coffee chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) and a Walk and Talk call is that a Walk and Talk call be held with people that you interact with frequently at GitLab. It could be social in nature or focused on a specific problem/topic that needs to be discussed. If it's a problem-solving focused discussion, the outcome should be captured in a merge request. It should not be used if the problem being discussed requires screen sharing or detailed note taking. There are great physical and mental health benefits to a walk and talk call. There are also benefits with [increased focus and creativity](https://www.quora.com/What-are-the-advantages-of-a-walking-1-1-meeting). A Walk and Talk can also help prevent [Zoom fatigue](https://news.northeastern.edu/2020/05/11/zoom-fatigue-is-real-heres-why-youre-feeling-it-and-what-you-can-do-about-it/).
 
 The team members can use Zoom on their mobile device with the audio only function, or call one another from their preferred mobile device. A walk and talk call should be agreed to in advance to ensure that the local weather is compatible for a walk in both locations and that the walk and talk call fits into both team members’ schedules. We’ve created a Slack channel #walk-and-talk-meetings where, if you'd like, you can share pictures from your walking meetings.
 
-## Release Retrospectives and Kickoffs
+## Release retrospectives and kickoffs
 
 {: #kickoffs}
 
@@ -658,7 +656,7 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 
 1. The [#random](https://gitlab.slack.com/archives/random) Slack channel is your go-to place to share random ideas, pictures, articles, and more. It's a great channel to check out when you need a mental break.
 
-## Scheduling Meetings
+## Scheduling meetings
 
 1. If you want to ask GitLab team members if they are available for an event please send a calendar invite with Google Calendar using your Google GitLab account to their Google GitLab account. When you add a GitLab team member as a “Guest” in Google Calendar, you can click the See Guest Availability button to check availability and find a time on their calendar. These calendar invites will automatically show up on all parties calendars even when the email is not opened. It is an easier way to ensure everyone has visibility to the meeting and member’s status. Please respond quickly to invites so people can make necessary plans.
 1. Every scheduled meeting should either have a Google Presentation (for example for functional updates that don't require participation) or a Google Doc (for most meetings) linked. If it is a Google Doc it should have an agenda, including any preparation materials (can be a presentation). Put the agenda in a Google Doc that has edits rights for all participants (including people not part of GitLab Inc.). Link the Google Doc from the meeting invite. Take notes of the points and todos during the meeting. Nobody wants to write up a meeting after the fact and this helps to structure the thought process and everyone can contribute. Being able to structure conclusions and follow up actions in real-time makes a video call more effective than an in-person meeting. If it is important enough to schedule a meeting it is important enough to have a Doc linked. If we want to be on the same page we should be looking at that page.
@@ -670,18 +668,18 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 1. If you want to move a meeting just move the calendar appointment instead of reaching out via other channels. Note the change at the top of the description.
 1. Please click 'Guests can modify event' so people can update the time in the calendar instead of having to reach out via other channels. You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings).)
 1. When scheduling a meeting we value people's time and prefer the "speedy meetings" [setting in our Google Calendar](https://calendar.google.com/calendar/r/settings). This gives us meetings of, for example, 25 or 50 minutes leaving some time to:
-   1. Write notes and reflect
-   1. Respond to urgent messages
-   1. Take a [bio break](https://www.merriam-webster.com/words-at-play/bio-break-meaning-and-origin)
-   1. Stretch your legs
-   1. Grab a snack
+   - Write notes and reflect
+   - Respond to urgent messages
+   - Take a [bio break](https://www.merriam-webster.com/words-at-play/bio-break-meaning-and-origin)
+   - Stretch your legs
+   - Grab a snack
 1. When scheduling a meeting, please try to have it start at :00 (hour) or :30 (mid-hour) to leave common start times available for other meetings on your attendees' calendars. Meetings should be for the time needed, so if you need 15 minutes just book that.
 1. When creating a calendar event that will be used company wide, [please place it on the GitLab Team Meetings Calendar](https://about.gitlab.com/handbook/tools-and-tips/#gitlab-team-meetings-calendar). That way the event is easily located by all individuals.
 1. When you need to cancel a meeting, make sure to delete/decline the meeting and choose the option **Delete & update guests** to make sure everyone knows you can't attend and don't wait for you.
 1. If you want to schedule a meeting with a person not on the team please use [Calendly](/handbook/tools-and-tips/other-apps/#calendly). Use Google Calendar directly if scheduling with a GitLab team member.
 1. **Materials Review** are scheduled as all day not busy events as a reminder three days before the scheduled call.
 
-### Guidelines for Vendor meetings
+### Guidelines for vendor meetings
 
 1. We request external vendor meetings to use our video conferencing tool so we can quickly join the call and record the session if we need to. Confirm with vendor that they agree we can record the call. The DRI for the vendor meeting will generate the zoom link and share with the vendor.
 1. Decide ahead of the meeting who should be invited, i.e. those likely to get the most out of it.
@@ -693,15 +691,16 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 1. Be cognizant of using inclusive language.
 1. We respectfully request that everyone is mindful of the time available, to help manage the call objectives effectively.
 
-### Meeting Introduction Guidelines
+### Meeting introduction guidelines
 
-Introductions can be helpful during some external meetings, such as executive sales calls. In those meetings, use these guidelines.
+Introductions can be helpful during some external meetings, such as executive sales calls. In those meetings, use these guidelines:
 
 1. Agree ahead of time to do introductions so everyone is prepared for it.
 1. Create a list of people with their roles in a shared agenda and use that for the introduction sequence.
 1. Each person should introduce themselves so that everyone can see that person on Zoom.
 1. The person introducing themselves hands it over to the next person in the agenda.
 Make sure you're never screensharing when people are introducing themselves.
+
 ![GitLab attendees](./introductions.png)
 
 In this example, the introductions would be:
@@ -714,13 +713,13 @@ In this example, the introductions would be:
 
 The goal of Focus Fridays is to maximize efficiency by creating designated meeting-free space within our weeks for focused work, which also aligns with our push to [operate asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/). Other benefits include reducing potential burnout, and being more thoughtful both in and about the meetings on the other days of the week. Guidance for Focus Fridays includes:
 
-- Cancel or move any standing meetings occurring on Fridays
-- Customer, prospect, partner and other external meetings are exceptions. You should not decline an external meeting citing Focus Fridays as the reason
-- Urgent and important one-off internal meetings might not be avoidable, but we should aim to minimize them as much as possible and defer to async work where we can
-- Consider blocking off your calendar as "busy" on Fridays to block your work time
-- Consider looking into apps like [Clockwise](https://www.getclockwise.com/) that can provide recommendations on how to refactor your calendar for focused work
-- Consider using Fridays to dedicate time to your [learning and development](/handbook/people-group/learning-and-development/)
-- For those in APAC Focus Fridays, team members can decided to have Focus Mondays instead to align our work more efficiently with other global timezones. 
+- Cancel or move any standing meetings occurring on Fridays.
+- Customer, prospect, partner and other external meetings are exceptions. You should not decline an external meeting citing Focus Fridays as the reason.
+- Urgent and important one-off internal meetings might not be avoidable, but we should aim to minimize them as much as possible and defer to async work where we can.
+- Consider blocking off your calendar as "busy" on Fridays to block your work time.
+- Consider looking into apps like [Clockwise](https://www.getclockwise.com/) that can provide recommendations on how to refactor your calendar for focused work.
+- Consider using Fridays to dedicate time to your [learning and development](/handbook/people-group/learning-and-development/).
+- For those in APAC Focus Fridays, team members can decided to have Focus Mondays instead to align our work more efficiently with other global timezones.
 
 You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule.
 
@@ -732,9 +731,9 @@ Focus Fridays began as an experiment in the Northern Hemisphere Summer/Southern 
 
 On February 14, or the Tuesday after if this day falls over the weekend or on Monday, we have an annual calendar cleanup day. This is a day when all team members are encouraged to look at their calendars and reassess the value and frequency of recurring meetings. The goals are to increase team member [efficiency](/handbook/values/#efficiency) as team members stop attending low value meetings and reassess how to make continuing meetings more productive. Team members should be empowered to:
 
-1. Cancel meetings or change the frequency if they feel that the current cadence does not add sufficient value
-1. Remove themselves as meeting attendees if they don't feel that they are contributing or that participation supports business results
-1. Ask other team members to reexamine how existing meetings are managed
+- Cancel meetings or change the frequency if they feel that the current cadence does not add sufficient value
+- Remove themselves as meeting attendees if they don't feel that they are contributing or that participation supports business results
+- Ask other team members to reexamine how existing meetings are managed
 
 When cancelling a meeting, a team member can copy and paste this message to send to attendees:
 _I evaluated the need for this meeting as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting is no longer needed. Please get in touch if you have any concerns._
@@ -747,7 +746,7 @@ If you are a team member who intends to decline a meeting, the [asynchronous com
 
 Meeting Cleanup Day is intentionally a few weeks after the start of the new fiscal year. The CoS to the CEO will launch this initiative annually a week in advance through posting in the #company-fyi Slack channel.
 
-### Common Meeting Problems
+### Common meeting problems
 
 Meetings are incredibly expensive since they require synchronous time.
 The most common meeting problems can all be addressed by following the above guidelines around scheduling meetings.
@@ -760,7 +759,7 @@ Some of the most common meetings problems are outlined below:
 | No agenda with edit rights for everyone                                             | Ensure that every meeting has an agenda and is available for everyone to edit                            |
 | People are late to meetings or don't have time to use the restroom between meetings | Use Speedy Meetings to give people breathing space before their next meeting                             |
 
-### No Presenting in Meetings
+### No presenting in meetings
 
 If you are hosting a meeting, it's okay not to have a presentation or have a pre-recorded presentation. What's not okay is [doing the presentation](/handbook/communication/#common-meeting-problems) during the session because you are taking valuable synchronous time away from the attendees, which could be asynchronous. It is easier to watch YouTube in more locations than joining a Zoom call. A recording makes content more accessible, prevents confusion, and increases participation for team members that prefer consuming content [asynchronously](/handbook/values/#bias-towards-asynchronous-communication). Meetings take up valuable time and resources for the company. They are expensive since they require synchronous time. In the video below, GitLab CEO Sid Sijbrandij explains why there are no presentations in meetings.
 
@@ -772,22 +771,22 @@ Make a pre-recorded video presentation on our [Unfiltered YouTube channel](https
 
 **Pre-recorded presentations enable the following:**
 
-1. Pre-recording the presentation allows the time to be used for back and forth Q&A (as seen in [Group Conversations](/handbook/group-conversations/#presentation), which enables meeting attendees to have their questions answered on the topic without running out of time.
-2. Reinforces GitLab's [Bias Towards Asynchronous Communication](/handbook/values/#bias-towards-asynchronous-communication) because it helps team members in different timezones to consume the presentation material async versus spending time in a meeting.
-3. Strengthens [self-service and self-learning](/handbook/values/#self-service-and-self-learning) by maximizing the meeting time's efficiency to ensure that team members have their voices heard during the Q&A.
-4. Standardizes the approach to meetings across the organization.
-5. Pre-recorded meetings have transcripts that can boost content value, help team members focus, and increase accessibility.
-6. Recordings can be sped up and rewound by team members watching on their own time.
-7. Encourages and enables greater participation from [neurodiverse team members](/handbook/values/#embracing-neurodiversity) who might take added time to process the presentation and reflect on their questions before asking them.
-8. Allows for selective watching of presentation material for a certain period.
+- Pre-recording the presentation allows the time to be used for back and forth Q&A (as seen in [Group Conversations](/handbook/group-conversations/#presentation), which enables meeting attendees to have their questions answered on the topic without running out of time.
+- Reinforces GitLab's [Bias Towards Asynchronous Communication](/handbook/values/#bias-towards-asynchronous-communication) because it helps team members in different timezones to consume the presentation material async versus spending time in a meeting.
+- Strengthens [self-service and self-learning](/handbook/values/#self-service-and-self-learning) by maximizing the meeting time's efficiency to ensure that team members have their voices heard during the Q&A.
+- Standardizes the approach to meetings across the organization.
+- Pre-recorded meetings have transcripts that can boost content value, help team members focus, and increase accessibility.
+- Recordings can be sped up and rewound by team members watching on their own time.
+- Encourages and enables greater participation from [neurodiverse team members](/handbook/values/#embracing-neurodiversity) who might take added time to process the presentation and reflect on their questions before asking them.
+- Allows for selective watching of presentation material for a certain period.
 
 There are times when presenting during a meeting is needed. This may occur when adding more context to a specific topic on slides. If this is the case, consider the following:
 
-1. A presentation, with optional attendance and mandatory recording. This will allow clarifying questions to be asked and answered efficently and enables team members to watch async.
-1. Include an async Q&A doc for team members who did not attend the presentation.
-1. Ensure the async Q&A doc is linked in the YouTube description.
+- A presentation, with optional attendance and mandatory recording. This will allow clarifying questions to be asked and answered efficently and enables team members to watch async.
+- Include an async Q&A doc for team members who did not attend the presentation.
+- Ensure the async Q&A doc is linked in the YouTube description.
 
-## Indicating Availability
+## Indicating availability
 
 Indicate your availability by updating your own calendar using Google's ["out of office"](https://www.theverge.com/2018/6/27/17510656/google-calendar-out-of-office-option) feature and include the dates you plan to be away in your automated response. Note that this feature will automatically decline any meeting invitations during the time frame you select.
 
@@ -795,50 +794,39 @@ Indicate your availability by updating your own calendar using Google's ["out of
 1. Set your working hours in your Google Calendar settings.
 1. Utilize [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) to keep other GitLab team members aware of your planned time away within Slack.
 
-## Video Calls
+## Video calls
 
 1. Use video calls if you find yourself going back and forth in an issue/via email
    or over chat. Guideline: if you have gone **back and forth 3 times**, it's time
    for a video call.
 1. Sometimes it's better to _not_ have a video call. Consider these tradeoffs:
-   1. It is difficult (or impossible) to multi-task in a video call.
-   1. It may be more efficient to have an async conversation in an issue, depending on the topic.
-   1. A video call is limited in time: A conversation in an issue can start or stop at any time, whenever there's interest. It is async.
-   1. A video call is limited in people: You can invite anybody into an async conversation at any time in an issue. You don't have to know who the relevant parties are ahead of time. Everyone can contribute at any time. A video call is limited to invited attendees (and those who have accepted).
-   1. You can easily "promote" an async conversation from an issue to a video call, as needed. The reverse is harder. So there is lower risk to start with an async conversation.
-   1. For a newcomer to the conversation, it's easier and more efficient to parse an issue, than read a video transcript or watch it.
-   1. Conversations in issues are easily searchable. Video calls are not.
-1. Try to have your video on at all times because it's much more engaging for participants
-   1. Don't worry if you [can't pay attention at the meeting](/handbook/communication/#paying-attention-in-meetings) because you're doing something else, you are the manager of your attention. The flip-side of being the manager of your own attention is that others should not hesitate to request your attention when it is needed.
-   1. During internal calls, it's okay to eat on video if you're hungry or the call is during your lunch time (please turn your mic off). To maintain professionalism, if you are presenting or facilitating a customer call please try to avoid eating. If eating during a customer call is unavoidable, please turn off your video and mute your mic.
-   1. You should ensure that you are properly dressed for all video calls. Properly dressed means that you are wearing clothing that covers the top and bottom parts of your body. We do not have a strict dress code policy, but want to make sure that all participants on video calls feel comfortable. If you cannot be properly dressed for the entirety of the call, you should not join, but watch the recording at a later time.
-   1. Having pets, children, significant others, friends, and family visible during video chats is encouraged. If they are human, ask them to wave at your remote team member to say ["Hi in your native language"](https://www.araioflight.com/hello-in-different-languages-world/).
-   1. Do not feel forced to have your video on, use your best judgement.
-1. Additional points for video calls with customers or partners
-   1. Results come first. Your appearance, location and background is less important than making customers successful so don't wait for the perfect time / place when you can engage a customer right away.
-   1. Communicating that GitLab is an enterprise grade product and service provider is supported by the way you present yourself. Most of the time, if you would not wear something or present yourself in a certain way at a customer's office, candidate interview, or partner meeting in person then it's probably not the right choice on a video call with them either.
-   1. Green screens are a great background solution. It's great to work in your garage or basement! Just get a green screen behind you and put up a professional background image to present well externally and still use the rest of the room how you want!
+   - It is difficult (or impossible) to multi-task in a video call.
+   - It may be more efficient to have an async conversation in an issue, depending on the topic.
+   - A video call is limited in time: A conversation in an issue can start or stop at any time, whenever there's interest. It is async.
+   - A video call is limited in people: You can invite anybody into an async conversation at any time in an issue. You don't have to know who the relevant parties are ahead of time. Everyone can contribute at any time. A video call is limited to invited attendees (and those who have accepted).
+   - You can easily "promote" an async conversation from an issue to a video call, as needed. The reverse is harder. So there is lower risk to start with an async conversation.
+   - For a newcomer to the conversation, it's easier and more efficient to parse an issue, than read a video transcript or watch it.
+   - Conversations in issues are easily searchable. Video calls are not.
+1. Try to have your video on at all times because it's much more engaging for participants.
+   - Do not worry if you [can't pay attention at the meeting](/handbook/communication/#paying-attention-in-meetings) because you're doing something else, you are the manager of your attention. The flip-side of being the manager of your own attention is that others should not hesitate to request your attention when it is needed.
+   - During internal calls, it's okay to eat on video if you're hungry or the call is during your lunch time (please turn your mic off). To maintain professionalism, if you are presenting or facilitating a customer call please try to avoid eating. If eating during a customer call is unavoidable, please turn off your video and mute your mic.
+   - You should ensure that you are properly dressed for all video calls. Properly dressed means that you are wearing clothing that covers the top and bottom parts of your body. We do not have a strict dress code policy, but want to make sure that all participants on video calls feel comfortable. If you cannot be properly dressed for the entirety of the call, you should not join, but watch the recording at a later time.
+   - Having pets, children, significant others, friends, and family visible during video chats is encouraged. If they are human, ask them to wave at your remote team member to say ["Hi in your native language"](https://www.araioflight.com/hello-in-different-languages-world/).
+   - Do not feel forced to have your video on, use your best judgement.
+1. Additional points for video calls with customers or partners:
+   - Results come first. Your appearance, location and background is less important than making customers successful so don't wait for the perfect time / place when you can engage a customer right away.
+   - Communicating that GitLab is an enterprise grade product and service provider is supported by the way you present yourself. Most of the time, if you would not wear something or present yourself in a certain way at a customer's office, candidate interview, or partner meeting in person then it's probably not the right choice on a video call with them either.
+   - Green screens are a great background solution. It's great to work in your garage or basement! Just get a green screen behind you and put up a professional background image to present well externally and still use the rest of the room how you want!
 1. We prefer [Zoom](https://gitlab.zoom.us/).
-1. Google Calendar also has a [Zoom plugin](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle?hl=en-US) where you can easily add a Zoom link for a video call to the invite
+1. Google Calendar also has a [Zoom plugin](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle?hl=en-US) where you can easily add a Zoom link for a video call to the invite.
 1. For meetings that are scheduled with Zoom:
-   1. If you need more privileges on Zoom (longer meeting times, more people in the meeting, etc.), please contact People Operations Specialist as described [specifically for Zoom](/handbook/tools-and-tips/other-apps/#shush).
-   1. Note that if you select to record meetings to the cloud (setting within Zoom), you must include the text `[REC]` in the meeting title if you want them to be automatically placed in the `GitLab Videos Recorded` folder in Google Drive on an hourly basis via a [scheduled pipeline](https://gitlab.com/gitlab-com/zoom-sync/pipelines).
-   1. You can find these videos in Google Drive by looking under `Shared drives` and `GitLab Videos Recorded`. If you do not have access to this drive, contact [IT Ops](https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/issues).
-   1. The [script for syncing the files is here](https://gitlab.com/gitlab-com/zoom-sync).
-   1. Note also that after a meeting ends, Zoom may take some time to process the recording before it is actually available. The sync to Google Drive happens on the hour mark, so if the recording is not available, it may take another hour to be transferred.
-1. As a remote company we are always striving to have the highest fidelity, collaborative conversations. Use of a headset with a microphone, is strongly suggested.
-   1. If other people are using headphones then no-headphones works fine. But if multiple people aren't using headphones you get distractions.
-   1. Reasons to use headphones:
-   1. Computer speakers can cause an echo and accentuate background noise.
-   1. Using headphones decreases the likelihood of talking over one another, enabling a more lively conversation.
-   1. Better sound quality, avoiding dynamic volume suppression due to echo cancellation.
-   1. Leave the no headphones to:
-   1. People who don't have them handy at that time
-   1. People from outside the company
-   1. Suggested headphone models can be found in the handbook under [spending company money](/handbook/finance/expenses/#headphones-and-earbuds).
-   1. If you want to use your [Bose headphones](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones.html) that is fine but please ensure the microphone is active.
+   - If you need more privileges on Zoom (longer meeting times, more people in the meeting, etc.), please contact People Operations Specialist as described [specifically for Zoom](/handbook/tools-and-tips/other-apps/#shush).
+   - Note that if you select to record meetings to the cloud (setting within Zoom), you must include the text `[REC]` in the meeting title if you want them to be automatically placed in the `GitLab Videos Recorded` folder in Google Drive on an hourly basis via a [scheduled pipeline](https://gitlab.com/gitlab-com/zoom-sync/pipelines).
+   - You can find these videos in Google Drive by looking under `Shared drives` and `GitLab Videos Recorded`. If you do not have access to this drive, contact [IT Ops](https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/issues).
+   - The [script for syncing the files is here](https://gitlab.com/gitlab-com/zoom-sync).
+   - Note also that after a meeting ends, Zoom may take some time to process the recording before it is actually available. The sync to Google Drive happens on the hour mark, so if the recording is not available, it may take another hour to be transferred.
 1. Consider using a utility to easily mute/unmute yourself, see [Shush](/handbook/tools-and-tips/other-apps/#shush) in the tools section.
-1. [Hybrid calls are annoying](#hybrid-calls-are-annoying)
+1. [Hybrid calls are annoying](#hybrid-calls-are-annoying).
 1. Always be sure to advise participants to mute their mics if there is unnecessary background noise to ensure the speaker is able to be heard by all attendees.
 1. We start on time and do not wait for people. People are expected to join no later than the scheduled minute of the meeting (before :01 if it is scheduled for :00). The question 'is everyone here' is not needed.
 1. It feels rude in video calls to interrupt people. This is because the latency causes you to talk over the speaker for longer than during an in-person meeting. We should not be discouraged by this, the questions and context provided by interruptions are valuable.
@@ -846,17 +834,37 @@ Indicate your availability by updating your own calendar using Google's ["out of
    Just like in-person meetings be cognizant of when, who, and how you interrupt, we don't want [manterrupting](http://time.com/3666135/sheryl-sandberg-talking-while-female-manterruptions/).
 1. We end on the scheduled time. It might feel rude to end a meeting, but you're actually allowing all attendees to be on time for their next meeting.
 1. Do not use the chat of products like Zoom to communicate during the call, use the linked document instead. This allows everyone to contribute additional questions, answers, and links in the relevant place. It also makes it easier for people in conflicting timezones to contribute questions before the call and makes it easier to review questions and answers after the call, which can be before watching the recording.
-1. You do not need to remind other people to vocalize their questions. Just say their name and a keyword of the question. 'Jay about credit-cards'
+1. You do not need to remind other people to vocalize their questions. Just say their name and a keyword of the question, e.g. 'Jay about credit-cards'.
 1. Every comment is document worthy, even small support comments such as `+1` or `Very Cool!`.
-1. We encourage the recording and [sharing of everything to our YouTube Unfiltered channel](/handbook/marketing/marketing-operations/youtube/)
+1. We encourage the recording and [sharing of everything to our YouTube Unfiltered channel](/handbook/marketing/marketing-operations/youtube/).
 1. It is unusual to smoke in an open office or video conference, vaping is associated with this. For this reason we ask that you don't vape during calls, and if you absolutely have to, kindly switch your camera off.
 1. Speak up when you notice something is not working. If you notice someone's microphone, web cam or latency is causing issues for them it is good to speak up. On a video call it can be harder for the speaker to notice that they aren't being understood compared to a face to face conversation. As such you will be doing them a favour by speaking up early to let them know that they are having a problem. Also see [Hear nothing say something](https://www.youtube.com/watch?v=LZ5spXU5HbU) for further explanation.
 
+### Headphones
+
+As a remote company we strive to have the highest fidelity collaborative conversations. Use of a headset with a microphone is strongly suggested.
+
+Reasons to use headphones:
+
+- If other people are using headphones then no-headphones works fine. But if multiple people aren't using headphones you get distractions.
+- Computer speakers can cause an echo and accentuate background noise.
+- Using headphones decreases the likelihood of talking over one another, enabling a more lively conversation.
+- Headphones improve sound quality by avoiding dynamic volume suppression due to echo cancellation.
+
+Leave the no headphones to:
+
+- People who don't have them handy at that time
+- People from outside the company
+
+Suggested headphone models can be found in the handbook under [spending company money](/handbook/finance/expenses/#headphones-and-earbuds).
+
+If you want to use your [Bose headphones](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones.html), that is fine, but please ensure the microphone is active.
+
 ### Note taking
 
-1. [Write down your questions](/handbook/values/#write-things-down) in the agenda before vocalizing. Always ask people to vocalize their questions to provide the most detailed context and for any people that only use audio, for example listening to a recording of the call later while running.
-1. If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. If you're not talking in the meeting, at any given time, [help take notes](/company/culture/all-remote/live-doc-meetings/).
-1. Consider asking other people to write down the answers in real-time to allow the person who asked the question to focus on the answer. The person asking the question can touch up the answer when the conversation has moved on to something less relevant to them.
+- [Write down your questions](/handbook/values/#write-things-down) in the agenda before vocalizing. Always ask people to vocalize their questions to provide the most detailed context and for any people that only use audio, for example listening to a recording of the call later while running.
+- If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. If you're not talking in the meeting, at any given time, [help take notes](/company/culture/all-remote/live-doc-meetings/).
+- Consider asking other people to write down the answers in real-time to allow the person who asked the question to focus on the answer. The person asking the question can touch up the answer when the conversation has moved on to something less relevant to them.
 
 ### You are the manager of your attention
 
@@ -871,14 +879,14 @@ It is better to cancel than to show up and not pay attention.
 On the other hand, not every part of a meeting is relevant, but it can sometimes be helpful to have more people in a call.
 If you only have one discussion point, if possible, try to reorder the meeting agenda to have your point first and then drop from the call.
 If you get asked a question when you're not paying attention, it is an okay use of time to repeat a question every now and then.
-If training if required for one's role, team members should plan to give the training full attention--especially if engagement in discussions or breakout rooms is required. If training is 'nice to learn' or 'optional' for team members, multi-tasking can be done at the team members discretion.
+If training is required for one's role, team members should plan to give the training full attention--especially if engagement in discussions or breakout rooms is required. If training is 'nice to learn' or 'optional' for team members, multi-tasking can be done at the team members discretion.
 
 
 We don't use the first 15 minutes of a meeting to read the materials like they [do at Amazon](https://www.forbes.com/sites/carminegallo/2019/06/18/how-the-first-15-minutes-of-amazons-leadership-meetings-sparks-great-ideas-and-better-conversations/#6be165bd54ca). You can use the start of a meeting to review the materials for the meeting if you need to, given you do not have to be paying attention, but that should not delay the start of the meeting for the people that already have questions based on the materials. [Meetings start on time at GitLab.](/handbook/communication/#scheduling-meetings)
 
-Don't use your camera to signal you're not paying attention; [cameras should always be on](/handbook/communication/#video-calls).
+Do not use your camera to signal you're not paying attention; [cameras should always be on](/handbook/communication/#video-calls).
 
-### Don't ask meeting attendees to pay attention
+### Do not ask meeting attendees to pay attention
 
 There are too few hours in a week, so we expect each team member to [manage their attention](#you-are-the-manager-of-your-attention). If you're hosting a meeting, don't tell people to give you their attention or stop multi-tasking. Respect each team member's agency over their time. Instead of demanding attention, earn participants' attention by organizing and facilitating meetings so they are compelling to attendees.
 
@@ -891,7 +899,7 @@ more than just "First!". The meeting DRI will be happy to see there is a
 question ready before to kick off the meeting. The Meeting DRI should remember
 to thank the person for asking the first question.
 
-### Don't do a countdown before ending a call
+### Do not do a countdown before ending a call
 
 Never do a countdown or say something like. "I'll give it x seconds", people are very unlikely to ask a question if you do that. Either ask for a question, wait for a question, or end the call.
 
@@ -901,18 +909,18 @@ In calls that have remote participants everyone should use their own equipment (
 
 When multiple people share equipment the following **problems arise for remote participants**:
 
-1. Can't hear the sharing people well.
-1. Background noise since the microphone of the sharing people on all the time.
-1. Can't clearly see facial expressions since each face takes up only a small part of the screen.
-1. Can't easily see who is talking since the screen shows multiple people.
-1. Hard getting a word in since their delay is longer than for the sharing people.
+- Can't hear the sharing people well
+- Background noise since the microphone of the sharing people is on all the time
+- Can't clearly see facial expressions since each face takes up only a small part of the screen
+- Can't easily see who is talking since the screen shows multiple people
+- Hard getting a word in since their delay is longer than for the sharing people
 
 The **people sharing equipment also have problems** because they don't have their own equipment:
 
-1. Can't easily screen share something themselves.
-1. Trouble seeing details in screen sharing since the screen is further away from them.
-1. Can't scroll through a slide deck at their own pace.
-1. Sharing people can't easily participate (view or type) in a shared document with the agenda and meeting notes.
+- Can't easily screen share something themselves
+- Trouble seeing details in screen sharing since the screen is further away from them
+- Can't scroll through a slide deck at their own pace
+- Sharing people can't easily participate (view or type) in a shared document with the agenda and meeting notes.
 
 The disadvantages for remote people are much greater than for the sharing people and hard to notice for the sharing people.
 The disadvantages cause previously remote participants to travel to the meeting to be in person for a better experience.
@@ -920,31 +928,30 @@ The extra travel is inefficient since it is time consuming, expensive, bad for t
 
 Theoretically you can have multiple people in a room with their own equipment but in practice it is much better to be in separate rooms:
 
-1. It is annoying to first hear someone talk in the room and then hear it over audio with a delay.
-1. It is hard to consistently mute yourself when not talking to prevent someone else's voice coming through your microphone as well.
+- It is annoying to first hear someone talk in the room and then hear it over audio with a delay.
+- It is hard to consistently mute yourself when not talking to prevent someone else's voice coming through your microphone as well.
 
-## User Communication Guidelines
+## User communication guidelines
 
-1. Keep conversations positive, friendly, real, and productive while adding value.
-1. If you make a mistake, admit it. Be upfront and be quick with your correction. If you're posting to a blog, you may choose to modify an earlier post. Just make it clear that you have done so.
-1. There can be a fine line between healthy debate and incendiary reaction. Try to frame what you write to invite differing points of view without inflaming others. You don’t need to respond to every criticism or barb. Be careful and considerate.
+- Keep conversations positive, friendly, real, and productive while adding value.
+- If you make a mistake, admit it. Be upfront and be quick with your correction. If you're posting to a blog, you may choose to modify an earlier post. Just make it clear that you have done so.
+- There can be a fine line between healthy debate and incendiary reaction. Try to frame what you write to invite differing points of view without inflaming others. You don’t need to respond to every criticism or barb. Be careful and considerate.
+- [Assume positive intent](/handbook/values/#assume-positive-intent) and explicitly state the strongest plausible interpretation of what someone says before you respond, not a weaker one that's easier to criticize. [Rapoport's Rules](https://rationalwiki.org/wiki/Rapoport%27s_Rules) also implores you to list points of agreement and mention anything you learned.
+- Answer questions, thank people even if it’s just a few words. Make it a two way conversation.
+- Appreciate suggestions and feedback.
+- Do not make promises that you can't keep.
+- Guide users who ask for help or give a suggestion and share links. [Improving Open Development for Everyone](/blog/2015/12/16/improving-open-development-for-everyone/), [Types of requests](/blog/2014/12/08/explaining-gitlab-bugs/).
+- When facing negative comments, respond patiently and treat every user as an individual, people with the strongest opinions can turn into [the strongest supporters](/blog/2015/05/20/gitlab-gitorious-free-software/).
+- By default, discussions in issues and MRs are public and could include participation of wider community members. It is important to make the wider community members feel welcome participating in discussions and sharing their view. Wider community members also submit [MRs to help improve our website/handbook](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&label_name[]=Community%20Contribution) and this is often their first contribution to GitLab. We want to make sure that we are responsive to their contributions and thank them for helping improve GitLab.
+- Adhere to the [Code of Conduct](/community/contribute/code-of-conduct/) in all communication. Similarly, expect users to adhere to the same code when communicating with the GitLab team and the rest of the GitLab community. No one should accept being mistreated.
 
-1. [Assume positive intent](/handbook/values/#assume-positive-intent) and explicitly state the strongest plausible interpretation of what someone says before you respond, not a weaker one that's easier to criticize. [Rapoport's Rules](https://rationalwiki.org/wiki/Rapoport%27s_Rules) also implores you to list points of agreement and mention anything you learned.
-1. Answer questions, thank people even if it’s just a few words. Make it a two way conversation.
-1. Appreciate suggestions and feedback.
-1. Don't make promises that you can't keep.
-1. Guide users who ask for help or give a suggestion and share links. [Improving Open Development for Everyone](/blog/2015/12/16/improving-open-development-for-everyone/), [Types of requests](/blog/2014/12/08/explaining-gitlab-bugs/).
-1. When facing negative comments, respond patiently and treat every user as an individual, people with the strongest opinions can turn into [the strongest supporters](/blog/2015/05/20/gitlab-gitorious-free-software/).
-1. By default, discussions in issues and MRs are public and could include participation of wider community members. It is important to make the wider community members feel welcome participating in discussions and sharing their view. Wider community members also submit [MRs to help improve our website/handbook](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&label_name[]=Community%20Contribution) and this is often their first contribution to GitLab. We want to make sure that we are responsive to their contributions and thank them for helping improve GitLab.
-1. Adhere to the [Code of Conduct](/community/contribute/code-of-conduct/) in all communication. Similarly, expect users to adhere to the same code when communicating with the GitLab team and the rest of the GitLab community. No one should accept being mistreated.
-
-## Writing Style Guidelines
+## Writing style guidelines
 
 1. {: #american-english} At GitLab, we use American English as the standard written language.
 1. Do not use rich text, it makes it hard to copy/paste. Use [Markdown](/handbook/markdown-guide/) to format text that is stored in a Git repository. In Google Docs use "Normal text" using the style/heading/formatting dropdown and paste without formatting.
-1. Don't use ALL CAPS because it [feels like shouting](https://en.wikipedia.org/wiki/All_caps#Association_with_shouting). However, there is the [`#all-caps` Slack channel](https://gitlab.slack.com/archives/C01BC085AVB) for your good-natured shouting needs.
+1. Do not use ALL CAPS because it [feels like shouting](https://en.wikipedia.org/wiki/All_caps#Association_with_shouting). However, there is the [`#all-caps` Slack channel](https://gitlab.slack.com/archives/C01BC085AVB) for your good-natured shouting needs.
 1. We use Unix style (lf) line endings, not Windows style (crlf), please ensure `*.md text eol=lf` is set in the repository's `.gitattributes` and run `git config --global core.autocrlf input` on your client.
-1. Always write a paragraph on a single line. Use soft breaks ("word wrap") for readability. Don't put in a hard return at a certain character limit (e.g., 80 characters) and don't set your IDE to automatically insert hard breaks. Merge requests for the blog and handbook are very difficult to edit when hard breaks are inserted.
+1. Always write a paragraph on a single line. Use soft breaks ("word wrap") for readability. Do not put in a hard return at a certain character limit (e.g., 80 characters) and don't set your IDE to automatically insert hard breaks. Merge requests for the blog and handbook are very difficult to edit when hard breaks are inserted.
 1. Do not create links like "here" or "click here". All links should have relevant anchor text that describes what they link to, such as: "GitLab CI source installation documentation". Using [meaningful links](https://www.futurehosting.com/blog/links-should-have-meaningful-anchor-text-heres-why/){:rel="nofollow noindex"} is important to both search engine crawlers (SEO) and accessibility for people with learning differences and/or physical disabilities.
    This guidance should be followed in all places links are provided, whether in the handbook, website, GoogleDocs, or any other content.
    Avoid writing GoogleDocs content which states - `Zoom Link [Link]`.
@@ -1029,13 +1036,13 @@ the general number (+1-415-761-1791), but be aware that this number simply guide
 
 ## Organization code names
 
-1. Listed in Google Sheet under 'Organization code names'
-1. To make it easier to recognize code names we base them on classic car models.
+- Listed in Google Sheet under 'Organization code names'
+- To make it easier to recognize code names we base them on classic car models.
 
 There are two types of code names:
 
-1. **Don't mention publicly** We can use code names anywhere we regularly share items in that medium with people outside the company: issue trackers, Group Conversations, etc. For these we don't have to use code names in things that are never published: SalesForce, Zuora, Zendesk, and verbal conversations.
-1. **Don't write down** there are organizations that we shouldn't write down anywhere.
+- **Do not mention publicly** We can use code names anywhere we regularly share items in that medium with people outside the company: issue trackers, Group Conversations, etc. For these we don't have to use code names in things that are never published: SalesForce, Zuora, Zendesk, and verbal conversations.
+- **Do not write down** there are organizations that we shouldn't write down anywhere.
 
 ## Ubiquitous language
 
@@ -1069,7 +1076,7 @@ We want to use MECEFU terms to describe a domain to ensure efficient communicati
 
 1. Mutually Exclusive: nothing is referenced by more than one term
 1. Collectively Exhaustive: everything is covered by one of the terms
-1. Few words: the longer terms are the more likely it is people will not use all of them and cause confusion, therfore consider two words as the upper limit for a single term. Avoid acronyms because they are hard to remember (we're open to a few words to replace MECEFU as an acronym :)
+1. Few words: the longer terms are the more likely it is people will not use all of them and cause confusion, therefore consider two words as the upper limit for a single term. Avoid acronyms because they are hard to remember (we're open to a few words to replace MECEFU as an acronym :)
 1. Ubiquitous language: [defined above](#ubiquitous-language)
 
 An example of a MECEFU term is our [sales segmentation](/handbook/sales/field-operations/gtm-resources/):
@@ -1081,7 +1088,7 @@ An example of a MECEFU term is our [sales segmentation](/handbook/sales/field-op
 
 One nit-pick is that the Medium of SMB and Mid of Mid-Market sound very similar.
 
-## Simple Language
+## Simple language
 
 {: #simple-language}
 
@@ -1124,7 +1131,7 @@ Corporate marketing maintains guidelines on [GitLab's tone of voice](/handbook/m
 | Getting buy-in/Getting alignment    | Asking for feedback since DRIs make decisions |
 | Synergy                             | Effective Collaboration                       |
 | Get all your ducks in a row         | Be organized                                  |
-| Don't let the grass grow too long   | Work quickly                                  |
+| Do not let the grass grow too long   | Work quickly                                  |
 | Leverage                            | Use more explicit phrasing- debt, etc.        |
 | Send it over the wall               | Share it with a customer                      |
 | Boil the ocean                      | Waste time                                    |
@@ -1146,8 +1153,6 @@ The last example is when we used 'Prioritizing for Global Optimization' for what
 As GitLab continues to grow, sharing knowledge across the community becomes even more important.
 The [Deep Dives page](/handbook/communication/deep-dives/) describes initiatives we are trying to encourage.
 This aligns with how we work since everything at GitLab is [public by default](/handbook/values/#public-by-default).
-
--- specific comms tools
 
 ## Email
 
@@ -1172,36 +1177,40 @@ We have a low internal email culture, as we see greater efficiency in other form
 
 Slack is used for:
 
-1. Internal-only communication and announcements impacting all team members
-1. Company newsletters and team updates
-1. Asynchronous team standups, questions, and quick collaboration
-1. Informal communication
+- Internal-only communication and announcements impacting all team members
+- Company newsletters and team updates
+- Asynchronous team standups, questions, and quick collaboration
+- Informal communication
 
 Use a [bias for action](/handbook/values/#bias-for-action) to quickly move conversations that require collaboration and action out of Slack and into an issue.
 
 Only 90 days of Slack activity will be retained, so Slack should specifically NOT be used for:
 
-1. obtaining approvals;
-1. documenting decisions;
-1. storing official company records or documents; or
-1. sharing personal or sensitive information regarding any individuals
-
+- Obtaining approvals
+- Documenting decisions
+- Storing official company records or documents
+- Sharing personal or sensitive information regarding any individuals
 
 Internal Slack messages between team members are still considered professional communication. Please do not use or add emoji's to Slack that are of a political, religious or of a sexual nature. You can refer to the [Religion and politics at work](/handbook/values/#religion-and-politics-at-work) section of the handbook. When in doubt do not use or add the emoji. If you have any concerns about an emoji that was used, please reach out to the author or if you are not comfortable doing so please reach out to your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 
-### Avoid Direct messages
+### Avoid direct messages
 
 **Note:** We don't use the term _private message_, because these _direct messages_ are not inherently _private_ like a phone call or private letter. The messages are potentially accessible by Workspace admins or via Backups. Slack refers to these types of messages as [direct messages themselves](https://slack.com/intl/en-de/help/articles/212281468-What-is-a-direct-message).
 
-1. When using Slack for work-related purposes, please avoid direct messages. [Direct messages discourage collaboration](http://blog.flowdock.com/2014/04/30/beware-of-private-conversations/). You might actually be contacting the wrong person, and they cannot easily redirect you to the right person. If the person is unavailable at the moment, it is less efficient because other people cannot jump in and help. Use a public channel and mention the person or group you want to reach. This ensures it is easy for other people to chime in, involve other people if needed, and learn from whatever is discussed.
-1. If someone sends you a work-related direct message, it is okay to let them know you'd like to take the conversation to a public channel, linking to this section of the handbook. The process might look something like:
-   1. In the direct message: `Thanks for reaching out, that's a great question/idea I think the rest of the team could benefit from. I'm going to move this to #public-channel based on [our desire to avoid direct messages](/handbook/communication/#avoid-direct-messages)`
-   1. In the appropriate public channel: `@Person asked "question" in a DM, pulling that out here if anyone else has input.`
-   1. Answer the question in a thread on that channel message, allowing others to benefit.
-1. If you find yourself getting a lot of direct messages that should go in a public channel, consider changing your Slack status to an attention grabbing emoji and set it to something like:
-   1. `Please consider posting in a public channel before direct messaging`
-   1. `Why direct message me when you can post in a public channel?`
-1. If you must send a work-related direct message, don't start a conversation with "Hi" or "Hey" as that interrupts their work without communicating anything. If you have a quick question, just ask the question directly, and the person will respond asynchronously. If you truly need to have a synchronous communication, then start by asking for that explicitly, while mentioning the subject. e.g., "I'm having trouble understanding issue #x, can we talk about it quickly?".
+When using Slack for work-related purposes, please avoid direct messages. [Direct messages discourage collaboration](http://blog.flowdock.com/2014/04/30/beware-of-private-conversations/). You might actually be contacting the wrong person, and they cannot easily redirect you to the right person. If the person is unavailable at the moment, it is less efficient because other people cannot jump in and help. Use a public channel and mention the person or group you want to reach. This ensures it is easy for other people to chime in, involve other people if needed, and learn from whatever is discussed.
+
+If someone sends you a work-related direct message, it is okay to let them know you'd like to take the conversation to a public channel, linking to this section of the handbook. The process might look something like:
+
+- In the direct message: `Thanks for reaching out, that's a great question/idea I think the rest of the team could benefit from. I'm going to move this to #public-channel based on [our desire to avoid direct messages](/handbook/communication/#avoid-direct-messages)`
+- In the appropriate public channel: `@Person asked "question" in a DM, pulling that out here if anyone else has input.`
+- Answer the question in a thread on that channel message, allowing others to benefit.
+
+If you find yourself getting a lot of direct messages that should go in a public channel, consider changing your Slack status to an attention grabbing emoji and set it to something like:
+
+- `Please consider posting in a public channel before direct messaging`
+- `Why direct message me when you can post in a public channel?`
+
+If you must send a work-related direct message, don't start a conversation with "Hi" or "Hey" as that interrupts their work without communicating anything. If you have a quick question, just ask the question directly, and the person will respond asynchronously. If you truly need to have a synchronous communication, then start by asking for that explicitly, while mentioning the subject. e.g., "I'm having trouble understanding issue #x, can we talk about it quickly?".
 
 #### Do not use group direct messages
 
@@ -1216,9 +1225,9 @@ As we grow headcount, we exponentially increase the lines of communication- 3 pe
 As a result, there is a natural tendency for people to prefer private channels of communication.
 The intentions are good, as people are looking to reduce noise for others, but this can lead to the same problems as described elsewhere on this page, notably:
 
-1. communication is siloed
-1. as we grow, people may be reaching out to the wrong person
-1. if you have a question, other people might have it too
+- Communication is siloed.
+- As we grow, people may be reaching out to the wrong person.
+- If you have a question, other people might have it too.
 
 Slack is our primary source of chat communication and is where many personal interactions happen.
 We want to continue to encourage folks to build personal relationships with one another which will often happen over DMs.
@@ -1237,32 +1246,37 @@ Earlier in our history, 50% of all communication _was_ in public channels.
 
 <iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/770f45e7-ca4d-417f-a3db-9dfc4403e24d?embed=true" height="700"> </iframe>
 
-### Use Public Channels
+### Use public channels
 
-1. If you use Slack and plan to message 3 or more people, we recommend a channel for customer/issue/project/problem/partnership.
-1. Learn about [common channels and channel-naming conventions](/handbook/communication/chat/).
-1. If something is important but not urgent - like complimenting or encouraging the entire team - use email or post in the channel without `@`-mentioning the team.
-1. It's not rude to leave a channel. When you've had your questions answered or are no longer interested, feel free to leave the channel so it won't distract you anymore.
-1. The usage of ChatBots for integrations can sometimes depend upon the name of the channel. You should consult the channel about such integrations before changing the name of commonly used/popular channels to avoid inadvertently breaking integrations.
+- If you use Slack and plan to message 3 or more people, we recommend a channel for customer/issue/project/problem/partnership.
+- Learn about [common channels and channel-naming conventions](/handbook/communication/chat/).
+- If something is important but not urgent - like complimenting or encouraging the entire team - use email or post in the channel without `@`-mentioning the team.
+- It's not rude to leave a channel. When you've had your questions answered or are no longer interested, feel free to leave the channel so it won't distract you anymore.
+- The usage of ChatBots for integrations can sometimes depend upon the name of the channel. You should consult the channel about such integrations before changing the name of commonly used/popular channels to avoid inadvertently breaking integrations.
 
 ### Be respectful of your own time
 
-1. You should try to avoid information overload in order to be productive and efficient with your time. While it can be tempting to read every message in every Slack channel you subscribe to, it’s very challenging, not expected, and not necessary.
-1. One method for avoiding Slack overload is to focus your Slack reading on [Starred channels](https://slack.com/intl/en-nl/help/articles/201331016-Star-channels-and-direct-messages) and [Threads](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-). Starred channels are like "favorites" and allow you to follow messages from those channels easily. Threads consist of any conversation in which you are mentioned and allow you to easily track conversations in which you have direct involvement.
-1. Use your notification settings liberally. Depending on how you use Slack this could range from limiting notifications to critical messages outside of your working hours to turning off Slack notifications entirely. Find the right balance for you and stick to it.
+You should try to avoid information overload in order to be productive and efficient with your time. While it can be tempting to read every message in every Slack channel you subscribe to, it’s very challenging, not expected, and not necessary.
+
+One method for avoiding Slack overload is to focus your Slack reading on [Starred channels](https://slack.com/intl/en-nl/help/articles/201331016-Star-channels-and-direct-messages) and [Threads](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-). Starred channels are like "favorites" and allow you to follow messages from those channels easily. Threads consist of any conversation in which you are mentioned and allow you to easily track conversations in which you have direct involvement.
+
+Use your notification settings liberally. Depending on how you use Slack this could range from limiting notifications to critical messages outside of your working hours to turning off Slack notifications entirely. Find the right balance for you and stick to it.
 
 ### Be respectful of others' time
 
-1. Start by understanding what we mean by respecting time. We should err toward putting material into channels over DMs and public channels over private channels even though we understand that this will generate more messages that can be read by more people. Respecting time is not about reducing the overall volume of channel messages that team members receive. It's about making sure that messages are targeted, expectations for asynchronous responses are clear, and we are communicating with consideration. The following tips provide ways to work respectfully with others given this context.
-1. If you're only referring to someone, but don't actually need their attention, and want to spare them from getting notified, spell out their name normally without `@` mentioning them.
-1. Slack messages should be considered asynchronous communication, and you should not expect an instantaneous response; you have no idea what the other person is doing.
-1. Because we work globally, you may receive Slack mentions at any time of day. Please consider enabling [Slack's Do not disturb functionality](https://slack.com/intl/en-ie/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb) so you don't get interrupted, for example, in your offtime. You can also use Slack's Notification schedule tool, this can be found in Slack's Preferences tab. To access this, open Slack, hover your cursor at the top of your screen, click Slack, then preferences, under the notifications tab you will see notification schedule. This tool allows you to pick what days / times you get notifications.
-1. Do not feel obligated to respond to Slack messages when you are not working.
-1. Feel free to send a colleague a link to these guidelines if the communication in Slack should be done **asynchronously**.
-1. **Please avoid using @here or @channel unless this is about something urgent and important.** In chat, try to keep the use of keywords that mention the whole channel to a minimum. They should only be used for pings that are both urgent and important, not just important. By overusing channel mentions, you make it harder to respond to personal mentions promptly since people get pinged too frequently. Additionally, if you are planning to `@mention` a specific team ([Slack User Group](https://get.slack.help/hc/en-us/articles/212906697-Create-a-user-group#browse-user-groups-and-view-members)), consider the size of the group you are mentioning ([see group membership](https://gitlab.com/gitlab-com/security-tools/report-slack-group-members)) and the impact of pinging all of these people for the particular situation. If something is urgent and important:
-   1. Use `@here` to notify all currently _active_ members in the room. Please only use `@here` if the message is important _and_ urgent.
-   1. Use `@channel` to notify _ALL_ members in the room, irrespective of away status. Please only use `@channel` if the message is important _and_ urgent.
-1. If you are aware that your teammate is on vacation, avoid mentioning them in a high volume channel. It will be difficult to find the information or question when they return. If you need to ensure they refer back to the thread, ensure to send them a link to the relevant Slack message through a direct message.
+Start by understanding what we mean by respecting time. We should err toward putting material into channels over DMs and public channels over private channels even though we understand that this will generate more messages that can be read by more people. Respecting time is not about reducing the overall volume of channel messages that team members receive. It's about making sure that messages are targeted, expectations for asynchronous responses are clear, and we are communicating with consideration.
+
+The following tips provide ways to work respectfully with others given this context:
+
+- If you're only referring to someone, but don't actually need their attention, and want to spare them from getting notified, spell out their name normally without `@` mentioning them.
+- Slack messages should be considered asynchronous communication, and you should not expect an instantaneous response; you have no idea what the other person is doing.
+- Because we work globally, you may receive Slack mentions at any time of day. Please consider enabling [Slack's Do not disturb functionality](https://slack.com/intl/en-ie/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb) so you don't get interrupted, for example, in your offtime. You can also use Slack's Notification schedule tool, this can be found in Slack's Preferences tab. To access this, open Slack, hover your cursor at the top of your screen, click Slack, then preferences, under the notifications tab you will see notification schedule. This tool allows you to pick what days / times you get notifications.
+- Do not feel obligated to respond to Slack messages when you are not working.
+- Feel free to send a colleague a link to these guidelines if the communication in Slack should be done **asynchronously**.
+- **Please avoid using @here or @channel unless this is about something urgent and important.** In chat, try to keep the use of keywords that mention the whole channel to a minimum. They should only be used for pings that are both urgent and important, not just important. By overusing channel mentions, you make it harder to respond to personal mentions promptly since people get pinged too frequently. Additionally, if you are planning to `@mention` a specific team ([Slack User Group](https://get.slack.help/hc/en-us/articles/212906697-Create-a-user-group#browse-user-groups-and-view-members)), consider the size of the group you are mentioning ([see group membership](https://gitlab.com/gitlab-com/security-tools/report-slack-group-members)) and the impact of pinging all of these people for the particular situation. If something is urgent and important:
+  - Use `@here` to notify all currently _active_ members in the room. Please only use `@here` if the message is important _and_ urgent.
+  - Use `@channel` to notify _ALL_ members in the room, irrespective of away status. Please only use `@channel` if the message is important _and_ urgent.
+- If you are aware that your teammate is on vacation, avoid mentioning them in a high volume channel. It will be difficult to find the information or question when they return. If you need to ensure they refer back to the thread, ensure to send them a link to the relevant Slack message through a direct message.
 
 ### Managing noise and creating focus in Slack
 
@@ -1295,7 +1309,7 @@ Below are helpful links to best practices and tips on managing your notification
 
 Building dedicated time into your day can help minimize the distractions that Slack can create. Consider using a 15 or 30 minute block in your morning or afternoon to enjoy a cup of coffee and catch up on messages you might have missed. When the time you set comes to an end, close out of the Slack app and move on to your next project. Having a set end time can help you feel more in control, and serves as a reminder that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything)
 
-### General Guidelines
+### General guidelines
 
 1. Everyone can contribute, and while opinions are important to provide perspective, we value [proposals](https://about.gitlab.com/handbook/values/#make-a-proposal) and [iteration](https://about.gitlab.com/handbook/values/#iteration). If the subject is of value to the wider community, consider commenting on an existing issue or opening a new [merge request](#everything-starts-with-a-merge-request) instead.
 1. Use the `:white_check_mark:` emoji or similar to indicate an inquiry has been answered. Anyone can add the emoji. If you're not sure, then feel free to leave it up to the person who asked. An emoji indicator is particularly helpful in channels where lots of questions are posted, such as `#questions`, and `#git-help`.
@@ -1303,7 +1317,7 @@ Building dedicated time into your day can help minimize the distractions that Sl
 1. In public channels, [threads](https://get.slack.help/hc/en-us/articles/115000769927-Message-threads) are valuable for keeping conversations together. If you want to respond to a question or comment in a channel, please start a thread instead of responding below them in the channel. This helps to keep the discussion in one place where it is easy to follow, and reduces noise as each message in a thread does not result in an unread message for everyone in the channel.
 1. Unless you're in an active chat, don't break up a topic into multiple messages as each one will result in a notification which can be disruptive. Use [threads](https://get.slack.help/hc/en-us/articles/115000769927-Message-threads) if you want to provide extra info to the question/comment you posted.
 1. If you are having a hard time keeping up with messages, you can update your preferences to have Slack email you all notifications. To change the setting, go to `Preferences > Notifications > When I'm not active on desktop...` and "send me email notifications."
-1. If you agree in a message to start a video call (typically by asking "Call?") the person that didn't leave the last comment starts the call. So either respond to the "Call?" request with a video link or say "Yes" and let the other person start it. Don't say "Yes" and start a call 5 seconds later since it is likely you'll both be creating a video call link at the same time.
+1. If you agree in a message to start a video call (typically by asking "Call?") the person that didn't leave the last comment starts the call. So either respond to the "Call?" request with a video link or say "Yes" and let the other person start it. Do not say "Yes" and start a call 5 seconds later since it is likely you'll both be creating a video call link at the same time.
 1. As an admin of the Slack workspace, if given the option to _"Disable future attachments from this website"_ when removing an attachment from a message **this will block the link/domain from [unfurling](/handbook/tools-and-tips/#unfurling-links-in-messages) in the entire Slack workspace**. Be careful and deliberate when choosing this option as it will impact every user in the workspace.
 1. When referencing a Slack thread in a GitLab.com issue, don't _only_ link to the thread. Not only will people outside of the GitLab organization be unable to access the content, but the link will expire after the Slack retention period expires. Instead:
    1. **Review the contents** for confidentiality of users, customers, or any other sensitive information before posting.
@@ -1393,7 +1407,7 @@ For additional questions, please address in the [issue](https://gitlab.com/gitla
 
 #### Need to add a new app to Slack
 
-GitLab has chosen to restrict the ability to install apps, and we have a process to approve or restrict certain apps for our workspace. In order to add a new app to Slack, you need to create a [vendor approval issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=app_integrations). Once that's approved by all parties, please request approval to add the app to Slack following the steps below:
+GitLab has chosen to restrict the ability to install apps, and we have a process to approve or restrict certain apps for our workspace. In order to add a new app to Slack, you need to create a [vendor approval issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=app_integrations). Once that's approved by all parties, please request approval to add the app to Slack:
 
 1. Make sure the app hasn't been pre-approved by our team by clicking on Apps in the left sidebar and find Available Apps. To find pre-approved apps in the App Directory, click Pre-Approved below Categories in the left column.
 1. If the app isn't pre-approved, you can click on Add to Slack.
@@ -1402,13 +1416,13 @@ GitLab has chosen to restrict the ability to install apps, and we have a process
 
 **Please note that this is only required for new apps that have not been reviewed or approved.** If your request is to add a new process or update an existing process for how an application works in slack, please refer to our [Business Technology Change Management](/handbook/business-technology/change-management/) process.
 
-### Emergency Chat
+### Emergency chat
 
 #### Slack is down
 
 {:.no_toc}
 
-Use the "Slack Down!" group chat on Zoom.
+To use the "Slack Down!" group chat on Zoom:
 
 1. In the Zoom desktop app go to the _Contacts_ tab
 1. Click `+`
@@ -1422,7 +1436,7 @@ Once service is restored, go back to Slack.
 
 {:.no_toc}
 
-Use Slack calls.
+To use Slack calls:
 
 1. Navigate to the appropriate Slack channel or direct message.
 1. Use `/call` to trigger a call.
@@ -1441,7 +1455,7 @@ Once service is restored, go back to Slack and Zoom.
 
 Never use a Google Doc / Presentations for something non-confidential that has to end up on the website or the **handbook**. Work on these edits via commits to a merge request. Then link to the merge request or diff to present the change to people. This prevents a duplication of effort and/or an out of date handbook.
 
-### Link Sharing
+### Link sharing
 
 If you _do_ need a Google Doc, create one with your company Google Workspace (formerly G Suite)
 account and set the visibility and access controls according to the following guidelines.
@@ -1466,20 +1480,19 @@ To our knowledge, it is not possible to set the default to **Can Edit** and you 
 
 Reference Google's [documentation](https://support.google.com/drive/answer/2494822?visit_id=637102981721473693-3129607436&p=link_sharing_options&hl=en&rd=1#link_sharing) on Link Sharing to learn more.
 
-### Good Practices & Helpful Tips
+### Good practices & helpful tips
 
-1.  If you have content in a Google Doc that is later moved to the website or handbook, [deprecate the Google Doc](#how-to-deprecate-a-google-doc).
-1.  When referring to a Google Doc or folder on the Google Drive in the handbook, refrain from directly linking it. Instead, indicate the name of the doc. If you link the URL people from outside the organization can request access, creating workload and the potential for mistakes. (In the past, linking a Google Doc has led to inadvertently opening the sharing settings beyond what was intended.) This also helps prevent spam from people outside GitLab requesting access to a doc when clicking its link. To save people time you can also [link to the search results page](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22) which allows people to quickly get to the doc without anyone being able to request access. If there are multiple documents showing up in the search, you may filter your [search link by adding the owner.](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22%20owner:email%40gitlab.com)
-
-1.  If you are having trouble finding a shared Google Doc, make sure you [Search &lt;your domain&gt;](https://support.google.com/a/answer/3187967?hl=en) in Google Drive.
-1.  In our handbook, if you find yourself wondering whether it is better to provide a public link to a Google Doc vs. writing out the content on the website, use the following guideline: Is this document frequently adapted / customized? If yes, then provide a link, making sure that the document can be _commented on_ by _anyone_ with the link. For instance, this is how we share our employment [contracts](/handbook/contracts/). If the document is rarely customized, then provide the content directly on the site and deprecate the Google Doc.
-1.  If you want to quickly find where a team member's cursor is in a Google Doc, click their icon at the top of the document and the app will jump you to the current location. This works in Sheets and Presentations as well.
-1.  You can set the notifications on a Google Doc so you only get emailed when someone tags you directly instead of getting emails for every comment. Click on "notifications" and select "Only yours". By the way, when you create the doc, it defaults to All, but when you are just shared with it, it defaults to Only yours. There is [no global default](https://productforums.google.com/forum/#!msg/docs/1C3PZX1AY7Q/6EXXQKQSPCMJ).
+-  If you have content in a Google Doc that is later moved to the website or handbook, [deprecate the Google Doc](#how-to-deprecate-a-google-doc).
+-  When referring to a Google Doc or folder on the Google Drive in the handbook, refrain from directly linking it. Instead, indicate the name of the doc. If you link the URL people from outside the organization can request access, creating workload and the potential for mistakes. (In the past, linking a Google Doc has led to inadvertently opening the sharing settings beyond what was intended.) This also helps prevent spam from people outside GitLab requesting access to a doc when clicking its link. To save people time you can also [link to the search results page](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22) which allows people to quickly get to the doc without anyone being able to request access. If there are multiple documents showing up in the search, you may filter your [search link by adding the owner.](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22%20owner:email%40gitlab.com)
+-  If you are having trouble finding a shared Google Doc, make sure you [Search &lt;your domain&gt;](https://support.google.com/a/answer/3187967?hl=en) in Google Drive.
+-  In our handbook, if you find yourself wondering whether it is better to provide a public link to a Google Doc vs. writing out the content on the website, use the following guideline: Is this document frequently adapted / customized? If yes, then provide a link, making sure that the document can be _commented on_ by _anyone_ with the link. For instance, this is how we share our employment [contracts](/handbook/contracts/). If the document is rarely customized, then provide the content directly on the site and deprecate the Google Doc.
+-  If you want to quickly find where a team member's cursor is in a Google Doc, click their icon at the top of the document and the app will jump you to the current location. This works in Sheets and Presentations as well.
+-  You can set the notifications on a Google Doc so you only get emailed when someone tags you directly instead of getting emails for every comment. Click on "notifications" and select "Only yours". By the way, when you create the doc, it defaults to All, but when you are just shared with it, it defaults to Only yours. There is [no global default](https://productforums.google.com/forum/#!msg/docs/1C3PZX1AY7Q/6EXXQKQSPCMJ).
     ![Google Doc Notifications](./google-docs-notifications.png)
-1.  You can find a template of the [GitLab letterhead](https://docs.google.com/document/d/1gN1Z2FHPIfPk7QLIey1KF9dR1yTl0R7QrMSb5_Iqfh4/edit) on the shared Google Drive. Please be sure to make a copy of the document to your Google Drive before customizing the template for your use.
-1.  If you want to have the Google Doc be readable to the public, do not change the sharing settings from 'Editable by Everyone at GitLab', [publish the document](#how-to-publish-a-google-doc) instead.
-1.  In all cases, the sharing settings (who a document is shared with, if it is visible to the whole company, etc.) on a Google Doc should be the single source of truth for the confidentiality of the document.
-1.  Avoid using your initials when adding content to Google Docs or referring to someone else. Use your full name, as Google Docs [Smart Compose](https://support.google.com/docs/answer/9643962?hl=en) will auto-complete names for you, and display information about the GitLab team member on hover. It makes documents more readable and consumable, especially for people outside your team/department.
+-  You can find a template of the [GitLab letterhead](https://docs.google.com/document/d/1gN1Z2FHPIfPk7QLIey1KF9dR1yTl0R7QrMSb5_Iqfh4/edit) on the shared Google Drive. Please be sure to make a copy of the document to your Google Drive before customizing the template for your use.
+-  If you want to have the Google Doc be readable to the public, do not change the sharing settings from 'Editable by Everyone at GitLab', [publish the document](#how-to-publish-a-google-doc) instead.
+-  In all cases, the sharing settings (who a document is shared with, if it is visible to the whole company, etc.) on a Google Doc should be the single source of truth for the confidentiality of the document.
+-  Avoid using your initials when adding content to Google Docs or referring to someone else. Use your full name, as Google Docs [Smart Compose](https://support.google.com/docs/answer/9643962?hl=en) will auto-complete names for you, and display information about the GitLab team member on hover. It makes documents more readable and consumable, especially for people outside your team/department.
 
 ### How to publish a Google Doc
 
@@ -1525,24 +1538,24 @@ Please visit a detailed guide covering [everything you need to know about hostin
 
 We recommend you set your Google Calendar access permissions to 'Make available for GitLab - See all event details'. Consider marking the following appointments as 'Private':
 
-1. Personal appointments.
-1. Confidential & sensitive meetings with third-parties outside of GitLab.
-1. 1-1 performance or evaluation meetings.
-1. Meetings on organizational changes.
+- Personal appointments
+- Confidential & sensitive meetings with third-parties outside of GitLab
+- 1-1 performance or evaluation meetings
+- Meetings on organizational changes
 
 There are several benefits and reasons to sharing your calendar with everyone at GitLab:
 
-1. Transparency is one of our values and sharing what you work on is in line with our message of "be open about as many things as possible".
-1. Due to our timezone differences, there are small windows of time when our availabilities overlap. If other members need to schedule a new meeting, seeing the details of recurring meetings (such as 1-1s) will allow for more flexibility in scheduling without needing to wait for a confirmation from the team member. This speaks to our value to be more efficient.
+- Transparency is one of our values and sharing what you work on is in line with our message of "be open about as many things as possible".
+- Due to our timezone differences, there are small windows of time when our availabilities overlap. If other members need to schedule a new meeting, seeing the details of recurring meetings (such as 1-1s) will allow for more flexibility in scheduling without needing to wait for a confirmation from the team member. This speaks to our value to be more efficient.
 
 ![Google Calendar - make calendar available setting](/images/handbook/tools-and-tips/google-calendar-share.png)
 
 If you add blocks of time spent on recurring tasks to your Google Calendar to remind yourself to do things (e.g. "Check Google Analytics"), consider marking yourself "Free" for those events so that coworkers know they may schedule a meeting during that time if they can't find another convenient time.
 
-## Posting or Streaming to YouTube
+## Posting or streaming to YouTube
 
 See the [YouTube page](/handbook/marketing/marketing-operations/youtube/) for options and instructions for posting recordings and live streaming to our YouTube channels.
 
-## GitLab Communication Knowledge Assessment
+## GitLab Communication knowledge assessment
 
 Anyone can test their knowledge on GitLab Communication. To obtain a certificate, you will need to complete this [knowledge assessment](https://gitlab.edcast.com/pathways/ECL-b01718a2-192c-4e0c-9852-31115b1e054f) and earn at least an 80%. Once the quiz has been passed, you will receive an email with your certificate that you can share on your personal LinkedIn or Twitter pages. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
