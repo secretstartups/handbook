@@ -80,16 +80,16 @@ Select these [SA] Activity types when capturing activities by the Strategic Fiel
 
 Select these [SA] Activity types when capturing activities by the Alliance/Channel team but other activity types for Enterprise can also be used.
 
-- **Partner Enablement [Alliances][Channel]** - Calls, meetings, workshops, webinars to enable partners on GitLab product and pre-sales.
+- **Partner Enablement** [Alliances][Channel] - Calls, meetings, workshops, webinars to enable partners on GitLab product and pre-sales.
 
-- **Partner Services Attach [Channel]** - Develop partner services catalog and/or SoW for specific services engagements.
+- **Partner Services Attach** [Channel] - Develop partner services catalog and/or SoW for specific services engagements.
 
 - **Partner Opportunity** - Work alongside field SA on specific sales opportunities with a partner involvement. This includes being an overlay SME on partner technologies and its joint value proposition with GitLab and/or helping a channel/services partner become successful with joint customers.
 
-- **Partner Technical Evangelism [Alliances][Channel]** - Partner marketing events and evangelism, including conferences, meetups, webinars, open-invite bootcamps, blogs and customer success stories.
+- **Partner Technical Evangelism** [Alliances][Channel] - Partner marketing events and evangelism, including conferences, meetups, webinars, open-invite bootcamps, blogs and customer success stories.
 
-- **Partner Cadence calls [Channel][Alliances]** - Cadence calls with partners for partnership building and pre sales activities on customer opportunities and account strategy.  
+- **Partner Cadence calls** [Channel][Alliances] - Cadence calls with partners for partnership building and pre sales activities on customer opportunities and account strategy.  
 
-- **Partner Solutioning [Alliances]** - Solution architecture work for defining and developing partner solutions and integration with GitLab.
+- **Partner Solutioning** [Alliances] - Solution architecture work for defining and developing partner solutions and integration with GitLab.
 
-- **Internal Enablement and SME Assistance [Alliances]** - Calls, meetings, webinars for internal field SA enablement and assistance.  
+- **Internal Enablement and SME Assistance** [Alliances] - Calls, meetings, webinars for internal field SA enablement and assistance.  
