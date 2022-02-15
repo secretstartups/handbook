@@ -167,7 +167,7 @@ Though emojis have commonly been reserved for personal conversations that occur 
 
 > Using emoticons, emoji, and stickers can supplement the lack of human nonverbal cues in computer-mediated environment. The [results](https://link.springer.com/chapter/10.1007/978-981-10-8896-4_16?mod=article_inline) show that proper use of emoticons, emoji, and stickers, especially positive emoticons, is conducive to both relationship formation and cognitive understanding. They not only help participants express emotions and manage interrelations but also function as words to aid message comprehension. - *Ying Tang and Khe Foon Hew, researchers at the University of Hong Kong*
 
-Too, emojis can create a more [inclusive](/company/culture/inclusion/) communication environment. When you're working with colleagues where the de facto business language isn't someone's first language, more universal indicators (e.g. "eyes" for "I've seen this" or "smile" for positivity) can reduce the mental burden of deciphering a message.
+Emojis can create a more [inclusive](/company/culture/inclusion/) communication environment. When you're working with colleagues where the de facto business language isn't someone's first language, more universal indicators (e.g. "eyes" for "I've seen this" or "smile" for positivity) can reduce the mental burden of deciphering a message.
 
 Consider also using the [Giphy](https://slack.com/help/articles/204714258-Giphy-in-Slack) Slack app to communicate. The app lets you search a library of animated GIFs and send them in Slack.
 
