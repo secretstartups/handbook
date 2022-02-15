@@ -28,15 +28,21 @@ We will be executing in 4 key areas in support of the company's broader [dual-fl
 
 flowchart LR
   subgraph moreContributions["More Contributions"]
-    improveVelocity["Improve Contribution Velocity"]
+    contributorIncrease("Contributor Increase")
+    contributionIncrease("Contribution Increase")
     increaseValue["Increase Contribution Value"]
-    expandOutreach["Expand Outreach"]
+    improveVelocity["Improve Contribution Velocity"]
     scaleCommunity["Scale the Community"]
-    improveVelocity<-->increaseValue
-    increaseValue<-->expandOutreach
-    expandOutreach<-->scaleCommunity
+    expandOutreach["Expand Outreach"]
+    scaleCommunity-->improveVelocity
+    scaleCommunity-->increaseValue
+    expandOutreach-->scaleCommunity
+    increaseValue-->contributionIncrease
+    improveVelocity-->contributorIncrease
   end
-  style moreContributions fill:,stroke-dasharray: 5 5
+  style moreContributions stroke-dasharray: 5 5
+  style contributionIncrease fill:,stroke-width:4px
+  style contributorIncrease fill:,stroke-width:4px
   click improveVelocity "#improve-contribution-velocity"
   click increaseValue "#increase-contribution-value"
   click expandOutreach "#expand-outreach"
@@ -47,25 +53,35 @@ flowchart LR
 
 ### Improve Contribution Velocity
 
-Provide an outstanding and efficient contributor experience, from onboarding materials to final merge.
+Provide an outstanding and efficient contributor experience, from onboarding materials to final merge. Improve Contributor Journey, making it easier and efficient to contribute. Gather feedback from Wider community contributors and product teams on contribution friction.
 
 #### Reduce Open Community MR Age
 
-Improve the speed of contribution to production by reducing [Open community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age) & review time. We have identified product groups with the highest open contribution MR age. On-going analysis and improvements are needed to address product groups with the biggest opportunity.   
+Improve the speed of contribution to production by reducing [Open community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age) & review time. We have identified product groups with the highest open contribution MR age. Analysis and improvements are needed to address product groups with the biggest opportunity. In addtition to improving MR review and gathering feedback.  
 
-Epic: https://gitlab.com/groups/gitlab-com/quality/-/epics/1 
+Epic: [https://gitlab.com/groups/gitlab-com/quality/-/epics/1]( https://gitlab.com/groups/gitlab-com/quality/-/epics/1)
 
 #### Simplify & improve contribution guides 
 
+Make contribution guides easy to navigate.
+
 #### Improve contribution tooling
 
+### Increase Contribution Value
 
-- **Outstanding contributor experience** Smooth, effective and scalable contributor experience.
-  - Improve Community Contributor Productivity
-     - Streamline contributrion review and feedback process
-     - Improve tooling efficiency
-  - Improve Contributor Journey, making it easier and efficient to contribute
-  - Gather feedback from Wider community contributors and product teams on contribution friction
+Incentivise, attract and retain contributors by providing a compelling value and regular recognition of contributors for their work. Contributor career advancement materials and awards.
+
+### Expand Outreach
+
+Increase awareness with content and events to drive large amounts of contributors. Our outreach efforts so far have been limited. Engineering to work along side Community Relations in expanded outreach events 
+
+### Scale the Community
+
+Leverage the full-time customer contributor model and create wider community teams for rapid growth.
+
+
+
+
 - **Contributor inspiration, awareness and incentivization** Regular incentivization of content to inspire contributors. Testimonials from existing contributors
   - Contributor recognition. Harmonize, redesign, promote existing “Hall of Fame” pages (MVP, Heroes, Top annual contributors)
   - Active outreach to partners and customers. Partner with TAM team to launch certification and training resources
@@ -78,18 +94,18 @@ Epic: https://gitlab.com/groups/gitlab-com/quality/-/epics/1
   - Ensure accuracy of performance indicators and contributor tracking      
 - **Partnerships**
   - Establish Engineering to Engineering liaisons and partnerships
-  -  Engineering representative that can ride along with the evangelist and program manager. Full time presentation. 
+  - Engineering representative that can ride along with the evangelist and program manager. Full time presentation. 
   - Outreach to other OSS projects 
   - Work alongside Contributor Program Manager in outreach efforts
   - Cross coach Community Contribution teams on the technical aspects 
 
-## Contribution Acceleration Goals
+## Communitu Performance Indicator Goals
 
 We aim to increase the focus on our community contributions. Below is a timeline
 on how we will measure and track this goal.
 
 - **[Unique Wider Community Contributors per Month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)**
-    - Target to increase to be greater than 150 per month by EOFY22
+    - Target: increase to be greater than 200 per month by FY23Q4
     - Activities:
         - Partnership with Community Relations and Technical Marketing team.
         - Hold community office hours
@@ -97,19 +113,19 @@ on how we will measure and track this goal.
         - Allow running of QA tests from forks
         - Shorten the CI runtime for community contributions (in forks)
 - **[Community Coaches per Month](/handbook/engineering/quality/performance-indicators/#community-mr-coaches-per-month)**
-    - Target to increase to be greater than 50 per month by EOFY22
+    - Target: increase to be greater than 50 per month by FY23Q3
     - Activities:
       - Work with Development Department (Christopher L, VP of Development) for volunteers.
       - Work with UX Department (Christie L, VP of UX) Christie for volunteers.
       - Refresh MR coaches as “Community coaches” so non-code review work can be encouraged (design, etc)
       - Launch training materials for coaches
 - **[Community Contribution MRs as Features per Month](/handbook/engineering/quality/performance-indicators/#community-contribution-mrs-added-as-features-per-month)**
-    - Target to increase by 30% by EOFY22
+    - Target: increase to 30% by FY23Q2
     - Activities:
         - Encourage features at Community relations hackathons.
         - Published list of feature issues with Marketing team.
-- **[Community Contribution MTTM](/handbook/engineering/quality/performance-indicators/#community-contribution-mean-time-to-merge)**
-    - Target to decrease to be lower than 10 days by EOFY22
+- **[Open Community MR Age](/handbook/engineering/quality/performance-indicators/#community-contribution-mean-time-to-merge)**
+    - Target: decrease to lower than 30 days by FY23Q4
     - Activities:
         - Shorten CI time
         - Improve Community Contribution automation
@@ -117,7 +133,7 @@ on how we will measure and track this goal.
         - Increase number of coaches
         - Partner with Engineering Productivity to provide feedback to improve contribution tooling (currently GDK).
 - **[MRARR](/handbook/engineering/quality/performance-indicators/#mrarr)**
-    - Target to increase to 1B MR$ by EOFY23
+    - Target: increase to 400M MR$ by FY23Q4
     - Activities:
         - Reach out to top tier enterprise customers
         - Partner with TAMs to enlist and facilitate contribution from paid customers
