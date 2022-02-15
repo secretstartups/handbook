@@ -43,29 +43,34 @@ Process to be added below.
 ### R&D Roles
 
 | DRI | Role |
-| --- | --- | 
+| --- | --- |
 | [Mek Stittri](https://about.gitlab.com/company/team/#meks) | Engineering DRI |
-| [Kenny Johnston](https://about.gitlab.com/company/team/#kencjohnston) | Product DRI | 
-| [Kyle Wiebers](https://about.gitlab.com/company/team/#kwiebers) | Engineering Facilitator | 
+| [Kenny Johnston](https://about.gitlab.com/company/team/#kencjohnston) | Product DRI |
+| [Kyle Wiebers](https://about.gitlab.com/company/team/#kwiebers) | Engineering Facilitator |
+| [Lin Jen-Shin](https://about.gitlab.com/company/team/#godfat) | Engineering Facilitator |
 
 ### Projects
 
-JiHu team projects are under the [gitlab-jh](https://gitlab.com/gitlab-jh/) group. To request access please reach out to [Kenny](https://about.gitlab.com/company/team/#kencjohnston) or [Mek](https://about.gitlab.com/company/team/#meks) to provision. 
+JiHu team projects are located at <https://jihulab.com/gitlab-cn/>. Mirrored projects for `gitlab-org` tooling and compliance checks are available at <https://gitlab.com/gitlab-org/gitlab-jh/>.
+
+Even though most of the JiHu projects are moved to JiHuLab.com, some projects
+are still under the [gitlab-jh](https://gitlab.com/gitlab-jh/) group.
+To request access please reach out to [Kenny](https://about.gitlab.com/company/team/#kencjohnston) or
+[Mek](https://about.gitlab.com/company/team/#meks) to provision.
 
 | GitLab Inc Project                                      | JiHu Project                                               |
 |---------------------------------------------------------|------------------------------------------------------------|
-| https://gitlab.com/gitlab-org/gitlab                    | https://gitlab.com/gitlab-jh/gitlab                        |
-| https://gitlab.com/gitlab-org/license-gitlab-com        | https://gitlab.com/gitlab-jh/license-gitlab-cn             |
-| https://gitlab.com/gitlab-org/customers-gitlab-com      | https://gitlab.com/gitlab-jh/customers-gitlab-cn           |
-|                                                         | https://gitlab.com/gitlab-jh/cookbook-customers-gitlab-com |
-| https://gitlab.com/gitlab-services/version-gitlab-com   | https://gitlab.com/gitlab-jh/version-gitlab-cn             |
-| https://gitlab.com/gitlab-org/omnibus-gitlab            | https://gitlab.com/gitlab-jh/omnibus-gitlab                |
-| https://gitlab.com/gitlab-org/gitlab-environment-toolkit | https://gitlab.com/gitlab-jh/gitlab-environment-toolkit    |
-| https://gitlab.com/gitlab-org/build/CNG                 | https://gitlab.com/gitlab-jh/cng-images                    |
-| https://gitlab.com/gitlab-org/charts/gitlab             | https://gitlab.com/gitlab-jh/jh-team/gitlab                |
-| https://gitlab.com/gitlab-com/www-gitlab-com            | https://gitlab.com/gitlab-jh/jh-team/www-gitlab-com        |
-| https://gitlab.com/gitlab-org/gitlab-docs               | https://gitlab.com/gitlab-jh/jh-team/gitlab-docs           |
-| https://gitlab.com/gitlab-org/gitlab-runner             | https://gitlab.com/gitlab-jh/jh-team/gitlab-runner         |
+| <https://gitlab.com/gitlab-org/gitlab>                    | <https://jihulab.com/gitlab-cn/gitlab>                       |
+| <https://gitlab.com/gitlab-org/license-gitlab-com>        | <https://gitlab.com/gitlab-jh/license-gitlab-cn> (private)   |
+| <https://gitlab.com/gitlab-org/customers-gitlab-com>      | <https://jihulab.com/jihulab/engineering/customers-jihulab-com> (private) |
+|                                                         | <https://gitlab.com/gitlab-jh/cookbook-customers-gitlab-com> |
+| <https://gitlab.com/gitlab-services/version-gitlab-com>   | <https://gitlab.com/gitlab-jh/version-gitlab-cn>             |
+| <https://gitlab.com/gitlab-org/omnibus-gitlab>            | <https://jihulab.com/gitlab-cn/omnibus-gitlab>               |
+| <https://gitlab.com/gitlab-org/gitlab-environment-toolkit> | <https://gitlab.com/gitlab-jh/gitlab-environment-toolkit>    |
+| <https://gitlab.com/gitlab-org/build/CNG>                 | <https://jihulab.com/gitlab-cn/build/cng-images>             |
+| <https://gitlab.com/gitlab-org/charts/gitlab>             | <https://jihulab.com/gitlab-cn/charts/gitlab>                |
+| <https://gitlab.com/gitlab-org/gitlab-docs>               | <https://jihulab.com/gitlab-cn/gitlab-docs-cn>           |
+| <https://gitlab.com/gitlab-org/gitlab-runner>             | <https://jihulab.com/gitlab-cn/gitlab-runner>                |
 
 ### Merge Request Process
 
@@ -74,11 +79,11 @@ Contributions from the JiHu team will follow two methods depending on whether th
 * Upstream method - start with a merge request in the GitLab Inc. repository.
 * Proprietary and upstream method - start with a merge request with all changes against the GitLab JiHu project and a merge request with all non-proprietary changes against the upstream project.
 
-To identify contributions from JiHu, the `~"JiHu Contribution"` label is automatically applied to all upstream contributions coming from the JiHu team. To ensure the label is accurately applied, the `gitlab-jh` team must keep the direct members of [`gitlab-jh/jh-team`](https://gitlab.com/groups/gitlab-jh/jh-team/-/group_members?with_inherited_permissions=exclude) updated with current team members. 
+To identify contributions from JiHu, the `~"JiHu contribution"` label is automatically applied to all upstream contributions coming from the JiHu team. To ensure the label is accurately applied, the `gitlab-jh` team must keep the direct members of [`gitlab-jh/jh-team`](https://gitlab.com/groups/gitlab-jh/jh-team/-/group_members?with_inherited_permissions=exclude) updated with current team members.
 
-JiHu enablement efficiency age and review metrics are publicly accessible in this [dashboard](https://app.periscopedata.com/shared/f7af38e3-0cea-4219-a5d3-6f6b25f10244?). 
+JiHu enablement efficiency age and review metrics are publicly accessible in this [dashboard](https://app.periscopedata.com/shared/f7af38e3-0cea-4219-a5d3-6f6b25f10244?).
 
-The [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/) team is the DRI for JiHu Engineering enablement efficiency tooling and metrics. 
+The [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/) team is the DRI for JiHu Engineering enablement efficiency tooling and metrics.
 
 #### Guidelines for upstream contributions
 
@@ -130,10 +135,10 @@ Please refer to [JiHu Contribution Review Process](./jihu-contribution-review-pr
 Contributions in projects that have proprietary and upstream contributions will use the following guidelines to have a streamlined review.
 
 1. The `gitlab-jh` Engineering team will open two MRs:
-   1. JH MR with all changes against `gitlab-jh/gitlab`
+   1. JH MR with all changes on <https://jihulab.com/gitlab-cn/gitlab>
    1. Inc MR with all non-`jh/` changes against the default branch in `gitlab-org/gitlab`
 1. The GitLab Inc MR will be reviewed by the `gitlab-org/gitlab` team members
-1. After merging, the updates will be mirrored to `gitlab-jh/gitlab` via pull mirroring and synced to the `main-jh` `gitlab-jh/gitlab` branch with a [code sync](https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/107).
+1. After merging, the updates will be mirrored to <https://jihulab.com/gitlab-cn/gitlab> via pull mirroring and synced to the `main-jh` `https://jihulab.com/gitlab-cn/gitlab` branch with a [code sync](https://jihulab.com/gitlab-cn/code-sync).
 1. The `gitlab-jh` Engineering team will remove all non-`jh/` changes from the JH MR.
 1. The `gitlab-jh` Engineering team will review and merge the JH MR against the `gitlab-jh/gitlab` default branch
 
@@ -158,7 +163,8 @@ To notify JiHu of an upcoming security release, please simply post a comment in:
 ## Product
 
 ### Differentiating Proprietary JiHu Features
-We differentiate proprietary features for JiHu distributions by including them in the `/jh` [directory](https://gitlab.com/gitlab-jh/gitlab/-/tree/main-jh/jh). However, the majority of contributions from JiHu team members should be outside of the `/jh` directory signaling the expectation that most contributions are to GitLab Core and only certain specific features are exclusive to the /jh offering.
+
+We differentiate proprietary features for JiHu distributions by including them in the `/jh` [directory](https://gitlab.com/gitlab-org/gitlab-jh/-/tree/main-jh/jh). However, the majority of contributions from JiHu team members should be outside of the `/jh` directory signaling the expectation that most contributions are to GitLab Core and only certain specific features are exclusive to the /jh offering.
 
 ## Design
 
