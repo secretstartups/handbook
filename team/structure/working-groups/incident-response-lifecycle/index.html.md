@@ -10,15 +10,14 @@
 | Property     | Value |
 |--------------|-------|
 | Date Created | February 01, 2022 |
-| Date Ended   | April  30, 2022 |
+| Target End Date   | April  30, 2022 |
 | Slack        | [wg-incident-respose-management-framework](https://gitlab.slack.com/archives/C02UMD8S8NM) |
 | Google Doc   | [Incident Response Management Working Group](https://docs.google.com/document/d/1SwbD-Vbt813DUtS5VaXWI7p80yE5rqyNBwJFwmVT_Ko/edit#) (only accessible from within the company) |
 | Issue Label | WG-IRM (gitlab-com/-org) |
 
 ## Business Goal
 
-1. Ensure that common methods and procedures are used for efficient and prompt
-response, analysis, documentation, ongoing management and reporting of incidents
+1. Increase [efficiency](https://about.gitlab.com/handbook/values/#efficiency) through common incident response, analysis, documentation, ongoing management and reporting methods.
 1. Increase visibility and communication of incidents to business and e-group
 1. Enhance our clients confidence in Gitlab's ability to quickly resolve and communicate incidents when they occur
 1. Align Incident Management activities and priorities with those of the business
@@ -75,8 +74,9 @@ response, analysis, documentation, ongoing management and reporting of incidents
 | Working Group Role  | Person           | Title                                  |
 |---------------------|------------------|----------------------------------------|
 | Facilitator         | [Anna Liisa Moter](@amoter), [Bistra Lutz](@blutz1)    | Manager Reliability, Manager SIRT |
-| Exec Sponsor        | [Steve Lloyd](@sloyd)      | VP Infrastructure         |
-| Member              | [Aaron Blanco](@ablanco3), [Anthony Fappiano](@afappiano)          | SIRT member, Manager Reliability                   |
+| Exec Sponsor        | [Steve Loyd](@sloyd)      | VP Infrastructure         |
+| Member              | [Aaron Blanco](@ablanco3)          | SIRT member                  |
+| Member              | [Anthony Fappiano](@afappiano)          | Manager Reliability                   |
 
 
 
