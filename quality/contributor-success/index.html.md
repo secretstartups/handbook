@@ -47,9 +47,9 @@ flowchart LR
   style expandOutreach color:#6b4fbb, stroke:#9370DB
   style scaleCommunity color:#6b4fbb, stroke:#9370DB
   click improveVelocity "./#improve-contribution-velocity"
-  click increaseValue "#increase-contribution-value"
-  click expandOutreach "#expand-outreach"
-  click scaleCommunity "#scale-the-community"
+  click increaseValue "./#increase-contribution-value"
+  click expandOutreach "./#expand-outreach"
+  click scaleCommunity "./#scale-the-community"
 
  ```
 
@@ -169,7 +169,7 @@ To surface contribution opportunities tailored to tech professions, implement fr
   * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/10](https://gitlab.com/groups/gitlab-com/quality/-/epics/10)
   * **DRI:** Contributor Success team (Engineering)
 
-## Community Performance Indicator Goals
+## Performance Indicator Goals
 
 We aim to increase the focus on our community contributions. Below is a timeline on how we will measure and track this goal.
 
