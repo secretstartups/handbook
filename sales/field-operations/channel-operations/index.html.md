@@ -245,7 +245,7 @@ The Partner Sourced Deal Registration program not only rewards partners for brin
  
 Channel Managers are responsible for reviewing Partner Sourced Deal Registrations and must either approve, deny, or return the registration for additional information. It is recommended that the Channel Manager communicate with the applicable GitLab Sales Team Member during this process.
  
-**The SLA for GitLab to respond to partners on a Partner Sourced Deal Registration is 48 hours. There must be contact with the registering partner within 48 hours, whether it be approval, denial, or a request for more information.** 
+**The SLA for GitLab to respond to partners on a Partner Sourced Deal Registration is two business days. There must be contact with the registering partner within two business days, whether it be approval, denial, or a request for more information.** 
  
 While multiple partners can submit a deal registration for an opportunity, only one Partner Sourced Deal Registration can be approved for a specific opportunity. As a reminder, Partner Sourced Deal Registrations are opportunity-based and partners cannot register an account.
  
