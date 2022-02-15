@@ -271,7 +271,7 @@ The People Experience Team will complete a quarterly audit of which team members
    - You can view these by going into BambooHR selecting `Reports`, and then `Signed Documents` on the left panel
    - Create a new google sheet in the `Audits` folder in the shared People Experience drive named the fiscal year and quarter you are completing the audit
 - If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. **Reminder to not send reminders to team members on unpaid or parental leave**
-- If there are any issues, please escalate to the People Experience Team Lead for further guidance. 
+- If there are any issues, please escalate to the Manager, People Operations for further guidance. 
 
 #### Anniversary Gift Stock Audit
 
