@@ -64,7 +64,7 @@ General Topics Coveraged
 
 ## Onboarding Cohorts
 
-As a way to create a connection and social element from day one, all new team members from the specific hiring month will be [added to a Slack channel](https://about.gitlab.com/handbook/people-group/people-experience-team/#onboarding-cohort-creation). This will be linked to the Donut Watercooler App, which prompt different questions for team members to answer weekly on a Tuesday and a Thursday. These questions will also be used as a general onboarding check-in. 
+As a way to create a connection and social element from day one, all new team members from the specific hiring month will be [added to a Slack channel](https://about.gitlab.com/handbook/people-group/people-experience-team/#onboarding-cohort-creation). This will be linked to the Donut Watercooler App, which prompt different questions for team members to answer weekly on a Thursday. These questions will also be used as a general onboarding check-in. The channel will also be used to communicate any important notifications pertinent to new hires, as well as reminders of the onboarding check-in call and "#donut-be-strangers" Slack channel.
 
 To be more inclusive to all team members across the world and embracing our [bias towards asynchronous communication](https://about.gitlab.com/handbook/values/#bias-towards-asynchronous-communication), the onboarding cohorts has been created async.
 
