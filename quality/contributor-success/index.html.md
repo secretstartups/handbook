@@ -17,12 +17,11 @@ description: "Contributor Success Team"
 
 ## Mission
 
-The goal of the team is to increase the technical improvements and efficiency of
-our contribution process to sustain our ambition of[1000+ contributors with merged MRs per month to GitLab](/company/strategy/#2-build-on-our-open-core-strength).
+The goal of the team is to increase the technical improvements and efficiency of our contribution process to sustain our ambition of[1000+ contributors with merged MRs per month to GitLab](/company/strategy/#2-build-on-our-open-core-strength).
 
 ## Strategy
 
-We will be executing in 4 key areas in support of the company's broader [dual-flywheels](/company/strategy/#dual-flywheels) strategy to attain more contributions. The 4 key areas together are the pillars of our contribution increase strategy. 
+We will be executing in 4 key areas in support of the company's broader [dual-flywheels](/company/strategy/#dual-flywheels) strategy to attain more contributions. The 4 key areas together are the building blocks of our contributor & contribution 10x acceleration strategy. 
 
 ```mermaid
 
@@ -59,7 +58,7 @@ Provide an outstanding and efficient contributor experience, from onboarding mat
 
 Improve the speed of contribution to production by reducing [Open community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age) & review time. We have identified product groups with the highest open contribution MR age. Analysis and improvements are needed to address product groups with the biggest opportunity. In addtition to improving MR review and gathering feedback.  
 
-  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/1]( https://gitlab.com/groups/gitlab-com/quality/-/epics/1)
+  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/1](https://gitlab.com/groups/gitlab-com/quality/-/epics/1)
   * **DRI:** Contributor Success team (Engineering)
 
 ##### Simplify & improve contribution guides 
@@ -71,19 +70,46 @@ Make contribution guides easy to navigate. Our current contribution guides are f
 ##### Improve contribution tooling
 Provide fast and efficient contributor experience via our tooling. Our contributor tooling needs to be optimized for contributor productivity
 
-  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/2]( https://gitlab.com/groups/gitlab-com/quality/-/epics/2)
+  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/2](https://gitlab.com/groups/gitlab-com/quality/-/epics/2)
   * **DRI:** Engineering Productivity team (Engineering)
 
 ##### Product groups focus
 
 Contribution submissions, backlog, and technology stack vary amongst all [product groups](/company/team/structure/#product-groups). Providing a healthy community backlog alignment & establishing a common best practice outreach for all product groups.
 
-  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/3]( https://gitlab.com/groups/gitlab-com/quality/-/epics/3)
+  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/3](https://gitlab.com/groups/gitlab-com/quality/-/epics/3)
   * **DRI:** Product Ops, Community Relations & Contributor Success 
 
 ### Increase Contribution Value
 
 Incentivise, attract and retain contributors by providing a compelling value and regular recognition of contributors for their work. Contributor career advancement materials and awards.
+
+##### Define contributor value proposition 
+
+We need a clear definition of what drives people to contribute to GitLab and to present a compelling value proposition for increasing code contribution.
+
+  * **DRI:** Community Relations team (Marketing)
+
+##### Developer badges & certification 
+
+Implement a badging system and eventually work towards a certification program for GitLab developers 
+
+  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/4](https://gitlab.com/groups/gitlab-com/quality/-/epics/4)
+  * **DRI:** Contributor Success team (Engineering)
+
+##### Contributor recognition
+
+Provide sustained and impactful recognition to recognize & retain our contributors. Increase frequency and targeted recognition to types and persona of contributors
+
+  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/7](https://gitlab.com/groups/gitlab-com/quality/-/epics/7)
+  * **DRI:** Contributor Success team (Engineering) & Community Relations team (Marketing)
+
+##### Contributor career advancement
+
+In Open Source Projects, the contributors’ motivation in addition to solving a bug or adding a missing feature is to get experience and build their CV for career advancement. 
+
+  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/5](https://gitlab.com/groups/gitlab-com/quality/-/epics/5)
+  * **DRI:** Contributor Success team (Engineering) 
 
 ### Expand Outreach
 
