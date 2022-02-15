@@ -94,7 +94,7 @@ Recommended options to review with the customer include:
 
 ## Customer Prioritization
 
-GitLab uses a customer prioritization model and [associated metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics/) to focus the TAM's efforts where they will have maximum value and impact. Different regions utilize different models for determining customer prioritization, as described below. The customer prioritization can change during the lifecycle and is reviewed by each region quarterly.
+GitLab uses a customer prioritization model and [associated metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics/) based on their customer segment (Strategic, Named, Scale) to focus the TAM's efforts where they will have maximum value and impact. 
 
 On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1 or 2, with 1 being the highest. A new TAM-assigned customer coming on to GitLab will default to Pr1 until their onboarding enablement is complete. Pr3 is solely for unmanaged child accounts, and Pr4 is only for our digital customers and not for the TAM-assigned segment, with the exception of the Public Sector that is trialing a TAM-assigned digital customer. 
 
@@ -117,7 +117,7 @@ Why do we use a prioritization system?
 
 The `TAM Portfolio` Dashboard is used to help highlight and review each client, including their priority level.
 
-### US Enterprise
+### Strategic Accounts
 
 TAM-assigned customers are segmented into two priority tiers: `Priority 1 (P1)` and `Priority 2 (P2)`. We use a series of "yes/no" parameters to evaluate a customer's prioritization, based on the key aspects of a TAM's responsibilities and value to the customer.
 
@@ -136,6 +136,8 @@ The following parameters are considered when determining customer prioritization
 | **Open tier upgrade**                                                         | Upgrade opportunity is open in Salesforce and actively being discussed with the customer            | No open opportunity in Salesforce, and/or no active upgrade discussion with the customer                         |
 | **Current/upcoming stage adoption**                                           | Actively working with the customer on planning or implementation                                    | Nothing actively being worked on, or only discussed as a future initiative                                       |
 | **Current/upcoming infrastructure change**                                    | Actively working with the customer on planning or implementation                                    | Nothing actively being worked on, or only discussed as a future initiative                                       |
+| **Contraction or Churn risk**                                    | Account in Triage process                                    | No contraction or churn risk identified                                      |
+| **Customer lifecycle stage**                                    | Customer in onboarding                                    | Onboarding completed successfully                                      |
 
 ##### Prioritization model
 
@@ -182,38 +184,15 @@ Examples of when an exception may be appropriate include:
 
 - A large, strategic customer with no [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)
 - A customer with large [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) but no clear & active growth path
-- A customer with [risk](/handbook/customer-success/tam/health-score-triage/) (which is not factored into the prioritization model) which requires higher engagement to address and mitigate the risk
+- A customer with [risk](/handbook/customer-success/tam/health-score-triage/) (which is not factored into the prioritization model) which requires higher engagement to address and mitigate the risk)
 
-In order to make an exception, the TAM or SAL should discuss the details with the members of the [account team](/handbook/customer-success/account-team/#enterprise) and their respective managers. If there is agreement that an exception is warranted, the customer can be prioritized accordingly.
+In order to make an exception, the TAM or SAL should discuss the details with the members of the [account team](/handbook/customer-success/account-team/#enterprise) and their respective managers. Exceptions will be addressed to the regional Sales Management team and documented in Gainsight.
 
-### EMEA Enterprise
+### Named Accounts
+The Named Account prioritization model will be defined in FY23Q1. If needed, use the Strategic Account model above as general guidelines.
 
-TAM-assigned customers are segmented into two priority tiers: Priority 1 (P1) and Priority 2 (P2). Priority 3 (P3) is used for handling Unmanaged Child Accounts. The prioritization helps TAMs to focus on aligning, enabling and expanding on the customers journey with GitLab.
-
-#### Guidance
-
-Each TAM should aim to have roughly 5 to 8 customers as Priority 1, and the rest as Priority 2. A smaller number of Priority 1 customers will allow an increased focus, higher effectiveness and better results. A TAM should roughly spend 60% of their time with Priority 1 customers.
-
-#### Parameters influencing the customer prioritization
-
-Following parameters and metrics define the prioritization:
-
-| Parameter                                                                     | Sample                                                                                              |
-|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Organizational change within the customer                                     | GitLab ownership is moving to another department within the customer organization                   |
-| Customer lifecycle stage (Gainsight)                                          | Customer is still onboarding majority of the user base                                              |
-| Current/upcoming infrastructure change                                        | Actively working with the customer on changing the or implementing GitLab including migrations      |
-| Customer engagement level                                                     | Customer expressed the wish to collaborate on a weekly base                                         |
-| [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) | Increasing seats to close gap between licenced users and LAM                                        |
-| Expansion plays                                                               | Stage adoption or expansion plays as part of success planning                                       |
-| GitLab organizational changes                                                 | TAM account handover                                                                                |
-
-#### Prioritization process and exceptions
-1. TAM to propose a priority based on the available parameters
-2. Review during weekly 1:1s with the TAM Manager
-3. Alignment with the Sales team and ASMs as part of the account planning activities in Gainsight)
-
-Exceptions will be addressed to the regional Sales Management team and documented in Gainsight.
+### Scale Accounts
+The Scale Account prioritization model will be defined in FY23Q1.
 
 ### Commercial (NORAM, LATAM, EMEA)
 
