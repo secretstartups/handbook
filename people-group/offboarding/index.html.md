@@ -425,7 +425,7 @@ This section of the Accounting Department.
 To remove someone from Expensify Log in to [Expensify](https://www.expensify.com/signin) and go to "Settings" in the left sidebar.
 Select the right policy based upon the entity that employs the team member. Select "People" in the left menu.
 Select the individual's name and click "Remove".
-If the person has a company credit card assigned to them please notify Finance before un-assigning it.
+If the person has a Corporate Credit Card assigned to them, please notify Accounts Payable before un-assigning it.
 
 ### Retrospective for Managers
 For involuntary offboardings it is optional to do a retrospective on the hiring, onboarding and coaching/communication of the departing team member. As a manager, you can use [this template](https://docs.google.com/document/d/1AWth5o_sagDTwQ92FJr7WDHPNezEg6-BgRY6Tafejgo/edit?usp=sharing) for a retrospective. Please share the filled out template with your manager as well as the [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) for your group.
