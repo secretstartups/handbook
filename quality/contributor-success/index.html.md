@@ -46,10 +46,10 @@ flowchart LR
   style increaseValue color:#6b4fbb, stroke:#9370DB
   style expandOutreach color:#6b4fbb, stroke:#9370DB
   style scaleCommunity color:#6b4fbb, stroke:#9370DB
-  click improveVelocity "./#improve-contribution-velocity"
-  click increaseValue "./#increase-contribution-value"
-  click expandOutreach "./#expand-outreach"
-  click scaleCommunity "./#scale-the-community"
+  click improveVelocity "./#improve-contribution-velocity" _self
+  click increaseValue "./#increase-contribution-value" _self
+  click expandOutreach "./#expand-outreach" _self
+  click scaleCommunity "./#scale-the-community" _self
 
  ```
 
@@ -160,7 +160,6 @@ Increased contribution by our customers eventually builds towards customers havi
 
   * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/9](https://gitlab.com/groups/gitlab-com/quality/-/epics/9)
   * **DRI:** Community Relations team (Marketing) & Contributor Success team (Engineering)
-
 
 #### Contribution specialization 
 
