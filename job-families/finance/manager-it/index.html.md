@@ -3,15 +3,17 @@ layout: job_family_page
 title: "IT Management"
 ---
 
+## Levels
+
 ## Manager, IT
 
 The Manager, IT reports to the [Sr Director, IT Operations](https://about.gitlab.com/job-families/finance/director-it-operations/
 
-### Job Grade 
+### Manager, IT Job Grade 
 
 The Manager, IT is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### Manager, IT Responsibilities
 
 * Hold regular 1:1’s with all members of the IT Teams
 * Embed an asynchronous, distributed philosophy in everything you do
@@ -19,7 +21,7 @@ The Manager, IT is a [grade 8](/handbook/total-rewards/compensation/compensation
 * Embed an asynchronous, distributed philosophy in everything you do
 
 
-#### Requirements
+#### Manager, IT Requirements
 
 * Experience growing a team in a fast-paced, high-growth environment
 * Strong written and verbal communication skills
@@ -31,9 +33,9 @@ The Manager, IT is a [grade 8](/handbook/total-rewards/compensation/compensation
 
 ## Specialties
 
-### Manager, IT Engineering
+### Manager, IT (Engineering)
 
-####  Responsibilities
+####  Manager, IT (Engineering) Responsibilities
 
 * Build, scale and manage our IT Engineering team to support our needs as distributed company
 * Be the IT Expert at GitLab - Come with Solutions, not a Practice of No
@@ -42,7 +44,7 @@ The Manager, IT is a [grade 8](/handbook/total-rewards/compensation/compensation
 * Create and execute a plan to develop and mature our IT capabilities
 * Collaborate with all functions of the company to ensure IT needs are addressed
 
-#### Requirements
+#### Manager, IT (Engineering) Requirements
 
 * 2+ years hands on experience in an IT Operations role, and experience managing or working service/support roles.
 * 2+ years managing a team of 2 or more IT Administrators
@@ -56,13 +58,11 @@ The Manager, IT is a [grade 8](/handbook/total-rewards/compensation/compensation
 * Experience with open source tools
 * Be passionate about DevOps, or its principles, especially in applying software engineering principles to IT Operations and Services
 
-
-
-### Manager, IT End User Services
+### Manager, IT (End User Services)
 
 The Manager, IT End User Services leads a team of highly-collaborative and results-oriented IT Analyst team members tasked with delivering global IT services across the company. The Manager, IT End User Services is in charge of scaling, increasing performance, and providing great team member experience in order to help drive forward business success based on world class infrastructure & operations.
 
-#### Responsibilities
+#### Manager, IT (End User Services) Responsibilities
 
 * Build, scale and manage our Service Desk team to support our needs as a distributed company
 * Work with PeopleOps to enable smooth onboarding/offboarding of all team members, ensuring that all hardware and IT services are available day one
@@ -77,7 +77,7 @@ The Manager, IT End User Services leads a team of highly-collaborative and resul
 * Triage and manage priorities of IT HelpDesk and Operations
 * Embed an asynchronous, distributed philosophy in everything you do
 
-#### Requirements
+#### Manager, IT (End User Services) Requirements
 
 * ITIL Service Management Framework certification 
 * The ability to build a cohesive Service Desk team and to manage people effectively. This includes the ability to coach and develop the team
@@ -91,10 +91,7 @@ The Manager, IT End User Services leads a team of highly-collaborative and resul
 * Conducting and sharing results from service and operation performance reviews
 * Coordinating and managing all relevant stakeholders, including the support desk team, customers, and other teams that are involved in service desk operations
 
-
-
-
-## Performance Indicators (PI)
+## Performance Indicators 
 
 *  [New Hire Location Factor < 0.69](/handbook/business-ops/metrics/#new-hire-location-factor--069)
 *  [% of team who self-classify as diverse](/handbook/business-ops/metrics/#percent--of-team-who-self-classify-as-diverse)
