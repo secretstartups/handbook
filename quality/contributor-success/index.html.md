@@ -17,7 +17,7 @@ description: "Contributor Success Team"
 
 ## Mission
 
-The goal of the team is to increase the technical improvements and efficiency of our contribution process to sustain our ambition of[1000+ contributors with merged MRs per month to GitLab](/company/strategy/#2-build-on-our-open-core-strength).
+The goal of the team is to increase the technical improvements and efficiency of our contribution process to sustain our ambition of [1000+ contributors with merged MRs per month to GitLab](/company/strategy/#2-build-on-our-open-core-strength).
 
 ## Strategy
 
@@ -39,10 +39,14 @@ flowchart LR
     increaseValue-->contributionIncrease
     improveVelocity-->contributorIncrease
   end
-  style moreContributions stroke-dasharray: 5 5
-  style contributionIncrease fill:,stroke-width:4px
-  style contributorIncrease fill:,stroke-width:4px
-  click improveVelocity "#improve-contribution-velocity"
+  style moreContributions fill:#FFF, stroke:#9370DB, stroke-dasharray: 5 5
+  style contributionIncrease fill:#9370DB,stroke:#9370DB,stroke-width:4px
+  style contributorIncrease fill:#9370DB,stroke:#9370DB,stroke-width:4px
+  style improveVelocity color:#6b4fbb, stroke:#9370DB
+  style increaseValue color:#6b4fbb, stroke:#9370DB
+  style expandOutreach color:#6b4fbb, stroke:#9370DB
+  style scaleCommunity color:#6b4fbb, stroke:#9370DB
+  click improveVelocity "./#improve-contribution-velocity"
   click increaseValue "#increase-contribution-value"
   click expandOutreach "#expand-outreach"
   click scaleCommunity "#scale-the-community"
@@ -54,26 +58,26 @@ flowchart LR
 
 Provide an outstanding and efficient contributor experience, from onboarding materials to final merge. Improve Contributor Journey, making it easier and efficient to contribute. Gather feedback from Wider community contributors and product teams on contribution friction.
 
-##### Reduce Open Community MR Age
+#### Reduce Open Community MR Age
 
 Improve the speed of contribution to production by reducing [Open community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age) & review time. We have identified product groups with the highest open contribution MR age. Analysis and improvements are needed to address product groups with the biggest opportunity. In addtition to improving MR review and gathering feedback.  
 
   * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/1](https://gitlab.com/groups/gitlab-com/quality/-/epics/1)
   * **DRI:** Contributor Success team (Engineering)
 
-##### Simplify & improve contribution guides 
+#### Simplify & improve contribution guides 
 
 Make contribution guides easy to navigate. Our current contribution guides are fragmented and can be hard for new contributors to navigate and understand. 
 
   * **DRI:** Community Relations team (Marketing)
 
-##### Improve contribution tooling
+#### Improve contribution tooling
 Provide fast and efficient contributor experience via our tooling. Our contributor tooling needs to be optimized for contributor productivity
 
   * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/2](https://gitlab.com/groups/gitlab-com/quality/-/epics/2)
   * **DRI:** Engineering Productivity team (Engineering)
 
-##### Product groups focus
+#### Product groups focus
 
 Contribution submissions, backlog, and technology stack vary amongst all [product groups](/company/team/structure/#product-groups). Providing a healthy community backlog alignment & establishing a common best practice outreach for all product groups.
 
@@ -84,27 +88,27 @@ Contribution submissions, backlog, and technology stack vary amongst all [produc
 
 Incentivise, attract and retain contributors by providing a compelling value and regular recognition of contributors for their work. Contributor career advancement materials and awards.
 
-##### Define contributor value proposition 
+#### Define contributor value proposition 
 
 We need a clear definition of what drives people to contribute to GitLab and to present a compelling value proposition for increasing code contribution.
 
   * **DRI:** Community Relations team (Marketing)
 
-##### Developer badges & certification 
+#### Developer badges & certification 
 
 Implement a badging system and eventually work towards a certification program for GitLab developers 
 
   * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/4](https://gitlab.com/groups/gitlab-com/quality/-/epics/4)
   * **DRI:** Contributor Success team (Engineering)
 
-##### Contributor recognition
+#### Contributor recognition
 
 Provide sustained and impactful recognition to recognize & retain our contributors. Increase frequency and targeted recognition to types and persona of contributors
 
   * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/7](https://gitlab.com/groups/gitlab-com/quality/-/epics/7)
   * **DRI:** Contributor Success team (Engineering) & Community Relations team (Marketing)
 
-##### Contributor career advancement
+#### Contributor career advancement
 
 In Open Source Projects, the contributors’ motivation in addition to solving a bug or adding a missing feature is to get experience and build their CV for career advancement. 
 
