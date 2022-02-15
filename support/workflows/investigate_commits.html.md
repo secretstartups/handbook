@@ -26,9 +26,9 @@ To find the user who made the commit:
 
 1. Open sidekiq logs.
 1. Search for the commit SHA.
-1. Optionally add project path as `meta.project`.
-1. Look for an entry with an `insertId` and the SHA under `jsonPayload:args`.
-1. The `meta.user` indicates the GitLab username that pushed the commit.
+1. Optionally add project path as `json.meta.project`.
+1. Look for an entry with an `insertId` and the SHA under `json.args`.
+1. The `json.meta.user` indicates the GitLab username that pushed the commit.
 
 If logs are unavailable in Kibana (older than 7 days), try searching the project's activity page for the SHA. If that doesn't work, post in Slack #security for assistance.
 
