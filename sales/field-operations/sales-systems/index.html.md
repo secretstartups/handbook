@@ -311,3 +311,22 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
       - [Data Loader Configuration](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/configuring_the_data_loader.htm) especially as it pertains to batch size and to working with Null values. This should be reviewed and confirmed prioir to every Data Upload 
 - In order to install Data Loader follow the [Instructions provided by Salesforce](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_install_general.htm)
    - If you prefer video instructions on how to install Data Loader you can watch [this installation video](https://www.youtube.com/watch?v=vZOsb9gvFu4) which summarizes the process for windows (The process is the same for Macs)
+
+#### Sales System's journey with CI/CD using GitLab and Salesforce
+
+We have begun the journey of further leveraging our own GitLab tool by creating our first pipeline for our own Salesforce environment! 
+
+Our own pipeline is based on the great work done by @mayanktahil and @francispotter: [the SFDC CI/CD templates](https://gitlab.com/sfdx/sfdx-project-template).  If you are interested in more information about this project and want to see it in action, check out [Salesforce Development with GitLab](https://www.youtube.com/watch?v=Z1JSIFLdIB4) and [Accelerate DevOps with GitLab and Salesforce](https://www.youtube.com/watch?v=tylPp9QlLu4)
+
+Our own version of this CI/CD template can be found [here](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/SysIssue1851-AddStarterPipeline/.gitlab-ci.yml).  This template cuts out the capabilities to use Scratch Orgs, and limits deployments only to ApexClasses, ApexTriggers, ApexPage, and ApexComponents stored in the Sales Systems source.  
+
+The pipeline first performs a validation check which occurs whenever the branch related to a Merge Request is updated via a new check-in.  This check validates the code compiles and can be executed with all unit tests in the sandbox environment denoted as STAGING.  
+
+If the validation fails, the pipeline will spit out the errors as individual line items in the output of the job.  The MR will then be blocked from merging until this validation check succeeds.
+
+If the validation succeeds, the pipeline allows for the manual deployment to the STAGING environment.  
+
+All channges to ApexClasses, ApexTriggers, ApexPage, and ApexComponents stored in the Sales Systems source will now be managed directly from source.  To better support this effort and prepare for the next steps, we will also be limiting manual changes to the STAGING environment and managing changes completely via inbound change sets from other orgs.
+
+##### What's next?
+We are beginning to explore using [Sandbox Source Tracking](https://developer.salesforce.com/blogs/2021/01/learn-moar-with-spring-21-sandbox-source-tracking), a feature Salesforce released last year to enable easy export of configuration changes from a developer environment into source control. This will enable our admins to track complex changes to their developer orgs and easily check these into source control.  Once we do so, we can automate validation of these changes using our expanded pipeline, which we hope will speed up our pace of delivery.
