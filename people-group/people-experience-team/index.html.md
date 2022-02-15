@@ -263,15 +263,16 @@ The third quarter of the year (August 1- October 31) PEA team will need to perfo
       - remove any tasks that are unnecessary
       - go through open issue to close/reach out
 
-#### Code of Conduct & Acknowledgement of Relocation Audit
+#### Code of Conduct, Acknowledgement of Relocation, & Social Media Policy Acknowledgment Audit
 
-The People Experience Team will complete a quarterly audit of which team members have not yet signed the Code of Conduct and Acknowledgement of Relocation in BambooHR. 
+The People Experience Team will complete a quarterly audit of which team members have not yet signed the Code of Conduct, Acknowledgement of Relocation, and the Social Media Policy Acknowledgment in BambooHR. 
 
-- A quarterly report will be pulled from BambooHR for `Code of Conduct 2021` and `Acknowledgement of Relocation 2021` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
+- A quarterly report will be pulled from BambooHR for `Code of Conduct`,`Acknowledgement of Relocation`, and the `Social Media Policy Acknowledgment` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
    - You can view these by going into BambooHR selecting `Reports`, and then `Signed Documents` on the left panel
    - Create a new google sheet in the `Audits` folder in the shared People Experience drive named the fiscal year and quarter you are completing the audit
 - If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. **Reminder to not send reminders to team members on unpaid or parental leave**
 - If there are any issues, please escalate to the Manager, People Operations for further guidance. 
+- Once escalation needs to happen, please share spreadsheet with Paralegal (currently: Taharah Nix) to review with appropriate legal counsels as well.
 
 #### Anniversary Gift Stock Audit
 
