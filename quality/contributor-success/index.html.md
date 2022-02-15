@@ -171,8 +171,7 @@ To surface contribution opportunities tailored to tech professions, implement fr
 
 ## Community Performance Indicator Goals
 
-We aim to increase the focus on our community contributions. Below is a timeline
-on how we will measure and track this goal.
+We aim to increase the focus on our community contributions. Below is a timeline on how we will measure and track this goal.
 
 - **[Unique Wider Community Contributors per Month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)**
     - Target: increase to be greater than 200 per month by FY23Q4
@@ -182,6 +181,22 @@ on how we will measure and track this goal.
         - Hold hackathons
         - Allow running of QA tests from forks
         - Shorten the CI runtime for community contributions (in forks)
+- **[Open Community MR Age](/handbook/engineering/quality/performance-indicators/#open-community-mr-age)**
+    - Target: decrease to lower than 30 days by FY23Q4
+    - Activities:
+        - Shorten CI time
+        - Improve Community Contribution automation
+        - Enable running QA tests on forks
+        - Increase number of coaches
+        - Partner with Engineering Productivity to provide feedback to improve contribution tooling (currently GDK).        
+- **[MRARR](/handbook/engineering/quality/performance-indicators/#mrarr)**
+    - Target: increase to 400M MR$ by FY23Q4
+    - Activities:
+        - Reach out to top tier enterprise customers
+        - Partner with TAMs to enlist and facilitate contribution from paid customers
+        - Launch contribution materials targeting large enterprises
+        - Partner with Community relations team (David P)
+        - Maintain a list of known contributors with a mapping to their accounts and the accounts ARR contribution as input to this KPI        
 - **[Community Coaches per Month](/handbook/engineering/quality/performance-indicators/#community-mr-coaches-per-month)**
     - Target: increase to be greater than 50 per month by FY23Q3
     - Activities:
@@ -194,22 +209,6 @@ on how we will measure and track this goal.
     - Activities:
         - Encourage features at Community relations hackathons.
         - Published list of feature issues with Marketing team.
-- **[Open Community MR Age](/handbook/engineering/quality/performance-indicators/#community-contribution-mean-time-to-merge)**
-    - Target: decrease to lower than 30 days by FY23Q4
-    - Activities:
-        - Shorten CI time
-        - Improve Community Contribution automation
-        - Enable running QA tests on forks
-        - Increase number of coaches
-        - Partner with Engineering Productivity to provide feedback to improve contribution tooling (currently GDK).
-- **[MRARR](/handbook/engineering/quality/performance-indicators/#mrarr)**
-    - Target: increase to 400M MR$ by FY23Q4
-    - Activities:
-        - Reach out to top tier enterprise customers
-        - Partner with TAMs to enlist and facilitate contribution from paid customers
-        - Launch contribution materials targeting large enterprises
-        - Partner with Community relations team (David P)
-        - Maintain a list of known contributors with a mapping to their accounts and the accounts ARR contribution as input to this KPI
 
 ## Team Responsibilities
 
