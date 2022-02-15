@@ -443,6 +443,8 @@ People are surprisingly honest here.
 
 ## Declination (Prior to Day 1 and up to Day 5)
 
+Note: Prior to start date- If a team member has been added to BambooHR and the Payroll Changes Sheet but does not start, their profile will be deleted from BambooHR. Notify the Payroll Team accordingly and make a note against their particulars in the Payroll Changes Sheet. 
+
 Should a new hire be onboarded by the People Experience team, but: 
 
 * Communicate very close to their start date that they have declined to continue, or
