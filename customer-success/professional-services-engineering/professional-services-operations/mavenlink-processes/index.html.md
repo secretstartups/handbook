@@ -255,6 +255,18 @@ There are steps to follow to update the Mavenlink project:
 
 Reponsible Role: PC
 
+##### Prospect Projects
+1. Review project opportunity and documentation.
+   - PS Project- SOW
+   - Training Project- Order Form or SOW if custom training purchased
+2. Update the project status to Prospect.
+3. Add the PS Operations Manager to the Mavenlink project.
+4. Reassign the Mavenlink project lead to the assigned Project Coordinator.
+5. Ensure that no dates are entered in the Task Tracker to prevent the project from being added to the forecast.  
+
+
+##### Closed, Won Projects
+
 Once the PS Opportunity is closed/ won, a notification is sent from SFDC.
 
 1. Review project opportunity and documentation
