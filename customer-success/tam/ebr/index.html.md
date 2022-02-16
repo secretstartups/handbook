@@ -33,9 +33,13 @@ To schedule the EBR, the [account team meeting](/handbook/customer-success/accou
 
 During a cadence call, the TAM should bring up the topic of an EBR. If this is the customer's first EBR with GitLab, explain to them what it is and what value it brings. Ensure they know key stakeholders should attend and ask them to start revewing calendars for an ideal time to schedule the EBR. After the cadence call, follow up with a [written summary of the EBR](#sample-ebr-emails) and reiterate your ask for help in scheduling. It can take up to 3 months to find a good time for stakeholders to all be available to meet with us, so the earlier we can start the conversation the better.
 
-While we always want to include decision-makers and leadership to be involved with EBRs, if it's your first EBR with a customer we may only be able have our regular contacts attend. Use this opportunity to demonstrate the value of having leadership in EBRs going forward, so that the customer will be more inclined to ensure their leadership is involved for subsequent EBRs.
-
 Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (internal to GitLab) for more details on how to propose, prepare, and present an EBR. This internal playbook also includes a link to [EBR sell sheets](https://drive.google.com/drive/folders/1MYIIEqOZ_lskuVUt4S-lkz1HR79ZbDjj?usp=sharing), which TAMs can copy and edit to send to their customers to help demonstrate what the customer will get out of the EBR, as well as an "[EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing)" presentation which contains several pointers on the logistics of preparing, such as a suggested timeline, how to prepare and tips on presenting.
+
+### Scheduling and Attendee Challenges
+
+Our goal with an Executive Business Review is to meet with a customer's senior leadership and decision makers to review their business objectives and priorities for their digital transformation. We should work with our main points of contact to schedule those personas to attend the EBR. However, if that's unsuccessful, we should schedule the EBR with our main points of contact. If necessary, repurpose an upcoming cadence call for the EBR.
+
+This is most common when delivering our first EBR to a customer. The important thing in this situation is to deliver an EBR to demonstrate the value of the meeting, and have a targeted conversation about the customer's objectives. This should help scheduling future EBRs with a customer's leadership.
 
 ### Sample EBR Request Talk-Track
 
