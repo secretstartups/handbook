@@ -162,7 +162,7 @@ During a high sev Incident there is a lot going on. Here is a checklist of the m
 1. Review that the mitigation steps were reasonable, effective, and don't leave us in a state vulnerable for other problems.
 1. Review that the necessary external communications have been completed (Engage CMOC for this).
 1. Add a summary & link to the [Reliability Standup agenda](https://docs.google.com/document/d/1vww0BfRzHtrGhMppTEw5Q27KSzD1e72dmJ3XoppxC-A/edit#) (internal only)
-1. Ensure that any Sev1/P1 Corrective Actions have clear ownership and engagement. 
+1. Ensure that any Sev1/P1 Corrective Actions have clear ownership and engagement.
 1. Ensure that any ongoing effort or oversight by future IM and EOC shifts is supported with handoff notes and sync handoff (if needed).
 
 ### Communications Manager on Call (CMOC) Responsibilities
@@ -495,19 +495,28 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 | `~review-requested` | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive [corrective actions](#corrective-actions), it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
 | `~Incident-Comms::*` | Scoped label indicating the level of communications. |
 
+#### Duplicates
+
+When an incident is created that is a duplicate of an existing incident it is up to the EOC to mark it as a duplicate.
+In the case where we mark an incident as a duplicate, we should issue the following slash command and remove **all** labels on the incident issue:
+
+```
+/duplicate <incident issue>
+```
+
 ### Workflow Diagram
 
 ``` mermaid
   graph TD
     A(Incident is declared) --> |initial severity assigned - EOC and IMOC are assigned| B(Incident::Active)
-    B --> |Temporary mitigation is in place (see workflow labeling above)| C(Incident::Mitigated)
+    A -.-> |all labels removed if duplicate| F(closed)
+    B --> |"Temporary mitigation is in place (see workflow labeling above)"| C(Incident::Mitigated)
     B --> D
     C --> D(Incident::Resolved)
     D --> |severity is re-assessed| D
 
     D -.-> |for review-requested incidents| E(Incident::Review-Completed)
 ```
-
 - As soon as an incident transitions to `Incident::Resolved` the incident issue will be closed
 - All `Severity::1` incidents will automatically be labeled with `review-requested`
 
