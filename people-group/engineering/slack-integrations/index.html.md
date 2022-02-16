@@ -80,6 +80,12 @@ People Experience team can discuss and take action.
 - Career Mobility Value Check-In
 - Career Mobility Satisfactory Survey
 
+### Hiring Manager Survey
+Whenever a new team member is added to a team we currently send a couple of notifications.
+
+- `DM` - will attempt to send a survey DM to the new team members hiring manager.
+- `Alert` - will send this survey as a link to the `#peopleops-alerts` channel if the DM could not be sent.
+
 ### Referral bonus reminders
 
 A scheduled pipeline is configured to automatically send a message
