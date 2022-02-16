@@ -195,7 +195,7 @@ If the number of employees, according to our sources based on our hierarchy as d
 
 ### Territories
 
-[Territory tables](/handbook/sales/territories) are maintained within the Sales Handbook.
+[Territory tables](/handbook/sales/territories/) are maintained within the Sales Handbook.
 Both maps & written tables are kept up to date with all pairings and territory assignments.
 Our LeanData routing workflows and SFDC reports are based on these tables.
 
