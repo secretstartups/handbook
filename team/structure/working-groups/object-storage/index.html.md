@@ -163,7 +163,6 @@ Ideally, the functional lead is someone who is an IC working in the affected gro
 | Member             | Vitor Meireles De Sousa @vdesousa  | AppSec            | Senior Application Security Engineer |
 | Member             | Patrick Bajao @patrickbajao        | Workhorse         | Senior Backend Engineer              |
 | Member             | Catalin Irimie @cat                | Geo               | Senior Backend Engineer              |
-| Member             | Chad Woolley @cwoolley-gitlab      | Editor (Pages)    | Senior Backend (Fullstack) Engineer  |
 | Member             | Sofia Vistas @svistas              | Quality           | Senior Software Engineer in Test     |
 
 # Company efforts on uploads
