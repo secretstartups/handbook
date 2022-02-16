@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: "APJ Customer Success"
 ---
-The APJ Customer Success department is part of the [GitLab Sales](/handbook/sales) function under the WW Customer Success organisation who partners with our large, mid-market and strategic customers to deliver value throughout their GitLab adoption in the code development lifecycle.
+The APJ Customer Success department is part of the [GitLab Sales](/handbook/sales/) function under the WW Customer Success organisation who partners with our large, mid-market and strategic customers to deliver value throughout their GitLab adoption in the code development lifecycle.
 
 The team can be reached in WW Customer Success [Slack channel](https://gitlab.slack.com/archives/customer-success) (internal only).  Further to that, the APJ Customer Success team also communicates via our [Slack channel](https://gitlab.slack.com/archives/a-team_customer_success) (internal & private only) amongst themselves.
 
