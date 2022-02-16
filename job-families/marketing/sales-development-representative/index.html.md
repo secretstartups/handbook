@@ -9,9 +9,9 @@ title: "Sales Development Representative"
  
 ## Levels
  
-### Business Development Associate
+### Business Development Associate (BDA)
  
-The Business Development Associate (BDA) reports to the Enterprise BDR Manager.
+The Business Development Associate (BDA) reports to the Enterprise BDR Manager and is focused on sourcing and support.
  
 #### Business Development Associate Job Grade
  
@@ -40,13 +40,13 @@ The Business Development Associate is a [grade 5](/handbook/total-rewards/compen
 * Willingness to work towards requirement and responsibilities of SDR (Intermediate)
 * Ability to use GitLab
  
-### Sales Development Representative 
+### Sales Development Representative (SDR) 
  
-The Sales Development Representative (SDR) reports to the SDR Manager.
+The Sales Development Representative (SDR) reports to the SDR Manager and is focused on inbound leads.
  
 #### Sales Development Representative Job Grade
  
-The Associate SDR is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The SDR is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
  
 #### Sales Development Representative Responsibilities
  
@@ -93,9 +93,9 @@ The Sales Development Team Lead is a [grade 5](/handbook/total-rewards/compensat
 * Performance: Consecutively meet or exceed quotas for two quarters after achieving Tanuki Tech Level II. This does not include ramped months.
 * The Team Lead role is based on business need and will be posted if/when there is a need.
 
-### Business Development Representative
+### Business Development Representative (BDR)
  
-The Business Development Representative reports to the BDR Manager.
+The Business Development Representative reports to the BDR Manager and is focused on Outbound leads.
  
 #### Business Development Representative Grade Level
  
