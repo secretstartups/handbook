@@ -37,9 +37,9 @@ Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjX
 
 ### Scheduling and Attendee Challenges
 
-Our goal with an Executive Business Review is to meet with a customer's senior leadership and decision makers to review their business objectives and priorities for their digital transformation. We should work with our main points of contact to schedule those personas to attend the EBR. However, if that's unsuccessful, we should schedule the EBR with our main points of contact. If necessary, repurpose an upcoming cadence call for the EBR.
+Our goal with an Executive Business Review is to meet with a customer's senior leadership and decision makers to review their business objectives and priorities for their digital transformation. We should work with our main points of contact to schedule those personas to attend the EBR. However, if after two attempts to request an EBR with the decision makers and influencers the TAM is still unsuccessful, extend an upcoming cadence call to one hour and use this sesion to show the value of the EBR conversation. 
 
-This is most common when delivering our first EBR to a customer. The important thing in this situation is to deliver an EBR to demonstrate the value of the meeting, and have a targeted conversation about the customer's objectives. This should help scheduling future EBRs with a customer's leadership.
+This customer push-back is most common when delivering our first EBR to a customer. The important thing in this situation is to deliver an EBR to demonstrate the value of the meeting, and have a targeted conversation about the customer's objectives. This should help scheduling future EBRs with a customer's leadership.
 
 ### Sample EBR Request Talk-Track
 
