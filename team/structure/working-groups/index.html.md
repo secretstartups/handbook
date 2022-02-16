@@ -35,34 +35,46 @@ Topics covered include:
 
 ### Required Roles
 
-**Facilitator**
+**Working Group Directly Responsible Individual**
 
-Assembles the working group, runs the meeting, assigns action items to Functional Leads, and communicates results
-* Meeting agendas should be organized to stay on topic. Follow up on goals from the previous meeting, and align back to the exit criteria in each meeting.
-* After a long discussion about a topic, try to summarize it and result in an action item - Determine if this topic should be pursued further, or if it changes the exit criteria.
-* Assign any actions, initiatives, or outstanding questions to a [DRI](/handbook/people-group/directly-responsible-individuals/) to investigate further. This ensures accountability and prevents overwhelming any single member.
-* Consider using an [Issue Board](https://docs.gitlab.com/ee/user/project/issue_board.html) to track working group tasks by using the ~"WorkingGroup::" scoped label on each issue. This can be done separately from any other development related issues that the working group needs to track.
+This is the **person ultimately responsible for the success of the Working Group**. Assembles the working group, identifies interdependencies, manages supporting individuals toward project success, and ensures that results and escalations are appropriately communicated.This person also plays the facilitator role. A facilitator is responsible for running meetings and supporting the operational efficiency and success of a working group.
 
-**Executive Stakeholder**
+* Makes sure that team objectives and success measurement is known and understood by team members and key stakeholders.
+* Identifies interdepencies and risks to then ensure that team members are proactively aligning with others and prioritizing necessary risk mitigations.
+* Clearly manages different project workstreams and proactively communicates expectations for specific working group team members. For example, if you know that an initiative will eventually involve customer communications, the Working Group DRI should ensure that the group has appropriate representation from the Customer Success Team and that the representative is clear on asks for both the team and the individual within the coming weeks and quarters. 
+* Assigns any actions, initiatives, or outstanding questions to a workstream [DRI](/handbook/people-group/directly-responsible-individuals/) to investigate further. This ensures accountability and prevents overwhelming any single member or the Working Group DRI. 
+* Evaluates opportuities to work in a way that better reflects GitLab values. Examples:
+   * Suggests more [efficient](https://about.gitlab.com/handbook/values/#efficiency) ways to get to the same outcome
+   * Considers how decisions or milestones can be unbundled, so we can work more [iteratively](https://about.gitlab.com/handbook/values/#iteration)
+* Escalates when scope is changing, the project is at risk, or greatership engagement is required.
+* Owns meeting agendas, so that they are organized to stay on topic. Follows up on goals from the previous meeting, and align back to the exit criteria in each meeting.
+* After a long discussion about a topic, tries to summarize it and result in an action item - Determines if this topic should be pursued further, or if it changes the exit criteria. If it does, clearly flags to the DRI and other Working Group members.
+* Creates a single source of truth for collaboration and coordination and is clear on communication expectations. Consider using an [Issue Board](https://docs.gitlab.com/ee/user/project/issue_board.html) to track working group tasks by using the ~"WorkingGroup::" scoped label on each issue. This can be done separately from any other development related issues that the working group needs to track.
 
-An Executive or [Senior Leader](/company/team/structure/#senior-leaders) interested in the results, or responsible for the outcome
+**Executive Sponsor**
+
+The E-Group member who is responsible for staying plugged into the project, supporting the Working Group DRI (if necessary), and supporting escalations (if required). This is the E-Group member most interested in the results or responsible for the outcome. It will usually be the E-Group Member who owns the function that the Working Group DRI belongs to. E-Group Sponsors should be kept in the loop--especially when there are changes to timeline/scope, interdependencies that require alignment, or input needed. They will usually attend Working Group Meetings.
+
+The E-Group Sponsor is responsible for helping the Working Group DRI to obtain funding needed for Working Group success. This is important as the E-Group is the level at which budget dollars are owned.
+
+The E-Group sponsor also plays a key role in being a bridge to the rest of E-Group. This person should help to flag when related topics or updates should be brought to E-Group as an update or ask.
 
 **Functional Lead**
 
-Someone who represents their entire function to the working group, regularly monitors the Working Group Slack Channel, creates issues for action items, serves as DRI for issues created, actively participates in meetings, volunteers for opportunities to further the Working Groups goals, regularly attends meetings either synchronously or asynchronously, shares information learned from the Working Group with their Functional teams, volunteers to take on action items , gathers feedback from Functional teams and brings that feedback back to the Working Group
+One or more people who represent their entire function to the working group, regularly monitors the Working Group Slack Channel, creates issues for action items, serves as DRI for issues created, actively participates in meetings, volunteers for opportunities to further the Working Groups goals, regularly attends meetings either synchronously or asynchronously, shares information learned from the Working Group with their Functional teams, volunteers to take on action items , gathers feedback from Functional teams and brings that feedback back to the Working Group.
 
 ### Optional Roles
 
 **Member**
 
-Any subject matter expert, attends meetings synchronously or asynchronously on a regular basis, regularly monitors the Working Group Slack Channel, shares information learned from the Working Group with their peers, and gathers feedback from their peers and brings that feedback back to the Working Group
+Any subject matter expert, attends meetings synchronously or asynchronously on a regular basis, regularly monitors the Working Group Slack Channel, shares information learned from the Working Group with their peers, and gathers feedback from their peers and brings that feedback back to the Working Group. A member may serve as a DRI for a specific workstream or activity. 
 
 ## Guidelines
 
 * An executive sponsor is required, in part, to prevent proliferation of working groups
 * A person should not facilitate more than one concurrent working group
-* Generally, a person should not be a part of more than two concurrent working groups in any role
-* It is highly recommended that anyone in the working group with OKRs aligns them to the effort
+* Participation in some Working Groups requires a significant time commitment. Participants should be clear on their role and expectations for what they are expected to deliver. They should manage their time and capacity and quickly escalate if they feel unable to serve in or deliver in their role
+* It is highly recommended that anyone in the working group with [OKRs](/company/okrs/) aligns them to the effort
 
 
 ## Process
@@ -75,6 +87,8 @@ Any subject matter expert, attends meetings synchronously or asynchronously on a
   * Create a Slack channel (with `#wg_` prefix) that is public to the company
   * Schedule a recurring Zoom meeting
 * Define a goal and exit criteria
+  * Clearly outline risks and interdependencies. Flag mitigations and ensure that interdependencies are know and being addressed as part of the plan
+  * Ensure that responsibilities for all participants are clearly documented and understood
 * Gather metrics that will tell you when the goal is met
 * Organize activities that should provide incremental progress
 * Ship iterations and track the metrics
@@ -133,7 +147,6 @@ If you are interested in participating in an active working group, it is general
 * [Frontend Observability](/company/team/structure/working-groups/frontend-observability/)
 * [GitLab.com Disaster Recovery](/company/team/structure/working-groups/disaster-recovery/)
 * [GTM Product Analytics](/company/team/structure/working-groups/product-analytics-gtm/)
-* [IACV - Delta ARR](/company/team/structure/working-groups/iacv-delta-arr/)
 * [Issue Prioritization Framework](/company/team/structure/working-groups/issue-prioritization-framework/)
 * [Learning Experience](/company/team/structure/working-groups/learning-experience/)
 * [Merge Request Report Widgets](/company/team/structure/working-groups/merge-request-report-widgets/)
@@ -160,6 +173,7 @@ If you are interested in participating in an active working group, it is general
 * [GitLab.com Cost](/company/team/structure/working-groups/gitlab-com-cost/)
 * [GitLab.com Revenue](/company/team/structure/working-groups/gitlab-com-revenue/)
 * [gitlab-ui (CSS and Components)](/company/team/structure/working-groups/gitlab-ui/)
+* [IACV - Delta ARR](/company/team/structure/working-groups/iacv-delta-arr/)
 * [IC Gearing](/company/team/structure/working-groups/ic-gearing/)
 * [Improve Ops Quality](/company/team/structure/working-groups/improve-ops-quality/)
 * [Internal Feature Flag usage](/company/team/structure/working-groups/feature-flag-usage/)
