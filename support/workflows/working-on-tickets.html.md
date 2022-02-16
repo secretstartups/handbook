@@ -184,9 +184,13 @@ the ticket's breach clock. See [breach clocks](#breach-clocks) for more details.
 
 #### Avoiding status change automations
 
-By default, Zendesk will move a ticket from pending to solved after 20 days
-with no replies. It will also move a solved ticket to closed after 7 days with
-no replies. While this is normally the right workflow, there might be situations
+By default, our Zendesk automations will do the following:
+
+- After 7 days in `Pending`, it will send a notification to the user we are still awaiting a response from them.
+- After 14 days in `Pending`, it will send another notification and mark the ticket as `Solved`.
+- After 7 days in `Solved`, it will close the ticket.
+
+While this is normally the right workflow, there might be situations
 in which you need to prevent this from occurring. To do so, use the appropriate
 Zendesk labels:
 
