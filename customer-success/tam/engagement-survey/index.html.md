@@ -19,4 +19,9 @@ This page is where we provide details on those action items, and ongoing updates
 
 ## FY22 Pulse Engagement Survey
 
-The [FY22 Pulse Engagement Survey](/handbook/people-group/engagement/#fy22-pulse-engagement-survey) was send out in Q4 of FY22. From the results of that survey, these are the things that TAM leadership have taken for action.
+The [FY22 Pulse Engagement Survey](/handbook/people-group/engagement/#fy22-pulse-engagement-survey) was send out in Q4 of FY22. From the results of that survey, the primary opportunity was around action being taken as a result of the survey.  The TAM team was asked via a simple google survey the following questions: 
+
+![Survey Questions](/Users/rebeccapatching/Desktop/Screen Shot 2022-02-16 at 3.38.09 PM.png)
+
+
+
