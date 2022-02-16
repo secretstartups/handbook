@@ -23,7 +23,9 @@ The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-m
 
 #### EBR Enablement
 
-- For more on the value of EBRs, with customer examples, please watch [this EBR enablement session](https://www.youtube.com/watch?v=1CL5YQeC8Fs).
+- A SAL/AE can be a great partner in positioining EBRs. For more on the value of EBRs, with customer examples, please watch [this internal EBR enablement session](https://www.youtube.com/watch?v=1CL5YQeC8Fs).
+    - [Deck](https://docs.google.com/presentation/d/1sWj5HJR4IxdOMg7GiuEjlS5GvFYzYdtLW3QsX6IsxCM/edit#slide=id.g20a53d489f_0_213) used in the recording (internal)
+    - [Objection handing document](https://docs.google.com/document/d/1WzvklnloC22WffVcLYupLy3kqSsEbHNtcj47xrb07As/) referred to in the recording (internal)
 - Follow [this link](https://gitlab.edcast.com/pathways/tam-executive-business-reviews) to access the EBR certification on EdCast.
 - [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best TAM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices. 
 
