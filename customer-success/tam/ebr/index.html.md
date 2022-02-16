@@ -21,11 +21,11 @@ TAMs should hold EBRs with each of their customers **at least** once per year. L
 
 The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-meddpicc-questions-for-deeper-qualification) the value they are getting in their partnership with GitLab. It is interactive from both sides, discussing the customer's desired business outcomes and related metrics, progress against these metrics and desired outcomes, and aligning on strategic next steps.  The most crucial element in all EBRs is giving the buyer the time to speak about what matters to them, and creating a framework to enable them to do so.
 
-#### EBR Enablement
+### EBR Enablement
 
 - For more on the value of EBRs, with customer examples, please watch [this EBR enablement session](https://www.youtube.com/watch?v=1CL5YQeC8Fs).
 - Follow [this link](https://gitlab.edcast.com/pathways/tam-executive-business-reviews) to access the EBR certification on EdCast.
-- [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best TAM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices. 
+- [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best TAM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices.
 
 ## How to bring up an EBR with your customers
 
@@ -41,14 +41,11 @@ Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjX
 
 *As we are halfway through our current year of partnership, I wanted to schedule some time for us to meet and discuss progress against your business objectives and key initiatives. The goal of this time together is to:*
 
-1. *Amplify your accomplishments* 
-2. *Show the progress against your key initiatives that you and the team have made* 
-3. *Ensure we are aligned on (company name)'s upcoming key business initiatives*
-
-
+1. *Amplify your accomplishments*
+1. *Show the progress against your key initiatives that you and the team have made*
+1. *Ensure we are aligned on (company name)'s upcoming key business initiatives*
 
 *We'd like to invite xxx (influencers, decision-makers) to join also, and we'll have some of our leadership team join.  Would you suggest that my leadership or I reach out to them directly, or what is the best way to get time on everyone's calendar?*
-
 
 ### Sample EBR Emails
 
@@ -60,7 +57,6 @@ The following is an example for a TAM sending the email if not broached on a cal
 
 *I am reaching out to determine the best date and time for our bi-annual strategic review. As a reminder on the purpose of these meetings, we look to cover the following:*
 
-
 1. *Review our combined progress on delivering to your goals and business outcomes*
 
 2. *Collect and discuss future goals and desired success measures*
@@ -69,12 +65,11 @@ The following is an example for a TAM sending the email if not broached on a cal
 
 4. *Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)*
 
-
 *We'd like to invite xxx (influencers, decision makers) to join, and we'll have some of our leadership team join as well.  Would you suggest that I or my leadership reach out to them directly, or what is the best way to get time on everyone's calendar?*
 
 *The following are some suggested dates and times - typically these reviews take 60-90 minutes. I'm looking forward to review future strategy with you and the team!*
 
-##### eMail templates by region - Can be used as a starting point to send an EBR proposal to customers:
+##### eMail templates by region - Can be used as a starting point to send an EBR proposal to customers
 
 For ease of use / fast updating, available in Google Doc format:
 
@@ -86,17 +81,14 @@ The following is an example for when a GitLab senior leader or executive sends t
 
 *Introducing myself, I'm the (insert role) at Gitlab and would like to personally thank you for your business and trust in Gitlab.*
 
-
 *(Insert TAM name), your TAM, has shared with me several updates regarding our amazing partnership and the rapid adoption of GitLab at (Customer Name).  I would like to personally invite you to an Executive Business Review (EBR) that is a key part of our engagement and collaboration. Some key objectives include:*
 
 1. *Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes*
-2. *Collect and discuss future goals and desired success measures*
-3. *Discuss product use cases of interest and/or future roadmap items*
-4. *Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)*
-
+1. *Collect and discuss future goals and desired success measures*
+1. *Discuss product use cases of interest and/or future roadmap items*
+1. *Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)*
 
 *Ultimately, we seek to ensure we're aligned on the path forward to continue delivering to your business needs with the GitLab platform. If you're open to it, we will coordinate with you to find a time that best suits your availability. The EBRs typically take 60-90 minutes.*
-
 
 *Please let me know if you have any questions.*
 
@@ -147,4 +139,3 @@ Besides creating the deck, there are a few other items to consider to ensure you
 To create the content for the EBR, please review the [EBR Template](https://docs.google.com/presentation/d/1Ubfsa7GgU7XEtr0IuPDaDA9s5dkm64u26T0Me08WP68/edit).  Note this template is aimed at EBRs 60-90 minutes in length, and the account team may want to consider adding or removing elements depending on most relevant content and time allotted. Please watch the [EBR interview](https://www.youtube.com/watch?v=luxIdKtGB_s&ab_channel=GitLabUnfiltered) for a walkthrough of the three major components of an EBR and tips & tricks on successful delivery!
 
 There are also several examples EBR decks and past recordings linked in the [Chorus Playlist](https://chorus.ai/playlists/741604) (Internal Only Link) and [EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing) (Internal Only Link) for TAMs and other GitLab team members to review and take inspiration from (please keep all customer-specific content confidential).
-
