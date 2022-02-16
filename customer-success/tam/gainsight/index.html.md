@@ -67,6 +67,7 @@ The table below represents the steps a TAM would typically take in Gainsight. Pl
 - [Customer Health Scoring](/handbook/customer-success/customer-health-scoring/)
 - [Product Usage Data - Data Team](/handbook/business-technology/data-team/data-catalog/product-usage-data/)
 - [License Utilization](/handbook/customer-success/product-usage-data/license-utilization/)
+- [Maturity Scoring](/handbook/customer-success/product-usage-data/maturity-scoring/)
 
 #### Programs
 - [Customer Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
