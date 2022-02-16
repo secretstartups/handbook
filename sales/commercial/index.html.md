@@ -183,6 +183,11 @@ Failure to follow the above is not acceptable in any situation.
 
 ## [Opportunity Consults](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) (OCF) and Lightweight Deal Review (LDR) Process
 
+An [Opportunity Consult](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) is an in depth, two-way conversation between the AE and the ASM to review the opportunity [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#overview). The AE should expect to provide the ASM with more detailed information about the [Opportunity Overview](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) fields, the customer's pain points and desired outcomes, challenges or gaps in qualification aligned to the [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) opportunity qualification framework, articulate a [Close Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#close-plan-details) and identify the biggest opportunity risk(s) and action(s) to mitigate those risks. 
+
+
+A Lightweight Deal Review (LDR) is a shorter (5-10 minute) deal review that is designed to identify gaps in the [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#overview) and specific next steps. At the end of an LDR, an AE and ASM should have a plan in place to capture the information that is not in the Command Plan, and a specific plan of action on and before the next call.
+
 #### SMB
 
 - An Opportunity Consult happens when the opportunity Net ARR threshold is $10K +
