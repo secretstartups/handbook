@@ -121,6 +121,8 @@ Most dbt run jobs can be parameterized with a variable specifying dbt model that
 
 The variable `DBT_MODELS` is a stand-in for any of the examples in [the dbt documentation on model selection syntax](https://docs.getdbt.com/docs/model-selection-syntax#section-specifying-models-to-run).
 
+All dbt ci jobs run in `--full-refresh`. If you'd like to override this and run incremental models as incremental then set the `REFRESH` variable to a space ` `.
+
 If you are testing changes to tests in the `data-tests` project, you can pass in `DATA_TEST_BRANCH` to the manual jobs along with the branch name. This will update the branch in the `packages.yml` for the data-tests package. This works for any job running `dbt test`.
 
 You can also add `--fail-fast` to the end of the model selection to quickly end the dbt call at the first failure. Read the [dbt docs](https://docs.getdbt.com/reference/commands/run#failing-fast) for more information.
