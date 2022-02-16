@@ -116,32 +116,28 @@ Increase awareness with content and events to drive large amounts of contributor
 
 #### Increase contribution backlog exposure
 
-Contributing as a new member to a massive project can be overwhelming, which can lead to analysis paralysis and potentially losing contributors. We should offer a lens into a discoverable, sizable set of issues we can direct newcomers to. Consider using established 3rd party platforms.
-
-  * **Epic:** TBD
-  * **DRI:** Community Relations team (Marketing)
+* **Why:**  Contributing as a new member to a massive project can be overwhelming, which can lead to analysis paralysis and potentially losing contributors. We should offer a lens into a discoverable, sizable set of issues we can direct newcomers to. Consider using established 3rd party platforms.
+* **Epic:** TBD
+* **DRI:** Community Relations team (Marketing)
 
 #### Scale contributor events
 
-Build a sense of belonging, provide the social environment for contributors to have their voice, meet with their peers, share knowledge and celebrate.
-
-  * **Epic:** TBD
-  * **DRI:** Community Relations team (Marketing) & Contributor Success team (Engineering)
+* **Why:** Build a sense of belonging, provide the social environment for contributors to have their voice, meet with their peers, share knowledge and celebrate.
+* **Epic:** TBD
+* **DRI:** Community Relations team (Marketing) & Contributor Success team (Engineering)
 
 #### Community office hours
 
 
-We need to scale office hour calls that have traditionally been a unique opportunity for product groups to provide support, guidance to code contributors as well as gather feedback.
-
-  * **Epic:** TBD
-  * **DRI:** Community Relations team (Marketing) & Contributor Success team (Engineering)
+* **Why:** We need to scale office hour calls that have traditionally been a unique opportunity for product groups to provide support, guidance to code contributors as well as gather feedback.
+* **Epic:** TBD
+* **DRI:** Community Relations team (Marketing) & Contributor Success team (Engineering)
 
 #### Increase social presence
 
-Increase our social media presence beyond the currently limited mediums (Twitter, gitter), which will allow us to tap into existing developer communities.  
-
-  * **Epic:** TBD
-  * **DRI:** Community Relations team (Marketing)
+* **Why:** Increase our social media presence beyond the currently limited mediums (Twitter, gitter), which will allow us to tap into existing developer communities.  
+* **Epic:** TBD
+* **DRI:** Community Relations team (Marketing)
 
 ### Scale the Community
 
@@ -149,24 +145,21 @@ Leverage the full-time customer contributor model and create wider community tea
 
 #### Create community teams
 
-Create teams of wider community members with multiple domain expertise. We would like to depart from having contributors work single-handedly and create a team that can do more together.
-
-  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/8](https://gitlab.com/groups/gitlab-com/quality/-/epics/8)
-  * **DRI:** Contributor Success team (Engineering) 
+* **Why:** Create teams of wider community members with multiple domain expertise. We would like to depart from having contributors work single-handedly and create a team that can do more together.
+* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/8](https://gitlab.com/groups/gitlab-com/quality/-/epics/8)
+* **DRI:** Contributor Success team (Engineering) 
 
 #### Customers as contributors
 
-Increased contribution by our customers eventually builds towards customers having teams inside their organization contributing to GitLab. Engineering representative that can ride along with the evangelist and program manager in interaction with customers.
-
-  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/9](https://gitlab.com/groups/gitlab-com/quality/-/epics/9)
-  * **DRI:** Community Relations team (Marketing) & Contributor Success team (Engineering)
+* **Why:** Increased contribution by our customers eventually builds towards customers having teams inside their organization contributing to GitLab. Engineering representative that can ride along with the evangelist and program manager in interaction with customers.
+* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/9](https://gitlab.com/groups/gitlab-com/quality/-/epics/9)
+* **DRI:** Community Relations team (Marketing) & Contributor Success team (Engineering)
 
 #### Contribution specialization 
 
-To surface contribution opportunities tailored to tech professions, implement frontend, backend, UX, Test and etc specialization in contribution types and MR coaches. This also allows a more aligned interaction between contributor and MR coaches of the same specialization.
-
-  * **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/10](https://gitlab.com/groups/gitlab-com/quality/-/epics/10)
-  * **DRI:** Contributor Success team (Engineering)
+* **Why:** To surface contribution opportunities tailored to tech professions, implement frontend, backend, UX, Test and etc specialization in contribution types and MR coaches. This also allows a more aligned interaction between contributor and MR coaches of the same specialization.
+* **Epic:** [https://gitlab.com/groups/gitlab-com/quality/-/epics/10](https://gitlab.com/groups/gitlab-com/quality/-/epics/10)
+* **DRI:** Contributor Success team (Engineering)
 
 ## Performance Indicator Goals
 
