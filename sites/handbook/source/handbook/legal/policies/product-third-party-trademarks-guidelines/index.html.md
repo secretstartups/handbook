@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Third-party Trademark Usage Guidelines"
+title: "Use of Third-party Trademarks in GitLab"
 description: "Guidelines applicable to the use of third-party trademarks in the GitLab product"
 ---
 

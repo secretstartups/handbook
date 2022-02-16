@@ -56,7 +56,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 * [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
 * [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/) - this Policy formalizes GitLab's procedures for the identification, review, and consideration and approval of any transactions involving the Company and a Related Party. 
 * [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark) - information regarding the usage of GitLab's trademark
-* [Third-party Trademark Usage Guidelines](https://about.gitlab.com/handbook/legal/policies/third-party-trademark-usage-guidelines/) - guidelines concerning the use of third-party trademarks in the GitLab product
+* [Use of Third-party Trademarks in GitLab](https://about.gitlab.com/handbook/legal/policies/product-third-party-trademarks-guidelines/) - guidelines concerning the use of third-party trademarks in the GitLab product
 * [Whistleblower Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk) - this policy is provided to enable Team Members with guidelines on on how to report any improper activites, or suspected improper activities. 
 
 
