@@ -207,7 +207,11 @@ The [life at GitLab content library](/handbook/people-group/employment-branding/
 
 Spread the word about life at GitLab by becoming a GitLab talent ambassdor.
 
-Whether you're a hiring manager or an individual contributor, [this page](/handbook/hiring/gitlab-ambassadors) outlines the steps you can take to help represent our talent brand and attract more great people to join the team.
+1. Share with your social media network when your team is welcoming a new team member and have your new team member share with their networks as well by leveraging [this template](https://docs.google.com/presentation/d/1Itl4rKjihsByhTER0DZgpT6GqWCxjPo5rAJ7WPgaym4/edit?usp=sharing)!
+2. Share with your social media network that your team is hiring by posting one of [these job ads](https://drive.google.com/drive/folders/17MSdy-vjfcQJVRwH2abz1k4tcOHX8fbe?usp=sharing) (don't forget to include a link to the job)!
+3. Include the #LifeatGitLab hashtag and the [link to our careers page](https://about.gitlab.com/jobs/) in your posts.
+
+Whether you're a hiring manager or an individual contributor, [this page](/handbook/hiring/gitlab-ambassadors) outlines additional steps you can take to help represent our talent brand and attract more great people to join the team.
 
 ## Employer awards and recognition
 
