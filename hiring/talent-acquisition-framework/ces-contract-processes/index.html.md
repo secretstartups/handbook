@@ -498,7 +498,7 @@ It is important that the start date for German new hires is far enough out that 
 A wet signature is required for German employment agreements the following process must be followed:
 
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring/).
-1. Ensure the start date is on the first of the month.
+1. Ensure the start date is a either a Monday OR the 1st or 16th of the month. 
 1. The Candidate Experience Specialist sends the new team member the GreenHouse email template: German Contract Step 1.
 1. The Candidate Experience Specialist generates the German Contract form out of GreenHouse and stages for signature though GreenHouse and DocuSign. The Talent Acquisition Manager or the Senior Director of People Success (as listed on the signatory chart above) signs the German Contract.
 1. The Candidate Experience Specialist saves the unsigned contract to be used in a future step. It may require a manual edit to remove the signature tokens.
