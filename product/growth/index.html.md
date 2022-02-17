@@ -139,6 +139,23 @@ engineering team may ship smaller improvements independently of Manage's direct 
 and - like a contribution coming from the wider community - ultimately own the final result.
 
 ### UX
+
+#### Product Designer Assignments
+Beginning in 14.9, we will try a different approach where Product Designers will pick up issues by specialty, rather than by PM.
+
+* Matej Latin: Registration Flow and Free Trial Flow
+* Kevin Comoli: Continous Onboarding, PQLs, and Free user registration
+* Emily Bauman: Stage and feature specific onboarding, Purchase Flow, Upgrade Flow, Free user management 
+
+The planning process:
+* Planning issues are created and PMs add what they want UX to work on
+* Designers add weights to issues that are planned but unweighted.
+* Designers review planning issues, add their name to issues and assign themselves to issues they can work on. Issues that fall in their specialty but won't fit in the milestone should be escalated to the PM and UX Manager.
+* Unclaimed issues that don't fit into a category should be escalated to the UX Manager.
+
+##### A note about prioritization
+Every milestone will have more work than we can commit to. Product designers know the approximate number of issue weights they can take on in order to do the work to our high standards. Never take on more issue weights than you can, and don't compromise other important tasks such as professional development and UX department initiatives. This leads to burnout. Follow the escalation instructions to make your wider team aware of the issues you can't take on so that they can explore additional options or tradeoffs.
+
 #### How UX Works
 We follow the [Product Designer workflows](/handbook/engineering/ux/product-designer/) and [UX Researcher workflows](/handbook/engineering/ux/ux-research/) described in the [Product Design section](/handbook/engineering/ux/) of the handbook. As Growth designers, we relentlessly measure the impact of our design changes following the [experimentation workflow](/handbook/engineering/development/growth/experimentation/). In addition:
 
