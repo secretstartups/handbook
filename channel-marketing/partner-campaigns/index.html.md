@@ -91,9 +91,13 @@ First, use the general set up is found [campaigns and programs page](/handbook/m
 All Marketo templates will have a token added to them that the campaign owner should update, {{my.partner name}}.
 - Partner Name: Does not need to be official, it will be used on the form consent language and interesting moments, so needs to be customer facing. Example:  `By registering for this GitLab and {{my.partner name}} event....`
 
+All Marketo templates will have a token added to them that the campaign owner should updates, {{my.partner crm id}}.
+- All partner IDs can be [found here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids). 
+
 
 ### Online Events: (Lead capture via forms) BEFORE Launch
 1. Update token on Marketo program {{my.Partner Name}}
+1. Update token on Marketo program {{my.partner crm id}}
 1. Update registration landing page to have `FORM 3146: Partners w/ consent+token` 
    - To update the page:
        - Edit the landing page draft
@@ -115,7 +119,7 @@ The process above will work for an event with multiple partners driving to it. M
 ### Offline Events: (Lead capture via list uploads)
 If a form isn't available to capture registration, follow these steps:
 
-1. In List upload issue, add a column for CRM Partner ID and add the value. If the partner did not source the lead (AKA GitLab did), then leave that column blank.
+1. In List upload issue, add a column for CRM Partner ID and add the value. - All partner IDs can be [found here](/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids). If the partner did not source the lead (AKA GitLab did), then leave that column blank.
 1. Mark in the list upload issue that this is a joint event and the partner will be following up with leads
 1. (no setup needed) If a `partnerid` was captured on the list, then Marketo will [request a campaign](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC25176B2ZN19) to append that value to the `CRM Partner ID (lookup)` and `Vartopia Partner Account ID` fields. If no ID was captured, the list will route to GitLab SDRs.
 1. (no setup needed) Interesting moments will dynamically change if there is a partner involved to reflect that.
