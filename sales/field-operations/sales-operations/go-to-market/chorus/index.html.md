@@ -56,7 +56,8 @@ For additional details, please see [this issue](https://gitlab.com/gitlab-com/gl
 - ROW SDRs upon completion of [Chorus GDPR Training](https://classroom.google.com/u/0/c/MTI5NDQzODc5NzE1)
 
 ### Listener Access
-- May be requested through an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use) and granted on a case by case basis
+- All Public Sector team members
+- GitLab team members may request Listener access through an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use) which may be granted on a case by case basis
 
 ## Why is meeting live on chorus?
 
