@@ -367,13 +367,15 @@ The promotion and annual compensation review budget is separate and calculated b
 
 1. Promotion Budget
   * Assume 12% of the team is promoted with an average of a 10% increase to OTE.
+  * Departments will be allocated 3% of their 12% budget on a quarterly basis, aligned with our [quarterly promotion cadence](/handbook/people-group/promotions-transfers/#promotions-process--timeline).
+  * If promotion budget is not used for any given quarter, **it will not rollover to future quarters**. 
+  * In the case where more than or less than 3% promotion is projected for any given quarter, your Finance Business Partner can review the possibility of identifying tradeoffs for unused or surplus promotion budget. Finance requires a minimum of two weeks notice ahead of the commencement of the next quarter to review this possibility. For example, as Q2 begins May 1, the final date to confirm a repurpose budget rollover request would be April 15. _Note: This is not a guarantee, but something leaders can explore with their Finance Business Partner._
 1. Annual Compensation Review Budget
   * 6% of those who were not promoted. Therefore 6% of 88% of the population.
   * The annual compensation review budget is held by each e-group leader. The leader can allocate budget however appropriate within their division, but cannot move funds to another division.
   * The budget for [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above is managed by the Compensation Group internally to GitLab, and approved by the Compensation Committee at the Board level.
 1. Relocation Budget
   * Relocations are not considered in the budget. Theoretically throughout the year, there would be a net zero from those moving to higher-cost and lower-cost regions.
-1. Budget Rollovers: The budget from annual compensation review can rollover into the promotion budget for that fiscal year. For example, if Engineering has 20,000 USD left after the FY22 annual compensation review process, they can use these funds for promotions in FY22. At the end of each fiscal year, the budgets will reset. Total Rewards will work with FP&A to review what the maximum amount of rollover is 
 1. Budgets _cannot_ be transferred to a different division.
 
 **Calculating Budget Actuals**
