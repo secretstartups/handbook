@@ -21,13 +21,13 @@ TAMs should hold EBRs with each of their customers **at least** once per year. L
 
 The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-meddpicc-questions-for-deeper-qualification) the value they are getting in their partnership with GitLab. It is interactive from both sides, discussing the customer's desired business outcomes and related metrics, progress against these metrics and desired outcomes, and aligning on strategic next steps.  The most crucial element in all EBRs is giving the buyer the time to speak about what matters to them, and creating a framework to enable them to do so.
 
-#### EBR Enablement
+### EBR Enablement
 
 - A SAL/AE can be a great partner in positioining EBRs. For more on the value of EBRs, with customer examples, please watch [this internal EBR enablement session](https://www.youtube.com/watch?v=1CL5YQeC8Fs).
     - [Deck](https://docs.google.com/presentation/d/1sWj5HJR4IxdOMg7GiuEjlS5GvFYzYdtLW3QsX6IsxCM/edit#slide=id.g20a53d489f_0_213) used in the recording (internal)
     - [Objection handing document](https://docs.google.com/document/d/1WzvklnloC22WffVcLYupLy3kqSsEbHNtcj47xrb07As/) referred to in the recording (internal)
 - Follow [this link](https://gitlab.edcast.com/pathways/tam-executive-business-reviews) to access the EBR certification on EdCast.
-- [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best TAM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices. 
+- [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best TAM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices.
 
 ## How to bring up an EBR with your customers
 
@@ -35,22 +35,23 @@ To schedule the EBR, the [account team meeting](/handbook/customer-success/accou
 
 During a cadence call, the TAM should bring up the topic of an EBR. If this is the customer's first EBR with GitLab, explain to them what it is and what value it brings. Ensure they know key stakeholders should attend and ask them to start revewing calendars for an ideal time to schedule the EBR. After the cadence call, follow up with a [written summary of the EBR](#sample-ebr-emails) and reiterate your ask for help in scheduling. It can take up to 3 months to find a good time for stakeholders to all be available to meet with us, so the earlier we can start the conversation the better.
 
-While we always want to include decision-makers and leadership to be involved with EBRs, if it's your first EBR with a customer we may only be able have our regular contacts attend. Use this opportunity to demonstrate the value of having leadership in EBRs going forward, so that the customer will be more inclined to ensure their leadership is involved for subsequent EBRs.
-
 Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (internal to GitLab) for more details on how to propose, prepare, and present an EBR. This internal playbook also includes a link to [EBR sell sheets](https://drive.google.com/drive/folders/1MYIIEqOZ_lskuVUt4S-lkz1HR79ZbDjj?usp=sharing), which TAMs can copy and edit to send to their customers to help demonstrate what the customer will get out of the EBR, as well as an "[EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing)" presentation which contains several pointers on the logistics of preparing, such as a suggested timeline, how to prepare and tips on presenting.
+
+### Scheduling and Attendee Challenges
+
+Our goal with an Executive Business Review is to meet with a customer's senior leadership and decision makers to review their business objectives and priorities for their digital transformation. We should work with our main points of contact to schedule those personas to attend the EBR. However, if after two attempts to request an EBR with the decision makers and influencers the TAM is still unsuccessful, extend an upcoming cadence call to one hour and use this sesion to show the value of the EBR conversation. 
+
+This customer push-back is most common when delivering our first EBR to a customer. The important thing in this situation is to deliver an EBR to demonstrate the value of the meeting, and have a targeted conversation about the customer's objectives. This should help scheduling future EBRs with a customer's leadership.
 
 ### Sample EBR Request Talk-Track
 
 *As we are halfway through our current year of partnership, I wanted to schedule some time for us to meet and discuss progress against your business objectives and key initiatives. The goal of this time together is to:*
 
-1. *Amplify your accomplishments* 
-2. *Show the progress against your key initiatives that you and the team have made* 
-3. *Ensure we are aligned on (company name)'s upcoming key business initiatives*
-
-
+1. *Amplify your accomplishments*
+1. *Show the progress against your key initiatives that you and the team have made*
+1. *Ensure we are aligned on (company name)'s upcoming key business initiatives*
 
 *We'd like to invite xxx (influencers, decision-makers) to join also, and we'll have some of our leadership team join.  Would you suggest that my leadership or I reach out to them directly, or what is the best way to get time on everyone's calendar?*
-
 
 ### Sample EBR Emails
 
@@ -62,7 +63,6 @@ The following is an example for a TAM sending the email if not broached on a cal
 
 *I am reaching out to determine the best date and time for our bi-annual strategic review. As a reminder on the purpose of these meetings, we look to cover the following:*
 
-
 1. *Review our combined progress on delivering to your goals and business outcomes*
 
 2. *Collect and discuss future goals and desired success measures*
@@ -71,12 +71,11 @@ The following is an example for a TAM sending the email if not broached on a cal
 
 4. *Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)*
 
-
 *We'd like to invite xxx (influencers, decision makers) to join, and we'll have some of our leadership team join as well.  Would you suggest that I or my leadership reach out to them directly, or what is the best way to get time on everyone's calendar?*
 
 *The following are some suggested dates and times - typically these reviews take 60-90 minutes. I'm looking forward to review future strategy with you and the team!*
 
-##### eMail templates by region - Can be used as a starting point to send an EBR proposal to customers:
+##### eMail templates by region - Can be used as a starting point to send an EBR proposal to customers
 
 For ease of use / fast updating, available in Google Doc format:
 
@@ -88,17 +87,14 @@ The following is an example for when a GitLab senior leader or executive sends t
 
 *Introducing myself, I'm the (insert role) at Gitlab and would like to personally thank you for your business and trust in Gitlab.*
 
-
 *(Insert TAM name), your TAM, has shared with me several updates regarding our amazing partnership and the rapid adoption of GitLab at (Customer Name).  I would like to personally invite you to an Executive Business Review (EBR) that is a key part of our engagement and collaboration. Some key objectives include:*
 
 1. *Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes*
-2. *Collect and discuss future goals and desired success measures*
-3. *Discuss product use cases of interest and/or future roadmap items*
-4. *Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)*
-
+1. *Collect and discuss future goals and desired success measures*
+1. *Discuss product use cases of interest and/or future roadmap items*
+1. *Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)*
 
 *Ultimately, we seek to ensure we're aligned on the path forward to continue delivering to your business needs with the GitLab platform. If you're open to it, we will coordinate with you to find a time that best suits your availability. The EBRs typically take 60-90 minutes.*
-
 
 *Please let me know if you have any questions.*
 
@@ -149,4 +145,3 @@ Besides creating the deck, there are a few other items to consider to ensure you
 To create the content for the EBR, please review the [EBR Template](https://docs.google.com/presentation/d/1Ubfsa7GgU7XEtr0IuPDaDA9s5dkm64u26T0Me08WP68/edit).  Note this template is aimed at EBRs 60-90 minutes in length, and the account team may want to consider adding or removing elements depending on most relevant content and time allotted. Please watch the [EBR interview](https://www.youtube.com/watch?v=luxIdKtGB_s&ab_channel=GitLabUnfiltered) for a walkthrough of the three major components of an EBR and tips & tricks on successful delivery!
 
 There are also several examples EBR decks and past recordings linked in the [Chorus Playlist](https://chorus.ai/playlists/741604) (Internal Only Link) and [EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing) (Internal Only Link) for TAMs and other GitLab team members to review and take inspiration from (please keep all customer-specific content confidential).
-
