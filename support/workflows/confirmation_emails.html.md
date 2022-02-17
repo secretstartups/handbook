@@ -48,10 +48,12 @@ Before the issue can be resolved we first need to locate the account in question
 
 ### Typo Fix
 
-1. Ensure the account has no activity by checking that the `Confirmed at:` field is blank/nil.
+1. Ensure the user is a [customer with a current paid subscription](https://about.gitlab.com/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html#identifying-customers-and-users).
+1. Ensure the user's account has no activity by checking that the `Confirmed at:` field is blank/nil.
+1. Ensure the user's account has no group or project memberships. If the account does have group or project memberships, then the user must pass the [Account Ownership Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html) workflow before proceding any further.
 1. Change the email address to the correct one using one of the following methods:
     - **Admin:**
-      1. Pull up the users account while logged in with your admin account.
+      1. Pull up the user's account while logged in with your admin account.
       1. Click `Edit`.
       1. Change the email address.
       1. Click `Save changes` when done.
