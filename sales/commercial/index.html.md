@@ -188,6 +188,7 @@ An [Opportunity Consult](https://about.gitlab.com/handbook/sales/command-of-the-
 
 A Lightweight Deal Review (LDR) is a shorter (5-10 minute) deal review that is designed to identify gaps in the [Command Plan](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/#overview) and specific next steps. At the end of an LDR, an AE and ASM should have a plan in place to capture the information that is not in the Command Plan, and a specific plan of action on and before the next call.
 
+
 #### SMB
 
 - An Opportunity Consult happens when the opportunity Net ARR threshold is $10K +
@@ -238,6 +239,47 @@ It is required that all opportunities above $10,000 (Mid Market) and $5,000 (SMB
     - The intent of this slide is to have the conversation with the customer on 'what is possible', and to capture their feedback
 1. **Full capture of the customer's feedback on the 'Single Application' slide**
     - Capture the customer's actual words in the speaker notes of the 'single application' slide
+
+## Red / Green Process and Procedures
+### Red / Green Purpose
+
+Effective ASM coaching of the why now, why do anything, why GitLab and specific next steps the Account Executive will take with the prospect/client. The goal of the red/green process is to accurately forecast which opportunities will close for each designated fiscal period (Month/Quarter). The red/green process is  meant to most acutely build skills around identifying the timeline that is most comfortable for the customer to close.
+
+### Red / Green Definition
+
+Designating each opportunity that has a shot to close at the end of each fiscal period as either Red (not going to close before the end of the month), or Green (going to close before the end of the month), and updating manager notes with a defense of the color and a specific next step the AE will complete by the next check in (usually the next day). For context, a green account will have a “why now” that corresponds with a close before the end of the period.
+    - The threshold (unless otherwise stated) for accounts that will be reviewed during Red/Green is:
+        - SMB: $2,000 NetARR or greater
+        - Mid-Market: $7,000 NetARR or greater
+
+### Red / Green Tactics
+1. Red/Green meetings are held the 15th (or closest non-weekend day prior to the 15th) of each month, and the last five work days of the month. 
+
+1. Area Sale Managers should conduct R/G meetings live with each of their Account Executives. This discussion should not be held asynchronously. Checklist of items below in this order. Advance to next question once prior is confident
+    - Is this opportunity Red or Green?
+    - Why do anything at all?
+    - Why GitLab?
+    - Why now? (Is there a time-driven reason this opportunity will close within a specific time time frame)
+    - What level is your closest relationship with?
+    - How can they help you:
+        - Get accurate information on the ideal time for the customer to buy GitLab?
+        - Get you access to someone else in the organization who has access to the above information?
+    - What is the AEs immediate next step based on the answer to the items above? If anything less than “wait for account to move from closing to closed-won”, then see “Why Now” question.
+        - An example of a specific next step would be to ask your closest contact: “Is this at all easier for you if we close this next month?”
+
+1. Once Red/Green discussion is complete on the account, the ASM will enter notes in the “manager notes” section of the opportunity to reflect the discussion and the immediate next step the account executive will take.
+
+1. Repeat the same process the following date for all accounts above the threshold.
+
+### Red / Green Outcome: 
+Hit the forecast we commit to and build better sales skills for our AEs and better coaching skills for our ASMs.
+    - Ideal skills that need to be built are:
+        - Understanding the concepts and execution around knowing the ideal timeline the customer wants to close.
+        - Identifying pain and having customers understand both the negative impacts of not switching to GitLab as well as the realized positive business outcomes by switching to Gitlab.
+        - Building a time-bound mutual success plan with the customer based on the severity or the ability for the customer to devote resources to a project.
+
+### Red / Green Lookback Process
+At the first R/G meeting of the following period, the leadership team will submit their actual closed-won for the prior period as well as their final R/G commitment. Team will then discuss the reasons why each finished where they did and identify any items that led to variation from commitment. 
 
 ## SMB Account Executives
 
