@@ -29,7 +29,7 @@ graph TD
     D -->|Yes| C[Done]
     D -->|No| F[Use SLA and Queue workflow: Take appropriate action]
     J --> |No| E[Use Needs Org workflow: Find and associate the organization]
-    J --> |Yes| I[Does it quality for Support?]
+    J --> |Yes| I[Does it qualify for Support?]
     I --> |No| K[Set form to 'Community']
     I --> |Yes| E
 ```
