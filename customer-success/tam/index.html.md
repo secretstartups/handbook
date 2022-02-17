@@ -64,7 +64,7 @@ Key areas of exploration:
 
 ### TAM Segments & Metrics
 
-- [TAM Segments and Associated Metrics](/handbook/customer-success/tam/customer-segments-and-metrics/)
+- [TAM Segments and Associated Metrics](/handbook/customer-success/tam/segment/)
 - [TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
 
 ### TAM Learning & Development
