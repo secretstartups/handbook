@@ -190,6 +190,7 @@ The following criteria make a deal eligible for a holdover:
 **Enterprise**
 1. Deal size (Net ARR) is > $50K for Growth and > $5K for New Logo
 1. The deal is in stage 3+
+1. Close date must be within 90 days prior to holdover expiration date
 1. Requires evidence of engagement in the 30 days prior to announcement of the change
 1. Deals that meet this criteria are given a 90 day holdover expiration period. If the deal does not close in 90 days it will be moved to the current account owner.
 
