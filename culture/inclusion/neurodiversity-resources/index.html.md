@@ -23,6 +23,8 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
  
 [![](https://mermaid.ink/img/pako:eNp1VMtu2zAQ_JWFLr0k_QAfatRRYvcVBGgugZzDmlxLhCVS5cOGEeffuxQpQQ4Qn2R6ODM7s9ZbIYykYlHUFvsGnsutBv58rzbo4GwCdKixJgvCdB1pTxKMBm9ReQeWWown3kSoBU3BGqmOZJ3yZ1A6IVS8kSE92b2xTCpo-QpZ7Pb22-WF3AVWLHukQdfSv0Ausp-MPQAKNmDkQOaAKRKd60movRIfpVmuU17VbG8uCco5Zl3C60z50VzgrvqDZ9DGM1EaSConWuMI0INvlAOvOsrXVpPhMhn2DTFStKg6BzsiDS70vbHR_u6crOYgl3OOKH1f3fFISlKEHJSuAcfhhznnk8NJ-cYEP7oLlkfaD3lJM9jfE7WxK77pcdeOjsvJ8UP1wmiBbNGbHhqaKCzUBlsHcVYDNfnPQn-8yvorlEO3zKfaFk6o_Ty_5dxBnHddZfxgdR4NNx1aDozG9FhiGi_TyZg154PuylJyKrJT1DJ1puKO7lsSsQhex7Xyv3H3xcER27gH2dsDe4NNxfmMK7nhk_S0jr-l6H4O0blmcCnG0rKzWFz2-rGDMc7oPE824OKqvc5VYjy_pn4mBV7ytBixfd6OJzI9s64Ci5Jz8ITWa8ZxGFGi_LGCZ8IOcBdX5brEFA1xyLxeJxz-Kdj31qBorsrIxoqboiP-8yjJ74i3eLYt-H5H22LBjxLtYVts9TvjQs8idC-VN7ZYeBvopsDgzd-zFuP3hCkV8uumS4fv_wEf0Zan)](https://mermaid.live/edit/#pako:eNp1VMtu2zAQ_JWFLr0k_QAfatRRYvcVBGgugZzDmlxLhCVS5cOGEeffuxQpQQ4Qn2R6ODM7s9ZbIYykYlHUFvsGnsutBv58rzbo4GwCdKixJgvCdB1pTxKMBm9ReQeWWown3kSoBU3BGqmOZJ3yZ1A6IVS8kSE92b2xTCpo-QpZ7Pb22-WF3AVWLHukQdfSv0Ausp-MPQAKNmDkQOaAKRKd60movRIfpVmuU17VbG8uCco5Zl3C60z50VzgrvqDZ9DGM1EaSConWuMI0INvlAOvOsrXVpPhMhn2DTFStKg6BzsiDS70vbHR_u6crOYgl3OOKH1f3fFISlKEHJSuAcfhhznnk8NJ-cYEP7oLlkfaD3lJM9jfE7WxK77pcdeOjsvJ8UP1wmiBbNGbHhqaKCzUBlsHcVYDNfnPQn-8yvorlEO3zKfaFk6o_Ty_5dxBnHddZfxgdR4NNx1aDozG9FhiGi_TyZg154PuylJyKrJT1DJ1puKO7lsSsQhex7Xyv3H3xcER27gH2dsDe4NNxfmMK7nhk_S0jr-l6H4O0blmcCnG0rKzWFz2-rGDMc7oPE824OKqvc5VYjy_pn4mBV7ytBixfd6OJzI9s64Ci5Jz8ITWa8ZxGFGi_LGCZ8IOcBdX5brEFA1xyLxeJxz-Kdj31qBorsrIxoqboiP-8yjJ74i3eLYt-H5H22LBjxLtYVts9TvjQs8idC-VN7ZYeBvopsDgzd-zFuP3hCkV8uumS4fv_wEf0Zan)
 
+[Diverseability Resource - Diclosing your disability to your team and GitLab](https://about.gitlab.com/company/culture/inclusion/erg-gitlab-diversability/#disclosing-your-disability-to-your-team-and-gitlab)
+
 ## Resources for Team Members and Managers+
 
 - [How to embed neurodiversity into your people management practices](https://www.hrzone.com/perform/people/how-to-embed-neurodiversity-into-your-people-management-practices)
@@ -33,6 +35,7 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 - [Neurodiver-city.org](https://www.neurodiver-city.org/)
 - Useful videos for understanding ADHD from the outside, [What is ADHD?](https://www.youtube.com/watch?v=xMWtGozn5jU) and [Why Do We Hold Ourselves to Neurotypical Standards?](https://www.youtube.com/watch?v=IMeCxDQZeqY) 
 - [Specialisterne Blog](https://www.us.specialisterne.com/category/blog/)
+- [Youtube channel with significant amounts of information, interviews, and personal experiences relating to ADHD](https://www.youtube.com/c/HowtoADHD)
 
 ## Team Member Profile 
 
