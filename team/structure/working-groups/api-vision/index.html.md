@@ -69,6 +69,7 @@ This is a list of topics that we want to discuss:
 - Improve the documentation of the API.
 - Create learning paths and content to contribute to the API.
 - Define minimum levels of performance and stability, with appropriate checks and monitoring.
+- Refresh personas to account for users of our APIs.
 
 ## Roles and Responsibilities
 
