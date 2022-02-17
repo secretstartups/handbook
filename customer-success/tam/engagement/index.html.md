@@ -108,7 +108,7 @@ Has responsibility for the security of the software the customer develops. This 
 
 ### Persona Enablement
 
-We have developed role-play scenarios to practice identifying and gaining access to the defined personas.
+We have [role-play scenarios to practice identifying and gaining access to the defined personas](/handbook/customer-success/tam/roleplays/#customer-personas).
 
 ## Customer Prioritization
 
