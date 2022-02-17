@@ -117,7 +117,7 @@ Staging-Canary deployments precede Staging deployments as described in [releases
 Accessing Staging-Canary can be accomplished in two ways:
 
 - Using the subdomain [canary.staging.gitlab.com](https://canary.staging.gitlab.com/users/sign_in)
-- Using the subdomain [staging.gitlab.com](https://staging.gitlab.com/users/sign_in) _**with the addition**_ of setting a `gitlab_canary=true` cookie. When the cookie exists, traffic will be routed to canary.staging.gitlab.com. This is the same cookie set by [next.gitlab.com](https://next.gitlab.com), however, it must be set by the user manually or programmatically.
+- Using the subdomain [staging.gitlab.com](https://staging.gitlab.com/users/sign_in) _**with the addition**_ of setting a `gitlab_canary=true` cookie. When the cookie exists, traffic will be routed to canary.staging.gitlab.com. This is the same cookie a user can set by visiting [next.gitlab.com](https://next.gitlab.com).
 
 If you have access to Staging, you should have access to Staging-Canary. Follow the same process for requesting access as listed in [Staging](/handbook/engineering/infrastructure/environments/index.html#staging)
 
