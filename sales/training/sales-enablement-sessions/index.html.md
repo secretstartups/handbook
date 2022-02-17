@@ -23,12 +23,11 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Feb 17 | Q1 FY23 Channel Update | Ed C.  |
 | Feb 24 | Q1 FY23 Alliances Update | Mayank T. & Pete G.  |
 | Mar 3 | Solution Selling | TBD  |
 | Mar 10 | Q1 FY23 Professional Services Update | TBD |
-| Mar 17 | TBD |  |
-| Mar 24 | Customer References Update | Customer References Team |
+| Mar 17 | Customer References Update | Customer References Team |
+| Mar 24 | No session this week due to GitLab SKO 2022|  |
 | Mar 31 | TBD |  |
 | Apr 7 | TBD |  |
 | Apr 14 | Q1 FY23 Competitive Update | Francis P. |
@@ -43,6 +42,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-02-17 | **[Q1 FY23 Channel Update](https://youtu.be/pYRwkcYR9Xk)** | Private  |
 | 2022-02-10 | **[GitLab Runner Sales Playbook](https://youtu.be/dzu7SojmPYo)** | Private |
 | 2022-02-03 | **[GitLab Value Stream Assessment](https://youtu.be/jfM3AG6dBFY)** | Private |
 | 2022-01-06 |  **[GitLab on IBM Power - Modernization](https://youtu.be/0c0CE3JWz0Q)**     | Private    |
