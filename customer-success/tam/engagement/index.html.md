@@ -92,6 +92,24 @@ Recommended options to review with the customer include:
 - If disengagement is due to the customer downgrading/churning, identify the features they will lose access to with the [feature comparison](https://about.gitlab.com/pricing/self-managed/feature-comparison/) page. 
 - Online resources such as the GitLab documentation, blog, YouTube channels, [community forum](https://forum.gitlab.com/) and other relevant materials that they can for self-serve guidance.
 
+## Customer Personas
+
+Technical Account Managers focus on helping customers achieve business outcomes by advising and enabling customers on usage of GitLab features. We are able to do this most effectively when we are engaged with customer personas who are responsible for the capabilities that GitLab provides.
+
+We have defined two key personas that TAMs should regularly engage with and align on outcomes and use cases:
+
+### Development Lead
+
+A member of the customer's development or engineering department, in a leadership role. This person is aware of and/or responsible for delivering on customer business objectives related to the customer's software production. They are able to speak to development workflows, and SDLC and DevOps practices and challenges.
+
+### Software Security Lead
+
+Has responsibility for the security of the software the customer develops. This person is able to speak to business requirements, objectives, compliance frameworks, etc. that the customer has related to the software they produce. They have knowledge of (and possibly own) the customer's current security scanning & management tools.
+
+### Persona Enablement
+
+We have developed role-play scenarios to practice identifying and gaining access to the defined personas.
+
 ## Customer Prioritization
 
 GitLab uses a customer prioritization model and [associated metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics/) based on their customer segment (Strategic, Named, Scale) to focus the TAM's efforts where they will have maximum value and impact. 

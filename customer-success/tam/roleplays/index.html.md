@@ -14,7 +14,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ---
 
-### Roleplay Scenarios
+## Roleplay Scenarios
 
 - [Success planning](https://about.gitlab.com/handbook/customer-success/tam/success-plans/) and uncovering strategic goals
    - "Ticklish Licorice" scenario
@@ -38,3 +38,22 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
       - [Buyer info sheet](https://docs.google.com/document/d/1Zuy4z2YHZR0GXdQB_zexiknDKllgRab59wFWj3kpVnU/edit)
       - [Seller info sheet](https://docs.google.com/document/d/1jwLo3GYA81VNcXg7vHTRF7iMkF7YihV7a362yPtZx0o/edit)
 
+### Customer Personas
+
+These role-play scenarios are designed to practice identifying and gaining access to people in the listed [personas](/handbook/customer-success/tam/engagement#customer-personas).
+
+#### Development Lead or Other Stakeholder
+
+The defined persona for [somebody in a leadership role within the customer's development or engineering department](/handbook/customer-success/tam/engagement#development-lead).
+
+- [TAM role](https://docs.google.com/document/d/14UFM4x6Q1QWymydyTWryokHhEXlOvqjyGEhqtXa6ZDA/edit?usp=sharing)
+- [Customer role](https://docs.google.com/document/d/1o8IjSdwLe1ZVfI4bsUYrRdDgXGs7e56vz2vhJAYpI2A/edit?usp=sharing)
+- [Post-scenario review](https://docs.google.com/document/d/1kzRyNXx-HyZxrjNY-pxCEkd5hUWd1O5ZwZCWRrbNkuI/edit?usp=sharing)
+
+#### Software Security Lead
+
+The defined persona for [somebody responsible for a customer's application security](/handbook/customer-success/tam/engagement#software-security-lead).
+
+- [TAM role](https://docs.google.com/document/d/1SIgs3mDwmrotLl78WONF9SQhTzeFi9s8vhpUP0k3kzk/edit?usp=sharing)
+- [Customer role](https://docs.google.com/document/d/1LAIIj-0HSXlxdhUWMdp78IcVqAIL88EwQwTd9BAoumw/edit?usp=sharing)
+- [Post-scenario review](https://docs.google.com/document/d/1xUVhvuFTcS8v-jd6NN6IHAjg7Cd-caPFsci7eHfj4yY/edit?usp=sharing)
