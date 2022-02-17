@@ -155,12 +155,19 @@ As per
     * Incident Management - CMOC (APAC Group 1)
     * Incident Management - CMOC (APAC Group 2)
     * CMOC Shadow
-  * Escalates after 5 min
+  * Escalates after 10 min
 * Level 2
   * Notify the following users or schedules
     * Support Manager - AMER
     * Support Manager - APAC
     * Support Manager - EMEA
+  * Escalates after 5 min
+* Level 3: 
+  * Notify the following users or schedules
+    * Shaun McCann
+    * Lee Matos
+    * Lyle Kozloff
+    * Val Parsons
 
 ### Licensing - Internal Requests Hawk
 
