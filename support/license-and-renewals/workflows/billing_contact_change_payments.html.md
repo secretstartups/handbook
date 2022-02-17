@@ -57,6 +57,11 @@ When billing processes an [entity change](https://gitlab.com/gitlab-com/Finance-
 billing creates a second Zuora account for the customer, with a different entity
 than the original.
 
+To identify entity changes, check the `Renewal subscription` field in a Zuora subscription.
+The original (and now cancelled) subscription will point at a `Renewal subscription` that can be used to search for the new Zuora account.
+
+##### Effect on Self-Managed subscriptions
+
 When an entity change happens at renewal, it can impact how licenses are
 generated. If you are troubleshooting a license issue, check Zuora to see if
 there are 2 accounts with different entities to confirm if an entity change took
@@ -65,6 +70,19 @@ place.
 The issue that we will see more often is the renewal license not generated with
 previous users or trueups. In the event of the license being impacted by the
 entity change, we can assist with a manual license.
+
+##### Effect on SaaS subscriptions
+
+As part of the [entity change](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Process-for-change-of-entity) process,
+the Billing team sets the new Zuora account to `silent` when creating the relevant quote, opportunity, and subscription from the previous account.
+
+The `silent` account setting results in no **Order** being created in [Customers Portal](https://customers.gitlab.com/customers/sign_in).
+You can confirm that a Zuora account is `silent` by checking **Billing and Payment Info** -> **Communication Profile**.
+
+**NOTE:** A subscription in the Customers Portal account may be visible but it would be impossible to link it to a group because of lack of an Order entry.
+
+These situations are handled by following the steps in the [Billing Entity Change: Associate Subscription](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/Billing%20Entity%20Change%3A%20Associate%20Subscription.md)
+issue template.
 
 ## Cancellations, Downgrades, and Refunds
 

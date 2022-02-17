@@ -24,6 +24,7 @@ the following labels receive the appropriate attention from Support:
 
 * `Activate Trial Runners issue` - [Workflow](/handbook/support/license-and-renewals/workflows/saas/ci_minutes.html)
 * `Associate Subscription Console Escalation::Customers` - Workflow to be documented
+* `Billing Entity Change: Associate SaaS Subscription Issue` - Workflow instructions on template
 * `Console Escalation::Customers` - Workflow to be documented
 * `Resend/Forward License Request` - [Workflow](/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html#resend-forward-the-license)
 * `GitLab.com Trial Extension Issue` - [Workflow](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials)
