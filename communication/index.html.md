@@ -354,6 +354,7 @@ Some things are **internal**, available internally but not externally. The follo
 1. Information related to a press embargo, or related to an upcoming publication where the response will be managed by our external communications team
 1. Information that relies on someone else's copyrighted IP. Our [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/), for example, relies on private sources of information and can't be made completely public.
 1. Information related to early exploratory initiatives in which premature sharing of information could slow down purchases.
+1. When there is a product offering being developed that is expected to generate very high demand that cannot be quickly met, it should be kept internal in order to give the team the time to create the right solution.
 
 ### Limited access
 
