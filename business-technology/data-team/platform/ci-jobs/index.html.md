@@ -175,6 +175,15 @@ This jobs runs against the clone of `RAW`. Requires the `clone_raw` job to have 
 Specify which snapshot to run with the variable `DBT_MODELS`.
 This jobs runs against the clone of `RAW`, using a large SnowFlake warehouse. Requires the `clone_raw` job to have been run.
 
+#### DBT CI Job size
+
+If you want to run a dbt job via the `specify_*_model` or `specify_*_exclude`, you have the possibility to choose the size of the Snowflake warehouse you want to use in the CI job. Starting with XS, followed by L and last you can select XL size warehouse. This can be done to trigger different CI Jobs.
+* CI Job `specify_model` is using a `XS` warehouse.
+* CI Job `specify_l_model` is using a `L` warehouse.
+* CI Job `specify_xl_model` is using a `XL` warehouse.
+
+Using a bigger warehouse will result in shorter run time (and prevents timing out of large models), but also results in bigger costs for GitLab. You start with the regular `specify_model` CI Job. If this is not suitable, you can move over to the `specify_l_model` and alternatively you can use the `specify_xl_model`. Of course there can be a good reason to use a bigger warehouse, if there are complex transformations or lots of data to be processed more power is required. But always also please check your model. Maybe the model can be adjusted to run more efficiently. Running your test on a bigger warehouse will not trigger instant costs on Snowflake only on **this** CI Job, but it also could run inefficiently in production and could have a much bigger impact for the long run.
+
 ### 🛠 dbt Misc
 
 These jobs are defined in [`snowflake-dbt-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/snowflake-dbt-ci.yml)
