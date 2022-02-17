@@ -100,7 +100,7 @@ Due to the limited number of licenses available for Coupa, it is recommended tha
 - [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
 - [Data Processing Addendum](https://docs.google.com/document/d/188OI1xC63VpqWNbot-O-KmUXPAqh7q0s/edit?usp=sharing&ouid=105676530718857820161&rtpof=true&sd=true)
 - [EU Standard Contractual Clauses](https://drive.google.com/file/d/1oOgETU0YZrp_JhM88oI57DsLEh1qpvFV/view?usp=sharing)
-- [US Contractor Agreement](https://docs.google.com/document/d/1L_GeF3I4Ak_ijjrSv_V7kJpE5EKp2hM6/edit?usp=sharing&ouid=101595031187349560306&rtpof=true&sd=true)
+- [US Contractor Agreement](https://docs.google.com/document/d/1A8mnzoJ_lJ3MP-ZUTm29n1Xev4H6EQyG/edit?usp=sharing&ouid=101595031187349560306&rtpof=true&sd=true)
 - [SOW Template](https://docs.google.com/document/d/1IUgGGxmNSPZ3gJK-qt2LZ1vsKJZG1oWs/edit?usp=sharing&ouid=101595031187349560306&rtpof=true&sd=true)
 - [Change Request Template](https://docs.google.com/document/d/1AHagOA8g_RSt9cpVHrlxiRHKOutcxvJ6/edit?usp=sharing&ouid=101595031187349560306&rtpof=true&sd=true)
 
