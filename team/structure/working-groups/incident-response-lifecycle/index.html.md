@@ -77,7 +77,7 @@
 | Exec Sponsor        | [Steve Loyd](@sloyd)      | VP Infrastructure         |
 | Member              | [Aaron Blanco](@ablanco3)          | SIRT member                  |
 | Member              | [Anthony Fappiano](@afappiano)          | Manager Reliability                   |
-
+| Development Functional Lead | [Dan Croft](@dcroft) | Senior Engineering Manager, Ops |
 
 
 ## Requirements and Considerations
