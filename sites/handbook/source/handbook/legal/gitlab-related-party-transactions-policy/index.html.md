@@ -31,7 +31,7 @@ You are a Related Party if you are:
 
 1. a person who is, or at any time since the begining of our last fiscal year was, a director or executive officer of the Company or a nominee to become a director;
 
-2. a significat stockholder, or an immediate family member of a director, director nominee, executive officer or signifiant stockholder. This includes any chiild stepchild, parent, stepparent, spouse, sibbling, in-law (mother, father, son, daughter, brother, sister) of such person, and any person (other than a tenant or employee) sharing the household of such person. 
+2. a significat stockholder, or an immediate family member of a director, director nominee, executive officer or signifiant stockholder. This includes any child stepchild, parent, stepparent, spouse, sibbling, in-law (mother, father, son, daughter, brother, sister) of such person, and any person (other than a tenant or employee) sharing the household of such person. 
 
 ### WHAT TYPES OF TRANSACTIONS ARE COVERED BY THIS POLICY?
 
