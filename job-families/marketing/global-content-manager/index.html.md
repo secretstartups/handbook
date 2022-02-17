@@ -52,7 +52,7 @@ The Senior Manager, Global Content is a [grade 9](/handbook/total-rewards/compen
 
 ### Director, Global Content
 
-The Director, Global Content reports to Senior Director, Inbound Marketing.
+The Director, Global Content reports to VP, Corporate Marketing.
 
 #### Director, Global Content Job Grade
 
