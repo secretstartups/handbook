@@ -12,7 +12,7 @@
 | Date Created | February 01, 2022 |
 | Target End Date   | April  30, 2022 |
 | Slack        | [wg-incident-respose-management-framework](https://gitlab.slack.com/archives/C02UMD8S8NM) |
-| Google Doc   | [Incident Response Management Working Group](https://docs.google.com/document/d/1SwbD-Vbt813DUtS5VaXWI7p80yE5rqyNBwJFwmVT_Ko/edit#) (only accessible from within the company) |
+| Google Doc   | [Incident Response Management Working Group](https://docs.google.com/document/d/1SwbD-Vbt813DUtS5VaXWI7p80yE5rqyNBwJFwmVT_Ko/edit#) (internal) |
 | Issue Label | WG-IRM (gitlab-com/-org) |
 
 ## Business Goal
