@@ -119,7 +119,7 @@ Whether related to an ongoing incident or not, Infrastructure or Security may as
 
 As the CMOC you'll guide the incident through the following three stages.
 
-1. Stage 1: **Incident Creation** - Creating the incident in Status.io, joining the incident Zoom call, and notifying the E-Group if necessary.
+1. Stage 1: **Incident Creation** - Creating the incident in Status.io, joining the incident Zoom call, and [notifying the E-Group](#3-notify-stakeholders).
 1. Stage 2: **Incident Updates** - Following along with the work being performed by the EOC and any assisting engineers to resolve the incident and making updates to Status.io along the way while adhering to the [Frequency of Updates](#frequency-of-updates) schedule. We may also be going through the Zendesk queue replying to incident tickets and tagging them.
 1. Stage 3: **Incident Resolution** - Setting the incident to **Monitoring** in Status.io for a period of time to ensure that the issue does not recur before we close it out, eventually setting the incident to **Resolved**, and adding a link to the post-mortem issue in Status.io. In certain cases we may be asked to skip the monitoring period and move straight to **Resolved**.
 
@@ -132,7 +132,7 @@ The following steps should be taken immediately after receiving a PagerDuty page
 1. Acknowledge the PagerDuty page.
 1. Join the incident Zoom call, provided by [Woodhouse](#how-are-incidents-declared).
 1. Create the incident in Status.io.
-1. Notify internal stakeholders, if necessary.
+1. Notify internal stakeholders.
 1. Add `~Incident-Comms::Status-Page` label to the GitLab Incident Issue
 1. Resolve the PagerDuty page.
 
