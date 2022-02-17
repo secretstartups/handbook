@@ -809,17 +809,19 @@ FMMs may work with “Open” partners outside of P0 and P1 regions depending up
 
 ### Lead Management in the Channel
 
-- GitLab will own the leads and lead management if the Channel Partner is participating in a GitLab led initiative (FMM led and funded). 
-- The Channel Partner will own leads and lead management if the lead gen activity is a joint GTM push where both the partner and GitLab are both part of the solution (i.e. GitLab software + partner implementation services + partner integration services)
-- The Channel Partner will own leads and lead management if GitLab is participating in a Channel Partner led initiative. (MDF Co-Funded)
-- Both GitLab and the Channel partner will work the leads and lead management if GitLab asks a Channel partner to sponsor (paid sponsorship) a GitLab led initiative. GitLab and the Channel partner will collaborate and agree on a clearly laid out plan for how the leads will be jointly worked in advance of the activity taking place.
-- Please remember that from a sales perspective, channel deals (MQLs, SAOs, PSOs and won deals) are considered comp neutral so both the partner and the GitLab sales field team gets compensated. So for every deal/lead/PIO/Closed partner deal we ALL get 'credit'.
+Please refer to the [Channel Partner Joint GitLab events handbook page](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-events) for details on how we set up our joint campaign and also lead sharing with the channel as a result of those campaings. 
+
+All campaigns we are working with channel partners must flow through the outlined process as a way to ensure we are tracking the success of the campaign properly. 
 
 ### Tracking success of FMM campaigns with Channel
  
-Please refer to the [Channel ROI section](/handbook/marketing/field-marketing/#field-marketing-roi-to-gitlab-channel). 
+Please refer to the [Channel ROI section](/handbook/marketing/field-marketing/#field-marketing-roi-to-gitlab-channel).
 
-### Here’s a quick rundown (not exhaustive) of what the Channel Program team handles
+### Useful Fields in SFDC that relate to Vartopia 
+1. To confirm WHO the leads are being sent to, look at the account level, and look for the field called `Partner Prospect Admin`. That will tell you who is receiving the leads. 
+
+### Channel Program 
+The below list is not exhaustive. 
 
 1. Manage/create SPIFFs
 1. Manage Partner Advisory Boards
@@ -830,8 +832,6 @@ Please refer to the [Channel ROI section](/handbook/marketing/field-marketing/#f
 If you are a FMM receiving requests to add a partner logo to our website, then please direct the CAM or partner to Channel Marketing.
 
 If you are a FMM receiving questions about the Channel Portal, then please direct the CAM or partner to Channel Programs.
-
-## Channel Marketing Handles
 
 Please head over to [their page](/handbook/marketing/channel-marketing/) to check out their work and process.
 For more details on what the Channel Programs team does, please head to their [page](https://about.gitlab.com/handbook/sales/channel/).
