@@ -39,7 +39,12 @@ _we've identified some prerequisites that must be complete before pursuing a rec
 | [Customer as a First Class Citizen](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1874) | As of 2022-02 we map a user to a subscription, but a Zuora account maps to a customer. We need to resolve this before scaling to a new or improved system | 
 | [SSO](gitlab-org/customers-gitlab-com#1868) | As of 2022-02 a customer can have two logins, their GitLab.com account AND an account on customers.gitlab.com, we need to merge these and maintain a single SSO system (gitlab.com account) |
 
-## Exit Criteria & Timeline
+## Exit Criteria 
+
+1. Identification and prioritization of all prerequisites on appropriate team roadmaps (WG will not cover delivery/execution)
+1. Recommendation on how to deliver long-term objectives, including assessment on build vs buy.
+
+## Timeline
 
 ### Path 1 (2022-02-02 > 2022-02-18) - 2 weeks
 1. Defined long-term / future-state of the self-service business needs across all teams and departments in a JTBD framework
