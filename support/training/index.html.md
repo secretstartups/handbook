@@ -27,6 +27,8 @@ To create an issue for yourself with one of the module templates:
 
 The hybrid model presents a structured training plan that will prepare the support engineer to work in different areas focusing their growth in the differences in how to approach problems in the new areas and get most our of the knowledge acquired up to that point.
 
+<div class="x-scrollable">
+<div style="width: 1800px;">
 
 ```mermaid
 sequenceDiagram
@@ -63,6 +65,9 @@ sequenceDiagram
         New SE->>New SE: As more experience is gained brings the topic to 1:1<br/>looking to increase the % of Self Managed work by 10%.<br/>With a goal of ~50%/5
     end
 ```
+
+</div>
+</div>
 
 # Overview of Support Onboarding
 
