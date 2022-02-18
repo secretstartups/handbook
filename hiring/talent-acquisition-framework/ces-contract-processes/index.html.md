@@ -29,8 +29,8 @@ This chart reflects the available signatories for each of GitLab's entities. The
 |-------- | -----|
 | GitLab Inc | Kelly Murdock, Rob Allen, Pattie Egan, Wendy Nice Barnes, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document.   | 
 | GitLab Federal LLC    |       Bob Stevens     |  
-| GitLab BV Belgium, Dutch & English | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
-| GitLab BV, Netherlands | Rob Allen & Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab BV Belgium, Dutch & English | Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab BV, Netherlands | Pattie Egan. Backups: Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab GmbH | Kelly Murdock (POA), Igor Groenewegen-Mackintosh | 
 | GitLab PTY Ltd, Australia | Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab PTY Ltd, New Zealand | Craig Mestel, Igor Groenewegen-Mackintosh | 
@@ -395,7 +395,6 @@ GitLab is working in partnership with [Global Upside](https://globalupside.com) 
 - India
 - Phillipines
 - Kenya
-- Denmark
 - Costa Rica
 - Latvia
 - Chile
@@ -432,7 +431,7 @@ The process for creating and sending an agreement is as follows:
 
 ## Remote.com
 
-GitLab has partnered with [Remote.com](https://remote.com/) to hire in South Africa, Mexico, Austria and Hungary. The actual employment contracts will be sent and issued by Remote and are in accordance with local labor law.  The offer details will be provided to Remote by GitLab's hiring team.
+GitLab has partnered with [Remote.com](https://remote.com/) to hire in South Africa, Mexico, Austria, Denmark, Switzerland, Spain, Italy, and Hungary. The actual employment contracts will be sent and issued by Remote and are in accordance with local labor law.  The offer details will be provided to Remote by GitLab's hiring team.
 
 To create the contract:
 
