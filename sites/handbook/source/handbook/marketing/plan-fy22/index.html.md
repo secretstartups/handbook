@@ -102,15 +102,15 @@ All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Alloc
 
 <!-- DO NOT CHANGE ANCHOR -->
 
-- <b>[GTM Motion](/handbook/marketing/plan-fy22#gtm-motions)</b>: a set of sales and marketing activities and asssets centered around a [use case solution](/handbook/marketing/strategic-marketing/usecase-gtm/).
-- <b>[GTM Motion Core Team](/handbook/marketing/plan-fy22#core-teams)</b>: a group of marketers as functional DRIs for specific GTM strategies, campaigns, and aligned Sales Plays
-- <b>[Theme](/handbook/marketing/plan-fy22#themes)</b>: time-bound "push" in marketing calendar (example: focus on Partner Showcase in a specific month)
-- <b>[Solution GTM Strategy](/handbook/marketing/plan-fy22#solution-gtm-strategy)</b>: a document that describes what problem the solution solves for customers, buyer personas, messaging, positioning, and relevant competitive points. This doc is used to inform content for the Sales Play (sales audience) and the GTM Motion campaign (marketing audience).
-- <b>[Sales Play](/handbook/marketing/plan-fy22#sales-plays)</b>: A repeatable set of steps a sales rep can take to drive revenue. The Sales Play document includes background information such as which company profiles and personas to target, messaging and positioning, and resources to utilize along with the specific steps to take. 
-- <b>[GTM Motion Campaign](/handbook/marketing/plan-fy22#gtm-motion-campaign)</b>: campaign briefing document used to communicate relevant info to internal and external marketing teams to generate demand for solutions (aka GTM Motions) (aligned to sales playbooks).
-- <b>[GTM 4x2](/handbook/marketing/plan-fy22#gtm-4x2)</b>: document used to ensure that sales and marketing are aligned on all aspects of the strategy for different market segments
+- <b>[GTM Motion](/handbook/marketing/plan-fy22/#gtm-motions)</b>: a set of sales and marketing activities and asssets centered around a [use case solution](/handbook/marketing/strategic-marketing/usecase-gtm/).
+- <b>[GTM Motion Core Team](/handbook/marketing/plan-fy22/#core-teams)</b>: a group of marketers as functional DRIs for specific GTM strategies, campaigns, and aligned Sales Plays
+- <b>[Theme](/handbook/marketing/plan-fy22/#themes)</b>: time-bound "push" in marketing calendar (example: focus on Partner Showcase in a specific month)
+- <b>[Solution GTM Strategy](/handbook/marketing/plan-fy22/#solution-gtm-strategy)</b>: a document that describes what problem the solution solves for customers, buyer personas, messaging, positioning, and relevant competitive points. This doc is used to inform content for the Sales Play (sales audience) and the GTM Motion campaign (marketing audience).
+- <b>[Sales Play](/handbook/marketing/plan-fy22/#sales-plays)</b>: A repeatable set of steps a sales rep can take to drive revenue. The Sales Play document includes background information such as which company profiles and personas to target, messaging and positioning, and resources to utilize along with the specific steps to take. 
+- <b>[GTM Motion Campaign](/handbook/marketing/plan-fy22/#gtm-motion-campaign)</b>: campaign briefing document used to communicate relevant info to internal and external marketing teams to generate demand for solutions (aka GTM Motions) (aligned to sales playbooks).
+- <b>[GTM 4x2](/handbook/marketing/plan-fy22/#gtm-4x2)</b>: document used to ensure that sales and marketing are aligned on all aspects of the strategy for different market segments
 - <b>[Prescriptive Buyer Journey](/handbook/marketing/prescriptive-buyer-journeys/)</b>: content aligned to buyer journey stages, leveraged in email nurture, digital marketing, and more
-- <b>[Project Compass](/handbook/marketing/plan-fy22#project-compass)</b>:
+- <b>[Project Compass](/handbook/marketing/plan-fy22/#project-compass)</b>:
 - <b>[LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)</b>: Landed Addressable Market; annual revenue opportunity of the entirety of GitLab's market within our current customer base
 - <b>[ICP](/handbook/marketing/revenue-marketing/account-based-strategy/ideal-customer-profile/)</b>: Ideal Customer Profile; description of our "perfect" customer company, taking into consideration firmographic, environmental and additional factors to develop our focus list of highest value accounts
 - **FIT Score**: a mathematical representation of how well a prospective customer fits within your ICP (ideal customer profile)
@@ -123,7 +123,7 @@ Based on discussions with Sales and Marketing leadership, feedback from Product 
 
 To view the GTM Motions Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motions FY22 Marketing Plan`.
 
-The GTM Motions each include a [Core Team](/handbook/marketing/plan-fy22#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](/handbook/marketing/plan-fy22#core-teams) and [Beyond the GTM Motion Core Teams](/handbook/marketing/plan-fy22#beyond-core-teams) below.
+The GTM Motions each include a [Core Team](/handbook/marketing/plan-fy22/#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](/handbook/marketing/plan-fy22/#core-teams) and [Beyond the GTM Motion Core Teams](/handbook/marketing/plan-fy22/#beyond-core-teams) below.
 All marketing team members should aim to focus ~70% of their time and plans around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion.
 
 ### What is included in a GTM Motion?
@@ -191,7 +191,7 @@ The Sales Play should include (at minimum):
 
 Sales Plays should be delivered as a handbook page, or as an interactive guide leveraging PathFactory - or both.
 
-To see the planned Sales Plays, see **column C** in [GTM Motions](/handbook/marketing/plan-fy22#gtm-motions).
+To see the planned Sales Plays, see **column C** in [GTM Motions](/handbook/marketing/plan-fy22/#gtm-motions).
 
 ## Sales enablement to support a Sales Play and/or GTM Campaign
 {: #sales-enablement}
@@ -227,7 +227,7 @@ Campaigns and Sales Plays.
 - The Core Teams are comprised of functional DRIs from teams aligned to product specializations (SMEs within their teams)
 - The Core Teams will kickoff together with the freedom to drive their GTM Motions as desired and with a strong team-oriented approach
 - The Core Teams will ensure nothing happens in a vacuum, by proactively integrating corresponding activities across marketing, and including those beyond the core team for input
-- The Core Teams are responsible for clearly communicating plans to all of Marketing ([also see Core Team communication](/handbook/marketing/plan-fy22#core-team-communication))
+- The Core Teams are responsible for clearly communicating plans to all of Marketing ([also see Core Team communication](/handbook/marketing/plan-fy22/#core-team-communication))
 
 ### Roles & Responsibilities
 {: #roles-responsibilities}
