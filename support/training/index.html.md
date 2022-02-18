@@ -10,6 +10,8 @@ description: Learning Pathways available to Support team members
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+{::options parse_block_html="true" /}
+
 # Support Learning Pathways
 
 All the learning pathways we have in Support are listed [here](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html). Each pathway contains a set of modules, and a module may reside in multiple pathways.
@@ -65,7 +67,6 @@ sequenceDiagram
         New SE->>New SE: As more experience is gained brings the topic to 1:1<br/>looking to increase the % of Self Managed work by 10%.<br/>With a goal of ~50%/5
     end
 ```
-
 </div>
 </div>
 
