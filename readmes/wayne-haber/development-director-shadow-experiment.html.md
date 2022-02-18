@@ -79,7 +79,7 @@ It is not a performance evaluation or a step for a future promotion.
 1. Plan to observe and ask questions
 1. Don't plan to do your normal amount of usual work.  You should reduce your workload by at least 75% during the shadowing time period.
 1. Participating in the shadow program is a privilege where you may be exposed to confidential information. This is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them.
-1. Review my calendar (link TBD)
+1. Review my [calendar](https://calendar.google.com/calendar/u/0?cid=d2hhYmVyQGdpdGxhYi5jb20)
 1. Review my [readme](/handbook/engineering/readmes/wayne-haber/) 
 1. Re-read GitLab's values prior to your shadow rotation, and be mindful of new and inventive ways that [CREDIT](/handbook/values/#credit) is lived out during the meetings you attend.
 
