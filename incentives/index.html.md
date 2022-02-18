@@ -180,7 +180,7 @@ graph TD;
 1. In **Nominated By**, select the person who's nominating the person for a
    group bonus.
 1. In **Bonus comments**, enter a one-sentence justification that details how
-   the team demonstrated one or more of our [values](/handbook/values) in this
+   the team demonstrated one or more of our [values](/handbook/values/) in this
    specific instance.
 1. Do not enter a value in **Comments for the Approver(s)**.
 1. Select **Submit** to send the bonus requests to your manager for approval.
