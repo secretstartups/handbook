@@ -36,6 +36,7 @@ As we have many triggers, and they change quite frequently, the best resource to
 see all the current triggers would be the
 [triggers project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/triggers).
 
+
 | Trigger Name | Category | Position |
 |--------------|----------|:--------:|
 | [Set Channel (received at) to Webform](https://gitlab.zendesk.com/agent/admin/triggers/360076288179) | Creation Stage | 1 |
@@ -137,7 +138,7 @@ see all the current triggers would be the
 | [Remove expired tag if consumption_only is present](https://gitlab.zendesk.com/agent/admin/triggers/360077272060) | Lifespan Stage | 28 |
 | [Create documentation issue](https://gitlab.zendesk.com/agent/admin/triggers/1900000372654) | Lifespan Stage | 29 |
 | [Email user and reopen ticket when user is associated to an org](https://gitlab.zendesk.com/agent/admin/triggers/360081260800) | Lifespan Stage | 30 |
-| [Reopen pending internal-request ticket when private comment is made](https://gitlab.zendesk.com/agent/admin/triggers/1900007707754) | Lifespan Stage | 31 |
+| [Reopen pending or solved internal-request ticket when private comment is made](https://gitlab.zendesk.com/agent/admin/triggers/1900007707754) | Lifespan Stage | 31 |
 | [Assign DigitalOcean tickets to Jason Colyer](https://gitlab.zendesk.com/agent/admin/triggers/360056594000) | Assignee | 1 |
 | [Remove assignee if non-human assignee](https://gitlab.zendesk.com/agent/admin/triggers/360017743040) | Assignee | 2 |
 | [Notifications::Assignee::Notify assignee of assignment](https://gitlab.zendesk.com/agent/admin/triggers/39696283) | Notifications | 1 |
