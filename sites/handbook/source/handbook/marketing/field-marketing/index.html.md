@@ -661,9 +661,9 @@ In Field Marketing, the FMCs manage all [Procurement Issues](https://gitlab.com/
 | Region | FM DRI | GitLab User ID | Slack Channel |
 | ------ | ------ | -------------- | -------------- |
 | [AMER East NE & SE](https://gitlab.com/groups/gitlab-com/marketing/-/boards/915674?&label_name%5B%5D=East) | Ginny Reib | `@GReib` |
-| [AMER East-Central](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1105137?&label_name[]=East%20-%20Central) | Rachel Hill | `@rachel_hill` |
-| [AMER West-PacNorWest](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | TBH | `TBH` |
-| [AMER West - NorCal/SoCal/Rockies](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Rachel Hill | `@rachel_hill` |
+| [AMER East-Central](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1105137?&label_name[]=East%20-%20Central) | Ginny Reib | `@GReib` |
+| [AMER West-PacNorWest](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Matthew Macfarlane | `@mmacfarlane` |
+| [AMER West - NorCal/SoCal/Rockies](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) | Ken Grabowski & Matthew MAcfarlane | `@kengrabowski``@mmacfarlane`  |
 | [AMER Public Sector](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933456?&label_name[]=Public%20Sector) | Helen Ortel & Kira Aubrey | `@Hortel` & `@KiraAubrey` |
 | [APAC](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933488?&label_name[]=APAC) | Pete Huynh | `@Phuynh` |
 | [EMEA Southern Europe](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1426531?&label_name[]=Southern%20Europe) | Juliette Francon | `@juliette.frcn` | [#emea_southern_europe_fieldmarketing](https://gitlab.slack.com/archives/CQ6FG8ETY) |
