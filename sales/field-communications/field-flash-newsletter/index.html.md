@@ -136,26 +136,5 @@ Qualitative Success Metrics
 - Improve the Sales section of the Handbook as a result of work on the newsletter. 
 
 ## Past Newsletters
-All past editions of the Field Flash are accedssible through Highspot, our go-to-market (GTM) content portal / asset management systemour go-to-market (GTM) content portal / asset management system. Highspot will be launched to the Field team in mid-February. 
-
-| **Edition** | **Subj Line** | **Highlights** |
-| ------ | ------ | ------ |
-| [August 2021: 2021-08-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-08-02) | NEW ⚡️ GitLab Field Flash: August Edition ⚡️ | FY22 Billing & Subscription Management Updates Enablement Resources, Partner Program and System changes |
-| [July 2021: 2021-07-06](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-07-06) | NEW ⚡️ GitLab Field Flash: July Edition ⚡️ | GitLab Product Vision, Newest Sales Play |
-| [June 2021: 2021-06-07](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-06-07) | NEW ⚡️ GitLab Field Flash: June Edition ⚡️ | GitOps Sales Play, President’s Club 2022 dashboard, Microsoft Compete |
-| [May 2021: 2021-05-03](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-05-03) | NEW ⚡️ GitLab Field Flash: May Edition ⚡️ | Upselling Premium to Ultimate Sales Play, Incident Management, Magic Quadrant for Enterprise Agile Tools |
-| [April 2021: 2021-04-06](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-04-06) | NEW ⚡️ GitLab Field Flash: April Edition ⚡️ | Field Ops updates, GitLab IDC feature, Co-selling with Partners & Alliances |
-| [March 2021: 2021-03-01](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-03-01) | NEW ⚡️ GitLab Field Flash: March Edition ⚡️ | SKO Recordings, Engagement Survey, DIB Certification, BoxBoat Partner Resources |
-| [February 2021: 2021-02-01](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-02-01) | NEW ⚡️ GitLab Field Flash: FY22 Kickoff Edition ⚡️ | SKO 2021, SOC Examinations, GitLab for Education, Gartner Market Guide for VSDP |
-| [January 2021: 2021-01-06](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-01-06) | NEW ⚡️ GitLab Field Flash: 2021 Kickoff Edition ⚡️ | Sales Kickoff, President's Club, Competitive Resource Updates, Field Certification |
-| [December 2020: 2020-12-07](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-12-07) | NEW ⚡️ GitLab Field Flash: December Edition ⚡️ | Gartner Market Guide, Strategic Marketing Asset Inventory, GitLab AnswerBase, Field Certification |
-| [November 2020: 2020-11-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-11-02) | NEW ⚡️ GitLab Field Flash: November Edition ⚡️ | Developer-Led Landscape, New ABM Lists, Partner Deal Registration System, Updated Competitor Comparison Charts |
-| [October 2020: 2020-10-08](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-10-08) | NEW ⚡️ GitLab Field Flash: October Edition ⚡️ | Q3 Cannonball Run, ROI Calculators, APAC Momentum, Public Competitive Resources |
-| [September 2020: 2020-09-01](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-09-01) | NEW ⚡️ GitLab Field Flash: September Edition ⚡️ | Gitlab Virtual Commit 2020 recap, President's Club 2021, Sales Ops updates |
-| [July 2020: 2020-08-06](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-08-06) | NEW ⚡️ GitLab Field Flash: July Edition ⚡️ | Enablement resources, QBRs, Channel momentum |
-| [June 2020: 2020-07-07](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-07-07) | NEW ⚡️ GitLab Field Flash: June Edition ⚡️ | GitLab Compete page, GitLab vs. BitBucket, Ecosystem Technology Partners |
-| [May 2020: 2020-06-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-06-02) | GitLab Field Flash: Your Top Field Highlights from May ⚡️ | Pricing overview, QBR ask follow-ups, GitLab 13.0 milestone release |
-| [April 2020: 2020-05-05](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-05-05) | GitLab Field Flash: Your Top Field Highlights from April ⚡️ | GitHub competitive resources, GTM Field Update, requirements management |
-| [March 2020: 2020-04-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-04-02) | We're Live! Time to Level Up with Field Flash. ⚡️ | Partner Program launch, COVID-19 resources & sales process changes |
-
+All past editions of the Field Flash are accessible through [Highspot](https://gitlab.highspot.com/spots/615dd89c0d9b82c44eeab9c6), our go-to-market (GTM) content portal / asset management system.
 
