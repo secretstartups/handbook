@@ -760,9 +760,9 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 | Region | FMM | CAM |
 | ------ | ------ | -------------- |
 | AMER East NE & SE | Ginny Reib | Sergio Cortes |
-| AMER East-Central | Rachel Hill | Sergio Cortes |
-| AMER West-PacNorWest | TBH | Jen Bailey |
-| AMER West - NorCal/SoCal/Rockies | Rachel Hill | Jen Bailey |
+| AMER East-Central | Ginny Reib | Sergio Cortes |
+| AMER West-PacNorWest | Matthew Macfarlane | Jen Bailey |
+| AMER West - NorCal/SoCal/Rockies | Ken Grabowski and Matthew Macfarlane | Jen Bailey |
 | AMER Public Sector | Helen Ortel & Kira Aubrey | Chris Novello|
 | APAC | Pete Huynh | Amelia Seow |
 | EMEA Southern Europe | Juliette Francon | Ilaria Pazienza |
