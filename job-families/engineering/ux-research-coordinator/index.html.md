@@ -8,15 +8,15 @@ At GitLab, UX Research Coordinators collaborate with our Product Designers, Prod
 ## Responsibilities
 
 - Drive all aspects of the UX research coordination program across GitLab
-- Maintain a strong working knowledge of the participant recruitment process
+- Maintain deep working knowledge of the participant recruitment process
 - Use GitLab for the intake of questions, concerns, and requests related to participant recruitment
-- Maintain strong lines of communication with team members to relay status of requests
-- Troubleshoot recruitment challenges as they arise
+- Maintain tight communication with team members to relay status of requests
+- Anticipate and troubleshoot recruitment challenges as they arise
 - Determine the best possible recruitment source for a given study
 - Understand the pros and cons of each recruitment source
 - Proactively report out key data
 - Use participant panels for recruitment
-- Stay aware of GDPR (General Data Protection Regulation) policies
+- Stay aware of and implement GDPR (General Data Protection Regulation) policies
 - Develop and manage participant panel growth strategies
 - Establish best practices for participant recruitment
 
