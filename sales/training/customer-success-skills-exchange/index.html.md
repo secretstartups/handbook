@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| 2022-02-16  |   [IniTech]     |     Fernando Diaz  |
+| 2022-03-16-17  |  **[GitLab 2022 Sales Kickoff Prework](https://gitlab.edcast.com/insights/ECL-80bd2ef1-0234-4f05-8a02-31c5f056d5a2)**     |    Accelerate is the theme for GitLab SKO 2022 |
 
 
 ## Past Sessions
@@ -32,6 +32,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2022-02-16 | **[Enhanced DevSecOps and Compliance Management Demo Environment](https://youtu.be/kXmE7Po_2rc)**     |     Public  |
 | 2022-02-02 | **[F.I.R.E. Collaborations - Igniting Inner Sourcing](https://youtu.be/khYtYQ_pCtM)**           |  Public            |
 | 2022-01-19 | **[GitLab Environment Toolkit (GET)](https://youtu.be/qzWxOFNpgsE)**           |  Public            |
 | 2021-12-15 | **[GitLab and RedHat OpenShift](https://youtu.be/gI8alsuQCyw)**           |  Public            |
