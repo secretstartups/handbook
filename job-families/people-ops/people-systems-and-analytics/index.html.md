@@ -7,6 +7,40 @@ The People Technology & Analytics Job Family owns the technology and reporting s
 
 ## People Technology  
 
+### HRIS Analyst, People Technology
+
+The HRIS Analyst, People Technology reports into the Director, People Tools and Technology.
+
+#### Job Grade
+
+The HRIS Analyst, People Technology is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+* Serve as HRIS system administrator by providing functional and technical expertise including system maintenance, assigning of security roles, troubleshooting issues, assisting with improvements, and ensuring overall data quality
+* Provide system and end user support internally within the People Group as well as external stakeholders throughout the organization
+* Ensure data integrity by performing system and security audits 
+* Participate in the configuration of annual People programs, system releases, which includes end-to-end preparation of test plan and test scripts 
+* Provide technical expertise, troubleshooting, and guidance, which includes HRIS training to support users and strengthen the organization’s ability to effectively and efficiently use the system
+* Load mass datasets, distribute policies and documents with confidence and thorough testing
+* Develop and maintain documentation of system configurations, business processes, and schedules of reporting and integrations
+
+#### Requirements
+
+* 2+ years of hands on HR technology experience managing HR systems
+* Excellent analytical and customer service skills
+* Ability to review and analyze data to identify and resolve problems
+* Strong communication skills, both verbal and written
+* Proven interpersonal and change management skills to champion adoption of new processes and technologies
+* Ability to exercise discretion with highly confidential information
+* Highly collaborative
+* Strong business acumen to recommend optimal solutions to complex business problems by evaluating and distinguishing user requests from the underlying true business needs
+* Ability to use GitLab
+* Bachelor's degree or equivalent experience preferred
+* Knowledge of trends and developments in data management, security, and HR technology preferred
+* Experience with a system implementation preferred
+* Workday and Greenhouse experience preferred
+
 ### Senior HRIS Analyst, People Technology
 
 The Senior HRIS Analyst, People Technology reports into the Director, People Tools and Technology.
