@@ -37,6 +37,7 @@ Staging Ref is a sandbox environment used for pre-production testing of the late
 - [Outgoing email](https://docs.gitlab.com/charts/charts/globals.html#outgoing-email) configured with Mailgun
 - [Advanced Search](https://docs.gitlab.com/ee/user/search/advanced_search.html) is configured with Elasticsearch and [GET](https://gitlab.com/gitlab-org/gitlab-environment-toolkit/-/blob/main/docs/environment_advanced.md#advanced-search-with-elasticsearch)
 - Ultimate license with [Free paid plan by default](#upgrade-paid-plans)
+- [Sentry](https://sentry.gitlab.net/gitlab/staging-ref/) configured for error reporting
 
 #### Deployment process
 
@@ -142,7 +143,6 @@ Staging Ref environment has some known limitations that will be worked on:
 
 - Test data configuration will be explored ([epic#7020](https://gitlab.com/groups/gitlab-org/-/epics/7020))
 - Setup Kibana for Staging Ref([issue#351816](https://gitlab.com/gitlab-org/gitlab/-/issues/351816))
-- Setup Sentry for Staging Ref([issue#352506](https://gitlab.com/gitlab-org/gitlab/-/issues/352506))
 - Configure CustomersDot portal for Staging Ref ([issue#352594](https://gitlab.com/gitlab-org/gitlab/-/issues/352594))
 - Incoming email setup ([issue#348970](https://gitlab.com/gitlab-org/gitlab/-/issues/348970))
 - More advanced configurations like Geo ([issue#350741](https://gitlab.com/gitlab-org/gitlab/-/issues/350741))
