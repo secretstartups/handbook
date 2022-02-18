@@ -460,6 +460,7 @@ As we ask team members to [spend company money like its your own](/handbook/valu
 1. Portable Air Conditioners
 1. Home Power Generators
 1. [Individual subscriptions ex. Krisp, Apple Music](#individual-subscriptions)
+1. Extended protection/warranty
 
 You should proactively engage your manager if you plan to make a work purchase that is outside of what would be considered standard by an average team member. Please [say why, not just what](/handbook/values/#say-why-not-just-what) when you are explaining what you are purchasing and why.
 
