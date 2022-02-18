@@ -16,18 +16,20 @@ description: "GitLab Data Team Platform"
 
 ## <i class="fas fa-map-marked-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Quick Links
  
-- [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure)
-- [Data pipelines](/handbook/business-technology/data-team/platform/pipelines)
-- [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs)
-- [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide)
-- [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw)
-- [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide)
-- [Permifrost](/handbook/business-technology/data-team/platform/permifrost)
-- [Python Guide](/handbook/business-technology/data-team/platform/python-guide)
-- [Sisense (Periscope)](/handbook/business-technology/data-team/platform/periscope)
-- [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide)
-- [Snowplow](/handbook/business-technology/data-team/platform/snowplow)
-- [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide)
+- [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure/)
+- [Data pipelines](/handbook/business-technology/data-team/platform/pipelines/)
+- [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs/)
+- [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide/)
+- [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw/)
+- [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/)
+- [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
+- [Python Guide](/handbook/business-technology/data-team/platform/python-guide/)
+- [Sisense (Periscope)](/handbook/business-technology/data-team/platform/periscope/)
+- [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/)
+- [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
+- [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
+- [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/)
+- [R/RStudio](/handbook/business-technology/data-team/platform/rstudio/)
 
 ## <i class="fas fa-cubes fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Our Data Stack
 
@@ -37,13 +39,13 @@ We use GitLab to operate and manage the analytics function.
 Everything starts with an issue.
 Changes are implemented via merge requests, including changes to our pipelines, extraction, loading, transformations, and parts of our analytics.
 
-| Stage           |              Tool             |
+| Stage           |              Tools             |
 | :-------------- | :---------------------------: |
-| Extraction      |  Stitch, Fivetran, and Custom |
-| Loading         |  Stitch, Fivetran, and Custom |
-| Orchestration   |            Airflow            |
-| Data Warehouse  |           Snowflake           |
-| Transformations |     dbt and Python scripts    |
+| Extraction      | Stitch, Fivetran, and Custom Code |
+| Loading         | Stitch, Fivetran, and Custom Code |
+| Orchestration   | Airflow |
+| Data Warehouse  | Snowflake Enterprise Edition |
+| Transformations | dbt and Python scripts |
 | Data Visualization | Sisense For Cloud Data Teams‎ |
 | Advanced Analytics | jupyter‎ |
 
@@ -53,11 +55,11 @@ We currently use [Stitch](https://www.stitchdata.com) and [Fivetran](https://fiv
 
 Stitch and Fivetran handle the start of the data pipeline themselves. This means that Airflow does not play a role in the orchestration of the Stitch- and Fivetran schedules.
 
-For source ownership please see [the Tech Stack Applications sheet (internal only).](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0)
+For source ownership please see [the Tech Stack Applications data file.](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml)
 
 ### Data Sources
 
-The following table indexes all of the RAW data sources we are loading into the data wareouse. We manage the development backlog and priorities in the [New Data Source/Pipeline Project Management](https://docs.google.com/spreadsheets/d/14uqsAIqRnyyL9Ta39QYwheXnf0k86yTTIKhrkY_1el8/edit#gid=0) sheet, with links to GitLab issues for up-to-date status and progress management. The [new data source handbook](/handbook/business-technology/data-team/how-we-work/new-data-source/) page describes how the Data Team handles any request for new data sources. 
+The following table indexes all of the RAW data sources we are loading into the data warehouse from external locations. We manage the development backlog and priorities in the [New Data Source/Pipeline Project Management](https://docs.google.com/spreadsheets/d/14uqsAIqRnyyL9Ta39QYwheXnf0k86yTTIKhrkY_1el8/edit#gid=0) sheet, with links to GitLab issues for up-to-date status and progress management. The [new data source handbook](/handbook/business-technology/data-team/how-we-work/new-data-source/) page describes how the Data Team handles any request for new data sources. 
 
 **Key**
 - Pipeline: The technology we use to replicate data.
@@ -68,45 +70,54 @@ The following table indexes all of the RAW data sources we are loading into the 
 - SLO: Service Level Objective. Our SLO is the time between real-time and the analysis displayed in the [data visualization tool](#visualization)
 - `x` indicates undefined or not run
 
-| [Data Source](/handbook/business-technology/data-team/platform/pipelines) | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO| MNPI | 
-|------------:|:--------:|:---------:|:--------:|:-------:|:--------:|:--------:|
-| [Adaptive](https://www.adaptiveplanning.com/) | Meltano | `tap_adaptive` | | Finance | | Yes | 
-| [Airflow](https://airflow.apache.org/) | [Stitch](https://www.stitchdata.com/) | `airflow_stitch` | `airflow` |  Data Team | 24h / 24h | No |
-| [BambooHR](https://www.bamboohr.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `bamboohr` | `sensitive` | People | 12h / 24h | No |
-| [Clearbit](https://clearbit.com/) | x | x | x | x / x | | No |
-| [CustomersDot](https://customers.gitlab.com/) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `customers` | Product | 24h / x |  No |
-| [Demandbase](https://www.demandbase.com/) | [Snowflake task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `demandbase` | `demandbase` | Marketing | 24h / x |  No |
-| [Gitter](https://gitter.im/) | x | `gitter` | x | x | x |  No |
-| [GitLab.com](/handbook/business-technology/data-team/platform/pipelines/#gitlab-postgres-database) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_dotcom` | Product, Engineering | 6h / x |  No |
-| GitLab Ops DB | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_ops` | Engineering | 6h / x |  No |
-| GitLab Profiler DB | x | x | x | x | x / x |  No |
-| [Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/) | [Fivetran](https://fivetran.com/) | `google_analytics_360_fivetran` | `google_analytics_360` | Marketing | 6h / 32h |  No |
-| [Google Cloud Billing](https://cloud.google.com/support/billing) | x | `gcp_billing` | `gcp_billing` | Engineering | x / x |  No |
-| [Graphite API](https://graphite-api.readthedocs.io/en/latest/) | [Airflow](https://airflow.gitlabdata.com/home) | `engineering_extracts` | x | Engineering | 24h / 48h |  No |
-| [Greenhouse](https://www.greenhouse.io/) | [Sheetload](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) | `greenhouse` | `greenhouse` | People | 24h / 48h |  No |
-| [Handbook YAML Files](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/gitlab_data_yaml) | [Airflow](https://airflow.gitlabdata.com/home) | `gitlab_data_yaml` | `gitlab_data_yaml` | Multiple | 8h / 24h | No |
-| [Handbook MR Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/handbook_mrs_extract.py) | [Airflow](https://airflow.gitlabdata.com/home) | `handbook` | `handbook` | Multiple | 24h / 24h | No |
-| [Handbook Git Log Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/values_page_extract.py) | [Airflow](https://airflow.gitlabdata.com/home) | `handbook` | `handbook` | Multiple | 1w / 1m |  No |
-| [LicenseDot](https://license.gitlab.com/) [ERD](https://gitlab.com/gitlab-org/license-gitlab-com/-/blob/master/doc/db_erd.pdf) | [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `license_db` | `license_db` | Product |  24 h / 48 h |  No |
-| [Marketo](https://www.marketo.com/software/marketing-automation/) |  [Fivetran](https://fivetran.com/)  | `marketo` | x | Marketing | 24h / 24h |  No |
-| [Netsuite](https://www.netsuite.com/portal/home.shtml) | [Fivetran](https://fivetran.com/) | `netsuite_fivetran` | `netsuite` | Finance | 6h / 24h | Yes |
-| [PMG](https://www.pmg.com/)   | x | `pmg` | `pmg` | x | x / x | No |
-| [PTO by Roots](https://www.tryroots.io/pto) | [Snowpipe](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `pto` | `gitlab_pto` | Engineering Productivity / People | 7 days / x | No |
-| [Qualtrics](https://www.qualtrics.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `qualitrics` | `qualtrics` | Marketing | 12h / 48h | No |
-| [SaaS Usage Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) | [Airflow](https://airflow.gitlabdata.com/home) | `saas_usage_ping` | `saas_usage_ping` | Product | 1 week / x |  No |
-| [Salesforce](https://www.salesforce.com/) | [Stitch](https://www.stitchdata.com/) | `salesforce_stitch` | `sfdc`| Sales | 6h / 24h |  Yes |
-| [SheetLoad](/handbook/business-technology/data-team/platform/pipelines/#sheetload) | [SheetLoad](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) | `sheetload` | `sheetload` | Multiple | 24h / 48h |  Yes |
-| [Snowplow](https://snowplowanalytics.com/) | [Snowpipe](/handbook/business-technology/data-team/platform/snowplow/index.html#snowpipe) | `snowplow` | `snowplow` | Product | 15m / 24h |  No |
-| [Thanos](https://thanos-query.ops.gitlab.net/graph)| [Snowflake Task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `prometheus` | `prometheus` | Engineering |  24 h / x |  No |
-| [Version DB](https://version.gitlab.com/users/sign_in) | [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `version_db` | `version_db` | Product |  24 h / 48 h | No |
-| [Xactly](https://www.xactlycorp.com) | [Meltano](https://meltano.com/) | `tap_xactly` | N/A | Sales | 24h / N/A |  Yes |
-| [Zendesk](https://www.zendesk.com/) | [Stitch](https://www.stitchdata.com/) | `zendesk_stitch` | `zendesk` | Support | 6h / 24h |  No |
-| [Zoom](https://zoom.us/) | [Meltano](https://meltano.com/) | `tap_zoom` | N/A | People | 24h / N/A |  No |
-| [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h | Yes |
-| [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue) | [Airflow](https://airflow.gitlabdata.com/home)  | `zuora_revenue` | `zuora_revenue` | Finance | 24h / 48h | Yes |
+| [Data Source](/handbook/business-technology/data-team/platform/pipelines) | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO| MNPI | Tier | 
+|------------:|:--------:|:---------:|:--------:|:-------:|:--------:|:--------:|:--------:|
+| [Adaptive](https://www.adaptiveplanning.com/) | Meltano | `tap_adaptive` | | Finance | | Yes | Tier 2 |
+| [Airflow](https://airflow.apache.org/) | [Stitch](https://www.stitchdata.com/) | `airflow_stitch` | `airflow` |  Data Team | 24h / 24h | No | Tier 3 |
+| [BambooHR](https://www.bamboohr.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `bamboohr` | `sensitive` | People | 12h / 24h | No | Tier 2 |
+| [Clearbit](https://clearbit.com/) | x | x | x | x / x | | No | Tier 3 |
+| [CustomersDot](https://customers.gitlab.com/) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `customers` | Product | 24h / x |  No | Tier 1 |
+| [Demandbase](https://www.demandbase.com/) | [Snowflake task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `demandbase` | `demandbase` | Marketing | 24h / x |  No | Tier 2 |
+| [EdCast](https://www.edcast.com//) | [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/) | `tap_edcast` | `edcast` | People | 24h / x |  No | Tier 3 |
+| [Gitter](https://gitter.im/) | x | `gitter` | x | x | x |  No | Tier 3 |
+| [GitLab.com](/handbook/business-technology/data-team/platform/pipelines/#gitlab-postgres-database) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_dotcom` | Product, Engineering | 6h / x |  No | Tier 1 |
+| GitLab Ops DB | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_ops` | Engineering | 6h / x |  No | Tier 1 |
+| GitLab Profiler DB | x | x | x | x | x / x |  No |  Tier 3 |
+| [Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/) | [Fivetran](https://fivetran.com/) | `google_analytics_360_fivetran` | `google_analytics_360` | Marketing | 6h / 32h |  No | Tier 2 |
+| [Google Cloud Billing](https://cloud.google.com/support/billing) | x | `gcp_billing` | `gcp_billing` | Engineering | x / x |  No |  Tier 3 |
+| [Graphite API](https://graphite-api.readthedocs.io/en/latest/) | [Airflow](https://airflow.gitlabdata.com/home) | `engineering_extracts` | x | Engineering | 24h / 48h |  No |  Tier 3 |
+| [Greenhouse](https://www.greenhouse.io/) | [Sheetload](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) | `greenhouse` | `greenhouse` | People | 24h / 48h |  No | Tier 2 |
+| [Handbook YAML Files](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/gitlab_data_yaml) | [Airflow](https://airflow.gitlabdata.com/home) | `gitlab_data_yaml` | `gitlab_data_yaml` | Multiple | 8h / 24h | No | Tier 2 |
+| [Handbook MR Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/handbook_mrs_extract.py) | [Airflow](https://airflow.gitlabdata.com/home) | `handbook` | `handbook` | Multiple | 24h / 24h | No | Tier 2 | 
+| [Handbook Git Log Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/values_page_extract.py) | [Airflow](https://airflow.gitlabdata.com/home) | `handbook` | `handbook` | Multiple | 1w / 1m |  No | Tier 2 |
+| [LicenseDot](https://license.gitlab.com/) [ERD](https://gitlab.com/gitlab-org/license-gitlab-com/-/blob/master/doc/db_erd.pdf) | [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `license_db` | `license_db` | Product |  24 h / 48 h |  No | Tier 1 |
+| [Marketo](https://www.marketo.com/software/marketing-automation/) |  [Fivetran](https://fivetran.com/)  | `marketo` | x | Marketing | 24h / 24h |  No | Tier 2 |
+| [Netsuite](https://www.netsuite.com/portal/home.shtml) | [Fivetran](https://fivetran.com/) | `netsuite_fivetran` | `netsuite` | Finance | 6h / 24h | Yes | Tier 2 |
+| [PMG] (https://www.pmg.com/) | x | `pmg` | `pmg` | x | x / x | No | Tier 3 |
+| [PTO by Roots](https://www.tryroots.io/pto) | [Snowpipe](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `pto` | `gitlab_pto` | Engineering Productivity / People | 7 days / x | No | Tier 3 |
+| [Qualtrics](https://www.qualtrics.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `qualitrics` | `qualtrics` | Marketing | 12h / 48h | No | Tier 2 |
+| [SaaS Service Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) | [Airflow](https://airflow.gitlabdata.com/home) | `saas_usage_ping` | `saas_usage_ping` | Product | 1 week / x |  No | Tier 1 |
+| [Salesforce](https://www.salesforce.com/) | [Stitch](https://www.stitchdata.com/) | `salesforce_stitch` | `sfdc`| Sales | 6h / 24h |  Yes | Tier 1 |
+| [SheetLoad](/handbook/business-technology/data-team/platform/pipelines/#sheetload) | [SheetLoad](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) | `sheetload` | `sheetload` | Multiple | 24h / 48h |  Yes | Tier 1 |
+| [Snowplow](https://snowplowanalytics.com/) | [Snowpipe](/handbook/business-technology/data-team/platform/snowplow/index.html#snowpipe) | `snowplow` | `snowplow` | Product | 15m / 24h |  No | Tier 1 |
+| [Thanos](https://thanos-query.ops.gitlab.net/graph)| [Snowflake Task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `prometheus` | `prometheus` | Engineering |  24 h / x |  No | Tier 3 |
+| [Version DB](https://version.gitlab.com/users/sign_in) | [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `version_db` | `version_db` | Product |  24 h / 48 h | No | Tier 1 |
+| [Xactly](https://www.xactlycorp.com) | [Meltano](https://meltano.com/) | `tap_xactly` | N/A | Sales | 24h / N/A |  Yes | Tier 2 |
+| [Zendesk](https://www.zendesk.com/) | [Stitch](https://www.stitchdata.com/) | `zendesk_stitch` | `zendesk` | Support | 6h / 24h |  No | Tier 2 |
+| [Zoom](https://zoom.us/) | [Meltano](https://meltano.com/) | `tap_zoom` | N/A | People | 24h / N/A |  No |  Tier 3 |
+| [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h | Yes | Tier 1 |
+| [Zuora API Sandbox](https://www.zuora.com) |  [Stitch](https://www.stitchdata.com/) | `zuora_api_sandbox_stitch` | `Legacy` | Finance | - | Yes | Tier 3 |
+| [Zuora Central Sandbox](https://www.zuora.com/) | [Fivetran](https://fivetran.com/dashboard/connectors/zuora_sandbox/zuora_central_sandbox_fivetran) | `zuora_central_sandbox_fivetran` | `zuora_central_sandbox` | Finance Sandbox | -  | Yes | Tier 3 |
+| [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue) | [Airflow](https://airflow.gitlabdata.com/home)  | `zuora_revenue` | `zuora_revenue` | Finance | 24h / 48h | Yes | Tier 1 |
 
+#### Tier definition
 
-#### Source contacts
+| Aspect | Tier 1 | Tier 2  | Tier 3 | 
+|:-|:-|:-|:-|
+| **Description**  | - Trusted Data solutions that are most important and business critical. <br><br> - Components needs to  be available and refreshed to ensure day-by-day operation | - Data solutions that are important and beneficial for gathering insights. <br><br> - Components should be available and refreshed to supporting day-by-day operation | - Data solutions that are important for for Ad-Hoc, periodically or one-time analysis. <br><br> - Components could be unavailable or data not refreshed. |
+|**Criteria**|- Any data, process, or related service that would result in a $100k or _higher_ business impact if unavailable for 24 hours <br><br>-  Affecting more than 15 business users | - Any data, process, or related service that would result in  _less_  than $100k business impact if unavailable for 24 hours <br><br> - Affecting between 5 and 15 business users | - Any data, process or related service that would _not_ result in a immediate business impact if unavailable for more than 5 working days <br><br> - Affecting less then 5 business users |
+|**Impact due to outage**|Severe|Lenient|Negligible |
+
 
 | Source | Contact |
 | ------ | ------- |
@@ -145,15 +156,6 @@ GitLab Profiler DB                                                              
 [Zuora](https://www.zuora.com/)                                                                                     | Stitch support |
 [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue)                                                    | Zuora support |
 
-
-### Adding new Data Fields
-
-To add new fields to the BambooHR extract:
-
-- Create a new issue in the Analytics project using the BambooHR template
-- Gain approval from a Data Team Manager and the Compensation and Benefits Manager
-- Once approved, assign to the Compensation and Benefits Manager and a Data Engineer who will verify the extract
-
 ### Data Team Access to Data Sources
 
 In order to integrate new data sources into the data warehouse, specific members of the Data team will need admin-level access to data sources, both in the UI and through the API.
@@ -183,11 +185,11 @@ The end user experience is described on the [UX Qualtrics page](/handbook/engine
 
 Attempting to reprocess a spreadsheet should usually be the first course of action when a spreadsheet has an error and there is no apparent issue with the request file itself.  Reprocessing has been necessary in the past when new GitLab plan names have been added to the `gitlab_api_formatted_contacts` dbt model, as well as when the Airflow task hangs when processing a file.  This process should only be performed with coordination or under request from the owner of the spreadsheet, to ensure that they are not using any partial mailing list created by the process, as well as not making any additional changes to the spreadsheet.
 
-To reprocess a Qualtrics Mailing List request file:
-    1. Disable the Qualtrics Sheetload DAG in Airflow. 
-    1. Delete any mailing lists in Qualtrics that have been created from the erroring spreadsheet.  You should be able to log into Qualtrics using the `Qualtrics - API user` credentials and delete the mailing list.  The mailing list's name corresponds to the name of the spreadsheet file after `qualtrics_mailing_list.`, which should also be the same as the name of the tab in the spreadsheet file.
-    1. Edit cell A1 of the erroring file to be `id`
-    1. Enable the Qualtrics Sheetload DAG in Airflow again and let it run, closely monitoring the Airflow task log
+To reprocess a Qualtrics Mailing List request file:   
+    1. Disable the Qualtrics Sheetload DAG in Airflow.  
+    2. Delete any mailing lists in Qualtrics that have been created from the erroring spreadsheet.  You should be able to log into Qualtrics using the `Qualtrics - API user` credentials and delete the mailing list.  The mailing list's name corresponds to the name of the spreadsheet file after `qualtrics_mailing_list.`, which should also be the same as the name of the tab in the spreadsheet file.  
+    3. Edit cell A1 of the erroring file to be `id`.  
+    4. Enable the Qualtrics Sheetload DAG in Airflow again and let it run, closely monitoring the Airflow task log.  
 
 ### Snowplow Infrastructure
 
@@ -234,20 +236,6 @@ To gain access to the data warehouse:
 - Do not request a shared account - each account must be tied to a user.
 - We loosely follow the paradigm explained in [this blog post](https://blog.fishtownanalytics.com/how-we-configure-snowflake-fc13f1eb36c4) around permissioning users.
 - When asking to mirror an existing account, please note that access to restricted SAFE data will **not** be provisioned/mirrored (currently provided via `restricted_safe` role). 
-
-#### Accessing SAFE Data
-All SAFE Data are stored in tables within seperate database schemas in Snowflake. Access to 1 table provides access to all SAFE tables. Access to SAFE data requires:
-
-1. Your immediate manager's approval.
-2. Departmental VP (or equivalent) approval.
-3. Approval of the SAFE Dashboard Space Owner defined in the GitLab Dashboard Index.
-
-To gain access to SAFE Data:
-
-1. Create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and provide your needs and intent.
-2. Request approval from your immediate manager, your Departmental VP (or equivalent), and the SAFE Space Owner defined in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index) header. Approval is **not needed**, if you have an approval for SAFE Data [access](/handbook/business-technology/data-team/data-catalog) in Sisense, that is not older than 60 days. Skip this step and link to the particular AR.
-3. Once the request is approved, tag the Snowflake [provisioners](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and they will process the request.
-4. After processing is complete you will be able to access SAFE Data (schemas) in Snowflake.
 
 ### Snowflake Permissions Paradigm
 
@@ -404,6 +392,8 @@ There is a `covid19` database, which is a shared database managed through the Sn
 
 There is a `testing_db` database, which is used for testing Permifrost.
 
+There is a `bi_tool_eval` database, which is used for testing bi tooling. Users are able create own testing sets manually. 
+
 All databases not defined in our [`roles.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml) Permifrost file are removed on a weekly basis.
 
 | Database | Viewable in Sisense |
@@ -414,15 +404,16 @@ All databases not defined in our [`roles.yml`](https://gitlab.com/gitlab-data/an
 
 #### Raw
 
-This database is not available to query in Sisense. No dbt models exist for this data. 
+This database is not available to query in Sisense. No dbt models exist for this data and so it may be the case that the data needs review or transformation in order to be useful or accurate. This review, documentation, and transformation all happens downstream in dbt for `PREP` and `PROD`
 
 - Raw may contain sensitive data, so permissions need to be carefully controlled
+- RAW will contain data that isn't ready for business use.
 - Data is stored in different schemas based on the source
 - User access can be controlled by schema and tables
 
 #### Prep
 
-This database is not available to query in Sisense.
+This database is not available to query in Sisense, and is the first layer of verification and transformation in the warehouse, but is not yet ready for general business use.
 
 - [Source models](/handbook/business-technology/data-team/platform/dbt-guide/#source-models) are built in logical schemas corresponding to the data source (i.e. `sfdc`, `zuora`)
 - PREPARATION - this is the default schema where dbt models are built
@@ -430,7 +421,7 @@ This database is not available to query in Sisense.
 
 #### Prod
 
-This database and all schemas and tables in it are queryable by Sisense.
+This database and all schemas and tables in it are queryable by Sisense. This data has been transformed and modeled for business use.
 
 With the exception of `public`, and [`boneyard`](/handbook/business-technology/data-team/#mind-about-sheetload), all schemas are controlled by dbt.
 See the [dbt guide](/handbook/business-technology/data-team/platform/dbt-guide) for more information.
@@ -655,7 +646,17 @@ This is all orchestrated in the Data Pump [Airflow DAG](https://airflow.gitlabda
 * sensitive - `True` if this model contains sensitive data and is in the pumps_sensitive directory and schema
 * owner - your (or the business DRI's) gitlab handle
 
-**Step 3:** Create an [integration issue in the integrations project](https://gitlab.com/gitlab-com/business-ops/enterprise-apps/integrations/integrations-work/-/issues/new) using the 'New Data Pump' issue template so that the Integration team can map and integrate the data into the target application.
+**Step 3:** Create an [issue in the platypus project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus/-/issues/new) using the 'change' issue template so that the Integration team can map and integrate the data into the target application.
+
+### Current Data Pumps
+
+| Model | Target system | RF | MNPI |
+| ----- | ------------- | -- | ---- |
+| pump_hash_marketing_contact | Marketo | 24h | No | 
+| pump_marketing_contact | Marketo | 24h | No |
+| pump_marketing_premium_to_ultimate | Marketo | 24h | No | 
+| pump_subscription_product_usage | Salesforce | 24h | No |
+| pump_product_usage_free_user_metrics_monthly | Salesforce | 24h | No |
 
 ## <i class="fas fa-toggle-on" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Data Spigot
 
@@ -669,9 +670,19 @@ The process for setting up a new Data Spigot is as follows:
 1. Comply to the controls that are in place, as described above.
 2. Add new Data Spigots to the table below:
 
-| Connected system | Data scope | Database views | 
-| ---------------- | ---------- | ------------- |
-| Grafana          | Snowplow loading times | `prod.legacy.snowplow_page_views_all_grafana_spigot` |
+### Current Data Spigots
+
+| Connected system | Data scope | Database table/view | MNPI |
+| ---------------- | ---------- | ------------------- | ---- |
+| Grafana          | Snowplow loading times | `prod.legacy.snowplow_page_views_all_grafana_spigot` | No |
+| Gainsight        |  | `prod.common_prep.prep_usage_ping_no_license_key` | No |
+| Gainsight        |  | `prod.common_mart_product.mart_product_usage_wave_1_3_metrics_latest` | No |
+| Gainsight        |  | `prod.common_mart_product.mart_product_usage_wave_1_3_metrics_monthly` | No |
+| Gainsight        |  | `prod.common_mart_product.mart_product_usage_wave_1_3_metrics_monthly_diff` | No |
+| Gainsight        |  | `prod.common_mart_product.mart_saas_product_usage_metrics_monthly` | No |
+| Gainsight        |  | `prod.common_mart_product.mart_product_usage_paid_user_metrics_monthly` | No |
+| Gainsight        |  | `prod.common_mart_product.mart_product_usage_free_user_metrics_monthly` | No |
+| Gainsight        |  | `prod.restricted_safe_common_mart_sales.mart_arr` | Yes | 
 
 ## <i class="fas fa-chart-bar fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Visualization
 
@@ -700,3 +711,23 @@ The data team is responsible for provisioning users within the tools managed by 
 For Snowflake, we have a robust process documented in the [Snowflake Permissions Paradigm](/handbook/business-technology/data-team/platform/#snowflake-permissions-paradigm) section of this page.
 
 For other tools, add users via the UI and in the appropriate [Google Group](https://groups.google.com/my-groups) if one exists.
+
+## Google Data Studio
+
+Much like Google Drive all GitLab team members have access to Google's [Data Studio](https://datastudio.google.com/) which can be used to build dashboards with data from Google Sheets or other Google data sources. Hence there is no access request needed to get access provisioned to Google Data Studio.
+Google Data Studio is especially popular with Marketing with their use of Google Analytics. Though this resides outside of the platform described above, any data managed within Google's Data Studio must adhere to the same [Data Categorization and Management Policies](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html) as we do in the rest of our platform.
+ 
+There are 3 types of objects available in Google Data Studio:
+- Data Sources
+  - This is a connection to data sources. **Currently there is no connection available/supported towards our Snowflake data warehouse.**
+- Reports
+  - This is for creating reports based on any connected data set.
+- Explorer
+  - This is a tool to quickly explore data sets and find detailed insights.
+ 
+The sharing and access process in Data Studio is comparable to sharing in Google Drive / Google Docs. Google Studio Objects can be shared with individuals in our GitLab organization account or with the Organization as a whole. There are no group or role level permissions available. Given the decentralized quality of managing dashboards and data sources in Data studio it is advised that business critical data and reporting be eventually migrated to Snowflake and Sisense. This is made easy with the use of [sheetload](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#sheetload) or FiveTran, which has a BigQuery connector.
+ 
+A GitLab Team Member that creates any artifacts in Google Studio owns the owner permissions of that particular object. With the ownership the GitLab Team Member holds responsibility to keep data [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) within GitLab and outside the organization. Google Data Studio currently doesn't provide an admin interface that can take over the ownership. Upon off-boarding any ownership of existing objects should be carried over to ensure business continuity by the respective object owner.
+
+
+

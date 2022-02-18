@@ -30,6 +30,15 @@ This page documents the CI jobs used by the data team in Merge Requests in both 
 * The easiest way to do to this is to click the blue run pipeline button as below: 
 ![run_pipeline_button.png](run_pipeline_button.png)
 
+### Variable Name not found in the CI Pipeline job
+This kind of error pops up in the pipeline like KeyError: 'GITLAB_COM_CI_DB_USER'. It means the variable is not defined in the variable section of CI/CD Settings. To resolve this, add the variable name to [CI/CD setting](https://gitlab.com/gitlab-data/analytics/-/settings/ci_cd) i.e. settings --> ci_cd --> variable, also provide the variable value.      
+**Notes:-** Turn off the Flags, so the variable is accessible from the CI pipeline.   
+The same applies to the variable value; if it is incorrect in the job, we can update it in the above link.
+
+
+
+# Analytics pipelines 
+
 ## Stages
 
 CI jobs are grouped by stages.
@@ -37,6 +46,14 @@ CI jobs are grouped by stages.
 ### ❄️ Snowflake
 
 These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab-ci.yml).
+
+#### clone_prep_specific_schema
+
+Run this if you need a clone of any schema available in the prep database. Specify which schema to clone with the `SCHEMA_NAME` variable. If the clone already exists, this will do nothing. 
+
+#### clone_prod_specific_schema
+
+Run this if you need a clone of any schema available in the prod database. Specify which schema to clone with the `SCHEMA_NAME` variable. If the clone already exists, this will do nothing. 
 
 #### clone_prod
 
@@ -104,6 +121,8 @@ Most dbt run jobs can be parameterized with a variable specifying dbt model that
 
 The variable `DBT_MODELS` is a stand-in for any of the examples in [the dbt documentation on model selection syntax](https://docs.getdbt.com/docs/model-selection-syntax#section-specifying-models-to-run).
 
+All dbt ci jobs run in `--full-refresh`. If you'd like to override this and run incremental models as incremental then set the `REFRESH` variable to a space ` `.
+
 If you are testing changes to tests in the `data-tests` project, you can pass in `DATA_TEST_BRANCH` to the manual jobs along with the branch name. This will update the branch in the `packages.yml` for the data-tests package. This works for any job running `dbt test`.
 
 You can also add `--fail-fast` to the end of the model selection to quickly end the dbt call at the first failure. Read the [dbt docs](https://docs.getdbt.com/reference/commands/run#failing-fast) for more information.
@@ -150,6 +169,20 @@ Specify seed file with the variable `DBT_MODELS`.
 
 Specify which snapshot to run with the variable `DBT_MODELS`.
 This jobs runs against the clone of `RAW`. Requires the `clone_raw` job to have been run.
+
+#### ➕📸🥩🦖specify_l_snapshot
+
+Specify which snapshot to run with the variable `DBT_MODELS`.
+This jobs runs against the clone of `RAW`, using a large SnowFlake warehouse. Requires the `clone_raw` job to have been run.
+
+#### DBT CI Job size
+
+If you want to run a dbt job via the `specify_*_model` or `specify_*_exclude`, you have the possibility to choose the size of the Snowflake warehouse you want to use in the CI job. Starting with XS, followed by L and last you can select XL size warehouse. This can be done to trigger different CI Jobs.
+* CI Job `specify_model` is using a `XS` warehouse.
+* CI Job `specify_l_model` is using a `L` warehouse.
+* CI Job `specify_xl_model` is using a `XL` warehouse.
+
+Using a bigger warehouse will result in shorter run time (and prevents timing out of large models), but also results in bigger costs for GitLab. You start with the regular `specify_model` CI Job. If this is not suitable, you can move over to the `specify_l_model` and alternatively you can use the `specify_xl_model`. Of course there can be a good reason to use a bigger warehouse, if there are complex transformations or lots of data to be processed more power is required. But always also please check your model. Maybe the model can be adjusted to run more efficiently. Running your test on a bigger warehouse will not trigger instant costs on Snowflake only on **this** CI Job, but it also could run inefficiently in production and could have a much bigger impact for the long run.
 
 ### 🛠 dbt Misc
 
@@ -199,6 +232,10 @@ This recursively searches the entire periscope repo for a string that matches a 
 
 This uses word count (wc) to see how many lines are in the comparison file. If there is more than zero it will print the lines and exit with a failure. If there are no lines it exits with a success.
 
+#### safe_model_script
+
+In order to ensure that all [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) data is being stored in appropriate schemas all models that are downstream of [source models with MNPI data](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/new-data-source/#mnpi-data) must either have an exception tag or be in a restricted schema in `PROD`. This CI Job checks for compliance with this state. If your MR fails this job it will likely either need to be audited and verified to be without change MNPI data and have the appropriate exception tags added, or models may need to be migrated to the appropriate restricted schema
+
 #### schema_tests
 
 Runs only schema tests
@@ -217,9 +254,15 @@ These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/anal
 
 There are several jobs that only appear when `.py` files have changed. All of them will run automatically on each new commit where `.py` files are present. Otherwise they are unavailable to run. Other jobs are:
 
-#### permifrost_manual
+#### 🧊⚙permifrost_run
 
 Manual job to do a dry run of [Permifrost](https://gitlab.com/gitlab-data/permifrost/).
+
+#### 🧊 permifrost_spec_test
+
+Must be run at least once before any changes to `permissions/snowflake/roles.yml` are merged. Takes around 30 minutes to complete.  
+
+Runs the `spec-test` cli of [Permifrost](https://gitlab.com/gitlab-data/permifrost/) to verify changes have been correctly configured in the database. 
 
 #### yaml_validation
 
@@ -232,3 +275,24 @@ These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/anal
 #### clone_stop
 
 Runs automatically when MR is merged or closed. Do not run manually.
+
+
+# Data Test Pipelines 
+
+All of the below run against the Prod DB using the changes provided in the repo. No cloning is needed to run the below. 
+
+#### 🧠 all_tests_prod
+
+Runs through all tests in the analytics & data tests repo. 
+
+#### 💾 data_tests_prod
+
+Runs through all of the data tests in the analytics & data tests repo's. 
+
+#### schema_tests_prod
+
+Runs through all of the schema tests in the analytics & data tests repo's. 
+
+#### specify_tests_prod
+
+Runs specified model tests with the variable `DBT_MODELS`

@@ -22,13 +22,13 @@ This email will include a link to the Notebook Order Form where the new team mem
 
 Team members that live in these countries can be serviced via the IT Laptop Ordering Process:
 
-USA, Canada, Japan, Mexico, all of the EU, Russia, Thailand, China, Philippines, Australia, and New Zealand.
+USA, Canada, Japan, Mexico, all of the EU, Russia, Thailand, China, India (Apple only), Philippines, Australia, and New Zealand.
 
 Please note that we are adding supported countries to this list as we discover our ability to order in them.
 You can test this by going to order a MacBook Pro (or Dell) from the regional Apple store, and seeing if they let you customize a build or alternately refer you to local retailers.
 If the latter, see below.
 
-Team members that do not live in these countries will need to procure their own laptop and submit for reimbursement.
+If your country is not listed above or for any general laptop procurement questions please contact IT-Help@gitlab.com or your Candidate Experience Specialist to discuss alternate options. 
 If the team member desires financial assistance to purchase the hardware, the Company will advance the funds to help facilitate the purchase (see Exception Processes below).
 
 ### Laptop Purchasing and Shipping Process
@@ -82,18 +82,17 @@ The operating system choices have obviously affected the hardware selection proc
 
 Apple hardware is the common choice for most GitLab team-members, but if you are comfortable using and self-supporting yourself with Linux (Ubuntu usually) you may also choose from the Dell builds below.
 
-NOTE: GitLab does have a corporate discount with Apple.
-In Apple Retail Stores, you can bring a paystub or invoice along with a photo ID to get
-the discount.
-You can also call the [Small Business line](https://www.apple.com/retail/business/) to learn more about
-ordering online.
-Discounts vary depending on the purchase, but it can range anywhere from 2-10%.
+NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased Apple products only. Apple does **not** have an employee discount program for GitLab at this time.
 
 ##### Apple Hardware
 
-- For Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Engineering Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production (MacBook Pro) - [16”  / 512gig SSD / 32gig RAM / i9 or i7 CPU](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-2.6ghz-6-core-processor-512gb)
+- Macbook Pro - 14" M1 Max 10-Core CPU /24-core GPU / 32GB / 512GB - **Performance model**
+- Macbook Pro - 16" M1 Max 10-Core CPU /24-core GPU / 32GB / 512GB or 1TB/ - **Performance model**
+- MacBook Pro - 16”  / 512 SSD / 32 RAM / i9 or i7 Intel CPU - **Legacy performance model** - Limited supply, we may offer this model depending on availability the new M1 Max model. 
+- Macbook Pro - 13" / M1 / 16Gb / 512GB - **Standard model**
 
-- Everyone Else (MacBook Pro) - [13” / 512gig SSD / 16gigs RAM / i5 CPU](https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-1.4ghz-quad-core-processor-with-turbo-boost-up-to-3.9ghz-256gb)
+Most roles that require higher performance machines are approved for a 14" or 16" MacBook Pro M1 Max model. Please see this [spreadsheet](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit?usp=sharing) (public) to locate your department group and determine which machine you are eligible for. 
+
 
 ##### Linux Hardware
 
@@ -102,13 +101,13 @@ Please only request a Linux laptop if you have experience with this operating sy
 
 We strongly encourage Macs, but we do allow Linux if you are capable of self-support and updates.
 
--  \*\* For Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production (Dell/Linux) - [16”  / 512gig SSD / 32gig RAM / i9 or i7 CPU ](https://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/precision-5540-mobile-workstation/spd/precision-15-5540-laptop/xctop554015us4?configurationid=01b3d81d-57ff-4f71-a79f-f6b81ab2a521)
+-  \*\* For Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production (Dell/Linux) - The 5500 or 5700 Precision Mobile Workstation lines. Due to supply constraints, individuals may get different models from these lines. IT will work with each person to find an available model: [16”  / 512gig SSD / 32gig RAM / i9 or i7 CPU ](https://www.dell.com/en-us/work/shop/laptops/new-15-5560-workstation/spd/precision-15-5560-laptop) 
 
-- Everyone Else (Dell/Linux) - [13” / 256gig SSD / 16gigs RAM / Quad-Core i5 CPU](https://www.dell.com/ng/business/p/latitude-13-7300-laptop/pd)
+- Everyone Else (Dell/Linux) - The 7300 Latitude  line. Due to supply constraints, individuals may get different models from this line. IT will work with each person to find an available model: [13” / 256gig SSD / 16gigs RAM / Quad-Core i5 CPU](https://www.dell.com/en-us/work/shop/laptops/13-7300/spd/latitude-13-7300-laptop)
 
 \*\*NOTE: Max price: **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model minimum 14 days, based on your locality, prior to your desired date to receive.
 
-For Linux laptops, our **standard laptop provider is Dell** which generally comes pre-loaded with Ubuntu Linux,(to save money by not purchasing a Windows license). Dell in Australia and New Zealand are unable to currrently pre load with Ubuntu Linux, so staff will need to install Linux onto the devices once they've been received.
+For Linux laptops, our **only approved laptop provider at this time is Dell** which generally comes pre-loaded with Ubuntu Linux,(to save money by not purchasing a Windows license). Dell in Australia and New Zealand are unable to currrently pre load with Ubuntu Linux, so staff will need to install Linux onto the devices once they've been received.
 
 The reasons for using Dell for a Linux laptop are as follows:
 
@@ -161,7 +160,7 @@ However, if a vendor has had potential supply chain issues involving firmware or
 
 To meet compliance needs for the various certifications, programs, and industry regulations, we have to meet criteria including the ability to restrict access to sensitive data to company-issued laptops running company-monitored software.
 In many cases we need to be able to prove this via auditing, including outside auditors.
-Using one vendor for macOS (Apple by default) and one for Linux.
+Using one vendor for macOS (Apple by default) and one for Linux (Dell by default).
 A part of this process will include ensuring systems are patched, and in the Linux case we want to ensure firmware patches are applied.
 Very few hardware vendors not only supply Linux as an operating system but also provide a way to apply patches - including security patches - to firmware via the normal Linux patch process.
 
@@ -183,7 +182,7 @@ Therefore the vendor should be able to handle most if not all shipping requireme
 Team member Laptops can be refreshed after 3 years (of use!) without question. However, if the replacement laptop is outside the standardized specifications listed [here](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware) than manager approval will be required before IT can purchase the replacement laptop.
 If you feel you need a new laptop to be effective at your job before then, reach out to IT and your manager.
 
-Replacement laptops for broken GitLab laptops can be purchased as needed by [creating an issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) in the Team member Enablement issue tracker project.  Laptops ordered as part of the refresh program use [this template](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
+Replacement laptops for broken GitLab laptops can be requested as needed by [creating an issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) in the Team member Enablement issue tracker project.  Laptops ordered as part of the refresh program use [this template](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
 
 This process can also be followed for laptops that are not broken but old enough that you are having trouble completing your work.
 Please refer to the [spirit of spending company money](/handbook/spending-company-money/) when deciding whether or not it is appropriate to replace your functioning laptop.
@@ -236,11 +235,11 @@ If your laptop is broken and needs to be repaired you can take it into an Apple 
 
 If the repair is not going to be too expensive (more than $1000 dollars USD), go ahead and repair and expense. If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on that is non-Windows.
 
-You can open an issue in the [Team Member Enablement Issue Tracker](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval.
+You can open an issue in the [Team Member Enablement Issue Tracker](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval. Please make sure to attach/include any estimates or reciepts for the repair that you got from Apple (or any authorized service center) in the issue. Picture or PDF will work just fine.
 
 Do not provide the repair center with any credentials to your laptop. If they ask, you can tell them that they're authorized to do a factory reset on the laptop should it be necessary to run diagnostics. This will help prevent sensitive data from being accidentally or intentionally leaked during repair.
 
-Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process.
+Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process. Make sure that your [disk is encrypted](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#full-disk-encryption) and you've reinstalled [JAMF for Mac or DriveStrike for Linux](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe).
 
 If, however, the repair is going to be expensive and take weeks to fix and you have no back up laptop, your best option is to replace the laptop.
 

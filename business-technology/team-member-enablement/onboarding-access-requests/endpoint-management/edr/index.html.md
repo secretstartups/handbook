@@ -61,7 +61,7 @@ We do not want to write our own EDR solution, nor do we want to assemble a serie
 
 ### Can we self-host our own solution to have more control?
 
-We could, although this would require a substantial amount of effort to be able to have a self-hosted solution that would address both compliance requirements and customer concerns. The chosen EDR technology is a single-tenant-hosted third party EDR solution to help ensure GitLab and Team Member data privacy.
+We could, although this would require a substantial amount of effort to be able to have a self-managed solution that would address both compliance requirements and customer concerns. The chosen EDR technology is a single-tenant-hosted third party EDR solution to help ensure GitLab and Team Member data privacy.
 
 ### I dual boot two different operating systems, do they both need an agent?
 

@@ -24,12 +24,12 @@ title: "Team Member Enablement"
 #### Access Requests
 
 - For information about the access request policies and security guidelines, please refer to the Security Team's [access request handbook page section](/handbook/engineering/security/#access-management-process).
-- For links to role based access request templates, system access templates, and other general instructions and FAQs, please refer to the [Access Requests page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests).
+- For links to role based access request templates, system access templates, and other general instructions and FAQs, please refer to the [Access Requests page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
 
 #### Baseline & Role-Based Entitlements
 
-- For information about baseline entitlements and role-based access, please refer to the [baseline entitlements handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements).
-- For information on how to create a Role-Based Entitlement, please refer to the [instructions on how to create role-based entitlements](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements#how-do-i-create-a-role-based-entitlement-template).
+- For information about baseline entitlements and role-based access, please refer to the [baseline entitlements handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/).
+- For information on how to create a Role-Based Entitlement, please refer to the [instructions on how to create role-based entitlements](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#how-do-i-create-a-role-based-entitlement-template).
 
 #### Automated Group Membership Reports for Managers
 
@@ -50,9 +50,17 @@ To read more about our Jamf deployment please visit the [**Endpoint Management**
 
 Please visit the GitLab Onboarding and machine management [handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/)
 
+#### Gitlab Laptop Offboarding
+
+Please visit the Gitlab Laptop Offboarding page for information pertaining to this process at Gitlab [handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/gitlab-laptop-offboarding/)
+
 #### Self-help and troubleshooting
 
-Experiencing some issues with your machine, access to systems, 2FA or other IT related issues? Please visit our [self-help and troubleshooting handbook page](/handbook/business-technology/team-member-enablement/self-help-troubleshooting)
+Experiencing some issues with your machine, access to systems, 2FA or other IT related issues? Please visit our [self-help and troubleshooting handbook page](/handbook/business-technology/team-member-enablement/self-help-troubleshooting/)
+
+#### Gitlab IT 101
+
+New to Gitlab and looking for some IT tips and tricks? This is the spot for you, we have created a comprehensive guide for using the IT systems, apps and hardware [in this handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding101/)
 
 ## <i class="fas fa-rocket" id="biz-tech-icons"></i> Mission Statement
 
@@ -82,10 +90,14 @@ Experiencing some issues with your machine, access to systems, 2FA or other IT r
 
 #### GitLab IT Team
 
+- Senior Director, IT Operations - [Robert Rea](https://about.gitlab.com/company/team/#rrea1), rrea@gitlab.com, @rrea1
 - Manager of IT - [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis), pkaldis@gitlab.com, @pkaldis
-- Lead, IT Analyst Americas - [Marc Di Sabatino](https://about.gitlab.com/company/team/#marc_disabatino), mdisabatino@gitlab.com, @marc_disabatino
-- System Administrator - [Mohammed Al Kobaisy](https://about.gitlab.com/company/team/#malkobaisy), malkobaisy@gitlab.com, @malkobaisy
+- Senior, IT Analyst Americas - [Marc Di Sabatino](https://about.gitlab.com/company/team/#marc_disabatino), mdisabatino@gitlab.com, @marc_disabatino
+- IT Analyst Americas - [Jenny Wong](https://about.gitlab.com/company/team/#jwong6), jwong@gitlab.com, @jwong6
 - IT Analyst EMEA - [Paulius Laurinavicius](https://about.gitlab.com/company/team/#plaurinavicius), plaurinavicius@gitlab.com, @plaurinavicius
+- IT Analyst EMEA - [Ian Forde](https://about.gitlab.com/company/team/#iforde), iforde@gitlab.com, @iforde
 - IT Analyst APAC -  [Steve Ladgrove](https://about.gitlab.com/company/team/#sladgrove), sladgrove@gitlab.com, @sladgrove
+- System Administrator - [Mohammed Al Kobaisy](https://about.gitlab.com/company/team/#malkobaisy), malkobaisy@gitlab.com, @malkobaisy
 - IT Systems Engineer -  [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), dwheeler@gitlab.com, @dillonwheeler
 - Senior IT Systems Engineer -  [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin), jmartin@gitlab.com, @jeffersonmartin
+- Senior IT Systems Engineer - [Marcus Whitaker](https://about.gitlab.com/company/team/#mwhitaker), mwhitaker@gitlab.com, @mwhitaker

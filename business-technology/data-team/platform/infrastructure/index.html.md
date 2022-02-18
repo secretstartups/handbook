@@ -17,6 +17,7 @@ title: "Data Infrastructure"
 [Data Image Project](https://gitlab.com/gitlab-data/data-image){:.btn .btn-purple-inv}
 [GitLab Data Utils Project](https://gitlab.com/gitlab-data/gitlab-data-utils/){:.btn .btn-purple-inv}
 [Python Guide](/handbook/business-technology/data-team/platform/python-guide){:.btn .btn-purple-inv}
+[Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab){:.btn .btn-purple-inv}
 
 ## System Diagram
 
@@ -67,12 +68,45 @@ We run in the `gitlab-analysis` project in Google Cloud Platform (GCP). Airflow 
 
 Within this cluster there are 4 nodepools: `highmem-pool`, `production-task-pool`, `testing-pool`, and `sdc-1`.  Each nodepool has a dedicated use for ease of monitoring and resource management.
 
-1) `highmem-pool` - used to run the Airflow server, scheduler, and network components.  Autoscales from 1-2 nodes.
-2) `production-task-pool` - used to run most production Airflow tasks except SCD tasks.  Autoscales from 1-5 nodes.
-3) `sdc-1` - used to run production SCD extractions.  Autoscales from 1-3 nodes.
-4) `testing-pool` - a pool that does not usually have a running node, but is used to run engineer's locally-launced Airflow tasks.  Autoscales from 0-1 nodes.
+1) `highmem-pool` - used to run the Airflow server, scheduler, and network components.  Autoscales from 1-2 nodes.  
+2) `production-task-pool` - used to run most production Airflow tasks except SCD tasks.  Autoscales from 2-5 nodes.  
+3) `sdc-1` - used to run production SCD extractions.  Autoscales from 1-3 nodes.  
+4) `testing-pool` - a pool that does not usually have a running node, but is used to run engineer's locally-launced Airflow tasks.  Autoscales from 1-2 nodes.  
 
 All nodepools except the `highmem-pool` have labels and [taints](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/) to manage which nodepool launches which Airflow task. For a task to be scheduled in a nodepool, a task must have nodeAffinity for the pool and it must have a toleration that matches the taint. See [this MR](https://gitlab.com/gitlab-data/analytics/merge_requests/2006/diffs) where we added the affinity and toleration for the Slowly-Changing Dimensions task for our postgres pipeline jobs.
+
+#### Create Namespace
+
+When the cluster gets created, it has by default one namespace associated with it named `default`. The airflow setup of the project requires two namespace setups in a production setup.
+1) Default
+2) Testing
+
+Namespace:- In Kubernetes, namespaces provide a mechanism for isolating groups of resources within a single cluster. Names of resources need to be unique within a namespace, but not across namespaces. 
+
+Setup the namespace and secret file once the cluster gets provisioned. `Default` namespace is present by default, and we only need to create the `testing` namespace.  [names_space_testing.yaml](https://gitlab.com/gitlab-data/data-image/-/blob/master/airflow_image/manifests/names_space_testing.yaml) contain information about the namespace details. 
+
+Execute command `kubectl apply -f name_space_testing.yaml` from the folder `airflow_image/manifests/names_space_testing.yaml`. This should create give below as output `namespace/testing created`.
+
+To validate the list of namespace created/present  use `kubectl get namespace`.
+
+### Create kube secret 
+After creating the namespace, create the airflow secret in both the namespace `default` and `testing`.
+For the creation of secrets in `default` namespace use [kube_secret_default.yaml](https://gitlab.com/gitlab-data/data-image/-/blob/master/airflow_image/manifests/kube_secret_default.yaml) Execute below command `kubectl create -f kube_secret_default.yaml` from the directory `airflow_image/manifests`
+Below output you should receive.
+```
+ secret/airflow created
+```
+To check for the secret have been created successfully. Use below command
+`kubectl get secrets --namespace=default `.
+
+Follow the same steps for Creating the airflow secret in the testing namespace. For the creation of secrets in `testing` namespace use [kube_secret_testing.yaml](https://gitlab.com/gitlab-data/data-image/-/blob/master/airflow_image/manifests/kube_secret_testing.yaml).
+
+Execute below command `kubectl create -f kube_secret_testing.yaml` from the directory path  `airflow_image/manifests/`.
+
+All the values for secret file is present in the 1 password data team secure vault as document add the value to the secret file from one that document. 
+To edit the document in the testing  namespace use command  `kubectl edit secret airflow  -o yaml --namespace=testing`  and to create in default use `kubectl edit secret airflow  -o yaml`. 
+**Note:-** This has to be executed and created before we try to apply deployment.yml file
+
 
 ##### DNS
 
@@ -88,7 +122,41 @@ This created the secret `airflow-tls`.
 The certificate files (site, chain, chained (site+chain), and key) are also stored in the Data Team Secure vault in 1password.
 
 We decided to use the [NGINX Ingress Controller](https://kubernetes.github.io/ingress-nginx/) since it has excellent built-ins for redirecting and enforcing TLS.
-NGINX was installed into the cluster with this command `helm install airflownginx stable/nginx-ingress --values nginx_values.yaml`. The [NGINX value file](https://gitlab.com/gitlab-data/data-image/-/blob/93b20e4286d2a383e46eac091c68d162156223bd/airflow_image/manifests/nginx_values.yaml) defines what the load balancer IP address is. The load balancer IP is set to the address generated in the previous section.
+To install NGINX into the cluster follow below steps:
+1) If helm is not installed in system install it using command `brew install helm`.  
+2) Then add nginx-stable version to helm repo using command `helm repo add nginx-stable https://helm.nginx.com/stable`.  
+3) To get the latest version of stable use `helm repo update`.  This should give output similar to below 
+
+    ```
+    Hang tight while we grab the latest from your chart repositories...
+    ...Successfully got an update from the "nginx-stable" chart repository
+    ...Successfully got an update from the "ingress-nginx" chart repository
+    Update Complete. ⎈Happy Helming!⎈
+    ```
+
+4) To check helm repo status use command `helm repo list`
+
+  ```
+  NAME         	URL
+  ingress-nginx	https://kubernetes.github.io/ingress-nginx
+  nginx-stable 	https://helm.nginx.com/stable`
+  ```
+
+
+5) Use command to `The NGINX Ingress Controller`  
+  `helm install airflownginx nginx-stable/nginx-ingress --values nginx_values.yaml `
+  It will provide output as below 
+  ```
+    NAME: airflownginx
+    LAST DEPLOYED: Wed Oct 20 19:01:38 2021
+    NAMESPACE: default
+    STATUS: deployed
+    REVISION: 1
+    TEST SUITE: None
+    NOTES:
+    The NGINX Ingress Controller has been installed.  
+  ```
+ The [NGINX value file](https://gitlab.com/gitlab-data/data-image/-/blob/93b20e4286d2a383e46eac091c68d162156223bd/airflow_image/manifests/nginx_values.yaml) defines what the load balancer IP address is. The load balancer IP is set to the address generated in the previous section.
 The values passed into the install command are expanded in the [controller-deployment.yaml file](https://github.com/helm/charts/blob/b7afaf9d8875f6aa1cfed4c0422cb28e51d823a3/stable/nginx-ingress/templates/controller-deployment.yaml#L111-L117).
 
 If NGINX needs to be deleted and reinstalled that can be done via `helm delete airflownginx`.
@@ -101,6 +169,8 @@ The [ingress definition](https://gitlab.com/gitlab-data/data-image/-/blob/93b20e
 
 Although not strictly necessary, it is cleaner to delete the ingress when applying changes. This can be done via the UI in GCP or via the command `kubectl delete ingress airflow-ingress`.
 Applying the new configuration is done via the command `kubectl apply -f ingress.yaml`
+
+
 
 ### Viewing Airflow Logs in GCP
 
@@ -195,7 +265,12 @@ Some gotchas:
 - [Airflow pt 2](https://drive.google.com/open?id=1zZGtSZIvSwHvhu2sEgGm4LjvbLim5KME)
 - [Airflow test environment](https://www.youtube.com/watch?v=zSyzCRVuJ18). The video explained the testing environment for `Airflow` and `pod` operators (`Kubernetes`) in `GCP`.
 
-### Troubleshooting Local Airflow Config
+### Local Airflow Configuration.
+
+All DAGs are created using the `KubernetesPodOperator` so while working from local we need a cluster where we should be able to spin the pod when running a task in local. In order to make this work we need to ensure we are connected through to a cluster. To connect to cluster use  `gcloud container clusters get-credentials data-ops --zone us-west1-a --project gitlab-analysis`. In order to make the local setup work in cluset we need to ensure that the we name `testing` namespace is created and `airflow` secret is also present in the testing namespace. The steps to create this is present above. 
+Once you have these your local setup should be able to spin the pod in the cluster. 
+
+#### Troubleshooting Local Airflow Config
 
 #### No Such File or Directory: 'Users/(user)/google-cloud-sdk-bin/gcloud'
 
@@ -385,49 +460,6 @@ The persistent volume claim for Airflow is defined in the [`persistent_volume.ya
 - The claim size should now be increased
 
 Alternatively, you can update the `persistent_volume.yaml` definition in the project. However, redeploying this _may_ delete the data already in the claim. This has not been tested yet.
-
-## Meltano
-
-We run Meltano in its own Kubernetes cluster with in the `meltano` namespace. The primary project is https://gitlab.com/gitlab-data/meltano-gitlab which is a fork of https://github.com/Mashey/gitlab-meltano.
-
-The kubernetes cluster is running [GCP as meltano-gitlab](https://console.cloud.google.com/kubernetes/clusters/details/us-west1-a/meltano-gitlab/details?project=gitlab-analysis). 
-
-The UI of Meltano is not exposed to internet. To view the logs we have to look in the kubernetes container logs. It can be found under "LOGS" tab or under the overview page by selecting the `meltano-gitlab` cluster under workloads.
-
-To update what extractors are being used, update the `meltano.yml` file in the main project. Add a git tag after the change is merged and update the gitlab-app.yml kubernetes manifest to point to the new image.
-
-Meltano uses Airflow internally and we use Cloud SQL as the metadata database. The [`meltano-gitlab` database](https://console.cloud.google.com/sql/instances/meltano-gitlab/overview?project=gitlab-analysis).
-```
-#Connect to the Kubernetes cluster from local(Prerequisites is Google cloud SDK installed). In case the command doesn't work then connect to GCP and select Cluster under Kubernetes and select connect to cluster. It will reveal the latest command. 
-gcloud container clusters get-credentials meltano-gitlab --zone us-west1-a --project gitlab-analysis
-```
-
-Many Kubernetes commands are similar to what we use for Airflow, except the flag `--namespace=meltano` or `-n=meltano` is used. For example:
-
-```
-# Editing Secrets
-$  kubectl edit secrets tap-secrets --namespace=meltano
-$  kubectl edit secrets admin-sdk --namespace=meltano
-$  kubectl edit secrets cloud-sql --namespace=meltano
-```
-
-
-
-```
-# Exec into a container
-$  kubectl exec -ti meltano-gitlab-85bf9f958b-bbffl -c gitlab /bin/bash --namespace=meltano
-```
-
-```
-# Applying the updated manifest does NOT require the namespace
-$  kubectl apply -f ./gitlab-app.yaml
-```
-
-```
-# Delete the deployment of meltano namespace
-kubectl delete deployment meltano-gitlab --namespace=meltano
-```
-Watch the [video](https://youtu.be/H7m99t4IghM) on walkthrough of `Meltano setup in GKE` 
 
 ## Postgres Pipeline 
 
@@ -791,7 +823,8 @@ Use `dbt_full_refresh` DAG to force dbt to rebuild the entire incremental model 
 
 1. In Airflow set up Variable `DBT_MODEL_TO_FULL_REFRESH` with name of model(s) to refresh following [dbt model selection syntax](https://docs.getdbt.com/docs/running-a-dbt-project/command-line-interface/model-selection-syntax/).  For example, to refresh version models, the value would be `sources.version staging.version`.  To refresh gitlab_dotcom models, the value would be `sources.gitlab_dotcom staging.gitlab_dotcom`.
 <br><img src="airflow_variable_setting.png" alt="airflow_variable_setting" width="400"/></br>
-1. Turn on and trigger DAG to run.
+2. By default `dbt_full_refresh` DAG will be running on `TRANSFORMING_XL` warehouse , in order to modify the warehouse size in case of quick full refresh or in case of performance issue, Modify the variable `DBT_WAREHOUSE_FOR_FULL_REFRESH`  to desired warehouse size.
+3. Manually trigger DAG to run.
 
 dbt command that is run behind is
 

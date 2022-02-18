@@ -9,7 +9,7 @@ title: "Slack Dashboard"
 ---
 ## Slack Dashboard
 This dashboard is used to monitor the percent of messages that arenot DMSa
-as related to the the [Chief of Staff Team KPIs](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/performance-indicators/#percent-of-sent-slack-messages-that-are-not-dms). This dashboard can help us understand how to increase the use of public channels and be handbook-first.
+as related to the the [Chief of Staff Team to the CEO KPIs](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/performance-indicators/#percent-of-sent-slack-messages-that-are-not-dms). This dashboard can help us understand how to increase the use of public channels and be handbook-first.
 
 
 The dashboard can be found [here](https://app.periscopedata.com/app/gitlab/513609/GitLab-Slack)

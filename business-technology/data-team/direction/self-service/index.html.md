@@ -30,6 +30,35 @@ The GitLab Self-Service Data program helps GitLab move faster with trusted data 
 - **[Dashboard Developer](/handbook/business-technology/data-team/direction/self-service/#self-service-dashboard-developer)** - for GitLab team members who want to build their own data visualization charts or dashboards
 - **[SQL Developer](/handbook/business-technology/data-team/direction/self-service/#self-service-sql-developer)** - for GitLab team members who are familiar with SQL and want to conduct their own SQL-based analysis
 
+```mermaid
+graph LR
+	E9 --> W1
+	DV1 --> W3
+
+    subgraph Extraction
+        E1[Stitch] --> E9[DW Endpoint]
+		E2[Fivetran] --> E9
+		E3[Postgres] --> E9
+		E4[Sheetload] --> E9
+		E5[Custom] --> E9
+    end
+
+    subgraph Snowflake Data Warehouse
+        W1[RAW Data] --> W2{dbt}
+		W2 --> W3[Dimensional Model]
+    end
+
+	subgraph Data Visualization
+        DV1[Sisense Dashboards]
+    end
+
+	subgraph Self-Service Data
+		SS3[SQL Analyst] --> W3
+		SS1[Dashboard Viewer] --> DV1
+		SS2[Dashboard Developer] --> DV1
+    end
+```
+
 #### Summary of Self-Service Capabilities
 
 |                                                                                          | [Dashboard Viewer](/handbook/business-technology/data-team/direction/self-service/#self-service-dashboard-viewer) | [Dashboard Developer](/handbook/business-technology/data-team/direction/self-service/#self-service-dashboard-developer) | [SQL Developer](/handbook/business-technology/data-team/direction/self-service/#self-service-sql-developer) |
@@ -81,7 +110,7 @@ Access Requests:
 
 ### Self-Service Dashboard Developer
 
-Self-Service Dashboard Developer provides Certified GitLab team members the ability to build their own dashboards using [Sisense Data Discovery](https://dtdocs.sisense.com/article/data-discovery) based on well-defined and validated [Kimball-standard](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/) data models powered by the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw).
+Self-Service Dashboard Developer provides Certified GitLab team members the ability to build their own dashboards using [Sisense Data Discovery](https://dtdocs.sisense.com/article/data-discovery) based on well-defined and validated [Kimball-standard](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/) data models powered by the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw/).
 
 Prerequisites:
 
@@ -105,8 +134,8 @@ Prerequisites:
 - [ ] [Intermediate SQL](https://softwareengineering.stackexchange.com/questions/181651/are-these-sql-concepts-for-beginners-intermediate-or-advanced-developers)
 - [ ] Ability to navigate a [data dictionary](https://docs.snowflake.com/en/sql-reference/info-schema.html)
 - [ ] Ability to read [data models](https://www.lucidchart.com/pages/er-diagrams) to write SQL
-- [ ] Adhere to the [Data Team SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide)
-- [ ] Pass a [Self-Service SQL Developer Knowledge Assessment](/handbook/people-group/learning-and-development/certifications) from one of the Self-Service-ready Data Subject Areas published in the handbook
+- [ ] Adhere to the [Data Team SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
+- [ ] Pass a [Self-Service SQL Developer Knowledge Assessment](/handbook/people-group/learning-and-development/certifications/) from one of the Self-Service-ready Data Subject Areas published in the handbook
 
 Access Requests:
 

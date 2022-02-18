@@ -76,8 +76,14 @@ MacBooks are wonderful laptops, but no laptop is without faults.
 You may come across a "wonky" situation with your Mac, so below are some pointers that may help fix common issues.
 
 - Reset your [NVRAM and PRAM](https://support.apple.com/en-us/HT204063) - non-volatile random access memory and parameter RAM stores small amount of information on your Mac, if you experience issues related to what's in the Apple article resetting this might help out.
-- Reset the [SMC](https://support.apple.com/en-us/HT201295) - System Management Controller handles some low-level functions like battery management and if you experience issues with fans or internal ports this could help resolve those issues.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LoUO1RwMg1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Reset the [SMC](https://support.apple.com/en-us/HT201295) (INTEL ONLY) - System Management Controller handles some low-level functions like battery management and if you experience issues with fans or internal ports this could help resolve those issues.
     (Note: different models have different reset methods)
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wlkGh2flbvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - Apple Diagnostics [Hardware Diagnostics](https://support.apple.com/en-us/HT202731)
 
 ### Password Reset for Your MacBook
@@ -170,14 +176,24 @@ With the installation of JAMF comes Self Service which can be found in Applicati
 
 ### Using JAMF Self Service to Update your OS
 
-You can easily use JAMF's Self Service tool to update your Mac to the OS you need to update to. To do this follow the below instructions
+You can easily use JAMF's Self Service tool to update your Mac to the OS you need to update to. There are 2 ways to do this to do this
 
 ***Please make sure to backup your Mac before you commence any updates***
+
+Update to the newest OS
 
 1. Head to Finder on your Mac and select Applications
 2. Click on Self Service
 3. On the left hand side you'll see OS Updates, click on that
 4. From here you'll see the newest version of MacOS Big Sur. Click on it to install. This will redirect you to the Apple Store where you can install the OS. 
+5. This can take upwards of an hour, so please factor in that time when you are updating
+
+Update your existing OS to the most recent version
+
+1. Head to Finder on your Mac and select Applications
+2. Click on Self Service
+3. On the left you'll see OS updates, click on that
+4. From here you'll see 'Check for Apple Software Updates'. Click on that, and follow the instructions to update your OS
 5. This can take upwards of an hour, so please factor in that time when you are updating
 
 

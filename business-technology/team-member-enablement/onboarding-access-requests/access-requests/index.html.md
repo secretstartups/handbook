@@ -17,13 +17,9 @@ If you have any access requests related questions, please reach out to #it_help 
 
 ## Access requests related pages
 
-<div class="flex-row" markdown="0">
-  <div>
-    <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/frequently-asked-questions" class="btn btn-purple" style="width:170px;margin:5px;">Frequently asked questions</a>
-    <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements" class="btn btn-purple" style="width:170px;margin:5px;">Baseline Entitlements</a>
-    <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/temporary-service-providers" class="btn btn-purple" style="width:170px;margin:5px;">Temporary service providers access requests and onboarding</a>
-  </div>
-</div>
+* [Frequently asked questions](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/frequently-asked-questions/)
+* [Baseline Entitlements](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/)
+* [Temporary service providers access requests and onboarding](/handbook/business-technology/team-member-enablement/onboarding-access-requests/temporary-service-providers/)
 
 ## Need help?
 

@@ -61,33 +61,84 @@ If you wish to use dbt and contribute to the data team project, you'll need to g
 - In the `~/.dbt/` folder there should be a `profiles.yml`file that looks like this [sample profile](https://gitlab.com/gitlab-data/analytics/blob/master/admin/sample_profiles.yml)
 - The smallest possible warehouse should be stored as an environment variable. Our dbt jobs use `SNOWFLAKE_TRANSFORM_WAREHOUSE` as the variable name to identify the warehouse. The environment variable can be set in the `.bashrc` or `.zshrc` file as follows:
     - `export SNOWFLAKE_TRANSFORM_WAREHOUSE="ANALYST_XS"`
-    - In cases where more compute is required, the variable can be overwritten by adding `--vars '{warehouse_name: analyst_xl}'` to the dbt command
+    - In cases where more compute is required, this variable can be overwritten at run. We will cover how to do this in the [next section](/handbook/business-technology/data-team/platform/dbt-guide/#choosing-the-right-snowflake-warehouse-when-running-dbt).
 - Clone the [analytics project](https://gitlab.com/gitlab-data/analytics/)
-- If running on Linux: 
+- If running on Linux:
   - Ensure you have [Docker installed](https://docs.docker.com/docker-for-mac/)
 
 Note that many of these steps are done in the [onboarding script](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/onboarding_script.zsh) we recommend new analysts run.
 
+### Choosing the right Snowflake warehouse when running dbt
+
+Our Snowflake instance contains [warehouses of multiple sizes](https://docs.snowflake.com/en/user-guide/warehouses-overview.html), which allow for dbt developers to allocate
+differing levels of compute resources to the queries they run. The larger a warehouse is and the longer it runs, the more the query costs. For example, it costs [8 times](https://docs.snowflake.com/en/user-guide/warehouses-overview.html#warehouse-size) more to run a Large warehouse for an hour than it costs to run an X-Small warehouse for an hour.
+
+If you have access to multiple warehouses, you can
+create an entry for each warehouse in your `profiles.yml` file. Having done this, you will be able to specify which warehouse should run when you call `dbt run`. This should be done
+carefully; using a larger warehouse increases performance but will greatly increase cost! Err on the side of using smaller warehouses. If you find that the smaller warehouse's
+performance is not adequate, investigate the cause before you try again with a larger warehouse. Running an inefficient model against a larger warehouse not only increases cost during development, it also increases cost every time the model runs in production, resulting in unintentional ongoing increase in Snowflake costs.
+
+#### Example
+
+Imagine that you are a Data Team member who needs to make a change to a dbt model. You have access to both an X-Small warehouse and a Large warehouse, and your `profiles.yml` file
+is set up like so:
+```
+gitlab-snowflake:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      threads: 8
+      account: gitlab
+      user: {username}
+      role: {rolename}
+      database: {databasename}
+      warehouse: ANALYST_XS
+      schema: preparation
+      authenticator: externalbrowser
+    dev_l:
+      type: snowflake
+      threads: 16
+      account: gitlab
+      user: {username}
+      role: {rolename}
+      database: {databasename}
+      warehouse: ANALYST_L
+      schema: preparation
+      authenticator: externalbrowser
+```
+
+You open up your terminal and code editor, create a new branch, make an adjustment to a dbt model, and save your changes. You are ready to run dbt locally to test your changes,
+so you enter in the following command: `dbt run --models @{model_name}`. dbt starts building the models, and by default it builds them using the `ANALYST_XS` warehouse. After a
+while, the build fails due to a timeout error. Apparently the model tree you are building includes some large or complex models. In order for the queries to complete, you'll need to
+use a larger warehouse. You want to retry the build, but this time you want dbt to use the `ANALYST_L` warehouse instead of `ANALYST_XS`. So you enter in
+`dbt run --models @{model_name} --target dev_l`, which tells dbt to use the warehouse you specified in the `dev_l` target in your `profiles.yml` file. After a few minutes, the build
+completes and you start checking your work.
+
 ### Venv Workflow
 {: #Venv-workflow}
 
-Recommended workflow for anyone running a Mac system. 
+Recommended workflow for anyone running a Mac system.
 
 #### Using dbt
 
 - Ensure you have the `DBT_PROFILE_PATH` environment variable set. This should be set if you've used the [onboarding_script.zsh](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/onboarding_script.zsh) (recommened to use this as this latest and updated regularly), but if not, you can set it in your `.bashrc` or `.zshrc` by adding `export DBT_PROFILE_PATH="/<your_root_dir/.dbt/"` to the file or simply running the same command in your local terminal session
 - Ensure your SSH configuration is setup according to the [GitLab directions](https://gitlab.com/help/ssh/README). Your keys should be in `~/.ssh/` and the keys should have been generated with no password.
     - You will also need access to [this project](https://gitlab.com/gitlab-data/data-tests) to run `dbt deps` for our main project.
-- **NB**: Ensure your default browser is set to chrome. The built-in SSO login only works with chrome 
-- **NB**: Before running dbt for the first time run `make prepare-dbt`. This will ensure you have venv installed. 
+- **NB**: Ensure your default browser is set to chrome. The built-in SSO login only works with chrome
+- **NB**: Ensure you are in the folder where your `/analytics` repo is located. If you installed everything properly `jump analytics` will land you where it is needed in order to run `dbt` commands successfully.
+- **NB**: Before running dbt for the first time run `make prepare-dbt`. This will ensure you have venv installed.
 - To start a `dbt` container and run commands from a shell inside of it, use `make run-dbt`
 - This will automatically import everything `dbt` needs to run, including your local `profiles.yml` and repo files
 - To see the docs for your current branch, run `make run-dbt-docs` and then visit `localhost:8081` in a web-browser. Note that this requires the `docs` profile to be configured in your `profiles.yml`
 
+#### Why do we use a virtual environment for local dbt development?
+We use virtual environments for local dbt development because it ensures that each developer is running exactly the same dbt version with exactly the same dependencies. This minimizes the risk that developers will have different development experiences due to different software versions, and makes it easy to upgrade everyone’s software simultaneously. Additionally, because our staging and production environments are containerized, this approach ensures that the same piece of code will execute as predictably as possible across all of our environments.
+
 ### Docker Workflow
 {: #docker-workflow}
 
-The below is the recommended workflow primarily for users running Linux as the venv workflow has fewer prerequisites and is considerably faster. 
+The below is the recommended workflow primarily for users running Linux as the venv workflow has fewer prerequisites and is considerably faster.
 
 To abstract away some of the complexity around handling `dbt` and its dependencies locally, the main [analytics project](https://gitlab.com/gitlab-data/analytics/) supports using `dbt` from within a `Docker` container.
 We build the container from the [`data-image`](https://gitlab.com/gitlab-data/data-image) project.
@@ -371,78 +422,6 @@ This includes:
 - Joining to other tables
 - Executing business logic
 - Modelling of fct_* and dim_* tables following Kimball methodology
-
-#### Dimensional Modeling
-
-{: #dimensional}
-
-Fact and dimensional tables are abstracted from the source data and represent entities and processes relevant to the business.
-Information on why we're using Dimensional Modeling can be found in the [EDW portion of the handbook](/handbook/business-technology/data-team/platform/edw).
-
-##### Modeling Development Process
-
-1. Extend the [dimension bus matrix](https://docs.google.com/spreadsheets/d/1j3lHKR29AT1dH_jWeqEwjeO81RAXUfXauIfbZbX_2ME/edit#gid=1372061550) as the blueprint for the EDM.
-1. Add the table to the appropriate LucidChart ERD.
-1. Deploy dimension tables. Each dimension also includes a common record entry of -1 key value to represent `unknown`
-1. Create fact tables. Populate facts with correct dimension keys, and use the -1 key value for unknowable keys.
-
-##### Naming Standards
-
-It is critical to be intentional when organizing a self-service data environment, starting with naming conventions. The goal is to make navigating the data warehouse easy for beginner, intermediate, and advanced users. We make this possible by following these best practices:
-
-1. FACT TABLES: `fct_<verb>` Facts represent events or real-world processes that occur. Facts can often be identified because they represent the action or 'verb'.  (e.g. session, transaction)
-1. DIMENSION TABLES: `dim_<noun>` = dimension table. Dimensions provide descriptive context to the fact records. Dimensions can often be identified because they are 'nouns' such as a person, place, or thing (e.g. customer, employee) The dimension attributes act as 'adjectives'. (e.g. customer type, employee division)
-1. Singular naming should be used, e.g. dim_customer, not dim_customers.
-1. Use prefixes in table and column names to group like data. Data will remain logically grouped when sorted alphabetically, e.g. dim_geo_location, dim_geo_region, dim_geo_sub_region.
-1. Use dimension table names in primary and foreign key naming. This makes it clear to the user what table will need to be joined to pull in additional attributes. For example, the primary key for dim_crm_account is dim_crm_account_id. If this field appears in fct_subscription, it will be named dim_crm_account_id to make it clear the user will need to join to dim_crm_account to get additional account details.
-
-##### Modeling Requirements
-
-- Typically, we will create the dimensions in the `common` schema first, and then the code that builds the fact tables references these common dimensions (LEFT JOIN) to ensure the common key is available. There are some situation where logically we are 100% confident every key that is in the fact table will be available in the dimension. This depends on the source of the dimension and any logic applied.
-- Both facts and dimensions should be tested using [Trusted Data Framework (TDF)](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) tests.
-    - For dimensions, we can test for the existence of the -1 (unknown) dimension_id, and total row counts.
-    - For facts, we can test to ensure the number of records/rows is not expanded due to incorrect granularity joins, and can add a golden data test to pull the dimension attribute from the dimension table for the related fact record and compare to the expected value on the golden data record.
-- fct_ and dim_ models should be materialized as tables to improve query performance,
-- All dimensions must have:
-    - An hashed surrogate key,
-    - A natural unique key. This key value can be composed from multiple columns to generate uniqueness.
-- Models are tested and documented in a schema.yml file in the same directory as the models,
-- All facts and dimensions have the following audit columns:
-    - revision_number - this is a manually incremented number representing a logical change in the model
-    - created_by - this is a GitLab user id
-    - updated_by - this is a GitLab user id
-    - model_created_at timestamp - this is a static value for when the model was created
-    - model_updated_at timestamp - this is the last time the model was updated by someone
-    - dbt_created_at timestamp - this is populated by dbt when the table is created
-    - dbt_updated_at timestamp - this is the date the data was last loaded. For most models, this will be the same as dbt_created_at with the exception of incremental models.
-- The Prep(prep_) and mapping/look-up(map_) tables to support dimension tables should be created in `common_mapping` schema.
-- Additional Bridge(bdg_) tables should reside in `common` schema. These tables act as intermediate tables to resolve many-to-many relationships between two tables.
-
-##### ERD Requirements
-
-- Generated in Lucidchart
-- Embedded into the dbt docs for all relevant models as an iframe
-- Cross-linking from the ERD to the dbt docs for the give model
-- Proper relationship connections
-- Primary and foreign keys listed
-- At least 3-5 other columns that demonstrate the nature of the table and are unlikely to change
-- Working SQL reference example
-
-##### Additional Guidelines
-
-The Dimensional Model is meant to be simple to use and designed for the user. Dimensional models are likely to be denormalized, as opposite to source models, making them easier to read and interpret, as well as allowing efficient querying by reducing the number of joins.
-
-- Very often a CTE duplicated across two models qualifies to be a separate fct_/dim_ table
-
-#### Marts
-
-Mart models describe business entities and processes. They are often grouped by business unit: marketing, finance, product.
-
-When a model is in this directory it communicates to business stake holders that the data is cleanly modelled and is ready for querying.
-
-Following the naming convention for fact and dimension tables all marts should start with the prefix `mart_`.
-
-Marts should not be built on top of other marts. Marts should be built on top of FCT and DIM tables.
 
 #### Workspaces
 
@@ -941,6 +920,26 @@ graph TD
 
 In the case where you have a merge request in `data-tests` and one in `analytics`, the `analytics` [MR should be set as a dependency](https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_dependencies.html) of the `data-tests` MR. This means that the `analytics` MR must be merged prior the `data-tests` MR being merged.
 
+####  Running the newly introduced dbt tests in the data-tests project
+
+Steps to follow in order to run the tests you implemented in the data-tests project from your machine, while developing them:
+
+  
+1. Push your changes to the remote branch you are working on on the data-tests project
+2. Go to your `analytics` project locally, create a new branch (`git checkout -b <branch_name>`) with the same name as the one at `data-tests` & modify the `Makefile` to edit the `DATA_TEST_BRANCH` to match your branch name on the `data-test` project
+3. From the `analytics` project run `make run-dbt`
+4. You should see some logs, which also show the revision data-tests was installed from, where you should see your branch
+5. From where you currently are (which should be the `snowflake-dbt` directory) run the corresponding command for testing your own model
+
+#### Example:
+
+To run the `zuora_revenue_revenue_contract_line_source` rowcount tests, we can use the following command, which should work without any issues:
+
+`dbt --partial-parse test --models zuora_revenue_revenue_contract_line_source`   
+
+> :warning:  Please note, whenever you make changes to the underlying tests in the data-tests project, you need to push those changes to the remote and re-run steps 3-5,  to start a dbt container with the latest changes from your branch.   
+
+
 #### Trusted Data Dashboard
 
 The Trusted Data Dashboard is used to quickly evaluate the health of the Data Warehouse. The most important data is presented in a simple business-friendly way with clear color-coded content for test PASS or FAIL status.
@@ -994,6 +993,16 @@ Engineers should test locally using Airflow, as the proper environment variables
 Testing should NOT be done while on the master branch.
 It is not recommended to test locally by setting the `SNOWFLAKE_SNAPSHOT_DATABASE` environment variable.
 This should never be set to `RAW` as it will overwrite production data.
+
+##### Snapshots and GDPR
+
+Sometimes the data team receives requests to delete personal data from the Snowflake Data Warehouse, because of GDPR. To address these deletions, we use `dbt` macros. A macro scans all applicable data that needs to be removed, this also applies to snapshot tables.
+
+There are 2 flavours:
+1. The GDPR deletion request applies to all GitLab sources, and therefore all tables in the data warehouse need to be checked and updated. [Macro](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.gdpr_delete).
+2. The GDPR deletion request applies to only GitLab.com related sources and therefore only Gitlab.com related tables in the data warehouse need to be checked and updated. [Macro](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.gdpr_delete_gitlab_dotcom)
+
+Specific to the second flavour, check when creating a new snapshot model or rename an existing snapshot model, if the `dbt` macro covers the models involved. Check if the filtering in the macro applies to the applicable snapshot tables in case of a GDPR deletions request for Gitlab.com only related sources.
 
 #### Make snapshots table available in prod database
 
@@ -1089,5 +1098,3 @@ Views and snippets included in the output will be surrounded by square brackets 
         }
     }
 ```
-
-

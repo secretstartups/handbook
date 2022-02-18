@@ -52,7 +52,7 @@ The [Endpoint Management Implementation Plan](https://gitlab.com/gitlab-com/busi
   * This group will consist of a mix of GitLab team members and Engineering Managers
 * 2nd wave (2020-10-05): E-Group
 * 3rd wave (2020-10-12): People, Talent Acquisition, Finance, Product, Marketing
-* 4th wave (2020-10-19): Sales, Legal, Chief of Staff team
+* 4th wave (2020-10-19): Sales, Legal, Chief of Staff Team to the CEO
 * 5th wave (2020-10-26): Engineering
 
 # Linux laptops
@@ -180,7 +180,7 @@ The Jamf Pro endpoint management solution provides a lot of advantages over an o
 
 ### Can we self-host our own solution to have more control?
 
-We have chosen to go with the SaaS version of Jamf because we believe that it will be more costly to get the same level of security with the self hosted version. The self-hosted version requires expertise with the security and management of MySQL and Tomcat, plus additional costs for the cloud infrastructure required to support it. Since GitLab uses SaaS applications for all other functions of the company, we see no reason to treat this service differently.
+We have chosen to go with the SaaS version of Jamf because we believe that it will be more costly to get the same level of security with the self hosted version. The self-managed version requires expertise with the security and management of MySQL and Tomcat, plus additional costs for the cloud infrastructure required to support it. Since GitLab uses SaaS applications for all other functions of the company, we see no reason to treat this service differently.
 
 
 ### What is the Jamf track record of addressing security vulnerabilities?
@@ -218,7 +218,7 @@ We do not have any additional controls in place beyond the existing requirements
 
 ### What will be the change, review, and socialization process for configuration changes to Jamf?
 
-It will be no different than our current process for change management which is outlined here: [/handbook/business-technology/business-technology-change-management/](https://about.gitlab.com/handbook/business-technology/business-technology-change-management/).
+It will be no different than our current process for change management which is outlined here: [/handbook/business-technology/change-management/](https://about.gitlab.com/handbook/business-technology/change-management/).
 
 ### What options does a team member have to protect their home network privacy?
 

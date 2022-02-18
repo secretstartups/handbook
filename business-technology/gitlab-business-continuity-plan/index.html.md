@@ -11,7 +11,7 @@ title: "Business Continuity Plan"
 
 ## GitLab Business Continuity Plan (BCP) Context
 
-GitLab, by its remote-only nature, is not easily affected by typical causes of business disruption, such as local failures of equipment, power supplies, telecommunications, social unrest, terrorist attacks, fire, or natural disasters. Additionally, to ensure BCP procedures are planned and documented appropriately, data from the [Business Impact Analysis](/handbook/engineering/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) is utilized as part of business continuity planning.
+GitLab, by its remote-only nature, is not easily affected by typical causes of business disruption, such as local failures of equipment, power supplies, telecommunications, social unrest, terrorist attacks, fire, or natural disasters. Additionally, to ensure BCP procedures are planned and documented appropriately, data from the [Business Impact Analysis](/handbook/engineering/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) is utilized as part of business continuity planning. The BCP works in conjunction with the [Disaster Recovery Plan (DRP)](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md). 
 
 ## BCP for Remote Workers
 
@@ -56,7 +56,7 @@ GitLab.com is hosted on Google cloud platform, customers.gitlab.com is in Azure 
 
 1. Unavailability of support staff in case of a customer emergency.
     - Effect: emergency response times are greater than intended.
-    - Solution(s): The team is distributed geographically (except during team get-togethers). Customer emergencies are handled by _any_ person who is in the [on-call rotation](/handbook/on-call). The on-call load is distributed at many levels, service engineers, production engineers, and even developers can be summoned when we have an outage or a customer incident. Emergencies also trigger automatic notifications on our internal chat system, alerting the entire company. There is also an ongoing effort to publish our [runbooks](https://gitlab.com/gitlab-com/runbooks), explaining how we manage our infrastructure and how we deal with outage cases.
+    - Solution(s): The team is distributed geographically (except during team get-togethers). Customer emergencies are handled by _any_ person who is in the [on-call rotation](/handbook/on-call/). The on-call load is distributed at many levels, service engineers, production engineers, and even developers can be summoned when we have an outage or a customer incident. Emergencies also trigger automatic notifications on our internal chat system, alerting the entire company. There is also an ongoing effort to publish our [runbooks](https://gitlab.com/gitlab-com/runbooks), explaining how we manage our infrastructure and how we deal with outage cases.
 
 1. Disruption of service of ZenDesk.
     - Effect: support workflows are disrupted. New tickets cannot be created, existing tickets cannot be responded to.

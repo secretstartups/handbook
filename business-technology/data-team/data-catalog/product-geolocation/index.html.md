@@ -17,7 +17,7 @@ Understanding where your product is used around the world is an important step t
 
 Currently, the majority of GitLab's customers choose to [download, install, and host a GitLab self-managed instance](/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#why-you-probably-want-gitlabcom), which is why we are [focused heavily on delivering a great self-managed customer experience](/direction/#strategic-challenges).
 
-To make the right data-driven decisions on the self-managed product lifecycle and what features to invest in, [our self-managed customers](/is-it-any-good/) sends GitLab a weekly [usage ping](/handbook/customer-success/tam/usage-ping-faq/) at an instance-level by [enabling usage ping on their self-managed instance](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#instance-level-statistics) or by sharing the values with our Customer Success team.
+To make the right data-driven decisions on the self-managed product lifecycle and what features to invest in, [our self-managed customers](/is-it-any-good/) sends GitLab a weekly [service ping](/handbook/customer-success/tam/service-ping-faq/) at an instance-level by [enabling service ping on their self-managed instance](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#instance-level-statistics) or by sharing the values with our Customer Success team.
 
 This instance-level data allows GitLab to understand country-level statistics and trends in instance adoption, version adoption rate, and instance life cycle.
 
@@ -64,7 +64,7 @@ While exploring the dashboard, you will want to understand the following **KEY T
 - Instance User Count - the total number of users on an instance
 - [Paid User](/handbook/product/performance-indicators/#paid-user)
 - [Product Tier](/handbook/marketing/strategic-marketing/tiers/#overview)
-- [Usage Ping](https://docs.gitlab.com/ee/development/product_analytics/event_dictionary.html)
+- [Service Ping](https://docs.gitlab.com/ee/development/product_analytics/event_dictionary.html)
 - [Version](/handbook/sales/process/version-check/#what-is-the-functionality-of-the-gitlab-version-check)
 
 Note: Additional data supporting Product Geolocation Analysis is classified as [Orange](/handbook/engineering/security/data-classification-standard.html#orange) or [Yellow](/handbook/engineering/security/data-classification-standard.html#yellow). This includes ORANGE customer metadata from the account, contact data from Salesforce and Zuora and GitLab's Non public financial information, all of which shouldn't be publicly available. Care should be taken when sharing data from this dashboard to ensure that the detail stays within GitLab as an organization and that appropriate approvals are given for any external sharing. In addition, when working with row or record level customer metadata care should always be taken to avoid saving any data on personal devices or laptops. This data should remain in [Snowflake](/handbook/business-technology/data-team/platform/#data-warehouse) and [Sisense](/handbook/business-technology/data-team/platform/periscope/) and should ideally be shared only through those applications unless otherwise approved.
@@ -96,10 +96,10 @@ Note: Additional data supporting Product Geolocation Analysis is classified as [
 
 ### Data Source:
 The Product Geolocation Dashboard is built using the `usage_ping_mart` data model.
-  - Data is primarily sourced from usage ping data, with customer segmentation fields coming from Zuora and Salesforce.
-  - Analyses are standardized around considering the last usage ping received from a self-managed instance in a calendar month, available as `is_last_ping_in_month`. This ensures usage metrics are deduplicated across instances.
+  - Data is primarily sourced from service ping data, with customer segmentation fields coming from Zuora and Salesforce.
+  - Analyses are standardized around considering the last service ping received from a self-managed instance in a calendar month, available as `is_last_ping_in_month`. This ensures usage metrics are deduplicated across instances.
   - Geolocation fields are derived from the IP address of the *host* of an instance, not necessarily the physical location of an instance.
-  - To understand what tables were accounted for in creating the usage_ping_mart, check out the Usage Ping Mart Entity Relationship Diagram.
+  - To understand what tables were accounted for in creating the usage_ping_mart, check out the Service Ping Mart Entity Relationship Diagram.
     - By understanding the ERD, you can understand how different data sources join and modify the model to suit your need.
 
 
@@ -212,4 +212,4 @@ GROUP BY 1,2
 
 ### Manual Data Validations
 
-* [Manual Usage Ping Validation Dashboard](https://app.periscopedata.com/app/gitlab/762611/Manual-Usage-Ping-Validation)
+* [Manual Service Ping Validation Dashboard](https://app.periscopedata.com/app/gitlab/762611/Manual-Usage-Ping-Validation)
