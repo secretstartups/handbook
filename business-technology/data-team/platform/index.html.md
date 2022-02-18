@@ -106,6 +106,8 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Zendesk](https://www.zendesk.com/) | [Stitch](https://www.stitchdata.com/) | `zendesk_stitch` | `zendesk` | Support | 6h / 24h |  No | Tier 2 |
 | [Zoom](https://zoom.us/) | [Meltano](https://meltano.com/) | `tap_zoom` | N/A | People | 24h / N/A |  No |  Tier 3 |
 | [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h | Yes | Tier 1 |
+| [Zuora API Sandbox](https://www.zuora.com) |  [Stitch](https://www.stitchdata.com/) | `zuora_api_sandbox_stitch` | `Legacy` | Finance | - | Yes | Tier 3 |
+| [Zuora Central Sandbox](https://www.zuora.com/) | [Fivetran](https://fivetran.com/dashboard/connectors/zuora_sandbox/zuora_central_sandbox_fivetran) | `zuora_central_sandbox_fivetran` | `zuora_central_sandbox` | Finance Sandbox | -  | Yes | Tier 3 |
 | [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue) | [Airflow](https://airflow.gitlabdata.com/home)  | `zuora_revenue` | `zuora_revenue` | Finance | 24h / 48h | Yes | Tier 1 |
 
 #### Tier definition

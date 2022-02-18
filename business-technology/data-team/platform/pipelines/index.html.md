@@ -223,6 +223,38 @@ The `boneyard` schema is where data can be uploaded from a spreadsheet and it wi
 
 If you are adding Certificates to SheetLoad, refer to the instructions in the [People Group page](/handbook/people-group/learning-and-development/certifications/#step-5-add-to-sheetload)
 
+## Zuora Central Sandbox
+Zuora Central Sandbox combines the capability to copy production data along with production-like performance into a single test environment tenant.  While Zuora Central Sandbox always comes with a snapshot of scrubbed production data, it can also be utilized for a brand new implementation in case the production tenant has no data at that time. The use cases of Zuora Central Sandbox includes all that of API Sandbox and more. See the following use cases supported by Zuora Central Sandbox.
+
+Basic implementation configuration and integration
+
+- Training
+- Integration testing
+- Regression testing
+- Performance testing (with guidelines)
+- Pre-production testing
+- User acceptance testing 
+
+Zuora Central Sandbox is hosted on a production-like AWS infrastructure, allowing you to test the API response time, the bill runs and payment runs with production-level data loading. It provides a more realistic view of performance than API Sandbox. While the Zuora Central Sandbox is designed for production-level performance, Zuora recommends you to contact [Zuora Global Support](http://support.zuora.com/) if you plan to test over a certain amount of volume in a 24 hour period in the Zuora Central Sandbox. See [Performance guidelines](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/D_Zuora_Environments/Getting_started_with_Zuora_Central_Sandbox#Performance_guidelines) for the details.
+
+Zuora Central Sandbox vs API Sandbox
+See the contrasts between the use cases of API Sandbox and Zuora Central Sandbox.
+
+|   |API Sandbox	   | Zuora Central Sandbox  |
+|---|---|---|
+| Regression testing  |Yes   |Yes   |
+| Performance testing (with guidelines)  | No  | Yes  |
+| Pre-production testing  | Yes  | Yes  |
+| User acceptance testing   |No   | Yes  |
+|Basic implementation configuration and integration|Yes |Yes |
+|Training |Yes |Yes |
+|Integration testing	|Yes|Yes|
+
+### Zuora Central Sandbox connection 
+In case we get the database refreshed the credentials gets wiped off in source because of which the connectivity between fivetran and zuora central sandbox gets lost.  In order to restore the connection  request for the `client Id` and `client secret`. Once received update the same in Fivetran. 
+
+
+
 ## Zuora Revenue 
 Zuora Revenue is an application where you can automate the complicated revenue management process in compliance with the latest revenue standards (ASC 606 and IFRS 15).
 As part of data pipeline for Zuora Revenue extraction process, we extract data using REST Call from Zuora Revenue BI views (created by Zuora Revenue in the product by default, we only use these views and could not create or alter these views).
