@@ -35,7 +35,7 @@ Leaders in the security department at GitLab see the team as their product. Whil
 ## Requirements
 * Ability to use GitLab
 * Exceptional communication skills, including verbal, written, and presentation skills, to a variety of stakeholders
-* You share our [values](/handbook/values), and work in accordance with those values
+* You share our [values](/handbook/values/), and work in accordance with those values
 * [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 
 ## Levels

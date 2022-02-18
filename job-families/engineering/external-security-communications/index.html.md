@@ -24,7 +24,7 @@ As a member of the [Security department](/handbook/engineering/security) at Gitl
 * Passionate about audience engagement and relationship development
 * Experience working in the technology and/or security industry
 * Detail-oriented, organized
-* You share our [values](https://about.gitlab.com/handbook/values), and work in accordance with those values
+* You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 
 ## Levels
@@ -49,7 +49,7 @@ The Security Analyst, External Security Communications is a [grade 6](/handbook/
 * Passionate about audience engagement and relationship development
 * Experience working in the technology and/or security industry
 * Detail-oriented, organized
-* You share our [values](https://about.gitlab.com/handbook/values), and work in accordance with those values
+* You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 
 ### Security Analyst, External Security Communications (Senior)
@@ -75,7 +75,7 @@ Senior level responsibilities are inclusive of all Intermediate level responsibi
 * Passionate about audience engagement and relationship development
 * Experience working in the technology and/or security industry
 * Detail-oriented, organized
-* You share our [values](https://about.gitlab.com/handbook/values), and work in accordance with those values
+* You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 ### Security Analyst, External Security Communications (Staff)
 The Staff Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
@@ -100,7 +100,7 @@ Staff level responsibilities are inclusive of all Senior level responsibilities,
 * Passionate about audience engagement and relationship development
 * Experience working in the technology and/or security industry
 * Detail-oriented, organized
-* You share our [values](https://about.gitlab.com/handbook/values), and work in accordance with those values
+* You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 ### Security Analyst, External Security Communications (Principal)
 The Principal Security Analyst, External Security Communications reports to the [Director of Security Engineering & Research](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/engineering/security-management/index.html.md).
@@ -126,7 +126,7 @@ Principal level responsibilities are inclusive of all Staff level responsibiliti
 * Ability to foster passion in others related to audience engagement and relationship development
 * Extensive demonstrable experience working in the technology and/or security industry
 * Established expert marketing and communication technologies practitioner
-* You share our [values](https://about.gitlab.com/handbook/values), and work in accordance with those values
+* You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 ## Segment
 ### Security leadership
