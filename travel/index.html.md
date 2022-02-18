@@ -21,6 +21,17 @@ title: Travel
 1. If you incur any work-travel related expenses (on your personal card or a GitLab company card), please make sure to save the original receipt.
 1. When your trip is complete, please file an expense report via Expensify or include the receipts on your next monthly invoice.
 
+### Supporting nursing mothers
+
+If you are nursing while traveling on GitLab approved business, you can reimburse costs in order to travel with breast milk or ship your breast milk back home. You can expense:
+
+- Fees associated with a milk shipment service, such as [MilkStork](https://www.milkstork.com/)
+- Coolers or containers to store breast milk while traveling
+- Shipment costs and materials, including dry ice, packaging, styrofoam coolers, and labels. 
+
+Check with your health plan to see if you are eligible for reimbursement for the cost of a breast pump or any other supplies. 
+
+
 ## Self Stay Incentive Policy <a name="self-stay"></a>
 
 If you decide to stay with friends or family instead of a hotel / Airbnb for a business trip, the company will pay you 50% of what would have been
