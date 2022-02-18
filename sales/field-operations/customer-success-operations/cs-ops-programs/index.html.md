@@ -165,6 +165,45 @@ You may request new programs, such as an email series, contribute to existing pr
 
 CS Programs will assign the request. For urgent issues, or questions about the request, make an `@mention` to a Gainsight administrator or ask in the `#cs_ops_and_programs` Slack channel.
 
+## Subject Matter Expert (SME) review guidelines
+
+You may be asked to perform a review of current or new content. This review should not take more than an hour in most cases.
+
+<details>
+<summary markdown='span'>SME review guidelines</summary>
+<br>
+As a subject matter expert (SME) reviewer, you’ll be asked to review content for technical accuracy and completeness.
+
+### The review process
+
+1. A draft version of the Google Doc will be provided to you.
+1. You’ll have two weeks to review the document and add comments to it with any suggestions, corrections, or additions. _If, for any reason, you can’t complete the review, please comment in the issue_.
+1. When your review is complete, comment in the issue.
+1. The content requester and technical writer will complete a final review after all other reviews are complete.
+
+When reviewing, please keep the following in mind:
+
+- Typos and grammatical errors are likely to be present. We fix these documents once all revisions have been made.
+- We use the [GitLab Writing Style Guidelines](https://about.gitlab.com/handbook/communication/#writing-style-guidelines) for emails to retain consistency with the Handbook and other GitLab communications.
+- Additions are always welcome! If there’s something that should be in a document, please add it.
+- Don’t be afraid to request a removal of information in the document. If it doesn’t belong there, let us know.
+- We try to keep our content brief. The content we create has to toe a line between persuasive, like a sales or marketing piece, and educational, which is concise.
+
+### What to look for
+
+- Is the What’s In It For Me (WIIFM) clearly stated? As a SME, you have a good idea of why this product or feature is important to a customer. Are we clearly communicating that? Consider why a customer may not know what this can do for them, and how you’d address that.
+- Is the information presented technically correct?
+- Is each step, if applicable, correct, in the right order, and results as expected?
+- Are any terms used incorrect or outdated?
+- Is there content that should or should not be included in this document?
+  - Links
+  - Blog posts
+  - Videos
+- Is the order of information correct for the product or process?
+- Does anything need to be listed or explained first, before other processes or steps?
+
+</details>
+
 ## Request customer program research with the Research Template
 
 TAMs can use the Customer Programs Research Template to research new program oppportunities for different stages and use cases. This template provides suggestions for information we can use to create valuable programs for our customers.
