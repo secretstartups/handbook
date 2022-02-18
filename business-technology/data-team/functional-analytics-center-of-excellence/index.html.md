@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Functional Analytics Center of Excellence"
-description: "The FACE is a cross-functional group of functional analytics teams that aims to make our teams' more efficient by solving and validating shared data questions which results in cohesive measurement approaches across teams."
+description: "The FACE is a cross-functional group of functional analytics teams that aim to make our teams more efficient by solving and validating shared data questions which results in cohesive measurement approaches across teams."
 ---
 
 ## On this page
@@ -14,7 +14,7 @@ description: "The FACE is a cross-functional group of functional analytics teams
 
 ## Welcome to the FACE of Data Handbook 
 
-**The FACE (functional analytics center of excellence) is a cross-functional group of functional analytics teams that aims to make our teams' more efficient by solving and validating shared data questions which results in cohesive measurement approaches across teams.** 
+**The FACE (functional analytics center of excellence) is a cross-functional group of functional analytics teams that aim to make our teams more efficient by solving and validating shared data questions which results in cohesive measurement approaches across teams.** 
 {: .alert .alert-success}
 
 ## Context
