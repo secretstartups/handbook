@@ -1,3 +1,4 @@
+---
 layout: handbook-page-toc
 title: SA Manager Operating Rhythm 
 description: "This page provides an overview on relevant SA Managers processes. The SA Manager role is made up of pillars: Managing the Business and Managing the Team."
