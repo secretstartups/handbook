@@ -267,7 +267,9 @@ Persuant with GitLab's [best practices for password security](https://about.gitl
 |Break Email addresses on Contacts, Leads etc. with suffix like it's done for users (if there's any risk of routine communication kicking in for example from workflow email alerts)|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
 |Disable Weekly Data Export|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
 |For any sensitive email templates it might be worthwhile to change content (fake logo, big red "TEST ONLY" etc)|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
-|Disable Marketo sync|Marketing Operations|Marketing Operations|Staging|Contact MOPs to disable the SFDC sync. Must rebuild `Marketo Sync` field on Leads and Contacts in staging before reconnecting. May need to generate a new key for Marketo User.|
+|Disable Marketo sync|Marketing Operations|Marketing Operations|Staging|Contact MOPs to disable the SFDC sync (before refresh).|
+|Create and turn on |Marketing Operations|Marketing Operations|Marketing Sandbox/Staging| Must create fields for `Marketo Sync` (Boolean) on Leads and Contacts in staging before reconnecting. This box should be unchecked, but editable by Mops profile and added to page layout for Mops. Mops will need to request Marketo support to set up custom sync before reconnecting. |
+|Re-authenticate Marketo Sync|Marketing Operations/Sales Systems|Marketing Operations/Sales Systems|Staging/Marketo Sandbox|[Configure connected Oauth App, reconnect sync in Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html?lang=en). Mops will need the new OrgID and create a Marketo support ticket to re-map. |
 
 ##### Refresh cadence
 
