@@ -474,7 +474,7 @@ In informal acknowledgement scenarios, such as on Slack or on issue comments, it
 
 ### Video and presentation tips with Lorraine Lee
 
-On 2022-01-20, the L&D team hosted [Lorraine Lee](linkedin.com/in/lorraineklee) for a live speaker series on video and presentation techniques in an all-remote workspace. 
+On 2022-01-20, the L&D team hosted [Lorraine Lee](https://linkedin.com/in/lorraineklee) for a live speaker series on video and presentation techniques in an all-remote workspace. 
 
 Key points addressed in the training include:
 
