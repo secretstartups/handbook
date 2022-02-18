@@ -41,7 +41,7 @@ The Marketing Campaign Manager (Intermediate) is a [grade 6](/handbook/total-rew
 * Impeccable eye for detail
 * Exhibit willingness and flexibility to work both independently as well as part of a team
 * Be familiar with or ready to learn how to use GitLab and Git
-* You share our [values](/handbook/values), and work in accordance with those values
+* You share our [values](/handbook/values/), and work in accordance with those values
 * Ability to use GitLab
 
 ### Senior Marketing Campaign Manager
@@ -193,7 +193,7 @@ The Marketing Campaign Manager (Intermediate) is a [grade 6](/handbook/total-rew
 * Impeccable eye for detail
 * Exhibit willingness and flexibility to work both independently as well as part of a team
 * Be familiar with or ready to learn how to use GitLab and Git
-* You share our [values](/handbook/values), and work in accordance with those values
+* You share our [values](/handbook/values/), and work in accordance with those values
 * Ability to use GitLab
 
 ## Performance Indicators - User Lifecycle Marketing Manager

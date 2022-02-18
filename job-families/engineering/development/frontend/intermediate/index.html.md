@@ -32,7 +32,7 @@ Frontend Engineers at GitLab work on our product. This includes both the open so
 - An inclination towards communication, inclusion, and visibility
 - [Self-motivated and self-managing](/handbook/values/#efficiency), with great organizational skills.
 - Demonstrated ability to work closely with other parts of the organization
-- Share [our values](/handbook/values), and work in accordance with those values
+- Share [our values](/handbook/values/), and work in accordance with those values
 - Ability to thrive in a fully remote organization
 - Ability to use GitLab
 
