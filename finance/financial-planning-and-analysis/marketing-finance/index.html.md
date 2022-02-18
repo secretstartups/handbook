@@ -48,38 +48,47 @@ title: "Marketing Finance"
 The Marketing Variance Review meeting happens once a month to review the actual expenses for the previous month. For example, in the 3rd week of June we will review May's expenses.  
 
 ## Important Dates
-* 2022-01-14: December Actuals loaded into Allocadia (estimated) 
-* 2022-01-14: FY23 Targets added into Allocadia (estimated)
-* 2022-01-25: January Forecast Due 
-* 2022-02-14: January Actuals loaded into Allocadia (estimated)
-* 2022-02-22: February Forecast Due
-* 2022-03-14: February Actuals loaded into Allocadia (estimated) 
+* 2022-02-23: February Forecast Due
+* 2022-02-25: February Invoices loaded into Allocadia (estimated)
+* 2022-03-01: Finalized February AvB file due from Marketing to Finance
 * 2022-03-24: March Forecast Due
-* 2022-04-14: March Actuals loaded into Allocadia (estimated) 
+* 2022-03-29: March Invoices loaded into Allocadia (estimated)
+* 2022-04-01: Finalized March AvB file due from Marketing to Finance
 * 2022-04-22: April Forecast Due
-* 2022-04-29: Q2 Plan Due 
-* 2022-05-13: April Actuals loaded into Allocadia (estimated) 
+* 2022-04-29: Q2 Plan Due
+* 2022-04-27: April Invoices loaded into Allocadia (estimated)
+* 2022-05-02: Finalized April AvB file due from Marketing to Finance
 * 2022-05-24: May Forecast Due
-* 2022-06-14: May Actuals loaded into Allocadia (estimated) 
+* 2022-05-29: May Invoices loaded into Allocadia (estimated)
+* 2022-06-01: Finalized May AvB file due from Marketing to Finance
 * 2022-06-23: June Forecast Due
-* 2022-07-14: June Actuals loaded into Allocadia (estimated) 
-* 2022-07-22: July Forecast Due 
-* 2022-07-29: Q3 Plan Due 
-* 2022-08-15: July Actuals loaded into Allocadia (estimated) 
-* 2022-08-24: August Forecast Due 
-* 2022-09-14: August Actuals loaded into Allocadia (estimated) 
-* 2022-09-23: September Forecast Due 
-* 2022-10-14: September  Actuals loaded into Allocadia (estimated) 
-* 2022-10-24: October Forecast Due 
-* 2022-11-14: October Actuals loaded into Allocadia (estimated) 
-* 2022-10-31: Q4 Plan Due 
+* 2022-06-28: June Invoices loaded into Allocadia (estimated)
+* 2022-07-01: Finalized June AvB file due from Marketing to Finance
+* 2022-07-22: July Forecast Due
+* 2022-07-29: Q3 Plan Due
+* 2022-07-29: July Invoices loaded into Allocadia (estimated)
+* 2022-08-01: Finalized July AvB file due from Marketing to Finance
+* 2022-08-24: August Forecast Due
+* 2022-08-26: August Invoices loaded into Allocadia (estimated)
+* 2022-09-01: Finalized August AvB file due from Marketing to Finance
+* 2022-09-23: September Forecast Due
+* 2022-09-28: September Invoices loaded into Allocadia (estimated)
+* 2022-10-03: Finalized September AvB file due from Marketing to Finance
+* 2022-10-24: October Forecast Due
+* 2022-10-28: Ovtober Invoices loaded into Allocadia (estimated)
+* 2022-10-31: Q4 Plan Due
+* 2022-11-01: Finalized October AvB file due from Marketing to Finance
 * 2022-11-18: FY24 Bottom's Up Plan due in Allocadia (estimated)
-* 2022-11-22: November Forecast Due 
-* 2022-12-14: November Actuals loaded into Allocadia (estimated)
-* 2022-12-22: December Forecast Due 
-* 2023-01-14: December Actuals loaded into Allocadia (estimated) 
+* 2022-11-22: November Forecast Due
+* 2022-11-28: November Invoices loaded into Allocadia (estimated)
+* 2022-12-01: Finalized November AvB file due from Marketing to Finance
+* 2022-12-22: December Forecast Due
+* 2022-12-28: December Invoices loaded into Allocadia (estimated)
+* 2023-01-04: Finalized December AvB file due from Marketing to Finance
 * 2023-01-14: FY24 Targets added into Allocadia (estimated)
-* 2023-01-24: January Forecast Due 
+* 2023-01-24: January Forecast Due
+* 2023-01-27: January Invoices loaded into Allocadia (estimated)
+* 2023-02-01: Finalized January AvB file due from Marketing to Finance
 
 ## Finance Terminology
 
