@@ -17,10 +17,10 @@ description: "The FACE is a cross-functional group of functional analytics teams
 **The FACE (functional analytics center of excellence) is a cross-functional group of functional analytics teams that aims to make our teams' more efficient by solving and validating shared data questions which results in cohesive measurement approaches across teams.** 
 {: .alert .alert-success}
 
-## Context: why have a functional analytics center of excellence?
+## Context
 The [core data team](https://about.gitlab.com/handbook/business-technology/data-team/) serves as the hub for all of our [“spoke” functional analytical teams](https://about.gitlab.com/handbook/business-technology/data-team/#how-data-works-at-gitlab); however, we have an opportunity to establish spokes between the spokes.
 
-## Objectives: what do we hope to achieve?
+## Objectives
 - **Efficiency**: it is not uncommon for our teams to be asked similiar questions (eg how are trials converting) but it is inefficient and duplicative for each team to tackle these questions on our own.
 - **Alignment**: in cases where we are tackling similiar questions, we need alignment of the assumptions and methodology we are using to answer those questions. The FACE ensures we all deliver cohesive data stories.
 - **Knowledge Share**: this forum will give us a formal venue to learn from one another as opposed waiting for organic moments of knowledge sharing.
@@ -36,13 +36,14 @@ The [core data team](https://about.gitlab.com/handbook/business-technology/data-
 ## FACE Teams
 |  **Team Name** | **Lead(s)** | 
 | :--------------- | :----------------- |
-| Product Analytics | Carolyn Braza |
-| Business Analytics & Insights | Sindhu Tatimatla |
-| Marketing Analytics | Jerome Ahye |
-| Self-Service & Online Sales | Alex Martin |
-| Sales Analytics | Melia Vilain & Noel Figuera |
-| Customer Success Analytics | Michael Arntz |
-| Digital Experience | TBH |
+| [Product Analytics](https://about.gitlab.com/handbook/product/product-analysis/) | Carolyn Braza 
+| [Business Analytics & Insights](https://about.gitlab.com/handbook/business-technology/data-team/analytics-and-insights/) | Sindhu Tatimatla 
+| Marketing Analytics | Jerome Ahye 
+| [Self-Service & Online Sales](https://about.gitlab.com/handbook/sales/self-service/) | Alex Martin 
+| [Sales Analytics](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/) | Melia Vilain & Noel Figuera 
+| Customer Success Analytics | Michael Arntz 
+| Digital Experience | TBH 
+| People Analytics | Adrian Perez 
 | Core Data Team | Marcus Laanen |
 
 ## Examples: what are the types problems we tackle together?
@@ -54,6 +55,7 @@ The [core data team](https://about.gitlab.com/handbook/business-technology/data-
 
 ## Workign With Us
 - Slack channel: #functional_anlytics_center_of_excellence
+- Open an issue in our [Functional Analytics Center of Excellence](https://gitlab.com/gitlab-data/functional-analytics-center-of-excellence/) project
 
 
 
