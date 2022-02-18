@@ -78,7 +78,7 @@
 | Member              | [Aaron Blanco](@ablanco3)          | SIRT member                  |
 | Member              | [Anthony Fappiano](@afappiano)          | Manager Reliability                   |
 | Development Functional Lead | [Dan Croft](@dcroft) | Senior Engineering Manager, Ops |
-
+| Member | [Sam Goldstein](@sgoldstein) | Director of Engineering, Ops |
 
 ## Requirements and Considerations
 
