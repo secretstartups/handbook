@@ -1,7 +1,7 @@
-
 ---
 layout: handbook-page-toc
 title: "TD: Zuora Revenue Waterfall"
+description: "The goal of this page is to help you understand how to navidate the Zuora Revenue Waterfall."
 ---
 ## Goal of this Page:
 
