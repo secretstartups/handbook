@@ -26,10 +26,10 @@ Two things that you need to have in consideration when choosing your template:
 {: .alert .alert-warning}
 
 The most common use cases are described below. Find the one that applies to your need and follow the proposed steps:
-- If you need to **create** or **update** a **Professional Services SKU**, open an issue in [this directory](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/new?issue%5Bmilestone_id%5D=) using the `New_PS_SKU` template and follow the steps from the **[How to Create New or Update a Professional Services SKU](url)** section to complete it.
-- If you need to **retire** an existing **Professional Services SKU**, open an issue in [this directory](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/new?issue%5Bmilestone_id%5D=) using the `Retiring_PS_SKU` template and follow the steps from the **[How to Retire a Professional Services SKU](url)** section to complete it.
-- If you need to **create** a new SKU, open an issue in [this directory](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/new?issue%5Bmilestone_id%5D=) using the `Add_New_SKU` template and follow the steps from the **[How to Create New or Update a SKU](url)** section to complete it.
-- If you need to **retire** an existing SKU, open an issue in [this directory](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/new?issue%5Bmilestone_id%5D=) using the `Retiring_SKU` template and follow the steps from the **[How to Retire a SKU](url)** section to complete it.
+- If you need to **create** or **update** a **Professional Services SKU**, open an issue in [this directory](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/new?issue%5Bmilestone_id%5D=) using the `New_PS_SKU` template and follow the steps from the **[How to Create New or Update a Professional Services SKU](#how-to-create-new-or-update-a-professional-services-sku)** section to complete it.
+- If you need to **retire** an existing **Professional Services SKU**, open an issue in [this directory](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/new?issue%5Bmilestone_id%5D=) using the `Retiring_PS_SKU` template and follow the steps from the **[How to Retire a Professional Services SKU](#how-to-retire-a-sku)** section to complete it.
+- If you need to **create** a new SKU, open an issue in [this directory](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/new?issue%5Bmilestone_id%5D=) using the `Add_New_SKU` template and follow the steps from the **[How to Create New or Update a SKU](#how-to-create-new-or-update-a-sku)** section to complete it.
+- If you need to **retire** an existing SKU, open an issue in [this directory](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/new?issue%5Bmilestone_id%5D=) using the `Retiring_SKU` template and follow the steps from the **[How to Retire a SKU](#how-to-retire-a-sku)** section to complete it.
 
 ### How to Create New or Update a Professional Services SKU
 
@@ -97,7 +97,7 @@ _Completion of all fields is necessary for approvals. Any missing or incomplete 
 #### 2. Stakeholder Pre-Configuration Approval For Pricing and Non-Standard Requests (if applicable)
 - Tag the Fulfillment stakeholder (`@tgolubeva`) for approval in case both `Usage` option has selected as the Charge Type **AND** `Self-serve` in the _How is the proposed SKU (meant to be) sold to Customers_ section. 
 - Tag the Finance/SalesOps stakeholder (`@jrabbits`) for approval in case any non-standard Charge Type, Charge Model, Charge Timing options have been selected above.
-   - Check the _[What are Non-Standard Requests](url)_ section for more information.
+   - Check the _[What are Non-Standard Requests](#what-are-non-standard-requests)_ section for more information.
 - Always tag the Pricing stakeholder (`@xli1`) for approval.
 
 
@@ -214,7 +214,7 @@ _Completion of all fields is necessary for approvals. Any missing or incomplete 
 #### 2. Stakeholder Pre-Configuration Approval For Pricing and Non-Standard Requests (if applicable)
 - Tag the Fulfillment stakeholder (`@tgolubeva`) for approval in case both `Usage` option has selected as the Charge Type **AND** `Self-serve` in the _How is the proposed SKU (meant to be) sold to Customers_ section. 
 - Tag the Finance/SalesOps stakeholder (`@jrabbits`) for approval in case any non-standard Charge Type, Charge Model, Charge Timing options have been selected above.
-   - Check the _[What are Non-Standard Requests](url)_ section for more information.
+   - Check the _[What are Non-Standard Requests](#what-are-non-standard-requests)_ section for more information.
 - Always tag the Pricing stakeholder (`@xli1`) for approval.
 
 
