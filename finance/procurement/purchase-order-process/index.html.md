@@ -46,7 +46,7 @@ It is the responsibility of the business owner/issue creator to request a Purcha
 
 ## Creation of the Purchase Order
 
-Once a Vendor issue has completed the [Procure to Pay Process](/handbook/finance/procurement), a Purchase Order is created in Netsuite by the procurement team. Before the Purchase Order can be completed, the vendor must self register/setup within Coupa. Any delay in the Vendor Setup process will delay payment to the Vendor. Refer to [Vendor Master Management](/handbook/finance/accounting/#3-vendor-master-management) for the Vendor set up process.
+Once a Vendor issue has completed the [Procure to Pay Process](/handbook/finance/procurement/), a Purchase Order is created in Netsuite by the procurement team. Before the Purchase Order can be completed, the vendor must self register/setup within Coupa. Any delay in the Vendor Setup process will delay payment to the Vendor. Refer to [Vendor Master Management](/handbook/finance/accounting/#3-vendor-master-management) for the Vendor set up process.
 
 Detailed Guide with screen shots is available [here](https://docs.google.com/document/d/1iJQHbG1qBFwwis8i_-dtytMP2HY8MNg8rxAH0VS2L3E/edit#).
 
