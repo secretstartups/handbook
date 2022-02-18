@@ -134,7 +134,7 @@ Moving to the topic of investors and their perception of remote companies, Sid a
 
 ## Value Origin stories
 
-GitLab's [six core values](/handbook/values){:data-ga-name="values"}{:data-ga-location="body"} are 🤝 Collaboration, 📈 Results , ⏱️ Efficiency, 🌐 Diversity, Inclusion & Belonging, 👣 Iteration, and 👁️ Transparency, and together they spell the CREDIT we give each other by assuming good intent. In the following recordings, GitLab's CEO and Founder, Sid Sijbrandij, shares stories around each values origination and importance to GitLab.
+GitLab's [six core values](/handbook/values/){:data-ga-name="values"}{:data-ga-location="body"} are 🤝 Collaboration, 📈 Results , ⏱️ Efficiency, 🌐 Diversity, Inclusion & Belonging, 👣 Iteration, and 👁️ Transparency, and together they spell the CREDIT we give each other by assuming good intent. In the following recordings, GitLab's CEO and Founder, Sid Sijbrandij, shares stories around each values origination and importance to GitLab.
 
 ### Collaboration
 
