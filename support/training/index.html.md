@@ -73,7 +73,7 @@ When you first join the team everything will be new to you. Don't worry! In orde
 
 **NOTE:** You can start the PeopleOps onboarding and the Support Onboarding at the same time, or you can complete PeopleOps and then switch to Support. Determine the best path with your manager.
 
-## Support Engineer Onboarding Pathway
+# Support Engineer Onboarding Pathway
 
 Your primary Support Engineer Onboarding Issue is created from the [New Support Team Member Start Here template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New%20Support%20Team%20Member%20Start%20Here.md). This issue keeps track of your completion of the onboarding modules shown in the table below.
 
