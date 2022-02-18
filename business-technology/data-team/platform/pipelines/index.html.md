@@ -223,6 +223,20 @@ The `boneyard` schema is where data can be uploaded from a spreadsheet and it wi
 
 If you are adding Certificates to SheetLoad, refer to the instructions in the [People Group page](/handbook/people-group/learning-and-development/certifications/#step-5-add-to-sheetload)
 
+## Zuora API Sandbox
+The API Sandbox is Zuora's "release preview" environment. It is a customer facing, multi-tenant environment that gets code deployed to it before Zuora's production environment. How early code gets deployed depends on the type of release: Major releases are usually deployed a week in advance, whereas minor releases and emergency patches get deployed days, hours or minutes before production. Zuora customers can purchase any number of tenants in this environment for a recurring annual fee.
+
+API Sandbox is co-located in the same data center as the production environment, running on bare metal, but on a smaller footprint, offering less capacity.
+
+The main use cases for API Sandbox include:
+
+Basic implementation configuration and integrations
+- Training
+- Integration testing
+- Regression testing
+- Release preview testing
+
+
 ## Zuora Central Sandbox
 Zuora Central Sandbox combines the capability to copy production data along with production-like performance into a single test environment tenant.  While Zuora Central Sandbox always comes with a snapshot of scrubbed production data, it can also be utilized for a brand new implementation in case the production tenant has no data at that time. The use cases of Zuora Central Sandbox includes all that of API Sandbox and more. See the following use cases supported by Zuora Central Sandbox.
 
