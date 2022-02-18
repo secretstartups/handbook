@@ -74,7 +74,7 @@ Any use of third-party trademarks should be covered by a Trademark Use Agreement
 
 From time to time, GitLab sponsors promotional games. While these seem simple enough and may be an effective marketing tactic, there are quite a few factors for Legal to consider when planning such an event. Because of this, requests for Official Rules should be submitted at least 2 weeks prior to the date you need a decision. 
 
-If you are planning a promotional game, you will need legal approval for the proposed promotional game. Please use the [Sweepstakes Legal Template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=sweepstakes_legal_template) housed in the Marketing Ops repo. 
+If you are planning a promotional game, you will need legal approval for the proposed promotional game. Please use the [Promotional Games Legal Template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=promotional_games_legal_template) housed in the Marketing Ops repo. 
 
 The following explanations will help you fill out the form completely. This is essential, as all of the questions were developed based on legal requirements. Issues that do not answer all the questions will not be approved.
 
@@ -100,7 +100,7 @@ The following explanations will help you fill out the form completely. This is e
 Once your issue description is completely filled out, Legal will review all the details in light of the applicable laws and make recommendations to tailor the promotional game. Legal will also provide the Official Rules. **Depending on the locale, you may be required to obtain a translation of the rules to local languages.** Legal does not provide this, so you will need to ensure that you have the ability to procure this through Marketing vendors. Some rules can be translated through automated services, but others may require human translation depending on the prize amounts and jurisdiction.
 
 ### Hosting the Promotional Game Rules
-Any promotional game sponsored by GitLab must be accompanied by Official Rules. Once legal has drafted and provided these to you, you will need to [create a new page](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-new-pages) under the [GitLab Sweepstakes](https://about.gitlab.com/community/sweepstakes/) page and add a link to the [list of Current sweepstakes](https://about.gitlab.com/community/sweepstakes/#current). Once you have added the rules for your promotional game, link to these from the landing page of your entry form or promotion.   
+Any promotional game sponsored by GitLab must be accompanied by Official Rules. Once legal has drafted and provided these to you, you will need to [create a new page](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-new-pages) under the [GitLab Sweepstakes](https://about.gitlab.com/community/sweepstakes/) page and add a link to the [list of Current promotional games](https://about.gitlab.com/community/sweepstakes/#current). Once you have added the rules for your promotional game, link to these from the landing page of your entry form or promotion.   
 
 **Note:** Remember to move your page from the `Current` to the `Past` lists once your promotional game is complete.
 
