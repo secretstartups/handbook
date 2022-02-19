@@ -47,10 +47,10 @@ _we've identified some prerequisites that must be complete before pursuing a rec
 ## Timeline
 
 ### Path 1 (2022-02-02 > 2022-02-18) - 2 weeks
-1. Defined long-term / future-state of the self-service business needs across all teams and departments in a JTBD framework
+1. Defined long-term / future-state of the self-service business needs across all teams and departments in a JTBD framework [collaborators input](https://docs.google.com/spreadsheets/d/12dyu-mwO8lOPBFOWzGCbRd8RL3N0WHatPg7VWC6ljUo/edit#gid=1877539157) [doc](https://docs.google.com/spreadsheets/d/1fLrF03aXN_EOKcRQr09_Ik8UyegWwk355msSJUgZiNA/edit#gid=0)
     1. Kazem Kutob
     1. Omar Fernandez
-1. Define current state of self-service capabilities
+1. Define current state of self-service capabilities [doc](https://docs.google.com/spreadsheets/d/1VUToeirsvW1KBfuRuz0Rx0buyBW4Mgv0jn7ufnSZhrU/edit#gid=1280279157)
     1. Omar Fernandez 
     1. Alex Martin 
 
@@ -116,3 +116,4 @@ Stakeholders with business requirements or domain expertise who will provide inp
 | Collaborator | Cheri Holmes | Chief of Staff to CRO |
 | Collaborator | Jake Bielecki | Sr Director, Sales Strategy and Ops |
 | Collaborator | Shaun McCann | Director, Support Engineering | 
+| Collaborator | Jesse Rabbits | Sr. Manager, Deal Desk | 
