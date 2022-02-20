@@ -21,6 +21,10 @@ The Engineering Productivity team has diverse responsibilities and reactive work
 - We are ambitious with our targeted planned work per milestone. These targets are not reflective of a commitment. Reactive work load will ebb and flow and we do not expected to accomplish everything planned for the current milestone.
 - [Priority labels](/handbook/engineering/quality/issue-triage/#priority) are used to indicate relative priority for a milestone.
 
+### Weighting
+
+We follow the [department weighting guidelines](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/#weights). 
+
 ### Prioritization activities
 
 | When | Activity | DRI |
