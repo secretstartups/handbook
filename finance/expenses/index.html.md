@@ -186,6 +186,7 @@ For Laptop Purchases/Refreshes, please refer to [IT Ops Laptop](/handbook/busine
 ([Docs](/handbook/communication/#google-docs), Slides, Sheets, etc.) instead.
 1. For security related software, refer to the security page for [laptop and desktop
 configuration](/handbook/security/#laptop-or-desktop-system-configuration).
+1. We do not currently issue Docker Desktop licenses (for more information see [team-member-enablement#1787](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/1787)). For most team members the [alternatives documented on the Tools and Tips page](/handbook/tools-and-tips/mac#docker-desktop) may suffice. If you need an exception, please see the exception section on the same page
 
 #### Individual Subscriptions
 
