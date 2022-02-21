@@ -19,7 +19,7 @@ canonical_path: "/company/team/structure/working-groups/api-vision/"
 | Target End Date | -                                                                                                                                                 |
 | Slack           | [#wg_api_vision](https://gitlab.slack.com/archives/C030DMJE0SZ) (only accessible from within the company)                                         |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1o4Tq84Lt5VnxrVZmhlP0u4qiErzC1MtVfivnIc6_29E) (only accessible from within the company) |
-| Issue Board     | [Issue Board](https://gitlab.com/groups/gitlab-org/-/boards/363876?label_name[]=WorkingGroup::API)                                                |
+| Issue Board     | [Issue Board](https://gitlab.com/groups/gitlab-org/-/boards/3929903)                                                |
 
 ## Goal
 
