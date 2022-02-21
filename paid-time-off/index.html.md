@@ -9,6 +9,10 @@ title: "Paid time off at GitLab"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Introduction
+
+This policy relates to the types of leaves that GitLab offers and the guidelines associated with each leave type.    
+
 ## Paid Time Off
 
 Time away from work can be extremely helpful for maintaining a [healthy work/life balance](/company/culture/all-remote/people/#worklife-harmony). GitLab encourages managers and [leadership](/handbook/leadership/) to set the example by taking time off when needed, and ensuring their reports do the same.
@@ -46,12 +50,12 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
     * If you're gone for 72 hours without notification, this could be deemed as [Job Abandonment](/handbook/people-policies/#job-abandonment).
     * It can be helpful to take longer breaks to re-energize. If this is helpful to you, we strongly recommend taking at least two consecutive weeks of time off per year.
 1. We don't frown on people taking time off, but rather encourage people to take care of themselves and others by having some time away. If you notice that your co-worker is working long hours over a sustained period, you may want to let them know about the time off policy.
-1. In addition, we encourage all team members to take time off for holidays they observe. GitLab embraces asynchronous communications, so calls can be recorded and watched later. No one should ever be expected to attend calls on days they are not working or on official public holidays. For a listing of official holidays by country, follow these steps:
+1. In addition, we encourage all team members to take time off for public holidays they observe. GitLab embraces asynchronous communications, so calls can be recorded and watched later. No one should ever be expected to attend calls on days they are not working or on official public holidays. For a listing of official holidays by country, follow these steps:
     1. Go to the [timeanddate.com site](https://www.timeanddate.com/holidays/)
     1. Select your country of residence
     1. Change the dropdown from 'All holidays and national observances' to 'Official holidays'
-1. For some countries, GitLab is required to pay out unused vacation balances at the end of the team member's employment. To prevent any discrepancies, make sure you select the correct category for your time off.
-1. Not taking vacation is viewed as a weakness and people shouldn't boast about it. It is viewed as a lack of humility about your role, not fostering collaboration in training others in your job, and not being able to document and explain your work. You are doing the company a disservice by being a single point of failure. The company must be able to go for long periods without you. We don't want to lose you permanently by you burning yourself out by not taking regular vacations.
+1. For some countries, GitLab is required to pay out unused statutory vacation balances at the end of the team member's employment. To prevent any discrepancies, make sure you select the correct category for your time off (e.g. vacation).
+1. Not taking time off is viewed as a weakness and people shouldn't boast about it. It is viewed as a lack of humility about your role, not fostering collaboration in training others in your job, and not being able to document and explain your work. You are doing the company a disservice by being a single point of failure. The company must be able to go for long periods without you. We don't want to lose you permanently by you burning yourself out by not taking regular time off.
 1. Working hours are flexible. You are invited to company-wide calls such as group conversations and the [take a break call](/handbook/communication/#take-a-break-call) if you are available, but they aren't mandatory and you shouldn't attend if they are during your time off. We encourage you to read the [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/general) Slack channel on your return to catch up on the announcements made while you were on your time off.
 1. You don't need to worry about taking time off to go to the gym, [take a nap](https://m.signalvnoise.com/sleep-deprivation-is-not-a-badge-of-honor-f24fbff47a75), go grocery shopping, do household chores, help someone, take care of a loved one, etc. If you have urgent tasks, but something comes up or takes longer than expected, just ensure the rest of the team **knows** and someone can pick up the tasks (assuming you're able to communicate).
 1. GitLab encourages team members to volunteer within their community to take care of others. Consider taking time in support of causes that matter to you and support your personal commitment to GitLab's values such as diversity, inclusion and belonging.
@@ -64,7 +68,7 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 1. It's important to take PTO while you have something you *want* to do, rather than waiting until you *need* the time off.
 1. Please note that we still **help** clients during official days off, unless they are official days off in both the Netherlands and the U.S. For any particular day, we try to always have people working from countries that aren't observing an official holiday. If you need to work during an official day off in your country, you should take a different day off in return.
 1. Please also remember to turn on your out of office message and include the contact details of a co-worker in case anything urgent or critical comes into your inbox while you're away. If you have to respond to an incident while on-call outside of your regular working hours, you should feel free to take off some time the following day to recover and be well-rested. If you feel pressured to _not_ take time off to rest, refer to this part of the handbook and explain that you had to handle an incident.
-1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `people-connect@gitlab.com` with your specific request and People Operations Specialists will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-by-roots-events). Events can only be changed after the PTO by Roots event has completed itself.
+1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `leaves@gitlab.com` with your specific request and the Absence Management Team will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-by-roots-events). Events can only be changed after the PTO by Roots event has completed itself.
 
 ### Communicating Your Time Off
 
@@ -449,7 +453,7 @@ The following is a list of all statutory annual vacation entitlements by entity 
 1. GitLab LTD (UK Employees)
     * Employees are [entitled to at least 28 vacation days](https://www.gov.uk/holiday-entitlement-rights), this is broken down by 20 days standard annual leave plus 8 public holidays. These days will accrue from the start date. It is important for UK team members to utilise time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Under normal circumstances, there is no carryover for unused vacation days. However given the situation surrounding COVID-19 the UK government has [relaxed measures](https://www.gov.uk/government/news/rules-on-carrying-over-annual-leave-to-be-relaxed-to-support-key-industries-during-covid-19) on the carry over of annual leave for the following two calendar years (2020-2021,2021-2022).
 1. GitLab BV (Netherlands Employees)
-    * Employees are entitled to at least 20 vacation days per year. The days will accrue at 1.67 days/month from the team member's start date. Any unused days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata portion of vacation days exists.
+    * Employees are entitled to at least 20 statutory vacation days per calendar year. The days will accrue at 1.67 days/month from the team member's start date. Any unused statutory vacation days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata portion of vacation days exists.
 1. GitLab BV (Belgium)
     * Employees are entitled to at least 20 vacation days; the days taken must be communicated to the Belgian payroll provider each month by People Ops. These days do not carry over into the next calendar year.
 1. GitLab IT BV (Contractors)
