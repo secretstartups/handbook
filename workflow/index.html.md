@@ -811,6 +811,8 @@ Issues are nominated to the board through the inclusion of the label `infradev` 
 
 Issues with `~infradev ~severity::1 ~priority::1 ~production request` labels applied require immediate resolution.
 
+`~infradev` issues requiring a ~"breaking change" should not exist.  If a current `~infradev` issue requires a breaking change then it should split into two issues.  The first issue should be the immediate `~infradev` work that can be done under current SLOs.  The second issue should be  ~"breaking change" work that needs to be completed at the next major release in accordance with [handbook guidance](https://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features). Agreement from development DRI as well as the infrastructure DRI should be documented on the issue. 
+
 Additionally, an automated status report is generated in the [gitlab-org/infradev-reports](https://gitlab.com/gitlab-org/infradev-reports/-/issues) issue tracker. A new report is opened weekly, and updated regularly. The report categorizes each infradev issue according to several criteria, and can help with the triage and priorization process.
 
 ### A Guide to Creating Effective Infradev Issues
