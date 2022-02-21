@@ -85,6 +85,7 @@ The data on both the Dashboards - [TD: Product Data Quality Scorecard - Overview
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="https://app.periscopedata.com/app/gitlab/887191/TD:-Product-Data-Quality-Scorecard---Overview-V1.0" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Product Data Quality Scorecard - Overview V1.0</a>
   <a href="https://app.periscopedata.com/app/gitlab/868646/TD:-Product-Data-Quality-Detailed-Dashboard-V1.0" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Product Data Quality Detailed Dashboard V1.0</a>
+  <a href="https://app.periscopedata.com/app/gitlab:safe-dashboard/924978/ML-Draft:-Paying-Account---Service-Data-Inspector" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Service Data Inspector Dashboard</a>
 </div>
 <br><br>
 
