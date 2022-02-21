@@ -47,7 +47,7 @@ Your responsibilities are as follows:
 
 You can use [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) to find appropriate engineers to assign.
 
-A very high percentage of support escalations involve licenses and renewals. For guidance in handling these escalations, please see the [Plan/License Escalations Workflow page](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/managers_working_with_extensions.html).
+A very high percentage of support escalations involve licenses and renewals. For guidance in handling these escalations, please see the [Plan/License Escalations Workflow page](/handbook/support/license-and-renewals/workflows/managers_working_with_extensions.html).
 
 **NOTE:** GitLab team members may attempt to draw attention to tickets in regular support Slack channels (`#support_self-managed`, `#support_gitlab-com`, `#spt_managers`). Any such attempt constitutes an escalation. Redirect the team member by responding to their post with **only the `:escalate:` emoji**, which will send an automated and anonymous reply describing the correct process.
 
@@ -93,7 +93,7 @@ When GitLab experiences a [security incident](/handbook/engineering/security/sec
 
 ## Provide assistance with Live Upgrade Assistance Requests
 
-[Live upgrade assistance requests](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) are currently triaged by engineers as part of the [Working on Tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html) but in some cases the triaging agent(s) may need assistance from Support management.
+[Live upgrade assistance requests](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) are currently triaged by engineers as part of the [Working on Tickets](/handbook/support/workflows/working-on-tickets.html) but in some cases the triaging agent(s) may need assistance from Support management.
 
 #### Example situations and potential solutions
 
