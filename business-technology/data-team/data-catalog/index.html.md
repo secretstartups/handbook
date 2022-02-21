@@ -65,6 +65,7 @@ The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Ke
 
 * [TD: Product Geolocation](/handbook/business-technology/data-team/data-catalog/product-geolocation/)
 * [TD: Pricing Analysis](/handbook/business-technology/data-team/data-catalog/pricing/)
+* [TD: Service Data Inspector](handbook/source/handbook/business-technology/data-team/data-catalog/service-data-inspector/)
 
 #### Data Models and Processes
 
