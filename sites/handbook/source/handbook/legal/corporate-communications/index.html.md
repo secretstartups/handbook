@@ -4,9 +4,14 @@ title: "Corporate Communications Policy"
 description: "Overview of the Corporate Communication Policy at GitLab."
 ---
 
+## On this page
+{:.no_toc}
 
+- TOC
+{:toc}
 
 # CORPORATE COMMUNICATIONS POLICY
+
  **_THIS POLICY WAS APPROVED BY THE BOARD ON SEPTEMBER 14, 2021_**
 
 ### PURPOSE
