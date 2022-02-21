@@ -26,8 +26,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | Feb 24 | Q1 FY23 Alliances Update | Mayank T. & Pete G.  |
 | Mar 3 | Solution Selling | TBD  |
 | Mar 10 | Q1 FY23 Professional Services Update | TBD |
-| Mar 17 | Customer References Update | Customer References Team |
-| Mar 24 | No session this week due to GitLab SKO 2022|  |
+| Mar 17 | No session this week due to GitLab SKO 2022|  |
+| Mar 24 | Customer References Update | Customer References Team |
 | Mar 31 | TBD |  |
 | Apr 7 | TBD |  |
 | Apr 14 | Q1 FY23 Competitive Update | Francis P. |
