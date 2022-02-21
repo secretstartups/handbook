@@ -64,8 +64,9 @@ Evaluation Design is the most complex part of the PoV.
      * The Statement of Work should include Success Criteria, Expectations, and a Project Timeline
      * We do not pay for PoVs and all should be $0 Cost
 1. Along with the SoW, ask the vendor to send you their Master Services Agreement (MSA).
-1. Submit the SoW and MSA to Procurement via Coupa, following this [How Do I Submit a Request to Purchase New Software?](https://about.gitlab.com/handbook/finance/procurement/new-software/#how-do-i-submit-a-request-to-purchase-new-software) guide. 
-    - The process to obtain security approvals is supported in Coupa.
+1. Because request with an amount of $0 is not supported in Coupa, you need to submit the SoW and MSA to Procurement via GitLab in the Procurement [project](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues).
+   - Submit the SoW and MSA to Procurement via Coupa if the PoV amount is not $0, following this [How Do I Submit a Request to Purchase New Software?](https://about.gitlab.com/handbook/finance/procurement/new-software/#how-do-i-submit-a-request-to-purchase-new-software) guide. 
+      - The process to obtain security approvals is supported in Coupa.
 
 ### Phase 5: Assessment
 
