@@ -97,7 +97,7 @@ In order to better facilite asynchronous collaboration on tickets within the US 
 **NOTE:
 It is important to never included any customer specific information inside of these issues, because even though they are confidential, they are still visable to people who do not have access to the US Federal ticket system.**
 
-To trigger the creation of one of these issues, select the `General::Create discussion issue` macro from the macros menu then submit the ticket. The support ops bot will then create an issue and link to it in an internal note. At first, this issue will contain very little information. The title will include the ticket number and the body will contain a link to the ticket.
+To trigger the creation of one of these issues, select the `General::Create discussion issue` macro from the macros menu then submit the ticket. The support ops bot will then create an issue and link to it in an internal note. At first, this issue will contain very little information. The title will include the ticket number and the body will contain a link to the ticket plus empty sections, marked with headers, where you can provide information as you have it. All of these sections are optional.
 
 Edit the issue to include as much information about the ticket as possible without breaching our confidentiality requirements, then share the link to the issue with collaborators and/or mention others to engage them through GitLab's To-Do system. Finally, set yourself as the assignee.
 
