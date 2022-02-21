@@ -20,11 +20,11 @@ stage] page.
 
 ### Team members
 
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Monitor') %>
+<%= direct_team(role_regexp: /Frontend/, manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
 
 ### Stable counterparts
 
-<%= stable_counterparts(role_regexp: /[,&] Monitor/, direct_manager_role: 'Frontend Engineering Manager, Monitor') %>
+<%= stable_counterparts(role_regexp: /(?<!:)Monitor(?!:Observability)/, direct_manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
 
 ## Useful links
 
