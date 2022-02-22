@@ -47,7 +47,7 @@ Clarify in the introduction how you want participants to submit questions, ideal
 ### When the webinar is over
 When the webinar is finished, we need to make sure the video is published correctly on our GitLab Unfiltered channel. If we were the organizers, it will be on YouTube already as we livestreamed it. If not, upload the video to our GitLab Unfiltered channel. In both cases, the following checklist need to be executed:
 
-- Add to the proper GitLab Unfiltered playlist
+- Add to the proper GitLab Unfiltered playlist.
 - Copy over the webinar description into YouTube. Don't leave the show notes/description blank.
 - Add relevant handbook links discussed in the show to the description box as well.
 - Add relevant tags within the video editor window in YouTube.
