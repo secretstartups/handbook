@@ -90,7 +90,7 @@ As of 2022-02-01, the Deal Desk team is structured as follows:
   - Deal Desk Analyst (APAC)
   - Deal Desk Analyst (EMEA)
   - Deal Desk Specialist (EMEA)
-  - Deal Desk Specialist (EMEA)
+  - OPEN REQ: Deal Desk Specialist (EMEA)
 
 ### Communicating with the Deal Desk Team
 
