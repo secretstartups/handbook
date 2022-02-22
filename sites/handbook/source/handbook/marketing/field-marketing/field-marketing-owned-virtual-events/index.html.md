@@ -19,7 +19,7 @@ description: "Step by Step instructions for Field Marketers on how to set up var
 
 This is a light-weight virtual event that is hosted on any team member’s personal Zoom. 
 
-**Note:** If you are utilizing a third party platform and would like create a Marketo LP and invites, that would be considered an [Owned Event](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#owned-event). 
+**Note:** If you are utilizing a non-Zoom virtual event platform (example - Webex or any other platform where we do not have an integration in place) and would like to create a Marketo LP and Marketo invites, that would be considered an [Owned Event](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#owned-event) and not a self-service event. 
 
 #### Zoom Guidelines
 
