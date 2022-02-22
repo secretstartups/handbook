@@ -67,19 +67,6 @@ A merge request is considered completely triaged when it:
 
 This triage process is being done manually on a case-by-case basis by [Merge Request Coaches](/job-families/expert/merge-request-coach/#closing-merge-requests) or [Engineering Managers](/handbook/engineering/quality/triage-operations/#community-merge-requests-requiring-attention).
 
-## Wider Community Merge Request Triage SLOs
-
-Community contributions are valuable, and we should handle them as effectively as possible to ensure swift feedback to community and increase engagement. To achieve that we define the following [Service-level objectives (SLOs)](https://en.wikipedia.org/wiki/Service-level_objective):
-
-| Triage Level                                                                            | Triage SLO                                 | Escalation path if SLO target is missed                                                                    |
-|-----------------------------------------------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| [Initial Triage](#initial-triage)                                                       | 24 hours                                   | Reach out to [Engineering Productivity team][Engineering Productivity team]|
-| [Partial Triage](#partial-triage)                                                        | 7 days                                     | Reach out to [Community Relations team](/handbook/marketing/community-relations/#-how-to-reach-us)         |
-| [Complete Triage for Open Merge Requests](#complete-triage-for-open-merge-requests)     | - 7 days to assign <br> - 7 days to review | Reach out to [Community Relations team](/handbook/marketing/community-relations/#-how-to-reach-us)         |
-| [Complete Triage for Merged Merge Requests](#complete-triage-for-merged-merge-requests) | 7 days                                     | Reach out to [Engineering Productivity team][Engineering Productivity team] |
-| [Complete Triage for Idle Merge Requests](#complete-triage-for-idle-merge-requests)    | 7 days                                     | Reach out to [Community Relations team](/handbook/marketing/community-relations/#-how-to-reach-us)         |
-
-
 ## Triage levels for the www-gitlab-com project
 
 The GitLab Website is owned and managed by a different team than GitLab.org; thus, a further triage process must be defined.
@@ -114,6 +101,16 @@ A merge request is considered completely triaged when it:
 - is closed following the [closing policy for issues and merge requests](https://docs.gitlab.com/ee/development/contributing/#closing-policy-for-issues-and-merge-requests).
 
 This triage process is being done manually on a case-by-case basis by the Code Contributor Program manager or the relevant [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html).
+
+## Inactive MR Triage Policy
+
+The inactive merge request policy was created to enable GitLab teams to focus efforts on active merge request and prevent old merge requests from degrading into a state of disrepair. This is done by creating two thresholds at which GitLab team members attempt to move the merge request forward. Contributor Success team members attempt to move merge requests that have reached the first threshold forward. If that's not successful an Engineering Manager makes a decision at the second threshold. We value your effort - that's why all decisions to close a merge request are made by a human, and are not automated.
+
+1. Merge Requests without human interaction for more than 28 days are labeled as [~idle](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=idle)
+    1. Idle Merge Reqeusts appear in the [weekly community contributions report](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/quality/community-contribution-mr-report.yml) which the [Contributor Success team](https://about.gitlab.com/handbook/engineering/quality/contributor-success/) monitors.
+    1. The [Contributor Success team](https://about.gitlab.com/handbook/engineering/quality/contributor-success/) will attempt to move these Merge Reqeusts forward.
+1. Merge Requests without human interaction for more than than 120 days are labeled as [~stale](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=stale)
+    1. Once a Merge Request becomes stale, an Engineering Manager is pinged to decide if a GitLab team member will pick up the work on it or close the Merge Request.
 
 ## Wider Community Merge Request Triage SLOs
 
