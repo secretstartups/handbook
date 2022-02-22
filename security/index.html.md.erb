@@ -183,12 +183,12 @@ If you have a question or concern and need to speak with the Security Team, you 
 
 Sometimes a team member needs to test a particular scenario that requires bypassing of the firewall. If this is the case, ensure one of the following network scenarios/configurations is used for your laptop:
 
-    * If you do not need Internet access during your test scenario, disconnect from the Internet before disabling the firewall for your tests and re-enable it before re-connecting to the Internet.
-    * If you must use a public network (such as while traveling), use a personal VPN to help protect your connection. Refer to the [Personal VPN](/handbook/tools-and-tips/personal-vpn/) page for more information.
-    * Make sure the connected network is not a public network, or a network with a publicly-known WiFi password (e.g. a coffee shop WiFi network with the password written on a chalkboard). Your home network with your laptop behind the built-in firewall in your Internet router that protects your network is considered a non-public network. Refer to this [guide](network-isolation/index.html) for more information.
-    * Keep the firewall active and make use of virtual machines and containers to create a self-contained network configuration.
-    * If your testing is frequent, configure the firewall to only allow the ports needed for your testing, and stay on an [isolated network](network-isolation/index.html) or use a [personal VPN](/handbook/tools-and-tips/personal-vpn/).
-    * Contact the Security department in the `security` Slack channel if you have questions about this.
+* If you do not need Internet access during your test scenario, disconnect from the Internet before disabling the firewall for your tests and re-enable it before re-connecting to the Internet.
+* If you must use a public network (such as while traveling), use a personal VPN to help protect your connection. Refer to the [Personal VPN](/handbook/tools-and-tips/personal-vpn/) page for more information.
+* Make sure the connected network is not a public network, or a network with a publicly-known WiFi password (e.g. a coffee shop WiFi network with the password written on a chalkboard). Your home network with your laptop behind the built-in firewall in your Internet router that protects your network is considered a non-public network. Refer to this [guide](network-isolation/index.html) for more information.
+* Keep the firewall active and make use of virtual machines and containers to create a self-contained network configuration.
+* If your testing is frequent, configure the firewall to only allow the ports needed for your testing, and stay on an [isolated network](network-isolation/index.html) or use a [personal VPN](/handbook/tools-and-tips/personal-vpn/).
+* Contact the Security department in the `security` Slack channel if you have questions about this.
 
 ### WiFi configuration
 
@@ -420,7 +420,7 @@ have saved in 1Password Teams, so users can take action. This is not something
 account administrators can review for team members, so it is up to you to enable!
 Enable Watchtower by going to your 1Password app and then to **Preferences > Watchtower**.
 1. Use the ["Security Audit"](https://i.agilebits.com/dt/Blank_Skitch_Document_18FB0234.png)
-functionality of 1Password meet the [password policy](#gitlab-password-policy-guidelines).
+functionality of 1Password to meet the [password policy](#gitlab-password-policy-guidelines).
 It will report reused passwords, weak passwords, accounts that
 are missing 2-factor authorization, and so forth that can then be fixed.
 1. Do not copy passwords from inside a 1Password vault to a personal password
@@ -667,7 +667,7 @@ To enable TOTP for a saved account:
 1. Click **Save**
 1. 2FA code should be displayed now
 
-Please refer to demo video [1password TOPT setup](https://support.1password.com/one-time-passwords/)
+Please refer to demo video [1password TOTP setup](https://support.1password.com/one-time-passwords/)
 
 Please refer to the [1Password blog] for more information on how TOTP works.
 
