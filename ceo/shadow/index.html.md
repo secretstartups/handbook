@@ -176,8 +176,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-02-14 | 2022-02-17 | [Mark Scheuber](https://gitlab.com/mscheuber)  - Sr. Strategic Account Leader | [Darby Frey](https://gitlab.com/darbyfrey) - Staff Fullstack Engineer |
 | 2022-02-22 | 2022-02-25 | [Jonathan Miller](https://gitlab.com/JonathanMiller) | [Mark Scheuber](https://gitlab.com/mscheuber) (short week due to holiday) |
 | 2022-02-28 | 2022-03-04 | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager | [Jonathan Miller](https://gitlab.com/JonathanMiller) |
-| 2022-03-07 | 2022-03-11 | [Hannah Sutor](https://gitlab.com/hsutor) - Senior Product Manager| [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager|
-| 2022-03-14 | 2022-03-18 | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer | [Hannah Sutor](https://gitlab.com/hsutor) - Senior Product Manager |
+| 2022-03-07 | 2022-03-11 | [Byron Boots](https://gitlab.com/byronboots) - Senior Security Compliance Engineer| [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) - Senior Reference Program Manager|
+| 2022-03-14 | 2022-03-18 | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer | [Byron Boots](https://gitlab.com/byronboots) - Senior Security Compliance Engineer|
 | 2022-03-21 | 2022-03-25 | [Adam Vesey](https://gitlab.com/avesey) - Sr. Legal Counsel  | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer |
 | 2022-03-28 | 2022-04-01 | AVAILABLE - REMOTE | [Adam Vesey](https://gitlab.com/avesey) - Sr. Legal Counsel |
 | 2022-04-04 | 2022-04-08 | E-GROUP OFFSITE - NO SHADOWS | E-GROUP OFFSITE - NO SHADOWS |
