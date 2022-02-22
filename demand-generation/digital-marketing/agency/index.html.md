@@ -35,19 +35,25 @@ The [GitLab Digital Marketing team](https://about.gitlab.com/handbook/marketing/
 
 ### GitLab Labels
 
-| Label               | Category      | Definition                                                                          |
-|---------------------|---------------|-------------------------------------------------------------------------------------|
-| todo:pmg            | Todo          | Label to notate the next step is in the hands of PMG Digital                        |
-| todo:gitlab         | Todo          | Label to notate the next step is in the hands of GitLab                             |
-| pmg-abmktg          | Team          | Label for all issue related to the campaigns for Account Based Marketing department |
-| pmg-demandgen       | Team          | Label for all issue related to the demand generation team                           |
-| pmg-fieldmktg       | Team          | Label for all issue related to the field marketing campaigns                        |
-| dg-pmg-info         | Informational | Label for issues that is only informational. No action items                        |
-| pmg-meeting         | Informational | For issues that are recaps from meetings                                            |
-| paid social         | Channel       | For campaigns that include paid social                                              |
-| paid search         | Channel       | For campaigns that include paid search                                              |
-| display advertising | Channel       | For campaigns that include paid display                                             |
-| sponsorships        | Channel       | For campaigns that include paid sponsorships                                        |
+| Label                   | Category      | Definition                                                                          |
+|-------------------------|---------------|-------------------------------------------------------------------------------------|
+| todo:pmg                | Todo          | Label to notate the next step is in the hands of PMG Digital                        |
+| todo:gitlab             | Todo          | Label to notate the next step is in the hands of GitLab                             |
+| DG-PMG-priority::TBD    | Priority      | Priority of the issue is TBD                                                        |
+| DG-PMG-priority::Low    | Priority      | Priority of the issue is Low                                                        |
+| DG-PMG-priority::Medium | Priority      | Priority of the issue is Medium                                                     |
+| DG-PMG-priority::High   | Priority      | Priority of the issue is High                                                       |
+| pmg-abmktg              | Team          | Label for all issue related to the campaigns for Account Based Marketing department |
+| pmg-demandgen           | Team          | Label for all issue related to the demand generation team                           |
+| pmg-fieldmktg           | Team          | Label for all issue related to the field marketing campaigns                        |
+| dg-pmg-info             | Informational | Label for issues that is only informational. No action items                        |
+| dg-pmg: Admin           | Informational | Label for issues that are administrative (process, budgeting, etc.)                 |
+| dg-pmg: Reporting       | Todo          | Label for issues that execution is complete but reporting is needed                 |
+| pmg-meeting             | Informational | For issues that are recaps from meetings                                            |
+| paid social             | Channel       | For campaigns that include paid social                                              |
+| paid search             | Channel       | For campaigns that include paid search                                              |
+| display advertising     | Channel       | For campaigns that include paid display                                             |
+| sponsorships            | Channel       | For campaigns that include paid sponsorships                                        |
 
 ### GitLab Milestones
 
@@ -59,6 +65,7 @@ The [GitLab Digital Marketing team](https://about.gitlab.com/handbook/marketing/
 ### Email & Slack
 
 While GitLab & PMG communicate mainly through the GitLab Digital Advertising project, both teams also share a [Slack workspace](https://gitlab-pmg.slack.com/) to connect on quick questions & general updates.
+
 
 ## Digital Marketing Meetings
 
