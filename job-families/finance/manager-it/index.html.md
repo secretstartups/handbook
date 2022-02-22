@@ -7,7 +7,7 @@ title: "IT Management"
 
 ## Manager, IT
 
-The Manager, IT reports to the [Sr Director, IT Operations](https://about.gitlab.com/job-families/finance/director-it-operations/
+The Manager, IT reports to the [Sr Director, IT Operations](https://about.gitlab.com/job-families/finance/director-it-operations/). 
 
 ### Manager, IT Job Grade 
 
@@ -19,7 +19,6 @@ The Manager, IT is a [grade 8](/handbook/total-rewards/compensation/compensation
 * Embed an asynchronous, distributed philosophy in everything you do
 * Regularly give IT group conversations
 * Embed an asynchronous, distributed philosophy in everything you do
-
 
 #### Manager, IT Requirements
 
