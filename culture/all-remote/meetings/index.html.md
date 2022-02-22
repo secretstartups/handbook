@@ -155,7 +155,7 @@ A great example of several GitLab's [values](/handbook/values/) being used to ge
 
 ## How can I improve my remote meeting skills?
 
-[Lorraine Lee](linkedin.com/in/lorraineklee) has created [training on how to better your video and presentation skills](https://youtu.be/A5KtmrgVqr8) for an all-remote workspace. 
+[Lorraine Lee](https://www.linkedin.com/in/lorraineklee/) has created [training on how to better your video and presentation skills](https://youtu.be/A5KtmrgVqr8) for an all-remote workspace. 
 
 Key points include:
 
