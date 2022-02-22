@@ -180,10 +180,10 @@ Exceptional community members may be able to participate, as well.
 | 2022-03-14 | 2022-03-18 | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer | [Hannah Sutor](https://gitlab.com/hsutor) - Senior Product Manager |
 | 2022-03-21 | 2022-03-25 | [Adam Vesey](https://gitlab.com/avesey) - Sr. Legal Counsel  | [Miles Russell](https://gitlab.com/mdrussell) - Senior Analytics Engineer |
 | 2022-03-28 | 2022-04-01 | AVAILABLE - REMOTE | [Adam Vesey](https://gitlab.com/avesey) - Sr. Legal Counsel |
-| 2022-04-04 | 2022-04-08 | E-GROUP OFFSITE - HOLD | E-GROUP OFFSITE - HOLD|
+| 2022-04-04 | 2022-04-08 | E-GROUP OFFSITE - NO SHADOWS | E-GROUP OFFSITE - NO SHADOWS |
 | 2022-04-11 | 2022-04-15 | [Nikki Roth Silverberg](https://gitlab.com/nikkiroth) - Sr. Marketing Operations Manager  | AVAILABLE - REMOTE |
-| 2022-04-18 | 2022-04-22 | AVAILABLE - REMOTE | [Nikki Roth Silverberg](https://gitlab.com/nikkiroth) - Sr. Marketing Operations Manager |
-| 2022-04-25 | 2022-04-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-04-18 | 2022-04-22 | [David Egan](https://gitlab.com/degan) - Sr. Marketing Data Analyst| [Nikki Roth Silverberg](https://gitlab.com/nikkiroth) - Sr. Marketing Operations Manager |
+| 2022-04-25 | 2022-04-29 | AVAILABLE - REMOTE | [David Egan](https://gitlab.com/degan)- Sr. Marketing Data Analyst |
 | 2022-05-02 | 2022-05-06 | [Bronwyn Barnett](https://gitlab.com/BronwynBarnett) | AVAILABLE - REMOTE |
 | 2022-05-09 | 2022-05-13 | AVAILABLE - REMOTE | [Bronwyn Barnett](https://gitlab.com/BronwynBarnett) |
 | 2022-05-16 | 2022-05-20 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
