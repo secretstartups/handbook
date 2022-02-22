@@ -26,8 +26,9 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 1. Paste the code you copied from `main.go` at the beginning of line 1 of the new file.
 1. In the **Commit message** field, type `add main.go file`, leave the **Target Branch** set to `main`, and click **Commit changes**.
 1. In the left-hand navigation pane, click **CI/CD > Pipelines** and click the status icon for the most recent pipeline run to see the status of its jobs.
-1. When the `build app` job finishes, click it to review the job's output in a web terminal. *Note: if the job fails with a message about being unable to find `go.mod`, retry the job until it passes. This is an intermittent Go build bug.*
-1. In the **Job artifacts** panel on the right of the page, click **Browse** and notice that the `app` artifact created by the **build app** pipeline job is available for download. 
+1. When the `build app` job finishes, click it to review the job's output in a web terminal. 
+> If the job fails with a message about being unable to find `go.mod`, retry the job until it passes. This is an intermittent Go build bug.
+10. In the **Job artifacts** panel on the right of the page, click **Browse** and notice that the `app` artifact created by the **build app** pipeline job is available for download. 
 
 ## Suggestions?
 
