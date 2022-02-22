@@ -49,14 +49,58 @@ application.
 
 ## Strategy
 
-The Scalability team significantly contributes to [the Infrastructure department direction for FY22](/handbook/engineering/infrastructure/index.html#fy22-direction) in the following ways:
+The Scalability Team aligns with the [Platforms Department direction for FY23](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/#fy23-direction).
 
-1. [Performance](/handbook/engineering/infrastructure/index.html#1-best-of-class-performance)
-  * By the end of Q2FY22: [Define a service maturity model](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/382) (as a means to get better at [predicting scaling bottlenecks](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/296)). Generate at least one project as an outcome of the model.
-1. [Reliability](/handbook/engineering/infrastructure/index.html#3-make-reliability-the-platform-strength)
-  * By the end of FY22: Scalability is recognized as a strategic team that contributes to GitLab.com in a proactive way.
-1. [External contributions](/handbook/engineering/infrastructure/index.html#5-generate-contributions-external-to-the-department)
-  * By the end of Q2FY22: Enable Stage teams to contribute to the Stage Group dashboards. Stage teams must be able to make their own customizations with little input from the Scalability team.
+### 1. Achieve 50% growth year-on-year in engagement surveys results compared to FY22
+
+At the department level, the goal is to ensure that existing team members are happy while at the same time making sure that new new team members are hired and get the support they need. 
+
+Initiatives towards this goal:
+- [Effective transition to two Scalability Teams](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1580)
+- [Mature our interviewing capabilities](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/676)
+
+Further ideas:
+- Develop a metric to highlight the success of the teams
+
+### 2. Prepare self-servicing for stage group teams to enable end-to-end development
+
+At the department level, the goal is to help stage groups manage the lifecycle of their features. 
+
+Our contribution to this goal is to further enhance and improve Error Budgets. For example:
+- [Alert teams to unusually high bursts of error budget spending](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/614)
+- [Encourage adoption of custom durations for SLO's that are more aligned with an acceptable user experience](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1451)
+- Increase the number of components that are covered in the Error Budget (GraphQL, [Sidekiq](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1313), [Gitaly gRPC](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1450), [Endpoint error rates](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/803), CustomersDot)
+
+We have successfully enabled stage groups to take ownership of their features on GitLab.com. In FY23 we can extend this
+ownership further and see if we can encourage more involvement in both the Delivery and Reliability aspects of their 
+feature categories. 
+
+We also need to support self-servicing for system components with no clear owner. This may mean closer attention on
+items such as application level rate limiting and object storage. 
+
+Other ideas:
+- Readiness of new feature categories for production-level scale
+
+### 3. Increase use and accuracy of Platform team metrics, and feed them into enablement processes
+
+At the department level, the goal is to improve both the metrics we use to guide ourselves, as well as how to use metrics to guide others. 
+
+Ideas:
+- Solidify the process surrounding Tamland and it's use in Capacity Planning
+- Consolidate the interaction points between Platforms and the Development Department
+
+### 4. Increase GitLab.com resilience to planned and unplanned growth, while keeping the cost of running the platform in check
+
+At the department level, we want to ensure that we continue to focus on scaling.
+
+We support this by continuing to work on the scaling initiatives that we have, and look for the new challenges we will face 
+as we continue to grow. 
+
+Ideas:
+- Redis in Kubernetes
+- Sidekiq Zonal Clusters
+- Application-level rate limiting
+- Object storage growth
 
 ## Indicators
 
