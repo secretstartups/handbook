@@ -115,78 +115,78 @@ If you have problems with permissions, firewalls, etc. while trying to install a
 ### Register a specific GitLab Runner dedicated to your project
 
 1. In your **CICD Demo** project, in the left navigation pane, click **Settings > CI/CD**.
-2. Scroll down to the **Runners** section. Click the **Expand** button next to that section.
-3. Within the **Specific runners** section, navigate to **Set up a specific runner manually**.
-4. Copy the URL in step 2, labeled **Register the runner with this URL**.
-5. Run the appropriate command(s) for your OS:
+1. Scroll down to the **Runners** section. Click the **Expand** button next to that section.
+1. Within the **Specific runners** section, navigate to **Set up a specific runner manually**.
+1. Copy the URL in step 2, labeled **Register the runner with this URL**.
+1. Run the appropriate command(s) for your OS:
     * In a **Linux** terminal:
 
-        ```
-      sudo gitlab-runner register
+        ```sh
+        sudo gitlab-runner register
         ```
    * In a **macOS** terminal:
 
-       ```
-     gitlab-runner register
+       ```sh
+       gitlab-runner register
        ```
     * In a normal (not elevated) **Windows** PowerShell window:
 
-        ```
-      cd C:\GitLab-Runner
-      ./gitlab-runner.exe register
-        ```
-6. When prompted, paste the URL you just copied.
-7. Back on the GitLab page you were just on, copy the **registration token** from the same section as the URL you copied.
-8. In the terminal, paste the registration token when prompted.
-9. When prompted for the runner’s description, press `enter` to accept the default.
-10. When prompted for the runner’s tags, press `enter` to assign it no tags.
-11. When prompted for the executor, enter `shell`
-12. Confirm that your gitlab-runner registered correctly by running the appropriate command(s) for your OS:
+       ```powershell
+       cd C:\GitLab-Runner
+       ./gitlab-runner.exe register
+       ```
+1. When prompted, paste the URL you just copied.
+1. Back on the GitLab page you were just on, copy the **registration token** from the same section as the URL you copied.
+1. In the terminal, paste the registration token when prompted.
+1. When prompted for the runner’s description, press `enter` to accept the default.
+1. When prompted for the runner’s tags, press `enter` to assign it no tags.
+1. When prompted for the executor, enter `shell`
+1. Confirm that your gitlab-runner registered correctly by running the appropriate command(s) for your OS:
     * In a **Linux** terminal:
 
-       ```
-     sudo gitlab-runner list
+       ```sh
+       sudo gitlab-runner list
        ```
      
     * In a **macOS** terminal:
 
-       ```
-     gitlab-runner list
+       ```sh
+       gitlab-runner list
        ```
      
      * In a normal (not elevated) **Windows** PowerShell window:
 
-        ```
-      cd C:\GitLab-Runner
-      ./gitlab-runner.exe list
+        ```powershell
+        cd C:\GitLab-Runner
+        ./gitlab-runner.exe list
         ```
     
-13. If you’re on Windows, follow these additional instructions to configure your gitlab-runner to use the right command to start PowerShell:
+1. If you’re on Windows, follow these additional instructions to configure your gitlab-runner to use the right command to start PowerShell:
     1. Open `C:\GitLab-Runner\config.toml` in a text editor.
     2. Change this line:
 
-        ```
-       shell = "pwsh"
+        ```toml
+        shell = "pwsh"
         ```
        
        to this:
     
-        ```
-       shell = "powershell"
+        ```toml
+        shell = "powershell"
         ```
     3. Save the file.
 
 
 ### Add a `.gitlab-ci.yml` file 
 
-2. In the GitLab webpage, go to the left navigation pane and click **Project overview**.
-3. Add a new file to the project’s repository by finding the **+** dropdown that’s next to the **project slug that’s beneath the project title** (*not* the **+** in the black navigation bar) and clicking: **+ > This directory > New file**.
-4. In the **File name** field, enter `.gitlab-ci.yml`
-5. Select `.gitlab-ci.yml` for template type and apply the `Bash` template. This will pre-populate the file. 
-6. To create a minimal `.gitlab-ci.yml` file:
+1. In the GitLab webpage, go to the left navigation pane and click **Project overview**.
+1. Add a new file to the project’s repository by finding the **+** dropdown that’s next to the **project slug that’s beneath the project title** (*not* the **+** in the black navigation bar) and clicking: **+ > This directory > New file**.
+1. In the **File name** field, enter `.gitlab-ci.yml`
+1. Select `.gitlab-ci.yml` for template type and apply the `Bash` template. This will pre-populate the file. 
+1. To create a minimal `.gitlab-ci.yml` file:
    * Delete all lines above `build1` (that is, delete lines 1-15).
    * Delete all lines below `echo "For example run a test suite"` in the `test1` section.
-7. Add `build` and `test` stages by pasting these lines at the top of the file. *Tip: watch the spacing before and after the hyphens!*
+1. Add `build` and `test` stages by pasting these lines at the top of the file. *Tip: watch the spacing before and after the hyphens!*
 
    ```yml
    stages:
@@ -194,7 +194,7 @@ If you have problems with permissions, firewalls, etc. while trying to install a
      - test
    ```
    
-8. Click **Commit changes**.
+1. Click **Commit changes**.
 
 
 ### View a pipeline’s status, stages, jobs, and gitlab-runner
