@@ -53,6 +53,10 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 
 SAFE Data in Google Sheets files can be accessed using the instructions for [Accessing a SAFE Dashboard](/handbook/business-technology/data-team/platform/safe-data/#accessing-a-safe-dashboard). Please follow those instructions to gain access to SAFE Data in Google Sheets. 
 
+##### Deprovisioning SAFE Dashboard access
+
+Every 90 days the Data Team runs a [Data Health and Security Audit](/handbook/business-technology/data-team/data-management/). In this audit the Data Team also checks for inactive usage. In case a GitLab Team Member hasn't used the SAFE Dashboard space for more than 90 days, access will be deprovisioned. To get access again to the SAFE Dashboard space, a new AR needs to be created and all approvals need to be obtained again. 
+
 #### Accessing a SAFE Intermediate Dashboard
 
 - The **SAFE Intermediate Dashboard** space houses dashboards that do NOT expose Material Non-Public Information (MNPI); however, they are built using restricted data models that contain sensitive financial data. Having VIEW only access to the space will NOT result in a team member being added to the designated insiders list by being included in the space. However, a team member could still be added to the designated insiders list for having access to sensitive information in other applications outside of Sisense. Having the EDITORS role in the **SAFE Intermediate Dashboard** space WILL result in the team member being added to the designated insiders list. This is because EDITORS in the Space will have access to all of the sensitive data in the restricted schemas in the space. Team members should check to see if the dashboard they require VIEW only access is available in the **SAFE Intermediate Dashboard** space so they can avoid be adding to the **SAFE Dashboard** space and thereby being added to the designated insiders list. A complete list of Dashboards, including SAFE and SAFE Intermediate Dashboards, is available in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index).
