@@ -179,7 +179,7 @@ This will vary from team to team, but typically 6 weeks to 3 months depending on
 First step is to discuss this with your manager at your next 1:1. Come prepared with your proposal highlighting what skills you want to learn/enhance and the amount of time you think you will need. Remember, this should be of benefit to you and GitLab. You and your manager will need to collaborate on how you both can make this happen which may also involve discussing it further with the manager of the team you may be looking to transfer to. All discussions will be done transparently with you. Be mindful though that the business needs may mean a move can't happen immediately.
 
 **How do I find a mentor?**
-On the [team page](/company/team), you can see who is willing to be a mentor by looking at the associated [expertise](/company/team/structure/#expert) on their entry.
+On the [team page](/company/team/), you can see who is willing to be a mentor by looking at the associated [expertise](/company/team/structure/#expert) on their entry.
 
 **Does completing an internship guarantee me a role on the team?**
 Completing an internship through this program does not guarantee an internal transfer. For example, there may not be enough
