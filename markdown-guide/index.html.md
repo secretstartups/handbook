@@ -2193,6 +2193,8 @@ approximation, which gives you a good idea on what you're doing while you type.
 [StackEdit] is awesome too, you can work on a markdown file even if you're away from your computer,
 or out of resources. It works from every major browser and automatically saves your work to Google Drive.
 
+Other [useful Makrdown tools](../tools-and-tips/other-apps/index.html.md#working-with-markdown) are also available.
+
 ----
 
 ## Complementary Notes
