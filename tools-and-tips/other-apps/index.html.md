@@ -124,7 +124,7 @@ with a LanguageTool server [run locally with Docker](https://github.com/language
 This ensures that spell and grammar checking remains both convenient and confidential:
 
 1. Install the [LanguageTool browser extension](https://www.languagetool.org/#firefox_chrome).
-1. Install Docker Desktop and open it.
+1. Install [docker engine](/handbook/tools-and-tips/mac/#docker-desktop)
 1. Follow the setup instructions at [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool).
 1. Configure the browser extension under `Experimental settings > Local server`.
 
