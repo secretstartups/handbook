@@ -189,8 +189,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-05-16 | 2022-05-20 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-05-23 | 2022-05-27 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-05-30 | 2022-06-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-06-06 | 2022-06-10 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-06-13 | 2022-06-17 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-06-06 | 2022-06-10 | [Vic Brew](https://gitlab.com/vbrew) Inside Sales Representative | AVAILABLE - REMOTE |
+| 2022-06-13 | 2022-06-17 | AVAILABLE - REMOTE | [Vic Brew](https://gitlab.com/vbrew) Inside Sales Representative |
 | 2022-06-20 | 2022-06-24 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-06-27 | 2022-07-01 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
