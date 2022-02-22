@@ -766,7 +766,7 @@ Occasionally, food trucks or restaurants have loyalty rewards cards. It is **not
 We have six monitors at Mission Control. They show the following content:
 
 |:---:|:---:|
-| **Top Left** | [Team](/company/team) |
+| **Top Left** | [Team](/company/team/) |
 | **Top Middle** | [Category Maturity](/direction/maturity/) |
 | **Top Right** | [Is it any good?](/is-it-any-good/#gitlab-has-yoy-growth-in-adoption-of-version-control-services-study-while-github-and-bitbucket-both-decline) |
 
