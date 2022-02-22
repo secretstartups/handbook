@@ -342,6 +342,29 @@ The names of the warehouse are appended with their size (`analyst_xs` for extra 
 
 If you're running into query time limits consider using a larger warehouse.
 
+#### Warehouse Reporting size change
+
+Currently Sisense is using 2 users `PERISCOPE` & `SISENSE_RESTRICTED_SAFE`, both are using the warehouse `REPORTING`. This warehouse is running almost 24/7, making this the most expensive warehouse inside our Snowflake environment. To minimize the cost, we set the size of the warehouse to `MEDIUM` on peak hours (9.00AM UTC untill 9.00PM UTC on weekdays) and to `SMALL` on non peak hours (all other). Changing the size of the warehouse is done via a scheduled tasks in Snowflake.
+
+```sql
+CREATE TASK SIZE_DOWN_REPORTING_WAREHOUSE
+  WAREHOUSE = REPORTING
+  SCHEDULE = 'USING CRON 0 21 * * 1-5 UTC'
+  COMMENT = 'Task to size down the Reporting warehouse to SMALL'
+AS
+  ALTER WAREHOUSE REPORTING SET WAREHOUSE_SIZE = SMALL; 
+
+ALTER TASK SIZE_DOWN_REPORTING_WAREHOUSE RESUME;
+
+CREATE TASK SIZE_UP_REPORTING_WAREHOUSE
+  WAREHOUSE = REPORTING
+  SCHEDULE = 'USING CRON 0 9 * * 1-5 UTC'
+  COMMENT = 'Task to size up the Reporting warehouse to Medium'
+AS
+  ALTER WAREHOUSE REPORTING SET WAREHOUSE_SIZE = MEDIUM; 
+
+```
+
 ### Data Storage
 
 We use three primary databases: `raw`, `prep`, and `prod`.
