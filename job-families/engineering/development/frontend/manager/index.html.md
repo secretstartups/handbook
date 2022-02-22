@@ -64,7 +64,7 @@ Frontend Engineering Managers have the following job-family performance indicato
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Selected candidates will be invited to a 30 minute [screening call](/handbook/hiring/#screening-call) with our Technical Recruiters
 * Next, candidates will be invited to a 60 minute interview with the Hiring Manager.

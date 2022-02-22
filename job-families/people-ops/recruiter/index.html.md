@@ -270,7 +270,7 @@ Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is a
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with our Recruiting Manager
 - Then, candidates will be invited to schedule a 30 minute interview with one of our Recruiters

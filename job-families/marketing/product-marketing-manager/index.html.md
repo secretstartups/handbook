@@ -216,7 +216,7 @@ As a Product Marketing Manager, Market Insights, you will bring your market know
 The next step in a Senior Product Marketing Manager's career at GitLab is to be a [Manager, Product Marketing.](https://about.gitlab.com/job-families/marketing/product-marketing-management/).
 
 ## Hiring Process
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 * Candidates then may be offered a 45 minute interview with our Chief Marketing Officer

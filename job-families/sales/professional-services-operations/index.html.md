@@ -127,7 +127,7 @@ The next steps for the Professional Services Project Coordinator Job Family woul
 
 ## Hiring Process
 
-Candidates can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 - Qualified candidates for the Professional Services Project Manager will receive a short questionnaire.
 - Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with a member of our Recruiting team.

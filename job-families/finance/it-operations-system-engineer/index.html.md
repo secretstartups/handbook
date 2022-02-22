@@ -59,7 +59,7 @@ The IT Operations System Administrator is a [grade 6](/handbook/total-rewards/co
 * [Customer Satisfaction Survey (CSAT)](/handbook/business-ops/metrics/#customer-satisfaction-survey-csat)
 
 ## Hiring Process
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Next, candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 * Next, candidates will be invited to schedule a first interview with our Director of Business Operations
