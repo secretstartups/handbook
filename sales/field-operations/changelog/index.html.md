@@ -16,6 +16,10 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q1-FY23
 
+### 2022-02-22 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/91))
+
+**Sales Ops: [Chorus Privacy Control & Handbook Updates](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2683#note_820222936)**
+
 ### 2022-02-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/88))
 
 **Sales Ops/Sales Systems: [SFDC Win Alerts - Migrate Troops to Internal Flow/Code](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2032)** 
