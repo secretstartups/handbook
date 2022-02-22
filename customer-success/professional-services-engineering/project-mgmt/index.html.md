@@ -45,7 +45,8 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 6. Project Lead: Begins planning the project 
    - Internal PS project alignment meeting (includes Engagement Mgr, Project Coordinator, PSE)
    - [Project Preparation call](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) (PM, PSE and/or Technical Architect and customer Project Lead counterpart)
-   - Sales to PS hand-off meeting (PM to complete the hand-off issue in the customer Epic)
+   - Account team to PS transition meeting (PM to complete the issue template in the customer Epic)
+   - If a TAM is assigned, follow [these steps](https://about.gitlab.com/handbook/customer-success/tam/engaging-with-ps/) outlining the engagement guidelines, throughout the customer project
 
 #### Plan
 
