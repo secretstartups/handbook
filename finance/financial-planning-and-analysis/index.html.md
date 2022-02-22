@@ -532,7 +532,7 @@ The inputs loaded into Adaptive are then used to provide the CFO a weekly P&L sn
 
 ## Expense Controls and Improving Efficiency
 
-1. The primary mechanism to ensure efficient spend of company assets is the [Procure to Pay](/handbook/finance/procurement) process, and specifically completion of the [vendor and contract approval workflow](/handbook/finance/procurement/) prior to authorization. The procurement team or your finance business partner can assist with questions related to this process.
+1. The primary mechanism to ensure efficient spend of company assets is the [Procure to Pay](/handbook/finance/procurement/) process, and specifically completion of the [vendor and contract approval workflow](/handbook/finance/procurement/) prior to authorization. The procurement team or your finance business partner can assist with questions related to this process.
 
 1. The second mechanism is the budget vs actual review to determine reasons for variances vs plan.
 
