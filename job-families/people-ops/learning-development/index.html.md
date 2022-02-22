@@ -96,15 +96,15 @@ The Learning & Development Partner is a [grade 7](/handbook/total-rewards/compen
 - Passionate about personal development, training, learning, and seeing individuals develop to their fullest potential
 - Deep experience in assessing organizational needs and developing a variety of learning solutions to drive development and growth within the company
 
-## Learning & Development Manager 
+## Manager, Learning & Development 
 
-The Learning & Development Manager reports to the [VP, Talent Acquistion](/job-families/people-ops/talent-acquisition-leadership/).
+The Learning & Development Manager reports to the [Senior Manager, Learning & Development](/job-families/people-ops/talent-acquisition-leadership/).
 
-### Learning & Development Manager Job Grade
+### Job Grade
 
 The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Learning & Development Manager Responsibilities
+### Responsibilities
 
 - Extends the Senior Program Manager, Learning & Development responsibilities
 - Develop and lead the Learning and Development team while creating quality learning lessons and programs
@@ -122,7 +122,7 @@ The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compen
 - Identify current and future workforce requirements by working with GitLab leaders to understand what the workforce will need to do in the future to deliver on business objectives
 - Efficiently manage learning and development budgets 
 
-### Learning & Development Manager Requirements
+### Requirements
 
 - Extends the L&D Senior Program Manager requirements
 - 7+ years of work experience in the areas of training delivery, instructional design, learning technology, and people management 
@@ -134,6 +134,34 @@ The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compen
 - Demonstrated analytical problem solving with an ability to manage through ambiguity
 - Experience designing and delivering self-service learning content and building a learning infrastructure 
 - Comprehensive knowledge and proven experience with learner-centered, performance based instructional theories and adult learning principles
+- Demonstrated excellence in written and verbal communication, organizational skills, and project management
+- Experience in influencing senior leaders/stakeholders at the director and above levels
+
+## Senior Manager, Learning & Development 
+
+The Senior Manager, Learning & Development reports to the [VP, Talent Acquistion](/job-families/people-ops/talent-acquisition-leadership/).
+
+### Job Grade
+
+The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Responsibilities
+
+- Extends the Manager, Learning & Development responsibilities
+- Lead the Learning and Development team of individual contributors and managers while creating quality learning lessons and programs
+- Develop the long term strategy of GitLab's Learning Development programs & learning paths for individual contributors, managers, aspiring managers, and executive leadership
+- Assess current and future business needs to develop a compelling and prioritized roadmap of L&D deliverables that accelerate team members' results
+- Introduce new learning vehicles that reinforce a personalized learning infrastructure that includes curated content, customized content, and eLearning modules
+- Apply adult learning theory best practices and the latest learning trends into GitLab that are handbook first
+
+### Requirements
+
+- Extends the Manager, Learning & Development requirements
+- 9+ years of work experience in the areas of training delivery, instructional design, learning technology, and people management 
+- Ability to seamlessly bridge across technical and non-technical groups to achieve an aligned outcome
+- Self-organized with the ability to think strategically about learning design, business needs, strategic priorities, employee development, and employee engagement
+- Experience collaborating across divisions to deliver global solutions at a company level
+- Experience managing a team and potentially managing managers 
 - Demonstrated excellence in written and verbal communication, organizational skills, and project management
 - Experience in influencing senior leaders/stakeholders at the director and above levels
 
