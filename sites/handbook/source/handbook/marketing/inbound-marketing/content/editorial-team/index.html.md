@@ -13,11 +13,11 @@ description: "This handbook page describes the strategy and processes of the Edi
 
 ## What this page is for
 
-This part of the handbook is for the blog editorial team. If this isn't you, you may find what you are looking for in the [blog handbook](/handbook/marketing/blog), which covers the process for opening an issue and merge request for your blog post, as well as getting reviewed and published.
+This part of the handbook is for the blog editorial team. If this isn't you, you may find what you are looking for in the [blog handbook](/handbook/marketing/blog/), which covers the process for opening an issue and merge request for your blog post, as well as getting reviewed and published.
 
 ## Other related pages
 
-- [Blog handbook](/handbook/marketing/blog)
+- [Blog handbook](/handbook/marketing/blog/)
 - [GitLab Unfiltered blog handbook](/handbook/marketing/blog/unfiltered/)
 - [Brand personality](/handbook/marketing/corporate-marketing/#brand-personality)
 and [tone of voice guidelines](/handbook/marketing/corporate-marketing/#tone-of-voice)
@@ -898,7 +898,7 @@ If a pipeline fails when you try to merge something, it is usually not something
 
 ## MR buddies
 
-If you run into issues with your MR, pipeline, or terminal, it's usually quickest to ask for help in the #mr-buddies, #git-help, or #questions channel on Slack (be sure to include a link to your MR!). If you don't get an answer that way, you can reach out to a [Merge Request Buddy](/handbook/people-group/general-onboarding/mr-buddies/). The following team members have volunteered to be called on for assistance. You can also search for "Merge Request Buddy" on the [team page](/company/team).
+If you run into issues with your MR, pipeline, or terminal, it's usually quickest to ask for help in the #mr-buddies, #git-help, or #questions channel on Slack (be sure to include a link to your MR!). If you don't get an answer that way, you can reach out to a [Merge Request Buddy](/handbook/people-group/general-onboarding/mr-buddies/). The following team members have volunteered to be called on for assistance. You can also search for "Merge Request Buddy" on the [team page](/company/team/).
 
 - Abubakar Siddiq Ango
 - Axil Pipinellis

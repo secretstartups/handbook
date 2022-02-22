@@ -19,7 +19,7 @@ Global Content is part of the [Corporate Marketing department](https://about.git
 
 - [Content Marketing](/handbook/marketing/inbound-marketing/content/content-marketing/)
 - [Digital Production](/handbook/marketing/inbound-marketing/content/digital-production/)
-- [Editorial](/handbook/marketing/inbound-marketing/content/editorial-team)
+- [Editorial](/handbook/marketing/inbound-marketing/content/editorial-team/)
 - [Search Marketing](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/)
 
 ## Slack Channels
@@ -30,7 +30,7 @@ Global Content is part of the [Corporate Marketing department](https://about.git
 
 ## Quick links
 
-- [GitLab blog handbook](/handbook/marketing/blog)
+- [GitLab blog handbook](/handbook/marketing/blog/)
 - [Gated content process](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/)
 
 ## Editorial calendar
