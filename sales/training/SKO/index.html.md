@@ -17,9 +17,9 @@ This event sets the tone for the GitLab field organization for the new fiscal ye
 1.  **Enable**: Ensure every field team member returns home with a clear understanding of what’s needed to plan and execute their business for the new fiscal year (based on functional enablement priorities from senior leadership) 
 
 # Sales Kickoff 2022
-GitLab SKO 2022 will take place from February 7-11, 2022 in National Harbor, MD USA at the [Gaylord National Resort & Convention Center](https://www.marriott.com/en-us/hotels/wasgn-gaylord-national-resort-and-convention-center/overview/) (just under 10 miles south of Washington, DC).
+GitLab SKO 2022 will take place virtually from March 15-17, 2022. The virtual event will consist of three half-days offered in two time zone options to accommodate our team members around the world. 
 
-This page will be updated as additional details are confirmed.
+To learn more about the event, see the [Field Team FAQ document](https://docs.google.com/document/d/1OTRQjtWs-8sAnZG_ITQwNn0B2bZ6ed6sqhDEWKlimqE/edit#). 
 
 ----
 
