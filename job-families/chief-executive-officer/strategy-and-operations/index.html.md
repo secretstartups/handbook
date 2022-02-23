@@ -50,14 +50,14 @@ The Principal Strategy and Operations is a [grade 9](/handbook/total-rewards/com
 
 #### Principal Strategy and Operations Responsibilities
 
-* Extends that of the Staff Strategy and Operations responsibilities
+- Extends that of the Staff Strategy and Operations responsibilities
 - Collaborate cross-functionally with counterparts throughout the business 
 - Identify opportunities to improve business efficiency and make changes to improve the business
 - Translate practical needs into technical and/or business requirements
 
 #### Principal Strategy and Operations Requirements
 
-* Extends that of the Staff Strategy and Operations requirements
+- Extends that of the Staff Strategy and Operations requirements
 - Track record of success as an individual contributor or manager
 - Ability to work collaboratively and drive results with junior and senior team members
 - Strategic or operational work experience, preferably both
@@ -102,7 +102,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 
 ##### Strategy and Operations (Data)
 
-* Extends that of the Staff or Principal level Strategy and Operations 
+- Extends that of the Staff or Principal level Strategy and Operations 
 - Experience stepping into a new data source and preparing new analyses
 - A familiarity with proxy metrics where actual measurements aren’t available
 - Ability to guide conversations related to strategic choices of performance indicators
@@ -110,7 +110,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 
 ##### Strategy and Operations (Operations)
 
-* Extends that of the Staff or Principal level Strategy and Operations 
+- Extends that of the Staff or Principal level Strategy and Operations 
 - Experience leading ongoing projects and initiatives
 - Proven ability to manage cross-functional projects with folks at different levels of the business
 - Track record of moving key initiatives from idea to delivery
@@ -120,7 +120,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 
 ##### Strategy and Operations (Technical)
 
-* Extends that of the Staff or Principal level Strategy and Operations 
+- Extends that of the Staff or Principal level Strategy and Operations 
 - Deeply understands and is able to synthesize the market, competition, and upcoming solutions in the DevOps space 
 - Proven ability to manage cross-functional projects. Need to not only excel in operating at a strategic level but also need to understand when to dive deep to keep the project on track 
 - Readiness to partner directly with the CEO, CoST to the CEO, or other senior leaders on high priority initiaties
@@ -130,7 +130,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 
 ##### Strategic Technical Partnership Manager for JiHu 
 
-* Extends that of the Staff, Principal, or Director level Strategy and Operations
+- Extends that of the Staff, Principal, or Director level Strategy and Operations
 - Is GitLab's key point of contact with [JiHu](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/), an indepedent company in China that is licensed to sell GitLab software 
 - Has experience with B2B and startup tech businesses in China
 - Has a proven ability to manage strategic business alliances and support external groups while coordinating with the internal team, including finance, sales, legal, technical and other team members
