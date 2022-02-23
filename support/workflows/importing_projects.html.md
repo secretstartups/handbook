@@ -98,10 +98,10 @@ Note that lead time is required for the access request and possibly to find an e
 1. If the account is not provisioned within a couple of days before the scheduled date,
 tag `@it-ops-team` in the [#it_help](https://gitlab.slack.com/archives/CK4EQH50E) Slack channel with a link to the request to ensure quick provisioning as soon as you receive a manager's approval.
 
-In the access request, enter the following in the **Person Details** section, replacing `group` in `group-import` with the name of the group.
+In the access request, enter the following in the **Person Details** section, replacing `group` in `group-import` with the top-level group path:
 
 ```plain
-- Admin user access for customer import for Infra's use with username: `group-import-admin`
+- Admin user customer import with username: `group-import-admin`
 - Set email to: `group-import-admin@gitlab.com`
 - Ticket: <TICKET LINK>
 - Import request: <ISSUE LINK>
@@ -109,12 +109,13 @@ In the access request, enter the following in the **Person Details** section, re
 **Note:** This is part of the [project import process](https://about.gitlab.com/handbook/support/workflows/importing_projects.html) for customers.
 ```
 
-Then, enter the following for the **Access Request** section:
+Then, enter the following for the **Access Request** section, replacing `group` with the top-level group path:
 
 ```plain
-- [ ] GitLab PRD | Role: `admin` | Please create, confirm, and enable 2FA for this user.
+- [ ] GitLab.com | Type: `admin` | Please create, confirm, and enable 2FA for this user.
     - [ ] Confirm user
     - [ ] Enable 2FA
+    - [ ] Add user as `Owner` in `group`
     - Justification: customer import following [project import process](https://about.gitlab.com/handbook/support/workflows/importing_projects.html)
 ```
 
