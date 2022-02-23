@@ -471,6 +471,7 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 - [Eirini Pan Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=eirinipan)
 - [Indre Kryzeviciene Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=ikryzeviciene)
 - [Luis Deigo D'Ambrosio Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=dambrold)
+- [Shari Rances Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?assignee_username=srances&milestone_title=%23started)
 - [Jackie Gragnola Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=jgragnola)
 
 ##### Board View by Milestone
@@ -480,6 +481,7 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 - [Eirini Pan by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=eirinipan)
 - [Indre Kryzeviciene by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=ikryzeviciene)
 - [Luis Deigo D'Ambrosio by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=dambrold)
+- [Shari Rances by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=srances)
 - [Jackie Gragnola by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=jgragnola)
 
 ##### Board View Current Mile by Team Members
@@ -497,6 +499,7 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 - [Eirini Pan Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=eirinipan)
 - [Indre Kryzeviciene Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=ikryzeviciene)
 - [Luis Deigo D'Ambrosio Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=dambrold)
+- [Shari Rances Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=srances)
 - [Jackie Gragnola Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=jgragnola)
 
 ##### Issues by Status
