@@ -109,14 +109,6 @@ All content should have a distribution strategy. It's generally better to have f
    
 1. Can this content be pitched to media outlets? GitLab's [Corporate Communications team](/handbook/marketing/corporate-marketing/corporate-communications/) (via `external-comms` Slack channel) can provide guidance on if a piece of content is suitable for pitching, or inclusion as part of a broader pitch campaign.
 
-## FY21-22 Direction
-
-Our FY21-22 direction focuses on building inbound organic search traffic and getting traffic into a funnel. We need to improve our search rankings for key search terms related to our use cases and optimize those pages for conversion. We will do this by:
-
-1. **Creating a "content hub" for all content related to a specific topic on the topic page.** Instead of topic tags on our blog linking to a list of blog posts, they will link to the topic page where users can find contextual information on the topic, evergreen web articles, related blogs, resources, and enter into a Path Factory track.
-1. **A single gated content offer per persona per topic.** We will audit existing gated content for targeting and quality and may combine or choose to retire old assets in favor of a new one. This will allow us to ensure that the asset is quality enough to warrant gating and give a single asset to track success and make improvements on.
-1. **Optimize the Path Factory track experience.** We will audit each track and retire, update, create, or add missing assets. The goal is a more curated, targeted experience that gets them to MQL quicker.
-
 ### Blog
 
 The Editorial team's [goals are to grow our blog audience, engage readers, and covert readers into subscribers](/handbook/marketing/inbound-marketing/content/editorial-team/#goal-grow-our-audience-engage-readers-and-convert-readers-into-subscribers). To achieve this our strategy is guided by our existing audience's needs and wants; prioritizing useful, educational, informative, and entertaining content that has value beyond promoting GitLab.
