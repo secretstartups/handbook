@@ -68,9 +68,10 @@ Other teams leverage Google Slides for their meetings.
 Some teams leverage Sisense's existing automation functionality to prepare Google Slides with automated charts. 
 
 Content to cover in each Key Review:
-1. Review of 3-5 Business Drivers (65% of review time)
-  A.) Review action items in prior month: results, learnings; 
-  B.) Review actions being taken now, expected impact, measurement plan
+1. Review of 3-5 Discussion Topics. (65% of review time)
+  A.) We often share a lot of details within Key Review decks. The Discussion Topic section should clearly identify and elevate a 3-5 key items that warrant greater leadership awareness and attention. These could include progress on key contributors success contributors, an update on areas of urgent concern, or other topics which are valuable to surface to a broader group for awareness & collaboration.
+  B.) Review action items in prior month: results, learnings; 
+  C.) Review actions being taken now, expected impact, measurement plan
 1. Cross-functional Intiatives Update (15% of review time)
 1. OKR Stats (15% of review time)
 1. Key Metrics Update (5% of review time)
