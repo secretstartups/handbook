@@ -992,6 +992,55 @@ Please also note the corresponding [Engineering handbook section](/handbook/engi
 - **tracking the appropriate labels for each prioritization category**: Use a standing item to discuss these issues with an engineering manager and ensure you understand the impact of related issues in your area before planning a release.
 - **optimizing for quality once a merge request is ready for review**: This means ensuring that Engineering has sufficient time to meet our [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) - including a [high-quality code review](/handbook/engineering/workflow/code-review/) - without cutting corners to get something into production.
 
+#### Prioritization sessions
+
+To help PMs plan, [stage group stable counterparts](#pm-em-ux-and-set-quad-dris) can participate in prioritization sessions. They serve mainly as an [internal sensing mechanism](#internal) for PMs to make more informed prioritization decisions for different [planning horizons](#planning-horizons). Usually, teams focus on the _product releases_ horizon, but can also focus on the _FY themes_ or _strategy_ horizons. This group exercise also boosts team morale, improves communication and empathy, and broadens individual's perspectives. Besides, it can be a more informal and joyful way of connecting the team and discussing work.
+
+The output of these sessions is a [priority matrix](https://www.nngroup.com/articles/prioritization-matrices/) that shows the relative priority of a set of items based on two weighted criteria. Generally, the criteria are _importance_ and _feasibility_, each one visualized as an axis of the matrix. You can change the criteria depending on the planning horizon or goals. To better understand how the sessions work, see an example [mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1644233739498/018f4f87c17c9a8e7ecf1d8ce2834a72c4d8e34b) and [session recording](https://youtu.be/xgeXUEzOpUY).
+
+Always consider [asynchronous sessions](/handbook/values/#bias-towards-asynchronous-communication) first, in an effort to be more inclusive and respectful of others time. That said, if possible, synchronous sessions can be ideal, as they allow limiting the time spent and make great use of the activities' momentum for a more efficient discussion and voting.
+
+Use our [Mural template for prioritization sessions](https://app.mural.co/t/gitlab2474/template/1c2480fb-073f-45aa-a179-75a5e9a72740), built for product releases but adaptable for other planning horizons or criteria.
+
+<details markdown="1">
+<summary markdown="span">Process template</summary>
+
+Adapt this process as needed, and consider changing it to an asynchronous mode of communication. For example, participants can review the items async, add questions as [comments in Mural](https://support.mural.co/en/articles/2113811-add-comments-and-tag-collaborators), and vote using [dot voting](https://www.nngroup.com/articles/dot-voting/) or in [voting sessions](https://support.mural.co/en/articles/2113758-run-a-voting-session) held on different days for each criterion.
+
+1. Before:
+   1. The facilitator creates a mural from our [template for prioritization sessions](https://app.mural.co/t/gitlab2474/template/1c2480fb-073f-45aa-a179-75a5e9a72740), with the stage group and milestone in its name.
+   1. The facilitator invites the stage group counterparts for a 50-minute call, scheduled sometime before the team finalizes the release scope (see the [product development timeline](/handbook/engineering/workflow/#product-development-timeline)). Includes the URL of the mural and planning issue in the event description.
+   1. The facilitator shares the preparation work with the participants, preferably in the group's planning issue (see the template after this list and an [example](https://gitlab.com/gitlab-org/create-stage/-/issues/12980#note_834155059).
+   1. Participants do the preparation work (see the template after this list).
+1. During (see an [example session recording](https://youtu.be/xgeXUEzOpUY)):
+   1. The facilitator starts [recording the call](/handbook/tools-and-tips/zoom/#recording-in-zoom).
+   1. **Present**: For each participant, the facilitator [sets the timer](https://support.mural.co/en/articles/3029991-using-the-timer) for 10 minutes (adapt per the no. of participants). A participant then presents their issues, preferably using the [RICE framework](#using-the-rice-framework). Only after the participant presents all issues should other attendees ask questions. Once in a while, the facilitator announces how much time remains. When the timer goes off, repeat this for another participant.
+   1. **Vote**: After all participants have presented, the facilitator [runs two voting sessions](https://support.mural.co/en/articles/2113758-run-a-voting-session): first for _importance_, and then for _feasibility_. Each participant has 5 votes (adapt per the no. of issues). The facilitator sets the timer for 2 minutes, repeating for each voting session.
+   1. **Visualize**: [Review your voting session results](https://support.mural.co/en/articles/2113758-run-a-voting-session#h_7cb8e4f588) and everyone helps place the stickies on the matrix, depending on their number of votes for each criterion.
+   1. If there's still time, discuss the most-voted issues as a group.
+1. After:
+   1. The facilitator [uploads the recording to GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube), sets its visibility (see [SAFE framework](/handbook/legal/safe-framework/)), adds to relevant playlists, and includes the URL of the mural and planning issue in the description.
+   1. The facilitator shares the recording URL and voting results in the planning issue, preferably with a screenshot of the matrix and links to the highest voted issues (see an [example](https://gitlab.com/gitlab-org/create-stage/-/issues/12980#note_843540512).
+
+<details markdown="1">
+<summary markdown="span">Preparation work template</summary>
+
+```markdown
+## :map: Prioritization session
+
+`@-mention participants` for our [prioritization session](https://about.gitlab.com/handbook/product/product-processes/#prioritization-sessions), here's the [**Mural**](URL) for us to add the issues we want to see in **MILESTONE**. I scheduled our 50-minute session for **DATE**.
+
+1. Add your issues to the Mural before the call. Let's try to limit to **5 issues per person**, so it's easier to vote on them and keep things focused. You can find instructions on how to add them in the “Outline” panel on the right side of the Mural UI.
+1. Try not to add Security or Availability issues. This is also noted in the [product processes page](https://about.gitlab.com/handbook/product/product-processes/#prioritization), as those issues have forced prioritization with SLAs/SLOs.
+1. If you can, mark issues that appeared in previous sessions by changing their sticky color to **orange**.
+
+Thanks and see you soon :bow:
+```
+
+</details>
+
+</details>
+
 ### Using the RICE Framework
 
 [RICE](https://www.productplan.com/glossary/rice-scoring-model/) is a useful framework for prioritization that can help you stack rank your issues. The RICE framework is a great tool for prioritizing many issues that seem to be of equal value at first glance. In order to drive clarity and alignment in the prioritization of work across the entire DevOps platform, and to help prioritize items that may compete for resources from different teams, we have set a standard for the RICE factors so all prioritization decisions based on RICE are using the same metric.
