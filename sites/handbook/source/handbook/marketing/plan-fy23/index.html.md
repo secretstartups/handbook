@@ -12,106 +12,57 @@ twitter_creator: '@gitlab'
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Overview
+## FY23 Marketing GTM Overview
 {: #overview .gitlab-purple}
 
 <!-- DO NOT CHANGE ANCHOR -->
-The purpose of this handbook page is to align our marketing team on a single FY23 marketing plan. This page and the FY23 plan are intended to be an ongoing work-in-progress, contributed to by the entire team throughout FY23 to foster collaboration and focus.
+The purpose of this handbook page is to align our marketing team on a single FY23 marketing plan, and to communicate our FY23 approach to Sales and beyond. This page and the FY23 plan are intended to be an ongoing work-in-progress, contributed to by the entire team throughout the year to foster collaboration and focus.
 
-Everyone can contribute. See something you'd like to discuss or iterate on? Start an MR and tag @jgragnola, @lblanchard, @mnguyen4, and @coleengreco to assist with merging!
+Everyone can contribute. See something you'd like to discuss or iterate on? Start an MR and tag @fy23-gtm for review and to assist with merging!
 
-### Marketing Strategy:
+### Marketing Strategy
+{: #strategy}
 
-<!-- Adjust from FY22, here for reference -->
-- Create the DevOps Platform Category
-- Support sales in land and expand motion:
-   - Bottoms up driving awareness in Developer and Operations professional personas
-   - Tops down with purpose tops down marketing to owners of DevOps Tools, CTO, CIO, CISO, VP of Application Development
-   - Land and expand requires both bottoms up and tops down
+- Land: Bottoms up/tops down with developers/ops teams in Source Code Management and CI
+- Expand: tops down with VP+ focusing on complete platform value proposition (solutions, security, etc.)
 
-#### Marketing Pillars:
+To view source slide deck (Internal only), search your [Google Drive](https://drive.google.com/drive/my-drive) for `Marketing Strategy FY23`
 
-<!-- Adjust from FY22, here for reference -->
-1. Elevate our brand messaging and product positioning
-1. Increase Funnel Volume to drive Pipeline 
-1. Maintain team member delight through strong collaboration and prioritization 
+#### Marketing Objectives
+{: #objectives}
 
-### Goal of FY22 Marketing Plan:
-{: #goal}
+1. Build category leadership for the DevOps Platform
+1. Deliver first order pipeline (volume and LAM)
+1. Increase user engagement
+1. Increase team member community and sense of belonging
 
-<!-- Adjust from FY22, here for reference -->
-**Goals of FY23 Marketing Plan:**
-
-- Continue cross-team collaboration with the 3 GTM Motions
-- Build channel and alliance partners into our marketing motions
-- Help develop marketing team-members with training and mentoring
-
-**Major market themes:**
-
-- Define and win the DevOps Platform category
-- Gain CI marketshare
-- Build security into our motions as a key product differentiator
-- Continue driving the All-Remote work thought leadership
-
-**Timeline:** Ensure marketing alignment by end of February 2021
-
-**Audience:** Marketing
-
-- Note: alignment with sales, customer success, product, etc. is occurring, but the intended audience of this HB page is Marketing
-
-**Measure:** How do we confirm everyone is aligned?
-
-- [Trusted Data Sales Funnel Target vs. Actual](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual): Trials, MQLs, SAOs, Pipeline
-- [Marketing Key Review Dashboard](https://app.periscopedata.com/app/gitlab/775108/WIP:-Key-Monthly-Marketing-Metrics): Views, Traffic, etc.
-- [Demand Gen Dashboards for Campaign Metrics](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard)
-- [Linear Attribution Tables](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution)
-- [WIP: SDR Efficiency Metrics](https://app.periscopedata.com/app/gitlab/641469/SDR-Metrics)
-
-#### Overview Slides of FY22 Marketing Plan
-Internal only - search for `GTM Slides - w Data`
+To view Overview Slides (Internal only), search your [Google Drive](https://drive.google.com/drive/my-drive) for `Marketing Strategy FY23`.
 
 ### Sales and Marketing Alignment
 {: #sales-marketing-alignment}
 <!-- DO NOT CHANGE ANCHOR -->
 
-* Quarterly Epic to present a proposed set of sales plays to deliver across the 3 GTM Motions
-    - PMMs list their proposed sales plays along with expected delivery dates in the Epic 
-    - Sales Enablement (@dcsomers @tanuja) review the proposed delivery dates and add expected dates for enablement sessions. 
-    - Sales Leadership (@mpyle @ronell) review the proposed plays and approve or provide input/requests on changes. 
-    - If plans/priorities change they will be communicated at minimum via a comment in the issue/Epic as the SSoT. 
-* Once agreed between sales and marketing, add campaign and enablement dates to [calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493&fvid=1300837366) as the SSoT
+
 
 ### TOPO Marketing Model
 {: #topo}
 
-<!-- DO NOT CHANGE ANCHOR -->
-The TOPO Model is the agreed upon Finance/Sales/Marketing model that drives Marketing's goals for FY22, leveraging advisory services from [TOPO (now Gartner)](https://topohq.com/). In order to see the TOPO model please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `FY22_Mktg Model_TOPO_Machado - PLAN LOCKED`.
-
-On a monthly cadence, the **Marketing Key Review** will be used as the venue for tracking where we are year-to-date on the agreed upon plan.
+The TOPO Model is the agreed upon Finance/Sales/Marketing model that drives Marketing's goals for FY22, leveraging advisory services from [TOPO (now Gartner)](https://topohq.com/). In order to see the TOPO model please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `TBD when TOPO model finalized`.
 
 ### Marketing Budgets
 {: #budgets}
 
-<!-- DO NOT CHANGE ANCHOR -->
-All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page](/handbook/marketing/strategy-performance/allocadia/) for more details on the tool.
+All FY23 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page](/handbook/marketing/strategy-performance/allocadia/) for more details on the tool.
 
 ### Glossary of terminology
 {: #glossary}
 
-<!-- DO NOT CHANGE ANCHOR -->
-
-- <b>[GTM Motion](/handbook/marketing/plan-fy22#gtm-motions)</b>: a set of sales and marketing activities and asssets centered around a [use case solution](/handbook/marketing/strategic-marketing/usecase-gtm/).
-- <b>[GTM Motion Core Team](/handbook/marketing/plan-fy22#core-teams)</b>: a group of marketers as functional DRIs for specific GTM strategies, campaigns, and aligned Sales Plays
-- <b>[Theme](/handbook/marketing/plan-fy22#themes)</b>: time-bound "push" in marketing calendar (example: focus on Partner Showcase in a specific month)
-- <b>[Solution GTM Strategy](/handbook/marketing/plan-fy22#solution-gtm-strategy)</b>: a document that describes what problem the solution solves for customers, buyer personas, messaging, positioning, and relevant competitive points. This doc is used to inform content for the Sales Play (sales audience) and the GTM Motion campaign (marketing audience).
-- <b>[Sales Play](/handbook/marketing/plan-fy22#sales-plays)</b>: A repeatable set of steps a sales rep can take to drive revenue. The Sales Play document includes background information such as which company profiles and personas to target, messaging and positioning, and resources to utilize along with the specific steps to take. 
-- <b>[GTM Motion Campaign](/handbook/marketing/plan-fy22#gtm-motion-campaign)</b>: campaign briefing document used to communicate relevant info to internal and external marketing teams to generate demand for solutions (aka GTM Motions) (aligned to sales playbooks).
-- <b>[GTM 4x2](/handbook/marketing/plan-fy22#gtm-4x2)</b>: document used to ensure that sales and marketing are aligned on all aspects of the strategy for different market segments
-- <b>[Prescriptive Buyer Journey](/handbook/marketing/prescriptive-buyer-journeys/)</b>: content aligned to buyer journey stages, leveraged in email nurture, digital marketing, and more
-- <b>[Project Compass](/handbook/marketing/plan-fy22#project-compass)</b>:
-- <b>[LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)</b>: Landed Addressable Market; annual revenue opportunity of the entirety of GitLab's market within our current customer base
-- <b>[ICP](/handbook/marketing/revenue-marketing/account-based-strategy/ideal-customer-profile/)</b>: Ideal Customer Profile; description of our "perfect" customer company, taking into consideration firmographic, environmental and additional factors to develop our focus list of highest value accounts
-- **FIT Score**: a mathematical representation of how well a prospective customer fits within your ICP (ideal customer profile)
+- **[GTM Motion](/handbook/marketing/plan-fy22#gtm-motions)**: a set of sales and marketing activities and asssets centered around a [solution](/handbook/marketing/strategic-marketing/usecase-gtm/).
+- **[GTM Motion Core Team](/handbook/marketing/plan-fy23#core-teams)**: a group of marketers as functional DRIs for specific GTM strategies, campaigns, and aligned revenue plays
+- **[GTM Motion Campaign](/handbook/marketing/plan-fy22#gtm-motion-campaign)**: managed by Campaign Managers, these are global campaigns that are leveraged across marketing and sales to drive pipeline.
+* **[FAL (Focus Account List)](/handbook/marketing/account-based-marketing/focus-account-list)**: key accounts determined by sales that will be a focus for integrated ABM campaigns.
+- **[LAM]()**: Landed Addressable Market; annual revenue opportunity of the entirety of GitLab's market within our current customer base
+- **[ICP](/handbook/marketing/revenue-marketing/account-based-strategy/ideal-customer-profile/)**: Ideal Customer Profile; description of our "perfect" customer company, taking into consideration firmographic, environmental and additional factors to develop our focus list of highest value accounts
 
 ## GTM Motions
 {: #gtm-motions .gitlab-purple}
