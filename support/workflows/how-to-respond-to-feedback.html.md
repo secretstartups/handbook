@@ -26,17 +26,19 @@ created in the [Feedback issue tracker](https://gitlab.com/gitlab-com/support/fe
 
 ## Who is responsible for reviewing Support Satisfaction feedback
 
-The **SSAT Reviewing Manager** on duty when a feedback issue is created is
-responsible for reviewing the issue and responding as needed. Feedback issues
-[are assigned](/handbook/support/support-ops/responsibilities.html#support-satisfaction-survey-ssat)
-to the SSAT Reviewing Manager automatically. The manager receives email
-notification from GitLab and a To-Do item.
+The [SSAT Reviewing Manager PagerDuty schedule](https://gitlab.pagerduty.com/schedules#P9UIIDY) is the [SSOT](/handbook/values/#single-source-of-truth) for who is on-call. The [Support Week in Review document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit) identifies the current **SSAT Reviewing Manager**, with a link to the PagerDuty schedule.
 
-The [Support Week in Review document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit) identifies the current **SSAT Reviewing Manager**, with a link to the rotation in [PagerDuty](https://gitlab.pagerduty.com/schedules#P9UIIDY).
+The **SSAT Reviewing Manager** on duty when a feedback issue is created is responsible for reviewing the issue and responding as needed. Feedback issues
+[are assigned](/handbook/support/support-ops/responsibilities.html#support-satisfaction-survey-ssat) to the SSAT Reviewing Manager automatically. The manager receives email notification from GitLab and a To-Do item.
 
-**Please note:** Starting 2021-04-26 we are trialing an additional feedback form that allows our customers to provide comments not only when the ticket is marked as solved, but throughout the life of the ticket. The feedback will create issues in the customer feedback project with a subject format of **Positive/Negative/Neutral feedback for ticket nnnnnn** and will get automatically assigned to the **SSAT reviewing manager**. 
+### Sources of feedback
 
-If the feedback is negative, there is also an option to request manager contact (within 48hrs Mon-Fri). If this option is chosen, additionally to the feedback project issue opened for the feedback, a slack notification will show up in the `#support_escalations` channel. The **SSAT reviewing manager** should follow the [If there is action to be taken](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/support/workflows/how-to-respond-to-feedback.html.md#if-there-is-action-to-be-taken) and [If the customer should be contacted](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/support/workflows/how-to-respond-to-feedback.html.md#if-the-customer-should-be-contacted) guidance when handling these requests.
+Currently, the following methods create feedback issues for review:
+
+1. [Automatic email survey](/handbook/support/support-ops/responsibilities.html#support-satisfaction-survey-ssat) -- sent to customers when tickets are closed.
+1. Mid-ticket feedback link -- each Public Comment from a GitLab Support Engineer or Manager has a link to a form where a customer can provide feedback or request contact from a manager while the ticket is open (introduced in issue [2913](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2913)).
+   1. This feedback form creates issues in the customer feedback project, with a subject format of **Positive/Negative/Neutral feedback for ticket nnnnnn**, and is automatically assigned to the **SSAT reviewing manager**. 
+   1. If the feedback is negative, there is an option to request manager contact (within 48hrs Mon-Fri). If this option is chosen, a Slack notification is sent to the `#support_escalations` channel. The **SSAT reviewing manager** should follow the guidance in [If there is action to be taken](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/support/workflows/how-to-respond-to-feedback.html.md#if-there-is-action-to-be-taken) and [If the customer should be contacted](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/support/workflows/how-to-respond-to-feedback.html.md#if-the-customer-should-be-contacted).
 
 An issue requiring contact can also be identified by an 'SSAT::Contact' label and a field within the issue that specifies manager contact was requested. 
 
@@ -59,10 +61,14 @@ Currently there is no SLA for responding to Feedback Issues, but if you follow
 the process defined on this page, you should send an initial response to each
 issue within 7 days of its creation.
 
-## Handling "Good" Reviews
+## Workflows for reviewing feedback
+
+Our [Feedback and Complaints handbook page](https://about.gitlab.com/handbook/support/workflows/feedbacks_and_complaints.html) provides general guidance on assessing and responding to feedback.
+
+### Handling "Good" Reviews
 
 For each feedback issue labeled "satisfaction::good":
-1. read through the feedback and check for anything actionable - sometimes customers provide really good actionable feedback in positive reviews
+1. read through the feedback and check for anything **actionable** - sometimes customers provide really good actionable feedback in positive reviews
 1. consider sharing the feedback in the Support Week in Review document (see below)
 1. if no further action is needed, `/close` the Feedback Issue.
 
@@ -70,7 +76,7 @@ For each feedback issue labeled "satisfaction::good":
 
 **Note:** After 7 days of inactivity, the GitLab Support Bot closes "satisfaction::good" issues.
 
-### Sharing positive feedback in Support Week in Review (SWIR)
+#### Sharing positive feedback in Support Week in Review (SWIR)
 
 **Due Date**: the cut off for content for the SWIR is close of business on your Thursday. Plan to add any ticket feedback before this time. Anything you want to add after this time needs to be added to the content for the following week, to ensure it is included in the audio recording. 
 
@@ -80,7 +86,7 @@ When selecting feedback to share, you don't need to share every piece of positiv
 1. The customer has taken the time to name the individual(s) they appreciated
 1. The customer has described why they were satisfied or how our support improved their day (we get some great stories!)
 1. If there are general sentiments or themes, feel free to congratulate the whole team. For example, if we were praised for our overall approach to support, speed, clarity, etc. 
-1. Is the feedback definitely positive?  Sometimes comments in positive feedback can be neutral or even negative. For example "I would have liked a quicker response", or "I was satisfied" are valuable to us, but they don't really encourage the team when shared in the SWIR. 
+1. Is the feedback **definitely** positive?  Sometimes comments in positive feedback can be neutral or even negative. For example "I would have liked a quicker response", or "I was satisfied" are valuable to us, but they don't really encourage the team when shared in the SWIR. 
 
 #### Formatting feedback in SWIR document
 
@@ -88,9 +94,9 @@ When adding the comment to the [document](https://docs.google.com/document/d/1ey
 Include the ticket number with a link to the ticket, the comment from the customer, and where applicable @ mention the person (or people) who primarily worked the ticket. 
 
 
-## Handling "Bad" Reviews
+### Handling "Bad" Reviews
 
-For feedback issues labeled "satisfaction::bad", determine the following:
+For feedback issues labeled "satisfaction::bad", click through to the ticket, and review it to determine the following:
 
 1. Why the feedback was given
 1. If further [action needs to be taken](#if-there-is-action-to-be-taken)
@@ -110,8 +116,11 @@ ticket!):
 
 If no action needs to be taken, and the customer does not need to be contacted to discuss the ticket, `/close` the Feedback Issue.
 
+#### When you see "bad" feedback on an apparently successful ticket
 
-### Understanding the customer's reason
+Sometimes, when you review the ticket, you will see that the ticket seems to have been resolved successfully. The customer may have even said something like "thank you, you can close the ticket". We strongly encourage you to [contact the customer](#if-the-customer-should-be-contacted) when this happens. If the ticket is still in `Solved` (but not `Closed`) status, the customer can change their rating, if they did not mean to mark it "bad".
+
+#### Understanding the customer's reason
 
 Many customers do not provide a reason for the "bad" review they submit. Even if a
 reason is provided, it may not be clear why the customer was dissatisfied. The
@@ -147,7 +156,7 @@ This is important to help Support understand and respond to Support Satisfaction
 trends.
 
 
-### If there is action to be taken
+#### If there is action to be taken
 
 Determine the course of action and tag appropriate people. Note that [indirect feedback](https://about.gitlab.com/handbook/support/internal-support/#regarding-gitlab-support-plans-and-namespaces) received from a customer/prospect will typically have the next action chosen for us.
 
@@ -161,7 +170,7 @@ Examples of possible actions:
 If further discussion is warranted, leave the Feedback Issue open. Otherwise, `/close` it.
 
 
-### If the customer should be contacted
+#### If the customer should be contacted
 
 If you feel like the customer should be contacted:
 
