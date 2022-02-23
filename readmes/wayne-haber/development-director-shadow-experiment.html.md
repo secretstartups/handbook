@@ -30,7 +30,7 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 ### For the shadow
 
 * Mentoring
-* Learning opportunites
+* Learning opportunities
 * Career development exploration
 
 ### For the engineering director
@@ -106,5 +106,5 @@ No, not at this time.
 | 3/7/2022 | Open |
 | 3/14/2022 | Open |
 | 3/21/2022 | Open |
-| 3/28/2022 | Open |
+| 3/28/2022 | @rossfuhrman |
 
