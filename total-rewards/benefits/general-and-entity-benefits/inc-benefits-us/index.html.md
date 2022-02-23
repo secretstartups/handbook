@@ -78,8 +78,8 @@ If you already have current group medical coverage, you may choose to waive or o
  
 If you do not enroll in a plan within your benefits election period, you will automatically be enrolled in the High Deductible Health Plan (HDHP).
  
-GitLab has confirmed that our medical plans are CREDITABLE. Please see the attached [2021 notice](https://drive.google.com/file/d/1_w2svtOAP09lVKLWXsKzyLhZdlmB2ElZ/view?usp=sharing) and pg 7 of the [2022 Annual Notice](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing). If you or your dependents are Medicare eligible or are approaching Medicare eligibility, you will need this notice to confirm your status when enrolling for Medicare Part D. For more information about Medicare prescription drug coverage:
-- Visit www.medicare.gov
+GitLab has confirmed that our medical plans are CREDITABLE. Please see the attached [2021 notice](https://drive.google.com/file/d/1_w2svtOAP09lVKLWXsKzyLhZdlmB2ElZ/view?usp=sharing) and page 7 of the [2022 Annual Notice](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing). If you or your dependents are Medicare eligible or are approaching Medicare eligibility, you will need this notice to confirm your status when enrolling for Medicare Part D. For more information about Medicare prescription drug coverage:
+- Visit [www.medicare.gov](www.medicare.gov)
 - Call your State Health Insurance Assistance Program (see the [“Medicare & You” handbook](https://www.medicare.gov/medicare-and-you) for their telephone number) for personalized help.
 - Call 1-800-MEDICARE (1-800-633-4227). TTY users should call 1-877-486-2048.
  
@@ -103,7 +103,7 @@ A QLE is a change in your situation — like getting married, having a baby, etc
 1. Log into [PlanSource](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#logging-into-plansource)
 1. Select `Update your current Benefits`.
 1. Select the Life Event that applies to your situation from the list & enter the event date. 
-1. The system will ask you to review your personal details, update as necesary and select continue.  
+1. The system will ask you to review your personal details, update as necessary and select continue.  
 1. If your Life Event includes adding a new dependent, select `Add Dependent` and add their information. (For Birth Event: If you are still pending the SSN for your newborn, you may continue the request without this information and can add later when received.)  
 1. Click `Select Benefits` and the system will lead you to the Benefit plans you can update.
      - **If adding a dependent to the plan(s)**, scroll to the plan(s) you wish to add them on and select `View or Change Plan`. On the next page, select the specific plan you want to enroll in (if you wish to continue on your current plan, select that plan). On the specific plan page, add your new dependent by checking their name. Click `Update Cart`.
@@ -114,7 +114,7 @@ A QLE is a change in your situation — like getting married, having a baby, etc
 
 If your Qualifying Life Event requires documentation the steps below will follow your QLE request
 
-1. Following your QLE request, you will recieve an email from PlanSource requesting documentation for your Qualifying Life Event.
+1. Following your QLE request, you will receive an email from PlanSource requesting documentation for your Qualifying Life Event.
 1. Log into [PlanSource](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#logging-into-plansource). On your PlanSource Homepage, scroll down to "Your To-Do List". Select the Task requesting documentation for your life event.
 1. Upload the documentation in to PlanSource. 
 1. Once submitted the Total Rewards Team will review your request and documentation for approval. 
@@ -275,9 +275,9 @@ For in-network services: N/A.
  
 For out-of-network services: 365 days from Date of Service.
 
-##### Kaiser Inertility Services
+##### Kaiser Infertility Services
 
-Kaiser California and Colorado Members are covered for infertility services at 50% co-insurance. Coverage includes services for dagnosis and treatment of infertility. Coverage does not include conception by artifical means (IVF/GIFT/ZIFT/etc). Please check with the WTW Benefits Helpline `877-409-9288` or `GitLab@willistowerswatson.com` for more information. 
+Kaiser California and Colorado Members are covered for infertility services at 50% co-insurance. Coverage includes services for diagnosis and treatment of infertility. Coverage does not include conception by artificial means (IVF/GIFT/ZIFT/etc). Please check with the WTW Benefits Helpline `877-409-9288` or `GitLab@willistowerswatson.com` for more information. 
 
 Kaiser Hawaii Plan members are covered for an infertility consultation and certain In Vitro Fertilization (IVF) procedures. More information on the Infertility services for Hawaii Kaiser members can be found on the [2021 Hawaii Health Plan](https://drive.google.com/file/d/1jQhVbbd0xpNDLB093nfptlUv972ALlDF/view?usp=sharing). 
 
@@ -396,7 +396,7 @@ GitLab provides, at no cost to our Inc and Federal team members, a policy throug
 1. If a team member will be unable to work due to disability as defined by the applicable short term disability plan for less than 25 calendar days, no action is needed and the absence will be categorized under [paid time off](/handbook/paid-time-off/).
 1. Since the short-term disability insurance has a 7-day waiting period, the team member should decide on day 18 whether they will be able to return to work after 25 calendar days. If they will not be able to return, they should inform the Absence Management team of their intent to go on short-term disability and apply for short-term disability at this time by sending the Absence Management team a completed [Leave Request Form](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing). While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefit coverage will also continue for the time the team member is on short-term disability.
 1. At the end of the maximum benefit period for short-term disability of 12 weeks, the team member will determine whether they are able to return back to work.
-   * If the team member intends to return on or before the end of the 12 weeks, they should email leaves@gitlab.com a Return to Work authorization from their doctor stating that they are able to return to work and listing any accomodations needed, if applicable, before their return date. The Absence Management team should request this a week before the team member's anticipated return to work date if not already provided by the team member.
+   * If the team member intends to return on or before the end of the 12 weeks, they should email leaves@gitlab.com a Return to Work authorization from their doctor stating that they are able to return to work and listing any accommodations needed, if applicable, before their return date. The Absence Management team should request this a week before the team member's anticipated return to work date if not already provided by the team member.
    * If the team member is unable to return, the team member will be moved to unpaid leave and will have the option to continue their benefits by electing [COBRA coverage](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf). The team member will be eligible to apply for long-term disability at this time.
  
 **Short-Term Disability Claim Process via Cigna**
@@ -409,7 +409,7 @@ GitLab provides, at no cost to our Inc and Federal team members, a policy throug
      - Within 3 business days of Cigna receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed. 
      - The claims team will also contact the Absence Management team to confirm eligibility and verify job responsibilities, if needed. 
      - Cigna claims team will immediately begin reviewing the information available to make a decision. Cigna may also contact the team members attending physician, if needed, once Cigna has the team members authorization to do so. 
-     - If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Absence Managment team will also receive a notification of the denial.
+     - If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Absence Management team will also receive a notification of the denial.
      - If approved, communication is sent to the Absence Management team and claim status reports with approval date and estimated return-to-work date is provided.  
 5. The Absence Management team will process the approval or denial and file all related paperwork in BambooHR. 
  
@@ -454,7 +454,7 @@ Employer contributions vest according to the following schedule:
  
 **Vesting example**
  
-To help you understand the math, here is a hypothetical vesting chart showing how much the employeed would get if they left the company.
+To help you understand the math, here is a hypothetical vesting chart showing how much the employee would receive if they left the company.
  
 In this example the team member's salary is $50,000 USD and they max out their match every year. 50,000 * 6% = 3000. 3000 * 50% = 1500 match.
  
