@@ -56,7 +56,7 @@ Sensitive data is typically data that is associated with who an individual is on
 
 ## Privacy Review Process
 
-As outlined in GitLab's [DPIA policy](https://about.gitlab.com/handbook/engineering/security/dpia-policy/#vendor-dpia-process), every vendor that handles Personal Data needs to go through a Privacy Review. Additionally, when new product features are being designed, there may be times when a formal privacy review is required. This section outlines the process for these reviews.
+As outlined in GitLab's [DPIA policy](https://about.gitlab.com/handbook/legal/privacy/#privacy-review-process), every vendor that handles Personal Data needs to go through a Privacy Review. Additionally, when new product features are being designed, there may be times when a formal privacy review is required. This section outlines the process for these reviews.
 
 ### Vendor Privacy Review Process
 
