@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'ZApier Training'
+title: 'Zapier Training'
 category: Miscellaneous
 description: 'Training documentation concerning Zapier'
 ---
