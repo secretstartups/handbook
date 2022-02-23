@@ -517,7 +517,7 @@ TO DO
    * Requisition Information
       * Add Parnter Name
       * Description/ Item 
-         * GitLab Customer Name- Partner Name- PSE/ PM Name
+         * GitLab -Partner Name- Customer Name- PSE/ PM Name
          * Training- Training:  partner name / year month day
       * Price of the Partner SOW
       * Currency is always USD
