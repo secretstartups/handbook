@@ -40,7 +40,7 @@ Currently, the following methods create feedback issues for review:
    1. This feedback form creates issues in the customer feedback project, with a subject format of **Positive/Negative/Neutral feedback for ticket nnnnnn**, and is automatically assigned to the **SSAT reviewing manager**. 
    1. If the feedback is negative, there is an option to request manager contact (within 48hrs Mon-Fri). If this option is chosen, a Slack notification is sent to the `#support_escalations` channel. The **SSAT reviewing manager** should follow the guidance in [If there is action to be taken](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/support/workflows/how-to-respond-to-feedback.html.md#if-there-is-action-to-be-taken) and [If the customer should be contacted](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/support/workflows/how-to-respond-to-feedback.html.md#if-the-customer-should-be-contacted).
 1. GitLab team members (such as TAMs and Sales team) can open an [Indirect Feedback](https://gitlab.com/gitlab-com/support/feedback/-/issues/new?issuable_template=Indirect+Feedback) issue with details they received from the customer.
-1. Any issue requiring contact can also be identified by applying the 'SSAT::Contact' label. In the Description or in a Comment, specify that manager contact was requested. 
+1. Any issue requiring contact can also be identified by applying the `SSAT::Contact` label. In the Description or in a Comment, specify that manager contact was requested. 
 
 
 ### What does success look like?
