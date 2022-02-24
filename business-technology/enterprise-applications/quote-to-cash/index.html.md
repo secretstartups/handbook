@@ -47,7 +47,7 @@ The quote-to-cash (QTC) process encompasses customer account management, order f
 * CustomersDot integrates with Zuora to enable self-service purchasing and subscription management
 
 #### NetSuite
-* NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team. 
+* NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team.
 * The platform allows enhanced dimensional reporting as well as multi-currency and multi-entity reporting. This is where the General Ledger resides and all financial activity is ultimately recorded, which is critical to reporting the financial health of the company.
 
 {::options parse_block_html="true" /}
@@ -229,6 +229,16 @@ classDef gray fill:#FFFFFF;
 <div class="center">
 <div style="width: 720px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:720px; height:480px" src="https://lucid.app/documents/embeddedchart/09ac03f9-ae40-4bbd-961c-f64bb44f5b4f" id="KWs5ZPs-THoH"></iframe></div>
 </div>
+
+## Entity Relationship Diagrams
+
+- [Zuora Billing](./entity-relationship-diagrams#zuora-billing)
+- [CustomersDot (Customer Portal)](./entity-relationship-diagrams#customersdot-customer-portal)
+- [GitLab](./entity-relationship-diagrams#gitlab)
+
+### Quote to Cash Systems Field Mapping
+
+[This spreadsheet](https://docs.google.com/spreadsheets/d/1D159Osv6JvQtlHm2Bpekn8ADOWUfgcdszf_pewERBy0/edit#gid=769890791) provides a mapping of fields from the data models of Zuora Billing, CustomersDot and GitLab.  This document highlights some of the overlap and dependencies between the systems currently.
 
 ## Contact Us
 ### Slack Channels
