@@ -107,6 +107,8 @@ The company will reimburse for the following expenses if you need it for work or
 1. Internet connection subscription.
     - For team members outside the Netherlands: follow normal expense report process.
     - For team members in the Netherlands: fill in and sign the [Regeling Internet Thuis](https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq) form and send it to the People Experience team at [people-exp@gitlab.com](mailto:people-exp@gitlab.com). The People Experience team will then send it to the payroll provider in the Netherlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts".
+        - **Important** This is the process to be followed for compliance reasons for Internet expenses for the Netherlands. Please do not expense your Internet costs via Expensify - these will be rejected.
+        - If your address changes or the amount changes, please send a new form to the People Experience team, along with the invoice/letter for processing.
     - This is a taxable expense for GitLab Ltd. team members assuming that the internet connection is used partially for personal use as well as business use.
     - Please expense internet costs monthly, reflecting current charges only (even if you pay by a different cadence).
 1. VPN service subscription. Please read [Why We Don't Have A Corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn), and check out our [Personal VPN page](/handbook/tools-and-tips/personal-vpn/) regarding usage at GitLab.
