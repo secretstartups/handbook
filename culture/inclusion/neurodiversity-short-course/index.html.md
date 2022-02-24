@@ -21,7 +21,7 @@ Neurodiversity doesn't discriminate based on color or gender, and symptoms can p
 
 Now, Judy Singer coined this term in the late '90s, and it's not a diagnosis. It can be better described as a social movement, to view cognitive diversities from a strengths-based lens. So, why is it essential to understand neurodiversity? The World Health Organization reports 15% of humanity is living with a disability, and only a small fraction of organizations, less than 12%, are including this group in their diversity programs. We all feel the world shrinking, and the challenge we face is adapting to many identities. Color, religion, gender, and neurodiversity. So let's spend some more time talking about terminology. Terminology can get a little tricky, and is always changing. 
 
-For this course, I'll refer to this group as neurodiversity. And as the individual, as a neurodivergent. I'll refer to those who are not neurodivergent as neuro typical. Keep in mind, there are arguments that there is no such thing as a typical brain, but we use that term to define people that would not traditionally fall under the neurodiversity umbrella. 
+For this course, I'll refer to this group as neurodiversity. And as the individual, as a neurodivergent. I'll refer to those who are not neurodivergent as neurotypical. Keep in mind, there are arguments that there is no such thing as a typical brain, but we use that term to define people that would not traditionally fall under the neurodiversity umbrella. 
 
 There isn't a predefined list of what falls under the umbrella, it is a personal decision to be recognized as neurodivergent. However, in this course, we'll focus on human resource knowledge and support of 
 
@@ -40,9 +40,9 @@ Neurodiversity is an umbrella term but there are some impairments more commonly 
 
 * First, autism spectrum. This is a broad term used to describe a group of neurodevelopmental differences. These manifest as nontraditional ways of communicating and interacting socially. Often, autistics demonstrate restricted and repetitive patterns of thought and behavior, sometimes getting stuck on a topic. An autistic's ability to learn deeply about topics and notice when there are inconsistencies brings value to any team. Almost 2/3 of autistics also have ADHD. 
 
-* ADHD, which stands for attention hyperactive deficit disorder is one of the most common neurological disorders. So in the workplace, it presents itself as difficulties with working memory. Impulsivity, prioritizing, focusing, remembering plans, multitasking, coping with stress and also organizing. I find that this group of individuals are terrific at dynamic, creative and inventive thinking. Most of the successful sales people I know had ADHD. 
+* ADHD, which stands for attention hyperactivity deficit disorder is one of the most common neurological disorders. So in the workplace, it presents itself as difficulties with working memory. Impulsivity, prioritizing, focusing, remembering plans, multitasking, coping with stress and also organizing. I find that this group of individuals are terrific at dynamic, creative and inventive thinking. Most of the successful sales people I know had ADHD. 
 
-* Dyslexia and Dysgraphia and these overlap a lot. So dyslexia, is characterized by difficulties with accurate or fluent word recognition and by poor spelling and decoding abilities. So outward signs include letter or number reversal, difficulty reading and spelling, difficulty with left versus right, trouble following multistep directions and slow handwriting that is difficult to read. It may take them longer to write than the average person and the person may express discomfort or stress while doing so. People commonly experience both dysgraphia and dyslexia together. Both of these groups, uniquely embrace creative thinking, problem-solving, and the ability to decipher information, all skills that can add value to your team. 
+* Dyslexia and Dysgraphia and these overlap a lot. So dyslexia is characterized by difficulties with accurate or fluent word recognition and by poor spelling and decoding abilities. So outward signs include letter or number reversal, difficulty reading and spelling, difficulty with left versus right, trouble following multistep directions and slow handwriting that is difficult to read. It may take them longer to write than the average person and the person may express discomfort or stress while doing so. People commonly experience both dysgraphia and dyslexia together. Both of these groups uniquely embrace creative thinking, problem-solving, and the ability to decipher information, all skills that can add value to your team. 
 
 * And then last, we have the broad area of general learning difficulties. This refers to a condition in the brain that causes difficulties comprehending or processing information and is caused by several different factors. Individuals impacted may experience difficulty learning in the typical manner, but not the inability to learn. Keep in mind that each of these conditions lives on a spectrum, just because two people identify as autistic doesn't mean they present in the same way. 
 
@@ -62,7 +62,7 @@ So let's chat about some of the common challenges for neurodivergent people in t
 
 * Elements of communication, including nonverbal language, can also be a challenge for a neurodivergent to pick up on. Tone, facial expressions, and other non-verbal communication are parts of communication used to effectively send a message. Often, they miss these more subtle forms of communication. This creates a challenge when people are accustomed to certain reciprocal behavior from people they talk with. You won't always get that with the neurodivergent, but it doesn't mean the interaction is any less meaningful.  
 
-* Camouflage or masking. I like to explain it like this. Each morning, you wake up with a full cup of water. That's your resources for the day. Typically you lose a little water here and there throughout the day until you're pretty low. For some, that cup has a bunch of tiny holes in it, and before they can even get started with their day, their resources are being lost. Their energy switches to keeping water in the cup. Unfortunately, this activity only makes the cup drain quicker. The cup with holes is a representation of a neurodivergent's use of camouflaging, or also called masking. So social camouflaging or masking is the behavior of trying to act normal, communicate normal and hide their neurodivergent traits. They social camouflage to escape the various stigmas associated with neurodivergent conditions or to escape bullying and ridicule they have experienced in the past. Think of it as post-traumatic stress and social camouflaging is their coping mechanism. This act leads to anxiety and burnout. Many neurodivergent people hide this string. Why do they feel like they have to hide this? Well, here's why. The general population doesn't understand these impairments, how they manifest and what they mean for their coworker's ability to perform work. Innocent ignorance of neurodiversity by coworkers is the number one reason an individual will tax their system by social camouflaging, but by you creating a neurodivergent-friendly environment, their energy translates into productivity and innovation for your organization, so before this group can be accepted, they must first be understood.
+* Camouflage or masking. I like to explain it like this. Each morning, you wake up with a full cup of water. That's your resources for the day. Typically you lose a little water here and there throughout the day until you're pretty low. For some, that cup has a bunch of tiny holes in it, and before they can even get started with their day, their resources are being lost. Their energy switches to keeping water in the cup. Unfortunately, this activity only makes the cup drain quicker. The cup with holes is a representation of a neurodivergent's use of camouflaging, or also called masking. So social camouflaging or masking is the behavior of trying to act normal, communicate normal and hide their neurodivergent traits. They social camouflage to escape the various stigmas associated with neurodivergent conditions or to escape bullying and ridicule they have experienced in the past. Think of it as post-traumatic stress and social camouflaging is their coping mechanism. This act leads to anxiety and burnout. Many neurodivergent people hide this string. Why do they feel like they have to hide this? Well, here's why. The general population doesn't understand these impairments, how they manifest and what they mean for their coworker's ability to perform work. Innocent ignorance of neurodiversity by co worker's is the number one reason an individual will tax their system by social camouflaging, but by you creating a neurodivergent-friendly environment, their energy translates into productivity and innovation for your organization, so before this group can be accepted, they must first be understood.
 
 ### Neurodiversity in the Workplace at GitLab 
 
@@ -81,7 +81,7 @@ Answers could be for example:
     * Structured work weeks and clear goals 
     * Clear agendas and no surprise meetings 
     * I am direct and to the point. 
-    * I tend to talk to think and can go on tangents, I am open to being told that I am running off topic. 
+    * I tend to talk to think and can go on tangents.  I am open to being told that I am running off topic. 
 
     2. How do you like to receive feedback on your performance both constructive and positive?
 Answers could be for example: 
@@ -100,27 +100,27 @@ Servant leadership is very important when building an environment where neurodiv
 
 If you haven’t already read through our handbook page on unconscious bias and also read or take the psychological safety short course. Everyone has bias and it is about recognising and challenging your bias which can inform perceptions.
 
-People who are neurodivergent can miss social cues or not provide certain social cues. This could elevate a bias response in those interactions. You may perceive someone as disinterested, uncommunicative or lacking knowledge. Ensure that when you encounter situations that you do not perceive as normal cloud your judgement on that person's ability to do their work. Let our results value always be the indicator of success. 
+People who are neurodivergent can miss social cues or not provide certain social cues. This could elevate a bias response in those interactions. You may perceive someone as disinterested, uncommunicative or lacking knowledge. Ensure that when you encounter situations that you do not perceive as normal cloud your judgment on that person's ability to do their work. Let our results value always be the indicator of success. 
 
 #### Our Team Members 
 
-In this section you will read transcripts from team members who are Neurodivergent, talking about there experience, how they work at GitLab and some of the accomodations they have made in the workplace. You will see how each individual is different and there isn't a one size fits all approach. I'd like to thank all the participants for there openess and vulnerability which will no doubt help GitLab Team Members understand the intricacies of neurodiversity. 
+In this section you will read real transcripts from team members who are Neurodivergent, talking about their experience, how they work at GitLab and some of the accommodations they have made in the workplace. You will see how each individual is different and there isn't a one size fits all approach. I'd like to thank all the participants for their openness and vulnerability which will no doubt help GitLab Team Members understand the intricacies of neurodiversity. 
 
-Kaitlyn Chappell
+[Kaitlyn Chappell](https://docs.google.com/document/d/14IXQimwsBqf8ppI3mtmDE2Ts9yhxqUCYAOKQgXRLlhE/edit?usp=sharing)
 
-Matt Wilson
+[Matt Wilson](https://docs.google.com/document/d/1Ii78o4MizjGI8HygkgQ0JvcE7goBT88V-6TAt3V6xDU/edit?usp=sharing)
 
-Mike Lindsay
+[Mike Lindsay](https://docs.google.com/document/d/1WjFGzhZFdhb8UTG669-UwDcVuvS88JZwlw_TM4QdqsY/edit?usp=sharing)
 
 #### What can you do next: Building a more inclusive environment for neurodiverse team members 
 
-* Build [**team member profiles**](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/blob/master/.gitlab/issue_templates/Team-Member-Profile.md) or build your own team member profile and share it with your colleagues/manager. Personalisation is key, by focussing on the team members individual working styles, communication styles and feedback loops, you will negate the need for disclosure and allow all team members to thrive. You can use this issue template [insert template](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/blob/master/.gitlab/issue_templates/Team-Member-Profile.md)
+* Build [**team member profiles**](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/blob/master/.gitlab/issue_templates/Team-Member-Profile.md) or build your own team member profile and share it with your colleagues/manager. Personalisation is key, by focussing on the team members' individual working styles, communication styles and feedback loops, you will negate the need for disclosure and allow all team members to thrive. You can use this issue template [insert template](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/blob/master/.gitlab/issue_templates/Team-Member-Profile.md)
 
 [**Neurodiversity Resources Handbook Page**](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/)
 
-**Reasonable Accomodations**
+**Reasonable Accommodations**
 
-This is covered in the [Neurodiversity Resources Handbook Page](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/) but here are some articles that provide specific examples of reasonable accomodations for neurodiverse team members. 
+This is covered in the [Neurodiversity Resources Handbook Page](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/) but here are some articles that provide specific examples of reasonable accommodations for neurodiverse team members. 
 
 [Neurodiversity Hub for Employers](https://www.neurodiversityhub.org/resources-for-employers)
 
@@ -128,7 +128,7 @@ This is covered in the [Neurodiversity Resources Handbook Page](https://about.gi
 
 [Neurodiverse Employees may need accomodations for remote work](https://www.shrm.org/resourcesandtools/hr-topics/employee-relations/pages/neurodiverse-employees-may-need-accommodations-for-remote-work.aspx)
 
-[Workplace Accomodations](https://www.us.specialisterne.com/workplace-accommodations-part-2/)
+[Workplace Accommodations](https://www.us.specialisterne.com/workplace-accommodations-part-2/)
 
 **What can you do if someone discloses they are neurodiverse to you?**
 
@@ -142,7 +142,7 @@ This is covered in the [Neurodiversity Resources Handbook Page](https://about.gi
 
 - Manager
     1. Be supportive 
-    2. Ask what accomodations can be made to help with there work environment. If they do not yet know what accomodations will help, consider a focussed 1:1 to discuss what they feel is missing and how best they can accomplish there work. 
+    2. Ask what accommodations can be made to help with there work environment. If they do not yet know what accomodations will help, consider a focussed 1:1 to discuss what they feel is missing and how best they can accomplish there work. 
     3. Ask if they would like assistance in disclosing to there colleague if they intend to do so 
     4. Approach feedback differently and ask what can you do to help. 
     4. Follow through, ensure that any agreed accomodation & actions are put in place
