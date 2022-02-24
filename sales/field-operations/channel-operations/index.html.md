@@ -422,7 +422,7 @@ If an approver will not be able to approve opportunities due to PTO or some othe
 ## Letters of Authorization
 When a partner needs a Letter of Authorization, they must log into the partner portal and request one from the “Letter of Authorization” button along the top of the page. If a partner does not log in to the portal, they will not be able to access this request, ensuring that only authorized partners can access the link. 
 
-The partner will be prompted to input basic company information that will auto-fill the letter of authorization. They’ll also be required to type in the email address of their Channel Manager. When they click submit, an email will be sent to the Channel Manager, who will need to validate that the partner is authorized, and then click the “approve” button. 
+The partner will be prompted to input basic company information that will auto-fill the letter of authorization. When they click submit, an email will be sent to the Partner Help Desk, who will need to validate that the partner is authorized, and then click the “approve” button in the email. 
 
 Upon approval, the letter of authorization will be automatically sent to the legal team who will approve and stamp the letter before sending it directly to the partner via email. The letter is good for one calendar year from the date on the letter. 
 
