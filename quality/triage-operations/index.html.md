@@ -350,7 +350,7 @@ Issues with the `~workflow::blocked`, `~workflow::design`, `~workflow::planning 
 * Automation Action:
   *  The `~"Accepting merge request"` label is applied.
 *  Example: <https://gitlab.com/gitlab-org/gitlab-ce/issues/64705>
-*  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-accepting-merge-requests.yml>
+*  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-seeking-community-contributions.yml>
 
 ### Master broken categorization
 
