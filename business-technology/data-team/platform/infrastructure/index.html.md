@@ -852,6 +852,8 @@ This is a project for centralizing handy functions we use across the team. Proje
 ## Upgrading dbt for production
 
 1. Have an issue ready with key stakeholders alerted as to the timing of the upgrade. Give at least one day notice before moving forward with the upgrade
+1. Check for breaking changes in the [release notes](https://github.com/dbt-labs/dbt-core/releases) and [schema docs](https://schemas.getdbt.com/)
+    * Schemas affect both our handling of dbt data in the trusted data framework as well as in our [deployment of the docs site](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab-ci.yml#L257).
 1. Create a new `dbt-image` version following the instructions in the [Creating New Images](/handbook/business-technology/data-team/platform/infrastructure/#new-images) section
 1. Make an MR to the analytics project and update the following items. See [this MR](https://gitlab.com/gitlab-data/analytics/-/merge_requests/3728/diffs) for an example
   * dbt-image in the following places:
