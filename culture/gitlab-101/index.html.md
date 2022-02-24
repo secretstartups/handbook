@@ -7,7 +7,7 @@ canonical_path: "/company/culture/gitlab-101/"
 
 ## GitLab 101s
 
-### CEO 101
+### CEO AMA with New Hires
 
 There is a quarterly GitLab CEO 101 call with new hires and the CEO. This is a zoom call that will be recorded and uploaded to Unfiltered on YouTube. Please read the history and values links provided below and come prepared with questions added to the notes doc included in the calendar invite. Questions that are more personal in nature or around family and friends are also welcomed and encouraged (example: What is your favorite food? Where is your favorite place to travel?) The call will be driven by questions asked by new team members.
 
@@ -34,20 +34,6 @@ Below a few examples of the GitLab 101 calls
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/FALTpdV6dsw" frameborder="0" allowfullscreen></iframe>
 </figure>
-
-
-### New Teammates Introduction
-
-Immediately before the CEO 101, there will be a separate meeting for new teammate introductions. This gives everyone on the call a chance to get to know each other before the Q&A starts, and saves as much time as possible for the CEO to take questions. Each introduction should take less than 60 seconds. It is surprising how much we can communicate in a minute and we want to ensure that everyone has a chance to introduce themselves. A member from the Executive Business Administrator Team will be in attendance to ensure this happens on time and is recorded. Please introduce yourself using the order in the calendar invite and share:
-
-  - What do you do at GitLab?
-  - Why did you join GitLab?
-  - What do you enjoy in your private life (quirky details are encouraged, also feel free to introduce your significant other and/or pets)?
-  - Did you already have 5 [virtual coffee chats](/company/culture/all-remote/tips/)?
-  - If you already had 5 are you open to more?
-
-Please keep your introduction to less than 60 seconds. After you're finished with your introduction, invite the next person to talk.
-
 
 
 ### Frequently Asked Questions about the GitLab Culture
