@@ -99,6 +99,7 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
 | [**Miguel Duque**](https://about.gitlab.com/company/team/#mduque-ext) | Frontend Engineer (Contract) | - Email: [mduque-ext@gitlab.com](mailto:mduque-ext@gitlab.com)<br>- GitLab: [@mduque-ext](https://gitlab.com/mduque-ext)<br>-  Slack: @Miguel Duque |
 | [**Daniel Vilchis**](https://about.gitlab.com/company/team/#dvilchis-ext) | Senior Frontend Engineer (Contract) | - Email: [dvilchis-ext@gitlab.com](mailto:dvilchis-ext@gitlab.com)<br>- GitLab: [@dvilchis-ext](https://gitlab.com/dvilchis-ext)<br>-  Slack: @Daniel Vilchis |
 | [**Stephanie Garrido**](https://about.gitlab.com/company/team/#sgarrido-ext) | Scrum Master (Contract) | - Email: [sgarrido-ext@gitlab.com](mailto:sgarrido-ext@gitlab.com)<br>- GitLab: [@sgarrido-ext](https://gitlab.com/sgarrido-ext)<br>-  Slack: @Stephanie Garrido |
+| [**Carrie Tsang**](https://gitlab.com/ctsang-ext) | Product Designer (Contract) | - Email: [ctsang-ext@gitlab.com](mailto:ctsang-ext@gitlab.com)<br>-  Slack: @ctsang-ext |
 
 ## Metrics
 
