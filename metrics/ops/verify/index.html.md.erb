@@ -9,12 +9,10 @@ title: "Verify Stage Engineering Metrics"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+### Group Pages
+* [Pipeline Execution Group Dashboards](/handbook/engineering/metrics/ops/verify/pipeline-execution)
+* [Pipeline Authoring Group Dashboards](/handbook/engineering/metrics/ops/verify/pipeline-authoring)
+* [Runner Group Dashboards](/handbook/engineering/metrics/ops/verify/runner)
+* [Testing Group Dashboards](/handbook/engineering/metrics/ops/verify/testing)
+
 <%= partial "handbook/engineering/metrics/partials/team_dashboard.erb", locals: { filter_type: "stage", filter_value: "Verify" } %>
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Pipeline Execution" } %>
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Pipeline Authoring" } %>
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Runner" } %>
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Testing" } %>

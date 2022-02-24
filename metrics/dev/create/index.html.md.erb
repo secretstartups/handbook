@@ -9,13 +9,10 @@ title: "Create Stage Engineering Metrics"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+### Group Pages
+* [Source Code Group Dashboards](/handbook/engineering/metrics/dev/create/source-code)
+* [Code Review Group Dashboards](/handbook/engineering/metrics/dev/create/code-review)
+* [Editor Group Dashboards](/handbook/engineering/metrics/dev/create/editor)
+* [Gitaly Group Dashboards](/handbook/engineering/metrics/dev/create/gitaly)
 
 <%= partial "handbook/engineering/metrics/partials/team_dashboard.erb", locals: { filter_type: "stage", filter_value: "Create" } %>
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Source Code" } %>
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Code Review" } %>
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Editor" } %>
-
-<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Gitaly" } %>
