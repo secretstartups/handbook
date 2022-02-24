@@ -89,7 +89,7 @@ The GitLab Partner Program consists of two tracks to support the different ways 
 
 ### Getting Started with GitLab
 
-To engage with GitLab, partners start by completing the online registration process on about.gitlab.com/partners page, executing the GitLab Partner Agreement and completing the partner onboarding steps.
+To engage with GitLab, partners start by completing the online Channel Partner registration process on partners.gitlab.com which leads partners through executing the GitLab Partner Agreement and getting access to our Partner Portal where partners complete their onboarding.
 
 Once a partner contract is executed , you will have access to the GitLab Partner Portal and other members of your team will be able to register and be associated with your account.  At that time, you will  have access to sales tools, technical resources, and training courses.  Once one member of your team completes the GitLab Sales Core training, your company will also be able to enter deal registrations and referral transactions.  
 
