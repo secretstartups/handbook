@@ -490,7 +490,7 @@ Our GitLab Deal Registration process allows us to incentivize our partners to so
 1. Go to the portal at [partners.gitlab.com](https://partners.gitlab.com/) and select Register a Deal.
 2. Choose to "Add a Registration."
 3. Choose "GitLab" under the list of vendors.
-4. When asked to select a program, chose either "Deal Registraion" for a standard licensing sale, or "Service Attached Registration" if you're submitting services that you're providing to the customer.
+4. When asked to select a program, choose either "Deal Registration" for a standard licensing sale (“Referral”, “Resale” or “MSP”), or "Service Attached Registration" if you're submitting a registration to participate in our rebate program for services that you're providing to the customer.
 5. Complete information. Ensure information is complete. GitLab will not engage based on a speculative or poorly defined opportunity, or with a reseller who is not eligible to win a sales opportunity.
 6. Submit the deal.
 7. Go through the review and approval process.
@@ -505,7 +505,7 @@ For detailed instructions and a step-by-step guide to submitting and maintaning 
 *   Advise if you are the first to register an opportunity
 *   Work with you to confirm whether a deal is a qualified sales opportunity
 
-##### How it works:
+##### How licensing registrations work:
 
 *   Only a properly completed deal registration submission can initiate an engagement and, as mentioned, engagements are not exclusive. Thus, it is in all parties’ best interest to complete a deal registration form as soon as a qualified sales opportunity is identified.
 *   The GitLab Sales Rep checks to see if GitLab is already engaged with another reseller on this opportunity. If so, the Sales Rep rejects the deal registration and notifies you that we cannot engage with you.
@@ -519,6 +519,16 @@ For detailed instructions and a step-by-step guide to submitting and maintaning 
 
 If any of the above requirements are not met—or you fail to promptly schedule a meeting or conference call with the customer—the GitLab Sales Rep may advise you that we cannot engage with you for this opportunity. GitLab will then reconsider other deal registration applications submitted for this deal, in order of submission. You may subsequently attempt to remedy this situation and submit another deal registration form for this deal, but this will be considered a new submission.
 
+##### How Services Attached registrations work:
+The Services Attached incentive is based on the volume of licensing opportunities with services attached to those licensing deals.  The more licensing deals you attach services to the richer the program becomes.
+
+*   Services Attach deal registrations are submitted and linked to licensing opportunities via the Partner Portal as a deal registration (Deal Registration Type = Services Attach)
+*   In order to receive their rebate, partners must submit reasonable information and documentation proving that the services met both program guidelines and customer needs.
+*   There are two (2) parts to this is process:
+    *   1: Partners need to email proof of execution (POE) for delivery of services to the customer.  The POE must include customer confirmation of the services and that the services meet/met the guidelines as outlined in the current program guidance (found in the [Partner Portal](https://partners.gitlab.com/)) for the incentive.  The most likely form of POE is a signed SOW outlining work and cost to the customer.   POE must be approved by GitLab Sales.
+        *   Email POE to: [partnersupport@gitlab.com](mailto:partnersupport@gitlab.com) 
+    *   2: Partners need to submit the [Proof of Execution (POE) form](https://forms.gle/n8xDfkNbbeNKwaG36).
+*   Rebates are paid out no later than 45 days after the end of each quarter. To view the GitLab Services Attach incentive program please visit the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/s/assets) and access the resources in the Program Documents folder in the Asset Library.
 
 
 #### Quote to Order
