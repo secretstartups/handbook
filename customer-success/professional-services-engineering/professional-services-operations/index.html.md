@@ -114,14 +114,16 @@ The PM sends out the request for acceptance to the customer and then updates the
 
 #### Training Planning and Scheduling
 
-1: **Closed Order Notification** - Project Coordinators receive an automated Salesforce.com email notification when an order has closed and the opportunity is in a closed won stage.  The Project Coordinator will review the purchased training documentation in Salesforce by reviewing the Quote Charge Summaries section within the Saleforce opportunity and attachments and update the corresponding Mavenlink project per the [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process. 
+1: **Closed Order Notification** - Project Coordinators receive an automated Salesforce.com email notification when an order has closed and the opportunity is in a closed won stage.
+   * The Project Coordinator reviews the purchased training documentation in Salesforce by reviewing the Quote Charge Summaries section within the Salesforce opportunity and attachments.
+   * The Project Coordinator reviews the `Professional Services Value` and `Comp Pro Serv Value` fields within the Salesforce opportunity to ensure that they are populated with the correct amounts.  If they are not populated, then post a message to `@Sales-Support` within the Salesforce opportunity chatter to update the fields.
+   * The Project Coordinator updates the corresponding Mavenlink project per the [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process. 
 
 2: **GitLab.com Professional Services epics** are used for tracking training-related information and checklist including the following:
    * Training dates
    * Class times
    * Assigned instructor
    * Teleconferencing set up
-   * Preparation link
    * Send out customer follow up email with class details
    * Add attendance roster to Mavenlink
    * Send out post training email and recording information
@@ -143,7 +145,7 @@ The PM sends out the request for acceptance to the customer and then updates the
 
 4: **Post-Sales Training Intake Questionnaire** - Use the [template](https://docs.google.com/document/d/15Ame5jLudiX-oztJ3padL-syu5g4yKphK4z8WMkfaNE/edit?usp=sharing) to make a copy of the questionnaire for the customer to complete.  Make sure to save the copy in the correct PMO > Active Projects Google Drive folder.  Update the customer’s training intake questionnaire as necessary and add the customer point of contact to the Google doc with edit rights.
 
-5: **Welcome to PS** - Send the Welcome to PS email to the customer per [template](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing).
+5: **Welcome to PS** - Send the Welcome to PS email to the customer per [template](https://docs.google.com/document/d/19neCmmsW5V3EyLxqSAuuIhCevVKewePaLeCq2gYmJYY/edit?usp=sharing).
 
 6: **Training Scheduling** - After receiving customer confirmation and training intake questionnaire feedback, review trainer schedules in Mavenlink and confirm availability.
    * Propose training dates and times to the customer.
@@ -156,12 +158,12 @@ The PM sends out the request for acceptance to the customer and then updates the
       * Update the partner Statement of Work training funds Google sheet tracker to keep track of the training dollars remaining on the Statement of Work.  Notify the Professional Services Education Services Manager when the funds are getting low so a new Statement of Work and procurement issue can be generated for additional funds.
 
 7: **Training Preparation Meeting** - Schedule a training preparation call with the customer and assigned trainers to discuss logistics, training topics, and system requirements.  After confirming the meeting date and time with the customer and trainers, send a meeting invitation to the customer, trainers, and the GitLab account team with the Professional Services Education Services Manager as an optional attendee.
-   * Create a draft of the Training Event Plan notes per the [Training Event Plan template](https://docs.google.com/document/d/1huNauyfhFPvLCuo-9T7Ol3FtBDYowYxiP_T5ItP2FN4/edit?usp=sharing) prior to the meeting and add the trainers to the document with edit rights.  You will update the document during the training planning meeting.
+   * Create a draft of the Training Event Plan notes per the [Training Event Plan template](https://docs.google.com/document/d/19neCmmsW5V3EyLxqSAuuIhCevVKewePaLeCq2gYmJYY/edit?usp=sharing) prior to the meeting and add the trainers to the document with edit rights.  You will update the document during the training planning meeting.
    * Use the following suggested meeting name when creating the meeting invite.  
       **GitLab Training Preparation / customer name - course name**
    * Within the meeting description, add the applicable information per [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
    * Post a message to the trainers in the Mavenlink project to inform them of the customer training preparation meeting confirmation and next steps.  Use the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) for your message.
-   * After the customer call, send a pdf version of the meeting notes to the customer as part of the follow-up email using the [Post-Planning example email template](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing) to draft the message.
+   * After the customer call, send a pdf version of the meeting notes to the customer as part of the follow-up email using the [Post-Planning example email template](https://docs.google.com/document/d/19neCmmsW5V3EyLxqSAuuIhCevVKewePaLeCq2gYmJYY/edit?usp=sharing) to draft the message.
    * Save a copy of the customer call notes to the customer Active Projects folder.
 
 8: **Teleconferencing Set Up** - GitLab typically prefers to use Zoom as our primary teleconferencing system.  However, we can set up Webex or MS Teams as an alternative solution based on the training requirements.
@@ -180,7 +182,7 @@ One week prior to the class start date, the Project Coordinator will send the fo
 
 2: **Customer Reminder** - Send an email to the customer approximately 1 week prior to the class start date as a reminder for the system requirements and attach a copy of the registration report, if applicable.  Use the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) for your email message to the customer.
 
-3: **Demo Cloud Invitation Code** - Generate invitation code for the upcoming class per [these instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/delivery/#planning-and-delivering-education-services).
+3: **Demo Cloud Invitation Code** - Generate invitation code for the upcoming class per [these instructions](https://about.gitlab.com/handbook/customer-success/demo-systems/#invitation-code-creation).
 
 4: **Trainer Friendly Reminders** - Post a trainer reminder message per [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) within the Mavenlink project after setting up demo cloud lab invitation code.  Make sure to @ mention the trainer within the post and link the post to the applicable Mavenlink task.
 
@@ -205,19 +207,17 @@ Upon training delivery completion, the Project Coordinator will perform the foll
    * **Webex** - [Recording link instructions](https://docs.google.com/document/d/1xk6BIzpDAzF1YxwRLZ-4ZaJScyz3OmG2UsyL6xYfF9U/edit?usp=sharing)
    * Add the recording link information to the Professional Services GitLab.com epic under the applicable training course checklist task.
 
-3: **Mavenlink Project** - Save a pdf copy of the attendance report to the applicable milestone, and update Mavenlink project per [these instructions](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-process/-/issues/36).
+3: **Mavenlink Project** - Save a pdf copy of the attendance report to the applicable milestone, and update Mavenlink project to close out the project.
 
 4: **Course Slide Deck** - Send a Slack message to the trainer asking if a customized or standard version of the slide deck was used during the training class.
    * **Customized Slide Deck** - Download a pdf copy of the slide deck from the trainer and save to the Professional Services > PMO > Active Projects Google Drive folder.
    * **Standard Slide Deck** - Download a pdf copy of the slide deck from the applicable Course Content Packages Google Drive folder, and save a copy to the Professional Services > PMO > Active Projects Google Drive folder.
 
-5: **Customer Post-Training Correspondence** - Send the post-training email with the recording links, course attendance, slide deck, lab guide, survey, and certification assessment information per the [example template](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing).
+5: **Customer Post-Training Correspondence** - Send the post-training email with the recording links, course attendance, slide deck, lab guide, survey, and certification assessment information per the [example template](https://docs.google.com/document/d/19neCmmsW5V3EyLxqSAuuIhCevVKewePaLeCq2gYmJYY/edit?usp=sharing).
 
 6: **GitLab.com Epic** - Update the training checklist as you complete the activities.  After all trainings per the order have been completed for _training-only orders_, go to the GitLab.com epic.  
    * Close all issues associated with the epic.
    * Close the epic.
-
-7: **PMO Active Projects Google Drive Folder** - After all trainings per the order have been completed for _training-only orders_, go to the Professional Services > PMO > Active Projects Google Drive folder, and move the customer subfolder to the Professional Services > PMO > Completed Projects Google Drive folder.
 
 ___
 
