@@ -510,6 +510,8 @@ The PEA in the rotation should review the onboarding tracker and send [email inv
 
 New team members based in the Netherlands will send an email to people-exp@gitlab.com with the Regeling Internet Thuis form. The People Experience team will then forward this form to the payroll provider in the Netherlands via email. The contact information can be found in the People Ops 1Password vault, under "Payroll Contacts".
 
+If a team members address changes or the amount changes, team members will need to send their updated Regeling Internet Thuis form to people-exp @gitlab.com, which the People Experience team will then forward to the payroll provider in the Netherlands.
+
 ### Pulling Social Call Metrics 
 
 The People Experience Associate will assigned to this task, will pull this report the first week of the month.
