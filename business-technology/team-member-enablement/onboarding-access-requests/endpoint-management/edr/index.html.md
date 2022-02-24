@@ -21,7 +21,7 @@ With an increased number of high profile breaches in the media today it is impor
 EDR is a collection of endpoint security technologies that together record and store endpoint-system-level behaviors, use various data analytics techniques to detect suspicious system behavior, provide contextual information, block malicious activity, and provide remediation paths to restore affected systems.
 
 ### What is SentinelOne?
-[SentinelOne](https://www.sentinelone.com/) is the EDR technology chosen by GitLab to help protect endpoint devices. All data assocaited with the effort conducted to evaluate EDR vendors while ultimately resulted in the chosing of SentinelOne can be found in the efforts [project repo](https://gitlab.com/gitlab-com/gl-security/security-research/edr-proof-of-concept/-/tree/master).
+[SentinelOne](https://www.sentinelone.com/) is the EDR technology chosen by GitLab to help protect endpoint devices. All data associated with the effort conducted to evaluate EDR vendors while ultimately resulted in the chosing of SentinelOne can be found in the efforts [project repo](https://gitlab.com/gitlab-com/gl-security/security-research/edr-proof-of-concept/-/tree/master).
 
 ### Why is this necessary?
 
