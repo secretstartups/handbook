@@ -457,6 +457,38 @@ This section provides step by step clarity on how to follow the **ROE**.
 - **Currently:** Leading decision will be based on the fact if the Account was SMB/MM segment during the **Feb 2019 size clean up**
 - **From Q4 on** - Leading decision will be based on the fact if Account was SMB/MM segment based on the **Nov 2019 size clean up**
 
+### Rules of Engagement Between MMKAFO and Mid-Market Territory for FY '23
+
+#### Fiscal Year 2023 Account Moves
+For all accounts that are in SalesForce.com as of February 24, 2022 the Mid-Market Key Accounts First Order team will own all accounts that are:
+1. Segmented to Mid-Market NORAM or EMEA
+1. Marked as "First Order Available" in SalesForce   
+AND
+1. Have a full time employee count of 500 employees or greater as marked in the “Account Demographic Max Family Employees” field under Account Demographics in SFDC.    
+OR
+1. Have a potential user count of 100 users or more as measured by the LAM Dev Count Field.
+
+To avoid confusion the logic is `[1 AND 2 AND (3 OR 4)]`.
+
+Note: If an AE suspects that the employee count or potential user count is not accurate in our data sources, it is the AEs responsibility to uncover the employee count and potential user count during the discovery phase. If an account is identified to belong to either territory or First Order and the other party continues to work the lead without doing proper due diligence, the account will be reassigned to the appropriate party. 
+
+#### New Accounts to SalesForce.com after Feb 24, 2022
+1. For all **inbound** MQLs for which an account does not yet exist in SalesForce.com, the routing of that lead and account will be based exclusively on employee count.
+    - If the account has 500+ employees it will be routed to the MMKAFO team
+    - If the account has less than 500 employees it will be routed to the Mid-Market Territory team
+1. MMKAFO AEs are able to go **outbound** to accounts that are not yet in SalesForce.com that fit the criteria in the Mid Market Key Accounts definition:
+    - Mid-Market accounts that have either 500+ employees OR 100 potential users as defined by LinkedIn Engineering + IT personnel count.
+1. MMKAFO AEs are able to create the outbound accounts in SFDC that fit the above criteria, and ask Sales Operations to move the account into their name.
+    - Note: If it is found out that an AE asks for an account to be deduplicated in order to work said account, disciplinary action will be taken.
+
+#### Account Moves Throughout Fiscal Year 2023
+1. If an MMKAFO AE finds out through discovery that a sub 500 employee account segmented to First Order in reality has less than 100 potential users, they should immediately ask for the account to be moved to Territory.
+1. If a “First Order Available” account is segmented to Territory, and the Territory AE finds out through discovery that the account actually has more than 500 employees, they should immediately ask for the account to be moved to First Order.
+1. The automation for new accounts in the system means accounts with under 500 employees but over 100 potential users will be routed to territory and left there unless they have no activity at the quarter change over.
+1. If it is found out that an AE intentionally ignores rules number 1 or 2 more than twice in a fiscal year disciplinary action is likely to be taken.
+
+
+
 ## Account Ranking
 
 It is a requirement for the Commercial Sales Team to tier their accounts using the fields on the Account Object. This helps prioritize the accounts to go after when prospecting for new or expansion. Please see below definitions specific to SMB and Mid-Market AEs.
