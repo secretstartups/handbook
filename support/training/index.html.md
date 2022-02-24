@@ -12,7 +12,7 @@ description: Learning Pathways available to Support team members
 
 {::options parse_block_html="true" /}
 
-# Support Learning Pathways
+## Support Learning Pathways
 
 All the learning pathways we have in Support are listed [here](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html). Each pathway contains a set of modules, and a module may reside in multiple pathways.
 
@@ -25,7 +25,7 @@ To create an issue for yourself with one of the module templates:
 
 **NOTE:** Contact your [Onboarding Buddy](https://about.gitlab.com/handbook/support/training/onboarding_buddy.html) if you have any questions about these pathways. Buddies are always happy to help!
 
-# Support hybrid model
+## Support hybrid model
 
 The hybrid model presents a structured training plan that will prepare the support engineer to work in different areas focusing their growth in the differences in how to approach problems in the new areas and get most our of the knowledge acquired up to that point.
 
@@ -70,7 +70,7 @@ sequenceDiagram
 </div>
 </div>
 
-# Overview of Support Onboarding
+## Overview of Support Onboarding
 
 When you first join the team everything will be new to you. Don't worry! In order to get you started with GitLab quickly, apart from the company wide onboarding issue that will be assigned to you on Day 1 by PeopleOps, we also have an onboarding program in Support. There are two pathways:
 
@@ -79,7 +79,7 @@ When you first join the team everything will be new to you. Don't worry! In orde
 
 **NOTE:** You can start the PeopleOps onboarding and the Support Onboarding at the same time, or you can complete PeopleOps and then switch to Support. Determine the best path with your manager.
 
-# Support Engineer Onboarding Pathway
+## Support Engineer Onboarding Pathway
 
 Your primary Support Engineer Onboarding Issue is created from the [New Support Team Member Start Here template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New%20Support%20Team%20Member%20Start%20Here.md). This issue keeps track of your completion of the onboarding modules shown in the table below.
 
@@ -95,7 +95,7 @@ It is recommended that you complete the modules in the order listed, but it depe
 | [Documentation](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Documentation) | 1 Day | Become proficient in making documentation and merge requests |
 
 
-## Choosing your initial Area of Focus
+### Choosing your initial Area of Focus
 
 When you have completed the basic modules, work with your manager to decide your initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
 
@@ -133,7 +133,7 @@ When these modules are complete:
 | [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Working%20On%20Tickets) | 2 Weeks | **Work concurrently with your L&R module** -- Help customers by pairing with Support Engineers and replying to tickets |
 
 
-## On-call rotations
+### On-call rotations
 
 After you complete an Area of Focus, talk with your manager about joining an on-call rotation. Usually, you complete only one of these modules, and join only one on-call rotation.
 
@@ -143,7 +143,7 @@ After you complete an Area of Focus, talk with your manager about joining an on-
 | [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Customer%20Emergencies) | 1 Week | Understand the responsibilities of being on-call for Customer Emergencies |
 
 
-## Support Engineer Achievable Progress - First 6 Months
+### Support Engineer Achievable Progress - First 6 Months
 
 Our onboarding pathway gives new Support Engineers an opportunity to learn at their own pace and explore. We strongly believe in learning by doing ([70/20/10 learning model](https://trainingindustry.com/wiki/content-development/the-702010-model-for-learning-and-development/)), and encourage Support Engineers to start contributing on tickets (with public or internal comments) from as early as your 3rd week.
 
@@ -164,7 +164,7 @@ The following reference table can be used as a guideline on achieving comfort wi
 
 ---
 
-## Ongoing learning
+### Ongoing learning
 
 The modules in this section should eventually be taken regardless of your Area of Focus. The topics listed here can be completed in any order. Please discuss with your manager to determine which areas will be relevant to your work and the timing for completion.
 
@@ -172,13 +172,13 @@ The modules in this section should eventually be taken regardless of your Area o
 | ------ | ------ |
 | [GitLab Intermediate Topics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=GitLab%20Intermediate%20Topics) | Intermediate topics for both areas of focus |
 
-## Additional Modules in the Support Training Project
+### Additional Modules in the Support Training Project
 
 We are continuously working on adding more modules and building out more learning pathways: you can find a list of all our current training modules and Modules in the [Support Training project](https://gitlab.com/gitlab-com/support/support-training/-/tree/master/.gitlab/issue_templates).
 
 ---
 
-# Support Manager Onboarding Pathway
+## Support Manager Onboarding Pathway
 
 Your primary Support Manager Onboarding Issue is based on the [New Support Team Member Start Here template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New-Support-Team-Member-Start-Here.md). This Issue keeps track of and completes the onboarding modules shown in the following table.
 
