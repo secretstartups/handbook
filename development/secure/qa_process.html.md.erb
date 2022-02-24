@@ -40,3 +40,19 @@ In `SAST`, `Dependency Scanning`, `Secret Detection` the expected reports are st
 For `License Compliance`, expectations are stored in the test project's `qa/expect` directory (e.g. [ruby-bundler/qa/expect](https://gitlab.com/gitlab-org/security-products/tests/ruby-bundler/-/tree/master/qa/expect)).
 
 More information about can be found in the [Security Products test projects repository](https://gitlab.com/gitlab-org/security-products/tests/common/-/blob/master/README.md).
+
+### Testing on OpenShift
+
+We currently do not have automated tests for OpenShift. If you want to see how a change affects the analyzer behavior on OpenShift,
+you can test it using the [Secure OpenShift Instance](http://gitlab.apps.secure-stage-openshift-test.k8s-ft.win/).
+You can find the credentials to login to this instance in 1Password under the name `Secure Openshift`.
+
+If there is not an existing test project for the feature which you would like to test, then it is recommended
+to mirror an existing test repository on GitLab.com. To do this, go to **New Project** -> **Import Project** -> **Repo by URL**
+and paste the Git repository URL of the repository that you would like to mirror. Enable the **Mirror repository**
+checkbox so that updates to the test respository on GitLab.com will be automatically synced to the OpenShift instance.
+Set the project visibility to **public** so that that any links that you leave to these projects on your merge requests
+are visible to others.
+
+Once you have finished creating the project, go to **CI/CD** -> **Pipelines** and click the **Run Pipeline** button
+in order to start a new pipeline. The job will be picked up by OpenShift runners installed on the instance. Optionally, you can set an env var for the analyzer image (e.g. `SAST_ANALYER_IMAGE`) set to a tmp image built on a branch on gitlab.com to pull in changes and iterations.
