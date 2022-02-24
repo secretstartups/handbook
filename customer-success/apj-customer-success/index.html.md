@@ -30,26 +30,30 @@ To deliver value to all customers by engaging in a consistent, repeatable, scala
 The WW ["Customer Success Vision Page"](/handbook/customer-success/vision/) provides the long-term vision which we also follow in the APJ Customer Success team.
 
 ## APJ Customer Success Team
-Currently the local APJ CS team has Solutions Architects & Technical Account Managers in the team. The team reports to the Customer Experience Manager (APJ).
+Currently the local APJ CS team has Solutions Architects & Technical Account Managers in the team. The team reports to the Manager, Solutions Architects and the Manager, Technical Account Manager respectively.
 
-- [Customer Experience Manager (APJ)](https://about.gitlab.com/job-families/sales/manager-customer-experience/) responsibilities
+- [Manager, Solutions Architects](https://about.gitlab.com/job-families/sales/solutions-architect/#manager-solutions-architects) responsibilities
 - [Solutions Architect](/handbook/customer-success/solutions-architects/) responsibilities
+- [Manager, Technical Account Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam) responsibilities
 - [Technical Account Manager](/handbook/customer-success/tam/) responsibilities
 
-Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_chart) the [Customer Experience Manager (APJ)](https://about.gitlab.com/company/team/#adriansmolski) reports to the [WW Senior Director for Solutions Architecture](https://about.gitlab.com/company/team/#jfullam) who reports to the [Vice President, Customer Success](https://about.gitlab.com/company/team/#dsakamoto)
+Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_chart) the [Manager, Solutions Architects](https://about.gitlab.com/company/team/#adriansmolski) reports to the [WW Senior Director for Solutions Architecture](https://about.gitlab.com/company/team/#jfullam) who reports to the [Vice President, Customer Success](https://about.gitlab.com/company/team/#dsakamoto). The [Manager, Technical Account Manager](https://about.gitlab.com/company/team/#dthompson3) reports to the 
+[Senior Director, Technical Account Management](https://about.gitlab.com/company/team/#spatching) who reports the [Vice President, Customer Success](https://about.gitlab.com/company/team/#dsakamoto).
 
 | Role | Name | Base location |
 | ------ | ------ | ------ |
-| Customer Experience Manager (APJ) | [**Adrian Smolski**](https://gitlab.com/adriansmolski) | Sydney, Australia |
-| Senior Solutions Architect | [**Samer Akkoub**](https://gitlab.com/samer.akkoub) | Melbourne, Australia |
-| Senior Solutions Architect | [**Xiaogang Wen**](https://gitlab.com/xiaogang_gitlab) | Beijing, China |
+| Manager, Solutions Architects | [**Adrian Smolski**](https://gitlab.com/adriansmolski) | Sydney, Australia |
+| Senior Solutions Architect | [**Naoharu Sasaki**](https://gitlab.com/naosasaki) | Tokyo, Japan |
+| Senior Public Sector Solutions Architect | [**Shane Kelly**](https://gitlab.com/skelly-gitlab) | Melbourne, Australia |
+| Senior Solutions Architect | [**Tomasz Skora**](https://gitlab.com/tskora1) | Melbourne, Australia |
 | Senior Solutions Architect | [**Toshitaka Ito**](https://gitlab.com/toshitakaito) | Tokyo, Japan |
 | Solutions Architect | [**Inchul Yoo**](https://gitlab.com/iyoo) | Seoul, South Korea |
-| Solutions Architect | [**Mon Ray**](https://gitlab.com/mray2020) | Sydney, Australia |
-| Associate Solutions Architect | [**Robert Williams**](https://gitlab.com/r_williams) | Sydney, Australia |
-| Senior Technical Account Manager | [**TBD**](https://gitlab.com/) | Singapore, Singapore |
-| Technical Account Manager | [**Benjamin Ma**](https://gitlab.com/@bma) | Sydney, Australia |
-| Technical Account Manager | [**Rohan Shah**](https://gitlab.com/@rmsrohan) | Mumbai, India |
+| Solutions Architect | [**Jonathan Lim**](https://gitlab.com/jonlimr) | Singapore, Singapore |
+| Solutions Architect | [**Robert Williams**](https://gitlab.com/r_williams) | Sydney, Australia |
+| Manager, Technical Account Manager | [**Dave Thompson**](https://gitlab.com/dthompson3) | Sydney, Australia | 
+| Senior Technical Account Manager | [**Benjamin Ma**](https://gitlab.com/bma) | Sydney, Australia |
+| Technical Account Manager | [**Rohan Shah**](https://gitlab.com/rmsrohan) | Mumbai, India |
+| Technical Account Manager | [Zane J Chua](https://gitlab.com/zchua-gtlb) | Singapore, Singapore |
 
 The APJ CS team currently does not follow a strict territory alignment. The only exception is that customers in the home base location would have a preference for Customer Success team members to ensure GitLab adoption. The APJ Customer Success team supports the [Large](/handbook/sales/territories/) and [Mid-Market](/handbook/sales/territories/) APJ outlines territories.
 
