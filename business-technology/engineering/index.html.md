@@ -60,7 +60,7 @@ If in doubt of how to engage or wish to informally ask, simply send a message to
 
 * **DRI:** [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin)
 * **Team Members:** [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis)
-* **Stable Counterparts:** [Jeff Burrows (Manager, Security Compliance)](https://about.gitlab.com/company/team/#jburrows001), [Steve Truong (Risk and Field Security)](https://about.gitlab.com/company/team/#sttruong), [Karlia Kue (IT Compliance Manager)](https://about.gitlab.com/company/team/#kxkue)
+* **Stable Counterparts:** [Jeff Burrows (Manager, Security Compliance)](https://about.gitlab.com/company/team/#jburrows001), [Steve Truong (Risk and Field Security)](https://about.gitlab.com/company/team/#sttruong), [Derek Isla (IT Compliance Manager)](https://about.gitlab.com/company/team/#disla)
 * `#gitlab-access-manager` Slack Channel
 * [Handbook Page](/handbook/business-technology/engineering/access-manager)
 * [Issue Tracker](https://gitlab.com/gitlab-com/business-technology/engineering/access-manager/issue-tracker/-/issues)
