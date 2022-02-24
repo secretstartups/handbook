@@ -590,7 +590,7 @@ This includes the program, SFDC, Zoom, landing pages, and emails as they are tem
 
 1. Create the workshop program in Marketo by cloning the appropriate Marketo program for the type of workshop:
     * [DevOps Automation Workshop program template](https://app-ab13.marketo.com/#ME6532A1)
-    * [Security Workshop program template](https://app-ab13.marketo.com/#ME6521A1)
+    * [GitLab Security + Compliance Workshop program template](https://app-ab13.marketo.com/#ME6521A1)
     * [Project/Program Management Workshop program template](https://app-ab13.marketo.com/#ME6536A1)
     * [Advanced CI/CD Workshop program template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6807A1)
     * [Jenkins Workshop program template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1)
@@ -639,7 +639,7 @@ The GitLab demo environment can currently support up to 200 users at one time, h
 |----------------------------|--------------------------------------------------| ------------------------
 | DevOps Automation          |                  250-350                         |  2
 | Project/Program Management |                  250-350                         |  2
-| Security                   |                  250-350                         |  2-3
+| GitLab Security + Compliance                  |                  250-350                         |  2-3
 | Advanced CI/CD             |                  250-350                         |  3-4
 | Jenkins Migration          |                  150-200                         |  2 (also recommended to have 1 professional services rep or have 1 SA receive training from Bryan May or James Sandlin)
 
@@ -683,7 +683,7 @@ In order to cap registration, we remove the registration form on the Landing Pag
 **Current Workshops available include:**      
    - [**DevOps Automation Workshop:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1337) This is a basic 101 introduction to GitLab designed to encourage customers to try us out and move sales from considering to buying.    
    - [**Program and Portfolio Management Workshop:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1334) This workshop is designed to assist project and portfolio teams to gain first hand knowledge into the teams and projects aligned with ongoing business initiatives when using GitLab. 
-   - [**Security Workshop:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1336) This workshop is intended to be a hands-on event for existing and new users of GitLab. Its focus is Security / Shifting Left.
+   - [**GitLab Security + Compliance Workshop:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1336) This workshop is intended to be a hands-on event for existing and new users of GitLab. Its focus is Security / Shifting Left.
    - [**Advanced CI/CD:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1335) This workshop is a deep-dive workshop on Advanced GitLab CI/CD to enable you to take your automation game to the next level and provide thought leadership within your organization. CI Experience Required. 
    - [**Jenkins Migration Workshop:**](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2051) This workshop is a hands-on demo and guided lab showing moderate to advanced Jenkins/GitLab users how to convert both freestyle jobs and Jenkinsfiles in Jenkins into GitLab’s .gitlab-ci.yml format. 
 1. Identify if a workshop is currently planned that might support your needs. [Click here](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar) to view calendar of scheduled events.
