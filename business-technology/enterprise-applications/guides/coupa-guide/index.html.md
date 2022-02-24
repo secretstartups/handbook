@@ -458,6 +458,11 @@ Requesters can take certain actions to manage their orders.
 
 ![coupa-image-16](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa16.png)
 
+<br>
+Click [here](https://drive.google.com/file/d/1q3x_9OiYGQ04NvVEQiZqFCJqBQTOHwg6/view?usp=sharing) for a quick video showing how to request a Purchase Order change for an amount increase.
+
+<br>
+
 Under Activity > Orders, the requestor can click on **Supplier Print View** to print or re-send a Purchase Order to another email address of their choosing.
 {: .alert .alert-info}
 
