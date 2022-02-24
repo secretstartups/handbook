@@ -126,9 +126,9 @@ While submissions often come from Sales leadership, nominations can and should b
 
 ## Measurement
 Quantitative Success Metrics
-- Email open rate - Average open rate of 75% in 2022. 
-- Click rate - Average click rate of 35% in 2022.
-- Increased sentiment around information flow - 20% increase in "agree/strongly agree" responses to this survey question: "As a sales/CS team member, I feel informed on all critical information related to my role." in 2022.
+- Email open rate - Average open rate of 75% in FY23. 
+- Click rate - Average click rate of 35% in FY23.
+- Increased sentiment around information flow - 20% increase in "agree/strongly agree" responses to this survey question: "As a sales/CS team member, I feel informed on all critical information related to my role." in FY23.
 
 Qualitative Success Metrics
 - Increased engagement from field team members/leaders and stakeholders in regards to the newsletter – feedback, requests, suggestions, etc. 
@@ -136,5 +136,5 @@ Qualitative Success Metrics
 - Improve the Sales section of the Handbook as a result of work on the newsletter. 
 
 ## Past Newsletters
-All past editions of the Field Flash are accessible through [Highspot](https://gitlab.highspot.com/spots/615dd89c0d9b82c44eeab9c6), our go-to-market (GTM) content portal / asset management system.
+All past editions of the Field Flash are accessible through [Highspot](https://gitlab.highspot.com/spots/615dd89c0d9b82c44eeab9c6?list=62157017ca1f39f7122e49e6&overview=false), our go-to-market (GTM) content portal / asset management system.
 
