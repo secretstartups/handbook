@@ -165,8 +165,8 @@ The Deal Desk team will respond to E0A Ramp requests as quickly as possible. How
 
 | Subscription Term Start Date | First Response | Resolution |
 |----- | ----- | ------| 
-| < 30 days in the future | 4 Hours | 1 Business Day | 
-| > 30 days in the future| 4 Hours | 3 Business Days |
+| < 30 days in the future | 6 Hours | 1 Business Day | 
+| > 30 days in the future| 6 Hours | 3 Business Days |
 
 A Deal Desk team member will respond to your chatter request with an estimate on when the Order Form will be complete. Please let us know if your customer requires the quote in advance due to lengthy procurement cycles or budget planning reasons - exceptions will be considered in cases of urgency, or to meet a customer's needs.
 
