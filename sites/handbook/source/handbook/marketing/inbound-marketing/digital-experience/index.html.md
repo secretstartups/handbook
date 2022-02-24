@@ -85,21 +85,20 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
 
 | Team Member | Role | Contact Info |
 | ----------- | ---- | ------------ |
-| [**Michael Preuss**](/company/team/#mpreuss22) | Senior Manager, Digital Experience | - Email: [mpreuss@gitlab.com](mailto:mpreuss@gitlab.com)<br>- GitLab: [@mpreuss22](https://gitlab.com/mpreuss22)<br>- Slack: @mpreuss22<br>- ReadMe: [michael-preuss](/handbook/marketing/readmes/michael-preuss.html) |
+| [**Michael Preuss**](/company/team/#mpreuss22) | Director, Digital Experience | - Email: [mpreuss@gitlab.com](mailto:mpreuss@gitlab.com)<br>- GitLab: [@mpreuss22](https://gitlab.com/mpreuss22)<br>- Slack: @mpreuss22<br>- ReadMe: [michael-preuss](/handbook/marketing/readmes/michael-preuss.html) |
 | [**Lauren Barker**](/company/team/#laurenbarker) | Senior Fullstack Engineer | - Email: [lbarker@gitlab.com](mailto:lbarker@gitlab.com)<br>- GitLab: [@laurenbarker](https://gitlab.com/laurenbarker)<br>- Slack: @lbarker<br>- ReadMe: [lauren-barker](/handbook/marketing/readmes/lauren-barker.html) |
-| [**Nathan Dubord**](https://about.gitlab.com/company/team/#ndubord) | Senior Frontend Engineer | - Email: [ndubord@gitlab.com](mailto:ndubord@gitlab.com)<br>- GitLab: [@ndubord](https://gitlab.com/ndubord)<br>- Slack: @Nathan Dubord<br>- ReadMe: [nathan-dubord](/handbook/marketing/readmes/nathan-dubord.html) |
-| [**Jessica Halloran**](https://gitlab.com/jhalloran) | Senior Product Designer (UX) | - GitLab: [@jhalloran](https://gitlab.com/jhalloran)<br>- Slack: @jhalloran |
 | [**Tyler Williams**](https://about.gitlab.com/company/team/#tywilliams) | Senior Fullstack Engineer | - Email: [tywilliams@gitlab.com](mailto:tywilliams@gitlab.com)<br>- GitLab: [@tywilliams](https://gitlab.com/tywilliams)<br>- Slack: @Tyler Williams<br>- ReadMe: [tyler-williams](/handbook/marketing/readmes/tyler-williams.html) |
+| [**Mateo Penagos**](https://about.gitlab.com/company/team/#mpenagos-ext) | Senior Fullstack Engineer (Contract) | - GitLab: [@mpenagos-ext](https://gitlab.com/mpenagos-ext)<br>- Slack: @Mateo Penagos |
+| [**John Arias**](https://about.gitlab.com/company/team/#jariasc-ext) | Senior Fullstack Engineer (Contract) | - Email: [jariasc-ext@gitlab.com](mailto:jariasc-ext@gitlab.com)<br>- GitLab: [@jariasc-ext](https://gitlab.com/jariasc-ext)<br>- Slack: @John Arias |
+| [**Jessica Halloran**](https://gitlab.com/jhalloran) | Senior Product Designer (UX) | - GitLab: [@jhalloran](https://gitlab.com/jhalloran)<br>- Slack: @jhalloran |
+| [**Tina Lise Ng**](https://about.gitlab.com/company/team/#tng) | Product Designer (UX) | - GitLab: [@Tinaliseng](https://gitlab.com/Tinaliseng)<br>- Slack: @Tina Lise Ng |
+| [**Carrie Tsang**](https://gitlab.com/ctsang-ext) | Product Designer (Contract) | - Email: [ctsang-ext@gitlab.com](mailto:ctsang-ext@gitlab.com)<br>-  Slack: @ctsang-ext |
+| [**Nathan Dubord**](https://about.gitlab.com/company/team/#ndubord) | Senior Frontend Engineer | - Email: [ndubord@gitlab.com](mailto:ndubord@gitlab.com)<br>- GitLab: [@ndubord](https://gitlab.com/ndubord)<br>- Slack: @Nathan Dubord<br>- ReadMe: [nathan-dubord](/handbook/marketing/readmes/nathan-dubord.html) |
 | [**Laura Duggan**](https://about.gitlab.com/company/team/#lduggan) | Frontend Engineer | - Email: [lduggan@gitlab.com](mailto:lduggan@gitlab.com)<br>- GitLab: [@lduggan](https://gitlab.com/lduggan)<br>- Slack: @Laura Duggan<br>- ReadMe: [laura-duggan](/handbook/marketing/readmes/laura-duggan.html) |
 | [**Javier Garcia**](https://about.gitlab.com/company/team/#jgarc) | Frontend Engineer | - Email: [jgarcia@gitlab.com](mailto:jgarcia@gitlab.com)<br>- GitLab: [@jgarc](https://gitlab.com/jgarc257)<br>- Slack: @Javi |
 | [**Megan Filo**](https://about.gitlab.com/company/team/#meganfilo) | Frontend Engineer | - Email: [mfilo@gitlab.com](mailto:mfilo@gitlab.com)<br>- GitLab: [@meganfilo](https://gitlab.com/meganfilo)<br>- Slack: @Megan Filo<br>- ReadMe: [megan-filo](https://gitlab.com/meganfilo/meganfilo/-/blob/main/README.md) |
-| [**Tina Lise Ng**](https://about.gitlab.com/company/team/#tng) | Product Designer (UX) (Contract) | - GitLab: [@Tinaliseng](https://gitlab.com/Tinaliseng)<br>- Slack: @Tina Lise Ng |
-| [**Mateo Penagos**](https://about.gitlab.com/company/team/#mpenagos-ext) | Senior FullStack Engineer (Contract) | - GitLab: [@mpenagos-ext](https://gitlab.com/mpenagos-ext)<br>- Slack: @Mateo Penagos |
-| [**John Arias**](https://about.gitlab.com/company/team/#jariasc-ext) | Senior Fullstack Engineer (Contract) | - Email: [jariasc-ext@gitlab.com](mailto:jariasc-ext@gitlab.com)<br>- GitLab: [@jariasc-ext](https://gitlab.com/jariasc-ext)<br>- Slack: @John Arias |
-| [**Miguel Duque**](https://about.gitlab.com/company/team/#mduque-ext) | Frontend Engineer (Contract) | - Email: [mduque-ext@gitlab.com](mailto:mduque-ext@gitlab.com)<br>- GitLab: [@mduque-ext](https://gitlab.com/mduque-ext)<br>-  Slack: @Miguel Duque |
 | [**Daniel Vilchis**](https://about.gitlab.com/company/team/#dvilchis-ext) | Senior Frontend Engineer (Contract) | - Email: [dvilchis-ext@gitlab.com](mailto:dvilchis-ext@gitlab.com)<br>- GitLab: [@dvilchis-ext](https://gitlab.com/dvilchis-ext)<br>-  Slack: @Daniel Vilchis |
-| [**Stephanie Garrido**](https://about.gitlab.com/company/team/#sgarrido-ext) | Scrum Master (Contract) | - Email: [sgarrido-ext@gitlab.com](mailto:sgarrido-ext@gitlab.com)<br>- GitLab: [@sgarrido-ext](https://gitlab.com/sgarrido-ext)<br>-  Slack: @Stephanie Garrido |
-| [**Carrie Tsang**](https://gitlab.com/ctsang-ext) | Product Designer (Contract) | - Email: [ctsang-ext@gitlab.com](mailto:ctsang-ext@gitlab.com)<br>-  Slack: @ctsang-ext |
+| [**Miguel Duque**](https://about.gitlab.com/company/team/#mduque-ext) | Frontend Engineer (Contract) | - Email: [mduque-ext@gitlab.com](mailto:mduque-ext@gitlab.com)<br>- GitLab: [@mduque-ext](https://gitlab.com/mduque-ext)<br>-  Slack: @Miguel Duque |
 
 ## Metrics
 
