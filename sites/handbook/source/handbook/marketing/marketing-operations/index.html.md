@@ -78,16 +78,11 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 **Salesforce**
 
 The Marketing Operations team has created the '@mktgops-support' Chatter in Salesforce to help you make changes or manage Lead objects in Salesforce. Use the '@mktgops-support' Chatter for support with:
-
-Assigning/re-assigning leads to a new owner
-
-Merging duplicate leads
-
-Investigating routing logic
-
-Requesting additional lead support from the Marketing Operations team
-
-Please refrain from mention individual Marketing Ops team members when using this Chatter. Thank you!
+* Assigning/re-assigning leads to a new owner
+* Merging duplicate leads
+* Investigating routing logic
+* Requesting additional lead support from the Marketing Operations team
+* Please refrain from mention individual Marketing Ops team members when using this Chatter. Thank you!
 
 **Emergency Comms and Pager Duty**
 
@@ -485,6 +480,11 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 | Nurture | Record is not ready for our services or buying conversation now, possibly later |
 | Bad Data | Incorrect data - to potentially be researched to find correct data to contact by other means |
 | Web Portal Purchase | (Temporary, to be merged by RingLead) Used when lead/contact completed a purchase through self-serve channel & duplicate record exists |
+
+One of the following must occur to have a lead move from `Raw` to `Inquiry`
+1. Become a member of a marketing program (except no-action/default statuses, nor email)
+1. Fill out a form (social or website)
+1. [Behavior score](/handbook/marketing/marketing-operations/marketo/#behavior-scoring) > 10 pts.
 
 ## Data Cleanliness and Accuracy Process
 

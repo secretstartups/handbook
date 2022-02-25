@@ -12,7 +12,14 @@ description: "This page is a dedicated resource for the Conversica tool."
 
 Conversica is a Conversational AI tool that help enterprise marketing, sales, customer success, and finance teams attract, acquire and grow customers at scale across the customer revenue lifecycle. The AI Assitant works by engaging the prospect in a human like conversation over email in an effort to further qualify the prospect. 
 
-In keeping with our GitLab value of Transparency, our AI assitant is named "Free Trial Bot" and it is named as a virtual assitant. 
+In keeping with our GitLab value of Transparency, our AI assitant is named "Alex Taylor" and it's role is a virtual assitant. 
+
+## Conversica Training:
+
+[SDR GitLab Training](https://hello.chorus.ai/listen?guid=a5622598ccc144cf98384b1e1f4edb91)
+
+[Conversica Help Center](https://conversica.zendesk.com/hc/en-us)
+
 
 ## Conversica Rollout
 
@@ -24,7 +31,7 @@ While rolling out Conversica, we will be using a crawl/walk/run method.
 
 **Run**: We will be training all SDRs and rolling out to them. 
 
-## Conversica & Saleforce
+## Conversica & Salesforce
 
 We have installed a number of fields and a dashboard that will help you navigate the functaility of Conversica.
 
@@ -53,6 +60,12 @@ Below are the list of fields available on the Lead and Contact object that will 
 | Conversica Lead At Risk Date | Date/Time a Lead/Contact became a Conversica Lead At Risk |
 | Conversica Confirmed Phone 1 | If a new phone number is detected in a lead’s response, this field will be populated with the new number. |
 | Conversica Options | This field will allow you to change statuses- you can select stop, which will stop all contact from the AI Assitant or Skip To Follow Up, where Converisca will wait and few days and then follow up with the prospect |
+
+### Lead Views
+
+[Conversica - Accepted](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004yFgZ) : These leads have been messaged by Conversica and have moved to Accepted- no action needed yet. 
+[Conversica - Action Needed](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004yFgZ) : These leads have responded to Conversica and need an action by you.
+[Conversica - Please Review](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004yFgZ) : These leads have been moved to Nurture or Unqualifed, please review to ensure they are correctly place. 
 
 ### Salesforce Lead Management Status:
 

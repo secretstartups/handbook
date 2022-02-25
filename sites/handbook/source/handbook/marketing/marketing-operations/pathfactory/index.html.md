@@ -113,6 +113,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 1. [New PathFactory form request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_form)
 1. [PathFactory Content Audit](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_content_audit)
 1. [PathFactory Bulk Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_bulk_upload)
+1. [PathFactory Microsite Request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_microsite_request)
 
 **[Campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/)**
 
@@ -491,12 +492,9 @@ With Microsite builder you can:
 You can request a new microsite, or an update to an existing microsite via [this issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_microsite_request). 
 
 Microsite templates:
-| Use Case | Template Name in PathFactory |
-| ------ | ------ |
-| Resource center | TBA |
-| Event or webcast follow-up | TBA |
-| Personalized/co-branded content hub | `[Template] Partner Custom Microsite` |
-
+- Personalized/co-branded content hub: `[Template] Partner Custom Microsite` 
+- Resource center: TBA 
+- Event or webcast follow-up: TBA
 ## Explore Pages
 
 [Explore pages](https://nook.pathfactory.com/nook/s/article/getting-started-explore) allow your visitors to quickly view all content assets in a content track. Each explore page you create is built on top of an existing target or recommend content track.

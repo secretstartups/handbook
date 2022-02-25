@@ -27,12 +27,37 @@ When any lead/contact is created in SFDC, it will automatically sync and create 
 
 A lead will sync from Marketo to SFDC in these scenarios:
 1. Member of Program that is synced to SFDC
+1. When a person reaches `Inquiry` status
 2. When they reach `MQL` status and reach 100 points
 3. Specifically told to sync via a flow step `Sync to SFDC`
 
 When large updates are made to SFDC, they could cause a sync backlog back to Marketo. To check the backlog, go to [this page](https://app-ab13.marketo.com/supportTools/sfdcSyncStats) and select the object you want to review and click `Get Stats`. Marketo>SFDC is a push count, while SFDC>Marketo is considered Pull. You must be logged in to Marketo to view this information. Backlogs clear automatically, they are slower during working hours due to system usage (Marketo's user base, not just GitLab), but the sync speeds up off-hours and on weekends.
 
 Marketo also can create and edit SFDC campaigns. The `Active` checkbox must be checked in order for Marketo to be able to map to that campaign. [Go here for campaign set up directions](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
+
+## Multi-thread Sync
+
+To avoid or clear SFDC backlogs, multi-thread sync is availible to use in Marketo. It enables the use of multiple lanes of data flowing from SFDC to Marketo, greatly increasing the sync rate depending on the resources availible on the Marketo servers. Each record in Marketo is marked with a value between `1-9` on the field `Marketo Thread ID` based on the first letter of the email address. Records will be synced and distributed on threads based on the value of `Marketo Thread ID`.
+
+| Letter | Value |
+| ------ | ------ |
+| A B | 1 |
+| D E F | 2 |
+| G H I | 3 |
+| J K L | 4 | 
+| M N O | 5 |
+| P Q R | 6 | 
+| S T U | 7 |
+| V W X | 8 |
+| Y Z C | 9 |
+
+**NB: This feature is not always-on and only Marketo Support can enable it. A support ticket must be opened with 7 days before planning any massive updates from SFDC or at any time there is a significant backlog**
+
+#### Enabling Multi-Thread Sync
+To enable, you must [create an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-marketo-multithread) 7 days in advance with the Marketing Operations team and include the following, so that we can open the ticket with Marketo.
+1. Anticipated date of mass update
+1. Business impact
+1. Which field(s) are updating that will result in a backlog
 
 ### Sandbox
 We do have a sandbox to work in for Marketo. The sandbox is used for training, creation of API links and overall testing before we move to production. There is not a way to `promote` a program from the sandbox to Prod, so building programs in the sandbox first is not always required. Guidelines for when to build in the sandbox is TBD, but for custom API and webhook integrations, it is highly recommended.
@@ -115,7 +140,6 @@ All of the standardization smart campaigns are contained in:
 
 ## MQL and Lead Scoring
 A Marketing Qualified Lead is a lead that has reached a threshold of `100` points, based on demographic/firmographic and/or behavioral information. The [MQL Scoring](/handbook/marketing/marketing-operations/marketo/#scoring-model) is detailed below and is comprised of various actions and/or profile data that are weighted with positive or negative point values.
-When a `Person Score` changes it will be inserted into the routing flow. Using LeanData every time a `Person Score` is updated, [LeanData](/handbook/marketing/marketing-operations/leandata/#record-validation) will run a check to see if the record needs to be processed through the flow.
 
 ### Re-MQL
 
@@ -139,7 +163,7 @@ Follow the workflow mural to see the lead lifecycle. Notice you cannot go backwa
 </div>
 
 ### Scoring Model
-The lead scoring model is a 100 point system in order to MQL. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. Their `Person Score` is the sum of their `Behavior Score` and their `Demographic Score`. The `Person Score` must reach `100` in order to MQL.
+The lead scoring model is a 100 point system in order to MQL. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. Their `Person Score` is the sum of their `Behavior Score` and their `Demographic Score`. The `Person Score` must reach `100` in order to MQL, and their `Behavior Score` cannot be `0`.
 
 For account scoring, visit the [DemandBase page](/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/#scoring-accounts-in-demandbase).
 
@@ -399,7 +423,6 @@ The Field Marketing and Marketing Campaigns teams use targeted email lists as a 
 #### List Exports
 If you need a list export, please fill out an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request). If sharing externally, please follow [guidance](/handbook/engineering/security/security-assurance/security-risk/third-party-minimum-security-standards.html#guidance-to-sharing-data-externally) to help inform your request.
 
-If you need a list export, please fill out an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request). If sharing externally, please follow [guidance](handbook/engineering/security/security-assurance/field-security/third-party-minimum-security-standards.html#guidance-to-sharing-data-externally) to help inform your request.
 
 
 ## Marketo Sales Insight
