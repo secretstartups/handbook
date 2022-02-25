@@ -1082,7 +1082,9 @@ mvp:
     [scheduled pipelines](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/10133). Thanks Dosuken!
 ```
 
-Solicit MVP nominations in the [`#release-post`](https://gitlab.slack.com/messages/release-post) Slack channel by sharing a link to an issue for collaboration (example: [Release Post 13.6 MVP Nominations](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9647)). Cross-link the message from `#release-post` to Slack [#community-relations](https://gitlab.slack.com/archives/C0R04UMT9), [`#mr-coaching`](https://gitlab.slack.com/messages/mr-coaching) and [`#core`](https://gitlab.slack.com/messages/core) channels. Add candidates to the MVP Nominations issue as soon as you see a contribution or a set of contributions that you think are great and should be taken into consideration for selection. Every GitLab team-member and core team member is encouraged to add suggestions to the MVP Nominations issue with a link to the contributor's issue and merge request.
+Solicit MVP nominations in the [`#release-post`](https://gitlab.slack.com/messages/release-post) Slack channel by sharing a link to an issue for collaboration (example: [Release Post 13.6 MVP Nominations](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9647)). **Cross-link the message from `#release-post` to Slack [#community-relations](https://gitlab.slack.com/archives/C0R04UMT9), [`#mr-coaching`](https://gitlab.slack.com/messages/mr-coaching) and [`#core`](https://gitlab.slack.com/messages/core) channels to maximize contributions.**
+
+Add candidates to the MVP Nominations issue as soon as you see a contribution or a set of contributions that you think are great and should be taken into consideration for selection. Every GitLab team-member and core team member is encouraged to add suggestions to the MVP Nominations issue with a link to the contributor's issue and merge request.
 
 Based on this discussion, the Release Post Manager will make a decision. They should not wait for consensus. There can only be one MVP.
 
