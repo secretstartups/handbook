@@ -114,4 +114,4 @@ The following are books suggested by GitLab team members in the [#women Slack ch
 ## Additional Resources
 
 ### Women TMRG logo 
-Download the [GitLab Women TMRG logo her](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/gitlab-brand-files/gitlab-logo-files/global-diversity-inclusion/full-color/png/di-women-logo-rgb.png).
+Download the [GitLab Women TMRG logo here](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/gitlab-brand-files/gitlab-logo-files/global-diversity-inclusion/full-color/png/di-women-logo-rgb.png).
