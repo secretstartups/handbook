@@ -24,7 +24,6 @@ For reference, here are the things that you typically need to do in the first 10
 1. [Determine what action is required](#when-cmoc-is-asked-to-take-action) and do it:
     - [Create status.io incident](#2-create-the-incident)
     - [Contact request](#contacting-a-user)
-1. Generally any S1 and when status.io incident is created, [notify stakeholders](#3-notify-stakeholders).
 1. Check for related tickets in ZenDesk. If there are multiple tickets, [create a tag](#tagging-tickets) and post in `#support_gitlab-com` to notify the team.
 
 Everything else you need to do including [how often to update the status page](#frequency-of-updates) is detailed in the workflow.
@@ -37,7 +36,7 @@ Before getting started, take note of the following sections.
 
 Infrastructure uses [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) to [declare incidents through Slack](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident). Doing so will:
 
-1. Automatically page the EOC, IMOC, and CMOC.
+1. Automatically page the EOC, Incident Manager, and CMOC.
 1. Create an issue for the incident in the [Production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/) issue tracker.
 1. Provide a link to the Zoom call for the incident.
 1. Create a dedicated Slack channel for the incident.
@@ -73,7 +72,7 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 - _Some users are reporting connection issues to GitLab.com, we're working on it in: link_
 - Craft a draft of what you think is correct. Whenever possible use ["I intend to..." language](https://www.youtube.com/watch?v=7KnPjakwqeI) when communicating with the Incident Manager and EOCs:
 
-  - _@IMOC - I'm going to post: "We've isolated the network problem to the APAC region and are working with Cloudflare support to get it resolved_.
+  - _@IM - I'm going to post: "We've isolated the network problem to the APAC region and are working with Cloudflare support to get it resolved_.
   - _"In my next update I'm going to move the status to monitoring"_
 - Bias to action - you can post another update if there was an error in your last update.
 
@@ -119,7 +118,7 @@ Whether related to an ongoing incident or not, Infrastructure or Security may as
 
 As the CMOC you'll guide the incident through the following three stages.
 
-1. Stage 1: **Incident Creation** - Creating the incident in Status.io, joining the incident Zoom call, and [notifying the E-Group](#3-notify-stakeholders).
+1. Stage 1: **Incident Creation** - Creating the incident in Status.io, joining the incident Zoom call, and [notifying stakeholders](#3-notify-stakeholders).
 1. Stage 2: **Incident Updates** - Following along with the work being performed by the EOC and any assisting engineers to resolve the incident and making updates to Status.io along the way while adhering to the [Frequency of Updates](#frequency-of-updates) schedule. We may also be going through the Zendesk queue replying to incident tickets and tagging them.
 1. Stage 3: **Incident Resolution** - Setting the incident to **Monitoring** in Status.io for a period of time to ensure that the issue does not recur before we close it out, eventually setting the incident to **Resolved**, and adding a link to the post-mortem issue in Status.io. In certain cases we may be asked to skip the monitoring period and move straight to **Resolved**.
 
@@ -206,7 +205,7 @@ Change the following values:
 
 #### 3. Notify Stakeholders
 
-Once the severity of the incident has been set and it has been posted to our status page, the CMOC should notify internal stakeholders using the Incident Notifier app in Slack. This should be done any time there is a public post on the status page, regardless of the severity of the incident.
+The CMOC should notify internal stakeholders using the Incident Notifier app in Slack after the severity has been confirmed by the Incident Manager. This should be done any time there is a public post on the status page, regardless of the severity of the incident.
 
 The Incident Notifier app prompts you to fill out a form and then posts its contents automatically to a direct message to the submitter along with the `#community-relations` and `#customer-success` channels, notifying them of the incident. To engage it:
 
@@ -217,15 +216,7 @@ shadow}
 
 1. Fill in all of the details.
 1. Click `Submit`
-1. Copy the contents of the form that are direct messaged to you by Slackbot and paste them in a message to `#e-group`.
-1. Start a thread off of your initial message and provide updates to the incident after making them to the status page.
 
-> **Note**: You are not required to post updates to the Incident Notifier posts made to Slack channels other than `#e-group`.
-
-This process should be followed when all of the following are true:
-
-- CMOC escalation to an incident has occurred
-- Public notification is occurring or the Incident Manager has determined the incident requires E-Group notification.
 
 #### 4. Label the GitLab Incident Issue
 
@@ -236,13 +227,6 @@ Whenever a GitLab service incident includes the use of a status page incident th
 1. Add the `~Incident-Comms::Status-Page` scoped label to the incident issue.
 
 ### Stage 2: **Incident Updates**
-
-When updating incidents, there are 2 actions to take:
-
-1. Update the incident.
-1. Update the `#e-group` Slack thread if the update is material in nature.
-
-#### 1. Update the incident
 
 To update an active incident, click the incidents icon from the dashboard.
 
@@ -268,19 +252,12 @@ Make sure to [verify](https://wordcounter.net/character-count) the update length
 
 After publishing the update, visit the live status page to verify that the update went through and looks clear.
 
-#### 2. Update the E-Group
-
-1. When the update would help keep the e-group informed of progress, copy/paste the update in to the `#e-group` Slack thread that was created in Stage 1.
-
-It is not always necessary to perform this step.  The goal is to equip the e-group with information that allows them to know approximately where we are in the process of resolving the incident. For example, "no material update" type messages do NOT need to be shared on the e-group incident thread.
-
 ### Stage 3: **Incident Resolution**
 
 When it comes time to close an incident out as resolved, the following flow is usually used.
 
 1. Switch to a monitoring state for a time.
 1. Resolve the incident.
-1. Notify the E-Group that the incident is resolved.
 1. Add a link to the production issue to the post-mortem section of the incident.
 
 As noted in the specific sections below, some of these steps are situational and may not be used for every incident.
@@ -316,10 +293,6 @@ Once these conditions are met, make an update to the incident and change the fol
 Before resolving the incident your draft should look similar to the following:
 
 ![Resolve incident](/images/support/cmoc_resolve_incident.png){: .shadow}
-
-#### 3. Notify E-Group of Resolution
-
-After the incident has been resolved on the status page, edit the message you sent to `#e-group` and provide a final update that the incident has been resolved. If you're resolving an incident that was created by another CMOC, post this message in a thread instead and react to the post with the `:white_check_mark:` emoji.
 
 #### Add Post-Mortem
 
