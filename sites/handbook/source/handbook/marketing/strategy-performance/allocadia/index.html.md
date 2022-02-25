@@ -106,7 +106,7 @@ This button can be used to request funds from another department. Specific appro
 For common vendors, it's important to note that you must use the same upper and lower case terminology, as well as spacing to conform to a standard naming convention if you're trying to have the line items pull under the same vendor in any vendor report. A best practice is to visit the vendor's website and use their exact naming convention. Examples of common vendors we use and how they should be written out for reporting:
 
 1. Demandbase
-1. SimplyDIRECT
+1. SimplyDirect
 1. Tenandone
 1. Reachdesk
 
@@ -156,7 +156,6 @@ Any line items within a category or subcategory default inherit the details from
 ##### Useful tricks inside the Activity Grid 
 1. Do you find yourself wanting to copy & paste a line item from a diffent activity plan into your activity plan? If so, then you will need to (right click) Copy/Paste the line item within the same activity plan, and then use the right-click "Move" option to move the line item copy to the correct activity plan. Within the Field Marketing team, we ask FMMs to transfer dollars to the ALL plans for shared activity, vs. having multiple line items for the same activity in multiple activity plans. Those instructions can be [found here](/handbook/marketing/field-marketing/#the-field-marketing-budget) pt. 12. 
 
-
 #### 🗓 GitLab Internal Calendars
 
 Certain groups within GitLab have the ability to create a calendar invite directly from the details panel within Allocadia.
@@ -188,17 +187,17 @@ Here is a [quick video walk through](https://youtu.be/xa8OpqMDrJw) to show you h
 
 #### Impact Modeller 
 
-Today our Field Marketing team is the only team using this function. If you are interested in having this added to your view please open [this issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for Marketing Strat & Performance.
+Today our Field Marketing team is the only team using this function. If you are interested in having this added to your view please open [this issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) for Marketing Ops.
 
-We have loaded the past two fiscal years worth of influenced conversion data from campaigns run by field marketing for both the MQL>SAO conversion rates as well as SAO>Closed Won data. We have loaded two FY worth of data to get to these conversion rates given how different our campaigns types were in FY21 due to the pandemic.
+We have loaded the previous fiscal years worth of influenced conversion data from campaigns run by field marketing for both the MQL>SAO conversion rates as well as SAO>Closed Won data. 
 
-If a region did not have a conversion rate for the campaign type (likely because the region did not run that campaign), then the global conversion rate was used. Also, because our MQLs can "skip" MQL status (meaning an SDR can work a lead BEFORE its actually hit our MQL scoring threshold), we used the `MQL Inferred Date` field to assume MQLs.
+If a region did not have a conversion rate for the campaign type (likely because the region did not run that campaign), then the global conversion rate was used. Also, because our MQLs can "skip" MQL status (meaning an SDR can work a lead BEFORE its actually hit our MQL scoring threshold), we used the `MQL Inferred Date` field to assume MQLs. We took a snap shot in time data, but the below widgets can be referenced 
 
-Live MQL>SAO regional data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400216&udv=991807) and live SAO>Won data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400418&udv=991807). These charts will be added to the FMM Dashboard in a future iteration.
+Live MQL>SAO regional data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400216&udv=991807) and live SAO>Won data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400418&udv=991807).
 
 The average deal size by campaign by region can be found [here](https://app.periscopedata.com/app/gitlab/823916/Field-Marketing-Metrics?widget=11036333&udv=1250443) (you'll have to refer back to dashboard to change the region if you want to see a specific regions data) are also loaded for calculation purposes. If there were less than 3 closed deals then we did NOT use that deal size information, but relied on the ASP from the TOPO model to fulfill that deal size.
 
-A calculation is then done by then taking into account the MQLs, region, segment data and campaign type that has been given at the line item level in the details panel.
+A calculation is then done by then taking into account the MQLs, region, segment data and campaign type (specifically the GitLab Issue type) that has been given at the line item level in the details panel.
 
 [Video walk through](https://youtu.be/bBLiwdpd5iY) (and yes, you know you need to be logged into Unfiltered to see! ;))
 
@@ -269,23 +268,25 @@ Allocadia comes with a lot of standard fields & definitions associated with thos
 ## Integrations (behind the scenes)
 
 ### GitLab Field Marketing issues 
-An efficiency we are able to gain by using Allocaida is that we create a GitLab issue and can push information gathered in the details panel directly to that issue. This saves the marketer time in not having to reenter information which has already been entered. 
+An efficiency we are able to gain by using Allocaida is that we create a GitLab issue and can push information gathered in the details panel directly to that issue. This saves the Field Marketer time in not having to reenter information which has already been entered. 
 
 #### How to create a FMM issue from within Allocadia 
-All FMM issues are created at the `SUB CATEGORY` level. 
+1. Create a sub-category and fill in all information in the details panel 
+1. Add AT LEAST 1 line item 
+1. Go back up to the sub-category details panel and scroll all the way down to the `Actions` section where you will see a button called GitLab issue - click that - and 💥 - your issue is created 
 
-By creating the FMM issue at the sub category level, this still allows the marketer flexibility in terms of how they want to strucure their activity plan. 
+[Video walk through on GitLab unfiltered.](https://youtu.be/EsGlPNeH2P4) 
 
-Another way to think about this is that everything under the sub category should align to the same campaign name to be created. 
+By creating the FMM issue at the sub category level, this still allows the marketer flexibility in terms of how they want to strucure their activity plan. Another way to think about this is that everything under the sub category should align to the same campaign name to be created. 
 
-This functionality is in the process of being built out, so more details will be added as soon we have more information!  
+Please be mindful of where you are creating a sub-category. The system will allow you to create a sub-category within a sub-category, and you will realize this because upon creation of the what you believe to be a new sub category, you will notice the details panel is already filled in. Do NOT go through and start changing out the data in the details panel, as you are only allowed to create one FMM issue within the sub-category. What you’ll need to do is delete the newly already filled in sub-category and then ensure youre in the category level and create a new sub-category. 
+
+##### Date/Name changes 
+Should a date on a campaign need to change and the issue has already been created, you can systematically change the date & name. In order to do so, all changes must be made in Allocadia and then overnight will push the change to the GitLab FMM issue. Should you want to manually change both the issue AND Allocadia, you should feel empowered to do so. The automation is there to help you. 
 
 #### FM issues that can be created from Allocadia
 
-1. TBD on if we add all templates here 
-1. 
-1. 
-1. 
+1. Details on which issue templates can be created out of Allocadia can be found here. 
 
 #### Making changes to the Field Marketing issues
 
@@ -302,6 +303,9 @@ As mentioned above, there is a listing of available FY23 SFDC campaigns to choos
 In addition, we will be sending over planned amounts into the SFDC Campaign Budget field and actuals will synch nightly. This ONLY happens if the connection is there by having a campaign selected in the `Existing SFDC Campaign` field. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget, since we use the Allocadia sub-category ID to sync Allocadia to the SFDC campaign. 
 
 Full detailed instructions on how to set this synch up, which does have to be done campaign by campaign, can be [found here](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
+
+#### Influenced MQLs 
+If entereed in, the MQLs entered used in the impact modeller will be pushed to the SFDC campaign to a field called `Total Planned MQL` in the planning section of the campaign.  That data can then be pushed from SFDC into the company's BI tool and displayed on the SFDC attribtuion reporting so we can understand how good we are at forecasting MQL impact. 
 
 #### Drop down in details panel 
 If you need to add a new value to the drop down selector options, in order for the new options to properly pulled through to SFDC correctly, you need to be sure the new drop down value has been added to Allocadia and SFDC. Once that's been done, test the systems and you should be good to go! 
