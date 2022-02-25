@@ -25,8 +25,15 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
       - [Background info](https://gitlab.edcast.com/pathways/tam-building-success-plans/cards/922704)
       - This roleplay is part of the "TAM Building Success Plans" EdCast course
 - [Stage expansion](https://about.gitlab.com/handbook/customer-success/tam/stage-enablement-and-expansion/)
-   - TODO build scenario and roles
+   - Secure
+      - [Customer info sheet](https://docs.google.com/document/d/1F1nMI42KaYR_NRWvH2fodtIaPDgYdNBt4h0VQ35uO_8/edit#heading=h.fk9zhpvfaoqp)
+      - [TAM info sheet](https://docs.google.com/document/d/1ol-AV5LyQui_Lnfmw-qK_MRER1IFxT8TQLL3EANxURk/edit)
+   - Verify
+      - [Customer info sheet](https://docs.google.com/document/d/1Fug5zPRWq7d4uI_LB9tbOpAlc6LyvFni8r1vso5v4zU/edit#heading=h.33lge147o998)
+      - [TAM info sheet](https://docs.google.com/document/d/1qANBR2mO7SiGxfcT67QgR3R3TZ2R1kM5EOPgjCmaEFg/edit)
 - Booking an [EBR](https://about.gitlab.com/handbook/customer-success/tam/ebr/)
+   - [Customer info sheet](https://docs.google.com/document/d/1XLtbKE86DjrDizUhIn7PNgBrZ6YEtxyLHWqP8L7cVQg/edit#heading=h.xo4jqesngott)
+   - [TAM info sheet](https://docs.google.com/document/d/1Mf1DoEDIZa7bq0eK02gPo3jy1YF0bEgbgbJYQlZf3Qc/edit#)
 - [Onboarding](https://about.gitlab.com/handbook/customer-success/tam/onboarding/)/customer kickoffs
    - Kickoff
       - [Rubric](https://docs.google.com/forms/d/e/1FAIpQLSeZgqf6cU0rR0wvoOneGGh0jNaC0PXCzN5TEf_IBbBn80VxfQ/viewform)
