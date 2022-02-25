@@ -23,6 +23,7 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 1. Notify in the #mktgops Slack channel
 1. If there is not a timely response in Slack, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
 1. In the template the requesting team will include details including CTA, email body, send date and **provide link to Google sheet containing list**. 
+1. If security, make sure to follow [instructions](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html#roles-and-responsibilities-in-a-security-incident)
 
 ## Roles and responsibilities
 
@@ -39,7 +40,7 @@ At times GitLab needs to communicate a "breaking" change or details related to a
       * Creating [Landing Page request issue (if necessary)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=marketo_landing_page_request)
 * Providing approval list and who signs off on the email
     * Legal, Customer Service VP and VP of the function who is initiating the communication (i.e., Security, Engineering, Infrastructure) are required to sign off
-* Notifying affected field teams (Customer Success, TAM, SAL/AE, SA, Professional Services)
+* [Notifying affected field teams](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html#communicating-internally) (Customer Success, TAM, SAL/AE, SA, Professional Services)
    * Also make sure to notify #sales and #customer-success before email is set to go out
 * Approving test email 
 * Providing any edits to the test email
@@ -63,7 +64,7 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 * Coordinating SDR routing needs with Marketing Ops
 
 ## Standard process
-This is the process to follow when there is an announcement that is an emergency that will need to be sent by the marketing ops and campaigns team. The marketing teams will determine what platform will be used based on the information that is provided to them such as timing, list size and severity.
+This is the process to follow when there is an announcement that is an emergency that will need to be sent by the marketing ops team. The marketing ops team will determine what platform will be used based on the information that is provided to them such as timing, list size and severity.
 
 1. **Requesting team notifies that an emergency communication is needed**
 - Immediately slack #mktgops and include the incident issue and the incident slack channel. If there is not a prompt response, follow on-call procedures.
@@ -72,14 +73,14 @@ This is the process to follow when there is an announcement that is an emergency
  - Request issue utlizing [Incident Communications template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications) in the Marketing Operations project.
 - Fill in as many blanks as you can with as much information as you have available - the issue template will walk you through what is needed. Feel free to add any additional context that may be helpful. If you do not have all the information, that is OK, as we know it is an ongoing development. 
 - Add Due Date (or best guess)
-- Include googlesheet of copy document, even if it is blank.
+- Include googlesheet of copy document, even if it is blank. Use [this template](https://docs.google.com/document/d/1J_prQ8rXRqEcPWxKd1YH4ANGP5UjMPoAfnjpY8ty0XE/edit)
 - Include approx size of the list - this will determine what email platform we will use and helps immensely in our planning. Over estimate when you are unsure.
 - If you are requesting a list, create an [issue](https://gitlab.com/gitlab-data/analytics/-/issues/new) with the data team and relate it to the issue you just created. 
 - Include any custom fields you need created for `mail-merge` in the email. Include field max lengths needed, or best guess. Mktops will determine if they can use an existing field or not.
 - Note if the links should not be trackable. (For Security alert types only)
 
 3. **Issue in Process**
-- Marketing team will work closely with you to develop a communication plan and cadence. Please continue to addinformation as you receive it and over communicate with us via slack/issue/carrier pigeon!
+- Marketing team will work closely with you to develop a communication plan and cadence. Please continue to addinformation as you receive it and over communicate with us via slack/issue.
 - List size and complexity will determine what [email platform](/handbook/marketing/emergency-response/#email-platform-to-use) we will need to use. 
 
 4. **Approvals**
@@ -139,7 +140,7 @@ The email platform determines many different factors for us.
 {: #customer-comms-email .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-This section should be used for all customer communications to communicate product or security issues and risks. At minimum, these communications need to be approved in sequence by the head of the department that is leading the communication (e.g., Product, Engineering, Security), Vice President of Customer Success, Legal, or appropriate designates (if they are out on PTO or unavailable).
+This section should be used for all customer communications to communicate product or security issues and risk. At minimum, these communications need to be approved in sequence by the head of the department that is leading the communication (e.g., Product, Engineering, Security), Vice President of Customer Success, Legal, or appropriate designates (if they are out on PTO or unavailable).
 
 ### Recommended format for customer emails
 The following is the recommended format for ad hoc customer emails though tailor it if the communication objective or content requires this. This does not include marketing (e.g., email campaigns, blogs, etc.) or standard product or security notifications (e.g., release blogs, release notifications, etc.). Emails should be clear, crisp, and direct, providing links for details (e.g., details on the issue or risk, procedural details to action). To [maximize reading comprehension](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1709943), remove all extraneous words and language to maximize the probability the email will be read and acted upon. 
