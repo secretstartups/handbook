@@ -365,15 +365,18 @@ Each team member who receives an update during the Annual Compensation Review cy
 
 The promotion and annual compensation review budget is separate and calculated based on the following conditions:
 
-1. Promotion Budget
-  * Assume 12% of the team is promoted with an average of a 10% increase to OTE.
-  * Departments will be allocated 3% of their 12% budget on a quarterly basis, aligned with our [quarterly promotion cadence](/handbook/people-group/promotions-transfers/#promotions-process--timeline).
+### Promotion Budget
+  * Promotion budget is calculated assuming that 12% of the team is promoted with an average of a 10% increase to OTE for the population as of Oct 31st of the prior fiscal year. More details on the philosophy behind this calculation can be found [here](/handbook/people-group/promotions-transfers/#promotion-compensation-guidelines).
+  * Divisions will be allocated an annualized budget on a quarterly basis, aligned with our [quarterly promotion cadence](/handbook/people-group/promotions-transfers/#promotions-process--timeline).
   * If promotion budget is not used for any given quarter, **it will not rollover to future quarters**. 
-  * In the case where more than or less than 3% promotion is projected for any given quarter, your Finance Business Partner can review the possibility of identifying tradeoffs for unused or surplus promotion budget. Finance requires a minimum of two weeks notice ahead of the commencement of the next quarter to review this possibility. For example, as Q2 begins May 1, the final date to confirm a repurpose budget rollover request would be April 15. _Note: This is not a guarantee, but something leaders can explore with their Finance Business Partner._
-1. Annual Compensation Review Budget
+  * In the case where more than or less than the given budget is projected for any given quarter, please follow the following process to review the possibility of identifying tradeoffs for unused or surplus promotion budget. 
+  1. Work with your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to share promotion projections with Total Rewards for an initial analysis. 
+  2. Work with your Finance Business Partner to identify potential tradeoffs. Finance requires a minimum of two weeks notice ahead of the commencement of the next quarter to review this possibility. For example, as Q2 begins May 1, the final date to confirm a repurpose budget rollover request would be April 15. _Note: This is not a guarantee, but something leaders can explore with their Finance Business Partner._
+
+### Annual Compensation Review Budget
   * 6% of those who were not promoted. Therefore 6% of 88% of the population.
   * The annual compensation review budget is held by each e-group leader. The leader can allocate budget however appropriate within their division, but cannot move funds to another division.
-  * The budget for [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above is managed by the Compensation Group internally to GitLab, and approved by the Compensation Committee at the Board level.
+  * The budget for [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above is managed by the Compensation Group internally to GitLab.
 1. Relocation Budget
   * Relocations are not considered in the budget. Theoretically throughout the year, there would be a net zero from those moving to higher-cost and lower-cost regions.
 1. Budgets _cannot_ be transferred to a different division.
