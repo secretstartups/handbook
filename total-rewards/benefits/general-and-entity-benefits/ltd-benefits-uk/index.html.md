@@ -96,6 +96,8 @@ Please reach out to Total Rewards for information on how to apply for Income Pro
 
 GitLab provides and contributes into an Auto-Enrollment personal pension scheme with [Scottish Widows](http://www.scottishwidows.co.uk/retirement/retirement-explained/basics/auto-enrolment/). GitLab is also working with [Oakley Financial](http://www.oakleyfinancial.com/) who are able to provide help and guidance should employees have any questions about the pension scheme. An email and telephone service is available and you can find the details in the [contacts](#contacts) section.
 
+Please refer to the the [Company Pension Plan FAQ](https://drive.google.com/file/d/1BEADGm7sUbroEkxzGvB-DBIhMIbbLG46/view?usp=sharing) for additional information on the plan. Please note that all eligible team members will be auto-enrolled in the scheme. 
+
 ### Salary Sacrifice
 
 From November 2019 GitLab will be offering the option to contribute to your Company Pension Scheme via Salary Exchange. As part of this Salary Exchange offering GitLab will be passing on their employer NI saving to you as an employee in the form of an increased pension contribution. You can find more information in the following [document](https://drive.google.com/file/d/1raP4uLizlTIBxZBX7q0h-op9yhWFVOYT/view?usp=sharing) detailing the benefits and potential disadvantages of changing to a Salary Exchange arrangement.
