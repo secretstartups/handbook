@@ -134,7 +134,7 @@ Scheduling a virtual meeting allows you to set the meeting length and invite a l
 
 ### What are the challenges of a remote meeting?
 
-You are not expected to be available all the time, but there may be times you will need to flex your schedule to schedule or attend a meeting with someone from another timze zone outside of your typical working hours. Most remote-meeting challenges fall under two categories:
+You are not expected to be available all the time, but there may be times you will need to flex your schedule to schedule or attend a meeting with someone from another time zone outside of your typical working hours. Most remote-meeting challenges fall under two categories:
 
 1. trouble with technology
 1. communication complications
