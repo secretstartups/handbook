@@ -195,11 +195,15 @@ See [Justification section in offer packages](/handbook/hiring/offers/#justifica
 
 ### **Step 9: Offer Approval**
 
-Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. The Recruiter will ensure the offer is routed for approval. Please note, with the use of Guide, candidates will be made aware when they are moved into Offer stage so move stages with caution.
+Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. The Recruiter will ensure the offer is routed for approval.
 
 If the candidate for the position is internal, you should wait until you've presented an offer to merge the applicants' profiles. Please visit the [People Technology and Operations page](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/#system-processes) for instructions. 
 
 If there are any special circumstances regarding a known relocation for the candidate, this information should be included in the Compensation Details. Details should include originating location and salary, as well as the new location and new salary details to ensure it is communicated as part of the approval.
+
+If your candidate is located in Italy, there will be additional fields for you to fill out in Greenhouse. You will need to know the job level of the current role you're offering and their most recent role, which may be the one they're in today. The image below can be a helpful tool to determining both, but please contact the Legal or Enablement teams if you're unsure. 
+![Job Levels for Italy](/images/talent_acquisition/Job Level_Italy.png)
+
 
 
 ### **Step 10: Verbal Offer**
