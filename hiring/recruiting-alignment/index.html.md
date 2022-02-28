@@ -10,15 +10,15 @@ description: "This page is an overview of the search team alignment and the tale
 |--------------------------|-----------------|-----------------|-------------------------------------|
 | Executive          | Rich Kahn   | Chriz Cruz | Ale Ayala |
 | Enterprise Sales, NA | Kevin Rodrigues |  N/A | Hannah Stewart |
-| Enterprise Sales, EMEA | Debbie Harris |  Kanwal Matharu | Lerato Thipe |
-| Enterprise Sales, APAC | Debbie Harris |  Kanwal Matharu | Lerato Thipe |
+| Enterprise Sales, EMEA | Debbie Harris & Kanwal Matharu |  TBH | Lerato Thipe |
+| Enterprise Sales, APAC | Debbie Harris |  TBH | Lerato Thipe |
 | Commercial Sales,	AMER | Marcus Carter & Shannan Farmer | TBH  | Hannah Stewart |
-| Commercial Sales,	EMEA/APAC | Ben Cowdry | Kanwal Matharu  | Lerato Thipe |
-| Channel Sales, Global | Debbie Harris |  Kanwal Matharu | Lerato Thipe |
+| Commercial Sales,	EMEA/APAC | Ben Cowdry | TBH  | Lerato Thipe |
+| Channel Sales, Global | Debbie Harris & Kanwal Matharu |  TBH | Lerato Thipe |
 | Field Operations,	Global | Kelsey Hart | Loredana Iluca | Hannah Stewart |
 | Customer Success, EMEA | Joanna Muttiah | Loredana Iluca | Lerato Thipe |
 | Customer Success, APAC | Joanna Muttiah | Loredana Iluca | Lerato Thipe |
-| Customer Success, NA | Kevin Rodrigues | Loredana Iluca | Hannah Stewart |
+| Customer Success, NA | Barbara Dinoff | Loredana Iluca | Hannah Stewart |
 | Marketing, Global | Steph Sarff   | Alina Moise | Davie Soomalelagi |
 | Marketing, SDR Global | Tony Tsiras | Tony Tsiras| Davie Soomalelagi |
 | G&A, Finance, People, CEO | Maria Gore | Alina Moise | Davie Soomalelagi |
