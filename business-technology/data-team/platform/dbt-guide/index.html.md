@@ -192,6 +192,10 @@ dbt specific:
 - `cycle_logs` - a function we've added to your computer to clear out the dbt logs (not accessible from within the docker container)
 - `make dbt-docs` - a command that will spin up a local container to serve you the `dbt` docs in a web-browser, found at `localhost:8081`
 
+##### SQLFluff linter
+
+We use SQLFluff to enforce [SQL style guide](/handbook/business-technology/data-team/platform/sql-style-guide/) on our code. To have the SQLFluff in the DBT venv you will have to rebuild it. The make prepare-dbt or more specifically the pipenv install from within that command will install the correct version of the tool into the venv. If you have done that and it is not working you can try a direct install of version 0.9.3 using the pip installer. 
+
 ### Configuration for contributing to dbt project
 
 If you're interested in contributing to dbt, here's our recommended way of setting up your local environment to make it easy.

@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "SQL Style Guide"
-description: "Since we don't have a linter, it is our collective responsibility to enforce this SQL Style Guide"
+description: "A set of conventions and guidelines for writing SQL at GitLab"
 ---
 
 ## On this page
@@ -14,295 +14,310 @@ description: "Since we don't have a linter, it is our collective responsibility 
 
 ## SQL Style Guide
 
-**Since we don't have a linter, it is _our collective responsibility_ to enforce this Style Guide.**
+This guide establishes our standards for SQL and are enforced by the SQLFluff linter and by code review. The target code changes that this stile guide apply to are those made using dbt. 
 
-### Field Naming and Reference Conventions
+If you are not on the Data Team or you are developing SQL outside of dbt, keep in mind that the linting tools may be more difficult to apply, but you are welcome to follow the guidance given within this guide.
 
-- Field names should all be lowercased.
+### Usage
 
-- An `id`, `name`, or generally ambiguous value such as `type` should always be prefixed by what it is identifying or naming
+We expect that people will use the style presented in this guide during there development. Enforcement is still expected to happen at the time of review as the CI pipeline is only run manually. At a latter date the pipeline will run with every change and eventually set to be mandatory for the pipeline to pass.
+
+The previous style guide used a mixed indentation style that the linter does not support so every model will likely fail the first time it is checked. The intention is that models will be updated to the new style as they are worked on normally as not all of the rules can automatically enforced (such as explicit column aliasing). The intention of working updating them in the course of other development is to keep the changes manageable.
+
+### SLQFluff
+
+SQLFLuff is a SQL linter that works with templating tools like dbt. We use it to define the basic structure and style of the SQL that we write and move the review of that structure and style into the hands of the authors. SQLFluff is included within the dbt development environment and it uses the dbt templating engine during the linting process. It can be used with the following command:
+
+```console
+$ sqlfluff lint models/path/to/file/file-to-lint.sql
+```
+
+A dbt command can also be used to get a list of files to lint:
+
+```console
+$ sqlfluff lint $(dbt list --model model_name --output path)
+```
+
+If you are writing SQL that is not templated using dbt then you can install and use SQLFluff directly as it is a stand alone python package.
+
+```console
+$ pip install sqlfluff
+$ sqlfluff lint path/to/file/file-to-lint.sql
+```
+
+SQLFluff includes a `fix` command that will apply fixes to rule violations when possible. Not all rule violations are automatically fixable; therefore, you are encouraged to run the `lint` command after using the `fix` command to ensure that all rule violations have been resolved.
+
+- [SQLFluff Documentation](https://docs.sqlfluff.com/en/latest/index.html)
+- [SQLFluff Default configuration](https://docs.sqlfluff.com/en/latest/configuration.html#default-configuration)
+
+#### Changes from the default configuration
+
+- selecting the dialect to snowflake
+- selecting the templater to be dbt
+- selecting the tab size to be 2 spaces
+- selecting the max line length to be 100
+- selecting Key words and Functions to always be upper case
+
+The configuration file that the Data Team uses can be found in the [GitLab Data Team repository](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/.sqlfluff).
+
+
+### General Guidance
+
+- Do not optimize for fewer lines of code, new lines are cheap but [brain time is expensive](https://blog.getdbt.com/write-better-sql-a-defense-of-group-by-1/).
+
+- Familiarize yourself with [the DRY Principal](https://docs.getdbt.com/docs/design-patterns). Leverage CTEs, jinja and macros in dbt, and snippets in Sisense. If you type the same line twice, it needs to be maintained in two places.
+
+- Be consistent. Even if you are not sure of the best way to do something do it the same way throughout your code, it will be easier to read and make changes if they are needed.
+
+- Be explicit. Defining something explicitly will ensure that it works the way you expect and it is easier for the next person, which may be you, when you are explicit in SQL.
+
+
+### Best Practices
+
+- No tabs should be used - only spaces. Your editor should be setup to convert tabs to spaces - see our [onboarding template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md) for more details.
+
+- Wrap long lines of code, between 80 and 100, to a new line.
+
+- Do not use the `USING` command in joins because it produces inaccurate results in Snowflake. Create an account to view the [forum discussion on this topic.](https://community.snowflake.com/s/question/0D50Z00008WRZBBSA5/bug-with-join-using-)
+
+
+- Understand the difference between the following related statements and use appropriately:
+  - `UNION ALL` and `UNION`
+  - `LIKE` and `ILIKE`
+  - `NOT` and `!` and `<>`
+  - `DATE_PART()` and `DATE_TRUNC()`
+
+- Use the `AS` operator when aliasing a column or table.
+
+- Prefer `DATEDIFF` to inline additions `date_column + interval_column`. The function is more explicit and will work for a wider variety of date parts.
+
+- Prefer `!=` to `<>`. This is because `!=` is more common in other programming languages and reads like "not equal" which is how we're more likely to speak.
+
+- Prefer `LOWER(column) LIKE '%match%'` to `column ILIKE '%Match%'`. This lowers the chance of stray capital letters leading to an unexpected result.
+
+- Prefer `WHERE` to `HAVING` when either would suffice.
+
+
+### Commenting
+
+- When making single line comments in a model use the `--` syntax
+- When making multi-line comments in a model use the `/*  */` syntax
+- Respect the character line limit when making comments. Move to a new line or to the model documentation if the comment is too long
+- Utilize the dbt model documentation when it is available
+- Calculations made in SQL should have a brief description of what's going on and if available, a link to the handbook defining the metric (and how it's calculated)
+- Instead of leaving `TODO` comments, create new issues for improvement
+
+### Naming Conventions
+
+
+- An ambiguous field name such as `id`, `name`, or `type` should always be prefixed by what it is identifying or naming:
 
     ```sql
-    -- Good
+    -- Preferred
     SELECT
-      id    AS account_id,
-      name  AS account_name,
-      type  AS account_type,
-      ...
+        id    AS account_id,
+        name  AS account_name,
+        type  AS account_type,
+        ...
 
-    -- Bad
+    -- vs
+
+    -- Not Preferred
     SELECT
-      id,
-      name,
-      type,
-      ...
+        id,
+        name,
+        type,
+        ...
 
     ```
 
-- When joining to any data from a different source, a field should be prefixed with the data source, e.g. `sfdc_account_id`, to avoid ambiguity
+- All field names should be [snake-cased](https://en.wikipedia.org/wiki/Snake_case):
 
     ```sql
-    -- Good
+    -- Preferred
     SELECT
-      sfdc_account.account_id   AS sfdc_account_id,
-      zuora_account.account_id  AS zuora_account_id
-    FROM sfdc_account
-    LEFT JOIN zuora_account ON ...
+        dvcecreatedtstamp AS device_created_timestamp
+        ...
 
-    -- Bad
+    -- vs
+
+    -- Not Preferred
     SELECT
-      sfdc_account.account_id,
-      zuora_account.account_id  AS zuora_id
-    FROM sfdc_account
-    LEFT JOIN zuora_account ON ...
+        dvcecreatedtstamp AS DeviceCreatedTimestamp
+        ...
+
+    ```
+- Boolean field names should start with `has_`, `is_`, or `does_`:
+
+    ```sql
+    -- Preferred
+    SELECT
+        deleted AS is_deleted,
+        sla     AS has_sla
+        ...
+
+
+    -- vs
+
+    -- Not Preferred
+    SELECT
+        deleted,
+        sla,
+        ...
+
     ```
 
-- When joining tables and referencing columns from both, strongly prefer to reference the full table name instead of an alias. When the table name is long (~20), try to rename the CTE if possible, and lastly consider aliasing to something descriptive.
+- Timestamps should end with `_at` and should always be in UTC.
+- Dates should end with `_date`.
+- When truncating dates name the column in accordance with the truncation.
 
     ```sql
-    -- Good
+
     SELECT
-      budget_forecast_cogs_opex.account_id,
-      -- 15 more columns
-      date_details.fiscal_year,
-      date_details.fiscal_quarter,
-      date_details.fiscal_quarter_name,
-      cost_category.cost_category_level_1,
-      cost_category.cost_category_level_2
+        original_at,                                        -- 2020-01-15 12:15:00.00
+        original_date,                                      -- 2020-01-15
+        DATE_TRUNC('month',original_date) AS original_month -- 2020-01-01
+        ...
+
+
+    ```
+
+- Avoid key words like `date` or `month` as a column name.
+
+### Reference Conventions
+
+- When joining tables and referencing columns from both, prefer to reference the full table name instead of an alias. When the table name is long (~20), try to rename the CTE if possible, and lastly consider aliasing to something descriptive:
+
+    ```sql
+    -- Preferred
+    SELECT
+        budget_forecast_cogs_opex.account_id,
+        date_details.fiscal_year,
+        date_details.fiscal_quarter,
+        date_details.fiscal_quarter_name,
+        cost_category.cost_category_level_1,
+        cost_category.cost_category_level_2
     FROM budget_forecast_cogs_opex
     LEFT JOIN date_details
-     ON date_details.first_day_of_month = budget_forecast_cogs_opex.accounting_period
+        ON date_details.first_day_of_month = budget_forecast_cogs_opex.accounting_period
     LEFT JOIN cost_category
-     ON budget_forecast_cogs_opex.unique_account_name = cost_category.unique_account_name
+        ON budget_forecast_cogs_opex.unique_account_name = cost_category.unique_account_name
 
-    -- Ok, but not preferred. Consider renaming the CTE in lieu of aliasing
-    SELECT
-      bfcopex.account_id,
-      -- 15 more columns
-      date_details.fiscal_year,
-      date_details.fiscal_quarter,
-      date_details.fiscal_quarter_name,
-      cost_category.cost_category_level_1,
-      cost_category.cost_category_level_2
-    FROM budget_forecast_cogs_opex bfcopex
-    LEFT JOIN date_details
-     ON date_details.first_day_of_month = bfcopex.accounting_period
-    LEFT JOIN cost_category
-     ON bfcopex.unique_account_name = cost_category.unique_account_name
+ 
+    -- vs 
 
-    -- Bad
+    -- Not Preferred
     SELECT
-      a.*,
-      -- 15 more columns
-      b.fiscal_year,
-      b.fiscal_quarter,
-      b.fiscal_quarter_name,
-      c.cost_category_level_1,
-      c.cost_category_level_2
+        a.account_id,
+        b.fiscal_year,
+        b.fiscal_quarter,
+        b.fiscal_quarter_name,
+        c.cost_category_level_1,
+        c.cost_category_level_2
     FROM budget_forecast_cogs_opex a
     LEFT JOIN date_details b
-     ON b.first_day_of_month = a.accounting_period
+        ON b.first_day_of_month = a.accounting_period
     LEFT JOIN cost_category c
-     ON b.unique_account_name = c.unique_account_name
+        ON b.unique_account_name = c.unique_account_name
     ```
 
-- All field names should be [snake-cased](https://en.wikipedia.org/wiki/Snake_case)
+- Only use double quotes when necessary, such as columns that contain special characters or are case sensitive. 
+
 
     ```sql
-    -- Good
-    SELECT
-      dvcecreatedtstamp AS device_created_timestamp
-    FROM table
+        -- Preferred
+        SELECT 
+            "First_Name_&_" AS first_name,
+            ...
 
-    -- Bad
-    SELECT
-      dvcecreatedtstamp AS DeviceCreatedTimestamp
-    FROM table
-    ```
+        -- vs
 
-- Boolean field names should start with `has_`, `is_`, or `does_`
-
-    ```sql
-    -- Good
-    SELECT
-      deleted AS is_deleted,
-      sla     AS has_sla
-    FROM table
-
-    -- Bad
-    SELECT
-      deleted,
-      sla
-    FROM table
-    ```
-
-- When transforming source data, use double quotes to identify case sensitive columns or columns that contain special characters different than "$" or "_". Double quotes aren't needed for capitalized field names, as this is how [Snowflake identifiers](https://docs.snowflake.com/en/sql-reference/identifiers-syntax.html) are handled internally.
-
-    ```sql
-         -- Good
-         SELECT "First_Name_&_" AS first_name,
-
-         -- Bad
-         SELECT "FIRST_NAME" AS first_name,
+        -- Not Preferred
+        SELECT 
+            FIRST_NAME AS first_name,
+            ...
 
     ```
 
-**Dates**
-
-- Timestamps should end with `_at`, e.g. `deal_closed_at`, and should always be in UTC
-- Dates should end with `_date`, e.g. `deal_closed_date`
-- Months should be indicated as such and should always be truncated to a date format, e.g. `deal_closed_month`
-- Always avoid key words like `date` or `month` as a column name
-- Prefer the explicit date function over `date_part`, but prefer `date_part` over `extract`, e.g. `DAYOFWEEK(created_at)` > `DATE_PART(dayofweek, 'created_at')` > `EXTRACT(dow FROM created_at)`
-    - Note that selecting a date's part is different from truncating the date. `date_trunc('month', created_at)` will produce the calendar month ('2019-01-01' for '2019-01-25') while `SELECT date_part('month', '2019-01-25'::date)` will produce the number 1
-- Be careful using [DATEDIFF](https://docs.snowflake.net/manuals/sql-reference/functions/datediff.html), as the results are often non-intuitive.
-    - For example, `SELECT DATEDIFF('days', '2001-12-01 23:59:59.999', '2001-12-02 00:00:00.000')` returns `1` even though the timestamps are different by one millisecond.
-    - Similarly, `SELECT DATEDIFF('days', '2001-12-01 00:00:00.001', '2001-12-01 23:59:59.999')` return `0` even though the timestamps are nearly an entire day apart.
-    - Using the appropriate interval with the `DATEDIFF` function will ensure you are getting the right results. For example, `DATEDIFF('days', '2001-12-01 23:59:59.999', '2001-12-02 00:00:00.000')` will provide a `1 day interval` and `DATEDIFF('ms', '2001-12-01 23:59:59.999', '2001-12-02 00:00:00.000')` will provide a `1 millisecond interval`.
-
-### Use CTEs (Common Table Expressions), not subqueries
-
-- [CTEs make SQL more readable and are more performant](https://www.alisa-in.tech/post/2019-10-02-ctes/)
-- Use CTEs to reference other tables. Think of these as import statements
-- CTEs should be placed at the top of the query
-- Where performance permits, CTEs should perform a single, logical unit of work
-- CTE names should be as concise as possible while still being clear
-    - Avoid long names like `replace_sfdc_account_id_with_master_record_id` and prefer a shorter name with a comment in the CTE. This will help avoid table aliasing in joins
-- CTEs with confusing or noteable logic should be commented in file and documented in dbt docs
-- CTEs that are duplicated across models should be pulled out into their own models
-- Leave an empty row above and below the query statement
-- CTEs should be formatted as follows:
+- Prefer accessing JSON using the [bracket syntax](https://docs.snowflake.com/en/user-guide/querying-semistructured.html#bracket-notation).
 
     ```sql
-    WITH events AS ( -- think of these select statements as your import statements.
+        -- Preferred
+        SELECT
+            data_by_row['id']::bigint as id_value
+            ...
+        
+        -- vs
 
-      ...
-
-    ), filtered_events AS ( -- CTE comments go here
-
-      ...
-
-    )
-
-    SELECT * -- you should always aim to "select * from final" for your last model
-    FROM filtered_events
+        -- Not Preferred
+        SELECT
+            data_by_row:"id"::bigint as id_value
+            ...
     ```
 
-### General
-
-- Within a CTE, the entire SQL statement should be indented 4 spaces
+- Prefer explicit join statements.
 
     ```sql
-    -- Good
-    WITH my_data AS (
-
+        -- Preferred
         SELECT *
-        FROM prod.my_data
-        WHERE filter = 'my_filter'
+        FROM first_table
+        INNER JOIN second_table
+        ...
 
-    )
+        -- vs
 
-    -- Bad
-    WITH my_data AS (
-
-      SELECT *
-      FROM prod.my_data
-      WHERE filter = 'my_filter'
-
-    )
+        -- Not Preferred
+        SELECT *
+        FROM first_table,
+            second_table
+        ...
     ```
 
-- Indentation within a query (e.g. columns, `JOIN` clauses, multi-line `GROUP BY`, etc.) should be indented 2 spaces
 
-    ```
-    -- Good
-    SELECT
-      column_name1,
-      column_name2,
-      column_name3
-    FROM table_1
-    JOIN table_2
-      ON table_1.id = table_2.id
-    WHERE clouds = true
-      AND gem = true
-    GROUP BY 1,2,3
-    HAVING column_name1 > 0
-      AND column_name2 > 0
+### Common Table Expressions (CTEs)
 
-    -- Bad
-    SELECT
-        column_name1,
-        column_name2,
-        column_name3
-    FROM table_1
-    JOIN table_2
-        ON table_1.id = table_2.id
-    WHERE clouds = true
-        AND gem = true
-    GROUP BY 1,2,3
-    HAVING column_name1 > 0
-        AND column_name2 > 0
-    ```
-
-- No tabs should be used - only spaces. Your editor should be setup to convert tabs to spaces - see our [onboarding template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md#data-grip-configuration) for more details
-
-- Lines of SQL should be no longer than 80 characters
-
-- Commas should be at the end-of-line (EOL) as a right comma, with the exception of temporary filters in the `WHERE` clause for specific values.
+- Prefer CTEs over sub-queries as [CTEs make SQL more readable and are more performant](https://www.alisa-in.tech/post/2019-10-02-ctes/):
 
     ```sql
-    -- Good
-    SELECT
-      deleted       AS is_deleted, -- EOL right comma
-      accountId     AS account_id
-    FROM table
-    WHERE is_deleted = false
-      AND account_id NOT IN (
-                             '232'
-                             , '234' -- left comma
-                             , '425'
-                            )
+    -- Preferred
+    WITH important_list AS (
 
-    -- Bad
+        SELECT DISTINCT
+            specific_column
+        FROM other_table
+        WHERE specific_column != 'foo'
+        
+    )
+
     SELECT
-      deleted       AS is_deleted, -- EOL right comma
-      accountId     AS account_id
-    FROM table
-    WHERE is_deleted = false
-      AND account_id NOT IN ('232', '234', '425')
+        primary_table.column_1,
+        primary_table.column_2
+    FROM primary_table
+    INNER JOIN important_list
+        ON primary_table.column_3 = important_list.specific_column
+
+    -- vs   
+
+    -- Not Preferred
+    SELECT
+        primary_table.column_1,
+        primary_table.column_2
+    FROM primary_table
+    WHERE primary_table.column_3 IN (
+        SELECT DISTINCT specific_column 
+        FROM other_table 
+        WHERE specific_column != 'foo')
 
     ```
 
-- When `SELECT`ing, always give each column its own row, with the exception of `SELECT *` which can be on a single row
+- Use CTEs to reference other tables.
+- CTEs should be placed at the top of the query.
+- Where performance permits, CTEs should perform a single, logical unit of work.
+- CTE names should be as concise as possible while still being clear.
+    - Avoid long names like `replace_sfdc_account_id_with_master_record_id` and prefer a shorter name with a comment in the CTE. This will help avoid table aliasing in joins.
+- CTEs with confusing or notable logic should be commented in file and documented in dbt docs.
+- CTEs that are duplicated across models should be pulled out into their own models.
 
-- `DISTINCT` should be included on the same row as `SELECT`
-
-- The `AS` keyword should be used when projecting a field or table name
-
-- When aliasing use `AS`, strive to align the original column names on a single vertical line and the `AS` keyword on a separate vertical line
-
-- Fields should be stated before aggregates / window functions
-
-- Ordering and grouping by a number (eg. GROUP BY 1, 2) is preferred
-    - When grouping by 3 or more columns in a dbt model, use the dbt-utils [`group_by` macro](/handbook/business-technology/data-team/platform/dbt-guide/#macros)
-
-- Prefer `WHERE` to `HAVING` when either would suffice
-
-- Prefer accessing JSON using the bracket syntax, e.g. `data_by_row['id']::bigint as id_value`
-
-- **Never** use `USING` in joins because it produces inaccurate results in Snowflake. Create an account to view the [forum discussion on this topic.](https://community.snowflake.com/s/question/0D50Z00008WRZBBSA5/bug-with-join-using-)
-
-- Prefer `UNION ALL` to `UNION`. This is because a `UNION` could indicate upstream data integrity issue that are better solved elsewhere.
-
-- Prefer `!=` to `<>`. This is because `!=` is more common in other programming languages and reads like "not equal" which is how we're more likely to speak
-
-- Consider performance. Understand the difference between `LIKE` vs `ILIKE`, `IS` vs `=`, and `NOT` vs `!` vs `<>`. Use appropriately
-
-- Prefer `LOWER(column) LIKE '%match%'` to `column ILIKE '%Match%'`. This lowers the chance of stray capital letters leading to an unexpected result
-
-- Familiarize yourself with [the DRY Principal](https://docs.getdbt.com/docs/design-patterns). Leverage CTEs, jinja and macros in dbt, and snippets in Sisense. If you type the same line twice, it needs to be maintained in two places
-
-- **DO NOT OPTIMIZE FOR A SMALLER NUMBER OF LINES OF CODE. NEWLINES ARE CHEAP. [BRAIN TIME IS EXPENSIVE.](https://blog.getdbt.com/write-better-sql-a-defense-of-group-by-1/)**
 
 ### Data Types
 
@@ -312,121 +327,156 @@ description: "Since we don't have a linter, it is our collective responsibility 
     - `VARCHAR` instead of `STRING`, `TEXT`, etc.
     - `TIMESTAMP` instead of `DATETIME`
 
-The exception to this is for timestamps. Prefer `TIMESTAMP` to `TIME`. Note that the default for `TIMESTAMP` is `TIMESTAMP_NTZ` which does not include a time zone.
+    The exception to this is for timestamps. Prefer `TIMESTAMP` to `TIME`. Note that the default for `TIMESTAMP` is `TIMESTAMP_NTZ` which does not include a time zone.
 
 ### Functions
 
-- Function names and keywords should all be capitalized
-- Prefer `IFNULL` TO `NVL`
-- Prefer `IFF` to a single line `CASE` statement
-- Prefer `IFF` to selecting a boolean statement `(amount < 10) AS is_less_than_ten`
-- Consider simplifying a repetitive `CASE` statement where possible:
+- Prefer `IFNULL` to `NVL`.
+- Prefer `IFF` to a single line `CASE` statement:
 
     ```sql
-    -- OK
-    CASE
-      WHEN field_id = 1 THEN 'date'
-      WHEN field_id = 2 THEN 'integer'
-      WHEN field_id = 3 THEN 'currency'
-      WHEN field_id = 4 THEN 'boolean'
-      WHEN field_id = 5 THEN 'variant'
-      WHEN field_id = 6 THEN 'text'
-    END AS field_type
+    -- Preferred
+    SELECT 
+        IFF(column_1 = 'foo', column_2,column_3) AS logic_switch,
+        ...
 
-    -- Better
-    CASE field_id
-      WHEN 1 THEN 'date'
-      WHEN 2 THEN 'integer'
-      WHEN 3 THEN 'currency'
-      WHEN 4 THEN 'boolean'
-      WHEN 5 THEN 'variant'
-      WHEN 6 THEN 'text'
-    END AS field_type
+    -- vs 
+
+    -- Not Preferred
+    SELECT
+        CASE
+            WHEN column_1 = 'foo' THEN column_2
+            ELSE column_3
+        END AS logic_switch,
+        ...
     ```
-
-### JOINs
-
-- Be explicit when joining, e.g. use `LEFT JOIN` instead of `JOIN`. (Default joins are `INNER`)
-- Prefix the table name to a column when joining, otherwise omit
-- Specify the order of a join with the FROM table first and JOIN table second:
+- Prefer `IFF` to selecting a boolean statement:
 
     ```sql
-    -- Good
-    FROM source
-    LEFT JOIN other_source
-      ON source.id = other_source.id
-    WHERE ...
+    -- Preferred
+    SELECT 
+        IFF(amount < 10,TRUE,FALSE) AS is_less_than_ten,
+        ...
+    -- vs
 
-    -- Bad
-    FROM source
-    LEFT JOIN other_source
-      ON other_source.id = source.id
-    WHERE ...
+    -- Not Preferred
+    SELECT 
+        (amount < 10) AS is_less_than_ten,
+        ...
     ```
+
+- Prefer simplifying repetitive `CASE` statements where possible:
+
+    ```sql
+    -- Preferred
+    SELECT
+        CASE field_id
+            WHEN 1 THEN 'date'
+            WHEN 2 THEN 'integer'
+            WHEN 3 THEN 'currency'
+            WHEN 4 THEN 'boolean'
+            WHEN 5 THEN 'variant'
+            WHEN 6 THEN 'text'
+        END AS field_type,
+        ...
+
+    -- vs 
+
+    -- Not Preferred
+    SELECT 
+        CASE
+            WHEN field_id = 1 THEN 'date'
+            WHEN field_id = 2 THEN 'integer'
+            WHEN field_id = 3 THEN 'currency'
+            WHEN field_id = 4 THEN 'boolean'
+            WHEN field_id = 5 THEN 'variant'
+            WHEN field_id = 6 THEN 'text'
+        END AS field_type,
+        ...
+    
+    ```
+- Prefer the explicit date function over `date_part`, but prefer `date_part` over `extract`:
+
+    ```sql
+    DAYOFWEEK(created_at) > DATE_PART(dayofweek, 'created_at') > EXTRACT(dow FROM created_at)
+    ```
+
+- Be mindful of date part interval when using the [`DATEDIFF`](https://docs.snowflake.net/manuals/sql-reference/functions/datediff.html) function as the function will only return whole interval results.
 
 ### Example Code
 
-- Putting it all together:
+This example code has been processed though SQLFluff linter and had the style guide applied.
 
-    ```sql
-    WITH my_data AS (
+```sql
 
-        SELECT *
-        FROM prod.my_data
-        WHERE filter = 'my_filter'
+WITH my_data AS (
 
-    ), some_cte AS (
+  SELECT *
+  FROM prod.my_data
+  WHERE filter = 'my_filter'
 
-        SELECT DISTINCT
-          id,
-          other_field_1,
-          other_field_2
-        FROM prod.my_other_data
+),
 
-    ), final AS (
+some_cte AS (
 
-        SELECT
-          data_by_row['id']::NUMBER  AS id_field,
-          field_1                    AS detailed_field_1,
-          field_2                    AS detailed_field_2,
-          detailed_field_3,
-          CASE
-            WHEN cancellation_date IS NULL AND expiration_date IS NOT NULL
-              THEN expiration_date
-            WHEN cancellation_date IS NULL
-              THEN start_date + 7
-            ELSE cancellation_date
-          END                        AS cancellation_date,
-          LAG(detailed_field_3) OVER (
-            PARTITION BY
-              id_field,
-              detailed_field_1
-            ORDER BY cancellation_date
-          )                          AS previous_detailed_field_3,
-          SUM(field_4)               AS field_4_sum,
-          MAX(field_5)               AS field_5_max
-        FROM my_data
-        LEFT JOIN some_cte
-          ON my_data.id = some_cte.id
-        WHERE field_1 = 'abc'
-          AND (field_2 = 'def' OR field_2 = 'ghi')
-        GROUP BY 1, 2, 3, 4, 5
-        HAVING COUNT(*) > 1
-        ORDER BY 4 DESC
-    )
+  SELECT DISTINCT
+    id AS other_id,
+    other_field_1,
+    other_field_2,
+    date_field_at,
+    data_by_row,
+    field_4,
+    field_5,
+    LAG(
+      other_field_2
+    ) OVER (PARTITION BY other_id, other_field_1 ORDER BY 5) AS previous_other_field_2
+  FROM prod.my_other_data
 
-    SELECT *
-    FROM final
-    ```
+),
+/*
+This is a very long comment: It is good practice to leave comments in code to
+explain complex logic in CTEs or business logic which may not be intuitive to
+someone who does not have intimate knowledge of the data source. This can help
+new users familiarize themselves with the code quickly.
+*/
 
-### Commenting
+final AS (
 
-- When making single line comments in a model use the `--` syntax
-- When making multi-line comments in a model use the `/*  */` syntax
-- Respect the character line limit when making comments. Move to a new line or to the model documentation if the comment is too long
-- dbt model comments should live in the model documentation
-- Calculations made in SQL should have a brief description of what's going on and a link to the handbook defining the metric (and how it's calculated)
-- Instead of leaving `TODO` comments, create new issues for improvement
+  SELECT
+    -- This is a singel line comment
+    my_data.field_1 AS detailed_field_1,
+    my_data.field_2 AS detailed_field_2,
+    my_data.detailed_field_3,
+    DATE_TRUNC('month', some_cte.date_field_at) AS date_field_month,
+    some_cte.data_by_row['id']::NUMBER AS id_field,
+    IFF(my_data.detailed_field_3 > my_data.field_2, TRUE, FALSE) AS is_boolian,
+    CASE
+      WHEN
+        my_data.cancellation_date IS NULL
+        AND my_data.expiration_date IS NOT NULL
+        THEN my_data.expiration_date
+      WHEN my_data.cancellation_date IS NULL
+        THEN my_data.start_date + 7 -- There is a reason for this number
+      ELSE my_data.cancellation_date
+    END AS adjusted_cancellation_date,
+    SUM(some_cte.field_4) AS field_4_sum,
+    MAX(some_cte.field_5) AS field_5_max
+  FROM my_data
+  LEFT JOIN some_cte
+    ON my_data.id = some_cte.id
+  WHERE my_data.field_1 = 'abc'
+    AND (my_data.field_2 = 'def' OR my_data.field_2 = 'ghi')
+  GROUP BY 1, 2, 3, 4, 5, 6
+  HAVING COUNT(*) > 1
+  ORDER BY 8 DESC
+)
+
+SELECT *
+FROM final
+
+```
+
+
 
 ### Other SQL Style Guides
 
