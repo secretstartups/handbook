@@ -275,13 +275,13 @@ An efficiency we are able to gain by using Allocaida is that we create a GitLab 
 1. Add AT LEAST 1 line item 
 1. Go back up to the sub-category details panel and scroll all the way down to the `Actions` section where you will see a button called GitLab issue - click that - and 💥 - your issue is created 
 
-[Video walk through on GitLab unfiltered.](https://youtu.be/EsGlPNeH2P4) 
+   * [Video walk through on GitLab unfiltered.](https://youtu.be/EsGlPNeH2P4) 
 
 By creating the FMM issue at the sub category level, this still allows the marketer flexibility in terms of how they want to strucure their activity plan. Another way to think about this is that everything under the sub category should align to the same campaign name to be created. 
 
 Please be mindful of where you are creating a sub-category. The system will allow you to create a sub-category within a sub-category, and you will realize this because upon creation of the what you believe to be a new sub category, you will notice the details panel is already filled in. Do NOT go through and start changing out the data in the details panel, as you are only allowed to create one FMM issue within the sub-category. What you’ll need to do is delete the newly already filled in sub-category and then ensure youre in the category level and create a new sub-category. 
 
-##### Date/Name changes 
+##### FUTURE STATE - Date/Name changes 
 Should a date on a campaign need to change and the issue has already been created, you can systematically change the date & name. In order to do so, all changes must be made in Allocadia and then overnight will push the change to the GitLab FMM issue. Should you want to manually change both the issue AND Allocadia, you should feel empowered to do so. The automation is there to help you. 
 
 #### FM issues that can be created from Allocadia
