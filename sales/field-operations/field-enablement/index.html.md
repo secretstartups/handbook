@@ -177,23 +177,24 @@ Knowledge x Practice = Capability
     - [David Somers](/company/team/#dcsomers)
 - **[Manager, Field Enablement](/job-families/sales/director-of-field-enablement/#manager-field-enablement-programs)**
     - [Kelley Shirazi](/company/team/#kelley-shirazi) (Manager, Sales Enablement)
-    - [Kris Reynolds](/company/team/#kreynolds1) (Manager, Customer Success Enablement)
+    - [Kris Reynolds](/company/team/#kreynolds1) (Sr. Manager, Customer Success Enablement)
 - **[Role-based Enablement Managers](/job-families/sales/program-manager-field-enablement/)**
-    - Enterprise Sales Enablement: [Emelie Rodriguez](/company/team/#emelier)
-    - Commercial Sales Enablement (AMER): [Misty Martin-Zimmerman](/company/team/#mzimmers)
-    - Commercial Sales Enablement (EMEA & APAC): [Cristian Enache](https://about.gitlab.com/company/team/#cenache)
-    - Partner Enablement: [Blair Fraser](/company/team/#bfraser)
-    - Solution Architect and Technical Enablement: [Thabo Bopape](/company/team/#tbopape)
-    - Technical Account Manager Enablement: [Pallavi Daliparthi](/company/team/#pdaliparthi)
+    - [Emelie Rodriguez](/company/team/#emelier) (Sr. Program Manager, Enterprise Sales Enablement)
+    - TBH (Sr. Program Manager, Enterprise Sales Enablement (EMEA & APAC))
+    - [Misty Martin-Zimmerman](/company/team/#mzimmers) (Sr. Program Manager, Commercial Sales Enablement (AMER))
+    - [Cristian Enache](https://about.gitlab.com/company/team/#cenache) (Program Manager, Commercial Sales Enablement (EMEA & APAC))
+    - [Blair Fraser](/company/team/#bfraser) (Sr. Program Manager, Partner Enablement)
+    - [Thabo Bopape](/company/team/#tbopape) (Sr. Program Manager, Solution Architect and Technical Enablement)
+    - [Pallavi Daliparthi](/company/team/#pdaliparthi) (Sr. Program Manager, Technical Account Manager Enablement)
 - **[Director, Revenue Programs](https://about.gitlab.com/job-families/sales/revenue-programs/#director-revenue-programs)**
     - [Allison Gleisner](/company/team/#agleisner) 
 - **[Field Enablement Program Managers](/job-families/sales/program-manager-field-enablement/)**
-    - Field Onboarding and Continuous Education: [John Blevins](/company/team/#jblevins608)
-    - Field Manager Development: [David Somers (*acting*)](/company/team/#dcsomers)
+    - [John Blevins](/company/team/#jblevins608) (Program Manager, Field Onboarding and Continuous Education)
+    - David Hernandez (_coming soon_)(Sr. Program Manager, Field Manager Development)
 - **[Field Communications & Content](/job-families/sales/field-communications)**
     - [Monica Gomez](/company/team/#monicaj) (Manager, Field Communications & Content)
     - [Shannon Thompson](/company/team/#shannonthompson) (Field Communications Specialist)
-    - Program Manager, Sales Content: TBH
+    - [Andy Brink](/company/team/#andybrink) Program Manager, Sales Content
 
 
 </details>
