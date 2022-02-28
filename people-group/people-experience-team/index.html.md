@@ -571,7 +571,9 @@ _Note: If you received the same nomination twice (for the same person and the sa
 
 #### Acting Manager Bonuses
 
-1. TBD
+1. The People Experience team will receive an email from the acting/interim team members manager to calculate the bonus per this [process](https://about.gitlab.com/handbook/total-rewards/compensation/#submitting).
+1. Once the amount has been confirmed, the manager will submit a bonus update via BambooHR. The People Experience team will then receive an alert via email to approve the bonus. 
+1. Once approved, this should then be added to the respective payroll changes spreadsheet (US, Non-US, or Canada).
 
 ### 1Password Complete Recovery
 
