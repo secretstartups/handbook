@@ -205,7 +205,7 @@ The process to request the [legal team’s involvement in partner contracts](htt
 In order to transact with GitLab, a partner must both be authorized by GitLab, and have completed at least one sales training.
  
 ### Partner Co-Sell
-All Channel deals are considered Partner Co-Sell opportunities unless there is an approved Partner Sourced Deal Registration. These opportunities are not sourced solely by a partner, but highlight the relationship between GitLab and partners in the selling process. Partner Co-Sell deals do not require the partner to submit a deal registration, and should be processed according to standard Partner Co-Sell discounts as identified in the [GitLab Partner Program](https://about.gitlab.com/handbook/resellers/).
+All Channel deals are considered Partner Co-Sell opportunities unless there is an approved Partner Sourced Deal Registration or the Opportunities Sales Qualified Source = Channel Generated. These opportunities are not sourced solely by a partner, but highlight the relationship between GitLab and partners in the selling process. Partner Co-Sell deals do not require the partner to submit a deal registration, and should be processed according to standard Partner Co-Sell discounts as identified in the [GitLab Partner Program](https://about.gitlab.com/handbook/resellers/).
 
 ### US Public Sector Preferred Partner CoSell Request Process
 
