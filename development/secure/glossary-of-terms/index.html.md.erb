@@ -60,6 +60,10 @@ Common Weakness Enumeration (CWE™) is a community-developed list of common sof
 that if left unaddressed could result in systems, networks, or hardware being vulnerable to attack. The CWE List and associated classification
 taxonomy serve as a language that can be used to identify and describe these weaknesses in terms of CWEs.
 
+### Deduplication
+
+When a category's process deems findings to be the same, or if they are similar enough that a noise reduction is required, only one finding is kept and the other(s) are eliminated. This is an irreversible action. Deduplication is only done for findings in reports of the same category. Deduplication does not occur between reports of different categories.
+
 ### Duplicate Finding
 
 A legitimate Finding which was found, but for some reason is reported multiple times. This can occur when different
@@ -80,6 +84,11 @@ An asset that has the potential to be vulnerable, identified within a project by
 
 Assets include but are not restricted to source code, binary packages, containers, dependencies, networks, applications, and infrastructure.
 
+### Grouping
+
+We want to provide ways for users to view items in groups when there are multiple findings that are likely related but do not qualify for deduplication. Examples include findings that: should be evaluated together, would be fixed by the same action, or come from the same source. Grouping behavior for vulnerabilities is currently [in design](https://gitlab.com/gitlab-org/gitlab/-/issues/267588) and subject to change. It is intended as a way for users to visually organize vulnerabilities for noise reduction and more efficient workflow. Grouping is flexible and not a destructive or irreversible action like deduplication.
+
+
 ### Insignificant Finding
 
 A legitimate Finding that a particular customer does not care about.
@@ -93,6 +102,18 @@ and line number.
 ### Pipeline Security Tab
 
 A page that displays Findings discovered in the associated CI Pipeline.
+
+### Post-filter
+
+We will provide ways for users to specify criteria that update or modify vulnerability data based on scanner results. Post-filters can help reduce noise and automate manual tasks. Examples include flagging findings as likely False Positives and automatically resolving vulnerabilities that are no longer detected. These are not permanent actions and can be changed.
+
+This will occur in the future, some of the related backlog items are [automatically resolve findings](https://gitlab.com/groups/gitlab-org/-/epics/7478) and [cheap scan](https://gitlab.com/gitlab-org/gitlab/-/issues/349926).
+
+### Pre-filter
+
+An irreversible action that is done to filter out target(s) before analysis occurs. This is usually provided to allow the user to reduce scope and noise as well as speed up the analysis. This should not be done if a record is needed as we currently do not store anything related to the skipped/excluded code or assets.
+
+Examples: `DS_EXCLUDED_PATHS` should `Exclude files and directories from the scan based on the paths provided.` 
 
 ### Primary Identifier
 
