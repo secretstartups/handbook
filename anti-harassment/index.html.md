@@ -297,7 +297,7 @@ In addition to [EthicsPoint](http://gitlab.ethicspoint.com/) and [Lighthouse](ht
 Every team member located in the state of California will be required to read, review, and understand the following three documents during their onboarding:
 
 - [State requirements policy](https://docs.google.com/document/d/1n6tOlhAOJ-wtVjV8Iq-nGa5XgiDfolbHSqmmyE-XQas/edit)
-- [California Law Prohibits Workplace Discrimination & Harassment](https://drive.google.com/file/d/1MgIErp7DX4_MwlnL4YvCGFADINWkvNFs/view?usp=sharing)
+- [California Law Prohibits Workplace Discrimination & Harassment](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/10/Workplace-Discrimination-Poster_ENG.pdf)
 - [Sexual Harassment & Civil Remedies](https://drive.google.com/file/d/10-dnH-M8v4LSqBWhu4bVYk_qwvsqQtyd/view?usp=sharing)
 
 ### Connecticut Law Requirements
