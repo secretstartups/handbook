@@ -24,6 +24,7 @@ For reference, here are the things that you typically need to do in the first 10
 1. [Determine what action is required](#when-cmoc-is-asked-to-take-action) and do it:
     - [Create status.io incident](#2-create-the-incident)
     - [Contact request](#contacting-a-user)
+1. Generally any S1 or when status.io incident is created, [notify stakeholders](#3-notify-stakeholders).
 1. Check for related tickets in ZenDesk. If there are multiple tickets, [create a tag](#tagging-tickets) and post in `#support_gitlab-com` to notify the team.
 
 Everything else you need to do including [how often to update the status page](#frequency-of-updates) is detailed in the workflow.
