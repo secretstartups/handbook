@@ -20,8 +20,8 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/"
 The mission of the GitLab Women TMRG is to cultivate an inclusive environment that supports and encourages those who identify as women to advance their skills and leadership potential through connection, mentorship, collaboration and discussion. This group shall serve as a forum for women to find their voice and be heard within the GitLab community. Through networking, socializing, and professional development, we hope to attract and retain women into GitLab’s positions. This group is open to all members of the GitLab community.
 
 ## Leads
-* [Kyla Gradin](https://about.gitlab.com/company/team/#kyla)
-* [Madeline Hennessy](https://about.gitlab.com/company/team/) - Co Lead 
+* [Kyla Gradin Dahl](https://about.gitlab.com/company/team/#kyla) Lead
+* [Samantha Lee](https://about.gitlab.com/company/team/#slee24) Co Lead 
 
 
 ## Executive Sponsors
