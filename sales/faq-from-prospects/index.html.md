@@ -118,7 +118,7 @@ description: "See FAQs about GitLab's features, user management, statistics/logs
 
 - Q: What is the process to upgrade a GitLab instance?
 
-  A: Depending on the installation method and the GitLab version, there are multiple update guides in the documentation: https://docs.gitlab.com/ee/update/README.html
+  A: Depending on the installation method and the GitLab version, there are multiple update guides in the documentation: https://docs.gitlab.com/ee/update/
 
 - Q: Can I install and upgrade GitLab without an internet connection?
 
