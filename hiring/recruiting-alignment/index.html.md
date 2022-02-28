@@ -13,8 +13,8 @@ description: "This page is an overview of the search team alignment and the tale
 | Enterprise Sales, EMEA | Debbie Harris & Kanwal Matharu |  TBH | Lerato Thipe |
 | Enterprise Sales, APAC | Debbie Harris |  TBH | Lerato Thipe |
 | Commercial Sales,	AMER | Marcus Carter & Shannan Farmer | TBH  | Hannah Stewart |
-| Commercial Sales,	EMEA/APAC | Ben Cowdry | TBH  | Lerato Thipe |
-| Channel Sales, Global | Debbie Harris & Kanwal Matharu |  TBH | Lerato Thipe |
+| Commercial Sales,	EMEA/APAC | Ben Cowdry | TBH | Lerato Thipe |
+| Channel Sales, Global | Debbie Harris & Kanwal Matharu | TBH | Lerato Thipe |
 | Field Operations,	Global | Kelsey Hart | Loredana Iluca | Hannah Stewart |
 | Customer Success, EMEA | Joanna Muttiah | Loredana Iluca | Lerato Thipe |
 | Customer Success, APAC | Joanna Muttiah | Loredana Iluca | Lerato Thipe |
