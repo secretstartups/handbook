@@ -18,6 +18,12 @@ This guide establishes our standards for SQL and are enforced by the SQLFluff li
 
 If you are not on the Data Team or you are developing SQL outside of dbt, keep in mind that the linting tools may be more difficult to apply, but you are welcome to follow the guidance given within this guide.
 
+### Usage
+
+We expect that people will use the style presented in this guide during there development. Enforcement is still expected to happen at the time of review as the CI pipeline is only run manually. At a latter date the pipeline will run with every change and eventually set to be mandatory for the pipeline to pass.
+
+The previous style guide used a mixed indentation style that the linter does not support so every model will likely fail the first time it is checked. The intention is that models will be updated to the new style as they are worked on normally as not all of the rules can automatically enforced (such as explicit column aliasing). The intention of working updating them in the course of other development is to keep the changes manageable.
+
 ### SLQFluff
 
 SQLFLuff is a SQL linter that works with templating tools like dbt. We use it to define the basic structure and style of the SQL that we write and move the review of that structure and style into the hands of the authors. SQLFluff is included within the dbt development environment and it uses the dbt templating engine during the linting process. It can be used with the following command:
