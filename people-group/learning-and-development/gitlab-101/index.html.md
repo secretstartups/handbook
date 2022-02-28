@@ -123,7 +123,7 @@ To use the flashcards, click on the link above. You can review the flashcards in
 
 ### Quiz - Lesson 1: Technical Terminology
 
-Please complete the Lesson 1 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification)
+Please complete the Lesson 1 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification-welcome)
 
 ## Lesson 2: GitLab Issues
 
@@ -275,4 +275,4 @@ To become certified in GitLab 101, you will have to pass (with at least an 80%) 
 
 ## Feedback
 
-We are always trying to improve. Please let us know what you thought of this GitLab 101 course by filling out our [feedback form in GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification/cards/1424490).
+We are always trying to improve. Please let us know what you thought of this GitLab 101 course by filling out our [feedback form in GitLab Learn](https://gitlab.edcast.com/insights/ECL-77d7830a-3fd7-41a8-808a-0a9cb9b729fa).
