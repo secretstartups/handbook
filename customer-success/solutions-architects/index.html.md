@@ -22,7 +22,8 @@ SA's identify and propose comprehensive solutions to complex business problems a
 The [Strategic Field Organization](/handbook/customer-success/solutions-architects/strategic-field-org/) is a team of [Principal Solutions Architects](/job-families/sales/solutions-architect/#principal-solutions-architect-responsibilities) that support global strategic sales opportunities and customers. This team collaborates with the regional account teams to work together on large engagements that require a higher degree of strategic planning, consulting, executive-level technical leadership, and internal GitLab cross-departmental collaboration.
 
 ### Alliance & Channel Solutions Architects
-[Alliance and Channel Solutions Architects](/job-families/sales/solutions-architect/#specialties) are the trusted advisors to our channel resellers, professional serivices partners, and strategic alliances partners. The focus of this team is to develop relationships and provide technical assistance and leadership to drive joint GTM strategies and ensure our partners are successful with GitLab.
+[Alliance and Channel Solutions Architects](/job-families/sales/solutions-architect/#specialties) are the trusted advisors to our channel resellers, professional services partners, and strategic alliances partners. The focus of this team is to develop relationships and provide technical assistance and leadership to drive joint GTM strategies. This team helps grow and strengthen the partner ecosystem by building new capabilities and growing GitLab revenue together with partners.
+
 
 In addition to core responsibilities, Solutions Architects may assist in other client-facing activities aligned to Content Marketing or Strategic Marketing such as blogs, videos, webinars, presentations and industry trade show presence. Some examples are listed below:
 
