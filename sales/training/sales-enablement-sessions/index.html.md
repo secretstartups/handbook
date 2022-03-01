@@ -23,8 +23,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Feb 24 | Q1 FY23 Alliances Update | Mayank T. & Pete G.  |
-| Mar 3 | Solution Selling | TBD  |
+| Mar 3 | Solution Selling | Allison G.  |
 | Mar 10 | Q1 FY23 Professional Services Update | TBD |
 | Mar 17 | No session this week due to GitLab SKO 2022|  |
 | Mar 24 | Customer References Update | Customer References Team |
@@ -42,6 +41,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2022-02-24 | **[Best Practices Co-Selling with AWS](https://youtu.be/FXo89JVefoU)** | Private  |
 | 2022-02-17 | **[Q1 FY23 Channel Update](https://youtu.be/pYRwkcYR9Xk)** | Private  |
 | 2022-02-10 | **[GitLab Runner Sales Playbook](https://youtu.be/dzu7SojmPYo)** | Private |
 | 2022-02-03 | **[GitLab Value Stream Assessment](https://youtu.be/jfM3AG6dBFY)** | Private |
