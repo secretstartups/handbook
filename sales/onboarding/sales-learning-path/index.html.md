@@ -344,14 +344,6 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    - Enter the code **3dfmc4w** and click Join.
 *  **MEDDPPICC Opportunity Qualification (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
    - Use this [template](https://docs.google.com/document/d/17Rr03SHKQ2XXlOnvuhz68F8pTxNhr6nOK70TBwB63oc/edit?usp=sharing) to begin qualifying an account suggested by your manager.
-*  **Create a Light Territory Plan (Assignment - 1 Hour - 10 Points)**
-   - Create a light territory plan to review with your manager.
-*  **Custom Pitch Deck (Assignment - 1 Hour - 10 Points)**
-   - Create a custom Pitch Deck for an account that you're currently prospecting.
-*  **Custom Pitch Deck Recording (Assignment - 1 Hour - 10 Points)**
-   - Record yourself delivering your custom Pitch Deck with zoom to practice.
-*  **Live Lead (Assignment - 1 Hour - 10 Points)**
-   -Please submit the link to your live lead using Chorus. If your lead was not recorded with Chorus, please upload the Zoom recording to Drive and submit the Drive file.
 
 </details>
 
