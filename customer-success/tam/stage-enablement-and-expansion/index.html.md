@@ -21,13 +21,16 @@ For the TAM team in driving stage enablement, there are two critical motions:
 
 ### Where do I track the stage enablement and expansion?
 
-1. Both of these CTAs are to be opened in the [ROI success plan](/handbook/customer-success/tam/success-plans/#roi-success-plan).  Choose the correct category (enablement, expansion) from the drop-down category list on your newly opened CTA, and select the appropriate playbook from the playbook section below, again at the CTA level, before saving. This then opens the suggested steps as tasks associated with this CTA.
+1. Both of these CTAs are to be opened in the [ROI success plan](/handbook/customer-success/tam/success-plans/#roi-success-plan). Select the appropriate playbook from the playbook section at the CTA level before saving. This then opens the suggested steps as tasks associated with this CTA.
+
+**Note:** To ensure that your Stage Enablement or Stage Expansion CTA is included in reporting, please make sure to attach a playbook to the CTA.
 
 
 ### When do I open a CTA/playbook?
 
 1. Stage Enablement: open the playbook when the customer is ready to begin the process of adopting the stage (vs when they say they intend to at a later time).
 1. Stage Expansion: open the playbook when you plan to **start** the motion of exploring this expansion with the customer through the discovery process. This timing is incredibly key as capturing the 'no' reasons is very impactful for articulating through data the roadblocks to expansion we see and building scaleable plays for overcoming these roadblocks.  We expect to see more than 50% of our playbooks here being closed-no success for reasons of timing, internal challenges or otherwise!  The goal here is to continue exploring expansion with the customer as it pertains to furthering their business value with GitLab and collecting common reasons for no-success in order to establish more plays to help us overcome objections. 
+
 
 ### Key TAM Strategies:
 
