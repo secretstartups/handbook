@@ -26,9 +26,14 @@ the GitLab Community great.
 graph TD
     A[GitLab]
     A --> B[Marketing]
-    B --> BA[Community Relations]
+    B --> D[Community Relations]
     A --> C[Engineering]
-    C --> CA[Contributor Success]
+    C --> E[Contributor Success]
+    D --> F[Code Contributor Program]
+    D --> G[Evangelist Program]
+    H[Community]
+    H --> I[Core Team]
+    H --> J[Heroes]
 ```
 
 ### Community teams
