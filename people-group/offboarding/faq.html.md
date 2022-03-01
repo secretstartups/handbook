@@ -50,7 +50,6 @@ The following can be used as a guide on what actions could need to be taken befo
 - If you feel comfortable, send a message in the `team-member-updates` Slack channel notifying everyone of your departure. 
 - Set up accounts that you'll need access to after your last day. Ensure your personal email address is up to date with these accounts. They may include:
   - ADP (payroll): https://workforcenow.adp.com
-  - Lumity (US Health Benefits): https://login.lumity.com
   - Betterment (US 401(k)): https://wwws.betterment.com/app/login
   - Carta (Stock options): https://login.app.carta.com/credentials/login/
 
