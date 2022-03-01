@@ -45,7 +45,7 @@ Process to be added below.
 | DRI | Role |
 | --- | --- |
 | [Mek Stittri](https://about.gitlab.com/company/team/#meks) | Engineering DRI |
-| [Kenny Johnston](https://about.gitlab.com/company/team/#kencjohnston) | Product DRI |
+| [Kevin Chu](https://about.gitlab.com/company/team/#kevinchu) | Product DRI |
 | [Kyle Wiebers](https://about.gitlab.com/company/team/#kwiebers) | Engineering Facilitator |
 | [Lin Jen-Shin](https://about.gitlab.com/company/team/#godfat) | Engineering Facilitator |
 
@@ -55,7 +55,7 @@ JiHu team projects are located at <https://jihulab.com/gitlab-cn/>. Mirrored pro
 
 Even though most of the JiHu projects are moved to JiHuLab.com, some projects
 are still under the [gitlab-jh](https://gitlab.com/gitlab-jh/) group.
-To request access please reach out to [Kenny](https://about.gitlab.com/company/team/#kencjohnston) or
+To request access please reach out to [Kevin](https://about.gitlab.com/company/team/#kevinchu) or
 [Mek](https://about.gitlab.com/company/team/#meks) to provision.
 
 | GitLab Inc Project                                      | JiHu Project                                               |
