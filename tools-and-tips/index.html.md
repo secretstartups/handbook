@@ -598,6 +598,8 @@ Tip: The [Google Calendar](/handbook/tools-and-tips/#google-calendar) invite is 
 
 ## Google
 
+Need a new document or new slide deck quickly? Use shortcuts like http://doc.new or http://slide.new. The full list (not even restricted to Google products) is available at https://whats.new/shortcuts/.
+
 ### Google Docs
 
 #### Google Docs Pro Tips
@@ -608,6 +610,8 @@ Likewise "sheets.new" for a Google Sheet etc...
 This is great when someone is speaking about something they are typing on a video call and you are not sure where they are in the document.
 1. Quickly find all action items assigned to you with a [search for `followup:actionitems`](https://drive.google.com/drive/search?q=followup:actionitems).
 1. To add additional rows to a numbered list in a Google Document, press `Return` to add additional spaces under the existing numbered list in the document, highlight those spaces, and click the numbered list icon in the formatting bar (or press `Command ⌘ + Shift + 7` on a Mac) to create a numbered list from the spaces. See video on [how to add more rows to a numbered list](https://www.youtube.com/watch?v=dgyttEJi-ZQ) for a quick tutorial.
+1. Type the @ sign to quickly embed today's date, other document titles, references to people etc, or even quickly access formatting without clicking anything (a menu will pop up). (Smart Canvas article)[https://cloud.google.com/blog/products/workspace/delivering-new-innovations-in-google-workspace-with-smart-canvas]
+1. Pageless docs are great for documents you don't intend to print. You can (switch in File > Page setup)[https://support.google.com/docs/answer/11528737].
 
 See also [Live Doc Meetings](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/) for more Google Doc tips.
 
@@ -706,6 +710,12 @@ Please click 'Guests can modify event' so people can update the time in the cale
 You can configure this to be checked by default under [Event Settings](https://calendar.google.com/calendar/r/settings).)
 
 ![Google Calendar - Guests can modify events setting](/images/handbook/tools-and-tips/google-calendar-guestsmodifyevent.png)
+
+#### Notifications
+
+You can change the default notification settings by calendar (add or remove notifications for all-day events, add a second default notification to all events...). This is accessible through Settings -> `Settings for my calendars` -> pick the calendar -> `Event notifications` and `All-day event notifications`.
+
+If you change the default notifications, all existing events will inherit that as well (unless their notifications have been customized).
 
 #### Restore Deleted Calendar Items
 
@@ -954,3 +964,14 @@ Here are a few quick steps for updating your slide decks to match the most recen
 1. In the Import theme dialog box type `GitLab_Template` into the search field.
 1. Find the `GitLab_Template` and click the `Select` button in the bottom left to apply the theme to your slide deck.
 1. Minor adjustments may be needed once the new theme is applied; the 'Layout' button in the toolbar will help you find the right slide layout for your content.
+
+### Google Jamboard
+
+Jamboard is a collaborative whiteboarding platform, accessible at https://jamboard.google.com/. The results are persisted in Drive and are shareable like any other object.
+
+### Google Chrome
+
+- Search and find things by typing words from document/issue/etc page titles into the urlbar (anything that appears in the page title). The search is "best effort" but surprisingly efficient at finding that doc or issue you've accessed recently.
+- "Search engines" help even more! Typing "drive" and pressing Tab, for example, searches in Google Drive. To discover and customize them, go to `Settings > Search engine`.
+- Logging in to the browser (with your GitLab Workspace account) preserves your profile across installations.
+
