@@ -78,6 +78,7 @@ The Manager, IT End User Services leads a team of highly-collaborative and resul
 
 #### Manager, IT (End User Services) Requirements
 
+* 3-5 years experience managing a team, preferably within End User Services 
 * ITIL Service Management Framework certification 
 * The ability to build a cohesive Service Desk team and to manage people effectively. This includes the ability to coach and develop the team
 * Experience working with and implementing Conversational AI technology to augment the capabilities of the Service Desk
