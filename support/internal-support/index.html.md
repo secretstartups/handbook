@@ -96,10 +96,10 @@ You cannot send public replies to customers with a Light Agent account - if you 
 
 | Request    | What To Do                                                   |
 | ---------- | ------------------------------------------------------------ |
-| Extend GitLab.com Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=GitLab.com%20Trial%20Extension) using the `GitLab.com Trial Extension` template.
-| Extend Self-Managed Trial or Grace Period <br> Issue Temporary License or Key | [Submit a request](https://gitlab-com.gitlab.io/support/internal-requests-form/) using the `Self-Managed Trial Extension` option.
-| Change GitLab.com Trial to a different plan type| [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
-| Activate Shared Runners for a Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Activate%20Trial%20Runners) using the `Activate Trial Runners` template.
+| Extend GitLab.com Trial | [Submit a request](https://gitlab-com.gitlab.io/support/internal-requests-form/) using the `SaaS Trial Extension` option. |
+| Extend Self-Managed Trial or Grace Period <br> Issue Temporary License or Key | [Submit a request](https://gitlab-com.gitlab.io/support/internal-requests-form/) using the `Self-Managed Trial Extension` option. |
+| Change GitLab.com Trial to a different plan type| [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template. |
+| Activate Shared Runners for a Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Activate%20Trial%20Runners) using the `Activate Trial Runners` template. |
 
 Grace period extensions are also treated similarly to trial extensions for self-managed. For GitLab.com, the customer should start a trial once their subscription has expired. To request these, create a trial extension issue for GitLab.com or submit a ZD request for self-managed, and update the title or add a description accordingly to indicate that it is an existing customer.
 
