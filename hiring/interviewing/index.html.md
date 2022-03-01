@@ -65,17 +65,17 @@ There are situations in which multiple internal applicants apply for the same ro
 #### Reminders For Recruitment
 
 - Please ensure that internal applicants have appropriate Greenhouse visibility permissions for the role they are applying to. For example, internal applicants should _not_ be able to see other team members who have also applied for the role (internally or externally). If there are internal People Group requisitions the recruiter on the role should remove almost all of the access manually.
-- When scheduling interviews, please mark these are _private_ on the calendar. Many team members at GitLab have their calendar event details set to be [internally viewable](https://about.gitlab.com/handbook/communication/#google-calendar). Setting up interviews as `private` is important to maintain confidentiality of applicants/candidates during the interview process.
+- When scheduling interviews, please mark these as `private` on the calendar. Many team members at GitLab have their calendar event details set to be [internally viewable](https://about.gitlab.com/handbook/communication/#google-calendar). Setting up interviews as `private` is important to maintain confidentiality of applicants/candidates during the interview process.
 
 ### Adjustments to our Interview Process
 
-We want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing 'ces@gitlab.com' about the need for adjustments at any point in the interview process.
+We want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing `ces@gitlab.com` about the need for adjustments at any point in the interview process.
 
 <details open><summary>Process for the Talent Acquisition Team
 </summary>
 
 1. Ask the candidate if they require any [reasonable accommodation](/handbook/people-policies/inc-usa/#reasonable-accommodation) or adjustments in the invite for a screening call (this is built into the email template) as well as during the screening call in case they missed the question in the invite.
-1. If the candidate requests an accommodation, add the Interview Adjustments during the screening stage, have them email those requests to 'ces@gitlab.com' which is managed by the Candidate Experience Specialist (CES) team.
+1. If the candidate requests an accommodation, add the Interview Adjustments during the screening stage, have them email those requests to `ces@gitlab.com` which is managed by the Candidate Experience Specialist (CES) team.
 1. The CES will ask the candidate if they have any recommendations on how to make the adjustment(s). If none are provided they will work with the Recruiter and ask for assistance from the [Team Member Relations team](/handbook/people-group/team-member-relations) at `teammemberrelations@gitlab.com` to arrange adjustment(s).
 1. The CES will note the adjustment(s) in the Private Notes section on their profile and tag the upcoming interviewer. Close the issue once accommodations are agreed upon.
 1. As long as the candidate is in the interview process, the CES will notify the interview team of the adjustment(s) ahead of the upcoming interviews and ensure all involved in interviewing are equipped to provide a positive experience for the candidate.
@@ -103,13 +103,13 @@ These steps may vary role-to-role, so please review the hiring process on the jo
     1. A member of the employment team will move the candidate to the "Screening" stage in Greenhouse. They will reach out to the candidate to collect their availability and then send out calendar invitations to both the interviewer and candidate.
     1. Our [recruiters](/job-families/people-ops/recruiter/) will do a screening call;
     depending on the outcome of the call, the talent acquisition team or manager may either [reject a candidate](#rejecting-candidates) or move the candidate to the team interview stages in Greenhouse. Note: A resume is required before scheduling candidates for Customer Success roles.
-    1. The recruiter will wait 5 minutes for the candidate to show up to the appointed video call link, which is always shared with the candidate via email. If the candidate does not show up to the interview or reach out in advance to reschedule, the candidate will be classified as a "no show" and be disqualified. We will unreject a candidate when circumstances beyond their control cause them to miss a scheduled call.
+    1. The recruiter will wait 5 minutes for the candidate to show up to the appointed video call link, which is always shared with the candidate via email. If the candidate does not show up to the interview or reach out in advance to reschedule, the candidate will be classified as a `no show` and be disqualified. We will unreject a candidate when circumstances beyond their control cause them to miss a scheduled call.
     1. The recruiter, hiring manager, or candidate can terminate the discussion early at any point during the interview if either party determines that it isn’t a fit. Be as transparent and honest as possible and provide feedback.
     1. After the screening call, the recruiter will verify that the candidate is not on any known [Denied Party List](https://www.export.gov/csl-search). If the candidate is on a list, the application process will end.
 1. **Technical interview (optional)**: Certain positions also require [technical interviews](/handbook/hiring/conducting-a-gitlab-interview/#considerations-for-interviews-with-technical-applicants).
 1. **Behavioral interview**: Some roles include a behavioral interview with a team peer or leader. Behavioral interviews may be conducted as [panel interviews](/handbook/hiring/interviewing/panel).
 1. **Further interviews**: All interviewers will assess the candidate's values alignment by asking behavioral questions and scoring the values alignment as part of their feedback form in Greenhouse. Additional interviews would typically follow the reporting lines up to the CEO. For example the technical interview may be conducted by an individual contributor, with subsequent interviews being conducted by the manager, director, executive team member, and then potentially the CEO.
-    - **Interviewers will follow the same "no show" policy as the recruiters.** If a candidate does not show up or reach out to the team, they will be disqualified.
+    - **Interviewers will follow the same `no show` policy as the recruiters.** If a candidate does not show up or reach out to the team, they will be disqualified.
     - **All interviewers will complete interviewing training,** which will be assigned to them from someone on the talent acquisition team; generally CES. Interview training issues can be found in the [People Group Training issue tracker](https://gitlab.com/gitlab-com/people-group/Training/-/issues).
     - The individual who created the issue will receive a notification when the issue is closed. The issue should be checked to ensure all tasks are completed. If an issue is closed before all tasks are finished the issue will need to be reopened and tag the assignee that items are missing.
 1. **References**: The hiring manager or the hiring team will contact [references](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-6hm-complete-references) for promising candidates. References will be collected towards the end of the interview stage for final candidates, and they must be checked before an offer is made.
@@ -146,6 +146,7 @@ The GitLab team understands the importance of inclusive interviewing, and we str
     - Field Marketing
     - Finance
     - Growth Marketing
+    - Marketing Operations
     - People Operations
     - Product Management
     - Quality
