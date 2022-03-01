@@ -22,7 +22,7 @@ I got massive value out of participating in our [CEO Shadow Program](/handbook/c
 
 Since then, I have been thinking of doing something similar but smaller in scale.  In July of 2021, I asked my teams if they would be interested in remotely shadowing me and several team members expressed interest as they wanted to learn what I do, how I do it, and how I make decisions.
 
-I am experimenting for a couple of months with a smaller scope and smaller-scale shadow program than the CEO Shadow Program.  If it goes well, I will continue it and iteratively improve it.  If it doesn't go well, I will end it.
+I am experimenting for a couple of quarters with a smaller scope and smaller-scale shadow program than the CEO Shadow Program.  If it goes well, I will continue it and iteratively improve it.  If it doesn't go well, I will end it.
 
 
 ## Benefits
@@ -53,6 +53,7 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 * You can be a shadow for as little as one week or as much as two weeks in a six-month period.  The weeks do not need to be sequential.
 * Join all meetings on my calendar on your shadow week that are not private (most are not private), unless I ask you not to because the meeting participants have opted out of this program for this meeting.
 * If you are so inclined, review all documents, issues and merge requests linked to the meetings that you have access to.
+* Review the roles of those with who Wayne will be meeting in order to have more context.
 * If you don't have access to a document and the meeting participants are ok with allowing you to view it (which I will confirm), I will share my screen via Google Hangouts or grant you temporary access to the document.
 * You are encouraged to take notes in meeting documents.  The purpose of taking notes is to collect main points and outcomes, not to record a transcript of the conversation.
 * A meeting attendee may ask you to drop from the meeting before something confidential is covered.
@@ -62,6 +63,10 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 * Please let Wayne know if you notice him interrupting speakers, speaking too quickly, or not pausing often enough. These are things he is working on improving.
 * Feel free to introduce yourself in a meeting when you feel this is appropriate (especially when there are only a few attendees and the meeting is not public inside GitLab). Tell participants who you are, what your regular job is, and that you are a shadow in this meeting.
 * Even in meetings where you are unfamiliar with the subject matter, there is an opportunity to learn, document, and shape the evolution of GitLab's [values](/handbook/values/). 
+* If you would like, feel free to leave your video on and introduce yourself at the beginning of the meeting.
+* Feel free to speak up during meetings with your thoughts and/or add your thoughts in the meeting notes.
+* Wayne may ask for your input on issues, merge requests, etc.
+* Wayne may ask you questions during meetings for your opinion.
 
 ## Process for non-shadow meeting attendees
 
@@ -79,8 +84,9 @@ It is not a performance evaluation or a step for a future promotion.
 1. Plan to observe and ask questions
 1. Don't plan to do your normal amount of usual work.  You should reduce your workload by at least 75% during the shadowing time period.
 1. Participating in the shadow program is a privilege where you may be exposed to confidential information. This is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them.
-1. Review my [calendar](https://calendar.google.com/calendar/u/0?cid=d2hhYmVyQGdpdGxhYi5jb20)
-1. Review my [readme](/handbook/engineering/readmes/wayne-haber/) 
+1. Review my [calendar](https://calendar.google.com/calendar/u/0?cid=d2hhYmVyQGdpdGxhYi5jb20).
+1. Review my [readme](/handbook/engineering/readmes/wayne-haber/).
+1. Join the slack channel `#sec-growth-modelops-people-leaders`.
 1. Re-read GitLab's values prior to your shadow rotation, and be mindful of new and inventive ways that [CREDIT](/handbook/values/#credit) is lived out during the meetings you attend.
 
 ## What to do after you participate
@@ -100,11 +106,15 @@ No, not at this time.
 | 9/20/2021 | @warias |
 | 11/15/2021 | @mlindsay |
 | 12/13/2021 | @mlindsay |
-| 2/14/2022 | Open |
 | 2/21/2022 | @oregand |
 | 2/28/2022 | @dmishunov |
 | 3/7/2022 | Open |
 | 3/14/2022 | Open |
 | 3/21/2022 | Open |
 | 3/28/2022 | @rossfuhrman |
+| 4/4/2022 | Open |
+| 4/11/2022 | Open |
+| 4/18/2022 | Open |
+| 4/25/2022 | Open |
+
 
