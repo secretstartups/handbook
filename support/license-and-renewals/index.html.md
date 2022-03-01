@@ -59,14 +59,6 @@ In collaboration with Sales, Fulfillment and other teams we aim to improve the c
 - reporting and fixing bugs
 - meeting our Service Level Objectives to external and internal customers
 
-### Monthly reports
-
-We publish monthly reports to help track and improve our work in this area. Links to reports:
-
-- [Support L&R report for 2021-05](https://gitlab.com/gitlab-com/support/license-and-renewals/-/issues/46)
-- [Support L&R report for 2021-04](https://gitlab.com/gitlab-com/support/license-and-renewals/-/issues/45)
-- [Support L&R report for 2021-03](https://gitlab.com/gitlab-com/support/license-and-renewals/-/issues/35)
-
 ---
 
 ## Information for Support Engineers focusing on L&R
