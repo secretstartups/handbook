@@ -124,46 +124,54 @@ The Senior Manager, Marketing Campaigns is a [grade 9](/handbook/total-rewards/c
 * Ability to travel if needed and comply with the company’s travel policy. 
 * If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
-## Performance Indicators - Marketing Campaigns
 
-* [Outbound MQLs](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#demand-generation-key-metrics)
-* [Cost per MQL](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#demand-generation-key-metrics)
-* [Closed-Won Attribution/Spend](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#demand-generation-key-metrics)
 
 ## Specializations
 
-#### Marketing Campaign Manager, Public Sector
+### Public Sector
 
 The Marketing Campaign Manager, Public Sector is responsible for strategizing, executing, and optimizing a full-funnel public sector campaign strategy, including SLED, Civilian, and DoD. 
 
-#### Marketing Campaign Manager, Public Sector Job Grade
+#### Additional Responsibilities
 
-The Marketing Campaign Manager, Public Sector (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Marketing Campaign Manager, Public Sector Responsibilities
-
+* Extends that of the Marketing Campaign Manager responsibilities
 * Develop and execute end-to-end, integrated B2B demand generation programs for the public sector
 * Strategize campaign calendar and delegation of campaign planning within the marketing campaigns team
 * Collaborate with digital agency to define digital media sponsorship strategy
 * Develop integrated campaign strategies with Public Sector Field Marketing teams on Top of Funnel, Mid Funnel and Bottom of Funnel conversion tactics
 * Analyze full-funnel campaign and tactic performance on an ongoing basis to continuously optimize results
 
-#### Marketing Campaign Manager, Public Sector Requirements
+#### Additional Requirements
 
-* Extends that of the Manager, Marketing Campaigns responsibilities
+* Extends that of the Marketing Campaign Manager requirements
 * 3+ years of experience and proven track record in developing public sector digital marketing campaigns
 * Ability to build strong relationships with channel partners, sales organizations and other key stakeholders
 * Deep understanding of customer and channel buying cycles and preferred engagement points for the public sector
 
-#### User Lifecycle Marketing
+### Channels and Alliances
+
+#### Additional Responsibilities
+
+* Extends that of the Marketing Campaign Manager responsibilities
+* Strategize, execute, and optimize a data-driven demand generation campaign strategy to achieve sales goals for Channels and Alliances group
+* Develop and manage strategy across the sales channels and alliances sales teams and align to quarterly OKR’s and sales goals/objectives (i.e. channel partner)
+* Align with marketing leadership on results of top funnel campaigns, gain anecdotal feedback, and generate ideas for campaign optimization
+* Demonstrate impact of partners and channels on business, analyze and report progress against partner campaign goals, and report on ROI
+* Act as marketing adviser to regional partner sales and marketing teams, collaborating with them to deliver campaigns that resonate with our partners and their customers
+
+#### Additional Requirements
+
+* Extends that of the Marketing Campaign Manager requirements
+* 4-7+ years of experience and proven track record in developing multi-channel roadmaps
+* Experience in channel marketing and alliances marketing, (GCP and/or AWS preferred)
+* Proven ability to build and maintain strong relationships internal and external of GitLab
+* Experience of working within a branded/co-branded framework
+
+### User Lifecycle Marketing
 
 The lifecycle marketing manager is responsible for strategizing, executing, and optimizing a data-driven user lifecycle communications strategy. This role works closely with the Product Growth and Data team, among others, to collaborate, plan, and prioritize communication to better engage GitLab users and progress them through the buyer and customer lifecycle. The lifecycle marketing manager will focus on user paths to revenue, including engaging free .com users, trial users, and paid users of GitLab.
 
-#### User Lifecycle Marketing Manager Job Grade
-
-The Marketing Campaign Manager (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### User Lifecycle Marketing Responsibilities
+#### Additional Responsibilities
 
 * Understand and map out our user (both prospect and customer) lifecycle journey including touchpoints across all platforms of communication
 * In collaboration across marketing, develop a communication plan to leverage upcoming opportunities to engage with GitLab (including Commit, webcasts, workshops, etc.)
@@ -178,25 +186,23 @@ The Marketing Campaign Manager (Intermediate) is a [grade 6](/handbook/total-rew
 * Recommend marketing automation segmentation (Marketo), targeting, and personalization tactics for use across marketing campaigns in collaboration with marketing operations
 * Work with marketing operations to improve Marketo database efficiency, database hygiene, field values, field completeness, normalization processes, and overall database health to enable user lifecycle programs
 
-#### User Lifecycle Marketing Requirements
+#### Additional Requirements
 
+* Extends that of the Marketing Campaign Manager requirements
 * 3-4+ years of experience and proven track record in developing email marketing campaigns
-* Experience working in a metrics-driven culture to measure tactic impacts
-* Deep empathy for our audience of developers and IT leaders - our community is changing the world, and you want to help accelerate their success through relevant, useful communications
-* Ability to manage multiple projects with intertwining deadlines while staying focused on the details
-* Experience with marketing automation software (Marketo preferred)
-* Experience with CRM software (Salesforce preferred)
-* Experience working in a B2B software marketing team
-* Experience with A/B testing, experiment design, email marketing analysis (connected to attribution reporting is a plus)
-* Proficiency in MS Excel or Google Sheets
-* Strong project management, organizational, and communication skills
-* Impeccable eye for detail
-* Exhibit willingness and flexibility to work both independently as well as part of a team
-* Be familiar with or ready to learn how to use GitLab and Git
-* You share our [values](/handbook/values/), and work in accordance with those values
-* Ability to use GitLab
+* Strong prioritization skills when managing urgent and high-visibility projects and campaigns
+* Expertise with marketing automation software required
+* Experience with user-focused and/or customer-focused campaigns preferred
+* Ability to collaborate with marketing operations and data analytics to drive required data from core databases to marketing automation and email clients appropriately
+* Experience scoping system requirements for marketing ops and sales systems preferred
 
-## Performance Indicators - User Lifecycle Marketing Manager
+## Performance Indicators - Marketing Campaigns
+
+* [Outbound MQLs](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#demand-generation-key-metrics)
+* [Cost per MQL](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#demand-generation-key-metrics)
+* [Closed-Won Attribution/Spend](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#demand-generation-key-metrics)
+
+### Additional Performance Indicators - User Lifecycle
 
 * Free .com user / trial  > paid conversion
 * Database attrition/churn/activation (unsubscribe, disengaged)
