@@ -199,18 +199,11 @@ If you require project-based access, you can request temporary developer access 
 
 #### Why is there a internal handbook?
 
-As a company, we are [public by default](/handbook/values/#public-by-default), but there are things that we cannot discuss publicly. Items that falls into the [not public](/handbook/communication/#not-public) category will be added to this [Internal Handbook](https://internal-handbook.gitlab.io) . 
+As a company, we are [public by default](/handbook/values/#public-by-default), but there are things that we cannot discuss publicly. The Internal Handbook is a space where team members can share internal information. Anything that **is not** considered [internal only](https://about.gitlab.com/handbook/communication/#internal), should be in GitLab's [public handbook](https://about.gitlab.com/handbook/). Anything that is [limited access](https://about.gitlab.com/handbook/communication/#limited-access) **should not be added to the internal handbook** as the internal handbook is accessible by all team members. 
 
 #### The process of using this handbook
 
 Only add items to the internal handbook that fall into the [not public](/handbook/communication/#not-public) category. Everything else should be added to our [public company handbook](/handbook/). 
-
-**Updating the Internal Handbook:** 
-
-1. You are on the [live internal handbook website](https://internal-handbook.gitlab.io/)
-1. Click "Edit this Page" in the bottom left. It will take you to the [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/master/source). 
-1. Click folder titled "Source"
-1. If there is already a section you want to add to, you can select that folder now, go into the appropriate folder, and edit. If the section you are needing has not been created yet, click on the "+" and create a "new file".  
 
 #### Accessing the internal handbook group.
 
@@ -218,11 +211,17 @@ All team members will have this added to their Okta access when they join the co
 - [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/master/source)
 - [Website](https://internal-handbook.gitlab.io) 
 
+#### Updating the Internal Handbook
+
+1. You are on the [live internal handbook website](https://internal-handbook.gitlab.io/)
+1. Click "Open in Web IDE" on the top right of the page. It will take you to the [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/master/source). 
+1. Make edits in the same way that you would with Web IDE on the public handbook site. 
+1. If there is already a section you want to add to, you can select that folder now, go into the appropriate folder, and edit. If the section you are needing has not been created yet, click on the "+" and create a "new file".  
+
 #### What if I have questions about the internal handbook or want to help with it?
 
 - Questions about what should be in the internal handbook vs in the public handbook?  See the [safe framework](https://about.gitlab.com/handbook/legal/safe-framework/#safe) or ask in `#safe`.
 - Questions about updating the internal handbook or volunteering to help with enhancing it?  Join the `#internal-handbook` channel.
-
 
 ## Moving Pages and Adding Redirects to the Handbook
 
