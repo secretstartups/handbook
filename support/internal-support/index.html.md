@@ -62,9 +62,10 @@ They should select "GitLab.com (SaaS) User Accounts and Login Issues" as the rea
 
 According to our [privacy policies](/privacy/), Support will not provide any information regarding customers, groups, projects, etc, to you that are not available publicly. This includes situations where a customer is requesting information about their own projects, groups, etc. If they are unable to authenticate, we cannot assume they are who they say they are. If they are locked out, please have them submit a support ticket.
 
-### Viewing Support Tickets
+### Submitting internal license request extensions and viewing Support Tickets
 
-All GitLab Team Members can request a 'Light Agent' account so that you can see customer tickets in Zendesk and leave notes for the Support team. These accounts are free.
+Sales requests for self managed and GitLab.com subscription extensions are now submitted via Zendesk instead of via an internal GitLab issue. You should now use the [internal requests form](https://gitlab-com.gitlab.io/support/internal-requests-form/) for such requests.  Please note that in order to submit a form you will require a Zendesk 'Light Agent' account, 
+all GitLab Team Members can request a 'Light Agent' account and this will also enable you to see customer tickets in Zendesk and leave notes for the Support team. These accounts are free.
 
 To request a Light Agent Zendesk account, please send an email to `gitlablightagent.2lba7m@zapiermail.com` - you'll receive an automated reply with the result of your request. **You must send your request from your GitLab Google / Gmail account. No other addresses will work.** The Subject and Body fields of the email can be empty. Once set up, you'll need to wait 24 hours for your account to be assigned Zendesk in Okta. Once Zendesk is assigned, you should be able to [log in](https://gitlab.zendesk.com/agent). If you don't get your account assigned within this period, please reach out to #support-operations in Slack. In most cases, people who don't get access within the 24 hours already had an end-user account which prevents the automation from working as expected.
 
