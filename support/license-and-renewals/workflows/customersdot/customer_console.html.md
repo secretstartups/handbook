@@ -17,7 +17,7 @@ Using the customer console for internal requests is only for specials cases wher
 
 Console access requires a completed [Access Request](https://gitlab.com/gitlab-com/access-requests/issues/new?issuable_template=Single%20Person%20Access%20Request) as outlined in the [Customers Console training](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Customers%20Console.md) and its completion.
 
-The scope of what's outlined in this workflow is for frequently used functions which are pre-loaded via [console training wheels project](https://gitlab.com/gitlab-com/support/toolbox/console-training-wheels). Please [check the internal dotcom wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Console-related) for functions not included here.
+The scope of what's outlined in this workflow is for frequently used functions which are pre-loaded via [Customers Console and Functions project](https://gitlab.com/gitlab-com/support/toolbox/console-training-wheels).
 
 ## Using the support console
 
@@ -26,14 +26,14 @@ After logging into the CustomersDot server, enter the command:
 ```
 $ support_console
 ```
-This will open the console and automatically load the functions available to use.
+This will open the rails console and automatically load the functions available to use.
 
 Most functions rely on the namespace (i.e. GitLab.com Group name or username), always make sure to have it handy before starting any work from the console.
 
 Consider creating a [Shell alias](/handbook/tools-and-tips/#shell-aliases) such as the below:
 
 ```
-alias gcp-console="ssh -t <YOUR_USERNAME>@customers.gitlab.com 'support_console'"
+alias cdot-console="ssh -t <YOUR_USERNAME>@customersdot-prod 'support_console'"
 ```
 
 ## Scope
@@ -48,13 +48,13 @@ graph TD
   B --> C(Integrate into the product)
 
 ```
-The more we use a function the more we should ask ourselves why we haven't automated that process or even better integrated that missing function into our product.
+The more we use a function the more we should ask ourselves why we haven't automated that process or integrated that missing function into our product.
 
 ## Search methods
 
 ### view_namespace
 
-> **Note**: This functionality is mostly covered by namespace search in UI and [customers #2163](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/2163).
+> **Note**: This functionality is mostly covered by namespace search in UI.
 
 Provides a unified view for the namespace including orders and customer account linked to the orders.
 
@@ -112,7 +112,7 @@ trial                             true
 
 ### Manual Lookup
 
-> *Note*: Customer name, email, company, and group name searching is available in UI. Subscription name has been requested in [customer #1030](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1030).
+> *Note*: Customer name, email, company, group name, subscription name searching is available in UI.
 
 If required, you can search for an order based on any existing order attribute. Use `find_by` if you believe there is only one, or `where` if you believe there may be multiple matching orders.
 
@@ -258,48 +258,17 @@ irb(main):421:0> find_namespace('test')
 
 ## Plan Methods
 
-### change_trial
+### update_gitlab_plan
 
 > *Note*: This can be deprecated when this is available in the UI which will require [showing expired trials (customers #1173)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1173), [ability to extend (customers #1643)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), and for [the Gitlab account to be tied to customers portal to show GitLab Groups after a trial is initiated (customers #973)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973).
 
-This function will change the plan for a customer with an active or expired **trial** and output the namespace information after completing the change.
+Use cases for this function:
 
-#### Parameters
+1. Extend an active or reactivate an expired trial.
+1. Downgrade to free.
+1. "Extend" a subscription by creating a trial if one does not exist. If an old trial exists, it will reuse it.
 
-| Name | Required | Details |
-| ------ | ------ | ------ |
-| `:namespace` | *Yes* | The namespace to update |
-| `:newplan` | *Yes* | The plan to assign to the namespace (free, bronze, silver, gold) |
-| `:date` | **No** | Date to extend the plan. If not provided, the end date won't be modified |
-
-#### Sample
-
-```ruby
-irb(main):001:0> change_trial('example','silver','2020-05-25')
-{"id"=>0000000,
- "name"=>"example",
- "path"=>"example",
- "kind"=>"group",
- "full_path"=>"example",
- "parent_id"=>nil,
- "avatar_url"=>
-  "https://gitlab.com/uploads/-/system/group/avatar/0000000/icon.png",
- "web_url"=>"https://gitlab.com/groups/example",
- "members_count_with_descendants"=>43,
- "shared_runners_minutes_limit"=>10000,
- "extra_shared_runners_minutes_limit"=>2000,
- "billable_members_count"=>44,
- "plan"=>"silver",
- "trial_ends_on"=>"2020-05-25",
- "trial"=>true}
-```
-
-### update_gitlab_plan
-
-> *Note*: Changing the plan is available via GitLab.com admin, but not changing the date. Both should be possible via API. Feature request: [customers #2164](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/2164).
-
-Change the plan of a namespace on GitLab.com **directly**, bypassing CustomersDot completely.
-This includes potentially extending the expiry date.
+The function will change the minutes quota to the paid plan equivalent, and add additional minutes to get around shared runner cc requirement.
 
 | Name | Required | Details |
 | ------ | ------ | ------ |
@@ -348,9 +317,7 @@ irb(main):001:0> update_gitlab_plan('example','bronze','2020-10-22','A-S00000000
 
 ### force_attr
 
-If the order has the subscription number, but a numer of nil values (especially product plan), then use this function to have the system look up the values in Zuora and copy them over.
-
-**Warning:** This only works if the plan is the product listed first. If there are multiple products, you may need to use the original function with `.last` or something else.
+If the order has the subscription number, but a number of nil values (especially product plan), then use this function to have the system look up the values in Zuora and copy them over.
 
 #### Parameters
 
@@ -362,27 +329,6 @@ If the order has the subscription number, but a numer of nil values (especially 
 
 ```ruby
 irb(main):021:0> force_attr("A-S00000000")
-=> {:success=>true}
-```
-
-### fix_expired_subscription
-
-> *Note*: This should no longer be required as the main use cases were fixed in [customer #1446](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1446) and [customers #1174](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1174).
-
-This function sets the subscription name and ID to `nil`. This was typically done because in the past, customers could not purchase a new subscription for a group if there was an expired one tied to it already. Similar to `unlink_sub`.
-
-Note: Now that [customers#1446](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1446) is fixed and [customers#1174](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1174) should be fixed soon. This function shouldn't be required.
-
-#### Parameters
-
-| Name | Required | Details |
-| ------ | ------ | ------ |
-| `:subscription_name` | *Yes* | Subscription name in the order to update |
-
-#### Sample
-
-```ruby
-irb(main):021:0> fix_expired_subscription("A-S00000000")
 => {:success=>true}
 ```
 
@@ -408,11 +354,8 @@ irb(main):021:0> force_reassociation("A-S00000000", "example")
 
 ### unlink_sub
 
-> *Note*: See [note in fix_expired_subscription](#fix_expired_subscription).
-
 This function sets the group ID and name to `nil` to the order and downgrades the group to Free.
 This is typically done if there are issues associating a different subscription but the existing subscription should show for user.
-Similar to `fix_expired_subscription`.
 
 #### Parameters
 
@@ -470,11 +413,7 @@ irb(main):021:0> associate_full_user_count_with_group(order)
 ```
 ### enable_ci_minutes
 
-> *Note*: consumption groups are those that have bought minutes for CI/CD but are not enrolled in a paid subscription.
-
-This function allows removal of the CC validation **only for sale supported trials or consumption groups** to prevent having to enroll these users credit cards to use CI/CD.
-
-**Warning**: Make sure you use this function *only* for the intended target. Otherwise, you will lift of the restrictions to the wrong group.
+This function allows removal of the CC validation **only for sale supported trials** to prevent having to enroll these users credit cards to use CI/CD by adding additional minutes.
 
 #### Parameters
 
@@ -483,7 +422,6 @@ This function requires a namespace object
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:namespace` | *Yes* | Namespace to update |
-| `:consumption` | *No* | Consumption flag, use this to identify a consumption group, leave blank for sales assisted trial |
 
 #### Sample
 
@@ -505,12 +443,12 @@ Occasionally, to ensure the correct number at renewal, the number of max seats n
 
 #### Parameters
 
-With only the namespace, it will display the seats information. Entering the max seats will change 
+With only the namespace, it will display the seats information. Entering the max seats will change the value.
 
 | Name | Required | Details |
 |------|----------|---------|
 | :namespace      | *Yes* | The namespace to update |
-| :max_seats_used | No  | Max numbers of seats to use |
+| :max_seats_used | No  | Max number of seats to use |
 
 #### Sample
 
@@ -567,72 +505,11 @@ irb(main):089:0> account_seats("gitlab-silver",0)
 ***** seats_owed will be automatically recalculated at 12:00 UTC *****
 ```
 
-### Billable Members
-
-> *Note*: This should no longer be required as there is now an API endpoint and customers can see the list on their billing page.
-
-Provides a list of billable members for a given namespace. This is using the [members API endpoint](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group).
-
-#### Parameters
-
-| Name | Required | Details |
-| ------ | ------ | ------ |
-| `:group_path` | *Yes* | Path of namespace |
-
-#### Sample
-
-```ruby
-irb(main):021:0> send_eula("A-S00000000")
-=> (sample output not copied here as it is very long)
-```
-
-### showGroups2FAStatus
-
-Outputs the group id and name, which the user provided is a member of also the group setting related to 2FA Enforce as `true` or `false`.
-
-#### Parameters
-
-| Name | Required | Details |
-| ------ | ------ | ------ |
-| `:username` | *Yes* | The Gitlab username to query|
-
-#### Sample
-
-```ruby
-irb(main):180:0>  showGroups2FAStatus 'some_user'
-1111111 - One Group : 2FA Enforce [false]
-2222222 - Other group : 2FA Enforce [false]
-3333333 - Technology Group : 2FA Enforce [false]
-4444444 - All Groups : 2FA Enforce [false]
-5555555 - Design Group : 2FA Enforce [false]
-6666666 - External Technology : 2FA Enforce [false]
-7777777 - All-Reporter : 2FA Enforce [false]
-```
-
-### fix_dotcom_seats
-
-> *Note*: Relevant bug issue [gitlab #260307](https://gitlab.com/gitlab-org/gitlab/-/issues/260307).
-
-In any situation similar to [seat count is 0](https://gitlab.com/gitlab-org/gitlab/-/issues/220010), you can use this function to update the number of seats in GitLab.com to the quantity listed in the associated CustomersDot order.
-
-#### Parameters
-
-| Name | Required | Details |
-| ------ | ------ | ------ |
-| `:namespace` | *Yes* | The Gitlab Namespace to fix|
-
-#### Sample
-
-```ruby
-irb(main):180:0>  fix_dotcom_seats("some_namespace")
-=> {:success=>true}
-```
-
 ### update_group_mins
 
 > *Note*: Possible through GitLab.com admin.
 
-Update a group's shared runner minutes.
+Update a group's shared runner minutes monthly quota.
 
 #### Parameters
 
@@ -652,7 +529,7 @@ irb(main):180:0>  update_group_mins(1234,50000)
 
 > *Note*: Additional minutes can also be changed via chatops. Feature request for editing via UI in [gitlab#325917](https://gitlab.com/gitlab-org/gitlab/-/issues/325917).
 
-Update a group's shared runner minutes.
+Update a group's additional runner minutes.
 
 #### Parameters
 
@@ -709,7 +586,7 @@ irb(main):180:0>  update_extra_storage("gitlab-gold",5000)
 
 ### container_registry_storage_usage
 
-> Note: For a large group, this may take several hours, if unsure ask for help in confirmation before running it.
+> Note: For a large group, this may take several hours. If unsure, ask for help before running it.
 
 Calculates the storage usage of the container registry for each project in a given group, the output is the total result in GB and detailed per project.  
 
@@ -742,7 +619,7 @@ irb(main):749:0>  container_registry_storage_usage('some-group') ; nil
 1. How can I add a function?
   - Create a MR for `support_team.rb` in the [console-training-wheels](https://gitlab.com/gitlab-com/support/toolbox/console-training-wheels) project.
 1. Can I use other code not available in `support_team.rb`?
-  - Yes, when you're comfortable with ruby code and IRB, just make sure to merge the code in the library for everyone to use it.
+  - Yes, if you're comfortable with ruby code and IRB, just make sure to merge the code in the library for everyone to use it if applicable.
 
 ### Manually changing attributes
 
