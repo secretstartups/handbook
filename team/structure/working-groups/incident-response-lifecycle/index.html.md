@@ -79,6 +79,7 @@
 | Member              | [Anthony Fappiano](@afappiano)          | Manager Reliability                   |
 | Development Functional Lead | [Dan Croft](@dcroft) | Senior Engineering Manager, Ops |
 | Member | [Sam Goldstein](@sgoldstein) | Director of Engineering, Ops |
+| Member (CMOC) | [Kenneth Chu](@kenneth) | Support team  |
 
 ## Requirements and Considerations
 
