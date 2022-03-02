@@ -57,15 +57,17 @@ When requested by an `Owner` in the **top-level of a paid group**, information c
 
 In situations where [proof of account ownership is required](account_verification.html), then either the relevant user or requesting owner can pass the verification process.
 
-A user is considered an enterprise user when the following are true:
+A user is considered an enterprise user when:
 
-1. The user's email has a domain that is owned by the company of the paid group.
-1. The user account meets one of the following conditions:
+1. The user's email has a domain that is owned by the company of the paid group, _and_
+1. The user account meets _one of_ the following conditions:
     - was created 2021-02-01 or later.
     - has a SAML or SCIM identity tied to the organization's group.
     - has a `provisioned_by_group_id` value that is the same as the organization's group's ID.
     - is a member of the organization's group, where the subscription was purchased or renewed 2021-02-01 or later.
 
-Note: This means that the user need not be a member of the paid group as that is only one of the possible conditions.
+Note: This means that the user's primary email _must_ be in the company domain, but it need not be a member of the paid group, as that is only one of the possible conditions.
+
+If the Owner is requesting access to an account which has a primary email in the company domain, but _does not meet_ any of the second conditions, then we must treat the account as belonging to the user. In this case, the only recourse for the Owner is to send a request _from the primary email account_ and then validate the account as a personal User account.
 
 The relevant information can be found in the ZenDesk GitLab User Lookup, GitLab admin or API. Subscription information can additionally be found in CustomersDot.
