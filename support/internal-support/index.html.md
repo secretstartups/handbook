@@ -83,6 +83,23 @@ You cannot send public replies to customers with a Light Agent account - if you 
 | Excessive reCaptcha on GitLab.com | While it's happening, post in [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) and link to the issue/MR in question to be added to the allowlist. |
 | Report complaints about support that you received from a client or prospect | [Open an issue](https://gitlab.com/gitlab-com/support/feedback/-/issues/new?issuable_template=Indirect%20Feedback) using the `Indirect Feedback` template. |
 
+### GitLab changes and contacting users
+
+When you believe changes to GitLab will have a high impact on users and/or create numerous inbound tickets,
+we encourage you to contact Support so that the team can be prepared.
+
+Additionally, you can request support to contact GitLab.com users on your behalf.
+
+Common use cases include:
+
+- single user blocked by infra or security
+- changes that have occurred or upcoming
+
+| Request    | What To Do                                                   | Where to ask questions |
+| ---------- | ------------------------------------------------------------ | ---------------------- |
+| Contact a single user | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Contact%20Request) using the `Contact Request` template | #support_gitlab-com |
+| Prepare Support for changes (with or without contacting select users) | [Open a Support Readiness issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Readiness) | #spt_managers |
+
 ### GitLab.com Namespaces
 
 | Request    | What To Do                                                   |
