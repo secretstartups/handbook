@@ -25,7 +25,6 @@ New partner program changes are effective on August 15, 2021. Please visit the [
 ### Who We Are
 - Colleen Farris - Director, Channel Operations
 - Emily Murphy - Manager, Alliance Operations
-- Kim Stagg - Manager, Channel Operations
 - Niles Jamshaid - Manager, Partner Operations
 - Dennis Zeissner - Partner Operations Analyst
 - Aura Villalobos - Partner Operations Analyst
@@ -88,6 +87,7 @@ When a deal is being transacted via the Channel, and a discount other than the d
 Discounted quotes not in SFDC and sent to a Partner are not permitted within any GEO or Sales Segment. This includes providing product and discounted pricing quote details in an email.
  
 ### Opportunity Requirements to Request a Quote
+For ease with quoting, there is a [Partner Discount Cheat Sheet](https://docs.google.com/document/d/1dTLM8KzEk_cPUrpzwg3o56xX8zM49txF7-XhPeiegXA/edit?usp=sharing) for use by internal GitLab Team Members.
 Channel Managers or Sales Reps are responsible for quoting all GitLab direct and reseller-direct quotes. For quotes going through distribution, chatter @Partner Help Desk on the opportunity with the following information:
 - For opportunities that include a Partner Sourced Deal Registration, this registration [must be linked to the opportunity](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-resale-opportunities) before requesting a quote
 - Sold-To Contact: the email address the license will be sent to at the customer account
