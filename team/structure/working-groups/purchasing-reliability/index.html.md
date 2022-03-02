@@ -98,22 +98,19 @@ The charter of this working group is to obtain alignment between stackholders (i
 Enterprise Apps, Sales, and Finance). This includes addressing some immediate-term technical debt as well as
 defining a clear vision and team/service boundaries going forward.
 
-1. Relevant systems (namely CustomerDot) fully migrated from Azure to GCP
-1. Improved logging, observability, and well-defined metrics
-    - Applications updated with approppriate instrumentation
-    - Alerts are defined, configured, and monitored by SREs (either from Infra or Fulfillment)
-1. Data models, touchpoints between integrations and services are documented and consistent
-    - Some mechanism in place for change management, review and communication between teams
-1. Single Source of Truth (SSoT) is identified (and respected) for each data model
-    - Any data currently stored in multiple systems is consolidated
+1. Infrastructure roadmap for each system defined
+1. Data models for each system including sources of truth defined
+1. System integrations of Order to Cash systems defined
+1. Change management mechanisms across teams defined
+1. FY23 team structure and staffing plans for each team defined, with a view into committed roadmap items ~2 quarters out for cross-team coordination.
 
 ## Roles and Responsibilities
 
 | Working Group Role    | Person                | Title                                           |
 |-----------------------|-----------------------|-------------------------------------------------|
-| Executive Sponsor     | Sid Sijbrandij        | CEO                                             |
-| Facilitator           | Marshall Cottrell     | Principal Strategy and Operations (Technical)   |
-| Functional Lead       | Jerome Z Ng           | Senior Engineering Manager and Acting Group Product Manager, Fulfillment |
+| Executive Sponsor     | Justin Farris        | Sr Director, Product Monetization                                             |
+| Facilitator           | Omar Fernandez           | Acting Director of Product, Fulfillment         |
+| Facilitator           | Jerome Z Ng           | Senior Engineering Manager, Fulfillment |
 | Member                | Steve Loyd            | VP Infrastructure                               |
 | Member                | Bryan Wise            | VP of IT                                        |
 | Member                | Robert Rea            | Senior Director, IT Ops                         |
@@ -130,6 +127,5 @@ defining a clear vision and team/service boundaries going forward.
 | Member                | Jack Brennan          | Senior Director, Sales Systems                  |
 | Member                | Vincy Wilson          | Manager, Quality                                |
 | Member                | Chloe Liu             | Senior Software Engineer in Test, Quality       |
-| Member                | Justin Farris         | Sr Director, Product Monetization                 |
 | Member                | Christopher Nelson    | Sr Director, Enterprise Applications              |
 
