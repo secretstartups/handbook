@@ -15,7 +15,9 @@ description: "The account team works together to drive value, success, and growt
 
 The account team works together to drive value, success, and growth for a customer.
 
-## Enterprise
+## Sales Segments
+
+### Enterprise
 
 An Enterprise account team is comprised of the following people:
 
@@ -25,7 +27,7 @@ An Enterprise account team is comprised of the following people:
 
 This is commonly referred to as the "SAL-SA-TAM" team (sometimes also written as "SALSATAM").
 
-## Commercial/Mid-Market
+### Commercial/Mid-Market
 
 A Mid-Market account team is comprised of the following people:
 
@@ -34,23 +36,61 @@ A Mid-Market account team is comprised of the following people:
 
 In Mid-Market, Solutions Architects are pooled so they are not aligned with specific account teams.
 
-## Account Team Meeting
+## Roles and Responsibilities 
 
-The account team should meet regularly to review their accounts. Some common topics to discuss during an account team meeting include:
+### Strategic Account Leader (SAL) / Account Executive (AE)
+- Negotiates contracts and price on initial sale and renewals
+- Should have a strategy for prospects and how to close
 
-- The status of accounts in general, particularly those with a [health score other than Green](/handbook/customer-success/tam/health-score-triage/#health-assessment-guidelines)
-- Open opportunities for growth, upgrade, and/or renewal of existing customers
-  - Coordinated customer growth/expansion strategies
-- Open opportunities for new business
-- The status of onboarding for recently added customers
+### Solutions Architect (SA)
+- Should lead discovery calls to find out where and why the prospect is having issues in the SDLC
+- Runs POVs and scopes out SOWs
+- The technical advisor to the SAL for prospects and upgrades
+- Handle all pre-sale technical activities to be handed off to the TAM after the technical win stage
+- Owns the technical side for responding to RFP/RFIs
 
-These meetings should be scheduled on a recurring basis, for the team to review their accounts and make sure they are aligned on their efforts. A weekly cadence is recommended, but if there is a small number of accounts or the accounts are low-touch, a biweekly cadence may be more appropriate.
+### Technical Account Manager (TAM)
+- Trusted strategic and technical advisor to the customer
+- Should handle all things post-sales for the customer (onboarding, stage adoption, EBRs, lunch and learns, etc.)
+- Leads regular cadence calls and keeps the customer collaboration projects up-to-date
+- Maintains Gainsight records of customer health and triaging as necessary
+- Escalation PoC
 
-TAMs should leverage their Gainsight TAM Portfolio dashboard to open discussion and dialogue. 
+## Account Team Meetings
 
-Account teams may choose to include the [Sales Development Representative (SDR)](/job-families/marketing/sales-development-representative/) in their account meetings. The SDR primarily focuses on generating new business so they are not necessarily involved in existing customer accounts, but it may be beneficial to keep everyone informed across the entire account development lifecycle.
+The account team should meet in order to drive strategic growth towards accounts. Some reasons to meet with a customer account team:
 
-To view more information about Account Team Meetings, please refer to the [SALSATAM Page](/handbook/customer-success/account-team/SALSATAM/) 
-## AE/SA-TAM Account Handoff and Overlap
+- Coordinated customer growth/expansion strategies, including renewals and upgrades
+- Onboarding of new customers requiring additional attention
+- Triage if they have a [health score other than Green](/handbook/customer-success/tam/health-score-triage/#health-assessment-guidelines)
+
+As a recommendation to [make the most efficient use of everyone’s time](/handbook/values/#be-respectful-of-others-time), these calls should not happen more than once a week, unless there is a specific and urgent need. There is no requirement to have recurring account team calls, but different regions and segments may approach account team alignments and engagement differently. For clarity on specific regions' or segments' approaches, reach out to the corresponding TAM Manager(s).
+
+Account teams may choose to include the [Sales Development Representative (SDR)](/job-families/marketing/sales-development-representative/) in their account meetings for any targeted growth or wider account expansion.
+
+### Who Leads the Meeting? 
+
+- *No specific person/role is the boss. You are a TEAM.*
+- Tasks should be agreed upon during the SALSATAM meeting and fall into each person’s area of responsibility.
+- SAs and SALs need to work together to ensure a smooth sales process, from discovery to demo to POV to final sale.
+- SAs and TAMs need to work together to ensure a smooth transition for the customer.
+- TAMs and SALs need to work together to ensure a smooth onboarding, continued customer happiness, growing accounts, driving stage adoption, and to lock in the renewal for years to come.
+
+### Tools to Use During the Meeting 
+
+- [Working Agreement](/handbook/customer-success/solutions-architects/processes/#working-agreements) 
+- Salesforce
+- Gainsight
+- Customer collaboration project
+- Customer meeting notes
+
+## Working Together throughout the Customer's Lifecycle  
+
+The SA owns all pre-sales technical relationships and activities. The SA coordinates conversations related to product, sales, business, and technical initiatives prior to the sale. TAM involvement during pre-sales models the expectations for the customer relationship after the sale, but should be limited to only after we achieve a technical win. TAM involvement should supplement, not displace, SA pre-sales ownership of the account.
 
 When an account moves from pre-sales to post-sales, it is [handed off from the Account Executive/Solutions Architect to the Technical Account Manager](/handbook/customer-success/pre-sales-post-sales-transition/).
+
+The TAM takes primary responsibility for the account once a customer becomes TAM-qualifiying and focuses on ensuring customer success and driving adoption. SAs can be reintroduced in the following situations:
+- A new POV for upgrade or additional team
+- Transformative or dedicated professional services opportunities
+- If a TAM is over-committed or unable to support a customer request, the SA _may_ be requested to assist. However, the SA has discretion as to the level of involvement or assistance they provide post-sales.
