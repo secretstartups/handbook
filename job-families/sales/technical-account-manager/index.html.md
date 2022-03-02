@@ -64,7 +64,7 @@ The TAM( Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compe
 
 ### TAM (Intermediate) Responsibilities
 
-- Extends the TAM (Junior) responsibilities
+- Extends the TAM (Associate) responsibilities
 - Establish a trusted/strategic advisor relationship with each assigned customer and drive continued value of our solution and services
 - Assist and provide expert deployment, operational best practices, and establishing a GitLab Center of Excellence
 - Assist in workshops to help customers leverage the full value of GitLab solution
@@ -74,19 +74,11 @@ The TAM( Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compe
 
 ### TAM (Intermediate) Requirements
 
+- Extends the TAM (Associate) requirements
 - Demonstrated progressive experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
-- Experience with Ruby on Rails applications and Git
-- Deep knowledge of software development lifecycle and development pipeline
-- Understanding of continuous integration, continuous deployment, chatOps, and cloud-native
-- Above average knowledge of Unix and Unix based Operating Systems
-- Installation and operation of Linux operating systems and hardware investigation/manipulation commands
-- BASH/Shell scripting including systems and init.d startup scripts
-- Package management (RPM, etc. to add/remove/list packages)
-- Understanding of system log files/logging infrastructure
-- B.Sc. in Computer Science or equivalent experience
-- Programming/scripting experience & skill is required (Bash & Ruby)
-- SCM admin and/or PS experience would be a plus
-- Set up HA/DR, working with Containers and Schedulers (Kubernetes preferred) and also experience with AWS stack (EC2, ECS, RDS, ElastiCache)
+- Understanding of Git and typical branching strategies
+- Knowledge of software development lifecycle and development pipeline
+- Understanding of continuous integration, continuous deployment, DevSecOps
 
 ## Senior TAM
 
@@ -100,7 +92,7 @@ The Senior TAM is a job grade [level 7](/handbook/total-rewards/compensation/com
 
 * Extends the TAM (Intermediate) responsibilities
 * Strategize on the overall objectives and long-range goals of the team
-* Provide mentorship forAssociate and Intermediate TAMs to help them grow in their technical knowledge and provide premium customer experience
+* Provide mentorship for Associate and Intermediate TAMs to help them grow in their technical knowledge and provide premium customer experience
 * Work cross-departmentally to find solutions to complex scenarios and integration issues
 * Demonstrate leadership in new feature and technology adoption and teaching by providing regular enablement and solution overview sessions and documentation for customers and other GitLab team-members
 * Help drive team expertise and technical thought leadership
@@ -109,6 +101,7 @@ The Senior TAM is a job grade [level 7](/handbook/total-rewards/compensation/com
 
 ### Senior TAM Requirements
 
+* Extends the TAM (Intermediate) requirements
 * Ability to translate business requirements into business value, and work with sales and marketing to promote value-driven solutions
 * Strong knowledge of Customer Success best practices, with experience defining process and providing enablement programs to promote adoption in CS and across the company
 * Knowledgable in GitLab internals and deployment methods for cloud or on-premise deployments
@@ -336,17 +329,17 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 
 ## Specialties
 
-### High-Touch
+### Strategic
 
 * Experience leading a high-touch motion with customers, including strategic account planning, lifecycle management, deep focus on maturity of adoption and leadership in expansion initiatives. 
 
-### Mid-Touch
+### Named
 * Possess a deep understanding of creating customer value to deliver scalable customer engagements that help customers derive ongoing value from their investment with GitLab
 * Manage and provide input into iteration upon the customer journey, including onboarding, adoption, retention, and expansion, with an emphasis on defining and demonstrating value programmatically to grow net revenue retention ultimately 
 * Take a data-driven approach to driving value across the customer segment, ensuring time and attention is prioritized to ensure the most significant positive impact
 * Proactively identify and prioritize accounts to focus efforts within a defined territory as based on point in lifecycle (e.g., onboarding) perceived risk, potential growth, strategic value, and renewal timeframe
 * Work cross-functionally with multiple teams (CS ops, content, programs, marketing, product) to develop thoughtful and innovative approaches to driving success with customers at scale
-* Identify key areas of enablement need across the customer segment and partner closely with the high-touch and scale TAMs to create content and webinars to address these needs
+* Identify key areas of enablement need across the customer segment and partner closely with the strategic and scale TAMs to create content and webinars to address these needs
 * Analyze industry best practices, trends, and performance metrics to shape customer engagement strategies and accelerate results
 
 
