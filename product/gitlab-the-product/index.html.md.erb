@@ -249,6 +249,7 @@ This role is often held by maintainers and engineering managers.
 1. Admin-only features can only be found in `/admin`. Outside of that, admins are the same as the highest possible permission (owner).
 1. Owners are essentially group-admins. They can give access to groups and have
 destructive capabilities.
+1. Auditor cannot access `/admin`, group settings, and project settings. Auditor has read-only access to all other areas.
 
 To keep the permissions system clear and consistent we should improve our roles to match common flows
 instead of introducing more and more permission configurations on each resource, if at all possible.
