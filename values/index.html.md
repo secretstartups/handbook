@@ -1196,11 +1196,11 @@ We demonstrate transparency when we are open with as many things as possible red
 
 Our values help us to prevent the [five dysfunctions](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team#Summary):
 
-1. **Absence of trust** Unwilling to be vulnerable within the group => _prevented by collaboration, specifically_ [kindness](#kindness)
 1. **Fear of conflict** Seeking artificial harmony over constructive passionate debate => _prevented by transparency, specifically_ [directness](#directness) _and collaboration, specifically_ [short toes](#short-toes)
-1. **Lack of commitment** Feigning buy-in for group decisions creates ambiguity throughout the organization => _prevented by transparency, specifically_ [directness](#directness)
+1. **Absence of trust** Unwilling to be vulnerable within the group => _prevented by collaboration, specifically_ [kindness](#kindness)
 1. **Avoidance of accountability** Ducking the responsibility to call peers on counterproductive behavior which sets low standards => _prevented by results, iteration, and_ [transparency](#transparency)
 1. **Inattention to results** Focusing on personal success, status, and ego before team success => _prevented by_ [results](#results)
+1. **Lack of commitment** Feigning buy-in for group decisions creates ambiguity throughout the organization => _prevented by transparency, specifically_ [directness](#directness)
 
 Some dysfunctions are not addressed directly by our values; for example, trust is not one of our values.
 Similar to happiness, trust is something that is an outcome, not something you can strive for directly.
