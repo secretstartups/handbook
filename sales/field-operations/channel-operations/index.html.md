@@ -84,11 +84,12 @@ When onboarding a new partner that will be purchasing directly from GitLab, a bi
  
 ### Quoting Requirements for Channel Deals
 When a deal is being transacted via the Channel, and a discount other than the defined Program discounts are being offered, a GitLab quote is ***required***. At a minimum, a [Draft Proposal](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-create-a-draft-proposal) needs to be created and provided to the Partner.
-Discounted quotes not in SFDC and sent to a Partner are not permitted within any GEO or Sales Segment. This includes providing product and discounted pricing quote details in an email.
+Discounted quotes not in SFDC and sent to a Partner are not permitted within any GEO or Sales Segment. This includes providing product and discounted pricing quote details in an email.  
+
+For ease with quoting, there is a [Partner Discount Cheat Sheet](https://docs.google.com/document/d/1dTLM8KzEk_cPUrpzwg3o56xX8zM49txF7-XhPeiegXA/edit?usp=sharing) for use by internal GitLab Team Members.
  
 ### Opportunity Requirements to Request a Quote
-For ease with quoting, there is a [Partner Discount Cheat Sheet](https://docs.google.com/document/d/1dTLM8KzEk_cPUrpzwg3o56xX8zM49txF7-XhPeiegXA/edit?usp=sharing) for use by internal GitLab Team Members.
-Channel Managers or Sales Reps are responsible for quoting all GitLab direct and reseller-direct quotes. For quotes going through distribution, chatter @Partner Help Desk on the opportunity with the following information:
+Sales Reps are responsible for quoting all GitLab direct and reseller-direct quotes. For quotes going through distribution, chatter @Partner Help Desk on the opportunity with the following information:
 - For opportunities that include a Partner Sourced Deal Registration, this registration [must be linked to the opportunity](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-resale-opportunities) before requesting a quote
 - Sold-To Contact: the email address the license will be sent to at the customer account
 - Invoice Owner: The distributor processing the deal. If there’s no distributor on the deal, Channel Managers or Sales Representatives should be processing the quote
