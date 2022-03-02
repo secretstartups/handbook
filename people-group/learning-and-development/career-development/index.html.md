@@ -14,13 +14,11 @@ description: "It is the lifelong process of managing learning, work, leisure and
 
 Career development is the lifelong process of managing learning, work, leisure and transitions to move toward a personally determined and evolving preferred future.
 
-Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://www.skylyte.com/) about the connection between wellbeing, purpose, and our career growth.
+On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team had a handbook learning session with Eric Johnson, CTO, about career development. 
 
-<!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/2XmmGYlsEP8" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/hYahDZ9nIWA" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-<!-- blank line -->
 
 ## Key Career Resources for Team Members
 
@@ -29,34 +27,37 @@ Check out some of the key programs offered for team members to grow their career
 <div class="flex-row" markdown="0">
   <div>
     <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit" class="btn btn-purple" style="width:250px;margin:5px;"> Growth and Development Benefit </a>
-    <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Skill of the Month</a>
     <a href="/handbook/people-group/learning-and-development/career-development/#tracking-your-career-development" class="btn btn-purple" style="width:200px;margin:5px;">Goal Tracking Resources</a>
+         <a href="/handbook/people-group/learning-and-development/career-development/ic-development" class="btn btn-purple" style="width:200px;margin:5px;">Programs for Individual Contributors</a>
   </div>
 </div>
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations" class="btn btn-purple" style="width:250px;margin:5px;"> Career Development Conversations </a>
+      <a href="/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations" class="btn btn-purple" style="width:250px;margin:5px;"> Career Development Conversations </a>
+      <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Skill of the Month</a>
+      <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
+  </div>
+</div>
+
+<div class="flex-row" markdown="0">
+  <div>
     <a href="/handbook/people-group/learning-and-development/career-development/#internship-for-learning" class="btn btn-purple" style="width:200px;margin:5px;">Internship for Learning</a>
     <a href="/handbook/people-group/learning-and-development/career-development/#recorded-workshops" class="btn btn-purple" style="width:200px;margin:5px;">Recorded Workshops</a>
   </div>
 </div>
 
-<div class="flex-row" markdown="0">
-  <div>
-    <a href="handbook/people-group/learning-and-development/mentor/" class="btn btn-purple" style="width:200px;margin:5px;"> Mentorship </a>
-  </div>
-</div>
+## Connecting Career Development to Wellbeing
 
-### Career Development Handbook Learning Session
+Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://www.skylyte.com/) about the connection between wellbeing, purpose, and our career growth.
 
-On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team had a handbook learning session with Eric Johnson, CTO, about career development. 
-
+<!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/hYahDZ9nIWA" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/2XmmGYlsEP8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+<!-- blank line -->
 
-### Roles and Responsibilities
+## Roles and Responsibilities
 
 **Team Member Owned**
  1. Take charge of your own development and career
@@ -87,7 +88,7 @@ On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team h
 1. Does your feedback from others tell you anything about how feasible your aspirations are?
 1. Do you currently have the skills and talents needed for the future business needs?  If not what can you do now to get ready?
 
-### Career Development versus Career Mobility
+## Career Development versus Career Mobility
 
 #### The Relationship between learning and [promotions](/handbook/people-group/promotions-transfers/)
 
