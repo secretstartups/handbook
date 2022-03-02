@@ -64,7 +64,7 @@ CMO staff will recommend who from their organizations should participate in the 
 
 | Start date | End date | Shadow & Role |
 | ---------- | -------- | ------- |
-| 2021-05-17 | 2021-05-28 | [Michael Preuss](https://gitlab.com/mpreuss22) - Senior Manager, Digital Experience |
+| 2021-05-17 | 2021-05-28 | [Michael Preuss](https://gitlab.com/mpreuss22) - Director, Digital Experience |
 | 2021-05-31 | 2021-06-11 | Available |
 | 2021-06-164 | 2021-06-25 | Available |
 
