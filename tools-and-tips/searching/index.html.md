@@ -54,12 +54,14 @@ The steps below show you how to set up a keyword search for searching the GitLab
 
 | Step | Image |
 |---|---|
-| 1. Right-click on the address bar in Chrome and select `Edit Search Engines...` | ![Edit search engine](/images/handbook/tools-and-tips/searching/1_edit_search_engine.png) |
+| 1. Right-click on the address bar in Chrome and select `Manage Search Engines...` | ![Manage search engine](/images/handbook/tools-and-tips/searching/1_manage_search_engine.png) |
 | 2. In the new search engines page, click the `Add` button | ![Add search engine](/images/handbook/tools-and-tips/searching/2_add_search_engine.png) |
-| 3. In the new `Add search engine` dialog, enter the following then click `Add`: <br> a. `GitLab handbook` in *Search Engine* <br> b. `hb` in *Keyword* <br> c. `/handbook/#stq=%s` in *URL* | ![Enter search engine details](/images/handbook/tools-and-tips/searching/3_enter_search_engine_details.png) |
+| 3. In the new `Add search engine` dialog, enter the following then click `Add`: <br> a. `GitLab handbook` in *Search Engine* <br> b. `hb` in *Keyword* <br> c. `https://about.gitlab.com/handbook/#stq=%s` in *URL* | ![Enter search engine details](/images/handbook/tools-and-tips/searching/3_enter_search_engine_details.png) |
+
+**Alternative:** The above adds the GitLab Handbook site search function to Chrome.  If you would prefer to continue to use Google search engine to site search the Handbook, in step 3.c. above you can add `google.com/search?q=site:about.gitlab.com/handbook %s` in *URL* 
 
 To test this, open a new tab and in the address bar type: `hb` <kbd>Tab</kbd> `iteration` and press enter.
-The GitLab handbook page should load with the search results for `iteration` showing.
+The GitLab handbook page should load with the search results for `iteration` showing.  If you use the alternative approach with the search site: method, the Google search results page should load with results exclusively from the Handbook.
 
 ### Setting up keyword searches in Firefox
 
@@ -97,7 +99,7 @@ Instructions for adding keyword searches in Chrome and Firefox can be found abov
 
 | Action | Keyword example | Keyword search URL |
 | --- | --- | --- |
-| Search GitLab handbook | hb | /handbook/#stq=%s |
+| Search GitLab handbook | hb | https://about.gitlab.com/handbook/#stq=%s |
 | Search GitLab docs | gd | https://docs.gitlab.com/search/?query=%s |
 | Search GitLab issues | gi | https://gitlab.com/search?search=%s&group_id=9970&project_id=278964&scope=issues |
 | Search gitlab-org group | go | https://gitlab.com/search?search=%s&group_id=9970 |
@@ -126,7 +128,7 @@ If you prefer to search by selecting a search engine in the address bar instead 
 |---|---|
 | 1. Install the [Add custom search engine extension](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/) | |
 | 2. Once installed, click the addon icon in the toolbar or click "Preferences" from the addon manager | ![Add custom search engine extension](/images/handbook/tools-and-tips/searching/1_add_search_engine_firefox.png) |
-| 3. Enter the following then click `Add custom search engine`: <br> a. `GitLab handbook` in *Name* <br> b. `/handbook/#stq=%s` in *Search URL* <br> c. `https://about.gitlab.com/ico/favicon.ico` in *Icon* | ![Search engine form](/images/handbook/tools-and-tips/searching/2_add_search_engine_firefox.png) |
+| 3. Enter the following then click `Add custom search engine`: <br> a. `GitLab handbook` in *Name* <br> b. `https://about.gitlab.com/handbook/#stq=%s` in *Search URL* <br> c. `https://about.gitlab.com/ico/favicon.ico` in *Icon* | ![Search engine form](/images/handbook/tools-and-tips/searching/2_add_search_engine_firefox.png) |
 
 To test this, go to a new tab, enter some text into the address bar, and you will now see an icon for your new search engine at the bottom of the suggestions list.
 
@@ -163,7 +165,7 @@ To search for recorded events in [GitLab Unfiltered via our YouTube Channel](htt
 
 * Open [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/featured)
 * Click on the magnifying icon on the top bar indicating “Search.”
-* Type in the event you would like to locate a recording for (i.e. AMA, Group Conversation, Product Kickoff Review, Key Meetings, etc).
+* Type in the event you would like to locate a recording for (i.e. AMA, Group Conversation, Product Kickoff Review, Key Reviews, etc).
 * Scroll through the search page to find recorded videos.
 * You can also click on the “[Videos](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/videos)” tab.
 * Sort by “Date Added (newest)” or “Date Added (oldest).”

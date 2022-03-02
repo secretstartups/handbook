@@ -70,17 +70,42 @@ _Sign up for your default Zoom Pro account in Okta. All team members should have
 Before using Zoom for the first time, it is recommended to [test your audio]( https://support.zoom.us/hc/en-us/articles/201362283-Testing-Computer-or-Device-Audio) as well as [test your video](https://support.zoom.us/hc/en-us/articles/201362313-How-Do-I-Test-My-Video-).
 Zoom even has its own [test](https://zoom.us/test) that you can utilize to ensure everything is set up correctly.
 
+#### Enable captions and live transcription
+
+If you are the meeting host, consider enabling live transcriptions for accessibility. Live transcription is not enabled by default, and must be enabled manually for each meeting:
+
+1. In the Zoom toolbar, select **CC** (for closed captioning).
+1. Select **Enable live transcription**.
+
+If the host is not present, no one can enable live transcription. If you've created a meeting but won't be attending, consider assigning alternative host permissions to someone who will be present, so they can enable live transcription.
+
 ### Making a customized Personal link
 
-Please make sure that you customize your Personal link under **Profile > Personal Link**.
-The default is `gitlab.firstnamelastname`.
-Enable the Waiting Room so unauthorized attendees cannot join your zoom room.
-The personal link is used by talent acquisition to schedule interviews so it is important the default naming convention is used and there is no password set.
+The personal link is used by talent acquisition to schedule interviews, so it is important the default naming convention is used and there is no password set.
+
+1. Navigate to the [profile page](https://gitlab.zoom.us/profile).
+1. In the Meeting section, you can see your "Personal Link". Select "Customize".
+1. Customize it to `gitlab.firstnamelastname`.
+1. Select "Save Changes".
+1. Navigate to the [meetings page](https://gitlab.zoom.us/meeting).
+1. Select the top tab "Personal Room".
+1. Towards the bottom of the page, select "Edit" and uncheck the "Passcode" box.
+1. Select "Save".
+
+Don't forget to [enable the Waiting Room](#enabling-the-waiting-room-for-your-personal-meeting-room)
+so unauthorized attendees cannot join your zoom room.
 
 ### Adding your title to your name
 
-Since Zoom doesn't display the job title field during meetings, it is recommended that you add your job title as part of your last name in the last name field.
-For example, if your name is Art VanDelay and your role is Engineer, you can write first name: `Art` and last name: `VanDelay - Engineer`.
+Since Zoom doesn't display the job title field during meetings, it is recommended that you add your job title as part of the display name field.
+For example, if your name is Art VanDelay and your role is Engineer, you can write display name: `Art VanDelay - Engineer`.
+
+### Join meetings with muted microphone
+
+Joining an ongoing meeting with your microphone not muted can cause disruptions. As we sometimes forget to quickly mute ourselves, Zoom provides an [option to join calls muted](https://support.zoom.us/hc/en-us/articles/203024649-Muting-your-microphone-when-joining-a-meeting):
+
+1. Navigate to `Zoom > Preferences > Audio`.
+1. Scroll down and select the box `Mute my mic when joining a meeting`.
 
 ### Set up a shortcut for muting in Zoom
 
@@ -96,16 +121,12 @@ Follow these steps to set it up:
 It's recommended you enable the [Waiting Room](https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room) feature for your personal meeting room to prevent others from joining (in the event of back-to-back meetings, for example).
 There are a few steps to get this enabled for personal meetings:
 
-1. Open up "Zoom Settings" in the app, then click the "General" page in the top left navigation on the Settings dialog.
-1. Then click the link "View More Settings" at the bottom left of the page, which will open in the browser.
-1. Find the option "Waiting room" under "In Meeting (Advanced)" and enable it for all participants.
-   Note: This will enable the waiting room but _NOT_ for the personal meeting
-
-**For Personal Meetings**
-
-1. Scroll up to the top of the web browser settings in the left navigation area sidebar click the "Meetings" link and select the top tab "Personal Meeting Room".
-1. Towards the bottom of the page click "Edit this meeting" and check the "Enable waiting room" box.
-1. Click "Save"
+1. Navigate to the [settings page](https://gitlab.zoom.us/profile/setting) in your browser.
+1. In the "Meeting" tab under "Security", find the option "Waiting room" and enable it for all participants.
+1. Navigate to the [meetings page](https://gitlab.zoom.us/meeting).
+1. Select the top tab "Personal Room".
+1. Towards the bottom of the page, select "Edit" and check the "Waiting Room" box.
+1. Select "Save".
 
 Now all meetings that use your Personal Meeting ID (PMI) will require you to "admit" anyone who joins the meeting.
 
@@ -135,13 +156,18 @@ Now all meetings that use your Personal Meeting ID (PMI) will require you to "ad
 1. ***KEEP IN MIND:*** If you add Passcodes within Zoom to an existing meeting, calendar invites will need to be resent to include the Passcode.
 
 ### Enable authenticated-only meeting attendees
-As an added security measure, you can restrict the meeting by requiring any attendee to be authenticated to Zoom.
+As an added security measure, you can restrict the meeting by requiring any attendee to be authenticated to Zoom with a Gitlab zoom account.
 This is meant to ensure only people who have logged in to Zoom can attend the meeting.
 This is not recommended for meetings with attendees that are not GitLab team members such as customers or someone interviewing for GitLab employment.
 It should be noted that this needs to be set up before the meeting, not during the meeting.
 
+Here is a quick video tutorial how to do this:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZvaLolwKfAI/0.jpg)](https://www.youtube.com/watch?v=ZvaLolwKfAI)
+
+
 ***Steps for a new meeting:***
-1. During the meeting creation, in the Security section there is an option in the Zoom client that says: "Only authenticated users can join: Sign in to Zoom". Click the check box next to this option.
+1. During the meeting creation, in the Security section there is an option in the Zoom client that says: "Only authenticated users can join: Gitlab Internal Only" or select the "Sign in to Zoom" option so users with any Zoom account can join. Click the check box next to this option.
 1. If you are in Zoom via the browser, the option is still in the Security section but is labeled: "Require authentication to join".
 1. Proceed as normal with your meeting creation, and click Save.
 1. This process only works in the Zoom client or from the gitlab.zoom.us website. If you're scheduling it within Google calendar, schedule as normal and edit the meeting following the steps in the next section for an existing meeting.
@@ -277,6 +303,22 @@ Using the Zoom app:
 1. Click Save.
 
 
+### Recording video transcripts
+
+[Closed captioning and live
+transcription](https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription)
+is enabled by default for all users, however the subtitles will not show for participants unless
+a host manually enables it once the meeting starts.
+
+At the end of a recorded meeting, the transcription will be available in a text file under the same
+folder as the other recording files.
+
+For local recordings, a transcription is saved to `closed_caption.txt` but only if enabled by
+a co-host.
+
+For cloud recordings, the file name ends with `.transcript.txt` and the full transcription is always
+available. Processing takes about 15 minutes, so the video files appear before the transcription.
+
 ### How to share a presentation in Zoom
 
 At some point, you may need to give a slide presentation using Zoom.
@@ -318,7 +360,9 @@ If you would like to practice presenting, you can do so using your own private Z
 
 Sharing a document is not recommended in Zoom.  Instead, participants can follow along in the document themselves.  The link to the document should be included in the meeting invite.
 
-If you share your screen (for a document despite above recomendation, for a web based application demo, for an ssh session, etc.) it is recommended that you increase the font size so that the text can easily be read by those who are farsighted.
+If you share your screen (for a document despite above recommendation, for a web based application demo, for an ssh session, etc.) it is recommended that you increase the font size so that the text can easily be read by those who are farsighted.
+
+If you share your screen in zoom, please wait until after introductions have been completed to allow participants to see each other clearly during introductions. This is especially important during external calls when participants are meeting each other for the first time.
 
 ### Using a phone to connect to audio
 
@@ -386,7 +430,7 @@ Don’t take the entire experience too seriously or you’ll bleed the presentat
 
 Therefore it is good to allow your natural personality to shine through.
 This will refresh the presentation with an air of genuine spirit, much needed when your audience is remote and cannot interact with you in person.
-Remember, if you sound like you’re enjoying hosting the meeting, the audience is more likely to enjoy listening to it.
+Remember, if you sound like you’re enjoying hosting the meeting, the audience is more likely to enjoy listening to it. Find other tips for increasing user engagemnet from our [live speaker series with Lorraine Lee on all-remote video and presentation tips](/handbook/communication/#video-and-presentation-tips-with-lorraine-lee)
 
 ### Provide links rather than sharing while you present or edit
 
@@ -447,7 +491,7 @@ Note that you must start the `ZoomLauncher` binary and not the shell script wrap
 
 ### Virtual background
 
-With or without a physical [green screen](https://www.amazon.com/dp/B00JSAOGWG/ref=psdc_3443951_t1_B0053EBFRU), you can utilize [virtual backgrounds](https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background) so that you don't have to worry about what's behind you while on a video call. 
+With or without a physical [green screen](https://www.amazon.com/dp/B00JSAOGWG/ref=psdc_3443951_t1_B0053EBFRU), you can utilize [virtual backgrounds](https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background) so that you don't have to worry about what's behind you while on a video call.
 
 Consider using a [custom GitLab Background](https://drive.google.com/drive/u/1/folders/1Fv6_e_1dgSDE5N_KuMvtDM6gdNIUgRcT) (*Google Drive access available to GitLab team members who are logged in*).
 
@@ -484,6 +528,13 @@ In the above Chrome support thread, the following macOS solution is listed:
 > Quit and restart Chrome to see the checkbox
 
  Once you do this, when you start your next Zoom meeting, just check the box to always trust Zoom and you'll never see it again.
+
+### Zoom automatically lowering your microphone input volume
+
+If you have a loud keyboard or a fan in your office, Zoom may try to automatically reduce your microphone input volume. This can be frustrating because then other participants have trouble hearing you speak later in the call.
+If you are experiencing this issue, go into your Zoom client settings and uncheck "Automatically adjust microphone volume".
+
+![Zoom mic settings](/images/handbook/tools-and-tips/zoom-mic-volume.png)
 
 ### Google Calendar Add-on for Zoom
 

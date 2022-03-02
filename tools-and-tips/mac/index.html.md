@@ -13,7 +13,7 @@ This page lists various tips and tools for macOS.
 
 ## macOS tips
 
-Here are some useful [tips](https://support.apple.com/explore/new-to-mac) if you are new to macOS.
+Here are some useful [tips]() if you are new to macOS.
 Even if you are not new, these [keyboard shortcuts](https://support.apple.com/en-us/HT201236) may come in handy.
 
 If you are switching from Windows to macOS, these [tips](https://support.apple.com/en-us/HT204216) may be useful.
@@ -34,6 +34,10 @@ If you have a screen shot in your clipboard, you can open the `Preview` and then
 
 For screen recordings, you can use Quicktime Player to capture an area or the full screen.
 Open the application and, under the `File` menu, select `New Screen Recording`, or press `command + control + n`.
+
+### Screenshot productivity tips
+
+To automatically compress your screenshots and move them to a designated directory, so your `Desktop` directory won't get cluttered with screenshot files, check this GitLab Unfiltered blog post: [One simple trick to make your screenshots 80% smaller](https://about.gitlab.com/blog/2020/01/30/simple-trick-for-smaller-screenshots/).
 
 ## Disabling macOS notification center
 
@@ -84,6 +88,35 @@ The options being used here are `-d` to prevent the display from sleeping, `-i` 
 ```shell
 > caffeinate -dist 3600
 ```
+
+## Docker Desktop
+
+With the licensing changes for Docker Desktop commercial use, we are obligated to purchase a software subscription for use with Docker Desktop. This software [cannot be expensed](/handbook/finance/expenses/#-software) as it requires a subscription.
+
+Please consider using the following alternatives:
+
+1. [Rancher Desktop](https://rancherdesktop.io/)
+1. [Docker engine with multipass](https://gitlab.com/-/snippets/2176238)
+1. [Lima + nerdctl](https://gitlab.com/-/snippets/2203856)
+1. [Colima](https://gitlab.com/-/snippets/2259133)
+
+Be advised that some of these alternatives could require more resources, more setup time, or might be more complex to setup depending on your skillset.
+
+If none of the alternatives are suitable for your workflow (e.g. there is a limitation of what the software can do), or the setup is too complex, it is possible to get access to a group with access to a license for Docker Desktop.
+
+To request access, please follow these steps:
+
+1. Create an account on [hub.docker.com](https://hub.docker.com) using your `@gitlab.com` email. It is not possible to gain access with a non-company email.
+1. Log an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issue%5Bmilestone_id%5D=), detailing why alternatives are not an option (as noted above).
+1. Once your manager approves the request, assign to the System Provisioner listed in the [Tech Stack] for this system.
+
+Once your access has been provisioned, you will receive an email notification that you have been added to a specific `dockerdesktop` team. Following that, you can [install Docker desktop](https://www.docker.com/products/docker-desktop), and login with the registered account.
+
+The number of licenses is limited, so provisioning might take time, or might not be temporarily possible to gain access to the team.
+
+If at some point in the future you do not want to use the product anymore, please [file an Access Change request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issue%5Bmilestone_id%5D=#), assign to provisioner listed in the [Tech Stack] so that we can assign the license to someone else.
+
+[Tech Stack]: https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml
 
 ## macOS utilities
 

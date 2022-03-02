@@ -3,6 +3,9 @@ layout: handbook-page-toc
 title: "Other apps"
 ---
 
+<!--HTML parse for rendering alert boxes-->
+{::options parse_block_html="true" /}
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -10,6 +13,18 @@ title: "Other apps"
 {:toc .hidden-md .hidden-lg}
 
 This page lists various apps that may be useful for your workflow at GitLab.
+
+### General security tip
+
+Some tools and extensions integrate into your various work accounts and will
+request certain permissions for them. Please always be cautious of the
+permissions requested by the application. For example a GitLab integration that
+only requests to be able to read your user profile can be appropriate, however
+an integration shouldn't be able to have read or write access the API. Similarly,
+it isn't recommended to input a GitLab [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html)
+linked to your work account in a third-party tool.
+
+When in doubt, you can always ask in the `#security` Slack channel.
 
 ## Internet browsers
 
@@ -45,7 +60,7 @@ A popular one recommended by the Security Team is [uBlock Origin](https://github
 
 #### One Tab
 
-[One Tab (Free)](https://www.one-tab.com/) tames tabs into a list which can be sorted and exported.
+[One Tab (Free)](https://www.one-tab.com/) turns tabs into a list which can be sorted and exported.
 
 #### SessionBox
 
@@ -58,6 +73,10 @@ This is particularly useful for testing with different users in the same browser
 If you would like to receive daily notifications on newly opened issues, the Chrome extension [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) is an excellent tool for accomplishing this task.
 After installing the extension, access the project page you are interested in following, under the project issues click on the "Subscribe to RSS feed" button which you can find in the top right corner of the page.
 
+#### Formatting Hyperlinks
+
+Do you want a simple way of copying a hyperlink title and address in markdown? The [Format Link](https://chrome.google.com/webstore/detail/format-link/pocemhmkmchpgamlnocemnbhlcjcbjgg) extension offers a quick and easy way to do this, along with allowing you to customize any number of other formats. For detailed instructions and examples, they are available [here](https://docs.google.com/document/d/1y3xdjwgiVsTpVBAEFhK1nn7G6iJm8p5nIEfAoKt_oBk/edit#heading=h.51mhaa5pq2zt). If you’re looking for just the ability to copy a link as markdown format then the [Copy as Markdown](https://chrome.google.com/webstore/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn) extension will provide that level of functionality.
+
 ### Flash (do NOT use)
 
 **Flash**: Due to security flaws, we strongly recommend _not_ using Adobe Flash.
@@ -66,12 +85,6 @@ But even the Google Chrome plugin that lets you see embedded Flash content in we
 If you have not already, go to your [Chrome Flash Settings](chrome://settings/content/flash) and disable Flash.
 For further context, note that [Google Chrome is removing Flash support soon](https://nakedsecurity.sophos.com/2016/05/18/yet-more-bad-news-for-flash-as-google-chrome-says-goodbye-sort-of/), and while the [plugin is better than a local install of Flash](http://security.stackexchange.com/questions/98117/should-flash-be-disabled-or-are-sandboxes-secure-enough), 
 it still leaves vulnerabilities for [zero-day attacks](http://www.pctools.com/security-news/zero-day-vulnerability/).
-
-### Minimizing Google Chrome's resource usage
-
-To minimize Google Chrome browser's memory and CPU usage, you can enable [Tab Freeze](chrome://flags/#proactive-tab-freeze) (you need to manually navigate to this URL) which suspends tabs after five minutes of inactivity.
-
-This is enabled by default from Chrome 80 and the option is removed.
 
 ### Prototyping in the browser
 
@@ -94,8 +107,15 @@ You can also make the entire web page editable, using the [`designMode`](https:/
 [Grammarly](https://www.grammarly.com) is a good tool for those who want to feel more comfortable drafting written communication in English (American or British).
 There is a free and premium version.
 
-_Warning_: Grammarly browser extensions are discouraged, Grammarly will have access to everything you type in your browser, and they have had [a security problem](https://gizmodo.com/grammarly-bug-let-snoops-read-everything-you-wrote-onli-1822740378).
-If you want to use it to check non-confidential text manually, you should download the [desktop version](https://www.grammarly.com/native/mac) instead. The desktop version is not available for Linux.
+<div class="panel panel-gitlab-orange">
+**IMPORTANT NOTE FOR GRAMMARLY**
+{: .panel-heading}
+<div class="panel-body">
+
+Grammarly browser extensions are discouraged, Grammarly will have access to everything you type in your browser, and they have had [a security problem](https://gizmodo.com/grammarly-bug-let-snoops-read-everything-you-wrote-onli-1822740378). If you want to use it to check non-confidential text manually, you should download the [desktop version](https://www.grammarly.com/native/mac) instead. The desktop version is not available for Linux. Refer to [GitLab's Data Classification Standard](/handbook/engineering/security/data-classification-standard.html) for additional details on how data is classified across the organization.
+
+</div>
+</div>
 
 ### LanguageTool
 
@@ -104,8 +124,15 @@ with a LanguageTool server [run locally with Docker](https://github.com/language
 This ensures that spell and grammar checking remains both convenient and confidential:
 
 1. Install the [LanguageTool browser extension](https://www.languagetool.org/#firefox_chrome).
+1. Install [docker engine](/handbook/tools-and-tips/mac/#docker-desktop)
 1. Follow the setup instructions at [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool).
-1. Configure the browser extension under `Experimental settings > Other server` with the IP and port that the container exposes (see ReadMe in 2. for defaults).
+1. Configure the browser extension under `Experimental settings > Local server`.
+
+Note: The instructions on GitHub have some extra things you won't need. Really, all you need to do is open Terminal and run 
+
+`docker pull erikvl87/languagetool` 
+
+`docker run -d --restart unless-stopped -p 8010:8010 erikvl87/languagetool`
 
 ### Simplenote
 
@@ -120,15 +147,16 @@ The core app is free to download and use, but the paid [Powerpack](https://www.a
 It's a great tool for developers and general productivity enthusiasts alike.
 The clipboard history feature is nicely integrated with many tools, and for example will forget passwords copied from 1Password after they have been pasted.
 
-If you'd like to share your calendar with e.g. your partner you can use the 'Share with specific people' feature and set the permissions to 'See only free/busy (hide details)':
-
+Alfred adds the ability to create custom searches. Here are two to search the docs and the handbook. 
 ```
 https://docs.gitlab.com/search/?q={query}
 ```
 
 ```
-/handbook/#stq={query}&stp=1
+https://about.gitlab.com/handbook/#stq={query}&stp=1
 ```
+
+Read [Searching using Alfred](https://about.gitlab.com/handbook/tools-and-tips/searching/#searching-using-alfred-on-macos) to learn more and be able to automatically add them.
 
 There is also [a repo maintained by GitLab team members](https://gitlab.com/gitlab-org/alfred) with GitLab related workflows.
 
@@ -172,6 +200,18 @@ If an event needs to be cancelled or modified, make sure to use Calendly to do s
 
 [Clockwise](https://www.getclockwise.com/) is a tool for optimizing your schedule to free up time for you to focus. It will look for opportunities to reschedule meetings when it's most efficient for attendees, and give you uninterrupted time to work. Clockwise integrates with your [calendar](/handbook/tools-and-tips/#google-calendar), and when possible will move events automatically on your behalf.
 
+<div class="panel panel-gitlab-orange">
+**IMPORTANT NOTE FOR TEAM MEMBERS USING CLOCKWISE**
+{: .panel-heading}
+<div class="panel-body">
+
+Clockwise requires specific permissions which allow it to read all calendar invitation data. Team Members who opt to utilize Clockwise should be cognizant about the meeting details (i.e. subject and meeting invite body) included in meetings that are sent from your calendar. Confidential data such as customer names, security specific information like discussion of incidents or bugs should not be included in a calendar title or body, and  instead be kept in a linked agenda, which Clockwise will not be able to read or download. Any data considered non-confidential per [GitLab's Data Classification Standard](/handbook/engineering/security/data-classification-standard.html) can be safely included in meeting invites.
+
+Team Members should also note that by utilizing Clockwise, you inherently agree to providing Clockwise with the ability to view and download your Google Contacts saved to your gitlab.com email account. This will be limited to viewing and downloading information for contacts with an @gitlab.com email alias.
+
+</div>
+</div>
+
 ### Freedom
 
 If you find yourself switching to websites you find distracting, especially during periods that require focus, and you worry it may affect your productivity, consider using [Freedom](https://freedom.to/why).
@@ -196,10 +236,18 @@ Various [Chrome extensions](https://chrome.google.com/webstore/search/pomodoro "
 [Quitter (Free)](https://marco.org/apps) will switch off apps for you after some period of inactivity.
 Consider using this to hide Slack after a while to reduce your urge to check new messages all the time. Quitter is only available for the Mac.
 
+### Raycast
+
+[Raycast](https://www.raycast.com/) is a productivity tool similar to [Alfred](#alfred) and Spotlight on macOS. Download the app and select your preferred shortcut. You can also replace spotlight entirely by choosing `cmd + space` as shortcut. 
+
+The core app provides many workflows built-in, extensions from the [store](https://www.raycast.com/store) can be installed either directly from the web, or by using the built-in [extension search](https://developers.raycast.com/basics/install-an-extension).
+
+**Please do not use extensions for GitLab using a personal access token (PAT) for security reasons.**
+
 ### TripMode
 
 [TripMode ($7.99)](https://www.tripmode.ch/) lets you control which apps can use the internet.
-This is especially useful when you're working on a cellular/metered connection. TripMode is only available for the Mac. Linux users can enable 
+This is especially useful when you're working on a cellular/metered connection. TripMode is only available for the Mac.
 
 ## Text editors
 
@@ -228,6 +276,10 @@ Putting the following in Preferences.sublime-settings - User will among other th
   "folder_exclude_patterns": ["public"]
 }
 ```
+
+### GitHub Copilot
+
+GitHub released [Copilot](https://copilot.github.com), an AI-powered tool for in-situ suggestions within VSCode, in 2021. It’s an interesting and exciting tool. However at this time it does not guarantee that the code being suggested is strictly sourced from codebases governed by [an open source license compatible with our own project](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/LICENSE) which could lead to license conflicts. Until the licensing of the suggestions is established, please don't use Copilot.
 
 ## Video calling
 
@@ -281,6 +333,6 @@ It also offers a free reliable mobile video conference app.
 [Loom (Free)](https://www.useloom.com/) is a handy Chrome plugin tool for video walkthroughs.
 Nice tool for demo recordings and internal/external documentation. Note, Loom videos are public by default - ensure you are not exposing data that should remain private. GitLab does have a Loom workspace, for a license please follow the instructions on the [tech stack page](/handbook/business-technology/tech-stack/)
 
-### Teampaper Snap
+The Gitlab handbook and most other content is written in English. Even if a non-native speaker's English is pretty good there might be times when the content is too sophisticated and a translation is welcome. Avoiding tedious copy and paste into another browser tab or app can easily be achieved by using the [DeepL translator](https://www.deepl.com/).
+DeepL is available as a Web site but also as a Mac app for free. Using a shortcut on MacOS takes selected text from the handbook right into the app and starts translating. Linux users can only use a Chrome extension and right-click to open another tab for the Web version.
 
-[Teampaper Snap (Free / Mac only)](http://teampaper.me/snap/) is the ultimate screen capture tool for Mac to voice your thoughts on anything you can see on a screen.
