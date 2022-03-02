@@ -16,6 +16,9 @@ title: "Marketing Finance"
  * [Accounting](https://about.gitlab.com/handbook/finance/accounting/)
  * [Allocadia (Marketing Financial Planning tool)](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/)
 
+## Allocadia Training Materials
+ * [Recorded Allocadia Training - 2022-02-17](https://youtu.be/KzalNgirORo)
+ * [Allocadia Training Deck - 2022-02-17](https://docs.google.com/presentation/d/1PZFYEl7mmQp_TIlrNEkA6lL3A3lHQu_iBecYkQVvJ3A/edit?usp=sharing)
 
 ## Finance Business Partner Alignment
 
@@ -75,7 +78,7 @@ The Marketing Variance Review meeting happens once a month to review the actual 
 * 2022-09-28: September Invoices loaded into Allocadia (estimated)
 * 2022-10-03: Finalized September AvB file due from Marketing to Finance
 * 2022-10-24: October Forecast Due
-* 2022-10-28: Ovtober Invoices loaded into Allocadia (estimated)
+* 2022-10-28: October Invoices loaded into Allocadia (estimated)
 * 2022-10-31: Q4 Plan Due
 * 2022-11-01: Finalized October AvB file due from Marketing to Finance
 * 2022-11-18: FY24 Bottom's Up Plan due in Allocadia (estimated)
@@ -92,19 +95,29 @@ The Marketing Variance Review meeting happens once a month to review the actual 
 
 ## Finance Terminology
 
-* Budget - the amount of money that is given at the start of the fiscal year
-* Plan - locked at the start of the quarter and is your best itemized guess at what you will spend
-* Forecast - never locked and you will continually update Allocadia through each quarter with accurate expenses as you know more
+| Term | Definition |
+| -------- | ---- | 
+| Target | Quarterly top-down budget. Entered into Allocadia by Marketing Finance. Targets are live in Allocadia can only be changed through the budget transfer process within Allocadia.| 
+| Plan | What Marketing expects to expense in the upcoming quarter (or fiscal year), informed by upcoming Marketing activity while following expense recognition. This value is locked in Allocadia after quarter plan is finalized. | 
+| Forecast | This is the live forecast. At the beginning of each quarter this will equal Plan, but Marketing is expected to update as activities occur. What Marketing expects to expense in the upcoming months, informed by upcoming Marketing activity while following expense recognition. | 
+| Expensed | What actually hit the income statement. When a month closes, Marketing and Finance will reconcile forecast values in Allocadia to the income statement. The column will be renamed “expensed”. (i.e. Feb Forecast will become Feb Expensed) | 
+| Invoiced | Invoiced amount approved in Coupa. This will be uploaded by Marketing Finance around 3 days before month end. AP closes around 3 days prior to month end. Any invoices approved after will hit the following month. (e.g. Feb 28 invoice approval will hit March) | 
 
 ## Marketing Budget Holders
 
-The marketing budget holder should be updating their forecast throughout the month in Allocadia as expenses occur and as they have more insight into the spend. On the Forecast Due dates listed above, Finance will take what is in Allocadia and compare that against Actuals in the Actuals vs Budget (AvB) file. When discrepancies greater than $1000 occur between forecast and actuals, accounting and finance will check with the budget holder to see if an accrual needs to occur.
+The marketing budget holder should be updating their forecast throughout the month in Allocadia as expenses occur and as they have more insight into the spend. On the Forecast Due dates listed above, Finance will take what is in Allocadia and compare that against Actuals in the Actuals vs Budget (AvB) file. When discrepancies greater than $5,000 occur between forecast and actuals, accounting and finance will check with the budget holder to see if an accrual needs to occur.
 
 At the plan due dates above, finance will take what is loaded into Allocadia for the quarter and add that into Adaptive. This is considered your plan and you will be held accountable to plan for the remainder of the quarter. Large variances from the plan will be explained at the monthly variance review meetings with CMO staff. If the department is under-spend, the difference may be reallocated to other departments. 
 
-## Accounting Prepaid Policy
+## Expense Recognition Policy
 
-Please see the [Accounting](https://about.gitlab.com/handbook/finance/accounting/#prepaid-expense-policy) handbook page for the latest guidance on accruals and variance. As our company grows, the guidance is subject to change 
+|  | Less than $5k | Between $5k and $50k | Greater than $50k |
+| -------- | ---- | -------- | -------- |
+| Swag | Month of Invoice Approval | Month of Invoice Approval | Month swag ships |
+| Software | Month of Invoice Approval | If contract 12 months of more, amortized across months. If contract less than 12 months, recognized month of invoice approval.| Amortized across contract period, if over multiple quarters. |
+| All Other | Month of Invoice Approval | Month of work occurring, event occurring, or goods received | Month of work occurring, event occurring, or goods received |
+
+Please see the [Accounting](https://about.gitlab.com/handbook/finance/accounting/#prepaid-expense-policy) handbook page for the latest guidance on accruals and variance. As our company grows, the guidance is subject to change based on Controller direction. 
 
 ## Budget Reallocation
 
