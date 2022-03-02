@@ -142,6 +142,26 @@ If you encounter a SaaS emergency at the weekend that you are unable to progress
 
 If you are still stuck _and_ are having difficulty finding help, contact the [manager on-call](/handbook/support/on-call/#paging-the-on-call-manager) or initiate the [dev-escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
 
+## License Emergencies
+
+### Self-managed Subscription Emergencies
+{:.no_toc}
+
+There may be times when a customer's subscription expires over the weekend, leaving their instance unusable until a new subscription is generated.
+
+For non-trial subscriptions, you can remind the customer that subscriptions have [a 14 days grace period](https://about.gitlab.com/pricing/licensing-faq/#what-happens-when-my-subscription-is-about-to-expire-or-has-expired). If the expiration will not fall outside the grace period before the next business day, kindly let the user know that their request will be handled as a standard L&R case during normal business hours. You should reduce the priority of the case and inform the L&R team of the issue.
+
+Otherwise, you will need to login to [CustomersDot Admin](https://customers.gitlab.com/admin) and generate a short term (7-14 days) **trial license** for them by following [this workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html). 
+The idea is to get them through the weekend so they can solve this with their TAM, Sales Rep, and the L&R Support team during the regular workweek.
+
+### SaaS Subscription Emergencies
+{:.no_toc}
+
+A customer may be blocked because of a license expiring or neglecting to apply a renewal. If you're familiar with [L&R Workflows](/handbook/support/license-and-renewals/workflows/), you may solve the case completely by yourself. If you are not, you may:
+
+1. [Manually upgrade the namespace using the mechanizer](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_gitlab_plan.html)
+1. Alert `#support_licensing-subscription` that you've done so and link to the ticket for follow-up.
+
 ## SaaS Emergencies
 
 The workflow for these calls is the same as with self-managed emergencies: success means that the customer is unblocked. In some cases,
@@ -209,12 +229,6 @@ If there is a known incident, it's acceptable to link to the public status page 
 - [Regression on GitLab.com broke previously working pipeline](https://gitlab.zendesk.com/agent/tickets/147266): resolution was to revert a recently deployed MR.
 - [Customer locked themselves out of their group by changing SAML settings](https://gitlab.zendesk.com/agent/tickets/146611)
 
-### Subscription Issues
-
-A customer may be blocked because of a license expiring or neglecting to apply a renewal. If you're familiar with [L&R Workflows](/handbook/support/license-and-renewals/workflows/), you may solve the case completely by yourself. If you are not, you may:
-
-1. [Manually upgrade the namespace using the mechanizer](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_gitlab_plan.html)
-1. Alert `#support_licensing-subscription` that you've done so and link to the ticket for follow-up.
 
 ### Consumption Issues
 
