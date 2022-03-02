@@ -7,7 +7,7 @@ title: Fullstack Engineer - Marketing
 
 ### Fullstack Engineer (Intermediate) 
 
-The Fullstack Engineer (Intermediate) reports to the [Senior Manager, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#senior-manager-digital-experience).
+The Fullstack Engineer (Intermediate) reports to the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
 
 #### Fullstack Engineer (Intermediate) Job Grade
 
@@ -39,7 +39,7 @@ The Fullstack Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/com
 
 ### Senior Fullstack Engineer
 
-The Senior Fullstack Engineer reports to the [Senior Manager, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#senior-manager-digital-experience).
+The Senior Fullstack Engineer reports to the [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#director-digital-experience).
 
 #### Senior Fullstack Engineer Job Grade
 
@@ -81,10 +81,10 @@ The next step in the Website Full Stack Development job family is not yet define
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](/company/team/).
 
 * Select candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a 30 minute interview with our Senior Manager, Digital Experience. 
+* Next, candidates will be invited to schedule a 30 minute interview with our Director, Digital Experience. 
 * Next, candidates will be invited to schedule a 30 minute technical interview with our Fullstack Engineer and an interview with a Senior Brand Designer. 
 * Next, candidates will be invited to schedule a 30 minute interview with the Senior Director, Growth Marketing. 
-* Finally, candidates will be invited to schedule a 30 minute follow up interview with the Senior Manager, Digital Experience. 
+* Finally, candidates will be invited to schedule a 30 minute follow up interview with the Director, Digital Experience. 
 * Successful candidates will subsequently be made an offer via phone or video. 
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
