@@ -111,7 +111,7 @@ Stakeholders with business requirements or domain expertise who will provide inp
 | Collaborator | Michelle Hodges | VP, Channel Sales |
 | Collaborator | Jack Brennan | Sr Director, Sales Systems |
 | Collaborator | David Duncan | VP Marketing |
-| Collaborator | Michael Preuss | Senior Manager, Digital Experience |
+| Collaborator | Michael Preuss | Director, Digital Experience |
 | Collaborator | Sindhu Tatimatla | Director, Analytics & Insights |
 | Collaborator | Cheri Holmes | Chief of Staff to CRO |
 | Collaborator | Jake Bielecki | Sr Director, Sales Strategy and Ops |
