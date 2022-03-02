@@ -19,21 +19,35 @@ This group strives to connect employees at GitLab that are part of the LGBTQ+ co
 
 To ensure that GitLab is proactive in supporting, retaining, and recruiting from the LGBTQ+ community. This group also aims to help develop and coordinate mentoring in the workplace.
 
-## Leads
+## Structure
+
+### Leads
 * [Alex Hanselka](https://about.gitlab.com/company/team/#ahanselka)
 * [Helen Mason](https://about.gitlab.com/company/team/#hmason)
 
-
-## Executive Sponsor
+### Executive Sponsor
 * [Robin Schulman](https://about.gitlab.com/company/team/#rschulman)
 
-## Upcoming Events
+### Members
+* Sign up to get meeting invites by joining the [GitLab Pride Google Group](https://groups.google.com/a/gitlab.com/g/pride-tmrg)
+* Join the #lgbtq Slack channel
+
+### Project
+* [GitLab Pride Issue Board](https://gitlab.com/gitlab-com/pride-tmrg/)
+
+## Events
+
+### Upcoming
+* Transgender Day of Visibility - March 31
+* Pride Month - June
+* Coming out Day - October 11
+
+[Wikipedia list of LGBTQ awareness periods](https://en.wikipedia.org/wiki/List_of_LGBT_awareness_periods)
+
+### Past
 * [Coming Out Day Panel Discussion Recording](https://youtu.be/OUKWs6hkMQY)
 
-## Additional Resources
-
-- Sign up to get meeting invites by joining the [GitLab Pride Google Group](https://groups.google.com/a/gitlab.com/g/pride-tmrg)
-- [GitLab Pride Issue Board](https://gitlab.com/gitlab-com/pride-tmrg/)
+## Additional GitLab Resources
 - [Gender and Sexual Orientation Identity Definitions and FAQ](https://about.gitlab.com/handbook/people-group/gender-pronouns/)
 
 ## Resources for Being an Ally with the Pride Community
