@@ -11,7 +11,7 @@ Senior Distinguished Engineers are recognized experts in multiple technology dom
 
 The Senior Distinguished Engineer is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Distinguished Engineer Requirements
+## Requirements
 
 * Extends that of the [Distinguished Engineer](#distinguished-engineer) requirements
 
