@@ -167,17 +167,14 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 
 * Jama Connect
 * IBM Rational DOORS
+* Intercom
 * qTest
 * Test Rail
 * HPQC
+* HubSpot
 * Zendesk
 * Freshdesk
 
-#### Certify
-
-* Zendesk
-* HubSpot
-* Intercom
 
 ### Create
 
