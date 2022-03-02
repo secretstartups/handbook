@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Michael Preuss' README (Senior Manager, Digital Experience)"
+title: "Michael Preuss' README (Director, Digital Experience)"
 description: "Learn more about working with Michael Preuss"
 ---
 
@@ -12,7 +12,7 @@ description: "Learn more about working with Michael Preuss"
 
 ## Michael Preuss’ README
 
-Hi 👋 my name is Michael Preuss. My last name is pronounced like Rolls Royce ... Royce ... Proyce ... Preuss. I know, it's German 🤷‍♂️ I'm the Senior Manager, Digital Experience at GitLab.
+Hi 👋 my name is Michael Preuss. My last name is pronounced like Rolls Royce ... Royce ... Proyce ... Preuss. I know, it's German 🤷‍♂️ I'm the Director, Digital Experience at GitLab.
 
 - [GitLab Handle](https://gitlab.com/mpreuss22)
 - [Team Page](https://about.gitlab.com/company/team/#mpreuss22)

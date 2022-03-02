@@ -9,7 +9,7 @@ description: "Learn more about working with various members of the marketing tea
 - [Jessica Reeder's README (Senior All-Remote Campaign Manager)](/handbook/marketing/readmes/jessicareeder/)
 - [Laura Duggan's README (Frontend Engineer)](/handbook/marketing/readmes/laura-duggan.html)
 - [Lauren Barker's README (Fullstack Engineer)](/handbook/marketing/readmes/lauren-barker.html)
-- [Michael Preuss’ README (Senior Manager, Digital Experience)](/handbook/marketing/readmes/michael-preuss.html)
+- [Michael Preuss’ README (Director, Digital Experience)](/handbook/marketing/readmes/michael-preuss.html)
 - [Nathan Dubord's README (Frontend Engineer)](/handbook/marketing/readmes/nathan-dubord.html)
 - [Tyler Williams' README (Fullstack Engineer)](/handbook/marketing/readmes/tyler-williams.html)
 - [Wil Spillane's README  (Head of Social)](/handbook/marketing/readmes/wspillane.html)
