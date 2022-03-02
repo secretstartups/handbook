@@ -211,6 +211,16 @@ To learn more on when to use asynchronous and synchronous communication, example
 
 [Ask Me Anything meetings](/handbook/communication/ask-me-anything/) can be a useful opportunity for team members to meet a new leader, learn more about an existing team member, or gain clarity on a recent change.
 
+### Smart note-taking in meetings
+
+Note taking helps us to work with people asynchronously as team members can add their thoughts to an agenda in advance of a meeting and understand what was discussed if they cannot attend. It also offers a record of what was discussed that can later be referenced. While it may not be feasible to capture all words said in a meeting, focus on noting speakers and their key points. Extensive note-taking should not happen at the expense of correct note-taking. At the end of the meeting, try to clearly capture key takeaways, next steps, and [DRIs](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual).
+
+While a designated person may be the primary person responsible for note-taking in a specific meeting, all team members should feel empowered to chip in. Note-taking can be a lot for a single person to stay on top of--especially when there is a fast moving conversation with many speakers. Team members can contribute by helping with notes, correcting anything that is incorrect (names, abbreviations, etc.), and adding key details that were important but missed.
+
+Use discretion in taking notes if sensitive topics are being discussed. For example, do not takes notes on [not-public information](/handbook/communication/#not-public) if the agenda may be available to an audience who should not be privy to this information.
+
+If you have any questions about what may or may not be a sensitive topic, please refer to our SAFE Framework or reach out via the #safe Slack channel
+
 ### Posting in #company-fyi
 
 ```mermaid
