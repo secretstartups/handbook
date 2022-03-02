@@ -177,7 +177,7 @@ Since participation in the Select Track is by invitation only, partners are not 
 | Partner Helpdesk | X | X |
 | Level 2 Support Hotline |  | X |
 | Dedicated Channel Manager |  | X |
-| Free Limited Instance of GitLab Ultimate/Gold - 5 users/6mo |  | X |
+| Not for Resale Licenses | X | X |
 |  |  |  |
 | **Marketing** |  |  |
 | Partner Portal | X | X |
