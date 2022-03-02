@@ -423,7 +423,7 @@ In this section, we cover:
 
 #### Getting Started with GitLab
 
-To get started with GitLab,  register your company by going to https://partners.gitlab.com. The system will prompt you for your company information as well as your personal contact information.  A GitLab Channel Account Manager will contact you for qualification.  If you agree to proceed, your company will be required to sign a GitLab Reseller agreement.  Once you are registered, you should:
+To get started with GitLab,  register your company by going to https://partners.gitlab.com. The system will prompt you for your company information as well as your personal contact information.  A GitLab Channel Account Manager may contact you for qualification.  If you agree to proceed, your company will be required to sign a GitLab Reseller agreement.  Once you are registered, you should:
 
 *   Work with to your GitLab Channel Account Manager or distributor to begin business and sales planning.
 *   Visit the portal and encourage your colleagues to sign up at https://partners.gitlab.com. 
@@ -434,14 +434,7 @@ To get started with GitLab,  register your company by going to https://partners.
 
 #### Completing Training and Certifications
 
-GitLab training programs are available primarily through the [GitLab Partner Portal](https://partners.gitlab.com).  There you will find the certification courses and testing needed to meet your GitLab program requirements for sales, pre-sales technical and professional services training.  Additional training materials can be found in the GitLab Handbook:
-
-
-*   [Sales Quickstart Learning](/handbook/sales/onboarding/sales-learning-path/) - This is an overview of the GitLab Sales training plus additional learning materials.
-*   [Reseller Webcast Archive](https://about.gitlab.com/webcast/reseller/).  Review recent channel webcasts providing deep dive learning on key GitLab topics.
-*   [GitLab Training Handbook page](https://about.gitlab.com/training/) - This page provides a subset of on-demand product and technical content suggested based on your role and skill level.
-*   [GitLab Partner Services Workshop](/handbook/resellers/bootcamp) - Self paced, hands-on training for consultants and technical personnel
-
+GitLab training programs are available primarily through the [GitLab Partner Portal](https://partners.gitlab.com).  There you will find the certification courses and testing needed to meet your GitLab program requirements for sales, pre-sales technical and professional services training.  
 
 #### Deal Registration Instructions
 
@@ -673,15 +666,12 @@ GitLab has introduced a new partner portal that serves as the primary source of 
 *   Sales, services, program and marketing resources
 *   GitLab news
 
-Visit the portal at partners.gitlab.com.
-
-##### How to Partner Portal Video 
-This video can be found live in the partner portal for our partners. For our GitLab team members who do not have access to the partner portal, please [see the training video here](https://drive.google.com/file/d/1cAGBOWrvRRL71zPPrUkwLm0L4BP_MzF_/view?usp=sharing).
+Visit the portal at partners.gitlab.com.  There is a walk-through video available on the portal or you can visit [the walk-through video here](https://drive.google.com/file/d/1cAGBOWrvRRL71zPPrUkwLm0L4BP_MzF_/view?usp=sharing).
 
 
 #### The GitLab Handbook
 
-The GitLab team handbook is the central repository for how we run the company. Printed, it consists of over[ 5,000 pages of text](/handbook/about/#count-handbook-pages). As part of our value of being transparent the handbook is[ open to the world](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook), and we welcome feedback. Although the Portal is your first source of partner information, we often link to the Handbook for detailed information.  If you are unable to find information you need on the Partner Portal, you are encouraged to search pages of GitLab Handbook.
+The GitLab team handbook is the central repository for how we run the company. Printed, it consists of over[ 8,000 pages of text](/handbook/about/#count-handbook-pages). As part of our value of being transparent the handbook is[ open to the world](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook), and we welcome feedback. Although the Portal is your first source of partner information, we often link to the Handbook for detailed information.  If you are unable to find information you need on the Partner Portal, you are encouraged to search pages of GitLab Handbook.
 
 
 
