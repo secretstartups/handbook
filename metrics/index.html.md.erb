@@ -187,6 +187,15 @@ The 3 types (Bug, Feature & Maintenance) is key to our report to industry analys
 If these labels are missing, it will be tracked in the `undefined` bucket instead.
 The Engineering Manager for each team is ultimately responsible for ensuring that these labels are set correctly.
 
+### Spike work
+
+Large efforts will occasionally undergo a spike to identify & research technical approaches to complete the work. Spike efforts shall be classified with the following guidelines:
+
+1. Classifying the spike based on type of work that the spike will result in. For example: 
+   - A spike to enhance a feature should be classified as `~"feature::enhancement"` and `~"type::feature"`
+   - A spike to update dependencies, upgrade versions of underlying libraries should be classified as `~"maintenance::dependency"` and `~"type::maintenance"`
+1. If the spike will result in multiple types of work, choose the type that is of the majority of the resulting work (e.g. more than half). 
+
 ### Legacy types
 
 #### `~"backstage"` go-forward guidance
