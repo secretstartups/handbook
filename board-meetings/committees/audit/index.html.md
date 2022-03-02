@@ -23,111 +23,198 @@ title: "Audit Committee"
 
 Please click here to read the [Audit Committee Charter](https://ir.gitlab.com/static-files/f8d37e2d-d022-4194-996f-6d194cd02173)
 
-### Audit Committee Agenda Planner
+## Audit Committee Agenda Planner
 
-We review the below topics no less frequently than the following schedule:
+The below amended Audit Committee `Earnings` and `Compliance and Special Topics` Meeting Calendar was approved by the Audit Committee on 2021-12-15.
 
-#### Management, Accounting and Reporting
+### Audit Committee Earnings Meeting Calendar <br>
+
+#### Accounting and Reporting
 
 |#|Topics                                                              | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: |:---:  |
-| 1 |Accounting policies                                               |       |       |       |       |    X   |
-| 2 |Significant estimates and judgements                              |       |       |       |       |    X   |
-| 3 |New accounting standards – impact and implementation plan         |       |       |       |       |    X   |
-| 4 |Review of financial Statements <br> (if applicable, GAAP and Non-GAAP financials/metrics) |   X   |    X   |   X   |   X |       |
-| 5 |Treasury                                                          |       |   X   |   X   |   X   |       |
-| 6 |Investment                                                        |       |   X   |       |       |       |
-| 7 |Review of financial statement risk                                |       |   X   |       |       |       |
-| 8 |Insurance coverage update                                         |       |       |   X   |       |       |
-| 9 |Close process                                                     |       |    X  |       |       |       |
-|10 |Stock transactions                                                |       |       |       |       |   X   |
-|11 |Tax audits / Taxes                                                |       |       |       |       |   X   |
-|12 |Guidance model (if applicable)                                    |       |       |       |       |   X   |
-|13 |Audit Update                                                      |   X   |   X   |   X   |   X   |       |
-|14 |Attrition                                                         |   X   |   X   |   X   |   X   |       |
-|15 |Quarterly Calendar                                                |   X   |       |       |       |       |
-|16 |Organization Overviews - Accounting, Finance, Tax, FP&A, Investor Relations       |       |   X   |       |       |       |
+| 1 |Financial Summary                       |   X   |    X   |   X   |   X  |       |
+| 2 |Statement of Operations - GAAP          |   X   |    X   |   X   |   X  |       |
+| 3 |Review of Financial Statements          |   X   |    X   |   X   |   X  |       |
+| 4 |Balance Sheet                           |   X   |    X   |   X   |   X  |       |
+| 5 |Statement of Cash Flow                  |   X   |    X   |   X   |   X  |       |
+| 6 |GAAP to Non-GAAP Reconciliation         |   X   |    X   |   X   |   X  |       |
+| 7 |Review of Financial Statement - Summary of Key Accounting Matters     |   X   |    X   |   X   |   X  |       |
+| 8 |Audit Update                            |   X   |    X   |   X   |   X  |       |
+| 9 |Other Topics                                        |     |    |     |     |  X  |
 
-#### People Division
+
+#### Tax
+
+|#|Topics                                                              | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
+|:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: |:---:  |
+| 1 |Summary of Key Tax Metrics                      |   X   |    X   |   X   |   X |       |
+| 2 |Other Topics                                        |     |    |     |     |  X  |
+
+
+#### Disclosure Committee
 
 |#|Topics                                                                  | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:| :----------------------------------------------------------------- | :---: | :---: | :---: | :---: |:---: |
-| 1 | Global staffing update, succession plan and continuous improvement   |       |   X   |       |       |      |
-| 2 | EEO audits                                                           |       |   X   |       |       |      |
-| 3 | Payroll, Compensation and hiring                                     |       |   X   |       |       |      |
-| 4 | Organization Overview                                                |       |   X   |       |       |      |
+| 1 | Disclosure Committee Report          |   X   |    X   |   X   |   X |       |
+| 2 |Other Topics                                        |     |    |     |     |  X  |
 
-#### Legal, Risk and Compliance
+
+#### 10Q /10K
 
 |#| Topics                                                                             | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:| :------------------------------------------------------------------------ | :---: | :---: | :---: | :---: |:---: |
-| 1 | Compliance to business conduct (including hotline complaints and code of conduct violations).|       |       |       |    |  X  |
-| 2 | Code of conduct, Related party transactions and other policy reviews              |      |       |       |     |    X  | 
-| 3 | Legal risk assessment updates                                                     |      |       |       |     |    X  |    
-| 4 | Regulatory compliance                                                             |      |   X   |       |     |       |  
-| 5 | Privacy                                                                           |      |   X   |       |     |       |  
-| 6 | Committee annual assessment                                                       |      |       |       |  X  |       |
-| 7 | Litigation                                                                        |      |       |       |     |   X   |
-| 8 | Approval of minutes                                                               |   X  |   X   |   X   |  X  |       |
-| 9 | Review of Audit committee charter                                                 |   X  |       |       |     |       | 
-| 10 | Related party transactions                                                       |      |       |       |     |   X   | 
-| 11 | Organization Overview                                                            |      |   X   |       |     |       |
-
-#### System
-
-|#| Topics                                                                 | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
-|:---:| :----------------------------------------------------------------- | :---: | :---: | :---: | :---: |:---: |
-| 1 | Information Technology System updates                                |   X   |   X   |   X   |   X   |      |
-| 2 | Organization Overview                                                |       |   X   |       |       |      |
-
-
-#### Security Compliance
-
-|#| Topics                                                                 | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
-|:---:| :----------------------------------------------------------------- | :---: | :---: | :---: | :---: |:---: |
-| 1 | Annual Security Operational Risk Assessment                          |       |   X   |       |       |      |      
-| 2 | Security update                                                      |   X   |   X   |   X   |   X   |   X  |
-| 3 | Finance application IT General Control audits                        |   X   |   X   |   X   |   X   |      |
-| 4 | Organization Overview                                                |       |   X   |       |       |      |
+| 1 | 10Q /10K Summary and Draft 10Q /10K        |  X  |   X  |   X   |   X   |      |
+| 2 |Other Topics                                        |     |    |     |     |  X  |
 
 
 #### Internal Audit
 
 |#| Topics                           | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:| :------------------------------------------------------------------------------------- | :---: | :---: | :---: | :---: |:---: |
-| 1 | Internal audit and global annual plan                                                     |       |       |       |   X   |      |
-| 2 | Internal audit activity report and annual plan update                                     |   X   |   X   |   X   |   X   |      |
-| 3 | SOX - Internal control over financial reporting assessment and deficiencies status update |   X   |   X   |   X   |   X   |      |
-| 4 | Internal controls (pre-Sox)                                                               |       |   X   |       |       |      |
-| 5 | Internal audit charter review                                                             |   X   |       |       |       |      |
-| 6 | Fraud Risk assessment                                                                     |       |   X   |       |       |      |
-| 7 | Annual assessment of internal audit                                                       |       |       |   X   |       |      |
-| 8 | Organization Overview                                               |       |   X   |       |        |     |
+| 1 | Internal Audit Update                       |      |       |      |    |   X   |
+| 2 |Other Topics                                        |     |    |     |     |  X  |
 
-#### External Audit
+
+#### Earnings Release and Guidance
 
 |#| Topics                                                                        | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:| :-------------------------------------------------------------------- | :---: | :---: | :---: | :---: |:---: |
-| 1 | Global audit plan and fees/Appoint External Auditor                     |       |       |       |   X   |      |
-| 2 | Year-end audit results and required communications, as applicable       |   X   |   X   |   X   |   X   |      |
-| 3 | Annual assessment of audit firm, engagement team and lead audit partner |       |       |   X   |       |      |
-| 4 | Independence review                                                     |       |       |       |   X   |      |
-| 5 | Audit                                                                   |   X   |   X   |   X   |   X   |      |
+| 1 | Press Release                 |  X  |   X  |   X   |   X   |      |
+| 2 | Prepared Remarks              |  X  |   X  |   X   |   X   |      |
+| 3 | Investor Presentation         |  X  |   X  |   X   |   X   |      |
+| 4 | Guidance Review               |  X  |   X  |   X   |   X   |      |
+| 5 |Other Topics                                        |     |    |     |     |  X  |
+
+
+#### KPMG
+
+|#| Topics                                     | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
+|:---:| :------------------------------------- | :---: | :---: | :---: | :---: |:---: |
+| 1 | Quarterly Review Update                  |   X   |   X   |   X   |   X   |      |
+| 2 |Other Topics                                        |     |    |     |     |  X  |
 
 
 #### Closed session 
 
 |#| Topics                                     | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:| :------------------------------------- | :---: | :---: | :---: | :---: |:---: |
-| 1 | Executive Session with invitees          |       |       |       |       |   X  |
-| 2 | Chief Legal Officer                      |   X   |   X   |   X   |   X   |      |
-| 3 | Chief Finance Officer                    |   X   |   X   |   X   |   X   |      |
-| 4 | Approvals                                |   X   |   X   |   X   |   X   |      |
-| 5 | External Auditor                         |   X   |   X   |   X   |   X   |      |
+| 1 | Chief Legal Officer, Chief Finance Officer and kPMG       |  X  |   X  |   X   |   X   |      |
+
 
 <br>
 
-### Audit Committee Meeting Deck Preparation Guidelines
+### Audit Committee Compliance and Special Topics Meeting Calendar <BR>
+
+#### Management, Accounting and Reporting
+
+|#|Topics                                 | Frequency | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
+|:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---:  |
+| 1 |New Accounting Pronouncements                         |Annual |  X  |    |     |     |     |
+| 2 |International Reporting                               |Annual |  X  |    |     |     |     |
+| 3 |Treasury                                              |Annual |  X  |    |  X  |     |     |
+| 4 |Tax/Economic Ownership Structure                      |Annual |     |    |     |  X  |     |
+| 5 |Effective Tax Rate/Cash Taxes/Tax Attributes (NOLs and Credits)                                                |Quarterly |  X  | X  |  X  |  X  |     |
+| 6 |Stat Audit Update                                     |Annual |     |    |  X  |     |     |
+| 7 |Audit Committee Calendar Review                       |Annual |     |    |     |  X  |     |
+| 8 |Organization Overviews - Accounting, Finance, Tax, FP&A, Investor Relations                                             |Semi Annual |     | X  |     |  X  |     |
+| 9 |Insurance Coverage Update                          |As needed |     |    |     |     |  X  |
+|10 |Stock Transactions                                 |As needed |     |    |     |     |  X  |
+|11 |Tax Audits and Assessments/Closing Agreements      |As needed |     |    |     |     |  X  |
+|12 |Attrition                                          |As needed |     |    |     |     |  X  |
+|13 |Investment Program and Health Check              |Semi Annual |     | X  |     |  X  |     |
+|14 |Close Process Assessment & SEC                   |Semi Annual |     | X  |     |  X  |     |
+|15 |Other Topics                                         |As needed |     |    |     |     |  X  |
+
+
+#### People Division
+
+|#|Topics                                                        | Frequency | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
+|:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---: |
+| 1 | Global staffing update                                           | Annual|       |   X   |       |       |      |
+| 2 | Team assessment, shared service plan and succession planning     | Annual|       |   X   |       |       |      |
+| 3 | EEO audits                                                       | Annual|       |   X   |       |       |      |
+| 4 | Payroll, Compensation and hiring                                 | Annual|       |   X   |       |       |      |
+| 5 | Organization Overview                                            | Annual|       |   X   |       |       |      |
+| 6 |Other Topics                                         |As needed |     |    |     |     |  X  |
+
+
+#### Legal, Risk and Compliance
+
+|#|Topics                                 | Frequency | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
+|:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---:  |
+| 1 |Compliance to Business Conduct (including hotline complaints and code of conduct violations)     |As needed |     |    |     |     |  X  |
+| 2 |Code of Conduct, Related Party Transactions and other policy reviews   |As needed |     |     |     |     |  X  |
+| 3 |Legal Risk Assessment updates           |As needed |     |     |     |     |  X  |
+| 4 |Regulatory Compliance                   |As needed |     |     |     |     |  X  |
+| 5 |Privacy & Product Compliance / Employment  |Annual |     |  X  |     |     |  X  |
+| 6 |Committee Annual Assessment                |Annual |  X  |     |     |     |  X  |
+| 7 |Related Party Transactions              |As needed |     |     |     |     |  X  |
+| 8 |Litigation                              |As needed |     |     |     |     |  X  |
+| 9 |Review of Audit Committee Charter          |Annual |  X  |     |     |     |  X  |
+|10 |Organization Overview                      |Annual |     |  X  |     |     |  X  |
+|11 |Approval of Minutes                     |Quarterly |  X  |  X  |  X  |  X  |     |
+|12 |Other Topics                                         |As needed |     |    |     |     |  X  |
+
+
+#### System
+
+|#|Topics                                 | Frequency | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
+|:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---:  |
+| 1 | Information Technology System Updates (accomplishments, focus and improvements)  |Semi Annual |      | X  |     |  X  |     |
+| 2 | State of Systems and Scalability      |Semi Annual |  X   |    |  X  |     |     |
+| 3 | Organization Overview                      |Annual |  X   |    |     |     |     |
+| 4 |Other Topics                                         |As needed |     |    |     |     |  X  |
+
+
+#### Security Compliance
+
+|#|Topics                                 | Frequency | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
+|:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---:  |
+| 1 | Security Operational Risk Assessment Results         |Annual |      |  X  |     |     |     |
+| 2 | Security Update                                 |Semi Annual |      |  X  |     |  X  |     |
+| 3 | Finance Application System Reviews (ITGC)       |Semi Annual |  X   |     |  X  |     |     |
+| 4 | Organization Overview                                |Annual |      |     |     |  X  |     |
+| 5 |Other Topics                                         |As needed |     |    |     |     |  X  |
+
+
+#### Internal Audit
+
+|#|Topics                                 | Frequency | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
+|:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---:  |
+| 1 | Internal Audit Annual Plan             |Annual |  X   |     |     |     |     |
+| 2 | Fraud Risk Assessment                  |Annual |      |  X  |     |     |     |
+| 3 | Annual Assessment of Internal Audit    |Annual |      |     |  X  |     |     |
+| 4 | Internal Audit Charter Review       |As needed |   X  |     |     |     |     |
+| 5 | Organization Overview               |As needed |      |  X  |     |     |     |
+| 6 | SOX Program Update                |Semi Annual |  X   |     |  X  |     |     |  
+| 7 |Other Topics                                    |As needed |     |    |     |     |  X  |
+
+
+#### External Audit
+
+|#|Topics                                 | Frequency | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
+|:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---:  |
+| 1 | Global Audit Plan and Fees/Appoint External Auditor   |Annual |     |     |     |  X  |     |
+| 2 | Annual Assessment of Audit Firm, Engagement Team and Lead Audit Partner  |Annual |     |     |  X   |     |     |
+| 3 | Independence Review                        |Annual |     |     |     |  X   |     |
+| 4 | Quarterly and Annual Audit Results and required communications, as applicable  |Quarterly |  X   |  X   |  X   |   X  |    |
+| 5 | Other Topics                                         |As needed |     |    |     |     |  X  |
+
+
+#### Closed session 
+
+|#|Topics                                 | Frequency | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
+|:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---:  |
+| 1 | Executive Session with invitees    |As needed |       |       |       |       |   X  |
+| 2 | Chief Legal Officer                |Quarterly |   X   |   X   |   X   |   X   |      |
+| 3 | Chief Finance Officer              |Quarterly |   X   |   X   |   X   |   X   |      |
+| 4 | Approvals                          |Quarterly |   X   |   X   |   X   |   X   |      |
+| 5 | External Auditor                   |Quarterly |   X   |   X   |   X   |   X   |      |
+
+<br>
+
+## Audit Committee Meeting Deck Preparation Guidelines
 
 **Responsibility: [Chief Financial Officer](https://about.gitlab.com/company/team/#brobins) / [Principal Accounting Officer](https://about.gitlab.com/company/team/#daleb04)**
 
