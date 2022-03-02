@@ -184,8 +184,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-04-11 | 2022-04-15 | [Nikki Roth Silverberg](https://gitlab.com/nikkiroth) - Sr. Marketing Operations Manager  | AVAILABLE - REMOTE |
 | 2022-04-18 | 2022-04-22 | [David Egan](https://gitlab.com/degan) - Sr. Marketing Data Analyst| [Nikki Roth Silverberg](https://gitlab.com/nikkiroth) - Sr. Marketing Operations Manager |
 | 2022-04-25 | 2022-04-29 | AVAILABLE - REMOTE | [David Egan](https://gitlab.com/degan)- Sr. Marketing Data Analyst |
-| 2022-05-02 | 2022-05-06 | [Bronwyn Barnett](https://gitlab.com/BronwynBarnett) | AVAILABLE - REMOTE |
-| 2022-05-09 | 2022-05-13 | AVAILABLE - REMOTE | [Bronwyn Barnett](https://gitlab.com/BronwynBarnett) |
+| 2022-05-02 | 2022-05-06 | [Bronwyn Barnett](https://gitlab.com/BronwynBarnett) - Privacy and Product Paralegal | AVAILABLE - REMOTE |
+| 2022-05-09 | 2022-05-13 | AVAILABLE - REMOTE | [Bronwyn Barnett](https://gitlab.com/BronwynBarnett) - Privacy and Product Paralegal |
 | 2022-05-16 | 2022-05-20 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-05-23 | 2022-05-27 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-05-30 | 2022-06-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
