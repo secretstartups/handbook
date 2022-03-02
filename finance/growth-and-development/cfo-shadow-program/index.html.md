@@ -22,7 +22,9 @@ The CFO Shadow program consists of a two week rotation where the shadow attends 
 
 #### Eligibility
 
-In the first iteration of the CFO shadow program, the program is open to Finance Division team members. To benefit the most from the types of meetings that the CFO attends, it's recommened that the participants have a general understanding of Finance, Business, Economics, and/or Accounting principles.  CFO Shadows must be in good performance standing in their current role. 
+In the first iteration of the CFO shadow program, the program is open to Finance Division team members. We aim to open the program to the greater GitLab team in FY23 Q2 and to incoporate any learnings from our early Shadows. 
+
+To benefit the most from the types of meetings that the CFO attends, it's recommened that the participants have a general understanding of Finance, Business, Economics, and/or Accounting principles.  CFO Shadows must be in good performance standing in their current role. 
 
 #### How to Apply
 
@@ -127,4 +129,5 @@ A handy App for time keeping is Senzillo's "Speech Timer for Talks".  It is avai
 | Start Date | End Date |Shadow Name |
 | ------ | ------ |------ |
 | March 21 | April 1 |
+| April 18 | April 29 |
 | Q2 TBD | Q2 TBD |
