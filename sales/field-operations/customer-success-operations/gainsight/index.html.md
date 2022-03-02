@@ -226,16 +226,21 @@ We are only using this in Data Designer. We pull product usage data from Snowfla
 
 Username and password are saved in Jeff Beaumont’s 1Password account. If you need to reset permissions, please ask him.
 
-### Salesforce connector
+### Salesforce Connector
 
-`Connectors 2.0` is used as one of the main import methods of data from Salesforce to Gainsight, and is a native integration that exists between the two systems. The connector is authenticated using a Gainsight Integration user in our Salesforce instance. More information in regards to the connector and how to set it up in in the [Gainsight Knowledge Base](https://support.gainsight.com/Gainsight_NXT/01Onboarding_and_Implementation/Onboarding_for_Gainsight_NXT_in_Salesforce/Salesforce_Connector/Salesforce_Connector_Overview).
+`Connectors` is used as one of the main import methods of data from Salesforce to Gainsight, and is a native integration that exists between the two systems. The connector is authenticated using a Gainsight Integration user in our Salesforce instance. More information in regards to the connector and how to set it up in in the [Gainsight Knowledge Base](https://support.gainsight.com/Gainsight_NXT/01Onboarding_and_Implementation/Onboarding_for_Gainsight_NXT_in_Salesforce/Salesforce_Connector/Salesforce_Connector_Overview).
 
-`Connectors 2.0` is used between our Salesforce and Gainsight instances primarily to sync three objects:
+`Connectors` is used between our Salesforce and Gainsight instances to sync these objects:
+| Job Name               | SFDC Object           | Gainsight Object      |
+| ---------------------- | --------------------- | --------------------- |
+| SFDC Account Sync      | Account               | Company               |
+| SFDC Opportunity Sync  | Opportunity           | Gainsight Opportunity |
+| SFDC Contact Sync      | Contact               | Company Person        |
+| SFDC Subscription Sync | Customer Subscription | Customer Subscription |
+| SFDC User Sync         | User                  | User                  |
 
-- Accounts
-- Contacts
-  - The Upsert key for contacts is their email address. This is useful when it comes to the bi-directional sync of contacts that are created in Gainsight.
-- Salesforce users
+Note: The Upsert key for contacts is their email address. This is useful when it comes to the bi-directional sync of contacts that are created in Gainsight.
+
 
 <details>
 <summary markdown='span'>Gainsight to Salesforce fields and data types</summary>
