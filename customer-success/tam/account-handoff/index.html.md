@@ -35,6 +35,8 @@ The first step once you are aware of a handoff is for the new TAM to open an [CT
 - Old TAM: Assign any open CTAs and the success plan (and its objectives/tasks) to the new TAM
 - Old TAM: Delete the cadence call calendar events (if created internally); or, if the events were created by the customer, reach out to ask that the customer invites the new TAM to the events directly
 - New TAM: Create and send out a new invite for cadence calls, to ensure there is no disruption, as some customers' internal systems do not cooperate with Google Calendar
+- New TAM: Review open/pending support tickets and subscribe to all tickets, which the OLD TAM was watching
+- Old TAM: Remove yourself from all support tickets and its CC field 
 - New TAM: Schedule additional sync with old TAM if needed; otherwise close this CTA
 
 As you follow the tasks in the CTA and collaborate amongst each other, be aware of the following suggestions to ensure a seamless handoff experience.
@@ -117,6 +119,8 @@ While not all customer calls are recorded, many are, and they can be a wealth of
 ### Support Tickets
 
 Thoroughly understand the main technical issues the customer cares about and has had problems with. Take note of critical open tickets and collaborate with support as needed, and review any key technical issues the customer experienced in the past; for example, migrations, integrations, major upgrades, etc.
+
+As the new TAM is finally responsible for knowing about important support tickets and its status, its recommended to subscribe yourself (in "CC") to all support tickets, the old TAM was watching. This will ensure, that the new TAM gets notified (as the old TAM will remove herself from the CC list).  
 
 ### Installation
 
