@@ -108,6 +108,19 @@ are given the freedom to break down those epics according to our best judgment.
 - Engineering Manager will pull all issues on the epics prioritized into the `~workflow::planning breakdown` state.
   - This action should make the issues available on **Static Analysis Delivery Board** mentioned above.
 
+### Observability
+
+For GitLab.com, we monitor performance of our code within the Rails application, metrics around our CI build performance, and traffic to our container registries. These dashboard are accessible via a combination of [Grafana](https://about.gitlab.com/handbook/engineering/#grafana) and [Kibana](https://about.gitlab.com/handbook/engineering/#sts=Kibana), listed below.
+
+Observability is a critical component to any high-availability system and it is recommended for each team member to review each dashboard and ensure they are familiar with their usability and trends.
+
+- [Secure::Static Analysis Group Error Budget](https://dashboards.gitlab.net/d/stage-groups-static_analysis/stage-groups-static-analysis-group-dashboard)
+- [SAST Analyzer Registry Traffic](https://log.gprd.gitlab.net/app/dashboards#/view/84aa3f10-89d2-11ec-9dd2-93d354bef8e7?_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-24h%2Cto%3Anow)))
+
+We also utilize Sisense for long-term trend forecasting. While this is not a recommended observability tool, it can be helpful to recognize trends over time as they surface.
+
+- [Static Analysis analyzer job performance](https://app.periscopedata.com/app/gitlab/833722/Static-Analysis-Analyzer-job-performance)
+
 ### Software delivery in Static Analysis
 
 While we follow GitLab's product development flow, our processes as a backend engineering team most closely resemble kanban. Engineers are empowered to choose issues from the Delivery
