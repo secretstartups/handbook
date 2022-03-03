@@ -22,6 +22,27 @@ The Customer Health Score assists GitLab Account Teams in understanding the rela
 
 This will be leveraged for the Early Warning System (EWS) as it is a work in progress, starting in FY22-Q2 and expected to take multiple quarters to achieve the overall objective. Future state will include LAM for expansion potential.
 
+## Scoring Methodologies
+
+Product usage data informs three different scores. They each have a distinct and separate purpose, are meant for different audiences, and use different metrics.
+
+### Customer Health Score
+- **Audience**: Internal GitLab Teams
+- **Purpose**: Understand the relative health of customers for the purposes of predicting expansion, retention, and churn. The initial versions focus more on adoption. Over time, we will iterate to make them more predictive as we validate leading indicators. 
+- **Metrics**: Account Health is an aggregation of key metrics for a multi-perspective view of the customer. For detail, see [Account Health Predictor](/handbook/customer-success/customer-health-scoring/#account-health-predictor) above.
+
+### Platform Value Score
+- **Audience**: Internal GitLab Teams
+- **Purpose**: Each account will have a single Platform Value Score (PVS) used to understand how much value the account is currently receiving from Gitlab as a Platform.
+- **Metrics**: 5–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. The metrics will roll up into a score for each Use Case, and the Use Case scores will roll up to the Platform Value Score. 
+- NOTE: No handbook page available yet as this is a work in progress in FY23 Q1.
+
+### DevOps Score 
+- **Audience**: GitLab customers
+- **Purpose**: For the customer to understand their DevOps status compared to top-performing instances.
+- **Metrics**: 10 metrics across Use Cases, displayed as a % of users who have utilized a feature in the past month, compared to how top-performing instances utilized that feature. 
+[Handbook Link](https://about.gitlab.com/blog/2021/12/15/devops-adoption/#devops-score)
+
 ## Account Health Predictor
 
 Account Health is an aggregation of key metrics for a multi-perspective view of the customer to be used to predict the customer’s likelihood to:
@@ -194,8 +215,6 @@ Segmentation will primarily follow the level of service (TAM Priority 1, 2, 3), 
 2. Segmentation: Enterprise, Mid-Market, SMB
 3. Geographical
 4. Divisional (WW or Public Sector)
-
-
 
 # References
 
