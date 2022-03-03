@@ -1719,7 +1719,7 @@ Primary feature content blocks are sorted alphabetically by file name so if nece
 
 Secondary features are first grouped by stage and within each stage sorted alphabetically by title. Features with no specified stage are grouped last. In release 13.10 and prior, bug fixes, performance improvements, and usability sections were also part of this automated sort order. Starting with release 13.11, bugs, performance improvement, and usability sections were changed from secondary features to tertiary features, so they now will automatically come after the secondary features and prior to the Deprecations Removals and Upgrades sections.
 
-It is not recommended but possible to manually affect the sort order of the secondary features. To do so a change to the content block's `title` is required.
+Sometimes, the height of the secondary features content will be much longer in the left or right column, resulting in white space. In that case, you can force a block of content from the left to the right or vice versa by adding a `force_left: true` or `force_right: true` to an entry's yml file. ([See this MR as an example.](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/100024/diffs))
 
 ### Release post branch creation Rake task
 
