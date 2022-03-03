@@ -308,7 +308,7 @@ For more details on logistics of ending an interim or acting period please refer
   graph LR;
   subgraph Merit Based
     eng:pd(Product Designer)-->eng:spd(Senior Product Designer);
-    eng:uxrc(UX Research Coordinator)-->eng:suxrc(Senior UX Research Coordinator);
+    eng:uxrc(UX Research Operations Coordinator)-->eng:suxrc(Senior UX Research Operations Coordinator);
     eng:uxr(UX Researcher)-->eng:suxr(Senior UX Researcher);
     eng:tw(Technical Writer)-->eng:stw(Senior Technical Writer);
   end
