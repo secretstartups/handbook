@@ -33,6 +33,7 @@ title: New software
     - Vendor’s Security Contact Email (oftentimes this is different from the main contact. Providing the head of security contact info from the vendor’s company will expedite the security review and avoid delays)
     - Upload any contracts you've received.
     - Click "Submit for Approval"
+6. After your request is approved and the contract signed, [update the tech stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#add-new-system-to-the-tech-stack) accordingly.
 
 ## What Happens after I submit my Request?
 - The Coupa Req will appear as "Pending Buyer Action", this means it is under review from the procurement team. 
