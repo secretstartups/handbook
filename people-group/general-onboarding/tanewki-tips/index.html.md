@@ -12,7 +12,6 @@ description: A guide for new team members
 
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Welcome!
-{: #tanuki-orange}
 
 Hello! We could not be more excited to have you at GitLab. This page is here to help walk you through what you can expect before and during your first few weeks as a new team member. 
 
