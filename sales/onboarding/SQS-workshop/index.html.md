@@ -39,12 +39,13 @@ This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjd
 |March 14, 2022 | 10:00a ET | 10:30a ET | Field Security |  Field Security Team   |
 |March 14, 2022 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence  |
 |March 14, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
-|March 15, 2022 | 12:00p ET | 12:50p ET | Channels |  Channel Team   |
-|March 15, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
 |March 21, 2022 | 10:00a ET | 10:50a ET | Discussion: Professional Services | Professional Services Team    |
-|March 21, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
+|March 21, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
 |March 22, 2022 | 10:00a ET | 10:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
-|March 22, 2022 | 11:00a ET | 11:50a ET | Discovery Call 3 | Mock Customers |
+|March 22, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
+|March 23, 2022 | 10:00a ET | 10:50a ET | Channels |  Channel Team   |
+|March 23, 2022 | 11:00a ET | 11:50a ET | Discovery Call 3 | Mock Customers |
+
 
 
 
