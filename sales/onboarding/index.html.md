@@ -31,8 +31,8 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
-| Feb 16 - Feb 25 2022 | AMER / EMEA | Virtual | [SQS 21 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1191) |  
 | Mar 9 - Mar 18 2022 | AMER / EMEA | Virtual | [SQS 22 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1259) | 
+| April 2022 | AMER / EMEA | Virtual | [SQS 23 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1301) | 
 
 
 
@@ -40,6 +40,7 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
+| Feb 16 - Feb 25 2022 | AMER / EMEA | Virtual | [SQS 21 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1191) |  
 | Jan 12 - Jan 21 2022 | AMER / EMEA | Virtual | [SQS 20 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1042) | 
 | Dec 1 - Dec 10 2021 | AMER / EMEA | Virtual | [SQS19 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/953) |
 | Oct 4 - Oct 14 2021 | AMER / EMEA | Virtual | [SQS18 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/902) | 
@@ -56,8 +57,14 @@ As a part of Sales Onboarding, each new Americas Sales team member is allowed to
 
 After completing SQS, field team members will be added to their respective role-based learning path. For more information, please refer to the role-specific onboarding handbook page below. 
 
-- Enterprise Strategic Account Leader - coming soon 
-- Commercial Account Executive - coming soon 
-- Solutions Architect - coming soon 
-- Technical Account Manager - coming soon 
-- Professional Services Engineer - coming soon 
+- Enterprise Strategic Account Leader - [Enterprise Sales: What every SAL needs to know (30-60-90 days)](https://gitlab.edcast.com/journey/sal-post-onboarding-sal) 
+- Commercial Account Executive - [Commercial Sales - Onboarding Journey](https://gitlab.edcast.com/journey/commercial-sales-onboarding-journey)
+- Solutions Architect - [Solutions Architect: 30-60-90 Onboarding Journey](https://gitlab.edcast.com/journey/solutions-architect-onboarding-journey)
+- Technical Account Manager - [Technical Account Manager (TAM) Onboarding](https://gitlab.edcast.com/journey/technical-account-manager-tam-onboarding) 
+- Inside Sales - [Inside Sales: Onboarding Learner Journey](https://gitlab.edcast.com/journey/isr-post-onboarding-isr)
+- Sales Development - [Tanuki Tech](https://gitlab.edcast.com/channel/sdr)
+- Professional Services Engineer - coming soon
+- Channel - coming soon
+- Alliances - coming soon
+
+
