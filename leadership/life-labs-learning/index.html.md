@@ -18,7 +18,7 @@ As part of GiLab's focus on equipping people leaders with the skills and tools t
 
 ### Goal
 
-The goal of LifeLabs Learning is to give people leaders an opportunity to build and reinforce core management skills. GitLab requires exceptional leaders and powerful teams. And managers need the most essential skills in the shortest time. 
+GitLab requires exceptional leaders and powerful teams. The goal of LifeLabs Learning is to give managers, execs, and people leaders an opportunity to develop core leadership skills that make the biggest impact in the shortest time. As a participant in LifeLabs Learning, you will gain the essential building blocks of a high-performing manager, leading all-remote teams.
 
 As a participant in LifeLabs learning, you will gain the essential building blocks of a high-performing manager, leading all-remote teams. 
 
@@ -40,27 +40,27 @@ LifeLabs Learning offers two core manager development programs. Each workshop is
 
 #### [Manager Core 1 Curriculum](https://drive.google.com/file/d/1MJmxjrMSSCq3lWOOks-vMnzdzPucI0jp/view)
 
-One Session per week: 
-1. Coaching Skills: Master the cornerstone skill of great leaders, developing people to become high performers
-2. Feedback Skills: Give performance changing feedback even when the topic is tough and time is limited
-3. Productivity & Prioritization: Collect tools to help you and your team make progress on the most important initatives
+One Session every 2 weeks: 
+1. Coaching Skills: Learn how to use questions to engage, empower, and improve performance in your direct reports.
+2. Feedback Skills: Give performance changing feedback even when the topic is tough and time is limited.
+3. Productivity & Prioritization: Collect tools to help you and your team make progress on the most important initatives.
 4. Effective 1-1's: Use 1:1's to maximize people's feelings of certainty, progress, inclusion, growth, and engagement
 
 3 months later: 
-5. Manager Intensive 1: Assess your skills developed in the workshop and apply them to the next level 
+5. Manager Intensive 1: Review what you’ve learned so far and apply these skills to tough, real-life management scenarios. 
 
 #### Manager Core 2 Curriculum
 
 The [Manager Core 2 program](https://drive.google.com/file/d/1f0HhqBfGn1lnaYSMHcYYqauwyOkNHS0R/view) is recommended to take at least 3 months or later after the Manager Intensive 1 has been completed. 
 
-One session per week: 
-1. Strategic Thinking: Apply strategic thinking tools to real-world projects
-2. Meetings Mastery: Use advanced facilitation tools and techniques
-3. Leading Change: Plan and message change initiatives
-4. People Development: Succession planning and holding career growth conversations 
+One session every 2 weeks: 
+1. Strategic Thinking: Help people make better decisions even in the face of uncertain variables.
+2. Meetings Mastery: Use advanced facilitation tools and techniques to engineer meetings that are useful, productive, and energizing.
+3. Leading Change: Equip your teams to be more adaptive, resilient, and agile.
+4. People Development: Equip your teams to be more adaptive, resilient, and agile. 
 
 3 months later: 
-5. Manager Intensive 2: Refresher on topics covered in the core 2 program
+5. Manager Intensive 2: Review what you’ve learned so far and apply these skills to tough, real-life management scenarios.
 
 ### Participating in the program
 
