@@ -72,10 +72,10 @@ The following table indexes all of the RAW data sources we are loading into the 
 
 | [Data Source](/handbook/business-technology/data-team/platform/pipelines) | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO| MNPI | Tier | 
 |------------:|:--------:|:---------:|:--------:|:-------:|:--------:|:--------:|:--------:|
-| Adaptive | Meltano | `tap_adaptive` | | Finance | | Yes | Tier 2 |
+| [Adaptive](https://www.adaptiveplanning.com/) | Meltano | `tap_adaptive` | | Finance | | Yes | Tier 2 |
 | [Airflow](https://airflow.apache.org/) | [Stitch](https://www.stitchdata.com/) | `airflow_stitch` | `airflow` |  Data Team | 24h / 24h | No | Tier 3 |
 | [BambooHR](https://www.bamboohr.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `bamboohr` | `sensitive` | People | 12h / 24h | No | Tier 2 |
-| Clearbit | x | x | x | x / x | | No | Tier 3 |
+| [Clearbit](https://clearbit.com/) | x | x | x | x / x | | No | Tier 3 |
 | [CustomersDot](https://customers.gitlab.com/) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `customers` | Product | 24h / x |  No | Tier 1 |
 | [Demandbase](https://www.demandbase.com/) | [Snowflake task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `demandbase` | `demandbase` | Marketing | 24h / x |  No | Tier 2 |
 | [EdCast](https://www.edcast.com//) | [Meltano](/handbook/business-technology/data-team/platform/Meltano-Gitlab/) | `tap_edcast` | `edcast` | People | 24h / x |  No | Tier 3 |
@@ -93,7 +93,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [LicenseDot](https://license.gitlab.com/) [ERD](https://gitlab.com/gitlab-org/license-gitlab-com/-/blob/master/doc/db_erd.pdf) | [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `license_db` | `license_db` | Product |  24 h / 48 h |  No | Tier 1 |
 | [Marketo](https://www.marketo.com/software/marketing-automation/) |  [Fivetran](https://fivetran.com/)  | `marketo` | x | Marketing | 24h / 24h |  No | Tier 2 |
 | [Netsuite](https://www.netsuite.com/portal/home.shtml) | [Fivetran](https://fivetran.com/) | `netsuite_fivetran` | `netsuite` | Finance | 6h / 24h | Yes | Tier 2 |
-| PMG | x | `pmg` | `pmg` | x | x / x | No | Tier 3 |
+| [PMG] (https://www.pmg.com/) | x | `pmg` | `pmg` | x | x / x | No | Tier 3 |
 | [PTO by Roots](https://www.tryroots.io/pto) | [Snowpipe](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `pto` | `gitlab_pto` | Engineering Productivity / People | 7 days / x | No | Tier 3 |
 | [Qualtrics](https://www.qualtrics.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `qualitrics` | `qualtrics` | Marketing | 12h / 48h | No | Tier 2 |
 | [SaaS Service Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) | [Airflow](https://airflow.gitlabdata.com/home) | `saas_usage_ping` | `saas_usage_ping` | Product | 1 week / x |  No | Tier 1 |
@@ -109,6 +109,10 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Zuora API Sandbox](https://www.zuora.com) |  [Stitch](https://www.stitchdata.com/) | `zuora_api_sandbox_stitch` | `Legacy` | Finance | - | Yes | Tier 3 |
 | [Zuora Central Sandbox](https://www.zuora.com/) | [Fivetran](https://fivetran.com/dashboard/connectors/zuora_sandbox/zuora_central_sandbox_fivetran) | `zuora_central_sandbox_fivetran` | `zuora_central_sandbox` | Finance Sandbox | -  | Yes | Tier 3 |
 | [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue) | [Airflow](https://airflow.gitlabdata.com/home)  | `zuora_revenue` | `zuora_revenue` | Finance | 24h / 48h | Yes | Tier 1 |
+
+##### Source contacts 
+
+See the [source contact spreadsheet](https://docs.google.com/spreadsheets/d/1VKvqyn7wy6HqpWS9T3MdPnE6qbfH2kGPQDFg2qPcp6U/edit) for who to contact if there are any external errors. 
 
 #### Tier definition
 
