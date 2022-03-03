@@ -111,6 +111,8 @@ Common use cases include:
 
 > **NOTE**: Support will not start a trial. If one is needed, *have the user initiate a normal trial first*.
 
+> **NOTE**: Support will only handle a single license or subscription request via a single ticket. If a provided license does not work or you require a further extension then please submit a new ticket. All internal L&R tickets need to have a 1 to 1 relationship with the generated license or subscription for reporting reasons.
+
 | Request    | What To Do                                                   |
 | ---------- | ------------------------------------------------------------ |
 | Extend GitLab.com Trial | [Submit a request](https://gitlab-com.gitlab.io/support/internal-requests-form/) using the `SaaS Trial Extension` option. |
