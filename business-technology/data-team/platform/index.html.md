@@ -110,6 +110,10 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Zuora Central Sandbox](https://www.zuora.com/) | [Fivetran](https://fivetran.com/dashboard/connectors/zuora_sandbox/zuora_central_sandbox_fivetran) | `zuora_central_sandbox_fivetran` | `zuora_central_sandbox` | Finance Sandbox | -  | Yes | Tier 3 |
 | [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue) | [Airflow](https://airflow.gitlabdata.com/home)  | `zuora_revenue` | `zuora_revenue` | Finance | 24h / 48h | Yes | Tier 1 |
 
+##### Source contacts 
+
+See the [source contact spreadsheet](https://docs.google.com/spreadsheets/d/1VKvqyn7wy6HqpWS9T3MdPnE6qbfH2kGPQDFg2qPcp6U/edit) for who to contact if there are any external errors. 
+
 #### Tier definition
 
 | Aspect | Tier 1 | Tier 2  | Tier 3 | 
@@ -118,43 +122,6 @@ The following table indexes all of the RAW data sources we are loading into the 
 |**Criteria**|- Any data, process, or related service that would result in a $100k or _higher_ business impact if unavailable for 24 hours <br><br>-  Affecting more than 15 business users | - Any data, process, or related service that would result in  _less_  than $100k business impact if unavailable for 24 hours <br><br> - Affecting between 5 and 15 business users | - Any data, process or related service that would _not_ result in a immediate business impact if unavailable for more than 5 working days <br><br> - Affecting less then 5 business users |
 |**Impact due to outage**|Severe|Lenient|Negligible |
 
-
-| Source | Contact |
-| ------ | ------- |
-[Adaptive](https://www.adaptiveplanning.com/)                                                                       | https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml#L27 |
-[Airflow](https://airflow.apache.org/)                                                                              ||
-[BambooHR](https://www.bamboohr.com/)                                                                               ||
-[Clearbit](https://clearbit.com/)                                                                                   ||
-[CustomersDot](https://customers.gitlab.com/)                                                                       ||
-[Demandbase](https://www.demandbase.com/)                                                                           | cho@demandbase.com & khogan@demandbase.com |
-[Gitter](https://gitter.im/)                                                                                        ||
-[GitLab.com](/handbook/business-technology/data-team/platform/pipelines/#gitlab-postgres-database)                  | Raise an incident with infrastructure |
-GitLab Ops DB                                                                                                       ||
-GitLab Profiler DB                                                                                                  ||
-[Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/)                                   ||
-[Google Cloud Billing](https://cloud.google.com/support/billing)                                                    ||
-[Graphite API](https://graphite-api.readthedocs.io/en/latest/)                                                      ||
-[Greenhouse](https://www.greenhouse.io/)                                                                            ||
-[Handbook YAML Files](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/gitlab_data_yaml)              ||
-[Handbook MR Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/handbook_mrs_extract.py)     ||
-[Handbook Git Log Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/values_page_extract.py) ||
-[LicenseDot](https://license.gitlab.com/)                                                                           | @a_akgun & @jameslopez|
-[Marketo](https://www.marketo.com/software/marketing-automation/)                                                   | FiveTran support |
-[Netsuite](https://www.netsuite.com/portal/home.shtml)                                                              ||
-[PMG](https://www.pmg.com/)                                                                                         ||
-[PTO by Roots](https://www.tryroots.io/pto)                                                                         | @gitlab-com/people-group/peopleops-eng & @droystang |
-[Qualtrics](https://www.qualtrics.com/)                                                                             ||
-[SaaS Usage Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping)                   ||
-[Salesforce](https://www.salesforce.com/)                                                                           | Stitch support |
-[SheetLoad](/handbook/business-technology/data-team/platform/pipelines/#sheetload)                                  | Sheet-specific, confirm edit history in sheetload folder |
-[Snowplow](https://snowplowanalytics.com/)                                                                          ||
-[Thanos](https://thanos-query.ops.gitlab.net/graph)                                                                 ||
-[Version DB](https://version.gitlab.com/users/sign_in)                                                              | Raise an incident with infrastructure |
-[Xactly](https://www.xactlycorp.com)                                                                                ||
-[Zendesk](https://www.zendesk.com/)                                                                                 | Stitch support |
-[Zoom](https://zoom.us/)                                                                                            ||
-[Zuora](https://www.zuora.com/)                                                                                     | Stitch support |
-[Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue)                                                    | Zuora support |
 
 ### Data Team Access to Data Sources
 
