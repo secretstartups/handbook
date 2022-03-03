@@ -610,3 +610,44 @@ and they are required to run this in Meltano. More details about `tap-edast` set
 A graphical representation of data flow for `tap-edcast` looks like:
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/8e6593e1-9be4-41ae-8d28-22c460639ab7" id="1R4EMPLKFtbd"></iframe></div>
+
+
+## ZenDesk
+
+The `ZenDesk` data source uses the [tap-zendesk](https://hub.meltano.com/taps/zendesk) Singer tap and runs on our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L374) schedule at `04:00:00 UTC`.
+
+The streams we currently load are specified on the `meltano.yml` configuration file, under the loader's `select` [section](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L100).
+ 
+
+[Environment variables](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L71) for the `tap-zendesk` are:
+* `$TAP_ZENDESK_EMAIL`
+* `$TAP_ZENDESK_START_DATE`
+* `$TAP_ZENDESK_SUBDOMAIN`
+* `$TAP_ZENDESK_API_TOKEN`
+
+and they are required to run this in Meltano. They are part of the `tap-secrets` secret on k8s. 
+
+The data is then loaded into Snowflake, using the `target-snowflake--edcast` loader, which is our in-house developed loader targetting Snowflake databases. The repo for this loader is located [here](https://gitlab.com/gitlab-data/target-snowflake-edcast).
+
+The final data ends up in Snowflake under the `TAP_ZENDESK` schema. 
+
+
+## ZenDesk Community Relations
+
+Similar to the `ZenDesk` pipeline, the `ZenDesk Community Relations` data source uses the [tap-zendesk](https://hub.meltano.com/taps/zendesk) Singer tap and runs on our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L380) schedule at `05:00:00 UTC`.
+
+Notice how in the configuration, this loader has a different name (`tap-zendesk--community-relations`), but it inherits from the same base loader: `tap-zendesk`.
+
+The streams we currently load are specificed on the `meltano.yml` configuration file, under the `tap_zendesk` loader `select` [section](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L289).
+ 
+
+[Environment variables](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L71) for the `tap-zendesk` are:
+* `$TAP_ZENDESK_COMMUNITY_RELATIONS_EMAIL`
+* `$TAP_ZENDESK_COMMUNITY_RELATIONS_START_DATE`
+* `$TAP_ZENDESK_COMMUNITY_RELATIONS_SUBDOMAIN`
+* `$TAP_ZENDESK_COMMUNITY_RELATIONS_API_TOKEN`
+
+and they are required to run this in Meltano. They are part of the `tap-secrets` secret on k8s. 
+
+The data is then loaded into Snowflake, using the `target-snowflake--edcast` loader.
+The final data ends up in Snowflake under the `TAP_ZENDESK_COMMUNITY_RELATIONS` schema. 

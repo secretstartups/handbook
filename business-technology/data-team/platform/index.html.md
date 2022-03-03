@@ -103,7 +103,8 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Thanos](https://thanos-query.ops.gitlab.net/graph)| [Snowflake Task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `prometheus` | `prometheus` | Engineering |  24 h / x |  No | Tier 3 |
 | [Version DB](https://version.gitlab.com/users/sign_in) | [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `version_db` | `version_db` | Product |  24 h / 48 h | No | Tier 1 |
 | [Xactly](https://www.xactlycorp.com) | [Meltano](https://meltano.com/) | `tap_xactly` | N/A | Sales | 24h / N/A |  Yes | Tier 2 |
-| [Zendesk](https://www.zendesk.com/) | [Stitch](https://www.stitchdata.com/) | `zendesk_stitch` | `zendesk` | Support | 6h / 24h |  No | Tier 2 |
+| [Zendesk](https://www.zendesk.com/) | [Meltano](https://meltano.com/) | `tap_zendesk` | `zendesk` | Support | 6h / 24h |  No | Tier 2 |
+| [Zendesk Community Relations](https://www.zendesk.com/) | [Meltano](https://meltano.com/) | `tap_zendesk_community_relations` | `zendesk_community_relations` | Support | 6h / 24h |  No | Tier 2 |
 | [Zoom](https://zoom.us/) | [Meltano](https://meltano.com/) | `tap_zoom` | N/A | People | 24h / N/A |  No |  Tier 3 |
 | [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h | Yes | Tier 1 |
 | [Zuora API Sandbox](https://www.zuora.com) |  [Stitch](https://www.stitchdata.com/) | `zuora_api_sandbox_stitch` | `Legacy` | Finance | - | Yes | Tier 3 |
