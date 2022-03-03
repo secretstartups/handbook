@@ -13,7 +13,7 @@ image_title: /images/team.jpg
 ---
 -# THE CONTENT FOR THIS PAGE IS IN https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team.yml
 .hidden-xs
-  %iframe{frameborder: "0", height: "500", scrolling: "no", src: "https://gitlab-com.gitlab.io/teampage-map/", width: "100%"}
+  -# %iframe{frameborder: "0", height: "500", scrolling: "no", src: "https://gitlab-com.gitlab.io/teampage-map/", width: "100%"}
 .wrapper
   .team-container
     .team-head
@@ -27,7 +27,8 @@ image_title: /images/team.jpg
         and their
         #{link_to("#{data.pets.size}+ pets", '/company/team-pets')}.
         We believe we're the world's largest #{link_to('all-remote organization', '/company/culture/all-remote/')}
-        and we currently have team members in #{link_to(Gitlab::Homepage.team.countries.size.to_s + " countries and regions", "#countries")}.
+        -# and we currently have team members in #{link_to(Gitlab::Homepage.team.countries.size.to_s + " countries and regions", "#countries")}.
+        and we currently have team members in more than 60 countries and regions.
         This page lists who people report to, and on a separate page we
         detail the #{link_to('organizational structure', '/company/team/structure')}.
         You can get a sense of the team culture and our #{link_to('inclusion', '/company/culture/inclusion')} by visiting our
