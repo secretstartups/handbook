@@ -4,13 +4,13 @@ GitLab does not have a versioning system for CI/CD configuration. Therefore, it 
 
 1. Deprecation notice - Syntax removal introduces a breaking change, as outlined in our deprecation process, so we must notify the community and customers. This means including a deprecation notice in the monthly release post. This way, our users will have enough time to make the necessary adjustment to their pipelines.
 
-2. Track keyword usage - Tracking keyword usage should begin as early as possible. It is a mandatory step that helps estimate the user impact, timing, and needed effort. The more users use the keyword, the more time it takes to remove it.
+2. Track keyword usage - Tracking keyword usage should begin as early as possible. It is a mandatory step that helps estimate the user impact, timing, and needed effort. The more users use the keyword, the more time it takes to remove it (It took more than four years to move from [remove](https://gitlab.com/gitlab-org/gitlab-foss/-/merge_requests/9766) to [derecation](https://gitlab.com/gitlab-org/gitlab/-/issues/346823) for 'type' keyword).
 
 3. In-app warning - Provide CI/CD users with an in-app notification that we plan to remove a keyword they use. Our customers will get those notifications in each run of the pipeline using the deprecated keyword. The warning will be printed:
 
    - At run time on the pipeline page and logs.
    - In the pipeline editor, while authoring a pipeline.
 
-   This step is optional if the keyword usage is very low.
+    This step is optional if the keyword usage is relatively low (Recommend minimal reach of ~5% impacted users).
 
 4. Keyword removal - After keyword removal from the code and schema, it is no longer supported and using it will result in a lint error. Usually, this should happen in a major version release, but it is highly dependent on keyword usage.
