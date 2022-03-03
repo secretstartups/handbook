@@ -22,7 +22,7 @@ For any queries related to UK benefits, please email `total-rewards@gitlab.com` 
 
 ## Medical Insurance
 
-For UK-based team members, GitLab provides 100% paid membership of medical insurance with AXA PPP. This private medical insurance level is named Business Health Select with core cover. Family members can be added to the insurance and GitLab will pay 66% of the cost to include them. Further information can also be found in the [AXA PPP Brochure](https://drive.google.com/file/d/1iaxamYvMcn4G6tWdmnhiiCR_HAtGKVcN/view?usp=sharing).
+For UK-based team members, GitLab provides 100% paid membership of medical insurance with AXA PPP. This private medical insurance level is named Business Health Select with core cover. Family members can be added to the insurance and GitLab will pay 66% of the cost to include them. Further information can also be found in the [AXA PPP Brochure](https://drive.google.com/file/d/130IiyCm1qoCUYunqgGvwQGu7btvu0e0R/view?usp=sharing).
 
 Please let the Total Rewards team know if you would like to join the scheme via email to `total-rewards@gitlab.com`. Include the full names and date of birth of all dependants you would like added to the scheme. The Total Rewards team will forward your request to our UK Broker, Willis Tower Watson (WTW), by email. Please note that it can take 7 - 10 working days to receive a reply and confirmation from AXA PPP. 
 
@@ -37,9 +37,12 @@ The current coverage includes:
    - Mental Health cover option
    - Extra Care option includes hospital at home, cash benefit, oral surgery, chiropody
    - Extra Cancer care option
+   - Dental £400 (80%) 
+   - Optical £200 (80%)
+   - £25 a year for eye test
 - Virtual GP appointments – [DR@Hand](https://drive.google.com/file/d/1YzkeG0qMLPLi6TEY6mQXqV8xooMQb4_Z/view?usp=sharing)
 
-- **Note:** Optical and dentist cashback option **is not** included.
+For addtional details regarding coverage please review the [AXA Coverage Summary](https://drive.google.com/file/d/1TMk8xTt6yfzm-wI1X_wMyYfJF3GAgb4k/view?usp=sharing)
 
 Please also note that this is a taxable benefit. The underwriting is on a Moratorium basis, meaning that team members will not have cover for treatment of medical problems they may have had in the five years before joining. Please refer to page 14 in the AXA PPP Brochure for more information.
 
@@ -52,17 +55,6 @@ During Willis Tower Watson's initial onboarding email to enroll in the scheme, t
 | Team Member + Spouse | 2x Team Member Premium |
 | Team Member + Child(ren) | 1.6x Team Member Premium |
 | Family | 2.5x Team Member Premium |
-
-### Vision 
-
-As GitLab team members work (DSE) display screens equipment on a regular basis, GitLab will reimburse team members for a full eye examination and vision test up to 30 GBP. 
-
-If the test shows that the team member needs corrective lenses exclusively for DSE work, GitLab will reimburse towards the cost of a basic pair of frames and lenses (i.e. not designer lenses) up to 120 GBP.
-
-The team member needs to provide documentation (a prescription) from the optician that confirms if the lenses are specifically required for reading a display screen only (this is normally a very small proportion of users) and not required for general day to day use. Please submit your receipts via expensify and prescription to Total Rewards. 
-
-GitLab will explore adding vision coverage as a future iteration to our health benefits 
-
 ## Life Insurance
 
 Life Insurance provides peace of mind for you and your loved ones with a tax-free lump sum payout in the event of your untimely death, helping to relieve financial concern during a time of grief. GitLab offers Life Insurance via Unum to all team members between age 16 and State Pension Age. The pension benefit is **4x basic annual salary** up to the Free Cover Limit. Employees with a base salary of £375,000 or higher will need to apply for a medical assessment to receive cover over the Free Cover Limit. Please reach out to Total Rewards if you are eligible and wish to apply for the additional cover. 
