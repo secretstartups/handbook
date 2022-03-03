@@ -1067,26 +1067,9 @@ Should you prefer to continue to contribute to an issue under active development
 
 ### MVP
 
-To display the [MVP of the month](/community/mvp/), use the example provided in this template, and adjust it to your case. Don't forget to link to the MR with the MVP's contribution.
+The Release Post Manager will solicit MVP nominations via an [MVP Issue](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md#L45) and [instructions in the Release Post MR](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md#L246).
 
-```yaml
-mvp:
-  fullname: Dosuken Shinya # full name
-  gitlab: dosuken123 # gitlab.com username
-  description: | # supports markdown. Please link to the MR with the MVP's contribution.
-    Dosuken extended our [Pipelines API](http://docs.gitlab.com/ee/api/pipelines.html#list-project-pipelines)
-    by [adding additional search attributes](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/9367).
-    This is a huge improvement to our CI API, for example enabling queries to easily return the latest
-    pipeline for a specific branch, as well as a host of other possibilities. Dosuken also made a great
-    contribution last release, laying the foundation for
-    [scheduled pipelines](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/10133). Thanks Dosuken!
-```
-
-Solicit MVP nominations in the [`#release-post`](https://gitlab.slack.com/messages/release-post) Slack channel by sharing a link to an issue for collaboration (example: [Release Post 13.6 MVP Nominations](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9647)). **Cross-link the message from `#release-post` to Slack [#community-relations](https://gitlab.slack.com/archives/C0R04UMT9), [`#mr-coaching`](https://gitlab.slack.com/messages/mr-coaching) and [`#core`](https://gitlab.slack.com/messages/core) channels to maximize contributions.**
-
-Add candidates to the MVP Nominations issue as soon as you see a contribution or a set of contributions that you think are great and should be taken into consideration for selection. Every GitLab team-member and core team member is encouraged to add suggestions to the MVP Nominations issue with a link to the contributor's issue and merge request.
-
-Based on this discussion, the Release Post Manager will make a decision. They should not wait for consensus. There can only be one MVP.
+The Release Post Manager will choose an MVP from the nominations and conversation. They should not wait for consensus. There can only be one MVP.
 
 The MVP will be prized with a gift from GitLab, usually a swag pack. :)
 
