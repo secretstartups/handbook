@@ -346,6 +346,10 @@ Check on duplicate ids due to 2 different extractors, to ensure the data is gett
     having count(*) > 1
 **Note** Refer to the [MR](https://gitlab.com/gitlab-data/analytics/-/issues/10065#note_668365681) for more information.
 
+### Source freshness errors 
+
+See the [source contact spreadsheet](https://docs.google.com/spreadsheets/d/1VKvqyn7wy6HqpWS9T3MdPnE6qbfH2kGPQDFg2qPcp6U/edit) for who to contact if there are external errors related to a source. 
+
 ### Airflow Task failure
 
 |   |
