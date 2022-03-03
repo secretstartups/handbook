@@ -15,7 +15,7 @@ suppress_header: true
     <table style="width:70%" align="center">
       <tr>
         <th>Name</th>
-        <th>Location</th>
+        <%# <th>Location</th> %>
         <th>Role</th>
       </tr>
       <% Gitlab::Homepage.team.members.each do |member| %>
@@ -25,9 +25,9 @@ suppress_header: true
               <td>
                 <a href="/company/team/#<%= member.slug %>"><%= member.name %></a>
               </td>
-              <td>
-                <%= member.locality %>, <%= member.country %>
-              </td>
+              <%#<td>%>
+                <%#= member.locality %#>, <%= member.country %>
+              <%# </td> %>
               <td>
                 <%= member.role %>
               </td>
