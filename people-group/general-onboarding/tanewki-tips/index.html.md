@@ -17,7 +17,6 @@ Hello! We could not be more excited to have you at GitLab. This page is here to 
 
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Meet the People Experience Team! 
-{: #tanuki-orange}
 
 [The People Experience Team](https://about.gitlab.com/handbook/people-group/people-experience-team/) is here to help guide you in your journey here at GitLab. A member of the team will be assigned to your Onboarding Issue, and will be there to provide guidance as you begin onboarding. You can learn more about us below by reading our bios on the team page. 
 
@@ -29,11 +28,10 @@ Hello! We could not be more excited to have you at GitLab. This page is here to 
 
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Timeline 
-{: #tanuki-orange}
+
 After you sign your offer and complete your background check and references, you can expect your onboarding to go like this: 
 
 ### Before you start
-{: .gitlab-orange}
 
 1. Sign your offer, and be on the lookout for your :email: Welcome Email from the Candidate Experience Specialist team. You can read about the team on [this handbook page](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/).
     - This email will contain all pertainent information such as how to order your office equipment and most importantly your laptop. The IT team also has a very handy, handbook page [you can review](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptops).
@@ -50,8 +48,7 @@ After you sign your offer and complete your background check and references, you
 1. The first thing you'll want to do is check your personal email where you will have received an onboarding email from GitLab with directions on how to access Okta, your GitLab email and all other applications. Most of GitLab applications are accessed through Okta so make sure you follow the directions in the email in order. 
 1. Once you accept your GitLab access invites, you'll be able to open up and see your own personalized version of the [onboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md). 
 
-## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Helpful Tools
-{: #tanuki-purple} 
+## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Helpful Tools 
 
 1. [TaNEWki Tips](https://about.gitlab.com/handbook/people-group/general-onboarding/tanewki-tips/) - This page is here to help walk you through what you can expect before and during your first few weeks as a new team member.
 1. [Select and Speak - Text to Speech](https://chrome.google.com/webstore/detail/select-and-speak-text-to/gfjopfpjmkcfgjpogepmdjmcnihfpokn?hl=en)
@@ -59,8 +56,7 @@ After you sign your offer and complete your background check and references, you
 1. [Rectangle App](https://rectangleapp.com/) - Move and resize windows with ease
 1. [OneTab](https://www.one-tab.com/) - Tab organizer for Chrome, Firefox, Edge, or Safari
 
-## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Acronym Dictionary
-{: #tanuki-purple} 
+## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Acronym Dictionary 
 
 As point 36 on our [communication handbook page](https://about.gitlab.com/handbook/communication/#writing-style-guidelines) outlines, we try to avoid using acronyms at GitLab as much as possible however, sometimes we forget. Below you can find common acronyms used here that may help you. If you come across any not in this list during your onboarding, feel empowered to do a merge request to add it below! 
 
@@ -75,7 +71,6 @@ As point 36 on our [communication handbook page](https://about.gitlab.com/handbo
 | PBP | People Business Partner |
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Equipment and Expenses
-{: #tanuki-purple} 
 
 If you're nearing your start date and still haven't received your laptop, please reach out to people-exp@gitlab.com for us to check in with the IT department and see where your laptop is in transit. 
 
@@ -95,8 +90,7 @@ There are a few commonly expensed items among new hires that are listed below an
 | Computer Case | Office Supplies | 
 | Monthly Internet Subscription | Telecom Internet | 
 
-## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Onboarding Expectations
-{: #tanuki-purple}  
+## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Onboarding Expectations 
 
 1. As an all remote company, it is important to remember that we all work in different time zones, [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/#introduction) is key to ensure that everyone is included. Don't feel like you need to stay up late at night or early morning to keep up with your fellow team members, this is where we pride oursleves on [our async way](https://about.gitlab.com/company/culture/all-remote/asynchronous/). **This means that you may not have meetings on your first day, or your first week but it's not because we're not excited to have you here. It's just our way of working!** 
 1. Take your time! There is a lot to go through, and you may feel like you have to get to everything each day. If you do great! If not, that's great too.    
