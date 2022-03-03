@@ -33,7 +33,7 @@ _What is warm?_ Warm is when you know there’s a good reason why you need to re
 
 
 ## Build your strategy
-**Start from your territory plan.** This exercise should be your source of information on where you’re prioritizing your time and what activities you and your team think will be most effective. It's also where you've set your **pipeline generation target.** 
+**Start from [your territory plan](https://about.gitlab.com/handbook/sales/territory-planning/#overview).** This exercise should be your source of information on where you’re prioritizing your time and what activities you and your team think will be most effective. It's also where you've set your **pipeline generation target.** 
 
 _How to determine your target?_ A general rule of thumb is to plan to create 3.5x your target in pipeline and then work backwards to determine what value you need to deliver every quarter and every month. As you measure your success, you’ll learn whether that’s too high or too low based on how you implement your strategy and the results you deliver.
 
