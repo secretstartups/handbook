@@ -28,7 +28,7 @@
 
 ## Exit Criteria
 
-1. Uniform approach to incident response management that will be applicable to all areas of Engineering and teams who provide Incident Response 
+1. Single source of truth documenting incident response management that will be applicable to all areas of Engineering and teams who provide Incident Response 
   * Each functional area of Engineering will develop their own Incident management requirements for identifying and reacting to service outages or security threats.
   
 2. Create comprehensive knowledge base for Gitlab team members to help them understand how incident response teams implement the IR  process
