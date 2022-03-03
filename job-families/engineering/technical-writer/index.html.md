@@ -13,16 +13,13 @@ At GitLab, our [team of technical writers](https://about.gitlab.com/handbook/eng
 ## Requirements
 
 - You have:
+   - Experience working with a docs as code workflow.
    - Experience planning, researching, writing, and editing software documentation.
    - Excellent skills in grammar, minimalist documentation design, and effective information architecture.
-   - Great teaching skills that translate into amazing written work.
-   - Experience using the Linux shell, command-line Git, HTML/CSS, and/or at least one programming language (does not have to be in a professional context).
-   - Experience using static site generators and managing docs as code.
+   - Experience using the Linux shell and command-line Git.
+   - General familiarity with one or more coding languages.
    - Experience with some of the following:
-      - Using or documenting DevOps tools.
-      - JavaScript and front-end development.
-      - Advanced programming or other technical experience.
-      - Using GitLab.
+      - DevOps tools and open-source software.
       - A rapidly scaling start-up environment.
       - Remote work, especially in collaboration with others across countries and time zones.
 - You are:
