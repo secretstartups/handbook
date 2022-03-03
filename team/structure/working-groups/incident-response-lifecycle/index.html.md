@@ -18,10 +18,10 @@
 ## Business Goal
 
 1. Increase [efficiency](https://about.gitlab.com/handbook/values/#efficiency) through common incident response, analysis, documentation, ongoing management and reporting methods.
-1. Increase visibility and communication of incidents to business and e-group
-1. Enhance our clients confidence in Gitlab's ability to quickly resolve and communicate incidents when they occur
+1. Increase [transparency](https://about.gitlab.com/handbook/values/#transparency) through improving visibility and communication of incidents to business and e-group
+1. Support [results](https://about.gitlab.com/handbook/values/#results) by building our clients' confidence in Gitlab's ability to quickly resolve and communicate incidents when they occur
 1. Align Incident Management activities and priorities with those of the business
-1. Create training modules for the Engineer Department on the Incident Management Process at Gitlab
+1. Prepare materials for the creation of training modules for the Engineer Department on the Incident Management Process at Gitlab
 
  
 
