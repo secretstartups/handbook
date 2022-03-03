@@ -69,6 +69,10 @@ As point 36 on our [communication handbook page](https://about.gitlab.com/handbo
 | TAM | Technical Account Manager | 
 | ASM | Area Sales Manager | 
 | PBP | People Business Partner |
+| AMA | Ask Me Anything | 
+| TA | Talent Acquisition | 
+| CES | Candidate Experience Specialist | 
+| TMRG | [Team Member Resource Group](https://about.gitlab.com/company/culture/inclusion/#tmrgs---team-member-resource-groups) | 
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Equipment and Expenses
 
