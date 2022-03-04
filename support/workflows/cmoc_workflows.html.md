@@ -14,7 +14,7 @@ description: "Describes the role and responsibilities for CMOC rotation in Suppo
 
 As the [Communications Manager on Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) it's your job to be the voice of GitLab to our users and stakeholders during an incident. To do this effectively you'll use a combination of [our status page](https://status.gitlab.com/) (powered by [Status.io](https://status.io)), Slack, Zendesk, and GitLab itself. The CMOC rotation is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call).
 
-The basics of how to create, update, and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. This document covers how GitLab specifically uses Status.io to perform those tasks.
+Our Slack bot [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) provides a command (`/incident post-statuspage`) to quickly spin up an incident on [Status.io](https://status.io). From there, the basics of how to update and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. This document covers how GitLab specifically uses Status.io to perform those tasks.
 
 ## First 10 minutes quick check
 
@@ -179,6 +179,14 @@ A better response would be to assume that an action was requested, relay your in
 > **CMOC:** IM, acknowledged, I will draft an update for status.io and ping you in Slack for input.
 
 #### 2. Create the Incident
+
+You can create an incident on Status.io with minimal effort through Slack (provided by Woodhouse) **OR** manually if need be (e.g., Slack is down or you need to customize the incident more than what the Slack form allows).
+
+##### Slack (provided by Woodhouse)
+
+You simply need to issue `/incident post-statuspage` from anywhere on Slack. You will be presented with a pre-filled form that you can update to your liking. Once submitted, the incident will be broadcasted to all mediums (i.e., email, SMS, webhooks, twitter, etc).
+
+##### Manually
 
 After logging in to Status.io you'll be met with the dashboard that displays various statistics about our current status. Create a new incident by clicking `New Incident` along the top bar.
 
