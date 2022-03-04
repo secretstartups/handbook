@@ -7,7 +7,7 @@ title: "Digital Experience"
 
 ### Digital Experience Analyst
 
-The Digital Experience Analyst Reports to [Senior Manager, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#senior-manager-digital-experience)
+The Digital Experience Analyst Reports to [Director, Digital Experience](/job-families/marketing/marketing-web-developer-designer/#senior-manager-digital-experience)
 
 #### Digital Experience Analyst Job Grade
 
@@ -51,7 +51,7 @@ The Digital Experience Analyst  (Intermediate) is a [grade 6](/handbook/total-re
 
 ## Manager, Digital Experience
 
-The Manager, Digital Experience reports to the Senior Manager, Digital Experience, Director of Digital Experience or the Senior Director, Inbound Marketing. The Product Manager (Marketing) and Technical Product Owner (Marketing) report to the Manager, Digital Experience.
+The Manager, Digital Experience reports to the Director, Digital Experience.
 
 #### Manager, Digital Experience Job Grade
 
@@ -85,7 +85,7 @@ The Manager, Digital Experience is a [grade 8](/handbook/total-rewards/compensat
 
 ### Senior Manager, Digital Experience 
 
-The Senior Manager, Digital Experience reports to the Senior Manager, Digital Experience, Director of Digital Experience or the Senior Director, Inbound Marketing. The Product Manager (Marketing) and Technical Product Owner (Marketing) report to the Manager, Digital Experience.
+The Senior Manager, Digital Experience reports to the Director, Digital Experience.
 
 #### Senior Manager, Digital Experience Job Grade 
 
@@ -110,7 +110,7 @@ The Senior Manager, Digital Experience is a [grade 9](/handbook/total-rewards/co
   
 ### Director of Digital Experience
 
-The Director of Digital Experience reports to the Senior Manager, Digital Experience, Director of Digital Experience or the Senior Director, Inbound Marketing. The Technical Product Owner and Product Manager (Marketing) report to the Director of Digital Experience.
+The Director of Digital Experience reports to the Director, Strategy and Operations. The Technical Product Owner and Product Manager (Marketing) report to the Director of Digital Experience.
 
 #### Director of Digital Experience Job Grade
 
@@ -145,10 +145,11 @@ The Director of Digital Experience is a [grade 10](/handbook/total-rewards/compe
 
 ## Performance Indicators
 
-* [Contributing to the success of Marketing's Quarterly Initiatives](/handbook/marketing/inbound-marketing/#q3-fy21-initiatives)
-* [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/inbound-marketing/brand-and-digital-design/#sprint-planning)
-* [Successfully completing weekly Sprint tasks](/handbook/marketing/growth-marketing/brand-and-digital-design/#sprint-cycle)
-* [Collaborating on identifying issues to be completed within Epics](/handbook/marketing/inbound-marketing/#epics)
+## Performance Indicators
+* [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/inbound-marketing/digital-experience/#okrs)
+* [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/inbound-marketing/digital-experience/#sprint-planning)
+* [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/inbound-marketing/digital-experience/#sprint-cycle)
+
 
 ## Career Ladder
 

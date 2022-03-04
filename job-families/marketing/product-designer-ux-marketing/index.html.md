@@ -9,7 +9,7 @@ A Product Design Roles on GitLab's Marketing team, collaborates closely with Pro
 
 ### Product Designer (UX) - Marketing (Intermediate)
 
-The Product Designer (UX) - Marketing (Intermediate) reports to the Sr. Manager, Digital Experience
+The Product Designer (UX) - Marketing (Intermediate) reports to the Director, Digital Experience
 
 #### Product Designer (UX) - Marketing (Intermediate) Job Grade
 
@@ -42,7 +42,7 @@ The Product Designer (UX) - Marketing (Intermediate) is a [grade 6](/handbook/to
 
 ### Senior Product Designer (UX) - Marketing
 
-The Senior Product Designer (UX) - Marketing reports to the Sr. Manager, Digital Experience
+The Senior Product Designer (UX) - Marketing reports to the Director, Digital Experience
 
 #### Senior Product Designer (UX) - Marketing Job Grade
 
@@ -70,10 +70,10 @@ The Senior Product Designer is a [grade 7](/handbook/total-rewards/compensation/
 *
 
 ## Performance Indicators
-* [Contributing to the success of Marketing's Quarterly Initiatives](/handbook/marketing/inbound-marketing/#q3-fy21-initiatives)
+* [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/inbound-marketing/digital-experience/#okrs)
 * [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/inbound-marketing/digital-experience/#sprint-planning)
-* [Successfully completing weekly Sprint tasks](/handbook/marketing/growth-marketing/brand-and-digital-design/#sprint-cycle)
-* [Collaborating on identifying issues to be completed within Epics](/handbook/marketing/inbound-marketing/#epics)
+* [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/inbound-marketing/digital-experience/#sprint-cycle)
+
  
 ## Career Ladder
  
@@ -84,9 +84,9 @@ The next step in the Product Design (UX) - Marketing job family is not yet defin
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](/company/team/).
  
 * Select candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a 30 minute interview with our Senior Manager, Digital Experience.
+* Next, candidates will be invited to schedule a 30 minute interview with our Director, Digital Experience.
 * Next, candidates will be invited to schedule a 30 minute interview with a Fullstack Engineer and a Frontend Engineer on the Digital Experience team. 
 * Next, candidates will be invited to schedule a 30 minute interview with the Senior Director, Inbound Marketing.
-* Finally, candidates will be invited to schedule a 30 minute follow up interview with the Senior Manager, Digital Experience.
+* Finally, candidates will be invited to schedule a 30 minute follow up interview with the Director, Digital Experience.
  
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -40,44 +40,86 @@ The Analyst, Corporate Development is a [grade 6](/handbook/total-rewards/compen
 * Familiarity with the DevOps space
 * You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
 * You share our [values](/handbook/values/), and work in accordance with those values
-* Ability to use GitLab
 
-### Associate, Corporate Development
 
-As an Associate, Corporate Development, you will be responsible for identifying,
-sourcing, and owning the acquisition opportunity pipeline, and helping with the
-deal flow.
+### Corporate Development Manager
+
+As a Corporate Development Manager, you will be responsible for identifying, sourcing, and owning the acquisition opportunity pipeline, and helping with the deal flow.
 
 #### Job Grade
 
-The Associate, Corporate Development is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Corporate Development Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+Prospecting:
+* Develop relationships with tech incubators, investors, and other sources of acquisition targets
+* Validate targets’ fit for GitLab’s product roadmap, terms and other criteria quickly and with little information
+* Develop a strategy and execution plan for the product areas you will be leading, prioritizing prospects accordingly
 
-* Create a target list of potential acquisitions
-* Develop relationships with tech incubators, investors, and other sources of acquisition candidates
-* Execute a sourcing plan through online research, outreach, and other means to help support the corporate development team goals
-* Operationalize acquisition sourcing and handling processes to help the team scale
-* Validate fit for terms, product roadmap, and other criteria
-* Value the companies in a financial model
-* Help negotiate terms of the deal
-* Manage deal flow CRM system data
-* Prepare all acquisition related documents such as Non-Disclosure Agreements, Letters of Intent, and Purchase Agreements with our legal team and legal counsel
-* Assist in various aspects of the deal as necessary: qualification, initial rationale/pitch, financial modeling, due diligence and closing & integration activities.
+Deal execution:
+* Lead acquisitions engagements start to finish, from qualifying targets, through closing and integration
+* Lead the cross-functional due-diligence process
+* Negotiate term sheet and final agreement document
+* Act as a subject matter expert on valuation and deal structuring
+
+Integration:
+* Lead post-acquisition integrations as the directly responsible individual (DRI), driving the roadmap acceleration objectives to successful completion
+
+Collaboration:
+* Form effective relationships with the product management org to understand their roadmap direction. 
+* Manage and guide the acquisition team to an effective communication with the target and internal stakeholders
 
 #### Requirements
 
-* Bachelors or equivalent in Finance, Accounting, Economics, Computer Science, Engineering, or a related field
-* Minimum of 5 years of corporate development, venture capital, private equity, or competitive analysis ideally focused on the technology industry
-* Minimum of 2 years in acquisitions
-* Adept with technology and a strategic thinker – knows what’s best for the business
-* Excellent judgment, mature personality, and experience working with executives; a sophisticated, worldly businessperson
-* Proactive and action-oriented, anticipates needs
-* Experience in a deal environment and buyer-seller conducts
-* Excellent verbal and written communication skills
-* Familiarity with the DevOps space
-* You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
+* 2+ years experience developing, leading, negotiating and executing acquisitions focused on the enterprise tech industry
+* Demonstrated experience building valuation models for acquisition of pre-revenue and post-revenue companies
+* Demonstrated experience at constructing varied deal consideration structures and integration plans
+* Demonstrated understanding of technology with an acumen to engage with product and engineering leaders on tech roadmaps
+* Demonstrated experience with managing cross-functional teams and navigating complex communications with internal and external stakeholders.
+* Preferred requirements:
+  * Familiarity with the DevOps, Cyber and open-source spaces
 * You share our [values](/handbook/values/), and work in accordance with those values
+
+
+### Senior Corporate Development Manager
+
+As a Senior Corporate Development Manager, you will be owning the acquisition process for specific product areas, driving deal flow from inception to integration.
+
+#### Job Grade
+
+The Senior Corporate Development Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+Prospecting:
+* Develop relationships with tech incubators, investors, and other sources of acquisition targets
+* Validate targets’ fit for GitLab’s product roadmap, terms and other criteria quickly and with little information
+* Establish strategy and execution plan for the product areas you will be leading, prioritizing prospects accordingly
+
+Deal execution:
+* Lead acquisitions engagements start to finish, from qualifying targets, through closing and integration
+* Lead the cross-functional due-diligence process
+* Negotiate term sheet and final agreement document
+* Act as a subject matter expert on valuation and deal structuring
+
+Integration:
+* Lead post-acquisition integrations as the directly responsible individual (DRI), driving the roadmap acceleration objectives to successful completion
+
+Collaboration:
+* Form effective relationships with the product management org to understand their roadmap direction. 
+* Enable product managers on prospect sourcing and validation
+* Manage and guide the acquisition team to an effective communication with the target and internal stakeholders
+
+#### Requirements
+
+* 5+ years experience developing, leading, negotiating and executing complex acquisitions focused on the enterprise tech industry
+* Demonstrated experience building valuation models for acquisition of pre-revenue and post-revenue companies
+* Demonstrated experience at constructing varied deal consideration structures and integration plans
+* Demonstrated understanding of technology with an acumen to engage with product and engineering leaders on tech roadmaps
+* Demonstrated experience with managing cross-functional teams and navigating complex communications with internal and external stakeholders.
+* Preferred requirements:
+  * Familiarity with the DevOps, Cyber and open-source spaces
+* You share our [values](/handbook/values/), and work in accordance with those values
+
 
 ## Coporate Development
 

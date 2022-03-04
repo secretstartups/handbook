@@ -9,7 +9,7 @@ The Product Manager - Marketing Job Family educates people on the entire [DevOps
 
 ### Product Manager - Marketing (Intermediate)
 
-The Product Manager - Marketing reports to the Sr. Manager, Digital Experience, and is part of the [Digital Experience](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/) team.
+The Product Manager - Marketing reports to the Director, Digital Experience, and is part of the [Digital Experience](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/) team.
 
 #### Product Manager - Marketing (Intermediate) Job Grade
 
@@ -55,7 +55,7 @@ The Product Manager - Marketing (Intermediate) is a [grade 8](/handbook/total-re
 
 ### Senior Product Manager
 
-The Senior Product Manager reports to the Sr. Manager, Digital Experience.
+The Senior Product Manager reports to the Director, Digital Experience.
 
 ##### Job Grade
 
@@ -83,10 +83,11 @@ The Senior Product Manager is a [grade 9](/handbook/total-rewards/compensation/c
 
 ## Performance Indicators
 
-* [Contributing to the success of Marketing's Quarterly Initiatives](/handbook/marketing/inbound-marketing/#q3-fy21-initiatives)
+## Performance Indicators
+* [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/inbound-marketing/digital-experience/#okrs)
 * [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/inbound-marketing/digital-experience/#sprint-planning)
-* [Successfully completing weekly Sprint tasks](/handbook/marketing/growth-marketing/brand-and-digital-design/#sprint-cycle)
-* [Collaborating on identifying issues to be completed within Epics](/handbook/marketing/inbound-marketing/#epics)
+* [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/inbound-marketing/digital-experience/#sprint-cycle)
+
  
 ## Career Ladder
  
@@ -97,9 +98,9 @@ The next step in the Product Manager - Marketing job family is not yet defined a
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](/company/team/).
  
 * Select candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a 30 minute interview with our Senior Manager, Digital Experience.
+* Next, candidates will be invited to schedule a 30 minute interview with our Director, Digital Experience.
 * Next, candidates will be invited to schedule a 30 minute technical interview with our Fullstack Engineer and a Frontend Engineer on the Marketing team. 
 * Next, candidates will be invited to schedule a 30 minute interview with the Senior Director, Growth Marketing.
-* Finally, candidates will be invited to schedule a 30 minute follow up interview with the Senior Manager, Digital Experience.
+* Finally, candidates will be invited to schedule a 30 minute follow up interview with the Director, Digital Experience.
  
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
