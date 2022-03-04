@@ -276,17 +276,18 @@ There are set locations options in Greenhouse to make this possible. Recruiters 
 
 | Location selection in Greenhouse | Countries where the associated job will post on LinkedIn |
 | -------------------------------- | -------------------------------------------------------- |
-| Remote | United States, Canada, United Kingdom, Netherlands, India, Australia |
-| Remote, Global | United States, Canada, United Kingdom, Netherlands, India, Australia |
+| Remote | United States, Canada, United Kingdom, Netherlands, Ireland, Australia |
+| Remote, Global | United States, Canada, United Kingdom, Netherlands, India, Australia, Ireland |
 | Remote, Americas | United States, Canada, Mexico, Chile, Costa Rica |
-| Remote, EMEA | United Kingdom, Netherlands, Germany, France, Ireland, South Africa |
-| Remote, APAC | Australia, New Zealand, South Korea, Singapore, Japan, India |
+| Remote, EMEA | United Kingdom, Netherlands, Germany, France, Ireland, South Africa, Belgium |
+| Remote, APAC | Australia, New Zealand, South Korea, Singapore, Japan, India, Phillipines |
 | Remote, US | United States |
 | Remote, North America | United States, Canada |
 | Remote, France | France |
 | Remote, Japan | Japan |
 | Remote, Germany | Germany |
 | Remote, United Kingdom | United Kingdom |
+| Remote, Europe-North/Central | Austria, Finland, Hungary, Latvia |
 
 If you have a job that needs to show up in a different subset of countries, you can choose the most appropriate location tag and manually adjust the countries where that job shows up by following the instructions under the "Publishing jobs to LinkedIn" section.
 
