@@ -14,7 +14,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 - - -
 
-As part of the TAM's mandate to drive stage adoption and expansion with customers, we need to define exactly what it means to adopt a stage at GitLab. [For more information on how stage expansion is recorded and reported on, please visit this page](/handbook/customer-success/tam/success-plans/#open-and-categorize-a-stage-adoption-objective)
+As part of the TAM's mandate to drive stage adoption and expansion with customers, we need to define exactly what it means to adopt a stage at GitLab. [For more information on how stage expansion is recorded and reported on, please visit this page](/handbook/customer-success/tam/success-plans/#open-and-categorize-a-stage-adoption-objective-within-a-success-plan-in-gainsight)
 The detail below is a guide to defining what it takes to say a customer has adopted that stage within GitLab. We define stage adoption as >25% of the account using a stage as defined below. Less than 25% (roughly) is presumed to be a pilot or work in progress toward a significant foothold of a stage providing value within the company.
 
 ## Manage
@@ -48,7 +48,7 @@ If there is no data currently being recorded for your customer in version.gitlab
 
 - Using GitLab for git repo storage and code review (MR's).
 
-Using data from version.gitlab.com and the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) you can determine if the customer is doing the following: 
+Using data from version.gitlab.com and the [Metrics Dictionary](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html) you can determine if the customer is doing the following: 
 
 - Using Merge Requests as part of the development lifecycle. (counts.merge_requests)
 - Increase in projects with repositories with continuous growth over 3 months (counts.projects_with_repositories_enabled)
@@ -67,7 +67,7 @@ If there is no data currently being recorded for your customer in version.gitlab
 - More than 25% of teams or projects are using GitLab CI/CD.
 - When 75+% of pipelines are using GitLab CI/CD.
 
-Using data from version.gitlab.com and the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) you can determine if the customer is doing the following: 
+Using data from version.gitlab.com and the [Metrics Dictionary](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html) you can determine if the customer is doing the following: 
 
 - Made instance level shared Runner(s) available. (gitlab_shared_runners_enabled)
 - Using Continuous Integration (CI) with continuous growth over 3 months (ci_internal_pipelines)
@@ -94,7 +94,7 @@ If there is no data currently being recorded for your customer in version.gitlab
 
 - Using one of more of our security testing tools (SAST, DAST, Container Scanning, Dependency Scanning) with continuous growth over 3 months
 
-Using data from version.gitlab.com and the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) you can determine if the customer is doing the following: 
+Using data from version.gitlab.com and the [Metrics Dictionary](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html) you can determine if the customer is doing the following: 
 
 - Using one of more of our security testing tools (SAST, DAST, Container Scanning, Dependency Scanning) with continuous growth over 3 months
 * SAST jobs (counts.sast_jobs)  
