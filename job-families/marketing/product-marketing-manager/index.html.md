@@ -225,6 +225,7 @@ As the Partner Product Marketing Manager, you will work with our marketing, busi
 
 #### Channel Marketing:
 
+* Extends that of the Intermediate or Senior level Product marketing manager requirements
 * Develop our worldwide channel marketing strategy, and train the field marketing team on regional execution that maximizes our reach and scale with channel partners.
 * Implement channel marketing initiatives, programs, communication vehicles, and sales tools to drive increased market adoption and channel revenue goals.
 * Spearhead enablement activity with resellers to drive end-user adoption, and manage MDF program.
@@ -279,8 +280,25 @@ As a Product Marketing Manager, Market Insights, you will bring your market know
 * Ability to travel if needed and comply with the company’s travel policy. 
 * If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
+### Exec Engagement (Channel)
 
+#### Responsibilites 
 
+* Work with our marketing, operations and sales teams to build the foundation for a world class global partner marketing program that will drive customer acquisition and revenue growth for GitLab.
+* develop programs focused on engagement programs that target our partner Executive team including but not limited to: Partner Summit, Executive Roundtables, Partner Awards and much, much more.  These programs will scale to support our growing partner and channel ecosystems. 
+* Work cross-functionally with channel sales, channel operations, finance and legal to ensure our programs reflect GitLab’s culture, goals and objectives while mandating they are held to the highest ethical standards.
+
+#### Requirements
+
+* Design, develop and deploy an annual Regional Partner Summit program bringing the most strategic of our partners together to showcase their commitment to GitLab and our growing partnership. 
+* Architect an agenda and cadence for Regional Partner Roundtable meetings that encourage continued engagement with partner executives.  These sessions will support our continued evolution of our channel strategy.
+* Develop thought leadership strategy to externally promote and amplify GitLab’s Partner Program and voice to our partners through a variety of paid and organic media channels inclusive of social media. 
+* Develop a strategy for AR and PR engagements that support the Channel organization’s goals and objectives.
+* Develop standard, repeatable and stable processes that promote and enable operational efficiency.
+* Implement channel marketing initiatives, programs, communication vehicles, and sales tools to drive increased market adoption and channel revenue goals.
+* Assist sales team in the development of actionable and measurable programs for our channel partners.
+* Accurately track activity performance and provide well-informed recommendations on future resource and budget allocation.
+* Assist in the preparation of reports to help evaluate activity and reseller effectiveness, conversion rate, and relative performance.
 
 ## Career Ladder 
 
