@@ -1902,8 +1902,21 @@ If you have trouble running the rake task, you can check the following troublesh
 
 The [release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md) is our checklist for every release. Let's keep it up-to-date! :)
 
----
+### Adding deprecations and removals index to `www-gitlab-com`
 
+In order to display a list of deprecations and removals in the Release Post, an index must be generated from the `gitlab` project and added to `data/release_posts/xx_y` in the `www-gitlab-com` project.
+
+1. Open a terminal in the `gitlab` project
+1. Run `bin/rake gitlab:docs:write_deprecations`
+1. Enter the relevant milestone when prompted
+1. Run `bin/rake gitlab:docs:write_removals`
+1. Enter the relevant milestone when prompted
+1. Manually copy and paste the generated files into the corresponding `/data/release_posts/xx_y` in the `www-gitlab-com` project
+1. Add `deprecations:` to the first line of the deprecations index
+1. Add `removals:` to the first line of the removals index
+1. Change all instances of `name:` to `feature_name:` in both files
+
+---
 ## Patch and Security release posts
 
 The Delivery team is responsible for creating release posts for [patch](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/blog-post.md) and [security releases](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases).
