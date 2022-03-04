@@ -17,11 +17,13 @@ There are two types of escalations:
 
 1. A functional escalation is when the progress of a ticket has stalled, and the ticket needs to be elevated to a more experienced engineer (based on their skill set) so that GitLab can resolve the ticket more quickly.
 1. A hierarchal escalation is when management oversight is required to bring structure and focus to a ticket and ensure the necessary resources are allocated to it. This type of escalation typically encompasses the following situations:
-    - The SLA of the ticket has been significantly or repeatedly breached.
+    - The [SLA](https://about.gitlab.com/support/#service-level-agreement-sla-details) of the ticket has been breached by an hour or more.
     - It is a business-critical situation where existing or future business is at risk.
     - The ticket requires immediate intervention to address a high level of customer dissatisfaction.
 
-**NOTE:** For L&R (subscription, plan, renewal, licensing) escalations, please see our [Plan/License Escalations Workflow](/handbook/support/license-and-renewals/workflows/managers_working_with_extensions.html) and its decision flowchart.
+**NOTES:** 
+* For L&R (subscription, plan, renewal, licensing) escalations, please see our [Plan/License Escalations Workflow](/handbook/support/license-and-renewals/workflows/managers_working_with_extensions.html) and its decision flowchart.
+* Our [SLA](https://about.gitlab.com/support/#service-level-agreement-sla-details) will cover first responses to tickets. 
 
 ## Scope
 
