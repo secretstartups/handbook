@@ -48,7 +48,7 @@ Our [IT Compliance](https://gitlab.com/groups/gitlab-com/-/boards/1802558?label_
 
 ## What we do
 
-#### IT General Controls 
+#### [IT General Controls](https://about.gitlab.com/handbook/business-technology/it-compliance/ITGC.html) 
 
 **Most Common:**
 
