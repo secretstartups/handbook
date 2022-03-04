@@ -18,7 +18,8 @@ description: >-
 
 *Why we exist*
 
-We help guide and educate Buyers on how GitLab’s DevOps Platform can solve their problems. 
+We take a customer centric approach to educating Buyers on how GitLab’s DevOps Platform solves their problems.
+
 
 ### Vision
 
@@ -50,7 +51,7 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
 3. **Personalization:** Right content/right segment/right time
     - Increase access to data sources
     - Persistent data layer to build a one to many relationship
-4. **Buyer Experience:** Shift to a buyer obsessed organization
+4. **Buyer Experience:** Shift to a buyer obsessed, customer centric organization
     - Understand our buyer’s journey & optimize for each segment
     - Optimize path to purchase funnel for each segment
 
@@ -77,10 +78,6 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
     1. **Experimentation** We’re driven by experimentation and judge success with data.
     2. **Incremental** We take large tasks and break them down into multiple iterative deliverables.
 
-### What We Are Not
-
-[COMING]
-
 ## Team
 
 | Team Member | Role | Contact Info |
@@ -97,7 +94,6 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
 | [**Laura Duggan**](https://about.gitlab.com/company/team/#lduggan) | Frontend Engineer | - Email: [lduggan@gitlab.com](mailto:lduggan@gitlab.com)<br>- GitLab: [@lduggan](https://gitlab.com/lduggan)<br>- Slack: @Laura Duggan<br>- ReadMe: [laura-duggan](/handbook/marketing/readmes/laura-duggan.html) |
 | [**Javier Garcia**](https://about.gitlab.com/company/team/#jgarc) | Frontend Engineer | - Email: [jgarcia@gitlab.com](mailto:jgarcia@gitlab.com)<br>- GitLab: [@jgarc](https://gitlab.com/jgarc257)<br>- Slack: @Javi |
 | [**Megan Filo**](https://about.gitlab.com/company/team/#meganfilo) | Frontend Engineer | - Email: [mfilo@gitlab.com](mailto:mfilo@gitlab.com)<br>- GitLab: [@meganfilo](https://gitlab.com/meganfilo)<br>- Slack: @Megan Filo<br>- ReadMe: [megan-filo](https://gitlab.com/meganfilo/meganfilo/-/blob/main/README.md) |
-| [**Daniel Vilchis**](https://about.gitlab.com/company/team/#dvilchis-ext) | Senior Frontend Engineer (Contract) | - Email: [dvilchis-ext@gitlab.com](mailto:dvilchis-ext@gitlab.com)<br>- GitLab: [@dvilchis-ext](https://gitlab.com/dvilchis-ext)<br>-  Slack: @Daniel Vilchis |
 | [**Miguel Duque**](https://about.gitlab.com/company/team/#mduque-ext) | Frontend Engineer (Contract) | - Email: [mduque-ext@gitlab.com](mailto:mduque-ext@gitlab.com)<br>- GitLab: [@mduque-ext](https://gitlab.com/mduque-ext)<br>-  Slack: @Miguel Duque |
 
 ## Metrics
@@ -118,29 +114,9 @@ GitLab's digital marketing platform, or simply the “Marketing Site" refers to 
 
 We collaboratively define OKRs as a team with cross functional partners in advance of each quarter. Once OKR candidates are complete we review, size/scope them and align on which best help achieve our business objectives.
 
-### FY22Q4 Plan
+### Current Quarterly Plan
 
-**FY22Q4 Digital Experience Quarterly Plan & OKRs**
-
-**Objective:** [Instrument Google Analytics on Free Trial and Ecomm Flows](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/42)
-
-**Key Results:** 
-
-1. 100% of steps of free trial funnel are tracked in Google Analytics
-2. 100% of e-commerce flow is set up in Google Analytics
-
-**Objective:** [Implement all P1 + P2 Google Analytics recommendations](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/43)
-
-**Key Results:** 
-
-1. Increase data maturity and performance reporting
-
-**Objective:** [Improve Free Trial Experience](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/44)
-
-**Key Results:** 
-
-1. Increase conversion rate of free trial to paid by X%
-2. Increase self-service conversion rate by X%
+[FY23Q1 Digital Experience Quarterly Plan & OKRs](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/85)
 
 # Our Process
 
@@ -163,24 +139,18 @@ We release every 2 weeks, always on a Wednesday. We can push MRs at any time but
 
 ### Sprint Planning
 
-Before a sprint starts, our team aligns on what will be delivered during the sprint. We identify issues that need to be written, write them, then add them to our boards and weight them.
+We use the following boards to plan sprints:
+- [Current Sprint](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/3288486?iteration_id=Current)
+- [DEX All](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/3288685)
 
-There is always a chance that a team member's sprint plan will change during the meeting. 
+Before a sprint starts, our team reviews potential work for the upcoming sprint. We identify issues that need to be written, write them, wieght them and add the to-do label.
+
+A team member should enter sprint planning with an opinion on what the most important issues to work on are and be ready to make the sprint plan in collaboration with the team.
 
 **Weighting**
 
 We use issue weight to plan and manage our work. Team members are not held to weights, they’re simply a planning and learning tool. Digital Experience weights are based on the following point scale: 1pt = .5 day. In a full two-week sprint, we plan to deliver 20 points per team member.
 
-**Agenda**
-
-We use our [Sprint Planning document](https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit#heading=h.aa7av9szmk5t) for our planning meetings.
-
-Team members plan a majority of their sprint async before the sprint planning meeting. If you have an issue or project that needs to get done in the upcoming sprint, place it in the **"Unassigned"** section. Please add a link to the issue and when it needs to be delivered. It is recommended to add these items to the sprint planning doc by the Friday before Monday's sprint planning meeting. This will enable team members to work efficiently while planning their sprints Monday morning.
-
-
-<figure class="video_container">
- <iframe src="https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit?usp=sharing"></iframe>
-</figure>
 ### Weekly Check In
 
 We use [Geekbot](https://geekbot.com/) to conduct asynchronous, weekly check-ins on iteration progress.
@@ -209,10 +179,6 @@ From time to time, our team has objectives that require us to collaborate on the
 
 On the second Wednesday of each sprint, we have a calendar reminder for: “Sprint Release Async”, which serves as a reminder for team members to add to our [Sprint Release Video Document](https://docs.google.com/document/d/1I9Th3Q-AakOkE_-pmNtEzwwMDSqYKF5Je2etGdPTovk/edit).
 
-<figure class="video_container">
- <iframe src="https://docs.google.com/document/d/1I9Th3Q-AakOkE_-pmNtEzwwMDSqYKF5Je2etGdPTovk/edit"></iframe>
-</figure>
-
 **Special cases during release post schedule:** we hold off on making changes to the `www-gitlab-com` repository during [release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-posts) days. The release post process is handled by a different team, and it can be disruptive to their work when we release changes to dependencies, CI/CD, or other major changes around their monthly release cadence.
 
 ### Sprint Retros
@@ -220,11 +186,6 @@ On the second Wednesday of each sprint, we have a calendar reminder for: “Spri
 Sprint Retros allow us to reflect on what went well and what we can to do continuously improve our process.
 
 This is the agenda we use for [Sprint Retros](https://docs.google.com/document/d/1kMNiUF2UDuSrMDuzLyRi8OEhVxry_MJoYi38RmmWafY/edit?usp=sharing)
-
-
-<figure class="video_container">
- <iframe src="https://docs.google.com/document/d/1kMNiUF2UDuSrMDuzLyRi8OEhVxry_MJoYi38RmmWafY/edit?usp=sharing"></iframe>
-</figure>
 
 ### Sprint Videos
 
@@ -291,6 +252,7 @@ We love collaborating on work that drives our North Star and supporting metrics.
 <details>
     <summary>Previous <b>Quarterly Plans & OKRs</b></summary>
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/385">FY22Q3 Digital Experience Quarterly Plan & OKRs</a></li>
+    <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/3">FY22Q4 Digital Experience Quarterly Plan & OKRs</a></li>    
 </details>
 <details>
     <summary>Content Wireframe Instructions</summary>
