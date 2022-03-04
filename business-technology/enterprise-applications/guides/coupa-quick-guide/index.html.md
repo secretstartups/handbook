@@ -73,9 +73,9 @@ Click on the below boxes for more details of the process:
 
 Still have questions? Ask them in the #coupa_help Slack channel.
 
+<br>
 
 
-</div> 
 
 
 {::options parse_block_html="false" /}
