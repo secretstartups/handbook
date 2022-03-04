@@ -68,7 +68,7 @@ These definitions imply several on-call rotations for the different roles. Note 
 
 #### Incident Status Updates - EOC/Incident Manager
 
-1. During an active incident, the EOC is initially responsible for posting regular status updates in the `Current Status` section of the incident issue description. These updates should summarize the current customer impact of the incident and actions we are taking to mitigate the incident. These updates should occur at regular intervals based on the severity of the incident. 
+1. During an active incident, the EOC is initially responsible for posting regular status updates in the `Current Status` section of the incident issue description. These updates should summarize the current customer impact of the incident and actions we are taking to mitigate the incident. These updates should occur at regular intervals based on the severity of the incident.
 These status updates are used to:
     1. Help construct a detailed incident timeline to be used in Root Cause Analysis.
     1. Ensure CMOC has up to date and accurate information to communicate to customers and other stakeholders.
@@ -97,7 +97,7 @@ These status updates are used to:
     1. If the Pagerduty alert noise is too high, your task as an EOC is clearing out that noise by either fixing the system or changing the alert.
     1. If you are changing the alert, it is your responsibility to explain the reasons behind it and inform the next EOC that the change occurred.
     1. Each event (may be multiple related pages) should result in an issue in the `production` tracker. See [production queue usage](/handbook/engineering/infrastructure/production/#implementation) for more details.
-1. If sources outside of our alerting are reporting a problem, and you have not received any alerts, it is still your responsibility to investigate. [Declare a low severity incident](#declaring-an-incident) and investigate from there.
+1. If sources outside of our alerting are reporting a problem, and you have not received any alerts, it is still your responsibility to investigate. [Declare a low severity incident](#reporting-an-incident) and investigate from there.
     1. Low severity ([S3/S4](/handbook/engineering/infrastructure/production/#severity)) incidents (and issues) are cheap, and will allow others a means to communicate their experience if they are also experiencing the issue.
     1. **"No alerts" is not the same as "no problem"**
 1. GitLab.com is a complex system. It is ok to not fully understand the underlying issue or its causes. However, if this is the case, as EOC you should page the Incident Manager to find a team member with the appropriate expertise.
@@ -144,8 +144,7 @@ If any of the following are true, it would be best to engage an Incident Manager
 1. During a shift where no Incident Manager engaged incidents have occurred, no transition ("handover") is required.
 
 To engage the Incident Manager: either run `/pd trigger` in Slack, then select the "GitLab
-Production - IMOC" service, or create an incident in [the Pagerduty page for the](https://gitlab.pagerduty.com/service-directory/PE8A5MX)
-service.
+Production - IMOC" service, or create an incident in [the Pagerduty page for the service](https://gitlab.pagerduty.com/service-directory/PE8A5MX).
 
 #### IM Severity 1 Checklist
 
@@ -169,6 +168,7 @@ The GitLab support team staffs an oncall rotation and via the `Incident Manageme
 During an incident, the CMOC will:
 
 1. Be the voice of GitLab during an incident by updating our end-users and internal parties through updates to our [status page](https://status.gitlab.com/) hosted by Status.io.
+    - Tip: use `/incident post-statuspage` on Slack to create an incident on Status.io. Any updates to the incident will have to be done manually by following [these instructions](/handbook/support/workflows/cmoc_workflows.html#stage-2-incident-updates).
 1. Update the status page at regular intervals in accordance with [the severity of the incident](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates).
 1. Notify GitLab stakeholders (customer success and community team) of current incident and reference where to find further information. Provide additional update when the incident is mitigated.
 
@@ -341,6 +341,8 @@ To that end, we will have:
 ### Status
 
 We manage incident [communication](#communication) using status.io, which updates [status.gitlab.com](https://status.gitlab.com). Incidents in status.io have **state** and **status** and are updated by the incident owner.
+
+To create an incident on status.io, you can use `/incident post-statuspage` on Slack.
 
 #### Status during Security Incidents
 
