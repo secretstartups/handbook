@@ -24,7 +24,11 @@ This page provides an overview on relevant SA Managers processes. The SA Manager
 ### Activity Review 
 As part of the regular rhythm of business, it is important to review activities related to Prospect and Customer Engagements. The expectation is that SA Managers will comment weekly on SA activities in the #troops slack channel(s). Be sure to subscribe to #troops Channel in Slack.
 
-Reviewing Chorus calls at least quarterly can allow for SA Managers to check in and give managers opportunities to provide timely feedback on technical discovery calls or demos. 
+Reviewing Chorus calls at least quarterly can allow for SA Managers to check in and give managers opportunities to provide timely feedback on technical discovery calls or demos.  
+
+Considering data sovereignity challenges in certain parts of the world and nations, it may not always be possible to review recorded Chorus call, i.e. for regions such as APAC or EMEA. As a result, the SA Manager should collaborate with cross-functional teams and consider joining internal or external meetings instead. This will ensure adherence to sales plans and staregies as well as assistance in key business opportunities. Additionally, by providing leadership on initiatives and opportunities, the SA Manager can share best practises and approaches with the teams and clients.
+
+It increases efficiecies towards the achievement of regional goals and objectives and helps to refer to upper management on potential issues and challenges. Collaboration with sales management to fully qualify and manage the delivery of solution architecture engagements during technical evaluations on key strategic client opportunities is encouraged.
 
 ### Deliberate Practice 
 Deliberate practice allows the team to sharpen their skills and continue delivering deal-winning engagements. The SA Manager needs to support ongoing role play exercises and dry-runs for key accounts. This includes facilitating sessions, helping the team make this a priority, and ensure the team is adhering to key delivery methodologies, including MEDDPPICC and Demo2Win. Important tools include Google Slides, Role Plays, and the [wheel of Names](http://weelofnames.com/).
