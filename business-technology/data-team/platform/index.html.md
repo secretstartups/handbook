@@ -17,10 +17,11 @@ description: "GitLab Data Team Platform"
 ## <i class="fas fa-map-marked-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Quick Links
  
 - [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure/)
-- [Data pipelines](/handbook/business-technology/data-team/platform/pipelines/)
+- [Data Pipelines](/handbook/business-technology/data-team/platform/pipelines/)
 - [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs/)
 - [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide/)
 - [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw/)
+- [Data Pumps](/handbook/business-technology/data-team/platform/#data-pumps)
 - [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/)
 - [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
 - [Python Guide](/handbook/business-technology/data-team/platform/python-guide/)
@@ -136,11 +137,31 @@ Sensitive data is locked down through the security paradigms listed below;
 Sisense will never have access to sensitive data, as Sisense does not have access to any data by default.
 Sisense's access is always explicitly granted.
 
-#### DataSiren
+### Data Source Overviews
+
+- [Customer Success Dashboards](https://drive.google.com/open?id=1FsgvELNmQ0ADEC1hFEKhWNA1OnH-INOJ)
+- [Netsuite](https://www.youtube.com/watch?v=u2329sQrWDY)
+    - [Netsuite and Campaign Data](https://drive.google.com/open?id=1KUMa8zICI9_jQDqdyN7mGSWSLdw97h5-)
+- [Version (pings)](https://drive.google.com/file/d/1S8lNyMdC3oXfCdWhY69Lx-tUVdL9SPFe/view)
+    - Note that up until October 2019, the data team referred to the entire **version** data source as "pings". However, usage ping is only one subset of the version data source which is why we now use "version" or "version app" to refer to the version.gitlab.com _data source_ and "usage data" or "usage pings" or "pings" to refer to the [specific usage data feature](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html) of the version data source. In the context of Data extraction, when it comes to `Service ping` data ingestion, specific details should be found in the [Service ping](handbook/business-technology/data-team/platform/pipelines/index.html.md/#service-ping) page or in the [Readme.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md) page for Service ping
+- [Salesforce](https://youtu.be/KwG3ylzWWWo)
+- [Zendesk](https://drive.google.com/open?id=1oExE1ZM5IkXcq1hJIPouxlXSiafhRRua)
+
+### DataSiren
 
 To ensure that the data team has a complete picture of where sensitive data is in the data warehouse, as well as make sure Sisense does not have access to sensitive data, a periodic scan of the data warehouse is made using dbt along with the internally-developed library of tools created as [`datasiren`](https://gitlab.com/gitlab-data/datasiren). This scan is currently executed weekly. The fine-grained results are stored in Snowflake in the `PREP.DATASIREN` schema and are not available in Periscope because of sensitivity reasons.  High-level results have been made available in Periscope, including the simple dashboard found [here](https://app.periscopedata.com/app/gitlab/793578/DataSiren).  
 
-### Qualtrics Mailing List Data Pump / Qualtrics SheetLoad
+### Data Pumps
+
+#### Marketing Data Mart to Marketo
+
+The [Email Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart/) is designed to automatically power updates to Marketo to enable creation of structured and targeted communications. 
+
+#### Trusted Data Model to Gainsight
+
+The [Data Model to Gainsight Module](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) is designed to automatically power updates to Gainsight to enable creation of visualizations, action plans, and strategies for Customer Success to help our customers succeed in their use of GitLab.
+
+#### Qualtrics Mailing List Data Pump / Qualtrics SheetLoad
 
 The Qualtrics mailing list data pump process, also known in code as `Qualtrics SheetLoad`, enables emails to be uploaded to Qualtrics from the data warehouse without having to be downloaded onto a team member's machine first.  This process shares its name with SheetLoad because it looks through Google Sheets for files with names starting with `qualtrics_mailing_list`.  For each of the files it finds with an `id` column as the first column, it uploads that file to Snowflake.  The resulting table is then joined with the GitLab user table to retrieve email addresses.  The result is then uploaded to Qualtrics as a new mailing list.
 
@@ -148,7 +169,7 @@ During the process, the Google Sheet is updated to reflect the process' status. 
 
 The end user experience is described on the [UX Qualtrics page](/handbook/engineering/ux/qualtrics/#distributing-your-survey-to-gitlabcom-users).
 
-#### Debugging
+##### Debugging to Qualitrics PRocesses
 
 Attempting to reprocess a spreadsheet should usually be the first course of action when a spreadsheet has an error and there is no apparent issue with the request file itself.  Reprocessing has been necessary in the past when new GitLab plan names have been added to the `gitlab_api_formatted_contacts` dbt model, as well as when the Airflow task hangs when processing a file.  This process should only be performed with coordination or under request from the owner of the spreadsheet, to ensure that they are not using any partial mailing list created by the process, as well as not making any additional changes to the spreadsheet.
 
@@ -161,16 +182,6 @@ To reprocess a Qualtrics Mailing List request file:
 ### Snowplow Infrastructure
 
 Refer to the [Snowplow Infrastructure page](/handbook/business-technology/data-team/platform/snowplow) for more information on our setup.
-
-### Data Source Overviews
-
-- [Customer Success Dashboards](https://drive.google.com/open?id=1FsgvELNmQ0ADEC1hFEKhWNA1OnH-INOJ)
-- [Netsuite](https://www.youtube.com/watch?v=u2329sQrWDY)
-    - [Netsuite and Campaign Data](https://drive.google.com/open?id=1KUMa8zICI9_jQDqdyN7mGSWSLdw97h5-)
-- [Version (pings)](https://drive.google.com/file/d/1S8lNyMdC3oXfCdWhY69Lx-tUVdL9SPFe/view)
-    - Note that up until October 2019, the data team referred to the entire **version** data source as "pings". However, usage ping is only one subset of the version data source which is why we now use "version" or "version app" to refer to the version.gitlab.com _data source_ and "usage data" or "usage pings" or "pings" to refer to the [specific usage data feature](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html) of the version data source. In the context of Data extraction, when it comes to `Service ping` data ingestion, specific details should be found in the [Service ping](handbook/business-technology/data-team/platform/pipelines/index.html.md/#service-ping) page or in the [Readme.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md) page for Service ping
-- [Salesforce](https://youtu.be/KwG3ylzWWWo)
-- [Zendesk](https://drive.google.com/open?id=1oExE1ZM5IkXcq1hJIPouxlXSiafhRRua)
 
 ## <i class="fas fa-clock fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Orchestration
 
