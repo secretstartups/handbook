@@ -131,7 +131,7 @@ If you'd rather watch a video of how to update your GitLab Learn profile, click 
 1. In the top navigation bar, locate your name and profile image. This will link to your profile page
 1. On your profile, you can review your dashboard, content, learning plan, and more
 1. In the top right corner of the screen, click `Edit Profile`
-1. Confirm you are viewing the `Account Details` tab
+1. Confirm you are viewing the `Profile Details` tab
 1. From this page, you can edit and update the following information:
      - First and last name
      - Bio
