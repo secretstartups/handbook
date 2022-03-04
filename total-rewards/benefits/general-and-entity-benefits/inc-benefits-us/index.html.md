@@ -30,7 +30,15 @@ Please see additional information on the 2022 US Benefit Plans:
 
 * Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits. Please review the [2022 Annual Rights and Notices](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing).
 
-* Team Members can find information on the 2021 Calendar Year benefit plans, details, and open enrollment [archived here.](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/fd1efce5ea06c2a26dddeec9dea3f3c217adeeab/sites/handbook/source/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/index.html.md) 
+## 2021 Plan Year
+
+Team Members can find information on the **2021 Calendar Year** benefit plans, details, and open enrollment [archived here.](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/fd1efce5ea06c2a26dddeec9dea3f3c217adeeab/sites/handbook/source/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/index.html.md) 
+
+### 1095-C Forms (2021)
+ * Team Members can access their 2021 Form 1095-C tax documents on PlanSource. 
+     - To access your 1095-C form, log on to your [PlanSource home page](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#logging-into-plansource). On the side bar select Documents> Tax Documents> Prior Calendar Year > View Form.
+    - Form 1095-C has information about the health insurance the company offered you, your spouse and/or your dependents. While the information may assist in preparing tax returns, the form is not submitted with your tax return and is not generally requried, however the Form 1095-C should be saved with your other important tax dcouments. 
+     - Team Members will also receive these documents to their home address via US mail 
  
 ## Who To Contact
 
