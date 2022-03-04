@@ -50,6 +50,8 @@ Click on the below boxes for more details of the process:
   <a href="/handbook/finance/accounts-payable/#tanuki-orange/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Invoice paid based upon terms on contract</a>
 </div> 
 
+<br>
+
 ![coupa-image-2](/handbook/business-technology/enterprise-applications/guides/coupa-quick-guide/coupaquick2.png)
 
 <br>
@@ -61,6 +63,12 @@ Click on the below boxes for more details of the process:
   <a href="/handbook/finance/procurement/software-renewal/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Software Renew/Add-on</a>
   <a href="/handbook/finance/procurement/field-marketing-events/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Field Marketing & Events</a>
   <a href="/handbook/finance/procurement/professional-services/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Professional Services</a>
+
+<br>
+
+Still have questions? Ask them in the #coupa_help Slack channel.
+
+<br>
 
 </div> 
 
