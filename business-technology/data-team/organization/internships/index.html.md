@@ -95,7 +95,7 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 
 | Quarter | Openings | Filled | Remaining Openings |
 | :---: | :---:  | :---: | :---: |
-| FY23Q1 | 1 | 1 | 0 |
+| [FY23Q1](https://gitlab.com/groups/gitlab-data/-/epics/499) | 1 | 1 | 0 |
 | FY23Q2 | TBD | TBD | TBD |
 | FY23Q3 | TBD | TBD | TBD |
 | FY23Q4 | TBD | TBD | TBD |
@@ -122,7 +122,7 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 
 | Quarter | Openings | Filled | Remaining Openings |
 | :---: | :---:  | :---: | :---: |
-| FY23Q1 | 2 | 2 | 0 |
+| [FY23Q1](https://gitlab.com/groups/gitlab-data/-/epics/499) | 2 | 2 | 0 |
 | FY23Q2 | TBD | TBD | TBD |
 | FY23Q3 | TBD | TBD | TBD |
 | FY23Q4 | TBD | TBD | TBD |
