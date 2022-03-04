@@ -307,14 +307,6 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    - At GitLab, we're prolific at documenting what we do in the handbook, the website, and in GitLab documentation. This may make it difficult to find specific pieces of content. Google already indexes all our public facing pages and there is a search modifier google offers that will help. Take a look at the handbook page on how to [set up your search engine like the pros!](/handbook/tools-and-tips/searching/)
 *  **Role Play Notes (Assignment - 10 Minutes - 10 Points - In-Class)**
    - Please submit your notes from one of the role plays that you observed using the [notes template](https://docs.google.com/document/d/1bzuO-ngACn4Z1S55Z7EtNOb2HYCZbcBZZRYIVpkeMtw/edit?usp=sharing). Dont forget to check out the [handbook page](/handbook/sales/#sales-note-taking) on how we take notes at GitLab.
-*  **Group Activity: Positioning Value, Resolving Objections & Closing (Assignment - 30 Minutes - 10 Points - In-Class)**
-   - Break into groups of 3-5 people that are different than your mock discovery call groups. Choose one person to fill out the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfwZiy__U1cl0kB3vOKl7GiQmcDgnBptT8G4qL_ZSw0gdC_hA/viewform?usp=sf_link), and please answer the following questions as a team. Be prepared to share your answers with the class.
-*  **Call Planning & Preparation - Group Activity (Assignment - 30 Minutes - 10 Points - In-Class)**
-   - Break into groups of 3-5 people that are different than your mock discovery call groups. Choose one person to fill out the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfwZiy__U1cl0kB3vOKl7GiQmcDgnBptT8G4qL_ZSw0gdC_hA/viewform?usp=sf_link), and please answer the following questions as a team. Be prepared to share your answers with the class.
-*  **Territory Planning - Group Activity (Assignment - 30 Minutes - 10 Points - In-Class)**
-   - Break into groups of 3-5 people that are different than your mock discovery call groups. Choose one person to fill out the [google form](https://forms.gle/EkJ6cfZZMqvPYGFTA), and please answer the following questions as a team. Be prepared to share your answers with the class
-*  **Account Planning - Group Activity (Assignment - 30 Minutes - 10 Points - In-Class)**
-   - Break into groups of 3-5 people that are different than your mock discovery call groups. Choose one person to fill out the [google form](https://forms.gle/3XJBawZ48jc3sFdr7), and please answer the following questions as a team. Be prepared to share your answers with the class
 
 </details>
 
