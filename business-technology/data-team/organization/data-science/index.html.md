@@ -52,11 +52,10 @@ graph BT;
    id5-->id1
    id3-->id4(More Data)
    id4-->id1
-
-
 ```
 
 ## What is Data Science?
+
 Check out this brief overview of what data science is at Gitlab:
 
 <!-- blank line -->
@@ -88,14 +87,13 @@ Check out this brief overview of what data science is at Gitlab:
 - **Test Dataset** - Deliberately excluding some observations from training the model so they can be used to test how well the model predicts  
 - **Weight** - numerical value assigned to feature that determines it's strength
 
-
-
 ## Projects
 
 | Name | Maturity | Objective | Sponsor | Epic | Last Update | Next Update | Deliverables |
 | ----- | -----| -----| -----| ----- | ----- | ----- | ----- |
-| [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-expand) (PtE) | Complete | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | Sales | https://gitlab.com/groups/gitlab-data/-/epics/340 | FY23-Q1 | FY23-Q2 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results) |
-| [Propensity to Contract](https://gitlab.com/gitlab-data/propensity-to-contract) (PtC) | Viable | Determine which paid accounts are likely to reduce their ARR by > 10% in next 3 months | Customer Success | https://gitlab.com/groups/gitlab-data/-/epics/382 | FY23-Q1 | FY23-Q2 |[PtC slide deck](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [PtC Inspector](https://app.periscopedata.com/app/gitlab/990981/PtC-Inspector), [PtC Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/971930/PtC-Results-2021-12-to-2022-02)|
+| [Propensity to Expand](https://gitlab.com/gitlab-data/propensity-to-expand) (PtE) | Complete | Determine which paid accounts are likely to expand their ARR by > 10% in next 3 months | Sales | [MVP](https://gitlab.com/groups/gitlab-data/-/epics/340) | FY23-Q1 | FY23-Q2 | [Exec Summary](https://docs.google.com/presentation/d/1Aaf2HzFYrYDPgrZKDHxS9gzep4LHGMlwF5SxYs-her0/edit#slide=id.gf528ae95ed_0_0), [PtE Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/951374/PtE-Inspector), [PtE Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/958412/PtE-Results) |
+| [Propensity to Contract](https://gitlab.com/gitlab-data/propensity-to-contract) (PtC) | Viable | Determine which paid accounts are likely to reduce their ARR by > 10% in next 3 months | Customer Success | [MVP](https://gitlab.com/groups/gitlab-data/-/epics/382) | FY23-Q1 | FY23-Q2 |[PtC slide deck](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68), [PtC Inspector](https://app.periscopedata.com/app/gitlab/990981/PtC-Inspector), [PtC Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/971930/PtC-Results-2021-12-to-2022-02)|
+| [PtE/PtCC Salesforce Pilot](https://gitlab.com/groups/gitlab-data/-/epics/444#objective-1-rollout-pte-and-ptcc-scores-to-sales-and-customer-success-kdietz-kmagda1) | Viable | Pilot models in Salesforce by subset of Sales Teams | Sales | [Pilot Epic](https://gitlab.com/groups/gitlab-data/-/epics/444) | FY23-Q1 | FY23-Q1 | Scores in Salesforce |
 | [Namespace Segmentation](https://gitlab.com/gitlab-data/namespace-segmentation) | Planned | Define groups for paid and free SaaS namespaces based on its product usage and impact on conversions | Growth | | | FY23-Q1 | | 
 | [Propensity to First Purchase](https://gitlab.com/gitlab-data/propensity-to-first-purchase) | Planned | Identify which free accounts are likely to become paid accounts | Growth | | | FY23-Q1 | | 
 | Golden Journey | Planned | Identify optimal paths to increasing platform usage and adoption | Growth | | | FY23-Q2 | | 
@@ -108,6 +106,7 @@ Check out this brief overview of what data science is at Gitlab:
 | GitLab MLOps Product Development | Unplanned | - | Product (Taylor) | | | | | 
 
 ### Maturity
+
 Maturity of data science projects closely follows the [Gitlab product maturity model](https://about.gitlab.com/direction/maturity/):
 - **Unplanned**: Not implemented, and not yet on our roadmap.
 - **Planned**: Not implemented, but on our roadmap; executive sponsor attached to project.
@@ -116,6 +115,7 @@ Maturity of data science projects closely follows the [Gitlab product maturity m
 - **Optimized**: Fine-tuned, fully automated, and self-service; continuous model monitoring and scoring; high adoption within intended organization.
 
 ### Project Slack Channels
+
 - [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7): For PtE & PtC
 - [#namespace-segmentation](https://app.slack.com/client/T02592416/C0341FPNB1C): For Namespace Segmentation 
 
@@ -124,7 +124,6 @@ Maturity of data science projects closely follows the [Gitlab product maturity m
 The Data Science Team follows [Cross-Industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining), which consists of 6 iterative phases:
 
 <img align="right" src="CRISP-DM_Process_Diagram.png" width="500">
-
 
 ##### Business Understanding 
 
@@ -151,15 +150,38 @@ Performance is generally measured by how _accurate_, _powerful_, and _explainabl
 Once the model has been approved by the stakeholders, it then gets deployed into the data science production pipeline. This process automatically updates, generates predictions, and monitors the model on a regular cadence.  
 
 
+## Data Science Platform
+
+Our current platform consists of:
+- the [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/) for storing raw and normalized source data as well as final model output for consumption by downstream consumers
+- JupyterLab for model training, tuning, and selection
+
+Over time we plan to dogfood as many components of the GitLab MLOps Stage as possible, leading to fully automated productionalized pipelines. However,  the [MLOps Stage is currently incubating](https://about.gitlab.com/handbook/engineering/incubation/mlops/) and is not yet ready for our use. Our immediate next step is to automate `Current State Data Flows` using a combination of python and airflow.
+
+### Current State Data Flows
+
+**Legend**
+
+- TSV = [tab-separated value file](https://fileinfo.com/extension/tsv)
+- ODBC = [Open Database Connectivity](https://en.wikipedia.org/wiki/Open_Database_Connectivity)
+
+```mermaid
+graph 
+    A[Enterprise Data Warehouse: Raw and Normalized Data Sources]
+    B[JupyterLab: Model Training, Tuning, and Selection]
+    C(Airflow: Batch scoring with Papermill)
+    F[Enterprise Data Warehouse: Model Output for Consumption]
+    D[Salesforce: CRM Use Cases]
+    E[Sisense: Inspector and Operations Dashboards]
+    A --> |ODBC| B 
+    B --> C
+    C --> |JSON| F
+    F --> |TSV| D
+    F --> |ODBC| E
+```
+
 ## Useful Data Science & Machine Learning Resources
 
 - **_Python Data Science Handbook_** by Jake VanderPlas: Great for beginngers looking to learn python and dip their toes into data science.
-
 - **_Python Machine Learning_** by Sebastian Raschka & Vahid Mirjalili: More advanced topics with the assumption of a basic level of python.
-
 - **_The Elements of Stastical Learning, Data Mining, Inference, and Prediction_** by Trevor Hastie, Robert Tibshirani, & Jerome Friedman: Great deep dive into all the statistics and logic behind many of the commonly used predictive techniques. Can be pretty stats/math heavy at time.
-
-
-
-
-
