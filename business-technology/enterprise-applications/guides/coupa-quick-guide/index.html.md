@@ -53,6 +53,7 @@ Click on the below boxes for more details of the process:
 
 <br>
 
+
 ![coupa-image-2](/handbook/business-technology/enterprise-applications/guides/coupa-quick-guide/coupaquick2.png)
 
 <br>
@@ -66,11 +67,13 @@ Click on the below boxes for more details of the process:
   <a href="/handbook/finance/procurement/professional-services/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Professional Services</a>
  </div> 
 
+
 <br>
+
 
 Still have questions? Ask them in the #coupa_help Slack channel.
 
-<br>
+
 
 </div> 
 
