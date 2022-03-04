@@ -164,6 +164,7 @@ Ideally, the functional lead is someone who is an IC working in the affected gro
 | Member             | Patrick Bajao @patrickbajao        | Workhorse         | Senior Backend Engineer              |
 | Member             | Catalin Irimie @cat                | Geo               | Senior Backend Engineer              |
 | Member             | Sofia Vistas @svistas              | Quality           | Senior Software Engineer in Test     |
+| Member             | Jacob Vosmaer @jacobvosmaer-gitlab              | Scalability           | Staff Backend Engineer    |
 
 # Company efforts on uploads
 
