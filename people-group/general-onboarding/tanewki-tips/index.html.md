@@ -60,19 +60,50 @@ After you sign your offer and complete your background check and references, you
 
 As point 36 on our [communication handbook page](https://about.gitlab.com/handbook/communication/#writing-style-guidelines) outlines, we try to avoid using acronyms at GitLab as much as possible however, sometimes we forget. Below you can find common acronyms used here that may help you. If you come across any not in this list during your onboarding, feel empowered to do a merge request to add it below! 
 
+**Company Wide Acronyms**
+
 | Acronym| Word/Saying/Title | 
 |:---------------|:---------------|
 | MR | Merge Request  | 
 | AR | Access Request | 
 | DRI | Directly Responsible Individual | 
+| TMRG | [Team Member Resource Group](https://about.gitlab.com/company/culture/inclusion/#tmrgs---team-member-resource-groups) |
+| AMA | Ask Me Anything | 
+| E-Group | Executive Group |
+| EBA | Executive Business Administrator | 
+
+**People Group Related Acronyms**
+
+| Acronym| Word/Saying/Title | 
+|:---------------|:---------------|
+| PBP | People Business Partner |
+| TA | Talent Acquisition | 
+| CES | Candidate Experience Specialist |
+| PC | People Connect |  
+| TR | Total Rewards | 
+
+**Sales/Sales Related Acronyms**
+
+| Acronym| Word/Saying/Title | 
+|:---------------|:---------------|
 | SAL | Strategic Account Leader | 
 | TAM | Technical Account Manager | 
+| LAM | Landed Addressable Market | 
 | ASM | Area Sales Manager | 
-| PBP | People Business Partner |
-| AMA | Ask Me Anything | 
-| TA | Talent Acquisition | 
-| CES | Candidate Experience Specialist | 
-| TMRG | [Team Member Resource Group](https://about.gitlab.com/company/culture/inclusion/#tmrgs---team-member-resource-groups) | 
+| FTE | Full Time Equivalent |
+| SQL | Sales Qualified Lead |
+| ACV | Annual Contract Value | 
+| ARR | Annual Recurring Revenue | 
+| MRR | Monthly Recurring Revenue | 
+| PCV | ProServe Contract Value | 
+| TCV | Total Contract Value |
+| CAC | Customer Acquisition Cost |
+| LTV | Life Time Value |
+| ATR | Avaialble To Renew |
+| TAM | Total Addressable Market | 
+| CS | Customer Success |
+| SA | Solution Architect |
+| SRE | Site Reliability Engineer |
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Equipment and Expenses
 
