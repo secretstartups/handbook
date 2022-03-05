@@ -29,9 +29,9 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
   <tr>
    <td style = "text-align: center">Available November 2020
    </td>
-   <td style = "text-align: center">Coming in Q4 FY22
+   <td style = "text-align: center">Coming in Q4 FY23
    </td>
-   <td style = "text-align: center">Available by Invite April 2021<br> Openly Available End of FY22
+   <td style = "text-align: center">Available by Invite March 2022
    </td>
   </tr>
   <tr>
@@ -200,8 +200,7 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
      <h3>Program Entry Requirements</h3>
 
      </td>
-     <td>* This certification is  by invitation only, please work with your CAM on a business case if you are interested
-     <br>Each invited CTP must:
+     <td>* Each CTP must:
 
 
      <br>* Be a GitLab Open or Select GitLab Partners
