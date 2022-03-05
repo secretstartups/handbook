@@ -79,12 +79,9 @@ Step 2: Set an enablement plan with the partner representative that identifies t
 
 Step 3: Build a business plan to incorporate GitLab as a strategic element in their service practice using our [Service Development Framework](https://about.gitlab.com/handbook/resellers/services/services-catalog/)
 
-Step 4: Include GitLab Certified Service Partner certifications in their business plan using slide 19 in [the business planning template](https://docs.google.com/presentation/d/1AR4oUnYmyTggB1COoLarxIlAJDhvi-MHhAngCSxLZgc/edit?usp=sharing). Slide 19 is required to be filled out for all partners who are invited to become GitLab Certified Training Partners, and we suggest it for all other partners. 
+Note: If partners do not complete the CTP certification within 6 months of starting it, they will not be allowed to complete it.
 
-### GitLab Certified Training Partner Invitation Process
-GitLab Certified Training Partner program is invite only until 31 January 2021. 
-1. Each quarter the GitLab Channel Services team will work with GitLab Education Services Delivery team to identify the amount of partners who can be added to the program based on the trainer certification capacity compared to the business need for the program, and set criteria for new partner invitations. 
-2. The Channel Services team will then engage the Channel Account Management (CAM) team to identify and prioritize the eligible partners per that criteria, and issue the invitations. 
+Step 4: CAMs are required to use GitLab project features to manage their partners through this process.  
 
 #### Process for Enrolling Partners into the GitLab Certified Training Partner Program
 In order to collaborate with partner organizations, the Channel Solutions Architect group has created a sub-group named [Partners](https://gitlab.com/gitlab-com/channel/partners) under the [channels sub-group](https://gitlab.com/gitlab-com/channel) in GitLab.com where the Channel Account Managers share projects directly with our partner contacts. In order to work with a partner directly, the CAM is required to ensure there is an open sub-group for the specific partner under the [Partners sub-group](https://gitlab.com/gitlab-com/channel/partners). 
@@ -100,10 +97,11 @@ In order to collaborate with partner organizations, the Channel Solutions Archit
 <br>After a partner accepts an invitiation, the CAM:
 1. Will open a project in the [Channel Partner's collaboration sub-group](https://gitlab.com/gitlab-com/channel/partners) using the GitLab_Certified_Service_Partner_Program project template.
 2. Name the project "`Partner Company Name` CTP Requirements Project".
+Note: There is a bug that may accidentally put the new project in the templates folder. CAMs are required to verify that the project was created in the correct sub-group by checking the path dropdown and make changes to the path to put the project in the correct sub-group.
 3. Open an issue using the CTP_Requirement_Tracking_Issue template in that project. 
    1. The template automatically engages the GitLab Channel Services team and the GitLab Education Services Delivery team
    2. The CAM is required to assign themselves and the partner primary contact to the issue. 
-   3. Each assigned team member is required to complete all sections assigned to the their job title within 6 mos of creating the tracking issue. Please watch [this video](https://docs.google.com/presentation/d/1zQuq8Lzz9YtdonI5zkjrNyN7bz53O2vv_-98tPusrPo/edit?usp=sharing) if you need help learning how to use project and issue templates to complete this action.   
+   3. Each assigned team member is required to complete all sections assigned to the their job title within 6 mos of creating the tracking issue.    
 
 The issue is designed to:
 1. Set certification timeline goals
@@ -129,16 +127,16 @@ Channel partners who are compliant with the Channel program are eligible to achi
 1. GitLab Certified Professional Services Partner (PSP)
 2. GitLab Certified Training Partner (CTP)
 
-The requirements for each GitLab Certified Service Partner certification can be found on the [Channel Services Handbook Page](https://hduncan-master-patch-91233.about.gitlab-review.app/handbook/resellers/services/index.html#).
+The requirements for each GitLab Certified Service Partner certification can be found on the [Channel Services Handbook Page](https://about.gitlab.com/handbook/resellers/services/#becoming-a-certified-service-partner).
 
 
 
 
 ### GitLab Certified Professional Services Partner Award Process
 
-GitLab Field Enablement Channel Program Management is responsible for granting the practitioner level badges per the [Practitioner Badging Process](https://about.gitlab.com/handbook/resellers/training/). Badges will be issued as each practitioner completes the required training and certification exam associated with the GitLab Certified Professional Services Engineer certifications. 
+GitLab Field Enablement Channel Program Management is responsible for granting the practitioner level badges per the [Practitioner Badging Process](https://about.gitlab.com/handbook/resellers/training/). Badges will be issued as each practitioner completes the required training and certification exam associated with the GitLab Certified Professional Services Engineer certifications through an automation between the GitLab Learn system and Badgr that is managed by GitLab Education Services team. 
 
-When a partner reaches the required number of trained practitioners, the GitLab Field Enablement Channel Program Manager will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues) project using the Partner_Certification_Award issue template and assign the CAM responsible for the account to that issue. The CAM and the Partner Help Desk each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
+When a partner reaches the required number of GitLab Professional Services Engineers, the GitLab Channel Account Manager will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues) project using the `Partner_Certification_Award` issue template and assign the CAM responsible for the account to that issue. The CAM and the Partner Help Desk each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
 
 Within 7 calendar days of assignment the CAM will:
 
@@ -156,7 +154,7 @@ Within 7 calendar days of assignment the CAM will:
 
 ### GitLab Certified Training Partner Award Process
 
-The Channel Sales Manager (CSM) team will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues) project using the Partner_Certification_Award issue template and assign themeselves to that issue. The CSM and the Partner Help Desk (PHD) each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
+The Channel Sales Manager (CSM) team will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues) project using the `Partner_Certification_Award` issue template and assign themeselves to that issue. The CSM and the Partner Help Desk (PHD) each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
 
 Within 7 calendar days of assignment the CAM will:
 
