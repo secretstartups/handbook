@@ -12,9 +12,13 @@ description: "Information and protocols related to GitLab promotions and transfe
 
 ## Introduction
 
-At GitLab, we encourage team members to take control of their own career advancement. We have no minimum time in role requirements for promotions or transfers at GitLab with exception of roles in Sales Development where we have a guideline of twelve months tenure prior to promotion or transfer due to the nature of the role and ramping requirements. If you feel your title is not aligned with your skill level, come prepared with an explanation of how you believe you meet the proposed level and can satisfy the business need.
+Devloping talent internally is a key component of our success at GitLab, and our promotion process is built to support that development in alignment with our [values](https://about.gitlab.com/handbook/values/). Team members have two main avenues to pursue career advancement at GitLab: 1) Via our promotion process, and 2) By applying and interviewing for open positions that are approved in our headcount plan (transfers). 
 
-Promotions will be reviewed and approved once per quarter to ensure calibration between groups and leadership. Your People Business Partner and leadership team are responsible for calibrating aligned with the timeline below. 
+Promotions are reviewed and approved once per quarter to support a consistent, predictable, and fair process. We leverage public (to GitLab) promotion documents where we outline the business results, increasing job scope, and values alignment that a team member demonstrates which support their promotion. The People Business Partner and leadership team are responsible for calibrating promotion nominations aligned with the timeline below. 
+
+We encourage team members to take control of their own career advancement, and believe every team member deserves a great manager to support them. If you feel your title is not aligned with your skill level, come prepared with an explanation of how you believe you meet the proposed level and can satisfy the business need. Team members are empowered to own their development and can use the [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) as a tool to articulate and align on the skills they want to develop as they think about growing into a larger role. 
+
+In addition to promotions, this page captures information about transfers, realignments and career mobility. 
 
 ## Definitions
 
@@ -23,26 +27,30 @@ Promotions will be reviewed and approved once per quarter to ensure calibration 
 - **Manager Promotions** occur when someone is promoted to a people manager level. These promotions typically start with an open req and are processed through Greenhouse. 
 - **Change in specialty** has no impact to job family. Therefore, this is not a promotion or a transfer.
 
-## Career Mobility Issue
 
-A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) is created when the one of the following criteria is met;
+# Promotion Philosophy
 
-- Migration from Individual Contributor to Manager
-- Migration from Manager to Individual Contributor
-- Migration of Team
+Our promotion philosophy is compromised of a few core pillars surrounding the approach and process alignment to our values. 
 
-When a career mobility may not be needed (but can be requested);
-- Team/Speciality change but no access request needed
+### Pillars
 
-## Career Mobility Issue Creation Process
+* Promote based on performance, not based on potential. Team members are already executing at the next level ([job grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)) prior to promotion. 
+* Career growth should be a partnership between team member and manager. As manager, it is important to create space to regularly discuss your team members' development and career aspirations, and identify opportunities to support them in their advancement and growth. If you as a team member feel you are approaching promotion readiness, it is encouraged for you to initiate this conversation with your manager. 
+* When reviewing a proposed promotion, we should consider: 1) readiness of the individual, and 2) business need/opportunity
+* All promotions at GitLab require a [promotion document](https://docs.google.com/document/d/1nDkYGK2yhe8pD-lnMGmEF-Cf0IlGgVOznjXMq9FxGiQ/edit). We believe in [transparency](/handbook/values/#transparency) around the promotion process.
+* We encourage team members to live our [efficiency value](/handbook/values/#efficiency) and be a [manager of one](/handbook/values/#managers-of-one) and take ownership of their promotion document in partnership with their manager.
+* We calibrate promotions on a quarterly basis to ensure an equitable review, and through this process track metrics that help us understand if our promotions are occurring at a healthy and fair rate. 
 
-The People Connect Team will notify the People Experience Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) currently in the assignment rotation will assign the migration to an Associate in the People Exp/Ops Tracker.
+### Values Alignment 
 
-The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by using the [automated Slack command](/handbook/people-group/engineering/employment-issues/#career-mobility-issues) three days prior to the effective date to allow for the managers to start preparing for the team members transition.
-As a manager, please follow the following processes, discuss any proposed changes with either the People Business Partner or your manager, and do not make promises to the team member before the approvals are completed.
+Our promotion philosophy is also aligned with our [values](/handbook/values/):
 
-Besides promotions, this page captures information about transfers, realignments and career mobility. 
-
+- **Collaboration**: Cross-functional lens for feedback and calibration 
+- **Results**: Business justification, scope, and team member results are demonstrated and documented to support promotions
+- **Efficiency**: Consistency and scalability in our processes
+- **Diversity, Inclusion, and Belonging**: Fairness and equity reflected through a consistent approach and documentation to promotions at all levels in the organization and supported by our [job frameworks](/company/team/structure/) and Total Rewards [URG](/handbook/total-rewards/compensation/compensation-review-cycle/review-cycle-inputs/#underrepresented-group-audit) audit
+- **Iteration**: Process is improved each cycle. In FY23, we moved to quarterly promotions with calibration and updated our processes and metrics accordingly.
+- **Transparency**: Clarity and efficacy of promotion metrics, budget, and guidelines, in addition to transparency in promotion justification through internally public promotion documents.
 
 ## Promotion Process & Timeline
 
@@ -65,7 +73,7 @@ Below is the timeline for FY23:
      - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicated 1:1 with individuals, updates can be posted publicly in [#team-member-updates](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process).
 - FY23-Q2: 
   - Planning: March 15 to April 1
-  - Calibrations: April 1 to April 8 
+  - Calibrations: April 1 to April 8
   - Processing: April 11 to May 1 
      - Promotions must be added to HRIS by April 20. 
      - Effective date for promotions: 2022-05-01. 
@@ -85,41 +93,111 @@ Below is the timeline for FY23:
      - Effective date for promotions: 2022-11-01. 
      - Communication: After fully approved in either Greenhouse or HRIS
 
+_Please note that the Calibration timeline for Senior Director+ promotions will differ slightly from the timelines indicated above, as Senior Director+ promotions are calibrated at the [quarterly E-group offiste](https://about.gitlab.com/company/offsite/#schedule)._
+
 ### Quarterly Promotion Cadence Exceptions
 
 While we are aligned to a quarterly promotion cadence across the organization, there are rare exceptions that will be considered. 
-1. Anyone who applies through an open role in Greenhouse
+1. Application to a new, approved headcount in Greenhouse - internal candidates go through an interview process
 2. Promotions stemming from individuals in [interim/acting roles](/handbook/people-group/promotions-transfers/#interim-and-acting-roles)
+
+Approvals for the two scenarios above will be aligned with standard promotion approvals in BambooHR or Greenhouse.
+
+If there is an exception requested that is _not aligned with one of the two exception scenarios above_, approvals should align with the following approval matrix:
+
+| Promotion Level | Approvals Required |
+| ---------- | ----- |
+| Under Director level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 5-9.5) | 1) Direct Manager, 2) Department Head, 3) People Business Partner, 4) Total Rewards, 5) FP&A |
+| Director+ level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 10-15) | 1) Direct Manager, 2) Department Head, 3) People Business Partner, 4) Total Rewards, 5) FP&A, 6) **E-Group Leader** |
+
+The difference in approvals is the Director+ level off-cycle promotion exceptions require approval through E-Group, and off-cycle promotions for levels under Director require approval through Department head. 
+
+Regardless of the promotion level, it is critical that leaders work with their People Business Partner, Total Rewards, and FP&A [as outlined](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) to identify tradeoffs we can review to fund the promotion.
+
+
 
 ## Planning
 
-Promotion Planning is generally done with via spreadsheets to maintain confidentiality and enable collaboration across department leaders. These spreadsheets are available to the Leaders of each department and are set up by the People Business Partners in collaboration with the Total Rewards team. Prior to the Planning phase in the timeline above, People Business Partners will make sure the spreadsheets are up to date before going into the Calibration phase. For promotions there are two considerations: [Promotion budget](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget)and the rolling 12% promotion target. 
+Promotion Planning is generally done with via spreadsheets to maintain confidentiality and enable collaboration across department leaders. These spreadsheets are available to the Leaders of each department and are set up by the People Business Partners in collaboration with the Total Rewards team. Prior to the Planning phase in the timeline above, People Business Partners will make sure the spreadsheets are up to date before going into the Calibration phase. 
 
-### Rolling 12-Month Promotion Business Justification Process
+### Promotion Document
 
-As part of the [HRIS promotion process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) outlined on this page, Total Rewards checks that the department is within the 12% rolling promotion rate before approving the promotion from the Total Rewards side. This information is also accessible to all GitLab team members and can be [reviewed in Sisense](https://app.periscopedata.com/app/gitlab/756370/Promotion_Rate).
+The [promotion document](https://docs.google.com/document/d/1nDkYGK2yhe8pD-lnMGmEF-Cf0IlGgVOznjXMq9FxGiQ/edit) serves as a baseline to outline what should be included in all promotion documents, irrespective of division, department, or role. 
 
-If a department is over the 12% promotion rolling rate, the following process should be followed:
+As the audience are other GitLab team members, the text should be written in third person using the team member's name and appropriate pronouns (he/she/they) to highlight the work and skills as evidence of the team member's suitability for the role.
 
-1. Total Rewards will alert the People Business Partner (PBP) that the department or division requesting the promotion is over the 12% rolling rate.
-1. PBP requests an overview of all promotions from the last rolling 12 months from Total Rewards provided in a Google sheet.
-1. PBP aligns with department/division leaders to inquire about projected promotions for the next ~6 months (or longer) and adds this data to the sheet provided.
-1. PBP and leaders analyze projected promotion data to outline a path to getting their department under the 12% rolling promotion target, or outline considerations as to why the group is over target (and why that is acceptable).
-1. PBP and leaders analyze data provided by Total Rewards, reasons for promotions, etc. to identify trends and reasons that the rate is over the 12% cap to provide a `rationale` and `context` overview justification.
-1. Once finalized with the department head, the PBP should share the sheet with the e-group leader for visbility/feedback.
-1. The PBP adds the sheet as a comment to the promotion in BambooHR for visibility and ensure it is accessible by Total Rewards, CFO, and CEO.
+Promotion documents should demonstrate values alignment, business need for the role, and team member readiness through delivery of impactful business results. The core sections in our promotion document are:
+1. Promotion Summary
+2. Values Alignment
+3. Business Results
+4. Business Justification 
+
+When creating promotion documents, remember: 
+
+- Promotions are based on performance, not potential 
+- Promotion documents should not exceed 3 pages total.
+- Please reference the [job frameworks](/company/team/structure/) in the handbook for guidance pertaining to expectations at the various levels at GitLab. The job levels should help guide data chosen to be included in the promotion document, in addition to discussion during calibration sessions.
+- Please be sure that the promotion document has “comment” access enabled to ‘Anyone at GitLab who has the link!’ to ensure the review and approval process is not delayed. Please delete the instructions associated with each section of the promotion document below before submitting the promotions. 
+
+
+### Promotion Metrics 
+
+GitLab tracks the following promotion metrics in [Sisense](https://app.periscopedata.com/app/gitlab/756370/Promotion_Rate)
+
+1. Internal Mobility
+
+GitLab tracks Internal Mobility rate. Market data indicates that a 12% rolling promotion rate as the guideline for what we should see on average across the company for promotions. This is a guideline/target for business leaders to understand where they fall against what is considered standard in the market, not a restriction/cap. 
+
+2. Average % Compensation Change
+
+GitLab targets an average of [5-10% compensation change](/handbook/people-group/promotions-transfers/#recommend-a-compensation-increase) in general for promotions. This metric is in place to ensure we are consistent and equitable across the company when allocating promotion compensation raises to team members, in addition to ensuring competitive and meaningful promotion increases across the board. 
+
+3. Budget Impact (see below) 
+
+FP&A tracks budget impact by Department/Division on a quarterly basis
+
 
 ### Promotion Budget
+
+Promotion budget is held at the division leader level, and optionally scaled down to department heads on a quarterly basis depending on department size. Decision to scale budget  down is at the division leader's discretion.
 
 Please review the [Compensation Program Budget](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) to understand how quarterly promotion budget is allocated and the process to review potential tradeoffs if divisions/departments are over/under budget for any given quarter. 
 
 ## Calibration
 
-Each quarter Department Leadership and the aligned People Business Partner plan a calibration session to review projected promotions. The goal of these calibration sessions is to set a fair and consistent standard in the Department for promotions, peer review promotions, and provide an opportunity for leaders to ask questions. These sessions can be async or sync. 
+Each quarter Department/Division Leadership and the aligned People Business Partner plan a calibration session to review projected promotions. The goal of these calibration sessions is to set a fair and consistent standard in the Department for promotions, peer review promotions, and provide an opportunity for leaders to ask questions. These sessions can be async or sync. 
+
+During calibration sessions, leaders should be prepared to discuss:
+
+1. Core themes of the promotion document (values alignment, business justification, business results)
+2. Improvement areas (the promotion document outlines strengths, but we also want to highlight how we will support a team member's development areas at the next level)
+3. Cross-functional feedback (as our business goals and initiatives become increasingly cross-functional, managers should have a picture of how their team member collaborates effectively within their immediate teams, and with their core cross-functional partners and stakeholders)
+
+Calibration should be aligned to the following levels of leaders and people managers:
+
+| Promotion Level | Level Calibrated |
+| ---------- | ----- |
+| Under Director level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 5-9.5) | Calibrated at the Department level |
+| Director level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 10) | Calibrated at the Division level |
+| Senior Director+ level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 11-15) | Calibrated at the E-Group level |
+
+Note that calibration structure may vary by division and department depending on size/scope/etc.
 
 ## Processing
 
 There are three options for processing promotions: HRIS, Greenhouse or Compaas. Criteria to determine which option is most appropriate is outlined below.
+
+## Promotions to Senior Director+
+
+Philsophically, all promotions at GitLab are approached in the same way, follow the same high level process (Planning, Calibration, Processing), and use the same promotion document template. 
+
+Promotions to Senior Director+ level ([job grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above) have the following differences:
+
+1. **Planning**: Senior Director+ promotions need to be added to E-group's promotion project sheet at least two quarters ahead of the desired promotion quarter for visbility. For example, if I want to promote an individual effective in Q1 (February), then I need to have this team member added to E-group's projection sheet within Q3 (latest October). Please work with your aligned People Business Partner, who will ensure the promotion projection is added. 
+1. **Calibration**: All Senior Director+ level promotions are calibrated at the E-group level, as opposed to at the Department level. Calibration timeline will align to the timing of the [E-group offiste](https://about.gitlab.com/company/offsite/#schedule), and will thus differ from the Calibration timeline of the rest of the organization. All promotion documents need to be completed and shared with the E-group for visbility and preparation at least _2 weeks before the off-site date_. 
+
+
+The only exception to this process is when filling an open Director and above role with an existing GitLab team member for a role posted publicly that an internal team member applies for. If external candidates have been considered and interviewed, and the internal candidate earns the role through a standard hiring process (screening, full interview process) then the recruiter may make an offer to the candidate as soon as the offer is approved. There should be no difference in the timing or process of making and accepting an offer for open roles between internal and external candidates.
 
 ### Greenhouse
 
@@ -176,43 +254,6 @@ To promote or change compensation for one of your direct reports, do the followi
 
 - There will be situations when a team member is ready to move to the next level through a promotion, however, due to the nature of the business, that particular role or next level may not be available for business reasons. For example, the team member is ready for a Manager or Director role, however, the business does not have the need, budget or scope for an additional manager/director at that time. The position may or may not become available in the future but it is not a guarantee.
 - If the vacancy is being advertised via the [jobs page](https://about.gitlab.com/jobs/) the individual must submit an application for the role in order to be compliant with global anti-discrimination laws. Similarly, if there is no vacancy posting, one must be created and shared on the `#new-vacancies` slack channel so that everyone has the opportunity to apply and be considered.
-
-### Creating a Promotion or Compensation Change Document
-
-Create a google doc that outlines the criteria of the role. Make this document viewable and editable by all. If the criteria for promotion is not adequately described on the relevant vacancy description page, work on that first. Do not add compensation values to the google doc - only reasoning. Compensation values go into BambooHR only. Make the google doc accessible to anyone at GitLab who has the link. We have no minimum time in role for promotions at GitLab.
-
-Tips for creating a promotion document:
-
-- Promote based on performance, not based on potential
-- Add evidence - try to remove feelings and use evidence: links to MRs, issues, or project work that clearly demonstrates the skills, knowledge, and abilities of the person.
-- Feedback from other team members is _optional_ to include in promotion documents per the [promotion template](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#).
-
-**Important Notes**:
-
-- Do not solicit feedback for the purpose of the promotion document as this could be a violation of personal privacy. All feedback included should be feedback provided prior.
-- All feedback included should be anonymized (unless it had already been made public - for example: a discretionary bonus, #thanks Slack channel, etc.).
-- As Slack has a limited retention, consider capturing messages that may be useful for a promotion document.
-- [Values](https://about.gitlab.com/handbook/values/) alignment - values are also very important when considering promotions. This is especially the case for anyone who is moving to Senior. As one moves into management, the importance compounds. Values thrive at a company only when we take them into consideration for hiring and promotions. Consider the job grade of the position in conjunction with the compentency table at the end of each section.
-- For People Management roles - the team member should be prepared for management. This includes, at a minimum, the ability and willingness to provide honest and direct performance feedback and coaching, interviewing candidates with an ability to be decisive, ability to have difficult conversations, the ability to set direction, inspire, and motivate the team.
-    - Note: People manager applications must be applied for through [Greenhouse](/handbook/hiring/interviewing/#internal-applicants).
-- For Staff+ roles - the promotion document should include a section that describes the company need filled by the promotion.
-- **Please ensure the promotion document has "comment" access enabled to `Anyone at GitLab who has the link`**
-
-For compensation changes Only:
-
-- Outline the reasons for the compensation increase, also tying the rationale to our values and the vacancy description.
-
-##### General Promotion Document Template
-
-The general promotion document serves as a baseline to outline what should be included in all promotion documents, irrespective of division, department, or role. Additional sections may be included depending on role-specific requirements (for example, in Engineering, it is common to have a "technical abilities" section.)
-
-- [General Promotion Document: Template](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#)
-
-As the audience are other GitLab team members, the text should be written in third person using the team member's name and appropriate pronouns (he/she/they) to highlight the work and skills as evidence of the team member's suitability for the role.
-
-While this varies, most promotion documents should be roughly 4-6 pages in length (though it is possible to have a solid document with less!). Quality is more important than quantity for promotion documents; 20 pages of documentation should not be necessary if the team member is truly ready for a promotion. If unsure, refer to other recent relevant promotion documents and reach out to your manager.
-
-- **Please ensure the promotion document has "comment" access enabled to `Anyone at GitLab who has the link`**
 
 ### Recommend a Compensation Increase
 
@@ -323,16 +364,6 @@ This section describes the approval chain after a manager submits a promotion or
 1. The previous manager will be prompted to create an [Access Removal Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/blob/master/.gitlab/issue_templates/Access%20Removal%20Request.md) and the new manager will create an [Access Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests) to ensure the correct access is given for the new role and deprovisioned for the previous role, if need be.
 
 **Note** Letter of adjustment is sent to team member's personal email address instead of GitLab email address to ensure a proper audit trail.  
-
-## Promotions to Director and Above
-
-All Director level (or above) promotions will be reviewed by the [e-group](/company/team/structure/#e-group) on a quarterly basis at the e-group offsite. Proposed promotions must be added to the promotion tracker by the PBP no later than 10 business days before the e-group offsite is [scheduled](https://about.gitlab.com/company/offsite/#schedule) to occur. Proposed promotion will be assessed against the criteria outlined in our [Team Structure](/company/team/structure/), as well as the business need for the promotion, each of the [Values](/handbook/values/), [our competencies](/handbook/competencies/), and considerations.
-
-The only exception to this process is when filling an open Director and above role with an existing GitLab team member for a role posted publicly that an internal team member applies for. If external candidates have been considered and interviewed, and the internal candidate earns the role through a standard hiring process (screening, full interview process) then the recruiter may make an offer to the candidate as soon as the offer is approved. There should be no difference in the timing or process of making and accepting an offer for open roles between internal and external candidates.
-
-Please [use this template](https://docs.google.com/document/d/1BrUhW_9V8kE0MaiHDtqWOvjFLIwLYMEegSybBTuIHq0/edit#heading=h.o7rctrz9uxl7) for Director or above promotions, and share the final version with your People Business Partner so the promotion is added to the tracker for the e-group to review. If the promotion is approved and announced, update sharing access to the promotion doc to be accessible by anyone at GitLab.
-
-Please also ensure that the team member's [job family](https://about.gitlab.com/handbook/hiring/job-families/#job-families) has been updated to include the new level and the role responsibilities in advance of the promotion going to the e-group for review.
 
 ## Interim and Acting Roles
 
