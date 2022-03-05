@@ -47,5 +47,26 @@ This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjd
 |March 23, 2022 | 11:00a ET | 11:50a ET | Discovery Call 3 | Mock Customers |
 
 
+### SQS 23 - April 2022
+
+| DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
+| ------ | ------ | ------ | ------ | ------ |
+|April 13, 2022 | 10:00a ET | 11:20a ET | Essential Questions Exercise | Field Enablement  |
+|April 13, 2022 | 11:30a ET | 12:50p ET | Value Card Exercise | Field Enablement |
+|April 14, 2022 | 10:00a ET | 11:20a ET | Discovery Question Exercise | Field Enablement  |
+|April 14, 2022 | 11:30a ET | 12:50p ET | Differentiator Exercise | Field Enablement  |
+|April 15, 2022 | 11:00a ET | 12:20p ET | MEDDPPICC & Breakout Call Prep | Field Enablement  |
+|April 15, 2022  | 12:30p ET | 1:20p ET | No Tissues for Issues + Product Tiering | Product Marketing  |
+|April 18, 2022 | 10:00a ET | 10:30a ET | Field Security |  Field Security Team   |
+|April 18, 2022 | 11:00a ET | 11:50a ET | Intro to Competition | Competitive Intelligence  |
+|April 18, 2022 | 12:00p ET | 12:50p ET | Alliances | Alliances Team  |
+|April 19, 2022 | 10:00a ET | 10:50a ET | Discussion: Professional Services | Professional Services Team    |
+|April 19, 2022 | 11:00a ET | 11:50a ET | Discovery Call 1 | Mock Customers  |
+|April 20, 2022 | 10:00a ET | 10:40a ET | Legal / Deal Desk | Legal & Deal Desk Team |
+|April 20, 2022 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
+|April 21, 2022 | 10:00a ET | 10:50a ET | Channels |  Channel Team   |
+|April 21, 2022 | 11:00a ET | 11:50a ET | Discovery Call 3 | Mock Customers |
+
+
 
 
