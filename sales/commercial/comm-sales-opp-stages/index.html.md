@@ -31,7 +31,7 @@ Exit Criteria at a Glance:
 ----
 
 
-### 0-Pending Acceptance:
+### 0-Pending Acceptance
 
 _This is the initial stage once an opportunity is created. The Sales Development team will scope business need/ challenge and validate commitment from prospect/customer to have a discovery conversation with the GitLab Team.
 It is important to note that Sales Development opportunities could come from inbound interest or outbound interest. There will be additional levels of qualification for inbound interest or existing customers as opposed to opportunities coming from outbound efforts._
@@ -59,7 +59,7 @@ _These activities must be completed before moving the prospect to the next stage
 
 ----
 
-### 1-Discovery:
+### 1-Discovery
 
 _Uncover as much intelligence about the project as you can, which will be confirmed at later stages throughout the sales cycle. Identify a business need or challenge the customer/prospect is trying to address and the potential for GitLab to solve._ 
 
@@ -96,7 +96,7 @@ _These activities must be completed before moving the prospect to the next stage
 
 ----
 
-### 2-Scoping:
+### 2-Scoping
 
 _Validate the pain points & determine how these pain points attach to the Customer/Prospect's top business challenges, the required capabilities to achieve the desired future state, and determine how GitLab is uniquely positioned to solve the challenge._ 
 
@@ -136,7 +136,7 @@ _Validate the pain points & determine how these pain points attach to the Custom
 
 ----
 
-### 3-Technical Evaluation:
+### 3-Technical Evaluation
 
 _Validate the technical qualifications are a fit for the customer/prospect needs._
 
@@ -176,7 +176,7 @@ _Validate the technical qualifications are a fit for the customer/prospect needs
 
 ----
 
-### 4-Proposal:
+### 4-Proposal
 
 _Business and technical challenges and been uncovered and resolved. The goal is to meet with the customer, review & collaboratively fine-tune an ROI/justification. Prepare with the champion to meet with Economic Buyer on proposal OR enable champion to sell internally on GitLab's behalf. Prepare deck or pricing doc that will be presented to Economic Buyer._
 
@@ -212,7 +212,7 @@ _Business and technical challenges and been uncovered and resolved. The goal is 
 
 ----
 
-### 5-Negotiating:
+### 5-Negotiating
 
 _Finalize the agreement, pricing, business, and legal terms._
 
@@ -241,7 +241,7 @@ _Finalize the agreement, pricing, business, and legal terms._
 
 ----
 
-### 6-Awaiting Signature:
+### 6-Awaiting Signature
 
 _Documents are in their final state ready to be executed._
 
@@ -285,7 +285,7 @@ _Verifying the completeness of the documentation and opportunity to confirm read
 
 ----
 
-### Closed Won:
+### Closed Won
 
 _Congratulations!! The terms have been agreed to by both parties and the quote has been approved by Finance._
 
@@ -315,34 +315,3 @@ _An opportunity was lost and the prospect/customer has decided not to pursue the
 - Schedule "check-in" calls to uncover new opportunities in high potential closed-lost accounts
 - Where applicable schedule Partner call to review loss and explore future opportunities
 - What lesson learned should you share with your manager to help progress your career?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
