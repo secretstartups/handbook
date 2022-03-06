@@ -817,7 +817,7 @@ For example, a customer starts January 1st for 12 months, but wants to reset sta
 
 To help move sales through the sales process, [here](https://docs.google.com/document/d/1ag7YY9aJ93j0CRZb-DrbfgH3vmHprTEdjG7l3O57xEk/edit) is a list of questions to ask at each stage
 
-[Commercial Sales Opportunity Stages](/handbook/sales/commercial/Comm-Sales-Opp-Stages/)
+[Commercial Sales Opportunity Stages](/handbook/sales/commercial/comm-sales-opp-stages/)
 ### Opportunity Stage Movement Considerations
 
 Note that once you qualify an opportunity via our standard qualification process, you cannot revert an opportunity back to the following stages: `0-Pending Acceptance`, or `9-Unqualified`.

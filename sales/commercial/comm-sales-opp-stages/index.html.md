@@ -1,3 +1,4 @@
+---
 layout: handbook-page-toc
 title: "Commercial Sales Opportunity Stages"
 description: "Sales stages activities and exit criteria"
@@ -21,13 +22,11 @@ A well-managed sales pipeline requires a clear process with defined activities a
 ## <i class="fas fa-users fa-fw icon-color font-awesome"></i>Commercial Sales Stages Activities and Exit Criteria 
 
 
-To view these stages in google sheet format please [click this link.](https://docs.google.com/spreadsheets/d/1tVtJvfSsmWL2L1vTcJZgARlzC9Qy3Ae7pPqGBH9_KOQ/edit#gid=1399111321)
+To view these stages in google sheet format please [click this link](https://docs.google.com/spreadsheets/d/1tVtJvfSsmWL2L1vTcJZgARlzC9Qy3Ae7pPqGBH9_KOQ/edit#gid=1399111321).
 
 Exit Criteria at a Glance: 
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRksrpgT29Z_leDgbKEuzq_blsfU-9wsTXSc1a_-ilrcSOoEuGwM6FK_cjtONxr-hJhJHMzHAjroHAb/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
+![comm-sales-stages-exit-criteria](/handbook/sales/commercial/Comm-Sales-Opp-Stages/comm-sales-stages-exit-criteria.png)
 
 ----
 
@@ -39,7 +38,7 @@ It is important to note that Sales Development opportunities could come from inb
 
 **Primary Activities** to Complete in This Stage:
 
-- Begin filling out [MEDDPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (in required qualification criteria section of the opportunity) - Identify pain/need, Economic buyer, or path to the economic buyer for prospects, plus decision process for inbound leads or current customers.
+- Begin filling out [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (in required qualification criteria section of the opportunity) - Identify pain/need, Economic buyer, or path to the economic buyer for prospects, plus decision process for inbound leads or current customers.
 - Schedule discovery call with AE or SAL
 - For SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#qualification-criteria-and-saos) criteria.
 - SDR schedules call, sends invites, creates an event on the account object, names the event: GitLab Introductory Meeting - {{Account Name}}. - 
