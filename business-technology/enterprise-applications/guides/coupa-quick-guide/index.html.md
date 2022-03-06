@@ -23,7 +23,7 @@ This page provides a general overview of the Coupa procurement process. See belo
 
 <br>
 
-![coupa-image-1](/handbook/business-technology/enterprise-applications/guides/coupa-quick-guide/coupaquick1.png)
+![coupa-image-3](/handbook/business-technology/enterprise-applications/guides/coupa-quick-guide/coupaquick3.png)
 
 <br>
 
@@ -71,7 +71,7 @@ Click on the below boxes for more details of the process:
 <br>
 
 
-Still have questions? Ask them in the #coupa_help Slack channel.
+Still have questions? Please ask them in the **#coupa_help** Slack channel.
 
 <br>
 
