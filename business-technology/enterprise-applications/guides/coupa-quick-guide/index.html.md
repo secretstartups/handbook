@@ -15,7 +15,7 @@ description: "Coupa End Users Quick Guide"
 {:toc .hidden-md .hidden-lg}
 
 ### Coupa End Users Quick Guide
-This page provides a general overview of the Coupa procurement process. See below for links to additional Coupa information:
+This page provides a general overview of the Coupa procurement processes. See below for links to additional Coupa information:
 * [Coupa End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/)
 * [Coupa FAQ](https://about.gitlab.com/handbook/finance/procurement/coupa-faq/)
 * [The GitLab Procurement Team](https://about.gitlab.com/handbook/finance/procurement/)
@@ -58,7 +58,7 @@ Click on the below boxes for more details of the process:
 
 <br>
 
-## <i class="fas fa-stream" id="biz-tech-icons"></i> Need more details on the Software / Field Marketing & Events / Professional Services processes?
+## <i class="fas fa-stream" id="biz-tech-icons"></i> Need more details on the Software, Field Marketing & Events or Professional Services processes?
 Click on the below boxes for more details of the process:
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
   <a href="/handbook/finance/procurement/new-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Software</a>
