@@ -15,18 +15,18 @@ description: "Sales stages activities and exit criteria"
 
 Pipeline management is key to predictable, scalable revenue attainment and can make the difference between simply hitting your number and overachieving. Proper sales pipeline management helps you allocate your time correctly, increase deal velocity, and increase total deal volume, size, and revenue through accurate forecasting practices. 
 
-A well-managed sales pipeline requires a clear process with defined activities and exit criteria that serve as a roadmap to getting a deal from discovery to closed won (or qualified out quickly.) The following process is specific to the Commercial Sales team and will ensure you have a clean pipeline and accurate forecast.
+A well-managed sales pipeline requires a clear process with defined activities and exit criteria that serve as a roadmap to getting a deal from discovery to closed won (or qualified out quickly). The following process is specific to the Commercial Sales team and will ensure you have a clean pipeline and accurate forecast.
 
 
 
 ## <i class="fas fa-users fa-fw icon-color font-awesome"></i>Commercial Sales Stages Activities and Exit Criteria 
 
 
-To view these stages in google sheet format please [click this link](https://docs.google.com/spreadsheets/d/1tVtJvfSsmWL2L1vTcJZgARlzC9Qy3Ae7pPqGBH9_KOQ/edit#gid=1399111321).
+To view these stages in Google sheet format please [click this link](https://docs.google.com/spreadsheets/d/1tVtJvfSsmWL2L1vTcJZgARlzC9Qy3Ae7pPqGBH9_KOQ/edit#gid=1399111321).
 
 Exit Criteria at a Glance: 
 
-![comm-sales-stages-exit-criteria](/handbook/sales/commercial/Comm-Sales-Opp-Stages/comm-sales-stages-exit-criteria.png)
+![comm-sales-stages-exit-criteria](/handbook/sales/commercial/comm-sales-opp-stages/comm-sales-stages-exit-criteria.png)
 
 ----
 
@@ -153,7 +153,7 @@ _Validate the technical qualifications are a fit for the customer/prospect needs
 
 - Review/validate understanding of technical requirements with customer 
 - Recorded Tailored Demo with customer
-- [First Order](https://about.gitlab.com/handbook/sales/commercial/#mid-market-key-accounts-first-order) or [Named Accounts:](https://about.gitlab.com/handbook/sales/commercial/#mid-market-account-executive) SA may submit a request for a Slack channel if the technical evaluation has a need for a more asynchronous communication approach.
+- [First Order](https://about.gitlab.com/handbook/sales/commercial/#mid-market-key-accounts-first-order) or [Named Accounts](https://about.gitlab.com/handbook/sales/commercial/#mid-market-account-executive): SA may submit a request for a Slack channel if the technical evaluation has a need for a more asynchronous communication approach.
 - SA will determine if trial is assisted by the SA or self-managed by customer
 - Work with customer to determine success criteria for eval, time frame, and next steps
 - Understand buying process, e.g. paper process, approvals, signatures, etc. 
@@ -168,11 +168,11 @@ _Validate the technical qualifications are a fit for the customer/prospect needs
 
 **Exit Criteria:**
 
-- Demo output shared with customer (slide decks, recordings, collateral, etc)
+- Demo output shared with customer (slide decks, recordings, collateral, etc.)
 - ROI measures determined and validated
 - Mutual agreement to move to proposal and identified next steps
 - Professional Services identified and sourced (Partner or internal) if applicable
-- [MEDDPPICC:](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer) Decision Criteria, Decision Process, Paper Process
+- [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer): Decision Criteria, Decision Process, Paper Process
 
 ----
 
@@ -227,7 +227,7 @@ _Finalize the agreement, pricing, business, and legal terms._
 
 - Under $50K: SA and AE can begin preparing the contacts to receive [digital onboarding](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#digital-customer-programs) emails upon closing of a deal
 - Agreement on business terms (All proposals should include the standard [GitLab Terms](https://about.gitlab.com/terms/#subscription/))
-- If the Account is seeking to use their own paper, requests will only be entertained if the opportunity is greater than $100k, and the request should be sent to Legal by creating a Legal case in SalesForce, following the process found [here.](https://about.gitlab.com/handbook/business-ops/order-processing/#request-for-gitlab-review-of-customer-edits-to-gitlab-template-or-review-of-customer-agreement-template)
+- If the Account is seeking to use their own paper, requests will only be entertained if the opportunity is greater than $100k, and the request should be sent to Legal by creating a Legal case in SalesForce, following the process found [here](https://about.gitlab.com/handbook/business-ops/order-processing/#request-for-gitlab-review-of-customer-edits-to-gitlab-template-or-review-of-customer-agreement-template).
 - Determine if customer will be referenceable when the opportunity closes
 - Price/ Final terms negotiations
 - Leverage partner to help close deal or support them in closing a Partner Sourced deal
@@ -268,7 +268,7 @@ _Verifying the completeness of the documentation and opportunity to confirm read
 
 **Primary Activities** to Complete in This Stage:
 
-- SFDC Opp, AE clicks "Submit for Approval";  and adds Closed Won reason and details. This submits opp for approval and puts it to 7-Closing and locks the record from any further edits.
+- SFDC Opp, AE clicks "Submit for Approval" and adds Closed Won reason and details. This submits opp for approval and puts it to 7-Closing and locks the record from any further edits.
 - Opp flows into a report for Deal Desk to review for booking
 - Signed Order Form (OF) or [PO referencing Quote](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) 
 - Order Form matches quote and opportunity
@@ -289,7 +289,7 @@ _Verifying the completeness of the documentation and opportunity to confirm read
 
 _Congratulations!! The terms have been agreed to by both parties and the quote has been approved by Finance._
 
-- TAM starts new [customer engagement](https://about.gitlab.com/handbook/customer-success/comm-sales/#account-executive-to-tam-existing-accounts-without-a-tam) ($50K >)
+- TAM starts new [customer engagement](https://about.gitlab.com/handbook/customer-success/comm-sales/#account-executive-to-tam-existing-accounts-without-a-tam) ($50K+)
 - AE engages with the customer & Partner (where applicable) to ensure success 
 - Kick-off Partner Services (if applicable)
 - AE to schedule an initial 30 day follow up meeting with the customer (Named/Territory, + higher value opportunities)
