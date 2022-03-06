@@ -24,7 +24,8 @@ When recording prospect/customer activity by SA into `Task` objects within Sales
 
 This page describes all activity types available for SAs in 
 - [Enterprise and Commercial](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Enterprise-and-Commercial-SA-Activity-Type) 
-- [Strategic Field](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Strategic-Field-SA-Activity), and
+- [Strategic Field](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Strategic-Field-SA-Activity)
+- [Value Stream Assessment](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments/#value-stream-assessments), and
 - [Alliance/Channel](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#description-for-alliancechannel-sa-activity)
 
 
@@ -92,4 +93,10 @@ Select these [SA] Activity types when capturing activities by the Alliance/Chann
 
 - **Partner Solutioning** [Alliances] - Solution architecture work for defining and developing partner solutions and integration with GitLab.
 
-- **Internal Enablement and SME Assistance** [Alliances] - Calls, meetings, webinars for internal field SA enablement and assistance.  
+- **Internal Enablement and SME Assistance [Alliances]** - Calls, meetings, webinars for internal field SA enablement and assistance.  
+
+### Description for Value Stream Assessment
+
+- **VSA Pitch** - This is an initial VSA pitch to the customers/prospects to get their buy in, discuss next steps, send follow ups before the VSA planning meeting
+
+- **VSA Execution** - External customer/prospects calls for VSA planning, VSA workshop, VSA executive presentations.
