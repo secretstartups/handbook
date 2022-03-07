@@ -32,19 +32,19 @@ The by-the-book schedule for the OKR timeline would be
 ### 1. CEO: Increase ARR
 [Epic 1696](https://gitlab.com/groups/gitlab-com/-/epics/1696)
    1. **CEO KR:** Achieve first order large SAOs on yearly plan. [Issue 12844](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12844)
-   1. **CEO KR:** Achieve X% of ARR on cloud licensing. [Issue 12845](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12845)
-   1. **CEO KR:** Rollout Project Matterhorn. [Issue 12846](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12846)
+   1. **CEO KR:** Increase cloud licensing adoption (measured by % of ARR) for self-hosted customers from 1% to X%. [Issue 12845](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12845)
+   1. **CEO KR:** Complete Project Matterhorn milestones critical for a 2022-06 launch. [Issue 12846](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12846)
 
 ### 2. CEO: Improve User Engagement
 [Epic 1697](https://gitlab.com/groups/gitlab-com/-/epics/1697)
-   1. **CEO KR:** Start to implement strategy between marketing and engineering to grow to 1000 code contributors per month. X active contributors per month in the quarter. [Issue 12847](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12847)
-   1. **CEO KR:** Have X badges earned. [Issue 12848](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12848)
-   1. **CEO KR:** Define technical content strategy for users. 6 technical articles that trend on Hacker News in the quarter for each of Dev, Sec, and Ops (18 total). [Issue 12849](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12849)
+   1. **CEO KR:** Start to implement strategy between marketing and engineering to grow to 1000 code contributors per month. 120 active contributors per month in the quarter. [Issue 12847](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12847)
+   1. **CEO KR:** Beta launch new site that wraps existing certifications and learning paths, implement platform ready to capture thousands of certification leads in marketing systems on new LMS - 300 beta users on new platform and migrate 100% of content. [Issue 12848](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12848)
+   1. **CEO KR:** Create highly read technical content for developers/sec/ops with 3 homepage on Hacker News in the quarter. [Issue 12849](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12849)
 
 ### 3. CEO: Management Development
 [Epic 1698](https://gitlab.com/groups/gitlab-com/-/epics/1698)
    1. **CEO KR:** [Update Key Reviews](/handbook/key-review/) (with [11 cross-functional initiatives](https://about.gitlab.com/company/team/structure/working-groups/#11-cross-functional-initiatives)), [Group Conversations](/handbook/group-conversations/), and [OKRs](/company/okrs/) (in a new platform). [Issue 12850](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12850)
    1. **CEO KR:** Launch Directs Group with 4.5/5 feedback score for meetings. [Issue 12851](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12851)
-   1. **CEO KR:** Have X people complete a management course. [Issue 12852](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12852)
+   1. **CEO KR:** Launch the Managing at GitLab Course to all people leaders at GitLab with a 90% completion rate. [Issue 12852](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12852)
 
 
