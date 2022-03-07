@@ -21,6 +21,8 @@ In 2020, the Women's TMRG partnered with the Sales Organization at GitLab to off
 
 The [second iteration of this program](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/122) ran during July, August, and September 2021 including 32 mentor/mentee pairs with participation from 16+ departments.
 
+The third iteration of this program is currently running from February to June of 2022. The program currently includes more than 110 participants.
+
 ## Testimonials
 
 Here what mentors and mentees at GitLab have to say about the program:
@@ -76,8 +78,8 @@ Review the progam timeline below for the next iteration of this program which wi
 | Date | Description | Related Resources |
 | ----- | ----- | ----- |
 | 2021-09 | Discuss program details with Women's TMRG group meeting |  |
-| 2021-12-08 | Call for Mentors | [Application Link](https://docs.google.com/forms/d/e/1FAIpQLSez17b-APUA3MEpYETHtDPrAt85tLD8Je64gpP50xpHEPuT6A/viewform?usp=sf_link) |
-| 2021-12-08| Call for Mentees | [Application Link](https://docs.google.com/forms/d/e/1FAIpQLSfkDQZwdYw2CFguB_-O2gLC9Wznz88ec-JPnaLxF-VG-zAeCA/viewform?usp=sf_link) |
+| 2021-12-08 | Call for Mentors | |
+| 2021-12-08| Call for Mentees | |
 | 2022-01-12 | Applications Close | |
 | 2022-01-21  | Pairing of mentor relationships complete and communicated to applicants | |
 | 2022-01-24 to 2022-02-04 | Mentor/Mentee pre-program coffee chats | |
