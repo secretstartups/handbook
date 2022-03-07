@@ -100,3 +100,19 @@ Labels to use when creating new issues or MRs for CS Ops:
 - **CSOps - PS** - Request originating from, or to benefit the PS team.
 - **CSOps - SA** - Request originating from, or to benefit the SA team.
 - **CSOps - Ops** - Request to benefit the CSOps team.
+
+## Peer Review
+The peer review process (currently for issues related to Gainsight) allows CS Ops team members to have another member of the team review their work.
+
+The issue owner is responsible for making sure the issue is completed in timely manner, including communicating to the peer reviewer when the issue needs to be completed. The peer reviewer is responsible for completing the review in the timeframe given by the issue owner.
+
+- Issues **MUST** be peer reviewed if it is a change, addition, or removal in a rule or data object (e.g. creating a new rule or connector job, removing fields from an object, combining multiple rules into one)
+- For changes to reports or dashboards, strongly consider a peer review.
+
+Feel free to ask for a peer review for other any updates if you feel it would be helpful to have a second opinion.
+
+To start the peer review process:
+1. Provide a Summary of the work you have completed in the **Resolution** section on the GitLab issue
+2. Change the issue status to `CS Ops::Ready to Deploy`
+3. Tag your manager and comment on the issue that it is ready for peer review
+4. Manager will assign the peer reviewer to the issue. The issue owner will remain an assignee as they are ultimately responsible for the issue completion.
