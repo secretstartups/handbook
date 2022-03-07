@@ -69,6 +69,7 @@ As a note, `basic` and `starter` are two different tags for the same plan/SLA.
 
 | Tag | What it does |
 |---|---|
+| `pending_followup_notification` | This is applied by an [automation](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/automations) to followup on pending tickets. Adding this tag skips that automation. |
 | `skip_2fa_automation` | Tell Zendesk to not run any 2FA automations/autoresponders |
 | `skip_autoassign` | Tell Zendesk to not auto-assign the ticket |
 | `skip_autoclose` | Tell Zendesk to not auto-close the ticket |
