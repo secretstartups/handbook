@@ -56,15 +56,8 @@ As Reliability, we have three main work streams and each varies in the type of w
 ### How We Work -- General Workflow
 
 1. Customers open new issues in [Reliability Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues)
-2. New issues are automatically tagged with `workflow-infra::Triage` this label indicates that the issue needs to reviewed and processed.
-3. Once tagged as needing to be triaged, issues are reviewed by Reliability SREs and Engineering Managers
-
-#### Reliability Triage Procedures
-![Workflow](img/general_workflow.png)
-
-1. Go to the [Reliability Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues?scope=all&state=opened&label_name[]=workflow-infra%3A%3ATriage) and start with the oldest issue first.
-2. Read the issue and get a sense of the type and scope of the work being requested.
-3. As part of the triage process, we need to determine if the work being requested is related to a particular project squad.  When it is, we should label appropriately. If you're unsure if an issue should be tagged for a particular project squad, assign the issue to the squad lead and request that they review the issue.  The Squad Lead can determine if the issue makes sense to take on or if it should be considered non-project work.
+2. New issues go through a [management and prioritization process](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html)
+3. Issues are classified as either general or project work and added to the [backlog](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3963308)
 
 #### For Project Squad Related Issues
 Find the correct label based on the squad name in [Epic 509](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509).
