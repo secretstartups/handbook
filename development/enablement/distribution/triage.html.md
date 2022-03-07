@@ -20,7 +20,7 @@ description: "Overview and Summary of the Distribution Team's issue triage proce
 
 * Triaging: Triaging issues involves investigating and applying labels and milestones to issues.
 * Partially Triaged issues: Issues are considered **partially** triaged if they have been assigned `for scheduling` or `awaiting feedback` labels.
-* Fully Triaged issues: Issues are **fully** triaged when they have been assigned a Milestone, even if it is `Backlog`
+* Fully Triaged issues: Issues are **fully** triaged when they have been assigned a Milestone, even if it is `Backlog`. They should have appropriate group, priority and product category labels applied.
 
 Note: An issue that has been assigned to a user, but has no milestone, is not triaged, but is considered the responsibility of that user, and is not part of our triage queue at this time.
 
@@ -33,7 +33,10 @@ See the [CE documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/C
 | Label | What it means | How to handle it |
 | - | - | - |
 | awaiting feedback | Information has been requested from the user | If no reply has been received in two weeks, the issue can be closed. |
-| maintainer-discussion | Issues for further discussion by project Maintainers | Projects maintainers should review status and provide input within 1 week. |
+| maintainer-discussion | Issues for further discussion by project Maintainers | Projects maintainers should review status and provide input within 2 weeks. |
+| needs investigation | Information has been provided by the user, but is waiting on the team to further dive in | The team member who added the label should try to find some time to investigate or engage other team members within 4 weeks. |
+
+During triage additional labels should be added to indicate what part of the product is impacted by the issue. Descriptions for the labels that Distribution often uses can be found the [Distribution Frequently Used Labels Page](https://gitlab.com/gitlab-org/distribution/team-tasks/-/blob/master/frequently-used-labels.md).
 
 ### Resources
 
@@ -44,6 +47,7 @@ Issues for triaging can be identified using the following criteria:
     * `awaiting feedback`
     * `for scheduling`
     * `maintainer-discussion`
+    * `needs investigation`
 
 Such issues can be listed using the [issues filter](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None&milestone_title=None&not[label_name][]=For%20Scheduling&not[label_name][]=awaiting%20feedback&not[label_name][]=maintainer-discussion)
 
