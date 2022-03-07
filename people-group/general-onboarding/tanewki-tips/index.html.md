@@ -71,6 +71,7 @@ As point 36 on our [communication handbook page](https://about.gitlab.com/handbo
 | AMA | Ask Me Anything | 
 | E-Group | Executive Group |
 | EBA | Executive Business Administrator | 
+| PTO | Paid Time Off |
 
 **People Group Related Acronyms**
 
