@@ -302,18 +302,14 @@ At this time there are no restrictions with regards to software as long as the t
 There will be a Self-Service application that is installed with Jamf and gives each team-member a curated list of applications that they can choose to install. That list currently includes things like:
 
 * 1Password
-* Alfred
-* BBedit
-* Bear
 * Calendly browser extensions
-* Clocker
+* Clockwise browser extensions
 * Firefox
 * Google Chrome
 * Google Drive Stream
 * Grammarly
 * Slack
 * VLC
-* Webex
 * Zoom
 * Zoom browser extensions
 
