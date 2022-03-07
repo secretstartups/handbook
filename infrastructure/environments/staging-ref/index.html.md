@@ -38,6 +38,7 @@ Staging Ref is a sandbox environment used for pre-production testing of the late
 - [Advanced Search](https://docs.gitlab.com/ee/user/search/advanced_search.html) is configured with Elasticsearch and [GET](https://gitlab.com/gitlab-org/gitlab-environment-toolkit/-/blob/main/docs/environment_advanced.md#advanced-search-with-elasticsearch)
 - Ultimate license with [Free paid plan by default](#upgrade-paid-plans)
 - [Sentry](https://sentry.gitlab.net/gitlab/staging-ref/) configured for error reporting
+- [Snowplow](https://docs.gitlab.com/ee/development/snowplow) tracking is enabled and collected to `snowplow.trx.gitlab.net`
 
 #### Deployment process
 
