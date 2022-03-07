@@ -15,7 +15,7 @@ You can also [watch the sales enablement session](/handbook/customer-success/pro
 
 ## A Note on Partner Professional Services
 Please remember to follow the [Rules of Engagment for Selling Professional Services](/handbook/sales/selling-professional-services) with the following highlights:
-- Always start by finding out if your customer/prospect has a qualified and preferred professional services partner and start be engaging with that partner to explore a solution for your customer/prospect
+- Always start by finding out if your customer/prospect has a qualified and preferred professional services partner and start by engaging with that partner to explore a solution for your customer/prospect
 - Please route all **SMB** needs through professional services Channel Partners as outlined in the [ROE](/handbook/sales/selling-professional-services)
 - Remember to update the SFDC Professional Services Opportunity to **"closed lost"** if for any reason after you have created a GitLab Professional Services Opportunity in SFDC the work is transitioned to being sold and delivered by a partner.  Then make sure that any Services Attach Registration that the partner registers for that work is attached to the relevant Licensing Opportunity in SFDC.  Please work with the Channel Account Manager for the partner (found in SFDC account for the partner) if you have any questions about this process.
 
