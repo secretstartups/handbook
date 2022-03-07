@@ -23,17 +23,37 @@ We have a significant Redis footprint for very specialized, non-relational needs
 
 ## Considerations
 
-There are three basic questions youll need to answer before you request a new data store:
+There are four basic questions youll need to answer before you request a new data store:
 
 * What kind of data do you need to store?
 * What kinds of queries do you need to run agains the data store?
 * What resource utilization do you expect to need, both today and in the near future, in terms of space consumed, trasaction rates (for read and writes), and latencies?
+* Codebase
 
-You likely know well the answers to the first two questions; the last one tends to be a little less clear, and while you do not need exact answers, you do need some ballpark estimates (for both at deployment time and peering a bit into the future). In any event, you should generally avoid answering those questions with specific technologies in mind (with some exceptions). 
+You likely know well the answers to the first two questions; the last one tends to be a little less clear, and while you do not need exact answers, you do need some ballpark estimates (for both at deployment time and peering a bit into the future). In any event, you should generally avoid answering those questions with specific technologies in mind (with some exceptions).
 
-### Type of Data
+## Default answer: the main database
 
-If you are dealing with relational data and relational queries, the obvious answer is PostgreSQL. The level of coupling to the main data and the types of queries you need to run will determine whether you should use the main database (assuming you have a Ruby/Rails code base), in which case, we are deeply interested in your resource needs, particularly in terms of transaction rates. If you have a separate code base and/or your resource needs are extremetly high, you're a good candidate for a logical database in the main cluster (a separate database)
+Traditionally, the default answer has been to use our main database (PostgreSQL). And yet, we are probably at a point where this can no longer be the case, due primarily to two reasons:
 
+* We have to carefully manage load on the main database, particularly in terms of transaction rates, connections, and memory utilization.
+* The product ecosystem is evolving in a varied fashion, with more specificalized data needs.
 
+Havinf said that, in general, if youe code base is part of the main RoR application, you will more than likely need to to use the main PostgreSQL database, as the schema is managed through RoR and your code likely has fairly tight coupling with the Rails code base. This has to ba managed carefully, however, as capacacity planning concerns must be addressed. This also applies to Redis.
+
+### Exception
+
+Due to sclability concerns, we are currently executing our first funcional decomposition from the database: the [CI tables](https://gitlab.com/groups/gitlab-org/-/epics/6167). Although this code base is part of RoR, its sheer size and resource utilization make up about 40% of the main database. Data coupleing is relatively lose, so we decided to move it to its own independent cluster, and thus had to develop some techniques to address said coupling while having the data in a separate database ([Loose Foreign Keys](https://docs.gitlab.com/ee/development/database/loose_foreign_keys.html)).
+
+In general, a separate cluster will only be supported if the size of the dataset and its corresponding transaction rate requirements are large enough to merit the cost of operating a separate cluster and the added complexity of developing code to support it. Initially, this will likely reside in separate logical database as part of the ,ain cluster.
+
+## Find your use case
+
+| Code base | Transaction Rate | Storage       | Data Type  | Data store                       |
+| --------- | ---------------- | ------------- | ---------- | -------------------------------- |
+| Ruby      | Low, Medium      | Low, Medium   | Relational | PostgreSQL, **main** database    |
+| RUby      | High             | High (>1TB)   | Relational | PosrgreSQL, **FD** database      |
+| Any       | Low              | Low (<200GB)  | Relational | PostgreSQL, **logical** database |
+| Any       | Medium           | Medium (<1TB) | Relational | Postgres, **logical** database   |
+| Any       | High             | High (>1TB)   | Relational | POstgreSQL, **FC** database      |
 
