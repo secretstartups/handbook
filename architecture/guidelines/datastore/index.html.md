@@ -57,3 +57,8 @@ In general, a separate cluster will only be supported if the size of the dataset
 | Any       | Medium           | Medium (<1TB) | Relational | Postgres, **logical** database   |
 | Any       | High             | High (>1TB)   | Relational | POstgreSQL, **FC** database      |
 
+## New data store engines
+
+There will be times whether currently supported data store engines will be able to meet your requirements. and a new data store engine must be introduced in the environment. These should be extremely rare, but will generally come courtesy of integrating new technology stacks into our environment (for instance, acquisitions), or when the data needs are very specialized (for instance, time series).
+
+Your due diligence should include involving the Infrastructure team as early as possible, since supporting new technologies will require a variety of work in terms of deployment, configuration, maintenance (upgrades), troubleshooting, etc.
