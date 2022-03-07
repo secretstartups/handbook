@@ -102,7 +102,7 @@ In your learning plan, you can view:
 
 #### GitLab Learn Support Resources
 
-This navgation bar links to the following support resources:
+This navigation bar links to the following support resources:
 
 1. [GitLab Docs](https://docs.gitlab.com/)
 1. [GitLab Support Ticket](https://support.gitlab.com/hc/en-us)
@@ -229,7 +229,7 @@ Please note this terminology is relating specifically to GitLab Learn and is dis
 | Content Type | Purpose | Example |
 | ----- | ----- | ----- |
 | Journey | A collection of learning pathways | The Field Enablement team uses a journey to organize all content in the field certification. |
-| Pathway | A single learning pathway | In the DIB certification, one required piece includes the reivew of a YouTube Video, reading 1 handbook page, and answering a short quiz. All 3 steps are contained in one pathway. |
+| Pathway | A single learning pathway | In the DIB certification, one required piece includes the review of a YouTube Video, reading 1 handbook page, and answering a short quiz. All 3 steps are contained in one pathway. |
 | Smartcard | A single unit of learning content | One video, a 5 minute handbook read, a poll, and more. These are the basic units of learning content in the LXP and are used to build pathways and journeys. |
 
 In addition, learing content and users are organized in the LXP to help you discover new learning material and follow learners interested in similar topics. The following strucutres organize content and users.
@@ -248,7 +248,7 @@ There are many ways to search GitLab Learn for new learning content.
 
 1. **Use the search bar.** This search feature will allow you to search by key word, username, or topic. This search bar is helpful if you're looking for material on a certain topic, or you're interested in seeing what your team members are learning.
 
-1. **Follow Channels** Channels organize content based on topic. Find Channels you're interested in by searchin for a specific topic or expertise. You can follow these channels and be notified when new contnet is shared. If your deparment has it's own **Learning Hub**, we'd recommed following that or adding it to your favourites for content relevant to you and your work. Here's a list of existing Learning Hubs:
+1. **Follow Channels** Channels organize content based on topic. Find Channels you're interested in by searching for a specific topic or expertise. You can follow these channels and be notified when new content is shared. If your department has its own **Learning Hub**, we'd recommend following that or adding it to your favorites for content relevant to you and your work. Here's a list of existing Learning Hubs:
 - [People Group Learning Hub](https://gitlab.edcast.com/channel/people-group-learning-hub)
 - [Finance Learning Hub](https://gitlab.edcast.com/channel/gitlab-finance-learning-hub)
 - [Development Learning Hub](https://gitlab.edcast.com/channel/gitlab-development-learning-hub)
@@ -256,7 +256,7 @@ There are many ways to search GitLab Learn for new learning content.
 - [Customer Support Learning Hub](https://gitlab.edcast.com/channel/gitlab-support-team-professional-development)
 - [Product Management Learning Hub](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub)
 
-1. **Use the `More` option in the top navigation bar.** This waffle icon will allow you to sort through content based on users, groups, and more. If you'd like to learn more about the types of content in the LXP, reivew the [LXP contribution process](/handbook/people-group/learning-and-development/gitlab-learn/contribute)
+1. **Use the `More` option in the top navigation bar.** This waffle icon will allow you to sort through content based on users, groups, and more. If you'd like to learn more about the types of content in the LXP, review the [LXP contribution process](/handbook/people-group/learning-and-development/gitlab-learn/contribute)
 
 Watch [this training](https://youtu.be/tthnVFxRHcA) to review strategies for finding new learning content in GitLab Learn:
 
