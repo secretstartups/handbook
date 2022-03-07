@@ -49,13 +49,25 @@ In general, a separate cluster will only be supported if the size of the dataset
 
 ## Find your use case
 
-| Code base | Transaction Rate | Storage       | Data Type  | Data store                       |
-| --------- | ---------------- | ------------- | ---------- | -------------------------------- |
-| Ruby      | Low, Medium      | Low, Medium   | Relational | PostgreSQL, **main** database    |
-| RUby      | High             | High (>1TB)   | Relational | PosrgreSQL, **FD** database      |
-| Any       | Low              | Low (<200GB)  | Relational | PostgreSQL, **logical** database |
-| Any       | Medium           | Medium (<1TB) | Relational | Postgres, **logical** database   |
-| Any       | High             | High (>1TB)   | Relational | POstgreSQL, **FC** database      |
+### Relational (PostgreSQL)
+
+| Code base | Transaction Rate | Storage       | Data store           |
+| --------- | ---------------- | ------------- | -------------------- |
+| Ruby      | Low, Medium      | Low, Medium   | **Main** database    |
+| Ruby      | High             | High (>1TB)   | **FD** database      |
+| Any       | Low              | Low (<200GB)  | **Logical** database |
+| Any       | Medium           | Medium (<1TB) | **Logical** database |
+| Any       | High             | High (>1TB)   | **Separate** cluster |
+
+### Data Structure (Redis)
+
+| Code base | Transaction Rate | Storage       | Data store |
+| --------- | ---------------- | ------------- | ---------- |
+| Ruby      | Low, Medium      | Low, Medium   |            |
+| Ruby      | High             | High (>1TB)   |            |
+| Any       | Low              | Low (<200GB)  |            |
+| Any       | Medium           | Medium (<1TB) |            |
+| Any       | High             | High (>1TB)   |            |
 
 ## New data store engines
 
