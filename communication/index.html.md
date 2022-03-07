@@ -391,7 +391,7 @@ Some projects require limited access internally due to the confidential or sensi
 | Team                  | Theme                                                                                          |
 | --------------------- | ---------------------------------------------------------------------------------------------- |
 | CEO                   | Pets / Animals                                                                                 |
-| Corporate Development | [Greek mythological figures](https://en.wikipedia.org/wiki/List_of_Greek_mythological_figures) |
+| Corporate Development | Movie / TV Show characters                                                                     |
 | Engineering           | [Hex color names](https://htmlcolorcodes.com/color-names/)                                     |
 | Finance               | Sports team names                                                                              |
 | Legal                 | TV Shows / Movies                                                                              |
