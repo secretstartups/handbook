@@ -637,6 +637,82 @@ Numbers/target achievement
 
 
 
+## **Channel Program Engagement Process**
+
+When initiating a project the Channel Team needs to be engaged in each part of the project from ideation to approval.  The Channel Engagement process is depicted in Diagram 1 below:
+
+Diagram 1:
+
+
+<div align= "center"><img src="/images/resellers/project-charlies-angels.png" width="" alt="Channel Program Engagement Process" title="image_tooltip"></div>
+
+<br>Once approved we are ready to begin with engagement with Partner Marketing, Partner Enablement, and the [Partner Communication process](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#partner-communications).
+
+Table 1 outlines the DRIs responsible for each step in the Channel Program Engagement process. 
+
+Table 1: 
+
+<table>
+<tr>
+   <td>Team
+
+   </td>
+   <td>DRI
+
+   </td>
+  </tr>
+  <tr>
+   <td>Channel Programs
+
+   </td>
+   <td>Ed Cepulis
+
+   </td>
+  </tr>
+  <tr>
+   <td>Channel SA
+
+   </td>
+   <td>Adrian Waters
+
+   </td>
+  </tr>
+  <tr>
+   <td>Channel Operations
+
+   </td>
+   <td>Colleen Farris
+
+   </td>
+  </tr>
+  <tr>
+   <td>Channel Marketing 
+
+   </td>
+   <td>Coleen Greco
+
+   </td>
+  </tr>
+  <tr>
+   <td>Partner Enablement
+
+   </td>
+   <td>Blair Fraser
+
+   </td>
+  </tr>
+  <tr>
+   <td>Partner Communications
+
+   </td>
+   <td>Kim Jaeger
+
+   </td>
+  </tr>
+  </table>
+
+
+
 ## **Channel Marketing Processes**
 
 Complete process for submitting an MDF proposal request for funds and detailed instructions regarding the approval and claim process can be found in the [Channel Partner Handbook under MDF.](https://about.gitlab.com/handbook/resellers/#requesting-market-development-funds---mdf)
