@@ -1,13 +1,13 @@
 ---
 layout: handbook-page-toc
-title: "Datastore"
+title: "Data Stores"
 ---
 
-GitLab is a [single application](https://about.gitlab.com/handbook/product/single-application/) that relies on a [single datastore](https://about.gitlab.com/handbook/product/single-application/#single-data-store). Althought this is no longer, strictly speaking, completely accurate, it *was* so for quite a long time. Scalability and development concerns nudged us to be *less* strict, albeit while maintaining full integration within the application, and ensuring that both self-managed and GitLab.com continue to operate as a single application. Self-managed applications, in particular, should continue to provide simplicity while offering the flexibility to scale.
+GitLab is a [single application](https://about.gitlab.com/handbook/product/single-application/) that relies on a [single data store](https://about.gitlab.com/handbook/product/single-application/#single-data-store). Althought this is no longer, strictly speaking, completely accurate, it *was* so for quite a long time. Scalability and development concerns nudged us to be *less* strict, albeit while maintaining full integration within the application, and ensuring that both self-managed and GitLab.com continue to operate as a single application. Self-managed applications, in particular, should continue to provide simplicity while offering the flexibility to scale.
 
 There is no fundamental aversion to multiple data stores, but we want to avoid the pitfalls of having *too many* of them, especially when variety of data engines are involved. Using new or adopting existing data stores will involve tradeoffs, which have to be meticulously managed at scale. We have placed some gatekeepers before a separate datastore can be deployed, and the following guidelines are intended to help you determine what the best course of action is and how to proceed.
 
-These guidelines rely heavily on the Database Working Group's [glossary](/company/team/structure/working-groups/database-scalability/#glossary).
+These guidelines rely heavily on the Database Working Group [glossary](/company/team/structure/working-groups/database-scalability/#glossary).
 
 ## *We need a new database*
 
@@ -38,7 +38,7 @@ Four basic questions have to answer before to determine the appropriate data sto
 * What kinds of queries does the application need to run agains the data store?
 * What resource utilization is expected, both today and in the near future, in terms of space consumed, trasaction rates (for read and writes), and latencies?
 
-The answers to the first three questions are likely known in advance, since they're really baked into the application; the last one tends to be a little less clear, and while exact answers are not necessary, ballpark estimates (for both at deployment time and peering a bit into the future) are required. In any event, the answers to these questions should avoid specific technologies (with some exceptions).
+The answers to the first three questions are likely known in advance, since they are really baked into the application; the last one tends to be a little less clear, and while exact answers are not necessary, ballpark estimates (for both at deployment time and peering a bit into the future) are required. In any event, the answers to these questions should avoid specific technologies (with some exceptions).
 
 ## Default answer: the main Postgres database
 
