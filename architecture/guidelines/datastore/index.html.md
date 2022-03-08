@@ -3,23 +3,31 @@ layout: handbook-page-toc
 title: "Datastore"
 ---
 
-GitLab is a [single application](https://about.gitlab.com/handbook/product/single-application/) that relies in a [single datastore](https://about.gitlab.com/handbook/product/single-application/#single-data-store), althought this is not, strictly speaking, accurate. It *was* strictly accurate for quite a long time, but scalability and development concerns did force us to be *less* strict, albeit while maintaining full integration within the application, and ensuring both self-managed and GitLab.com continue to operate as a single application. While there is no fundamental aversion to multiple data stores, we want to avoid the pitfalls of having *too many* of them, especially when it involves a variety of data engines. We have placed some gatekeepers before a separate datastore can be deployed, and the following guidelines are intended to help you determine what the best course of action is.
+GitLab is a [single application](https://about.gitlab.com/handbook/product/single-application/) that relies on a [single datastore](https://about.gitlab.com/handbook/product/single-application/#single-data-store). Althought this is no longer, strictly speaking, completely accurate, it *was* so for quite a long time. Scalability and development concerns nudged us to be *less* strict, albeit while maintaining full integration within the application, and ensuring that both self-managed and GitLab.com continue to operate as a single application. Self-managed applications, in particular, should continue to provide simplicity while offering the flexibility to scale.
+
+There is no fundamental aversion to multiple data stores, but we want to avoid the pitfalls of having *too many* of them, especially when variety of data engines are involved. Using new or adopting existing data stores will involve tradeoffs, which have to be meticulously managed at scale. We have placed some gatekeepers before a separate datastore can be deployed, and the following guidelines are intended to help you determine what the best course of action is and how to proceed.
+
+These guidelines rely heavily on the Database Working Group's [glossary](/company/team/structure/working-groups/database-scalability/#glossary).
 
 ## *We need a new database*
 
-First, we need to fully understand what that statement actually means, particularly in terms of the type of data we need to store, how tighly coupled it is to the main database, and how schemas and configurations are to be managed. Secondly, we need to understand what it will mean in terms of resource utilization (space requirements, transaction rates, expected growth for both). Third, we need to understand if the data requires a new data store engine, since this will have significant implications once it is deployed in production in terms of the deployment itself, on-going maintenance (such as upgrades), observability integrations, and, more importantly, troubleshooting during incidents and scaling it.
+*We need a new database* is becoming a more common request, and while it seems simple, it is deceptively so.
 
-We currently have two primary data stores classes: relational (PostgreSQL) and data structure (Redis). 
+First, we need to fully understand what that statement actually means, particularly in terms of the type of data that has to be stored and queried, how tighly coupled it is to the main database, and how schemas and configurations are to be managed. 
+
+Second, we need to understand what it will mean in terms of resource utilization (space requirements, transaction rates, expected growth for both). 
+
+Finally, we need to understand if the data requires a new data store engine, since this will have significant implications once it is deployed in production in terms of the deployment itself, on-going maintenance (such as upgrades), observability integrations, and, more importantly, troubleshooting during incidents.
+
+We currently have two primary data stores classes: relational (PostgreSQL) and data structure (Redis). Each of these service different needs, and each one can be scaled through a variety of techniques.
 
 ### Relational: PostgreSQL
 
-PostgreSQL is our relational database engine of choice, and, until recently, all data resided in a single cluster (and thus, a single data store). As scalability needs increased, some items have been extracted from the database (diffs was the first such item), while others were deployed in separate logical databases or instances (at scale) because they were already separate services and had low data coupling requirements (Registry and Praefect). Still, others are being extracted right now (CI) because of their scale (and because we found ways to work around tight coupling).
-
-In general, the default answer to "we need a new database" is to use the main PostgreSQL cluster.
+[PostgreSQL](https://docs.gitlab.com/ee/development/scalability.html#postgresql) is our relational database engine of choice, and, until recently, all metadata for projects, issues, merge requests, users, and so on resided in a single cluster. Its schema is managed by the Rails application [db/structure.sql](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql). We commonly refer to this data store as the **main database**. As scalability needs increased, we adopted some [best practices](https://about.gitlab.com/handbook/engineering/architecture/practice/scalability/) to address them. Some items have been extracted from the database (diffs were the first ones), while others were deployed in separate logical databases or instances (at scale) because they were already separate services and had low data coupling requirements (Registry and Praefect). Still others are currently in the process of being functionally decomponed (CI) because of their scale (and because we found ways to work around tight coupling).
 
 ### Data Structure: Redis
 
-We have a significant Redis footprint for very specialized, non-relational needs, which for the most part is considered cache. Over time, some durability has been added.
+[Redis](https://docs.gitlab.com/ee/development/scalability.html#redis) is used for specialized, non-relational needs, including queues (Sidekiq jobs marshal jobs into JSON payloads), persistent state( session data and exclusive leases), and cache (repository data such as branch and tag names, and view partials).
 
 ## Considerations
 
