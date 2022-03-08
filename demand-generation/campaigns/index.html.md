@@ -33,15 +33,6 @@ The Campaigns Team is highly collaborative, working closely with marketers acros
 
 [Read the job family here >>](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/)
 
-#### Lifecycle Marketing
-{: #responsibilities-lifecycle}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-[Lifecycle Marketing](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing) is also a specialization within the Marketing Campaigns team. The lifecycle marketing manager is responsible for strategizing, executing, and optimizing a data-driven user lifecycle communications strategy.
-
-This role works closely with the Product Growth and Data team, among others, to collaborate, plan, and prioritize communication to better engage GitLab users and progress them through the buyer and customer lifecycle. The lifecycle marketing manager will focus on user paths to revenue, including engaging free .com users, trial users, and paid users of GitLab.
-
-[Read the job family here >>](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing)
-
 ### Goals
 {: #goals}
 <!-- DO NOT CHANGE THIS ANCHOR -->
