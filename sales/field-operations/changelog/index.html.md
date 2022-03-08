@@ -16,6 +16,13 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q1-FY23
 
+### 2022-03-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/94))
+
+**CS Ops: [Customer License Utilization: Salesforce App](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/)**
+
+**Customer Programs: [Expand Criteria for Required Contact Role "GitLab Admin" to all customers](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1297)**
+
+
 ### 2022-02-22 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/91))
 
 **Sales Ops: [Chorus Privacy Control & Handbook Updates](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2683#note_820222936)**
