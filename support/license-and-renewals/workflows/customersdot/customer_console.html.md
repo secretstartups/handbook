@@ -433,6 +433,30 @@ irb(main):003:0> enable_ci_minutes("mmoraphotocr")
 irb(main):004:0>
 ```
 
+### create_order_from_zuora
+
+On rare occasions, an Order object may not exist in customersDot for a subscription in Zuora. This function creates a valid Order from the subscription data found in Zuora which can then be linked to a namespace.
+
+Use cases for this function:
+
+1. [Entity changes](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Process-for-change-of-entity)
+1. System bugs
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:customer_id` | *Yes* | The ID number of a customersDot account linked to the billing account, e.g., the subscription must appear in their cDot account |
+| `:subscription_name` | *Yes* | Subscription name as it appears in Zuora, e.g., `A-S12345678` |
+
+#### Sample
+
+```ruby
+irb(main):003:0> create_order_from_zuora(123456,'A-S12345678')
+
+=> "{\"status\":\"success\",\"message\":{\"success\":true,\"order\" ....."
+```
+
 ## GitLab.com Group methods
 
 These functions help fix various bug issues that have surfaced on GitLab.com. These functions do *not* change anything in the CustomersDot.
