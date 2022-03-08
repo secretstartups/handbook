@@ -45,7 +45,7 @@ In general, if your code base is part of the main RoR application, you will more
 
 Due to scalability concerns, we are currently executing our first [funcional decomposition](https://gitlab.com/groups/gitlab-org/-/epics/6168) from the database: the [CI tables](https://gitlab.com/groups/gitlab-org/-/epics/6167). Although this code base is part of RoR, its sheer size and resource utilization make up about 40% of the main database. Data coupling is relatively loose, so we decided to move it to its own separate cluster, and thus had to develop some techniques to address said coupling while having the data in a separate database ([Loose Foreign Keys](https://docs.gitlab.com/ee/development/database/loose_foreign_keys.html)).
 
-In general, a separate cluster will only be supported if the size of the dataset and its corresponding transaction rate requirements are large enough to merit the cost of operating a separate cluster and the added complexity of developing code to support it. Initially, this will likely reside in separate logical database as part of the ,ain cluster.
+In general, a separate cluster will only be supported if the size of the dataset and its corresponding transaction rate requirements are large enough to merit the cost of operating a separate cluster and the added complexity of developing code to support it. Initially, this will likely reside in separate logical database as part of the main cluster.
 
 ## Find your use case
 
