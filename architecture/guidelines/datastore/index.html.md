@@ -31,35 +31,35 @@ We currently have two primary data stores classes: relational (PostgreSQL) and d
 
 ## Considerations
 
-There are four basic questions you'll need to answer before you request a new data store:
+Four basic questions have to answer before to determine the appropriate data store:
 
-* What kind of code base comprises your application?
-* What kind of data do you need to store?
-* What kinds of queries do you need to run agains the data store?
-* What resource utilization do you expect to need, both today and in the near future, in terms of space consumed, trasaction rates (for read and writes), and latencies?
+* What kind of code base comprises the application?
+* What kind of data does the application need to store?
+* What kinds of queries does the application need to run agains the data store?
+* What resource utilization is expected, both today and in the near future, in terms of space consumed, trasaction rates (for read and writes), and latencies?
 
-You likely know well the answers to the first three questions, since they're really baked into your application; the last one tends to be a little less clear, and while you do not need exact answers, you do need some ballpark estimates (for both at deployment time and peering a bit into the future). In any event, you should generally avoid answering those questions with specific technologies in mind (with some exceptions).
+The answers to the first three questions are likely known in advance, since they're really baked into the application; the last one tends to be a little less clear, and while exact answers are not necessary, ballpark estimates (for both at deployment time and peering a bit into the future) are required. In any event, the answers to these questions should avoid specific technologies (with some exceptions).
 
-## Default answer: the main database
+## Default answer: the main Postgres database
 
-Traditionally, the default answer has been to use our main database (PostgreSQL). However, we are probably at a point where this can no longer be the case, due primarily to two reasons:
+Traditionally, the default answer has been to use our main database (PostgreSQL). However, we are probably at a point where this can no longer be the case, primarily for two reasons:
 
 * We have to carefully manage load on the main database, particularly in terms of transaction rates, connections, and memory utilization, to ensure availability.
 * The product ecosystem is evolving in a varied fashion through integrations of existing technology stacks, and we are coming upon more specialized data needs.
 
-In general, if your code base is part of the main RoR application, you will more than likely use the main PostgreSQL database, as the schema is managed through RoR and your code probably has fairly tight coupling with the Rails code base. This has to ba managed carefully, however, as capacacity planning concerns must be addressed. The Development [Database Group](https://about.gitlab.com/handbook/engineering/development/enablement/database/) is your best source of information. If necessary, engage with Infrastructure [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/). This also applies to Redis.
+In general, if the code base is part of the main RoR application, more than likely it already uses the main PostgreSQL database, as the schema is managed through RoR and the code probably has fairly tight coupling with the Rails code base. New entities have to be managed carefully, however, as capacacity planning concerns must be addressed in order to ensure availability. The Development [Database Group](https://about.gitlab.com/handbook/engineering/development/enablement/database/) and Infrastructure [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/) are the best sources of information in this regard, which also applies to Redis.
 
 ### Exception
 
-Due to scalability concerns, we are currently executing our first [funcional decomposition](https://gitlab.com/groups/gitlab-org/-/epics/6168) from the database: the [CI tables](https://gitlab.com/groups/gitlab-org/-/epics/6167). Although this code base is part of RoR, its sheer size and resource utilization make up about 40% of the main database. Data coupling is relatively loose, so we decided to move it to its own separate cluster, and thus had to develop some techniques to address said coupling while having the data in a separate database ([Loose Foreign Keys](https://docs.gitlab.com/ee/development/database/loose_foreign_keys.html)).
+Due to scalability concerns, we are currently executing the first [funcional decomposition](https://gitlab.com/groups/gitlab-org/-/epics/6168) from the database: the [CI tables](https://gitlab.com/groups/gitlab-org/-/epics/6167). Although this code base is part of RoR, its sheer size and resource utilization make up about 40% of the main database. Data coupling is relatively loose, so it is moving it to its own separate cluster through the use of some techniques to address  coupling while having the data in a separate database ([Loose Foreign Keys](https://docs.gitlab.com/ee/development/database/loose_foreign_keys.html)).
 
-In general, a separate cluster will only be supported if the size of the dataset and its corresponding transaction rate requirements are large enough to merit the cost of operating a separate cluster and the added complexity of developing code to support it. Initially, this will likely reside in separate logical database as part of the main cluster.
+In general, a separate cluster will only be supported if the size of the dataset and its corresponding transaction rate requirements are large enough to merit the cost of operating it and the added complexity of developing code to support it. Initially, this will likely reside in separate logical database as part of the main cluster.
 
-## Find your use case
+## Other use cases
 
 ### Relational (PostgreSQL)
 
-If your application is **not** part of the RoR code base (for instance, [Container Registry](https://gitlab.com/gitlab-org/container-registry), [Praefect](https://gitlab.com/gitlab-org/gitaly)), then you are likely looking for a separate database, and whether this is logical or an independent cluster will come down to scale.
+If the application is **not** part of the RoR code base (for instance, [Container Registry](https://gitlab.com/gitlab-org/container-registry), [Praefect](https://gitlab.com/gitlab-org/gitaly)), then a separate database is likelt the right answer , and whether this is logical or an independent cluster will come down to scale.
 
 | Code base | Transaction Rate | Storage       | Data store           |
 | --------- | ---------------- | ------------- | -------------------- |
@@ -81,6 +81,6 @@ If your application is **not** part of the RoR code base (for instance, [Contain
 
 ## New data store engines
 
-There will be times whether currently supported data store engines will be able to meet your requirements. and a new data store engine must be introduced in the environment. These should be extremely rare, but will generally come courtesy of integrating new technology stacks into our environment (for instance, acquisitions), or when the data needs are very specialized (for instance, time series).
+There will be times whether currently supported data store engines will not be able to meet application requirements. and a new data store engine must be introduced in the environment. These should be extremely rare, but will generally come courtesy of integration effort of new technology stacks into our environment (for instance, acquisitions), or when the data needs are very specialized (for instance, time series).
 
-Your due diligence should include involving the Infrastructure team as early as possible, since supporting new technologies will require a variety of work in terms of deployment, configuration, maintenance (upgrades), troubleshooting, etc.
+Due diligence should include involving the Infrastructure team as early as possible, since supporting new technologies will require a variety of work in terms of training, deployment, configuration, maintenance (upgrades), troubleshooting, etc.
