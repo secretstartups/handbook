@@ -165,6 +165,8 @@ salesforce.com/blabla
 You can copy/paste this to make sure you don't miss anything:
 
 ```
+<!-- Click on ~customer priority:: to select an appropriate label -->
+
 - Link to request:
 - Priority: ~customer priority::   
 - Why interested:
@@ -174,4 +176,4 @@ You can copy/paste this to make sure you don't miss anything:
 - PM to mention:
 ```
 
-The `~customer priority::*` labels are inputs for the prioritization model powering the [user requested issues dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/919358/User-Requested-Issues), and represent the relative importance of a given issue to the specific customer. 1 is the lowest priority and 10 is the highest. These can be updated at any point in time and will be reflected in the model within 24 hours. 
+The `~customer priority::*` labels are inputs for the prioritization model powering the [user requested issues dashboards](/handbook/product/customer-prioritization-framework/), and represent the relative importance of a given issue to the specific customer. 1 is the lowest priority and 10 is the highest. These can be updated at any point in time and will be reflected in the model within 24 hours. You can find more context about priority labels on the [Customer Priorization Framework handbook page](/handbook/product/customer-prioritization-framework/index.html#priority-points).
