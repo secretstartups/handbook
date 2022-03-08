@@ -30,7 +30,7 @@ important to those working within Zendesk:
 
 ## SLA Related Tags
 
-As a note, `basic` and `starter` are two different tags for the same plan/SLA.
+As a note, `basic`(deprecated) and `starter` are two different tags for the same plan/SLA.
 
 | Tag | What it does |
 |---|---|
