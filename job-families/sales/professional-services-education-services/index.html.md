@@ -123,7 +123,7 @@ The Senior Director, Education Services is a [grade 11](/handbook/total-rewards/
 * Excellent collaborator and communicator within and across various levels of the organization
 * Proven leadership skills in motivating and inspiring a team 
 * Experience designing, managing blended learning and certification programs
-* Strong balance of strategic and execution skills - Thing Big, Start Small, and Act Quickly
+* Strong balance of strategic and execution skills - Think Big, Start Small, and Act Quickly
 * BA/BS degree required. Advanced degree a plus
 * Minimum of 10-15 years relevant experience
 
