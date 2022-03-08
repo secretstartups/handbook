@@ -9,7 +9,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Department                    | Recruiter       | Sourcer     | Candidate Experience Specialist    |
 |--------------------------|-----------------|-----------------|-------------------------------------|
 | Executive          | Rich Kahn   | Chriz Cruz | Ale Ayala |
-| Enterprise Sales, NA | Kevin Rodrigues |  N/A | Hannah Stewart |
+| Enterprise Sales, NA | Kevin Rodrigues & Jill Hind |  N/A | Hannah Stewart |
 | Enterprise Sales, EMEA | Debbie Harris & Kanwal Matharu |  TBH | Lerato Thipe |
 | Enterprise Sales, APAC | Debbie Harris |  TBH | Lerato Thipe |
 | Commercial Sales,	AMER | Marcus Carter & Shannan Farmer | TBH  | Hannah Stewart |
