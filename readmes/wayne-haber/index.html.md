@@ -68,13 +68,3 @@ Since then, I have been thinking of doing something similar but smaller in scale
 I am experimenting for a couple of months with a smaller scope and smaller-scale shadow program than the CEO Shadow Program. If it goes well, I will continue it and iteratively improve it. If it doesn't go well, I will end it.
 
 [Engineering director shadow program](https://about.gitlab.com/handbook/engineering/readmes/wayne-haber/development-director-shadow-experiment.html)
-
-### Currently hiring
-
-* [Backend engineer - fulfillment](https://boards.greenhouse.io/gitlab/jobs/5434651002)
-* [Backend engineer - applied ML](https://boards.greenhouse.io/gitlab/jobs/5642988002)
-* [Fullstack engineer - growth](https://boards.greenhouse.io/gitlab/jobs/5156630002)
-* [Senior backend engineer - applied ML](https://boards.greenhouse.io/gitlab/jobs/5429916002)
-* [Senior fullstack engineer - applied ML and antiabuse](https://boards.greenhouse.io/gitlab/jobs/5630264002)
-* [Senior backend engineer growth experimentation](https://boards.greenhouse.io/gitlab/jobs/5608684002)
-* [Senior backend engineer - product intelligence](https://boards.greenhouse.io/gitlab/jobs/5642816002)
