@@ -116,7 +116,11 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
     
     * _Note: For resignations from Director-level and above, or for departures that have significant context pre-dating the exit interview that can help make the discussion more effective, the [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) will send out the exit survey and conduct the exit interview._     
     
-1. **Specialist**: The People Specialist will review the team members calendar and add an exit interview event to their calendar. The invite will include a message about how this interview is optional. A brief training on how to start and conduct exit interviews can be found [here](https://docs.google.com/presentation/d/1QCd6QLKcgCEzncJ2zdeDsnA6zlWFAmZre69Q1LKycJ0/edit?usp=sharing) (internal only)
+1. **Specialist**: 
+
+- Regrettable Offboardings:
+
+The People Specialist will review the team members calendar and add an exit interview event to their calendar. The invite will include a message about how this interview is optional. A brief training on how to start and conduct exit interviews can be found [here](https://docs.google.com/presentation/d/1QCd6QLKcgCEzncJ2zdeDsnA6zlWFAmZre69Q1LKycJ0/edit?usp=sharing) (internal only)
       * An offboarding email will be sent [automatically](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#voluntary-offboarding-email) to the team member once the offboarding form has been submitted. 
       * The assigned People Specialist will then send out the Exit Survey via Culture Amp (using the Exit Survey template in Culture Amp) and communicate with the departing team member to mention that they would like to schedule a non-mandatory exit interview, to occur during the team member's notice period.
       * To send the Exit Survey, log into Culture Amp and click on `Surveys` from the top menu bar. Select `Exit Survey` and select the `start` exit button - this will allow the People Specialist to assign the survey to the departing team member.
@@ -124,7 +128,11 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
       * Remind the departing team member it is necessary to complete the [Exit Survey](#exit-survey) _prior_ to the Exit Interview so it can be discussed.
       * Before the exit interview the interviewer (The People Specialist and/or People Business Partner) should make sure to carve out time to review the Exit Survey answers and prepare for the interview. If any voilations to our Code of Conduct are mentioned in the exit survey, these should be discussed first in the exit interview. 
       * Once the exit interview has been completed and all notes entered, the assigned People Specialist will ping the PBP in the `#pbp-peopleops` Slack channel to confirm that the notes have been added and that the Exit Interview has been completed. This ping will occur within 48 hours of the exit interview.
-1. **Experience**: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md) on the team member's last day. **Offboardings will see issues being created automatically at the latest 4:00pm their regional time, at which point de-provisioning will commence, unless there are unavoidable circumstances for a later offboarding.**
+
+- Non Regrettable Offboardings:
+ * Unless otherwise directed to follow the Regrettable offboarding process, an offboarding email will be sent [automatically](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#voluntary-offboarding-email) to the team member once the offboarding form has been submitted. 
+
+1. **Experience**: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md) on the team member's last day. **Offboarders will see issues being created automatically at the latest 4:00pm local regional time, at which point de-provisioning will commence, unless there are unavoidable circumstances for a later offboarding.** 
 
 ### Updating Key Offboarding Dates
 In the case an offboarding date needs to be updated, follow the next steps. 
@@ -137,15 +145,17 @@ In the case an offboarding date needs to be updated, follow the next steps.
 
 ### Exit Survey
 
-The Exit Survey provides team members with the opportunity to freely express views about working at GitLab.
-People Operations Specialists will send the [CultureAmp](https://www.cultureamp.com/) survey to all team members who are leaving voluntarily. If a team member leaves during a short notice and an exit interview cannot be scheduled prior to the team member leaving, one maybe scheduled after their offboarding date. 
+The Exit Survey provides those team members being offboarded with the opportunity to freely express views about working at GitLab.
+People Operations Specialists will send the [CultureAmp](https://www.cultureamp.com/) survey to the appropriate team members who are leaving GitLab voluntarily. 
 
-The People Specialist & the team member may proactively set up time to discuss their responses and ask for further information. Exit interviews are not mandatory, however your input will help provide GitLab with information regarding what is working well and what can be improved. Please point team member to the [Offboarding FAQ page](/handbook/people-group/offboarding/faq.html).
+The People Specialist and the team member may proactively set up time to discuss their responses and ask for further information. Exit interviews are not mandatory, however input will help provide GitLab with information regarding what is working well and what can be improved. Please point team member to the [Offboarding FAQ page](/handbook/people-group/offboarding/faq.html).
+
+Should you want to provide feedback and are not given the opportunity for an interview, please feel free to send your feedback to the People Business Partner for your division, or Team Member Relations. 
 
 #### Tasks for People Operations
 
 1. Monitor the #offboarding slack channel to be notified of leavers
-1. If the PeopleOps Specialist was selected as the exit interview owner, add a spiral pad emoji to signal you are processing this exit interview
+1. If the People Operations Specialist was selected as the exit interview owner and the offboarding is regrettable, add a spiral pad emoji to signal you are processing this exit interview
 1. Schedule a 30 minutes zoom call with the leaving team member within 1 week of their exit date.
 Email invite template:
 "I wanted to schedule time with you to go over the exit interview questions that were sent to you via Culture Amp.  This meeting is optional, if there is additional information that you would like to share please accept this invite or propose a new time.
