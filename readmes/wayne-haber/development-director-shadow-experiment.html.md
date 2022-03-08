@@ -39,13 +39,18 @@ I am experimenting for a couple of quarters with a smaller scope and smaller-sca
 * Feedback
 
 
-## Criteria and process for requesting to be a shadow
+## Criteria to be a shadow
 
 1. I am in the Eastern US (GMT-4).  The shadow must be available during some (but not all) of these working hours.  Confirm this works for you before proceeding.
 1. You have been with GitLab for at least one month
+
+## Process for requesting to be a shadow
+
 1. Check the schedule below for weeks that are `Open` for shadowing.
-1. Obtain written approval from your manager that they are ok with you participating, as your workload will need to be reduced for the shadow program duration.
-1. Add yourself to the table for the weeks in which you want to shadow via an MR. To get started, you can [edit the page here](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/engineering/readmes/wayne-haber/development-director-shadow-experiment.html.md) (internal).
+1. Create an MR to add yourself to the table for the weeks in which you want to shadow via an MR. To get started, you can [edit the page here](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/engineering/readmes/wayne-haber/development-director-shadow-experiment.html.md) (internal).
+1. Obtain written approval from your manager that they are ok with you participating via your manager commenting in the MR that they approve, as your workload will need to be significantly reduced for the shadow program duration.
+1. After your manager approves, assign the MR to me to review and merge.
+
 
 ## How does the shadowing work?
 
