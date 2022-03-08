@@ -55,7 +55,7 @@ Each customer deployment will go through the following lifecycle stages.
 
 **Adoption**: The objective is to support our customer's utilization of the GitLab solution to address the customer's original purchase intent (i.e., use case(s) and capabilities, licenses). Adoption is complete when:
 
-1. 80% of the licenses from the original purchases are activated and
+1. 80% of the licenses from the original purchases are activated
 1. the customer is successfully adopting the capabilities or use cases from their original purchase intent.
 
 These will be measured according to product analytics (if available) or through agreement with the customer.
