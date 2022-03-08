@@ -24,7 +24,7 @@ As a Product Organization, we work to create a flexible yet concise product deve
 
 - **What:** A bi-weekly team meeting for Product. All team members can add items to the agenda either as a Read-Only, or as a discussion item.
 - **Who:** Product along with interested parties across departments. The meeting is open to all GitLab team members.
-- **When:** Every other Tuesday for 50 minutes. The time alternates each week between 7:00am PT - 7:50am PT and 1:00pm PT - 1:50pm PT to accomodate timezones.
+- **When:** Every other Tuesday for 50 minutes. The start time alternates each week between <time datetime="15:00">3 pm UTC (10 am ET / 7 am PT)</time> and <time datetime="21:00">9 pm UTC (4 pm ET / 1 pm PT)</time> to accomodate timezones.
 - **Format:** The agenda is curated and moderated by either the Chief Product Officer or VP of Product Management.
 - **Recordings:** The meetings are set as Private Recordings and are saved to the [Product Team](https://www.youtube.com/playlist?list=PL05JrBw4t0Ko7HO427nXkoz9kovi_2dBi) playlist on YouTube Unfiltered. If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
 
@@ -45,7 +45,7 @@ Product Operations holds office hours to support product managers with any aspec
 
 - **What:** A bi-weekly team meeting for Product. All team members can add items to the agenda as discussions item.
 - **Who:** Product. The meeting is open to all GitLab team members.
-- **When:** Every other Tuesday for 50 minutes. The time alternates each week between 7:00am PT - 7:50am PT and 1:00pm PT - 1:50pm PT to accomodate timezones.
+- **When:** Every other Tuesday for 50 minutes. The start time alternates each week between <time datetime="15:00">3 pm UTC (10 am ET / 7 am PT)</time> and <time datetime="21:00">9 pm UTC (4 pm ET / 1 pm PT)</time> to accomodate timezones.
 - **Format:** The agenda is first-come, first-served.
 
 **Some general topics for discussion:**
@@ -86,6 +86,15 @@ _(depending on your section's format, these can be listed in the agenda doc, the
     - What have you learned in the last month?
     - What are you doing to move the metric forward in the next month?
 
+#### Product Direction Showcases 
+
+- **What:** A monthly meeting for 4 stages to present 10-minutes on their direction as well as provide a deep dive or demo into a recent product delivery. 
+- **When:** Monthly, rotating between EMEA and NA Timezone 
+- **Duration:** 50 minutes
+- **Format:** The meeting is lead by the Group Manager of the Stage. 
+- **Recordings:** The meetings have [REC] in the title and will automatically go to the [Google Drive Folder](https://drive.google.com/drive/search?q=type:video%20Product%20Direction%20Showcase). If you cannot find a recording, please message the EBA to the Product Organization.
+- **Preparation:** A monthly issue will get created and 2 weeks before meeting Stage leaders will populate their place in the meeting and will provide a link to a deck or direction page that will be reviewed for their timeslot. 
+
 ### R&D Investment Allocation
 
 You can find more info about how we allocate our R&D investment across our product hierarchy in our [Product Investment page](/handbook/product/investment/).
@@ -101,9 +110,7 @@ Aligned with the company [cadence](/company/cadence/), using the Dev Section as 
 1. [Mission](/company/mission/#mission): 30 years
 1. [Vision](/direction/#vision): 10 years
 1. [Strategy](/company/strategy/#sequence-): 3 years
-     1. [Dev Strategy](https://about.gitlab.com/direction/dev/#3-year-strategy)
-     1. [Dev Plan](/direction/dev/#1-year-plan-whats-next-for-dev): 1 year
-     1. [Dev Milestones](/direction/dev/#whats-next): quarter (we have issues assigned to specific release milestone for a rolling 3 months)
+1. [FY Themes](/direction/#fiscal-year-product-investment-themes)
 1. [Product Releases](https://gitlab.com/gitlab-org/release-tools/blob/master/templates/monthly.md.erb): month (we try to not change the release that is started)
 
 Inspired by:
@@ -154,6 +161,34 @@ Around November, we begin the [annual planning cycle](/handbook/finance/financia
 PMs are able to refine their plans and strategy throughout the year, but since the these are important to be aware of,
 major updates to the content that happen ad-hoc should also be communicated widely - for example,
 using the Product FGC meetings or other communication channels.
+
+#### Navigating cross-stage or cross-section direction pages 
+
+In some cases there may be direction pages that span multiple stages or sections. A direction page that summarizes the collective vision as well as all the contributors of that direction is critical to maintain transparency and adequate assignment of ownership. 
+
+There are several examples of these types of direction pages today: 
+
+1. [Monorepo Product Direction](/direction/monorepos/)
+1. [Versioned Dependencies Direction](direction/versioned-dependencies/)
+1. [AutoDevops Direction](/direction/configure/auto_devops/)
+1. [Deployment Direction](/direction/deployment/)
+
+The steps for creating and managing a cross-section or stage direction are: 
+
+1. Create a direction page merge request adding the direction page to the [GitLab direction directory](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/direction)
+1. Select the category change template in the merge request 
+1. Follow the process for [category changes](/handbook/product/categories/#changes) 
+1. Add [CODEOWNERS](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS) by adding an entry with the direction page link and the page DRI GitLab Handle. 
+1. Once approved, `@` all relevant product managers on the addition 
+
+Once the direction page has been added, there needs to be an assigned DRI for maintaining monthly updates for the page. The process for keeping the page updated are:
+
+1. Create a slack channel for the direction (e.g. #make_monorepos_lovable)
+1. Add all interested and contributing members to the channel 
+1. Each month open an MR to the direction page and update issue queries contributing to the vision 
+1. Assign the contributing PMs to the MR for review and contribution 
+1. Once all parties have contributed, merge the MR
+1. Share changes to the direction page in relevant slack channels. If material changes are made, consider recording a 5-minute overview of the direction page and share the MR as well as overview in #product, the relevant direction channel, or other slack channels as needed
 
 #### What makes a Product Direction issue?
 
@@ -500,8 +535,8 @@ Here are some additional examples of well written release blog posts for inspira
 In addition to the written medium, video is an important medium that caters to the different goals you are trying to accomplish and learning styles of your audience.
 Depending on the type of video you are recording, there are some guidelines to keep in mind.
 
-As our documentation guidelines [actively encourage](https://docs.gitlab.com/ee/development/documentation/styleguide.html#videos) linking video content,
-please consider following the [Documentation Style Guide section on language](https://docs.gitlab.com/ee/development/documentation/styleguide.html#language),
+As our documentation guidelines [actively encourage](https://docs.gitlab.com/ee/development/documentation/styleguide/#videos) linking video content,
+please consider following the [Documentation Style Guide section on language](https://docs.gitlab.com/ee/development/documentation/styleguide/#language),
 and working with your technical writing team to include links to your speed runs, walk-throughs and demos at relevant locations in the product documentation.
 
 #### Using GIFs
@@ -546,7 +581,7 @@ as a combined entity in a feature block, even if there is otherwise no single is
 ### Dogfood everything
 
 The best way to understand how GitLab works is to **use it for as much of your job as possible**.
-Avoid [dogfooding antipatterns](/handbook/engineering/#dogfooding-antipatterns)
+Avoid [dogfooding antipatterns](/handbook/engineering/principles/#dogfooding-antipatterns)
 and try to find ways to leverage GitLab (instead of an external tool) whenever
 possible. _For example:_ try to use Issues instead of documents or spreadsheets
 and try to capture conversation in comments instead of Slack threads.
@@ -624,10 +659,10 @@ Below are the responsibilities of an Internal Customer DRI:
 
 #### Dogfooding Process
 
-1. **Any GitLab team member** can create an issue labeled `Dogfooding` and spur
-a discussion with PM. This label should never be removed so that the
-
-decision-making process gets memorialized on the [Dogfooding board](https://gitlab.com/groups/gitlab-org/-/boards/1212116). When creating a Dogfooding issue, consider using the [Dogfooding Issue Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Dogfooding.md) for existing features that need Dogfooding or the [Feature Proposal template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20detailed.md) for new features.
+1. **Any GitLab team member** can create an issue labeled `Dogfooding` and spur a discussion with PM. This label should
+never be removed so that the decision-making process gets memorialized on the [Dogfooding board](https://gitlab.com/groups/gitlab-org/-/boards/1212116). 
+When creating a Dogfooding issue, consider using the [Dogfooding Issue Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Dogfooding.md) 
+for existing features that need Dogfooding or the [Feature Proposal template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20detailed.md) for new features.
 1. **PMs** will consider the issue, make an explicit decision, and **add** an appropriate label for next steps:
     1. `Dogfooding::Build in GitLab` when a new feature should be built into GitLab
     1. `Dogfooding::Rebuild in GitLab` when there is existing work (outside of GitLab) that needs to be rebuilt _inside_ of GitLab
@@ -946,14 +981,65 @@ As a result of this DRIness for prioritization, PMs are responsible for understa
 There are many ways to effectively negotiate and balance the various needs of your backlog. A common practice to consider is to establish pre-defined budgets for certain types of issues such as bugs, security, features, availability, infra-dev, or others listed in the "Prioritization Guidelines" below. To do this, work with your EM to define a percentage of your team's capacity to reserve for each milestone, ensuring the team can adequately execute on feature delivery, bugs, tech debt, and scaling without interrupting work intra-milestone. Typically, this can be between 20-30% of the team's capacity depending on the maturity and team size. These budgets are not an excuse to “set and forget” time aside for categories of issues. Product Managers are still responsible for ensuring a deep understanding of what is being worked on in their Product Group and how it correlates to customer results.
 The budget should not be used as a floor or a ceiling. Use your judgment to contract and expand to achieve the desired outcomes.
 
-Prioritization guidelines:
+Prioritization framework:
 
 <%= partial "includes/master-prioritization-list.md" %>
+<%= partial "includes/engineering-allocations.md" %>
+<%= partial "includes/feature-change-locks.md" %>
 
-Please also note the corresponding [Engineering handbook section](/handbook/engineering/#prioritizing-technical-decisions) about the relative importance and prioritization of availability, security, and feature velocity. To ensure we're providing an appropriate focus on security, data loss, and availability, PMs should consider:
+Please also note the corresponding [Engineering handbook section](/handbook/engineering/principles/#prioritizing-technical-decisions) about the relative importance and prioritization of availability, security, and feature velocity. To ensure we're providing an appropriate focus on security, data loss, and availability, PMs should consider:
 
 - **tracking the appropriate labels for each prioritization category**: Use a standing item to discuss these issues with an engineering manager and ensure you understand the impact of related issues in your area before planning a release.
 - **optimizing for quality once a merge request is ready for review**: This means ensuring that Engineering has sufficient time to meet our [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) - including a [high-quality code review](/handbook/engineering/workflow/code-review/) - without cutting corners to get something into production.
+
+#### Prioritization sessions
+
+To help PMs plan, [stage group stable counterparts](#pm-em-ux-and-set-quad-dris) can participate in prioritization sessions. They serve mainly as an [internal sensing mechanism](#internal) for PMs to make more informed prioritization decisions for different [planning horizons](#planning-horizons). Usually, teams focus on the _product releases_ horizon, but can also focus on the _FY themes_ or _strategy_ horizons. This group exercise also boosts team morale, improves communication and empathy, and broadens individual's perspectives. Besides, it can be a more informal and joyful way of connecting the team and discussing work.
+
+The output of these sessions is a [priority matrix](https://www.nngroup.com/articles/prioritization-matrices/) that shows the relative priority of a set of items based on two weighted criteria. Generally, the criteria are _importance_ and _feasibility_, each one visualized as an axis of the matrix. You can change the criteria depending on the planning horizon or goals. To better understand how the sessions work, see an example [mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1644233739498/018f4f87c17c9a8e7ecf1d8ce2834a72c4d8e34b) and [session recording](https://youtu.be/xgeXUEzOpUY).
+
+Always consider [asynchronous sessions](/handbook/values/#bias-towards-asynchronous-communication) first, in an effort to be more inclusive and respectful of others time. That said, if possible, synchronous sessions can be ideal, as they allow limiting the time spent and make great use of the activities' momentum for a more efficient discussion and voting.
+
+Use our [Mural template for prioritization sessions](https://app.mural.co/t/gitlab2474/template/1c2480fb-073f-45aa-a179-75a5e9a72740), built for product releases but adaptable for other planning horizons or criteria.
+
+<details markdown="1">
+<summary markdown="span">Process template</summary>
+
+Adapt this process as needed, and consider changing it to an asynchronous mode of communication. For example, participants can review the items async, add questions as [comments in Mural](https://support.mural.co/en/articles/2113811-add-comments-and-tag-collaborators), and vote using [dot voting](https://www.nngroup.com/articles/dot-voting/) or in [voting sessions](https://support.mural.co/en/articles/2113758-run-a-voting-session) held on different days for each criterion.
+
+1. Before:
+   1. The facilitator creates a mural from our [template for prioritization sessions](https://app.mural.co/t/gitlab2474/template/1c2480fb-073f-45aa-a179-75a5e9a72740), with the stage group and milestone in its name.
+   1. The facilitator invites the stage group counterparts for a 50-minute call, scheduled sometime before the team finalizes the release scope (see the [product development timeline](/handbook/engineering/workflow/#product-development-timeline)). Includes the URL of the mural and planning issue in the event description.
+   1. The facilitator shares the preparation work with the participants, preferably in the group's planning issue (see the template after this list and an [example](https://gitlab.com/gitlab-org/create-stage/-/issues/12980#note_834155059).
+   1. Participants do the preparation work (see the template after this list).
+1. During (see an [example session recording](https://youtu.be/xgeXUEzOpUY)):
+   1. The facilitator starts [recording the call](/handbook/tools-and-tips/zoom/#recording-in-zoom).
+   1. **Present**: For each participant, the facilitator [sets the timer](https://support.mural.co/en/articles/3029991-using-the-timer) for 10 minutes (adapt per the no. of participants). A participant then presents their issues, preferably using the [RICE framework](#using-the-rice-framework). Only after the participant presents all issues should other attendees ask questions. Once in a while, the facilitator announces how much time remains. When the timer goes off, repeat this for another participant.
+   1. **Vote**: After all participants have presented, the facilitator [runs two voting sessions](https://support.mural.co/en/articles/2113758-run-a-voting-session): first for _importance_, and then for _feasibility_. Each participant has 5 votes (adapt per the no. of issues). The facilitator sets the timer for 2 minutes, repeating for each voting session.
+   1. **Visualize**: [Review your voting session results](https://support.mural.co/en/articles/2113758-run-a-voting-session#h_7cb8e4f588) and everyone helps place the stickies on the matrix, depending on their number of votes for each criterion.
+   1. If there's still time, discuss the most-voted issues as a group.
+1. After:
+   1. The facilitator [uploads the recording to GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube), sets its visibility (see [SAFE framework](/handbook/legal/safe-framework/)), adds to relevant playlists, and includes the URL of the mural and planning issue in the description.
+   1. The facilitator shares the recording URL and voting results in the planning issue, preferably with a screenshot of the matrix and links to the highest voted issues (see an [example](https://gitlab.com/gitlab-org/create-stage/-/issues/12980#note_843540512).
+
+<details markdown="1">
+<summary markdown="span">Preparation work template</summary>
+
+```markdown
+## :map: Prioritization session
+
+`@-mention participants` for our [prioritization session](https://about.gitlab.com/handbook/product/product-processes/#prioritization-sessions), here's the [**Mural**](URL) for us to add the issues we want to see in **MILESTONE**. I scheduled our 50-minute session for **DATE**.
+
+1. Add your issues to the Mural before the call. Let's try to limit to **5 issues per person**, so it's easier to vote on them and keep things focused. You can find instructions on how to add them in the “Outline” panel on the right side of the Mural UI.
+1. Try not to add Security or Availability issues. This is also noted in the [product processes page](https://about.gitlab.com/handbook/product/product-processes/#prioritization), as those issues have forced prioritization with SLAs/SLOs.
+1. If you can, mark issues that appeared in previous sessions by changing their sticky color to **orange**.
+
+Thanks and see you soon :bow:
+```
+
+</details>
+
+</details>
 
 ### Using the RICE Framework
 
@@ -1023,7 +1109,7 @@ We schedule a prioritized issue by assigning it a milestone; for more on this se
 
 #### Async RICE Exercise
 
-Conducting a RICE prioritazation exercise with your cross-functional counterparts is a powerful way to make the process more inclusive and improve the quality of your rankings. Consider making this an async-first process to accommodate team members across different timezones. For an example of how to do this async-first, see [this issue that the Geo team used to collaborate on a RICE prioritazation exercise.](https://gitlab.com/gitlab-org/geo-team/discussions/-/issues/5015) This [blank async RICE template](https://docs.google.com/spreadsheets/d/13VgIHJ8y4RrvkNIyhY-gqb4VH9nsY5jrweMikYBXHhU) is also available for you to copy for your own async prioritization exercise.
+Conducting a RICE prioritization exercise with your cross-functional counterparts is a powerful way to make the process more inclusive and improve the quality of your rankings. Consider making this an async-first process to accommodate team members across different timezones. For an example of how to do this async-first, see [this issue that the Geo team used to collaborate on a RICE prioritization exercise.](https://gitlab.com/gitlab-org/geo-team/discussions/-/issues/5015) This [blank async RICE template](https://docs.google.com/spreadsheets/d/13VgIHJ8y4RrvkNIyhY-gqb4VH9nsY5jrweMikYBXHhU) is also available for you to copy for your own async prioritization exercise.
 
 ### Issues important to customers
 
@@ -1142,7 +1228,7 @@ Together with your Engineering Manager, you will have an important role in ensur
 #### Prioritizing for Predictability
 {: #prioritize-predictability}
 
-As a company we emphasize [velocity over predictability](/handbook/engineering/#velocity-over-predictability). As a product manager this means
+As a company we emphasize [velocity over predictability](/handbook/engineering/principles/#velocity-over-predictability). As a product manager this means
 you focus on prioritizing, not scheduling issues. Your engineering [stable counterparts](/handbook/leadership/#stable-counterparts) are
 responsible for velocity and delivery. However, there are instances when there is desire for predictability, including:
 
@@ -1172,7 +1258,7 @@ These information sources may be useful to help you prioritize.
 
 Individual product managers must consider, and advocate for [global optimizations](/handbook/values/#results)
 within the teams they are assigned to. If your assigned team requires expertise
-(remember [everyone can](/handbook/engineering/#collaboration)
+(remember [everyone can](/handbook/engineering/principles/#collaboration)
 contribute)
 outside the team you should make all reasonable efforts to proceed forward
 without the hard dependency while advocating within the product management team
@@ -1204,7 +1290,7 @@ Execution of a Global prioritization can take many forms.  This is worked with b
 
 * [Rapid action](#rapid-action) - use when reassignment isn't necessary, the epic can have several issues assigned to multiple teams
 * [Borrow](#borrow) - use when a temporary assignment (less than 6 months) to a team is required to help resolve an issue/epic
-* [Realignment](https://about.gitlab.com/handbook/people-group/promotions-transfers/#realignment-of-team-members-impacting-multiple-teams) - use when a permanent assignment to a team is required to resolve ongoing challenges
+* [Realignment](https://about.gitlab.com/handbook/people-group/promotions-transfers/#realignment-of-team-members-impacting-multiple-teams) - use when a permanent assignment to a team is required to resolve ongoing challenges. This has the highest impact to team members and should be considered if other options cannot achieve the desired goal. We strive to hire team members in the groups that will need them most.
 
 ### Rapid Action
 
@@ -1393,7 +1479,7 @@ how the team is planning to deliver on the [product vision](/direction/#vision).
 
 Use [calendar year (CY) dates](/handbook/communication/#writing-style-guidelines) for your issues, milestones, and labels to communicate timelines. Fiscal year (FY) does not translate well outside the company and roadmaps and vision pages are intended for external consumption. If you'd like to denote that an issue will be completed within a fiscal quarter use the month or GitLab release number for the last month in the fiscal quarter. E.g. use `12.4 (2018-10-22)` instead of `FY20-Q3`. The issue can always be moved up in date and users/customers will seldom complain when functionality ships earlier than expected.
 
-#### Planning is indispensable but don't follow the plan
+#### Planning is indispensable but adjust, iterate, and create value every milestone
 
 Creating a thoughtful direction for your section, stage, or category is a useful thought exercise that can help focus efforts, aid in prioritization, and get large groups of people on the same page. But beware of simply executing your long term plan. Our industry is incredibly dynamic, and we learn new things every day that can and should cause us to re-think our long term plans. Stay focused on creating value each and every milestone, and be quick to adjust your longer term plans as you learn more.
 
@@ -1527,7 +1613,9 @@ sufficient context.
 
 We recently [conducted a GTM and R&D sensing mechanism survey](https://gitlab.com/gitlab-com/Product/-/issues/1540) to get an understanding of how team members valued the sensing mechanisms listed below. We calculated this value by multiplying their responses (1-5) for how efficient they felt a sensing mechanism was by how their responses (1-4) for how effective they felt the sensing mechanism was. We've ranked the below lists by the average value from all respondents.
 
-User
+##### Sensing Mechanisms by Type
+
+###### User
 
 1. Asking probing questions in customer discovery meetings
 1. Engaging with our community alongside our [Community Advocates](/handbook/marketing/community-relations/community-advocacy/) and [triaging](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#issue-triaging) community generated issues and ideas
@@ -1537,7 +1625,7 @@ User
 1. A summary of previous user interviews can be found under the [User interview project](https://gitlab.com/gitlab-com/user-interviews)
 1. All UX Research is being transcribed in [Dovetail](https://dovetailapp.com/)
 
-Buyer
+###### Buyer
 
 1. Asking probing questions in sales support meetings
 1. Reviewing [Top ARR Drivers](#top-arr-drivers)
@@ -1548,7 +1636,7 @@ Buyer
 1. Reviewing Win/Loss reports
 1. Learn about [customer health data](https://www.gainsight.com/) using Gainsight built on salesforce, managed by the Customer Success team
 
-Market
+###### Market
 
 1. Maintaining [competitive](/handbook/marketing/strategic-marketing/competitive/) and [market assessments](#analyst-engagement). Checkout this [great video](https://www.youtube.com/watch?v=Um9teDD6jt8&feature=youtu.be&t=300) discussing competitive analysis for Product Managers at Product League with GitLab's Orit Golowinski.
 1. Monitoring and maintaining missing [features](/features/) in your category epics (competitive landscape section)
@@ -1556,12 +1644,28 @@ Market
 1. Subscribing to your competitor's blogs to be aware of what they are releasing will help you here
 1. Reviewing relevant [analyst reports](/handbook/marketing/strategic-marketing/analyst-relations/#accessing-analyst-reports)
 
-Internal
+###### Internal
 
 1. Leadership [OKRs](/company/okrs/) set the direction for the company
 1. Each PM should be having regular conversations with their [stage groups stable counterparts](/handbook/product/categories/) to discuss their strategy and plan. Share this discussion with the company via our GitLab Unfiltered [YouTube](/handbook/communication/youtube/) channel. PMs should share your next three milestones, year-long plan, strategy, and relevant OKRs (with status) so everyone can contribute feedback.
 
 1. Dialogue with [internal customers](#dogfood-everything), and review of the [internal customer](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=internal%20customer) and [rebuild in GitLab](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=rebuild%20in%20GitLab) labels
+
+##### Sensing Mechanism for Product Leaders
+
+Many of the sensing mechanisms described are directly relevant to individual product managers performing regular product group prioritization. There are also a set of unique sensing mechanisms that act as summaries for [Product Leadership](/handbook/product/product-leadership/).
+
+- Attending [QBRs](/handbook/sales/qbrs/) and consuming QBR summaries/highlights
+- Reviewing [Top ARR Drivers](#top-arr-drivers)
+- Consuming [weekly opportunity review highlights](#opportunity-reviews)
+- Regularly reviewing validation track activities ([example](https://about.gitlab.com/direction/ops/#current-validation-track-initiatives))
+- Quarterly cross-section [direction](#section-and-stage-direction) reviews
+- Consuming [competitive and market content review](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Product-Competitive-Content.md) highlights
+- Speaking directly with users via [PNPS responder outreach](#pnps-responder-outreach)
+- Reviewing relevant [analyst reports](/handbook/marketing/strategic-marketing/analyst-relations/#accessing-analyst-reports)
+- Meeting with analysts to confirm direction and vision of section and stages
+- Reviewing [Performance Indicators](https://internal-handbook.gitlab.io/product/performance-indicators/) for trend shifts and changes
+- Paying regular attention to competitive wins and losses
 
 #### Managing Upcoming Releases
 
@@ -1735,6 +1839,10 @@ A [Design Sprint](https://www.gv.com/sprint/), is a 5-day process used to answer
 
 As an all-remote company we run [Remote Design Sprints (RDS)](/handbook/engineering/ux/design-sprint/). Check out our [guidelines for running an RDS](/handbook/engineering/ux/design-sprint/#when-to-opt-for-a-remote-design-sprint) to determine if it's the right approach for the problem at hand.
 
+#### Spikes 
+
+If your faced with a very large or complex problem, and it's not clear how to most efficiecntly iterate towards the desired outcome, consider working with your engineers to build an experimental [spike solution](http://www.jamesshore.com/v2/books/aoad1/spike_solutions). This process is also sometimes referred to as a "technical evaluation." When conducting a spike, the goal is write as little code within the shortest possible timeframe to provide the level of information necessary the team needs to determine how to best proceed. At the end of the spike, code is usually discarded as the original goal was to learn, not build production-ready solutions. This process is particularly useful for major refactors and creating[architecture blueprints](https://about.gitlab.com/handbook/engineering/architecture/workflow/). 
+
 #### Other Best Practice Considerations
 
 Consider the following to improve iteration:
@@ -1751,7 +1859,7 @@ Consider the following to improve iteration:
 
 ### Issue Reviews
 
-Issue reviews are an **optional step** in the [product development flow](/handbook/product-development-flow/#outcomes-and-activities-4) that brings peer PMs in to help you hone your skills at _iteration_, _clarity_, and _strategy_. Keeping issues small and iterative is core to how GitLab maintains [velocity](/handbook/engineering/#the-importance-of-velocity),
+Issue reviews are an **optional step** in the [product development flow](/handbook/product-development-flow/#outcomes-and-activities-4) that brings peer PMs in to help you hone your skills at _iteration_, _clarity_, and _strategy_. Keeping issues small and iterative is core to how GitLab maintains [velocity](/handbook/engineering/principles/#the-importance-of-velocity),
 writing a "small" issue is often (counterintuitively) more difficult than writing a bigger one, and understanding the _entire strategy_ of how GitLab operates is a herculean task. Having a helping hand with these tasks is important to professional development, and it ensures that our entire product organization continues to improve.
 
 You should consider requesting a review when:
@@ -1857,7 +1965,7 @@ to better understand their pain points.
 
 As a PM you should facilitate opportunities for your engineering group to hear
 directly from customers too. Try to schedule customer meetings at times that
-are friendly to your group, invite them, and send them the recording and notes.
+are friendly to your group, invite them, and send them the recording and notes.  If you're looking for other ways to engage with customers here is a video on [finding, preparing for, and navigating Customer Calls as a Product Manager at GitLab](https://www.youtube.com/watch?v=HyVR_ybRkCY).
 
 ##### Sales Support Meetings
 
@@ -2106,24 +2214,34 @@ Don't forget to thank the authors for the time and effort taken to submit the
 feature request/merge request. In all cases and without exception, you should be
 nice and polite when interacting with users and customers.
 
-### Assesing opportunities
+##### Reaching out to specific users or accounts based on GitLab usage 
+
+In some cases, you may want to interview a specific account because they are exhibiting atypical usage patterns or behaviors. Once you have identified a specific customer, open a [support issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Contact%20Request), using the `Contact Request` template. After the issue is filled out, ping the CMOC in an issue comment to make them aware of the issue. You can find the [CMOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) by opening a direct message with "@GitLab Chatops" in Slack and running `/chatops run oncall cmoc`. This [issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/10704) is an example of a contact request in action.
+
+If it is the weekend, and the contact request is urgent as a result of an action that might affect a users' usage of GitLab, [page the CMOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#how-to-engage-the-cmoc)
+
+### Assessing opportunities
 
 #### Opportunity Canvas
 
-One of the primary artifacts of the validation track is the Opportunity Canvas. The Opportunity Canvas introduces a lean product management philosophy to the validation track by quickly iterating on level of confidence, hypotheses, and lessons learned as the document evolves. At completion, it serves as a concise set of knowledge which can be transferred to the relevant issues and epics to aid in understanding user pain, business value, and the constraints to a particular problem statement. Just as valuable as a completed Opportunity Canvas is an incomplete one. The tool is also useful for quickly invalidating ideas. A quickly invalidated problem is often **more valuable** than a slowly validated one.
+One of the primary artifacts of the validation track is the Opportunity Canvas. The Opportunity Canvas introduces a lean product management philosophy to the validation track by quickly iterating on level of confidence, hypotheses, and lessons learned as the document evolves. At completion, it serves as a concise set of knowledge which can be transferred to the relevant issues and epics to aid in understanding user pain, business value, the constraints to a particular problem statement and rationale for prioritization. Just as valuable as a validated Opportunity Canvas is an invalidated one. The tool is also useful for quickly invalidating ideas. A quickly invalidated problem is often **more valuable** than a slowly validated one.
 
 Please note that an opportunity canvas is not required for product functionality or problems that already have well-defined [jobs to be done (JTBD)](/handbook/engineering/ux/ux-resources/#jobs-to-be-done-jtbd). For situations where we already have a strong understanding of the problem and its solution, it is appropriate to skip the opportunity canvas and proceed directly to solution validation. It might be worth using the opportunity canvas template for existing features in the product to test assumptions and current thinking, although not required.
 
-Opportunity canvases are a great tool to compare and prioritize multiple, competing product directions. An opportunity canvas review should preferably present 2-4 canvases and the review might be about validating the prioritization of the different directions. As canvases are being prepared, feel free to drop some of the opportunities without ever reviewing them with product leaders, you can still reference them during a review if needed.
+##### Comparative Opportunity Review
+
+As a product with a significant breadth, opportunity canvases serve as a great tool to compare and prioritize multiple, competing product directions. It is as important what we do not build as what we build. An opportunity canvas review should preferably present 2-4 canvases and the review might be about validating the prioritization of the different directions. As canvases are being prepared, feel free to drop some of the opportunities without ever reviewing them with product leaders, you can still reference them during a review if needed.
+
+##### Reviews 
 
 Reviewing opportunity canvases with leadership provides you with an opportunity to get early feedback and alignment on your ideas. To schedule a review:
 
-1. Contact the Chief Product Officer's EBA to schedule a 25 minute meeting.
+1. Contact the Chief Product Officer's EBA to schedule a 25 minute meeting. Let the EBA know if you are scheduling a comparative or singular Opportunity Review
 1. The Chief Product Officer, VP of Product and VP of UX should be included as required attendees.
 1. The Product Section Leader, Direct Manager, UX counterpart and Product Operations should be included as optional attendees.
-1. Complete the Opportunity Canvas at least one business day before the meeting to give attendees an opportunity to review content.  The attendees will review the canvas in advance and will add questions directly to the canvas document.
-1. When the Opportunity Canvas is complete, inform the meeting participants by tagging them in a post in Slack #product. Include a direct link to the Opportunity Canvas.  
-1. During the review, feel free to present anything you'd like, but it's also fine to go straight to Q&A since the attendees should have reviewed the canvas in advance.
+1. Complete the Opportunity Canvas(es) at least one business day before the meeting to give attendees an opportunity to review content.  The attendees will review the canvas(es) in advance and will add questions directly to the canvas document(s).
+1. When the Opportunity Canvas(es) is complete, inform the meeting participants by tagging them in a post in Slack #product. Include a direct link to the canvases.  
+1. During the review, feel free to present anything you'd like. For comparative reviews it's helpful to start with your proposal for which Opportunity to pursue first. For singular reviews it's fine to go straight to Q&A since the attendees should have reviewed the canvas in advance.
 
 **References**:
 
@@ -2204,7 +2322,7 @@ Each quarter we want to reach out to [PNPS](/handbook/product/performance-indica
 #### Process for reaching out to users
 
 1. Calendly is the best method for scheduling users. [Set up your free Calendly account](https://calendly.com/signup) if you haven't done so. Add details to the invite description describing yourself and the conversation purpose. Also add your personal Zoom link, either via connecting your Zoom account or pasting in your personal Zoom URL.
-1. You'll need to add two extra questions to the invite form in order to ask for consent to record, example below. Please use these questions as written in the example as they closely mirror the content that has been validated by the UX Research Team. [See example of a Calendly invite](https://calendly.com/jeffcrow/npsfollowupexample) you can use as a reference.
+1. You'll need to add two extra questions to the invite form in order to ask for consent to record, example below. Please use these questions as written in the example as they closely mirror the content that has been validated by the UX Research Team. 
 1. Draft an email that you'll send to users. Example copy is below. You can re-phrase things as you wish but make sure you still cover the same points as the example.
 1. **BE ON TIME TO YOUR CALL**. Better yet, be 2 minutes early. Be ready to coach people through getting Zoom to work properly. Make sure everyone on the call introduces themselves.
 1. If people have agreed to recording, still ask them once again if it's OK if you record before turning it on. Obviously do not record people that did not give consent.
@@ -2467,7 +2585,7 @@ Feature issues identify work to support the implementation of a feature and/or r
 - Whether the code results in user facing updates or not, if it is part of building the feature it should be labelled as such.
 - Performance improvements and user interface enhancements improve the experience for end users and should be labelled as `~"type::feature"`.
 - API additions including both REST and GraphQL should also be labelled as `~"type::feature"`.
-- If people care about a missing feature, then ideally the issue should be marked as `~"Accepting merge requests"`
+- If people care about a missing feature and the solution is clear, the issue should be marked as `~"Seeking community contributions"`.
 
 ##### Bug issues
 
@@ -2727,8 +2845,3 @@ The primary goals of including span of control guidance are:
 1. Align on our high-level ideal structure
 2. To ensure we're set up for scale from an organizational perspective as we continue to grow at GitLab
 3. Help identify any gaps/need for additional headcount in order to scale efficiently
-
-
-
-
-

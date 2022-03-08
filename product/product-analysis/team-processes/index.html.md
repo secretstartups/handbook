@@ -9,38 +9,6 @@ title: Team Processes
 - TOC
 {:toc}
 
-## Gearing Ratios
-
-At GitLab, we use gearing ratios as [Business Drivers](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) 
-to forecast long term financial goals by function. The Product Analysis group currently focuses 
-on one gearing ratio: Product Managers per Product Analyst. In the future, we may consider other 
-ratios (ex: Active Experiments per Product Analyst), but for the moment we are focussing on the 
-PM:Product Analyst ratio.
-
-### Targets
-
-The long-term target for the Product Managers per Product Analyst ratio is 3:1. The ability of 
-PMs to self-serve on day-to-day questions and activities is a critical component to finding 
-success at this ratio, and finding the best tool is a focus of the R&D Fusion Team in FY22 Q3-Q4. 
-In addition, we want to ensure that analysts are not spending more time context switching 
-(changing from one unrelated task to another) and learning the nuances of different data sets 
-then they are actually conducting analysis. We want our product analysts to spend their time 
-answering complex questions, developing or improving metrics, and making business-critical 
-recommendations.
-
-In order to validate our target ratio, we looked at the practices of other large product 
-organizations, including Linkedin, Intuit, HubSpot, Squarespace, iHeartRadio, and Peloton 
-Digital. We found that most maintained a ratio of 1.5-3 PMs per product analyst, in addition to 
-a self-service tool. As such, we feel comfortable setting a target of 3 PM:1 Product Analyst ratio.
-
-### Closing the Gap
-
-The current PM:Product Analyst ratio is ~10:1 - 40 IC product managers (including current openings) 
-and 4 product analysts (3 ICs and 1 IC/Manager hybrid). We plan to hire 4 more analysts by 
-the end of 2022, which would bring the ratio to 5:1 (assuming the PM head count remains the same). 
-As we work to close the gap and move towards to the 3:1 target, we encourage PMs to leverage 
-[office hours](/handbook/product/product-analysis/#office-hours).
-
 ## Issue Hygiene
 
 ### Must-Haves
@@ -205,7 +173,96 @@ conversation on Slack, discussion in meeting, etc)
   If there are outstanding questions or follow-ups, they can be moved to a new issue and linked
 * Open new issue with next steps or follow-ups and link to original issue (if applicable)
 
+## Team Velocity Calculations
+
+The Product Analysis team uses two different measures of completed work to determine velocity, 
+one based in work done on issues completed during an iteration (Completed Issue Weight), and 
+one based on the volume of work that was done (even if the issue was not closed out) (Total 
+Issue Weight). In both cases, we use Analyst Working Days as the denominator.
+
+**Completed Issue Velocity**
+
+This is the more tradition velocity calculation outlined in on our [main handbook page](/handbook/product/product-analysis/#velocity). 
+It is tied exclusively to work done on issues closed during an iteration and does not account 
+for work on issues rolling over to the next iteration.
+
+`Completed Issue Velocity = Completed Issue Weight / Analyst Working Days`
+
+* "Completed issue weight" is defined as the sum of all work done on issues that were completed 
+during the iteration.
+
+**Total Issue Velocity**
+
+This is a less traditional adaptation of velocity and is used as an internal team metric. It is 
+intended to capture _all_ work done by analysts during an iteration, even if the issue is not 
+closed out. Given the nature of our work, it is not uncommon for issues to roll over to the next 
+iteration, especially as [unplanned work](/handbook/product/product-analysis/team-processes/#unplanned-work) 
+comes up and shifts priorities. This version of velocity controls for those larger projects or 
+work that is started mid-iteration.
+
+`Total Issue Velocity = Total Issue Weight / Analyst Working Days`
+
+* "Total issue weight" is defined as the sum of all work done during the iteration, including 
+work on partially-completed issues.
+
+Here are two examples:
+
+1. An analyst starts an 8-point issue towards the end of an iteration and completes about a half 
+day (3 points) worth of work.
+  1. 0 points are counted towards Completed Issue Velocity
+  1. 3 points are counted towards Total Issue Velocity
+1. In the next iteration, the analyst completes the remaining 5 points of work on the issue they 
+began in the previous iteration.
+  1. 5 points are counted towards Completed Issue Velocity
+  1. 5 points are counted towards Total Issue Velocity
+
 ## Style Guidelines
 
 The Product Analysis group follows the Data team's [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/) 
 and best practices.
+
+## Team Meetings
+
+1. Weekly Growth Team Meeting
+  1. See [Growth handbook](/handbook/product/growth/#weekly-growth-meeting) for details
+1. Weekly Growth PM- Product Analysis Sync
+  1. See [Growth handbook](/handbook/product/growth/#other-regular-growth-meetings) for details
+1. Weekly Product Analysis Knowledge Share & Iteration Planning
+  1. Attendees: Product Analysis team
+  1. Goals: Weekly knowledge share and collective brainstorming. Every other week the meeting is 
+  extended to do iteration planning.
+  1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:%22Product%20Analytics%20Knowledge%20Share%20%26%20Iteration%20Planning%22)
+1. Product Analysis Office Hours
+  1. See [main Product Analysis handbook page](/handbook/product/product-analysis/#office-hours)
+
+## Gearing Ratios
+
+At GitLab, we use gearing ratios as [Business Drivers](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) 
+to forecast long term financial goals by function. The Product Analysis group currently focuses 
+on one gearing ratio: Product Managers per Product Analyst. In the future, we may consider other 
+ratios (ex: Active Experiments per Product Analyst), but for the moment we are focussing on the 
+PM:Product Analyst ratio.
+
+### Targets
+
+The long-term target for the Product Managers per Product Analyst ratio is 3:1. The ability of 
+PMs to self-serve on day-to-day questions and activities is a critical component to finding 
+success at this ratio, and finding the best tool is a focus of the R&D Fusion Team in FY22 Q3-Q4. 
+In addition, we want to ensure that analysts are not spending more time context switching 
+(changing from one unrelated task to another) and learning the nuances of different data sets 
+then they are actually conducting analysis. We want our product analysts to spend their time 
+answering complex questions, developing or improving metrics, and making business-critical 
+recommendations.
+
+In order to validate our target ratio, we looked at the practices of other large product 
+organizations, including Linkedin, Intuit, HubSpot, Squarespace, iHeartRadio, and Peloton 
+Digital. We found that most maintained a ratio of 1.5-3 PMs per product analyst, in addition to 
+a self-service tool. As such, we feel comfortable setting a target of 3 PM:1 Product Analyst ratio.
+
+### Closing the Gap
+
+The current PM:Product Analyst ratio is ~8:1 - 40 IC product managers (including current 
+openings) and 5 product analysts (4 ICs and 1 IC/Manager hybrid). We plan to hire more analysts 
+by the end of 2022, which would bring the ratio closer to 5:1 (assuming the PM head count remains 
+the same). As we work to close the gap and move towards to the 3:1 target, we encourage PMs to 
+leverage [office hours](/handbook/product/product-analysis/#office-hours).

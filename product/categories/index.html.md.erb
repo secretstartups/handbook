@@ -85,7 +85,7 @@ When naming a new stage, group, or category, you should search the handbook and 
 
 #### More Details
 
-Every category listed on this page must have a link to a direction page. Categories may also have documentation and marketing page links. When linking to a category using the category name as the anchor text (e.g. from the chart on the homepage) you should use the URLs in the following hirearchy:
+Every category listed on this page must have a link to a direction page. Categories may also have documentation and marketing page links. When linking to a category using the category name as the anchor text (e.g. from the chart on the homepage) you should use the URLs in the following hierarchy:
 
 Marketing product page > docs page > direction page
 
@@ -93,8 +93,16 @@ E.g Link the marketing page. If there's no marketing page, link to the docs. If 
 
 #### Solutions
 
-[Solutions](#solutions) can consist of multiple categories as defined on this
-page, but there are also other ones, for example industry verticals. Solutions typically represent a customer challenge, how GitLab capabilities come together to meet that challenge, and business benefits of using our solution.
+[Solutions](https://about.gitlab.com/handbook/use-cases/) can consist of multiple categories and are typically used to align to a customer challenge (e.g. the need to reduce security and compliance risk) or to market segments defined by analysts such as Software Composition Analysis (SCA). Solutions are also often used to align to challenges unique to an industry vertical (e.g. financial services), or to a sales segment (e.g. SMB vs Enterprise). 
+
+Solutions typically represent a customer challenge, and we define how GitLab capabilities come together to meet that challenge, with business benefits of using our solution.
+
+Market segments defined by analysts don't always align to GitLab stages and categories and often include multiple categories. Two most frequently encountered are:
+
+1. Software Composition Analysis (SCA) = Dependency Scanning + License Compliance + Container Scanning
+1. Enterprise Agile Planning (EAP) = Team Planning + Planning Analytics + Portfolio Management + Requirements Management
+
+We are [intentional in not defining SCA as containing SAST and Code Quality](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/26897#note_198503054) despite some analysts using the term to also include those categories.
 
 #### Capabilities
 
@@ -159,10 +167,10 @@ Merge requests with
 need to be created, approved, and/or merged by each of the below:
 
 1. Chief Product Officer
-1. VP of Product Management
-1. The Director of Product relevant to the stage group(s)
-1. The Director of Engineering relevant to the stage group(s)
-1. CEO
+1. VP of Product
+1. The Director of Product relevant to the affected Section(s)
+1. The Director of Engineering relevant to the affected Section(s)
+1. Director of Product Design
 
 The following people need to be on the merge request so they stay informed:
 
@@ -173,13 +181,13 @@ The following people need to be on the merge request so they stay informed:
 1. The Product Marketing Manager relevant to the stage group(s)
 1. Senior Manager, Technical Writing
 
-After approval and before merging, obtain final confirmation from the Engineering Manager for Quality Engineering before proceeding with changes that:
+After approval and prior to merging, ping the Engineering Manager for Quality Engineering  in the MR, if there are changes that:
 
-- Adds a new category, group or stage
-- Moves an existing category to a new or existing group
-- Moves an existing group to a new or existing stage
-- Renames a group or stage
-- Deletes a group or stage
+- Add a new category, group or stage
+- Move an existing category to a new or existing group
+- Move an existing group to a new or existing stage
+- Rename a group or stage
+- Delete a group or stage
 
 This is to ensure that [GitLab Bot auto-labeling](/handbook/engineering/quality/triage-operations/#auto-labelling-of-issues) can be updated prior to the change, which can be [disruptive if missed](https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/467#note_337325686).
 
@@ -200,6 +208,17 @@ Changes that require approval only from the relevant Product Director include:
 - Changing a category maturity date
 - Changes to section or group member lists
 - Changes to a category vision page
+
+### Changing category name
+
+When changing an existing category name, there are some considerations to the order of events:
+
+- First, create a MR to change the name in [`data/stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml) and `spec/homepage/category_spec.rb`.
+- Get sign off from all required stakeholders listed in the instructions above. Final signoff should be requested in the #ceo channel with a link to the MR once all other signoffs are complete.
+- Merge the name change MR.
+- Tag the category's technical writer so that they can update the documentation metadata
+- Re-name the category [direction page](https://about.gitlab.com/direction/) with a new MR. Search for the old category name on the category direction page to ensure the name has been updated in all places.
+- Use the `#it-help` Slack channel to request an update to Slack channel name for the re-named category
 
 ### Changing category maturity
 
@@ -240,16 +259,6 @@ Not all categories are at the same level of maturity. Some are just minimal and
 some are lovable. See the [category maturity page](/direction/maturity/) to see where each
 category stands.
 
-## Solutions
-
-GitLab also does the things below that are composed of multiple categories.
-
-1. Software Composition Analysis (SCA) = Dependency Scanning + License Compliance + Container Scanning
-1. Enterprise Agile Planning (EAP) = Team Planning + Planning Analytics + Portfolio Management + Requirements Management
-
-We are [intentional in not defining SCA as containing SAST and Code Quality](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/26897#note_198503054) despite some analysts using the term to
-also include those categories.
-
 ## Other functionality
 
 This list of other functionality so you can easily find the team that owns it.
@@ -269,12 +278,6 @@ Maybe we should make our features easier to search to replace the section below.
 - Real-time features (excluding [real-time collaboration](https://about.gitlab.com/handbook/engineering/incubation/real-time-collaboration/))
 
 ### Other functionality in [Create](/handbook/product/categories/#create-stage) stage
-
-#### [Source Code group](/handbook/product/categories/#source-code-group)
-
-- [Repository Mirroring](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html)
-- SSH git operations ([gitlab-shell](https://gitlab.com/gitlab-org/gitlab-shell))
-- [gitlab-workhorse](https://gitlab.com/gitlab-org/gitlab-workhorse)
 
 #### [Code Review group](/handbook/product/categories/#code-review-group)
 
@@ -323,7 +326,7 @@ Maybe we should make our features easier to search to replace the section below.
 
 ### Other functionality in [Manage](/handbook/product/categories/#manage-stage) stage
 
-#### [Access group](/handbook/product/categories/#access-group)
+#### [Authentication and Authorization group](/handbook/product/categories/#authentication--authorization-group)
 <%#
     TODO: Add link to SpamCheck blog post once published: https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12155
     See also: https://gitlab.com/gitlab-com/gl-security/security-communications/communications/-/issues/368
@@ -331,6 +334,8 @@ Maybe we should make our features easier to search to replace the section below.
 - Spam protection and CAPTCHA integration, not including [SpamCheck](/handbook/engineering/security/security-engineering-and-research/application-security/#spamcheck)
 
 ### Other functionality in [Ecosystem](/handbook/product/categories/#ecosystem-stage) stage
+
+#### [Integrations group](/handbook/product/categories/#integrations-group)
 - REST API foundational code
 - GraphQL API foundational code
 - Jira Importer
@@ -342,7 +347,7 @@ Maybe we should make our features easier to search to replace the section below.
 
 #### [Anti-Abuse group](/handbook/product/categories/#anti-abuse-group)
 
-- [Pipeline Abuse Prevention](/direction/modelops/anti-abuse/pipeline_abuse_prevention/)
+- [Pipeline Abuse Prevention](/direction/modelops/anti-abuse/instance_resiliency/#pipeline-abuse-prevention)
 
 
 ### Facilitated functionality

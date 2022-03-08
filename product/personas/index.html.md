@@ -28,7 +28,7 @@ We are iterating on updates to buyer personas on this [Buyer Persona](/handbook/
 
 User personas are people who actually use GitLab. They may or may not be the person in
 the organization who has the authority and budget to purchase GitLab, but they
-are heavy influencers in the buying process. Users personas are created from data gathered from UX research studies.
+are heavy influencers in the buying process. Users personas are created from data gathered from UX research studies. If a new user persona is needed, or an existing persona has to be updated, see our handbook guide on [How to Create a User Persona](/handbook/engineering/ux/persona-creation/index.html).
 
 #### How do user personas interact?
 
@@ -59,14 +59,14 @@ We describe the following personas in terms of the jobs they do, their motivatio
   1. [Delaney, Development Team Lead](/handbook/product/personas/#parker-product-manager)
   1. [Presley, Product Designer](/handbook/product/personas/#presley-product-designer)
   1. [Sasha, Software Developer](/handbook/product/personas/#sasha-software-developer)
-  1. [Devon, DevOps Engineer](/handbook/product/personas/#devon-devops-engineer)
+  1. [Priyanka, Platform Engineer](/handbook/product/personas/#priyanka-platform-engineer)
   1. [Sidney, Systems Administrator](/handbook/product/personas/#sidney-systems-administrator)
   1. [Sam, Security Analyst](/handbook/product/personas/#sam-security-analyst)
   1. [Rachel, Release Manager](/handbook/product/personas/#rachel-release-manager)
   1. [Alex, Security Operations Engineer](/handbook/product/personas/#alex-security-operations-engineer)
   1. [Simone, Software Engineer in Test](/handbook/product/personas/#simone-software-engineer-in-test)
   1. [Allison, Application Ops](/handbook/product/personas/#allison-application-ops)
-  1. [Priyanka, Platform Engineer](/handbook/product/personas/#priyanka-platform-engineer)
+  1. [Ingrid, Infrastructure Operator](/handbook/product/personas/#ingrid-infrastructure-operator)
   1. [Dakota, Application Development Director](/handbook/product/personas/#dakota-application-development-director)
 
 
@@ -172,6 +172,7 @@ I spend the majority of my time focused on completing planned development tasks,
 - When I’m on-call, I want to be the expert on some part of the system, so I know that I’m a valuable part of the team.
 - When collaborating with a large number of developers, I want to see a record of everyone’s changes, so we can pinpoint and unwind mistakes.
 - When I’m pairing with my teammates, I want to learn new tools and skills, so I can keep growing in my career.
+- When I'm making changes, I want to deliver secure and performant code, so I can ensure the integrity of my organization's software is not compromised.
 
 ##### Frustrations
 
@@ -180,13 +181,15 @@ I spend the majority of my time focused on completing planned development tasks,
 - I’m frustrated when I come across brittle code and something that should be an easy fix requires a lot of rework.
 - I’m concerned that by taking longer than expected on a task I may be judged or seen as blocking others’ work.
 
-#### Devon (DevOps Engineer)
+#### Priyanka (Platform Engineer)
 
-- **Alternative Job Titles:** Application Developer, Operations Engineer, Systems Engineer, IT Consultant
+- **Alternative Job Titles:** DevOps Engineer, Operations Engineer, Systems Engineer, IT Consultant
 
 ##### Job Summary
 
-I provide support for our infrastructure, environments, and integrations. A part of my job is to provide the pipeline definitions and CI templates for other teams to work with so the software delivery process is streamlined across organization. I split my time between coding to implement features and bug fixes, and helping developers deploy, build, and release as efficiently as possible.
+My job is to enable the developers to focus on the business code only. To achieve my goal, I write pipeline definitions, deployment templates, CLI tooling to be used by development teams, so the software delivery process is streamlined across organization. Beside building out these features and fixing potential bugs, I educate and support the development teams around topics related to our pipelines or target infrastructures, so they can build, deploy, and release as efficiently as possible.
+
+Depending on the organization and/or need of the development teams, I am part of a central platform team or a member of an application development team.
 
 ##### Motivations
 
@@ -407,25 +410,30 @@ I have responsibility for ensuring the application I own is accessible and perfo
 
 I want to make sure that deployments to production happen automatically, and I have detailed and real-time insight into what is happening with my deployed applications.
 
-##### Note
+#### Ingrid (Infrastructure Operator)
 
-This persona is part of an [ongoing UX Research project](https://gitlab.com/gitlab-org/ux-research/issues/654).
-
-#### Priyanka (Platform Engineer)
+- **Alternative Job Titles:** Systems Engineer, Database Administrator, Infrastructure Engineer, Site Availability Engineer, Site Reliability Engineer, System Administrator
 
 ##### My Role
 
-I have responsibility for providing, maintaining and operating a shared modern cloud platform which my application development teams utilize to develop, test, ship and operate software more quickly. My team is increasingly being asked to [manage our cloud platform like a product - internal](https://drive.google.com/file/d/1nKwj_zNwP-kjgrQni0mwFI2X1nqJCg4C/view).
+I have responsibility for providing, maintaining and operating the shared infrastructure which my application development teams utilize to develop, test, ship and operate software more quickly.
 
 ##### Jobs to be done
 
-- Increase the velocity and effectiveness for the application development teams.
-- Empower developers with self-service capabilities/tools so they can easily provision, configure, monitor, and decommission tiered environments as needed without requiring a third party to get involved.
-- Architect, maintain and migrate towards the best infrastructure solution for cost optimisation, availability and the needs of the organisation.
+- When I set up new infrastructure, I want to do it in a programmable way, so others can review my changes and we can repeat the steps if needed.
+- When I own an infrastructure resource, I want to keep it up to date with security patches, so I can sleep well at night.
+- When I own an infrastructure resource, I want to assure that it serves its purpose well, so I fulfill my SLAs.
+- When I own an infrastructure resource, I want to be mindful about its costs, so that I can run it within budget.
+- When I support developers, I want to automate the integration points, so I will not become a bottleneck in their processes.
+- When I’m on-call, I want to receive tiered notifications, so that the true emergencies don’t get lost in the noise.
+- When I’m releasing an improvement, I want no one to notice, so I know that it has gone smoothly.
 
-##### Note
+##### Frustrations
 
-This persona is part of an [ongoing UX Research project](https://gitlab.com/gitlab-org/ux-research/-/issues/773).
+- I'm frustrated by the large volume of reactive work that I face.
+- I'm frustrated by the number of channels (email, Skype, SMS, Slack, pager) on which I receive on-call notifications.
+- I'm frustrated when I get inundated by requests from people who have not followed the correct process.
+- I'm frustrated when developers do not implement my recommendations, and I’m responsible for fixing their preventable problems anyway.
 
 #### Dakota (Application Development Director)
 

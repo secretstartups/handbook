@@ -243,7 +243,7 @@ hidden costs.
 
 #### Overt cost
 
-The overt cost of paying for [licensing and support of multiple tools](/calculator/roi/replace/) is
+The overt cost of paying for [licensing and support of multiple tools](/calculator/roi/) is
 higher than a single application. A single application can charge less because its fixed costs are distributed
 across the functionality, whereas separate vendors each need to pay those costs themselves for each of their solutions.
 

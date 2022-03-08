@@ -7,7 +7,7 @@ title: "Product README's"
 
 - [Scott Williamson's README](scott-williamson.html)
 - [Kevin Chu's README](https://gitlab.com/kbychu/README)
-- [Kenny Johnston's README](https://gitlab.com/kencjohnston/README)
+- [Kenny Johnston's README](https://gitlab.com/kencjohnston/kencjohnston)
 - [Jackie Porter's README](https://gitlab.com/jreporter/read-me#jackie-porters-readmemd)
 - [Sarah Waldner's README](https://gitlab.com/sarahwaldner/README)
 - [Orit Golowinski's README](https://gitlab.com/ogolowinski/readme/) 
