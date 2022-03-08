@@ -186,8 +186,8 @@ Exceptional community members may be able to participate, as well.
 | 2022-04-25 | 2022-04-29 | AVAILABLE - REMOTE | [David Egan](https://gitlab.com/degan)- Sr. Marketing Data Analyst |
 | 2022-05-02 | 2022-05-06 | [Bronwyn Barnett](https://gitlab.com/BronwynBarnett) - Privacy and Product Paralegal | AVAILABLE - REMOTE |
 | 2022-05-09 | 2022-05-13 | [Hannah Sutor](https://gitlab.com/hsutor) - Sr. Product Manager | [Bronwyn Barnett](https://gitlab.com/BronwynBarnett) - Privacy and Product Paralegal |
-| 2022-05-16 | 2022-05-20 | AVAILABLE - REMOTE | [Hannah Sutor](https://gitlab.com/hsutor) - Sr. Product Manager |
-| 2022-05-23 | 2022-05-27 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-05-16 | 2022-05-20 | [Cristal McClure](https://gitlab.com/cmcclure1) - Sr. FP&A Analyst | [Hannah Sutor](https://gitlab.com/hsutor) - Sr. Product Manager |
+| 2022-05-23 | 2022-05-27 | AVAILABLE - REMOTE | [Cristal McClure](https://gitlab.com/cmcclure1) - Sr. FP&A Analyst |
 | 2022-05-30 | 2022-06-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-06-06 | 2022-06-10 | [Vic Brew](https://gitlab.com/vbrew) Inside Sales Representative | AVAILABLE - REMOTE |
 | 2022-06-13 | 2022-06-17 | AVAILABLE - REMOTE | [Vic Brew](https://gitlab.com/vbrew) Inside Sales Representative |
