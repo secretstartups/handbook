@@ -164,11 +164,6 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 * **Seller Deficit Disorder (Material - Sales Collateral - 15 Minutes - Pre Work)**
    - Please read this [short document](https://drive.google.com/file/d/1heCPCI9bT1sc05Xj0hrp8BJrlzMc8VEc/view?usp=sharing) by Force Management to prepare for the Command of the Message training in Sales Quick Start.
 *  **[Co-Selling with Partners](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1316397) (Course - 30 Minutes - Pre Work)**
-*  **GitLab Sales Operating Procedures**
-    - **[Engage & Educate the Customer](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472304)** **(Material - Handbook - 10 minutes)**
-    - **[Facilitate The Opportunity](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472305)** **(Material - Handbook - 10 minutes)**
-    - **[Deal Closure](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472306)** **(Material - Handbook - 10 minutes)**
-    - **[Retain and Expand](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472312)** **(Material - Handbook - 10 minutes)**
 *  **Social Selling 101 ( Material - Video - 20 Minutes)**
    - Social selling is the art of using social networks to find, connect with, and nurture your customers and prospects. Watch the [video](https://www.youtube.com/watch?v=w-C4jts-zUw) and use this [guide](https://drive.google.com/open?id=1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A&authuser=0) to learn how to make a profile that will resonate with your prospects.
 *  **[QUESTION: Business Development](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1470149) (Assignment - 15 Minutes - 10 Points - Pre Work)**
@@ -180,23 +175,9 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 
 <details>
-<summary markdown="span">7. Sales Action and Role Plays</summary> 
+<summary markdown="span">7. Our Competition</summary> 
 
-### 7. Sales Action and Role Plays
-*  **ACTIVITY: Buyer Brief: Role Play Scenario (Assignment - 30 Minutes - 10 Points - Pre Work)**
-   - You've got the money and the power, you're the buyer! Create your own business, or use an account you're currently working on to role play as the buyer with a partner. Once completed, please share the [attached document](https://docs.google.com/document/d/1Zuy4z2YHZR0GXdQB_zexiknDKllgRab59wFWj3kpVnU/edit?usp=sharing) with your role play partner so they can prepare to be the seller in your role play.
-*  **ACTIVITY: Role Play Preparation (Assignment - 30 Minutes - 10 Points - Pre Work)**
-   - Please fill out the [attached document](https://docs.google.com/document/d/1jwLo3GYA81VNcXg7vHTRF7iMkF7YihV7a362yPtZx0o/edit?usp=sharing) to prepare for your mock call based on the information in the buyer brief provided by your partner. HINT: Use the [Value Framework](https://drive.google.com/open?id=1GV1WGyJIRuor0jxG-9ABu9ZSIBUFtPq1pqAxV9yJOvQ&authuser=0) to help fill in the blanks!
-*  **ACTIVITY: First Mock Call (Assignment - 30 Minutes - 10 Points - Pre Work)**
-   - Record your mock call with zoom, then upload the recording to Google Drive to submit the assignment.
-
-</details>
-
-
-<details>
-<summary markdown="span">8. Our Competition</summary> 
-
-### 8. [Our Competition](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1462204)
+### 7. [Our Competition](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1462204)
 *  **The Industry In Which GitLab Competes (Material - Video - 11 Minutes)**
    - Sid Sijbrandij, CEO of GitLab, discusses the overall industry where GitLab competes.
    - [You Tube - The Industry GitLab Competes In](https://www.youtube.com/watch?v=qQ0CL3J08lI)
@@ -225,9 +206,9 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 
 
 <details>
-<summary markdown="span">9. Tools to Get Your Job Done</summary> 
+<summary markdown="span">8. Tools to Get Your Job Done</summary> 
 
-### 9. Tools to Get Your Job Done
+### 8. Tools to Get Your Job Done
 *  **Using GitLab: The Basics (Material - Handbook - 45 minutes)**
    -This module includes information to help you learn GitLab, and walks you through Projects, Issues, Merge Requests, Pipelines, Settings, User & Admin Area. It includes the Git Basics Training commonly delivered to customers by Professional Services and documentation to help you feel more comfortable with using GitLab.
    -[Learning GitLab with Git Basics](https://gitlab-training.gitlab.io/basics/deck/both.html#/1)
@@ -250,9 +231,9 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 </details>
 
 <details>
-<summary markdown="span">10. Sales and Customer Success Support</summary> 
+<summary markdown="span">9. Sales and Customer Success Support</summary> 
 
-### 10. [Sales and Customer Success Support](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472289)
+### 9. [Sales and Customer Success Support](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472289)
 *  **The Product Teams (Material - Handbook - 60 minutes)**
    -Review the Product Stages Handbook page to see who you should reach out if you have questions or need assistance with a [particular product.](/handbook/product/categories/)
 *  **The GitLab Legal Team (Material - Handbook - 10 Minutes)**
@@ -270,9 +251,9 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 </details>
 
 <details>
-<summary markdown="span">11. GitLab Customer Support Team</summary> 
+<summary markdown="span">10. GitLab Customer Support Team</summary> 
 
-### 11. [GitLab Customer Support Team](https://gitlab.edcast.com/insights/gitlab-customer-support)
+### 10. [GitLab Customer Support Team](https://gitlab.edcast.com/insights/gitlab-customer-support)
 
 - **Review the GitLab Customer Support Documentation (Material - Handbook - 5 minutes)**
   - The GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The Support Team Handbook is the central repository that explains our work processes and the reasons behind them. To learn more, check out the [Handbook](/handbook/support/).
@@ -314,7 +295,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 <summary markdown="span">Course Evaluation & Feedback</summary> 
 
 
-### 17. Course Evaluation & Feedback
+### Course Evaluation & Feedback
 *  Every participant is asked to please let us know how we can do better by taking [this brief survey](https://docs.google.com/forms/d/e/1FAIpQLSch3PLSzmoPUCSyhHUVwUfFSSPwiVGl2lAhRIc_bCmqZ6us6g/viewform?usp=sf_link)
 
 </details>
