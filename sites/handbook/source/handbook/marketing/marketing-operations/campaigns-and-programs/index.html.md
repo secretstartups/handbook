@@ -398,7 +398,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 
 - At the program main screen in Marketo, where it says `Salesforce Sync` "not set", click on "not set"
     - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
-    - If you are a user of Allocadia, you will need to add the Allocadia ID sub-category ID to the `Description` field. 
+    - If you are a user of Allocadia, you will need to add the Allocadia sub-category ID to the `Description` field. 
     - Click "Save"
 
 ### Step 3: Update Marketo tokens
