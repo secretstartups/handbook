@@ -152,7 +152,7 @@ For more details on benefits managed by Discovery: [Remote Technology Employee B
 
 To initiate your parental leave, submit the dates via PTO by Roots under the Parental Leave category. This will prompt the Absence Management team to process your leave. You can find out more information about our Parental Leave policy on the [general benefits page](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
-If you are eligible to receive parental leave from GitLab, your payments will be made up of payments from UIF and the rest from GitLab. Once you send your parental leave notification in PTO by Roots, the Absence Management team will notify Remote. They will then get in touch with you to explain the UIF payment claim process. 
+If you are eligible to receive parental leave from GitLab, your payments will be made up of payments from UIF and the rest from GitLab. Once you send your parental leave notification in PTO by Roots, the Absence Management team will notify Remote. Remote will then get in touch with you to explain the UIF payment claim process. 
 
 
 ## Spain
@@ -387,24 +387,23 @@ The vacation premium is an additional cash benefit given to employees for use on
 
 ### Mexico Parental Leave
 
-#### Statutory General Entitlement 
+#### Statutory Leave Entitlement 
+**Maternity Leave:** 
+* Team members can take 12 weeks of Maternity Leave (6 weeks before the child is born and 6 weeks after birth) to run concurrently with GitLab's 16 week [Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) policy. 
 
-**Maternity Leave:** Team members can take 12 weeks of Maternity Leave (6 weeks before the child is born and 6 weeks after birth). 
+**Paternity Leave:** 
+* Team members can take 5 days of Paternity Leave to run concurrently with GitLab's 16 week [Parental leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) policy.
 
-**Paternity Leave:** Team members can take 5 days of Paternity Leave.
-
-#### Maternity Leave Payment
-
+#### Payroll Process
+##### Maternity Leave Payment
 * 12 weeks of the team member's Maternity Leave will be paid by the Mexican Social Security Institute (MSSI). 
-* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the MSSI payments to ensure the team member receives 100% pay for up to 16 weeks of leave. 
-
-#### Paternity Leave Payment
-
+* GitLab Parental Leave Pay Calulations: If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the team member's pay up to 100% minus any MSSI payments received for up to 16 weeks of leave. 
+    - For example: if the team member receives  80% of their pay from MSSI payments, GitLab will provide the reamining 20% of their pay following our normal payroll calendar.
+##### Paternity Leave Payment
 * If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), the team member will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
 
 #### Applying for Parental Leave in Mexico
 To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
-
 
 ### Mexico Sick Leave
 
@@ -430,24 +429,29 @@ GitLab does not plan to offer life insurance at this time as team members can ac
 
 ### Hungary Parental Leave
 
-#### Statutory General Entitlement
+#### Statutory General Entitlement:
 
-**Maternity Leave:** Team members can take up to 24 weeks of Maternity Leave. The leave must start 4 weeks prior to the scheduled due date.
+**Maternity Leave** 
+* Team members can take up to 24 weeks of Maternity Leave. The leave must start 4 weeks prior to the scheduled due date.
 
-**Paternity Leave:** Team members can take 5 days of Paternity Leave or 7 days in case of twins.
+**Paternity Leave** 
+* Team members can take 5 days of Paternity Leave or 7 days in case of twins.
 
-**Parental Leave:** Team members can take unpaid leave to care for their child until the child reaches the age of 3 or until the child reaches the age of 10 if the team member receives child care allowance. Team members are also entitled to extra vacation days based on the number of children they have: 
+**Parental Leave:** 
+Team members can take unpaid leave to care for their child until the child reaches the age of 3 or until the child reaches the age of 10 if the team member receives child care allowance. Team members are also entitled to extra vacation days based on the number of children they have: 
 
 * two working days for one child; 
 * four working days for two children; 
 * a total of seven working days for more than two children under sixteen years of age.
 
-#### Matenity Leave Payment
+#### Payroll Process
+
+##### Maternity Leave Payment
 
 * The team member will receive Pregnancy and Confinement Benefit (CSED) at a rate of 70% of their salary for 24 weeks.
-* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the CSED payments to ensure the team member receives 100% pay for up to 16 weeks. 
+* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement up to 100% pay (minus any CSED benefits received) for up to 16 weeks. 
 
-#### Paternity Leave Payment
+##### Paternity Leave Payment
 
 * The team member will receive payment from the Hungarian State Treasury for 5 days of their leave.
 * If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the State payments to ensure the team member receives 100% pay for up to 16 weeks. 
@@ -477,11 +481,14 @@ The salary will be paid paid 14 times a year. This includes 12 months salary and
 
 ### Remote Technology - Austria Leave Policy
 
-#### Statutory Maternity Leave
+### Austria Parental Leave
 
-The statutory entitlement for maternity leave (Mutterschaftsurlaub) is 16 weeks. The leave must start **8 weeks prior to the scheduled delivery date**. For high-risk births, leave after the birth can be extended to 12 weeks. 
+##### Statutory Maternity Leave
 
-#### Statutory Parental Leave
+The statutory entitlement for maternity leave (Mutterschaftsurlaub) is 16 weeks. The leave must start **8 weeks prior to the scheduled delivery date**. 
+* For high-risk births, leave after the birth can be extended to 12 weeks. 
+
+##### Statutory Parental Leave
 
 Mothers and fathers are entitled to parental leave until the child reaches the age of 24 months (maximum), provided the parent in parental leave lives in the same household as the child. The minimum period of the parental leave is two months. The dismissal and termination protection ends four weeks after the end of the parental leave.
 
