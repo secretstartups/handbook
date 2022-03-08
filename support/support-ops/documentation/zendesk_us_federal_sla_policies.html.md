@@ -41,7 +41,7 @@ This requires an exact process, which is detailed via the
 
 * Conditions
   * Matches ALL of:
-    * `Tags` contains at least one of `starter basic premium ultimate prospect`
+    * `Tags` contains at least one of `starter premium ultimate prospect`
   * Matches ANY of:
     * Form is Support
     * Form is Triage
