@@ -63,14 +63,22 @@ Code Units:
 Code Units:
 * AccountJob.zuoraSubInfo
 * AccountJob_SetParentLAMFields (all methods)
+* AccountTrigger
+* AccountClass.SetLAMOnAccounts
  
 **Inputs:** Zuora, Zoominfo,LinkedIn, Manually Entered Employee Data, Account Parenting Hierarchy, 
 
 **Outputs:** Here are the various fields used in the solution, along with how they are set.
 
+The LAM calculation runs in three parts:
+
+1. The AccountJob executes and calculates subscription data for all Accounts.
+1. The AccountJob_SetParentLAMValues executes and calculates subscription data across Account hierarchies.
+1. The AccountTrigger fires when the Account's LAM calculation changes, and sets the 'LAM__c' field based on logic for each territory and geo.
+
 | **Data Name**       | **Actual - Field API Name**                  | **Data Type** | **Set By** |       
 |----------------|----------------|----------------|----------------|
-| LAM                                 | LAM__c|Currency| [FLOW: Set LAM on Account](https://gitlab.my.salesforce.com/3004M000000g2d)|
+| LAM                                 | LAM__c|Currency| AccountTrigger, AccountClass.SetLAMOnAccounts|
 | LAM Tier (Industry)                 | LAM_Tier_Industry__c| Formula | SFDC |
 | LAM Tier (Dev Count)                | LAM_Tier__c | Formula | SFDC |
 | LAM Seat (Industry)                 | LAM_Seat_Industry__c | Formula | SFDC |
