@@ -13,8 +13,6 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/"
 
 ## Introduction
 
-
-
 ## Mission
 
 The mission of the GitLab Women TMRG is to cultivate an inclusive environment that supports and encourages those who identify as women to advance their skills and leadership potential through connection, mentorship, collaboration and discussion. This group shall serve as a forum for women to find their voice and be heard within the GitLab community. Through networking, socializing, and professional development, we hope to attract and retain women into GitLab’s positions. This group is open to all members of the GitLab community.
@@ -23,14 +21,23 @@ The mission of the GitLab Women TMRG is to cultivate an inclusive environment th
 * [Kyla Gradin Dahl](https://about.gitlab.com/company/team/#kyla) Lead
 * [Samantha Lee](https://about.gitlab.com/company/team/#slee24) Co Lead 
 
-
 ## Executive Sponsors
 * [Robin Schulman](https://about.gitlab.com/company/team/#rschulman) - Chief Legal Officer and Corporate Secretary
 * [Michael McBride](https://about.gitlab.com/company/team/#mmcb) - Chief Revenue Officer
 
 ## How To Get Involved
-* Please sign up [here](https://groups.google.com/a/gitlab.com/g/womenstmrg)
+* Please sign up [here](https://groups.google.com/a/gitlab.com/g/womenstmrg) to be added to the Women TMRG Google Group. This will ensure you're added to upcoming TMRG calendar events.
+* Join the [#women](https://app.slack.com/client/T02592416/C7V402V8X/thread/CMEH4ML5C-1646249913.156129) Slack channel for conversation, announcements, and connecting with other TMRG members. Please introduce yourself in the channel when you join!
 
+### Monthly TMRG Planning Meetings
+
+This meeting is hosted 1x per month on Wednesdays at 3pm UTC and Thursdays at 12am UTC for 45 minutes. Allies are always encouraged to attend any TMRG meeting. The call structure includes:
+     1. 25 minutes for full group discussion of agenda topics
+     1. 20 minutes small breakout groups for social discussion
+
+### Monthly TMRG Social
+
+This meeting is hosted 1x per month on Wednesdays at 3pm UTC and Thursdays at 12am UTC for 45 minutes. The call is dedicated to social connection for TMRG members and there is no agenda.
 
 ## Upcoming Events 
 Find upcoming events that we'll be organizing or participating in on our [Women TMRG workboard](https://gitlab.com/gitlab-com/women-tmrg/-/boards/2419883?&label_name[]=Events%20-%20Women%20TMRG). 
