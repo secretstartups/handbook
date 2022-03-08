@@ -82,8 +82,12 @@ It is extremely important to have an internal preparation meeting(can be async) 
 - What will be the succesful outcome from VSA
 - Pick key slides to deliver to customer
 - Pick key discovery questions to be asked during pitch & customer planning session
+- Important chorus recordings to review
 
-Please ask the account team to share as much info as possible regarding the above questions so the facilitator can dive deeper into identifying key slides, questions to be asked during customer pitch
+The account team should share as much info as possible regarding the above questions using the steps below :
+
+- Please create a new issue in [value stream assessment project] (https://gitlab.com/gitlab-com/customer-success/value-stream-assessment)
+- Use the template labeled request_value_stream_assessment
 
 ### Pitch
 
