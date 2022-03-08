@@ -635,7 +635,13 @@ Numbers/target achievement
 
 → Once review is finished, update the Last PHD Review and Account Notes fields on the Partner Account in SFDC. 
 
+## **Channel Marketing Processes**
 
+Complete process for submitting an MDF proposal request for funds and detailed instructions regarding the approval and claim process can be found in the [Channel Partner Handbook under MDF.](https://about.gitlab.com/handbook/resellers/#requesting-market-development-funds---mdf)
+
+Select and Open Partners are able to submit MDF requests via the Marketing Page in the Partner Portal. Partners should be reviewing plans with you prior to submitting an MDF request in the Portal to ensure you are aligned with the proposal.
+
+Partner Logos may be accessed in GitLab Partner Portal in the Asset Library under Marketing. Logos are segmented so only authorized Select Partners have access to the Select Logo.
 
 ## **Channel Program Engagement Process**
 
@@ -713,13 +719,7 @@ Table 1:
 
 
 
-## **Channel Marketing Processes**
 
-Complete process for submitting an MDF proposal request for funds and detailed instructions regarding the approval and claim process can be found in the [Channel Partner Handbook under MDF.](https://about.gitlab.com/handbook/resellers/#requesting-market-development-funds---mdf)
-
-Select and Open Partners are able to submit MDF requests via the Marketing Page in the Partner Portal. Partners should be reviewing plans with you prior to submitting an MDF request in the Portal to ensure you are aligned with the proposal.
-
-Partner Logos may be accessed in GitLab Partner Portal in the Asset Library under Marketing. Logos are segmented so only authorized Select Partners have access to the Select Logo.
 
 
 ## **Partner Communications**
@@ -746,23 +746,23 @@ The Channel Program team has a standard communication cadence and vehicles to de
 
 **How to get a hold of us:**
 
-**If you have any questions regarding if/how something should be communicated, please reach out to us via the #channel-programs-ops slack channel.**
+**After you have completed the [engagement process approvals](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#channel-program-engagement-process), if you have any questions regarding if/how something should be communicated, please reach out to us via the #channel-programs-ops slack channel.**
 
 
 ## **Partner Flash Newsletter**
 
 
-## Overview
+### Overview
 
 Partner Flash is a monthly newsletter that recaps important Partner-related information from the month and highlights important upcoming information. The main goal of this communication is to **help Partners ramp quickly and grow their GitLab business.**
 
 
-## Target Audience
+### Target Audience
 
 The newsletter is sent to authorized users in our Partner community, the list is gathered and updated from the Partner Portal, new users are added or you can self serve by going to [this link.](https://gitlab.us19.list-manage.com/subscribe?u=5a5f55e4e0f03037d96416766&id=f3c28dda97)
 
 
-## Opportunities/Requirements
+### Opportunities/Requirements
 
 The newsletter will…
 
@@ -831,7 +831,7 @@ The newsletter will…
 *   The team is committed to upholding the value of the newsletter – information should be relevant, feedback should be actioned on, and leadership should help reiterate by pointing to it as a useful resource for their teams.
 
 
-## Format
+### Format
 
 Based on the requirements above, this is the first iteration of the newsletter format:
 
@@ -852,7 +852,7 @@ Based on the requirements above, this is the first iteration of the newsletter f
     *   The top 3 takeaways from the latest GitLab release, mapped to one of the three value drivers and framed in the context of the customer value.
 
 
-## Process
+### Process
 
 The newsletter is sent out **on the first Thursday of each month after our Partner Webcast series has concluded.** We can adjust delivery based on feedback from the field, holidays or timing of a Partner focused update (pricing).
 
@@ -887,7 +887,7 @@ Qualitative Success Metrics
 *   Improve the Partner section of the Handbook and the Partner Portal as a result of work on the newsletter.
 
 
-## Past Newsletters
+### Past Newsletters
 
 05/07/2020 - [We're Live! Our First Edition of Partner Flash.](http://eepurl.com/g2ds61)
 
