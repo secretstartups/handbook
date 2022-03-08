@@ -46,9 +46,9 @@ When your accommodation booking is confirmed, you may want to communicate the da
 
 ### Setting up your TripActions account
 
-Below is some more information to help you get set up with your [TripActions](https://tripactions.com/signup) account.
+Below is some more information to help you get set up with your [TripActions](https://tripactions.com/) account.
 
-1. Follow the link in your onboarding issue to create your TripActions account and set a secure password. (Contact People Ops if you need help finding the link).
+1. Log into [Okta](https://gitlab.okta.com) and click the TripActions tile.
 1. Once you are in your dashboard, make sure to set up your info in your profile (see link from drop down menu under your name).
 1. Add your passport information to your profile (only passport information is accepted), this will populate your info directly when booking a flight.
 1. Now let's start booking!
