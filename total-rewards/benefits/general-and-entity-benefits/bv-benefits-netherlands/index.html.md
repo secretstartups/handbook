@@ -98,28 +98,43 @@ People Ops will consult with HRSavvy to ensure that the statute is met.
 
 Team members are eligible for leaves as included in the Work and Care Act. Please find an overview below.
 
-* Statutory Maternity leave
+### Statutory Maternity leave Policy
   - The team member is entitled to a maximum six weeks' leave prior to the estimated date of childbirth and for ten weeks after that date; therefore totaling sixteen weeks.
   - The team member can reduce the leave period prior to the estimated date of childbirth to at least four weeks. In that case, the number of days not taken prior to the estimated date of childbirth is added to the leave period following the estimated date of childbirth.
   - In the event of incapacity for work from six weeks prior to the estimated date of childbirth, the sixteen-week period for pregnancy and childbirth leave commences at that time, regardless of which agreements have been made.
   - Besides this, you’re also entitled to continuous wage during your leave which will still be paid out by GitLab. However, the [UWV](https://www.uwv.nl/overuwv/english/about-us-executive-board-organization/detail/about-us) offers GitLab a WAZO (Work and Care Act) settlement which is designed to cover your salary while on leave. The UWV ensures expert and efficient implementation of team member insurance and the WAZO settlement is one of these insurances. This maternity benefit (WAZO) lasts at least 16 weeks and covers 100% of the [daily wage](https://www.uwv.nl/werkgevers/werknemer-krijgt-kind/zwanger/werknemer-is-zwanger-wazo/detail/verlofperiode-zwangerschap) (GitLab will top this up to 100% of your normal base salary). In order for GitLab to receive this settlement HRSavvy will inform the UWV about your pregnancy via an application form. To apply, please inform the Absence Management Team (leaves@gitlab.com) when you’d wish for your maternity leave to start. The exact start date is up to you to decide. Please note that your leave can start 6 weeks prior to, but no later than, 4 weeks before your due date. HRSavvy will then work with you directly to apply and keep peopleops@domain in cc.
   - If the team member is eligible for GitLab parental leave, the statutory leave will run concurrently with GitLab parental leave.
 
-* Statutory Paternity/Partner leave
+### Statutory Paternity/Partner Leave Policy
   - After your partner has given birth, you are entitled to up to five days of paid parental leave.
   - Within 6 months of the birth you are also entitled to 5 weeks of additional paid leave (["Aanvullend geboorteverlof"](https://www.rijksoverheid.nl/onderwerpen/geboorteverlof-en-partnerverlof/geboorteverlof-voor-partners)) at a maximum of [70% of the maximum day wage](https://www.uwv.nl/particulieren/bedragen/detail/maximumdagloon). If you have a compensation that is higher than the maximum day wage you will receive the 70% of the maximum day wage as set by the UWV. 
   - Please also refer to [the company policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) as when more beneficial they supersede the statutory leave benefits.
 
-* Adoption and Foster Leave
-  - Team members who have adopted or taken in a foster child are entitled to 6 weeks of leave and [adoption or foster care allowance](https://www.uwv.nl/particulieren/zwanger-adoptie-pleegzorg/adoptie-pleegzorg/ik-word-adoptie-of-pleegouder/detail/krijg-ik-een-adoptie-of-pleegzorguitkering#hoe-hoog-is-mijn-adoptie-of-pleegzorguitkering).
+### Adoption and Foster Leave
+Team members who have adopted or taken in a foster child are entitled to 6 weeks of leave and [adoption or foster care allowance](https://www.uwv.nl/particulieren/zwanger-adoptie-pleegzorg/adoptie-pleegzorg/ik-word-adoptie-of-pleegouder/detail/krijg-ik-een-adoptie-of-pleegzorguitkering#hoe-hoog-is-mijn-adoptie-of-pleegzorguitkering).
   - This leave runs concurrently with GitLab Parental Leave. GitLab will supplement adoption or foster care allowance for [eligible team members](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) so that they receive 100% of their pay for the first 16 weeks of leave.
   - Team members must notify the Absence Management team at `leaves@gitlab.com` of their intent to take adoption or foster leave at least three weeks in advance, and must designate this time off as `Parental Leave` in PTO by Roots to ensure that statutory entitlements are properly tracked.
 
-* Statutory Parental Leave
+#### Effective 2022-08-02 
+Adoptive and foster parents of children under 8 years old will be eligible for up to 9 weeks of partial payment through the UWV.  Parents are eligible for paid leave within the child's first year after the date of adoption or placement.  
+
+*Eligibility:*  Parents must be working (be employed) at the time and not yet have taken the full right of parental leave (26 times the weekly work hours).
+ - Employees working for GitLab that have a child under the age of 1 at the start of this new law, will also be eligible for this benefit.
+
+*Pay Calculations:* The UWV will pay 50% of the daily wage (up to 50% of the maximum daily wage).  GitLab will to apply for the benefit with the UWV.  (More information to come)
+
+### Statutory Parental Leave
   - Team members who have a child 8 years old or younger and are qualified for parental leave, are entitled to take [unpaid parental leave](https://www.rijksoverheid.nl/onderwerpen/ouderschapsverlof/vraag-en-antwoord/recht-op-ouderschapsverlof). The amount of leave may not exceed 26 times the number of hours the team member works in one week. 
 
+#### Effective 2022-08-02 
+Parents will be eligible for up to 9 weeks of partial payment through the UWV.  Parents are eligible for paid leave within the child's first year after birth.*  
 
+*Eligibility:*  Parents must be working (be employed) at the time and not yet have taken the full right of parental leave (26 times the weekly work hours).
+ - Employees working for GitLab that have a child under the age of 1 at the start of this new law, will also be eligible for this benefit.
 
+*Pay Calculations:* The UWV will pay 50% of the daily wage (up to 50% of the maximum daily wage).  GitLab will to apply for the benefit with the UWV.  (More information to come)
+
+### Other Leave Types
 * Short-term Care Leave
   - Short-term care leave is available to team members who must provide essential care to a person who is ill or otherwise in real need. Please find the definition of 'person' as it pertains to this policy below. In order to be eligible, the team member must be the only person who can look after the person in need during that period of time. 
   - 'Person' means the following individuals: the team member's (grand)children, the team member's foster children living at his or her home, the spouse, registered partner or person with who the team member cohabits unmarried, a child living at home with the spouse, registered partner or person with who the team member cohabits unmarried, the team member's (grand)parents or brother/sister, others with who the team member has a social relationship (e.g. boyfriend, girlfriend, good neighbour) and persons who are part of the team member's household but are not a parent, child or partner (and not roommates with who there is a commercial or employment relationship).  
@@ -132,7 +147,6 @@ Team members are eligible for leaves as included in the Work and Care Act. Pleas
   - Team members are entitled to a maximum of 6 times the number of their normal weekly hours agreed upon in their employment contract, per 12-month period of time. For example, if a team member’s contract states that they have a 40-hour work week, then that team member may take 240 hours of long-term care leave in one 12-month period. 
   - There is no entitlement to pay during long-term care leave; however, this leave runs concurrently with GitLab PTO, so team members will receive 100% of their pay for the first 25 days of leave. 
   - Team members should notify their manager and the Absence Management team at `leaves@gitlab.com` of their intention to take long-term care leave as soon as possible.
-
 
 ### Applying for Leave in the Netherlands
 
