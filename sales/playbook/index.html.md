@@ -27,10 +27,21 @@ Besides this page, there are a few bookmarks you’ll want to set that will be y
 ## The SAL playbook
 [The SAL playbook](https://docs.google.com/presentation/d/1S-8Jvr-NcMAEjqB5j0i53WZg4aEtTGTicCpWbZ9JaNk/edit#slide=id.g10c6ab6d93e_0_318) is how a typical, high-performing SAL runs their business on an annual, quarterly, monthly, and weekly basis. Use it as a guide to understand the basics of what key activities and collaboration points are required for things to run smoothly in your territory. This includes collaborating with your deal team.
 
-##### Sales planning
+#### Sales planning
 Every Strategic Account Leader in Enterprise Sales should have a plan for how they're approaching their patch. The first step is to [create a sales territory plan](https://about.gitlab.com/handbook/sales/territory-planning/#overview): a collaborative, workable plan for targeting the right customers and implementing goals for income and consistent sales growth over time. It’s usually done annually and updated throughout the year. Your MVP territory plan will help you prioritize your accounts and is then followed by creating [account plans](https://about.gitlab.com/handbook/sales/account-planning/) for those accounts. View resources and training in the [SAL Learning Hub](https://gitlab.edcast.com/channel/strategic-account-leaders).
 
-##### Moving a deal through the pipeline
+## Moving a deal through the pipeline
+**Pipeline management** is key to predictable, scalable revenue attainment and can make the difference between simply hitting your number and overachieving. It helps you allocate your time correctly, increase deal velocity, and increase total deal volume, size, and revenue through accurate forecasting practices.
+
+**The Enterprise Sales Stages Criteria** defines activities and exit criteria for each stage and serves as a roadmap for moving a deal from discovery to closed won (or qualified out quickly). The following process is specific to the Enterprise Sales team.
+
+- [View Enterprise Sales Stages in detail in this Google spreadsheet](https://docs.google.com/spreadsheets/d/1slLr20a_HwfZD81I1InfS57PFlmWapzc586VDI6nmiw/edit?usp=sharing)
+- [View the Enterprise Sales Cheat Sheet: Exit Criteria in Highspot](https://gitlab.highspot.com/items/62266b479e2aa4ee0f014f79)
+- [View general sales opportunity stages](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages) 
+
+**How to use it:** As you move a deal through the pipeline, the Enterprise Sales Stage criteria defines activities and exit criteria for each stage and serves as a roadmap to getting a deal from discovery to closed won (or qualified out quickly). Use it to help you validate your opportunity and forecast it correctly. This guidance gives definitions for each stage, tells you who might be involved on your team, what activities are typically done in each stage, and what is required before you can move it further in the pipeline.
+
+#### Additional resources for pipeline management
 The below table shows major strategic resources that can help you be successful during each milestone of a deal - from prospecting to transitioning to a the post-sales team. For operational resources, head to the general sales page up top. For commonly used sales assets like marketing plays and pitch decks, head to the [marketing resources handbook page](https://about.gitlab.com/handbook/marketing/strategic-marketing/sales-resources/).
 
 
@@ -38,7 +49,23 @@ The below table shows major strategic resources that can help you be successful 
 | ------ | ------ | ------ | ------ |
 | * [Prospecting](/handbook/sales/prospecting/)<br> * [Discovery](/handbook/sales/playbook/discovery/)<br> * [Articulate Value](https://about.gitlab.com/handbook/sales/command-of-the-message/) | * [Position to Win](https://about.gitlab.com/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/#step-2-scoping)<br> * [Technical Evaluation](https://about.gitlab.com/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/#step-3-technical-evaluation)<br> * [Customer-Centric Proposal](https://about.gitlab.com/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/#12-creating-the-customer-deck-phase-1) | * [Mutual Close Plan](/handbook/sales/mutual-close-plan)<br> * [Negotiate to Close](/handbook/sales/negotiate-to-close/)<br> * [Order Processing](/handbook/sales/field-operations/order-processing/) | * [Account Transition](/handbook/customer-success/pre-sales-post-sales-transition/)<br> * [Customer Onboarding](/handbook/customer-success/tam/onboarding/) |
 
-As you move a deal through the pipeline, use the [Opportunity Stages](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages) guidance to help you validate your opportunity and forecast it correctly. This guidance gives definitions for each stage, tells you who might be involved on your team, what activities are typically done in each stage, and what is required before you can move it further in the pipeline.
+#### Keeping your pipeline healthy
+*Also view the below guidance on the [Sales Prospecting](/handbook/sales/prospecting/) handbook page.*
+
+Generally, surprises - whether in the form of sudden, major deals or sudden, major losses - are a bad thing. We have to strive to create predictable results. At first, this seems like trying to predict the vast unknown. But if you have a strong strategy in place for your pipeline, you’ll be able to see exactly how your year will turn out well before it happens. This means better, more reliable forecasts and less stress for you on whether you’ll meet that target.
+
+**Validate, validate, validate.** Effective qualification is just the first step. As you invest in a prospect, it’s important to continuously validate the opportunity throughout the sales cycle and make sure it can deliver results for you and that we are the effective solution for the prospect.
+
+**Use data to validate your opportunities.** If you’re making big bets because you ‘hope’ a prospect will change their mind it’s a sign that you need to go back to the validation process:
+- What evidence do you have that this deal is ‘real’?
+- What data tells you it will happen this quarter or next?
+- What is not being talked about is usually a sign something is not going as planned. For example, do you know their paper process inside and out? Do you know the potential people on their team that could derail the deal later?
+- Meet with your team and get their help and feedback on validating what’s in your pipeline and hold regular meeting cadences with them to walk through your top prospects.
+
+**Keep your opps squeaky clean:** Pay attention to how long something has been sitting in a specific stage, and close it out when the time is right. For a tech company, the average strategic deal takes 6 months to a year to close. While it’s normal for an opportunity to sit, holding it prevents another team (or other resources) from helping it progress.
+
+Holding hurts our prospective customers because while they’re sitting there, they aren’t getting any real value from us (and likely to get more value from a competitor). It’s for their benefit that we push deals along or move them to close.
+
 
 ## Quick links to common tools
 
