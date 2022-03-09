@@ -48,7 +48,7 @@ In order to setup direct access, you will have to configure SSH to use the *bast
 1. [Setup bastions to access production (gprd)](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/bastions/gprd-bastions.md#console-access)
 2. [Setup bastions to access stating (gstg)](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/bastions/gstg-bastions.md#console-access)
 
-This is an example configuration for a user named `joe` to access psql and Rails consoles in `gprd`:
+This is an example configuration for a user named `joe` (replace this with your gitlab email user) to access psql and Rails consoles in `gprd`:
 
 ```
 # GCP production bastion host
@@ -72,6 +72,14 @@ Host gprd-psql-archive
         StrictHostKeyChecking   no
         HostName                console-01-sv-gprd.c.gitlab-production.internal
         ProxyCommand            ssh lb-bastion.gprd.gitlab.com -W %h:%p
+```
+
+With this setup, the user `joe` could use the following commands:
+
+```sh
+ssh gprd-rails        # opens a rails console
+ssh gprd-psql         # opens a psql console
+ssh gprd-psql-archive # opens a psql console on a replica
 ```
 
 #### DatabaseLabs
