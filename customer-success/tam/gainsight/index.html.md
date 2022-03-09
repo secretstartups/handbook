@@ -68,6 +68,7 @@ The table below represents the steps a TAM would typically take in Gainsight. Pl
 - [Product Usage Data - Data Team](/handbook/business-technology/data-team/data-catalog/product-usage-data/)
 - [License Utilization](/handbook/customer-success/product-usage-data/license-utilization/)
 - [Maturity Scoring](/handbook/customer-success/product-usage-data/maturity-scoring/)
+- [Product usage playbooks with usage metrics](https://about.gitlab.com/handbook/customer-success/product-usage-data/metrics-based-playbooks/)
 
 #### Programs
 - [Customer Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
