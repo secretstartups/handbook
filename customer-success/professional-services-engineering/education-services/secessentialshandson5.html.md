@@ -1,147 +1,129 @@
 ---
 layout: handbook-page-toc
-
 title: "GitLab Security Essentials Hands-On Guide: Lab 5"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
 # GitLab Security Essentials Hands-On Guide: Lab 5
 {:.no_toc}
 
-## LAB 5: Build and push a Docker image, and run Container Scanning
 
-### Setup
+## LAB 5: Enable, configure, and run Coverage-Guided Fuzz Testing
+Coverage-guided fuzzing sends random inputs to an **instrumented** version of an application in an effort to cause unexpected behaviors, behaviors which are indicative of bugs that may need to be addressed. GitLab allows the addition of coverage-guided fuzz testing to CI/CD pipelines. This helps uncover bugs and potential security issues other QA processes may miss.
 
-1. Return to the **Security Labs** project you used in the other labs.
-1. **OPTIONAL:** Follow the instructions at the start of [Lab 2](secessentialshandson2.html) for speeding up your pipeline by disabling scanners that you enabled in previous labs.
+This lab demonstrates coverage-guided fuzz testing, which tests a single function in your code. Web API fuzz testing works similarly, but is not covered here.
 
+You must define a separate CI/CD pipeline job for each function you want to fuzz test. That said, if the function in your code-under-test calls other functions, the fuzz test will catch problems that occur anywhere in the call stack. In this lab you'll fuzz test just 1 function.
 
-### Add a `Dockerfile`
+#### The fuzz testing process:
+1. Compiles the target application.
+1. Runs the instrumented application, using the gitlab-cov-fuzz tool.
+1. Parses and analyzes the exception information output by the fuzzer.
+1. Downloads the corpus and crash events from previous pipelines.
+1. Outputs the parsed crash events and data to the gl-coverage-fuzzing-report.json file.
 
-A Dockerfile is a "recipe" that tells Docker how to assemble your application into a Docker image. You'll write a `Dockerfile` that installs your single-file Python application onto an Ubuntu 18.04 Docker image, and then packages that whole stack into a new Docker image.
+**The results of the coverage-guided fuzz testing are available in the CI/CD pipeline.**
 
-1. In the left navigation pane, click **Repository > Files**.
-1. Above the repository file list, click **(+) > New file**.
-1. In the **File name** field, type `Dockerfile`
-1. The Dockerfile must specify which Linux image to install your application on. For this lab you'll use an old version of Ubuntu that has security vulnerabilities for the Container Scanner to find. Paste this into `Dockerfile`:
-   
-    ```dockerfile
-   FROM ubuntu:18.04
-    ```
-   
-1. The Dockerfile "recipe" must add your application to the Linux image specified above. Paste this at the bottom of `Dockerfile`:
+### Write the code-under-test
 
-    ```dockerfile
-   ADD HelloWorld.py .
-    ```
+1. Return to the **Security Labs** project you used for the previous labs.
+1. This is the code that the fuzz tester will scan for bugs. Paste this Python function into a new file called `IsThirdIntegerZero.py` in the root of your project.
 
-1. Your completed `Dockerfile` should look like this. Make any corrections necessary.
-
-    ```dockerfile
-   FROM ubuntu:18.04
-   ADD HelloWorld.py .
+    ```python
+   def isThirdIntegerZero(my_ints):
+       """Return True if and only if the third integer passed in is 0."""
+       return my_ints[2] == 0  # start counting from 0, so "2" refers to the 3rd integer passed in
     ```
 
-1. Add a commit message and click **Commit changes**. 
+   This code-under-test defines a function that expects to be passed a list of integers. If the third integer in that list is 0, the code returns the value `True`.
+
+   **There's a bug in this code-under-test:** it doesn't check to make sure you passed in at least 3 integers. If you pass it fewer than 3 integers, an error will occur when the code looks for, but can't find, the third integer. Different languages will do different things in this situation, but Python will throw an unexpected `IndexError`. That error could cause problems in whatever code calls this function, so this behavior is considered to be a bug. Fuzz testing is a great tool to find this bug.
+1. Commit the new file with an appropriate commit message.
 
 
-### Build the Docker image
+### Write the fuzz target
 
-In this section you will define a job that builds a Docker image. 
+Fuzz testing is the only type of GitLab scanning that requires you to write code: the fuzz target. The fuzz target you see below only works with the specific code-under-test for this lab. Fuzz targets for different code-under-test would look slightly different.
 
-To build a Docker image with a CI/CD pipeline job, you must use a GitLab Runner that's configured to use a Docker executor. Fortunately the shared GitLab Runners in the training environment satisfy this requirement.
+Think of the fuzz target as a "translator" between the fuzz engine and the code-under-test. The data flows like this:
 
-1. Define a `build` stage to assign your job. Paste this just beneath the `stages:` keyword, making sure it has the same indentation as the existing `- test` entry beneath it:
+```mermaid
+graph TD
+    A[CI/CD job] -->|Runs| B(Fuzz engine)
+    B --> |Generate and send data| C{Fuzz Target}
+    C -->|Sends data| D[Go]
+    C -->|Sends data| E[iOs]
+    C -->|Sends data| F[Python]
+```
 
-    ```yml 
-     - build
-    ```
+The CI/CD job runs the fuzz engine. The fuzz engine generates random data and sends it to the fuzz target. The fuzz target sends that random data to the code-under-test.
 
-1. Name your new job and assign it to a stage. Paste this at the end of `.gitlab-ci.yml`:
+The code-under-test might process that random data successfully, without throwing any errors or crashing. If so, the fuzz engine generates more random data and repeats the cycle.
+
+But if the random data ever causes an error or crash in the code-under-test, that problem will be sent back to the fuzz target, which will pass it to the fuzz engine, which will report to the CI/CD pipeline that it found a bug in the code-under-test.
+
+1. Define a new stage called `fuzz` by pasting this line at the end of the existing `stages:` section of `.gitlab-ci.yml`. Be sure to indent it correctly.
 
     ```yml
-   build-and-push-docker-image:
-     stage: build
-    ```
-  
-1. Your job must run on a Docker image that contains Docker tools (this approach is sometimes called "Docker in Docker", or "dind"). Because of technical limitations of the training environment, you need to specify an older version (_i.e._, version 18) of the image that contains Docker tools. Paste this into your job definition:
-
-    ```yml
-     image: docker:18
+       - fuzz
     ```
 
-1. Your job also needs a second Docker image that enables the Docker in Docker workflow. You specify this with the `services` keyword. Paste this into your job definition:
-  
-    ```yml
-     services:
-       - docker:18-dind
-    ```
-   
-1. It's helpful to define a variable to hold the full name and version of the Docker image you're creating, because you'll need to refer to that information more than once. You can assemble the name and version out of predefined variables that GitLab provides (remember that predefined variables generally start with "CI"). Paste this into your job definition:
+1. Paste this Python fuzz target code into a new file called `FuzzTarget.py` in the root of your project. The comments explain each line of the fuzz target code.
 
-    ```yml
-      variables:
-        IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
-    ```
-   
-1. Instruct Docker to build a Docker image using the recipe in `Dockerfile`. Paste this into your job definition:
-   
-    ```yml
-     script:
-       - docker build --tag $IMAGE .
-    ```
-   
-
-### Push the Docker image to your project's container registry
-
-1. Your job needs to log in to the project's container registry so it can push your image to it. Add this line to the bottom of the `script` section of the `build-and-push-docker-image` job:
-
-    ```yml
-       - docker login --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD $CI_REGISTRY
-    ```
-   
-1. Your job can push the image with a single Docker command. Add this to the bottom of the `script` section of the job definition:
-    ```yml
-       - docker push $IMAGE
-    ```
-   
-1. Your completed job definition should look like this. Make any corrections necessary to the job definition in your `.gitlab-ci.yml`.
-
-    ```yml
-   build-and-push-docker-image:
-     stage: build
-     image: docker:18
-     services:
-       - docker:18-dind
-     variables:
-       IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
-     script:
-       - docker build --tag $IMAGE .
-       - docker login --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD $CI_REGISTRY
-       - docker push $IMAGE
-    ```
-
-1. Commit the changes to `.gitlab-ci.yml` with an appropriate commit message.
+    ```python
+   from isThirdIntegerZero import isThirdIntegerZero  # import the code-under-test
+   from pythonfuzz.main import PythonFuzz             # import fuzz test infrastructure
  
-1. When the pipeline finishes running, verify that your job created a new Docker image and pushed it into the project's container registry: in the left navigation pane, click **Packages & Registries > Container Registry**.
+   # The fuzz engine calls a function called `fuzz` in the fuzz target and
+   # passes it random data, so we need to define a function with that name,
+   # and that function must accept 1 parameter.
 
-
-### Enable Container Scanning
-
-Now that your Docker image is being built and pushed, you can enable Container Scanning.
-
-1. Add the Container Scanning template to the existing `include:` section of `.gitlab-ci.yml`:
-   
-    ```yml
-       - template: Security/Container-Scanning.gitlab-ci.yml
+   @PythonFuzz                          # Python decorator required by fuzz test infrastructure
+   def fuzz(random_data):               # Accept random data...
+       isThirdIntegerZero(random_data)  # ...and pass it on to the code-under-test.
+    
+   if __name__ == '__main__':           # required by fuzz test infrastructure
+       fuzz()
     ```
+
+   This fuzz target is typical for Python-based fuzz testing. See the [GitLab documentation](https://docs.gitlab.com/ee/user/application_security/coverage_fuzzing/#supported-fuzzing-engines-and-languages) for instructions on writing fuzz targets for other languages.
+
+1. Commit the new `FuzzTarget.py` with an appropriate commit message.
+
+### Enable and configure coverage-guided fuzz testing
+
+1. Enable fuzz testing by pasting this template into the existing `include:` section of `.gitlab-ci.yml`. Be sure to indent it correctly.
+
+    ```yml
+       - template: Coverage-Fuzzing.gitlab-ci.yml
+    ```
+
+1. Configure fuzz testing by defining a new job in `.gitlab-ci.yml`.
+
+    ```yml
+   fuzz-test-isThirdIntegerZero:
+       extends: .fuzz_base  # This anchor is defined in the template included above.
+       image: python:3.6    # This image must be able to run the code-under-test.
+       script:
+           # Install the fuzz engine from a GitLab-hosted PyPi repo.
+           - pip install --extra-index-url https://gitlab.com/api/v4/projects/19904939/packages/pypi/simple pythonfuzz==1.0.8
    
-1. Commit the changes with an appropriate commit message.
-1. Wait for the pipeline to finish running.
+           # Run a language-agnostic binary, specifying the type of fuzz engine, 
+           # the root of the project, and the fuzz target.
+           - ./gitlab-cov-fuzz run --engine pythonfuzz --project-path ./ -- FuzzTarget.py
+    ```
+
+   Fuzz test job definitions, like fuzz targets, look a little different depending on what language they're testing. See the [GitLab documentation](https://docs.gitlab.com/ee/user/application_security/coverage_fuzzing/#configuration) for instructions on writing fuzz test job definitions for other languages.
+
+1. Commit the edits to `.gitlab-ci.yml` with an appropriate commit message.
 
 
-### View the results
+### Review the results
 
-1. See if the Container Scanner found any problems with the old Ubuntu base image by looking at either the **Vulnerability Report** or the **Security** tab in the pipeline details page.
+1. Watch the pipeline run after you've committed changes to `.gitlab-ci.yml`. It might take up to 3 minutes to finish.<br/>
+   *NOTE: fuzz testing jobs might look a little different from other GitLab scanners. If a fuzz testing job finds bugs, that job will have **failed** status, but the pipeline will continue running. Other scanners have **passed** status as long as they complete, regardless of whether they find any problems.*
+1. When the pipeline completes, look at the `Security` tab on the pipeline details page to see if fuzz testing found the index-out-of-bounds bug in the code-under-test.
+1. Click on the entry under the **Vulnerability** column to learn more about the bug and see where it happened in the call stack.
+1. In the left navigation pane, click **Security & Compliance > Vulnerability Report** to see another view of the fuzz test results. It might help to set the **Tool** filter to **Coverage Fuzzing**.
 
 
 ## Suggestions?
