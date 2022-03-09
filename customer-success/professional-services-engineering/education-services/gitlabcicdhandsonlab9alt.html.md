@@ -66,7 +66,8 @@ The training environment disables code quality scanning by default. This section
 ### View code quality scan results
 
 1. In the left navigation pane, click **CI/CD > Pipelines**.
-1. The top row represents the pipeline that started running when you committed the `.gitlab-ci.yml` file in the previous section. Wait until the status icon at the left of that pipeline says **passed**. *It can take as long as 5 minutes for the code quality scanner to complete in the training environment, so this is a great time to grab a snack.*
+1. The top row represents the pipeline that started running when you committed the `.gitlab-ci.yml` file in the previous section. Wait until the status icon at the left of that pipeline says **passed**. 
+> It can take as long as 5 minutes for the code quality scanner to complete in the training environment, so this is a great time to grab a snack.
 1. Once the pipeline's status is **passed**, click the status icon to see the pipeline details.
 1. On the pipeline details screen, click the **Code Quality** tab above the pipeline graph.
 1. Notice that the scanner found 3 code quality issues in 2 different files: 2 in `HelloWorld.py` and 1 in `.gitlab-ci.yml`.
@@ -101,9 +102,9 @@ The training environment disables code quality scanning by default. This section
 1. In the left navigation pane, click **CI/CD > Pipelines**.
 1. Wait for the most recent pipeline to show **passed** status. This might take as long as 5 minutes.
 1. In the left navigation pane, click **Merge requests**. Click the **Draft: Branch A** MR to see the MR details page.
-1. Find the pane half-way down the MR details page that says **No changes to code quality**. This is a GitLab bug. If you refresh the page, this pane will change to say **Code quality improved on 2 points**. This means that you have fixed 2 code quality problems on **branch-A** that still exist on **main**.
-1. In the code quality pane, click **Expand** to see which code quality problems you have fixed on **branch-A**.
-1. If you needed to transport or save the results of code quality scanning, the json artifact is available on the Pipelines page by clicking on verticle ellipses on the right hand side of the page.  
+1. Half-way down the MR details page, it says **No changes to code quality**. If you refresh the page, the pane will change to say **Code quality improved on 2 points**. This means you have fixed 2 code quality problems on **branch-A** which remain unfixed on **main**.
+1. **Expand** the code quality pane to see the code quality problems you fixed on **branch-A**.
+1. To transport or save the results of code quality scanning, the json artifact is available on the Pipelines page by clicking on the verticle ellipses right of the page.  
 
 
 ## Suggestions?
