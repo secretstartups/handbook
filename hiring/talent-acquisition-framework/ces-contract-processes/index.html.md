@@ -146,12 +146,9 @@ To change a start date after a **GitLab entity** contract has been signed and th
     - Fill in Reason For Change. This is to inform the People Experience team of the reason for the new date (i.e. Public Holiday, New Hire request, Hiring Manager request, etc.).
     - Optional: Fill in Any other changes.
     - Click Submit
-1. Update BambooHR to reflect the new start date.
+1. Upload start date change comms into Bamboo HR.
    - Sign into Bamboo HR
    - Search of the new team member's name
-   - Click on the Job tab under the name and title
-   - Update the hire date to reflect the adjusted date
-   - Save Changes
    - Click on the Documents tab under the name and title
    - Upload
    - Choose File(s)
