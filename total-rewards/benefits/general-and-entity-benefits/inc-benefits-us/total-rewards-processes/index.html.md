@@ -18,14 +18,12 @@ description: "Total Rewards Processes & Audits for US benefits."
 
 #### EOI
 
-DRI: TBD
-Cadence: Weekly until integration is in place.
+DRI: Automated by PlanSource
 
-1. Log into [Cigna For Employers](https://cignaforemployers.cigna.com/), select `Reports & Tools`, and select `Medical Underwriting`. 
-1. In the Medical Underwriting platform, select `GitLab Inc` and `Activity in Last 7 Days`. 
-1. When an application moves to and "Approved" or "Closed" status, find the corresponding EOI Request in PlanSource find in the My Tasks section on the homepage.
-1. Checkmark all of the EOIs that are able to be reviewed at this time and click the button to `Review the Selected Queue`.
-1. If any amount over their current election is approved per the Cigna Underwriting website, update the effective date to the current date, select to send subscriber an email, and select to approve. If the entire requested amount was denied by Cigna, keep the original effective date and select to reject. 
+1. Employee elects Voluntary Life & Ad&D plans in PlanSource.
+1. If required, PlanSource routes the employee to the Cigna website to fill out the the Evidence of Insurance directly.
+1. The Employee fills out the Evidence of Insurability and completes enrollment. 
+1. Cigna/NY York Life rejects/approves the request and automatacally updates the election amount on PlanSource. 
 
 #### Qualifying Life Event (QLE) Processing
 
@@ -61,23 +59,17 @@ Cadence: Ad hoc (check at least weekly)
 | Birth | Birth certificate <br> Hospital Documentation | Name of team member, name of child, date of birth, hospital letterhead, seal, or signed by doctor/hospital admin (hospital documentation only) |
 | Adoption | Court order for adoption | Team member name, new dependent's name, court order effective date |
 | Divorce or annulment | Divorce decree/court ruling for annulment | Name of team member and ex-spouse, date of divorce/annulment |
-| Establishment or Dissolution of Domestic Partnership | N/A | N/A |
+| Establishment or Dissolution of Domestic Partnership | [Domestic Partner Affidavit](https://drive.google.com/file/d/11cV-WXJXu8G626muav2aJvpYS4CMleeE/view?usp=sharing) <br> [Dissolution of Domestic Partnership Affidavit](https://drive.google.com/file/d/1vlhVumXZbw8to2EHXgoDw0HCK4DwWLQ3/view?usp=sharing) | Name of team member, name of domestic partner, date of birth, date of event |
 | Death of Dependent | Death Certificate | Name of dependent, date of death |
 | Gain of Coverage Elsewhere | Benefits summary, letter from new benefits admin/HR, letter from new insurance carrier | Name of team member and/or dependents being removed from coverage, effective date of new coverage, list of new coverages (medical, dental, vision) |
 | Loss of Coverage Elsewhere | Benefits summary, letter from old benefits admin/HR, letter from old insurance carrier, COBRA paperwork | Name of team member and/or dependents being added to coverage, termination date of old coverage, list of coverages (medical, dental, vision) being lost |
 
 #### Making Updates in the Carrier Systems
-This is a temporary process while EDI feeds are being set up.
-
-##### Cigna
-TODO
-
-##### Kaiser
-TODO
+Cigna & Kaiser are automatically fed Member and plan data from PlanSource via the integration. 
 
 ##### WEX Discovery
 Cadence: Semi-Monthly, after each pay period
-DRI: TBD
+DRI: Total Rewards, Benefits - Raisha Kole
 Temporary process until integrations are in place
 
 **HSA, DCFSA, Commuter Parking and Commuter Transit Funding** 
@@ -103,22 +95,19 @@ Temporary process until integrations are in place
 
 
 
-#### Census Updates
+#### Census & New Hire Updates
 
-Cadence: Semi-monthly
-DRI: TBD
+Cadence: Weekly - Thursdays
+DRI: Total Rewards, Benefits - Raisha Kole
 Temporary process until intregrations are in place
 
 **BambooHR to PlanSource:**
 
-1. Review the US Payroll Changes spreadsheet at the middle and end of each month for any changes that would need to be made in PlanSource ie job title changes, salary changes, address changes.
+1. Download a New Hire Report from Bamboo HR, log on to PlanSource and update New Hire's profile with salary and full time/part time designation. 
+1. Review the US Payroll Changes spreadsheet weekly for any salary changes that would need to be made in PlanSource.
 1. If there are only a few updates to be made, navigate to the team member's profile directly and make any applicable updates.
 1. If there are many updates to be made, navigate in PlanSource to "Data & Tools" -> "Data" -> "Employee Update Worksheet". Download the template with the necessary fields and re-import here once updated with the information from the Payroll Changes spreadsheet.
 
-**PlanSource to Carriers:**
-
-1. In PlanSource, navigate to "Data & Tools" -> "Reports" and download both an "Employee Census Report" and "Dependent Census Report" using the date range from the last time the report was ran to today's date. 
-1. Any new hire enrollments or changes due to qualifying life events should have already been updated during separate processes. Any address changes or census changes not tied to a new hire or QLE will need to be updated in the applicable carriers system by logging into the admin portal, navigating to the team member's profile, and selecting to change/update.
 
 ### Monthly Health Bill Payments
  
@@ -164,12 +153,5 @@ TODO
  
 This quarterly audit is conducted to identify any differences in enrollment between the carrier records and what a team member has elected in PlanSource.
  
- 
-#### Kaiser Medical
- 
-TODO
- 
-#### Cigna Dental/Vision
- 
-TODO
+
 
