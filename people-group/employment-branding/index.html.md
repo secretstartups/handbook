@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Talent brand
-description: "Talent Brand is sharing what it's like to work at GitLab, because we wouldn't be successful without our people and our culture."
+description: "Our ambitions as an employer, the steps we take to achieve and communicate those ambitions, and the measures in place to ensure we live up to them."
+twitter_image: "/images/tweets/gitlab-first-look-twitter-card.png"
 ---
 
 ## On this page
@@ -16,18 +17,77 @@ As a global, all-remote company, GitLab has a unique story to tell.
 A key part of telling that story is sharing what it's like to work here, because we wouldn't be successful without our people and our culture.
 This page outlines our approach to talent brand at GitLab.
 
-### Our audience
+## Defining our talent brand vision
 
-The audience we hope to reach with our talent brand initiatives is both internal and external to GitLab:
+If we look 10 years into the future, we picture an iteration of GitLab that's a decade closer to achieving [our mission](/company/mission/) and that has continued to evolve. Our talent brand vision is meant to capture how we picture GitLab evolving over the decade ahead.
 
-- GitLab team members
-- Job candidates and future team members
-- The broader GitLab community
-- People interested in remote work
+![Talent brand vision statement](/images/talent_brand/Talent_Brand_Vision.png)
+There are two parts to this vision: 
 
-## GitLab team member value proposition
+1. Continually building a company with a values-led, remote culture where people can contribute and thrive
+1. Becoming increasingly well known both externally and internally for being this type of workplace
 
-We've defined our team member value proposition, and you can find it on the [GitLab Culture page](/company/culture/#life-at-gitlab). We focus on these tenets as we tell the story of what it's like to be part of our global, all-remote team.
+To achieve the first part, we need to ensure that we’re building a workplace that fits this description. To achieve the second part, we need a thoughtful go-to-market strategy so that over time we become more well known for these things.
+
+## Achieving our talent brand vision
+
+To work toward our defined vision, we believe that continually improving on, highlighting, and sharing the following things about GitLab put us on a path toward realizing this vision. 
+
+This will require close collaboration with all parts of the People and Marketing Groups as we’ll want to ensure that we promote and communicate the things that move us closer to fulfilling our vision.
+
+As we build GitLab into one of the world’s best workplaces, we will look to increasingly educate candidates and team members about 3 themes that set us apart from other workplaces.
+
+
+#### GitLab is a place where...
+
+1. **Everyone can contribute**
+
+    - We’ve got big ambitions to make GitLab the [top DevOps platform](/solutions/devops-platform/) and need skilled contributors to get us there.
+    - Our [mission](/company/mission/) makes it clear that we believe in a world where everyone can contribute. We make that possible at GitLab by [running our operations](/handbook/using-gitlab-at-gitlab/) on our product. This means everything is read-write by default.
+    - We operate around the world. We welcome people of all backgrounds to contribute to our success and have built [Diversity, Inclusion, and Belonging programs](/company/culture/inclusion/) and practices into all parts of our company.
+    
+
+1. **Anyone can thrive**
+
+    - Building a company where anyone can thrive means putting in place the programs needed for our team members to manage their [health, wealth, and well-being](/handbook/total-rewards/benefits/) regardless of location.
+    - [Career development](/handbook/people-group/learning-and-development/career-development/), clarity in expectations by having defined performance indicators, [learning & development](/handbook/people-group/learning-and-development/), and access to opportunity are all things that are top of mind as we grow GitLab.
+
+1. **We foster a values-led, remote culture**
+
+    - Our [CREDIT values](/handbook/values/) drive a culture that’s built to operate in an [all-remote environment](/company/culture/all-remote/guide/). Because we’re all-remote, we aim to stay at the forefront of best practices & building culture.
+    - Our [handbook-led approach](/company/culture/all-remote/handbook-first-documentation/) and async working style highlight our values-led, remote culture.
+
+## Key ways we bring this vision to life
+
+- **Talent brand marketing:** Aligning our value proposition with a go-to-market plan so that key candidate audiences are aware of GitLab. Matching the look & feel of recruiting materials with the GitLab brand, and creating external campaigns.
+
+- **Content development:** Creation and distribution of candidate & careers content that further our talent acquisition and talent attraction goal.
+
+- **Education & Enablement:** Maintaining the internal & external sources that inform and engage candidates from pre-apply to hired.
+
+- **Partners & Sponsorships:** Identifying and building relationships with digital & events partners that can help us reach new audiences
+
+- **Team member engagement:** Bring team members along on the journey through storytelling, empower team members to become GitLab ambassadors, and share information transparently so that the company we’re building reflects the company we’re promoting.
+
+We use a number of tactics to bring GitLab’s value proposition to life. Using talent brand marketing and content development we’ll create candidate-facing materials that show GitLab as an employer of choice. Additionally, candidate and public engagement & education alongside partnerships & sponsorships will provide added evidence that our value proposition is an accurate reflection of who we are as a company. Lastly, internal communication will bring team members on the journey with us and help engage team members so that our culture remains strong.
+
+As we consider the ways in which we will bring our value proposition to life, we’ve also landed on several design principles to help guide the tactics we choose to deploy within the key areas mentioned above.
+
+## Design principles that underpin our strategy
+
+- **Do less, but go bigger:** We’re currently spread too thin given the amount of context shifting across tactics; we’ll decide which tactics look most promising and put our focus there.
+
+- **Measure & analyze to continually improve over time:** We need to choose tactics that can be measured and understood so that we can align on ways to improve.
+
+- **Nail the basics:** We need to do a better job of getting the basics right (i.e. how we post jobs, what our job ads look like, social media sharing).
+
+- **Invite GitLab team members to be a part of the journey:** Bring team members along on the journey through storytelling, empower team members to become GitLab ambassadors and seek input from across the company to continually iterate.
+
+## How this translates to OKRs and our roadmap
+
+We strive to be as transparent as possible, but this section is only for GitLab team members.
+
+[FY23 Talent Brand Go-to-market strategy and roadmap](https://docs.google.com/presentation/d/1akzXsSbrKWnLbgo37xIRViG_SUboDsg3DpAOYYjqpMA/edit?usp=sharing)
 
 
 ## Digital channels for talent branding
@@ -131,7 +191,7 @@ As one of the world’s largest all-remote companies, GitLab is a place where yo
 
 We were recently named one of Fortune's Best Workplaces in Technology, and it’s an exciting time to join the GitLab team.
 
-We're hiring across the company. Check out our opportunities: https://about.gitlab.com/jobs/careers/  
+We're hiring across the company. Check out our opportunities: https://about.gitlab.com/jobs/  
 
 **HackerNews Notes:**
 - Sid's HackerNews credentials should not to be used for the "Who's Hiring" post. The team member posting the comment should use their own account.
@@ -147,7 +207,11 @@ The [life at GitLab content library](/handbook/people-group/employment-branding/
 
 Spread the word about life at GitLab by becoming a GitLab talent ambassdor.
 
-Whether you're a hiring manager or an individual contributor, [this page](/handbook/hiring/gitlab-ambassadors) outlines the steps you can take to help represent our talent brand and attract more great people to join the team.
+1. Share with your social media network when your team is welcoming a new team member and have your new team member share with their networks as well by leveraging [this template](https://docs.google.com/presentation/d/1Itl4rKjihsByhTER0DZgpT6GqWCxjPo5rAJ7WPgaym4/edit?usp=sharing)!
+2. Share with your social media network that your team is hiring by posting one of [these job ads](https://drive.google.com/drive/folders/17MSdy-vjfcQJVRwH2abz1k4tcOHX8fbe?usp=sharing) (don't forget to include a link to the job)!
+3. Include the #LifeatGitLab hashtag and the [link to our careers page](https://about.gitlab.com/jobs/) in your posts.
+
+Whether you're a hiring manager or an individual contributor, [this page](/handbook/hiring/gitlab-ambassadors) outlines additional steps you can take to help represent our talent brand and attract more great people to join the team.
 
 ## Employer awards and recognition
 

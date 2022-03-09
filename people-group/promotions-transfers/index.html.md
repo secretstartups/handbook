@@ -12,75 +12,192 @@ description: "Information and protocols related to GitLab promotions and transfe
 
 ## Introduction
 
-At GitLab, we encourage team members to take control of their own career advancement. We have no minimum time in role requirements for promotions or transfers at GitLab with exception of roles in Sales Development where we have a guideline of twelve months tenure prior to promotion or transfer due to the nature of the role and ramping requirements. For all title changes, the team member should first speak with their manager to discuss a personal [professional development plan](/handbook/people-group/learning-and-development/career-development/). If you feel your title is not aligned with your skill level, come prepared with an explanation of how you believe you meet the proposed level and can satisfy the business need.
+Devloping talent internally is a key component of our success at GitLab, and our promotion process is built to support that development in alignment with our [values](https://about.gitlab.com/handbook/values/). Team members have two main avenues to pursue career advancement at GitLab: 1) Via our promotion process, and 2) By applying and interviewing for open positions that are approved in our headcount plan (transfers). 
 
-As a manager, please follow the following processes, discuss any proposed changes with either the People Business Partner or Chief People Officer, and do not make promises to the team member before the approvals are completed.
+Promotions are reviewed and approved once per quarter to support a consistent, predictable, and fair process. We leverage public (to GitLab) promotion documents where we outline the business results, increasing job scope, and values alignment that a team member demonstrates which support their promotion. The People Business Partner and leadership team are responsible for calibrating promotion nominations aligned with the timeline below. 
 
-We recorded a training on this subject:
+We encourage team members to take control of their own career advancement, and believe every team member deserves a great manager to support them. If you feel your title is not aligned with your skill level, come prepared with an explanation of how you believe you meet the proposed level and can satisfy the business need. Team members are empowered to own their development and can use the [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) as a tool to articulate and align on the skills they want to develop as they think about growing into a larger role. 
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/TNPLiYePJZ8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+In addition to promotions, this page captures information about transfers, realignments and career mobility. 
 
 ## Definitions
 
-- Promotions occur when a team member increases in level within the same job family. For example, a Backend Engineer is promoted to a Senior Backend Engineer. Similarly, a Senior Backend Engineer would receive a promotion by moving to a Staff Backend Engineer or Manager, Engineering.
-- Transfers occur when someone changes job families. A Backend Engineer would transfer to a Site Reliability Engineer.
-- Change in specialty has no impact to job family. Therefore, this is not a promotion or a transfer.
+- **Promotions** occur when a team member increases in level within the same job family. For example, a Backend Engineer is promoted to a Senior Backend Engineer. Similarly, a Senior Backend Engineer would receive a promotion by moving to a Staff Backend Engineer or Manager, Engineering.  
+- **Transfers** occur when someone changes job families. A Backend Engineer would transfer to a Site Reliability Engineer. Generally these happen based on an open req and application process via Greenhouse. 
+- **Manager Promotions** occur when someone is promoted to a people manager level. These promotions typically start with an open req and are processed through Greenhouse. 
+- **Change in specialty** has no impact to job family. Therefore, this is not a promotion or a transfer.
 
-## Career Mobility Issue
 
-A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) is created when the one of the following criteria is met;
+# Promotion Philosophy
 
-- Migration from Individual Contributor to Manager
-- Migration from Manager to Individual Contributor
-- Migration of Team
+Our promotion philosophy is compromised of a few core pillars surrounding the approach and process alignment to our values. 
 
-When a career mobility may not be needed (but can be requested);
-- Team/Speciality change but no access request needed
+### Pillars
 
-## Career Mobility Issue Creation Process
+* Promote based on performance, not based on potential. Team members are already executing at the next level ([job grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)) prior to promotion. 
+* Career growth should be a partnership between team member and manager. As manager, it is important to create space to regularly discuss your team members' development and career aspirations, and identify opportunities to support them in their advancement and growth. If you as a team member feel you are approaching promotion readiness, it is encouraged for you to initiate this conversation with your manager. 
+* When reviewing a proposed promotion, we should consider: 1) readiness of the individual, and 2) business need/opportunity
+* All promotions at GitLab require a [promotion document](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#heading=h.5ahg1o4v53q7). We believe in [transparency](/handbook/values/#transparency) around the promotion process.
+* We encourage team members to live our [efficiency value](/handbook/values/#efficiency) and be a [manager of one](/handbook/values/#managers-of-one) and take ownership of their promotion document in partnership with their manager.
+* We calibrate promotions on a quarterly basis to ensure an equitable review, and through this process track metrics that help us understand if our promotions are occurring at a healthy and fair rate. 
 
-The People Connect Team will notify the People Experience Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) currently in the assignment rotation will assign the migration to an Associate in the People Exp/Ops Tracker.
+### Values Alignment 
 
-The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by using the [automated Slack command](/handbook/people-group/engineering/employment-issues/#career-mobility-issues) three days prior to the effective date to allow for the managers to start preparing for the team members transition.
+Our promotion philosophy is also aligned with our [values](/handbook/values/):
 
-Important things to ensure:
+- **Collaboration**: Cross-functional lens for feedback and calibration 
+- **Results**: Business justification, scope, and team member results are demonstrated and documented to support promotions
+- **Efficiency**: Consistency and scalability in our processes
+- **Diversity, Inclusion, and Belonging**: Fairness and equity reflected through a consistent approach and documentation to promotions at all levels in the organization and supported by our [job frameworks](/company/team/structure/) and Total Rewards [URG](/handbook/total-rewards/compensation/compensation-review-cycle/review-cycle-inputs/#underrepresented-group-audit) audit
+- **Iteration**: Process is improved each cycle. In FY23, we moved to quarterly promotions with calibration and updated our processes and metrics accordingly.
+- **Transparency**: Clarity and efficacy of promotion metrics, budget, and guidelines, in addition to transparency in promotion justification through internally public promotion documents.
 
-1. Add a due date of two weeks from the migration effective date.
-1. Check to see that the previous Manager and new Manager is listed correctly in the issue.
-1. Complete all applicable tasks under the People Experience list.
+## Promotion Process & Timeline
 
-## Important Tasks once Career Mobility has been finalised
+At GitLab, we promote on a quarterly cadence. This means that there is **one effective date per quarter when team members can be promoted**. There are three core stages to the promotion process: Planning, Calibration, and Processing. 
 
-1. This needs action from both the current and new managers to set the migrating team member up for success in their new role. This may include:
+| Stage | Purpose |
+| ---------- | ----- |
+| [Planning](/handbook/people-group/promotions-transfers/#planning) | Managers and leaders to review their respective teams to determine promotion readiness, business need, and timeline for the upcoming quarters and project promotions |
+| [Calibration](/handbook/people-group/promotions-transfers/#calibration) | The calibration exercise is an opportunity for leaders (sync or async) to review projected promotions on a quarterly basis. This is an opportunity to create visbility and ensure consistency in who we are promoting and why. |
+| [Processing](/handbook/people-group/promotions-transfers/#process-hris-greenhouse-or-compaas) | The final stage once promotions are defined, is to determine where to process the promotion to finalize (this will take place via BambooHR, Compaas, or Greenhouse). 
 
-- Creating the correct Access Requests for systems needed and for systems no longer needed.
-- Create any training issue that may be required.
-- Reminding the team member to update their title on the team page, on their GitLab profile, in Zoom, in Slack and on professional networks like Linkedin. If relevant, remind them to order new business cards as well.
-- If we are in the middle of company wide 360 reviews, it is encouraged that the current manager and new manager arrange a successful handover of the feedback, whether sync or async.
+Below is the timeline for FY23: 
 
-## Career Mobility Retrospective
+- FY23-Q1:
+  - Planning: December 15 to January 5
+  - Calibrations: January 5 to January 15 
+  - Processing: January 15 to February 1 
+     - Promotions must be added to Compaas by January 20. 
+     - Effective date for promotions: 2022-02-01. 
+     - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicated 1:1 with individuals, updates can be posted publicly in [#team-member-updates](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process).
+- FY23-Q2: 
+  - Planning: March 15 to April 1
+  - Calibrations: April 1 to April 8
+  - Processing: April 11 to May 1 
+     - Promotions must be added to HRIS by April 20. 
+     - Effective date for promotions: 2022-05-01. 
+     - Communication: After fully approved in either Greenhouse or HRIS
+- FY23-Q3: 
+  - Planning: June 15 to July 1 
+  - Calibrations: July 1 to July 8
+  - Processing: July 11 to August 1
+     - Promotions must be added to HRIS by July 20. 
+     - Effective date for promotions: 2022-08-01. 
+     - Communication: After fully approved in either Greenhouse or HRIS
+- FY23-Q4:
+  - Planning: September 15 to September 30
+  - Calibrations: October 3 to October 10 
+  - Processing: October 10 to November 1 
+     - Promotions must be added to HRIS by October 20. 
+     - Effective date for promotions: 2022-11-01. 
+     - Communication: After fully approved in either Greenhouse or HRIS
 
-The team member going through this transition and assigned to their Career Mobility issue have a set of tasks to complete. An important one is to create a retrospective thread within their Career Mobility issue, so that they and their respective previous and current managers can discuss any questions, comments, proposals and more about their issue within said issue. Retrospectives are used in many ways at GitLab, such as which are used after GitLab product [releases](/handbook/communication/#release-retrospectives-and-kickoffs) and describing the Product [retrospective workflow](/handbook/engineering/workflow/#retrospective). For the Career Mobility issue, simply comment in the issue, starting a thread titled **Retro thread** or **Retrospective**. Please feel free to ping your assigned People Experience Associate in your issue if you have any questions.
+_Please note that the Calibration timeline for Senior Director+ promotions will differ slightly from the timelines indicated above, as Senior Director+ promotions are calibrated at the [quarterly E-group offiste](https://about.gitlab.com/company/offsite/#schedule)._
 
-## Compliance
+### Quarterly Promotion Cadence Exceptions
 
-The People Experience Associate completes a bi-weekly audit of all career mobility issues that are still open and checks that all tasks have been completed by all members applicable. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant team members within the transition issue to call for tasks to be completed.
+While we are aligned to a quarterly promotion cadence across the organization, there are rare exceptions that will be considered. 
+1. Application to a new, approved headcount in Greenhouse - internal candidates go through an interview process
+2. Promotions stemming from individuals in [interim/acting roles](/handbook/people-group/promotions-transfers/#interim-and-acting-roles)
 
-Once all tasks have been completed and the issue is still open, the People Experience Associate will close the transition issue accordingly. The transitioning team member can also close the issue once satisfied all the tasks are complete.
+Approvals for the two scenarios above will be aligned with standard promotion approvals in BambooHR or Greenhouse.
 
-All migration tasks by the applicable team members needs to be completed within 2 weeks of the migration start date.
+If there is an exception requested that is _not aligned with one of the two exception scenarios above_, approvals should align with the following approval matrix:
 
-## For Team Members: Transitioning To A New Manager
+| Promotion Level | Approvals Required |
+| ---------- | ----- |
+| Under Director level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 5-9.5) | 1) Direct Manager, 2) Department Head, 3) People Business Partner, 4) Total Rewards, 5) FP&A |
+| Director+ level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 10-15) | 1) Direct Manager, 2) Department Head, 3) People Business Partner, 4) Total Rewards, 5) FP&A, 6) **E-Group Leader** |
 
-There are several situations at GitLab that could lead to team members changing managers, including promotions, lateral transfers, company restructuring, manager resignation, etc. The process of building a new relationship with a new manager can be uncertain at times, but there are resources to help this transition process go smoothly:
+The difference in approvals is the Director+ level off-cycle promotion exceptions require approval through E-Group, and off-cycle promotions for levels under Director require approval through Department head. 
 
-- [Transitioning 1-1s](/handbook/leadership/1-1/#transitioning-1-1s) is a very important part of manager transitions. This helps ensure the new manager is up to speed on important discussions, deliverables, etc. so this information does not get lost in the transition.
-- The [career mobility template](https://docs.google.com/document/d/1iRbmS518CDjmhZEjvkaibqR1g0angWE83sWvtlH-elE/edit#heading=h.5ahg1o4v53q7) helps to ensure accomplishments, strengths, development areas, etc. are all captured with evidence moving forward. This makes sure career development progress continues and is not lost with manager changes. 
-- Sharing your most recent 360 feedback review and most recent performance review with your new manager can also be a great way to align on your strengths and improvement areas and discuss how they can partner with you in developing both.
+Regardless of the promotion level, it is critical that leaders work with their People Business Partner, Total Rewards, and FP&A [as outlined](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) to identify tradeoffs we can review to fund the promotion.
 
-## BambooHR or Greenhouse Process
+
+
+## Planning
+
+Promotion Planning is generally done with via spreadsheets to maintain confidentiality and enable collaboration across department leaders. These spreadsheets are available to the Leaders of each department and are set up by the People Business Partners in collaboration with the Total Rewards team. Prior to the Planning phase in the timeline above, People Business Partners will make sure the spreadsheets are up to date before going into the Calibration phase. 
+
+### Promotion Document
+
+The [promotion document](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#heading=h.5ahg1o4v53q7) serves as a baseline to outline what should be included in all promotion documents, irrespective of division, department, or role. 
+
+As the audience are other GitLab team members, the text should be written in third person using the team member's name and appropriate pronouns (he/she/they) to highlight the work and skills as evidence of the team member's suitability for the role.
+
+Promotion documents should demonstrate values alignment, business need for the role, and team member readiness through delivery of impactful business results. The core sections in our promotion document are:
+1. Promotion Summary
+2. Values Alignment
+3. Business Results
+4. Business Justification 
+
+When creating promotion documents, remember: 
+
+- Promotions are based on performance, not potential 
+- Promotion documents should not exceed 3 pages total.
+- Please reference the [job frameworks](/company/team/structure/) in the handbook for guidance pertaining to expectations at the various levels at GitLab. The job levels should help guide data chosen to be included in the promotion document, in addition to discussion during calibration sessions.
+- Please be sure that the promotion document has “comment” access enabled to ‘Anyone at GitLab who has the link!’ to ensure the review and approval process is not delayed. Please delete the instructions associated with each section of the promotion document below before submitting the promotions. 
+
+
+### Promotion Metrics 
+
+GitLab tracks the following promotion metrics in [Sisense](https://app.periscopedata.com/app/gitlab/756370/Promotion_Rate)
+
+1. Internal Mobility
+
+GitLab tracks Internal Mobility rate. Market data indicates that a 12% rolling promotion rate as the guideline for what we should see on average across the company for promotions. This is a guideline/target for business leaders to understand where they fall against what is considered standard in the market, not a restriction/cap. 
+
+2. Average % Compensation Change
+
+GitLab targets an average of [5-10% compensation change](/handbook/people-group/promotions-transfers/#recommend-a-compensation-increase) in general for promotions. This metric is in place to ensure we are consistent and equitable across the company when allocating promotion compensation raises to team members, in addition to ensuring competitive and meaningful promotion increases across the board. 
+
+3. Budget Impact (see below) 
+
+FP&A tracks budget impact by Department/Division on a quarterly basis
+
+
+### Promotion Budget
+
+Promotion budget is held at the division leader level, and optionally scaled down to department heads on a quarterly basis depending on department size. Decision to scale budget  down is at the division leader's discretion.
+
+Please review the [Compensation Program Budget](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) to understand how quarterly promotion budget is allocated and the process to review potential tradeoffs if divisions/departments are over/under budget for any given quarter. 
+
+## Calibration
+
+Each quarter Department/Division Leadership and the aligned People Business Partner plan a calibration session to review projected promotions. The goal of these calibration sessions is to set a fair and consistent standard in the Department for promotions, peer review promotions, and provide an opportunity for leaders to ask questions. These sessions can be async or sync. 
+
+During calibration sessions, leaders should be prepared to discuss:
+
+1. Core themes of the promotion document (values alignment, business justification, business results)
+2. Improvement areas (the promotion document outlines strengths, but we also want to highlight how we will support a team member's development areas at the next level)
+3. Cross-functional feedback (as our business goals and initiatives become increasingly cross-functional, managers should have a picture of how their team member collaborates effectively within their immediate teams, and with their core cross-functional partners and stakeholders)
+
+Calibration should be aligned to the following levels of leaders and people managers:
+
+| Promotion Level | Level Calibrated |
+| ---------- | ----- |
+| Under Director level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 5-9.5) | Calibrated at the Department level |
+| Director level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 10) | Calibrated at the Division level |
+| Senior Director+ level ([Job Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 11-15) | Calibrated at the E-Group level |
+
+Note that calibration structure may vary by division and department depending on size/scope/etc.
+
+## Processing
+
+There are three options for processing promotions: HRIS, Greenhouse or Compaas. Criteria to determine which option is most appropriate is outlined below.
+
+## Promotions to Senior Director+
+
+Philsophically, all promotions at GitLab are approached in the same way, follow the same high level process (Planning, Calibration, Processing), and use the same promotion document template. 
+
+Promotions to Senior Director+ level ([job grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above) have the following differences:
+
+1. **Planning**: Senior Director+ promotions need to be added to E-group's promotion project sheet at least two quarters ahead of the desired promotion quarter for visbility. For example, if I want to promote an individual effective in Q1 (February), then I need to have this team member added to E-group's projection sheet within Q3 (latest October). Please work with your aligned People Business Partner, who will ensure the promotion projection is added. 
+1. **Calibration**: All Senior Director+ level promotions are calibrated at the E-group level, as opposed to at the Department level. Calibration timeline will align to the timing of the [E-group offiste](https://about.gitlab.com/company/offsite/#schedule), and will thus differ from the Calibration timeline of the rest of the organization. All promotion documents need to be completed and shared with the E-group for visbility and preparation at least _2 weeks before the off-site date_. 
+
+
+The only exception to this process is when filling an open Director and above role with an existing GitLab team member for a role posted publicly that an internal team member applies for. If external candidates have been considered and interviewed, and the internal candidate earns the role through a standard hiring process (screening, full interview process) then the recruiter may make an offer to the candidate as soon as the offer is approved. There should be no difference in the timing or process of making and accepting an offer for open roles between internal and external candidates.
 
 ### Greenhouse
 
@@ -88,6 +205,8 @@ There are several situations at GitLab that could lead to team members changing 
     - Example: Senior Backend Engineer applies to become a Manager, Engineering
 - Interim Roles: Interim roles at all levels should go through the Greenhouse interview process (regardless of the number of applicants for the role).
     - Example: Senior Backend Engineer applies to become a Manager, Engineering (interim)
+- Interim roles that transition to the permanent role: All team members that started the Greenhouse process and were hired into the interim role will make the transition to the permanent role via Greenhouse as well. While on the interim the req will be paused by Talent Acquisition and reopened to process the hire into the permanent role. 
+    - Example: Manager, Engineering (interim) transitions to Manager, Engineering. 
 - Lateral Transfers to a different job family: apply and approval through the Greenhouse [hiring process](/handbook/hiring/).
     - Example: Backend Engineer applies to a Site Reliability Engineering role.
 
@@ -98,7 +217,7 @@ For any transfer being submitted through Greenhouse [hiring process](/handbook/h
 - The positions must be open for a minimum of 24 hours
 - There must be a minimum of 2 interviews completed before moving to an offer for a candidate
 
-### BambooHR
+### HRIS
 
 - Promotions for Individual Contributors in the same job family: reviewed and approved through the [BambooHR Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process)
     - Example: Backend Engineer is promoted to Senior Backend Engineer.
@@ -106,134 +225,41 @@ For any transfer being submitted through Greenhouse [hiring process](/handbook/h
     - Reviewed and approved through the [BambooHR Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) for any change in territory, segment, or specialty when there is no change to the job family or level, there is no compensation or stock adjustment and no backfill request.
     - Apply and approval through the Greenhouse [hiring process](/handbook/hiring/) for any change in territory, segment, or specialty that requires a change in job family or level, change in compensation or stock adjustment or requires a backfill request.
 
-### Promotions to Director and Above
+### Compaas
 
-- Approval through the [BambooHR Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) to ensure the CFO/CEO have insight and approval into leadership promotions.
-    - The [e-group](https://about.gitlab.com/company/team/structure/#e-group) will review any promotion at Director level (or above) in their weekly meeting 3 months before the promotion is intended to take place and feedback may be provided to the individual and their manager to work on. This is to ensure consistent leadership qualities across the company. Exceptions to this timeline can be made at the e-group's discretion. We do not yet have a similar method to ensure consistency in external hires for Director (and above) roles but we hope to add it soon.
-    - All Director level (or above) promotions will be reviewed by the [e-group](/company/team/structure/#e-group) on a quarterly basis at the e-group offsite. Proposed promotions must be added to the promotion tracker by the PBP no later than 10 business days before the e-group offsite is [scheduled](https://about.gitlab.com/company/offsite/#schedule) to occur. Proposed promotion will be assessed against the criteria outlined in our [Team Structure](/company/team/structure/), as well as the business need for the promotion, each of the [Values](/handbook/values/), [our competencies](/handbook/competencies/), and considerations.
-    - The only exception to this process is when filling an open Director and above role with an existing GitLab team member for a role posted publicly that an internal team member applies for. If external candidates have been considered and interviewed, and the internal candidate earns the role through a standard hiring process (screening, full interview process) then the recruiter may make an offer to the candidate as soon as the offer is approved. There should be no difference in the timing or process of making and accepting an offer for open roles between internal and external candidates.
-    - Please [use this template](https://docs.google.com/document/d/1BrUhW_9V8kE0MaiHDtqWOvjFLIwLYMEegSybBTuIHq0/edit#heading=h.o7rctrz9uxl7) for Director or above promotions, and share the final version with your People Business Partner so the promotion is added to the tracker for the e-group to review. If the promotion is approved and announced, update sharing access to the promotion doc to be accessible by anyone at GitLab.
-    - Please also ensure that the team member's [job family](https://about.gitlab.com/handbook/hiring/job-families/#job-families) has been updated to include the new level and the role responsibilities in advance of the promotion going to the e-group for review.
+When the promotion cycle is running concurrently with our Annual Compensation review (FYXX-Q4) we will use Compaas for processing promotions to eliminate the need for two tools. The steps are as follows: 
 
-## Interim and Acting Roles
+- Work with your People Business Partner after the [Planning](/handbook/people-group/promotions-transfers/#planning) and [Calibration](/handbook/people-group/promotions-transfers/#calibration) to ensure Total Rewards has visbility into who is up for promotion. 
+- Total Rewards will update the "slate" for the team member in Compaas to reflect the new compensation range aligned to the promoted level.
 
-### Interim (Engineering-Specific)
+Compensation Recommendations:
+1. Cash compensation
+- Managers can make [their cash compensation increase recommendations via Compaas](/handbook/total-rewards/compensation/compensation-review-cycle/#determining-compensation-increases) aligned to the newly promoted level.
 
-As part of the career development structure within the Engineering division, interim and acting role opportunities occasionally arise. For more information on how interim and acting roles fit into Engineering career development, please reference the [Engineering career development handbook page](/handbook/engineering/career-development/). For information on the interim and acting processes, please continue reading below.
+2. Equity compensation
+- Total Rewards will input equity promotion grants into Compaas, managers do not need to do this. Managers **should not** consider the new promotion when making equity refresh recommendations for team members.
 
-#### Beginning Interim Period
-
-As highlighted in the [BambooHR or Greenhouse Process](https://about.gitlab.com/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process) section, all interim roles (regardless of the number of applicants) should go through the Greenhouse application and interview process. The interview process steps will be determined by the hiring manager and next level leader. This will contain several steps of the standard [GitLab hiring process](https://about.gitlab.com/handbook/hiring/interviewing/#typical-hiring-timeline). The process for team members interested in applying for an interim role is as follows:
-
-1. _Team Member_: Apply for the interim position in Greenhouse.
-
-_Once a team member successfully completes the interview process and is selected for the interim period, the following steps should be taken to ensure the team member is set up for success in their interim role._
-
-1. _CES_: Issue a [Letter of Adjustment](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Letters of adjustment are important as this is the process by which Total Rewards is notified of change from Greenhouse.
-1. _People Connect Team_: Update the team member's job title in BambooHR to reflect that they have started an interim role (I.E. `Senior Manager, Engineering (interim)`). This update serves as the SSOT for tracking interim start and end dates, in addition to providing transparency pertaining to who is currently executing in an interim role. Job code and job grade will remain the same, as interim periods have no impact on compensation.
-1. _Current Manager_: A [Job Information Change Request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) should be submitted to:
-    - Move interim direct reports so the team member's interim direct reports are reporting to them in BambooHR. The change needs to be initiated by the current manager. The philosophy here is that if a team member has successfully gone through the interview process and has demonstrated they are ready/able for an interim period in a manager role, they have the required level of EQ and discretion to have direct reports in BambooHR. It is, of course, expected that should the interim period not end in promotion, the team member continue to treat confidential information confidentially.
-
-#### Ending Interim Period
-
-When the interim period comes to a close, one of two outcomes can occur:
-
-1. The team member successfully completes the interim period aligned with [the success criteria](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) and moves into the interim role permanently.
-
-- As a general guideline, the interim period should last no _less_ than 30 days, and no _more_ than 4 months .
-- The hiring manager should [submit a formal promotion request](/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr) via BambooHR including the promotion document to make the change official. The accomplishments leading up to the interim and during the interim can be used for the promotion document.
-
-1. The team member does not complete the interim period successful or decides that the manager track is not something they want to pursue, and moves back to their role prior to the interim period.
-
-- A feedback session between the team member and hiring manager should take place, so it is clear to the team member why the interim period was not successful.
-- The manager should submit a [job information change request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) in BambooHR to revert the team member's job title.
-- Not successfully completing the interim period _does not_ mean the team member can not move into a similar role in the future
-
-Irrespective of the outcome, when the interim period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/total-rewards/compensation/#submitting) for the team member.
-
-### Acting
-
-A person "acting" in the role is someone who occupies a role temporarily and will move back to their original role after a set amount of time or other conditions. "Acting" in a role may be experimenting with the role as a part of determining an individual's career development path, or may be filling in for a vacant role while we hire someone to fill the role permanently. While interim is only applicable to the Engineering division, acting is used across GitLab.
-
-_Interviews are not required role Acting roles as they generally do not end in promotion, nor are direct reports in BambooHR generally moved to Acting managers._ The process for selecting someone for an acting position is:
-
-- Upcoming Acting roles will be discussed over Staff meetings.
-- Leadership can gather interest from their team members for the upcoming acting roles.
-- The hiring manager will determine the most suitable team member for the acting role.
-- *Please make sure that the department head is in the loop and supportive of the acting period and candidate selected before moving forward.*
-
-_When the acting period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/incentives/#process-for-recommending-a-working-group-for-a-bonus-in-bamboohr) for the team member._
-
-### Updating Acting or Interim Movements in BambooHR
-If you recieve a job change or letter of adjustment to an interim or acting role here is how to process the change. 
-1. Save the letter to Documents > Contracts folder - `Share with employee`
-1. Review for compensation change 
-1. Access Level 
-    - Acting roles - No access change
-    - Interim roles - Access changed (if required)
-1. Update Job title (if required)
-1. Update Manager (if required)
-1. Update [Acting/Interim Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Uoz0frqDYEDINeodeeKBGMFVzdTuoe4x63LpHxU9WMo/edit#gid=0)
-1. Update [Transition Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/10O0idnLKcE4MHaNSt9dcvRzTx0Q_G6klKcznvmgrJbY/edit#gid=1366346015) (if required) 
-
-## For Managers: Requesting a Promotion or Compensation Change
-
-Please note that promotions will [freeze](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-change-freeze) from 2021-12-01 to 2022-02-01 due to Annual Compensation Review. Please ensure all promotions are submitted to BambooHR by December 1st.
+## Process for Managers: Requesting a Promotion or Compensation Change
 
 To promote or change compensation for one of your direct reports, do the following steps:
 
+1. Make sure to Plan and Calibrate on the promotion of the team member timely aligned with the above timeline. 
 1. [Verify whether this promotion should be approved in BambooHR or Greenhouse](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process). If BambooHR, continue. If Greenhouse, please reach out to the recruiter on the role.
 1. [Create a Promotion or Compensation Change Document](/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document)
+1. If the team member you are recommeding a promotion for is director or above, please refer to the [promotions to director and above](https://about.gitlab.com/handbook/people-group/promotions-transfers/#promotions-to-director-and-above)
 1. [Recommend a Compensation Increase](/handbook/people-group/promotions-transfers/#recommend-a-compensation-increase)
 1. [Submit a request in BambooHR](/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr)
 
 **Things to consider before you start the process:**
 
-- There will be situations when an employee is ready to move to the next level through a promotion, however, due to the nature of the business, that particular role or next level may not be available for business reasons. For example, the employee is ready for a Manager or Director role, however, the business does not have the need, budget or scope for an additional manager/director at that time. The position may or may not become available in the future but it is not a guarantee.
+- There will be situations when a team member is ready to move to the next level through a promotion, however, due to the nature of the business, that particular role or next level may not be available for business reasons. For example, the team member is ready for a Manager or Director role, however, the business does not have the need, budget or scope for an additional manager/director at that time. The position may or may not become available in the future but it is not a guarantee.
 - If the vacancy is being advertised via the [jobs page](https://about.gitlab.com/jobs/) the individual must submit an application for the role in order to be compliant with global anti-discrimination laws. Similarly, if there is no vacancy posting, one must be created and shared on the `#new-vacancies` slack channel so that everyone has the opportunity to apply and be considered.
-
-### Creating a Promotion or Compensation Change Document
-
-Create a google doc that outlines the criteria of the role. Make this document viewable and editable by all. If the criteria for promotion is not adequately described on the relevant vacancy description page, work on that first. Do not add compensation values to the google doc - only reasoning. Compensation values go into BambooHR only. Make the google doc accessible to anyone at GitLab who has the link. We have no minimum time in role for promotions at GitLab.
-
-Tips for creating a promotion document:
-
-- Promote based on performance, not based on potential
-- Add evidence - try to remove feelings and use evidence: links to MRs, issues, or project work that clearly demonstrates the skills, knowledge, and abilities of the person.
-- Feedback from other team members is _optional_ to include in promotion documents per the [promotion template](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#).
-
-**Important Notes**:
-
-- Do not solicit feedback for the purpose of the promotion document as this could be a violation of personal privacy. All feedback included should be feedback provided prior.
-- All feedback included should be anonymized (unless it had already been made public - for example: a discretionary bonus, #thanks Slack channel, etc.).
-- As Slack has a limited retention, consider capturing messages that may be useful for a promotion document.
-- [Values](https://about.gitlab.com/handbook/values/) alignment - values are also very important when considering promotions. This is especially the case for anyone who is moving to Senior. As one moves into management, the importance compounds. Values thrive at a company only when we take them into consideration for hiring and promotions. Consider the job grade of the position in conjunction with the compentency table at the end of each section.
-- For People Management roles - the team member should be prepared for management. This includes, at a minimum, the ability and willingness to provide honest and direct performance feedback and coaching, interviewing candidates with an ability to be decisive, ability to have difficult conversations, the ability to set direction, inspire, and motivate the team.
-    - Note: People manager applications must be applied for through [Greenhouse](/handbook/hiring/interviewing/#internal-applicants).
-- For Staff+ roles - the promotion document should include a section that describes the company need filled by the promotion.
-- **Please ensure the promotion document has "comment" access enabled to `Anyone at GitLab who has the link`**
-
-For compensation changes Only:
-
-- Outline the reasons for the compensation increase, also tying the rationale to our values and the vacancy description.
-
-##### General Promotion Document Template
-
-The general promotion document serves as a baseline to outline what should be included in all promotion documents, irrespective of division, department, or role. Additional sections may be included depending on role-specific requirements (for example, in Engineering, it is common to have a "technical abilities" section.)
-
-- [General Promotion Document: Template](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#)
-
-As the audience are other GitLab team members, the text should be written in third person using the team member's name and appropriate pronouns (he/she/they) to highlight the work and skills as evidence of the team member's suitability for the role.
-
-While this varies, most promotion documents should be roughly 4-6 pages in length (though it is possible to have a solid document with less!). Quality is more important than quantity for promotion documents; 20 pages of documentation should not be necessary if the team member is truly ready for a promotion. If unsure, refer to other recent relevant promotion documents and reach out to your manager.
-
-- **Please ensure the promotion document has "comment" access enabled to `Anyone at GitLab who has the link`**
 
 ### Recommend a Compensation Increase
 
 At GitLab, we ensure that promotions are impactful from the compensation perspective, stay within range of the compensation calculator, and are equitable to peers in the same role. As part of the BambooHR or Greenhouse request, the manager will be able to submit a recommended increase in cash compensation for their direct report using the compensation calculator. If you have any questions feel free to reach out to your People Business Partner or the Total Rewards Team.
 
-#### Promotion 
+#### Promotion Compensation Guidelines
 
 - When a team member is promoted from one level to the next in the same job family, it is typical to be brought between the minimum and median of the compensation range.
 - The Total Rewards Team typically recommends a 5%-10% increase as part of the promotion to cash compensation. Additional equity is fixed based on [stock options for promotions](/handbook/stock-options/#promotions).
@@ -250,7 +276,7 @@ When reviewing compensation for a transfer in Greenhouse, the Total Rewards team
 2. **Promotional Transfer (different or same job family, higher grade)**: We recommend a 5-10% increase (aligned to the promotional expected increase) and/or the difference in the benchmark for the transfer to a higher grade. 
 3. **Other Transfer types**: There are other transfers that can be reviewed on a case by case basis. For example, if someone is transferring to a lower grade in a different or same job family, compensation may be adjusted down to ensure alignment to market rates for the role. Please tag the Total Rewards team in Greenhouse to conduct a review. 
 
-### Submit a Promotion request in BambooHR
+### Submit a Promotion request in BambooHR as a manager
 
 - Login to BambooHR.
 - Select the team member you would like to adjust.
@@ -283,23 +309,10 @@ This section describes the approval chain after a manager submits a promotion or
 1. When announcing or discussing a promotion in the Slack **#team-member-updates** channel, *please include the link to the promotion Google Doc* to increase visibility for the reasons behind the promotion.
 1. For change of departments or change of roles (individual contributor to managers), People Experience Associates will create a Career Mobility Issue.
 
-#### Rolling 12-Month Promotion Business Justification Process
-
-As part of the [BambooHR promotion approval process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) outlined above, Total Rewards checks that the department is within the 12% rolling promotion rate before approving the promotion from the Total Rewards side. This information is also accessible to all GitLab team members and can be [reviewed in Sisense](https://app.periscopedata.com/app/gitlab/756370/Promotion_Rate).
-
-If a department is over the 12% promotion rolling rate, the following process should be followed:
-
-1. Total Rewards will alert the People Business Partner (PBP) that the department or division requesting the promotion is over the 12% rolling rate.
-1. PBP requests an overview of all promotions from the last rolling 12 months from Total Rewards provided in a Google sheet.
-1. PBP aligns with department/division leaders to inquire about projected promotions for the next ~6 months (or longer) and adds this data to the sheet provided.
-1. PBP and leaders analyze projected promotion data to outline a path to getting their department under the 12% rolling promotion target, or outline considerations as to why the group is over target (and why that is acceptable).
-1. PBP and leaders analyze data provided by Total Rewards, reasons for promotions, etc. to identify trends and reasons that the rate is over the 12% cap to provide a `rationale` and `context` overview justification.
-1. Once finalized with the department head, the PBP should share the sheet with the e-group leader for visbility/feedback.
-1. The PBP adds the sheet as a comment to the promotion in BambooHR for visibility and ensure it is accessible by Total Rewards, CFO, and CEO.
-
 ### For People Business Partners: Approving Promotions & Compensation Changes
 
-1. The People Business Partner (PBP) will receive an email titled `Promotion Request: [Team Member Name]`.
+1. After the Planning and Calibrations People Business Partners make sure to notify Total Rewards of the upcoming promotions. 
+1. Once added to BambooHR he People Business Partner (PBP) will receive an email titled `Promotion Request: [Team Member Name]`.
 1. Confirm the [promotion document](/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document) is included in the request.
 1. Review the content of the promotion document.
     - Job family alignment
@@ -347,10 +360,71 @@ If a department is over the 12% promotion rolling rate, the following process sh
     - Add sign date field for the team member
     - **Note:** Make sure that **a)** "Set signing order” option has been selected while preparing the doc, and **b)** Select radio button instead of checkboxes as only radio button allows you to select the required field/mandatory field option. This prohibits the Total Rewards Analysts and Manager to process the letter without checking the tasks on the letters.
 1. Once signed by all parties, save the letter to the “Contracts & Changes” folder in BambooHR.
-1. If some amount of onboarding in the new role or offboarding from the old role is required (for example a change in access levels to infrastructure systems; switch in groups and email aliases, etc.), notify People Experience Associates in the internal Promotions/Transfers spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
+1. If some amount of onboarding in the new role or offboarding from the old role is required (for example a change in access levels to infrastructure systems; switch in groups and email aliases, etc.), notify People Experience Associates in the internal Promotions/Transfers spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 1. The previous manager will be prompted to create an [Access Removal Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/blob/master/.gitlab/issue_templates/Access%20Removal%20Request.md) and the new manager will create an [Access Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests) to ensure the correct access is given for the new role and deprovisioned for the previous role, if need be.
 
 **Note** Letter of adjustment is sent to team member's personal email address instead of GitLab email address to ensure a proper audit trail.  
+
+## Interim and Acting Roles
+
+### Interim (Engineering-Specific)
+
+As part of the career development structure within the Engineering division, interim and acting role opportunities occasionally arise. For more information on how interim and acting roles fit into Engineering career development, please reference the [Engineering career development handbook page](/handbook/engineering/career-development/). For information on the interim and acting processes, please continue reading below.
+
+#### Beginning Interim Period
+
+As highlighted in the Defition section, all interim roles (regardless of the number of applicants) should go through the Greenhouse application and interview process. The interview process steps will be determined by the hiring manager and next level leader. This will contain several steps of the standard [GitLab hiring process](https://about.gitlab.com/handbook/hiring/interviewing/#typical-hiring-timeline). The process for team members interested in applying for an interim role is as follows:
+
+1. _Team Member_: Apply for the interim position in Greenhouse.
+
+_Once a team member successfully completes the interview process and is selected for the interim period, the following steps should be taken to ensure the team member is set up for success in their interim role._
+
+1. _CES_: Issue a [Letter of Adjustment](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Letters of adjustment are important as this is the process by which Total Rewards is notified of change from Greenhouse.
+1. _People Connect Team_: Update the team member's job title in BambooHR to reflect that they have started an interim role (I.E. `Senior Manager, Engineering (interim)`). This update serves as the SSOT for tracking interim start and end dates, in addition to providing transparency pertaining to who is currently executing in an interim role. Job code and job grade will remain the same, as interim periods have no impact on compensation.
+1. _Current Manager_: A [Job Information Change Request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) should be submitted to:
+    - Move interim direct reports so the team member's interim direct reports are reporting to them in BambooHR. The change needs to be initiated by the current manager. The philosophy here is that if a team member has successfully gone through the interview process and has demonstrated they are ready/able for an interim period in a manager role, they have the required level of EQ and discretion to have direct reports in BambooHR. It is, of course, expected that should the interim period not end in promotion, the team member continue to treat confidential information confidentially.
+
+#### Ending Interim Period
+
+When the interim period comes to a close, one of two outcomes can occur:
+
+1. The team member successfully completes the interim period aligned with [the success criteria](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) and moves into the interim role permanently.
+
+- As a general guideline, the interim period should last no _less_ than 30 days, and no _more_ than 4 months .
+- The hiring manager should submit a formal offer through Greenhouse including the promotion document to make the change official. The accomplishments leading up to the interim and during the interim can be used for the promotion document.
+
+1. The team member does not complete the interim period successful or decides that the manager track is not something they want to pursue, and moves back to their role prior to the interim period.
+
+- A feedback session between the team member and hiring manager should take place, so it is clear to the team member why the interim period was not successful.
+- The manager should submit a [job information change request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) in BambooHR to revert the team member's job title.
+- Not successfully completing the interim period _does not_ mean the team member can not move into a similar role in the future
+
+Irrespective of the outcome, when the interim period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/total-rewards/compensation/#submitting) for the team member.
+
+### Acting
+
+A person "acting" in the role is someone who occupies a role temporarily and will move back to their original role after a set amount of time or other conditions. "Acting" in a role may be experimenting with the role as a part of determining an individual's career development path, or may be filling in for a vacant role while we hire someone to fill the role permanently. While interim is only applicable to the Engineering division, acting is used across GitLab.
+
+_Interviews are not required role Acting roles as they generally do not end in promotion, nor are direct reports in BambooHR generally moved to Acting managers._ The process for selecting someone for an acting position is:
+
+- Upcoming Acting roles will be discussed over Staff meetings.
+- Leadership can gather interest from their team members for the upcoming acting roles.
+- The hiring manager will determine the most suitable team member for the acting role.
+- *Please make sure that the department head is in the loop and supportive of the acting period and candidate selected before moving forward.*
+
+_When the acting period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/incentives/#process-for-recommending-a-working-group-for-a-bonus-in-bamboohr) for the team member._
+
+### Updating Acting or Interim Movements in BambooHR
+If you recieve a job change or letter of adjustment to an interim or acting role here is how to process the change. 
+1. Save the letter to Documents > Contracts folder - `Share with employee`
+1. Review for compensation change 
+1. Access Level 
+    - Acting roles - No access change
+    - Interim roles - Access changed (if required)
+1. Update Job title (if required)
+1. Update Manager (if required)
+1. Update [Acting/Interim Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Uoz0frqDYEDINeodeeKBGMFVzdTuoe4x63LpHxU9WMo/edit#gid=0)
+1. Update [Transition Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/10O0idnLKcE4MHaNSt9dcvRzTx0Q_G6klKcznvmgrJbY/edit#gid=1366346015) (if required) 
 
 ## Demotions
 
@@ -362,8 +436,8 @@ To demote one of your direct reports, a manager should follow the following step
 - Demotions should also include a review of [compensation](/handbook/total-rewards/compensation/) and [stock options](/handbook/stock-options/#stock-options) in the google doc. Managers should consult with Total Rewards team on these topics; and of course always adhere to the Global Compensation Calculator.
 - Once agreement is reached on the demotion and changes (if any) in compensation, the total rewards team will act as the point of escalation to have any demotion reviewed and approved by the Compensation Group once the relevant google doc is complete.
 - Once approved, the manager informs the individual. Please cc people-exp@ gitlab.com  once the individual has been informed, to processes the changes in the relevant administrative systems, and stage a [Letter of Adjustment](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/editm).
-- Changes in title are announced on the `#team-member-updates` Slack channel.
-- The manager will initiate any necessary onboarding or offboarding.
+- Communication should be on a need-to-know basis only and should not be made public out of respect for the individual. 
+- The manager will initiate any necessary access requests or access change requests. 
 
 ## Job Information Change in BambooHR
 
@@ -383,7 +457,7 @@ Job information changes are anything that requires an update to the team member'
 
 1. Audit the team member's department, division and cost center against the new manager's.
 1. For US team members, the entity must also match with the manager's. For any changes in entity, update the payroll file.
-1. In case of `Job Title Specialty` change requests. Notify People Experience Associates in the internal Transition Tracker spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
+1. In case of `Job Title Specialty` change requests. Notify People Experience Associates in the internal Transition Tracker spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 
 ## Department Transfers
 
@@ -462,7 +536,7 @@ If you are unsure of the role, set up a coffee chat with the hiring manager to i
 
 #### Announcing Internal Promotions/Transfers
 
-While the [Career Mobility Issue Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) aims to kick off the logistics of switching roles, the guidelines below are meant to guide the communication of internal promotions and transitions to ensure consistency and alignment from all parties involved.
+While the [Career Mobility Issue Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) aims to kick off the logistics of switching roles, the guidelines below are meant to guide the communication of internal promotions and transitions to ensure consistency and alignment from all parties involved.
 
 1. Prior to any company-wide announcement, the team member should be given the opportunity to share the news with their immediate team members.
 1. The `new manager` should post the announcement in the `#team-member-updates` Slack channel. This should ideally happen (timezome permitting) on the <b>same day that the candidate signs their [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment)</b>.
@@ -523,3 +597,55 @@ More details can be found on the [Internal Applications](/handbook/hiring/interv
 There are a number of different ways to enhance or add to your skill-set at GitLab, for example, if you do not feel like you meet the requirements for an inter-department transfer, discuss with your manager about allocating time to achieve this. This can be at any level. If you're learning to program, but aren't sure how to make the leap to becoming a developer, you could contribute to an open-source project like GitLab in your own time.
 
 As detailed in our [Learning & Development Handbook](/handbook/people-group/learning-and-development/), team members will be supported in developing their skills and increasing their knowledge even if promotion is not their end goal.
+
+## Career Mobility Issue
+
+A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) is created when the one of the following criteria is met;
+
+- Migration from Individual Contributor to Manager
+- Migration from Manager to Individual Contributor
+- Migration of Team
+
+When a career mobility may not be needed (but can be requested);
+- Team/Speciality change but no access request needed
+
+## Career Mobility Issue Creation Process
+
+The People Connect Team will notify the People Experience Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) currently in the assignment rotation will assign the migration to an Associate in the People Exp/Ops Tracker.
+
+The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by using the [automated Slack command](/handbook/people-group/engineering/employment-issues/#career-mobility-issues) three days prior to the effective date to allow for the managers to start preparing for the team members transition.
+
+Important things to ensure:
+
+1. Add a due date of two weeks from the migration effective date.
+1. Check to see that the previous Manager and new Manager is listed correctly in the issue.
+1. Complete all applicable tasks under the People Experience list.
+
+## Important Tasks once Career Mobility has been finalised
+
+1. This needs action from both the current and new managers to set the migrating team member up for success in their new role. This may include:
+
+- Creating the correct Access Requests for systems needed and for systems no longer needed.
+- Create any training issue that may be required.
+- Reminding the team member to update their title on the team page, on their GitLab profile, in Zoom, in Slack and on professional networks like Linkedin. If relevant, remind them to order new business cards as well.
+- If we are in the middle of company wide 360 reviews, it is encouraged that the current manager and new manager arrange a successful handover of the feedback, whether sync or async.
+
+## Career Mobility Retrospective
+
+The team member going through this transition and assigned to their Career Mobility issue have a set of tasks to complete. An important one is to create a retrospective thread within their Career Mobility issue, so that they and their respective previous and current managers can discuss any questions, comments, proposals and more about their issue within said issue. Retrospectives are used in many ways at GitLab, such as which are used after GitLab product [releases](/handbook/communication/#release-retrospectives-and-kickoffs) and describing the Product [retrospective workflow](/handbook/engineering/workflow/#retrospective). For the Career Mobility issue, simply comment in the issue, starting a thread titled **Retro thread** or **Retrospective**. Please feel free to ping your assigned People Experience Associate in your issue if you have any questions.
+
+## Compliance
+
+The People Experience Associate completes a bi-weekly audit of all career mobility issues that are still open and checks that all tasks have been completed by all members applicable. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant team members within the transition issue to call for tasks to be completed.
+
+Once all tasks have been completed and the issue is still open, the People Experience Associate will close the transition issue accordingly. The transitioning team member can also close the issue once satisfied all the tasks are complete.
+
+All migration tasks by the applicable team members needs to be completed within 2 weeks of the migration start date.
+
+## For Team Members: Transitioning To A New Manager
+
+There are several situations at GitLab that could lead to team members changing managers, including promotions, lateral transfers, company restructuring, manager resignation, etc. The process of building a new relationship with a new manager can be uncertain at times, but there are resources to help this transition process go smoothly:
+
+- [Transitioning 1-1s](/handbook/leadership/1-1/#transitioning-1-1s) is a very important part of manager transitions. This helps ensure the new manager is up to speed on important discussions, deliverables, etc. so this information does not get lost in the transition.
+- The [career mobility template](https://docs.google.com/document/d/1iRbmS518CDjmhZEjvkaibqR1g0angWE83sWvtlH-elE/edit#heading=h.5ahg1o4v53q7) helps to ensure accomplishments, strengths, development areas, etc. are all captured with evidence moving forward. This makes sure career development progress continues and is not lost with manager changes. 
+- Sharing your most recent 360 feedback review and most recent performance review with your new manager can also be a great way to align on your strengths and improvement areas and discuss how they can partner with you in developing both.

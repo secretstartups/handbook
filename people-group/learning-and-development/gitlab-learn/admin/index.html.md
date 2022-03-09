@@ -179,7 +179,6 @@ Below outlines use case examples when using `private` Groups, Channels, and cont
 1. If you share `private` content with a `private` Channel, only followers of that Channel can see the content. This is a great way to organize and curate content for specific audiences. For example, before launching our entire course catalog, the L&D team will restrict our external content offerings on GitLab Learn to 3 courses. However, we still want all our material to be available to GitLab team members. To do this, we can create a `private` Channel and share that Channel with the `GitLab Internal Team Members` Group. This will ensure that the content on the `private` Channel can only be seen by members of the `private` Group. Later, we can make this Channel `public` and share with all users.
 1. If you share `private` content with a `public` Channel, only followers of that Channel can see the content, **but anyone can follow the Channel**. This is a similar use case as sharing `private` content with a `public` group. If you'd like to organize users with similar interests by inviting them to follow a `public` Channel, this use case might work.
 
-
 ### Badges
 
 Badges are available with the creation of both pathways and journeys and are awarded to the learner on the EdCast platform upon completing a set Pathway or Journey. Badges can also be [shared by the learner](/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges) on their LinkedIn profiles.
@@ -343,6 +342,12 @@ If a course is required by specific users to complete, it's best pracitce to ass
 1. When assinging content, consider the following
      1. Is it absolutely required by the learner? If not, use the `Share` method instead of making an assignment
      1. Assign content during the work week, during a time where as many team members as possible will see the assignment email and/or Slack announcements about the newly assigned contnet
+
+#### Admin hierarchies for assigning content
+
+Who a user can assign content to is dependent on their `Role` in the platform. The following table explains the hierarchy of who can assign content to different audiences in Edcast.
+
+![hierarchy-table](/handbook/people-group/learning-and-development/gitlab-learn/admin/assign-functionality-table.png)
 
 
 #### Using groups
@@ -988,42 +993,26 @@ The temporary support process across the Professional Services and Learning and 
 ```mermaid
 graph TD
     A[User Question] --> B[Determine user audience]
-    B -->|Team Member or Partner| D[Support via Slack from L&D]
+    B -->|Team Member| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
-    B -->|Community Member| F[Support via ticket from Professional Services and Forum support from L&D]
+    B -->|Community Member| F[Support via ticket from Professional Services / L&D]
+    B -->|Partner| G[Support via ticket from Professional Services / L&D]
 
 ```
 
-#### SLAs for temporary support workflow
+#### SLAs for GitLab Learn Support Model
 
 GitLab team members should work towards responding to internal and external requests for support based on the following SLAs:
 
 | Audience | Support Method | SLA |
 | ----- | ----- | ----- |
 | Team Members | Slack support from L&D team | 2 business days |
-| Partners | Slack support from L&D team | 2 business days |
+| Partners | Zendesk support from PS or L&D team | 2 business days |
 | Customers | Zendesk support from PS team | TBD by PS Team |
 | Community Members | Zendesk support from PS or L&D teams | 1 week |
-| Community Members | Fourm support from L&D team | 1 week |
+| Community Members | Forum support from L&D team | 1 week |
 
 Workflows, email templates, and outlines below will remain the same for this temporary support model.
-
-### End-goal Support Model
-
-This section outlines workflows and processes that the GitLab team uses to provide support to GitLab Learn users.
-
-Due to the diversity in audience on the GitLab Learn platform, support is managed and supported by multiple teams at GitLab.
-
-This workflow will be implemented when the LXP implementation team has adequate staffing for platform administration.
-
-```mermaid
-graph TD
-    A[User Question] --> B[Determine user audience]
-    B -->|Team Member or Partner| D[Support via Slack from L&D]
-    B -->|Customer| E[Support via ticket from PS team]
-    B -->|Community Member| F[Support via ticket or Community Forum answer from LXP admin]
-
-```
 
 ### Pathways for user support
 
@@ -1134,7 +1123,7 @@ The `gitlablearn@gmail.com` will trigger a new professional services Zendesk tic
 
 #### Zendesk macro for free users
 
-The contents of the `General::Self-managed or GitLab.com Free User Request` macro can be located [here](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Self-managed%20or%20GitLab.com%20Free%20User%20Request.yaml).
+The contents of the `General::Self-managed or GitLab.com Free User Request` macro can be located [here](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/Self-managed%20or%20GitLab.com%20Free%20User%20Request.yaml).
 
 ### Admin Support
 

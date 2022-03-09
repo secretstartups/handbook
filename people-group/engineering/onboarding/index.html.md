@@ -93,7 +93,7 @@ The onboarding issue will be automatically assigned to the People Experience Ass
 who ran the command and the incoming team member's Manager.
 
 The onboarding tasks that are applicable to all team members are listed in the
-general [`onboarding.md`](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md)
+general [`onboarding.md`](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding.md)
 file. It will be included by default in the onboarding issue.
 
 The job then grabs various details of the incoming team member, like country of
@@ -174,7 +174,7 @@ This data is used to populate the email that we then send to them. The email add
 
 ## Swag Email
 
-This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/email_templates/swag_email.md) that is sent on the first day of a new team member so they receive the code to get a discount at the swag store. The email is cc'd to `people-exp@domain`.
+This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/email_templates/swag_email.md) that is sent on the first day of a new team member so they receive the code to get a discount at the swag store. The email is cc'd to `people-exp@domain`.
 
 Every day at 9 AM UTC we run a scheduled pipeline. This pipeline will fetch all the eligible team members. An eligible team
 member means:

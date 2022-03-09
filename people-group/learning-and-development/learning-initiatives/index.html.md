@@ -161,10 +161,6 @@ Anyone or any team can host a Learning Speaker Series for the organization! If i
 
 The L&D team also hosts and develops a [quarterly newsletter](/handbook/people-group/learning-and-development/newsletter/) for the community.
 
-## Mental Health Quarterly Newsletter
-
-The L&D team publishes a [quarterly mental health newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter) for team members and the wider community.
-
 ## Take Time Out To Learn Campaign
 
 [Focus Friday's](/handbook/communication/#focus-fridays) are a great benefit at GitLab. We try to schedule minimal meetings on Fridays to catch up on work and grow our skills professionally. Use Focus Fridays to take time out to learn. Team members can work with their manager through a [career development conversation](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1) to determine what skills that want to grow in the future. Aspirations can be documented in an [individual growth plan](/handbook/people-group/learning-and-development/career-development/#internal-resources). 
@@ -186,6 +182,16 @@ Learning campaigns use a combination of GitLab issues and Slack announcements to
 ## LifeLabs Learning
 
 [LifeLabs Learning](https://lifelabslearning.com/) will be piloting their [Manager Core 1](https://drive.google.com/file/d/1MJmxjrMSSCq3lWOOks-vMnzdzPucI0jp/view) and [Manager Core 2](https://drive.google.com/file/d/1f0HhqBfGn1lnaYSMHcYYqauwyOkNHS0R/view) program to a group of ten managers. L&D plans on rolling out more management training courses with LifeLabs in 2023. If interested in partcipating reach out in the `#learninganddevelopment` channel and follow along in `#lifelabs-learnin-pilot` 
+
+Below is the schedule for the pilot program: 
+
+| Workshop | Date | Time | 
+| ------ | ------ | ------ |
+| Coaching Skills | Thursday 2022-01-13 | 8am-10am PST / 11am-1pm EST / 4pm-6pm GMT |
+| Feedback Skills | Thursday 2022-01-27 | 8am-10am PST / 11am-1pm EST / 4pm-6pm GMT |
+| Productivity & Prioritization | Thursday 2022-02-17 | 8am-10am PST / 11am-1pm EST / 4pm-6pm GMT |
+| Effective 1:1s | Wednesday 2022-02-23 | 8am-10am PST / 11am-1pm EST / 4pm-6pm GMT |
+| Manager Intensive 1 | Thursday 2022-05-26 | 8am-10am PST / 11am-1pm EST / 4pm-6pm GMT |
 
 ## CEO Handbook Learning Sessions
 
@@ -258,7 +264,7 @@ The L&D team outlines a skill of the month for team members to learn more about 
 
 ### FY22 Topic Outline
 
-This is the list of topics that will be the focus in FY22. Each skill of the month can be found in the [Skill of the Month (FY22)](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) channel on [GitLab Learn](https://gitlab.edcast.com/). 
+This is the list of topics that were covered in FY22. Each skill of the month can be found in the [Skill of the Month (FY22)](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) channel on [GitLab Learn](https://gitlab.edcast.com/). 
 
 - April: Managing Stress
 - May: Effective Communication
@@ -270,6 +276,12 @@ This is the list of topics that will be the focus in FY22. Each skill of the mon
 - November: Gratitude and Recognition
 - December: Resilience and Reflection
 - January: Team Member Wellbeing
+
+### FY23 Topic Outline
+
+This is the list of topics that will be focused on in FY23. Each Skill of the Month can be found in the [Skill of the Month (FY23)](https://gitlab.edcast.com/channel/skill-of-the-month-fy23) channel on [GitLab Learn](https://gitlab.edcast.com/).
+
+- February: Setting and Achieving Goals
 
 ### Organizing a Skill of the Month 
 

@@ -15,7 +15,8 @@ Developing mangerial skills is no small task. While taking on a new or expanded 
 
 The Manager Challenge addresses your specific needs to understand the qualities of a good leader and to master practical leadership styles that empower you to become a confident people leader. Effective leadership is grounded in your understanding of powerful interpersonal skills that inspire performance, communication, team member retention, and motivation to achieve results. 
 
-Join us for the next Manager Challenge that will run from **2022-02-07 to 2022-02-25**. If you are interested in participating in February, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/78). **Currently, the program is being offered to GitLab team members only.**
+Join us for the next Manager Challenge that will run from **2022-05-16 to 2022-06-03**. If you are interested in participating in May, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/89). **Currently, the program is being offered to GitLab team members only and current people managers.**
+
 
 ### Leadership Development Award   
 
@@ -43,6 +44,13 @@ You may be asking yourself what you will achieve by taking part in the Manager C
 - Evaluate difficult management situations with greater certainty in your decisions
 - Build an inclusive environment for your people that is built on trust
 
+In addtion, the program ties into GitLab's strategic priorties through the following: 
+1. Mitigating Biggest Risks associated with: 
+     1. [Lack of Performance Management](/handbook/leadership/biggest-risks/#underperformance)
+     2. [Ineffective Management](/handbook/leadership/biggest-risks/#ineffective-management)
+2. Achieving GitLab Strategy of: 
+     1. [Inclusive Growth & Development for Team Members](/company/strategy/#4-inclusive-growth--development-for-team-members)
+
 Below is a video L&D recorded with Sid on manager enablement: 
 <!-- blank line -->
 <figure class="video_container">
@@ -66,13 +74,7 @@ L&D measures the success of the Manager Challenge by the following:
 Participants will complete the following: 
 - Leadership Style Questionnaire
 - Manager Challenge participant profiles 
-- Required pre-reads and any async work
-
-**Sessions:**
-
-| Date | Length  | Description |
-| ------ | ------ | ------ |
-| 2022-02-03 | 50 minute | Live Learning - Introduction to the Manager Challenge |
+- Required pre-reads and async work
 
 ### Week 1 - Developing Your Leadership Style
 
@@ -82,10 +84,10 @@ Week 1 will be focused on developing your leadership style as a manager, differe
 
 | Date | Length  | Description |
 | ------ | ------ | ------ |
-| 2022-02-07 | 1 hr 20 minutes | Session 1: Developing Your Leadership Style. Adaptive DNA as a people leader. |
+| 2022-02-07 | 1 hr 20 minutes | Session 1 - Program Kickoff: Developing Your Leadership Style. Adaptive DNA as a people leader. Introduction to the Manager Challenge |
 | 2022-02-08/09 | Async | Session 2 pre-work |
 | 2022-02-10 | 1 hr 20 minutes | Session 2: Building High Performing Teams or Team Effectiveness Tools |
-| 2022-02-11 | 50 minutes | Optional group coaching and Peer-to-Peer Learning Session |
+
 
 ### Week 2 - Management Fundamentals
 
@@ -108,10 +110,10 @@ Week 3 will be focused on performance management, constructive conversations, to
 
 | Date | Length  | Description |
 | ------ | ------ | ------ |
-| 2022-02-22 | 1 hr 20 minutes | Session 5: Performance Management 101 and Constructive Conversations |
+| 2022-02-22 | 50 minutes | Session 5: Performance Management 101 and Constructive Conversations |
 | 2022-02-23/24 | Async | Async - Reading and/or async collaboration |
 | 2022-02-24 | 1 hour | Session 6: Panel Discussion with Senior Leaders. Action Planning and Next Steps |
-| 2022-02-25 | 50 minutes | Optional group coaching session on inspiring motivation and aligning values. |
+| 2022-02-25 | 50 minutes | Optional group coaching session and peer-to-peer learning |
 
 Participants will also be asked to complete a program evaluation. 
 
@@ -128,7 +130,7 @@ Following the Manager Challenge, participants are encouraged to do the following
 
 | Date | Length  | Description |
 | ------ | ------ | ------ |
-| 2022-02-22 | 50 minutes | Post Program Office Hours: Discuss Lessons Learned |
+| 2022-04-07 | 50 minutes | Post Program Office Hours: Discuss Lessons Learned, Growth Plans, and Actions for Next Phase of manger enablement |
 
 
 ## Important Points To Remember: 

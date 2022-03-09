@@ -38,7 +38,7 @@ If you are a GitLab GmbH employee, please fill out this [form](https://docs.goog
 
 If you are a GitLab Ltd - UK employee, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdbWZGR1qtcSx5O9zhi7DmKokC8ww-pOyrqJjpBR69c_jQ_5Q/viewform). The People Experience team will verify the details, and then forward to the team member. 
 
-If you are a PEO employee kindly reach out to the PEO for a letter of employment. If you require internal assistance on this matter please reach out to the People Experience team. 
+If you are a PEO employee kindly reach out to the PEO for a letter of employment. If you require internal assistance on this matter please reach out to the People Experience team. If the People Experience team is creating the letter in exceptional cases this [Template - Letter of Employment - PEO](https://docs.google.com/document/d/1Ipd4P42gjFYn7u10rSugLs1pgitvM20n_3PLwyLHkF8/edit) can get used.
 
 In addition, if the request comes from a third party, the People Experience team will always verify that the information is appropriate to share and check with you if you have given authorization to share any personal information.
 
@@ -164,3 +164,17 @@ This form is a verification of former employment sent by the Federal Employment 
 - The People Operations Specialist fills in fields using BambooHR and if applicable reaches out to teammemberrelations@gitlab.com with questions relating to the termination.
 - Our legal council in Germany can support with questions to make sure the form is filled in correctly. In order for our legal council to review the form, please include the following documents in the email: Employment Contract, Termination letter/agreement and reasons for termination. Please find the contact details in the PeopleOps vault in 1password. 
 - As the form requires a company stamp and a wet signature, the People Operations Specialists sends the filled in form by email to our Director of Tax, so it can get signed, stamped and posted to the previous team member. Please include the address the form should get posted to in the email.
+
+## Do you need a Visa Invitation Letter?
+
+If you are **employed via a GitLab entity**, please follow the process below.
+   1. Fill out this [form](https://forms.gle/8r934fWiYATmCP8k9)
+   1. Within minutes, you should receive an email to your inbox with a PDF visa letter attached.
+
+If you are a **contractor**, please follow the process below.
+   1. Fill out this [form](https://forms.gle/uNViiMt1A6h6Q6SK8)
+   1. Within minutes, you should receive an email to your inbox with a PDF visa letter attached.
+
+If you are **employed via a PEO**, you will need to reach out to your PEO to receive this letter. All PEOs have been given a template for them to use for this purpose.
+
+If you have any further questions regarding a visa invitation letter, please reach out in `#people-connect`.

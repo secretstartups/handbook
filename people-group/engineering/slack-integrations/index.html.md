@@ -16,7 +16,7 @@ For several smaller automations we use integrations with Slack. On this
 page you can find an overview of all the integrations we've set up. Most
 of these integrations use a Slack bot named `PeopleOps Bot`.
 
-#### Anniversary announcements
+### Anniversary announcements
 
 A scheduled pipeline is configured to automatically send a message
 congratulating all team members celebrating a work anniversary that week to the
@@ -26,7 +26,7 @@ team members and the number of years they are celebrating at GitLab.
 Currently, the pipeline is scheduled to be run at 10:00 AM UTC on every
 Thursday.
 
-#### Birthday announcements
+### Birthday announcements
 
 Every monday morning, a scheduled pipeline is configured to automatically send a message
 congratulating team members celebrating their birthday that week to the
@@ -39,7 +39,7 @@ To opt-in, follow these steps on Slack
 1. Click on `Edit profile`
 1. Scroll down to the `GitLab Birthdays` field and select `Yes`
 
-#### Parental Leave Welcome Back
+### Parental Leave Welcome Back
 
 A scheduled pipeline runs every day to check who's coming back from parental leave in 3 days.
 For those team members we send them a Direct Message reminding them that they can take more
@@ -47,7 +47,7 @@ PTO if needed and links to the handbook related to coming back after parental le
 
 For this pipeline we have a direct integration with PTO by Roots.
 
-#### Informing People Experience Associates about details missing in BambooHR for upcoming new hires
+### Informing People Experience Associates about details missing in BambooHR for upcoming new hires
 
 For the new hire announcements to be accurate, it is required to ensure the
 BambooHR details of team members joining the following week is as complete as
@@ -80,6 +80,12 @@ People Experience team can discuss and take action.
 - Career Mobility Value Check-In
 - Career Mobility Satisfactory Survey
 
+### Hiring Manager Survey
+Whenever a new team member is added to a team we currently send a couple of notifications.
+
+- `DM` - will attempt to send a survey DM to the new team members hiring manager.
+- `Alert` - will send this survey as a link to the `#peopleops-alerts` channel if the DM could not be sent.
+
 ### Referral bonus reminders
 
 A scheduled pipeline is configured to automatically send a message
@@ -90,3 +96,10 @@ can check if the listed team members were referred. For those that were referred
 people experience team will then assign bonuses to the referrers.
 
 The pipeline is scheduled to be run at 10:00 AM UTC every Friday.
+
+### Template Paths
+
+People experience associates can type `/pops run templatepaths <BAMBOO_ID>` to output
+the list of locations where the bot looks to fill-in role/specialty based access request
+and onboarding tasks. This command is useful when it is unclear why an automated issue
+creation did not pick up a given template. This will show exactly what path the bot expects.

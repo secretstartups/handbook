@@ -12,7 +12,9 @@ title: Mental Health Newsletter
 
 ## Overview
 
-The Learning and Development team at GitLab is working to educate the team on how they can [manage burnout](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/24). This quarterly newsletter is part of a larger effort to increase conversation about taking care of our mental health, increasing awareness of existing resources available to the GitLab team, and enable managers to support their team.
+In 2020 and 2021, the Learning and Development team at GitLab used a quarterly newsletter to educate the team on how they can [manage burnout](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/24). This quarterly newsletter was part of a larger effort to increase conversation about taking care of our mental health, increasing awareness of existing resources available to the GitLab team, and enable managers to support their team.
+
+The final edition of the newsletter was shared in FY22 Q4. All past newsletter can be found [in the handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/#past-newsletters)
 
 ### Long term goals
 
@@ -21,15 +23,6 @@ The Learning and Development team at GitLab is working to educate the team on ho
 1. Understand how our asynchronous culture can contribute to improved mental health for team members, specifically by decreasing the total number of synchronous meetings for team members.
 1. Increase documentation about mental health management resources in our handbook by collaborating and sharing strategies and tools that work
 
-### Ideas for future newsletters
-
-Below is a running list of ideas and topics that can be incorporated into this quarterly newsletter. If you have ideas of what you'd like to see, please open a merge request and add to this page!
-
-1. Leadership discussions about mental wellness and what mental wellness means to them, how it has impacted them in the past and what they have learnt.
-1. Interview with other team members to dicuss strategies and experiences
-1. Meditation resources
-1. Journal prompts and tools
-1. Book clubs or suggested outside readings or podcasts
 
 ## Newsletter process
 
@@ -50,40 +43,5 @@ The newsletter is planned using both issues in the [Mental Health project](https
 1. [FY22-Q1 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q1/)
 1. [FY22-Q2 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q2/)
 1. [FY22-Q3 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q3/)
-
-## Merge request template
-
-```
----
-layout: handbook-page-toc
-title: {add date - ex. FY21-Q3} L&D Mental Health Newsletter
----
-
-{brief intro}
-
-
-## GitLab Resource Feature
-
-{Highlight a health benefit from GitLab related to mental health, with a focus on Modern Health and our PTO policy}
-
-
-## Taking time for mental health
-
-{Highlight additional external or internal resources team members can use to manage mental health}
-
-
-## Leadership feature 
-
-{Emebd short recorded discussion with leadership or another GitLab team member about burnout management}
-
-## Manager resources
-
-{Highlight resources managers can use to enable their team in supporting their mental health}
-
-## Team member resources
-
-## Discussion 
-
-If you would like to discuss items related to this newsletter, please see the related [issue](). 
-
+1. [FY22-Q4 Mental Health Newsletter]
 ```

@@ -14,6 +14,41 @@ description: "It is the lifelong process of managing learning, work, leisure and
 
 Career development is the lifelong process of managing learning, work, leisure and transitions to move toward a personally determined and evolving preferred future.
 
+On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team had a handbook learning session with Eric Johnson, CTO, about career development. 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/hYahDZ9nIWA" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+## Key Career Resources for Team Members
+
+Check out some of the key programs offered for team members to grow their career at GitLab.
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit" class="btn btn-purple" style="width:250px;margin:5px;"> Growth and Development Benefit </a>
+    <a href="/handbook/people-group/learning-and-development/career-development/#tracking-your-career-development" class="btn btn-purple" style="width:200px;margin:5px;">Goal Tracking Resources</a>
+         <a href="/handbook/people-group/learning-and-development/career-development/ic-development" class="btn btn-purple" style="width:200px;margin:5px;">Programs for Individual Contributors</a>
+  </div>
+</div>
+
+<div class="flex-row" markdown="0">
+  <div>
+      <a href="/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations" class="btn btn-purple" style="width:250px;margin:5px;"> Career Development Conversations </a>
+      <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Skill of the Month</a>
+      <a href="/handbook/people-group/learning-and-development/career-development/#skill-of-the-month" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
+  </div>
+</div>
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/people-group/learning-and-development/career-development/#internship-for-learning" class="btn btn-purple" style="width:200px;margin:5px;">Internship for Learning</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/#recorded-workshops" class="btn btn-purple" style="width:200px;margin:5px;">Recorded Workshops</a>
+  </div>
+</div>
+
+## Connecting Career Development to Wellbeing
+
 Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://www.skylyte.com/) about the connection between wellbeing, purpose, and our career growth.
 
 <!-- blank line -->
@@ -22,15 +57,7 @@ Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://
 </figure>
 <!-- blank line -->
 
-### Career Development Handbook Learning Session
-
-On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team had a handbook learning session with Eric Johnson, CTO, about career development. 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/hYahDZ9nIWA" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-### Roles and Responsibilities
+## Roles and Responsibilities
 
 **Team Member Owned**
  1. Take charge of your own development and career
@@ -61,7 +88,7 @@ On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team h
 1. Does your feedback from others tell you anything about how feasible your aspirations are?
 1. Do you currently have the skills and talents needed for the future business needs?  If not what can you do now to get ready?
 
-### Career Development versus Career Mobility
+## Career Development versus Career Mobility
 
 #### The Relationship between learning and [promotions](/handbook/people-group/promotions-transfers/)
 
@@ -153,7 +180,7 @@ This will vary from team to team, but typically 6 weeks to 3 months depending on
 First step is to discuss this with your manager at your next 1:1. Come prepared with your proposal highlighting what skills you want to learn/enhance and the amount of time you think you will need. Remember, this should be of benefit to you and GitLab. You and your manager will need to collaborate on how you both can make this happen which may also involve discussing it further with the manager of the team you may be looking to transfer to. All discussions will be done transparently with you. Be mindful though that the business needs may mean a move can't happen immediately.
 
 **How do I find a mentor?**
-On the [team page](/company/team), you can see who is willing to be a mentor by looking at the associated [expertise](/company/team/structure/#expert) on their entry.
+On the [team page](/company/team/), you can see who is willing to be a mentor by looking at the associated [expertise](/company/team/structure/#expert) on their entry.
 
 **Does completing an internship guarantee me a role on the team?**
 Completing an internship through this program does not guarantee an internal transfer. For example, there may not be enough
@@ -271,6 +298,10 @@ Steps:
   <iframe src="https://www.youtube.com/embed/p4a60slPg5k" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+#### Tracking informal feedback
+
+It also can be very helpful to capture feedback from team members. For example, you might want to preserve feedback from slack since these messages are only [retained for 90 days](/handbook/communication/#slack). The easiest way to do this is to save screenshots to a separate directory on your Google drive.
 
 ### Health Tracker: Growth Plan
 

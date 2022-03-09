@@ -18,9 +18,33 @@ If you have any questions about the offboarding process, please review the Offbo
 
 The process to be followed will be guided by the nature of the offboarding at hand i.e. either **Voluntary** or **Involuntary** - both of which have been described in greater detail below.  Each of the stakeholders listed play a critical role in ensuring that offboarding takes place in a manner that is efficient and best serves the unique needs and sensitivities surrounding the respective team members situation.
 
-## Starting the Process
+## Voluntary Offboarding
 
-Offboarding officially commences once an [Offboarding Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) has been created by the People Experience Team.  This action is triggered by the submission of an [Offboarding Workflow Form](https://docs.google.com/forms/d/e/1FAIpQLScBBnV7bKKVkqfTk9Aq9sfSB_r85SKTxt0_mC6RhbRwU3DtSA/viewform) by the People Business Partner (PBP) responsible for overseeing the division in which the departing team member is based.
+A voluntary offboarding occurs when a team member informs his or her manager of a resignation. The choice to leave GitLab was their decision.
+
+If you are a current team member and you are considering resigning from GitLab, we encourage you to speak with your manager, your assigned PBP, or another trusted team member to discuss your reasons for wanting to leave. At GitLab we want to ensure that all issues team members are facing are discussed and resolved before a resignation decision has been made.  This will allow GitLab the ability to address concerns and in return foster a great work environment.
+
+If resignation is the only solution after you have discussed your concerns, please communicate to your manager your intention to resign. We would advise you to review your employment contract for the statutory notice period and determine your last working day. Then you will work with your manager to discuss the handover/transition plan.  If there’s no notice period included in your employment contract we ask that you provide GitLab 2 weeks of notice. Depending on the situation and local laws, GitLab may choose to provide you payment in lieu of notice.  Please review and follow the process below for voluntary resignations.   
+
+### Voluntary Process
+
+1. **Team Member**: Team members are asked to provide an agreed upon notice of their intention to separate from the company to allow a reasonable amount of time to transfer ongoing workloads.
+1. **Team Member** If you are employed via one of our [Professional Employer Organization/ Employer of Record and not a GitLab entity](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity), please forward your resignation to the PEO for their process and record keeping. 
+1. **Team Member**: The team member should provide a written resignation letter or email notification to their manager.
+1. **Team Member**: Please review and action the steps listed on the [Team Member Enablement Offboarding Laptop page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/gitlab-laptop-offboarding/) 
+1. **Team Member**: The team member should arrange a meeting with the respective IT Ops team member on their last day (30-60 minutes before the scheduled offboarding time) to complete the laptop wipe:
+    - Marc DiSabatino - AMER time zone
+    - Paul Laurinavicius - EMEA time zone
+    - Steve Ladgrove - APAC time zone
+1. **PBP**: Upon receipt of the resignation, the manager will notify the People Business Partner (PBP) by sending a copy of the resignation email/letter.
+    * A discussion with the  manager and PBP should also happen if needed to determine what led to the resignation.
+    * The PBP will acknowledge the receipt of the resignation with the team member confirming the last working day. Feel free to reference this [example email](https://docs.google.com/document/d/1rZvczqEuyyFDAzjheiF4LpcLuvj9fFd6maPOSDwkYpQ/edit).
+    * **If the team member is located in a country with statutory holiday allowance**, the holiday taken should be confirmed with the manager and team member via email and then filed in BambooHR.
+    * Once that has been done an Acknowledgement Letter can be prepared, which will depend on the `location` and `employment status` of the team member.
+    * A couple of examples can be reviewed here: [GitLab Ltd (UK) Resignation Acknowledgement](https://docs.google.com/document/d/1zV1qnZmjQaNZ3QUjrLOtod-FbboNCPmYdqCLIAc7aos/edit) and [GitLab BV (Netherlands) Resignation Acknowledgement](https://docs.google.com/document/d/1-9hCL2Xs5po4lZ19L2vrcmGxQIYRD-Emyci3F63kt0c/edit). 
+
+    _Note: For GitLab UK team members, payroll can pay up to and including the 5th day of the following month. For example, if a team member's last day is February 2nd, the team member can receive their final pay for this in January's payroll._
+1. **PBP**:The PBP will complete the [Offboarding Form](https://forms.gle/HzUAVCgTJ4v5HSSA9), which includes all information needed to process the termination for the team member. Once submitted, a summary of the response will be posted to the `#offboardings` Slack channel so all stakeholders can acknowledge the offboarding. 
 
 The form includes the following fields all of which will guide the People Experience Team in terms of when the process should commence and whether any factors unique to the offboarding in question should be kept in mind e.g. Garden Leave or Day to Turn Off Access.
 
@@ -68,6 +92,8 @@ The table below details the circumstances under which a Team Member will or will
 | [Conduct](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d)| No |
 | [Job Abandonment](https://about.gitlab.com/handbook/people-policies/#job-abandonment) | No |
 
+Offboarding officially commences once an [Offboarding Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md) has been created by the People Experience Team.  This action is triggered by the submission of an [Offboarding Workflow Form](https://docs.google.com/forms/d/e/1FAIpQLScBBnV7bKKVkqfTk9Aq9sfSB_r85SKTxt0_mC6RhbRwU3DtSA/viewform) by the People Business Partner (PBP) responsible for overseeing the division in which the departing team member is based.
+
 Opening of the offboarding issue which will in turn begin the process of systems de-provisioning will be aligned to the information presented by the People Business Partner within the Offboarding Workflow i.e. Termination Date / Last Working Day.
 
 The People Experience Team endeavours to initiate the process within twelve hours of notification - sooner where possible however in instances of involuntary termination will work with IT Ops to ensure preliminary de-provisioning happens as required.
@@ -79,34 +105,6 @@ The People Experience Associates complete a weekly audit of all offboarding issu
 Once all tasks have been completed, the People Experience Associate will close the offboarding issue and mark as completed in the offboarding tracker.
 
 All offboarding tasks by all Departments need to be completed within 5 days of the offboarding due date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Okta, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications](/handbook/business-ops/tech-stack-applications/) handbook page.
-
-## Voluntary Offboarding
-
-A voluntary offboarding occurs when a team member informs his or her manager of a resignation. The choice to leave GitLab was their decision.
-
-If you are a current team member and you are thinking about resigning from GitLab, we encourage you to speak with your manager, your assigned PBP, or another trusted team member to discuss your reasons for wanting to leave. At GitLab we want to ensure that all issues team members are facing are discussed and resolved before a resignation decision has been made.  This will allow GitLab the ability to address concerns and in return foster a great work environment.
-
-If resignation is the only solution after you have discussed your concerns, please communicate your intention to resign to your manager. We would advise you to review your employment contract for the statutory notice period and determine your last working day. Then with your manager you can discuss the time needed to work on a handover/transition. If there’s no notice period included in your employment contract we would advise that you provide GitLab 2 weeks of notice. Depending on the situation and local laws, GitLab may choose to provide you payment in lieu of notice.  Hereafter please review the below process which will be followed for a voluntary resignation. 
-
-### Voluntary Process
-
-1. **Team Member**: Team members are requested to provide an agreed upon notice of their intention to separate from the company to allow a reasonable amount of time to transfer ongoing workloads.
-1. **Team Member** If you are employed via one of our [Professional Employer Organization/ Employer of Record and not a GitLab entity](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity), please forward your resignation to the PEO for their process and record keeping. 
-1. **Team Member**: The team member should provide a written resignation letter or email notification to their manager.
-1. **Team Member**: Please review and action the steps listed on the [Team Member Enablment Offboarding Laptop page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/gitlab-laptop-offboarding/) 
-1. **Team Member**: The team member should arrange a meeting with the respective IT Ops team member on their last day (30-60 minutes before the scheduled offboarding time) to complete the laptop wipe:
-    - Marc DiSabatino - AMER time zone
-    - Paul Laurinavicius - EMEA time zone
-    - Steve Ladgrove - APAC time zone
-1. **PBP**: Upon receipt of the resignation, the manager will notify the People Business Partner (PBP) by sending a copy of the resignation email/letter.
-    * A discussion with the  manager and PBP should also happen if needed to determine what led up to the resignation.
-    * The PBP will acknowledge the receipt of the resignation with the team member confirming the last working day. Feel free to reference this [example email](https://docs.google.com/document/d/1rZvczqEuyyFDAzjheiF4LpcLuvj9fFd6maPOSDwkYpQ/edit).
-    * **If the team member is located in a country with statutory holiday allowance**, the holiday taken should be confirmed with the manager and team member via email and then filed in BambooHR.
-    * Once that has been done an Acknowledgement Letter can be prepared, which will depend on the `location` and `employment status` of the team member.
-    * A couple of examples can be reviewed here: [GitLab Ltd (UK) Resignation Acknowledgement](https://docs.google.com/document/d/1zV1qnZmjQaNZ3QUjrLOtod-FbboNCPmYdqCLIAc7aos/edit) and [GitLab BV (Netherlands) Resignation Acknowledgement](https://docs.google.com/document/d/1-9hCL2Xs5po4lZ19L2vrcmGxQIYRD-Emyci3F63kt0c/edit). 
-
-    _Note: For GitLab UK team members, payroll can pay up to and including the 5th day of the following month. For example, if a team member's last day is February 2nd, the team member can receive their final pay for this in January's payroll._
-1. **PBP**:The PBP will complete the [Offboarding Form](https://forms.gle/HzUAVCgTJ4v5HSSA9), which includes all information needed to process the termination for the team member. Once submitted, a summary of the response will be posted to the `#offboardings` Slack channel so all stakeholders can acknowledge the offboarding. 
     - **Important** When submitting the form please ensure to use PST format, even applicable to team members located in EMEA and APAC regions. See the below as a guide or alternatively [this conversion chart](https://24timezones.com/difference/amsterdam/pacific): For Example, If a team member is located in Japan their offboarding issue will be created at 04:00 PM their regional time (APAC, EMEA, AMER) or 12pm their regional time on Friday. on their last day of employment.
 1. **PBP**: The PBP will also inform the team member that they will receive an invitation in the next 48 hours (After Offboarding form has been submitted) from CultureAmp to complete an exit survey. 
 1. **PBP**: PBP will forward the resignation email to the People Experience team at `people-exp@gitlab.com`, the People Operations Specialist team email inbox `peopleops@gitlab.com`, as well as to the payroll lead. The PBP will indicate the last day, reason for resignation, and rehire eligibility in the email. 
@@ -118,7 +116,11 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
     
     * _Note: For resignations from Director-level and above, or for departures that have significant context pre-dating the exit interview that can help make the discussion more effective, the [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) will send out the exit survey and conduct the exit interview._     
     
-1. **Specialist**: The People Specialist will review the team members calendar and add an exit interview event to their calendar. The invite will include a message about how this interview is optional. A brief training on how to start and conduct exit interviews can be found [here](https://docs.google.com/presentation/d/1QCd6QLKcgCEzncJ2zdeDsnA6zlWFAmZre69Q1LKycJ0/edit?usp=sharing) (internal only)
+1. **Specialist**: 
+
+- Regrettable Offboardings:
+
+The People Specialist will review the team members calendar and add an exit interview event to their calendar. The invite will include a message about how this interview is optional. A brief training on how to start and conduct exit interviews can be found [here](https://docs.google.com/presentation/d/1QCd6QLKcgCEzncJ2zdeDsnA6zlWFAmZre69Q1LKycJ0/edit?usp=sharing) (internal only)
       * An offboarding email will be sent [automatically](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#voluntary-offboarding-email) to the team member once the offboarding form has been submitted. 
       * The assigned People Specialist will then send out the Exit Survey via Culture Amp (using the Exit Survey template in Culture Amp) and communicate with the departing team member to mention that they would like to schedule a non-mandatory exit interview, to occur during the team member's notice period.
       * To send the Exit Survey, log into Culture Amp and click on `Surveys` from the top menu bar. Select `Exit Survey` and select the `start` exit button - this will allow the People Specialist to assign the survey to the departing team member.
@@ -126,7 +128,11 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
       * Remind the departing team member it is necessary to complete the [Exit Survey](#exit-survey) _prior_ to the Exit Interview so it can be discussed.
       * Before the exit interview the interviewer (The People Specialist and/or People Business Partner) should make sure to carve out time to review the Exit Survey answers and prepare for the interview. If any voilations to our Code of Conduct are mentioned in the exit survey, these should be discussed first in the exit interview. 
       * Once the exit interview has been completed and all notes entered, the assigned People Specialist will ping the PBP in the `#pbp-peopleops` Slack channel to confirm that the notes have been added and that the Exit Interview has been completed. This ping will occur within 48 hours of the exit interview.
-1. **Experience**: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) on the team member's last day. **Offboardings will see issues being created automatically at the latest 4:00pm their regional time, at which point de-provisioning will commence, unless there are unavoidable circumstances for a later offboarding.**
+
+- Non Regrettable Offboardings:
+ * Unless otherwise directed to follow the Regrettable offboarding process, an offboarding email will be sent [automatically](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#voluntary-offboarding-email) to the team member once the offboarding form has been submitted. 
+
+1. **Experience**: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md) on the team member's last day. **Offboarders will see issues being created automatically at the latest 4:00pm local regional time, at which point de-provisioning will commence, unless there are unavoidable circumstances for a later offboarding.** 
 
 ### Updating Key Offboarding Dates
 In the case an offboarding date needs to be updated, follow the next steps. 
@@ -139,15 +145,17 @@ In the case an offboarding date needs to be updated, follow the next steps.
 
 ### Exit Survey
 
-The Exit Survey provides team members with the opportunity to freely express views about working at GitLab.
-People Operations Specialists will send the [CultureAmp](https://www.cultureamp.com/) survey to all team members who are leaving voluntarily. If a team member leaves during a short notice and an exit interview cannot be scheduled prior to the team member leaving, one maybe scheduled after their offboarding date. 
+The Exit Survey provides those team members being offboarded with the opportunity to freely express views about working at GitLab.
+People Operations Specialists will send the [CultureAmp](https://www.cultureamp.com/) survey to the appropriate team members who are leaving GitLab voluntarily. 
 
-The People Specialist & the team member may proactively set up time to discuss their responses and ask for further information. Exit interviews are not mandatory, however your input will help provide GitLab with information regarding what is working well and what can be improved. Please point team member to the [Offboarding FAQ page](/handbook/people-group/offboarding/faq.html).
+The People Specialist and the team member may proactively set up time to discuss their responses and ask for further information. Exit interviews are not mandatory, however input will help provide GitLab with information regarding what is working well and what can be improved. Please point team member to the [Offboarding FAQ page](/handbook/people-group/offboarding/faq.html).
+
+Should you want to provide feedback and are not given the opportunity for an interview, please feel free to send your feedback to the People Business Partner for your division, or Team Member Relations. 
 
 #### Tasks for People Operations
 
 1. Monitor the #offboarding slack channel to be notified of leavers
-1. If the PeopleOps Specialist was selected as the exit interview owner, add a spiral pad emoji to signal you are processing this exit interview
+1. If the People Operations Specialist was selected as the exit interview owner and the offboarding is regrettable, add a spiral pad emoji to signal you are processing this exit interview
 1. Schedule a 30 minutes zoom call with the leaving team member within 1 week of their exit date.
 Email invite template:
 "I wanted to schedule time with you to go over the exit interview questions that were sent to you via Culture Amp.  This meeting is optional, if there is additional information that you would like to share please accept this invite or propose a new time.
@@ -157,7 +165,6 @@ Thanks and I wish you the best in your future endeavors!"
 1. Populate columns 'Exit Interview - POPS' with your name and 'Exit Interview Date' of the [Offboarding tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=60c1df26#gid=330541891)
 1. Complete the exit interview by asking questions to add context to survey answers and save your notes in CultureAmp. Click complete on the bottom of the page once done.
 1. Post in #pbp-peopleops: Hi 'applicable PBP' ‘Emp name’ exit survey is available for review now. (Flag trends, red flags etc.)
-
 
 #### Exit Survey - Inactive Team Member
 Follow this process to send out an exit survey to an inactive team member;
@@ -169,7 +176,6 @@ Follow this process to send out an exit survey to an inactive team member;
 1. Search the former team member in the active list and select `send invite` on the right side of their name.
 1. Open the Exit Survey and follow normal exit survey steps. 
 
-
 #### Exit Survey Reporting on Culture Amp.(For Culture Amp Admins)
 
 Culture Amp Exit Survey now has an additional "Reporting to" demographic. Initially, for reporting purposes we were using the "Manager" demographic which is no longer used on our account, i.e the data that syncs across from BambooHR is the "Reports to" field. However, this was not enabled on the actual exit survey. The "Manager" demographic was disabled on 19th November 2019. For reporting purposes, Culture Amp admins should use the "Reporting to" demographic while running reports on Culture Amp for team members who left after 19th November 2019 and the "Manager" Demographic for team members who left prior to that date.
@@ -177,8 +183,11 @@ Culture Amp Exit Survey now has an additional "Reporting to" demographic. Initia
 ## GitLab Alumni Program
 
 All offboarding may request to be added to the Slack channel `gitlab-alumni` by requesting through the PBP who can review the request and confirm to the People Experience Associate who can open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=slack_googlegroup_1Passwordgroupvault) on behalf of the former team member.
-Reasons that someone would not be permitted to join would be due to involuntary offboarding for extreme behavior or a violation of our [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
-Underperformance or other causes for involuntary offboarding are not a reason to exclude someone from the alumni program. 
+Reasons that someone would not be permitted to join would be:
+- Due to involuntary offboarding for extreme behavior or a violation of our [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
+- Underperformance or other causes for involuntary offboarding are not a reason to exclude someone from the alumni program. 
+- Team members who have less than 6 months of tenure with the organization.
+
 The purpose of this channel is to network and socialize with team members.
 Joining the channel is voluntary and subject to GitLab's [Code of Conduct](/community/contribute/code-of-conduct/).
 
@@ -187,22 +196,11 @@ The GitLab [Code of Business Conduct and Ethics](https://ir.gitlab.com/static-fi
 
 ## Involuntary Offboarding
 
-Involuntary offboarding of any team member is never easy. We've created some guidelines and information to make this process as humane as we can. Beyond the points outlined below, make sure to refer to our guidelines on [underperformance](/handbook/leadership/underperformance), as well as the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md).
+Involuntary offboarding of any team member is never easy. We've created guidelines and information to make this process as humane as we can. Beyond the points outlined below, make sure to refer to our guidelines on [underperformance](/handbook/leadership/underperformance), as well as the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md).
 
 If the need for Involuntary offboarding arises, the process is as indicated below:
 
-#### Last Working Day or Garden Leave
 
-Team members on `Last Working Date` or `Garden leave` will have no access to GitLab systems and may not be required to do any work on GitLab's behalf, but will still be active on payroll through the termination date. The People Experience team will generate the offboarding issue at the end of the team member's last working day, as per notification from the  Team Member Relations Specialist (TMR) or the People Business Partner (PBP). Once the `Last Working Day` or Garden leave expires the team member will be officially offboarded from GitLab.  Prior to the offboarding issue and the overall process for the term listed below.  The PBP will complete the following:
-
-`Last Working Day` - Only for US Team members
-
-
-*  ***TMR***: TMR will have a legal/CPO review of the planned offboarding.
-*  ***TMR***: TMR will inform payroll, compensation and benefits, security and the stock administration of the date the team member will have access suspended and the official offboarding date prior to the start of the official offboarding issue.  The TMR can either inform the group via the confidential #offboardings channel 1-2 days prior to the scheduled exit or via a zoom call.  
-*  ***TMR***: TMR will work with the People Experience Team to ensure the offboarding issue has the correct dates and all GitLab offboarding team members in payroll, compensation and benefits, security and stock administration have been communicated to and understand the correct offboarding date. 
-
-_Note: The offboarding process will remain the same as listed below in the `Involuntary Process` section below. The People Specialist will notify the team via the confidential #offboardings Slack channel to start turning off the team member's access._ 
 
 ### Involuntary Process
 
@@ -210,7 +208,9 @@ The manager and the team member should have walked through the guidelines on [un
 
 1. ***Manager***: Reach out to the their TMR specialist for assistance.
     * TMR will ask about what the performance issues have been, how they have been attempted to be addressed, and review all manager/team member documentation.
-    * Once the review has been completed and the decision has been made to offboard the team member, the TMR will partner with the People Specialists to coordinate the offboarding of the team member.
+    * Once the review has been completed and the decision has been made to offboard the team member, the manager should review the best timing for the involuntary offboarding call and termination date. We recommend to avoid scheduling a involuntary offboarding call while a team member is scheduled for any sensitive customer meetings or is on-call, per guidance below under Last working day. 
+    * TMR will partner with the People Specialists to coordinate the offboarding of the team member.
+    * TMR will inform the People Business Partner on the possible upcoming offboarding. 
 1. ***TMR***: The TMR will notify the People Operations Specialist team of the offboarding by posting in the `#Offboardings` confidential Slack channel. The TMR will indicate the team member's name, last day, reason for resignation, and rehire eligibility. The first Specialist to respond to the post will be the Specialist that partners with the TMR for the offboarding process.<br>
 _Note: If the team member has a contract with a co-employer, the payroll lead will forward the email to the contact at the co-employer._
 1. ***TMR***: The TMR will create a private Slack channel that will include the PBP, Manager, and Leader of the organization to review the offboarding and agreed upon offboarding date. 
@@ -227,7 +227,7 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
       * Informing the team and answering questions should be the top priority.
       * No announcement should be made in the `#team-member-updates` Slack channel until the team call has been completed.
       * In most cases, a team call can occur the same day of the offboarding. If necessary, the offboarding can be announced in the `#team-member-updates` Slack channel the following day.
-1. ***TMR/Manager***: Decide what offboarding actions need to be taken _before_ the call (e.g. revoke admin permissions), or _during_ the call (e.g. revoke Slack and Gmail access), and which ones can wait until later. You can reference the [offboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/offboarding.md) for the full list of actions. This conversation should take place in the private Slack channel with PBP, Manager and Leader.
+1. ***TMR/Manager***: Decide what offboarding actions need to be taken _before_ the call (e.g. revoke admin permissions), or _during_ the call (e.g. revoke Slack and Gmail access), and which ones can wait until later. You can reference the [offboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md) for the full list of actions. This conversation should take place in the private Slack channel with PBP, Manager and Leader.
 1. ***TMR***: If the team member is a risk to the production environment, the TMR should privately reach out to the `Infrastructure Managers` to determine who will be available to assist with the offboarding. Once an infrastructure team member has been identified, they should be added to the private calendar invite sent to People Experience, Security, and Payroll to hold the time for the team member offboarding. Once the offboarding conversation starts the TMR will privately Slack the infrastructure contact the name of the team member to start the offboarding process.
 
 When on the call...
@@ -243,6 +243,20 @@ Unfortunately, the reason I wanted to speak with you is because we have decided 
 1. ***TMR***: The TMR will also make it clear that the decision is final, but also will genuinely listen to the team member's side of the story since there may be useful lessons in what they say for the rest of the team e.g. regarding hiring and vetting practices.
 1. ***TMR***: Make sure to communicate the [practical points](#offboarding-points) from the offboarding memo outlined below.
 1. ***TMR***: Once the conversation is complete, the TMR will stage the severance document in DocuSign for review and signatures.
+
+#### Last Working Day 
+
+After the involuntary offboarding call has taken place and the last working day has been determined, team members will have no access to GitLab systems and may not be required to do any work on GitLab's behalf. If they are on "Garden Leave" they will still be active on payroll through the termination date. When determining the timing of the involuntary offboarding call and termination date it is important to consider any effect this might have on ongoing tasks and responsibilities of the team member. As a manager, in collaboration with the Team Member Relations Specialist (TMR) and/or the People Business Partner (PBP), we recommend to avoid scheduling the involuntary offboarding call while a team member is scheduled for any sensitive customer meetings or is [on-call](/handbook/on-call/). If this is unavoidable, the manager is responsible for ensuring a transition/remediation plan. 
+
+The People Experience team will generate the offboarding issue at the end of the team member's last working day, as per notification from the Team Member Relations Specialist (TMR) and the People Business Partner (PBP). Once the `Last Working Day` or Garden leave expires the team member will be officially offboarded from GitLab.  Prior to the offboarding issue and the overall process for the term listed below.  
+
+`Last Working Day` - Only for US Team members
+
+*  ***TMR***: TMR will have a legal/CPO review of the planned offboarding.
+*  ***TMR***: TMR will inform payroll, compensation and benefits, security and the stock administration of the date the team member will have access suspended and the official offboarding date prior to the start of the official offboarding issue.  The TMR can either inform the group via the confidential #offboardings channel 1-2 days prior to the scheduled exit or via a zoom call.  
+*  ***TMR***: TMR will work with the People Experience Team to ensure the offboarding issue has the correct dates and all GitLab offboarding team members in payroll, compensation and benefits, security and stock administration have been communicated to and understand the correct offboarding date. 
+
+_Note: The offboarding process will remain the same as listed below in the `Involuntary Process` section below. The People Specialist will notify the team via the confidential #offboardings Slack channel to start turning off the team member's access._ 
                                                                 
 ### Hold for In-Vol Offboarding
 This form is used to help coordinate all necessary stakeholders for an involuntary offboarding. This will allow all stakeholders to be on standby to offboard the team member effeciently to prevent any possible security threats. 
@@ -339,7 +353,7 @@ _To be documented_
 
 ## Communicating Departures Company-Wide
 
-As explained briefly in the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/offboarding.md), GitLab does not provide any context around why people are leaving when they do.
+As explained briefly in the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md), GitLab does not provide any context around why people are leaving when they do.
 However as mentioned in the procedures, for [voluntary offboarding](/handbook/people-group/offboarding/#voluntary-offboarding), the team member can work with their manager on sharing a company-wide message about their departure. 
 
 Once the news has been shared with the team member’s team and other stakeholders, and messaging is agreed upon between the departing team members and their manager, the departing team member’s manager shares the following message company-wide about the team member’s upcoming departure in the `#team-member-updates` Slack channel. 
@@ -421,9 +435,7 @@ This section of the Accounting Department.
 To remove someone from Expensify Log in to [Expensify](https://www.expensify.com/signin) and go to "Settings" in the left sidebar.
 Select the right policy based upon the entity that employs the team member. Select "People" in the left menu.
 Select the individual's name and click "Remove".
-If the person has a company credit card assigned to them please notify Finance before un-assigning it.
-
-
+If the person has a Corporate Credit Card assigned to them, please notify Accounts Payable before un-assigning it.
 
 ### Retrospective for Managers
 For involuntary offboardings it is optional to do a retrospective on the hiring, onboarding and coaching/communication of the departing team member. As a manager, you can use [this template](https://docs.google.com/document/d/1AWth5o_sagDTwQ92FJr7WDHPNezEg6-BgRY6Tafejgo/edit?usp=sharing) for a retrospective. Please share the filled out template with your manager as well as the [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) for your group.
@@ -439,8 +451,9 @@ Within the Engineering division this is a **required process** because it causes
 For example, "How would you compare yourself relative to your peers?"
 People are surprisingly honest here.
 
-
 ## Declination (Prior to Day 1 and up to Day 5)
+
+Note: Prior to start date- If a team member has been added to BambooHR and the Payroll Changes Sheet but does not start, their profile will be deleted from BambooHR. Notify the Payroll Team accordingly and make a note against their particulars in the Payroll Changes Sheet. 
 
 Should a new hire be onboarded by the People Experience team, but: 
 
@@ -449,7 +462,7 @@ Should a new hire be onboarded by the People Experience team, but:
 
 This is not seen as a true offboarding, but there are still relevant steps to take.
 
-1. The People Experience Associate will manually create a skeletal [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) and only include deprovisioning tasks that are applicable to the access that was given up to that point.
+1. The People Experience Associate will manually create a skeletal [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/offboarding.md) and only include deprovisioning tasks that are applicable to the access that was given up to that point.
 1. The People Experience Associate will inform the [team member with ownership rights](https://about.gitlab.com/job-families/people-ops/people-operations/#director-global-people-operations) of BambooHR to delete the team members' BambooHR profile entirely by messaging them in the private People Ops Slack channel.
 
 ## PEO Offboarding Guidelines
@@ -473,5 +486,3 @@ unemployment rate, according to the [People Ops internal handbook](https://gl-pe
 ### Reporting a False Unemployment Claim
 
 If you are a full-time team member and you are contacted by your state's Unemployment Commission to discuss your request for unemployment benefits, you may be a victim of unemployment claim fraud. Before giving out any information to the caller, please confirm that you are speaking with an agency employee. If you confirm with your state's Unemployment Commission that there is a fraudulent claim, please report it via email to `peopleops@gitlab.com`. Additionally here is a link to the [U.S Department of Labor Report Unemployment Insurance Fraud](https://www.dol.gov/agencies/eta/unemployment-insurance-payment-accuracy/report-unemployment-insurance-fraud), which lists additional information.
-
-

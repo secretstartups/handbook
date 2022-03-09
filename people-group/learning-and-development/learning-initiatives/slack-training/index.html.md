@@ -14,7 +14,37 @@ description: "Details on how to sign up for an in-app Slack training for new tea
 
 Please review the learning objectives, requirements, and training details before signing up.
 
-Sign up for the Slack training by completing [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSe1pBLLFYOuoAyKssl9BtVGNlQXP08YYcudrlsKu0lic6apWQ/viewform?usp=sf_link). After completing the form, the Learning and Development team will reach out with next steps.
+Sign up for the Slack training by completing [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSe1pBLLFYOuoAyKssl9BtVGNlQXP08YYcudrlsKu0lic6apWQ/viewform?usp=sf_link). The Learning and Development team will enroll you in the cohort you indicate in the form and notify you ~3 business days before the training starts.
+
+## Testimonials
+
+**Results**
+
+As of 2022-02-09:
+
+1. 93.7% of learners would recommend this training to other team members
+1. 75% of learners agree that their confidence in successfully using Slack at GitLab increased after completing this training.
+1. 75% of learners agree that the training helped them feel empowered with knowledge and resources needed to to speak up for GitLab values and correct usage of Slack.
+1. 81% of learners discovered at least 1 new strategy or best practice for using Slack at GitLab
+
+**What learners are saying:**
+
+`This training was great and I'm glad I was able to participate! If this training is not already part of onboarding for new team members, it should be considered.`
+
+`It was a great refresher for me!`
+
+### Is this training right for me?
+
+This training is built for:
+
+1. New team members
+1. Team members who want a refresher on using Slack
+
+This training is **not** built for:
+
+1. Super experts in Slack: the training is focused on Slack basics and their connection to GitLab values.
+1. Learners looking for advanced used of Slack commands and automations (follow along with planning for[Slack Training 2.0](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/356) for more advanced resources)
+
 
 ## Learning Objectives
 
@@ -39,11 +69,30 @@ If you meet these requirements, please use [this Google form](https://docs.googl
 
 Here's what to expect in the Slack training:
 
-1. After signing up, you'll be added to a training cohort. The current goal is to run at least one cohort per month.
-1. 3 days before the training begins, you'll be added to a group direct message with a notification of the training start date and first instructions
+1. After signing up, you'll be added to a training cohort Slack group and the [#slack-training Slack channel](https://app.slack.com/client/T02592416/C02MX7LTXK9/thread/G018JT50VH7-1641496150.005700). The current goal is to run at least one cohort per month.
 1. The training will run for 10 business days
-1. Each day, you'll get one direct message with your daily task instructions
-1. Messages will be scheduled by the L&D team and are triggered to send at 2pm UTC
+1. Each day, you'll get one Slack group ping with your daily task instructions, posted publically to the [#slack-training channel](https://app.slack.com/client/T02592416/C02MX7LTXK9/thread/G018JT50VH7-1641496150.005700)
+1. Messages will be scheduled by the L&D team and are triggered to send at 3pm UTC
+
+### Topics Covered
+
+Below you're find the topics and links covered in each day of the training
+
+| Training Day | Topic | Links |
+| ----- | ----- | ---------- |
+| 0 | Training introduction + Slack profile updates | N/A |
+| 1 | Organizing channels in the Slack side-bar | [Custom section Slack docs](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections) |
+| 2 | Using public channels |[Why we avoid direct messages at GitLab](/handbook/communication/#avoid-direct-messages)|
+| 3 | Marking all messages as read | [Quick commands Slack docs](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts) |
+| 4 | Follow keywords in Slack | [Custom notifications Slack docs](https://slack.com/help/articles/4412437167251-Get-notified-about-topics-you-care-about) |
+| 5 | Using threads to organize conversations | [Slack usage at GitLab](handbook/communication/#slack) |
+| 6 | Review of `here` and `channel` tag usage | [Reducing reliance on Slack at GitLab](/company/culture/all-remote/asynchronous) |
+| 7 | Blocking time to catch up on Slack messages | [Do not Distrub mode Slack docs](https://slack.com/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb#set-a-dnd-schedule) |
+| 8 | Using the `/remind` command | [Remind command Slack docs](https://slack.com/help/articles/208423427-Set-a-reminder)|
+| 9 | Moving conversations out of Slack and into Issues or MRs | [Slack usage at GitLab](/handbook/communication/#slack) |
+| 10 | End of training survey | N/A |
+
+
 
 ## Metrics
 
@@ -60,6 +109,7 @@ The following topics will be prioritized in future iterations of this training:
 
 1. Increase automation - explore tools and plugins that can automatically assign and trigger this training based on team member start date
 1. Improve metrics - track impact of training on team member behavior in Slack
+1. Create a [Slack training 2.0](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/356)
 
 ## Questions
 

@@ -9,6 +9,50 @@ title: Learning & Development
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Team Member Resources
+
+The Learning & Development team has a number of resources to help team members learn new skills. 
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/people-group/learning-and-development/learning-initiatives/" class="btn btn-purple" style="width:200px;margin:5px;">Learning Initiatives </a>
+    <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/" class="btn btn-purple" style="width:200px;margin:5px;">Growth & Development Benefit</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/" class="btn btn-purple" style="width:200px;margin:5px;">Career Development & Mobility</a>
+  </div>
+</div>
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/leadership/coaching/" class="btn btn-purple" style="width:200px;margin:5px;">Coaching</a>
+    <a href="/handbook/people-group/learning-and-development/manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Manager Training</a>
+    <a href="/handbook/people-group/learning-and-development/linkedin-learning/" class="btn btn-purple" style="width:200px;margin:5px;">LinkedIn Learning</a>
+  </div>
+</div>
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/people-group/learning-and-development/gitlab-learn/" class="btn btn-purple" style="width:200px;margin:5px;">GitLab Learn</a>
+    <a href="/handbook/people-group/learning-and-development/mentor/" class="btn btn-purple" style="width:200px;margin:5px;">Mentorship</a>
+    <a href="/handbook/people-group/learning-and-development/compliance-courses" class="btn btn-purple" style="width:200px;margin:5px;">Compliance Courses</a>
+  </div>
+</div>
+
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/people-group/learning-and-development/manager-challenge/" class="btn btn-purple" style="width:200px;margin:5px;">Manager Challenge</a>
+    <a href="/handbook/people-group/learning-and-development/manager-challenge/leadership-chats/" class="btn btn-purple" style="width:200px;margin:5px;">Leadership Chats</a>
+    <a href="/handbook/people-group/learning-and-development/manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">New Manager Resources</a>
+  </div>
+</div>
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/sales/field-manager-development/" class="btn btn-purple" style="width:200px;margin:5px;">Field Manager Development</a>
+  </div>
+</div>
+
+
 ## Overview
 
 ### Purpose
@@ -61,18 +105,26 @@ _Performance indicators_
 ### GitLab Learning Strategy & Roadmap
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdSkXvFLoLfpF4egf-4h8-Y-_FOx_BBfC9PVxVNMUlZ2Xi7oH7oHi8nCrCm7bD2Cir2znJ-9tBOlp2/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfTwBDgrL07yg9Zpk08CQ1U52ZpvaYN5qB9YsSphS55-AbRYAmJBeCb0ClN-Cb4-SKKObk8pnTXLhD/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 **Learn more about our [FY22 Roadmap and tracking sheet](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375)**.
+
+### FY23 Learning & Development Calendar
+
+<figure class="video_container">
+<iframe src="https://calendar.google.com/calendar/embed?src=c_glhi0qhc8hs9fp4h9id2hc7lfg%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</figure>
+
+**Note: Learning & Development activities are subject to change**
 
 ### L&D Organization
 
 We are a small team, but we've got a big role to play at GitLab! 
 
 * [Learning and Development Manager](/job-families/people-ops/learning-development/#learning--development-manager): [Josh Zimmerman](/company/team/#Josh_Zimmerman)
-* [Learning and Development Generalist](/job-families/people-ops/learning-development-specialist/#learning--development-generalist): [Jacie Bandur](/company/team/#jbandur)
-* [Learning and Development Associate](/job-families/people-ops/learning-development-specialist/#learning--development-associate): [Samantha Lee](/company/team/#slee24)
+* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Jacie Bandur](/company/team/#jbandur)
+* [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-ops/learning-development/#intermediate-learning--development-program-manager): [Samantha Lee](/company/team/#slee24)
 * [Instructional Designer](/job-families/people-ops/instructional-designer/): [Irina Grosu](https://about.gitlab.com/company/team/#irinagrosu)
 * [Learning System Administrator](/job-families/people-ops/learning-system-administrator/): [Jamie Allen](https://about.gitlab.com/company/team/#jallen16)
 
@@ -108,55 +160,7 @@ All material in the handbook is considered training. The Learning & Development 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-
-## Learning Opportunities 
-
-### Learning Initiatives 
-
-The L&D team hosts and organizes [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) to engage the GitLab team in opportunities to learn. The team is consistently iterating on and adding to these resources!
-
-### Growth & Development
-
-Team members can take advantage of up to $10,000 USD per calendar year for [Growth & Development opportunities](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/). This amount can be used for professional development, certifications, workshops, coaching, language courses, and much more!
-
-### Career Development
-
-Everyone's career development is different, but we have [outlined](/handbook/people-group/learning-and-development/career-development/) what it can look like at GitLab. Career development also includes our [GitLab coaching framework](/handbook/leadership/coaching/) to support managers in holding coaching discussions with their team. 
-
-### Leadership Development Programs
-
-GitLab has a growing [resource](/handbook/people-group/learning-and-development/manager-development/) to enable all team members transitioning to a manager role. It contains a link to a checklist, readings, and a form to help learning and development customize your development as a manager.
-
-**Learning programs to develop as a people leader:** 
-
-- [The Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/)
-- [Leadership Chats](/handbook/people-group/learning-and-development/manager-challenge/leadership-chats/)
-- [Transitioning to a manager role](/handbook/people-group/learning-and-development/manager-development/)
-- [Coaching](/handbook/leadership/coaching/)
-- [Field Manager Development Program](/handbook/sales/field-manager-development/)
-
-**What's coming in FY23:**
-- New Manager Bootcamp
-- Coaching Pilot 
-- [LifeLabs Learning Pilot](/handbook/people-group/learning-and-development/learning-initiatives/#lifelabs-learning)
-- Managing at GitLab Course
-- Leadership Development Job Family
  
-### Self-Paced Learning 
-
-Take advantage of [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/), an online educational platform that team members have access too to help develop skills through expert-led course videos. 
-
-### [GitLab Learn](https://gitlab.edcast.com/): EdCast Learning Experience Platform (LXP) 
-
-GitLab Learn, our [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-learn/) launched internally for GitLab team members on 2021-01-11. This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
-
-### Mentoring at GitLab
-
-[Mentor relationships](/handbook/people-group/learning-and-development/mentor/) are an opportunity for individuals to learn from someone's personal experience, background, and perpsective. 
-
-### Compliance Courses 
-
-GitLab has several compliance courses and resources. Explore the [Compliance Courses](/handbook/people-group/learning-and-development/compliance-courses) page to learn more.
 
 ## New Learning Content at GitLab
 
@@ -264,7 +268,7 @@ The L&D team uses a formula to describe the optimal sources of learning at GitLa
 
 ### Instructional Design 101
 
-The Learning & Development, [Field Enablement](/handbook/sales/field-operations/field-enablement/), and [Professional Services](/handbook/customer-success/professional-services-engineering/) team hosted an Instructional Design 101 session on 2020-10-28 to better understand concepts of adult learning theory and instructional design. Check out the video to learn how to apply instructional design to learning content. 
+The Learning & Development, [Field Enablement](/handbook/sales/field-operations/field-enablement/), and [Professional Services](/handbook/customer-success/professional-services-engineering/) teams hosted an Instructional Design 101 session on 2020-10-28 to better understand concepts of adult learning theory and instructional design. Check out the video to learn how to apply instructional design to learning content. 
 
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Be8oRHp0E84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
