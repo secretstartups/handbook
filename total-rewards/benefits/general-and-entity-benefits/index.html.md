@@ -167,8 +167,9 @@ GitLab plans to continue to iterate on fertility benefits as we evaluate and enh
 
 
 ## Parental Leave
+GitLab's paid Parental Leave is for any active team member (regardless of gender) who becomes a parent through child birth or adoption while working at GitLab. 
 
-**If you've been at GitLab for six months** and completed a [probationary period](/handbook/contracts/#probation-period) (if applicable), you can take up to **16 weeks of paid Parental Leave** during the first year of parenthood. This includes anyone who becomes a parent through childbirth or adoption. When allowed by law the 16-week balance is per birth or adoption event. If you live in a country where a statutory Parental Leave benefit is available, you will be required to claim statutory Parental Leave pay (if you are eligible) and GitLab will supplement any gaps. 
+**If you've been at GitLab for six months** and completed a [probationary period](/handbook/contracts/#probation-period) (if applicable), you can take up to **16 weeks of paid Parental Leave** during the first year of parenthood. This includes anyone who becomes a parent through childbirth or adoption while working for GitLab. When allowed by law the 16-week balance is per birth or adoption event. If you live in a country where a statutory Parental Leave benefit is available, you will be required to claim statutory Parental Leave pay (if you are eligible) and GitLab will supplement any gaps. 
 
 We encourage parents to take the time they need. GitLab team members will be encouraged to decide for themselves the appropriate amount of time to take and how to take it. For many reasons, a team member may require more time off. Many GitLab team members are from countries that have longer standard Parental Leaves or births can have complications and sometimes 16 weeks just isn't enough. Any GitLab team member can request additional unpaid leave for up to 4 weeks. We are happy to address anyone with additional leave requests on a one-on-one basis. The entire Parental Leave balance must be used prior to the child's first birthday or the first anniversary of the adoption.
 
@@ -190,10 +191,11 @@ When you return from Parental Leave, please [notify the Absence Management that 
 
 Your 16 weeks of Parental Leave starts when the child arrives, but in some cases a team member may choose to begin their leave earlier. While we encourage you to begin your leave when your child arrives to be able to capture as much time as possible with the newest addition to your family, if you would like to start your leave on a different date please notify leaves@gitlab.com; otherwise the start date will be assumed as the date your child arrives.  
 
-You don't have to take your Parental Leave in one continuous period, we encourage you to plan and arrange your Parental Leave in a way that suits you and your family's needs. You may split your Parental Leave dates as you see fit, so long as it is completed prior to the child's first birth or first anniversary of the adoption event.
+You don't have to take your Parental Leave in one continuous period, we encourage you to plan and arrange your Parental Leave in a way that suits you and your family's needs. You may split your Parental Leave dates as you see fit, so long as it is completed prior to the child's first birth or first anniversary of the adoption event. The Absence Management team will receive a notification every time you edit your Parental Leave dates. Make sure your leave is under the `Parental Leave` category, otherwise the Absence Management team won't get a notification.
 
-You can change the dates of your Parental Leave via PTO by Roots. The Absence Management team will receive a notification every time you edit your Parental Leave dates. Make sure your leave is under the `Parental Leave` category, otherwise the Absence Management team won't get a notification.
-*Please note, if you are planning to change or extend your Parental Leave by using a different type of leave such as PTO, unpaid leave or any local statutory leave, please send an e-mail to leaves@gitlab.com.
+**A few things to note:**
+* If you are planning to change or extend your Parental Leave by using a different type of leave such as PTO, unpaid leave or any local statutory leave, please send an e-mail to leaves@gitlab.com.
+*When determing the dates of your leave, GitLab uses a 1/7 formula (1 week = 7 days).  This means if you are planning on returning to work on a Monday, the last day of your leave will be Sunday.  Please use this formula when submitting your PTO by Roots request.
 
 ### Taking PTO After Taking Parental Leave
 
