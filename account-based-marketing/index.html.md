@@ -24,9 +24,9 @@ To be added
 {: #goals}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The goals for new first-order MQLs and SAOs are derived from workbacks of sales pipeline projections. These differ by segment and geo, and can be discussed internally.
+The goals for new first-order MQLs and SAOs are derived from workbacks of sales pipeline projections. These differ by segment and geo, and can be discussed internally. Attainment of these goals is a collaborative effort across ABM, Campaigns, Field Marketing, Sales, SDR, and Digital.
 
-### Account Based Marketing Key Metrics
+### Key Metrics
 {: #key-metrics}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -150,9 +150,9 @@ In between bi-weekly Campaigns Team Connect calls:
 - `mktg-status::plan`: this is used for work that is in an earlier stage of planning and a specific request has not been made
     - This will likely be used mainly by ABM team members on issues that are not high priority but there is a desire to capture the idea/notes.
 
+<!-- Not including Until triage able to be handled
 ### Turnaround Time and SLAs
 {: #slas}
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 ⏱ **The SLA (Service Level Agreement) is dependent on the type of request (noted in the issue) and begins when all details (including 100% final copy) is provided in the request issue.**
 - Tip: Submit issues with full "Submitter Details" complete
@@ -164,6 +164,7 @@ In between bi-weekly Campaigns Team Connect calls:
   - For example, if the issue is submitted Januarry 1, with a due date of Januaruy 15, BUT details are not submitted until Oct 14, THEN the issue due date will be moved to January 21 by the triage manager.
   - The manager of ABM team and assignee are the ONLY individuals allowed to adjust due dates upon triage.
   - 🙏 Please **do not** ask ABM team members to complete work in a shorter timeline as this is disruptive to their milestone, and their priority is to plan, implement, and optimize ABM campaigns and tactics. They will manage their milestones appropriately and pull in work as bandwidth allows, and based on the SLA.
+  -->
 
 ### Issue Templates
 {: #issue-templates}
@@ -197,14 +198,7 @@ Timeline
 {: #integrations .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The following diagram is a Work In Progress to outline the integrations between Demandbase and other systems in our Marketing tech stack. The will continue to be updated as more information is made available.
-
-<iframe src='https://app.mural.co/embed/b6439b59-6cda-480a-8e90-2094782486e9'
-        width='100%'
-        height='480px'
-        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
-        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
-</iframe>
+This MURAL: [ABM Tech Stack Integrations & Data Flow](https://app.mural.co/t/gitlab2474/m/gitlab2474/1638470414418/ae87dd31e87d2fe1153849b00add3f87853daf63?sender=jgragnola2053) is a Work In Progress diagram to outline the integrations between Demandbase and other systems in our Marketing tech stack. The will continue to be updated as more information is made available.
 
 ### Current Demandbase Integrations
 {: #demandase-integrations}
