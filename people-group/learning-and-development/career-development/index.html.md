@@ -252,6 +252,22 @@ In August 2021 we held a Career Development Skill of the Month. All items are li
 
 ## Tracking your Career Development
 
+### Self authorship and your career development
+
+During a live speaker sereies hosed in March 2022, [Lavinia Mehedintu](https://www.linkedin.com/in/laviniamehedintu/) spoke to the GitLab team about self-authorship in career development. In the session, Lavinia speaks about
+
+1. The impact of growth mindet on career development, and tips for shifting out of a fixed mindset
+1. Trust building in an all remote space and the role that people managers play in building this trust
+1. Learning and building out loud, sharing career development externally, and the power of social learning
+
+This is a great live speaker series that get's into the 'why' of career development, specifically on an all remote team. You can watch the recording on the GitLab unfiltered YouTube channel using [this direct link](https://youtu.be/UsGlTOmM2DM) or watch the recording directly below:
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/UsGlTOmM2DM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+Resources in this section are created for GitLab team members to organize and plan for their career development. Embrace your own self-authorship while using these tools to make them fit your specific career development goals.
+
 ### Individual Growth Plan 
 
 The [Individual Growth Plan (IGP)](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) is a great way to take initiative of your career growth. 
