@@ -1,88 +1,149 @@
 ---
 layout: handbook-page-toc
+
 title: "GitLab Security Essentials Hands-On Guide: Lab 3"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
 # GitLab Security Essentials Hands-On Guide: Lab 3
 {:.no_toc}
 
-## LAB 3: Enable, configure, and run License Compliance
+## LAB 3: Enable, configure, and run Container Scanning
 
-### Unblock License Compliance for your project
+### Setup
 
-**Important**: if you are taking a self-paced class, skip this section and continue with the **View your dependencies** section below. This section is only for students taking an instructor-led class.
-
-The training environment for instructor-led classes blocks License Compliance for all projects by default. You need to unblock it for your project before you can enable it in `.gitlab-ci.yml`. Outside the training environment, you'll probably never need to do this step.
-
-1. Return to the **Security Labs** project you used for the previous labs.
-1. In the left navigation pane, click **Settings > CI/CD**. In the **Variables** section, click **Expand**.
-1. Click **Add variable**.
-1. In the **Key** field, enter `LICENSE_MANAGEMENT_DISABLED`
-1. In the **Value** field, enter a single space.
-1. Uncheck **Protect variable**.
-1. Click **Add variable**.
-
-### View your dependencies
-
-1. As you saw in the Dependency Scanning lab, this Python project has 1 dependency: the open-source **Keras** library. Confirm this by looking in the `requirements.txt` file.
+1. Return to the **Security Labs** project you used in the other labs.
+1. **OPTIONAL:** Follow the instructions at the start of [Lab 2](secessentialshandson2.html) for speeding up your pipeline by disabling scanners that you enabled in previous labs.
 
 
-### Enable and run License Compliance
+### Add a `Dockerfile`
 
-1. Add the `Security/License-Scanning.gitlab-ci.yml` template to the `include:` section of `.gitlab-ci.yml`. If necessary, use the already-included templates as a model for syntax and indentation.
-1. Commit the edited `.gitlab-ci.yml` with an appropriate message.
-1. Visit the details page for pipeline that your commit triggered. Watch the progress of the `license_scanning` job. This might take a few minutes because the scanner has to download all of your project's dependencies, and those dependencies' dependencies, and so on.
+A Dockerfile is a "recipe" that tells Docker how to assemble your application into a Docker image. You'll write a `Dockerfile` that installs your single-file Python application onto an Ubuntu 18.04 Docker image, and then packages that whole stack into a new Docker image.
 
+1. In the left navigation pane, click **Repository > Files**.
+1. Above the repository file list, click **(+) > New file**.
+1. In the **File name** field, type `Dockerfile`
+1. The Dockerfile must specify which Linux image to install your application on. For this lab you'll use an old version of Ubuntu that has security vulnerabilities for the Container Scanner to find. Paste this into `Dockerfile`:
 
-### View the License Compliance report with uncategorized licenses
+    ```dockerfile
+   FROM ubuntu:18.04
+    ```
 
-1. Return to the details page for your pipeline and click the new **Licenses** tab. Keras is a big library with many dependencies of its own, so you'll see several licenses. Since you haven't added any rules for approving or denying licenses yet, GitLab will list all of these licenses as "uncategorized."
+1. The Dockerfile "recipe" must add your application to the Linux image specified above. Paste this at the bottom of `Dockerfile`:
 
+    ```dockerfile
+   ADD HelloWorld.py .
+    ```
 
-### Approve and deny licenses
+1. Your completed `Dockerfile` should look like this. Make any corrections necessary.
 
-In real life you would approve or deny each of the licenses for your project's dependencies, but in this lab you'll manage just 2 of them.
+    ```dockerfile
+   FROM ubuntu:18.04
+   ADD HelloWorld.py .
+    ```
 
-1. Click **Manage licenses**. 
-2. Click **Add license policy**.
-3. In the **License name** dropdown, select `MIT License`. There are several licenses with similar names, so be sure to pick the right one.
-4. Select the **Allow** radio button.
-5. Click **Submit**.
-6. Click **Add license policy**.
-7. In the **License name** dropdown, select `Apache License 2.0`. Make sure not to accidentally select a different license with a similar name.
-8. Select the **Deny** radio button.
-9. Click **Submit**.
-10. Use the same process to **deny** the `ISC License` (not the license just called `ISC`).
-
-
-### View the License Compliance report with categorized licenses
-
-1. Return to the details page of the most recent pipeline and click the **Licenses** tab. 
-1. Notice that GitLab now describes the **Apache License 2.0** as out of compliance, and lists the dependencies that you should remove from your project to restore compliance.
-1. See that GitLab describes the **MIT License** as acceptable to use in this project.
+1. Add a commit message and click **Commit changes**.
 
 
-### Add approval rules
+### Build the Docker image
 
-The security team decides that your project *generally* shouldn't use dependencies with the MIT License, but is willing to consider some exceptions. MRs that introduce dependencies with denied licenses are normally blocked from being merged, but you can make an approval rule that allows any member of the security team to override blocked MRs. GitLab calls this special approval ruleset **License-Check**.
+In this section you will define a job that builds a Docker image.
 
-1. Click **Manage licenses**.
-1. Click **License Approvals**. This shows the special **License-Check** approval ruleset  (which is currently empty).
-1. Leave **Approvals required** set to `1` so the MR can be unblocked by any single member of the security team.
-1. In **Add approvers** select `Administrator @root`, since that's the only user available that's not you (you can't give the project owner permission to approve license compliance overrides). If there had been a "security team" group defined, you could have added that group instead.
-1. Click away from the **Add approvers** dropdown to close it, and confirm that **Administrator** is an approver.
-1. Click **Add approvers** and notice the new message **License Approvals are active**.
+To build a Docker image with a CI/CD pipeline job, you must use a GitLab Runner that's configured to use a Docker executor. Fortunately the shared GitLab Runners in the training environment satisfy this requirement.
+
+1. Define a `build` stage to assign your job. Paste this just beneath the `stages:` keyword, making sure it has the same indentation as the existing `- test` entry beneath it:
+
+    ```yml 
+     - build
+    ```
+
+1. Name your new job and assign it to a stage. Paste this at the end of `.gitlab-ci.yml`:
+
+    ```yml
+   build-and-push-docker-image:
+     stage: build
+    ```
+
+1. Your job must run on a Docker image that contains Docker tools (this approach is sometimes called "Docker in Docker", or "dind"). Because of technical limitations of the training environment, you need to specify an older version (_i.e._, version 18) of the image that contains Docker tools. Paste this into your job definition:
+
+    ```yml
+     image: docker:18
+    ```
+
+1. Your job also needs a second Docker image that enables the Docker in Docker workflow. You specify this with the `services` keyword. Paste this into your job definition:
+
+    ```yml
+     services:
+       - docker:18-dind
+    ```
+
+1. It's helpful to define a variable to hold the full name and version of the Docker image you're creating, because you'll need to refer to that information more than once. You can assemble the name and version out of predefined variables that GitLab provides (remember that predefined variables generally start with "CI"). Paste this into your job definition:
+
+    ```yml
+      variables:
+        IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
+    ```
+
+1. Instruct Docker to build a Docker image using the recipe in `Dockerfile`. Paste this into your job definition:
+
+    ```yml
+     script:
+       - docker build --tag $IMAGE .
+    ```
 
 
-### Make an MR that adds a dependency with a denied license
+### Push the Docker image to your project's container registry
 
-1. Make a new branch called `add-dnspython-dependency`
-2. Make an MR for that branch, making sure to remove `Draft:` from the MR title so that it's ready to merge.
-3. Add a new dependency to the **add-dnspython-dependency** branch (not the **main** branch!) by pasting `dnspython==2.1.0` as a new line at the end of `requirements.txt`. Commit the edit.
-4. Navigate to the details page for the pipeline that was triggered by your commit, and wait for it to finish.
-5. Navigate to the branch's MR. In the **License Compliance** pane, click **Expand**. The MR is blocked from being merged because the **dnspython** dependency that it adds uses a denied license.<br/><br/>Normally you would need to either remove the dependency or have a member of the security team approve the MR and override the license compliance block. Since there are no approvers available in this training environment, you can stop here and leave the MR unmerged.
+1. Your job needs to log in to the project's container registry so it can push your image to it. Add this line to the bottom of the `script` section of the `build-and-push-docker-image` job:
+
+    ```yml
+       - docker login --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD $CI_REGISTRY
+    ```
+
+1. Your job can push the image with a single Docker command. Add this to the bottom of the `script` section of the job definition:
+    ```yml
+       - docker push $IMAGE
+    ```
+
+1. Your completed job definition should look like this. Make any corrections necessary to the job definition in your `.gitlab-ci.yml`.
+
+    ```yml
+   build-and-push-docker-image:
+     stage: build
+     image: docker:18
+     services:
+       - docker:18-dind
+     variables:
+       IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
+     script:
+       - docker build --tag $IMAGE .
+       - docker login --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD $CI_REGISTRY
+       - docker push $IMAGE
+    ```
+
+1. Commit the changes to `.gitlab-ci.yml` with an appropriate commit message.
+
+1. When the pipeline finishes running, verify that your job created a new Docker image and pushed it into the project's container registry: in the left navigation pane, click **Packages & Registries > Container Registry**.
+
+
+### Enable Container Scanning
+
+Now that your Docker image is being built and pushed, you can enable Container Scanning.
+
+1. Add the Container Scanning template to the existing `include:` section of `.gitlab-ci.yml`:
+
+    ```yml
+       - template: Security/Container-Scanning.gitlab-ci.yml
+    ```
+
+1. Commit the changes with an appropriate commit message.
+1. Wait for the pipeline to finish running.
+
+
+### View the results
+
+1. See if the Container Scanner found any problems with the old Ubuntu base image by looking at either the **Vulnerability Report** or the **Security** tab in the pipeline details page.
 
 
 ## Suggestions?
 
-If you’d like to suggest changes to the *GitLab Security Essentials Hands-on Guide*, please submit them via merge request.
+If you'd like to suggest changes to the *GitLab Security Essentials Hands-On Guide*, please submit them via merge request.

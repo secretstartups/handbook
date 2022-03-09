@@ -29,7 +29,6 @@ If you do disable any scanners, you'll also need to comment out any job definiti
 #     SECRET_DETECTION_EXCLUDED_PATHS: "tests/"    
 ```
 
-
 ### Identify your project’s dependencies
 
 1. Return to the **Security Labs** project you created in Lab 1.
