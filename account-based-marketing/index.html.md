@@ -30,23 +30,21 @@ The goals for new first-order MQLs and SAOs are derived from workbacks of sales 
 {: #key-metrics}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- **North Star Metric:** 
-- **Efficiency Metric:** 
-- **Business Impact Metric:** 
-- **Supporting/Activity Metrics:** 
-
+- **North Star Metric:** MQA, SAO from New First Order Key Accounts
+- **Supporting Metrics:** Demandbase campaign metrics
 ### OKRs
 {: #okrs}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 **OKRs = Objective + Key Result**
 
-#### FY22-Q4 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2602))
+#### FY23-Q1 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2602))
 
-- [Update Ideal Customer Profile & Focus Account List with Sales](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2604)
+- [Update Key Account Account List in Collaboration with Sales](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2604)
+- [Update Ideal Customer Profile and Demandbase Foundations](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2669)
+- [Execute multi-channel ABM campaigns to drive SAOs out of FAL](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2668)
 
-
-#### FY22-Q4 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2602))
+#### FY22-Q4 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/-/epics/1654))
 
 - [Harvest Leads from "Engaged with People" Accounts](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2491)
 - [Define approach (sales and marketing) for Ideal Customer Profile & Focus Account List](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2475)
@@ -56,27 +54,23 @@ The goals for new first-order MQLs and SAOs are derived from workbacks of sales 
 {: #team-structure .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-To be added
+* Jackie Gragnola - Senior Manager, Marketing Campaigns & ABM
+* Megan O'Dowd - Account Based Markeitng Manager, Americas and Public Sector
+* Christina McLeod - Account Based Marketing Manager, EMEA and APAC
 
 ### Responsibilities
 {: #responsibilities}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 - Developing (in partnership with sales and marketing) and maintaining our [ideal customer profile (ICP)](/handbook/marketing/revenue-marketing/account-based-strategy/#ideal-customer-profile)
-- Maintenance of GitLab's [focus account lists](/handbook/marketing/revenue-marketing/account-based-strategy/#focus-account-lists)
+- Maintenance of GitLab's [key account lists](/handbook/marketing/revenue-marketing/account-based-strategy/#focus-account-lists) in collaboration with Sales
 - [Account based marketing (ABM)](/handbook/marketing/revenue-marketing/account-based-strategy/#account-based-marketing-abm) campaigns and tactics
 - [Demandbase](/handbook/marketing/revenue-marketing/account-based-strategy/#demandbase)
     - platform management
     - enablement
     - account scoring
-    - account based engagement
+    - account-based engagement
     - campaign orchestration
-
-### Meet the Team
-{: #meet-the-team}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-To be added
 
 ## Communication
 {: #communication .gitlab-purple}
@@ -96,26 +90,6 @@ In between bi-weekly Campaigns Team Connect calls:
    - Begin with `DISCUSS: <brief description>` (i.e. `DISCUSS: Marketing tool champions`)
    - Include link to MR (preferred) or issue
 
-### Meeting Cadence
-{: #meeting-cadence}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-Most of our team meetings are recorded and can be found [here](https://drive.google.com/drive/u/1/folders/1GDkvqVhimLDnX744eh9YS6_qHhKRafmJ).
-
-- Bi-weekly Tuesdays - Campaign Team Connect Call (campaigns)
-- Bi-weekly Wednesdays - Demand Generation Team Call (campaigns, digital, partner)
-- Thursdays - Marketing strategy & tactics call (all marketing)
-
-### The Handbook
-{: #handbook}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-Is our single source of truth (SSoT) for processes and relevant links
-
-- Individual teams should link back to these SSoT sections to avoid confusion
-- Collaborative tactics contain their own handbook pages
-- The handbook will be iterated on as we establish and optimize processes for optimal efficiency
-
 ## Project Management
 {: #project-management .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -125,7 +99,7 @@ Is our single source of truth (SSoT) for processes and relevant links
 {: #prioritization-boards}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-1. [ABM Team - Prioritization]()
+1. [ABM Team - Prioritization](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536730?label_name[]=ABM)
    - At start of milestone, ensure that issues are in the proper category of prioritization. Align them to the [priority definitions](/handbook/marketing/account-based-marketing/#prioritization-labels).
    - Consider the time you have available in a 2 week period, recognizing meeting commitments and planned PTO.
    - Only add issues to account for 70% of your available work hours. Don't max out at 100% since there will likely be things that arise and need immediate attention throughout milestone.
@@ -212,6 +186,12 @@ Note on timelines: Requests will be committed to as bandwidth permits. Please se
 ## Budgeting
 {: #budgeting .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+
+The Senior Manager, Marketing Campaigns and ABM managest the budget in Allocadia.
+
+Timeline
+* T-X days before start of quarter: Planned budget added to Allocadia
+* T-3 days from end of month: Accruals due to Finance
 
 ## Integrations
 {: #integrations .gitlab-purple}
