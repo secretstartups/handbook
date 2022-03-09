@@ -32,7 +32,7 @@ Being at GitLab, I generally assume that people are following or embody the [Git
 In particular, the assumptions I have about others tend to be the same things people say about me:
 
 - You'll [do what you say you will](/handbook/values/#ownership).
-- You'll [share especially by asking for help](/handbook/values/#share).
+- You'll [share, especially by asking for help](/handbook/values/#share).
 - You're [direct](/handbook/values/#directness).
 - You'll [provide feedback if you have any](/handbook/values/#give-feedback-effectively).
 
@@ -55,7 +55,7 @@ AMER [Support meetings](https://about.gitlab.com/handbook/support/#weekly-meetin
 weekly meetings for [counterpart teams](/handbook/support/#cross-functional-non-product-counterparts) and in various [donut](https://www.donut.com/) channels.
 
 I also participate in the following [TMRGs](https://about.gitlab.com/company/culture/inclusion/erg-guide/):
-  - Women+
+  - Women+ including the Professional Member Development subcommittee
   - Minorities in Tech (MIT)
 
 - Slack: arty-chan
@@ -74,6 +74,9 @@ I also participate in the following [TMRGs](https://about.gitlab.com/company/cul
 At worst, I've lost focus of the human element, and/or I'm unintentially discouraging or not giving others the opportunities to contribute.
   - **What to do at its worst**: Tell me you'd like to contribute or remind me to think of the human impact.
   Because I don't do this consciously, I will never get mad at someone for letting me know.
+- **I'm direct.** At best, it means I'm being transparent and providing feedback.
+At worst, the feedback will read as criticizing, forgetting the "kind" part of [directness](/handbook/values/#directness).
+  - **What to do at its worst**: [Give me feedback](/handbook/values/#give-feedback-effectively) on what didn't work for you. Level of directness varies by country/culture and I recognize that I'm on the direct end, so it's okay to remind me of that.
 - **I reprioritize constantly.** At best, this means that important and impactful things get done quickly.
 At worst, it means that I miss a deliverable that you were waiting for.
   - **What to do at its worst**: Give me a deadline for what you need. Check in on progress if you need to.
