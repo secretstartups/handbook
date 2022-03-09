@@ -39,6 +39,21 @@ containing a link to a per-incident Slack channel for text based communication, 
 incident issue for permanent records, and the Situation Room Zoom link for incident team members to join for synchronous verbal
 and screen-sharing communication.
 
+### Scheduled Maintenance
+
+Scheduled maintenance that is a `C1` should be treated as an undeclared incident. 
+
+30-minutes before the maintenance window starts, the Engineering Manager who is responsible for the change should notify the SRE on-call, the Release Managers and the CMOC to inform them that the maintenance is about to begin.
+
+Coordination and communication should take place in the Situation Room Zoom so that it is quick and easy to include other engineers 
+if there is a problem with the maintenance. 
+
+If a related incident occurs during the maintenance procedure, the EM should act as the Incident Manager for the duration of 
+the incident.
+
+If a separate unrelated incident occurs during the maintenance procedure, the engineers involved in the scheduled maintenance should
+vacate the Situation Room Zoom in favour of the active incident.
+
 ## Ownership
 
 By default, the EOC is the owner of the incident.  The incident owner can delegate ownership to another engineer or escalate ownership to the IM at any time.  There is only ever **one** owner of an incident and only the owner of the incident can declare an incident resolved. At anytime the incident owner can engage the next role in the hierarchy for support. The incident issue should be assigned to the current owner.
