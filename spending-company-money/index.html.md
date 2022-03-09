@@ -10,7 +10,7 @@ title: "Spending Company Money"
 {:toc .hidden-md .hidden-lg}
 In keeping with our values of results, freedom, efficiency, frugality, and collaboration, we expect GitLab team members to take responsibility to determine what they need to purchase or expense in order to do their jobs effectively. We don't want you to have to wait with getting the items that you need to get your job done. You most likely know better than anyone else what the items are that you need to be successful in your job.
 
-The guidelines below describe what people in our team commonly expense. Some of the items below have the average amount that folks typically spend on them as a helpful guide. If you need to spend more to get the right tool for you to work productively, please do so. If you are uncertain about how much reasonable to spend on a more expensive item, please reach out to your manager and ask for help.
+The guidelines below describe what people in our team commonly expense. Some of the items below have the average amount that folks typically spend on them as a helpful guide. If you need to spend more to get the right tool for you to work productively, please do so. If you are uncertain about how much is reasonable to spend on a more expensive item, please take a look at our [page dedicated to home office equipment](/handbook/finance/procurement/office-equipment-supplies/) or reach out to your manager and ask for help.
 
 **(Note: All employees and contractors must protect our company assets, such as equipment, inventory, supplies, cash, and information. Treat company assets with the same care you would if they were your own. No employee or contractor may commit theft, fraud or embezzlement, or misuse company property.)**
 
