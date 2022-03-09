@@ -103,7 +103,41 @@ For more details on the engineering career ladders, please review the [engineeri
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 * Selected candidates will be invited to schedule a 30-minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters. In this call, we will discuss your experience, understand what you are looking for in a UX Research Operations Coordinator role, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
-* Next, candidates will be scheduled for a 45-minute interview with a UX Researcher. 
-* Finally, candidates will be invited to a 1-hour interview with our Director of UX Research.
+* After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **up to 20-minutes in duration** and returned **within ten days** of the screening call. If the recording indicates your past experiences will lead to your success in a role at GitLab, we will schedule the next interview stages.
+
+> ### Why we ask for a pre-recorded presentation
+> 
+> 1. It helps create a shared understanding of your work between you and our interviewers ahead of the first interview. 
+> 1. It allows us to ask more informed questions about your experience and work during the interview process. 
+> 1. Generally, we [avoid using meetings as a means to present](https://about.gitlab.com/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.  
+> 
+> ### Presentation Topics
+> 
+> 1. An introduction: who you are, where you're based, your background, and why you're a UX Research Operations Coordinator or why you're looking to move into a UX Research Operations Coordinator role.
+> 1. An overview of one *or* two projects that you drove related to UX research operations coordination. We want to understand: the size, discipline make-up, and structure of the team you were a part of; the problem statement for the project(s); the goals of the project(s); how you approached the project(s); what you personally did on the project(s); the final outcome; the challenges you faced throughout the project(s); and the meaningful business impact that the project(s) resulted in. 
+>
+> ### What we're looking for 
+> 
+> - A recording that is up to 20 minutes in duration and returned to us within ten days of your screening call being completed. 
+> - Ideally, one project you present should be relevant to the work you'd expect do at GitLab. This could be related to recruitment challenges for a specific persona, panel creation and growth, improvements to processes, etc.
+> - You share the recording using either a [private Youtube link](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), a [Google Drive link](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en), or a [Loom link](https://www.loom.com/). 
+> - Your presentation to address each of the topics listed above.  
+> 
+> ### Some useful resources
+> 
+> - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](https://about.gitlab.com/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation. 
+> - Interested in the type of work our UX team does? Check out our [UX Showcases on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz), our [UX Research handbook](https://about.gitlab.com/handbook/engineering/ux/ux-research/), and our [UX Department's handbook](/handbook/engineering/ux/).
+> - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
+> - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call. 
+
+
+* Candidates will be invited to a 45-minute interview with a UX Researcher. This interview aims to understand the details of your experience with UX research recruitment processes and how you've worked with other teams that rely on you.
+
+* Next, candidates will be scheduled for a 45-minute interview with a UX Reseach Operations Coordinator.  This interview will focus on experience related to project management, communications, identifying areas to improve, metrics related to UX research operations coordination, and so on.
+
+* Finally, candidates will be invited to a 1-hour interview with the Director of UX Research. You will discuss your career, your experiences related to a UX Research Operations Coordinator, and the role of UX Research Operations Coordination at GitLab.
+
+* Successful candidates will subsequently be made an offer via Zoom.
+
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
