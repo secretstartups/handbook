@@ -35,15 +35,14 @@ General Access Dashboards are available to all GitLab Team members and no Access
 
 #### Accessing a SAFE Dashboard
 
-All SAFE Dashboards are stored within the Sisense SAFE Dashboard space and access is granted at the Sisense space level. Access to a single SAFE Dashboard provides access to all SAFE Dashboards. Access to a SAFE Dashboard (and the space) requires:
+All SAFE Dashboards are stored within the Sisense SAFE Dashboard space and access is granted at the Sisense space level. Access to a single SAFE Dashboard provides access to all SAFE Dashboards. Having  access to the SAFE Dashboard space will result in a team member being added to the designated insiders list. Access to a SAFE Dashboard (and the space) requires:
 1. Your immediate manager's approval
 2. Departmental VP (or equivalent) approval
-3. Approval of the SAFE Dashboard Space Owner defined in the GitLab Dashboard Index
 
 To gain access to SAFE Dashboards:
 
 1. Create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and list up to three SAFE Dashboards from the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index) you require access to. This list of SAFE Dashboards will help approvers understand your needs and intent.
-2. Request approval from your immediate manager, your Departmental VP (or equivalent), and the SAFE Space Owner defined in the GitLab Dashboard Index header. Approval is needed if it concerns a new Access Request(/issue). 
+2. Request approval from your immediate manager and your Departmental VP (or equivalent). Approval is needed if it concerns a new Access Request(/issue). 
 3. Once the request is approved, follow the instructions in the tech_stack.yml file for provisioning. 
 4. After processing is complete you will be able to login to Sisense and access your requested SAFE dashboard and all other dashboards within the SAFE Dashboard Space.
 
@@ -80,7 +79,7 @@ To gain access to SAFE Intermediate Dashboards:
 | ----- | --------- | ------ |
 | General / GitLab | Baseline entitlement | AR with manager approval |
 | SAFE Intermediate Dashboard | AR with manager approval | No additional Editors will be added at this time | 
-| SAFE Dashboard | AR with manager, departmental VP (or equivalent) and SAFE Space owner approval | AR with manager, departmental VP (or equivalent) and SAFE Space owner approval |
+| SAFE Dashboard | AR with manager and departmental VP (or equivalent) approval | AR with manager and departmental VP (or equivalent) approval |
 
 ### Snowflake
 
@@ -88,12 +87,11 @@ All SAFE Data are stored in tables and views within seperate database schemas in
 
 1. Your immediate manager's approval.
 2. Departmental VP (or equivalent) approval.
-3. Approval of the SAFE Dashboard Space Owner defined in the GitLab Dashboard Index.
 
 To gain access to SAFE Data:
 
 1. Create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and provide your needs and intent.
-2. Request approval from your immediate manager, your Departmental VP (or equivalent), and the SAFE Space Owner defined in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index) header. Approval is needed if it concerns a new Access Request(/issue). 
+2. Request approval from your immediate manager and your Departmental VP (or equivalent). Approval is needed if it concerns a new Access Request(/issue). 
 3. Once the request is approved, tag the Snowflake [provisioners](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and they will process the request.
 4. After processing is complete you will be able to access SAFE Data (schemas) in Snowflake.
 
