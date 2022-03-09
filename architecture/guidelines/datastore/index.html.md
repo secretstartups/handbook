@@ -3,7 +3,9 @@ layout: handbook-page-toc
 title: "Data Stores"
 ---
 
-GitLab is a [single application](https://about.gitlab.com/handbook/product/single-application/) that relies on a [single data store](https://about.gitlab.com/handbook/product/single-application/#single-data-store). Althought this is no longer, strictly speaking, completely accurate, it *was* so for quite a long time. Scalability and development concerns nudged us to be *less* strict, albeit while maintaining full integration within the application, and ensuring that both self-managed and GitLab.com continue to operate as a single application. Self-managed applications, in particular, should continue to provide simplicity while offering the flexibility to scale.
+GitLab is a [single application](https://about.gitlab.com/handbook/product/single-application/) that relies on a [single data store](https://about.gitlab.com/handbook/product/single-application/#single-data-store).
+
+This directive continues to drive GitLab's development: while GitLab is *SaaS first*, it is not *SaaS only*, and GitLab will support a configuration with a single database cluster, generally through the use of logical databases. Only at scale do we contemplate the unfolding the single cluster into multiple ones, as GitLab.com does. This implies that the code base stays stable and is able to leverage flexible backends to address scalability. Self-managed and GitLab.com will continue to operate as a single application, and self-managed in particular, will continue to provide simplicity while offering the flexibility to scale.
 
 There is no fundamental aversion to multiple data stores, but we want to avoid the pitfalls of having *too many* of them, especially when variety of data engines are involved. Using new or adopting existing data stores will involve tradeoffs, which have to be meticulously managed at scale. We have placed some gatekeepers before a separate datastore can be deployed, and the following guidelines are intended to help you determine what the best course of action is and how to proceed.
 
@@ -19,7 +21,7 @@ Second, we need to understand what it will mean in terms of resource utilization
 
 Finally, we need to understand if the data requires a new data store engine, since this will have significant implications once it is deployed in production in terms of the deployment itself, on-going maintenance (such as upgrades), observability integrations, and, more importantly, troubleshooting during incidents.
 
-We currently have two primary data stores classes: relational (PostgreSQL) and data structure (Redis). Each of these service different needs, and each one can be scaled through a variety of techniques.
+We use a relational data store (PostgreSQL) as the primary metadata storage engine. Additionally, we also use a data structure store (Redos), which, while critical to the funcioning of GitLab, stores more dynamic data.
 
 ### Relational: PostgreSQL
 
