@@ -13,7 +13,7 @@ These guidelines rely heavily on the Database Working Group [glossary](/company/
 
 *We need a new database* is becoming a more common request, and while it seems simple, it is deceptively so.
 
-First, we need to fully understand what that statement actually means, particularly in terms of the type of data that has to be stored and queried, how tighly coupled it is to the main database, and how schemas and configurations are to be managed. 
+First, we need to fully understand what that statement actually means, particularly in terms of the type of data that has to be stored and queried, how tightly coupled it is to the main database, and how schemas and configurations are to be managed. 
 
 Second, we need to understand what it will mean in terms of resource utilization (space requirements, transaction rates, expected growth for both). 
 
@@ -23,7 +23,7 @@ We currently have two primary data stores classes: relational (PostgreSQL) and d
 
 ### Relational: PostgreSQL
 
-[PostgreSQL](https://docs.gitlab.com/ee/development/scalability.html#postgresql) is our relational database engine of choice, and, until recently, all metadata for projects, issues, merge requests, users, and so on resided in a single cluster. Its schema is managed by the Rails application [db/structure.sql](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql). We commonly refer to this data store as the **main database**. As scalability needs increased, we adopted some [best practices](https://about.gitlab.com/handbook/engineering/architecture/practice/scalability/) to address them. Some items have been extracted from the database (diffs were the first ones), while others were deployed in separate logical databases or instances (at scale) because they were already separate services and had low data coupling requirements (Registry and Praefect). Still others are currently in the process of being functionally decomponed (CI) because of their scale (and because we found ways to work around tight coupling).
+[PostgreSQL](https://docs.gitlab.com/ee/development/scalability.html#postgresql) is our relational database engine of choice, and, until recently, all metadata for projects, issues, merge requests, users, and so on resided in a single cluster. Its schema is managed by the Rails application [db/structure.sql](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql). We commonly refer to this data store as the **main database**. As scalability needs increased, we adopted some [best practices](https://about.gitlab.com/handbook/engineering/architecture/practice/scalability/) to address them. Some items have been extracted from the database (diffs were the first ones), while others were deployed in separate logical databases or instances (at scale) because they were already separate services and had low data coupling requirements (Registry and Praefect). Still others are currently in the process of being functionally decomposed (CI) because of their scale (and because we found ways to work around tight coupling).
 
 ### Data Structure: Redis
 
@@ -35,8 +35,8 @@ Four basic questions have to answer before to determine the appropriate data sto
 
 * What kind of code base comprises the application?
 * What kind of data does the application need to store?
-* What kinds of queries does the application need to run agains the data store?
-* What resource utilization is expected, both today and in the near future, in terms of space consumed, trasaction rates (for read and writes), and latencies?
+* What kinds of queries does the application need to run against the data store?
+* What resource utilization is expected, both today and in the near future, in terms of space consumed, transaction rates (for read and writes), and latencies?
 
 The answers to the first three questions are likely known in advance, since they are really baked into the application; the last one tends to be a little less clear, and while exact answers are not necessary, ballpark estimates (for both at deployment time and peering a bit into the future) are required. In any event, the answers to these questions should avoid specific technologies (with some exceptions).
 
@@ -47,11 +47,11 @@ Traditionally, the default answer has been to use our main database (PostgreSQL)
 * We have to carefully manage load on the main database, particularly in terms of transaction rates, connections, and memory utilization, to ensure availability.
 * The product ecosystem is evolving in a varied fashion through integrations of existing technology stacks, and we are coming upon more specialized data needs.
 
-In general, if the code base is part of the main RoR application, more than likely it already uses the main PostgreSQL database, as the schema is managed through RoR and the code probably has fairly tight coupling with the Rails code base. New entities have to be managed carefully, however, as capacacity planning concerns must be addressed in order to ensure availability. The Development [Database Group](https://about.gitlab.com/handbook/engineering/development/enablement/database/) and Infrastructure [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/) are the best sources of information in this regard, which also applies to Redis.
+In general, if the code base is part of the main RoR application, more than likely it already uses the main PostgreSQL database, as the schema is managed through RoR and the code probably has fairly tight coupling with the Rails code base. New entities have to be managed carefully, however, as capacity planning concerns must be addressed in order to ensure availability. The Development [Database Group](https://about.gitlab.com/handbook/engineering/development/enablement/database/) and Infrastructure [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/) are the best sources of information in this regard, which also applies to Redis.
 
 ### Exception
 
-Due to scalability concerns, we are currently executing the first [funcional decomposition](https://gitlab.com/groups/gitlab-org/-/epics/6168) from the database: the [CI tables](https://gitlab.com/groups/gitlab-org/-/epics/6167). Although this code base is part of RoR, its sheer size and resource utilization make up about 40% of the main database. Data coupling is relatively loose, so it is moving it to its own separate cluster through the use of some techniques to address  coupling while having the data in a separate database ([Loose Foreign Keys](https://docs.gitlab.com/ee/development/database/loose_foreign_keys.html)).
+Due to scalability concerns, we are currently executing the first [functional decomposition](https://gitlab.com/groups/gitlab-org/-/epics/6168) of the main database by moving the [CI tables](https://gitlab.com/groups/gitlab-org/-/epics/6167) to a separate cluster. Although the CI related code base is part of the main RoR application, the CI tables account for \~40% of the overall size and roughly 50% of writes of the main database. Data coupling with the rest of the database is relatively loose, so we are able to ensure data consistency between the two databases while making minimal changes and iterating on new techniques that we build ([Loose Foreign Keys](https://docs.gitlab.com/ee/development/database/loose_foreign_keys.html)).
 
 In general, a separate cluster will only be supported if the size of the dataset and its corresponding transaction rate requirements are large enough to merit the cost of operating it and the added complexity of developing code to support it. Initially, this will likely reside in separate logical database as part of the main cluster.
 
@@ -59,12 +59,12 @@ In general, a separate cluster will only be supported if the size of the dataset
 
 ### Relational (PostgreSQL)
 
-If the application is **not** part of the RoR code base (for instance, [Container Registry](https://gitlab.com/gitlab-org/container-registry), [Praefect](https://gitlab.com/gitlab-org/gitaly)), then a separate database is likelt the right answer , and whether this is logical or an independent cluster will come down to scale.
+If the application is **not** part of the main RoR application code base (for instance, [Container Registry](https://gitlab.com/gitlab-org/container-registry), [Praefect](https://gitlab.com/gitlab-org/gitaly)), then a separate database is the only option, and whether this is logical or an independent cluster will come down to scale.
 
 | Code base | Transaction Rate | Storage       | Data store           |
 | --------- | ---------------- | ------------- | -------------------- |
-| Ruby      | Low, Medium      | Low, Medium   | **Main** database    |
-| Ruby      | High             | High (>1TB)   | **FD** database      |
+| main RoR  | Low, Medium      | Low, Medium   | **Main** database    |
+| main RoR  | High             | High (>1TB)   | **FD** database      |
 | Any       | Low              | Low (<200GB)  | **Logical** database |
 | Any       | Medium           | Medium (<1TB) | **Logical** database |
 | Any       | High             | High (>1TB)   | **Separate** cluster |
@@ -81,6 +81,6 @@ If the application is **not** part of the RoR code base (for instance, [Containe
 
 ## New data store engines
 
-There will be times whether currently supported data store engines will not be able to meet application requirements. and a new data store engine must be introduced in the environment. These should be extremely rare, but will generally come courtesy of integration effort of new technology stacks into our environment (for instance, acquisitions), or when the data needs are very specialized (for instance, time series).
+There will be times when currently supported data store engines will not be able to meet application requirements and a new data store engine must be introduced in the environment. These should be extremely rare, but will generally come courtesy of integration effort of new technology stacks into our environment (for instance, acquisitions), or when the data needs are very specialized (for instance, time series).
 
 Due diligence should include involving the Infrastructure team as early as possible, since supporting new technologies will require a variety of work in terms of training, deployment, configuration, maintenance (upgrades), troubleshooting, etc.
