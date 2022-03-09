@@ -453,6 +453,13 @@ Job information changes are anything that requires an update to the team member'
     - Under "Comment for Approvers" paste any additional relevant information.
     - Update the `Job Title Specialty` field (if applicable)
 
+**Process for EBA to update senior leadership:**
+1. Send an email to People Connect, `people-connect@gitlab.com` requesting the changes to be made in BambooHR
+1. The People Experience Team will process the changes in the system
+1. The People Experience Team will save the email communication revieved from the EBA in each of the team member's Contract Changes folder. 
+1. Once complete, the team will follow-up with the EBA to let them know all changes have been made
+1. The EBA will then need to make the changes on the Team Page
+
 ### For People Connect: Processing Job Information Change Requests
 
 1. Audit the team member's department, division and cost center against the new manager's.
