@@ -144,4 +144,11 @@ You can copy/paste this to make sure you don't miss anything:
 - PM to mention:
 ```
 
-The `~customer priority::*` labels are inputs for the prioritization model powering the [user requested issues dashboards](/handbook/product/customer-prioritization-framework/), and represent the relative importance of a given issue to the specific customer. 1 is the lowest priority and 10 is the highest. These can be updated at any point in time and will be reflected in the model within 24 hours. You can find more context about priority labels on the [Customer Priorization Framework handbook page](/handbook/product/customer-prioritization-framework/index.html#priority-points).
+The `~customer priority::*` labels are inputs for the prioritization model powering the customer prioritization framework dashboards: 
+
+title/link to dash for PMs
+title/link to dash for TAMs
+
+These dashboards represent the relative importance of a given issue to the specific customer. 1 is the lowest priority and 10 is the highest. These can be updated at any point in time and will be reflected in the model within 24 hours.  You can find more context about priority labels on the [dustomer prioritization Framework priority points](/handbook/product/customer-prioritization-framework/index.html#priority-points).
+
+Please note these dashboards are still being piloted. For more context on the pilot, next steps and work in progress, visit [dustomer prioritization framework](/handbook/product/customer-prioritization-framework).
