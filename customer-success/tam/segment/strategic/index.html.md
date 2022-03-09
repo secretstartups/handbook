@@ -31,11 +31,11 @@ Iteration 1 - Strategic TAM Customer Lifecycle Journey
 
 ### Align & Onboard
 
-Aligning on a Success Plan and onboarding is critical to getting a customer started on a successful journey with GitLab. This is our opportunity to ensure the customer achieves value and success from the start of their GitLab usage. It also sets expectations on joint goals and  the collaboration between the customer and GitLab.
+Transitioning an account to a TAM during the pre-sales cycle helps the TAM set expectations early in the relationship and ensures a seamless experience as the prospect becomes a customer and enters onboarding. Aligning on a Success Plan and onboarding is critical to getting a customer started on a successful journey with GitLab. This is our opportunity to ensure the customer achieves value and success from the start of their GitLab usage. It also sets expectations on joint goals and  the collaboration between the customer and GitLab.
 
 | Description | Metrics | DRI |
 |---|---|---|
-| Transition & Onboarding |  |  |
+| [Account Transition & Introduction](/handbook/customer-success/pre-sales-post-sales-transition/) TAM introduction to the prospect at the Proposal stage of the Sales cycle |  |  |
 | A [Success Plan](/handbook/customer-success/tam/success-plans/) is a roadmap that connects a customer's desired business outcomes to GitLab. This focus ensures that we are spending time on ensuring customer success and growth while defending customer retention. | 100% Management-qualified green Success Plans |  |
 | [Onboarding ](/handbook/customer-success/tam/onboarding/) Get the customer to first value as soon as possible. Set expectations for the TAM-customer relationship and establish regular check-in calls. | Time to first engage = 14 days, Time to 1st Value = 30 days, Time to Onboard = 45 days |  |
 
@@ -45,17 +45,19 @@ The primary objective in enabling our customers is to get a customer to value qu
 
 | Description | Metrics | DRI |
 |---|---|---|
-| Primary Use Case Enablement  | Stage Enablement Playbooks Completed (QoQ) | |
+| Primary [Use Case Enablement](/handbook/customer-success/tam/stage-enablement-and-expansion/) | Stage Enablement Playbooks Completed (QoQ) |  |
 | [EBRs](/handbook/customer-success/tam/ebr/):  These strategic touchpoints ensure that progress against desired business outcomes is being made and communicated back to the team that we work with and key influencers/decision-makers. | EBRs completed within the last twelve months in 75% of all Strategic accounts.|  |
-| Use Case Maturity Workshops & Enablement Sessions | [CI and for DevSecOps Maturity Scores](https://about.gitlab.com/handbook/customer-success/tam/#big-rock-2-expertise-in-driving-ci-and-devsecops-adoption--expansion) |  |
+| Use Case Maturity Workshops & [Enablement Sessions](/handbook/customer-success/tam/stage-enablement-and-expansion/) | [CI and for DevSecOps Maturity Scores](https://about.gitlab.com/handbook/customer-success/tam/#big-rock-2-expertise-in-driving-ci-and-devsecops-adoption--expansion) |  |
 
 ### Expand & Renew
 
-This phase is about going beyond a customer’s existing use cases, into additional adoption/expansion and tier upgrades.  In ensuring a customer gets to value quickly, in understanding a customer’s desired business outcomes, and in engaging strategically through touchpoints such as EBRs in addition to cadence calls, a TAM is ‘given permission’ as a trusted advisor to introduce and advocate for the idea of growth.
+This phase is about going beyond a customer’s existing use cases, into additional adoption/expansion and tier upgrades.  In ensuring a customer gets to value quickly, in understanding a customer’s desired business outcomes, and in engaging strategically through touchpoints such as EBRs in addition to cadence calls, a TAM is ‘given permission’ as a trusted advisor to introduce and advocate for the idea of growth. This phase also includes the prepartion of an upcomming renewal discussion.
 
-1. Stage Expansion Playbooks Completed (QoQ)
-1. Days per Playbook Completed per Stage (QoQ)
-1. Win rate for expansion playbooks (QoQ)
+| Description | Metrics | DRI |
+|---|---|---|
+| Expansion Discovery |  |  |
+| Expansion Enablement & Workshops | Expansion Playbooks Completed (QoQ), Days per Playbook Completed per Stage (QoQ), Win rate for expansion playbooks (QoQ) |  |
+| [Renewal & Customer Goal Setting](/handbook/customer-success/tam/renewals/) | Renewal Rate |  |
 
 ## TAM Internal Activities
 
