@@ -305,6 +305,26 @@ Here are the proper steps for deprovisioning existing user:
 
 For more information, watch this [recorded pairing session](https://youtu.be/-vpH0aSeO9c) (must be viewed as GitLab Unfiltered).
 
+#### Logging in and using the correct role
+
+When you apply for a Snowflake account via an AR and get access provisioned it takes until 3.00AM UTC for the change to take effect. This is because we have a script running daily to provision the access in Snowflake. When you can login, you can do this via Okta. After you logged in via Okta, you need to select the right role that is attached to your account. This is by default the same as your account and it follows the convention of your email adres minus `@gitlab.com`. 
+
+When you don’t select the right role in Snowflake, you only see the following Snowflake objects:
+
+![object_list](/handbook/business-technology/data-team/platform/object_list.png)
+
+Selecting the right role can be done via the GUI in the up right corner.
+
+![select_role](/handbook/business-technology/data-team/platform/select_role.png)
+
+1. Click on the arrow
+2. Select Switch Role
+3. Select your role. 
+  
+You can set this to your default by running the following:
+
+`ALTER USER <YOUR_USER_NAME> SET DEFAULT_ROLE = '<YOUR_ROLE>'`
+
 ### Compute Resources
 
 Compute resources in Snowflake are known as "warehouses".
