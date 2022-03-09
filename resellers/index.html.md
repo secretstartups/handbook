@@ -131,9 +131,9 @@ The GitLab Partner Program consists of two tracks that support the different way
   *   GitLab Badges
   *   Field Support
 
-  Open partners must meet these minimum requirements to earn program benefits:
-  *   Three (3) Sales Verifications (completion of GitLab Sales Core) in the region specified in your GitLab Partner Contract. 
-  *   One (1) Technical Sales Certifications in the region specified in your GitLab Partner Contract.  Both the GitLab Sale Architect Core and Professional Services Engineering courses meet this requirement.
+  Open partners must meet the  minimum requirements in the Program Requirements and Benefits below to earn program benefits:
+  *   Sales:  completion of GitLab Sales Core (Verification) in the region specified in your GitLab Partner Contract. 
+  *   Technical Sales Certifications in the region specified in your GitLab Partner Contract.  Both the GitLab Sale Architect Core and Professional Services Engineering courses meet this requirement.
 
 2. **Select** partners make a greater investment in expertise, develop services practices around GitLab and are expected to drive greater product recurring revenues. Participation in the Select Partner track is by invitation only. We provide:
   *   Focused Strategic Relationships (Channel Account Manager, Solution Architect, Executives)
@@ -147,11 +147,12 @@ The GitLab Partner Program consists of two tracks that support the different way
   *   Priority Help Desk support
   *   Priority position in the GitLab Partner Locator
 
-Since participation in the Select Track is by invitation only, partners are not automatically upgraded. To be considered, they must meet these minimum requirements:
-  *   Five (5) Sales Verifications (completion of GitLab Sales Core) in the region specified in your GitLab Partner Contract. 
-  *   Three (3) Technical Sales Certifications in the region specified in your GitLab Partner Contract.  Both the GitLab Sale Architect Core and Professional Services Engineering courses meet this requirement.
+Since participation in the Select Track is by invitation only, partners are not automatically upgraded. To be considered, they must meet the requirements in the Program Requirements and Benefits below:
+  *   Sales:  Verifications (completion of GitLab Sales Core) and Certification (Sales Core plus Advanced Use Case Training) in the region specified in your GitLab Partner Contract. 
+  *   Technical Sales Certifications in the region specified in your GitLab Partner Contract.  Both the GitLab Sale Architect Core and Professional Services Engineering courses meet this requirement.
+  *   Professional Services Certification
   *   Executive-sponsored joint business plan
-  *   $300k minimum program revenue, defined as Net Annual Recurring Revenue (NetARR). This includes all the incremental licenses sold to new and existing customers.
+  *   Minimum program revenue, defined as Net Annual Recurring Revenue (NetARR). This includes all the incremental licenses sold to new and existing customers.
   *   Dedicated DevOps sales and/or services practice
   *   Minimum one GitLab demand generation activity per quarter
 
