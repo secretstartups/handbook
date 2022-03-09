@@ -151,4 +151,4 @@ title/link to dash for Sales/TAMs
 
 These dashboards represent the relative importance of a given issue to the specific customer. 1 is the lowest priority and 10 is the highest. These can be updated at any point in time and will be reflected in the model within 24 hours.  You can find more context about priority labels on the [customer prioritization framework priority points](/handbook/product/customer-prioritization-framework/index.html#priority-points).
 
-Please note these dashboards are still being piloted. For more context on the pilot, next steps and work in progress, visit [dustomer prioritization framework](/handbook/product/customer-prioritization-framework).
+Please note these dashboards are still being piloted. For more context on the pilot, including model overview, status and quickstart info/video and issue for pilot participation, visit [dustomer prioritization framework](/handbook/product/customer-prioritization-framework).
