@@ -100,6 +100,7 @@ Key areas of exploration:
 - [Success Plans](/handbook/customer-success/tam/success-plans/)
    - [Developer & Productivity Metrics](/handbook/customer-success/tam/metrics/)
    - [Sample Questions & Techniques for Getting to Good Customer Metrics](https://about.gitlab.com/handbook/customer-success/tam/success-plans/questions-techniques/)
+- [Account Growth Plans](/handbook/customer-success/tam/account-growth/)
 - [Stage Enablement & Stage Expansion - The Two Stage Adoption Motions](/handbook/customer-success/tam/stage-enablement-and-expansion/)
    - [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
    - [The Customer Value Received with Service Ping](/handbook/customer-success/tam/service-ping-faq/)
