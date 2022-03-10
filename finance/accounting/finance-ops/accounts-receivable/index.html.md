@@ -19,7 +19,7 @@ title: "Accounts Receivable"
 
 The Accounts Receivable Team is part of the Revenue Operations group. The Accounts Receivable (AR) Team is a centralized team responsible for the timely collection of the accounts receivable portfolio and to enhance cash flow through the management of  business systems and customer care. 
 
-Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/billing-team-faqs-&-useful-tips) Page for additional information & resources!
+Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Billing%20Operations%20&%20Accounts%20Receivable%20Wiki) Page for additional information & resources!
 
 _The Accounts Receivable Team began in May of 2021. We appreciate your patience while we work to define this team's roles and responsibilities!_
 
