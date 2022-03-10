@@ -13,11 +13,13 @@ These guidelines rely heavily on the Database Working Group [glossary](/company/
 
 ## *We need a new database*
 
-*We need a new database* is becoming a more common request, and while it seems simple, it is deceptively so.
+*We need a new database* is becoming a more common request, and while it seems simple, it is deceptively so, particularly for new services and new teams.
 
-First, we need to fully understand what that statement actually means, particularly in terms of the type of data that has to be stored and queried, how tightly coupled it is to the main database, and how schemas and configurations are to be managed. 
+First and foremost, access to the database (any database) can only happen within the confines of the production environment and relevant access controls and procedures. New services must undergo a [production readiness review](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/).
 
-Second, we need to understand what it will mean in terms of resource utilization (space requirements, transaction rates, expected growth for both). 
+Second, we need to fully understand what that statement actually means, particularly in terms of the type of data that has to be stored and queried, how tightly coupled it is to the main database, and how schemas and configurations are to be managed. 
+
+Third, we need to understand what it will mean in terms of resource utilization (space requirements, transaction rates, expected growth for both). 
 
 Finally, we need to understand if the data requires a new data store engine, since this will have significant implications once it is deployed in production in terms of the deployment itself, on-going maintenance (such as upgrades), observability integrations, and, more importantly, troubleshooting during incidents.
 
