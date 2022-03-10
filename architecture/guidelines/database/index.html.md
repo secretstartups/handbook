@@ -3,11 +3,11 @@ layout: handbook-page-toc
 title: "Database"
 ---
 
-GitLab is a [single application](https://about.gitlab.com/handbook/product/single-application/) that relies on a [single data store](https://about.gitlab.com/handbook/product/single-application/#single-data-store).
+GitLab is a [single application](https://about.gitlab.com/handbook/product/single-application/) that relies on a [single data store](https://about.gitlab.com/handbook/product/single-application/#single-data-store) (terminology we use in the context of stringent durability requirements).
 
-This directive continues to drive GitLab's development: while GitLab is [*SaaS first*](https://about.gitlab.com/direction/#product-strategy), it is not *SaaS only*, and GitLab will support a configuration with a single database cluster, generally through the use of logical databases. Only at scale do we contemplate the unfolding the single cluster into multiple ones, as GitLab.com does. This implies that the code base stays stable and is able to leverage flexible backends to address scalability. Self-managed and GitLab.com will continue to operate as a single application, and self-managed in particular, will continue to provide simplicity while offering the flexibility to scale.
+This directive drives GitLab's product development: while GitLab is [*SaaS first*](https://about.gitlab.com/direction/#product-strategy), it is not *SaaS only*. In terms of databases, GitLab supports self-managed configurations with a single database cluster, generally through the use of logical databases. Only at scale do we contemplate unfolding the single cluster into multiple ones, as GitLab.com does. This implies that the code base stays stable and can leverage flexible backend strategies to address scalability. Self-managed and GitLab.com will continue to operate as a single application, and self-managed in particular will continue to provide simplicity while offering the flexibility to scale.
 
-There is no fundamental aversion to multiple data stores, but we want to avoid the pitfalls of having *too many* of them, especially when variety of data engines are involved. Using new or adopting existing data stores will involve tradeoffs, which have to be meticulously managed at scale. We have placed some gatekeepers before a separate data store can be deployed, and the following guidelines are intended to help you determine what the best course of action is and how to proceed.
+There is no fundamental aversion to multiple data stores, but we want to avoid the pitfalls of having *too many* of them, especially when a variety of data engines are involved. Using new or adopting existing databases will involve tradeoffs, which have to be meticulously managed at scale. We have placed some gatekeepers before a separate data store can be deployed, and the following guidelines are intended to help you determine what the best course of action is and how to proceed.
 
 These guidelines rely heavily on the Database Working Group [glossary](/company/team/structure/working-groups/database-scalability/#glossary).
 
@@ -29,7 +29,7 @@ We use a relational database (PostgreSQL) as the primary metadata storage engine
 
 #### Data Structure: Redis
 
-[Redis](https://docs.gitlab.com/ee/development/scalability.html#redis) is used for specialized, non-relational needs, including queues (Sidekiq jobs marshal jobs into JSON payloads), persistent state( session data and exclusive leases), and cache (repository data such as branch and tag names, and view partials).
+[Redis](https://docs.gitlab.com/ee/development/scalability.html#redis) is used for specialized, non-relational needs, including queues (Sidekiq jobs marshal jobs into JSON payloads), persistent state (session data and exclusive leases), and cache (repository data such as branch and tag names, and view partials). Redis is a critical component of its the application, but it is not used with the same durability contraints as PostgreSQL.
 
 ## Considerations
 
