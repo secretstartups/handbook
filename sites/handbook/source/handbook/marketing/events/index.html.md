@@ -8,7 +8,7 @@ title: GitLab Event Information
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
-  {:toc .hidden-md .hidden-lg}
+{:toc .hidden-md .hidden-lg}
 
 # Events at GitLab
 
