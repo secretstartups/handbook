@@ -15,7 +15,7 @@ These guidelines rely heavily on the Database Working Group [glossary](/company/
 
 *We need a new database* is becoming a more common request, and while it seems simple, it is deceptively so, particularly for new services and new teams.
 
-First and foremost, access to the database (any database) can only happen within the confines of the production environment and relevant access controls and procedures. New services must undergo a [production readiness review](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/).
+First and foremost, access to the database (any database) can only happen within the confines of the production environment and relevant access controls and procedures. Features and services requesting new resources must undergo a [production readiness review](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/).
 
 Second, we need to fully understand what that statement actually means, particularly in terms of the type of data that has to be stored and queried, how tightly coupled it is to the main database, and how schemas and configurations are to be managed. 
 
