@@ -1231,6 +1231,10 @@ Field Marketing follows the legal team's process [HERE](/handbook/legal/marketin
 
 # Field Marketing Communications
 
+## Regional Email Aliases 
+
+Field Marketing utilizes regional email aliases for pre and post tactic outreach. Please see [this section](/handbook/marketing/events/#email-alias-usages-for-outreach) for more details.
+
 ## Slack Rooms we use
 
 - [#fieldmarketing](https://gitlab.slack.com/archives/CCWDAJ8PK) - open to all teams to ask questions to field marketing & where weekly stand-up reports get posted to.
