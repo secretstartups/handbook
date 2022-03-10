@@ -405,7 +405,6 @@ Please reach out to your Verticurl rep to shut down the landing page, or if you 
 1. Click `Preview Actions` > `Approve and Close` to save your changes. If you need to make additional edits, click `Edit Draft`. Be sure to select `Approve and Close` when you are finished.
 1. Check your live landing page to make sure the content displays correctly and the form has been removed.
 
-
 ## Post LIVE Webcast
   
 ### Converting the Webcast to an On-Demand Gated Asset
@@ -770,8 +769,6 @@ Once you have the final workshop presentation deck, follow the below instruction
  
 #### Cloning Tracks
 Note: Cloning a track will pull over all settings from that initial track. All workshop tracks are set up appropriately and should not require any adjustment.
-
-##### Option 1 
 1. Click into the track you would like to clone
 1. At the top left corner, you will see a double screen icon that indicates you wish to clone the track. Click on that icon.
 1. Follow [these naming conventions](/handbook/marketing/marketing-operations/pathfactory/#naming-conventions) to name your new track
@@ -784,27 +781,11 @@ Note: Cloning a track will pull over all settings from that initial track. All w
 1. Since this is a target track, you are able to move around the pieces of content in any order
 1. Refresh any changes you make
 1. Add your new track to the [Changelog](/handbook/marketing/marketing-operations/pathfactory/#changelog)
- 
-##### Option 2
-1. Click on `Campaign Tools` at the top of the page
-1. Click on `Target`
-1. Click on `Create Target Track`
-1. Follow [these naming conventions](/handbook/marketing/marketing-operations/pathfactory/#naming-conventions) to name your new track.
-1. `Clone an Existing Track` - Select the appropriate workshop track you would like to clone
-1. `Parent Folder` - Select the `Workshop Tracks` folder
-1. `Labels` - Add `Email`
-1. Click `Create Target Track`
-1. On the left hand side bar under `Track Settings` click on `Custom URL` and add descriptive slug (example - CICDWorkshop-1/12/21). No spaces, each word should be separated by a dash and try to keep slug as short as possible. `Custom URL` should **always** be created. All content tracks should be set up with custom URL slugs to prevent any future changes to the track from breaking the link and thus, the user experience. This will also lock in your Pathfactory track URL so your URL will always stay the same, even if you switch out content within your track.
-1. To remove the existing presentation deck, click on the deck and in the bottom right hand corner, click on the trash can icon. Confirm that you would like to delete the content from your track. **Note:** Do not delete content from the Pathfactory library, only delete from your individual track.
-1. Click `Add Content` to find/add in your previously uploaded presentation deck
-1. Since this is a target track, you are able to move around the pieces of content in any order
-1. Refresh any changes you make
-1. Add your new track to the [Changelog](/handbook/marketing/marketing-operations/pathfactory/#changelog)
 
 #### Adding the Track to Marketo Token and Checking Follow up Email
 
 1. When you are in your newly cloned Pathfactory track, go to the top left corner and click on the `Get Share URL` icon. Copy the URL link. You do not need to add a `Query String`.
-1. Click into your campaign’s Marketo program and update your [Pathfactory Slide Link token](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#fmc-tokens) to your newly cloned Pathfactory track URL.
+1. Click into your campaign’s Marketo program tokens and update `{{my.pfslidelink}}` with your new Pathfactory track by following [these instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#fmc-tokens).
 1. Helpful Hint: Once you receive final slides from the FMM and add to the Pathfactory track, it's a good idea for you both to go back to your follow up email test (email also available to preview in the Marketo program) and make sure the presentation link button in the email is taking you to the correct Pathfactory track with updated presentation.
 
 #### Workshop Dry Run and Q&A
