@@ -16,24 +16,16 @@ As the [Communications Manager on Call (CMOC)](/handbook/engineering/infrastruct
 
 Our Slack bot [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) provides a command (`/incident post-statuspage`) to quickly spin up an incident on [Status.io](https://status.io). From there, the basics of how to update and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. This document covers how GitLab specifically uses Status.io to perform those tasks.
 
-## First 10 minutes quick check
+## Things to Know
 
-For reference, here are the things that you typically need to do in the first 10 minutes of being paged.
+Before getting started, take note of the following sections or to get straight into the workflow start at [Incident Management](#incident-management).
 
-1. Acknowledge PagerDuty, join incident Slack/zoom, resolve PagerDuty. See [Stage 1: Incident Creation](#stage-1-incident-creation).
-1. [Determine what action is required](#when-cmoc-is-asked-to-take-action) and do it:
-    - [Create status.io incident](#2-create-the-incident)
-    - [Contact request](#contacting-a-user)
-1. Generally any S1 or when status.io incident is created, [notify stakeholders](#3-notify-stakeholders).
-1. Check for related tickets in ZenDesk. If there are multiple tickets, [create a tag](#tagging-tickets) and post in `#support_gitlab-com` to notify the team.
+### About Incidents
 
-Everything else you need to do including [how often to update the status page](#frequency-of-updates) is detailed in the workflow.
+This section contains information specific to how incidents are started, what various status messages in PagerDuty mean, and the difference between the EOC and the Incident Manager during an incident.
 
-## Things To Know
-
-Before getting started, take note of the following sections.
-
-### How Are Incidents Declared?
+#### How Incidents Are Declared
+{:.no_toc}
 
 Infrastructure uses [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) to [declare incidents through Slack](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident). Doing so will:
 
@@ -48,11 +40,29 @@ This information will all be posted to Slack in the `#incident-management` chann
 
 GitLab team members are encouraged to use this method of reporting incidents if they suspect GitLab.com is about to face one.
 
-### Status.io Updates
+#### PagerDuty Status Definitions
+{:.no_toc}
 
-The following should be noted specifically regarding making updates to Status.io.
+- **Triggered** - "An incident exists that requires the attention of a CMOC."
+- **Acknowledged** - "I have seen the page and am in the process of joining the incident Slack channel and Zoom call."
+- **Resolved** - "I have joined the dedicated Slack channel for the incident along with the Zoom call, created the incident in Status.io, notified internal stakeholders, and labeled the incident issue and am actively working the incident."
+
+**NB:** "Resolved" in PagerDuty does not mean the underlying issue has been resolved.
+
+#### EOC vs. IM
+{:.no_toc}
+
+In later sections of this workflow it's called out that at times you should be asking the [Incident Manager (IM)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) assigned to the incident for permission to move it between stages (open, monitoring, resolved). On the rare occasion that an incident does not have an Incident Manager, the [Engineer On Call (EOC)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) assumes those responsibilities and you may ask them instead.
+
+#### Reviewing Past Incidents
+{:.no_toc}
+
+You can always [review past incidents](https://status.gitlab.com/pages/history/5b36dc6502d06804c08349f7) if you need examples or inspiration for how to fill in the details for a current incident.
+
+### About Status.io
 
 #### Frequency of Updates
+{:.no_toc}
 
 Status.io should be updated whenever we have new information about an active incident that our stakeholders should be aware of. Outside of that, it should be updated at a consistent rate depending on the severity of the incident as outlined in the table below.
 
@@ -66,6 +76,7 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 | Resolved | No further updates required |
 
 #### What If I Don't Know What to Say?
+{:.no_toc}
 
 - Provide a generic update based on the best information you have:
 
@@ -85,11 +96,10 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 
 - If you really don't know, it really is okay to ask!
 
-### EOC vs. Incident Manager
+### About Zendesk
 
-In later sections of this workflow it's called out that at times you should be asking the Incident Manager of the incident for permission to move an incident between certain states (updating, monitoring, resolving). On the rare occasion that an incident does not have an Incident Manager and EOC has assumed Incident Manager responsibilities you may ask them instead.
-
-### Finding Related Tickets
+#### Finding Related Tickets
+{:.no_toc}
 
 In some circumstances, the Incident Manager may ask you to find the number of tickets that an incident may have raised in order to evaluate the impact of the incident.
 
@@ -99,7 +109,8 @@ Alternatively, you can paste the following search string into the Zendesk search
 
 This shows new tickets created in the previous 4 hours - change the range if the incident began earlier than that.
 
-### Tagging Tickets
+#### Tagging Tickets
+{:.no_toc}
 
 If there is any customer contact regarding an incident regardless of severity, you should create an incident tag in Zendesk as soon as possible. You can check for customer tickets by using the tips above, by scanning the FRT & Free ticket queue and validating the tickets, or by asking the wider Support team. You can create a tag on a ticket directly by finding the `tags` field and using the format `com_incident_####`. Replace #### with the production incident number of the issue. Once you've added the tag, submit the ticket with an appropriate `Incident First Response` macro and the tag will become available to use on other tickets.
 
@@ -107,44 +118,29 @@ Tagging tickets can be done throughout the incident process but the CMOC should 
 
 For details on tagging and tracking incidents, please see [Tracking Incidents](tracking_incidents.html) workflow.
 
-### Reviewing Past Incidents
-
-Keep in mind that you can always [review past incidents](https://status.gitlab.com/pages/history/5b36dc6502d06804c08349f7) if you need examples or inspiration for how to fill in the details for a current incident.
-
-### Contacting a User
+### About Contact Requests
 
 Whether related to an ongoing incident or not, Infrastructure or Security may ask you to reach out to one or more users if they detect unusual usage. Please follow the [Contact Requests](internal_requests.html#contact-request) workflow to log the request.
 
-## Setting Up Incidents
+## Incident Management
 
 As the CMOC you'll guide the incident through the following three stages.
 
-1. Stage 1: **Incident Creation** - Creating the incident in Status.io, joining the incident Zoom call, and [notifying stakeholders](#3-notify-stakeholders).
-1. Stage 2: **Incident Updates** - Following along with the work being performed by the EOC and any assisting engineers to resolve the incident and making updates to Status.io along the way while adhering to the [Frequency of Updates](#frequency-of-updates) schedule. We may also be going through the Zendesk queue replying to incident tickets and tagging them.
+1. Stage 1: **Incident Creation** - Creating the incident in Status.io, joining the incident Zoom call, and [notifying stakeholders](#notify-stakeholders).
+1. Stage 2: **Updating Incidents** - Following along with the work being performed by the EOC and any assisting engineers to resolve the incident and making updates to Status.io along the way while adhering to the [Frequency of Updates](#frequency-of-updates) schedule. We may also be going through the Zendesk queue replying to incident tickets and tagging them.
 1. Stage 3: **Incident Resolution** - Setting the incident to **Monitoring** in Status.io for a period of time to ensure that the issue does not recur before we close it out, eventually setting the incident to **Resolved**, and adding a link to the post-mortem issue in Status.io. In certain cases we may be asked to skip the monitoring period and move straight to **Resolved**.
 
 The following sections outline how to perform each of the steps within these stages.
 
-### Stage 1: **Incident Creation**
+### **Stage 1: Incident Creation**
 
 The following steps should be taken immediately after receiving a PagerDuty page for an incident.
 
-1. Acknowledge the PagerDuty page.
-1. Join the incident Zoom call, provided by [Woodhouse](#how-are-incidents-declared).
-1. Create the incident in Status.io.
-1. Notify internal stakeholders.
-1. Add `~Incident-Comms::Status-Page` label to the GitLab Incident Issue
-1. Resolve the PagerDuty page.
+#### Acknowledge the PagerDuty Page
 
-#### PagerDuty Status
+We mark the PagerDuty page as [acknowledged](#pagerduty-status-definitions) immediately upon receiving it. Acknowledge the page through the mobile app, web interface or PagerDuty App in the `#support_gitlab-com` Slack channel.
 
-- **Triggered** - "An incident exists that requires the attention of a CMOC"
-- **Acknowledged** - "I have seen the page and am on my way to the incident room"
-- **Resolved** - "A tracking issue has been created, the status page has been updated and I am actively engaged in the incident management process"
-
-**NB:** "Resolved" in PagerDuty does not mean the underlying issue has been resolved.
-
-#### 1. Join the Incident Zoom Call
+#### Join Incident Channel & Zoom
 
 Before you create an incident in Status.io you should join the incident Zoom call. A link to the call is provided in the incident declaration post by Woodhouse in `#incident-management`.
 
@@ -178,15 +174,17 @@ A better response would be to assume that an action was requested, relay your in
 
 > **CMOC:** IM, acknowledged, I will draft an update for status.io and ping you in Slack for input.
 
-#### 2. Create the Incident
+#### Create Incident
 
 You can create an incident on Status.io with minimal effort through Slack (provided by Woodhouse) **OR** manually if need be (e.g., Slack is down or you need to customize the incident more than what the Slack form allows).
 
 ##### Slack (provided by Woodhouse)
+{:.no_toc}
 
 You simply need to issue `/incident post-statuspage` from anywhere on Slack. You will be presented with a pre-filled form that you can update to your liking. Once submitted, the incident will be broadcasted to all mediums (i.e., email, SMS, webhooks, twitter, etc).
 
 ##### Manually
+{:.no_toc}
 
 After logging in to Status.io you'll be met with the dashboard that displays various statistics about our current status. Create a new incident by clicking `New Incident` along the top bar.
 
@@ -212,11 +210,11 @@ Change the following values:
 
 `Affected Infrastructure` - This should almost always be unchecked so that the value of the `Incident Status` field is only applied to the specific aspects of the platform that are affected by the incident. In the example above we're only experiencing an issue with job processing so only `CI/CD` is selected.
 
-#### 3. Notify Stakeholders
+#### Notify Stakeholders
 
-The CMOC should notify internal stakeholders using the Incident Notifier app in Slack after the severity has been confirmed by the Incident Manager. This should be done any time there is a public post on the status page, regardless of the severity of the incident.
+The CMOC should notify internal stakeholders using the Incident Notifier app in Slack after the severity has been confirmed by the Incident Manager.
 
-The Incident Notifier app prompts you to fill out a form and then posts its contents automatically to a direct message to the submitter along with the `#community-relations` and `#customer-success` channels, notifying them of the incident. To engage it:
+The Incident Notifier app prompts you to fill out a form and, once submitted, posts the contents of the form automatically to a direct message to the submitter along with the `#community-relations` and `#customer-success` channels, notifying them of the incident. To engage it:
 
 1. Click the lightning bolt in the message composition box within `#support_gitlab-com` and select `Incident Notifier`.
 
@@ -226,8 +224,7 @@ shadow}
 1. Fill in all of the details.
 1. Click `Submit`
 
-
-#### 4. Label the GitLab Incident Issue
+#### Label Incident Issue
 
 It is important that we are able to differentiate incidents which included outbound status page and related notifications from those incidents which were deemed less impactful to our customers. This can be useful both in filtering for active incidents which include outbound notification as well as for after-incident reporting.
 
@@ -235,9 +232,15 @@ Whenever a GitLab service incident includes the use of a status page incident th
 
 1. Add the `~Incident-Comms::Status-Page` scoped label to the incident issue.
 
-### Stage 2: **Incident Updates**
+#### Resolve the PagerDuty Page
 
-To update an active incident, click the incidents icon from the dashboard.
+We mark the PagerDuty page as [resolved](#pagerduty-status-definitions) once everything in Stage 1 has been completed. Resolve the page through the mobile app, web interface or PagerDuty App in the `#support_gitlab-com` Slack channel.
+
+### **Stage 2: Updating Incidents**
+
+To publicly communicate attention and progress incidents should be updated according to the [frequency of incident updates table](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates) unless you communicate otherwise. 
+
+To update an active incident, click the incidents icon from the dashboard. 
 
 ![Active incident dashboard icon](/images/support/cmoc_update_incident_dashboard.png){: .shadow}
 
@@ -261,7 +264,7 @@ Make sure to [verify](https://wordcounter.net/character-count) the update length
 
 After publishing the update, visit the live status page to verify that the update went through and looks clear.
 
-### Stage 3: **Incident Resolution**
+### **Stage 3: Incident Resolution**
 
 When it comes time to close an incident out as resolved, the following flow is usually used.
 
@@ -271,7 +274,7 @@ When it comes time to close an incident out as resolved, the following flow is u
 
 As noted in the specific sections below, some of these steps are situational and may not be used for every incident.
 
-#### 1. Begin Monitoring (Situational)
+#### Begin Monitoring (Situational)
 
 Once the component affected by the incident has returned to operating normally we will often switch the incident over to a monitoring period to ensure that the problem does not recur. The monitoring period typically lasts for 30 minutes by default, but it can vary and a different amount of time may be requested by the Incident Manager. **It may also be requested that the monitoring period be skipped entirely.**
 
@@ -288,7 +291,7 @@ Take special note of the changes made to the following fields at this stage.
 
 1. `Incident Status` - At this point, the affected component should be back to normal operation. However, to be clear that we're still in the incident management process we will **not** flip this back to `Operational` until we leave the monitoring state.
 
-#### 2. Resolve Incident
+#### Resolve Incident
 
 Once we're confident that systems have returned to normal operation, **the Incident Manager has given the all-clear**, and we've completed a monitoring period (if we chose to) of the incident we should mark it as resolved.
 
@@ -321,7 +324,7 @@ Do the following to add a post-mortem to a resolved incident:
 
    ![Add post-mortem link](/images/support/cmoc_add_post_mortem.png){: .shadow}
 
-## Setting Up Maintenance Events
+## Maintenance Management
 
 Infrastructure will at times plan scheduled maintenance events for GitLab.com, some of which will directly impact users. New maintenance events are announced as issues created in the [gl-infra/production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues) issue tracker using the [external_communication.md](https://gitlab.com/gitlab-com/gl-infra/production/-/blob/master/.gitlab/issue_templates/external_communication.md) issue template accompanied by the [**Scheduled Maintenance**](https://gitlab.com/gitlab-com/gl-infra/production/-/labels?utf8=%E2%9C%93&subscribed=&search=scheduled+maintenance) label.
 
@@ -336,18 +339,20 @@ The contents of the maintenance should be filled out according to the details pr
 ![Maintenance Details](/images/support/cmoc_maintenance_details.png){: .shadow}
 
 ### Rescheduling a Maintenance Event
+{:.no_toc}
 
-In case you are required to reschedule a maintenance window, Go to *status.io* > *Maintenances* tab
+In case you are required to reschedule a maintenance window, Go to _status.io_ > _Maintenances_ tab
 ![Maintenance Tab](/images/support/cmoc_select_maintenance.png){: .shadow}
 
 Select the maintenance you need to reschedule.
 ![Maintenance selected](/images/support/cmoc_get_in_maintenance.png){: .shadow}
 
-Update the new schedule time by hitting on the *Reschedule Maintenance* button **Make sure you have the correct timezone details when updating** Then hit save.
+Update the new schedule time by hitting on the _Reschedule Maintenance_ button **Make sure you have the correct timezone details when updating** Then hit save.
 
 ### Sending Updates About Maintenance Events
+{:.no_toc}
 
-To send an update about a maintenance event, such as a reminder, go to the *Maintenances* tab in Status.io and select the one that needs an update. On the maintenance's information page, make note of whether automatic email reminders are set to go out. If yes, make sure not to send email broadcasts for your update in order to avoid sending duplicate reminders to subscribers. Once ready to update, select the *Post Update Without Starting* button.
+To send an update about a maintenance event, such as a reminder, go to the _Maintenances_ tab in Status.io and select the one that needs an update. On the maintenance's information page, make note of whether automatic email reminders are set to go out. If yes, make sure not to send email broadcasts for your update in order to avoid sending duplicate reminders to subscribers. Once ready to update, select the _Post Update Without Starting_ button.
 
 ![Post Update Without Starting](/images/support/cmoc_post_without_rescheduling.png){: .shadow}
 
@@ -357,7 +362,7 @@ Enter the update details provided by the Infrastructure team and have them confi
 
 Once the GitLab Status Twitter account has posted about the maintenance schedule, send a link of the tweet to the `#social_media_action` channel to let the social team know that you'd like amplification on our GitLab brand twitter account. This should only be used once during a selected scheduled maintenance timeline, preferably mid-week prior to the scheduled maintenance.
 
-## Handover Procedure
+## End of Shift Handover Procedure
 
 It's necessary to inform the ingress CMOC of any relevant activity that ocurred during your shift or if there are incidents that are still ongoing. To perform a handover create an issue in the [CMOC Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues) issue tracker using the [Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues/new?issuable_template=Handover) template. Do this even if nothing happened during your shift, signaling that everything is fine is also useful information. It's critical to remember that since we [work out in the open](https://about.gitlab.com/blog/2015/08/03/almost-everything-we-do-is-now-open/) by default, the CMOC Handover issue tracker is open to the public. **A handover issue should be made confidential if it must contain any sensitive information.**
 
@@ -367,10 +372,14 @@ If handover occurs during an active incident where the quick summary you'd provi
 /zoom meeting CMOC Handover Briefing
 ```
 
-## CMOC Shadow PagerDuty Schedule
+## Extras
+
+### CMOC Shadow PagerDuty Schedule
+{:.no_toc}
 
 The [CMOC Shadow Schedule](https://gitlab.pagerduty.com/schedules#PQBZCSY) can to be used by anyone who wishes to shadow the CMOC to learn before officially acting as CMOC. A soon-to-be-CMOC can adjust the schedule to match their working hours by clicking _Edit this schedule_ > _Add Another Layer_; add your username and the days/hours that you wish to shadow.
 
-## CMOC Training Videos
+### CMOC Training Videos
+{:.no_toc}
 
 It is recommended to watch this video on how to perform CMOC duties effectively: [CMOC training video](https://drive.google.com/drive/u/0/folders/1JArmPtHxfx6YMIWA4Dz1StqGEU2XllRy)
