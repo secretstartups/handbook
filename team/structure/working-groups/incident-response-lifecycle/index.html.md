@@ -134,3 +134,4 @@
 * As a Support Engineer, I know how notify the stakeholders
 * As a Support Engineer, I know how to find related tickets in Zendesk and the GitLab issue tracker to help access the impact of an incident
 * As a Support Engineer, I know how to contact users if their usage of GitLab SaaS was restricted due to an incident
+
