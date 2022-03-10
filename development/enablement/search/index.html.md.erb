@@ -100,6 +100,20 @@ We use the Fibonacci rating system to assign weights to Search issues. Below are
 
 As the Global Search Team requires special domain knowledge, such as Elasticsearch, we borrow team members with this domain knowledge from other teams to cover the oncall escalation when we are under staffing especially during the holiday seasons. In general, we will follow the [dev oncall](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process) process. The Elasticsearch domain experts, which can be identified by domain_expertise on their profile, may be contacted when SRE and dev oncall engineers cannot resolve the production incidents. We don't expect the domain experts to work outside of their normal working hours. In case of emergency, we will follow the set of rules and best practices outlined in our [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) handbook. In order to assist team members to catch up the latest development status and resolve potential incidents, we have created a [Global Search Incident Management document](https://gitlab.com/gitlab-org/search-team/training-materials/-/tree/main/2021-12-14-production-incident-management) as a reference.
 
+#### Onboard domain experts from other teams to cover production incident escalation
+
+When onboarding domain experts from other teams to help cover production incident escalation, we may consider the following actions:
+
+* Suggest the team member add `elasticsearch` as their `domain_expertise` in their team member profile
+* Add the team member to the Slack group global-search-team which can be used by SREs and other on-call engineers to contact in case of emergency
+* Create the access request for the team member to grant them access permissions to Elasticsearch cluster
+* Schedule walk-through sessions with the team member to go over the latest architecture and development status
+
+#### Offboard domain experts from production incident escalation coverage
+
+* Remove the team member from the Slack group global-search-team
+* Revoke the team member's access permission of Elasticsearch cluster
+
 ### Common Links
 
 * [Global Search Team Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/1339901?label_name[]=group%3A%3Aglobal%20search)
