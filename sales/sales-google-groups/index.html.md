@@ -109,6 +109,7 @@ The below channels are specific to the field organization.
 | #eastsales | public | Team channel for ENT U.S. East sales team |
 | #westsales | public | Team channel for ENT U.S. West sales team |
 | #emea-sals |  public | Team channel for ENT EMEA sales team |
+| #public-sector-sales |  private | Team channel for Public Sector sales team |
 | #emea_mid-market_sales | public | Team channel for EMEA Mid-Market sales team |
 | #commercial_global_all | private | Team channel for global Commercial sales team |
 
