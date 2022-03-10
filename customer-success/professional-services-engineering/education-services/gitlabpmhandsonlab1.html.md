@@ -1,26 +1,23 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Project Management Hands On Guide- Lab 1"
-description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab Project Management course."
+title: "GitLab Project Management Hands-On Guide: Lab 1"
+description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Project Management course."
 ---
-# GitLab Project Management Hands On Guide- Lab 1
+# GitLab Project Management Hands-On Guide
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+## LAB 1: ACCESS THE GITLAB TRAINING ENVIRONMENT
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+### Provision your training account
 
-## LAB 1- REVIEW EXAMPLE GITLAB ISSUE SECTION
-1. Navigate to the following URL- <https://gitlab.com/gitlab-org/gitlab/-/issues>  
-2. Review the Issues List, Boards, Milestones and Labels.
-3. Hover over any of the columns and rows in the following sections to view more details.  
-4. Click on the **Boards** > **Switchboard** dropdown > 12.3 Release
-5. Review all of the Boards that display and the available filtering options.  
-6. Review any **of the issues** and take a look at the labels used throughout the project.  
+1. Navigate to [**https://gitlabdemo.com/invite**](https://gitlabdemo.com/invite) in a web browser.
+1. In the **Invitation Code** field, enter the invitation code provided by your instructor.
+1. Click **Redeem and Create Account**.
+1. The system will create a unique set of credentials for your training sandbox user. Either copy your credentials from **Your GitLab Credentials** and save them on your local computer, or click the **Download Credentials** button to download a text file containing your username and password. These credentials are not recoverable if you move past this page before saving them. A new sandbox account would have to be generated.
+1. Open the provided **GitLab training environment URL** in a new tab. This is a GitLab-managed training instance where you can perform all lab activities.
+1. Log in using the username and password that were generated above.
+1. Upon successful login you should reach a page that says **Welcome to GitLab**. You will now be able to complete the remaining lab exercises.
+ 
+## Suggestions?
 
-### SUGGESTIONS?
-
-If you wish to make a change to our Hands on Guide for GitLab Project Management- please submit your changes via Merge Request!
-
+If you'd like to suggest changes to the *GitLab Project Management Hands-On Guide*, please submit them via merge request.

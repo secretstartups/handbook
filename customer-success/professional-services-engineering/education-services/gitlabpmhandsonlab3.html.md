@@ -1,31 +1,112 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Project Management Hands On Guide- Lab 3"
-description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab Project Management course."
+title: "GitLab Project Management Hands-On Guide: Lab 3"
+description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Project Management course."
 ---
-# GitLab Project Management Hands On Guide- Lab 3
+# GitLab Project Management Hands-On Guide
 {:.no_toc}
 
-## LAB 3- CREATE AN ISSUE AND ADD DETAILS TO IT
+## LAB 3: USE GITLAB PLANNING TOOLS
 
-### Create an Issue
+### A. Review planning features in GitLab
 
-1. On the left-hand side of the screen, locate the **Issue** section on the taskbar and click on it.  
-2. Click the blue **New Issue** button.  
-3. In the title field type, “***Project kick off***”.  Optionally, you can enter a comment in the Description dialog box.  
-4. In the Assignee field, click the link for **Assign to me**. 
-5. In the Weight field, **enter 10** and assign a due date for a week from today. Leave all other fields at their default and click the **Submit Issue** button. 
+1. Navigate to the GitLab project [landing page](https://gitlab.com/gitlab-org/gitlab). Note the namespace structure indicated by the top of the page. You should be in the **GitLab** project inside the **GitLab.org** group.
+1. In the breadcrumbs at the top of the page, click **GitLab.org** to navigate to the parent group.
+1. Note the number of epics, issues, and merge requests indicated in the left pane. These numbers represent work items across all subgroups and projects inside **Gitlab.org**.
+1. In the left pane, click **Epics**. This takes you to a searchable list of epics in **GitLab.org** and all its subgroups.
+1. In the left pane, click **Epics > Roadmap**. Spend a moment scrolling the displayed milestones and open epics.
+1. Click the search bar immediately below the breadcrumb at the top of the page. Type or use autocomplete dropdowns until the search bar contains `Milestone = 14.8`, representing release 14.8 of GitLab. Click the magnifying glass icon at the right of the filter to perform the search. Note the epics associated with this release and their progress over time.
+1. At the top of the roadmap, in the **Milestones** view, click the progress bar representing release **14.8** to be taken to that milestone's details page. Note the milestone's associated issues and merge requests, as well as work progress in the burnup and burndown charts.
 
-### Create 3 Labels 
-1. On the left-hand side of the screen, locate the **Labels** section on the taskbar and click on it.  
-2. Click the blue **Create label** button.  
-3. In the title field type, “***workflow::todo***”  and assign it a background color of your choosing 
-4. Click the blue **Create label** button.  
-Note: Your labels have been created at the project level, so they are specific to that project level. They will not be available at the group level. 
-5. Repeat these steps 2 more times, creating labels for “***workflow::resolved***”  and “***workflow::backlog***”  and using label colors of your choice. 
-6. You should now have 3 labels created under your Labels section.  
+### B. Create an epic and child epic
 
-### SUGGESTIONS?
+1. Back in the GitLab training environment, go to the top bar and navigate to **Menu > Groups > Your Groups**. Navigate into the **Software** subgroup you created in the previous lab.
+1. In the left pane of the **Software** group landing page, click **Epics**.
+1. In the upper-right corner, click **New epic**.
+1. On the *New Epic* page, enter `Feature Category: Retirement Planning` in the **Title** field.
+1. In the **Description** field, paste the following:
 
-If you wish to make a change to our Hands on Guide for GitLab Project Management- please submit your changes via Merge Request!
+    ```markdown
+   # Overview
 
+   This is the top-level epic for all features in the `Retirement Planning` category of DigiBit's personal finance software.
+
+   # Useful Links
+   - *To-Do: add link to the feature strategy document*
+   - *To-Do: add contributing team member information*
+    ```
+    
+    You can click the **Preview** tab in the **Description** field to see how the markdown will render after the epic is created.
+
+1. Leave all other fields as they are, and click **Create epic**.
+1. Create a new child epic to link to the parent epic: from the **Feature Category: Retirement Planning** epic landing page, click **New Epic**.
+1. Title the new epic `Investment Tracking` 
+1. In the **Description** field, paste the following:
+
+    ```markdown
+   # Overview
+
+   This epic tracks all work on `Investment Tracking` features and integrations, as part of the overall `Retirement Planning` category strategy.
+    ```
+
+1. Leave all other fields as they are, and click **Create epic**.
+1. Return to the group's full list of epics by clicking **Epics** in the breadcrumbs at the top of the page.
+1. Click into the **Feature Category: Retirement Planning** epic.
+1. You will now designate the **Investment Tracking** epic as a child of the **Retirement Planning** epic. In the **Epics and Issues** tab, click the **Add** drop-down menu, and click **Add an existing epic**.
+1. Type `&` in the field provided, and select **Investment Tracking** from the list of epics.
+1. Click **Add** to link **Investment Tracking** as a child epic to the **Retirement Planning** parent epic.
+
+### C. Set milestones to represent product goals
+
+1. Navigate to your **DigiBit Technologies** subgroup.
+1. In the left pane, click **Issues > Milestones**.
+1. Click **New milestone**.
+1. Title the new milestone `Organization Kickoff`
+1. Select today's date as the milestone start date. Select 2 days from today as the milestone end date.
+1. Click **Create milestone**.
+1. In the breadcrumbs at the top of the page, click **Milestones**.
+1. Click **New milestone** to create a second milestone.
+1. Title the second milestone `Back-end services deployed`
+1. Select today's date as the milestone start date. Select 2 weeks from today as the milestone end date.
+1. Click **Create milestone**.
+1. In the breadcrumbs at the top of the page, click **Milestones** to view your newly created milestones. 
+
+You will later assign tasks to the epics and milestones you created, allowing you to use roadmaps to view the progress of your initiatives.
+
+### D. Schedule iterations as team sprints
+
+Iterations are mutually exclusive timeboxes intended to track team velocity, while milestones can represent larger, overlapping product goals.
+
+1. In your subgroup structure, navigate to **DigiBit Technologies > Software**.
+1. In the left pane, click **Issues > Iterations**.
+1. Click **New iteration**.
+1. Title the iteration `Sprint 1` 
+1. In the description, enter `Initial back-end services and documentation`
+1. Select today's date as the iteration start date. Select 1 week from today as the iteration end date.
+1. Click **Create iteration**.
+
+You will later assign individual tasks to this iteration.
+
+### E. Create a wiki for project documentation
+
+1. Navigate to your **Family Budget Calculator** project in the **Software > Core** subgroup.
+1. In the left pane, click **Wiki**.
+1. Click **Create your first page**.
+1. Enter `Family Budget Calculator Documentation` as the page title.
+1. Paste the following text in the **Content** field, then click **Create page**.
+
+    ```markdown
+   ## Summary
+
+   The Family Budget Calculator helps households stay on budget and save for the future.
+
+   ## Contact
+
+   Contact <YOUR-NAME> with questions or comments.
+    ```
+
+    If you'd like, edit the **Family Budget Calculator Documentation** page to add additional content or create additional wiki pages.
+
+## Suggestions?
+
+If you'd like to suggest changes to the *GitLab Project Management Hands-on Guide*, please submit them via merge request.
