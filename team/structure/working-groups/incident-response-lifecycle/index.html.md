@@ -49,19 +49,12 @@
 
 
 ### How is IR done today?
-1. SIRT 
-   * [Incident Response Guidance](https://about.gitlab.com/handbook/engineering/security/vulnerability_management/incident-response-guidance.html)
-   * [Engaging Security Engineer On-Call](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html)
-   * [GitLab SIRT On-Call Guide](https://about.gitlab.com/handbook/engineering/security/secops-oncall.html)
-1. [On-call](https://about.gitlab.com/handbook/on-call/) 
-1. Reliability
-   * [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/)
-1. Support
-   * [How to Perform CMOC Duties](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html)
-   * [Contacting Customers](https://about.gitlab.com/handbook/support/internal-support/#contacting-customers-via-tickets)
-   * [Sending Notices](https://about.gitlab.com/handbook/support/workflows/sending_notices.html) (small number of users)
-   * [Customer Ticket Generator](https://about.gitlab.com/handbook/support/support-ops/workflows/customer-ticket-generator.html) (large number of users) 
-
+| Functional Area | Process |
+| ------ | ------ |
+| SIRT | <ul><li>[Incident Response Guidance](https://about.gitlab.com/handbook/engineering/security/vulnerability_management/incident-response-guidance.html)</li> <li>[Engaging Security Engineer On-Call](https://about.gitlab.com/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html)</li> <li>[GitLab SIRT On-Call Guide](https://about.gitlab.com/handbook/engineering/security/secops-oncall.html)</li></ul> |
+| Reliability | [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) |
+| Support | <ul><li>[How to Perform CMOC Duties](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html)</li> <li>[Contacting Customers](https://about.gitlab.com/handbook/support/internal-support/#contacting-customers-via-tickets)</li> <li>[Sending Notices](https://about.gitlab.com/handbook/support/workflows/sending_notices.html) (small number of users)</li> <li>[Customer Ticket Generator](https://about.gitlab.com/handbook/support/support-ops/workflows/customer-ticket-generator.html) (large number of users)</li></ul>  |
+| General | [On-call](https://about.gitlab.com/handbook/on-call/) |
 
 
 ### Noted issues
