@@ -20,6 +20,7 @@ Priority for incoming work is based on a matrix measuring the **impact** and **u
 ![priority_matrix](img/priority_matrix.png)
 
 ### Impact
+
 Impact is the measure of the effect of an incident, problem, or change on business processes as detailed in the issue.
 
 The table below can be used as a general guide for determining impact:
@@ -31,6 +32,7 @@ The table below can be used as a general guide for determining impact:
 | Low | -The issue is impacting a small subset of employees< <br> -There is no impact on customers <br> -There is no risk to the reputation of the business<li>There is no financial impact|
 
 ### Urgency
+
 Urgency is the speed at which an issues should be resolved based on business need or expectation.
 
 The table below can be used as a general guide for determining impact:
@@ -42,28 +44,40 @@ The table below can be used as a general guide for determining impact:
 | Low | -The impact does not increase at all over time. <br> -The customer indicates that the issue is not urgent.|
 
 ### Priority
-Once the impact and urgency of an issue has been determined, it is time to assign a priority.  
+
+Once the impact and urgency of an issue has been determined, it is time to assign a priority.
 
 The table below can be used as a general guide for assigning priority:
 
 | Priority | Impact/Urgency | Action |
 | -------- | ---------- | --------- |
 | `~Reliability::P1` | Impact: High <br> Urgency: High | -A resource is assigned as soon as possible.  <br> Issue is handed off between regions until it is resolved or mitigated to the point that priority can be lowered. |
-| `~Reliability::P2` |  Impact: High <br> Urgency: Medium <br> **or** <br> Impact: Medium <br> Urgency: High   | -Issue is prioritized above P3s and P4s <br> -Issue is worked on but is **not** handed off between regions <br> -If an engineer is changing roles before they are able to resolve the issue, it should be handed over/assigned to another resource. | 
+| `~Reliability::P2` |  Impact: High <br> Urgency: Medium <br> **or** <br> Impact: Medium <br> Urgency: High   | -Issue is prioritized above P3s and P4s <br> -Issue is worked on but is **not** handed off between regions <br> -If an engineer is changing roles before they are able to resolve the issue, it should be handed over/assigned to another resource. |
 | `~Reliability::P3` | Impact: High <br> Urgency: Low <br> **or** <br> Impact: Low Urgency: High <br> **or** <br> Impact: Medium Urgency: Medium | -Issue is prioritized above P4s only <br> -If an engineer is changing roles before they are able to resolve the issue, the issue should be dropped back into the tracker with a summary of what has been done so far and what the next steps are.|
 | `~Reliability::P4` | Impact: Low <br> Urgency: Medium <br> **or** <br> Impact: Medium <br> Urgency: Low | -Resources are not assigned until all higher priority work has been completed|
 | `~Reliability::P5` | Impact: Low <br> Urgency: Low | -If an issue is determined to be a P5, there is a question on if the issue should be done at all.  If it turns out something was missed it can be moved to a higher priority.  Otherwise it should be closed with an explanatory note. |
 
-## Project work vs General work
-In analyzing incoming work we need to determine if the work should be classified as a project or if it should be considered 'General' work.  In most cases the size of the issue will be the determining factor in making this decision.
 
-### Projects
-Any issue that is likely to take one engineer longer than 5 days to complete should be considered a project.  Once an issue is determined to be a project vs a general work item, it will need to be prioritized within the already existing backlog of projects.  Project issues are labeled as `work::project`
+## Classifying work
+
+In analyzing incoming work we need to determine if the work belongs to one of the following classifications, by default all incoming work will be put into the `work::general` category until it has been classified.
 
 ### General
-Any issue that is likely to take one engineer less than 5 days to complete should be considered a general issue.  General issues are smaller and are worked on by individuals as opposed to project squads.  General issues are labeled as `work::general`.  Note that any Corrective Action issues should be considered `work::general`.
-## Labels
-Issues should always fall in to one of three states, as defined by the following labels:
+
+Any issue that doesn't belong to a larger project and is able to be completed in 5 days should be considered a general issue.  General issues are smaller and are worked on by individuals as opposed to project squads.  General issues are labeled as `work::general`.
+
+### Incident
+
+Incident related work will be labeled as `work::incident`. Investigation work is normally completed by the EOC during or shortly after their shift ends.
+Corrective actions follow the [corrective action process](/handbook/engineering/infrastructure/team/reliability/#how-we-work--corrective-actions-workflow) and will also have the `work::incident` label.
+
+### Project
+
+Any issue that is associated with a larger effort that will take longer than 5 days is considered a project.  Once an issue is determined to be a project vs a general work item, it will need to be prioritized within the already existing backlog of projects.  Project issues are labeled as `work::project`
+
+## Workflow Labels
+
+Issues should always fall in to one of the following states, as defined by the following labels:
 
 1. `workflow-infra::Triage` - Applied to all new Reliability issues automatically.  It indicates that the issue has not yet been reviewed by the team.
 2. `workflow-infra::Ready` - Applied after the issues has been triaged by an SRE or Engineering Manager within the Reliability Team.  Ensure the following questions are answered and labeled before marking an issue as `workflow-infra::Ready`:
@@ -80,6 +94,6 @@ The [issue board for Reliability](https://gitlab.com/gitlab-com/gl-infra/reliabi
 
 ### General Board Guidelines
  - Issues should be prioritized by their priority label first
- - When faced with  multiple issues of the same priority level: 
-   - prioritize small issues ahead of large ones. 
+ - When faced with  multiple issues of the same priority level:
+   - prioritize small issues ahead of large ones.
    - prioritize older issues over new.
