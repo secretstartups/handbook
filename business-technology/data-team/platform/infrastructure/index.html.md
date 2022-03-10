@@ -777,11 +777,22 @@ create or replace task prometheus_load_task
 
 ## Data Refresh
 
-### Stitch-Managed Data
-
 If a full refresh is required due to a failing test leading to an SLO breach, take time to investigate the root cause of the failing test. Make an [incident](/handbook/business-technology/data-team/how-we-work/#incidents) and document any findings before triggering the full refresh. It may also be useful to copy the data to another temporary table to allow the full refresh to continue unimpeded.
 
-For data sources extracted by Stitch (see extraction table [on the platform page](/handbook/business-technology/data-team/platform/#extract-and-load)), the recommended way to do a full refresh is as follows:
+### Stitch-Managed Data
+For data sources extracted by Stitch (see extraction table [on the platform page](/handbook/business-technology/data-team/platform/#extract-and-load)) steps to be taken to refresh data depend on the connection and table settings.
+
+#### Key based replication tables
+
+For Salesforce, where the connection is running key based incremental extractions, the table is best reset using the `reset table` feature under table settings. Simply put, this will truncate the table in `RAW` and reload/refresh all the data with a complete extract. Stitch manages this appropriately such that there is little disruption to the table in `RAW.SALESFORCE_STITCH`
+
+![stitch_reset_table.png](stitch_reset_table.png)
+
+Once reset the table will be refreshed on next run. If the data is needed sooner than that then you can trigger the extraction from Stitch, though this will incure an addition cost for the extra job.
+
+#### Manual refresh of Stitch managed tables
+
+If for some reason it is the case that the Stitch connection cannot handle the table refresh without manual intervention the follow process has worked:
 
 * Ensure the Stitch replication job is not currently running.  Pause the integration so it won't start a run aside from this process.
 * As the STITCH role, clone the target schema so the refresh process does not affect production in any way.  This can be done by running the following SQL and filling in the relevant schema name:
