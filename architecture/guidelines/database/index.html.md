@@ -37,22 +37,22 @@ We use a relational database (PostgreSQL) as the primary metadata storage engine
 
 Four basic questions have to answer before to determine the appropriate database:
 
-* What kind of code base comprises the application?
-* What kind of data does the application need to store?
-* What kinds of queries does the application need to run against the database?
-* What resource utilization is expected, both today and in the near future, in terms of space consumed, transaction rates (for read and writes), and latencies?
+1. What kind of code base comprises the application?
+1. What kind of data does the application need to store?
+1. What kinds of queries does the application need to run against the database?
+1. What resource utilization is expected, both today and in the near future, in terms of space consumed, transaction rates (for read and writes), and latencies?
 
-The answers to the first three questions are likely known in advance, since they are really baked into the application; the last one tends to be a little less clear, and while exact answers are not necessary, ballpark estimates (for both at deployment time and peering a bit into the future) are required. In any event, the answers to these questions should avoid specific technologies (with some exceptions).
+The answers to the first three questions are likely known in advance, since they are really baked into the application; the last one tends to be a little less clear, and while exact answers are not necessary, ballpark estimates (for both at deployment time and peering a bit into the future) are required. Specialised teams, such as Database, Scalability, and Memory can aid in uncovering some of these unknowns. In any event, the answers to these questions should avoid specific technologies (with some exceptions).
 
 ## Default answer: the main Postgres database
 
 Traditionally, the default answer has been to use our main database (PostgreSQL). However, we are probably at a point where this can no longer be the case, primarily for two reasons:
 
-* We have to carefully manage load on the main database, particularly in terms of transaction rates, connections, and memory utilization, to ensure availability.
-* The product ecosystem is evolving in a varied fashion through integrations of existing technology stacks, and we are coming upon more specialized data needs.
-* It should be noted that the main Postgres database is intended for OLTP use only. Especially at scale, OLAP will introduced significant degradation on the database, particularlty with regards to cluster replication.
+1. We have to carefully manage load on the main database for GitLab.com, particularly in terms of transaction rates, connections, and memory utilization, to ensure availability.
+1. The product ecosystem is evolving in a varied fashion through integrations of existing technology stacks, and we are coming upon more specialized data needs.
+1. It should be noted that the main GitLab.com Postgres database is intended for OLTP use only. Especially at scale, OLAP will introduced significant degradation on the database, particularly with regards to cluster replication.
 
-In general, if the code base is part of the main RoR application, more than likely it already uses the main PostgreSQL database, as the schema is managed through RoR and the code probably has fairly tight coupling with the Rails code base. New entities have to be managed carefully, however, as capacity planning concerns must be addressed in order to ensure availability. The Development [Database Group](https://about.gitlab.com/handbook/engineering/development/enablement/database/) and Infrastructure [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/) are the best sources of information in this regard, which also applies to Redis.
+In general, if the codebase is part of the main RoR application, more than likely it already uses the main PostgreSQL database, as the schema is managed through RoR and the code probably has fairly tight coupling with the Rails code base. New entities have to be managed carefully, however, as capacity planning concerns must be addressed in order to ensure availability. The Development [Database Group](https://about.gitlab.com/handbook/engineering/development/enablement/database/) and [the Infrastructure teams](https://about.gitlab.com/handbook/engineering/infrastructure/team) are the best sources of information in this regard, which also applies to Redis.
 
 ### Exception
 
