@@ -429,7 +429,7 @@ Please see process [here](/handbook/marketing/revenue-marketing/digital-marketin
 
 # Process to Close Marketo Landing Pages and Landing Page Forms
 
-The FMC will track all open Marketo LPs and will be responsible for requesting the LP be closed once the event occurs. The FMC will also be responsible for closing LPs if an event reaches capacity. If Verticurl is unavailable and the request is urgent, the FMC can follow the below steps as well.
+The FMC will track all open Marketo LPs and will be responsible for requesting the LP be closed once the event occurs. The FMC will also be responsible for closing LPs if an event reaches capacity. If Verticurl is unavailable and the request is urgent, the FMC can follow the below steps as well. If your campaign type is not listed below and your request is urgent, please reach out to Marketing Ops to help close the page.
 
 - The FMC will re-open the Marketo LP issue and request Verticurl follow one of the below processes (depending on campaign type, as Marketo program templates vary across different tactics). In the LP issue, the FMC will specify if the page should be shut down completely or if the request is to close the LP form (to no longer allow registrations) and to update the verbiage at the top of the page (i.e. to specify if the event has occurred, is at capacity, etc.). Please see standard verbiage options below. The FMC will update the due date of the issue and move the triage label back to `FMM-Verticurl::WIP`.
 - If there are remaining invite issues open once registration is closed, the FMC will note this in the issue(s) and close them. If an invite is already scheduled to be sent, the FMC will ask Verticurl to unschedule the send before closing the issue. The FMC will update the due date of the issue and move the triage label back to `FMM-Verticurl::WIP`.
@@ -445,6 +445,12 @@ Thank you for your interest in this [insert event type]. This event has conclude
 *The below verbiage can be utilized/sent to Verticurl when closing a Marketo LP form if an event is at capacity.*  
 
 Thank you for your interest in this [insert event type]. The event has reached capacity and registration is now closed, but GitLab has a number of hands-on events and educational programs scheduled at any given time. Please visit our [events page](https://about.gitlab.com/events/) for more information on upcoming events and dates.
+
+## Adding a Registrant after Marketo LP is Closed
+If you have closed a Marketo LP because your event has reached capacity but need to add in an important registrant after the fact, please follow the below instructions.
+- FMC to request Verticurl re-open the LP in the LP issue
+- Once the page is open, registrant's info will be added into the form (by FMC or FMM)
+- FMC will request Vertcurl re-close the LP
 
 ## Closing a Marketo LP 
 *These instructions are standard across all campaign types and will close down the entire LP and re-routes visitors to our about.gitlab.com page.*
