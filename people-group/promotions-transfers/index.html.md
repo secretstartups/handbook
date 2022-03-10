@@ -73,8 +73,8 @@ Below is the timeline for FY23:
      - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicated 1:1 with individuals, updates can be posted publicly in [#team-member-updates](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process).
 - FY23-Q2: 
   - Planning: March 15 to April 1
-  - Calibrations: April 1 to April 8
-  - Processing: April 11 to May 1 
+  - Calibrations: April 1 to April 15
+  - Processing: April 15 to May 1 
      - Promotions must be added to HRIS by April 20. 
      - Effective date for promotions: 2022-05-01. 
      - Communication: After fully approved in either Greenhouse or HRIS
