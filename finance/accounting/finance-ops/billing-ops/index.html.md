@@ -24,7 +24,7 @@ The Billing Operations Team is part of the Revenue Operations organization. Our 
 * Americas - East Region
 * EMEA/APAC Region 
 
-Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/billing-team-faqs-&-useful-tips) Page for additional information & resources!
+Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Billing%20Operations%20&%20Accounts%20Receivable%20Wiki) Page for additional information & resources!
 
 ## Meet the Team
 
