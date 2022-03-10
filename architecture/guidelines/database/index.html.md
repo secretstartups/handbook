@@ -1,13 +1,13 @@
 ---
 layout: handbook-page-toc
-title: "Data Stores"
+title: "Database"
 ---
 
 GitLab is a [single application](https://about.gitlab.com/handbook/product/single-application/) that relies on a [single data store](https://about.gitlab.com/handbook/product/single-application/#single-data-store).
 
-This directive continues to drive GitLab's development: while GitLab is *SaaS first*, it is not *SaaS only*, and GitLab will support a configuration with a single database cluster, generally through the use of logical databases. Only at scale do we contemplate the unfolding the single cluster into multiple ones, as GitLab.com does. This implies that the code base stays stable and is able to leverage flexible backends to address scalability. Self-managed and GitLab.com will continue to operate as a single application, and self-managed in particular, will continue to provide simplicity while offering the flexibility to scale.
+This directive continues to drive GitLab's development: while GitLab is [*SaaS first*](https://about.gitlab.com/direction/#product-strategy), it is not *SaaS only*, and GitLab will support a configuration with a single database cluster, generally through the use of logical databases. Only at scale do we contemplate the unfolding the single cluster into multiple ones, as GitLab.com does. This implies that the code base stays stable and is able to leverage flexible backends to address scalability. Self-managed and GitLab.com will continue to operate as a single application, and self-managed in particular, will continue to provide simplicity while offering the flexibility to scale.
 
-There is no fundamental aversion to multiple data stores, but we want to avoid the pitfalls of having *too many* of them, especially when variety of data engines are involved. Using new or adopting existing data stores will involve tradeoffs, which have to be meticulously managed at scale. We have placed some gatekeepers before a separate datastore can be deployed, and the following guidelines are intended to help you determine what the best course of action is and how to proceed.
+There is no fundamental aversion to multiple data stores, but we want to avoid the pitfalls of having *too many* of them, especially when variety of data engines are involved. Using new or adopting existing data stores will involve tradeoffs, which have to be meticulously managed at scale. We have placed some gatekeepers before a separate data store can be deployed, and the following guidelines are intended to help you determine what the best course of action is and how to proceed.
 
 These guidelines rely heavily on the Database Working Group [glossary](/company/team/structure/working-groups/database-scalability/#glossary).
 
@@ -21,23 +21,23 @@ Second, we need to understand what it will mean in terms of resource utilization
 
 Finally, we need to understand if the data requires a new data store engine, since this will have significant implications once it is deployed in production in terms of the deployment itself, on-going maintenance (such as upgrades), observability integrations, and, more importantly, troubleshooting during incidents.
 
-We use a relational data store (PostgreSQL) as the primary metadata storage engine. Additionally, we also use a data structure store (Redos), which, while critical to the funcioning of GitLab, stores more dynamic data.
+We use a relational database (PostgreSQL) as the primary metadata storage engine. Additionally, we also use a data structure store (Redis), which, while critical to the funcioning of GitLab, stores more dynamic data.
 
 ### Relational: PostgreSQL
 
 [PostgreSQL](https://docs.gitlab.com/ee/development/scalability.html#postgresql) is our relational database engine of choice, and, until recently, all metadata for projects, issues, merge requests, users, and so on resided in a single cluster. Its schema is managed by the Rails application [db/structure.sql](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql). We commonly refer to this data store as the **main database**. As scalability needs increased, we adopted some [best practices](https://about.gitlab.com/handbook/engineering/architecture/practice/scalability/) to address them. Some items have been extracted from the database (diffs were the first ones), while others were deployed in separate logical databases or instances (at scale) because they were already separate services and had low data coupling requirements (Registry and Praefect). Still others are currently in the process of being functionally decomposed (CI) because of their scale (and because we found ways to work around tight coupling).
 
-### Data Structure: Redis
+#### Data Structure: Redis
 
 [Redis](https://docs.gitlab.com/ee/development/scalability.html#redis) is used for specialized, non-relational needs, including queues (Sidekiq jobs marshal jobs into JSON payloads), persistent state( session data and exclusive leases), and cache (repository data such as branch and tag names, and view partials).
 
 ## Considerations
 
-Four basic questions have to answer before to determine the appropriate data store:
+Four basic questions have to answer before to determine the appropriate database:
 
 * What kind of code base comprises the application?
 * What kind of data does the application need to store?
-* What kinds of queries does the application need to run against the data store?
+* What kinds of queries does the application need to run against the database?
 * What resource utilization is expected, both today and in the near future, in terms of space consumed, transaction rates (for read and writes), and latencies?
 
 The answers to the first three questions are likely known in advance, since they are really baked into the application; the last one tends to be a little less clear, and while exact answers are not necessary, ballpark estimates (for both at deployment time and peering a bit into the future) are required. In any event, the answers to these questions should avoid specific technologies (with some exceptions).
@@ -64,23 +64,13 @@ In general, a separate cluster will only be supported if the size of the dataset
 
 If the application is **not** part of the main RoR application code base (for instance, [Container Registry](https://gitlab.com/gitlab-org/container-registry), [Praefect](https://gitlab.com/gitlab-org/gitaly)), then a separate database is the only option, and whether this is logical or an independent cluster will come down to scale.
 
-| Code base | Transaction Rate | Storage       | Data store           |
+| Code base | Transaction Rate | Storage       | Database             |
 | --------- | ---------------- | ------------- | -------------------- |
 | main RoR  | Low, Medium      | Low, Medium   | **Main** database    |
 | main RoR  | High             | High (>1TB)   | **FD** database      |
 | Any       | Low              | Low (<200GB)  | **Logical** database |
 | Any       | Medium           | Medium (<1TB) | **Logical** database |
 | Any       | High             | High (>1TB)   | **Separate** cluster |
-
-### Data Structure (Redis)
-
-| Code base | Transaction Rate | Storage       | Data store |
-| --------- | ---------------- | ------------- | ---------- |
-| Ruby      | Low, Medium      | Low, Medium   |            |
-| Ruby      | High             | High (>1TB)   |            |
-| Any       | Low              | Low (<200GB)  |            |
-| Any       | Medium           | Medium (<1TB) |            |
-| Any       | High             | High (>1TB)   |            |
 
 ## New data store engines
 
