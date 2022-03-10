@@ -58,7 +58,10 @@
 1. Reliability
 * [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/)
 1. Support
-* [tbd]
+* [How to Perform CMOC Duties](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html)
+* [Contacting Customers](https://about.gitlab.com/handbook/support/internal-support/#contacting-customers-via-tickets)
+  * [Sending Notices](https://about.gitlab.com/handbook/support/workflows/sending_notices.html) (small number of users)
+  * [Customer Ticket Generator](https://about.gitlab.com/handbook/support/support-ops/workflows/customer-ticket-generator.html) (large number of users) 
 
 
 
@@ -122,3 +125,13 @@
 * As a leader in Development who is part of the Incident Manager rotation, I am clear on the role's responsibilities and how the role supports the Incident Management process.
 
 #### Quality Teams 
+
+#### Support Team
+
+* As a Support Engineer, I know how to create a status page
+* As a Support Engineer, I know the differences between the Incident Status states on the status page
+* As a Support Engineer, I know how frequently to update the status page
+* As a Support Engineer, I know how to engage the Incident Manager or EOC when asking about feedback for an update I am about to post on the status page
+* As a Support Engineer, I know how notify the stakeholders
+* As a Support Engineer, I know how to find related tickets in Zendesk and the GitLab issue tracker to help access the impact of an incident
+* As a Support Engineer, I know how to contact users if their usage of GitLab SaaS was restricted due to an incident
