@@ -1,4 +1,3 @@
-
 ## On this page
 {:.no_toc}
 
@@ -82,8 +81,9 @@
 | Member              | [Aaron Blanco](@ablanco3)          | SIRT member                  |
 | Member              | [Anthony Fappiano](@afappiano)          | Manager Reliability                   |
 | Development Functional Lead | [Dan Croft](@dcroft) | Senior Engineering Manager, Ops |
-| Member | [Sam Goldstein](@sgoldstein) | Director of Engineering, Ops |
-| Member (CMOC) | [Kenneth Chu](@kenneth) | Support team  |
+| Member              | [Sam Goldstein](@sgoldstein) | Director of Engineering, Ops |
+| Member (CMOC)       | [Kenneth Chu](@kenneth) | Support team  |
+| Member              | [Kevin Chu](@kbychu)    | Group Manager of Product, Monitor |
 
 ## Requirements and Considerations
 
