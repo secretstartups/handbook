@@ -24,7 +24,7 @@ A well-managed sales pipeline requires a clear process with defined activities a
 
 To view these stages in Google sheet format please [click this link](https://docs.google.com/spreadsheets/d/1tVtJvfSsmWL2L1vTcJZgARlzC9Qy3Ae7pPqGBH9_KOQ/edit#gid=1399111321).
 
-Exit Criteria at a Glance: 
+[Exit Criteria at a Glance:](https://docs.google.com/presentation/d/1x6ycY7SdPET5ioD2bPyV6RURafdU_fn4P7vD6X0QRsM/edit#slide=id.p) 
 
 ![comm-sales-stages-exit-criteria](/handbook/sales/commercial/comm-sales-opp-stages/comm-sales-stages-exit-criteria.png)
 
