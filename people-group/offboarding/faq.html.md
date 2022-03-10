@@ -101,6 +101,11 @@ Typically, benefits coverage ends at the end of the month during which you leave
 
 All information is on the [Stock Options](/handbook/stock-options/) handbook page, specifically the [Exercise Window after Termination](/handbook/stock-options/#exercise-window-after-termination) section.
 
+#### Will my ESPP contributions be reimbursed?
+
+Yes. Payroll processes ESPP reimbursements during payroll cycles with termination reports. You may receive your reimbursement on the pay period after your termination. Please make sure you unenroll from ESPP in [Schwab](https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx) as well.
+
+
 #### What happens to my Growth and Development Benefit?
 
 More information can be found in the [Growth and Development](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#recoupment-of-growth-and-development-reimbursements) Reimbusement section, which states that if you voluntarily terminate employment with GitLab, any expenses or reimbursement related to this benefit will be refunded to GitLab.
