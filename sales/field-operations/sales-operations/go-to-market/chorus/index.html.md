@@ -14,6 +14,9 @@ Confused about how to use Chorus? Check out the instructions and links below for
 ## Logging into Chorus
 Log into Chorus by clicking on the Google sign in option on the [Chorus homepage](https://hello.chorus.ai/login?next=http:%2F%2Fchorus.ai%2Fhome) and selecting your GitLab Gmail account.
 
+## Add Chorus to a Live Call
+If you have a meeting that was not on your calendar that you would like Chorus to join, you may [Invite Chorus](https://chorus.ai/record).
+
 ## Chorus Training & Enablement
 - Please familiarize yourself with [GitLab's SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) before utilizing Chorus.
 - All ROW team members are required to complete the [Chorus GDPR Training](https://classroom.google.com/u/0/c/MTI5NDQzODc5NzE1) in order to be granted Recorder access. SalesOps will send team members an invitation through Google Classroom to complete the course once their [Baseline Role-Based Entitlement](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/) is submitted by their manager.
@@ -26,6 +29,7 @@ Log into Chorus by clicking on the Google sign in option on the [Chorus homepage
 - [Security & Compliance](https://www.chorus.ai/trust)
   - Share this with customers as needed
 - [Chorus FAQs](https://docs.chorus.ai/hc/en-us/sections/115002365588-FAQs)
+- [Chorus YouTube Channel](https://www.youtube.com/c/Chorus_ai/videos)
 
 ## Chorus.ai Basics
 
@@ -36,16 +40,16 @@ Log into Chorus by clicking on the Google sign in option on the [Chorus homepage
 
 ## Security & Privacy Controls
 
-- The retention policy for recorded calls in Chorus is 90 days as of March 1, 2022
+- The data retention policy for recorded calls in Chorus is 90 days as of March 1, 2022
 - To preserve snippets of calls in EdCast indefinitely, approval from Legal must be obtained by pinging the #legal channel in Slack
-- To Download recordings & create playlists the User must obtain approval from Legal by pinging the #legal channel in Slack
+- To download recordings & create playlists the User must obtain approval from Legal by pinging the #legal channel in Slack
   - Snippets saved to any playlists will be preserved
   - Snippets saved on the call will be deleted according to the retention policy
 - All Team Members approved for Recorder status are armed with a talk track to inform participants why the call is being recorded and letting them know they can request the call to not be recorded. If the Customer objects, the recording must be turned off or a new call must be initiated.
-- Any time a Chorus link is shared, a password should be required or the link should be set to expire. Each user has to do this; it can not be turned on globally from the admin panel.
+- Any time a Chorus link is shared, a password should be required or the link should be set to expire. Each user must complete this action individually.
 - As a best practice, please DO NOT include links to Chorus recordings in a public issue. If you need to include a Chorus recording or any type of customer information in an issue, please first mark the issue as `Confidential`.
-For additional details, please see [this issue](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1560#note_702890753).
-- [Compliance](https://docs.chorus.ai/hc/en-us/sections/360001251353-Compliance)
+  - For additional details, please see [this issue](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1560#note_702890753).
+- [Chorus Compliance Resources](https://docs.chorus.ai/hc/en-us/sections/360001251353-Compliance)
 
 ## Swim Lanes
 ### Recorder Access
@@ -57,11 +61,12 @@ For additional details, please see [this issue](https://gitlab.com/gitlab-com/gl
 
 ### Listener Access
 - All Public Sector team members
+- All GitLab team members in non-customer facing roles
 - GitLab team members may request Listener access through an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use) which may be granted on a case by case basis
 
-## Why is meeting live on chorus?
+## Why is My Meeting "Live"?
 
-- Zoom and Chorus have gone through a lot of legal and development cycles to be transparent in what data is being used for all participants, so the verbiage cannot be customized at this time.
+- The banner "Live on Chorus" is controlled and set by Zoom, therefore neither Chorus nor GitLab can make changes to the text. Chorus and Zoom are working together to get this message updated.
 
 ## Recording with Breakout Rooms
 
@@ -70,4 +75,5 @@ For additional details, please see [this issue](https://gitlab.com/gitlab-com/gl
 
 ## Chorus.ai Advanced Usage
 
+- [Chorus Release Notes](https://view.highspot.com/viewer/61faa9016e6856ecc10ce41d)
 - [Chorus Integrations](https://docs.chorus.ai/hc/en-us/sections/115002215568-Integrations)
