@@ -44,15 +44,15 @@ The training environment for instructor-led classes blocks License Compliance fo
 In real life you would approve or deny each of the licenses for your project's dependencies, but in this lab you'll manage just 2 of them.
 
 1. Click **Manage licenses**.
-2. Click **Add license policy**.
-3. In the **License name** dropdown, select `MIT License`. There are several licenses with similar names, so be sure to pick the right one.
-4. Select the **Allow** radio button.
-5. Click **Submit**.
-6. Click **Add license policy**.
-7. In the **License name** dropdown, select `Apache License 2.0`. Make sure not to accidentally select a different license with a similar name.
-8. Select the **Deny** radio button.
-9. Click **Submit**.
-10. Use the same process to **deny** the `ISC License` (not the license just called `ISC`).
+1. Click **Add license policy**.
+1. In the **License name** dropdown, select `MIT License`. There are several licenses with similar names, so be sure to pick the right one.
+1. Select the **Allow** radio button.
+1. Click **Submit**.
+1. Click **Add license policy**.
+1. In the **License name** dropdown, select `Apache License 2.0`. Make sure not to accidentally select a different license with a similar name.
+1. Select the **Deny** radio button.
+1. Click **Submit**.
+1. Use the same process to **deny** the `ISC License` (not the license just called `ISC`).
 
 
 ### View the License Compliance report with categorized licenses
@@ -69,7 +69,7 @@ The security team decides that your project *generally* shouldn't use dependenci
 1. Click **Manage licenses**.
 1. Click **License Approvals**. This shows the special **License-Check** approval ruleset  (which is currently empty).
 1. Leave **Approvals required** set to `1` so the MR can be unblocked by any single member of the security team.
-1. In **Add approvers** select `Administrator @root`, since that's the only user available that's not you (you can't give the project owner permission to approve license compliance overrides). If there had been a "security team" group defined, you could have added that group instead.
+1. In **Add approvers** select any user other than yourself (you can't give the project owner permission to approve license compliance overrides). If there had been a "security team" group defined, you could have added that group instead.
 1. Click away from the **Add approvers** dropdown to close it, and confirm that **Administrator** is an approver.
 1. Click **Add approvers** and notice the new message **License Approvals are active**.
 
@@ -77,10 +77,10 @@ The security team decides that your project *generally* shouldn't use dependenci
 ### Make an MR that adds a dependency with a denied license
 
 1. Make a new branch called `add-dnspython-dependency`
-2. Make an MR for that branch, making sure to remove `Draft:` from the MR title so that it's ready to merge.
-3. Add a new dependency to the **add-dnspython-dependency** branch (not the **main** branch!) by pasting `dnspython==2.1.0` as a new line at the end of `requirements.txt`. Commit the edit.
-4. Navigate to the details page for the pipeline that was triggered by your commit, and wait for it to finish.
-5. Navigate to the branch's MR. In the **License Compliance** pane, click **Expand**. The MR is blocked from being merged because the **dnspython** dependency that it adds uses a denied license.<br/><br/>Normally you would need to either remove the dependency or have a member of the security team approve the MR and override the license compliance block. Since there are no approvers available in this training environment, you can stop here and leave the MR unmerged.
+1. Make an MR for that branch, making sure to remove `Draft:` from the MR title so that it's ready to merge.
+1. Add a new dependency to the **add-dnspython-dependency** branch (not the **main** branch!) by pasting `dnspython==2.1.0` as a new line at the end of `requirements.txt`. Commit the edit.
+1. Navigate to the details page for the pipeline that was triggered by your commit, and wait for it to finish.
+1. Navigate to the branch's MR. In the **License Compliance** pane, click **Expand**. The MR is blocked from being merged because the **dnspython** dependency that it adds uses a denied license.<br/><br/>Normally you would need to either remove the dependency or have a member of the security team approve the MR and override the license compliance block. Since there are no approvers available in this training environment, you can stop here and leave the MR unmerged.
 
 
 ## Suggestions?
