@@ -145,7 +145,6 @@ In between bi-weekly Campaigns Team Connect calls:
 - `mktg-status::triage`: the issue will be evaluated to determine if full details are included, and ask questions as needed if the scope/details are not clear
 - `mktg-status::blocked`: there were insufficient details in the issue for work to be triaged
     - The requester must provide the details and then move the status back to `mktg-status::triage` in order for the request to be reviewed again.
-    - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline. [see note about turnaround time and SLAs](/handbook/marketing/account-based-marketing/#slas)
 - `mktg-status::wip`: the issue is assigned and moved into appropriate time-based milestone
 - `mktg-status::plan`: this is used for work that is in an earlier stage of planning and a specific request has not been made
     - This will likely be used mainly by ABM team members on issues that are not high priority but there is a desire to capture the idea/notes.
@@ -172,7 +171,7 @@ In between bi-weekly Campaigns Team Connect calls:
 
 We ask that teams request work using the following issue templates in the ABM project. These templates more clearly indicate what information and details are required in order for the request to be triaged and fit into an existing milestone.
 
-Note on timelines: Requests will be committed to as bandwidth permits. Please see section on [turnaround time & SLAs](/handbook/marketing/account-based-marketing/#slas).
+Note on timelines: Requests will be committed to as bandwidth permits.
 
 * [Milestone Planning](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_milestoneplan) - opened by ABM manager and due prior to start of new milestone
 * [WIP Issue](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=ABM_wip) - opened throughout a milestone for issues being committed to current milestone
