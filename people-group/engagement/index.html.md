@@ -158,7 +158,7 @@ GitLab was rated between 7-12% percent higher than the industry benchmark i.e. N
 | ------ | -------------------- |
 | Action | 55% |
 | Your Role | 67% |
-| Growth % Development | 79% |
+| Growth & Development | 79% |
 
 GitLab was rated between 1%-10% percent higher than the industry benchmark i.e. New Tech (1,000+) 2021 across all three factors detailed above.
 
