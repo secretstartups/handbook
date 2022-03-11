@@ -87,8 +87,7 @@ Check out the [field marketing handbook page](https://about.gitlab.com/handbook/
 that details the FMM process where CAMs can read more about how to complete [the lead gen issue.](https://gitlab.com/gitlab-com/marketing/field-marketing/-.issues/new?issuable_template=Channel_LeadGen_Req)
 
 ## Requesting MDF funds
-
-- Approved Select Partners will submit [MDF proposals through the Partner Portal](https://partners.gitlab.com/English/Partner/SFDC/MDF2/Request/Create), and GitLab approvers will be notified of the request via email.
+* Approved Select Partners will submit [MDF proposals through the Partner Portal](https://partners.gitlab.com/English/Partner/SFDC/MDF2/Request/Create), and GitLab approvers will be notified of the request via email.
     + The Channel Marketing DRI will create a confidential new issue [`new_channel_mdf_request`](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/new#new_channel_mdf_proposal) for the review and approval process for the MDF proposal - This kicks off the official process
        +  All documentation, analysis, thoughts and approvals will be captured within that issue
        +  Each issue will be associated to the appropriate `Quarterly MDF Epic`
@@ -108,37 +107,36 @@ that details the FMM process where CAMs can read more about how to complete [the
         
 
 ### Demand Generation activities eligible for MDF
--  **Customer Case Study** - Development of a print or digital case study that details an end-user customer’s positive experience with GitLab. Must highlight how a GitLab product or service solved a customer’s business problem, benefit received by customer, and customer’s endorsement of GitLab.
--  **Telesales/Appointment Setting** - Outbound lead generation telemarketing campaigns that target end-user prospects /customers that promote GitLab or GitLab Alliance joint products or solutions.
--  **Digital & Print Marketing** - Creation of broad reach promotional and brand marketing content for GitLab products or solutions in digital or print targeted at end-user customers or prospects. Must contain a customer call to action.
--  **Paid Search Events/Webinars** (includes workshops, roundtables) - End-user customer or partner event executed by a Partner to generate net new business and / or build pipeline. Must be focused on GitLab and / or joint solutions with Alliance Partners.
- - **Tradeshows/Conference Sponsorships** - Partner on-site sponsorship of a Third-party event organized by an industry set, or other GitLab Partner, where a sponsorship contract / package is purchased by Partner and GitLab products, solutions, & brand are promoted.
-
+*  **Customer Case Study** - Development of a print or digital case study that details an end-user customer’s positive experience with GitLab. Must highlight how a GitLab product or service solved a customer’s business problem, benefit received by customer, and customer’s endorsement of GitLab.
+*  **Telesales/Appointment Setting** - Outbound lead generation telemarketing campaigns that target end-user prospects /customers that promote GitLab or GitLab Alliance joint products or solutions.
+*  **Digital & Print Marketing** - Creation of broad reach promotional and brand marketing content for GitLab products or solutions in digital or print targeted at end-user customers or prospects. Must contain a customer call to action.
+*  **Paid Search Events/Webinars** (includes workshops, roundtables) - End-user customer or partner event executed by a Partner to generate net new business and / or build pipeline. Must be focused on GitLab and / or joint solutions with Alliance Partners.
+* **Tradeshows/Conference Sponsorships** - Partner on-site sponsorship of a Third-party event organized by an industry set, or other GitLab Partner, where a sponsorship contract / package is purchased by Partner and GitLab products, solutions, & brand are promoted.
 
 These activities are captured as `Campaign Type Details` on the campaign level in Salesforce.com for `Partner - MDF` [Campaign Type](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) only.
 
 ### Submitting Proof of Performance (POP) and Invoice for MDF 
 
-- Once the MDF campaign is completed, the partner has 30 days to submit their [Proof of Performance (POP)](https://partners.gitlab.com/English/Partner/SFDC/MDF2/Manage) and Invoice for reimbursement.
+* Once the MDF campaign is completed, the partner has 30 days to submit their [Proof of Performance (POP)](https://partners.gitlab.com/English/Partner/SFDC/MDF2/Manage) and Invoice for reimbursement.
     + Click on the MDF activity listed
     + Go to attachements and upload POP and Invoice
-- Once a POP is completed, the Partner Program Manager will create an issue [`channel_mdf_pop`](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/new#channel_mdf_pop) and complete Step 1 
-- Once Step 1 is completed, Samara Souza will send Finance the invoice for their review and reimbursement payment to the partner
+* Once a POP is completed, the Partner Program Manager will create an issue [`channel_mdf_pop`](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/new#channel_mdf_pop) and complete Step 1 
+* Once Step 1 is completed, Samara Souza will send Finance the invoice for their review and reimbursement payment to the partner
 
-## Requesting Swag for Channel events and awards
+## Requesting Swag for Channel Events and Awards
 CAMs can now order swag for approved co-marketing events or other approved awards through Channel Marketing’s partner swag portal.  Please allow 10-15 business days for the approval and processing of your request plus additional shipping time. 
 
 **To view the portal and see types of Swag available:**
 1. Go to the portal: https://www2.nationsprint.com/clients/gitlab/
-1. Create your own login using your gitlab email address
-1. Once logged in, you can view Swag items currently available
+2. Create your own login using your gitlab email address
+3. Once logged in, you can view Swag items currently available
 
 If you are ordering Swag for one person (vs an entire event), you can place your own order using the portal as long as you have the recipient’s shipping address.  Make sure you have received approval from your manager to place the order.
 Postcard notes are available to customize your shipment.  Just select the postcard from the ordering portal and add your own customized text to be printed on the notecard.
 
 **To request Swag for a virtual event:**
 1. Send an email to partner-marketing@gitlab.com.  Include the following details in your request: event DRI, partner name, name, date and type of event, expected number of attendees that would be eligible for swag, desired dollar amount of swag items and links to MDF request, event Issue, and any other pertinent information.  If you’d like a custom post card note included in your order, please provide the text so we can create the card as part of your order.
-1. Once your request is approved, we will create a unique swag bundle with unique ordering url and provide you with the url you can share with the attendees post event.  This way each attendee can enter their own shipping information and process their own order request directly into the portal.
+2. Once your request is approved, we will create a unique swag bundle with unique ordering url and provide you with the url you can share with the attendees post event.  This way each attendee can enter their own shipping information and process their own order request directly into the portal.
 
 **To request Swag for an in-person event:**
 1. Send an email to partner-marketing@gitlab.com.  Include the following details in your request: event DRI, partner name, name, date and type of event, event shipping address including attn info any required shipping info, number and type of items being requested, first and last date items can arrive and whether you need a return label for non-used items.  Please allow 15 business days for the approval and processing of your request.  
@@ -163,12 +161,10 @@ Partners can access and manage their GitLab leads in the same interface as their
 
 ## Beyond our Team’s Scope
 
-
-
 *   Individual partner support, planning, ideation and execution including but not limited to joint demand generation campaigns.  Please work closely with your region’s [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) team and reference linked Handbook pages for self support and field support of these programs.
-*   Custom campaigns: Channel Marketing does not currently have the resources to support individual partner campaigns and events.  Please encourage your partners to leverage one of our turnkey, and integrated campaigns-in-a-box.  For unique virtual and live events, the CAM should engage with their [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) counterpart to leverage field budget and marketing support for joint events.  The Field Marketing Manager will engage with their sales teams and support the CAM and partner with development, execution, and lead follow up for  the event.
-*   Asset creation: Channel Marketing is unable to work directly with partners to customize their marketing assets. 
-*   Joint demand generation planning and execution:** **The GitLab CAM is the primary point of contact to enable their partners run a successful campaign or event.  
+*   Custom campaigns: Channel Marketing does not currently have the resources to support individual partner campaigns and events. Please encourage your partners to leverage one of our turnkey, and integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/instant-campaigns/) available on the [Partner Portal](https://partners.gitlab.com/English/).  For unique virtual and live events, the CAM should engage with their [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) counterpart to leverage field budget and marketing support for joint events.  The Field Marketing Manager will engage with their sales teams and support the CAM and partner with development, execution, and lead follow up for  the event.
+*   Unique Partner Asset Creation: Channel Marketing is unable to work directly with partners to customize their marketing assets. 
+*   Joint demand generation planning and execution: **The GitLab CAM is the primary point of contact to enable their partners run a successful campaign or event.**  
 *   Event speakers: The Channel Marketing team does not have the resources to help locate GitLab speakers for partner events.
 *   Partner Blogs: The Channel Marketing team does not have the resources to craft unique content to support a partner blog or content request.
 *   Press releases: The Channel Marketing team does not have the responsibility to edit and approve partner press releases.  Please create a [Channel or Tech Partner Announcement issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=channel-partner-announcement-request) for coordination with the Corporate Communications/PR team
@@ -183,17 +179,22 @@ When requesting support from our team, we commit to responding to your [issue](h
 
 ## Meet the Team
 
-
-
 *   **David Duncan**: (aka Dunk) VP of Demand Generation & Partner Marketing
 *   **Coleen Greco**: (aka Greco) Director, Global Channel and Alliances Marketing
-        **Channel Marketing Team**
-         * **Karen Pourshadi**: Senior Channel Marketing Manager.  Karen will be focusing on partner content: enabling our partner marketing resources with major GitLab GTM initiatives and developing turnkey, integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/campaigns/#what-is-a-partner-instant-marketing-campaign) for GitLab channel partners. 
-         * **Sara Valko**: DMR Channel Marketing Manager.  Sara will be focusing on our DMR channel partners including but not limited to: CDW, SHI and Insight.  She will be partnering with them to develop integrated demand generation campaigns that drive net new logos for GitLab. 
-         * **Samara Souza**: Senior Partner Program Manager.  Samara will be focusing on creating new service offerings for our partners to leverage in their demand generation motions including but not limited to: Free trial syndication; case study development, MDF process, and much much more! 
-        **Alliances Marketing Team**
-         * **Lisa Rom**: Senior Alliances Marketing Manager.  Lisa will be focusing on supporting our alliances marketing initiatives
-         * **Lindsey Lopez**:  Alliances Marketing Manager.  Lindsey will be focusing on supporting our alliances marketing initiatives 
+       
+**Channel Marketing Team**
+        
+*   **Karen Pourshadi**: Senior Channel Marketing Manager, Karen will be focusing on partner content: enabling our partner marketing resources with major GitLab GTM initiatives and developing turnkey, integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/campaigns/#what-is-a-partner-instant-marketing-campaign) for GitLab channel partners. 
+        
+*   **Sara Valko**: DMR Channel Marketing Manager, Sara will be focusing on our DMR channel partners including but not limited to: CDW, SHI and Insight.  She will be partnering with them to develop integrated demand generation campaigns that drive net new logos for GitLab. 
+        
+*   **Samara Souza**: Senior Partner Program Manager, Samara will be focusing on creating new service offerings for our partners to leverage in their demand generation motions including but not limited to: Free trial syndication; case study development, MDF process, and much much more! 
+        
+**Alliances Marketing Team**
+        
+*   **Lisa Rom**: Senior Alliances Marketing Manager, Lisa will be focusing on supporting our alliances marketing initiatives
+        
+*   **Lindsey Lopez**:  Alliances Marketing Manager, Lindsey will be focusing on supporting our alliances marketing initiatives 
 
 
 
