@@ -255,6 +255,25 @@ Please follow the process outlined under [meeting request requirements](/handboo
 I'm always willing to record [video content](https://www.youtube.com/watch?v=Y310ksxsUoQ) for conferences I'm unable to attend.
 Email [my EBA](/handbook/eba/#executive-business-administrator-team) to coordinate the recording.
 
+## Home Office Setup
+People regularly ask what I use for my home office setup. Below is a list of the items I use:
+- Microphone: [Shure MV7](https://www.shure.com/en-US/products/microphones/mv7)
+- Boom Arm: [RODE PSA 1 Swivel Mount Studio Microphone Boom Arm](https://www.amazon.com/PSA-Swivel-Mount-Studio-Microphone/dp/B001D7UYBO/)
+- Camera: [Sony Alpha 7C Full-Frame Mirrorless Camera - Silver (ILCE7C/S)](https://www.amazon.com/Sony-Alpha-Full-Frame-Mirrorless-Camera/dp/B08HW132XW)
+- Camera Adapter: [Tengdaxing NP-FZ100 AC Power Supply Adapter](https://www.amazon.com/gp/product/B08NWR4R8J/)
+- Camera Holder: [Heron - 3FT Camera Mount with Desk Clamp](https://www.amazon.com/gp/product/B08BTW6W4N/)
+- Ports: [CalDigit ts3-plus](https://www.caldigit.com/ts3-plus/)
+- Desk: [Jarvis Laminate Standing Desk](https://www.fully.com/standing-desks/jarvis-adjustable-height-desk-laminate.html)
+- Laptop: [13-inch Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-apple-m1-chip-with-8-core-cpu-and-8-core-gpu-256gb)
+- Stand: [rain design mStand](https://www.raindesigninc.com/mstand.html)
+- Keyboard: [Apple Magic Keyboard](https://www.apple.com/shop/product/MK2C3LL/A/magic-keyboard-with-touch-id-and-numeric-keypad-for-mac-models-with-apple-silicon-us-english-white-keys?)
+- Mouse: [Microsoft Pro IntelliMouse](https://www.amazon.com/Microsoft-Pro-Intellimouse-Dark-Shadow/dp/B07RPBXBMV?th=1)
+- Monitor: [Apple Pro Display XDR](https://www.apple.com/shop/buy-mac/pro-display-xdr/standard-glass) and/or [LG Ultrafine 5K](https://www.apple.com/shop/product/HMUB2LL/A/lg-ultrafine-5k-display )
+- Light: [Elgato Keylight](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G/)
+- Green screen: I use a cloth one. Roll Down/up screens are a space saver but can be on the small side. Painting the room has mixed results because different surfaces reflect light different even with the same paint.
+
+Note: I have paid for all of these items myself. Please refer to [GitLab's expense policy](https://about.gitlab.com/handbook/finance/expenses/#-office-equipment-and-supplies) for office equipment and supplies when purchasing and expensing home office items. 
+
 ## CEO Voice
 When preparing scripts or documents in my voice, please follow these guidelines. This list can help you prepare a draft that is as close as possible to my natural way of communicating. For additional information or questions, please contact the `#external-comms` Slack channel or the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/).
 
