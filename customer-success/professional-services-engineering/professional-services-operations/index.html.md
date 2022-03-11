@@ -25,7 +25,7 @@ ___
 
 #### Who we are
 
-Internal Page Coming Soon! 
+[Internal Page](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-operations/-/wikis/home#link-professional-services-operations-useful-reference-pages) 
 
 ___
 
@@ -37,13 +37,32 @@ ___
 
 [The PS Opportunity has closed, whats next](/handbook/customer-success/professional-services-engineering/working-with/#scheduling-professional-services)
 
+If works is requeted to start prior to the opportunity booking, then the [WAR Process](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/project-mgmt/#work-at-risk) would need to be followed and approved.
+
+#### Customer Consulting Project Scheduling
+
+The consulting operations team has a [board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist) to track the scheduling progress of the consulting projects.  There is a [checklist](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/blob/master/.gitlab/issue_templates/pc-consulting-checklist.md) that is utlized to track the progress of each project as we work through Mavenlink project set up, project team assignment and partner paperwork. 
+
+#### Scheduling Request for Consulting Projects
+
+Before contacting the Operations team to discuss scheduling on a consulting project, the following criteria must be met:
+- SF Opportunity is at least a stage 5
+- Forecast category is Commit
+- PS Quote has been created on the opportunity
+- Skills pushed to the Customer Epic
+- [PC Checklist Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues?sort=updated_desc&state=opened) has been created and tracking on the [PC Consulting Board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/boards/3487648?label_name[]=pc-consulting-checklist) 
+
+For staffing requirements or questions, add the details to the PC Checklist Issue and tag the assigned Project Coordinator
+
+If there are further questions, or communications needed,  work with the assigned Project Coordinator in the PC Checklist Issue
+
 ##### Internal Project Scheduling
 
-If a Team Member would like to have time blocked on their schedule to allow time for non-customer project related items, certifications or ramp up,
+If a Team Member would like to have time blocked on their schedule to allow time for non-customer project related items, certifications, or ramp up,
 a request should be submitted via a comment and tag the PC on either Internal Projects:
 
 - PS Time Tracking Creditable
-- PS Time Tracking Non Creditable
+- PS Time Tracking Non-Creditable
 
 Comment should be added to the activity page to include the following:
 - Task
