@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/product-analytics-gtm/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | March 10, 2020 |
-| Target End Date | FY22-Q4 |
+| End Date | 2022-03-10 |
 | Slack           | [#wg-gtm-product-analytics](https://gitlab.slack.com/archives/C01BMJKC8UF) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1riUXq1GdavnSWJklrebBeZnzcAl6XATyLod9tR6-AlQ/edit) (only accessible from within the company) |
 | Quarterly Updates | [FY21-Q4](https://docs.google.com/presentation/d/1ydBmyP610IFfBBFTwyW-EFnsP3vyX86JJ3jiJoNPfwQ/edit#slide=id.p) [FY22-Q1](https://gitlab.com/groups/gitlab-com/-/epics/1294) [FY22-Q2 EOQ Review](https://docs.google.com/presentation/d/16jk3lQEkrHlOLBM_2r-AIWC34PaJQKIKEuATdKPfjDg/edit#slide=id.gdb5c16c7a1_2_0) |
@@ -85,3 +85,10 @@ For a more extensive resource, see [GTM Product Analytics: Status, Gaps and the 
 ## Meetings
 
 Meeting notes are logged in the [Weekly Meeting Notes](https://docs.google.com/document/d/1riUXq1GdavnSWJklrebBeZnzcAl6XATyLod9tR6-AlQ/edit).
+
+
+## Working Group Closure
+
+1. We've acheived our original exit criteria
+1. We've built a reliabile working model between Customer Success, Product & Engineering, and the Data team. We no longer need a formal working group to maintain progress
+1. Work on this initiative will continue via the [top 12 inititiaves](https://about.gitlab.com/company/team/structure/working-groups/#12-cross-functional-initiatives)
