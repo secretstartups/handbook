@@ -30,7 +30,7 @@ The [core data team](https://about.gitlab.com/handbook/business-technology/data-
 | [Self-Service & Online Sales](https://about.gitlab.com/handbook/sales/self-service/) | Alex Martin 
 | [Sales Analytics](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/) | Melia Vilain & Noel Figuera 
 | Customer Success Analytics | Michael Arntz 
-| Digital Experience | TBH 
+| Digital Experience | Dennis Charukulvanich  
 | People Analytics | Adrian Perez |
 | Core Data Team | Marcus Laanen |
 
