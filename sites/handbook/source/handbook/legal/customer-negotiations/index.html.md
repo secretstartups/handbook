@@ -75,10 +75,18 @@ For any other channel partner legal request, please follow the [standard legal r
 2. All Agreements require a GitLab Legal stamp in order to be executed. This stamp is placed by a Contract Manager when an executable version is reached. 
 3. Once the Agreement has been stamped by GitLab legal, follow the [DocuSign Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) to send the Agreement for signature within SFDC. **Note:** All Sales Team Members have Docusign access, please work with Sales Ops for any questions on how to use. 
 
-#### **Need an NDA signed?** Follow the process for [Team Members with Docusign access](https://about.gitlab.com/handbook/legal/NDA/) 
-
 **Additional Resources:**
-- Visit the [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) for helpful information
+- Visit [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) for helpful information.
+
+#### **Need an NDA signed?** Follow the process for [Team Members with Docusign access](https://about.gitlab.com/handbook/legal/NDA/). 
+
+### Letters of Authorization
+
+Visit the [Channel Operations page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#letters-of-authorization) to learn how partners can request a Letter of Authorization.
+
+**Legal Team Steps:**
+- Once the Channel Account Manager has approved the LOA, the Legal Team will receive an email via DocuSign to `loa@gitlab.com`.
+- The Legal Team will then follow the link to view the document, add the date and click “Approve” on the LOA to indicate that the information is correct and the partner is authorized, then click Finish to forward the signed LOA to the partner.
 
 ## Clear Export Review in SFDC
 1. See the [Visual Compliance Overview](https://docs.google.com/presentation/d/1hD1xgEyJL1U1eyvTci6NNlCdIur4PkB16GO52wjZRgk/edit#slide=id.g5dbc2f529a_0_41)
