@@ -184,7 +184,16 @@ You can create an incident on Status.io with minimal effort through Slack (provi
 
 ##### Slack (provided by Woodhouse)
 
-You simply need to issue `/incident post-statuspage` from anywhere on Slack. You will be presented with a pre-filled form that you can update to your liking. Once submitted, the incident will be broadcasted to all mediums (i.e., email, SMS, webhooks, twitter, etc).
+You simply need to issue `/incident post-statuspage` from anywhere on Slack. You will be presented with a pre-filled form that you can update to your liking. Once submitted, the incident will be broadcasted to the following media:
+
+- Email subscribers
+- Webhook subscribers
+- Slack subscribers
+- IRC (#gitlab on [Libera Chat](https://libera.chat))
+- MS Teams subscribers
+- [Twitter](https://twitter.com/gitlabstatus)
+- [RSS feed](https://status.gitlab.com/pages/5b36dc6502d06804c08349f7/rss)
+- [iCalendar](webcal://status.gitlab.com/pages/5b36dc6502d06804c08349f7/calendar/all.ics)
 
 ##### Manually
 
