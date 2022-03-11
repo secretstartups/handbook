@@ -345,7 +345,9 @@ The candidate should always be notified if they've been rejected. The talent acq
 
 Any time a candidate is rejected, the Talent Acquisition Team will notify them, as they will not automatically be notified if we reject them. When clicking the reject button on a candidate, Greenhouse will open a pop up where you can choose the appropriate rejection reason, as well as a rejection email template. Feel free to adjust the template per the [guidelines in the handbook](/handbook/hiring/interviewing/#rejecting-candidates). You can also select a time delay to send out the rejection email. Finally, you are also able to start a new prospect process for a candidate when rejecting them, in the event you want to reach out to them again in the future.
 
-If you want to consider a candidate for the future, the best practice is to archive them with the reason "Future Interest"; however, you can also start a prospect process when rejecting them so they are including in a pool of future interest candidates for the role, or you can simply add a follow-up reminder for yourself, the recruiter, and/or the coordinator to reach out to the candidate in a certain amount of time.
+In Greenhouse, we have compiled a list of reasons for candidate declines or rejections that will allow us to continuously iterate on and improve our hiring process.  Please choose your reasons thoughtfully with this goal in mind, and provide as much detail as possible in the notes--particularly when candidates have reached the offer stage.
+
+If you want to consider a candidate for the future, the best practice is to utilize candidate tags; however, you can also start a prospect process when rejecting them so they are including in a pool of future interest candidates for the role, or you can simply add a follow-up reminder for yourself, the recruiter, and/or the coordinator to reach out to the candidate in a certain amount of time.
 
 Please ensure that if candidates are rejected or remove themselves from the process that all further scheduled interviews are cancelled either through Greenhouse or through the Google Calendar "Interview Calendar" in order to remove the calendar event from Interviewers' calendars. Rejecting a candidate will not automatically remove the calendar event from an Interviewer's calendar.
 
@@ -380,6 +382,8 @@ Each role has similar stages, with various interviews within each stage. Below i
   - This stage is only added to roles that use questionnaires as part of the interview process. The assessment is done completely within Greenhouse, where the questions are added per job, the candidate submits their answers via a link in Greenhouse, and the graders review the answers in Greenhouse and leave a scorecard.
 - **Screening**
   - This stage has only the screening call, where the Talent Acquisition Team does an initial call with the candidate to review their experience, skills, and values-alignment.
+- **Evergreen**
+  - The "Evergreen" stage is utilized during Evergreen positions only, and encompasses some of the interviews that would typically take place in a team interview. They allow for seamless transferring of scorecards when the candidate moves into the official hiring req.
 - **Team Interview**
   - The "Team Interview" usually has several interviews within it, typically with the Hiring Manager, two peers, a director, and/or a panel interview.
 - **Executive Interview**
@@ -456,19 +460,21 @@ To change an existing section of approvals:
 
 For **requisition "Job" Approvals**, the approval chain is as follows:
 
-- Step 1: People Success Analyst (1 of 2 required)
-- Step 2: Finance Business Partner of the Division/Department (1 of 2 required)
+- Step 1: Total Rewards (1 of 3 required)
+- Step 2: Finance Business Partner of the Division/Department (1 of 2-4 required)
 - Step 3: Executive of Division/Department (1 required if multiple people are listed)
 
-For the **Official Job Approval** (a.k.a. *2-Stage Job Approvals*), please list the Finance Business Parnters again (1 of 2 required).
+For the **Official Job Approval** (a.k.a. *2-Stage Job Approvals*), please list the Finance Business Partners again (1 of 2 required).
 
 For **Offer Approvals**, the approval chain is as follows:
 
-- Step 1: People Success Analyst (1 of 2 required)
-- Step 2: Finance Business Partner of the Division/Department (1 of 2 required)
+- Step 1: Total Rewards (1 of 3 required)
+- Step 2: Finance Business Partner of the Division/Department (1 of 2-4 required)
 - Step 3: Executive of Division/Department (1 required if multiple people are listed)
 
 For **Director-level roles and above**, please add a **fourth step** and list the CEO and CPO (1 of 2 required).
+
+It is recommended that no stage has only 1 possible approver to eliminate bottlenecks.
 
 Delays at the **Offer Approval** stage can negatively impact our [time to hire](/handbook/hiring/metrics/#time-to-offer-accept-days) metric. To keep delays to a minimum, we ask for approvals to be completed within 24 hours of reaching the reviewer.
 
@@ -559,8 +565,3 @@ If you have a **Product Enhancement Request** or need to submit a **Support Tick
 
 
 =======
-
-[^fn1]:[Here is Why Employee Referrals are the Best Way to Hire](https://business.linkedin.com/talent-solutions/blog/2015/08/5-reasons-employee-referrals-are-the-best-way-to-hire)
-[^fn2]:[Why Employee Referrals are the Best Source of Hire](https://theundercoverrecruiter.com/infographic-employee-referrals-hire/)
-[^fn3]:[5 Reasons Employee Referrals are the Best Source of Hire](https://hr.sparkhire.com/best-hiring-practices/5-reasons-employee-referrals-are-the-best-source-of-hire/)
-[^fn4]:[4 Reasons Employee Referrals are Crucial to Your TA Strategy](https://www.smartrecruiters.com/blog/4-reasons-employee-referrals-are-important-to-your-ta-strategy/)
