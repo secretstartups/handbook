@@ -95,7 +95,7 @@ It's best practice to start a discussion where possible with a [Merge Request (M
 1. If any follow-up actions are required on the issue after the merge request is merged (like reporting back to any customers or writing documentation), avoid auto-closing the issue.
 1. If a project requires multiple approvals to accept your MR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
 1. If the MR involved gets a lot of comments, you can turn it into a [Manager Mention MR](/handbook/communication/index.html#scaling-merge-requests-through-manager-mention-mrs-formerly-consolidated-mrs).
-1. Consider recording a concise video or audio file outlining the merge request and uploading it to the GitLab [Unfiltered channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels) on YouTube. This will make content more accessible, prevent future confusion, allow for multitasking (e.g. cooking dinner and listening to the video), and increase participation for folks who digest audio information better than visual.
+1. Consider recording a concise video or audio file outlining the merge request and uploading it to the GitLab [Unfiltered channel](/handbook/marketing/marketing-operations/youtube/#channels) on YouTube. This will make content more accessible, prevent future confusion, allow for multitasking (e.g. cooking dinner and listening to the video), and increase participation for folks who digest audio information better than visual.
 
 ### Scaling Merge Requests through "Manager Mention MRs" (formerly Consolidated MRs)
 
@@ -189,7 +189,7 @@ To learn more on when to use asynchronous and synchronous communication, example
    1. It's not searchable.
    1. It's not shareable: there is no way to add people in the group (and this often leads to multiple groups creation).
    1. They don't have a subject, so everyone has to remember the topic of each private group based on the participants, or open the group again to read the content.
-   1. History is lost when leaving the group or [after 90 days](https://about.gitlab.com/handbook/communication/#slack).
+   1. History is lost when leaving the group or [after 90 days](/handbook/communication/#slack).
 1. It is perfectly fine to create a channel, even for a single customer meeting. These channels should be named "a\_<customer-name>-internal" to indicate their "internal" nature (not shared with customers).
 1. Use [low-context communications](https://en.wikipedia.org/wiki/High-context_and_low-context_cultures) by being explicit in your communications. We are a remote-only company, located all over the world. Provide as much context as possible to avoid confusion. Relatedly, we use [ubiquitous language](#ubiquitous-language) for communication efficiency.
 1. When discussing concepts, be careful not to lean too much into hypotheticals. There is a tipping point in which it decreases value and no longer becomes constructive at helping everyone come into a unified decision.
@@ -205,7 +205,7 @@ To learn more on when to use asynchronous and synchronous communication, example
 1. Remember Handbook First.
    When you announce anything, include links to the respective Handbook pages for more information. Consider adding link to an Issue if the information is not public yet.
 1. Optional AMA.
-   If desired and appropriate, offer a company wide Zoom call to host an AMA (Ask Me Anything). Oftentimes, questions can be managed within the Discussion tab of a GitLab Issue or Merge Request. For broad announcements, such as registration opening for GitLab Contribute, an AMA may be better suited for a large volume of inquiries. To schedule a company wide call, please make a request in the #people-connect Slack channel, and include a Google Doc in the invite for questions.
+   If desired and appropriate, offer a company wide Zoom call to host an AMA (Ask Me Anything). Oftentimes, questions can be managed within the Discussion tab of a GitLab Issue or Merge Request. For broad announcements, such as registration opening for GitLab Contribute, an AMA may be better suited for a large volume of inquiries. To schedule a company wide call, please make a request in the `#people-connect` Slack channel, and include a Google Doc in the invite for questions.
 
 ### Ask Me Anything meetings
 
@@ -219,7 +219,7 @@ While a designated person may be the primary person responsible for note-taking 
 
 Use discretion in taking notes if sensitive topics are being discussed. For example, do not takes notes on [not-public information](/handbook/communication/#not-public) if the agenda may be available to an audience who should not be privy to this information.
 
-If you have any questions about what may or may not be a sensitive topic, please refer to our SAFE Framework or reach out via the #safe Slack channel
+If you have any questions about what may or may not be a sensitive topic, please refer to our SAFE Framework or reach out via the `#safe` Slack channel
 
 ### Posting in #company-fyi
 
@@ -340,7 +340,7 @@ If something isn't listed in the sections below we should make it available exte
 
 ### Internal
 
-Some things are **internal**, available internally but not externally. In instances where a topic should only be accessible to team members, but we would otherwise have a page in the public handbook, it can be added to GitLab's [internal handbook](https://internal-handbook.gitlab.io/). [Background on the internal handbook](https://about.gitlab.com/handbook/handbook-usage/#the-internal-handbook) can be found in the public handbook. The following items are internal:
+Some things are **internal**, available internally but not externally. In instances where a topic should only be accessible to team members, but we would otherwise have a page in the public handbook, it can be added to GitLab's [internal handbook](https://internal-handbook.gitlab.io/). [Background on the internal handbook](/handbook/handbook-usage/#the-internal-handbook) can be found in the public handbook. The following items are internal:
 
 1. Security and [abuse](/handbook/engineering/security/security-operations/trustandsafety/#what-is-abuse) vulnerabilities are not public since they would allow attackers to compromise GitLab installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security and abuse implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
 1. Financial information, including revenue and costs for the company, is confidential because we are a public company and, as such, need to limit both the timing and content of financial information as investors will use and rely on it as they trade in GitLab stock. As the guideline, if it is a first step to constructing a profit, we need to keep it confidential. Examples include:
@@ -351,7 +351,7 @@ Some things are **internal**, available internally but not externally. In instan
    - Team member retention (analysts may make business assumptions based on this)
    - The Sales pipeline (but the Marketing pipeline can be public)
    - Net and gross retention KPIs. Only the actual numbers can't be public. Everything else--the goal, their calculation, etc.--can be.
-1. Please do not share outside of GitLab, any information related to the company's plans related to being a public company, its anticipated public offering, including sharing of the Form S-1 by linking to the document or otherwise, or the company's possible forward looking plans. All external communications should be in line with the company's [SAFE Guidelines](https://about.gitlab.com/handbook/legal/safe-framework/) and [Social Media Policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/). If you have any questions please reach out via the [#Safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
+1. Please do not share outside of GitLab, any information related to the company's plans related to being a public company, its anticipated public offering, including sharing of the Form S-1 by linking to the document or otherwise, or the company's possible forward looking plans. All external communications should be in line with the company's [SAFE Guidelines](/handbook/legal/safe-framework/) and [Social Media Policy](/handbook/marketing/team-member-social-media-policy/). If you have any questions please reach out via the [#Safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/accounting/#procure-to-pay).
 1. Content that would compromise a GitLab team member, customer, or user's personal data as defined by [GDPR](https://gdpr.eu/article-4-definitions/), unless explicit consent has been provided by the data owner. Examples of compromising content include a name, an identification number, location data, an online identifier, or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 1. Legal discussions are not public due to the purpose of Attorney-Client Privilege.
@@ -378,7 +378,7 @@ The items below are not shared with all team members. Limited access is a more s
 1. Some discussions on team process and policy changes. Some organizational policies are sensitive in nature and require thoughtful consideration before messaging the changes internally and externally. Relevant team members and leaders will be informed whenever possible. 
 1. Legal discussions are restricted to the purpose of Attorney-Client Privilege.
 1. Some information is kept confidential by the People Group to protect the privacy, safety, and security of team members and applicants, including: job applications, background check reports, reference checks, compensation, terminations details, demographic information (age and date of birth, family or marital status, national identification such as passport details or tax ID, required accommodations), home address. Whistleblower identity is likewise confidential. Performance improvement plans, disciplinary actions, as well as individual feedback are restricted as they may contain negative feedback and [negative feedback is 1-1](/handbook/values/#collaboration) between you and your manager. However, People Group policies and processes are public (for example, [Job families](/handbook/hiring/job-families/) and our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/)), along with information that team members choose to share on the [Team](/company/team/) page.
-1. Performance improvement plans, disciplinary actions, as well as individual feedback, are confidential as they contain private negative feedback and [negative feedback is 1-1](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#all-feedback) between team members and managers
+1. Performance improvement plans, disciplinary actions, as well as individual feedback, are confidential as they contain private negative feedback and [negative feedback is 1-1](/handbook/people-group/guidance-on-feedback/#all-feedback) between team members and managers
 1. GitLab's Risk Register is maintained by the [Risk & Field Security Team](handbook/engineering/security/security-assurance/field-security/). Access to GitLab’s Risk Register is limited to the Security Compliance Team, VP of Security, Executive Leadership and individually identified employees on a need to know basis. This document is not publicly or internally available as there may be risks on the risk register that explicitly call out the mechanisms available for external actors or internal GitLab team members to access content that would violate confidentiality for a GitLab team-member, customer, or user, and may include Personally Identifiable Information (PII).
 1. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive
 1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
@@ -504,7 +504,7 @@ Watch the replay below:
 
 ## Say thanks
 
-As we continue to build on [inclusion](https://about.gitlab.com/handbook/values/#diversity-inclusion), recognition is a key and transformative tactic. Thanking team members provides an opportunity for them to be recognized for their contributions, influences engagement behavior, and acknowledges to team members their work is seen. By saying thanks, you are contributing to and supporting the value of [DIB](https://about.gitlab.com/handbook/values/#diversity-inclusion).
+As we continue to build on [inclusion](/handbook/values/#diversity-inclusion), recognition is a key and transformative tactic. Thanking team members provides an opportunity for them to be recognized for their contributions, influences engagement behavior, and acknowledges to team members their work is seen. By saying thanks, you are contributing to and supporting the value of [DIB](/handbook/values/#diversity-inclusion).
 
 1. Thank people that did a great job in our `#thanks` Slack channel. Almost [everyone in the company is active in this channel](https://twitter.com/sytses/status/1100071442576633856) so please don't be shy.
 1. Consider other channels where recognition can be acknowledged: team meetings, issues, company calls, 1-1 meetings, etc.
@@ -635,7 +635,7 @@ _Using call attendance data along with feedback and suggestions provided by team
 
 ## Walk and Talk calls
 
-A Walk and Talk call is when team members step away from their computers and get outside for a meeting. The difference between a [coffee chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) and a Walk and Talk call is that a Walk and Talk call be held with people that you interact with frequently at GitLab. It could be social in nature or focused on a specific problem/topic that needs to be discussed. If it's a problem-solving focused discussion, the outcome should be captured in a merge request. It should not be used if the problem being discussed requires screen sharing or detailed note taking. There are great physical and mental health benefits to a walk and talk call. There are also benefits with [increased focus and creativity](https://www.quora.com/What-are-the-advantages-of-a-walking-1-1-meeting). A Walk and Talk can also help prevent [Zoom fatigue](https://news.northeastern.edu/2020/05/11/zoom-fatigue-is-real-heres-why-youre-feeling-it-and-what-you-can-do-about-it/).
+A Walk and Talk call is when team members step away from their computers and get outside for a meeting. The difference between a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) and a Walk and Talk call is that a Walk and Talk call be held with people that you interact with frequently at GitLab. It could be social in nature or focused on a specific problem/topic that needs to be discussed. If it's a problem-solving focused discussion, the outcome should be captured in a merge request. It should not be used if the problem being discussed requires screen sharing or detailed note taking. There are great physical and mental health benefits to a walk and talk call. There are also benefits with [increased focus and creativity](https://www.quora.com/What-are-the-advantages-of-a-walking-1-1-meeting). A Walk and Talk can also help prevent [Zoom fatigue](https://news.northeastern.edu/2020/05/11/zoom-fatigue-is-real-heres-why-youre-feeling-it-and-what-you-can-do-about-it/).
 
 The team members can use Zoom on their mobile device with the audio only function, or call one another from their preferred mobile device. A walk and talk call should be agreed to in advance to ensure that the local weather is compatible for a walk in both locations and that the walk and talk call fits into both team members’ schedules. We’ve created a Slack channel #walk-and-talk-meetings where, if you'd like, you can share pictures from your walking meetings.
 
@@ -666,14 +666,14 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 
 {: #random-room}
 
-1. The [#random](https://gitlab.slack.com/archives/random) Slack channel is your go-to place to share random ideas, pictures, articles, and more. It's a great channel to check out when you need a mental break.
+1. The `[#random](https://gitlab.slack.com/archives/random)` Slack channel is your go-to place to share random ideas, pictures, articles, and more. It's a great channel to check out when you need a mental break.
 
 ## Scheduling meetings
 
 1. If you want to ask GitLab team members if they are available for an event please send a calendar invite with Google Calendar using your Google GitLab account to their Google GitLab account. When you add a GitLab team member as a “Guest” in Google Calendar, you can click the See Guest Availability button to check availability and find a time on their calendar. These calendar invites will automatically show up on all parties calendars even when the email is not opened. It is an easier way to ensure everyone has visibility to the meeting and member’s status. Please respond quickly to invites so people can make necessary plans.
-1. Every scheduled meeting should either have a Google Presentation (for example for functional updates that don't require participation) or a Google Doc (for most meetings) linked. If it is a Google Doc it should have an agenda, including any preparation materials (can be a presentation). Put the agenda in a Google Doc that has edits rights for all participants (including people not part of GitLab Inc.). Link the Google Doc from the meeting invite. Take notes of the points and todos during the meeting. Nobody wants to write up a meeting after the fact and this helps to structure the thought process and everyone can contribute. Being able to structure conclusions and follow up actions in real-time makes a video call more effective than an in-person meeting. If it is important enough to schedule a meeting it is important enough to have a Doc linked. If we want to be on the same page we should be looking at that page.
+1. Every scheduled meeting should either have a Google Presentation (for example for functional updates that don't require participation) or a Google Doc (for most meetings) linked. If it is a Google Doc it should have an [agenda](https://docs.google.com/document/d/1eH-adpjfyo_RnlfbPvJ3i0e1Qb-aVoNc4yajnkZgJcU/edit#heading=h.6upuyp25d0wm), including any preparation materials (can be a presentation). For a step-by-step guide on GitLab meeting b est practices, visit our [Live Doc Meetings page](/company/culture/all-remote/live-doc-meetings/).
    - No agenda is required for [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats). Note that only meetings that are primarily social in nature should be labeled as a coffee chat in the calendar invite.
-   - A suggested format for team meetings agendas is: `New hire announcements, bonuses, promotions, and other celebrations`, `READ-ONLY`, and `Discussion items`, with numbered agenda items beneath each header.
+
    - A suggested format for 1:1 agendas can be found on the [1:1 leadership page](/handbook/leadership/1-1/).
 1. If you want to check if a team member is available for an outside meeting, create a calendar appointment and invite the team member only after they respond yes. Then invite outside people.
 1. When scheduling a call with multiple people, invite them using a Google Calendar that is your own, or one specific to the people joining, so the calendar item doesn't unnecessarily appear on other people's calendars.
@@ -686,7 +686,7 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
    - Stretch your legs
    - Grab a snack
 1. When scheduling a meeting, please try to have it start at :00 (hour) or :30 (mid-hour) to leave common start times available for other meetings on your attendees' calendars. Meetings should be for the time needed, so if you need 15 minutes just book that.
-1. When creating a calendar event that will be used company wide, [please place it on the GitLab Team Meetings Calendar](https://about.gitlab.com/handbook/tools-and-tips/#gitlab-team-meetings-calendar). That way the event is easily located by all individuals.
+1. When creating a calendar event that will be used company wide, [please place it on the GitLab Team Meetings Calendar](/handbook/tools-and-tips/#gitlab-team-meetings-calendar). That way the event is easily located by all individuals.
 1. When you need to cancel a meeting, make sure to delete/decline the meeting and choose the option **Delete & update guests** to make sure everyone knows you can't attend and don't wait for you.
 1. If you want to schedule a meeting with a person not on the team please use [Calendly](/handbook/tools-and-tips/other-apps/#calendly). Use Google Calendar directly if scheduling with a GitLab team member.
 1. **Materials Review** are scheduled as all day not busy events as a reminder three days before the scheduled call.
@@ -723,7 +723,7 @@ In this example, the introductions would be:
 
 ### Focus Fridays
 
-The goal of Focus Fridays is to maximize efficiency by creating designated meeting-free space within our weeks for focused work, which also aligns with our push to [operate asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/). Other benefits include reducing potential burnout, and being more thoughtful both in and about the meetings on the other days of the week. Guidance for Focus Fridays includes:
+The goal of Focus Fridays is to maximize efficiency by creating designated meeting-free space within our weeks for focused work, which also aligns with our push to [operate asynchronously](/company/culture/all-remote/asynchronous/). Other benefits include reducing potential burnout, and being more thoughtful both in and about the meetings on the other days of the week. Guidance for Focus Fridays includes:
 
 - Cancel or move any standing meetings occurring on Fridays.
 - Customer, prospect, partner and other external meetings are exceptions. You should not decline an external meeting citing Focus Fridays as the reason.
@@ -756,7 +756,7 @@ _I reassessed this meeting as part of [Meeting Cleanup Day](/handbook/communicat
 
 If you are a team member who intends to decline a meeting, the [asynchronous communication](/company/culture/all-remote/asynchronous/#how-to-decline-meetings-in-favor-of-async) section of the handbook has some good suggestions for what to say when you decline.
 
-Meeting Cleanup Day is intentionally a few weeks after the start of the new fiscal year. The CoS to the CEO will launch this initiative annually a week in advance through posting in the #company-fyi Slack channel.
+Meeting Cleanup Day is intentionally a few weeks after the start of the new fiscal year. The CoS to the CEO will launch this initiative annually a week in advance through posting in the `#company-fyi` Slack channel.
 
 ### Common meeting problems
 
@@ -1168,7 +1168,7 @@ This aligns with how we work since everything at GitLab is [public by default](/
 
 ## Email
 
-We have a low internal email culture, as we see greater efficiency in other forms of communication (e.g. slack). If you are emailing, please use the following guidelines:
+We have a low internal email culture, as we see greater efficiency in other forms of communication (e.g. Slack). If you are emailing, please use the following guidelines:
 
 1. Send one email per subject as multiple items in one email will cause delays (have to respond to everything) or misses (forgot one of the items).
 1. Always reply to emails by replying to all, even when no action is needed. This lets the other person know that you received it. A thread is done when there is a single word reply, such as OK, thanks, or done.
@@ -1323,7 +1323,7 @@ Building dedicated time into your day can help minimize the distractions that Sl
 
 ### General guidelines
 
-1. Everyone can contribute, and while opinions are important to provide perspective, we value [proposals](https://about.gitlab.com/handbook/values/#make-a-proposal) and [iteration](https://about.gitlab.com/handbook/values/#iteration). If the subject is of value to the wider community, consider commenting on an existing issue or opening a new [merge request](#everything-starts-with-a-merge-request) instead.
+1. Everyone can contribute, and while opinions are important to provide perspective, we value [proposals](/handbook/values/#make-a-proposal) and [iteration](/handbook/values/#iteration). If the subject is of value to the wider community, consider commenting on an existing issue or opening a new [merge request](#everything-starts-with-a-merge-request) instead.
 1. Use the `:white_check_mark:` emoji or similar to indicate an inquiry has been answered. Anyone can add the emoji. If you're not sure, then feel free to leave it up to the person who asked. An emoji indicator is particularly helpful in channels where lots of questions are posted, such as `#questions`, and `#git-help`.
 1. In general, you can think of emoji reactions as equivalent to body-language responses we use in real-life conversations, such as nodding your head as encouragement when a verbal (or in Slack, written) response might be too much.
 1. In public channels, [threads](https://get.slack.help/hc/en-us/articles/115000769927-Message-threads) are valuable for keeping conversations together. If you want to respond to a question or comment in a channel, please start a thread instead of responding below them in the channel. This helps to keep the discussion in one place where it is easy to follow, and reduces noise as each message in a thread does not result in an unread message for everyone in the channel.
@@ -1411,7 +1411,7 @@ Examples of instances where GitLab may need to use this feature may include, but
 
 #### Are my direct messages and private channel conversations completely private?
 
-No. The Slack Workspace Owner has the ability to export data from all direct messages and private channel conversations for the maximum retention period set by GitLab, which is currently set for 90-days. All messages that are older than 90-days cannot be exported by the Workspace Owner or any other Team Member at GitLab. While messages are not actively monitored, GitLab reserves the right to monitor its software for the reasons stated in its [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/), including, but not limited to, the safety and protection of our Team Members, the protection of our intellectual property, and the exercise or defense of legal claims.  
+No. The Slack Workspace Owner has the ability to export data from all direct messages and private channel conversations for the maximum retention period set by GitLab, which is currently set for 90-days. All messages that are older than 90-days cannot be exported by the Workspace Owner or any other Team Member at GitLab. While messages are not actively monitored, GitLab reserves the right to monitor its software for the reasons stated in its [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/), including, but not limited to, the safety and protection of our Team Members, the protection of our intellectual property, and the exercise or defense of legal claims.  
 
 Please keep [GitLab values](/handbook/values/) in mind when communicating directly with other team members.
 If you have a confidential personal issue that you do not feel comfortable discussing via a business-provided internal communications tool, it is recommended to use a personal form of communication such as a text message or phone call.
