@@ -194,6 +194,7 @@ The queue should not be used for the following:
   [education program](https://about.gitlab.com/solutions/education/)
 * Requests related to the
   [open source program](https://about.gitlab.com/solutions/open-source/join/)
+  
 ## Useful links
 
 ### Product documentation
