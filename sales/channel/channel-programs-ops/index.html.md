@@ -641,7 +641,7 @@ Numbers/target achievement
 
 Complete process for submitting an MDF proposal request for funds and detailed instructions regarding the approval and claim process can be found in the [Channel Partner Handbook under MDF.](https://about.gitlab.com/handbook/resellers/#requesting-market-development-funds---mdf)
 
-Select and Open Partners are able to submit MDF requests via the Marketing Page in the Partner Portal. Partners should be reviewing plans with you prior to submitting an MDF request in the Portal to ensure you are aligned with the proposal.
+Select Partners are able to submit MDF requests via the Marketing Page in the Partner Portal. Partners should be reviewing plans with you prior to submitting an MDF request in the Portal to ensure you are aligned with the proposal.
 
 Partner Logos may be accessed in GitLab Partner Portal in the Asset Library under Marketing. Logos are segmented so only authorized Select Partners have access to the Select Logo.
 
