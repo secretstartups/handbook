@@ -15,12 +15,11 @@ description: >-
 
 The Global Content team is responsible for generating content growing GitLab's website traffic and share of voice.
 
-Global Content is part of the [Corporate Marketing department](https://about.gitlab.com/handbook/marketing/corporate-marketing/), and has four (4) teams:
+Global Content is part of the [Corporate Marketing department](/handbook/marketing/corporate-marketing/), and has three (3) teams:
 
 - [Content Marketing](/handbook/marketing/inbound-marketing/content/content-marketing/)
-- [Digital Production](/handbook/marketing/inbound-marketing/content/digital-production/)
 - [Editorial](/handbook/marketing/inbound-marketing/content/editorial-team/)
-- [Search Marketing](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/)
+- [Search Marketing](/handbook/marketing/inbound-marketing/search-marketing/)
 
 ## Slack Channels
 
@@ -59,25 +58,9 @@ You can view the [editorial calendar](https://calendar.google.com/calendar/u/0?c
 
 ## Goals & Key Deliverables
 
-Global Content supports GitLab's overall revenue growth and company goals with our contributions to achieving the Inbound Marketing KPIs and OKRs
+Global Content supports GitLab's overall revenue growth and company goals, laddering to CMO OKRs each quartner.
 
-### Increasing GitLab.com website traffic 20% YoY
-
-1. Publishing search optimized content to the GitLab blog.
-1. Publishing search optimized topic pages and web articles to the GitLab marketing website.
-1. Publishing video content to attract visitors.
-1. Publishing links to our marketing site from YouTube videos.
-
-### Delivering inbound MQLs
-
-1. Publishing gated content like eBooks, whitepapers, and research reports.
-1. Supporting integrated campaigns with content journey maps, nurture emails, and supplementary content.
-1. Copyediting and optimizing website content for conversions.
-
-### Increasing conversions of free GitLab.com users to paying customers
-
-1. Publishing content that helps users understand how to get the most out of GitLab.
-1. Supporting the Growth Product team with content for product trials and in-app messaging.
+- [Q1FY23 Global Content OKRs](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2672) [active]
 
 ## Content Strategy
 
@@ -102,12 +85,37 @@ We accomplish this through:
 
 All content should have a distribution strategy. It's generally better to have fewer pieces of content with solid distribution plans, rather than more content with lackluster distribution plans. Before a piece of content moves into production, consider the below.
 
-1. When, how, and where will this content be distributed beyond its initial home? Build a plan for each piece of content for where it will be distributed. Distribution inspiration can be found from [this Twitter thread](https://twitter.com/TheCoolestCool/status/1228010347690385410) from Ross Simmonds of Foundation. 
+**When, how, and where will this content be distributed beyond its initial home?** Content DRIs are expected to build a plan for each piece of content for where it will be distributed. Potential answers to this include: 
+1. [PathFactory](/handbook/marketing/marketing-operations/pathfactory/) tracks shared by Campaign Managers (`#marketing-campaigns` Slack channel)
+1. Social media (see below)
+1. In the news media/press (see below)
+1. Within communities such as Reddit, Hacker News, etc.
+1. On your personal social media accounts
+1. On podcasts
+1. On webinars
+1. And beyond!
+
+### Building a distribution plan
+
+Aim for [a boring solution](/handbook/values/#boring-solutions). 
+
+1. Create an issue in the Corporate Marketing project to request consideration from our Corporate Communications (and PR agency partners). Create this issue as soon as you aware that an asset will exist, even if it's months in advance. This provides maximum runway for our communication partners to plan and amplify your content. Even if you're unsure if an asset is pitchable, create the issue and share in the `#external-comms` Slack channel. It is better to be told that an asset does not fit into a communications plan than to not share. 
+
+   - [This is an example of a PR/comms request issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/5533) (*only accessible to GitLab team members*). It achieves three core things.
+
+      - Provides context on the content/asset
+      - Provides an expected launch date
+      - Provides a clear ask and starts a conversation to determine if the asset is pitchable and/or fits into upcoming PR plans and pitch strategies
+
+2. Create an issue in the Corporate Marketing project to request consideration from our Social Marketing team. Follow the [step-by-step guide](/handbook/marketing/corporate-marketing/social-marketing/admin/#requesting-social-promotion-) in the team's handbook. [This is an example of a social marketing request issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/6051) (*only accessible to GitLab team members*). Even if you're unsure if an asset is suitable for social media, create the issue and share in the `#social_media_action` Slack channel. It is better to be told that an asset does not fit into a social media plan than to not share. 
+
+Distribution inspiration can be found from [this Twitter thread](https://twitter.com/TheCoolestCool/status/1228010347690385410) from Ross Simmonds of Foundation. 
+
    * This can include Twitter threads, LinkedIn shares, Instagram stories, and [team member social media advocacy/enablement](/handbook/marketing/corporate-marketing/social-marketing/team-member-social-advocacy/).
    * Document forums and communities where this content will be shared, and from whom.
    * Document newsletters and events where this content may be submitted for syndication and resharing. 
-   
-1. Can this content be pitched to media outlets? GitLab's [Corporate Communications team](/handbook/marketing/corporate-marketing/corporate-communications/) (via `external-comms` Slack channel) can provide guidance on if a piece of content is suitable for pitching, or inclusion as part of a broader pitch campaign.
+
+## Teams
 
 ### Blog
 
@@ -134,16 +142,9 @@ Areas of focus:
 - Work with content gap analysis to continue to create content accordingly.
 - Create topics pages and web articles to coincide with product marketing use cases.
 
-### [Digital Production](/handbook/marketing/inbound-marketing/content/digital-production/)
+### Search Marketing
 
-- Launch GitLab.tv with designated channels, including events, commuunity, product, and all-remote
-- Launch a GitLab branded podcast
-- Support AV-related needs and promos for corporate events
-- Launch GitLab web series curating content from the Unfiltered channel
-
-### Website
-
-Detail our plan & roadmap for content creation. Link to the CM handbook. Include plans to place/distribute content on the site.
+The Search Marketing team focuses on helping grow revenue for GitLab by increasing traffic to GitLab public websites and improving conversion paths for visitors to become MQLs (Marketing Qualified Leads). More detail is within the [Search Marketing handbook](/handbook/marketing/inbound-marketing/search-marketing/).
 
 ## Communication Overview
 
@@ -263,8 +264,9 @@ In general, collateral and content designed to reach prospects in this stage of 
 
 ## Content library
 
-Content is stored in PathFactory. To request access to PathFactory, submit an access request form.
+Content is stored in [PathFactory](/handbook/marketing/marketing-operations/pathfactory/). To request access to PathFactory, submit an access request form.
 
 The content library in PathFactory can be filtered by content type, funnel stage, and topic. Topics are listed and defined in the [marketing operations](/handbook/marketing/marketing-operations/pathfactory/).
 
-Published content should be shared to the #content-updates channel and added to PathFactory with the appropriate tags.
+Published content should be shared to the `#content-updates` channel and added to PathFactory with the appropriate tags.
+
