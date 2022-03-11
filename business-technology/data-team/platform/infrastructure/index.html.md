@@ -754,7 +754,7 @@ Then the task was enabled by running `alter task DEMANDBASE_ACCOUNT_LOAD_TASK re
 
 ### Thanos Load Tasks
 
-There is a process setup as part of [this issue](https://gitlab.com/gitlab-data/analytics/-/issues/7713) that pulls thanos metrics daily and writes them to a GCS bucket.
+There is a process setup as part of [this issue](https://gitlab.com/gitlab-data/analytics/-/issues/7713) that pulls thanos metrics daily and writes them to a [GCS bucket called `periodic-queries`](https://console.cloud.google.com/storage/browser/periodic-queries;tab=objects?pli=1&prefix=&forceOnObjectsSortingFiltering=false).
 
 To pull the metrics into Snowflake from GCS, a stage was created:
 
