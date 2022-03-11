@@ -46,6 +46,14 @@ While the above example shows the SLI as a latency measurement, it is important 
 
 GitLab's current implementation of Error Budgets is only using some of the above sophistication of SLOs and Error Budgets, but as we continue with the roadmap we look to incorporate more into our approach. Additionally, it is expected that the practices of SLOs and Error Budgets evolve to have **_both_** the objective and the SLI vary (appropriately) based on the criticality of the service as well as the resiliency of other services and components which depend on it.
 
+## Which types of errors are included?
+
+Web requests that result in a `500` status code error are counted. In Sidekiq, jobs that fail due to an unhandled exception are counted. 
+
+If a group has [custom SLIs](https://docs.gitlab.com/ee/development/application_slis), or there's an SLI with a fixed feature category configured in our [metrics catalog](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog), then those errors will also be counted.
+
+Engineers can use `Gitlab::ErrorTracking.track_exception`, or other logging, freely without affecting the error budget.
+
 ## Why are we using error budgets?
 
 GitLab is a complex system that needs to be delivered as a highly available SaaS platform. Over the years, several processes have been introduced to address some of the challenges of maintaining feature delivery velocity while ensuring that the SaaS reliability continues to increase.
