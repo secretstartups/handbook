@@ -16,6 +16,8 @@ As the [Communications Manager on Call (CMOC)](/handbook/engineering/infrastruct
 
 Our Slack bot [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) provides a command (`/incident post-statuspage`) to quickly spin up an incident on [Status.io](https://status.io). From there, the basics of how to update and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. This document covers how GitLab specifically uses Status.io to perform those tasks.
 
+The CMOC plays a key role in crisis management. GitLab's [crisis process](https://internal-handbook.gitlab.io/crisis-process) can be found in the internal handbook. 
+
 ## Things to Know
 
 Before getting started, take note of the following sections or to get straight into the workflow start at [Incident Management](#incident-management).
