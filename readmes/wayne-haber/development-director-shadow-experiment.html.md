@@ -61,6 +61,7 @@ I am experimenting for a couple of quarters with a smaller scope and smaller-sca
 * Review the roles of those with who Wayne will be meeting in order to have more context.
 * If you don't have access to a document and the meeting participants are ok with allowing you to view it (which I will confirm), I will share my screen via Google Hangouts or grant you temporary access to the document.
 * You are encouraged to take notes in meeting documents.  The purpose of taking notes is to collect main points and outcomes, not to record a transcript of the conversation.
+* You are encouraged to notify the participants about the remaining time 5 minutes before the end of the call during the non-group meetings.
 * A meeting attendee may ask you to drop from the meeting before something confidential is covered.
 * Feel free to ask me questions via Slack in `#wayne_shadow_program`, after a meeting concludes, via scheduling a meeting with me, or via an ad-hoc Zoom discussion.
 * Review my [GitLab history](https://gitlab.com/whaber) and Slack messages I have written in public channels.
