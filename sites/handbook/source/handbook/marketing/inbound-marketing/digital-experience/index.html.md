@@ -95,6 +95,7 @@ We drive continual improvement to GitLab’s user journeys and conversion funnel
 | [**Javier Garcia**](https://about.gitlab.com/company/team/#jgarc) | Frontend Engineer | - Email: [jgarcia@gitlab.com](mailto:jgarcia@gitlab.com)<br>- GitLab: [@jgarc](https://gitlab.com/jgarc257)<br>- Slack: @Javi |
 | [**Megan Filo**](https://about.gitlab.com/company/team/#meganfilo) | Frontend Engineer | - Email: [mfilo@gitlab.com](mailto:mfilo@gitlab.com)<br>- GitLab: [@meganfilo](https://gitlab.com/meganfilo)<br>- Slack: @Megan Filo<br>- ReadMe: [megan-filo](https://gitlab.com/meganfilo/meganfilo/-/blob/main/README.md) |
 | [**Miguel Duque**](https://about.gitlab.com/company/team/#mduque-ext) | Frontend Engineer (Contract) | - Email: [mduque-ext@gitlab.com](mailto:mduque-ext@gitlab.com)<br>- GitLab: [@mduque-ext](https://gitlab.com/mduque-ext)<br>-  Slack: @Miguel Duque |
+| [**Dennis Charukulvanich**](https://about.gitlab.com/company/team/#dennischarukulvanich) | Digital Experience Analyst | - Email: [dcharukulvanich@gitlab.com](mailto:dcharukulvanich@gitlab.com)<br>- GitLab: [@dennischarukulvanich](https://gitlab.com/dennischarukulvanich)<br>-  Slack: @Dennis Charukulvanich |
 
 ## Metrics
 
