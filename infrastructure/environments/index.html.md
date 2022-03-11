@@ -80,9 +80,9 @@ At this time it includes:
 
 ### Production
 
-| **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
+| **Name** | **Short Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
 | ---- | --- | ------- | ------ | -------- | --------------- |
-| Production | [gitlab.com](https://gitlab.com/) | Production | Release Candidate | Production | Production team |
+| Production | `gprd` | [gitlab.com](https://gitlab.com/) | Production | Release Candidate | Production | Production team |
 
 Production will be full scale and size with the ability to have a canary deploy. Production has limited access.
 It consists of two stages:
@@ -90,11 +90,23 @@ It consists of two stages:
 - The canary stage is a subset of infrastructure that reaches a limited number of members of the community. We deploy to this stage first. For more information see [canary testing](/handbook/engineering/#canary-testing).
 - The main stage serves the remaining traffic for the wider GitLab community.
 
+### Production-Canary
+
+| **Name** | **Short Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
+| ---- | --- | ------- | ------ | -------- | --------------- |
+| Production-Canary | `gprd-cny` | [gitlab.com](https://gitlab.com/) | Canary for Production | Release Candidate | Production | Production team |
+
+Production-Canary is a environment subset or deployment "stage" in the Production environment, sharing most of the same infrastructure as Production. This additional stage is designed to assist us with rolling out new releases to end users in a more controlled fashion, hoping
+to catch issues affecting users in a way that minimises impact.
+
+Information on how to access production-canary, use it, and what services it covers is documented in our [handbook page
+on canary stage environments](/handbook/engineering/infrastructure/environments/canary-stage/).
+
 ### Staging
 
-| **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
+| **Name** | **Short Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
 | ---- | --- | ------- | ------ | -------- | --------------- |
-| Staging | [staging.gitlab.com](https://staging.gitlab.com/users/sign_in) | Pre-production testing | Frequently | [Pseudonymization of prod](https://en.wikipedia.org/wiki/Pseudonymization) | all engineers |
+| Staging | `gstg` | [staging.gitlab.com](https://staging.gitlab.com/users/sign_in) | Pre-production testing | Frequently | [Pseudonymization of prod](https://en.wikipedia.org/wiki/Pseudonymization) | all engineers |
 
 Staging has the same topology as Production and includes the same components, since they share the same [terraform configuration](https://gitlab.com/gitlab-com/gitlab-com-infrastructure/-/tree/master/environments/gstg).
 
@@ -106,26 +118,19 @@ If you need an account to test QA issues assigned to you on Staging, you may alr
 
 ### Staging-Canary
 
-| **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
+| **Name** | **Short Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
 | ---- | --- | ------- | ------ | -------- | --------------- |
-| Staging-Canary | [canary.staging.gitlab.com](https://canary.staging.gitlab.com/users/sign_in) | Pre-production testing | Frequently | [Pseudonymization of prod](https://en.wikipedia.org/wiki/Pseudonymization) | all engineers |
+| Staging-Canary | `gstg-cny` | [staging.gitlab.com](https://staging.gitlab.com/users/sign_in) | Pre-production testing | Frequently | [Pseudonymization of prod](https://en.wikipedia.org/wiki/Pseudonymization) | all engineers |
 
-Staging-Canary is a subset of infrastructure of Staging, sharing many of its components. This additional environment subset is designed to assist us with capturing issues arising due to mixed deployments, where we have multiple versions of one or more components of GitLab that share services such as the database.
+Staging-Canary is an environment subset or deployment "stage" in the Staging environment, sharing most of the same infrastructure as Staging. This additional stage is designed to assist us with capturing issues arising due to mixed deployments, where we have multiple versions of one or more components of GitLab that share services such as the database. Information on how to access it, use it, and what services it covers is documented in our [handbook page
+on canary stage environments](/handbook/engineering/infrastructure/environments/canary-stage/).
 
 Staging-Canary deployments precede Staging deployments as described in [releases](/handbook/engineering/releases), with deployments occuring with the same frequency of Staging. It is important to note that there are two sets of blocking `smoke` and `reliable` QA tests that are executed on deployment. One set of tests targets Staging-Canary specifically. The other set targets Staging. **Both sets of tests must pass** for the Staging-Canary deployment to succeed. This is designed specifically to help flush out issues that occur from mixed version deployment environments. You can determine which environment tests are failing in by examining the Downstream QA pipelines.
-
-Accessing Staging-Canary can be accomplished in two ways:
-
-- Using the subdomain [canary.staging.gitlab.com](https://canary.staging.gitlab.com/users/sign_in)
-- Using the subdomain [staging.gitlab.com](https://staging.gitlab.com/users/sign_in) _**with the addition**_ of setting a `gitlab_canary=true` cookie. When the cookie exists, traffic will be routed to canary.staging.gitlab.com. This is the same cookie a user can set by visiting [next.gitlab.com](https://next.gitlab.com).
-
-If you have access to Staging, you should have access to Staging-Canary. Follow the same process for requesting access as listed in [Staging](/handbook/engineering/infrastructure/environments/index.html#staging)
-
 ### Staging Ref
 
-| **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
+| **Name** | **Short Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
 | ---- | --- | ------- | ------ | -------- | --------------- |
-| Staging Ref | [staging-ref.gitlab.com](https://staging-ref.gitlab.com/users/sign_in) | Pre-production testing | Frequently | Separate and local | all engineers |
+| Staging Ref | `gstg-ref` | [staging-ref.gitlab.com](https://staging-ref.gitlab.com/users/sign_in) | Pre-production testing | Frequently | Separate and local | all engineers |
 
 Staging Ref is a sandbox environment used for pre-production testing of the latest Staging Canary code. It is a [10k Cloud Native Hybrid Reference Architecture](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative) environment. Staging Ref is being deployed in parallel with [Staging Canary](#staging) using [Deployer](https://ops.gitlab.net/gitlab-com/gl-infra/deployer) and [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit). The environment can be destroyed and rebuilt automatically if needed. Initial test data is being populated during deployment. Refer to [Staging Ref](https://about.gitlab.com/handbook/engineering/infrastructure/environments/staging-ref) documentation to learn more.
 
@@ -133,9 +138,9 @@ If you need an account to test QA issues assigned to you on Staging Ref, you can
 
 ### Pre
 
-| **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
+| **Name** | **Short Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
 | ---- | --- | ------- | ------ | -------- | --------------- |
-| pre | pre.gitlab.com | GitLab.com pre | Release candidates | Separate and local | SREs |
+| pre | `pre` | pre.gitlab.com | GitLab.com pre | Release candidates | Separate and local | SREs |
 
 The pre environment is an environment used for validating release candidates used to prepare final self-managed releases and production patches. It does not have a full production HA topology or a
 copy of the production database.
