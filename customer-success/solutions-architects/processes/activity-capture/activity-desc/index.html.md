@@ -89,11 +89,11 @@ Select these [SA] Activity types when capturing activities by the Alliance/Chann
 
 - **Partner Technical Evangelism** [Alliances][Channel] - Partner marketing events and evangelism, including conferences, meetups, webinars, open-invite bootcamps, blogs and customer success stories.
 
-- **Partner Cadence calls** [Channel][Alliances] - Cadence calls with partners for partnership building and pre sales activities on customer opportunities and account strategy.  
+- **Partner Cadence calls** [Alliances][Channel] - Cadence calls with partners for partnership building and pre sales activities on customer opportunities and account strategy.  
 
-- **Partner Solutioning** [Alliances] - Solution architecture work for defining and developing partner solutions and integration with GitLab.
+- **Partner Solutioning** [Alliances][Channel] - Solution architecture work for defining and developing partner solutions and integration with GitLab.
 
-- **Internal Enablement and SME Assistance [Alliances]** - Calls, meetings, webinars for internal field SA enablement and assistance.  
+- **Internal Enablement and SME Assistance** [Alliances][Channel] - Calls, meetings, webinars for internal field SA enablement and assistance.  
 
 ### Description for Value Stream Assessment
 
