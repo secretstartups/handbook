@@ -16,8 +16,8 @@ each club has a suggested audience to indicate roles to which the content is tai
 * [Development](/handbook/engineering/development/#books)
 
 To propose a new book club, [create an
-issue](https://gitlab.com/gitlab-com/book-clubs/issues/new) in the [book
-clubs project](https://gitlab.com/gitlab-com/book-clubs).
+issue](https://gitlab.com/gitlab-com/books-clubs/combined-book-clubs/-/issues/new) in the [book
+clubs project](https://gitlab.com/gitlab-com/books-clubs/combined-book-clubs/). Individual book clubs which need a dedicated project can create on in the [book-clubs group](https://gitlab.com/gitlab-com/books-clubs) ([example](https://gitlab.com/gitlab-com/books-clubs/bookclub-hands-on-machine-learning)). 
 
 ## Better Onboarding
 
@@ -25,7 +25,7 @@ clubs project](https://gitlab.com/gitlab-com/book-clubs).
 * Time: 02:00 PM UTC
 * [Zoom](https://gitlab.zoom.us/j/99228304969) (password is in the calendar event info)
 * [Meeting agenda](https://docs.google.com/document/d/1BlNlGZb6kJPxUKNmJrJtQLvQxHsQx3WSpxSLUyc56FA/edit#)
-* [Discussion issue](https://gitlab.com/gitlab-com/book-clubs/-/issues/27)
+* [Discussion issue](https://gitlab.com/gitlab-com/book-clubs/combined-book-clubs/-/issues/27)
 * [Recording Session 1](https://drive.google.com/drive/folders/1Evt0ex97k8ZJMqH10WSMb6z1LqNTDPFE?usp=sharing)
 * [Recording Session 2](https://drive.google.com/drive/folders/1cbtczvk30BDSzdbrByqdB8ETAz3avKOs?usp=sharing)
 * Suggested audience: Growth, Product, Product Design and Development
@@ -45,7 +45,7 @@ clubs project](https://gitlab.com/gitlab-com/book-clubs).
 * Time: EMEA 14:00 UTC, AMER/APAC 23:00 UTC
 * [Zoom EMEA](https://gitlab.zoom.us/j/99123637556), [Zoom AMER/APAC](https://gitlab.zoom.us/j/91894125368) (password is in the calendar event info)
 * [Meeting agenda](https://docs.google.com/document/d/18Ekce5kFaEdAvY9OMRETmp8ukCmhhQqRjpbN9N0ssmk/)
-* [Discussion issue](https://gitlab.com/gitlab-com/book-clubs/-/issues/15)
+* [Discussion issue](https://gitlab.com/gitlab-com/book-clubs/combined-book-clubs/-/issues/15)
 * Suggested audience: engineering
 
 ## Software Engineering at Google
@@ -54,7 +54,7 @@ clubs project](https://gitlab.com/gitlab-com/book-clubs).
 * Time: 21:30 UTC
 * [Zoom](https://gitlab.zoom.us/j/93189804434)
 * [Meeting agenda](https://docs.google.com/document/d/1zh4YCCTs-g_gUYPC8Wv9x-dyBS9_vgEZY222bTgR-8E/)
-* [Discussion issue](https://gitlab.com/gitlab-com/book-clubs/-/issues/10)
+* [Discussion issue](https://gitlab.com/gitlab-com/book-clubs/combined-book-clubs/-/issues/10)
 * Suggested audience: engineering management
 
 ## The Principles of Product Development Flow
@@ -63,7 +63,7 @@ clubs project](https://gitlab.com/gitlab-com/book-clubs).
 * Time: 11:30 Pacific Time
 * [Zoom](https://gitlab.zoom.us/j/677129986)
 * [Meeting agenda](https://docs.google.com/document/d/167NRxaU0n-d0zybSeXuuNBC4Zz8wVksaw8isUiPwhHQ/edit?usp=sharing)
-* [Discussion issue](https://gitlab.com/gitlab-com/book-clubs/issues/5)
+* [Discussion issue](https://gitlab.com/gitlab-com/book-clubs/combined-book-clubs/issues/5)
 * Suggested audience: engineering management
 
 ## High Output Management
@@ -72,7 +72,7 @@ clubs project](https://gitlab.com/gitlab-com/book-clubs).
 * Time: 7:30 Pacific Time (one hour before the company call)
 * [Zoom](https://gitlab.zoom.us/j/544984602)
 * [Meeting agenda](https://docs.google.com/document/d/1gQZahLk2LYDbYAb4TeYqNOQbF8f6MrCaATLyPTzRONY/edit)
-* [Discussion issue](https://gitlab.com/gitlab-com/book-clubs/issues/3)
+* [Discussion issue](https://gitlab.com/gitlab-com/book-clubs/combined-book-clubs/issues/3)
 * [Recordings](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp_xR7vrRiGu7URKiUmN8m3)
 * Suggested audience: people managers
 
