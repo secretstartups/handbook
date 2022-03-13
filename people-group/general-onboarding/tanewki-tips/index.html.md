@@ -184,6 +184,12 @@ A: Once the board approves your grant, you will receive an email to create your 
 
 A: You will receive the dollar figure listed on your contract, however the number of RSUs will be dependent upon the share price at the board meeting your grant is approved at.
 
+**Q: Where can I find information about ESPP (Employee Stock Purchase Program)?**
+
+A: At this time, there is not a handbook page regarding ESPP. Once you have started and have access to GitLab documents, you will be able to view the below documents (locked to be internally facing only) that have all the information about ESPP.
+   - [ESPP FAQ](https://docs.google.com/document/d/1Be1gz-_iGGNjuOku7N4ipnEFhGLfbxOZp68PEcoXUYU/edit)
+   - [ESPP Training Deck](https://docs.google.com/presentation/d/1X_IcuK8ORiQg_nsi1km6c9_Ewbv5FD1bdnO06C-snV8/edit#slide=id.gb84b7497fb_0_24)
+   - [ESPP AMA](https://docs.google.com/document/d/1ELjTI_X29KKpmO1AuI8IMXW8oNqnKexy2jRs8T-SiLE/edit#)
 
 ### Access
 **Q: I received an email from Okta about access, do I need to do anything with it?**
