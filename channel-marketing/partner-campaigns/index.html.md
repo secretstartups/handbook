@@ -19,6 +19,8 @@ This page is to walkthrough the tehcnical setup of different partner campaign ty
 ## Email Management
 When a lead is passed to a partner, they will be suspended from GitLab marketing unless they opt-in specifically to GitLab marketing after being passed, or the partner returns the lead to GitLab. Read more on the [email management page](/handbook/marketing/marketing-operations/email-management/#partners-and-email-communication). 
 
+Keep in mind, they will still be eligible for `operational` email sends - which includes most follow up emails. If you want to exclude them, you will need to add a parameter to the smart list of that send campaign to say `Prospect Share Status` not equal to `Pending, Sending to Partner, Accepted`
+
 ## Partner CRM Ids
 For a running list of partners and their CRM Ids, which is critical to the processes below, [click here](https://docs.google.com/spreadsheets/d/1VGWbbxyjclAopwO_e3JnYZtXysPQ1-UIUt8uBZRXLyE/edit?usp=sharing).
 
@@ -28,13 +30,8 @@ If you are working with an Open or Select partner who is not listed please add t
 Leads that are actively being worked by the partner will be excluded from scoring. Once they are no longer being worked by the partner, they will be scored again. More details on the [scoring page](/handbook/marketing/marketing-operations/marketo/#scoring-model). 
 
 # Types of Partner Campaigns
-Each campaign has it's own ROE for lead routing and email practices. Follow the [Mural](https://app.mural.co/embed/b89f9208-e9f6-4df1-9c92-a886a5af0642) to find the type of event and the follow up that results from it. 
+Each campaign has it's own ROE for lead routing and email practices. Follow the [Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1637023136930/1fd8a497f2500ef8d7f12920d71595d0c412fa91?sender=awaller1257) to find the type of event and the follow up that results from it. 
 
-<div style="width: 600px;" class="embed-thumb">
-<div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;">
-<a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1637023136930/1fd8a497f2500ef8d7f12920d71595d0c412fa91?sender=awaller1257" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> 
-</div>
-</div>
 
 ## Passing to Vartopia and Partner Visibility
 In order for the Partner to be able to see and action the lead in Vartopia, the SFDC record must have the following fields updated. Vartopia calls SFDC every hour looking for updates to the SFDC record.
@@ -42,7 +39,12 @@ In order for the Partner to be able to see and action the lead in Vartopia, the 
 1. `Prospect Share Status` = `Sending to Partner` (set by LeanData)
 1. `Partner Prospect Status` = `Qualifying` (set by LeanData)
 
+When assigned a lead in Vartopia, the admin will receive an email alert with information about the lead and SLAs attached to it.
+
 Watch [this video](https://youtu.be/BmmiH_ctALk) for step by step instructions where partners can view, accept, reject, re-assign and convert leads to deal registration.
+
+### Partner SLAs
+(WIP - Future state) Partners have 5 business days to accept a lead once they are assigned the lead in Vartopia. After accepting, they then have 10 business days to revise the lead status before the lead is re-routed back to GitLab for follow up.
 
 ## Partner Only Campaigns - MDF funded
 These campaigns are GitLab funded via MDF, but all leads are passed to the partner. We upload these lists into our systems to be able to track pipeline from resulting Deal Registrations in Vartopia. You can find Marketo and SFDC Campaign set up [here](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
@@ -75,7 +77,6 @@ You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builde
 1. Marketo [suspends emails](/handbook/marketing/channel-marketing/partner-campaigns/#email-management) being sent from GitLab to prospect
 1. Marketo sends email alert to partner team and syncs lead to SFDC
 1. LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner` if `Partner Account` is not `NULL`. 
-1. Salesforce.com updates ???? `Sheela to update`
 1. Salesforce.com sends alert email to Partner
 1. Vartopia picks up lead and assigns to partner in Vartopia based on ID
 1. Lead/Contact fields for Partner information are automatically populated
