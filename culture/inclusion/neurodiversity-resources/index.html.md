@@ -11,6 +11,10 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 - Provide team members and managers+ resources to help provide a better team member experience for their colleagues and direct reports who identify as neurodiverse. 
 
 ## Resources for those who identify at Neurodiverse
+
+-  GitLab's Employee Assistance Program, [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/), offers resources to support team members that identify as Neurodiverse:
+    - **Digital Content**: Modern Health offers [digital resources](https://my.joinmodernhealth.com/resources) that may be helpful, such as meditations for sensory mindfulness and programs that offer strategies for focus. 
+    - **Coaching & Therapy**: GitLab Team Members have access to [coaching and therapy sessions](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/#care). Modern Health has counselors and therapist who specialize in working with people across the spectrum of neurodiversity. Any member can write into help@joinmodernhealth.com and ask for a provider with this kind of specialization (the more specific, the better).
 - [Neurodiverse is a competitive advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage)
 - [ADHD in the workplace](https://www.webmd.com/add-adhd/adhd-in-the-workplace)
 - [Free neurodiversity peer mentorships](https://www.neurodiver-city.org/)
@@ -25,6 +29,7 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 
 ## Resources for Team Members and Managers+
 
+- [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/) provides Coaching sessions for team members and managers supporting people in the Neurodiverse community. Team Members can schedule a coaching sessions via the modern health platform. Please reach out to the Total-Rewards@gitlab.com should you need any help with scheduling a session. 
 - [How to embed neurodiversity into your people management practices](https://www.hrzone.com/perform/people/how-to-embed-neurodiversity-into-your-people-management-practices)
 - [Autistic Advocacy Resources](https://autisticadvocacy.org/resources/accessibility/)
 - [Certified Neurodiverse Workplace](https://ibcces.org/certified-neurodiverse-workplace/)
