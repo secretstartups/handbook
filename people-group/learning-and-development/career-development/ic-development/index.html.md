@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Career Development for Individual Contributors at GitLan
+title: Career Development for Individual Contributors at GitLab
 description: Suggested career development pathway for individual contributors at GitLab
 ---
 
