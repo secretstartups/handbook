@@ -14,49 +14,71 @@ description: “How to configure GitLab with your Google Kubernetes cluster”
 
 After your GitLab Demo Cloud account has been created, your runners and CI jobs will use the pre-configured instance-level cluster by default. The instance-level cluster is designed to be transparent behind the scenes and does not support customization or administration and reporting capabilities as a demo systems user.
 
-You can request your own Kubernetes cluster that is provisioned in Google Cloud's Google Kubernetes Engine (GKE) service by the demo systems team. By having your own cluster, you have full administrative access to the cluster for troubleshooting CI jobs and pods that are experiencing issues.
+You can create your own Kubernetes cluster using in your own GCP project that you can provision using the [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#individual-aws-account-or-gcp-project). By having your own cluster, you have full administrative access to the cluster for troubleshooting CI jobs and pods that are experiencing issues.
 
-This tutorial shows you how to connect your cluster to your GitLab group after you are notified that your cluster is ready. You will access the Google Cloud Platform (GCP) console to see your cluster, use the Google Cloud Shell to run `kubectl` commands on your cluster, and access the GitLab Demo Cloud Omnibus instance to configure your pre-created group with a Kubernetes cluster. After your cluster has been added, we will install Helm, Prometheus and install your own GitLab Runner.
+This tutorial shows you how to create a cluster and connect it to your GitLab group. You will access the Google Cloud Platform (GCP) console to see your cluster, use the Google Cloud Shell to run `kubectl` commands on your cluster, and access the GitLab Demo Cloud Omnibus instance to configure your pre-created group with a Kubernetes cluster.
+
+For a more inutitive UI for managing your cluster resources, we recommend using [K9s](https://k9scli.io/).
+
+#### Deprecation Notice
+
+This method of connecting your cluster was deprecated in GitLab v14.5. This tutorial is preserved for educational purposes. See the [Kubernetes Agent](https://docs.gitlab.com/ee/user/clusters/agent/) documentation for the new method for connecting clusters to GitLab.
 
 #### Pre-Requisites
-* Creating and accessing your account
-* Request a Kubernetes cluster in `#demo-systems` Slack channel
+* Creating and accessing your [Demo Systems account](https://about.gitlab.com/handbook/customer-success/demo-systems/#access-shared-omnibus-instances)
+* Create a GCP project using the [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#individual-aws-account-or-gcp-project)
 
 ## Step-by-Step Instructions
 
-### Task 1. Access the Google Cloud Platform (GCP) Console (Web UI)
+### Task 1. Create a Kubernetes cluster using the Google Cloud Platform (GCP) Console (Web UI)
 
-When your cluster was provisioned by the demo systems team, you received a Slack message with a link to your newly created cluster. If you have that link available, you can open the link and skip to Task 2.
-
-If you do not have the link available, these instructions show you how to navigate the GCP console to locate your cluster.
-
+For additional assistance with accessing your GCP project, see the [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#accessing-your-gcp-project) handbook instructions.
 1. Open a **new tab or window** in your web browser.
 
 2. Visit [https://console.cloud.google.com](https://console.cloud.google.com).
 
 3. If you're not already signed in, please sign in with your GitLab email account.
 
-4. In the blue top navigation bar, locate and click on the dropdown menu to the _right_ of the `Google Cloud Platform` title. These are the projects (authentication realms) that you have access to. Click on the current project and choose `group-cs` from the list. If you do not see `group-cs` listed, please post on the `#demo-systems` channel to request access.
-
-    ![Top navigation](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-1.png)
-
-    ![Project selection](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-2.png)
+4. In the blue top navigation bar, locate the dropdown menu to the _right_ of the `Google Cloud Platform` title. These are the projects (authentication realms) that you have access to. Make sure your project (ex. `jmartin-xxxxxxxx`) is selected.
 
 5. In the blue top navigation bar, locate and click on the hamburger menu icon to the _left_ of the `Google Cloud Platform` title. These are all of the services that are available in the Google Cloud Platform. In the **Compute** section, click on **Kubernetes Engine** or **Kubernetes Engine > Clusters**.
 
-6. On the _Kubernetes clusters_ page, locate the filter bar above the table to clusters and type in your username (ex. `jmartin`). Select the default option for the `name:` filter.
+    <img src="https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-19.png"  style="width: 50%"/>
 
-7. When your cluster appears, click on the name of your cluster.
+6. On the _Kubernetes clusters_ page, click on **ENABLE** to initialize the Google API service. _This action might take take a few moments._
+
+    <img src="https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-20.png"  style="width: 75%"/>
+
+7. In the new page, click on **CREATE** then on **CONFIGURE** to the _right_ of `GKE Standard`.
+
+    <img src="https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-22.png"  style="width: 75%"/>
+
+    <img src="https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-21.png"  style="width: 50%"/>
+
+8. On the _left-hand_ menu, click on the following sections to configure your cluster:
+  - **Cluster basics**: specify your cluster name (ex. `jmartin-cluster`) and make sure to select **Zonal** as 'Location Type'.
+
+    <img src="https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-23.png"  style="width: 75%"/>
+
+  - **Node Pools -> default-pool**: specify **1** (one) for the 'Number of nodes'
+  
+    <img src="https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-24.png"  style="width: 75%"/>
+
+  - **Node Pools -> default-pool -> Nodes**: select **e2-standard-2** for the 'Machine type' (recommended)
+  
+    <img src="https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-25.png"  style="width: 75%"/>
+
+9. Click on **CREATE** on the bottom navigation bar.When your cluster appears, click on the name of your cluster.
 
     ![Cluster selection](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-3.png)
 
-8. You are now at the dashboard for your cluster. It is recommended to bookmark this page for future access.
+10. You are now at the dashboard for your cluster. It is recommended to bookmark this page for future access.
 
 ### Task 2. Obtain the Cluster CA Certificate
 
 1. Create a new file in your preferred text editor so we can copy and paste values into it for temporary reference.
 
-2. Copy and paste your cluster name (at the top of the cluster dashboard) into the text file (Ex. `demosys-us-jmartin-cluster`).
+2. Copy and paste your cluster name (at the top of the cluster dashboard) into the text file (Ex. `jmartin-cluster`).
 
 3. In your browser on the cluster dashboard in the GCP console, locate and click on the **Show credentials** link next to the Endpoint (IP address value).
 
@@ -85,7 +107,7 @@ If you do not have the link available, these instructions show you how to naviga
 4. When the Cloud Shell terminal appears, the first line will be pre-populated with a command to obtain the credentials for your cluster using role-based access control (RBAC). **Simply press the ENTER key.**
 
     ```
-    jmartin@cloudshell:~ (group-cs-9b54eb)$ gcloud container clusters get-credentials demosys-us-jmartin-cluster --zone us-central1-c --project group-cs-9b54eb
+    jmartin@cloudshell:~ (jmartin-xxxxxxxx)$ gcloud container clusters get-credentials jmartin-cluster --zone us-central1-c --project jmartin-xxxxxxxx
     ```
     ```
     Fetching cluster endpoint and auth data.
@@ -157,39 +179,15 @@ If you do not have the link available, these instructions show you how to naviga
 
 10. You have successfully obtained the credentials needed to connect your cluster from GitLab.
 
-### Task 4. Access Your Demo Cloud Account
+### Task 4. Accessing the GitLab Instance
 
-1. Open a **new tab or window** in your web browser.
-2. Visit [https://gitlabdemo.com](https://gitlabdemo.com).
-3. Sign in using your Demo Cloud SSO credentials that you created when you self-registered.
-    > It is recommended to rename your 1Password login to `Demo Cloud SSO` so it's easy to recognize.
-
-### Task 5. Accessing the GitLab Instance
-
-When your account was created, the GitLab handle that you provide is used to automatically provision a user account and organizational group (with owner permissions) on the GitLab instance that we use in our demo environment.
-
-1. On the Dashboard, you will see all of the Demo Cloud resources that you have access to.
-2. Locate the **GitLab Omnibus (US)** card (bordered section).
-    > When you created your account on gitlabdemo.com, your account on the Demo Cloud GitLab instance was automatically created using the GitLab handle that you chose and the same password as you used for gitlabdemo.com.
-
-    ![GitLab Omnibus Card](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/creating-accessing-your-account-1.png)
-
-3. Click on the **My Group Button**. A new tab or window will appear with the GitLab instance.
-
-4. If you are redirected to a login screen, please use your Demo Cloud SSO credentials in 1Password.
-    > It is recommended to add the URL of the GitLab Omnibus instance as a website on your existing 1Password record for Demo Cloud SSO.
-
-5. After logging in, you will see your group.
-
-    ![Group Dashboard](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/accessing-group-creating-projects-1.png)
-
-6. You can always access your group from the top navigation by selecting **Groups > Your Groups** and expanding the **Demo Systems Users** parent group to see your group name.
-
-    ![Group Top Nav](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/accessing-group-creating-projects-3.png)
+See the [demo systems handbook page](https://about.gitlab.com/handbook/customer-success/demo-systems/#access-shared-omnibus-instances) instructions for accessing the GitLab Omnibus instance.
 
 ### Task 6. Add Kubernetes Cluster to GitLab Group
 
-1. In the left side bar, locate and click on **Kubernetes**.
+> It is imperative that you configure the cluster inside of your own group and not from the Admin section. If you make changes in the Admin section, this will cause breaking changes for the entire team. Please be mindful of the admin privileges that your account has for demo purposes.
+
+1. In the left side bar for your group (ex. `Jeff Martin`), locate and click on **Kubernetes**.
 
 2. On the Kubernetes page, you will see a list of clusters that are available. If you have not added a group cluster, this should only show instance clusters.
 
@@ -202,7 +200,7 @@ When your account was created, the GitLab handle that you provide is used to aut
 5. In the form fields, use the following values and copy and paste the appropriate values from your text editor file.
 
     ```
-    Kubernetes cluster name:     (copy/paste - ex. demosys-us-jmartin-cluster)
+    Kubernetes cluster name:     (copy/paste - ex. jmartin-cluster)
     Environment scope:           *
     API URL:                     (copy/paste - ex. https://35.239.222.203)
     CA Certificate:              (copy/paste)
@@ -212,61 +210,8 @@ When your account was created, the GitLab handle that you provide is used to aut
     ```
 
 6. Click **Add Kubernetes cluster**.
-    > If you are adding your cluster to many GitLab projects, flag **GitLab-managed cluster** just on the first integration.
 
     ![Cluster form example](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-9.png)
-
-### Task 7. Install One-Click Applications on Cluster
-
-1. On the newly created cluster page, click the **Applications** tab.
-
-2. Locate _Prometheus_ and click the **Install** button. Please wait a few moments for this to complete.
-
-3. Locate _GitLab Runner_ and click the **Install** button. Please wait a few moments for this to complete.
-
-    ![Installed applications](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-14.png)
-
-4. At the top of the page, click on the **Health** tab for your cluster.
-
-5. Take a few moments to understand the metrics that are available from Prometheus. If you experience errors with your cluster, you can understand if it's related to CPU and Memory saturated using Prometheus.
-
-    ![Installed applications](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-15.png)
-
-### Task 7. Review the runner configuration
-
-1. In the left sidebar of your group, navigate to **Settings > CI/CD**.
-
-2. In the _Runners_ section, click the **Expand button**.
-
-3. Scroll down and locate the **Available group runners** section.
-
-    ![Runner in GitLab](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-10.png)
-
-4. **Click on the title** for the available runner.
-
-5. You can review the details of the runner including the version of the runner.
-
-6. For any future CI jobs in your group's projects, the Kubernetes runner will be used.
-
-7. **Switch to the GCP console tab** in your browser, and click **Workloads** in the left sidebar, and adding the name of your cluster to the filter bar.
-
-8. You will see the runner pod listed.
-
-    ![Pods in GKE](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-11.png)
-
-### Task 8. Review the cluster performance
-
-1. From the list of workloads, click on the name of your cluster in the table to link to your cluster.
-
-2. Click the **Nodes** tab at the top of the page, then click the name of the node(s) listed.
-
-3. You will see a dashboard for this node with the pods that are running and the resources being used.
-
-    ![Node Details](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-12.png)
-
-4. Please keep in mind that there are ~15 pods in the `kube-system` namespace that Kubernetes uses for management of the cluster and you should not delete them.
-
-5. If you run into errors about no pods available or resource constraints, you should visit your nodes and look for review apps that were created a long time ago and delete those pods to make space for new pods, or look at using lifecycle policies in your CI file.
 
 ## Review
 
