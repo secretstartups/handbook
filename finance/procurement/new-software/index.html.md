@@ -22,7 +22,12 @@ title: New software
 ## How Do I Submit a Request to Purchase New Software?
 - Once you've chosen your software vendor and have followed the Bid Requirements per above follow these instructions:
 1. [Login to Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
-2. Go to the "Forms and Quick Links" section on Home screen, click on "Request a New Supplier", complete the required fields and click "Review".
+2. Submit a New Supplier Request Form following below steps or [video](https://www.loom.com/share/16555efd968945d5b19b578a7c54afff) instruction: 
+- Go to the "Forms and Quick Links" section on Home screen;
+- Click on "Request a New Supplier" button and complete the required fields;
+- Click "Review";
+- Scroll down and check if no duplicates were found (field "Duplicates exist);
+- If No Duplicates found click "Submit for Approval"
     - Allow 1-2 business days for processing.
 3. Once your New Supplier is entered into the system, click on "Write a Request" in the upper right, under the search bar.
 4. Enter the required Fields and "Add to Cart"
@@ -37,10 +42,13 @@ title: New software
 
 ## What Happens after I submit my Request?
 - The Coupa Req will appear as "Pending Buyer Action", this means it is under review from the procurement team. 
-    - If the contract requires negotiation, the req will stay in “Pending Buyer Action” status and a "Negotiation" Label will be added to the Coupa Req. 
+Procurement Team will keep the Req with "Pending Buyer Action" if:
+    - The contract is under Negotiation;
+    - There is no documentation attached in the Req;
+    - The Vendor didn't complete the Onboarding process.
         - Within 1-2 business days a member of the procurement team will either reach out a-sync, and/or schedule a meeting to review depending on the complexity.
-    - If your contract does not require negotiation, the Procurement team will review for accuracy and if questions will ping you directly in the Coupa request.
-- Once neotiation is completed and/or it is determined that negotiation is not needed, your purchase request will be approved by procurement and will advance to the next approver, which is typically fp&a. 
+- If your contract does not require negotiation, the Procurement team will review for accuracy and if questions will ping you directly in the Coupa request.
+- Once negotiation is completed and/or it is determined that negotiation is not needed, your purchase request will be approved by procurement and will advance to the next approver, which is typically fp&a. 
 
 ## How Long Does it take to get my New Software Purchase Approved?
 - All software contracts greater than $25K will be negotiated by the procurement team. 
