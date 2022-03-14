@@ -55,11 +55,9 @@ _we've identified some prerequisites that must be complete before pursuing a rec
     1. Alex Martin 
 
 ### Path 2 (2022-02-18 > 2022-03-04) - 2 weeks
-1. Document gaps between current self-service capabilities and ideal future state
+1. Develop a feature matrix with a prioritized list of features we'd want in our future state and evaluate cost to build them ourselves, whether available in vendor options, and cost to integrate each vendor. 
     1. Kazem Kutob
     1. Omar Fernandez
-    1. Jerome Ng
-1. Document risks or blockers to delivering ideal future-state basedon our existing architecture
     1. Jerome Ng
 1. Vendor asessment - how would it plug into our systems
     1. Bryan Wise
