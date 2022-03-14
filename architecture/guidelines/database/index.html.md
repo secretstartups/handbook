@@ -35,7 +35,7 @@ We use a relational database (PostgreSQL) as the primary metadata storage engine
 
 ## Considerations
 
-Four basic questions have to answer before to determine the appropriate database:
+Four basic questions have to be answered to determine the appropriate database:
 
 1. What kind of code base comprises the application?
 1. What kind of data does the application need to store?
