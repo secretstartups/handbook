@@ -145,8 +145,8 @@ When creating an individual/bulk access request, use the following information:
 
 * [license decoder](https://gitlab.com/gitlab-com/support/toolbox/license-decoder)
   -- Ruby script to decode `.gitlab-license` files.
-* [slic - Subscription and License Information Copier](https://gitlab.com/rverschoor/slic/)
-  -- browser extension to copy and format CustomerDot and LicenseDot information
+* [slic - Subscription and License Information Copier](https://gitlab.com/rverschoor/punk/-/tree/main/slic)
+  -- browser userscript to copy and format CustomerDot information
   into internal notes.
 
 ### Teams you'll be working with
