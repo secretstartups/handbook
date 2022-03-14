@@ -449,7 +449,14 @@ The CEO and the [Learning & Development](/handbook/people-group/learning-and-dev
 1. Solicit feedback on the MR with the [L&D team](/handbook/people-group/learning-and-development/#ld-organization) and CEO in the CEO channel
 1. Make additional MR's to the specific page if necessary
 
+##### Earnings Call Prep Webinars
+{:.no_toc}
 
+Earnings prep webinars differ from other meetings on the CEO calendar as shadows should be added to the webinar as a participant using their invdividual GitLab team member email address vs. joining using the CEO's link. If you have not received an invite to an Earnings Prep Webinar on your individual calendar, please reach out to the [EBAs](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/) on Slack
+
+##### Earnings Call
+{:.no_toc}
+CEO Shadows should join earnings calls via the registration [link open to the public](https://ir.gitlab.com/news-events/events). Do not join the earnings call via the CEO's calendar.
 
 #### Removing yourself from personal CEO documents
 
