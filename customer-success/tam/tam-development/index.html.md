@@ -31,11 +31,11 @@ As a Technical Account Manager, it is essential to understand what resources are
 
 - [GitLab's Learning Experience Platform](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/), [GitLab Learn](https://gitlab.edcast.com/?fromLogin=true). We are building courses to upskill, reskill, and grow team member skills. If you have ideas about a course you'd like to develop, consider checking out the [Learning Evangelist Learning Path](https://gitlab.edcast.com/pathways/learning-evangelist-training).
 
-#### Chorus Playlist
+### Chorus Playlist
 
 - [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best TAM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices. 
 
-#### LinkedIn Learning
+### LinkedIn Learning
 
 [Handbook details about LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/).
 
@@ -50,6 +50,24 @@ Recommended courses:
 
 We also have a list of [Recommended Learning Paths](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/#recommended-learning-paths).
 
+### How PS Technical Instructors Teach Technical Concepts
+
+These are videos of actual 8-hour courses given live to customers by GitLab's Education Services department. These are good examples of how to present technical concepts in a structured format.
+
+> The Education Services team is working on shorter, edited versions of these class videos. They'll replace these links with the edited versions when they're available. For now just fast-forward through labs and breaks in these unedited class recordings.
+
+- GitLab with Git Basics - presented by Chris Cowell
+  - [Part 1](https://drive.google.com/file/d/1HHjUVuDNVal2Mg2-1CYga7rH5466UF2P/view?usp=sharing)
+  - [Part 2](https://drive.google.com/file/d/1koyQSyfZkCJzLKLkwi1anzrdaquEmH2s/view?usp=sharing)
+- CI/CD - presented by Nick Lotz
+  - [Part 1](https://gitlab.zoom.us/rec/share/NtTQqjbpgj8w5ZiIMZ5mAKGpQydWPRrT6E4TBgo0RFAb7BkE3kDOlRHX5CpYRNT8.ny2ZlrustZRHrZU-) use access code `3Qc@@JGl` 
+  - [Part 2](https://gitlab.zoom.us/rec/share/ijqTagykCcWkdrIPptzoTQSykGRqa-vjfV68Fb36tkNssUTPHKTZndzUyzpdJPlq.uMhWsdWCkt05J4nu?startTime=1638294587000) use access code `1&v0^X?8`
+- Security Essentials - presented by Chris Cowell
+  - [Part 1](https://drive.google.com/file/d/1uwC_QgZxLaCg4bWZ_DhzeT_dgS-ncgFF/view?usp=sharing)
+  - [Part 2](https://drive.google.com/file/d/1hZ9CScv-U2GgDRykMHRbh_3N-g5BVR-K/view?usp=sharing)
+- GitLab for Project Managers - presented by Nick Lotz and Chris Cowell
+  - [Part 1 and Part 2](https://gitlab.zoom.us/rec/share/r4IPil5j2ASi0-HMTjHJpZwlBFrPvbWU49CbcxML0OGTmvmqJrsBdFI3h5VBmi3N.LHCFoHc4a8pOqVWE) use access code `!LUr$3zD`
+  
 ### Soft skills
 - [Developing your Emotional Intelligence](https://www.linkedin.com/learning/developing-your-emotional-intelligence/benefits-of-building-emotional-intelligence)
 - [Leading with Emotional Intellignece](https://www.linkedin.com/learning/leading-with-emotional-intelligence-3/lead-with-emotional-intelligence)
