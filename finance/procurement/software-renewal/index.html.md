@@ -18,19 +18,23 @@ title: Software renewals and add-on
     - This ensures alignment across the multiple functions to make good-faith commitments to vendors and don’t put our company in to possible risk.
 
 ## How Do I Submit a Request to Renew/Add-On to my Agreement?
+Please follow the [video](https://www.loom.com/share/d63bd25ca50a40bea630ed82a742aac0) instruction or below steps to submit a req:
 1. [Login to Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
-1. Under "Forms", select "Software Renewal Request" and complete the required fields.  
+1. Under "Forms", select "Software Renewal Request", complete the required fields and click "Submit".
 1. Click on your Cart in the upper right, complete remaining fields. Be prepared to include the following:
     - Whether or not the software will have access to [red and/or orange data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-levels) 
     - All data and systems the vendor will have access to 
         - Failure to complete this field will delay the review and approval of your request.
     - Vendor’s Security Contact Email (oftentimes this is different from the main contact. Providing the head of security contact info from the vendor’s company will expedite the security review and avoid delays)
-    - Upload any contracts you've received.
+    - Upload any contracts you've received (lack of the contract will delay the approval process).
     - Click "Submit for Approval"
 
 ## What Happens after I submit my Request?
 - The Coupa Req will appear as "Pending Buyer Action", this means it is under review from the procurement team. 
-    - If the contract requires negotiation, the req will stay in “Pending Buyer Action” status and a "Negotiation" Label will be added to the Coupa Req. 
+Procurement Team will keep the Req with "Pending Buyer Action" if:
+    - The contract is under Negotiation;
+    - There is no documentation attached in the Req;
+    - The Vendor didn't complete the Onboarding process. 
         - Within 1-2 business days a member of the procurement team will either reach out a-sync, or schedule a meeting to review, depending on the complexity.
     - If your contract does not require negotiation, the Procurement team will review for accuracy and if questions will ping you directly in the Coupa request.
         - Allow 1-2 business days for review and processing.
