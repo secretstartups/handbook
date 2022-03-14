@@ -1,21 +1,21 @@
 ---
 layout: handbook-page-toc
 
-title: "GitLab Security Essentials Hands-On Guide: Lab 3"
+title: "GitLab Security Essentials<br/>Hands-On Guide: Lab 3"
 description: "This Hands-On Guide walks you through the lab exercises used in the GitLab Security Essentials course."
 ---
-# GitLab Security Essentials Hands-On Guide: Lab 3
 {:.no_toc}
 
 ## LAB 3: Enable, configure, and run Container Scanning
 
-### Setup
+
+### A. Setup
 
 1. Return to the **Security Labs** project you used in the other labs.
 1. **OPTIONAL:** Follow the instructions at the start of [Lab 2](secessentialshandson2.html) for speeding up your pipeline by disabling scanners that you enabled in previous labs.
 
 
-### Add a `Dockerfile`
+### B. Add a `Dockerfile`
 
 A Dockerfile is a "recipe" that tells Docker how to assemble your application into a Docker image. You'll write a `Dockerfile` that installs your single-file Python application onto an Ubuntu 18.04 Docker image, and then packages that whole stack into a new Docker image.
 
@@ -44,7 +44,7 @@ A Dockerfile is a "recipe" that tells Docker how to assemble your application in
 1. Add a commit message and click **Commit changes**.
 
 
-### Build the Docker image
+### C. Build the Docker image
 
 In this section you will define a job that builds a Docker image.
 
@@ -91,7 +91,7 @@ To build a Docker image with a CI/CD pipeline job, you must use a GitLab Runner 
     ```
 
 
-### Push the Docker image to your project's container registry
+### D. Push the Docker image to your project's container registry
 
 1. Your job needs to log in to the project's container registry so it can push your image to it. Add this line to the bottom of the `script` section of the `build-and-push-docker-image` job:
 
@@ -100,6 +100,7 @@ To build a Docker image with a CI/CD pipeline job, you must use a GitLab Runner 
     ```
 
 1. Your job can push the image with a single Docker command. Add this to the bottom of the `script` section of the job definition:
+
     ```yml
        - docker push $IMAGE
     ```
@@ -121,16 +122,15 @@ To build a Docker image with a CI/CD pipeline job, you must use a GitLab Runner 
     ```
 
 1. Commit the changes to `.gitlab-ci.yml` with an appropriate commit message.
-
 1. When the pipeline finishes running, verify that your job created a new Docker image and pushed it into the project's container registry: in the left navigation pane, click **Packages & Registries > Container Registry**.
 
 
-### Enable Container Scanning
+### E. Enable Container Scanning
 
 Now that your Docker image is being built and pushed, you can enable Container Scanning.
 
 1. Add the Container Scanning template to the existing `include:` section of `.gitlab-ci.yml`:
-
+   
     ```yml
        - template: Security/Container-Scanning.gitlab-ci.yml
     ```
@@ -139,7 +139,7 @@ Now that your Docker image is being built and pushed, you can enable Container S
 1. Wait for the pipeline to finish running.
 
 
-### View the results
+### F. View the results
 
 1. See if the Container Scanner found any problems with the old Ubuntu base image by looking at either the **Vulnerability Report** or the **Security** tab in the pipeline details page.
 
