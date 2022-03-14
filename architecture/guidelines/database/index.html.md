@@ -46,7 +46,7 @@ The answers to the first three questions are likely known in advance, since they
 
 ## Default answer: the main Postgres database
 
-Traditionally, the default answer has been to use our main database (PostgreSQL). However, we are probably at a point where this can no longer be the case, primarily for two reasons:
+Traditionally, the default answer has been to use our main database (PostgreSQL). However, we are probably at a point where this can no longer be the case, primarily for three reasons:
 
 1. We have to carefully manage load on the main database for GitLab.com, particularly in terms of transaction rates, connections, and memory utilization, to ensure availability.
 1. The product ecosystem is evolving in a varied fashion through integrations of existing technology stacks, and we are coming upon more specialized data needs.
