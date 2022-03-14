@@ -58,7 +58,7 @@ In general, if the codebase is part of the main RoR application, more than likel
 
 Due to scalability concerns, we are currently executing the first [functional decomposition](https://gitlab.com/groups/gitlab-org/-/epics/6168) of the main database by moving the [CI tables](https://gitlab.com/groups/gitlab-org/-/epics/6167) to a separate cluster. Although the CI related code base is part of the main RoR application, the CI tables account for \~40% of the overall size and roughly 50% of writes of the main database. Data coupling with the rest of the database is relatively loose, so we are able to ensure data consistency between the two databases while making minimal changes and iterating on new techniques that we build ([Loose Foreign Keys](https://docs.gitlab.com/ee/development/database/loose_foreign_keys.html)).
 
-In general, a separate cluster will only be supported if the size of the dataset and its corresponding transaction rate requirements are large enough to merit the cost of operating it and the added complexity of developing code to support it. Initially, this will likely reside in separate logical database as part of the main cluster.
+In general, a separate cluster will only be supported if the size of the dataset and its corresponding transaction rate requirements are large enough to merit the cost of operating it and the added complexity of developing code to support it. Initially, this will likely reside in a separate logical database as part of the main cluster.
 
 ## Other use cases
 
