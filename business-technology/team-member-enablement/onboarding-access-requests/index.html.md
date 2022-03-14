@@ -58,73 +58,65 @@ Your manager will then forward their approval to Accounting for final approval a
 
 Should a laptop not be available to a new GitLab team-member upon their start date, but is pending, interim options include:
 
-    - Using personal non-windows hardware (mac, linux, mobile)
-    - Renting and expensing non-windows hardware
+    - Using personal non-Windows hardware (Mac, Linux, Mobile)
+    - Renting and expensing non-Windows hardware
     - Purchasing and expensing (or returning) a Chromebook
 
 If in the rare case that your laptop arrives damaged or unusable prior to your start date, please reach out to your Candidate Experience Specialist and CC [itops@gitlab.com](mailto:itops@gitlab.com) for next steps on an immediate replacement or repair.
 
 ### Laptop Configurations
 
-GitLab approves the use of Apple and Linux operating systems, Windows is prohibited.
-The prohibition on Microsoft Windows is for the following reasons:
+GitLab approves the use of Linux, and Apple's macOS. Microsoft Windows is prohibited for the following reasons:
 
-- While there has been security issues with all operating systems, due to the popularity of the Windows operating system it is the main platform targeted by attackers with spyware, viruses, and ransomware.
-- macOS is pre-loaded onto Apple hardware.
-    Linux is free.
-    To take advantage of the features in Windows as a business, GitLab would have to purchase Windows Pro licensing as these business features are not available on Windows Home Edition.
+- Due to Microsoft Windows' [dominance in desktop operating systems](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Desktop_and_laptop_computers), Windows is the platform most targetted by spyware, viruses, and ransomware.
+- macOS is preinstalled on Apple computers and Linux is available free of charge. To approve the use of Windows, GitLab would have to purchase Windows Professional licenses, as Windows Home Edition does not satisfy [GitLab's security guidelines](https://about.gitlab.com/handbook/security/).
+
+
     As many purchases of laptops have occurred with employees making the purchases and then being reimbursed by GitLab, a remote employee would typically be making a purchase of a laptop pre-loaded with Windows Home Edition.
 - Windows Home Edition is notoriously [hard to secure](https://www.markloveless.net/blog/2019/1/15/dealing-with-windows-10).
 
-Further information on GitLab authorized operating systems, versions, and exception process is available on the [Approved OS's](/handbook/security/approved_os.html) page.
+Further information on GitLab authorized operating systems, versions, and exception process is available on the [Approved OSs](/handbook/security/approved_os.html) page.
 
 The operating system choices have obviously affected the hardware selection process.
 
-Apple hardware is the common choice for most GitLab team-members, but if you are comfortable using and self-supporting yourself with Linux (Ubuntu usually) you may also choose from the Dell builds below.
+Apple hardware is the common choice among GitLab team members. Team members may also select a Dell Linux laptop if they are familiar with Linux and capable of self-support.
 
 NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased Apple products only. Apple does **not** have an employee discount program for GitLab at this time.
 
 ##### Apple Hardware
 
-- Macbook Pro - 14" M1 Max 10-Core CPU /24-core GPU / 32GB / 512GB - **Performance model**
-- Macbook Pro - 16" M1 Max 10-Core CPU /24-core GPU / 32GB / 512GB or 1TB/ - **Performance model**
-- MacBook Pro - 16”  / 512 SSD / 32 RAM / i9 or i7 Intel CPU - **Legacy performance model** - Limited supply, we may offer this model depending on availability the new M1 Max model. 
+- Macbook Pro 14" and 16" - M1 Max / 10-Core CPU / 24-core GPU / 32GB Unified memory / 512GB or 1TB storage. **Performance model**
+- MacBook Pro 16” - Intel i7 or i9 / 512 SSD / 32 RAM - **Legacy performance model** - Limited supply; we may offer this model depending on availability the new M1 Max model. 
 - Macbook Pro - 13" / M1 / 16Gb / 512GB - **Standard model**
 
-Most roles that require higher performance machines are approved for a 14" or 16" MacBook Pro M1 Max model. Please see this [spreadsheet](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit?usp=sharing) (public) to locate your department group and determine which machine you are eligible for. 
+Most roles that require higher performance machines are approved for a 14" or 16" MacBook Pro M1 Max. Please see this [spreadsheet](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit?usp=sharing) (public) to locate your department group and determine which machine you are eligible for. 
 
 
 ##### Linux Hardware
 
-Please only request a Linux laptop if you have experience with this operating system and its requirements, all others, select a MacBook.
+IT strongly encourages team members to select Macs; please only request a Linux laptop if you are experienced in Linux and capable of self-support.
 {: .alert .alert-info}
 
-We strongly encourage Macs, but we do allow Linux if you are capable of self-support and updates.
+-  \*\* Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, and Digital Production are elibible for Dell Precision Mobile Workstation laptops from the 5500 or 5700 lines. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [16” display / 512 GB SSD / 32 GB of RAM / Intel i9 or i7 CPU](https://www.dell.com/en-us/work/shop/laptops/new-15-5560-workstation/spd/precision-15-5560-laptop).  
+- Everyone else is eligible for laptops from the Dell Latitude 7300 line. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [13” display / 256 GB SSD / 16 GB of RAM / Intel Quad-Core i5 CPU](https://www.dell.com/en-us/work/shop/laptops/13-7300/spd/latitude-13-7300-laptop)
 
--  \*\* For Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production (Dell/Linux) - The 5500 or 5700 Precision Mobile Workstation lines. Due to supply constraints, individuals may get different models from these lines. IT will work with each person to find an available model: [16”  / 512gig SSD / 32gig RAM / i9 or i7 CPU ](https://www.dell.com/en-us/work/shop/laptops/new-15-5560-workstation/spd/precision-15-5560-laptop) 
 
-- Everyone Else (Dell/Linux) - The 7300 Latitude  line. Due to supply constraints, individuals may get different models from this line. IT will work with each person to find an available model: [13” / 256gig SSD / 16gigs RAM / Quad-Core i5 CPU](https://www.dell.com/en-us/work/shop/laptops/13-7300/spd/latitude-13-7300-laptop)
+\*\*NOTE: The maximum price of Linux laptops is not to exceed **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model minimum 14 days, based on your locality, prior to your desired date to receive.
 
-\*\*NOTE: Max price: **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model minimum 14 days, based on your locality, prior to your desired date to receive.
+Our **only approved Linux laptop vendor at this time is Dell**. These laptops generally come pre-loaded with Ubuntu Linux in order to save money on unused Windows licenses. Dell do not currenty sell laptops pre-installed with Linux in Australia and New Zealand; staff will need to install Linux themselves.
 
-For Linux laptops, our **only approved laptop provider at this time is Dell** which generally comes pre-loaded with Ubuntu Linux,(to save money by not purchasing a Windows license). Dell in Australia and New Zealand are unable to currrently pre load with Ubuntu Linux, so staff will need to install Linux onto the devices once they've been received.
+Dell is GitLab's exclusive Linux vendor for the following reasons:
 
-The reasons for using Dell for a Linux laptop are as follows:
-
-- There are several manufacturers of laptop systems that offer Linux, but Dell is the only major manufacturer that has done so for years, and it has already worked out shipping issues for all of the countries where GitLab employees live.
-
+- Dell has the longest history of shipping laptops with Linux pre-installed among major manufacturers.
+- Dell is able to ship laptops to all countries in which GitLab employees live.
 - As we move forward with Zero Trust networking solutions, we need to have a stable and unified platform for deployment of software components in the GitLab environment.
     Standardization on a single platform for Linux simplifies this.
+- The current Ubuntu LTS is the preferred Linux platform; Ubuntu LTS has a record of stability and quick patching.
+- Purchasing laptops from a single vendor opens the possibility of corporate discounts.
+- [Dell is a certified Ubuntu vendor](https://certification.ubuntu.com/desktop/models?query=&category=Desktop&category=Laptop&level=&release=18.04+LTS&vendors=Dell) with multiple laptop choices available. They even have their own Ubuntu OEM release of Ubuntu they maintain, and as a result of their effort, the standard Ubuntu 18.04 LTS image natively supports Dell hardware and even firmware updates.
+- To date, all of Dell's major security issues have resulted from the Windows operating system, not their hardware.
 
-- Ubuntu 18.04 LTS is the preferred platform due to both stability and an extremely fast patch cycle - important for security patches.
-
-- There are opportunities for corporate discounts in the future if we can concentrate purchases from a single vendor.
-
-- Dell is a [certified Ubuntu vendor](https://certification.ubuntu.com/desktop/models?query=&category=Desktop&category=Laptop&level=&release=18.04+LTS&vendors=Dell) with plenty of laptop choices available. They even have their own Ubuntu OEM release of Ubuntu they maintain, and as a result of their effort, the standard Ubuntu 18.04 LTS image natively supports Dell hardware and even firmware updates.
-
-- To date, all of Dell's security issues have involved their use of Windows, not their hardware.
-
-Laptops are purchased by IT Ops when a team-member comes on board; the team-member will be sent a form to fill out for ordering.
+Laptops are purchased by IT Ops during a team member's onboarding process; the team-member will be sent a form to fill out for ordering.
 
 ### Laptop Vendor Selection Criteria
 
